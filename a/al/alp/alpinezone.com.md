@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419002949id_/http%3A//www.alpinezone.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118000839id_/http%3A//www.alpinezone.com/privacy.htm) for the most accurate reproduction.*
 
 # AlpineZone.com Disclaimer and Terms of Use
 
@@ -7,89 +7,89 @@
 **[ Latest Headlines](http://news.alpinezone.com/) **[](http://rss.alpinezone.com/news.php)  
   
 ---  
- [Sugarbush's New &quot;Fancy Pass&quot; Grants All Access, All the Time...](http://news.alpinezone.com/53485/)  
-   12:46 PM \- Apr 8, 2009   
+ [Stowe's Mt. Mansfield Ski Patrol Turns 75...](http://news.alpinezone.com/70386/)  
+   3:04 PM \- Jan 15, 2010   
   
- [Hunter Mountain to host a Bar Mitzvah &quot;Mitzvah&quot; project SKI-A-THON...](http://news.alpinezone.com/53353/)  
-    2:08 PM \- Apr 6, 2009   
+ [Gunstock Collecting for the Haitian Relief Effort over MLK Weekend...](http://news.alpinezone.com/70385/)  
+    3:03 PM \- Jan 15, 2010   
   
- [Bumpin' it Old School...](http://news.alpinezone.com/52491/)  
-    11:14 AM \- Mar 25, 2009   
+ [Ski for Support, Ride for Relief: Help Hunter Help Haiti...](http://news.alpinezone.com/70384/)  
+    3:03 PM \- Jan 15, 2010   
   
- [Bud Light Bear Mountain Mogul Challenge Turns up the Heat April 4-5...](http://news.alpinezone.com/52486/)  
-    10:28 AM \- Mar 25, 2009   
+ [Gunstock to Host Premiere Ski Race for Disabled Skiers...](http://news.alpinezone.com/70383/)  
+    3:02 PM \- Jan 15, 2010   
   
- [Ski Sundown's S7 Bump or Bust III Mogul Competition a Huge Success...](http://news.alpinezone.com/52433/)  
-    8:17 PM \- Mar 24, 2009   
+ [Okemo Adds New Terrain Park...](http://news.alpinezone.com/70382/)  
+    3:00 PM \- Jan 15, 2010   
   
- [Local Stratton Riders Make a Splash at the 27th U.S. Open Snowboarding Championships...](http://news.alpinezone.com/52429/)  
-    7:52 PM \- Mar 24, 2009   
+ [Purchase a Helmet During Safety Awareness Week, Ski Free at Killington...](http://news.alpinezone.com/70380/)  
+    2:59 PM \- Jan 15, 2010   
   
- [Wildcat Early 09/10 Season Pass Rates Announced; Lower Price &amp; Rest-Of-Season Offer...](http://news.alpinezone.com/52428/)  
-    7:50 PM \- Mar 24, 2009   
+ [January Will be Jamming at Belleayre...](http://news.alpinezone.com/70379/)  
+    2:57 PM \- Jan 15, 2010   
   
- [Jay Fire Department Wins 19th Annual Firefighters' Giant Slalom Race at Sunday River...](http://news.alpinezone.com/52427/)  
-    7:49 PM \- Mar 24, 2009   
+ [Sunday River and Sugarloaf Announce Second Annual Downtown Showdown Urban Rail Jam...](http://news.alpinezone.com/70378/)  
+    2:57 PM \- Jan 15, 2010   
   
- [Celebrate Spring for $25 Midweek at Gunstock...](http://news.alpinezone.com/52426/)  
-    7:49 PM \- Mar 24, 2009   
+ [Winter Sleigh Rides Now at Gunstock...](http://news.alpinezone.com/70377/)  
+    2:57 PM \- Jan 15, 2010   
   
- [Gunstock Adaptive Ski Program's Annual Fundraiser is Huge Success...](http://news.alpinezone.com/52425/)  
-    7:48 PM \- Mar 24, 2009   
+ [Mount Snow Rail Jam to Raise Money for Twin Valley High School Snowboard Team...](http://news.alpinezone.com/69777/)  
+    11:52 AM \- Jan 5, 2010   
   
   
   
 **[ Recent Discussions](http://forums.alpinezone.com/) **[](http://rss.alpinezone.com/forums.php)  
   
 ---  
- [Lance Armstrong's Ki...](http://forums.alpinezone.com/showthread.php?t=54089&goto=newpost)  
-   3:12 PM \- Apr 18, 2009   
-    by thinnmann  
+ [Pat's Peak - 1.17.10...](http://forums.alpinezone.com/showthread.php?t=70484&goto=newpost)  
+   6:06 PM \- Jan 17, 2010   
+    by gmcunni  
   
   
- [Middlebury Snow Bowl...](http://forums.alpinezone.com/showthread.php?t=54097&goto=newpost)  
-    6:14 PM \- Apr 18, 2009   
-    by loafer89  
+ [Cannon day care - ve...](http://forums.alpinezone.com/showthread.php?t=70445&goto=newpost)  
+    11:05 PM \- Jan 16, 2010   
+    by New Daddy  
   
   
- [Eastern Cat Skiing -...](http://forums.alpinezone.com/showthread.php?t=54083&goto=newpost)  
-    11:22 AM \- Apr 18, 2009   
-    by BushMogulMaster  
+ [Ragged Mountain 1/17...](http://forums.alpinezone.com/showthread.php?t=70481&goto=newpost)  
+    5:10 PM \- Jan 17, 2010   
+    by deadheadskier  
   
   
- [MTB this weekend? 4/...](http://forums.alpinezone.com/showthread.php?t=53999&goto=newpost)  
-    8:13 AM \- Apr 17, 2009   
-    by o3jeff  
+ [Crotched Mtn - 1/17/...](http://forums.alpinezone.com/showthread.php?t=70485&goto=newpost)  
+    6:18 PM \- Jan 17, 2010   
+    by speden  
   
   
- [How Many Times, Did...](http://forums.alpinezone.com/showthread.php?t=54050&goto=newpost)  
-    11:08 PM \- Apr 17, 2009   
-    by Rambo  
+ [Magic - MLK Monday J...](http://forums.alpinezone.com/showthread.php?t=70472&goto=newpost)  
+    11:57 AM \- Jan 17, 2010   
+    by billski  
   
   
- [Word Association Thr...](http://forums.alpinezone.com/showthread.php?t=8966&goto=newpost)  
-    2:13 PM \- Jun 22, 2006   
-    by Greg  
+ [MLK Sunday / Monday...](http://forums.alpinezone.com/showthread.php?t=70326&goto=newpost)  
+    10:15 PM \- Jan 14, 2010   
+    by WJenness  
   
   
- [What are you doing r...](http://forums.alpinezone.com/showthread.php?t=26192&goto=newpost)  
-    7:21 PM \- Mar 29, 2008   
-    by severine  
+ [First time skiing si...](http://forums.alpinezone.com/showthread.php?t=70438&goto=newpost)  
+    5:51 PM \- Jan 16, 2010   
+    by Warp Daddy  
   
   
- [Honda CRV v. Toyota...](http://forums.alpinezone.com/showthread.php?t=54094&goto=newpost)  
-    4:10 PM \- Apr 18, 2009   
-    by highpeaksdrifter  
+ [Blue Mountain 1/16/2...](http://forums.alpinezone.com/showthread.php?t=70465&goto=newpost)  
+    8:43 AM \- Jan 17, 2010   
+    by RootDKJ  
   
   
- [killington 4-19...](http://forums.alpinezone.com/showthread.php?t=54088&goto=newpost)  
-    3:12 PM \- Apr 18, 2009   
-    by powhunter  
+ [Busted - Getting bac...](http://forums.alpinezone.com/showthread.php?t=70370&goto=newpost)  
+    1:01 PM \- Jan 15, 2010   
+    by billski  
   
   
- [Sugarbush Sunday 4-1...](http://forums.alpinezone.com/showthread.php?t=53943&goto=newpost)  
-    2:05 PM \- Apr 16, 2009   
-    by powhunter  
+ [Major Hunter BS...](http://forums.alpinezone.com/showthread.php?t=70442&goto=newpost)  
+    7:09 PM \- Jan 16, 2010   
+    by catskillman  
   
   
    
