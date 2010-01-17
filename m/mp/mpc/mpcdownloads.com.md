@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpcdownloads.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116032220id_/http%3A//www.mpcdownloads.com/index.php%3Fpage%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpcdownloads.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117193217id_/http%3A//www.mpcdownloads.com/index.php%3Fpage%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
 # MPC Download Center - Counter Strike Hacks, Maple Story Hacks, Battlefield 2 Hacks, Gunbound Hacks - Privacy Policy
 
