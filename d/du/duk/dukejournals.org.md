@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dukejournals.org privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502110936id_/http%3A//www.dukeupress.edu/aboutus/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dukejournals.org privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117202938id_/http%3A//www.dukeupress.edu/aboutus/privacy.shtml) for the most accurate reproduction.*
 
 # About us: Duke University Press
 
-[](https://web.archive.org/web/20090502110936id_/http%3A//www.dukeupress.edu/aboutus/mission.shtml)  
-[](https://web.archive.org/web/20090502110936id_/http%3A//www.dukeupress.edu/contactus/staff.shtml)  
-[](https://web.archive.org/web/20090502110936id_/http%3A//www.dukeupress.edu/aboutus/privacy.shtml)  
+[](https://web.archive.org/web/20100117202938id_/http%3A//www.dukeupress.edu/aboutus/mission.shtml)  
+[](https://web.archive.org/web/20100117202938id_/http%3A//www.dukeupress.edu/contactus/staff.shtml)  
+[](https://web.archive.org/web/20100117202938id_/http%3A//www.dukeupress.edu/aboutus/privacy.shtml)  
 [](http://www.dukeupress.edu/aboutus/copyright.shtml)  
 |   |  **Your right to privacy and how we protect it**
 
