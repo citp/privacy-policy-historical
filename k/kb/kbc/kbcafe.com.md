@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kbcafe.com privacy policy that was archived on 2009-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090816212525id_/http%3A//www.kbcafe.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbcafe.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117032604id_/http%3A//www.kbcafe.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - kbcafe
 
