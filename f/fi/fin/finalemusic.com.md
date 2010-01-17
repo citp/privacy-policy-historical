@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finalemusic.com privacy policy that was archived on 2009-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090929020458id_/http%3A//www.makemusic.com/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finalemusic.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117041859id_/http%3A//www.makemusic.com/privacy_statement.aspx) for the most accurate reproduction.*
 
 # MakeMusic
 
@@ -7,7 +7,7 @@ MakeMusic, Inc. (the “Company”) has a strong commitment to protecting person
 
 This Privacy Statement applies to all Company websites, with homepages located at www.makemusic.com, www.smartmusic.com, and www.finalemusic.com, and all subsections under these homepages (the “Sites” or “Websites”). This Privacy Statement does not apply to information we gather by mail, telephone, or other off-line methods.
 
-This Privacy Statement was last revised on January 16, 2007. We may change this Privacy Statement at any time and for any reason. We encourage you to look to this Privacy Statement each time you visit the Site. By using this Site, you agree to the terms of this Privacy Statement.
+This Privacy Statement was last revised on October 19, 2009. We may change this Privacy Statement at any time and for any reason. We encourage you to look to this Privacy Statement each time you visit the Site. By using this Site, you agree to the terms of this Privacy Statement. 
 
 PROTECTING YOUR PRIVACY  
 The ways we protect and use information collected over these Websites depends upon the type of information involved. In general, personal information – information that tells us who you are – is used only for limited purposes and receives strong protection. Non-personal information – anonymous information that does not tell us who you are – is used for many purposes and shared with others, as described below. 
@@ -16,7 +16,7 @@ WHAT IS NON-PERSONAL INFORMATION?
 Each time a computer visits these Sites to read or download information, we may collect certain information from that computer. This information is automatically collected from the computer’s web browser and may include information such as the following (“non-personal information”): 
 
   * the type of web browser software the computer uses (for example, Netscape Navigator or Internet Explorer) 
-  * the name of the Internet domain from which the computer accessed our Sites. 
+  * the name of the Internet domain from which the computer accessed our Sites 
   * the Internet address of the website from which the computer linked directly to our Sites 
   * the date and time the computer accessed our Sites 
 
@@ -35,7 +35,7 @@ WHAT IS PERSONAL INFORMATION?
 In the process of registering for a username and password, enrolling for a class (if applicable), and in some other places on these Sites, some visitors may have the chance to send us “personal information”. Personal information includes information that tells us specifically who a person is, such as a person’s name, telephone number, email address, payment and financial information, or home address. 
 
 HOW DO WE COLLECT PERSONAL INFORMATION?   
-The only way we learn or collect personal information online is if a visitor chooses to provide us with that information. For example, if you fill out a form to receive and pay for services through this website, you will tell us and we will learn your name and some other personal information about you. This information may be provided by the visitor directly if the visitor is 13 years old or older, or by the parent or legal guardian of a visitor under 13.
+The only way we learn or collect personal information online is if a visitor chooses to provide us with that information. For example, if you fill out a form to receive and pay for services through this website, you will tell us and we will learn your name and some other personal information about you. 
 
 Under certain conditions another user may provide us with personal information about another Website user. For example, a teacher or school administrator may enter into a Website a list of names of the students in the teachers’ class. 
 
@@ -51,7 +51,7 @@ WHAT ABOUT PRIVACY ON OTHER SITES?
 These Sites may contain links to other websites. We provide these links for your convenience, but we do not review, control, or monitor the privacy practices of websites operated by others. We are not responsible for the performance of these sites or for your business dealings with them. Your use of other websites is subject to the terms and conditions of those sites, including the privacy policies of those sites. 
 
 ARE THERE SPECIAL RULES ABOUT CHILDREN’S PRIVACY?  
-We care about protecting the online privacy of children. We will not intentionally collect online any personal information (such as a child’s name or e-mail address) from children under the age of 13. We may collect certain information about children for the purpose of providing our educational services, but will do so only from a parent, guardian, teacher, or other adult user. If you think that we have collected personal information from a child under the age of 13, please send us a letter addressed by First Class Postage Prepaid U.S. Mail or overnight courier to the following address:
+We care about protecting the online privacy of children. We may collect certain information about children for the purpose of providing our educational services, but we collect information from children under 13 only with the consent of a parent or guardian. If you believe that we have improperly collected information from a person under the age of 13, please send us a letter by First Class Postage Prepaid U.S. Mail or overnight courier to the following address:
 
 MakeMusic, Inc.   
 7615 Golden Triangle Drive   
@@ -59,13 +59,12 @@ Suite M
 Eden Prairie, MN 55344-3848   
 USA
 
-Toll Free: 1-800-843-2066  
-(for the USA) 
-
 You should clearly state, at a minimum, (1) the name of the alleged child, along with their username; (2) the age and birth date of the child; (3) your relationship to the child (e.g., parent, guardian, teacher); (4) as much detail as possible regarding the information you believe was provided improperly by the child. 
 
+In addition, if you are a parent/guardian and wish to review information submitted by your child, you may contact us at the address above or by calling 1-800-843-2066 (for the USA) and, after confirming your identity, we will provide you with an opportunity to review, and if you wish delete, such information.
+
 HOW DO YOU VIEW OR EDIT PERSONAL INFORMATION AND PREFERENCES?  
-Login and go to My Account to view and/or update any personal information provided, such as mailing and billing addresses, e-mail addresses, or musical interests and roles. If you do not wish to have personal information shared with advertisers or non-essential business partners, you may de-select the option “Check this box if you want MakeMusic to share your contact information…”. Note we must be able to share your personal information with essential business partners, such as Visa or MasterCard, in order to provide you with services. If you do not wish to receive e-mail information (including, but not limited to, information on critical issues and technical updates) de-select the option “Yes, keep me informed of new MakeMusic product information and special offers via e-mail”. 
+Go to My Account and login to view and/or update any personal information provided, such as mailing and billing addresses, e-mail addresses, or musical interests and roles. If you do not wish to have personal information shared with advertisers or non-essential business partners, you may de-select the option “Check this box if you want MakeMusic to share your contact information…”. Note we must be able to share your personal information with essential business partners, such as Visa or MasterCard, in order to provide you with services. If you do not wish to receive e-mail information (including, but not limited to, information on critical issues and technical updates) de-select the option “Yes, keep me informed of new MakeMusic product information and special offers via e-mail”. 
 
 HOW TO CONTACT US?  
 If you have questions or comments about this Privacy Statement, please visit us on-line at http://support.makemusic.com, or send us a letter addressed by First Class Postage Prepaid U.S. Mail or overnight courier to the following address: 
