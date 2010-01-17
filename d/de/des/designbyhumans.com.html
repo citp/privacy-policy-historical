@@ -1,26 +1,26 @@
-<!--The following is the downloaded HTML source of the designbyhumans.com privacy policy that was archived on 2009-08-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090831133141id_/http%3A//www.designbyhumans.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the designbyhumans.com privacy policy that was archived on 2010-01-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100117094443id_/http%3A//www.designbyhumans.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
   
-  <title>Design By Humans T-shirts - New T-shirt designs everyday - Cool Tees Designer Shirts - T shirt Art Contest</title>
+  <title>Cool T-Shirts Everyday | DesignByHumans T-Shirts</title>
 
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="author" content="Design By Humans">
   <meta name="robots" content="index, follow">
   <meta name="GOOGLEBOT" content="index, follow">
   <meta name="keywords" content="Design by humans, t-shirts, tee shirts, tshirts, shirts, designer t-shirts, shirt, tees, t-shirt, clothing, design, t-shirt design, designbyhumans.com, designbyhumans, cool t-shirts">
-  <meta name="description" content="New T-shirt designs everyday on high quality shirts created and voted on by the public">
+  <meta name="description" content="Cool T-shirt graphic designs everyday on high quality T-shirts created and voted on by the public">
   
   <script src="/javascripts/jquery/jquery.min.js" type="text/javascript"></script>
   <script src="/javascripts/jquery/jquery.color.js" type="text/javascript"></script>
   <script src="/javascripts/jquery/jquery.form.js" type="text/javascript"></script>
   <script src="/javascripts/sprites2.js" type="text/javascript"></script>
-  <script src="/javascripts/jquery.ajaxQueue.js?1251224987" type="text/javascript"></script>
-  <script src="/javascripts/jquery.autocomplete.pack.js?1251224987" type="text/javascript"></script>
+  <script src="/javascripts/jquery.ajaxQueue.js?1262818934" type="text/javascript"></script>
+  <script src="/javascripts/jquery.autocomplete.pack.js?1262818934" type="text/javascript"></script>
   
-  <link href="/stylesheets/base.css?1251224987" media="screen" rel="stylesheet" type="text/css">
-  <link href="/stylesheets/jquery.autocomplete.css?1251224987" media="screen" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/base.css?1262818934" media="screen" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/jquery.autocomplete.css?1262818934" media="screen" rel="stylesheet" type="text/css">
   
   
   <link rel="SHORTCUT ICON" href="/images/favicon.ico">
@@ -60,13 +60,24 @@
       }
     });
 
+      $(document).ready(function () {
+        if ($('#checkout-sidebar')) {
+          $(window).scroll(function() {
+            if ($(this).scrollTop() > 180) {
+              $('#checkout-sidebar').css('top', $(this).scrollTop() - 90 + "px");
+            } else {
+              $('#checkout-sidebar').css('top', "90px");
+            }
+          });
+        }
+      });
   </script>
     
   <!--[if lte IE 7]>
-  <link href="/stylesheets/ie.css?1251224987" media="screen" rel="stylesheet" type="text/css" />
+  <link href="/stylesheets/ie.css?1262818934" media="screen" rel="stylesheet" type="text/css" />
   <![endif]-->
   <!--[if lte IE 6]>
-  <link href="/stylesheets/ie6.css?1251224987" media="screen" rel="stylesheet" type="text/css" />
+  <link href="/stylesheets/ie6.css?1262818934" media="screen" rel="stylesheet" type="text/css" />
   <![endif]-->
 </head>
 
@@ -78,34 +89,34 @@
   <div id="header">
   
     <div id="logo">
-      <a href="/">Design By Humans</a>
+      <a href="/" title="Design By Humans T-Shirts">Design By Humans</a>
     </div>
     <ul class="nav"> <!-- add class "current-shop" to set current tab-->
       <li class="men">
-          <a href="/shop/browse/mens" style="background-image: none;"><span></span>Men</a>
+          <a href="/shop/browse/mens" title="Men's T-Shirts" style="background-image: none;"><span></span>Men</a>
          </li>
         
       <li class="women">
-          <a href="/shop/browse/womens" style="background-image: none;"><span></span>Women</a>
+          <a href="/shop/browse/womens" title="Women's T-Shirts" style="background-image: none;"><span></span>Women</a>
          </li>
         
       <li class="vote">
-          <a href="/vote" style="background-image: none;"><span></span>Vote</a>
+          <a href="/vote" title="Vote" style="background-image: none;"><span></span>Vote</a>
          </li>
         
       <li class="forum">
-          <a href="/forums" style="background-image: none;"><span></span>Forum</a>
+          <a href="/forums" title="T-Shirts Forum" style="background-image: none;"><span></span>Forum</a>
          </li>
         
     </ul>
     <ul class="user"> <!-- add class "current-login" to set current tab-->
        
         <li class="login">
-          <a href="/login"><span></span>Login</a>
+          <a href="/login" title="Login"><span></span>Login</a>
          </li>
         
         <li class="signup">
-          <a href="/join"><span></span>Signup</a>
+          <a href="/join" title="Join"><span></span>Signup</a>
          </li>
         
       
