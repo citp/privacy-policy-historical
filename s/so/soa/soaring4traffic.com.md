@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soaring4traffic.com privacy policy that was archived on 2009-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090304014330id_/http%3A//www.soaring4traffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soaring4traffic.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117172303id_/http%3A//www.soaring4traffic.com/privacy.php) for the most accurate reproduction.*
 
 # Soaring4Traffic Manual Traffic Exchange
 
@@ -12,7 +12,9 @@ Soaring4Traffic may require the use of cookies to store login session informatio
 
 Soaring4Traffic merely serves as a directory of other websites and is therefore not responsible for the privacy practices and/or content of those websites. 
 
-Financial information is used solely to bill the user for products and/or services. All personal, credit card, and bank account information is transferred by separate institution (i.e. PayPal.com or SafePay) over secure SSL encrypted Internet connections and is not stored on Soaring4Traffic servers.
+Financial information is used solely to bill the user for products and/or services. All personal, credit card, and bank account information is transferred by separate institution (i.e. PayPal.com or Alert Pay ) over secure SSL encrypted Internet connections and is not stored on Soaring4Traffic servers.
+
+**Refund Policy** Satisfaction is our policy, we will deliver the site views purchased and or the purchases of other products. Your advertising is not guaranteed to see results as advertising is an art to be learned. If you are not happy with any of our services then you have the right to ask for a full refund within 30 days from the time of purchase, for any unused portion.
 
   
 
