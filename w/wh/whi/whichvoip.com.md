@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whichvoip.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217084354id_/http%3A//www.whichvoip.com/common/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whichvoip.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117135523id_/http%3A//www.whichvoip.com/common/privacy.htm) for the most accurate reproduction.*
 
 # WhichVoIP.com Privacy Policy
 
@@ -118,4 +118,4 @@ We may change this Privacy Policy from time to time. We will post any changes he
 
 ## Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please [contact us.](https://web.archive.org/web/20091217084354id_/http%3A//www.whichvoip.com/common/contact_us.htm)
+If you have any questions or suggestions regarding our privacy policy, please [contact us.](https://web.archive.org/web/20100117135523id_/http%3A//www.whichvoip.com/common/contact_us.htm)
