@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artofapproaching.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217152919id_/http%3A//www.artofapproaching.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artofapproaching.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117024235id_/http%3A//www.artofapproaching.com/privacy.html) for the most accurate reproduction.*
 
 # The Art Of Approaching -- Privacy Statement
 
