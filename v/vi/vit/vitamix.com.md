@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitamix.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215023949id_/http%3A//www.vitamix.com/household/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitamix.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117012208id_/http%3A//www.vitamix.com/household/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to Vitamix - Literature Request Form
 
