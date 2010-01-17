@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themestock.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514203410id_/http%3A//www.boxedart.com/W3C/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themestock.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117090515id_/http%3A//www.boxedart.com/W3C/privacy.html) for the most accurate reproduction.*
 
 # 
 
