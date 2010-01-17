@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the frommers.com privacy policy that was archived on 2009-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090719154713id_/http%3A//www.frommers.com/about/about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frommers.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117060543id_/http%3A//www.frommers.com/about/about_privacy.html) for the most accurate reproduction.*
 
 # Frommer's About Us
+
+[](https://web.archive.org/)
 
 |   
 ---  
@@ -23,8 +25,7 @@
 |  |   
 |  | [Travel Guides](https://web.archive.org/about/about_travel_guides.html) |   
 |  |  | [Frequently Asked Questions](https://web.archive.org/about/about_faq_guides.html) |   
-|  |  | [Frommer's Series](https://web.archive.org/about/about_frommer_series.html) |   
-|  |  | [Other Series](https://web.archive.org/about/about_other_series.html) |   
+|  |  | [Our Series](https://web.archive.org/about/about_book-series.html) |   
 |  |   
 |  | [Frommer's Complete Catalog](http://viewer.zmags.com/publication/57ce90a9) |   
 |  |   
@@ -60,4 +61,4 @@ Please note that Wiley's Privacy and Data Protection Policy is reviewed periodic
 
 | 
 
-[](http://ad.doubleclick.net/jump/wiley.frommers.com/;loc=marketing;sz=160x230;tile=4;861575051368968000?)
+[](http://ad.doubleclick.net/jump/wiley.frommers.com/;loc=marketing;sz=160x230;tile=4;795860521323231200?)
