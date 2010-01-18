@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webtoolsandtips.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228002406id_/http%3A//webtoolsandtips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtoolsandtips.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118112156id_/http%3A//webtoolsandtips.com/privacy-policy) for the most accurate reproduction.*
 
-# Web Tools and Tips | Privacy Policy
+# Internet Security Blog | Privacy Policy
 
 Updated as on July 1st, 2008.
 
@@ -21,6 +21,8 @@ Updated as on July 1st, 2008.
 [Webtools & Tips](http://webtoolsandtips.com/) runs advertising for meeting its maintenance costs. These adverts are served from our advertising servers as well as from third-party ad servers managed by the advertiser. We are not responsible to the Privacy Policy of these advertisers. Users of [Webtools & Tips](http://webtoolsandtips.com/) are advised to check the policies of these advertisers themselves.
 
 These ad servers may attempt to set cookies on your computer. All these sites stress that information gathered through these cookies is used purely for the purpose of advert delivery, recording and segmentation. They do not use information gathered through their cookies for their own use, and they do not collect any personally identifiable information.
+
+We also use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
 **E-mail**
 
