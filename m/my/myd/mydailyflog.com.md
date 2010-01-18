@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydailyflog.com privacy policy that was archived on 2008-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081105212144id_/http%3A//www.mydailyflog.com/go/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydailyflog.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118154810id_/http%3A//www.mydailyflog.com/go/privacy_policy) for the most accurate reproduction.*
 
 # Welcome to MyDailyFlog! | MyDailyFlog
 
@@ -45,6 +45,7 @@ Many Websites, including MyDailyFlog, use cookies. Cookies are small files of da
   * These cookies also enable us to recognize you as an individual when you visit the MyDailyFlog site so that we can personalize your site experience and provide access for you to your individual account information and functionality.
   * If you do not wish to have your Individual Site Usage Information or Personal Information you provide to us stored, most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. If you do not accept cookies from MyDailyFlog you may not be able to access key pieces of member functionality
   * In some cases, our business partners may use cookies on our site. For example, an advertiser like Google may place a cookie on your computer to keep track of what country you are from so they show ads in the correct language. MyDailyFlog has no access to or control over these cookies.
+  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, [click here](http://www.google.co.uk/privacy_ads.html).
 
 
 
