@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the families.com privacy policy that was archived on 2009-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091213151524id_/http%3A//about.families.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the families.com privacy policy that was archived on 2010-01-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100118011734id_/http%3A//about.families.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -180,7 +180,7 @@
 					<colgroup><col width="60"><col width="160">
 					</colgroup><tbody><tr>	
 						<td colspan="2">
-							<i>Signup for our free community and join the conversation with 450,659 registered users active members!</i>					
+							<i>Signup for our free community and join the conversation with 451,672 registered users active members!</i>					
 						</td>
 					</tr>	
 					<tr style="height:16px"></tr>		
@@ -220,6 +220,7 @@
 								<option value="12">December</option>
 							</select>
 							<select name="dob_year">
+																	<option>2010</option>
 																	<option>2009</option>
 																	<option>2008</option>
 																	<option>2007</option>
@@ -320,7 +321,6 @@
 																	<option>1912</option>
 																	<option>1911</option>
 																	<option>1910</option>
-																	<option>1909</option>
 															</select>
 						</td>
 					</tr>
@@ -488,7 +488,7 @@
 
 			<div id="tmpl_footer_copyright">				
 				<br>
-				<i>©2009 Families.com, LLC</i>
+				<i>©2010 Families.com, LLC</i>
 			</div>			
 		</div>
 	</span>
@@ -523,13 +523,7 @@
 	<!-- /End Quantcast tag -->
 
 	<!-- popunder -->
-	<script type="text/javascript"><!--
-		e9 = new Object();
-		e9.noAd = 1;
-		e9.popOnly = 1;
-	//--></script>
-	<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/Familiescom/ROS/tags.js"></script>
-	<!-- /popunder -->
+		<!-- /popunder -->
 
 	<!-- Kontera ContentLink -->
 		<script type="text/javascript">
@@ -544,28 +538,131 @@
 
 
 	<!-- Modal Module -->
-		<!-- /Modal Module -->
+	
+		<!-- Visit Now -->
+		<script src="http://assets.families.com/v2.0/modules/modal/script/jquery-latest.pack.js" type="text/javascript"></script>
+		<script src="http://assets.families.com/v2.0/modules/modal/script/jquery.cookie.js" type="text/javascript"></script>
+		<script type="text/javascript">
+
+
+			//When Mouse Y coord is approach leaving the window (to go away)
+			$().mousemove(function(e){ 
+
+				if (e.pageY<=10){
+				
+					var id = '#modal-dialog';
+					var cookieName = 'modal_offer';
+
+					//Launch on Window load (ready) if user hasn't seen it yet
+					if($.cookie(cookieName)==null){
+						launchWindow(id);
+						$.cookie(cookieName, 'FreeCoupons');
+					}
+
+					//Close if Close btn clicked
+					$('.modal-window .modal-close').click(
+						function () {
+							hideWindow(id);
+						}
+					);		
+				}
+			});
+
+
+			//Hide the window
+			function hideWindow(id){
+				$('#modal-mask').fadeOut(500);	
+				$('.modal-window').hide();
+
+			}
+
+			//Launch (animate) the window
+			function launchWindow(id){
+				
+				//Get the screen height and width
+				var maskHeight = $(document).height();
+				var maskWidth = $(window).width();
+
+				//Set height and width to mask to fill up the whole screen
+				$('#modal-mask').css({'width':maskWidth,'height':maskHeight});
+				
+				//transition effect		
+				$('#modal-mask').fadeIn(500);	
+				$('#modal-mask').fadeTo("slow",0.85);	
+
+				//Get the window height and width
+				var winH = $(window).height();
+				var winW = $(window).width();
+
+				//Dialog Dimensions
+				var dialogH = $(id).height();
+				var dialogW = $(id).width();
+					  
+				//Set the popup window to center
+				$(id).css('top',  winH/2-dialogH/2);
+				$(id).css('left', winW/2-dialogW/2);
+
+				//transition effect
+				$(id).fadeIn(2000); 
+			}
+		</script>
+
+
+		<style>
+
+			#modal-mask {
+			  position:absolute;
+			  left:0;
+			  top:0;
+			  z-index:9000;
+			  background-color:#555;
+			  display:none;
+			}
+			  
+			.modal-window {
+			  position:absolute;
+			  left:0;
+			  top:0;
+			  width:618px;
+			  height:320px;
+			  display:none;
+			  z-index:9999;
+			  padding:20px;
+			}
+
+			#modal-dialog {
+ 			   /* background:url(http://assets.families.com/v2.0/modules/modal/images/freecoupons_signup.png) no-repeat 0 0 transparent; */
+			  background:url(http://assets.families.com/v2.0/modules/modal/images/freecoupons_intro_brands.png) no-repeat 0 0 transparent; 
+			  width:607px;
+			  height:350px;
+			  padding-top:225px;
+			  padding-left:255px;
+			}
+
+			.modal-button{
+				height:32px;
+				color:#3b1f1e;
+				font-weight:bold;
+			}
+
+		</style>
+
+		<div id="context-div"> 
+
+			<!-- Start of Sticky Note -->
+			<div id="modal-dialog" class="modal-window">
+				<input type="button" value=" Get Coupons! " class="modal-button modal-signup" onclick="location.href='http://www.freecoupons.com?ref=families.com'">
+				<input type="button" value=" No Thanks " class="modal-button modal-close">
+			</div>
+
+			<!-- Mask to cover the whole screen -->
+			<div id="modal-mask"></div>
+		</div>
+
+	<!-- /Modal Module -->
 
 	
 
 
 
-
-<!--
-				<span id="nav_pmfolders">Private Messages <script type="text/javascript"> vbmenu_register("nav_pmfolders"); </script></span>						
-				<div class="vbmenu_popup" id="nav_pmfolders_menu" style="display:none">
-					<table cellpadding="4" cellspacing="1" border="0">
-					<tr>
-						<td class="thead" nowrap="nowrap">Folders</td>
-					</tr>
-					<tr>
-						<td class="vbmenu_option"><a href="private.php?folderid=0">Inbox</a></td>
-					</tr>
-					<tr>
-						<td class="vbmenu_option"><a href="private.php?folderid=-1">Sent Items</a></td>
-					</tr>
-					</table>
-				</div>
-
-				<br />
---></body></html>
+</body></html>
