@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 123-free-download.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216200056id_/http%3A//www.123-free-download.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123-free-download.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118152006id_/http%3A//www.123-free-download.com/privacy.html) for the most accurate reproduction.*
 
-# 123-Free-Download - legal disclaimer
+# legal disclaimer
 
   
 This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
