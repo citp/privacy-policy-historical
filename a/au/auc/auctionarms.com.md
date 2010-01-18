@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionarms.com privacy policy that was archived on 2009-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091017030039id_/http%3A//www.auctionarms.com/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionarms.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118105317id_/http%3A//www.auctionarms.com/help/privacy.cfm) for the most accurate reproduction.*
 
 # Auction Arms - Auction Arms Privacy Policy
 
