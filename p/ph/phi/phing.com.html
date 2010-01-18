@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the phing.com privacy policy that was archived on 2009-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090621135016id_/http%3A//www.phing.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the phing.com privacy policy that was archived on 2010-01-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100118182412id_/http%3A//www.phing.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<title>Privacy Policy (pHing Classifieds)</title>
@@ -7,18 +7,36 @@
 	<link href="http://static.phing.com/app/favicon.ico" type="image/x-icon" rel="icon"><link href="http://static.phing.com/app/favicon.ico" type="image/x-icon" rel="shortcut icon">	
 	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.6.0/build/reset-fonts-grids/reset-fonts-grids.css&amp;2.6.0/build/base/base-min.css">		
 	<link rel="stylesheet" type="text/css" href="http://static.phing.com/app/css/generic.css?">	
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.0.3/prototype.js"></script>	
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.2/scriptaculous.js"></script>	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.1/prototype.js"></script>	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/scriptaculous.js"></script>	
 	<script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>	
+	<script type="text/javascript" src="http://static.new.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"></script>	
+	<script type="text/javascript" src="http://static.phing.com/app/js/control.modal.js?"></script>	
+	<script type="text/javascript" src="http://static.phing.com/app/js/cookies.js?"></script>
 		
 	
 <!-- begin Random No -->
-<script language="JavaScript" type="text/javascript">
-if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
+<script type="text/javascript">
+ord = window.ord || Math.floor(Math.random()*1E16);
 </script>
 <!-- end Random No -->
 	
-	</head>
+		
+	
+<script type="text/javascript">
+	function updateLogin() {
+		if ($('facebook-login-message')) {
+			$('facebook-login-message').update('<span class="loading">Loading...</span>');
+		}
+		new Ajax.Updater('header-menu', '/users/loginbox', {asynchronous:true, evalScripts:true, requestHeaders:['X-Update', 'header-menu']});
+	}
+	
+	function initFB() {
+		FB.init('768628682fdc4943cbd2255c179af740', "/fbconnect/xd_receiver.htm", { "ifUserConnected": function(uid){ fbCheck(); }, "ifUserNotConnected": function(uid){ fbCheck(); } });
+	}
+</script>
+<script type="text/javascript" src="http://static.phing.com/app/js/phing_bump.js?"></script>
+</head>
 <body>
 
 <div id="top" style="display: none"></div>
@@ -26,15 +44,30 @@ if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
 	<div id="hd">
 		<div class="yui-gf">
 			<div class="yui-u first">
-				<a href="/" rel="nofollow"><img src="http://static.phing.com/app/img/phing-logo.png?1217396182" alt="pHing Classifieds allows you to search and post classified ads in Singapore for FREE."></a>			</div>
+				<a href="/" rel="nofollow"><img src="http://static.phing.com/app/img/phing-logo.png?" alt="pHing Classifieds allows you to search and post classified ads in Singapore for FREE."></a>			</div>
 			<div class="yui-u">
 				<div id="header-menu">
-											Hello there						—
-						Want to post an ad? <a href="/users/login?r=%2Fprivacy-policy" rel="nofollow">Login</a> or <a href="/users/register" rel="nofollow">Register</a> now.									</div>
+																Hello there						—
+						Want to post an ad? <a href="/users/login?r=%2Fprivacy-policy" rel="nofollow">Login</a> or <a href="/users/register" rel="nofollow">Register</a> now.										
+										
+					<div style="margin-top:0.2em;">
+					
+											<a href="/users/activate" class="inline-message inline-error" title="Your account has not been activated. If you have waited and not received your activation code, please request for a new one.">Account not activated</a>
+										
+																		<a href="#" onclick="FB.Connect.requireSession(function(){ fbRegister(); }); return false;" class="fbconnect_login_button FBConnectButton FBConnectButton_Small" id="facebook-login-button">
+								<span id="RES_ID_fb_login_text" class="FBConnectButton_Text LoginButton">Connect with Facebook</span>
+							</a>
+																							
+										
+					</div>
+				</div>
 								
 				<div id="search">
-					<p>
-						<a href="/activities" rel="nofollow">Check out pHing's Activities aka Kaypoh Channel!</a>					</p>
+					<p id="header-announcement">
+																				<a href="http://www.phing.com/blog/25-New-Features-Alert-Facebook-Connect-Enabled-and-pHingBump" rel="nofollow">pHingBump your Ads</a>																		
+												
+						&nbsp;
+					</p>
 					<a href="/search" rel="nofollow">Browse</a> or Search in					<form id="SearchAddForm" method="get" action="/search">						<select name="c" id="SearchC">
 <option value="">All Categories</option>
 <option value="1">Animals &amp; Pets</option>
@@ -156,16 +189,14 @@ if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
 </ul>	</div>
 </div>		
 		<div class="doubleclick-leaderboard">
-<!--  Rubicon Project tag -->
-<!--  Site: pHing Classifieds   Zone: Run of Site Leaderboard 728x90   Size: Leaderboard (728x90)  -->
-<script language="JavaScript" type="text/javascript">
-var cb = Math.random();
-var d = document;
-d.write('<script language="JavaScript" type="text/javascript"');
-d.write('src="http://optimized-by.rubiconproject.com/a/2347/2364/20979-2.js?cb='+cb+'">');
-d.write('<\/scr'+'ipt>');
-</script><script language="JavaScript" type="text/javascript" src="http://optimized-by.rubiconproject.com/a/2347/2364/20979-2.js?cb=0.6141440772236304"></script>
-<!-- end Rubicon Project tag -->
+<!-- begin ad tag (tile=1) -->
+<script type="text/javascript">
+//<![CDATA[
+document.write('<script type="text/javascript" src="http://ad.hk.doubleclick.net/adj/phing/_default;tile=1;dcopt=ist;sz=728x90;ord=' + ord + '?"><\/script>');
+//]]>
+</script><script type="text/javascript" src="http://ad.hk.doubleclick.net/adj/phing/_default;tile=1;dcopt=ist;sz=728x90;ord=9788804149220372?"></script>
+<noscript><a href="http://ad.hk.doubleclick.net/jump/phing/_default;tile=1;sz=728x90;ord=123456789?" target="_blank" ><img src="http://ad.hk.doubleclick.net/ad/phing/_default;tile=1;sz=728x90;ord=123456789?" border="0" alt="" /></a></noscript>
+<!-- end ad tag -->
 </div>	</div>
 	<div id="ft">
 		<p>
@@ -180,6 +211,9 @@ d.write('<\/scr'+'ipt>');
 		<p>
 			<a href="/" rel="nofollow">pHing Classifieds</a> is a <strong>Singapore Classifieds</strong> to <strong>Buy</strong>, <strong>Sell</strong>, <strong>Trade</strong> &amp; More.
 		</p>
+		<p>
+			<script src="http://tracktrue.clicktrue.biz/127165.js" type="text/javascript"></script>
+<noscript><p><img alt="trackTRUE" width="1" height="1" src="http://tracktrue.clicktrue.biz/127165-db17.gif" /></p></noscript>		</p>
 	</div>
 </div>
 
@@ -215,21 +249,6 @@ try {
 } catch(err) {}
 </script>
 
-
-<!-- SiteCatalyst code version: H.19.3.
-Copyright 1997-2009 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script type="text/javascript" src="http://static.phing.com/app/js/s_code.js?"></script>
-<script language="JavaScript" type="text/javascript"><!--
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
-src="http://ctphingstart.122.2O7.net/b/ss/ctphingstart/1/H.19.3--NS/0"
-height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.19.3. -->
 
 
 </body></html>
