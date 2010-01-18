@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalpapermoney.com privacy policy that was archived on 2008-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081011043229id_/http%3A//www.globalpapermoney.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalpapermoney.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118122619id_/http%3A//www.globalpapermoney.com/privacy.php) for the most accurate reproduction.*
 
 # PaperMoney - Privacy Policy
 
