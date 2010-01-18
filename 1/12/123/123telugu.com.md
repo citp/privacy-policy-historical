@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123telugu.com privacy policy that was archived on 2009-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090802114721id_/http%3A//www.123telugu.com/company/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123telugu.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118104550id_/http%3A//www.123telugu.com/company/docs/privacy.html) for the most accurate reproduction.*
 
 # 123telugu.com - Andhra Pradesh News and Views
 
