@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snagfilms.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831034110id_/http%3A//www.snagfilms.com/films/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snagfilms.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118042708id_/http%3A//www.snagfilms.com/films/privacy) for the most accurate reproduction.*
 
-# Privacy - SnagFilms
+# Privacy | Watch Free Documentaries Online | SnagFilms
 
 Thank you for visiting SnagFilms. Your privacy is important to us. To better protect your privacy, we provide this statement explaining our online information practices and the way your information is collected and used at this site.
 
