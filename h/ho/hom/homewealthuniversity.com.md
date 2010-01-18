@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homewealthuniversity.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230230145id_/http%3A//homewealthuniversity.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homewealthuniversity.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118033805id_/http%3A//www.homewealthuniversity.com/privacyPolicy) for the most accurate reproduction.*
 
 # HomeWealthUniversity :: Privacy Policy
 
