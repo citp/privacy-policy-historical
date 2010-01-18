@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the halstead.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231003608id_/http%3A//www.halstead.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halstead.com privacy policy that was archived on 2010-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100119004804id_/http%3A//www.halstead.com/privacy.aspx) for the most accurate reproduction.*
 
 # Halstead Property | Privacy Policy
 
 ### Halstead Privacy Policy
 
-[Usage of Halstead.com](https://web.archive.org/web/20091231003608id_/http%3A//www.halstead.com/terms.aspx) | Privacy Policy | [Fair Housing Policy](https://web.archive.org/web/20091231003608id_/http%3A//www.halstead.com/fairhousing.aspx)
+[Usage of Halstead.com](https://web.archive.org/web/20100119004804id_/http%3A//www.halstead.com/terms.aspx) | Privacy Policy | [Fair Housing Policy](https://web.archive.org/web/20100119004804id_/http%3A//www.halstead.com/fairhousing.aspx)
 
 Terra Holdings, and its affiliated companies (referred to herein as "Halstead," "we" or "us" ) is committed to protecting the privacy of the users of its web site. 
 
