@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wkbw.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909115107id_/http%3A//www.wkbw.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkbw.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118085721id_/http%3A//www.wkbw.com/about/privacy) for the most accurate reproduction.*
 
-# WKBW - TV Buffalo, New York | WKBW Privacy Policy
+# WKBW News 7: News, Sports, Weather - Buffalo, New York | WKBW Privacy Policy
 
 At WKBW-TV 7, we are committed to protecting the privacy, accuracy and reliability of any personal information you choose to provide and to safeguarding such information from loss, misuse, unauthorized access, disclosure, alteration and destruction. This Privacy Policy applies to those websites that are part of WKBW-TV 7.
 
