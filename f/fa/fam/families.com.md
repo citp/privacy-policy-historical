@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the families.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213151524id_/http%3A//about.families.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the families.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118011734id_/http%3A//about.families.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Families.com
 
@@ -18,7 +18,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 |  |  |  | 
 
-|  _Signup for our free community and join the conversation with 450,659 registered users active members!_  
+|  _Signup for our free community and join the conversation with 451,672 registered users active members!_  
 ---  
 Username |   
 Password |   
