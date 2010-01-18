@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the westsiderentals.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509070253id_/http%3A//www.westsiderentals.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westsiderentals.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118063209id_/http%3A//www.westsiderentals.com/privacy) for the most accurate reproduction.*
 
 # Apartment Rentals in Los Angeles, Orange County and San Diego
 
-### WestsideRentals.com is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of WestsideRentals.com. This policy may change from time to time so please check back periodically.
+## WestsideRentals.com Privacy Policy Statement
+
+**WestsideRentals.com is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of WestsideRentals.com. This policy may change from time to time so please check back periodically.**
+
+### This policy will let you know:
 
   
 
-
-## This policy will let you know:
 
   * What personally identifiable information is collected from you
   * What cookies are and how they are used
@@ -41,9 +43,9 @@ As part of offering and providing customizable and personalized services, Westsi
 
 Generally, we use cookies for the following purposes: 
 
-  1. To identify and label all "new" vacancies since your last visit to the site.
-  2. Optionally to permanently save your password on your computer so you don't have to re-enter it each time you visit our site.
-  3. To enable you to "checklist and compare" vacancies that you want to mark for future retrieval and viewing.
+  * To identify and label all "new" vacancies since your last visit to the site.
+  * Optionally to permanently save your password on your computer so you don't have to re-enter it each time you visit our site.
+  * To enable you to "checklist and compare" vacancies that you want to mark for future retrieval and viewing.
 
 
 
