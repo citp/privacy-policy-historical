@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the memeo.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513213352id_/http%3A//www.memeo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memeo.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118030559id_/http%3A//www.memeo.com/privacy.php) for the most accurate reproduction.*
 
-# Memeo - Privacy
+# Memeo® - Simplify Your Digital Life. | Memeo Share, Memeo Backup, Memeo Software, Memeo Sync
 
-Memeo Privacy Policy
+**Privacy Policy**
 
 Memeo takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
@@ -18,18 +18,16 @@ Memeo will use this information to improve its products, to improve your experie
 
 Memeo may automatically check your version of the Memeo Software. Memeo may automatically update the Memeo Software on your hardware system to improve the performance and capabilities of the Memeo Software.  Memeo will assign a unique identifying number to the Memeo Software installed on your hardware device. This unique number will not be identified with any of your personal information. Memeo may also query your computer on an anonymous basis to determine if the Memeo Software is running on your system. Memeo will use this anonymous information to improve the Memeo Software and its offerings to you.  You will be given the option to send configuration data and crash reports concerning your use of Memeo Software; you also will be given the option to provide your e-mail address with this information so that Memeo may get in touch with you. Memeo maintains the confidential information you provide in a secure database. Please keep in mind that while Memeo has established safeguards to help prevent unauthorized access to or misuse of you information, it cannot guarantee that your personally identifiable information will never be disclosed in a manner inconsistent with the information practices disclosed in this section (for example, in the event of unauthorized acts by third parties that violate applicable law or policies).
 
- If you have questions or suggestions, please complete a feedback form or you can contact us at:
+ If you have questions or suggestions, please e-mail us at [feedback@memeo.com](mailto:feedback@memeo.com "mailto:feedback@memeo.com")
 
 **Memeo, Inc.**
 
 Customer Care - Privacy Policy Issues
 
-120 Vantis, Suite 520
+15 Enterprise, Suite 500
 
 Aliso Viejo, CA 92656
 
-(949) 716-6948
-
 | Effective Date:     |  October 25, 2007  |   
 ---|---|---  
-Last Updated:    |  October 24, 2007  |  
+Last Updated:    |  March 30, 2009  |  
