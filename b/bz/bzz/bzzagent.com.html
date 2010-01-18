@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bzzagent.com privacy policy that was archived on 2009-10-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091018081308id_/http%3A//www.bzzagent.com/pages/Page.do%3Fpage%3DPrivacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bzzagent.com privacy policy that was archived on 2010-01-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100118093225id_/http%3A//www.bzzagent.com/pg/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
     <title>Privacy Policy - BzzAgent</title>
@@ -13,6 +13,8 @@
 		<script src="/jsrendered/globals.jsp" type="text/javascript" charset="utf-8"></script>
 		<script src="/js/v4_1/legacy-scripts.js" type="text/javascript" charset="utf-8"></script>
 		<script src="/js/v4_1/jquery.js" type="text/javascript" charset="utf-8"></script>
+		
+        <link rel="stylesheet" type="text/css" href="/css/v4_1/colorbox.css">
 		<!--[if lte IE 7]>
 		  <link rel="stylesheet" type="text/css" href="/css/v4_1/ie-Fix.css" />
 		 <![endif]-->
@@ -31,6 +33,7 @@
 		<script src="/js/jquery-cookie.js" type="text/javascript"></script>
 
 		<script src="/js/jquery.url.packed.js" type="text/javascript"></script>
+		<script src="/js/v4_1/jquery.colorbox-min.js" type="text/javascript"></script>
 		
 
 
@@ -82,9 +85,11 @@ http://www.omniture.com -->
 </script>
 
 		<script type="text/javascript" src="/js/v4_1/shadedborder.js"></script>  <style type="text/css">  .sb, .sbi, .sb *, .sbi * { position:relative; z-index:1; }  * html .sb, * html .sbi { height:1%; }  .sbi { display:inline-block; }  .sb-inner { background:#ddd; }  .sb-shadow { background:#000; }  .sb-border { background:#bbb; }  </style>
+        <script type="text/javascript" src="/dwr/engine.js"></script>
 		<!--for styling sub nav active links-->
-		<style>
+		<style type="text/css">
 			ul.subNav li# a { color: #ffffff; font-weight:bold }
+            .facebookLoginButton { visibility: hidden; }
 		</style>
 		<meta name="bzzPageName" content="agent site:general:agent information:privacy policy">
 <script>
@@ -96,30 +101,341 @@ $j(document).ready(function(){
 <body class="skinny" onload="">
 
     
+        <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+        <script type="text/javascript" src="/dwr/interface/FacebookAjax.js"></script>
+    
+
+    
+        <script type="text/javascript" src="/dwr/interface/LoginAjax.js"></script>
+		<script type="text/javascript">
+			$j(document).ready(function(){
+                $j('.loginFormLink').colorbox({inline: true, width: '410px', height: '425px', href: '#loginForm', overlayClose: false},
+                        function(){ $j('#loginUsername').focus(); }
+                );
+				$j('.isLogged').colorbox({inline: true, width: '408px', height: '455px', href: '#loginForm', overlayClose: false},
+                        function(){ $j('#loginUsername').focus();
+ 						bzzMetrics.customLink(this,'openLoginModal');}
+                );
+				$j('.signupFormLink').colorbox({iframe: true, width: "40%", height: "90%", overlayClose: false});
+                FB.ensureInit(function(){
+                    $j('.facebookLoginButton').css('visibility', 'visible'); });
+			});
+		</script>
+
+        <div style="display: none">
+            
+
+
+<script>
+    function login_redirect(){
+        var path = window.location.pathname;
+        if (path.match(/^\/$|^\/index.jsp|^\/login.jsp|.*VerifyEmail.jsp|.*Signup.do/)) {
+            window.location = "/member/MemberHome.do";
+        } else {
+            window.location.reload();
+        }
+    }
+
+    function show_loading_modal(){
+        $j.fn.colorbox({inline: true, href:"#loading", open: true});
+    }
+
+    function do_login(){
+        var user = document.theLoginForm.username.value;
+        var pass = document.theLoginForm.password.value;
+        $j.fn.colorbox({inline: true, href:"#loading", open: true});
+        LoginAjax.doLogin(user, pass, function(status){
+            switch(status){
+                case "SUCCESS":
+                    login_redirect();
+                    break;
+                case "FAIL":
+                    $j('#loginError').html('Failed to log in');
+                    $j.fn.colorbox({inline: true, href:"#loginForm", open: true, width: '410px', height: '425px', overlayClose: false});
+                    break;
+                default:
+                    $j('#loginError').html('Unknown error. Please try again or <a href="/pg/Contact-Us" class="orange">Contact us</a>');
+                    $j.fn.colorbox({inline: true, href:"#loginForm", open: true, width: '410px', height: '425px', overlayClose: false});
+                    break;
+            }
+        });
+        return false;
+    }
+
+    var loginStarted = false;
+    $j().bind('cbox_closed', function(){
+            if (loginStarted ) { loginStarted = false; $j('.facebookLoginButton').toggle();}
+            });
+    function connect_login(){
+        if (!loginStarted){
+            loginStarted = true;
+            $j('.facebookLoginButton').toggle();
+        }
+        FB.ensureInit(function(){
+            FB.Connect.requireSession(function(uid){
+            FacebookAjax.doLogin(function(status){
+                switch(status){
+                    case "SUCCESS":
+                        login_redirect();
+                        break;
+                    case "FAIL":
+                        $j('#connectErrorMsg').html('Failed to log in');
+                        $j.fn.colorbox({inline: true, href:"#connectError", open: true, overlayClose: false});
+                        break;
+                    case "BADSIG":
+                        $j('#connectErrorMsg').html('There was a problem verifying your Facebook account. Please reload this page and try again.');
+                        $j.fn.colorbox({inline: true, href:"#connectError", open: true, overlayClose: false});
+                        break;
+                    case "EXISTING":
+                        FacebookAjax.getExistingUserData(function(data){
+                            $j('.knownUsername').html(data[0]);
+                            $j.fn.colorbox({inline: true, href: '#knownFbUserForm', open:true, height:'280px', width:'600px'});
+                        });
+                        break;
+                    case "UNKNOWN":
+                        $j.fn.colorbox({inline: true, href: '#newUnknownFbUserForm', open:true, height:'260px', width:'600px'});
+                        $j('#newUsername').focus();
+                        break;
+                    default:
+                        $j('#connectErrorMsg').html('Unknown error. Please try again or <a href="/pg/Contact-Us" class="orange">Contact us</a>');
+                        $j.fn.colorbox({inline: true, href:"#connectError", open: true, overlayClose: false});
+                        break;
+                }
+            });
+            }, function(){$j().trigger('cbox_closed');});
+        });
+        return false;
+    }
+
+</script>
+    <div id="connectError" style="height: 100px; width: 300px;">
+        <div style="clear: both; height: 35%; width: 100%;"></div>
+        <div style="text-align: center">
+            <span id="connectErrorMsg" style="color: red;"></span>
+        </div>
+    </div>
+
+    <div id="loading" style="height: 100px; width: 300px;">
+        <div style="clear: both; height: 35%; width: 100%;"></div>
+        <div style="text-align: center">
+            <img src="/images/v4_1/colobox/loading.gif">
+        </div>
+    </div>
+
+    <div id="loginForm" style="">
+		<h2 class="signIn">Sign In</h2>
+		<div class="dotted_hr"><hr></div>
+		
+		<p class="marginBtm center px16">There are two ways you can login to BzzAgent:</p>
+		
+		<div id="dyn-toggle">
+		<a href="#" class="active toggler" id="Login"><span class="button lightGreyBtn rounded width160px fLeft marginLeft15px"><b class="bt"><b></b></b><span>BzzAgent</span><b class="bb"><b></b></b></span></a>
+		<a a="" href="#" id="Facebook" class="toggler"><span class="button lightGreyBtn rounded width160px marginLeft190px"><b class="bt"><b></b></b><span><img src="/images/facebook/connect_small.gif" height="12"> Facebook</span><b class="bb"><b></b></b></span></a>
+		
+		<div id="dyn-Login" class="group1 at">
+        	<span id="loginError" style="color: red;"></span>
+        	<form name="theLoginForm" method="post" onsubmit="return do_login();" class="loginPop">
+        	    <input type="hidden" name="goto" value="/pg/Privacy-Policy?page=Privacy-Policy">
+        	    <div class="form marginTop marginLeft15px">
+        	        <div class="marginBtm width330px"><label class="bold">BzzAgent Username</label>
+						<div class="backgroundB1 smPadded marginTop4px"><input type="text" size="24" tabindex="80" name="username" class="loginText marginTopSM text width305px" id="loginUsername"></div>
+        	        </div>
+        	        <div class="marginBtm width330px"><label class="bold">Password</label>
+						<div class="backgroundB1 smPadded marginTop4px">
+							<a href="/login.jsp" class="fRight white bold smPadded paddingTop8px">I forgot!</a>
+							<input type="password" size="24" tabindex="81" name="password" class="loginText marginTopSM text width240px"></div>
+        	        </div>
+        	    </div>
+				
+				<p class="bold noMarginBtm marginLeft15px"><input type="checkbox" name="rememberMe" value="on" style="margin: 0;"> Remember Me</p>
+        		<div align="center">
+				<span class="button orangeBtn marginTop rounded submit marginBtm "><b class="bt"><b></b></b><span><input type="submit" value="Login" name="submit"></span><b class="bb"><b></b></b></span>
+				</div>
+        	</form>
+        	
+			
+		</div>
+		<div id="dyn-Facebook" class="group1 padded">
+			<h4>Use your Facebook account to login or sign up</h4>
+			<p>Click "Connect with Facebook" below to login to BzzAgent using your Facebook account.</p>
+			
+			<p class="center">
+				<a href="#" onclick="show_loading_modal(); connect_login(); return false;"><img src="/images/facebook/connect_med_long.gif"></a>
+			</p>
+		</div>
+		</div>
+		
+		<div class="borderTop orangeBorder bold padded backgroundD7 clear signUpBtm center">
+			Or, <a href="/signup/Signup.do" class="orange">Create a new account</a>
+		</div>
+    </div>
+
+            
+
+
+<script>
+    function existing_assoc(){
+        $j.fn.colorbox({inline: true, href:"#loading", open: true});
+        FacebookAjax.loginAndAssociate(function(status){
+            if (status == true) {
+                login_redirect();
+            } else {
+                $j('#knownFbUserError').html('Unable to link your accounts. Please try again or <a href="/pg/Contact-Us" class="orange">Contact us</a>');
+                $j.fn.colorbox({inline: true, href:"#knownFbUserForm", open: true, width: '600px', height: '280px'});
+            }
+        });
+    }
+
+    function new_user(){
+        $j.fn.colorbox({inline: true, href:"#loading", open: true, width: '600px', height: '260px'});
+        FB.ensureInit(function(){
+            FB.Connect.requireSession(function(uid){
+                var user = document.unkSignupForm.username.value;
+                FacebookAjax.newUser(user, function(status){
+                    switch(status){
+                        case "SUCCESS":
+                            login_redirect();
+                            break;
+                        case "INVALID":
+                            $j('#newUnknownFbUserError').html("Invalid username");
+                            $j.fn.colorbox({inline: true, href:"#newUnknownFbUserForm", open: true, width: '600px', height: '260px'});
+                            break;
+                        case "TAKEN":
+                            $j('#newUnknownFbUserError').html("This username is already in use");
+                            $j.fn.colorbox({inline: true, href:"#newUnknownFbUserForm", open: true, width: '600px', height: '260px'});
+                            break;
+                        default:
+                            $j('#newUnknownFbUserError').html("Incorrect username or password");
+                            $j.fn.colorbox({inline: true, href:"#newUnknownFbUserForm", open: true, width: '600px', height: '260px'});
+                            break;
+                    }
+                });
+            });
+        });
+        return false;
+    }
+
+
+    function existing_user(){
+        $j.fn.colorbox({inline: true, href:"#loading", open: true, width: '600px', height: '260px'});
+        FB.ensureInit(function(){
+            FB.Connect.requireSession(function(uid){
+                var user = document.unkLoginForm.username.value;
+                var pass = document.unkLoginForm.password.value;
+                FacebookAjax.existingUser(user, pass, function(status){
+                    switch(status){
+                        case "SUCCESS":
+                            login_redirect();
+                            break;
+                        case "FAIL":
+                            $j('#existingUnknownFbUserError').html("Incorrect username or password");
+                            $j.fn.colorbox({inline: true, href:"#existingUnknownFbUserForm", open: true, width: '600px', height: '380px'});
+                            break;
+                        case "ASSOC":
+                            $j('#existingUnknownFbUserError').html('Unable to link your accounts. Please try again or <a href="/pg/Contact-Us" class="orange">Contact us</a>');
+                            $j.fn.colorbox({inline: true, href:"#existingUnknownFbUserForm", open: true, width: '600px', height: '380px'});
+                            break;
+                        default:
+                            $j('#existingUnknownFbUserError').html('Unable to link your accounts. Please try again or <a href="/pg/Contact-Us" class="orange">Contact us</a>');
+                            $j.fn.colorbox({inline: true, href:"#existingUnknownFbUserForm", open: true, width: '600px', height: '380px'});
+                            break;
+                    }
+                });
+            });
+        });
+        return false;
+    }
+
+$j(document).ready(function(){
+    $j('.alreadyLink').colorbox({inline: true, href: '#existingUnknownFbUserForm', width: '600px', height: '400px', overlayClose: false});
+    $j('.notLink').colorbox({inline: true, href: '#newUnknownFbUserForm', width: '600px', height: '260px', overlayClose: false});
+});
+
+</script>
+
+    <div id="knownFbUserForm" style="">
+        <h2 class="dashedBorder">Looks like you have an account already!</h2>
+        <span id="knownFbUserError" style="color: red"></span>
+        <br>
+        <p class="px14">Hello, <strong>BzzAgent <span class="knownUsername">null</span></strong>! We found a BzzAgent already associated with your Facebook account.</p>
+        <p class="px14">Login as <strong>BzzAgent <span class="knownUsername">null</span></strong> now and link your Facebook and BzzAgent accounts.</p>
+        <a href="#" onclick="existing_assoc(); return false;"><span class="button orangeBtn rounded px14"><b class="bt"><b></b></b><span>Login</span><b class="bb"><b></b></b></span></a>
+
+		<p class="px14">Questions or problems logging in? <a href="/pg/Contact-Us" class="orange">Contact us</a></p>
+    </div>
+
+
+
+    <div id="newUnknownFbUserForm" style="">
+        <h2 class="dashedBorder marginBtm">Just one last step...</h2>
+        <form class="loginPop width330px" name="unkSignupForm" onsubmit="new_user(); return false;">
+            <label class="bold px14 marginBtm10px block">Choose a BzzAgent username</label>
+            <span id="newUnknownFbUserError" style="color: red" class="block"></span>
+			<div class="backgroundB1 smPadded marginTop4px">
+				<input type="text" size="24" name="username" class="loginText marginTopSM text width305px" id="newUsername">
+			</div>
+            <span class="tinyBtn orangeBtn marginTop rounded {transparent} login submit"><b class="bt"><b></b></b>
+			<input type="submit" value="Submit" name="submit"><b class="bb"><b></b></b></span>
+        </form>
+		<p class="marginTop px16 center noMarginBtm"><strong>Already a BzzAgent?</strong><br> <a href="#" class="alreadyLink">Sign in and link your Facebook and BzzAgent Accounts</a></p>
+    </div>
+
+
+    <div id="existingUnknownFbUserForm">
+        <h2 class="signIn">Sign In</h2>
+		<div class="dotted_hr"><hr></div>
+        <p>Are you already a BzzAgent? Log in here and we'll connect your accounts so you can login with Facebook in the future!</p>
+        <form class="loginPop" name="unkLoginForm" onsubmit="existing_user(); return false;">
+            <span id="existingUnknownFbUserError" style="color: red"></span>
+            <div class="form marginTop">
+                <div class="marginBtm width330px"><label class="bold">BzzAgent Username</label>
+					<div class="backgroundB1 smPadded marginTop4px">
+					<input type="text" size="24" name="username" class="loginText marginTopSM text width305px" id="assocUsername">
+					</div>
+                </div>
+                <div class="width330px marginBtm"><label class="bold">Password</label>
+					<div class="backgroundB1 smPadded marginTop4px">
+						<a href="/login.jsp" class="fRight white bold smPadded paddingTop8px">I forgot!</a>
+					<input type="password" size="24" name="password" class="loginText marginTopSM text width240px">
+					</div>
+                </div>
+               </div>
+                    <span class="tinyBtn fLeft orangeBtn marginTop rounded {transparent} login submit"><b class="bt"><b></b></b><input type="submit" value="Login" name="submit"><b class="bb"><b></b></b></span>
+                
+
+        </form>
+        
+    </div>
+
+        </div>
+    
 
 	<div id="header">
 		<div id="headerWrap">
 			<a href="/" class="logo fLeft">BzzAgent</a>
 
 
-
-
 			
 			
+			
+				
+
 				<div class="fRight" style="display:block; height:70px;">
 					<form name="loginForm" method="post" action="/logon.lg">
-                        <input type="hidden" name="goto" value="http://www.bzzagent.com/pages/Page.do?page=Privacy_Policy&amp;">
+                        <input type="hidden" name="goto" value="/pg/Privacy-Policy?page=Privacy-Policy">
 						<ul class="left form marginTop">
-							<li><label class="bold white">BzzAgent Username</label><br><input type="text" size="24" tabindex="1" name="username" class="loginText marginTopSM"><br>
+							<li><label class="bold white">BzzAgent Username</label><br><input type="text" size="24" tabindex="1" name="username" class="loginText marginTopSM width170px"><br>
 							<span class="tiny white fLeft"><input type="checkbox" tabindex="3" name="rememberMe" value="on" style="margin: 0;"> Remember Me</span></li>
-							<li><label class="bold white">Password</label><br><input type="password" tabindex="2" size="24" name="password" class="loginText marginTopSM"><br>
-							<a href="/login.jsp" class="tiny white fLeft" rel="nofollow">Forgot your password?</a><p class="clear"></p></li>
+							<li class="textRight width176px">
+								<label class="bold white fLeft">Password</label>
+								<a href="/login.jsp" class="tiny white">forgot?</a><br><input type="password" tabindex="2" size="24" name="password" class="loginText marginTopSM width170px"><br>
+                                <span class="facebookLoginButton"><a href="#" class="white inlineBlock fbSmallBg" onclick="connect_login(); return false;">Login in using Facebook</a></span>
+                                <span class="facebookLoginButton" style="display: none;"><img src="/images/facebook/loading_small_green.gif" style="margin-top: 6px;"></span>
+							<p class="clear"></p></li>
 							<li><span style="background:#FF9B05;"><!--stupis IE hack -->
 								<span class="tinyBtn fLeft orangeBtn marginTop rounded {transparent} login submit"><b class="bt"><b></b></b><input tabindex="4" type="submit" value="Login" name="submit"><b class="bb"><b></b></b></span>
 							</span></li>
 						</ul>
-
-
 						<p class="clear">&nbsp;</p>
 					</form>
 				</div>
@@ -152,26 +468,24 @@ $j(document).ready(function(){
 <!-- begin tabbed navigation -->
 		<ul class="left main fLeft">
 			
-			<!-- true -->
 				
 				
 				
 					<li id="campaigns"><a href="/campaign/PublicCampaignsOverview.do">BzzCampaigns</a></li>
-				
-					<li id="frog"><a href="/frog/FrogPond.do?action=browse">Frogpond</a></li>
-				
-                    <li id="bzzscapes"><a href="/bzzscapes/">BzzScapes</a></li>
-				
+					
+						<li id="frog"><a href="/frog/FrogPond.do?action=browse">Frogpond</a></li>
+					
+						<li id="bzzscapes"><a href="/bzzscapes/">BzzScapes</a></li>
 					
 					<li id="hire"><a href="http://about.bzzagent.com">Hire Us</a></li>
 					
 						
 						
-						<li id="join"><a href="/signup/NewAgentSignup.do?ipid=signup_multipage_universalnavbar_20090401">Join BzzAgent</a></li>
+							<li id="join"><a href="/signup/Signup.do?ipid=signup_multipage_universalnavbar_20090401">Join BzzAgent</a></li>
 						
 					
 					
-				
+					
 				
 				
 				
@@ -345,28 +659,31 @@ $j(document).ready(function(){
 
 		<ul class="footerNav left">
 
-			<li>
+			
+				<li>
+					
+						<a href="/french.jsp">Français</a>
+					
+					
+					</li>
 				
-					
-						<a href="/french.jsp" rel="nofollow">Français</a>
-					
-					
-					
-				
-				</li>
 			
 			<li><a href="http://about.bzzagent.com/word-of-mouth/company">About BzzAgent</a></li>
-			<li><a href="/pages/Page.do?page=Contact_Us">Contact Us</a></li>
+			<li><a href="/pg/Contact-Us">Contact Us</a></li>
 			
 			<li><a href="http://about.bzzagent.com/word-of-mouth/getstarted">Hire Us</a></li>
-			<li><a href="/pages/Page.do?page=Code_of_Conduct">Code of Conduct</a></li>
-			<li><a href="/pages/Page.do?page=Privacy_Policy">Privacy</a></li>
-			<li><a href="/pages/Page.do?page=Terms_Conditions">Terms</a></li>
-			<li><a href="/pages/Page.do?page=Site_Map">Site Map</a></li>
+			<li><a href="/pg/Code-of-Conduct">Code of Conduct</a></li>
+			<li><a href="/pg/Privacy-Policy">Privacy</a></li>
+			<li><a href="/pg/Terms-Conditions">Terms</a></li>
+			<li><a href="/pg/Site-Map">Site Map</a></li>
 		</ul>
-			<p class="small white copy"><span class="trans"><a href="http://www.bzzagent.com/"><img height="11" width="16" alt="" src="/img/flags/us.png"></a><a href="http://www.bzzagent.com/"><img height="11" width="16" class="trans" alt="" src="/img/flags/ca.png"></a><a href="http://www.bzzagent.co.uk/"><img height="11" class="trans" width="16" alt="" src="/img/flags/gb.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;</span>©2009 <a href="http://about.bzzagent.com/word-of-mouth/company" class="white">BzzAgent</a>, Inc., All Rights Reserved</p>
+			
+				<p class="small white copy"><span class="trans"><img height="11" width="16" alt="" src="/img/flags/us.png"><img height="11" width="16" class="trans" alt="" src="/img/flags/ca.png"><a href="http://www.bzzagent.co.uk/"><img height="11" class="trans" width="16" alt="" src="/img/flags/gb.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;</span>©2010 <a href="http://about.bzzagent.com/word-of-mouth/company" class="white">BzzAgent</a>, Inc., All Rights Reserved</p>
+				
+				
 	</div><!--end footerWrap-->
 </div><!--end footer-->
+
 
 
 <script language="JavaScript" type="text/javascript"><!--
@@ -376,6 +693,15 @@ bzzMetrics.activate();
 //--></script>
 
 
+    
+        <script type="text/javascript">
+            window.api_key="5a5b0f6614bc69eef064a8adac597f5b";
+            
+            
+
+            FB.init(window.api_key, "/fb/xd_receiver.php"
+            );
+        </script>
     
 
 
