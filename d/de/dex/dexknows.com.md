@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dexknows.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831103943id_/http%3A//www.dexknows.com/info/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dexknows.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118141337id_/http%3A//www.dexknows.com/info/privacy_policy.asp) for the most accurate reproduction.*
 
-# DexKnows - Privacy Policy
+# Privacy Policy | Dexknows.com
 
-Last Updated April 8, 2009
+**Last Updated April 8, 2009**
 
 Dex Media, Inc., R.H. Donnelley Publishing & Advertising, Inc. and R.H. Donnelley Publishing & Advertising of Illinois Partnership (collectively, "Dex") understand and respect your concerns about privacy. This notice describes Dex's privacy policy as it pertains to the website at www.DexKnows.com (the "Website"). We may from time-to-time revise this privacy policy, and the date of last revision will be available at the top of this page, so please be sure to check back periodically. **By visiting the Website, you are acknowledging and accepting this Privacy Policy. Your continued use of the Website after changes have been posted to the Privacy Policy will constitute your acceptance of such changes**.
 
@@ -10,7 +10,7 @@ Dex Media, Inc., R.H. Donnelley Publishing & Advertising, Inc. and R.H. Donnelle
 
 In addition to the information you knowingly provide, Dex collects the domain names and IP addresses of its visitors, along with usage statistics (e.g., types of web browsers and operating systems used) and browsing history. This data is used to more efficiently operate Dex's business, promote our products and services and administer the Website. Dex may combine this information with the personally identifiable information it collects.
 
-**How Dex uses your information:** Dex may use your information:
+**How Dex uses your information:** Dex may use your information: 
 
   * To provide you with personalized content. 
   * To process and respond to inquiries.
