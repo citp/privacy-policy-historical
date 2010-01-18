@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spankingtube.com privacy policy that was archived on 2009-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090819114953id_/http%3A//www.spankingtube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spankingtube.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118024943id_/http%3A//www.spankingtube.com/privacy.php) for the most accurate reproduction.*
 
 # Spanking Tube - Your source for free Spanking and Bondage Videos :: Privacy Policy
 
