@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ave99.com privacy policy that was archived on 2009-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090106235649id_/http%3A//www.ave99.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ave99.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118135521id_/http%3A//www.ave99.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Ave99
 
-Last Updated: September 10, 2008
+Last Updated: November 16, 2009
 
 Generally Ave99.com (“Site” or “we”, “our” or “us”) does not collect, store, use or disclose any data collected with an intention to identify and/or contact a person such as: name, address, telephone number or e-mail address (hereinafter “PII”).
 
@@ -50,7 +50,7 @@ If you have any questions about anything in this Privacy Policy or about collect
 
 Business and Legal Affairs   
 Ave99.com/MeziMedia   
-103 E. Lemon Ave., Suite 200   
-Monrovia, CA 91016 
+222 E. Huntington Drive., Suite 105,  
+Monrovia, CA 91016
 
 E-Mail: [privacy@MeziMedia.com](mailto:privacy@mezimedia.com)
