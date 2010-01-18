@@ -1,11 +1,39 @@
-> *The following text is extracted and transformed from the ynot.com privacy policy that was archived on 2007-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071023160003id_/http%3A//www.ynot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ynot.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118082509id_/http%3A//www.ynot.com/privacy.php) for the most accurate reproduction.*
 
 # YNOT.com :: The Ultimate Adult Webmaster Resource Site
 
   
+|   
+  
+---  
+| |   
+[](http://openads.ynot.com/adclick.php?bannerid=3865&zoneid=458&source=&dest=http%3A%2F%2Fwww.rackco.com)
+
+### [](http://openads.ynot.com/adclick.php?bannerid=3865&zoneid=458&source=&dest=http%3A%2F%2Fwww.rackco.com)[Looking For Hosting?](http://openads.ynot.com/adclick.php?bannerid=3865&zoneid=458&source=&dest=http%3A%2F%2Fwww.rackco.com)
+
+YNOT is proud to recommend Rackco for your website hosting needs.  
+www.rackco.com
+
+  
+[](http://openads.ynot.com/adclick.php?bannerid=3869&zoneid=459&source=&dest=http%3A%2F%2Frefer.ccbill.com%2Fcgi-bin%2Fclicks.cgi%3FCA%3D920029-0000%26PA%3D934524%26HTML%3Dhttp%3A%2F%2Fwww.ftvcash.com)
+
+### [](http://openads.ynot.com/adclick.php?bannerid=3869&zoneid=459&source=&dest=http%3A%2F%2Frefer.ccbill.com%2Fcgi-bin%2Fclicks.cgi%3FCA%3D920029-0000%26PA%3D934524%26HTML%3Dhttp%3A%2F%2Fwww.ftvcash.com)[Our Girls Make You More](http://openads.ynot.com/adclick.php?bannerid=3869&zoneid=459&source=&dest=http%3A%2F%2Frefer.ccbill.com%2Fcgi-bin%2Fclicks.cgi%3FCA%3D920029-0000%26PA%3D934524%26HTML%3Dhttp%3A%2F%2Fwww.ftvcash.com)
+
+FTVCash offers you 100% exclusive girls that you will never find anywhere else.  
+www.ftvcash.com
+
+  
+[](http://openads.ynot.com/adclick.php?bannerid=4000&zoneid=460&source=&dest=http%3A%2F%2Fwww.maxcash.com)
+
+### [](http://openads.ynot.com/adclick.php?bannerid=4000&zoneid=460&source=&dest=http%3A%2F%2Fwww.maxcash.com)[Paying Out Since 1996](http://openads.ynot.com/adclick.php?bannerid=4000&zoneid=460&source=&dest=http%3A%2F%2Fwww.maxcash.com)
+
+Earn $35 per FREE trial signup advertising hardcore, teen, ebony, tranny, gay, lesbian, and anal sites.  
+www.maxcash.com  
   
   
-|  |  |   
+  
+  
+|  |   
 ---  
 |  |   
 | 
