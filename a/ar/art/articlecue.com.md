@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlecue.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626075608id_/http%3A//www.articlecue.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecue.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118082026id_/http%3A//www.articlecue.com/privacy.php) for the most accurate reproduction.*
 
 # ArticleCue.com Free Article Directory | Privacy Statement
 
