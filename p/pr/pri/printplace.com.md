@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the printplace.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204022023id_/http%3A//www.printplace.com/static/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printplace.com privacy policy that was archived on 2010-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100119041012id_/http%3A//www.printplace.com/static/privacy-policy.aspx) for the most accurate reproduction.*
 
-# PrintPlace: An online printing company for brochures postcards flyers
+# PrintPlace.com Website Privacy Statement | PrintPlace.com
 
-PrintPlace.com Website Privacy Statement
+**PrintPlace.com Website Privacy Statement**
 
-This document was last updated on 6/2/2006.
+This document was last updated on 6/2/2009.
 
 **1\. Acknowledgement and acceptance of terms**
 
@@ -17,7 +17,7 @@ Related services and offerings with links from this website, including vendor si
 **3\. Information We Collect and How We Use It**  
 PrintPlace.com collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
 
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: 
+When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
 
   * Your Internet protocol address. 
   * The kind of browser or computer you use. 
@@ -40,7 +40,7 @@ PrintPlace.com reserves the right to share aggregated site statistics with partn
 
 You have the ability to accept or decline cookies.  Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
 
-c. Personal Information Users
+**c. Personal Information Users**
 
 Visitors to our website can register to purchase services.  When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information.  If you are purchasing a service, we will request financial information.  Any financial information we collect is used only to bill you for the services you purchased.  If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
 
@@ -64,11 +64,11 @@ We will provide you with the means to ensure that personally identifiable inform
 **6\. Changes to this Statement**  
 PrintPlace.com has the discretion to occasionally update this privacy statement.  When we do, we will also revise the “updated” date at the top of this Privacy page.  We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.  Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
-**7\. Contacting Us**   
+**7\. Contacting Us**  
 If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us.  customercare@printplace.com or send your comments to:
 
 PrintPlace.com  
-**Attention:   Privacy Statement Personal**  
+ **Attention:   Privacy Statement Personal**  
 1130 Avenue H East  
 Arlington, TX  76011  
 Phone: (817) 701-3555  
