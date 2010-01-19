@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sixminutestosuccess.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217205349id_/http%3A//www.sixminutestosuccess.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixminutestosuccess.com privacy policy that was archived on 2010-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100119084233id_/http%3A//www.sixminutestosuccess.com/privacy) for the most accurate reproduction.*
 
-# Six Minutes To Success | Privacy Policy
+# Six Minutes To Success: Bob Proctor Helps You Acheive Success Through The Law Of Attraction In 6 Minutes A Day
 
 #### SixMinutesToSuccess.com Privacy Statement
 
