@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thescene.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612042119id_/http%3A//www.thescene.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thescene.com privacy policy that was archived on 2010-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100119054754id_/http%3A//www.thescene.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Scene
 
