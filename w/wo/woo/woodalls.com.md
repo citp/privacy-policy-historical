@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodalls.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129084049id_/http%3A//www.woodalls.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodalls.com privacy policy that was archived on 2010-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100119043605id_/http%3A//www.woodalls.com/privacy.aspx) for the most accurate reproduction.*
 
 # Your Privacy Rights
 
