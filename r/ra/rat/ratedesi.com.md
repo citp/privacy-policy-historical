@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratedesi.com privacy policy that was archived on 2009-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090331212724id_/http%3A//www.ratedesi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratedesi.com privacy policy that was archived on 2010-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100119043221id_/http%3A//www.ratedesi.com/privacy.php) for the most accurate reproduction.*
 
 # Rate Desi - The Desi HOT or NOT site
 
