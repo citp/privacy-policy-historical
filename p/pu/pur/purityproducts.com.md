@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purityproducts.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224212802id_/http%3A//www.purityproducts.com/privacy.asp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purityproducts.com privacy policy that was archived on 2010-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100119225753id_/http%3A//www.purityproducts.com/privacy.asp%3F) for the most accurate reproduction.*
 
 # Purity Products - Privacy Policy
 
