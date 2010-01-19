@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brainiacdating.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525211839id_/http%3A//www.brainiacdating.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainiacdating.com privacy policy that was archived on 2010-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100119043719id_/http%3A//www.brainiacdating.com/privacy.php) for the most accurate reproduction.*
 
-# Intelligent Online Dating at BrainiacDating.com
+# Find smart singles at BrainiacDating.com.
 
 ## Social Universe, LLC and BrainiacDating.com Website Privacy Statement
 
@@ -56,7 +56,7 @@ We will not disclose personally identifiable information we collect from you to 
 
       * To fulfill your service requests for services. 
       * To protect ourselves from liability, 
-      *       * To respond to legal process or comply with law, or
+      * To respond to legal process or comply with law, or
       * In connection with a merger, acquisition, or liquidation of the company.
   
 
@@ -77,3 +77,9 @@ If you have questions regarding our Privacy Statement, its implementation, failu
 
 support@brainiacdating.com  
 will use commercially reasonable efforts to promptly respond and resolve any problem or question. 
+
+BrainiacDating.com  
+P.O. Box 5145  
+Santa Clara CA  
+95056  
+United States
