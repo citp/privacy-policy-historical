@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the songza.fm privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218104228id_/http%3A//songza.fm/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songza.fm privacy policy that was archived on 2010-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100120104113id_/http%3A//songza.fm/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Songza
 
