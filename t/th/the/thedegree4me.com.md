@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedegree4me.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622033432id_/http%3A//www.thedegree4me.com/PrivacyPolicy.asp%3FPublisherID%3D1356%26AffiliateID%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedegree4me.com privacy policy that was archived on 2010-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100120073524id_/http%3A//www.thedegree4me.com/PrivacyPolicy.asp%3FPublisherID%3D1356%26AffiliateID%3D) for the most accurate reproduction.*
 
 # The Degree4me.com - Privacy
 
@@ -80,4 +80,4 @@ Dedicated Media
 909 Sepulveda Blvd. Suite 320  
 El Segundo, CA 90245  
 t: 310.524.9400  
-[information@dedicatedla.com](emailto:information@dedicatedla.com)
+[information@dedicatedla.com](mailto:information@dedicatedla.com)
