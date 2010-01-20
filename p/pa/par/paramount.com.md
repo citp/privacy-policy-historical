@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paramount.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216190842id_/http%3A//www.paramount.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paramount.com privacy policy that was archived on 2010-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100120180854id_/http%3A//www.paramount.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Paramount Pictures
 
