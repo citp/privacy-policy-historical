@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centrelink.gov.au privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215095010id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrelink.gov.au privacy policy that was archived on 2010-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100120091327id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -74,6 +74,6 @@ If you have any privacy or security concerns:
   
 
 
-Did you find what you were looking for? You can also try the [A-Z list](https://web.archive.org/internet/internet.nsf/site_help/az.htm), [quick links](https://web.archive.org/internet/internet.nsf/site_help/quicklinks.htm), [search](https://web.archive.org/internet/internet.nsf/search/index.htm), [site help](https://web.archive.org/internet/internet.nsf/site_help/index.htm), [we speak your language](https://web.archive.org/internet/internet.nsf/languages/index.htm) or send us [feedback](https://secure.centrelink.gov.au/sims/sims_main.cfm) on how to make this a better website.
+Did you find what you were looking for? You can also try the [A to Z list](https://web.archive.org/internet/internet.nsf/site_help/az.htm), [quick links](https://web.archive.org/internet/internet.nsf/site_help/quicklinks.htm), [search](https://web.archive.org/internet/internet.nsf/search/index.htm), [site help](https://web.archive.org/internet/internet.nsf/site_help/index.htm), [we speak your language](https://web.archive.org/internet/internet.nsf/languages/index.htm) or send us [feedback](https://secure.centrelink.gov.au/sims/sims_main.cfm) on how to make this a better website.
 
 Return to Top
