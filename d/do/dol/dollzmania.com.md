@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollzmania.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531100047id_/http%3A//www.dollzmania.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollzmania.com privacy policy that was archived on 2010-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100120085207id_/http%3A//www.dollzmania.com/privacy.htm) for the most accurate reproduction.*
 
 # Dollz Mania Dolls - Doll makers and Dress up games - Make Cartoon Dolls @ Dollz Mania
 
@@ -34,10 +34,13 @@ The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is us
 
 
 
+To opt-out from such information collection and use, please visit the  opt-out page at [ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)  
+
+
 * * *
 
 Summation:  
-If you have any questions about this privacy statement or the practices of this site, please [contact us.](https://web.archive.org/web/20090531100047id_/http%3A//www.dollzmania.com/contact.htm)  
+If you have any questions about this privacy statement or the practices of this site, please [contact us.](https://web.archive.org/web/20100120085207id_/http%3A//www.dollzmania.com/contact.htm)  
 
 
 * * *
@@ -48,10 +51,4 @@ If you have any questions about this privacy statement or the practices of this 
 
 
 [](http://top.addfreestats.com/cgi-bin/main.cgi?usr=00045716P064) |    
-|    
-
-
-[](http://www.dollzmaniaarcade.com/)  
-Hello World!  
-We update frequently so check back often!  
-
+| 
