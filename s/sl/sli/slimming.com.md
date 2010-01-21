@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slimming.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219033328id_/http%3A//www.slimming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slimming.com privacy policy that was archived on 2010-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100121024718id_/http%3A//www.slimming.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Slimming.com
 
