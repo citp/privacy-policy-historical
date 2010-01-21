@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kmart.com privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121052953id_/http%3A//www.kmart.com/shc/s/nb_10151_10104_NB_CSprivacy%3FadCell%3DWF) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmart.com privacy policy that was archived on 2010-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100121010101id_/http%3A//www.kmart.com/shc/s/nb_10151_10104_NB_CSprivacy%3FadCell%3DWF) for the most accurate reproduction.*
 
-# Clothing, Toys, Electronics, Jewelry, Jaclyn Smith - Kmart.com
+# Kmart Online Shopping for home accessories, TVs, clothing, and more
 
 **Effective June 23, 2009:**
 
