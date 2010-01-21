@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exposureroom.com privacy policy that was archived on 2009-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090210203529id_/http%3A//exposureroom.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exposureroom.com privacy policy that was archived on 2010-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100121051956id_/http%3A//exposureroom.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # ExposureRoom.com Privacy Policy
 
@@ -11,6 +11,7 @@ By using or accessing ExposureRoom.com, you are accepting the practices describe
 #### Information Collected
 
   * ExposureRoom collects personal information when you register for ExposureRoom or otherwise voluntarily provide such information. 
+  * You Email address, postal address, date of birth and other personal information you provide will not be made public. However, your ExposureRoom username and your first and last name are in the public domain and will likely be indexed by global search engines and the ExposureRoom search engine. 
   * ExposureRoom uses cookies and other technologies to enhance your online experience and to learn about how you use ExposureRoom services in order to improve the quality of our services. 
   * You post User Content on the Site at your own risk. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.
   * If you choose to use our invitation service to tell a friend about our site, we will ask you for information needed to send the invitation, such as your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. 
