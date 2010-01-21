@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rooftopcomedy.com privacy policy that was archived on 2009-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091216054815id_/http%3A//www.rooftopcomedy.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rooftopcomedy.com privacy policy that was archived on 2010-01-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100121042546id_/http%3A//www.rooftopcomedy.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <meta content="text/html; charset=UTF-8" http-equiv="content-type">
@@ -45,7 +45,7 @@
 	function inc_topnav_init()
 	{
 		//winOpen_init();
-		$(".openWin").click(function(){
+		jQuery(".openWin").click(function(){
 			var w =	window.open(this.href, 'RooftopComedy');
 			if (w) {
 				w.focus();
@@ -55,19 +55,19 @@
 
 		if (typeof(console) != 'undefined') console.log("inc_topnav_init called.");
 
-		$("#none").addClass("active");
+		jQuery("#none").addClass("active");
 
 
-		$("#navtabs img").hover(
+		jQuery("#navtabs img").hover(
 				function() {
-					var image = $(this);
+					var image = jQuery(this);
 					if (!image.hasClass("active")) {
 						var src = image.attr("src");
 						image.attr("src", src.replace(/_of/, "_on"));
 					}
 				},
 				function() {
-					var image = $(this);
+					var image = jQuery(this);
 					if (!image.hasClass("active")) {
 						var src = image.attr("src");
 						image.attr("src", src.replace(/_on/, "_of"));
@@ -141,8 +141,8 @@
 		};		
 		performerAutoComp.dataErrorEvent.subscribe(on_PerformerACDataError);
 
-		$("#keywordsearchbutton").click(function() {
-			$("#keywordSearchForm").submit();
+		jQuery("#keywordsearchbutton").click(function() {
+			jQuery("#keywordSearchForm").submit();
 		});
 	}
 
@@ -356,9 +356,12 @@
 </div><div id="plain_rc">
 <div id="plain_rc_news">
 		<p>
+			December 16, 2009<br>
+			<a href="/about/news/20091216_moshe_kasher"><span>Rooftop Comedy’s Moshe Kasher Named iTunes Best New Comedian of 2009</span></a>
+		</p>
+		<p>
 			November 17, 2009<br>
-			<a href="/about/news/20091117_mottleys_comedy_club"><span>Rooftop Media Expands Comedy Club Network Adding
-Mottley's Comedy Club, Boston &amp; The Lincoln Lodge, Chicago</span></a>
+			<a href="/about/news/20091117_mottleys_comedy_club"><span>Rooftop Media Expands Comedy Club Network Adding Mottley's &amp; Lincoln Lodge</span></a>
 		</p>
 		<p>
 			October 15, 2009<br>
@@ -452,10 +455,6 @@ Comedians</span></a>
 		<p>
 			December 16, 2007<br>
 			<a href="/about/news/20071216_aspen_comedy"><span>A New Era for Aspen Comedy: The Wheeler, David Brenner and RooftopComedy Partner to Bring Comedy to Aspen, CO</span></a>
-		</p>
-		<p>
-			November 7, 2007<br>
-			<a href="/about/news/20071115_new_shows"><span>RooftopComedy Now Broadcasting from United Kingdom</span></a>
 		</p>
 </div>
 
