@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volcanoecigs.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104022443id_/http%3A//www.volcanoecigs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volcanoecigs.com privacy policy that was archived on 2010-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100121135115id_/http%3A//www.volcanoecigs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
