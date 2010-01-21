@@ -1,22 +1,34 @@
-> *The following text is extracted and transformed from the choosewhat.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525043624id_/http%3A//choosewhat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choosewhat.com privacy policy that was archived on 2010-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100121045852id_/http%3A//www.choosewhat.com/about-choosewhatcom%23privacy-policy) for the most accurate reproduction.*
 
-# Welcome to ChooseWhat.com - The Entrepreneur's resource website!
+# About ChooseWhat.com | ChooseWhat.com
+
+ChooseWhat.com is designed to provide business consumers with practical information about basic, but important business product categories (ie: phone systems) and specific comparisons of the vendors. These consumers will be able to rapidly familiarize themselves with the important attributes of the category, view a complete list of vendors, and compare the ones that seem to best meet their needs. Over time, the site will be maintained, so that all the information is current, complete, and robust. Business consumers who use this site will save time and make better purchasing decisions, and vendors who receive business from this site will receive better qualified leads and have a fair portal through which they can market their competitive advantages.
+
+## Privacy Policy
 
 ChooseWhat.com takes your privacy seriously. Our privacy policy is designed to help you understand the terms and conditions surrounding the collection and use of the information we collect. We encourage you to read our full privacy policy, below:
 
-**Information Collected** ****ChooseWhat.com does not collect any _personally identifiable information_ about individuals, except when such information is voluntarily submitted by the user.
+**Information Collected** ****
+
+ChooseWhat.com does not collect any _personally identifiable information_ about individuals, except when such information is voluntarily submitted by the user.
 
 In common with many websites, ChooseWhat.com automatically logs certain _non-personally identifiable information_ about visits to our websites. This information is used for system administration and for producing usage statistics.
 
 We do collect email addresses from individuals that wish to take advantage of special promotional offers, but ** _we do not sell, rent or disclose collected email addresses to third parties._**
 
-**Electronic Newsletters and Site Notification** ****As a service, we offer free, electronic newsletters and new site (or site update) notifications to our users. ChooseWhat.com gathers the email addresses from users who voluntarily subscribe for these services. eMail addresses collected are used for newsletter and site notification purposes only.
+**Electronic Newsletters and Site Notification** ****
+
+As a service, we offer free, electronic newsletters and new site (or site update) notifications to our users. ChooseWhat.com gathers the email addresses from users who voluntarily subscribe for these services. eMail addresses collected are used for newsletter and site notification purposes only.
 
 Consumers may remove themselves from any mailing list by following the instructions contained at the end of every newsletter or website notification email.
 
-**Cookies** ****As you browse ChooseWhat.com, we place "cookies" on your hard drive to show which source (search engine and keywords, newsletter or site notification, pay-per-click ad and so on) you used to find our site. We also use cookies when you press the sign up button to collect aggregate data for analysis. We do not use cookies to track single-user data.
+**Cookies** ****
 
-**Unsubscribe Policy** ****Users may unsubscribe from any of our electronic newsletters or site notifications at any time by following the instructions contained at the end of each newsletter or notification.
+As you browse ChooseWhat.com, we place "cookies" on your hard drive to show which source (search engine and keywords, newsletter or site notification, pay-per-click ad and so on) you used to find our site. We also use cookies when you press the sign up button to collect aggregate data for analysis. We do not use cookies to track single-user data.
+
+**Unsubscribe Policy** ****
+
+Users may unsubscribe from any of our electronic newsletters or site notifications at any time by following the instructions contained at the end of each newsletter or notification.
 
 **Use of Collected Information**
 
@@ -24,10 +36,24 @@ Collecting the information described above enables us to tailor our content to o
 
 All personally identifiable information provided to ChooseWhat.com is maintained by and accessible only to ChooseWhat.com, unless stated otherwise in this privacy policy.
 
-**Third Party Partners** ****ChooseWhat.com has teamed up with reputable third party vendors in order to provide certain services to its online users. When leaving our website to view one of our partner websites, we encourage users to review the privacy statements of those websites as we cannot guarantee the privacy of users while visiting affiliate sites.
+**Third Party Partners** ****
 
-**Policy Changes** ****Occasional changes may be made to our _privacy policy_. Visitors to ChooseWhat.com are encouraged to check this document periodically to stay informed of current privacy guidelines.
+ChooseWhat.com has teamed up with reputable third party vendors in order to provide certain services to its online users. When leaving our website to view one of our partner websites, we encourage users to review the privacy statements of those websites as we cannot guarantee the privacy of users while visiting affiliate sites.
 
-**Acceptance of Terms** ****By using the ChooseWhat.com website, you signify your acceptance of this website _privacy policy_.  If you do not agree to this policy, please do not use our site. Your continued use of the ChooseWhat.com site following the posting of changes to these terms will indicate your acceptance of those changes.
+**Policy Changes** ****
 
-ChooseWhat.com is a for-profit business, but rather than charging a subscription fee, we have referral agreements with many of the companies we review. In an effort to provide a complete comparison resource we review all of the relevant companies we are aware of within a products category, regardless of whether they offer a referral program, because we need our visitors to be able to see an apples to apples comparison of all the providers. If we were to omit a products or service provider we would be forcing you to leave our site to obtain complete information. We also don't let the terms of our compensation agreements impact our reviews, for three primary reasons:
+Occasional changes may be made to our _privacy policy_. Visitors to ChooseWhat.com are encouraged to check this document periodically to stay informed of current privacy guidelines.
+
+**Acceptance of Terms** ****
+
+By using the ChooseWhat.com website, you signify your acceptance of this website _privacy policy_.  If you do not agree to this policy, please do not use our site. Your continued use of the ChooseWhat.com site following the posting of changes to these terms will indicate your acceptance of those changes.
+
+## How We Make Money
+
+ChooseWhat.com is a for-profit business, but rather than charging a subscription fee, we have referral agreements with many of the companies we review. In an effort to provide a complete comparison resource we review all of the relevant companies we are aware of within a products category, regardless of whether they offer a referral program, because we need our visitors to be able to see an apples to apples comparison of all the providers. We don't let the terms of our compensation agreements impact our reviews, for three primary reasons:
+
+  1. We typically only get paid if you actually sign up for the service.
+  2. For most referral programs, you must not cancel the service or return the product before the expiration of an initial period (typically 30 to 45 days). If we were to misrepresent a product or service, you would likely cancel or request a refund, and we'd all lose.
+  3. We need to earn your loyalty, so you'll continue to come to us for advice. If you think we've misled you, I doubt you'd return. I wouldn't.
+
+
