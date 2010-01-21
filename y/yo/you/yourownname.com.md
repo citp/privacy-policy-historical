@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourownname.com privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120110753id_/http%3A//www.yourownname.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourownname.com privacy policy that was archived on 2010-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100121172618id_/http%3A//yourownname.com/privacy.php) for the most accurate reproduction.*
 
 # YourOwnName.com - Premium Domains, Name Your Own Price!
 
