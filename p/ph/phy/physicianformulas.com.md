@@ -1,6 +1,23 @@
-> *The following text is extracted and transformed from the physicianformulas.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213001142id_/http%3A//www.physicianformulas.com/store/scripts/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physicianformulas.com privacy policy that was archived on 2010-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100122025301id_/http%3A//physicianformulas.com/store/Scripts/privacy.asp) for the most accurate reproduction.*
 
-# PhysicianFormulas.com: your site info
+# Physician Formulas : Natural Supplements Formulated by Medical Doctor
+
+|  |  |  |  |  |  |  |  |  |  |  |   
+---|---|---|---|---|---|---|---|---|---|---  
+[](https://web.archive.org/web/20100122025301id_/http%3A//physicianformulas.com/store/Scripts/default.asp) | [](https://web.archive.org/web/20100122025301id_/http%3A//physicianformulas.com/store/Scripts/aboutus.asp) | [](https://web.archive.org/web/20100122025301id_/http%3A//physicianformulas.com/store/Scripts/shipping.asp) | [](https://web.archive.org/web/20100122025301id_/http%3A//physicianformulas.com/store/Scripts/default.asp) | [](https://web.archive.org/web/20100122025301id_/http%3A//physicianformulas.com/store/Scripts/prodList.asp?special=Y) |  |   
+|   
+|  |  | 
+
+**Total($)= **0.00****
+
+| [](https://web.archive.org/web/20100122025301id_/http%3A//physicianformulas.com/store/Scripts/cart.asp) |   
+|  |   
+|  |  |  |  |  |  |  |  |  |  |   
+---|---|---|---|---|---|---|---|---|---|---  
+|   
+  | 
+
+| 
 
 **At Physician Formulas you are guaranteed the highest level of security and privacy.**
 
@@ -16,4 +33,15 @@ During the order process you will be asked for shipping information name, addres
 
 **Disclosure to Third Parties**
 
-We use third party service providers such as credit card processors and delivery companies (such as US postal service, UPS, and Fedex) to assist us in fulfilling your order. These companies use your information to authorize payment and to deliver your order to you. Otherwise, we do not sell, rent, share, or transfer your personal information to third parties. The information you give us is confidential, and will not be sold or given to any individual or company or organization.
+We use third party service providers such as credit card processors and delivery companies (such as US postal service, UPS, and Fedex) to assist us in fulfilling your order. These companies use your information to authorize payment and to deliver your order to you. Otherwise, we do not sell, rent, share, or transfer your personal information to third parties. The information you give us is confidential, and will not be sold or given to any individual or company or organization.  
+  
+---  
+   
+  
+  |   
+  |   |   
+  |   |   
+|   
+| [](https://web.archive.org/web/20100122025301id_/http%3A//physicianformulas.com/store/Scripts/default.asp) | [](https://web.archive.org/web/20100122025301id_/http%3A//physicianformulas.com/store/Scripts/aboutus.asp) | [](https://web.archive.org/web/20100122025301id_/http%3A//physicianformulas.com/store/scripts/prodList.asp) | [](https://web.archive.org/web/20100122025301id_/http%3A//physicianformulas.com/store/Scripts/prodList.asp?special=Y) | [](https://web.archive.org/web/20100122025301id_/http%3A//physicianformulas.com/store/Scripts/contactUs.asp) | [](https://web.archive.org/web/20100122025301id_/http%3A//physicianformulas.com/store/Scripts/shipping.asp) |  |   
+|   
+ 
