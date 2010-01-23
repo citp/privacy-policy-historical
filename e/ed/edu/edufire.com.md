@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edufire.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011218id_/http%3A//www.edufire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edufire.com privacy policy that was archived on 2010-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100123030653id_/http%3A//edufire.com/privacy) for the most accurate reproduction.*
 
 # eduFire :: Content :: Privacy
 
