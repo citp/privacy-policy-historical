@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubeincest.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219083806id_/http%3A//tubeincest.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubeincest.com privacy policy that was archived on 2010-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100123141523id_/http%3A//www.tubeincest.com/terms.php) for the most accurate reproduction.*
 
 # Tube Incest - Terms of Use
 
