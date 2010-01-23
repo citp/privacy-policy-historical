@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craiglook.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216213420id_/http%3A//www.craiglook.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craiglook.com privacy policy that was archived on 2010-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100123092426id_/http%3A//www.craiglook.com/privacy.html) for the most accurate reproduction.*
 
 # Craiglook: Privacy Statement
 
