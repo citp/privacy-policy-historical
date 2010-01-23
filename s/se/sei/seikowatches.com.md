@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seikowatches.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222080420id_/http%3A//seikowatches.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seikowatches.com privacy policy that was archived on 2010-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100123072203id_/http%3A//www.seikowatches.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy | SEIKO WATCH CORPORATION
 
