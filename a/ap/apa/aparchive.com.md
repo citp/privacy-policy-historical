@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aparchive.com privacy policy that was archived on 2009-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090922224452id_/http%3A//www.aparchive.com/uns/splash/%3Furl%3Dlegal/default.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aparchive.com privacy policy that was archived on 2010-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100123040105id_/http%3A//www.aparchive.com/uns/splash/%3Furl%3Dlegal/default.html) for the most accurate reproduction.*
 
 # AP :: Archive
 
@@ -24,7 +24,7 @@
   *   *   * 
 
 
-  * © 2009 The Associated Press. All rights reserved.
+  * © 2010 The Associated Press. All rights reserved.
   * [Privacy Policy](https://web.archive.org/uns/splash/?url=legal/default.html)
 
 
