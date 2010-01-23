@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the watchmovies.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218104204id_/http%3A//www.watchmovies.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchmovies.com privacy policy that was archived on 2010-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100123090513id_/http%3A//www.watchmovies.com/privacy.php) for the most accurate reproduction.*
 
-# Watch Movies Online for Free, Watch Free Movies & TV Shows Online
+# WatchMovies.com - Privacy Policy
 
 At www.WatchMovies.com, the privacy of our visitors is of extreme importance to us. Please read our Privacy Statement below.
 
