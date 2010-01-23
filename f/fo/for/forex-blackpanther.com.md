@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forex-blackpanther.com privacy policy that was archived on 2009-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091025070443id_/http%3A//forex-blackpanther.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex-blackpanther.com privacy policy that was archived on 2010-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100123195239id_/http%3A//forex-blackpanther.com/privacy.htm) for the most accurate reproduction.*
 
 # Black Panther
 
