@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobafire.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214070722id_/http%3A//www.mobafire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobafire.com privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124144743id_/http%3A//www.mobafire.com/privacy-policy) for the most accurate reproduction.*
 
 # League of Legends Arena Builds :: Create and share your League of Legends strategy builds with other fans!
 
