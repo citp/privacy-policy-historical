@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multiupload.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209053309id_/http%3A//www.multiupload.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiupload.com privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124040925id_/http%3A//www.multiupload.com/privacy) for the most accurate reproduction.*
 
 # Multiupload.com - upload your files to multiple file hosting services!
 
