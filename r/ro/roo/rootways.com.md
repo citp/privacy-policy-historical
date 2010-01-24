@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rootways.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215130640id_/http%3A//www.rootways.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootways.com privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124092239id_/http%3A//www.rootways.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Web Solutions Company, Ecommerce Application, Graphic Designing , Web Design, Web Service Provider In Canada Brampton Mississauga Ontario GTA.
+
+Privacy Policy 
 
 At rootways we are committed to protecting your privacy. The purpose of this Privacy Statement is to inform you about Media practices relating to the collection, use and disclosure of personal information that may be provided through access to or use of our WebSites or hosting services and related services or that may be otherwise be collected by us.
 
@@ -22,8 +24,8 @@ In order to maintain the integrity and security of user data, it is often necess
 
 Our users have the following options for removing their information from our database to not receive future communications or to no longer receive our service:
 
-You may send a request via e-mail to [info@rootways.com](mailto:info@rootways.com)
+You may send a request via e-mail to [**info@rootways.com**](mailto:info@rootways.com)
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please contact Customer Support at [info@rootways.com](mailto:info@rootways.com), and one of our customer care consultants will help resolve the problem as soon as possible.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please contact Customer Support at [**info@rootways.com**](mailto:info@rootways.com), and one of our customer care consultants will help resolve the problem as soon as possible.
 
 Rootways reserves the right to modify this policy at any time and without advance notice, effective upon making the modified provisions available on the Rootways Web Site. You are responsible for regularly reviewing these documents, and continued use of the Rootways Services after any such changes shall constitute your consent to such changes. Rootways does not assume any obligation to notify you of any changes to the privacy policy.
