@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fasterlouder.com.au privacy policy that was archived on 2009-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090610065123id_/http%3A//www.fasterlouder.com.au/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fasterlouder.com.au privacy policy that was archived on 2010-01-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100124204902id_/http%3A//www.fasterlouder.com.au/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <!-- Page Title -->
@@ -8,40 +8,61 @@
 <link rel="alternate" href="/rss/events.xml" type="application/rss+xml" title="RSS">
 <link rel="home" href="http://www.FasterLouder.com.au/">
 <!-- Style Sheets -->
-<link rel="stylesheet" href="http://at.c.f.tsatic.net/text.css" type="text/css">
-<link rel="stylesheet" href="http://ac.c.f.tsatic.net/core.css" type="text/css">
-<link rel="stylesheet" href="http://ae.c.f.tsatic.net/elements/entries.css" type="text/css">
+<link rel="stylesheet" href="http://act.c.f.tsatic.net/text.css" type="text/css">
+<link rel="stylesheet" href="http://acc.c.f.tsatic.net/core.css" type="text/css">
+<link rel="stylesheet" href="http://ace.c.f.tsatic.net/elements/entries.css" type="text/css">
 <!--[if IE 7]>
-<link rel="stylesheet" href="http://ac.c.f.tsatic.net/ie7.css" type="text/css" />
+<link rel="stylesheet" href="http://acc.c.f.tsatic.net/ie7.css" type="text/css" />
 <![endif]-->
 <!-- Scripts -->
 <!-- core javascript -->
-<!-- Framework -->
-<script src="http://ac.j.f.tsatic.net/global/FWK_2.js" language="javascript" type="text/javascript"></script>
-<!-- jQuery -->
-<script src="http://ac.j.f.tsatic.net/global/jquery/jquery.js" language="javascript" type="text/javascript"></script>
+<script src="http://acc.j.f.tsatic.net/global/FWK_2.js" language="javascript" type="text/javascript"></script>
+<script src="http://acc.j.f.tsatic.net/global/jquery/jquery.js" language="javascript" type="text/javascript"></script>
 <script>jQuery.noConflict();</script>
-<script src="http://ac.j.f.tsatic.net/global/fl_global.js" language="javascript" type="text/javascript"></script>
+<script src="http://acc.j.f.tsatic.net/global/jquery/jquery.cookie.js" language="javascript" type="text/javascript"></script>		
+<script src="http://acc.j.f.tsatic.net/global/fl_global.js" language="javascript" type="text/javascript"></script>
+<script src="http://acc.j.f.tsatic.net/global/jquery/jquery.googleanalytics.js" language="javascript" type="text/javascript"></script>
+<script type="text/javascript">
+	
+	// Uncomment for debugging into Firebug Console
+	// jQuery.fn.track.defaults.debug = true;
+	
+	// Load Google Analytics script & track page views
+	jQuery.trackPage('UA-774333-1');
+	
+	jQuery(document).ready(function(){
 		
+		// Track Article All About Affiliate Link Clicks, get Affiliate Name from 'rel' attribute of anchor
+		jQuery('.allabout-affiliate a').track({
+			category : function(element) { return 'affiliate-' + element.attr('rel') }
+		});
+			
+	});
+	
+	
+</script>		
 <!-- meta tags -->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="built" content="2009-06-10 16:51:22">
+<meta name="built" content="2010-01-25 07:49:01">
 </head>
 <body>
 <!-- Site -->
 <div id="site">
 <!-- Header -->
+<link rel="stylesheet" href="http://ace.c.f.tsatic.net/elements/interstitial.css" type="text/css">
+<!-- interstitial -->
+<!-- banner inserted: Mon, 25 Jan 2010 07:49:01 +1100 --><!--START: Ad TAG | default | default/syd | 640x480 --><script language="JavaScript" src="http://ad.au.doubleclick.net/adj/fasterlouder.com.au/default/syd;;sz=640x480;tile=3;ord=5571176675?" type="text/javascript"></script><noscript><a href="http://ad.au.doubleclick.net/jump/fasterlouder.com.au/default/syd;sz=640x480;tile=3;ord=5571176675?" target="_blank"><img src="http://ad.au.doubleclick.net/ad/fasterlouder.com.au/default/syd;sz=640x480;tile=3;ord=5571176675?" width="640" height="480" border="0" alt=""></a></noscript><!--END: Ad TAG | default | default/syd | 640x480 -->
 <div id="header" class="clearfix">
 <div id="header-inner" class="clearfix">
 <h1>
 <a href="/">
-FasterLouder.com.au &gt; Your Access All Areas pass to the latest in Australian rock music! News, Reviews, Photos, Forums and more
+FasterLouder.com.au &gt; Fasterlouder.com.au is Australia's leading independent live music hub. Stock up on music and tour news, reviews, gig photos and idle gossip, or bitch to your heart's content in the forums.
 </a>			
 </h1>
 <!-- Super Ad -->
 <div class="ad super" id="ad_super_1"></div>			
 </div>
-<div id="header-navigation">
+<div id="header-navigation" class="clearfix">
 <ul id="siteNavigation" class="clearfix"></ul>
 <script>
 var tMenu = new FWK_Menu ( "siteNavigation" );
@@ -57,6 +78,8 @@ tSection.add ( "FL Presents..", "http://www.fasterlouder.com.au/presents/", "Eve
 tSection.add ( "Festival Awards", "http://www.fasterlouder.com.au/festivalawards", "Vote for your favourite festivals &amp; win!" );	
 tMenu.add ( tSection )
 var tSection = new FWK_Menu_Section ( "Videos", "http://www.fasterlouder.com.au/videos", "videos" );
+tSection.add ( "Browse Videos", "http://www.fasterlouder.com.au/videos", "" );
+tSection.add ( "Virgin Mobile Metro TV", "http://www.fasterlouder.com.au/metrotv", "" );
 tMenu.add ( tSection )   
 var tSection = new FWK_Menu_Section ( "Gigs", "http://www.fasterlouder.com.au/gigguide", "gigguide" );
 tSection.add ( "Sydney", "http://www.fasterlouder.com.au/gigguide/sydney", "Sydney Gig Guide" ); 
@@ -89,6 +112,8 @@ tSection.add ( "Musos Connection", "http://www.fasterlouder.com.au/forum/forumdi
 tSection.add ( "About the Music", "http://www.fasterlouder.com.au/forum/forumdisplay.php?f=21", "100% music and nothing else" ); 
 tSection.add ( "General Chat", "http://www.fasterlouder.com.au/forum/forumdisplay.php?f=10", "Everything in life but music" ); 		
 tSection.add ( "Splendour in the Grass", "http://www.fasterlouder.com.au/forum/forumdisplay.php?f=104", "" );       
+tSection.add ( "Big Day Out", "http://www.fasterlouder.com.au/forum/bigdayout", "" );         
+tSection.add ( "Laneway Festival", "http://www.fasterlouder.com.au/forum/forumdisplay.php?f=126", "" );          
 tMenu.add ( tSection )	      
 var tSection = new FWK_Menu_Section ( "Community", "http://www.fasterlouder.com.au/people", "community" );
 tSection.add ( "People", "http://www.fasterlouder.com.au/people", "Browse fasterlouder members" );
@@ -135,7 +160,19 @@ tMenu.init();
 <param name="quality" value="high">
 <param name="bgcolor" value="#fff">
 <embed src="/_flash/help/help.swf" quality="high" bgcolor="#333" width="1" height="1" name="helper" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
-</object>	
+</object>
+<!--[if lte IE 6]><style>#ie6-deprecated {display:block;}</style><![endif]-->
+<div id="ie6-deprecated" class="clearfix">
+<div id="ie6-notice">
+<h3>We no longer support the browser you are using.</h3>
+<p>Please upgrade to one of these more modern browsers.</p>
+</div>
+<ul id="ie6-alternatives">
+<li id="alternative-firefox"><a href="http://www.getfirefox.com/" target="_blank">Firefox:</a></li>
+<li id="alternative-safari"><a href="http://www.apple.com/safari/download/" target="_blank">Safari:</a></li>
+<li id="alternative-ie8"><a href="http://www.microsoft.com/windows/Internet-explorer/default.aspx" target="_blank">IE8:</a></li>
+</ul>
+</div>
 </div>		
 <!-- Body -->
 <!-- CSS -->
@@ -540,7 +577,7 @@ FWK_AllTabs.push ( profileTabs );
 <!-- Side Bar -->
 <div id="sideBar">
 <div class="ad sponsor" id="sideBarAd">
-<!-- banner inserted: Wed, 10 Jun 2009 16:51:22 +1000 --><!--START: Ad TAG | default | default/syd | 300x60 --><script language="JavaScript" src="http://ad.au.doubleclick.net/adj/fasterlouder.com.au/default/syd;;sz=300x60;tile=3;ord=4143988997?" type="text/javascript"></script><noscript><a href="http://ad.au.doubleclick.net/jump/fasterlouder.com.au/default/syd;sz=300x60;tile=3;ord=4143988997?" target="_blank"><img src="http://ad.au.doubleclick.net/ad/fasterlouder.com.au/default/syd;sz=300x60;tile=3;ord=4143988997?" width="300" height="60" border="0" alt=""></a></noscript><!--END: Ad TAG | default | default/syd | 300x60 -->
+<!-- banner inserted: Mon, 25 Jan 2010 07:49:01 +1100 --><!--START: Ad TAG | default | default/syd | 300x60 --><script language="JavaScript" src="http://ad.au.doubleclick.net/adj/fasterlouder.com.au/default/syd;;sz=300x60;tile=4;ord=5571176675?" type="text/javascript"></script><noscript><a href="http://ad.au.doubleclick.net/jump/fasterlouder.com.au/default/syd;sz=300x60;tile=4;ord=5571176675?" target="_blank"><img src="http://ad.au.doubleclick.net/ad/fasterlouder.com.au/default/syd;sz=300x60;tile=4;ord=5571176675?" width="300" height="60" border="0" alt=""></a></noscript><!--END: Ad TAG | default | default/syd | 300x60 -->
 </div>
 <script>
 jQuery(document).ready(function () {
@@ -580,81 +617,81 @@ Latest Features
 <div class="content">
 <!-- Small Article -->
 <div class="entry-content-small ">
-<a href="/reviews/music/18828/NOFX-Backstage-Passport-DVD.htm">
-<img src="http://1.ic.f.tsatic.net/581/65_50/graphics_2c7f9fd0ba12210f5334c1fb2aa244aa.jpg" title="NOFX: Backstage Passport [DVD]" alt="www.fasterlouder.com.au" width="65" height="50">
+<a href="/features/22224/Sarah-Blasko.htm">
+<img src="http://imagecache-cdn.fasterlouder.com.au/758/65_50/07a8d_758089.jpg" title="Sarah Blasko" alt="www.fasterlouder.com.au" width="65" height="50">
 </a>
 <div class="assistGroup">
 <h3>
-<a href="/reviews/music/18828/NOFX-Backstage-Passport-DVD.htm">
-NOFX: Backstage Passport [DVD]
+<a href="/features/22224/Sarah-Blasko.htm">
+Sarah Blasko
 </a>
 </h3>
 <div class="entry-author">
 <p>
-by <a href="/people/brittles">brittles</a>, 10th June, 2009		</p>
+by Joal, 22nd January, 2010		</p>
 </div>
 <p class="abstract">
-What happens when you are part of the world's biggest independent punk band and...
+The ever-beguiling Sarah Blasko has a casual chat with FL about Laneway Festival...
 </p>
 </div>
 </div>					
 <!-- Small Article -->
 <div class="entry-content-small ">
-<a href="/features/18798/Karnivool.htm">
-<img src="http://1.ic.f.tsatic.net/580/65_50/graphics_d969aa16d8f4b3d7be05af655be67dfc.jpg" title="Karnivool" alt="www.fasterlouder.com.au" width="65" height="50">
+<a href="/features/22211/Anti-Flag.htm">
+<img src="http://imagecache-cdn.fasterlouder.com.au/757/65_50/d6882_757779.jpg" title="Anti-Flag" alt="www.fasterlouder.com.au" width="65" height="50">
 </a>
 <div class="assistGroup">
 <h3>
-<a href="/features/18798/Karnivool.htm">
-Karnivool
+<a href="/features/22211/Anti-Flag.htm">
+Anti-Flag
 </a>
 </h3>
 <div class="entry-author">
 <p>
-by <a href="/people/ThatDude123">ThatDude123</a>, 9th June, 2009		</p>
+by miss michelle, 22nd January, 2010		</p>
 </div>
 <p class="abstract">
-After an at-times painful and "stupid" recording process, Karnivool talks to FL...
+FL gets behind the politics and into the fun with Anti-Flag founder, singer and...
 </p>
 </div>
 </div>					
 <!-- Small Article -->
 <div class="entry-content-small ">
-<a href="/features/18793/My-Secret-Playlist-with-Screamfeeder.htm">
-<img src="http://1.ic.f.tsatic.net/580/65_50/graphics_17c45e0ab0e764c42421391767297a4d.jpg" title="My Secret Playlist with Screamfeeder" alt="www.fasterlouder.com.au" width="65" height="50">
+<a href="/features/22190/The-Very-Best.htm">
+<img src="http://imagecache-cdn.fasterlouder.com.au/757/65_50/c11c8_757127.jpg" title="The Very Best" alt="www.fasterlouder.com.au" width="65" height="50">
 </a>
 <div class="assistGroup">
 <h3>
-<a href="/features/18793/My-Secret-Playlist-with-Screamfeeder.htm">
-Screamfeeder's Secret Playlist
+<a href="/features/22190/The-Very-Best.htm">
+The Very Best
 </a>
 </h3>
 <div class="entry-author">
 <p>
-by <a href="/people/MySecretPlaylist">MySecretPlaylist</a>, 9th June, 2009		</p>
+by bec4239, 21st January, 2010		</p>
 </div>
 <p class="abstract">
-Tim Steward from '90s indie-rock legends Screamfeeder shares some of his favourite...
+Fusing together European duo Radioclit and Malawian-born Esau Mwamwaya, The Very...
 </p>
 </div>
 </div>					
 <!-- Small Article -->
 <div class="entry-content-small ">
-<a href="/features/18749/Eskimo-Joe.htm">
-<img src="http://1.ic.f.tsatic.net/576/65_50/graphics_5d491c8a7c06b158b477ff01234e39b9.jpg" title="Eskimo Joe" alt="www.fasterlouder.com.au" width="65" height="50">
+<a href="/features/22201/Every-Time-I-Die.htm">
+<img src="http://imagecache-cdn.fasterlouder.com.au/757/65_50/df2f4_757245.jpg" title="Every Time I Die" alt="www.fasterlouder.com.au" width="65" height="50">
 </a>
 <div class="assistGroup">
 <h3>
-<a href="/features/18749/Eskimo-Joe.htm">
-Eskimo Joe
+<a href="/features/22201/Every-Time-I-Die.htm">
+Every Time I Die
 </a>
 </h3>
 <div class="entry-author">
 <p>
-by <a href="/people/jonnoseidler">jonnoseidler</a>, 5th June, 2009		</p>
+by MorningAfterboy, 21st January, 2010		</p>
 </div>
 <p class="abstract">
-With "drugovers" traded for family life, Kav Temperley chats to FL about Eskimo...
+Approaching the tail-end of the Boys Of Summer 2010 tour, Buffalo heavyweights...
 </p>
 </div>
 </div>				
@@ -675,24 +712,53 @@ Hot Gigs
 </a>			</h5>
 </div>
 <div class="content">
-<!-- ### t[2009-06-10 16:51:22] plugin[smarty_function_whatson] type[] key[whatsOnItem_temp_3_1_1] //-->
+<!-- ### t[2010-01-25 07:49:01] plugin[smarty_function_whatson] type[] key[whatsOnItem_temp_3_1_1] //-->
 <!-- small Event -->
 <div class="entry-event-small ">
-<a href="/gigguide/sydney/event/31783/Lily-Allen.htm">
-<img src="http://1.ic.f.tsatic.net/477/65_50/graphics_634eb74439abe107245a1d0af0fb3cf8.jpg" title="www.fasterlouder.com.au" alt="www.fasterlouder.com.au" width="65" height="50">
+<a href="/gigguide/sydney/event/37122/Soundwave-2010.htm">
+<img src="http://imagecache-cdn.fasterlouder.com.au/684/65_50/9b44b_684440.jpg" title="www.fasterlouder.com.au" alt="www.fasterlouder.com.au" width="65" height="50">
 </a>
 <div class="assistGroup">
 <h3>
-<a href="/gigguide/sydney/event/31783/Lily-Allen.htm">
-Lily Allen
+<a href="/gigguide/sydney/event/37122/Soundwave-2010.htm">
+Soundwave 2010
 </a>
 </h3>
 <div class="entry-details">
 <p>
-09/06/2009
+21/02/2010
 <!-- 
-<a href="/gigguide/sydney/date/2009-06-09">
-Tue 9th Jun
+<a href="/gigguide/sydney/date/2010-02-21">
+Sun 21st Feb
+</a>
+-->
+&gt;
+<a href="/gigguide/sydney/venue/0/Eastern_Creek_Raceway">
+Eastern Creek Raceway				</a>
+</p>
+</div>					 
+<p class="abstract">
+For 2010, Soundwave Festival has amassed a monster of a line-up.
+</p>
+</div>
+</div>					
+<!-- small Event -->
+<div class="entry-event-small ">
+<a href="/gigguide/sydney/event/36585/Pixies.htm">
+<img src="http://imagecache-cdn.fasterlouder.com.au/654/65_50/b14e7_654979.jpg" title="www.fasterlouder.com.au" alt="www.fasterlouder.com.au" width="65" height="50">
+</a>
+<div class="assistGroup">
+<h3>
+<a href="/gigguide/sydney/event/36585/Pixies.htm">
+Pixies
+</a>
+</h3>
+<div class="entry-details">
+<p>
+14/03/2010
+<!-- 
+<a href="/gigguide/sydney/date/2010-03-14">
+Sun 14th Mar
 </a>
 -->
 &gt;
@@ -701,72 +767,14 @@ Hordern Pavilion				</a>
 </p>
 </div>					 
 <p class="abstract">
-The wickedly hot Ms Lily Allen and her band will tour Australia in June,...
-</p>
-</div>
-</div>					
-<!-- small Event -->
-<div class="entry-event-small ">
-<a href="/gigguide/sydney/event/33007/Deerhunter.htm">
-<img src="http://1.ic.f.tsatic.net/522/65_50/graphics_4eca9ac33f8e3b32df570c4a0597ade8.jpg" title="www.fasterlouder.com.au" alt="www.fasterlouder.com.au" width="65" height="50">
-</a>
-<div class="assistGroup">
-<h3>
-<a href="/gigguide/sydney/event/33007/Deerhunter.htm">
-Deerhunter
-</a>
-</h3>
-<div class="entry-details">
-<p>
-11/06/2009
-<!-- 
-<a href="/gigguide/sydney/date/2009-06-11">
-Thu 11th Jun
-</a>
--->
-&gt;
-<a href="/gigguide/sydney/venue/0/The_Manning_Bar">
-The Manning Bar				</a>
-</p>
-</div>					 
-<p class="abstract">
-Finally, Atlanta’s Deerhunter are coming to Australia.
-</p>
-</div>
-</div>					
-<!-- small Event -->
-<div class="entry-event-small ">
-<a href="/gigguide/sydney/event/33882/Bluejuice.htm">
-<img src="http://1.ic.f.tsatic.net/556/65_50/graphics_cac7c063c583c9c90119d6f1769bbbca.jpg" title="www.fasterlouder.com.au" alt="www.fasterlouder.com.au" width="65" height="50">
-</a>
-<div class="assistGroup">
-<h3>
-<a href="/gigguide/sydney/event/33882/Bluejuice.htm">
-Bluejuice
-</a>
-</h3>
-<div class="entry-details">
-<p>
-13/06/2009
-<!-- 
-<a href="/gigguide/sydney/date/2009-06-13">
-Sat 13th Jun
-</a>
--->
-&gt;
-<a href="/gigguide/sydney/venue/0/Annandale_Hotel">
-Annandale Hotel				</a>
-</p>
-</div>					 
-<p class="abstract">
-On the advice of their producer and herbalist, Dr Chris Shaw, bluejuice are...
+To celebrate the 20th anniversary of the release of their classic 1980 album,...
 </p>
 </div>
 </div>				
 </div>
 <div class="cssClear"></div>
 </div>		
-<!-- banner inserted: Wed, 10 Jun 2009 16:51:22 +1000 --><!--START: Ad TAG | default | default/syd | 2x2 --><script language="JavaScript" src="http://ad.au.doubleclick.net/adj/fasterlouder.com.au/default/syd;;sz=2x2;tile=4;ord=4143988997?" type="text/javascript"></script><noscript><a href="http://ad.au.doubleclick.net/jump/fasterlouder.com.au/default/syd;sz=2x2;tile=4;ord=4143988997?" target="_blank"><img src="http://ad.au.doubleclick.net/ad/fasterlouder.com.au/default/syd;sz=2x2;tile=4;ord=4143988997?" width="2" height="2" border="0" alt=""></a></noscript><!--END: Ad TAG | default | default/syd | 2x2 -->
+<!-- banner inserted: Mon, 25 Jan 2010 07:49:01 +1100 --><!--START: Ad TAG | default | default/syd | 2x2 --><script language="JavaScript" src="http://ad.au.doubleclick.net/adj/fasterlouder.com.au/default/syd;;sz=2x2;tile=5;ord=5571176675?" type="text/javascript"></script><noscript><a href="http://ad.au.doubleclick.net/jump/fasterlouder.com.au/default/syd;sz=2x2;tile=5;ord=5571176675?" target="_blank"><img src="http://ad.au.doubleclick.net/ad/fasterlouder.com.au/default/syd;sz=2x2;tile=5;ord=5571176675?" width="2" height="2" border="0" alt=""></a></noscript><!--END: Ad TAG | default | default/syd | 2x2 -->
 </div>
 <div class="cssClear"></div>
 </div>
@@ -807,7 +815,7 @@ Back to Top
 <div class="links">
 <!-- Logo -->
 <a class="footer-logo" href="/">
-<img src="http://ad.i.f.tsatic.net/_core/logos/logo_sitefooter.gif" alt="FasterLouder.com.au" title="FasterLouder.com.au">
+<img src="http://acd.i.f.tsatic.net/_core/logos/logo_sitefooter.gif" alt="FasterLouder.com.au" title="FasterLouder.com.au">
 </a>
 <div class="footer-links">
 <!-- Quick Links -->
@@ -854,7 +862,7 @@ The Sound Alliance
 All Rights Reserved
 </li>
 <li>
-© 2009 FasterLouder Pty Ltd
+© 2010 FasterLouder Pty Ltd
 </li>
 <li>
 <a href="http://www.inthemix.com.au" target="_blank">
@@ -895,12 +903,13 @@ Hide all help text
 </div>		
 </div>
 </div>
+<div id="ieResizeFix"></div>
 <!-- Banner Ads -->
 <script type="text/javascript">
 		
-							FWK_setAd (  "ad_super_1", "<!-- banner inserted: Wed, 10 Jun 2009 16:51:22 +1000 --><!--START: Ad TAG | default | default/syd | 728x90 --><iframe src='http://ad.au.doubleclick.net/adi/fasterlouder.com.au/default/syd;;sz=728x90;tile=5;ord=4143988997?' width='728' height='90' marginwidth='0' marginheight='0' hspace='0' vspace='0' frameborder='0' scrolling=no borderCOLOR='#000000'><a href='http://ad.au.doubleclick.net/jump/fasterlouder.com.au/default/syd;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;tile=5;ord=4143988997?' target='_blank'><img src='http://ad.au.doubleclick.net/ad/fasterlouder.com.au/default/syd;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;tile=5;ord=4143988997?' width='728' height='90' border='0' alt=''></a></iframe><!--END: Ad TAG | default | default/syd | 728x90 -->" );
-			FWK_setAd ( "ad_island_1", "<!-- banner inserted: Wed, 10 Jun 2009 16:51:22 +1000 --><!--START: Ad TAG | default | default/syd | 300x250 --><iframe src='http://ad.au.doubleclick.net/adi/fasterlouder.com.au/default/syd;;sz=300x250;tile=6;ord=4143988997?' width='300' height='250' marginwidth='0' marginheight='0' hspace='0' vspace='0' frameborder='0' scrolling=no borderCOLOR='#000000'><a href='http://ad.au.doubleclick.net/jump/fasterlouder.com.au/default/syd;sz=300x250;abr=!ie4;abr=!ie5;abr=!ie6;tile=6;ord=4143988997?' target='_blank'><img src='http://ad.au.doubleclick.net/ad/fasterlouder.com.au/default/syd;sz=300x250;abr=!ie4;abr=!ie5;abr=!ie6;tile=6;ord=4143988997?' width='300' height='250' border='0' alt=''></a></iframe><!--END: Ad TAG | default | default/syd | 300x250 -->" );
-							
+							FWK_setAd (  "ad_super_1", "<!-- banner inserted: Mon, 25 Jan 2010 07:49:01 +1100 --><!--START: Ad TAG | default | default/syd | 728x90 --><iframe src='http://ad.au.doubleclick.net/adi/fasterlouder.com.au/default/syd;;sz=728x90;pos=leader-top;tile=6;ord=5571176675?' width='728' height='90' marginwidth='0' marginheight='0' hspace='0' vspace='0' frameborder='0' scrolling=no borderCOLOR='#000000'><a href='http://ad.au.doubleclick.net/jump/fasterlouder.com.au/default/syd;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;tile=6;ord=5571176675?' target='_blank'><img src='http://ad.au.doubleclick.net/ad/fasterlouder.com.au/default/syd;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;tile=6;ord=5571176675?' width='728' height='90' border='0' alt=''></a></iframe><!--END: Ad TAG | default | default/syd | 728x90 -->" );
+			FWK_setAd ( "ad_island_1", "<!-- banner inserted: Mon, 25 Jan 2010 07:49:01 +1100 --><!--START: Ad TAG | default | default/syd | 300x250 --><iframe src='http://ad.au.doubleclick.net/adi/fasterlouder.com.au/default/syd;;sz=300x250;pos=top;tile=7;ord=5571176675?' width='300' height='250' marginwidth='0' marginheight='0' hspace='0' vspace='0' frameborder='0' scrolling=no borderCOLOR='#000000'><a href='http://ad.au.doubleclick.net/jump/fasterlouder.com.au/default/syd;sz=300x250;abr=!ie4;abr=!ie5;abr=!ie6;tile=7;ord=5571176675?' target='_blank'><img src='http://ad.au.doubleclick.net/ad/fasterlouder.com.au/default/syd;sz=300x250;abr=!ie4;abr=!ie5;abr=!ie6;tile=7;ord=5571176675?' width='300' height='250' border='0' alt=''></a></iframe><!--END: Ad TAG | default | default/syd | 300x250 -->" );
+										
 		var EXP_Remover  = getItem ( "FWK_Dummy_1" );
 		EXP_Remover.expression  = new EXP_Remove ( EXP_Remover );
 		var EXP_Reporter = getItem ( "FWK_Dummy_2" );
@@ -916,29 +925,21 @@ Hide all help text
 		}
 		
 	</script>
-<!-- Google -->
-<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-	try {
-	var pageTracker = _gat._getTracker("UA-774333-1");
-	pageTracker._trackPageview();
-	} catch(err) {}</script>
-<!-- START Nielsen//NetRatings SiteCensus V5.2 -->
-<!-- COPYRIGHT 2006 Nielsen//NetRatings -->
-<script type="text/javascript">
-	var _rsCI="inthemix";
-	var _rsCG="0";
-	var _rsDN="//secure-au.imrworldwide.com/";
-	var _rsCC=0;
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2009 Nielsen Online -->
+<script src="//secure-au.imrworldwide.com/v60.js">
 </script>
-<script type="text/javascript" src="//secure-au.imrworldwide.com/v52.js"></script>
+<script type="text/javascript">
+    var pvar = { cid: "inthemix", content: "0", server: "secure-au" };
+    var trac = nol_t(pvar);
+    trac.record().post();
+</script>
 <noscript>
-<img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=inthemix&amp;cg=0" alt=""/>
+<div>
+<img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=inthemix&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" />
+</div>
 </noscript>
-<!-- END Nielsen//NetRatings SiteCensus V5.2 -->
+<!-- END Nielsen Online SiteCensus V6.0 -->
 </div>
 
 </body></html>
