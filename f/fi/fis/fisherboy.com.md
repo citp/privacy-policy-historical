@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fisherboy.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109011511id_/http%3A//www.fisherboy.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fisherboy.com privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124093025id_/http%3A//fisherboy.com/privacy_policy.php) for the most accurate reproduction.*
 
 # High Liner Product: Fisher Boy®
 
