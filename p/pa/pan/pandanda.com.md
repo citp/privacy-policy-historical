@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pandanda.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621112611id_/http%3A//pandanda.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandanda.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125005812id_/http%3A//www.pandanda.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Pandanda - Privacy Policy
 
@@ -24,7 +24,7 @@ Overall, the information we gather is intended to keep you informed, maintain yo
 
 Broadly speaking, we use personally identifiable information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers. Occasionally, we may also use the information we collect to notify you about important changes to our website, new services and special offers we think you will find valuable. 
 
-We also use PII to identify players to ban or suspend them for violating the Terms of Use Agreement if they engage in inappropriate conduct. Please read our [Terms of Use Agreement](https://web.archive.org/web/20090621112611id_/http%3A//pandanda.com/terms_of_use.htm) for a complete explanation of our rules. 
+We also use PII to identify players to ban or suspend them for violating the Terms of Use Agreement if they engage in inappropriate conduct. Please read our [Terms of Use Agreement](https://web.archive.org/web/20100125005812id_/http%3A//www.pandanda.com/terms_of_use.htm) for a complete explanation of our rules. 
 
 We may disclose your personal information if required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on us or affiliated parties; (b) protect and defend our rights and property, our site, the users of our site, and/or our affiliated parties; (c) act under circumstances to protect the safety of users of our site, us, or third parties. 
 
@@ -42,19 +42,15 @@ We are not responsible for the practices employed by websites linked to or from 
 
 Please remember that when you use a link to go from our website to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including websites which have a link on our website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding. 
 
-4.) Collection of Information for Third-Party Sites and Sponsors
-
-Pandanda is free of advertising and solicitations from third-party companies. We feel this adds value to our product and protects the children that play Pandanda. 
-
-5.) What Are Cookies?
+4.) What Are Cookies?
 
 A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. 
 
-6.) Your Consent
+5.) Your Consent
 
 By using our website you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. 
 
-7.) Contact Us
+6.) Contact Us
 
 Please contact us if you have any questions or concerns about this Privacy Policy by email at [privacy@pandanda.com](mailto:privacy@pandanda.com) or by mail at: 
 
