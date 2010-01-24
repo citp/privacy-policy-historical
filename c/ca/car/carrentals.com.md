@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the carrentals.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216060213id_/http%3A//www.carrentals.com/support/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrentals.com privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124204706id_/http%3A//www.carrentals.com/support/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # CarRentals.com - Privacy Policy
 
-**[Car Rentals Home](http://www.carrentals.com/;jsessionid=LLFKEJNKNFCD)** | **[Customer Care](http://www.carrentals.com/customercare/;jsessionid=LLFKEJNKNFCD)** | **[Car Rentals FAQ](http://www.carrentals.com/faq.jsp;jsessionid=LLFKEJNKNFCD)**  
+**[Car Rentals Home](http://www.carrentals.com/)** | **[Customer Care](http://www.carrentals.com/customercare/)** | **[Car Rentals FAQ](http://www.carrentals.com/faq.jsp)**  
 ---|---|---  
   
 ---  
