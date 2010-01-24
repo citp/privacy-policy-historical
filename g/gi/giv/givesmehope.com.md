@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the givesmehope.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530135450id_/http%3A//www.givesmehope.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givesmehope.com privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124213826id_/http%3A//www.givesmehope.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - GivesMeHope
+# Privacy Policy - GivesMeHope - Like FML, but for optimists!
 
 **What information do we collect?**
 
