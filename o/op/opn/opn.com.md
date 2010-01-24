@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opn.com privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003063249id_/http%3A//www.opn.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D101) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opn.com privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124042455id_/http%3A//www.opn.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D101) for the most accurate reproduction.*
 
 # Privacy Policy | Obama Political News
 
