@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadsfreemovie.net privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224135745id_/http%3A//downloadsfreemovie.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadsfreemovie.net privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124171812id_/http%3A//downloadsfreemovie.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Downloads Free Movie
 
