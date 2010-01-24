@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhomes.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224135407id_/http%3A//www.bhomes.com/uae/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhomes.com privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124153808id_/http%3A//www.bhomes.com/UAE/privacy.xhtml) for the most accurate reproduction.*
 
 # :: Better Homes ::
 
