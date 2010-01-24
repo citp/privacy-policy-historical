@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixelthemestudio.ca privacy policy that was archived on 2009-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090802094559id_/http%3A//www.pixelthemestudio.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixelthemestudio.ca privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124021546id_/http%3A//pixelthemestudio.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ Cookies are used to store visitors' preferences and record past activity at a si
 
   * This site offers commenting and does provide commenting features such as your name or username, email address (not in public view), and IP address will be recorded when you make a comment. This information will not be published or shared with any third parties.
 
-  * If you make a payment by signing up with one of our memberships, certain information are collected, but your credit card information is never stored on our sites. PayPal's privacy policy may be viewed [here](https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside "here").
+  * If you make a payment by signing up with one of our memberships, certain information is collected, but your credit card information is **never** stored on our sites. PayPal's privacy policy may be viewed [here](https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside "here").
 
 
 
