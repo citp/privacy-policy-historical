@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zlobos.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216120119id_/http%3A//www.zlobos.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zlobos.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125113932id_/http%3A//www.zlobos.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
