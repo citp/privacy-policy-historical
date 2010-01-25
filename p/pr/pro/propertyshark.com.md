@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyshark.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612164304id_/http%3A//www.propertyshark.com/mason/text/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyshark.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125152636id_/http%3A//www.propertyshark.com/mason/text/privacy_policy.html) for the most accurate reproduction.*
 
 # PropertyShark - Privacy Policy
 
