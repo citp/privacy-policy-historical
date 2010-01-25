@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trymicrosoftoffice.com privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923142319id_/http%3A//store.digitalriver.com/store/msdocs/Content/pbPage.privacy_statement_en/ThemeID.5365600) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trymicrosoftoffice.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125034934id_/http%3A//store.digitalriver.com/store/msdocs/Content/pbPage.privacy_statement_en/ThemeID.5365600) for the most accurate reproduction.*
 
 # 
 
