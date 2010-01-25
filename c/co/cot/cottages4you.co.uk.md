@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cottages4you.co.uk privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228131314id_/http%3A//www.cottages4you.co.uk/sites/cottages4you/pages/sec_priv.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottages4you.co.uk privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125064357id_/http%3A//www.cottages4you.co.uk/sites/cottages4you/pages/sec_priv.aspx) for the most accurate reproduction.*
 
-# Security and Privacy Policy | cottages4you
+# Security and Privacy Policy | Holiday cottages in the UK, France, Ireland, Spain and Portugal | cottages4you
 
 **BY USING THIS WEB SITE, YOU SIGNIFY YOUR AGREEMENT TO HOLIDAY COTTAGES GROUP LIMITED’S (HCG'S) PRIVACY POLICY. IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEB SITE. YOUR CONTINUED USE OF HCG'S WEB SITES FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.**
 
