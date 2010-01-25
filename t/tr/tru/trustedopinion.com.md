@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustedopinion.com privacy policy that was archived on 2009-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090411073035id_/http%3A//www.trustedopinion.com/pub/policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedopinion.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125211424id_/http%3A//www.trustedopinion.com/pub/policy.do) for the most accurate reproduction.*
 
 # Privacy Policy - Trusted Opinion™ Great Recommendations and Reviews
 
@@ -36,7 +36,7 @@ Browser information, IP addresses, and cookie information are used to better tai
 
 **Security of your Information**
 
-We take the security of your personal information seriously. Your account information is password-protected and Trusted Opinion protects data transmissions by using SSL-encryption. 
+We take the security of your personal information seriously. Your account information is password-protected. 
 
 We limit access to your personal information to employees and service providers who need access in order to do their jobs. We contractually require our service providers to have the same high privacy standards as we do. 
 
