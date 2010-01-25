@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zug.com privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121125713id_/http%3A//www.zug.com/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zug.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125020924id_/http%3A//www.zug.com/about/legal/privacy.html) for the most accurate reproduction.*
 
 # About ZUG: Privacy Policy
 
