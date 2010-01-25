@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gptreasure.com privacy policy that was archived on 2009-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090313192148id_/http%3A//gptreasure.com/modules/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gptreasure.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125085331id_/http%3A//gptreasure.com/modules/privacy) for the most accurate reproduction.*
 
 # Gptreasure.com - Privacy
 
