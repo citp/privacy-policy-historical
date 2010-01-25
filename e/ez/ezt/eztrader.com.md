@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eztrader.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215174724id_/http%3A//www.eztrader.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eztrader.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125154210id_/http%3A//www.eztrader.com/Privacy.aspx) for the most accurate reproduction.*
 
 # EZTrader.com Privacy Statement
 
@@ -53,3 +53,6 @@ On our Web site and on our online account application, we use technology to encr
 Changes to this Privacy Statement
 
 In the event EZtrader materially changes this Privacy Statement, the revised Privacy Statement will promptly be posted to the Web site and we will post a notice on our Web site informing you of such changes. You agree to accept posting of a revised Privacy Statement electronically on the Web site as actual notice to you. Any dispute over our Privacy Statement is subject to this notice and the EZtrader Customer Agreement. If you have any questions that this statement does not address, please contact a client services representative.
+
+  
+
