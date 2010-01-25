@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the leatherology.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124164219id_/http%3A//www.leatherology.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leatherology.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125104631id_/http%3A//www.leatherology.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Leather Goods | Leather Accessories | From Leatherology.com
 
+Privacy Policy  
+---  
+  
 Leatherology is committed to protecting your privacy. If, after reading our policies, you have questions regarding the information you provide to us, please contact us at 1-800.818.4478 or email us at [info@leatherology.com](mailto:info@leatherology.com)   
 
 
@@ -17,10 +20,8 @@ In addition, the information you provide us is stored in our customer database. 
 
 Our website contains links to other websites. We encourage you to read and become aware of the privacy policies of each of these other sites before providing personal information to them, as their policies may be different from ours.
 
-  You may use our [Contact Us](http://www.the-cover-store.com/contactus.aspx) page for inquiries and comments. In order for us to properly service you, we will ask for personal information during this process.
-
-| 
-
+  You may use our [Contact Us](http://www.the-cover-store.com/contactus.aspx) page for inquiries and comments. In order for us to properly service you, we will ask for personal information during this process.  
+  
 **Security:**  
 Leatherology takes every precaution to protect the information you provide to us. When you submit sensitive information via our website, your information is protected both online and off-line. 
 
