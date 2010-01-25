@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsearch.gov.au privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107220313id_/http%3A//jobsearch.gov.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsearch.gov.au privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125061521id_/http%3A//jobsearch.gov.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Australian JobSearch
 
