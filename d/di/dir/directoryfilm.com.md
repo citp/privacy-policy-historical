@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the directoryfilm.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430014911id_/http%3A//www.directoryfilm.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryfilm.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125075118id_/http%3A//www.directoryfilm.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy, Film directory, cinemas, radio, television, film productions, actors, actresses
+# Privacy Policy - Film directory, cinemas, radio, television, film productions, actors, actresses
 
 **DirectoryFilm.com Privacy Statement**  
-We respect your privacy and we are committed to safeguarding your privacy while online at our site www.directoryfilm.com The following discloses the information gathering and dissemination practices for this Web site. 
+We respect your privacy and we are committed to safeguarding your privacy while online at our site www.directoryfilm.com. The following discloses the information gathering and dissemination practices for this Web site.
 
 **Log Files**  
 Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
@@ -20,5 +20,4 @@ This Web site contains links to other sites. Please be aware that we are not res
 **Advertisers**  
 We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, Axill etc. Please check their websites for respective privacy policies.
 
-**Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, please contact us at: 
+**Contact Information**
