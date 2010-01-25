@@ -1,36 +1,22 @@
-> *The following text is extracted and transformed from the unbeatable.co.uk privacy policy that was archived on 2005-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050310055245id_/http%3A//www.unbeatable.co.uk/CatalogueItem_8887.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unbeatable.co.uk privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125011736id_/http%3A//www.unbeatable.co.uk/privacy-policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Unbeatable.co.uk - Privacy Policy
 
-|  |   
-|   
-  
-| 
+**Keeping it simple...**  
+We won't send you anything to you unless you ask for it.  
+We won't give your personal information to anyone. We simply use it to create your detective account.  
+We use cookies. This enables us to build your detective portfolio. The cookies are in no way used for any other reason.  
+We show adverts discreetly. Only view targetted adverts if you choose to.  
+Members will only be asked for a few personal details, in order to keep your product searching in one place for you to visit again.
 
-  
+**Cookies...**  
+Google, as a third party vendor, uses cookies to serve ads on this site  
+Google's use of the DART cookie enables it to serve ads to users based on their visit to this site and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html  
+Some of our advertising partners may use cookies and web beacons on our site.
 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on the site send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-We are committed to protecting your privacy. We will only use the information that we collect about you lawfully in accordance with the Data Protection Act 1998.
+It is recommended that you read the Terms of Use if using this site.
 
-We collect information about you for 2 reasons: firstly, to process your order and secondly, to provide you with the best possible service.
-
-  * We will not e-mail you in the future unless you have given us your consent. 
-  * We will not pass your e-mail address to other trusted traders unless you agree.
-
-The type of information we will collect about you includes: 
-  * name 
-  * address 
-  * phone number 
-  * email address 
-  * credit/debit card details 
-
-We will never collect sensitive information about you without your explicit consent.  
-The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly.  
-If we intend to transfer your information outside the EEA (European Economic Area) we will always obtain your consent first.  
-We use website log files to track and report on the patterns of behaviour of visitors to our site. This site also uses a "cookie" which we store on your browser. You can modify your browser settings to prevent this happening but this site will not perform correctly without it.
-
-If you are currently receiving promotional information via us and would prefer not to, please amend your account details or email [nomoremail@csv.co.uk](mailto:nomoremail@csv.co.uk)  
-If you have any questions/comments about privacy, please [contact us](https://web.archive.org/web/20050310055245id_/http%3A//www.unbeatable.co.uk/CatalogueItem_8895.html).
-
-  
-| 
+If you would like to contact us regarding privacy or any other matter please e-mail [info@unbeatable.co.uk](mailto:info@unbeatable.co.uk) or [click here](https://web.archive.org/contactform.asp?mde=3) and send us your feedback.
