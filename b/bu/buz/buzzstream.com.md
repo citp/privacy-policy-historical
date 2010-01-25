@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzstream.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901124422id_/http%3A//www.buzzstream.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzstream.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125080258id_/http%3A//www.buzzstream.com/privacy-policy) for the most accurate reproduction.*
 
 # BuzzStream » Privacy Policy
 
@@ -38,7 +38,7 @@ Following your registration on the Site, you can review and change your informat
 
 We will not sell or rent your personally identifiable information to third parties without your explicit consent. The following describes some of the ways that your information may be disclosed in the normal scope of business to provide our services:
 
-_Subscribers and Contacts, Etc._ In general, information you enter on the Site is available to the other persons - whether they are Contacts, Subscribers, staff members or others - to whom you give access to your account or to whom you give access to the information through the normal operation of the Site.
+_Subscribers and Contacts, Etc._ In general, information you enter on the Site is available to the other persons – whether they are Contacts, Subscribers, staff members or others – to whom you give access to your account or to whom you give access to the information through the normal operation of the Site.
 
 _Payment Information._ We use credit card and other payment information (such as PayPal email addresses) you submit to us on the Site to process payments you make through the Site. We do not store credit card or other payment method information that you provide to us for recurring payment of your account; financial institutions (like PayPal and Authorize.net) have the sole and complete responsibility for the storage of credit card and payment information.
 
