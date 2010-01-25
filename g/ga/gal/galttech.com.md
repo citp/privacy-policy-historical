@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galttech.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601202624id_/http%3A//www.galttech.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galttech.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125150926id_/http%3A//www.galttech.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@ Specifically, some ads that appear on our site are served by a third party under
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the Doubleclick DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
-Some ads that appear on our site are served by another third party ad network company, [FastClick](http://www.fastclick.com/). As such, all issues regarding privacy related to these ads (including use of cookies, opting-out, etc.) are governed by FastClick's privacy policy, which can be viewed [here](http://www.fastclick.com/co_privacy.html). 
+Some ads that appear on our site are served by another third party ad network company, [ValueClick](http://www.valueclickmedia.com/). As such, all issues regarding privacy related to these ads (including use of cookies, opting-out, etc.) are governed by ValueClick's privacy policy, which can be viewed [here](http://www.valueclickmedia.com/privacy.shtml). You can opt-out of Online Behavioral Advertising (OBA) by visiting the Network Advertising Initiative (NAI) site [here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **Software Downloads** :  
 Any software you download and install is subject to the user license and privacy policy specific to that product and is in no way governed by our website policy. 
