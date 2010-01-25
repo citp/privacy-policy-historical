@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalinteractive.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604205858id_/http%3A//www.globalinteractive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalinteractive.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125021345id_/http%3A//www.globalinteractive.com/privacy.html) for the most accurate reproduction.*
 
 # Global Interactive - Your site representation company with a wider reach!
 
@@ -36,14 +36,6 @@ All parties have consented for this agreement and all documents relating to this
 In the event that our privacy policy is changed, all changes will be posted on this current page so that the user is aware of our information gathering, storing and disseminating practices. In case the policy is changed, all information will be used in accordance with the privacy policy under which it was collected.
   11. **Contacting the Web Site**  
 If you have any questions or concerns regarding this privacy policy, the practices of this site, or your dealings with this Web site, you may use the following contact information to get in touch with us by e-mail: [privacy@globalinteractive.com](mailto:privacy@globalinteractive.com)
-, or by postal mail: 
-
-Global Interactive, LLC  
-Privacy Officer  
-840 East 8th Street, STE 4N  
-Brooklyn, NY 11230  
-U.S.A 
-
 
   
   
