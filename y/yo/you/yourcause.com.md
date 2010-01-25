@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourcause.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604053557id_/http%3A//www.yourcause.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourcause.com privacy policy that was archived on 2010-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100126001933id_/http%3A//www.yourcause.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Charity Fundraising through Personal Web Pages – Your Cause
 
@@ -34,6 +34,8 @@ We do not share your Credit Card Information. We do not retain your Credit Card 
 Please note that if you are creating your own Cause Page, we will pass on your name, address and email address to your chosen charity for administrative purposes. Your information may also be made available to the charity’s agent or third-party event organizer specified by your charity. 
 
 When we pass along your Contact Information to charities, YourCause.com cannot control how charities use this information. If you prefer not to receive future communications from the charity (other than any acknowledgment the charity may provide of your donation), please contact the charity directly.
+
+We send emails to the address you provide, including but not limited to confirmation emails, messages from members, and newsletters. We will not share your email address with third parties, except where noted above. 
 
 We may share aggregate Standard Web Traffic Information (such as statistical, demographic and IP information) with third parties, however, this information does not include your Contact Information.  
   
