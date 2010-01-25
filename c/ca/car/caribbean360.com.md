@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caribbean360.com privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301194800id_/http%3A//caribbean360.com/html/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caribbean360.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125090215id_/http%3A//www.caribbean360.com/html/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy: News in the Caribbean - Caribbean360.com
 
