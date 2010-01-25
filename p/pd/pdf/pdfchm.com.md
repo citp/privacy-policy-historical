@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfchm.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515002244id_/http%3A//my.pdfchm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfchm.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125160054id_/http%3A//my.pdfchm.com/privacy) for the most accurate reproduction.*
 
 # PDF CHM Books: Privacy Policy
 
