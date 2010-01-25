@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laptops-drivers.com privacy policy that was archived on 2009-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090728172534id_/http%3A//www.laptops-drivers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptops-drivers.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125090916id_/http%3A//www.laptops-drivers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Laptop - Notebooks Drivers Updates
 
