@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the outsourcingroom.com privacy policy that was archived on 2009-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090705123306id_/http%3A//www.outsourcingroom.com/en/services/policy.cbsx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outsourcingroom.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125024720id_/http%3A//www.outsourcingroom.com/en/services/policy.cbsx) for the most accurate reproduction.*
 
 # Outsourcing Room :: Services : Private policy
 
 _Privacy Statement for OutsourcingRoom.com_ OutsourcingRoom.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: OutsourcingRoom.com.
 
 For each visitor to OutsourcingRoom.com web site, our web server automatically recognizes only the consumer's domain name, but not the e-mail address. OutsourcingRoom.com collects only the domain name, but not the e-mail address of visitors to our web site, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations. The information we collect is used to improve the content of our web site, used to notify consumers about updates to our web site, not shared with other organizations for commercial purposes.
-
-When you participate on the OutsourcingRoom.com web site, we request certain information. OutsourcingRoom.com does not share any of your personally identifiable or transactional information with any person or entity. No other third party receives your personally identifiable information or other transactional data except for those with whom you have transactions.
 
 If you supply OutsourcingRoom.com with your postal address on-line you will only receive the information for which you provided us your address. Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
