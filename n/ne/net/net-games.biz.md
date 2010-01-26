@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the net-games.biz privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226143210id_/http%3A//www.net-games.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the net-games.biz privacy policy that was archived on 2010-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100126235110id_/http%3A//www.net-games.biz/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,25 +10,25 @@ We may collect, store and use the following kinds of personal data:
 
 (a) information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type, referral source, length of visit and number of page views);
 
-(c) information that you provide to us for the purpose of registering with us (including your personal details and email address);
+(b) information that you provide to us for the purpose of registering with us (including your personal details and email address);
 
-(d) information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters (including your personal details and email address);
+(c) information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters (including your personal details and email address);
 
-(e) any other information that you choose to send to us; 
+(d) any other information that you choose to send to us;
 
 (2) Cookies
 
-A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
+A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
-We may use both “session” cookies and “persistent” cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website; We will use the persistent cookies to: enable our website to recognise you when you visit; and you store the last played games by you.
+We may use both “session” cookies and “persistent” cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website; We will use the persistent cookies to: enable our website to recognize you when you visit; and you store the last played games by you.
 
 Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
 
-We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html.
+We use Google Analytics to analyze the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: <http://www.google.com/privacypolicy.html>.
 
 Our advertisers/payment services providers may also send you cookies.
 
-Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.) This will, however, have a negative impact upon the usability of many websites .
+Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.) This will, however, have a negative impact upon the usability of many websites.
 
 (3) Using your personal data
 
@@ -38,7 +38,7 @@ We may use your personal information to:
 
 (a) administer the website;
 
-(b) improve your browsing experience by personalising the website;
+(b) improve your browsing experience by personalizing the website;
 
 (c) enable your use of the services available on the website;
 
@@ -52,7 +52,7 @@ We may use your personal information to:
 
 (i) provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
 
-(j) deal with enquiries and complaints made by or about you relating to the website;   
+(j) deal with enquiries and complaints made by or about you relating to the website;  
 
 
 Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
@@ -79,7 +79,7 @@ Except as provided in this privacy policy, we will not provide your information 
 
 Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
 
-If you are in the European Economic Area (EEA), information which you provide may be transferred to countries (including the United States, Japan and other countries) which do not have data protection laws equivalent to those in force in the EEA. 
+If you are in the European Economic Area (EEA), information which you provide may be transferred to countries (including the United States, Japan and other countries) which do not have data protection laws equivalent to those in force in the EEA.
 
 In addition, personal information that you submit for publication on the website] will be published on the internet and may be available, via the internet, around the world.
 
@@ -87,9 +87,9 @@ You expressly agree to such transfers of personal information.
 
 (6) Security of your personal data
 
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
+We will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information.
 
-We will store all the personal information you provide on our secure (password- and firewall- protected) servers. 
+We will store all the personal information you provide on our secure (password- and firewall- protected) servers.
 
 Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
 
@@ -97,7 +97,7 @@ You are responsible for keeping your password and user details confidential. We 
 
 (7) Policy amendments
 
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. 
+We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
 
 (8) Your rights
 
@@ -115,7 +115,7 @@ Please let us know if the personal information which we hold about you needs to 
 
 (11) Contact
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us : [_Contact Us Form_](http://www.net-games.biz/index.php?view=info_contact)
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us : [_Contact Us Form_](http://www.bgames.com/index.php?view=info_contact)
 
 Google, as a third party vendor, uses cookies to serve ads on our site.
 
