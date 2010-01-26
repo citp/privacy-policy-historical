@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoskinhealth.com privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118023404id_/http%3A//www.zoskinhealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoskinhealth.com privacy policy that was archived on 2010-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100126140632id_/http%3A//www.zoskinhealth.com/privacy) for the most accurate reproduction.*
 
 # ZO Skin Health | Dr. Obagi Skincare | Privacy Policy
 
