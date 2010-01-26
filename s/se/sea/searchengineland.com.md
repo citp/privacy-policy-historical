@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchengineland.com privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826075242id_/http%3A//searchengineland.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchengineland.com privacy policy that was archived on 2010-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100126065903id_/http%3A//searchengineland.com/privacypolicy) for the most accurate reproduction.*
 
 # Search Engine Land Privacy Policy
 
@@ -32,7 +32,7 @@ A web beacon does not personally identify you. It is simply a way to automatical
 
 Cookies and web beacons allows us to understand things such as whether a particular web browser is spending much time on our sites, visiting several times per month and other types of analysis.
 
-If you never provide us with personally identifiable information, then your visits - despite us using cookies or web beacons - are anonymous. We don’t know the actual person linked with the cookie. 
+If you never provide us with personally identifiable information, then your visits – despite us using cookies or web beacons – are anonymous. We don’t know the actual person linked with the cookie. 
 
 It’s like having a library card but never having to provide your name, address or phone number to check out books. The books are checked out by someone using a particular library card number, but who owns that number isn’t known.
 
