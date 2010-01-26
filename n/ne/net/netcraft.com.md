@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netcraft.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228132241id_/http%3A//news.netcraft.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcraft.com privacy policy that was archived on 2010-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100126094529id_/http%3A//news.netcraft.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Netcraft
 
@@ -66,4 +66,4 @@ If you have any questions about this privacy statement, contact [webmaster@netcr
 
 Posted by at 1 January 2003 in [About Netcraft](http://news.netcraft.com/archives/about_netcraft.html) | Print this Page 
 
-Copyright © Netcraft Ltd 2009. All Rights Reserved. 
+Copyright © Netcraft Ltd 2010. All Rights Reserved. 
