@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyparksecure.com privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923141602id_/http%3A//www.skyparksecure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyparksecure.com privacy policy that was archived on 2010-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100126075235id_/http%3A//www.skyparksecure.com/privacy) for the most accurate reproduction.*
 
 # 
 
