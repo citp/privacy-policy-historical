@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the partsgeek.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604175617id_/http%3A//www.partsgeek.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partsgeek.com privacy policy that was archived on 2010-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100126053912id_/http%3A//www.partsgeek.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Discount Auto Parts and Accessories - PartsGeek
 
 Hurry Save up to 80% Off Retail Prices! – Overnight and 2 Day Air Available!
 
-Privacy Policy
+Privacy Policy & Terms
 
 Privacy is very important to us. Our privacy practices are held to high standards by outside organizations such as TRUSTe. As part of the normal operation of our services we collect and, in some cases, disclose information about you. This Privacy Policy describes the information we collect about you and what may happen to that information. Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about Parts Geek, LLC. The privacy practices of this statement apply to the Parts Geek, LLC website. 
 
@@ -58,6 +58,26 @@ We may change this Privacy Policy from time to time based on your comments and o
 ****
   9. **Products.**  
 We carry the following.  BMW Parts, Mercedes Parts, Volvo Parts, Audi Parts, GM Parts, Ford Parts, Honda Parts, Jaguar Parts, Lexus Parts, Nissan Parts, Porsche Parts, Saab Parts, Volkswagen Parts, performance parts,  and accessories for all foreign, domestic, and import vehicles.
+
+
+
+**TERMS AND CONDITIONS USE OF WEB SITE AND SERVICES**
+
+****
+  1. **General.**  
+Welcome to partsgeek.com! We provide you with information and other computer services subject to the terms of this Terms of Service Agreement. We may amend or modify these Terms of Service at any time. Use of this site signifies your agreement to the Terms of Service. 
+****
+  2. **Rights.**  
+This site is operated by Parts Geek, a federally registered trademark and contains material which is derived in whole or in part from Parts Geek and other sources. You may not use for your own purposes, modify, copy, reproduce, republish, upload, post, transmit or distribute in any way any material from this site including code and software. 
+****
+  3. **Limitation of Liability.**  
+Under no circumstances, including, but not limited to negligence, shall Parts Geek, its subsidiary and parent companies or affiliates be liable for any direct, indirect, incidental, special or consequential damages that result from the use of, or the inability to use Parts Geek materials. In addition, Parts Geek may allow you to purchase different types of products and services online that are provided by third parties. Parts Geek is not responsible for the quality, accuracy, timeliness, reliability or any other aspect of these products and services. Your use of this site also signifies your release of Parts Geek and its affiliates from any damages that you incur, and agree not to assert any claims against them, arising from your use of these products or services. 
+****
+  4. **Privacy.**  
+Unless you as the user informs us otherwise, Parts Geek reserves the right to use and to disclose to third party vendors your user information (e.g. user name and e-mail address) for purposes such as providing users with information about products and services. If the user does not wish to be included in such uses, the user must send an e-mail or a letter requesting to be taken off any lists of information that may be used for these purposes or given or sold to third party vendors. 
+****
+  5. **Agreement to Terms.**  
+Continuing your use of this site signifies your agreement to these Terms of Service. 
 
   
 
