@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noddit.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608083741id_/http%3A//www.noddit.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noddit.com privacy policy that was archived on 2010-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100126014045id_/http%3A//www.noddit.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Noddit
 
