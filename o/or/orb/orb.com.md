@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orb.com privacy policy that was archived on 2009-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090804030636id_/http%3A//www.orb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orb.com privacy policy that was archived on 2010-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100126041142id_/http%3A//www.orb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Orb Networks
 
