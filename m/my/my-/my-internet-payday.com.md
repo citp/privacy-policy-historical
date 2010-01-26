@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my-internet-payday.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414043157id_/http%3A//my-internet-payday.com/index.php%3Fmodule%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-internet-payday.com privacy policy that was archived on 2010-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100126014334id_/http%3A//www.my-internet-payday.com/index.php%3Fmodule%3Dprivacy) for the most accurate reproduction.*
 
 # My Internet PayDay - Privacy Policy
 
@@ -132,9 +132,9 @@ We reserve the right to add Individual Information to multiple lists maintained 
 For more information about protecting your privacy, you may wish to visit: www.ftc.gov.   
 This product is not for use by or sale to persons under the age of 18. All trademarks and copyrights are the property of their respective owners are not affiliated with nor do they endorse InfoMedia, Inc.. By using this site you agree to follow the Privacy Policy and all Terms & Conditions printed on this site. Void Where Prohibited By Law. 
 
-  * [Terms and Conditions](https://web.archive.org/web/20090414043157id_/http%3A//my-internet-payday.com/index.php?module=terms)
-  * [Privacy Policy](https://web.archive.org/web/20090414043157id_/http%3A//my-internet-payday.com/index.php?module=privacy)
-  * [Contact Us](https://web.archive.org/web/20090414043157id_/http%3A//my-internet-payday.com/index.php?module=contact)
+  * [Terms and Conditions](https://web.archive.org/web/20100126014334id_/http%3A//www.my-internet-payday.com/index.php?module=terms)
+  * [Privacy Policy](https://web.archive.org/web/20100126014334id_/http%3A//www.my-internet-payday.com/index.php?module=privacy)
+  * [Contact Us](https://web.archive.org/web/20100126014334id_/http%3A//www.my-internet-payday.com/index.php?module=contact)
 
 
 
