@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ixigo.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603034644id_/http%3A//www.ixigo.com/html/info/privacy.ixi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixigo.com privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127094409id_/http%3A//www.ixigo.com/html/info/privacy.ixi) for the most accurate reproduction.*
 
 # iXiGO.com - Privacy Policy
 
 ## 1\. Introduction: 
 
-[www.iXiGO.com ](http://www.ixigo.com/)("iXiGO" or "Website" or "Site") is a site owned and operated by Le Travenues Technology Pvt. Ltd ("Travenues"), with registered office at 58/10, Manekshaw Marg, Delhi Cantt., New Delhi - 110 010. iXiGO helps you search, compare and buy travel products (e.g. flight tickets) from third party suppliers. iXiGO takes your privacy extremely seriously and will use your personal information only in conformance with the terms stated herein. iXiGO will neither sell nor rent your personal information to third parties; however, your personal information may be shared with third parties in some circumstances under certain restrictions described later. This Privacy Policy is incorporated into iXiGO Terms of Use. By making use of iXiGO, you agree to the Terms of Use as well as the use and disclosure of information provided to iXiGO as per the terms of this Privacy Policy. 
+[www.iXiGO.com ](http://www.ixigo.com/)("iXiGO" or "Website" or "Site") is a site owned and operated by Le Travenues Technology Pvt. Ltd ("Travenues"), with registered office at H-3/157, Second Floor, Vikas Puri, New Delhi, West Delhi, Delhi- 110018, India. iXiGO helps you search, compare and buy travel products (e.g. flight tickets) from third party suppliers. iXiGO takes your privacy extremely seriously and will use your personal information only in conformance with the terms stated herein. iXiGO will neither sell nor rent your personal information to third parties; however, your personal information may be shared with third parties in some circumstances under certain restrictions described later. This Privacy Policy is incorporated into iXiGO Terms of Use. By making use of iXiGO, you agree to the Terms of Use as well as the use and disclosure of information provided to iXiGO as per the terms of this Privacy Policy. 
 
 ## 2\. Information Collection and Use by iXiGO: 
 
