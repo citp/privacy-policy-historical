@@ -1,17 +1,17 @@
-<!--The following is the downloaded HTML source of the eventful.com privacy policy that was archived on 2009-08-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090815101049id_/http%3A//eventful.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eventful.com privacy policy that was archived on 2010-01-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100127100625id_/http%3A//eventful.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy - Eventful</title>
-<script type="text/javascript" src="/js/unit/ek/privacy.js?398"></script>
-<link rel="stylesheet" type="text/css" href="/css/unit/ek/privacy.css?19">
+<script type="text/javascript" src="/js/unit/ek/privacy.js?602"></script>
+<link rel="stylesheet" type="text/css" href="/css/unit/ek/privacy.css?432">
 
     <!--[if lte IE 7]>
       <link rel="stylesheet" href="/css/universal/ie.css" type="text/css" />
     <![endif]-->
 
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<link rel="shortcut icon" href="/images/skin/favicon.png">
+<link rel="shortcut icon" href="/favicon.ico">
 <link rel="search" type="application/opensearchdescription+xml" title="Eventful" href="/opensearch.xml">
 
 
@@ -30,9 +30,9 @@ Eventful.Session.Prefs = {};
 
 Eventful.Session.CWL = {
   location_type: "metro_id",
-  location_id: "26",
-  meta_name: "Orlando",
-  pretty_name: "Orlando metro area"
+  location_id: "21",
+  meta_name: "Portland",
+  pretty_name: "Portland metro area"
 }
 
 
@@ -54,6 +54,7 @@ Eventful.Session.Tests = {"exit_survey":"0"};
       advantage of our hand-crafted interface.</p>
   </div>
 </noscript>
+
 <div id="header" class=" noResultLinks arial">
   <div id="header-logo-location-advert">
     
@@ -64,7 +65,7 @@ Eventful.oLocation = new Eventful.Location();
 </script>
 
 <div id="header-location-change">
-  <span id="location" title="Orlando metro area">Orlando metro area</span>
+  <span id="location" title="Portland metro area">Portland metro area</span>
   <div id="change-location" class="header-location-arrow"></div>
 </div>
 
@@ -150,7 +151,7 @@ Eventful.oLocation = new Eventful.Location();
       <div id="rev-gen-10067" class="rev-gen wide-advert footer-advert ad-size-728x90 header-advert">
     
     
-    <iframe id="rev-gen-iframe-10067" width="728" height="90" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://t.locpub.com/lbc/content?ns=EVENTFUL&amp;tmpl=10067&amp;lat=28.5381&amp;lng=-81.3794&amp;rt=html&amp;cache=60847"></iframe>
+    <iframe id="rev-gen-iframe-10067" width="728" height="90" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://t.locpub.com/lbc/content?ns=EVENTFUL&amp;tmpl=10067&amp;lat=45.5236&amp;lng=-122.675&amp;rt=html&amp;cache=86621"></iframe>
     
   </div>
     </div>
@@ -164,8 +165,9 @@ Eventful.oLocation = new Eventful.Location();
 <div id="nav">
   <ul id="nav-tabs">
     <li id="nav-home" class="nav-first"><a href="/" rel="nofollow"><span>Home</span></a></li>
-    <li id="nav-events"><a href="/orlando/events" rel="nofollow"><span>Find events</span></a></li>
-    <li id="nav-demands"><a href="/demand"><span>Demand events</span></a></li>
+    <li id="nav-events"><a href="/portland/events" rel="nofollow"><span>Events</span></a></li>
+    <li id="nav-movies"><a href="/portland/movies" rel="nofollow"><span>Movies</span></a><a href="/portland/movies" class="movie-promo" rel="nofollow"></a></li>
+    <li id="nav-demands"><a href="/demand"><span>Demand it!</span></a></li>
     <li id="nav-community"><a href="/community" rel="nofollow"><span>Community</span></a></li>
     <li id="nav-signup" class="nav-last"><a href="/join" rel="nofollow"><span><span class="green-arrow"></span>Sign up!</span></a></li>
     
@@ -177,35 +179,27 @@ Eventful.oLocation = new Eventful.Location();
 Eventful.oSearch = new Eventful.Search();
 </script>
 
-<form id="search-form-action" action="/search" method="get">
-  
-  
-  <input type="hidden" name="location_type" id="inp-location-type" value="metro_id">
-  <input type="hidden" name="location_id" id="inp-location-id" value="26">
-  <input type="hidden" name="location" id="inp-location" value="Orlando metro area">
-  <input type="hidden" name="area" id="inp-area">
-  <div class="magnify"></div><fieldset class="search-query"><input id="q" name="q" type="text" size="31" class="text autoclose-click inactive-text" value="" autocomplete="off" alt="Enter your search text here"></fieldset>
-  <fieldset class="search-submit"><button id="btn-search-submit" class="shiny-positive-small-tall" type="submit"><span>Search</span></button></fieldset>
-</form>
-<div class="cleaner"></div>
+<div id="uni-search" class="">
+  <form id="site-search" action="/search" method="post">
+    
+    
+    <input type="hidden" name="location_type" id="inp-location-type" value="metro_id">
+    <input type="hidden" name="location_id" id="inp-location-id" value="21">
+    <input type="hidden" name="location" id="inp-location" value="Portland metro area">
+    <input type="hidden" name="area" id="inp-area">
+    <div class="magnify"></div>
+    <fieldset class="search-query">
+      <label for="inp-uni-search" class="">
+      <input type="text" name="q" id="inp-uni-search" value="" tabindex="3" alt="Search events" class="inactive-text" autocomplete="off"></label>
+    </fieldset>
+    <fieldset class="search-submit"><button id="btn-search-submit" class="shiny-positive-small-tall" type="submit"><span>Search</span></button></fieldset>
+  </form>
+  <div class="cleaner"></div>
 
-<div id="search-popover" class="hidden arial">
-  <div class="pophd">
-    Search for…
-  </div>
-  <div class="popbd">
-    <div id="search-areas">
-      <ul id="search-areas-list" class="">
-        <li id="search-areas-events" class="search-area"><input id="search-events" class="radio" type="radio" value="events" name="search-area"><label for="search-events">Events</label></li>
-        <li id="search-areas-venues" class="search-area"><input id="search-venues" class="radio" type="radio" value="venues" name="search-area"><label for="search-venues">Venues</label></li>
-        <li id="search-areas-performers" class="search-area"><input id="search-performers" class="radio" type="radio" value="performers" name="search-area"><label for="search-performers">Performers</label></li>
-        <li id="search-areas-demands" class="search-area"><input id="search-demands" class="radio" type="radio" value="demands" name="search-area"><label for="search-demands">Demands</label></li>
-        <li id="search-areas-groups" class="search-area"><input id="search-groups" class="radio" type="radio" value="groups" name="search-area"><label for="search-groups">Groups</label></li>
-        <li id="search-areas-users" class="search-area"><input id="search-users" class="radio" type="radio" value="users" name="search-area"><label for="search-users">Users</label></li>
-      </ul>
-    </div>
-  </div>
-</div> <!-- end search-popover -->
+  <div id="popover-uni-search" class="hidden">
+    <ul id="uni-search-results"></ul>
+  </div><!-- end popover-uni-search -->
+</div>
       <div class="search-tr"></div>
     </div> <!-- end search -->
     <!-- <div class="cleaner border"></div> -->
@@ -216,6 +210,14 @@ Eventful.oSearch = new Eventful.Search();
   
   <div id="user-panel-promote">
     <a href="/advertise/learn" title="Promote your events!"><span></span>Promote your event!</a>
+  </div>
+  <div id="user-panel-subnav">
+    <li>
+      <a href="/portland/movies/theaters" title="View Portland movie showtimes" class="theaters">Showtimes</a>
+    </li>
+    <li>
+      <a href="/portland/movies/now-playing" title="Browse Portland movies" class="browse last">Browse movies</a>
+    </li>
   </div>
   
   <ul>      <li class="add-event"><a href="/events/new" rel="nofollow"><span></span>Add event</a></li><li class="shopping-cart"><a href="/advertise/learn" rel="nofollow"><span></span>Shopping cart</a></li><li class="sign-in last"><a href="/signin?goto=%2Fprivacy%3F" id="user-panel-signin" rel="nofollow">Sign in</a></li>  </ul>
@@ -228,16 +230,16 @@ Eventful.oSearch = new Eventful.Search();
       <div class="field-container">
         <label for="inp-user-panel-username" class="">
       <span class="field-name">Username</span>
-      <input type="text" name="username" id="inp-user-panel-username" value="" tabindex="3"></label>
+      <input type="text" name="username" id="inp-user-panel-username" value="" tabindex="4"></label>
       </div>
       <div class="field-container">
         <label for="inp-user-panel-password" class="">
       <span class="field-name">Password</span>
-      <input type="password" name="password" id="inp-user-panel-password" tabindex="4"></label>
-        <a href="/forgot?" id="user-panel-forgot" tabindex="5" rel="nofollow">Forgot your password?</a>
+      <input type="password" name="password" id="inp-user-panel-password" tabindex="5"></label>
+        <a href="/forgot?" id="user-panel-forgot" tabindex="6" rel="nofollow">Forgot your password?</a>
       </div>            
       <div class="buttons">
-        <button tabindex="6" id="btn-user-panel-signin" type="submit" class=""><span>Sign in</span>&nbsp;</button>
+        <button tabindex="7" id="btn-user-panel-signin" type="submit" class=""><span>Sign in</span>&nbsp;</button>
         <span id="btn-user-panel-cancel" class="fakelink">Cancel</span>
       </div>
     </form>
@@ -263,70 +265,258 @@ Eventful.oSearch = new Eventful.Search();
             </div>
             <div class="section last">                                                                                                   
 
-              <p class="intro last-revised">Last revised 17 October 2007</p>
+              <p class="intro last-revised">Last revised: October 21, 2009</p>
+              <p class="intro effective">Effective as of: January 1, 2006</p>
 
-              <p class="intro">Eventful respects your right to privacy and we are committed to protecting it. Accordingly, we abide by the following principles and policies for all of the Personally Identifiable Information we collect from you and we are committed to following them in our day-to-day operations. This Privacy Policy details certain policies implemented throughout Eventful's Site and Services governing Eventful's use of Personally Identifiable Information submitted by users.</p>
+              <p class="intro">
+                Eventful respects your right to privacy and we are committed
+                to protecting it. Accordingly, we abide by the following
+                principles and policies for all of the Personally Identifiable
+                Information we collect from you and we are committed to
+                following them in our day-to-day operations. This Privacy
+                Policy details certain policies implemented throughout
+                Eventful's Site and Services governing Eventful's use of
+                Personally Identifiable Information submitted by users.
+              </p>
+
 
               <h2>Privacy Policy Updates</h2>
+              <p>
+                As our business grows and changes, we expect to revise or
+                enhance these policies from time-to-time. We will post a current
+                version of our Privacy Policy on our Site and will communicate
+                material changes to our Privacy Policy to users and the public
+                by posting a notice on our Site for ten days following the
+                change. If any modification is unacceptable to you, you shall
+                cease using our Site and Services. If you do not cease using our
+                Site and Services, you will be conclusively deemed to have
+                accepted the change.
+              </p>
 
-              <p>As our business grows and changes, we expect to revise or enhance these policies from time-to-time. We will post a current version of our Privacy Policy on our Site and will communicate material changes to our Privacy Policy to users and the public by posting a notice on our Site for ten days following the change. If any modification is unacceptable to you, you shall cease using our Site and Services. If you do not cease using our Site and Services, you will be conclusively deemed to have accepted the change.</p>
 
               <h2>Correcting/Updating Personally Identifiable Information</h2>
-
-              <p>Eventful provides you with the ability to review, correct and delete any of the Personally Identifiable Information that you have provided to us at any time. If you have questions about this Privacy Policy or wish to review or correct any information you have provided to us, you may do so by (i) accessing your account online, (ii) submitting an email request to us at &lt;privacy at eventful.com&gt;, or (iii) sending a letter to the following U.S. postal address:</p>
-
+              <p>
+                Eventful provides you with the ability to review, correct and
+                delete any of the Personally Identifiable Information that you
+                have provided to us at any time. If you have questions about
+                this Privacy Policy or wish to review or correct any
+                information you have provided to us, you may do so by (i)
+                accessing your account online, (ii) submitting an email
+                request to us at <privacy at="" eventful.com="">, or (iii) sending a
+                letter to the following U.S. postal address:
+              </privacy></p>
               <p class="vcard address">
                 <span class="org">
-                  <span class="organization-unit">Eventful Privacy Policy</span>
                   <span class="fn organization-name">Eventful, Inc.</span>
                 </span>
                 <span class="adr">
-                  <span class="street-address">9171 Towne Centre Drive, Suite 180</span>
+                  <span class="street-address">12730 High Bluff Drive, Suite 250</span>
                   <span class="locality">San Diego</span>, <span class="region">CA</span>
-                  <span class="postal-code">92122</span> <span class="country-name">USA</span>
+                  <span class="postal-code">92130</span> <span class="country-name">USA</span>
                 </span>
+                <span class="organization-unit">Attn: Eventful Privacy Policy</span>
               </p>
 
+
               <h2>What Information We Collect</h2>
+              <p>
+                We only collect Personally Identifiable Information about you
+                from our Site if you choose to provide it to us. This means
+                you can visit our Site without revealing any Personally
+                Identifiable Information. Like most web sites, our web servers
+                do collect information about your visit, but not about you
+                personally. This information may include the URL, IP address,
+                browser type and language, and the date and time of your
+                visit.
+              </p>
+              <p>
+                In order to use certain features of the Site and Services you
+                may be asked to register. Any Personally Identifiable
+                Information which is required and that you choose to provide
+                within the registration process will not be disclosed on our
+                Site. Once registered, you may provide additional information
+                in various areas of the site. Providing additional information
+                beyond the fields in the registration process is entirely
+                optional and such information may be visible to the public.
+              </p>
+              
 
-              <p>We only collect Personally Identifiable Information about you from our Site if you choose to provide it to us. This means you can visit our Site without or revealing any Personally Identifiable Information. Like most web sites, our web servers do collect information about your visit, but not about you personally. This information may include the URL, IP address, browser type and language, and the date and time of your visit.</p>
+              <h2>
+                How We Use the Personally Identifiable Information You
+                Provide To Us
+              </h2>
+              <p>
+                We may use your Personally Identifiable Information to
+                register you to use our Services, to verify your authority to
+                use certain features of our Site and Services, to improve and
+                tailor the content and general administration of our Site and
+                Services, and, based upon the email settings which you may
+                select, to deliver certain content, information, services and
+                notices from Eventful as well as communications regarding
+                information, events, content, products and services of our
+                third party partners.
+              </p>
 
-              <p>In order to use certain features of the Site and Services you may be asked to register.  Any Personally Identifiable Information which is required and that you choose to provide within the registration process will not be disclosed on our Site.  Once registered, you may provide additional information in various areas of the site.  Providing additional information beyond the fields in the registration process is entirely optional and such information may be visible to the public.</p>
 
-              <h2>How We Use the Personally Identifiable Information You Provide To Us</h2>
+              <h2>
+                Opting In and Out of Email Communications from Eventful and 
+                Third Parties
+              </h2>
+              <p>
+                By providing your email address while signing up for Eventful
+                or submitting a Demand via Eventful's Demand it! service you
+                automatically grant permission to Eventful and its strategic
+                alliance partners to send email communications to you. During
+                the sign up and Demand it! process you may also indicate via a
+                check-box whether you grant permission for Eventful to share
+                your email address with additional third parties and for those
+                third parties to send emails directly to you. You may manage
+                your opt in preferences and opt out of receiving email
+                communications by clicking "unsubscribe" from an email sent to
+                you by Eventful or by signing in to Eventful online and
+                managing your preferences.
+              </p>
 
-              <p>We may use your Personally Identifiable Information to register you to use our Services, to verify your authority to use certain features of our Site and Services, to deliver certain services and notices based on the email settings you have selected, or to improve and tailor the content and general administration of our Site and Services.</p>
 
-              <h2>Disclosing Your Personally Identifiable Information to Others</h2>
+              <h2>
+                Disclosing Your Personally Identifiable Information to Others
+              </h2>
+              <p>
+                Except as expressly provided in this Privacy Policy, we do not
+                disclose or market Personally Identifiable Information
+                obtained through our Site to others. Based upon your opt in
+                settings which you may manage as described above, we may from
+                time to time provide your Personally Identifiable Information
+                to third party partners for various purposes, including to
+                allow those third party partners to contact you about news,
+                events, products and/or services in which you may be
+                interested. If you do not wish to be included on the list of
+                users disclosed to our third party partners, you may indicate
+                this preference during the sign up or Demand submission or you
+                may manage your opt in preferences as described above. To stop
+                receiving communications from a third party to whom we have
+                already provided your information prior to your opting out,
+                contact that third party directly or click unsubscribe from an
+                email which you receive from the third party. We may disclose
+                your personally identifiable information: (a) to complete a
+                transaction that you initiate, (b) as required by law, (c)
+                when necessary to protect the safety of customers, employees,
+                or property, (d) when you specifically authorize it or (e)
+                when required to service the company's system infrastructure.
+              </p>
 
-              <p>We do not disclose or market Personally Identifiable Information obtained through our Site to others unless (a) it is to complete a transaction that you initiate, (b) it is required by law, (c) disclosure is necessary to protect the safety of customers, employees, or property, (d) you specifically authorize it or (e) it is required in order to service the company's system infrastructure.</p>
 
               <h2>Cookies, Web Beacons, and Other Internet Data</h2>
+              <p>
+                Like most web sites, we may use cookies, web log files, IP
+                addresses, or web beacons in order to recognize you as a
+                registered user, improve overall Site experience, tailor and
+                customize the content of our Site, or track Site usage. This
+                data may be exchanged between the user's computer, our Site,
+                and the systems of our infrastructure partners. The linkage
+                between this data and your Personally Identifiable Information
+                is never shared without your permission or except when
+                required by law.
+              </p>
 
-              <p>Like most web sites, we may use cookies, web log files, IP addresses, or web beacons in order to recognize you as a registered user, improve overall Site experience, tailor and customize the content of our Site, or track Site usage. This data may be exchanged between the user's computer, our Site, and the systems of our infrastructure partners.  The linkage between this data and your Personally Identifiable Information is never shared without your permission or except when required by law.</p>
 
-              <h2>Security</h2>
+              <h2>Security and Data Storage</h2>
+              <p>
+                We employ procedural and technological security measures that
+                are designed to safeguard your Personally Identifiable
+                Information from loss, unauthorized access, disclosure,
+                alteration or destruction. Eventful may use encryption,
+                password protection, and other security measures to help
+                prevent unauthorized access to your Personally Identifiable
+                Information.
+              </p>
 
-              <p>We employ procedural and technological security measures that are designed to safeguard your Personally Identifiable Information from loss, unauthorized access, disclosure, alteration or destruction. Eventful may use encryption, password protection, and other security measures to help prevent unauthorized access to your Personally Identifiable Information.</p>
+
+              <h2>International Users</h2>
+              <p>
+                Our computer systems are currently based in the United States
+                where data protection requirements and privacy regulations may
+                be different than other parts of the world. If you create an
+                online account on this website as a visitor from outside the
+                United States, you will have agreed to the terms of this
+                Privacy Policy and our Terms of Use, you will have consented
+                to processing of all such information in the United States,
+                and you will have agreed that your personal information will
+                be subject to the requirements of the privacy regulations of
+                the United States, which may not offer an equivalent level of
+                protection as certain other countries.
+              </p>
+
 
               <h2>Children's Privacy</h2>
+              <p>
+                Eventful recognizes the privacy interests of children and we
+                encourage parents and guardians to take an active role in
+                their children's online activities. Eventful's Site and
+                Services are not intended for children under the age of 13.
+                Eventful does not target its Site and Services to children
+                under 13. Eventful does not knowingly collect Personally
+                Identifiable Information from children under the age of 13.
+              </p>
 
-              <p>Eventful recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities. Eventful's Site and Services are not intended for children under the age of 13. Eventful does not target its Site and Services to children under 13. Eventful does not knowingly collect Personally Identifiable Information from children under the age of 13.</p>
 
               <h2>Assignment</h2>
+              <p>
+                You maintain ownership rights to your Personally Identifiable
+                Information, even if there is a business transition. However,
+                we may transfer your Personally Identifiable Information to a
+                successor entity upon a merger, consolidation, or other
+                corporate reorganization in which Eventful participates or to
+                a purchaser of all or substantially all of Eventful's assets
+                to which this Site relates.
+              </p>
 
-              <p>You maintain ownership rights to your Personally Identifiable Information, even if there is a business transition. However, we may transfer your Personally Identifiable Information to a successor entity upon a merger, consolidation, or other corporate reorganization in which Eventful participates or to a purchaser of all or substantially all of Eventful's assets to which this Site relates.</p>
 
               <h2>Links to Third Party Sites</h2>
-
-              <p>This privacy policy applies only to the privacy of users of Eventful’s Site and Services. By using Eventful’s Site and Services you agree to the terms of this privacy policy. If you move from Eventful’s Site to external web sites owned or operated by other entities or individuals, you should check the privacy policies of those external web sites carefully. The terms by which the owners or operators of those external web sites manage your Personally Identifiable Information obtained at such third party sites could differ from how Eventful manages your Personally Identifiable Information.</p>
+              <p>
+                This privacy policy applies only to the privacy of users of
+                Eventful's Site and Services. By using Eventful's Site and
+                Services you agree to the terms of this privacy policy. If you
+                move from Eventful's Site to external web sites owned or
+                operated by other entities or individuals, you should check
+                the privacy policies of those external web sites carefully.
+                The terms by which the owners or operators of those external
+                web sites manage your Personally Identifiable Information
+                obtained at such third party sites could differ from how
+                Eventful manages your Personally Identifiable Information.
+              </p>
 
               <h2>Definitions</h2>
-
-              <ul>
-                <li>"Personally Identifiable Information" may include your name, address, telephone number, email address, or other information which by its nature can identify you personally. However, "Personally Identifiable Information" excludes any information that you choose to make available on parts of the Site that are accessible to the public such as your public profile and other publicly visible content that you may add to the Site.</li>
-                <li>"Eventful" refers to Eventful, Inc., a Delaware corporation. "Eventful" is a registered trademark of Eventful, Inc. Eventful.com, Eventful Demand, and the Eventful logo are trademarks of Eventful, Inc.</li>
-                <li>"Site and Services" refer to the features and functionality ("Services") made available to users at the Internet web site located at the URL <a href="http://eventful.com/">eventful.com</a> ("Site").</li>
+              <ul> 
+                <li>
+                  "Personally Identifiable Information" may include your name,
+                  address, telephone number, email address, or other
+                  information which by its nature can identify you personally.
+                  However, "Personally Identifiable Information" excludes any
+                  information that you choose to make available on parts of
+                  the Site that are accessible to the public such as your
+                  public profile and other publicly visible content that you
+                  may add to the Site.
+                </li>
+                <li>
+                  "Eventful" refers to Eventful, Inc., a Delaware corporation.
+                  "Eventful" and the Eventful logo are registered trademarks
+                  of Eventful, Inc. Eventful.com are trademarks of Eventful,
+                  Inc.
+                </li>
+                <li>
+                  "Site and Services" refer to the features and functionality
+                  ("Services") made available to users at the Internet web
+                  site located at the URL <a href="http://eventful.com/">eventful.com</a> 
+                  ("Site") and via email communications, mobile applications 
+                  and other medium.
+                </li>
+                <li>
+                  "Demand" and "Demand it!" refer to the service, features and
+                  functionality of the Eventful Demand service. "Demand it" is
+                  a registered trademark of Eventful, Inc. The "Demand it!"
+                  logo is a trademark of Eventful, Inc.
+                </li>
               </ul>
 
             </div> <!-- end of section last -->
@@ -352,7 +542,12 @@ Eventful.oSearch = new Eventful.Search();
       <ul><li class="first"><a href="/my" rel="nofollow">My Eventful</a></li><li><a href="/tracker" rel="nofollow">Artist Tracker</a></li><li><a href="/iphone" rel="nofollow">iPhone App</a></li><li><a href="/r/http://www.myspace.com/mytopartistsapp" rel="nofollow">MySpace My Top Artists App</a></li><li><a href="/performerdashboard" rel="nofollow">Performer Dashboard</a></li><li><a href="/performers/setup" rel="nofollow">Performer Setup</a></li>
       </ul>
     </div>
-    <div class="footer-row">
+          <div class="footer-row more-features">
+        <strong>MOVIES</strong> <span class="light">//</span>
+        <ul><li class="first"><a href="/movies/theaters">Movie Theaters &amp; Showtimes</a></li><li><a href="/movies/now-playing">Now Playing</a></li><li><a href="/movies/coming-soon">Coming Soon</a></li>
+        </ul>
+      </div>
+        <div class="footer-row">
       <strong>ADD STUFF</strong> <span class="light">//</span>
       <ul><li class="first"><a href="/events/new" rel="nofollow">Add Event</a></li><li><a href="/venues/new" rel="nofollow">Add Venue</a></li><li><a href="/performers/new" rel="nofollow">Add Performer Profile</a></li>
       </ul>
@@ -365,7 +560,7 @@ Eventful.oSearch = new Eventful.Search();
     <div class="cleaner"></div>
     
   </div>
-  <div id="footer-copyright">© Copyright 2004-2009 Eventful, Inc. All rights reserved. Patent pending.</div>
+  <div id="footer-copyright">© Copyright 2004-2010 Eventful, Inc. All rights reserved. Patent pending.</div>
   <!-- Stats Footer Start --> 
 
 
@@ -389,21 +584,29 @@ qacct:"p-8fNblsCvZ37Og"
 </noscript>
 <!-- End Quantcast tag -->
 
+<!-- Begin comScore Tag -->
+<script src="http://b.scorecardresearch.com/beacon.js"></script>
+<script>
+  COMSCORE.beacon({
+    c1:2,
+    c2:7074479,
+    c3:"",
+    c4:"",
+    c5:"",
+    c6:"",
+    c15:""
+  });
+</script>
+<noscript>
+  
+  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=7074479&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
 
 
 
 <!-- Stats Footer Stop -->
-
-
-<!-- Start: Netflix Promo -->
-<script type="text/javascript" charset="utf-8">
-$(function(){
-  try {
-    Eventful.NetflixOpener();
-  } catch (e) {}
-});
-</script>
-<!-- End: Netflix Promo -->
 <!-- Normal Footer Stop -->
     </div> <!-- end inner-container -->    
   </div><!-- end outer-container -->
