@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivetime.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227022649id_/http%3A//www.drivetime.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivetime.com privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127075108id_/http%3A//www.drivetime.com/privacy.aspx) for the most accurate reproduction.*
 
 # DriveTime: Privacy Policy
 
