@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ampedmedia.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406085031id_/http%3A//www.ampedmedia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampedmedia.com privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127183921id_/http%3A//www.ampedmedia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Amped Media – Privacy Policy
 
