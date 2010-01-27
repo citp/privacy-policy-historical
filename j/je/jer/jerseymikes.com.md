@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jerseymikes.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620121428id_/http%3A//www.jerseymikes.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jerseymikes.com privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127171928id_/http%3A//www.jerseymikes.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Jersey Mike's Subs - Privacy Policy
 
