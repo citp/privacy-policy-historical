@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ice.com privacy policy that was archived on 2009-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090316083728id_/http%3A//www.ice.com/common/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ice.com privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127164856id_/http%3A//www.ice.com/common/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Ice.com Privacy Policy - Committed to Protect Your Privacy Online
 
