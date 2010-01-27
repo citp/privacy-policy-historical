@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the getafreelancer.com privacy policy that was archived on 2009-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091227115536id_/http%3A//www.getafreelancer.com/page.php%3Fp%3Dinfo/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getafreelancer.com privacy policy that was archived on 2010-01-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100127054953id_/http%3A//www.getafreelancer.com/page.php%3Fp%3Dinfo/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>
@@ -25,9 +25,16 @@ Freelancer.com | Online Freelance Jobs | Employment | Design | Outsourcing | Pro
 <link rel="shortcut icon" href="http://www.getafreelancer.com/favicon.ico">
 
 <link href="/gaf_style.css" rel="stylesheet" type="text/css">
+<script src="/js/cufon-yui.js" type="text/javascript"></script>
+<script src="/js/Avenir_LT_Std_750.font.js" type="text/javascript"></script>
+<script type="text/javascript">
+Cufon.replace('h1');
+</script>
+<script src="./prototype/prototype.js"></script>
+<script type="text/javascript" src="./js/jquery-1.3.2.js"></script>
+<script src="./js/searchbar.js" type="text/javascript"></script>
 <script src="/functions.js" type="text/javascript"></script>
 <script src="/showhide.js" type="text/javascript"></script>
-<script src="./prototype/prototype.js"></script>
 <script>
 function getUserIdfromCookie()
 {
@@ -49,7 +56,7 @@ function getUserIdfromCookie()
 
 function updateStatus()
 {
-	var updateOnlinePeriod = 60; //60 secs in all
+	var updateOnlinePeriod = 300; //60 secs in all
 	var url = "./users/onUpdateOnlineStatus.php";
 	var userId = getUserIdfromCookie();
 	if(userId!=""){
@@ -65,101 +72,149 @@ function updateStatus()
 	}
 
 </script>
-
-<!--
-<link href="./multibox/multibox.css" rel="stylesheet" type="text/css" /> 
-<script type="text/javascript" src="./js/mootools.js"></script> 
-<script type="text/javascript" src="./multibox/overlay.js"></script> 
-<script type="text/javascript" src="./multibox/multibox.js"></script> 
-
--->
-
 </head>
 
 <body>
+<div id="c9d-container">
 
 
-        <div id="internalOuterContainer">
+<div id="c9d-header">
+	<div class="grid">
+	<div class="rgt c9d-log">
+    <form name="login_form" action="https://www.getafreelancer.com/users/onlogin.php" method="post">
 
-        <div id="internalHeaderExtension">
+    <input class="c9d-iptt" type="text" name="username" value="Username" onblur="javascript: if(this.value=='') { this.value='Username';}" onfocus="javascript: if(this.value=='Username') {this.value='';};" style="margin-right: 5px;">
 
-            <div id="siteContainer">
-<div id="topHeader">
-	<ul id="mainMenu"> 
-		<li><a href="https://www.getafreelancer.com/buyers/create.php" alt="Outsource a Project" title="Post Project">Post Project</a></li> 
-		<li><a href="./sellers/" alt="Browse Freelancer Projects" title="Browse Projects">Browse Projects</a></li> 
-                <li><a href="./affiliates/" title="Affiliates">Affiliates</a></li>
-		<li><a href="./users/top_users.php" alt="Join Freelancer.com" title="Sign Up">Users</a></li> 
-		<li><a href="./faq/view.php" alt="Frequently Asked Questions" title="FAQ" class="last">FAQ</a></li> 
-		<li><a href="./users/signup.php" class="alt" title="SIGN UP">Sign Up</a></li> 
-		<li><a href="./users/manage.php" class="alt" title="LOGIN">Login</a></li> 
-	</ul>
-	<a href="/"><img src="./img/newlogo2.jpg" width="249" height="49" alt="Business Outsourcing Services and Online Freelancing Jobs" border="0"></a>
+    <input class="c9d-iptt" type="password" name="passwd" value="Password" onblur="javascript: if(this.value=='') { this.value='Password';}" onfocus="javascript: if(this.value=='Password') {this.value='';};">
+    <button type="submit" name="login" class="lft"><img src="/images/login.gif"></button>
+    <!-- <a href="https://www.getafreelancer.com/users/onlogin.php" onclick="this.form.submit()" class="c9d-logi"></a> -->
+    <!-- <input tabindex="4" type="submit" value="Login"> -->
+    <a href="/buyers/signup.php" class="c9d-regi"></a>
+    <a href="/users/forgot.php" class="c9d-fgt">Forgot?</a>
+    </form>
+    </div>
+    <a href="/" class="c9d-logo"></a>
+    </div>
 </div>
 
+<!-- BEGIN BANNER -->
+<div id="c9d-banner2">
+		<div class="grid c9d-bn2">
+		<h1 id="topheader">Terms of Service</h1>
+		<div class="rgt c9d-ad">
+		<a href="http://contest.getafreelancer.com" class="c9d-blk2">
+		<img src="/img/contest_a.jpg"></a>
+		</div>
+		</div>
+</div>
+<!-- END BANNER -->
 
-            <div id="homeHeader">
+<!-- BEGIN MENU1 -->
+<div class="c9d-nav">
+		<div class="grid">
+				<div class="rgt c9d-srhf" id="search-bar">
+						<form action="/projects/search.php" method="post">
+						<div class="form-container">
+								<input type="text" id="searchbox" name="keyword" autocomplete="off" value="Search Keywords" class="sipt">
+								<div id="aricon" class="arrow arrow-up"></div>
+								<div class="fancy-panel" style="display:none;">
+										<div class="categories">
+												<ul><li><input type="checkbox" checked="checked" name="projects">&nbsp; Projects</li>
+												<br>
+												<hr>
+												<li><a href="./users/search/">Search Users</a></li>
+												<!-- <li><input type="checkbox" name="users">&nbsp; Users</li> -->
+												<!-- <li class="nav-tline"><input type="checkbox" name="files">&nbsp; Files</li> -->
+												</ul>
+										</div>
+								</div>
+						</div>
+						</form>
+				</div>
+
+		<div id="navbar">
+				<ul class="main-nav">
+				<li class="c9d-curpg"><a href="https://www.getafreelancer.com/buyers/create.php">Post Project</a></li>
+				<li class="c9d-nl">&nbsp;|&nbsp;</li>
+				<li><a href="./sellers/">Browse Projects</a></li>
+				<!--
+				<li class="c9d-nl">&nbsp;|&nbsp;</li>
+				<li class="submenu"><a href=""><span></span>Marketplace</a>
+				<div class="inner-boundary">
+						<ul class="inner-border">
+						<li class="nav-bline"><a href="">All Files</a></li>
+						<li><a href="">Flash</a></li>
+						<li><a href="">Video</a></li>
+						<li><a href="">Templates</a></li>
+						<li><a href="">Sounds</a></li>
+						<li><a href="">Graphics</a></li>
+						<li><a href="">Templates</a></li>
+						<li><a href="">3D</a></li>
+						<li class="nav-tline"><a href="">My Store</a></li>
+						</ul>
+				</div>
+				</li>
+				-->
+				<li class="c9d-nl">&nbsp;|&nbsp;</li>
+				<li class="submenu"><a href=""><span></span>Make Money</a>
+				<div class="inner-boundary">
+						<ul class="inner-border">
+						<!-- <li><a href="">Invite Friends</a></li> -->
+						<li><a href="./affiliates/">Affiliate Program</a></li>
+						<!-- <li><a href="">Sell Items</a></li> -->
+						<li><a href="http://apidocs.getafreelancer.com">API</a></li>
+						</ul>
+				</div>
+				</li>
+				<li class="c9d-nl">&nbsp;|&nbsp;</li>
+				<li class="submenu mwidt"><a href=""><span></span>Help</a>
+				<div class="inner-boundary">
+						<ul class="inner-border">
+						<!-- <li><a href="">Getting Started</a></li> -->
+						<li><a href="./faq/view.php">FAQ</a></li>
+						<li><a href="./news/articles.html">Howtos &amp; Articles</a></li>
+						<li><a href="./users/top_users.php">Top Users</a></li>
+						<li><a href="./info/about.php">About Us</a></li>
+						<li class="nav-tline"><a href="./report/contact.php">Contact Support</a></li>
+						</ul>
+				</div>
+				</li>
+				</ul>
+		</div>
+</div>
+</div>
+<!-- END MENU1 -->
+
+<div id="c9d-main"> 
+   	<div class="grid">
+	<div class="c9d-lognav">
+	
+	</div>
+	<div class="clear"></div>
+	<script>document.getElementById('topheader').innerHTML="Terms of Service";</script>
+<div class="clear"></div>
+<div class="c9d-space"></div>
+<ul class="c9d-tab">
+<!--
+<li><a class="hover" href="">Open</a></li>
+<li><a href="">Active</a></li>
+<li><a href="">Closed</a></li>
+<li><a href="">Rate Freelancers</a></li>
+	<div class="c9d-pros">
+-->
+</ul>
+<div class="c9d-tabcnt">
 
 
-                <div class="headerText">
-                  <h1>Privacy Statement</h1>
-                </div>
-
-                <img src="./img/spacer.gif" alt="" width="1" height="120" class="homeHeaderSizer">
-
-            </div>
-
-            <div id="siteContent">
-
-                    <div id="internalPageHeader">
-
-                        <div id="subTitle">
-                                <h2>Our Policy</h2>
-<p>Freelancer.com
+      
+<table cellspacing="20" cellpadding="10">
+<tbody><tr><td>
+<h2>Our Privacy Policy</h2><br><br>
+Freelancer.com
  has created this privacy
       statement in order to demonstrate our firm commitment to privacy.
       The following discloses the information gathering and
-      dissemination practices for this Web site:
-      
-<a href="http://www.getafreelancer.com">
-Freelancer.com
-</a></p>
-                        </div>
-
-                      <div id="searchInternal">
-
-                        <script language="javascript">
-                        function searchSubmit(form) {
-                                if (form.keyword.value=='Search term') form.keyword.value='';
-                                form.submit();
-                                return true;
-                        }
-                        </script>
-
-                     <form name="sf" method="get" action="./projects/search.php" onsubmit="searchSubmit(this)">
-                          <label for="searchString">Search Projects:</label>
-                          <input type="text" name="keyword" value="Search term" onclick="if (this.value=='Search term') this.value=''">
-                          <a href="javascript:searchSubmit(document.forms.sf)" title="Search"><img src="./img/buttons/btn_search.gif" width="97" height="34" alt="Search"></a>
-                     </form>
-
-
-                        </div>
-
-
-
-                        <div class="clearBoth">&nbsp;</div>
-
-                    </div>
-
-
-                    <div id="internalContent">
-                        <img src="./img/internal/internal_content_top.gif" alt="" width="902" height="12">
-
-<p></p>
-
-
-<table cellspacing="20" cellpadding="10">
-<tbody><tr><td>
+      dissemination practices for this Web site:<br><br>
 <h3>Details</h3>
 <br>
 For each visitor to Freelancer.com web site, our web server automatically recognizes only the consumer's domain name, but not the e-mail address. Freelancer.com collects only the domain name, but not the e-mail address of visitors to our web site, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations. The information we collect is used to improve the content of our web site, used to notify consumers about updates to our web site, not shared with other organizations for commercial purposes.
@@ -189,54 +244,62 @@ Aggregate Information--Freelancer.com collects non-identifying, general, generic
 
       If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please <a href="./report/contact.php">Contact us</a>.
 </td></tr></tbody></table>
-<img src="./img/internal/internal_content_bottom.gif" alt="" width="902" height="12">
-
 </div>
-</div>
+<div class="clear"></div>
 </div>
 
+</div>
 
-<div id="siteFooterContainer">
-<div id="footer">
 
-	<h3>WHAT IS FREELANCER.COM?</h3>
-<p>Freelancer.com is a global outsourcing solution and freelance jobs website. Here you can find freelance coders, writers, programmers, designers, marketers and more. You can also outsource projects and save a lot of money in the process. Getting the best web design, professional programming, custom writing or affordable marketing has never been easier!<br><br>
-We have thousands of satisfied clients from every corner of the world. Would you like to outsource your next project? Would you like to find freelance jobs and make money online? Just sign up to get started!
-Outsourcing jobs is the process of hiring an outside company or individual to complete your projects. We have created a safe environment for both service buyers and service providers via our secure payment system. You outsource the project and don't release any money until you're satisfied! Try outsourcing for free today! Don't forget to bookmark our homepage for your next project or job.</p>
-	<a href="./info/about.php" class="readMoreLink">READ MORE ABOUT THE COMPANY</a><br><br>
-	<ul>
-	<li><strong>Plendo Sweden AB © 2004-2009</strong></li>
-	<li><a href="./page.php?p=info/privacy" title="PRIVACY POLICY">PRIVACY POLICY</a></li>
-	<li><a href="./page.php?p=info/terms" title="TERMS">TERMS</a></li>
-	<li><a href="./affiliates/" title="AFFILIATES">AFFILIATES</a></li>
-	<li><a href="http://apidocs.getafreelancer.com/" target="_blank" title="API">API</a></li>
-	<li><a href="./quotes/" target="_blank" title="QUOTES">QUOTES</a></li>
-	<li><a class="last" href="./report/contact.php" title="CONTACT">CONTACT</a></li>
-	</ul>
-	<p>Freelancer™ is a trademark of Ignition Networks Pty Limited (ACN 134 845 748)<br><br>
-	Newly Outsourced Projects fed by <a href="http://www.getafreelancer.com/rss.xml" title="RSS"><img src="/img/gbtn_rss.gif" alt="RSS" class="footerRSS"></a>&nbsp; &nbsp; Follow our Freelance Jobs on Twitter <a href="http://www.twitter.com/getafreelancer" title="Follow me on Twitter"><img src="/img/gicon_twitter.gif" alt="Twitter" class="footerRSS"></a> 
-Add to your 
+</div>
 
-<a href="http://www.google.com/coop/trust/add?user=017293852443800877047&amp;sig=__bsH1R9i0c-Ik5F7PHhcH5-Lat0w=">Google search results</a>
-
-<img src="./img/dadada.gif" alt=" " width="5" height="1" class="horizontalLine">
-
-</p>
-<p>
- <a href="http://www.software.com/mac-creative/" title="Creative Software for Mac">Creative Software for Mac</a> 
-
-&nbsp; &nbsp; * &nbsp; &nbsp; <a href="http://www.bigwebmaster.com" target="_new">Webmaster Resources</a> &nbsp;&nbsp; * &nbsp;&nbsp; <a href="http://www.ozzu.com" target="_new">Webmaster Forum</a></p>
+<!-- BEGIN FOOTER -->
+<div id="c9d-footer">
+                <div class="grid">
+                                <div class="rgt c9d-lnk">
+                                                <div class="twi">
+                                                                <a href="./page.php?p=info/privacy">Privacy Policy</a>
+                                                                <a href="./page.php?p=info/terms">Terms</a>
+                                                                <a href="./affiliates/">Affiliates</a>
+                                                                <a href="http://apidocs.getafreelancer.com/">API</a>
+                                                                <a href="./quotes/">Quotes</a>
+                                                                <a href="./users/top_users.php">Top Users</a>
+                                                </div>
+                                </div>
+                                <div class="rgt c9d-lnk">
+                                <div class="twi">
+                                                Follow our Freelance Jobs on Twitter
+                                                <a href="http://www.twitter.com/getafreelancer"><img src="/images/twitter.gif" width="86" height="23" alt=" "></a>
+                                                <a href="http://www.google.com/coop/trust/add?user=017293852443800877047&amp;sig=__bsH1R9i0c-Ik5F7PHhcH5-Lat0w=">Add to your Google search results
+                                                </a>
+                                                <a href="http://www.getafreelancer.com/rss.xml">Newly Outsourced
+                                                Projects fed by RSS<img src="/images/rss.gif" width="14" height="14" alt="rss"></a>
+                                </div>
+                </div>
+                <div class="c9d-about">
+                                <h4><img src="/images/WHATIS.gif"></h4>
+                                <p>Freelancer.com is a global outsourcing solution and freelance jobs website. Here you can find freelance coders, writers, programmers, designers, marketers and more. You can also outsource projects and save a lot of money in the process. Getting the best web design, professional programming, custom writing or affordable marketing has never been easier!</p>
+                                <p>
+                                We have thousands of satisfied clients from every corner of the world. Would you like to outsource your next project? Would you like to find freelance jobs and make money online? Just sign up to get started! Outsourcing jobs is the process of hiring an outside company or individual to complete your projects. We have created a safe environment for both service buyers and service providers via our secure payment system. You outsource the project and don't release any money until you're satisfied! Try outsourcing for free today! Don't forget to bookmark our homepage for your next project or job.
+                                </p>
+                                <a href="./info/about.php" class="c9d-bline">READ MORE ABOUT THE COMPANY</a>
+                                <div class="c9d-copy">
+                                                <em>(c) Copyright Ignition Networks Pty Limited. All Rights Reserved.</em>
+                                                <em>Freelancer is a trademark of Ignition Networks Pty Limited (ACN 134 845 748)</em>
+ <a href="http://www.software.com/registry-cleaners/" title="Registry Cleaner Software">Registry Cleaner Software</a> 
+ * <a href="http://www.bigwebmaster.com" target="_new">Webmaster Resources</a> *  <a href="http://www.ozzu.com" target="_new">Webmaster Forum</a>
+<br>
+<br>
+<br>
+                                </div>
+                </div>
 </div>
 </div>
-<!--
-<script type="text/javascript"> 
-	var box = {};
-	window.addEvent('domready', function(){
-		box = new MultiBox('mb', {descClassName: 'multiBoxDesc', useOverlay: true});
-	});
-</script> 
 
--->
+<!-- END FOOTER-->
+
+
+
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -256,4 +319,4 @@ updateStatus();
 
 
 
-</div></div></body></html>
+</body></html>
