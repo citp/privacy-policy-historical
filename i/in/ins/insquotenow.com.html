@@ -1,0 +1,381 @@
+<!--The following is the downloaded HTML source of the insquotenow.com privacy policy that was archived on 2010-01-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100127200156id_/http%3A//insquotenow.com/about/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+  <title>InsQuoteNow.com</title>
+  <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8">
+  <meta http-equiv="Content-Language" content="en-us">
+
+  
+    <link rel="stylesheet" href="/stylesheets/insquote.css" type="text/css">
+  
+  <script src="/javascripts/prototype.js?1264115799" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1264115799" type="text/javascript"></script>
+<script src="/javascripts/dragdrop.js?1264115799" type="text/javascript"></script>
+<script src="/javascripts/controls.js?1264115799" type="text/javascript"></script>
+<script src="/javascripts/livevalidation_prototype.js?1264115799" type="text/javascript"></script>
+<script src="/javascripts/application.js?1264115799" type="text/javascript"></script>
+  
+  <style>
+    div#head-banner {
+      height: 133px; 
+      background: #13A79B url(/images/content-head.jpg) no-repeat;
+      border-top: solid 9px #666050;
+    }
+
+    div#content-title {
+      color: white;
+      margin: 48px 0 0 26px;
+      font-size: 16pt;
+      font-family: Helvetica, Arial;
+    }
+
+    div#content-subtitle {
+      color: white;
+      margin: 3px 0 0 28px;
+      font-size: 11pt;
+      font-family: Arial;
+      width: 400px;
+    }
+
+    div#right-banner {
+      background: url(/images/get-insurance-the-easy-way.gif) no-repeat;
+      width: 218px;
+      height: 316px;
+      float: right;
+      margin: 15px 11px 10px 15px;
+      position: relative;
+    }
+
+    div#right-banner input#zip {
+      position: absolute;
+      top: 221px; left: 17px;
+      width: 118px; height: 18px;
+      border: solid 1px #5CBEB6;
+      margin:0; padding:6px;
+    }
+
+    div#right-banner select#instype {
+      position: absolute;
+      top: 263px; left: 16px;
+      width: 147px; height: 32px;
+      border: solid 1px #5CBEB6;
+      margin:0; padding:0;
+      padding: 6px;
+      border-right: none;
+      background: white;
+    }
+
+    div#right-banner input#zip.LV_invalid_field {
+      border: solid 1px red;
+    }
+
+    div#right-banner input#submit {
+      position: absolute;
+      top: 263px; left: 163px;
+      width: 44px; height: 32px;
+      border:0; margin:0; padding:0;
+    }
+
+    div#maincontent {
+      padding-bottom: 1.5em;
+      min-height: 470px; /* to fit banner at right */
+    }
+
+    div#maincontent, div#maincontent p {
+      color: #949494;
+    }
+
+    div#maincontent p {
+      text-align: justify;
+    }
+
+    div#maincontent h3 {
+      color: #666050;
+      font-size: 11pt;
+    }
+
+    div#maincontent ul {
+      list-style: url(/images/content-list-item.gif);
+      margin-left: 20px;
+    }
+    div#maincontent ul li {
+      margin-bottom: 0.5em;
+    }
+  </style>
+
+  <script type="text/javascript">
+//<![CDATA[
+    function fSubmit(){
+      var a = $$('select');
+      var r = true;
+      a.each(function(el){
+        if( el.id == 'instype' && el.value != '' ){
+          window.location = '/' + el.value + '/results?zip=' + $F('zip');
+          r = false;
+        }
+      });
+      return r;
+    }
+
+//]]>
+</script>
+
+</head>
+
+<body>
+
+<div id="header">
+  
+    <div id="logo">
+      <a href="/"><img src="/images/insquotenow.gif"></a>
+    </div>
+    <div id="topnav" style="top:64px">
+      <a href="/auto-insurance">Auto</a> | <a href="/home-insurance">Home</a> | <a href="/life-insurance">Life</a> | <a href="/health-insurance">Health</a>
+    </div>
+  
+</div>
+
+
+<div id="container" class="wide">
+  <div id="bottom">
+    <!--div class="pad10px"-->
+    <div id="maincontent">
+      
+  <div id="head-banner">
+    <div id="content-title">Our Privacy Policy</div>
+    <div id="content-subtitle">Last revised: October 8th, 2009</div>
+  </div>
+  <div id="right-banner">
+    <form action="/step1" id="insform1" method="post" onsubmit="return fSubmit();">
+      <div id="zipbox"><input id="zip" maxlength="5" name="zip" onblur="if (this.value==''){this.value='Type Zip';if(this.value!='Type Zip'){this.setAttribute('maxlength',8); this.value='Type Zip'}}" onfocus="this.value=''; this.setAttribute('maxlength',5)" type="text" value="Type Zip"></div>
+      <select id="instype" name="instype"><option value="" selected="selected">Auto Insurance</option>
+<option value="home">Home Insurance</option>
+<option value="health">Health Insurance</option>
+<option value="life">Life Insurance</option></select>
+      <input id="submit" src="/images/1.gif?1264115799" type="image">
+      <script type="text/javascript">
+          var zip = new LiveValidation('zip', { validMessage: '', wait: 500});
+          zip.add(Validate.Format, {pattern: /^\d{5}$/i, failureMessage: "" } );
+          //zip.form.destroy(true);
+      </script>
+    </form>
+  </div>
+  <style>
+    div#maincontent table#personal-info {
+      border-collapse: collapse;
+      margin: 0.5em 0 0.5em 2em;
+    } 
+    div#maincontent table#personal-info td,
+    div#maincontent table#personal-info th {
+      border: solid 1px gray;
+      padding: 5px 7px; 
+    } 
+</style>
+
+<h3>Our Privacy Policy</h3>
+
+<p>The following privacy statement discloses the privacy practices for ReMark International B.V. </p>
+<p>Last revised: October 8th, 2009</p>
+<p>
+  ReMark  Americas<br>
+  Minneapolis Office | 301 Carlson Parkway, Suite 305 | Minnetonka, MN 55305 | U.S.A.<br>
+  Main Tel  (952) 938-4699 | Fax (952) 988-8500 
+</p>
+
+<p>Whether it’s auto, home, life, health, or other insurance, ReMark International B.V.("<a href="/">InsQuoteNow.com</a>") helps you find coverage.</p>
+
+<p><a href="/">INSQUOTENOW.COM</a>  provides consumers with a free, simple, and effective way to shop for insurance. As a leading online marketplace for insurance, <a href="/">INSQUOTENOW.COM</a>  works with a combination of local agents, regional and national carriers (we refer to all of these as "Agents") to ensure that you are provided with a wide variety of responses to your request for a quote.</p>
+
+<p>Helping you save money is important but so is your privacy. This policy outlines our commitment to protecting your information.</p>
+
+<h3>Your Privacy is Important to Us</h3>
+
+<p>At <a href="/">INSQUOTENOW.COM</a>, your privacy is our chief concern. We understand that you entrust us with your private information to help us match you with an insurance Agent who can meet your needs. In exchange for your trust, you expect and deserve our commitment to treat your information with respect. Rest assured that we protect your privacy. Under no circumstances will <a href="/">INSQUOTENOW.COM</a>  sell or share any personal information about you to or with any person or organization except: as authorized by you, to participating Agents or other parties involved in your transaction, or as may be required by law or court order. The Privacy Policy below describes the standards we adhere to in handling information about you and your insurance quote request.</p>
+
+<h3>What We Want You to Know</h3>
+
+<ol>
+  <li><a href="#1">Who we are and what we do</a>
+  </li><li><a href="#2">Information collected</a>
+  </li><li><a href="#3">How your information is used</a>
+  </li><li><a href="#4">Communications you can expect</a>
+  </li><li><a href="#5">Altering or deleting the information you submit through the </a><a href="/">INSQUOTENOW.COM</a>  web sites
+  </li><li><a href="#6">Policies applicable to restricted areas within the site</a>
+  </li><li><a href="#7">Notification of changes to this privacy policy</a>
+</li></ol>
+
+<a name="1"></a><h3>1. Who We Are and What We Do</h3>
+
+<p><a href="/">INSQUOTENOW.COM</a>  is a leading online marketplace connecting consumers with insurance Agents to compete for their business across a variety of insurance policy types. <a href="/">INSQUOTENOW.COM</a>  is not an insurance agency and does not provide quotes directly to consumers. Rather, <a href="/">INSQUOTENOW.COM</a>  is a free matching service that instantly connects you with our nationwide network of quality insurance Agents</p>
+
+<p>After you submit your quote request via our web site, <a href="/">INSQUOTENOW.COM</a>  immediately matches you to local and national Agents who can meet your insurance needs. We create this connection by emailing you the list of matching Agents and their contact information as well as passing your information to the Agents. Your matching Agents will use the information you provided in your quote request to run your quote and contact you with the details. Sometimes, <a href="/">INSQUOTENOW.COM</a>  does not have a matching Agent based on your location and insurance needs. In this event, your information may be passed to one of our partner companies to ensure that you receive as many competitive quotes as possible.</p>
+
+<p><a href="/">INSQUOTENOW.COM</a>  does not charge a fee to use our service. <a href="/">INSQUOTENOW.COM</a>  is paid a fee by the insurance Agents who purchase leads through our service.</p>
+
+<a name="2"></a><h3>2. Information Collected</h3>
+
+<h3>Personal Information</h3>
+
+<p><a href="/">INSQUOTENOW.COM</a>  collects the following personal information in each of our quote requests. We pass this information on to your matching Agents so they can generate accurate quotes for you.</p>
+
+<table id="personal-info">
+  <tbody><tr>
+    <th>Auto</th>
+    <th>Home</th>
+    <th>Health</th>
+    <th>Life</th>
+  </tr>
+  <tr valign="top">
+    <td>
+      First and Last Name<br>
+      Postal Address       <br>
+      Email Address        <br>
+      Phone Number       <br>
+      Driver's License Number *        <br>
+      Social Security Number *       <br>
+      Date of Birth        <br>
+      Gender       <br>
+      Marital Status       <br>
+      Type of Vehicle Driven       <br>
+      Driving Habits and Record        <br>
+      Occupation       <br>
+      Level of Education       
+    </td>
+    <td colspan="3" align="center">
+      Zip Code
+    </td>
+  </tr>
+</tbody></table>
+ 
+<p><i>* This information is not required, but is helpful in generating your quotes.</i></p>
+
+<h3>Technical Information</h3>
+
+<p>We collect and track certain technical information to ensure that your consumer experience is a beneficial one. We may also use technical information to store your preferences and make future visits to our site quicker for you.</p>
+<ul>
+  <li> Cookies – a cookie is a small file stored on a user’s computer that contains information about the user. We use either session ID cookies (which terminate once a browser is closed) or persistent cookies (which are small text files stored on a user’s hard drive for an extended period of time). Cookies allow us to see how and when you use our sites, but they cannot be used to track personal information such as email address or phone number. Cookies also allow us to store the personal preferences that you set during each visit to our sites which can speed up your future visits.
+  </li><li> Log files – <a href="/">INSQUOTENOW.COM</a>  uses log files to track how our sites are being accesses and used. Log files track anonymous user information such as IP addresses, browser types, Internet service providers, referring and exit pages, platform type, date and time stamps, and number of clicks to, from, and within our sites. Web logs are tracked only on <a href="/">INSQUOTENOW.COM</a>’s servers and do not place anything on your computer.
+  </li><li> Information from Banner Ads – if you arrive at an <a href="/">INSQUOTENOW.COM</a>  -owned site through a banner ad, <a href="/">INSQUOTENOW.COM</a>  can track where you arrived from, as well as clicks that might have impacted our servers. This information is anonymous and cannot be used to gather personal information about you.
+</li></ul>
+<h3>Information from the "Contact Us" section of the web site</h3>
+
+<p>If you decide to communicate with us through the “Contact Us” section on our web site, we may ask you for personal information such as your name, email address, or phone number. This information is not sold to any third parties. Your information may, however, be shared with outside sources in order to resolve any problems you may have.</p>
+
+<h3>Information from the "Contact Us" section of the web site</h3>
+
+<p>If you decide to communicate with us through the "Contact Us" section on our web site, we may ask you for personal information such as your name, email address, or phone number. This information is not sold to any third parties. Your information may, however, be shared with outside sources in order to resolve any problems you may have.</p>
+
+<h3>Information gathered from Agents</h3>
+
+<p>Our Agent web site contains preliminary information for insurance Agents who might like to join our network. If you are an Agent and submit information through the “Insurance Agent / Representative Information Request Form” page, your email address and phone number will be used for contact purposes but not shared with any outside parties.</p>
+
+<h3>Information gathered from affiliates</h3>
+
+<p>The affiliate section of our web site contains preliminary information for people who might like to join our affiliate network. If you sign up as an affiliate we will gather personal information such as name, postal address, and phone number. This information is used to contact you with information such as payment delivery notifications and a monthly affiliate newsletter. This information is never shared with any outside parties.</p>
+
+<a name="3"></a><h3>3. How Your Information is Used</h3>
+
+<h3>How we share information with Agents</h3>
+
+<p>When you submit a quote request with <a href="/">INSQUOTENOW.COM</a>, your information is used to match you with an average of three to four qualified, licensed Agents who can best serve your insurance needs. In the event that we cannot match you with an Agent, your information may be passed on to one of our partner companies in an effort to ensure you receive as many competitive quotes as possible.</p>
+
+<p>How we internally use technical information to improve marketing</p>
+
+<p><a href="/">INSQUOTENOW.COM</a>  uses technical information such as cookies and web logs to study how our sites are being used. We can also use cookies to track your preferences so that when you return to our web site, you can navigate more easily without having to re-enter certain information. By analyzing the data that cookies and web logs provide, we can determine how to improve our web sites and banner ad campaigns to better serve our customers.</p>
+
+<h3>Other uses of your information by third parties</h3>
+<ul>
+  <li> Partner companies – in the event that no <a href="/">INSQUOTENOW.COM</a>  Agents can serve your insurance needs, the information from your quote request may be passed to one of our partner companies. We feel it would be poor customer service to fail to provide a quote merely because no matching Agents are available. In these circumstances, we pass your quote request only to partner companies that we have an existing contractual relationship. <a href="/">INSQUOTENOW.COM</a>  only enters into relationships with reputable companies and our contract requires they follow applicable laws and not misuse the data provided to them. Any contact from partner companies is not covered under this policy, nor are any further communications you may have with Agents from those partner companies.
+  </li><li> Companies that perform information processing on our behalf – <a href="/">INSQUOTENOW.COM</a>  partners with companies who manage our email systems and conduct surveys on our behalf. Your personal information is shared with these companies on a limited basis so that we can create and target our marketing campaigns.
+  </li><li> Law Enforcement – <a href="/">INSQUOTENOW.COM</a>  will share your personal information in response to law enforcement officers, government personnel, court order or subpoena. This information will only be shared in order to comply with a legal obligation.
+</li></ul>
+
+<a name="4"></a><h3>4. Communications You Can Expect</h3>
+
+<h3>Confirmation email</h3>
+
+<p>Minutes after you submit a quote request through <a href="/">INSQUOTENOW.COM</a>, you will receive a confirmation email. This email will include a link to your list of matching Agents and helpful information to aid you in making your insurance choices. Note that the Agents contained in your matching list will be those responding to you with your customized quote(s).</p>
+
+<p>In the event that a match cannot be made, you will receive an email informing you that no Agents meet your quote request requirements. This email will be sent within a matter of hours after you complete a quote request.</p>
+
+<h3>Follow up calls and emails from Agents</h3>
+
+<p>After submitting a quote request through <a href="/">INSQUOTENOW.COM</a>, your quote request is matched with qualified, licensed Agents. These Agents may contact you via the information that you provided in your quote request.</p>
+
+<a name="5"></a><h3>5. Altering or Deleting the Information You Submit Through <a href="/">INSQUOTENOW.COM</a>  Web Sites</h3>
+
+<h3>Agent communications</h3>
+
+<p>By submitting a quote request with <a href="/">INSQUOTENOW.COM</a>, insurance Agents will contact you using the phone number and email address provided. In order stop these communications, you must contact the Agents directly and request that they stop contacting you.</p>
+
+<p>If you decide to purchase insurance from one of the insurance Agents matched to you through <a href="/">INSQUOTENOW.COM</a>, all further contact with that Agent is not covered under this policy. You should thoroughly read the Privacy Policy of the Agent you select in order to make sure that you are comfortable with their policy.</p>
+
+<h3>Quote requests</h3>
+
+<p><a href="/">INSQUOTENOW.COM</a>  is not an insurance agency. We are a free matching service that instantly connects you with our nationwide network of quality insurance Agents. After you submit your quote request via our web site, <a href="/">INSQUOTENOW.COM</a>  immediately matches you to local Agents and sends your information to them. This process happens instantly; therefore, there is not an opportunity for you to edit your original information after it’s been submitted. We recommend that you communicate the needed changes directly to the Agents with whom you were matched. You can find your Agent(s) contact information in the email we sent you to confirm your quote request. You can contact the carriers via the email response they may send you. This will ensure your updates are made and that the Agent uses the most accurate information available to process your quote.</p>
+
+<h3>System records</h3>
+
+<p>All personal information provided to <a href="/">INSQUOTENOW.COM</a>  in a quote request will be retained in database until archived.</p>
+
+<a name="6"></a><h3>6. Policies applicable to restricted areas within the site</h3>
+
+<p>Certain areas of <a href="/">INSQUOTENOW.COM</a>'s web sites, such as areas only available to our Agent network, may have additional or different terms and conditions than those addressed in this policy. If you access any of these areas, you should consult the privacy policies posted in those areas.</p>
+
+<a name="7"></a><h3>7. Notification of Changes to this Privacy Policy</h3>
+
+<p>We may, at our sole discretion, revise this policy at any time in a manner consistent with applicable laws and regulations. When we revise this policy, including changes to <a href="/">INSQUOTENOW.COM</a>’s use of your personal information, we will incorporate the revisions into this policy and will revise the “last revised” date at the top of this web page. We recommend that you regularly visit this policy in order to remain informed about any changes that we may implement.</p>
+
+<h3><a href="/">INSQUOTENOW.COM</a>  Privacy Notice</h3>
+
+<p>By filling out the forms and providing information about yourself on this and the following pages, you acknowledge and agree that:</p>
+
+<ul>
+  <li> you have read, understand and agree to <a href="/">INSQUOTENOW.COM</a>’s Privacy Policy, and <a href="/">INSQUOTENOW.COM</a>  may send you electronically (via email or otherwise) any notices with respect to the Privacy Policy.
+  </li><li> <a href="/">INSQUOTENOW.COM</a>  may provide the information you submit to third parties for the purposes of providing you information and quotes about insurance, that such third parties may contact you by the email addresses, physical address or phone numbers that you provide, and that such third parties may use your information to gather additional information about you, such as insurance or credit scores.
+  </li><li> <a href="/">INSQUOTENOW.COM</a>  may contact you using the information you provide.
+  </li><li> you are an actual person, you have the right to provide the information you submit, and the information you submit is accurate, complete and truthful<br><br>
+
+      If you do not agree to the terms of this Privacy Notice and the Privacy Policy, then do not enter your information and do not continue with this process and do not provide your information to <a href="/">INSQUOTENOW.COM</a>, in which case <a href="/">INSQUOTENOW.COM</a>  will not be able to have any quotes or information for insurance provided to you.
+</li></ul>
+
+
+
+    </div>
+    <!--/div-->
+  </div>
+  <div id="mid">
+    <div id="midcontent"><img alt="insurance carriers" src="/images/companies.png"></div>
+  </div>
+
+  <div id="footer">
+  <div id="copyright"><p>© 2009 insQuoteNow.com</p></div>
+  <div id="footernav">
+    <a href="/about/terms-and-conditions">T&amp;C’s</a> |
+    <a href="/about/privacy-policy">Privacy Policy</a> |
+    <a href="/about/contact">Contact</a> |
+    <a href="/about-us">About</a> |
+    <a href="/affiliates/register">Affiliates</a>
+    <a href="/leads/buy"><img alt="buy leads" src="/images/buyleads.gif?1264115799"></a>
+  </div>
+</div>
+</div>
+<div id="secured"><img src="/images/secured.gif" alt="Your information is secured"></div>
+
+  <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    try {
+      var pageTracker = _gat._getTracker("UA-88903-9");
+      pageTracker._trackPageview();
+    } catch(err) {
+    }
+  </script>
+
+
+
+ 
+</body></html>
