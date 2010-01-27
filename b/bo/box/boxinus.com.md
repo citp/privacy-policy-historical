@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the boxinus.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603001100id_/http%3A//boxinus.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxinus.com privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127095250id_/http%3A//www.boxinus.com/privacy.aspx) for the most accurate reproduction.*
 
-# www.boxinus.com
+# Boxinus.com
+
+Last updated : 1 December 2009 11:30 AM 
 
 We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
 
