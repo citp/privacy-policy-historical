@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanbridal.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602233011id_/http%3A//www.americanbridal.com/secure.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanbridal.com privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127094813id_/http%3A//www.americanbridal.com/secure.html) for the most accurate reproduction.*
 
 # Privacy Policy & Site Security
 
@@ -22,8 +22,6 @@
 
 #### Accessories
 
-[](http://www.americanbridal.com/newsletter.html)
-
 Customer satisfaction is our number one priority. To this end, site security is paramount, we use the latest technology to protect your credit card details. Our site use a Secure Server that encrypts all your order information into bits of code that are then securely transmitted over the internet. When you login as a member and proceed to the order information page you will see a padlock or key at the bottom of your browser indicating that this specific page is secure.
 
 Our secure server software (SSL) is the industry standard and among the best available today for secure commerce transaction. It encrypts all your personal information, including credit card number, name, address, so that it cannot be read as the information flows over the Internet
@@ -42,8 +40,8 @@ Reliable-Fast Shipping, Top Quality Gifts, Great Customer Service
 
  **Testimonials from past customers**
 
-  * Easy to shop on there site and great communcation via email regarding order status.  
- ** _Karolina Motyka_**
+  * I recently ordrered all my bridesmaid gifts from your website. I ordered a variety of [Swarovski crystal jewelry](http://www.americanbridal.com/swcrco.html). The package came in yesterday, and I just wanted to let you know ho wthrilled I am with the product! All of the jewelry is absolutely beautiful! The selection was great, the ability to order any color you'ld like is awesome, and the speediness of the delivery was excellent. I am just so happy with everything. I will definitely be telling my friends and family about your site. Keep up the great work! You have made gettign gifts such a pleasurable experience!   
+**_Bridget Jurgens._**
   * I have to say I was very please with the merchandise & turn over time. I will recommend you to my friends! Thanks again Happy Holidays!   
 **_Rhonda Santa Rosa,Ca_**
 
