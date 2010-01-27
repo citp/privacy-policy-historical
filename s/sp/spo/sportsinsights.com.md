@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportsinsights.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417143100id_/http%3A//www.sportsinsights.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsinsights.com privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127132327id_/http%3A//www.sportsinsights.com/privacy.aspx) for the most accurate reproduction.*
 
-# Sports Betting Systems Tools Plus Betting Odds and Articles
+# Sports Betting Systems | Betting Odds from Sports Insights
 
 Thank you for visiting _SportsInsights.com_ (our "Site"). We appreciate the opportunity to interact with you on the Internet and are committed to protecting and safeguarding your privacy. The purpose of this Privacy Statement is to inform you about the types of information we might collect about you when you visit our Site, how we may use that information and whether we disclose that information to anyone. 
 
