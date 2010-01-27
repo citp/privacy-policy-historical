@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skillport.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224093656id_/http%3A//www.skillport.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillport.com privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127134058id_/http%3A//www.skillsoft.com/privacy.asp) for the most accurate reproduction.*
 
 # SkillSoft - Privacy Policy
 
