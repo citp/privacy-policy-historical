@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monstermoviepass.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218184444id_/http%3A//monstermoviepass.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstermoviepass.com privacy policy that was archived on 2010-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100128115954id_/http%3A//monstermoviepass.com/info/privacy) for the most accurate reproduction.*
 
 # Monster Movie Pass - Largest Full Adult DVD Download Site On The Internet
 
@@ -6,7 +6,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 The Information We Collect: We collect email addresses on the signup page for the use of sending emails to our customers with special offers as well as their username & password if they signup to one of our sites. We do collect users details on the 2nd join page of any of our sites but this data is not stored for future use, the customers details are only stored temporaily for use in cascading billing. Sending the data via server scripts from credit card biller 1-2-3. The data is only stored on a permanent basis if the customer decides to join one of our sites with their credit card, checking account, web900 or dialer.
 
-This notice applies to all information collected or submitted on [Internet Media Productions Ltd] websites. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on [Marson Investments Ltd] websites. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
   * Name:
   * Address:
