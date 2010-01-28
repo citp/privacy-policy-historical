@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roomp3.com privacy policy that was archived on 2009-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090809233218id_/http%3A//www.roomp3.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomp3.com privacy policy that was archived on 2010-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100128055609id_/http%3A//www.roomp3.com/privacy.html) for the most accurate reproduction.*
 
-# RoomP3 Бесплатное скачивание mp3 , прослушивание , загрузка и слова . Бесплатные песни
+# Room MP3, Δωρεάν Mp3, ακούστε, κατεβάστε και ανεβάστε στίχους
 
 We understand your need to maintain your privacy when using the Internet for your communication, shopping, exploration, and play. To make sure you understand our approach to online privacy issues, you MUST read this Privacy Policy and our Terms of Use as a condition to using Roomp3 .
 
