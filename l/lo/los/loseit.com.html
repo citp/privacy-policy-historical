@@ -1,313 +1,572 @@
-<!--The following is the downloaded HTML source of the loseit.com privacy policy that was archived on 2005-02-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050203195654id_/http%3A//www.loseit.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the loseit.com privacy policy that was archived on 2010-01-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100128055731id_/http%3A//www.loseit.com/privacy) for the most accurate reproduction.-->
 
-<html><head>
-<title> Herbalife Independent Distributor, Ronalee Wise. </title>
-<meta name="description" content="Herbalife independent distributor offers herbal life weight loss and health products.">
-<meta name="keywords" content="herbalife , herbalife products , herbal life , herbalife distributor , herbalife weight loss , herbal life weight loss, herbal products ">
-<meta name="Microsoft Border" content="tlrb, default">
-</head>
-<body topmargin="0" link="#008080" vlink="#008080" alink="#008080" leftmargin="0"><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <meta name="Description" content="Lose It! is the most complete and streamlined weight loss application for the iPhone. Downloaded by millions of users, Lose It! can help you meet your weight loss goal!">
 
-<p align="center">&nbsp;</p>
+    <link type="text/css" rel="stylesheet" href="/connect/css/styles.css">
+    <link type="text/css" rel="stylesheet" href="/connect/css/applicationStyles.css">
+    
+    <title>Lose it! - Succeed at weight loss using your iPhone</title>
+    <script type="text/javascript" language="javascript" src="/_js/jquery-1.3.2.min.js"></script> 
+    <script type="text/javascript" language="javascript" src="/connect/connect.nocache.js"></script><script language="javascript" src="https://web.archive.org/connect/flot-latest/jquery.flot.min.js"></script><script language="javascript" src="https://web.archive.org/connect/flot-latest/jquery.flot.pie.min.js"></script><script language="javascript" src="https://web.archive.org/connect/flot-latest/excanvas.min.js"></script><script defer="defer">connect.onInjectionDone('connect')</script>
+    <link rel="icon" href="/favicon.ico" type="image/x-icon"> 
+    
+    
+	
+       
+  </head>
+  
+  <body class="background">
+  
+  <table cellpadding="0" cellspacing="0" border="0" width="100%">
+  <tbody><tr>
+  <td align="center">
+  
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 850px;">
+  	<tbody><tr>
+  		<td class="loseit-logo">
+  			<a href="/index.jsp"><img src="/_images/LoseItLogo.jpg" border="0" height="69" width="231"></a>
+  		</td>
+  		<td align="right" style="vertical-align:bottom;" class="loseit-header-top">
+  		
+  		
+			
+			
+  				
 
-</td></tr><!--msnavigation--></tbody></table><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="top" width="1%">
 
-<p>&nbsp;</p>
 
-</td><td valign="top" width="24"></td><!--msnavigation--><td valign="top">
+<script type="text/javascript"> 
+$(document).ready(function()
+{
 
-<table border="0" width="98%" cellspacing="0" cellpadding="0" align="center">
-<tbody><tr>
-  <td><br>
-  </td>
+	var focusFlag = "focused";
+	var ghostedStyle = "inputGhosted";
+	var placeHolderText = "email address";
+	
+	elem = $('#username');
+
+	elem.keydown(function(e)
+	{	
+		var key = e.charCode || e.keyCode || 0;
+		if (key != 9 && key != 16 && key != 17 && key != 18 && key != 91 && key != 224)
+			$(this).removeClass(ghostedStyle);
+	}
+	);
+	
+    elem.focus(function()
+   	{
+       	if ($(this).hasClass(focusFlag))
+           	return;
+        if (!$(this).val() || $(this).val() == "")
+        {
+     	   $(this).addClass(ghostedStyle);
+     	   $(this).val(placeHolderText);     
+     	   $(this).select();          
+        }
+        else
+        {
+        	$(this).removeClass(ghostedStyle);
+      	   	$(this).val("");   
+        }
+        
+        $(this).addClass(focusFlag);
+    });
+
+    elem.blur(function() {
+        if (!$(this).val() || $(this).val() == "")
+        {
+     	   $(this).addClass(ghostedStyle);
+     	   $(this).val(placeHolderText);               
+        }
+        $(this).removeClass(focusFlag);
+     });  
+
+	
+    $('#username').focus();
+       
+    
+		$("#password").hide();
+		$("#passwordPlaceholder").show();
+    	$("#passwordPlaceholder").focus(function(){$(this).hide(); $("#password").show().focus(); });    
+   	  
+	
+
+	
+		$("#hiddenTargetField").value = document.location.pathname + document.location.hash;
+	
+	$("#loseitloginform").get(0).action = '/index.jsp' + document.location.hash;
+});
+</script>
+
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+
+<form action="/index.jsp" method="post" id="loseitloginform"></form>
+<input type="hidden" name="target" value="" id="hiddenTargetField">
+	<tbody><tr>
+	<td class="loseit-tinytext" style="color:red; padding-bottom: 5px;" colspan="3">&nbsp;</td>
+</tr>
+<tr>
+	<td>
+		<input type="text" name="username" value="" class="loseit-loginpanel-textbox inputGhosted focused" id="username">
+	</td>
+	<td>
+		<input type="password" name="password" value="" class="loseit-loginpanel-textbox" id="password" style="display: none;">
+		<input type="text" name="passwordPlaceholder" value="password" class="loseit-loginpanel-textbox inputGhosted" id="passwordPlaceholder" style="">
+	</td>
+	<td align="right">
+		<input type="image" src="/_images/SignInButtonEnabled.png" name="submit">
+	</td>
+</tr>
+
+<tr>
+	<td style="padding-bottom: 10px;">
+		<table border="0" cellpadding="0" cellspacing="0" class="loseit-tinytext lightText">
+		<tbody><tr>
+		<td>
+			<input type="checkBox" name="rememberme" value="rememberme">
+		</td>
+		<td>
+			Remember me
+		</td>
+		</tr>
+		</tbody></table>
+	</td>
+	<td style="padding-bottom: 10px;" class="loseit-tinytext lightText">
+		<a href="/resetpassword" style="color: #A2ADB4">Forgot your password?</a>
+	</td>	
+	
+	
+</tr>
+		
+</tbody></table> 	
+		
+
+			
+		
+
+  		</td>
+  	</tr>
+  	<tr>
+  		<td colspan="2" bgcolor="white" valign="top" class="loseit-body"> 
+  		
+		
+			
+
+<!-- This defines the first item in the toolbar (it's a hack, I know) -->
+
+
+
+
+
+
+
+
+
+
+<table cellspacing="0" cellpadding="0" class="gwt-DecoratedTabBar 
+		
+	" role="tablist" style="width: 100%;">
+	<tbody>
+		<tr>
+		
+		
+		
+			<td height="100%" align="left" style="vertical-align: bottom;" class="gwt-TabBarFirst-wrapper">
+			
+				<div class="gwt-TabBarFirst" style="white-space: normal; height: 100%;">&nbsp;</div>
+			
+			</td>
+			
+			
+			<td align="left" style="vertical-align: bottom;" class="gwt-TabBarItem-wrapper 
+				
+				">
+			
+			<table cellspacing="0" cellpadding="0" class="gwt-TabBarItem 
+				
+				" onclick="window.location='/index.jsp';">
+				<tbody>
+					<tr class="tabTop">
+						<td class="tabTopLeft">
+						<div class="tabTopLeftInner"></div>
+						</td>
+						<td class="tabTopCenter">
+						<div class="tabTopCenterInner"></div>
+						</td>
+						<td class="tabTopRight">
+						<div class="tabTopRisdddddddddddddddghtInner"></div>
+						</td>
+					</tr>
+					<tr class="tabMiddle">
+						<td class="tabMiddleLeft">
+						<div class="tabMiddleLeftInner"></div>
+						</td>
+						<td class="tabMiddleCenter">
+						<div class="tabMiddleCenterInner">
+						<div tabindex="0" role="tab">
+						<div class="gwt-Label" style="white-space: nowrap;">Home</div>
+						</div>
+						</div>
+						</td>
+						<td class="tabMiddleRight">
+						<div class="tabMiddleRightInner"></div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			
+		
+			<td height="100%" align="left" style="vertical-align: bottom;" class="gwt-TabBarItem-wrapper">
+			
+			</td>
+			
+			
+			<td align="left" style="vertical-align: bottom;" class="gwt-TabBarItem-wrapper 
+				
+				">
+			
+			<table cellspacing="0" cellpadding="0" class="gwt-TabBarItem 
+				
+				" onclick="window.location='/screenshots.jsp';">
+				<tbody>
+					<tr class="tabTop">
+						<td class="tabTopLeft">
+						<div class="tabTopLeftInner"></div>
+						</td>
+						<td class="tabTopCenter">
+						<div class="tabTopCenterInner"></div>
+						</td>
+						<td class="tabTopRight">
+						<div class="tabTopRisdddddddddddddddghtInner"></div>
+						</td>
+					</tr>
+					<tr class="tabMiddle">
+						<td class="tabMiddleLeft">
+						<div class="tabMiddleLeftInner"></div>
+						</td>
+						<td class="tabMiddleCenter">
+						<div class="tabMiddleCenterInner">
+						<div tabindex="0" role="tab">
+						<div class="gwt-Label" style="white-space: nowrap;">Screenshots</div>
+						</div>
+						</div>
+						</td>
+						<td class="tabMiddleRight">
+						<div class="tabMiddleRightInner"></div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			
+		
+			<td height="100%" align="left" style="vertical-align: bottom;" class="gwt-TabBarItem-wrapper">
+			
+			</td>
+			
+			
+			<td align="left" style="vertical-align: bottom;" class="gwt-TabBarItem-wrapper 
+				
+				">
+			
+			<table cellspacing="0" cellpadding="0" class="gwt-TabBarItem 
+				
+				" onclick="window.location='/faq.jsp';">
+				<tbody>
+					<tr class="tabTop">
+						<td class="tabTopLeft">
+						<div class="tabTopLeftInner"></div>
+						</td>
+						<td class="tabTopCenter">
+						<div class="tabTopCenterInner"></div>
+						</td>
+						<td class="tabTopRight">
+						<div class="tabTopRisdddddddddddddddghtInner"></div>
+						</td>
+					</tr>
+					<tr class="tabMiddle">
+						<td class="tabMiddleLeft">
+						<div class="tabMiddleLeftInner"></div>
+						</td>
+						<td class="tabMiddleCenter">
+						<div class="tabMiddleCenterInner">
+						<div tabindex="0" role="tab">
+						<div class="gwt-Label" style="white-space: nowrap;">FAQ</div>
+						</div>
+						</div>
+						</td>
+						<td class="tabMiddleRight">
+						<div class="tabMiddleRightInner"></div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			
+		
+			<td height="100%" align="left" style="vertical-align: bottom;" class="gwt-TabBarItem-wrapper">
+			
+			</td>
+			
+			
+			<td align="left" style="vertical-align: bottom;" class="gwt-TabBarItem-wrapper 
+				
+				">
+			
+			<table cellspacing="0" cellpadding="0" class="gwt-TabBarItem 
+				
+				" onclick="window.location='/contact.jsp';">
+				<tbody>
+					<tr class="tabTop">
+						<td class="tabTopLeft">
+						<div class="tabTopLeftInner"></div>
+						</td>
+						<td class="tabTopCenter">
+						<div class="tabTopCenterInner"></div>
+						</td>
+						<td class="tabTopRight">
+						<div class="tabTopRisdddddddddddddddghtInner"></div>
+						</td>
+					</tr>
+					<tr class="tabMiddle">
+						<td class="tabMiddleLeft">
+						<div class="tabMiddleLeftInner"></div>
+						</td>
+						<td class="tabMiddleCenter">
+						<div class="tabMiddleCenterInner">
+						<div tabindex="0" role="tab">
+						<div class="gwt-Label" style="white-space: nowrap;">Contact</div>
+						</div>
+						</div>
+						</td>
+						<td class="tabMiddleRight">
+						<div class="tabMiddleRightInner"></div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			
+		
+		
+	
+			
+			<td width="100%" align="left" style="vertical-align: bottom;" class="gwt-TabBarRest-wrapper">
+			<div class="gwt-TabBarRest" style="white-space: normal; height: 100%;">&nbsp;</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+		
+
+  	
+  	 	
+
+
+<h1>Privacy Statement</h1>
+<p>
+This Privacy Statement informs users of the Lose It! website and the Lose It! Connect iPhone application about how FitNow, Inc., 
+trading as Lose It! ("Lose It!" or "we") gathers and uses personal information submitted to Lose It! and aggregated information collected 
+from the Lose It! website or via the Lose It! iPhone application.
+</p>
+
+<h3>Collection of personal information</h3>
+<p>
+If you use the Lose It! iPhone application, you may enter data into the application running locally on your iPhone, 
+in order to set, track and manage your diet and exercise goals.  This data, your "Personal Diet Data", includes your birthdate, 
+your height and weight, your gender, and specific details of the foods and drinks that you consume and the exercise you do. 
+If you do not subscribe to Lose It! Connect or create an account at the Lose It! website, your Personal Diet Data will remain 
+on your iPhone and we will have no access to it.
+</p>
+<p>
+If you subscribe to Lose It! Connect, you will be asked to provide your email address and to select a password.  Subscribing to 
+Lose It! Connect will automatically create an account at the Lose It! website under your email address and password, and your 
+Personal Diet Data will automatically be synched to your website account.  If you create an account at the Lose It! website, you 
+will be asked to provide an email address and password, and you may enter Personal Diet Data into the website.
+</p>
+<p>
+In addition to the above personal information, we collect standard information about Lose It! users such as IP addresses, browser type, 
+operating system, pages visited on our site, referring and exit pages, and the dates and times of the visits.  This site visitation 
+data is used to administer the site and provide general statistics regarding the use of loseit.com. Site visitation data is 
+never linked to your personal information, and we do not use it to identify you individually.
+</p> 
+
+<h3>Sharing information with friends and in user forums</h3>
+<p>
+The Lose It! website and Lose It! Connect feature allow you to share your diet and exercise goals and information with friends that 
+you select.  If you enable the sharing of Personal Diet Data with your selected friends, Lose It! will provide your friends with a 
+summary of your Personal Diet Data.  Please bear in mind that Lose It! cannot control what your friends do with the Personal Diet Data 
+you share with them, so you should only share with friends you trust.
+</p>
+<p>  
+Furthermore, if you participate in a user forum on Lose It!, your comments and your Lose It! username will be displayed to all Lose It! users on 
+the forum.  Lose It! is not responsible for what any user or third party may do with information that you choose to share.
+</p>
+<p>
+We also provide a feature allowing you to invite a friend to join Lose It!  If you provide a friend's email address to us for this reason, we 
+will use that email address only for the purpose of sending an invitation to your friend.
+</p>
+
+<h3>Use of personal information</h3> 
+<p>
+We will treat your Personal Diet Data as confidential, and we will not share your personal information or Personal Diet Data with third parties 
+without your permission, except in the limited circumstances described below.
+</p>
+<p>
+We will use the personal information you give us to fulfill the services and products you request from us. This may include billing and shipping 
+of products that you order, sending information that you have requested, or contacting you about products and services that you have purchased. 
+In some circumstances we may use third party contractors to perform these services on our behalf.  In such circumstances, we will only provide 
+the contractor with the information needed to perform the services (for example, name and address if a contractor is delivering a product to you), 
+and all contractors will be required to agree to confidentiality obligations with respect to your personal, non-public information.  
+</p>
+<p>
+If you do not opt-out of communications from Lose It!, we may send you marketing notices including promotions of our products and services. 
+You can opt-out of communications from Lose It! at any time (see control of personal information below).
+</p>
+<p> 
+We may disclose your personal information when we reasonably believe that it is required by a law or legal process and to protect and defend the 
+rights and interests of Lose It!, its affiliates, suppliers, or users. In the event Lose It! goes through a business transition, such as a merger, 
+being acquired by another company, or selling a portion of its assets, users' personal information and Personal Diet Data will, in most instances, 
+be part of the assets transferred.
+</p>
+<p>  
+We may use and disclose Personal Diet Data, in a form that does not identify any individual, to allow Lose It! and our advertisers to present targeted 
+advertising to you.  We may disclose to third parties, including advertisers and potential business partners, aggregated statistics that we develop 
+from Personal Diet Data.  For example, we may disclose the total number of pounds lost by all Lose It! users, the average weight loss of Lose It! users, 
+or generalized information about diet and exercise habits based on aggregated statistics developed from Personal Diet Data.  This statistical 
+information will not identify any individual.
+</p>
+<h3>Control of personal information</h3>
+<p> 
+You can confirm, change, or update personal information you have provided to us by contacting us directly at <a href="mailto:info@loseit.com">info@loseit.com</a> with your request.
+</p>
+<p> 
+If you want to opt-out of communications from Lose It!, you can do so by emailing your request to <a href="mailto:privacy@loseit.com">privacy@loseit.com</a>. If you change your mind, 
+you can opt-in again, by emailing this same address. When you opt-out of promotional communications from us, you may still receive service 
+messages (such as an order confirmation) and legally mandated notices.
+</p>
+<h3>Security of the information we collect</h3>
+<p>
+We use a range of technologies and procedures to protect your personal information. For example, we store personal information and Personal 
+Diet Information in a secure, limited access facility, and we use industry-standard firewalls and security software design to protect the 
+security and integrity of your Personal Diet Information.
+</p> 
+<h3>Protection of children's privacy</h3>
+<p>
+Loseit.com is a general interest website, and we do not knowingly collect any personal information from children. If you are under 18, 
+you are not permitted to use loseit.com.
+</p> 
+<h3>Use of cookies and tracking technology</h3>
+<p>
+When you visit our site, a cookie may be saved on your computer (if your computer accepts cookies), and if you return to the site the 
+cookie may be read. We use cookies to help us collect the site visitation data described above and in some cases to deliver specialized content. 
+Cookies are not linked to your personal information.
+</p>
+<p>
+We may also use web beacons, clear gif technology, or action tags as mechanisms to collect aggregate site visitation data by tracking 
+how users navigate to and through our website. We may also use this technology to track the delivery of HTML email messages. Data collected 
+through this mechanism is not linked to personal information.
+</p>
+<p>
+In addition, if you are using the iPhone application only, Lose It! or our partners may use analytics technology to track anonymous traffic 
+data about use of the application.  This data does not include your Personal Diet Data.
+</p>
+<p>
+Some of the analytics technology described in this section is provided to us by Google, Inc ("Google").  Under the Google Analytics Terms of 
+Service, Google and its subsidiaries have the right to retain and use the anonymous traffic data collected by the Google Analytics service 
+from users of this website or the Lose It! iPhone application.  Google's use of such data is subject to the Google Privacy Policy 
+located at <a href="http://www.google.com/privacy.html">http://www.google.com/privacy.html</a>.
+</p>  
+<h3>Enforcement of this statement</h3>
+<p> 
+If you have questions about the policies described in this statement, please email us directly at <a href="mailto:info@loseit.com">info@loseit.com</a>.
+</p> 
+
+<h3>Links to other websites</h3>
+<p>
+Our website may contain links to other websites. Please be aware that we are not responsible for the privacy practices of these other 
+sites, and we encourage you to review the policies of each site you use.
+</p> 
+<h3>Changes to this statement</h3> 
+<p>
+We may from time to time update this privacy statement. When we make these updates, we will change the "last updated" date listed below. 
+If we make a major change to this statement, we will update users by placing a more prominent notice on our home page.  Your use of Lose It! 
+after an updated privacy statement becomes effective will indicate your acceptance.
+</p>
+<h3>Users from outside the United States</h3>
+<p>
+Lose It! and the Lose It! servers are located in the United States and are subject to the applicable state and federal laws of the United States.  
+If you use Lose It!, you consent to the use and disclosure of information in accordance with this privacy statement and subject to such laws.
+</p>
+<h3>Contact information</h3>
+<p> 
+We welcome your input on our privacy statement. If you have any questions or suggestions regarding our privacy statement, please contact us at <a href="mailto:info@loseit.com">info@loseit.com</a>.
+</p>
+<p>
+Last Updated: 12/11/2009
+</p>
+
+
+
+
+
+
+
+
+		</td>
+	</tr>
+	
+	
+	<tr>
+		<td colspan="2" align="center" class="loseit-footer">
+			<a href="/faq.jsp">FAQs</a>
+			&nbsp;&nbsp;
+			<a href="/terms.jsp">Terms of Service</a>
+			&nbsp;&nbsp;
+			<a href="/privacy">Privacy</a>
+			&nbsp;&nbsp;
+			<a href="/about.jsp">About</a>
+			&nbsp;&nbsp;
+			<a href="/contact.jsp">Contact</a>
+		</td>
+	</tr>
+	
+	<tr>
+		<td colspan="2" align="center" class="loseit-footer-copyright" style="padding-top: 5px;">
+			© Copyright FitNow, Inc. All Rights Reserved
+		</td>
+	</tr>
+	
+
+</tbody></table>
+	
+	
+</td>
 </tr>
 </tbody></table>
-<table border="0" cellspacing="0" cellpadding="0" width="78%">
-  <tbody><tr>
-    <td width="33%" align="center">
-      <h4><a href="http://loseit.safeshopper.com/" style="color: #FF6600; font-size: 12pt; font-weight: bold"><font face="Verdana" size="3"><b>Order
-      Product</b></font></a></h4>
-    </td>
-    <td width="33%" align="center">
-      <h4><a href="distributors/overview.htm"><font color="#FF6600" size="3" face="Verdana"><b>Find
-                          A Distributor</b></font></a></h4>
-    </td>
-    <td width="34%" align="center">
-      <h4><a href="income.opportunity/overview.htm" style="color: #FF6600; font-weight: bold"><font color="#FF6600" size="3" face="Verdana"><b>Income
-      Opportunity</b></font></a></h4>
-    </td>
-  </tr>
-</tbody></table>
+	
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
 
-<table cellspacing="0" cellpadding="0" border="0">
-    <tbody><tr>
-      <td width="469" valign="top" align="center">
-        <font size="1">
-        &nbsp;</font>
-      </td>
-      <td width="292" valign="top" align="center">
-        &nbsp;
-      </td>
-    </tr>
-    <tr>
-      <td width="469" height="132" valign="top" align="center">
-        <h3 align="center"><font color="#008080" size="4">HERBALIFE INDEPENDENT
-        DISTRIBUTOR<br>
-        </font><font face="Arial" size="2" color="#669999">Today is <script language="JavaScript">
-  <!--- Hide from old browsers
+	var pageTracker = _gat._getTracker("UA-81546-2");
 
-    month = new Array(12);
-      month[0]="January"
-      month[1]="February"
-      month[2]="March"
-      month[3]="April"
-      month[4]="May"
-      month[5]="June"
-      month[6]="July"
-      month[7]="August"
-      month[8]="September"
-      month[9]="October"
-      month[10]="November"
-      month[11]="December"
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
 
-    today=new Date();
-    m0=today.getMonth();
-    d1=today.getDate();
-    y0=today.getFullYear();
 
-  // end hiding --->
-    </script> <script language="JavaScript">
-  <!--- Hide from old browsers
 
-    document.write(month[m0]," ",d1,", ",y0);
+	 
 
-  // end hiding --->
-    </script>February 19, 2020...Let us assist your weight loss.&nbsp;
-                        </font>
-        </h3>
-        <h3 align="center"><b><font color="#008080" size="4">Ronalee Wise Order Line<br>
-        </font><font color="#008080" size="5">
-        1-800-230-2189</font></b>
-        </h3>
-      </td>
-      <td width="292" height="132" valign="top" align="center">
-        <p align="center"><font color="#008080"><big><b>&nbsp;<br>
-        Privacy Policy</b></big></font>
-        </p>
-      </td>
-    </tr>
-</tbody></table>
-              <table class="text" cellspacing="0" cellpadding="0" width="792" border="0">
-                  <tbody><tr>
-                    <td valign="top" align="center" width="792" height="7"><img src="ColoredBar.gif" width="603" height="5"><br>
-                      <img src="ColoredBar.gif" width="603" height="5"><br>
-                      <img src="ColoredBar.gif" width="603" height="5"><br>
-                      <br>
-                    </td>
-                  </tr>
-            </tbody></table>
-        <table cellspacing="0" cellpadding="0" border="1" width="792" height="756" bgcolor="#E1E1FF">
-            <tbody><tr>
-              <td valign="top" align="right" width="226" height="756"><table height="723" cellspacing="0" cellpadding="5" width="224" border="0">
-                  <tbody>
-                    <tr bgcolor="#e9f0ed">
-                      <td colspan="2" width="188" height="20">
-                        <p align="center"><b><a style="color: #FF0000" href="http://loseit.safeshopper.com"><font color="#FF6600" size="4">Order
-                        Products</font></a></b></p>
-                      </td>
-                    </tr>
-                    <tr bgcolor="#e9f0ed">
-                      <td width="13" height="21">&nbsp;</td>
-                      <td width="163" height="21">
-      <img border="0" src="shoppingservices.gif" alt="Herbalife Independent Distributor Shopping" width="158" height="24"></td>
-                    </tr>
-                    <tr>
-                      <td width="13" height="21"><font size="2"><strong><img src="training/Arrow.gif" alt="Herbalife Independent Distributor Product Index" width="11" height="10"></strong></font></td>
-                      <td width="163" height="21">
-      <a href="http://loseit.safeshopper.com/115/cat115.htm?833"><font size="2"><strong>Weight Loss Programs</strong></font></a></td>
-                    </tr>
-                    <tr bgcolor="#e9f0ed">
-                      <td width="13" height="21"><font size="2"><strong><img src="training/Arrow.gif" alt="Herbalife Independent Distributor Product Index" width="11" height="10"></strong></font></td>
-                      <td width="163" height="21">
-      <a href="http://loseit.safeshopper.com/82/cat82.htm?833"><font size="2"><strong>Weight
-      Loss Products</strong></font></a></td>
-                    </tr>
-                    <tr bgcolor="#e9f0ed">
-                      <td width="13" height="21"><font size="2"><strong>&nbsp;</strong></font></td>
-                      <td width="163" height="21"><font size="2"><strong><img border="0" src="healthnutrition.gif" alt="Herbalife Independent Distributors Health Products" width="158" height="24"></strong></font></td>
-                    </tr>
-                    <tr>
-                      <td width="13" height="21"><font size="2"><strong><img src="training/Arrow.gif" alt="Herbalife Independent Distributor Health Supplements" width="11" height="10"></strong></font></td>
-                      <td width="163" height="21"><a href="http://loseit.safeshopper.com/99/cat99.htm?933"><font size="2"><strong>Healthy
-                        Women</strong></font></a></td>
-                    </tr>
-                    <tr>
-                      <td width="13" height="21"><font size="2"><strong><img src="training/Arrow.gif" alt="Herbalife Independent Distributor Health Supplements" width="11" height="10"></strong></font></td>
-                      <td width="163" height="21"><a href="http://loseit.safeshopper.com/103/cat103.htm?933"><font size="2"><strong>Healthy
-                        Men</strong></font></a></td>
-                    </tr>
-                    <tr>
-                      <td width="13" height="21"><font size="2"><strong><img src="training/Arrow.gif" alt="Herbalife Independent Distributor Health Supplements" width="11" height="10"></strong></font></td>
-                      <td width="163" height="21"><a href="http://loseit.safeshopper.com/6/cat6.htm?933"><font size="2"><strong>Herbal
-                        Cleansing</strong></font></a></td>
-                    </tr>
-                    <tr>
-                      <td width="13" height="11"><font size="2"><strong><img src="training/Arrow.gif" alt="Herbalife Independent Distributor Health Supplements" width="11" height="10"></strong></font></td>
-                      <td width="163" height="21"><a href="http://loseit.safeshopper.com/9/cat9.htm?933"><font size="2"><strong>Nutritional
-                        Insurance</strong></font></a></td>
-                    </tr>
-                    <tr>
-                      <td width="13" height="21"><font size="2"><strong><img src="training/Arrow.gif" alt="Herbalife Independent Distributor Health Supplements" width="11" height="10"></strong></font></td>
-                      <td width="163" height="21"><a href="http://loseit.safeshopper.com/8/cat8.htm?933"><font size="2"><strong>Immune
-                        Support System</strong></font></a></td>
-                    </tr>
-                    <tr>
-                      <td width="13" height="21"><font size="2"><strong><img src="training/Arrow.gif" alt="Herbalife Independent Distributor Health Supplements" width="11" height="10"></strong></font></td>
-                      <td width="163" height="21"><a href="http://loseit.safeshopper.com/122/cat122.htm?821"><font size="2"><strong>Digestive
-                        Health</strong></font></a></td>
-                    </tr>
-                    <tr>
-                      <td width="13" height="21"><font size="2"><strong><img src="training/Arrow.gif" alt="Herbalife Independent Distributor Health Supplements" width="11" height="10"></strong></font></td>
-                      <td width="163" height="21"><a href="http://loseit.safeshopper.com/7/cat7.htm?933"><font size="2"><strong>Healthy
-                        Aging</strong></font></a></td>
-                    </tr>
-                    <tr>
-                      <td width="13" height="21"><font size="2"><strong><img src="training/Arrow.gif" alt="Herbalife Independent Distributor Health Supplements" width="11" height="10"></strong></font></td>
-                      <td width="163" height="21"><a href="http://loseit.safeshopper.com/100/cat100.htm?933"><font size="2"><strong>Natural
-                        Relaxation</strong></font></a></td>
-                    </tr>
-                    <tr>
-                      <td width="13" height="10"><font size="2"><strong><img src="training/Arrow.gif" alt="Herbalife Independent Distributor Healthy Kids Products" width="11" height="10"></strong></font></td>
-                      <td width="163" height="21"><a href="http://loseit.safeshopper.com/22/cat22.htm?933"><font size="2"><strong>Healthy Kids</strong></font></a></td>
-                    </tr>
-                    <tr>
-                      <td width="13" height="10"><font size="2"><strong><img src="training/Arrow.gif" alt="Herbalife Independent Distributor Skin Care Products" width="11" height="10"></strong></font></td>
-                      <td width="163" height="21"><a href="http://loseit.safeshopper.com/14/cat14.htm?351"><font size="2"><strong>Skin Care Products</strong></font></a></td>
-                    </tr>
-                    <tr bgcolor="#e9f0ed">
-                      <td width="13" height="10"><font size="2"><strong>&nbsp;</strong></font></td>
-                      <td width="163" height="26"><font size="2"><strong><img border="0" src="customerservice.gif" alt="Herbalife Independent Distributors Customer Service" width="158" height="24">
-                        </strong></font>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td width="13" height="10"><font size="2"><strong><img src="training/Arrow.gif" alt="Herbalife Independent Distributor Weight Loss Success Stories" width="11" height="10"></strong></font></td>
-                      <td width="163" height="21">
-      <font size="2"><strong><a href="bmi_calculator2.htm">BMI Chart</a></strong></font></td>
-                    </tr>
-                    <tr>
-                      <td width="13" height="10"><font size="2"><strong><img src="training/Arrow.gif" alt="Herbalife Independent Distributor Weight Loss Success Stories" width="11" height="10"></strong></font></td>
-                      <td width="163" height="21">
-      <a href="success_stories.html"><font size="2"><strong>Success
-      Stories</strong></font>
-      </a></td>
-                    </tr>
-                    <tr>
-                      <td width="13" height="10"><font size="2"><strong><img src="training/Arrow.gif" alt="Herbalife Independent Distributor Weight Loss Success Stories" width="11" height="10"></strong></font></td>
-                      <td width="163" height="10">
-      <a href="products/fact.sheets.html"><font size="2"><strong>Product Fact Sheets</strong></font></a></td>
-                    </tr>
-                    <tr>
-                      <td width="13" height="21"><font size="2"><strong><img src="training/Arrow.gif" alt="Herbalife Independent Distributor Weight Loss Support" width="11" height="10"></strong></font></td>
-                      <td width="163" height="21"><a href="weight.loss.support/index.htm"><font size="2"><strong>Weight Loss
-                        Support</strong></font>
-                        </a></td>
-                    </tr>
-                    <tr>
-                      <td width="13" height="21"><font size="2"><strong><img src="training/Arrow.gif" alt="Herbalife Independent Distributor Weight Loss Support" width="11" height="10"></strong></font></td>
-                      <td width="163" height="21"><a href="weight_loss_free_articles.html"><font size="2"><strong>Weight Loss
-                        Articles</strong></font></a></td>
-                    </tr>
-                    <tr>
-                      <td width="13" height="21"><font size="2"><strong><img src="training/Arrow.gif" alt="Herbalife Independent Distributor Customer Guarantee" width="11" height="10"></strong></font></td>
-                      <td width="163" height="21"><a href="customer_guarantee.html">
-      <font size="2">
-      <strong>
-      Customer Guarantee</strong></font>
-                        </a></td>
-                    </tr>
-                    <tr>
-                      <td width="13" height="21" valign="top"><font size="2"><strong><img src="training/Arrow.gif" alt="Herbalife Independent Distributor Privacy Statement" width="11" height="10"></strong></font></td>
-                      <td width="163" height="21" valign="top"><a href="privacy_policy.html"><font size="2"><strong>Privacy Statement</strong></font></a></td>
-                    </tr>
-                    <tr>
-                      <td width="13" height="21" valign="top"><font size="2"><strong><img src="training/Arrow.gif" alt="Herbalife Independent Distributor Privacy Statement" width="11" height="10"></strong></font></td>
-                      <td width="163" height="21" valign="top"><font size="2"><a href="contact.us.htm"><strong>Contact
-                        Us</strong></a></font></td>
-                    </tr>
-                    <tr>
-                      <td width="13" height="1" valign="top"><font size="2"><strong><img src="training/Arrow.gif" alt="Herbalife Independent Distributor Privacy Statement" width="11" height="10"></strong></font></td>
-                      <td width="163" height="1" valign="top"><font size="2"><a href="guarantee.refund.htm"><strong>Refund
-                        Policy</strong></a></font></td>
-                    </tr>
-                    <tr>
-                      <td width="13" height="1" valign="top"><font size="2"><strong><img src="training/Arrow.gif" alt="Herbalife Independent Distributor Purchase Wholesale" width="11" height="10"></strong></font></td>
-                      <td height="1" width="163" valign="top"><a class="BoldLinks" target="_parent" href="c.wholesale.html"><font size="2"><strong>Wholesale
-                        Prices</strong></font></a></td>
-                    </tr>
-                  </tbody>
-                </table>
-              </td>
-              <td valign="top" align="right" width="403" height="756">
-                <h2 align="center"><font color="#669999"><br>
-                </font></h2>
-                <p align="center"><font color="#008080"><big>Herbalife
-                Independent Distributor&nbsp;<br>
-                Privacy Policy</big></font></p>
-                <p align="left">As an Herbalife Independent Distributor I value
-                every customer and want your online experience to be the best.
-                To insure integrity I will only use any customer information
-                collected by for identification and contact purposes and or for
-                demographic information to be used by our staff.<br>
-                <br>
-                This information will be used to help ensure that its services
-                are best designed to meet its customers' changing needs.
-                Regarding e-mail, I do not send unsolicited or "spam"
-                e-mail. I use e-mail addresses collected for a number of e-mail
-                alerts and newsletters which are used to communicate new
-                information, special offers and new products to our customers.
-                All customers are given the opportunity to unsubscribe at any
-                time. I do not sell or rent e-mail lists to third parties. It is
-                against my policy to provide any customer information to any
-                third party without the customer's prior permission.<br>
-                <br>
-                If you need any help or have a question please contact us at <a href="mailto:info@loseit.com"><b>ronnie@loseit.com</b></a>
-              </p></td>
-              <td valign="top" align="left" width="231" height="756"><!-- include lite bite table here -->
-                <table cellspacing="0" width="216" border="0" height="419" cellpadding="0">
-                  <tbody>
-                    <tr>
-                                      <td height="1" valign="top" width="364">
-                                          <p align="left"><img border="0" src="joyce_home2small.jpg" align="left" width="56" height="66"><b><font face="Verdana" size="2"><a href="http://www.joycemeyer.org">Joyce
-                                          Meyer<br>
-                                          Ministries&nbsp;</a></font></b><font face="arial" size="2">
-                                          When
-                                          you invest time each day in your relationship with the
-                                          Father, you will
-                                          see great results.&nbsp; </font><a href="http://www.joycemeyer.org/cgi-bin/msc.cgi?pagegroup=dailyword&quot;"><b>Get
-                                          Today's</b></a><font face="arial" size="2">
-                                          <a href="http://www.joycemeyer.org/cgi-bin/msc.cgi?pagegroup=dailyword">
-                                        <!-- END WEEKLY WISDOM CODE FROM ChristNotes.org -->
-                                          </a></font>
-                    </p></td></tr>
-                    <tr>
-                                <td valign="top" align="left" width="364" height="133"><img src="ani-flag.gif" border="0" align="left" width="75" height="75"><b><i><font size="2" color="#008080">Loseit.com</font><font color="#006699" size="2">
-                          </font></i></b><font size="2">fully supports the
-                          United States Military &amp; its endless effort to
-                          ensure&nbsp; freedom&nbsp;for all nations.</font> <font size="2">Our
-                          store accepts APO &amp; FPO information for the city
-                          &amp; state fields.&nbsp; All military orders are
-                          shipped via the US Post Office.&nbsp; There is no need
-                          for you to change the shipping method as we will
-                          automatically adjust it for you.&nbsp; Shipping
-                          charges will be deducted from your order total prior
-                          to charging your credit card.</font> <font size="2">Please
-                          feel confident to make your secure purchases online!&nbsp;&nbsp;</font><font size="2" color="#008080"><a style="TEXT-DECORATION: none" target="_blank" href="http://loseit.safeshopper.com"><b><i>Shop
-                          Now!</i></b></a></font>
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>              </td>
-            </tr>
-        </tbody></table></td></tr></tbody></table></body></html>
+
+<iframe src="javascript:''" id="connect" tabindex="-1" style="position: absolute; width: 0px; height: 0px; border: none;"></iframe></body></html>
