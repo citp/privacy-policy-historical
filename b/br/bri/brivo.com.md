@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brivo.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227035139id_/http%3A//www.brivo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brivo.com privacy policy that was archived on 2010-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100128154847id_/http%3A//www.brivo.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Security Policy
 
