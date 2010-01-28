@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thredup.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129021113id_/http%3A//thredup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thredup.com privacy policy that was archived on 2010-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100128204023id_/http%3A//www.thredup.com/privacy) for the most accurate reproduction.*
 
 # thredUP Privacy Policy
 
