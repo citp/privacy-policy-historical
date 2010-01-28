@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emedco.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116080750id_/http%3A//www.emedco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emedco.com privacy policy that was archived on 2010-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100128060503id_/http%3A//www.emedco.com/privacy-policy) for the most accurate reproduction.*
 
-# Emedco.com - Privacy Policy
+# Privacy Policy - Emedco.com
 
 **What information do we collect?**
 
