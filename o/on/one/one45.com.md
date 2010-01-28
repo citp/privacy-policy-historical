@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the one45.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422002809id_/http%3A//one45.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the one45.com privacy policy that was archived on 2010-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100128224708id_/http%3A//www.one45.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Healthcare Education Administration Software - one45
 
