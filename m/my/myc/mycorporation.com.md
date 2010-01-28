@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mycorporation.com privacy policy that was archived on 2009-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090212140802id_/http%3A//mycorporation.intuit.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycorporation.com privacy policy that was archived on 2010-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100128062703id_/http%3A//www.mycorporation.com/privacy.jsp) for the most accurate reproduction.*
 
-# None
+# Privacy | MyCorporation.com
 
 At Intuit, we place the highest importance on respecting and protecting the privacy of our customers. Our most important asset is our relationship with you. We want you to feel comfortable and confident when using our Web site. Therefore, we would like to share with you the following principles that govern our information practices and other privacy aspects of our Web site. This privacy statement defines privacy aspects specific to MyCorporation.com, an Intuit Company. Throughout this policy, we refer to information that personally identifies you as "personal information."
 
 #### We protect your information
 
-We work to protect your personal information from loss, misuse or unauthorized alteration by using industry-recognized security safeguards. We use both internal and external resources to review our security procedures. Our employees are trained and required to safeguard your information. [Tell me more](http://mycorporation.intuit.com/privacy.jsp?view=protect_privacy)
+We work to protect your personal information from loss, misuse or unauthorized alteration by using industry-recognized security safeguards. We use both internal and external resources to review our security procedures. Our employees are trained and required to safeguard your information. [Tell me more](https://web.archive.org/privacy.jsp?view=protect_privacy)
 
 #### We tell you how we use your information
 
@@ -17,15 +17,15 @@ When we ask you for information, we will tell you, or it will be clear, what we 
 
 
 
-For information relating to services on this site, [click here](http://mycorporation.intuit.com/privacy.jsp?view=privacy_services). 
+For information relating to services on this site, [click here](https://web.archive.org/privacy.jsp?view=privacy_services).
 
 #### We tell you about our relationships with third parties
 
-We have limited relationships with third parties to assist us in servicing you, for example, by fulfilling customer orders or providing customer service. These service providers are contractually required to maintain the confidentiality of the information we provide them. Additionally, we have business partners that provide services, some of which are co-branded. We clearly identify partner services and sites. When you request any of these products or services, you are permitting us to provide your personal information to the partner to fulfill your dynamoRequest. We may disclose your information if we are required to by a law enforcement action such as a court order, subpoena or search warrant. [Tell me more](http://mycorporation.intuit.com/privacy.jsp?view=third_parties)
+We have limited relationships with third parties to assist us in servicing you, for example, by fulfilling customer orders or providing customer service. These service providers are contractually required to maintain the confidentiality of the information we provide them. Additionally, we have business partners that provide services, some of which are co-branded. We clearly identify partner services and sites. When you request any of these products or services, you are permitting us to provide your personal information to the partner to fulfill your dynamoRequest. We may disclose your information if we are required to by a law enforcement action such as a court order, subpoena or search warrant. [Tell me more](https://web.archive.org/privacy.jsp?view=third_parties)
 
 #### We tell you how we use Web technology
 
-Like many Web sites, we use technology, such as cookies, that allow us to make your visit to our Web site easier by recognizing you when you return and help to provide you with a customized experience. [Tell me more](http://mycorporation.intuit.com/privacy.jsp?view=web_technologies)
+Like many Web sites, we use technology, such as cookies, that allow us to make your visit to our Web site easier by recognizing you when you return and help to provide you with a customized experience. [Tell me more](https://web.archive.org/privacy.jsp?view=web_technologies)
 
 #### We give you choice and control
 
