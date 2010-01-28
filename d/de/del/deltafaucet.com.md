@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deltafaucet.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226213500id_/http%3A//www.deltafaucet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltafaucet.com privacy policy that was archived on 2010-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100128023339id_/http%3A//www.deltafaucet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Delta Faucet
 
