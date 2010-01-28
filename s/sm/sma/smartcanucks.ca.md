@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the smartcanucks.ca privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207202223id_/http%3A//forum.smartcanucks.ca/cashback_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcanucks.ca privacy policy that was archived on 2010-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100128061534id_/http%3A//smartcanucks.ca/privacy.php) for the most accurate reproduction.*
 
-# Cash Back Rebates Canada - Great Canadian Rebates
+# Privacy Policy - SmartCanucks - Canadian Freebies, Shopping Deals, Coupons, Contests & Free Stuff Canada
 
 ## Smart Canucks Inc. Privacy Policy
 
-  
 For each unregistered/non-member visitor to our Web page, our Web server automatically recognizes no information regarding the domain or their e-mail address.
 
 We collect the e-mail addresses of those who communicate with us via e-mail storing information volunteered by members, such as survey information and site registrations.
@@ -23,10 +22,11 @@ Upon request we provide site visitors with access to all information [including 
 
 Members can access this information by emailing or mailing us.
 
-If you feel that this site is not following its stated information policy, you may contact us at the following addresses: 
+If you feel that this site is not following its stated information policy, you may contact us at the following addresses:
 
-Smart Canucks Inc.  
+**Smart Canucks Inc.  
 Box 291  
 Kingston, Ontario  
 K7L 4V8  
-Canada
+Canada  
+**
