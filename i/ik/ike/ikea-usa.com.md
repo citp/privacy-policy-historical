@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ikea-usa.com privacy policy that was archived on 2009-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090928053140id_/http%3A//www.ikea.com/us/en/privacy_policy_new.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikea-usa.com privacy policy that was archived on 2010-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100129000004id_/http%3A//www.ikea.com/us/en/privacy_policy_new.html) for the most accurate reproduction.*
 
 # IKEA | Privacy Policy
 
