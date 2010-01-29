@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cambridgebusinessacademy.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231054321id_/http%3A//www.cambridgebusinessacademy.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambridgebusinessacademy.com privacy policy that was archived on 2010-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100129174609id_/http%3A//www.cambridgebusinessacademy.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
