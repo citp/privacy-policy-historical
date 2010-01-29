@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1000waystocheat.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619202528id_/http%3A//1000waystocheat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000waystocheat.com privacy policy that was archived on 2010-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100129213010id_/http%3A//1000waystocheat.com/privacy.html) for the most accurate reproduction.*
 
 # 1,000 Ways to Cheat - Privacy Policy
 
