@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the qj.net privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615044515id_/http%3A//www.qj.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qj.net privacy policy that was archived on 2010-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100129051510id_/http%3A//www.qj.net/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - PC Gaming, PlayStation, Wii, Nintendo DS, Xbox 360, News, Reviews, Downloads, Custom Apps, Homebrew and much more.
+# Privacy Policy - QJ.Net
 
 PRIVACY POLICY 
 
-Content Holdings, LLC, hereafter the Company, agrees not to disclose to anyone the terms, conditions, subject matter, or identity of the parties involved in any paid transaction to any other party unless required to do so by law. The Company collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. The Company also collects anonymous demographic information that is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites. 
+QJ.NET, hereafter the Company, agrees not to disclose to anyone the terms, conditions, subject matter, or identity of the parties involved in any paid transaction to any other party unless required to do so by law. The Company collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. The Company also collects anonymous demographic information that is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites. 
 
 Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through the Company's Chats, Communities, or other public online forums, this information may be collected and used by others. The Company encourages you to review the privacy statements of websites you choose to link to from the Company so that you can understand how those websites collect, use and share your information. The Company is not responsible for the privacy statements or other content on websites outside of the Company's websites. 
 
@@ -14,6 +14,10 @@ The Company's websites use your personal information to operate and deliver the 
 
 The Company does not sell, rent or lease its client lists to third parties. The Company may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, the Company may share data with trusted partners to help us perform statistical analysis. All such third parties are prohibited from using your personal information except to provide these services to the Company, and they are required to maintain the confidentiality of your information. 
 
-The Company keeps track of the websites and pages our client's visit, in order to determine what websites and services are the most popular. This data is used to deliver customized content and advertising to clients whose behavior indicates that they are interested in a particular subject area. 
+The Company keeps track of the websites and pages our client's visit, in order to determine what websites and services are the most popular. This data is used to deliver customized content and advertising to clients whose behavior indicates that they are interested in a particular subject area. The Company uses third-party advertising companies to serve ads when you visit our website(s). These companies may use non-personal information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. We do 
 
-The Company's websites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on the Company or the website; (b) protect and defend the rights or property of Content Holdings, LLC , but not limited to this Company's websites; and, (c) act under exigent circumstances to protect the personal safety of users of the Company, its websites, or the public.
+_NOT_
+
+share or distribute personal information such as your name, address, email address, or telephone number. If you wish to opt-out of this demographic collecting, [click here](http://www.echosearchmedia.com/opt-out.html). 
+
+The Company's websites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on the Company or the website; (b) protect and defend the rights or property of QJ.NET, but not limited to this Company's websites; and, (c) act under exigent circumstances to protect the personal safety of users of the Company, its websites, or the public. 
