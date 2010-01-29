@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elliotsblog.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207084842id_/http%3A//www.elliotsblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elliotsblog.com privacy policy that was archived on 2010-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100129063343id_/http%3A//www.elliotsblog.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Elliot's Blog
 
