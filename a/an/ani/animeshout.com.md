@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the animeshout.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616174925id_/http%3A//www.animeshout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeshout.com privacy policy that was archived on 2010-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100129032910id_/http%3A//www.animeshout.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy »
-
-[ ](http://www.animeshout.com/privacy-policy "Permanent Link to Privacy Policy")
+# Privacy Policy .
 
 AnimeShout understands the importance of privacy and respects each and every visitor’s rights, that’s why this privacy policy was adapted. This Privacy Policy lets you know how your personal information is processed and used.
 
@@ -18,11 +16,15 @@ Additionally, every once in a while we question reader’s on our front page via
 
 ANIMESHOUT.COM does not require its visitors to register to view content. Registration on ANIMESHOUT.COM is used for visitors to post their thoughts and opinions on selected content. These comments are moderated for the safety of the visitors of this site. Registration is free, and the only contact information collected is the users e-mail address to send notification of the services of ANIMESHOUT.COM by e-mail. No personal information is collected.
 
+Registration on the Forums will lead to us having only personal information that you have entered. ANIMESHOUT.COM will NOT use this information in anyway or sell onto third parties for profit, We collect this information to ensure that users are getting the best out of our forums.
+
 **Third Parties:**
 
 Third Party websites may collect information from users of ANIMESHOUT.COM. This information will include your IP address, hostname, and information about your system to help serve you better. These are purely used for statistical reasons, unless required by law.
 
 ANIMESHOUT.COM uses reasonable precautions to keep the information disclosed to us secure. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. We are not responsible for such third party privacy policies or how they treat information about their users.
+
+ANIMESHOUT.COM’s Live help feature is strictly confidental unless under circumstances where either: i) You request the chat to be saved. ii) You will be passed onto a different admin/support staff member And iii) If what you are telling us is illegal activity and we will have to pass your details onto the local authorities.
 
 Website Policy Changes:
 
