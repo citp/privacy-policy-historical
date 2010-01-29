@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the collegebookrenter.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215195920id_/http%3A//www.collegebookrenter.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegebookrenter.com privacy policy that was archived on 2010-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100129061030id_/http%3A//www.collegebookrenter.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Rent college textbooks instead of buying books help save the environment.
 
-[](http://www.collegebookrenter.com/)
+[ ](http://www.collegebookrenter.com/)
 
-  
-Enter multiple textbook ISBNs separated by commas
+Enter multiple textbook ISBNs separated by commas 
 
 ### CollegeBookRenter.com Privacy Policy
 
