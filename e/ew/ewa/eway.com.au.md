@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eway.com.au privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128161526id_/http%3A//www.eway.com.au/about/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eway.com.au privacy policy that was archived on 2010-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100129094116id_/http%3A//www.eway.com.au/about/company/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | eWAY Internet Payment Gateway
 
@@ -6,7 +6,7 @@ eWAY regards customer privacy as an important part of our relationship with our 
 
 [ ](http://www.truste.org/ivalidate.php?url=www.eway.com.au&sealid=101)
 
-**Last Updated:** 23rd February 2007 
+**Last Updated:** 18th January 2010 
 
 eWAY is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organisation whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.eway.com.au](http://www.eway.com.au/) Because this Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
@@ -54,7 +54,7 @@ If you purchase a product or service from us, we request certain personally iden
 
 We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
 
-eWAY uses personally identifiable information for essential communications, such as confirmation Emails, accounts information, and critical service details. We may also use this information for other purposes, including some promotional Emails.  If at any time a customer wishes not to recevice such correspondence, they can request to be removed from any mailing lists by emailing us at [support@eway.com.au](mailto:support@eway.com.au "eWAY Support") 
+eWAY uses personally identifiable information for essential communications, such as confirmation Emails, accounts information, and critical service details. We may also use this information for other purposes, including some promotional Emails.  If at any time a customer wishes not to receive such correspondence, they can request to be removed from any mailing lists by emailing us at [support@eway.com.au](mailto:support@eway.com.au "eWAY Support") 
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
@@ -63,6 +63,10 @@ We use other third parties to provide the essential links between the merchants,
 These third parties are prohibited from using your personally identifiable information for any other purpose. 
 
 eWAY does not share any information with third parties for any unknown or unrelated uses.
+
+Our third party advertising partner, Google Adwords, employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. 
+
+To learn more about our advertising company's use of clear gifs, please go to [https://adwords.google.com](https://adwords.google.com/ "Google Adwords")
 
 eWAY is a member of clixGalore, an affiliate program run by a third party on behalf of eWAY.  Affiliates that join this program receive monetary compensation for any new eWAY merchants that they refer.  Any information collected by these affiliates or clixGalore is outside the scope of this privacy policy.  Please refer to [clixGalore](http://www.clixgalore.com/privacy.asp "ClixGalore") for more information regarding their own privacy policy.
 
