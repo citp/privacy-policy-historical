@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usacarry.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628010757id_/http%3A//www.usacarry.com/info_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usacarry.com privacy policy that was archived on 2010-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100129115655id_/http%3A//www.usacarry.com/info_privacy.html) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
@@ -60,8 +60,8 @@ It is completely up to the user of the site to verify any and all information fo
 
 | 
 
-**679** _times visited._  
+**1179** _times visited._  
   
 ---|---  
   
-All times are GMT -4. The time now is 09:07 PM.
+All times are GMT -4. The time now is 07:56 AM.
