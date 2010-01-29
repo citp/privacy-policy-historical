@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricketworld4u.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229140240id_/http%3A//www.cricketworld4u.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketworld4u.com privacy policy that was archived on 2010-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100129143545id_/http%3A//www.cricketworld4u.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - CricketWorld4U.com
 
