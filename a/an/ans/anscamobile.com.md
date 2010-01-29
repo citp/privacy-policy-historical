@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anscamobile.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212235556id_/http%3A//www.anscamobile.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anscamobile.com privacy policy that was archived on 2010-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100129032941id_/http%3A//www.anscamobile.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Ansca | Unlock your imagination...
 
@@ -87,7 +87,7 @@ Ansca’s website has links to the sites of other companies. Ansca is not respon
 Ansca may update its privacy policy from time to time. When we change the policy in a material way a notice will be posted on our website along with the updated privacy policy. 
 
   
-Copyright © 2009 Ansca Inc. All rights reserved.   
-Ansca Inc., 1025 Park Place, San Mateo, CA 94403, USA. 
+Copyright © 2009-2010 Ansca Inc. All rights reserved.   
+Ansca Inc., 720 University Avenue, Suite #105, Palo Alto, CA, 94301. 
 
-Last updated June 23, 2009 
+Last updated January 11th, 2010 
