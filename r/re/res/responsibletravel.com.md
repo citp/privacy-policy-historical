@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsibletravel.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227003544id_/http%3A//www.responsibletravel.com/copy/copy100068.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsibletravel.com privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130102333id_/http%3A//www.responsibletravel.com/copy/copy100068.htm) for the most accurate reproduction.*
 
 # world's best responsible/ecotourism holidays
 
