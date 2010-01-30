@@ -1,19 +1,27 @@
-> *The following text is extracted and transformed from the yoursuccessstore.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011120305id_/http%3A//yoursuccessstore.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoursuccessstore.com privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130202647id_/http%3A//www.yoursuccessstore.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Your Success Store: Empowerment & Motivational Training
+# Security Statement : Your Success Store - Motivational Quotes - Inspirational Quotes - Personal Development and More
 
-  
-For each visit to our Web site, our Web server automatically recognizes only the visitor's IP address, but not the e-mail address, unless the visitor volunteers their e-mail address to us by filling out a Web form. 
+### Security and Privacy Statement
 
-We electronically collect the e-mail addresses of those who post messages to our discussion forums, of those who complete online web forms, of those who communicate with us via e-mail, of those who make postings to our chat areas.
+Our policy is intended to provide you with the safest and most secure shopping experience possible.
 
-We aggregate information on what pages and other resources users access or visit, as well as user-specific information on what pages users access or visit, and information volunteered by the user, such as survey information, web form content and/or site registrations.
+Privacy Policy
 
-The information we collect is used to improve the content of our Web site, used to notify users about updates to our Web site and used by us to contact user for marketing purposes target to users' specific needs.
+Your Success Store - Motivational Quotes - Inspirational Quotes - Personal Development and More does not collect or retain any personal information (that is, your name, address, telephone number, or e-mail address) except for explicit use to conduct transactions at this e-commerce site. We will never distribute your contact information to any third party for any reason.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending email to us at the above address or writing to us at the above address and telling us that you do not want to receive e-mail from our company. We will then, to the best of our abilities, remove your e-mail address from our databases and Web site. This also includes removal from YourSuccessStore.com Achievement eZine E-zine.
+Cookies
 
-We do not share or rent our email or mailing list information with other companies or marketers.
+Our website may send information in the form of a "cookie" or similar file that is automatically downloaded to your computer. Please be assured that cookies are safe. Cookies are not programs that can be used to damage files, and personal information cannot be gathered from them. Our cookies enable us to provide features such as storing items in your shopping cart between visits. If you do not want cookies sent to or stored on your system, most Internet browsers will allow you to erase cookies from your computer hard drive, prevent them from being stored, or trigger a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending email to us at the above address or writing to us at the above address.  
+Security Precautions
 
+All information sent through this site is encrypted.
+
+We are aware that you may be concerned about the privacy and confidentiality of your personal information including credit card and billing address information. Therefore, we have taken precautions to ensure the security and safety of this information. All transactions use Secure Sockets Layer (SSL) technology. SSL automatically encrypts data before it is sent over the Internet. You should also know that we do not store your credit card or ordering information on our Internet server.
+
+No data transmission over the Internet will be 100% secure. While we take steps to protect your personal information, we cannot guarantee the security of any information you transmit to us and you do so at your own risk. Upon receiving your transmission, we make commercially reasonable efforts to ensure its security on our systems. However, you are ultimately responsible for maintaining the secrecy of your username, passwords and/or any account information.
+
+Acceptance of these terms
+
+By using this website, you agree to this Security and Privacy Statement. If you do not agree to this policy, please do not use the Your Success Store - Motivational Quotes - Inspirational Quotes - Personal Development and More website. We reserve the right to change this policy at any time. Your continued use of the Your Success Store - Motivational Quotes - Inspirational Quotes - Personal Development and More website following the posting of changes to our Privacy Policy will signify your acceptance of those changes.
