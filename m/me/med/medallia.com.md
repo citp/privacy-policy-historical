@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228180100id_/http%3A//medallia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130091342id_/http%3A//www.medallia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Medallia
 
