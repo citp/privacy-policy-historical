@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the threadbanger.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623181946id_/http%3A//www.threadbanger.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threadbanger.com privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130191955id_/http%3A//www.threadbanger.com/privacy_policy) for the most accurate reproduction.*
 
 # ThreadBanger - D.I.Y Fashion & Style
 
