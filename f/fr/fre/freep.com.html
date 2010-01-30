@@ -1,8 +1,10 @@
-<!--The following is the downloaded HTML source of the freep.com privacy policy that was archived on 2009-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091204150026id_/http%3A//www.freep.com/section/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freep.com privacy policy that was archived on 2010-01-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100130204749id_/http%3A//www.freep.com/section/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
-<!-- GO4F Version: 0912.1574 -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><!-- 
+
+--><head>
+<!-- GO4F Version: 1001.1629 -->
 							<title>freep.com | PRIVACY | Detroit Free Press</title>
 <meta name="keywords" content="freep.com,Detroit,MI,News,local news,headlines,stories,world news">
 <meta name="description" content="Detroit MI News - freep.com is the home page of Detroit MI with in depth and updated Detroit local news. Stay informed with both Detroit MI news as well as headlines and stories from around the world.">
@@ -48,19 +50,40 @@ GEL.thepage.pageinfo = {
 		name: "Detroit Free Press", 
 		state: "MI",
 		city: "Detroit"
+	},
+	comscore: { 
+		comscoreenable: "on",
+		c1: "2", 
+		c2: "6035223"
 	}
 };
 GEL.thepage.pageinfo.siteinstance="";
  /* Banner configuration and Initialization */
  (function(){
 var 
-	_c= GEL.config
+	_c= GEL.config,
+        _keywords= ''+'&'+location.search.substring(1),
+        _a= _keywords.split("&")
 ; 
 _c.AdPage='PRIVACYsection';
 _c.AdServer= "gannett.gcion.com"; 
 _c.AdNetworkId= 5111.1;
 _c.PlacementId=parseInt(896029, 10)
-_c.KeyWords= ''+'&'+location.search.substring(1);
+_c.KeyValues= { };
+_c.KeyWords= [];
+for( var i=0,l=_a.length,w=_a[i]; i<l; w= _a[++i] )
+{
+        if(!w) continue;
+        var
+                _t= w.split("="),
+                n= encodeURIComponent(_t[0]),
+                v= _t[1]
+        ;
+        if(v)   
+                _c.KeyValues['kv'+n]=  encodeURIComponent(v);
+        else
+                _c.KeyWords.push(n);
+}
 _c.gcion_section_front = "section"; 
 _c.gdn_section_front = "section"; 
 _c.PDurl = 'search.freep.com'; /*PDURL*/
@@ -85,7 +108,6 @@ function bannerFinder(){
 			false
 		);
 	_bm.on("ready", _t.getStop()); 
-	//_bm.attach(); 
 	this.addElement(_bm); 
 }
 })(); 
@@ -128,7 +150,7 @@ var _c= GEL.config.userauth={
 	persona_url: "/apps/pbcs.dll/section?category=pluckpersona", 
 	blogs_url: "/apps/pbcs.dll/section?category=pluckpersona&plckPersonaPage=PersonaBlog", 
 	photos_url: "/apps/pbcs.dll/section?category=pluckpersona&plckPersonaPage=PersonaPhotos", 
-	version: "3.4.1",
+	version: "3.4",
 	coppaage: 13, 
 	pp_url: "/pp", 
 	tos_url: "/tos", 
@@ -224,18 +246,22 @@ GEL.thepage.initializer.addInitRoutine({
 	GEL.namespace('config.omniture', 'config.bus.properties', 'config.bus.providers');
 	GEL.config.bus.providers.sitecat= 100; 
 	GEL.config.bus.providers.bt= 200;
-/* If this is a frontpage (section or home) we add the checkmate provider */
+/* If this is a frontpage (section Front or home) we add the checkmate provider:*/
 (function(){ 
-	var _CFG= GEL.namespace("config.checkmate"); 
+	var _CFG= GEL.namespace("config.comscore"); 
 	_CFG.domain= "" || (function(){ 
 		var _a= window.location.host.split("."); 
 		return _a[_a.length - 2];
 	})(); 
-	_CFG.server= "q1.checkm8.com"; 
-	_CFG.scriptlib= "http://q1digital.checkm8.com/adam/cm8adam_1_call.js"; 
+	_CFG.comscoreenable= "on";
+	_CFG.server= "b.scorecardresearch.com";
+	_CFG.scriptlib= "http://b.scorecardresearch.com/beacon.js";
+	_CFG.accountid= 6035223;
+	_CFG.c1= 2;
+	_CFG.c4= GEL.namespace("thepage.pageinfo").articleinturl || '';
 	_CFG.profile= ""; 
-	GEL.config.bus.providers.checkm8= 200;
-})(); 
+	GEL.config.bus.providers.comscore= 100;
+})();
 /* This is the SiteCatalyst specific configuration  */
 	GEL.config.omniture= {
 		account: 'gpaper204,gntbcstglobal',
@@ -308,7 +334,7 @@ GEL.thepage.initializer.addInitRoutine({
 	<div id="pencil-ad-wrapper">
 		<div id="launchpad">
 	<div class="ad_launchpad">
-<div id="adcontainer___gelement_adbanner_0"><div id="__gelement_1" class=" gel-hidden"><script id="__gelement_2" src="https://gannett.gcion.com/addyn/3.0/5111.1/896029/0/0/ADTECH;alias=PRIVACYsection_launchpad;cookie=info;loc=100;target=_blank;grp=14510;misc=1580438401886;size=0;noperf=1;key=PRIVACY;kvtitle=PRIVACY"></script>
+<div id="adcontainer___gelement_adbanner_0"><div id="__gelement_1" class=" gel-hidden"><script id="__gelement_2" src="https://gannett.gcion.com/addyn/3.0/5111.1/896029/0/0/ADTECH;alias=PRIVACYsection_launchpad;cookie=info;loc=100;target=_blank;grp=57999;misc=1580438404775;size=0;noperf=1;key=PRIVACY;kvtitle=PRIVACY"></script>
 </div>
 </div><banner position="launchpad" id="__gelement_adbanner_0"></banner>
 </div>
@@ -460,7 +486,7 @@ GEL.thepage.initializer.addInitRoutine({
 				<li><a href="/chrysler">Chrysler</a></li>
 				<li><a href="/automakers">Other automakers</a></li>
 				<li><a href="/autosuppliers">Suppliers</a></li>
-				<li><a href="/detroitautoshow">Detroit Auto Show</a></li>
+				<li><a href="/detroit-auto-show">Detroit Auto Show</a></li>
 				<li><a href="/carandtruckreviews">Reviews</a></li>
 				<li><a href="/markphelan">Mark Phelan</a></li>
 			</ul>
@@ -646,36 +672,34 @@ GEL.thepage.initializer.addInitRoutine({
 					<div id="footer-wrapper">
 <div id="bottom-promo">
 	<div id="bottom-promo-item">
-		<a href="/article/20091202/NEWS01/912020382/1319/Stinger-I-was-conned-and-abused"><img src="http://cmsimg.freep.com/apps/pbcsi.dll/bilde?Avis=C4&amp;Dato=20091202&amp;Kategori=MISC03&amp;Lopenr=91202024&amp;Ref=AR&amp;MaxW=175&amp;MaxH=131&amp;q=50" border="0" alt="Former Fox 2 morning anchor Fanchon Stinger was terminated from her on-air TV job when it was reported that she became romantically and financially involved with Detroit businessman and Synagro representative Rayford Jackson. As Jackson heads to jail soon, Stinger is trying to get her life back on track.
-Photographed on Tuesday December 1, 2009.   (Eric Seals/Detroit Free Press)" title="Former Fox 2 morning anchor Fanchon Stinger was terminated from her on-air TV job when it was reported that she became romantically and financially involved with Detroit businessman and Synagro representative Rayford Jackson. As Jackson heads to jail soon, Stinger is trying to get her life back on track.
-Photographed on Tuesday December 1, 2009.   (Eric Seals/Detroit Free Press)"></a>
-		<h4>WITH VIDEO</h4>
-		<h2><a href="/article/20091202/NEWS01/912020382/1319/Stinger-I-was-conned-and-abused">Fanchon Stinger: I was conned, abused</a></h2>
-		<p>The former anchorwoman speaks out to the Free Press after losing her job last year.</p>	
+		<a href="/article/20100129/BUSINESS06/301290013/1019/Business06/Nominate-someone"><img src="http://cmsimg.freep.com/apps/pbcsi.dll/bilde?Avis=C4&amp;Dato=20100129&amp;Kategori=MISC03&amp;Lopenr=301290012&amp;Ref=AR&amp;MaxW=175&amp;MaxH=131&amp;q=50" border="0" alt="An energy efficient light bulb   (Mary Schroeder/DFP)" title="An energy efficient light bulb   (Mary Schroeder/DFP)"></a>
+		<h4>EARTH DAY AT 40</h4>
+		<h2><a href="/article/20100129/BUSINESS06/301290013/1019/Business06/Nominate-someone">Nominate a leader of green responsibility</a></h2>
+		<p>The Free Press will honor Michigan's Green Leaders. Send in your nominations.</p>	
 	</div>
 	<div id="bottom-promo-item">
-		<a href="/article/20091129/BUSINESS04/911290413/1002/business/Grand-Cobo-ideas-not-so-far-fetched"><img src="http://cmsimg.freep.com/apps/pbcsi.dll/bilde?Avis=C4&amp;Dato=20091129&amp;Kategori=MISC03&amp;Lopenr=91129005&amp;Ref=AR&amp;MaxW=175&amp;MaxH=131&amp;q=50" border="0" alt="  " title="  "></a>
-		<h4>MAKEOVER FOR COBO</h4>
-		<h2><a href="/article/20091129/BUSINESS04/911290413/1002/business/Grand-Cobo-ideas-not-so-far-fetched">Grand ideas for Cobo not so far-fetched</a></h2>
-		<p>If Cobo was designed today from scratch, what would it look like? Take a look.</p>	
+		<a href="/article/20100122/MISC03/100122049/Reading-Corps-needs-your-help-in-Detroit"><img src="http://cmsimg.freep.com/apps/pbcsi.dll/bilde?Avis=C4&amp;Dato=20100122&amp;Kategori=MISC03&amp;Lopenr=100122049&amp;Ref=AR&amp;MaxW=175&amp;MaxH=131&amp;q=50" border="0" alt="Second Grade Fisher Lower Glee Club member Randi Martin, 7, sings during a rally and orientation by Detroit Public Schools for over 2,000 volunteers to the DPS Reading Corps at Renaissance High School in Detroit on Saturday, Jan. 23, 2010.   (ROMAIN BLANQUART\Detroit Free Press)" title="Second Grade Fisher Lower Glee Club member Randi Martin, 7, sings during a rally and orientation by Detroit Public Schools for over 2,000 volunteers to the DPS Reading Corps at Renaissance High School in Detroit on Saturday, Jan. 23, 2010.   (ROMAIN BLANQUART\Detroit Free Press)"></a>
+		<h4> A CALL TO ACTION</h4>
+		<h2><a href="/article/20100122/MISC03/100122049/Reading-Corps-needs-your-help-in-Detroit">Reading Corps needs your help in Detroit</a></h2>
+		<p>Many readers have already volunteered to mentor kids. Here's how you can join in.</p>	
 	</div>
 	<div id="bottom-promo-item">
-		<a href="http://detroit.momslikeme.com/members/PollActions.aspx?g=1133514&amp;m=8859611&amp;source=stream_rail"><img src="http://cmsimg.freep.com/apps/pbcsi.dll/bilde?Avis=C4&amp;Dato=20091203&amp;Kategori=MOMS&amp;Lopenr=91203064&amp;Ref=AR&amp;MaxW=175&amp;MaxH=131&amp;q=50" border="0" alt="  " title="  "></a>
+		<a href="http://detroit.momslikeme.com/members/JournalActions.aspx?g=1474343&amp;m=9848168&amp;grpcat="><img src="http://cmsimg.freep.com/apps/pbcsi.dll/bilde?Avis=C4&amp;Dato=20100129&amp;Kategori=MOMS&amp;Lopenr=100128049&amp;Ref=AR&amp;MaxW=175&amp;MaxH=131&amp;q=50" border="0" alt="  " title="  "></a>
 		<h4>MomsLikeMe.com</h4>
-		<h2><a href="http://detroit.momslikeme.com/members/PollActions.aspx?g=1133514&amp;m=8859611&amp;source=stream_rail">Happy holidays, I got you this... gift card?</a></h2>
-		<p>Is it the perfectly practical gift or something you deem unoriginal and thoughtless?</p>	
+		<h2><a href="http://detroit.momslikeme.com/members/JournalActions.aspx?g=1474343&amp;m=9848168&amp;grpcat=">Family events going on this weekend </a></h2>
+		<p>Find something to do with the kids in metro Detroit, from stage shows to sports clinics</p>	
 	</div>
 	<div id="bottom-promo-item">
-		<a href="http://detroit.metromix.com/movies/essay_photo_gallery/top-50-movies-of/1627766/content"><img src="http://cmsimg.freep.com/apps/pbcsi.dll/bilde?Avis=C4&amp;Dato=20091204&amp;Kategori=MISC04&amp;Lopenr=91203093&amp;Ref=AR&amp;MaxW=175&amp;MaxH=131&amp;q=50" border="0" alt="  " title="  "></a>
+		<a href="http://detroit.metromix.com/tv/essay_photo_gallery/lingering-lost-questions/1724175/content"><img src="http://cmsimg.freep.com/apps/pbcsi.dll/bilde?Avis=C4&amp;Dato=20100129&amp;Kategori=MISC04&amp;Lopenr=100129054&amp;Ref=AR&amp;MaxW=175&amp;MaxH=131&amp;q=50" border="0" alt="  " title="  "></a>
 		<h4>Detroit Metromix</h4>
-		<h2><a href="http://detroit.metromix.com/movies/essay_photo_gallery/top-50-movies-of/1627766/content">The amazing aughts cinematic countdown</a></h2>
-		<p>Tarantino's martial arts masterpiece &amp; Oscar winners star in the next round.</p>	
+		<h2><a href="http://detroit.metromix.com/tv/essay_photo_gallery/lingering-lost-questions/1724175/content">Ten lingering 'Lost' mysteries to examine</a></h2>
+		<p>Curious questions we need answers to in order to survive the final season on the island.</p>	
 	</div>
 <div id="bottom-promo-item" class="last">
-		<a href="/article/20091204/BLOG24/91204001/-1/PRIVACY/Beware-of...carp?"><img src="http://cmsimg.freep.com/apps/pbcsi.dll/bilde?Avis=C4&amp;Dato=20091204&amp;Kategori=BLOG24&amp;Lopenr=91204001&amp;Ref=AR&amp;MaxW=175&amp;MaxH=131&amp;q=50" border="0" alt="  " title="  "></a>
-		<h4>MIKE THOMPSON CARTOON</h4>
-		<h2><a href="/article/20091204/BLOG24/91204001/-1/PRIVACY/Beware-of...carp?">Beware of...carp?</a></h2>
-		<p>It's not as funny as it seems, Michigan.</p>	
+		<a href="/article/20100129/BLOG24/100128083/0/ENT07/Ford-turns-a-profit"><img src="http://cmsimg.freep.com/apps/pbcsi.dll/bilde?Avis=C4&amp;Dato=20100129&amp;Kategori=BLOG24&amp;Lopenr=100128083&amp;Ref=AR&amp;MaxW=175&amp;MaxH=131&amp;q=50" border="0" alt="  " title="  "></a>
+		<h4>MIKE THOMPSON CARTOON</h4> 
+		<h2><a href="/article/20100129/BLOG24/100128083/0/ENT07/Ford-turns-a-profit">Ford turns a profit</a></h2>
+		<p>Ford Motor Company posts a $2.7 billion profit for 2009.</p>	
 	</div>
 </div>
 <h3><a href="/siteindex">site index</a></h3>
@@ -754,11 +778,13 @@ Photographed on Tuesday December 1, 2009.   (Eric Seals/Detroit Free Press)"></a
 	<div id="services">	
 	<h3>partners</h3>
 		<ul>
+			<li><a href="http://www.marketplacedetroit.com" target="_blank">Detroit Classifieds</a></li>
 			<li><a href="http://detroit.gannettonline.com/careerbuilder/" target="_blank">Jobs: CareerBuilder.com</a></li>
-			<li><a href="http://www.cars.com/go/index.jsp?aff=freep" target="_blank">Cars: cars.com</a></li>
-			<li><a href="http://www.marketplacedetroit.com/realestate/apartments.php" target="_blank">Apartments: apartments.com</a></li>
-			<li><a href="/realestate" target="_blank">Homefinder.com</a></li>
-			<li><a href="http://www.shoplocal.com/detroit/home.aspx?r=632579690413841118759288343" target="_blank">Shopping: ShopLocal.com</a></li>
+			<li><a href="http://www.cars.com" target="_blank">Cars &amp; Trucks: Cars.com</a></li>
+			<li><a href="http://www.apartments.com" target="_blank">Rentals: Apartments.com</a></li>
+			<li><a href="http://www.homefinder.com" target="_blank">Real Estate: Homefinder.com</a></li>
+			<li><a href="http://tickets.marketplacedetroit.com" target="_blank">Tickets: Concerts &amp; Events</a></li>
+			<li><a href="http://deals.marketplacedetroit.com" target="_blank">Coupons: ShopLocal.com</a></li>
 			<li><a href="https://secure.cozi.com/Cobrand-Gannett-Signup.htm?link_loc=editpromo%3Fmarket%3DDETROIT" target="_blank">Cozi: Family Life. Simplified.</a></li>
 			<li><a href="http://detroit.momslikeme.com" target="_blank">Detroit Moms Like Me</a></li>
 			<li><a href="http://detroit.metromix.com" target="_blank">Detroit Metromix</a></li>
@@ -791,7 +817,7 @@ Photographed on Tuesday December 1, 2009.   (Eric Seals/Detroit Free Press)"></a
 <!-- end id eedition -->
 	</div>
 	<br clear="all">
-	<p style="text-align:center">Copyright © 2009 ... Use of this site signifies your agreement to the <a href="/section/terms">Terms of Service</a> and <a href="/section/privacy">Privacy Policy/Your California Privacy Rights</a>, updated March 2009.</p>
+	<p style="text-align:center">Copyright © 2010 ... Use of this site signifies your agreement to the <a href="/section/terms">Terms of Service</a> and <a href="/section/privacy">Privacy Policy/Your California Privacy Rights</a>, updated March 2009.</p>
 			</div><!-- end id footer-wrapper -->
 <!-- macro name="ad_rotate_test" --> 
 <!-- div class="clear"></div -->
