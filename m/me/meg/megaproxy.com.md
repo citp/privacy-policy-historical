@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megaproxy.com privacy policy that was archived on 2007-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070704182120id_/http%3A//megaproxy.com/legal/ps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaproxy.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131003857id_/http%3A//www.megaproxy.com/legal/ps) for the most accurate reproduction.*
 
 # Megaproxy.com, Inc \ Online privacy statement
 
@@ -54,7 +54,7 @@ This website takes every precaution to protect our users information. While we u
 
 #### Notification of Changes
 
-This privacy statement was last updated on June 24, 2004. A notice will be posted on this web page for 30 days whenever this privacy statement is changed. If you have further questions regarding our privacy practices, please send email inquiries to [PRIVACY HELP](mailto:privacy@megaproxy.com).
+This privacy statement was last updated on June 24, 2004. A notice will be posted on this web page for 30 days whenever this privacy statement is changed. If you have further questions regarding our privacy practices, please send email inquiries to [PRIVACY HELP](mailto:support@megaproxy.com).
 
   
 
