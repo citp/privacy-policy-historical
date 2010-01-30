@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dreamforth.com privacy policy that was archived on 2009-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090213175648id_/http%3A//www.dreamforth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamforth.com privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130093350id_/http%3A//www.dreamforth.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - DREAM MEANINGS | DREAM INTERPRETATION | DREAMS DICTIONARY
+# Privacy Policy - Dream Meanings | Dream Interpretation | Free Dreams Dictionary
 
 We can be reached via e-mail at [privacy@dreamforth.com](mailto:privacy@dreamforth.com)
 
@@ -14,8 +14,10 @@ With respect to cookies: We use cookies to store visitors preferences, record us
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
 
-google.com  
-statcounter.com
+statcounter.com  
+Google and the DoubleClick DART Cookie
+
+Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to this site's visitors based on their visit to this site and other sites on the Internet. Visitors may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
