@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralebookexplosion.com privacy policy that was archived on 2008-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080730071310id_/http%3A//www.viralebookexplosion.com/disclaimers/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralebookexplosion.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131002518id_/http%3A//www.viralebookexplosion.com/disclaimers/privacy_policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
