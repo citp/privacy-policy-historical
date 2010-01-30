@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recruitlikecrazy.com privacy policy that was archived on 2009-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090904014134id_/http%3A//www.recruitlikecrazy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitlikecrazy.com privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130233418id_/http%3A//www.recruitlikecrazy.com/privacy.html) for the most accurate reproduction.*
 
 # RecruitLikeCrazy.com - Privacy Policy
 
