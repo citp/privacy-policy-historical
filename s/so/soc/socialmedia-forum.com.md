@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmedia-forum.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105144221id_/http%3A//www.socialmedia-forum.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmedia-forum.com privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130204703id_/http%3A//www.socialmedia-forum.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
