@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the medallia.com privacy policy that was archived on 2009-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091228180100id_/http%3A//medallia.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the medallia.com privacy policy that was archived on 2010-01-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100130091342id_/http%3A//www.medallia.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -19,17 +19,29 @@
 <meta name="DC.publisher" content="Medallia">
 <meta name="DC.date.created" scheme="DCTERMS.W3CDTF" content="2008-05-06T00:26:40-0700">
 <meta name="DC.date.modified" scheme="DCTERMS.W3CDTF" content="2009-07-15T19:54:41-0700">
-<meta name="DC.date.valid" scheme="DCTERMS.W3CDTF" content="2010-01-03T20:01:00-0800">
+<meta name="DC.date.valid" scheme="DCTERMS.W3CDTF" content="2010-02-05T11:13:41-0800">
 <meta name="DC.type" scheme="DCTERMS.DCMIType" content="Text">
 <meta name="DC.rights" scheme="DCTERMS.URI" content="Medallia">
 <meta name="DC.format" content="text/html">
 <meta name="DC.identifier" scheme="DCTERMS.URI" content="http://www.medallia.com/privacy/">
 	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
-	<link rel="stylesheet" href="/css/master.css?v=24" type="text/css" media="all">
-<script src="/js/scripts.js?v=24" type="text/javascript"></script>
-<script src="/js/medallia.js" type="text/javascript"></script>
+	<link rel="stylesheet" href="/css/master.css?v=25" type="text/css" media="all">
+<script src="/js/scripts.js?v=25" type="text/javascript"></script>
+<script src="http://wi.medallia.com/webintercept-wi.js" type="text/javascript"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-1581535-2']);
+_gaq.push(['_setDomainName', '.medallia.com']);
+_gaq.push(['_trackPageview']);
+(function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+})();
+</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script>
+
 <!--[if lt IE 7]>
-<link rel="stylesheet" type="text/css" media="all" href="/css/ie.css?v=24" />
+<link rel="stylesheet" type="text/css" media="all" href="/css/ie.css?v=25" />
 <script type="text/javascript" src="/js/DD_belatedPNG_0.0.7a-min.js"></script>
 <script type="text/javascript">
 DD_belatedPNG.fix('.trans-png, .snake, a.logo, .ui-dialog, .ui-dialog .ui-dialog-titlebar-close, .insightWrap, .details-wrapper, .details-wrapper img, #factoids img, .btContact, #profileNav, .fiveSteps, .icon, #counter, .formWrapper, .border, .practiceAreas');
@@ -177,10 +189,12 @@ DD_belatedPNG.fix('.trans-png, .snake, a.logo, .ui-dialog, .ui-dialog .ui-dialog
 					<li><a href="/insights">Insights</a><span>/</span></li>
 					<li><a href="/about">About Us</a><span>/</span></li>
 					<li><a href="/careers">Careers</a><span>/</span></li>
-					<li><a href="/contact">Contact Us</a><span>/</span></li>
+					<li><a href="http://experience.medallia.com/forms/ContactUs">Contact Us</a><span>/</span></li>
 					<li><a href="/news">News</a></li>
 				</ul>
 			</div>
+			<p class="social"><a href="http://www.twitter.com/medallia">Follow us on Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.facebook.com/MedalliaInc">Beome a fan on Facebook</a></p>
+<p class="legal">Copyright © 2010. <a href="/"> Medallia, Inc.</a>  All rights reserved. Use of this Website assumes acceptance of <a href="/terms">Terms of Use</a> and <a href="/privacy">Privacy Policy</a>.</p>
 			<form action="http://www.medallia.com/search/results" id="cse-search-box">
 			  <div>
 			    <input type="hidden" name="cx" value="005139516473959188892:oo8hijnldsi">
@@ -191,7 +205,6 @@ DD_belatedPNG.fix('.trans-png, .snake, a.logo, .ui-dialog, .ui-dialog .ui-dialog
 			  </div>
 			</form>
 			<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
-			<p class="legal">Copyright © 2010. <a href="/"> Medallia, Inc.</a>  All rights reserved. Use of this Website assumes acceptance of <a href="/terms">Terms of Use</a> and <a href="/privacy">Privacy Policy</a>.</p>
 		</div>
 	</div>
 <script type="text/javascript">
@@ -199,29 +212,20 @@ MEDALLIA.Intercept(function(o){
 	$(document).bind('reveal.facebox', function() {
 		$('#m_intercept_yes').click(function(){
 			window.open(o.url, "MEDALLIA", "width=1050, height=600, scrollbars=1");
-			o.quarantine();
+			o.quarantine('medallia.com');
 			jQuery(document).trigger("close.facebox");
 			return false;
 		});
 		$('#m_intercept_no').click(function(){
 			jQuery(document).trigger("close.facebox");
-			o.quarantine();
+			o.quarantine('medallia.com');
 			return false;
 		});
 	});
 	jQuery.facebox('<h2>Please help us <br/>improve our website.</h2><h3>Take our short survey</h3><a href="#" class="y" id="m_intercept_yes">Yes <b>I would like <br/>to participate</b></a><a href="#" class="n"  id="m_intercept_no">No <b>I&rsquo;m not interested <br/>in participating</b></a>');
-},{section:'privacy'})
+},{section:'privacy'}, 'medallia.com')
 </script>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try{
-var pageTracker = _gat._getTracker("UA-1581535-2");
-pageTracker._trackPageview();
-} catch(err) {}</script>
 <script type="text/javascript" language="javascript" src="/elqNow/elqCfg.js"></script>
-<script type="text/javascript" language="javascript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=1494&amp;ref2=elqNone&amp;tzo=0&amp;ms=317" border="0" width="1" height="1"></layer>
+<script type="text/javascript" language="javascript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=1494&amp;ref2=elqNone&amp;tzo=0&amp;ms=403" border="0" width="1" height="1"></layer>
 
 </body></html>
