@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaa-logo.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509060758id_/http%3A//www.aaa-logo.com/ppolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaa-logo.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131002046id_/http%3A//www.aaa-logo.com/ppolicy.php) for the most accurate reproduction.*
 
 # Privacy statement - aaa-logo.com
 
@@ -18,7 +18,7 @@ When you contact us, we need only an email address which we use to send the info
 
 We may also use the information we collect to occasionally notify you about new **aaa-logo.com** 's products and special offers we think you'll find valuable. If you would rather not receive this information, confirm it through an email to us.
 
-Presently, when you will place an order, you will be transferred to one of our online retailers Emetrix or Shareit or Regnow to provide your name, email address, mailing address, credit number, and expiration date. 
+Presently, when you place an order, you will be transferred to our online retailer Digital River, Inc. to provide your name, email address, mailing address, credit number, and expiration date. 
 
 As products vendor, we will collect your name, email address, mailing address, and the registration key. These information will be used to support you.
 
