@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the narutowire.com privacy policy that was archived on 2009-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090808024115id_/http%3A//www.narutowire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narutowire.com privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130213043id_/http%3A//www.narutowire.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: NarutoWire.com
 
-[](http://www.narutowire.com/index.php)        [](http://www.ovguide.com/awards)
+[](http://www.narutowire.com/)        [](http://www.ovguide.com/)
 
 **Please use 'Report Broken Link' tab in video page or 'Technical Difficulties' message board in forum to report broken links!!**
 
