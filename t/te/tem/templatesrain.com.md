@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatesrain.com privacy policy that was archived on 2009-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090906053756id_/http%3A//www.templatesrain.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatesrain.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131010255id_/http%3A//www.templatesrain.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Templatesrain.com
 
