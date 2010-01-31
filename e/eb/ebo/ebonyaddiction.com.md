@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebonyaddiction.com privacy policy that was archived on 2009-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090305142727id_/http%3A//www.safetybilling.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebonyaddiction.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131082250id_/http%3A//www.safetybilling.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : SafetyBilling
 
