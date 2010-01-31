@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynaturalmarket.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302073249id_/http%3A//www.mynaturalmarket.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynaturalmarket.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131015051id_/http%3A//www.mynaturalmarket.com/privacy.html) for the most accurate reproduction.*
 
 # Only Natural and Organic, Free of GMO Products
 
@@ -52,3 +52,5 @@ MyNaturalMarket uses the above-described information to tailor our content to su
 **SECURITY**
 
 MyNaturalMarket operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.mynaturalmarket.com/www.FetchBack.com/optout.html) .
