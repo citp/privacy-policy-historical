@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtopnews.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217000201id_/http%3A//www.wtopnews.com%3Fsid%3D598239%26nid%3D164) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtopnews.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131230106id_/http%3A//www.wtopnews.com%3Fsid%3D598239%26nid%3D164) for the most accurate reproduction.*
 
 # Privacy Statement - wtop.com
 
@@ -6,7 +6,7 @@ _**PRIVACY STATEMENT**_
 
 (Last Revised January, 2009) 
 
-**General**. This website (the "Site") is operated by Bonneville International Corporation ("Operator"). The following Privacy Statement (the "Statement") supplements the Terms of Use [hyperlink] posted elsewhere at the Site. You should read the Statement and the Terms of Use before you use the Site. By using the Site, you agree to be bound by all of the terms, conditions and notices contained or referenced in the Statement. You should review the Statement from time to time. Operator may change the Statement at any time without notice by posting revisions to the Site. Your continued use of the Site constitutes your acceptance of the revised Statement. If you do not accept all of the terms and conditions set forth in the Statement, you must exit the Site immediately. 
+**General**. This website (the "Site") is operated by Bonneville International Corporation ("Operator"). The following Privacy Statement (the "Statement") supplements the [Terms of Use](https://web.archive.org/?nid=164&sid=598238) posted elsewhere at the Site. You should read the Statement and the Terms of Use before you use the Site. By using the Site, you agree to be bound by all of the terms, conditions and notices contained or referenced in the Statement. You should review the Statement from time to time. Operator may change the Statement at any time without notice by posting revisions to the Site. Your continued use of the Site constitutes your acceptance of the revised Statement. If you do not accept all of the terms and conditions set forth in the Statement, you must exit the Site immediately. 
 
 **No Use by Children**. The Site is not directed to, or intended for use by, children (defined as anyone age twelve (12) or younger). Children should not use the Site or submit any information to Operator. 
 
