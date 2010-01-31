@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoofo.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216062732id_/http%3A//shoofo.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoofo.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131050628id_/http%3A//shoofo.com/pp.html) for the most accurate reproduction.*
 
 # Shoofo Privacy Policy
 
