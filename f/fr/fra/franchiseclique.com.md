@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchiseclique.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207085850id_/http%3A//www.franchiseclique.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchiseclique.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131020113id_/http%3A//www.franchiseclique.com/privacy.php) for the most accurate reproduction.*
 
 # FranchiseClique: Directory of Franchises and Business Resource
 
@@ -77,7 +77,7 @@ This Privacy Policy was last updated on July 11, 2009
   
   
 To receive more information , simply fill out the short form on the right and you will be contacted.  
-| Quick Clique Request Form   
+|  Quick Clique Request Form   
 ---  
   
 To receive more information on this business opportunity, simply fill out the short form below and a Franchise Representative will contact you. | **Personal Information**  
@@ -99,7 +99,7 @@ Time Frame:
 |  | I would like to receieve additional information about future business and franchise opportunities.  
 ---|---  
   |    
-| Yes, I agree with the [Terms and Conditions](https://web.archive.org/web/20091207085850id_/http%3A//www.franchiseclique.com/terms.php)  
+| Yes, I agree with the [Terms and Conditions](file:///My%20Baby/Users/new/Desktop/fc/terms.php)  
    
 * Indicates a required field  
    
