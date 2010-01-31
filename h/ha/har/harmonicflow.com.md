@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harmonicflow.com privacy policy that was archived on 2009-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090203070522id_/http%3A//www.harmonicflow.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmonicflow.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131085124id_/http%3A//www.harmonicflow.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Harmonic Flow - Privacy Policy
 
@@ -53,6 +53,10 @@ o We are required to disclose any or all information to the extent necessary or 
 **Other Web Sites; Links**
 
 Our web site contains links to other web sites. HARMONIC FLOW is not responsible for the privacy practices or the content of such web sites.
+
+**Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit networkadvertising.org.
 
 **Changes to this Privacy Policy**
 
