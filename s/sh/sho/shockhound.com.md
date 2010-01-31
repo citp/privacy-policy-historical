@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shockhound.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202035454id_/http%3A//www.shockhound.com/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shockhound.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131050933id_/http%3A//www.shockhound.com/site/privacy_policy) for the most accurate reproduction.*
 
 # ShockHound - Privacy Policy
 
