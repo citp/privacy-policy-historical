@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the case-mate.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205073825id_/http%3A//www.case-mate.com/privacy_b.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the case-mate.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131075757id_/http%3A//www.case-mate.com/privacy_b.asp) for the most accurate reproduction.*
 
 # Case-Mate Privacy Policy: Case-Mate - Form fitting cases, holsters, skins, covers, and accessories for Apple iPhone, BlackBerry, iPod, and MacBook in premium leather.
 
