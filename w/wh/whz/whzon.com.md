@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whzon.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201163442id_/http%3A//whzon.com/icdirect/wzPrivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whzon.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131220345id_/http%3A//whzon.com/icdirect/wzPrivacy.asp) for the most accurate reproduction.*
 
 # WhzOn.Com SiteLOGz
 
