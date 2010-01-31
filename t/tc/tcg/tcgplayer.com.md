@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923201540id_/http%3A//www.tcgplayer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131190938id_/http%3A//www.tcgplayer.com/privacy.asp) for the most accurate reproduction.*
 
 # TCGplayer.com: Tradable and Collectible Game Player
 
@@ -38,14 +38,14 @@ Our Site uses cookies to deliver content specific to your interests. We also use
 
 **Third Party Cookies**
 
-In the course of serving advertisements to this site, our third-party ad server, Gorilla Nation, Maxworldwide or their affiliates, or individual advertisers may place or recognize a unique “cookie” on your browser. 
+In the course of serving advertisements to this site, our third-party ad server may place or recognize a unique “cookie” on your browser. 
 
   
 
 
 **Third Party Advertising**
 
-We use third-party advertising companies to serve ads when you visit our Web site. The third-party advertising technology that we use on this Web site uses information derived from your visits to this site to target advertising within this site. In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser's cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising. To "opt-out," please click here. http://www.doubleclick.com/privacy/index.aspx.   
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <<http://www.networkadvertising.org/managing/opt_out.asp>>.   
  
 
 **Registration Forms**
@@ -101,7 +101,7 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-[Webmaster@TCGplayer.com](mailto:webmaster@TCGplayer.com) All original content herein is Copyright 2000-2009 **Ascension Gaming Network, Inc.**  
+[Webmaster@TCGplayer.com](mailto:webmaster@TCGplayer.com)All original content herein is Copyright 2000-2009 **Ascension Gaming Network, Inc.**  
 No portion of this web site may be used in any way without expressed written consent.  
 All rights reserved.  
 [Privacy Policy](https://web.archive.org/privacy.asp)  
@@ -115,18 +115,18 @@ All rights reserved.
 | LATEST Magic ARTICLE  
 ---  
   
-|  **[Endearing Pessimism](http://magic.tcgplayer.com/db/article.asp?ID=8555)**  
+|  **[Maximizing Your Prerelease](http://magic.tcgplayer.com/db/article.asp?ID=8750)**  
 ---  
   
-Do you know how many “legit” builds of 5cc there are? Thousands and thousands. Do you know how many there should be? Two, maybe three, for specific metagames and disagreements over the last few cards.   
+Conley gives his thoughts on how to make the most of your prerelease - cards to trade for, ones to avoid, tips on prerelease success and more! A must read for anyone planning on attending an event this weekend!   
   
-LATEST WoW TCG ARTICLE  
+LATEST YGO ARTICLE  
 ---  
   
-|  **[Druid Tokenz](http://wow.tcgplayer.com/db/article.asp?ID=3267)**  
+|  **[The Hybrid](http://yugioh.tcgplayer.com/db/article.asp?ID=2393)**  
 ---  
   
-Anyone who knows me and the rest of the Oregon crew knows we love our Druids. Druid is the king of the hat trick. It's good at everything and a master of nothing… except for making tokens.   
+The one major thing about this Shonen Jump that stood out above all else was the Lightsworn / Zombie deck (Zombiesworn) that was run by several players in the top 16.   
   
 LATEST DREAMBLADE ARTICLE  
 ---  
@@ -138,10 +138,10 @@ LATEST SPOILS ARTICLE
   
 In this week's instalment of Canadien Bacon, we are going to continue talking about “Rogue Decks” of 1st Edition. We're switching gears and playing the aggro game.   
   
-LATEST Heroclix ARTICLE  
+LATEST Pokemon ARTICLE  
 ---  
   
-|  **[Smoke Cloud](http://heroclix.tcgplayer.com/db/article.asp?ID=2730)**  
+|  **[Trainer Tips: Play Testing](http://pokemon.tcgplayer.com/db/article.asp?ID=3328)**  
 ---  
   
-Smoke Cloud, like Barrier, takes a Power Action to activate but then gives you control of Hindering Terrain tokens which are less useful than its Blocking Terrain counterpart. Or are they? 
+Play testing, like development, consists of steps. In fact, both consist of five steps. Each step is vital to the deck, and must be taken with thought and care. We need to know how to play test. Properly. 
