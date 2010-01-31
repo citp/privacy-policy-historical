@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogadda.com privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224142007id_/http%3A//www.blogadda.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogadda.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131015738id_/http%3A//www.blogadda.com/privacypolicy) for the most accurate reproduction.*
 
 # BlogAdda - Privacy Policy
 
