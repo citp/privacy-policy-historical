@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carrental.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626210239id_/http%3A//www.carrental.com/globals/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrental.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131202856id_/http%3A//www.carrental.com/globals/pp.php) for the most accurate reproduction.*
 
 # CarrentalSupport.com - Privacy Policy
 
