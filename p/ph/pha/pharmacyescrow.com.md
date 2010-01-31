@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmacyescrow.com privacy policy that was archived on 2009-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091012045544id_/http%3A//www.pharmacyescrow.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacyescrow.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131211638id_/http%3A//www.pharmacyescrow.com/privacy.aspx) for the most accurate reproduction.*
 
 # Online Pharmacy Privacy Policy
 
