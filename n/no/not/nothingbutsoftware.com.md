@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nothingbutsoftware.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512074536id_/http%3A//www.nothingbutsoftware.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nothingbutsoftware.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131114502id_/http%3A//www.nothingbutsoftware.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement - NothingButSoftware.com
 
 **SpaceBound, Inc.**. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: NothingButSoftware.com. 
 
