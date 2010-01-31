@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prontostyle.com privacy policy that was archived on 2009-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090728173304id_/http%3A//www.prontostyle.com/help/legal/policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prontostyle.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131080713id_/http%3A//www.prontostyle.com/help/legal/policy.do) for the most accurate reproduction.*
 
 # About Pronto - Privacy Policy
 
@@ -234,7 +234,7 @@ If you are a resident of California, in addition to the rights set forth above, 
 
 We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is [privacy@pronto.com](mailto:privacy@pronto.com).
 
-© 2009 IAC/InterActiveCorp. All rights reserved. 
+© 2009-2010 IAC/InterActiveCorp. All rights reserved. 
 
 Cookies
 
