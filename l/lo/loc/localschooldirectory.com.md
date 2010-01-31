@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localschooldirectory.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418210526id_/http%3A//www.localschooldirectory.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localschooldirectory.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131194753id_/http%3A//www.localschooldirectory.com/privacy.php) for the most accurate reproduction.*
 
 # Public Schools & Private Schools - Local School Directory
 
@@ -20,25 +20,4 @@ Upon request we offer visitors the ability to have inaccuracies corrected within
 
 If you feel that this site is not following its stated information policy, you may contact us at the above e-mail address.
 
-### K-12 Articles
-
-#### Preparing Your Child for the First Day of School
-
-  * It seems like school was just dismissed for the summer, yet here we are facing another...  
-[Read More](http://www.localschooldirectory.com/k-12-articles/105)
-
-
-
-#### Changing Schools Isn't Easy: Tips for a Successful Transition
-
-  * It isn't easy for students to make the transition into a new school, especially if...  
-[Read More](http://www.localschooldirectory.com/k-12-articles/109)
-
-
-
-#### Everyone Loves Going to the Doctor and Dentist
-
-  * Going to the doctor or dentist can be traumatic for children of all ages. Many...  
-[Read More](http://www.localschooldirectory.com/k-12-articles/44)
-
-
+### States, Districts & Cities
