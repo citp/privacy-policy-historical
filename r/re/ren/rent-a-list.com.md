@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rent-a-list.com privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803122012id_/http%3A//www.rent-a-list.com/s/privacy.cgi/rent-a-list) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent-a-list.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131035405id_/http%3A//www.rent-a-list.com/s/privacy.cgi/rent-a-list) for the most accurate reproduction.*
 
 # Email Marketing and lead generation. business opportunity leads, mlm leads.
 
@@ -34,10 +34,10 @@
 >   1. You can login to your Advertiser Area and click on "Delete Account"
 >   2. You can send email to support(at)rent-a-list.com
 >   3. You can send mail to the following postal address:  
->  Multiple Stream Media LLC  
->  603 Old Stage Road, Main Bldg.  
->  Saugerties, NY 12477
->   4. You can call the following telephone number: 845.247.2565
+>  Multiple Stream Media, LLC  
+>  544 Sawmill Road,   
+>  Hurley, NY 12443
+>   4. You can call the following telephone number: (845) 383 1007
 > 
 
 > 
@@ -47,9 +47,9 @@
 >   1. You can login to your Advertiser Area and click on "Edit Account"
 >   2. You can send email to support(at)rent-a-list.com
 >   3. You can send mail to the following postal address:  
->  Multiple Stream Media LLC  
->  603 Old Stage Road, Main Bldg.  
->  Saugerties, NY 12477
+>  Multiple Stream Media, LLC  
+>  544 Sawmill Road,   
+>  Hurley, NY 12443
 >   4. You can call the following telephone number: 845.247.2565
 > 
 
@@ -60,10 +60,6 @@
 > **Contacting the Web Site**  
 >  If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 > 
-> Multiple Stream Media LLC  
->  603 Old Stage Road, Main Bldg.  
->  Saugerties, NY 12477
-> 
-> Tel: (845) 247 2565   
->  (845) 247 2567  
->  Fax: (845) 247 2569
+> Multiple Stream Media, LLC  
+>  544 Sawmill Road,   
+>  Hurley, NY 12443(845) 383 1007
