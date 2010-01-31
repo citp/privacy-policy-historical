@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faceofkinder.co.uk privacy policy that was archived on 2009-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090720073447id_/http%3A//www.faceofkinder.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faceofkinder.co.uk privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131213714id_/http%3A//www.faceofkinder.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Kinder Chocolate - Privacy Policy
 
