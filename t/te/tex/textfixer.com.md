@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textfixer.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226212325id_/http%3A//www.textfixer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textfixer.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131183522id_/http%3A//www.textfixer.com/privacy) for the most accurate reproduction.*
 
 # TextFixer.com - Privacy Policy
 
@@ -23,5 +23,15 @@ At present we provide site visitors with no access to information that we have c
 At present we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+
+**Google Privacy Conditions**
+
+We do on occasion use Google for serving ads and because of this, you should be aware of the following:
+
+  * Google, as a third party vendor, uses cookies to serve ads on this site.
+  * Google's use of the DART cookie enables it to serve ads to you based on your visit to this site and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
 
 If you have questions about this privacy policy, you may contact us using the [contact form](https://web.archive.org/contact "contact form").
