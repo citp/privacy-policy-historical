@@ -1,21 +1,19 @@
-> *The following text is extracted and transformed from the bigresponse.com privacy policy that was archived on 2009-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090206215952id_/http%3A//www.bigresponse.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigresponse.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131035940id_/http%3A//www.bigresponse.com/privacy.php) for the most accurate reproduction.*
 
-# Big Response
+# Email Marketing & Autoresponders - Big Response
 
 This is the web site of **Big Response**.  
 
 
-Our postal address is   
-**Suite 2, Level 9  
-162-166 Goulburn St  
-Surry Hills, NSW, 2010  
-Australia**
+Our postal address is:  
+9606 N. Mopac, Suite 960  
+Austin, TX 78759
 
 We can be reached via e-mail at 
 
 [_sales@bigresponse.com_](mailto:sales@bigresponse.com)
 
-or you can reach us by telephone at 1800-939-5570. 
+or you can reach us by telephone at 1800 939 5570. 
 
 For each visitor to our web page, our web server automatically recognizes no information regarding the domain or e-mail address. We collect the e-mail addresses of those who communicate with us via e-mail. The information we collect is used for internal review and is then discarded. We use cookies to and allow BigResponse customers to login to their account. 
 
