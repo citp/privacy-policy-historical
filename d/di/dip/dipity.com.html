@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dipity.com privacy policy that was archived on 2009-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091212080732id_/http%3A//www.dipity.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dipity.com privacy policy that was archived on 2010-01-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100131082958id_/http%3A//www.dipity.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>Privacy Policy</title><link rel="stylesheet" type="text/css" href="http://cdn.dipity.com/static/lib/yui2.5.2/autocomplete/assets/skins/sam/autocomplete.css.v4458.css">
 <link rel="stylesheet" type="text/css" href="http://cdn.dipity.com/static/dipitycom2.0.css.v7922.css">
@@ -15,7 +15,7 @@
     sso_ts:'',
     curr_login:'',
     view_url:'',
-    request_time:'1260605250',
+    request_time:'1264926597',
     referer:'',
     tid:'',
     dialogs:[]
@@ -116,13 +116,20 @@
   }
   function getPopupDialog() {
     var hash = window.name;
+    // console.log("getPopupDialog: window.name=[" + window.name + "]");
     if (typeof(parent.dipity) != "undefined" && typeof(parent.dipity.dialogs) != "undefined" && typeof(parent.dipity.dialogs[hash]) != "undefined") {
       return parent.dipity.dialogs[hash];
     }
     return false;
   }
   function closePopupDialog() {
-    getPopupDialog().close();
+    var popupDialog = getPopupDialog();
+    if (popupDialog) {
+      popupDialog.close();
+    }
+    else {
+      console.log("Couldn't find popup dialog to close!");
+    }
   }
   function openPopupDialog() {
     var popup = getPopupDialog();
@@ -250,12 +257,12 @@
     <a rel="nofollow" href="http://www.dipity.com/tos">Terms of Service</a>
     |
     <a href="javascript:void((function() {var element=document.createElement('script'); element.setAttribute('src', 'http://www.dipity.com/bm2.php'); document.body.appendChild(element)})())">Bookmarklet</a></div>
-  Copyright 2009 Underlying, Inc.
+  Copyright 2010 Underlying, Inc.
 </div><script src="http://cdn.dipity.com/static/lib/yui2.5.2/utilities/utilities.js.v4458.js"></script>
-<script src="http://cdn.dipity.com/static/lib/js/dipity.js.v7570.js"></script>
+<script src="http://cdn.dipity.com/static/lib/js/dipity.js.v7959.js"></script>
 <script src="http://cdn.dipity.com/static/lib/yui2.5.2/autocomplete/autocomplete-min.js.v4458.js"></script>
 <script src="http://cdn.dipity.com/static/lib/js/autocomplete.js.v6306.js"></script>
-<script src="http://cdn.dipity.com/static/lib/js/namespace.js.v2242.js"></script>
+<script src="http://cdn.dipity.com/static/lib/js/namespace.js.v7963.js"></script>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -274,4 +281,4 @@ document.write(unescape("%3Cscript src='http://edge.quantserve.com/quant.js' typ
 <img src="http://pixel.quantserve.com/pixel/p-02CpGwogBMwUI.gif" style="display: none;" border="0" height="1" width="1"
 alt="Quantcast"/>
 </noscript>
-<!-- vhost:www.dipity.com real:aws37.dipity.com  --></body></html>
+<!-- vhost:www.dipity.com real:aws42.dipity.com  --></body></html>
