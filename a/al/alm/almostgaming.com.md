@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the almostgaming.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207142055id_/http%3A//www.almostgaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almostgaming.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131032206id_/http%3A//www.almostgaming.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Almost Gaming
 
