@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozbargain.com.au privacy policy that was archived on 2009-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091008220549id_/http%3A//www.ozbargain.com.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozbargain.com.au privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131121858id_/http%3A//www.ozbargain.com.au/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - OzBargain
 
