@@ -1,43 +1,48 @@
-> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203064729id_/http%3A//cableorganizer.com/answers/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201002725id_/http%3A//cableorganizer.com/answers/privacy-policy.html) for the most accurate reproduction.*
 
 # Cable Organizer .com - Privacy Policy
 
 **Privacy Policy**
 
-"We never rent or sell our customers' data to anyone. All information held is strictly confidential."
+At CableOrganizer.com, we do everything in our power to safeguard our customers’ personal information, and believe that it’s important for you to understand exactly how and why we collect, use and protect it. Please keep in mind that by visiting and/or purchasing from CableOrganizer.com, you automatically accept the policies outlined below.
 
-This is the web site of CableOrganizer.com.
+**Information Sharing**
 
-> Our postal address is:  
->  5610 NW 12th Ave, Suite 214  
->  Fort Lauderdale, FL 33309
-> 
-> (866) 222-0030 Toll Free
+Any information that we collect is used to contact you regarding your order, or otherwise improve the content of our web pages. All information that you submit is held strictly confidential; it’s our policy to **_never_** rent, sell, or otherwise share your personal information with other organizations for commercial purposes.
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+**Postal Addresses**  
+If you supply us with your postal address online, it will only be used to ship your order, send you any information that you specifically request, or let you know about occasional special offers.
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+**Telephone Numbers   **  
+When you provide CableOrganizer.com with your phone number, we promise that you will only receive phone calls regarding online orders that you have placed with us.
 
-The information we collect is used to improve the content of our Web page, not shared with other organizations for commercial purposes.
+**Payment Information**  
+We use the latest 128-bit encryption technology to protect your sensitive personal and financial information. Thanks to a combination of Digital ID and Secure Sockets Layer (SSL) protocol, our customers can rest assured that no unauthorized entity will gain access to bank account information or credit card numbers.
 
-With respect to cookies: We set one cookie to help our log analysis program accurately reflect user sessions. We use Urchin's UTM for our log analysis. No personal information is contained within this cookie.. 
+**Newsletter Opt-In**  
+We offer periodical e-newsletters and promotional e-mails, but in order to avoid spamming our customers, we only send mailings to individuals who have joined our opt-in list. If you have opted-in in the past but no longer wish to receive these e-mails, simply send a message to [newsletter@cableorganizer.com](mailto:newsletter@cableorganizer.com), and we’ll remove you from the list.
 
-We have an opt in list for our newsletter and only send promotional mail to those who have opted in. If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at [newsletter@cableorganizer.com](mailto:newsletter@cableorganizer.com)
+**Referring Domains**  
+When people visit CableOrganizer.com via links from other websites, we keep track of which domains referred them to us in order to spend our advertising dollars more wisely, and thereby lower our costs to you. However, we don’t obtain any specific personal information like names or e-mail addresses. In order to improve our website, we track which CableOrganizer.com pages consumers visit, and also keep other voluntarily-given information, such as survey responses and site registrations, on record.
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
+  
+**Cookies**   
+We use cookies to help our Log Analysis Programs accurately track browsing and purchasing sessions on CableOrganizer.com. These cookies contain no personal information. Each time a person visits our website, our web server automatically recognizes the consumer’s domain IP address, but does not acquire any other personal information. 
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+**Ad Servers**  
+We do not partner or have special relationships with any ad serving companies; however, we do advertise on Google AdWords and Overture. Either or both of these companies may set a cookie on your computer when you click on one of these ads, but this only allows us to measure whether or not the ad is effective.
 
-We do not normally share your information with any outside organizations. We have no agreements to share this information and can not imagine a situation where we would begin sharing this with anyone outside this organization.
+**Changes to Our Privacy Policy**  
+From time to time, we may decide to use customer information for new, unanticipated purposes that have not been previously disclosed in this Privacy Notice. If our information practices change at any time in the future, we will immediately post the changes on our website and give you the choice to opt out of these new functions. If you’re especially concerned about how your information is being used, we encourage you to check our website periodically to stay well informed of any possible updates.
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. We do, however, advertise on Google's adwords and Overture. Both of these companies may set a cookie on your computer when you click on one of our ads. This allows us to determine if the ad is effective or not. 
+Thank you for your interest in our Privacy Policy! If you have additional questions that we haven’t answered here, or feel that this website isn’t following its stated information policy, please feel free to contact us via toll-free phone call, e-mail, or post.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+CableOrganizer.com, Inc.  
+5610 NW 12th Ave, Suite 214  
+Fort Lauderdale, FL   33309
 
-Upon reasonable request we can provide site visitors with access to information that we have collected and that we maintain about them. Consumers can have this information corrected by sending us e-mail at the above address. 
+Toll Free Phone: (866) 222-0030
 
-With respect to security: When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+[suggest@cableorganizer.com](mailto:suggest@cableorganizer.com)
 
 If you cannot find the proper response to your question, please feel free to email us at [sales@cableorganizer.com](mailto:sales@cableorganizer.com) or call us toll free 24/7 at 1-866-222-0030 and we will answer your question as thoroughly and promptly as possible.
