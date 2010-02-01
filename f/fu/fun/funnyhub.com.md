@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnyhub.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414152656id_/http%3A//www.funnyhub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnyhub.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201233055id_/http%3A//www.funnyhub.com/privacy.php) for the most accurate reproduction.*
 
 # Funny Hub - Privacy Policy
 
@@ -8,7 +8,7 @@ We have also taken precautions to ensure that our e-mail lists are not illegally
 
 707 Interactive and FunnyHub.com reserve the right to distribute cookies on your personal computer, but they do not collect any personally identifiable information other than maintaining your account login should you select the "remember me" option, nor will they assist in the distribution of any spyware or malware. The purpose of these cookies is merely to prevent visitors from rating the same page of content more than once so the scoring is fair and cannot be unfairly manipulated by a single user, or to remember your settings each time you visit the funnyhub.com site. 
 
-The advertisements on FunnyHub.com are provided by both direct advertisers and third-party ad networks, including Break.com, Google, ValueClick Media, Tribal Fusion, Casale Media, Revenue Science, and other third-party ad networks. These ads often distribute cookies for the purpose of frequency capping and optimization, which we consider to be a legitimate use of technology. These companies may use information (not including your name, address, email address or telephone number) about your visits to various sites in order to provide advertisements on our sites and other sites about goods and services that may be of interest to you. To learn more, you will need to visit each respective company's website. 
+We use third-party advertising companies to serve ads when you visit funnyhub.com. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 While 707 Interactive will make every reasonable effort to prevent ads that contain spyware, adware, or other malicious programs such as drive-by-downloads, we cannot always guarantee their exclusion due to the third-party nature of online advertising. 
 
