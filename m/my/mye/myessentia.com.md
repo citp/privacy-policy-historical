@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myessentia.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217112312id_/http%3A//www.myessentia.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myessentia.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201142426id_/http%3A//www.myessentia.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Essentia Memory Foam Mattress & Memory Foam PillowsPrivacy Policy
 
@@ -92,8 +92,8 @@ Essentia is responsible for all personal information under its control. Our Priv
 Call us at: 1-450-688-8111  
 Write us at: Essentia  
 Attention: Privacy Manager  
-2055 Autoroute 440 West  
-Laval, QC H7L 3R3
+2760 Blvd. Daniel Johnson  
+Laval, QC H7P 5Z7
 
 We will respond to your request or investigate your concern as quickly as we can.
 
