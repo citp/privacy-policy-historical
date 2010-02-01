@@ -1,252 +1,108 @@
-<!--The following is the downloaded HTML source of the millipore.com privacy policy that was archived on 2009-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090509200405id_/http%3A//www.millipore.com/ec/cp3/security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the millipore.com privacy policy that was archived on 2010-02-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100201124420id_/http%3A//www.millipore.com/ec/cp3/security) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 		<!-- MILLIPORE.COM OK -->
-		<!-- dominoServer="CN=Domino02/O=MilliporeInternet" -->
-	 	
-		
-			
-
-
-
-
-
-
-
-
-
-
-
-<meta http-equiv="Pragma" content="no-cache">
+		<!-- dominoServer="" -->
+	 	<meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="cache-control" content="no-cache">
 <meta http-equiv="cache-control" content="no-store">
 <meta http-equiv="expires" content="0">
 <meta http-equiv="expires" content="Thursday, 11-Mar-99 18:31:30 GMT">
-
-    
-    
-        <meta name="Keywords" content="">
-    
-
-
-    
-        <meta name="Description" content="Millipore's online security and privacy policy.">
-    
-    
-
-
-
-    
-
-
-	
-		<title>Millipore - Security and Privacy</title>
-	
-	
-	
-
-		
-		
-		
-
-
-
-
-
-
-
-
-
-
-
-
-<script language="javascript" type="text/javascript" src="/js/flashobject.js"></script>
+<meta name="Keywords" content="">
+    <meta name="Description" content="Millipore's online security and privacy policy.">
+    <title>Millipore - Security and Privacy</title>
+	<script language="javascript" type="text/javascript" src="/js/flashobject.js"></script>
 <script language="javascript" type="text/javascript" src="/js/dom_helper.js"></script>
 <script language="javascript" type="text/javascript" src="/js/user_nav_conditional.js"></script>
-<script language="javascript" type="text/javascript" charset="windows-1252" src="/js/oo_engine.js"></script>
+<script language="javascript">AC_FL_RunContent = 0;</script>
+<script language="javascript" type="text/javascript" src="/js/AC_RunActiveContent.js"></script>
+
 
 <script language="javascript" type="text/javascript" src="/js/prototype.js"></script>
 <script language="javascript" type="text/javascript" src="/js/scriptaculous/scriptaculous.js"></script>
-<script language="javascript" type="text/javascript" src="/js/scriptaculous/effects.js"></script>
+
 <script language="javascript" type="text/javascript" src="/js/livepipe/livepipe.js"></script>
 <script language="javascript" type="text/javascript" src="/js/livepipe/window.js"></script>
+<script language="javascript" type="text/javascript" src="/js/window_factory.js"></script>
 <script language="javascript" type="text/javascript">var previousPage = "L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5"</script>
 
+<script type="text/javascript" language="JavaScript" src="/js/millipore.js"></script>
+
 <script language="javascript" type="text/javascript">
+
 	var unc=null;
 	var tsr=null;
-</script>
+	var siteModal;
+	var siteModalMini;
+	var g_bInitAutocomplete = false;
+	var g_bInitAutocompleteForTechService = false;
 
+	//Madhav : This function is used to enable typeahead
+	// for header search
+	function initAutocomplete() {
+		  
+	        if ( g_bInitAutocomplete == true )
+	            return;
+	        
+	    new Ajax.Autocompleter("q","autocomplete","/pages/fast/typeahead.jsp", {
+	        tokens:',',
+	        minChars: 2,
+	        afterUpdateElement: function() {
+	            searchByCat();
+	        }
+	    });
+	    
+	    g_bInitAutocomplete = true;
+	
+	}
 
+	//Madhav : This function is used for enabling typeahead for CatalogNumber 
+	// in tech services. 
+	// Note that the autocompleter constructor has no tokens element
+    function initAutocompleteForTechService(form) {        
+        if ( g_bInitAutocompleteForTechService == true )
+            return;
+        
+    new Ajax.Autocompleter("catalogNbr","autocompleter","/pages/techservices/typeahead.jsp", {        
+        minChars: 2,        
+        afterUpdateElement: function() {
+    	getSKU(form);
+        }
+    });
+    
+    g_bInitAutocompleteForTechService = true;
 
-<script type="text/javascript" language="JavaScript" src="/js/millipore.js"></script>
-<script language="javascript" type="text/javascript">
+}
 
+	
 	function init() {
-		
-		if (top.location != location)
-		{
-			top.location.href = document.location.href;
-		}
+	
+		initSiteModal();
+		initSiteModalMini();
 		
 		initCartAndFavs();
 		setPreviousPage();
 		unc=new user_nav_conditional();
+
 		// Required to hide/unhide billing_details
 		billingchk();
+
 		// call specific method from include page
 		if (window.initSub) {
 			initSub();
 		}
 		
-		// initialize online opinion
-		if (get_cookie("lang") && get_cookie("lang").length > 0)
-		{
-			_lG = get_cookie("lang") + ".";
-			_rp = '%3A//' + _lG;
-		}
-		showSurvey();
-	}
+		
+    }
 
-	function showSurvey()
+	function getOmnitureFeedbackSurveyId()
 	{
-	    var exclude = false;
-	    var linkUrl = 'https://survey.opinionlab.com/survey/s?s=2454';
-	    var urlcomp = parseUrl();
-
-	    if (linkUrl.length > 0)
-	    {
-	    	var startDate = '3/12/2009';
-	        var endDate = '3/24/2009';
-
-	        // verify the survey date is within the configured range
-	        if (dateInRange(new Date(), parseSimpleDate(startDate), parseSimpleDate(endDate)))
-	        {
-			    // get the Survey ID from the URL
-	            var pattern = /^([^#]*&?)s=(?:([^&]*))/;
-			    var surveyId = parseUrl(linkUrl).query.match(pattern)[2];
-	
-			    // determine if this survey has been already viewed: if so, don't show it
-		        var surveyViewedCookie = get_cookie("surveysViewed");
-		        if (surveyViewedCookie)
-		        { 
-		        	var surveyIds = surveyViewedCookie.split(";");
-		        	
-		        	for (var i = 0; i < surveyIds.length; i++)
-		        	{
-			        	if (surveyIds[i] === surveyId)
-			        	{
-			        		exclude = true;
-			        		break;
-			        	}
-		        	}
-		        }
-	
-		        // make certain we aren't on a URL where the survey is forbidden
-		        if (!exclude)
-		        {
-			        var path = urlcomp.path;
-			        if (path)
-			        {
-			            var excludedUrls = 'press, sustainability, corporategiving, careers, company, corporate, reply, events, ec';
-			            if(excludedUrls.length > 0)
-			            {
-			                var excludedUrlsRA = excludedUrls.split(', ');
-			                for (var i = 0; i < excludedUrlsRA.length; i++)
-			                {
-			                    if (path.startsWith(excludedUrlsRA[i] + '/'))
-			                    {
-			                        exclude = true;
-			                        break;
-			                    }
-			                }
-			            }
-			        }
-		        }
-	
-		        // make certain we are not a user for whom surveys are forbidden
-		        var authUserName = "";
-		        if (authUserName && !exclude)
-		        {
-		            var excludedUsers = 'System Test, System TestJA';
-		            if (excludedUsers.length > 0)
-		            {
-		                var excludedUsersRA = excludedUsers.split(", ");
-		                for (var i = 0; i < excludedUsersRA.length; i++)
-		                {
-		                    if (excludedUsersRA[i] === authUserName)
-		                    {
-		                        exclude = true;
-		                        break;
-		                    }
-		                } 
-		            }
-		        }
-	
-		    	// if we're allowed to show the survey and the right number of pages have been viewed; show the survey
-		        if (!exclude)
-		        {
-		            var clicksConfig = '5';
-		            if (clicksConfig.length > 0);
-		            {
-			            var clicks = parseInt(clicksConfig);
-			            var currentClicks = get_cookie("pagesViewed");
 		
-			            if (!currentClicks)
-			            {
-			                currentClicks = 0;
-			            }
-			            
-			            currentClicks++;
-			           
-			            if (currentClicks === clicks)
-			            {
-			            	var surveyWindow = window.open (linkUrl + "&opdata_referring_page=" + urlcomp.url,"Survey","scrollbars=1,width=754,height=505");
-			                surveyWindow.focus();
-			                
-			                // create or append the survey ID to the cookie that indicates the user has seen the survey
-			                var ids = surveyId;
-			               
-			                if (surveyViewedCookie)
-			                {
-				                ids = surveyViewedCookie + ";" + surveyId;
-			                }
-			                
-			                // set the expiration date to one year from today
-			                var d = new Date();
-			                d.setTime(d.getTime() + (31536000000));
-			                var expiry = '; expires=' + d.toGMTString();
-			               
-			                document.cookie = "surveysViewed=" + ids + expiry +";domain=" + urlcomp.host + ";path=/";
-			            }
-			            
-			            document.cookie = "pagesViewed=" + currentClicks + ";domain=" + urlcomp.host + ";path=/";
-		            }
-		        }
-	        }
-	    }
+        return "2421"
 	}
+
 </script>
-
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <style type="text/css" media="screen">
 	
 		@import url(/css/company.css);
@@ -254,155 +110,61 @@
 	
 		@import url(/css/global.css);
 		@import url(/css/text.css);
+		@import url(/css/window.css);
 		
-	
-	
-	
-</style>
+	</style>
 <link rel="stylesheet" href="/css/print.css" type="text/css" media="print">
 <link rel="stylesheet" href="/css/text.css" type="text/css" media="print">
 
 <link rel="shortcut icon" href="/favicon.ico">
-<link rel="icon" href="/favicon.ico">
-		
-		
-		
-		
-			
-	  		
-			
-			
-		
-		
-		
-		
-			
-
-
-
-
-
-
-
-
-
-
-
-<script language="JavaScript" type="text/javascript">
-
-	var requestTopicNavMenu 			= getXMLHTTPRequest();
-	var requestStockTicker				= getXMLHTTPRequest();
-
-	
-	function writeTopicNavMenu() {
-
-		if (requestTopicNavMenu.readyState == 4 && requestTopicNavMenu.status == 200)	{
-			var txt = requestTopicNavMenu.responseText;
-			var elementId = document.getElementById("topic_nav_menu");
-			if (elementId) {
-				if (txt != null) {
-					elementId.innerHTML = txt;
-					thisLink=getElementsByTagAndClassNames("a","collapsible_controller","topic_nav_menu");
-					assignOnClick(thisLink, function(){toggleCollapsibleContainer(this); return false;})
-				} else {
-					elementId.innerHTML = "Sorry";
-				}
-			}
-		}
-	}
-	
-	function writeStockTicker() {
-
-		if (requestStockTicker.readyState == 4 && requestStockTicker.status == 200)	{
-			var txt = requestStockTicker.responseText;
-			var elementId = document.getElementById("stock_ticker");
-			if (elementId) {
-				if (txt != null) {
-					elementId.innerHTML = txt;
-					thisLink=getElementsByTagAndClassNames("a","collapsible_controller","stock_ticker");
-					assignOnClick(thisLink, function(){toggleCollapsibleContainer(this); return false;})
-				} else {
-					elementId.innerHTML = "Sorry";
-				}
-			}
-		}
-	}
-
-
-</script>
-		
-
-	</head>
+<link rel="icon" href="/favicon.ico"></head>
 	<body onload="init();">
 	<!-- Start: wrapper -->
  		<div id="wrapper">
+ 			<div id="siteModal" class="modal" style="display:none;"></div>
+ 			<div id="siteModalMini" style="display:none;"></div>
+ 			<div id="modal_loading" style="display:none;"><img src="/assets/images/fst/ajax_loader.gif"></div>
+ 			
 		  	<!-- Start: header -->
-		  	
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-			<!-- Start: header -->
+		  	<!-- Start: header -->
 			<div id="header">
 				<a href="/index.do" id="milliporeLogo"><img alt="Millipore Home" title="Millipore Home" src="/assets/images/global/logo-millipore.gif"><span>Millipore Home</span></a>
 				<!-- Start: account -->
 				<div id="account">
-					<ul id="userNav">
-					
-						
-						<li><a href="#" id="unclinkLogin">Login</a></li>
+				    <ul id="userNav">
+					<li><a href="#" id="unclinkLogin">Login</a></li>
+							<span>|</span>
+							<li><a href="/accounts/register.do">Register</a></li>
 						<span>|</span>
-						<li><a href="/accounts/register.do">Register</a></li>
-						
-						
-					
-						<span>|</span>
-						<li><a href="#" id="unclinkAccount">My Account</a></li>
+							<li><a href="#" id="unclinkAccount">My Account</a></li>
 						<span>|</span>
 						<li><a href="/ec/cart.do">Shopping Cart</a></li>
 						<span>|</span>
 						<li><a href="/ec/cp3/help">Help</a></li>
-						
-					</ul>
-					
-						
-						<!-- Start: user_nav_conditional - Login -->
+						</ul>
+					<!-- Start: user_nav_conditional - Login -->
 						<div class="user_nav_conditional login_box" id="userNavConditionalLogin">
-							<form name="loginForm" method="GET" action="/login-action.do">
+							<form name="loginForm" method="POST" action="/login-action.do">
 								<!-- TODO: span>*User Name/Password Not Recognized</span -->
 								<span>Username:</span><input type="text" name="userName" value="" class="field" tabindex="1/">
 								<span>Password:</span><input type="password" name="userPassword" value="" class="field" tabindex="2/">
-								<input type="hidden" name="returnUrl" value="https://web.archive.org/web/20090509200405id_/http%3A//www.millipore.com/ec/cp3/security">
+								<input type="hidden" name="returnUrl" value="https://web.archive.org/web/20100201124420id_/http%3A//www.millipore.com/ec/cp3/security">
 								<script language="JavaScript"> 
 								<!--
 									document.loginForm.returnUrl.value = location.href;
 								//-->
 								</script>
 								
-								<input type="submit" name="actionName" value="Login" class="submit">
-							</form>
+								<input type="submit" name="actionName" value="Login" class="submit"></form>
 						</div>
-						
-						
-					
-					<!-- Start: user_nav_conditional - My Account -->
+						<!-- Start: user_nav_conditional - My Account -->
 					<div class="user_nav_conditional" id="userNavConditionalAccount">
 						<ul id="userNavSub">
 							<li><a href="/accounts/quicklist.do">My Favorites</a></li>
 							<li><a href="/ec/millitrack.do">Track Order</a></li>
 							<li><a href="/ec/quickpurchase.do">Quick Purchase</a></li>
 							<li><a href="/accounts/accountprofile.do">My Account Profile</a></li>
-							<li><a href="/pressroom/pr3/rss_feeds_podcasts">My RSS Feeds</a></li>
+							<li><a href="/press/pr3/rss_feeds_podcasts">My RSS Feeds</a></li>
 						</ul>
 					</div>
 					<!-- Start: user_nav_conditional - Shopping Cart -->
@@ -424,27 +186,24 @@
 						</div>
 						<select name="tabValue" class="field" onkeypress="doOnEnter(event);">
 							<option value="">Entire site</option>
-							
-													
 							<option value="PC">Product Catalogue</option>
-													
-							<option value="TLB">Technical Library</option>
-													
-							<option value="LC">Learning Center</option>
-													
-							<option value="PS">Press Room</option>
-													
-							<option value="OTH">Other</option>
-						
+						<option value="TLB">Technical Library</option>
+						<option value="LC">Learning Center</option>
+						<option value="PS">Press Room</option>
+						<option value="OTH">Other</option>
 						</select>
 						
-						<input type="text" name="q" class="field" maxlength="500">
+						<!-- input type="text" name="q" id="q" class="field" maxlength="500" autocomplete="off"/ -->
+						<input type="text" name="q" id="q" class="field" maxlength="500" autocomplete="off" onfocus="initAutocomplete();">
+						
+                        <!-- div id="autocomplete" class="autocomplete" style="display:none;"></div -->
+
 						<label>Search</label>
 						<div class="clear_right"></div>
 					</form>
 				</div>
-				<div class="clear_right"></div>
 				
+				<div class="clear_right"></div>
 				<ul id="mainNav" class="en">
 					<li class="first"><a href="/index.do">Home</a></li>
 					<li><a href="/catalogue/index.do">Products</a></li>
@@ -458,180 +217,67 @@
 				<div class="clear"></div>
 			</div>
 
-			
-			
-				<!-- Start: userModule -->
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="source_content" id="favs_content">
-	Content Loading...
-</div>
+			<!-- Start: userModule -->
+				<div class="source_content" id="favs_content">
+	Content Loading...</div>
 <div class="source_content" id="cart_content">
-	Content Loading...
-</div>
+	Content Loading...</div>
 <div id="userModule" class="en">
 	<div class="cart">
 		<a href="#" id="cart_btn"><span>Your Cart</span></a>
-		
-			
-			
-				<p><a href="/ec/cart.do">0 Items</a></p>
-			
-		
-	</div>
+		<p><a href="/ec/cart.do">0 Items</a></p>
+			</div>
 	<div class="favorites">
 		<a href="#" id="fav_btn"><span>Favorites</span></a>
-		
-			
-			
-				<p><a href="/accounts/quicklist.do">0 Items</a></p>
-			
-		
-	</div>
+		<p><a href="/accounts/quicklist.do">0 Items</a></p>
+			</div>
 	<div class="clear"></div>
 	<div id="lastItem">
 		<span>Last Item Added:</span> 
-		
 		<span class="item_name">
-			
-				
-				0 Items
-			
-		</span>
+			0 Items</span>
 	</div>
 </div>
 <div class="window" id="cart_and_favs_win">
 	<div id="cart_and_favs_win_content">
-			Content Loading...
-	</div>
+			Content Loading...</div>
 	<div id="cart_edit">
-		<a href="/ec/cart.do" class="block_link">&nbsp;»&nbsp;Edit Your Cart&nbsp;</a>
+		<a href="/ec/cart.do" class="block_link">&nbsp;»&nbsp;EditYour Cart&nbsp;</a>
 	</div>
 	<div id="fav_edit">
-		<a href="/accounts/quicklist.do" class="block_link">&nbsp;»&nbsp;Edit Favorites&nbsp;</a>
+		<a href="/accounts/quicklist.do" class="block_link">&nbsp;»&nbsp;EditFavorites&nbsp;</a>
 	</div>
 	<a href="#" id="cart_and_favs_close">» Close</a>
-</div>
-			
-		
-			
-				<div class="clear"></div>
+</div><div class="clear"></div>
 				<div class="hr"></div>
 				<!-- End: header -->
 				<!-- Start: content -->
 				<div id="content">
-			
-
-			
-			
-			
-
-		
 			<div id="globalLeftNav">
-			
-				
-				
-					
-					
-						
-
-
-
-
-
-
-
-
-
-
-
-<!-- Start: filterResults -->
+			<!-- Start: filterResults -->
 <div id="filterResults">
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
 	<div class="filter_module collapsible_container open">
-		<a class="collapsible_controller">About Millipore</a>
+		<a class="collapsible_controller">Company Information</a>
 		<ul>
-			
-				<li><a href="/company/cp3/company_information">Company Information</a></li>
-			
-				<li><a href="/company/ir3/investor_relations">Investor Relations</a></li>
-			
-				<li><a href="/careers/hr2/careershome">Careers</a></li>
-			
-				<li><a href="/press/pr/press_room">Media Room</a></li>
-			
-				<li><a href="/corporategiving/mf3/corporate_giving">Corporate Giving Program</a></li>
-			
-				<li><a href="/sustainability/eco3/home">Sustainability</a></li>
-			
-				<li><a href="/company/cq3/corporate_quality">Quality Assurance &amp; Regulatory Affairs</a></li>
-			
-		</ul>
+			<li><a href="/company/cp4/companyinformation">Company Information</a></li>
+			<li><a href="/company/cp3/company_information">About Millipore</a></li>
+			<li><a href="/company/ir3/investor_relations">Investor Relations</a></li>
+			<li><a href="/careers/hr2/careershome">Careers</a></li>
+			<li><a href="/press/pr/press_room">Media Room</a></li>
+			<li><a href="/sustainability/eco3/home">Sustainability</a></li>
+			<li><a href="/corporategiving/mf3/corporate_giving">Corporate Giving Program</a></li>
+			<li><a href="/company/cq3/corporate_quality">Quality Assurance &amp; Regulatory Affairs</a></li>
+			</ul>
 	</div>
-
-	<div id="topic_nav_menu">Loading...</div>
+<div id="topic_nav_menu">Loading...</div>
 </div>
-
 <script language="JavaScript" type="text/javascript">
 	showLoadingMessage("topic_nav_menu");
 </script>
-
-<!-- End: filterResults -->	
-					
-				
-			
-			</div>
+<!-- End: filterResults --></div>
 		  
-			
-			
-				
-			
-			
-			
-			
-			
 			<!--  insert the body -->
-			
-				
-				
-					
-
-
-
-
-
-
-
-
-
-
-
-<script language="javascript" type="text/javascript" src="/js/collapsible_containers.js"></script>
+			<script language="javascript" type="text/javascript" src="/js/collapsible_containers.js"></script>
 <script language="JavaScript" type="text/javascript">
 	function initSub() {
 		initCollapsibleContainers();
@@ -709,321 +355,133 @@
 </tbody></table>
 <script src="https://seal.verisign.com/getseal?host_name=www.millipore.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=NO"></script>
 <ul><!-- BEGIN DOC DATA --><!--
-key|security~taxonomy|~keyword|~title|Security and Privacy~description|Millipore's online security and privacy policy.~search|
+key|security~taxonomy|~keyword|~title|Security and Privacy~description|Millipore's online security and privacy policy.~search|~unid|A90B4275C39FA17D85257368006D2A42~category|~fastkeyword|~module|~args|~countryrequired|
 --><!-- END DOC DATA -->
 <!-- WebLoginAnonymous -->
-<!-- END CONTENT PAGE -->
-</ul></b></b></b></b></b></b></div><b><b><b>
-
-
+<!-- END CONTENT PAGE --></ul></b></b></b></b></b></b></div><b><b><b>
 
 <script language="JavaScript" type="text/javascript">
 
-	callUrlWithRequest(requestTopicNavMenu, "/pages/navmenu/shared/topics.jsp?taxonomy=&keyword=&title=Security+and+Privacy&key=security&description=Millipore's+online+security+and+privacy+policy.&cmssearch=&secure=&menu=companyInformation", writeTopicNavMenu);
+	callUrlWithRequestPost("/pages/navmenu/shared/topics.jsp?menu=companyInformation", "?taxonomy=&keyword=&title=Security+and+Privacy&key=security&description=Millipore's+online+security+and+privacy+policy.&cmssearch=&secure=", "topic_nav_menu");
 	
-	callUrlWithRequest(requestStockTicker, "/corporate/stockticker.do?taxonomy=&keyword=&title=Security+and+Privacy&key=security&description=Millipore's+online+security+and+privacy+policy.&cmssearch=&secure=", writeStockTicker);
-</script>	
-				
-			
-			
-			
-		    
-				
-				
-					
-					
-						
-
-
-
-
-
-
-
-
-
-
-
-<div id="productActions">
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
+	callUrlWithRequestPost("/corporate/stockticker.do", "", "stock_ticker");
+</script><div id="productActions">
 	<h4 class="first">Sustainability</h4>
 	<p>
-		<img src="/config.nsf/files/company/$file/Sustainability_Widget_for_Company_pages.jpg" alt="img" class="imgRight">
-	     Our commitment to environmental stewardship.
-	</p>
-	<p><a href="/sustainability/eco3/home" class="viewall">» More</a></p>
-
- 
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<h4>Find A Location</h4>
+		<img src="/config/files/sustainability/$file/reportcover75px.jpg" alt="img" class="imgRight">Sustainability is an opportunity - and a responsibility. Read more in our 2008 Sustainability Report.</p>
+	<p><a href="/sustainability/eco2/sustainability_report" class="viewall">More »</a></p>	
+<h4>Find A Location</h4>
 	<p>Find the Millipore office or expert closest to you.</p>
 	<ul>
-		
-			<li><a href="/offices/cp3/officeshome"><img src="/corporate.nsf/files/2007icons/$file/icon_world.gif" class="iconleft" alt="icon">Local Millipore Offices &amp; Phone Numbers</a></li>
-		
-			<li><a href="/sales/cp3/ecardhome"><img src="/corporate.nsf/files/2007icons/$file/icon_group.gif" class="iconleft" alt="icon">Local Application Specialists</a></li>
-		
-	</ul>
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<h4>Contact Us</h4>
+		<li><a href="/offices/cp3/officeshome"><img src="/corporate.nsf/files/2007icons/$file/icon_world.gif" class="iconleft" alt="icon">Local Millipore Offices &amp; Phone Numbers</a></li>
+		<li><a href="/sales/cp3/ecardhome"><img src="/corporate.nsf/files/2007icons/$file/icon_group.gif" class="iconleft" alt="icon">Local Application Specialists</a></li>
+		</ul>
+<h4>Contact Us</h4>
 	<p>We want to hear from you. Contact a specific department below or click "Suggestions and Feedback" to send your comments.</p>
 	<ul>
-		
-			<li><a href="/support"><img src="/corporate.nsf/files/2007icons/$file/icon_tech.gif" class="iconleft" alt="icon">Millipore Support</a></li>
-		
-			<li><a href="/reply/form/techservice"><img src="/corporate.nsf/files/2007icons/$file/icon_tech.gif" class="iconleft" alt="icon">Technical Service</a></li>
-		
-			<li><a href="/reply/form/customerservice"><img src="/corporate.nsf/files/2007icons/$file/icon_telephone.gif" class="iconleft" alt="icon">Customer Service</a></li>
-		
-			<li><a href="/offices/cp3/officeshome"><img src="/company/files/2007icons/$file/icon_telephone.gif" class="iconleft" alt="icon">Worldwide Offices</a></li>
-		
-			<li><a href="/reply/form/webmaster"><img src="/corporate.nsf/files/2007icons/$file/icon_feedback.gif" class="iconleft" alt="icon">Suggestions &amp; Feedback</a></li>
-		
-			<li><a href="/reply/form/imagerequest"><img src="/corporate.nsf/files/2007icons/$file/icon_disk.gif" class="iconleft" alt="icon">Media Use Request</a></li>
-		
-			<li><a href="/company/cp3/cdtt"><img src="/corporate.nsf/files/2007icons/$file/icon_telephone.gif" class="iconleft" alt="icon">Department of Technology Transfer</a></li>
-		
-	</ul>
-	
-</div>	
-					
-				
-			
-					
-		  
-
-
-
-
-
-
-
-
-
-
-
-			<!-- End: content -->
+		<li><a href="/support"><img src="/corporate.nsf/files/2007icons/$file/icon_tech.gif" class="iconleft" alt="icon">Millipore Support</a></li>
+		<li><a href="/reply/form/techservice"><img src="/corporate.nsf/files/2007icons/$file/icon_tech.gif" class="iconleft" alt="icon">Technical Service</a></li>
+		<li><a href="/reply/form/customerservice"><img src="/corporate.nsf/files/2007icons/$file/icon_telephone.gif" class="iconleft" alt="icon">Customer Service</a></li>
+		<li><a href="/offices/cp3/officeshome"><img src="/company/files/2007icons/$file/icon_telephone.gif" class="iconleft" alt="icon">Worldwide Offices</a></li>
+		<li><a href="javascript:s.Survey.launch(getOmnitureFeedbackSurveyId());void(null);"><img src="/corporate.nsf/files/2007icons/$file/icon_feedback.gif" class="iconleft" alt="icon">Suggestions &amp; Feedback</a></li>
+		<li><a href="/reply/form/imagerequest"><img src="/corporate.nsf/files/2007icons/$file/icon_disk.gif" class="iconleft" alt="icon">Media Use Request</a></li>
+		<li><a href="/company/cp3/cdtt"><img src="/corporate.nsf/files/2007icons/$file/icon_telephone.gif" class="iconleft" alt="icon">Department of Technology Transfer</a></li>
+		</ul>
+</div><!-- End: content -->
 			<!-- Start: footer -->
-		 
-				<div class="clear"></div>
+		 <div class="clear"></div>
 			</b></b></b></div><b><b><b>
-		
-			<div id="footer">
+		<div id="footer">
 				<ul>
-					<li><a href="/index.do">Home</a></li>
-					<span>|</span>
+				    <li><a href="/index.do">Home</a></li>
+	                    <span>|</span>
 					<li><a href="/country.do">Change Country</a></li>
 					<span>|</span>
 					<li><a href="/company/cp3/legal">Legal/Trademark</a></li>
 					<span>|</span>
 					<li><a href="/ec/cp3/security">Privacy</a></li>
 					<span>|</span>
-					<li><a href="/ec/cp3/faq">FAQs</a></li>
+						<li><a href="/ec/cp3/faq">FAQs</a></li>
 					<span>|</span>
-					<li><a href="javascript:O_LC()">Site Feedback</a></li>
+					<li><a href="javascript:" onclick="javascript:s.Survey.launch(getOmnitureFeedbackSurveyId());">Site Feedback</a></li>
 					<span>|</span>
 					<li><a href="/sitemap/home">Site Map</a></li>
 				</ul>
 				<ul>
-				
-					<li><a href="/lang.do?lang=en&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">English</a></li>
+				<li><a href="/lang.do?lang=en&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">English</a></li>
 					<span>|</span>
-				
-					<li><a href="/lang.do?lang=fr&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">Français</a></li>
+				<li><a href="/lang.do?lang=fr&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">Français</a></li>
 					<span>|</span>
-				
-					<li><a href="/lang.do?lang=it&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">Italiano</a></li>
+				<li><a href="/lang.do?lang=it&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">Italiano</a></li>
 					<span>|</span>
-				
-					<li><a href="/lang.do?lang=de&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">Deutsch</a></li>
+				<li><a href="/lang.do?lang=de&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">Deutsch</a></li>
 					<span>|</span>
-				
-					<li><a href="/lang.do?lang=es&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">Español</a></li>
+				<li><a href="/lang.do?lang=es&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">Español</a></li>
 					<span>|</span>
-				
-					<li><a href="/lang.do?lang=pt&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">Português</a></li>
+				<li><a href="/lang.do?lang=pt&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">Português</a></li>
 					<span>|</span>
-				
-					<li><a href="/lang.do?lang=ja&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">日本語</a></li>
+				<li><a href="/lang.do?lang=ja&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">日本語</a></li>
 					<span>|</span>
-				
-					<li><a href="/lang.do?lang=zh&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">中文</a></li>
+				<li><a href="/lang.do?lang=zh&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">中文</a></li>
 					<span>|</span>
-				
 				</ul>
-				
-				<div class="printCopyright">© 1994-Sat May 09 16:04:04 EDT 2009 Millipore Corporation. All rights reserved.</div>
+				<div class="printCopyright">© 1994-Mon Feb 01 07:44:18 EST 2010 Millipore Corporation. All rights reserved.</div>
 			</div>
-			<!-- End: footer -->
-  		</b></b></b></div><b><b><b>
+			
+			<div id="autocomplete" class="autocomplete" style="display:none;z-index:99999"></div>
+			<script language="javascript" type="text/javascript">
+		              if (top.location != location)
+		        	  {
+		            	  top.location.href = document.location.href;
+		              }
+		          </script>
+		       <!-- End: footer --></b></b></b></div><b><b><b>
 		<!-- End: wrapper -->
-		
 		<form id="previouspage" method="GET" name="previouspage">
 	<input type="hidden" name="previousPage" value="">
-</form>
-		
-
-
-
-
-
-
-
-
-
-
-
-<form id="debug" method="GET" name="debug">
-    <input type="hidden" id="serverName" name="serverName" value="jspbedprod02.millipore.com">
-    <input type="hidden" id="actionResponseMs" name="actionResponseMs" value="32 ms">
+</form><form id="debug" method="GET" name="debug">
+    <input type="hidden" id="serverName" name="serverName" value="jspbilprod01.millipore.com">
+    <input type="hidden" id="actionResponseMs" name="actionResponseMs" value="556 ms">
     <input type="hidden" id="soapResponseMs" name="soapResponseMs" value="">
-    <input type="hidden" id="tomcatResponseMs" name="tomcatResponseMs" value="37 ms">
+    <input type="hidden" id="tomcatResponseMs" name="tomcatResponseMs" value="556 ms">
     <input type="hidden" id="initHeap" name="initHeap" value="0">
     <input type="hidden" id="initNonHeap" name="initNonHeap" value="19136512">
-    <input type="hidden" id="maxHeap" name="maxHeap" value="2067333120">
+    <input type="hidden" id="maxHeap" name="maxHeap" value="2019491840">
     <input type="hidden" id="maxNonHeap" name="maxNonHeap" value="117440512">
-    <input type="hidden" id="commHeap" name="commHeap" value="2067333120">
-    <input type="hidden" id="commNonHeap" name="commNonHeap" value="90243072">
-    <input type="hidden" id="usedHeap" name="usedHeap" value="2060357816">
-    <input type="hidden" id="usedNonHeap" name="usedNonHeap" value="71127392">
-</form>
-		
+    <input type="hidden" id="commHeap" name="commHeap" value="795869184">
+    <input type="hidden" id="commNonHeap" name="commNonHeap" value="71106560">
+    <input type="hidden" id="usedHeap" name="usedHeap" value="765307120">
+    <input type="hidden" id="usedNonHeap" name="usedNonHeap" value="70311896">
+</form><script type="text/javascript" language="JavaScript" src="/js/s_code.js"></script><img name="s_i_foundrynetcom" height="1" width="1" border="0" alt="" src="https://foundrynetworks.122.2O7.net/b/ss/foundrynetcom/1/H.2-Pdv-2/s26374617563801?[AQB]&amp;ndh=1&amp;t=31/0/2020%2018%3A7%3A25%205%200&amp;ce=8859_1&amp;ns=foundrynetworks&amp;pageName=corporate%3Asecurity&amp;g=https%3A//web.archive.org/web/20100201124420id_/http%253A//www.millipore.com/ec/cp3/security&amp;cc=USD&amp;ch=corporate&amp;server=jspbilprod01.millipore.com&amp;events=event17&amp;c1=public&amp;c4=public&amp;c7=en&amp;c8=00&amp;v16=corporate&amp;v36=200&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+	
+	<script language="JavaScript">	
+		s.pageName="corporate:security"
+		s.server="jspbilprod01.millipore.com"
+		s.channel="corporate"
 
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
+		s.eVar36="200"
+		s.eVar16="corporate"
+		s.prop1="public"
 		
-	
-
-
-
-	<script type="text/javascript" language="JavaScript" src="/js/s_code.js"></script><img name="s_i_foundrynetcom" height="1" width="1" border="0" alt="" src="https://foundrynetworks.122.2O7.net/b/ss/foundrynetcom/1/H.2-Pdv-2/s23759384319594?[AQB]&amp;ndh=1&amp;t=31/0/2020%2018%3A7%3A19%205%200&amp;ce=8859_1&amp;ns=foundrynetworks&amp;pageName=corporate%3Asecurity&amp;g=https%3A//web.archive.org/web/20090509200405id_/http%253A//www.millipore.com/ec/cp3/security&amp;cc=USD&amp;ch=corporate&amp;server=jspbedprod02.millipore.com&amp;v5=Walk-in&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
-	
-	
-		
-	
-		
-	
-		
-	
-		
-	
-	
-	<script language="JavaScript">
-	<!--
-	s.pageName="corporate:security"
-	s.server="jspbedprod02.millipore.com"
-	s.channel="corporate"
-	s.prop1=""
-	
-	
-		
-		
-	
-		
-		
-		
-	
-		
-	 
-		
-	 
-		
-	
-		
-		
-		
-		
-	
-	
-		
-		
-		
-	
-		
+				s.prop4="public"		
 			
+		s.prop7="en"
+	
+		
+				s.prop8="00"
 			
-	s.eVar5="Walk-in"
-			
-		
+			s.events="event17"
 		
 	
 		
-		
-	
-		
-		
-	
-		
-	
-	
-		
-		
-		
-		
-		
-	
-		
-	
-	//************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-	var s_code=s.t();if(s_code)document.write(s_code)
-	//-->
+		//************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+		var s_code=s.t();if(s_code)document.write(s_code)
+		//-->	
 	</script>
 
 	
+	
   
-<!-- Action response time: 32 ms-->
+<!-- Action response time: 0 ms-->
 <!-- Tomcat response time: -->
-<!-- Tomcat response time: 37 ms--></b></b></b></body></html>
+<!-- Tomcat response time: 2361 ms--></b></b></b></body></html>
