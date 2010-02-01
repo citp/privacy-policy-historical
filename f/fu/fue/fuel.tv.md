@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuel.tv privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202053446id_/http%3A//www.fuel.tv/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuel.tv privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201050622id_/http%3A//www.fuel.tv/help/privacy) for the most accurate reproduction.*
 
 # Help Privacy on FUEL.TV – Action Sports Videos, Webcasts, Photos, News, Blogs, & More
 
