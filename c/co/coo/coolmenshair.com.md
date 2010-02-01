@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolmenshair.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231054824id_/http%3A//coolmenshair.com/2008/02/privacy-policy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmenshair.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201130512id_/http%3A//coolmenshair.com/2008/02/privacy-policy-statement.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement | CoolMensHair.com
 
