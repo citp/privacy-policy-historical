@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edgetechcorp.com privacy policy that was archived on 2007-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071003220359id_/http%3A//www.edgetechcorp.com/help/%3Fp%3Dpriva-pol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgetechcorp.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201171519id_/http%3A//www.edgetechcorp.com/help/%3Fp%3Dpriva-pol) for the most accurate reproduction.*
 
 # Help - EDGE Tech Corp
 
@@ -13,6 +13,3 @@ EDGE Tech Corp uses the latest industry standard technologies to ensure your sho
 EDGE Tech Corp does not allow any purchases from customers under the age of 13. If you are under the age of 13, please shop online with the aid of a parent or guardian.
 
 By visiting [http://www.edgetechcorp.com](http://www.edgetechcorp.com/), you are accepting the practices described in this Privacy Policy.
-
-[](https://web.archive.org/store/memory.aspx) | [](https://web.archive.org/digital-media/) | [](https://web.archive.org/storage/) | [](https://web.archive.org/usb-flash-drives/) | [](https://web.archive.org/accessories/)  
----|---|---|---|---
