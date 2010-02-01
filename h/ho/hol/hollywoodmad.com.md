@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodmad.com privacy policy that was archived on 2009-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091017092006id_/http%3A//www.hollywoodmad.com/page/3/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodmad.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201223049id_/http%3A//www.hollywoodmad.com/page/3/privacy_policy) for the most accurate reproduction.*
 
 # Hollywood Mad - Hollywood Mad - Privacy Policy
 
