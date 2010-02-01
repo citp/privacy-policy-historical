@@ -1,787 +1,897 @@
-<!--The following is the downloaded HTML source of the hmv.ca privacy policy that was archived on 2008-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081115012932id_/http%3A//www.hmv.ca/hmvcaweb/en_CA/navigate.do%3FpPageID%3D100000002) for the most accurate reproduction.-->
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-		
-
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-		<meta http-equiv="PRAGMA" content="NO-CACHE">
-		
-		
-
-
-
-
-
-
-<title>HMV.ca: music, dvd and games</title>
-<meta name="description" content="Find, shop for, and buy products at hmv.ca">
-<meta name="keywords" content="hmv.ca, hmv.com">
- 
-
-
-		
-		<link rel="search" type="application/opensearchdescription+xml" title="HMV.ca Search" href="http://www3.hmv.ca/hmvca/scripts/openSearch.xml">
-	
-		<!-- INSTANCE: WS -->
-		<!-- WEB-HOST: CANXWAS2 -->
-		<link href="http://www.hmv.ca/hmvcaweb/favicon.ico" rel="Shortcut Icon" type="image/x-icon">
-		<link href="http://www3.hmv.ca/hmvca/theme/en_CA/screen.css" rel="stylesheet" type="text/css" media="screen">
-		
-		<!--[if lte IE 6]><link href="http://www3.hmv.ca/hmvca/theme/en_CA/ie.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
-		<!--[if IE 7]><link href="http://www3.hmv.ca/hmvca/theme/en_CA/ie7.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
-		<link href="http://www3.hmv.ca/hmvca/theme/en_CA/disabled.css" rel="stylesheet" type="text/css" media="screen">
-		<link href="http://www3.hmv.ca/hmvca/theme/en_CA/print.css" rel="stylesheet" type="text/css" media="print">
-		<script type="text/javascript" src="http://www3.hmv.ca/hmvca/scripts/jquery.js"></script>
-		<script type="text/javascript" src="http://www3.hmv.ca/hmvca/scripts/global.js"></script>
-		<script type="text/javascript" src="http://www3.hmv.ca/hmvca/scripts/application.js"></script>
-		<script type="text/javascript" src="http://www3.hmv.ca/hmvca/scripts/swfobject.js"></script>
-
-		
-
-
-
-
-
-<script type="text/javascript">
-	////////////////////////////////////////////////////////////////
-	// Function : getYears()                                      //
-	// Description : Outputs all years as a drop down select      //
-	//                                                            //
-	// difference = The difference to the current year to display //
-	// direction = 1 is ascending, 0 is descending                //
-	//                                                            //
-	// Returns : currentYear to (currentYear - difference)        //
-	////////////////////////////////////////////////////////////////
-	function getYears(difference, direction)
-	{	
-		var curdate = new Date();
-		var thisYear = curdate.getFullYear();	
-		
-		text = '<select name="year" id="year"><option value="">Year</option>';
-		
-		if (direction == 1)
-		{
-			for (var i = thisYear; i > thisYear - difference; i--) 		
-			{
-		   		text += '\n<option value="' + i + '">' + i + '</option>';
-			}
-		}
-		else
-		{
-			for (var i = thisYear - difference ; i <= thisYear ; i++) 		
-			{
-		   		text += '\n<option value="' + i + '">' + i + '</option>';
-			}
-		}
-		
-		text += '</select>';
-		document.write(text);			
-	}									
-		
-	////////////////////////////////////////////////////////////////////
-	// Function : getDaysOfTheMonth()                                 //
-	// Description : Gets the days of the month as a drop down select //
-	//                                                                //
-	// Returns : 1 to 31                                              //
-	////////////////////////////////////////////////////////////////////
-	function getDaysOfTheMonth()
-	{	
-		text = '<select name="day" id="day"><option value="">Day</option>';
-		
-		for (var i = 1; i < 32; i++) 
-		{
-			if (i < 10)
-			{
-		   		text += '\n<option value="0' + i + '">0' + i + '</option>';
-		   	}
-		   	else
-		   	{
-		   		text += '\n<option value="' + i + '">' + i + '</option>';
-		   	}
-		}
-		
-		text += '</select>';
-		document.write(text);			
-	}
-	
-	////////////////////////////////////////////////////////////////////
-	// Function : getMonthsOfTheYear()                                //
-	// Description: Gets the months of the year as a drop down select //
-	//                                                                //
-	// Returns : 1 to 12                                              //
-	////////////////////////////////////////////////////////////////////
-	function getMonthsOfTheYear(sizeToShow)
-	{	
-		var months = new Array('January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December');
-		text = '<select name="month" id="month"><option value="">Month</option>';
-		
-		for (var i = 1; i < 13; i++) 
-		{
-			// Sizes don't work with HTML entities
-			//if (sizeToShow > 0)
-			//{
-			//	thisMonth = months[i - 1].substring(0, sizeToShow);
-			//}
-			thisMonth = months[i - 1];
-		
-			if (i < 10)
-			{ 
-		   		text += '\n<option value="0' + i + '">' + thisMonth + '</option>';
-		   	}
-		   	else
-		   	{
-		   		text += '\n<option value="' + i + '">' + thisMonth + '</option>';
-		   	}
-		}
-		
-		text += '</select>';
-		document.write(text);			
-	}
-
-	// Double click form submit protection
-	var isFormSubmitted = false;
-
-	function checkFormNotSubmitted()
-	{
-	    if (isFormSubmitted)
-	    {
-	        return (false);
-	    }
-	    else
-	    {
-	        isFormSubmitted = true;
-	
-	        return (true);
-	    }
-	}
-	
-	function resetFormNotSubmitted()
-	{
-		isFormSubmitted = false;
-	}
-</script>
-	</head>
-
-	<!-- START WEBSITE BASE LAYOUT ONE COL BODY -->
-	<body class="one-col">
-		
-
-
-
-
-
-
-		<div id="container-outer">
-			<div id="container-inner">
-				<div id="container">
-					<ul id="accessibility">
-						<li><a href="#content-primary" accesskey="q">Skip to page content</a></li>
-					</ul>
-					
-					
-
-
-
-
-
-
-
-<!-- START HEADER LAYOUT -->
-<div id="header">
-	
-
-
-
-
-
-
-
-
-
-
-
-<!-- Start of Locale Switcher -->
-
-
-<script type="text/javascript">
-	function switchLocale() {
-		
-				// History request - GET
-				location.href = "http://www.hmv.ca/hmvcaweb/fr_CA/home.do";
-			
-		
-	}
-</script>
-
-
-<!-- End of Locale Switcher -->
-
-<!-- Start of Header -->
-
-
-
-
-<p class="header-logo">
-	<a href="http://www.hmv.ca/hmvcaweb/en_CA/home.do" title="HMV.ca - Music, DVD, Games and More">
-		<img src="http://www3.hmv.ca/hmvca/graphics/en_CA/global/header_logo.gif" alt="Go to homepage" width="180" height="80">
-	</a>
-</p>
-
-<div id="navigation"> 
-	<ul>
-		
-			<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/home.do">home</a></li>
-		
-		
-		
-			<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?ctx=10001">music</a></li>
-		
-		
-		
-			<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?ctx=10002">dvd</a></li>
-		
-		
-		
-			<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?ctx=10003">games</a></li>
-		
-		
-		
-			<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=1002">chart</a></li>
-		
-		
-		
-			<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/offers.do">promotions</a></li>
-		
-		
-		
-			<li id="NNewReleases"><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=1004">new releases</a></li>
-		
-	</ul>
-</div>
-
-<div id="navigation-global">
-	<ul class="clearfix">
-		<li class="language">
-			<a href="javascript:switchLocale()">
-				Français
-			</a>
-		</li>
-
-							
-			<li class="signin">
-				<a href="https://www.hmv.ca/hmvcaweb/en_CA/displayLogin.do?specificRedirect=/displayMyDetails.do">
-					Sign in
-				</a>
-			</li>
-		
-
-		<li class="wishlist"><a href="http://www.hmv.ca/hmvcaweb/en_CA/displayMyWishList.do?wishListDisplayed=1">Wish list</a></li>
-		
-		
-			<li class="youraccount">
-				<a href="https://www.hmv.ca/hmvcaweb/en_CA/displayLogin.do?specificRedirect=/displayMyDetails.do">
-					Your account
-				</a>
-			</li>
-		
-
-		
-		
-		
-
-		<li class="help"><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000001">Help</a></li>
-<!-- End of Header -->
-	
-
-
-
-
-
-<!-- Start of Basket -->
-
-		<li class="basket" style="display:none"> 
-			<div>
-				
-				
-				
-				
-				<a href="http://www.hmv.ca/hmvcaweb/en_CA/basket.do">
-					Reserved <span class="hi-light">(0)</span> items
-				</a>
-				<ul>
-					<li class="items"><span class="hi-light">0</span> items - Total: <strong class="hi-light">CDN $0.00</strong></li>
-					<li class="viewcheckout"></li>
-					<li class="viewcheckout"><a href="http://www.hmv.ca/hmvcaweb/en_CA/basket.do">View reserved items</a></li>
-				</ul>
-				
-				
-				
-				
-			</div>
-		</li>
-	</ul><!-- Closed from Header -->
-</div><!-- Closed from Header -->
-<!-- End of Basket -->
-</div><!-- Closes #header-->
-<!-- END HEADER LAYOUT -->
-
-<!-- JavaScript for Send To Friend (to bypass caching) - in headerLayout.jsp -->
-<script type="text/javascript">
-	function showSendToFriend()
-	{
-		var isLoggedIn = false;
-		
-		if (isLoggedIn)
-		{
-			showObject('sendtofriend');
-			return false;
-		}
-		else
-		{
-			showObject('sendtofriend-nologin');
-			return false;
-		}
-	}
-
-	function hideSendToFriend()
-	{
-		var isLoggedIn = false;
-		
-		if (isLoggedIn)
-		{
-			hideObject('sendtofriend');
-			return false;
-		}
-		else
-		{
-			hideObject('sendtofriend-nologin');
-			return false;
-		}
-	}
-</script>
-<!-- End of Send To Friend JavaScript -->
-
-<!-- Start of Artist Search Form - in headerLayout.jsp -->
-<script type="text/javascript">
-	function doArtistSearch(artistID)
-	{
-		document.getElementById('artistSearchID').value = artistID;
-		document.getElementById('artistSearchForm').submit();
-	}
-</script>
-
-<form id="artistSearchForm" action="http://www.hmv.ca/hmvcaweb/en_CA/simpleSearch.do" method="get">
-	<input type="hidden" id="artistSearchID" name="artistIDFilter">
-	<input type="hidden" name="searchType" value="11">
-</form>
-<!-- End of Artist Search Form -->
-
-<!-- Start of Record Label Search Form - in headerLayout.jsp -->
-<script type="text/javascript">
-	function doRecordLabelSearch(searchString)
-	{
-		searchString = searchString.replace(/&#34;/g, '\"');
-		searchString = searchString.replace(/&#39;/g, '\'');
-	
-		document.getElementById('recordLabelSearchString').value = searchString;
-		document.getElementById('recordLabelSearchForm').submit();
-	}
-</script>
-
-<form id="recordLabelSearchForm" action="http://www.hmv.ca/hmvcaweb/en_CA/simpleSearch.do" method="get">
-	<input type="hidden" id="recordLabelSearchString" name="labelFilter">
-	<input type="hidden" name="searchType" value="13">
-</form>
-<!-- End of Record Label Search Form -->
-
-<!-- Start of Media Player - in headerLayout.jsp -->
-<script type="text/javascript">
-	function playClip(clipURL)
-	{
-		var player = document.getElementById('mediaPlayer');
-		
-		if (player)
-		{
-			var output = "<embed type=\"application/x-mplayer2\" ";
-			output += "src=\"" + clipURL + "\" ";
-			output += "width=\"0\" ";
-			output += "height=\"0\" ";
-			output += "autostart=\"1\" ";
-			output += "showcontrols=\"0\"/>";
-			
-			player.innerHTML = output;
-		}
-	}
-</script>
-
-<span id="mediaPlayer"></span>
-<!-- End of Media Player -->
-
-
-					
-
-
-
-
-
-<!-- START HOME LEFT MARGIN LAYOUT -->
-
-
-
-
-
-
-<!-- Start of Simple Search -->
-	
-
-<script type="text/javascript">
-	function validateSimpleSearch()
-	{
-		var searchString = document.simpleSearchFrm.keywords.value;
-		
-		if ((searchString == "Enter artist, film, band, etc") || (stripleadingtrailingblanks(searchString).length < 1))
-		{
-			return (false);
-		}
-		
-		// Remove the ctx hidden field if type is not Music, DVD or Games
-		var selectedIndex = document.simpleSearchFrm.searchType.selectedIndex;
-		var searchType = document.simpleSearchFrm.searchType.options[selectedIndex].value;
-
-		if (searchType == 3) {
-			document.getElementById('contextField').value = 10001;
-		} else if (searchType == 4) {
-			document.getElementById('contextField').value = 10002;
-		} else if (searchType == 5) {
-			document.getElementById('contextField').value = 10003;
-		} else if (searchType == 20) {
-			document.getElementById('contextField').value = 10004;
-		} else if (searchType == 21) {
-			document.getElementById('contextField').value = 10006;
-		} else {
-			removeContext();
-		}
-
-		return (true);
-	}
-	
-	function clearQuotedField(object, value) {
-		value = value.replace(/@quote@/g, '\"');
-		value = value.replace(/@apos@/g, '\'');
-
-		clearField(object, value);
-	}
-	
-	function resetQuotedField(object, value) {
-		value = value.replace(/@quote@/g, '\"');
-		value = value.replace(/@apos@/g, '\'');
-
-		resetField(object, value);
-	}
-
-	function removeContext() {
-		var formElement = document.getElementById('searchbox');
-		var contextField = document.getElementById('contextField');
-		
-		formElement.removeChild(contextField);
-	}
-</script>
-<div id="searchglobal">
-	<form id="searchbar" name="simpleSearchFrm" action="http://www.hmv.ca/hmvcaweb/en_CA/simpleSearch.do" method="get" onsubmit="return validateSimpleSearch();">
-		<input type="hidden" id="contextField" name="ctx">
-		
-		<fieldset>
-			<legend>Search For...</legend>
-			<div class="frow frow-text">
-				<label for="keywords">
-					<span class="label">Search For...</span>
-					<span class="field"><input type="text" size="35" id="keywords" name="keywords" onfocus="clearQuotedField(this,'Enter artist, film, band, etc');" onblur="resetQuotedField(this,'Enter artist, film, band, etc');" value="Enter artist, film, band, etc"></span>
-				</label>
-			</div>
-			<div class="frow frow-select">	
-				<label for="searchType">
-					<span class="adn label">Categories</span>
-					<span class="field">
-						<select id="searchType" name="searchType">
-							<option value="2">All categories</option>
-							<option value="3">Music</option>
-							<option value="4">DVD</option>
-							<option value="5">Games</option>
-							<option value="20">Francophone</option>
-							<option value="21">Gadgets</option>
-							<option value="6">Artist</option>
-						</select>
-					</span>	
-				</label>
-			</div>
-			<div class="frow frow-action">
-				<p class="button button-search"><input name="btnSubmitSearch" type="image" class="button" id="btnSubmitSearch" src="http://www3.hmv.ca/hmvca/graphics/en_CA/buttons/searchbar_go.gif" alt="Go"></p>	
-				<p class="button button-advanced-search"><a href="http://www.hmv.ca/hmvcaweb/en_CA/displayAdvancedSearch.do"><img alt="Advanced search" src="http://www3.hmv.ca/hmvca/graphics/en_CA/buttons/searchbar_adv_search.gif" width="120" height="20"></a></p>				
-			</div>	
-		</fieldset>
-	</form>
-</div>	
-<!-- End of Simple Search  -->
-
-<div id="nav-secondary">	
-	<!-- START LEFT MARGIN COMPONENTS -->
-	
-
-
-
-
-
-
-			
-
-
-
-
-
-
-
-<div class="side-nav">
-	<h2>Help Menu</h2>
-	<ul>
-		
-				<li class="first"><a href="http://www.hmv.ca/hmvcaweb/en_CA/displayMailUs.do" title="Contact Us">Contact Us</a></li>
-			
-				<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000002" title="Customer Privacy Policy" class="active">Customer Privacy Policy</a></li>
-			
-				<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000067" title="Customer Reviews">Customer Reviews</a></li>
-			
-				<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000006" title="New Customers">New Customers</a></li>
-			
-				<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000010" title="Search Tips">Search Tips</a></li>
-			
-				<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000011" title="Security">Security</a></li>
-			
-				<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000013" title="Terms and Conditions">Terms and Conditions</a></li>
-			
-				<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000014" title="Website Privacy Policy">Website Privacy Policy</a></li>
-			
-				<li class="last"><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000003" title="Wish Lists">Wish Lists</a></li>
-			
-	</ul>
-</div> 
-		
-			
-
-
-
-
-
-<div class="signpost-grey banner-storefinder clearfix">
-	<h2>HMV Store Finder</h2>
-	<ul>
-		<li class="button"><p><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000031"><span>Find your local HMV</span></a></p></li>
-		<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000033"><span>Find HMV events</span></a></li>
-	</ul>
+<!--The following is the downloaded HTML source of the hmv.ca privacy policy that was archived on 2010-02-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100201200609id_/http%3A//www.hmv.ca/Info/CustomerPrivacyPolicy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	hmv.ca: music, dvd, videogames, MP3 digital downloads
+</title><link rel="stylesheet" href="../Resources/CSS/reset-min.css" type="text/css"><link rel="stylesheet" href="../Resources/CSS/StyleSheet.css" type="text/css"><link rel="stylesheet" href="../Resources/CSS/ProductRotators.css" type="text/css"><link rel="stylesheet" href="../Resources/CSS/jquery.countdown.css" type="text/css">
+    <!--[if IE]>
+        <link href="../Resources/CSS/jquery.countdown.ie.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <link rel="stylesheet" href="../Resources/masterTheme/jquery-ui.css" type="text/css"><link rel="stylesheet" href="../Resources/CSS/SignIn.css" type="text/css"><link rel="stylesheet" href="../Resources/CSS/jquery.lightbox-0.5.css" type="text/css"><link rel="stylesheet" href="../Resources/CSS/jquery.rating.css" type="text/css"><link rel="stylesheet" href="../Resources/CSS/jquery-captcha.css" type="text/css">
+    <!--[if lt IE 8]>
+        <link href="../Resources/CSS/StyleSheet.ie.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    
+    <link rel="SHORTCUT ICON" href="../images/Web/favicon.ico">
+    <!-- WEBSERVICE1 -->
+    
+    <title>HMV Canada Contact Us</title>
+</head>
+
+<body id="ctl00_MasterContentBody">
+
+    <form name="aspnetForm" method="post" action="/Info/CustomerPrivacyPolicy.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUIOTg2OTkzMzkPZBYCZg9kFgICAQ9kFgICARBkZBY4AgEPDxYEHglMb2dpblRleHQFB1NpZ24gaW4eCkxvZ291dFRleHQFCFNpZ24gb3V0ZGQCAg8PFgIeBFRleHQFDFlvdXIgQWNjb3VudGRkAgMPDxYCHwIFBEhlbHBkZAIEDw8WAh8CBQ9GcmFuJmNjZWRpbDthaXNkZAIGDw8WAh8CBQZzZWFyY2hkZAIIDxAPFgIeC18hRGF0YUJvdW5kZ2QQFQgMYWxsIHByb2R1Y3RzC2FjY2Vzc29yaWVzB2JsdS1yYXkFYm9va3MDRFZEBW11c2ljCnRlY2hub2xvZ3kKdmlkZW9nYW1lcxUIDGFsbCBwcm9kdWN0cwthY2Nlc3NvcmllcwdibHUtcmF5BWJvb2tzA0RWRAVtdXNpYwp0ZWNobm9sb2d5CnZpZGVvZ2FtZXMUKwMIZ2dnZ2dnZ2dkZAIJDw8WBB4FV2lkdGgbAAAAAAAwcUABAAAAHgRfIVNCAoACZGQCDA9kFgJmD2QWAgIBD2QWAgIBDxYCHgRocmVmBRFodHRwOi8vd3d3Lmhtdi5jYRYCAgEPDxYCHghJbWFnZVVybAUnL2ltYWdlcy9ITVYvQmFubmVycy8wOWhtdl9iYW5uZXJfQ0EuZ2lmZGQCDQ8PFgIfAgUNc3RvcmUgbG9jYXRvcmRkAg4PDxYCHwIFBWNoYXJ0ZGQCDw8PFgIfAgUMbmV3IHJlbGVhc2VzZGQCEA8PFgIfAgUIY29udGVzdHNkZAIRDw8WAh8CBQpwcm9tb3Rpb25zZGQCEg8WAh4JaW5uZXJodG1sBQRob21lZAITD2QWEGYPFgIfCAWxBDxhIGhyZWY9Jy9Qcm9kdWN0cy9WaWRlb2dhbWVzLmFzcHgnPnZpZGVvZ2FtZXM8L2E+DQo8dWwgc3R5bGU9J3dpZHRoOiAxMzBweDsnPg0KPGxpPjxhIGhyZWY9Jy9Qcm9kdWN0cy9WaWRlb2dhbWVzL05pbnRlbmRvK0RTLmFzcHgnPk5pbnRlbmRvIERTPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL1ZpZGVvZ2FtZXMvUGxheXN0YXRpb24rMi5hc3B4Jz5QbGF5c3RhdGlvbiAyPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL1ZpZGVvZ2FtZXMvUGxheXN0YXRpb24rMy5hc3B4Jz5QbGF5c3RhdGlvbiAzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL1ZpZGVvZ2FtZXMvUFNQLmFzcHgnPlBTUDwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Jy9Qcm9kdWN0cy9WaWRlb2dhbWVzL1dpaS5hc3B4Jz5XaWk8L2E+PC9saT4NCjxsaT48YSBocmVmPScvUHJvZHVjdHMvVmlkZW9nYW1lcy9YYm94LmFzcHgnPlhib3g8L2E+PC9saT4NCjxsaT48YSBocmVmPScvUHJvZHVjdHMvVmlkZW9nYW1lcy9YYm94KzM2MC5hc3B4Jz5YYm94IDM2MDwvYT48L2xpPg0KPC91bD4NCmQCAg8WAh8IBagFPGEgaHJlZj0nL1Byb2R1Y3RzL0RWRC5hc3B4Jz5EVkQ8L2E+DQo8dWwgc3R5bGU9J3dpZHRoOiAyMTBweDsnPg0KPGxpPjxhIGhyZWY9Jy9Qcm9kdWN0cy9EVkQvQWN0aW9uK2FuZCtBZHZlbnR1cmUuYXNweCc+QWN0aW9uIGFuZCBBZHZlbnR1cmU8L2E+PC9saT4NCjxsaT48YSBocmVmPScvUHJvZHVjdHMvRFZEL0FuaW1lLmFzcHgnPkFuaW1lPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL0RWRC9Db21lZHkuYXNweCc+Q29tZWR5PC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL0RWRC9EcmFtYS5hc3B4Jz5EcmFtYTwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Jy9Qcm9kdWN0cy9EVkQvRmFtaWx5LmFzcHgnPkZhbWlseTwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Jy9Qcm9kdWN0cy9EVkQvR2VuZXJhbCtJbnRlcmVzdC5hc3B4Jz5HZW5lcmFsIEludGVyZXN0PC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL0RWRC9Ib3Jyb3IrYW5kK1NjaS1GaS5hc3B4Jz5Ib3Jyb3IgYW5kIFNjaS1GaTwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Jy9Qcm9kdWN0cy9EVkQvTXVzaWMrVmlkZW8rYW5kK0NvbmNlcnRzLmFzcHgnPk11c2ljIFZpZGVvIGFuZCBDb25jZXJ0czwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Jy9Qcm9kdWN0cy9EVkQvVFYuYXNweCc+VFY8L2E+PC9saT4NCjwvdWw+DQpkAgQPFgIfCAXUBTxhIGhyZWY9Jy9Qcm9kdWN0cy9CbHUtUmF5LmFzcHgnPmJsdS1yYXk8L2E+DQo8dWwgc3R5bGU9J3dpZHRoOiAyMTBweDsnPg0KPGxpPjxhIGhyZWY9Jy9Qcm9kdWN0cy9CbHUtUmF5L0FjdGlvbithbmQrQWR2ZW50dXJlLmFzcHgnPkFjdGlvbiBhbmQgQWR2ZW50dXJlPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL0JsdS1SYXkvQW5pbWUuYXNweCc+QW5pbWU8L2E+PC9saT4NCjxsaT48YSBocmVmPScvUHJvZHVjdHMvQmx1LVJheS9Db21lZHkuYXNweCc+Q29tZWR5PC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL0JsdS1SYXkvRHJhbWEuYXNweCc+RHJhbWE8L2E+PC9saT4NCjxsaT48YSBocmVmPScvUHJvZHVjdHMvQmx1LVJheS9GYW1pbHkuYXNweCc+RmFtaWx5PC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL0JsdS1SYXkvR2VuZXJhbCtJbnRlcmVzdC5hc3B4Jz5HZW5lcmFsIEludGVyZXN0PC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL0JsdS1SYXkvSG9ycm9yK2FuZCtTY2ktRmkuYXNweCc+SG9ycm9yIGFuZCBTY2ktRmk8L2E+PC9saT4NCjxsaT48YSBocmVmPScvUHJvZHVjdHMvQmx1LVJheS9NdXNpYytWaWRlbythbmQrQ29uY2VydHMuYXNweCc+TXVzaWMgVmlkZW8gYW5kIENvbmNlcnRzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL0JsdS1SYXkvVFYuYXNweCc+VFY8L2E+PC9saT4NCjwvdWw+DQpkAgYPFgIfCAXnBjxhIGhyZWY9Jy9Qcm9kdWN0cy9NdXNpYy5hc3B4Jz5tdXNpYzwvYT4NCjx1bCBzdHlsZT0nd2lkdGg6IDIyNXB4Oyc+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL011c2ljL0NoaWxkcmVuLmFzcHgnPkNoaWxkcmVuPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL011c2ljL0NsYXNzaWNhbC5hc3B4Jz5DbGFzc2ljYWw8L2E+PC9saT4NCjxsaT48YSBocmVmPScvUHJvZHVjdHMvTXVzaWMvQ291bnRyeS5hc3B4Jz5Db3VudHJ5PC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL011c2ljL0RhbmNlJTJjK0RKK2FuZCtFbGVjdHJvbmljYS5hc3B4Jz5EYW5jZSwgREogYW5kIEVsZWN0cm9uaWNhPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL011c2ljL0Vhc3krTGlzdGVuaW5nLmFzcHgnPkVhc3kgTGlzdGVuaW5nPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL011c2ljL0phenolMmMrQmx1ZXMrYW5kK1dvcmxkK011c2ljLmFzcHgnPkphenosIEJsdWVzIGFuZCBXb3JsZCBNdXNpYzwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Jy9Qcm9kdWN0cy9NdXNpYy9QdW5rJTJjK01ldGFsK2FuZCtBbHRlcm5hdGl2ZS5hc3B4Jz5QdW5rLCBNZXRhbCBhbmQgQWx0ZXJuYXRpdmU8L2E+PC9saT4NCjxsaT48YSBocmVmPScvUHJvZHVjdHMvTXVzaWMvUmFwJTJjK1VyYmFuK2FuZCtSX0IuYXNweCc+UmFwLCBVcmJhbiBhbmQgUiZCPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL011c2ljL1JvY2srYW5kK1BvcC5hc3B4Jz5Sb2NrIGFuZCBQb3A8L2E+PC9saT4NCjxsaT48YSBocmVmPScvUHJvZHVjdHMvTXVzaWMvU291bmR0cmFja3MuYXNweCc+U291bmR0cmFja3M8L2E+PC9saT4NCjwvdWw+DQpkAggPFgIfCAWBBjxhIGhyZWY9Jy9Qcm9kdWN0cy9Cb29rcy5hc3B4Jz5ib29rczwvYT4NCjx1bCBzdHlsZT0nd2lkdGg6IDE4OHB4Oyc+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL0Jvb2tzL0Jpb2dyYXBoeS5hc3B4Jz5CaW9ncmFwaHk8L2E+PC9saT4NCjxsaT48YSBocmVmPScvUHJvZHVjdHMvQm9va3MvRmljdGlvbi5hc3B4Jz5GaWN0aW9uPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL0Jvb2tzL0ZpbG0rYW5kK1RWK0Jpb2dyYXBoeS5hc3B4Jz5GaWxtIGFuZCBUViBCaW9ncmFwaHk8L2E+PC9saT4NCjxsaT48YSBocmVmPScvUHJvZHVjdHMvQm9va3MvR2FtZStHdWlkZXMuYXNweCc+R2FtZSBHdWlkZXM8L2E+PC9saT4NCjxsaT48YSBocmVmPScvUHJvZHVjdHMvQm9va3MvR2VuZXJhbCtJbnRlcmVzdC5hc3B4Jz5HZW5lcmFsIEludGVyZXN0PC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL0Jvb2tzL0dyYXBoaWMrTm92ZWxzLmFzcHgnPkdyYXBoaWMgTm92ZWxzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL0Jvb2tzL0h1bW91ci5hc3B4Jz5IdW1vdXI8L2E+PC9saT4NCjxsaT48YSBocmVmPScvUHJvZHVjdHMvQm9va3MvTXVzaWMuYXNweCc+TXVzaWM8L2E+PC9saT4NCjxsaT48YSBocmVmPScvUHJvZHVjdHMvQm9va3MvUG9wK0N1bHR1cmUuYXNweCc+UG9wIEN1bHR1cmU8L2E+PC9saT4NCjxsaT48YSBocmVmPScvUHJvZHVjdHMvQm9va3MvU2hlZXQrTXVzaWMuYXNweCc+U2hlZXQgTXVzaWM8L2E+PC9saT4NCjwvdWw+DQpkAgoPFgIfCAWBAzxhIGhyZWY9Jy9Qcm9kdWN0cy9BY2Nlc3Nvcmllcy5hc3B4Jz5hY2Nlc3NvcmllczwvYT4NCjx1bCBzdHlsZT0nd2lkdGg6IDE1NXB4Oyc+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL0FjY2Vzc29yaWVzL0Nsb3RoaW5nLmFzcHgnPkNsb3RoaW5nPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL0FjY2Vzc29yaWVzL0hlYWRwaG9uZXMuYXNweCc+SGVhZHBob25lczwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Jy9Qcm9kdWN0cy9BY2Nlc3Nvcmllcy9Qb3N0ZXJzK2FuZCtGbGFncy5hc3B4Jz5Qb3N0ZXJzIGFuZCBGbGFnczwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Jy9Qcm9kdWN0cy9BY2Nlc3Nvcmllcy9TdG9yYWdlLmFzcHgnPlN0b3JhZ2U8L2E+PC9saT4NCjwvdWw+DQpkAgwPFgIfCAWHAjxhIGhyZWY9Jy9Qcm9kdWN0cy9UZWNobm9sb2d5LmFzcHgnPnRlY2hub2xvZ3k8L2E+DQo8dWwgc3R5bGU9J3dpZHRoOiAyNjBweDsnPg0KPGxpPjxhIGhyZWY9Jy9Qcm9kdWN0cy9UZWNobm9sb2d5L0RvY2tpbmcrU3RhdGlvbnMlMmMrQ2FibGVzK18rTW9yZS5hc3B4Jz5Eb2NraW5nIFN0YXRpb25zLCBDYWJsZXMgJiBNb3JlPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL1RlY2hub2xvZ3kvaVBvZC5hc3B4Jz5pUG9kPC9hPjwvbGk+DQo8L3VsPg0KZAIODxYCHwgFkQU8YSBocmVmPScvUHJvZHVjdHMvRnJhbmNvcGhvbmUuYXNweCc+ZnJhbmNvcGhvbmU8L2E+DQo8dWwgc3R5bGU9J3dpZHRoOiAxNjBweDsnPg0KPGxpPjxhIGhyZWY9Jy9Qcm9kdWN0cy9GcmFuY29waG9uZS9Cb3grU2V0cy5hc3B4Jz5Cb3ggU2V0czwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Jy9Qcm9kdWN0cy9GcmFuY29waG9uZS9DaGFuc29uK2ZyYW4lYzMlYTdhaXNlLmFzcHgnPkNoYW5zb24gZnJhbsOnYWlzZTwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Jy9Qcm9kdWN0cy9GcmFuY29waG9uZS9DaGlsZHJlbi5hc3B4Jz5DaGlsZHJlbjwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Jy9Qcm9kdWN0cy9GcmFuY29waG9uZS9Db3VudHJ5LmFzcHgnPkNvdW50cnk8L2E+PC9saT4NCjxsaT48YSBocmVmPScvUHJvZHVjdHMvRnJhbmNvcGhvbmUvRm9say5hc3B4Jz5Gb2xrPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL0ZyYW5jb3Bob25lL0ZyYW5jb3Bob25lLmFzcHgnPkZyYW5jb3Bob25lPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0nL1Byb2R1Y3RzL0ZyYW5jb3Bob25lL1BvcC5hc3B4Jz5Qb3A8L2E+PC9saT4NCjxsaT48YSBocmVmPScvUHJvZHVjdHMvRnJhbmNvcGhvbmUvU3Bva2VuK1dvcmQuYXNweCc+U3Bva2VuIFdvcmQ8L2E+PC9saT4NCjwvdWw+DQpkAhQPFgIfCAURZGlnaXRhbCBkb3dubG9hZHNkAhUPZBYGAgcPFgIfCAUXQ3VzdG9tZXIgUHJpdmFjeSBQb2xpY3lkAgkPFgIfCAW6FTxwPjxpbWcgYWx0PSIiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMyMCIgc3R5bGU9ImZsb2F0OiByaWdodDsgbWFyZ2luLWxlZnQ6IDEwcHgiIHNyYz0iL2ltYWdlcy9ITVYvTWlzYy9oZWxwX2N1c3Rwcml2YWN5LmdpZiIgLz48L3A+DQo8aDI+PHN0cm9uZz5DdXN0b21lciA8L3N0cm9uZz48L2gyPg0KPHA+Jm5ic3A7PC9wPg0KPHA+VGhpcyBwb2xpY3kgYXBwbGllcyB0byBITVYgQ2FuYWRhIEluYyAoJnF1b3Q7SE1WIENhbmFkYSZxdW90OykuIEF0IEhNViBDYW5hZGEsIHRoZSBzZWN1cml0eSBhbmQgaW50ZWdyaXR5IG9mIG91ciBjdXN0b21lcnMnIHBlcnNvbmFsIGluZm9ybWF0aW9uIGlzIGltcG9ydGFudCB0byB1cy4gV2UgdGFrZSBldmVyeSByZWFzb25hYmxlIG1lYXN1cmUgbmVjZXNzYXJ5IHRvIHByb3RlY3QgdGhlIHByaXZhY3kgb2Ygb3VyIGN1c3RvbWVycyB3aGlsZSBwcm92aWRpbmcgdGhlIGhpZ2ggbGV2ZWwgY29tbXVuaWNhdGlvbiBzZXJ2aWNlcyB0aGV5IGV4cGVjdC48L3A+DQo8cD5ITVYgQ2FuYWRhJ3MgcHJpdmFjeSBwcmFjdGljZXMgYXJlIGluIGFjY29yZGFuY2Ugd2l0aCBhbGwgZmVkZXJhbCBhbmQgcHJvdmluY2lhbCBsYXdzIGFuZCByZWd1bGF0aW9ucy4gV2UgYXJlIGNvbXBsaWFudCB3aXRoIHRoZSBQZXJzb25hbCBJbmZvcm1hdGlvbiBQcm90ZWN0aW9uIGFuZCBFbGVjdHJvbmljIERvY3VtZW50cyBBY3QgYW5kIHdoZXJlIGFwcGxpY2FibGUgd2l0aCB0aGUgcHJpdmFjeSBydWxlcyBlc3RhYmxpc2hlZCBieSB0aGUgQ2FuYWRpYW4gUmFkaW8tdGVsZXZpc2lvbiBhbmQgVGVsZWNvbW11bmljYXRpb25zIENvbW1pc3Npb24uPC9wPg0KPHA+PHN0cm9uZz5BdCBITVYgQ2FuYWRhLCB3ZSBjb2xsZWN0IGN1c3RvbWVyIGluZm9ybWF0aW9uIGZvciBvbmUgb3IgbW9yZSBvZiB0aGUgZm9sbG93aW5nIHB1cnBvc2VzOiA8L3N0cm9uZz48L3A+DQo8dWwgdHlwZT0iMSIgc3RhcnQ9IjEiPg0KICAgIDxsaT5UbyBwcm92aWRlIGEgcG9zaXRpdmUgY3VzdG9tZXIgZXhwZXJpZW5jZTs8L2xpPg0KPC91bD4NCjx1bCB0eXBlPSIxIiBzdGFydD0iMSI+DQogICAgPGxpPlRvIHVuZGVyc3RhbmQgb3VyIGluLXN0b3JlIGN1c3RvbWVyIHJlcXVpcmVtZW50cyBhbmQgbWFrZSBpbmZvcm1hdGlvbiBhdmFpbGFibGUgcmVnYXJkaW5nIHByb2R1Y3RzIGFuZCBzZXJ2aWNlcyBvZmZlcmVkIGJ5IEhNViBDYW5hZGEgYW5kIGl0cyBzdXBwbGllcnM7PC9saT4NCjwvdWw+DQo8dWwgdHlwZT0iMSIgc3RhcnQ9IjEiPg0KICAgIDxsaT5UbyBtYW5hZ2UgYW5kIGRldmVsb3AgSE1WIENhbmFkYSBidXNpbmVzcyBhbmQgb3BlcmF0aW9uczs8L2xpPg0KPC91bD4NCjx1bCB0eXBlPSIxIiBzdGFydD0iMSI+DQogICAgPGxpPlRvIG1lZXQgbGVnYWwgYW5kIHJlZ3VsYXRvcnkgcmVxdWlyZW1lbnRzOyBhbmQ8L2xpPg0KPC91bD4NCjx1bCB0eXBlPSIxIiBzdGFydD0iMSI+DQogICAgPGxpPlRvIHByb3ZpZGUgdGhlIG1lbWJlcnMgd2l0aCBpbmZvcm1hdGlvbiByZWdhcmRpbmcgdXBjb21pbmcgcHJvbW90aW9ucyBhbmQvb3IgZXZlbnRzLjwvbGk+DQo8L3VsPg0KPHA+Jm5ic3A7PC9wPg0KPHA+SE1WIENhbmFkYSBkb2VzIG5vdCB1c2Ugb3IgZGlzY2xvc2UgcGVyc29uYWwgaW5mb3JtYXRpb24gZm9yIHB1cnBvc2VzIG90aGVyIHRoYW4gdGhvc2UgZm9yIHdoaWNoIGl0IHdhcyBjb2xsZWN0ZWQsIGV4Y2VwdCB3aXRoIHRoZSBjb25zZW50IG9mIHRoZSBpbmRpdmlkdWFsIG9yIGFzIHJlcXVpcmVkIGJ5IGxhdy4gSE1WIENhbmFkYSByZXRhaW5zIHBlcnNvbmFsIGluZm9ybWF0aW9uIG9ubHkgYXMgbG9uZyBhcyBuZWNlc3NhcnkgZm9yIHRoZSBmdWxmaWxsbWVudCBvZiB0aG9zZSBwdXJwb3Nlcy48L3A+DQo8cD5ITVYgQ2FuYWRhIGluZm9ybXMgY3VzdG9tZXJzIG9mIHRoZSBleGlzdGVuY2UsIHVzZSBhbmQgZGlzY2xvc3VyZSBvZiB0aGVpciBwZXJzb25hbCBpbmZvcm1hdGlvbiB1cG9uIHJlcXVlc3QgYW5kIGdpdmVzIHRoZW0gYWNjZXNzIHRvIHRoZWlyIGluZm9ybWF0aW9uLjwvcD4NCjxwPkhNViBDYW5hZGEgZW5zdXJlcyB0aGF0IGN1c3RvbWVyIGluZm9ybWF0aW9uIGlzIGFjY3VyYXRlLCBjb21wbGV0ZSBhbmQgdXAtdG8tZGF0ZS4gQ3VzdG9tZXJzIGNhbiBjaGFsbGVuZ2UgdGhlIGFjY3VyYWN5IGFuZCBjb21wbGV0ZW5lc3Mgb2YgdGhlIGluZm9ybWF0aW9uIGFuZCByZXF1ZXN0IGFtZW5kbWVudHMgYXMgYXBwcm9wcmlhdGUuPC9wPg0KPHA+QSBzZW5pb3IgY29tcGFueSBvZmZpY2VyIGhhcyBiZWVuIGFwcG9pbnRlZCBhcyB0aGUgUHJpdmFjeSBPZmZpY2VyIGF0IEhNViBDYW5hZGEuIFRoZSBQcml2YWN5IE9mZmljZXIgaXMgYWNjb3VudGFibGUgZm9yIGFsbCBwZXJzb25hbCBpbmZvcm1hdGlvbiBhdCBITVYgQ2FuYWRhLiBUbyBjb250YWN0IHRoZSBQcml2YWN5IE9mZmljZXIgb3IgZmlsZSBhIGNvbXBsYWludCwgd3JpdGUgdG86PC9wPg0KPHA+PGJyIC8+DQo8YnIgLz4NCiZuYnNwOzwvcD4NCjxwPjxzdHJvbmc+UHJpdmFjeSBPZmZpY2VyLDwvc3Ryb25nPjwvcD4NCjxwPkhNViBDQU5BREEgSU5DLjwvcD4NCjxwPjExMC01NDAxIEVnbGludG9uIEF2ZW51ZSBXZXN0PC9wPg0KPHA+VG9yb250bywgT250YXJpbyBNOUMgNUs2PC9wPg0KPHA+Q2FuYWRhPC9wPg0KPHA+PGEgaHJlZj0ibWFpbHRvOnByaXZhY3lvZmZpY2VyQEhNVi5jYSI+cHJpdmFjeW9mZmljZXJAaG12LmNhPC9hPjwvcD4NCjxwPiZuYnNwOzwvcD5kAgsPZBYCAgEPZBYSAgEPDxYCHwIFCkNvbnRhY3QgVXNkZAIDDw8WCB8CBRdDdXN0b21lciBQcml2YWN5IFBvbGljeR4JQmFja0NvbG9yCXcG7f8eCUZvcmVDb2xvcgqkAR8FAgxkZAIFDw8WAh8CBRBDdXN0b21lciBSZXZpZXdzZGQCBw8PFgIfAgUNTmV3IEN1c3RvbWVyc2RkAgkPDxYCHwIFDVJldHVybiBQb2xpY3lkZAILDw8WAh8CBQtTZWFyY2ggVGlwc2RkAg0PDxYCHwIFCFNlY3VyaXR5ZGQCDw8PFgIfAgUUVGVybXMgYW5kIENvbmRpdGlvbnNkZAIRDw8WAh8CBRZXZWJzaXRlIFByaXZhY3kgUG9saWN5ZGQCFg8WAh8IBQdDb250YWN0ZAIXDxYCHwgFF0N1c3RvbWVyIFByaXZhY3kgUG9saWN5ZAIYDxYCHwgFF1dlYiBzaXRlIFByaXZhY3kgUG9saWN5ZAIZDxYCHwgFCUFib3V0IGhtdmQCGg8WAh8IBQtobXYgQ2FyZWVyc2QCGw8WAh8IBRNHaWZ0IENhcmQgQWdyZWVtZW50ZAIcDxYCHwgFElRlcm1zICYgQ29uZGl0aW9uc2QCHg8WAh8IBRlQb3dlcmVkIGJ5IE1VWkUgJiMxNzQ7IE1DZAIfDxYCHwgFM011emVNdXNpYywgTXV6ZVZpZGVvIENvcHlyaWdodCBNVVpFJm5ic3A7JmNvcHk7MjAxMGQCIA8WAh8IBVdNdXplR2FtZXMgSm9pbnQgY29weXJpZ2h0IE11emUgSW5jLCBhbmQgSUdOIEVudGVydGFpbm1lbnQgSW5jIENvcHlyaWdodCZuYnNwOyZjb3B5OzIwMTBkAiEPFgIfCAU7Rm9yIHBlcnNvbmFsIG5vbi1jb21tZXJjaWFsIHVzZSBvbmx5LiAgQWxsIHJpZ2h0cyByZXNlcnZlZC5kGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYDBRdjdGwwMCRMb2dpblN0YXR1cyRjdGwwMQUXY3RsMDAkTG9naW5TdGF0dXMkY3RsMDMFD2N0bDAwJGJ0blNlYXJjaA==">
 </div>
 
 
- 
-		
-	<!-- END LEFT MARGIN COMPONENTS -->
+<script src="/ScriptResource.axd?d=HlXDpi4tZTStWftPAFsYUXYmFp-1IRjlq5naTvMJKbjRVT93KGEQ-YlZ3t0x54pZrDjngJTqhsegV19_TvSh48azi0GucAXVgb73zgvdNq81&amp;t=ffffffffbdefaee8" type="text/javascript"></script>
+<script src="../Resources/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script src="../Resources/jquery.corner.js" type="text/javascript"></script>
+<script src="../Resources/jquery.countdown.min.js" type="text/javascript"></script>
+<script src="../Resources/jquery.blockUI.js" type="text/javascript"></script>
+<script src="../Resources/jquery.lightbox-0.5.min.js" type="text/javascript"></script>
+<script src="../Resources/jquery.cycle.all.min.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=FpbOreVbSQOs6qySYvrEqOIku_GxvPejZiy6c7c461Hlw_Wnx5m1YAQNX_IpIK22RyTg8Im-FwlcS7k9KDFBAA2&amp;t=5bc2c33" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=FpbOreVbSQOs6qySYvrEqOIku_GxvPejZiy6c7c461EVi7TxvNyu-cBRKEREjKpvv3u37muEeg-P1CMKtWueLw2&amp;t=5bc2c33" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=FpbOreVbSQOs6qySYvrEqOIku_GxvPejZiy6c7c461ED2igQ0h6N6PL57JqvOuYFSqXMIqHtazPC6cdNLLQswg2&amp;t=5bc2c33" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=FpbOreVbSQOs6qySYvrEqOIku_GxvPejZiy6c7c461GA2Dwv1yk2y9c2TLa_D5ci0udgjshkr9rWnZDQJECwqdzzJrUXqv21GdOEQGrgVLw1&amp;t=5bc2c33" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=FpbOreVbSQOs6qySYvrEqOIku_GxvPejZiy6c7c461ED2igQ0h6N6PL57JqvOuYFk0MLu6B8d6ZKzBEl7QqmwR05-gB0BeY8P26jhmBJTSk1&amp;t=5bc2c33" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=FpbOreVbSQOs6qySYvrEqOIku_GxvPejZiy6c7c461FSubYj4uP0NMRqCBT0P2R4HyUuovM4MFCGYUfu6z6Z04_Or9-SqjEpt-bQg-dL1Hc1&amp;t=5bc2c33" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=FpbOreVbSQOs6qySYvrEqOIku_GxvPejZiy6c7c461H2icwHyYoCsE2Toq5Da9JZLweae-jjpY7RNTBM-r03GJQ7FKTiejFK9axIg0hsjRs1&amp;t=5bc2c33" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWFgLRzo30CgLCpfm4AgKc8piDCwLypLuEDgKKqJ+gBwKei8vfDQKwvPnwCALSsrm/CQKn0OayAQLhppn8CALo/Jv8AwKF1vrqBgL9n+COAgLG1If3CwLqmpnfDgKY3/vIDALat//MAgKoich3AvLimboNAsv+rO8LAtT6wM4PAuPIov0O">
 </div>
-<!-- END HOME LEFT MARGIN LAYOUT -->
-					
+    
+        <input type="hidden" name="ctl00$smCMSMasterInner" id="ctl00_smCMSMasterInner">
 
+        <div class="topBar">
+            <div>
+                <div class="topBarLinks">
+                    <a id="ctl00_LoginStatus" href="javascript:__doPostBack('ctl00$LoginStatus$ctl02','')">Sign in</a>
+                    &nbsp;&nbsp;|&nbsp;&nbsp;
+                    <a id="ctl00_lnkAccount" href="../YourAccount.aspx">Your Account</a>
+                    &nbsp;&nbsp;|&nbsp;&nbsp;
+                    <a id="ctl00_lnkHelp" href="Help.aspx">Help</a>
+                    &nbsp;&nbsp;|&nbsp;&nbsp;
+                    <a id="ctl00_lnkFrench" href="javascript:__doPostBack('ctl00$lnkFrench','')">Français</a>
+                </div>
+            </div>
+        </div>
+        
+        <div id="mainOuterWrapper">
+            <div id="mainWrapper">
+            
+                <div id="masterTopWrp">
+                    <div class="masterTopL">
+                        <div class="masterTopLL">
+                            <a href="/Default.aspx"><img src="../images/Web/HMVLogo.png" id="ctl00_logo" class="logo" alt="logo"></a>
+                        </div>
+                        <div class="masterTopLR">
+                            <div class="searchWrapper">
+                                <div>
+                                    <span id="ctl00_lblSearch" class="lblSearch">search</span>
+                                    <img id="ctl00_imgSearchIcon" src="/images/Web/arrow_r_hilight_sml.gif" style="border-width:0px;">
+                                    <select name="ctl00$ddlSearchFilter" id="ctl00_ddlSearchFilter" class="searchFilter">
+	<option selected="selected" value="all products">all products</option>
+	<option value="accessories">accessories</option>
+	<option value="blu-ray">blu-ray</option>
+	<option value="books">books</option>
+	<option value="DVD">DVD</option>
+	<option value="music">music</option>
+	<option value="technology">technology</option>
+	<option value="videogames">videogames</option>
 
+</select>
+                                    <input name="ctl00$Search" type="text" id="ctl00_Search" class="searchBox" style="width:275px;">
+                                    <input type="image" name="ctl00$btnSearch" id="ctl00_btnSearch" usesubmitbehavior="false" src="/images/Web/rightArrow.png" style="border-width:0px;">
+                                    
+                                    
 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="fClear"></div>                        
+                        <div class="masterTopLB">
+                            <div id="ctl00_mainBannerWrp" class="bannerWrapper">
 
-<!-- START 1 COL MAGAZINE CONTENT LAYOUT -->
-<div id="content">
-	<div id="promotion">
-		
+<style type="text/css">
+</style>
 
+<div id="ctl00_ctl14_STBanner" style="">
+    
+    <a href="http://www.hmv.ca" id="ctl00_ctl14_linkStaticBannerImg">
+        <img id="ctl00_ctl14_staticBannerImg" src="/images/HMV/Banners/09hmv_banner_CA.gif" style="border-width:0px;">
+    </a>
+    
+</div></div>
+                        </div>
+                    </div>
+                    <div class="masterTopR">
+                        <div class="miscLinks">
+                            <ul>
+                                <li>
+                                    <a id="ctl00_lnkStoreLocator" href="javascript:__doPostBack('ctl00$lnkStoreLocator','')">store locator</a>
+                                </li>
+                                <li>
+                                    <a id="ctl00_lnkChart" href="javascript:__doPostBack('ctl00$lnkChart','')">chart</a>
+                                </li>
+                                <li>
+                                    <a id="ctl00_lnkNewReleases" href="javascript:__doPostBack('ctl00$lnkNewReleases','')">new releases</a>
+                                </li>
+                                <li>
+                                    <a id="ctl00_lnkContests" href="javascript:__doPostBack('ctl00$lnkContests','')">contests</a>
+                                </li>
+                                <li>
+                                    <a id="ctl00_lnkPromotions" href="javascript:__doPostBack('ctl00$lnkPromotions','')">promotions</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="fClear"></div>
+                
 
-
-
-
-
-	</div>
-	<div id="content-primary">
-		
-
-
-
-
-
-
-			
-
-
-
-
-
-
-<div class="genre-one-col clearfix"><h1>
-	
-	
-	Customer Privacy Policy
-
-	
-	
-</h1></div>
- 
-		
-			
-
-
-
-
-
-
-
-<div class="paragraph">
-<p><em><img src="http://www3.hmv.ca/hmvca/images/special/promo/help_custprivacy.gif" alt="picture of sealed envelope" width="300" height="320" class="right overflow-right"></em></p>
-<p>This policy applies to HMV Canada  Inc ("HMV Canada"). At HMV Canada, the security and integrity of our  customers' personal information is important to us. We take every reasonable  measure necessary to protect the privacy of our customers while providing the  high level
-communication services they expect. </p>
-
-<p>HMV Canada's privacy practices  are in accordance with all federal
-and provincial laws and regulations. We are  compliant with the Personal
-Information Protection and Electronic Documents Act  and where
-applicable with the privacy rules established by the Canadian
-Radio-television and Telecommunications Commission. </p>
-
-<p><strong>At HMV Canada, we collect  customer information for one or more of the following purposes: </strong></p>
-
-<ul start="1" type="1">
-  <li>To provide a positive customer experience; </li>
+		        <ul id="nav-one" class="nav">
+			        <li>
+                        <a href="../Default.aspx" id="ctl00_lnkHome">home</a>
+			        </li>
+			        <li id="ctl00_mainMenuCtrl_liVideoGames"><a href="/Products/Videogames.aspx">videogames</a>
+<ul style="width: 130px;">
+<li><a href="/Products/Videogames/Nintendo+DS.aspx">Nintendo DS</a></li>
+<li><a href="/Products/Videogames/Playstation+2.aspx">Playstation 2</a></li>
+<li><a href="/Products/Videogames/Playstation+3.aspx">Playstation 3</a></li>
+<li><a href="/Products/Videogames/PSP.aspx">PSP</a></li>
+<li><a href="/Products/Videogames/Wii.aspx">Wii</a></li>
+<li><a href="/Products/Videogames/Xbox.aspx">Xbox</a></li>
+<li><a href="/Products/Videogames/Xbox+360.aspx">Xbox 360</a></li>
 </ul>
-
-<ul start="1" type="1">
-  <li>To understand our in-store customer requirements and make information available regarding products and services offered by HMV Canada and its suppliers;
 </li>
+<li id="ctl00_mainMenuCtrl_liDVD"><a href="/Products/DVD.aspx">DVD</a>
+<ul style="width: 210px;">
+<li><a href="/Products/DVD/Action+and+Adventure.aspx">Action and Adventure</a></li>
+<li><a href="/Products/DVD/Anime.aspx">Anime</a></li>
+<li><a href="/Products/DVD/Comedy.aspx">Comedy</a></li>
+<li><a href="/Products/DVD/Drama.aspx">Drama</a></li>
+<li><a href="/Products/DVD/Family.aspx">Family</a></li>
+<li><a href="/Products/DVD/General+Interest.aspx">General Interest</a></li>
+<li><a href="/Products/DVD/Horror+and+Sci-Fi.aspx">Horror and Sci-Fi</a></li>
+<li><a href="/Products/DVD/Music+Video+and+Concerts.aspx">Music Video and Concerts</a></li>
+<li><a href="/Products/DVD/TV.aspx">TV</a></li>
 </ul>
-
-<ul start="1" type="1">
-  <li>To manage and develop HMV Canada business and operations; </li>
+</li>
+<li id="ctl00_mainMenuCtrl_liBluray"><a href="/Products/Blu-Ray.aspx">blu-ray</a>
+<ul style="width: 210px;">
+<li><a href="/Products/Blu-Ray/Action+and+Adventure.aspx">Action and Adventure</a></li>
+<li><a href="/Products/Blu-Ray/Anime.aspx">Anime</a></li>
+<li><a href="/Products/Blu-Ray/Comedy.aspx">Comedy</a></li>
+<li><a href="/Products/Blu-Ray/Drama.aspx">Drama</a></li>
+<li><a href="/Products/Blu-Ray/Family.aspx">Family</a></li>
+<li><a href="/Products/Blu-Ray/General+Interest.aspx">General Interest</a></li>
+<li><a href="/Products/Blu-Ray/Horror+and+Sci-Fi.aspx">Horror and Sci-Fi</a></li>
+<li><a href="/Products/Blu-Ray/Music+Video+and+Concerts.aspx">Music Video and Concerts</a></li>
+<li><a href="/Products/Blu-Ray/TV.aspx">TV</a></li>
 </ul>
-
-<ul start="1" type="1">
-  <li>To meet legal and regulatory requirements; and </li>
+</li>
+<li id="ctl00_mainMenuCtrl_liMusic"><a href="/Products/Music.aspx">music</a>
+<ul style="width: 225px;">
+<li><a href="/Products/Music/Children.aspx">Children</a></li>
+<li><a href="/Products/Music/Classical.aspx">Classical</a></li>
+<li><a href="/Products/Music/Country.aspx">Country</a></li>
+<li><a href="/Products/Music/Dance%2c+DJ+and+Electronica.aspx">Dance, DJ and Electronica</a></li>
+<li><a href="/Products/Music/Easy+Listening.aspx">Easy Listening</a></li>
+<li><a href="/Products/Music/Jazz%2c+Blues+and+World+Music.aspx">Jazz, Blues and World Music</a></li>
+<li><a href="/Products/Music/Punk%2c+Metal+and+Alternative.aspx">Punk, Metal and Alternative</a></li>
+<li><a href="/Products/Music/Rap%2c+Urban+and+R_B.aspx">Rap, Urban and R&amp;B</a></li>
+<li><a href="/Products/Music/Rock+and+Pop.aspx">Rock and Pop</a></li>
+<li><a href="/Products/Music/Soundtracks.aspx">Soundtracks</a></li>
 </ul>
-
-<ul start="1" type="1">
-  <li>To provide the members with information regarding upcoming promotions and/or events. </li>
+</li>
+<li id="ctl00_mainMenuCtrl_liBooks"><a href="/Products/Books.aspx">books</a>
+<ul style="width: 188px;">
+<li><a href="/Products/Books/Biography.aspx">Biography</a></li>
+<li><a href="/Products/Books/Fiction.aspx">Fiction</a></li>
+<li><a href="/Products/Books/Film+and+TV+Biography.aspx">Film and TV Biography</a></li>
+<li><a href="/Products/Books/Game+Guides.aspx">Game Guides</a></li>
+<li><a href="/Products/Books/General+Interest.aspx">General Interest</a></li>
+<li><a href="/Products/Books/Graphic+Novels.aspx">Graphic Novels</a></li>
+<li><a href="/Products/Books/Humour.aspx">Humour</a></li>
+<li><a href="/Products/Books/Music.aspx">Music</a></li>
+<li><a href="/Products/Books/Pop+Culture.aspx">Pop Culture</a></li>
+<li><a href="/Products/Books/Sheet+Music.aspx">Sheet Music</a></li>
 </ul>
+</li>
+<li id="ctl00_mainMenuCtrl_liAccessories"><a href="/Products/Accessories.aspx">accessories</a>
+<ul style="width: 155px;">
+<li><a href="/Products/Accessories/Clothing.aspx">Clothing</a></li>
+<li><a href="/Products/Accessories/Headphones.aspx">Headphones</a></li>
+<li><a href="/Products/Accessories/Posters+and+Flags.aspx">Posters and Flags</a></li>
+<li><a href="/Products/Accessories/Storage.aspx">Storage</a></li>
+</ul>
+</li>
+<li id="ctl00_mainMenuCtrl_liTechnology"><a href="/Products/Technology.aspx">technology</a>
+<ul style="width: 260px;">
+<li><a href="/Products/Technology/Docking+Stations%2c+Cables+_+More.aspx">Docking Stations, Cables &amp; More</a></li>
+<li><a href="/Products/Technology/iPod.aspx">iPod</a></li>
+</ul>
+</li>
+<li id="ctl00_mainMenuCtrl_liFrancophone"><a href="/Products/Francophone.aspx">francophone</a>
+<ul style="width: 160px;">
+<li><a href="/Products/Francophone/Box+Sets.aspx">Box Sets</a></li>
+<li><a href="/Products/Francophone/Chanson+fran%c3%a7aise.aspx">Chanson française</a></li>
+<li><a href="/Products/Francophone/Children.aspx">Children</a></li>
+<li><a href="/Products/Francophone/Country.aspx">Country</a></li>
+<li><a href="/Products/Francophone/Folk.aspx">Folk</a></li>
+<li><a href="/Products/Francophone/Francophone.aspx">Francophone</a></li>
+<li><a href="/Products/Francophone/Pop.aspx">Pop</a></li>
+<li><a href="/Products/Francophone/Spoken+Word.aspx">Spoken Word</a></li>
+</ul>
+</li>
 
-<p>HMV Canada does not use or  disclose personal information for
-purposes other than those for which it was  collected, except with the
-consent of the individual or as required by law. HMV  Canada retains
-personal information only as long as necessary for the  fulfillment of
-those purposes. </p>
+			        <li id="dNavDigital">
+			            <a href="http://www.hmvdigital.ca" id="ctl00_lnkDD">digital downloads</a>
+				        
+			        </li>
+		        </ul>
+                <div class="fClear"></div>
+                
+                
 
-<p>HMV Canada informs customers of  the existence, use and disclosure of
-their personal information upon request  and gives them access to their
-information. </p>
+<style type="text/css">
+.mainPlaceHolder ul li {
+    list-style-type: disc;
+    padding: 0 0 15px;
+    margin-left: 20px;
+    font-size: 1.3em;
+	line-height: 1.4em;
+    color: #665C53;
+}
+</style>
 
-<p>HMV Canada ensures that customer  information is accurate, complete
-and up-to-date. Customers can challenge the  accuracy and completeness
-of the information and request amendments as  appropriate. </p>
 
-<p>A senior company officer has been  appointed as the Privacy Officer
-at HMV Canada. The Privacy Officer is accountable for all personal
-information at HMV Canada. To contact the Privacy  Officer or file a
-complaint, write to: </p>
+<input type="hidden" name="ctl00$MasterContentPlaceHolder$Banner_ZoneId" id="ctl00_MasterContentPlaceHolder_Banner_ZoneId" value="a3a54173-a357-400c-9c3b-a043c421e002">
+<input type="hidden" name="ctl00$MasterContentPlaceHolder$TowerL_ZoneId" id="ctl00_MasterContentPlaceHolder_TowerL_ZoneId" value="7d746d84-20f4-4931-a62a-a434a07d7700">
+<input type="hidden" name="ctl00$MasterContentPlaceHolder$Article_ZoneId" id="ctl00_MasterContentPlaceHolder_Article_ZoneId" value="a3c62104-9112-40cc-8238-3f9366d2fdac">
 
-<br><br>
+
+<div id="generalCntWrp">
+    <div id="mainContent1">
+        <div id="ctl00_MasterContentPlaceHolder_PageHeader" class="pageHeader" style="zoom: 1; border: none;"><div class="jquery-corner" style="margin: 0px 0px -10px -10px;"><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none solid; border-color: rgb(255, 255, 255); border-width: 0px 6px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none solid; border-color: rgb(255, 255, 255); border-width: 0px 4px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none solid; border-color: rgb(255, 255, 255); border-width: 0px 3px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none solid; border-color: rgb(255, 255, 255); border-width: 0px 2px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none solid; border-color: rgb(255, 255, 255); border-width: 0px 1px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none solid; border-color: rgb(255, 255, 255); border-width: 0px 1px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none solid; border-color: rgb(255, 255, 255); border-width: 0px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none solid; border-color: rgb(255, 255, 255); border-width: 0px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none solid; border-color: rgb(255, 255, 255); border-width: 0px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none solid; border-color: rgb(255, 255, 255); border-width: 0px;"></div></div>Customer Privacy Policy</div>
+        <div id="ctl00_MasterContentPlaceHolder_mainPlaceHolder" class="mainPlaceHolder"><p><img alt="" align="left" width="300" height="320" style="float: right; margin-left: 10px" src="/images/HMV/Misc/help_custprivacy.gif"></p>
+<h2><strong>Customer </strong></h2>
+<p>&nbsp;</p>
+<p>This policy applies to HMV Canada Inc ("HMV Canada"). At HMV Canada, the security and integrity of our customers' personal information is important to us. We take every reasonable measure necessary to protect the privacy of our customers while providing the high level communication services they expect.</p>
+<p>HMV Canada's privacy practices are in accordance with all federal and provincial laws and regulations. We are compliant with the Personal Information Protection and Electronic Documents Act and where applicable with the privacy rules established by the Canadian Radio-television and Telecommunications Commission.</p>
+<p><strong>At HMV Canada, we collect customer information for one or more of the following purposes: </strong></p>
+<ul type="1" start="1">
+    <li>To provide a positive customer experience;</li>
+</ul>
+<ul type="1" start="1">
+    <li>To understand our in-store customer requirements and make information available regarding products and services offered by HMV Canada and its suppliers;</li>
+</ul>
+<ul type="1" start="1">
+    <li>To manage and develop HMV Canada business and operations;</li>
+</ul>
+<ul type="1" start="1">
+    <li>To meet legal and regulatory requirements; and</li>
+</ul>
+<ul type="1" start="1">
+    <li>To provide the members with information regarding upcoming promotions and/or events.</li>
+</ul>
+<p>&nbsp;</p>
+<p>HMV Canada does not use or disclose personal information for purposes other than those for which it was collected, except with the consent of the individual or as required by law. HMV Canada retains personal information only as long as necessary for the fulfillment of those purposes.</p>
+<p>HMV Canada informs customers of the existence, use and disclosure of their personal information upon request and gives them access to their information.</p>
+<p>HMV Canada ensures that customer information is accurate, complete and up-to-date. Customers can challenge the accuracy and completeness of the information and request amendments as appropriate.</p>
+<p>A senior company officer has been appointed as the Privacy Officer at HMV Canada. The Privacy Officer is accountable for all personal information at HMV Canada. To contact the Privacy Officer or file a complaint, write to:</p>
+<p><br>
+<br>
+&nbsp;</p>
 <p><strong>Privacy Officer,</strong></p>
 <p>HMV CANADA INC.</p>
 <p>110-5401 Eglinton Avenue West</p>
-<p>Toronto, Ontario  M9C 5K6</p>
+<p>Toronto, Ontario M9C 5K6</p>
 <p>Canada</p>
-<p><a href="mailto:privacyofficer@HMV.ca">privacyofficer@HMV.ca</a></p>
-<br><br>
-
-
-</div> 
-		
-	</div>
-</div><!-- closes #content -->
-<!-- END MAGAZINE CONTENT LAYOUT -->
-
-					
-
-
-
-
-
-<!-- Start of Footer -->
-<div class="clearfix" id="footer">
-	<div id="footer-navigation">
-		<ul>
-			<li>© HMV 2008 -</li>
-			<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000002">Customer Privacy Policy</a></li>
-			<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000014">Website Privacy Policy</a></li>
-			<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000035">About HMV</a></li>
-			<li><a href="http://clients.njoyn.com/CGI/xweb/Xweb.asp?clid=21708&amp;page=joblisting&amp;lang=1" target="_new">HMV Careers</a></li>
-			<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000005">Gift Card Agreement</a></li>
-			<li><a href="http://www.hmv.ca/hmvcaweb/en_CA/navigate.do?pPageID=100000013">Terms and Conditions</a></li>
-		</ul>
-	</div>	
-	
-	<div class="footer-reg">
-		<p class="footer-poweredby">
-			Powered By
-			<strong><img alt="MUZE" height="8" src="http://www3.hmv.ca/hmvca/graphics/en_CA/global/footer_muze_logo.gif" width="29"></strong>
-			® TM<br>MuzeMusic™, MuzeVideo™ Copyright MUZE® 2008.<br>MuzeGames® Joint copyright Muze Inc, and IGN Entertainment Inc Copyright 2008.<br>For personal non-commercial use only. All rights reserved.
-		</p>
-	</div>	
+<p><a href="mailto:privacyofficer@HMV.ca">privacyofficer@hmv.ca</a></p>
+<p>&nbsp;</p></div>
+    </div>
 </div>
-<!-- End of Footer -->
+<div id="generalLeftTowers1">
+    <input type="hidden" name="ctl00$MasterContentPlaceHolder$infoMenu$Culture" id="ctl00_MasterContentPlaceHolder_infoMenu_Culture">
+<div id="ctl00_MasterContentPlaceHolder_infoMenu_InfoLinksMenu" class="infoMenuLinks">
+    <ul id="infoMenuLinks">
+        <li>
+            <a id="ctl00_MasterContentPlaceHolder_infoMenu_lnkCU" href="ContactUs.aspx" style="font-size: 1.2em;">Contact Us</a>
+        </li>
+        <li>
+            <a id="ctl00_MasterContentPlaceHolder_infoMenu_lnkCPP" href="CustomerPrivacyPolicy.aspx" style="color: white; background-color: rgb(237, 6, 119); font-size: 1.2em;">Customer Privacy Policy</a>
+        </li>
+        <li>
+            <a id="ctl00_MasterContentPlaceHolder_infoMenu_lnkCR" href="CustomerReviews.aspx" style="font-size: 1.2em;">Customer Reviews</a>
+        </li>
+        <li>
+            <a id="ctl00_MasterContentPlaceHolder_infoMenu_lnkNC" href="NewCustomers.aspx" style="font-size: 1.2em;">New Customers</a>
+        </li>
+        <li>
+            <a id="ctl00_MasterContentPlaceHolder_infoMenu_lnkRP" href="ReturnPolicy.aspx" style="font-size: 1.2em;">Return Policy</a>
+        </li>
+        <li>
+            <a id="ctl00_MasterContentPlaceHolder_infoMenu_lnkST" href="SearchTips.aspx" style="font-size: 1.2em;">Search Tips</a>
+        </li>
+        <li>
+            <a id="ctl00_MasterContentPlaceHolder_infoMenu_lnkS" href="Security.aspx" style="font-size: 1.2em;">Security</a>
+        </li>
+        <li>
+            <a id="ctl00_MasterContentPlaceHolder_infoMenu_lnkTAC" href="TermsConditions.aspx" style="font-size: 1.2em;">Terms and Conditions</a>
+        </li>
+        <li>
+            <a id="ctl00_MasterContentPlaceHolder_infoMenu_lnkWPP" href="WebsitePrivacyPolicy.aspx" style="font-size: 1.2em;">Website Privacy Policy</a>
+        </li>
+    </ul>
+</div>
 
-				</div><!-- Closes #container -->
-			</div><!-- Closes #container-inner -->
-		</div><!-- Closes #outer-container -->
-		
-		
-		
-		
-			
+<script language="javascript" type="text/javascript">
+<!--
+
+    $(document).ready(function() {
+        if ($('#ctl00_MasterContentPlaceHolder_infoMenu_Culture').val() == 'fr-CA')
+            $('.infoMenuLinks li a').css('font-size', '1.0em');
+        else
+            $('.infoMenuLinks li a').css('font-size', '1.2em');
+    });
+
+//-->
+</script>
+
+
+    <div id="ctl00_MasterContentPlaceHolder_LeftTower_towers"></div>
+</div>
+
+
+
+                <div class="fClear"></div>
+
+            </div>
+        </div>
+
+        <div id="Footer">
+            <div class="footerLinks">
+                ©&nbsp;hmv&nbsp;•&nbsp;2010&nbsp;&nbsp;
+                <a href="ContactUs.aspx" id="ctl00_lnkContact">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="CustomerPrivacyPolicy.aspx" id="ctl00_lnkPrivacy">Customer Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="WebsitePrivacyPolicy.aspx" id="ctl00_lnkWebPrivacy">Web site Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="About.aspx" id="ctl00_lnkAbout">About hmv</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="http://clients.njoyn.com/CGI/xweb/Xweb.asp?clid=21708&amp;page=joblisting&amp;lang=1" id="ctl00_lnkCareers" target="_blank">hmv Careers</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="GiftCardAgreement.aspx" id="ctl00_lnkGift">Gift Card Agreement</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="TermsConditions.aspx" id="ctl00_lnkTerms">Terms &amp; Conditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="http://www.hmvgroup.com" id="ctl00_lnkGroup" target="_blank">hmv group</a>
+            </div>
+        </div>
+        <div id="SubFooter">
+            <div class="subFooterText">
+                <p id="ctl00_muze1">Powered by MUZE ® MC</p>
+                <p id="ctl00_muze2">MuzeMusic, MuzeVideo Copyright MUZE&nbsp;©2010</p>
+                <p id="ctl00_muze3">MuzeGames Joint copyright Muze Inc, and IGN Entertainment Inc Copyright&nbsp;©2010</p>
+                <p id="ctl00_muze4">For personal non-commercial use only.  All rights reserved.</p>
+            </div>
+        </div>
+            
+    
+
+<script type="text/javascript">
+//<![CDATA[
+
+Sys.Application.setServerId("ctl00_smCMSMasterInner", "ctl00$smCMSMasterInner");
+
+Sys.Application._enableHistoryInScriptManager();
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.AutoCompleteBehavior, {"completionInterval":100,"completionListCssClass":"AutoCompleteExtender_CompletionList","completionListItemCssClass":"AutoCompleteExtender_CompletionListItem","delimiterCharacters":"","highlightedItemCssClass":"AutoCompleteExtender_HighlightedItem","id":"AutoCompleteEx","minimumPrefixLength":2,"serviceMethod":"FetchSearchHints","servicePath":"../SearchHintsService.asmx"}, {"itemSelected":fetchItems_selected,"populated":fetchItems_Populated}, null, $get("ctl00_Search"));
+});
+//]]>
+</script>
+</form>
+    
+
+
+<script language="javascript" type="text/javascript">
+<!--
+
+    $(document).ready(function() {
+
+        $(".pageHeader").corner("10px tl tr");
+        $(".sectionHeader").corner("10px tl tr");
+        $(".AutoCompleteExtender_CompletionList").corner("5px");
+
+    });
+    
+    function fetchItems_Populated(sender, e) {
+        var items = sender.get_completionList().childNodes;
+        var searchText = sender.get_element().value;
+
+        for (var i = 0; i < items.length; i++)
+        {
+            var item = items[i]._value;
+            items[i].innerHTML = item.replace(new RegExp('(' + searchText + ')', 'gi'), "<font style='color: #ED0667;'><b>$1</b></font>");
+        }
+    }
+    
+    function fetchItems_selected(sender, e) {
+		if(document.all) {
+			$('#ctl00_Search').val(sender._completionListElement.childNodes[sender._selectIndex].innerText);
+		} else {
+			$('#ctl00_Search').val(sender._completionListElement.childNodes[sender._selectIndex].textContent);
+		}
+    }
+
+    sfHover = function() {
+        var sfEls = document.getElementById("nav-one").getElementsByTagName("LI");
+        for (var i = 0; i < sfEls.length; i++)
+        {
+            sfEls[i].onmouseover = function() {
+                this.className += " sfhover";
+            }
+            sfEls[i].onmouseout = function() {
+                this.className = this.className.replace(new RegExp(" sfhover\\b"), "");
+            }
+        }
+    }
+    if (window.attachEvent) window.attachEvent("onload", sfHover);
+
+//-->
+</script>
+
 
 <!-- START OF SDC Advanced Tracking Code -->
-<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-<!-- $DateTime: 2005/12/15 15:37:36 $ -->
-
-	
-
-
+<!-- Copyright (c) 1996-2009 WebTrends Inc.  All rights reserved. -->
+<!-- V8.0 -->
+<!-- $DateTime: 2007/02/16 11:44:56 $ -->
 <script type="text/javascript"><!--
-
-
-
-			additionalPageParameters = additionalPageParameters + "&" + "pType" + "=" + "Catalogue";
-			additionalPageParameters = additionalPageParameters + "&" + "WT.ti" + "=" + "hmv.ca";
-
-
-	if(wtParameterArray){	
-		for (parameter in wtParameterArray) {
-			parameterName = parameter;
-			parameterValue = wtParameterArray[parameter];
-			additionalParameters = additionalParameters + "&" + parameterName + "=" + parameterValue;
+var gService = false;
+var gTimeZone = -5;
+// Code section for Enable First-Party Cookie Tracking
+function dcsCookie(){
+	if (typeof(dcsOther)=="function"){
+		dcsOther();
+	}
+	else if (typeof(dcsPlugin)=="function"){
+		dcsPlugin();
+	}
+	else if (typeof(dcsFPC)=="function"){
+		dcsFPC(gTimeZone);
+	}
+}
+function dcsGetCookie(name){
+	var pos=document.cookie.indexOf(name+"=");
+	if (pos!=-1){
+		var start=pos+name.length+1;
+		var end=document.cookie.indexOf(";",start);
+		if (end==-1){
+			end=document.cookie.length;
+		}
+		return unescape(document.cookie.substring(start,end));
+	}
+	return null;
+}
+function dcsGetCrumb(name,crumb){
+	var aCookie=dcsGetCookie(name).split(":");
+	for (var i=0;i<aCookie.length;i++){
+		var aCrumb=aCookie[i].split("=");
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
 		}
 	}
+	return null;
+}
+function dcsGetIdCrumb(name,crumb){
+	var cookie=dcsGetCookie(name);
+	var id=cookie.substring(0,cookie.indexOf(":lv="));
+	var aCrumb=id.split("=");
+	for (var i=0;i<aCrumb.length;i++){
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
+		}
+	}
+	return null;
+}
+function dcsIsFpcSet(name,id,lv,ss){
+	if (id==dcsGetIdCrumb(name,"id")){
+		if (lv==dcsGetCrumb(name,"lv")){
+		   	if (ss=dcsGetCrumb(name,"ss")){
+				return true;
+			}
+		}
+	}
+	return false;
+}
+function dcsFPC(offset){
+	if (typeof(offset)=="undefined"){
+		return;
+	}
+	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
+		return;
+	}
+	var name=gFpc;
+	var dCur=new Date();
+	var adj=(dCur.getTimezoneOffset()*60000)+(offset*3600000);
+	dCur.setTime(dCur.getTime()+adj);
+	var dExp=new Date(dCur.getTime()+315360000000);
+	var dSes=new Date(dCur.getTime());
+	WT.co_f=WT.vt_sid=WT.vt_f=WT.vt_f_a=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
+	if (document.cookie.indexOf(name+"=")==-1){
+		if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
+			WT.co_f=gWtId;
+		}
+		else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
+			WT.co_f=gTempWtId;
+			WT.vt_f="1";
+		}
+		else{
+			WT.co_f="2";
+			var cur=dCur.getTime().toString();
+			for (var i=2;i<=(32-cur.length);i++){
+				WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
+			}
+			WT.co_f+=cur;
+			WT.vt_f="1";
+		}
+		if (typeof(gWtAccountRollup)=="undefined"){
+			WT.vt_f_a="1";
+		}
+		WT.vt_f_s=WT.vt_f_d="1";
+		WT.vt_f_tlh=WT.vt_f_tlv="0";
+	}
+	else{
+		var id=dcsGetIdCrumb(name,"id");
+		var lv=parseInt(dcsGetCrumb(name,"lv"));
+		var ss=parseInt(dcsGetCrumb(name,"ss"));
+		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
+			return;
+		}
+		WT.co_f=id;
+		var dLst=new Date(lv);
+		WT.vt_f_tlh=Math.floor((dLst.getTime()-adj)/1000);
+		dSes.setTime(ss);
+		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
+			WT.vt_f_tlv=Math.floor((dSes.getTime()-adj)/1000);
+			dSes.setTime(dCur.getTime());
+			WT.vt_f_s="1";
+		}
+		if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
+			WT.vt_f_d="1";
+		}
+	}
+	WT.co_f=escape(WT.co_f);
+	WT.vt_sid=WT.co_f+"."+(dSes.getTime()-adj);
+	var expiry="; expires="+dExp.toGMTString();
+	document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
+	if (!dcsIsFpcSet(name,WT.co_f,dCur.getTime().toString(),dSes.getTime().toString())){
+		WT.co_f=WT.vt_sid=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
+		WT.vt_f=WT.vt_f_a="2";
+	}
+}
+
+// Code section for Use the new first-party cookie generated with this tag.
+var gFpc="WT_FPC";
+var gConvert=true;
+
+function dcsAdv(){
+	dcsFunc("dcsET");
+	dcsFunc("dcsCookie");
+	dcsFunc("dcsAdSearch");
+	dcsFunc("dcsTP");
+}
+
+//-->
+</script>
+<!-- END OF SDC Advanced Tracking Code -->
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2009 WebTrends Inc.  All rights reserved. -->
+<!-- V8.0 -->
+<!-- $DateTime: 2007/03/01 14:48:29 $ -->
+<script type="text/javascript"><!--
+var gDomain="www.online.hmv.ca";
+var gDcsId="dcse6ufx2mi4imw5u7k43a8rt_9j2z";
+
+
+if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)&&(document.cookie.indexOf("WTLOPTOUT=")==-1)){
+	document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
+}
+//-->
+</script>
+<script type="text/javascript"><!--
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var WT=new Object();
+var DCSext=new Object();
+var gQP=new Array();
+var gI18n=false;
+if (window.RegExp){
+	var RE=gI18n?{"%25":/\%/g}:{"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g,"%22":/\"/g,"%7F":/\x7F/g,"%A0":/\xA0/g};
+	if (gI18n){
+		var EXRE=/dcs(uri)|(ref)|(aut)|(met)|(sta)|(sip)|(pro)|(byt)|(dat)|(p3p)|(cfg)|(redirect)|(cip)/i;
+	}
+}
+
+// Add customizations here
+
+function dcsVar(){
+	var dCurrent=new Date();
+	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
+	if (WT.tz==0){
+		WT.tz="0";
+	}
+	WT.bh=dCurrent.getHours();
+	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
+	if (typeof(screen)=="object"){
+		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
+		WT.sr=screen.width+"x"+screen.height;
+	}
+	if (typeof(navigator.javaEnabled())=="boolean"){
+		WT.jo=navigator.javaEnabled()?"Yes":"No";
+	}
+	if (document.title){
+		WT.ti=document.title;
+	}
+	WT.js="Yes";
+	WT.jv=dcsJV();
+	if (document.body&&document.body.addBehavior){
+		document.body.addBehavior("#default#clientCaps");
+		WT.ct=document.body.connectionType||"unknown";
+		document.body.addBehavior("#default#homePage");
+		WT.hp=document.body.isHomePage(location.href)?"1":"0";
+	}
+	else{
+		WT.ct="unknown";
+	}
+	if (parseInt(navigator.appVersion)>3){
+		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
+			WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
+		}
+		else if (navigator.appName=="Netscape"){
+			WT.bs=window.innerWidth+"x"+window.innerHeight;
+		}
+	}
+	WT.fi="No";
+	if (window.ActiveXObject){
+		for(var i=10;i>0;i--){
+			try{
+				var flash = new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+i);
+				WT.fi="Yes";
+				WT.fv=i+".0";
+				break;
+			}
+			catch(e){
+			}
+		}
+	}
+	else if (navigator.plugins&&navigator.plugins.length){
+		for (var i=0;i<navigator.plugins.length;i++){
+			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
+				WT.fi="Yes";
+				WT.fv=navigator.plugins[i].description.split(" ")[2];
+				break;
+			}
+		}
+	}
+	if (gI18n){
+		WT.em=(typeof(encodeURIComponent)=="function")?"uri":"esc";
+		if (typeof(document.defaultCharset)=="string"){
+			WT.le=document.defaultCharset;
+		} 
+		else if (typeof(document.characterSet)=="string"){
+			WT.le=document.characterSet;
+		}
+	}
+	WT.tv="8.0.3";
+	WT.sp="@@SPLITVALUE@@";
+	DCS.dcsdat=dCurrent.getTime();
+	DCS.dcssip=window.location.hostname;
+	DCS.dcsuri=window.location.pathname;
+	if (window.location.search){
+		DCS.dcsqry=window.location.search;
+		if (gQP.length>0){
+			for (var i=0;i<gQP.length;i++){
+				var pos=DCS.dcsqry.indexOf(gQP[i]);
+				if (pos!=-1){
+					var front=DCS.dcsqry.substring(0,pos);
+					var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
+					DCS.dcsqry=front+end;
+				}
+			}
+		}
+	}
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
+		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+			DCS.dcsref=window.document.referrer;
+		}
+	}
+}
+
+function dcsA(N,V){
+	if (gI18n&&!EXRE.test(N)){
+		if (N=="dcsqry"){
+			var newV="";
+			var params=V.substring(1).split("&");
+			for (var i=0;i<params.length;i++){
+				var pair=params[i];
+				var pos=pair.indexOf("=");
+				if (pos!=-1){
+					var key=pair.substring(0,pos);
+					var val=pair.substring(pos+1);
+					if (i!=0){
+						newV+="&";
+					}
+					newV+=key+"="+dcsEncode(val);
+				}
+			}
+			V=V.substring(0,1)+newV;
+		}
+		else{
+			V=dcsEncode(V);
+		}
+	}
+	return "&"+N+"="+dcsEscape(V, RE);
+}
+
+function dcsEscape(S, REL){
+	if (typeof(REL)!="undefined"){
+		var retStr = new String(S);
+		for (var R in REL){
+			retStr = retStr.replace(REL[R],R);
+		}
+		return retStr;
+	}
+	else{
+		return escape(S);
+	}
+}
+
+function dcsEncode(S){
+	return (typeof(encodeURIComponent)=="function")?encodeURIComponent(S):escape(S);
+}
+
+function dcsCreateImage(dcsSrc){
+	if (document.images){
+		gImages[gIndex]=new Image;
+		gImages[gIndex].src=dcsSrc;
+		gIndex++;
+	}
+	else{
+		document.write('<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
+	}
+}
+
+function dcsMeta(){
+	var elems;
+	if (document.all){
+		elems=document.all.tags("meta");
+	}
+	else if (document.documentElement){
+		elems=document.getElementsByTagName("meta");
+	}
+	if (typeof(elems)!="undefined"){
+		var length=elems.length;
+		for (var i=0;i<length;i++){
+			var name=elems.item(i).name;
+			var content=elems.item(i).content;
+			var equiv=elems.item(i).httpEquiv;
+			if (name.length>0){
+				if (name.indexOf("WT.")==0){
+					WT[name.substring(3)]=content;
+				}
+				else if (name.indexOf("DCSext.")==0){
+					DCSext[name.substring(7)]=content;
+				}
+				else if (name.indexOf("DCS.")==0){
+					DCS[name.substring(4)]=content;
+				}
+			}
+			else if (gI18n&&(equiv=="Content-Type")){
+				var pos=content.toLowerCase().indexOf("charset=");
+				if (pos!=-1){
+					WT.mle=content.substring(pos+8);
+				}
+			}
+		}
+	}
+}
+
+function dcsTag(){
+	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
+		return;
+	}
+	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
+	for (var N in DCS){
+		if (DCS[N]){
+			P+=dcsA(N,DCS[N]);
+		}
+	}
+	var keys=["co_f","vt_sid","vt_f_tlv"];
+	for (var i=0;i<keys.length;i++){
+		var key=keys[i];
+		if (WT[key]){
+			P+=dcsA("WT."+key,WT[key]);
+			delete WT[key];
+		}
+	}
+	for (N in WT){
+		if (WT[N]){
+			P+=dcsA("WT."+N,WT[N]);
+		}
+	}
+	for (N in DCSext){
+		if (DCSext[N]){
+			P+=dcsA(N,DCSext[N]);
+		}
+	}
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+		P=P.substring(0,2040)+"&WT.tu=1";
+	}
+	dcsCreateImage(P);
+}
+
+function dcsJV(){
+	var agt=navigator.userAgent.toLowerCase();
+	var major=parseInt(navigator.appVersion);
+	var mac=(agt.indexOf("mac")!=-1);
+	var ff=(agt.indexOf("firefox")!=-1);
+	var ff0=(agt.indexOf("firefox/0.")!=-1);
+	var ff10=(agt.indexOf("firefox/1.0")!=-1);
+	var ff15=(agt.indexOf("firefox/1.5")!=-1);
+	var ff2up=(ff&&!ff0&&!ff10&!ff15);
+	var nn=(!ff&&(agt.indexOf("mozilla")!=-1)&&(agt.indexOf("compatible")==-1));
+	var nn4=(nn&&(major==4));
+	var nn6up=(nn&&(major>=5));
+	var ie=((agt.indexOf("msie")!=-1)&&(agt.indexOf("opera")==-1));
+	var ie4=(ie&&(major==4)&&(agt.indexOf("msie 4")!=-1));
+	var ie5up=(ie&&!ie4);
+	var op=(agt.indexOf("opera")!=-1);
+	var op5=(agt.indexOf("opera 5")!=-1||agt.indexOf("opera/5")!=-1);
+	var op6=(agt.indexOf("opera 6")!=-1||agt.indexOf("opera/6")!=-1);
+	var op7up=(op&&!op5&&!op6);
+	var jv="1.1";
+	if (ff2up){
+		jv="1.7";
+	}
+	else if (ff15){
+		jv="1.6";
+	}
+	else if (ff0||ff10||nn6up||op7up){
+		jv="1.5";
+	}
+	else if ((mac&&ie5up)||op6){
+		jv="1.4";
+	}
+	else if (ie5up||nn4||op5){
+		jv="1.3";
+	}
+	else if (ie4){
+		jv="1.2";
+	}
+	return jv;
+}
+
+function dcsFunc(func){
+	if (typeof(window[func])=="function"){
+		window[func]();
+	}
+}
+
 dcsVar();
 dcsMeta();
 dcsFunc("dcsAdv");
 dcsTag();
- 
 //-->
 </script>
 
 <noscript>
-<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcszvdi9hoifwzj8z5nosjjah_6i9k/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
+<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://www.online.hmv.ca/dcse6ufx2mi4imw5u7k43a8rt_9j2z/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.2">
 </noscript>
-<!-- END OF SmartSource Data Collector  TAG -->
-		
+<!-- END OF SmartSource Data Collector  TAG -->	
 
-		
-	
-	<!-- END WEBSITE BASE LAYOUT ONE COL BODY -->
 
 </body></html>
