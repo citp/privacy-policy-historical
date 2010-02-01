@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvglee.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130234323id_/http%3A//www.tvglee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvglee.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201054846id_/http%3A//www.tvglee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | glee - FOX Wednesday's 9pm! Glee TV Show!
 
