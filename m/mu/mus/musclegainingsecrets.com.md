@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musclegainingsecrets.com privacy policy that was archived on 2009-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090818073154id_/http%3A//www.musclegainingsecrets.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musclegainingsecrets.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201140607id_/http%3A//www.musclegainingsecrets.com/privacy.htm) for the most accurate reproduction.*
 
 # How To Build Muscle and Gain Weight Fast - Top Mass Building System
 
