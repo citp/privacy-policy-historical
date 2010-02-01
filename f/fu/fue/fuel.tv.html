@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fuel.tv privacy policy that was archived on 2009-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091202053446id_/http%3A//www.fuel.tv/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fuel.tv privacy policy that was archived on 2010-02-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100201050622id_/http%3A//www.fuel.tv/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
@@ -35,7 +35,7 @@
 
 <script type="text/javascript" charset="utf-8">
 // <!--
-  var server_seconds = 1259732086;
+  var server_seconds = 1265000781;
   var currentNotificationSerial = "0";
 // -->
 </script>
@@ -132,6 +132,10 @@ function loadGetFuelTv() {
 
       jQuery('#middle').prev('#heading').css("background", "white");
 
+      jQuery('.dropdown .intl_go_button').click(function() {
+        window.open(jQuery(this).closest('.dropdown').find('.select_model')[0].value);
+      }); 
+
     });
   </script>
 
@@ -145,26 +149,118 @@ function loadGetFuelTv() {
   <link href="http://ss.servers.fuel.tv/assets/stylesheets/compat.css?v000110" media="screen" rel="Stylesheet" type="text/css">
 
   <style type="text/css">
+    #forum_categories .category dl.manage { float: right; width: 220px; }
+
+    #forum_categories .category { width: 100%; padding-left: 0px; padding-right: 0px; float: left; }
+    #forum_categories .category dd.description,
+    #forum_categories .category dt.posts { clear: left; }
+
+    #forum_categories .category dt.posts,
+    #forum_categories .category dt.threads { width: 50px; }
+
+    #forum_categories .category dt.description,
+    #forum_categories .category dt.admin_tools,
+    #forum_categories .category dt.last_post_datetime,
+    #forum_categories .category dt.title { display: none; }
+
     #header ul#main-nav a em { padding: 0px 14px; }
     #header ul#main-nav a.for_wakeboarding em { padding: 0px 14px; }
 
     #right { overflow: visible; }
+    .shows_calendar_header .page { width: auto; }
+
+    .pagination, .paging { margin-bottom: 5px; }
+
+
+
+    #forum_listings .last_post { float: right; width: 175px; }
+    #forum_listings .last_post dd { margin-right: 25px; }
+
+    .listing dt.last_post_author, .header dt.last_post_author,
+    .listing dt.last_post_datetime, .header dt.last_post_datetime,
+    .listing dt.replies, .header dt.replies,
+    .listing dt.views, .header dt.views,
+    .listing dt.bookmark_link, .header dt.bookmark_link,
+    .listing dt.title, .header dt.title,
+    dt.thread_icon,
+    #forum_listings .header dt.thread_icon, 
+    #forum_listings .header dd.last_post_author,
+    #forum_listings .header dt.author { display: none; }
+    #forum_listings .header a { color: #006EC1 }
+
+    #forum_listings .header {
+      -moz-background-clip:border;
+      -moz-background-inline-policy:continuous;
+      -moz-background-origin:padding;
+      -moz-border-radius-topleft:5px;
+      -moz-border-radius-topright:5px;
+      -moz-box-shadow:-2px 2px 2px #C8C8C8;
+      background:#CFCFCF url(http://www.vbulletin.com/forum/images/gradients/gradient-white-down.png) repeat-x scroll 0 0;
+      border:1px solid #C4C4C4;
+      display:block;
+      float:left;
+      margin:0;
+      width:100%;
+    }
+
+    .listing dt.title, .listing dd.title { margin-bottom: 3px; }
+
+    dl.thread_meta { float: left; width: 50%; padding-top:5px; padding-bottom:5px;}
+    dl.thread_stats, dl.thread_last_post { float: left; padding-top: 5px; padding-bottom: 5px; }
+    dl.thread_icons { float: left; margin-left: 10px; margin-right:10px; width: 40px; }
+    dl.thread_meta dt, dl.thread_meta dd { float: left; padding-right: 5px; }
+    dl.thread_stats dt, dl.thread_stats dd { float: left; padding-right: 5px; }
+    dl.thread_last_post dt, dl.thread_last_post dd { float: left; padding-right: 5px; }
+
+    .listing dl.thread_meta dt.author { clear: left; }
+    .listing dl.thread_last_post .last_post_datetime { clear: left; }
+    dl.thread_last_post { width: 17%; float: right; height:20px; padding-bottom:25px; padding-left:25px; padding-top:5px; width:220px; }
+    .header dl.thread_last_post,
+    .header dl.thread_stats { padding-bottom:0px; padding-top: 0px }
+    dl.thread_stats .replies, dl.thread_stats .views { height: 30px; width: 100px; text-align: center; font-size: 1em; padding-top: 10px; }
+
+    #forum_listings .listing, #forum_categories .category { 
+      float: left; 
+      width: 100%;
+      font-size: 1em;
+      background: #F2F6F8 url(http://static8.servers.fuel.tv/fuel.tv/images/grey-up.png) repeat-x scroll left bottom;
+      border-color:#FFFFFF #C4C4C4 #C4C4C4 !important; border:1px solid;
+      padding: 0px;
+    }
+    #forum_listings .title { font-size: 1em; }
+    #forum_listings .header .title { color: black; }
+    .icon_gender { display: none; }
+
+    #forum_listings dd.last_post_author a { color: #006EC1; font-size: 1em; }
+    #forum_listings dd.last_post_author { margin-bottom: 3px; }
+    #forum_listings dl.thread_options { padding-top: 21px; float: left; }
+		#forum_listings dd.replies { padding-bottom:5px; padding-top:15px; width:60px; }
+		#forum_listings dd.views {padding-top:15px; padding-bottom:5px; width:60px;}
+    #forum_listings .header dd.views,
+    #forum_listings .header dd.replies,
+    #forum_listings .header dl.thread_meta,
+    #forum_listings .header dl.thread_last_post { padding-bottom: 0px; padding-top: 0px; height: auto; }
+
+    #forum_listings .header { padding: 5px 0px; font-weight: bold; }
   </style>
 
   
   
 
- <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+ <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-  _uacct = "UA-2656025-2";
+try{
+var pageTracker = _gat._getTracker("UA-2656025-2");
 
   
-    
-    
-      urchinTracker("/help/privacy/");
-    
   
+    pageTracker._trackPageview("/help/privacy/");
+  
+
+} catch(err) {}
 </script>
 
 </head>
@@ -583,12 +679,12 @@ days after you contact Fuel TV.</p>
   <script language="JavaScript" type="text/javascript">
   //<!--
   document.write('<script language="JavaScript" ' +
-                         'src="http://ad.doubleclick.net/adj/fuel.help/privacy;logged_in=false;sz=728x90;tile=1;ord=' + doubleclick_ord + '?"' +
+                         'src="http://ad.doubleclick.net/adj/fuel.help/privacy;sz=728x90;tile=1;logged_in=false;ord=' + doubleclick_ord + '?"' +
                          'type="text/javascript"></scr' + 'ipt>');
   //-->
-  </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/fuel.help/privacy;logged_in=false;sz=728x90;tile=1;ord=2637284858697273?" type="text/javascript"></script>
-  <noscript><a  href="http://ad.doubleclick.net/jump/fuel.help/privacy;logged_in=false;sz=728x90;tile=1;ord=123456789?" 
-                target="_blank"><img  src="http://ad.doubleclick.net/ad/fuel.help/privacy;logged_in=false;sz=728x90;tile=1;ord=123456789?" 
+  </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/fuel.help/privacy;sz=728x90;tile=1;logged_in=false;ord=273182680246337.75?" type="text/javascript"></script>
+  <noscript><a  href="http://ad.doubleclick.net/jump/fuel.help/privacy;sz=728x90;tile=1;logged_in=false;ord=123456789?" 
+                target="_blank"><img  src="http://ad.doubleclick.net/ad/fuel.help/privacy;sz=728x90;tile=1;logged_in=false;ord=123456789?" 
                                       width="728" 
                                       height="90" 
                                       border="0" alt="" /></a></noscript>
@@ -613,6 +709,40 @@ days after you contact Fuel TV.</p>
         <form class="global_search" action="http://www.fuel.tv/search" method="get">
           <div class="subscribe">
             <div class="channel_finder">
+	
+	<link rel="stylesheet" href="http://ss.servers.fuel.tv/assets/javascripts/woo-switcher/switcher.css"> 
+<script src="http://ss.servers.fuel.tv/assets/javascripts/woo-switcher/general.js" type="text/javascript"></script>
+<script src="http://ss.servers.fuel.tv/assets/javascripts/woo-switcher/tooltips.js" type="text/javascript"></script>
+<script src="http://ss.servers.fuel.tv/assets/javascripts/woo-switcher/styleselect.js" type="text/javascript"></script>
+
+<div class="dropdown_bg">
+  <div class="dropdown" id="themes">
+    <img src="http://static8.servers.fuel.tv/fuel.tv/images/dropdown_bg.png" style="display: none;">
+    <img src="http://static8.servers.fuel.tv/fuel.tv/images/dropdown_bg.png" style="display: none;">
+    <h2><a href="#" class="">International</a></h2>
+    <div class="list" style="display: none;"><div class="inside">
+      <input type="hidden" class="select_model" value="">
+      <ul>
+        
+          <li rel="0">
+          <a rel="http://www.foxsports.com.au/fueltv/" href="#">
+            <span class="leftbox"><span class="name">Australia</span></span>
+          </a></li>
+        
+          <li rel="1">
+          <a rel="http://www.fuel.tv/fueltvportugal/" href="#">
+            <span class="leftbox"><span class="name">Portugal</span></span>
+          </a></li>
+        
+      </ul>
+    </div></div>
+    <div class="dropdown_btn">
+      <img class="intl_go_button" src="http://static8.servers.fuel.tv/fuel.tv/images/dropdown_go_btn.png">
+    </div>
+  </div>
+</div>
+
+	
 	<!--
               <script src="http://fueltv.channelfinder.net/js/embed_CF_TINY_v2.js" type="text/javascript"></script>
 
@@ -636,6 +766,7 @@ days after you contact Fuel TV.</p>
              <ul>
                  <li><a href="http://www.fuel.tv/schedule/">Schedule</a></li>
                  <li><a href="http://www.fuel.tv/allshows/">Shows</a></li>
+                 <li><a href="http://www.fuel.tv/forums/topics/115/">Forums</a></li>
                  <li><a href="http://fueltv.channelfinder.net/start.asp" target="_blank">GET FUEL TV</a></li>
 
              </ul>
@@ -655,11 +786,11 @@ days after you contact Fuel TV.</p>
           
           <li><a href="http://www.fuel.tv/skateboarding/" class="nav_link for_skateboarding "><em>skateboarding</em></a>
              <ul>
-                 <li><a href="/skateboarding/videos/">Videos</a></li>
-                 <li><a href="/search?cl=33743&amp;name=Features">Stories</a></li>
-                 <li><a href="/skateboarding/photos/">Photos</a></li>
-                 <li><a href="/search?cl=33749&amp;name=News">News</a></li>
-                 <li><a href="/skateboarding/forums/">Forums</a></li>
+                 <li><a href="http://www.fuel.tv/skateboarding/videos" target="">Videos</a></li>
+                 <li><a href="http://www.fuel.tv/search?cl=33743&amp;name=Features" target="">Stories</a></li>
+                 <li><a href="http://www.fuel.tv/skateboarding/photos" target="">Photos</a></li>
+                 <li><a href="http://www.fuel.tv/search?cl=33743&amp;name=News" target="">News</a></li>
+                 <li><a href="http://www.fuel.tv/forums/topics/116" target="">Forums</a></li>
 
              </ul>
           </li>
@@ -667,11 +798,11 @@ days after you contact Fuel TV.</p>
           
           <li><a href="http://www.fuel.tv/snowboarding/" class="nav_link for_snowboarding "><em>snowboarding</em></a>
              <ul>
-                 <li><a href="/snowboarding/videos/">Videos</a></li>
-                 <li><a href="/search?cl=33744&amp;name=Features">Stories</a></li>
-                 <li><a href="/snowboarding/photos/">Photos</a></li>
-                 <li><a href="/search?cl=33751&amp;name=News">News</a></li>
-                 <li><a href="/snowboarding/forums/">Forums</a></li>
+                 <li><a href="http://www.fuel.tv/snowboarding/videos" target="">Videos</a></li>
+                 <li><a href="http://www.fuel.tv/search?cl=33744&amp;name=Features" target="">Stories</a></li>
+                 <li><a href="http://www.fuel.tv/snowboarding/photos" target="">Photos</a></li>
+                 <li><a href="http://www.fuel.tv/search?cl=33744&amp;name=News" target="">News</a></li>
+                 <li><a href="http://www.fuel.tv/forums/topics/117" target="">Forums</a></li>
                  <li><a href="/search?cl=33906&amp;name=Girls">Girls</a></li>
 
              </ul>
@@ -680,11 +811,11 @@ days after you contact Fuel TV.</p>
           
           <li><a href="http://www.fuel.tv/surfing/" class="nav_link for_surfing "><em>surfing</em></a>
              <ul>
-                 <li><a href="/surfing/videos/">Videos</a></li>
-                 <li><a href="/search?cl=33745&amp;name=Features">Stories</a></li>
-                 <li><a href="/surfing/photos/">Photos</a></li>
-                 <li><a href="/search?cl=33752&amp;name=News">News</a></li>
-                 <li><a href="/surfing/forums/">Forums</a></li>
+                 <li><a href="http://www.fuel.tv/surfing/videos" target="">Videos</a></li>
+                 <li><a href="http://www.fuel.tv/search?cl=33752&amp;name=Features" target="">Stories</a></li>
+                 <li><a href="http://www.fuel.tv/surfing/photos" target="">Photos</a></li>
+                 <li><a href="http://www.fuel.tv/search?cl=33752&amp;name=News" target="">News</a></li>
+                 <li><a href="http://www.fuel.tv/forums/topics/118" target="">Forums</a></li>
                  <li><a href="/search?cl=33907&amp;name=Girls">Girls</a></li>
 
              </ul>
@@ -696,8 +827,8 @@ days after you contact Fuel TV.</p>
                  <li><a href="/bmx/videos/" target="">Videos</a></li>
                  <li><a href="http://www.fuel.tv/bmx/photos/" target="">Photos</a></li>
                  <li><a href="http://www.fuel.tv/search?cl=33753&amp;name=News" target="">News</a></li>
-                 <li><a href="http://www.fuel.tv/bmx/forums/" target="">Forums</a></li>
                  <li><a href="http://www.fuel.tv/search?cl=33746&amp;name=Features" target="">Stories</a></li>
+                 <li><a href="http://www.fuel.tv/forums/topics/114" target="">Forums</a></li>
 
              </ul>
           </li>
@@ -709,7 +840,7 @@ days after you contact Fuel TV.</p>
                  <li><a href="http://www.fuel.tv/search?cl=33747&amp;name=Features" target="">Stories</a></li>
                  <li><a href="http://www.fuel.tv/moto/photos/" target="">Photos</a></li>
                  <li><a href="http://www.fuel.tv/search?cl=33754&amp;name=News" target="">News</a></li>
-                 <li><a href="http://www.fuel.tv/moto/forums/" target="">Forums</a></li>
+                 <li><a href="http://www.fuel.tv/forums/topics/119" target="">Forums</a></li>
 
              </ul>
           </li>
@@ -717,11 +848,11 @@ days after you contact Fuel TV.</p>
           
           <li><a href="http://www.fuel.tv/wakeboarding/" class="nav_link for_wakeboarding "><em>wakeboarding</em></a>
              <ul>
-                 <li><a href="/wakeboarding/videos/">Videos</a></li>
-                 <li><a href="/search?cl=33748&amp;name=Features">Stories</a></li>
-                 <li><a href="/wakeboarding/photos/">Photos</a></li>
-                 <li><a href="/search?cl=33755&amp;name=News">News</a></li>
-                 <li><a href="/wakeboarding/forums/">Forums</a></li>
+                 <li><a href="http://www.fuel.tv/wakeboarding/videos/" target="">Videos</a></li>
+                 <li><a href="http://www.fuel.tv/search?cl=33748&amp;name=Features" target="">Stories</a></li>
+                 <li><a href="http://www.fuel.tv/wakeboarding/photos/" target="">Photos</a></li>
+                 <li><a href="http://www.fuel.tv/search?cl=33755&amp;name=News" target="">News</a></li>
+                 <li><a href="http://www.fuel.tv/forums/topics/120" target="">Forums</a></li>
 
              </ul>
           </li>
@@ -729,13 +860,13 @@ days after you contact Fuel TV.</p>
           
           <li><a href="http://www.fuel.tv/music/" class="nav_link for_music "><em>music</em></a>
              <ul>
-                 <li><a href="/music">Videos</a></li>
-                 <li><a href="http://www.fuel.tv/blogs?group_name=musicwire">Stories</a></li>
-                 <li><a href="/askaband/">Ask A Band</a></li>
-                 <li><a href="http://www.fuel.tv/blogs?group_name=sosaysi">So Says I</a></li>
-                 <li><a href="http://www.fuel.tv/blogs?group_name=numutu">NUMUTU</a></li>
-                 <li><a href="http://www.fuel.tv/blogs?group_name=newandapproved">New and Approved</a></li>
-                 <li><a href="/search/forums?q=music">Forums</a></li>
+                 <li><a href="http://www.fuel.tv/music/" target="">Videos</a></li>
+                 <li><a href="http://musicwire.fuel.tv/blogs" target="">Stories</a></li>
+                 <li><a href="http://www.fuel.tv/askaband/" target="">Ask A Band</a></li>
+                 <li><a href="http://sosaysi.fuel.tv/blogs" target="">So Says I</a></li>
+                 <li><a href="http://numutu.fuel.tv/blogs" target="">NUMUTU</a></li>
+                 <li><a href="http://newandapproved.fuel.tv/blogs" target="">New And Approved</a></li>
+                 <li><a href="/music/forums/" target="">Forums</a></li>
 
              </ul>
           </li>
@@ -745,6 +876,7 @@ days after you contact Fuel TV.</p>
              <ul>
                  <li><a href="/sweepstakes">Contests</a></li>
                  <li><a href="/builttoshredgame">Video Game</a></li>
+                 <li><a href="/stickers">Stickers</a></li>
 
              </ul>
           </li>
@@ -821,17 +953,20 @@ else { _rsCI = "us-fueltv"; }
 
 
 
-  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+  <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-  _uacct = "UA-2656025-2";
+try{
+var pageTracker = _gat._getTracker("UA-2656025-2");
 
   
-    
-    
-      urchinTracker("/help/privacy/");
-    
   
+    pageTracker._trackPageview("/help/privacy/");
+  
+
+} catch(err) {}
 </script>
 
 
@@ -853,13 +988,13 @@ http://www.omniture.com -->
   /* You may give each page an identifying name, server, and channel on
   the next lines. */
 
-      s_analytics.pageName = "fueltv:footer_links hub:help:home:Help Privacy";
-      s_analytics.prop6 = "fueltv:footer_links hub";
       s_analytics.prop45 = "fueltv";
       s_analytics.prop7 = "fueltv:footer_links hub:help";
       s_analytics.prop8 = "fueltv:footer_links hub:help:home";
       s_analytics.prop15 = "site";
       s_analytics.prop35 = "Help Privacy";
+      s_analytics.pageName = "fueltv:footer_links hub:help:home:Help Privacy";
+      s_analytics.prop6 = "fueltv:footer_links hub";
 
   s_analytics.hier1 = "fueltv:footer_links hub:help:home:Help Privacy";
   s_analytics.hier3 = "sports:fueltv:footer_links hub:help:home:Help Privacy";
@@ -887,7 +1022,7 @@ s_analytics.t()//]]></script>
 
 
 <script type="text/javascript"> Cufon.now(); </script>
-<!-- SC Version: 8681 -->
+<!-- SC Version: 9550 -->
 
 
 
