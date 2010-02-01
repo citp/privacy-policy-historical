@@ -1,68 +1,44 @@
-> *The following text is extracted and transformed from the yashi.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626132452id_/http%3A//www.bolt.com/siteinfo/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yashi.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202001904id_/http%3A//www.yashi.com/privacy.php) for the most accurate reproduction.*
 
-# Members
+# Yashi - Free Online Games - flash games, addicting games, arcade games online, shooting games, racing, pool,adventure, flying, sonic, flash,shockwave
 
-**Policy Overview**
+Privacy Policy Statement
 
-This Privacy Policy pertains to the use of the Bolt web site at http://www.bolt.com. Safeguarding your privacy is serious business. That's why Bolt's privacy policy is simple: : Bolt will not disclose, sell or rent any personally identifiable information without the user's proper consent except as provided in this statement. The Bolt user is given final word on whether or not to share such information with Bolt. Please use discretion, because Bolt cannot be held accountable for the use, collection or distribution of personal information freely provided by members with any of our tools, including profiles, message boards, chats and notes. Be aware that information provided spontaneously by the user in such ways is not under the control of Bolt and might be observed, collected or utilized by third-party agencies and organizations. If a member were to post a phone number in their profile (as an example) we cannot be held accountable for the consequences. For questions or concerns about Bolt's information practices, contact the Bolt [Policy Manager](mailto:policy@boltinc.com) as provided at the end of this policy.
+This is the web site of Yashi Media, LLC.
 
-**Age Policy**
+Our postal address is  
+125 Half Mile Road  
+Suite 200  
+Red Bank, NJ 07701
 
-Bolt is intended for users age 13 or older. Bolt's registration process is intentionally designed for such an audience and we will not knowingly collect any information from children under 13. Because of this age limit, this privacy policy makes no provision for children's use of Bolt. If you are a parent or become aware of a child registered under the age of 13 please notify Bolt's [Policy Manager](mailto:policy@boltinc.com) as provided at the end of this policy.
+We can be reached via e-mail at jay {at} yashi dot com  
+or you can reach us by telephone at (800) 979-1262.
 
-**Note to Parents**
+For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address. We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number.
 
-If your child is under 13 and has become a Bolt member using a false age, please notify the [Policy Manager](mailto:policy@boltinc.com) who will immediately close the account and nullify all personally identifiable information provided by them. If your child is under the age of 18 and you would like to know more about our site, information practices, stored information on your child, or how to close your child's account, contact Bolt's [Policy Manager](mailto:policy@boltinc.com).
+The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to notify consumers about updates to our Web site, shared with agents or contractors who assist in providing support for our internal operations, used by us to contact consumers for marketing purposes, shared with other reputable organizations to help them contact consumers for marketing purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website.
 
-**Information Retention**
+With respect to cookies: We do not set any cookies. If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-To preserve the integrity of website databases Bolt's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to Bolt you are consenting to store that information indefinitely. If required by law, such as the Children's Online Privacy Protection Act (COPPA,) Bolt will scramble and/or encrypt that information to make it unrecognizable. Bolt will also respond to written member requests to scramble account information. If you wish to make such a request, which will require you to verify your identity, contact the Bolt [Policy Manager](mailto:policy@boltinc.com). 
+From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
 
-**Information Collection and Use**
+From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
 
-Bolt will only require personally identifiable information at the time of registration. This might include email address, gender, birth date, zip or postal code and the country of residence. This information is used to identify you as a unique user within Bolt and will not be shared with any other party without your consent and notification. Please be aware that your age, birth date and country will be visible in your profile. 
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above.  
+Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
 
-Information about members that is not personally identifiable may be used anonymously for purposes of advertising, demographic collection, market research data, anonymous reporting and to better tailor Bolt's content to the user's needs. This type of information will not include any data that identifies members as an individual, such as email address, home address or telephone number. If the user provides such information as part of an optional promotion, contest, survey or similar program they are subject to the separate privacy rules and expectations of each individual program. 
+Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line. Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations.
 
-In addition to on-site advertising, Bolt may advertise products, companies and events that we think might interest you through the email address you provide if you choose to receive such solicitations. The user is always able to ask Bolt not to contact them with such information again. The user will not be included in promotions, contests, submission opportunities, solicitations or other programs unless they opt-in. If you receive unsolicited email from a Bolt domain, please contact Bolt's [Policy Manager](mailto:policy@boltinc.com), as Bolt does not wish to provide users with unwanted information. 
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, we may collect information such as your domain type, your IP address and clickstream information.
 
-Please note that Bolt may be required to share information with relevant authorities in order to investigate, prevent or enforce suspected or confirmed illegal activities, including with no limitation: fraud, threat or potential threat to the physical safety of any person, violation of Bolt's Terms of Service and/or User Agreement or as otherwise permitted or required by law. Bolt may also be required to disclose such information in order to comply with subpoenas, warrants, court orders or legal process or to establish or exercise Bolt's legal rights or defend against legal claims. 
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-**Cookies and Tracking**
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address. Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
 
-Cookies are pieces of data stored by your web browser containing information related to your usage of Bolt. They are most often used to quickly and easily connect you with your Bolt account information and do not contain personally identifiable information. They may also be used to estimate Bolt's audience size for advertisers, to track the number of entries in Bolt promotions, sweepstakes and contests, to identify the areas of the site you visit, to hold session information and to track your user preferences. 
+Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them.
 
-In addition, Bolt allows third-party advertisers on our site to place or recognize cookies on your browser. Such cookies are subject to that organization's Privacy Policy and are not covered by Bolt's Policy. For privacy information related to this usage consult the website and privacy policies of the advertiser in question. 
+With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-Using browser settings you can accept all cookies, reject all cookies, or request to be notified when a website attempts to place a cookie. Please be aware that automatically rejecting all cookies may compromise the ease and convenience of your Bolt experience. 
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau.
 
-We use a third party ad-serving technology to deliver ads on this website. Information about your visit to this site, such as the number of times you have viewed an ad (but not your name, address, or other personal information), is used to determine what ads to show you. In the course of serving advertisements to this site, the third-party ad serving technology may place or recognize a unique cookie on your browser. For more information about our third-party ad server, cookies, and how to "opt out,"   
-please [click here](http://www.doubleclick.com/us/about_doubleclick/privacy/). 
-
-Bolt employs a software technology called clear gifs to help better manage the content of html emails. Clear gifs are small graphics with a unique identifier which serve a similar function to cookies. Clear gifs are invisible on the page and very small but allow Bolt to track which emails are opened by recipients. This allows Bolt to guage the effectiveness of marketing campaigns. The clear gifs are not used in conjunction with other user information that is stored by Bolt. 
-
-**IP Addresses**
-
-Your web browser automatically reports your current IP address each time you access a web page. Your IP address may be stored in Bolt's database when you register. Bolt may use your IP address to quickly address tech and usage concerns reported by our members, to tailor our advertising to specific geographic areas, to estimate the number of visitors from geographic areas and to uniquely identify Bolt visitors to aid in enforcement of our conduct policies.
-
-**Logging of User Information**
-
-Your browser automatically transmits information to the web sites you visit, including Bolt. Such information may include referral data (what webpage sent you to Bolt) IP addresses and your browser version. Bolt collects this information to help us improve our services and moderate the site. All information automatically submitted by your browser is anonymous. Bolt also logs the information you submit through registration, forms for optional programs, surveys and other entries, cookie data and communications transmitted through Bolt applications. Only authorized Bolt staff members have access to your information in its entirety. Other Bolt staff may have access to portions of this information as required by their duties.
-
-**Information Security, Editing and Deletion**
-
-Bolt members may change their account and profile information at any time, with the exception of Birth Dates, which must be verified by staff members to comply with our age policy. When appropriate, users' transmissions to Bolt may be encrypted to provide information security. Please note that while users may delete any information in their accounts, that information and the account itself may be kept intact on Bolt's servers for an indefinite period to ensure database integrity. 
-
-**Notification of Changes**
-
-Bolt's security and privacy policy are periodically reviewed and enhanced as necessary. In the event that this Privacy Policy is updated, Bolt will post notification if there is any material change in its privacy practices. Users are encouraged to review the Policy periodically. 
-
-**Staff Contact**
-
-For technical questions, problems or other issues relating to your use of Bolt, please visit the Help section. 
-
-Bolt's [Policy Manager](mailto:policy@boltinc.com) will respond to all requests sent through mail or email from members and parents interested in knowing more about what personal information is stored on the Bolt database, or if they want their personal information nullified, or have additional questions regarding privacy. 
-
-Bolt Inc. Attn: Policy Manager, 304 Hudson Street, New York, NY 10013 OR [policy@boltinc.com](mailto:policy@boltinc.com)
-
-UPDATED FEBRUARY 10, 2006
+ 
