@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomerangtv.co.uk privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217105936id_/http%3A//www.boomerangtv.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomerangtv.co.uk privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201181638id_/http%3A//www.boomerangtv.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Boomerang TV - Privacy Policy
 
