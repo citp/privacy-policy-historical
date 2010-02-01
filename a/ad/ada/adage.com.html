@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adage.com privacy policy that was archived on 2009-03-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090307014842id_/http%3A//adage.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adage.com privacy policy that was archived on 2010-02-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100201200500id_/http%3A//adage.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head profile="http://a9.com/-/spec/opensearch/1.1/">
 
@@ -10,13 +10,13 @@
 <meta name="robots" content="index,follow">
 <meta name="googlebot" content="index,follow">
 <meta name="distribution" content="global">
-<link rel="outline" type="text/x-opml" title="Ouline of all Ad Age RSS feeds" href="http://adage.com/xml/opml/full.php">
+<link rel="outline" type="text/x-opml" title="Ouline of all Ad Age RSS feeds" href="https://adage.com/xml/opml/full.php">
 
 
 
-<link rel="search" type="application/opensearchdescription+xml" href="http://adage.com/xml/AdAge_OpenSearch.php" title="Advertising Age">
+<link rel="search" type="application/opensearchdescription+xml" href="https://adage.com/xml/AdAge_OpenSearch.php" title="Advertising Age">
 
-<link rel="stylesheet" type="text/css" media="all" href="http://adage.com/styles/screen.css?e34534534">
+<link rel="stylesheet" type="text/css" media="all" href="https://adage.com/styles/screen.css?0923123">
 
 </head>
 
@@ -40,18 +40,58 @@
 
 <div id="wrap">
 
-<script type="text/javascript" src="http://adage.com/includes/javascript.js"></script>
+<script type="text/javascript" src="https://adage.com/includes/javascript.js?1260127002"></script>
+
+
+<script type="text/javascript">
+//configuration
+OAS_url = 'http://oascentral.adage.com/RealMedia/ads/';
+OAS_sitepage = 'www.adage.com/';
+OAS_listpos = 'Left,Middle1,Middle2,Bottom,Bottom1';
+
+OAS_query = '';
+OAS_target = '_top';
+//end of configuration
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+
+function OAS_NORMAL(pos) {
+	document.write('<a href="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" target=' + OAS_target + '>');
+	document.write('<img src="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" /></a>');
+}
+
+OAS_version = 11;
+if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
+OAS_version = 10;
+if (OAS_version >= 11)
+document.write('<scr' + 'ipt type="text/javascript" src="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/script>');
+
+document.write('');
+function OAS_AD(pos) {
+	if (OAS_version >= 11) {
+		OAS_RICH(pos);
+	}
+	else {
+		OAS_NORMAL(pos);
+	}
+}
+
+</script><script type="text/javascript" src="http://oascentral.adage.com/RealMedia/ads/adstream_mjx.ads/www.adage.com//1950413288@Left,Middle1,Middle2,Bottom,Bottom1?"></script>
+
+
+
 
 
 <div id="header">
 
 	<div id="dashboard">
 
-		<p id="members">March 06, 2009<br>
+		<p id="members">February 01, 2010<br>
 
 
-	<a href="http://adage.com/login?noredir" title="Login using your existing Advertising Age account">Login</a> |
-	<a href="http://adage.com/register" title="Register to Advertising Age for free!">Register Now</a>
+	<a href="https://adage.com/login?noredir" title="Login using your existing Advertising Age account">Login</a> |
+	<a href="https://adage.com/register" title="Register to Advertising Age for free!">Register Now</a>
 
 
 		</p>
@@ -88,11 +128,22 @@ if(_search_phrase) {
 	</div>
 	
 
-<p id="top-message"><a href="/subscribe/">Subscribe to Advertising Age today!</a></p>
+<p id="top-message">Advertising Age: Your Online Source for Marketing and Media News</p>
 
-	
+<script type="text/javascript" src="/javascript/ticker.js"></script>
+
+<script type="text/javascript">
+
+var subMessage = new Ticker('top-message'); // pass div container id
+
+subMessage.entry.push("<a href=\"/subscribe/\">Subscribe to Advertising Age today!</a>");
+
+
+subMessage.start();
+
+</script>	
 	<div id="logo">
-		<a href="http://adage.com/"><img src="http://adage.com/img/adage-logo.gif?1134493117" width="535" height="94" alt="Advertising Age" title="Advertising Age"></a>
+		<a href="https://adage.com/"><img src="https://adage.com/img/adage-logo.gif?1134493117" width="535" height="94" alt="Advertising and Marketing Industry News | AdAge" title="Advertising and Marketing Industry News | AdAge"></a>
 	</div>
 
 </div>
@@ -103,57 +154,16 @@ if(_search_phrase) {
 
 	<div id="main-body">
 
-
-<script type="text/javascript">
-//configuration
-OAS_url = 'http://oascentral.adage.com/RealMedia/ads/';
-OAS_sitepage = 'www.adage.com/';
-
-
-
-OAS_listpos = 'Left,Middle1,Middle2,Bottom,Bottom1'; //Middle3, Bottom1
-
-
-OAS_query = '';
-OAS_target = '_top';
-//end of configuration
-OAS_version = 10;
-OAS_rn = '001234567890'; OAS_rns = '1234567890';
-OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
-
-function OAS_NORMAL(pos) {
-	document.write('<a href="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" target=' + OAS_target + '>');
-	document.write('<img src="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" /></a>');
-}
-
-OAS_version = 11;
-if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
-OAS_version = 10;
-if (OAS_version >= 11)
-document.write('<scr' + 'ipt type="text/javascript" src="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/script>');
-
-document.write('');
-function OAS_AD(pos) {
-	if (OAS_version >= 11) {
-		OAS_RICH(pos);
-	}
-	else {
-		OAS_NORMAL(pos);
-	}
-}
-
-</script><script type="text/javascript" src="http://oascentral.adage.com/RealMedia/ads/adstream_mjx.ads/www.adage.com//1167157314@Left,Middle1,Middle2,Bottom,Bottom1?"></script>
-
-
 		<dl id="morefrom">
-	<dt><a href="http://adage.com/adagegroup">More from Ad Age:</a></dt>
+	<dt><a href="https://adage.com/adagegroup">More from Ad Age:</a></dt>
 	<dd><a href="http://www.creativity-online.com/" title="Creativity Online">Creativity</a></dd>
 
-	<dd><a href="http://adage.com/china" title="AdAgeChina: Advertising, Marketing and Media in China">AdAgeChina</a></dd>
+	<dd><a href="http://adage.com/china" title="AdAgeChina: Advertising, Marketing and Media in China">Ad Age China</a></dd>
 	<dd><a href="http://adage.com/bookstore" title="Advertising Age's Online Book Reviews">Bookstore</a></dd>
 	<dd><a href="http://adage.com/talentworks" title="AdAge TalentWorks">Jobs</a></dd>
+	<dd><a href="http://adage.com/adage-on-campus/" title="Ad Age On Campus">Ad Age On Campus</a></dd>
 
-	<dd class="last"><a href="http://adage.com/register" title="Sign up for E-mail Newsletters"><b>Sign up for E-mail Newsletters</b></a></dd>
+	<dd class="last"><a href="https://adage.com/register" title="Sign up for E-mail Newsletters"><b>Sign up for E-mail Newsletters</b></a></dd>
 		</dl>
 
 
@@ -306,9 +316,20 @@ if(_search_phrase) {
 				
 				<p>
 				
-</p><p id="top-message"><a href="/subscribe/">Subscribe to Advertising Age today!</a></p>
+</p><p id="top-message">Advertising Age: Your Online Source for Marketing and Media News</p>
 
-				<p></p>
+<script type="text/javascript" src="/javascript/ticker.js"></script>
+
+<script type="text/javascript">
+
+var subMessage = new Ticker('top-message'); // pass div container id
+
+subMessage.entry.push("<a href=\"/subscribe/\">Subscribe to Advertising Age today!</a>");
+
+
+subMessage.start();
+
+</script>				<p></p>
 			</div>
 
 		</div><!-- end #content -->
@@ -324,13 +345,14 @@ if(_search_phrase) {
 
 
 
-			<div>
+
 			<div>
 				<script type="text/javascript" language="JavaScript">
 				OAS_AD('Middle1');
 				</script>
 			</div>
-			</div>
+
+
 
 
 
@@ -339,66 +361,69 @@ if(_search_phrase) {
 
 
 			<div class="sect">
-				<h2><a href="http://adage.com/bookstore/" title="Bookstore">Bookstore</a></h2>
-				<h3><a href="http://adage.com/bookstore/post?article_id=134945" title="Top 10 Media and Marketing Books of All Time">Top 10 Media and Marketing Books of All Time</a></h3>
+				<h2><a href="http://adage.com/whitepapers/whitepaper.php?id=11" title="White Paper">White Paper</a></h2>
+				<h3><a href="http://adage.com/whitepapers/whitepaper.php?id=11" title="The Economics of Online Video">The Economics of Online Video</a></h3>
+				<div class="photo"><a href="http://adage.com/whitepapers/whitepaper.php?id=11" title="The Economics of Online Video"><img src="http://adage.com/images/bin/image/rightrail/whitepaper-onlinevid-011410.jpg" width="255" height="348" alt="The Economics of Online Video"></a></div>
+				<p>How should web video be valued and measured? Who are the most successful companies in this space? Who can you work with? This white paper answers those questions and more. </p>
+			</div>
+
+			<div class="sect">
+				<h2><a href="http://adage.com/garfield/" title="Bob Garfield">Bob Garfield</a></h2>
+				<h3><a href="http://adage.com/garfield/post?article_id=141836" title="Watch This Spot and Then Tell Me That Unicorns Aren't Real">Watch This Spot and Then Tell Me That Unicorns Aren't Real</a></h3>
 				
-				<p>Readers of Ad Age Vote Ries and Trout to Top Spot </p>
+				<p>Walmart Ditches Schmaltz for the Hilarious Indignities of Real Life </p>
 			</div>
 
 			<div class="sect">
-				<h2><a href="http://adage.com/brightcove/lineup.php?lineup=1266084202" title="3 Minute Ad Age Video">3 Minute Ad Age Video</a></h2>
-				<h3><a href="http://adage.com/brightcove/lineup.php?lineup=1266084202" title="Devastated Peanut Growers Turn to Advertising">Devastated Peanut Growers Turn to Advertising</a></h3>
-				<div class="photo"><a href="http://adage.com/brightcove/lineup.php?lineup=1266084202" title="Devastated Peanut Growers Turn to Advertising"><img src="http://adage.com/images/bin/image/rightrail/3min328_255.jpg" width="255" height="80" alt="Devastated Peanut Growers Turn to Advertising"></a></div>
-				<p>March 6, 2009 Video Report </p>
+				<h2><a href="http://adage.com/superbowl10/" title="Super Bowl 2010">Super Bowl 2010</a></h2>
+				<h3><a href="http://adage.com/superbowl10/" title="Who's Buying What in the Big Game">Who's Buying What in the Big Game</a></h3>
+				<div class="photo"><a href="http://adage.com/superbowl10/" title="Who's Buying What in the Big Game"><img src="http://adage.com/images/bin/image/rightrail/superbowl-xliv-rr.jpg" width="255" height="90" alt="Who's Buying What in the Big Game"></a></div>
+				<p>Smart Strategies for Buying the Bowl </p>
 			</div>
 
 			<div class="sect">
-				<h2><a href="http://adage.com/aaaamediaconf09/" title="Special Report">Special Report</a></h2>
-				<h3><a href="http://adage.com/aaaamediaconf09/" title="AAAA Media Conference 2009">AAAA Media Conference 2009</a></h3>
+				<h2><a href="http://adage.com/agencya-list09/" title="Special Report">Special Report</a></h2>
+				<h3><a href="http://adage.com/agencya-list09/" title="Agency A-List 2009">Agency A-List 2009</a></h3>
+				<div class="photo"><a href="http://adage.com/agencya-list09/" title="Agency A-List 2009"><img src="http://adage.com/images/bin/image/rightrail/agency-alist09-rr.jpg" width="255" height="90" alt="Agency A-List 2009"></a></div>
+				<p>Our annual look at the 10 best agencies in the business--and those that
+might make the list next year. Plus, Creativity's top shop. </p>
+			</div>
+
+			<div class="sect">
+				<h2><a href="/poll?poll_id=196" title="Weekly Online Poll">Weekly Online Poll</a></h2>
+				<h3><a href="/poll?poll_id=196" title="Can Apple's iPad do for publishers what the iPod and iTunes have done for the music industry?">Can Apple's iPad do for publishers what the iPod and iTunes have done for the music industry?</a></h3>
 				
-				<p>All the News From the 4A's Confab in New Orleans </p>
+				<p> <strong class="more"><a href="/poll?poll_id=196" title="Can Apple's iPad do for publishers what the iPod and iTunes have done for the music industry?">Vote &amp; Comment</a></strong></p>
 			</div>
 
 			<div class="sect">
-				<h2><a href="http://adage.com/garfield/" title="Garfield's Ad Review">Garfield's Ad Review</a></h2>
-				<h3><a href="http://adage.com/garfield/post?article_id=134948" title="Latest Bravia Ad Measures Up in Scale but Not in Message">Latest Bravia Ad Measures Up in Scale but Not in Message</a></h3>
+				<h2><a href="http://adage.com/arq" title="Agency Report Questionnaires">Agency Report Questionnaires</a></h2>
+				<h3><a href="http://adage.com/arq" title="Want your agency included in the 2010 Ad Age Agency Report? Download the questionnaire here">Want your agency included in the 2010 Ad Age Agency Report? Download the questionnaire here</a></h3>
 				
-				<p>Fallon's 10-Ton Zoetrope Stunt Doesn't Convey 'Smoothest Picture Ever' </p>
+				<p>The 2010 Agency Report will cover more than 900 agencies including ad, marketing-services, digital, media and PR agencies. Make sure yours is included by submitting our questionnaire. Ad Age has e-mailed forms to agencies. If your agency didn't receive one, e-mail <a href="mailto:agencyreport@adage.com">AgencyReport@AdAge.com</a> or go to <a href="http://adage.com/arq">AdAge.com/arq</a><br><br>
+
+Deadline for submission is Feb. 12, 2010. </p>
 			</div>
 
 			<div class="sect">
-				<h2><a href="/mediaagencyoftheyear09/" title="Special Report">Special Report</a></h2>
-				<h3><a href="/mediaagencyoftheyear09/" title="Media Agency of the Year">Media Agency of the Year</a></h3>
-				<div class="photo"><a href="/mediaagencyoftheyear09/" title="Media Agency of the Year"><img src="http://adage.com/images/bin/image/rightrail/maoy09rr.jpg" width="255" height="80" alt="Media Agency of the Year"></a></div>
-				<p>Hurting Just Three Years Ago, Initiative Completed Its Turnaround in 2008 With a New-biz Boom </p>
-			</div>
-
-			<div class="sect">
-				<h2><a href="/columns/home?section_id=291" title="Jonah Bloom">Jonah Bloom</a></h2>
-				<h3><a href="/columns/article?article_id=134928" title="Turn the Oscars From Boring Twaddle to a Marketing Tool">Turn the Oscars From Boring Twaddle to a Marketing Tool</a></h3>
+				<h2><a href="http://adage.com/columns/home?section_id=285" title="Rance Crain">Rance Crain</a></h2>
+				<h3><a href="http://adage.com/columns/article?article_id=141822" title="U.S. Appears Hypocritical in Demanding Visa for Reporter">U.S. Appears Hypocritical in Demanding Visa for Reporter</a></h3>
 				
-				<p>A Few Suggestions for How the Academy Can Fix the Problem </p>
+				<p>Homeland Security Might Want to Reconsider Fingerprinting Editors From Friendly Nations </p>
 			</div>
 
 			<div class="sect">
-				<h2><a href="/columns/home?section_id=392" title="Teressa Iezzi">Teressa Iezzi</a></h2>
-				<h3><a href="/columns/article?article_id=134927" title="The Effects of 'Benjamin Button' Will Be Coming to Ads Near You">The Effects of 'Benjamin Button' Will Be Coming to Ads Near You</a></h3>
-				
-				<p>Oscar Winner Digital Domain Offers a Glimpse of the Future </p>
+				<h2><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/browserRedirect?url=itms%3A%2F%2Fitunes.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewSoftware%3Fid%3D340473973%26mt%3D8" title="Try It Now!">Try It Now!</a></h2>
+				<h3><a href="http://adage.com/article?article_id=140933" title="Ad Age Launches Mobile App for IPhone, IPod Touch">Ad Age Launches Mobile App for IPhone, IPod Touch</a></h3>
+				<div class="photo"><a href="http://adage.com/article?article_id=140933" title="Ad Age Launches Mobile App for IPhone, IPod Touch"><img src="http://adage.com/images/bin/image/rightrail/adage-iphoneapp120809-255.jpg" width="255" height="110" alt="Ad Age Launches Mobile App for IPhone, IPod Touch"></a></div>
+				<p>Includes In-feed Search, Easy-Tweet Feature </p>
 			</div>
 
 			<div class="sect">
-				<h2><a href="/tvspots/" title="The Work">The Work</a></h2>
-				<h3><a href="/tvspots/article?article_id=134993" title="Creativity Weekly Top 5: March 2">Creativity Weekly Top 5: March 2</a></h3>
-				<div class="photo"><a href="/tvspots/article?article_id=134993" title="Creativity Weekly Top 5: March 2"><img src="http://adage.com/images/bin/image/rightrail/top5-claro-guineapig030209rr.jpg" width="255" height="80" alt="Creativity Weekly Top 5: March 2"></a></div>
-				<p>EA Games Offers a Trip to Hell, Nike on Tiger's Return, Claro's Guinea Pig Phone and Other Work </p>
-			</div>
-
-			<div class="sect">
-				<h2><a href="http://adage.com/brightcove/lineup.php?lineup=1182767334" title="Martin Lindstrom Video Reports">Martin Lindstrom Video Reports</a></h2>
-				<h3><a href="http://adage.com/brightcove/lineup.php?lineup=1182767334" title="Japanese Cosmetics Website Goes Bricks and Mortar">Japanese Cosmetics Website Goes Bricks and Mortar</a></h3>
-				<div class="photo"><a href="http://adage.com/brightcove/lineup.php?lineup=1182767334" title="Japanese Cosmetics Website Goes Bricks and Mortar"><img src="http://adage.com/images/bin/image/rightrail/lindstrom68_255.jpg" width="255" height="80" alt="Japanese Cosmetics Website Goes Bricks and Mortar"></a></div>
-				<p>Amazon-like User Rankings Drive Product Sales </p>
+				<h2><a href="http://adage.com/2010America" title="White Paper: 2010 America">White Paper: 2010 America</a></h2>
+				<h3><a href="http://adage.com/2010America" title="What the 2010 Census Means for Marketing and Advertising">What the 2010 Census Means for Marketing and Advertising</a></h3>
+				<div class="photo"><a href="http://adage.com/2010America" title="What the 2010 Census Means for Marketing and Advertising"><img src="http://adage.com/images/bin/image/rightrail/2010america-whitepaper255.jpg" width="255" height="361" alt="What the 2010 Census Means for Marketing and Advertising"></a></div>
+				<p>2010 America explains what you need to know about the biggest consumer market-research project of the decade: the 2010 U.S. census. Demographics expert Peter Francese, author of this highly readable Ad Age white paper, analyzes what the census will reveal about the changing face of consumers. </p>
 			</div>
 
 			<div><div>
@@ -415,46 +440,33 @@ if(_search_phrase) {
 			<div id="most-emailed" class="sect off">
 				<h2><a href="javascript:toggleMost()" class="other">Most Read</a> Most E-Mailed</h2>
 				<ol>
-                <li><a href="http://adage.com/columns/article?article_id=134977" title="What's Love Got to Do With It?">What's Love Got to Do With It?</a></li>
-                <li><a href="http://adage.com/smallagency/article?article_id=135011" title="10 Must-Have iPhone Apps for the Adman">10 Must-Have iPhone Apps for the Adman</a></li>
-                <li><a href="http://adage.com/digital/article?article_id=135016" title="Twitter: We Can Do What Google Can't">Twitter: We Can Do What Google Can't</a></li>
-                <li><a href="http://adage.com/digitalnext/article?article_id=135034" title="Facebook's Changes Give Brands More Freedom">Facebook's Changes Give Brands More Freedom</a></li>
-                <li><a href="http://adage.com/article?article_id=135038" title="Event Marketing Takes a Hit">Event Marketing Takes a Hit</a></li>
+                <li><a href="http://adage.com/article?article_id=141845" title="Billion-Dollar Battle Ahead for Toyota to Rebound From Recall">Billion-Dollar Battle Ahead for Toyota to Rebound From Recall</a></li>
+                <li><a href="http://adage.com/article?article_id=141846" title="Now's the Time to Reset Marketing for Post-Recession">Now's the Time to Reset Marketing for Post-Recession</a></li>
+                <li><a href="http://adage.com/article?article_id=141844" title="Coke Takes Juice Lead From Pepsi">Coke Takes Juice Lead From Pepsi</a></li>
+                <li><a href="http://adage.com/hispanic/article?article_id=141840" title="It's No Coincidence Everyone in This Spanish Soap Drives a Ford">It's No Coincidence Everyone in This Spanish Soap Drives a Ford</a></li>
+                <li><a href="http://adage.com/superbowl10/article?article_id=141848" title="Sorry, EA, CBS May Damn Going to Hell">Sorry, EA, CBS May Damn Going to Hell</a></li>
     			</ol>
 			</div>
 
 			<div id="most-read" class="sect on">
 				<h2>Most Read <a href="javascript:toggleMost()" class="other">Most E-mailed</a></h2>
 				<ol>
-                <li><a href="http://adage.com/digitalnext/article?article_id=135034" title="Facebook's Changes Give Brands More Freedom">Facebook's Changes Give Brands More Freedom</a></li>
-                <li><a href="http://adage.com/digital/article?article_id=135040" title="Forrester Report on Sponsored Blogs Draws Google's Ire">Forrester Report on Sponsored Blogs Draws Google's Ire</a></li>
-                <li><a href="http://adage.com/digitalnext/article?article_id=135043" title="Web 2.0 Etiquette: A Review">Web 2.0 Etiquette: A Review</a></li>
-                <li><a href="http://adage.com/article?article_id=135038" title="Event Marketing Takes a Hit">Event Marketing Takes a Hit</a></li>
-                <li><a href="http://adage.com/video/article?article_id=135039" title="What If Gen Y Wants to Be Behaviorally Targeted?">What If Gen Y Wants to Be Behaviorally Targeted?</a></li>
+                <li><a href="http://adage.com/article?article_id=141839" title="Coca-Cola Goes Completely Green at Olympics">Coca-Cola Goes Completely Green at Olympics</a></li>
+                <li><a href="http://adage.com/article?article_id=141845" title="Billion-Dollar Battle Ahead for Toyota to Rebound From Recall">Billion-Dollar Battle Ahead for Toyota to Rebound From Recall</a></li>
+                <li><a href="http://adage.com/digital/article?article_id=141842" title="Can YouTube Rake in Google-Size Revenue?">Can YouTube Rake in Google-Size Revenue?</a></li>
+                <li><a href="http://adage.com/article?article_id=141844" title="Coke Takes Juice Lead From Pepsi">Coke Takes Juice Lead From Pepsi</a></li>
+                <li><a href="http://adage.com/article?article_id=141846" title="Now's the Time to Reset Marketing for Post-Recession">Now's the Time to Reset Marketing for Post-Recession</a></li>
     			</ol>
 			</div>
 
 
-			<div class="sect" style="background: url(http://adage.com/img/side-ad-bg.gif)">
-				<h2><a href="http://brandedcontent.adage.com/mic/emarketer/" title="BRANDED CONTENT">BRANDED CONTENT</a></h2>
-				<h3><a href="http://brandedcontent.adage.com/mic/emarketer/" title="Stay in front of the latest e-business data and trends">Stay in front of the latest e-business data and trends</a></h3>
-				<div class="photo"><a href="http://brandedcontent.adage.com/mic/emarketer/" title="Stay in front of the latest e-business data and trends"><img src="http://adage.com/images/bin/image/rightrail/emarketer_rail.gif" width="255" height="60" alt="Stay in front of the latest e-business data and trends"></a></div>
-				<p> <strong class="more"><a href="http://brandedcontent.adage.com/mic/emarketer/" title="Stay in front of the latest e-business data and trends">MORE</a></strong></p>
-			</div>
-
-			<div class="sect" style="background: url(http://adage.com/img/side-ad-bg.gif)">
+			<div class="sect" style="background: url(https://adage.com/img/side-ad-bg.gif)">
 				<h2><a href="http://brandedcontent.adage.com/mic/techmarketing/" title="BRANDED CONTENT">BRANDED CONTENT</a></h2>
 				<h3><a href="http://brandedcontent.adage.com/mic/techmarketing/" title="Intelligence for IT Vendors on How Best to Market Your Goods">Intelligence for IT Vendors on How Best to Market Your Goods</a></h3>
 				<div class="photo"><a href="http://brandedcontent.adage.com/mic/techmarketing/" title="Intelligence for IT Vendors on How Best to Market Your Goods"><img src="http://adage.com/images/bin/image/rightrail/tmc_img_rr.gif" width="255" height="60" alt="Intelligence for IT Vendors on How Best to Market Your Goods"></a></div>
-				<p> <strong class="more"><a href="http://brandedcontent.adage.com/mic/techmarketing/" title="Intelligence for IT Vendors on How Best to Market Your Goods">MORE</a></strong></p>
+				<p> <strong class="more"><a href="http://brandedcontent.adage.com/mic/techmarketing/" title="Intelligence for IT Vendors on How Best to Market Your Goods">More</a></strong></p>
 			</div>
 
-			<div class="sect" style="background: url(http://adage.com/img/side-ad-bg.gif)">
-				<h2><a href="http://brandedcontent.adage.com/mic/searchmarketing/" title="BRANDED CONTENT">BRANDED CONTENT</a></h2>
-				<h3><a href="http://brandedcontent.adage.com/mic/searchmarketing/" title="Build a more effective search strategy">Build a more effective search strategy</a></h3>
-				<div class="photo"><a href="http://brandedcontent.adage.com/mic/searchmarketing/" title="Build a more effective search strategy"><img src="http://adage.com/images/bin/image/rightrail/mic_impaqt_rail.gif" width="255" height="60" alt="Build a more effective search strategy"></a></div>
-				<p> <strong class="more"><a href="http://brandedcontent.adage.com/mic/searchmarketing/" title="Build a more effective search strategy">MORE</a></strong></p>
-			</div>
 
 
 		</div> <!-- end #sidebar -->
@@ -479,54 +491,52 @@ if(_search_phrase) {
 
 
 		<div class="sect" id="nav-home">
-			<strong><a href="http://adage.com/" title="Advertising Age Homepage">Home</a></strong>
+			<strong><a href="https://adage.com/" title="Advertising Age Homepage">Home</a></strong>
 
 		</div>
 
 		<div class="sect">
 			<ul>
 
-				<li><a href="http://adage.com/latestnews/">Latest News</a></li>
+				<li><a href="https://adage.com/latestnews/">Latest News</a></li>
 
-				<li><a href="http://adage.com/agencynews/" title="Ad, media, direct, PR and promotions agency news: Need-to-know account shifts, personnel moves, and best ideas and campaigns to come out of the agency business.">Agency News</a></li>
+				<li><a href="https://adage.com/agencynews/" title="Ad, media, direct, PR and promotions agency news: Need-to-know account shifts, personnel moves, and best ideas and campaigns to come out of the agency business.">Agency News</a></li>
 
-				<li><a href="http://adage.com/cmostrategy/" title="CMO Strategy delivers the latest marketing strategy, theory, opinion and advice for CMOs, VPs of marketing and other senior industry execs. Top industry experts, advertising academics and leading brand chiefs offer guidance on the most important areas such as integration, the media revolution, accountability, ROI and corporate structure.">CMO Strategy</a></li>
+				<li><a href="https://adage.com/bestads/" title="The latest, best, creative ads as curated by the editors of Creativity">Best Ads</a></li>
 
-				<li><a href="http://adage.com/datacenter/" title="Main source for data on marketing, media and agencies. Includes downloadable data on digital marketing, search, Hispanic marketing, magazines, newspapers, top advertisers, media companies, CPG categories and more.">DataCenter</a></li>
+				<li><a href="https://adage.com/cmostrategy/" title="CMO Strategy delivers the latest marketing strategy, theory, opinion and advice for CMOs, VPs of marketing and other senior industry execs. Top industry experts, advertising academics and leading brand chiefs offer guidance on the most important areas such as integration, the media revolution, accountability, ROI and corporate structure.">CMO Strategy</a></li>
 
-				<li><a href="http://adage.com/digital/">Digital</a></li>
+				<li><a href="https://adage.com/datacenter/" title="Main source for data on marketing, media and agencies. Includes downloadable data on digital marketing, search, Hispanic marketing, magazines, newspapers, top advertisers, media companies, CPG categories and more.">DataCenter</a></li>
 
-				<li><a href="http://adage.com/globalnews/">Global News</a></li>
+				<li><a href="https://adage.com/digital/">Digital</a></li>
 
-				<li><a href="http://adage.com/hispanic/" title="U.S. Hispanic marketing and media news and the best creative advertising: The biggest stories, trends and data in marketers' multi-billion dollar efforts to reach America's most rapidly growing demographic, from Spanish-dominant to acculturated, bilingual Latinos.">Hispanic Marketing</a></li>
+				<li><a href="https://adage.com/globalnews/">Global News</a></li>
 
-				<li><a href="http://adage.com/madisonandvine/" title="In-depth news and analysis on branded entertainment, the marketing of entertainment properties and celebrities, fast-growing digital entertainment spaces such as web video, mobile content and gaming and coverage of the marketing revolution taking place in music.">Madison+Vine</a></li>
+				<li><a href="https://adage.com/hispanic/" title="U.S. Hispanic marketing and media news and the best creative advertising: The biggest stories, trends and data in marketers' multi-billion dollar efforts to reach America's most rapidly growing demographic, from Spanish-dominant to acculturated, bilingual Latinos.">Hispanic Marketing</a></li>
 
-				<li><a href="http://adage.com/mediaworks/" title="Media news, views, data, criticism and a few laughs too. The best media journalists and commentators, and a sprinkling of leading experts, report and analyze all the stories that matter on media planning and buying; TV advertising and programming; web publishing; magazines; newspapers; radio and out-of-home.">MediaWorks</a></li>
+				<li><a href="https://adage.com/madisonandvine/" title="In-depth news and analysis on branded entertainment, the marketing of entertainment properties and celebrities, fast-growing digital entertainment spaces such as web video, mobile content and gaming and coverage of the marketing revolution taking place in music.">Madison+Vine</a></li>
 
-				<li><a href="http://adage.com/talentworks/" title="Career advice and perspective from top industry experts on recruiting in the advertising, marketing and media worlds. Tips, trends and guidance for hiring organizations, including agencies and marketers, seeking to attract, motivate and retain star talent, as well as best practices for job seekers.">TalentWorks</a></li>
+				<li><a href="https://adage.com/mediaworks/" title="Media news, views, data, criticism and a few laughs too. The best media journalists and commentators, and a sprinkling of leading experts, report and analyze all the stories that matter on media planning and buying; TV advertising and programming; web publishing; magazines; newspapers; radio and out-of-home.">MediaWorks</a></li>
 
-				<li><a href="http://adage.com/current-issue">This Week's Issue</a></li>	
+				<li><a href="https://adage.com/talentworks/" title="Career advice and perspective from top industry experts on recruiting in the advertising, marketing and media worlds. Tips, trends and guidance for hiring organizations, including agencies and marketers, seeking to attract, motivate and retain star talent, as well as best practices for job seekers.">TalentWorks</a></li>
+
+				<li><a href="https://adage.com/current-issue">This Week's Issue</a></li>	
 			</ul>
 		</div>
 
 		<div class="sect">
-			<strong><a href="http://adage.com/columns/">Columns</a></strong>
+			<strong><a href="https://adage.com/columns/">Columns</a></strong>
 			<ul>
 
-				<li><a href="http://adage.com/columns/home?section_id=291">Jonah Bloom</a></li>
+				<li><a href="https://adage.com/columns/home?section_id=285">Rance Crain</a></li>
 
-				<li><a href="http://adage.com/columns/home?section_id=285">Rance Crain</a></li>
+				<li><a href="https://adage.com/columns/home?section_id=269">The Media Guy</a></li>
 
-				<li><a href="http://adage.com/columns/home?section_id=269">The Media Guy</a></li>
+				<li><a href="https://adage.com/columns/home?section_id=392">Teressa Iezzi</a></li>
 
-				<li><a href="http://adage.com/columns/home?section_id=392">Teressa Iezzi</a></li>
+				<li><a href="https://adage.com/columns/home?section_id=300">Al Ries</a></li>
 
-				<li><a href="http://adage.com/columns/home?section_id=300">Al Ries</a></li>
-
-				<li><a href="http://adage.com/columns/home?section_id=478">Lenore Skenazy</a></li>
-
-				<li><a href="http://adage.com/columns/home?section_id=559">Guest Columnists</a></li>
+				<li><a href="https://adage.com/columns/home?section_id=559">Guest Columnists</a></li>
 			</ul>
 		</div>
 
@@ -534,57 +544,87 @@ if(_search_phrase) {
 			<strong>Blogs &amp; Pods</strong>
 			<ul>
 
-				<li><a href="http://adage.com/adages/">Adages</a></li>
+				<li><a href="https://adage.com/adages/">Adages</a></li>
 
-				<li><a href="http://adage.com/bigtent/">The Big Tent</a></li>
+				<li><a href="https://adage.com/bigtent/">The Big Tent</a></li>
 
-				<li><a href="http://adage.com/garfield/">Bob Garfield</a></li>
+				<li><a href="https://adage.com/garfield/">Bob Garfield</a></li>
 
-				<li><a href="http://adage.com/campaigntrail/">Campaign Trail</a></li>
+				<li><a href="https://adage.com/campaigntrail/">Campaign Trail</a></li>
 
-				<li><a href="http://adage.com/digitalnext/">DigitalNext</a></li>
+				<li><a href="https://adage.com/digitalnext/">DigitalNext</a></li>
 
-				<li><a href="http://adage.com/gennext/">GenNext</a></li>
+				<li><a href="https://adage.com/gennext/">GenNext</a></li>
 
-				<li><a href="http://adage.com/power150/">Power 150</a></li>
+				<li><a href="https://adage.com/goodworks/">GoodWorks</a></li>
 
-				<li><a href="http://adage.com/smallagency/">Small Agency Diary</a></li>
+				<li><a href="https://adage.com/power150/">Power 150</a></li>
 
-				<li><a href="http://adage.com/songsforsoap/">Songs For Soap</a></li>
+				<li><a href="https://adage.com/smallagency/">Small Agency Diary</a></li>
 
-				<li><a href="http://adage.com/tvspots/">Top Work</a></li>
-
-				<li><a href="http://adage.com/video/">Video</a></li>
+				<li><a href="https://adage.com/video/">Video</a></li>
 			</ul>
 		</div>
 
 		<div class="ad"><div>
 			<!-- OAS Left AD POSITION -->
 			<script type="text/javascript" language="JavaScript">
-			OAS_AD('Left');
+				OAS_AD('Left');
 			</script></div>
+		</div>
+
+		<div class="sect">
+			<strong><a href="/whitepapers/" title="Ad Age Whitepapers">White Papers</a></strong>
+			<ul>
+						<li><a href="/whitepapers/whitepaper.php?id=11" title="The Economics of Online Video">The Economics of Online Video</a></li>
+						<li><a href="/whitepapers/whitepaper.php?id=10" title="The New Female Consumer: The Rise of the Real Mom">The New Female Consumer: The Rise of the Real Mom</a></li>
+						<li><a href="/whitepapers/whitepaper.php?id=9" title="2010 America">2010 America</a></li>
+						<li><a href="/whitepapers/whitepaper.php?id=8" title="Hispanic Fact Pack">Hispanic Fact Pack</a></li>
+						<li><a href="/whitepapers/whitepaper.php?id=6" title="Winning Consumers In China">Winning Consumers In China</a></li>
+			</ul>
 		</div>
 
 		<div class="sect">
 			<strong>Resources</strong>
 			<ul>
-				<li><a href="http://adage.com/talentworks">Jobs</a></li>
+
+				<li><a href="http://adage.com/talentworks" title="TalentWorks">Jobs</a></li>
+
+
+				<li><a href="http://adage.com/webcasts">Webcasts</a></li>
+
+
 				<li><a href="http://adage.com/aaevents/">Ad Age Events</a></li>
+
+
 				<li><a href="http://adage.com/events/">Industry Events</a></li>
+
 			</ul>
 		</div>
-
 		<div class="sect">
 			<strong>Branded Content</strong>
 			<ul>
-				<li><a href="http://brandedcontent.adage.com/mic/">White Papers &amp; Marketing Information</a></li>
-				<li><a href="http://brandedcontent.adage.com/mobile08/">Mobile Marketing Guide</a></li>
-				<li><a href="http://brandedcontent.adage.com/careerguide08/">Career Guide</a></li>
-				<li><a href="http://brandedcontent.adage.com/ang/">Ad Network + Exchange Guide</a></li>
-				<li><a href="http://brandedcontent.adage.com/360guide08/">360 Multiplatform Media</a></li>
-				<li><a href="http://brandedcontent.adage.com/guidesandsalutes/">Guides &amp; Salutes</a></li>
-				<li><a href="http://brandedcontent.adage.com/surveys/">Surveys</a></li>
-				<!-- <li><a href="http://adage.com/finerwithage/">AARP's Finer with Age Quiz</a></li> -->
+
+				<li><a href="http://brandedcontent.adage.com/">Custom Programs</a></li>
+
+
+				<li><a href="http://brandedcontent.adage.com/mic/techmarketing/">Tech Marketing Information Channel</a></li>
+
+
+				<li><a href="http://adage.coverleaf.com/advertisingage/20091028pf" title="The PR Factor">The PR Factor</a></li>
+
+
+				<li><a href="http://brandedcontent.adage.com/merkle2009/">Customer Relationship Marketing Section</a></li>
+
+
+				<li><a href="http://brandedcontent.adage.com/mobile09/">Mobile Marketing Guide</a></li>
+
+
+				<li><a href="http://brandedcontent.adage.com/cableguide09/">2009 Cable Guide</a></li>
+
+
+				<li><a href="http://brandedcontent.adage.com/adnetworkguide09/">Ad Network + Exchange Guide</a></li>
+
 			</ul>
 		</div>
 
@@ -593,17 +633,17 @@ if(_search_phrase) {
 			<ul>
 				<li><a href="https://sec.crain.com/AA">Subscriptions</a></li>
 				<li><a href="http://mediakit.adage.com">Media Kit</a></li>
-				<li><a href="http://adage.com/help">Help Center</a></li>
-				<li><a href="http://adage.com/lists">List Rental</a></li>
-				<li><a href="http://adage.com/rss#share">Share &amp; Save</a></li>
-				<li><a href="http://adage.com/rss"><img src="http://adage.com/img/rss.nav.gif?1176229863" width="14" height="14" alt="" style="vertical-align:middle"> RSS (What is RSS?)</a></li>
-				<li class="special"><a href="http://adage.com/staff">Editorial Staff</a></li>
-				<li class="special"><a href="http://adage.com/archive">Browse Archive</a></li>
-				<li class="special"><a href="http://adage.com/digitaledition">Download the <br>Print Edition (Coverleaf/Texterity)</a></li>
+				<li><a href="https://adage.com/help">Help Center</a></li>
+				<li><a href="https://adage.com/lists">List Rental</a></li>
+				<li><a href="https://adage.com/rss#share">Share &amp; Save</a></li>
+				<li><a href="https://adage.com/rss"><img src="https://adage.com/img/rss.nav.gif?1176229863" width="14" height="14" alt="" style="vertical-align:middle"> RSS (What is RSS?)</a></li>
+				<li class="special"><a href="https://adage.com/staff">Editorial Staff</a></li>
+				<li class="special"><a href="https://adage.com/archive">Browse Archive</a></li>
+				<li class="special"><a href="https://adage.com/digitaledition">Download the <br>Print Edition (Coverleaf/Texterity)</a></li>
 			</ul>
 		</div>
 		&nbsp;
-	</div> <!-- end #nav -->
+	</div><!-- end #nav -->
 
 
 </div><!-- end #main -->
@@ -642,7 +682,7 @@ hbx.gpn="AAGP";//CAMPAIGN GOAL IN QUERY
 hbx.cp="null";//LEGACY CAMPAIGN
 
 //REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-</script><script type="text/javascript" language="javascript1.1" defer="defer" src="http://adage.com/includes/hbx.js"></script>
+</script><script type="text/javascript" language="javascript1.1" defer="defer" src="https://adage.com/includes/hbx.js"></script>
 <!--END WEBSIDESTORY CODE-->
 
 <script language="JavaScript">
@@ -745,49 +785,58 @@ hbx.cp="null";//LEGACY CAMPAIGN
 			<strong>News</strong>
 			<ul>
 
-				<li><a href="http://adage.com/latestnews/">Latest News</a></li>
+				<li><a href="https://adage.com/latestnews/">Latest Marketing and Advertising News</a></li>
 
-				<li><a href="http://adage.com/agencynews/">Agency News</a></li>
+				<li><a href="https://adage.com/agencynews/">Marketing and Advertising Agency News</a></li>
 
-				<li><a href="http://adage.com/cmostrategy/">CMO Strategy</a></li>
+				<li><a href="https://adage.com/bestads/">Best Ads From Creativity</a></li>
 
-				<li><a href="http://adage.com/datacenter/">DataCenter</a></li>
+				<li><a href="https://adage.com/cmostrategy/">CMO Strategy</a></li>
 
-				<li><a href="http://adage.com/digital/">Digital</a></li>
+				<li><a href="https://adage.com/datacenter/">DataCenter</a></li>
 
-				<li><a href="http://adage.com/globalnews/">Global News</a></li>
+				<li><a href="https://adage.com/digital/">Digital Marketing and Advertising News</a></li>
 
-				<li><a href="http://adage.com/hispanic/">Hispanic Marketing</a></li>
+				<li><a href="https://adage.com/globalnews/">Global Marketing and Advertising News</a></li>
 
-				<li><a href="http://adage.com/madisonandvine/">Madison+Vine</a></li>
+				<li><a href="https://adage.com/hispanic/">Hispanic Marketing</a></li>
 
-				<li><a href="http://adage.com/mediaworks/">MediaWorks</a></li>
+				<li><a href="https://adage.com/madisonandvine/">Madison+Vine</a></li>
 
-				<li><a href="http://adage.com/talentworks/">TalentWorks</a></li>
-				<li><a href="http://adage.com/current-issue">This Week's Issue</a></li>
-				<li class="last"><a href="http://adage.com/opinion">Your Opinion</a></li>
+				<li><a href="https://adage.com/mediaworks/">MediaWorks - Media and Marketing News</a></li>
+
+				<li><a href="https://adage.com/talentworks/">TalentWorks</a></li>
+				<li><a href="https://adage.com/current-issue">This Week's Issue</a></li>
+				<li class="last"><a href="https://adage.com/opinion">Your Opinion</a></li>
 			</ul>
 		</div>
 
 		<div>
 			<strong>Columns</strong>
 			<ul>
-				<li><a href="http://adage.com/columns/home?section_id=291">Jonah Bloom</a></li>
-				<li><a href="http://adage.com/columns/home?section_id=285">Rance Crain</a></li>
-				<li><a href="http://adage.com/columns/home?section_id=269">The Media Guy</a></li>
-				<li><a href="http://adage.com/columns/home?section_id=392">Teressa Iezzi</a></li>
-				<li><a href="http://adage.com/columns/home?section_id=300">Al Ries</a></li>
-				<li><a href="http://adage.com/columns/home?section_id=478">Lenore Skenazy</a></li>
-				<li class="last"><a href="http://adage.com/columns/home?section_id=559">Guest Columnists</a></li>
+				<li><a href="https://adage.com/columns/home?section_id=285">Rance Crain</a></li>
+				<li><a href="https://adage.com/columns/home?section_id=269">The Media Guy</a></li>
+				<li><a href="https://adage.com/columns/home?section_id=392">Teressa Iezzi</a></li>
+				<li><a href="https://adage.com/columns/home?section_id=300">Al Ries</a></li>
+				<li class="last"><a href="https://adage.com/columns/home?section_id=559">Guest Columnists</a></li>
+			</ul>
+		</div>
+
+		<div>
+			<strong>White Papers</strong>
+			<ul>
+				<li><a href="/whitepapers/whitepaper.php?id=11" title="The Economics of Online Video">The Economics of Online Video</a></li>
+				<li><a href="/whitepapers/whitepaper.php?id=10" title="The New Female Consumer: The Rise of the Real Mom">The New Female Consumer: The Rise of the Real Mom</a></li>
+				<li class="last"><a href="/whitepapers/" title="Ad Age Whitepapers">More...</a></li>
 			</ul>
 		</div>
 
 		<div>
 			<strong>Resources</strong>
 			<ul>
-				<li><a href="http://adage.com/talentworks">TalentWorks</a></li>
-				<li><a href="http://adage.com/events/adage">Ad Age Events</a></li>
-				<li><a href="http://adage.com/events/">Industry Events</a></li>
+				<li><a href="https://adage.com/talentworks">TalentWorks</a></li>
+				<li><a href="https://adage.com/events/adage">Advertising Age Events</a></li>
+				<li><a href="https://adage.com/events/">Industry Events</a></li>
 				<li><a href="http://brandedcontent.adage.com/mic/">White Papers &amp; Marketing Information</a></li>
 				<li class="last"><a href="http://brandedcontent.adage.com/360/">360 Multiplatform Media</a></li>
 			</ul>
@@ -797,23 +846,24 @@ hbx.cp="null";//LEGACY CAMPAIGN
 			<ul>
 				<li><a href="https://sec.crain.com/AA">Subscriptions</a></li>
 				<li><a href="http://mediakit.adage.com">Media Kit</a></li>
-				<li><a href="http://adage.com/help">Help Center</a></li>
-				<li><a href="http://adage.com/lists">List Rental</a></li>
-				<li><a href="http://adage.com/rss"><img src="http://adage.com/img/rss.nav.gif?1176229863" width="14" height="14" alt="" style="vertical-align:middle"> (What is RSS?)</a></li>
-				<li><a href="http://adage.com/archive">Archive</a></li>
-				<li class="last"><a href="http://adage.com/digitaledition">Download the current edition (Zinio)</a></li>
+				<li><a href="https://adage.com/help">Help Center</a></li>
+				<li><a href="https://adage.com/lists">List Rental</a></li>
+				<li><a href="https://adage.com/rss"><img src="https://adage.com/img/rss.nav.gif?1176229863" width="14" height="14" alt="" style="vertical-align:middle"> (What is RSS?)</a></li>
+				<li><a href="https://adage.com/archive">Archive</a></li>
+				<li class="last"><a href="https://adage.com/digitaledition">Get the issue digitally (Texterity)</a></li>
 			</ul>
 		</div>
 
 		<dl>
-			<dt><a href="http://adage.com/adagegroup">More from Ad Age:</a></dt>
+			<dt><a href="https://adage.com/adagegroup">More from Ad Age:</a></dt>
 	<dd><a href="http://www.creativity-online.com/" title="Creativity Online">Creativity</a></dd>
 
-	<dd><a href="http://adage.com/china" title="AdAgeChina: Advertising, Marketing and Media in China">AdAgeChina</a></dd>
+	<dd><a href="http://adage.com/china" title="AdAgeChina: Advertising, Marketing and Media in China">Ad Age China</a></dd>
 	<dd><a href="http://adage.com/bookstore" title="Advertising Age's Online Book Reviews">Bookstore</a></dd>
 	<dd><a href="http://adage.com/talentworks" title="AdAge TalentWorks">Jobs</a></dd>
+	<dd><a href="http://adage.com/adage-on-campus/" title="Ad Age On Campus">Ad Age On Campus</a></dd>
 
-	<dd class="last"><a href="http://adage.com/register" title="Sign up for E-mail Newsletters"><b>Sign up for E-mail Newsletters</b></a></dd>
+	<dd class="last"><a href="https://adage.com/register" title="Sign up for E-mail Newsletters"><b>Sign up for E-mail Newsletters</b></a></dd>
 		</dl>
 
 	</div>
@@ -823,10 +873,10 @@ hbx.cp="null";//LEGACY CAMPAIGN
 	<p id="copyright">
 
 
-		Copyright © 1992-2009
-		<a href="http://www.crain.com/">Crain Communications</a> |
-		<a href="http://adage.com/privacy">Privacy Statement</a> |
-				<a href="http://adage.com/help/contact">Contact Us</a>
+		Copyright © 1992-2010
+		<a href="http://www.crain.com/" rel="nofollow">Crain Communications</a> |
+		<a href="https://adage.com/privacy">Privacy Statement</a> |
+				<a href="https://adage.com/help/contact">Contact Us</a>
 
 	</p>
 </div>
