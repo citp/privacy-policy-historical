@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todaysdod.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901093428id_/http%3A//www.todaysdod.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todaysdod.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201092141id_/http%3A//www.todaysdod.com/privacypolicy.php) for the most accurate reproduction.*
 
 # TodaysDOD.com - Privacy Policy
 
@@ -24,7 +24,7 @@ Upon request we provide site visitors with access to a description of informatio
 
 Consumers can access this information by e-mail us at the above address.
 
-Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them 
+Upon request we offer visitors the ability to have factual inaccuracies corrected in information that we maintain about them 
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
