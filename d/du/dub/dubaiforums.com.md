@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubaiforums.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101201101id_/http%3A//www.dubaiforums.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaiforums.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201192441id_/http%3A//www.dubaiforums.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Dubai Forums privacy policy
 
