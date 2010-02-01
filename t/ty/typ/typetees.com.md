@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typetees.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202082850id_/http%3A//typetees.threadless.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typetees.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201021819id_/http%3A//typetees.threadless.com/privacypolicy) for the most accurate reproduction.*
 
 # TypeTees - Type Tees Privacy Policy
 
