@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplydresses.com privacy policy that was archived on 2009-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091018134218id_/http%3A//www.simplydresses.com/info/policies.cfm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplydresses.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201172922id_/http%3A//www.simplydresses.com/info/policies%23privacy) for the most accurate reproduction.*
 
 # Prom Dresses Homecoming Dresses Prom Gowns Shoes Special Occasion Dresses and Accessories from Simplydresses.com
 
