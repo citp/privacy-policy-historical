@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admarketplace.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217150158id_/http%3A//www.admarketplace.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admarketplace.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201153107id_/http%3A//www.admarketplace.com/privacy.html) for the most accurate reproduction.*
 
 # adMarketplace.com - Performance Driven Pay Per Click Advertising
 
@@ -39,7 +39,7 @@ Changes to Our Privacy Policy
 As our company and services evolve, this Privacy Policy may be revised to reflect those changes, where applicable. We therefore reserve the right to amend this Privacy Policy at any time, for any reason. Notice of such amendments will be posted as an updated Privacy Policy on this website, and an effective date will be indicated. Users are encouraged to check our site frequently to review the current Privacy Policy in effect. 
 
 Questions?  
-Please [contact us](https://web.archive.org/web/20091217150158id_/http%3A//www.admarketplace.com/contact.php) with any questions about this website Privacy Policy. 
+Please [contact us](https://web.archive.org/web/20100201153107id_/http%3A//www.admarketplace.com/contact.php) with any questions about this website Privacy Policy. 
 
   
 
