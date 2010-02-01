@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mocoloco.com privacy policy that was archived on 2009-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090918085038id_/http%3A//mocoloco.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mocoloco.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201180439id_/http%3A//mocoloco.com/privacy.php) for the most accurate reproduction.*
 
-# MoCo Loco : Privacy Policy
+# Privacy Policy
 
 This document was last updated February 25, 2004.
 
@@ -12,7 +12,7 @@ Detailed Privacy Policy
 
 This Privacy Policy discloses the general privacy practices for www.mocoloco.com.
 
-MoCoLoco is committed to respecting the privacy rights of visitors to any of its associated web sites. While visiting these web sites (collectively, the "Site"), we may ask you to register and/or provide information that personally identifies you ("Personal Information") for purposes of interacting with the Site. To further the protection of your Personal Information, MoCoLoco has adopted a set of information management guidelines, outlined below, that serve as the basis for our customer and advertiser relationships. 
+MoCoLoco is committed to respecting the privacy rights of visitors to any of its associated web sites. While visiting these web sites (collectively, the "Site"), we may ask you to register and/or provide information that personally identifies you ("Personal Information") for purposes of interacting with the Site. To further the protection of your Personal Information, MoCoLoco has adopted a set of information management guidelines, outlined below, that serve as the basis for our customer and advertiser relationships.
 
 Affiliate Marketing
 
@@ -24,13 +24,13 @@ MoCoLoco may periodically request information from users via surveys. Participat
 
 Information & Cookies
 
-In order to perform certain search inquiries and handle the technological navigation through our web sites, we sometimes have to have a way to identify who has requested what from our website. We may do this, through means of a "cookie" which is used by MoCoLoco to identify certain technology settings. These cookies are only for use on our website and do not affect your computer in any way. 
+In order to perform certain search inquiries and handle the technological navigation through our web sites, we sometimes have to have a way to identify who has requested what from our website. We may do this, through means of a "cookie" which is used by MoCoLoco to identify certain technology settings. These cookies are only for use on our website and do not affect your computer in any way.
 
 We may use cookies to track usage of the Site and further customize your experience when you are visiting our site. By tracking usage, we can best determine what features of the Site best serve the users. We never give out information to others about individual usage. However, we may provide advertisers with aggregate information about our users, such as "2,000 people viewed your ad today.".
 
 What can a Cookie do/not do?
 
-A cookie is an element of data that a web site can send to your browser, which may then be stored on your system. This element of data is a piece of text, not a program. The Site can only access the information from a cookie sent by the Site. We cannot access other cookies sent by other web sites nor the information contained therein. Additionally, we cannot learn your email address or any other information about you through the use of a cookie. 
+A cookie is an element of data that a web site can send to your browser, which may then be stored on your system. This element of data is a piece of text, not a program. The Site can only access the information from a cookie sent by the Site. We cannot access other cookies sent by other web sites nor the information contained therein. Additionally, we cannot learn your email address or any other information about you through the use of a cookie.
 
 May I decline to accept a cookie?
 
@@ -42,8 +42,9 @@ If any link is offered connecting you to a third party web site, it is as an acc
 
 Use of Personal Information
 
-Personal Information collected or requested by MoCoLoco will never be given out to a third party in a manner that they can contact you directly. Any information provided to third parties is only in an aggregate form such as (we have 460 users who read materials on the topic X). We may disclose aggregated user statistics in order to describe our services to potential advertisers, partners and other third parties, and for other lawful purposes. 
+Personal Information collected or requested by MoCoLoco will never be given out to a third party in a manner that they can contact you directly. Any information provided to third parties is only in an aggregate form such as (we have 460 users who read materials on the topic X). We may disclose aggregated user statistics in order to describe our services to potential advertisers, partners and other third parties, and for other lawful purposes.
 
 It should be noted, however, that this Privacy Policy only addresses the use and dissemination of information that we collect from you. To the extent that you disclose any information to other parties, whether through, for example, on-line auctions, chat rooms, personal ads, or the like, or through other web sites throughout the Internet, different policies may apply. Since MoCoLoco does not control the privacy policies of third parties, you are subject to the privacy customs and policies, if any, of that third party, and MoCoLoco shall not be responsible for the use or dissemination of your private information by that third party. Therefore, we encourage you to ask questions before you disclose your personal information to others.
 
-MoCoLoco may periodically update this Privacy Policy. If so, MoCoLoco will post the updated Privacy Policy on this site. We encourage you to review this Privacy Policy from time to time for any changes. 
+MoCoLoco may periodically update this Privacy Policy. If so, MoCoLoco will post the updated Privacy Policy on this site. We encourage you to review this Privacy Policy from time to time for any changes.  
+
