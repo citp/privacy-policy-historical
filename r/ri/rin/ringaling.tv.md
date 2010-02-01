@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ringaling.tv privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127053142id_/http%3A//www.ringaling.tv/generalcontent.php%3Fsid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringaling.tv privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201085216id_/http%3A//ringaling.tv/generalcontent.php%3Fsid%3D2) for the most accurate reproduction.*
 
 # Ringaling - Privacy Policy
 
