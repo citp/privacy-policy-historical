@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazythemes.com privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822203007id_/http%3A//www.crazythemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazythemes.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202225642id_/http%3A//www.crazythemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Windows Themes,High Quality HD Wallpapers
 
