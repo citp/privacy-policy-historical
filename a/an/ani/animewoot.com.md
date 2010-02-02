@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the animewoot.com privacy policy that was archived on 2009-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090517003427id_/http%3A//www.animewoot.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animewoot.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202031355id_/http%3A//www.animewoot.com/policy.php) for the most accurate reproduction.*
 
-# Watch Anime Online - Free Anime Streaming Videos - Full Series @ Animewoot.com
+# Watch Anime Online - Free Anime Streaming Videos - Animewoot.com
 
 This is the web site of **JVMedia**.
 
