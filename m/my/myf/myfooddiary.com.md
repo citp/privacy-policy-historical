@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the myfooddiary.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527003554id_/http%3A//www.myfooddiary.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfooddiary.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202082430id_/http%3A//www.myfooddiary.com/privacy.asp) for the most accurate reproduction.*
 
 # My Food Diary :: Privacy Policy
-
-If you have questions or concerns regarding this statement, you should first contact MyFoodDiary.com by using the contact form at the following location: <http://www.myfooddiary.com/contact_form.asp?dept=cs>.  If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>.  TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 ### Information Collection & Use
 
@@ -100,10 +98,10 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ### Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at: <http://www.myfooddiary.com/contact_form.asp?dept=cs>.
+If you have any questions or suggestions regarding our privacy policy, please contact us at: <http://www.myfooddiary.com/help/>.
 
 MyFoodDiary.com  
 651 Perimeter Drive, Ste. 620  
 Lexington, KY 40517
 
-Last Updated on 12/31/2008 
+Last Updated on 1/18/2010 
