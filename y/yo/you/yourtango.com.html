@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yourtango.com privacy policy that was archived on 2009-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091217010112id_/http%3A//www.yourtango.com/tango-publishing-corporation-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yourtango.com privacy policy that was archived on 2010-02-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100202012407id_/http%3A//www.yourtango.com/tango-publishing-corporation-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
   <title>Tango Publishing Corporation Privacy Policy  | YourTango | smart talk about love</title>
@@ -40,6 +40,63 @@
       jQuery('.first-and-second-carousel').jcarousel();
       jQuery('#second-carousel').css('width',2688);
           });</script>
+<script type="text/javascript">
+$(document).ready(function () {
+  $('.storyvideo-links a').click(function() {
+    if ($('#comments').is(':hidden')) {
+      $('.pre_comment').fadeToggle('slow');
+      $('h1.top').fadeToggle('slow');
+      $('#comments').fadeToggle('slow');
+
+      var link = $('#alt4-comments');
+      link.text(link.text().replace('Show', 'Hide'));
+      link.parent().addClass('showing');
+    }
+
+    $(this).blur();
+  });
+
+  $('#module-control-options a').click(function() {
+    var id = $(this).attr('id').substr(5);
+    var text = $(this).text();
+
+    if (text.substr(0,4) == 'Show') {
+      $(this).text($(this).text().replace('Show', 'Hide'));
+      $(this).parent().addClass('showing');
+      mboxTrackClick('global', 'sp_' + text.replace(/\s/g, '_'));
+    } else {
+      $(this).text($(this).text().replace('Hide', 'Show'));
+      $(this).parent().removeClass('showing');
+    }
+
+    if (id == 'comments') {
+      $('.pre_comment').fadeToggle('slow');
+      $('h1.top').fadeToggle('slow');
+    }
+
+    $('#' + id).fadeToggle('slow');
+
+    $(this).blur();
+    return false;
+  });
+
+  $('.storyvideo-links').show();
+  $('#module-control-options').show();
+
+});
+
+jQuery.fn.fadeToggle = function(speed, easing, callback) {
+   return this.animate({opacity: 'toggle'}, speed, easing, callback);
+}; 
+
+function mboxTrackClick(existingMboxName, trackedMboxName) {
+  var url = mboxFactoryDefault.get(existingMboxName).getURL();
+  url = url.replace('mbox=' + existingMboxName,'mbox=' + trackedMboxName);
+  url = url.replace('mboxPage=' + mboxFactoryDefault.getPageId(),'mboxPage=' + mboxGenerateId());
+  (new Image()).src = url;
+}
+
+      </script>
 <script type="text/javascript">
       GS_googleAddAdSenseService("ca-pub-1047529115803602");
       GS_googleEnableAllServices();
@@ -156,7 +213,7 @@
                        <input type="submit" value="Login" id="login_button" style="display:none">                   
                     </span>
                     <span id="btn_signup">
-                         <a href="/user/register?rand=1127336101#register"><img src="http://static.yourtango.com/sites/all/themes/yourtango/i/btn_signup.gif" alt="Sign Up"></a>
+                         <a href="/user/register?rand=446617821#register"><img src="http://static.yourtango.com/sites/all/themes/yourtango/i/btn_signup.gif" alt="Sign Up"></a>
                     </span>
                     <span id="btn_fbconnect">
                          <fb:login-button onlogin="facebook_onlogin_ready();" size="medium" background="white" length="long"></fb:login-button>
@@ -358,7 +415,8 @@
         <div id="main" class="column">
           <div id="wide" class="clear-block">
                           <div id="content-top"></div>
-              <div id="content">  
+              <div id="content">
+                <div id="content-top-border"></div>  
                                            
               <div class="node node-type-page" id="node-6054">
   <div class="node-inner">
@@ -407,33 +465,37 @@
 
               <div class="feed-icons"></div>
                             <br class="clear">
+                <div id="content-bottom-border"></div>
               <!-- /content -->
               </div> 
               <div id="blog_blocks"> 
                 <div class="block-wrapper-outer">
   <div class="block-wrapper blog_blocks">
     <div id="block-tango-59" class="block block-tango region-odd even region-count-19 count-20 ">
+      <div class="block-top"></div>
       <div class="block-inner">
-        <div class="tr"> 
- 	  <div class="bl"> 
-	    <div class="br">
+ 
+
+
                 <div class="content">
                                     <script type="text/javascript">GA_googleFillSlotWithSize("ca-pub-1047529115803602", "Single_Storypage_300x250_ns", 300, 250);</script>                </div>
  	    <div class="clear"></div>
-	    </div>
-	  </div>
-        </div> <!-- /tr -->
+
+
+
       </div>
+      <div class="block-bottom"></div>
     </div> <!-- /block-inner, /block -->
   </div>
 </div>
 <div class="block-wrapper-outer">
   <div class="block-wrapper blog_blocks">
     <div id="block-tango-50" class="block block-tango region-even odd region-count-20 count-21 ">
+      <div class="block-top"></div>
       <div class="block-inner">
-        <div class="tr"> 
- 	  <div class="bl"> 
-	    <div class="br">
+ 
+
+
                 <div class="content">
                                       <h2 class="title">Custom Newsletter 2</h2>
                                     <form id="tango-newsletter-form" action="http://visitor.constantcontact.com/d.jsp?m=1102261721149&amp;p=oi" method="post" target="popupwindow" onsubmit="window.open('http://visitor.constantcontact.com/d.jsp?m=1102261721149&amp;p=oi&amp;ea=', 
@@ -442,80 +504,86 @@
          <input id="edit-submit" type="submit" value="Subscribe">         
          </form>                </div>
  	    <div class="clear"></div>
-	    </div>
-	  </div>
-        </div> <!-- /tr -->
+
+
+
       </div>
+      <div class="block-bottom"></div>
     </div> <!-- /block-inner, /block -->
   </div>
 </div>
 <div class="block-wrapper-outer">
   <div class="block-wrapper blog_blocks">
     <div id="block-pathtracker_relatednodes-5" class="block block-pathtracker_relatednodes region-odd even region-count-21 count-22 current_article">
+      <div class="block-top"></div>
       <div class="block-inner">
-        <div class="tr"> 
- 	  <div class="bl"> 
-	    <div class="br">
+ 
+
+
                 <div class="content">
                                       <h2 class="title">Current article</h2>
                                     <h1>Tango Publishing Corporation Privacy Policy</h1><div id="pt_like_this">
             <a href="#" id="pt_1" class="pt_link">More Like This</a>
-          </div><div id="pt_like_this_content"><div id="pt_inside_2"><div id="pt_inside_3"><div id="pt_inside_4"><div class="item-list"><h3>More Like This</h3><ul><li class="first"><a href="/200949261/can-elin-tigers-marriage-be-saved?lid=more">Elin Plans To Leave Tiger</a></li>
-<li><a href="/200949474/who-should-kate-hudson-date-next?lid=more">Who Should Kate Hudson Date Next?</a></li>
-<li><a href="/200949486/elin-nordegren-hero?lid=more">Is Elin Nordegren A Hero?</a></li>
-<li><a href="/question/200949484/how-important-integrity-lovesex-intrest?lid=more">How important is integrity in a love/sex intrest?</a></li>
-<li><a href="/200949416/why-your-twentysomething-boyfriend-wants-baby?lid=more">Why Your 20-Something Boyfriend Wants A Baby</a></li>
-<li><a href="/200949144/multitasking-graduation-wedding?lid=more">Multitasking: Combine A Graduation &amp; A Wedding</a></li>
-<li><a href="/200949453/piece-my-mind?lid=more">A piece of my mind.</a></li>
-<li class="last"><a href="/question/200949444/he-worth-waiting?lid=more">is he worth waiting for</a></li>
+          </div><div id="pt_like_this_content"><div class="acc-border-top"></div><div class="item-list"><h3>More Like This</h3><ul><li class="first"><a href="/201056046/woman-has-twins-two-fathers">Woman Has Twins From Two Fathers</a></li>
+<li><a href="/201056045/what-if-i-dont-fit-my-new-man">What If I Don't "Fit" My New Man?</a></li>
+<li><a href="/question/201056042/what-do-i-tell-guy-who-dont-want-commit-relationship">what do I tell a guy who dont want to commit to a relationship</a></li>
+<li><a href="/201055979/love-bytes-bedroom-advice-gamers">Love Bytes: Bedroom Advice From Gamers</a></li>
+<li><a href="/201056040/i-agreed-break-i-pushed-him-i-dont-want-anymore-it-ok-me-call-apologize-and-ask-start-agai">I agreed to a break that I pushed him into, that I don't want anymore. Is it Ok for me to call, apologize and ask to start again</a></li>
+<li><a href="/question/201056039/i-agreed-break-i-pushed-him-i-dont-want-anymore-it-ok-me-call-apologize-and-ask-s">I agreed to a break that I pushed him into, that I don't want anymore. Is it Ok for me to call, apologize and ask to start again</a></li>
+<li><a href="/201056035/more-kourtney-kardashian-baby-daddy-drama">More Kourtney Kardashian Baby Daddy Drama</a></li>
+<li class="last"><a href="/201055216/twitter-top-10-who-follow-sex-advice">Twitter Top 10: Who To Follow For Sex Advice</a></li>
 </ul></div>
-          </div></div></div></div><div id="pt_next_hops">
+          <div class="acc-border-bottom"></div></div><div id="pt_next_hops">
                 <a href="#" id="pt_2" class="pt_link">Where users go from here</a>
-              </div><div id="pt_next_hops_content"><div id="pt_inside_2"><div id="pt_inside_3"><div id="pt_inside_4"><div class="item-list"><h3>Where Users Go From Here</h3><ul><li class="first"><a href="/20099081/top-10-etiquette-rules-for-facebook?lid=gofromhere">Top 10 Facebook Etiquette Rules</a></li>
-<li class="last"><a href="/200928071/delete-or-not-delete?lid=gofromhere">To Delete or Not to Delete?</a></li>
+              </div><div id="pt_next_hops_content"><div class="acc-border-top"></div><div class="item-list"><h3>Where Users Go From Here</h3><ul><li class="first"><a href="/20099081/top-10-etiquette-rules-for-facebook">Top 10 Facebook Etiquette Rules</a></li>
+<li><a href="/200928071/delete-or-not-delete">To Delete or Not to Delete?</a></li>
+<li><a href="/200947802/frequently-asked-questions">Frequently Asked Questions</a></li>
+<li class="last"><a href="/201051278/2010">2010</a></li>
 </ul></div>
-            </div></div></div></div>                </div>
+            <div class="acc-border-bottom"></div></div>                </div>
  	    <div class="clear"></div>
-	    </div>
-	  </div>
-        </div> <!-- /tr -->
+
+
+
       </div>
+      <div class="block-bottom"></div>
     </div> <!-- /block-inner, /block -->
   </div>
 </div>
 <div class="block-wrapper-outer">
   <div class="block-wrapper blog_blocks">
     <div id="block-tango-64" class="block block-tango region-even odd region-count-22 count-23 ">
+      <div class="block-top"></div>
       <div class="block-inner">
-        <div class="tr"> 
- 	  <div class="bl"> 
-	    <div class="br">
+ 
+
+
                 <div class="content">
                                     <h1>The Most</h1><div id="most_view">
             <a href="#" id="most_view_link" class="most_link">Most Viewed</a>
-          </div><div id="most_view_content"><div id="pt_inside_2"><div id="pt_inside_3"><div id="pt_inside_4"> <div class="item-list"><h3>Most Viewed</h3><ul><li class="first"><a href="/20087725/how-to-kiss-well">How To Kiss Well</a></li>
+          </div><div id="most_view_content"><div class="acc-border-top"></div> <div class="item-list"><h3>Most Viewed</h3><ul><li class="first"><a href="/20087725/how-to-kiss-well">How To Kiss Well</a></li>
 <li><a href="/200936445/6-things-men-should-know-about-women">6 Things Men Should Know About Women</a></li>
 <li><a href="/200942300/4-breakup-warning-signs">4 Breakup Warning Signs</a></li>
 <li><a href="/200940066/5-ways-stop-being-needy-girlfriend">5 Ways To Stop Being A Needy Girlfriend</a></li>
 <li><a href="/200929208/7-traits-irresistible-men">7 Traits Of Irresistible Men</a></li>
 <li><a href="/200945498/10-men-sexier-johnny-depp">10 Men Sexier Than Johnny Depp</a></li>
+<li><a href="/200684/relationship-red-flags.html">12 Relationship Red Flags</a></li>
 <li><a href="/200941466/spatsolver-ultimate-argument-resolution-device">SpatSolver—The Ultimate Argument Resolution Device</a></li>
-<li><a href="/200620/snooping-a-love-story.html">When Snooping Gets Out Of Control</a></li>
 <li><script type="text/javascript">GA_googleFillSlotWithSize("ca-pub-1047529115803602", "Most_text_link1", 275, 32);</script></li>
 <li class="last"><script type="text/javascript">GA_googleFillSlotWithSize("ca-pub-1047529115803602", "Most_text_link2", 275, 32);</script></li>
-</ul></div></div></div></div></div><div id="most_comm">
+</ul></div><div class="acc-border-bottom"></div></div><div id="most_comm">
             <a href="#" id="most_comm_link" class="most_link">Most Commented</a>
-          </div><div id="most_comm_content"><div id="pt_inside_2"><div id="pt_inside_3"><div id="pt_inside_4"> <div class="item-list"><h3>Most Commented</h3><ul><li class="first"><a href="/2006130/portrait-of-an-open-marriage-2.html">Portrait Of An Open Marriage</a></li>
+          </div><div id="most_comm_content"><div class="acc-border-top"></div> <div class="item-list"><h3>Most Commented</h3><ul><li class="first"><a href="/2006130/portrait-of-an-open-marriage-2.html">Portrait Of An Open Marriage</a></li>
 <li><a href="/200684/relationship-red-flags.html">12 Relationship Red Flags</a></li>
 <li><a href="/200914986/5-things-single-women-hate-hear">5 Things Single Women Hate To Hear</a></li>
-<li><a href="/200929208/7-traits-irresistible-men">7 Traits Of Irresistible Men</a></li>
 <li><a href="/200929252/how-man-people-have-you-slept">How Many People Have You Slept With? </a></li>
+<li><a href="/200929208/7-traits-irresistible-men">7 Traits Of Irresistible Men</a></li>
 <li><a href="/200930578/please">10 Secrets Men Keep From Women</a></li>
 <li><a href="/200671/isnt-she-lovely.html">Inner Beauty: What Men Don't Tell You</a></li>
 <li class="last"><a href="/200935970/what-kind-guys-look-for-affairs-online">What Kind Of Guys Look For Affairs Online?</a></li>
-</ul></div></div></div></div></div><div id="most_emai">
+</ul></div><div class="acc-border-bottom"></div></div><div id="most_emai">
             <a href="#" id="most_emai_link" class="most_link">Most Emailed</a>
-          </div><div id="most_emai_content"><div id="pt_inside_2"><div id="pt_inside_3"><div id="pt_inside_4"> <div class="item-list"><h3>Most Emailed</h3><ul><li class="first"><a href="/2006143/spiritual-sex.html">Spiritual Sex: 10 Erotic Commandments</a></li>
+          </div><div id="most_emai_content"><div class="acc-border-top"></div> <div class="item-list"><h3>Most Emailed</h3><ul><li class="first"><a href="/2006143/spiritual-sex.html">Spiritual Sex: 10 Erotic Commandments</a></li>
 <li><a href="/200929208/7-traits-irresistible-men">7 Traits Of Irresistible Men</a></li>
 <li><a href="/200930578/please">10 Secrets Men Keep From Women</a></li>
 <li><a href="/helenfisher">Discover Your "Type" (It Really Exists)</a></li>
@@ -523,73 +591,81 @@
 <li><a href="/200918061/secrets-supersexpert">Stale Sex? 6 Secrets From A Supersexpert</a></li>
 <li><a href="/20086672/what-a-man-sees-when-youre-naked">What A Man Sees When You're Naked</a></li>
 <li class="last"><a href="/20087725/how-to-kiss-well">How To Kiss Well</a></li>
-</ul></div></div></div></div></div>                </div>
+</ul></div><div class="acc-border-bottom"></div></div>                </div>
  	    <div class="clear"></div>
-	    </div>
-	  </div>
-        </div> <!-- /tr -->
+
+
+
       </div>
+      <div class="block-bottom"></div>
     </div> <!-- /block-inner, /block -->
   </div>
 </div>
 <div class="block-wrapper-outer">
   <div class="block-wrapper blog_blocks">
     <div id="block-tango-60" class="block block-tango region-odd even region-count-23 count-24 ">
+      <div class="block-top"></div>
       <div class="block-inner">
-        <div class="tr"> 
- 	  <div class="bl"> 
-	    <div class="br">
+ 
+
+
                 <div class="content">
                                     <script type="text/javascript">GA_googleFillSlotWithSize("ca-pub-1047529115803602", "YT_160x600_ns", 160, 600);</script>                </div>
  	    <div class="clear"></div>
-	    </div>
-	  </div>
-        </div> <!-- /tr -->
+
+
+
       </div>
+      <div class="block-bottom"></div>
     </div> <!-- /block-inner, /block -->
   </div>
 </div>
 <div class="block-wrapper-outer">
   <div class="block-wrapper blog_blocks">
     <div id="block-tango_partner_widget-0" class="block block-tango_partner_widget region-even odd region-count-24 count-25 ">
+      <div class="block-top"></div>
       <div class="block-inner">
-        <div class="tr"> 
- 	  <div class="bl"> 
-	    <div class="br">
+ 
+
+
                 <div class="content">
-                                    <script type="text/javascript" src="http://ct.yourminis.com/scripts/ymswfobject.js"></script><div id="sandboxdiv">loading......<a href="http://widgets.aol.com/widget/daily-popeater"></a></div><script type="text/javascript">var fv = 'height=446&hostname=www.yourminis.com&width=300&swfhost=ct.yourminis.com&statshostname=stats.yourminis.com&uri=yourminis/AOL/mini%3ADailyPopEater&__wmode=window&&__refurl=' + escape(document.location.href);var so = new ymSWFObject('http://ct.yourminis.com/swfs/AS3container.swf', 'sandbox', '300', '446',fv,'9.0.17');so.addParam('wmode', 'transparent');so.addParam('allowScriptAccess','always');so.useExpressInstall('http://ct.yourminis.com/swfs/expressinstall.swf');so.write('sandboxdiv');</script>                </div>
+                                    <object type="application/x-shockwave-flash" data="http://widgets.thefrisky.com/o/47de69913a0971ce/4aaff1e22bece4a9/47ebd2c4e376d311/229bfce8" id="W47de69913a0971ce4aaff1e22bece4a9" width="305" height="255"><param name="movie" value="http://widgets.thefrisky.com/o/47de69913a0971ce/4aaff1e22bece4a9/47ebd2c4e376d311/229bfce8"><param name="wmode" value="transparent"><param name="allowNetworking" value="all"><param name="allowScriptAccess" value="always"></object>                </div>
  	    <div class="clear"></div>
-	    </div>
-	  </div>
-        </div> <!-- /tr -->
+
+
+
       </div>
+      <div class="block-bottom"></div>
     </div> <!-- /block-inner, /block -->
   </div>
 </div>
 <div class="block-wrapper-outer">
   <div class="block-wrapper blog_blocks">
     <div id="block-pathtracker_relatednodes-1" class="block block-pathtracker_relatednodes region-odd even region-count-25 count-26 ">
+      <div class="block-top"></div>
       <div class="block-inner">
-        <div class="tr"> 
- 	  <div class="bl"> 
-	    <div class="br">
+ 
+
+
                 <div class="content">
                                     <h2>Recommended for You</h2><a href="/user/register">Login</a> or <a href="/user/register">Sign Up</a> for a personalized YouTango experience.                </div>
  	    <div class="clear"></div>
-	    </div>
-	  </div>
-        </div> <!-- /tr -->
+
+
+
       </div>
+      <div class="block-bottom"></div>
     </div> <!-- /block-inner, /block -->
   </div>
 </div>
 <div class="block-wrapper-outer">
   <div class="block-wrapper blog_blocks">
     <div id="block-tango-83" class="block block-tango region-even odd region-count-26 count-27 ">
+      <div class="block-top"></div>
       <div class="block-inner">
-        <div class="tr"> 
- 	  <div class="bl"> 
-	    <div class="br">
+ 
+
+
                 <div class="content">
                                     <span class="recent_sub"><a href="/questions?tango_connect_questions_tabs_callback_tab=1&amp;referer=questions&amp;sort=recent">See all</a> or <a href="/questions">Ask your own question!</a></span>
 <script type="text/javascript">
@@ -610,12 +686,13 @@
     }
   );
 </script>
-<ul id="tango-recent-questions"><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/200941528/get-advice-you-have-give-it">To get advice you have to give it</a></div><div class="ytc_question_info"><a href="/question/200941528/get-advice-you-have-give-it" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">5</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/200938504/what-gift-should-i-give-new-lover-who-travelling-cross-country-see-me">What gift should I give a new lover who is travelling cross-country to see me?</a></div><div class="ytc_question_info"><a href="/question/200938504/what-gift-should-i-give-new-lover-who-travelling-cross-country-see-me" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">6</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/200938236/shoud-i-even-try-date">Shoud I even try to date ?</a></div><div class="ytc_question_info"><a href="/question/200938236/shoud-i-even-try-date" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">12</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/200938224/more-then-friends">More then friends?</a></div><div class="ytc_question_info"><a href="/question/200938224/more-then-friends" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">7</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/200938219/how-know-if-hes-one">How to know if he's 'the one'?</a></div><div class="ytc_question_info"><a href="/question/200938219/how-know-if-hes-one" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">13</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/200938216/can-we-take-break-our-friendships">Can we "take a break" from our friendships?</a></div><div class="ytc_question_info"><a href="/question/200938216/can-we-take-break-our-friendships" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">14</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/200938168/ask-her-out-or-wait">Ask her out or wait?</a></div><div class="ytc_question_info"><a href="/question/200938168/ask-her-out-or-wait" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">16</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/200938147/he-cancels-date-what-do-now">He cancels a date, what to do now?</a></div><div class="ytc_question_info"><a href="/question/200938147/he-cancels-date-what-do-now" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">7</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/200938102/why-so-i-still-love-man-beats-me">Why so i still love a man that beats me...</a></div><div class="ytc_question_info"><a href="/question/200938102/why-so-i-still-love-man-beats-me" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">21</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/200938076/how-do-i-convince-her-its-ok-date-me">How do i convince her its ok to date me?</a></div><div class="ytc_question_info"><a href="/question/200938076/how-do-i-convince-her-its-ok-date-me" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">6</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/200938070/my-wife-isnt-who-she-made-herself-out-be">My wife isn't who she made herself out to be.</a></div><div class="ytc_question_info"><a href="/question/200938070/my-wife-isnt-who-she-made-herself-out-be" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">6</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/200938065/what-can-i-do-about-no-libido">What can I do about no libido?</a></div><div class="ytc_question_info"><a href="/question/200938065/what-can-i-do-about-no-libido" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">10</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/200938024/he-me">Is he into me?</a></div><div class="ytc_question_info"><a href="/question/200938024/he-me" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">8</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/200938013/it-good-idea-split-financially-still-married">Is it a good idea to split up financially but still married?</a></div><div class="ytc_question_info"><a href="/question/200938013/it-good-idea-split-financially-still-married" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">5</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/200938010/should-i-go-her"> Should i go for her?</a></div><div class="ytc_question_info"><a href="/question/200938010/should-i-go-her" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">5</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/200938007/line-dating-cheating">is on line dating cheating?</a></div><div class="ytc_question_info"><a href="/question/200938007/line-dating-cheating" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">21</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/200938005/can-two-families-really-be-blended-together-after-divorce">Can two families really be blended together after a divorce?</a></div><div class="ytc_question_info"><a href="/question/200938005/can-two-families-really-be-blended-together-after-divorce" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">4</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/200937993/it-ever-okay-get-back-together-abusive-ex">Is it ever okay to get back together with an abusive ex?</a></div><div class="ytc_question_info"><a href="/question/200937993/it-ever-okay-get-back-together-abusive-ex" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">15</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/200935390/does-my-partnerwife-genuinely-love-me">does my partner/wife genuinely love me</a></div><div class="ytc_question_info"><a href="/question/200935390/does-my-partnerwife-genuinely-love-me" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">7</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/200935341/how-do-you-get-over-unrequited-love-close-friend">how do you get over unrequited love from a close friend?</a></div><div class="ytc_question_info"><a href="/question/200935341/how-do-you-get-over-unrequited-love-close-friend" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">10</span> users can relate</div></div><div class="clear"></div></li></ul>                </div>
+<ul id="tango-fixed-question"><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/201052349/how-do-you-survive-long-distance-relationship">How do you survive a long-distance relationship?</a></div><div class="ytc_question_info"><a href="/question/201052349/how-do-you-survive-long-distance-relationship" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">29</span> users can relate</div></div><div class="clear"></div></li></ul><ul id="tango-recent-questions"><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/201054881/why-my-ex-fiance-sending-me-love-songs">Why is my ex fiance sending me love songs?</a></div><div class="ytc_question_info"><a href="/question/201054881/why-my-ex-fiance-sending-me-love-songs" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">1</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/201054864/how-do-you-get-someone-out-your-head">How do you get someone out of your head?</a></div><div class="ytc_question_info"><a href="/question/201054864/how-do-you-get-someone-out-your-head" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">2</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/201054836/what-conversation-are-you-most-affraid-having-your-partner-or-spouse-and-why">What conversation are you most afraid of having with your partner or spouse and why?</a></div><div class="ytc_question_info"><a href="/question/201054836/what-conversation-are-you-most-affraid-having-your-partner-or-spouse-and-why" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info"></span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/201054692/how-do-i-tell-if-he-interested-me">How do I tell if he is interested in me?</a></div><div class="ytc_question_info"><a href="/question/201054692/how-do-i-tell-if-he-interested-me" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">1</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/201054674/when-should-i-start-worrying-about-marriage">When should I start worrying about marriage?</a></div><div class="ytc_question_info"><a href="/question/201054674/when-should-i-start-worrying-about-marriage" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">1</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/201054585/should-girls-make-first-move-or-should-they-wait">Should girls make the first move or should they wait? </a></div><div class="ytc_question_info"><a href="/question/201054585/should-girls-make-first-move-or-should-they-wait" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">3</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/201054583/why-do-guys-always-pull-disappearing-act">Why do guys always pull the disappearing act?</a></div><div class="ytc_question_info"><a href="/question/201054583/why-do-guys-always-pull-disappearing-act" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">2</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/201054581/how-do-you-pick-engagement-ring">How do you pick an engagement ring?</a></div><div class="ytc_question_info"><a href="/question/201054581/how-do-you-pick-engagement-ring" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">1</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/201054559/how-make-my-realtionship-last">How to make my realtionship last?</a></div><div class="ytc_question_info"><a href="/question/201054559/how-make-my-realtionship-last" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">1</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/201054491/what-do-men-love-about-women">what do men love about women</a></div><div class="ytc_question_info"><a href="/question/201054491/what-do-men-love-about-women" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">3</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/201054387/what-do-when-no-one-wants-you-be-one-you-love-cause-their-race">What to do when no one wants you to be with the one you love cause of their race? </a></div><div class="ytc_question_info"><a href="/question/201054387/what-do-when-no-one-wants-you-be-one-you-love-cause-their-race" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">1</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/201054330/how-can-i-get-her-fall-love-me-again">How can I get her to fall in love with me again?</a></div><div class="ytc_question_info"><a href="/question/201054330/how-can-i-get-her-fall-love-me-again" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">2</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/201054237/how-do-i-know-sure-if-i-chose-right-man">How do I know for sure if I chose the right man?</a></div><div class="ytc_question_info"><a href="/question/201054237/how-do-i-know-sure-if-i-chose-right-man" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">3</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/201054231/how-can-you-still-care-about-and-want-be-someone-who-has-hurt-you">How can you still care about and want to be with someone who has hurt you?</a></div><div class="ytc_question_info"><a href="/question/201054231/how-can-you-still-care-about-and-want-be-someone-who-has-hurt-you" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">2</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/201054226/why-dont-guys-want-discuss-relationship-issues">Why don't guys want to discuss relationship issues?</a></div><div class="ytc_question_info"><a href="/question/201054226/why-dont-guys-want-discuss-relationship-issues" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">2</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/201054198/would-you-leave-your-husband-emotional-affair">Would you leave your husband for an emotional affair?</a></div><div class="ytc_question_info"><a href="/question/201054198/would-you-leave-your-husband-emotional-affair" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">1</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/201054152/how-trust-regained-or-can-it-ever-be">How is trust regained or can it ever be?</a></div><div class="ytc_question_info"><a href="/question/201054152/how-trust-regained-or-can-it-ever-be" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">2</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/201054128/can-happy-endings-turn-unhappy">Can Happy Endings turn unhappy?</a></div><div class="ytc_question_info"><a href="/question/201054128/can-happy-endings-turn-unhappy" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">1</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/201054119/can-he-be-using-his-studies-excuss-not-calling-me-daily">Can he be using his studies as an excuss for not calling me daily?</a></div><div class="ytc_question_info"><a href="/question/201054119/can-he-be-using-his-studies-excuss-not-calling-me-daily" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">2</span> users can relate</div></div><div class="clear"></div></li><li><div class="ytc_question_title"><span class="green_q">Q:</span><a href="/question/201054101/i-need-know-how-move-when-i-see-him-everyday">I need to know how to move on when I see him everyday?</a></div><div class="ytc_question_info"><a href="/question/201054101/i-need-know-how-move-when-i-see-him-everyday" class="answer_this">Answer this</a><div class="ytc_question_relate"><span class="info">2</span> users can relate</div></div><div class="clear"></div></li></ul>                </div>
  	    <div class="clear"></div>
-	    </div>
-	  </div>
-        </div> <!-- /tr -->
+
+
+
       </div>
+      <div class="block-bottom"></div>
     </div> <!-- /block-inner, /block -->
   </div>
 </div>
@@ -632,7 +709,7 @@
     <!-- page-container -->
     </div>
 
-      </div> <!-- page -->
+  </div> <!-- page -->
 
   <div id="footer-wrapper">
     <div id="footer">
@@ -640,6 +717,7 @@
 <div class="block-wrapper-outer f_block_celeb_links">
 <div class="f_title">Celebrity Love Life</div>
 <ul>
+<li><a href="/celeb-love/adam-lambert">Adam Lambert</a></li>
 <li><a href="/celeb-love/alex-rodriguez">Alex Rodriguez</a></li>
 <li><a href="/celeb-love/amy-winehouse">Amy Winehouse</a></li>
 <li><a href="/celeb-love/angelina-jolie">Angelina Jolie</a></li>
@@ -648,43 +726,157 @@
 <li><a href="/celeb-love/ashlee-simpson">Ashlee Simpson</a></li>
 <li><a href="/celeb-love/ashley-olsen">Ashley Olsen</a></li>
 <li><a href="/celeb-love/ashton-kutcher">Ashton Kutcher</a></li>
+<li><a href="/celeb-love/audrina-patridge">Audrina Patridge</a></li>
 <li><a href="/celeb-love/beyonce-knowles">Beyonce</a></li>
+<li><a href="/celeb-love/ben-affleck">Ben Affleck</a></li>
 <li><a href="/celeb-love/brad-pitt">Brad Pitt</a></li>
+<li><a href="/celeb-love/bruce-willis">Bruce Willis</a></li>
 <li><a href="/celeb-love/britney-spears">Britney Spears</a></li>
 <li><a href="/celeb-love/cameron-diaz">Cameron Diaz</a></li>
 <li><a href="/celeb-love/carrie-underwood">Carrie Underwood</a></li>
+<li><a href="/celeb-love/chace-crawford">Chace Crawford</a></li>
+<li><a href="/celeb-love/charlie-sheen">Charlie Sheen</a></li>
 <li><a href="/celeb-love/chris-brown">Chris Brown</a></li>
 <li><a href="/celeb-love/christina-applegate">Christina Applegate</a></li>
 <li><a href="/celeb-love/david-beckham">David Beckham</a></li>
-<li><a href="/celeb-love/denise-richards">Denise Richards</a></li>
+<li><a href="/celeb-love/demi-moore">Demi Moore</a></li>
 </ul>
 
-<ul><li><a href="/celeb-love/drew-barrymore">Drew Barrymore</a></li><li><a href="/celeb-love/ellen-pompeo">Ellen Pompeo</a></li><li><a href="/celeb-love/eva-longoria-parker">Eva Longoria Parker</a></li><li><a href="/celeb-love/gavin-rossdale">Gavin Rossdale</a></li><li><a href="/celeb-love/george-clooney">George Clooney</a></li><li><a href="/celeb-love/gerard-butler">Gerard Butler</a></li><li><a href="/celeb-love/gisele-bundchen">Gisele Bundchen</a></li><li><a href="/celeb-love/guy-ritchie">Guy Ritchie</a></li><li><a href="/celeb-love/gwen-stefani">Gwen Stefani </a></li><li><a href="/celeb-love/gwyneth-paltrow">Gwyneth Paltrow</a></li><li><a href="/celeb-love/halle-berry">Halle Berry</a></li><li><a href="/celeb-love/heidi-klum">Heidi Klum</a></li><li><a href="/celeb-love/holly-madison">Holly Madison</a></li>
-
+<ul>
+<li><a href="/celeb-love/denise-richards">Denise Richards</a></li>
+<li><a href="/celeb-love/drew-barrymore">Drew Barrymore</a></li>
+<li><a href="/celeb-love/ed-westwick">Ed Westwick</a></li>
+<li><a href="/celeb-love/ellen-pompeo">Ellen Pompeo</a></li>
+<li><a href="/celeb-love/eva-longoria-parker">Eva Longoria Parker</a></li>
+<li><a href="/celeb-love/evan-rachel-wood">Evan Rachel Wood</a></li>
+<li><a href="/celeb-love/fergie">Fergie</a></li>
+<li><a href="/celeb-love/gavin-rossdale">Gavin Rossdale</a></li>
+<li><a href="/celeb-love/george-clooney">George Clooney</a></li>
+<li><a href="/celeb-love/gerard-butler">Gerard Butler</a></li>
+<li><a href="/celeb-love/gisele-bundchen">Gisele Bundchen</a></li>
+<li><a href="/celeb-love/guy-ritchie">Guy Ritchie</a></li>
+<li><a href="/celeb-love/gwen-stefani">Gwen Stefani </a></li>
+<li><a href="/celeb-love/gwyneth-paltrow">Gwyneth Paltrow</a></li>
+<li><a href="/celeb-love/halle-berry">Halle Berry</a></li>
+<li><a href="/celeb-love/heidi-klum">Heidi Klum</a></li>
+<li><a href="/celeb-love/heidi-montag">Heidi Montag</a></li>
+<li><a href="/celeb-love/holly-madison">Holly Madison</a></li>
 <li><a href="/celeb-love/hugh-grant">Hugh Grant</a></li>
+<li><a href="/celeb-love/hugh-hefner">Hugh Hefner</a></li>
 <li><a href="/celeb-love/hugh-jackman">Hugh Jackman</a></li>
+<li><a href="/celeb-love/jada-pinkett-smith">Jada Pinkett Smith</a></li>
+</ul>
+
+<ul>
 <li><a href="/celeb-love/jake-gyllenhaal">Jake Gyllenhaal</a></li>
 <li><a href="/celeb-love/jamie-lynn-spears">Jamie Lynn Spears</a></li>
+<li><a href="/celeb-love/jay-z">Jay Z</a></li>
 <li><a href="/celeb-love/jennifer-aniston">Jennifer Aniston</a></li>
+<li><a href="/celeb-love/jennifer-garner">Jennifer Garner</a></li>
+<li><a href="/celeb-love/jennifer-hudson">Jennifer Hudson</a></li>
+<li><a href="/celeb-love/jennifer-lopez">Jennifer Lopez</a></li>
+<li><a href="/celeb-love/jennifer-love-hewitt">Jennifer Love Hewitt</a></li>
+<li><a href="/celeb-love/jessica-alba">Jessica Alba</a></li>
+<li><a href="/celeb-love/jessica-biel">Jessica Biel</a></li>
+<li><a href="/celeb-love/jessica-simpson">Jessica Simpson</a></li>
+<li><a href="/celeb-love/joe-jonas">Joe Jonas</a></li>
+<li><a href="/celeb-love/john-mayer">John Mayer</a></li>
+<li><a href="/celeb-love/johnny-depp">Johnny Depp</a></li>
+<li><a href="/celeb-love/jon-gosselin">Jon Gosselin</a></li>
+<li><a href="/celeb-love/josh-lucas">Josh Lucas</a></li>
+<li><a href="/celeb-love/jude-law">Jude Law</a></li>
+<li><a href="/celeb-love/julia-roberts">Julia Roberts</a></li>
+<li><a href="/celeb-love/justin-timberlake">Justin Timberlake</a></li>
+<li><a href="/celeb-love/kanye-west">Kanye West</a></li>
+<li><a href="/celeb-love/kate-gosselin">Kate Gosselin</a></li>
+<li><a href="/celeb-love/kate-hudson">Kate Hudson</a></li>
 </ul>
-<ul><li><a href="/celeb-love/jennifer-garner">Jennifer Garner</a></li><li><a href="/celeb-love/jennifer-hudson">Jennifer Hudson</a></li><li><a href="/celeb-love/jennifer-love-hewitt">Jennifer Love Hewitt</a></li><li><a href="/celeb-love/jessica-alba">Jessica Alba</a></li><li><a href="/celeb-love/jessica-biel">Jessica Biel</a></li><li><a href="/celeb-love/jessica-simpson">Jessica Simpson</a></li><li><a href="/celeb-love/joe-jonas">Joe Jonas</a></li><li><a href="/celeb-love/john-mayer">John Mayer</a></li><li><a href="/celeb-love/johnny-depp">Johnny Depp</a></li><li><a href="/celeb-love/jon-gosselin">Jon Gosselin</a></li><li><a href="/celeb-love/josh-lucas">Josh Lucas</a></li><li><a href="/celeb-love/justin-timberlake">Justin Timberlake</a></li><li><a href="/celeb-love/kanye-west">Kanye West</a></li><li><a href="/celeb-love/kate-gosselin">Kate Gosselin</a></li><li><a href="/celeb-love/kate-hudson">Kate Hudson</a></li><li><a href="/celeb-love/kate-walsh">Kate Walsh</a></li><li><a href="/celeb-love/katherine-heigl">Katherine Heigl</a></li>
+
+<ul>
+<li><a href="/celeb-love/kate-walsh">Kate Walsh</a></li>
+<li><a href="/celeb-love/katherine-heigl">Katherine Heigl</a></li>
+<li><a href="/celeb-love/katie-holmes">Katie Holmes</a></li>
+<li><a href="/celeb-love/katy-perry">Katy Perry</a></li>
+<li><a href="/celeb-love/kelly-clarkson">Kelly Clarkson</a></li>
+<li><a href="/celeb-love/kelly-rutherford">Kelly Rutherford</a></li>
+<li><a href="/celeb-love/kendra-wilkinson">Kendra Wilkinson</a></li>
+<li><a href="/celeb-love/kim-kardashian">Kim Kardashian</a></li>
+<li><a href="/celeb-love/kimora-lee-simmons">Kimora Lee Simmons</a></li>
+<li><a href="/celeb-love/kristen-stewart">Kristen Stewart</a></li>
+<li><a href="/celeb-love/kristin-cavallari">Kristin Cavallari</a></li>
+<li><a href="/celeb-love/kristin-chenoweth">Kristin Chenoweth</a></li>
+<li><a href="/celeb-love/lauren-conrad">Lauren Conrad</a></li>
+<li><a href="/celeb-love/leonardo-dicaprio">Leonardo DiCaprio</a></li>
+<li><a href="/celeb-love/liam-neeson">Liam Neeson</a></li>
+<li><a href="/celeb-love/lindsay-lohan">Lindsay Lohan</a></li>
+<li><a href="/celeb-love/madonna">Madonna</a></li>
+<li><a href="/celeb-love/mariah-carey">Mariah Carey</a></li>
+<li><a href="/celeb-love/mary-kate-olsen">Mary-Kate Olsen</a></li>
+<li><a href="/celeb-love/matthew-mcconaughey">Matthew McConaughey</a></li>
+<li><a href="/celeb-love/megan-fox">Megan Fox</a></li>
+<li><a href="/celeb-love/mel-gibson">Mel Gibson</a></li>
 </ul>
-<ul><li><a href="/celeb-love/katie-holmes">Katie Holmes</a></li><li><a href="/celeb-love/kendra-wilkinson">Kendra Wilkinson</a></li><li><a href="/celeb-love/kim-kardashian">Kim Kardashian</a></li><li><a href="/celeb-love/kimora-lee-simmons">Kimora Lee Simmons</a></li><li><a href="/celeb-love/kristen-stewart">Kristen Stewart</a></li><li><a href="/celeb-love/kristin-chenoweth">Kristin Chenoweth</a></li><li><a href="/celeb-love/lauren-conrad">Lauren Conrad</a></li><li><a href="/celeb-love/leonardo-dicaprio">Leonardo DiCaprio</a></li><li><a href="/celeb-love/lindsay-lohan">Lindsay Lohan</a></li><li><a href="/celeb-love/madonna">Madonna</a></li><li><a href="/celeb-love/mariah-carey">Mariah Carey</a></li><li><a href="/celeb-love/mary-kate-olsen">Mary-Kate Olsen</a></li><li><a href="/celeb-love/megan-fox">Megan Fox</a></li><li><a href="/celeb-love/michael-jackson">Michael Jackson</a></li><li><a href="/celeb-love/michelle-williams">Michelle Williams</a></li><li><a href="/celeb-love/miley-cyrus">Miley Cyrus</a></li><li><a href="/celeb-love/natalie-portman">Natalie Portman</a></li>
+
+<ul>
+<li><a href="/celeb-love/michael-jackson">Michael Jackson</a></li>
+<li><a href="/celeb-love/michelle-williams">Michelle Williams</a></li>
+<li><a href="/celeb-love/miley-cyrus">Miley Cyrus</a></li>
+<li><a href="/celeb-love/natalie-portman">Natalie Portman</a></li>
+<li><a href="/celeb-love/nick-jonas">Nick Jonas</a></li>
+<li><a href="/celeb-love/nicole-kidman">Nicole Kidman</a></li>
+<li><a href="/celeb-love/nicole-richie">Nicole Richie</a></li>
+<li><a href="/celeb-love/oprah-winfrey">Oprah Winfrey</a></li>
+<li><a href="/celeb-love/owen-wilson">Owen Wilson</a></li>
+<li><a href="/celeb-love/pamela-anderson">Pamela Anderson</a></li>
+<li><a href="/celeb-love/paris-hilton">Paris Hilton</a></li>
+<li><a href="/celeb-love/patrick-swayze">Patrick Swayze</a></li>
+<li><a href="/celeb-love/pete-wentz">Pete Wentz</a></li>
+<li><a href="/celeb-love/pink">Pink</a></li>
+<li><a href="/celeb-love/rachel-mcadams">Rachel McAdams</a></li>
+<li><a href="/celeb-love/reese-witherspoon">Reese Witherspoon</a></li>
+<li><a href="/celeb-love/rihanna">Rihanna</a></li>
+<li><a href="/celeb-love/robert-pattinson">Robert Pattinson</a></li>
+<li><a href="/celeb-love/russell-brand">Russell Brand</a></li>
+<li><a href="/celeb-love/ryan-gosling">Ryan Gosling</a></li>
+<li><a href="/celeb-love/ryan-phillipe">Ryan Phillipe</a></li>
+<li><a href="/celeb-love/ryan-reynolds">Ryan Reynolds</a></li>
 </ul>
-<ul><li><a href="/celeb-love/nick-jonas">Nick Jonas</a></li><li><a href="/celeb-love/nicole-kidman">Nicole Kidman</a></li><li><a href="/celeb-love/nicole-richie">Nicole Richie</a></li><li><a href="/celeb-love/oprah-winfrey">Oprah Winfrey</a></li><li><a href="/celeb-love/owen-wilson">Owen Wilson</a></li><li><a href="/celeb-love/pamela-anderson">Pamela Anderson</a></li><li><a href="/celeb-love/paris-hilton">Paris Hilton</a></li><li><a href="/celeb-love/patrick-swayze">Patrick Swayze</a></li><li><a href="/celeb-love/pete-wentz">Pete Wentz</a></li><li><a href="/celeb-love/pink">Pink</a></li><li><a href="/celeb-love/rachel-mcadams">Rachel McAdams</a></li><li><a href="/celeb-love/reese-witherspoon">Reese Witherspoon</a></li><li><a href="/celeb-love/rihanna">Rihanna</a></li><li><a href="/celeb-love/robert-pattinson">Robert Pattinson</a></li><li><a href="/celeb-love/ryan-gosling">Ryan Gosling</a></li><li><a href="/celeb-love/ryan-reynolds">Ryan Reynolds</a></li><li><a href="/celeb-love/salma-hayek">Salma Hayek</a></li>
+
+<ul>
+<li><a href="/celeb-love/salma-hayek">Salma Hayek</a></li>
+<li><a href="/celeb-love/samantha-ronson">Samantha Ronson</a></li>
+<li><a href="/celeb-love/sarah-jessica-parker">Sarah Jessica Parker</a></li>
+<li><a href="/celeb-love/scarlett-johansson">Scarlett Johansson</a></li>
+<li><a href="/celeb-love/sean-penn">Sean Penn</a></li>
+<li><a href="/celeb-love/shia-labeouf">Shia LaBeouf</a></li>
+<li><a href="/celeb-love/sienna-miller">Sienna Miller</a></li>
+<li><a href="/celeb-love/spencer-pratt">Spencer Pratt</a></li>
+<li><a href="/celeb-love/taylor-lautner">Taylor Lautner</a></li>
+<li><a href="/celeb-love/taylor-swift">Taylor Swift</a></li>
+<li><a href="/celeb-love/tiger-woods">Tiger Woods</a></li>
+<li><a href="/celeb-love/tila-tequila">Tila Tequila</a></li>
+<li><a href="/celeb-love/tom-brady">Tom Brady</a></li>
+<li><a href="/celeb-love/tom-cruise">Tom Cruise</a></li>
+<li><a href="/celeb-love/tyra-banks">Tyra Banks</a></li>
+<li><a href="/celeb-love/usher">Usher</a></li>
+<li><a href="/celeb-love/vanessa-hudgens">Vanessa Hudgens</a></li>
+<li><a href="/celeb-love/victoria-beckham">Victoria Beckham</a></li>
+<li><a href="/celeb-love/vince-vaughn">Vince Vaughn</a></li>
+<li><a href="/celeb-love/will-smith">Will Smith</a></li>
+<li><a href="/celeb-love/wilmer-valderrama">Wilmer Valderrama</a></li>
+<li><a href="/celeb-love/zac-efron">Zac Efron</a></li>
 </ul>
-<ul><li><a href="/celeb-love/sarah-jessica-parker">Sarah Jessica Parker</a></li><li><a href="/celeb-love/scarlett-johansson">Scarlett Johansson</a></li><li><a href="/celeb-love/sean-penn">Sean Penn</a></li><li><a href="/celeb-love/shia-labeouf">Shia LaBeouf</a></li><li><a href="/celeb-love/spencer-pratt">Spencer Pratt</a></li><li><a href="/celeb-love/taylor-swift">Taylor Swift</a></li><li><a href="/celeb-love/tila-tequila">Tila Tequila</a></li><li><a href="/celeb-love/tom-brady">Tom Brady</a></li><li><a href="/celeb-love/tom-cruise">Tom Cruise</a></li><li><a href="/celeb-love/tyra-banks">Tyra Banks</a></li><li><a href="/celeb-love/vanessa-hudgens">Vanessa Hudgens</a></li><li><a href="/celeb-love/victoria-beckham">Victoria Beckham</a></li><li><a href="/celeb-love/will-smith">Will Smith</a></li><li><a href="/celeb-love/zac-efron">Zac Efron</a></li>
-</ul>
+
 </div>
 
 <div class="block-wrapper-outer">
   <div class="block-wrapper ">
-    <div id="block-tango_admin-0" class="block block-tango_admin region-odd even region-count-37 count-38 ">
+    <div id="block-tango_admin-0" class="block block-tango_admin region-odd even region-count-39 count-40 ">
       <div class="block-inner">
         <div class="content-wrap" align="center">
    	  <div class="content">
 	                <div class="block-wrapper-outer f_block_friends">
-    	        <div class="f_title">Friends With Benefits ...</div><ul><li><a href="http://www.alltop.com" target="_blank">Alltop.com</a></li><li><a href="http://www.personals.aol.com" target="_blank">AOL Personals</a></li><li><a href="http://www.askdanandjennifer.com/" target="_blank">Ask Dan and Jennifer</a></li><li><a href="http://www.askmattandtamsen.com/" target="_blank">Ask Matt and Tamsen</a></li><li><a href="http://www.asylum.com/" target="_blank">Asylum</a></li><li><a href="http://www.bitchbuzz.com/" target="_blank">BitchBuzz</a></li></ul><ul><li><a href="http://www.celebjihad.com/" target="_blank">Celeb Jihad</a></li><li><a href="http://www.collegecandy.com/category/sex" target="_blank">College Candy</a></li><li><a href="http://www.datedaily.com" target="_blank">Date Daily</a></li><li><a href="http://www.divinecaroline.com/browse/relationships" target="_blank">DivineCaroline</a></li><li><a href="http://blog.trutv.com/dumb_as_a_blog/" target="_blank">Dumb As A Blog</a></li><li><a href="http://www.emandlo.com" target="_blank">Em and Lo</a></li></ul><ul><li><a href="http://excelle.monster.com/" target="_blank">Excelle</a></li><li><a href="http://www.firstwivesworld.com/" target="_blank">First Wives World</a></li><li><a href="http://funkybrownchick.com/" target="_blank">Funky Brown Chick</a></li><li><a href="http://www.glamour.com/" target="_blank">Glamour</a></li><li><a href="http://living.health.com/category/sex-and-relationships/" target="_blank">Health.com</a></li><li><a href="http://www.heartlessdoll.com/" target="_blank">Heartless Doll</a></li></ul><ul><li><a href="http://www.i-am-bored.com/" target="_blank">I Am Bored</a></li><li><a href="http://www.fncimag.com/imag/" target="_blank">iMag</a></li><li><a href="http://www.kissanddish.com" target="_blank">Kiss And Dish</a></li><li><a href="http://www.lemondrop.com/" target="_blank">Lemondrop</a></li><li><a href="http://www.limelife.com/channel-lovesex/0.html" target="_blank">LimeLife</a></li><li><a href="http://linkiest.com/" target="_blank">Linkiest</a></li></ul><ul><li><a href="http://lustylady.blogspot.com/" target="_blank">Lusty Lady</a></li><li><a href="http://www.momlogic.com" target="_blank">MomLogic</a></li><li><a href="http://www.nerve.com" target="_blank">Nerve</a></li><li><a href="http://www.ovguide.com" target="_blank">Online Video Guide</a></li><li><a href="http://www.popeater.com" target="_blank">PopEater</a></li><li><a href="http://www.recessionwire.com/" target="_blank">Recessionwire</a></li></ul><ul><li><a href="http://www.ovguide.com/lifestyle.html" target="_blank">Relationship Advice Videos</a></li><li><a href="http://shine.yahoo.com/channel/sex/" target="_blank">Shine</a></li><li><a href="http://www.glamour.com/sex-love-life/blogs/single-ish" target="_blank">Single-ish</a></li><li><a href="http://www.sirensmag.com/" target="_blank">Sirens</a></li><li><a href="http://smaknews.com/" target="_blank">Smak News</a></li><li><a href="http://www.glamour.com/sex-love-life/blogs/smitten/" target="_blank">Smitten</a></li></ul><ul><li><a href="http://www.starpulse.com" target="_blank">Starpulse</a></li><li><a href="http://www.televisionwithoutpity.com/" target="_blank">Television Without Pity</a></li><li><a href="http://www.thefrisky.com/" target="_blank">The Frisky</a></li><li><a href="http://www.huffingtonpost.com/" target="_blank">The Huffington Post</a></li><li><a href="http://www.thirdage.com/" target="_blank">ThirdAge</a></li><li><a href="http://www.tmz.com/" target="_blank">TMZ</a></li></ul><ul><li><a href="http://www.top10virals.com/" target="_blank">Top 10 Viral Videos</a></li><li><a href="http://www.tressugar.com/" target="_blank">TresSugar</a></li><li><a href="http://www.urlesque.com/" target="_blank">Urlesque</a></li></ul></div>	  </div>
+    	        <div class="f_title">Friends With Benefits ...</div><ul><li><a href="http://www.alltop.com" target="_blank">Alltop.com</a></li><li><a href="http://www.personals.aol.com" target="_blank">AOL Personals</a></li><li><a href="http://www.askdanandjennifer.com/" target="_blank">Ask Dan and Jennifer</a></li><li><a href="http://www.askmattandtamsen.com/" target="_blank">Ask Matt and Tamsen</a></li><li><a href="http://www.asylum.com/" target="_blank">Asylum</a></li><li><a href="http://www.bitchbuzz.com/" target="_blank">BitchBuzz</a></li></ul><ul><li><a href="http://www.celebjihad.com/" target="_blank">Celeb Jihad</a></li><li><a href="http://www.collegecandy.com/category/sex" target="_blank">College Candy</a></li><li><a href="http://cyberdatingexpert.com/" target="_blank">CyberDating Expert</a></li><li><a href="http://www.datedaily.com" target="_blank">Date Daily</a></li><li><a href="http://www.divinecaroline.com/browse/relationships" target="_blank">DivineCaroline</a></li><li><a href="http://www.emandlo.com" target="_blank">Em and Lo</a></li></ul><ul><li><a href="http://excelle.monster.com/" target="_blank">Excelle</a></li><li><a href="http://funkybrownchick.com/" target="_blank">Funky Brown Chick</a></li><li><a href="http://www.glamour.com/" target="_blank">Glamour</a></li><li><a href="http://living.health.com/category/sex-and-relationships/" target="_blank">Health.com</a></li><li><a href="http://www.heartlessdoll.com/" target="_blank">Heartless Doll</a></li><li><a href="http://www.huffingtonpost.com/living/" target="_blank">HuffPost Living</a></li></ul><ul><li><a href="http://www.fncimag.com/imag/" target="_blank">iMag</a></li><li><a href="http://www.kissanddish.com" target="_blank">Kiss And Dish</a></li><li><a href="http://www.lemondrop.com/" target="_blank">Lemondrop</a></li><li><a href="http://www.limelife.com/channel-lovesex/0.html" target="_blank">LimeLife</a></li><li><a href="http://linkiest.com/" target="_blank">Linkiest</a></li><li><a href="http://marsvenusliving.com/" target="_blank">MarsVenus Living</a></li></ul><ul><li><a href="http://www.momlogic.com" target="_blank">MomLogic</a></li><li><a href="http://www.popeater.com" target="_blank">PopEater</a></li><li><a href="http://www.recessionwire.com/" target="_blank">Recessionwire</a></li><li><a href="http://www.ovguide.com/lifestyle.html" target="_blank">Relationship Advice Videos</a></li><li><a href="http://smaknews.com/" target="_blank">Smak News</a></li><li><a href="http://smak.ly/" target="_blank">Smak.ly</a></li></ul><ul><li><a href="http://www.starpulse.com" target="_blank">Starpulse</a></li><li><a href="http://www.televisionwithoutpity.com/" target="_blank">Television Without Pity</a></li><li><a href="http://www.thefrisky.com/" target="_blank">The Frisky</a></li><li><a href="http://www.thirdage.com/" target="_blank">ThirdAge</a></li><li><a href="http://www.tmz.com/" target="_blank">TMZ</a></li><li><a href="http://www.tressugar.com/" target="_blank">TresSugar</a></li></ul><ul><li><a href="http://www.urlesque.com/" target="_blank">Urlesque</a></li></ul></div>	  </div>
 	</div>
       </div>
     </div>
@@ -764,7 +956,7 @@
 
 <a href="http://www.realgirlsmedia.com/adnetwork.htm" target="_blank" id="ad_network">RGN</a>
 
-            <div id="copyright" class="centered">© Copyright 2009 by Tango Media Corporation All Right Reserved.</div>
+            <div id="copyright" class="centered">© Copyright 2010 by Tango Media Corporation All Right Reserved.</div>
     </div> 
   </div>
   <script type="text/javascript">
@@ -798,6 +990,7 @@ s.prop8=""
 s.prop9=""
 s.prop10=""
 s.prop12=""
+s.prop13=""
 /* Conversion Variables */
 s.campaign=""
 s.state=""
@@ -848,6 +1041,7 @@ s.prop8=""
 s.prop9=""
 s.prop10=""
 s.prop12=""
+s.prop13=""
 /* Conversion Variables */
 s.campaign=""
 s.state=""
@@ -897,10 +1091,6 @@ height="1" width="1" border="0" alt="" /></a></noscript>
 </noscript>
 <!-- End comScore Tag -->
 
-<!-- start Vibrant Media IntelliTXT script section -->
-<script type="text/javascript" src="http://yourtango.us.intellitxt.com/intellitxt/front.asp?ipid=20001"></script>
-<!-- end Vibrant Media IntelliTXT script section -->
-
 <!-- Start Quantcast tag -->
 <script type="text/javascript">
 _qoptions={
@@ -946,8 +1136,16 @@ skimlinks();
 <script type="text/javascript">FB_RequireFeatures(["XFBML"], function() {
                   FB.Facebook.init("8506d8a9687c8a6d1fb64649adbf9c65", "/sites/all/modules/fbconnect/xd_receiver.html");
                 });</script>
-  
+
+  <!-- Kontera ContentLink(TM);-->
+<script type="text/javascript">
+var dc_AdLinkColor = '#DB1464' ;
+var dc_PublisherID = 126780 ;
+</script>
+<script type="text/javascript" src="http://kona.kontera.com/javascript/lib/KonaLibInline.js">
+</script>
+<!-- Kontera ContentLink(TM) -->  
 
 
-<!-- Page cached by Boost at 2009-12-16 19:50:51, expires at 2009-12-16 20:20:51 -->
+<!-- Page cached by Boost at 2010-02-01 13:47:03, expires at 2010-02-01 14:47:03 -->
 </body></html>
