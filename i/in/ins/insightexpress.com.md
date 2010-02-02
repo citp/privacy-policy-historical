@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insightexpress.com privacy policy that was archived on 2009-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090908045926id_/http%3A//insightexpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insightexpress.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202044802id_/http%3A//insightexpress.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -12,7 +12,7 @@ InsightExpress (http://www.InsightExpress.com) believes in and respects your pri
 
 The information we collect is typically used in aggregate form to help companies understand marketplace needs as well as to create and deliver better products and services. We do not sell or rent any personally identifiable information.
 
-The effective date for this Privacy Policy is June 24, 2009. 
+The effective date for this Privacy Policy is September 24, 2009. 
 
 Personal Information  
 In the course of responding to our surveys or using our service, you may have the opportunity to voluntarily submit personally identifiable information (e.g., providing profile information, e-mail address or mobile phone number). InsightExpress maintains this information in a database, and may use this information to invite you to participate in future surveys, subject to agreement with the authoring and the respondent-providing client and your explicit opt-in to receive e-mail or mobile communications. Your decision to participate in future surveys is completely at your discretion. That is, you have no obligation to complete this or any future survey. By participating in a survey or in visiting our Web site, you understand and consent to this policy. 
@@ -27,7 +27,7 @@ Contests
 Periodically we request information (typically e-mail address, mobile phone number or your mailing address if needed to mail a prize to you) from users to participate in contests. Contest participation is completely voluntary and users may choose whether or not to disclose this information. Your e-mail, mobile phone number or mailing address may be shared with the survey sponsor to notify winner(s) and award prizes. Users' personally identifiable information is not shared with third parties unless we give users notice and choice. Although we may use an intermediary to conduct contests, they may not employ users' personally identifiable information for any secondary purpose. 
 
 Use of Cookies  
-To invite you to participate in surveys that may be of great interest to you and to enable you to use our service, we use "cookies." "Cookies" are small pieces of information that are stored by your browser on your computer, and are commonly used by most Web sites to provide you with an enhanced experience. Our cookies do not contain any personally identifying information, but they enable us to understand the surveys you may have taken. Most Web browsers automatically accept cookies, but you can usually change your browser to inform you or prevent the use of cookies. If you do not accept cookies, you may not be able, depending upon the individual survey, to complete more than the first set of questions in a survey or to use our service to create surveys. 
+To invite you to participate in surveys that may be of great interest to you and to enable you to use our service, we use "cookies" and local shared objects ("Flash Cookies"). "Cookies" are small pieces of information that are stored by your browser on your computer, and are commonly used by most Web sites to provide you with an enhanced experience. Our cookies do not contain any personally identifying information, but they enable us to understand the surveys you may have taken. Most Web browsers automatically accept cookies, but you can usually change your browser to inform you or prevent the use of cookies. If you do not accept cookies, you may not be able, depending upon the individual survey, to complete more than the first set of questions in a survey or to use our service to create surveys. 
 
 Log Files  
 Like most Web sites, we log the use of our service. This includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks in order to administer the site, track aggregate movement, analyze trends, and gather broad demographic information for aggregate use. This information is not linked to personally identifiable information. 
@@ -66,7 +66,7 @@ Opt-Out Policy
 Users who no longer wish to receive our newsletter, promotional communications, or survey invitations may opt-out by replying to any received e-mail with "remove" or "unsubscribe" in the subject line, for mobile phone communications, reply with stop to the message or by contacting us as indicated below. 
 
 Maintaining, Updating, Deleting, or Deactivating Personal Information  
-If a user's personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by e-mailing Customer Support at [support@insightexpress.com](http://www.insightexpress.com/support@insightexpress.com) or by visiting <https://www.insightexpress.com/ix/billinginfo.asp>. We may also be reached using the contact information below. InsightExpress will respond to any access request provided within 30 days of submitting the request.
+If a user's personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by e-mailing Customer Support at [support@insightexpress.com](mailto:support@insightexpress.com) or by visiting <https://www.insightexpress.com/ix/billinginfo.asp>. We may also be reached using the contact information below. InsightExpress will respond to any access request provided within 30 days of submitting the request.
 
 Links  
 This Web site may contain links to other sites. Please be aware that we, InsightExpress, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site which includes any co-branded InsightExpress Web sites. 
@@ -80,7 +80,8 @@ Contact Information
 If users have any questions or suggestions regarding our privacy policy, site security, or other item, please contact us at: 
 
 InsightExpress  
-1351 Washington Blvd.  
+333 Ludlow Street  
+North Tower, 5th Floor  
 Stamford, CT 06902  
 Phone: 1.203.359.4174  
 Fax: 1.203.359.4718  
