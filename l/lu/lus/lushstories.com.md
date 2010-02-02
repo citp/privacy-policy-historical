@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lushstories.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622172004id_/http%3A//www.lushstories.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lushstories.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202171820id_/http%3A//www.lushstories.com/privacy.aspx) for the most accurate reproduction.*
 
 # Lush Stories Privacy Policy
 
@@ -35,6 +35,6 @@ Your email address is only used for administrative purposes, to advise you of im
 
 HTTP cookies are used by our web server to differentiate users and to maintain data related to the user during navigation, across multiple visits. Cookies allow our server to know that the user is already authenticated, and therefore is allowed to access services or perform operations that are restricted to logged-in users. The cookies are also used for personalization based on users' preferences. 
 
-### How To Contact Us
+### Contact Us
 
-Should you have other questions or concerns about these privacy policies, please use our [contact page](https://web.archive.org/web/20090622172004id_/http%3A//www.lushstories.com/contact-us.aspx). 
+Should you have other questions or concerns about these privacy policies, please use our [contact page](https://web.archive.org/web/20100202171820id_/http%3A//www.lushstories.com/contact-us.aspx). 
