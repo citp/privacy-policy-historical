@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilike.com privacy policy that was archived on 2009-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090911093752id_/http%3A//www.ilike.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilike.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202213739id_/http%3A//www.ilike.com/privacy) for the most accurate reproduction.*
 
 # iLike - Privacy Policy
 
@@ -93,9 +93,7 @@ iLike, Inc. may assign any or all of its rights hereunder and may transfer data 
 If you wish to learn more about our privacy policies please contact [privacy@iLike-inc.com](mailto:privacy@iLike-inc.com) or write us at:
 
 **Privacy Policies**  
-iLike, Inc.  
-5715 Will Clayton #2845  
-Humble, TX 77338  
+iLike is a subsidiary of MySpace.com, 8391 Beverly Blvd, #349, Los Angeles, CA 90048  
 USA  
 
 
