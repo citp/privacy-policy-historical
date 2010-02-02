@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehackersparadise.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124042049id_/http%3A//www.thehackersparadise.com/GPP.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehackersparadise.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202075549id_/http%3A//www.thehackersparadise.com/GPP.html) for the most accurate reproduction.*
 
 # The Hackers Paradise - General Privacy Policy
 
