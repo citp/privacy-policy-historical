@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the afreecodec.com privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403160358id_/http%3A//www.afreecodec.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afreecodec.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202055820id_/http%3A//www.afreecodec.com/privacypolicy) for the most accurate reproduction.*
 
 # afreeCodec - Privacy Policy
 
-**Revised: October 8th, 2008  
+**Revised: April 8th, 2009  
 Applies to afreeCodec.com **
 
-**Advertisements**  
-We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
+  * Google, as a third party vendor, uses cookies to serve ads on this site. 
+
+
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
 **Our Commitment To Privacy**
 
