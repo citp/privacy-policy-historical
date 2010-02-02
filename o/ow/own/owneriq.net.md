@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the owneriq.net privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830174503id_/http%3A//owneriq.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owneriq.net privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202025114id_/http%3A//www.owneriq.com/privacy-policy) for the most accurate reproduction.*
 
 # OwnerIQ - Privacy Policy
 
-[Opt Out](https://web.archive.org/web/20090830174503id_/http%3A//owneriq.net/opt-out.php)
+[Opt Out](https://web.archive.org/web/20100202025114id_/http%3A//www.owneriq.com/opt-out.php)
 
 ###### OwnerIQ Privacy Policy:
 
@@ -25,7 +25,7 @@ _How we Use Anonymous Information_ : OwnerIQ operates an advertising platform an
 **Non-Personally Identifiable Information**  
 Through use of the date collection methods, OwnerIQ collects anonymous data while you are visiting its web site or a Partner Website, including advertisers, advertising exchanges and Web publishers. This anonymous data includes information such as a users IP address (a number that is automatically assigned to your computer whenever you are surfing the Web, allowing Web servers to identify your computer), web pages which have been viewed by the user, date and time, and responses by a user to an advertisement delivered by us or a third party advertising technology vendor. Our advertising platform partners, as well as OwnerIQ use different types of technologies to collect this type of information, including cookies and web beacons as described above.
 
-In addition users may provide us with additional non-personally identifiable information. Examples of the non-personally identifiable data that may be provided with the users consent would include age, gender, and interests. None of the foregoing information (collectively referred to as "non-personally identifiable data"), by itself, or together, can by its nature be tracked to a specific individual's personally identifiable information. Web surfers may elect not to allow us to use anonymous data by following the OwnerIQ [Opt-Out](https://web.archive.org/web/20090830174503id_/http%3A//owneriq.net/opt-out.php) process.
+In addition users may provide us with additional non-personally identifiable information. Examples of the non-personally identifiable data that may be provided with the users consent would include age, gender, and interests. None of the foregoing information (collectively referred to as "non-personally identifiable data"), by itself, or together, can by its nature be tracked to a specific individual's personally identifiable information. Web surfers may elect not to allow us to use anonymous data by following the OwnerIQ [Opt-Out](https://web.archive.org/web/20100202025114id_/http%3A//www.owneriq.com/opt-out.php) process.
 
 **Personally Identifiable Information**  
 OwnerIQ does not ask for or receive any PII as a result of its use of the anonymous data collection technologies used to gather information about product preferences as described above. This process is always anonymous. At our Partner Websites, however, they may ask people to register and provide personally identifiable information in relation to the services provided or products sold on that site. The privacy policy for that Partner Website controls under those circumstances. OwnerIQ prohibits the passing of PII by Partner Websites to OwnerIQ and is committed to making sure that our Partners provide notice and choice to all consumers.
