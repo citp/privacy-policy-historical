@@ -1,61 +1,55 @@
-> *The following text is extracted and transformed from the adsflick.com privacy policy that was archived on 2009-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090324091007id_/http%3A//www.adsflick.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsflick.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202144400id_/http%3A//www.adsflick.com/privacy.php) for the most accurate reproduction.*
 
-# AdsFlick - News, Videos, Images :: Privacy Policy
+# AdsFlick.com article submission of free content | Privacy Statement
 
-## **AdsFlick Privacy Policy Overview**
+www.adsflick.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
 
-This Privacy Policy covers AdsFlick's treatment of personal information that is recorded when you register for membership and submit comments and/or news content for inclusion in our database.
+**How we gather information from users**
 
-Our privacy policy does not apply to the practices of other companies advertised, or otherwise listed, on the AdsFlick web site, nor does it extend to people that AdsFlick does not employ or manage. 
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, www.adsflick.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences. 
 
+**What we do with the information we collect**
 
+Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone. 
 
+Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually. 
 
-## **Information Collection and Use**
+We may use Personally Identifiable Information collected on www.www.adsflick.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by www.www.adsflick.com and other topics we think you might find of interest. 
 
-Anyone can visit AdsFlick and browse the news content and comments without having to provide personal information. We do, however, gather information from individuals who wish to submit news, ratings and comments. This information is collected both directly and through the use of "cookies".
+Personally Identifiable Information collected by www.adsflick.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases. 
 
-Direct collection of information is limited to the details requested of you at the time of registration such as your email address, gender, date of birth, location and a password.
+**Affiliated sites, linked sites and advertisements**
 
-We ask for your email address so that we can inform you of updates or changes to AdsFlick or of additions to, or announcements regarding, the Jayde Online Network of web sites. You may remove yourself from any or all of our notice and announcement mailings at anytime using the unsubscribe methods provided in those mailings. Any mailing received from our company is clearly identified and includes a valid email address and unsubscribe link which you can use to remove yourself from future mailings. Should you encounter problems in this regard, contact [support@AdsFlick.com](mailto:support%20@%20AdsFlick.com). Our turnaround time for responding to unsubscribe requests is generally 24 hours.
+www.adsflick.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a www.www.adsflick.com page, certain content that is actually created or hosted by a third party. Also, through www.adsflick.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. www.adsflick.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
 
-The other way we collect information is through the use of cookies. When you register with AdsFlick, a "cookie" may be placed on your computer. Cookies are bits of information that a web site places on your computer's hard drive for record-keeping and activity-tracking purposes. Cookies cannot be used to learn your identity unless you have previously provided that information to that web site or your web browser automatically provides that information. 
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. www.adsflick.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties. 
 
-In conjunction with the registration information you provide, cookies help us recognize you when you return to the site, and they let you avoid having to log-in each time you visit. Moreover, cookies may be helpful in helping us determine the direction of future upgrades and enable us to better personalize our service to match your interests. The only other information collected is the data recorded on our server log files. Typically this information includes IP address, browser type, domain name, referral URL, country of origin, pages visited, entry points, and exit points, but this data is NOT correlated in any fashion to personally identifying information.
+You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of www.adsflick.com and this policy.
 
-
-
-
-## **Protecting Your Privacy on AdsFlick**
-
-As a registered user you are able to not just submit and rate news, you are also able to post comments. Please be aware that your posted comments are publicly accessible. Caution should be exercised in disclosing any personal details. Although it is not uncommon for email addresses to be included in comment posts, it is not required. The same is true of any personal information.
+We also use third party advertisements on www.adsflick.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing passive income, make money online ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).   
 
 
-## **Security**
-
-Any information you provide, other than information you chose to provide and make publicly available in your posts, is maintained and accessible only by AdsFlick staff, and only by those of our staff with a need to have access to such information in the performance of their duties. AdsFlick has implemented commercially reasonable security measures to protect the loss, misuse and alteration of the information under our control or in our possession.
-
-Notwithstanding the above, we do not and cannot warrant the security of the information that you provide. Accordingly, you agree that you are providing such information at your own risk.
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security or AVG. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.   
 
 
+You can Opt Out of the of the DoubleClick cookie (for AdSense partner sites, DoubleClick ad serving, and certain Google services using the DoubleClick cookie) by [clicking here](http://www.google.com/privacy_ads.html). 
 
+**Children**
 
-## **Special Cases**
+www.adsflick.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe www.adsflick.com has any information from or about anyone under 13, please contact us at the address listed below. 
 
-AdsFlick's policy is not to use or share personal information about visitors or members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. Notwithstanding anything in this policy to the contrary, AdsFlick may, however, disclose personal information about visitors or members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms and Conditions or other user policies; to operate the Services properly; or to protect adsflick.com and our Members.
+**Contacting Us**
 
+We can be reached by emailing us. 
 
-## **Changes to this Privacy Policy**
+**Changes to this Policy**
 
-AdsFlick may amend this policy from time to time. If significant changes are made in the way your personal information is used, you will be notified by email or a prominent announcement will be posted on our site notifying you of the change.
+www.adsflick.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
 
+**Governing law**
 
-## **Questions or Comments**
+This policy and the use of this Site are governed by Washington State law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Seattle. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
 
-Questions or comments may be sent to: support @ adsflick.com or use our contact form 
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Seattle, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
 
-
-## **Acceptance of Terms**
-
-By using this site you acknowledge and agree to the terms of this Privacy Policy as outlined above. If you disagree with any term or condition in this Privacy Policy, you must not use our site.
-
+This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
