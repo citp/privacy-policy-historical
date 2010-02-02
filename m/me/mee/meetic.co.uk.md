@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the meetic.co.uk privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423203942id_/http%3A//meetic.co.uk/misc/privacy_v.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetic.co.uk privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202213136id_/http%3A//www.meetic.co.uk/misc/privacy_v.php) for the most accurate reproduction.*
 
-# The N°1 site in Europe for singles' dates and chats - free access
-
-## Personal privacy and protection of Member data
+# Single? Meet and chat with other singles looking for love - Free registration
 
 Meetic upholds the strictest of standards with respect to protection of privacy and of personal information, and has made a declaration to the French data protection authority (Commission Nationale de l'Informatique et des Libertés - CNIL), using number 796865 then 802516.
 
@@ -12,11 +10,11 @@ Each Member can access or request access to information concerning him/her in or
 
 Each Member can, at the time of registration or at any time thereafter, request to receive and, subsequently, request without charge via Meetic to cease to receive, the Meetic newsletters and/or promotional offers sent to her/him by email or to cellular phone from Meetic and/or its partners. The rights and warranties of Meetic Members respect in particular the French law on "information technology and civil liberties", n° 78-17 dated 6 January 1978 as modified by Law n° 2004-801 dated 6 August 2004 transposing into French law the EU Directive 95/46/EC dated 24 October 1995 on the protection of personal data and privacy within the European Union; and the French law on "confidence in the digital economy", n° 2004-575 dated 21 June 2004 (article L 33-4-1, as modified, of the Post and Electronic Communications Code and the new article L. 121-20-5 of the Consumers Code) transposing into French law the EU Directive 2000/31/EC dated 8 June 2000 on electronic commerce and EU Directive 2002/58/EC dated 12 July 2002 on the protection of personal data and privacy in electronic communications.
 
-**5.1. When and why do we gather information about you?**
+## 5.1. When and why do we gather information about you?
 
 The Member is asked to supply information about himself/herself when he/she registers with the Service, participates in a contest, responds to a survey, participates in a chat or acquires a Pass. Certain items of information are mandatory in order to gain access to Services.
 
-**5.2. What sort of information do we gather?**
+## 5.2. What sort of information do we gather?
 
 Personal information gathered by Meetic can include your name, postal and/or email address, fixed line and/or cellular phone number, bank information, information about your physical appearance, photographs, voice recording, video, personal values, religion, interests and your use of the Service.
 
@@ -24,7 +22,7 @@ Furthermore, certain non-personal information are also gathered, such as the ver
 
 Finally, Meetic uses cookies, designed to store information used to identify the Member while he/she is browsing on the Meetic Internet site, in order to allow the Member to continue browsing without having to re-enter this information for each new page. The Member always has the option of preventing the use of cookies by modifying the options of his/her web browser. To obtain further information about this, please refer to the browser-specific advice on option modification, which is accessible on the "Your Traces" ("Vos Traces") section of the website of the French data protection authority (CNIL): [www.cnil.fr](http://www.cnil.fr/).
 
-**5.3. Who has access to your information?**
+## 5.3. Who has access to your information?
 
 The information gathered about you when you register with Meetic and subscribe to our Services is used to offer you our different Services. All precautions have been taken on our databases to archive your information in a secure environment. Only a small number of our employees have access to your information, which is only accessible in case of necessity. The personal information you provide at the time of registration which does not comprise your personal ad and your profile will not be accessible by third parties, nor passed on, sold or exchanged, except in the cases named below and subject to your prior information and agreement, or in assumption of your non opposition hereto.
 
@@ -38,4 +36,4 @@ Consequently, the Member explicitly authorizes Meetic to reproduce and broadcast
 
 If you no longer wish for Meetic or its partners to reproduce or broadcast the information comprised in your personal ad, your search criteria, or your profile, you can terminate your Meetic account following the conditions foreseen in the Article "Termination". Since this information is comprised of your personal ad, your search criteria and your profile, the termination will only take effect upon the next update or version of these communications (printed, press, audiovisual, or electronic) containing your personal ad, your search criteria and your profile information.
 
-Top of page
+Go to top
