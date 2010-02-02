@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revisitors.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602081724id_/http%3A//www.revisitors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revisitors.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202075709id_/http%3A//www.revisitors.com/privacy.html) for the most accurate reproduction.*
 
 # Revisitors.com - Targeted Traffic To Your Website
 
