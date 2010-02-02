@@ -1,666 +1,646 @@
-<!--The following is the downloaded HTML source of the brocade.com privacy policy that was archived on 2008-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081005181637id_/http%3A//www.brocade.com/company_info/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brocade.com privacy policy that was archived on 2010-02-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100202221350id_/http%3A//www.brocade.com/company/privacy.page) for the most accurate reproduction.-->
 
-<html><head>
-<meta http-equiv="Content-Style-Type" content="text/css">
-<title>Privacy Policy: Information Collection and Use</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><meta content="text/html; charset=UTF-8" http-equiv="content-type"><title>Company</title><link xmlns="" media="screen, projection, tv, handheld" type="text/css" href="/sites/dotcom/css/base.css" rel="stylesheet"><script type="text/javascript" src="/sites/dotcom/js/jquery.js"></script><script type="text/javascript" src="/sites/dotcom/js/thickbox.js"></script><script type="text/javascript" src="/sites/dotcom/js/global.js"></script><script type="text/javascript" src="/sites/dotcom/js/swfobject.js"></script><script type="text/javascript" src="/sites/dotcom/js/jquery.meshtml.js"></script><link xmlns="http://www.w3.org/1999/xhtml" media="print" type="text/css" href="/sites/dotcom/css/print.css" rel="stylesheet"></head><body><div id="siteContainer"><div xmlns="" id="siteHeader"><div class="inner"><script src="/sites/dotcom/js/jquery.hoverIntent.min.js" type="text/javascript"></script><script src="/sites/dotcom/js/jquery.bgiframe.min.js" type="text/javascript"></script><script type="text/javascript">
 
- <link href="/styles/home.css" rel="stylesheet" type="text/css">
- <link href="/styles/newbranding.css" rel="stylesheet" type="text/css">
-    <style>
-    .listalign	{
-    	vertical-align:	top;
-    	font-family: helvetica, arial, sans-serif;
-    	font-size: 11px;
+jQuery(function($) {
+	/* Begin submenu dropdown */
+	$('ul#globalNav > li').hoverIntent({
+		timeout: 200,
+		over: function() {
+			$('.submenu', this).show();
+			$(this).addClass('selected');
+			$('.submenu').bgiframe();
+		},
+		out: function() {
+			$('.submenu', this).hide();
+			$(this).removeClass('selected');
+		}
+	});
+	
+	$('li a.close-submenu').click(function(e) {
+		$(e.target).parents('.submenu').hide();
+		return false;
+	});
+
+	if ($.browser.msie && $.browser.version < 8) {
+		$('a.go').append(' &raquo;');
 	}
-    </style> 
-    <script language="JavaScript1.1" type="text/javascript" src="/scripts/rollover_newbranding.js"></script>
-<script language="JavaScript1.1" type="text/javascript" src="/scripts/param.js"></script>
-<script language="JavaScript1.1" type="text/javascript" src="/scripts/graphicstamps.js"></script>
-<script language="JavaScript1.1" type="text/javascript" src="/san/dslinks.js"></script>
-
-   <script language="javascript"><!--
-
-    function goThere()
-    {
-    var x=document.frm_sites.urlList.options[document.frm_sites.urlList.selectedIndex].value;
-    location.href=x;
-    return;
-    }
-    
-    var agt = navigator.userAgent.toLowerCase();
-    var is_major = parseInt(navigator.appVersion);
-    var is_minor = parseFloat(navigator.appVersion);
-    var isNav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1)	&& (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1)	&& (agt.indexOf('webtv')==-1));
-    var isNav4 = (isNav && (is_major == 4));
-    var isNav4up = (isNav && (is_major >= 4));
-    var isNavonly	  = (isNav && ((agt.indexOf(";nav") != -1) ||  (agt.indexOf("; nav") != -1)) );
-    var isNav6 = (isNav && (is_major >= 6));
-    var isIE   = (agt.indexOf("msie") != -1);
-    var isIE3  = (isIE && (is_major < 4));
-    var isIE4  = (isIE && (is_major == 4) && (agt.indexOf("msie 4.") != -1) );
-    var isIE4up  = (isIE  && (is_major >= 4));
-    var isMac = (navigator.appVersion.indexOf("Mac") != -1);
-    var isWin = (navigator.appVersion.indexOf("Win") != -1);
-    var isIE5  = (isIE && (is_major == 4) && (agt.indexOf("msie 5.") != -1) );
-    var isIE5up  = (isIE  && !isIE3 && !isIE4);
-    if (isIE5 && (is_major == 4)) { is_major = 5; }
-
-//--></script>
-
-    <meta name="Keywords" content="Privacy Policy, Privacy Policy: Information Collection and Use">
-<meta name="Description" content="Information Collection and Use We collect the following personally identifiable information about our users: name, e-mail address, telephone number, b...">
-
-<script language="javascript">
-	var _pn="PUT+PAGE+NAME+HERE"; 	//page name(s)
-	var _mlc="CONTENT+CATEGORY";	//multi-level content category
-	var _seg=""; // visitor segmentation
-var _cmp=""; // campaign analysis - id	
-var _gp=""; // campaign analysis - goal page
-	var _cmpn="";// campaign analysis - query name for id
-	var _gpn=""; // campaign analysis - query name for goal page
-	var _cp="null"; 	//campaign
-	var _acct="DM520311N8EZ96EN3"; 	//account number(s)
-	var _pndef="title";	//default page name
-	var _ctdef="full"; 	//default content category
-	var _dlf="n";	//download filter
-	var _elf="n";	//exit link filter
-	var _epg="n"; 	//event page identifier
-	var _hcv=68;	//code version
-	var _mn="we18"; //machine name
-	var _gn="ehg-brocadecomm.hitbox.com"; //gateway name
-	var _lp=location.protocol.indexOf('https')>-1?'https://':'http://';
-	function _wn(_nm){if((_nm.indexOf("NAME")>0&&_nm.indexOf("PUT")>=0)||
-	(_nm.indexOf("CONTENT")>=0&&_nm.indexOf("CATEGORY")>0))return true;return false;}
-	function _gd(_x,_w){_ed = (_x.lastIndexOf("/"));
-	_be = (_w!="full")?(_x.lastIndexOf("/",(_ed-2))):(_x.indexOf("/"));
-	_dn = (_be==_ed)?"/":(_x.substring(_be, _ed));return _dn;}
-	function _gf(_x){_ed = (_x.length);_be = ((_x.lastIndexOf("/"))+1);
-	_fn = (_x.substring(_be, _ed));return _fn;}
-	function _vc(_ml){_mll=_ml.length-1;if(_ml.lastIndexOf("/")==_mll){_ml=_ml.substring(0,_mll)}
-	if(_ml.indexOf("/")!=0){_ml="/"+_ml;}return _ml;}
-	function _ps(_ip,_pml){if(!_ip){_pml=(_wn(_pml))?_gd(location.pathname,_ctdef):_vc(_pml);}
-	else{if (_wn(_pml)){if (_pndef=="title"){_pt=document.title; if (_pt!=""){_pml=_pt};}
-	else{_pml=_gf(location.pathname);if (_pml==""){_pml=_pndef};}};}return _pml;}
-	function _pm(_ml,_fml,_ipn){if (_ml.indexOf(";")!=-1){_nml=_ml.substring(0,(_ml.indexOf(";")));
-	_rm=_ml.substring((_ml.indexOf(";")+1),_ml.length);_fml+=_ps(_ipn,_nml)+";";
-	_fp=_pm(_rm,_fml,_ipn);return _fp;}else {_fml+=_ps(_ipn,_ml);return _fml;}}
-	var _sv=10;var _bn=navigator.appName;if(_bn.substring(0,9)=="Microsoft"){_bn="MSIE";};
-	var _bv=(Math.round(parseFloat(navigator.appVersion)*100));if((_bn=="MSIE")&&(parseInt(_bv)==2))_bv=301;
-	var _rf=escape(document.referrer);_mlc=_pm(_mlc,"",false);_pn=_pm(_pn,"",true);
-	</script><script language="javascript1.1" id="_hbc">_sv=11;</script><script language="javascript1.1" defer="" src="http://www.brocade.com/scripts/hbe.js"></script><script language="javascript">if (_sv==10){if (document.cookie.indexOf("CP=")!=-1){_ce="y";}else{
-	document.cookie="CP=null*; path=/; expires=Wed, 1 Jan 2020 00:00:00 GMT";
-	_ce=(document.cookie.indexOf("CP=")!=-1)?"y":"n";};if((_rf=="undefined")||(_rf=="")){_rf="bookmark";};
-	_x2="<img src='"+_lp+_gn+"/HG?hc="+_mn+"&hb="+escape(_acct)+"&n="+escape(_pn);
-	_x3="&cd=1&hv=6&seg="+_seg+"' border=0 height=1 width=1>";
-	_ar="&bn="+escape(_bn)+"&bv="+_bv+"&ce="+_ce+"&ss=na&sc=na&dt=&sv="+_sv+"&con="+escape(_ct);
-	_ar+="&vcon="+escape(_mlc)+"&epg="+_epg+"&hp=u&cy=u&ja=na&ln=na&cp="+escape(_cp)+"&pl=&rf="+_rf;
-	document.write(_x2+_ar+_x3);}document.write("<\!--");</script></head>
-
-
-	<!-- BEGIN WEBSIDESTORY CODE v7.0 -->
-	<!-- COPYRIGHT 1997-2001 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT PENDING. Privacy notice at: http://websidestory.com/privacy -->
 	
-	
-	<!--
-	<noscript><img src="http://ehg-brocadecomm.hitbox.com/HG?hc=we18&cd=1&hv=6&ce=u&hb=DM520311N8EZ96EN3&n=PUT+PAGE+NAME+HERE&vcon=CONTENT+CATEGORY&seg=&cmp=&gp=" border='0' width='1' height='1'>
-	</noscript><!--//-->
-	<!-- END WEBSIDESTORY CODE  -->
-
-<body marginwidth="0" marginheight="0">
-
-<!--*************** Global Navigation Table ***************-->
- 	<!-- ************ FAN ************** -->
-
-	
-<!-- ************ /FAN ************** -->
-
-
-<!-- ************ Hardware Products ************** -->
-
-
-<!-- ************ /Hardware Products ************** -->
-
-
-<!-- ****************** Mainframe Products ************** -->
-  
- 
- 
-<!-- ****************** /Mainframe Products ************** -->
-
-
-<!-- ****************** Technical Briefs ************** -->
-  
- 
- 
-<!-- ****************** /Technical Briefs ************** -->
-
-
-<!-- ************ Software Products ************** -->
-
-
-<!-- ************ /Software Products ************** -->
-
-
-
-<!-- ************ German datasheets ************** -->
-
-
-<!-- ************ / German datasheets ************** -->
-
-
-
-<!-- ************ French datasheets ************** -->
-
-
-<!-- ************ / French datasheets ************** -->
-
-
-
-<!-- *************** Compatability Matrix ************ -->
-
-<!-- *************** /Compatability Matrix ************ -->
-
-
-
-<!-- *************** White Papers ************ -->
-
-<!-- *************** /White Papers ************ -->
-
-
-<!-- *************** Service & Support Data Sheets ************ -->
-
-<!-- *************** /Service & Support Data Sheets ************ -->
-
-
-
-
-<!-- *************** Success Stories ************ -->
-
-<!-- *************** /Success Stories ************ -->
-
-
-
-<table name="table1" border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#000000">
-			<tbody><tr>
-			<td width="772">
-			<table width="772" border="0" cellspacing="0" cellpadding="0">
-				<!-- Spacer Row 10 px high -->
-				<script>spacerRows(1,10,"#000000",3);</script><tbody><tr valign="top" height="10" width="1"><td bgcolor="#000000" colspan="3"><img src="/images/transparent.gif" height="10" width="1"></td></tr>
-				<!-- /Spacer Row 10 px high -->
-			<tr valign="top">
-				<!-- Spacer Cell 15 px wide -->
-				<script>spacerTD(15,1);</script><td width="15"><img src="/images/transparent.gif" height="1" width="15"></td>
-				<!-- Spacer Cell 15 px wide -->
-				<td class="bannernav"><a href="/products/how_to_buy.jsp" target="_parent">How to Buy</a>  |  <a href="http://phx.corporate-ir.net/phoenix.zhtml?c=90440&amp;p=irol-IRHome" target="_parent">Investors</a>  |  <a href="http://www.brocadeconnect.com" target="_parent">Brocade Connect Login</a>  |  <a href="http://partner.brocade.com" target="_parent">Partner Network Login</a>  |  <a href="/SIC/SIC_Reg.jsp" target="_parent">Register with Brocade</a></td>
-				<td><img src="/images/transparent.gif" height="5"></td>
-			</tr>
-			
-			<tr valign="top">
-				<!-- Spacer Cell 15 px wide -->
-				<script>spacerTD(15,1);</script><td width="15"><img src="/images/transparent.gif" height="1" width="15"></td>
-				<!-- Spacer Cell 15 px wide -->
-				<td class="bannernav" colspan="2"><a href="/index.jsp" target="_parent"><img src="/images/newbranding/logo.gif" border="0" alt="Brocade" align="right"></a>
-				<br><br>
-				 <form action="http://search.brocade.com/query.html?col=internet" target="_parent" method="get" class="nopadding">
-				<b>Search Site</b><br>
-				<input type="text" size="24" name="qt">&nbsp;&nbsp;
-				<input alt="GO!" src="/images/newbranding/go.gif" type="image" border="0">
-    		    		</form>
-				</td>
-			</tr>
-
-				<!-- Spacer Row 10 px high -->
-				<script>spacerRows(1,15,"#000000",3);</script><tr valign="top" height="15" width="1"><td bgcolor="#000000" colspan="3"><img src="/images/transparent.gif" height="15" width="1"></td></tr>
-				<!-- /Spacer Row 10 px high -->
-			</tbody></table>
-			
-			</td>
-			<td width="100%"><img src="/images/transparent.gif" width="1" height="80"></td>
-			</tr>
-</tbody></table>
-			
-
-<!--*************** / Global Navigation Table ***************-->
-
-<!-- ***************** Print PrimaryNavigation ***************** -->
-	
-
-
-
-<!--*************************** Company  ********************-->
-
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-		<tbody><tr>
-			<td><a href="/san/resource.jsp" onmouseover="hiLite('doc_resources','resourcesh');popUp('HM_Menu1',event, 'doc_resources','resourcesh');" onmouseout="hiLite('doc_resources','resources');popDown('HM_Menu1', 'doc_resources','resources');"><img src="/images/newbranding/resources.gif" name="doc_resources" alt="Resources" width="88" height="20" border="0"></a></td>
-
-			<td><a href="/products/index.jsp" onmouseover="hiLite('doc_products','productsh');popUp('HM_Menu2',event, 'doc_products','productsh');" onmouseout="hiLite('doc_products','products');popDown('HM_Menu2', 'doc_products','productsa');"><img src="/images/newbranding/products.gif" name="doc_products" alt="Products" width="80" height="20" border="0"></a></td>
-			
-			<td><a href="/solutions/sansolutions.jsp" onmouseover="hiLite('doc_solutions','solutionsh');popUp('HM_Menu3',event, 'doc_solutions','solutionsh');" onmouseout="hiLite('doc_solutions','solutions');popDown('HM_Menu3', 'doc_solutions','solutionsa');">
-			<img src="/images/newbranding/solutions.gif" name="doc_solutions" alt="Solutions" width="80" height="20" border="0"></a></td>
-
-			<td><a href="/services/index.jsp" onmouseover="hiLite('doc_services','servicesh');popUp('HM_Menu4',event, 'doc_services','servicesh');" onmouseout="hiLite('doc_services','services');popDown('HM_Menu4','doc_services','servicesa');">
-			<img src="/images/newbranding/services.gif" name="doc_services" alt="Services" width="76" height="20" border="0"></a></td>
-			
-			<td><a href="/support/index.jsp" onmouseover="hiLite('doc_support','supporth');popUp('HM_Menu5',event, 'doc_support','supporth');" onmouseout="hiLite('doc_support','support');popDown('HM_Menu5','doc_support','supporta');">
-			 <img src="/images/newbranding/support.gif" name="doc_support" alt="Support" width="75" height="20" border="0"></a></td>
-
-			<td><a href="/education_services/index.jsp" onmouseover="hiLite('doc_education','educationh');popUp('HM_Menu6',event, 'doc_education','educationh');" onmouseout="hiLite('doc_education','education');popDown('HM_Menu6','doc_education','educationa');">
-			 <img src="/images/newbranding/education.gif" name="doc_education" alt="Education" width="84" height="20" border="0"></a></td>
-
-			<td><a href="/partners/index.jsp" onmouseover="hiLite('doc_partnerships','partnershipsh');popUp('HM_Menu7',event, 'doc_partnerships','partnershipsh','sm');" onmouseout="hiLite('doc_partnerships','partnerships');popDown('HM_Menu7','doc_partnerships','partnershipsa');"><img src="/images/newbranding/partnerships.gif" name="doc_partnerships" alt="Partnerships" width="101" height="20" border="0"></a></td>
-
-			<td><a href="/company_info/index.jsp" onmouseover="hiLite('doc_company','companyh');popUp('HM_Menu8',event, 'doc_company','companyh');" onmouseout="hiLite('doc_company','companyh');popDown('HM_Menu8', 'doc_company','companya');"><img src="/images/newbranding/company_on.gif" name="doc_company" alt="Company" width="81" height="20" border="0"></a></td>
-
-			<td><a href="/company_info/international/international.jsp" onmouseover="hiLite('doc_international','internationalh');popUp('HM_Menu9',event,'doc_international','internationalh');" onmouseout="hiLite('doc_international','international');popDown('HM_Menu9','doc_international','internationalh');"><img src="/images/newbranding/international.gif" name="doc_international" alt="International" width="107" height="20" border="0"></a></td>
-
-			<td bgcolor="#6E6E6E" width="100%"><img src="/images/header/transparent.gif" alt="" width="1" height="20" border="0"></td>
-		</tr>
-
-</tbody></table>
-
-
-
-<!-- ***************** End printing PrimaryNavigation ***************** -->
-
-<!-- ***************** Print BreadCrumb ***************** -->
-   
-
-
-<table name="breadCrumbTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-	<tbody><tr valign="top">
-	<td width="772">
-		<table width="772" border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr valign="top">
-		<td width="515"><img src="/images/transparent.gif" width="515" height="1" border="0"></td>
-		<td width="57"><img src="/images/transparent.gif" width="57" height="1" border="0"></td>
-		<td width="191"><img src="/images/transparent.gif" width="191" height="1" border="0"></td>	
-		</tr>
-		<tr>
-		<td width="515">
-	      	<div class="tdBreadCrumb">
-			<a href="/index.jsp">Home</a>&nbsp;&gt;
-
-		  
-		  
-		  	<!-- *********  Condition to shorten breadcrumb display for select categories *********** -->
-		  	
-		  	
-			
-			<a href="/company_info/&#10;">Company</a>&nbsp;&gt;
-			
-			
-		  
-		  
-		  	<!-- *********  Condition to shorten breadcrumb display for select categories *********** -->
-		  	
-		  				
-			<a href="/company_info/contact.jsp&#10;">Contact Us</a>
-			
-			
-		   
-	     	</div>
-	    	</td>
-	    	
-		<td width="57">
-		<img src="/images/transparent.gif" border="0" vspace="3" width="57" height="1">
-		</td>
-		
-	    	<td width="191">
-			<style>
-	.optHead {
-	font-weight: bold;
-	}
-</style>
-
-
-
-
-
-
-			<form name="prodFind" class="nopadding">
-			<select name="products" onchange="findprod()" style="font-size: 9px;">	
-			<option value="#" selected="">Easy Product Select</option>
-			<!--<option style="font-style:bold;font-weight: bold;" value="/products/tapestry.jsp">FAN Products:</option>-->
-				<option style="font-style:bold;font-weight: bold;" value="/products/dcxbackbone.jsp">DCX Backbone</option><option style="font-style:bold;font-weight:bold;" value="/products/directors.jsp">Directors:</option><option value="/products/directors/silkworm_48000/index.jsp">&nbsp;&nbsp;48000</option><option value="/products/directors/Mi10K/index.jsp">&nbsp;&nbsp;Mi10K</option><option value="/products/directors/M6140/index.jsp">&nbsp;&nbsp;M6140</option><option value="/products/switches.jsp" style="font-weight:bold;">Switches:</option><option value="/products/switches/5300_fibre_channel_switch.jsp">&nbsp;&nbsp;5300</option><option value="/products/switches/5100_fibre_channel_switch.jsp">&nbsp;&nbsp;5100</option><option value="/products/switches/5000/index.jsp">&nbsp;&nbsp;5000</option><option value="/products/switches/silkworm_4900/index.jsp">&nbsp;&nbsp;4900</option><option value="/products/switches/300_fibre_channel_switch.jsp">&nbsp;&nbsp;300</option><option value="/products/switches/silkworm_200E/index.jsp">&nbsp;&nbsp;200E</option><option value="/products/iSCSI.jsp">&nbsp;&nbsp;iSCSI Gateway</option><option value="/products/switches/brocade_encryption_switch.jsp">&nbsp;&nbsp;Encryption Switch</option><option style="font-style:bold;font-weight: bold;" value="/products/extension/index.jsp">Fabric Extension and Routing:</option><option value="/products/extension/silkworm_7500/index.jsp">&nbsp;&nbsp;7500</option><option value="/products/extension/silkworm_7500/7500E.jsp">&nbsp;&nbsp;7500E</option><option value="/products/extension/m3000edge.jsp">&nbsp;&nbsp;Edge M3000</option><option value="/products/extension/USD-X.jsp">&nbsp;&nbsp;Brocade USD-X</option><option style="font-weight: bold;" value="/products/managementsoftware/index.jsp">Fabric Management Software:</option><option value="/products/dcfm_enterprise.jsp">&nbsp;&nbsp;DCFM Enterprise</option><option value="/products/dcfm_professional.jsp">&nbsp;&nbsp;DCFM Professional</option><option value="/products/software/web_tools/index.jsp">&nbsp;&nbsp;Web Tools</option><option style="font-style:bold;font-weight: bold;" value="/products/appsandgateway/index.jsp">Fabric Applications:</option><option value="/products/appsandgateway/DMM.jsp">&nbsp;&nbsp;Data Migration Manager</option><option value="/products/applications/emcrecoverpoint.jsp">&nbsp;&nbsp;EMC RecoverPoint on Brocade</option><option value="/products/applications/emcinvista.jsp">&nbsp;&nbsp;EMC Invista on Brocade</option><option style="font-style:bold;font-weight: bold;" value="/products/tapestry.jsp">File Management</option><option value="/products/filemanagement/fme.jsp">&nbsp;&nbsp;File Management Engine</option><option value="/products/tapestry/storagex.jsp">&nbsp;&nbsp;StorageX</option><option value="/products/tapestry/flm.jsp">&nbsp;&nbsp;File Lifecycle Manager</option><option value="/products/tapestry/myview.jsp">&nbsp;&nbsp;MyView</option><option value="/support/fileinsight.jsp">&nbsp;&nbsp;File Insight Utility</option><option style="font-style:bold;font-weight: bold;" value="/products/server_connectivity/index.jsp">Server Connectivity:</option><option value="/products/server_connectivity/4gbit_fibre_channel_hba.jsp">&nbsp;&nbsp; 415/425 FC HBAs  </option><option value="/products/server_connectivity/8gbit_fibre_channel_hba.jsp">&nbsp;&nbsp; 815/825 FC HBAs  </option><option style="font-style:bold;font-weight: bold;" value="/products/Bladedsans.jsp">Bladed Server SANs</option>
-				
-
-			</select>
-			</form>
-			
-			
-
-		 </td>
-		</tr>
-		</tbody></table>
-	</td>
-	<td width="100%"><img src="/images/transparent.gif" height="30" width="1"></td>
-</tr></tbody></table>   <!--------- End of breadCrumbTable --------->
-
-<!-- ***************** End printing BreadCrumb ***************** -->
-
- <table border="0" cellpadding="0" cellspacing="0" width="100%"><!-- Table calling SectionGif.jsp -->
-      <tbody><tr>
-        <!-- ***************** Call SectionGif.jsp ***************** -->
-             
-
-
-            <td width="202"><img src="/images/newbranding/Company-sectiongif.gif" alt="Company" width="202" height="24" border="0"></td>
-
-
-   <!--           <PARAM NAME="sectionId" value="param:sectionId">            
-            </DROPLET>-->
-        <!-- ***************** End call to SectionGif.jsp ***************** -->
-        
-        
-    <td width="100%" bgcolor="#CBCBCB"><img src="/images/transparent.gif" width="550" height="1"></td>
-
-
-     	       <td nowrap="" bgcolor="#FF0000"><img src="/images/transparent.gif" alt="" width="21" height="24" border="0"></td>
-
-
-       </tr>
-      <!--
-      <TR>
-        <TD class="tdfff" colspan="3"><img src="/images/transparent.gif" alt="" width="1" height="1" border="0"></TD>
-      </TR>
-      -->
-
-    </tbody></table>
-
-		<table name="centerTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-			
-			<tbody><tr>
-				<td class="tdfff" width="202"><img src="/images/transparent.gif" alt="" width="202" height="1" border="0"></td>
-				<td class="tdfff"><img src="/images/transparent.gif" alt="" width="550" height="1" border="0"></td>
-				<td class="tdfff" width="21"><img src="/images/transparent.gif" alt="" width="21" height="1" border="0"></td>
-			</tr>
-			
-	
-			<tr>
-				<td class="topalign" width="202" height="100%">
-            <!-- ***************** Call and Print LeftNavigation ***************** -->
-			
-
-
-
-<script language="Javascript">
-	function find() {
-	var x=document.productFind.products.options[document.productFind.products.selectedIndex].value;
-	location.href=x;
-	}
-</script>
-	
-<table name="leftNavTable" border="0" cellpadding="0" cellspacing="0" width="202" height="100%"> 
-
-      <script>spacerRows(1,15,"",2);</script><tbody><tr valign="top" height="15" width="1"><td colspan="2"><img src="/images/transparent.gif" height="15" width="1"></td></tr>
-      <!--
-      <TR>
-        <TD rowspan="2" class="nopadding"><img src="/images/transparent.gif" alt="" width="26" height="26" border="0"></TD>
-        <TD><img src="/images/tapestry_launch/search.gif" alt="Search" border="0" vspace="2"></TD>
-      </TR>
-    
-      <TR>
-        <TD colspan="2" nowrap>
-          <FORM action="http://search.brocade.com/query.html?col=internet" method="get" class="nopadding">
-            <input type="text" size="14" name="qt">
-            <input alt="GO!" border="0" src="/images/tapestry_launch/new_go.gif" type="image"></FORM></TD>
-      </TR>
-      -->
-      
-	 
-      
-	  
-          
-           <tr>
-           <td><img src="/images/li.gif" alt="" width="5" height="5" border="0" align="right"></td>
-           <td class="sidenav">
-           <a href="/news/">News</a>
-           </td>
-           </tr>
-
-	
-
-          
-           <tr>
-           <td><img src="/images/li.gif" alt="" width="5" height="5" border="0" align="right"></td>
-           <td class="sidenav">
-           <a href="/events/index.jsp">Events</a>
-           </td>
-           </tr>
-
-	
-
-          
-           <tr>
-           <td><img src="/images/li.gif" alt="" width="5" height="5" border="0" align="right"></td>
-           <td class="sidenav">
-           <a href="http://investor.brcd.com/phoenix.zhtml?c=90440&amp;p=irol-IRHome">Investors</a>
-           </td>
-           </tr>
-
-	
-
-          
-           <tr>
-           <td><img src="/images/li.gif" alt="" width="5" height="5" border="0" align="right"></td>
-           <td class="sidenav">
-           <a href="/company_info/board_directors.jsp">Board of Directors</a>
-           </td>
-           </tr>
-
-	
-
-          
-           <tr>
-           <td><img src="/images/li.gif" alt="" width="5" height="5" border="0" align="right"></td>
-           <td class="sidenav">
-           <a href="/company_info/bios.jsp">Executive Team</a>
-           </td>
-           </tr>
-
-	
-
-          
-           <tr>
-           <td><img src="/images/li.gif" alt="" width="5" height="5" border="0" align="right"></td>
-           <td class="sidenav">
-           <a href="http://www.brocade.apply2jobs.com/">Careers</a>
-           </td>
-           </tr>
-
-	
-
-          
-           <tr>
-           <td><img src="/images/li.gif" alt="" width="5" height="5" border="0" align="right"></td>
-           <td class="sidenav">
-           <a href="/company_info/green_datacenter.jsp">Corporate Citizenship</a>
-           </td>
-           </tr>
-
-	
-
-          
-           <tr>
-           <td><img src="/images/li.gif" alt="" width="5" height="5" border="0" align="right"></td>
-           <td class="sidenav">
-           <a href="/news/product_agreement.jsp">Brocade Brand Resources</a>
-           </td>
-           </tr>
-
-	
-
-          
-           <tr>
-           <td><img src="/images/li.gif" alt="" width="5" height="5" border="0" align="right"></td>
-           <td class="sidenav">
-           <a href="/company_info/contact.jsp">Contact Us</a>
-           </td>
-           </tr>
-
-	
-
-          
-           <tr>
-           <td><img src="/images/li.gif" alt="" width="5" height="5" border="0" align="right"></td>
-           <td class="sidenav">
-           <a href="/company_info/international/international.jsp">International</a>
-           </td>
-           </tr>
-
-	
-        
-      
- 
-    
-        <tr height="100%" valign="top">
-                      <td colspan="2">&nbsp;</td>
-        </tr>
-      
-      <!--<tr valign="bottom">
-        <TD><img src="/images/transparent.gif" alt="" width="22" height="22" border="0"></TD>
-      	<td><img src="/images/GS_MSGold.jpg" border="0"></td>
-      </tr>-->
-
-      <tr height="5" valign="bottom">
-      		<td colspan="2"><img src="/images/transparent.gif" height="5"></td>
-      </tr>      
-     
-    <!-- END OF THE ACTUAL LEFTNAVIGATION HERE IN THE SKELETON -->
-    
-</tbody></table> 
-
-<!-- ******************* End of leftNavTable ******************* -->
-
-
-            <!-- ***************** End printing LeftNavigation ***************** -->
-       </td> <!--  ******************* End 1st CELL of centerTable -->
-        <td class="topalign" width="100%"> 
-        <!-- 2nd CELL centerTable -->    
-
-
-
-	
-
-
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<td><div class="bodySection">
-			Privacy is important to Brocade Communications Systems, Inc. ("Brocade" or "we").  This privacy policy explains Brocade's web site and services (collectively, the "Service"). Effective Date: June 17, 2004.
-			<p>			
-			If you feel that Brocade is not abiding by this privacy policy, you should contact the Webmaster at <a href="mailto:privacy@brocade.com">privacy@brocade.com</a>. 
-</p></div>
-	</td>
-</tr>
-
-<tr>
-	<td>
-		<div class="subHead3">Information Collection and Use</div>
-		<div class="bodySection">
-		We collect the following personally identifiable information about our users:  name, e-mail address, telephone number, business address, shipping address, social security number, preferred means of communication, credit card information and other information voluntarily provided.  This personally identifiable information is typically provided when users register for online services, purchase products online, or participate in contests, surveys or sweepstakes.  We also collect information about users regarding web pages accessed, traffic patterns and site usage.
-		<p>
-		We, our service providers and our vendors may use any information collected by users:  to operate the Service; to effect users' transactions; to provide better services, products and opportunities to users; to notify users about services, products and opportunities that may be of interest to such users; to create and share reports about users' transactions; and for other marketing purposes.  We may also trade, sell, rent or otherwise share your personally identifiable information with other third parties, including our business partners. 
-</p></div>
-	</td>
-</tr>
-<tr>
-	<td>
-		<div class="subHead3">Cookies</div>
-		<div class="bodySection">
-		Cookies are pieces of information stored on your hard drive containing information about you.  These pieces of information allow the Service to remember important information that will make your use of the Service more useful.  Brocade uses cookies for a variety of purposes.  For instance, we use cookies to allow your automated login and to track your preferences and usage.  You can choose to reject or turn off the cookies through your browser settings.  If you reject or turn off the cookies, you may still use the Service.  The only drawback to this is that you will be limited in some areas of the Service.  For example, you will not be able to participate in any of our sweepstakes, contests or monthly drawings that we may offer. 
+	/*Setting width of overlays*/
+	/*
+	$("ul#globalNav li.products-solutions .submenu").css("width","975px");
+	$("ul#globalNav li.services-support .submenu").css("width","785px");
+	$("ul#globalNav li.education .submenu").css("width","595px");
+	$("ul#globalNav li.partnerships .submenu").css("width","595px");
+	$("ul#globalNav li.company .submenu").css("width","785px"); 
+	*/
+});
+
+</script><link rel="stylesheet" href="/sites/dotcom/css/print.css" type="text/css" media="print"><link rel="stylesheet" href="/sites/dotcom/css/homepage.css" type="text/css">
+<!--[if IE 7 ]><link href="/sites/dotcom/css/ie-7.css" rel="stylesheet" type="text/css"/><![endif]-->
+<!--[if lt IE 7 ]><script type="text/javascript" src="/sites/dotcom/js/iefixes.js"></script>
+	<link href="/sites/dotcom/css/ie-pre7.css" rel="stylesheet" type="text/css"/><![endif]-->
+<!--[if IE]><style type="text/css">
+  /*Remove this css style once left:3px is removed in ie-7.css & ie-pre7.css*/
+  #siteSearch #globalSearch input#qt {left:0 !important;}
+  #sitePageHome .inner {padding:0; margin:0;}
+  </style><![endif]-->
+<!--[if lt IE 7 ]><style type="text/css">
+  #siteSearch #globalSearch {margin: 10px 1px 0 0;}
+  ul#globalNav {margin:10px 1px 0 0;}
+  </style><![endif]--><h1 class="testing" id="logo"><a href="http://www.brocade.com/index.page"><img alt="Brocade" src="http://www.brocade.com/sites/dotcom/images/iface/header/logo-brocade.gif" border="0"></a> </h1><ul id="utilityNav"><li><a class="show-lang" href="/international/index.page">International</a> </li><li><a href="http://www.brocadeconnect.com">Customer Log In</a> </li><li><a class="last" href="http://partner.brocade.com">Partner Log In</a> </li></ul><div id="intlSelect"><h3>Select a Site by Language</h3><div id="transCol1"><ul><li><a href="http://www.brocadechina.com">Chinese</a> </li><li><a href="/international/german/index.page">Deutsch</a> </li><li><a href="/international/spanish/index.page">Español</a> </li></ul></div><div id="transCol2"><ul><li><a href="/international/french/index.page">Français</a> </li><li><a href="http://www.brocadejapan.com">Japanese</a> </li><li><a href="http://www.brocadekorea.com">Korean</a> </li></ul></div><div id="transCol3"><ul><li><a href="/international/russian.page">Russian</a> </li></ul></div></div><div id="siteSearch"><form action="/dotcom/company/privacy.page?&amp;submit=true&amp;componentID=1216854300021" id="globalSearch" method="post" name="globalSearch"><!--<label for="search"></label>--><label for="qt"></label><input id="qt" name="qt" type="text"> <input id="btnSearch" type="image" src="http://www.brocade.com/sites/dotcom/images/iface/btn-search.jpg" name="btnSearch"> </form></div><script type="text/javascript">$("form#globalSearch").attr({ action: "http://search.brocade.com/query.html"});</script><ul id="globalNav">
+<script type="text/javascript"></script><script type="text/javascript"> jQuery(function($) { $("ul#globalNav li.products-solutions .submenu").css("width","975px"); });</script>
+<li class="products-solutions">
+<script type="text/javascript">
+							
+							var name = 'Products & Solutions';
+							if (unescape(document.location.toString()).indexOf('/products-solutions/')!= -1) { 
+							  document.write('<a class="current" href="/products-solutions/index.page">'+name+'</a>');
+							}
+							else { 
+							  document.write('<a href="/products-solutions/index.page">'+name+'</a>');
+							} 
+						</script><a href="/products-solutions/index.page">Products &amp; Solutions</a><div class="submenu"><div class="box"><div class="box-top-left"><div class="box-top-right"><div class="box-top"><br></div></div></div><div class="box-bottom-left"><div class="box-bottom-right"><a class="close-submenu" href="/#">close</a> <div class="box-content"><div class="span-10 last-column"><h2><a href="/products-solutions/products/index.page">Products</a></h2><div class="span-5"><h3>By Product Category:</h3><ul class="blocklist indent"><li><a href="/products-solutions/products/dcx-backbone/index.page">DCX Backbones</a></li><li><a href="/products-solutions/products/directors/product-details/48000-director/index.page">Director</a></li><li><a href="/products-solutions/products/ethernet-switches-routers/enterprise-mobility/index.page">IP/Ethernet - Enterprise &amp; Mobility</a></li><li><a href="/products-solutions/products/ethernet-switches-routers/service-provider/index.page">IP/Ethernet - Service Provider</a></li><li><a href="/products-solutions/products/ethernet-switches-routers/application-delivery/index.page">IP/Ethernet - Application Delivery</a></li><li><a href="/products-solutions/products/ethernet-switches-routers/network-management/index.page">IP/Ethernet - Network Management</a></li><li><a href="/products-solutions/products/switches/index.page">SAN Switches</a></li><li><a href="/products-solutions/products/san-extension/index.page">SAN Extension</a></li><li><a href="/products-solutions/products/fabric-management-software/index.page">Management Software</a></li><li><a href="/products-solutions/products/fabric-applications/index.page">Fabric Applications</a></li><li><a href="/products-solutions/products/server-connectivity/index.page">Server Connectivity/ HBAs/ CNAs</a></li><li><a class="null" href="/sites/dotcom/products-solutions/products/tranceivers/index.page">Transceivers</a></li><li><a href="/products-solutions/products/cee-fcoe/index.page">CEE and FCoE</a></li></ul></div><div class="span-5 last-column"><h3>By Connectivity:</h3><ul class="blocklist indent"><li><a href="/products-solutions/products/index.page?dropType=Connectivity&amp;name=ETHERNET">IP/Ethernet</a></li><li><a href="/products-solutions/products/index.page?dropType=Connectivity&amp;name=FCIP">Fibre Channel over IP</a></li><li><a href="/products-solutions/products/index.page?dropType=Connectivity&amp;name=FCOE">Fibre Channel over Ethernet</a></li><li><a href="/products-solutions/products/index.page?dropType=Connectivity&amp;name=FIBRE_CHANNEL">Fibre Channel</a></li><li><a href="/products-solutions/products/index.page?dropType=Connectivity&amp;name=ISCSI">iSCSI</a></li><li><a href="/products-solutions/products/index.page?dropType=Connectivity&amp;name=MAINFRAME">Mainframe</a></li></ul></div><div class="clear"><h3>By Product Name:</h3><ul class="inlinelist indent" id="Products &amp; Solutions"><li><a href="/products-solutions/products/products-index.page##">#</a></li><li><a href="/products-solutions/products/products-index.page#A">A</a></li><li><a href="/products-solutions/products/products-index.page#B">B</a></li><li>C</li><li><a href="/products-solutions/products/products-index.page#D">D</a></li><li><a href="/products-solutions/products/products-index.page#E">E</a></li><li><a href="/products-solutions/products/products-index.page#F">F</a></li><li>G</li><li><a href="/products-solutions/products/products-index.page#H">H</a></li><li><a href="/products-solutions/products/products-index.page#I">I</a></li><li>J</li><li>K</li><li>L</li><li><a href="/products-solutions/products/products-index.page#M">M</a></li><li><a href="/products-solutions/products/products-index.page#N">N</a></li><li>O</li><li>P</li><li>Q</li><li>R</li><li><a href="/products-solutions/products/products-index.page#S">S</a></li><li><a href="/products-solutions/products/products-index.page#T">T</a></li><li><a href="/products-solutions/products/products-index.page#U">U</a></li><li><a href="/products-solutions/products/products-index.page#V">V</a></li><li><a href="/products-solutions/products/products-index.page#W">W</a></li><li>X</li><li>Y</li><li>Z</li></ul></div></div><div class="span-5"><h2><a href="/products-solutions/solutions/index.page">Solutions</a></h2><ul class="blocklist"><li><a href="/products-solutions/solutions/business-continuity/index.page">Business Continuity</a></li><li><a href="/products-solutions/solutions/connectivity/index.page">Connectivity</a></li><li><a href="/products-solutions/solutions/ethernet-solutions/index.page">IP/ Ethernet</a></li><li><a href="/products-solutions/solutions/consolidation/index.page">Consolidation</a></li><li><a href="/products-solutions/solutions/management/index.page">Management</a></li><li><a href="/products-solutions/solutions/migration/index.page">Migration</a></li><li><a href="/products-solutions/solutions/security/index.page">Data Security</a></li><li><a href="/products-solutions/solutions/virtualization/index.page">Virtualization</a></li><li><a href="/products-solutions/solutions/server-io-consolidation/index.page">Server I/O Consolidation</a></li><li><a href="/products-solutions/solutions/market-segmentation/enterprise/index.page">Enterprise</a></li><li><a href="/products-solutions/solutions/market-segmentation/service-provider/index.page">Service Provider</a></li><li><a href="/products-solutions/solutions/market-segmentation/public-sector/index.page">Public Sector</a></li></ul></div><div class="span-5"><h2><a href="/products-solutions/technology-architecture/index.page">Technology &amp; Architecture</a></h2><ul class="blocklist-last"><li><a href="/products-solutions/technology-architecture/datacenter-fabric/index.page">Data Center Fabric</a></li><li><a href="/products-solutions/technology-architecture/ethernet-technology/index.page">IP/ Ethernet</a></li><li><a href="/products-solutions/technology-architecture/platforms/index.page">Platforms</a></li><li><a href="/products-solutions/technology-architecture/standards-leadership/index.page">Standards Leadership</a></li><li><a href="/products-solutions/technology-architecture/compatibility/index.page">Compatibility</a></li><li><a href="/products-solutions/technology-architecture/cee-fcoe/index.page">CEE and FCoE</a></li></ul></div><div class="greybox_span1"><div class="highlights-left"><div class="highlights-content"><div class="highlights"><div class="item"><h3>How to Buy</h3><p>Contact us to learn more about our products, solutions and services.</p><p><a class="go" href="/company/contact-us/How-to-Buy.page">Contact Us</a></p></div><div class="item"><h3>Brocade Capital Solutions</h3><p>Take advantage of flexible financing options when purchasing Brocade solutions.</p><p><a class="go" href="/services-support/financing/index.page#">Learn More</a></p></div><div class="item"><h3>Technology Alliance Partner Program</h3><p>Building new business opportunities and long-term partnerships that enable us to deliver comprehensive and proven technology solutions.</p><p><a class="go" href="/partnerships/technology-alliance-partners/index.page">Learn More</a></p></div></div></div></div></div></div></div></div></div></div></li>
+<script type="text/javascript"> jQuery(function($) { $("ul#globalNav li.services-support .submenu").css("width","975px"); });</script>
+<li class="services-support">
+<script type="text/javascript">
+						var url = 'services-support/index.page';
+							 var mUrl = 'services-support';	
+							 var href = '/'+ url;
+							 var name = 'Services & Support';
+							 if (unescape(document.location.toString()).indexOf('/'+mUrl+'/')!= -1) { 
+							   document.write('<a class="current" href="'+href+'">'+name+'</a>');
+							 } 
+							 else { 
+							   document.write('<a href="'+href+'">'+name+'</a>');
+							 } 
+						</script><a href="/services-support/index.page">Services &amp; Support</a>
+<div class="submenu">
+<div class="box">
+<div class="box-top-left">
+<div class="box-top-right">
+<div class="box-top"></div>
 </div>
-	</td>
-
-</tr>
-<tr>
-	<td>
-		<div class="subHead3">Log Files</div>
-		<div class="bodySection">
-		We use IP addresses to analyze trends, administer the Service, track users' movements, and gather demographic information.
 </div>
-	</td>	
-</tr>	
-
-<tr>
-	<td>
-		<div class="subHead3">Security</div>
-		<div class="bodySection">
-		We use security measures, such as firewalls and Security Socket Layers ("SSL"), to safeguard the confidentiality of our users' personally identifiable information.  Information we collect about our users is stored on secured servers.  However, "perfect security" does not exist.  
-		If you have any questions about the security of the Service, please send an e-mail to <a href="mailto:privacy@brocade.com">privacy@brocade.com</a>.
-
+<div class="box-bottom-left">
+<div class="box-bottom-right">
+<a class="close-submenu" href="#">close</a>
+<div class="box-content">
+<div class="span-5">
+<h2>
+<a href="/services-support/professional-services/index.page">Professional Services</a>
+</h2><ul class="blocklist"><li>
+<a href="/services-support/professional-services/data-center-networking/index.page">Data Center Networking</a>
+</li>
+<li>
+<a href="/services-support/professional-services/ip-network-infrastructure/index.page">IP Network Infrastructure</a>
+</li>
+<li>
+<a href="/services-support/professional-services/data-protection/index.page">Data Protection</a>
+</li>
+<li>
+<a href="/services-support/professional-services/data-migration/index.page">Data Migration</a>
+</li>
+<li>
+<a href="/services-support/professional-services/data-security/index.page">Data Security</a>
+</li>
+<li>
+<a href="/services-support/professional-services/data-virtualization/index.page">Data Center Virtualization</a>
+</li>
+<li>
+<a href="/services-support/professional-services/resident-consultant/index.page">Brocade Resident Consultant</a>
+</li></ul><h2>
+<a href="/services-support/support-plans/index.page">Support Plans</a>
+</h2><ul class="blocklist"><li>
+<a href="/services-support/support-plans/direct-support/index.page">Direct Support</a>
+</li>
+<li>
+<a href="/services-support/support-plans/supplemental-support/index.page">Supplemental Support</a>
+</li>
+<li>
+<a href="/services-support/support-plans/network-monitoring-service/index.page">Network Monitoring Service</a>
+</li>
+<li>
+<a href="/services-support/support-plans/activate-your-plan/index.page">Register Your Equipment</a>
+</li></ul></div>
+<div class="span-5">
+<h2>
+<a href="/services-support/drivers-downloads/index.page">Drivers &amp; Downloads</a>
+</h2><ul class="blocklist"><li>
+<a href="/services-support/drivers-downloads/san-health-diagnostics/index.page">SAN Health Diagnostics</a>
+</li>
+<li>
+<a href="/services-support/drivers-downloads/software-evaluations/index.page">Software Evaluations</a>
+</li>
+<li>
+<a href="/services-support/drivers-downloads/oscd/index.page">OSCD</a>
+</li>
+<li>
+<a href="/services-support/drivers-downloads/smi-agent/index.page">SMI Agent</a>
+</li>
+<li>
+<a href="/services-support/drivers-downloads/HBA/index.page">HBA/CNA Drivers</a>
+</li>
+<li>
+<a href="https://www.foundrynet.com/ss/">IP/Ethernet Products (Foundry)</a>
+</li></ul><h2>
+<a href="/services-support/software-license-keys/index.page">Software License Keys</a>
+</h2><ul class="blocklist"><ul class="blocklist">
+<li>Activate software licenses online for all Brocade products.</li>
+<li>
+<a class="go" href="/services-support/software-license-keys/index.page">
+			  Learn More</a>
+</li>
+</ul></ul></div>
+<div class="span-5">
+<h2>
+<a href="http://www.brocade.com/forms/jsp/support/tech_sc_locator.jsp">Support Availability</a>
+</h2><ul class="blocklist"><ul class="blocklist">
+<li>Find information on the level of Brocade Support available in a specific location.</li>
+<li>
+<a class="go" href="http://www.brocade.com/forms/jsp/support/tech_sc_locator.jsp">
+			  Learn More</a>
+</li>
+</ul></ul><h2>
+<a href="/services-support/returns-warranties/index.page">Returns &amp; Warranties</a>
+</h2><ul class="blocklist"><ul class="blocklist">
+<li>Submit Return and Warranty requests online.</li>
+<li>
+<a class="go" href="/services-support/returns-warranties/index.page">
+			  Learn More</a>
+</li>
+</ul></ul></div>
+<div class="span-5">
+<h2>
+<a href="/services-support/financing/index.page">Financing</a>
+</h2><ul class="blocklist"><ul class="blocklist">
+<li>Brocade Capital Solutions provide financing options for purchases of products &amp; solutions.</li>
+<li>
+<a class="go" href="/services-support/financing/index.page">
+			  Learn More</a>
+</li>
+</ul></ul></div><div class="greybox_span1"><div class="highlights-left"><div class="highlights-content"><div class="highlights"><h3>Services &amp; Support Contact</h3><div class="span-5 last-column"><div class="item_col1"><h3>E-mail</h3><p>SAN: <a class="link" href="mailto:support@brocade.com">support@brocade.com</a></p></div><div class="item_col1"><p>IP: <a class="link" href="mailto:IPsupport@brocade.com">IPsupport@brocade.com</a></p></div><div class="item_col1"><h3>Phone</h3><p>US and Canada Toll-Free:<br>800-752-8061</p></div><div class="item_col1"><p>International Toll-Free: <br><a class="link" href="http://www.brocade.com/services-support/contacts_international.page">View Numbers by Countries</a></p></div><div class="item_col1"><h3>Online</h3><p><a class="link" href="mailto:maintcontracts@brocade.com">Contact Brocade</a> to purchase or renew a contract, or obtain additional coverage.</p></div></div></div></div></div></div></div>
 </div>
-	</td>	
-</tr>
-
-
-<tr>
-	<td>
-		<div class="subHead3">Minors</div>
-		<div class="bodySection">
-Minors (individuals below the age of 18) are not eligible to use the Service and no portion of the Service is directed towards minors.  We do not knowingly solicit any information about minors or market to minors.
-
-	</div></td>	
-</tr>
-
-<tr>
-	<td>
-		<div class="subHead3">Disclosure Required by Law</div>
-		<div class="bodySection">
-	
-We cooperate with law enforcement agencies in identifying those who use the Service for illegal activities.  Therefore, we respond to subpoenas, warrants or other court orders regarding information concerning any users.  We will, at our discretion, disclose information if we believe that we are required to do so by law, that such disclosure is necessary to protect us from legal liability or that we should do so to protect the integrity of the Service.
-
-	</div></td>	
-</tr>
-<tr>
-	<td>
-		<div class="subHead3">
-Correction/Updating Personally Identifiable Information</div>
-<div class="bodySection">
-If your personally identifiable information changes, or if you no longer desire Brocade's services, we will endeavor to provide a way to correct, update or remove the data you provided to us.  This can usually be done at the member information page or by sending an e-mail to <a href="mailto:privacy@brocade.com">privacy@brocade.com</a>.   
-	</div></td>	
-</tr>
-<tr>
-	<td>
-		<div class="subHead3">
-Your Consent; Notification of Changes</div>
-<div class="bodySection">
-By using the Service, you consent to Brocade's collection and use of the information described in this privacy policy.  If we decide to change this privacy policy, we will post those changes via our homepage so our users are aware of what information we collect, how we use it, and under what circumstances we disclose it.  If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of an e-mail.  Please check this policy from time to time to make sure that you are aware of our latest privacy policy.  
 </div>
-	</td>	
-</tr>
-</tbody></table>
-
-
-
-
-</td> <!-- End of 2nd CELL of centerTable -->
-      
-      <td bgcolor="#6E6E6E" height="100%">
-        <img src="/images/transparent.gif" alt="" width="21" height="10" border="0">
-      </td> <!-- End of 3rd CELL of centerTable -->
-    </tr>
-  
-	</tbody></table> <!-- End of centerTable ******************* -->
-
-<table name="footerTable" border="0" class="topalign" cellpadding="0" cellspacing="0" width="100%">
-	<script>spacerRows(1,1,"#FF0000",2);</script><tbody><tr valign="top" height="1" width="1"><td bgcolor="#FF0000" colspan="2"><img src="/images/transparent.gif" height="1" width="1"></td></tr>
-	<tr>
-		<script>spacerTD(15,1);</script><td width="15"><img src="/images/transparent.gif" height="1" width="15"></td>
-		<td><a href="/company_info/legal.jsp" class="footernav">Legal</a>  |  <a href="/company_info/contact.jsp" class="footernav">Contact Us</a>  |  <a href="/sitemap/sitemap.jsp" class="footernav">Site Map </a>  |  <a href="/company_info/privacy.jsp" class="footernav">Privacy</a></td>
-	</tr>
-</tbody></table> 
-<!-- End of footerTable ******************* -->
-
-
-
-
-
-
-
-
-
-
-</body></html>
+</div>
+</div>
+</li>
+<script type="text/javascript"> jQuery(function($) { $("ul#globalNav li.education .submenu").css("width","785px"); });</script>
+<li class="education">
+<script type="text/javascript">
+						var url = 'education/index.page';
+							 var mUrl = 'education';	
+							 var href = '/'+ url;
+							 var name = 'Education';
+							 if (unescape(document.location.toString()).indexOf('/'+mUrl+'/')!= -1) { 
+							   document.write('<a class="current" href="'+href+'">'+name+'</a>');
+							 } 
+							 else { 
+							   document.write('<a href="'+href+'">'+name+'</a>');
+							 } 
+						</script><a href="/education/index.page">Education</a>
+<div class="submenu">
+<div class="box">
+<div class="box-top-left">
+<div class="box-top-right">
+<div class="box-top"></div>
+</div>
+</div>
+<div class="box-bottom-left">
+<div class="box-bottom-right">
+<a class="close-submenu" href="#">close</a>
+<div class="box-content">
+<div class="span-5">
+<h2>
+<a href="/education/product-training/index.page">Product Training</a>
+</h2><ul class="blocklist"><li>
+<a href="/education/product-training/methodology-training-formats/index.page">Methodology &amp; Training</a>
+</li>
+<li>
+<a href="/education/product-training/training-locations/index.page">Training Locations</a>
+</li>
+<li>
+<a href="/education/product-training/virtual-classroom-training/index.page">Virtual Classroom Training</a>
+</li>
+<li>
+<a href="http://www.foundrynet.com/ss/training/">IP/Ethernet Training</a>
+</li>
+<li>
+<a href="/education/product-training/terms-and-conditions/index.page">Terms and Conditions</a>
+</li>
+<li>
+<a href="/education/product-training/registration-tips-faqs/index.page">Registration Tips and FAQs</a>
+</li></ul><h2>
+<a href="/education/certification-accreditation/index.page">Certification &amp; Accreditation</a>
+</h2><ul class="blocklist"><li>
+<a href="/education/certification-accreditation/certified-fabric-professional/index.page">Certified Fabric Professional</a>
+</li>
+<li>
+<a href="/education/certification-accreditation/certified-fabric-administrator/index.page">Certified Fabric Administrator</a>
+</li>
+<li>
+<a href="/education/certification-accreditation/accredited-data-center-specialist/index.page">Accredited Data Center Specialist (BADCS) Exam</a>
+</li>
+<li>
+<a href="/education/certification-accreditation/accredited-FCoE-specialist/index.page">Accredited FCoE Specialist (BAFCoES) Exam</a>
+</li></ul></div>
+<div class="span-5">
+<h2>
+<a href="/education/course-catalog/index.page">Course Catalog</a>
+</h2><ul class="blocklist"></ul><h3>By Course Format</h3><ul class="blocklist"><li>
+<a href="/education/course-catalog/index.page?dropType=Course Format&amp;name=SELF-PACED LEARNING (eStudy)">Self-paced Learning (estudy)</a>
+</li>
+<li>
+<a href="/education/course-catalog/index.page?dropType=Course Format&amp;name=VIRTUAL CLASSROOM TRAINING">Virtual Classroom Training</a>
+</li>
+<li>
+<a href="/education/course-catalog/index.page?dropType=Course Format&amp;name=INSTRUCTOR LED CLASSROOM TRAINING">Instructor Led Classroom Training</a>
+</li></ul><h3>By Course Category</h3><ul class="blocklist"><li>
+<a href="/education/course-catalog/index.page?dropType=Category&amp;name=ETHERNET eSTUDY COURSE OFFERINGS">Ethernet Estudy Course Offerings</a>
+</li>
+<li>
+<a href="/education/course-catalog/index.page?dropType=Category&amp;name=SAN eSTUDY COURSE OFFERINGS">San Estudy Course Offerings</a>
+</li>
+<li>
+<a href="/education/course-catalog/index.page?dropType=Category&amp;name=SERVER COURSE OFFERINGS">Server Course Offerings</a>
+</li>
+<li>
+<a href="/education/course-catalog/index.page?dropType=Category&amp;name=CERTIFICATION COURSE OFFERINGS">Certification Course Offerings</a>
+</li>
+<li>
+<a href="/education/course-catalog/index.page?dropType=Category&amp;name=FREE ASSESSMENT TESTS">Free Assessment Tests</a>
+</li>
+<li>
+<a href="/education/course-catalog/index.page?dropType=Category&amp;name=MULTIPROTOCOL ROUTER estudy COURSE OFFERINGS">Multiprotocol Router Estudy Course Offerings</a>
+</li>
+<li>
+<a href="/education/course-catalog/index.page?dropType=Category&amp;name=VCT CERTIFICATION COURSE OFFERINGS">Vct Certification Course Offerings</a>
+</li>
+<li>
+<a href="/education/course-catalog/index.page?dropType=Category&amp;name=VCT ETHERNET COURSE OFFERINGS">Vct Ethernet Course Offerings</a>
+</li></ul></div>
+<div class="span-5">
+<h2>
+<img border="0" height="18px" src="/sites/dotcom/images/transparent.gif"></h2><ul class="blocklist"><li>
+<a href="/education/course-catalog/index.page?dropType=Category&amp;name=CERTIFICATION eStudy COURSE OFFERINGS">Certification Estudy Course Offerings</a>
+</li>
+<li>
+<a href="/education/course-catalog/index.page?dropType=Category&amp;name=FREE eSTUDY TRAINING">Free Estudy Training</a>
+</li>
+<li>
+<a href="/education/course-catalog/index.page?dropType=Category&amp;name=ETHERNET COURSE OFFERINGS">Ethernet Course Offerings</a>
+</li>
+<li>
+<a href="/education/course-catalog/index.page?dropType=Category&amp;name=SAN COURSE OFFERINGS">San Course Offerings</a>
+</li></ul></div><div class="greybox_span1"><div class="highlights-left"><div class="highlights-content"><div class="highlights"><h3>Login/ Register for Brocade Training</h3><div class="item"><table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr><td width="70"><a class="highlight-login button" href="http://learning.brocade.com/">Login</a></td><td><p>Login to Brocade Training</p></td></tr><tr><td colspan="2"><img height="5" alt="" src="images/spacer.gif" width="1" border="0"></td></tr><tr><td><a class="highlight-register button" href="http://learning.brocade.com/ilearn/en/learner/jsp/self_register.jsp?site=BES">Register</a></td><td><p>New Users Register for Brocade Training</p></td></tr></tbody></table></div></div></div></div></div></div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<script type="text/javascript"> jQuery(function($) { $("ul#globalNav li.partnerships .submenu").css("width","595px"); });</script>
+<li class="partnerships">
+<script type="text/javascript">
+						var url = 'partnerships/index.page';
+							 var mUrl = 'partnerships';	
+							 var href = '/'+ url;
+							 var name = 'Partnerships';
+							 if (unescape(document.location.toString()).indexOf('/'+mUrl+'/')!= -1) { 
+							   document.write('<a class="current" href="'+href+'">'+name+'</a>');
+							 } 
+							 else { 
+							   document.write('<a href="'+href+'">'+name+'</a>');
+							 } 
+						</script><a href="/partnerships/index.page">Partnerships</a>
+<div class="submenu">
+<div class="box">
+<div class="box-top-left-indent">
+<div class="box-top-right-indent">
+<div class="box-top-indent"></div>
+</div>
+</div>
+<div class="box-bottom-left">
+<div class="box-bottom-right">
+<a class="close-submenu" href="#">close</a>
+<div class="box-content">
+<div class="span-5">
+<h2>
+<a href="/partnerships/oems/index.page">OEM Partners</a>
+</h2><ul class="blocklist"><ul class="blocklist">
+<li>Brocade solutions are available worldwide through Brocade OEM Partners which include leading server and storage systems providers.</li>
+<li>
+<a class="go" href="/partnerships/oems/index.page">
+			  Learn More</a>
+</li>
+</ul></ul><h2>
+<a href="/partnerships/distributors-resellers/index.page">Distributors &amp; Resellers</a>
+</h2><ul class="blocklist"><li>
+<a href="/partnerships/distributors-resellers/alliance-partner-network/index.page">Alliance Partner Network</a>
+</li>
+<li>
+<a href="/partnerships/distributors-resellers/Federal-Partners/index.page">Federal Partners</a>
+</li></ul><h2>
+<a href="/partnerships/Service-Support-Partners/index.page">Service &amp; Support Partners</a>
+</h2><ul class="blocklist"><li>
+<a href="/partnerships/Service-Support-Partners/Qualified Support Partners/index.page">Qualified Support Partners</a>
+</li>
+<li>
+<a href="/partnerships/Service-Support-Partners/Global-IT-Services-Partners/outsourcers.page">IT Outsourcers</a>
+</li>
+<li>
+<a href="/partnerships/Service-Support-Partners/Support-Delivery-Partners/index.page">Support Delivery Partners</a>
+</li></ul></div>
+<div class="span-5">
+<h2>
+<a href="/partnerships/technology-alliance-partners/index.page">Technology Alliance Partners</a>
+</h2><ul class="blocklist"><li>
+<a href="/partnerships/technology-alliance-partners/technology-alliances/index.page">Technology Alliances</a>
+</li>
+<li>
+<a href="/partnerships/technology-alliance-partners/developers/index.page">Developers</a>
+</li></ul></div><div class="greybox_span1"><div class="highlights-left"><div class="highlights-content"><div class="highlights"><h3>Login / Register for Partners</h3><div class="item"><table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr><td width="70"><a class="highlight-login button" href="http://partner.brocade.com/">Login</a></td><td><p>Partners Login</p></td></tr><tr><td colspan="2"><img height="5" alt="" src="images/spacer.gif" width="1" border="0"></td></tr><tr><td><a class="highlight-register button" href="http://www.brocade.com/register">Register</a></td><td><p>New Partners Registration</p></td></tr></tbody></table></div></div></div></div></div></div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<script type="text/javascript"> jQuery(function($) { $("ul#globalNav li.company .submenu").css("width","785px"); });</script>
+<li class="company">
+<script type="text/javascript">
+						var url = 'company/index.page';
+							 var mUrl = 'company';	
+							 var href = '/'+ url;
+							 var name = 'Company';
+							 if (unescape(document.location.toString()).indexOf('/'+mUrl+'/')!= -1) { 
+							   document.write('<a class="current" href="'+href+'">'+name+'</a>');
+							 } 
+							 else { 
+							   document.write('<a href="'+href+'">'+name+'</a>');
+							 } 
+						</script><a class="current" href="/company/index.page">Company</a>
+<div class="submenu">
+<div class="box">
+<div class="box-top-left">
+<div class="box-top-right">
+<div class="box-top"></div>
+</div>
+</div>
+<div class="box-bottom-left">
+<div class="box-bottom-right">
+<a class="close-submenu" href="#">close</a>
+<div class="box-content">
+<div class="span-5">
+<h2>
+<a href="/company/news_room/index.page">News Room</a>
+</h2><ul class="blocklist"><li>
+<a href="http://newsroom.brocade.com">Press Releases</a>
+</li>
+<li>
+<a href="http://newsroom.brocade.com">Media Coverage</a>
+</li>
+<li>
+<a href="http://newsroom.brocade.com">Press Contacts</a>
+</li></ul><h2>
+<a href="/company/news-events/index.page">Events</a>
+</h2><ul class="blocklist"><li>
+<a href="/company/news-events/awards/index.page">Awards</a>
+</li>
+<li>
+<a href="/company/news-events/events-calendar/index.page">Events Calendar</a>
+</li>
+<li>
+<a href="/company/news-events/webcasts/techbytes/index.page">Webcasts</a>
+</li></ul><h2>
+<a href="/company/investors/index.page">Investor Relations</a>
+</h2><ul class="blocklist"><li>
+<a href="/company/investors/financials/index.page">Financials</a>
+</li>
+<li>
+<a href="/company/investors/executive-team/index.page">Executive Profiles</a>
+</li>
+<li>
+<a href="/company/investors/board-of-directors/index.page">Board Members</a>
+</li>
+<li>
+<a href="/company/investors/press-and-analyst-contacts/Analyst Information.page">Analyst Information</a>
+</li></ul></div>
+<div class="span-5">
+<h2>
+<a href="/company/corporate-citizenship/index.page">Corporate Citizenship</a>
+</h2><ul class="blocklist"><li>
+<a href="/company/corporate-citizenship/community-sponsorship/index.page">Community &amp; Sponsorship</a>
+</li>
+<li>
+<a href="/company/corporate-citizenship/green-initiative/index.page">Green Initiative</a>
+</li>
+<li>
+<a href="/company/corporate-citizenship/product-recycling/index.page">Product Recycling</a>
+</li>
+<li>
+<a href="/company/corporate-citizenship/rohs-compliance/index.page">RoHS Compliance</a>
+</li>
+<li>
+<a href="/company/corporate-citizenship/research-development/index.page">Research and Development</a>
+</li>
+<li>
+<a href="/company/corporate-citizenship/global-trade/index.page">Global Trade</a>
+</li>
+<li>
+<a href="/company/corporate-citizenship/supplier-diversity/index.page">Supplier Diversity</a>
+</li>
+<li>
+<a href="/company/corporate-citizenship/reach/index.page">REACH Compliance</a>
+</li></ul><h2>
+<a href="/company/customer-success-stories/index.page">Customer Success Stories</a>
+</h2><ul class="blocklist"><ul class="blocklist">
+<li>Access video testimonials and customer case studies to see how Brocade enables leading enterprises to build Extraordinary Networks.</li>
+<li>
+<a class="go" href="/company/customer-success-stories/index.page">
+			  Learn More</a>
+</li>
+</ul></ul></div>
+<div class="span-5">
+<h2>
+<a href="/company/careers/index.page">Careers</a>
+</h2><ul class="blocklist"><li>
+<a href="/company/careers/university-program/index.page">University Program</a>
+</li>
+<li>
+<a href="/company/careers/environment/index.page">Environment</a>
+</li>
+<li>
+<a href="/company/careers/compensation-benefits/index.page">Compensation &amp; Benefits</a>
+</li>
+<li>
+<a href="/company/careers/award-winning-workplace/index.page">Award-Winning Workplace</a>
+</li></ul><h2>
+<a href="/company/contact-us/index.page">Contact Us</a>
+</h2><ul class="blocklist"><li>
+<a href="/company/contact-us/Contacting-Brocade.page">Contacting Brocade</a>
+</li>
+<li>
+<a href="/company/contact-us/How-to-Buy.page">How to Buy</a>
+</li>
+<li>
+<a href="/company/contact-us/Worldwide Offices.page">Worldwide Offices</a>
+</li>
+<li>
+<a href="/company/contact-us/Corporate Headquarters.page">Corporate Headquarters</a>
+</li></ul></div><div class="greybox_span1"><div class="highlights-left"><div class="highlights-content"><div class="highlights"><div class="item"><h3><a href="/company/corporate-citizenship/green-initiative/index.page">Going Green with Brocade</a></h3><p>Brocade is supporting the development of green data centers with products and programs designed to improve energy efficiency.</p><p><a class="go" href="/company/corporate-citizenship/green-initiative/index.page">Learn More</a></p></div><div class="item"><h3><a href="http://community.brocade.com/home/community/brocadeblogs/wingspan">Executive Blogs</a></h3><p>We invite you to participate in an ongoing discussion with Brocade's top executives.</p><p><a class="go" href="http://community.brocade.com/home/community/brocadeblogs/wingspan">Learn More</a></p></div></div></div></div></div></div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul><script type="text/javascript">
+			 var id = document.getElementById('Products & Solutions');
+			 id.innerHTML ="<li><a href='/products-solutions/products/products-index.page##'>#</a></li><li><a href='/products-solutions/products/products-index.page#A'>A</a></li><li><a href='/products-solutions/products/products-index.page#B'>B</a></li><li>C</li><li><a href='/products-solutions/products/products-index.page#D'>D</a></li><li><a href='/products-solutions/products/products-index.page#E'>E</a></li><li><a href='/products-solutions/products/products-index.page#F'>F</a></li><li>G</li><li><a href='/products-solutions/products/products-index.page#H'>H</a></li><li><a href='/products-solutions/products/products-index.page#I'>I</a></li><li>J</li><li>K</li><li>L</li><li><a href='/products-solutions/products/products-index.page#M'>M</a></li><li><a href='/products-solutions/products/products-index.page#N'>N</a></li><li>O</li><li>P</li><li>Q</li><li>R</li><li><a href='/products-solutions/products/products-index.page#S'>S</a></li><li><a href='/products-solutions/products/products-index.page#T'>T</a></li><li><a href='/products-solutions/products/products-index.page#U'>U</a></li><li><a href='/products-solutions/products/products-index.page#V'>V</a></li><li><a href='/products-solutions/products/products-index.page#W'>W</a></li><li>X</li><li>Y</li><li>Z</li>";
+		</script>
+</div></div><div class="clearboth"></div><div id="sitePage"><div id="sideBar"><script src="/sites/dotcom/js/navsecondaryselect.js" type="text/javascript"></script><script language="javascript">
+            function MM_jumpMenu(targ,selObj,restore){ //v3.0
+            if(selObj.value.startsWith('#')){return false;}
+            eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+            if (restore) selObj.selectedIndex=0;
+            }
+            String.prototype.startsWith = function(str) 
+            {return (this.match("^"+str)==str)}                  
+        </script><div id="sideNav">
+<div class="inner">
+<div class="sideNavSection">
+<p>
+<a href="/company/news_room/index.page">News Room</a>
+</p>
+</div>
+<div class="sideNavSection">
+<p>
+<a href="/company/news-events/index.page">Events</a>
+</p>
+</div>
+<div class="sideNavSection">
+<p>
+<a href="/company/investors/index.page">Investor Relations</a>
+</p>
+</div>
+<div class="sideNavSection">
+<p>
+<a href="/company/corporate-citizenship/index.page">Corporate Citizenship</a>
+</p>
+</div>
+<div class="sideNavSection">
+<p>
+<a href="/company/customer-success-stories/index.page">Customer Success Stories</a>
+</p>
+</div>
+<div class="sideNavSection">
+<p>
+<a href="/company/careers/index.page">Careers</a>
+</p>
+</div>
+<div class="sideNavSection">
+<p>
+<a href="/company/contact-us/index.page">Contact Us</a>
+</p>
+</div>
+</div>
+</div><div id="productSelect">
+<form action="/dotcom/company/privacy.page?&amp;submit=true&amp;componentID=1220980207287" id="productSelect" method="post">
+<select onfocus="window.showDropdownMenu(this)" onchange="MM_jumpMenu('parent', this, 0)"><option value="#">
+                            Select A Product
+                        </option><option class="ps-category" value="#1">
+                                    ----Blades----------------------------------------</option><option value="/products-solutions/products/fabric-applications/product-details/FA4-18_application_blade/index.page">Brocade FA4-18 Application Blade</option><option value="/sites/dotcom/products-solutions/products/fabric-extension/product-details/FC4-16IP-iSCSI-blade/index.page">Brocade FC4-16IP ISCSI Blade</option><option value="/products-solutions/products/switches/product-details/FS8-18_encryption_blade/index.page">Brocade FS8-18 Encryption Blade</option><option class="ps-category" value="#4">
+                                    ----Brocade Server Connectivity Products----------------------------------------</option><option value="/products-solutions/products/server-connectivity/product-details/1010-1020-cna/index.page">Brocade 1010 and 1020 FCoE CNAs</option><option value="/products-solutions/products/server-connectivity/product-details/fc-415-425-hba/index.page">Brocade 415 and 425 Fibre Channel HBAs</option><option value="/products-solutions/products/server-connectivity/product-details/fc-815-825-hba/index.page">Brocade 815 and 825 Fibre Channel HBAs</option><option class="ps-category" value="#7">
+                                    ----CEE and FCoE----------------------------------------</option><option value="/sites/dotcom/products-solutions/products/cee-fcoe/product-details/8000-switch/index.page">Brocade 8000 Switch</option><option value="/sites/dotcom/products-solutions/products/cee-fcoe/product-details/fcoe10-24-blade/index.page">Brocade FCOE10-24 Blade</option><option class="ps-category" value="#9">
+                                    ----DCX Backbones----------------------------------------</option><option value="/products-solutions/products/dcx-backbone/index.page">Brocade DCX Backbones</option><option class="ps-category" value="#10">
+                                    ----Director----------------------------------------</option><option value="/products-solutions/products/directors/product-details/48000-director/index.page">Brocade 48000 Director</option><option class="ps-category" value="#11">
+                                    ----Fabric Applications----------------------------------------</option><option value="/products-solutions/products/fabric-applications/product-details/data-migration-manager/index.page">Brocade Data Migration Manager</option><option value="/products-solutions/products/fabric-applications/product-details/emc-invista-on-brocade/index.page">EMC Invista on Brocade</option><option value="/products-solutions/products/fabric-applications/product-details/emc-recoverpoint-on-brocade/index.page">EMC RecoverPoint on Brocade</option><option class="ps-category" value="#14">
+                                    ----IP/Ethernet - Application Delivery----------------------------------------</option><option value="/sites/dotcom/products-solutions/products/ethernet-switches-routers/application-delivery/product-details/serveriron-350-450-850-plus-series/index.page">Brocade ServerIron 350, 450, and 850 Plus Series</option><option value="/sites/dotcom/products-solutions/products/ethernet-switches-routers/application-delivery/product-details/serveriron-350-450-850-series/index.page">Brocade ServerIron 350, 450, and 850 Series</option><option value="/sites/dotcom/products-solutions/products/ethernet-switches-routers/application-delivery/product-details/serveriron-4g-application-switches/index.page">Brocade ServerIron 4G Application Switches</option><option value="/sites/dotcom/products-solutions/products/ethernet-switches-routers/application-delivery/product-details/serveriron-adx-series/index.page">Brocade ServerIron ADX Series</option><option value="/sites/dotcom/products-solutions/products/ethernet-switches-routers/application-delivery/product-details/serveriron-gt-c-series/index.page">Brocade ServerIron GT C-Series</option><option class="ps-category" value="#19">
+                                    ----IP/Ethernet - Enterprise and Mobility----------------------------------------</option><option value="/sites/dotcom/products-solutions/products/ethernet-switches-routers/enterprise-mobility/product-details/airdefense-for-brocade-mobility-family/index.page">AirDefense for Brocade Mobility Family</option><option value="/sites/dotcom/products-solutions/products/ethernet-switches-routers/enterprise-mobility/product-details/bigiron-rx-series/index.page">Brocade BigIron RX Series</option><option value="/sites/dotcom/products-solutions/products/ethernet-switches-routers/enterprise-mobility/product-details/fastiron-cx-series/index.page">Brocade FastIron CX Series</option><option value="/sites/dotcom/products-solutions/products/ethernet-switches-routers/enterprise-mobility/product-details/fastiron-edge/index.page">Brocade FastIron Edge</option><option value="/sites/dotcom/products-solutions/products/ethernet-switches-routers/enterprise-mobility/product-details/fastiron-edge-series-poe/index.page">Brocade FastIron Edge Series PoE</option><option value="/sites/dotcom/products-solutions/products/ethernet-switches-routers/enterprise-mobility/product-details/fastiron-edge-x-series/index.page">Brocade FastIron Edge X Series</option><option value="/sites/dotcom/products-solutions/products/ethernet-switches-routers/enterprise-mobility/product-details/fastiron-gs-series/index.page">Brocade FastIron GS Series</option><option value="/sites/dotcom/products-solutions/products/ethernet-switches-routers/enterprise-mobility/product-details/fastiron-ls-series/index.page">Brocade FastIron LS Series</option><option value="/sites/dotcom/products-solutions/products/ethernet-switches-routers/enterprise-mobility/product-details/fastiron-superx-family/index.page">Brocade FastIron SuperX Family</option><option value="/sites/dotcom/products-solutions/products/ethernet-switches-routers/enterprise-mobility/product-details/fastiron-ws-series/index.page">Brocade FastIron WS Series</option><option value="/sites/dotcom/products-solutions/products/ethernet-switches-routers/enterprise-mobility/product-details/mobility-family/index.page">Brocade Mobility Family</option><option value="/sites/dotcom/products-solutions/products/ethernet-switches-routers/enterprise-mobility/product-details/turboiron-24x-switch/index.page">Brocade TurboIron 24X Switch</option><option class="ps-category" value="#31">
+                                    ----IP/Ethernet - Network Management----------------------------------------</option><option value="/sites/dotcom/products-solutions/products/ethernet-switches-routers/network-management/product-details/ironview-network-manager/index.page">Brocade IronView Network Manager</option><option class="ps-category" value="#32">
+                                    ----IP/Ethernet - Service Provider----------------------------------------</option><option value="/sites/dotcom/products-solutions/products/ethernet-switches-routers/service-provider/product-details/netiron-cer-series/index.page">Brocade NetIron CER 2000 Series</option><option value="/sites/dotcom/products-solutions/products/ethernet-switches-routers/service-provider/product-details/netiron-ces-2000-series/index.page">Brocade NetIron CES 2000 Series</option><option value="/sites/dotcom/products-solutions/products/ethernet-switches-routers/service-provider/product-details/netiron-mlx-series/index.page">Brocade NetIron MLX Series</option><option value="/sites/dotcom/products-solutions/products/ethernet-switches-routers/service-provider/product-details/netiron-xmr-series/index.page">Brocade NetIron XMR Series</option><option class="ps-category" value="#36">
+                                    ----Management Software----------------------------------------</option><option value="/products-solutions/products/fabric-management-software/product-details/dcfm-enterprise/index.page">Brocade DCFM Enterprise</option><option value="/products-solutions/products/fabric-management-software/product-details/dcfm-professional/index.page">Brocade DCFM Professional</option><option value="/sites/dotcom/products-solutions/products/fabric-management-software/product-details/dcfm-professional-plus/index.page">Brocade DCFM Professional Plus</option><option value="/products-solutions/products/fabric-management-software/product-details/efcm/index.page">Brocade EFCM</option><option value="/sites/dotcom/products-solutions/products/fabric-management-software/product-details/host-connectivity-manager/index.page">Brocade Host Connectivity Manager</option><option value="/sites/dotcom/products-solutions/products/fabric-management-software/product-details/ironview-network-manager/index.page">Brocade IronView Network Manager</option><option value="/products-solutions/products/fabric-management-software/product-details/mgmt-pack-for-microsoft-system-center/index.page">Brocade Management Pack for Microsoft System Center</option><option value="/products-solutions/products/fabric-management-software/product-details/web-tools/index.page">Brocade Web Tools</option><option class="ps-category" value="#44">
+                                    ----SAN Extension----------------------------------------</option><option value="/sites/dotcom/products-solutions/products/san-extension/product-details/7500-extension-switch/index.page">Brocade 7500 Extension Switch</option><option value="/sites/dotcom/products-solutions/products/san-extension/product-details/7500E-extension-switch/index.page">Brocade 7500E Extension Switch</option><option value="/sites/dotcom/products-solutions/products/san-extension/product-details/7800-extension-switch/index.page">Brocade 7800 Extension Switch</option><option value="/sites/dotcom/products-solutions/products/san-extension/product-details/edge-M3000-storage-router/index.page">Brocade Edge M3000 Storage Router</option><option value="/sites/dotcom/products-solutions/products/san-extension/product-details/FR4-18i-extension-blade/index.page">Brocade FR4-18i Blade</option><option value="/sites/dotcom/products-solutions/products/san-extension/product-details/FX8-24-extension-blade/index.page">Brocade FX8-24 Extension Blade</option><option value="/sites/dotcom/products-solutions/products/san-extension/product-details/USD-X/index.page">Brocade USD-X</option><option class="ps-category" value="#51">
+                                    ----SAN I/O Modules----------------------------------------</option><option value="/sites/dotcom/products-solutions/products/blade-server-SAN-IO-modules/index.page">Blade Server SAN I/O Modules</option><option class="ps-category" value="#52">
+                                    ----SAN Switches----------------------------------------</option><option value="/products-solutions/products/switches/product-details/300-switch/index.page">Brocade 300 SAN Switch</option><option value="/products-solutions/products/switches/product-details/5100-switch/index.page">Brocade 5100 SAN Switch</option><option value="/products-solutions/products/switches/product-details/5300-switch/index.page">Brocade 5300 SAN Switch</option><option value="/products-solutions/products/switches/product-details/encryption-switch/index.page">Brocade Encryption SAN Switch</option><option value="/sites/dotcom/products-solutions/products/switches/product-details/va-40fc-switch/index.page">Brocade VA-40FC SAN Switch</option><option class="ps-category" value="#57">
+                                    ----Small Form-Factor Pluggables (SFP)----------------------------------------</option><option value="/products-solutions/products/tranceivers/index.page">Brocade Transceiver Modules</option></select>
+</form>
+</div>
+<div id="promos">
+<ul>
+<li>
+<h4>Brocade Communities</h4>
+<a href="http://community.brocade.com/">Connect Now<span class="arrow">»</span></a>
+</li>
+<li>
+<h4>TechBytes Webcast</h4>
+<a href="http://www.brocade.com/company/news-events/webcasts/techbytes/solutions.page">View Now<span class="arrow">»</span></a>
+</li>
+<li>
+<h4>Brocade Power Calculator</h4>
+<a href="/power">Run the Numbers<span class="arrow">»</span></a>
+</li>
+</ul>
+</div>
+</div><div id="siteContent"><div class="inner"><div style="margin:0px 13px 13px 0px;float:left;min-height:659px;height: auto !important;height:659px;width:675px;"><div style="background-color: #ffffff;">
+<p></p><p><strong>Privacy Statement</strong> <br>Privacy is important to Brocade Communications Systems, Inc. ("Brocade" or "we"). This privacy policy explains Brocade's web site and services (collectively, the "Service"). Effective Date: June 17, 2004. </p>
+<p>If you feel that Brocade is not abiding by this privacy policy, you should contact the Webmaster at <a href="mailto:privacy@brocade.com" mce_real_href="mailto:privacy@brocade.com">privacy@brocade.com</a>. </p>
+<p><strong>Information Collection and Use</strong><br>We collect the following personally identifiable information about our users: name, e-mail address, telephone number, business address, shipping address, social security number, preferred means of communication, credit card information and other information voluntarily provided. This personally identifiable information is typically provided when users register for online services, purchase products online, or participate in contests, surveys or sweepstakes. We also collect information about users regarding web pages accessed, traffic patterns and site usage. <br>We, our service providers and our vendors may use any information collected by users: to operate the Service; to effect users' transactions; to provide better services, products and opportunities to users; to notify users about services, products and opportunities that may be of interest to such users; to create and share reports about users' transactions; and for other marketing purposes. We may also trade, sell, rent or otherwise share your personally identifiable information with other third parties, including our business partners.</p>
+<p><strong>Cookies</strong><br>Cookies are pieces of information stored on your hard drive containing information about you. These pieces of information allow the Service to remember important information that will make your use of the Service more useful. Brocade uses cookies for a variety of purposes. For instance, we use cookies to allow your automated login and to track your preferences and usage. You can choose to reject or turn off the cookies through your browser settings. If you reject or turn off the cookies, you may still use the Service. The only drawback to this is that you will be limited in some areas of the Service. For example, you will not be able to participate in any of our sweepstakes, contests or monthly drawings that we may offer.</p>
+<p><strong>Log Files</strong><br>We use IP addresses to analyze trends, administer the Service, track users' movements, and gather demographic information.</p>
+<p><strong>Security</strong><br>We use security measures, such as firewalls and Security Socket Layers ("SSL"), to safeguard the confidentiality of our users' personally identifiable information. Information we collect about our users is stored on secured servers. However, "perfect security" does not exist. If you have any questions about the security of the Service, please send an e-mail to <a href="mailto:privacy@brocade.com" mce_real_href="mailto:privacy@brocade.com">privacy@brocade.com</a>.</p>
+<p><strong>Minors</strong><br>Minors (individuals below the age of 18) are not eligible to use the Service and no portion of the Service is directed towards minors. We do not knowingly solicit any information about minors or market to minors.</p>
+<p><strong>Disclosure Required by Law</strong><br>We cooperate with law enforcement agencies in identifying those who use the Service for illegal activities. Therefore, we respond to subpoenas, warrants or other court orders regarding information concerning any users. We will, at our discretion, disclose information if we believe that we are required to do so by law, that such disclosure is necessary to protect us from legal liability or that we should do so to protect the integrity of the Service.</p>
+<p><strong>Correction/Updating Personally Identifiable Information</strong><br>If your personally identifiable information changes, or if you no longer desire Brocade's services, we will endeavor to provide a way to correct, update or remove the data you provided to us. This can usually be done at the member information page or by sending an e-mail to <a href="mailto:privacy@brocade.com" mce_real_href="mailto:privacy@brocade.com">privacy@brocade.com</a>.</p>
+<p><strong>Your Consent; Notification of Changes</strong><br>By using the Service, you consent to Brocade's collection and use of the information described in this privacy policy. If we decide to change this privacy policy, we will post those changes via our homepage so our users are aware of what information we collect, how we use it, and under what circumstances we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of an e-mail. Please check this policy from time to time to make sure that you are aware of our latest privacy policy.</p><p></p>
+<p>
+</p>
+</div>
+</div></div><div class="page-corner-tr"></div></div><div id="contentBottom"></div><div id="siteFooter"><div style="display:none;">
+<script src="/sites/dotcom/js/omniture/s_code.js" type="text/javascript"></script><script type="text/javascript" language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName=document.title;
+s.server="";
+s.channel="";
+s.pageType="";
+s.prop1="";
+s.prop2="";
+s.prop3="";
+s.prop4="";
+s.prop5="";
+/* Conversion Variables */
+s.campaign="";
+s.state="";
+s.zip="";
+s.events="";
+s.products="";
+s.purchaseID="";
+s.eVar1="";
+s.eVar2="";
+s.eVar3="";
+s.eVar4="";
+s.eVar5="";
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+</div>
+<ul id="footerNav">
+<li>
+<a href="/company/rssfeeds.page" class="feed">RSS Feeds</a>
+</li>
+<li>
+<a href="/company/contact-us/contact_email.page">Contact Us</a>
+</li>
+<li>
+<a href="/sitemap/index.page">Site Map</a>
+</li>
+<li>
+<a href="/company/privacy.page">Privacy</a>
+</li>
+<li>
+<a href="/company/legal.page">Legal</a>
+</li>
+<li>
+<a href="http://www.brcd.com">Investor Relations</a>
+</li>
+</ul>
+</div></div></div></body></html>
