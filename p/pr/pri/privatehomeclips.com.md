@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privatehomeclips.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417083337id_/http%3A//www.privatehomeclips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privatehomeclips.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202142402id_/http%3A//www.privatehomeclips.com/privacy.html) for the most accurate reproduction.*
 
 # OUR COMMITMENT TO PRIVACY
 
