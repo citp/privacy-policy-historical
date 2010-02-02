@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the aofas.org privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428153600id_/http%3A//www.aofas.org/Scripts/4Disapi.dll/4DCGI/cms/review.html%3FAction%3DCMS_Document%26DocID%3D180) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aofas.org privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202193304id_/http%3A//www.aofas.org/Scripts/4Disapi.dll/4DCGI/cms/review.html%3FAction%3DCMS_Document%26DocID%3D180) for the most accurate reproduction.*
 
 # AOFAS Privacy Statement and Usage Disclosure
 
-**AOFAS Privacy Statement and Usage Disclosure  
-**  
-AOFAS values your privacy. This Privacy Statement will make you aware of our privacy practices so you can rest assured you have a complete understanding of how we respect your privacy and the steps we will take to safeguard your privacy.  
 AOFAS does not sell or rent your personal information to third parties without your explicit consent (this includes consent via e-mail). Nor does AOFAS use any information about your use of the site to market to you directly.
 
 AOFAS does not retain or use personal information about your use of our site. AOFAS may collect and track various non-personal information based on your use of this site for our internal purposes in furtherance of serving our users, such as your IP address, the URL address you came from, and the URL address you go to next. This information is aggregated and is not used or disclosed by AOFAS in a personally-identifiable manner.
