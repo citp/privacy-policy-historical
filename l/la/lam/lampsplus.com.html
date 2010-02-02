@@ -1,689 +1,386 @@
-<!--The following is the downloaded HTML source of the lampsplus.com privacy policy that was archived on 2009-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090507152236id_/http%3A//www.lampsplus.com/htmls/help/security.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lampsplus.com privacy policy that was archived on 2010-02-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100202084043id_/http%3A//www.lampsplus.com/htmls/help/security.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>LAMPS PLUS Security and Privacy Policy</title>
 <meta name="Description" content="LAMPS PLUS security and privacy policy. LAMPS PLUS policies cookies, LAMPS PLUS privacy policy, LAMPS PLUS email and e-mail referral policy, opting out of lamps plus mailings, LAMPS PLUS protecting children policy, LAMPS PLUS policy changes.">
 <meta name="Keywords" content="LAMPS" plus="" security="" and="" privacy,="" lamps="" company="" privacy="" policy,="" lighting="" at="" shopping="" for="" lighting."="">
-<link href="helpstyles.css" rel="stylesheet" type="text/css">
-<link href="../../2005.css" rel="stylesheet" type="text/css">
+<link href="/2005.css" rel="stylesheet" type="text/css"><style type="text/css">td{text-align:left;}</style>
 </head>
 
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#ffffff">
-	 <!--navigation bar-->
+<body>
+     <!--navigation bar-->
 		
+<script type="text/javascript" src="/js/lpjquery.js"></script>
+<script type="text/javascript" src="/js/json2.js"></script>
+<div id="divHdr">
+    <div id="divHdrWrapper">
+<div id="divToolbar">
+	<a href="http://www.lampsplus.com/" id="aLogo"><img src="/images/global/lamps-plus.png" width="222" height="53" alt="Lamps Plus"></a>
+	<div id="divCrtSrch">
+		<a href="http://www.lampsplus.com/htmls/cart/shoppingcart.aspx" id="aYourCart" rel="nofollow"><img src="/images/global/your-cart.gif" width="48" height="32" alt="Your Cart"><span id="spnCartCount"></span></a>
+		<a href="https://secure.lampsplus.com/secure/contact-us/callback1.asp" id="aPhone"><img src="/images/global/1-800-782-1967.gif" width="101" height="32" alt="1-800-782-1967"></a>
+		<a href="http://www.lampsplus.com/htmls/ordertrack/index.aspx" id="aOrderStatus"><img src="/images/global/order-status.gif" width="65" height="32" alt="Order Status"></a>
+		<br class="clear">
+		<input type="text" id="inpSearch" value="keyword or item #" onfocus="this.value = '';" onkeydown="if ((event.which &amp;&amp; event.which == 13) || (event.keyCode &amp;&amp; event.keyCode == 13)){document.getElementById('inpSearchBtn').click();return false;} else return true;">
+		<input type="image" id="inpSearchBtn" src="/images/global/search.png" onclick="HeaderSearch();return false;">
+	</div><br class="clear">
+</div>
+<ul id="ulSiteShortcuts">
+	<li><a href="http://www.lampsplus.com/products/onsale_view-on-sale-items/"><img src="/images/global/sale.gif" width="52" height="27" alt="Sale"></a></li>
+	<li><a href="http://www.lampsplus.com/htmls/clearance/clearance.asp"><img src="/images/global/clearance.gif" width="91" height="27" alt="Clearance"></a></li>
+	<li><a href="http://www.lampsplus.com/lighting-catalog/"><img src="/images/global/catalog.gif" width="78" height="27" alt="Catalog"></a></li>
+	<li><a href="http://www.lampsplus.com/shop-by-room/"><img src="/images/global/shop-by-room.gif" width="121" height="27" alt="Shop By Room"></a></li>
+	<li><a href="http://www.lampsplus.com/stores/"><img src="/images/global/stores.gif" width="58" height="27" alt="Stores"></a></li>
+	<li id="aPortfolioSS">
+		<table cellpadding="0" cellspacing="0" align="center"><tbody><tr><td>
+			<a href="http://www.lampsplus.com/portfolio/default.aspx" rel="nofollow"><img src="/images/global/portfolio.gif" width="52" height="27" alt="Portfolio" style="margin-right:4px;"></a>
+		</td><td><a href="http://www.lampsplus.com/portfolio/default.aspx" rel="nofollow"><span id="portfolioItemCount"></span></a></td></tr></tbody></table>
+	</li>
+	<li><a href="http://www.lampsplus.com/htmls/projects/" rel="nofollow"><img src="/images/global/project.gif" width="61" height="27" alt="Project"></a></li>
+	<li><a href="https://secure.lampsplus.com/secure/contact-us/callback1.asp" rel="nofollow"><img src="/images/global/contact-us.gif" width="101" height="27" alt="Contact Us"></a></li>
+	<li><a href="javascript:popupRateThisPage();" rel="nofollow"><img src="/images/global/review-us.gif" width="108" height="27" alt="Review Us"></a></li>
+</ul>
 
-<script language="javascript" type="text/javascript">var m_IsPro = 'False'</script>
-<style type="text/css">@import "/includes/nv/advanced0306.css";</style>
-<script language="javascript" type="text/javascript" src="/js/navbarmenuascx_funcs1.js"></script>
-<script language="javascript">
-	var strButtonID;
-	function popupRateThisPage()
-	{
-		var strValues = "?url=" + window.location;
-		makeAjaxRequest(window.location.href.substr(0,5).replace(":","")  + "://" + document.domain + "/WebServices/EmailToFriend.asmx","getLocationId",strValues)
-	}
-function makeAjaxRequest(strServiceUrl,strFunctionCall,strParams) {
-			var strRetVal = '';
-			var httpRequest;
-
-			if (window.XMLHttpRequest) { // Mozilla, Safari, ...
-				httpRequest = new XMLHttpRequest();
-				if (httpRequest.overrideMimeType) {
-					httpRequest.overrideMimeType('text/xml');
-				}/**/
-			} 
-			else if (window.ActiveXObject) { // IE
-				try {
-					httpRequest = new ActiveXObject("Msxml2.XMLHTTP");
-					} 
-					catch (e) {
-							try {
-									httpRequest = new ActiveXObject("Microsoft.XMLHTTP");
-								} 
-								catch (e) {}
-							}
-					}
-
-			if (!httpRequest) {
-				return false;
-			}
-			httpRequest.onreadystatechange = function() 
-			{ 
-				
-				if(httpRequest.readyState == 4)
-				{
-				var xmldoc = httpRequest.responseXML;
-				
-					var root_node = xmldoc.getElementsByTagName('int')[0];
-					if(root_node.firstChild)
-					{
-							var winOpenn;
-							winOpenn = window.open("/htmls/RateThisPage/default.aspx?location=" + root_node.firstChild.nodeValue ,"Processing","toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=0,width=600,height=540,left=200,top=180");
-							winOpenn.focus();
-					}
-					else 
-					{
-						theForm.btnSendEmail.disabled= "false";
-						alert("There was a problem sending your email. Please make sure the email address is valid.");
-					}
-				}
-			};
-			//httpRequest.open('GET', '/webservices/GetTopLevelProductCategory.asmx/GetTopLevelProductCategory?strVal=http://www.lampsplus.com/Products/Ceiling-Fans/', true);
-			httpRequest.open('GET', strServiceUrl +'/'+strFunctionCall + strParams, true);
-			httpRequest.send(null);/**/
-		}
-
-
-	function clearProfessionalsCookie()
-	{
-		DeleteCookie('professionalsonlineid');
-		document.location.replace("http://www.lampsplus.com/");
-	}
-	function MakeCookie(strName,strVal,dtDays) {
-		if (dtDays) {
-			var date = new Date();
-			date.setTime(date.getTime()+(dtDays*24*60*60*1000));
-			var expires = "; expires="+date.toGMTString();
-		}
-		else var expires = "";
-		/* Erase the cookie with and without the domain */
-		document.cookie = strName+"="+strVal+expires+"; path=/; domain=.lampsplus.com;";
-		document.cookie = strName+"="+strVal+expires+"; path=/;";
-	}
-
-	function DeleteCookie(name) {
-		MakeCookie(name,"",-1);
-	}
-</script>
-<script language="javascript" src="/js/navbarmenu10272004.js"></script><style type="text/css">
-.clLevel1,.clLevel1over{text-align:left; }
-</style>
-
-<script language="javascript" src="/includes/nv/globalnav2.js"></script>
-
-<style type="text/css">@import "/navigationBar.css";</style>
-
-
-	<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="center"><div id="divTopNav">
-		<div id="divTopSearch">
-			<a href="http://www.lampsplus.com/"><img src="/images/header/LAMPS-PLUS.gif" id="imgLogo" alt="LAMPS PLUS - America's Lighting Superstore"></a>
-			
-			<a href="http://www.lampsplus.com/htmls/Cart/shoppingcart.aspx" rel="nofollow" name="top LAMPS PLUS Shopping Cart"><img src="/images/header/Shopping-Cart.gif" alt="View Cart" id="imgCart"></a>
-			<a href="http://www.lampsplus.com/htmls/ordertrack/index.aspx" name="top LAMPS PLUS Order Status"><img src="/images/header/Order-Status.gif" alt="Order Status" id="imgOrderStatus"></a>
-			<a href="https://secure.lampsplus.com/secure/contact-us/callback1.asp" name="1-800-782-1967"><img src="/images/header/1-800-782-1967.gif" alt="1-800-782-1967" id="imgFreephoneNumber"></a>
-			<input type="text" maxlength="50" id="txtSearch" onkeydown="if ((event.which &amp;&amp; event.which == 13) || (event.keyCode&amp;&amp;event.keyCode == 13)){document.getElementById('btnSearch').click();return false;} else return true; ">
-			<input type="image" src="/images/navigationbar/search.gif" id="btnSearch" onclick="canSearchforAscx();">
-			<div id="divGoogleSearch"><asp:literal id="litGglSrchLink" runat="server"></asp:literal></div>
+</div>
+<div id="divNavWrapper">
+	<div id="divNav">
+		<div id="divCeilingLights">
+			<a href="http://www.lampsplus.com/ceiling-lighting/" name="nav_Ceiling_Lights" id="aCeilingLights" class="aNavBtn"></a>
+			<div>
+				<a href="http://www.lampsplus.com/ceiling-lighting/" name="nav_Ceiling_Lighting_All_Ceiling_Lighting">All Ceiling Lighting</a>
+				<a href="http://www.lampsplus.com/ceiling-medallions-and-cord-covers/" name="nav_Ceiling_Lighting_Ceiling_Medallions">Ceiling Medallions</a>
+				<a href="http://www.lampsplus.com/products/close-to-ceiling-lights/" name="nav_Ceiling_Lighting_Close_to_Ceiling_Lights">Close to Ceiling Lights</a>
+				<a href="http://www.lampsplus.com/products/chandeliers/" name="nav_Ceiling_Lighting_Chandeliers">Chandeliers</a>
+				<a href="http://www.lampsplus.com/products/chandeliers/style_crystal/" name="nav_Ceiling_Lighting_Crystal_Chandeliers">Crystal Chandeliers</a>
+				<a href="http://www.lampsplus.com/products/chandeliers/usage_entryway/" name="nav_Ceiling_Lighting_Entryway">Entryway</a>
+				<a href="http://www.lampsplus.com/products/chandeliers/usage_island/" name="nav_Ceiling_Lighting_Island_Lights">Island Lights</a>
+				<a href="http://www.lampsplus.com/kitchen-lighting/" name="nav_Ceiling_Lighting_Kitchen_Lighting">Kitchen Lighting</a>
+				<a href="http://www.lampsplus.com/products/lighting-fixtures/" name="nav_Ceiling_Lighting_Lighting_Fixtures">Lighting Fixtures</a>
+				<a href="http://www.lampsplus.com/products/chandeliers/usage_mini@chandelier/" name="nav_Ceiling_Lighting_Mini_Chandelier">Mini Chandelier</a>
+				<a href="http://www.lampsplus.com/products/chandeliers/usage_mini@pendant/" name="nav_Ceiling_Lighting_Mini-Pendants">Mini-Pendants</a>
+				<a href="http://www.lampsplus.com/products/pendant-lighting/" name="nav_Ceiling_Lighting_Pendant_Lighting">Pendant Lighting</a>
+				<a href="http://www.lampsplus.com/products/chandeliers/usage_pool-table/" name="nav_Ceiling_Lighting_Pool_Table_Lights">Pool Table Lights</a>
+				<a href="http://www.lampsplus.com/htmls/RecessedLanding/mainlanding.aspx" name="nav_Ceiling_Lighting_Recessed_Lighting">Recessed Lighting</a>
+				<a href="http://www.lampsplus.com/products/chandeliers/usage_swag/" name="nav_Ceiling_Lighting_Swag_Chandeliers">Swag Chandeliers</a>
+				<a href="http://www.lampsplus.com/products/lighting-fixtures/style_tiffany/" name="nav_Ceiling_Lighting_Tiffany_Style_Lighting">Tiffany Style Lighting</a>
+				<a href="http://www.lampsplus.com/track-lighting/" name="nav_Ceiling_Lighting_Track_Type_Lighting">Track Type Lighting</a>
+				<a href="http://www.lampsplus.com/products/" name="nav_Ceiling_Lighting_View_All_Categories">View All Categories</a>
+			</div>
 		</div>
-		<div id="divStaticLinks">
-			<a name="top LAMPS PLUS Home" href="http://www.lampsplus.com/" rel="nofollow"><img src="/images/header/home.gif" alt="LAMPS PLUS Home"></a>
-			<a href="http://www.lampsplus.com/Products/OnSale_View-On-Sale-Items/" name="top On Sale"><img src="/images/header/on-sale.gif" alt="On Sale"></a>
-			<a href="http://www.lampsplus.com/htmls/clearance/clearance.asp" name="top Clearance"><img src="/images/header/clearance.gif" alt="Clearance"></a>
-			<a href="http://www.lampsplus.com/Lighting-Catalog/index.aspx" name="top Catalog"><img src="/images/header/catalog.gif" alt="Catalog"></a>
-			<a href="http://www.lampsplus.com/htmls/6b-1storelocations/storesinfo.asp" name="top Store Locator"><img src="/images/header/store-locator.gif" alt="Store Locator"></a>
-			<a href="http://www.lampsplus.com/htmls/myportfoliox/default.aspx" name="top My Portfolio" rel="nofollow"><img src="/images/header/portfolio.gif" alt="My Portfolio"></a>
-			<a href="http://www.lampsplus.com/htmls/projects/default.asp" name="top Projects" rel="nofollow"><img src="/images/header/projects.gif" alt="Projects"></a>
-			<a href="https://secure.lampsplus.com/secure/contact-us/callback1.asp" name="top Contact Us" rel="nofollow"><img src="/images/header/contact-us.gif" alt="Contact Us"></a>
-			<a href="javascript:popupRateThisPage();" rel="nofollow"><img src="/images/header/rate-this-page.gif" alt="Rate This Page"></a>
+		<div id="divLamps">
+			<a href="http://www.lampsplus.com/lamps/" name="nav_Lamps" id="aLamps" class="aNavBtn"></a>
+			<div>
+				<a href="http://www.lampsplus.com/lamps/" name="nav_Lamps_All_Lamps">All Lamps</a>
+				<a href="http://www.lampsplus.com/products/desk-lamps/" name="nav_Lamps_Desk_Lamps">Desk Lamps</a>
+				<a href="http://www.lampsplus.com/products/floor-lamps/" name="nav_Lamps_Floor_Lamps">Floor Lamps</a>
+				<a href="http://www.lampsplus.com/products/table-lamps/" name="nav_Lamps_Lamps">Lamps</a>
+				<a href="http://www.lampsplus.com/products/lamp-shades/" name="nav_Lamps_Lamp_Shades">Lamp Shades</a>
+				<a href="http://www.lampsplus.com/products/s_table-lamps-or-floor-lamps-not-lamp-shades/type_art-shade/" name="nav_Lamps_Lamps_with_Art_Shades">Lamps with Art Shades</a>
+				<a href="http://www.lampsplus.com/products/lava-lamps/" name="nav_Lamps_Lava_Lamps">Lava Lamps</a>
+				<a href="http://www.lampsplus.com/products/novelty-@-Accent-lamps/" name="nav_Lamps_Novelty-Accent_Lamps">Novelty - Accent Lamps</a>
+				<a href="http://www.lampsplus.com/products/table-lamps/" name="nav_Lamps_Table_Lamps">Table Lamps</a>
+				<a href="http://www.lampsplus.com/products/s_tiffany-lamps/" name="nav_Lamps_Tiffany_Style_Lighting">Tiffany Style Lamps</a>
+				<a href="http://www.lampsplus.com/products/floor-lamps/type_torchiere/" name="nav_Lamps_Torchieres">Torchieres</a>
+				<a href="http://www.lampsplus.com/products/up-lights-@-clip-lights/" name="nav_Lamps_Uplights-Cliplights">Up Lights - Clip Lights</a>
+				<a href="http://www.lampsplus.com/products/" name="nav_Lamps_View_All_Categories">View All Categories</a>
+			</div>
 		</div>
-	</div></td></tr></tbody></table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="center">
-<link rel="stylesheet" type="text/css" media="print" href="/print.css">
-<!--[if IE]>
-<style>
-.clsNVBestseller{left:397px;}
-#ulNvBestSellerCeilingFans{top:25px;}
-#ulNvBestSellerChandeliers{top:46px;}
-#ulNvBestSellerDesklamps{top:65px;}
-#ulNvBestSellerFloorLamps{top:87px;}
-#ulNvBestSellerFlushmountLighting{top:109px;}
-#ulNvBestSellerFurniture{top:127px;}
-#ulNvBestSellerLightingFixtures{top:134px;}
-#ulNvBestSellerOutdoorLighting{top:170px;}
-#ulNvBestSellerSemiFlushLighting{top:190px;}
-#ulNvBestSellerTableLamps{top:134px;}
-#ulNvBestSellerTiffanyLighting{top:194px;width:240px;left:327px;}
-#ulNvBestSellerTrackLighting{top:234px;}
-#ulNvBestSellerWallLamps{top:234px;}
-#ulNvBestSellerOtherLighting{top:234px;}
-#ulNvBestsellers li a{background-image:url('/images/header/imgTopNavHasChildrenIE.gif'); background-position:left; background-repeat:no-repeat;border-left:4px solid #fff;/**/}
-#ulNvHomeDecor{width:195px;left:575px;}
-</style>
-<![endif]-->
-
-<div id="divTopNavBarContainer">
-	<div id="divTopNavBar" style="">
-	    <div id="divTopNavBarInner" style="height:41px;">
-	        <!--<img src="/images/header/navsprites.gif" style="position:absolute;clip:rect(0px 770px 41px 0px);" />-->
-	        <div id="divPrintSpoofer" style="position:absolute;clip:rect(0px 770px 41px 0px);"><img src="/images/header/navsprites.gif" id="imgPrintSpoofer"></div>
-	        <ul id="ulTopNavBar">
-	            <li id="liNvCeilingLights">
-		            <a href="http://www.lampsplus.com/ceiling-lighting/" onmouseover="fncShowHideSubNavs(true,'ulNvCeilingLights');" onmouseout="fncShowHideSubNavs(false,'ulNvCeilingLights');">
-		            </a>
-	            </li>
-	            <li id="liNvLamps">
-		            <a href="http://www.lampsplus.com/lamps/" onmouseover="fncShowHideSubNavs(true,'ulNvLamps');" onmouseout="fncShowHideSubNavs(false,'ulNvLamps');">
-		            </a>
-	            </li>
-	            <li id="liNvWallLights">
-		            <a href="http://www.lampsplus.com/wall-lights/" onmouseover="fncShowHideSubNavs(true,'ulNvWallLights');" onmouseout="fncShowHideSubNavs(false,'ulNvWallLights');">
-		            </a>
-	            </li>
-	            <li id="liNvOutdoorLights">
-		            <a href="http://www.lampsplus.com/outdoor/" onmouseover="fncShowHideSubNavs(true,'ulNvOutdoorLighting');" onmouseout="fncShowHideSubNavs(false,'ulNvOutdoorLighting');">
-		            </a>
-	            </li>
-	            <li id="liNvCeilingFans">
-		            <a href="http://www.lampsplus.com/fans/" onmouseover="fncShowHideSubNavs(true,'ulNvFans');" onmouseout="fncShowHideSubNavs(false,'ulNvFans');">
-		            </a>
-	            </li>
-	            <li id="liNvOthers">
-		            <a href="http://www.lampsplus.com/other/" onmouseover="fncShowHideSubNavs(true,'ulNvOther');" onmouseout="fncShowHideSubNavs(false,'ulNvOther');">
-		            </a>
-	            </li>
-	            <li id="liNvBestSellers">
-		            <a href="http://www.lampsplus.com/htmls/best/default.aspx" onmouseover="fncShowHideSubNavs(true,'ulNvBestsellers');" onmouseout="fncShowHideSubNavs(false,'ulNvBestsellers');">
-		            </a>
-	            </li>
-	            <li id="liNvHomeDecor">
-		            <a href="http://www.lampsplus.com/home-decor/" onmouseover="fncShowHideSubNavs(true,'ulNvHomeDecor');" onmouseout="fncShowHideSubNavs(false,'ulNvHomeDecor');">
-		            </a>
-	            </li>
-            </ul>
-	    </div>
-	</div>
-	<div id="divTopNavBarSub">
-		<ul id="ulNvCeilingLights" onmouseover="fncShowHideSubNavs(true,'ulNvCeilingLights');fncManageHoverState('liNvCeilingLights',true);" onmouseout="fncShowHideSubNavs(false,'ulNvCeilingLights');fncManageHoverState('liNvCeilingLights',false);" "="">
-			<li class="clsNavFirstDropDownItem"><a href="http://www.lampsplus.com/ceiling-lighting/" name="nav Ceiling Lighting All Ceiling Lighting">All Ceiling Lighting</a></li>
-			<li><a href="http://www.lampsplus.com/htmls/medallions/medallionslanding.asp" name="nav Ceiling Lighting Ceiling Medallions">Ceiling Medallions</a></li>
-			<li><a href="http://www.lampsplus.com/Products/Close-To-Ceiling-Lights/" name="nav Ceiling Lighting Close to Ceiling Lights">Close to Ceiling Lights</a></li>
-			<li><a href="http://www.lampsplus.com/Products/Chandeliers/" name="nav Ceiling Lighting Chandeliers">Chandeliers</a></li>
-			<li><a href="http://www.lampsplus.com/Products/Chandeliers/style_Crystal/" name="nav Ceiling Lighting Crystal Chandeliers">Crystal Chandeliers</a></li>
-			<li><a href="http://www.lampsplus.com/Products/Chandeliers/Usage_Entryway/" name="nav Ceiling Lighting Entryway">Entryway</a></li>
-			<li><a href="http://www.lampsplus.com/Products/Chandeliers/Usage_Island/" name="nav Ceiling Lighting Island Lights">Island Lights</a></li>
-			<li><a href="http://www.lampsplus.com/Kitchen-Lighting/" name="nav Ceiling Lighting Kitchen Lighting">Kitchen Lighting</a></li>
-			<li><a href="http://www.lampsplus.com/Products/Lighting-Fixtures/" name="nav Ceiling Lighting Lighting Fixtures">Lighting Fixtures</a></li>
-			<li><a href="http://www.lampsplus.com/Products/Chandeliers/Usage_Mini@Chandelier/" name="nav Ceiling Lighting Mini Chandelier">Mini Chandelier</a></li>
-			<li><a href="http://www.lampsplus.com/Products/Chandeliers/Usage_Mini@Pendant/" name="nav Ceiling Lighting Mini-Pendants">Mini-Pendants</a></li>
-			<li><a href="http://www.lampsplus.com/Products/Pendant-Lighting/" name="nav Ceiling Lighting Pendant Lighting">Pendant Lighting</a></li>
-			<li><a href="http://www.lampsplus.com/Products/chandeliers/Usage_Pool-Table/" name="nav Ceiling Lighting Pool Table Lights">Pool Table Lights</a></li>
-			<li><a href="http://www.lampsplus.com/htmls/RecessedLanding/mainlanding.aspx" name="nav Ceiling Lighting Recessed Lighting">Recessed Lighting</a></li>
-			<li><a href="http://www.lampsplus.com/Products/Chandeliers/Usage_Swag/" name="nav Ceiling Lighting Swag Chandeliers">Swag Chandeliers</a></li>
-			<li><a href="http://www.lampsplus.com/Products/Lighting-Fixtures/Style_Tiffany/" name="nav Ceiling Lighting Tiffany Style Lighting">Tiffany Style Lighting</a></li>
-			<li><a href="http://www.lampsplus.com/track-lighting/track.asp" name="nav Ceiling Lighting Track Type Lighting">Track Type Lighting</a></li>
-			<li><a href="http://www.lampsplus.com/products/" name="nav Ceiling Lighting View All Categories">View All Categories</a></li>
-		</ul>
-		<ul id="ulNvLamps" onmouseover="fncShowHideSubNavs(true,'ulNvLamps');fncManageHoverState('liNvLamps',true);" onmouseout="fncShowHideSubNavs(false,'ulNvLamps');fncManageHoverState('liNvLamps',false);">
-			<li class="clsNavFirstDropDownItem">
-				<a href="http://www.lampsplus.com/lamps/" name="nav Lamps All Lamps">All Lamps</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Desk-Lamps/" name="nav Lamps Desk Lamps">Desk Lamps</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Floor-Lamps/" name="nav Lamps Floor Lamps">Floor Lamps</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Table-Lamps/" name="nav Lamps Lamps">Lamps</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/lamp-shades/" name="nav Lamps Lamp Shades">Lamp Shades</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/s_table-lamps-or-floor-lamps-not-lamp-shades/type_art-shade/" name="nav Lamps Lamps with Art Shades">
-					Lamps with Art Shades</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Lava-Lamps/" name="nav Lamps Lava Lamps">Lava Lamps</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Novelty-@-Accent-Lamps/" name="nav Lamps Novelty/Accent Lamps">Novelty - Accent Lamps</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Table-Lamps/" name="nav Lamps Table Lamps">Table Lamps</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/s_Tiffany-Lamps/" name="nav Lamps Tiffany Style Lighting">Tiffany 
-					Style Lamps</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Floor-Lamps/Type_Torchiere" name="nav Lamps Torchieres">Torchieres</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Up-Lights-@-Clip-Lights/" name="nav Lamps Uplights/Cliplights">Up Lights - Clip Lights</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/products/" name="nav Lamps View All Categories">View All Categories</a></li>
-		</ul>
-		<ul id="ulNvWallLights" onmouseover="fncShowHideSubNavs(true,'ulNvWallLights');fncManageHoverState('liNvWallLights',true);" onmouseout="fncShowHideSubNavs(false,'ulNvWallLights');fncManageHoverState('liNvWallLights',false);">
-			<li class="clsNavFirstDropDownItem">
-				<a href="http://www.lampsplus.com/wall-lights/" name="nav Wall Lights All Wall Lighting">All Wall Lighting</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Bathroom-Lighting/" name="nav Wall Lights Bathroom Lighting">Bathroom 
-					Lighting</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Picture-Lights/" name="nav Wall Lights Picture Lights">Picture 
-					Lights</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Sconces/" name="nav Wall Lights ">Sconces</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Wall-Lamps-@-Swing-Arms/" name="nav Wall Lights Wall Lamp/Swingarm">
-					Wall Lamps - Swing Arms</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Bathroom-Hardware/" name="nav Wall Lights Bathroom Hardware">Bathroom 
-					Hardware</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/products/" name="nav Wall Lights View All Categories">View All Categories</a></li>
-		</ul>
-		<ul id="ulNvOutdoorLighting" onmouseover="fncShowHideSubNavs(true,'ulNvOutdoorLighting');fncManageHoverState('liNvOutdoorLights',true);" onmouseout="fncShowHideSubNavs(false,'ulNvOutdoorLighting');fncManageHoverState('liNvOutdoorLights',false);">
-			<li class="clsNavFirstDropDownItem">
-				<a href="http://www.lampsplus.com/outdoor/" name="nav Outdoor Lighting All Outdoor Lighting">All Outdoor 
-					Lighting</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Outdoor-Lighting/" name="nav Outdoor Lighting Outdoor Lighting">Outdoor 
-					Lighting</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Landscape-Lighting/" name="nav Outdoor Lighting Landscape Lighting">
-					Landscape Lighting</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Mailboxes/" name="nav Outdoor Lighting Mailboxes">Mailboxes</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Party-Lights/" name="nav Outdoor Lighting Party Lights">Party 
-					Lights</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/products/" name="nav Outdoor Lighting View All Categories">View All 
-					Categories</a></li>
-		</ul>
-		<ul id="ulNvFans" onmouseover="fncShowHideSubNavs(true,'ulNvFans');fncManageHoverState('liNvCeilingFans',true);" onmouseout="fncShowHideSubNavs(false,'ulNvFans');fncManageHoverState('liNvCeilingFans',false);">
-			<li class="clsNavFirstDropDownItem">
-				<a href="http://www.lampsplus.com/fans/" name="nav Fans All Fans">All Fans</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Ceiling-Fans/" name="nav Fans Ceiling Fans">Ceiling Fans</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Desk-Fans-and-Floor-Fans/" name="nav Fans Desk Fans">Desk Fans 
-					and Floor Fans</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Fan-Light-Kits/" name="nav Fan Light Kits">Fan Light Kits</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/products/" name="nav Fans View All Categories">View All Categories</a></li>
-		</ul>
-		<ul id="ulNvOther" onmouseover="fncShowHideSubNavs(true,'ulNvOther');fncManageHoverState('liNvOthers',true);" onmouseout="fncShowHideSubNavs(false,'ulNvOther');fncManageHoverState('liNvOthers',false);">
-			<li class="clsNavFirstDropDownItem">
-				<a href="http://www.lampsplus.com/other/" name="nav Others All Other Categories">All Other Categories</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Accessories/" name="nav Others Accessories">Accessories</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Bathroom-Exhaust-Fans/">Bathroom Exhaust Fans</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/s_Dimmers-and-Controls/" name="nav Others Dimmers/Controls">Dimmers/Controls</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Glass-Shades/" name="nav Others Glass Shades">Glass Shades</a></li>
-			
-			<li>
-				<a href="http://www.lampsplus.com/kathy-ireland-home-air-purifiers/" name="nav Others Indoor Air Purifiers">Indoor Air Purifiers</a></li>
-	
-			<li>
-				<a href="http://www.lampsplus.com/Products/Light-Bulbs/" name="nav Others Light Bulbs">Light Bulbs</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Under-Cabinet-Lights/" name="nav Others Under Cabinet">Under Cabinet</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/products/" name="nav Others View All Categories">View All Categories</a></li>
-		</ul>
-		<ul id="ulNvBestsellers" onmouseover="fncShowHideSubNavs(true,'ulNvBestsellers');fncManageHoverState('liNvBestSellers',true);" onmouseout="fncShowHideSubNavs(false,'ulNvBestsellers');fncManageHoverState('liNvBestSellers',false);">
-			<li class="clsNavFirstDropDownItem" onmouseover="fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerBathroomLighting');" onmouseout="fncShowHideSubNavs(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerBathroomLighting');">
-				<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=BathroomLighting" name="nav Best Sellers Bathroom Lighting">
-					Bathroom Lighting</a></li>
-			<li onmouseover="fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerCeilingFans');" onmouseout="fncShowHideSubNavs(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerCeilingFans');">
-				<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=CeilingFans" name="nav Best Sellers Ceiling Fans">
-					Ceiling Fans</a></li>
-			<li onmouseover="fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerChandeliers');" onmouseout="fncShowHideSubNavs(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerChandeliers');">
-				<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=Chandeliers" name="nav Best Sellers Chandeliers">
-					Chandeliers</a></li>
-			<li onmouseover="fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerDesklamps');" onmouseout="fncShowHideSubNavs(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerDesklamps');">
-				<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=DeskLamps" name="nav Best Sellers Desk Lamps">
-					Desk Lamps</a></li>
-			<li onmouseover="fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerFloorLamps');" onmouseout="fncShowHideSubNavs(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerFloorLamps');">
-				<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=FloorLamps" name="nav Best Sellers Floor Lamps">
-					Floor Lamps</a></li>
-			<li onmouseover="fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerFlushmountLighting');" onmouseout="fncShowHideSubNavs(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerFlushmountLighting');">
-				<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=FlushmountLighting" name="nav Best Sellers Flushmount Lighting">
-					Flushmount Lighting</a></li>
-			<li onmouseover="fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerFurniture');" onmouseout="fncShowHideSubNavs(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerFurniture');">
-				<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=Furniture" name="nav Best Sellers Furniture">Furniture</a></li>
-			<li onmouseover="fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerLightingFixtures');" onmouseout="fncShowHideSubNavs(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerLightingFixtures');">
-				<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=LightingFixtures" name="nav Best Sellers Lighting Fixtures">
-					Lighting Fixtures</a></li>
-			<li onmouseover="fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerOutdoorLighting');" onmouseout="fncShowHideSubNavs(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerOutdoorLighting');">
-				<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=OutdoorLighting" name="nav Best Sellers Outdoor Lighting">
-					Outdoor Lighting</a></li>
-			<li onmouseover="fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerSemiFlushLighting');" onmouseout="fncShowHideSubNavs(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerSemiFlushLighting');">
-				<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=Semi-FlushmountLighting" name="nav Best Sellers Semi-Flushmount Lighting">
-					Semi-Flushmount Lighting</a></li>
-			<li onmouseover="fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerTableLamps');" onmouseout="fncShowHideSubNavs(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerTableLamps');">
-				<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=TableLamps" name="nav Best Sellers Table Lamps">
-					Table Lamps</a></li>
-			<li onmouseover="fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerTiffanyLighting');" onmouseout="fncShowHideSubNavs(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerTiffanyLighting');">
-				<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=TiffanyLighting" name="nav Best Sellers Tiffany Lighting">
-					Tiffany Lighting</a></li>
-			<li onmouseover="fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerTrackLighting');" onmouseout="fncShowHideSubNavs(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerTrackLighting');">
-				<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=TrackLighting" name="nav Best Sellers Track Lighting">
-					Track Lighting</a></li>
-			<li onmouseover="fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerWallLamps');" onmouseout="fncShowHideSubNavs(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerWallLamps');">
-				<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=WallLamps" name="nav Best Sellers Wall Lamps">
-					Wall Lamps</a></li>
-			<li onmouseover="fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerOtherLighting');" onmouseout="fncShowHideSubNavs(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerOtherLighting');">
-				<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=Other" name="nav Best Sellers Other Lighting">
-					Other Lighting</a></li>
-			
-			
-			
-			
-			
-			
-			<!--<li onmouseover="fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerBathroomLighting');" onmouseout="fncShowHideSubNavs(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerBathroomLighting');">
-				<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=BathroomLighting" name="nav Best Sellers Bathroom Lighting">
-					Bathroom Lighting</a></li>
-			<li onmouseover="fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerCeilingFans');" onmouseout="fncShowHideSubNavsNoDelay(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerCeilingFans');">
-				<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=BathroomLighting" name="nav Best Sellers Bathroom Lighting">
-					Bathroom Lighting</a></li>-->
-			
-			
-			
-		</ul>
-		<!--bestseller subNavigation-->
-		<ul class="clsNVBestseller" id="ulNvBestSellerBathroomLighting" onmouseover="boolBestSellersShow = true;fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerBathroomLighting');fncManageHoverState('liNvBestSellers',true);" onmouseout="fncShowHideSubNavsNoDelay(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerBathroomLighting');fncManageHoverState('liNvBestSellers',false);">
-			<li class="clsNavFirstDropDownItem">
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=BrushedSteelChromeBathroomLighting">Brushed 
-					Steel/Chrome</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=ContemporaryBathroomLighting">Contemporary</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TraditionalFinishBathroomLighting">Traditional</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TransitionalBathroomLighting">Transitional</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=Upto25BathroomLighting">Up to 25"</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=Over25BathroomLighting">Over 25"</a></li>
-		</ul>
-		<ul class="clsNVBestseller" id="ulNvBestSellerCeilingFans" onmouseover="boolBestSellersShow = true;fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerCeilingFans');fncManageHoverState('liNvBestSellers',true);" onmouseout="fncShowHideSubNavsNoDelay(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerCeilingFans');fncManageHoverState('liNvBestSellers',false);">
-			<li class="clsNavFirstDropDownItem">
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=CasablancaCeilingFans">Casablanca</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=ContemporaryCeilingFans">Contemporary</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=OutdoorPatioCeilingFans">Outdoor/Patio</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TraditionalCeilingFans">Traditional</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=DesktopCeilingFans">Desk Fans and Floor Fans</a></li>
-		</ul>
-		<ul class="clsNVBestseller" id="ulNvBestSellerChandeliers" onmouseover="boolBestSellersShow = true;fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerChandeliers');fncManageHoverState('liNvBestSellers',true);" onmouseout="fncShowHideSubNavsNoDelay(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerChandeliers');fncManageHoverState('liNvBestSellers',false);">
-			<li class="clsNavFirstDropDownItem">
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=AlabasterChandeliers">Alabaster</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=ContemporaryChandeliers">Contemporary</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=CrystalChandeliers">Crystal</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=EntrywayChandeliers">Entryway</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=IronChandeliers">Iron</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=JamesModerCrystal">James Moder Crystal</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=MiniChandeliers">Mini Chandeliers</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=MiniPendants">Mini Pendants</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=SchonbekChandeliers">Schonbek</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TiffanyChandeliers">Tiffany</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TraditionalChandeliers">Traditional</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=VictorianChandeliers">Victorian</a></li>
-		</ul>
-		<ul class="clsNVBestseller" id="ulNvBestSellerDesklamps" onmouseover="boolBestSellersShow = true;fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerDesklamps');fncManageHoverState('liNvBestSellers',true);" onmouseout="fncShowHideSubNavsNoDelay(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerDesklamps');fncManageHoverState('liNvBestSellers',false);">
-			<li class="clsNavFirstDropDownItem">
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=ContemporaryDeskLamps">Contemporary</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=FunctionalDeskLamps">Functional</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TraditionalDeskLamps">Traditional</a></li>
-		</ul>
-		<ul class="clsNVBestseller" id="ulNvBestSellerFloorLamps" onmouseover="boolBestSellersShow = true;fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerFloorLamps');fncManageHoverState('liNvBestSellers',true);" onmouseout="fncShowHideSubNavsNoDelay(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerFloorLamps');fncManageHoverState('liNvBestSellers',false);">
-			<li class="clsNavFirstDropDownItem">
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=ContemporaryFloorLamps">Contemporary</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=DesignerFinishFloorLamps">Designer Finish</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=IronFloorLamps">Iron</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TaskFloorLamps">Task</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TiffanyFloorLamps">Tiffany</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TraditionalFloorLamps">Traditional</a></li>
-		</ul>
-		<ul class="clsNVBestseller" id="ulNvBestSellerFlushmountLighting" onmouseover="boolBestSellersShow = true;fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerFlushmountLighting');fncManageHoverState('liNvBestSellers',true);" onmouseout="fncShowHideSubNavsNoDelay(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerFlushmountLighting');fncManageHoverState('liNvBestSellers',false);">
-			<li class="clsNavFirstDropDownItem">
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=BotanicalFlushmountLighting">Botanical</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=ContemporaryFlushmountLighting">Contemporary</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=CrystalFlushmountLighting">Crystal</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TransitionalFlushmountLighting">Transitional</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=FluorescentFlushmountLighting">Fluorescent</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TraditionalFlushmountLighting">Traditional</a></li>
-		</ul>
-		<ul class="clsNVBestseller" id="ulNvBestSellerFurniture" onmouseover="boolBestSellersShow = true;fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerFurniture');fncManageHoverState('liNvBestSellers',true);" onmouseout="fncShowHideSubNavsNoDelay(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerFurniture');fncManageHoverState('liNvBestSellers',false);">
-			<li class="clsNavFirstDropDownItem">
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=AccentFurniture">Accent</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=BathroomVanitiesFurniture">Bathroom Vanities</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=ChairsOttomans">Chairs and Ottomans</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=CasualFurniture">Casual</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=MissionArtsCraftsFurniture">Mission/Arts &amp; 
-					Crafts</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TraditionalFurniture">Traditional</a></li>
-		</ul>
-		<ul class="clsNVBestseller" id="ulNvBestSellerLightingFixtures" onmouseover="boolBestSellersShow = true;fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerLightingFixtures');fncManageHoverState('liNvBestSellers',true);" onmouseout="fncShowHideSubNavsNoDelay(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerLightingFixtures');fncManageHoverState('liNvBestSellers',false);">
-			<li class="clsNavFirstDropDownItem">
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=ContemporaryLightingFixtures">Contemporary</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=EntrywayLightingFixtures">Entry Way</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=IslandPoolTableLightingFixtures">Island/Pool 
-					Table</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=KitchenDinettePotRackLightingFixtures">Kitchen/Dinette/Pot 
-					Rack</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=MissionArtsCraftsLightingFixtures">Mission/Arts 
-					&amp; Crafts</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=PendantLightingFixtures">Pendant</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TiffanyLightingFixtures">Tiffany</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TraditionalLightingFixtures">Traditional</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=WroughtIronLightingFixtures">Wrought Iron</a></li>
-		</ul>
-		<ul class="clsNVBestseller" id="ulNvBestSellerOutdoorLighting" onmouseover="boolBestSellersShow = true;fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerOutdoorLighting');fncManageHoverState('liNvBestSellers',true);" onmouseout="fncShowHideSubNavsNoDelay(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerOutdoorLighting');fncManageHoverState('liNvBestSellers',false);">
-			<li class="clsNavFirstDropDownItem">
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=CeilingmountHangingOutdoorLighting">Ceilingmount/Hanging</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=PostmountOutdoorLighting">Postmount</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=WallmountOutdoorLighting">Wallmount</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=LandscapeOutdoorLighting">Landscape</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=ContemporaryOutdoorLighting">Contemporary</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=MissionOutdoorLighting">Mission</a></li>
-		</ul>
-		<ul class="clsNVBestseller" id="ulNvBestSellerSemiFlushLighting" onmouseover="boolBestSellersShow = true;fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerSemiFlushLighting');fncManageHoverState('liNvBestSellers',true);" onmouseout="fncShowHideSubNavsNoDelay(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerSemiFlushLighting');fncManageHoverState('liNvBestSellers',false);">
-			<li class="clsNavFirstDropDownItem">
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=CrystalSemi-FlushmountLighting">Crystal</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=ContemporarySemi-FlushmountLighting">Contemporary</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TransitionalSemi-FlushmountLighting">Transitional</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=IronSemi-FlushmountLighting">Iron</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TiffanySemi-FlushmountLighting">Tiffany</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TraditionalSemi-FlushmountLighting">Traditional</a></li>
-		</ul>
-		<ul class="clsNVBestseller" id="ulNvBestSellerTableLamps" onmouseover="boolBestSellersShow = true;fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerTableLamps');fncManageHoverState('liNvBestSellers',true);" onmouseout="fncShowHideSubNavsNoDelay(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerTableLamps');fncManageHoverState('liNvBestSellers',false);">
-			<li class="clsNavFirstDropDownItem">
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=BrassTableLamps">Brass</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=CasualIronTableLamps">Casual Iron</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=ChildrensTableLamps">Children's</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=ContemporaryTableLamps">Contemporary</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=CrystalTableLamps">Crystal</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=DesignerFinishTableLamps">Designer Finish</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=MissionArtsCraftsTableLamps">Mission/Arts &amp; 
-					Crafts</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TiffanyTableLamps">Tiffany</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TraditionalTableLamps">Traditional</a></li>
-		</ul>
-		<ul class="clsNVBestseller" id="ulNvBestSellerTiffanyLighting" onmouseover="boolBestSellersShow = true;fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerTiffanyLighting');fncManageHoverState('liNvBestSellers',true);" onmouseout="fncShowHideSubNavsNoDelay(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerTiffanyLighting');fncManageHoverState('liNvBestSellers',false);">
-			<li class="clsNavFirstDropDownItem">
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=MissionArtsCraftsLightingFixturesTiffanyLighting">
-					Mission/Arts &amp; Crafts Lighting Fixtures</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TiffanyLightingFixturesTiffanyLighting">Tiffany 
-					Lighting Fixtures</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TiffanySemi-FlushmountsTiffanyLighting">Tiffany 
-					Semi-Flushmounts</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=MissionArtsCraftsTableLampsTiffanyLighting">Mission/Arts 
-					&amp; Crafts Table Lamps</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TiffanyTableLampsTiffanyLighting">Tiffany Table 
-					Lamps</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TiffanyFloorLampsTorchieresTiffanyLighting">Tiffany 
-					Floor Lamps &amp; Torchieres</a></li>
-		</ul>
-		<ul class="clsNVBestseller" id="ulNvBestSellerTrackLighting" onmouseover="boolBestSellersShow = true;fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerTrackLighting');fncManageHoverState('liNvBestSellers',true);" onmouseout="fncShowHideSubNavsNoDelay(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerTrackLighting');fncManageHoverState('liNvBestSellers',false);">
-			<li class="clsNavFirstDropDownItem">
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=JunoTrackLighting">Juno</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=LightolierTrackLighting">Lightolier</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=WACTrackLighting">WAC</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=TrackKitsTrackLighting">Track Kits</a></li>
-		</ul>
-		<ul class="clsNVBestseller" id="ulNvBestSellerWallLamps" onmouseover="boolBestSellersShow = true;fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerWallLamps');fncManageHoverState('liNvBestSellers',true);" onmouseout="fncShowHideSubNavsNoDelay(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerWallLamps');fncManageHoverState('liNvBestSellers',false);">
-			<li class="clsNavFirstDropDownItem">
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=ContemporaryWallLamps">Contemporary</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=DesignerFinishesWallLamps">Designer Finishes</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=LargeWallLamps">Large</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=SwingarmsWallLamps">Swing Arms</a></li>
-		</ul>
-		<ul class="clsNVBestseller" id="ulNvBestSellerOtherLighting" onmouseover="boolBestSellersShow = true;fncShowHideSubNavsNoDelay(true,'ulNvBestsellers');fncShowHideSubNavsNoDelay(true,'ulNvBestSellerOtherLighting');fncManageHoverState('liNvBestSellers',true);" onmouseout="fncShowHideSubNavsNoDelay(false,'ulNvBestsellers');fncShowHideSubNavsNoDelay(false,'ulNvBestSellerOtherLighting');fncManageHoverState('liNvBestSellers',false);">
-			<li class="clsNavFirstDropDownItem">
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=UplightsOther">Uplights</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=CliplightsOther">Cliplights</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=WallFloorTableDimmersOther">Wall/Floor/Table 
-					Dimmers</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=PictureLightsOther">Picture Lights</a></li>
-		</ul>
-		<!--bestseller subNavigation-->
-		<ul id="ulNvHomeDecor" onmouseover="fncShowHideSubNavs(true,'ulNvHomeDecor');fncManageHoverState('liNvHomeDecor',true);" onmouseout="fncShowHideSubNavs(false,'ulNvHomeDecor');fncManageHoverState('liNvHomeDecor',false);">
-			<li class="clsNavFirstDropDownItem">
-				<a href="http://www.lampsplus.com/home-decor/" name="nav Home Decor All Home Decor">All Home Decor</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Home-Decor/Type_Bedding/" name="nav Bedding">Bedding</a></li>
-				
-			<li>
-				<a href="http://www.lampsplus.com/products/Bird-Houses-and-Feeders/" name="nav Bird Houses and Feeders">Bird Houses and Feeders</a></li>
-			
-			<li>
-				<a href="http://www.lampsplus.com/Products/home-decor/type_boxes/" name="nav Home Decor Boxes">Boxes</a></li>
-	
-			<li>
-				<a href="http://www.lampsplus.com/Products/home-decor/Type_Bowls/" name="nav Home Decor Bowls">
-					Bowls</a>
-			</li>
-			
-			
-			<li>
-				<a href="http://www.lampsplus.com/Products/home-decor/type_Candleholders-@-Candles/" name="nav Home Decor CandleHolders/Candles">
-					CandleHolders - Candles</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/home-decor/type_Clocks/" name="nav Home Decor ">Clocks</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/home-decor/type_Decorative-Objects/" name="nav Home Decor Decorative Objects">
-					Decorative Objects</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/home-decor/type_Drapery/" name="nav Home Decor ">Drapery</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/home-decor/type_Floral/" name="nav Home Decor Floral">Floral</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/home-decor/type_Fountains/" name="nav Home Decor Fountains">Fountains</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/home-decor/type_Frames/" name="nav Home Decor Frames">Frames</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Furniture/" name="nav Home Decor Furniture">Furniture</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Mirrors/" name="nav Home Decor Mirrors">Mirrors</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/home-decor/type_Pillows-@-Throws/" name="nav Home Decor Pillows/Throws">
-					Pillows - Throws</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/home-decor/type_Plates/" name="nav Home Decor Plates">Plates</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/products/Rugs/" name="nav Home Decor Area Rugs">Rugs</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/Sculpture/" name="nav Sculpture">Sculptures</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/Products/home-decor/type_Trays/" name="nav Home Decor Trays">Trays</a></li>
-			
-			<li>
-				<a href="http://www.lampsplus.com/Products/home-decor/Type_Vases/" name="nav Home Decor Vases">
-					Vases</a>
-			</li>
-			
-			<li>
-				<a href="http://www.lampsplus.com/Products/Wall-Art/" name="nav Home Decor Wall Art">Wall Art</a></li>
-			<li>
-				<a href="http://www.lampsplus.com/products/" name="nav Home Decor View All Categories">View All Categories</a></li>
-		</ul>
+		<div id="divWallLights">
+			<a href="http://www.lampsplus.com/wall-lights/" name="nav_Wall_Lights" id="aWallLights" class="aNavBtn"></a>
+			<div>
+				<a href="http://www.lampsplus.com/wall-lights/" name="nav_Wall_Lights_All_Wall_Lighting">All Wall Lighting</a>
+				<a href="http://www.lampsplus.com/products/bathroom-lighting/" name="nav_Wall_Lights_Bathroom_Lighting">Bathroom Lighting</a>
+				<a href="http://www.lampsplus.com/products/picture-lights/" name="nav_Wall_Lights_Picture_Lights">Picture Lights</a>
+				<a href="http://www.lampsplus.com/products/sconces/" name="nav_Wall_Lights_Sconces">Sconces</a>
+				<a href="http://www.lampsplus.com/products/wall-lamps-@-swing-arms/" name="nav_Wall_Lights_Wall_Lamp-Swingarm">Wall Lamps - Swing Arms</a>
+				<a href="http://www.lampsplus.com/products/bathroom-hardware/" name="nav_Wall_Lights_Bathroom_Hardware">Bathroom Hardware</a>
+				<a href="http://www.lampsplus.com/products/" name="nav_Wall_Lights_View_All_Categories">View All Categories</a>
+			</div>
+		</div>
+		<div id="divOutdoorLights">
+			<a href="http://www.lampsplus.com/outdoor/" name="nav_Outdoor_Lights" id="aOutdoorLights" class="aNavBtn"></a>
+			<div>
+				<a href="http://www.lampsplus.com/outdoor/" name="nav_Outdoor_Lighting_All_Outdoor_Lighting">All Outdoor Lighting</a>
+				<a href="http://www.lampsplus.com/products/outdoor-lighting/" name="nav_Outdoor_Lighting_Outdoor_Lighting">Outdoor Lighting</a>
+				<a href="http://www.lampsplus.com/products/landscape-lighting/" name="nav_Outdoor_Lighting_Landscape_Lighting">Landscape Lighting</a>
+				<a href="http://www.lampsplus.com/products/mailboxes/" name="nav_Outdoor_Lighting_Mailboxes">Mailboxes</a>
+				<a href="http://www.lampsplus.com/products/party-lights/" name="nav_Outdoor_Lighting_Party_Lights">Party Lights</a>
+				<a href="http://www.lampsplus.com/products/" name="nav_Outdoor_Lighting_View_All_Categories">View All Categories</a>
+			</div>
+		</div>
+		<div id="divCeilingFans">
+			<a href="http://www.lampsplus.com/fans/" name="nav_Ceiling_Fans" id="aCeilingFans" class="aNavBtn"></a>
+			<div>
+				<a href="http://www.lampsplus.com/fans/" name="nav_Fans_All_Fans">All Fans</a>
+				<a href="http://www.lampsplus.com/products/ceiling-fans/" name="nav_Fans_Ceiling_Fans">Ceiling Fans</a>
+				<a href="http://www.lampsplus.com/products/desk-fans-and-floor-fans/" name="nav_Fans_Desk_Fans">Desk Fans and Floor Fans</a>
+				<a href="http://www.lampsplus.com/products/fan-light-kits/" name="nav_Fan_Light_Kits">Fan Light Kits</a>
+				<a href="http://www.lampsplus.com/products/" name="nav_Fans_View_All_Categories">View All Categories</a>
+			</div>
+		</div>
+		<div id="divFurniture">
+			<a href="http://www.lampsplus.com/furniture/" name="nav_Furniture" id="aFurniture" class="aNavBtn"></a>
+			<div>
+				<a href="http://www.lampsplus.com/furniture/" name="nav_All_Furniture">All Furniture</a>
+				<a href="http://www.lampsplus.com/products/beds/" name="nav_Furniture_Beds">Beds</a>
+				<a href="http://www.lampsplus.com/products/cabinets-and-storage/ " name="nav_Furniture_Cabinets_and_Storage">Cabinets and Storage</a>
+				<i><a href="http://www.lampsplus.com/products/cabinets-and-storage/type_bathroom-vanities/" name="nav_Furniture_Bathroom_Vanities">Bathroom Vanities</a></i>
+				<i><a href="http://www.lampsplus.com/products/cabinets-and-storage/type_curio-cabinets/" name="nav_Furniture_Curio_Cabinets">Curio Cabinets</a></i>
+				<i><a href="http://www.lampsplus.com/products/cabinets-and-storage/type_entertainment-centers/" name="nav_Furniture_Entertainment_Centers">Entertainment Centers</a></i>
+				<i><a href="http://www.lampsplus.com/products/cabinets-and-storage/type_shelving/" name="nav_Furniture_Shelving">Shelving</a></i>
+				<a href="http://www.lampsplus.com/products/fireplaces/" name="nav_Furniture_Fireplaces">Fireplaces</a>
+				<a href="http://www.lampsplus.com/products/seating/" name="nav_Furniture_Seating">Seating</a>
+				<i><a href="http://www.lampsplus.com/furniture/barstools/" name="nav_Furniture_Barstools">Barstools</a></i>
+				<i><a href="http://www.lampsplus.com/products/seating/type_benches/" name="nav_Furniture_Benches">Benches</a></i>
+				<i><a href="http://www.lampsplus.com/Products/seating/Type_Chairs/" name="nav_Furniture_Chairs">Chairs</a></i>
+				<i><a href="http://www.lampsplus.com/products/seating/type_ottomans/" name="nav_Furniture_Ottomans">Ottomans</a></i>
+				<a href="http://www.lampsplus.com/products/tables/" name="nav_Furniture_Tables">Tables</a>
+				<i><a href="http://www.lampsplus.com/products/tables/type_accent-tables/" name="nav_Furniture_Accent_Tables">Accent Tables</a></i>
+				<i><a href="http://www.lampsplus.com/products/tables/type_dining-tables/" name="nav_Furniture_Dining-Tables">Dining Tables</a></i>
+				<i><a href="http://www.lampsplus.com/products/furniture/type_plant-stands/" name="nav_Furniture_Plant_Stands">Plant Stands</a></i>
+				<i><a href="http://www.lampsplus.com/products/tables/type_sofa-tables/" name="nav_Furniture_Sofa_Tables">Sofa Tables</a></i>
+				<a href="http://www.lampsplus.com/products/" name="nav_Furniture_View_All_Categories">View All Categories</a>
+			</div>
+		</div>
+		<div id="divDecor">
+			<a href="http://www.lampsplus.com/home-decor/" name="nav_Home_Decor" id="aDecor" class="aNavBtn"></a>
+			<div>
+				<a href="http://www.lampsplus.com/home-decor/" name="nav_Home_Decor_All_Home_Decor">All Home Decor</a>
+				<a href="http://www.lampsplus.com/products/home-decor/type_bedding/" name="nav_Bedding">Bedding</a>						
+				<a href="http://www.lampsplus.com/products/bird-houses-and-feeders/" name="nav_Bird_Houses_and_Feeders">Bird Houses and Feeders</a>					
+				<a href="http://www.lampsplus.com/products/home-decor/type_boxes/" name="nav_Home_Decor_Boxes">Boxes</a>			
+				<a href="http://www.lampsplus.com/products/home-decor/type_bowls/" name="nav_Home_Decor_Bowls">Bowls</a>					
+				<a href="http://www.lampsplus.com/products/home-decor/type_candleholders-@-candles/" name="nav_Home_Decor_CandleHolders-Candles">CandleHolders - Candles</a>
+				<a href="http://www.lampsplus.com/products/home-decor/type_clocks/" name="nav_Home_Decor_Clocks">Clocks</a>
+				<a href="http://www.lampsplus.com/products/home-decor/type_decorative-objects/" name="nav_Home_Decor_Decorative_Objects">Decorative Objects</a>
+				<a href="http://www.lampsplus.com/products/home-decor/type_drapery/" name="nav_Home_Decor_Drapery">Drapery</a>
+				<a href="http://www.lampsplus.com/products/home-decor/type_floral/" name="nav_Home_Decor_Floral">Floral</a>
+				<a href="http://www.lampsplus.com/products/home-decor/type_fountains/" name="nav_Home_Decor_Fountains">Fountains</a>
+				<a href="http://www.lampsplus.com/products/home-decor/type_frames/" name="nav_Home_Decor_Frames">Frames</a>
+				<a href="http://www.lampsplus.com/products/mirrors/" name="nav_Home_Decor_Mirrors">Mirrors</a>
+				<a href="http://www.lampsplus.com/products/home-decor/type_pillows-@-throws/" name="nav_Home_Decor_Pillows-Throws">Pillows - Throws</a>
+				<a href="http://www.lampsplus.com/products/home-decor/type_plates/" name="nav_Home_Decor_Plates">Plates</a>
+				<a href="http://www.lampsplus.com/products/rugs/" name="nav_Home_Decor_Area_Rugs">Rugs</a>
+				<a href="http://www.lampsplus.com/products/sculpture/" name="nav_Sculpture">Sculptures</a>
+				<a href="http://www.lampsplus.com/products/home-decor/type_trays/" name="nav_Home_Decor_Trays">Trays</a>					
+				<a href="http://www.lampsplus.com/products/home-decor/type_vases/" name="nav_Home_Decor_Vases">Vases</a>					
+				<a href="http://www.lampsplus.com/products/wall-art/" name="nav_Home_Decor_Wall_Art">Wall Art</a>
+				<a href="http://www.lampsplus.com/products/" name="nav_Home_Decor_View_All_Categories">View All Categories</a>
+			</div>
+		</div>
+		<div id="divOthers">
+			<a href="http://www.lampsplus.com/other/" name="nav_Others" id="aOthers" class="aNavBtn"></a>
+			<div>
+				<a href="http://www.lampsplus.com/other/" name="nav_Others_All_Other_Categories">All Other Categories</a>
+				<a href="http://www.lampsplus.com/products/accessories/" name="nav_Others_Accessories">Accessories</a>
+				<a href="http://www.lampsplus.com/products/address-plaques/" name="nav_Others_Address_Plaques">Address Plaques</a>
+				<a href="http://www.lampsplus.com/products/bathroom-exhaust-fans/" name="nav_Others_Bathroom_Exhaust_Fans">Bathroom Exhaust Fans</a>
+				<a href="http://www.lampsplus.com/products/Book-Lights/" name="nav_Others_Book-Lights">Book Lights</a>
+				<a href="http://www.lampsplus.com/dimmer-selection/" name="nav_Others_Dimmers-Controls">Dimmers/Controls</a>
+				<a href="http://www.lampsplus.com/products/doorbells-and-chimes/" name="nav_Others_Doorbells-and-Chimes">Doorbells and Chimes</a>
+				<a href="http://www.lampsplus.com/products/exit-and-emergency-signs/" name="nav_Others_Exit-and-Emergency-Signs">Exit and Emergency Signs</a>
+				<a href="http://www.lampsplus.com/products/glass-shades/" name="nav_Others_Glass_Shades">Glass Shades</a>					
+				<a href="http://www.lampsplus.com/kathy-ireland-home-air-purifiers/" name="nav_Others_Indoor_Air_Purifiers">Indoor Air Purifiers</a>			
+				<a href="http://www.lampsplus.com/products/light-bulbs/" name="nav_Others_Light_Bulbs">Light Bulbs</a>
+				<a href="http://www.lampsplus.com/products/night-lights/" name="nav_Others_Night-Lights">Night Lights</a>
+				<a href="http://www.lampsplus.com/products/under-cabinet-lights/" name="nav_Others_Under_Cabinet">Under Cabinet</a>
+				<a href="http://www.lampsplus.com/products/" name="nav_Others_View_All_Categories">View All Categories</a>
+			</div>
+		</div>
+		<div id="divBestSellers">
+			<a href="http://www.lampsplus.com/htmls/best/" name="nav_Best_Sellers" id="aBestSellers" class="aNavBtn"></a>
+			<div id="divBestSellersDD">
+				<div class="divBestSellersSel">
+					<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=BathroomLighting" name="nav_Best_Sellers_Bathroom_Lighting" class="aNavBestSellersBtn">Bathroom Lighting</a>
+					<div>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=brushedsteelchromebathroomlighting">Brushed Steel/Chrome</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=contemporarybathroomlighting">Contemporary</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=traditionalfinishbathroomlighting">Traditional</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=transitionalbathroomlighting">Transitional</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=upto25bathroomlighting">Up to 25"</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=over25bathroomlighting">Over 25"</a>
+					</div>
+				</div>
+				<div class="divBestSellersSel">
+					<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=ceilingfans" name="nav_Best_Sellers_Ceiling_Fans" class="aNavBestSellersBtn">Ceiling Fans</a>
+					<div>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=casablancaceilingfans">Casablanca</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=contemporaryceilingfans">Contemporary</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=outdoorpatioceilingfans">Outdoor/Patio</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=traditionalceilingfans">Traditional</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=desktopceilingfans">Desk Fans and Floor Fans</a>
+					</div>
+				</div>
+				<div class="divBestSellersSel">
+					<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=chandeliers" name="nav_Best_Sellers_Chandeliers" class="aNavBestSellersBtn">Chandeliers</a>
+					<div>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=alabasterchandeliers">Alabaster</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=contemporarychandeliers">Contemporary</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=crystalchandeliers">Crystal</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=entrywaychandeliers">Entryway</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=ironchandeliers">Iron</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=jamesmodercrystal">James Moder Crystal</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=minichandeliers">Mini Chandeliers</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=minipendants">Mini Pendants</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=schonbekchandeliers">Schonbek</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=tiffanychandeliers">Tiffany</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=traditionalchandeliers">Traditional</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=victorianchandeliers">Victorian</a>
+					</div>
+				</div>
+				<div class="divBestSellersSel">
+					<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=desklamps" name="nav_Best_Sellers_Desk_Lamps" class="aNavBestSellersBtn">Desk Lamps</a>
+					<div>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=contemporarydesklamps">Contemporary</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=functionaldesklamps">Functional</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=traditionaldesklamps">Traditional</a>
+					</div>
+				</div>
+				<div class="divBestSellersSel">
+					<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=floorlamps" name="nav_Best_Sellers_Floor_Lamps" class="aNavBestSellersBtn">Floor Lamps</a>
+					<div>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=contemporaryfloorlamps">Contemporary</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=designerFinishfloorlamps">Designer Finish</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=ironfloorlamps">Iron</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=taskfloorlamps">Task</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=tiffanyfloorlamps">Tiffany</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=traditionalfloorlamps">Traditional</a>
+					</div>
+				</div>
+				<div class="divBestSellersSel">
+					<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=flushmountlighting" name="nav_Best_Sellers_Flushmount_Lighting" class="aNavBestSellersBtn">Flushmount Lighting</a>
+					<div>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=botanicalflushmountlighting">Botanical</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=contemporaryflushmountlighting">Contemporary</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=crystalflushmountlighting">Crystal</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=transitionalflushmountlighting">Transitional</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=fluorescentflushmountlighting">Fluorescent</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=traditionalflushmountlighting">Traditional</a>
+					</div>
+				</div>
+				<div class="divBestSellersSel">
+					<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=furniture" name="nav_Best_Sellers_Furniture" class="aNavBestSellersBtn">Furniture</a>
+					<div>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=accentfurniture">Accent</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=bathroomvanitiesfurniture">Bathroom Vanities</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=chairsottomans">Chairs and Ottomans</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=casualfurniture">Casual</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=missionartscraftsfurniture">Mission/Arts &amp; Crafts</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=traditionalfurniture">Traditional</a>
+					</div>
+				</div>
+				<div class="divBestSellersSel">
+					<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=lightingfixtures" name="nav_Best_Sellers_Lighting_Fixtures" class="aNavBestSellersBtn">Lighting Fixtures</a>
+					<div>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=contemporarylightingfixtures">Contemporary</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=entrywaylightingfixtures">Entry Way</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=islandpooltablelightingfixtures">Island/Pool Table</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=kitchendinettepotracklightingfixtures">Kitchen/Dinette/Pot Rack</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=missionartscraftslightingfixtures">Mission/Arts &amp; Crafts</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=pendantlightingfixtures">Pendant</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=tiffanylightingfixtures">Tiffany</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=traditionallightingfixtures">Traditional</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=wroughtironlightingfixtures">Wrought Iron</a>
+					</div>
+				</div>
+				<div class="divBestSellersSel">
+					<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=outdoorlighting" name="nav_Best_Sellers_Outdoor_Lighting" class="aNavBestSellersBtn">Outdoor Lighting</a>
+					<div>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=ceilingmounthangingoutdoorlighting">Ceilingmount/Hanging</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=postmountoutdoorlighting">Postmount</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=wallmountoutdoorlighting">Wallmount</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=landscapeoutdoorlighting">Landscape</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=contemporaryoutdoorlighting">Contemporary</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=missionoutdoorlighting">Mission</a>
+					</div>
+				</div>
+				<div class="divBestSellersSel">
+					<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=semi-flushmountlighting" name="nav_Best_Sellers_Semi-Flushmount_Lighting" class="aNavBestSellersBtn">Semi-Flushmount Lighting</a>
+					<div>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=crystalsemi-flushmountlighting">Crystal</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=contemporarysemi-flushmountlighting">Contemporary</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=transitionalsemi-flushmountlighting">Transitional</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=ironsemi-flushmountlighting">Iron</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=tiffanysemi-flushmountlighting">Tiffany</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=traditionalsemi-flushmountlighting">Traditional</a>
+					</div>
+				</div>
+				<div class="divBestSellersSel">
+					<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=tablelamps" name="nav_Best_Sellers_Table_Lamps" class="aNavBestSellersBtn">Table Lamps</a>
+					<div>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=brasstablelamps">Brass</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=casualirontablelamps">Casual Iron</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=childrenstablelamps">Children's</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=contemporarytablelamps">Contemporary</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=crystaltablelamps">Crystal</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=designerfinishtablelamps">Designer Finish</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=missionartscraftstablelamps">Mission/Arts &amp; Crafts</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=tiffanytablelamps">Tiffany</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=traditionaltablelamps">Traditional</a>
+					</div>
+				</div>
+				<div class="divBestSellersSel">
+					<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=tiffanylighting" name="nav_Best_Sellers_Tiffany_Lighting" class="aNavBestSellersBtn">Tiffany Lighting</a>
+					<div>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=missionartscraftslightingfixturestiffanylighting">Mission/Arts &amp; Crafts Lighting Fixtures</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=tiffanylightingfixturestiffanylighting">Tiffany Lighting Fixtures</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=tiffanysemi-flushmountstiffanylighting">Tiffany Semi-Flushmounts</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=missionartscraftstablelampstiffanylighting">Mission/Arts &amp; Crafts Table Lamps</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=tiffanytablelampstiffanylighting">Tiffany Table Lamps</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=tiffanyfloorlampsTorchierestiffanylighting">Tiffany Floor Lamps &amp; Torchieres</a>
+					</div>
+				</div>
+				<div class="divBestSellersSel">
+					<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=tracklighting" name="nav_Best_Sellers_Track_Lighting" class="aNavBestSellersBtn">Track Lighting</a>
+					<div>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=junotracklighting">Juno</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=lightoliertracklighting">Lightolier</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=wactracklighting">WAC</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=trackkitstracklighting">Track Kits</a>
+					</div>
+				</div>
+				<div class="divBestSellersSel">
+					<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=walllamps" name="nav_Best_Sellers_Wall_Lamps" class="aNavBestSellersBtn">Wall Lamps</a>
+					<div>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=contemporarywalllamps">Contemporary</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=designerfinisheswalllamps">Designer Finishes</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=largewalllamps">Large</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=swingarmswalllamps">Swing Arms</a>
+					</div>
+				</div>
+				<div class="divBestSellersSel">
+					<a href="http://www.lampsplus.com/htmls/best/default.aspx?cat=Other" name="nav_Best_Sellers_Other_Lighting" class="aNavBestSellersBtn">Other Lighting</a>
+					<div>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=uplightsother">Uplights</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=cliplightsother">Cliplights</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=wallfloortabledimmersother">Wall/Floor/Table Dimmers</a>
+						<a href="http://www.lampsplus.com/htmls/best/view.aspx?cat=picturelightsother">Picture Lights</a>
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>
 </div>
-</td></tr></tbody></table>
-
-<script language="javascript">var strNavBarBackgroundImage = (m_IsPro == 'True')?'navsprites-pros.gif':'navsprites.gif';</script>
-
-<table width="792" border="0" align="center" cellpadding="0" cellspacing="0" id="tblTopPromotion"><tbody><tr><td align="center"><a href="/htmls/salebrochure/sale.aspx"><img src="/images/TopPromotion/05-09-lfs-header-strip.gif" alt="Lighting Fixture Sale"></a></td></tr></tbody></table><script language="javascript">var strNavBarBackgroundImage = (m_IsPro == 'True')?'navsprites-pros.gif':'navsprites.gif';</script>
+<script type="text/javascript" src="/js/Counts.js"></script>
+<script language="javascript" type="text/javascript">
+	GetPortfolioCount();
+	GetCartCount();
+</script>
+<script type="text/javascript">function fncParentCategoryShowHoverState(strTopLevelCategory){	if(strTopLevelCategory != '')	{		var strTopNavID = "";		switch(strTopLevelCategory)		{			case 'ceilingLighting':				strTopNavID = 'aCeilingLights';			break;			case 'lamps':				strTopNavID = 'aLamps';			break;			case 'wallLights':				strTopNavID = 'aWallLights';			break;			case 'outdoor':				strTopNavID = 'aOutdoorLights';			break;			case 'fans':				strTopNavID = 'aCeilingFans';			break;			case 'other':				strTopNavID = 'aOthers';			break;			case 'best':				strTopNavID = 'aBestSellers';			break;			case 'furniture':				strTopNavID = 'aFurniture';			break;			case 'homeDecor':				strTopNavID = 'aDecor';			break;		}	}	var objTopNavElement = document.getElementById(strTopNavID);	if(objTopNavElement!=null)	{	    objTopNavElement.setAttribute("class", "aNavBtn hover"); 	}}</script>
+<script language="javascript"></script>
+</div>
+<div id="divTopPromotionWrapper"><table width="792" border="0" align="center" cellpadding="0" cellspacing="0" id="tblTopPromotion"><tbody><tr><td align="center"><a href="/htmls/salebrochure/sale.aspx"><img src="/images/index/ads/01-19-2010/01-10-TFLS-hdr-bnr.gif" alt="Table &amp; Floor Lamp Sale"></a></td></tr></tbody></table></div>
 	 <!-- end navigation bar-->
+	
 
-  <br>
+  <br><a name="top">&nbsp;</a>
 	<table width="770" cellpadding="0" border="0" cellspacing="0" align="center" id="Table1">
 		<tbody><tr>
 			<td>
 				<!-- main content -->
-				<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+				<style type="text/css">.BackToTop{float:right;}</style>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
     <tbody><tr>
       <td width="284"><h1>Security &amp; Privacy</h1></td>
       <td width="476" align="right"><h3><a href="help.asp">Back
@@ -733,7 +430,7 @@ function makeAjaxRequest(strServiceUrl,strFunctionCall,strParams) {
             </tbody></table>
               <br>
               <hr size="1" noshade="">
-              <a name="privacy" id="privacy"></a><a href="#top">back to top</a> | <a href="help.asp">main help</a>
+              <span class="BackToTop"><a name="privacy" id="privacy"></a><a href="#top">back to top</a> | <a href="help.asp">main help</a></span>
               <table width="100%" border="0" cellspacing="5" cellpadding="0">
                 <tbody><tr>
                   <td><h3>Our Privacy Policy</h3></td>
@@ -769,7 +466,7 @@ function makeAjaxRequest(strServiceUrl,strFunctionCall,strParams) {
                   </td>
                 </tr>
               </tbody></table>
-              <a name="privacyandemail" id="privacyandemail"></a><a href="#top">back to top</a> | <a href="help.asp">main help</a>
+              <span class="BackToTop"><a name="privacyandemail" id="privacyandemail"></a><a href="#top">back to top</a> | <a href="help.asp">main help</a></span>
               <table width="100%" border="0" cellspacing="5" cellpadding="0">
                 <tbody><tr>
                   <td><h3>Privacy and E-Mail Referrals</h3></td>
@@ -783,7 +480,7 @@ function makeAjaxRequest(strServiceUrl,strFunctionCall,strParams) {
                   </td>
                 </tr>
               </tbody></table>
-               <a name="security" id="security"></a><a href="#top">back to top</a> | <a href="help.asp">main help</a>
+               <span class="BackToTop"><a name="security" id="security"></a><a href="#top">back to top</a> | <a href="help.asp">main help</a></span>
         <!--xxx security--->         
               
               <table width="100%" border="0" cellspacing="5" cellpadding="0">
@@ -797,7 +494,7 @@ function makeAjaxRequest(strServiceUrl,strFunctionCall,strParams) {
                 </td>
               </tr>
             </tbody></table>
-              <a name="fraudulentchargeprotection" id="fraudulentchargeprotection"></a><a href="#top">back to top</a> | <a href="help.asp">main help</a>
+              <span class="BackToTop"><a name="fraudulentchargeprotection" id="fraudulentchargeprotection"></a><a href="#top">back to top</a> | <a href="help.asp">main help</a></span>
               
     <!--xxx--->
             <table width="100%" border="0" cellspacing="5" cellpadding="0" id="Table1">
@@ -814,7 +511,7 @@ function makeAjaxRequest(strServiceUrl,strFunctionCall,strParams) {
                 </td>
               </tr>
             </tbody></table>
-              <a name="cookies" id="A2"></a><a href="#top">back to top</a> | <a href="help.asp">main help</a>
+              <span class="BackToTop"><a name="cookies" id="A2"></a><a href="#top">back to top</a> | <a href="help.asp">main help</a></span>
     <!--xxx-->
               <table width="100%" border="0" cellspacing="5" cellpadding="0">
                 <tbody><tr>
@@ -830,7 +527,7 @@ function makeAjaxRequest(strServiceUrl,strFunctionCall,strParams) {
                 </tr>
               </tbody></table>
               <!--xxx2-->
-              <h3><a name="optingout"></a></h3><a href="#top">back to top</a> | <a href="help.asp">main help</a>
+              <span class="BackToTop"><a name="optingout"></a><a href="#top">back to top</a> | <a href="help.asp">main help</a></span>
 			  <table width="100%" border="0" cellspacing="5" cellpadding="0">
                 <tbody><tr>
                   <td><h3>Opting Out of Our E-mail List</h3></td>
@@ -845,7 +542,7 @@ function makeAjaxRequest(strServiceUrl,strFunctionCall,strParams) {
                 </tr>
               </tbody></table>
               
-              <a name="OptingOutofOurCatalogMailingList" id="OptingOutofOurCatalogMailingList"></a><a href="#top">back to top</a> | <a href="help.asp">main help</a>
+              <span class="BackToTop"><a name="OptingOutofOurCatalogMailingList" id="OptingOutofOurCatalogMailingList"></a><a href="#top">back to top</a> | <a href="help.asp">main help</a></span>
               <table width="100%" border="0" cellspacing="5" cellpadding="0">
                 <tbody><tr>
                   <td><h3>Opting Out of Our Catalog Mailing List</h3></td>
@@ -863,7 +560,7 @@ function makeAjaxRequest(strServiceUrl,strFunctionCall,strParams) {
               
               
               
-              <a name="protectingchildren" id="protectingchildren"></a><a href="#top">back to top</a> | <a href="help.asp">main help</a>
+              <span class="BackToTop"><a name="protectingchildren" id="protectingchildren"></a><a href="#top">back to top</a> | <a href="help.asp">main help</a></span>
 			  <table width="100%" border="0" cellspacing="5" cellpadding="0">
                 <tbody><tr>
                   <td><h3>Protecting Children</h3></td>
@@ -875,7 +572,7 @@ function makeAjaxRequest(strServiceUrl,strFunctionCall,strParams) {
                   </td>
                 </tr>
               </tbody></table>
-              <a name="linkstothird" id="linkstothird"></a><a href="#top">back to top</a> | <a href="help.asp">main help</a>
+              <span class="BackToTop"><a name="linkstothird" id="linkstothird"></a><a href="#top">back to top</a> | <a href="help.asp">main help</a></span>
 			  <table width="100%" border="0" cellspacing="5" cellpadding="0">
                 <tbody><tr>
                   <td><h3>Links to Third Party Sites</h3></td>
@@ -887,7 +584,7 @@ function makeAjaxRequest(strServiceUrl,strFunctionCall,strParams) {
                   </td>
                 </tr>
               </tbody></table>
-              <a name="policychanges" id="policychanges"></a><a href="#top">back to top</a> | <a href="help.asp">main help</a>
+              <span class="BackToTop"><a name="policychanges" id="policychanges"></a><a href="#top">back to top</a> | <a href="help.asp">main help</a></span>
 			  <table width="100%" border="0" cellspacing="5" cellpadding="0">
                 <tbody><tr>
                   <td><h3>Policy Changes</h3></td>
@@ -899,7 +596,7 @@ function makeAjaxRequest(strServiceUrl,strFunctionCall,strParams) {
                   </td>
                 </tr>
               </tbody></table>
-              <a href="#top">back to top</a> | <a href="help.asp">main help</a><br>              
+              <span class="BackToTop"><a href="#top">back to top</a> | <a href="help.asp">main help</a><br></span>
             </td>
           </tr>
         </tbody></table>
@@ -910,186 +607,93 @@ function makeAjaxRequest(strServiceUrl,strFunctionCall,strParams) {
 			</td>
 		</tr>
 	</tbody></table>
-
+    
   <img src="/images/spacer.gif" width="1" height="15">
-
-<link href="/styles/footer.css" rel="stylesheet" type="text/css">
-<script language="javascript" src="/js/checkform.js"></script>
-<script language="javascript">
-	var strButtonID;
-	strButtonID = "";
-	function submitForms()
-	{
-		
-		if(strButtonID == "email")
-		{
-			if(!checkValue(document.frmFooter.txtGetEmailUpdates))
-			{
-				alert("Please enter your email address");
-				document.frmFooter.txtGetEmailUpdates.focus();
-				return false;
-			}
-			//validate email
-			if(!validate_email(document.frmFooter.txtGetEmailUpdates))
-			{
-				alert("Please enter a valid email address.");
-				document.frmFooter.txtGetEmailUpdates.focus();
-				return false;
-			}
-			//  need to redirect
-			//document.frmFooter.action = "https://secure.lampsplus.com/secure/email/index.aspx";
-			document.frmFooter.action = "https://secure.lampsplus.com/secure/email/index.aspx";
-			
-			return true;
-		}
-		if(strButtonID == "catalog")
-		{
-			
-			//document.frmFooter.quickShop.value=document.frmFooter.txtQuickShop.value;
-			document.frmFooter.method="post";
-			document.frmFooter.action="/catalog/quickShop.aspx";
-			document.frmFooter.submit();/**/
-			return false; 
-		}
-		if(strButtonID == "search")
-		{
-			if( document.forms[0].s )
-			{
-				if(document.forms[0].s.value=='  keyword or item#')
-				{
-					return;
-				}
-				if( document.forms[0].s.value.replace(/\s+/g,"") != "" )
-				{
-					window.location = '/htmls/search/searchresults.aspx?s=' + escape( document.forms[0].s.value );
-				}
-			}
-			return false; 
-		}
-	}
-	
-
-	
-	
-</script>
 <script language="javascript" src="/js/framebreaker.js"></script>
-<div align="center" id="divFrmFooter">
-		
-		<form method="post" name="frmFooter" id="frmFooter" onsubmit="return submitForms(this);">
-		<table id="tblFooter" align="center" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-    				<td>
-        				<div id="divFooterBar">
-							<div class="divFooterBarEntry">
-								<a href="http://blog.lampsplus.com/">
-									<img src="/images/homepage1/lightpost.gif" width="87" height="27" alt="LightPost">
-									Check out our Lighting &amp; Decor Blog!
-								</a>
-							</div>
-							<div class="divFooterBarEntry">
-								<a href="http://www.lampsplus.com/htmls/lightingtips/LightingTips_Seminars.aspx">
-									<img src="/images/homepage1/tips-and-trends.gif" width="66" height="27" alt="Tips And Trends">
-									Add inspiration to your next project!
-								</a>
-							</div>
-							<div class="divFooterBarEntry2 divFooterBarEntry">
-								<a href="http://www.lampsplus.com/htmls/professionalsonline/">
-									<img src="/images/homepage1/lamps-plus-professionals.gif" width="98" height="27" alt="Lamps Plus Professionals">
-									Free Membership For Trade Professionals!
-								</a>
-							</div>
-						</div><br>
-						<div class="divFooterList">
-							<h1>Service And Information</h1>
-							<ul>
-								<li><a href="http://www.lampsplus.com/htmls/ordertrack/index.aspx" rel="nofollow">Order Status</a></li>
-								<li><a href="https://secure.lampsplus.com/secure/contact-us/callback1.asp" rel="nofollow">Contact Us</a></li>
-								<li><a href="http://www.lampsplus.com/htmls/help/help.asp" rel="nofollow">Help, Policies &amp; FAQ</a></li>
-								<li><a href="http://www.lampsplus.com/htmls/about/index.aspx" rel="nofollow">About Us</a></li>
-							</ul>
-						</div>
-						<div class="divFooterList">
-							<h1>Lamps Plus Programs</h1>
-							<ul>
-								<li><a href="http://www.lampsplus.com/affiliate/htmls/affiliate_default.asp" rel="nofollow">Affiliate Program</a></li>
-								<li><a href="https://secure.lampsplus.com/secure/contact-us/specialquote2.asp" rel="nofollow">Special Quotes</a></li>
-								<li><a href="http://www.lampsplus.com/Installation/default.asp" rel="nofollow">Installation Services</a></li>
-								<li><a href="http://www.lampsplus.com/careers/default.aspx" rel="nofollow">Employment</a></li>
-							</ul>
-						</div>
-						<div class="divFooterList2 divFooterList">
-							<h1>Catalogs And Promotions</h1>
-							<ul>
-								<li><a href="https://secure.lampsplus.com/secure/catalog/requestcatalog.aspx" rel="nofollow">View or Request Catalog</a></li>
-								<li><a href="http://www.lampsplus.com/catalog/quickShop.aspx" rel="nofollow">Catalog Quick Shop</a></li>
-								<li><a href="https://secure.lampsplus.com/lampsplus-coupons/index.asp" rel="nofollow">Store Coupons &amp; Offers</a></li>
-								<li><a href="https://secure.lampsplus.com/secure/customers/newhomeowner.asp" rel="nofollow">New Homeowner Savings</a></li>
-							</ul>
-						</div><br class="clear"><br>
-						<div class="divFooterSep"></div><br>
-						<table id="tblCusConf" cellpadding="0" cellspacing="0" width="100%">
-							<tbody><tr>
-								<td>
-									
-										<!-- START SCANALERT CODE -->
-										<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.lampsplus.com" rel="nofollow">
-											<p align="center"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/survey/www.lampsplus.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></p>
-										</a>
-										<!-- END SCANALERT CODE -->
-									
-								</td>
-								<td><script src="https://seal.verisign.com/getseal?host_name=www.lampsplus.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script></td>
-								<td><a href="http://www.bbbonline.org/cks.asp?id=1040922933945102" target="_blank" rel="nofollow"><img id="imgBBB" src="/images/Footer/ReliabilitySeal.gif" alt="BBB Online Reliability Program" border="0"></a></td>
-								<td>
-									<div id="divEmailSignUp">
-										<h1>Get Updates And Special Offers</h1><br>
-										
-											<input name="txtGetEmailUpdates" id="txtGetEmailUpdates" class="inpEmailSignUpTxt" type="text" onfocus="strButtonID='email'" maxlength="50">
-											<input type="image" class="inpEmailSignUpBtn" src="/images/homepage/go-button.gif" alt="Go" align="center" name="btnEmailSbmt" value="Go" id="btnEmailSbmt" onfocus="strButtonID='email'"><br class="clear"><br class="px3">
-										
-										<a href="https://secure.lampsplus.com/secure/email/index.aspx" rel="nofollow">Change E-mail Settings</a> | <a href="http://www.lampsplus.com/htmls/help/security.asp" rel="nofollow">Privacy Policy</a>
-									</div>
-								</td>
-							</tr>
-						</tbody></table>
-						<br class="clear"><br>
-						<div class="divFooterSep"><img src="/images/spacer.gif" width="1" height="1"></div><img src="/images/spacer.gif" width="1" height="2"><div class="divFooterSep"><img src="/images/spacer.gif" width="1" height="1"></div>
-						<div id="divFooterCopy">
-							© 2009LAMPS PLUS, Inc. All rights reserved. 
-							<a href="http://www.lampsplus.com/htmls/TermsOfUse.aspx" rel="nofollow">Terms of Use</a> | <a href="http://www.lampsplus.com/SiteMap.aspx">Site Map</a>
-						</div>
-						<div id="divFooterLP">
-							<a href="http://www.lampsplus.com/">LAMPS PLUS - America's Lighting Superstore®</a>
-						</div>
-					</td>
-				</tr>
+
+
+<script src="/js/global.js" type="text/javascript"></script>
+<a href="http://www.lampsplus.com/htmls/help/faq.asp#q13" id="aCnfdnc"><img src="/images/global/shop-with-confidence1.png" width="792" height="64" alt="Shop With Confidence"></a>
+<div id="divFtrCllts">
+	<a href="http://www.lampsplus.com/best-values/">
+		<img src="/images/global/best-values.png" width="66" height="26" alt="Best Values">
+		Get Unmatched<br>Quality &amp; Value
+	</a>
+	<a href="http://blog.lampsplus.com/">
+		<img src="/images/global/lamps-plus-blog.png" width="59" height="24" alt="Lamps Plus Blog">
+		Visit Our Lighting<br>&amp; Décor Blog
+	</a>
+	<a href="http://www.lampsplus.com/htmls/lightingtips/LightingTips_Seminars.aspx">
+		<img src="/images/global/tips-and-trends.gif" width="69" height="27" alt="Tips and Trends">
+		Inspiration For<br>Your Projects!
+	</a>
+	<a href="http://www.lampsplus.com/htmls/professionalsonline/">
+		<img src="/images/global/lamps-plus-professionals.png" width="98" height="27" alt="Lamps Plus Professionals">
+		Free To<br>The Trade!
+	</a>
+</div><br>
+<div id="divFtrLst">
+	<dl>
+		<dt>Service and Information</dt>
+		<dd><a href="http://www.lampsplus.com/htmls/ordertrack/index.aspx" rel="nofollow">Order Status</a></dd>
+		<dd><a href="https://secure.lampsplus.com/secure/contact-us/callback1.asp" rel="nofollow">Contact Us</a></dd>
+		<dd><a href="http://www.lampsplus.com/htmls/help/help.asp" rel="nofollow">Help, Policies &amp; FAQ</a></dd>
+		<dd><a href="http://www.lampsplus.com/about-us/" rel="nofollow">About Us</a></dd>
+	</dl>
+	<dl>
+		<dt>Lamps Plus Programs</dt>
+		<dd><a href="http://www.lampsplus.com/affiliate/htmls/affiliate_default.asp" rel="nofollow">Affiliate Program</a></dd>
+		<dd><a href="https://secure.lampsplus.com/secure/contact-us/specialquote2.asp" rel="nofollow">Special Quotes</a></dd>
+		<dd><a href="http://www.lampsplus.com/Installation/default.asp" rel="nofollow">Installation Services</a></dd>
+		<dd><a href="http://www.lampsplus.com/careers/default.aspx" rel="nofollow">Employment</a></dd>
+	</dl>
+	<dl>
+		<dt>Catalogs and Promotions</dt>
+		<dd><a href="http://www.lampsplus.com/Lighting-Catalog/index.aspx" rel="nofollow">View or Request Catalog</a></dd>
+		<dd><a href="http://www.lampsplus.com/catalog/quickShop.aspx" rel="nofollow">Catalog Quick Shop</a></dd>
+		<dd><a href="https://secure.lampsplus.com/lampsplus-coupons/index.asp" rel="nofollow">Store Coupons &amp; Offers</a></dd>
+		<dd><a href="https://secure.lampsplus.com/secure/customers/newhomeowner.asp" rel="nofollow">New Homeowner Savings</a></dd>
+	</dl><br class="clear">
+</div><br>
+<table id="tblEml" cellspacing="0">
+	<tbody><tr>
+		<td>
+			<input id="txtEmailUpdatesRequest" type="text" maxlength="50" value="Get e-Coupons and Special Offers!" onfocus="this.value = '';" onkeydown="if ((event.which &amp;&amp; event.which == 13) || (event.keyCode&amp;&amp;event.keyCode == 13)){document.getElementById('btnEmailSbmt').click();return false;} else return true;">
+			<input type="image" src="/images/homepage/go-button.gif" alt="Go" align="center" value="Go" id="btnEmailSbmt" onclick="EmailSignUp();">
+		</td>
+		<td>
+			<a href="https://secure.lampsplus.com/secure/email/index.aspx" rel="nofollow">Change E-mail Settings</a> | <a href="http://www.lampsplus.com/htmls/help/security.asp" rel="nofollow">Privacy Policy</a>
+		</td>
+	</tr>
 </tbody></table>
-					
+<table id="tblExt" cellspacing="0">
+	<tbody><tr>
+		<td><a href="https://www.scanalert.com/RatingVerify?ref=www.lampsplus.com" target="_blank" rel="nofollow"><img src="//images.scanalert.com/meter/survey/www.lampsplus.com/13.gif" width="94" height="54" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime."></a></td>
+		<td><a href="http://www.bbbonline.org/cks.asp?id=1040922933945102" target="_blank" rel="nofollow"><img src="/images/global/reliability-program.png" width="90" height="32" alt="BBB Online Reliability Program"></a></td>
+		<td><a href="http://www.facebook.com/lampsplus" target="_blank"><img src="/images/global/find-us-on-facebook.png" width="114" height="31" alt="Find Us On Facebook"></a></td>
+		<td><a href="http://www.twitter.com/lampsplus" target="_blank"><img src="/images/global/follow-us-on-twitter.png" width="114" height="31" alt="Follow Us On Twitter"></a></td>
+	</tr>
+</tbody></table>
+<div id="divFtrLg0"><img src="/images/spacer.gif" height="1" width="1" alt="spacer"></div>
+<div id="divFtrLgl">
+	<div id="divFtrCpy">
+		© <span id="spnCopyrightYear"><script type="text/javascript">document.write(new Date().getFullYear());</script>2020</span> LAMPS PLUS, Inc. All rights reserved. 
+		<a href="http://www.lampsplus.com/htmls/TermsOfUse.aspx" rel="nofollow">Terms of Use</a> | <a href="http://www.lampsplus.com/SiteMap.aspx">Site Map</a>
+	</div>
+	<div id="divFtrLP">
+		<a href="http://www.lampsplus.com/">LAMPS PLUS - America's Lighting Superstore®</a>
+	</div>
+</div>
+<form id="frmFooter"><input type="hidden" name="txtGetEmailUpdates" id="txtGetEmailUpdates"></form>
+<img src="http://ad.doubleclick.net/activity;src=1328575;dcnet=1328575;boom=6606;sz=1x1;ord=1?" width="1" height="1" border="0"> 
+<img src="http://ad.doubleclick.net/activity;src=1270268;dcnet=4155;boom=21536;sz=1x1;ord=1?" width="1" height="1" border="0" alt=""> 		
 
-<!-- Start Google Analytics -->
-	<script type="text/javascript"> 
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); 
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); 
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> 
-	<script type="text/javascript"> 
-		var pageTracker = _gat._getTracker("UA-1043949-1"); 
-		pageTracker._setCookieTimeout(10368000);
-		pageTracker._initData(); 
-		pageTracker._setDomainName(".lampsplus.com"); 
-		pageTracker._trackPageview(); 
-	</script>
-<!-- End Google Analytics -->
-
-
-		<img src="http://ad.doubleclick.net/activity;src=1328575;dcnet=1328575;boom=6606;sz=1x1;ord=1?" width="1" height="1" border="0"> 
-	
-		
-	
 	
 		
 		<!-- BEGIN COREMETRICS SUPPORT -->
 		<script language="javascript1.1" src="/js/eluminate.js" type="text/javascript"></script>
 		<script language="javascript1.1" src="/js/cmdatatagutils.js" type="text/javascript"></script>
+		
 		<script language="javascript1.1" type="text/javascript">
 		<!--
 		cmSetProduction();
@@ -1102,4 +706,4 @@ function makeAjaxRequest(strServiceUrl,strFunctionCall,strParams) {
 		
 
 
-</form></div></body></html>
+</body></html>
