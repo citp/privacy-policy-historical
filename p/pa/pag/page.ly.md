@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the page.ly privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127175750id_/http%3A//page.ly/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the page.ly privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202215558id_/http%3A//page.ly/support/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Page.ly Website Builder
 
