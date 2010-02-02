@@ -1,79 +1,103 @@
-> *The following text is extracted and transformed from the tikilive.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523130705id_/http%3A//tikilive.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tikilive.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202063527id_/http%3A//www.tikilive.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Privacy Policy
+**1\. Introduction**
 
-**Updated May 20, 2009**
+**1.1 Purpose of Policy**
 
-TikiLIVE, Inc. ("TikiLIVE," "we" or "us") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of (this "Site") and our media player which enables users to stream and broadcast content (collectively, the "Services"). This Privacy Policy applies only to information that you provide to us through the Services. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our TikiLIVE Terms of Service.
+Eyepartner ("us" or "we") is committed to respecting the privacy rights of its members, visitors, and other users (collectively, "members," "you" or "users") of its Eyepartner, websites [hereinafter collectively referred to as "Eyepartner"] This Eyepartner Privacy Policy is provided to help you make an informed decision whether to continue to visit and use Eyepartner, and to demonstrate our commitment to fair information practices and the protection of privacy. This policy is only applicable to Eyepartner, and not to any other websites that you may be able to access from Eyepartner, each of which may have data collection and use practices and policies that differ materially from this Privacy Policy. 
 
-As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or touching information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within the United States or internationally. 
+This Privacy Policy is incorporated into and subject to the Eyepartner Terms of Service. Both the Privacy Policy and the Terms of Service govern your interaction with Eyepartner, and your registration for and use of Eyepartner. 
 
-## **Information Collection and Use**
+**1.2 About the Service**
 
-Our primary goals in collecting information are to provide and improve our Services, features and content, to administer your membership and to enable users to enjoy and easily navigate the Site. We also may also use your information in order to better understand how our Services are used.
+The Eyepartner website [www.Eyepartner.com] is a web-based interactive multimedia communications service that allows members to interact and communicate with the Eyepartner community over the Internet by sharing their own media content and personal information. The TikiLIVE website [www.TikiLIVE.com] is a venue provided by EYEPARTNER where Eyepartner Members who have registered for the TikiLIVE service can sell access to their content. Some of the Eyepartner services require registration. To utilize Eyepartner’s registration based services, each Eyepartner user must become a registered Member by creating his or her own profile, which contains Personal Information (defined further in Section 2.1(b) below) that the member chooses to include. Such Personal Information includes, but is not limited to, the member’s name, age, location, and other similar personal information; it may also include shared content uploaded by the member to Eyepartner, such as photographs, video and audio files, which may contain the member’s Personal Information and likeness. 
 
-_Personally Identifiable Information._
+**1.3 Notice Concerning Children**
 
-1.  In the course of using the Services, we ask you to provide us with certain personally      identifiable information that can be used to contact or identify you and administer your account ("Personal Information"). Personal Information may include, but is not limited to, your name, phone number, credit card or other billing information, email address and home and business postal addresses. We use your Personal Information mainly to provide the Services and administer your inquiries.
+**PLEASE NOTE:** Eyepartner and any products or services provided therein are limited to audiences fourteen (14) years old or older. Eyepartner does not direct any content specifically at children. If we learn or have reason to suspect that a user is underage, we will promptly delete any Personal Information in that user’s account. 
 
-2.  Please be aware that when you register to become a TikiLIVE Member, other users of the Services may be able to see your screen or user name, in addition to any comments or submissions that you post to the Site or submit via the Services. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your screen or user name to the extent that allows others to identify you.
+**2\. Information Collection Practices**
 
-3.  We also collect the other information that you provide as part of your use of the Services, including via your registration and the administration and personalization of your profile webpage (e.g., without limitation zip code and individual preferences) ("Non-Identifying Information"). Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other TikiLIVE Users to attempt to provide you with a better experience, to improve the quality and value of the Services and to analyze and understand how our Services are used.
+**2.1 Types of Information Collected**
 
-4.  We also use your Personal Information to contact you with TikiLIVE newsletters, marketing or promotional materials and other information that may be of interest to you. TikiLIVE Members who agree to the terms and conditions of the TikiLIVE Terms of Service Agreement are given the opportunity to opt into receiving such communications from us in the future. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your "user preferences" information. (See "Changing or Deleting Information," below.)  
-  
+EYEPARTNER collects the following types of information about users:
 
+(a) Non-Personal Information. When you use Eyepartner, our servers automatically record information that your browser sends whenever you visit any website. These server logs automatically track and collect the following categories of information when you visit our websites: 1. IP Addresses; 2. domain servers; 3. types of computers accessing the website; and 4. types of web browsers used to access the website (collectively "Traffic Data"). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on Eyepartner. We also use "cookies" (defined in Section 2.3 below) in order to customize content specific to your interests, to ensure that you do not see the same advertisement repeatedly, to store your password so you do not have to re-enter it each time you visit the site, and to restrict the access of users who have violated our Terms of Service.
 
-_Log Data._ As you use the Services, whether as a TikiLIVE Member or a non-registered user just browsing (any of these, a "TikiLIVE User"), our servers automatically record information that your browser sends whenever you visit a website ("Log Data"). This log data may include information such as your computer's IP address, browser type or the domain from which you are visiting. We use this information to monitor and analyze use of the Services and for the Site's technical administration. We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.
+(b) Personal Information. In order for you to access certain services that we offer via Eyepartner (including Membership registration, and the use of chat rooms and message boards), we require you to provide us with certain information that personally identifies you ("Personal Information"). Personal Information includes the following categories of information: 1. Contact Data (such as your name, mailing address, e-mail address); 2. Demographic Data (such as your gender, age, occupation, location, and marital status); and 3. And Profile Data (such as your Member name, interests, and Content uploaded by you to Eyepartner, such as photographs, video and audio files, which may also contain your personal information and likeness). Additionally, if you communicate with us by e-mail, use any of the Eyepartner communication tools such as instant messaging, and video chat, or post messages to any of our chat groups, bulletin boards, or forums, or otherwise complete online forms, surveys, or contest entries, any information provided in such communication may be collected as Personal Information. If you are a TikiLIVE Host (seller), we will collect your credit card information. We do not collect credit card information of TikiLIVE buyers. 
 
-### ** **
+**2.2 Use and Sharing of Information**
 
-### **Cookies**
+(a) EYEPARTNER Use of Personal Information. EYEPARTNER uses your Personal Information internally in order to promote and operate Eyepartner, and to introduce users to new features, areas or content of Eyepartner. For example, we use your Demographic and Profile Data to customize and tailor your experience on Eyepartner and/or services, displaying content that we think you might be interested in and according to your preferences. In addition, we use Contact Data to send you information about our Company or our products or services, or family-friendly promotional material from some of our partners, affiliates, or to contact you when necessary. 
 
-Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your registration ID and login password for future logins to the Site. Second, we utilize session ID cookies to enable certain features of the Services, to better understand how you interact with the Services and to monitor aggregate usage by TikiLIVE Users and web traffic routing on the Services. Unlike persistent cookies, session cookies are deleted from your computer when you close your browser. Third party advertisers on the Services may also place or read cookies on your browser. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Services.
+(b) Sharing of Non-Personal Information with Third Parties. We may share aggregate Traffic Data with third parties who assist us in understanding the needs of our Members and users, and to continually improve Eyepartner for them. We share Demographic Data with advertisers and other third parties only on an aggregate (i.e., non-personally-identifiable) basis. 
 
-#### Information Sharing and Disclosure
+(c) Sharing of Personal Information with Third Parties. We share Contact Data with TikiLIVE Hosts (sellers) with whom you have transacted business with. We also share Contact Data with our contractors who assist us by performing core services (such as hosting, data storage and security) related to our operation of the Eyepartner. Those affiliate companies and contractors have all agreed to uphold the same standards of security and confidentiality that we have promised to you in this Privacy Policy, and they will only use your Contact Data and other Personal Information as necessary to carry out their specific contractual obligations to EYEPARTNER. If you are a TikiLIVE Host (seller), we will disclose your credit card information to those companies that EYEPARTNER uses to authorize and process credit card payments. Your credit card information will never be intentionally disclosed to any other Member or third party. 
 
-_TikiLIVE Members._ When you register through the Site and submit your Personal Information to create a profile webpage, TikiLIVE Users will see your "Screen Name" and the month and year you first registered with TikiLIVE ("Required Member Identifiers"). You can choose what other Personal Information you provide as part of your profile ("Other Member Information") and in some cases you can choose whether to share that information publicly on the Site by making selections via the "user preferences" section of your profile webpage. Providing Other Member Information is voluntary and should correlate with the degree of interaction you want to have with TikiLIVE Users. We recommend that you guard your anonymity and sensitive information.
+(d) Display of Personal Information. Any Personal Information (including video content) that you Post or otherwise disclose on Eyepartner (for example, on message boards or chat rooms, or within your personal profile page) becomes publicly available and can be collected and used by others. Your account name and other profile information (but not your email address) is displayed to other internet users when you upload videos or send messages through Eyepartner, and you can be contacted by other users who send you comments. Any videos or other content that you submit to Eyepartner (including any Personal Information contained therein) may be distributed through the internet and other media. 
 
-_Aggregate Information and Non-Identifying Information._ We may share aggregated information which does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any such aggregated information will not contain your Personal Information.
+(e) E-mail Invitations. Members can invite friends to join Eyepartner by sending invitations via our automated invitation system. Eyepartner stores the email addresses that members provide so that the respondents may be added to the friend’s list of the member sending the invitations. Recipients of invitations from Eyepartner may contact EYEPARTNER to request the removal of their information from our database. 
 
-_Service Providers._ We may employ third party companies and individuals to facilitate our Services, to provide the Services on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Site's features), or to assist us in analyzing how our Services are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+Other Uses of Traffic Data and Personal Information. We may provide Traffic Data and Personal Information in response to subpoenas, court orders, or other legal process, or to establish or exercise our legal rights or defend against legal claims, and we reserve the right to cooperate with law enforcement investigations by providing Traffic Data and Personal Information to law enforcement officials without requiring a subpoena or court order in certain situations (for example, in case of threats to our Members).
 
-_Compliance with Laws and Law Enforcement._ TikiLIVE cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of TikiLIVE or a third party, to protect the safety of the public or any person, or to prevent or stop any illegal, unethical or legally actionable activity.
+**2.3 Use of Cookies.**
 
-_Business Transfers._ TikiLIVE may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. If TikiLIVE becomes involved in a merger, acquisition, reorganization or any form of sale of some or all of its assets, we will provide notice to you before your Personal Information is transferred and becomes subject to a different privacy policy.
+When you visit Eyepartner, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. We use both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of Eyepartner may not function properly if the ability to accept cookies is disabled. 
 
-### ** **
+**2.4 User Choice Regarding Collection, Use, and Distribution of Personal Information.**
 
-### **Changing or Deleting Your Information**
+You may choose not to provide us with any Personal Information. In such an event, you will not be able to complete our Membership registration, or access and use those portions of Eyepartner that require your Personal Information. If you do not wish to receive information and promotional material from us or from our affiliate companies, you may select the appropriate "opt-out" option. 
 
-All TikiLIVE Members may review, update, correct or delete the Personal Information in their registration profile by contacting us. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us and we will attempt to accommodate your request. See below for privacy contact information.
+**3\. Confidentiality and Security of Personal Information**
 
-### Security
+We will keep your Personal Information private and will not share it with third parties, except as otherwise provided in this Privacy Policy, or unless such disclosure is necessary to: (a) comply with a court order or other legal process; (b) protect our rights or property, or the safety, rights or property of Eyepartner users; or (c) enforce our Terms of Service and other guidelines available on Eyepartner and/or services. Your Personal Information is stored on secure servers, and EYEPARTNER takes reasonable measures to protect such information from disclosure to or access by third parties. Please note that EYEPARTNER does not guarantee the security of member account information or Personal Information, and there is always some risk that an unauthorized third party may find a way around our security systems or that transmissions of your information over the internet will be intercepted. 
 
-TikiLIVE is very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. We will make any legally required disclosures of any breach of the security, confidentiality or integrity of your unencrypted electronically stored Personal Data (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+**3.1 User Ability to Access, Update, and Correct Personal Information.**
 
-###  
+You are solely responsible for ensuring the accuracy of the Personal Information or other account information you submit to Eyepartner. Inaccurate information will affect the services you receive when using Eyepartner and our ability to contact you. 
 
-### International Transfer
+We maintain a procedure in order to help you confirm that your Personal Information remains correct and up-to-date. At any time, you may visit your personal profile in order to: (a) review and update your Personal Information; (b) choose whether or not you wish to receive promotional material from us or some of our partners. 
 
-Your information may be transferred to - and maintained on - computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, TikiLIVE transfers Personal Information to the United States and processes it there. Your submission of such information represents your agreement to that transfer.
+**3.2 Lost or Stolen Information**
 
-###  
+You must promptly notify us if your user account ID, or password is or you have cause to believe has been lost, stolen, or used without permission. In such an event, we will remove that user account ID, or password from your account and update our records accordingly. 
 
-### Links to Other Sites
+**3.3 Links and Public Information**
 
-The Services contain links to other websites. If you choose to visit an advertiser by "clicking on" a banner ad or other type of advertisement, or click on another third-party link, you will be directed to that third party's website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. This Privacy Policy addresses the use and disclosure of information that we collect from you through our Services. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+For your convenience, Eyepartner contains links to other third party websites. We do not endorse and are not responsible for the privacy practices or the content of such websites. If you choose to link to third party websites, you should review the Privacy Policy posted on this other website in order to understand how the third party collects and uses your Personal Information. 
 
-#### Our Policy Toward Children
+Please understand that any information that is disclosed in chat rooms, forums, message boards and news group areas on Eyepartner becomes public information. We have no control over the use of such information and you should exercise caution when deciding to disclose your Personal Information on these areas of Eyepartner. Further, it is up to you to take precautions to ensure that whatever links you select or software you download is free of such items as viruses, worms, Trojan horses, date or time bombs and other items of a destructive nature.
 
-TikiLIVE does not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [support@eyepartner.com](mailto:Privacy@Ustream.tv)If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+**3.4 California Privacy Rights**
 
-###  
+California
 
-### Contacting Us
+residents can ask companies with whom they have an established business relationship to provide (a) a list of the categories of Personal Information that a business has disclosed to third parties for direct marketing purposes for the immediately preceding calendar year, and (b) the names and addresses of such third parties. To request this information from EYEPARTNER, please email us at support@Eyepartner.com; or write us at 
 
-If you have any questions about this Privacy Policy, please contact us at [support@eyepartner.com](mailto:support@eyepartner.com)
+633 W. 5th Street
+
+, 68th Floor, 
+
+Los Angeles, CA 90071
+
+. We will respond to such properly addressed written requests. Please note that we are only required to respond to each customer once per calendar year.
+
+**4\. International Users**
+
+Eyepartner is hosted in the 
+
+United States
+
+and is intended for and directed to users in the 
+
+United States
+
+. If you access Eyepartner from any region or country with laws or regulations governing personal data collection, use and disclosure that differ from United States law, please be advised that through your continued use of Eyepartner, which is governed by U.S. law, this Privacy Policy, and the Eyepartner Terms of Service, you are transferring your personal information to the United States, and you consent to that transfer.
+
+**5\. Updates and Changes to Privacy Policy**
+
+We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Eyepartner and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on Eyepartner. 
+
+Revised: May 25, 2009.
