@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogote.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230033109id_/http%3A//blogote.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogote.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202220957id_/http%3A//blogote.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blogote - Internet Technology, Web resources and blogging
 
