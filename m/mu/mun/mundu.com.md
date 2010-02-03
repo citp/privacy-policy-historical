@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the mundu.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105211943id_/http%3A//mundu.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mundu.com privacy policy that was archived on 2010-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100203095057id_/http%3A//mundu.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # – Privacy
 
-Your privacy is very important to us. We at Geodesic Limited (”GEODESIC”) are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (”Personal Information”) you share with us. GEODESIC does not sell or rent your Personal Information to third parties for any of their purposes, whether it is marketing or otherwise.
+Your privacy is very important to us. We at Geodesic Limited (“GEODESIC”) are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us. GEODESIC does not sell or rent your Personal Information to third parties for any of their purposes, whether it is marketing or otherwise.
 
 “Personal Information” means any information that may be used to identify an individual, including, but not limited to, a name, a date of birth, an email address or other related information.
 
 GEODESIC strives to protect your Personal Information no matter where that Personal Information is collected, transferred, or retained, although legal requirements may vary from country to country, and there may be countries that may not require an “adequate” level of protection for your Personal Information.  
-All the subsidiaries and affiliates of GEODESIC operate under similar privacy practices as described in this Privacy Policy (”Privacy Policy”). However, this Privacy Policy does not apply to the practices of companies that GEODESIC does not own or control, or to people that GEODESIC does not employ or manage.  
+All the subsidiaries and affiliates of GEODESIC operate under similar privacy practices as described in this Privacy Policy (“Privacy Policy”). However, this Privacy Policy does not apply to the practices of companies that GEODESIC does not own or control, or to people that GEODESIC does not employ or manage.  
 Please read this Privacy Policy to learn more about the ways in which GEODESIC uses and protects your Personal Information.
 
 **1\. COLLECTION OF INFORMATION**
