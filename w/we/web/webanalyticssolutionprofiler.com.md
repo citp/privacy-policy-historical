@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webanalyticssolutionprofiler.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230032329id_/http%3A//webanalyticssolutionprofiler.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webanalyticssolutionprofiler.com privacy policy that was archived on 2010-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100203221955id_/http%3A//webanalyticssolutionprofiler.com/privacy.htm) for the most accurate reproduction.*
 
-# ::Privacy and code of ethic::WASP::Web Analytics Solution Profiler::
+# ::Privacy and code of ethic::WASP::
 
 This privacy statement covers iPerceptions Inc.’s (“iPerceptions” or “us”) “WASP” service (the “Service”) available at WebAnalyticsSolutionProfiler.com 
 
