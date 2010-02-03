@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebodyshop.com privacy policy that was archived on 2009-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090820205241id_/http%3A//www.thebodyshop-usa.com/beauty/privacy%3Fcm_re%3DTyra_TeaTree-_-Navigation-_-privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebodyshop.com privacy policy that was archived on 2010-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100203015227id_/http%3A//www.thebodyshop-usa.com/beauty/privacy%3Fcm_re%3DTyra_VDayChocolate-_-Navigation-_-privacy%2Bpolicy) for the most accurate reproduction.*
 
 # The Body Shop - Privacy Policy
 
