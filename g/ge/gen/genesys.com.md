@@ -1,90 +1,35 @@
-> *The following text is extracted and transformed from the genesys.com privacy policy that was archived on 2009-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090704180544id_/http%3A//www.genesys.com/Resources/Documents/US/Legal/Privacy%2520Policy2007.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genesys.com privacy policy that was archived on 2010-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100203071145id_/http%3A//www.intercall.com/privacy.php) for the most accurate reproduction.*
 
-# 
+# InterCall Privacy Policy | Conference Call Company
 
-Privacy Policy
-Genesys Conferencing embraces any tools - such as the Application Service Provider and the Business Manager web portal - of Genesys
-S.A. that will give you access to the Genesys Conferencing services and products you use via the World Wide Web. The policies below are
-applicable to Genesys Conferencing .
-Your Privacy Is Our Concern
-At Genesys Conferencing, your privacy is our concern. We understand your need for privacy when using the Web for your communications
-and we have developed our Privacy Policy in order to demonstrate our firm commitment to privacy. We want you to feel confident about the
-privacy and security of your personal information.
-Your Privacy
-Genesys Conferencing protects your privacy and your data. Genesys Conferencing does not share, disclose, trade or sell any personally
-identifiable information collected online with other companies or organizations. If Genesys Conferencing should, at any time, desire to share
-its customers' personal or online transactional data with third parties, it will provide advance notification allowing its users the opportunity to
-prevent the company from providing their information to third parties.
-      Disclosure for Legal Purposes: While Genesys Conferencing will use its best efforts to protect your privacy and personal information,
-      we may be required by law or we may believe in good faith that disclosure is necessary: a) to defend our rights or property or those of
-      our users; b) to comply with legal process served on us or our affiliates; c) or in connection with a corporate transaction such as a
-      merger, consolidation or sale of substantial assets.
-      Improper Conduct: We may also use your personal information to investigate and help prevent potentially unlawful activity or activity
-      that threatens our service.
-      Choice: If you do not want to receive communications from Genesys Conferencing, please contact your local customer representative
-      directly and we will delete your name from our marketing list.
-Your Data
-      Personal Information: Genesys Conferencing may ask you for personally identifiable information such as your name, telephone
-      number or email address. We use this information to help maintain accurate accounts and to provide the services you have requested.
-      Once you register at Genesys Conferencing and sign in to our services, you are no longer anonymous to us. Any details that you
-      provide to us are stored for use on future visits, as we do not want you to give us any information more than once. Personally
-      identifiable information that we collect may be stored and processed in any country where Genesys Conferencing or its affiliates,
-      subsidiaries or agents maintain facilities.
-      Personally identifiable information may be combined with other information about your use of our sites in order to improve our services
-      and products. Some examples of how we might use your personal information include:
-            Our server will recognize your domain name and the pages that you visit. This data is gathered for quality control and
-            improvement of our site.
-            When an email is sent to us or you have completed a web form and included your email address, we will use your email address in
-            order to respond to your inquiry.
-            We collect information that you volunteer to us on surveys, contests, and registration sites.
-            We ask for your email address in order to communicate with you about your account and other Genesys Conferencing related
-            services and products.
-            We may also contact you to offer new products and services, however if you do not want to receive this information, please go the
-            section above titled “Choice.”
-      Anonymous Information: Genesys Conferencing collects general information that does not personally identify you regarding your use
-      of our sites (“Anonymous Information.”) We may use this Anonymous Information in order to improve our services and products,
-      evaluate our marketing efforts or make our site more useful to you.
-      Email Addresses: Your email address will be stored just as securely as any other personal information that we have received from you.
-      We will not pass on your email contact information to any organization beyond the Genesys Group’s control without your express
-      permission. We will not send you unwanted email messages or junk mail, however our marketing and accounting departments may
-      need to send you email messages regarding new services and products or regarding accounting or service matters.
-      Access to Services: When you register an account to use any of our services and products, we will send a confirmation of the
-      registration indicating the personal information that was obtained from the registration. The registration will be treated as consent to our
-      using the personal and anonymous information in the manner described in this Policy.
-      Data Review / Update: You may review or update the available personally identifiable information that we have received from you,
-      either online by using our online account service tools if you have permission to such tools, or by contacting your local customer
-      representative. To better safeguard your information, we will take reasonable steps to verify your identity before granting access or
-      making corrections to your information on file.
-Safeguards and Security
-      Our technology
-      The technology we employ ensures that your sensitive information is secure and protected from loss or misuse, from unauthorized
-      access, disclosure, alteration or destruction and from improper use. For example, we provide password-protection for certain services
-      offered on this site. For our on-line web reservation service, we use industry-standard SSL-encryption and proprietary security methods
-                                                                                                                                         April 2006
+InterCall is a leading provider of audio and Web conferencing services. We have developed this Web site (the "InterCall Site") to provide you with access to these services. We understand your need for privacy when using the Web for your communication. This policy discloses InterCall's practices with respect to the collection, use and disclosure of user information collected through the InterCall Site and through your use of InterCall services.
 
+**1\. NOTICE.** In connection with the operation of the InterCall site we will ask you to provide us with information that personally identifies you or allows us to contact you ("Personal Information") when, among other things, you register on the InterCall Site, use one of our services, fill out a survey, make a request for information, or enter a sweepstakes or contest through the InterCall Site. We will use the Personal Information that you provide us in these circumstances to operate the InterCall Site, to provide, deliver, bill and collect for services to satisfy InterCall’s legitimate business interests, such as customer analysis and internal marketing study and analysis, and to provide information that you request from the InterCall Site ("Primary Use"). Unless you instruct us not to do so, InterCall may also use the Personal Information that you provide us to contact you regarding additional or new services and features offered by InterCall, special offers by InterCall, or important information regarding InterCall ("InterCall Secondary Use"). In addition, with your permission, we may provide your Personal Information to other companies who may contact you regarding products, services, and offers that may be of interest to you, but that are not directly related to InterCall or the InterCall Site ("Third Party Secondary Use").
 
-     to protect data transmissions and to provide secure sessions. We will continue to enhance our security procedures as new technology
-     becomes available.
-     We store your sensitive information in secure operating environments that are not available to the general public. We have taken all
-     necessary safeguards and security measures to protect your privacy, however, you recognize and accept that under the current
-     technology, where Genesys Conferencing sometimes uses technical protective security programs in conjunction with its services,
-     Genesys Conferencing, in no way whatsoever provides or implies an absolute warranty of security and protection to you.
-     Hyperlinks
-     Genesys Conferencing may contain ad banners and hyperlinks that can give you access to websites run by third parties. Our control and
-     influence over the privacy policies of such third party sites may be limited, and we strongly recommend that you review the privacy
-     policy of each third party site that you choose to visit. We are not and cannot be responsible for your privacy on third party sites not
-     under our direct control.
-Use of Cookies
-A cookie is a piece of information that is sent to your browser from a website’s computer and stored on the hard drive of your computer. Our
-website uses cookies to keep track of your session ID and to provide you with better service. We may use cookies to deliver content that is
-specific to your interests. You have the option of configuring your browser to accept all cookies, reject all cookies or notify you when a
-cookie is sent. Check the Help menu of your browser to learn how to change your cookie options. But please note that if you reject all
-cookies you may not be able to use some of our products and services that require you to sign-in.
-Contact Us
-We work hard to protect your privacy. We want you to know that we are committed to safeguarding your privacy to our online and Internet
-activities and we welcome the opportunity to hear from you if you have a question regarding our privacy policy. For any further information
-or if you would like to access, modify or delete your information, please contact us at the address below and we will use commercially
-reasonable efforts to promptly address your request.
-Genesys S.A. - Office of General Counsel - Internet Privacy – 215, rue Samuel Morse - CS 69004 - 34967 Montpellier Cedex 2 – France.
-mailto: privacy@genesys.com
-                                                                                                                                       April 2006
+InterCall may provide Personal Information to vendors that assist InterCall in processing the information. InterCall requires such vendors to enter into agreements with InterCall prohibiting disclosure of the information to others and restricting its use to providing the contracted services of InterCall.
+
+**2\. CHOICE.** As we noted above in Section 1, we will not use your Personal Information for any Third Party Secondary Uses unless you affirmatively choose to participate in such Secondary Uses. You may also stop the delivery of informational or promotional mail from us by following the instructions included in the informational or promotional mail itself.
+
+**3\. ACCESS.** When you register to use any of the services offered by InterCall, InterCall will send you a confirmation of your registration showing the Personal Information that we obtained from your registration. Also, we will take reasonable steps to give you the opportunity to correct inaccuracies in the Personal Information we retain concerning you and delete Personal Information concerning you upon your request.
+
+**4\. SECURITY.** The Personal Information that we collect from you is stored in operating environments that employ reasonable security measures and that are not available to the general public.  InterCall is not responsible for unauthorized access to such information by hackers or others that obtain access through illegal measures, in the absence of negligence on the part of InterCall. Further, the other sites that you may access through the InterCall Site may have different security practices and you should familiarize yourself with those practices.
+
+You are responsible for the confidentiality and security of passwords that InterCall issues to you. If you believe that a third party has obtained your password in an unauthorized manner, please notify us promptly.
+
+**5\. COMPLAINTS.** If at any time you believe that we have acted contrary to this Privacy Policy, please notify us by email at [website@intercall.com](mailto:website@intercall.com) and we will takes steps to investigate and will use reasonable measures to remedy the problem.
+
+**6\. DISCLOSURE FOR LEGAL PURPOSES.** We may disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary: (a) to conform to the edicts of the law or comply with legal process served on us or our affiliates, (b) to protect and defend our rights or property or those of our users, (c) to protect the personal safety of our users or the public, or (d) in connection with a merger, consolidation or sale of substantial assets of InterCall. As we continue to develop our business, we might buy or sell assets related to our business. In such transactions Personal Information generally is one of the transferred business assets. Also, in the event that InterCall or substantially all of its assets are acquired, Personal Information will be one of the transferred assets.
+
+**7\. ANONYMOUS INFORMATION.** Please understand that, in addition to collecting Personal Information, InterCall will also gather information that does not personally identify you regarding your use of the InterCall Site ("Anonymous Information"). The Anonymous Information that we collect regarding your use of the InterCall Site may be used by us to measure the effectiveness of marketing efforts on the InterCall Site, for improving the services we offer to you, to improve the InterCall Site, or to share with third parties for other purposes. For example, we might use this Anonymous Information to inform our advertisers how many users visited a particular advertisement, and for how long, so they can measure whether the advertisement was effective. Generally, you will not be aware when such Anonymous Information is being collected about you - it may be collected in various ways, such as through traffic data or direct surveys of our customers and may entail the use of, among other things, cookies, IP addresses, or other numeric codes used to identify the computer or other device used to access our site.
+
+**8\. COOKIES.** We use cookies to provide you with better service. Cookies are pieces of information that a Web site transfers to your computer's hard disk for record-keeping purposes. Cookies can make the Web more useful by storing information about your preferences for a particular site. The use of cookies is an industry standard, and many major Web sites use them to provide useful features for their customers. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies. However, you may not be able to take full advantage of the functionality of the InterCall Site or services if you do so.
+
+**9\. VENTURING OFF THE INTERCALL SITE.** The InterCall Site may contain banner advertisements and hyperlinks that can take you to Web sites run by other third parties ("Third-Party Sites"). Any hypertext or other links to third party Web sites from the InterCall Site are provided solely as a convenience to you. If you use these links, you will leave the InterCall site. InterCall has not reviewed all of these third party sites and does not control and is not responsible for any of these sites or their content or practices. Thus, InterCall does not endorse or make any representations about them, or any information, software, or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the third party sites linked to the InterCall site, you do this entirely at your own risk.
+
+Remember, this Privacy Policy only applies to the InterCall Site. When you are no longer on the InterCall Site, you may encounter different privacy and security practices and you should familiarize yourself with those practices each time you visit a new site.
+
+**10\. MODIFICATIONS.** InterCall reserved the right to modify the Privacy Policy at any time. Please review the Privacy Policy each time you use the InterCall Site or the Services, as your continued use of the InterCall Site and the Services signifies your assent to such modifications.
+
+**11\. CONTACT US.** If at any time you believe that InterCall has not followed the above policy, or if you would like your information deleted from our system, please contact us via email at [website@intercall.com](mailto:website@intercall.com).
+
+ 
