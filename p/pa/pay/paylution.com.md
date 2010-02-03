@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paylution.com privacy policy that was archived on 2009-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090718204516id_/http%3A//www.paylution.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paylution.com privacy policy that was archived on 2010-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100203012845id_/http%3A//paylution.com/privacy.htm) for the most accurate reproduction.*
 
 # Paylution prepaid debit card product and service privacy policy
 
