@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conservative.ca privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218164744id_/http%3A//www.conservative.ca/EN/4799/77476) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservative.ca privacy policy that was archived on 2010-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100203162112id_/http%3A//www.conservative.ca/EN/4799/77476) for the most accurate reproduction.*
 
 # Privacy Policy
 
