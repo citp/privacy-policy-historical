@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smacchat.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522020113id_/http%3A//www.smacchat.com/content/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smacchat.com privacy policy that was archived on 2010-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100204130730id_/http%3A//www.smacchat.com/content/privacy-policy-0) for the most accurate reproduction.*
 
 # Privacy Policy | SmacChat
 
