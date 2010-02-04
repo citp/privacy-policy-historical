@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelguru.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202024444id_/http%3A//www.travelguru.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelguru.com privacy policy that was archived on 2010-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100204020859id_/http%3A//www.travelguru.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Travelguru - Privacy Policy
 
