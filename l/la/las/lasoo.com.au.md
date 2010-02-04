@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lasoo.com.au privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112024611id_/http%3A//www.lasoo.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasoo.com.au privacy policy that was archived on 2010-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100204081452id_/http%3A//www.lasoo.com.au/privacy.html) for the most accurate reproduction.*
 
-# privacy
+# 
 
 ## 1\. Introduction
 
