@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozmodchips.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212152419id_/http%3A//www.ozmodchips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozmodchips.com privacy policy that was archived on 2010-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100204184136id_/http%3A//www.ozmodchips.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : OzModChips.com, Australian Supplier of WiiKey, Drivekey, M3, R4DS and CycloDS
 
