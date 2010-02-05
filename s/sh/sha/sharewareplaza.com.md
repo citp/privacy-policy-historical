@@ -1,17 +1,12 @@
-> *The following text is extracted and transformed from the sharewareplaza.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216140149id_/http%3A//www.sharewareplaza.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharewareplaza.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205034528id_/http%3A//www.sharewareplaza.com/info/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy & Copyright - SharewarePlaza.com
+# Privacy policy - SharewarePlaza
 
-**********************Spotlight**
+**[Home](https://web.archive.org/) » Privacy policy**
 
-**********************Popular Video Converter**
+SharewarePlaza.com Privacy policy
 
-[Home](http://www.sharewareplaza.com/) » **Privacy Policy & Copyright**
-
-  
-
-
-  * SharewarePlaza.com takes your privacy seriously. Because we gather certain types of information about our users we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Website that you were viewing when you clicked through to this policy, which is operated by SharewarePlaza.com, its partner or affiliate.
+  * SharewarePlaza.com takes your privacy seriously. Because we gather certain types of information about our users we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Website that you were viewing when you clicked through to this policy, which is operated by SharewarePlaza.com or its partner.
   *   
 This site contains links to other sites. SharewarePlaza.com is not responsible for the privacy practices or the content of such Websites.
   * **Usage Tracking**
@@ -21,7 +16,9 @@ This site contains links to other sites. SharewarePlaza.com is not responsible f
 SharewarePlaza.com also tracks and catalogs the search terms that customers enter into our search tools, but this tracking is never associated with individual users.
   * **Cookies, IP & Log files**
 
-  * SharewarePlaza.com uses cookies to identify the visitor during that visit to the site. Cookies are used on a per-session basis only except you select "Remember Me" on the login page, and are not stored on the visitor's computer. Depending on the browser, the visitor may be able to use separate security settings for per-session cookies and cookies that are stored.
+  * In order to offer you a personalized service, SharewarePlaza.com may use cookies to ease storing and tracking your preferences. For instance, we may use cookies to make sure you don't see the same ad repeatedly, or to deliver content specific to your interests; the content contained is not distributed to third parties.
+  *   
+Advertisements served by Google, as a third party vendor, use DART cookies. These cookies are used to serve ads based on your visit to this site and other sites on the Internet. You may opt out of the use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
   *   
 We use your IP address to help diagnose problems with our server, and to administer our Website. We will not use this information in any other way and will not release the information to any third parties.
   *   
