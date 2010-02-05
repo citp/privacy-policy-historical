@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giltfuse.com privacy policy that was archived on 2009-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091026123929id_/http%3A//www.giltfuse.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giltfuse.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205040027id_/http%3A//www.giltfuse.com/company/privacy) for the most accurate reproduction.*
 
 # Gilt Fuse Privacy Policy
 
@@ -12,7 +12,7 @@ The information we collect through our Site helps us provide you with informatio
 
 (ii) Server Statistics. We collect general statistics to track user trends on our Site. These statistics include hits to our server, the types of browsers used to access our Site, page views, and navigational patterns. The information that is collected in this manner does NOT provide us with any personally identifiable information about our users. It helps us track “where” our users are coming from. This allows us to pinpoint high traffic areas and determine the most effective ways to communicate with our users. As part of that ongoing analysis, Gilt Fuse also uses devices called “web beacons” to help us identify when emails sent to you have been received and read. In order to prevent the introduction of viruses and hackers into the Gilt Fuse site we may collect information, such as IP addresses, into a log file to be used to identify potential hackers of the Gilt Fuse site. 
 
-(iii) Personal Information You Provide Us. For the purposes of this Privacy Policy, “Personal Information” is any information that identifies you, would enable someone to contact you, or that describes your relationship with Gilt Fuse. We collect and store Personal Information when you register to use our Site, ask a question, complete a form, conduct a transaction, or send us an email. While you are not required to submit any information to our Site, if you do not provide the requested information, you may not be able to access or use some of the features and functions of our Site and we may not be able to provide you with certain services. Gilt Fuse uses your Personal Information to complete transactions, respond to your requests, deliver the products and services you request, and notify you of promotions, updates, or special offers that we think may interest you. If you are already receiving gilt.com or giltgroupe.com emails and no longer wish to receive such communications, simply follow the "unsubscribe" instructions that appear in every gilt.com or giltgroupe.com e-email, or contact us through the [preference center](https://web.archive.org/web/20091026123929id_/http%3A//www.giltfuse.com/company/account/update_email_preferences) to modify subscriptions. 
+(iii) Personal Information You Provide Us. For the purposes of this Privacy Policy, “Personal Information” is any information that identifies you, would enable someone to contact you, or that describes your relationship with Gilt Fuse. We collect and store Personal Information when you register to use our Site, ask a question, complete a form, conduct a transaction, or send us an email. While you are not required to submit any information to our Site, if you do not provide the requested information, you may not be able to access or use some of the features and functions of our Site and we may not be able to provide you with certain services. Gilt Fuse uses your Personal Information to complete transactions, respond to your requests, deliver the products and services you request, and notify you of promotions, updates, or special offers that we think may interest you. If you are already receiving gilt.com or giltgroupe.com emails and no longer wish to receive such communications, simply follow the "unsubscribe" instructions that appear in every gilt.com or giltgroupe.com e-email, or contact us through the [preference center](https://web.archive.org/web/20100205040027id_/http%3A//www.giltfuse.com/company/account/update_email_preferences) to modify subscriptions. 
 
 ## 3\. What Security Procedures Does Gilt Fuse Use To Protect Personal Information?
 
@@ -54,7 +54,7 @@ Gilt Fuse is committed to protecting your privacy. The information collected fro
 
 If you have questions or suggestions regarding this Privacy Policy or our privacy practices please send an email message to privacy@gilt.com. 
 
-40 West 20th Street, 6th Floor, New York, NY 10011
+2 Park Avenue, 4th Floor, New York, NY 10016
 
 **Historical Modifications:**
 
