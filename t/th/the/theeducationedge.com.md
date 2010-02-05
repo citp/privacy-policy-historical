@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeducationedge.com privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003024620id_/http%3A//www.theeducationedge.com/RequestSchoolInfo/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeducationedge.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205052153id_/http%3A//theeducationedge.com/RequestSchoolInfo/privacypolicy.jsp) for the most accurate reproduction.*
 
 # TheEducationEdge.com
 
