@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsplex.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115205143id_/http%3A//www.newsplex.com/unclassified/34218884.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsplex.com privacy policy that was archived on 2010-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100206005552id_/http%3A//www.newsplex.com/unclassified/34218884.html) for the most accurate reproduction.*
 
 # GRAY TELEVISION, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
