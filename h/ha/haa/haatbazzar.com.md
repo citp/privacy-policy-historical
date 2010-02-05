@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haatbazzar.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228061819id_/http%3A//www.haatbazzar.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haatbazzar.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205095745id_/http%3A//www.haatbazzar.com/Privacy.aspx) for the most accurate reproduction.*
 
 # | HAATBAZZAR | Privacy Policy
 
@@ -96,7 +96,7 @@ Your password is the key to your account. Use unique numbers, letters and specia
 
 **Accessing, Reviewing and Changing Your Personal Information**
 
-You can see, review and change most of your personal information by signing on to HaatBazzar. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Once you make a public posting, you may not be able to change or remove it. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our [HaatBazzar Terms](https://web.archive.org/web/20091228061819id_/http%3A//www.haatbazzar.com/Terms.aspx), and take other actions otherwise permitted by law.
+You can see, review and change most of your personal information by signing on to HaatBazzar. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Once you make a public posting, you may not be able to change or remove it. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our [HaatBazzar Terms](https://web.archive.org/web/20100205095745id_/http%3A//www.haatbazzar.com/Terms.aspx), and take other actions otherwise permitted by law.
 
 **Security**
 
@@ -108,4 +108,4 @@ Except as otherwise expressly included in this Privacy Policy, this document add
 
 **General**
 
-We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 30 days after they are initially posted on the site. In addition, we will notify you through the HaatBazzar Message Board. If your questions are not answered online, you may [Contact Us](https://web.archive.org/web/20091228061819id_/http%3A//www.haatbazzar.com/ContactUs.aspx).
+We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 30 days after they are initially posted on the site. In addition, we will notify you through the HaatBazzar Message Board. If your questions are not answered online, you may [Contact Us](https://web.archive.org/web/20100205095745id_/http%3A//www.haatbazzar.com/ContactUs.aspx).
