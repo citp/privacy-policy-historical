@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bontrager.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107161123id_/http%3A//www.bontrager.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bontrager.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205112925id_/http%3A//bontrager.com/support/privacy) for the most accurate reproduction.*
 
 # Bontrager: Privacy Policy
 
