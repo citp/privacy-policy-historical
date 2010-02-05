@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online3fs.com privacy policy that was archived on 2009-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091016011158id_/http%3A//www.online3fs.com/%3Fconfig%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online3fs.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205041358id_/http%3A//online3fs.com/%3Fconfig%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Fund management, Offshore Investment, Online Investment, Plan your retirement
 
