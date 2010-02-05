@@ -1,13 +1,17 @@
-> *The following text is extracted and transformed from the beechnut.com privacy policy that was archived on 2007-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070204121652id_/http%3A//www.beechnut.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beechnut.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205201429id_/http%3A//www.beechnut.com/Terms/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# Beech-Nut Baby Food: Privacy
+# Beech-Nut Baby Food
 
-|  | This is the web site of Beech-Nut Nutrition Corporation (“Beech Nut”).  
+|  |    
+---  
+Privacy Policy  
+| This is the web site of Beech-Nut Nutrition Corporation (“Beech Nut”).  
 ---  
   |    
 Our postal address is  
-100 South Fourth Street – Suite 1010  
-St. Louis, MO 63102  
+Beech-Nut Nutrition Corporation  
+13 British American Blvd   
+Latham, NY 12110   
   |    
 We can be reached via [email](http://bnhelpline.milnot.com/) or you can reach us by telephone at 1-800-BEECH-NUT (1-800-233-2468).  
   |    
@@ -81,4 +85,7 @@ Upon request, we offer visitors the ability to correct inaccuracies in contact i
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-« BACK TO TOP
+« BACK TO TOP  
+  
+   
+ 
