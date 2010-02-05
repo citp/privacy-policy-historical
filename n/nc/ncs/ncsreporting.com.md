@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the ncsreporting.com privacy policy that was archived on 2009-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090330022033id_/http%3A//www.ncsreporting.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncsreporting.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205041957id_/http%3A//ncsreporting.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | NCS Reporting
 
-[Home](https://web.archive.org/web/20090330022033id_/http%3A//www.ncsreporting.com/login.aspx) -> Privacy Policy
+[Home](https://web.archive.org/web/20100205041957id_/http%3A//ncsreporting.com/login.aspx) -> Privacy Policy
 
 Privacy Policy 
 
 * * *
 
-Last Updated: December 10, 2007
+Last Updated: April 14, 2009
 
-**Bankrate, Inc., a Florida corporation (“Bankrate”), owns and operates this Web site and portions of other Web pages and Web content through which you have accessed this Privacy Policy (collectively, this “Site”). By visiting, using and/or submitting information to this Site, you are accepting the practices described in this Privacy Policy and the terms and conditions of Bankrate’s Agreement of Terms of Use located at the URL[http://www.ncsreporting.com/TermOfUse.aspx ](http://www.ncsreporting.com/TermOfUse.aspx)(the “Terms of Use”). **
+**Bankrate, Inc., a Florida corporation ("Bankrate"), owns and operates this Web site and portions of other Web pages and Web content through which you have accessed this Privacy Policy (collectively, this "Site"). By visiting, using and/or submitting information to this Site, you are accepting the practices described in this Privacy Policy and the terms and conditions of Bankrate's Agreement of Terms of Use located at the URL[ http://www.ncsreporting.com/TermOfUse.aspx ](http://www.ncsreporting.com/TermOfUse.aspx)(the “Terms of Use”). **
 
 Bankrate takes your privacy seriously, and has published this Privacy Policy to explain how Bankrate treats all information you may submit to this Site, except that information which is submitted pursuant to a sweepstakes entry. Refer to the Official Rules and Privacy Policy for each individual sweepstakes for Bankrate's specific policies regarding information sharing and disclosure pursuant to sweepstakes entry. 
 
 Collection of Personally Identifiable Information  
 **  
-**Many of the features of this Site are available to you without your providing personally identifiable information. Personally identifiable information generally includes information that could be used to determine your identity, such as your name, address, phone number, e-mail address, and birth date. The following are certain situations in which Bankrate may collect personally identifiable information from you:
+**Many of the features of this Site are available to you without your providing personally identifiable information. Personally identifiable information generally includes information that could be used to determine your identity, such as your name, address, phone number, e-mail address, driver's license number, Social Security Number and birth date. The following are certain situations in which Bankrate may collect personally identifiable information from you:
 
-  * **Registration for Newsletters and Sweepstakes.** Bankrate collects personally identifiable information from you if you register online for one of Bankrate’s newsletters and when you enter Bankrate’s sweepstakes. When you register online with Bankrate, Bankrate asks for personally identifiable information like your name, e-mail address, birth date, gender, ZIP code, occupation, industry, personal interests and other demographic information. 
-  * **Use of Forums.** If you choose to transmit, submit or post information through Bankrate’s chat rooms, bulletin boards or other forums (the “Forums”), Bankrate will collect that information you provide. Bankrate retains this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law and pursuant to Bankrate’s Terms of Use.
-  * **Forms.** Bankrate may collect personally identifiable information from you if you choose to fill out any forms, profiles, or surveys on this Site.
+  * **Registration for Newsletters and Sweepstakes.** Bankrate collects personally identifiable information from you if you register online for one of Bankrate's newsletters and when you enter Bankrate's sweepstakes. When you register online with Bankrate, Bankrate asks for personally identifiable information like your name, e-mail address, birth date, gender, ZIP code, occupation, industry, personal interests and other demographic information. 
+  * **Use of Forums.** If you choose to transmit, submit or post information through Bankrate's chat rooms, bulletin boards or other forums (the "Forums"), Bankrate will collect that information you provide. Bankrate retains this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law and pursuant to Bankrate's Terms of Use.
+  * **Forms.** Bankrate may collect personally identifiable information from you if you choose to fill out any forms, profiles, or surveys on this Site. This includes identifying information (such as your name, home or mailing address, e-mail address, and telephone number), information about your home or prospective home, your financial information (such as your income, assets, or debts), your driver's license number, your Social Security number, personal information (such as your gender and age).
   * **Correspondence.** If you send Bankrate personal correspondence, such as emails or letters, or if other users or third parties send Bankrate correspondence about your activities or postings on this Site, Bankrate may choose to collect such information into a file specific to you.
-  * **Business Partners.** Bankrate may receive your personally identifiable information from one of Bankrate’s business partners.
+  * **Business Partners.** Bankrate may receive your personally identifiable information from one of Bankrate's business partners.
 
 
 
@@ -30,10 +30,10 @@ Use of Personally Identifiable Information
 
 Bankrate uses your personally identifiable information as follows:
 
-  * to improve Bankrate’s marketing and promotional efforts, analyze site usage, improve Bankrate’s content and product offerings, and customize Bankrate's content, layout, and services;
+  * to improve Bankrate's marketing and promotional efforts, analyze site usage, improve Bankrate's content and product offerings, and customize Bankrate's content, layout, and services;
   * to contact you and deliver information to you that, in some cases, is targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of this Site;
   * to fulfill your requests for certain products and services;
-  * for market research, project planning, troubleshooting problems, detecting and protecting against error, fraud or other criminal activity, to enforce Bankrate’s Terms of Use, for other internal purposes, and as otherwise described to you at the time of collection; and
+  * for market research, project planning, troubleshooting problems, detecting and protecting against error, fraud or other criminal activity, to enforce Bankrate's Terms of Use, for other internal purposes, and as otherwise described to you at the time of collection; and
   * as otherwise set forth in this Privacy Policy.
 
 
@@ -42,24 +42,26 @@ You expressly agree to Bankrate's use of your personally identifiable informatio
 
 Disclosure of Personally Identifiable Information
 
-Unless you are entering one of Bankrate’s sweepstakes, Bankrate does not currently sell your personally identifiable information. The following describes some of the ways that your personally identifiable information may be disclosed in the normal scope of business:
+Unless you are entering one of Bankrate's sweepstakes, Bankrate does not currently sell your personally identifiable information. The following describes some of the ways that your personally identifiable information may be disclosed in the normal scope of business:
 
   * **Advertisers**. Bankrate may aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for their marketing and promotional purposes. For example, Bankrate may aggregate personally identifiable information and disclose it to network advertisers in a non-personally identifiable manner as set forth in the section entitled "Network Advertisers," set forth below. _Bankrate does not disclose your information in a personally identifiable manner to such third party advertisers without your consent_. 
 
 
-  * **External Service Providers.** There are a number of separate services offered by third parties, including, without limitation, Bankrate’s affiliates, that Bankrate refers to as external service providers that may be complementary to your use of this Site (e.g. credit card issuers and financial institutions). If you choose to use these separate services, disclose information to the external service providers, and/or grant them permission to collect information about you, then their use of your information is governed by their privacy policy. With your consent, Bankrate may provide some of your personal information to the external service provider offering such services, for your convenience. To prevent Bankrate’s disclosure of your personally identifiable information to an external service provider, you can decline such consent or simply not use their services. You should evaluate the practices of external services providers before deciding to use their services.
+  * **External Service Providers.** There are a number of separate services offered by third parties, including, without limitation, Bankrate's affiliates, that Bankrate refers to as external service providers that may be complementary to your use of this Site (e.g. credit card issuers and financial institutions, insurance agents and mortgage companies). If you choose to use these separate services, disclose information to the external service providers, and/or grant them permission to collect information about you, then their use of your information is governed by their privacy policy. With your consent, Bankrate may provide some of your personal information to the external service provider offering such services, for your convenience. To prevent Bankrate's disclosure of your personally identifiable information to an external service provider, you can decline such consent or simply not use their services. You should evaluate the practices of external services providers before deciding to use their services.
 
 
 
-**NOTE: If you click to apply for a credit card on this Site, you may be linked to an external service provider’s Web site. If you choose to apply for an external service provider’s credit card, then all information you disclose will be governed by the external service provider’s privacy policy. Such links to external service providers are not an endorsement by Bankrate of those external service providers and/or the products or services offered there. Bankrate is not responsible for the privacy practices of external service providers and encourages you to check the privacy policy of external service providers.**
+We use third parties to provide credit check on this Site. When you request a service that requires us to obtain your credit report, we share your personally identifiable information and other sensitive information with the third part to verity your identity and provide the credit check.
 
-  * **Internal Service Providers**. Bankrate may use third parties that Bankrate refers to as internal service providers to facilitate or outsource one or more aspects of Bankrate’s business, product and service operations that Bankrate provides to you (e.g., technology, Forums, newsletters/alerts, analytical tools, advertising campaign management) and therefore Bankrate may provide some of your personal information directly to these internal service providers. These internal service providers are subject to confidentiality agreements with Bankrate or other legal restrictions that prohibit their use of the information Bankrate provides them for any other purpose except to facilitate the specific outsourced Bankrate related operation, unless you have explicitly agreed or given your prior permission to them for additional uses. In some instances, the internal service provider may collect information directly from you. In these cases, you will be notified of the involvement of the internal service provider, and all additional information you provide them and their additional uses will be strictly up to you. If you provide additional information to an internal service provider directly, then their use of your personally identifiable information is governed by their applicable privacy policy.
+**NOTE: If you click to apply for a credit card on this Site, you may be linked to an external service provider's Web site. If you choose to apply for an external service provider's credit card, then all information you disclose will be governed by the external service provider's privacy policy. Such links to external service providers are not an endorsement by Bankrate of those external service providers and/or the products or services offered there. Bankrate is not responsible for the privacy practices of external service providers and encourages you to check the privacy policy of external service providers.**
+
+  * **Internal Service Providers**. Bankrate may use third parties that Bankrate refers to as internal service providers to facilitate or outsource one or more aspects of Bankrate's business, product and service operations that Bankrate provides to you (e.g., technology, Forums, newsletters/alerts, analytical tools, advertising campaign management) and therefore Bankrate may provide some of your personal information directly to these internal service providers. These internal service providers are subject to confidentiality agreements with Bankrate or other legal restrictions that prohibit their use of the information Bankrate provides them for any other purpose except to facilitate the specific outsourced Bankrate related operation, unless you have explicitly agreed or given your prior permission to them for additional uses. In some instances, the internal service provider may collect information directly from you. In these cases, you will be notified of the involvement of the internal service provider, and all additional information you provide them and their additional uses will be strictly up to you. If you provide additional information to an internal service provider directly, then their use of your personally identifiable information is governed by their applicable privacy policy.
 
 
 
 Notwithstanding the foregoing, Bankrate reserves the right (and you authorize Bankrate) to share or disclose your personally identifiable information when Bankrate determines, in its sole discretion, that the disclosure of your personally identifiable information is necessary to identify, contact, or bring legal action against you if:
 
-  * you are or may be violating this Privacy Policy or Bankrate’s Terms of Use;
+  * you are or may be violating this Privacy Policy or Bankrate's Terms of Use;
 
 
   * you are interfering with another's rights or property, including, without limitation, Bankrate's rights or property; 
@@ -75,7 +77,7 @@ Notwithstanding the foregoing, Bankrate reserves the right (and you authorize Ba
 
 
 
-Personally identifiable information and other personal information collected from you may also be transferred to a third party as a result of a sale, acquisition, merger, reorganization, other transfer or bankruptcy (a “Transfer”) involving Bankrate and/or its affiliates. Bankrate specifically reserves the right to transfer personally identifiable information collected from this Site, and any of its databases, together with any personally identifiable information contained therein, to a third party in connection with a Transfer, and nothing in this Privacy Policy is intended to interfere with the ability of Bankrate to transfer all or part of its business and/or assets (including this Site) to an affiliate or independent third party at any time, for any purpose, without any limitation whatsoever.
+Personally identifiable information and other personal information collected from you may also be transferred to a third party as a result of a sale, acquisition, merger, reorganization, other transfer or bankruptcy (a "Transfer") involving Bankrate and/or its affiliates. Bankrate specifically reserves the right to transfer personally identifiable information collected from this Site, and any of its databases, together with any personally identifiable information contained therein, to a third party in connection with a Transfer, and nothing in this Privacy Policy is intended to interfere with the ability of Bankrate to transfer all or part of its business and/or assets (including this Site) to an affiliate or independent third party at any time, for any purpose, without any limitation whatsoever.
 
 In addition, due to the existing regulatory environment, Bankrate cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), Bankrate may be forced to disclose personal information to the government or third parties under certain circumstances or third parties may unlawfully intercept or access transmissions or private communications. Therefore, although Bankrate uses industry standard practices to protect your privacy, Bankrate does not promise, and you should not expect, that your personally identifiable information or private communications will always remain private. 
 
@@ -103,11 +105,11 @@ If you would like to opt-out of third-party advertising companies' use of such i
 
 Opt- Out and Changes to Personally Identifiable Information and Use Preferences
 
-You may at any time request a copy of Bankrate’s record of your personally identifiable information, change your personally identifiable information or use preferences, or opt-out of Bankrate's use of your personally identifiable information by contacting Bankrate via any of the methods set forth below: 
+You may at any time request a copy of Bankrate's record of your personally identifiable information, change your personally identifiable information or use preferences, or opt-out of Bankrate's use of your personally identifiable information by contacting Bankrate via any of the methods set forth below: 
 
   * Via telephone: (561) 630-2400 
   * Via fax: (561) 625-4540 
-  * Via mail: Bankrate, Inc., 11760 US Highway 1 Suite 500, North Palm Beach, FL 33408 
+  * Via mail: Bankrate, Inc., 11760 US Highway 1 Suite 200, North Palm Beach, FL 33408 
   * Via email: [bankratemail@bankratemail.com](mailto:bankratemail@bankratemail.com)
   * Via online link: [http://www.bankratemail.com](http://www.bankratemail.com/)
 
@@ -117,7 +119,7 @@ If you would like to opt-out of third-party advertising companies' use of your i
 
 Newsletters and CAN-SPAM Compliance
 
-Bankrate sends only verified, double-opt-in e-mail newsletters, specifically requested by Bankrate subscribers. Subscriptions to Bankrate newsletters are verified by sending an e-mail confirmation to your e-mail address, which requires a positive response before an e-mail address is added to Bankrate’s list. Bankrate is fully compliant with the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003.
+Bankrate sends only verified, double-opt-in e-mail newsletters, specifically requested by Bankrate subscribers. Subscriptions to Bankrate newsletters are verified by sending an e-mail confirmation to your e-mail address, which requires a positive response before an e-mail address is added to Bankrate's list. Bankrate is fully compliant with the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003.
 
 Cookie technology
 
@@ -125,7 +127,7 @@ Cookie technology
 
 Web beacons
 
-”Web beacons”, also called single-pixels (1x1) or clear GIFs, are electronic images that allow a Web site to access cookies and help track marketing campaigns and general usage patterns of visitors to those Web sites. Web beacons can recognize certain types of information, such as cookie numbers, time and date of a page view, and a description of the page where the Web beacon is placed. _No personally identifiable information about you is shared with third parties through the use of Web beacons._
+"Web beacons", also called single-pixels (1x1) or clear GIFs, are electronic images that allow a Web site to access cookies and help track marketing campaigns and general usage patterns of visitors to those Web sites. Web beacons can recognize certain types of information, such as cookie numbers, time and date of a page view, and a description of the page where the Web beacon is placed. _No personally identifiable information about you is shared with third parties through the use of Web beacons._
 
   * **Internal use of Web beacons.** Bankrate may use Web beacons internally to count users and recognize users through cookies. Access to cookies helps Bankrate personalize your experience when you visit the Site. 
 
@@ -133,7 +135,7 @@ Web beacons
   * **Email.** Bankrate may include Web beacons in HTML-formatted email messages that Bankrate or its affiliates or agents send. Including Web beacons in email messages helps Bankrate determine your interest in and the effectiveness of such emails.
 
 
-  * **External use of Web beacons.** Bankrate may also use Web beacons externally. For example, Bankrate may report aggregate information about this Site’s users, such as demographic and usage information, to its partners and other third parties. Bankrate may also include other company’s Web beacons within this Site. 
+  * **External use of Web beacons.** Bankrate may also use Web beacons externally. For example, Bankrate may report aggregate information about this Site's users, such as demographic and usage information, to its partners and other third parties. Bankrate may also include other company's Web beacons within this Site. 
 
 
 
@@ -151,7 +153,7 @@ Access and Use of this Site
 
 Changes to this Privacy Policy  
 **  
-**Bankrate reserves the right to update, amend and/or change this Privacy Policy at any time in its sole discretion and without notice. Updates to this Privacy Policy will be posted here. Any information Bankrate collects from you online is subject only to Bankrate’s most current Privacy Policy. You are encouraged to revisit this Privacy Policy from time to time in order to review any changes that have been made. Your continued access and use of this Site following the posting of any such changes shall automatically be deemed your acceptance of the same.
+**Bankrate reserves the right to update, amend and/or change this Privacy Policy at any time in its sole discretion and without notice. Updates to this Privacy Policy will be posted here. Any information Bankrate collects from you online is subject only to Bankrate's most current Privacy Policy. You are encouraged to revisit this Privacy Policy from time to time in order to review any changes that have been made. Your continued access and use of this Site following the posting of any such changes shall automatically be deemed your acceptance of the same.
 
 Questions or Concerns
 
@@ -159,9 +161,14 @@ If you have questions, comments, concerns or feedback regarding this Privacy Pol
 
 Governing Law; Arbitration  
 **  
-**This Privacy Policy is to be governed by and construed in accordance with the internal laws of the State of Florida, without regard for principles of conflicts of laws. Any civil action, claim, dispute or proceeding arising out of, or relating to, this Privacy Policy shall be referred to final and binding arbitration, before a single arbitrator, under the commercial arbitration rules of the American Arbitration Association in Palm Beach County, Florida. You and Bankrate shall select the arbitrator, and if you and Bankrate are unable to reach agreement on selection of the arbitrator within thirty (30) days after the notice of arbitration is served, then the American Arbitration Association shall select the arbitrator. Arbitration shall not commence until the party requesting it has deposited One Thousand Dollars ($1,000.00) with the arbitrator as a retainer for the arbitrator's fees and costs. The party requesting arbitration shall advance such sums as are required from time to time by the arbitrator to pay the arbitrator's fees and costs until the prevailing party is determined or the parties have agreed in writing to an alternate allocation of fees and costs.
+**You agree that: (i) the Site shall be deemed solely based in the State of Florida; and (ii) the Site shall be deemed a passive Web site that does not give rise to personal jurisdiction over Bankrate, either specific or general, in jurisdictions other than the State of Florida. **** This Privacy Policy is to be governed by and construed in accordance with the internal laws of the State of Florida, without regard for principles of conflicts of laws. Any civil action, claim, dispute or proceeding arising out of, or relating to, this Privacy Policy shall be referred to final and binding arbitration, before a single arbitrator, under the commercial arbitration rules of the American Arbitration Association in Palm Beach County, Florida. 
 
-Judgment upon any award rendered by the arbitrator shall be final, binding and conclusive upon you and Bankrate, and your and Bankrate's respective administrators, executors, legal representatives, successors and assigns, and may be entered in any court of competent jurisdiction. Notwithstanding the previous sentence, in no event shall either you or Bankrate be entitled to punitive, special, indirect or consequential damages, and both you and Bankrate hereby waive your rights to any punitive, special, indirect or consequential damages, including, but not limited to, damages for any loss of profit, revenue or business.
+THEREFORE, YOU DO NOT HAVE THE OPPORTUNITY TO GO TO COURT TO ASSERT OR DEFEND YOUR RIGHTS AND YOU GIVE UP YOUR RIGHT TO PARTICIPATE IN OR BRING CLASS ACTIONS. BY USING THE SITE YOU CONSENT TO THESE RESTRICTIONS.  
+You and Bankrate shall select the arbitrator, and if you and Bankrate are unable to reach agreement on selection of the arbitrator within thirty (30) days after the notice of arbitration is served, then the American Arbitration Association shall select the arbitrator. Arbitration shall not commence until the party requesting it has deposited One Thousand Dollars ($1,000.00) with the arbitrator as a retainer for the arbitrator's fees and costs. The party requesting arbitration shall advance such sums as are required from time to time by the arbitrator to pay the arbitrator's fees and costs until the prevailing party is determined or the parties have agreed in writing to an alternate allocation of fees and costs.
+
+Judgment upon any award rendered by the arbitrator shall be final, binding and conclusive upon you and Bankrate, and your and Bankrate's respective administrators, executors, legal representatives, successors and assigns, and may be entered in any court of competent jurisdiction. Notwithstanding the previous sentence, in no event shall either you or Bankrate be entitled to punitive, special, indirect or consequential damages, and both you and Bankrate hereby waive your and Bankrate's respective rights to any punitive, special, indirect or consequential damages, including, but not limited to, damages for any loss of profit, revenue or business.
+
+Should a dispute arise and should the arbitration provisions herein become inapplicable or unenforceable, or in any instance of any lawsuit between you and Bankrate, jurisdiction over and venue of any suit shall be exclusively in the state and federal courts sitting in Palm Beach County, Florida.
 
 Miscellaneous
 
@@ -174,4 +181,4 @@ All covenants, agreements, representations and warranties made in this Privacy P
 This Privacy Policy and the Terms of Use represent the entire understanding and agreement between you and Bankrate regarding the subject matter of the same, and supersede all other previous agreements, understandings and/or representations regarding the same.
 
   
-WPB 965576.1 
+WPB 965576.2 
