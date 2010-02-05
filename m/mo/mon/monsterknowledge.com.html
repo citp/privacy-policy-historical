@@ -1,26 +1,75 @@
-<!--The following is the downloaded HTML source of the monsterknowledge.com privacy policy that was archived on 2009-02-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090215215950id_/http%3A//www.monsterknowledge.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the monsterknowledge.com privacy policy that was archived on 2010-02-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100205041352id_/http%3A//monsterknowledge.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>MonsterKnowledge.com :: Home Page</title>
 <link href="designs/styles.css" rel="stylesheet" type="text/css">
 <script language="javascript">
+
+
+
+
+function zipmatch(zip) 
+{
+	 MyZip=new Array("13081","13734","13736","13812","13840","13845","13864","14418","14478","14521","14527","14541","14801","14805","14807","14809","14810","14812","14814","14815","14816","14817","14818","14819","14820","14821","14822","14823","14824","14825","14826","14827","14830","14831","14837","14838","14839","14840","14841","14842","14843","14845","14847","14850","14851","14852","14853","14854","14855","14856","14857","14858","14859","14860","14861","14863","14864","14865","14867","14869","14870","14871","14872","14873","14874","14876","14878","14879","14882","14883","14885","14886","14887","14889","14891","14892","14893","14894","14898","14901","14902","14903","14904","14905","14925","16901","16910","16912","16914","16917","16918","16920","16922","16925","16926","16928","16929","16930","16932","16933","16935","16936","16940","16942","16945","16946","16947","16950","17724","17735","17765","17768","18614","18616","18810","18814","18817","18829","18830","18831","18832","18833","18837","18840","18846","18848","18850","18853","18854","13040","13045","13052","13053","13056","13062","13068","13073","13077","13087","13101","13102","13124","13136","13155","13730","13732","13733","13734","13736","13737","13738","13743","13744","13745","13746","13748","13749","13754","13758","13760","13761","13762","13763","13774","13776","13777","13778","13780","13783","13784","13787","13790","13794","13795","13797","13801","13802","13803","13804","13809","13811","13812","13813","13814","13815","13826","13827","13830","13833","13835","13838","13839","13840","13841","13843","13844","13845","13847","13848","13849","13850","13851","13856","13859","13862","13863","13864","13865","13901","13902","13903","13904","13905","14859","14865","18407","18411","18413","18419","18420","18421","18430","18433","18437","18439","18440","18446","18449","18453","18454","18455","18461","18462","18465","18470","18471","18615","18623","18625","18630","18657","18801","18810","18812","18813","18814","18815","18816","18818","18820","18821","18822","18823","18824","18825","18826","18827","18828","18829","18830","18831","18834","18837","18842","18843","18844","18845","18846","18847","18851");
+	  //alert(MyZip.length);
+	var ziplength=MyZip.length;
+	var x=0;
+	for(var i=0; i<ziplength; i++)
+	{
+		if (zip== MyZip[i])
+		{
+			x++;
+			break;
+		}
+		else
+		{
+			x++;
+		}
+	}
+	if(x==i)
+	{
+		alert("The zip code you entered is not accepted at this time.");
+		document.frm1.zip.focus();
+		return false;
+	}
+	else
+	{
+		return true;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 function check_n_submit()
 {
 	var box=document.frm1;
-	if (box.mdob.selectedIndex == 0 || box.ddob.selectedIndex == 0 || box.ydob.selectedIndex == 0)
+	if (box.degree.selectedIndex == 0 && box.education_level.selectedIndex == 0 && box.zip.value.length != 5)
 	{
-		alert("Please select your birthday.");
-		box.mdob.focus();
+		alert("Please select your area of interest and education level sought, or valid 5 digit zip.");
+		box.degree.focus();
 		return false;
 	}
 	if (box.degree.selectedIndex == 0 && box.education_level.selectedIndex == 0 && box.zip.value.length != 5)
 	{
-		alert("Please select your area of interest, education level, or valid 5 digit zip.");
-		box.degree.focus();
+	if (!zipmatch(document.frm1.zip.value)) 
+		{
 		return false;
 	}
+	}
+	
 	return true;
 }
 </script>
@@ -74,8 +123,8 @@ We may use third-party advertising companies to serve ads on our site. These com
           </p></td>
         <td width="3">&nbsp;</td>
 
-        <td rowspan="2" valign="top"><img src="images/2_t.jpg" width="320" height="199"><br>
-          <img src="images/2_b.jpg" width="320" height="184">
+        <td rowspan="2" valign="top"><img src="images/0_t.jpg" width="320" height="199"><br>
+          <img src="images/0_b.jpg" width="320" height="184">
           <table width="97%" border="0" align="left" cellpadding="15" cellspacing="0" background="images/lt_grey.gif">
             <tbody><tr>
               <td>
@@ -97,7 +146,7 @@ Different schools have different methods of following up with student informatio
       <tr>
         <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="privacy.asp">Privacy Policy</a> | <a href="advertise.asp">Advertise your school </a> | <a href="jobs.asp">Jobs</a> </td>
         <td>&nbsp;</td>
-        <td class="footer1">©2009 monsterknowledge.com | All Rights Reserved.</td>
+        <td class="footer1">©2010 monsterknowledge.com | All Rights Reserved.</td>
       </tr>
     </tbody></table></td>
   </tr>
