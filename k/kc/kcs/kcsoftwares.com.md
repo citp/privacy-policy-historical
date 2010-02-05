@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcsoftwares.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231164505id_/http%3A//kcsoftwares.com/legal/PP.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcsoftwares.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205182405id_/http%3A//kcsoftwares.com/legal/PP.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICYThe Privacy Policy will address the following points:What information, if any, is collected as a result of your visit? Whether information is shared?Whether Cookies are placed on your hard drive?Contact InformationIntroduction
 
