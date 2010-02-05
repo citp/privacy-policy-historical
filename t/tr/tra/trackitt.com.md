@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trackitt.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215125326id_/http%3A//www.trackitt.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackitt.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205180250id_/http%3A//www.trackitt.com/privacy) for the most accurate reproduction.*
 
-# trackitt: Privacy Policy
+# Privacy Policy
 
-Because your privacy is important, trackitt does not sell, rent, or trade your personal information. However, trackitt may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal processes. trackitt may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our [Terms of Use](https://web.archive.org/termsofuse/); respond to claims that any posting or other content violates the rights of third parties; or protect the rights, property, or personal safety of trackitt, its users, or the general public.
+Because your privacy is important, trackitt does not sell, rent, or trade your personal information. However, trackitt may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal processes. trackitt may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our [Terms of Use](https://web.archive.org/terms); respond to claims that any posting or other content violates the rights of third parties; or protect the rights, property, or personal safety of trackitt, its users, or the general public.
 
 **USER CONSENT TO PRIVACY POLICY**
 
