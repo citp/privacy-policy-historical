@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboundmarketing.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208071002id_/http%3A//www.inboundmarketing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboundmarketing.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205043441id_/http%3A//www.inboundmarketing.com/privacy) for the most accurate reproduction.*
 
 # InboundMarketing.com Privacy Policy | InboundMarketing.com
 
