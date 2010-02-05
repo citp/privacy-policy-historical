@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hibbett.com privacy policy that was archived on 2009-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090306154319id_/http%3A//www.hibbett.com/pdf/Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hibbett.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205201525id_/http%3A//hibbett.com/pdf/Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # HIBBETT PRIVACY POLICYOur Commitment to Privacy
 
@@ -32,11 +32,11 @@ delivering more of the features, services and products our visitors prefer.
 When you submit a form on our Web site to send us a comment, make a nomination for
 one of our community programs, apply for a job or locate your nearest Hibbett store, you
 provide information about yourself and, in the case of nomination to one of our
-community programs, about a third party. This information may include Name, Age,
-Street Address, Email Address and Phone Number. These forms are sent electronically
-to Hibbett and disbursed to the applicable internal departments only. The applicable
-department will use the information provided for the specific purpose for which it was
-submitted only.
+community programs, about a third party. Further, in applying for a job via the online
+application form, you are providing personally-identifiable information about yourself.
+These forms are sent electronically to Hibbett and disbursed to the applicable internal
+departments only. The applicable department will use the information provided for the
+specific purpose for which it was submitted only.
  Sending an Email
 When you choose to send an email to any of the Hibbett email addresses provided on
 our Web site, for example to send your resume for a job opening or contact one of our
