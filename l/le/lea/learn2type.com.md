@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2009-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090815015914id_/http%3A//www.learn2type.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205072251id_/http%3A//www.learn2type.com/Privacy) for the most accurate reproduction.*
 
 # Typing Test - Learn2Type.com - learn to type online FREE typing tutor and typing tests, typing certification
 
-| [](http://www.learn2type.com/) | 
+| [](http://learn2type.com/) | 
 
 ## Privacy Statement  
   
@@ -49,7 +49,7 @@ privacyX@XLearn2Type.com
 
 |   
 
-Content and materials on this website are Copyright ©1999-2009 Learn2Type.com, Inc. 
+Content and materials on this website are Copyright ©1999-2010 Learn2Type.com, Inc. 
 
 Access to this website and content is provided at no charge, and with no   
 guarantees. While this content has been made available to assist you in   
@@ -59,4 +59,4 @@ Learn2Type.com, Inc. is not liable for any damages, consequential or inconsequen
 the ability or disability of using this website. Use these materials at your own risk. 
 
 Usage of this website constitutes acknowledgment of these disclaimers   
-and terms. View our [Privacy Statement](http://www.learn2type.com/Privacy). 
+and terms. View our [Privacy Statement](http://learn2type.com/Privacy). 
