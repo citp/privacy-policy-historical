@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentdigs.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227071053id_/http%3A//www.rentdigs.com/Common/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentdigs.com privacy policy that was archived on 2010-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100206005805id_/http%3A//rentdigs.com/Common/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
