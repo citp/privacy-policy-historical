@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heritage-key.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515104851id_/http%3A//heritage-key.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heritage-key.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205162910id_/http%3A//heritage-key.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Heritage Key
 
