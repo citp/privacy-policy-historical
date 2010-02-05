@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvue.com privacy policy that was archived on 2008-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080723181145id_/http%3A//www.myvue.com/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvue.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205050456id_/http%3A//myvue.com/privacy/index.asp%3FSessionID%3D) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -70,5 +70,3 @@ Please note that an official fee will be payable. If you believe that any inform
 11\. A special note for parents concerning privacy 
 
 Vue makes a special effort to encourage children to consult with their parents before disclosing personal information via our website. However, it is ultimately the responsibility of parents to supervise their children’s online activities and should consider using parental control tools available from online services and software manufacturers that help provide a child-friendly online environment. These tools can also prevent children from disclosing their name, address and other personal information online without parental permission. Vue shall use its reasonable endeavours, whenever possible, to ensure that personal information about or obtained from a child will not be used for commercial or trade purposes without the prior written consent of their parent or legal guardian. 
-
-© Vue, 2006. All rights reserved.
