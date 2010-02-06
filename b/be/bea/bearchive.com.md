@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bearchive.com privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205042944id_/http%3A//www.bearchive.com/csc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearchive.com privacy policy that was archived on 2010-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100206043019id_/http%3A//www.bearchive.com/csc/privacy.html) for the most accurate reproduction.*
 
 # ..::: CUSTOMER SUPPORT :::..
 
