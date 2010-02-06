@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asphost4free.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228192619id_/http%3A//www.asphost4free.com/support/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asphost4free.com privacy policy that was archived on 2010-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100206234733id_/http%3A//www.asphost4free.com/support/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
