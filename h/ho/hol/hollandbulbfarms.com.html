@@ -1,7 +1,49 @@
-<!--The following is the downloaded HTML source of the hollandbulbfarms.com privacy policy that was archived on 2009-07-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090711174300id_/http%3A//www.hollandbulbfarms.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hollandbulbfarms.com privacy policy that was archived on 2010-02-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100206123406id_/http%3A//www.hollandbulbfarms.com/privacy.asp) for the most accurate reproduction.-->
 
-<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script language="JavaScript">
+	//***	This function will be called in every page to set the title atttibute for images
+	function setTitleForImages()
+	{		
+		var strUserAgent = navigator.userAgent.toUpperCase();		
+		if((strUserAgent.indexOf("NETSCAPE")>=0) || (strUserAgent.indexOf("OPERA")>=0) || (strUserAgent.indexOf("MAC") >= 0) || (strUserAgent.indexOf("GECKO") >= 0))
+		{
+			for(var intImageIndex=0;intImageIndex<document.images.length;intImageIndex++)
+			{		
+				document.images[intImageIndex].title = document.images[intImageIndex].alt;
+			}
+		}
+	}
+
+	
+	//*** This function will be called in footer.asp page,customstatement.asp,shipcalculator.asp for mac sumbit key compatability.
+	function setHrefForLinks()
+	{
+		for(var intLinkIndex=0;intLinkIndex<document.links.length;intLinkIndex++)
+		{		
+			if(document.links[intLinkIndex].onclick != null)
+			{						
+				var strTemp = document.links[intLinkIndex].onclick + "";	
+				strTemp = strTemp.replace("function onclick()","");
+				strTemp = strTemp.replace("{","");	
+				var pos = strTemp.lastIndexOf("}");
+				strTemp = strTemp.substring(0,pos);			
+				strTemp = strTemp.replace("return false;","");
+				strTemp = strTemp.replace("return false","");								
+				if(strTemp.toUpperCase().indexOf("JAVASCRIPT:")==-1) strTemp = "JavaScript:"+strTemp;
+				document.links[intLinkIndex].href = strTemp;					
+			}			
+		}
+	}
+</script>
+
+
+
+
+
+
+
+	
 		<title>Holland Bulb Farms Privacy Policy</title>
 		
 	<meta name="Keywords" content="bulbs, elephant ears, dahlia,holland bulbs, water plants, canna,water lily, summer bulbs, lilies, cannas, holland bulb, water lilies, dahlias, flower spring, calla lilies, gladioli, lily, water garden, tulip bulbs, amaryllis, holland tulips, daffodil, hyacinth, crocus, allium, Spring Bulbs, Fall Bulbs">      
@@ -705,13 +747,13 @@ var WRInitTime=(new Date()).getTime();
                 <a href="acclogin.asp?url=AL" style="color:#CC0000;">sign in</a> or <a href="https://www.hollandbulbfarms.com/accregister.asp?msg=" style="color:#CC0000;">register now!</a>
               
    </span>
-  <span class="welcome_cart_text"> | <a href="catalogRequest.asp" style="color:#000000;" rel="nofollow">Catalog Request</a>&nbsp;
+  <span class="welcome_cart_text"> | <a href="/catalogRequest.asp" style="color:#000000;" rel="nofollow">Catalog Request</a>&nbsp;
     |&nbsp; <a href="accinfo.asp?url=AI" style="color:#000000;" rel="nofollow"> My Account</a> &nbsp;|&nbsp; <a href="ordtrack.asp" style="color:#000000;"> Track Order</a>&nbsp;</span></div></td>
       </tr>
       <tr>
         <td width="206"><div style="text-align:right"></div></td>
         <td width="232" style="padding-top:3px;"><div style="text-align:right"><a href="viewcart.asp?url=VC" style="color:#CC0000;"><span class="welcome_cart_text" style="color:#CC0000;">0 item(s) in your cart&nbsp;&nbsp;$0.00</span></a><span class="welcome_cart_text">&nbsp;&nbsp;</span></div></td>
-        <td width="94" style="padding-top:3px;"><a href="viewcart.asp?url=VC" rel="nofollow"><img name="cart_r1_c2" src="/imgs/header1_1/viewcart_btn.gif" border="0" id="cart_r1_c2" alt="(click me) You currently have 0 item(s) in your cart for a total of $0.00" title="(click me) You currently have 0 item(s) in your cart for a total of $0.00"></a></td>
+        <td width="94" style="padding-top:3px;"><a href="viewcart.asp?url=VC" rel="nofollow"><img name="cart_r1_c2" src="/imgs/header1_1/viewcart_btn.gif" border="0" id="cart_r1_c2" alt="(click me) You currently have 0 item(s) in your cart for a total of $0.00"></a></td>
       </tr>
      
 </tbody></table>
@@ -719,7 +761,7 @@ var WRInitTime=(new Date()).getTime();
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="padding-top:8px;">
   <tbody><tr>
-    <td width="13%" rowspan="2" valign="bottom"><div id="newlogo"><a href="/"><img src="/imgs/header1_1/logo_left.gif" alt="Holland Bulb Farms" width="177" height="70" border="0" title="Holland Bulb Farms"></a></div></td>
+    <td width="13%" rowspan="2" valign="bottom"><div id="newlogo"><a href="/"><img src="/imgs/header1_1/logo_left.gif" alt="Holland Bulb Farms" width="180" height="70" border="0"></a></div></td>
     <td width="18%" rowspan="2" align="right" valign="bottom" style="padding-bottom:1px;">
 
 	</td>
@@ -732,66 +774,57 @@ var WRInitTime=(new Date()).getTime();
     <td height="36" align="center" valign="bottom" style=""><table width="22%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
         <td height="36" valign="bottom">
-            <a href="/items.asp?cat=Fall-Bulbs-And-Fall-Planted-Bulbs&amp;Cc=FallPlantBulbs"><img src="/imgs/header1_1/tab_fallplanted.gif" width="105" height="35" border="0" alt="Spring Planted Bulbs" align="absbottom" title="Spring Planted Bulbs"></a>
+            <a href="/items.asp?cat=Spring-Planting-Bulbs&amp;Cc=SpringPlantBulb"><img src="/imgs/header1_1/tab_springplanted.gif" width="105" height="35" border="0" alt="Spring Planted Bulbs" align="absbottom"></a>
         </td>
         <td valign="bottom">
-            <a href="/items.asp?cat=Flower-Bulb-Collections&amp;Cc=Collections"><img src="/imgs/header1_1/tab_collections.gif" width="105" height="35" border="0" alt="Flower Bulb Collections" align="absbottom" title="Flower Bulb Collections"></a>
+            <a href="/items.asp?cat=Flower-Bulb-Collections&amp;Cc=Collections"><img src="/imgs/header1_1/tab_collections.gif" width="105" height="35" border="0" alt="Flower Bulb Collections" align="absbottom"></a>
 		</td>
         <td valign="bottom">
-            <a href="/items.asp?cat=Wholesale-Tulips-And-Bulk-Daffodil-Bulbs&amp;Cc=Bulk"><img src="/imgs/header1_1/tab_bulk.gif" width="105" height="35" border="0" alt="Bulk / Wholesale Tulips &amp; Daffodils" align="absbottom" title="Bulk / Wholesale Tulips &amp; Daffodils"></a>
-		</td>
-        <td valign="bottom">
-            <a href="/items.asp?cat=Large-Quantity-Tulips-And-Daffodils&amp;Cc=Bulk_Bulbs"><img src="/imgs/header1_1/tab_valuebags.gif" width="55" height="35" border="0" alt="Value Bags" align="absbottom" title="Value Bags"></a>
+            <a href="/items.asp?cat=Bulk-Spring-Summer-Bulbs&amp;Cc=DiscountBulbs"><img src="/imgs/header1_1/tab_valuebags.gif" width="55" height="35" border="0" alt="Value Bags" align="absbottom"></a>
 		</td>
             <td valign="bottom">
-            <a href="/items.asp?cat=Cheap-Flower-Bulbs-50%-Discounts&amp;Cc=cheapflowerbulb"><img src="/imgs/header1_1/tab_bulbbargains.gif" width="55" height="35" border="0" align="absbottom" alt="Cheap Flower Bulbs" title="Cheap Flower Bulbs"></a>            </td>
+            <a href="/seeds.asp?cat=Garden-Seeds&amp;Cc=Seeds"><img src="/imgs/header1_1/tab_gardenseeds.gif" width="55" height="35" border="0" align="absbottom" alt="Garden Seeds"></a>            </td>
+            <td valign="bottom">
+            <a href="/itemrelations.asp?flower=New%20Plants%20Flowers%202010&amp;group=11&amp;choice=40" rel="nofollow"><img src="/imgs/header1_1/tabs_new2010.gif" width="60" height="35" border="0" align="absbottom" alt="New Bulbs Plants 2010"></a>            </td>
             <td valign="bottom">
            </td>
       </tr>
     </tbody></table></td>
   </tr>
 </tbody></table>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" id="SubCategories">
- <tbody>
+
+<table border="0" cellpadding="0" cellspacing="0" id="SubCategories" align="center" width="100%">
+  <tbody>
     <tr>
       <td width="100%" align="center">
-      <table width="757" border="0" cellpadding="0" cellspacing="0" align="center">
+	 	  <table width="799" height="19" border="0" cellpadding="0" cellspacing="0" align="center">
         <tbody>
           <tr>
-            <td width="54" valign="middle" style="border-left: 2px solid rgb(114,109,91);"><a href="items.asp?cat=Allium-Bulbs&amp;Cc=ALLIUM">Allium</a></td>
-             <td width="94" valign="middle"><a href="items.asp?cat=Bearded-Iris-Bulbs&amp;Cc=BeardedIris">Bearded Iris</a></td>
-					
-            <td width="56" valign="middle"><a href="items.asp?cat=Crocus-Bulbs&amp;Cc=CROCUS">Crocus</a></td>
-            <td width="60" valign="middle"><a href="items.asp?cat=Daffodil-Bulbs&amp;Cc=DAFFODILS">Daffodils</a></td>
-			 <td width="83" valign="middle"><a href="items.asp?cat=Dutch-Iris-Bulbs&amp;Cc=DUTCHIRIS">Dutch Iris</a></td>
-			  <td width="64" valign="middle"><a href="items.asp?cat=Fritillaria-Bulbs&amp;Cc=FRITILLARIA">Fritillaria</a></td>
-             <td width="68" valign="middle"><a href="items.asp?cat=Hyacinth-Bulbs&amp;Cc=HYACINTH">Hyacinths</a></td>
-			 
-			 <td width="59" valign="middle"><a href="items.asp?cat=Muscari-Bulbs&amp;Cc=MUSCARI">Muscari</a></td>
-            <td width="44" valign="middle"><a href="items.asp?cat=Scilla-Bulbs&amp;Cc=SCILLA">Scilla</a></td>
-            <td width="70" valign="middle"><a href="items.asp?cat=Unusual-Specialty-Fall-Bulbs&amp;Cc=Specialty_Fall">Specialty</a></td>
-            <td width="38" valign="middle"><a href="items.asp?cat=Tulip-Bulbs&amp;Cc=TULIPS">Tulips</a></td>
+             <td width="55" height="21" valign="middle"><a href="/items.asp?cat=Begonia-Bulbs&amp;Cc=BEGONIAS">Begonias</a></td>
+              <td width="159" valign="middle"><a href="/items.asp?cat=Elephant-Ears---Caladiums-Bulbs&amp;Cc=ELEPHANTEARS"> <nobr>Caladiums/Elephant Ears</nobr></a></td>
+              <td width="66" valign="middle"><a href="/items.asp?cat=Calla-Lily-Bulbs&amp;Cc=CALLALILIES" title="Calla Lilies"><nobr>Calla Lilies</nobr></a></td>
+              <td width="45" valign="middle"><a href="/items.asp?cat=Canna-Lily-Bulbs&amp;Cc=CANNAS" title="Canna Lily Bulbs">Cannas</a></td>
+              <td width="44" valign="middle"><a href="/items.asp?cat=Dahlia-Bulbs&amp;Cc=DAHLIAS" title="Dahlia Bulbs">Dahlias</a></td>
+              <td width="56" valign="middle"><a href="/items.asp?cat=Gladiolus-Bulbs&amp;Cc=Gladiolus_Bulbs" title="Gladiolus Bulbs">Gladiolus</a></td>
+              <td width="31" valign="middle"><a href="/items.asp?cat=Lily-Bulbs&amp;Cc=LILIES" title="Lily Bulbs">Lilies</a></td>
+              <td width="61" valign="middle"><a href="/items.asp?cat=Peonies&amp;Cc=peonies" title="Peony Bulbs">Peonies</a></td>
+              <td width="61" valign="middle"><a href="/items.asp?cat=Perennials-Perennial-Plants&amp;Cc=PERENNIALS" title="Perennial Plants">Perennials</a></td>
+              <td width="55" valign="middle"><a href="/items.asp?cat=Unusual-Specialty-Bulbs&amp;Cc=SPECIALTY" title="Specialty Bulbs">Specialty</a></td>
+              <td width="40" valign="middle"><a href="/items.asp?cat=Vines&amp;Cc=vinesspring" title="Climbing Vines">Vines</a></td>
+              <td width="78" valign="middle"><a href="/items.asp?cat=Water-Lily-Plants&amp;Cc=WATERPLANTS" title="Water Lily Plants"><nobr>Water Plants</nobr></a></td>
+              <td width="34" valign="middle"><a href="/items.asp?cat=Fruit-Plants&amp;Cc=FRUITS" title="Fruit Plants">Fruits</a></td>
+              <td width="69" valign="middle"><a href="/items.asp?cat=Vegetable-Plants&amp;Cc=VEGETABLES" title="Vegetable Plants">Vegetables</a></td>
           </tr>
         </tbody>
-      </table>
-      </td>
+      </table></td>
     </tr>
   </tbody>
 </table>
 
-
-
-
-
-
-
-
-
-
 <div class="SubCatShadow"></div>
 <table id="SearchTable" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
-      
+	<td id="searchbar">  
 
 <script language="Javascript">
 function submitMainsearch()
@@ -815,24 +848,35 @@ function submitMainsearch()
 
 
 <!--### SEARCH BOX STARTS HERE ###-->
-<form name="frmMainsearch" method="get" action="/search.asp"></form>
-	<td width="2%" bgcolor="#585850" align="right"><img src="/imgs/header1_1/search_SearchText.gif" title=""></td>
-    <td width="2%" bgcolor="#585850" align="right" style="vertical-align:middle"><input type="text" name="keywords" size="27" style="font-family:Arial,Helvetica,sans-serif; font-size:15px; padding:1px 4px 0px;" class="content" maxlength="27" value="zipcode or keyword" onclick="javascript: this.value='';"></td>
-    <td width="29" bgcolor="#585850" align="right" valign="middle"><a href="#" onclick="JavaScript:document.frmMainsearch.submit();return false"><img src="/imgs/header1_1/search_SearchButton.gif" border="0" title=""></a></td>
-    <td width="9" bgcolor="#585850" align="right"></td>
-	
+
+<form name="frmMainsearch" method="get" action="/search.asp">
+<div id="search">		 
+  <label id="searchlabel" for="input_box"></label>
+  <span id="searchinput">
+ 	<input type="text" name="keywords" class="downsearch" value="Type Zipcode or Keyword" onclick="javascript: this.value='';">
+	<div id="search_container"></div>
+  </span>
+  <span id="searchbutton">
+	<a href="#" onclick="JavaScript:document.frmMainsearch.submit();return false">
+    
+    <img src="/imgs/header1_1/grchbf_searchbutton_2.gif" border="0">
+    
+    </a>
+  </span>
+</div>
+</form>
 
 
-
-
-
-    <td width="80%" align="center" style="font-size:14px; padding:2px; text-align:center;">
-<span style="color:#FFFFFF; font-size:12px;">
-</span></td>
+</td>
+<td width="80%" align="center" class="content">
+We are the highest rated Holland bulb company - Bizrate.com</td>
     <td width="217" valign="middle" align="right">
-	       </td>
+      <a href="/items.asp?cat=Deals-Of-The-Week&amp;Cc=FlowerBulbDeals&amp;layout=grid" rel="nofollow"><img src="/imgs/header/dealofweek_anim_small.gif" width="177" height="27" border="0"></a>
+      </td>
   </tr>
 </tbody></table>
+    <div id="slidepromoDiv" style="display: none; position: absolute; z-index: 2000; text-align: right; width:800px;"><a href="javascript:void(0);" onclick=""><img src="imgs/promos/spring_promo_freeship.png" border="0"></a></div>
+
 <div class="SubCatShadow"></div>
 
 
@@ -894,35 +938,44 @@ document.newslettersignup.submit()
 
       
     <!-- BEGIN LEFT_NAVIGATION -->
-      <td class="leftnavbody" valign="top" width="150" bgcolor="a79c6f" style="border-right:solid 1px #726d5b; border-top:solid 1px #726d5b; background-color:#a79c6f">
-	  <div style="background-color:a79c6f; width:160px; padding-bottom:9px;">
-	  <a href="http://www.hollandbulbfarms.com/price-guarantee.asp"><img src="http://www.hollandbulbfarms.com/imgs/grchbf_110guarantee_nav.gif" width="164" height="130" border="0" title=""></a>
-	  <img src="/imgs/header1_1/left_nav_newsletter.gif" title="">
+      <td class="leftnavbody" valign="top" width="150" style="border-right:solid 1px #454236; border-top:solid 1px #454236; background-color:#faf8f2">
+	  <div style="background-color:faf8f2; width:160px; padding-bottom:0px;">
+	  <a href="/price-guarantee.asp"><img src="/imgs/grchbf_110guarantee_nav.gif" width="164" height="130" border="0"></a>
+	  <img src="/imgs/header1_1/left_nav_newsletter.gif">
 	  <div style="padding-left:4px; padding-top:1px;" class="CtSmallBold">Join our newsletter</div>
-	  <div style="padding-left:4px; font-size:10px;" class="contsmall">Save $10 on your next order just for signing up. <a href="privacy.asp" class="podtext">Your email is safe with us</a></div>
-	  <div style="padding-left:4px; padding-top:2px; font-size:11px; font-weight:bold; color:#dee3d8">Enter Your E-Mail Address</div>
+	  <div style="padding-left:4px; font-size:10px;" class="contsmall">Save $10 on your next order just for signing up. <a href="privacy.asp" class="podtext" style="font-size:9px;">Your email is safe with us</a></div>
+	  <div style="padding-left:4px; padding-top:2px; font-size:11px; font-weight:bold; color:#627b40">Enter Your E-Mail Address</div>
 	  <div style="padding-left:4px; padding-top:2px;"><input name="emailadd" id="emailadd" type="text" value="" tabindex="49" size="26" maxlength="50" class="smallform" style="font-size:11px;"></div>
-	  <div style="padding-right:6px; padding-top:4px; padding-bottom:7px; text-align:right;"><a href="#" onclick="SignupNewsletter(); return false;"><img src="/imgs/header1_1/left_nav_newsletter_submit.gif" alt="Sign up Now" border="0" title="Sign up Now"></a></div>
+	  <div style="padding-right:6px; padding-top:4px; padding-bottom:7px; text-align:right;"><a href="#" onclick="SignupNewsletter(); return false;"><img src="/imgs/header1_1/left_nav_newsletter_submit.gif" alt="Sign up Now" border="0"></a></div>
+     
 	  </div>
       
-	<div style=" background-color:#a79c6f; width:164px"></div>
+	<div style=" background-color:#faf8f2; width:164px"></div>
 	
 
-	  <div style="background-color:a79c6f; width:164px; padding-top:14px;">
-	   <img src="/imgs/header1_1/left_nav_customerservice.gif" alt="" title="">
+	  <div style="background-color:faf8f2; width:164px; padding-top:14px;">
+	   <img src="/imgs/header1_1/left_nav_customerservice.gif" alt="">
 	   <div style="padding-left:4px; padding-top:4px; padding-bottom:7px;">
 	<a onclick="javascript:window.open('https://hosted8.whoson.com/chat/chatstart.htm?domain=www.hollandbulbfarms.com','new_win','width=484,height=361');return false;" href="https://hosted8.whoson.com/chat/chatstart.htm?domain=www.hollandbulbfarms.com" target="_blank" rel="nofollow">
-	   <img src="/imgs/header1_1/left_nav_chatphone.gif" border="0" alt="" title="">
+	   <img src="/imgs/header1_1/left_nav_chatphone.gif" border="0" alt="">
 	   </a>
     <!--   <a href="https://hosted8.whoson.com/chat/callback.htm?domain=www.hollandbulbfarms.com" onclick="javascript:window.open('https://hosted8.whoson.com/chat/callback.htm?domain=www.hollandbulbfarms.com','wocallback','width=484,height=361');return false;">Request A Call Back</a>-->
 	   </div>
-	  </div>
+     
 	 
-  	  <div style="padding-top:14px;" align="center"><a href="items.asp?Cc=GiftCard&amp;iTpStatus=0&amp;Tp=&amp;Bc=&amp;layout="><img src="/imgs/nav_add_giftcard.gif" border="0" title=""></a></div>
-		
-		
 
-<form method="post" action="http://oi.vresp.com?fid=66740da27e" target="vr_optin_popup" name="newslettersignup" onsubmit="window.open( 'http://www.verticalresponse.com', 'vr_optin_popup', 'scrollbars=yes,width=600,height=450' ); return true;">
+  	  <div style="padding-top:20px; padding-left:8px;" align="center"><a href="http://www.hollandbulbfarms.com/photo-contest.html" rel="nofollow"><img src="/imgs/banhbf_photocontest.gif" border="0"></a></div>
+
+	  <div style="padding-left:4px; padding-top:20px;">
+	<a href="/seeds.asp?cat=Garden-Seeds&amp;Cc=Seeds" rel="nofollow">
+	   <img src="/imgs/seeds/seed_pod_leftnav.jpg" border="0" alt="">
+	   </a>
+       
+	  </div>
+  	  <div style="padding-top:20px; padding-left:8px;" align="center"><a href="items.asp?cat=Gift-Certificate&amp;Cc=GiftCard" rel="nofollow"><img src="/imgs/nav_add_giftcard.gif" border="0"></a></div>
+	
+
+<form method="post" action="http://oi.vresp.com?fid=66740da27e" target="vr_optin_popup" name="newslettersignup">
 <input name="email_address" type="hidden" value="" tabindex="49" size="25" maxlength="50" class="smallform">
 </form>
 
@@ -934,11 +987,14 @@ document.newslettersignup.submit()
         <input type="hidden" name="Bloomtime" value="">
        
 		</form>
+        <br> <br>
+
+</div></td>
         
 		
 
 
-</td>
+
 
 
 <td align="center" valign="top" id="content">					
@@ -947,10 +1003,10 @@ document.newslettersignup.submit()
       <table align="center" border="0" cellpadding="1" cellspacing="0" width="99%">
         <tbody>
           <tr>
-            <td width="75%" valign="top" class="breadcrumb"><a href="index.asp?url=IND">Home</a> &nbsp;<img src="imgs/crumb_trail_arrow.gif" title="">&nbsp;
+            <td width="75%" valign="top" class="breadcrumb"><a href="index.asp?url=IND">Home</a> &nbsp;<img src="imgs/crumb_trail_arrow.gif">&nbsp;
               Privacy <!-- ****** END Crumb Trail ****** -->
             </td>
-            <td width="25%" align="right" style="padding-top:4; padding-right:9"><img src="imgs/call_us_800_num.gif" title=""></td>
+            <td width="25%" align="right" style="padding-top:4; padding-right:9"><img src="imgs/call_us_800_num.gif"></td>
           </tr>
         </tbody>
       </table>
@@ -965,7 +1021,7 @@ document.newslettersignup.submit()
 						<tbody><tr>
 						  <td align="LEFT" valign="TOP" class="ItemTitleMain">Privacy Policy </td>
 						  <td height="10" align="right">&nbsp;</td></tr>
-						<tr><td class="siteNav7TD" colspan="2" height="2"><img src="images/blank.gif" width="1" height="1" border="0" alt="" title=""></td></tr>
+						<tr><td class="siteNav7TD" colspan="2" height="2"><img src="images/blank.gif" width="1" height="1" border="0" alt=""></td></tr>
 				</tbody></table><p>
 				
 				<table width="98%" border="0" cellpadding="0" cellspacing="0" class="content" valign="top" style="font-size:13px">
@@ -1013,25 +1069,25 @@ document.newslettersignup.submit()
 	  <div style="padding-bottom:1px; padding-top:1px; text-align:center;">
 	  <table width="300" style="padding-top:8px; padding-bottom:8px; text-align:left;" align="center">
   <tbody><tr>
-    <td><div style="background:#FFFFFF; width:168px; padding-top:9px; padding-bottom:6px; padding-right:12px;">
+    <td><div style="background:#FFFFFF; width:168px; padding-top:9px; padding-bottom:9px; padding-right:12px;">
       <div class="smallfootertext" style="padding-left:8px;"><strong><span class="podtext">shop</span></strong>
 	  	<div style="padding-left:5px;">
-		<img src="/imgs/pod_bullet.gif" width="9" height="6" title=""><a href="all_products.asp" class="podtext">view all gardening bulbs</a><br>
-		<img src="/imgs/pod_bullet.gif" width="9" height="6" title=""><a href="items.asp?shopBrandStatus=0&amp;url=IND" class="podtext">view all categories</a><br>
-	  	  <img src="/imgs/pod_bullet.gif" width="9" height="6" title=""><a href="/seeds.asp?cat=Flower-Seeds&amp;Cc=Flower_Seeds" class="podtext" rel="nofollow">flower seeds</a><br>
-	  	  <img src="/imgs/pod_bullet.gif" width="9" height="6" title=""><a href="guarantee.asp" class="podtext" rel="nofollow">satisfaction guarantee</a><br>
+		<img src="/imgs/pod_bullet.gif" width="9" height="6"><a href="all_products.asp" class="podtext">view all gardening bulbs</a><br>
+		<img src="/imgs/pod_bullet.gif" width="9" height="6"><a href="items.asp?shopBrandStatus=0&amp;url=IND" class="podtext">view all categories</a><br>
+	  	  <img src="/imgs/pod_bullet.gif" width="9" height="6"><a href="/seeds.asp?cat=Flower-Seeds&amp;Cc=Flower_Seeds" class="podtext" rel="nofollow">flower seeds</a><br>
+	  	  <img src="/imgs/pod_bullet.gif" width="9" height="6"><a href="guarantee.asp" class="podtext" rel="nofollow">satisfaction guarantee</a><br>
 	  	</div>
 	  </div> 
     </div></td>
     <td width="2"></td>
     <td>
 	<div style="background:#FFFFFF; width:168px; padding-top:9px; padding-bottom:9px; padding-right:12px;">
-      <div class="smallfootertext" style="padding-left:8px;"><strong><span class="podtext">garden favorites</span></strong>
+      <div class="smallfootertext" style="padding-left:8px;"><strong><span class="podtext">spring bulb favorites</span></strong>
 	  	<div style="padding-left:5px;">
-        <img src="/imgs/pod_bullet.gif" width="9" height="6" title=""><a href="/items.asp?cat=Reblooming-Bearded-Iris-Bulbs&amp;Cc=Reblooming-Iris" class="podtext">reblooming bearded iris</a><br>
-        <img src="/imgs/pod_bullet.gif" width="9" height="6" title=""><a href="/itemdesc.asp?item=Stargazer-Oriental-Lily-Value-Bag&amp;cat=VALUEBAGSSPRING&amp;ic=11698" class="podtext">hyacinth bulbs</a><br>
-         <img src="/imgs/pod_bullet.gif" width="9" height="6" title=""><a href="/items.asp?cat=Cheap-Flower-Bulbs-50%-Discounts&amp;Cc=cheapflowerbulb" class="podtext" rel="nofollow">cheap flower bulbs</a><br>
-          <img src="/imgs/pod_bullet.gif" width="9" height="6" title=""><a href="/seeds.asp?cat=Vegetable-Seeds&amp;Cc=Vegetable_Seeds" class="podtext">vegetable seeds</a><br>
+        <img src="/imgs/pod_bullet.gif" width="9" height="6"><a href="/items.asp?cat=Begonia-Bulbs&amp;Cc=BEGONIAS" class="podtext">begonia bulbs</a><br>
+        <img src="/imgs/pod_bullet.gif" width="9" height="6"><a href="/items.asp?cat=Canna-Lily-Bulbs&amp;Cc=CANNAS" class="podtext">canna bulbs</a><br>
+         <img src="/imgs/pod_bullet.gif" width="9" height="6"><a href="/items.asp?cat=Gladiolus-Bulbs&amp;Cc=Gladiolus_Bulbs" class="podtext">gladiolus bulbs</a><br>
+          <img src="/imgs/pod_bullet.gif" width="9" height="6"><a href="/items.asp?cat=Lily-Bulbs&amp;Cc=LILIES" class="podtext">lily bulbs</a><br>
 
 		 </div>
 	  </div> 
@@ -1041,10 +1097,10 @@ document.newslettersignup.submit()
 		<div style="background:#FFFFFF; width:168px; padding-top:9px; padding-bottom:9px; padding-right:2px;">
       <div class="smallfootertext" style="padding-left:8px;"><strong><span class="podtext">customer service </span></strong>
 	  	<div style="padding-left:5px;">
-		<img src="/imgs/pod_bullet.gif" width="9" height="6" title=""><a href="ordtrack.asp" class="podtext" rel="nofollow">order tracking</a><br>
-	  	  <img src="/imgs/pod_bullet.gif" width="9" height="6" title=""><a href="privacy.asp" class="podtext" rel="nofollow">privacy policy</a><br>
-	  	  <img src="/imgs/pod_bullet.gif" width="9" height="6" title=""><a href="security.asp" class="podtext" rel="nofollow">safe shopping guarantee</a><br>
-	  	  <img src="/imgs/pod_bullet.gif" width="9" height="6" title=""><a href="ship.asp#Payments" class="podtext" rel="nofollow">payment methods</a></div>
+		<img src="/imgs/pod_bullet.gif" width="9" height="6"><a href="ordtrack.asp" class="podtext" rel="nofollow">order tracking</a><br>
+	  	  <img src="/imgs/pod_bullet.gif" width="9" height="6"><a href="privacy.asp" class="podtext" rel="nofollow">privacy policy</a><br>
+	  	  <img src="/imgs/pod_bullet.gif" width="9" height="6"><a href="security.asp" class="podtext" rel="nofollow">safe shopping guarantee</a><br>
+	  	  <img src="/imgs/pod_bullet.gif" width="9" height="6"><a href="ship.asp#Payments" class="podtext" rel="nofollow">payment methods</a></div>
 	  </div> 
     </div>	</td>
      <td width="2"></td>
@@ -1052,30 +1108,30 @@ document.newslettersignup.submit()
 		<div style="background:#FFFFFF; width:168px; padding-top:9px; padding-bottom:9px; padding-right:12px;">
       <div class="smallfootertext" style="padding-left:8px;"><strong><span class="podtext">learn </span></strong>
 	  	<div style="padding-left:5px;">
-	  	  <img src="/imgs/pod_bullet.gif" width="9" height="6" title=""><a href="zones.asp" class="podtext">hardiness zone finder </a><br>
-	  	  <img src="/imgs/pod_bullet.gif" width="9" height="6" title=""><a href="contact.asp?url=CT" class="podtext" rel="nofollow">contact us</a><br>
-			  <img src="/imgs/pod_bullet.gif" width="9" height="6" title=""><a href="ship.asp#shippingcharges" class="podtext" rel="nofollow">shipping and delivery</a><br>
-	  	  <img src="/imgs/pod_bullet.gif" width="9" height="6" title=""><a href="http://www.bulbblog.com/" target="_external" class="podtext" rel="nofollow">gardening bulb blog</a>
+	  	  <img src="/imgs/pod_bullet.gif" width="9" height="6"><a href="zones.asp" class="podtext">hardiness zone finder </a><br>
+	  	  <img src="/imgs/pod_bullet.gif" width="9" height="6"><a href="contact.asp?url=CT" class="podtext" rel="nofollow">contact us</a><br>
+			  <img src="/imgs/pod_bullet.gif" width="9" height="6"><a href="ship.asp#shippingcharges" class="podtext" rel="nofollow">shipping and delivery</a><br>
+	  	  <img src="/imgs/pod_bullet.gif" width="9" height="6"><a href="http://www.bulbblog.com/" target="_external" class="podtext" rel="nofollow">gardening bulb blog</a>
 		  </div>
 	  </div> 
     </div>	</td>
   </tr>
   <tr height="50">
     <td colspan="3" style="padding-top:5px;">
-	<div style="background:#FFFFFF; height:100%; padding-top:9px; padding-bottom:9px; padding-right:12px;">
+	<div style="background:#FFFFFF; padding-top:9px; padding-bottom:9px; padding-right:12px;">
 		<div id="contactpodText" class="smallfootertext" style="padding-left:6px;">
-			<img src="/imgs/arrow_green.gif" border="0" title="">
+			<img src="/imgs/arrow_green.gif" border="0">
 			<strong><span class="podtext">have questions or comments</span></strong>
 		</div>
-		<div id="contactpodTextArea" class="smallfootertext" style="padding-left:20px; padding-top:1px"> you may call <nobr>800-689-BULB (2852)</nobr>, <a href="contact.asp"><strong>contact us</strong></a> , or just give us some <a onclick="window.open('popup_form.asp?msg=2&amp;url=/privacy.asp?','contactWindow','height=499,width=399,status=yes,toolbar=no,menubar=no,location=no');return false;" href="#"><strong>feedback</strong></a> on our store </div>
+		<div id="contactpodTextArea" class="smallfootertext" style="padding-left:20px; padding-top:1px"> call <nobr>toll free 800-689-BULB (2852)</nobr>, <a href="https://hosted8.whoson.com/chat/callback.htm?domain=www.hollandbulbfarms.com" onclick="javascript:window.open('https://hosted8.whoson.com/chat/callback.htm?domain=www.hollandbulbfarms.com','wocallback','width=484,height=361');return false;">Request A Call Back</a> , or just give us some <a onclick="window.open('popup_form.asp?msg=2&amp;url=/privacy.asp?','contactWindow','height=499,width=399,status=yes,toolbar=no,menubar=no,location=no');return false;" href="#"><strong>feedback</strong></a> on our store </div>
 	</div>
 	</td>
     <td></td>
    <td colspan="3" style="padding-top:5px;">
 
-	<div style="background:#FFFFFF; height:100%; padding-top:10px; padding-bottom:9px; padding-right:12px;">
+	<div style="background:#FFFFFF; padding-top:10px; padding-bottom:9px; padding-right:12px;">
 		<div id="contactpodText" class="smallfootertext" style="padding-left:6px;">
-			<img src="/imgs/arrow_green.gif" border="0" title="">
+			<img src="/imgs/arrow_green.gif" border="0">
 			<strong><span class="podtext">get special savings, tips and invite only pricing</span></strong>		</div>
 		<div id="contactpodTextArea" class="smallfootertext" style="padding-left:20px; padding-top:4px">  
 		  <input name="email_address" type="text" value="enter e-mail address please" tabindex="49" size="40" maxlength="50" class="smallform" onclick="this.value = ''">
@@ -1103,14 +1159,14 @@ document.newslettersignup.submit()
       
 		 <!-- BEGIN: BizRate Medal (125x73 pixels) -->
 <a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--155663.html" target="shopzilla" rel="nofollow">
-<img src="/imgs/footer/bizrrate_06_2009.gif" width="125" height="73" border="0" target="_blank" title=""></a>
+<img src="/imgs/footer/bizrrate_06_2009.gif" width="125" height="73" border="0" target="_blank"></a>
 <!-- END: BizRate Medal (125x73 pixels) -->      
-<img src="/imgs/mga-logo-sm.gif" width="153" height="70" style="padding-left:10px;" title="">
+<img src="/imgs/mga-logo-sm.gif" width="153" height="70" style="padding-left:10px;">
 
 <script src="https://seal.verisign.com/getseal?host_name=www.hollandbulbfarms.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
-<img src="imgs/cc_certs.jpg" width="167" height="67" border="0" style="padding-left:10px;" title="">
+<img src="/imgs/cc_certs.jpg" width="167" height="67" border="0" style="padding-left:10px;">
 <!--START SCANALERT CODE-->
-<a href="javascript://" onclick="popupsize('https://www.mcafeesecure.com/RatingVerify?ref=www.hollandbulbfarms.com')" rel="nofollow"> <img oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;" height="54" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." src="//images.scanalert.com/meter/www.hollandbulbfarms.com/13.gif" width="94" border="0" style="padding-left:7px;" title="HACKER SAFE certified sites prevent over 99.9% of hacker crime."></a>
+<a href="javascript://" onclick="popupsize('https://www.mcafeesecure.com/RatingVerify?ref=www.hollandbulbfarms.com')" rel="nofollow"> <img oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;" height="54" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." src="//images.scanalert.com/meter/www.hollandbulbfarms.com/13.gif" width="94" border="0" style="padding-left:7px;"></a>
 <!--END SCANALERT CODE-->
 <br>
 <br>
@@ -1118,7 +1174,7 @@ document.newslettersignup.submit()
 	Copyright © 2009 HollandBulbFarms.com | <a href="affiliate.asp">Affiliate Program</a> |  <a rel="nofollow" href="/all_products.asp">Product List</a> | <a rel="nofollow" href="/items.asp?shopBrandStatus=0&amp;url=IND">Category List</a> | <a onclick="window.open('popup_form.asp?msg=1&amp;url=/privacy.asp?','contactWindow','height=466,width=399,status=yes,toolbar=no,menubar=no,location=no');return false;" href="#">Something Wrong? (let us know) </a>
 		
           <br>
-          <div style="padding-top:15px; text-align:center"><a href="http://www.facebook.com/pages/HollandBulbFarmscom/98764325779?v=wall&amp;viewas=0" rel="nofollow"><img src="imgs/facebook_fan.gif" width="143" height="20" border="0" title=""></a></div>         </div>
+          <div style="padding-top:15px; text-align:center"><a href="http://www.facebook.com/pages/HollandBulbFarmscom/98764325779?v=wall&amp;viewas=0" rel="nofollow"><img src="/imgs/grchbf_socialmediapod_facebook.gif" width="185" height="45" border="0"></a><a href="http://twitter.com/hollandbulbfarm" rel="nofollow"><img src="/imgs/grchbf_socialmediapod_twitter.gif" width="185" height="45" border="0"></a><a href="http://www.bulbblog.com/" rel="nofollow"><img src="/imgs/grchbf_socialmediapod_bulbblog.gif" width="185" height="45" border="0"></a></div>         </div>
 </td>
         <td align="right"></td>
         </tr>
@@ -1132,13 +1188,7 @@ document.newslettersignup.submit()
  <br> 
 </div>
   </form>
-<script language="javascript">
-setTitleForImages();
-if((navigator.userAgent.toUpperCase().indexOf("MAC") != -1) && (navigator.userAgent.toUpperCase().indexOf("GECKO") == -1))
-{
-setHrefForLinks();
-}
-</script>
+
 <script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
@@ -1146,15 +1196,131 @@ _uacct = "UA-648404-3";
 urchinTracker();
 </script>
 
+<script language="Javascript">
+var locX=0;
+var locY=150;
+var imgW=0;
+var maxX=0;
+var getC=0;
+var docW=document.body.clientWidth;
+var hldX=0;
+var incX=1;
+var cStat=1;
+imgPoll=new Image();
+imgPoll.onload=chkImg;
+function woAfterLoad(){
+ var tmpDiv=document.createElement('DIV');
+ tmpDiv.setAttribute('name', 'woInvite');
+ tmpDiv.setAttribute('id', 'woInvite');
+ tmpDiv.setAttribute('align', 'right');
+ tmpDiv.style.position='absolute';
+ tmpDiv.style.top=150;
+ tmpDiv.style.left=0;
+ tmpDiv.style.zIndex=999;
+ document.body.appendChild(tmpDiv);
+ setTimeout('getImg()',1000);
+}
+function woMove(){
+ if(hldX==0){
+  newX=locX+incX;
+  if(incX>0){
+   if(newX<maxX){
+    locX=newX;woDIVs.left=locX+'px';
+    setTimeout('woMove()',12);
+   } else {
+    incX=-1;
+    setTimeout('woMove()',1000);
+   }
+  } else {
+   if(locX>0){
+    locX=newX;woDIVs.left=locX+'px';
+    setTimeout('woMove()',6);
+   } else {
+    setTimeout('stopInvite()',4000);
+   }
+ }
+ }
+}
+function getImg(){
+ var rTimer=5000;
+ if(cStat==1){
+  var pUrl="https://Gateway8.whoson.com/poll.gif?domain=www.hollandbulbfarms.com&stamp="+(new Date()).getTime();
+  if(typeof(sWOSession)!="undefined"){pUrl+="&u="+sWOSession;}
+  imgPoll.src=pUrl;
+ }
+ getC++;
+ if(getC>6)rTimer=10000;
+ if(getC>20)rTimer=15000;
+ if(getC>30)rTimer=0;
+ if(rTimer>0)setTimeout("getImg()",rTimer);
+}
+function chkImg(){
+ if(imgPoll!=null){
+  nStat=imgPoll.width;
+  if(nStat!=cStat){
+   cStat=nStat;
+   if(cStat==3)startChat();
+   if(cStat==2)startInvite();
+   if(cStat==1)stopInvite();
+  }
+ }
+}
+function getIImgw(){
+ imgW=woIMG.width;maxX=docW-imgW;
+}
+function startInvite(){
+ var ofsY;
+ if(document.documentElement && document.documentElement.scrollTop){
+  ofsY=document.documentElement.scrollTop;
+ } else {
+  ofsY=document.body.scrollTop;
+ }
+ hldX=0;incX=1;locX=0;locY=150;
+ woDIVs=document.getElementById('woInvite').style;
+ woDIVh=document.getElementById('woInvite');
+ woDIVh.innerHTML='<a href="javascript:void(0);" onclick="return startChat(event);" onMouseOver="anPause()" onMouseOut="anResume()"><img border="0" src="https://Gateway8.whoson.com/invite.gif?domain=www.hollandbulbfarms.com&stamp='+(new Date()).getTime()+'" name="woIImg"</a>';
+ woDIVs.top=(locY+ofsY)+'px';woDIVs.left=locX+'px';
+ setTimeout('woMove()',3000);
+ woIMG=document.images.woIImg;
+ woIMG.onload=getIImgw;
+}
+function stopInvite(){
+ cStat=1;woDIVh.innerHTML="";
+ setTimeout("getImg()",10000);
+}
+function startChat(event){
+ clsX=locX+imgW-12;
+ clsY=locY+12;
+ if(event.clientX<clsX || event.clientY>clsY){
+  this.chatWindow=window.open("https://hosted8.whoson.com/chat/chatstart.htm?domain=www.hollandbulbfarms.com?domain=www.hollandbulbfarms.com","Chat","width=484,height=361");
+  this.chatWindow.focus();this.chatWindow.opener=window;
+ }
+ stopInvite();
+}
+function anPause(){
+ hldX=1;
+}
+function anResume(){
+ hldX=0;
+ setTimeout('woMove()',1000);
+}
+var woOldOnload=window.onload;
+if(typeof woOldOnload=='function'){
+ if (! (String(woOldOnload).indexOf('woAfterLoad') > 0))
+ {
+   var woRunOnload = woOldOnload;
+   window.onload=function(){woRunOnload();woAfterLoad();};
+ }
+} else {
+ window.onload=woAfterLoad;
+}
 
- <!-- START WhosOn CODE -->
-<script type="text/javascript" src="/whoson_holland_bulb_farms_trackingonly.js"></script>
-	  <!-- END WhosOn CODE -->
-	<!-- MS ADCENTER -->  
+</script>
+
+
 
 
 <script language="JavaScript" src="/scripts/comodo_cot.js" type="text/javascript"></script><style type="text/css">* html {background:url(https://web.archive.org/web/20100219024548/https://secure.comodo.com/trustlogo/images/cot_bgf0.gif) fixed;background-repeat: repeat;background-position: right bottom;}#cot_tl_fixed{position:fixed;_position:absolute;bottom:0px;right:0px;clip:rect(0 100 85 0);_top:expression(document.body.scrollTop+document.body.clientHeight-this.clientHeight);_left:expression(document.body.scrollLeft + document.body.clientWidth - offsetWidth);}#cot_tl_pop {background-color: transparent;position:fixed;_position:absolute;height:194px;width: 244px;right: 120px;bottom: 20px;overflow: hidden;visibility: hidden;z-index: 100;_top:expression(document.body.scrollTop-20+document.body.clientHeight-this.clientHeight);}</style>
-
 
 <script type="text/javascript">
 document.write(unescape("%3Cscript src='" + (location.protocol=="https:" ? "https://" : "http://") +
@@ -1167,11 +1333,47 @@ cct.cct_log('0820-8P8a9gcefv8i7e9wcc644204ab3351fe5254d7df');
 </script>
 
 
+<!-- Google Website Optimizer Tracking Script -->
+<script type="text/javascript">
+if(typeof(_gat)!='object')document.write('<sc'+'ript src="http'+
+(document.location.protocol=='https:'?'s://ssl':'://www')+
+'.google-analytics.com/ga.js"></sc'+'ript>')</script><script src="https://ssl.google-analytics.com/ga.js"></script>
+<script type="text/javascript">
+try {
+var gwoTracker=_gat._getTracker("UA-648404-9");
+gwoTracker._trackPageview("/1421361751/test");
+}catch(err){}</script>
+<!-- End of Google Website Optimizer Tracking Script -->
 
-<!-- Begin: 4q.iperceptions.com --><script src="https://4qinvite.4q.iperceptions.com/1.aspx?sdfc=bd900af5-8883-036d3240-09d4-4af6-9f15-62d15b5b6fc5&amp;lID=1&amp;loc=4Q-WEB2" type="text/javascript" defer="defer"></script><!-- End: 4q.iperceptions.com -->
-
-     
-
+<div class="searchhelpdropped">
+<ul class="left">
+	<h5>Search by Type</h5>
+  	    <li><a href="/search.asp?page=1&amp;keywords=%22In+Stock%22&amp;refine=y&amp;Stock=In+Stock&amp;Category=Spring+Planting+Bulbs&amp;Categories=Perennials+-+Perennial+Plants" rel="nofollow">Perennials</a></li>
+        <li><a href="/search.asp?page=1&amp;keywords=%22In+Stock%22&amp;refine=y&amp;Stock=In+Stock&amp;Category=Spring+Planting+Bulbs&amp;Categories=Lily+Bulbs" rel="nofollow">Lilies</a></li>
+		<li><a href="/search.asp?page=1&amp;keywords=%22Begonia%22&amp;in_field=&amp;sort_by_field=&amp;refine=y&amp;Stock=In%20Stock" rel="nofollow">Begonias</a></li>
+		<li><a href="/search.asp?page=1&amp;keywords=%22Dahlia%22&amp;in_field=&amp;sort_by_field=&amp;refine=y&amp;Stock=In%20Stock" rel="nofollow">Dahlias</a></li>
+		<li><a href="/search.asp?page=1&amp;keywords=Cannas&amp;in_field=&amp;sort_by_field=&amp;refine=y&amp;Stock=In Stock" rel="nofollow">Cannas</a></li>
+		<li><a href="/search.asp?page=1&amp;keywords=seed&amp;in_field=&amp;sort_by_field=&amp;refine=y&amp;Stock=In%20Stock&amp;Category=Garden+Seeds" rel="nofollow">Garden Seeds</a></li>
+	</ul>
+	<ul class="middle">
+	<h5>Search by Color</h5>
+		<li><a href="/search.asp?page=1&amp;keywords=%22In+Stock%22&amp;refine=y&amp;Stock=In+Stock&amp;Color=Pink" rel="nofollow">Pink</a></li>
+		<li><a href="/search.asp?page=1&amp;keywords=%22In+Stock%22&amp;refine=y&amp;Stock=In+Stock&amp;Color=Red" rel="nofollow">Red</a></li>
+		<li><a href="/search.asp?page=1&amp;keywords=%22In+Stock%22&amp;refine=y&amp;Stock=In+Stock&amp;Color=Yellow" rel="nofollow">Yellow</a></li>
+		<li><a href="/search.asp?page=1&amp;keywords=%22In+Stock%22&amp;refine=y&amp;Stock=In+Stock&amp;Color=Mixed" rel="nofollow">Mix Colors</a></li>
+		<li><a href="/search.asp?page=1&amp;keywords=%22In+Stock%22&amp;refine=y&amp;Stock=In+Stock&amp;Color=White" rel="nofollow">White</a></li>
+		<li><a href="/search.asp?page=1&amp;keywords=%22In+Stock%22&amp;refine=y&amp;Stock=In+Stock&amp;Color=Orange" rel="nofollow">Orange</a></li>
+	</ul>
+	<ul class="right">
+	<h5>Search by</h5>
+		<li><a href="/search.asp?page=1&amp;keywords=%22In+Stock%22&amp;refine=y&amp;Stock=In+Stock&amp;Benefits=Fragrant" rel="nofollow">Fragrant Flowers</a></li>
+		<li><a href="/search.asp?page=1&amp;keywords=%22In+Stock%22&amp;refine=y&amp;Stock=In+Stock&amp;Benefits=Deer+Resistant" rel="nofollow">Deer Resistant</a></li>
+		<li><a href="/search.asp?page=1&amp;keywords=%22In+Stock%22&amp;refine=y&amp;Stock=In+Stock&amp;Lightrequirements=Full+Sun" rel="nofollow">Full Sun</a></li>
+		<li><a href="/search.asp?page=1&amp;keywords=%22In+Stock%22&amp;refine=y&amp;Stock=In+Stock&amp;Lightrequirements=Full+Shade" rel="nofollow">Full Shade</a></li>
+		<li><a href="/search.asp?page=1&amp;keywords=%22In+Stock%22&amp;refine=y&amp;Stock=In+Stock&amp;Lightrequirements=Half+Shade" rel="nofollow">Partial Shade</a></li>
+		<li><a href="/search.asp?page=1&amp;keywords=In+Stock&amp;refine=y&amp;Stock=In+Stock&amp;Benefits=Naturalize%2FMultiply" rel="nofollow">Naturalize/Multiply</a></li>
+	</ul>
+</div>
 	
 
-</body></html>
+<div name="woInvite" id="woInvite" align="right" style="position: absolute; top: 150px; left: 0px; z-index: 999;"></div></body></html>
