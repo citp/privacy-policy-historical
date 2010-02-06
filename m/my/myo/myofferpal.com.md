@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the myofferpal.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221100224id_/http%3A//www.myofferpal.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myofferpal.com privacy policy that was archived on 2010-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100206170322id_/http%3A//myofferpal.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Offerpal Media
 
   |    
 We hate spam more than you do! 
 
-Welcome to the Offerpal Media, Inc. web site ([www.offerpalmedia.com](https://web.archive.org/web/20091221100224id_/http%3A//www.myofferpal.com/www.offerpalmedia.com)). Offerpal Media values the privacy of the users, subscribers, members, and others who visit and use the Offerpal Media Platform (collectively or individually, "you" or "Users"). 
+Welcome to the Offerpal Media, Inc. web site ([www.offerpalmedia.com](https://web.archive.org/web/20100206170322id_/http%3A//myofferpal.com/www.offerpalmedia.com)). Offerpal Media values the privacy of the users, subscribers, members, and others who visit and use the Offerpal Media Platform (collectively or individually, "you" or "Users"). 
 
 By using the Offerpal Media Platform, you expressly consent to the information handling practices described in this Privacy Policy. If you do not agree with our Privacy Policy, please do not use the Offerpal Media Platform. 
 
@@ -69,7 +69,7 @@ The following are some resources that may help parents and legal guardians in mo
 
   * "OnGuard Online," maintained by the [Federal Trade Commission](http://onguardonline.gov/socialnetworking.html)
   * [WiredSafety](http://www.wiredsafety.org/)
-  * [Netsmartz.org](https://web.archive.org/web/20091221100224id_/http%3A//www.myofferpal.com/www.netsmartz.org)
+  * [Netsmartz.org](https://web.archive.org/web/20100206170322id_/http%3A//myofferpal.com/www.netsmartz.org)
   * [The Child Safety Network](http://www.csn.org/index.jsp)
   * [Control Kids](http://www.controlkids.com/)
   * [Cyber Sitter](http://www.solidoak.com/)
