@@ -1,185 +1,350 @@
-<!--The following is the downloaded HTML source of the barco.com privacy policy that was archived on 2009-09-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090901090708id_/http%3A//www.barco.com/AboutBarco/en/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the barco.com privacy policy that was archived on 2010-02-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100206014405id_/http%3A//www.barco.com/en/AboutBarco/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- version 1.1 / gvco --><head>
-<title>Barco | Privacy policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" href="/styles/barcogeneral.css" type="text/css">
-	<link rel="stylesheet" href="/styles/barcomarketportal.css" type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>
+	Barco | About Barco | Privacy policy
+</title>
+    <script src="/scripts/jquery/jquery.js" type="text/javascript"></script>
+    
+<script type="text/javascript">
+$(document).ready(function(){
+    $('a.change').click(function(){
+        if ($("div.cultureDiv").is(":hidden")) {
+            $("div.cultureDiv div.right p").html("On the barco.com website there are at most two languages used, i.e. your preferred language and English. Navigation of the website is always fully available in the preferred language you have selected. For practical reasons, some information may not be available in your preferred language. In that case, contents will be displayed in English.")
+            $("div.cultureDiv").slideDown("slow");
+        } else {
+            $("div.cultureDiv div.right p").html("")
+            $("div.cultureDiv").slideUp("slow");
+        }
+        return false;
+    });
+    $('#cultureButton').click(function(){
+        
+        var toUrl = "";
+        toUrl = "/" + $('#langSelect').val() + "/" + "/AboutBarco/privacy.aspx";
+        setCookie("BarcoUserInfo", "UIlang=" + $('#langSelect').val() + "&" + "UIcountry=" + $('#cSelect').val(), 30);
+        window.location = toUrl.replace("//", "/"); 
+    });
+    $("input#topSearchBox").toggleVal({
+        focusClass: "searchBoxFocus",
+        changedClass: "searchBoxChanged"
+    });
+});
+
+function setCookie(cookieName, cookieValue, nDays) {
+    var today = new Date();
+    var expire = new Date();
+    if (nDays == null || nDays == 0) nDays = 1;
+    expire.setTime(today.getTime() + 3600000 * 24 * nDays);
+    document.cookie = cookieName + "=" + cookieValue + "; expires=" + expire.toGMTString()+ "; path=/";
+}
+</script>
+    <script src="/scripts/jquery/plugins/jquery.toggleval_2.1.min.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="/styles/barcogeneral.css" type="text/css" media="all"><link rel="stylesheet" href="/styles/barcomarketportal.css" type="text/css" media="all"><link rel="stylesheet" href="/styles/barcoprint.css" type="text/css" media="print"><link rel="shortcut icon" href="/favicon.ico"><link rel="stylesheet" href="/scripts/sIFR/css/sifr.css" type="text/css" media="all">
+
+    <script language="javascript" type="text/javascript">
+        var lang = "";
+        lang = 'en';
+    </script>
+    <script src="/scripts/sIFR/js/sifr.js" type="text/javascript"></script>
+    <script src="/scripts/sIFR/js/sifr-config.js" type="text/javascript"></script>
+    
 </head>
-
 <body>
-<div id="container">
-	
-<div id="barcodotcom">
-	<div id="barcodotcomleft"><a href="http://www.barco.com/"><img src="/images/general/barco.com.gif" alt="barco.com"></a></div>
-	<div id="barcodotcomright">
-		<form action="http://search.barco.com/search" method="get" name="gs">
-			<input type="hidden" name="ie" value="">
-			<input type="hidden" name="site" value="barco">
-			<input type="hidden" name="output" value="xml_no_dtd">
-			<input type="hidden" name="client" value="barco">
-			<input type="hidden" name="lr" value="">
-			<input type="hidden" name="proxystylesheet" value="barco">
-			<input type="hidden" name="oe" value="">
-			Search&nbsp;
-			<input type="text" name="q" class="barcoform" size="32" maxlength="256" value="">
-			<input type="submit" name="Submit" value="Go" class="barcoform">
-		</form>
-	</div>
-</div>
-<div class="topnav">
-	<div class="lefttop"> <a href="http://www.barco.com/">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/aboutbarco/">About us</a> </div>
-	<div id="righttop"> <a href="/corporate/en/Markets/">Markets</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="/corporate/en/Products/">Products</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="/corporate/en/Support/support.asp">Support</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="/investors/">Investors</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="/jobs/">Jobs</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="/corporate/en/pressreleases/">Press</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="/corporate/en/Events/">Events</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/corporate/en/contactus/">Contact us</a> </div>
-</div>
-
-	<div class="breadcrumb"><a href="http://www.barco.com">Barco</a>
+    <div id="container">
 		
-			&gt;
-			
-				<a href="/Aboutbarco/" class="link">
-			About Barco
-				</a>
-			
-	&gt; Privacy policy </div>
-
-<!-- End Header -->
-
-	<div id="content">
-			<div class="leftContent">
-				<div class="localmenuImage">
-	<img src="/corporate/Images/banner/corp_image2006.jpg">
+<!--googleoff: all-->
+<div id="barcodotcom">
+    <div id="barcodotcomleft"><a id="ctl00_Header1_HomeLogo" href="/en/"><img src="/images/general/barco.com.gif" border="0"></a></div>
+    <div id="barcodotcomright">
+        <div class="langselect capitalize">English | usa (<a href="/general/culture/" class="change">Change</a>)</div>
+<div class="search">
+    <form action="http://search.barco.com/search" method="get" name="gs">
+	    <input name="ie" value="" type="hidden">
+	    <input name="site" value="barco" type="hidden">
+	    <input name="output" value="xml_no_dtd" type="hidden">
+	    <input name="client" value="barco" type="hidden">
+	    <input name="lr" value="" type="hidden">
+	    <input name="proxystylesheet" value="barco" type="hidden">
+	    <input name="oe" value="" type="hidden">
+	    <input name="q" class="searchBox toggleval" size="32" maxlength="256" value="Search Barco.com" type="text" id="topSearchBox">
+	    
+        <input name="Submit" value="Search" type="submit">
+    </form>
 </div>
-<!--START MENU V1.08 07/10/2004 KVJ -->
+    </div>
+</div>
+<div class="cultureDiv">
+    <div class="left">
+        <p>
+            <label for="cultureSelect">Preferred language:</label>
+            
+            <select id="langSelect" name="language">
+                <option value="en" selected="selected">English</option><option value="fr">Français</option><option value="nl">Nederlands</option><option value="ja">Japanese</option><option value="ru">Русский</option><option value="pt">Português</option><option value="es">Español</option><option value="de">Deutsch</option><option value="it">Italiano</option>
+            </select>
+        </p>
+        <p>
+            <label for="cSelect">Country:</label>
+            <select id="cSelect" name="country" class="capitalize">
+                <option value="AF">afghanistan</option><option value="AL">albania</option><option value="DZ">algeria</option><option value="AS">american samoa</option><option value="AD">andorra</option><option value="AO">angola</option><option value="AI">anguilla</option><option value="AQ">antarctica</option><option value="AG">antigua and barbuda</option><option value="AR">argentina</option><option value="AM">armenia</option><option value="AW">aruba</option><option value="AU">australia</option><option value="AT">austria</option><option value="AZ">azerbaijan</option><option value="BS">bahamas</option><option value="BH">bahrain</option><option value="BD">bangladesh</option><option value="BB">barbados</option><option value="BY">belarus</option><option value="BE">belgium</option><option value="BZ">belize</option><option value="BJ">benin</option><option value="BM">bermuda</option><option value="BT">bhutan</option><option value="BO">bolivia</option><option value="BA">bosnia and herzegowina</option><option value="BW">botswana</option><option value="BR">brazil</option><option value="BN">brunei darussalam</option><option value="BG">bulgaria</option><option value="BF">burkina faso</option><option value="BI">burundi</option><option value="KH">cambodia</option><option value="CM">cameroon</option><option value="CA">canada</option><option value="XB">canarian islands</option><option value="CV">cape verde</option><option value="KY">cayman islands</option><option value="CF">central african republic</option><option value="TD">chad</option><option value="CL">chile</option><option value="CN">china</option><option value="CX">christmas island</option><option value="CC">cocos (keeling) islands</option><option value="CO">colombia</option><option value="KM">comoros</option><option value="CG">congo</option><option value="CD">congo, the democratic republic</option><option value="CK">cook islands</option><option value="CR">costa rica</option><option value="HR">croatia</option><option value="CU">cuba</option><option value="CY">cyprus</option><option value="CZ">czech republic</option><option value="DK">denmark</option><option value="DJ">djibouti</option><option value="DM">dominica</option><option value="DO">dominican republic</option><option value="TP">east timor</option><option value="EC">ecuador</option><option value="EG">egypt</option><option value="SV">el salvador</option><option value="GQ">equatorial guinea</option><option value="ER">eritrea</option><option value="EE">estonia</option><option value="ET">ethiopia</option><option value="FK">falkland islands (malvinas)</option><option value="FO">faroe islands</option><option value="FJ">fiji</option><option value="FI">finland</option><option value="FR">france</option><option value="GF">french guiana</option><option value="PF">french polynesia</option><option value="GA">gabon</option><option value="GM">gambia</option><option value="GZ">gaza strip</option><option value="GE">georgia</option><option value="DE">germany</option><option value="GH">ghana</option><option value="GI">gibraltar</option><option value="GR">greece</option><option value="GL">greenland</option><option value="GD">grenada</option><option value="GP">guadeloupe</option><option value="GU">guam</option><option value="GT">guatemala</option><option value="GN">guinea</option><option value="GW">guinea-bissau</option><option value="GY">guyana</option><option value="HT">haiti</option><option value="HN">honduras</option><option value="HK">hong kong</option><option value="HU">hungary</option><option value="IS">iceland</option><option value="IN">india</option><option value="ID">indonesia</option><option value="IR">iran</option><option value="IQ">iraq</option><option value="IE">ireland</option><option value="IL">israel</option><option value="IT">italy</option><option value="CI">ivory coast</option><option value="JM">jamaica</option><option value="JP">japan</option><option value="JO">jordan</option><option value="KZ">kazakhstan</option><option value="KE">kenya</option><option value="KI">kiribati</option><option value="KW">kuwait</option><option value="KG">kyrgyzstan</option><option value="LA">lao people's democratic republ</option><option value="LV">latvia</option><option value="LB">lebanon</option><option value="LS">lesotho</option><option value="LR">liberia</option><option value="LY">libya</option><option value="LI">liechtenstein</option><option value="LT">lithuania</option><option value="LU">luxembourg</option><option value="MO">macau</option><option value="MK">macedonia</option><option value="MG">madagascar</option><option value="MW">malawi</option><option value="MY">malaysia</option><option value="MV">maldives</option><option value="ML">mali</option><option value="MT">malta</option><option value="MH">marshall islands</option><option value="MQ">martinique</option><option value="MR">mauritania</option><option value="MU">mauritius</option><option value="YT">mayotte</option><option value="MX">mexico</option><option value="FM">micronesia</option><option value="MD">moldova</option><option value="MC">monaco</option><option value="MN">mongola</option><option value="ME">montenegro</option><option value="MS">montserrat</option><option value="MA">morocco</option><option value="MZ">mozambique</option><option value="MM">myanmar</option><option value="NA">namibia</option><option value="NR">nauru</option><option value="NP">nepal</option><option value="NL">netherlands</option><option value="AN">netherlands antilles</option><option value="NC">new caledonia</option><option value="NZ">new zealand</option><option value="NI">nicaragua</option><option value="NE">niger</option><option value="NG">nigeria</option><option value="NU">niue</option><option value="NF">norfolk island</option><option value="KP">north korea</option><option value="NO">norway</option><option value="OM">oman</option><option value="PK">pakistan</option><option value="PW">palau</option><option value="PA">panama</option><option value="PG">papua new guinea</option><option value="PY">paraguay</option><option value="PE">peru</option><option value="PH">philippines</option><option value="PL">poland</option><option value="PT">portugal</option><option value="PR">puerto rico</option><option value="QA">qatar</option><option value="RE">reunion</option><option value="RO">romania</option><option value="RU">russia</option><option value="RW">rwanda</option><option value="KN">saint kitts and nevis</option><option value="LC">saint lucia</option><option value="VC">saint vincent and the grenadin</option><option value="WS">samoa</option><option value="SM">san marino</option><option value="ST">sao tome and principe</option><option value="SA">saudi arabia</option><option value="SN">senegal</option><option value="RS">serbia</option><option value="SC">seychelles</option><option value="SL">sierra leone</option><option value="SG">singapore</option><option value="SK">slovakia</option><option value="SI">slovenia</option><option value="SB">solomon islands</option><option value="SO">somalia</option><option value="ZA">south africa</option><option value="KR">south korea</option><option value="ES">spain</option><option value="LK">sri lanka</option><option value="SH">st. helena</option><option value="PM">st. pierre and miquelon</option><option value="SD">sudan</option><option value="SR">suriname</option><option value="SJ">svarbald &amp; j may island</option><option value="SZ">swaziland</option><option value="SE">sweden</option><option value="CH">switzerland</option><option value="SY">syria</option><option value="TW">taiwan</option><option value="TJ">tajikistan</option><option value="TZ">tanzania</option><option value="TH">thailand</option><option value="TG">togo</option><option value="TK">tokelau</option><option value="TO">tonga</option><option value="TT">trinidad and tobago</option><option value="TN">tunisia</option><option value="TR">turkey</option><option value="TM">turkmenistan</option><option value="TC">turks and caicos islands</option><option value="TV">tuvalu</option><option value="UG">uganda</option><option value="UA">ukraine</option><option value="AE">united arab emirates</option><option value="GB">united kingdom</option><option value="UY">uruguay</option><option value="US" selected="selected">usa</option><option value="UZ">uzbekistan</option><option value="VU">vanuatu</option><option value="VA">vatican city</option><option value="VE">venezuela</option><option value="VN">vietnam</option><option value="VG">virgin islands (british)</option><option value="VI">virgin islands (us)</option><option value="WF">wallis and futuna islands</option><option value="JE">west bank</option><option value="EH">western sahara</option><option value="YE">yeman</option><option value="ZM">zambia</option><option value="ZW">zimbabwe</option>
+            </select>
+        </p>
+        <p>
+            <input type="button" value="Save" id="cultureButton">
+        </p>
+    </div>
+    <div class="right">
+        <p></p>
+    </div>
+</div>
+<!--googleon: all-->
+<div class="topnav">
+    
+<script type="text/javascript">
+$(document).ready(function(){
+		$('ul.righttop li').hover(
+			function() { 
+			    $('div', this).css('display', 'block');
+                $(this).addClass('active');
+			 },
+			function() { 
+			    $('div', this).css('display', 'none');
+			    $(this).removeClass('active');
+			});
+	});
+</script>
+<ul class="lefttop">
+<li><a id="ctl00_Header1_topmenu1_L1" href="/en/">Home</a></li>
+<li><a id="ctl00_Header1_topmenu1_L2" href="/en/aboutbarco">About us</a></li>
+</ul>
+<ul class="righttop">
+  <li><a id="ctl00_Header1_topmenu1_L3" href="/en/markets">Markets</a>
+  <div style="display:none;">
+     <ul>
+	  <li><a id="ctl00_Header1_topmenu1_LocalizedHyperLink4" href="/en/medical/">Medical Imaging</a></li>
+      <li><a id="ctl00_Header1_topmenu1_LocalizedHyperLink7" href="/en/events/">Events</a></li>
+	  <li><a id="ctl00_Header1_topmenu1_LocalizedHyperLink6" href="/en/digitalcinema/">Digital cinema</a></li>
+	  <li><a id="ctl00_Header1_topmenu1_LocalizedHyperLink10" href="/en/branding/">Branding</a></li>
+	  <li><a id="ctl00_Header1_topmenu1_LocalizedHyperLink8" href="/en/controlrooms/">Control Rooms</a></li>
+	  <li><a id="ctl00_Header1_topmenu1_L30" href="/en/presentation/">Corporate AV</a></li>	  
+	  <li><a id="ctl00_Header1_topmenu1_LocalizedHyperLink9" href="/en/broadcasting/">Broadcast</a></li>
+	  <li><a id="ctl00_Header1_topmenu1_L26" href="/en/simulation/">Simulation &amp; training</a></li>
+	  <li><a id="ctl00_Header1_topmenu1_L15" href="/en/airtrafficcontrol/">Air traffic management</a></li>
+	  <li><a id="ctl00_Header1_topmenu1_L29" href="/en/virtualreality/">Virtual reality &amp; 3D</a></li>
+	  <li><b><a id="ctl00_Header1_topmenu1_LocalizedHyperLink1" href="/en/corporate/Markets/">All Markets</a></b></li>
+	 </ul>
+  </div>
+  </li>
+  
+  <li><a id="ctl00_Header1_topmenu1_L4" href="/en/products">Products</a>
+  <div style="display:none;">
+     <ul>
+	  <li><a id="ctl00_Header1_topmenu1_LocalizedProductCatLink1" href="/en/productcategory/2">Display monitors</a></li>
+	  <li><a id="ctl00_Header1_topmenu1_LocalizedProductCatLink8" href="/en/productcategory/1">Projectors</a></li>
+	  <li><a id="ctl00_Header1_topmenu1_LocalizedProductCatLink15" href="/en/productcategory/3">Multi projector displays</a></li>
+	  <li><a id="ctl00_Header1_topmenu1_LocalizedProductCatLink18" href="/en/productcategory/206">Video walls</a></li>
+	  <li><a id="ctl00_Header1_topmenu1_LocalizedProductCatLink22" href="/en/productcategory/142">LED solutions</a></li>
+	  <li><a id="ctl00_Header1_topmenu1_LocalizedProductCatLink26" href="/en/productcategory/185">Lighting products</a></li>
+	  <li><a id="ctl00_Header1_topmenu1_LocalizedProductCatLink32" href="/en/productcategory/5">Image processing</a></li>
+	  <li><a id="ctl00_Header1_topmenu1_LocalizedProductCatLink42" href="/en/productcategory/4">Software</a></li>
+	  <li><a id="ctl00_Header1_topmenu1_LocalizedProductCatLink49" href="/en/productcategory/6">Sensors &amp; sensor processing</a></li>
+	  <li><a id="ctl00_Header1_topmenu1_LocalizedProductCatLink51" href="/en/productcategory/7">Servers &amp; workstations</a></li>
+	  <li><b><a id="ctl00_Header1_topmenu1_LocalizedHyperLink5" href="/en/products">All Products</a></b></li>
+	 </ul>
+  </div>
+  </li>
+  
+  <li><a id="ctl00_Header1_topmenu1_L11" href="https://my.barco.com" target="_blank">Partners</a>
+  <div style="display:none;">			
+    <form method="post" action="https://my.barco.com/public/default.aspx" id="formname" target="_blank">
+    <ul class="redcircle">
+      <li><h2 class="nosifr">Log in</h2></li>
+      <li>Username: <br>
+      <input class="barcoform" name="username" type="text" id="Text1">
+      </li>
+      <li>Password: <br>
+      <input class="barcoform" name="pwd" type="password" id="Password1">
+      </li>
+      <li>
+      <input class="barcoform" type="submit" name="LoginButton" value="Login" id="Submit1">
+      </li>
+      <li>
+        <b><a class="more" href="https://my.barco.com/publicASP/lostpassword.asp">Lost your password?</a></b>
+      </li>
+      <li>
+        <b><a class="more" href="https://my.barco.com/publicASP/registration.asp">Sign up for my.barco.com</a></b>
+      </li>
+    </ul>
+    </form> 
+  </div>
+  </li>
+  <li><a id="ctl00_Header1_topmenu1_L5" href="/en/support">Support</a>
+  <div style="display:none;">
+     <ul>
+	  <li><a id="ctl00_Header1_topmenu1_menuContactSuport" href="/en/support/">Support</a></li>
+	  <li><a id="ctl00_Header1_topmenu1_menuContactRegOffice" href="/en/regionalcontacts/">Regional offices</a></li>
+	 </ul>
+  </div>
+  </li>
+  
+  <li><a id="ctl00_Header1_topmenu1_L6" href="/en/investors">Investors</a>
+  <div style="display:none;">
+     <ul>
+	  <li><a id="ctl00_Header1_topmenu1_T1" href="/en/investors/">Investors</a></li>
+	  <li><a id="ctl00_Header1_topmenu1_LocalizedHyperLink21" href="/en/investors/downloads/FinancialReports.aspx">Financial reports</a></li>
+	  <li><a id="ctl00_Header1_topmenu1_LocalizedHyperLink13" href="/en/investors/Current_Share_Price.aspx">Share price &amp; chart</a></li>
+	 </ul>
+  </div>
+  </li>
+  
+  <li><a id="ctl00_Header1_topmenu1_L7" href="/en/jobs">Jobs</a></li>
+  
+  <li><a id="ctl00_Header1_topmenu1_L8" href="/en/pressreleases">Press</a></li>
+  
+  <li><a id="ctl00_Header1_topmenu1_L9" href="/en/upcomingevents">Events</a></li>
+  
+  <li><a id="ctl00_Header1_topmenu1_L10" href="/en/contactus/">Contact us</a>
+  <div style="display:none;">
+     <ul>
+	  <li><a id="ctl00_Header1_topmenu1_menuContactContactUs" href="/en/contactus/">Contact us</a></li>
+	  <li><a id="ctl00_Header1_topmenu1_LocalizedHyperLink3" href="/en/regionalcontacts/">Regional offices</a></li>
+	 </ul>
+  </div></li> 
+</ul>
+
+</div>
+        <div id="content">
+        
+
+<div class="breadcrumb">
+<a href="/en/">Barco</a> &gt; <a href="/en/aboutbarco/">About Barco</a> &gt; Privacy policy
+</div>
+	        <div class="leftContent">
+	            <div class="localmenuImage">
+                    <img src="http://www.barco.com/corporate/Images/banner/corp_image2006.jpg" border="0">
+                </div>
+                
 <div class="localmenubottom">
-<table>
-  <tbody><tr> 
-    <td><h2><a id="link" href="/aboutbarco/" title="About Barco">About Barco</a></h2></td>
-	<td class="localmenutop"></td>
-  </tr>
-	<tr>
-		<td class="spacer"></td>
-		<td></td>
-	</tr>
-  <tr> 
-    <td><ul id="menu"><li class="menulevel1link" id="invPress"><a href="/aboutbarco/en/CompanyProfile.asp">Company Profile</a></li>
-	<li class="menulevel1link" id="invPress"><a href="/aboutbarco/en/board.asp">Board &amp; Management</a></li>
-	<li class="menulevel1link" id="invPress"><a href="/aboutbarco/en/history.asp">Barco History</a></li>
-	<li class="menulevel1link" id="invPress"><a href="/aboutbarco/en/barcoworldwide.asp">Barco Worldwide</a></li>
-	<li class="menulevel1close" id="aboutCorpSust"><a href="javascript:toggle('aboutCorpSust');">Corporate Sustainability</a>
-		  <ul id="aboutCorpSust1" class="hide">						
-			<!--<li class="menulevel2close" id="aboutCorpSustPrinc"><a href="javascript:toggle('aboutCorpSustPrinc');">Principles</a>
-				<ul id="aboutCorpSustPrinc1" class="hide">							
-					<li class="menulevel2link"><a href="/aboutbarco/en/corporatesustainability/values.asp" title="Values">Values</a></li>
-					<li class="menulevel2link"><a href="/aboutbarco/en/corporatesustainability/mission.asp" title="Mission">Mission</a></li>
-				</ul>
-			</li>-->
-			<li class="menulevel2close" id="aboutCorpSustComp"><a href="javascript:toggle('aboutCorpSustComp');">Compliance</a>
-				<ul id="aboutCorpSustComp1" class="hide">							
-					<!--<li class="menulevel2link"><a href="/aboutbarco/en/corporatesustainability/code_of_conduct.asp" title="Code of Conduct">Code of Conduct</a></li>-->
-					<li class="menulevel2link"><a href="/aboutbarco/en/corporatesustainability/EHS_principles.asp" title="EHS Principles">Environment, Health &amp; Safety</a></li>
-					<li class="menulevel2link"><a href="/aboutbarco/en/corporatesustainability/corporate_governance.asp" title="Corporate Governance Code">Corporate Governance Code</a> (<a href="/aboutbarco/en/corporatesustainability/corporate_governance.asp" title="Corporate Governance Code">en</a> - <a href="/aboutbarco/nl/corporatesustainability/corporate_governance.asp" title="Corporate Governance Code">nl</a>)</li>
-				</ul>
-			</li>
-			
-			<!--<li class="menulevel2close" id="aboutCorpSustResp"><a href="javascript:toggle('aboutCorpSustResp');">Responsibilities</a>
-				<ul id="aboutCorpSustResp1" class="hide">							
-					<li class="menulevel2close"  id="aboutCorpSustRespStake"><a href="javascript:toggle('aboutCorpSustRespStake');" title="Stakeholders">Stakeholders</a>
-						<ul id="aboutCorpSustRespStake1" class="hide">							
-							<li class="menulevel2link"><a href="/aboutbarco/en/corporatesustainability/shareholders.asp" title="Shareholders">Shareholders</a></li>
-							<li class="menulevel2link"><a href="/aboutbarco/en/corporatesustainability/society.asp" title="Society">Society</a></li>
-							<li class="menulevel2link"><a href="/aboutbarco/en/corporatesustainability/employees.asp" title="Employees">Employees</a></li>
-							<li class="menulevel2link"><a href="/aboutbarco/en/corporatesustainability/suppliers.asp" title="Suppliers">Suppliers</a></li>
-							<li class="menulevel2link"><a href="/aboutbarco/en/corporatesustainability/customers.asp" title="Customers">Customers</a></li>
-						</ul>
-					
-					</li>
-					<li class="menulevel2close"  id="aboutCorpSustRespEnv"><a href="javascript:toggle('aboutCorpSustRespEnv');" title="Environmental">Environmental</a>
-						<ul id="aboutCorpSustRespEnv1" class="hide">							
-							<li class="menulevel2link"><a href="/aboutbarco/en/corporatesustainability/environmental_mission.asp" title="Mission">Mission</a></li>
-							<li class="menulevel2link"><a href="/aboutbarco/en/corporatesustainability/management_system.asp" title="Management System">Management System</a></li>
-							<li class="menulevel2link"><a href="/aboutbarco/en/corporatesustainability/wee.asp" title="WEE">WEE</a></li>
-							<li class="menulevel2link"><a href="/aboutbarco/en/corporatesustainability/rohs.asp" title="ROHS">ROHS</a></li>
-						</ul>
-					</li>
-				</ul>
-			</li>-->
-		</ul>
-	</li>
-	<li class="menulevel1link" id="invPress"><a href="/aboutbarco/en/privacy.asp">Privacy Policy</a></li>
-	<li class="menulevel1link" id="invPress"><a href="/aboutbarco/en/DisclaimerCopyright.asp">Legal Disclaimer</a></li>
-			</ul>
-	  </td>
-	  <td class="localmenuright"></td>
-  </tr>
-   <tr> 
-    <td colspan="2" class="localmenubottomline">
-	</td>
-  </tr>
-</tbody></table>
+    <table>
+        <tbody><tr>
+            <td>
+                <h2><a id="ctl00_ctl08_T1" href="/en/AboutBarco/">About Barco</a></h2>
+            </td>
+            <td class="localmenutop"></td>
+        </tr>
+        <tr>
+            <td class="spacer"></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>
+                <ul id="menu">
+                    <li class="menulevel1link" id="Li1">
+                        <a id="ctl00_ctl08_AboutBarcoMenuComoProfile" href="/en/AboutBarco/CompanyProfile.aspx">Company profile</a>
+                    </li>
+                    <li class="menulevel1link" id="Li2">
+                        <a id="ctl00_ctl08_AboutBarcoMenuBoard" href="/en/AboutBarco/Board.aspx">Board &amp; management</a>
+                    </li>
+                    <li class="menulevel1link" id="Li3">
+                        <a id="ctl00_ctl08_AboutBarcoMenuHistory" href="/en/AboutBarco/History.aspx">Barco History</a>
+                    </li>                   
+                    <li class="menulevel1link" id="Li4">
+                        <a id="ctl00_ctl08_AboutBarcoMenuWorldWide" href="/en/aboutbarco/barcoworldwide.aspx">Barco Worldwide</a>
+                    </li> 
+                    <li class="menulevel1open" id="aboutCorpSust">
+                    <a id="ctl00_ctl08_LocalizedHyperLink1" href="javascript:toggle('aboutCorpSust');">Corporate Sustainability</a>
+		              <ul style="display: block;" id="aboutCorpSust1" class="hide">						
+			            <li class="menulevel2open" id="aboutCorpSustComp">
+			               <a id="ctl00_ctl08_LocalizedHyperLink2" href="javascript:toggle('aboutCorpSustComp');">Compliance</a>
+				            <ul style="display: block;" id="aboutCorpSustComp1" class="hide">							
+                                <li class="menulevel2link" id="Li5">
+                                    <a id="ctl00_ctl08_LocalizedHyperLink3" href="/en/AboutBarco/EHS_principles.aspx">Environment, Health &amp; Safety</a>
+                                </li>
+                                <li class="menulevel2link" id="Li6">
+                                    <a id="ctl00_ctl08_LocalizedHyperLink4" href="/en/AboutBarco/corporate_governance.aspx">Corporate Governance Code</a>
+                                </li> 
+				            </ul>
+			            </li>
+                    </ul>
+                    </li>
+                    <li class="menulevel1link" id="Li7">
+                        <a id="ctl00_ctl08_LocalizedHyperLink5" href="/en/AboutBarco/privacy.aspx">Privacy policy</a>
+                    </li>
+                    <li class="menulevel1link" id="Li8">
+                        <a id="ctl00_ctl08_LocalizedHyperLink6" href="/en/AboutBarco/DisclaimerCopyright.aspx">Legal Disclaimer</a>
+                    </li>
+                </ul>
+            </td>
+            <td class="localmenuright"></td>
+        </tr>
+        <tr>
+            <td colspan="2" class="localmenubottomline"></td>
+        </tr>
+    </tbody></table>
 </div>
-<script language="JavaScript" src="/includes/barcomenu.js" type="text/javascript"></script>
-
-<!--END MENU -->
-
-			</div>
-			<div class="middleContentsmall"><h1>Privacy policy</h1><p>Barco values your interest in our firm and products and your visit to our internet site. This privacy statement is made available to you in order to make you aware of how Barco collects and uses individual identifying information of visitors to Barco’s website. </p><p>
+<script language="JavaScript" src="/scripts/barcomenu.js" type="text/javascript"></script>
+            </div>
+            
+	        <div class="middleContentsmall">
+                
+<h1>Privacy policy</h1><p>Barco values your interest in our firm and products and your visit to our internet site. This privacy statement is made available to you in order to make you aware of how Barco collects and uses individual identifying information of visitors to Barco’s website. </p><p>
                 Barco respects and protects the privacy of the individuals that visit the Barco website and individually identifiable information about you is not willfully disclosed to any third party without first receiving your permission as explained in this privacy policy.
                 </p>
                 <p><strong> What information do we collect and for which purposes? <br>
                 </strong> On the Barco website(s), personal details are collected from the forms on our website that you are required to fill in whenever you order a product or service, subscribe to a newsletter, request information, make use of a service offered by means of the web site or participate in survey or contest.<strong></strong><strong>                </strong></p>
                 <p> I. When you link up to the Barco website to view information we automatically collect the following data: </p>
+
                 <ul>
                   <li> Type of domain name used to gain access to the Internet (f.e. .com, .org) </li>
                   <li> The IP address attributed during the connection </li>
                   <li> Date and time of access to the site </li>
                   <li> Duration of site/page visit </li>
+
                   <li> Browser used </li>
                   <li> The operating system or platform installed on your personal computer or the access device used </li>
                   <li> Search engine and meta tags used to track the Barco website on the web </li>
                   <li> Type and nature of files or information that has been downloaded. </li>
                 </ul>
+
                 <p> II. Any personal data you provide to us, including your e-mail address will be treated in the following way: </p>
                 <ul>
                   <li>  Information you provide to us with the aim of obtaining information from us will be stored by us for purposes of carrying out your request for information; </li>
                   <li> Information you provide to us as part of an application will be stored and processed by us for that purpose and will be treated with the utmost care. </li>
                   <li> Information you provide to us in the frame of contract negotiations or an order can be used for the follow up of that contract or order; </li>
+
                   <li> Information you provide to us can be used to inform you about other Barco products, services and promotional offers. If you do not wish to receive such information, please send an email to privacy@barco.com. You have the right to access and, if necessary, correct your personal data. If you wish to do so, please send a dated and signed request with a copy of your ID card to Barco Corporate Marketing Department, President Kennedypark 35, 8500 Kortrijk, Belgium. </li>
                 </ul>                
                 <p><strong> Cookies<em> <br>
                 </em></strong>A cookie is a small data file that certain websites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited, but the only personal information a cookie can contain is information you supply yourself. Barco uses cookies to improve the quality of our service and to understand our user base more. Barco will not disclose its cookies to third parties except as required by a legal process such as a search, warrant, statute or court order. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie has been sent. Be aware, however that some parts of the Barco website may not function properly if you refuse cookies. <strong></strong></p>
                 <p><strong> With whom does Barco share information? <br>
+
                 </strong>Barco will not actively sell or make individual identifying information available to third parties. <br>
                 We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide services to you or in order to do their jobs.<strong></strong></p>
                 <p><strong> Links to other sites <br>
                 </strong>The Barco website may contain links to other websites of product and service vendors, manufacturers and partner companies. The sites linked to by Barco are developed by people over whom Barco exercises no control. These other sites may send their own cookies to users, collect data or solicit personal information and the privacy policy of the visited website will be applicable from the moment you enter the new domain. </p>
                 <p><strong> Data security<br>
+
                 </strong>Barco is committed to taking reasonable steps to protect the individual identifying information that you provide to us. We have physical, electronic, and procedural safeguards in place to protect personal information about you                </p>
                 <p><strong>Your rights <br>
                 </strong>In accordance with the Act of December 8, 1992, you are entitled to request Barco to provide you with additional information. You are also entitled to have access to the personal data processed relating to you and to have these data rectified in the event they would appear to be incomplete or inaccurate. Finally, you are entitled to object at any time and free of charge to the further processing of personal data in relation to you by sending us a request by regular mail or email with a copy of your ID card to the address mentioned below. </p>
                 <p><strong>Your consent and changes to the privacy policy<br>
                 </strong>By using the Barco website, you consent to the collection and use of your information as we have outlined in this policy. Barco may decide to change this privacy policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. </p>
                 <p><strong>Additional Questions<br>
+
                 </strong>If you have questions or suggestions, please can contact us at: <br>
                  privacy@barco.com                </p>
-                
-                </div>
-					
-					            
-</div>
-    <!-- version 2.5 - 13.08.2009 - GVCO - Tracking bis-->
 
-<div class="bottomnav">
-	<div class="lefttop">
-		<a href="/aboutbarco/">About Barco</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-		<a href="/AboutBarco/en/DisclaimerCopyright.asp">Legal Disclaimer</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-		<a href="/AboutBarco/en/privacy.asp">Privacy policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-		<a href="/AboutBarco/en/DisclaimerCopyright.asp">Copyright © Barco</a>						
-	</div>
-	<div id="logoBox">
-		<a href="http://www.barco.com/"><img src="/images/general/Barco_logo_visibly_yours_75.gif" alt="Barco logo - Visibly Yours" width="75" height="75" border="0"></a>
-	</div>
-</div>
+	        </div>
+            
+
+        </div>
+        <div class="bottomnav">
+	        <ul class="lefttop">
+	            
+<li><a id="ctl00_bottommenu1_L1" title="About Barco" href="/en/aboutbarco/">About Barco</a></li>
+<li><a id="ctl00_bottommenu1_L2" title="Legal Disclaimer" href="/en/AboutBarco/DisclaimerCopyright.aspx">Legal Disclaimer</a></li>
+<li><a id="ctl00_bottommenu1_L3" title="Privacy policy" href="/en/AboutBarco/privacy.aspx">Privacy policy</a></li>
+<li><a id="ctl00_bottommenu1_L4" title="Copyright © Barco" href="/en/AboutBarco/DisclaimerCopyright.aspx">Copyright © Barco</a></li>
 
 
 <script type="text/javascript">
@@ -192,10 +357,14 @@ var pageTracker = _gat._getTracker("UA-3918769-1");
 pageTracker._setDomainName(".barco.com");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+	
+	        </ul>
+	        <div id="logoBox">
+		        <a href="http://www.barco.com/"><img src="/images/general/Barco_logo_visibly_yours_75.gif" alt="Barco logo - Visibly Yours" width="75" height="75" border="0"></a>
+	        </div>
+        </div>
+	</div>
 
-<!-- Tracking -->
 
-<!-- End Footer -->
-</div>
 
 </body></html>
