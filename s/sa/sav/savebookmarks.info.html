@@ -1,0 +1,883 @@
+<!--The following is the downloaded HTML source of the savebookmarks.info privacy policy that was archived on 2010-02-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100206170108id_/http%3A//savebookmarks.info/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+				
+
+	<meta http-equiv="Pragma" content="no-cache">
+	<meta http-equiv="expires" content="0">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">	
+
+	<meta name="description" content="Save Bookmarks.info is a do follow social bookmarking site where people submit their websites to bookmark and get traffic.  You source for social news and networking">
+
+	<meta name="keywords" content="News,Stories,Articles,Vote,Publish,Social,Networking,Groups,Submit,Upcoming,Comments,Tags,Live">
+  
+
+	<meta name="Language" content="en-us">
+	<meta name="Robots" content="All">
+			
+		<link rel="stylesheet" type="text/css" href="/templates/tacticnews/css/main.css" media="screen">
+                
+		<link rel="stylesheet" type="text/css" href="/templates/tacticnews/css/superfish.css" media="screen">
+		<link rel="stylesheet" type="text/css" href="/templates/tacticnews/css/nyroModal.css" media="screen">
+		
+		 <!-- Additional IE/Win specific style sheet (Conditional Comments) -->
+        <!--[if lte IE 7]>
+        <link rel="stylesheet" href="/templates/tacticnews/css/jquery.tabs-ie.css" type="text/css" media="projection, screen">
+        <![endif]-->  
+        <!--[if lte IE 6]>
+        <link rel="stylesheet" href="/templates/tacticnews/css/ie6.css" type="text/css" media="projection, screen">
+        <![endif]-->
+	
+    <script src="/templates/tacticnews/js/jquery-1.3.2.min.js"></script> 
+    
+			
+		<link rel="stylesheet" type="text/css" href="/modules/exp_easynews/css/easynews.css" media="screen">		<script src="/modules/exp_easynews/js/jquery.cycle.all.js" type="text/javascript"></script>
+        	        
+<script type="text/javascript">
+
+jQuery(document).ready(function(){
+								
+	
+	 
+	 jQuery(".stories_opacity").css('opacity',0.3);
+	 
+	 jQuery(function(){
+			jQuery('ul.sf-menu').superfish();
+		});
+	 
+	jQuery('.group_img_upload').click(function(){
+		jQuery('#image_upload-1').toggle('slow');
+		return false;
+	});	
+	
+	jQuery(".rssfield")
+		.click(function() {
+			jQuery(this).select();
+		});
+	 
+	 jQuery("#sort_but").toggle(
+	  function () {
+	   jQuery("ul.exp_sort").find("li").css({display:"block"});
+	   jQuery("#sort_but").css({"background-position":"right"});
+	  },
+	  function () {
+		jQuery("ul.exp_sort").find("li").css({display:"none"});
+	   jQuery("#sort_but").css({"background-position":"left"});
+	  }
+	); 
+	
+	jQuery('.shared,.close_box').click(function(){
+		jQuery('div.share_box' , jQuery(this).parents().parents('div:first')).toggle('slow');
+		return false;
+	});	
+	
+	
+	jQuery('.group_link').click(function(){
+		jQuery(this).parents(".stories").find(".group_share_box").toggle('slow');
+		return false;
+	});	
+	
+	jQuery('.groupstorystatus_link').click(function(){
+		jQuery(this).parents(".title").find(".groupstorystatus_box").toggle('slow').end().find(".story_status_success").hide();
+		return false;
+	});	
+	
+	
+	
+	jQuery('.groupstorystatus_bg a').click(function(){
+			
+		var this_link = jQuery(this).parents(".title");
+		var href_link = jQuery(this).attr('href');
+		jQuery.ajax({
+				url: href_link,
+				type:'POST',
+			success: function(aws){
+		jQuery(this_link).find(".story_status_success").show('slow').end().find(".groupstorystatus_box").toggle('slow');
+			}
+		});
+		return false;
+	});	
+	
+	jQuery('.admin_link').click(function(){
+		jQuery(this).parents(".title").find(".ls_adminlinks_exp").toggle('slow').end().find(".story_status_success").hide('slow');
+		return false;
+	});	
+	
+	
+	jQuery('.show_hide').click(function(){
+		jQuery(this).parents('.comment-wrap').find("#comment_content").toggle('slow');
+		return false;
+	});	
+	
+	jQuery('.reply_comm').click(function(){
+		jQuery(this).parents('.comment-wrap').find("#reply").toggle('slow');
+		return false;
+	});	
+
+    jQuery('.save_add , .remove_add').click(function(event) {
+		var href_link = jQuery(this).attr('href');
+		var title_link = jQuery(this).attr('title');
+		var link_this = this;
+		link_add_remove(href_link ,title_link,link_this);
+		return false;
+  });
+	
+	jQuery('#linksummaryBury a, .vote_button,.unvote_button, .ratemey,.ratemen').click(function(event) {
+		
+		var href_link = jQuery(this).attr('href');
+		var link_this = this;
+		if(jQuery(this).is('#linksummaryBury a')){
+		var unvote = '';
+		var file_link ='vote.php';
+		var jquery_link = 'jQuery(link_this).parent().parent("div").find("#linksummaryBury").hide().end().parent().parent("div").find(".vote_img").html("<span class=\'vote_text_small\'>Buried</span>").end().find(".story_padding").animate({opacity: 0.3 }, "slow")';
+		}
+		if(jQuery(this).is('.vote_button')){
+		var unvote = '';
+		var file_link ='vote.php';
+		var jquery_link = 'jQuery(link_this).parent().parent("div").find("#xvotes").html(b[0]).end().find(".vote_img").html("<span class=\'vote_text_small\'>Voted</span>").parents(".stories").find("#linksummaryBury").hide()';
+		} 
+		
+		if(jQuery(this).is('.unvote_button')){
+		var unvote = 'unvote=true&';
+		var file_link ='vote.php';
+		var jquery_link = 'jQuery(link_this).parents(".stories").find("#xvotes").html(b[0]).end().find(".vote_img").html("<span class=\'vote_text_small\'>Unvote</span>")';
+		}
+		if(jQuery(this).is('.ratemey,.ratemen')){
+		var unvote = '';
+		var file_link ='cvote.php';
+		var jquery_link = 'jQuery(link_this).parents(".top_comments_right").find("#cvote").html(b[0]).end().find(".rate_text_exp").html("<span class=\'vote_text_small\'>Thank you for rating this comment.</span>").fadeOut(3000)';
+		} 
+		var re = /^(\w+)\(([^)]*)\)$/;
+		var found = href_link.match(re);
+		var splits = found[2].split(',');
+		var el9 = splits[3].replace(/('|")/g,'');
+		vote(splits[0], splits[1], splits[2], el9, splits[4], link_this,jquery_link,unvote,file_link);
+		
+		return false;
+		
+	
+ 
+
+  });
+
+
+	function vote(user, id, htmlid, md5, value, link_this,jquery_link,unvote,file_link) {
+		
+		jQuery.ajax({
+			url: "http://savebookmarks.info/" + file_link,
+			data: unvote + "id=" + id + "&user=" + user + "&md5=" + md5 + "&value=" + value,
+			type:'POST',
+			 success: function(aws){
+				 
+				split = new RegExp ("~--~");
+				if (aws.match (split)) {
+				b = aws.split (split);
+				
+				eval(jquery_link);
+				} else {
+				errormatch = new RegExp ("^ERROR:");
+				aws = aws.substring (6, aws.length);
+				jQuery(link_this).parent().parent().parent().parent().parent("div").find(".information_box").show().html(aws).fadeOut(3000);
+				}
+				 
+			
+			 },
+			 error: function (aws){
+			 }
+		});
+	}
+	
+	
+	
+	function link_add_remove(href_link ,title_link,link_this) {
+		jQuery.ajax({
+			url: href_link,
+			type:'POST',
+			 complete: function(){
+				 jQuery(link_this).parent().parent("div").find(".information_box").show().html(title_link).fadeOut(3000);
+		
+			 }
+		});
+		
+	}
+	
+	
+	jQuery(".email_to_submit").click(function(event) {
+		var email_this = jQuery(this).parent('form');
+		
+		jQuery().ajaxStart(function() {
+		jQuery(email_this).parent("div").find('.loading').show();
+		jQuery(email_this).parent("div").find('.result').hide();
+	}).ajaxStop(function() {
+		jQuery(email_this).parent("div").find('.loading').hide();
+		jQuery(email_this).parent("div").find('.result').fadeIn('slow');
+	});
+		
+		var link_this = this;
+		var email_message= jQuery('.email_message',email_this).val();
+		var link_id= jQuery('input.link_id',email_this).val();
+		var email_address= jQuery("input.email_address_1",email_this).val();
+		var address_count = 3;
+		/*
+		var filter  = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+		
+			if (email_message == "") {
+			  jQuery(email_this).parent("div").find(".emailto").show('slow').html('Please enter your comment.').addClass('error');
+			  return false;
+			}
+			
+		if (!filter(email_address)) {
+			  jQuery(email_this).parent("div").find(".emailto").show().html('Please enter a valid email address.').addClass('error');
+			  return false;
+			}	
+		*/	
+		if (address_count > 1){ 
+		for ($i = 2; $i <= address_count; $i++) {
+			if(jQuery("input.email_address_"+ $i,email_this).val()!= ""){
+				/*
+				if (!filter(jQuery("input.email_address_"+ $i,email_this).val())) {
+			  jQuery(email_this).parent("div").find(".emailto").show().html('Please enter a valid email address.').addClass('error');
+			  //jQuery("input#name").focus();
+			  return false;
+			}
+			*/
+				email_address = email_address + ', ' + jQuery("input.email_address_"+ $i,email_this).val();
+				
+			}
+		}
+	}
+	
+		
+	email_to(email_address, email_message, link_id, link_this,email_this);	
+								
+	});
+
+
+
+	function email_to(email_address, email_message, link_id, link_this,email_this) {
+		
+		jQuery.ajax({
+			url: "http://savebookmarks.info/recommend.php",
+			data:  "email_address=" + escape(email_address) + "&email_to_submit=submit&email_message=" + escape(email_message) + "&original_id=" + link_id + "&backup=0",
+			type:'POST',
+			 success: function(aws){
+				 
+				errormatch = new RegExp ('<span class="error">');
+				if (aws.match (errormatch)) {
+					jQuery(email_this).parent("div").find(".emailto").show().html(aws);
+				} else {
+					jQuery(email_this).parent("div").find(".emailto").show().html(aws).end().find("form").hide('slow');
+				
+				}
+				 
+			
+			 },
+			 error: function (aws){
+			 }
+		});
+	}
+	
+jQuery('#reg-checkbutton1, #reg-checkbutton2').click(function(event) {
+		var this_filed = jQuery(this);
+		jQuery().ajaxStart(function() {
+		jQuery(this_filed).parents("form").find('.loading').show();
+	}).ajaxStop(function() {
+		jQuery(this_filed).parents("form").find('.loading').hide();
+	});
+		
+		if(jQuery(this).is('#reg-checkbutton1')){
+		var type = 'username';
+		var form = '#reg_usernamecheckitvalue';
+		var field = this_filed.parents("form").find("#reg_username").val();
+		var check_id = 0;
+		} else {
+		var type = 'email';
+		var form = '#reg_emailcheckitvalue';
+		var field = this_filed.parents("form").find("#reg_email").val();
+		var check_id = 1;	
+		}
+		//alert(field);
+										   
+		checkfield(type, form, field, this_filed, check_id);
+																						
+		});
+	function checkfield(type, form, field, this_filed, check_id) {
+		
+		jQuery.ajax({
+			url: "http://savebookmarks.info/checkfield.php",
+			data:  "type="+type+"&name=" + field,
+			type:'GET',
+			 success: function(aws){
+				 if (aws == 'OK') {
+				var css_style = 'black'; 
+				 } else {
+				var css_style = 'red';				 
+				 }
+					jQuery(this_filed).parents("form").find(form).show().css("color",css_style).html(aws);
+							
+			 },
+			 error: function (aws){
+			 }
+		});
+	}
+	
+	
+	
+									
+});
+</script>
+	        
+        <script src="/templates/tacticnews/js/jquery.nyroModal-1.4.2.min.js"></script> 
+    <script src="/templates/tacticnews/js/menu.js"></script> 
+	
+								
+				<script src="/3rdparty/speller/spellChecker.js" type="text/javascript"></script>
+						
+
+					<title> Save Bookmarks | Privacy Policy</title>
+				
+		<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://savebookmarks.info/rss.php">
+		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+			
+		</head>
+<body dir="ltr">
+	<div id="body_all">
+    <div class="side-shadow-l"><div class="side-shadow-r">
+    <div class="side_padding">
+    
+		
+			
+		<div id="modal_login" title="Login">
+<div class="login_padd">
+<h2>Login</h2>
+<form action="/login.php?return=/privacy//" method="post">Username:<br><input type="text" name="username" class="login_modal" value="" tabindex="40"><br>Password:<br><input type="password" name="password" class="login_modal" tabindex="41"><br><input type="hidden" name="processlogin" value="1">Remember: <input type="checkbox" name="persistent" tabindex="42"><br><input type="submit" value="Login" class="submit-s" tabindex="43"></form><br>
+New user? <a href="/register.php" class="loginbox_reg">Create a new account</a>
+</div>
+
+</div>
+
+<div id="header">
+	<div class="l_r_padding">
+<div class="header_left">
+    <ul>
+                
+                
+                       		
+                        <li><a href=""></a></li>
+       <li><a class="active_top" href="/login.php">Login</a></li>
+                    
+                    <li><a href="/register/">Register</a></li>
+                                        <li><a class="active_top" href="/submit.php">Submit a New Story</a></li>				
+		                </ul> 	
+    
+    </div>
+	<div class="header_right">
+   
+                <div class="br_saearch">
+                 						
+			
+					<form action="/search.php" method="get" name="thisform-search" id="thisform-search">
+				<input style="border:1px solid #CCC;" class="search_fp" type="text" size="35" name="search" id="searchsite" value="Search.." onfocus="if(this.value == 'Search..') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search..';}">
+
+				<input type="submit" value="Search" class="go_submit">
+			</form>
+		        	</div>
+    </div>
+    </div>
+    <div class="clear"></div>
+    <div id="logo_all">
+   <!-- <div class="l_r_padding">-->
+    	<!--<div id="logo_left">-->
+       	<a href="http://savebookmarks.info" title="Save Bookmarks"><!--Save Bookmarks--></a>
+
+
+
+
+       <!-- </div>-->
+        <!--<div id="logo_banner">
+        
+        </div>-->
+    <!--</div>-->
+    <div class="clear"></div>
+    
+    </div>
+</div>        
+    	<div id="menu_button">
+	<ul class="sf-menu">
+																		<li>			
+			<a href="/family">Family</a>
+			</li>						
+																					<li>			
+			<a href="/technology">Technology</a>
+			</li>						
+																					<li>			
+			<a href="/business">Business</a>
+			</li>						
+																					<li>			
+			<a href="/entertainment">Entertainment</a>
+			</li>						
+																					<li>			
+			<a href="/health">Health</a>
+			</li>						
+																					<li>			
+			<a href="/internet">Internet</a>
+			</li>						
+																					<li>			
+			<a href="/general">General</a>
+			</li>						
+																					<li>			
+			<a href="/sports">Sports</a>
+			</li>						
+																					<li>			
+			<a href="/education">Education</a>
+			</li>						
+																					<li>			
+			<a href="/finance">Finance</a>
+			</li>						
+																					<li>			
+			<a href="/fashion">Fashion</a>
+			</li>						
+																					<li>			
+			<a href="/travel">Travel</a>
+			</li>						
+																					<li>			
+			<a href="/other">Other</a>
+			</li>						
+																					<li>			
+			<a href="/web-design">Web design</a>
+			</li>						
+																					<li>			
+			<a href="/world-news">World News</a>
+			</li>						
+																					<li>			
+			<a href="/people">People</a>
+			</li>						
+																					<li>			
+			<a href="/society">Society</a>
+			</li>						
+																					<li>			
+			<a href="/games">Games</a>
+			</li>						
+																					<li>			
+			<a href="/life-style">Life Style</a>
+			</li>						
+							<!--</ul></li>-->
+	</ul>
+</div>      	
+		
+		<div id="center_modules">
+               <div class="inner">
+               
+
+<div id="content_button">
+<div id="exp_rss_button">
+<a href="#sort" id="sort_but">rss</a>
+<div id="exp_sort_div">
+                <ul class="exp_sort">
+				<li><a href="/rss/category/" style="padding-bottom:5px;"></a></li>
+																	
+
+		
+									<li><a href="/rss/category/1" style="padding-bottom:5px;">Technology</a></li>
+					
+																				
+
+		
+									<li><a href="/rss/category/2" style="padding-bottom:5px;">Business</a></li>
+					
+																				
+
+		
+									<li><a href="/rss/category/3" style="padding-bottom:5px;">Entertainment</a></li>
+					
+																				
+
+		
+									<li><a href="/rss/category/4" style="padding-bottom:5px;">Health</a></li>
+					
+																				
+
+		
+									<li><a href="/rss/category/5" style="padding-bottom:5px;">Internet</a></li>
+					
+																				
+
+		
+									<li><a href="/rss/category/6" style="padding-bottom:5px;">General</a></li>
+					
+																				
+
+		
+									<li><a href="/rss/category/7" style="padding-bottom:5px;">Sports</a></li>
+					
+																				
+
+		
+									<li><a href="/rss/category/8" style="padding-bottom:5px;">Education</a></li>
+					
+																				
+
+		
+									<li><a href="/rss/category/9" style="padding-bottom:5px;">Finance</a></li>
+					
+																				
+
+		
+									<li><a href="/rss/category/10" style="padding-bottom:5px;">Fashion</a></li>
+					
+																				
+
+		
+									<li><a href="/rss/category/11" style="padding-bottom:5px;">Travel</a></li>
+					
+																				
+
+		
+									<li><a href="/rss/category/12" style="padding-bottom:5px;">Other</a></li>
+					
+																				
+
+		
+									<li><a href="/rss/category/13" style="padding-bottom:5px;">Web design</a></li>
+					
+																				
+
+		
+									<li><a href="/rss/category/14" style="padding-bottom:5px;">World News</a></li>
+					
+																				
+
+		
+									<li><a href="/rss/category/15" style="padding-bottom:5px;">People</a></li>
+					
+																				
+
+		
+									<li><a href="/rss/category/16" style="padding-bottom:5px;">Society</a></li>
+					
+																				
+
+		
+									<li><a href="/rss/category/17" style="padding-bottom:5px;">Games</a></li>
+					
+																				
+
+		
+									<li><a href="/rss/category/18" style="padding-bottom:5px;">Life Style</a></li>
+					
+							                </ul>
+                </div>
+</div>
+
+<div id="sorts">
+		<ul>
+											
+																	<li><a href="/recent/" class="navbut4"><span>Recently Popular</span></a></li> 
+				<li><a href="/today/" class="navbut3"><span>Top Today</span></a></li>  
+				<li><a href="/yesterday/" class="navbut3"><span>Yesterday</span></a></li> 
+				<li><a href="/week/" class="navbut3"><span>Week</span></a></li> 
+				<li><a href="/month/" class="navbut3"><span>Month</span></a></li>				<li><a href="/year/" class="navbut3"><span>Year</span></a></li>			
+
+					
+	</ul>
+    </div>
+
+<div id="news_navbar">
+	<ul>
+		         <li><a href="/" class="navbut3"><span>Published News</span></a></li>
+         <li><a href="/upcoming/" class="navbut3"><span>Upcoming News</span></a></li>
+			</ul>
+			 	   
+	
+</div>
+<div class="clear"></div>
+</div>
+            	               
+       
+								<br><h2>Privacy Policy</h2>
+<p>
+What information do we collect?<br>
+We collect information from you when you register on our site or subscribe to our newsletter or signup to receive our auction notifications.<br>
+When registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.<br>
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+</p><p>
+What do we use your information for?<br>
+Any of the information we collect from you may be used in one of the following ways:<br>
+
+• To personalize your experience (your information helps us to better respond to your individual needs)<br>
+• improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)<br>
+• improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)<br>
+• To process transactions<br>
+
+How do we protect your information?<br>
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. <br>
+</p><p>
+Do we use cookies?<br>
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information<br>
+We use cookies to understand and save your preferences for future visits and to keep track of advertisements.
+</p><p>
+Do we disclose any information to outside parties?<br>
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+</p><p>
+Third party links<br>
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites
+</p><p>
+California Online Privacy Protection Act Compliance<br>
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.<br>
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+</p><p>
+Childrens Online Privacy Protection Act Compliance<br>
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+</p><p>
+Online Privacy Policy Only<br>
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+</p><p>
+Your Consent<br>
+By using our site, you consent to our online privacy policy.
+</p><p>
+Changes to our Privacy Policy<br>
+If we decide to change our privacy policy, we will post those changes on this page. <br>
+This policy was last modified on 10/22/2009
+</p><p>
+Contacting Us<br>
+If there are any questions regarding this privacy policy you may contact us using the information below. <br>
+Savebookmarks.info<br>
+c/o James Dyer<br>
+1318 Waterline Drive<br>
+Tallahassee, FL 32303<br>
+info@savebookmarks.info 
+</p>
+					</div>
+        </div>	
+	
+	
+
+	 <div id="right_module">
+		
+<div id="module_exp">
+<!--dp-->
+<script type="text/javascript"><!--
+google_ad_client = "pub-1180474010899366";
+/* 250x250, created 1/28/10 */
+google_ad_slot = "3499589849";
+google_ad_width = 250;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+	<div class="module_title">
+	<h3></h3>
+    </div>
+    <div class="module_body">
+
+            <ul id="nav-secondary">
+          				<li><a href="http://savebookmarks.info">Home</a></li>
+                <li><a href="/submit/">Submit a New Story</a></li>
+                	
+                    <li><a href="/groups/"><span>Groups</span></a></li>
+                                        <li><a href="/groups/submit/"><span>Create a Group</span></a></li>
+                                	                
+
+                                
+                <li><a href="/login.php?return=/privacy//">Login</a></li>
+                <li><a href="/register/">Register</a></li>
+                 
+                <li><a href="/live/"> Live</a></li>
+                
+				                <li><a href="/tagcloud/">Tag cloud</a></li>                
+								</ul>
+               
+      </div>
+</div>
+
+
+
+ 
+ 
+ 
+ 
+ <script type="text/javascript">
+
+jQuery(document).ready(function(){
+	jQuery('#easynews_scroll').cycle({
+		
+		fx:     'scrollUp',
+		timeout: 6000,
+        speed:   1000,
+        next:   '#easynews_next',
+        prev:   '#easynews_prev',
+		pager:  '#easynews_nav',
+    	pause:   1 
+		
+		});
+});
+</script>
+ 
+
+<div id="module_exp" class="exp_easynews">
+	<div class="module_title">
+	<h3>Most Popular News</h3>
+    </div>
+    <div class="module_body">
+                
+<div id="easynews_scroll">
+            
+<p><a href="http://savebookmarks.info/all/domain-web-hosting-web-services-email-services-seo-google-apps-website-hosting-web-design-1"><span class="easy_title">domain, web hosting, web s</span><br>Register your website for $25/yr, Includes of: Domain Name , Web Hosting, SiteBuilder, Emails, Blog, SEO, FTP, DNS, Google Apps, Website Promotion, UR  ...</a></p><p><a href="http://savebookmarks.info/all/wholesale-fabrics-1"><span class="easy_title">Wholesale Fabrics</span><br>We provide Wholesale Fabrics, Discount Fabrics, Bulk Fabric Wholesaler, Fabric Wholesalers, Fabrics and Discount Fabric Wholesale at affordable prices  ...</a></p><p><a href="http://savebookmarks.info/all/los-angeles-general-contractor-1"><span class="easy_title">Los Angeles General Contra</span><br>Schelske Construction provides services for Los Angeles General Contractor, Beverly Hills Contractor, Bel Air and Malibu General Contractor.  ...</a></p><p><a href="http://savebookmarks.info/all/wholesale-clothing-1"><span class="easy_title">Wholesale Clothing</span><br>We provide the branded Wholesale Clothing, Juniors Wholesale Clothes, Women Apparel, Women Clothing and Discount Wholesale Junior Clothing at affordab  ...</a></p><p><a href="http://savebookmarks.info/all/contract-mobile-phones-1"><span class="easy_title">contract mobile phones</span><br>When ordering your new contract mobile phones you can now choose a free gift. Get a free xbox,wii,psp with your mobile phone contracts. Lots of free g  ...</a></p><p><a href="http://savebookmarks.info/all/sytropin-hgh-fast-free-shipping-1"><span class="easy_title">SYTROPIN HGH - FAST, FREE </span><br>SYTROPIN Human Growth Hormone - The #1 ranked Human Growth Hormone on the market at the internet's lowest price! 90 Day full money back guarantee!  ...</a></p><p><a href="http://savebookmarks.info/all/summer-wedding-favors-1"><span class="easy_title">Summer Wedding Favors</span><br>Celebrate the season and your love with adorable summer wedding favors, the perfect gift to guests of your nautical, beach, or garden themed event.  ...</a></p><p><a href="http://savebookmarks.info/all/indian-wooden-furniture-1"><span class="easy_title">Indian Wooden Furniture</span><br>Our furniture is made up of Sheesham (Dalbergia Sissoo), which is a hard wood with properties similar to walnut &amp; mahogany. Other woods like teak, ros  ...</a></p><p><a href="http://savebookmarks.info/all/astaga-com-lifestyle-on-the-net-1"><span class="easy_title">Astaga.com lifestyle on th</span><br>Astaga.com lifestyle on the net merupakan kontes seo terbaru yang diadakan oleh situs portal terkenal Astaga.com yang merupakan salah satu situs porta  ...</a></p><p><a href="http://savebookmarks.info/all/how-to-ensure-a-good-nights-sleep-1"><span class="easy_title">How to Ensure a Good Night</span><br>Even if there are days when you can sleep easily as soon as your back hits the mattress, there are also those days when you just can't, no matter how   ...</a></p>
+
+
+                
+            </div>
+            
+            <div id="easynews_nav"></div>
+            <br>
+            <div id="easynews_controls">
+        
+        <span><a href="" id="easynews_prev"><img src="/modules/exp_easynews/images/prev.png" align="top" alt="prev" width="16" height="16"></a></span>
+            
+        <span><a href="" id="easynews_next"><img src="/modules/exp_easynews/images/next.png" align="top" alt="next" width="16" height="16"></a></span>
+
+    </div>
+
+</div>
+ </div>
+
+<div id="module_exp">
+	<div class="module_title"><h3>Published News</h3></div>
+	<div class="module_body">
+		<ul class="sidebar-stories">
+			<li><span class="sidebar-vote-number"><a href="/health/light-weight-wheelchairs-1/">1</a></span><span class="sidebar-article"><a href="/health/light-weight-wheelchairs-1/" class="switchurl">light weight wheelchairs</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/health/light-weight-wheelchairs/">1</a></span><span class="sidebar-article"><a href="/health/light-weight-wheelchairs/" class="switchurl">light weight wheelchairs</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/technology/the-site-about-hatha-yoga-1/">1</a></span><span class="sidebar-article"><a href="/technology/the-site-about-hatha-yoga-1/" class="switchurl">The site about hatha-yoga</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/business/personal-checks-1/">1</a></span><span class="sidebar-article"><a href="/business/personal-checks-1/" class="switchurl">Personal Checks</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/business/garage-storage-organization-1/">1</a></span><span class="sidebar-article"><a href="/business/garage-storage-organization-1/" class="switchurl">garage storage organizatio...</a></span></li>
+
+		</ul>
+	</div>
+</div>
+
+	
+
+	
+
+	
+
+ 
+
+
+
+
+
+
+
+<div id="module_exp">
+	<!--dp-->
+	<!--<div class="module_title module_style3">-->
+	<div class="module_title">
+	<h3><a href="/tagcloud/">Top Tags</a></h3>
+    </div>
+    <div class="module_body">
+
+                <div class="boxcontent tagformat">
+                                
+                    <span style="font-size: 13.7857142857pt">
+                        <a href="/tag/gifts/">gifts</a>
+                    </span>
+                
+                        
+                                
+                    <span style="font-size: 15.9285714286pt">
+                        <a href="/tag/india/">india</a>
+                    </span>
+                
+                        
+                                
+                    <span style="font-size: 14.8571428571pt">
+                        <a href="/tag/live/">live</a>
+                    </span>
+                
+                        
+                                
+                    <span style="font-size: 13.3571428571pt">
+                        <a href="/tag/seo/">seo</a>
+                    </span>
+                
+                        
+                                
+                    <span style="font-size: 17pt">
+                        <a href="/tag/wire+lock+pin/">wire lock pin</a>
+                    </span>
+                
+                        
+                                </div>
+	</div>
+
+
+</div> 
+
+
+
+
+
+
+<!--dp-->
+
+
+	</div>
+
+
+
+	    <div id="footer_all_bg">
+
+	<div class="clear" style="padding:10px 0 0 0;"></div>
+<div class="footer_shadow">
+<div class="footer">
+	
+</div>
+
+<!-- START FOOTER -->
+		<div id="footer">
+        	<span class="subtext"><a href="http://savebookmarks.info">
+		Save Bookmarks</a>| 
+		
+		
+		<a href="/advanced-search/">Advanced Search</a> | <a href="http://savebookmarks.info/rssfeeds.php">RSS Feeds</a> | <a href="http://savebookmarks.info/privacy/">Privacy Policy</a> | <a href="http://savebookmarks.info/contact/">Contact Us</a></span>
+        </div>
+<!-- END FOOTER --> 
+</div>
+
+
+	
+		
+	</div>
+	    
+	    </div>
+    </div></div>
+    <div id="footer_cor">
+    <div class="footer_cor_l"><div class="footer_cor_r">
+    <div class="footer_cor_m">
+    </div>
+    </div></div>
+    </div>
+    
+    
+    </div>
+<!--dp-->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12032292-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+
+
+</body></html>
