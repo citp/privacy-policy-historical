@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naturessunshine.com privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427092606id_/http%3A//www.naturessunshine.com/us/general/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturessunshine.com privacy policy that was archived on 2010-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100206221444id_/http%3A//www.naturessunshine.com/us/general/privacy.aspx) for the most accurate reproduction.*
 
-# Nature's Sunshine - Privacy Statement
+# Nature's Sunshine Products, Inc.
 
 **Introduction: Our Commitment to Privacy**  
 Nature’s Sunshine Products, Inc. ("Nature’s Sunshine") is committed to protecting the privacy and security of our customers and those who visit our Website. To better protect your privacy, we provide this Privacy Policy to explain our practices regarding the information we collect when you visit www.naturessunshine.com. This Policy applies only to www.naturessunshine.com and is directed to U.S. residents. 
@@ -12,27 +12,27 @@ Visitors may use our website without registering or submitting any personal info
 
 When visiting our website to order products, make requests, check your account, register to become a member or register to receive materials, we will ask you to provide specific personal information. Personal information means individually identifiable information from or about an individual consumer, including name, home address or physical address, including street name and name of city or town, telephone number, email address and credit card information. This information is voluntarily provided on your part. It allows us to fulfill your order and otherwise operate our business. 
 
-  * **Information You Volunteer.** We only collect personal information that you specifically volunteer while using our services. Your personal information is confidential and will not be provided to others except as explained in Our Use and Disclosure of Information section. You may always choose not to provide information.
-  * **Information We Collect Automatically.** We do not automatically collect personal information. To enhance your visit to our Website, we use "cookies," a standard feature of browser software used by most Websites. Cookies are small data files automatically stored on your computer that assist us in serving you. In general, cookies do not contain any personally identifiable information unless you specifically supply the information. We use cookies to store information such as temporary session identification numbers and your Nature’s Sunshine account number—if you choose to establish an account and you log in on the log-in page. We do not use cookies to store personal information, nor do we link non-personal information stored in cookies with personal data about specific individuals. Nature’s Sunshine does not collect information about you from other sources, such as public records or private organizations.
+  * **Information You Volunteer.** We only collect personal information that you specifically volunteer while using our services. Your personal information is confidential and will not be provided to others except as explained in Our Use and Disclosure of Information section. You may always choose not to provide information. 
+  * **Information We Collect Automatically.** We do not automatically collect personal information. To enhance your visit to our Website, we use "cookies," a standard feature of browser software used by most Websites. Cookies are small data files automatically stored on your computer that assist us in serving you. In general, cookies do not contain any personally identifiable information unless you specifically supply the information. We use cookies to store information such as temporary session identification numbers and your Nature’s Sunshine account number—if you choose to establish an account and you log in on the log-in page. We do not use cookies to store personal information, nor do we link non-personal information stored in cookies with personal data about specific individuals. Nature’s Sunshine does not collect information about you from other sources, such as public records or private organizations. 
 
 
 
 **Our Use and Disclosure of Information**
 
-  * As explained above, we use the information we collect on our site to enhance your overall experience while visiting the site and to assist you in placing an order.
-  * Nature’s Sunshine is a direct sales organization that distributes products through a network of Members, Distributors and Managers ("representatives"). When placing an order through a representative, your order may be processed by the representative receiving credit for your order. In that case, personal information to process your order will be shared with your representative. We may provide information on a customer to one of our representatives who may offer further assistance. Each customer may choose how to place an order and may choose not to be contacted when placing an order.
-  * A Member who recruits a new Member is considered a Sponsor, and Nature’s Sunshine provides confidential reports containing customer information to both the Member and his or her Sponsor to preserve the integrity of our compensation plan. Each customer may request that his/her email address not be given to his/her representative’s Sponsor by checking the appropriate box on the "Account Maintenance" screen or by contacting Customer Service at 1-800-223-8225. All representatives must abide by this Privacy Policy and must not share confidential information except in connection with their Nature’s Sunshine business.
-  * We do not collect or use personal information for any purposes outside of customer service, website administration, online shopping and company communications. We will always obtain your consent before using personal information for any other purpose.
-  * Nature’s Sunshine does not sell, trade or rent your personal information to any outside parties. We value our customers’ privacy and will not jeopardize our relationship with customers by selling their information to solicitors.
+  * As explained above, we use the information we collect on our site to enhance your overall experience while visiting the site and to assist you in placing an order. 
+  * Nature’s Sunshine is a direct sales organization that distributes products through a network of Members, Distributors and Managers ("representatives"). When placing an order through a representative, your order may be processed by the representative receiving credit for your order. In that case, personal information to process your order will be shared with your representative. We may provide information on a customer to one of our representatives who may offer further assistance. Each customer may choose how to place an order and may choose not to be contacted when placing an order. 
+  * A Member who recruits a new Member is considered a Sponsor, and Nature’s Sunshine provides confidential reports containing customer information to both the Member and his or her Sponsor to preserve the integrity of our compensation plan. Each customer may request that his/her email address not be given to his/her representative’s Sponsor by checking the appropriate box on the "Account Maintenance" screen or by contacting Customer Service at 1-800-223-8225. All representatives must abide by this Privacy Policy and must not share confidential information except in connection with their Nature’s Sunshine business. 
+  * We do not collect or use personal information for any purposes outside of customer service, website administration, online shopping and company communications. We will always obtain your consent before using personal information for any other purpose. 
+  * Nature’s Sunshine does not sell, trade or rent your personal information to any outside parties. We value our customers’ privacy and will not jeopardize our relationship with customers by selling their information to solicitors. 
 
 
 
 **Our Commitment to Data Security**  
 Keeping personal information secure is a top priority. To prevent unauthorized access and to maintain data accuracy, we have implemented administrative, technical and physical safeguards to secure information we collect. 
 
-  * To ensure a secure connection whenever transmitting or receiving personal information, Nature’s Sunshine uses Secure Socket Layer (SSL) encryption, a technology that systematically scrambles numbers and letters. The SSL automatically encrypts all information, before it is transmitted over the Internet, in a format that only the sending and receiving computers can decode. SSL ensures that information is protected from others. In order to proceed securely through the purchase process using this encryption technology, you need to have an Internet browser that supports 128-bit encryption, such as Microsoft Explorer. A secure connection is maintained until the checkout process is either completed or canceled.
-  * Nature’s Sunshine maintains administrative, technical and physical safeguards that comply with federal standards to protect your personal information. We strive to comply with all applicable national laws and regional requirements. We also self-regulate the collection and use of personal information.
-  * All Nature’s Sunshine employees must abide by this Privacy Policy. Those who have access to your personal information are obliged to respect your confidentiality and are held to the highest standard of integrity in using, storing or retrieving this information.
+  * To ensure a secure connection whenever transmitting or receiving personal information, Nature’s Sunshine uses Secure Socket Layer (SSL) encryption, a technology that systematically scrambles numbers and letters. The SSL automatically encrypts all information, before it is transmitted over the Internet, in a format that only the sending and receiving computers can decode. SSL ensures that information is protected from others. In order to proceed securely through the purchase process using this encryption technology, you need to have an Internet browser that supports 128-bit encryption, such as Microsoft Explorer. A secure connection is maintained until the checkout process is either completed or canceled. 
+  * Nature’s Sunshine maintains administrative, technical and physical safeguards that comply with federal standards to protect your personal information. We strive to comply with all applicable national laws and regional requirements. We also self-regulate the collection and use of personal information. 
+  * All Nature’s Sunshine employees must abide by this Privacy Policy. Those who have access to your personal information are obliged to respect your confidentiality and are held to the highest standard of integrity in using, storing or retrieving this information. 
 
 
 
@@ -48,9 +48,9 @@ Our Website may contain links to other sites that are not controlled or operated
 **How to Update or Correct Information**  
 To ensure that the information we have is accurate and current, we provide opportunities for you to review and correct your personal information through our Website and via the telephone. To make any changes to your information, please use any of the following methods: 
 
-  * Log in to the Nature’s Sunshine Website, click on "Member Services" or "My Account," and then click on "Account Maintenance" under the "Account Tools" section.
-  * Go to the following link [www.naturessunshine.com/us/members/myaccount/accountmaint.aspx](https://web.archive.org/web/20090427092606id_/http%3A//www.naturessunshine.com/us/members/myaccount/accountmaint.aspx), and you will be required to log in.
-  * Contact Customer Service at 1-800-223-8225 to have a representative make changes to your account.
+  * Log in to the Nature’s Sunshine Website, click on "Member Services" or "My Account," and then click on "Account Maintenance" under the "Account Tools" section. 
+  * Go to the following link [www.naturessunshine.net/us/members/myaccount/](http://www.naturessunshine.net/us/members/myaccount/), and you will be required to log in. 
+  * Contact Customer Service at 1-800-223-8225 to have a representative make changes to your account. 
 
 
 
@@ -61,6 +61,6 @@ Nature's Sunshine Products, Inc.
 75 East 1700 South  
 Provo, UT 84606  
 1-800-223-8225 or 1-800-327-8459 (hearing impaired)  
-[questions@natr.com](mailto:questions@natr.com)
+[questions@natr.com](https://web.archive.org/web/20100206221444id_/http%3A//www.naturessunshine.com/us/general/questions@natr.com)
 
 Please summarize the nature of your question in the subject line if you send an email.
