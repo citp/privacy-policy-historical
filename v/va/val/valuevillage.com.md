@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuevillage.com privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003014458id_/http%3A//www.valuevillage.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuevillage.com privacy policy that was archived on 2010-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100206051632id_/http%3A//www.valuevillage.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Value Village - good all around
 
