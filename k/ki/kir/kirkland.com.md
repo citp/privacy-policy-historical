@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kirkland.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413022920id_/http%3A//www.kirkland.com/sitecontent.cfm%3Fcontentid%3D322) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirkland.com privacy policy that was archived on 2010-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100206044853id_/http%3A//www.kirkland.com/sitecontent.cfm%3Fcontentid%3D322) for the most accurate reproduction.*
 
 # Kirkland & Ellis LLP > Privacy Policy
 
@@ -34,6 +34,6 @@ We do not seek to collect or maintain information on our website from those we k
 
 **How to contact us**
 
-Should you have any questions or concerns about our Privacy Policy, please send us an email at [info@kirkland.com](mailto:info@kirkland.com), send a written notification to Kirkland & Ellis LLP, 200 E. Randolph Drive, Chicago, IL 60601, Attn: Client Service Department, or call us at (312) 861-7236. 
+Should you have any questions or concerns about our Privacy Policy, please send us an email at [info@kirkland.com](mailto:info@kirkland.com), send a written notification to Kirkland & Ellis LLP, 300 North LaSalle, Chicago, IL 60654, Attn: Client Service Department, or call us at (312) 862-7236. 
 
 Updated: November 3, 2008
