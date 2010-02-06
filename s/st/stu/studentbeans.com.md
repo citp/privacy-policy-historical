@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentbeans.com privacy policy that was archived on 2009-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091024053308id_/http%3A//www.studentbeans.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentbeans.com privacy policy that was archived on 2010-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100206021049id_/http%3A//www.studentbeans.com/info/privacy.html) for the most accurate reproduction.*
 
 # Save money with exclusive UK student discounts and free stuff | studentbeans.com
 
