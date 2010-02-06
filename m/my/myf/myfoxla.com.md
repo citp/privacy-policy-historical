@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the myfoxla.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208225712id_/http%3A//www.myfoxla.com/dpp/about_us/privacy_policy/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxla.com privacy policy that was archived on 2010-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100206020724id_/http%3A//www.myfoxla.com/dpp/about_us/privacy_policy/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy_Policy
 
-(myFOXla.com) -   
 **Effective as of January 1, 2009**
 
 myFOXla.com operates the Internet web site located at www.myFOXla.com (the "myFOXla.com Web site" or the "Site"). myFOXla.com is part of the News America Group, which has adopted a set of Privacy Principles available at <http://www.newscorp.com/privacy.html> applicable to all its U.S.-based companies. myFOXla.com has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") such as your full name, email address, mailing address, telephone number or credit card number we obtain from users of our Site. This Privacy Policy applies to the services offered by myFOXla.com, including the Site, FOXHilites, the myFOXla.com mobile services and any other features, content, or applications offered from time to time by myFOXla.com in connection with the Site (collectively, the "Services"). 
@@ -31,9 +30,9 @@ At the time you provide your PII, myFOXla.com will notify you of your options re
 
 Sometimes we collect PII from consumers in manual format or off-line, such as a post card or subscription form. Providing detailed notice in those situations often proves impractical, so consumers will instead be provided with a short notice that describes how to obtain the full text of this Privacy Policy and other relevant information from us. 
 
-The Services may be linked to Internet sites operated by other companies. Some of these third- party sites may be co-branded with the myFOXla.com logo or an affiliated entity, even though they are not operated or maintained by myFOXla.com (for example, co-sponsored chat pages, or advertising sponsor pages). The myFOXla.com Web site may also carry
+The Services may be linked to Internet sites operated by other companies. Some of these third- party sites may be co-branded with the myFOXla.com logo or an affiliated entity, even though they are not operated or maintained by myFOXla.com (for example, co-sponsored chat pages, or advertising sponsor pages). The myFOXla.com Web site may also carry advertisements
 
-advertisements from other companies. myFOXla.com is not responsible for the privacy practices of Web sites operated by third parties that are linked to or integrated with the Services or for the privacy practices of third parties or Internet advertising companies. Once you've left the Services via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third parties or advertiser site to determine how they will handle any PII they collect from you. 
+from other companies. myFOXla.com is not responsible for the privacy practices of Web sites operated by third parties that are linked to or integrated with the Services or for the privacy practices of third parties or Internet advertising companies. Once you've left the Services via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third parties or advertiser site to determine how they will handle any PII they collect from you. 
 
 The Services may also be linked to sites operated by companies affiliated with myFOXla.com (i.e., that are part of the News America Group). Although all News America Group entities adhere to the group's Privacy Principles located at <http://www.newscorp.com/privacy.html> , visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Privacy Policy. 
 
@@ -59,9 +58,9 @@ As described in the "Notice" section above, myFOXla.com may customize the advert
 
 myFOXla.com may aggregate PII and use it anonymously. Anonymous click stream, number of page views calculated by web beacons, and aggregated demographic information may also be shared with myFOXla.com's advertisers and business partners. 
 
-There may be instances when myFOXla.com
+There may be instances when myFOXla.com may access or disclose
 
-may access or disclose PII or non-PII without providing you with a choice in order to: (i) protect or defend the legal rights of myFOXla.com, other companies within the News America Group or their employees, agents and contractors (including enforcement of our agreements); (ii) to protect the safety and security of users of the Services or members of the public including acting in urgent circumstances; (iii) to protect against fraud or for risk management purposes; (iv) or to comply with the law or legal process. In addition, if myFOXla.com sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, myFOXla.com may transfer your PII to a third party as part of that transaction. 
+PII or non-PII without providing you with a choice in order to: (i) protect or defend the legal rights of myFOXla.com, other companies within the News America Group or their employees, agents and contractors (including enforcement of our agreements); (ii) to protect the safety and security of users of the Services or members of the public including acting in urgent circumstances; (iii) to protect against fraud or for risk management purposes; (iv) or to comply with the law or legal process. In addition, if myFOXla.com sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, myFOXla.com may transfer your PII to a third party as part of that transaction. 
 
 **SECURITY: MYFOXLA.COM PROTECTS THE SECURITY OF PII**
 
