@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scotland.org.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616083154id_/http%3A//www.scotland.org.uk/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotland.org.uk privacy policy that was archived on 2010-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100206071318id_/http%3A//www.scotland.org.uk/privacy) for the most accurate reproduction.*
 
 # Travel Scotland
 
@@ -43,7 +43,7 @@ This site gives users the following options for removing their information from 
 
 _Customer Services, HelpMeGo.To Ltd, 55 Constitution Street, Edinburgh. EH6 7BG_
 
-4\. You can call the following telephone number: 08700 112201
+4\. You can call the following telephone number: 0871 7896 200
 
 **Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided.   
