@@ -1,27 +1,14 @@
-> *The following text is extracted and transformed from the shriramgi.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422060115id_/http%3A//shriramgi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shriramgi.com privacy policy that was archived on 2010-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100206103050id_/http%3A//www.shriramgi.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy @ Shriram General Insurance
 
 ****  
 
 
-**Shriram General Insurance Privacy Notice**
+**Shriram General Insurance Privacy Notice**  
+
 
 Shriram General Insurance knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Shriram General Insurance, you are accepting the practices described in this Privacy Notice.**
-
-  * What Personal Information About Customers Does Shriram General Insurance Gather?
-  * What About Cookies?
-  * Does Shriram General Insurance Share the Information It Receives?
-  * How Secure Is Information About Me?
-  * What About Third-Party Advertisers and Links to Other Websites?
-  * Which Information Can I Access?
-  * What Choices Do I Have?
-  * Are Children Allowed to Use Shriram General Insurance?
-  * Does Shriram General Insurance Participate in the Safe Harbor Program?
-  * Conditions of Use, Notices, and Revisions
-  * Examples of Information Collected
-
-**What Personal Information About Customers Does Shriram General Insurance Gather?**  TOP
 
 The information we learn from customers helps us personalize and continually improve your shopping experience at Shriram General Insurance. Here are the types of information we gather. 
 
@@ -30,11 +17,15 @@ The information we learn from customers helps us personalize and continually imp
   * **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Shriram General Insurance if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. 
   * **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive. 
 
+
+
 **What About Cookies?**  TOP  
 
 
   * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as 1-Click purchasing, Recommended for You, personalized advertisements on other Web sites (e.g., Shriram General Insurance with content served by Shriram General Insurance and Web sites using Checkout by Shriram General Insurance payment service), and storage of items in your Shopping Cart between visits. 
   * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. However, because cookies allow you to take advantage of some of Shriram General Insurance's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Shriram General Insurance products and services that require you to Sign in. 
+
+
 
 **Does Shriram General Insurance Share the Information It Receives?**  TOP  
 Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Shriram General Insurance, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. 
@@ -46,12 +37,16 @@ Information about our customers is an important part of our business, and we are
   * **Protection of Shriram General Insurance and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of Shriram General Insurance, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
   * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
 
+
+
 **How Secure Is Information About Me?**  TOP  
 
 
   * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
   * We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
   * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. Click here for more information on how to sign off.
+
+
 
 **What About Third-Party Advertisers and Links to Other Websites?**  TOP  
 Our site includes third-party advertising and links to other Web sites. We do not provide any personally identifiable customer information to these advertisers or third-party Web sites. Click here for more information about our Advertising Policies and Specifications. 
@@ -61,7 +56,9 @@ These third-party Web sites and advertisers, or Internet advertising companies w
 Shriram General Insurance also displays personalized third-party advertising based on personal information about customers, such as purchases on Shriram General Insurance, visits to Shriram General Insurance Associate Web sites, or use of payment services like Checkout by Shriram General Insurance on other Web sites. Click here for more information about the personal information that we gather. Although Shriram General Insurance does not provide any personal information to advertisers, advertisers (including ad-serving companies) may assume that users who interact with or click on a personalized advertisement meet their criteria to personalize the ad (for example, users in the northwestern United States who bought or browsed for classical music). If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your Advertising Preferences. 
 
 **Which Information Can I Access?**  TOP  
-Shriram General Insurance gives you access to a broad range of information about your account and your interactions with Shriram General Insurance for the limited purpose of viewing and, in certain cases, updating that information. Click here to see some examples, the list of which will change as our Web site evolves. **What Choices Do I Have?**  TOP  
+Shriram General Insurance gives you access to a broad range of information about your account and your interactions with Shriram General Insurance for the limited purpose of viewing and, in certain cases, updating that information. Click here to see some examples, the list of which will change as our Web site evolves. 
+
+**What Choices Do I Have?**  TOP  
 
 
   * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Shriram General Insurance features as Your Profile, Wish Lists, Customer Reviews, and Shriram General Insurance Prime. 
@@ -69,6 +66,8 @@ Shriram General Insurance gives you access to a broad range of information about
   * If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Shriram General Insurance, and it is your responsibility to review them for changes.) 
   * If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your Advertising Preferences. 
   * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. However, because cookies allow you to take advantage of some of Shriram General Insurance's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Shriram General Insurance products and services that require you to Sign in. 
+
+
 
 **Are Children Allowed to Use Shriram General Insurance?**  TOP  
 Shriram General Insurance does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Shriram General Insurance only with the involvement of a parent or guardian. 
@@ -88,7 +87,10 @@ Related Practices and Information
   * Most Recent Purchases 
   * Your Profile and Community Guidelines 
 
-**Examples of Information Collected**  TOP
+
+
+**Examples of Information Collected**  TOP  
+
 
 **Information You Give Us**
 
@@ -108,5 +110,7 @@ Examples of businesses with which we offer joint or co-branded products and othe
 
 **Information You Can Access**
 
-Examples of information you can access easily at Shriram General Insurance include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications and personalized advertising preferences, address book, and 1-Click settings); payment settings (including credit card information and gift certificate, gift card, and check balances); e-mail notification settings (including Alerts, Available to Order notifications, Delivers, Recommended for You, Special Occasion Reminders, Weekly Movie Showtimes, and newsletters); recommendations (including recent product view history, prior order history, and Favorites); shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries); Marketplace seller accounts; and Your Profile (including your product Reviews, Requests, and Recommendations, Listmania lists, "So You'd Like to..." guides, personal profile, people you tagged as interesting, and Shriram General Insurance Friends). ****  
+Examples of information you can access easily at Shriram General Insurance include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications and personalized advertising preferences, address book, and 1-Click settings); payment settings (including credit card information and gift certificate, gift card, and check balances); e-mail notification settings (including Alerts, Available to Order notifications, Delivers, Recommended for You, Special Occasion Reminders, Weekly Movie Showtimes, and newsletters); recommendations (including recent product view history, prior order history, and Favorites); shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries); Marketplace seller accounts; and Your Profile (including your product Reviews, Requests, and Recommendations, Listmania lists, "So You'd Like to..." guides, personal profile, people you tagged as interesting, and Shriram General Insurance Friends). **  
+****  
+**  
 
