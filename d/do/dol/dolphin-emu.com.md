@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dolphin-emu.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115205332id_/http%3A//www.dolphin-emu.com/viewpage.php%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dolphin-emu.com privacy policy that was archived on 2010-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100206024938id_/http%3A//www.dolphin-emu.com/viewpage.php%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # Dolphin, the Gamecube and Wii emulator - Privacy policy for dolphin-emu.com
 
