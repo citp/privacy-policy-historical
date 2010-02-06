@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the onesmartclick.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323030718id_/http%3A//www.onesmartclick.com/privacy-policy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesmartclick.com privacy policy that was archived on 2010-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100206221559id_/http%3A//www.onesmartclick.com/aboutus/privacy-policy-statement.html) for the most accurate reproduction.*
 
 # OneSmartClick.Com Privacy Policy Statement
 
-Last Updated: August 05, 2006
+Last Updated: May 15, 2009
 
 ### This is the web site of OneSmartClick.Com
 
@@ -22,7 +22,13 @@ We don't sell your email-id. We don't spam you.
 
 **Third Party Advertising Information:** We use Google Adsense and other third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
-Our third-party advertiser may place or recognize a unique “cookie” on your browser.
+Our third-party advertiser may place or recognize a unique "cookie" on your browser.
+
+  1. Google, as a third party vendor, uses cookies to serve ads on your site. 
+  2. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  3. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+
+
 
 ### Information Sharing and Disclosure
 
