@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the englishgrammar101.com privacy policy that was archived on 2009-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090408014655id_/http%3A//www.englishgrammar101.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishgrammar101.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208000439id_/http%3A//www.englishgrammar101.com/Privacy.aspx) for the most accurate reproduction.*
 
 # English Grammar 101 (Privacy Policy)
 
 An instructional  
 program from  
-[Systems in Learning](http://systemsinlearning.com/)
+[Cingletree Learning](http://cingletree.com/)
 
-  Our Ninth  
+  Our Tenth  
 Year Online 
 
  
@@ -22,6 +22,6 @@ When visiting EnglishGrammar101.com, we want you to be assured that we would nev
 
 We use any information you give us to help maintain your account or enhance your experience at our site. We do not sell our customer information to e-mail spammers or marketers. 
 
-For further information, please contact us at: [support@systemsinlearning.com](mailto:support@systemsinlearning.com?Subject=English%20Grammar%20101%20-%20Privacy%20Policy). 
+For further information, please contact us at: [support@cingletree.com](mailto:support@cingletree.com?Subject=English%20Grammar%20101%20-%20Privacy%20Policy). 
 
 | 
