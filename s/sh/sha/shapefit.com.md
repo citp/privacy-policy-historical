@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shapefit.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209070337id_/http%3A//www.shapefit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shapefit.com privacy policy that was archived on 2010-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100207202805id_/http%3A//www.shapefit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ShapeFit Privacy Policy - Protecting The Privacy Our Visitors
 
@@ -33,9 +33,9 @@
 ](http://www.shapefit.com/advertise.html)[  
 ](http://www.shapefit.com/fitness-affiliate-program.html) [](http://www.shapefit.com/add-us-friends.html)
 
-[](http://www.shapefit.com/weight-loss-ebooks.html)
+[](http://www.shapefit.com/shapefit-assist.html)
 
-[](http://www.shapefit.com/free-muscle-building-ebook.html)
+[](http://www.shapefit.com/exercise-bands.html)
 
 [](http://www.shapefit.com/fitness-affiliate-program.html)
 
