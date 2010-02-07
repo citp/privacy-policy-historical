@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roomandboard.com privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214013233id_/http%3A//www.roomandboard.com/rnb/our_website/privacy.ftl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomandboard.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208001258id_/http%3A//www.roomandboard.com/rnb/our_website/privacy.ftl) for the most accurate reproduction.*
 
-# Room & Board - Our Website - Privacy Policy
+# Privacy Policy - Our Website - Room & Board
 
 ## 
 
@@ -62,7 +62,7 @@ You can also call our Customer Service telephone line at 800.301.9720 to be remo
 
 **Correcting or updating your information**
 
-Click the following link to correct, change or update your personally identifiable information for the Web site account: [www.roomandboard.com/account/](https://shop.roomandboard.com/rnb/en/US/adirect/rnb)
+Click the following link to correct, change or update your personally identifiable information for the Web site account: [www.roomandboard.com/account/](https://www.roomandboard.com/shop/en/US/adirect/rnb)
 
 **Privacy Officer**
 
