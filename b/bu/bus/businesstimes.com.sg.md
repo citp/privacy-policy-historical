@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesstimes.com.sg privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228025816id_/http%3A//www.asiaone.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesstimes.com.sg privacy policy that was archived on 2010-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100207142400id_/http%3A//www.asiaone.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
