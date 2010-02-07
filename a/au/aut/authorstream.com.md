@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authorstream.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620061352id_/http%3A//www.authorstream.com/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorstream.com privacy policy that was archived on 2010-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100207232018id_/http%3A//www.authorstream.com/Privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy on authorSTREAM
 
@@ -100,5 +100,5 @@ If you have questions or comments about this privacy policy, please email us at 
 authorSTREAM.com   
 Sikhya Solutions, LLC.  
 Attn: Privacy Policy issues  
-9220, Fairbanks, Suite 205  
-Raleigh, NC 27613
+3782 Lake Spring Ave  
+Concord, NC 28027
