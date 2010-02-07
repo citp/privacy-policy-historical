@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jalopyjournal.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627091638id_/http%3A//www.jalopyjournal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jalopyjournal.com privacy policy that was archived on 2010-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100207232039id_/http%3A//www.jalopyjournal.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
