@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the invisionpower.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831110045id_/http%3A//www.invisionpower.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invisionpower.com privacy policy that was archived on 2010-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100207195348id_/http%3A//www.invisionpower.com/legal/privacy.php) for the most accurate reproduction.*
 
-# IPS, Inc. - Privacy Policy
+# Invision Power - Community Forum, Blog, Gallery, CMS, and more - Privacy Policy
 
 ## Our Commitment To Privacy
 
