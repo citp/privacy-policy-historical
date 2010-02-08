@@ -1,164 +1,264 @@
-<!--The following is the downloaded HTML source of the findtarget.com privacy policy that was archived on 2009-03-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090301135313id_/http%3A//www.findtarget.com/privacyft.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the findtarget.com privacy policy that was archived on 2010-02-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100208184840id_/http%3A//www.findtarget.com/privacyft.html) for the most accurate reproduction.-->
 
-<html><head>
-<title>Search Engine, Web Search, People Search, Local Search and Search Engine Marketing Info at Findtarget.com</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Search Engine, Web Search, People Search, Local Search and Search Engine Marketing Info - Findtarget.com</title>
+<base href="http://www.findtarget.com/">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="Findtarget.com provides quality Search Engine tools including Web Search, People Search, Local Search, Image Search, Picture Search and Search Engine Marketing SEO info quickly and easily.">
 <meta name="keywords" content="Search Engine, Web Search, People Search, Local Search, Image Search, Picture Search, Search Engine Marketing, SEO, Findtarget.com">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-<link rel="stylesheet" type="text/css" href="/findtarget.css">
+<link rel="stylesheet" type="text/css" href="findtarget.css" media="all">
 
 <script type="text/javascript">
-
+function get_other_div(num, close_num)
+{
+	document.getElementById(num).style.display ="block";
+	document.getElementById(close_num).style.display ="none";
+}
+function swapImage(imgN,imgU)
+{
+	if(document.images)document.images[imgN].src=imgU;
+}
+function rollover()
+{
+	if(! document.getElementById || ! document.createTextNode)
+		return;
 	
+	var n = document.getElementById('nav');
+	if (! n)
+		return;
+	
+	var tds = n.getElementsByTagName('td');
 
-
-	function rollover()
+	for (var i = 0; i < tds.length; i++)
 	{
-		if(! document.getElementById || ! document.createTextNode)
-			return;
-		
-		var n = document.getElementById('nav');
-		if (! n)
-			return;
-		
-		var tds = n.getElementsByTagName('td');
 
-		for (var i = 0; i < tds.length; i++)
-		{
-	
-			if (tds[i].className == 'tab_outter_hover') continue;
+		if (tds[i].className  == 'tab_outter_hover') continue;
 
-			tds[i].onmouseover = function()
-			{ 
-				if (this.className == 'tab_outter')
-				{
-					this.className 	 = 'tab_outter_hover'; 
-					this.getElementsByTagName('div')[0].className	= 'tab_inner_hover';
-				}
+
+		tds[i].onmouseover = function()
+		{ 
+			if (this.className == 'tab_outter')
+			{
+				this.className	= 'tab_outter_hover'; 
+				this.getElementsByTagName('div')[0].className	= 'tab_inner_hover';
 			}
-			
-			tds[i].onmouseout = function()
-			{ 
-				if (this.className == 'tab_outter_hover')
-				{
-					this.className 	= 'tab_outter'; 
-					this.getElementsByTagName('div')[0].className	= 'tab_inner';
-				}
+		}
+		
+		tds[i].onmouseout = function()
+		{ 
+			if (this.className == 'tab_outter_hover')
+			{
+				this.className 								= 'tab_outter'; 
+				this.getElementsByTagName('div')[0].className	= 'tab_inner';
 			}
 		}
 	}
-	
-	window.onload = rollover;
-</script>
-<script language="JavaScript">
-<!--
-function sf(){ document.f.q.focus();}
-//-->
-</script>
-<script language="JavaScript">
-
-function formHandler(form){
-var URL = document.form.menu.options[document.form.menu.selectedIndex].value;
-window.location.href = URL;
 }
-
+window.onload = rollover;
 </script>
+
+
 <style>
-.title_container
+ul.ul2
 {
-        padding: 0;
-        margin: 0;
-        margin: 0 0 0 0;
-        color: white;
-        z-index: 10000;
-        background: url(/images/ft_home_bg.png) no-repeat top left;
+        text-decoration:none;
+        font-size:12px;
+        font-weight:normal;
+        font-family:arial;
+        margin: 0 0 0 0; 
+        padding: 0px 0 0px 0px; 
+	list-style-type: none;
+        
 }
-.title_container a:link, .title_container a:visited { color: white;  text-decoration: none;  }
-.title_container a:hover { color: white; text-decoration: underline; }
-</style>
+ul.ul2 li
+{
+        padding: 0 0 0 20px;
+        background:	url(http://auctions.findtarget.com/public/images/dot.gif) top left no-repeat;
+        color: #444;
+}
+
+
+ul.ul2 li.nob
+{
+        padding-bottom: 15px;
+        background: none;
+}
+
+ul.ul2 li.nob a:link
+{
+        font-size: 15px;
+}
+
+
+ul.ul2 li a:link, ul.ul2 li a:visited  
+{
+        color: #0000ee; 
+        text-decoration:underline;
+}
+ul.ul2 li a:hover, ul.ul2 li a:active  
+{
+        text-decoration:underline;
+        color:red;
+}
+
+.horange {
+        color: #FB9940;
+        font-size: 16px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+}
+
+.hblue {      
+        color: #0066FF;
+        font-size: 14px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+}
+
+                       
+</style>           
+
+
+
+
+
+
+
+
 
 </head>
-
-<body><center><div style="width:960px;">
-<div align="center"><a href="http://www.findtarget.com"><img src="/images/findtarget_logo.jpg" alt="FindTarget.com - Find it fast!" width2="480" height2="82" border="0"></a>
+<body>
 <center>
-<table align="center" cellpadding="0" cellspacing="0" id="nav">
+
+<div style="width: 990px; text-align: left;background-color:#ffffff;">
+		<table width="990" cellpadding="0" cellspacing="0">
+			<tbody><tr>				
+				<td width="12" style="background:#ffffff  url(images/leftbg.gif); font-size: 1px;" valign="top">
+					<img src="images/topleft-bg.gif" alt="">
+				</td>
+				<td width="9">
+					<div style="width:9px;"></div>
+				</td>	
+				<td width="945">
+	
+<div class="main_container">
+<center>
+
+	
+	<table width="100%" style="margin:5px 0 0 0;" cellpadding="0" cellspacing="0">
 		<tbody><tr>
-			<td class="tab_outter">
-				<div class="tab_inner">
-					<a href="http://www.findtarget.com"><div style="font-size:6px"><br></div>Web</a>
-				</div>
+			<td height="63" valign="top" align="left" width="300">
+				<a href="http://www.findtarget.com/">
+					<img src="images/findtarget_logo_sm.gif" alt="FindTarget.com" style="border:none;">
+				</a>
 			</td>
-			<td width="1"></td>
-			<td class="tab_outter">
-				<div class="tab_inner">
-					<a href="http://shopping.findtarget.com/"><div style="font-size:6px"><br></div>Shopping</a></div>
+			<td valign="top" align="left">
+				<table width="100%" style="margin:0px 0 0 5px;" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td height="30" valign="bottom" align="left" style="padding:0; margin:0;">
+							&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td valign="top" align="left" style="padding:0; margin:0;">
+							<div style="padding:0 0 0 0; margin:0;">
+								<h1 style="padding:0 0 0px 0; margin:0 0 0 0;font-size:24px;line-height:24px; font-weight:bold; font-family:arial; color:#7d7d7d;">
+								privacy policy</h1>
+							</div>
+						</td>
+					</tr>
+				</tbody></table>
 			</td>
-			<td width="1"></td>
-			<td class="tab_outter">
-				<div class="tab_inner">
-					<a href="http://articles.findtarget.com/"><div style="font-size:6px"><br></div>Articles</a></div>
-			</td>
-			<td width="1"></td>
-			<td class="tab_outter">
-				<div class="tab_inner">
-					<a href="http://local.findtarget.com/"><div style="font-size:6px"><br></div>Local</a></div>
-			</td>
-			<td width="1"></td>
-			<td class="tab_outter">
-				<div class="tab_inner">
-					<a href="http://www.findtarget.com/news.html"><div style="font-size:6px"><br></div>News</a></div>
-			</td>
-			<td width="1"></td>
-			<td class="tab_outter">
-				<div class="tab_inner">
-					<a href="http://www.findtarget.com/directory.html"><div style="font-size:6px"><br></div>Directory</a>
-				</div>
-			</td>
-			<td width="1"></td>
-			<td class="tab_outter">
-				<div class="tab_inner">
-					<a href="http://pictures.findtarget.com/"><div style="font-size:6px"><br></div>Images</a></div>
-			</td>
-
-			<td width="1"></td>
-			<td class="tab_outter">
-				<div class="tab_inner">
-					<a href="http://jobs.findtarget.com/"><div style="font-size:6px"><br></div>Jobs</a></div>
-			</td>
-
-			<td width="1"></td>
-			<td class="tab_outter">
-				<div class="tab_inner">
-					<a href="http://videos.findtarget.com/"><div style="font-size:6px"><br></div>Videos</a></div>
-			</td>
-
-
-			<td width="1"></td>
-			<td class="tab_outter">
-				<div class="tab_inner">
-					<a href="http://auctions.findtarget.com/"><div style="font-size:6px"><br></div>Auctions</a></div>
-			</td>
-
-
-			<td width="1"></td>
-			<td class="tab_outter">
-				<div class="tab_inner">
-					<a href="http://reference.findtarget.com/"><div style="font-size:6px"><br></div>Reference</a></div>
-			</td>
-
-
 		</tr>
-  </tbody></table>
+	</tbody></table>
 
 
-<div class="title_container" style="text-align: center; z-index: 10000; background: url(/images/ft_resright_bg.png);">
-	<img src="/images/spacer1.gif" width="1" height="64" style="vertical-align: middle;">
-	<form name="f" action="http://search.findtarget.com/framer.php" target="_top" method="get" style="font-size: 18px; padding: 0; margin: 0;">
-	Search for: <input type="text" name="q" style="width: 250px; vertical-align: middle; font-size: 18px; padding: 0; margin: 0;">
-	&nbsp;in:     <select name="se" size="1" style="vertical-align: middle; font-size: 16px; padding: 0; margin: 0;">
+
+
+	<table cellpadding="0" cellspacing="0" id="nav">
+		<tbody><tr>
+			<td class="tab_outter_hover">
+				<div class="tab_inner_hover">
+					<a href="http://www.findtarget.com/">Home</a>
+				</div>
+			</td>
+			<td style="width: 1px;" nowrap=""></td>
+			<td class="tab_outter">
+				<div class="tab_inner">
+					<a href="http://shopping.findtarget.com/">Shopping</a>
+				</div>
+			</td>
+			<td style="width: 1px;" nowrap=""></td>
+			<td class="tab_outter">
+				<div class="tab_inner">
+					<a href="http://articles.findtarget.com/">Articles</a>
+				</div>
+			</td>
+			<td style="width: 1px;" nowrap=""></td>
+			<td class="tab_outter">
+				<div class="tab_inner">
+					<a href="http://local.findtarget.com/">Local</a>
+				</div>
+			</td>
+			<td style="width: 1px;" nowrap=""></td>
+			<td class="tab_outter">
+				<div class="tab_inner">
+					<a href="http://news.findtarget.com/">News</a>
+				</div>
+			</td>
+			<td style="width: 1px;" nowrap=""></td>
+			<td class="tab_outter">
+				<div class="tab_inner">
+					<a href="http://webdirectory.findtarget.com/">Directory</a>
+				</div>
+			</td>
+			<td style="width: 1px;" nowrap=""></td>
+			<td class="tab_outter">
+				<div class="tab_inner">
+					<a href="http://pictures.findtarget.com/">Images</a>
+				</div>
+			</td>
+			<td style="width: 1px;" nowrap=""></td>
+			<td class="tab_outter">
+				<div class="tab_inner">
+					<a href="http://jobs.findtarget.com/">Jobs</a>
+				</div>
+			</td>
+			<td style="width: 1px;" nowrap=""></td>
+			<td class="tab_outter">
+				<div class="tab_inner">
+					<a href="http://videos.findtarget.com/">Videos</a>
+				</div>
+			</td>			
+			<td style="width: 1px;" nowrap=""></td>
+			<td class="tab_outter">
+				<div class="tab_inner">
+					<a href="http://auctions.findtarget.com/">Auctions</a>
+				</div>
+			</td>
+			<td style="width: 1px;" nowrap=""></td>
+			<td class="tab_outter">
+				<div class="tab_inner">
+					<a href="http://reference.findtarget.com/">Reference</a>
+				</div>
+			</td>
+		</tr>
+	</tbody></table>
+  </center>
+ 
+
+<table width="100%" height="80" style="color: white;z-index: 1000;margin: -1px 0 0 0; padding:0;" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td valign="top" style="background:#ffffff  url(images/search_bg_left.png) no-repeat; font-size: 1px;" align="right" width="15">
+		&nbsp;
+	</td>
+	<td style="background:#ffffff  url(images/search_bg_mid.png) repeat-x;" align="left">
+		<div style="text-align: center;">
+
+		<form name="f" action="http://search.findtarget.com/framer.php" target="_top" method="get" style="font-size: 18px;">
+		Search for: <input type="text" name="q" class="input_search_box" style="width: 230px;">
+		&nbsp;in:     <select name="se" size="1" class="select_option">
       <option value="meta">All The Internet</option>
       <option value="images">Images</option>
       <option value="google">Google</option>
@@ -173,40 +273,81 @@ window.location.href = URL;
       <option value="aol">AOL Search</option>
 	<option value="teoma">Teoma</option>
     </select>
-	&nbsp;<input type="image" src="/images/ft_findit.png" value="Search" style="border: 0; padding: 0; margin: 0 0 0 0; vertical-align: top;">
-	</form>
+		&nbsp;
+		<input type="image" src="images/findit_btn.gif" value="Search" style="vertical-align: middle; border: 0;">
+		</form>
+
+
+		</div>
+	</td>
+	<td valign="top" style="background:#ffffff  url(images/search_bg_right.png) no-repeat; font-size: 1px;" align="right" width="15">
+		&nbsp;
+	</td>
+</tr>
+</tbody></table>
+<table width="100%" cellpadding="0" cellspacing="0" style="margin-top: .35em;">
+<tbody><tr>
+<td width="200" valign="top">	
+
+	
+				<div style="margin: 0px 0 0 0;">
+<table width="100%" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td height="32" width="10"><img src="images/orange_hdr_left.gif" alt=""></td>
+	<td height="32" style="font-size:16px; font-weight:bold; color:#ffffff; font-family:arial;background: #ffffff url(images/orange_hdr_mid.gif) repeat-x;">
+	Findtarget Corporate						</td>
+	<td height="32" width="10"><img src="images/orange_hdr_right.gif" alt=""></td>
+</tr>
+</tbody></table>
 </div>
+	<table class="orange_table" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td valign="top">
+				<div style="margin: 0; padding-left: 15px; padding-bottom: .5em; padding-top: 1em;">	
+					<ul class="under_header_ul">
 
-    <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-    <tbody><tr>
+
+
+<li><a href="http://www.findtarget.com/aboutft.html">About Findtarget</a></li>
+<li><a href="http://www.findtarget.com/contactus.html">Contact Us </a></li>
+<li><a href="http://www.findtarget.com/recommend.php">Refer a Friend </a></li>
+					</ul>
+					<br>
+
+				</div>	
+			</td>		
+		</tr>
+	</tbody></table>
+
 	
-      <td width="210" rowspan="2" valign="top" background="/images/graystripes.jpg"><img src="/images/spacer1.gif" width="1" height="10">
-        <table width="199" border="0" align="center" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-              <td height="20" valign="top"><div class="box">
-		                  <h2> About Us </h2>
-                  <img src="/images/spacer1.gif" width="17" height="8"> <img src="/images/point.gif" width="6" height="7"> <a href="http://www.findtarget.com/aboutft.html" class="box"><strong> About Findtarget </strong></a><br>
-                  <img src="/images/spacer1.gif" width="17" height="8"> <img src="/images/point.gif" width="6" height="7"> <a href="http://www.findtarget.com/contactus.html" class="box">Partner With Us </a><br>
-                  <img src="/images/spacer1.gif" width="17" height="8"> <img src="/images/point.gif" width="6" height="7"> <a href="http://www.findtarget.com/contactus.html" class="box">Contact Us </a><br>
-                  <img src="/images/spacer1.gif" width="17" height="8"> <img src="/images/point.gif" width="6" height="7"> <a href="http://www.findtarget.com/recommend.php" class="box">Refer a Friend </a><br>
-                  <div class="bottom"><img src="/images/spacer1.gif" width="1" height="1"></div>
-              </div></td>
-            </tr>
-      </tbody></table></td>
 	
-      <td height="11" colspan="5"></td>
-    </tr>
-    <tr>
-      <td width="1" valign="top"><br>
-          <br></td><td width="10" valign="top"><img src="/images/spacer1.gif" width="10" height="10">
-		  </td>
-          	<td width="537" valign="top">
 	
 
-        <span class="orange">Privacy Policy</span>
+</td>	
+<td valign="top">
+	<div style="margin: 0em .6em 0 .6em;">	
 
 
-                <p class="style3">overview</p>
+
+
+	<div style="margin: 0px 0 0 0;">
+	<table width="100%" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td height="32" width="10"><img src="images/grey_hdr_left.gif" alt=""></td>
+		<td height="32" style="font-size:16px; font-weight:bold; color:#595959; font-family:arial;background: #ffffff url(images/grey_hdr_mid.gif) repeat-x;">
+			Privacy Policy	</td>
+		<td height="32" width="10"><img src="images/grey_hdr_right.gif" alt=""></td>
+	</tr>
+	</tbody></table>
+	</div>
+	<table class="grey_table" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+	<td valign="top">
+	<div style="margin: 1.5em 1em 1em 1.5em; font-size: 12px; text-align: left;">
+
+
+
+                <p class="hblue">overview</p>
 
 		<p align="justify" class="style5">The 
                   privacy policy outlined in this statement applies to our services 
@@ -217,7 +358,7 @@ window.location.href = URL;
                   and how it is handled.</p>
 
 
-                  <p class="style3">information collection and use</p>
+                  <p class="hblue">information collection and use</p>
 
                   <p align="justify" class="style5">Through the provision of its Internet search services Findtarget.com 
                   collects information on the individual specific keywords that 
@@ -238,7 +379,7 @@ window.location.href = URL;
                   purposes.</p>
 
 
-		  <p class="style3">information sharing and disclosure</p>
+		  <p class="hblue">information sharing and disclosure</p>
 			<p align="justify" class="style5">
                   Findtarget.com does not share or disclose any personal information 
                   that has been obtained during the delivery of its Internet search 
@@ -262,34 +403,59 @@ window.location.href = URL;
 
 			<p align="justify" class="style5"></p>
 
-		<br>
-	         <br>
 
-		</td>
-          <td width="20" valign="top" nowrap=""><img src="/images/spacer1.gif" width="10" height="10"></td>
-          <td width="180" valign="top"><table width="180" height="250" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-              <td valign="top"></td>
-            </tr>
-          </tbody></table>
-            <br>
-              <p>&nbsp;</p>
-      </td></tr>
-    <tr background="/images/ftrbg.gif">
-      <td height="16" background="/images/ftrbg.gif" colspan="6"><img src="/images/spacer1.gif" width="1" height="1"></td>
-    </tr>
-    <tr>
-      <td height="6" colspan="6" valign="top"></td>
-    </tr>
-    <tr bgcolor="#CCCCCC">
-      <td height="8" colspan="6" valign="top"></td>
-    </tr>
-    <tr valign="bottom">
-      <td height="23" colspan="6"><div align="center"><a href="http://www.findtarget.com/aboutft.html" class="style5">about us</a> <span class="style5">|</span> <a href="http://www.findtarget.com/recommend.php" class="style5">refer to a friend</a> <span class="style5">|</span> <a href="http://www.findtarget.com/contactus.html" class="style5">contact us</a> <span class="style5">|</span> <a href="http://www.findtarget.com/privacyft.html" class="style5">privacy policy</a> <span class="style5">|</span> <a href="http://www.findtarget.com/login.php" class="style5">login</a></div></td>
-    </tr>
-  </tbody></table>
-    <br>
-<span class="style1">© 1999 - 2009 FindTarget.com. All rights reserved.</span></center></div>
+	</div>	
+	</td>				
+	</tr>
+	</tbody></table>
 
 
-</div></center></body></html>
+
+	</div>			
+</td>	
+
+	
+</tr>
+</tbody></table>						
+		<div class="footer_container">
+		<div class="footer_bar">&nbsp;</div>
+		<div class="footer_content">
+				<a href="http://www.findtarget.com/">home</a> |
+				<a href="http://shopping.findtarget.com/">comparison shopping</a> |
+				<a href="http://articles.findtarget.com/">article directory</a> |
+				<a href="http://local.findtarget.com/">local search</a> |
+				<a href="http://jobs.findtarget.com/">job search</a> |
+				<a href="http://reference.findtarget.com/">reference</a> <br>
+				  
+				<a href="http://webdirectory.findtarget.com/">web directory</a> |
+				<a href="http://news.findtarget.com/">news</a> |
+				<a href="http://pictures.findtarget.com/">image search</a> |
+				<a href="http://videos.findtarget.com/">video search </a> |
+				<a href="http://auctions.findtarget.com/">auction listings</a>   <br>
+
+				<a href="http://www.findtarget.com/aboutft.html">about us</a> | 
+				<a href="http://www.findtarget.com/recommend.php">refer to a friend</a> | 
+				<a href="http://www.findtarget.com/contactus.html">contact us</a> |
+				<a href="http://www.findtarget.com/privacyft.html">privacy policy</a> 
+			<div style="margin:10px 0 0 0;">© 1999 - 2009 <a href="http://www.findtarget.com/">FindTarget.com</a>, All Rights Reserved. </div>
+		</div>							
+	</div>
+</div>
+
+					</td>
+					<td width="9">
+						<div style="width:9px;"></div>	
+					</td>		
+					<td width="11" style="background:#ffffff url(images/rightbg.gif); font-size: 1px;" valign="top">
+						<img src="images/topright-bg.gif" alt="">
+					</td>						
+				</tr>			
+			</tbody></table>				
+		</div>	
+		
+</center>
+
+
+
+
+</body></html>
