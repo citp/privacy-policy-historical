@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wow4u.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215005408id_/http%3A//www.wow4u.com/privacystatement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wow4u.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208075616id_/http%3A//www.wow4u.com/privacystatement/index.html) for the most accurate reproduction.*
 
 # Privacy Statement, Inspirational Words of Wisdom
 
