@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsdating.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430053034id_/http%3A//www.tsdating.com/%3Fs%3Dprivacy_pol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsdating.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208130556id_/http%3A//www.tsdating.com/%3Fs%3Dprivacy_pol) for the most accurate reproduction.*
 
 # TS Dating Singles,TS Dating Personals, Dating @ TSDating.com!
 
