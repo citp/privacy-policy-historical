@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alarm.com privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128152807id_/http%3A//www.alarm.com/policies_lo.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alarm.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208024543id_/http%3A//www.alarm.com/policies_lo.asp) for the most accurate reproduction.*
 
 # Alarm.com 100% Wireless Security Systems: Privacy Policy
 
