@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the firebox.com privacy policy that was archived on 2009-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090205181952id_/http%3A//www.firebox.com/admin/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firebox.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208211027id_/http%3A//www.firebox.com/admin/privacy) for the most accurate reproduction.*
 
 # Firebox.com - cool gifts, gadgets and gift ideas
-
-## Privacy Policy
 
 Firebox takes our commitment to your privacy seriously, and we treat any information you provide us with care. By visting the Firebox.com website you are accepting and consenting to the practices described in our Privacy Policy, which is available in two formats:
 
@@ -53,6 +51,10 @@ Firebox.com uses the latest security measures to protect your details when you s
 
 In order to complete your order we may need to disclose some of your information to our fulfilment partners including National Fulfillment Services, USPS, FedEx, USPS, DHL and their affiliates. 
 
+If you order a product marked "Direct Despatch" then we will need to pass your shipping information to our manufacturers as they will be shipping directly to you.
+
+If you order personalized products which are made to order based on information that you provide, then we will need to provide this information (including shipping details) to our manufacturers for the purpose of creating the personalized product to your specification.
+
 ### Marketing Communications - Firebox
 
 When ordering from Firebox, entering competitions or otherwise interacting with us we may give you the chance to subscribe to our email newsletter. We promise not to bombard you with emails - to make it worth your while we will only get in touch when we have interesting news to share with you.
@@ -77,16 +79,14 @@ If you do not wish for us to use cookies when you use the Firebox.com website pl
 
 ### 3rd Party Ad Serving
 
-We allow other companies, called third-party ad servers or ad networks, to serve advertisements within our web pages. We do not provide any personally identifiable customer information to these advertisers or third-party websites.
+We may allow other companies, called third-party ad servers or ad networks, to serve advertisements within our web pages. We do NOT provide any personally identifiable customer information to these advertisers or third-party websites.
 
   * **Cookies**  
 Because your web browser must request these advertising banners from the ad network Web site, these companies can send their own cookies to your cookie file, just as if you had requested a web page from our website. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. We only authorise our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. 
   * **Opting Out of Third-Party Ad Serving**  
-If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability). 
+If you want to prevent a third-party ad server from sending and reading cookies on your computer, you may either turn off cookies in your browser, or visit each ad network's Web site individually and opt out (if they offer this capability). 
 
 
-
-Currently we have relationships with the following third-party ad networks (click to visit their Web site): [24/7 Real Media, Inc.](http://www.247realmedia.com/privacy.html)
 
 ### Your Concerns
 
