@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filipina18.com privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220150408id_/http%3A//www.filipina18.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filipina18.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208070229id_/http%3A//www.filipina18.com/privacy.html) for the most accurate reproduction.*
 
 # Www.filipina18.com - Privacy Policy
 
@@ -23,15 +23,16 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 **_Choice/Opt-Out_**
 
-  
-Our site provides users the opportunity to opt-out of receiving communications from our partners at the point where we request information about the visitor. 
+> >   
+>  Our site provides users the opportunity to opt-out of receiving communications from our partners at the point where we request information about the visitor. 
+>> 
+>> This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.   
+> You can send email to: [webmaster@bargirlcash.com](http://us.f564.mail.yahoo.com/ym/Compose?To=webmaster@bargirlcash.com&Subj=Filipina18Support) ** _Correct/Update_**
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.   
-You can send email to: [webmaster@bargirlcash.com](http://us.f564.mail.yahoo.com/ym/Compose?To=webmaster@bargirlcash.com&Subj=Filipina18Support) ** _Correct/Update_**
-
-  
 This site gives users the following options for changing and modifying information previously provided.   
-Email: [webmaster@bargirlcash.com](http://us.f564.mail.yahoo.com/ym/Compose?To=webmaster@bargirlcash.com&Subj=Filipina18Support) ** _Contacting the Web Site_**
+Email: [webmaster@bargirlcash.com](http://us.f564.mail.yahoo.com/ym/Compose?To=webmaster@bargirlcash.com&Subj=Filipina18Support)
+
+ ** _Contacting the Web Site_**
 
   
 If you have any questions about this privacy statement, the practices of this site, 
