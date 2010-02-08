@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatestmomstv.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909201922id_/http%3A//www.greatestmomstv.com/page/3/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatestmomstv.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208221418id_/http%3A//www.greatestmomstv.com/page/3/privacy_policy) for the most accurate reproduction.*
 
 # Greatest Moms TV - Greatest Moms TV - Privacy Policy
 
