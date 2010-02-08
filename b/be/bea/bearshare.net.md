@@ -1,60 +1,18 @@
-> *The following text is extracted and transformed from the bearshare.net privacy policy that was archived on 2009-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090928015026id_/http%3A//www.bearshare.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearshare.net privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208201619id_/http%3A//www.bearshare.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
 PRIVACY POLICY
 
-Welcome to Bearshare. We want you to know that we respect your privacy and that we value your business. This privacy statement covers the BearShareTM software, Bearshare MediaBar and the BearShareTM website ([www.bearshare.com](http://www.bearshare.com/)). In order to ensure your privacy we want you to know the details of what information we collect and what we do with it.
+Welcome to Bearshare. We want you to know that we respect your privacy and that we value your business. This privacy statement covers the Bearshare software, Bearshare MediaBar and the Bearshare website ([www.bearshare.com](http://www.bearshare.com/)). In order to ensure your privacy we want you to know the details of what information we collect and what we do with it.
 
 INFORMATION COLLECTION
 
-Bearshare takes your privacy very seriously. In order to provide you with the highest quality service, we do collect certain information from you in accordance with the following guidelines.
+Musiclab takes your privacy very seriously. In order to provide you with the highest quality service, we do collect certain information from you in accordance with the following guidelines.
 
 **Direct Submissions:**
 
-In order to provide you with excellent service and a superior customer experience Bearshare has several areas where you can submit information to us and we also have features that automatically collect information from users of our service. Some of the information you may choose to provide includes personally identifiable information such as your name, address, email, age, gender and interests. In addition, we may collect information linked to your communications preferences, your payment and billing information, your searches and purchases, music you own, your music listening preferences, your library, play lists, most played artists and other requested information on surveys that are presented to you.
-
-**Bearshare Personalization Service:**
-
-If you have elected to enable any of Bearshare's Personalization Services, Bearshare uses technology and services from third party partners to understand your unique interests by analyzing what content you view across Web sites and search results. This information is used to make music and other content recommendations to you. Bearshare and its partners also provide this information to other third parties to enable them to show you advertisements across the web that might be more interesting to you.
-
-**What Information is collected by the Bearshare Personalization Service?**
-
-When you first agree to receive the Bearshare Personalization Service, information will be collected about your Web browsing history to begin building a profile of your interests. While your computer is on, the Personalization Service will periodically collect:
-
-  * Anonymous information about how you use the Web; for example - 
-    * the URL addresses of Web pages you view and how long you view them,
-    * the links and advertisements you click on, 
-    * whether you make a purchase, and
-    * non-personally identifiable information you provide on Web pages and forms, including the Internet searches you conduct.
-  * Which computer operating system and Web browser(s) you use, and identification of some of your system settings.
-  * Information on how you use the Bearshare Personalization Service; for example, how often you use it and its settings and preferences.
-
-
-
-Personalization information is stored on servers located in the United States by Bearshare and our third party partners.
-
-**      How is this Information used?**
-
-This information is used to make music and content recommendations to you within the Bearshare software and Bearshare MediaBar. This information also enables the Personalization Service to personalize the ads that are displayed to you on Web sites you visit.
-
-This anonymous information might also be used to conduct research for use in improving and developing new products, and to complete aggregate analytics and custom marketing research programs.
-
-**      With Whom do you Share my Information?**
-
-Search Partners: Your search queries might be with partners who may provide you with search results, sponsored links and customized ads to display to you.
-
-Research and Reporting: The analytics and custom marketing research programs compiled from the aggregated, anonymous information collected may be announced to the press or public to report emerging Web usage trends, or provided to its corporate clients and partners so they can better understand the effectiveness of their advertising campaigns, and trends in online consumer behavior.
-
-Service Providers: Your information may be shared with third parties who help perform a business function that it would otherwise perform itself. Such third parties are prohibited from using the data to any greater extent than allowed by this privacy policy. This information may also be used by Bearshare or its partners in connection with a judicial or administrative proceeding, or in response to a court order, subpoena, discovery request or other lawful process.
-
-**      How Do I Uninstall Personalization Service?**
-
-You can uninstall the Personalization Service by disabling the technology in both the Bearshare application and MediaBar (if installed).
-
-**      Sale, Merger, or Asset Transfer**
-
-Information that has been collected from you by our software may be one of the transferred assets in the event Bearshare or our partners are purchased or merged with another company. 
+In order to provide you with excellent service and a superior customer experience Musiclab has several areas where you can submit information to us and we also have features that automatically collect information from users of our service. Some of the information you may choose to provide includes personally identifiable information such as your name, address, email, age, gender and interests. In addition, we may collect information linked to your communications preferences, your payment and billing information, your searches and purchases, music you own, your music listening preferences, your library, play lists, most played artists and other requested information on surveys that are presented to you.
 
 **Cookies and Other Technology** :
 
@@ -66,13 +24,13 @@ We may sometimes use cookies, as well as other tracking technology, such as web 
 
 While you download and install Bearshare, Web beacons may be used to monitor your progress through the installation process. These Web beacons are used to identify and correct problems with the installer program and to improve the installation process.
 
-We sometimes utilize third party service providers to help us track the activity and user flows within our service or sites. These third parties may use temporary cookies and/or web beaconing technology to facilitate such tracking. Such tracking would track an individual user's movements but the data would not be tracked in a personally identifiable way. Such data would be stored and analyzed on an aggregated basis for purposes of internal analysis by Bearshare to continue to optimize our customer experience.
+We sometimes utilize third party service providers to help us track the activity and user flows within our service or sites. These third parties may use temporary cookies and/or web beaconing technology to facilitate such tracking. Such tracking would track an individual user's movements but the data would not be tracked in a personally identifiable way. Such data would be stored and analyzed on an aggregated basis for purposes of internal analysis by Musiclab to continue to optimize our customer experience.
 
 If we engage with any advertising partners and or other third parties, our approved advertising partners and third parties whose products or services are promoted on our site may also use cookies, and we advise you to check their privacy policies for information about their cookies and other privacy practices if you are presented with one of their offers during your association with Bearshare.
 
 **Log Files and IP addresses** :
 
-We and our Personalization Partner use internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, geographical location and number of clicks to analyze trends, administer the site, track users' movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses are not linked by Bearshare to personally identifiable information and are not kept after the statistics are logged in the aggregated database. The information we collect is used for internal review and is then discarded. It is not shared with other organizations. However, users should be aware that both static and dynamic IP addresses can be mapped back to users on most ISPs based on the users login time and recorded information.
+We use internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, geographical location and number of clicks to analyze trends, administer the site, track users' movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses are not linked by Bearshare to personally identifiable information and are not kept after the statistics are logged in the aggregated database. The information we collect is used for internal review and is then discarded. It is not shared with other organizations. However, users should be aware that both static and dynamic IP addresses can be mapped back to users on most ISPs based on the users login time and recorded information.
 
 SEARCH TECHNOLOGY AND THE BEARSHARE MEDIA BAR
 
@@ -100,27 +58,27 @@ If the BMB or Service is ever sold or all or substantially all of the assets rel
 
 If you wish to withdraw your consent to the communication and data usage as described herein, you should uninstall BMB from your computer and cease using the Web Sites. You may uninstall or remove BMB at any time by following the instructions at the beginning of the Bearshare MediaBar section above.
 
-Our Search Partners may provide search results or other links to other World Wide Web sites or resources. Because our Search Partners have no control over such sites and resources, you acknowledge and agree that they are not responsible for the availability of such external sites or resources, and do not endorse and are not responsible or liable for any Content, advertising, products, or other materials on or available from such sites or resources. You further acknowledge and agree that neither Bearshare nor our Search Partners shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with your use of or reliance on any such Content, goods or services available on or through BMB or Web Sites.
+Our Search Partners may provide search results or other links to other World Wide Web sites or resources. Because our Search Partners have no control over such sites and resources, you acknowledge and agree that they are not responsible for the availability of such external sites or resources, and do not endorse and are not responsible or liable for any Content, advertising, products, or other materials on or available from such sites or resources. You further acknowledge and agree that neither Musiclab nor our Search Partners shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with your use of or reliance on any such Content, goods or services available on or through BMB or Web Sites.
 
 INFORMATION USE
 
-Except as described in this statement, we will not disclose any information about you outside of Bearshare and its controlled subsidiaries and affiliates without your consent.
+Except as described in this statement, we will not disclose any information about you outside of Musiclab and its controlled subsidiaries and affiliates without your consent.
 
-We may share non-personally identifiable information about our users with our partners and advertisers. In addition, there are times where it may be advantageous for Bearshare to make certain personally identifiable information about you available to companies that Bearshare has a strategic relationship with or that perform work in conjunction with the user experience. These companies may provide services such as those that fulfill customer service orders, those that extend credit, deliver products and or ancillary services to you, enhance and manage customer data, conduct market research for Bearshare. In addition, on occasion we allow you to choose to share your personal information with select Bearshare partners so that they can contact you about their products, services or offers. These companies are also required to protect your personal information in accordance with Bearshare's policies. Without our ability to integrate and share with these strategic partners it would be difficult for you to purchase and utilize Bearshare products and services, receive the appropriate quality and level of customer service and provide us the data needed to best improve our products and services.
+We may share non-personally identifiable information about our users with our partners and advertisers. In addition, there are times where it may be advantageous for Musiclab to make certain personally identifiable information about you available to companies that Musiclab has a strategic relationship with or that perform work in conjunction with the user experience. These companies may provide services such as those that fulfill customer service orders, those that extend credit, deliver products and or ancillary services to you, enhance and manage customer data, conduct market research for Musiclab. In addition, on occasion we allow you to choose to share your personal information with select Musiclab partners so that they can contact you about their products, services or offers. These companies are also required to protect your personal information in accordance with Musiclab's policies. Without our ability to integrate and share with these strategic partners it would be difficult for you to purchase and utilize Musiclab products and services, receive the appropriate quality and level of customer service and provide us the data needed to best improve our products and services.
 
 In addition, by providing your email address, you'll receive our weekly email newsletter and account updates, sent to you by Bearshare. You can always opt out from any Bearshare communication.
 
-Some Bearshare services may be co-branded and offered in conjunction with another company. If you register for or use such services, both Bearshare and the other company may receive information collected in conjunction with the co-branded services.
+Some Bearshare services may be co-branded and offered in conjunction with another company. If you register for or use such services, both Musiclab and the other company may receive information collected in conjunction with the co-branded services.
 
 We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, hosting websites, processing transactions, or performing statistical analysis of our services. Those companies will be permitted to obtain only the personally identifiable information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose.
 
 In an endeavor to improve the customer experience we may also purchase marketing data from third parties and add it to our existing user database, to better target our features, services and offers in which we think you may be interested. To enrich our profiles of existing customers, we may tie this information to personally identifiable information that you have given to us.
 
-In addition to the foregoing, we may disclose your personally identifiable information if we believe such action is necessary to: (a) comply with the law or legal process served on Bearshare; (b) protect and defend the rights or property of Bearshare (including the enforcement of our agreements); or (c) act in urgent circumstances to protect the personal safety of users of Bearshare services or members of the public.
+In addition to the foregoing, we may disclose your personally identifiable information if we believe such action is necessary to: (a) comply with the law or legal process served on Musiclab; (b) protect and defend the rights or property of Musiclab (including the enforcement of our agreements); or (c) act in urgent circumstances to protect the personal safety of users of Bearshare services or members of the public.
 
 LINKS
 
-In an attempt to provide increased value to our visitors, we may choose various third party web sites to link from or frame within the Bearshare website. We also participate in co-branding, advertising and other relationships to offer e-commerce and other services and features to our users. Information about you may be visible to subsequent websites if you link off of the Bearshare website. However, even if the third party is affiliated with us, we have no control over these linked sites, each of which has separate privacy and data collection practices independent of us. Data collected by our co-brand partners, advertisers or third party web sites (even if offered on or through our site) is not received by us. As such, we are not responsible for, or have any control over, the content or the privacy policies of those third party websites, and encourage all users to read the privacy policies of each and every website visited when linking from Bearshare.com. These linked sites are only for your convenience and you therefore access them at your own risk. This privacy statement applies solely to information collected by Bearshare.
+In an attempt to provide increased value to our visitors, we may choose various third party web sites to link from or frame within the Bearshare website. We also participate in co-branding, advertising and other relationships to offer e-commerce and other services and features to our users. Information about you may be visible to subsequent websites if you link off of the Bearshare website. However, even if the third party is affiliated with us, we have no control over these linked sites, each of which has separate privacy and data collection practices independent of us. Data collected by our co-brand partners, advertisers or third party web sites (even if offered on or through our site) is not received by us. As such, we are not responsible for, or have any control over, the content or the privacy policies of those third party websites, and encourage all users to read the privacy policies of each and every website visited when linking from bearshare.com. These linked sites are only for your convenience and you therefore access them at your own risk. This privacy statement applies solely to information collected by Bearshare.
 
 CHOICE/OPT-OUT
 
@@ -134,7 +92,7 @@ Protecting the privacy of the very young is especially important. We operate our
 
 LEGAL DISCLAIMER
 
-At times Bearshare may be required by law or litigation to disclose your personal information. We may also disclose information about you if we determine that for national security, law enforcement, or other issues of public importance that disclosure of information is necessary.
+At times Musiclab may be required by law or litigation to disclose your personal information. We may also disclose information about you if we determine that for national security, law enforcement, or other issues of public importance that disclosure of information is necessary.
 
 SECURITY
 
@@ -146,4 +104,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 QUESTIONS
 
-If you have questions or concerns regarding this please email us at [privacy@Bearshare.com](mailto:privacy@bearshare.com). You can also contact us by sending us postal mail at Bearshare. 211 East 43rd St. 23rd Floor, New York, NY 10017, Attn: PRIVACY OFFICER.
+If you have questions or concerns regarding this please email us at [privacy@bearshare.com](mailto:privacy@bearshare.com). You can also contact us by sending us postal mail at Bearshare. 635 Madison Ave. 6th Floor, New York, NY 10022, Attn: PRIVACY OFFICER.
