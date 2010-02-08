@@ -1,85 +1,86 @@
-> *The following text is extracted and transformed from the xoom.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610021536id_/https%3A//www.xoom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xoom.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208121954id_/https%3A//www.xoom.com/sendmoneynow/privacy-policy) for the most accurate reproduction.*
 
-# Xoom: Privacy Policy
+# Privacy Policy - Xoom Global Money Transfer
 
-This Privacy Disclosure is effective as of **2007-04-04** , and explains the privacy policies of MetaBank and Xoom Corporation (each, a "Provider"). We are committed to protecting our customers' privacy and security. This disclosure explains what information we collect about you, with whom we share it, and how you can direct us not to share certain information with certain parties. You should read this Privacy Policy in its entirety. Certain sections may apply differently to residents of different jurisdictions. 
+Your browser has been configured to prevent cookies from being set. To sign into Xoom.com, you must have cookies enabled.
 
-### DEFINITIONS
+[](https://web.archive.org/sendmoneynow/home)
 
-**We, our, and us** means MetaBank and Xoom Corporation 
+Xoom Corporation, a California Corporation, takes your Privacy very seriously. This Privacy Policy applies to the Site [www.xoom.com](https://www.xoom.com/) and is effective as of 2009-04-16.
 
-**You and your** means customers who access and use this Web site and the services associated with it pursuant to the applicable [Terms of Service](https://web.archive.org/static/tos.html).
+We are committed to protecting our customers' privacy and security. This Privacy Statement explains what personal information we collect about you, with whom we share it, and how you [The user of the Service] can direct us not to share certain information with certain parties. "Personal Information" refers to information such as name and email that can be used to identify an individual. You should read this Privacy Policy in its entirety. Certain sections may apply differently to residents of different jurisdictions.
 
-**Nonpublic personal information** means information about you that we collect in connection with providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records. Hereafter we will use the term "information" to mean nonpublic personal information as defined by this section.
+Xoom Corporation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the internet by promoting the use of fair information practices. Because Xoom wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-**Affiliate** means a company that a Provider owns or controls, a company that owns or controls a Provider, or a company that is owned or controlled by the same company that owns or controls a Provider. Ownership does not mean complete ownership, but means enough to have control.
+If you have questions or concerns regarding this statement, you should first [contact us](https://web.archive.org/sendmoneynow/help?emailCustomerService=true). If you do not receive acknowledgment of your inquiry, or your inquiry is not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
-**Nonaffiliated third party** means a person not employed by a Provider or a company that is not an affiliate of such Provider.
+We may amend this policy at any time, and shall notify you by posting a revised version on our website. Should we make a material change to the manner in which we collect, use or store your personal information, we shall notify you by a notice on our Site, or by email.
 
-**Opt out** means a choice you can make to prevent certain sharing or use of information. We will explain how you can exercise this choice.
+## INFORMATION WE COLLECT
 
-### INFORMATION WE COLLECT AND DISCLOSE
+We may collect the following information about you, which may include non-public personal information:
 
-We collect and may disclose the following information about you:
+  * Information that you provide us in the course of using the Service, such as your name, address, e-mail address, and telephone number. We may also collect certain sensitive information from you including your bank account number, credit card number, date of birth and social security number.
+  * To facilitate our Service, we request certain third party personal information from you such as your recipient's full name, physical address, email address, and phone number. We may also collect from you the recipient's sensitive financial information including their bank account and routing number.
+  * Information about your usage of the Service, including your transaction history, and how and to whom you use the Service to send or receive money;
+  * Information that we lawfully obtain from third parties, such as identity verification services and credit reporting agencies;
+  * Information that we indirectly obtain from you, such as information about the hardware and software you use when accessing the Service, your IP address, the pages you access on this website, and other websites that you visit prior to accessing the Service.
 
-  * Information you provide on applications or other forms, such as name, address, e-mail address, social security number, telephone number, and date of birth; 
-  * Information about your transactions with us, our affiliates, or other parties, such as account balance, payment history, parties to transactions, and card usage; and 
-  * Information we receive from a consumer reporting agency, such as verification of your identity and creditworthiness. 
+
+
+We may also use "cookies" to track your use of this website. A cookie is a small data file that we may place on your computer to identify you when you return to the website. You are free to decline our cookies if your browser permits, but doing so may interfere with your use of the Service. The information we store in the cookie is not PII but a number that we generate and could not be used to lookup a user's PII without the proprietary Xoom system.
+
+## WHY WE COLLECT INFORMATION
+
+We collect information for the following purposes:
+
+  * To process your transactions
+  * To verify your identity
+  * To collect payment for your use of the Service
+  * To troubleshoot problems with the Service
+  * To detect and prevent fraud and other illegal uses of the Service
+  * To send you marketing notices, service updates, and promotional offers
 
 
 
-We may also collect and disclose information about how users use this Web site, for example, by tracking unique views received by pages of the Web site or the domains from which users originate. This information is not personally identifiable. We may also use "cookies" to track returning users to our Web site. A cookie is a piece of software that a Web server can store on the users' PCs and use to identify the users should they visit the Web site again. Information collected may be associated with nonpublic personal information users provide us through this Web site.
+## HOW WE SHARE INFORMATION WITH OTHERS
 
-### INFORMATION WE SHARE WITH SERVICE PROVIDERS OR JOINT MARKETERS
+We do not sell or rent the information we collect to third parties for their promotional purposes unless we receive your permission to do so. Nevertheless, we may share information about you (including nonpublic, personal information) with:
 
-We may disclose all of the information we collect, as described above, to companies (including affiliates) that perform services on our behalf, including those who assist us in preparing and mailing statements and responding to customer inquiries. We may provide that information, except for information from consumer reporting agencies, to others who perform marketing services for us and to financial institutions that are not our affiliates with whom we jointly offer financial products or services. You do not have the right to opt out of the disclosure of this information.
+  * Third-party service providers under contract with Xoom that help us with our business operations, such as transaction processing, fraud prevention, and marketing.
+  * Third-parties that we partner with to offer additional products and services, such as long-distance telephone minutes, but only when you elect to receive information about those additional products and services.
+  * In the event of the sale, acquisition or merger of some or all of our assets, your personal information might be a part of the transferred assets. We shall notify you in the event of such an occurrence by placing a notice on our website.
+  * Law enforcement and government officials, but only in connection with a formal request, subpoena, court order, or similar legal procedure, as well as circumstances where we believe in good faith that disclosure is necessary to comply with the law, report suspected illegal activity, or investigate violations of our User Agreement.
 
-### INFORMATION WE SHARE WITH AFFILIATES
 
-Our affiliates include nonfinancial companies, and may include financial service providers, such as insurance companies. In addition to the information we share with affiliates that provide services to us, we may share information described above among affiliates in order to provide you with information about additional products and services. You have the choice to opt out from our sharing of certain information with affiliates.
 
-### INFORMATION WE SHARE WITH NONAFFILIATED THIRD PARTIES
+## ACCESS TO YOUR INFORMATION
 
-Non-California residents: We may disclose information to other nonaffiliated third parties such as other financial services providers, direct marketers, retailers, publishers, and nonprofit organizations. Except as otherwise described herein, you have the choice to opt out from our sharing of certain information with these types of third parties. You may opt out from Xooms information sharing (except information sharing permitted by law) by contacting us by email at https://www.xoom.com/static/help-contact.html ; fax at 415-777-8690; or by mail at Xoom Corporation, attn: Customer Service, 301 Brannan Street, 5th Floor, San Francisco CA 94107 USA. You may opt-out from Xooms emails to you by accessing your [E-mail Preferences.](https://web.archive.org/emailprefs)
+You can access, modify or update your personal information submitted on our Site by logging into your account and changing your preferences.
 
-California and Vermont residents: Except as otherwise described herein or as otherwise permitted by law, we will not disclose information to other nonaffiliated third parties. You may opt in to our sharing of certain information with nonaffiliated third parties by contacting us by email at https://www.xoom.com/static/help-contact.html ; fax at 415-777-8690; or by mail at Xoom Corporation, attn: Customer Service, 301 Brannan Street, 5th Floor, San Francisco CA 94107 USA. For Vermont residents, if we disclose information about you to nonaffiliated third parties with whom we have joint marketing agreements, we will only share information about your name, contact information, and our own transactions and experiences with you. 
+## SECURITY
 
-### YOUR RIGHT TO OPT-OUT OF DISCLOSURES TO THIRD PARTIES
+We employ industry accepted standards in protecting the information you submit to us on our Site. We have put in place SSL [Secure Socket Layer] encryption technology to protect your sensitive information transmitted on our Site. We also require a username and password from each user who wants to access their information on our Site.
 
-If you prefer that we not share nonpublic personal information about you with third parties, you may opt-out of those disclosures at any time by directing us not to make those disclosures (other than disclosures permitted or required by law). You may opt-out by accessing your [E-mail Preferences](https://web.archive.org/emailprefs).
+## CHOICES YOU CAN MAKE ABOUT OUR USE OF YOUR INFORMATION
 
-### INFORMATION SECURITY
+Federal and state laws allow you to restrict the sharing of your personal information in certain instances. However, these laws also state that you cannot restrict other types of sharing. Because we have chosen to refrain from certain types of data sharing, the only type of sharing of your personal information that you may restrict is as follows:
 
-We restrict access to nonpublic personal information about you to our employees who have a need to know such information (e.g., to process your transactions). We train our employees on the importance of customer privacy and confidentiality. We also maintain physical, electronic, and procedural safeguards that comply with federal standards to guard the nonpublic personal information of our customers.
+  * If, after giving us your permission to share your personal information with third parties, with whom we market our jointly offered products, you later decide that you no longer want us to share such information, you may contact us by email at <https://www.xoom.com/static/help-contact.html>; fax at 415-777-8690; or by mail at Xoom Corporation, attn: Customer Service, 100 Bush Street, Suite 300, San Francisco CA 94104-3906, USA.
+  * You may also opt-out from promotional emails to you by accessing your E-mail Preferences & selecting the "Unsubscribe" function present in each email we send out.
 
-### INFORMATION ABOUT FORMER CUSTOMERS
 
-The privacy policies and practices described in this Privacy Disclosure also apply to our former customers.
 
-### PRIVACY PRACTICES OF THIRD PARTIES
+## COMPLAINTS
 
-Our website may feature links to third-party sites that offer goods, services, or information. We are not responsible for content or privacy policies or practices of any advertisers or linked sites of any third parties. We encourage you to review their privacy policy before providing them with any personally identifiable information. Third party sites may collect and use information about you in a way that is different from this policy.
+For Texas Customers Only: After first contacting Xoom Corporation, if you still have an unresolved complaint regarding the company's money transmission or currency exchange activity, please direct your complaint to: Texas Department of Banking, 2601 North Lamar Boulevard, Austin, Texas 78705, 1-877-276-5554 (toll free), [http://www.banking.state.tx.us](http://www.banking.state.tx.us/)
 
-### ACCESS OR CORRECT YOUR INFORMATION
+## THIRD PARTY SITES
 
-You can access most of your nonpublic personal information that we collect online and maintain at [xoom.com](https://web.archive.org/). You can correct factual errors in your nonpublic personal information by contacting us at the number or address listed above.
+The Site contains links to other web sites. Xoom Corporation is not responsible for the privacy practices or the content of these other web sites. We encourage you to familiarize yourself with the privacy practices of these other sites prior to submitting your personal information to them.
 
-### CHANGES TO THIS PRIVACY DISCLOSURE
+## CONTACT
 
-We may change our Privacy Disclosure from time to time. We will provide current customers with a revised disclosure that describes the new practices should we broaden our information sharing practice about you.
+You can contact us with any questions or concerns at: Xoom Corporation, 100 Bush Street, Suite 300, San Francisco CA 94104-3906
 
-### SPECIAL NOTICE FOR CALIFORNIA RESIDENTS
-
-In order to comply with California law, if your account has a California address we will not disclose information that we have about you with non-financial companies outside of our family of companies, unless otherwise permitted by law.
-
-### SPECIAL NOTICE FOR VERMONT RESIDENTS
-
-In order to comply with Vermont law, if your account has a Vermont address we will not disclose nonpublic personal financial information about you to nonaffiliated third parties, other than permitted by law, unless you authorize us to make that disclosure. Your authorization must be in writing or, if you agree, in electronic form. If we disclose information about you to nonaffiliated third parties with whom we have joint marketing agreements, we will only share information about your name, contact information, and our own transactions and experiences with you.
-
-### QUESTIONS
-
-If you have any questions regarding this Privacy Disclosure, you can contact us by telephone at 1-877-815-1531; by fax at 415-777-8690; or by mail at Xoom Corporation, attn: Customer Service, 301 Brannan Street, 5th Floor, San Francisco CA 94107 USA.
-
-### COMPLAINTS
-
-For Texas Customers Only: After first contacting Xoom Corporation, if you still have an unresolved complaint regarding the company's money transmission or currency exchange activity, please direct your complaint to: Texas Department of Banking, 2601 North Lamar Boulevard, Austin, Texas 78705, 1-877-276-5554 (toll free), [www.banking.state.tx.us](http://www.banking.state.tx.us/). 
+Email: [https://www.xoom.com/static/about-contact.html](https://web.archive.org/sendmoneynow/help?emailCustomerService=true)
