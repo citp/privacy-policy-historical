@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberrentals.com privacy policy that was archived on 2006-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060520065738id_/http%3A//www.cyberrentals.com/index.cfm/tgt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberrentals.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208124525id_/http%3A//www.cyberrentals.com/index.cfm/tgt/privacy) for the most accurate reproduction.*
 
 # CyberRentals.com Privacy Information
 
@@ -15,6 +15,10 @@ Your information is not shared with third parties, except: 1) in the case of spe
 ### Newsletters
 
 As an advertiser or visitor to CyberRentals.com, you will receive either or both of our Owner or Traveler newsletters. You may cancel your subscription to these newsletters at any time.
+
+### Unsubscribe
+
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter, using the unsubscribe function at <http://www.cyberrentals.com/index.cfm/fa/home/tgt/emailform> , by contacting us at [http://support.homeaway.com](http://support.homeaway.com/) or by mailing us at 3801 S. Capital of Texas Highway #150, Austin, Texas 78704
 
 ### Surveys
 
