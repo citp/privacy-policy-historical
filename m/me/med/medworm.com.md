@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the medworm.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228175213id_/http%3A//www.medworm.com/rss/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medworm.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208222958id_/http%3A//www.medworm.com/rss/privacypolicy.php) for the most accurate reproduction.*
 
 # MedWorm Privacy Policy
 
-|    
----  
-   |  |    |   
-  
 **Ownership and Principal Objective**
 
 MedWorm is currently owned and maintained by Frankie Dolan, who is committed to ensuring that MedWorm data is kept secure, that personal data is kept private, and that any statistical data collected from MedWorm is utilized with the objective of either improving MedWorm functionality or the advancement of knowledge in the area of health, science and medicine.
