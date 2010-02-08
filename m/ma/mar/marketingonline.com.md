@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingonline.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216042047id_/http%3A//alexmandossian.com/am/%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingonline.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208231846id_/http%3A//alexmandossian.com/am/%3Fcontent%3Dprivacy) for the most accurate reproduction.*
 
 # Alex Mandossian -Privacy Policy
 
