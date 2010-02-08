@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadbestsoft.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612043137id_/http%3A//www.downloadbestsoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadbestsoft.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208185159id_/http%3A//www.downloadbestsoft.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for - www.DownloadBestSoft.com
 
@@ -43,7 +43,7 @@ Google's use of the DART cookie enables it to serve ads to your users based on t
 
 If you can read this privacy policy available for www.downloadbestsoft.com, it means that you agree with all the terms listed here. If you do not agree with our privacy policy you should leave this website immediately without visiting any other website page.
 
-We encourage all visitors ( users ) to read our PRIVACY POLICY and also our TERMS OF AGREEMENT. By simply accesing this website you agree and you accept all of our terms and conditions and also our privacy policy that can be changed any time without any notification since we do not keep, store or manage any email address databases. 
+We encourage all visitors ( users ) to read our PRIVACY POLICY and also our TERMS OF AGREEMENT. By simply accessing this website you agree and you accept all of our terms and conditions and also our privacy policy that can be changed any time without any notification since we do not keep, store or manage any email address databases. 
 
 **Updated last time on 14 March 2009**
 
