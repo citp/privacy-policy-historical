@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kemipic.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626004341id_/http%3A//www.kemipic.com/content-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kemipic.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208200421id_/http%3A//www.kemipic.com/content-privacy.html) for the most accurate reproduction.*
 
 # Kemipic - Earn money by sharing pictures, images -
 
