@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kffl.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422204212id_/http%3A//www.kffl.com/static/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kffl.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208184630id_/http%3A//www.kffl.com/pages/privacy-policy.php) for the most accurate reproduction.*
 
-# Free Fantasy Football, Baseball and NASCAR
+# KFFL.com :: Privacy Policy and Terms of Use
 
 **Last updated** : January 19, 2007
 
-KFFL ("KFFL", "we," "us," "our") respects your privacy and is committed to protecting your personally identifiable information. We have adopted this privacy policy ("Privacy Policy") to explain what information may be collected through the web sites owned or operated by KFFL, which are www.kffl.com, www.kfflsports.com, www.nflnews.com, and www.mrfootball.com (collectively, the "Sites") and how such information may be used and/or shared with others. This Privacy Policy applies solely to information collected through the Sites and not through any other sources. This Privacy Policy is subject to the [**Terms of Use**](http://www.kffl.com/static/terms-of-use.php) posted on the Sites. Please return to the Sites and review this Privacy Policy from time to time, as it may be amended without notice. Any changes to this Privacy Policy will be effective immediately upon the posting of the revised Privacy Policy on the Sites. Your use of the Sites constitutes your agreement to this Privacy Policy. 
+KFFL ("KFFL", "we," "us," "our") respects your privacy and is committed to protecting your personally identifiable information. We have adopted this privacy policy ("Privacy Policy") to explain what information may be collected through the web sites owned or operated by KFFL, which are www.kffl.com, www.kfflsports.com, www.nflnews.com, and www.mrfootball.com (collectively, the "Sites") and how such information may be used and/or shared with others. This Privacy Policy applies solely to information collected through the Sites and not through any other sources. This Privacy Policy is subject to the [**Terms of Use**](http://www.kffl.com/pages/terms-of-use.php) posted on the Sites. Please return to the Sites and review this Privacy Policy from time to time, as it may be amended without notice. Any changes to this Privacy Policy will be effective immediately upon the posting of the revised Privacy Policy on the Sites. Your use of the Sites constitutes your agreement to this Privacy Policy. 
 
 ###  Your California Privacy Rights 
 
@@ -77,4 +77,4 @@ The Sites may contain links to other web sites that we do not control or maintai
 
 ###  Contact Information
 
-If you have questions or comments about our privacy practices, or if you wish to review or amend any personally identifiable information you have provided, [click here](http://www.kffl.com/static/contact/). 
+If you have questions or comments about our privacy practices, or if you wish to review or amend any personally identifiable information you have provided, [click here](http://www.kffl.com/pages/contact-kffl.php). 
