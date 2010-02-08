@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news4jax.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101221058id_/http%3A//www.news4jax.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news4jax.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208134612id_/http%3A//www.news4jax.com/privacy) for the most accurate reproduction.*
 
 # News 4 Jax - Privacy
 
