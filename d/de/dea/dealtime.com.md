@@ -1,32 +1,34 @@
-> *The following text is extracted and transformed from the dealtime.com privacy policy that was archived on 2009-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090402133559id_/http%3A//www.shopping.com/aa14-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealtime.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208214305id_/http%3A//www.shopping.com/aa14-privacy) for the most accurate reproduction.*
 
 # Shopping.com - Find, Compare, and Buy Anything in Seconds
 
-October 5th, 2006 
+October 22, 2009 
 
 ### Your Privacy
 
-The websites in the Shopping.com Network -- Shopping.com, the Shopping.com cart at shopping.ebay.com, Epinions.com, DealTime.com and PriceTool.com -- are brought to you by Shopping.com, Inc., an eBay company. This Privacy Policy tells you how Shopping.com uses and protects your information.
+The websites in the Shopping.com Network - Shopping.com, Epinions.com, DealTime.com and PriceTool.com - are brought to you by Shopping.com, Inc., an eBay company. This Privacy Policy tells you how Shopping.com collects, uses and protects your information on the Shopping.com Network and in other locations online where you interact with Shopping.com content or services.
 
 By using the Shopping.com Network, you agree to the terms and conditions of the User Agreement, including this Privacy Policy, and you consent to Shopping.com's privacy practices. This includes the use and disclosure of any personal information you have shared with us and its transfer to and storage on our servers in the United States. 
 
 ### Collection
 
-You can browse the Shopping.com Network without telling us who you are or revealing any personal information about yourself. Certain features and services on the Shopping.com Network require that you register and supply some information that allows us to identify you. We collect some information automatically from your computer while you browse our sites, such as where you go on the Shopping.com Network and what you do there. We collect your IP address, computer and connection information, browser type and version, operating system and platform, the URLs you come from and go to next, and a cookie number. 
+You can browse the Shopping.com Network without telling us who you are or revealing any personal information about yourself. Certain features and services on the Shopping.com Network require that you register or supply some information that allows us to identify you. We collect some information automatically from your computer while you browse our sites, such as where you go on the Shopping.com Network and what you do there. We collect your IP address, computer and connection information, browser type and version, operating system and platform, the URLs you come from and go to next, and a cookie number. 
 
-When you register on one of the sites in the Shopping.com Network, we collect and store your e-mail address and a password. You can also choose to provide the following personal information:  
+When you register on one of the sites in the Shopping.com Network, we collect and store your e-mail address and a password. When you participate in some of the Shopping.com Network services, you may also choose to provide the following personal information:  
 
 
-  * Member profile information, including first and last name, member name and location
-  * Fulfillment information, including mailing address and phone number
-  * Transaction and payment information, including credit card number and billing address
-  * Other information that allows us to personalize your Shopping.com Network experience—for example, your filter and profile preferences and the items on your Epinions Wish List
+  * Profile information, including first and last name, member or user name and location
+  * Contact information, including email address, mailing address and phone number
+  * Product information, including the ratings, reviews, tags, comments and other content you post, and the items in your wish lists 
+  * Other information that allows us to personalize your Shopping.com Network experience - for example, your filter and profile preferences
 
 
 
 We may get additional information from or about you in other ways not specifically described here. For example, you might contact Community Care or customer support or respond to a survey, or we might get a third-party complaint about you. 
 
-**Co-Branded Services.** Shopping.com works with some website operators to provide co-branded services. You will know you are on a co-branded website when the co-brand partner’s logo appears at the top of the page. When you visit a co-branded website, you are subject to that website’s privacy policy. Shopping.com does not receive any personal information about you from that website operator. 
+**Co-Branded Services.** You'll sometimes see Shopping.com content on other websites, labeled "Powered by Shopping.com." For example, we syndicate our Shopping.com listings for use on other companies' websites. These listings appear with another company's logo at the top of the page. When you browse these syndicated listings, you are subject to that company's privacy policy, and Shopping.com does not collect any personal information about you or receive any personal information from these other companies. 
+
+You may also interact with our product review services on websites operated by other companies. When you submit reviews or other content using our product review services, the information we collect is subject to our policies. We clearly label our product review services with the Shopping.com Privacy Policy and User Agreement. 
 
 ### Use
 
@@ -37,8 +39,7 @@ We use the information we collect to:
   * provide you with information and services you request
   * customize your experience on the Shopping.com Network
   * communicate with you about your orders, service updates and other administrative issues
-  * send our Epinions members targeted marketing and promotional offers, based on their communications preferences
-  * contact our Epinions Category Leads, Advisors or Top Reviewers (for more information, see [Epinions' FAQs](http://www.epinions.com/help/faq/?show=faq_recognition))
+  * send our members targeted marketing and promotional offers, based on their communications preferences
   * measure and improve our sites and services
   * resolve disputes, address complaints and troubleshoot technical problems 
   * analyze site and user behavior and prepare aggregated reports 
@@ -47,15 +48,11 @@ We use the information we collect to:
 
 ### Sharing and Disclosure
 
-**Shopping.com Cart Merchants.** If you purchase an item through the Shopping.com cart, we will provide the merchant with information necessary to complete that transaction. The merchants may use the information to fulfill the transaction and for other purposes for which they have obtained your consent. 
-
-**Other eBay Companies.** We may share information with our parent company, subsidiaries, joint ventures or other companies under common control, where it may be used to provide joint services or for purposes such as internal statistics, strategic decision-making, customer reviews, identifying customer trends, customer verification, fraud prevention and security.
+**Other eBay Companies.** We may share information with members of the eBay Inc. corporate family—like eBay, PayPal or Skype—to provide joint content and services (like registration, transactions and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications. Members of our corporate family will use this information to send you marketing communications only if you've requested their services.
 
 **Service Providers.** We may share your information with service providers under contract who help with our business operations (such as maintaining the Shopping.com Network and providing related services).
 
 **Special Offers.** On the Shopping.com Network, you may have opportunities to express interest in or register for third-party products and services. If you do, we will provide information about you to the third party to implement your request.
-
-**Epinions Category Leads.** Category Leads may have access to some or all of our Epinions databases. For more information about Category Leads, see [Epinions' FAQs.](http://www.epinions.com/help/faq/?show=faq_recognition)
 
 **Feedback.** We may use survey results for our internal development and market research and share the results with our affiliates, consultants, vendors and service providers.
 
@@ -65,17 +62,17 @@ We use the information we collect to:
 
 ### Public Content
 
-Some portions of the Shopping.com Network allow you to contribute ratings, comments, reviews and other content to the site. This content is displayed publicly unless you register and change your default configuration. The reviews and comments you publish may be displayed with your member name. If other members choose to, they can receive email notifications of your new public content or publish their own comments to your reviews.
+Some portions of the Shopping.com Network allow you to contribute ratings, reviews, tags, comments, and other content, either on one of our websites or via our product review services on other websites. This content may be displayed publicly on the Shopping.com Network and elsewhere on the web. The reviews and comments you publish may be displayed with your member or user name. Registered members can unpublish reviews by logging in to their accounts; reviews submitted through our product review services may not be unpublished. For some of our features, other members may be able to request email notifications of your new public content or publish their own comments to your reviews. You can also choose to make your wish lists public, but they are private by default. 
 
-We may use the public content to develop aggregate ratings, personalize site views and market products. We may use your public content to personalize site views and identify or feature popular members. For example, we may promote most popular or highest-earning reviews and members. While we don't expect to transfer the complete review rating and web of trust database to others (except as discussed in this policy), we use the database throughout our network and to generate results for others.
+We may use the public content to develop aggregate ratings, personalize site views, market products or identify or feature popular members. For example, we may promote most popular or highest-earning reviews and members. While we don't expect to transfer the complete review rating and web of trust database to others (except as discussed in this policy), we use the database throughout our network and to generate results for others.
 
 ### E-mail Communications
 
-**Choice/Opt-Out.** At any time, you have the ability to opt out of receiving marketing communications from Epinions, but you may not opt out of administrative emails (for example, emails about your transactions or policy changes) while you are a member of the Shopping.com Network. You can opt out by either changing your [e-mail preferences](http://www.epinions.com/myaccount.html) or using the link provided at the bottom of each email message. 
+**Choice/Opt-Out.** At any time, you have the ability to opt out of receiving marketing communications from the Shopping.com Network, but you may not opt out of administrative emails (for example, emails about your transactions or policy changes) while you are a member of the Shopping.com Network. You can opt out by either changing your preferences or using the link provided at the bottom of each email message. 
 
 **Email Tools.** If you send emails to a recipient through our site, they will receive your email address and any personal message you include. Although we do not retain in any easily retrievable way the addresses you email, these emails are not private communications. You may not use our email tools to send spam or content that violates the User Agreement.
 
-**Anti-Spam Policy.** Shopping.com does not tolerate spam. We do not send emails to anyone without permission, and we do not sell or rent email addresses to any unauthorized third party. This does not mean that we can prevent spam from happening on the Internet. If you believe that you have received an unsolicited email from us, please contact our Privacy Department and we will investigate. 
+**Anti-Spam Policy.** Shopping.com does not tolerate spam. We do not send emails to anyone without permission, and we do not sell or rent email addresses to any unauthorized third party. This does not mean that we can prevent spam from happening on the Internet. If you believe that you have received an unsolicited email from us, please contact our [Privacy Department](https://web.archive.org/aa27-cs_form?subject=Privacy%20Issues) and we will investigate. 
 
 ### Cookies and Web Beacons
 
@@ -83,11 +80,11 @@ We may use the public content to develop aggregate ratings, personalize site vie
 
 You can block cookies by changing the settings on your browser (contact your ISP for help), but doing so may prevent us from delivering certain services to you. Your browser must be set to accept cookies in order to access the Shopping.com Network as a registered member.
 
-**Our Advertisers's Cookies.** We use the services of third-party advertising companies, who may place cookies that allow them to collect from you and use anonymous information about your visits to the Shopping.com Network. For more about their practices and your options regarding their information collection and use, [click here](https://web.archive.org/pop/cookiePolicy?js=0). 
+**Our Advertisers's Cookies.**. We use the services of third-party advertising companies, who may place cookies that allow them to collect from you and use anonymous information about your visits to the Shopping.com Network. For more about their practices and your options regarding their information collection and use, [click here](https://web.archive.org/pop/cookiePolicy?js=0). 
 
 ### Accessing, Reviewing and Changing Your Personal Information
 
-As a registered member, you can review and change your personal information by accessing your Shopping.com [Account Information](https://signin.shopping.ebay.com/ws/eBayISAPI.dll?SignIn&co_partnerId=506&pUserId=&siteid=0&pageType=3127&pa1=&i1=&bshowgif=&UsingSSL=1&ru=http%3A%2F%2Faccount.shopping.ebay.com%3A80%2Fws%2FeBayISAPI.dll%3FExpressMyAccountPersonalInfo&pp=&pa2=&errmsg=&runame=&ruparams=&ruproduct=&sid=&favoritenav=&confirm=&ebxPageType=&existingEmail=&isCheckout=&migrateVisitor=) or signing in to your Epinions [Member Information](http://www.epinions.com/myaccount.html). You should promptly update your personal information if it changes or becomes inaccurate. You can close your Shopping.com account by contacting [Customer Support](https://web.archive.org/aa24-contact_cs) or your Epinions account by clicking [here](http://www.epinions.com/help/faq/?show=faq_changing#006). We may retain some information from closed accounts so that we can comply with law, prevent fraud, assist with investigations, resolve disputes, analyze or troubleshoot programs, enforce our User Agreement and take other actions otherwise permitted by law. If your account or membership is terminated or suspended, we may maintain some information to prevent re-registration. 
+Registered members can review and change personal information by accessing the Member page on Shopping.com or [Epinions](http://www.epinions.com/myaccount.html). You should promptly update your personal information if it changes or becomes inaccurate. You can close your Shopping.com account by contacting [Customer Support](https://web.archive.org/aa24-contact_cs) or your Epinions account by clicking [here](http://www.epinions.com/help/faq/?show=faq_changing#006). We may retain some information from closed accounts so that we can comply with law, prevent fraud, assist with investigations, resolve disputes, analyze or troubleshoot programs, enforce our User Agreement and take other actions otherwise permitted by law. If your account or membership is terminated or suspended, we may maintain some information to prevent re-registration. 
 
 ### Links to Other Sites
 
