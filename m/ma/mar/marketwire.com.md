@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the marketwire.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222073344id_/http%3A//www.marketwire.com/mw/include.do%3Fpageid%3D516) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketwire.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208042340id_/http%3A//www.marketwire.com/mw/include.do%3Fpageid%3D516) for the most accurate reproduction.*
 
 # Marketwire Privacy Policy
 
-Your privacy on the Internet is of the utmost importance to us. This privacy statement discloses what information we gather, how we use it, and how to correct or change it.p>
+Your privacy on the Internet is of the utmost importance to us. This privacy statement discloses what information we gather, how we use it, and how to correct or change it.
 
 ## Information Gathered by Marketwire
 
@@ -48,15 +48,15 @@ Marketwire is not intended for and should not be used by anyone under the age of
 
 ## International Users
 
-If you are an international user, by registering with Marketwire or by using our service, you agree that we may collect, use and transfer your information as described in this Privacy Policy. If you reside in the European Union or other jurisdictions that provide access rights under law, you may access your information or have it corrected or updated in accordance with applicable law by [contacting us](http://easypr.marketwire.com/easyir/cont.do?easyirid=594C608BE3245198&version=live).
+If you are an international user, by registering with Marketwire or by using our service, you agree that we may collect, use and transfer your information as described in this Privacy Policy. If you reside in the European Union or other jurisdictions that provide access rights under law, you may access your information or have it corrected or updated in accordance with applicable law by [contacting us](http://easyir.marketwire.com/easyir/cont.do?easyirid=17&version=live).
 
 ## Clients
 
 Clients who have registered in order to use our services can change or update their account information and preferences by:
 
-  1. Visiting <https://www.marketwire.com/2.0/login.do>; 
+  1. Visiting <https://www.marketwire.com/mw/login.do>; 
   2. Calling Client Services at 800-774-9473; or
-  3. [Contact us](http://easypr.marketwire.com/easyir/cont.do?easyirid=594C608BE3245198&version=live)
+  3. [Contact us](http://easyir.marketwire.com/easyir/cont.do?easyirid=17&version=live)
 
 
 
@@ -69,7 +69,7 @@ From time to time we will email client prospects whom we have reason to believe 
 We provide subscribers to our email newsletters with the opportunity to opt out of receiving promotional communications at the point when we request your information. Additionally, subscribers have the right to mask the non-public registration details they provide (media outlet, city, state) from appearing within our activity reports. At any time, subscribers can change their preferences regarding promotional communications and reporting disclosures, can subscribe to or unsubscribe from any of our email newsletters and can modify other registration information previously provided to us by:
 
   1. Visiting [Hot Off The Wire](http://www.ccnmatthews.com/news/hotw/signup.jsp) or
-  2. Visiting [Personal Beat](https://web.archive.org/web/20091222073344id_/http%3A//www.marketwire.com/mw/include.do?module=MONITOR&pageid=519) or
+  2. Visiting [Personal Beat](https://web.archive.org/web/20100208042340id_/http%3A//www.marketwire.com/mw/include.do?module=MONITOR&pageid=519) or
   3. Using the link provided at the bottom of any email newsletter we send to you. 
 
 
