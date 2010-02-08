@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fishingfordeals.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016202349id_/http%3A//www.fishingfordeals.com/forums/viewprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishingfordeals.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208192001id_/http%3A//www.fishingfordeals.com/forums/viewprivacy.php) for the most accurate reproduction.*
 
-# Fishing for Deals Forums: Privacy statement
+# Online shopping, discount shopping, coupon codes, and online coupons at Fishing for Deals: Privacy statement
 
 Privacy Policy
 
@@ -22,4 +22,4 @@ We do not disclose the identities of ours users unless we are legally required t
 
 The foregoing policies are effective as of March 4, 2001. Fishing For Deals reserves the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.  
   
-Generated in 0.009 seconds in which 0.002 seconds were spent on a total of 2 queries. Zlib compression enabled.
+Generated in 0.004 seconds in which 0 seconds were spent on a total of 2 queries. Zlib compression enabled.
