@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vocus.com privacy policy that was archived on 2008-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080708191642id_/http%3A//www.vocus.com/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocus.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208134533id_/http%3A//www.vocus.com/content/privacy.asp) for the most accurate reproduction.*
 
-# ::: Vocus ::: On-Demand Software for Public Relations and Government Relations :::
+# Vocus Privacy Statement
 
 This is the web site of Vocus, Inc.
 
@@ -19,6 +19,8 @@ If you have any questions about this privacy statement or the practices of this 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the email address (where possible).
 
 We collect the email addresses of those who communicate with us via email, information volunteered by the consumer, such as survey information and/or site registrations. The information we collect is used by us to contact consumers for marketing purposes, not shared with other organizations for commercial purposes. If you do not want to receive email from us in the future, please let us know by sending us email at [remove@vocus.com](mailto:remove@vocus.com).
+
+If you are a member of the media and would like to discuss your Vocus database record, please email [mrg@vocus.com](mailto:mrg@vocus.com) and our research team will contact you.
 
 If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
 
