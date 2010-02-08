@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the findtarget.com privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301135313id_/http%3A//www.findtarget.com/privacyft.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findtarget.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208184840id_/http%3A//www.findtarget.com/privacyft.html) for the most accurate reproduction.*
 
-# Search Engine, Web Search, People Search, Local Search and Search Engine Marketing Info at Findtarget.com
-
-Privacy Policy
+# Search Engine, Web Search, People Search, Local Search and Search Engine Marketing Info - Findtarget.com
 
 overview
 
