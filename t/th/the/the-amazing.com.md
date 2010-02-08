@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-amazing.com privacy policy that was archived on 2009-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090828095542id_/http%3A//www.the-amazing.com/%3Fpage_id%3D33) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-amazing.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208181911id_/http%3A//www.the-amazing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Amazing
 
