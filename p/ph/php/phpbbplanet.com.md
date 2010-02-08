@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpbbplanet.com privacy policy that was archived on 2009-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090314063408id_/http%3A//www.phpbbplanet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpbbplanet.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208212801id_/http%3A//www.phpbbplanet.com/privacy.html) for the most accurate reproduction.*
 
 # phpbbplanet.com * reliable phpbb hosting / webhosting with great network & dedicated server uptime
 
@@ -43,6 +43,14 @@ We may share aggregate statistical data about our customers with third parties, 
 **What is a Cookie**
 
 A "cookie" is an alphanumeric identifier that is unique to your browser. The cookie will identify your browser to us when you visit our web site so that we may customize your visit. 
+
+**DoubleClick DART cookies**
+
+. Google, as a third party vendor, uses cookies to serve ads on your site. 
+
+. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+
+. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
 
 **Security of Your Information**
 
