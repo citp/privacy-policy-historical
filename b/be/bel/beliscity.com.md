@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beliscity.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217003059id_/http%3A//www.beliscity.com/pg5/privacy_policy/pages.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beliscity.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208161425id_/http%3A//www.beliscity.com/pg5/privacy_policy/pages.html) for the most accurate reproduction.*
 
 # Privacy Policy - Online Shopping Pakistan - Karachi, Lahore, Faisalabad. Huge stock of Laptops,
 
