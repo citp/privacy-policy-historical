@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dba-oracle.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207185333id_/http%3A//www.dba-oracle.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dba-oracle.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208053158id_/http%3A//www.dba-oracle.com/privacy.htm) for the most accurate reproduction.*
 
 # BC Privacy Policy
 
@@ -13,3 +13,7 @@ BC consulting takes your privacy very seriously. This privacy statement disclose
  We will never share any information about specifically identifiable individuals at any time, to any party.  Demographic information relating to non-identifiable subscribers to our newsletters may be sold and shared with other portals.
 
 **4\. How can I change or delete my personally identifiable information?** You can enter your e-mail address into any of the newsletter subscription windows and click the “GO” button.  You will then be taken to a screen where you may unsubscribe or change any personal information.
+
+Burleson Consulting  
+P.O. Box 511  
+Kittrell, NC, 27544
