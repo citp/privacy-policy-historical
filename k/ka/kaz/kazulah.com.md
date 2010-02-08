@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kazulah.com privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318212533id_/http%3A//helpint.mywebsearch.com/intlinfo/privacy/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kazulah.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208034302id_/http%3A//helpint.mywebsearch.com/intlinfo/privacy/privacy.jhtml) for the most accurate reproduction.*
 
 # Privacy Policy Summary
 
@@ -96,7 +96,7 @@ ATTN: Privacy Officer/Legal Dept.
 
 END OF DOCUMENT.
 
-© 2009 Mindspark Interactive Network, Inc. All rights reserved.
+© 2010 Mindspark Interactive Network, Inc. All rights reserved.
 
 ### GLOSSARY:
 
