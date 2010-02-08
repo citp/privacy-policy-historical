@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horseplayerinteractive.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415025738id_/http%3A//www.horseplayerinteractive.com/Discover/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horseplayerinteractive.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208152522id_/http%3A//www.horseplayerinteractive.com/Discover/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # HorsePlayer Interactive
 
