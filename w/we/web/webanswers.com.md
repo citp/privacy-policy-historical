@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webanswers.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615083007id_/http%3A//www.webanswers.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webanswers.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208201227id_/http%3A//www.webanswers.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - WebAnswers.com
 
