@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sadikhov.com privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024220852id_/http%3A//www.sadikhov.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sadikhov.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208062719id_/http%3A//www.sadikhov.com/privacypolicy.php) for the most accurate reproduction.*
 
-# MCSE Certification Training, IT Forum, Free Braindumps download
+# MCSE CCNA CCNP Certification, IT Forum, Certification Exams, Preparation for tests
 
 Sadikhov.com considers the privacy of its Users to be a serious issue. Please read the following to learn more about our Privacy Policy.
 
@@ -49,4 +49,4 @@ We limit employee access to your personal information to those employees who we 
 CHANGES TO THIS PRIVACY POLICY  
 Sadikhov.com may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Sadikhov.com Account or by placing a prominent notice on our Web Site  
 PRIVACY SUPPORT AND CONTACT INFORMATION  
-If you have questions or suggestions, please complete a feedback form online at <http://www.sadikhov.com/contacts.php> or contact us by e-mail: contact@sadikhov.com
+If you have questions or suggestions, please complete a feedback form online at <http://www.sadikhov.com/contacts.php> or contact us by e-mail: admin@sadikhov.com
