@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joy69.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228173745id_/http%3A//joy69.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joy69.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208142450id_/http%3A//www.joy69.com/privacy.php) for the most accurate reproduction.*
 
-# Joy69.com // Privacy Policy
+# Porn Tube, Sex Movies - Joy69.com // Privacy Policy
 
 How we use the info
 
