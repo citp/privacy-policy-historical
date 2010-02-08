@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliateprofitsclub.com privacy policy that was archived on 2009-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090726121413id_/http%3A//www.affiliateprofitsclub.com/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliateprofitsclub.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209005115id_/http%3A//www.affiliateprofitsclub.com/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
