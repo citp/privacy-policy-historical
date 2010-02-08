@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acnenomore.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624033613id_/http%3A//www.acnenomore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acnenomore.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208075510id_/http%3A//www.acnenomore.com/privacy.html) for the most accurate reproduction.*
 
 # Acne No More™- Privacy
 
