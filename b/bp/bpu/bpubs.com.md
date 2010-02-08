@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bpubs.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530055323id_/http%3A//www.bpubs.com/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bpubs.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208031842id_/http%3A//www.bpubs.com/policy/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -52,5 +52,3 @@ If you have any questions about this privacy statement, the practices of this si
 > **_8134 Crosby St._**   
 > **_Mission, B.C._**   
 > **_admin@bpubs.com_**
-
-_* Thanks to our[Vancouver Canada Law Firm Clark Wilson LLP](http://www.cwilson.com/) for their guidance in drafting this policy._
