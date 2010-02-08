@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearsonhighered.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830054733id_/http%3A//www.pearsoned.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonhighered.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208130814id_/http%3A//www.pearsoned.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Pearson Education: Privacy Policy
 
@@ -47,6 +47,8 @@ We may disclose a Child's Personally Identifiable Information if we have reason 
 Our Site uses "cookies" to obtain certain types of information when your Web browser accesses the Site, Cookies are textual identifiers that our systems transfer to your computer's hard drive through your Web browser to enable our Site to recognize your browser, and to optimize and sometimes custimize your use of our Site. If you want to disable cookies, you can. The Help portion of the toolbar on most browsers and "add-on" programs will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. It is your choice, but cookies allow you to take full advantage of this Site's features, and we recommend that you leave them turned on.
 
 We do not use cookies to get users' Personally Identifiable Information before a user registers with our Site and affirmatively opts-in. Once a user opts-in and and provides personal information for purposes of receiving more information from us, we do collect and use that information obtained through the cookie technology for purposes of marketing to you, in accordance with this policy. If you do not want to receive e-mail or other marketing communications from us, you can opt out of further marketing to the addresses you have provided.
+
+In connection with cookies we may use web beacons to track response rates to certain email communications that a user has opted to receive from us. If a user has registered with our Site, we may collect certain personal information in connection with the web beacon including the referring email address. This information is not shared with third parties. 
 
 Pearson reserves the right to monitor your use of the site to determine if you are complying with our terms and the right, in its sole discretion, to terminate your access to the Site,
 
