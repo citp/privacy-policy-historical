@@ -1,77 +1,91 @@
-> *The following text is extracted and transformed from the databasejournal.com privacy policy that was archived on 2009-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090331233744id_/http%3A//www.webmediabrands.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the databasejournal.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208180913id_/http%3A//www.internet.com/Internetcom/Door/41186) for the most accurate reproduction.*
 
-# WebMediaBrands Privacy Policy
+# Privacy
 
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for the WEBM Network. The "WEBM Network" includes all Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned or operated by WEBMediaBrands Corporation and each of its wholly-owned subsidiaries (collectively the "Site") home page (collectively hereafter "WEBM"). By accessing the WEBM Network, you are consenting to the information collection and use practices described in this Privacy Policy. 
+[](http://www.internet.com/)
 
-We promise that we will use your personal information only in ways that are compatible with this Privacy Policy as follows: 
+**Company Practices Regarding Your Privacy**  
+We at QuinStreet, Inc. and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any information you share with us by using our web sites. 
 
-**What information are you collecting and how are you collecting it?**
+QuinStreet has established the following Online Privacy Policy so that you can understand the care with which we intend to treat your information. This policy describes the overall privacy practices of QuinStreet regarding information we collect on our network of web sites and through our other Internet advertising mediums, including but not limited to email, newsletters, and leave-behinds. This policy does not apply to the practices of companies that QuinStreet does not own or control, or to people that QuinStreet does not employ. 
 
-**Do you collect IP addresses?**  
-Every computer connected to the Internet is given a domain name and a set of numbers that serve as that computer's "Internet Protocol" IP address. When a visitor requests a page from any Web site within the WEBM Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our Sites. We use this information to examine our traffic in aggregate, and to investigate misuse of the WEBM Network, its users, or to cooperate with law enforcement. We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors. 
+**Your California Privacy Rights**  
+California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. 
 
-  
-What are cookies?   
-From time to time, WEBM or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of WEBM's Network you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our Site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended. 
+If you are a California resident you may request this information from QuinStreet or any of its affiliates by writing to us via email at [info@quinstreet.com](mailto:info@quinstreet.com) or you may send us correspondence at the following address: QuinStreet, Attn: Privacy, 1051 E. Hillsdale Blvd, 8th Floor, Foster City, CA 94404. QuinStreet is not obligated to respond to more than one such request from a customer per calendar year. 
 
-**How do you use single-pixel gifs?**  
-WEBM, its third party service providers and advertisers may use single-pixel gif images, sometimes referred to as web bugs or Web beacons, to count Web page accesses and gather some general statistical information. WEBM does not gather personal information through the use of these images. Our advertisers and third party providers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer. WEBM also uses various third party providers to track and analyze non-personally identifiable aggregate usage information from visitors to our Web sites in order to continuously improve the quality of our sites and services to you. 
+**Information Collected by QuinStreet**  
+_Non-Personally Identifiable Consumer Information_
 
-**What personal information do you collect?**  
-Wherever WEBM collects personal information we make an effort to include a link to this Privacy Policy. We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. The personal information we collect may include your name, title, company or organization name, e-mail address, phone number, work or home address, information about your job function, information about your company, and credit card information. 
+QuinStreet collects various types of information from you to better meet your needs and to provide you with a more relevant user experience. Some of this information is collected automatically through cookies (a small text file placed on your computer) or other Internet tracking technologies. The type of information your browser or Internet session may automatically provide us with can include the browser you are using, your Internet domain, the operating system on your computer, your IP address and the URL you saw just before coming to the QuinStreet site, the pages of the site you visited and the URL of the page you visited upon leaving the site. 
 
-We may request your e-mail address or mailing address for the purposes of conducting a contest or to provide additional services (for example, subscriptions to announcement lists or information about conferences and trade shows). Participation in contests or other promotions on the WEBM Network is completely voluntary and you have a choice whether or not to disclose personal information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. 
+QuinStreet may also contract with reputable third-party advertising companies to serve ads on our behalf. These companies may also use cookies or other measures to collect your non-personally identifiable information. 
 
-If you are purchasing something on the WEBM Network, we, and any third party provider, need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us, or third party providers, to process and fulfill your order and to notify you of your order status. Credit card and e-mail information will not be shared or sold to third parties for any purpose except as provided in this Privacy Policy without your express permission. 
+_Personally Identifiable Consumer Information_
 
-WEBM also offers access to some services that require registration. We may use your registration contact information to send notification to you of products and services by e-mail and/or postal mail. We may share that information with our clients and they may also send you promotional materials. We may also use your IP address internally and share it with third parties. 
+In addition, at some of the QuinStreet web sites, we collect information that you may choose to provide to us when requesting additional information from us or from one or more of our clients. Examples of personally identifiable data that you may provide to us include name, address, and email address. If you provide personally identifiable data to us, you may later elect to have your information deleted from our files, or kept from being used for purposes other than for the service requested, by following the opt-out procedures set forth below. 
 
-When you sign up for a WEBM e-mail newsletter, you are given the opportunity to sign up for targeted third-party mailings. Whether or not you want to receive these announcements is your choice. If you choose to receive an announcement from a specific distribution list, you will receive commercial messages from independent third parties that have contracted with WEBM to send messages to the list. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list by forwarding the announcement list to [announcementlist@WEBMediaBrands.com](mailto:announcementlist@WEBMediaBrands.com) or by following the instructions on the e-mails you receive. 
+You may post your resume on our web sites. If you choose to do this, you are providing personally identifiable information to us. You may choose to allow your resume to be searchable by employers and staffing companies. While we intend that only employers or staffing companies will gain access to our database of resumes, we cannot guarantee that others will not gain access. In addition, we are not responsible for the privacy and data use policies of third parties who access your resume. 
 
-When you sign up for a WEBM discussion forum, your name or alias is recorded solely for purposes of maintaining your own account within the forums. This information is not used to monitor your activity within a forum, nor is it used to identify you outside the WEBM network. 
+**How Collected Information is Used**  
+The non-personally identifiable information that QuinStreet collects is used for marketing and sales efforts to better target advertisements and other content in an effort to create a more personally relevant experience. The information is also used to predict responses to advertisements, and to help determine which ads perform best and which content is most appropriate for different individuals. 
 
-When you use co-branded services, or those provided by a third party, within the WEBM Network, your information may be passed to the co-brand or third party provider and their use of your information is subject to their applicable privacy policies. 
+If you elect to provide QuinStreet with personally identifiable information, we may utilize such information for marketing purposes, and this use may result in follow-up communications from QuinStreet and from our clients. In addition, that information may be combined with information collected from other sources to assist with targeting ads to your preferences and behaviors, and for other QuinStreet sales and marketing efforts. The resume information you may elect to provide is used as part of our job board services and will be made available third parties if you so elect as described elsewhere in this policy. 
 
-We may from time to time send e-mail announcing new products and services. If you choose to supply your postal address in an online form, you may receive postal mailings from WEBM or third party companies. 
+**Sharing Information with Third Parties**  
+All personally identifiable information you provide is maintained in confidence by QuinStreet. There are instances, however, in which your personally identifiable and non-personally identifiable information is shared with third parties, as described below. 
 
-**Will you disclose the information you collect to outside third parties?**  
-WEBM will disclose personal information and/or an IP address: 
+If you post your resume on the web sites and elect to permit it to be searched by employers and staffing agencies, your resume and the personally identifiable information it contains will be accessible to them. While it is our goal that only employers or staffing agencies will gain access to resume data, we cannot guarantee that no other persons or entities will gain such access. 
 
-1) To contact you regarding other products and services which may be of interest to you (including those we may offer jointly with other companies). At any time, however, you may opt out of such contact;   
-2) When required by law or in the good-faith belief that such action is necessary to:   
-   a) Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on WEBM;   
-   b) Protect and defend the rights or property of the WEBM Network of sites and related properties, or visitors to the WEBM Network of sites and related properties;   
-   c) Identify persons who may be violating the law, the WEBM legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the WEBM Network or its related properties;   
-   d) Fulfill a user's order or request;   
-3) To process and fulfill your order or notify you of order status;   
-4) When we have your consent to share the information;   
-5) When you use co-branded services within our network of sites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. 
+Your non-personally identifiable data may be shared with third-party partners of QuinStreet on an anonymous basis. 
 
+When you request information from QuinStreet or one or more of our clients, we may transfer that information within QuinStreet or route your information to our client(s), across borders and from your country or jurisdiction to other countries or jurisdictions around the world, so that they may provide the information on their product or service that you requested. 
 
-We maintain a strict "No-Spam" policy that means that we do not sell, rent, or otherwise give your e-mail address to a third-party, without your consent or as permitted by this Privacy Policy. 
+We may also disclose information to a third party who provides substantially similar services as the original service about which you requested more information. In such situations, we will provide you with an opportunity to opt-out of such sharing. Please be aware that QuinStreet is very careful in selecting companies with whom it does business. 
 
-**What else should I know about my privacy when online?**  
-WEBM may use third-party advertising companies and advertising networks to serve ads to you based on information (not including your name, address, email address or telephone number) about your visits to our Web sites in order to provide targeted advertisements about goods and services that may be of interest to you while visiting other Web sites. 
+In addition to the above situations where your information may be shared with others, there is also the possibility that QuinStreet, or part(s) of the company, may one day be purchased by, or merged with, another company. In the event of such transaction, the acquiring (or merging) company will have access to all collected personally identifiable information. 
 
-The WEBM Network contains many hyperlinks to third party Web sites. The WEBM Network also contains advertisements of third parties. WEBM is not responsible for the privacy practices or the content of such third party Web sites or advertisers. WEBM does not share any of the individual personal information you provide WEBM with the third parties to which WEBM links, except as stated elsewhere within this Privacy Policy, although WEBM may share general, aggregate data with such third parties (such as how many people use our Site). Please check with those Web sites to determine their privacy policy. 
+Finally, QuinStreet may share your information as necessary to comply with a court order or to cooperate with government and law enforcement officials. 
 
-If you use WEBM's discussion threads, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these discussion threads. In order to avoid your e-mail address or other personal information from being gathered and used by others for inappropriate or harmful purposes, WEBM advises that you should be cautious about posting a real e-mail address or other personal information to newsgroups, chats, or other public forums. 
+**Security**  
+Wherever your personally identifiable information may be held within QuinStreet or on its behalf, we intend to take reasonable and appropriate steps to protect the information you shared with us from unauthorized access or disclosure. Please note that while QuinStreet will make every reasonable effort to protect your information, no transmission of data over the Internet is 100% secure. 
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
+**Choice**  
+_Non-Personally Identifiable Consumer Information - Use of Cookies & Opting-Out_
 
-Certain WEBM media properties use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other WEBM media properties do not use SSL and thereby do not offer a secure coded way to transfer information. 
+Some of our web sites utilize cookies to collect information about your website activities and to recall the personal information you previously shared with us. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. 
 
-Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online. 
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. Blocking cookies may result in a lower quality experience for you while you are visiting QuinStreet web sites. 
 
-**Business transfers**  
-We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may sell a company, assets or Web sites or one or more of the companies in our corporate family may merge with, or be acquired by, another company. In connection with the foregoing, we may transfer some or all of your information in order that the service being provided to you may continue or for other business purposes. 
+_Personally Identifiable Consumer Information - Opting-Out_
 
-**Your Consent To This Agreement**  
-By using the WEBM Network, you consent to the collection and use of information by WEBM as specified above. We reserve the right to modify this Policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+You may choose whether or not to provide personally identifiable information to QuinStreet. If you choose to provide such information to QuinStreet, you have the right to tell us not to make some of the uses of such information described herein or may have such information deleted in its entirety. If you no longer wish to receive our newsletters, surveys or promotional communications via email, you may opt-out by clicking here and following the instructions to unsubscribe. To have your personal information completely removed from our databases, simply contact us at [info@quinstreet.com](mailto:info@quinstreet.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. Once we receive your instruction, we will promptly take corrective action. 
 
-Please send any questions about WEBM's Privacy Policy to: [mailto:privacy@WebMediaBrands.com](mailto:privacy@WebMediaBrands.com)
+**Access/Accuracy**  
+To the extent that you do provide us with personally identifiable information, QuinStreet wishes to maintain the accuracy of this information. Where we collect personally identifiable information from you on the Web, our goal is to provide a means of contacting QuinStreet should you need to update or correct that information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your personally identifiable information to [info@quinstreet.com](mailto:info@quinstreet.com) and we will make reasonable efforts to incorporate the changes in the information that we hold as soon as practicable. 
 
-Please note that your use of the WEBM network of Web sites is governed by our [Legal Notice](http://www.webmediabrands.com/corporate/legal.html). 
+**Children's Privacy**  
+In compliance with the Children's Online Privacy Protection Act (COPPA), QuinStreet.com is not structured to attract children. Accordingly, we do not intend to collect personally identifiable information from anyone we know to be under 13 years of age. Users under the applicable legal minimum age to work may not submit their resumes to the web sites. 
 
-(Revised February 23, 2009) 
+**Refer a Friend**  
+Some of QuinStreet's web sites offer you the opportunity to easily notify a friend of the offer or information promoted on the site. If you choose to use our referral service to tell a friend about a QuinStreet site, we will ask you for your friend's personally identifiable information, including name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. QuinStreet stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
+
+Your friend may contact us at [info@quinstreet.com](mailto:info@quinstreet.com) to request that we remove this information from our database. Our one-time email to your friend will inform him or her of this fact. 
+
+**Commitment**  
+Protecting your privacy online is an evolving area, and QuinStreet's web sites are constantly changing to meet these demands. 
+
+If you have any comments or questions regarding our Online Privacy Policy, please contact us at [info@quinstreet.com](mailto:info@quinstreet.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as practicable after you bring it to our attention. 
+
+**Your Consent**  
+By using this web site, you consent to the terms of our Online Privacy Policy and to QuinStreet's processing of personally identifiable information for the purposes given above. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time and by amending this privacy policy. 
+
+**Contacting Us**  
+For more information, or if you have questions or concerns regarding QuinStreet's Privacy Policy, you may email us at [info@quinstreet.com](mailto:info@quinstreet.com) or you can send correspondence to the following address: 
+
+> Privacy  
+>  QuinStreet, Inc.  
+>  1051 E. Hillsdale Blvd, 8th Floor  
+>  Foster City, CA 94404
+
+Date: November 30, 2009 
