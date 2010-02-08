@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenzuu.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620065242id_/http%3A//www.zenzuu.com/signup/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenzuu.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208215046id_/http%3A//www.zenzuu.com/signup/privacy.aspx) for the most accurate reproduction.*
 
 # ZenZuu.com | Make Friends. Make Money. Make Sense.
 
@@ -191,10 +191,6 @@ Advertise with ZenZuu Today!
 
   
   
-  
-Find Out More About ZenZuu!  
-  
----  
   
   
 
