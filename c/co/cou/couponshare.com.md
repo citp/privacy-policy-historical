@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponshare.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429004727id_/http%3A//www.couponshare.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponshare.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209060704id_/http%3A//www.couponshare.com/privacy.asp) for the most accurate reproduction.*
 
 # CouponShare.com Privacy Policy - coupons, coupon codes, bargains, deals, free shipping, online shopping, discounts, online coupons, online discounts.
 
@@ -10,7 +10,7 @@ For each visitor to our Web page, our Web server collects only the domain name, 
 
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page and not shared with other organizations for commercial purposes.
 
-We do not set any cookies, but our merchants do for tracking purposes only. Merchant web sites may be preloaded when visiting pages on our web site. We partner with and have special relationships with ad server companies for the purpose of advertising this web site.
+We do not set any cookies, but our merchants do for tracking purposes only. Merchant web sites may be preloaded when visiting pages on our web site. We partner with and have special relationships with ad server companies for the purpose of advertising this web site. When you click on a link you might open a window to the advertiser site or redirect in the current window to the advertiser site.
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward.
 
