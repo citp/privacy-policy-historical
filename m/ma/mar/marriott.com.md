@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marriott.com privacy policy that was archived on 2009-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090326081811id_/http%3A//www.marriott.com/privacy.mi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriott.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209062222id_/http%3A//www.marriott.com/privacy.mi) for the most accurate reproduction.*
 
 # View information on the Marriott corporation, including our internet privacy policy
 
@@ -27,7 +27,7 @@ When we need to collect personally identifiable information from you to provide 
 
 4) send you periodic satisfaction or market research surveys. 
 
-You can opt out of marketing emails at any time. You can also opt out of Marriott research surveys. The same types of information would be requested to complete a gift certificate purchase, register for a Marriott Rewards promotion, enter a sweepstakes or online game, to enroll in the [Marriott Rewards program](https://web.archive.org/web/20090326081811id_/http%3A//www.marriott.com/privacy.mi#Question4) or to redeem Marriott Rewards points. On occasion, we use third parties to provide us with additional contact information about you given the information you provided to us directly. For example, if we know your name and postal address, we may use a third party to provide us with your email address. We would then use this information for market analysis and marketing purposes.   
+You can opt out of marketing emails at any time. You can also opt out of Marriott research surveys. The same types of information would be requested to complete a gift certificate purchase, register for a Marriott Rewards promotion, enter a sweepstakes or online game, to enroll in the [Marriott Rewards program](https://web.archive.org/web/20100209062222id_/http%3A//www.marriott.com/privacy.mi#Question4) or to redeem Marriott Rewards points. On occasion, we use third parties to provide us with additional contact information about you given the information you provided to us directly. For example, if we know your name and postal address, we may use a third party to provide us with your email address. We would then use this information for market analysis and marketing purposes.   
   
 Back to top  
   
