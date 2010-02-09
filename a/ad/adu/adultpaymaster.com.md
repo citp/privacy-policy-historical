@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultpaymaster.com privacy policy that was archived on 2007-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070815033807id_/http%3A//www.adultpaymaster.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultpaymaster.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209030937id_/http%3A//www.adultpaymaster.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Adult Pay Master
 
@@ -9,7 +9,7 @@
 
 A. Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence. 
 
-B. We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how TJ Web Productions, LLC, d/b/a Adult Paymaster ("Adult Paymaster") collects information from all end users-those who access some of Adult Paymaster's Internet services (the "Services") but do not have accounts ("Visitors") as well as those who subscribe to the Services ("Affiliates")-what we do with the information we collect, and the choices Visitors and Affiliates have concerning the collection and use of such information. Adult Paymaster requests that you read this Privacy Policy carefully. 
+B. We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how TM Titan Media Solutions Ltd, d/b/a Adult Paymaster ("Adult Paymaster") collects information from all end users-those who access some of Adult Paymaster's Internet services (the "Services") but do not have accounts ("Visitors") as well as those who subscribe to the Services ("Affiliates")-what we do with the information we collect, and the choices Visitors and Affiliates have concerning the collection and use of such information. Adult Paymaster requests that you read this Privacy Policy carefully. 
 
 **II. Revisions to this Policy**
 
