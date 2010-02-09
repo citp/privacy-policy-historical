@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the plurk.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207181515id_/http%3A//www.plurk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plurk.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209051728id_/http%3A//www.plurk.com/privacy) for the most accurate reproduction.*
 
-# Your life, on the line - Plurk.com
-
-## Plurk Privacy Policy
+# Plurk Privacy Policy
 
 #### What This Privacy Policy Covers
 
@@ -32,10 +30,10 @@
   * When you register we will ask for your email address, your name, your gender and other optional information such as your birth date, birth place, location, address, cell phone number, ICQ/AIM/Yahoo/MSN user name, and personal interests. 
   * Plurk also automatically receives and records information on our server logs from your browser, including your IP address, a cookie, and the page you request. 
   * This information is typically used for general purposes: service communication, identification, authentication, service improvements, contact coordination, research, thwarting malicious use and anonymous reporting. 
-  * Plurk may send registered users infrequent opt-in newsletters informing of major service improvements, upgrades, or other pertinent announcements affecting our users and the Plurk community. You may unsubscribe to this mailing list at any time directly from within the newsletter, under the notifications tab in your account or by sending an email to [unsubscribe@plurk.com](mailto:unsubscribe@plurk.com). Unsubscribe requests are honoured within 10 days. 
+  * Plurk may send registered users infrequent opt-in newsletters informing of major service improvements, upgrades, or other pertinent announcements affecting our users and the Plurk community. You may unsubscribe to this mailing list at any time directly from within the newsletter, or under the notifications tab in your account. Unsubscribe requests are honoured immediately. 
   * You will only receive transactional email related to the activities you engage on Plurk. (ie. registration confirmations, unsubscribe requests, prod requests, notifications of new private messages, confirmation of account setting changes, notification of new friend requests) You are free to change your email notification settings at anytime from within your account options and notifications page. 
   * If you are using the SMS option on Plurk, Plurk automatically receives and records information on its server from the software including your mobile network operator, cell phone ID, city, country and whether your are currently using your phone or your phone is idle. 
-  * You may opt-in to use our peer-initiated process to invite friends to Plurk by sending them email invitation requests.  Only one automated invitation email follow-up  is ever sent to individuals who are invited to use Plurk through a peer initiated process.  We do not store the email addresses of unregistered users on our service. All invited parties have the option of globally removing themselves from receiving any future invites initiated by other peers on the Plurk service in the future by opting-out from directly within the invitation email or sending a request to [unsubscribe@plurk.com](mailto:unsubscribe@plurk.com)
+  * You may opt-in to use our peer-initiated process to invite friends to Plurk by sending them email invitation requests.  Only one automated invitation email follow-up  is ever sent to individuals who are invited to use Plurk through a peer initiated process.  We do not store the email addresses of unregistered users on our service. All invited parties have the option of globally removing themselves from receiving any future invites initiated by other peers on the Plurk service in the future by opting-out from directly within the invitation email. 
 
 
 
