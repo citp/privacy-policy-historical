@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dimesaledollars.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616152936id_/http%3A//www.dimesaledollars.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dimesaledollars.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209065412id_/http%3A//www.dimesaledollars.com/terms/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for SOFTWARE-EBOOKS.NET
 
