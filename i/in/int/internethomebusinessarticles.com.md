@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internethomebusinessarticles.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618192130id_/http%3A//www.internethomebusinessarticles.com/01privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internethomebusinessarticles.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209022027id_/http%3A//www.internethomebusinessarticles.com/01privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
