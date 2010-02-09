@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lionbrand.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504112247id_/http%3A//www.lionbrand.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lionbrand.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209115357id_/http%3A//www.lionbrand.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Lion Brand Yarn Company
 
-|  |  |   
+Skip Navigation |  |  |   
 ---  
   
 |   
@@ -42,7 +42,7 @@ Lion Brand Yarn uses your information to better understand your needs and to pro
   
 ##### Who we share it with  
   
-Lion Brand Yarn will not sell, rent, or lease your email address to others. If you request a catalog or purchase directly from us, we may rent your name and address to a few, carefully selected companies who send out catalogs or magazines we believe may be of interest to you. Please contact customer service at 800 661 7551 if you do not want your name made available for rental.  
+Lion Brand Yarn will not sell, rent, or lease your email address to others. If you supply your email address on a page that is co-branded with one of our business partners, that partner will also receive your email address and may use it in a manner consistent with their own business practices and privacy policies. You can view your personal information at any time in our website and remove yourself from any e-mailing list. If you request a catalog or purchase directly from us, we may rent your name and address to a few, carefully selected companies who send out catalogs or magazines we believe may be of interest to you. Please contact customer service at 800 661 7551 if you do not want your name made available for rental or if you need help removing your information from any mail or e-mail list.  
     
   
 ##### Choice  
