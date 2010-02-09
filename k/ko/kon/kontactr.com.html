@@ -1,82 +1,96 @@
-<!--The following is the downloaded HTML source of the kontactr.com privacy policy that was archived on 2009-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617192207id_/http%3A//kontactr.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kontactr.com privacy policy that was archived on 2010-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100209010152id_/http%3A//kontactr.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
-<title>Kontactr - free personal contact forms...</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<base href="http://kontactr.com/">
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	
+	<title>Kontactr</title>
+	<meta name="Description" content="Kontactr is a free one-click contact form service that allows you to create your own free contact form so that people can contact you without knowing your email address.">
+	<meta name="Keywords" content="free contact form, free contact forms, contact form, contact forms, email form, php contact form, contact us form, create contact form, email contact form, web contact form, simple contact form, service contract form, ajax, wordpress">
 
-<meta name="Description" content="Kontactr is a free one-click contact form service that allows you to create your own free contact form so that people can contact you without knowing your email address.">
+	<link href="css/style.css" media="screen" rel="stylesheet" type="text/css">
+	<!--<link href="css/nyroModal.css" media="screen" rel="stylesheet" type="text/css" />-->
+	
+	<script src="js/jquery.js" type="text/javascript"></script>
 
-<meta name="Keywords" content="free contact form, free contact forms, contact form, contact forms, email form, php contact form, contact us form, create contact form, email contact form, web contact form, simple contact form, service contract form, ajax, wordpress">
+	<!--<script src="js/jquery.corners.js" type="text/javascript"></script>-->
+	<script src="js/jquery.innerfade.js" type="text/javascript"></script>
+	<script src="js/jquery.pngFix.pack.js" type="text/javascript"></script>
+	<!--<script src="js/jquery.colorbox-min.js" type="text/javascript"></script>-->
+	<!--<script src="js/jquery.nyroModal.pack.js" type="text/javascript"></script>-->
+	<script src="js/jquery.validate.pack.js" type="text/javascript"></script>
+	<script src="js/cufon-yui.js" type="text/javascript"></script>
+	<script src="js/Fontin_Sans_Rg_400-Fontin_Sans_Rg_700-Fontin_Sans_Rg_italic_400-Fontin_Sans_Rg_italic_700.font.js" type="text/javascript"></script>
 
-<base href="http://kontactr.com/">
+	<script type="text/javascript">
+		Cufon.replace('h2');
+	</script>
 
-<script src="libs/prototype.js" type="text/javascript"></script>
-<script src="libs/scriptaculous.js" type="text/javascript"></script>	
+	<script src="js/custom.js" type="text/javascript"></script>
+	
+	<script type="text/javascript">
+	function createRequestObject() {
+		var ro;
+		var browser = navigator.appName;
+		if(browser == "Microsoft Internet Explorer"){
+			ro = new ActiveXObject("Microsoft.XMLHTTP");
+		}else{
+			ro = new XMLHttpRequest();
+		}
+		return ro;
+	}
 
-<script language="javascript">
-function createRequestObject() {
-    var ro;
-    var browser = navigator.appName;
-    if(browser == "Microsoft Internet Explorer"){
-        ro = new ActiveXObject("Microsoft.XMLHTTP");
-    }else{
-        ro = new XMLHttpRequest();
-    }
-    return ro;
-}
+	var http = createRequestObject();
 
-var http = createRequestObject();
+	function sendemail(t, u) {
 
-function sendemail(t, u) {
+		http.open('get', 'form_activate.php?t='+t+'&u='+u+'');
+		http.onreadystatechange = handleResponse;
+		http.send(null);
 
-    http.open('get', 'form_activate.php?t='+t+'&u='+u+'');
-    http.onreadystatechange = handleResponse;
-    http.send(null);
+	}
 
-}
+	function handleResponse() {
+		if(http.readyState == 4){
+			var response = http.responseText;
+			var update = new Array();
 
-function handleResponse() {
-    if(http.readyState == 4){
-        var response = http.responseText;
-        var update = new Array();
-
-        if(response.indexOf('|' != -1)) {
-            update = response.split('|');
-alert("Check: ID="+update[0]+" inner="+update[1]);
-         
-        }
-    }
-}
-</script>
-
-<link href="default.css" rel="stylesheet" type="text/css">
-<link href="style.css" rel="stylesheet" type="text/css">
-
+			if(response.indexOf('|' != -1)) {
+				update = response.split('|');
+	alert("Check: ID="+update[0]+" inner="+update[1]);
+			 
+			}
+		}
+	}
+	</script>
 </head>
 <body>
-
-<div id="header">
-
-	<a href="index.php"><img src="images/logo.jpg" style="float: left;"></a>
-	<div id="menu">
-		<ul>
-
-			<li><a href="http://kontactr.com/">home</a></li>
-			<li><a href="http://kontactr.com/login/">login</a></li>
-			<li><a href="http://kontactr.com/signup/">sign up</a></li>
-			<li><a href="http://kontactr.com/faq/">faq</a></li>
-			<li><a href="http://kontactr.com/user/kontactr">contact</a></li>
-		</ul>
-	</div>
-</div>
-
-<!-- end #header -->
-<div id="page"><div id="content">
-
-
-
-
+	<div id="wrap-top"></div>
+	<div id="wrap">
+		<div id="header">
+			<div id="logo">
+				<a href="http://kontactr.com/"><img src="img/logo.gif" alt="Kontactr"></a>
+			</div>
+			<div id="navigation">
+				<ul>
+										<li><a href="">home</a></li>
+					<li><a href="login/" class="loginLink">login</a></li>
+					<li><a href="signup/">sign up</a></li>
+					<li><a href="faq/">faq</a></li>
+					<li><a href="user/kontactr">contact</a></li>
+									</ul>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div id="loginForm">
+			<form method="post" action="login.php">
+			<label for="slideUsername">Username</label> : <input type="text" name="username" id="slideUsername"> <label for="slidePassword">Password</label> : <input type="password" name="password" id="slidePassword"> <input type="submit" name="login" value="Login" class="button"><a href="forgot-password/">Forgot password ?</a>
+			</form>
+		</div>
+		<div id="content"><div id="main">
+<h2>Privacy Policy</h2>
 <p>We are committed to safeguarding the privacy of our website visitors. This policy sets out how we will treat your personal 
 
 information.</p>
@@ -187,15 +201,64 @@ occasionally to ensure you are happy with any changes.</p>
 
 <a href="http://kontactr.com/user/kontactr">http://kontactr.com/user/kontactr</a></p>
 
-
-</div></div>
-<!-- end #page -->
-<div id="footer">
-
-	<p align="center" id="legal"><a href="http://kontactr.com/privacy/">Privacy Policy</a>  |  <a href="http://kontactr.com/terms/">Terms of Use</a>  |  Copyright © 2007-09 <a href="http://kontactr.com">Kontactr</a></p>
-
 </div>
+						<div id="sidebar">
+				<h2>What others say :</h2>
+				<div id="quotes">
+					<div>
+						<div>Using Kontactr is a real breeze! I recommend Kontactr to all my blog patients</div>
+						<div class="author"> - <a href="http://www.blogdoctor.me/">The Blog Doctor</a></div>
+					</div>
+					<div>
+						<div>All in all, I have to say that using Kontactr is a piece of cake.</div>
+						<div class="author"> - <a href="http://jeffc.me/easy-to-use-contact-forms-via-kontactr">Jeff Chandler</a></div>
+					</div>
+				</div>
+				<div class="features">
+					<h2>Features</h2>
+					<ul>
+						<li>Clean and Simple</li>
+						<li>Secure, CAPTCHA Protection</li>
+						<li>Customizable, to match your website</li>
+						<li>Best of all, its <span class="free">free</span></li>
+					</ul>
+				</div>
+			</div>
+			<div class="clear"></div>
+					</div>
+	</div>
+	<div id="footer">
+		<div class="left">
+			<ul class="left">
+				<li><a href="">Home</a></li>
+				<li><a href="faq/">Faq</a></li>
+				<li><a href="user/kontactr/">Contact</a></li>
+								<li><a href="login/" class="loginLink">Login</a></li>
+				<li><a href="signup/">Sign up</a></li>
+							</ul>
 
+			<ul class="left">
+				<li><a href="http://kontactr.crowdsound.com/suggestions">Feedback</a></li>
+				<li><a href="advertise/">Advertise</a></li>
+				<li class="last"><a href="http://twitter.com/kontactr">Twitter</a></li>
+			</ul>
+
+			<ul class="left">
+				<li><a href="forgot-password/">Forgot Password ?</a></li>
+				<li><a href="resend/">Resend Activation Mail</a></li>
+				<li><a href="/privacy/">Privacy Policy</a></li>
+				<li class="last"><a href="terms/">Terms of use</a></li>
+			</ul>
+			
+			<div class="left" id="copyright">Copyright © 2007-09 Kontactr</div>
+		</div>
+		<div class="right" style="text-align: right;">
+			<div><a href="http://gotchance.com/"><img src="img/gotchance.png" alt="GotChance" class="gotchance"></a></div>
+			<div style="margin-top: 20px;"><a href="http://firefox.com/"><img src="http://sfx-images.mozilla.org/affiliates/Buttons/firefox3/FF3b80x15_square.gif" alt="Firefox" class="gotchance"></a></div><a href="http://firefox.com/">
+		</a></div><a href="http://firefox.com/">
+		<div class="clear"></div>
+	</a></div><a href="http://firefox.com/">
+	<div id="wrap-bottom"></div>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
@@ -203,5 +266,4 @@ _uacct = "UA-1247135-5";
 urchinTracker();
 </script>
 
-
-</body></html>
+</a></body></html>
