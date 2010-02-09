@@ -1,63 +1,112 @@
-> *The following text is extracted and transformed from the isites.us privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111191309id_/http%3A//beta.genwi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isites.us privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209024136id_/http%3A//isites.us/legal/privacy) for the most accurate reproduction.*
 
-# Genwi - Privacy Policy
+# iSites – Privacy Policy
 
-Genwi, LLC ("Genwi") recognizes that your privacy and the protection of your personal information is important to you and is committed to protecting your privacy. This Privacy Policy describes the measures taken by us to protect your privacy in connection with your use of www. genwi.com (our "Site").
+This Privacy Policy is effective as of and was last updated on January 15, 2010.
 
-**This policy was last modified on April 10, 2007.**
+  * ### General.
 
-PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY USING THIS SITE, YOU AGREE TO THE TERMS OF THIS POLICY.
+This privacy policy (this "Privacy Policy") is designed to inform you about the type of information that Genwi Corporation ("we," "us," or "our") may gather or collect from you in connection with your use of this site (this "Site"). It also explains the conditions under which we use and disclose that information, and your rights in relation to that information.
 
-**What information is collected by Genwi:**
+The procedures for modifying or changing this Privacy Policy in the future are discussed in Section 6 of this document. 
 
-When you visit our Site we will recognize and store your IP address. An Internet Protocol ("IP") address is a unique string of numbers that is assigned to your computer by your Internet Service Provider. Web servers automatically identify your computer by its IP address. We use your IP address to gather demographic information and measure traffic to our Site. We also use it to measure the popularity of content contributed and keywords searched on our Site.
+  * ### Children.
 
-Registration is necessary to contribute content to our Site. When you register to become a member of Genwi, we require you to specify a unique ID, your e-mail address (to confirm that you are a valid user), a password, and your date of birth (to verify your age). You must be at least 14 years of age to register with Genwi. You may, at your option, also provide your name, screen name, country of origin, city, zip code, gender, hometown, relationship status, children, sexual orientation, ethnicity, religion, blood type, height, occupation, income, company, education, a description about you, your interests, and a tagline. Supplying this information allows you to take advantage of the social networking features of our Site. 
+This Site is not intended for children under 18 years of age. We do not knowingly collect personal information from children under 18.
 
-In the "My Page" section of our Site, you can view information you submitted during the registration process under "View Profile"; update or provide additional information under "Edit Basic Info", "Edit About Me", and "Add/Edit Pics"; and make your profile private or public under "Account Settings" (your profile is public by default). As a registered user, we detect your presence on our Site by noticing when you login and logout. We also observe the keywords that you search, which content you view, which content you share with other users, as well as when, to help us determine trends and content popularity. In addition, we store the content that you contribute, such as messages, comments, and tags, and when you contributed it as part of offering those features on our Site.
+  * ### Gathering, Use and Disclosure of Non-Personally-Identifying Information.
 
-**Cookies**
+We collect both Non-Personally-Identifying Information and Personally-Identifying Information from you. "Non-Personally-Identifying Information" is information that, without the aid of additional information, cannot be directly associated with a specific person or entity. "Personally-Identifying Information," by contrast, is information such as a name or email address that, without more, can be directly associated with a specific person or entity.
 
-Our Site uses cookies. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. We do not collect any information through cookies. We use a single cookie as a convenience to you to remember your login if you select "remember me" upon logging in. The cookie will be deleted when you log out; otherwise, the cookie will be retained for one year on that local machine. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of other websites you visit.
+    * ###  Gathering Non-Personally-Identifying Information.
 
-**Children's Personally Identifiable Information:**
+      * ### Web Browsers.
 
-Our Site is not directed to children under the age of 14. If a user indicates that he or she is under the age of 14, then he or she will not be permitted to register as a user. If a parent believes that his or her child has provided us with personal information, he or she can contact us via e-mail as listed below. We will promptly delete the information upon learning that it relates to a child under the age of 14.
+Like most site operators, we gather Non-Personally-Identifying Information from you of the sort that web browsers, depending on their settings, may make available. That information includes your Internet Protocol ("IP") address, operating system and browser type, and the locations of the web pages you view right before arriving at, while navigating and immediately after leaving this Site.
 
-**How the information collected is used:**
+      * ### Web Cookies.
 
-Genwi takes the privacy of our users and members very seriously. We will never sell, rent, or otherwise provide your personally identifiable information to any third parties for marketing purposes. However, we may use demographic information collected from you during your use of our Site or during the registration process to direct advertisements from third parties to you while you use our Site.
+A "Web Cookie" is a string of information that a site stores on your computer, and your browser provides to this Site, each time you submit a query to this Site. We may use Web Cookies to track the pages that you visit during each Site session, both to help us improve your experience and to help us understand how this Site is being used. 
 
-Genwi will not use or share your personal information in a manner that differs from what is described in this Privacy Policy without your prior consent.
+IF YOU DO NOT WISH TO HAVE WEB COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR BROWSER TO REFUSE WEB COOKIES BEFORE ACCESSING THIS SITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THIS SITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF WEB COOKIES. IF YOU REFUSE WEB COOKIES, YOU ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY. 
 
-**How your information is protected:**
+      * ### Web Beacons.
 
-Genwi strictly protects the security of the personal information you provide. Personal information we collect is stored in password-controlled servers with limited access, and we carefully protect this information from loss or misuse, and from unauthorized access, disclosure, alteration, or destruction.
+A "Web Beacon" is an object that is embedded in a web page. It is usually invisible to you but allows site operators to check whether you have viewed a particular web page or email communication. We may place Web Beacons on pages of this Site and in emails we send to you.
 
-**When your information may be disclosed:**
+You may not decline Web Beacons. However, they may be rendered ineffective by declining all cookies or modifying your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. 
 
-Genwi may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to:   
-(a) conform to the requirements of the law or comply with legal process served on Genwi or the site;   
-(b) protect and defend the rights or property of Genwi; or   
-(c) act in urgent circumstances to protect personal safety of users of Genwi, its websites, or the public.  
+    * ### Use of Non-Personally-Identifying Information.
+
+We analyze Non-Personally-Identifying Information gathered from users of this Site to help us better understand how this Site is being used. By identifying patterns and trends in usage, we are able to better (i) design this Site to improve your experiences, both in terms of content and ease of use and (ii) improve your apps. We link information gathered using Non-Personally-Identifying Information to Personally-Identifying Information. 
+
+    * ### Disclosure of Non-Personally-Identifying Information.
+
+From time to time, we may also release the Non-Personally-Identifying Information gathered from Site users in the aggregate, such as by publishing a report on trends in the usage of this Site. 
+
+  * ### Collection, Use and Disclosure of Personally-Identifying Information.
+
+As defined above, Personally-Identifying Information is information that can be directly associated with a specific person or entity. We will only collect Personally-Identifying Information that you knowingly submit to us. We will not disclose your Personally-Identifying Information to third parties unless we obtain your permission to do so at the time we collect it, except as set forth below:
+
+    * ### Collecting Personally-Identifying Information from Site Users
+
+      * ### Registration and Other Information Provided to Us.
+
+When you register with this Site, you may be asked to disclose Personally-Identifying Information. You may also choose to submit Personally-Identifying Information to us when you send us an email or use any interactive features and services that we may make available from time to time on this Site. 
+
+      * ### Material You Choose to Reveal in Fora, Blogs, Message Boards or Similar Locations.
+
+You may post Personally-Identifying Information on areas of this Site that may be viewed by other users or the public, although we recommend that you do not do so. We urge you to use good judgment and not post Personally-Identifying Information that you do not want other users to know.
+
+YOU ASSUME ALL RESPONSIBILITY FOR ANY LOSS OF PRIVACY OR OTHER HARM RESULTING FROM YOUR VOLUNTARY DISCLOSURE OF PERSONALLY-IDENTIFYING INFORMATION.
+
+    * ### Use of Personally-Identifying Information
+
+We may use the Personally-Identifiable Information that you submit for any purposes related to our business.
+
+    * ### Disclosure of Personally-Identifying Information
+
+As described in Section 4(A) ("Collecting Personally-Identifying Information from Site Users"), users may, at their option, disclose their own Personally-Identifying Information by any means they choose. We will disclose Personally-Identifying Information in the following circumstances:
+
+      * ###  DMCA Infringement Notifications, Counter Notices, Notices of Violations of Site Terms of Service and Other Communications Directed to Us.
+
+By submitting a Digital Millennium Copyright Act ("DMCA") Infringement Notification, Counter Notice or other communication (including communications about content stored on or transmitted through this Site), you consent to have this communication forwarded to the person or entity who stored or transmitted the content addressed by your communications in order to facilitate a prompt resolution. For notices other than DMCA Infringement Notifications and Counter Notices, upon request, we will edit out your name and contact information. However, DMCA Infringement Notifications and Counter Notices (including any Personally-Identifiable Information set forth in the notifications) will be forwarded as submitted to us without any deletions.
+
+      * ### Surveys.
+
+From time to time, we may also ask you to participate in surveys for our general business and marketing purposes. Any Personally-Identifying Information provided to us in connection with a survey will be used only in relation to that survey, and will be disclosed to third parties not bound by this Privacy Policy only in non-personally-identifying, aggregated form.
+
+      * ###  Contests, Giveaways and other Promotions.
+
+From time to time, we may offer you the opportunity to participate in contests, giveaways and other promotions. Any information submitted in connection with promotions will be subject to the terms of the promotion, not this Privacy Policy. You will be given the option to consent to the use of your Personally-Identifying Information at the time you sign up for the promotion. You will not be required to participate in any promotion.
+
+      * ###  Employees, Third-Parties, Third-Party Service Providers and Third Party Affiliates.
+
+We will disclose Personally-Identifying Information to our employees, contractors, affiliates, distributors, dealers, vendors and suppliers who process Personally-Identifying Information on our behalf, participate with us in the provision or operation of this Site, provide you with services or make potential opportunities available to you.
+
+      * ### By Law, to Protect Rights and to Comply with Our Policies.
+
+We disclose Personally-Identifying information if: (1) required to do so by law, or in response to a subpoena or court order; (2) we believe in our sole discretion that disclosure is reasonably necessary to protect against fraud, to protect the property or other rights of us or other users, third parties or the public at large; or (3) we believe that you have abused the service by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws.
+
+      * ### Business Transfers; Bankruptcy.
+
+We reserve the right to transfer all Personally-Identifying Information in our possession to a successor entity in the event of a merger, acquisition, bankruptcy or other sale of all or a portion of our assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personally-Identifying Information will be subject to this Privacy Policy, or to a new privacy policy if you are given notice of that new privacy policy and you affirmatively opt-in to accept it. Personally-Identifying Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by the successor entity.
+
+      * ### Marketing Communications.
+
+We may email you about products and services that we believe may be of interest to you. We may also provide your Personally-Identifying Information to third parties so that they may contact you about products and services. If you wish to opt-out of receiving marketing materials from us or third parties, please follow the instructions at the bottom of each email for opting out.
+
+      * ### Email a Friend Service.
+
+We may make an email service available to you whereby you may tell a friend about this Site or any of the features, materials or postings on the Site, in which case we will ask you for your name and email address, and your friend's name and email address. We will automatically send your friend a one-time email from your email address with a link to the Site. If your friend replies to this email, the response will be sent to your email address. We store your friend's name and email address only for the purposes of sending this one-time email. 
+
+  * ### Collection and Use of Information by Third Parties.
+
+Third parties are under no obligation to comply with this Privacy Policy with respect to Personally-Identifying Information that you provide directly to those third parties or that those third parties collect for themselves. We do not control the third-party sites that may be accessible through this Site. Thus, this Privacy Policy does not apply to information provided to third-party sites or gathered by the third parties that operate them. Before visiting a third-party site, whether by means of a link on this Site or otherwise, and before providing any Personally-Identifying Information to any third party, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that site, and should take those steps necessary to your discretion, to protect your privacy.
+
+  * ### Privacy Policy Changes.
+
+Because of changes in technology and the growth and development of our business, or for other business reasons, we may need to modify this Privacy Policy from time to time. We will alert you by email if this policy is revised (if you have given us your email address), and we will post a copy of the new policy with its effective date on this Site. It is therefore important that you register with the site and notify us if you change your email address. If you do not provide us with a current email address, you should regularly review this policy to ensure that you are informed of any changes.
 
 
-**Updates to this privacy policy:**
 
-We may occasionally update this Privacy Policy. When we do, we will also revise the "last modified" date at the top of the Privacy Policy. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personal information we collect. Your continued use of the service constitutes your agreement to this Privacy Policy and any updates.
-
-**Sale of assets:**
-
-In the unlikely event that Genwi or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
-
-**Terms of use:**
-
-Please also visit our Terms of Use section establishing the use, disclaimers, and limitations of liability governing the use of our Site at [Terms of Use](http://beta.genwi.com/termsofuse.aspx).
-
-**Third party links:**
-
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. This Privacy Policy only covers our Site and does not cover any other website. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
-
-**Contacting Us:**
-
-We would like to receive your comments and questions about this Privacy Policy and any other matter you have regarding our Site. Please address comments or questions to us via e-mail at: [feedback@genwi.com](http://beta.genwi.com/feedback)
