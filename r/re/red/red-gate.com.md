@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the red-gate.com privacy policy that was archived on 2009-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090709111236id_/http%3A//www.red-gate.com/about/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the red-gate.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209065446id_/http%3A//www.red-gate.com/about/legal.htm) for the most accurate reproduction.*
 
 # Legal information about Red Gate Software
 
@@ -74,6 +74,8 @@ We aim to keep our information about you as accurate as possible. If you would l
 ## User discussion forums
 
 Red Gate may make chat rooms, forums, message boards and/or other news groups available to its users. Any information that is disclosed in these areas becomes public information and you should always be careful when deciding to disclose your personal information.
+
+See information on [accepted use](http://www.red-gate.com/messageboard/profile.php?mode=register&sid=e52cc692b155c24b81f311edd34c79c8) of our forums. 
 
 ## Security
 
