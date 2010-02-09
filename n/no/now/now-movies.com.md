@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the now-movies.com privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826082939id_/http%3A//www.now-movies.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the now-movies.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209141631id_/http%3A//www.now-movies.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Watch Movies Online | Watch Free Movies | Full Length Movies | At Now-Movies.Com
+# Watch Movies Online | Watch Free Movies | Full Movie Downloads | Now-Movies.Com
 
 **Now-Movies.Com Privacy Policy**
 
