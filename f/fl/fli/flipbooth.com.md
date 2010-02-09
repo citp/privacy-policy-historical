@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flipbooth.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209005523id_/http%3A//www.flipbooth.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipbooth.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209114154id_/http%3A//www.flipbooth.com/pages/privacy) for the most accurate reproduction.*
 
-# FlipBooth - The Pinoy Youtube - Pinoy Videos, Music, Photos, Youtube Pinoy Style Video Sharing - Privacy Policy
+# FlipBooth - The Pinoy Youtube - Free Pinoy TV Videos And Channel Site - Privacy Policy
 
 We can be reached via e-mail at [webmaster@flipbooth.com](mailto:webmaster@flipbooth.com)  
 
