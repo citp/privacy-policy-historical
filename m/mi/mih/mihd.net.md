@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mihd.net privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415195239id_/http%3A//ifile.it/wiki/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mihd.net privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209205243id_/http%3A//ifile.it/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - ifile.it
+# privacy | ifile.it
 
 At iFile.it we recognize that privacy is important. This document outlines the types of personal information we receive and collect when you use of iFile.it services, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
@@ -17,7 +17,16 @@ iFile.it uses cookies and other data sent by your browser to enhance your online
 
 **3rd Party Advertising**
 
-To try and bring you offers that are of interest to you, we have relationships with other companies like Google ([www.google.com/adsense](http://www.google.com/adsense)) that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policy of: <http://www.google.com/privacy.html>
+To try and bring you offers that are of interest to you, we have relationships with other companies like Google and/or Yahoo! that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policy of: [Google](http://www.google.com/privacy.html) and/or [Yahoo!](http://www.rightmedia.com/content/company/privacy-policy/6,604.php)
+
+**Google and the**[ **DoubleClick DART cookie**](http://www.doubleclick.com/privacy/faq.aspx) **:**  
+
+
+  * Google, as a third party vendor, uses cookies to serve ads on this site.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to this sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+
 
 **Usage**
 
@@ -30,19 +39,10 @@ To try and bring you offers that are of interest to you, we have relationships w
 
 **Your choices**
 
-  * We offer you choices when we ask for personal information, whenever reasonably possible. You can find more information about your choices in the privacy notices or FAQs for specific services. 
+  * We offer you choices when we ask for personal information, whenever reasonably possible
   * You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result. 
   * We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible. 
 
 
 
-At iFile.it we value your privacy so if you have any problems with please contact us at: support @ ifile.it 
-
-**Google and the  **[ **DoubleClick DART cookie**](http://www.doubleclick.com/privacy/faq.aspx) **:**  
-
-
-  * Google, as a third party vendor, uses cookies to serve ads on this site.
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to this sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
-
-
+At iFile.it we value your privacy so if you have any problems with please [contact us](http://ifile.it/contact)
