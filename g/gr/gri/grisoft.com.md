@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grisoft.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208233504id_/http%3A//www.avg.com/us-en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grisoft.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209042836id_/http%3A//www.avg.com/us-en/privacy) for the most accurate reproduction.*
 
 # AVG Antivirus and Security Software - Privacy Policy
 
