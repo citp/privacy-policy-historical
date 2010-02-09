@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roost.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609162844id_/http%3A//www.roost.com/web/privacy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roost.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209232022id_/http%3A//www.roost.com/web/privacy.action) for the most accurate reproduction.*
 
-# Homes for Sale and MLS Listings - Roost.com
+# Privacy Policy | Homes for Sale and MLS Listings - Roost.com
 
 (last updated April 2008) 
 
