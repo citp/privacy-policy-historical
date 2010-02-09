@@ -1,159 +1,93 @@
-> *The following text is extracted and transformed from the takethat.com privacy policy that was archived on 2005-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takethat.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209042318id_/http%3A//www.umusic.co.uk/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Network Solutions
+# 
 
-Privacy Policy  
+**SECURITY AND PRIVACY POLICY**
 
+YOUR PEACE OF MIND
 
-  
-Updated September 30, 2004  
-Version 2.4
+Universal Music Operations Limited ("Universal") operates this website and respects the security and privacy concerns of users of this all its websites. We are notified under the Data Protection Act 1998 and comply with the Act in all our dealings with your personal data. 
 
-**Privacy Topics  
-**   
-Why A Privacy Policy?  
-Getting to Know our Customers  
-Third Party Advertising and Cookies  
-Information Corrections or Changes  
-How We Put Information to Good Use  
-With Whom We May Share Information  
-How Do I Get My Name Removed from Bulk Access  
-Our Accountability to You  
-Employee Accountability  
-The Accountability of Network Solutions' Agents and Business Partners  
-Notification of Changes
+By using the website you agree to the terms of this privacy policy. As a general rule, no personal information (i.e. name, address, telephone number, e-mail address) is automatically collected from users of this website. However, there may be circumstances in which users voluntarily supply such information and in this event, any such information will be kept secure and confidential and will be used only for those purposes made known to users at the time the information is collected, or for the purposes specified in this Privacy Policy. We follow strict security procedures for the storage and disclosure or information you have given us in order to prevent unauthorised access. 
 
-**Why A Privacy Policy?**   
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+Personal information collected via this website is controlled by
 
-**This Privacy Policy protects your privacy by:**
+Universal Music Operations Limited, 
 
-**Informing you about:**
+364-366 Kensington High Street,  
+London,  
+W14 8NS. 
 
-  * The types of personal information Network Solutions collects about you through its Web sites;
-  * How it collects that information;
-  * The general purposes for which it collects such information;
-  * The types of organizations to which it discloses the information;
-  * The choices and means by which individuals may limit its use and disclosure.
+OUR USE OF INFORMATION AND PERSONAL DATA
 
-**Empowering you to choose:**  
+The information collected is used to provide users with information on the relevant Universal Artist to customise the user's online experience and to improve the content of the website. Other uses of this information include the internal review of the web pages visited, tracking the progress and number of entries in promotions and contests, tracking the number of users of the site and where appropriate, product purchased through the site. Where users have signed up and opted in to receive information and promotions from us, the information may also be used to notify users of future Universal product releases and information on the artist concerned together with news on other Universal artists, related products and services which may be of interest to users. If at any time you wish to stop receiving information you can opt out or reply to the e-mail address at the bottom of each e-mail you receive from us. You can also opt out of any SMS communications you receive from us. Alternatively you can e-mail us at [info@umusic.com](mailto:info@umusic.com) and tell us what you would like us to do. As Universal Music is part of a worldwide group of companies, it may be necessary from time to time for data to be transferred from the point of collection to a server located in another jurisdiction. Information will only be so transferred in circumstances where it is necessary to achieve the purposes set out in this Privacy Policy or the purposes made known to users at the time information is collected. Communications may therefore come from local Universal companies, be in your local language and promote localised events/promotions. You will be given the opportunity to opt out of those local communications on any email you receive from them. No matter where your information is processed, this privacy policy will remain in effect. 
 
+PASSING OF PERSONAL DATA TO ARTIST OR ARTIST MANAGEMENT 
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it).
+Where the artist and/or it's management company have entered into an agreement with Universal to have access to consumer data collected from the use of the website for future marketing purposes, we may allow access of your data to them. However, we will not do so unless they have confirmed to us that they are registered with the Data Protection Act. Should Universal and the artist part company, they may directly contact you with future marketing regarding the artist in question going forward, but at all times you will be given clear guidance on their Privacy Policy and an option to opt out of future mailings from them. 
 
-**Assuring you that Network Solutions:**  
+USE BY CHILDREN
 
+If you are under the age of 16 you should obtain the consent of your parents or legal guardians for submitting any personal information to this Website. 
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction;
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered;
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate.
+Children under the age of 13 should not submit any personal information without the written consent of their parents or legal guardian. If you are a child under 13 and want to submit personal information to us please ask your parent or legal guardian to send us an email at [info@umusic.com](mailto:info@umusic.com) with the subject 'Parental Consent' specifying that they consent to us collecting your personal information through this Website. You and your parents or legal guardians should also read the Safe Surfing Guide [here](http://umusic.co.uk/home/safe.php). Parents or legal guardians may review or change the personal information of their children or refuse further collection of any such information by sending an email to us at [info@umusic.com](mailto:info@umusic.com)
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+COOKIES 
 
-**Getting to Know Our Customers**
+Universal uses cookies. A cookie is a small text file that can be stored on your computer's hard drive. It may be stored and updated at various times as you access the website. Each time you visit the website, the server may deliver certain customised information to your computer based on the data stored in your cookie. This allows Universal to tailor the service to your preferences. You are not obliged to accept a cookie and you may modify your browser so that it will not accept cookies. If you wish to purchase any items on the Website you need to ensure that cookies are enabled. If, however, you do not want to accept cookies please use the help tools provided with your internet browser to find out how to achieve this. 
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+We never use cookies to retrieve information from your computer which was not originally contained in the cookie. We use cookies and IP addresses for system administration and to monitor aggregate non-personalised information (such as anonymous statistics related to the take up or use of services, or to patterns of browsing). Certain non-personal information about users is recorded by the standard operation of Universal's internet servers. Examples of this type of information include the type of browsers being used, its operating system and the domain names (not e-mail addresses, where possible) of users. 
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at [www.networksolutions.com](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=RSNRVHQUXMVCCCWMEAPSFFA) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+Universal is part of a worldwide group of companies, it may be necessary from time to time for information to be transferred from the point of collection to a server located in another jurisdiction. Information will only be so transferred in circumstances where it is necessary to achieve the purposes set out in this Privacy Policy or the purposes made known to users at the time information is collected. 
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+FORUMS 
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+While the administrators and moderators of our forums will attempt to remove or edit any generally objectionable material as quickly as possible, it is impossible to review every message. Therefore you must acknowledge that all posts made to these forums express the views and opinions of the author and not the administrators, moderators or webmaster (except for posts by these people) and hence will not be held liable.
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
+We ask that you agree to not to post any abusive, obscene, vulgar, slanderous, hateful, threatening, sexually-oriented or any other material that may violate any applicable laws. Doing so may lead to you being immediately and permanently banned (and your service provider being informed). The IP address of all posts is recorded to aid in enforcing these conditions. You agree that the webmaster, administrator and moderators of the forum have the right to remove, edit, move or close any topic at any time should they see fit. As a user you agree to any information you have entered above being stored in a database. While this information will not be disclosed to any third party without your consent the webmaster, administrator and moderators cannot be held responsible for any hacking attempt that may lead to the data being compromised.
 
-**Third Party Advertising and Cookies**
+Our forum system uses cookies to store information on your local computer. These cookies do not contain any of the information you enter on this form; they serve only to improve your viewing pleasure. The e-mail address you enter will be used for confirming your registration details and password (and for sending new passwords should you forget your current one). When you register to use and to post comments on this board you will also be signed up to receive updates about new releases, preferential ticket purchase opportunities, PA's, exclusive competitions and music downloads from the artist. The first email you will be sent will contain your username and password plus a confirmation link. If you are happy to receive the updates from the artist just click on the confirmation link within that email, if you do not click on that link you will not receive updates via email from the artist.
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit <http://www.doubleclick.net/us/corporate/privacy>. 
+As a member of our artists' Community Server based forums, you will find that your username and password will work on many of our other artist/label boards. We may from time to time contact you about forum development & improvements or to introduce you to new music based community environments that Universal Music may offer in the future. 
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click [here](http://www.privacychoices.org/ "http://www.privacychoices.org/"). 
+We also recommend that you read the Safe Surf advice on all our forums before you register. 
 
-**Information Corrections or Changes  
-**   
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+RESEARCH
 
-**How We Put Information to Good Use  
-**   
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+We are always looking to improve our user experience on the website and to find out more about our users' tastes in music. We conduct research with Universal Music by sending out questionnaires from time to time by email. If you receive one you do not need to complete it if you do not want to. If at any time you wish to stop receiving research questionnaires you can reply to the email address at the bottom of the email you receive. Alternatively email us at [info@umusic.com](mailto:info@umusic.com) and tell us you do not want to receive any more questionnaires. 
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+PASSING INFORMATION TO THIRD PARTIES
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+We do not pass your details to third parties for the purposes of allowing them to market their products or service to you, UNLESS you have ticked the third party box on our registration forms giving us permission to do so. We may however market third party products or services that are expressly connected with the relevant artist, such as ring-tones. We may also, occasionally include advertising for third party products or services on the website, or in newsletters or other artist mailings you receive from us. 
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+FORWARDING WEB PAGES
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+If we provide you with the opportunity to email a web page to another person, we will need to collect your email address and the email address of those to whom you send the page. We will use the email addresses collected this way for no other purpose expect to send the web page, and the addresses will be deleted once the page has been sent unless you have opted in to receive information and promotions from us as set out above using the same email address, in which case we will retain your email address for this purpose unless and until you notify us that you wish to stop receiving information. 
 
-**With Whom We May Share Information  
-**   
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+FINANCIAL
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+We may use your financial information (including credit card transactions) to check your qualifications and Bill you for and otherwise facilitate your purchase of products and services. When you make a purchase on the Site, we will provide your financial information (including credit card transactions) to our service providers and to such third parties as we determine is necessary to process your transactions. These third parties may include the credit card companies and banking institutions used to process the transaction. Also, depending on the circumstances of our arrangements, we may share your financial information (including credit card transactions) with applicable Event Partners, primarily but not exclusively for facilitating "will call" ticket pick up and dispute resolution and customer service at the event venue on the date of the event. When you purchase products or services of third parties (such as magazine subscriptions) offered on eh Site, we will provide your financial information (including credit card transactions) to those third parties. Any of these various third parties are authorised to use your financial information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control. 
 
-We may share certain information about you with those of our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share sensitive financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors where necessary and appropriate, we will not share such information with other third parties, except in response to formal requests (e.g., subpoena or court order) made in connection with litigation, arbitration, or criminal proceedings directly relating to a domain name registration or other services we provide, or as directed by you or your agent. 
+HOW WE USE AND WHEN WE SHARE BROAD DEMOGRAPHIC INFORMATION
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+We may use, and may transfer to others to use, broad demographic information that may include data from your activity at the Site, but not personal information. For example, we use broad demographic information to tailor the site to the interests of our visitors, and we may share it with advertisers and other third parties so that they can tailor their advertisements and communications to the appropriate audience. We reserve the right to use such broad demographic information, and to allow others to make use of it, without limitation or restriction, and without further notice to you, in our sole and absolute discretion and is the sole and absolute discretion of those with whom we share such information. 
 
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=RSNRVHQUXMVCCCWMEAPSFFA "www.networksolutions.com");  
+THIRD PARTIES
 
-  2. Click “Edit User Info” in the left menu;  
+When we include links to other internet sites, on this site and in our newsletters and other communications, we do so solely as a convenience to our visitors. Operators of such linked sites may acquire personal information about you through registration procedures or other means and may use that information in accordance with their own privacy policies, over which we have no control. Your access and use of linked sites is solely at your own risk. 
 
-  3. Scroll to the bottom of the page;  
+SECURITY
 
-  4. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and  
+Whenever we obtain your personal information we take reasonable precautions to protect it from unauthorised access or disclosure, but we cannot act as insurers of the security of your personal information transmitted over the internet. Accordingly, we assume no liability for any disclosure of data due to errors in transmission, unauthorised third party access or other acts of third parties, or acts or missions beyond our reasonable control. 
 
-  5. Click “SAVE.”  
+DISCLOSURE
 
+If you are a member of the artists community you should note that when you complete your member profile this information can be viewed by other members. Accordingly you should not provide any information in your member profile that you do not wish to share with third parties and you should have no privacy expectations with respect to the information contained within it. You should be aware that if you voluntarily disclose information online in a public accessible area, such as in your member profile, a message board or chat room, that information may be collected an used by others. We do not control the actions of our visitors. If you disclose personal information in your member profile message board or any other public accessible place on the internet you do so at your own risk and should understand that your submitted information may be collected and used by others to send you unsolicited messages, advertisements, or for other purposes. Please remember the protection of your privacy begins with you. You are solely responsible for maintaining the secrecy of any password you use to register, and you should always be careful and responsible whenever disclosing information online. 
 
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+GENERAL
 
-**How Do I Get My Name Removed from Bulk Access  
-**   
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+Universal may make changes to this privacy policy from time to time but will not change the way we use your information provided previously without your express consent.
 
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=RSNRVHQUXMVCCCWMEAPSFFA "www.networksolutions.com");  
+If any provision of this privacy policy is held to be invalid or unenforceable, such provision shall be struck out and the remaining provisions shall be enforced. Universal's failure to act with respect to a breach by you or others does not waive its right to act with respect to subsequent or similar breaches. 
 
-  2. Click “Edit User Info” in the left menu;  
-
-  3. Scroll to the bottom of the page;  
-
-  4. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and  
-
-  5. Click “SAVE.”   
-
-
-
-
-**Our Accountability to You  
-**   
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
-
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
-
-**Employee Accountability  
-**   
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
-
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
-
-**The Accountability of Network Solutions' Agents and Business Partners  
-**   
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at [privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13200 Woodland Park Drive  
-Herndon, VA 20171  
-(703) 668-4600 
-
-**Notification of Changes  
-**   
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to [privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
-**If you have any questions regarding this Privacy Policy, please contact[privacy@networksolutions.com](mailto:privacy@networksolutions.com).   
-**
+This privacy policy is governed in all respects by the laws of England and Wales. Legal proceedings related to the matters set out in the Privacy Policy shall be brought in and adjudicated solely in the courts of England and Wales. 
