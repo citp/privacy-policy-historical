@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the star-clicks.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228061544id_/http%3A//www.star-clicks.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the star-clicks.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209100100id_/http%3A//www.star-clicks.com/privacy.asp) for the most accurate reproduction.*
 
-# Star-Clicks.com - Earn Money Online
+# Star-Clicks.com - Privacy
 
  
 
