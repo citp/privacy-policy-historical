@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyomingwebdesign.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230223609id_/http%3A//www.wyomingwebdesign.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyomingwebdesign.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209071057id_/http%3A//www.wyomingwebdesign.com/privacy.html) for the most accurate reproduction.*
 
 # Wyoming Webdesign Privacy Policy
 
@@ -7,7 +7,8 @@ Wyoming Webdesign Privacy Policy
 This website is a division of **Kweb Media Services**.
 
 Our postal address is:   
-**723 SW Clay Street  
+**Kweb Media Services  
+723 SW Clay Street  
 Topeka, KS, 66606**
 
 We can be reached via e-mail at: [info@kwebmedia.com](mailto:info@kwebmedia.com). 
