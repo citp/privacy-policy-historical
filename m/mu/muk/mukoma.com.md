@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mukoma.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208003851id_/http%3A//www.mukoma.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mukoma.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209232532id_/http%3A//www.mukoma.com/privacy.php) for the most accurate reproduction.*
 
 # Mukoma: Privacy
 
