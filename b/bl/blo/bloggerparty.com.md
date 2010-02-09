@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggerparty.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614153138id_/http%3A//www.bloggerparty.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggerparty.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209182910id_/http%3A//www.bloggerparty.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blogger Party
 
