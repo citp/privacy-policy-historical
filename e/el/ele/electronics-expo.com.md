@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the electronics-expo.com privacy policy that was archived on 2009-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090212081451id_/http%3A//www.electronics-expo.com/make-a-store/static/privacy_policy/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronics-expo.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209094123id_/http%3A//www.electronics-expo.com/make-a-store/static/privacy_policy/1.html) for the most accurate reproduction.*
 
-# Electronics-Expo.com
+# Electronics-Expo.com - The best brands in Electronics at the best prices - Safe and Secure Online Shopping
 
-## Electronics Expo On-Line Privacy Policy
+## Electronics Expo Online Privacy Policy
 
-This is the online privacy policy of Electronics-Expo.com, a division of Electronics Expo, LLC. You can reach us by mail at 38 Fairfield Place, West Caldwell, New Jersey 07006, by telephone at (973) 808-8838 or e-mail us at privacy@electronics-expo.com. Please remember that this site and the servers that make this site available are located in the U.S. and hosted by Electronics Expo. By using this site you agree to the transfer, collection, processing and use of data by this site. The content on our site may include, among other items of interest, information on our company and the products well sell, our advertising, entertainment and opportunities to shop online. We may also offer opportunities to apply for employment. 
+This is the online privacy policy of Electronics-Expo.com, a division of Electronics Expo, LLC. You can reach us by mail at 70 Demarest Dr, Wayne, NJ 07470, by telephone at (973) 808-8838 or e-mail us at privacy@electronics-expo.com. Please remember that this site and the servers that make this site available are located in the U.S. and hosted by Electronics Expo. By using this site you agree to the transfer, collection, processing and use of data by this site. The content on our site may include, among other items of interest, information on our company and the products well sell, our advertising, entertainment and opportunities to shop online. We may also offer opportunities to apply for employment. 
 
 ## Secure Online Ordering Information
 
@@ -12,7 +12,7 @@ The Electronics Expo store offers products available for purchase online, by pho
 
 Your online credit card transactions are secure at Electronics-Expo.com. We use Secure Socket Layering (SSL), the industry-standard encryption technology that ensures safe Internet transmission of your personal information. When the letters "http" in the URL change to "https," the "s" indicates you are in a secure area employing SSL; also, your browser may give you a pop-up message that you're about to enter a secure area. 
 
-Making a credit card purchase is just as safe on our Web site as it is by telephone, but if you prefer the latter, you may purchase online merchandise by calling toll-free 1-800-252-8841 from Monday thru Friday, 10am to 6pm ET. One of our sales associates will gladly take your order. (Our offices are closed on National Holidays) 
+Making a credit card purchase is just as safe on our Web site as it is by telephone, but if you prefer the latter, you may purchase online merchandise by calling toll-free 1.888.707.EXPO from Monday thru Friday, 10am to 6pm ET. One of our sales associates will gladly take your order. (Our offices are closed on National Holidays) 
 
 You will have to register with Electronics-Expo.com to place your online order. For those who register, we will capture your login name (e-mail address), password, name and mailing address, alternate ship-to addresses, and credit card information. When a registered person returns to the site to place subsequent orders, they can identify themselves with login name (e-mail address) and password. 
 
@@ -24,10 +24,10 @@ When you place an order online, we add your name and address to our print catalo
 
 **Electronics Expo, LLC.**  
 Attn: Mailing Changes  
-38 Fairfield Place  
-West Caldwell, New Jersey 07006 
+70 Demarest Dr  
+Wayne, NJ 07470 
 
-If you have recently moved, or are planning a move in the near future, you should let us know of the change of address and we'll be sure to update our records. For all mailing questions and changes, please call 1-800-252-8841, or send the information to Electronics-Expo at the address shown above. 
+If you have recently moved, or are planning a move in the near future, you should let us know of the change of address and we'll be sure to update our records. For all mailing questions and changes, please call 1.888.707.EXPO, or send the information to Electronics-Expo at the address shown above. 
 
 We use "cookie" technology (where our servers deposit special codes on a visitor's computer) to track the total number of visitors to each of our sites in an aggregate form. We do not automatically extract personally identifiable information in this process. The "cookie" technology will only be used to track non-personal information such as type of browser, operating system, and domain names to customize the website for each visitor and to improve the visitor's online experience. 
 
@@ -35,6 +35,6 @@ In some instances, when contact information has been provided by the visitor, an
 
 For our internal purposes, we gather date, time, pages visited, originating search engine, and IP address of all visitors to our site. We keep this information for our internal security audit log, systems administration purpose, to help diagnose problems with our server(s), and to better administer our web site. 
 
-You always have the right to request that contact information regarding you be deleted from our database. To request deletion of your contact information in our database, please call 1-800-252-8841 for more information. Upon proper identification, you may review the personal information we have collected about you, request deletion, or refuse to allow further collection or use by writing to us at the address above. 
+You always have the right to request that contact information regarding you be deleted from our database. To request deletion of your contact information in our database, please call 1.888.707.EXPO for more information. Upon proper identification, you may review the personal information we have collected about you, request deletion, or refuse to allow further collection or use by writing to us at the address above. 
 
 We reserve the right to change this policy at any time by posting it on our web site. 
