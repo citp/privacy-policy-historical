@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blissworld.com privacy policy that was archived on 2009-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090517094310id_/http%3A//www.blissworld.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blissworld.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209063431id_/http%3A//www.blissworld.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # www.blissworld.com - privacy and security - bliss
 
@@ -22,11 +22,15 @@ There may be times (such as when you purchase or order a product, subscribe to s
 
 Your e-mail information is not shared with other organizations for commercial purposes. We do not partner with or have special relationships with any ad server companies. We use the personally identifiable information you provide for internal purposes, such as confirming and tracking your order, subscription or registration, analyzing tends and statistics, informing you of our new products, services and offers, and providing you with information from and about Bliss brands. To serve you better, we may combine information you give us online, in our spas or through our catalogs.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at 888-243-8825, contacting us online at <http://www.blissworld.com/category/customer+service/contact+us.do>, writing to us at BlissWorld.com, 75 Varick Street, New York, NY 10013 Attention: Customer Service, or faxing us at 212-931-6376. 
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at 888-243-8825, contacting us online at <http://www.blissworld.com/category/customer+service/contact+us.do>, writing to us at BlissWorld.com, 75 Varick Street, New York, NY 10013 Attention: Customer Service, or faxing us at 212-380-4644. 
 
 Occasionally, we make our mailing list available to carefully selected companies whose products and services maybe of interest to our customers. If you do not wish to receive such mailings, you can, have your name put on our do-not-share list by calling us at the number provided above, writing to us at the below address, or faxing us at 212 931 6376. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations. Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
-We may contract with companies or persons to provide certain services including credit card processing, shipping, data management, promotional services, etc. We call them our Service Providers. We provide our Service Providers with the information needed for them to perform these services. We also ask our service providers to confirm that their privacy practices are consistent with ours.
+We may contract with companies or persons to provide certain services including credit card processing, shipping, data management, promotional services, etc. We call them our Service Providers, which may be located in the United States or throughout the world. We provide our Service Providers with the information needed for them to perform these services. We also ask our service providers to confirm that their privacy practices are consistent with ours. 
+
+In the course of processing your information, it may be necessary to disclose or transfer your personal information to our parent company, or to others in the event of the following circumstances: if Bliss is merged or acquired by another company; to comply with legal or regulatory requirements or obligations in accordance with applicable law or court order; or in case of emergency such as to safeguard the life, health, or property of an individual. 
+
+By providing your personal information to Bliss, you authorize Bliss, and its parent, affiliated and subsidiary companies: to collect, process and use your personal information for lawful, Bliss business related purposes; to store your personal information at and transmit it to various locations throughout the world, either directly or through our third party vendors, whether within your country of residence, the United States, or elsewhere.
 
 Our website uses 'cookies'. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Generally, we use cookies to record session information, such as items that consumers add to their shopping cart. You can generally set your browser to not accept cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it.
 
@@ -38,4 +42,4 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 To help us improve our privacy policy and practice, please give us your feedback. You may email us or write to us at Blissworld.com, 75 Varick Street, New York, NY 10013, Attention: Direct Marketing Dept.
 
- _Privacy statement updated December 20, 2004_
+ _Privacy statement updated October 13, 2009_
