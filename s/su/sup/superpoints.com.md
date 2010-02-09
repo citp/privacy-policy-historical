@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the superpoints.com privacy policy that was archived on 2009-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090827151019id_/http%3A//www.superpoints.com/super_points/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superpoints.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209085844id_/http%3A//www.superpoints.com/super_points/privacy) for the most accurate reproduction.*
 
 # SuperPoints Network
-
-## Privacy Policy
 
 **Westlake Products, Inc. Privacy Policy - August 2009**
 
@@ -20,7 +18,9 @@ We may also automatically receive and record information on our server logs from
 
 ### How does the Company use Personal Information?
 
-The Personal Information you provide will be kept confidential and used to support your customer relationship with the Company. Among other things, we want to help you quickly find information on our Website(s) and alert you to product upgrades, special offers, updated information and other new products and services from the Company. The Company may enhance or merge your information with data from third parties for purposes of marketing products or services to you. 
+Except as described in this policy, the Personal Information you provide will be kept confidential and used to support your customer relationship with the Company. Among other things, we want to help you quickly find information on our Website(s) and alert you to product upgrades, special offers, updated information and other new products and services from the Company. The Company may enhance or merge your information with data from third parties for purposes of marketing products or services to you. 
+
+Personal Information that you enter into your public profile will be shared with other users. Your first and last name, your gender, marital status and birth date will be displayed on your public profile 
 
 Periodically, we may send you information about our various products and services, or other products and services we feel may be of interest to you. These mailings may be sent electronically or in physical form. Only the Company (or agents or contractors working on behalf of the Company and under confidentiality agreements, or other Members) will send you these mailings. If you do not want to receive such mailings, simply tell us when you give us your Personal Information. Or, at any time you can easily opt-out of receiving further marketing from the Company by contacting us and requesting to have your name removed from our marketing lists. In addition, with respect to mailings sent via email, you may also click the "unsubscribe" link in the email to have your email address removed from our marketing list. All requests to unsubscribe will be handled in a prompt and efficient manner and in accordance with applicable law. Please also be advised that Members cannot unsubscribe from Administrative Messages while they are Members, so if you unsubscribe from Administrative Messages your Membership will be terminated. 
 
@@ -36,7 +36,7 @@ To update any of your personal information or to change any of your marketing pr
 
 Agents or contractors of the Company may have access to your Personal Information for the purpose of performing services on behalf of the Company. All such agents or contractors who have access to your Personal Information are required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for the Company or as otherwise required by law. In addition, information collected about you may be shared with other third parties as expressly stated on the page on which you provided such information. 
 
-Except as set forth above, the Company does not rent, sell or share Personal Information it collects about you to or with third parties. Personal Information collected from you is only used to provide you with the Company products and services and to comply with any requirements of law. The Company or its agents or contractors may disclose Personal Information if required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process; (2) protect and defend the rights or property of the Company or its agents or contractors; or (3) act in urgent circumstances to protect the personal safety of users of the Company, its Website(s) or the public. If the Company should ever file for bankruptcy, merge with another company, or sell our assets, we may sell the information you provide to us via a Website to a third party or share your Personal Information with any company with whom we complete such transaction. 
+Except as set forth in this policy, the Company does not rent, sell or share Personal Information it collects about you to or with third parties. In addition to the sharing and use of your Personal Information as described in this policy, the Company or its agents or contractors may also disclose Personal Information if required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process; (2) protect and defend the rights or property of the Company or its agents or contractors; or (3) act in urgent circumstances to protect the personal safety of users of the Company, its Website(s) or the public. If the Company should ever file for bankruptcy, merge with another company, or sell our assets, we may sell the information you provide to us via a Website to a third party or share your Personal Information with any company with whom we complete such transaction. 
 
 ### Security of Your Information
 
