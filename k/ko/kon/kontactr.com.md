@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kontactr.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617192207id_/http%3A//kontactr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kontactr.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209010152id_/http%3A//kontactr.com/privacy) for the most accurate reproduction.*
 
-# Kontactr - free personal contact forms...
+# Kontactr
+
+## Privacy Policy
 
 We are committed to safeguarding the privacy of our website visitors. This policy sets out how we will treat your personal information.
 
