@@ -1,83 +1,96 @@
-> *The following text is extracted and transformed from the shopbop.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515111437id_/http%3A//www.shopbop.com/customerservice/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopbop.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209235111id_/http%3A//www.shopbop.com/ci/aboutShopBop/privacypolicy.html) for the most accurate reproduction.*
 
-# shopbop.com
+# Shopbop privacy policy
 
-| 
+  
+Last updated: August 21, 2008.  
+Shopbop.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Shopbop.com, you are accepting the practices described in this Privacy Notice.**
 
-This privacy statement and policy applies to the online electronic commerce services of  
-BOP LLC  
-101 E Badger Rd.  
-Madison, WI 53713 US 
+What Personal Information About Customers Does Shopbop.com Gather?  
+The information we learn from customers helps us personalize and continually improve your shopping experience at Shopbop.com. Here are the types of information we gather.
 
-BOP LLC has created this privacy policy for your information and protection.
+  * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. Click here to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our store, and communicating with you.
+  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Shopbop.com. Click here to see examples of the information we receive.
 
-If you wish to contact BOP LLC with a question or comment regarding this policy, [click here to contact us](http://www.shopbop.com/customerservice/contact_us.jsp) or telephone 1-877-SHOPBOP (1-877-746-7267). In the event that you have a complaint or a dispute with regard to this policy, please read below for detailed information on who to contact and how.
 
-Shopbop.com is committed to protecting your privacy. We believe that electronic security and customer privacy is necessary and therefore only use the personal information you provide to create a more personalized experience for you, as outlined below.
+  * **E-mail Communications:** To help us make e-mails more useful and interesting, we might receive a confirmation when you open e-mail from Shopbop.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your [Email Preferences](https://web.archive.org/myaccount/email_preferences_login.jsp) or unsubscribe by clicking the unsubscribe link at the bottom of any Shopbop e-mail.
+  * **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive.
 
-**Information**
+  
+What About Cookies?  
 
-We gather the information you provide during registration is used only to provide you personalized services. Account information that you supply will only be used to process requested transactions or to contact you regarding a particular transaction. Shopbop.com may use purchasing information to generate aggregate reports to help determine how to improve our customers' experience. This data is anonymous and for internal purposes only. Shopbop.com will not disclose customer information to any outside organizations without prior consent of the customer, but may disclose user information to government and/or third parties if there is reason to believe the user is violating the terms and conditions of our company, or where otherwise required by law or by legal process.
 
-The following may have access to the information collected on this site: Ourselves and our agents acting on our behalf who are contractually bound to keep individual and identifying information confidential. Delivery services may only use supplied information for completing your delivery.
+  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as storage of items in your Shopping Cart between visits.
+  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. However, because cookies allow you to take advantage of some of Shopbop.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to complete a purchase in our store.
 
-We may also use your contact information to contact you about new products, features or special promotions. If you wish not to receive such communications, you may remove yourself from our list by logging into your account, and then clicking on 'modify profile'. On this page, you can choose to opt-in or opt-out of the email mailing list. You may also remove yourself from the mailing list by clicking on the unsubscribe link that is present in all promotional emails that we send to our customers.   
-Shopbop.com also collects simple user information by using data-tracking software to track what areas of the site are visited most frequently. This gives us valuable information about those items in which our customers are most interested so we can try to provide a better shopping experience.
+  
+Does Shopbop.com Share the Information It Receives?  
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with our parent corporation, Amazon.com, Inc., and the subsidiaries it controls.  
 
-**Cookies**
 
-We use cookies to provide you with the best possible shopping experience.  
-Shopbop.com collects information for the following purposes:  
-The information is used to identify you while you shop, so that we can keep the items you have chosen in a `shopping cart'.  
-Performance data from your session will be used to improve the hardware and software used to provide this service.   
-Data collected may be used to help us determine what additional features would be of benefit to you on this site.   
-We may tailor the site experience specifically to you based on your current and past activities, which may include offering you products similar to those previously purchased or purchased by others.   
-We may use information about you to tailor the site experience of another user that is similar to you, but without disclosing your identity or specific private information.   
-We may use the contact information to contact you by postal mail or email to market products or services unless you specifically request otherwise. 
+  * **Affiliated Businesses We Do Not Control:** We work closely with our affiliated businesses. In some cases, these businesses might sell offerings to you directly through Shopbop.com. In other cases, we might sell product lines jointly with these businesses. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party.
+  * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+  * **Promotional Offers:** Sometimes we send offers to selected groups of Shopbop.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your [Email Preferences](https://web.archive.org/myaccount/email_preferences_login.jsp) or unsubscribe by clicking the unsubscribe link at the bottom of any Shopbop e-mail.
 
-**  
-Security**
 
-Shopbop.com uses security measures in order to protect from the loss, misuse and alteration of information under our control. All orders are transmitted over secure internet connections using SSL (Secure Sockets Layer) encryption technology.   
-Should you forget your password, we will email you a new temporary password. Because sending information by email is insecure, we do not send your existing password. This is the best way to protect your personal information. 
+  * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that BOP LLC, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
+  * **Protection of Shopbop.com and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our [Conditions of Use](https://web.archive.org/ci/aboutShopBop/conditions.html) and other agreements; or protect the rights, property, or safety of Shopbop.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
 
-**Terms and Conditions**
 
-Please review the basic rules that govern the use of and purchase of our products.
+  * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
 
-_Website Use_
+  
+How Secure Is Information About Me?  
 
-Use of our shopbop.com constitutes acceptance of these terms and conditions.  
-Shopbop.com may make changes to the information on our site or to services described therein, at any time and without notice. Shopbop.com may change, move, delete or add to the site frequently.
 
-_Use Restrictions_
+  * We work to protect the security of your information during order transmission by using Secure Sockets Layer (SSL) software, which encrypts order information you transmit.
+  * We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
+  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
-All trademarks, service marks, trade names and photography are the property of Shopbop.com. No use of these may be made with out the prior written consent of Shopbop.com except to identify the products or services of Shopbop.com. The products, logos, designs, advertisements, and photographic images described or displayed on the site are the intellectual property of Shopbop.com and may not be used without permission. Our site as a whole is protected by copyright and trade dress, all worldwide rights, titles and interests are owned by Shopbop.com, a subsidiary of Bop, LLC. You may not reproduce (except as noted above), publish, transmit, distribute, display, modify, create derivative works from, sell or participate in any sale of, or exploit in any way, in whole or in part, any of the contents of this site. Any violation of this may result in legal action.
+  
+What About Third-Party Advertisers and Links to Other Web Sites?  
+Our site might include third-party advertising and links to other Web sites. We do not provide any personally identifiable customer information to these advertisers or third-party Web sites.
 
-_Communications and Submissions_
+These third-party Web sites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on our Web site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party Web sites are not covered by this Privacy Notice. Please contact them directly for more information about their privacy practices. In addition, the [Network Advertising Initiative](http://www.networkadvertising.org/) offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection.
 
-All communications, comments, feedback, suggestions, ideas or other submissions offered to Shopbop.com shall be and remain the property of Shopbop.com. In turn, Shopbop.com shall be free to use the content of such communications (including ideas, inventions, concepts, techniques) for any purpose including development and/or marketing of goods and services. By participating in surveys, contest or promotions of this site or by requesting promotional information or updates, you hereby agree that shopbop.com may use information about you for marketing, product development or promotional purposes and is under no obligation to pay the user any compensation for any submissions.
+Shopbop.com might also display targeted advertising based on personal information about users. Although Shopbop.com does not provide any personal information to advertisers, advertisers (including ad-serving companies) may assume that users who interact with or click on a targeted advertisement meet the targeting criteria used to display the ad (for example, users in the northwestern United States who like designer jeans). 
 
-_Products_
+Which Information Can I Access?  
+Shopbop.com gives you access to a broad range of information about your account and your interactions with Shopbop.com for the limited purpose of viewing and, in certain cases, updating that information. 
 
-Products seen on shopbop.com have limited availability and are subject to supply. Descriptions, specifications, colors and pricing are subject to change at any time and without any notice. Prices displayed on the site are quoted in U.S. Dollars.
+What Choices Do I Have?  
 
-_Links_
 
-Shopbop.com may provide links or references to other sites, but is not responsible for the content of such other sites and shall not be liable for any damages or injury arising from that content.
+  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase.
+  * You can add or update certain information on pages such as those referenced in the "Which Information Can I Access?" section above. When you update information, we usually keep a copy of the prior version for our records.
+  * If you do not want to receive e-mail or other mail from us, please adjust your [Email Preferences](https://web.archive.org/myaccount/email_preferences_login.jsp) or unsubscribe by clicking the unsubscribe link at the bottom of any Shopbop e-mail.
+  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. However, because cookies allow you to take advantage of some of Shopbop.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to complete a purchase in our store.
 
-_Disclaimer_
+  
+Are Children Allowed to Use Shopbop.com?  
+Shopbop.com does not sell products for purchase by children. If you are under 18, you may use Shopbop.com only with the involvement of a parent or guardian. 
 
-By your use of this site, you acknowledge that use of this site is at your sole risk. That you assume full necessary servicing or repairs of any equipment you use in connection with your use of this site, and that shopbop.com shall not be liable for any damages of any kind related to your use of this site.
+Conditions of Use, Notices, and Revisions  
+If you choose to visit Shopbop.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://web.archive.org/ci/aboutShopBop/conditions.html), including limitations on damages, disputes, and choice of law. If you have any concern about privacy at Shopbop.com, please email [ service@shopbop.com](https://web.archive.org/customerservice/contact_customerservice.jsp) with a thorough description, and we will try to resolve it.
 
-_Limitation of Liability_
+Our business changes constantly, and our Privacy Notice and the [Conditions of Use](https://web.archive.org/ci/aboutShopBop/conditions.html) will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
 
-Shopbop.com shall not be liable for any damages or injury resulting from your access to, or inability to access this site, or from your reliance on any information contained in this site.
+Related Practices and Information  
 
-_Miscellaneous_
 
-This site and its contents are displayed solely for the purpose of promoting shopbop.com and its products and services. This site is controlled and operated by Shopbop.com, a subsidiary of Bop, LLC. Shopbop.com reserves the right to make changes to the information in this site or services described therein, at any time without notice.
+  * [Conditions of Use](https://web.archive.org/ci/aboutShopBop/conditions.html)
+  * [Customer Service](https://web.archive.org/ci/aboutShopBop/customerservice.html)
 
-_Duration_
+  
+Examples of Information Collected  
+**Information You Give Us**  
+You provide most such information when you search, buy, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through Shopbop.com; provide information in [My Account](https://web.archive.org/myaccount/my_account_home.jsp) (and you might have more than one if you have used more than one e-mail address when shopping with us); communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; content of e-mails to us.
 
-You may terminate this agreement at any time. Shopbop.com may terminate this agreement at any time without notice, and deny you access to the site if you fail to comply with the provisions of this agreement.
+**Automatic Information**  
+Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and timezone setting, browser plug-in types and versions, operating system, and platform; purchase history; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call our phone number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Web site for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+
+**Information from Other Sources**  
+Examples of information we might receive from other sources include updated delivery and address information from our carriers or other third parties, which we may use to correct our records and deliver your next purchase or communication more easily; credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers.
+
+**Information You Can Access**  
+Examples of information you can access easily at Shopbop.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, e-mail preferences); payment settings (including credit card information and gift certificate balances); e-mail notification settings. 
