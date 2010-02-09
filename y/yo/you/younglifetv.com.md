@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the younglifetv.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109061249id_/http%3A//www.younglifetv.com/page/3/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the younglifetv.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209084527id_/http%3A//www.younglifetv.com/page/3/privacy_policy) for the most accurate reproduction.*
 
 # Young Life TV - Young Life TV - Privacy Policy
 
