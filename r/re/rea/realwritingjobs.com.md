@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the realwritingjobs.com privacy policy that was archived on 2009-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090927182548id_/http%3A//www.realwritingjobs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realwritingjobs.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209020226id_/http%3A//www.realwritingjobs.com/privacy.php) for the most accurate reproduction.*
 
-# RealWritingJobs.com - Privacy Policy
+# Real Writing Jobs - Privacy Policy
+
+## RealWritingJobs.com - Privacy Policy
 
 PRIVACY POLICY 
 
