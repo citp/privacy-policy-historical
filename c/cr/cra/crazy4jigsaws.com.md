@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crazy4jigsaws.com privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328121127id_/http%3A//www.crazy4jigsaws.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazy4jigsaws.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209073009id_/http%3A//www.crazy4jigsaws.com/privacy) for the most accurate reproduction.*
 
-# Crazy4Jigsaws.com - Privacy Policy
+# Privacy Policy - Crazy4Jigsaws.com
 
 Crazy4Jigsaws.com cares about your privacy. Below is an overview of the information we collect, what we use the information for, and instructions on how to opt-out of our email newsletter. If you have any questions regarding this policy, please contact us using the form at <http://www.crazy4jigsaws.com/contact/>. 
 
