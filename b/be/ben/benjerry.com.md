@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the benjerry.com privacy policy that was archived on 2009-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090905181427id_/http%3A//www.benjerry.com/contact-us/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benjerry.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209022937id_/http%3A//www.benjerry.com/contact-us/privacy.cfm) for the most accurate reproduction.*
 
 # Ben & Jerry's Ice Cream - Privacy Policy
 
-## Privacy Policy
+[Personal Information Update](https://web.archive.org/web/20100209022937id_/http%3A//www.benjerry.com/contact-us/update-info.cfm?action=update)
 
-[Personal Information Update](https://web.archive.org/web/20090905181427id_/http%3A//www.benjerry.com/contact-us/update-info.cfm?action=update)
-
-[Do Not Contact](https://web.archive.org/web/20090905181427id_/http%3A//www.benjerry.com/contact-us/update-info.cfm?action=remove)
+[Do Not Contact](https://web.archive.org/web/20100209022937id_/http%3A//www.benjerry.com/contact-us/update-info.cfm?action=remove)
 
 We endeavor to be in compliance with the policies of CARU, the Children’s Advertising Review Unit of the Council of Better Business Bureaus, Inc.
 
-Ben & Jerry’s Homemade, Inc. ("Ben & Jerry’s” ) cares about your privacy. This Privacy Policy outlines the type of Personal Information that is collected by Ben & Jerry’s from consumers and how we use and protect it. This Policy also tells you what to do if you do not want your Personal Information used for marketing purposes, and how you can change information you have already provided to us. This Policy applies to Ben & Jerry’s website and to Ben & Jerry’s collection of data through printed promotional materials such as sweepstakes entry forms, coupons or other mail-in offers and telephone calls to Ben & Jerry’s consumer services department. It does not apply to banners, sweepstakes or promotions sponsored by third parties in which Ben & Jerry’s participates.
+Ben & Jerry’s Homemade, Inc. (“Ben & Jerry’s” ) cares about your privacy. This Privacy Policy outlines the type of Personal Information that is collected by Ben & Jerry’s from consumers and how we use and protect it. This Policy also tells you what to do if you do not want your Personal Information used for marketing purposes, and how you can change information you have already provided to us. This Policy applies to Ben & Jerry’s website and to Ben & Jerry’s collection of data through printed promotional materials such as sweepstakes entry forms, coupons or other mail-in offers and telephone calls to Ben & Jerry’s consumer services department. It does not apply to banners, sweepstakes or promotions sponsored by third parties in which Ben & Jerry’s participates.
 
   * Your Consent to This Privacy Policy
   * Collection of Personal Information
@@ -23,13 +21,13 @@ Ben & Jerry’s Homemade, Inc. ("Ben & Jerry’s” ) cares about your privacy. 
 
 
 
-Your Consent to This Privacy Policy
+**Your Consent to This Privacy Policy**
 
 By providing Ben & Jerry’s with Personal Information, you signify that you agree with the terms of our current Privacy Policy as posted here. If you do not agree with any term in this Policy, please do not provide any Personal Information.
 
 If you choose not to provide Personal Information, you may not be able to do certain things, like access particular areas of our website, enter sweepstakes or contests, request samples, or send us e-mail.
 
-Collection of Personal Information
+**Collection of Personal Information**
 
 As used in this Privacy Policy, “Personal Information” means personally identifiable information such as your name, street address, telephone number, credit card information, screen name and email address.
 
@@ -37,7 +35,7 @@ When you provide us with Personal Information, you are authorizing us to use tha
 
 We may also collect Personal Information from you about a third party (e.g., our website might allow you to send an electronic “post card” to a friend, in which case we will need that person’s name and e-mail address). Please note that we use such information only for the specified purpose (e.g., to mail the post card) and we will not contact the third party again unless and until the third party contacts us.
 
-How We Use Your Information
+**How We Use Your Information**
 
 When you supply us with your Personal Information we will use it for the express purpose for which it was collected (e.g., to enter you in a sweepstakes or to send you a sample). It may also be used to contact you regarding other products and services that may be of interest to you (including those we may offer jointly with other companies). At any time, however, you may opt out of such contact. (See Who to Contact.)
 
@@ -47,7 +45,7 @@ We may supplement the information that you provide to us with other information 
 
 Finally, please note that we will release your Personal Information if required to do so by law, or by search warrant, subpoena or court order.
 
-Other Information We May Collect Online
+**Other Information We May Collect Online**
 
 Other information that we may collect online, via the Ben & Jerry’s website, e-mail promotions and banners, for example, is described in this section.
 
@@ -61,23 +59,27 @@ Site measurement statistics may be used to personalize your web site experience,
 
 Finally, some of the pages you visit may use pixel tags (also called clear gifs) to collect information about your navigation on our website. This information is used to evaluate and enhance how the website functions.
 
-Privacy of Children Online
+**Privacy of Children Online**
 
 Ben & Jerry’s is committed to protecting the online privacy of children and making the Internet safe for our users. For this reason, Ben & Jerry’s does not collect personal information from children under 13. We encourage parents of children under 13 to regularly check and monitor their children’s use of e-mail and other activities on line.
 
-Security of Information
+**Security of Information**
 
 We take reasonable precautions to keep your Personal Information secure. All personally identifiable information is subject to restricted access to prevent unauthorized access, modification or misuse.
 
-Changes in Our Policy
+**Changes in Our Policy**
 
 Ben & Jerry’s reserves the right to change or remove this Privacy Policy at our discretion. We will post any new policy here and we encourage you to visit this area frequently to stay informed.
 
-Who to Contact
+**Who to Contact**
 
 Please write to us at [privacy@benjerry.com](mailto:privacy@benjerry.com) or at Ben & Jerry’s, 30 Community Drive, South Burlington, VT 05403-6828, or call us at 802-846-1500 if you have any comments or questions about this Privacy Policy or to report any violations of the Privacy Policy. We will respond to you within 24 to 48 hours in most cases. For other requests, please choose among the following options:
 
 If you **don’t want to be contacted** in the future or would like us to **correct or update your Personal Information** in our records, please use the appropriate link below:
+
+[Personal Information Update](https://web.archive.org/web/20100209022937id_/http%3A//www.benjerry.com/contact-us/update-info.cfm?action=update)
+
+[ **Do Not Contact**](https://web.archive.org/web/20100209022937id_/http%3A//www.benjerry.com/contact-us/update-info.cfm?action=remove)
 
 Ben & Jerry’s will take reasonable steps to comply with the foregoing requests.
 
