@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigboxstore.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215172833id_/http%3A//www.bigboxstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigboxstore.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209045402id_/http%3A//www.bigboxstore.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Shop Bigboxstore.com
+# Privacy Policy Bigboxstore.com
 
 ### Privacy policy
 
@@ -74,3 +74,11 @@ You may choose to restrict the collection or use of your personal information in
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+**Google Adsense and other Ads**
+
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet. 
+
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies. 
+
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Bigboxstore has no access or control over these cookies that may be used by third party advertisers. 
