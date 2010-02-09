@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freestuffhotdeals.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622014908id_/http%3A//www.freestuffhotdeals.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestuffhotdeals.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210000522id_/http%3A//www.freestuffhotdeals.com/privacy.html) for the most accurate reproduction.*
 
 # Free Stuff Hot Deals Privacy Policy
 
