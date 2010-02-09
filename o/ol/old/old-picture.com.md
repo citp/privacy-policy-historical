@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the old-picture.com privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828031103id_/http%3A//www.old-picture.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the old-picture.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209083306id_/http%3A//www.old-picture.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,6 +12,8 @@ As with most other websites, we collect and use the data contained in log files.
 
 **Cookies and Web Beacons**
 
-This site includes advertisements from third parties. Some of these advertisers may use technology such as cookies and web beacons in the ads. This will send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes or showing certain ads based on specific sites visited (such as showing history ads to someone who frequents history sites).
+This site includes advertisements from third parties. Some of these advertisers may use technology such as cookies and web beacons in the ads. This will send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes or showing certain ads based on specific sites visited (such as showing history ads to someone who frequents history sites).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. Consult the documentation for these applications to learn more. Realize, though, that changing these settings can affect how you are able to interact with this site as well as other websites.
+
+Google (and others), as a third party vendor, uses cookies to serve ads on this website (www.old-picture.com). Googleâ€™s use of the DART cookie enables it to serve ads to those visiting www.old-picture.com based on their visit to this site and other sites on the Internet. If a user wishes to opt out of the use of the DART cookie, they can do so by visiting the [ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
