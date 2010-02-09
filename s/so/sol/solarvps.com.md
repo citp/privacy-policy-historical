@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarvps.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115161240id_/http%3A//www.solarvps.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarvps.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209035354id_/http%3A//www.solarvps.com/privacy.php) for the most accurate reproduction.*
 
 # Solar VPS :: Privacy
 
@@ -26,7 +26,7 @@ Similar to other commercial Web sites, our Web site utilizes a standard technolo
 
 **How Do We Use the Information That You Provide to Us?**
 
-Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at [sales@solarvps.com](mailto:sales@solarvps.com).
+Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at [](mailto:).
 
 **What Are Cookies?**
 
@@ -42,7 +42,7 @@ We may enter into alliances, partnerships or other business arrangements with th
 
 **Notice of New Services and Changes**
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request at [sales@solarvps.com](mailto:sales@solarvps.com).
+Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request at [](mailto:).
 
 [SSL](http://www.instantssl.com/)   
 
