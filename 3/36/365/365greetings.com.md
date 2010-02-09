@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the 365greetings.com privacy policy that was archived on 2008-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081206191427id_/http%3A//www.365greetings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365greetings.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209083126id_/http%3A//www.365greetings.com/privacy.html) for the most accurate reproduction.*
 
-# Free Birthday Cards, Free Christmas Cards, New Year Cards - Privacy
+# Free Ecards, new year Greeting, Free Birthday Cards, Printable Cards, Wedding cards - Privacy
 
   
 
 
-##### Free Ecards Privacy Policy 
+##### 365greetings.com Privacy Policy 
 
 We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Free Ecards, (Free Ecards includes all Web sites and certain other Internet media properties hyper linked from the Free Ecards home page.) The following discloses our Privacy Policy. 
 
@@ -16,6 +16,18 @@ Every computer connected to the Internet is given a domain name and a set of num
 ##### What are cookies? 
 
 From time to time, Free Ecards or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of Free Ecards you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended. 
+
+##### We use third-party advertising companies
+
+We use third-party advertising companies to serve ads when you visit our website. 1\. The advertising networks may place a 3rd party cookie on your computer
+
+2\. Such a cookie may be used to tailor ad content both on the site you are visiting as well as other sites within that network that you may visit in the future. 
+
+You can opt out from these by using NAI opt-out tool at <http://www.networkadvertising.org/managing/opt_out.asp>
+
+These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [Click Here](http://www.google.com/privacy_ads.html)
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
 ##### How do you use single-pixel gifs? 
 
@@ -49,6 +61,10 @@ Free Ecards will disclose personal information and/or an IP address, when requir
 
 
 Free Ecards uses reasonable precautions to keep the information disclosed to us secure. Free Ecards reserves the right to transfer all such information in connection with the sale of all or part of Free Ecards's capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. We are not responsible for such third party privacy policies or how they treat information about their users See below, What else should I know about my privacy when online? See What information do you collect when I register for something. 
+
+#####  Can I send an e-card to my customers? 
+
+In some cases, it may be illegal for an organization or business to use an e-card service to send greetings to its customers. For instance, data privacy laws may forbid a business from disclosing information about customers to a third party – including names and email addresses. So please refer to your agreement with your customers befere using our service 
 
 ##### What else should I know about my privacy when online? 
 
