@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the yieldmanager.net privacy policy that was archived on 2007-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070703080850id_/http%3A//www.yieldmanager.net/content/company/privacy-policy/6%2C604) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yieldmanager.net privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209071529id_/http%3A//www.rightmedia.com/company/privacy-policy/index.php) for the most accurate reproduction.*
 
-# Right Media: Privacy Policy for Right Media's Corporate Site
+# Right Media: Company: Privacy Policy for Right Media's Corporate Site
 
-This privacy policy describes how the Right Media corporate website (the “Right Media Site”) collects and uses information from users. This site provides users, primarily consumers, current and prospective customers, and job seekers, with information about our company, products, services, and the ability to contact us for further information. 
+This privacy policy describes how the Right Media corporate website (the “Right Media Site”) collects and uses information from users. This site provides users, primarily consumers, current and prospective customers, and job seekers, with information about our company, products, services, and the ability to contact us for further information.
+
+On July 11, Right Media was acquired by Yahoo! and will soon become a part of the Yahoo! network of products and services. Until further notice, information collected by Right Media will continue to be subject to the Right Media Privacy Policy. 
 
 If you are a user and want to learn more about the privacy principles for our advertising technology ad.yieldmanager.com, [click here](http://content.yieldmanager.com/ym_privacy.html).
 
@@ -86,13 +88,10 @@ Right Media does not control or condone the creation or supply of these ads on y
 
 Pop-up ads originate from two sources: websites that show pop-up ads to generate advertising revenue; or programs installed on your computer can show pop-up ads. Such ad-enabled programs are very often bundled with freeware/shareware and peer-to-peer sharing programs that you may have downloaded.
 
-If you would like help in removing the adware or spyware please contact us using the [Contact Form](https://web.archive.org/content/company/contact/contact-form/6,642), [e-mail](https://web.archive.org/content/company/contact/6,66) or [phone](https://web.archive.org/content/company/contact/6,66).
+If you would like help in removing the adware or spyware please contact us using the [Contact Form](https://web.archive.org/company/contact/contact-form/), [e-mail](https://web.archive.org/company/contact/) or [phone](https://web.archive.org/company/contact/).
 
 Also, in order to prevent this from happening again to you or others, we also request that you send us the click-through URL so that we may find the party responsible for this problem.
 
 ### Acceptance of Privacy Policy
 
 When you use the Right Media Site, you are accepting the terms and conditions of this Privacy Policy, and Right Media will have the right to use your information as described in this Privacy Policy.  If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Right Media Site.  Right Media reserves the right to modify this Privacy Policy at any time, and we will post the date on which the Privacy Policy was last updated.  Your continued use of the Right Media Site after a change in the Privacy Policy will constitute your acceptance of those changes.  If you have questions or concerns about this Privacy Policy, please click here for customer support or write to Right Media at Right Media Inc., Attention:  Privacy Policies, 212 Fifth Avenue, 8th Floor, New York, NY  10010.
-
-  
-
