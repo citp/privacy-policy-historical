@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peerfly.com privacy policy that was archived on 2009-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090210151440id_/http%3A//peerfly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peerfly.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209011712id_/http%3A//peerfly.com/privacy.php) for the most accurate reproduction.*
 
 # PeerFly.com Affiliate Network - Taking You To New Heights!
 
@@ -49,6 +49,5 @@ If you'd like us to delete any PII that you have provided to us on our Website, 
 If you have any questions about this Privacy Policy or the practices of PeerFly, please feel free to contact us at [privacy@peerfly.com](mailto:privacy@peerfly.com), or via postal mail at:
 
 Avlo Media Inc.  
-6519 West Newberry Road  
-Suite B5  
-Gainesville, FL 32605 
+23245 NW CR 236  
+High Springs, Florida 32643 
