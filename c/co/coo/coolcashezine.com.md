@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolcashezine.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614030319id_/http%3A//www.coolcashezine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolcashezine.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209021944id_/http%3A//www.coolcashezine.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ We invite you to contact us if you have questions about this policy. 
 
 You may contact us by filling out this form:
 
-[Contact Us](https://web.archive.org/web/20090614030319id_/contact-us.html)
+[Contact Us](https://web.archive.org/web/20100209021944id_/contact-us.html)
 
 Site Visits:
 
@@ -28,4 +28,4 @@ The email addresses collected from opt-ins to our mailing lists are not sold, or
 
 Any data collected will be used by ourselves and our agents hereby reserves the right to transfer any data collected in the event of an acquisition, full or partial, of the company or its assets.
 
-If you have questions regarding our privacy policies, or require assistance in opting out of our email lists, please [contact us](https://web.archive.org/web/20090614030319id_/http%3A//www.coolcashezine.com/feedback.html).
+If you have questions regarding our privacy policies, or require assistance in opting out of our email lists, please [contact us](https://web.archive.org/web/20100209021944id_/http%3A//www.coolcashezine.com/feedback.html).
