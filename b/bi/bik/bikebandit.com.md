@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikebandit.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509084113id_/http%3A//www.bikebandit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikebandit.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210000823id_/http%3A//www.bikebandit.com/privacy) for the most accurate reproduction.*
 
 # Motorcycle Parts, Motorcycle Accessories by BikeBandit.com
 
@@ -8,7 +8,7 @@
 ---|---|---  
 _****_| _****_| **_We don't store any credit card details online._**  
 _****_| _****_| **_We never sell, share or disclose any customer information - including your email address - to anyone. Ever. Period._**  
-_****_| _****_| _**We follow the Verisign and BBB guidelines for online security and customer privacy.**_  
+_****_| _****_| _**We follow the BBB guidelines for online security and customer privacy.**_  
 _****_| _****_| _**We respect our customers wishes to be removed from our mailing list.**_  
   
 **_  
@@ -48,11 +48,11 @@ Security
 
 **_
 
-BikeBandit.com take precautions to protect your information. When you submit sensitive information via the BikeBandit.com website, your information is protected both online and offline.
+BikeBandit.com takes precautions to protect your information. When you submit sensitive information via the BikeBandit.com website, your information is protected both online and offline.
 
-Wherever BikeBandit.com collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
+Wherever BikeBandit.com collects sensitive information (such as credit card data), it is encrypted and transmitted securely. You can verify this by looking for a closed lock icon at the bottom of your web browser, or by looking for "https" at the beginning of the address of the web page. 
 
-While BikeBandit.com uses encryption to protect sensitive information transmitted online, BikeBandit.com also protects your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which BikeBandit.com stores personally identifiable information are kept in a secure environment. 
+While BikeBandit.com uses encryption to protect sensitive information transmitted online, we also protect your information offline. Only the employees who need your information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which BikeBandit.com stores personally identifiable information are kept in a secure environment.
 
   
 **  
