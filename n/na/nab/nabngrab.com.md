@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nabngrab.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202055017id_/http%3A//www.nabngrab.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabngrab.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209055613id_/http%3A//www.nabngrab.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policies for Nabngrab.com - Nab n Grab Online Penny Auctions
 
