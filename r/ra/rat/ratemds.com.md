@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratemds.com privacy policy that was archived on 2007-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070815152842id_/http%3A//www.ratemds.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemds.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209232031id_/http%3A//www.ratemds.com/privacy.html) for the most accurate reproduction.*
 
 # RateMDs.com Privacy Policy
 
