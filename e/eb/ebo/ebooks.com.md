@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416024843id_/http%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209035415id_/http%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
 
 # eBooks.com - Help - Privacy
 
-**Download a book today**  
-168,000 popular, professional and academic ebooks from the world's leading publishers
+Ebooks for PCs, Macs, Sony Readers, mobile phones ...  
+A vast range of ebooks from the world's leading academic, popular and professional publishers
 
 | | | 
 
@@ -161,8 +161,8 @@ Easy steps to using eBooks
 [ ** **Sign up for Email Alerts****](http://www.ebooks.com/news/42.asp)  
 Receive an email alert when we release new books in your field.
 
-[ ** **10% off New York Times Best Sellers****](http://www.ebooks.com/news/5475.asp)  
-eBook versions of the New York Times Best Sellers - at 10% off!
+[ ** **New York Times Bestsellers - $9.99****](http://www.ebooks.com/news/5475.asp)  
+eBook versions of the New York Times Best Sellers - at just $9.99
 
 [ ** **Best Selling Fiction Titles****](http://www.ebooks.com/news/46.asp)  
 Books that are definitely worth a read - our Best Selling Fiction
@@ -187,6 +187,9 @@ Cambridge University Press, the oldest university press in the world, has just l
 
 [ ** **Wealth Building****](http://www.ebooks.com/news/72.asp)  
 Be inspired to gain control of your financial future with titles that give you the motivation and information necessary to create abundance.
+
+[ ** **Adams Media Bestsellers****](http://www.ebooks.com/news/53008.asp)  
+Bestsellers from Adams Media
 
 [ ** **Gift Certificates****](http://www.ebooks.com/gift-certificates/)  
 Give the gift of reading with an eBooks.com Gift Certificate
