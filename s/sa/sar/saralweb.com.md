@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the saralweb.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606025324id_/http%3A//www.saralweb.com/%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saralweb.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209095748id_/http%3A//www.saralweb.com/%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Saralweb : Free Classifieds Delhi India
+# Saralweb.com - Free classified advertising and business services : Delhi, Noida, Gurgaon, India.
 
-\-->  
+|    
+[](http://www.saralweb.com/) |   
+---|---  
 |    
 ---  
 |  | | **SARALWEB.COM PRIVACY POLICY**  
 ---|---  
   
-Your privacy is important to us, so Saralweb has created this Privacy Policy to explain how your information is protected, collected and used. This Privacy Policy applies to all Saralweb websites, including our publicly accessible web sites located at Saralweb.com ("Saralweb"). This Privacy Policy may be updated from time to time. You can always review the most current version at www.saralweb.com By using Saralweb, you consent to the terms and conditions of this Privacy Policy and are aware that our policies may evolve in the future. If there is a conflict between our Terms of Use governing your use of the Sites and this Privacy Policy, the Terms of Use control.   
+Your privacy is important to us, so Saralweb has created this Privacy Policy to explain how your information is protected, collected and used. This Privacy Policy applies to all Saralweb websites, including our publicly accessible web sites located at Saralweb.com ("Saralweb"). This Privacy Policy may be updated from time to time. You can always review the most current version at www.saralweb.com By using Saralweb, you consent to the terms and conditions of this Privacy Policy and are aware that our policies may evolve in the future. If there is a conflict between our Terms of Use governing your use of the Sites and this Privacy Policy, the Terms of Use control.  
 Collection
 
 Collection   
@@ -60,9 +62,7 @@ We may update this policy at any time, with updates taking effect when you next 
 Questions, Comments, Concerns  
 If you have any questions or comments about our use of Personal Information, please contact us at [support@netgables.com](mailto:support@netgables.com).   
   
-| | **Advertisment**  
+| | **Advertisement**  
 ---|---  
-**Our Delivery Includes :**  
-Custom design, development, hosting, and ongoing maintenance. Our world class hosting infrastructure offers faster access to web pages, email, and application features.  
   
  
