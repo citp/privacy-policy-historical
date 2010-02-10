@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the earnersunite.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520130443id_/http%3A//earnersunite.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnersunite.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210071129id_/http%3A//earnersunite.com/privacy.php) for the most accurate reproduction.*
 
-# Earners Unite
+# Earners Unite- Grow Together! Earn Together!
 
 Earners Unite Privacy Policy
 
@@ -33,5 +33,3 @@ Links: This web site contains links to other web sites. Please note that when yo
 
   
 Copyright (c) 2009 Earners Unite All Rights Reserved 
-
-[Terms and Conditions](https://web.archive.org/web/20090520130443id_/http%3A//earnersunite.com/terms.php)| [Earnings Disclaimer](https://web.archive.org/web/20090520130443id_/http%3A//earnersunite.com/earnings.php)|  [ Spam Policy](https://web.archive.org/web/20090520130443id_/http%3A//earnersunite.com/spam.php)|  [ Privacy Policy](https://web.archive.org/web/20090520130443id_/http%3A//earnersunite.com/privacy.php)| 
