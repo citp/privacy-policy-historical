@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the internet-webhosting.com privacy policy that was archived on 2009-02-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090207204711id_/http%3A//www.internet-webhosting.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the internet-webhosting.com privacy policy that was archived on 2010-02-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100210023659id_/http%3A//www.internet-webhosting.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>Malaysia Webhosting, Dedicated Server, Domain Registration &amp; Website Design - PRIVACY</title>
-<meta name="Description" content="PRIVACY Page :- Established Malaysia Webhosting Company - 2GB Web Hosting For Only RM80/Year with unbelievable price for Website Design, Domain Registration and Offshore Dedicated Server. Available for Linux and Windows Platform, all at the same price and specifications. A Malaysia Hosting Company.">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Malaysia Webhosting, Dedicated Server, Domain Registration &amp; Website Design -  PRIVACY</title>
+<meta name="Description" content=" PRIVACY Page :- Established Malaysia Webhosting Company - 10GB Web Hosting For Only RM80/Year with unbelievable price for Website Design, Domain Registration and Offshore Dedicated Server. Available for Linux and Windows Platform, all at the same price and specifications. A Malaysia Hosting Company.">
 <meta name="Distribution" content="Global">
 <meta name="Keywords" content="webhosting, website, dedicated server, server, dedicated, linux server, windows server, offshore hosting, offshore dedicated server, design, hosting, domain, system development, mysql, email, unlimited email, web hosting, webdesign, internet-webhosting, internet webhosting"> 
 <meta name="GENERATOR" content="Microsoft FrontPage 6.0">
@@ -21,369 +22,235 @@
 <meta name="Author" content="Site Powered by Internet-Webhosting.com">
 <meta http-equiv="audience" content="General">
 <meta http-equiv="EXPIRES" content="0">
-<meta http-equiv="VW96.OBJECT TYPE" content="Document">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<link rel="SHORTCUT ICON" href="images/ftpmanager.ico">
-<link rel="STYLESHEET" type="text/css" href="myweb.css">
-<script language="JavaScript" src="images/general.js" type="text/javascript"></script>	
+<link rel="Shortcut Icon" href="images/ftpmanager.ico">
+<link href="css/styles.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/general.js"></script>
+<script language="JavaScript" src="js/newsscrollerscripts.js" type="text/javascript"></script>
 
-<script language="javascript" type="text/javascript">
-var cot_loc0=(window.location.protocol == "https:")? "https://secure.comodo.net/trustlogo/javascript/cot.js" :
-"http://www.trustlogo.com/trustlogo/javascript/cot.js";
-document.writeln('<script language="JavaScript" src="'+cot_loc0+'" type="text\/javascript"><\/script>');
-</script><script language="JavaScript" src="https://secure.comodo.net/trustlogo/javascript/cot.js" type="text/javascript"></script>
+<script type="text/javascript">
+var timeout    = 500;
+var closetimer = 0;
+var ddmenuitem = 0;
+
+function jsddm_open()
+{  jsddm_canceltimer();
+   jsddm_close();
+   ddmenuitem = $(this).find('ul').css('visibility', 'visible');}
+
+function jsddm_close()
+{  if(ddmenuitem) ddmenuitem.css('visibility', 'hidden');}
+
+function jsddm_timer()
+{  closetimer = window.setTimeout(jsddm_close, timeout);}
+
+function jsddm_canceltimer()
+{  if(closetimer)
+   {  window.clearTimeout(closetimer);
+      closetimer = null;}}
+
+$(document).ready(function()
+{  $('#jsddm > li').bind('mouseover', jsddm_open)
+   $('#jsddm > li').bind('mouseout',  jsddm_timer)});
+
+document.onclick = jsddm_close;
+</script>
+
+
+
+<script type="text/javascript" src="js/jquery.lightbox.js"></script>
+
+
+
+<script type="text/javascript" src="menu/menu.js"></script><style type="text/css">.qmfv{visibility:visible !important;}.qmfh{visibility:hidden !important;}</style><style type="text/css">.qmvibcssmenu{}#qm0 .qm-ibcss-static span{background-color:#CC0000;border-color:#CC0000;}div#qm0  .qm-ibcss-hover span{background-color:#009900;border-color:#009900;}body div#qm0  .qm-ibcss-active span{background-color:#009900;border-color:#009900;}#qm1 .qm-ibcss-static span{background-color:#009900;border-color:#009900;}div#qm1  .qm-ibcss-hover span{background-color:#009900;border-color:#009900;}body div#qm1  .qm-ibcss-active span{background-color:#009900;border-color:#009900;}#qm0 div .qm-ibcss-static span{background-color:#AB2500;border-color:#AB2500;}div#qm0  div .qm-ibcss-hover span{background-color:#0066cc;border-color:#FEDC85;}body div#qm0  div .qm-ibcss-active span{background-color:#FEDC85;border-color:#FEDC85;}#qm1 div .qm-ibcss-static span{background-color:#FEDC85;border-color:#FEDC85;}div#qm1  div .qm-ibcss-hover span{background-color:#FEDC85;border-color:#FEDC85;}body div#qm1  div .qm-ibcss-active span{background-color:#FEDC85;border-color:#FEDC85;}</style>
+<link rel="stylesheet" type="text/css" href="menu/menu.css">
+
+
+<link rel="stylesheet" type="text/css" href="css/jquery.lightbox-0.5.css">
+<script type="text/javascript">
+$(function() {
+	$('a.lightbox').lightBox(); 
+});
+</script>
+ 
+
+<script type="text/javascript">
+function onchangeSelection(selectObj){
+var formObj = selectObj.form;
+var optionIndex = selectObj.options.selectedIndex;
+var urlvalue = selectObj.options[optionIndex].attributes['value'].value;
+ 
+formObj.attributes['action'].value = urlvalue;
+//alert(formObj.attributes['action'].value);
+ 
+}
+ 
+</script>
 
 
 </head>
-
-
-
 <body>
+<div id="wrapper">
+  <div id="row1">
+    <div id="col1"><img src="images/logo.jpg" alt="Internet Web Hosting" width="633" height="85"></div>
+    
 
 
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td background="images/1.jpg" width="766" height="33" style="font-size: 10px; font-family: Tahoma">
-		
-		
-				
-		
-		<div class="t10" style="float:right;padding-top:10px;padding-right:50px ">
-		
-		<font color="#005A89">
-		
-				
-		</font>
 
-		
-		
-		<font color="#333333">
-		
-		Ministry of Finance Malaysia Registration No : 357-02118312</font>
-
-		
-		
+<div id="col2">
+		<form method="post" action="https://www.internet-webhosting.com/secure/aLogIn.php" id="form2" name="form2" onsubmit="submitonce(this)" style="padding:0; margin:0;">
+			<table width="100%" border="0" cellpadding="1" cellspacing="0">
+				<tbody><tr>
+					<td>Username</td>
+					<td>:</td>
+					<td><input type="text" name="newuid" value=""></td>
+					<td><img src="images/secure.gif" alt="Secure" width="22" height="30"></td>
+					<td><select name="clienttype" id="clienttype" onchange="onchangeSelection(this);">
+							<option value="secure/aLogIn.php">Malaysia Client</option>
+							<option value="secures/aLogIn.php">International Client</option>
+						</select></td>
+				</tr>
+				<tr>
+					<td>Password</td>
+					<td>:</td>
+					<td><input type="password" name="password1"></td>
+					<td colspan="2"><table border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td><input name="login" type="image" id="login" src="images/button_login.jpg" alt="Login"></td>
+								<td><span style="white-space:nowrap">&nbsp;<a id="forgotpassword" href="https://www.internet-webhosting.com/secure/LostPassword.php">Lost password?</a></span></td>
+							</tr>
+						</tbody></table></td>
+				</tr>
+			</tbody></table>
+	<input type="hidden" name="action" value="login">
+	<input type="hidden" name="rtype" value="">
+	<input type="hidden" name="subaction" value="">
+	<input type="hidden" name="cSld" value="">
+	<input type="hidden" name="cTld" value="">
+	<input type="hidden" name="id" value="">
+			<input type="hidden" name="nameemail" value="">
+	<input type="hidden" name="namebundle" value="">
+			</form>
 		</div>
-	
 		
-		</td>
-			<td background="images/r11.jpg" rowspan="3"></td>
-	</tr>
-	<tr>
-		<td>
-			<map name="FPMap0">
-            <area href="index.php" shape="rect" coords="207, 11, 266, 30">
-            <area href="hosting.php" shape="rect" coords="308, 11, 386, 33">
-            <area href="vps.php" shape="rect" coords="411, 13, 489, 31">
-            <area href="domain.php" shape="rect" coords="515, 9, 592, 32">
-            <area href="contact.php" shape="rect" coords="618, 8, 702, 34">
-            </map>
-			<img src="images/2.jpg" usemap="#FPMap0" border="0" alt="Menu Malaysia Web Hosting" width="766" height="40"></td>
-	</tr>
-	<tr>
-		<td><link rel="STYLESHEET" type="text/css" href="myweb.css"><table width="766" border="0" cellpadding="0" cellspacing="0">
-          <tbody><tr>
-            <td> 
-            <img src="images/3.gif" width="203" height="181" alt="Malaysia Web Hosting"></td>
-            <td width="563" height="181">
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="563" height="181">
-        <param name="movie" value="flash/0895_1.swf">
-        <param name="quality" value="high"><param name="LOOP" value="false">
-        <param name="wmode" value="transparent">
-        <embed src="flash/0895_1.swf" wmode="transparent" width="563" height="181" loop="false" quality="high" pluginspage="https://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash">
-      </object>
-
-			  
- 			  
-			  
-			  
-			   </td>
-
-	   
-<script language="JavaScript">COT("/images/cornertrust.gif", "SC2", "none");</script>
+		
+		
+		
 
 
 
-
-            </tr>
-        </tbody></table></td>
-	</tr>
-	<tr>
-		<td height="100%"><table width="766" border="0" cellpadding="0" cellspacing="0" height="100%">
-          <tbody><tr>
-            <td height="100%"><table width="203" border="0" cellpadding="0" cellspacing="0" height="100%">
-              <tbody><tr>
+</div>
+<div style="text-align:center;"><div class="qmmc" id="qm0" style="zoom: 1; z-index: 11;"><a href="index.php">Home</a><a href="#" class="qmparent"><span class="qm-ibcss-static" qmvbefore="1" isibulletcss="1" style="display: block; position: relative; font-size: 1px; line-height: 0px; z-index: 1; left: 73px; top: -8px;"></span>Our Products</a><div id="" style="z-index: 21;"><a href="hosting.php" class="qmparent"><span class="qm-ibcss-static" qmvbefore="1" isibulletcss="1" style="display: block; position: relative; font-size: 1px; line-height: 0px; z-index: 1; left: 151px; top: 6px;"><span style="border-width:8px 0px 0px 0px;border-style:solid;display:block;position:absolute;overflow:hidden;font-size:1px;line-height:0px;height:0px;margin:0px 0px 0px 0px;width:1px;top:-4px;left:0px;"></span><span style="border-width:1px 0px 1px 0px;border-style:solid;display:block;position:absolute;overflow:hidden;font-size:1px;line-height:0px;height:4px;margin:1px 0px 1px 0px;width:1px;top:-4px;left:1px;"></span><span style="border-width:1px 0px 1px 0px;border-style:solid;display:block;position:absolute;overflow:hidden;font-size:1px;line-height:0px;height:2px;margin:2px 0px 2px 0px;width:1px;top:-4px;left:2px;"></span><span style="border-width:1px 0px 1px 0px;border-style:solid;display:block;position:absolute;overflow:hidden;font-size:1px;line-height:0px;height:0px;margin:3px 0px 3px 0px;width:1px;top:-4px;left:3px;"></span></span>Shared Hosting</a><div id="" style="margin: 3px 0px 0px -15px; z-index: 31;"><a href="hosting-linux.php"> Linux Hosting  Platform</a><a href="hosting-windows.php"> Windows Hosting  Platform</a></div><a href="dedicated.php">Dedicated Server</a><a href="vps.php">Virtual Private Server</a><a href="reseller.php">Reseller Hosting Package</a><a href="colocation.php">Server Colocation</a><a href="refugees.php">Refugees Specials</a></div><a href="#" class="qmparent"><span class="qm-ibcss-static" qmvbefore="1" isibulletcss="1" style="display: block; position: relative; font-size: 1px; line-height: 0px; z-index: 1; left: 70px; top: -8px;"></span>Our Services</a><div id="" style="z-index: 21;"><a href="domain.php">Domain  Registration Services</a><a href="ssl.php">SSL  Certs and Security</a><a href="sitebuilder.php">SiteBuilder Services</a><a href="ecommerce.php">E-Commerce and Online Payment</a><a href="design.php">Website Design</a><a href="analytic.php">Marketing Analytic Solutions</a><a href="affiliate.php">Affiliates Programmes</a></div><a href="#" class="qmparent"><span class="qm-ibcss-static" qmvbefore="1" isibulletcss="1" style="display: block; position: relative; font-size: 1px; line-height: 0px; z-index: 1; left: 42px; top: -8px;"></span>Support</a><div id="" style="z-index: 21;"><a href="#" class="qmparent"><span class="qm-ibcss-static" qmvbefore="1" isibulletcss="1" style="display: block; position: relative; font-size: 1px; line-height: 0px; z-index: 1; left: 149px; top: 6px;"><span style="border-width:8px 0px 0px 0px;border-style:solid;display:block;position:absolute;overflow:hidden;font-size:1px;line-height:0px;height:0px;margin:0px 0px 0px 0px;width:1px;top:-4px;left:0px;"></span><span style="border-width:1px 0px 1px 0px;border-style:solid;display:block;position:absolute;overflow:hidden;font-size:1px;line-height:0px;height:4px;margin:1px 0px 1px 0px;width:1px;top:-4px;left:1px;"></span><span style="border-width:1px 0px 1px 0px;border-style:solid;display:block;position:absolute;overflow:hidden;font-size:1px;line-height:0px;height:2px;margin:2px 0px 2px 0px;width:1px;top:-4px;left:2px;"></span><span style="border-width:1px 0px 1px 0px;border-style:solid;display:block;position:absolute;overflow:hidden;font-size:1px;line-height:0px;height:0px;margin:3px 0px 3px 0px;width:1px;top:-4px;left:3px;"></span></span>Online Tutorials</a><div id="" style="margin: 3px 0px 0px -15px; z-index: 31;"><a href="tutorial-linux.php">CPanel Flash</a><a href="pleskfaq/index.html">Plesk Manual</a></div><a href="https://support.internet-webhosting.com">Technical Support Center</a><a href="payment.php">Payment Information</a><a href="terms.php">Terms Of Services</a><a href="server.php">Our Server</a></div><a href="contact.php">Contact Us</a><a href="#" class="qmparent"><span class="qm-ibcss-static" qmvbefore="1" isibulletcss="1" style="display: block; position: relative; font-size: 1px; line-height: 0px; z-index: 1; left: 29px; top: -8px;"></span>Order</a><div id="" style="z-index: 21;"><a href="order.php">Shared Hosting</a><a href="order.php">Domain Registration</a><a href="dedicated.php">Dedicated Server</a><a href="vps.php">Virtual Private Server</a><a href="colocation.php">Colocation Services</a><a href="resellerorder.php">Reseller Hosting Package</a><a href="ssl.php">SSL Certs and Security<br>
+            </a></div><a href="secure/aLogIn.php" class="qmparent"><span class="qm-ibcss-static" qmvbefore="1" isibulletcss="1" style="display: block; position: relative; font-size: 1px; line-height: 0px; z-index: 1; left: 44px; top: -8px;"></span>Account</a><div id="" style="z-index: 21;"><a href="secure/aLogIn.php">Log In</a><a href="secure/createacct.php">Create Account</a><a href="secure/cart.php">My Cart</a></div><span class="qmclear"> </span></div>
+<script type="text/javascript">qm_create(0,false,0,500,false,false,false,false);</script></div>
+    
+  <div class="clear" id="row3">
+<table width="100%" border="0" cellpadding="0">
 
 
-<td> 
-<link rel="STYLESHEET" type="text/css" href="myweb.css">      
-<img src="images/5.gif" alt="Malaysia Webhosting" cellspacing="0" cellpadding="0" align="bottom"></td>
-              </tr>
-              <tr>
-                <td background="images/bak1.gif" height="100%" width="203"><table background="images/23.gif" style="background-repeat:no-repeat" width="203" height="494" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><div style="padding-top:5px;padding-left:20px;padding-right:15px ">
-	   <p style="margin-top: 0; margin-bottom: 0">
-	   <img src="images/arr1.gif"> <span class="style1">Internet-Webhosting  is a Malaysian based company.</span></p>
-       <p style="margin-top: 0; margin-bottom: 0"> <span class="style1"><span style="font-weight: 400">We provides virtual web hosting solution 
-		&amp; dedicated server to customers ranging from individuals to major 
-		businesses. We offer a range of Linux &amp; Windows based server for many difference scenarios.</span></span>
-<br>
-       </p>
-<div style="padding-top:5px;padding-right:5px " align="right">
-<p style="margin-top: 0; margin-bottom: 0">
-<strong><span class="style2">internet-</span><span class="style1">webhosting</span></strong><span class="style1"> team
-</span>
-</p></div>
-	</div>
-	
-    <p style="text-align: center; margin-top:0; margin-bottom:0">&nbsp;</p>
+<tbody><tr>
+<td>
 
-    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
+<form name="whois_search" action="domain.php" method="post" style="margin-top: 0; margin-bottom: 0">
+Check Domain: <span id="www">www.</span> <input type="text" name="domain" id="domain" size="75" align="middle">
+<input type="hidden" name="page" value="WhoisSearch"> 
+<input name="b1" type="image" id="b1" src="images/button_check.jpg" alt="Check" style="vertical-align:bottom">
+</form>
+
+
+</td>
+
+<td align="right" valign="bottom">
+
+<script type="text/javascript" language="javascript" src="https://support.internet-webhosting.com/visitor/index.php?_m=livesupport&amp;_a=htmlcode&amp;departmentid=0&amp;fullname=&amp;email="></script>
+</td>
+
+</tr>
+
+
+</tbody></table>
+</div>
+
+<div id="newsscroller">
+<script language="JavaScript" type="text/javascript">
+	AC_FL_RunContent(
+		'codebase', 'https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0',
+		'width', '960',
+		'height', '20',
+		'src', 'scroller',
+		'quality', 'high',
+		'pluginspage', 'https://www.adobe.com/go/getflashplayer',
+		'align', 'middle',
+		'play', 'true',
+		'loop', 'true',
+		'scale', 'showall',
+		'wmode', 'transparent',
+		'devicefont', 'false',
+		'id', 'scroller',
+		'bgcolor', '#ffffff',
+		'name', 'scroller',
+		'menu', 'true',
+		'allowFullScreen', 'false',
+		'allowScriptAccess','sameDomain',
+		'movie', 'scroller',
+		'flashvars','txtFile=anastasio.txt&amp;speed=10&amp;bgcolor=0x0000ff&amp;transparent=true',
+		'salign', ''
+		); //end AC code
+</script><embed width="960" height="20" src="scroller.swf?browser=false" quality="high" pluginspage="https://www.adobe.com/go/getflashplayer" align="middle" play="true" loop="true" scale="showall" wmode="transparent" devicefont="false" bgcolor="#ffffff" name="scroller" menu="true" allowfullscreen="false" allowscriptaccess="sameDomain" flashvars="txtFile=anastasio.txt&amp;speed=10&amp;bgcolor=0x0000ff&amp;transparent=true" salign="" type="application/x-shockwave-flash"> </div>
+  <div id="col3">
+    <table width="100%" border="0" cellpadding="0">
       <tbody><tr>
-      
-<td width="100%" style="vertical-align: middle">
-       <form method="post" action="secure/aLogIn.php">
-       <input type="hidden" name="action" value="login">
-       <input type="hidden" name="rtype" value="">
-       <input type="hidden" name="subaction" value=""> 
-       <input type="hidden" name="cSld" value="">
-       <input type="hidden" name="cTld" value=""> 
-       <input type="hidden" name="id" value="">
-       <input type="hidden" name="nameemail" value=""> 
-	   <input type="hidden" name="namebundle" value="">
-       <p style="text-align: center; margin-top: 0; margin-bottom: 0">
-		<img src="images/index_30.jpg" align="left" alt="Hosting Member Login" width="173" height="39"></p>
-        <p style="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;</p>
-        <p style="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;</p>
-        <p style="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;</p>
-        <p style="margin-top: 0; margin-bottom: 0">&nbsp;&nbsp;&nbsp;&nbsp; Username:
-        <input type="text" name="newuid" size="15" maxlength="272" style="font-family: Tahoma; font-size: 9pt; color: #707780; border: 1px solid #707780; background-color: #FFFFFF">
-        </p>
-        <p style="margin-top: 0; margin-bottom: 0">&nbsp;&nbsp;&nbsp;&nbsp; Password:&nbsp;
-        <input type="password" maxlength="60" name="password1" size="15" style="font-family: Tahoma; font-size: 9pt; color: #707780; border: 1px solid #707780; background-color: #FFFFFF"></p><p style="margin-top: 0; margin-bottom: 0; ">
+        <td>
         
-        <font color="#F35E18">&nbsp;&nbsp;&nbsp;&nbsp;
-		<a href="secure/LostPassword.php"><font color="#F35E18" size="1">Forgot 
-		Password</font></a></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div id="menubody">
+<p><a href="hosting-linux.php">Linux Hosting Platform</a></p>
+<p><a href="hosting-windows.php">Windows Hosting Platform</a></p>
+<p><a href="domain.php">Domain Registration</a></p>
+<p><a href="vps.php">Virtual Private Server</a></p>
+<p class="noborder"><a href="dedicated.php">Dedicated Server</a></p>
+          </div>        
         
-        <input type="submit" value="Login" name="submit" style="font-size: 8pt; color: #707780; border: 1px solid #C4C8CE; background-color: #ECEFF1">
-        </p><p style="margin-top: 0; margin-bottom: 0; ">
-        &nbsp;</p><p style="margin-top: 0; margin-bottom: 0; ">
-        <font size="1"><font color="#F35E18"><b>&nbsp;&nbsp;&nbsp;&nbsp; Note :</b>
-        </font>Secure Member's Area </font>
-        </p><p style="margin-top: 0; margin-bottom: 0; ">
-        </p></form></td>    
-        
-        </tr><tr>
-            <td width="100%">
-<p class="left" style="margin-top: 0; margin-bottom: 0">
-&nbsp;</p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">
-<img src="images/e01.gif" alt="Quick Links" border="0" align="middle">&nbsp;&nbsp;<b>QUICK 
-LINKS</b></p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">
-&nbsp;</p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">
-<font color="#57616D">&nbsp; 
-<img src="images/dot_o.gif" alt="Button" border="0">&nbsp;&nbsp;<b><a href="order.php"><font color="#7A8695">Order 
-Now !</font></a></b></font></p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">
-&nbsp;</p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">
-<font color="#57616D">&nbsp; 
-<img src="images/dot_o.gif" alt="Button" border="0">&nbsp;&nbsp;<a href="testimonial.php"><font color="#57616D">Our Testimonial !</font></a></font><font color="#C4C8CE">&nbsp;<img border="0" src="images/hot_small.gif" width="28" height="15">&nbsp;
-</font></p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">
-&nbsp;</p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">
-<font color="#57616D">&nbsp;
-<img src="images/dot_o.gif" alt="Button" border="0">&nbsp;&nbsp;</font><a href="server.php"><font color="#57616D">Our 
-Server</font></a></p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">
-&nbsp;</p>
-<p class="left" style="margin-top: 0; margin-bottom: 0"><font color="#57616D">&nbsp; <img src="images/dot_o.gif" alt="Button" border="0">&nbsp;&nbsp;</font><a href="analytic.php"><font color="#57616D">Marketing Analytic Solution
-</font></a>
-<img border="0" src="images/new_small.gif" width="28" height="15" alt="New Malaysia Webhosting"></p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
-<p class="left" style="margin-top: 0; margin-bottom: 0"><font color="#57616D">&nbsp;&nbsp;<img src="images/dot_o.gif" alt="Button" border="0">&nbsp;&nbsp;</font><a href="contact.php"><font color="#57616D">Contact 
-Us</font></a></p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
-<p class="left" style="margin-top: 0; margin-bottom: 0"><font color="#57616D">&nbsp; <img src="images/dot_o.gif" alt="Button" border="0">&nbsp;&nbsp;</font><a href="reseller.php"><font color="#57616D">Reseller
-</font></a>
-<img border="0" src="images/new_small.gif" width="28" height="15" alt="New Malaysia Webhosting"></p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
-<p class="left" style="margin-top: 0; margin-bottom: 0"><font color="#57616D">&nbsp; 
-<img src="images/dot_o.gif" alt="Button" border="0">&nbsp;&nbsp;<a href="hosting.php"><font color="#57616D">Web 
-Hosting</font></a></font></p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
-<p class="left" style="margin-top: 0; margin-bottom: 0"><font color="#57616D">&nbsp; 
-<img src="images/dot_o.gif" alt="Button" border="0">&nbsp;&nbsp;</font><a href="sitebuilder.php"><font color="#DD0000">Site Builder&nbsp;
-</font></a>
-<img border="0" src="images/new_small.gif" width="28" height="15" alt="New Malaysia Webhosting"></p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
-<p class="left" style="margin-top: 0; margin-bottom: 0"><font color="#57616D">&nbsp; <img src="images/dot_o.gif" alt="Button" border="0">&nbsp;</font>&nbsp;<a href="refugees.php"><font color="#707780">Refugee 
-Specials </font></a>
-</p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
-<p class="left" style="margin-top: 0; margin-bottom: 0"><font color="#57616D">&nbsp; 
-<img src="images/dot_o.gif" alt="Button" border="0">&nbsp; <a href="design.php">
-<font color="#57616D">Web 
-Design</font></a>
-</font></p><p class="left" style="margin-top: 0; margin-bottom: 0"><font color="#57616D">&nbsp;</font></p><font color="#57616D">
-<p class="left" style="margin-top: 0; margin-bottom: 0"><font color="#57616D">&nbsp; 
-<img src="images/dot_o.gif" alt="Button" border="0">&nbsp;&nbsp;</font><a href="domain.php"><font color="#57616D">Domain 
-Registration / Availability</font></a></p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
-<p class="left" style="margin-top: 0; margin-bottom: 0"><font color="#57616D">&nbsp; 
-<img src="images/dot_o.gif" alt="Button" border="0">&nbsp;&nbsp;</font><a href="dedicated.php"><font color="#57616D">Dedicated 
-Server</font></a> 
-<img border="0" src="images/new_small.gif" width="28" height="15" alt="New Malaysia Webhosting"></p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">&nbsp; 
-<img src="images/dot_o.gif" alt="Button" border="0">&nbsp;&nbsp;<a href="vps.php"><font color="#57616D">Virtual 
-Private Server (VPS)</font></a> 
-<img border="0" src="images/new_small.gif" width="28" height="15" alt="New Malaysia Webhosting"></p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">&nbsp; <img src="images/dot_o.gif" alt="Button" border="0">&nbsp;&nbsp;<a href="colocation.php"><font color="#57616D">Server Colocation
-</font></a> 
-<img border="0" src="images/new_small.gif" width="28" height="15" alt="New Malaysia Webhosting"></p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">&nbsp; 
-<img src="images/dot_o.gif" alt="Button" border="0">&nbsp;&nbsp;<a href="ssl.php"><font color="#57616D">SSL 
-Certs &amp; Security Services</font></a> 
-</p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
-<p class="left" style="margin-top: 0; margin-bottom: 0"><font color="#57616D">&nbsp; 
-<img src="images/dot_o.gif" alt="Button" border="0">&nbsp; <a href="ecommerce.php">
-<font color="#57616D">E-Commerce &amp; Online Payment</font></a></font></p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
-<p class="left" style="margin-top: 0; margin-bottom: 0"><font color="#57616D">&nbsp; 
-<img src="images/dot_o.gif" alt="Button" border="0">&nbsp;&nbsp;</font><a href="affiliate.php"><font color="#57616D">Affiliates Programmes</font></a><font color="#57616D">
-</font><img border="0" src="images/new_small.gif" width="28" height="15"></p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
-<p class="left" style="margin-top: 0; margin-bottom: 0"><font color="#57616D">&nbsp; 
-<img src="images/dot_o.gif" alt="Button" border="0">&nbsp;&nbsp;</font><a href="support.php"><font color="#57616D">Support</font></a></p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">&nbsp; 
-<img src="images/dot_o.gif" alt="Button" border="0">&nbsp;&nbsp;<a href="payment.php"><font color="#57616D">Payment 
-Info</font></a> </p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
-</font><p class="left" style="margin-top: 0; margin-bottom: 0"><font color="#57616D">&nbsp; 
-<img src="images/dot_o.gif" alt="Button" border="0">&nbsp;</font><font color="#005A89">&nbsp;</font><font color="#57616D"><a href="terms.php"><font color="#4D5764">Terms 
-of Services</font></a>
-</font></p><p class="left" style="margin-top: 0; margin-bottom: 0"><font color="#57616D">&nbsp;</font></p><font color="#57616D">
-<p class="left" style="margin-top: 0; margin-bottom: 0">&nbsp; 
-<img src="images/dot_o.gif" alt="Button" border="0">&nbsp;<font color="#005A89">&nbsp;</font><a href="career/"><font color="#4D5764">Job Vacancies</font></a><font color="#4D5764"> </font><img border="0" src="images/new_small.gif" width="28" height="15"></p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</font><font color="#F35E18">
-<p class="left" style="margin-top: 0; margin-bottom: 0; text-align:center">
-
-
-<b><font size="2">LATEST 150's  SUBSCRIBERS</font></b></p>
-</font><p class="left" style="margin-top: 0; margin-bottom: 0; text-align:center"><font color="#F35E18">
-
-
-</font><font size="1">Real-Time Update </font>
-
-
-
-
-</p>
-<p class="left" style="margin-top: 0; margin-bottom: 0; text-align:center">
-
-
-<font size="1">From 4500++ Domain Hosted</font></p>
-<p class="left" style="margin-top: 0; margin-bottom: 0; text-align:center">
-
-
-&nbsp;</p><font color="#57616D">
-<p class="left" style="margin-top: 0; margin-bottom: 0"></p>
-
-	
-			<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="200" height="300" id="scroll" align="middle">
-<param name="allowScriptAccess" value="sameDomain">
-<param name="movie" value="scroll.swf"><param name="quality" value="high"><param name="scale" value="noborder"><param name="wmode" value="transparent"><param name="bgcolor" value="#ffffff"><embed src="scroll.swf" quality="high" scale="noborder" wmode="transparent" bgcolor="#ffffff" width="200" height="300" name="scroll" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/go/getflashplayer">
-</object>
-
-<p class="left" style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
-<p class="left" style="margin-top: 0; margin-bottom: 0">&nbsp; </p>
-            </font></td>
-          </tr>
-        
-        
-        
-        
-      
+        </td>
+        <td><div id="bannerbody"><img src="images/bannerbodyothers.jpg" alt="Payment" width="736" height="200"></div></td>
+      </tr>
     </tbody></table>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-		<div style="padding-top:15px;padding-left:15px ">
-<p style="margin-top: 0; margin-bottom: 0">
-<map name="FPMap2">
-<area href="design.php" shape="rect" coords="38, 6, 166, 116">
-</map>
-<img src="images/pic3.gif" border="0" usemap="#FPMap2" alt="Website Design">
-</p></div>
-
-
-	
-	</td>
-  </tr>
-</tbody></table></td>
-              </tr>
-              <tr>
-                <td> 
-<img src="images/6.gif" alt="30 days Money Back Guarantee"></td>
-
-
-
-              </tr>
-            </tbody></table></td>
-            <td height="100%" width="550" style="background-image: url('images/bak2.jpg'); background-repeat: repeat-y;  background-position: left top; vertical-align:bottom">
-            <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber4">
-              <tbody><tr>
-                <td width="100%"> 
-                <img src="images/19.jpg" width="100%" height="14"></td>
-              </tr>
-            </tbody></table>
-            <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber3">
-              <tbody><tr>
-                <td width="100%">
-                <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber5" height="1591">
+  </div>
+  <div id="col4">
+    <table width="736" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td>
+		<img border="0" src="images/privacytitle.gif" width="736" height="48" alt="privacy"></td>
+      </tr>
+      <tr>
+        <td style=" background: transparent url(images/prodandservcontent.gif) left top no-repeat; border-right: 1px solid #e13000; border-left: 1px solid #e13000;"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+              <td>
+                <table width="716" border="0" align="center" cellpadding="0" cellspacing="0">
                   <tbody><tr>
-                    <td style="vertical-align: middle; border: medium none" width="100%" colspan="2" height="27">
-                    <p style="text-align: center"><b>
-                    <font face="Trebuchet MS" size="2" color="#111111">PRIVACY</font></b></p></td>
+                    <td><img src="images/header2.gif" alt="Basic Container" width="716" height="12"></td>
                   </tr>
                   <tr>
-                    <td width="3%" height="1564">　</td>
-                    <td width="95%" height="1564">
-                    <table style="border-collapse: collapse" bordercolor="#111111" cellspacing="0" cellpadding="0" width="100%" border="0" height="1540">
-                      <tbody><tr>
-                        <td width="100%" height="1494">　<div align="center">
+                    <td valign="top" style="background: transparent url(images/bg2.gif) left top repeat-y;">
+						
+						
+						
+						
+						
+						
+		
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						<div align="center">
                           <center>
-                          <table style="border-collapse: collapse" bordercolor="#111111" cellspacing="0" cellpadding="0" width="90%" border="0">
+                          <table style="border-collapse: collapse" cellspacing="0" cellpadding="0" width="90%" border="0" id="table1">
                             <tbody><tr>
                               <td valign="top" width="100%">
                               <p style="text-align: justify">Because protecting 
@@ -400,20 +267,19 @@ of Services</font></a>
                               and opportunities of the changing technologies. As 
                               a result, INTERNET WEBHOSTING policies and 
                               procedures are subject to change.<br>
-                              <br>
-&nbsp;</p>
-                              <ul type="square">
+                              &nbsp;</p>
+								<ul type="square">
                                 <li>
                                 <p align="left">
                                 <a href="#What Personal Information does Internet Webhosting collect">
                                 What Personal Information does INTERNET WEBHOSTING collect? </a></p></li>
                                 <li>
                                 <p style="text-align: left">
-                                <a href="#Data Security">Data Security</a> </p></li>
+                                <a href="#Data Security">Data Security</a></p> </li>
                                 <li>
                                 <p style="text-align: left">
                                 <a href="#How is customer information used">How 
-                                is customer information used?</a> </p></li>
+                                is customer information used?</a></p> </li>
                                 <li>
                                 <p style="text-align: left">
                                 <a href="#Will Internet Webhosting ever send me direct mailings">
@@ -423,23 +289,23 @@ of Services</font></a>
                                 <p style="text-align: left">
                                 <a href="#How do I protect my Personal Information in public forums">
                                 How do I protect my Personal Information in 
-                                public forums?</a> </p></li>
+                                public forums?</a></p> </li>
                                 <li>
                                 <p style="text-align: left">
                                 <a href="#What about privacy on sites that Internet Webhosting links to">
                                 What about privacy on sites that INTERNET 
-                                WEBHOSTING links to?</a> </p></li>
+                                WEBHOSTING links to?</a></p> </li>
                                 <li>
                                 <p style="text-align: left">
                                 <a href="#Disclosure of customer information and communications">
                                 Disclosure of customer information and 
-                                communications</a> </p></li>
+                                communications</a></p> </li>
                               </ul>
                               <p style="line-height: 150%; text-align: justify">
                               <b>
-                              <a name="What Personal Information does Internet Webhosting collect">
+                              <a name="What-Personal-Information-does-Internet-Webhosting-collect">
                               What Personal Information does INTERNET WEBHOSTING 
-                              collect?</a></b><br>
+                              collect?</a></b></p><br>
                               In the course of serving its customers, INTERNET 
                               WEBHOSTING acquires, stores and transmits customer 
                               communications and information that customers may 
@@ -460,7 +326,7 @@ of Services</font></a>
                               communications as a necessary incident to the 
                               transmission and delivery of those communications.<br>
                               <br>
-                              <b><a name="Data Security">Data Security</a></b><br>
+                              <b><a name="Data-Security">Data Security</a></b><br>
                               INTERNET WEBHOSTING will protect the 
                               confidentiality of its customers' information, 
                               account information and personal communications to 
@@ -474,7 +340,7 @@ of Services</font></a>
                               electronic, and managerial procedures in place.
                               <br>
                               <br>
-                              <b><a name="How is customer information used">How 
+                              <b><a name="How-is-customer-information-used">How 
                               is customer information used?</a></b><br>
                               INTERNET WEBHOSTING may share customer information 
                               with selected partners, for example, to provide 
@@ -487,7 +353,7 @@ of Services</font></a>
                               upgraded products.<br>
                               <br>
                               <b>
-                              <a name="Will Internet Webhosting ever send me direct mailings">
+                              <a name="Will-Internet-Webhosting-ever-send-me-direct-mailings">
                               Will INTERNET WEBHOSTING ever send me direct 
                               mailings?</a></b><br>
                               From time to time, INTERNET WEBHOSTING may send 
@@ -508,7 +374,7 @@ of Services</font></a>
                               billing@internet-webhosting.com<br>
                               <br>
                               <b>
-                              <a name="How do I protect my Personal Information in public forums">
+                              <a name="How-do-I-protect-my-Personal-Information-in-public-forums">
                               How do I protect my Personal Information in public 
                               forums?</a></b><br>
                               INTERNET WEBHOSTING may offer interactive forums, 
@@ -529,7 +395,7 @@ of Services</font></a>
                               account information.<br>
                               <br>
                               <b>
-                              <a name="What about privacy on sites that Internet Webhosting links to">
+                              <a name="What-about-privacy-on-sites-that-Internet-Webhosting-links-to">
                               What about privacy on sites that INTERNET 
                               WEBHOSTING links to?</a></b><br>
                               INTERNET WEBHOSTING may provide links to its 
@@ -540,7 +406,7 @@ of Services</font></a>
                               liability for their policies or actions.<br>
                               <br>
                               <b>
-                              <a name="Disclosure of customer information and communications">
+                              <a name="Disclosure-of-customer-information-and-communications">
                               Disclosure of customer information and 
                               communications</a></b><br>
                               INTERNET WEBHOSTING will not otherwise disclose 
@@ -553,7 +419,7 @@ of Services</font></a>
                               INTERNET WEBHOSTING, INTERNET WEBHOSTING 
                               customers, or others, or where INTERNET WEBHOSTING 
                               has a good faith belief that the law requires such 
-                              disclosure.</p>
+                              disclosure.
                               <p style="line-height: 150%; text-align: left">
                               INTERNET WEBHOSTING also will not, except for 
                               reasons stated below, disclose to third parties 
@@ -566,7 +432,7 @@ of Services</font></a>
                               <ul type="square">
                                 <li>
                                 <p style="text-align: left">it is necessary in 
-                                order to provide service to the customer; </p></li>
+                                order to provide service to the customer; </p> </li>
                                 <li>
                                 <p style="text-align: left">it is necessary to 
                                 protect the legitimate interests of INTERNET 
@@ -602,104 +468,105 @@ of Services</font></a>
                           </tbody></table>
                           </center>
                         </div>
-                        </td>
-                      </tr>
-                    </tbody></table>
-                    </td>
-                    <td width="2%" height="1564">　</td>
+                        <p>&nbsp;</p></td></tr>
+                  <tr>
+                    <td><img src="images/footer2.gif" alt="-" width="715" height="7"></td>
                   </tr>
                 </tbody></table>
-                <p>　</p>
-                <p>　</p>
-                <p>　</p></td>
-              </tr>
-            </tbody></table>
-            <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2">
-              <tbody><tr>
-                <td width="100%"> 
-                <img src="images/20.jpg" width="100%" height="20"></td>
-              </tr>
-            </tbody></table>
-            </td>
-            <td height="100%" width="22"> 
-            <table border="0" cellpadding="0" cellspacing="0" height="100%" style="border-collapse: collapse" bordercolor="#111111">
-              <tbody><tr>
-                <td width="22"> 
-                <img src="images/19.jpg" alt=""></td>
-              </tr>
-              <tr>
-                <td background="images/bak3.jpg" width="22" height="100%" alt=""></td>
-              </tr>
-              <tr>
-                <td width="22" style="vertical-align: bottom"> 
-                <img src="images/20.jpg" alt=""></td>
-              </tr>
-            </tbody></table></td>
-          </tr>
-        </tbody></table></td>
-		<td rowspan="3" width="100%" height="100%"><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td background="images/r2.jpg" width="100%" height="18" alt=""></td>
-	</tr>
-	<tr>
-		<td background="images/r4.jpg" width="100%" height="100%" alt=""></td>
-	</tr>
-	<tr>
-		<td background="images/r3.jpg" width="100%" height="81" alt=""></td>
-	</tr>
-</tbody></table></td>
-		
-	</tr>
-	<tr>
-	
-	
-	
-	
-	
+                <br></td>
+              <td>&nbsp;</td>
+            </tr>
+          </tbody></table></td>
+      </tr>
+      <tr>
+        <td height="12"><img src="images/prodandservfooter.gif" alt="-" width="736" height="12"></td>
+      </tr>
+    </tbody></table>
+    </div>
+  <div id="col5">
+    <table width="214" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td style="height: 58px; background: transparent url(images/latest150subsriberstitle.gif) left top no-repeat">
+
+<table border="0" width="100%" id="table2" style="border-collapse: collapse">
+			<tbody><tr>
+				<td>&nbsp;<p>&nbsp;</p>
+				<p><font color="#990000">
+				<span style="font-size: 8pt">Real-Time Update</span></font></p>
+				<p><font color="#990000">
+				<span style="font-size: 8pt">From</span></font><font style="font-size: 8pt" color="#990000"> 
+				5000++ Domain Hosted</font></p></td>
+			</tr>
+		</tbody></table>
+
+
+
+</td>
+      </tr>
+      <tr>
+        <td style="background-position: left top; height: 146px; background-image:url('images/latest150subsriberscontent.gif'); background-repeat:repeat-y; background-attachment:scroll" align="center" valign="top">
+        
+        <object type="application/x-shockwave-flash" data="scroll.swf" width="200" height="300" id="VideoPlayback" align="middle">
+  <param name="movie" value="scroll.swf">
+  <param name="allowScriptAcess" value="sameDomain">
+  <param name="quality" value="best">
+  <param name="bgcolor" value="#FFFFFF">
+<param name="wmode" value="transparent">
+  <param name="scale" value="noScale">
+  <param name="salign" value="TL">
+  <param name="FlashVars" value="playerMode=embedded">
+</object>
+
+        
+        </td>
+      </tr>
+      <tr>
+        <td valign="top"><img src="images/latest150subsribersfooter.gif" alt="-" width="214" height="12"></td>
+      </tr>
+    </tbody></table>
+    <p>&nbsp;</p>
+    <a href="testimonial.php">
+    <img src="images/ourtesti.jpg" alt="Our testimonials" width="214" height="66" border="0"></a>
+    <p>&nbsp;</p>
+	<img border="0" src="images/supported.gif" alt="Technology Partner" width="216" height="350">
+	<p>&nbsp;</p>
+    <a href="hosting-guarantee-linux.php">
+    <img src="images/30daysmoeybackbody.jpg" alt="30 Days Money Back Guarantee" width="216" height="72" border="0"></a>
+
+
+<p>&nbsp;</p>
+
+	<table border="0" width="100%" id="table1" style="border-collapse: collapse">
+		<tbody><tr>
+			<td align="center">
+			<a href="http://validator.w3.org/check?uri=referer">
+<img src="images/w3c/valid-xhtml10.gif" alt="Valid XHTML 1.0 Transitional" height="31" width="88" border="0"></a></td>
+		</tr>
+	</tbody></table>
+
+
+
+
+</div>
+  <div class="clear" id="registration">&nbsp;</div>
+</div>
+<div id="row4">
+  <div class="footer">©  2004-2009 SKSA Technology  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               | All Rights Reserved | <a href="disclaimer.php">Disclaimer</a> | <a href="privacy.php">Privacy</a> | <a href="contact.php">Contact</a></div>
+</div>
+<div id="row5">
+  <div class="footer"><a href="index.php">Home</a> | <a href="link.php">Links</a> | <a href="order.php">Order</a> | 
+	<a href="server.php">Our Server</a> | <a href="faq.php">F.A.Q.</a> | <a href="https://support.internet-webhosting.com/">Support</a> | <a href="contact.php">Contacts</a>
 	
 	
 
-<td background="images/21.jpg" width="766" height="25" alt="">
-		<div align="center">
-			<font color="#FFFFFF">.&nbsp;</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a class="5" href="order.php">Order</a> &nbsp;<font color="#FFFFFF">&nbsp; 
-			.</font>&nbsp;&nbsp;
-          <a class="5" href="server.php">Our Server</a>  &nbsp;&nbsp;  
-			<font color="#FFFFFF">.&nbsp;</font>&nbsp;
-          <a class="5" href="faq.php">F.A.Q</a>  <font color="#FFFFFF">&nbsp;&nbsp;  
-			.</font> &nbsp;&nbsp;
-          <a class="5" href="support.php">Support</a>   &nbsp;<font color="#FFFFFF">&nbsp; 
-			.</font> &nbsp;&nbsp;
-          <a class="5" href="contact.php">Contacts</a></div>
-		</td>
-	</tr>
-	<tr>
-		<td background="images/22.jpg" width="766" height="36" alt="">
-		<div style="padding-top:10px;padding-left:20px ">
-		<a class="7" href="index.php">home</a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        <font color="#F36219">&nbsp;  <span class="style8">|</span> </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a class="7" href="link.php">Links</a>&nbsp;&nbsp; <font color="#F36219">&nbsp;  <span class="style8">
-		|</span>
-        </font>&nbsp;&nbsp;<span style="padding-left:70px ">@ 2004-2008 SKSA 
-		Technology  &nbsp;<font color="#F36219">&nbsp;
-        </font>   <span class="style8">
-        <a style="text-decoration: none" href="gotlinks.php">
-        <font color="#F36219">|</font></a></span><font color="#F36219"> </font>&nbsp;&nbsp;<font color="#4D5764">
-        </font>
-        All Rights Reserved.<font color="#4D5764"> &nbsp;&nbsp;</font>
-        <span class="style8">
-        <a style="text-decoration: none" href="mylinks.php">
-        <font color="#F36219">|</font></a></span>  &nbsp;&nbsp;
-        <a class="6" href="disclaimer.php">Disclaimer</a>   &nbsp;&nbsp;<font color="#F36219">  <span class="style8">
-        <a style="text-decoration: none" href="resources.php">
-        <font color="#F36219">|</font></a></span>
-        </font>&nbsp;&nbsp;
-        <a class="6" href="privacy.php">Privacy</a>  &nbsp;&nbsp;<font color="#F36219">   <span class="style8">|</span>
-        </font>&nbsp;&nbsp;
-        <a class="6" href="contact.php">Contact</a></span>
-		
-		
-				<script type="text/javascript"><!--
+	
+	</div>
+</div>
+
+
+
+<!--
+	<script type="text/javascript">
 EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
 EXb=EXs.colorDepth:EXb=EXs.pixelDepth;
 navigator.javaEnabled()==1?EXjv="y":EXjv="n";
@@ -709,31 +576,8 @@ top.document.referrer?EXref=top.document.referrer:EXref=EXd.referrer;
 EXd.write("<img src="+EXprot+"://nht-3.extreme-dm.com",
 "/n4.g?login=smksa&amp;url="+escape(document.URL)+"&amp;pv=&amp;",
 "jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
-"l="+escape(EXref)+" height=1 width=1>");//-->
-</script><img src="https://nht-3.extreme-dm.com/n4.g?login=smksa&amp;url=https%3A//web.archive.org/web/20090207204711id_/http%253A//www.internet-webhosting.com/privacy.php&amp;pv=&amp;jv=n&amp;j=y&amp;srw=800&amp;srb=24&amp;l=" height="1" width="1"><noscript><div id="nneXTReMe"><img height="1" width="1" alt=""
+"l="+escape(EXref)+" height=1 width=1>");
+</script><noscript><div id="nneXTReMe"><img height="1" width="1" alt=""
 src="http://nht-3.extreme-dm.com/n4.g?login=smksa&amp;url=nojs&amp;j=n&amp;jv=n&amp;pv=" />
 </div></noscript>	
-		
-		
-		
-		</div>
-		
-
-		
-		</td>
-	</tr>
-
-</tbody></table>
-
-<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-2427725-1";
-urchinTracker();
-</script>
-
-
-
-
-
-</body></html>
+//--></body></html>
