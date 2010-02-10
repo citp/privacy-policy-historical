@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tehelka.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208064441id_/http%3A//www.tehelka.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tehelka.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210102735id_/http%3A//www.tehelka.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Tehelka :: Free. Fair. Fearless
 
