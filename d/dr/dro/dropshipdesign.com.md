@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the dropshipdesign.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410095121id_/http%3A//www.dropshipdesign.com/dropshipdesign-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropshipdesign.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210193325id_/http%3A//www.dropshipdesign.com/dropshipdesign-privacy-policy.html) for the most accurate reproduction.*
 
-# Dropshipdesign.com Privacy Policy
+# DropshipDesign.com LLC - Start your own Wholesale & Dropship Business. Sell Our products anywhere, you keep all the profits!
 
-[](http://www.truste.org/ivalidate.php?url=www.dropshipdesign.com&sealid=101)
-
-## Our Privacy Policy
-
-LAST UPDATED ON FRIDAY, FEBRUARY 09, 2007 
+[](http://www.truste.org/ivalidate.php?url=www.dropshipdesign.com&sealid=101) LAST UPDATED ON FRIDAY, FEBRUARY 09, 2007 
 
 The privacy of those who visit our Web site is of primary concern to DropshipDesign.com LLC. Your personal privacy and the security of your personal data are a primary concern to us. To better protect your privacy, we provide you with this policy page where we disclose and explain our online information practices. This page can be found by clicking on the Privacy Policy link available on the links located in the footer of our home page. 
 
-Dropshipdesign.com LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site dropshipdesign.com and dsdsecure.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+Dropshipdesign.com LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build userâ€™s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site dropshipdesign.com and dsdsecure.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
 If you have questions or concerns regarding this statement, you should first contact our management team at sales@dropshipdesign.com. You may also send us a written letter at the following address: 
 
@@ -46,15 +42,15 @@ Cookies are small pieces of data that are stored on your hard drive. As you brow
 
 Security and Access 
 
-Our website takes every possible precaution to protect our member’s personal information. During the transmission of your payment information, we use a secure server which uses secure socket layer technology (SSL), which encrypts all of your payment information. This will ensure complete privacy of your data. The secure pages involve the signup form, the profile page where you can update your personal information, the shopping cart and the final payment page on which you will enter your credit card information. We will not store your credit card information and we will not initiate any automatic charges to your credit card. 
+Our website takes every possible precaution to protect our memberâ€™s personal information. During the transmission of your payment information, we use a secure server which uses secure socket layer technology (SSL), which encrypts all of your payment information. This will ensure complete privacy of your data. The secure pages involve the signup form, the profile page where you can update your personal information, the shopping cart and the final payment page on which you will enter your credit card information. We will not store your credit card information and we will not initiate any automatic charges to your credit card. 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-In the case where you will be selling products on third party websites, such as eBay, we will require that you confirm your billing address before allowing you to place orders with a shipping address different from your billing address. You will be presented with an address verification FORM in the home page of the member’s area which needs to be printed and signed. Once we have confirmed your billing address, we will change the status of your membership to VERIFIED which will allow you to place orders using the shipping address of your buyers. Please note that this verification process will be required only once. We apply this security policy to protect both ourselves and our members from attempts to use funds from unauthorized sources. 
+In the case where you will be selling products on third party websites, such as eBay, we will require that you confirm your billing address before allowing you to place orders with a shipping address different from your billing address. You will be presented with an address verification FORM in the home page of the memberâ€™s area which needs to be printed and signed. Once we have confirmed your billing address, we will change the status of your membership to VERIFIED which will allow you to place orders using the shipping address of your buyers. Please note that this verification process will be required only once. We apply this security policy to protect both ourselves and our members from attempts to use funds from unauthorized sources. 
 
 Correcting and updating your personal information 
 
-All your personal information can be accessed and updated from the profile page. This page will be accessible to you only from the member’s login area. Any changes made to your personal information will trigger the system to change the status of your membership to “unverified”. You will be required to confirm your billing address once more in order to dropship merchandise to addresses different from your billing address. 
+All your personal information can be accessed and updated from the profile page. This page will be accessible to you only from the memberâ€™s login area. Any changes made to your personal information will trigger the system to change the status of your membership to â€œunverifiedâ€. You will be required to confirm your billing address once more in order to dropship merchandise to addresses different from your billing address. 
 
 If you prefer to remove your information, simply cancel your membership and your account will be removed from our system. You can cancel your membership at anytime by sending us a cancellation request through our online ticketing system by clicking on the CONTACT US link located at the top of the website OR you can simply ignore the renewal notice once the 12 months are over and your account will automatically be closed. 
 
