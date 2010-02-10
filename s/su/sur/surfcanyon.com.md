@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the surfcanyon.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617221410id_/http%3A//www.surfcanyon.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfcanyon.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210094734id_/http%3A//www.surfcanyon.com/privacy) for the most accurate reproduction.*
 
-# Surf Canyon
+# Surf Canyon Privacy Policy
 
   * 1\. Information Collection & Use
   * 2\. Information Sharing and Disclosure
@@ -24,7 +24,7 @@ Surf Canyon is not directed towards children 13 years of age or under and we do 
 
 ### 1.3 Uses of Information
 
-Surf Canyon uses information for the following general purposes: to customize the search results on selected search engines (currently Google, Yahoo!, Bing, Lexis Web and Craigslist), to customize sponsored results (which are always clearly labeled as such) on selected search engines (currently Google and Yahoo!), to improve our services, and to provide anonymous reporting for internal and external clients.
+Surf Canyon uses information for the following general purposes: to customize the search results on selected search engines (currently Google, Yahoo!, Bing and Craigslist), to customize sponsored results (which are always clearly labeled as such) on selected search engines (currently Google and Yahoo!), to improve our services, and to provide anonymous reporting for internal and external clients.
 
 ### 1.4 Profile
 
@@ -34,7 +34,7 @@ We store information that we collect through client-side cookies and server-side
 
 ### 2.1 Aggregate Information (non-personally identifiable)
 
-We share aggregated demographic information about our user base with our partners. This information does not identify individual users. We do not link aggregate user data with personally identifiable information.
+We share aggregated demographic information about our user base with our partners. This information does not identify individual users. We do not link aggregate user data with personally identifiable information. No registration, login or cookies are required to use any of our services.
 
 ### 2.2 Personally identifiable information:
 
@@ -56,7 +56,7 @@ A cookie is a small text file that is stored on a user's computer for record-kee
 
 ### 3.3 Third Party Search Engines
 
-When you execute a query on selected search engines (currently Google, Yahoo, Bing, Craigslist and Lexis Web), the Surf Canyon browser extension makes additional network connections to the search engine and execute additional queries. The additional network connections may cause you to exceed a search engine's bandwidth limit more quickly. The additional search engine queries may affect the search engine's own personalization algorithms.
+When you execute a query on selected search engines (currently Google, Yahoo, Bing and Craigslist), the Surf Canyon browser extension makes additional network connections to the search engine and execute additional queries. The additional network connections may cause you to exceed a search engine's bandwidth limit more quickly. The additional search engine queries may affect the search engine's own personalization algorithms.
 
 ### 3.4 Third Party Advertisers
 
