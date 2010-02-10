@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jancisrobinson.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406085326id_/http%3A//www.jancisrobinson.com/page/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jancisrobinson.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210023859id_/http%3A//www.jancisrobinson.com/page/privacy_policy.html) for the most accurate reproduction.*
 
-# JancisRobinson.com, for people who love good wine
+# Jancis Robinson.com | Fine Wine Writing, Wine Reviews & Tasting Notes from Jancis Robinson
 
 END USER PRIVACY AND COOKIES   
 
@@ -36,7 +36,7 @@ Although certain areas of our website are made available to all visitors, before
 
 **How we collect information from you**
 
-In order to process your account for the Service and in order to reconcile our accounts, WorldPay or such other payment partner as we may use from time to time may provide us with information detailing the credits and/or debits made to your credit/debit card. 
+In order to process your account for the Service and in order to reconcile our accounts, RBS WorldPay or such other payment partner as we may use from time to time may provide us with information detailing the credits and/or debits made to your credit/debit card. 
 
 **How we look after your information**
 
@@ -48,10 +48,10 @@ We use your information to process orders you make from our Site. We may contact
 
 **When do we give information that you provide us with to other people?**
 
-Apart from entities that are involved in helping us to run our Site, we never give your information to any third parties. The entities that help us run our site are DediPower, which hosts our site, and WorldPay, which provides credit card payment processing services. 
+Apart from entities that are involved in helping us to run our Site, we never give your information to any third parties. The entities that help us run our site are DediPower, which hosts our site, and RBS WorldPay, which provides credit card payment processing services. 
 
   
-We and WorldPay share information with each other only to the extent necessary for the purposes of processing payments and to enable us to retrieve payments from WorldPay. See the [WorldPay terms and conditions](http://www.worldpay.com/about_us/index.php?page=tandc&c=UK) for further information.   
+We and RBS WorldPay share information with each other only to the extent necessary for the purposes of processing payments and to enable us to retrieve payments from RBS WorldPay. See the [RBS WorldPay terms and conditions](http://www.rbsworldpay.com/about_us/index.php?page=terms) for further information.   
 
 
   
