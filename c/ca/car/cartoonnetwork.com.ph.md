@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonnetwork.com.ph privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115085107id_/http%3A//www.cartoonnetwork.com.ph/parents/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetwork.com.ph privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210020804id_/http%3A//www.cartoonnetwork.com.ph/parents/privacy.php) for the most accurate reproduction.*
 
 # Cartoon Network Philippines - free online games & videos
 
