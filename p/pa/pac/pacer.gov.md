@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pacer.gov privacy policy that was archived on 2008-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080909142105id_/http%3A//www.pacer.gov/notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacer.gov privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210032612id_/http%3A//www.pacer.gov/notice.html) for the most accurate reproduction.*
 
 # PACER Privacy and Security Notice
 
