@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the straighterline.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212095934id_/http%3A//www.straighterline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the straighterline.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210221748id_/http%3A//www.straighterline.com/privacy) for the most accurate reproduction.*
 
 # Online College Courses Distance Learning Courses
 
