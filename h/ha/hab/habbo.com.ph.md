@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the habbo.com.ph privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209193328id_/http%3A//www.habbo.com.ph/help/35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habbo.com.ph privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210135643id_/http%3A//www.habbo.com.ph/help/35) for the most accurate reproduction.*
 
 # Habbo:
 
