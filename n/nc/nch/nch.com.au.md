@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nch.com.au privacy policy that was archived on 2009-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091013042910id_/http%3A//www.nch.com.au/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nch.com.au privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210202907id_/http%3A//www.nch.com.au/general/privacy.html) for the most accurate reproduction.*
 
 # NCH Software Privacy Statement
 
@@ -71,7 +71,7 @@ NCH Software's website is not structured to attract children. Accordingly, we do
 
 Protecting your privacy online is an evolving area, and NCH Software's Web site is constantly evolving to meet these demands. 
 
-If you have any comments or questions regarding our Online Privacy Policy, please [Contact Us](https://web.archive.org/web/20091013042910id_/http%3A//www.nch.com.au/general/contact.html). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible. 
+If you have any comments or questions regarding our Online Privacy Policy, please [Contact Us](https://web.archive.org/web/20100210202907id_/http%3A//www.nch.com.au/general/contact.html). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible. 
 
   Back to top
 
