@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the losethebackpain.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417063713id_/http%3A//www.losethebackpain.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the losethebackpain.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210024453id_/http%3A//www.losethebackpain.com/privacy.html) for the most accurate reproduction.*
 
 # LoseTheBackPain.com's Privacy Policy
 
@@ -109,12 +109,17 @@ President, The Healthy Back Institute
 
 | 
 
+  
+
+
 **Questions: Call Us**  
  **Toll Free:** 800-216-4908  
  **Outside U.S.:** 00+1+240-780-5977  
  **Australia:** 0011+1+240-780-5977  
 Or [Click Here](http://www.losethebackpain.com/customersupport.html)
 
-[](http://www.losethebackpain.com/rubonrelief.html)
+[](http://www.losethebackpain.com/inflammation.html)
 
 [](http://www.losethebackpain.com/sleep.html)
+
+[](http://twitter.com/HealthyBackInst)
