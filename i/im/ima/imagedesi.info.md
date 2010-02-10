@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imagedesi.info privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524145121id_/http%3A//www.imagedesi.info/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagedesi.info privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210231659id_/http%3A//imagedesi.info/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
-# <# NAME #> Imagedesi.info- Free Safe Image Hosting
+# Hot Desi Masala,Girl,Sexy Pakistani Girls - Imagedesi.info- Free Safe Image Hosting
 
 When you sign up for an account with imagedesi, we collect personal information from you including your e-mail address, and a password. 
 
