@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ronharris.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504215051id_/http%3A//www.ronharris.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ronharris.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210193923id_/http%3A//www.ronharris.com/privacypolicy.html) for the most accurate reproduction.*
 
 # privacy policy
 
