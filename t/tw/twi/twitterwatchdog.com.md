@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twitterwatchdog.com privacy policy that was archived on 2009-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090711173849id_/http%3A//twitterwatchdog.com/welcome/terms-of-use/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitterwatchdog.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210053506id_/http%3A//twitterwatchdog.com/subscribe/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Welcome to TwitterWatchDog.com
+# Privacy Policy | TwitterWatchDog.com
 
 ## PRIVACY POLICY
 
