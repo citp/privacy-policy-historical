@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the vidsage.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312081653id_/http%3A//www.vidsage.com/vidsage-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidsage.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210024308id_/http%3A//www.vidsage.com/vidsage-privacy-policy.html) for the most accurate reproduction.*
 
-# Vidsage.com Privacy Policy |
+# Vidsage.com | Vidsage.com Privacy Policy
 
-Vidsage.com Privacy Policy  |  [](http://www.vidsage.com/component/mailto/?tmpl=component&link=aHR0cDovL3d3dy52aWRzYWdlLmNvbS92aWRzYWdlLXByaXZhY3ktcG9saWN5LzU4LXZpZHNhZ2Vjb20tcHJpdmFjeS1wb2xpY3kuaHRtbA%3D%3D "E-mail")  
-  
 **Privacy Policy**
 
   
@@ -39,3 +37,6 @@ Whenever Vidsage.com changes our privacy policy, we will post those changes to t
 
   **Contact Information**  
 If you have any questions or suggestions regarding our privacy policy, please contact us at Admin **at** Vidsage.com. 
+
+|  [< Prev](http://www.vidsage.com/vidsage-privacy-policy/1-latest-news/59-vidsagecom-disclaimer-copyright-information.html) |    |  [Next >](http://www.vidsage.com/vidsage-privacy-policy/1-latest-news/48-vidsage-online-radio.html)  
+---|---|---
