@@ -1,26 +1,53 @@
-> *The following text is extracted and transformed from the flowtown.com privacy policy that was archived on 2005-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050317092201id_/http%3A//emerion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowtown.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210063849id_/http%3A//www.flowtown.com/privacy.html) for the most accurate reproduction.*
 
-# emerion Webhosting - Privacy Statement
+# Flowtown Privacy Policy
 
-**Privacy Statement**  
-emerion respects and protects the privacy of visitors to our websites as well as the privacy of our customers.  
-In general you can visit our websites without identifying yourself or revealing any personal information. If you decide to provide us personal information by which you can be identified, you can be assured that it only will be used in the relationship between you and emerion. 
+We take your privacy, and the privacy of your contacts, very seriously at Flowtown. If you have any questions about our privacy policy, [contact us](mailto:questions@flowtown.com). 
 
-**Privacy for web visitors**  
-While accessing our websites basic user information including the IP-Number, the access time and the pages within our websites will be logged. We also use cookies, where information can be stored on your computer. We keep the selected language only in this cookie to make it easier for you to navigate through our website. We do not collect your email address and we do not track what other pages on the web you have visited. 
+We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
-**Analysis of information**  
-The basic user information is used to analyze the traffic and to optimize the content of our website. 
+  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of [Terms of Service](http://flowtown.com/terms.html), or as otherwise required by law.
+  * We transfer information about you if Flowtown is acquired by or merged with another company. In this event, Flowtown will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
-**Links to other websites**  
-Our pages may contain links outside our website to other web addresses. We are not responsible for the content or privacy policies of other sites. 
 
-**Privacy for emerion customers**  
-If you sign up for an emerion service you provide us with contact-, billing- and credit card information. This information will be stored in our databases. Additionally we store the email communication with you as well as any account related communication. 
 
-**Use of customer information**  
-The contact information and communication is assigned to your account profile in order to provide you with our support and services. We share needed customer information only with trusted cooperating parties, if it is necessary to establish a service. 
+##  We NEVER Touch Your Contact Lists
 
-emerion Webhosting never shares customer information with third parties to provide you with information about products which might be of interst to you, or for any other marketing purposes of others. We also never share email addresses and of course we do not sell customer information to any third party. 
+  1. Your recipient lists are stored on a secure Flowtown server. We do not, under any circumstances, steal your list, contact your list, market to your list, sell your list, or share it with any other party, unless required to by law. Your recipient list is kept strictly confidential.
+  2. Only carefully selected, authorized personnel have access (for customer service and abuse-monitoring purposes) to view system accounts and campaigns.
+  3. We do not hold your lists hostage. They are your property.
 
-We disclaim any intention to censor, edit or engage in ongoing review or surveillance of communications stored on or transmitted through our facilities by customers or others. 
+
+
+## INFORMATION GATHERING AND USAGE
+
+  * When you register for Flowtown we ask for information such as your name and email address.
+  * Flowtown uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
+
+
+
+## COOKIES
+
+  * A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
+  * Cookies are required to use the Flowtown service.
+  * We use cookies to record current session information, but do not use permanent cookies. You are required to log-in to Flowtown after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
+
+
+
+## DATA STORAGE
+
+Flowtown uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Flowtown. Although Flowtown owns the code, databases, and all rights to the Flowtown application, you retain all rights to your data.
+
+## DISCLOSURE
+
+  * Flowtown may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the [Terms of Service](http://www.flowtown.com/terms.html).
+
+
+
+## CHANGES
+
+Flowtown may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Flowtown primary account holder account or by placing a prominent notice on our site.
+
+## QUESTIONS
+
+Any questions about this Privacy Policy should be addressed to support at Flowtown.com or by mail at: Flowtown, 14525 SW Millikan #7160, Beaverton, OR 97005 USA
