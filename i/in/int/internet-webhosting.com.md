@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internet-webhosting.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207204711id_/http%3A//www.internet-webhosting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internet-webhosting.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210023659id_/http%3A//www.internet-webhosting.com/privacy.php) for the most accurate reproduction.*
 
 # Malaysia Webhosting, Dedicated Server, Domain Registration & Website Design - PRIVACY
 
@@ -23,7 +23,9 @@ INTERNET WEBHOSTING policies and procedures for handling customer information ha
 
 
 
-** What Personal Information does INTERNET WEBHOSTING collect?**  
+** What Personal Information does INTERNET WEBHOSTING collect?**
+
+  
 In the course of serving its customers, INTERNET WEBHOSTING acquires, stores and transmits customer communications and information that customers may regard as private or sensitive. Some of this information - such as the customer's name, address, telephone number, and credit card data - is provided to INTERNET WEBHOSTING by its customers in order to establish service. Other information - such as the customer's account status, choice of services, and customer logs - is created and maintained by INTERNET WEBHOSTING in the normal course of providing service. INTERNET WEBHOSTING also uses cookies, which are small pieces of information that a web site can store in a designated file on a user's computer for various reasons. In addition, INTERNET WEBHOSTING may store customers' electronic mail and other communications as a necessary incident to the transmission and delivery of those communications.
 
 **Data Security**  
@@ -44,7 +46,7 @@ INTERNET WEBHOSTING may offer interactive forums, such as message boards and cha
 INTERNET WEBHOSTING may provide links to its partners and other Internet sites. These sites have separate data and privacy practices independent of INTERNET WEBHOSTING, and INTERNET WEBHOSTING disclaims any responsibility or liability for their policies or actions.
 
 ** Disclosure of customer information and communications**  
-INTERNET WEBHOSTING will not otherwise disclose its customers' personal and account information unless INTERNET WEBHOSTING has reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of INTERNET WEBHOSTING, INTERNET WEBHOSTING customers, or others, or where INTERNET WEBHOSTING has a good faith belief that the law requires such disclosure.
+INTERNET WEBHOSTING will not otherwise disclose its customers' personal and account information unless INTERNET WEBHOSTING has reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of INTERNET WEBHOSTING, INTERNET WEBHOSTING customers, or others, or where INTERNET WEBHOSTING has a good faith belief that the law requires such disclosure. 
 
 INTERNET WEBHOSTING also will not, except for reasons stated below, disclose to third parties the contents of any electronic mail or other electronic communications that INTERNET WEBHOSTING stores or transmits for its customers. The circumstances under which INTERNET WEBHOSTING will disclose such electronic customer communications are when: 
 
