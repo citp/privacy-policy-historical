@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the justarticles.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211043233id_/http%3A//www.justarticles.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justarticles.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210093424id_/http%3A//www.justarticles.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Web Content, Keyword Articles, Blog Design, SEO and Copywriting Services
+# JustArticles.com - The Trusted Experts In Content-Based Internet Marketing
 
-**Just Articles Privacy Policy ...**  
-
+### **Privacy Policy**
 
 Just Articles will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us in the quote or order form. 
 
@@ -29,4 +28,4 @@ We use the information you provide about yourself when submitting an information
 
 Please direct any "privacy policy" questions to Just Articles per the 
 
-[contact page](https://web.archive.org/web/20071211043233id_/http%3A//www.justarticles.com/contact.html) for Review and Response, Thank You
+[contact page](http://www.justarticles.com/contactus.html) for Review and Response, Thank You
