@@ -1,0 +1,723 @@
+<!--The following is the downloaded HTML source of the jinni.com privacy policy that was archived on 2010-02-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100210205133id_/http%3A//www.jinni.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+  		<title>Find movies, TV shows matching your taste and watch online
+  		</title>
+  			<meta name="description" content="Search for movies and TV shows in a whole new way with the Movie Genome, get personal recommendations, watch wherever you choose.">
+  			<link rel="image_src" href="http://media.jinni.com/images/share/fb-collage.gif">
+		
+			
+
+	  		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<link rel="stylesheet" type="text/css" href="/css/community.css">
+			<link rel="stylesheet" type="text/css" href="/css/feeds.css">
+			<link rel="stylesheet" type="text/css" href="/css/share.css">
+			<link rel="shortcut icon" href="http://media.jinni.com/favicon.ico">
+			<script type="text/javascript" src="/js/invite.js"></script>
+			<script type="text/javascript" src="/js/Tween.js"></script>
+			<script type="text/javascript" src="/js/OpacityTween.js"></script>
+			<script type="text/javascript" src="/js/dwrstatic/engine.js"></script>
+			<script type="text/javascript" src="/js/miniCollage.js"></script>
+	  		<script type="text/javascript" src="/js/utils.js"></script>
+			<script type="text/javascript" src="/js/flexcroll.js"></script>
+			<script type="text/javascript" src="/js/general.js"> </script>
+			<script type="text/javascript" src="/js/clientServer.js"></script>
+	  		<script type="text/javascript" src="/dwr/util.js"></script>
+			<script type="text/javascript" src="/js/dwrstatic/AjaxController.js"></script>
+	  		<script type="text/javascript" src="/js/dwrstatic/userStatusAjaxUtil.js"></script>
+	  		<script type="text/javascript" src="/js/dwrstatic/AjaxUserRatingBean.js"></script>
+			<script type="text/javascript" src="/js/dwrstatic/AjaxUserFavorites.js"></script>
+			<script type="text/javascript" src="/js/dwrstatic/UserInvitationBean.js"></script>
+			<script type="text/javascript" src="/js/dwrstatic/communityAjax.js"></script>
+			<script type="text/javascript" src="/js/dwrstatic/ajaxRefresher.js"></script>
+			<script type="text/javascript" src="/js/homeslider.js"></script>
+			<script type="text/javascript" src="/js/searchBox.js"></script>
+			<script type="text/javascript" src="/js/feeds.js"></script>
+			<script type="text/javascript" src="/player/swfobject.js"></script>
+			<script type="text/javascript" src="/js/community.js"></script>
+			<script type="text/javascript" src="/js/share.js"></script>
+			<script type="text/javascript" src="http://www.jinni.com/dwr/interface/ajaxErrorReporter.js"></script>
+		<script>
+			globalVariables.isUserSignIn = false;
+		</script>
+     
+     	<script>
+			var discoveryImagePath = "http://www.jinni.com/movie/";
+			var imagePath = "http://media.jinni.com/images/";
+			var collageImagePath = "http://media.jinni.com/";
+			var noImagePath = "http://media.jinni.com/no-image/content-no-image/no-image-1.jpeg";
+			var urlPath =  "http://www.jinni.com";
+			var securedPagesBaseURL = "https://www.jinni.com/";
+			var userPages = "http://www.jinni.com/user//";
+			var movieImagePath = "http://media.jinni.com/movie/";
+			var categoryImages = "http://media.jinni.com/categories/";
+			var mediaServer = "http://media.jinni.com";
+			
+		</script>
+		
+		
+	</head>
+	<body onunload="doMainUnload();" onload="filterSearchResults('pageLoading');topHightlight();statusSpace();">
+	 
+	 
+	 
+	
+	<div id="demoTransDiv" class="thanksDemoBg"></div>
+	<div id="demoVideoContainer" class="thanksDemo">
+		
+	</div>	
+		
+		<div id="main">
+		
+			
+			<div id="header">
+    
+	    <a href="#" onclick="goHome();" class="headerLogo">	
+			<img src="http://media.jinni.com/partners/jinni/logo_publicbeta.png" style="margin: 7px 3px 0px;" alt="Jinni" title="Jinni">
+		</a><div id="j_id11" class="loginBox anonymousUser">
+			<div class="loginLinks">
+				<span>New to Jinni?</span>
+				<a href="/join.html" class="loginBoxLink">Sign Up</a>
+				<span class="separator">|</span>
+				<a href="#" onclick="generalFunctions.showLoginBox( true );" class="loginBoxLink">Log in</a>
+			</div>
+			
+			<div class="invitationBox">
+
+				<img src="http://media.jinni.com/images/icons/invite1.png" onclick="invite.openInvitation();">
+			</div></div><div id="topmenu" class="h_menu">
+			<ul>
+				<li class=""><a href="http://www.jinni.com/" id="topfirstLnk">Search</a></li>
+				<li>|</li>
+				<li class=""><a href="http://www.jinni.com/user//recommendations/" id="toprecLnk" onclick="return generalFunctions.goToPrivatePage(this.href); ">Recommendations</a></li>
+				<li>|</li>
+				
+				<li class=""><a href="http://www.jinni.com/community/pulse.html" id="topfirstLnk">Community</a></li>
+					<li>|</li>
+					<li class=""><a href="http://www.jinni.com/movie-personality.html">Movie Personality</a></li>
+			</ul></div><div id="headerInvitaionLinkContainer"><div id="usersInvitation">
+				<div id="userIvitaionText">
+	       	<a href="http://www.jinni.com/user//netflix-integration/" class="linkHeader" onclick="return generalFunctions.goToPrivatePage(this.href); ">Connect Jinni to your Netflix account</a>
+				</div>
+				<img onclick="generalFunctions.hideNetflixFromHomePage();" class="closingX" src="http://media.jinni.com/images/x.jpg"></div></div>
+		<div id="theInvitaion">
+Hi,
+I've been using Jinni - it's a great site for finding new movies and shows. Check it out, I think you'll like it too.
+
+		</div>
+		<div id="invitaionPreview">
+		</div>
+		<div id="invitationResults">
+			<div class="details"></div>
+			<button id="invResultsBtn" onclick="this.parentNode.style.display='none';">Close</button>
+		</div>
+			</div>
+
+			
+			
+			<div id="content">
+			<div class="staticIcons">
+				
+				<a href="http://www.twitter.com/jinnidotcom" target="_blank"></a>
+				<a href="http://www.facebook.com/jinnidotcom" target="_blank"></a>
+				
+				<img src="http://media.jinni.com/images/feedback.jpg" class="feedbackImage" onclick="x=window.open('http://www.getsatisfaction.com/jinni','newWindow1','toolbar=yes, location=yes,directories=yes,status=yes,menubar=yes,scrollbars=yes,copyhistory=yes,resizable=yes')">
+
+			</div>
+				<div id="left" style="float: left; width: 600px; height: 90px;">
+	
+	<form action="Search" id="searchForm" target="searchResponseFrame" method="post" onsubmit="return false;" class="narrow">
+
+				
+				<div id="type" class="search_type_menu ">
+					<ul class="contentSearchBox">
+						<li onclick="filterSearchResults(this);" id="all" class="typeHighlight menuLink">All</li>
+						<li>|</li>
+						<li onclick="filterSearchResults(this);" id="movieFilter" class="menuLink">Movies</li>
+						<li>|</li>
+						<li onclick="filterSearchResults(this);" id="tvFilter" class="menuLink">TV</li>
+						<li>|</li>
+						<li onclick="filterSearchResults(this);" id="shortsFilter" class="menuLink">Shorts</li>
+						<li>|</li>
+						<li onclick="filterSearchResults(this);" id="onlineFilter" class="menuLink">Free Online</li>
+						
+					</ul>
+						
+				</div>
+		
+
+
+
+		<div id="searchBoxPrefix" class="Prefix"><label>Find</label></div>
+		<div id="searchboxContainer" class="SearchBoxContainer">
+			
+			<input type="text" id="searchInput" onfocus="searchFuncs.onfocus( event )" onblur="searchFuncs.onblur(event)" onkeypress="searchFuncs.onkeypress(event)" onkeyup="searchFuncs.onkeyup(event)" onkeydown="searchFuncs.onkeydown(event)" class="">
+			<div id="searchTypeDropdown" onclick="searchFuncs.openSearchTypeDrop(event);">content</div>
+			<div id="searchTypeDropdownOver">
+				<a onclick="searchFuncs.setSearchType(event, 1)">content</a>
+				<a onclick="searchFuncs.setSearchType(event, 2)">titles</a>
+			</div>
+			<div id="go" onclick="doSearch();" onmouseover="this.style.color='#6d763d'" onmouseout="this.style.color='#ffffff'">Go</div>
+			<input type="hidden" name="searchCriteria" id="searchCriteria">
+			<input type="hidden" name="buttonType" id="buttonType" value="search">
+			<input type="hidden" name="globalFilter" id="globalFilter">
+			<input type="hidden" name="searchFilter" id="searchFilter">
+			<input type="hidden" name="tasteFilter" id="tasteFilter">
+		</div>
+		<div id="suggestionsPanel" onkeydown="mainSearchBox.keyNavigate(event);" style="position:absolute; display: none;"></div>	
+		<div id="resultsSummaryBar"></div>
+	</form>
+		
+				</div>
+		<div id="contentHolder" class="WholeText">
+	
+		<h1 class="generalTitle">Privacy Policy</h1>
+		
+		<p>Jinni Media Ltd. ("Jinni") respects your privacy and is fully
+		committed to protecting the personal information that you share with
+		us. The guidelines contained herein (the "Privacy Policy") explain the
+		information we collect and what we use it for. We hope this
+		straightforward explanation will allay your concerns.</p>
+
+		<h2 class="community">Consent</h2>
+		<p>By using the Website and Service (as these terms are defined in
+		the <a href="http://www.jinni.com/terms.html">Terms of Use</a>) you agree to this Privacy Policy. If you do not
+		agree with our practices please do not enter or use our Website and
+		the Service.</p>
+
+		<h2 class="community">Information We Collect</h2>
+		<p>When you register on the Website, you voluntarily submit
+		certain personally identifiable information, such as your name and
+		email address, for the purpose of creating an account associated with
+		a registered user ("Member") of the Website and for using the Service.
+		Jinni may require additional personal information in order to provide
+		you with additional features you may be interested in. For example,
+		your location is needed to tell you which movies are on TV or in
+		theaters near you. If you take the Movie Personality Quiz to tell us
+		about your viewing preferences, we can offer you tailored features
+		like recommendations and taste matches with other users. Jinni will
+		store the personal information for the sole purpose of providing you
+		with the Services of your choice. You can always change the
+		information in your account in the manner detailed in this Privacy
+		Policy.</p>
+
+		<p>Jinni also collects some non-personally identifiable data, such
+		as your IP address, browser software identification and the domain
+		from which you entered the Website, in order to enhance your
+		experience on the Website and help us determine which content
+		interests Website's visitors. Jinni also collects statistical
+		information in the aggregate, for example to show average ratings for
+		titles.</p>
+
+		<p>If you choose to purchase movie tickets, DVDs or other products
+		or services by clicking on a third party link (e.g. Fandango) from the
+		Website, we will not collect any personal information related to the
+		transaction (credit card number, address, etc.). The only information
+		we collect in this case is the number of Members who clicked on such
+		links, and the number of purchases made by these Members. However, we
+		recommend that you read any third party's website privacy policy in
+		order to know what kind of information they are collecting.</p>
+
+		<h2 class="community">How We Use The Information</h2>
+		<h2 class="sub2">Profile</h2>
+		<p>We display Member's personal information on their profile and
+		elsewhere on the Website according to the settings you choose in your
+		account. This information can be seen by all visitors of the Website.
+		As with any online service, we recommend you think carefully about
+		what personal information to share on your profile.</p>
+
+		<h2 class="sub2">Movie Personality</h2>
+		<p>From the moment you create your profile and take the Movie
+		Personality Quiz, Jinni generates a Movie Personality for you, and
+		begins offering you personal recommendations, and taste matches with
+		other Members. We refine your Movie Personality by following your
+		activities on the Website, including how you rate titles, which titles
+		you watch on the Website, and what you recommend to others. This
+		information is intended to improve your recommendations and taste
+		matches.</p>
+
+		<p>Jinni does not process any personally identifiable information
+		related to your viewing preferences and/or profile in any other way.
+		However, note that any other Member can see your activity meter (a
+		measure of your overall activity level on the Website), your Movie
+		Personality description (if you choose to show it in your account
+		settings), and your taste compatibility with them.</p>
+
+		<h2 class="sub2">Who We Share Information With</h2>
+		<p>We consider the personally identifiable information contained
+		in our database to be confidential. We may sometimes disclose
+		personally identifiable information about you to our affiliates or to
+		third parties who work for us.</p>
+
+		<p>We will disclose your personally identifiable information if
+		required by law, regulation or government authority, or to protect the
+		rights and property of Jinni, its affiliates or the public. For
+		example, we may be required by law to disclose personally identifiable
+		information about you without your consent and without notice in order
+		to comply with a valid legal process such as a subpoena, court order,
+		or search warrant.</p>
+
+		<h2 class="sub2">Underage User</h2>
+		<p>Jinni does not knowingly collect personally identifiable
+		information from children under the age of thirteen, and does not wish
+		to do so. Children should always get permission from their parents
+		before sending any information about themselves (such as name and
+		e-mail address) over the Internet, to us or to anyone else.</p>
+
+		<h2 class="community">Cookies</h2>
+		<p>Cookies are a standard Internet technology used by many major
+		websites to provide useful features. Cookies are alphanumeric
+		identifiers that Jinni transfers to your computer's hard drive through
+		your web browser to allow our systems to recognize your browser and
+		provide some tailored features. Please remember that cookies cannot
+		read your hard drive or give information to any third party.</p>
+
+		<p>The "help" portion of the toolbar on most browsers will tell
+		you how to prevent your browser from accepting new cookies, how to
+		have the browser notify you when you receive a new cookie, or how to
+		disable cookies. However, if you disable cookies, you may not be able
+		to fully enjoy some of Jinni's best features.</p>
+
+		<h2 class="community">Changing Your Information</h2>
+		<p>You can view and change your personal profile at any time. If
+		you wish, you can terminate your account on the Website from the "My
+		Account" page. You can choose not to receive news and other emails
+		from Jinni by changing the settings in "My Account."</p>
+
+		<h2 class="community">Links</h2>
+		<p>We may offer some features with other providers, and our
+		Website may display links to other websites whose privacy policies and
+		practices we don't control. We advise you to read their privacy
+		policies to learn how they handle your personal information.</p>
+
+		<h2 class="community">Security</h2>
+		<p>Jinni takes precautions to protect the security of your
+		information, as well as our own information and network. We use
+		firewalls and store all of our files and information on secure
+		terminals. All user passwords are protected by encryption technology.
+		</p>
+		
+		<p>You are responsible for protecting against unauthorized access
+		to your password and computer. Be sure to sign off when finished using
+		a shared computer.</p>
+
+		<h2 class="community">Changes To This Policy</h2>
+		<p>We may change this privacy statement from time to time. We will
+		post the changes on the Website to ensure you are updated on how
+		information is collected, used, and disclosed. By continuing to use
+		the Website, you accept and agree to this privacy statement, as
+		modified. If you are concerned about how your information is handled,
+		you should periodically check this page.</p>
+
+		<h2 class="community">Business Transitions</h2>
+		<p>In the event of a merger, acquisition or reorganization of
+		Jinni ownership, user information will likely be a part of the assets
+		transferred. An acquiring company may substantially change this
+		privacy policy. Jinni will endeavor to notify all users of any such
+		changes.</p>
+
+		<h2 class="community">Contact</h2>
+		<p>JIf you have any questions about this privacy statement or the
+		practices of this Website, please contact us at <a href="mailto:info@jinni.com">info@jinni.com</a>.</p>
+		
+		<p>Last Revised: August 25, 2008</p>
+
+	</div>
+				<div class="invisible inlineInvitation" id="inlineInvitationDiv"><div id="anonymousInviteStep" class="inviteFrame anonymous invisible">
+		<img src="http://media.jinni.com/images/x.jpg" class="closingX" onclick="invite.closeInvitation('anonymousInviteStep')">
+		<div class="header"><span class="headerTitle">Tell Friends about Jinni</span></div>
+		<div class="inviteContent">
+			<div class="contentTitle">
+				<div>
+					<span class="title1">Jinni is more fun with friends!</span>
+
+				</div>
+			</div>
+			<div class="inputArea">
+				<div class="userInput">
+					<label>To:</label>
+					<input class="text" id="anonymousTo" onblur="invite.validate(this);" onfocus="invite.anonymousFocus();">
+				</div>
+				<div class="userInput">
+					<label>Your email:</label>
+					<input class="text" id="anonymousEmail" onblur="invite.validate(this);">
+				</div>
+				<div class="userInput">
+					<label>Your name:</label>
+					<input class="text" id="anonymousName" onblur="invite.validate(this);">
+				</div>
+				<div class="userInput">
+					<label>Message:</label>
+					<textarea class="message" id="anonymousMessage" onblur="invite.validate(this);">Hi,
+
+I've been using Jinni - it's a great site for finding new movies and shows. Check it out, I think you'll like it too.</textarea>
+				</div>
+			</div>
+		
+		</div>
+		<div class="footer">
+			<input id="anonymousInvitationButton" type="button" class="disabledCommandButton " value="Invite them in!" onclick="invite.sendAnonymous();">
+
+			<div class="invitationLoading" id="anonymousInvitationLoading"></div>
+			<a class="share facebook-large" href="#" onclick="shareModule.facebook('invite'); return false;"></a>
+			<a class="share twitter-large" href="#" onclick="shareModule.twitter('invite'); return false;"></a>
+			<label>share:</label>
+		</div></div><div id="socialNetsStep" class="inviteFrame octazenBox invisible">
+		<img src="http://media.jinni.com/images/x.jpg" class="closingX" onclick="invite.closeInvitation('socialNetsStep')">
+		<div class="header"><span class="headerTitle">Share Jinni with your friends !</span></div>
+		<div class="inviteContent">
+			<div class="contentTitle">
+				<div>
+					Jinni is more fun with friends!
+				</div>
+			
+			</div>
+			<div class="inputArea">
+				<div class="userInput">
+					<label>To:</label>
+					<input class="emails" id="loggedInTo" onblur="invite.loggedInBlur();" value="Enter emails separated by commas" onfocus="invite.loggedInFocus();">
+				</div>
+
+				<div class="userInput">
+					<label><i>OR </i>add contacts from a webmail or network:</label><select id="emailOptions" name="emailOptions" size="1" class="emails" onchange="document.getElementById('networkOptions').selectedIndex=0;">	<option value="Choose a webmail">Choose a webmail</option>	<option value="GMail">GMail</option>	<option value="Yahoo">Yahoo</option>	<option value="AOL">AOL</option>	<option value="Hotmail">Hotmail</option>	<option value="FastMail">FastMail</option>	<option value="GMX">GMX</option>	<option value="IcqMail">IcqMail</option>	<option value="Indiatimes">Indiatimes</option>	<option value="LinkedIn">LinkedIn</option>	<option value="Lycos">Lycos</option>	<option value="MacDotcom">MacDotcom</option>	<option value="MailDotcom">MailDotcom</option>	<option value="MyNetDotcom">MyNetDotcom</option>	<option value="Rediffmail">Rediffmail</option>	<option value="WebDotDe">WebDotDe</option></select><select id="networkOptions" name="networkOptions" size="1" class="socialNetworks" onchange="document.getElementById('emailOptions').selectedIndex=0;">	<option value="Choose a network">Choose a network</option>	<option value="Friendster">Friendster</option>	<option value="MySpace">MySpace</option>	<option value="Orkut">Orkut</option>	<option value="Hi5">Hi5</option>	<option value="Twitter">Twitter</option></select> 
+
+				</div>
+				<div class="userInput">
+					<label>Email:</label>
+					<input class="text" id="username">
+				</div>
+				<div class="userInput">
+					<label>Password:</label>
+					<input class="text" id="password" type="password">
+				</div>
+				<div class="userInput">
+					<span class="sicons_sprite lock"></span>
+					<label class="pwdNote">Never saved or shared</label>
+					<label class="errorMessage" style="float: right;" id="loginErrorMessage"></label>
+				</div>
+			</div>
+		
+		</div>
+		<div class="footer">
+			<input type="button" class="commandButton" id="logginButton" value="Continue" onclick="invite.loginToService();">
+			<div class="invitationLoading invisible" id="socialDataLoading"></div>
+			
+			<a class="share facebook-large" href="#" onclick="shareModule.facebook('invite'); return false;"></a>
+			<a class="share twitter-large" href="#" onclick="shareModule.twitter('invite'); return false;"></a> 
+			<label>share:</label>
+		</div></div><div id="contactsStep" class="inviteFrame contacts">
+  
+  	<img src="http://media.jinni.com/images/x.jpg" class="closingX" onclick="invite.closeInvitation('contactsStep')">
+		<div class="header">Tell Friends about Jinni</div>
+		<div class="inviteContent">
+			<div class="contentTitle">
+				<div>
+					These people could join your Movie Circle on Jinni!
+				</div>
+			
+			</div>
+			<div class="inputArea">
+				<div class="emailsHeader">
+					<input type="checkbox" id="se">
+					<label for="se">Select all</label>
+				</div><div id="mySimpleScroll" class="normalScroll" style="padding-top: 0px;"></div>
+				
+			</div>
+		
+		</div>
+		<div class="footer">
+			<input type="button" class="commandButton" value="Add Contacts" onclick="invite.goToStep(invite.SEND_INVITATION_STEP)">
+			<a class="share facebook-large" href="#" onclick="shareModule.facebook('invite'); return false;"></a>
+			<a class="share twitter-large" href="#" onclick="shareModule.twitter('invite'); return false;"></a> 
+			<label>share:</label>
+		</div></div><div id="invitationMessageStep" class="inviteFrame inviteBox invisible">
+  	<img src="http://media.jinni.com/images/x.jpg" class="closingX" onclick="invite.closeInvitation('invitationMessageStep')">
+		<div class="header">Share Jinni with your friends !</div>
+		<div class="inviteContent">
+			<div class="contentTitle">
+				<div>
+					Add a personal message or stick with ours:
+				</div>
+			
+			</div>
+			<div class="inputArea">
+				<div class="userInput">
+					<textarea class="message" id="message">Hi,
+
+I've been using Jinni - it's a great site for finding new movies and shows. Check it out, I think you'll like it too.</textarea>
+				</div>
+			</div>
+		
+		</div>
+		<div class="footer">
+			<input type="button" id="sendInvitationButton" class="commandButton" value="Invite them in!" onclick="invite.sendLoggedInInvitation();">
+			<div class="invitationLoading invisible" id="invitationLoading"></div>
+			<a class="share facebook-large" href="#" onclick="shareModule.facebook('invite'); return false;"></a>
+			<a class="share twitter-large" href="#" onclick="shareModule.twitter('invite'); return false;"></a> 
+			<label>share:</label>
+		</div></div><div id="thanksBox" class="thanksFrame invisible">
+  		Success! Invites sent.</div>
+				</div>
+			   
+			    <div id="notSeenItPopup">
+				<div class="container">
+					<div id="rolloverLikelyToSeeBtn" class="rolloverLikelyToSee" onclick="setLikelyToSee();">Likely to see</div>
+					<div id="rolloverNotForMeBtn" class="rolloverNotForMe" onclick="setNotForMe();">Not for me</div>		
+				</div>
+				<div class="tip"></div>
+				</div>
+			</div><div id="mainFooter">
+			<div id="footerLeft" class="headerColumns">
+			<h1 class="footerHeader">You</h1>
+			<div>
+			<div id="firstLeft" class="footerColumns">
+			<ul>
+				<li><a href="#">
+	       	</a><a href="http://www.jinni.com/user//profile" class="" onclick="return generalFunctions.goToPrivatePage(this.href); ">Account</a></li>
+				<li class="">
+	       	<a href="http://www.jinni.com/user//recommendations" class="" onclick="return generalFunctions.goToPrivatePage(this.href); ">Recommendations</a></li>
+				<li><a href="#">
+	       	</a><a href="http://www.jinni.com/user//contributions" class="" onclick="return generalFunctions.goToPrivatePage(this.href); ">Contributions</a></li>
+				<li><a href="/community/pulse.html">Community</a></li>
+			</ul>
+			</div>
+			<div class="footerColumns">
+			<ul>
+				<li><a href="#" onclick="x=window.open('http://www.getsatisfaction.com/jinni','newWindow1','toolbar=yes, location=yes,directories=yes,status=yes,menubar=yes,scrollbars=yes,copyhistory=yes,resizable=yes')">Your Feedback</a></li>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+			</ul>
+			</div>
+			<div class="footerColumns">
+			<ul>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+			</ul>
+			</div>
+			</div>
+			</div>
+			<div id="footerMiddle" class="headerColumns">
+			<h1 class="footerHeader">Us</h1>
+			<div>
+			<div id="firstLeft" class="footerColumns">
+			<ul style="list-style-type: none;">
+				<li><a href="http://www.jinni.com/about.html">About Us</a></li>
+				<li><a href="http://blog.jinni.com" target="_blank">Our Blog</a></li>
+				<li><a href="http://www.jinni.com/press.html">Buzz</a></li>
+				<li><a href="http://www.jinni.com/movie-genome.html">The
+				Movie Genome</a></li>
+				<li><a href="http://www.jinni.com/solutions.html">Solutions</a></li>
+			</ul>
+			</div>
+			<div class="footerColumns">
+			<ul>
+				<li><a href="http://www.jinni.com/careers.html">Careers</a></li>
+				<li><a href="http://www.jinni.com/terms.html">Terms of Use</a></li>
+				<li><a href="http://www.jinni.com/privacy.html">Privacy
+				Policy</a></li>
+				<li><a href="#"></a></li>
+			</ul>
+			</div>
+			<div class="footerColumns">
+			<ul>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+			</ul>
+			</div>
+			</div>
+			</div>
+			<div id="footerRight" class="headerColumns">
+			<h1 class="footerHeader">Help</h1>
+			<div>
+			<div id="firstLeft" class="footerColumns">
+			<ul>
+				<li><a href="http://www.jinni.com/faqs.html">FAQs</a></li>
+				<li><a href="#"></a></li>
+				<li><a href="http://www.jinni.com/contact.html">Contact Us</a></li>
+				<li><a href="#"></a></li>
+				<li><a href="http://www.jinni.com/sitemap.html">Site Map</a></li>
+			</ul>
+			</div>
+			<div class="footerColumns">
+			<ul>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+			</ul>
+			</div>
+			<div class="footerColumns">
+			<ul>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+			</ul>
+			</div>
+			</div>
+			</div>
+			<div class="footerText">
+				<p class="footerText">Jinni is best for now in Firefox, Internet Explorer 7 and Chrome</p>
+			</div>
+			<div id="homeCopyright">Copyright 2009 Jinni Inc.</div></div>
+		
+		</div>
+		
+		
+			<form name="showSimilarForm" id="showSimilarForm" method="post" action="/Search" target="searchResponseFrame">
+				<input id="discoveryCode" name="discoveryCode" type="hidden">
+				<input id="doDiscovery" name="doDiscovery" value="true" type="hidden">
+			</form>
+
+
+		
+
+
+
+	
+			<script type="text/javascript">
+			//<![CDATA[
+			if(window.addEventListener){window.addEventListener('load',handleOnload,0);}
+			else if(window.attachEvent){window.attachEvent('onload',handleOnload);}
+			else{window.onload=handleOnload;} 
+			function handleOnload(){
+				
+				if( "" != "false")
+					initSearchBox(); 
+				globalVariables.user.userName = "";
+				ajaxSessionRefresher.start();
+			}
+			//]]>
+			
+	 	</script>
+     
+      	
+	     <div id="feedbackNotice" class="feedbackOverlay" style="display: none"></div>
+		 
+		 <div id="jinniAlert" class="jinniAlert">
+		 	<span id="alertTitle" class="alertTitle"></span>
+		 	<a id="alertActionButton" class="commandButton " href="#">
+		 		<span id="actionLable"></span>
+		 	</a>
+		 </div>
+		
+		<div id="serverFeedback" class="serverFeedback">
+			<img src="http://media.jinni.com/images/tooltip_18.gif">
+			<span id="serverFeedbackMessage" class="message">message message message</span>
+		</div>
+		 
+		 <div class="userNavigationMenu" id="userNavigationMenu"> 
+		 <span class="sicons_sprite gua1"></span>
+		 <ul class="userNavigationMenu">
+			 <li><a href="http://www.jinni.com/user//recommendations/" onclick="return generalFunctions.goToPrivatePage(this.href);">Recommendations</a></li>
+			 <li><a href="http://www.jinni.com/user//taste-test/" onclick="return generalFunctions.goToPrivatePage(this.href);">Start Rating Movies</a></li>
+			 
+			 <li><a href="http://www.jinni.com/user//profile/" onclick="return generalFunctions.goToPrivatePage(this.href); ">Profile</a></li>
+			 <li><a href="http://www.jinni.com/user//wish-list/" onclick="return generalFunctions.goToPrivatePage(this.href); ">Wish List</a></li>
+			 <li><a href="http://www.jinni.com/user//favorites/" onclick="return generalFunctions.goToPrivatePage(this.href); ">Favorites</a></li>
+			 <li><a href="http://www.jinni.com/user//ratings/" onclick="return generalFunctions.goToPrivatePage(this.href); ">My Ratings</a></li>
+			 <li><a href="http://www.jinni.com/user//movie-circle/" onclick="return generalFunctions.goToPrivatePage(this.href); ">People</a></li>
+			 <li><a href="http://www.jinni.com/user//pulse/" onclick="return generalFunctions.goToPrivatePage(this.href); ">Pulse</a></li>
+		 </ul>
+		 </div>
+      	
+      		<div id="loginOverlay" class="loginOverlay" style="display: none">
+     
+      		<form class="loginForm" action="https://www.jinni.com/jinniLogin" id="loginForm" name="loginForm" method="post">
+	      		<img onclick="generalFunctions.hideLoginBox();" class="closingX" src="http://media.jinni.com/images/x.jpg">
+	      		
+			 	<div class="frame">
+			 		<div>
+					 	<p class="loginTitle" id="loginTitle">Log in to Jinni</p>
+					 	<p class="linkToReg"><a href="/join.html">Don't have a profile? Sign up for free. </a></p>
+				 	</div>
+				 	
+				 	<div class="userInfo">
+					 	<label for="user">Username</label>
+					 	<input id="user" name="user">
+					</div>
+					
+					<div class="userInfo">
+					 	<label for="pass">Password</label>
+					 	<input type="password" id="pass" name="pass">
+				 	</div>
+				 	
+					 <div class="rememberme"><input type="checkbox" name="rememberme" id="rememberme" value="true">
+					 	<label for="rememberme">Remember me<br><span class="note"> If checked you will stay logged in for 4 weeks</span></label>
+					 </div>
+					 <div><input type="submit" name="j_id77" value="Log In" onclick="generalFunctions.logIn(); return false;" class="commandButton">
+					 	<p class="forgot"><a href="/forgot_password.html">  Forgot password? </a></p>
+					 </div>
+				</div>
+				<input type="hidden" name="loginOverlayURL" id="privatePage">
+				<input type="hidden" name="loginSource" value="loginOverlay">
+			</form>
+      		</div><div id="shareByEmail" class="shareFrame">
+			<img src="http://media.jinni.com/images/x.jpg" class="closingX" onclick="shareModule.closeShareFrame();">
+			<div class="header">
+				<p id="shareSearchTerm">smart offbeat funny</p>
+				<p id="shareFilters">In: movies</p>
+			</div>
+			<div class="header2">
+				<p>Copy and paste this link into an email or instant message:</p>
+				<input class="sharedURL" id="shareURL" value="http://www.jinni.com">
+			</div>
+			<div class="shareContent">
+				<div class="contentTitle">
+					<div>
+						<span class="title1">Send this page by email</span>
+						<div class="holder">
+							<span class="title2" onclick="invite.openMailClient();">Email with my default email app</span>
+
+						</div>
+					</div>
+				</div>
+				<div class="inputArea">
+					<div class="userInput">
+						<label>To:</label>
+						<input onfocus="shareModule.handleClick();" class="text" id="shareTo" value="Enter emails separated by commas">
+					</div>
+					<div class="userInput" id="shareEmailDiv">
+						<label>Your email:</label>
+						<input class="text" id="shareEmail" value="">
+					</div>
+					<div class="userInput" id="shareNameDiv">
+						<label>Your name:</label>
+						<input class="text" id="shareName" value="">
+					</div>
+					<div class="userInput">
+						<label>Message:</label>
+						<textarea class="message" id="shareMessage"></textarea>
+					</div>
+				</div>
+			
+			</div>
+			<div class="footer">
+		<div class="shareIcons"><span id="j_id85" onclick="shareModule.twitter('emailFrame');" class="share twitter"></span><span id="j_id86" onclick="shareModule.facebook('emailFrame');" class="share facebook"></span><span id="j_id87" onclick="shareModule.stumbleupon('emailFrame');" class="share stumbleupon"></span><span id="j_id88" onclick="shareModule.myspace('emailFrame');" class="share myspace"></span><span id="j_id89" onclick="shareModule.friendfeed('emailFrame');" class="share friendfeed"></span><span id="j_id91" onclick="shareModule.delicious('emailFrame');" class="share delicious"></span><span id="j_id92" onclick="shareModule.shareLink(('emailFrame'));" class="share share-link-icon"></span>
+		</div>
+				
+				<input id="shareButton" type="button" class="commandButton " value="Send" onclick="shareModule.shareByEmail()">
+				<div class="invitationLoading" id="shareByEmailLoading"></div>
+			</div></div>
+	
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-5434717-1");
+	pageTracker._trackPageview();
+	</script>
+	
+	<!-- MYFACES JAVASCRIPT -->
+
+
+
+</body></html>
