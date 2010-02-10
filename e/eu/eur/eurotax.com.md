@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eurotax.com privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911135226id_/http%3A//www.eurotax.com/index.php%3Fp%3Dprivacy%26l%3Dencm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurotax.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210032525id_/http%3A//www.eurotax.com/index.php%3Fp%3Dprivacy%26l%3Dencm) for the most accurate reproduction.*
 
-# EurotaxGlass's - Automotive Business Intelligence
+# EurotaxGlass's - Privacy Policy
 
 EurotaxGlass's International AG of Wolleraustrasse 11a, 8807 Freienbach, Switzerland ("EurotaxGlass's") is committed to ensuring that your privacy is protected. This Privacy Policy explains how EurotaxGlass's uses the information EurotaxGlass's collects about you; how you can instruct EurotaxGlass's; if you prefer; to limit the use of that information and procedures EurotaxGlass's have in place to safeguard your privacy. Other EurotaxGlass's companies whose links appear on this website may have privacy policies that address privacy issues/laws of the countries in which they operate, such policies will prevail over this policy.
 
