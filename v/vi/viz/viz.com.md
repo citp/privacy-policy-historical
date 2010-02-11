@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the viz.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230034350id_/http%3A//www.viz.com/termsofuse/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viz.com privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211131616id_/http%3A//www.viz.com/termsofuse/privacy.php) for the most accurate reproduction.*
 
 # VIZ, LLC . privacy policy
 
 |    
 [home](https://web.archive.org/index.php) > [privacy policy](https://web.archive.org/termsofuse/privacy)
 
-Last Updated: September 20, 2006
+Last Updated: January 29, 2010
 
 **INTRODUCTION               [Special Note to California Customers]**
 
@@ -33,7 +33,23 @@ www.megaman-ntwarrior.com
 www.mirmo-zibang.com  
 www.saikano-usa.com  
 www.shojobeat.com  
-www.shonenjump.com
+www.shonenjump.viz.com  
+bluedragon.viz.com  
+deathnote.viz.com  
+www.haikasoru.com  
+honeyandclover.viz.com  
+monster.viz.com  
+nana.viz.com  
+onepiece.viz.com  
+www.shonensunday.com  
+www.sigikki.com  
+www.therumicworld.com  
+www.vizanime.com  
+www.vizkids.com  
+www.vizsignature.com  
+www.vizsignature.com/monster/  
+www.vizsignature.com/20CB/  
+www.vizsignature.com/pluto/
 
 (collectively the “Sites”).  As we continue to offer our visitors new and different types of content and services, we may modify our practices from time to time. 
 
