@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dotnetcurry.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215175931id_/http%3A//www.dotnetcurry.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotnetcurry.com privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211225300id_/http%3A//www.dotnetcurry.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # .NET Curry - Privacy Policy
 
-**Dotnetcurry.com website privacy policy (version 2.0)**
+**Dotnetcurry.com website privacy policy (version 3.0)**
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. ****
 
@@ -12,15 +12,15 @@ We may collect, store and use the following kinds of personal data:
 
 [(a)    information about your computer and about your visits to and use of this website, such as your IP address, geographical location, browser type, referral source, length of visit and number of page views;]
 
-[(b)    information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services (including [ _DETAILS_ ]);]
+[(b)    information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services (including [ _Name and Email Address_ ]);]
 
-[(c)     information that you provide to us for the purpose of registering with us (including [ _DETAILS_ ]);]
+[(c)     information that you provide to us for the purpose of registering with us (including [ _Profile details_ ]);]
 
-[(d)    information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters (including [ _DETAILS_ ]);]
+[(d)    information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters (including [ _details related to the subscriptions_ ]);]
 
 [(e)    any other information that you choose to send to us; and]
 
-[(f)     _OTHER INFORMATION._ ]
+[(f)     _Any downloads, service subscriptions etc._ ]
 
 **(2)        Cookies**
 
@@ -52,7 +52,7 @@ We may use your personal information to:
 
 [(j)     deal with enquiries and complaints made by or about you relating to the website; and]
 
-[(k)    _OTHER USES_.]
+[(k)    _OTHER USES necessary to make the website better_.]
 
 We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
 
@@ -76,7 +76,7 @@ Except as provided in this privacy policy, we will not provide your information 
 
 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
 
-[We will store all the personal information you provide on our secure servers. All electronic transactions you make to or receive from us will be encrypted [using SSL technology].] 
+[We will store all the personal information you provide on servers provided by our webhosting provider.] 
 
 Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
 
