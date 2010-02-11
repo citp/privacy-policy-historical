@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetsecure.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602134154id_/http%3A//www.internetsecure.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetsecure.com privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211145416id_/http%3A//www.internetsecure.com/privacy.htm) for the most accurate reproduction.*
 
 # InternetSecure
 
@@ -52,7 +52,7 @@ In the event the issue relates to private information, Elavon will not use or di
 Contacting Elavon regarding InternetSecure:  
 **If you have questions about this privacy statement, the practices of this site or your dealings with this web site, you may contact: 
 
-**Elavon Canada Company**  
+**Elavon**  
 2201 Speers Road  
 Oakville ON  
 L6L 2X9  
