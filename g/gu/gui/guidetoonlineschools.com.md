@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the guidetoonlineschools.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831075053id_/http%3A//www.guidetoonlineschools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidetoonlineschools.com privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211143630id_/http%3A//www.guidetoonlineschools.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GuidetoOnlineSchools.com
 
-[](http://www.truste.com/ivalidate.php?url=guidetoonlineschools.com&sealid=101)
+[](http://www.truste.com/ivalidate.php?url=www.guidetoonlineschools.com&sealid=101)
 
 [GuideToOnlineSchools.com](http://www.guidetoonlineschools.com/) is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users’ trust and confidence in the internet by promoting the use of fair information practices. GuideToOnlineSchools.com has elected to disclose its information practices, and have its privacy practices reviewed for compliance by TRUSTe as a testament to our commitment to your privacy.
 
@@ -54,11 +54,11 @@ In addition to the information that you provide to us or that we obtain about yo
 
 **Opt-Out Policy**
 
-We respect your privacy and your ability to choose whether to share or not share information with the Site or any third party. You may choose to "opt-out" of having us share your personal information in several ways. You can choose to decline to provide personal information on the Site. If you have previously submitted personal information to the Site, you may request that we discontinue sharing such information with third parties, by communicating this preference in writing to us at . Similarly, if you receive communications from us that you prefer not to receive, you may opt out from receiving these communications by specifically indicating this preference in an email to 
+We respect your privacy and your ability to choose whether to share or not share information with the Site or any third party. You may choose to "opt-out" of having us share your personal information in several ways. You can choose to decline to provide personal information on the Site. If you have previously submitted personal information to the Site, you may request that we discontinue sharing such information with third parties, by communicating this preference in writing to us at: privacy@degreepages.com. Similarly, if you receive communications from us that you prefer not to receive, you may opt out from receiving these communications by specifically indicating this preference in an email to: privacy@degreepages.com. If you opt-out, we will not contact you after we have processed your opt-out request (up to 3 days) unless otherwise provided in this privacy policy. However, if we shared your information with third parties prior to the processing of your opt-out request, such third parties may continue to contact you. If you receive email correspondence from third parties, you should contact such third parties directly with respect to opting out of such third party communications.
 
 **Modification of Personal Information**
 
-If you wish to modify your personal information you should send an email with your name, submission details, and the notice "Profile Update" in the subject line to .
+If you wish to modify your personal information you should send an email with your name, submission details, and the notice "Profile Update" in the subject line to: privacy@degreepages.com.
 
 **Security of Personal Information**
 
