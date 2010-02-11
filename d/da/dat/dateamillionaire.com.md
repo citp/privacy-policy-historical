@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dateamillionaire.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420193921id_/http%3A//www.dateamillionaire.com/%3Fs%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateamillionaire.com privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211011407id_/http%3A//www.dateamillionaire.com/%3Fs%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
