@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papatek.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620081416id_/http%3A//www.papatek.com/Papatek/Customer-Service/5.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papatek.com privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211143048id_/http%3A//www.papatek.com/Papatek/Customer-Service/5.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
