@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aceproject.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505175004id_/http%3A//www.aceproject.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aceproject.com privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211143031id_/http%3A//www.aceproject.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -13,7 +13,7 @@ Privacy Policy Statement
 
 This privacy statement covers the site [www.aceproject.com]. Because this Web site wants to demonstrate its commitment to its users' privacy, it has agreed to disclose its information practices. 
 
-If users have questions or concerns regarding this statement, they should first contact Daniel Raymond by email at [support@aceproject.com](mailto:support@aceproject.com).
+If users have questions or concerns regarding this statement, they should first contact Daniel Raymond by email at [support@aceproject.com](mailto:support@aceproject.com). 
 
   
 |   
@@ -25,7 +25,7 @@ If users have questions or concerns regarding this statement, they should first 
 |   | 
 
 **Information Collection**  
-[Websystems Inc.] is the sole owner of the information collected on [www.aceproject.com]. [Websystems Inc.] collects information from its users at several different points on our Web site.
+[[Websystems Inc.](http://www.websystems-inc.com/)] is the sole owner of the information collected on [[www.aceproject.com](https://web.archive.org/web/20100211143031id_/http%3A//www.aceproject.com/index.htm)]. [[Websystems Inc.](http://www.websystems-inc.com/)] collects information from its users at several different points on our Web site.
 
 **Registration**  
 In order to use this Web site, a user must first create a free account. During registration a user is required to give contact information (such as name and email address). We use this information to send requested email notifications, to contact our customers for major announcements or to fix account-related issues, such as payment issues.
@@ -42,7 +42,7 @@ Our partner, [Internet Secure](http://www.internetsecure.com/), requests informa
 We store information that we collect through cookies and dynamic asp pages to create a profile of our users. A profile is stored information that we keep on individual users that detail their viewing preferences. Consequently, collected information is tied to the users' personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site. We do not share users profiles with other third parties.
 
 **Cookies**  
-A cookie is a piece of data stored on the user's computer tied to information about the user. We use cookies to remember your company login name and username only. For security reasons, we do not store passwords. We do not share your cookie with other third parties.
+A cookie is a piece of data stored on the user's computer tied to information about the user. We use cookies to remember your Account ID, username and password. We do not share your cookie with other third parties.
 
 **Dynamic ASP Pages**  
 We use dynamic ASP forms to collect information like company information, projects, timesheets, users, tasks, files attachments, notes, and preferences. We do not share your information with other third parties.
@@ -89,13 +89,13 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 These are the instances in which we will share users' personal information:
 
 **Business Transitions**  
-In the event that Websystems Inc. goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via email, a prominent notice would be placed on our Web site for 30 days, prior to a change of ownership or control of their personal information. If, as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection, they will be given choice consistent with our notification of changes section.
+In the event that [[Websystems Inc.](http://www.websystems-inc.com/)] goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via email, a prominent notice would be placed on our Web site for 30 days, prior to a change of ownership or control of their personal information. If, as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection, they will be given choice consistent with our notification of changes section.
 
 **Choice/Opt-out**  
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying with "unsubscribe" in the subject line in the email or email us at support@aceproject.com.
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying with "unsubscribe" in the subject line in the email or email us at [support@aceproject.com](mailto:support@aceproject.com).
 
 **Links**  
-This Web site contains links to other sites. Please be aware that we, [Websystems Inc.], are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+This Web site contains links to other sites. Please be aware that we, [[Websystems Inc.](http://www.websystems-inc.com/)], are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 **Security**  
 This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
