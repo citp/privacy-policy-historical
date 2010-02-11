@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dateamillionaire.com privacy policy that was archived on 2009-04-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090420193921id_/http%3A//www.dateamillionaire.com/%3Fs%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dateamillionaire.com privacy policy that was archived on 2010-02-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100211011407id_/http%3A//www.dateamillionaire.com/%3Fs%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<title>Privacy Policy</title>
@@ -18,6 +18,7 @@
 
 	</head>
 	<body>
+	<div id="IMChatProxy"></div>
 	
 	<br>
 	<table align="center" cellpadding="0" cellspacing="0" border="0" style="width: 968px;">
@@ -28,7 +29,7 @@
 			<tbody><tr>
 				<td style="height: 66px; width: 445px;"><a href="./"><img src="templates/dateamillionaire/images/headerRight.png" width="445" height="66" border="0" alt="dateamillionaire.com"></a></td>
 
-				<td style="background-image: url(templates/dateamillionaire/images/headerBG.png); height: 66px; width: 516px;"><img src="templates/dateamillionaire/images/headerBG.png" width="516" height="66" alt=""></td>
+				<td style="background-image: url(templates/dateamillionaire/images/headerbg.png); height: 66px; width: 516px;"><img src="templates/dateamillionaire/images/headerbg.png" width="516" height="66" alt=""></td>
 				<td style="height: 66px; width: 7px;"><img src="templates/dateamillionaire/images/headerLeft.png" width="7" height="66" alt=""></td>
 			</tr>
 		</tbody></table>
@@ -59,8 +60,13 @@
 			<table cellpadding="0" cellspacing="0" border="0" style="width: 964px;">
 			</table>
 			<!-- End Toolbar -->
-		<div class="main_container">
-			<table width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <div class="main_container">
+
+<!-- BEGIN Global Toolbar v2.0 -->
+
+<!-- END Global Toolbar v2.0 -->
+
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
 			<tbody><tr>
 				<td valign="top">
 					<div id="message_playarea" style="display: none"></div>
@@ -239,10 +245,7 @@
 								<div class="major_fill">
 							<div class="sub_fill">
 								<span style="font-size: 14px; font-weight: bold;">Join for free!</span><br>
-								Join for free and search through thousands of profiles!<br><br>Joining only takes a minute. Joining our community will allow us to better match you with other members.
-
-
-							</div>
+								Join for free and search through thousands of profiles!<br><br>Joining only takes a minute. Joining our community will allow us to better match you with other members.							</div>
 							<span style="font-size: 4px;"><br></span>
 							<div class="sub_fill" style="font-size: 14px; font-weight: bold; text-align: center;">
 								<a href="?s=join&amp;c=side" rel="nofollow">Join Now</a>
@@ -254,24 +257,48 @@
 							<span style="font-size: 4px;"><br></span>
 																					<!--Add JavaScript to configure for ioBegin -->
 							<script language="JavaScript">
+							
+							var submit_form;
 
+    						function copybb ( aform, pass )
+    						{
+      							var bb = document.getElementById( io_bbout_element_id );
+   
+      							if ( aform != null )    
+        							submit_form = aform;
+   
+      							if ( typeof( bb ) == 'undefined' )   
+        							return true;
+   
+      							if ( bb.value == '' && pass < 6)
+      							{
+         							setTimeout( "copybb( null," + (pass + 1) + ");", 500 );
+         							return false;
+      							} else {
+         							if ( bb.value != '' ) {
+          								 submit_form.ioBB.value = bb.value;
+         							}
+      							}
+      							submit_form.submit();
+      							return false;        
+    						}
+
+							var io_exclude_stm = 12;
 							var io_operation = "ioBegin";
-							var io_bbout_element_id = 'ioBB';
+							var io_bbout_element_id = 'blackbox';
 							var io_install_stm = false;
 
-							var io_submit_element_id = 'submit1';
-							var io_max_wait = 3000;
-							var io_submit_form_id = 'loginForm';
 							</script>
 							<!--Include JavaScript library -->
 							<script language="JavaScript" src="https://mpsnare.iesnare.com/snare.js">
 							</script>
-							<form action="http://www.dateamillionaire.com/index.php" method="post" style="display: inline;" id="loginForm" name="loginForm">
+							<input type="hidden" name="blackbox" id="blackbox">
+							<form action="http://www.dateamillionaire.com/index.php" method="post" style="display: inline;" id="loginForm" name="loginForm" onsubmit="return copybb( this, 0);">
 							<input type="hidden" name="ioBB" id="ioBB">
 								email address:<br>
 								<input type="text" name="login" class="login_text_field">
 								<br><span style="font-size: 4px;"><br></span>
-								password<br>
+								password:<br>
 								<input type="password" name="password" class="login_text_field">
 								<br><span style="font-size: 4px;"><br></span>
 								<input type="Submit" value="Log in" class="search_button" id="submit1" name="submit1">
@@ -282,10 +309,8 @@
 
 						   <div class="sub_fill">
 								<span style="font-size: 12px; font-weight: bold;">
-									Find a member
-								</span>
-								<br>Search by nickname
-								<br>
+									Find a member								</span>
+								<br>Search by nickname								<br>
 							<form action="" method="get" style="display: inline; margin: 0;">
 								<span style="font-size: 4px;"><br></span>
 								<input type="hidden" name="a" value="user_lookup">
@@ -310,7 +335,7 @@
   
 
 <div style="text-align: center; color:#000000; font-size: 12px; border-top:1px solid #dfdfdf; width:978px; margin:10px auto; padding:10px 0;">
-		- <a href="./singles" class="toolbar toolbarBottom">Millionaire Singles</a> - <a href="?s=contact" class="toolbarBottom" rel="nofollow">Contact us</a> - <a href="?s=help" class="toolbarBottom" rel="nofollow">Help/FAQ</a> - <a href="?s=privacy" class="toolbarBottom" rel="nofollow">Privacy Policy</a> - <a href="?s=tos" class="toolbarBottom" rel="nofollow">Terms and Conditions</a>  -<br>All works on this site Copyright © 2006-09 DateAMillionaire.com<br><br>
+		- <a href="./singles" class="toolbar toolbarBottom">Millionaire Singles</a> - <a href="?s=contact" class="toolbarBottom" rel="nofollow">Contact us</a> - <a href="?s=help" class="toolbarBottom" rel="nofollow">Help/FAQ</a> - <a href="?s=privacy" class="toolbarBottom" rel="nofollow">Privacy Policy</a> - <a href="?s=tos" class="toolbarBottom" rel="nofollow">Terms and Conditions</a>  -<br>All works on this site Copyright © 2006-10 DateAMillionaire.com<br><br>
 
 </div>
 
