@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inetgiant.co.uk privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109144555id_/http%3A//www.inetgiant.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inetgiant.co.uk privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211144254id_/http%3A//www.inetgiant.co.uk/privacypolicy) for the most accurate reproduction.*
 
-# Free Ads UK: Classifieds | Freeads | Classified Ads | Free Advertising by InetGiant
+# Free Ads | Free Classifieds | Classfied Ads | FreeAds by Inetgiant
 
 Last Updated on June 15, 2009
 
