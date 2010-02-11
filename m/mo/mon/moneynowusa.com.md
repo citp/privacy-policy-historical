@@ -1,87 +1,150 @@
-> *The following text is extracted and transformed from the moneynowusa.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426210825id_/http%3A//www.moneynowusa.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneynowusa.com privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211134659id_/http%3A//www.moneynowusa.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy :: Privacypolicy :: MoneyNowUSA Privacy Policy
+# Bad Credit Loans :: Unsecured Loans :: Cash Advance :: Payday Loans :: Cash Call Loans from Money Now USA
 
-[](http://www.truste.org/ivalidate.php?url=www.MoneyNowUSA.com&sealid=101)
+MoneyNowUSA.com ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document. 
 
-_Money Now! USA is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site:_[ _www.moneynowusa.com_](http://www.moneynowusa.com/) _. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe._
+This Privacy Policy will tell you, among other things: 
 
-_If you have questions or concerns regarding this statement, you should first contact Chris Kay at_[ _chris@MoneyNowUSA.com_](mailto:chris@moneynowusa.com) _. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at_[ _http://www.truste.org/consumers/watchdog_complaint.php_](http://www.truste.org/consumers/watchdog_complaint.php) _. TRUSTe will then serve as a liaison to resolve your concerns._
+* Your California privacy rights.   
+* How we collect information and what information we collect.   
+* How we may use information.   
+* How we may share information.   
+* Your choices regarding the sharing of information. 
 
-Collection and Use of Personally Identifiable Information (PII)
+**ACKNOWLEDGEMENT/YOUR AGREEMENT**
 
-At MoneyNowUSA.com we promise not to contact you unless you request information. Our goal is to provide the consumer with free information about loans and loan products without pop-ups and Spam. Money Now! USA is operated by Blue Global LLC located at 7652 East Greenway Road Suite 103 Scottsdale, AZ 85260. If you have a question comment or suggestion we can be reached by e-mail at [chris@MoneyNowUSA.com](mailto:chris@moneynowusa.com).
+Company websites are not intended for use by individuals under the age of 18 or those who are not legal residents of the United States. By using our website or submitting information to us, you consent to the Company's use and sharing of the information collected or submitted as described in this Privacy Policy. If you are not 18 years of age or older and a valid resident of the United States or you do not agree with the terms of this Privacy Policy, do not provide us with any information or use any of the products or services offered or provided on Company websites or through Company technology. 
 
-If you apply for a loan on our site, we request certain personally identifiable information about you, such as your name, email address, and phone number. This information is necessary to process your loan application and to match you with the best loan provider. We will then share this information with the loan providers that wish to offer you a loan. Once you have been transferred to that third party the [www.moneynowusa.com](http://www.moneynowusa.com/) privacy statement no longer applies to the information that you entered on the application form. You will then be contacted by that provider directly either via email or telephone. Once you are contacted by that provider if you wish to no longer be contacted by them you must unsubscribe from that provider directly.
+**YOUR CALIFORNIA PRIVACY RIGHTS**
 
-Newsletters
+Beginning January 1, 2005 under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to either: (1) a list detailing the categories of information shared and the entities to which such information was provided; or (2) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties, [click here](http://www.money4nowusa.com/unsubscribe.aspx) and follow the opt-out instructions. 
 
-You have the option to receive our monthly newsletter when you register. If you wish to subscribe to our newsletter, we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section. __
+**HOW DO WE COLLECT INFORMATION AND WHAT INFORMATION DO WE COLLECT?**
 
-Choice/Opt-out
+We collect and combine personally identifiable information ("PII") and non-personally identifiable information ("Non-PII") through various sources, including those discussed below. For your reference, PII is data collected with an intention to specifically identify, contact or locate a person, including but not limited to name, address, telephone number, or e-mail address. Conversely, Non-PII is data that is not used to specifically identify, contact or locate an individual, including but not limited to zip code, gender, age, or IP address. 
 
-We provide you the opportunity to ‘opt-out' of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you apply for a loan but do not wish to receive any additional marketing material from us, you can indicate your preference in the checkbox.
+**Website Registration Forms**
 
-If you no longer wish to receive our newsletter, you may opt-out of receiving it by following the instructions included in each newsletter or by emailing us at [chris@MoneyNowUSA.com](mailto:chris@moneynowusa.com).
+We collect information about you when you register on one of our websites. This registration information may include, but is not limited to your: 
 
-Log Files
+* e-mail address   
+* full name   
+* mailing address   
+* telephone number   
+* date of birth   
+* gender 
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible). As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes browser types, internet service providers (ISP), referring/exit pages, operating systems, date/time stamps, and clickstream data.
+**Publisher Partners**
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. ****
+When you complete a registration or offer form that is hosted by one of our website publisher partners on our behalf, the website publisher partner may submit all or a portion of the information that you submitted on the form to the Company. This information may include, but is not limited to: your IP address, e-mail address, name, mailing address, telephone number, date of birth, gender, and payment information; information about your background, interests, health, education, career goals, and shopping preferences; and any other information you provide to our website publisher partner. 
 
-We do not link this automatically-collected data to personally identifiable information.
+**Marketing Partners**
 
-We collect only the domain names, but not the e-mail addresses of visitors to our Web page. We also collect the e-mail addresses of those who communicate with us via e-mail, aggregate information as to what pages the consumer accesses or visits, and information volunteered by the consumer, such as survey information and/or site registrations.
+We may receive information about you, including but not limited to your IP address, e-mail address, first name, last name, mailing address, and telephone number, from third party marketing partners that provide us with consumer data to manage on their behalf. 
 
-The information we collect is used to improve the content of our Web page and is used by us to contact consumers for marketing purposes. It is not shared with other organizations for commercial purposes.
+**Automatic Information/Digital Identifiers**
 
-Cookies
+We may automatically receive and store certain types of information about you through the data sources listed above. 
 
-With respect to cookies: A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. __
+You may be familiar with the term "cookies," which are unique alphanumeric identifiers that store information on your computer. A cookie is placed on your computer when your web browser accesses our website. We use cookies for tracking transactions and the user characteristics explained in detail throughout this Privacy Policy. If you choose, there are utilities available for purchase from independent software providers to install on your computer as well as tools/preferences you can choose through most web browsers to make website visits anonymous. Of course, cookies let you have a more satisfying website experience, so we recommend that you leave them turned on. 
 
-We use both session ID cookies and persistent cookies. We use session ID cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. For more information, please visit the Department of Energy's website at <http://ciac.llnl.gov/ciac/bulletins/i-034.shtml>.
+We also collect information through our web server applications. This information includes your Internet Protocol or "IP" address, date/time stamp, browser type, and referring URL. 
 
-We set a persistent cookie to store your passwords, so you don't have to enter them more than once. Persistent cookies also enable us to track and target the interests of our users to enhance their experience on our site, while providing conversion tracking data for our advertisers and partners.
+Additionally, we may use pixel tracking technology to track the completion of transactions with us or our advertisers, the source information for those transactions, and your IP address, date/time stamp, browser type, and referring URL. 
 
-If you reject cookies, you may still use our site. Disclosure: This privacy statement covers the use of cookies by the Money Now! USA Web site only and does not cover the use of cookies by any third party advertising partners or payday loan lenders. Furthermore, if you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail at the above address or by visiting the Choice/Opt-out section of this policy.
+**Government Forms**
 
-Changes in this Privacy Statement
+The Company may be required to create, collect, maintain, and submit certain information required by the government, such as IRS Forms W-9 and 1099. This information, which may include your taxpayer identification number, will not be used, shared, transferred, or sold for marketing purposes. 
 
-Occasionally, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and to provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. If we decide to change our privacy policy, we will post these changes to this privacy statement and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here or by means of a notice on our home page and by email at the email address that you provided.
+**HOW DO WE USE THIS INFORMATION?**
 
-Updating/Accessing/Amending/Correcting Personally Identifiable Information (PII)
+We may use the collected PII and Non-PII for any legally permissible purpose in our sole discretion, including but not limited to those explained below. 
 
-Upon request we provide site visitors with access to contact information (i.e., name, address, and phone number) that we maintain about them. If your personally identifiable information changes, or if you no longer desire our services, you may amend or remove your information by emailing us at [chris@MoneyNowUSA.com](mailto:chris@moneynowusa.com), or by contacting us by telephone or postal mail at the contact information listed above. We will respond to your request to access within 30 days.
+**Pre-select/Pre-fill Offers**
 
-Security
+Our website technology may pre-select certain offers for you to view based on the demographic and geographic information you submitted to the Company during the website registration process. Additionally, this technology may pre-fill some or all of the offers' data fields with the information you submitted during the website registration process in order to prevent you from having to re-enter this information. We may not show all of the pre-filled data fields to you. 
 
-With respect to security: We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can send us an email at [chris@MoneyNowUSA.com](mailto:chris@moneynowusa.com).
+**Customer Service and Fulfillment**
 
-When we transfer and receive certain types of sensitive information such as contact or financial information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site that we have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from said visitors to our site. Specifically, when you enter sensitive information (such as credit card numbers and/or social security numbers) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
+We may use your information to operate the website promotion, service your account and to fulfill rewards earned through Company websites. We may also use your information to verify your identity or claimed account status and, where we consider appropriate, investigate your compliance with the terms and conditions of the website promotion or any advertiser offer. We do retain customer service correspondence. 
 
-Legal Disclaimer
+**Marketing**
 
-We also reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
+We may use your information in our online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs, [click here](http://www.money4nowusa.com/unsubscribe.aspx) and follow the opt-out instructions. 
 
-Links to Other Sites
+**HOW DO WE SHARE INFORMATION?**
 
-If you click on a link to apply for a loan (including on an advertisement), in some instances you will leave the Money Now! USA Web site and go to the site that you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as Money Now! USA. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to the Money Now! USA Web site, you should also read _that_ site's privacy statement before providing any personally identifiable information.
+We may share the collected PII and Non-PII for any legally permissible purpose in our sole discretion, including but not limited to those explained below. 
 
-Tell-A-Friend ****
+**Within the Company**
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Money Now! USA stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+We may share information we collect with affiliated companies, including our parent company and other subsidiaries of our parent company, for use in their ad serving and marketing programs. This Privacy Policy does not apply to affiliated companies and their collection, use and sharing of information. 
 
-Your friend may contact us at [chris@MoneyNowUSA.com](mailto:chris@moneynowusa.com) to request that we remove this information from our database.
+**Vendors**
 
-Agents/Service Providers
+We may share your information with various third party vendors that are not part of the Company, including but not limited to vendors that provide us with technology to deploy commercial e-mail, vendors that sell the products or services for which you have qualified through one of our websites, and shipping companies that we utilize to ship products to you. 
 
-We use Commission Junction who hosts our affiliate program sign up. When you sign up for our affiliate program, the personal information that you enter will be used by Commission Junction as necessary for them to sign you up for [www.moneynowusa.com](http://www.moneynowusa.com/) ‘s affiliate program. The personal information is not shared with [www.moneynowusa.com](http://www.moneynowusa.com/).
+**Advertisers**
 
-Additionally, we partner with third parties to provide users with loan-matching services, credit report services, debt reduction services, and other free financial consultation services on our site. When a consumer requests any of these services, we will share their name, email address, phone number, and specific location, as necessary, to these third parties so that they may provide the requested service(s). 
+When you participate in an offer by completing a form, we will transfer the information you submitted on the form to the applicable advertiser either with our own technology or a 3rd party proxy. 
 
-When a user comes to our site and requests a loan from our service providers, the user's PII is then sent to a limited list of service providers that will be able to assist the user with his/her needs. PII will be sent with the utmost possible speed upon consumer submission of such information. Lightspoke.com will keep a copy of all consumers' PII on its data base for the purposes of record keeping and any necessary provision of assistance to consumers or service providers. Once a consumer's information is received by the service provider, response time is at the complete discretion of the service provider.
+When you answer "yes" or "no" to a survey question, some or all of the information that you submitted during the website registration process will be transferred to advertisers that we believe may be of interest to you without providing you with another opportunity to review the information. 
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. You may also contact the DMA's Committee on Ethical Business Practices at mgoldberger@the-dma.org, state or local chapters of the Better Business Bureau, the state or local consumer protection office, or The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
+When you select "yes" next to an offer, we will transfer some or all of the information that you submitted during the website registration process to the applicable advertiser without providing you with another opportunity to review the information either with our own technology or a 3rd party proxy. 
 
-**Effective Date: 1/01/2009**
+**Ad Serving Companies**
+
+We may use third party ad networks or ad serving companies to serve advertisements on our websites. We pass information about you to these companies so that they can deliver targeted advertisements that they believe will be of interest to you. The information passed to these companies may include, but is not limited to, your IP address, e-mail address, name, mailing address, telephone number, date of birth, gender, and any other information you provide to us. Web pages that are served by these companies will state that they are "powered by" or "ads by" the applicable company and will contain a link to that company's privacy policy. 
+
+Marketing Partners 
+
+We may share, license or sell your information to third parties for various marketing purposes, including their online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs, [click here](http://www.money4nowusa.com/unsubscribe.aspx) and follow the opt-out instructions. 
+
+Data Enhancement/Appending/Validation 
+
+We may use third party service providers to enhance our database with additional elements, including but not limited to age ranges present in your household, whether you own or rent a home, the length of time you have lived at your residence, whether you are a mail order buyer or responder, household income, and gender. Further, we may use third party service providers to append telephone numbers to other data points we have in our database. We also may use third party service providers to validate the data we have in our database. 
+
+Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services. 
+
+**Governmental Agencies or Other Companies**
+
+We may share your information with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines. 
+
+We may store and share your information with third parties for suppression or opt-out purposes. 
+
+We also may share your information with third parties when: (1) trying to protect against or prevent actual or potential fraud or unauthorized transactions; (2) investigating fraud that has already taken place; (3) enforcing or applying existing terms and conditions and/or other agreements; (4) protecting the rights, property or safety of our websites, our users or others; or (5) responding to subpoenas, court orders or legal process, or to establish or exercise our legal rights or defend against legal claims. 
+
+In all cases, this information is not provided to these entities or persons for marketing purposes. 
+
+**Right to Transfer**
+
+Should the Company choose to sell or transfer business assets, it is possible that the information we possess may be transferred as part of that transaction. The Company may decide to retain a copy of the information post sale or transfer. 
+
+**COMPANY CUSTOMER CHOICES**
+
+**Marketing Communications**
+
+By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications from the Company and its third party marketing partners, you can discontinue the communications by clicking here and following the opt-out instructions. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account. 
+
+**WHAT HAPPENS IF I HIT A LINK TO ANOTHER SITE FROM A COMPANY WEBSITE?**
+
+Our websites may offer links to other websites. Other websites have their own terms of use and privacy and security policies. If you choose to visit one of these sites, you should review the policies that govern that particular site. 
+
+**APPLICATION OF THIS PRIVACY POLICY**
+
+This Privacy Policy applies to all information collected by or submitted to the Company. Other affiliated entities of the Company may obtain information independently from transactions and experiences with you or from other sources. This Privacy Policy does not pertain to that information. 
+
+**WHAT IS THE POLICY WITH RESPECT TO COMMUNICATING WITH CHILDREN?**
+
+We recognize the unique privacy concerns regarding children. We are committed to carefully protecting privacy where children are involved no matter the point of contact. In particular, our intention is to fully comply with the Children's Online Privacy Protection Act ("COPPA"). Per COPPA guidelines, we do not knowingly collect PII from children under the age of 13. If a parent or guardian is made aware that a child under the age of 13 has provided us with PII through any point of contact, please contact us and we will delete the information about the child referenced from our files. 
+
+**SECURITY**
+
+There is no such thing as complete security on the Internet or otherwise. The Company uses various security techniques on our websites to help protect against the loss, misuse or modification of information we've collected from you. When you access your personal information or transmit information to us, that information is stored on servers that we have taken steps to protect from unauthorized access or intrusion. While we strive to protect your information, the Company cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with the Company, its partners and affiliates. 
+
+**LIMITATION OF LIABILITY**
+
+**YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS THE TERMS AND CONDITIONS OF THIS WEBSITE (INCLUDING LIMITATIONS ON DAMAGES). YOU AGREE THAT THE COMPANY'S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY THE COMPANY TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS.**
+
+Effective Date: June 2009 
