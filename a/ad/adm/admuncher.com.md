@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admuncher.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227184110id_/http%3A//www.admuncher.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admuncher.com privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211144251id_/http%3A//www.admuncher.com/privacy.shtml) for the most accurate reproduction.*
 
 # Ad Muncher - Privacy Policy
 
@@ -35,22 +35,22 @@ We will never send regular unsolicited emails (eg: newsletters) unless specifica
 Information provided to our staff will not be sold, rented or traded to any third party under any conditions.
 
 **Privacy Policy Changes**  
-Any changes to the privacy policy will be posted here.  If you have any further questions about our privacy practices (or anything else) please feel free to [contact us](https://web.archive.org/web/20090227184110id_/http%3A//www.admuncher.com/contact.shtml). 
+Any changes to the privacy policy will be posted here.  If you have any further questions about our privacy practices (or anything else) please feel free to [contact us](https://web.archive.org/web/20100211144251id_/http%3A//www.admuncher.com/contact.shtml). 
 
-"In a class all it's own"  
-\- SnapFiles.com
+"Absolutely indispensable"  
+\- Donald Johnston, Canada
 
-"Great Program! works for me!"  
-\- Download.com
+"One of the few pieces of software that I'd gladly pay for!"  
+\- Ben Walker
 
-"By FAR the best, most effective program of the type I have found. Others like Ad Block Plus don't compare at all"  
-\- Brad M
+"I have tried many, but Ad-Muncher is king of them all. A really great program"  
+\- Fred Noakes of Ontario, Canada
 
-"The best around. I couldn't live without it! It makes the internet so much faster as it takes off all the advertisements"  
-\- Download.com
+"I know I've got a fat belly, and no I do't want to loose it in 3 weeks. . It was worth the money just to stop seeing that advert"  
+\- David, Cyprus
 
-"I've tried 5-6 different pop-up and banner ad killers but this one leaves them all lightyears behind on features, performance, and stability"  
-\- FileForum.com
+"It has helped me so much. I have Parkinsons and I really get upset with all the popup ads. Now I can use my computer without having to stop and close those ads"  
+\- J Perry Hartley, United States
 
   
 
