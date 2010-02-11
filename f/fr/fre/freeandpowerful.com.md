@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeandpowerful.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208224358id_/http%3A//www.freeandpowerful.com/i/webmaster/_/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeandpowerful.com privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211151806id_/http%3A//www.freeandpowerful.com/i/webmaster/TRACK%3Dtracking-not-available%2A%3BENDTRACK%3B/privacy_policy.html) for the most accurate reproduction.*
 
 # www.FreeAndPowerful.com - Privacy Policy
 
@@ -60,4 +60,4 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 
 **Spam Policy**
 
-We abide by a very strict no spam policy. If you suspect you have been spammed regarding the FreeAndPowerful.com products or opportunity please email us at support@FreeAndPowerful.com. 
+We abide by a very strict no spam policy. If you suspect you have been spammed regarding the FreeAndPowerful.com products or opportunity please email us at support@FreeAndPowerful.com. [](http://www.gbg-business-opportunity.com/)
