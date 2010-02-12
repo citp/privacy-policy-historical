@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the britannica.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401074136id_/http%3A//corporate.britannica.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britannica.com privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213003722id_/http%3A//corporate.britannica.com/privacy.html) for the most accurate reproduction.*
 
 # Encyclopædia Britannica, Inc. Corporate Site
+
+_Updated February 10, 2010_
 
 **Table of Contents**
 
@@ -43,11 +45,15 @@ If a User visits a Britannica site and submits an e-mail address to Britannica b
 
   * **Cookies.**
 
-To help you personalize your online experience, Britannica uses "Cookies." "Cookies" are pieces of information that Britannica transfers to the hard drives of Users for record-keeping purposes. One of the primary purposes of Cookies is to provide a convenience feature to save you time. For example, Cookies allow us to recognize you when you re-enter a Britannica site so that you will not have to log in each time you visit. Cookies also allow us to count the number of unique and return visitors who use the Britannica sites. In addition, Britannica places Cookies with Users visiting from advertising banners and hyperlinks on other Web sites to track the success of a particular advertising campaign or marketing program. Most browsers are initially set up to accept Cookies. If you prefer, you can reset your browser to notify you when you've received a Cookie or, alternatively, to refuse to accept Cookies. It is important to note that you may not be able to use certain features on a Britannica site if you choose not to accept Cookies. The use of Cookies is an industry standard and occurs at most major Web sites. 
+To help you personalize your online experience, Britannica uses "Cookies." "Cookies" are pieces of information that Britannica transfers to the hard drives of Users for record-keeping purposes. One of the primary purposes of Cookies is to provide a convenience feature to save you time. For example, Cookies allow us to recognize you when you re-enter a Britannica site so that you will not have to log in each time you visit. Cookies also allow us to collect anonymous traffic data, such as the number of unique and return visitors who use the Britannica sites. In addition, Britannica places Cookies with Users visiting from advertising banners and hyperlinks on other Web sites to track the success of a particular advertising campaign or marketing program. Most browsers are initially set up to accept Cookies. If you prefer, you can reset your browser to notify you when you've received a Cookie or, alternatively, to refuse to accept Cookies. It is important to note that you may not be able to use certain features on a Britannica site if you choose not to accept Cookies. The use of Cookies is an industry standard and occurs at most major Web sites. 
 
-  * **Beacons.**
+  * ****Third Party Beacons and Cookies.****
 
-We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and Cookies provided by our marketing company on this site. The type of information we collect includes pages visited, search terms, referrers, campaigns, anonymous user identifier, and anonymous account identifiers. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of this Web site analysis tool by clicking [here](http://sitecatalyst.omniture.com/privacy/optout.html).
+We use third party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit Britannica sites.  These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to Britannica sites and other Web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, and to OPT OUT, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other Web sites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, and to OPT OUT, click [here](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html).
+
+Google, as a third party vendor, uses cookies to serve ads on the Britannica sites. Google's use of the DART cookie enables it and its partners to serve ads to Users based on their visit to Britannica sites and/or other sites on the Internet. You may OPT OUT of the use of the DART cookie by visiting the Google ad and content network privacy policy; click [here](http://www.google.com/privacy_ads.html). 
 
 
 
@@ -148,7 +154,7 @@ We do not share your Personal Information with others except as indicated below 
 >> 
 >>     * **With Respect to third party advertising:**
 >>
->>> The Britannica sites use the services of one or more third parties to present or target the advertisements, promotions, and other marketing messages that you may see on various Web pages and to conduct research about such advertisements, promotions, and other marketing messages. Our Privacy Policy does not cover any use of information that such third parties may have collected from Users or the method used by such third parties to collect that information (e.g., Cookies). You can opt-out of this process by clicking [here](http://www.myadchoice.com/alpha/).
+>>> The Britannica sites use the services of one or more third parties to present or target the advertisements, promotions, and other marketing messages that you may see on various Web pages and to conduct research about such advertisements, promotions, and other marketing messages. Our Privacy Policy does not cover any use of information that such third parties may have collected from Users or the method used by such third parties to collect that information (e.g., Cookies). To opt out of third party advertising network cookies, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
 >> 
 >> Please allow up to six (6) weeks for mailed-in or faxed opt-out requests to be processed.
 >> 
@@ -156,7 +162,7 @@ We do not share your Personal Information with others except as indicated below 
 >  The Britannica sites each contain links to other Web sites. Britannica is not responsible for the privacy practices or content of these third-party Web sites. We urge all Britannica site Users to follow safe Internet practices: Do not supply Personal Information to these Web sites unless you have verified their security and privacy policies.
 >> 
 >> **Your Consent and Changes to Privacy Policy.**  
->  This Privacy Policy was last changed on March 28, 2008. By using any one of the Britannica sites, you consent to the collection and use of your information by Britannica in the manner specified in this Privacy Policy. Britannica reserves the right to change or amend this Privacy Policy prospectively at any time by posting the revised Privacy Policy on the Britannica sites. Britannica encourages Britannica site Users to periodically review this Privacy Policy to be informed of how we are protecting their information.
+>  This Privacy Policy was last updated on February 10, 2010. By using any one of the Britannica sites, you consent to the collection and use of your information by Britannica in the manner specified in this Privacy Policy. Britannica reserves the right to change or amend this Privacy Policy prospectively at any time by posting the revised Privacy Policy on the Britannica sites. Britannica encourages Britannica site Users to periodically review this Privacy Policy to be informed of how we are protecting their information.
 >> 
 >> 
 
