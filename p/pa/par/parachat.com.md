@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parachat.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619162446id_/http%3A//www.parachat.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parachat.com privacy policy that was archived on 2010-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100212123953id_/http%3A//www.parachat.com/privacypolicy.html) for the most accurate reproduction.*
 
 # ParaChat Privacy Policy
 
