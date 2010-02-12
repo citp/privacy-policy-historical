@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadridge.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604210525id_/http%3A//www.broadridge.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadridge.com privacy policy that was archived on 2010-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100212172536id_/http%3A//www.broadridge.com/privacy.asp) for the most accurate reproduction.*
 
 # Broadridge
 
