@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winferno.com privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225122502id_/http%3A//www.winferno.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winferno.com privacy policy that was archived on 2010-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100212210541id_/http%3A//www.winferno.com/privacy.aspx) for the most accurate reproduction.*
 
 # Winferno Software's Privacy Policy
 
@@ -15,8 +15,7 @@ It's free.**
 [> _Subscribe_](http://www.winferno.com/subscribe.aspx)  
 [> _Unsubscribe_](http://www.winferno.com/unsubscribe.aspx)  
   
-  
-    [ ](http://www.truste.org/ivalidate.php?url=www.winferno.com&sealid=101)
+[ ](http://www.truste.org/ivalidate.php?url=www.winferno.com&sealid=101)
 
 Capital Intellect is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent,non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.winferno.com](http://www.winferno.com/). Because this web site wants to demonstrate its commitment to your privacy, they have agreed to disclose their information practices and have their privacy practices reviewed for compliance by TRUSTe. 
 
@@ -24,7 +23,7 @@ If you have questions or concerns regarding this statement, you should contact u
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
-This Privacy Policy was last updated on 11/28/2005.
+This Privacy Policy was last updated on 9/28/2009.
 
 ### Information Collection & Use
 
@@ -52,7 +51,7 @@ Based upon the personally identifiable information you provide us, we will commu
 ### Information Sharing and Disclosure
 
 Aggregate Information (non-personally identifiable)   
-We share aggregated demographic information about our user base with our partners and advertisers. This information does not identify individual users. We do not link aggregate user data with personally identifiable information. 
+We collect aggregated demographic information about our user base. This information does not identify individual users. We do not link aggregate user data with personally identifiable information. This aggregate information is collected by the use of third party tracking devices such as cookies. 
 
 Personally Identifiable Information   
 Agents   
@@ -130,7 +129,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ###  Contact Us 
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at: <http://www.winferno.com/re/support.asp>
+If you have any questions or suggestions regarding our privacy policy, please contact us at: <http://www.winferno.com/re/support-email.asp>
 
 You may also mail us your questions or suggestions to us at the following address:  
 Privacy at Winferno Software  
