@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the ascenderfonts.com privacy policy that was archived on 2009-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091201042251id_/http%3A//www.ascenderfonts.com/info/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ascenderfonts.com privacy policy that was archived on 2010-02-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100213000404id_/http%3A//www.ascenderfonts.com/info/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<link href="/local/styles/styles.css?2.2" rel="stylesheet" type="text/css">
 <title>AscenderFonts.com Privacy Policy</title>
-<link href="/local/styles/styles.css?11" rel="stylesheet" type="text/css">
-<script src="/local/scripts/ascenderfonts.full.js" type="text/javascript"></script>
+<script src="/local/scripts/ascenderfonts.full.js?2.1" type="text/javascript"></script>
 
 <meta name="keywords" content="ascenderfonts privacy policy,ascenderfonts legal statement,ascender corp privacy policy,acender corp legal statement">
 <meta name="description" content="AscenderFonts.com Privacy Policy - Ascender Corporation is committed to the privacy of all users and has created this policy to disclose our privacy practices to ensure users are comfortable with sharing pertinent information. Ascender Corporation pledges to maintain integrity and professional practices while working with private information.">
@@ -18,7 +18,7 @@
 <div class="page">
   <div id="header" class="clearafter">
     <div class="header">
-      <h1 id="logo"><a href="/"><img src="/local/styles/images/logo.png" alt="Ascender Fonts"></a></h1>
+      <h1 id="logo"><a href="/">Ascender Fonts</a></h1>
       <div id="loginarea">
         
         
@@ -39,18 +39,21 @@
               </div>
               <div class="signin-buttons">
                 <input type="hidden" name="ActionType" value="QuickSignIn">
-                <button type="submit"><img src="/local/styles/images/signin-btn-blue.png" alt="Sign In"></button>
+                <button type="submit" id="signin-btn">Sign In</button>
                 or <a href="/signin.aspx">Register</a>
               </div>
             </div>
+            <div class="signin-form-f">&nbsp;</div>
           </form>
-          <div class="tc"><a href="/store/signin.aspx" onclick="$('#SignInForm').animate({ height:'190px' }, 300, null, function(){ $('#SignInForm .f-email').focus(); }); return false;"><img src="/local/styles/images/signin-btn.png" alt="Sign In"></a></div>
+          <div class="tc"><a href="/store/signin.aspx" id="signin-link" onclick="$('#SignInForm').animate({ height:'190px' }, 300, null, function(){ $('#SignInForm .f-email').focus(); }); return false;">Sign In</a></div>
         
       </div>
       <div id="searcharea">
-        <div id="cartinfo" class="cartinfo">
-          <a href="/store/cart.aspx">My Cart:</a> <span id="cartinfo-top">0 items <span class="price">$0.00</span></span> <a href="/store/cart.aspx">View</a> 
-          <a href="/store/cart.aspx" class="checkout-btn" title="Proceed to Checkout"><img src="/local/styles/images/checkout-btn.png" alt="Proceed to Checkout"></a>
+        <div id="cartinfo">
+          <div class="cartinfo">
+            <a id="mycart-link" href="/store/cart.aspx"><span id="cart-icon">&nbsp;</span>My Cart:</a> <span id="cartinfo-top">0 items <span class="price">$0.00</span></span> <a href="/store/cart.aspx">View</a> 
+          </div>
+          <a href="/store/cart.aspx" id="checkout-btn" title="Proceed to Checkout">Checkout</a>
         </div>
         
           <form action="/store/search.aspx" method="get" id="searchform" class="searchform">
@@ -58,7 +61,7 @@
             
               <input type="text" name="q" id="q" class="searchbox">
             
-            <button type="submit"><img src="/local/styles/images/search-btn.png" alt="Search"></button>
+            <button id="search-btn" type="submit">Search</button>
           </div>
           </form>
         
@@ -74,7 +77,8 @@
         <li><a href="/category/type-style.aspx">Type Style</a></li>
         <li><a href="/category/language.aspx">Language</a></li>
         <li><a href="/foundry/">Foundry</a></li>
-        <li class="last"><a href="/store/alphabetical.aspx">A-Z List</a></li>
+        <li><a href="/store/alphabetical.aspx">A-Z List</a></li>
+        <li class="last"><a href="/webfonts/">Web Fonts</a></li>
       </ul>
       <h3>Font Lists</h3>
       <ul>
@@ -94,9 +98,9 @@
         <li class="last"><a href="/info/font-licensing.aspx">Font Licensing</a></li>
       </ul>
       
-      <div style="margin:20px 0 0 0;">
-        <a style="margin-right:15px;" href="/info/refund-policy.aspx" title="100% Satisfaction Guarantee"><img src="/local/styles/images/100guarantee.gif" alt="100% Satisfaction Guarantee"></a>
-        <a target="_blank" href="http://www.bbbonline.org/cks.asp?id=10502099583" title="Click to verify BBB acreditation and to see a BBB report."><img src="/local/styles/images/bbb.gif" alt="Click to verify BBB acreditation and to see a BBB report."></a>
+      <div class="clearafter" style="margin:20px 0 0 0;">
+        <a id="refund-policy" href="/info/refund-policy.aspx" title="Refund Policy - 100% Satisfaction Guarantee">Refund Policy</a>
+        <a id="bbb" target="_blank" href="http://www.bbbonline.org/cks.asp?id=10502099583" title="Verify BBB acreditation and see a BBB report.">BBB Acreditation Report</a>
       </div>
       <h3>Support</h3>
       <ul>
@@ -141,6 +145,7 @@
 
 <div id="footer">
   <div class="footer clearafter">
+  <a href="/" id="footer-logo">Ascender Fonts</a>
   <ul class="footer-links">
     <li><a href="/store/enewsletter.aspx">E-Newsletter</a></li>
     <li><a href="/info/font-help.aspx">Font Help</a></li>
@@ -155,7 +160,7 @@
     <li><a href="/store/affiliate.aspx">Become an Affiliate</a></li>
   </ul>
   <p class="footer-text">Ascenderfonts.com has the finest, high quality fonts available for instant download. Brought to you by the font experts at Ascender Corp, you will find a great selection of TrueType fonts and OpenType fonts from licensed type designers and foundries.</p>
-  <div class="copyright"><a href="http://www.devbridge.com/" title="Web Design &amp; Development by DevBridge">Web Design &amp; Development by DevBridge</a><br>© 2004-2009 Ascender Corporation</div>
+  <div class="copyright"><a href="http://www.devbridge.com/" title="Web Design &amp; Development by DevBridge">Web Design &amp; Development by DevBridge</a><br>© 2004-2010 Ascender Corporation</div>
   </div>
 </div>
   
@@ -166,7 +171,7 @@
   </div>
   </div>
 
-<script type="text/javascript" src="/global/scripts/cmsjq2.js"></script>
+
 
 
 
