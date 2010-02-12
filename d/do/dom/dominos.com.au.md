@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominos.com.au privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418023823id_/http%3A//www.dominos.com.au/corporate/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.com.au privacy policy that was archived on 2010-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100212223944id_/http%3A//www.dominos.com.au/corporate/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Domino's Pizza - Privacy and Policy
 
