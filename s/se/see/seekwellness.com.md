@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekwellness.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602072106id_/http%3A//www.seekwellness.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekwellness.com privacy policy that was archived on 2010-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100212160519id_/http%3A//www.seekwellness.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -28,7 +28,7 @@ Q. **What should you look for in a privacy policy?**
 
   1. Make sure it's easy to understand. If you have trouble understanding it, chances are the website doesn't want you to know what it does with your information. 
 
-_SeekWellness Response: This statement has been tested with our visitors for clarity and ease of understanding. If you have questions about any part, please[contact us](https://web.archive.org/web/20090602072106id_/http%3A//www.seekwellness.com/emailform.htm?t=dln66uv4vzra0wow408sow8gg)._
+_SeekWellness Response: This statement has been tested with our visitors for clarity and ease of understanding. If you have questions about any part, please[contact us](https://web.archive.org/web/20100212160519id_/http%3A//www.seekwellness.com/emailform.htm?t=dln66uv4vzra0wow408sow8gg)._
 
   2. Check to see that the website includes an opt-in or opt-out option for registered visitors. Opt-in means that you have the right to choose if and when your information is released to others. Opt-out means that your information will be shared with others until you specifically request that it not be. If there is a choice listed, check its wording to see if the default setting is opt-out and you have to do something to stop the website from sharing your information. At that point, look at how difficult the website makes it for you to opt-out. 
 
