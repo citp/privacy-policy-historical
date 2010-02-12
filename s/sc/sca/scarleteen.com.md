@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scarleteen.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207204706id_/http%3A//www.scarleteen.com/user_guidelines_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scarleteen.com privacy policy that was archived on 2010-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100212234044id_/http%3A//www.scarleteen.com/user_guidelines_privacy_policy) for the most accurate reproduction.*
 
 # User Guidelines & Privacy Policy | Scarleteen
 
@@ -66,9 +66,6 @@ The message boards and Sexpert Advice sections exist to offer support for the ex
 Lastly, copyright for all material posted to the boards herewith belongs to Scarleteen. Posts may be used by the owner of Scarleteen without permission for promotion, articles at or about Scarleteen, books and other related works.
 
 * * *
-
-  
-
 
 ### Privacy Policy
 
