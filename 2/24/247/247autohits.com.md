@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 247autohits.com privacy policy that was archived on 2009-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090331221216id_/http%3A//www.247autohits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247autohits.com privacy policy that was archived on 2010-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100212231229id_/http%3A//www.247autohits.com/privacy.php) for the most accurate reproduction.*
 
-# 247AutoHits.com - Your Source for Unlimited FREE Website Hits since 2006!
+# 247 Auto Hits . com - Your Source for Unlimited FREE Website Hits since 2006! - Auto Hits Traffic Exchange
 
 **THIS PRIVACY STATEMENT DISCLOSES THE PRIVACY PRACTICES FOR 247AutoHits.com**
 
