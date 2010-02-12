@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the imaging-resource.com privacy policy that was archived on 2009-04-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090404061420id_/http%3A//www.imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imaging-resource.com privacy policy that was archived on 2010-02-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100212232053id_/http%3A//www.imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.-->
 
 <html><head><script language="JavaScript" type="text/javascript">
 // If the cookie is not present, begin is set to -1
@@ -76,7 +76,467 @@ if (begin == -1) {
 	<link href="/IN/style.css" type="text/css" rel="stylesheet">
 	<link rel="SHORTCUT ICON" href="/ART/favicon.ico">
 	<meta name="Revisit-After" content="1 days">
-<script type="text/javascript" language="JavaScript">
+<script type="text/javascript">
+// Functions for clearing/setting text in searchbox
+function clickclear(thisfield, defaulttext) {
+	if (thisfield.value == defaulttext) {
+		thisfield.value = "";
+	}
+}
+function clickrecall(thisfield, defaulttext) {
+	if (thisfield.value == "") {
+		thisfield.value = defaulttext;
+	}
+}
+
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+	sPicURL = theURL.replace("MD", "LG");
+	window.open( "popup.htm?"+sPicURL, "", "resizable=1,HEIGHT=200,WIDTH=200");
+}
+
+
+
+
+addLoadListener(initTooltips);
+
+function initTooltips()
+{
+
+  var browserID = identifyBrowser();
+
+  if (browserID.indexOf("ie") != -1) 
+  {
+
+	// Only check table headers if IE
+	var tableHeaders = document.getElementsByTagName("th");
+	var matchedArray = new Array();
+	
+	for (var i = 0; i < tableHeaders.length; i++)
+	{
+		if (tableHeaders[i].getAttribute("class") == "hastooltip")
+		{
+			matchedArray[matchedArray.length] = tableHeaders[i];
+		}
+	}
+	
+	var tips = matchedArray;
+  } 
+  else 
+  {
+
+	// Otherwise, check all elements
+  	var tips = getElementsByAttribute("class", "hastooltip");
+  }
+  
+  
+  for (var i = 0; i < tips.length; i++)
+  {
+    attachEventListener(tips[i], "mouseover", showTip, false);
+    attachEventListener(tips[i], "mouseout", hideTip, false);
+  }
+
+  return true;
+}
+
+function showTip(event)
+{
+  if (typeof event == "undefined")
+  {
+    event = window.event;
+  }
+
+  var target = getEventTarget(event);
+
+  while (target.className == null || !/(^| )hastooltip( |$)/.test(target.className))
+  {
+    target = target.parentNode;
+  }
+
+  var tip = document.createElement("div");
+  var content = target.getAttribute("title");
+
+  target.tooltip = tip;
+  target.setAttribute("title", "");
+
+  if (target.getAttribute("id") != "")
+  {
+    tip.setAttribute("id", target.getAttribute("id") + "tooltip");
+  }
+
+  tip.className = "tooltip";
+  tip.appendChild(document.createTextNode(content));
+
+  var scrollingPosition = getScrollingPosition();
+  var cursorPosition = [0, 0];
+
+  if (typeof event.pageX != "undefined" && typeof event.x != "undefined")
+  {
+    cursorPosition[0] = event.pageX;
+    cursorPosition[1] = event.pageY;
+  }
+  else
+  {
+    cursorPosition[0] = event.clientX + scrollingPosition[0];
+    cursorPosition[1] = event.clientY + scrollingPosition[1];
+  }
+
+  tip.style.position = "absolute";
+  tip.style.left = cursorPosition[0] - 100 + "px";
+  tip.style.top = cursorPosition[1] + 10 + "px";
+  tip.style.visibility = "hidden";
+  
+  document.getElementsByTagName("body")[0].appendChild(tip);
+
+  var viewportSize = getViewportSize();
+
+  if (cursorPosition[0] - scrollingPosition[0] -100 + tip.offsetWidth > viewportSize[0] - 25)
+  {
+    tip.style.left = scrollingPosition[0] + viewportSize[0] - 25 - tip.offsetWidth + "px";
+  }
+  else
+  {
+    tip.style.left = cursorPosition[0] -100 + "px";
+  }
+
+  if (cursorPosition[1] - scrollingPosition[1] + 10 + tip.offsetHeight > viewportSize[1] - 25)
+  {
+    if (event.clientX > (viewportSize[0] - 25 - tip.offsetWidth))
+    {
+      tip.style.top = cursorPosition[1] - tip.offsetHeight - 10 + "px";
+    }
+    else
+    {
+      tip.style.top = scrollingPosition[1] + viewportSize[1] - 25 - tip.offsetHeight + "px";
+    }
+  }
+  else
+  {
+    tip.style.top = cursorPosition[1] + 10 + "px";
+  }
+
+  tip.style.visibility = "visible";
+
+  return true;
+}
+
+function hideTip(event)
+{
+  if (typeof event == "undefined")
+  {
+    event = window.event;
+  }
+
+  var target = getEventTarget(event);
+
+  while (target.className == null || !target.className.match(/(^| )hastooltip( |$)/))
+  {
+    target = target.parentNode;
+  }
+
+  if (target.tooltip != null)
+  {
+    target.setAttribute("title", target.tooltip.childNodes[0].nodeValue);
+    target.tooltip.parentNode.removeChild(target.tooltip);
+  }
+
+  return false;
+}
+
+function addLoadListener(fn)
+{
+  if (typeof window.addEventListener != 'undefined')
+  {
+    window.addEventListener('load', fn, false);
+  }
+  else if (typeof document.addEventListener != 'undefined')
+  {
+    document.addEventListener('load', fn, false);
+  }
+  else if (typeof window.attachEvent != 'undefined')
+  {
+    window.attachEvent('onload', fn);
+  }
+  else
+  {
+    var oldfn = window.onload;
+    if (typeof window.onload != 'function')
+    {
+      window.onload = fn;
+    }
+    else
+    {
+      window.onload = function()
+      {
+        oldfn();
+        fn();
+      };
+    }
+  }
+}
+
+function attachEventListener(target, eventType, functionRef, capture)
+{
+  if (typeof target.addEventListener != "undefined")
+  {
+    target.addEventListener(eventType, functionRef, capture);
+  }
+  else if (typeof target.attachEvent != "undefined")
+  {
+    target.attachEvent("on" + eventType, functionRef);
+  }
+  else
+  {
+    eventType = "on" + eventType;
+
+    if (typeof target[eventType] == "function")
+    {
+      var oldListener = target[eventType];
+
+      target[eventType] = function()
+      {
+        oldListener();
+
+        return functionRef();
+      }
+    }
+    else
+    {
+      target[eventType] = functionRef;
+    }
+  }
+
+  return true;
+}
+
+function getEventTarget(event)
+{
+  var targetElement = null;
+
+  if (typeof event.target != "undefined")
+  {
+    targetElement = event.target;
+  }
+  else
+  {
+    targetElement = event.srcElement;
+  }
+
+  while (targetElement.nodeType == 3 && targetElement.parentNode != null)
+  {
+    targetElement = targetElement.parentNode;
+  }
+
+  return targetElement;
+}
+
+function getViewportSize()
+{
+  var size = [0,0];
+
+  if (typeof window.innerWidth != 'undefined')
+  {
+    size = [
+        window.innerWidth,
+        window.innerHeight
+    ];
+  }
+  else if (typeof document.documentElement != 'undefined'
+      && typeof document.documentElement.clientWidth != 'undefined'
+      && document.documentElement.clientWidth != 0)
+  {
+    size = [
+        document.documentElement.clientWidth,
+        document.documentElement.clientHeight
+    ];
+  }
+  else
+  {
+    size = [
+        document.getElementsByTagName('body')[0].clientWidth,
+        document.getElementsByTagName('body')[0].clientHeight
+    ];
+  }
+
+  return size;
+}
+
+function getScrollingPosition()
+{
+  //array for X and Y scroll position
+  var position = [0, 0];
+
+  //if the window.pageYOffset property is supported
+  if(typeof window.pageYOffset != 'undefined')
+  {
+    //store position values
+    position = [
+        window.pageXOffset,
+        window.pageYOffset
+    ];
+  }
+
+  //if the documentElement.scrollTop property is supported
+  //and the value is greater than zero
+  if(typeof document.documentElement.scrollTop != 'undefined'
+    && document.documentElement.scrollTop > 0)
+  {
+    //store position values
+    position = [
+        document.documentElement.scrollLeft,
+        document.documentElement.scrollTop
+    ];
+  }
+
+  //if the body.scrollTop property is supported
+  else if(typeof document.body.scrollTop != 'undefined')
+  {
+    //store position values
+    position = [
+        document.body.scrollLeft,
+        document.body.scrollTop
+    ];
+  }
+
+  //return the array
+  return position;
+}
+
+function getElementsByAttribute(attribute, attributeValue)
+{
+  var elementArray = new Array();
+  var matchedArray = new Array();
+
+  if (document.all)
+  {
+    elementArray = document.all;
+  }
+  else
+  {
+    elementArray = document.getElementsByTagName("*");
+  }
+
+  for (var i = 0; i < elementArray.length; i++)
+  {
+    if (attribute == "class")
+    {
+      var pattern = new RegExp("(^| )" + attributeValue + "( |$)");
+
+      if (elementArray[i].className.match(pattern))
+      {
+        matchedArray[matchedArray.length] = elementArray[i];
+      }
+    }
+    else if (attribute == "for")
+    {
+      if (elementArray[i].getAttribute("htmlFor") || elementArray[i].getAttribute("for"))
+      {
+        if (elementArray[i].htmlFor == attributeValue)
+        {
+          matchedArray[matchedArray.length] = elementArray[i];
+        }
+      }
+    }
+    else if (elementArray[i].getAttribute(attribute) == attributeValue)
+    {
+      matchedArray[matchedArray.length] = elementArray[i];
+    }
+  }
+
+  return matchedArray;
+}
+
+function identifyBrowser() {
+  var agent = navigator.userAgent.toLowerCase();
+
+  if (typeof navigator.vendor != "undefined" && navigator.vendor == "KDE" &&
+      typeof window.sidebar != "undefined")
+  {
+    return "kde";
+  }
+  else if (typeof window.opera != "undefined")
+  {
+    var version = parseFloat(agent.replace(/.*opera[\/ ]([^ $]+).*/, "$1"));
+
+    if (version >= 7)
+    {
+      return "opera7";
+    }
+    else if (version >= 5)
+    {
+      return "opera5";
+    }
+
+    return false;
+  }
+  else if (typeof document.all != "undefined")
+  {
+    if (typeof document.getElementById != "undefined")
+    {
+      var browser = agent.replace(/.*ms(ie[\/ ][^ $]+).*/, "$1").replace(/ /, "");
+
+      if (typeof document.uniqueID != "undefined")
+      {
+        if (browser.indexOf("5.5") != -1)
+        {
+          return browser.replace(/(.*5\.5).*/, "$1");
+        }
+        else
+        {
+          return browser.replace(/(.*)\..*/, "$1");
+        }
+      }
+      else
+      {
+        return "ie5mac";
+      }
+    }
+
+    return false;
+  }
+  else if (typeof document.getElementById != "undefined")
+  {
+    if (navigator.vendor.indexOf("Apple Computer, Inc.") != -1)
+    {
+      if (typeof window.XMLHttpRequest != "undefined")
+      {
+        return "safari1.2";
+      }
+
+      return "safari1";
+    }
+    else if (agent.indexOf("gecko") != -1)
+    {
+      return "mozilla";
+    }
+  }
+  return false;
+}
+
+</script><script type="text/javascript" language="JavaScript">
 function MM_preloadImages() { //v3.0
   var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
     var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
@@ -117,7 +577,9 @@ function MM_jumpMenuGo(selName,targ,restore){ //v3.0
 
 
 
-<!--These are the region variables for all the ads for cameras
+
+<!--These are the region variables for all the software pages
+
 	marked as REG -->
 
 
@@ -135,33 +597,44 @@ function MM_jumpMenuGo(selName,targ,restore){ //v3.0
 
 
 
-<body>
-<table id="header">
-<tbody><tr>
-	<td><a href="http://www.imaging-resource.com"><img src="/ART/logo.130.gif" width="130" height="84" alt="Imaging Resource logo" border="0" id="logo"></a></td>
-	<td><!--// THIS IS THE NEW AD FILE: region 43; adtype  //--><script type="text/javascript" src="http://208.43.255.194/Flash/flashobject.js"></script>
-<div id="flashcontentnllb2"></div>
 
-    <script type="text/javascript">
-        // <![CDATA[
-        
-        var fo = new FlashObject("http://208.43.255.194/ADS/nl-f-lake.swf?ClickTag=http://208.43.255.194/cgi-bin/advertpro/banners.fpl%3Fregion=43%26campaign=6%26banner=962%26publisher=0%26mode=CLICK%26bust=571003%26timestamp=20090404021420%26referrer=http%3A%2F%2F208.43.255.194", "IR", "728", "90", "6", "");
-        fo.addParam("quality", "best");
-        fo.write("flashcontentnllb2");
-        
-        // ]]>
-    </script>
+
+<body>
+<div id="wrapper">
+	<table id="header">
+	<tbody><tr>
+		<td id="logo_divider"><a href="http://www.imaging-resource.com"><img src="/ART/logo.130.gif" width="130" height="84" alt="Imaging Resource logo" border="0" id="logo"></a></td>
+		<td id="leaderboard">    
+<!-- BEGIN AVPA CODE BLOCK: Region 64 / Keyword NULL -->
+
+<script type="text/javascript">
+<!--
+document.write('<SCR'+'IPT src="http://174.36.192.249/advertpro/servlet/view/banner/javascript/zone?zid=64&amp;pid=0&amp;keywords=NULL&amp;random='+Math.floor(89999999*Math.random()+10000000)+'&amp;millis='+new Date().getTime()+'&amp;referrer='+escape(document.location)+'" type="text/javascript"><\/SCR'+'IPT>');
+//-->
+</script><script src="http://174.36.192.249/advertpro/servlet/view/banner/javascript/zone?zid=64&amp;pid=0&amp;keywords=NULL&amp;random=11329606&amp;millis=1580431659275&amp;referrer=https%3A//web.archive.org/web/20100212232053id_/http%253A//www.imaging-resource.com/PRIVACY.HTM" type="text/javascript"></script>
+<noscript>
+<A href="http://174.36.192.249/advertpro/servlet/click/zone?zid=64&amp;pid=0&amp;lookup=true&amp;keywords=NULL&amp;position=1" target="_top">
+<IMG src="http://174.36.192.249/advertpro/servlet/view/banner/image/zone?zid=64&amp;pid=0&amp;keywords=NULL&amp;position=1" hspace="0" vspace="0" border="0" alt="Click Here!">
+</A>
+</noscript>
+
+<!-- END AVPA CODE BLOCK: Region 64 / Keyword NULL -->
 
 </td>
-</tr>
-</tbody></table>
-<div id="head-tagline"><span id="date">April  4, 2009</span>Your source for the most comprehensive and informative digital camera reviews</div>
-
-
-<div id="wrapper">
+	</tr>
+	</tbody></table>
+	<div id="head-tagline">
+		<span id="date">February 12, 2010&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your source for the most comprehensive and informative digital camera reviews</span>
+		<span id="search"><form action="http://search.freefind.com/find.html" method="GET"><input type="HIDDEN" name="id" size="-1" value="8176159"><input type="HIDDEN" name="pageid" size="-1" value="r"> <input type="HIDDEN" name="mode" size="-1" value="ALL"><input type="HIDDEN" name="n" value="0"><input type="text" name="query" onclick="clickclear(this, 'Search this Site')" onblur="clickrecall(this,'Search this Site')" size="12" maxlength="50" value="Search this Site"><input name="SUBMIT" type="SUBMIT" value="Go">&nbsp;<label><a href="/SITEMAP.HTM" style="color: #ffffff;">SiteMap</a></label>&nbsp;&nbsp;</form></span>
+	</div>
+	
+	
 	<div id="content">
 		<div id="mid-col-5">
-			  <div class="marker7">The Imaging Resource Privacy Policy</div>
+			
+			
+			
+			<div class="marker7">The Imaging Resource Privacy Policy</div>
 <p>The Imaging Resource does not collect any user specific identifiable
   information other than what the user specifically volunteers. For example, this
   information may be volunteered when you register for the <a href="http://www.photo-forums.com/" target="_blank">forums</a> or subscribe to
@@ -185,6 +658,18 @@ respective browser if you wish to disable such third party cookies.</p>
   you have any questions about our privacy policy, please send us a <a href="mailto:web@imaging-resource.com">note</a>. </p>
 <p>&nbsp;</p>
 
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
 		</div>
 <!--//	<div id="mid-col-1"> Already in include. //-->
 			
@@ -267,46 +752,37 @@ respective browser if you wish to disable such third party cookies.</p>
 <!--// Include for MFR1, DIGCAM0x, and PRICE page only. //-->	
 
 
+
+	
+	
+	
+	
+
+
+
 <!--// Include for camera review pages only. //-->
 
 
 </div>
 
 		<div id="mid-col-4">
-			 <table width="125" height="65" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-  <tbody><tr>
-    <td bgcolor="#2B5A78" valign="top" colspan="4"> <table width="100%" border="0" cellpadding="2" cellspacing="1" bgcolor="#2B5A78">
-        <tbody><tr>
-          <td height="25" align="center" bgcolor="#FFFFFF"> <b>Search this Site</b>
-          </td>
-        </tr>
-        <tr>
-          <form action="http://search.freefind.com/find.html" method="GET"></form>
-            <td height="30" align="center" bgcolor="#E6E6E6"> <input type="HIDDEN" name="id" size="-1" value="8176159">
-              <input type="HIDDEN" name="pageid" size="-1" value="r"> <input type="HIDDEN" name="mode" size="-1" value="ALL">
-              <input type="HIDDEN" name="n" value="0"> <input name="query" type="TEXT" size="8" maxlength="50">&nbsp; <input name="SUBMIT" type="SUBMIT" value="Go">
-              <br>
-              <a href="/SITEMAP.HTM">SiteMap</a> </td>
-          
-        </tr>
-      </tbody></table></td>
-  </tr>
-</tbody></table>
-<br>
-			 <center>
-  <table width="130" border="0" cellspacing="1" cellpadding="3">
-    <tbody><tr>
-      <td background="http://img.imaging-resource.com/ART/white.gif">
-        <p>&nbsp;</p>
-        <p align="center">
-        <!--// THIS IS THE NEW AD FILE: region 42; adtype  //--><script language="JavaScript" src="http://ah.pricegrabber.com/export_feeds.php?pid=fjfjfj&amp;document_type=html&amp;topcat_id=11&amp;category=page:48&amp;banner_size=120x600&amp;banner_topc=2B5A78&amp;banner_botc=2B5A78&amp;show_images=1&amp;pco_vendors=OLY&amp;javascript=1"></script>
+			        <div class="ad">    
+<!-- BEGIN AVPA CODE BLOCK: Region 68 / Keyword NULL -->
 
+<script type="text/javascript">
+<!--
+document.write('<SCR'+'IPT src="http://174.36.192.249/advertpro/servlet/view/banner/javascript/zone?zid=68&amp;pid=0&amp;keywords=NULL&amp;random='+Math.floor(89999999*Math.random()+10000000)+'&amp;millis='+new Date().getTime()+'&amp;referrer='+escape(document.location)+'" type="text/javascript"><\/SCR'+'IPT>');
+//-->
+</script><script src="http://174.36.192.249/advertpro/servlet/view/banner/javascript/zone?zid=68&amp;pid=0&amp;keywords=NULL&amp;random=72375521&amp;millis=1580431659283&amp;referrer=https%3A//web.archive.org/web/20100212232053id_/http%253A//www.imaging-resource.com/PRIVACY.HTM" type="text/javascript"></script>
+<noscript>
+<A href="http://174.36.192.249/advertpro/servlet/click/zone?zid=68&amp;pid=0&amp;lookup=true&amp;keywords=NULL&amp;position=1" target="_top">
+<IMG src="http://174.36.192.249/advertpro/servlet/view/banner/image/zone?zid=68&amp;pid=0&amp;keywords=NULL&amp;position=1" hspace="0" vspace="0" border="0" alt="Click Here!">
+</A>
+</noscript>
 
-	   </p></td>
-    </tr>
-  </tbody></table>
-  <p>&nbsp;</p>
-</center>
+<!-- END AVPA CODE BLOCK: Region 68 / Keyword NULL -->
+
+</div>
 
 		</div>
 	</div>
@@ -314,42 +790,12 @@ respective browser if you wish to disable such third party cookies.</p>
 	<div id="footer">
 		<div id="foot-col-1">
 			  <!-- Start BOTTOM -->
-<script language="JavaScript" type="text/javascript">
-<!--
-
-
-
-function showPopUp(width, height, region) {
-
-
-	j=document.cookie.indexOf("popunder=yes",0)>=0?1:0;
-
-	if (!j) {
-		var popUnderLocation = "http://208.43.255.194/cgi-bin/advertpro/banners.fpl?region=" + region + "&mode=POPUP&keyword=NULL";
-		var popUnderName = "popunder" + region;
-		var popUnderAttributes = "width=" + width + ",height=" + height + ",resizeable=yes,scrollbars=yes";
-		var popUnderWindow = window.open(popUnderLocation, popUnderName, popUnderAttributes);
-		popUnderWindow.blur();
-		document.cookie="popunder=yes;;path=/";
-
-	}
-}
-
--->
-</script>
 
 <p></p>
 <p align="center"></p><br>
   <br>
 <p align="center"><script src="../../IN/ANTISPAMEMAIL.JS"></script></p>
-<h6 align="left"><b>This document copyright © 1998 - 2009,
-  The Imaging Resource, all rights reserved.</b> Visitors to this site may download
-  this document for <i>local, private, non-commercial use</i>. Individuals who
-  have <i>themselves</i> downloaded this page may print a copy on their personal
-  printers for convenience of reading and reference. Other than this explicit
-  usage, it may not be published, reproduced, or distributed in print or electronic
-  and/or digital media without the express written consent of <script src="../../IN/ANTISPAMEMAIL2.JS"></script>
-  <br><br></h6>
+<p class="footer_text"><b>This document copyright © 1998 - 2010, The Imaging Resource, all rights reserved.</b> Visitors to this site may download this document for <i>local, private, non-commercial use</i>. Individuals who have <i>themselves</i> downloaded this page may print a copy on their personal printers for convenience of reading and reference. Other than this explicit usage, it may not be published, reproduced, or distributed in print or electronic and/or digital media without the express written consent of <script src="../../IN/ANTISPAMEMAIL2.JS"></script>.</p>
 
 <p align="center"><a href="/search.html" title="Search The Imaging Resource">Search</a>
   | <a href="/SITEMAP.HTM" title="The Imaging Resource SiteMap">SiteMap</a> |
@@ -363,21 +809,20 @@ function showPopUp(width, height, region) {
 <!-- End BOTTOM -->
 
 
-<!-- START Nielsen//NetRatings SiteCensus V5.2 -->
-<!-- COPYRIGHT 2005 Nielsen//NetRatings -->
+
+<!--// Google Analytics tracking //-->
 <script type="text/javascript">
-	var _rsCI="us-imaging";
-	var _rsCG="ir_reviews_revtop_43";
-	var _rsDN="//secure-us.imrworldwide.com/";
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+	var pageTracker = _gat._getTracker("UA-8396527-1");
+	pageTracker._setDomainName("none");
+	pageTracker._setAllowLinker(true);	
+	pageTracker._trackPageview();
+} catch(err) {}
 </script>
-<script type="text/javascript" src="/IN/netratings.js"></script><img src="https://secure-us.imrworldwide.com/cgi-bin/m?rnd=1580431658221&amp;ci=us-imaging&amp;cg=ir_reviews_revtop_43&amp;cc=1&amp;sr=800x600&amp;cd=24&amp;lg=en-US&amp;je=n&amp;ck=y&amp;tz=0&amp;si=https%3A//web.archive.org/web/20090404061420id_/http%253A//www.imaging-resource.com/PRIVACY.HTM&amp;rp=" width="1" height="1">
-<noscript>
-	<img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-imaging&amp;cg=ir_reviews_revtop_43" alt=""/>
-</noscript>
-<!-- END Nielsen//NetRatings SiteCensus V5.2 -->
-
-
-
 
 
 		</div>
