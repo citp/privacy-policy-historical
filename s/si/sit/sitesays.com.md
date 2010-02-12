@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the sitesays.com privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225091642id_/http%3A//www.sitesays.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitesays.com privacy policy that was archived on 2010-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100212232432id_/http%3A//www.sitesays.com/privacy) for the most accurate reproduction.*
 
 # SiteSays - Privacy
 
 At SiteSays, we respect the privacy of the users of our website and services and are committed to protecting it. We have created this policy to demonstrate our commitment to you and to help you understand it. 
 
 We may collect personal information, including email addresses, when individuals register to use the SiteSays website and services, post a link to the SiteSays website or submit questions, comments or bug reports. We may also, at times, collect our users' IP addresses and information regarding our users' use of our website and services. We may use such IP addresses to help diagnose problems with our servers, track movement within our website and, if necessary, deny service in accordance with our Terms of Service. We may also collect information related to the referring URL, access times and browser type. Unless required by law, we will not share our users' personal information, Internet Protocol (IP) addresses and usage information, except with their consent or in aggregate or anonymous form, with third parties. 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
 
 In order to offer and provide optimized and personalized services, we use cookies to store and sometimes track information about our users. A cookie is a small amount of data that is sent to a user's browser from a web server and is eventually stored on a user's computer hard drive. 
 
