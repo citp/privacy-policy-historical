@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ascenderfonts.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201042251id_/http%3A//www.ascenderfonts.com/info/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascenderfonts.com privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213000404id_/http%3A//www.ascenderfonts.com/info/privacy-policy.aspx) for the most accurate reproduction.*
 
 # AscenderFonts.com Privacy Policy
 
