@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usanfranonline.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525171432id_/http%3A//info.bisk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usanfranonline.com privacy policy that was archived on 2010-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100212220005id_/http%3A//info.bisk.com/privacy.html) for the most accurate reproduction.*
 
 # Bisk Privacy Statement
 
