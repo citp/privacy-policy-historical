@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the asiatravel.com privacy policy that was archived on 2009-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090211132217id_/http%3A//www.asiatravel.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiatravel.com privacy policy that was archived on 2010-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100212233126id_/http%3A//www.asiatravel.com/policy.html) for the most accurate reproduction.*
 
-# Asia Travel - Privacy Policy
+# Pivacy Policy - AsiaTravel.com
+
+**Asiatravel.com - Privacy Policy**
 
 Asiatravel.com values your privacy.  It is important that you have a clear understanding of our practices with regards to information collection and information usage, that you have full control of which personal information you provide to Asiatravel.com.
 
@@ -14,7 +16,9 @@ You agree that by disclosing your personal information to us, we may include you
 
 **Use and Care of Information**
 
-Asiatravel.com remains the owner of any information collected on the web site and has no intention to change this policy in the future.
+Asiatravel.com remains the owner of any information collected on the web site and has no intention to change this policy in the future. Use of contact information (e.g. email) is for us to send to you confirmation / related information for your booking/s such as vouchers, etc. You may also receive promotional communications from time to time. 
+
+Should you prefer not to receive promotional emails an unsubscribe link is located below the promotional emails. You may also contact our [Customer Service](mailto:customerservice@asiatravel.com).
 
 Disclosure of information is limited only to parties (such as hotels, airlines, etc.) connected to fulfilling the service/s you have ordered. Asiatravel.com does not sell, rent, or otherwise trade any personal information from our guests to any party for marketing purposes.
 
@@ -37,6 +41,3 @@ Cookies are pieces of information that are normally used by many websites for re
 **Changes to the policy**
 
 Kindly note that this privacy policy may be updated every now and then. For any significant changes, a more prominent notice will be provided.
-
-Top  
-
