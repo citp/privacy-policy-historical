@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aynax.com privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031123118id_/http%3A//www.aynax.com/index.php%3Fc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aynax.com privacy policy that was archived on 2010-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100212044747id_/http%3A//www.aynax.com/privacy) for the most accurate reproduction.*
 
-# Aynax.com :: Online Billing for Small Business
+# Aynax.com :: Online Invoicing for Small Business
 
 Privacy Policy  
 
