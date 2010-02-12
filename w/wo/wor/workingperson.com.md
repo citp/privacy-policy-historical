@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workingperson.com privacy policy that was archived on 2009-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090130114121id_/http%3A//workingperson.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingperson.com privacy policy that was archived on 2010-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100212200443id_/http%3A//workingperson.com/privacy.php) for the most accurate reproduction.*
 
 # Find Carhartt Clothing, Work Boots, Dickies Clothing and Work Shoes at The Working Person's Store!
 
@@ -9,8 +9,8 @@ WorkingPerson.com values its customers and respects their privacy. We collect cu
 If you have any questions about our privacy policy, you can always contact WorkingPerson.com customer service in any of three ways: 
 
 1\. Send an [email](mailto:eric@workingperson.com)  
-2\. Call us toll free at 877-652-9675 during our [store hours](http://workingperson.com/hours.php)  
-3\. [Write us](http://workingperson.com/shippinginfo.php)  
+2\. Call us toll free at 877-652-9675 during our [store hours](https://workingperson.com/hours.php)  
+3\. [Write us](https://workingperson.com/shippinginfo.php)  
 
 
 
