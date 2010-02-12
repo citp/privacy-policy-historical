@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shindigz.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630162144id_/http%3A//www.shindigz.com/servicepage.cfm%3Fpgp%3DSZSECURE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shindigz.com privacy policy that was archived on 2010-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100212111548id_/http%3A//www.shindigz.com/servicepage.cfm%3Fpgp%3DSZSECURE) for the most accurate reproduction.*
 
-# Party Supplies, Party Supplies Decorations
+# ShincigZ Site Security
 
 ### Site Security
 
