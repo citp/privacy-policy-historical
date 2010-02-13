@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the generic4all.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212195149id_/http%3A//www.generic4all.com/privacy_policy_.dhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generic4all.com privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213012536id_/http%3A//www.generic4all.com/privacy_policy_.dhtml) for the most accurate reproduction.*
 
 # 
 
   | 
 
-| [](https://web.archive.org/web/20091212195149id_/http%3A//www.generic4all.com/) |   
+| [](https://web.archive.org/web/20100213012536id_/http%3A//www.generic4all.com/) |   
 ---|---  
   
 |  |  |   
@@ -12,13 +12,16 @@
   
 Categories
 
-    *     *     *     *     *     *     *     *     *     * |  |  More...  
+    *     *     *     *     *     *     *     *     * |  |  More...  
+---|---  
+  
+    *     *     *     * |  More...  
 ---|---  
   
     *     *     *     *     *     *     *     *     *     * |  More...  
 ---|---  
   
-    *     *     *     *     *     *     * |  More...  
+    *     *     *     *     *     * |  More...  
 ---|---  
   
 
