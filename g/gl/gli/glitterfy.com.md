@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the glitterfy.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309223214id_/http%3A//www.glitterfy.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glitterfy.com privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213100816id_/http%3A//www.glitterfy.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy & Terms of Service - Glitterfy.com
+# 
 
 **_Terms of Service for Glitterfy.com_**  
 Glitterfy™ refers to this website Glitterfy.com. Glitterfy reserves the right to remove or replace any glitterfied files, and assumes no liability for lost website linking codes. Changing Glitterfy's website linking codes is prohibited or removing the Glitterfy.com logo from images is prohibited. You may not upload any files that can be even remotely construed as pornographic, copyrighted material, harassment, spam, illegal, or in violation of any United States laws. You may not use any images created at Glitterfy.com for any commercial purpose. 
@@ -35,7 +35,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 Third Party Cookies In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. Glitterfy.com welcomes your questions and comments about privacy. Please send e-mail to [glitterfied@glitterfy.com](mailto:glitterfied@glitterfy.com)
 
-© 2006-2009 [Binary Inertia LLC](http://www.binaryinertia.net/)  
+© 2006-2010 [Binary Inertia LLC](http://www.binaryinertia.net/)  
 All Rights Reserved  
 [Privacy Policy](http://www.glitterfy.com/privacypolicy.php)  
 We are in no way affiliated with MySpace, Friendster, Hi5, Orkut  
