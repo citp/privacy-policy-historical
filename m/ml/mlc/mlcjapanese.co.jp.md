@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mlcjapanese.co.jp privacy policy that was archived on 2009-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090222063343id_/http%3A//www.mlcjapanese.co.jp/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlcjapanese.co.jp privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213044912id_/http%3A//www.mlcjapanese.co.jp/PrivacyPolicy.htm) for the most accurate reproduction.*
 
-# Japanese Language School - MLC Meguro Language Center (Tokyo)
+# Privacy Policy - MLC Meguro Language Center, Tokyo
 
 MLC Meguro Language Center takes the privacy of your personal information very seriously.
 
