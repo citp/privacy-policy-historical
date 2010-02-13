@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olapic.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104154409id_/http%3A//olapic.com/index.php%3Fop%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olapic.com privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213033714id_/http%3A//olapic.com/privacy) for the most accurate reproduction.*
 
 # Olapic.com - Gather and share your wedding pictures
 
