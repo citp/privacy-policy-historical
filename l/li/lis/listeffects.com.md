@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the listeffects.com privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220072450id_/http%3A//listeffects.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listeffects.com privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213095906id_/http%3A//listeffects.com/privacy.php) for the most accurate reproduction.*
 
-# ListEffects
+# Free Email List Builder & Year Long Giveaway Event | Opt In Marketing
 
-ListEffects.com Privacy Policy
+List Effects Privacy Policy
 
-##### Welcome to ListEffects.com (the "Site")
+##### Welcome to List Effects (the "Site")
 
 We understand that privacy online is important to users of our Site, especially when conducting business.   
-This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who make use of the advertising services offered by ListEffects.com (collectively, "Advertisers") and Visitors who register in the Program ("Authorized Subscribers").
+This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who make use of the advertising services offered by List Effects (collectively, "Advertisers") and Visitors who register in the Program ("Authorized Subscribers").
 
 ##### "Personally Identifiable Information"
 
@@ -33,7 +33,7 @@ Personally Identifiable Information about Authorized Subscribers may be shared w
 
 ##### How is Personally Identifiable Information stored?
 
-Personally Identifiable Information collected by ListEffects.com is securely stored and is not accessible to third parties or employees of ListEffects.com, except for use as indicated above.
+Personally Identifiable Information collected by List Effects is securely stored and is not accessible to third parties or employees of List Effects , except for use as indicated above.
 
 ##### What choices are available to Visitors regarding collection, use and distribution of the information?
 
@@ -43,13 +43,13 @@ Visitors, Advertisers, and Authorized Subscribers may opt out of receiving unsol
 
 Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Subscribers. For example, if an Authorized Customer is logged on, cookies are used for session authentication.
 
-##### How does ListEffects.com use login information? 
+##### How does List Effects use login information? 
 
-ListEffects.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
+List Effects uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
 
 ##### What partners or service providers have access to Personally Identifiable Information from Visitors, Advertisers, and/or Authorized Subscribers on the Site?
 
-ListEffects.com discloses Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors, Advertisers, and Authorized Subscribers.
+List Effects discloses Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors, Advertisers, and Authorized Subscribers.
 
 ##### How does the Site keep Personally Identifiable Information secure?
 
@@ -80,15 +80,5 @@ This web site contains links to other web sites, either from our Advertisers, or
 
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited.
 
-Get your own Privacy Policy [here](http://www.prioritydigital.com/)! 
-
   
-  
-  
-**
 
-© ListEffects.com 2008. All rights reserved.
-
-[](http://www.copyscape.com/)
-
-**
