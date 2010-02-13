@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotv.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229233955id_/http%3A//cams.com/go/page/privacy.html%3Fsite%3Dcams) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotv.com privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213024939id_/http%3A//cams.com/go/page/privacy.html%3Fsite%3Dcams) for the most accurate reproduction.*
 
 # Cams.com PRIVACY POLICY
 
