@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phionbalance.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102050601id_/http%3A//www.phionbalance.com/App_UI/site/pHion/Public/Info.aspx%3Fc%3DOZ2zalwHBir7dURf/0icSw205Kj7SmYr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phionbalance.com privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213101333id_/http%3A//www.phionbalance.com/your-privacy) for the most accurate reproduction.*
 
 # Privacy Policy of pHion, Scottsdale (AZ)
 
@@ -8,7 +8,7 @@ Our commitment to privacy is straight-forward: Your personal information is your
 
 ### Scope and Changes
 
-Apex Wellness Group, LLC., dba pHion ("pHion", "essential pH" or "we") operates the websites, www.ph-ion.com, www.phionbalance.com, www.essentialph.com, and various other related sites that refer to this Website Privacy Statement in a direct hyperlink (the "Websites"). pHion respects your privacy and we want you to be confident in sharing your information with us. This Website Privacy Statement is designed to inform you of the types of information we collect from users, how we use that information, and the circumstances under which we will share it with third parties. This Privacy Statement applies only to the Websites. It does not apply to your use of any other websites (whether or not operated by us), including any websites which we provide links to or websites of our partners or advertisers, or to any activities which are not online.
+Apex Wellness Group, LLC., dba pHion ("pHion", "essential pH" or "we") operates the websites, [www.ph-ion.com](http://www.ph-ion.com/), [www.phionbalance.com](http://www.phionbalance.com/), [www.essentialph.com](http://www.essentialph.com/), and various other related sites that refer to this Website Privacy Statement in a direct hyperlink (the "Websites"). pHion respects your privacy and we want you to be confident in sharing your information with us. This Website Privacy Statement is designed to inform you of the types of information we collect from users, how we use that information, and the circumstances under which we will share it with third parties. This Privacy Statement applies only to the Websites. It does not apply to your use of any other websites (whether or not operated by us), including any websites which we provide links to or websites of our partners or advertisers, or to any activities which are not online.
 
 Please note that some features and/or services referenced may not be available on some Websites. Therefore, portions of this Privacy Statement which pertain to such features or services may not be applicable on each of the Websites.
 
@@ -30,7 +30,7 @@ Generally it is possible to use the Websites without providing us with any perso
 
 **Complete Contact Info:** When a user wishes to purchase an item directly through one of our Websites, we collect full name, e-mail address, phone number(s), shipping/billing address related credit card information. All credit card information is encrypted.
 
-On some of the Websites a registered user may decide to become a business partner. When registering as a business partner, we collect complete contact information, i.e., full name, address, e-mail address, and phone number, and in some instances a credit card number and expiration date. We use this information to validate the the business partner’s identity and in some instances to bill for products ordered from pHion. All credit card information is encrypted.
+On some of the Websites a registered user may decide to become a business partner. When registering as a business partner, we collect complete contact information, i.e., full name, address, e-mail address, and phone number, and in some instances a credit card number and expiration date. We use this information to validate the business partner’s identity and in some instances to bill for products ordered from pHion. All credit card information is encrypted.
 
 **Service User Information:** On the Websites where it is available, if a user wants to receive information about how our products perform for a specific lifestyle or condition, pHion requests that users of certain Website services complete a questionnaire, which includes personal and contact information ("Service User Information"). Service User Information enables pHion to provide Service Users with information specifically about requested products and services.
 
