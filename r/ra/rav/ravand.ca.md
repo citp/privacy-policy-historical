@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ravand.ca privacy policy that was archived on 2009-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091023073230id_/http%3A//www.ravand.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ravand.ca privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213172216id_/http%3A//www.ravand.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Ravand Privacy Policy
 
