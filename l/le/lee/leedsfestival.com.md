@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leedsfestival.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171922id_/http%3A//www.leedsfestival.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leedsfestival.com privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213173128id_/http%3A//www.leedsfestival.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Leeds 2009 Festival :: Privacy Policy
 
