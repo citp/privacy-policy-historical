@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the affsphere.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422164330id_/http%3A//www.affsphere.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affsphere.com privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213102538id_/http%3A//www.affsphere.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy And Policy: AffSphere | Affiliate-friendly Article Directory
+# Privacy And Policy
 
 Thank you for visiting AffSphere.com, a site owned and operated by Affiliate Classroom, Inc. AffSphere's Privacy Policy falls under under the Privacy Policy of the Affiliate Classroom, Inc. ("Affiliate Classroom") personal data management and e-commerce Internet web site ("Site") located at the URL www.affiliateclassroom.com. The Privacy Policy below details certain policies implemented throughout Affiliate Classroom's sites, governing Affiliate Classroom's use of personally identifiable information provided to Affiliate Classroom via this Site, plus privacy policies specific to your use of AffSphere.com. 
 
