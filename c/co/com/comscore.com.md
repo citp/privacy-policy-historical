@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the comscore.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417180050id_/http%3A//www.comscore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comscore.com privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213095648id_/http%3A//www.comscore.com/About_comScore/Privacy_Policy) for the most accurate reproduction.*
 
-# comScore Privacy Policy
+# Privacy Policy - comScore, Inc
 
-Privacy Statement comScore interacts with current and prospective clients, investors, and the general public via its Web site, comscore.com. This Privacy Statement describes comScore’s privacy-related policies and practices as they relate to the collection and use of information gathered from visitors to comscore.com. comScore operates a number of research panels, each of which are governed by the privacy policy that appears on the Web site assigned to that research panel. 
+comScore interacts with current and prospective clients, investors, and the general public via its Web site, comscore.com. This Privacy Statement describes comScore’s privacy-related policies and practices as they relate to the collection and use of information gathered from visitors to comscore.com. comScore operates a number of research panels, each of which are governed by the privacy policy that appears on the Web site assigned to that research panel.
 
 **Privacy Commitment**  
 Privacy is a critical issue to every Internet user and comScore is committed to assuring that the privacy and confidentiality of visitors to this site are respected and preserved. Unless you give us explicit permission, we will not share your personally identifiable information such as name, address or e-mail address with third parties for any purpose. Information gathered from your activity is used for compiling anonymous statistics only and is not identifiable back to any individual. Registration information is used for verification purposes, for sending administrative e-mails to clients regarding our service, and for sending informational e-mails to prospective clients, investors, and the general public, if requested. 
@@ -15,8 +15,7 @@ Our site also automatically creates logs regarding your and other user sessions 
 comScore does not sell, distribute or disclose your personally identifiable information collected from comscore.com to third parties without your consent. However, we may release information to a third party if required by a legal process such as a subpoena or a search warrant. Please note that visitors to comscore.com are not required to provide us personally identifiable information to use the public areas of our site. You can provide us information such as address, e-mail address, or telephone number if you would like to learn more about comScore’ products and services. 
 
 **Use of Cookies**  
-Cookies are pieces of data stored on a user’s hard drive that contain information about a user. In the case of secure content access, if your company is a client of comScore, we use a cookie that contains your login information, so we can ensure that   
-client-specific information is secure from unauthorized access. We utilize an encrypted cookie to track client access to client-specific secure content. These cookies are used only for this purpose and are intended to be used only by our Web site. Please note that you can view and delete these cookies using the features of your browser. 
+Cookies are pieces of data stored on a user’s hard drive that contain information about a user. In the case of secure content access, if your company is a client of comScore, we use a cookie that contains your login information, so we can ensure that client-specific information is secure from unauthorized access. We utilize an encrypted cookie to track client access to client-specific secure content. These cookies are used only for this purpose and are intended to be used only by our Web site. Please note that you can view and delete these cookies using the features of your browser. 
 
 **Choice and Data Access**  
 As a representative of your company, you can view and modify your company profile information in the secure client area of our site. 
@@ -31,4 +30,4 @@ comScore understands the importance of protecting children’s privacy in the on
 If we materially change our practices in handling personally identifiable information, as described in this statement, we will notify you by posting the changes on this Privacy Statement at least 30 days prior to their implementation.
 
 **Contacting Us**  
-If you have questions regarding our Privacy Statement as it relates to your use of this site or comScore’ products and services, please submit a [privacy inquiry](https://web.archive.org/about/privacy_req.asp). 
+If you have questions regarding our Privacy Statement as it relates to your use of this site or comScore’ products and services, please submit a privacy inquiry. 
