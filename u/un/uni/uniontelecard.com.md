@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniontelecard.com privacy policy that was archived on 2009-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090210082744id_/http%3A//www.uniontelecard.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniontelecard.com privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213110834id_/http%3A//www.uniontelecard.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # UTA - Privacy Policy
 
@@ -17,7 +17,7 @@
 
 ## General
 
-Union Telecard Alliance (“UTA”) is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Privacy Policy governs data collection and usage at our Website. Please read the complete Privacy Policy below.
+UTA Web Sales (“UTA”) is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Privacy Policy governs data collection and usage at our Website. Please read the complete Privacy Policy below.
 
 The purpose of this Privacy Policy is to inform you, as a welcome visitor to our Website, about: 
 
@@ -43,6 +43,8 @@ UTA may use "cookies" to help you personalize your online experience. A cookie i
 One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize UTA pages, or register with our Website or for our services, a cookie helps us to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to our Website, the information you previously provided can be retrieved, so you can easily use the Website features that you customized.
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the UTA Web site.
+
+UnionTelecard displays retargeted ads to our site prospects across the Internet. We collect Non-Personally Identifiable Information about your visits to our website, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No Personally Identifiable Information is collected during in this process. If you do not want UnionTelecard to collect this information, you may opt out of their service. Opting out will not affect your use of our site. To Opt-out of retargeting, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ## Information About You 
 
@@ -77,17 +79,17 @@ UTA will occasionally update this Privacy Policy to reflect company and customer
 
 ## Enforcement and Questions
 
-By upholding our commitment to protecting the privacy of your personal information, UTA has agreed to disclose its information practices. UTA welcomes your comments regarding this Privacy Policy. If you have any questions or believe that UTA has not adhered to this Privacy Policy, please contact UTA by telephone or postal mail.
+By upholding our commitment to protecting the privacy of your personal information, UTA has agreed to disclose its information practices. UTA welcomes your comments regarding this Privacy Policy. If you have any questions or believe that UTA has not adhered to this Privacy Policy, please contact UTA by telephone or postal mail. 
 
-Union Telecard Alliance LLC
+UTA Web Sales LLC 
 
-1335 Reckson Plaza
+550 Broad Street 
 
-Uniondale, NY 11556
+Newark, NJ 07102 
 
-516-394-1501
+973-438-1000 
 
-Attention: Legal Department
+Attention: Legal Department 
 
   
 
