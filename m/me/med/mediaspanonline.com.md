@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaspanonline.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622151125id_/http%3A//mediaspanonline.com/article.asp%3Fid%3D109540) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaspanonline.com privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213081536id_/http%3A//www.mediaspanonline.com/article.asp%3Fid%3D109540) for the most accurate reproduction.*
 
 # MediaSpan Online Services
 
