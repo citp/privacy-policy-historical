@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradeking.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213053439id_/http%3A//content.tradeking.com/wiki/display/tkservice/Privacy%2Band%2BSecurity%2BStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeking.com privacy policy that was archived on 2010-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100214031902id_/http%3A//content.tradeking.com/wiki/display/tkservice/Privacy%2Band%2BSecurity%2BStatement) for the most accurate reproduction.*
 
 # Privacy and Security Statement - Tradeking Customer Service - Tradeking Wiki
 
