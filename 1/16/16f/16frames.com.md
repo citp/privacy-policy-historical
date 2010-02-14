@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 16frames.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212231157id_/http%3A//www.16frames.com/PrivacyPolicy1.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 16frames.com privacy policy that was archived on 2010-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100214094622id_/http%3A//www.16frames.com/PrivacyPolicy1.aspx) for the most accurate reproduction.*
 
 # Send Photos to India,Live Webcasting,Online Video Surveillance,Online Meetings,Online Seminars,Web Conference,Webinars,Self Streaming,Free Streaming,Live Indian Telugu Gujarati TV Channels,Free TV,Paid TV,Streaming Solutions for Schools,Colleges,Education,Hospitals,Healthcare - Ship Photo Gifts to India,Online Digital Photo Printing,Talent Show Case
 
