@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disaboomlive.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211200733id_/http%3A//www.disaboom-assets.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disaboomlive.com privacy policy that was archived on 2010-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100214155736id_/http%3A//www.disaboom-assets.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
@@ -60,4 +60,4 @@ SSL, an industry standard, is a proven coding system that lets your browser auto
 
 **Sharing and Disclosure of Information our Site Collects:** We have the rights to use any information you voluntarily submit to us. Except as otherwise described in this Privacy Policy, we will not disclose Personal Information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant, request from law enforcement or other legal process received by our Site, whether or not a response is required by applicable law; (2) to enforce our Site’s Terms of Use or to protect our rights; (3) to protect the safety of the public, our personnel, users of the Site, Members and/or others; and/or (4) as disclosed or notified to you, whether in our Terms of Use, including, this Privacy Policy, or otherwise on or in connection with your use of our Site.
 
-**Contacting the Site or Disaboom:** If you have any questions about this Privacy Policy, please contact us at: Disaboom.com Office of Privacy, 7730 E. Belleview Ave., Suite A-306, Greenwood Village, CO 80111 or via email at [info@disaboom.com](https://web.archive.org/web/20091211200733id_/http%3A//www.disaboom-assets.com/info@disaboom.com).
+**Contacting the Site or Disaboom:** If you have any questions about this Privacy Policy, please contact us at: Disaboom.com Office of Privacy, 7730 E. Belleview Ave., Suite A-306, Greenwood Village, CO 80111 or via email at [info@disaboom.com](https://web.archive.org/web/20100214155736id_/http%3A//www.disaboom-assets.com/info@disaboom.com).
