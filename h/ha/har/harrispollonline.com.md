@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the harrispollonline.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606183024id_/http%3A//www.harrispollonline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrispollonline.com privacy policy that was archived on 2010-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100214162820id_/http%3A//www.harrispollonline.com/privacy.asp) for the most accurate reproduction.*
 
 # Harris Poll Online - Privacy Policy
 
-**Harris Interactive Privacy Policy**
+Privacy Policy
+
+Harris Interactive Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?companyName=Harrisinteractive.com&sealid=102)
 
@@ -23,17 +25,17 @@ Harris Interactive routinely reviews its security features and privacy practices
 
 
 
-**1) Company Background and Websites**
+1) Company Background and Websites
 
-Harris Interactive is a worldwide market research and consulting firm most widely known for _The Harris Poll_ and for its pioneering leadership in the online market research industry. This privacy statement covers the following of our sites: [www.harrisinteractive.com](http://www.harrisinteractive.com/), [www.novatris.com](http://www.novatris.com/), [www.hisbonline.com](http://www.hisbonline.com/), and [www.harrispollonline.com](http://www.harrispollonline.com/). Harris Interactive is not responsible for the privacy practices or the content of other websites. We recommend that you carefully read the privacy policies of each site you visit.
+Harris Interactive is a worldwide market research and consulting firm most widely known for _The Harris Poll_ and for its pioneering leadership in the online market research industry. This privacy statement covers the following of our sites: [www.harrisinteractive.com](http://www.harrisinteractive.com/), [www.hisbonline.com](http://www.hisbonline.com/), and [www.harrispollonline.com](http://www.harrispollonline.com/). Harris Interactive is not responsible for the privacy practices or the content of other websites. We recommend that you carefully read the privacy policies of each site you visit.
 
-Harrisinteractive.com is Harris Interactive’s corporate website including our European operations. Novatris.com is managed by our French subsidiary. Hisbonline.com is the website for HISB (Harris Interactive Service Bureau) a division of Harris Interactive that provides research services to other market research companies.
+Harrisinteractive.com is Harris Interactive’s corporate website including our European operations. Hisbonline.com is the website for HISB (Harris Interactive Service Bureau) a division of Harris Interactive that provides research services to other market research companies.
 
 Harrispollonline.com is our panel members’ website which registers and conducts surveys with individuals aged 13 and over. Children under age 13 are only contacted to participate in surveys through their parents; they are not offered the opportunity to register for our online panels directly. For research with teenagers between the ages of 13 and 18 and children under 13, we are careful to respect their privacy and parental concerns.
 
 Our survey websites provide survey respondents with the opportunity to express opinions and attitudes about the most current issues. We conduct research that involves people from around the world, and provide the aggregated results of our research (stripped of any personally identifiable information) to a wide variety of clients, including important decision-makers in government, major corporations, and news organizations. In addition, certain survey findings are published on our websites so that our respondents can be among the first to hear about the concerns and interests of people around the world. Our survey research is what allows us to offer the services and features on our sites free of charge.
 
-**2) Information Collected on Harris Interactive Websites**
+2) Information Collected on Harris Interactive Websites
 
 **Information Collected During the Registration Process**
 
@@ -65,7 +67,7 @@ Harris Interactive complies with all applicable national and international child
 
 If you would like to contact us about your information, any information about your child, or to find out how you can have your child's information removed from our database, please see the “Accessing the Information Your Provided” section of this policy.
 
-**3) How Information Is Used**
+3) How Information Is Used
 
 **Surveys**
 
@@ -111,7 +113,19 @@ Cookies are small text files stored on your computer by a website that assigns a
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information includes Internet Protocol addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp and click stream data.
 
-**4) Accessing the Information You Provided**
+**Third Party Cookies**
+
+The use of cookies by our partners and affiliates, and service providers is not covered by our privacy statement. As Harris Interactive Inc does not have access or control over these cookies. Our partners, affiliates, and service providers use session ID cookies to make it easier for you to navigate our site. 
+
+**Clear Gifs(Web Beacons/Web Bugs)**
+
+Harris Interactive Inc as well as our third party advertising partners employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. 
+
+**Digital Fingerprinting**
+
+We may use digital fingerprinting technology, also known as "Machine Identification" technology, to gather certain information about your computer (e.g., your IP address, the display settings of your monitor, the type of browser you are using, the type of operating system you are using, etc.) as a quality control measure to maintain the integrity of Internet-based research. This information is sent to our trusted third-party partner who converts it into a unique serial number for your computer - the digital fingerprint - through use of a proprietary algorithm and determines if it matches any previous digital fingerprint. The information collected through this process is used only to help detect duplicate respondents and eliminate fraudulent surveys. 
+
+4) Accessing the Information You Provided
 
 For panel members, not only is it important for our members to be able to correct their information, it is important to us. The results from our public surveys (which report aggregate, non-identifiable information) often get reported by the media. We encourage members to keep their account profiles up-to-date, so that we continue to have accurate demographic information behind our results.
 
@@ -134,7 +148,7 @@ For all other users of Harris Interactive sites who may have provided personal i
 
 Responses to such inquiries may be sent via email or regular mail within 30 days upon receipt. If the user does not receive acknowledgement of their inquiry, or if their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (<http://www.truste.org/consumers/watchdog_complaint.php>). TRUSTe will serve as a liaison with the website to resolve users’ concerns.
 
-**5) Your Options on Harris Interactive Websites and Opt-out Policies**
+5) Your Options on Harris Interactive Websites and Opt-out Policies
 
 For panel members, we are committed to giving you the maximum amount of flexibility in accessing your information, and in the level of participation you have with our sites. In each email invitation sent to members of our respondent database, we provide the opportunity to opt-out of receipt of further mailings. This opt-out opportunity deactivates the member's account and terminates their membership with Harris Interactive. Our survey invitations inform you about the subject matter of the survey in which we would like your input, whether it is in the category of public opinion, current trends and activities, or products/services. Any personally identifiable information that you provide during the survey process will be subject to your consent prior to release to our client. Should you grant release of such information, and then change your mind, all you need do is to send an email to [surveyhelp@hpol.harrisinteractive.com](mailto:surveyhelp@hpol.harrisinteractive.com).
 
@@ -146,7 +160,7 @@ For subscribers to any Harris Interactive newsletter, you may unsubscribe by sen
 
 For all other users of Harris Interactive sites who may have provided personal information when contacting us regarding any of our products or services and would like to be removed from our contact list should send an email directly to [info@harrisinteractive.com](mailto:info@harrisinteractive.com).
 
-**6) Safety and Security**
+6) Safety and Security
 
 The Harris Interactive websites have security measures in place to prevent the loss, misuse, and alteration of the information under our control. We will not activate a potential registrant’s account without confirmation. Once the registration process is completed, the individual is sent an email that requests he or she confirm his or her registration. The account will not be activated until confirmation is received. Additionally, all website members are required to use their passwords and usernames (email addresses) when registering, updating their contact information, or when accessing "members only" sections of the websites. If a member cannot remember his or her password, he or she can send a message to the website’s Help Desk to retrieve it. To protect the security of our members’ contact information, requests to retrieve passwords must include information to allow us to verify the member’s identity.
 
@@ -158,13 +172,13 @@ Harris Interactive also safeguards all information it collects through its websi
 
 In the unlikely event that Harris Interactive suffers a breach of its security systems and an individual or entity gains unauthorized access to any information stored on Harris Interactive servers, Harris Interactive will immediately investigate such security breach, and will provide prompt notice to any individual whose information was affected.
 
-**7) Notification of Changes**
+7) Notification of Changes
 
 We will use information in accordance with the privacy policy under which the information was collected. If we are going to use users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users via email. If users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change. In some cases where we post a notice we will also email users who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
 It is the responsibility of the user of any Harris Interactive website to check for updates to this privacy policy which was most recently updated on September 1, 2006.
 
-**8) How to Contact Us**
+8) How to Contact Us
 
 If you are a panel member and have questions or comments about this privacy statement, please contact us as follows:
 
@@ -183,4 +197,4 @@ For all other inquiries regarding this privacy statement please contact us by em
 
 Responses to such inquiries may be sent via email or regular mail within 30 days upon receipt. If the user does not receive acknowledgement of their inquiry, or if their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (<http://www.truste.org/consumers/watchdog_complaint.php>). TRUSTe will serve as a liaison with the website to resolve users’ concerns.
 
-Revised: September 1, 2006
+Revised: November 23, 2009
