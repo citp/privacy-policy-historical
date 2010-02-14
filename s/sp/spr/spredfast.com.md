@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spredfast.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211062851id_/http%3A//spredfast.com/user/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spredfast.com privacy policy that was archived on 2010-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100214033031id_/http%3A//spredfast.com/user/privacy) for the most accurate reproduction.*
 
 # Spredfast - Privacy Policy
 
