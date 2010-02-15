@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotomi.com privacy policy that was archived on 2009-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090910181413id_/http%3A//www.dotomi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotomi.com privacy policy that was archived on 2010-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100215203719id_/http%3A//www.dotomi.com/privacy.html) for the most accurate reproduction.*
 
 # Dotomi: Perspectives on Privacy
 
