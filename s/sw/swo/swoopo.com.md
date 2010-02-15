@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swoopo.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625180822id_/http%3A//www.swoopo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swoopo.com privacy policy that was archived on 2010-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100215174036id_/http%3A//www.swoopo.com/privacy.html) for the most accurate reproduction.*
 
 # Auction | Cheap TV laptop ipod auctions - bid & win on Swoopo
 
