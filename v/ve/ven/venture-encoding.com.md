@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venture-encoding.com privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214171326id_/http%3A//www.venture-encoding.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venture-encoding.com privacy policy that was archived on 2010-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100215125838id_/http%3A//venture-encoding.com/privacy.aspx) for the most accurate reproduction.*
 
 # PRIVACY
 
