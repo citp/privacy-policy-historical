@@ -1,0 +1,2047 @@
+<!--The following is the downloaded HTML source of the viaddress.com privacy policy that was archived on 2010-02-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100215181149id_/http%3A//www.viaddress.com/privacy%2520policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ViaAddress</title>
+
+<script language="javascript">AC_FL_RunContent = 0;</script>
+<script src="AC_RunActiveContent.js" language="javascript"></script>
+<script type="text/javascript">
+// Index It Image Slideshow script- By JavaScriptKit.com
+// For this and over 400+ free scripts, visit JavaScript Kit- http://www.javascriptkit.com/
+// This notice must intact for use
+
+//Specify images for slideshow:
+//["Image Path", "Optional Image link"]
+
+var numberslide=new Array()
+numberslide[0]=["images/test1.jpg", "http://www.google.com"]
+numberslide[1]=["images/test.jpg", ""]
+numberslide[2]=["images/test1.jpg", ""]
+numberslide[3]=["images/test1.jpg", ""]
+numberslide[4]=["images/test1.jpg", ""]
+
+var mylinktarget="" //specify optional link target
+var mylinkcolor="navy" //specify default color of number links
+var mylinkcolorSelected="red" //specify color of selected links
+
+var imgborderwidth=0 //specify border of image slideshow
+
+/////Stop customizing here////////////////
+
+var preloadit=new Array()
+for (i=0;i<numberslide.length;i++){
+preloadit[i]=new Image()
+preloadit[i].src=numberslide[i][0]
+}
+
+var currentindex=""
+
+function changeslides(which){
+var imghtml=""
+currentindex=(which=="initial")? 0 : parseInt(which)
+var mode=(which=="initial")? "initial" : ""
+var which=(mode=="initial")? numberslide[0] : numberslide[which]
+if (which[1]!="")
+imghtml='<a href="'+which[1]+'" target="'+mylinktarget+'">'
+imghtml+='<img src="'+which[0]+'" border="'+imgborderwidth+'">'
+if (which[1]!="")
+imghtml+='</a>'
+
+if (mode=="initial")
+document.write('<div>'+imghtml+'</div>')
+else{
+document.getElementById("imagecontainer").innerHTML=imghtml
+changecolors()
+}
+}
+
+function createnumbers(){
+document.write('<a href="javascript:changeslides(0)" style="color:'+mylinkcolorSelected+'">0</a> ')
+for (i=1; i< numberslide.length; i++)
+document.write('<a href="javascript:changeslides(\''+i+'\')">'+i+'</a> ')
+}
+
+function changecolors(){
+var numberobj=document.getElementById("numberDiv")
+numberlinks=numberobj.getElementsByTagName("A")
+for (i=0; i<=currentindex; i++)
+numberlinks[i].style.color=mylinkcolorSelected
+for (i=currentindex+1; i<numberslide.length; i++)
+numberlinks[i].style.color=mylinkcolor
+}
+
+function goforward(){
+if (currentindex<numberslide.length-1)
+changeslides(currentindex+1)
+}
+
+function goback(){
+if (currentindex!=0)
+changeslides(currentindex-1)
+}
+</script>
+
+<link href="style.css" rel="stylesheet" type="text/css"><link href="common_1239286918.css" rel="stylesheet" type="text/css"><link href="screen_v2.css" rel="stylesheet" type="text/css" media="screen">
+
+<script src="slide-js/mootools-1-11-v2.js" type="text/javascript"></script>
+<script src="slide-js/carrousel-c.htm" type="text/javascript"></script>
+
+<script src="slide-js/home.htm" type="text/javascript"></script>
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script><script language="JavaScript" type="text/javascript" charset="utf-8" src="Scripts/default_1239286914.js"></script>
+
+
+
+
+
+<script>
+
+var timeout	= 500;
+
+var closetimer	= 0;
+
+var ddmenuitem	= 0;
+
+
+
+// open hidden layer
+
+function mopen(id)
+
+{	
+
+	// cancel close timer
+
+	mcancelclosetime();
+
+
+
+	// close old layer
+
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+
+
+	// get new layer and show it
+
+	ddmenuitem = document.getElementById(id);
+
+	ddmenuitem.style.visibility = 'visible';
+
+
+
+}
+
+// close showed layer
+
+function mclose()
+
+{
+
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+}
+
+
+
+// go close timer
+
+function mclosetime()
+
+{
+
+	closetimer = window.setTimeout(mclose, timeout);
+
+}
+
+
+
+// cancel close timer
+
+function mcancelclosetime()
+
+{
+
+	if(closetimer)
+
+	{
+
+		window.clearTimeout(closetimer);
+
+		closetimer = null;
+
+	}
+
+}
+
+
+
+// close layer when click-out
+
+document.onclick = mclose; 
+
+
+
+</script>
+
+
+
+<style>
+
+#sddm{
+
+	font-family:Arial, Helvetica, sans-serif;
+
+	margin: 0;
+
+	padding: 0;
+
+
+
+}
+
+
+
+#sddm li
+
+{	margin: 0;
+
+	padding: 0;
+
+	list-style: none;
+
+	float: left;
+
+	font-size:10px;
+
+	font-weight:bold;
+
+	text-align:left;
+
+	
+
+}
+
+#sddm li b{
+
+	font-size:17px;
+
+	text-align:left;
+
+	padding-bottom:10px;
+
+}
+
+
+
+#sddm li a
+
+{	display: block;
+
+	margin: 0 1px 0 0;
+
+
+
+	color: #d6d6d6;
+
+	text-decoration: none}
+
+
+
+#sddm li a:hover{
+
+	color:#8d8d8d;
+
+	text-decoration:none;
+
+	
+
+}
+
+
+
+#sddm div
+
+{	position: absolute;
+
+	visibility: hidden;
+
+	margin: 0;
+
+	width:181px;
+
+	margin-left:-90px;
+
+	background:url(images/country_select_bg.gif) repeat-x bottom;
+
+	border:1px solid #fed009;
+
+	z-index:999;
+
+	}
+
+
+
+	#sddm div a
+
+	{	position: relative;
+
+		display: block;
+
+		margin: 20;
+
+		padding: 5px 10px;
+
+		width: auto;
+
+		white-space: nowrap;
+
+		text-align: left;
+
+		text-decoration: none;
+
+		border-bottom:1px #c9c9c9 dashed;
+
+		color: #a6a6a6;
+
+		font: 11px arial
+
+		}
+
+
+
+	#sddm div a:hover{
+
+		color: #FFF;
+
+		background:#fee002;
+
+		}
+
+
+
+.top_menus{
+
+	font-size:17px;
+
+	font-weight:normal;
+
+	border-left:2px solid #CCC;
+
+	font-weight:bold;
+
+	height:30px;
+
+	
+
+}
+
+.top_menus a{
+
+	color: #d6d6d6;
+
+	
+
+	text-decoration:none;
+
+	
+
+}
+
+.top_menus a:hover{
+
+	color:#8d8d8d;
+
+}
+
+</style>
+
+
+
+</head>
+
+<body>
+<div id="page-main-bg-sadow">
+<div id="page-main-bg">
+<div id="page-main">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td>  
+<script language="javascript" type="text/javascript" src="validator/frm_validator.js">
+</script>
+<script language="javascript" type="text/javascript">
+function validate1()
+{
+	 
+	if(frmValidate('frm1','username','User Name','YES',' ')==false)
+	{
+		return false;
+	}
+	
+	if(frmValidate('frm1','password','Password','YES',' ')==false)
+	{
+		return false;
+	}
+	
+ } 
+    </script>
+
+
+
+
+<div style="background:url(images/logo.jpg) left no-repeat; z-index:999;">
+
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+              <tbody><tr>
+
+                <td width="45%" height="71" align="left" style="cursor:pointer;" onclick="javascript: window.location.href='http://www.viaddress.com/';">&nbsp;</td>
+
+                <td width="55%" align="right" valign="top"><table width="485" border="0" cellspacing="0" cellpadding="0">
+
+                  <tbody><tr>
+
+                    <td width="60%" align="left" valign="top" style="width:220px; background:url(images/login_bg.gif) no-repeat;">
+					<form id="frm1" name="frm1" method="post" action="login-php.php" onsubmit="return validate1()">
+					<table width="100" border="0" cellspacing="0" cellpadding="2">
+						
+                      <tbody><tr>
+
+                        <td align="left" valign="middle">&nbsp;</td>
+
+                        <td align="left" valign="middle"><input name="username" type="text" style="height:12px;" id="username" size="6"></td>
+
+                        <td align="left" valign="middle"><input name="password" style="height:12px;" type="password" id="password" size="6"></td>
+
+                        <td align="left" valign="middle"><input type="image" style="height:17px; padding:0;" border="0" src="images/login.gif" alt=""></td>
+
+                      </tr>
+
+                    </tbody></table>
+					</form>
+					</td>
+
+                    <td width="10%" align="right" valign="top"><a href="registration1.php"><img src="images/register.gif" width="72" height="25" border="0"></a></td>
+
+                    <td width="10%" align="right" valign="top"><a href="contact_us.php"><img src="images/live_help.gif" alt="" width="71" height="26" border="0"></a></td>
+
+                    <td width="20%" align="right" valign="top">
+
+                    
+
+<ul id="sddm">
+
+<li>
+
+<a href="#" onmouseover="mopen('m1')" onmouseout="mclosetime()">
+
+<img src="images/country_selector.gif" alt="" onclick="showFlags(this,event)" width="103" border="0" height="28"></a>
+
+		
+
+        <div id="m1" style=" height:400px; overflow:scroll; width:200px;" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+
+       
+
+<a href="#">Afghanistan</a>
+
+
+
+<a href="#">Albania</a>
+
+
+
+
+
+<a href="#">Algeria</a>
+
+
+
+
+
+<a href="#">American Samoa</a>
+
+
+
+
+
+<a href="#">Andorra</a>
+
+
+
+
+
+<a href="#">Angola</a>
+
+
+
+
+
+<a href="#">Anguilla</a>
+
+
+
+
+
+<a href="#">Antigua and Barbuda</a>
+
+
+
+
+
+<a href="#">Argentina</a>
+
+
+
+
+
+<a href="#">Armenia</a>
+
+
+
+
+
+<a href="#">Aruba</a>
+
+
+
+
+
+<a href="#">Australia</a>
+
+
+
+
+
+<a href="#">Austria</a>
+
+
+
+
+
+<a href="#">Azerbaijan</a>
+
+
+
+
+
+<a href="#">Bahamas</a>
+
+
+
+
+
+<a href="#">Bahrain</a>
+
+
+
+
+
+<a href="#">Bangladesh</a>
+
+
+
+
+
+<a href="#">Barbados</a>
+
+
+
+
+
+<a href="#">Belarus</a>
+
+
+
+
+
+<a href="#">Belgium</a>
+
+
+
+
+
+<a href="#">Belize</a>
+
+
+
+
+
+<a href="#">Benin</a>
+
+
+
+
+
+<a href="#">Bermuda</a>
+
+
+
+
+
+<a href="#Bhutan">Bhutan</a>
+
+
+
+
+
+<a href="#Bolivia">Bolivia</a>
+
+
+
+
+
+<a href="#Bosnia-Herzegovina">Bosnia-Herzegovina</a>
+
+
+
+
+
+<a href="#Botswana">Botswana</a>
+
+
+
+
+
+<a href="#Bouvet_Island">Bouvet Island</a>
+
+
+
+
+
+<a href="#Brazil">Brazil</a>
+
+
+
+
+
+<a href="#Brunei">Brunei</a>
+
+
+
+
+
+<a href="#Bulgaria">Bulgaria</a>
+
+
+
+
+
+<a href="#Burkina_Faso">Burkina Faso</a>
+
+
+
+
+
+<a href="#Burundi">Burundi</a>
+
+
+
+
+
+<a href="#Cambodia">Cambodia</a>
+
+
+
+
+
+<a href="#Cameroon">Cameroon</a>
+
+
+
+
+
+<a href="#Canada">Canada</a>
+
+
+
+
+
+<a href="#Cape_Verde">Cape Verde</a>
+
+
+
+
+
+<a href="#Cayman_Islands">Cayman Islands</a>
+
+
+
+
+
+<a href="#Central_African_Republic">Central African Republic</a>
+
+
+
+
+
+<a href="#Chad">Chad</a>
+
+
+
+
+
+<a href="#Chile">Chile</a>
+
+
+
+
+
+<a href="#China">China</a>
+
+
+
+
+
+<a href="#Christmas_Island">Christmas Island</a>
+
+
+
+
+
+<a href="#Cocos_%28Keeling%29_Islands">Cocos (Keeling) Islands</a>
+
+
+
+
+
+<a href="#Colombia">Colombia</a>
+
+
+
+
+
+<a href="#Comoros">Comoros</a>
+
+
+
+
+
+<a href="##" title="Congo, Democratic Republic of the (Zaire)">Congo, DR of (Zaire)</a>
+
+
+
+
+
+<a href="#Congo,_Republic_of">Congo, Republic of</a>
+
+
+
+
+
+<a href="#Cook_Islands">Cook Islands</a>
+
+
+
+
+
+<a href="#Costa_Rica">Costa Rica</a>
+
+
+
+
+
+<a href="#Croatia">Croatia</a>
+
+
+
+
+
+<a href="#Cyprus">Cyprus</a>
+
+
+
+
+
+<a href="#Czech_Republic">Czech Republic</a>
+
+
+
+
+
+<a href="#Denmark">Denmark</a>
+
+
+
+
+
+<a href="#Djibouti">Djibouti</a>
+
+
+
+
+
+<a href="#Dominica">Dominica</a>
+
+
+
+
+
+<a href="#Dominican_Republic">Dominican Republic</a>
+
+
+
+
+
+<a href="#Ecuador">Ecuador</a>
+
+
+
+
+
+<a href="#Egypt">Egypt</a>
+
+
+
+
+
+<a href="#El_Salvador">El Salvador</a>
+
+
+
+
+
+<a href="#Equatorial_Guinea">Equatorial Guinea</a>
+
+
+
+
+
+<a href="#Eritrea">Eritrea</a>
+
+
+
+
+
+<a href="#Estonia">Estonia</a>
+
+
+
+
+
+<a href="#Ethiopia">Ethiopia</a>
+
+
+
+
+
+<a href="#Falkland_Islands">Falkland Islands</a>
+
+
+
+
+
+<a href="#Faroe_Islands">Faroe Islands</a>
+
+
+
+
+
+<a href="#Fiji">Fiji</a>
+
+
+
+
+
+<a href="#Finland">Finland</a>
+
+
+
+
+
+<a href="#France">France</a>
+
+
+
+
+
+<a href="#French_Guiana">French Guiana</a>
+
+
+
+
+
+<a href="#Gabon">Gabon</a>
+
+
+
+
+
+<a href="#Gambia">Gambia</a>
+
+
+
+
+
+<a href="#Georgia">Georgia</a>
+
+
+
+
+
+<a href="#Germany">Germany</a>
+
+
+
+
+
+<a href="#Ghana">Ghana</a>
+
+
+
+
+
+<a href="#Gibraltar">Gibraltar</a>
+
+
+
+
+
+<a href="#Greece">Greece</a>
+
+
+
+
+
+<a href="#Greenland">Greenland</a>
+
+
+
+
+
+<a href="#Grenada">Grenada</a>
+
+
+
+
+
+<a href="#Guadeloupe_%28French%29">Guadeloupe (French)</a>
+
+
+
+
+
+<a href="#Guam_%28USA%29">Guam (USA)</a>
+
+
+
+
+
+<a href="#Guatemala">Guatemala</a>
+
+
+
+
+
+<a href="#Guinea">Guinea</a>
+
+
+
+
+
+<a href="#Guinea_Bissau">Guinea Bissau</a>
+
+
+
+
+
+<a href="#Guyana">Guyana</a>
+
+
+
+
+
+<a href="#Haiti">Haiti</a>
+
+
+
+
+
+<a href="#Holy_See">Holy See</a>
+
+
+
+
+
+<a href="#Honduras">Honduras</a>
+
+
+
+
+
+<a href="#Hong_Kong">Hong Kong</a>
+
+
+
+
+
+<a href="#Hungary">Hungary</a>
+
+
+
+
+
+<a href="#Iceland">Iceland</a>
+
+
+
+
+
+<a href="#India">India</a>
+
+
+
+
+
+<a href="#Indonesia">Indonesia</a>
+
+
+
+
+
+<a href="#Ireland">Ireland</a>
+
+
+
+
+
+<a href="#Israel">Israel</a>
+
+
+
+
+
+<a href="#Italy">Italy</a>
+
+
+
+
+
+<a href="#Ivory_Coast_%28Cote_D%60Ivoire%29">Ivory Coast (Cote D`Ivoire)</a>
+
+
+
+
+
+<a href="#Jamaica">Jamaica</a>
+
+
+
+
+
+<a href="#Japan">Japan</a>
+
+
+
+
+
+<a href="#Jordan">Jordan</a>
+
+
+
+
+
+<a href="#Kazakhstan">Kazakhstan</a>
+
+
+
+
+
+<a href="#Kenya">Kenya</a>
+
+
+
+
+
+<a href="#Kiribati">Kiribati</a>
+
+
+
+
+
+<a href="#Kuwait">Kuwait</a>
+
+
+
+
+
+<a href="#Kyrgyzstan">Kyrgyzstan</a>
+
+
+
+
+
+<a href="#Laos">Laos</a>
+
+
+
+
+
+<a href="#Latvia">Latvia</a>
+
+
+
+
+
+<a href="#Lebanon">Lebanon</a>
+
+
+
+
+
+<a href="#Lesotho">Lesotho</a>
+
+
+
+
+
+<a href="#Liberia">Liberia</a>
+
+
+
+
+
+<a href="#Liechtenstein">Liechtenstein</a>
+
+
+
+
+
+<a href="#Lithuania">Lithuania</a>
+
+
+
+
+
+<a href="#Luxembourg">Luxembourg</a>
+
+
+
+
+
+<a href="#Macau">Macau</a>
+
+
+
+
+
+<a href="#Macedonia">Macedonia</a>
+
+
+
+
+
+<a href="#Madagascar">Madagascar</a>
+
+
+
+
+
+<a href="#Malawi">Malawi</a>
+
+
+
+
+
+<a href="#Malaysia">Malaysia</a>
+
+
+
+
+
+<a href="#Maldives">Maldives</a>
+
+
+
+
+
+<a href="#Mali">Mali</a>
+
+
+
+
+
+<a href="#Malta">Malta</a>
+
+
+
+
+
+<a href="#Marshall_Islands">Marshall Islands</a>
+
+
+
+
+
+<a href="#Martinique_%28French%29">Martinique (French)</a>
+
+
+
+
+
+<a href="#Mauritania">Mauritania</a>
+
+
+
+
+
+<a href="#Mauritius">Mauritius</a>
+
+
+
+
+
+<a href="#Mayotte">Mayotte</a>
+
+
+
+
+
+<a href="#Mexico">Mexico</a>
+
+
+
+
+
+<a href="#Micronesia">Micronesia</a>
+
+
+
+
+
+<a href="#Moldova">Moldova</a>
+
+
+
+
+
+<a href="#Monaco">Monaco</a>
+
+
+
+
+
+<a href="#Mongolia">Mongolia</a>
+
+
+
+
+
+<a href="#Montenegro">Montenegro</a>
+
+
+
+
+
+<a href="#Montserrat">Montserrat</a>
+
+
+
+
+
+<a href="#Morocco">Morocco</a>
+
+
+
+
+
+<a href="#Mozambique">Mozambique</a>
+
+
+
+
+
+<a href="#Myanmar">Myanmar</a>
+
+
+
+
+
+<a href="#Namibia">Namibia</a>
+
+
+
+
+
+<a href="#Nauru">Nauru</a>
+
+
+
+
+
+<a href="#Nepal">Nepal</a>
+
+
+
+
+
+<a href="#Netherlands">Netherlands</a>
+
+
+
+
+
+<a href="#Netherlands_Antilles">Netherlands Antilles</a>
+
+
+
+
+
+<a href="#New_Caledonia_%28French%29">New Caledonia (French)</a>
+
+
+
+
+
+<a href="#New_Zealand">New Zealand</a>
+
+
+
+
+
+<a href="#Nicaragua">Nicaragua</a>
+
+
+
+
+
+<a href="#Niger">Niger</a>
+
+
+
+
+
+<a href="#Nigeria">Nigeria</a>
+
+
+
+
+
+<a href="#Niue">Niue</a>
+
+
+
+
+
+<a href="#Norfolk_Island">Norfolk Island</a>
+
+
+
+
+
+<a href="#Northern_Mariana_Islands">Northern Mariana Islands</a>
+
+
+
+
+
+<a href="#Norway">Norway</a>
+
+
+
+
+
+<a href="#Oman">Oman</a>
+
+
+
+
+
+<a href="#Pakistan">Pakistan</a>
+
+
+
+
+
+<a href="#Palau">Palau</a>
+
+
+
+
+
+<a href="#Panama">Panama</a>
+
+
+
+
+
+<a href="#Papua_New_Guinea">Papua New Guinea</a>
+
+
+
+
+
+<a href="#Paraguay">Paraguay</a>
+
+
+
+
+
+<a href="#Peru">Peru</a>
+
+
+
+
+
+<a href="#Philippines">Philippines</a>
+
+
+
+
+
+<a href="#Pitcairn_Island">Pitcairn Island</a>
+
+
+
+
+
+<a href="#Poland">Poland</a>
+
+
+
+
+
+<a href="#Polynesia_%28French%29">Polynesia (French)</a>
+
+
+
+
+
+<a href="#Portugal">Portugal</a>
+
+
+
+
+
+<a href="#Puerto_Rico">Puerto Rico</a>
+
+
+
+
+
+<a href="#Qatar">Qatar</a>
+
+
+
+
+
+<a href="#Reunion">Reunion</a>
+
+
+
+
+
+<a href="#Romania">Romania</a>
+
+
+
+
+
+<a href="#Russia">Russia</a>
+
+
+
+
+
+<a href="#Rwanda">Rwanda</a>
+
+
+
+
+
+<a href="#Saint_Helena">Saint Helena</a>
+
+
+
+
+
+<a href="#Saint_Kitts_and_Nevis">Saint Kitts and Nevis</a>
+
+
+
+
+
+<a href="#Saint_Lucia">Saint Lucia</a>
+
+
+
+
+
+<a href="#Saint_Pierre_and_Miquelon">Saint Pierre and Miquelon</a>
+
+
+
+
+
+<a href="#Saint_Vincent_and_Grenadines">Saint Vincent and Grenadines</a>
+
+
+
+
+
+<a href="#Samoa">Samoa</a>
+
+
+
+
+
+<a href="#San_Marino">San Marino</a>
+
+
+
+
+
+<a href="#Sao_Tome_and_Principe">Sao Tome and Principe</a>
+
+
+
+
+
+<a href="#Saudi_Arabia">Saudi Arabia</a>
+
+
+
+
+
+<a href="#Senegal">Senegal</a>
+
+
+
+
+
+<a href="#Seychelles">Seychelles</a>
+
+
+
+
+
+<a href="#Sierra_Leone">Sierra Leone</a>
+
+
+
+
+
+<a href="#Singapore">Singapore</a>
+
+
+
+
+
+<a href="#Slovakia">Slovakia</a>
+
+
+
+
+
+<a href="#Slovenia">Slovenia</a>
+
+
+
+
+
+<a href="#Solomon_Islands">Solomon Islands</a>
+
+
+
+
+
+<a href="#Somalia">Somalia</a>
+
+
+
+
+
+<a href="#South_Africa">South Africa</a>
+
+
+
+
+
+<a href="##">South Georgia</a>
+
+<a href="#South_Georgia_and_South_Sandwich_Islands">Sandwich Islands</a>
+
+
+
+
+
+<a href="#South_Korea">South Korea</a>
+
+
+
+
+
+<a href="#Spain">Spain</a>
+
+
+
+
+
+<a href="#Sri_Lanka">Sri Lanka</a>
+
+
+
+
+
+<a href="#Suriname">Suriname</a>
+
+
+
+
+
+<a href="#Swaziland">Swaziland</a>
+
+
+
+
+
+<a href="#Sweden">Sweden</a>
+
+
+
+
+
+<a href="#Switzerland">Switzerland</a>
+
+
+
+
+
+<a href="#Taiwan">Taiwan</a>
+
+
+
+
+
+<a href="#Tajikistan">Tajikistan</a>
+
+
+
+
+
+<a href="#Tanzania">Tanzania</a>
+
+
+
+
+
+<a href="#Thailand">Thailand</a>
+
+
+
+
+
+<a href="#Timor-Leste_%28East_Timor%29">Timor-Leste (East Timor)</a>
+
+
+
+
+
+<a href="#Togo">Togo</a>
+
+
+
+
+
+<a href="#Tokelau">Tokelau</a>
+
+
+
+
+
+<a href="#Tonga">Tonga</a>
+
+
+
+
+
+<a href="#Trinidad_and_Tobago">Trinidad and Tobago</a>
+
+
+
+
+
+<a href="#Tunisia">Tunisia</a>
+
+
+
+
+
+<a href="#Turkey">Turkey</a>
+
+
+
+
+
+<a href="#Turkmenistan">Turkmenistan</a>
+
+
+
+
+
+<a href="#Turks_and_Caicos_Islands">Turks and Caicos Islands</a>
+
+
+
+
+
+<a href="#Tuvalu">Tuvalu</a>
+
+
+
+
+
+<a href="#Uganda">Uganda</a>
+
+
+
+
+
+<a href="#Ukraine">Ukraine</a>
+
+
+
+
+
+<a href="#United_Arab_Emirates">United Arab Emirates</a>
+
+
+
+
+
+<a href="#United_Kingdom">United Kingdom</a>
+
+
+
+
+
+<a href="#United_States">United States</a>
+
+
+
+
+
+<a href="#Uruguay">Uruguay</a>
+
+
+
+
+
+<a href="#Uzbekistan">Uzbekistan</a>
+
+
+
+
+
+<a href="#Vanuatu">Vanuatu</a>
+
+
+
+
+
+<a href="#Venezuela">Venezuela</a>
+
+
+
+
+
+<a href="#Vietnam">Vietnam</a>
+
+
+
+
+
+<a href="#Virgin_Islands">Virgin Islands</a>
+
+
+
+
+
+<a href="#Wallis_and_Futuna_Islands">Wallis and Futuna Islands</a>
+
+
+
+
+
+<a href="#Yemen">Yemen</a>
+
+
+
+
+
+<a href="#Zambia">Zambia</a>
+
+
+
+
+
+<a href="#Zimbabwe">Zimbabwe</a>
+
+
+
+
+
+
+
+        </div>
+
+</li>
+
+</ul>
+
+</td>
+
+                  </tr>
+
+                  <tr>
+
+                    <td colspan="4" align="left" valign="top">&nbsp;</td>
+
+                  </tr>
+
+                </tbody></table></td>
+
+              </tr>
+
+              <tr>
+
+                <td width="45%" align="left">&nbsp;</td>
+
+                <td align="left"><div style="clear:both">
+
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+                    <tbody><tr>
+
+                      <td width="24%" align="center" class="top_menus"><a href="individuals.php">Individuals</a></td>
+
+                      <td width="24%" align="center" class="top_menus"><a href="business.php">Businesses</a></td>
+
+                      <td width="16%" align="center" class="top_menus"><a href="faq.php">FAQs</a></td>
+
+                      <td width="36%" align="center" class="top_menus"><a href="cost-calculator.php">Shipping Calculator</a></td>
+
+                    </tr>
+
+                  </tbody></table>
+
+                </div>                
+
+                </td>
+
+              </tr>
+
+            </tbody></table>
+
+            </div></td>
+    </tr>
+    
+    <tr>
+      <td><div class="curv-left"></div><div class="curv-mid">
+        <h2>Privacy Policy</h2>
+      </div><div class="curv-right"></div></td>
+    </tr>
+    <tr>
+      <td><div class="curv-contain-top"></div><div class="curv-contain-r"><table cellpadding="3" cellspacing="0" border="0" width="100%">
+			  <tbody><tr>
+			    <td height="22" colspan="4" align="left" style="padding:10px;">
+			      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="72%" valign="top">
+                      
+
+
+
+
+
+
+
+
+                      
+
+
+<p>At VIAddress.com we are dedicated to safeguarding and preserving your privacy 
+when visiting our site or communicating electronically with us. <br>
+This Privacy Policy, together with our terms of use, provides an explanation as 
+to what happens to any personal data that you provide to us, or that we collect 
+from you.<br>
+We do update this Policy from time to time so please do review this Policy 
+regularly.<br>
+<br>
+<b>Information We Collect </b></p>
+<p>In operating our website we may collect and process the following data about 
+you:</p>
+<ul>
+	<li>Details of your visits to our website and the resources that you access, 
+	including, but not limited to, traffic data, location data, weblogs and 
+	other communication data.</li>
+	<li>Information that you provide by filling in forms on our website, such as 
+	when you registered for information or make a purchase. </li>
+	<li>formation provided to us when you communicate with us for any reason.</li>
+</ul>
+<p><b>Use of Cookies</b></p>
+<p>On occasion, we may gather information about your computer for our services 
+and to provide statistical information regarding the use of our website to our 
+advertisers. <br>
+Such information will not identify you personally it is statistical data about 
+our visitors and their use of our site. This statistical data does not identify 
+any personal details whatsoever.<br>
+Similarly to the above, we may gather information about your general internet 
+use by using a cookie file. Where used, these cookies are downloaded to your 
+computer automatically. This cookie file is stored on the hard drive of your 
+computer as cookies contain information that is transferred to your computer's 
+hard drive. They help us to improve our website and the service that we provide 
+to you. <br>
+All computers have the ability to decline cookies. This can be done by 
+activating the setting on your browser which enables you to decline the cookies. 
+Please note that should you choose to decline cookies, you may be unable to 
+access particular parts of our website.<br>
+Our advertisers may also use cookies, over which we have no control. Such 
+cookies (if used) would be downloaded once you click on advertisements on our 
+website.<br>
+<br>
+<b>Use of Your Information</b></p>
+<p>The information that we collect and store relating to you is primarily used 
+to enable us to provide our services to you. In addition, we may use the 
+information for the following purposes:</p>
+<ul>
+	<li>To provide you with information requested from us, relating to our 
+	products or services. </li>
+	<li>To provide information on other products which we feel may be of 
+	interest to you, where you have consented to receive such information.</li>
+	<li>To meet our contractual commitments to you.</li>
+	<li>To notify you about any changes to our website, such as improvements or 
+	service/product changes, that may affect our service.</li>
+</ul>
+<p>If you are an existing customer, we may contact you with information about 
+goods and services similar to those which were the subject of a previous sale to 
+you.<br>
+Further, we may use your data, or permit selected third parties to use your 
+data, so that you can be provided with information about unrelated goods and 
+services which we consider may be of interest to you. We or they may contact you 
+about these goods and services by any of the methods that you consented at the 
+time your information was collected.<br>
+Please be advised that we do not reveal information about identifiable 
+individuals to our advertisers but we may, on occasion, provide them with 
+aggregate statistical information about our visitors.<br>
+<br>
+<b>Storing Your Personal Data</b></p>
+<p>Data that is provided to us is stored on our secure servers. Details relating 
+to any transactions entered into on our site will be encrypted to ensure its 
+safety.<br>
+The transmission of information via the internet is not completely secure and 
+therefore we cannot guarantee the security of data sent to us electronically and 
+transmission of such data is therefore entirely at your own risk. Where we have 
+given you (or where you have chosen) a password so that you can access certain 
+parts of our site, you are responsible for keeping this password confidential.<br>
+<br>
+<b>Disclosing Your Information</b></p>
+<p>Where applicable, we may disclose your personal information to any member of 
+our group. This includes, where applicable, our subsidiaries, our holding 
+company and its other subsidiaries (if any).<br>
+We may also disclose your personal information to third parties:<br>
+Where we sell any or all of our business and/or our assets to a third party.<br>
+Where we are legally required to disclose your information.<br>
+To assist fraud protection and minimize credit risk.<br>
+<br>
+<b>Third Party Links</b></p>
+<p>You mind find links to third party websites on our website. These websites 
+should have their own privacy policies which you should check. We do not accept 
+any responsibility or liability for their policies whatsoever as we have no 
+control over them.</p>
+<p>As you would expect of us, we will take all reasonable measures to ensure 
+that the personal information you provide through our website is held and 
+managed securely. However, there is not a lot that you can do to help keep your 
+personal information safe – not just on our website, but whenever you provide 
+information online.<br>
+Here are some simple ways you can improve the security of you information:</p>
+<ul>
+	<li>Use a secure browser</li>
+	<li>Encryption is the process through which sensitive information is 
+	scrambled before it is transmitted so that it remains private even if it is 
+	intercepted. 128-bit versions support it.</li>
+	<li>Security upgrades for some older browser versions are available. We 
+	recommend that you contact your preferred browser provider for further 
+	information.</li>
+</ul>
+<p>VIAddress.com is fully PCI Compliant and runs on a full secure https 
+platform.<br>
+VIAddress also use enterprise strength security devices to protect 
+your information.<br>
+&nbsp;</p>                      </td></tr>
+                  </tbody></table></td>
+			    </tr>
+			  
+			  
+
+			  
+		  </tbody></table>
+      </div><div class="curv-contain-bottom"></div></td>
+    </tr>
+    
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td><a href="#"><img src="images/footer-img1.jpg" width="329"></a></td>
+              <td><table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
+<tbody><tr>
+<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.viaddress.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br>
+<a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
+</tr>
+</tbody></table></td>
+              <td><div align="right"><a href="#"><img src="images/footer-img2.jpg" width="246" height="62"></a></div></td>
+            </tr>
+          </tbody></table>
+</td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+      </tbody></table>
+    
+    
+      <div align="center">Copyright © 2010 VIAddress.com . All Rights Reserved.
+<br> Designated trademarks and brands are the property of their respective owners. Use of this Web site constitutes acceptance of the VIAddress User Agreement and Privacy Policy.</div>
+    
+    
+      &nbsp;	
+    
+    
+      <div class="footer" align="center">  <a href="index.php">Home</a>      | <a href="about-us.php">About Us</a>  | 
+          <a href="contact_us.php">Contact us</a>        | <a href="news_press.php">News &amp; Press</a> |<a href="terms_conditions.php">Terms &amp; Conditions</a> | <a href="privacy policy.php">Privacy policy</a></div>
+         
+      
+    
+    
+      &nbsp;	
+    
+<!-- Woopra Code Start -->
+<script type="text/javascript" src="//static.woopra.com/js/woopra.js"></script>
+<!-- Woopra Code End -->
+
+<!-- twitter follow badge by go2web20 -->
+<script src="http://files.go2web20.net/twitterbadge/1.0/badge.js" type="text/javascript"></script><script type="text/javascript" charset="utf-8"><!--
+tfb.account = 'viaddress';
+tfb.label = 'follow-us';
+tfb.color = '#35ccff';
+tfb.side = 'r';
+tfb.top = 100;
+tfb.showbadge();
+--></script>
+<!-- end of twitter follow badge -->    
+      &nbsp;
+    
+  
+</div>
+</div>
+</div>
+
+</body></html>
