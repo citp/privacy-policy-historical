@@ -1,17 +1,10 @@
-> *The following text is extracted and transformed from the twopair.com privacy policy that was archived on 2009-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090815113600id_/http%3A//www.twopair.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twopair.com privacy policy that was archived on 2010-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100215015537id_/http%3A//www.twopair.com/about/privacy.cfm) for the most accurate reproduction.*
 
-# About Us | Privacy Policy - America's Best Contacts and Eyeglasses - Changing the way America buys glasses!
-
-## About Us - Privacy Policy
-
-  * [About Us](https://web.archive.org/web/20090815113600id_/http%3A//www.twopair.com/about/index.cfm)
-  * [Privacy Policy](https://web.archive.org/web/20090815113600id_/http%3A//www.twopair.com/about/privacy.cfm)
-
-
+# About Us - Privacy Policy - America's Best Contacts and Eyeglasses - Changing the way America buys glasses!
 
 At America's Best, we respect our customers and understand that they are concerned about privacy, so we have instituted policies intended to ensure that your personal information is handled safely and responsibly. This Privacy Policy explains what America's Best does with your information and what you can expect from America's Best. You should review this Privacy Policy periodically as we may update it from time to time. This policy was last revised on December 28, 2000.
 
-### What Information Do We Collect?
+## What Information Do We Collect?
 
 #### Browsing
 
