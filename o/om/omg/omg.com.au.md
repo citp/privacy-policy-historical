@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the omg.com.au privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218095407id_/http%3A//www.omg.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omg.com.au privacy policy that was archived on 2010-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100215230728id_/http%3A//www.omg.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OMG
 
-Last updated: 29 June 2009
+Last updated: 4 February 2010
 
 **Introduction**
 
@@ -11,7 +11,9 @@ This Privacy Policy applies to this website which is operated by Online Marketin
 In this Privacy Policy,
 
   1. “ **we** ”, “ **us** ” or “ **our** ” means Online Marketing Group Pty Limited (ABN 14 116 080 043) or one of our subsidiary companies; and
+
   2. “ **you** ” or “ **your** ” means visitors to the Website and our other websites, subscribers to and users of services provided by us, purchasers of our products and services and our advertising customers.
+
 
 
 
@@ -28,21 +30,30 @@ Whenever you visit this Website, our servers will automatically record informati
 Collection of some of your personal information is essential for completion of some of the functions and activities of this Website. We will, if it is reasonable or practicable to do so, also collect your personal information directly from you. For instance, the collection of your personal information may happen when you:
 
   1. click on a “Request more information” button and agree to proceed to fill out a “Request more information” form;
+
   2. complete and submit a “Register” form, an “OMG Account Setup” form, an “Order Form” or similar form;
+
   3. submit an email or message to us through the Website; or
+
   4. provide information by telephone after visiting the Website.
 
 
 
-The personal information we collect from you may include your name, postal address, email address, date of birth, and in some instances, your financial information, or other information considered necessary for any request, order or application process you may be undertaking.
+
+The personal information we collect from you may include your name, postal address, email address, date of birth, phone number, mobile phone number and in some instances, your financial information, or other information considered necessary for any request, order or application process you may be undertaking.
 
 We may also collect personal information:
 
   * from third parties such as credit reporting agencies or your representatives;
+
   * from publicly available sources of information;
+
   * from our third party service partners;
+
   * from our own records of how you use our services; or
+
   * when legally required to do so.
+
 
 
 
@@ -55,31 +66,50 @@ If you choose not to provide personal information to us, we may not be able to p
 We may use your personal information in order to:
 
   1. verify your identity;
-  2. provide our products and services to you, including our directory listing services and advertising services;
-  3. administer and manage those products and services, including charging, billing and collecting debts;
+
+  2. provide our products and services to you, including our directory listing services, lead generation services and advertising services;
+
+  3. administer and manage those products and services, including notifications, charging, billing and collecting debts;
+
   4. enter into contracts with you;
+
   5. assist you to subscribe to our products and services;
+
   6. make changes to your profile;
+
   7. respond to any queries or feedback you may have;
+
   8. help us improve our products and services;
-  9. conduct appropriate checks for creditworthiness and for fraud; and
-  10. prevent and detect any misuse of, or fraudulent activities involving the Website.
+
+  9. provide relevant marketing information, including promotions or special offers;
+
+  10. conduct appropriate checks for creditworthiness and for fraud; and
+
+  11. prevent and detect any misuse of, or fraudulent activities involving the Website.
 
 
 
-We might contact you to let you know about products, services, promotions or special offers that may interest you. If you do not want us to contact you to promote and market our products, services, promotions and special offers, please email: [privacy@omg.com.au](mailto:privacy@omg.com.au)
+
+We might contact you to let you know about products, services, promotions or special offers that may interest you. If you do not want us to contact you to promote and market our products, services, promotions and special offers, please email: _[privacy@omg.com.au](mailto:privacy@omg.com.au)_
 
 In order to meet your specific needs or provide you with a service which you have requested, we may disclose your personal information in certain circumstances, to third party organisations whose products or services you may require. This may happen when you click on a “Request more information” button and complete and submit a “Request more information” form. We may also disclose your personal information to our third party service partners who are engaged to assist in facilitating the provision of the products or services you may require. These third party service partners may carry out marketing, telemarketing and sales services, customer enquiries, debt recovery functions, market research and website usage analysis.
 
 We may also disclose your personal information if it is:
 
   1. Required or authorised by law or government and regulatory authorities;
+
   2. We suspect that your use of this Website is in breach of the Terms & Conditions;
+
   3. To protect our rights or property;
+
   4. To lessen a serious threat to a person’s health or safety;
+
   5. To credit reporting and fraud checking agencies;
+
   6. To credit providers (for credit related purposes such as creditworthiness, credit rating, credit provision and financing); or
+
   7. To our professional advisers, including our accountants, auditors and lawyers.
+
 
 
 
@@ -90,10 +120,15 @@ Where your personal information is disclosed, we will seek to ensure that the in
 We store information in different ways, including in paper and electronic format. The security of your personal information is important to us and we take reasonable steps to protect it from misuse and loss and unauthorised access, modification or disclosure. Some of the ways we do this are:
 
   1. confidentiality agreements for our employees and contractors;
+
   2. security measures for systems access;
+
   3. only allowing access to personal information where the individual seeking access has satisfied our identification requirements;
+
   4. access control;
+
   5. destroying or permanently de-identifying your personal information if it is no longer needed for the purpose which the information was originally collected, used or disclosed under National Privacy Policy Principles.
+
 
 
 
@@ -108,9 +143,13 @@ The use of cookies can enhance your enjoyment of this Website, because they can 
 We may use independent companies to measure and analyse Internet usage across this Website. The tracking collects the following core information on usage of this Website:
 
   1. The number of page views (or page impressions);
+
   2. The number of unique visitors;
+
   3. How long these unique visitors (on average) spend on the Website;
+
   4. Common entry and exit points into the Website.
+
 
 
 
@@ -144,7 +183,7 @@ let us know if there are any errors in your personal information; and
 
 keep us up to date with changes to personal information such as your name or address,
 
-by contacting us at [privacy@omg.com.au](mailto:privacy@omg.com.au)
+by contacting us at _[privacy@omg.com.au](mailto:privacy@omg.com.au)_
 
 **Resolving Your Privacy Issues**
 
