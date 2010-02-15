@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227063146id_/http%3A//www.violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2010-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100215212946id_/http%3A//www.violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
 
 # Violinist.com privacy policy
-
-## [News by E-mail](http://visitor.constantcontact.com/d.jsp?m=1101878620137&p=oi)
-
-| 
 
 Violinist.com accepts articles and comments from Internet users who register with the site. If you choose to register with the site, you will be asked to submit some personal information, including your name, place of residence and e-mail address. Violinist.com collects this information in order to verify the identity of individuals submitting information to the site.
 
@@ -20,54 +16,49 @@ Information collected by Violinist.com becomes the property of Violinist.com, an
 
 | 
 
-## Search
+## [Music Giveaway](http://www.violinist.com/contest/)
 
-## New Members
+[](http://www.violinist.com/contest/) [Enter to win](http://www.violinist.com/contest/) one of three copies of Violinist **Dylana Jenson** 's new CD, a recording of the Shostakovich and Barber Violin Concertos with the London Symphony Orchestra.
 
-[Amy Kitay](http://www.violinist.com/directory/bio.cfm?member=ViolinII)  
-Farmingdale, New York
+## Search Violinist.com
 
-[Anna Stafford](http://www.violinist.com/directory/bio.cfm?member=AnnaStafford)  
-Hollywood, California
+## Become a Fan
 
-[Mia Baskerville](http://www.violinist.com/directory/bio.cfm?member=ViolinMystic)  
-Seattle, Washington
+[Be a fan on ](http://www.facebook.com/pages/Violinistcom/100897636577)
 
-[Sam Heredia](http://www.violinist.com/directory/bio.cfm?member=Itzhakperlman)  
-Tampico, Mexico
+[Follow us on ](http://twitter.com/violinist)
 
-## Audio/Video
+## [Editor's Blogs](http://www.violinist.com/blog/laurie/)
 
-[Ivry Gitlis rehearsel at the the Martha agerich festival in Lugano](http://www.violinist.com/media/1283/)  
-From friedjan vandeneerenbeemt
+[ **Laurie Niles**](http://www.violinist.com/blog/laurie/)  
+Violinist.com's editor is a professional symphony violinist and former newspaper reporter who interviews top violin performers and pedagogues, as well as reports on her experience in violin music and education.
 
-[Ivry Gitlis talks about his stradivarius](http://www.violinist.com/media/1282/)  
-From friedjan vandeneerenbeemt
+Plus: [The Weekend Vote](http://www.violinist.com/blog/weekendvote/)
 
-[Jesu Joy of Man's Desiring](http://www.violinist.com/media/1281/)  
-From Mendy Smith
+## [Interviews](http://www.violinist.com/interviews/)
 
-[J. Brahms, Concerto for Violin, Cello and Orchestra, Andante](http://www.violinist.com/media/1280/)  
-From Emanuel Salvador
+[](http://www.violinist.com/blog/laurie/20101/10893/) Indianapolis Symphony concertmaster [**Zach DePue**](http://www.violinist.com/blog/laurie/20101/10893/) explores jazz, folk and other genres as part of the trio "Time for the Three."
 
-[More performance clips...](http://www.violinist.com/media/)
+[ **Hilary Hahn**](http://www.violinist.com/blog/laurie/20101/10837/) talks about the development of her new recording, "Bach: Violin and Voice."
 
-## [Concert Calendar](http://www.violinist.com/calendar/)
+[ **Sarah Chang**](http://www.violinist.com/blog/laurie/200912/10758/) talks of her perspective on life as a prodigy, and how that's prepared her for her current career.
 
-**January 10, 2010**  
-[The Fortnightly Music Club of the San Francisco Bay Area Presents ------------- THE JANUARY FORMAL CONCERT of 2010](http://www.violinist.com/calendar/violin.cfm?event=1075)  
-Palo Alto, California
+[More interviews...](http://www.violinist.com/interviews/)
 
-**January 20, 2010**  
-[Artemis Quartet @ Santa Cecilia Camber Music Season 2009 - 2010](http://www.violinist.com/calendar/violin.cfm?event=1051)  
-Rome, Italy
+## [Sponsors](http://www.violinist.com/advertising/)
 
-**January 22, 2010**  
-[Artemis Quartet @ Santa Cecilia Chamber Music Season 2009 - 2010](http://www.violinist.com/calendar/violin.cfm?event=1052)  
-Rome, Italy
+The following advertisers have made a financial commitment to support the Violinist.com community.
 
-**January 30, 2010**  
-[The Chamber Music Society of Colombo at the Galle Lit Fest 2010](http://www.violinist.com/calendar/violin.cfm?event=1077)  
-Galle, Sri Lanka
+We hope you will return the favor by considering them first when making a violin- or music-related purchase.
 
-[More concert listings...](http://www.violinist.com/calendar/)
+[\- From the Top/Jack Kent Cooke Young Artist Award](http://bit.ly/cPmrhG)  
+[\- Hans Pluhar](http://bit.ly/aOhtKj)  
+[\- International Violin Competition of Indianapolis](http://bit.ly/8DTMG3)  
+[\- IV Moscow International David Oistrakh Violin Competition](http://bit.ly/69TYxR)  
+[\- Join a String Quartet](http://bit.ly/drVnBn)  
+[\- Metzler Violin Shop](http://bit.ly/9LnTUL)  
+[\- Shar](http://bit.ly/4hM1Cv)  
+[\- Snow Violin](http://bit.ly/30YSzB)  
+[\- StringMall.com](http://bit.ly/3eTlD3)  
+[\- Violin Mastery](http://bit.ly/2dPFKQ)  
+
