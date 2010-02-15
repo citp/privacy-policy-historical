@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuzing.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524084249id_/http%3A//www.fuzing.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuzing.com privacy policy that was archived on 2010-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100215215643id_/http%3A//www.fuzing.com/privacy.htm) for the most accurate reproduction.*
 
 # Fuzing.com! - Privacy Policy
 
@@ -12,7 +12,7 @@ Fuzing.com and Fuzing, Inc. (The legal owner and the operator of this site) trea
 
 The services that Fuzing.com provides you with may require that we gather, process, use and distribute your member information which you provide by filling out our various forms and formats; for example, your company name, contact information, company profile and homepage and the products you buy and sell, etc. Therefore, Fuzing.com does not guarantee that your information will be protected from exposure to any particular party. In fact the purpose of this e-marketplace is to set up a virtual online trade show that facilitates making you and your company as well-known as possible. If you wish to remove your company’s information from Fuzing.com you may do so at any time by contacting us (see section below on how to Contact Us). If you wish to update your company’s information, you may do so by logging in to your account and making those changes.
 
-If you have questions or concerns regarding this statement, you should first contact Peter Beresford by telephone at +1-720-221-4469, or in writing to: Fuzing, Inc., 5551 Sunshine Canyon Dr., Boulder, Colorado 80302, USA.  
+If you have questions or concerns regarding this statement, you should first contact Peter Beresford by telephone at +1-720-242-5574, or in writing to: Fuzing, Inc., 5551 Sunshine Canyon Dr., Boulder, Colorado 80302, USA.  
 
 
 1\. The Information We Collect 
@@ -136,7 +136,7 @@ Fuzing, Inc.
 5551 Sunshine Canyon Drive  
 Boulder, Colorado 80302  
 USA  
-Tel: +1 720-221-4469  
+Tel: +1 720-242-5574  
 Fax: +1 720-406-7546  
 Or you may contact us via our online contact form at:  
 <http://www.fuzing.com/contact.htm>
