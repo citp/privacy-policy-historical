@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameland4girls.com privacy policy that was archived on 2009-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090919052141id_/http%3A//www.gameland4girls.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameland4girls.com privacy policy that was archived on 2010-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100215014153id_/http%3A//www.gameland4girls.com/privacy.html) for the most accurate reproduction.*
 
 # GameLand4Girls.com - Free online games for girls
 
