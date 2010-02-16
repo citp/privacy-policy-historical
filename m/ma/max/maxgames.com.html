@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the maxgames.com privacy policy that was archived on 2009-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090503183140id_/http%3A//www.maxgames.com/policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the maxgames.com privacy policy that was archived on 2010-02-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100216141013id_/http%3A//www.maxgames.com/policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title> Max Games : Free internet games to the Max</title>
@@ -135,6 +135,25 @@ A.urlimage:visited {
 }
 -->
 </style>
+
+<link type="text/css" rel="stylesheet" href="/css/jquery.countdown.css">
+
+<!-- ValueClick Media POP-UNDER CODE v1.8 for Max Games (4 hour) -->
+<script language="javascript"><!--
+/*var dc=document; var date_ob=new Date();
+dc.cookie='h2=o; path=/;'; var bust=date_ob.getSeconds();
+if(dc.cookie.indexOf('e=llo') <= 0 && dc.cookie.indexOf('2=o') > 0){
+dc.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net');
+dc.write('/w/pop.cgi?sid=33109&m=2&tp=2&v=1.8&c='+bust+'"></scr'+'ipt>');
+date_ob.setTime(date_ob.getTime()+14400000);
+dc.cookie='he=llo; path=/; expires='+ date_ob.toGMTString();}*/ // -->
+</script>
+<!-- ValueClick Media POP-UNDER CODE v1.8 for Max Games -->
+
+<script language="JavaScript" type="text/JavaScript" src="/javascript/jquery-1.3.2.min.js"></script>
+<script language="JavaScript" type="text/JavaScript" src="/javascript/jquery.countdown.min.js"></script>
+<script language="JavaScript" type="text/JavaScript" src="/javascript/helpers.js"></script>
+
 <script language="JavaScript" type="text/JavaScript">
 <!--
 function MM_swapImgRestore() { //v3.0
@@ -168,15 +187,15 @@ function MM_swapImage() { //v3.0
 			if (document.all){	window.external.AddFavorite(bookmarkurl,bookmarktitle); }
 		}
 </script>
-       <script language="JavaScript">
- 				function enable(groupdata,data)
-				{ 
-					document.getElementById(groupdata).style.display= "block";
-	 			}
-				function disable(groupdata,data)
-				{
-						document.getElementById(groupdata).style.display= "none";
-				}
+<script language="JavaScript">
+ function enable(groupdata,data)
+{ 
+	document.getElementById(groupdata).style.display= "block";
+ }
+function disable(groupdata,data)
+{
+		document.getElementById(groupdata).style.display= "none";
+}
            function highlightCell(rowId) {    //rowId is element id of the row to highlight
                 document.getElementById(rowId).style.background = "ghostwhite";    //change 'ghostwhite' to the color you wish to be the highlight color
             }
@@ -193,141 +212,165 @@ function MM_swapImage() { //v3.0
 
             function hideActionMenu(anchorId, menuId) {     //anchorId is the id of the element that the menu should be anchored to, menuId is the id of the menu id
                 document.getElementById(menuId).style.visibility = "hidden";    //hide the menu
-				//alert('aaaaaaa');
+//alert('aaaaaaa');
             }
 
             function getElementY(element){  //returns the y or top of the element
-            	var targetTop = 0;
-            	if (element.offsetParent) {
-            		while (element.offsetParent) {
-            			targetTop += element.offsetTop;
+            var targetTop = 0;
+            if (element.offsetParent) {
+            while (element.offsetParent) {
+            targetTop += element.offsetTop;
                         element = element.offsetParent;
-            		}
-            	} else if (element.y) {
-            		targetTop += element.y;
+            }
+            } else if (element.y) {
+            targetTop += element.y;
                 }
-            	return targetTop;
+            return targetTop;
             }
 
             function getElementX(element){  //returns the x or left of the element
-            	var targetLeft = 0;
-            	if (element.offsetParent) {
-            		while (element.offsetParent) {
-            			targetLeft += element.offsetLeft;
+            var targetLeft = 0;
+            if (element.offsetParent) {
+            while (element.offsetParent) {
+            targetLeft += element.offsetLeft;
                         element = element.offsetParent;
-            		}
-            	} else if (element.x) {
-            		targetLeft += element.x;
+            }
+            } else if (element.x) {
+            targetLeft += element.x;
                 }
-            	return targetLeft;
+            return targetLeft;
             }
 
             function getElementWidth(element){  //returns the width of the element
-            	var targetWidth = 0;
-            	if (element.offsetParent) {
-            		targetWidth += element.offsetWidth;
-            	} else if (element.width) {
-            		targetWidth += element.width;
+            var targetWidth = 0;
+            if (element.offsetParent) {
+            targetWidth += element.offsetWidth;
+            } else if (element.width) {
+            targetWidth += element.width;
                 }
-            	return targetWidth;
+            return targetWidth;
             }
 
-            function getElementHeight(element){ //returns the height of the element
-            	var targetHeight = 0;
-            	if (element.offsetParent) {
-            		targetHeight += element.offsetHeight;
-            	} else if (element.height) {
-            		targetHeight += element.height;
-                }
-            	return targetHeight;
-            }
-        </script>
+	function getElementHeight(element) { //returns the height of the element
+		var targetHeight = 0;
+		
+		if (element.offsetParent)
+		{
+			targetHeight += element.offsetHeight;
+        }
+        else if (element.height)
+		{
+			targetHeight += element.height;
+		}
+		
+		return targetHeight;
+	}
+
+	/*$(function () {
+		$('#aow2_countdown_container').css({'left':$(document).width()/2-25+'px'}).show();
+		
+		var aowDay = new Date("January 8, 2010 14:00:00");
+		$('#countdown').countdown({until:aowDay, format:'dHMS', compact:true, timezone:-7, compactLabels:['', '', '', ' Days']});
+		$('#index_countdown').countdown({until:aowDay, format:'dHMS', compact:true, timezone:-7, compactLabels:['', '', '', 'D']});
+	})*/
+</script>
 </head>
 
 <body onload="MM_preloadImages('images/1_2_b.jpg','images/1_3_b.jpg','images/1_4_b.jpg');">
-<img src="http://c.admob.com/c1.php/2/EkDDefwTs4Ekjx_zoBp7L49E75EA608A3787c5fd56602b4f71a" width="1" height="1"><img src="http://c.admob.com/c1.php/2/EkDDefwTs4EkDjY2__1vL49E7675C0326F195fb469804618302" width="1" height="1"><img src="http://c.admob.com/c1.php/2/EkDDmGKYpLEkkIV6dg7pL49E767CE09BFC022760048c7f9b6ee" width="1" height="1"><table width="761" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="515" height="39" valign="top"><a href="http://www.maxgames.com/index.html"><img src="http://www.maxgames.com/images/1_1.jpg" width="515" height="39" border="0"></a></td>
-    <td width="63" height="39" valign="top"><img src="http://www.maxgames.com/images/ugo.gif" width="63" height="39" border="0"></td>
+
+<!-- 
+<div id="aow2_countdown_container" style="z-index: 2; position: absolute; top: 20px; left: 0px; width: 220px; display: none;">
+	<div style="font-weight: bold; color: black; font-family: verdana,sans-serif; font-size: 9pt;">Age Of War 2 is coming...</div>
+	<div style="font-weight: bold; color: white; font-family: verdana,sans-serif; font-size: 13pt; width: 190px; height: 45px; padding-left: 30px;" id="countdown"></div>
+</div>
+-->
+
+<table width="761" border="0" align="center" cellpadding="0" cellspacing="0" style="position: relative;">
+<tbody><tr>
+		<td width="515" height="39" valign="top"><a href="http://www.maxgames.com/index.html"><img src="http://www.maxgames.com/images/1_1_ageofwar2.jpg" width="515" height="39" border="0"></a></td>
+	    <td width="63" height="39" valign="top"><img src="http://www.maxgames.com/images/ogu.gif" width="63" height="39" border="0"></td>
     <td width="99" height="39" valign="top"><a href="javascript:addbookmark('.html','MaxGames - ');" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','http://www.maxgames.com/images/1_3_b.jpg',1)"><img src="http://www.maxgames.com/images/1_3_a.jpg" alt="bookmark us" name="Image5" width="99" height="39" border="0"></a></td>
     <td width="84" height="39" valign="top"><a href="http://www.maxgames.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','http://www.maxgames.com/images/1_4_b.jpg',1)"><img src="http://www.maxgames.com/images/1_4_a.jpg" alt="MaxGames" name="Image6" width="86" height="39" border="0"></a></td>
-  </tr>
-  <tr>
-    <td><a href="http://www.maxgames.com/index.html"><img src="http://www.maxgames.com/images/2_1.jpg" width="515" height="38" border="0"></a></td>
-    <td colspan="3" background="http://www.maxgames.com/images/2_bg.jpg"><img src="http://www.maxgames.com/images/spacer.gif" width="1" height="1"></td>
-  </tr>
-  <tr background="http://www.maxgames.com/images/3_bg.jpg">
-    <td height="58" colspan="4" background="http://www.maxgames.com/images/3_bg.jpg">
-	<table width="90%" border="0" align="center" cellpadding="2" cellspacing="0" class="text">
-  <tbody><tr> 
-    <td width="3%" align="center"><div align="left"><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
-    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/action-games.html" class="whttxt">Action Games</a></div></td>
-    <td width="3%" align="center"><div align="left"><a href="http://www.maxgames.com/category/rpg-games.html" class="whttxt"> </a><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
-    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/rpg-games.html" class="whttxt">RPG Games</a></div></td>
-    <td width="3%" align="center"><div align="left"><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
-    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/sports-games.html" class="whttxt">Sports Games</a></div></td>
-    <td width="3%" align="center"><div align="left"><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
-    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/shooting-games.html" class="whttxt">Shooting Games</a></div></td>
-  </tr>
-   <tr>
-    <td width="3%" align="center"><div align="left"><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
-    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/fighting-games.html" class="whttxt">Fighting Games</a></div></td>
-    <td width="3%" align="center"><div align="left"><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
-    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/puzzle-games.html" class="whttxt">Puzzle Games</a></div></td>
-    <td width="3%" align="center"><div align="left"><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
-    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/card-games.html" class="whttxt">Card Games</a></div></td>
-    <td width="3%" align="center"><div align="left"><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
-    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/max-games.html" class="whttxt">Max Games</a></div></td>
-   </tr>
+</tr>
+<tr>
+		<td><a href="http://www.maxgames.com/index.html"><img src="http://www.maxgames.com/images/2_1_ageofwar2.jpg" width="515" height="38" border="0"></a></td>
+	    <td colspan="3" background="http://www.maxgames.com/images/2_bg.jpg"><img src="http://www.maxgames.com/images/spacer.gif" width="1" height="1"></td>
+</tr>
+<tr background="http://www.maxgames.com/images/3_bg.jpg">
+	<td height="58" colspan="4" background="http://www.maxgames.com/images/3_bg.jpg">
+		<table width="90%" border="0" align="center" cellpadding="2" cellspacing="0" class="text">
+		<tbody><tr> 
+			<td width="3%" align="center"><div align="left"><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
+		    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/action-games.html" class="whttxt">Action Games</a></div></td>
+		    <td width="3%" align="center"><div align="left"><a href="http://www.maxgames.com/category/rpg-games.html" class="whttxt"> </a><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
+		    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/rpg-games.html" class="whttxt">RPG Games</a></div></td>
+		    <td width="3%" align="center"><div align="left"><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
+		    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/sports-games.html" class="whttxt">Sports Games</a></div></td>
+		    <td width="3%" align="center"><div align="left"><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
+		    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/shooting-games.html" class="whttxt">Shooting Games</a></div></td>
+		</tr>
+		<tr>
+		    <td width="3%" align="center"><div align="left"><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
+		    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/fighting-games.html" class="whttxt">Fighting Games</a></div></td>
+		    <td width="3%" align="center"><div align="left"><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
+		    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/puzzle-games.html" class="whttxt">Puzzle Games</a></div></td>
+		    <td width="3%" align="center"><div align="left"><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
+		    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/card-games.html" class="whttxt">Card Games</a></div></td>
+		    <td width="3%" align="center"><div align="left"><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
+		    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/max-games.html" class="whttxt">Max Games</a></div></td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+<tr bgcolor="#ffffff">
+	<td style="padding: 3px 0px;" colspan="4">
+    	    	<div style="margin: 0px auto; width: 728px; height: 90px; padding: 0px 0px 0px 18px; background-image: URL('/images/sponsor_border_leaderboard.gif'); background-repeat: no-repeat;">
+    		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-1219640-1"; urchinTracker();</script><script language="javascript" src="http://media.fastclick.net/w/get.media?sid=33109&amp;m=1&amp;tp=5&amp;d=j&amp;t=s"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=33109&m=1&c=1" target="_top"><img src="http://media.fastclick.net/w/get.media?sid=33109&m=1&tp=5&d=s&c=1"width=728 height=90 border=1></a></noscript>    	</div>
+    		</td>
+</tr>
+<tr>
+	<td background="http://www.maxgames.com/images/red_bar_bg.jpg" class="sdate">&nbsp;&nbsp;16 Feb 2010 </td>
+	<td background="http://www.maxgames.com/images/reb_br_bg_2.jpg"><img src="http://www.maxgames.com/images/reb_br.jpg" width="30" height="29"></td>
+	<td colspan="2" background="http://www.maxgames.com/images/reb_br_bg_2.jpg" class="playgames">Play Games</td>
+</tr>
+<tr bgcolor="#FFFFFF" valign="top">
+	<td height="40" colspan="4">
+		<!--<div align="right">
+				&nbsp;&nbsp;</div> -->
+		<table width="100%">
+		<tbody><tr valign="top">
+			<td width="38%">
+				<table width="100%" cellpadding="1" cellspacing="0">
+				<tbody><tr class="navigation" valign="top">
+					<td width="25%">
+													<a href="http://www.maxgames.com/newgames.html">New Games</a>
+												&nbsp;&nbsp;&nbsp;&nbsp;| 
+					</td>
+					<td width="36%" align="left"><a id="lookup" href="http://www.maxgames.com/toprated.html" onmouseover="javascript:enable('drop', this);" onmouseout="javascript:disable('drop', this);">Top Rated Games</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 
+							<table style="display:none" id="drop" onmouseover="javascript:enable('drop', this);" onmouseout="javascript:disable('drop', this);" align="left">
+							<tbody><tr id="toprated" bgcolor="#FFFFFF" align="left">
+								<td align="left"><a href="http://www.maxgames.com/weeklytoprated.html">This Week</a> - <a href="http://www.maxgames.com/toprated.html">All Time</a></td>
+							</tr></tbody></table>
+							<!--<div id="drop"><a href="#">This Week - All Time</a></div>  -->
+					</td>
+					<td width="36%" height="20"><a id="lookup1" href="http://www.maxgames.com/mostplayed.html" onmouseover="javascript:enable('drop1', this);" onmouseout="javascript:disable('drop1', this);">Most Played Games</a>							<table style="display:none" id="drop1" onmouseover="javascript:enable('drop1', this);" onmouseout="javascript:disable('drop1', this);" align="left">
+							<tbody><tr id="mostplayed" bgcolor="#FFFFFF" align="left">
+								<td align="left"><a href="http://www.maxgames.com/weeklymostplayed.html">This Week</a> - <a href="http://www.maxgames.com/mostplayed.html">All Time</a></td>
+							</tr>
+							</tbody></table> 
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+			<td width="30%" align="right" class="navigation"><a href="http://www.maxgames.com/search.html">Search Games</a></td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
 </tbody></table>
-	</td>
-  </tr>
-  <tr bgcolor="#ffffff">
-    <td height="114" colspan="4"><div align="center"><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-1219640-1"; urchinTracker();</script><script language="Javascript">var cpmstar_rnd=Math.round(Math.random()*999999);var cpmstar_pid=6511;document.writeln("<SCR"+"IPT language='Javascript' src='http://server.cpmstar.com/view.aspx?poolid="+cpmstar_pid+"&script=1&rnd="+cpmstar_rnd+"'></SCR"+"IPT>");</script><script language="Javascript" src="http://server.cpmstar.com/view.aspx?poolid=6511&amp;script=1&amp;rnd=987505"></script>
-</div></td>
-  </tr>
-  <tr>
-    <td background="http://www.maxgames.com/images/red_bar_bg.jpg" class="sdate">&nbsp;&nbsp;03 May 2009 </td>
-    <td background="http://www.maxgames.com/images/reb_br_bg_2.jpg"><img src="http://www.maxgames.com/images/reb_br.jpg" width="30" height="29"></td>
-    <td colspan="2" background="http://www.maxgames.com/images/reb_br_bg_2.jpg" class="playgames">Play Games</td>
-  </tr>
-  <tr bgcolor="#FFFFFF" valign="top">
-    <td height="40" colspan="4"><!--<div align="right">
-		&nbsp;&nbsp;</div> -->
-		<table width="100%"><tbody><tr valign="top"><td width="38%">
-			<table width="100%" cellpadding="1" cellspacing="0">
-			<tbody><tr class="navigation" valign="top">
-				<td width="25%"><a href="http://www.maxgames.com/newgames.html">New Games</a>&nbsp;&nbsp;&nbsp;&nbsp;| 
-				</td>
-				<!--<td align="center" width="2%">| </td>  -->
-				<td width="36%" align="left"><a id="lookup" href="http://www.maxgames.com/toprated.html" onmouseover="javascript:enable('drop', this);" onmouseout="javascript:disable('drop', this);">Top Rated Games</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 
-						<table style="display:none" id="drop" onmouseover="javascript:enable('drop', this);" onmouseout="javascript:disable('drop', this);" align="left">
-						<tbody><tr id="toprated" bgcolor="#FFFFFF" align="left">
-							<td align="left"><a href="http://www.maxgames.com/weeklytoprated.html">This Week</a> - <a href="http://www.maxgames.com/toprated.html">All Time</a></td>
-						</tr></tbody></table>
-						<!--<div id="drop"><a href="#">This Week - All Time</a></div>  -->
-				</td>
-				<!--<td align="center" width="2%">|</td>  -->
-				<td width="36%" height="20"><a id="lookup1" href="http://www.maxgames.com/mostplayed.html" onmouseover="javascript:enable('drop1', this);" onmouseout="javascript:disable('drop1', this);">Most Played Games</a>						<table style="display:none" id="drop1" onmouseover="javascript:enable('drop1', this);" onmouseout="javascript:disable('drop1', this);" align="left">
-						<tbody><tr id="mostplayed" bgcolor="#FFFFFF" align="left">
-							<td align="left"><a href="http://www.maxgames.com/weeklymostplayed.html">This Week</a> - <a href="http://www.maxgames.com/mostplayed.html">All Time</a></td>
-						</tr>
-						</tbody></table> 
-						<!--<div id="drop1" onmouseover="javascript:highlightCell('drop1');" onmouseout="javascript:unHighlightCell('drop1');"><a href="#">This Week - All Time</a></div> -->
-				</td>
-			</tr>
-			</tbody></table>
-		</td>
-		<td width="30%" align="right" class="navigation"><a href="http://www.maxgames.com/search.html">Search Games</a>
-				</td>
-		</tr></tbody></table>
-	</td>
-  </tr>
-  <tr bgcolor="#FFFFFF">
-   <td colspan="4">
-
-        
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="761" border="0" align="center" cellpadding="0" cellspacing="0">
+<tbody><tr bgcolor="#FFFFFF">
+	<td><table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr valign="top">
 		<td>&nbsp;</td>
 		<td>
@@ -434,7 +477,9 @@ If you have any questions or wish to file a complaint, please feel free to e-mai
 </tr>
   <tr>
 	<td width="100%" colspan="4" align="center">
-			</td>
+		<div style="margin: 0px auto; width: 728px; height: 90px; padding: 3px 3px 3px 18px; background-image: URL('/images/sponsor_border_leaderboard.gif'); background-repeat: no-repeat;">		
+			<script>var ve_publisher = "JaysWebworks";var ve_site = "MAXGAMES";var ve_area = "MAXGAMES";var ve_location = "MAXGAMES_720X90";var ve_placement = "";var ve_width = 728;var ve_height = 90;var ve_alternate = "http\://www\.maxgames\.com/videoeggbackup720x90\.html";document.write("<script src='http://core.videoegg.com/eap/html/js/init.js?"+Math.random()+"'></sc"+"ript>");</script><script src="http://core.videoegg.com/eap/html/js/init.js?0.5071502028522299"></script>		</div>
+	</td>
  </tr>
  <tr>
 	<td>&nbsp;</td>
@@ -443,11 +488,8 @@ If you have any questions or wish to file a complaint, please feel free to e-mai
   <tr bgcolor="#626466">
     <td height="25" colspan="4" class="playgames" align="right">&nbsp;<a href="http://www.gamestudios.com/" class="playgames" target="_blank">Contact Us</a>  |  <a href="http://www.maxgames.com/free-games.html" class="playgames">Free Games for your Website</a>  |  <a href="http://www.maxgames.com/faq.php" class="playgames">FAQ</a>  |  <a href="http://www.maxgames.com/policy.php" class="playgames">Privacy Policy</a></td>
   </tr>
-
-
-
+  
 </tbody></table>
 <div align="right"></div>
-
 
 </body></html>
