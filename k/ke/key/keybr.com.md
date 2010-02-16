@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keybr.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111215346id_/http%3A//keybr.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keybr.com privacy policy that was archived on 2010-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100216132029id_/http%3A//keybr.com/pages/privacypolicy) for the most accurate reproduction.*
 
-# keybr.com - take typing speed test and practice typing online
+# keybr.com - Privary Policy
 
 Your privacy is critically important to us. At _keybr.com_ we have a few fundamental principles:
 
