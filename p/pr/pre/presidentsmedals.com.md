@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presidentsmedals.com privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923202020id_/http%3A//www.presidentsmedals.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presidentsmedals.com privacy policy that was archived on 2010-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100216081450id_/http%3A//www.presidentsmedals.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
