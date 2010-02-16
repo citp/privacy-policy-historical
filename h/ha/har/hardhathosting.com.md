@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the hardhathosting.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223222018id_/http%3A//www.hardhathosting.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardhathosting.com privacy policy that was archived on 2010-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100216143843id_/http%3A//www.hardhathosting.com/about/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement : Hard Hat Hosting
+
+**HardHat, Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. We will respond to your request for access to modify or delete your information within thirty (30) days.**
+
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
 **Orders for Products/Services**  
 If you purchase a product or service from us, we request certain personally identifiable information from you on our order forms. You must provide contact information (such as name, email, and physical address) and financial information (such as credit card number, expiration date, and billing address).
@@ -10,7 +14,18 @@ We use this information for billing purposes and to fill your order. If we have 
 We send all new customers a welcome email to verify password and username. From time to time, we may contact you by email informing you of new products/services or special time-sensitive promotions. This form of communication provides a method to remove your email from any future communication concerning new products/services and promotions.
 
 **Domain Registration**  
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol (”IP”) numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration.
+When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol (“IP”) numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration.
+
+**Updating Your Information**
+
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+
+1\. You may send an email to support@hardhathosting.com  
+2\. You may visit your account manager by clicking login in our sites main menu.  
+3\. You may send mail to Hardhat, Inc. at the following postal address:  
+1627 Main St Ste 300, Kansas City, MO 64108  
+4\. You may call us at: (816) 471-7688  
+5\. You may fax us at (816) 303-4447
 
 **Third Party Intermediaries**  
 We use outside credit card processing companies to bill users for products and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
