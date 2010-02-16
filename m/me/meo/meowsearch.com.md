@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meowsearch.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217042837id_/http%3A//meowsearch.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meowsearch.com privacy policy that was archived on 2010-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100216182543id_/http%3A//meowsearch.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -44,4 +44,4 @@ With respect to security: We have appropriate security measures in place in our 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-return to [MeowSearch](https://web.archive.org/web/20091217042837id_/http%3A//meowsearch.com/index.html "Meow Search")
+return to [MeowSearch](https://web.archive.org/web/20100216182543id_/http%3A//meowsearch.com/index.html "Meow Search")
