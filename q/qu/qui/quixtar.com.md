@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quixtar.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616145459id_/http%3A//www.quixtar.com/Quixtar/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quixtar.com privacy policy that was archived on 2010-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100216040829id_/http%3A//www.quixtar.com/Quixtar/PrivacyStatement) for the most accurate reproduction.*
 
 # Amway Global - Privacy Statement
 
@@ -60,7 +60,7 @@ We take reasonable measures to ensure that any Personally Identifiable Informati
 **Protecting Your Information**  
 We acknowledge your trust and are committed to take reasonable steps to protect Personally Identifiable Information you provide online from loss, misuse, and unauthorized access. We employ physical, electronic, and managerial processes to safeguard and secure your information.
 
-It is your responsibility to safeguard the password you use to access our Site, and to promptly advise Quixtar or your IBO if you ever suspect that your password has been compromised. We strongly encourage you to change your password regularly to prevent unauthorized access. Because your identification number and password are specific to you, you acknowledge sole responsibility for any and all use of our Site conducted with your identification number and password.
+It is your responsibility to safeguard the password you use to access our Site, and to promptly advise Amway Global or your IBO if you ever suspect that your password has been compromised. We strongly encourage you to change your password regularly to prevent unauthorized access. Because your identification number and password are specific to you, you acknowledge sole responsibility for any and all use of our Site conducted with your identification number and password.
 
 **Use of Cookies On This Site**  
 A "cookie" is a small data file transferred to your computer's hard drive that allows a Web site to respond to you as an individual, gathering and remembering information about your preferences in order to tailor its operation to your needs, likes and dislikes. Cookies also enable an Internet retailer like Amway Global to keep track of a consumer's electronic "shopping cart" before completing a purchase. Overall, cookies are safe, as they only identify your computer to customize your Web experience. Accepting a cookie does not provide us access to your computer or any Personally Identifiable Information about you, other than the information you choose to share. Other servers cannot read them, nor can they be used to deliver a virus.
