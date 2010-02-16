@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shelfari.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227083244id_/http%3A//www.shelfari.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shelfari.com privacy policy that was archived on 2010-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100216182553id_/http%3A//www.shelfari.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Shelfari
 
