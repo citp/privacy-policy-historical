@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the s3browser.com privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425191722id_/http%3A//netsdk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s3browser.com privacy policy that was archived on 2010-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100216131234id_/http%3A//netsdk.com/privacy.html) for the most accurate reproduction.*
 
-# NetSDK Software - Privacy Policy - Software development kits and components, Handy CD Ripper.
+# NetSDK Software - Privacy Policy - Software Development Company. TntDrive, S3 Browser, Handy CD Ripper.
 
-**Information Collection and Use**   
+## Privacy Policy
+
+ **Information Collection and Use**   
 Unless the user provides it voluntarily, NetSDK Software does not collect any personally identifiable information about visitors of the website. Some pages permit visitors to request additional information. Visitors are able to e-mail messages to NetSDK Software that will contain the user's name and e-mail address, as well as any additional information the user may wish to include in the message. NetSDK Software uses the information visitors provide about themselves to fulfill those visitors' requests. E-mail addresses are used to answer messages received only. 
 
 **Information Collected During Purchase**   
@@ -17,8 +19,5 @@ This website may contain links to other sites. Please be aware that NetSDK Softw
  **Security**   
 Given the nature of the Internet and the fact that no security system is perfect, NetSDK Software cannot promise that the information you provide will never be obtained by unauthorized persons. NetSDK Software does, however, utilize industry-standard practices to protect your personally identifiable information from loss, misuse, alteration and destruction. Such measures include using firewalls and security layers to protect certain sensitive transmissions of information. 
 
-**Use of Third Party Advertisement Networks**   
-The majority of the online advertisements you see on NetSDK Software Web sites are displayed by other companies, called third-party ad servers or ad networks. To display advertisements, ad networks place a persistent cookie on your computer. Doing this allows the advertisement network to recognize your computer each time they send you an online advertisement. In this way, advertisement networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an advertisement network to deliver advertisements that they believe will be of most interest to you. NetSDK Software does not have access to or control of the cookies that may be placed by the third-party advertisement servers or advertisement networks. If you want to prevent one of these third-party companies from sending and reading cookies on your computer, you will need to visit each ad network's Web site individually and request that you be removed from its system.
-
- **Privacy Policy Changes**   
+**Privacy Policy Changes**   
 NetSDK Software reserves the right to change our privacy policy from time to time.
