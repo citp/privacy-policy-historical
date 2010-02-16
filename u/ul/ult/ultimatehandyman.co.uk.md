@@ -1,16 +1,19 @@
-> *The following text is extracted and transformed from the ultimatehandyman.co.uk privacy policy that was archived on 2009-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090311044551id_/http%3A//www.ultimatehandyman.co.uk/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatehandyman.co.uk privacy policy that was archived on 2010-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100216040140id_/http%3A//www.ultimatehandyman.co.uk/privacy_policy.htm) for the most accurate reproduction.*
 
 # Ultimate Handyman:privacy policy
 
 Ultimate Handyman Privacy Policy
 
-covering www.ultimatehandyman.co.uk and www.ultimatehandyman.org 
+The Ultimate handyman privacy policy covers the following sites-
 
+| www.ultimatehandyman.co.uk | www.ultimatehandyman.org | directory.ultimatehandyman.co.uk  
+---|---|---  
+  
   
 **_Introduction_**
 
   
-This site is governed by all the rules and regulation of the country of the United Kingdom and is hosted in Germany . The site and it's sister site (www.ultimatehandyman.org) is owned and maintained by ultimate handyman limited (company number 5856701) and any enquires regarding privacy should in the first instance be directed to info@ultimatehandyman.co.uk  
+This site is governed by all the rules and regulation of the country of the United Kingdom and is hosted in the United Kingdom. The sites- www.ultimatehandyman.co.uk - www.ultimatehandyman.org and directory.ultimatehandyman.co.uk are owned and maintained by ultimate handyman limited (company number 5856701) and any enquires regarding privacy should in the first instance be directed to info@ultimatehandyman.co.uk  
 Please note we hold all data for the minimum period of time prescribed by law for our country of origin any personal data that is held in a public facing part of the site can be removed if request in writing is made to the address below, please note a small administration charge may be applied. 
 
 **_Tracking of data_**
@@ -23,6 +26,14 @@ This site tracks data in accordance with laws of United Kingdom  this site coll
 While we do not sell information to third parties, we do pass information on to other parties to provide a richer experience the following third parties have access to some or all of our data.
 
 Google Analytics cookies, Google analytics is our primary web statistics software no identifiable data is sent to Google analytics but rough geographic locations are included where available. 
+
+**Google Advertising**
+
+  * Google, as a third-party vendor, uses cookies to serve ads on our site/s. 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to these sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html). 
+
+
 
 **Forum Competition**
 
