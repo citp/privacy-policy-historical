@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlebanker.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217002728id_/http%3A//articlebanker.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlebanker.com privacy policy that was archived on 2010-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100216170127id_/http%3A//articlebanker.com/privacy.php) for the most accurate reproduction.*
 
-# Free Article Directory - Submit Articles Free | Get Content | Article Directory|Articlebanker.com
+# free Article Directory- Write Articles Get Traffic Authors
 
 **ArticleBanker.com Privacy Policy**
 
@@ -66,9 +66,13 @@ This statement and the policies outlined herein are not intended to and do not c
 
 | 
 
+[](http://www.articlevideorobot.com/specialoffer/bigerdan)
+
 [ ](http://fineman.massarticl.hop.clickbank.net/)
 
   
 
 
 [](http://www.uniquearticlewizard.com/amember/go.php?r=12287&i=b2)
+
+[ ](http://www.instantplugnpay.com/?s=Affiliateprofitsonline)
