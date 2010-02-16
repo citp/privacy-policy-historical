@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the euserreviews.com privacy policy that was archived on 2009-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090729133731id_/http%3A//www.euserreviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euserreviews.com privacy policy that was archived on 2010-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100216013316id_/http%3A//www.euserreviews.com/privacy-policy) for the most accurate reproduction.*
 
-# eUser Reviews » Privacy Policy
+# eUser Reviews» Privacy Policy
 
 ## Privacy Policy
 
@@ -18,22 +18,14 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
-CLICKBANK BUZZ  
+* * *
+
+## FREE VIDEO TUTORIAL!
+
+## Discover The Secrets Of Creating PROFITABLE Traffic Pulling Websites  
+That Google LOOOVES...  
 
 
-  
-RRP $47 - YOURS FREE!
+## NOTHING TO BUY!
 
-  * Instantly Find The Review Pages of ClickBank Affiliates
-  * Get The URL, PR, AlexaRank & Backlinks of Their Review Pages
-  * Get Their Affiliate IDs so You Can Find Their Other Promotions
-  * Works For ANY ClickBank Product.
-
-
-
-[](http://feeds.feedburner.com/EuserReviews) [Subscribe in a reader](http://feeds.feedburner.com/EuserReviews) Or, subscribe via email: 
-
-  
-
-
-[](http://www.freetellafriend.com/tell/ "Tell a Friend")
+ ****
