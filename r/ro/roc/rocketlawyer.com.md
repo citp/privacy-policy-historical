@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketlawyer.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601202157id_/http%3A//www.rocketlawyer.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketlawyer.com privacy policy that was archived on 2010-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100217041719id_/http%3A//www.rocketlawyer.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Rocket Lawyer Privacy Policy
 
@@ -61,4 +61,5 @@ RLI will occasionally update this Statement of Privacy to reflect company and cu
 Rocket Lawyer Incorporated welcomes your comments regarding this Statement of Privacy. If you believe that RocketLawyer.com has not adhered to this Statement, please contact RLI at [info@rocketlawyer.com.](mailto:info@rocketlawyer.com)  
    
 Top   
+  
  
