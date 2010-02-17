@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leechvideo.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607093751id_/http%3A//www.leechvideo.com/about/static_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leechvideo.com privacy policy that was archived on 2010-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100217143306id_/http%3A//www.leechvideo.com/about/static_privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - LeechVideo.com - Aggregate,Download and Convert hot videos of YouTube, MySpace Video,Google Video,etc.
 
@@ -18,11 +18,11 @@ When you register, we ask for your personal information and other information th
 
 Like the operators of most websites, we may record Non-Personal Information such as Internet domain and host names, Internet protocol (IP) addresses, browser software, operating system types, clickstream patterns, and the dates and times that the Website and the LeechVideo.com Services are accessed. For instance, we may use IP addresses we collected to help diagnose technical problems or prevent abuse of our systems or other site users. Your IP address may also be used to gather aggregate demographic data and target advertisements accordingly. 
 
-A cookie is a small line of text that is stored with your web browser for record-keeping purposes and to help us provide better services to you. Your browser has options to accept, reject, or provide you with notice when a cookie is set. We use cookies to save your password on your machine so you donĄŻt have to re-enter it each time you visit our site. We also use cookies to deliver content specific to your interests and track your downloads on our website. 
+A cookie is a small line of text that is stored with your web browser for record-keeping purposes and to help us provide better services to you. Your browser has options to accept, reject, or provide you with notice when a cookie is set. We use cookies to save your password on your machine so you don��t have to re-enter it each time you visit our site. We also use cookies to deliver content specific to your interests and track your downloads on our website. 
 
 Personal Information. Once you give us your personal information, you consent to the transfer and storage of that information to our servers located in the United States. We use Personal Information primarily for our own internal purposes, such as providing, maintaining, evaluating, and improving the LeechVideo.com Services and the Website, fulfilling requests for information, producing and shipping the products that you order, and providing customer support. 
 
-Non-Personal Information. We may disclose Non-Personal Information to improve the services we offer and facilitate our marketing efforts. In addition, we may combine multiple usersĄŻ Non-Personal Information to determine which areas of the Website are most popular, and how our services are used. In analyze the aggregate information, we can use it to improve the site and also see ways to improve our services.
+Non-Personal Information. We may disclose Non-Personal Information to improve the services we offer and facilitate our marketing efforts. In addition, we may combine multiple users�� Non-Personal Information to determine which areas of the Website are most popular, and how our services are used. In analyze the aggregate information, we can use it to improve the site and also see ways to improve our services.
 
 ### Disclosure of Your Information
 
