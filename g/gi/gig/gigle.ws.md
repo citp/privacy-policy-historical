@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gigle.ws privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028184328id_/http%3A//gigle.ws/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigle.ws privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218003711id_/http%3A//gigle.ws/article%3Ftitle%3Dprivacy) for the most accurate reproduction.*
 
-# privacy - gigle.ws
+# gigle.ws privacy policy - gigle.ws
+
+[ ](http://gigle.ws/)
 
 ## GIGLE.WS Privacy Policy
 
