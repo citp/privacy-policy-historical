@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informationworldnetwork.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630161418id_/http%3A//www.informationworldnetwork.com/index.php/googleadsprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informationworldnetwork.com privacy policy that was archived on 2010-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100217063028id_/http%3A//www.informationworldnetwork.com/index.php/googleadsprivacypolicy.html) for the most accurate reproduction.*
 
 # Google Ads Privacy Policy - Information World Network
 
