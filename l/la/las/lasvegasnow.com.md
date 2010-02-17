@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasvegasnow.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218022351id_/http%3A//www.lasvegasnow.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasvegasnow.com privacy policy that was archived on 2010-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100217045639id_/http%3A//www.lasvegasnow.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - Las Vegas Now
 
