@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rocketlawyer.com privacy policy that was archived on 2009-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090601202157id_/http%3A//www.rocketlawyer.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rocketlawyer.com privacy policy that was archived on 2010-02-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100217041719id_/http%3A//www.rocketlawyer.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_header"><title>
 	Rocket Lawyer Privacy Policy
@@ -30,7 +30,7 @@
 
 <script src="includes/userInterface.js" type="text/javascript"></script>
 <script src="includes/basic.js" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=OFD2og7DLJ_VDcbxFXr4W0i31WknNWEm9m_3378R2yXwI_U1bijAhHRdCbe4PVl8eNNsdS37QATqLcbLNQMEB5i940WnzryusQq2aPjJ0gM1&amp;t=633435230781464013" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=OFD2og7DLJ_VDcbxFXr4W0i31WknNWEm9m_3378R2yXwI_U1bijAhHRdCbe4PVl8eNNsdS37QATqLcbLNQMEByUhQx8UEQp6YpWeL88t2MI1&amp;t=ffffffffae4d19bb" type="text/javascript"></script>
     <div>
         
         
@@ -104,11 +104,22 @@
     <table width="98%" border="0" align="center" cellpadding="0" cellspacing="0" class="truecredit">
   <tbody>
     <tr>
-      <td style="TEXT-ALIGN: center" valign="top"><input id="ctl00_ContentPlaceHolder1_btnBack" onmouseover="MM_swapImage('ctl00_ContentPlaceHolder1_btnBack','','images/close-window-new-over.gif',1)" style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; WIDTH: 108px; HEIGHT: 27px; BORDER-RIGHT-WIDTH: 0px" onclick="window.close();" onmouseout="MM_swapImgRestore()" type="image" alt="continue" src="images/close-window-new.gif" border="0" name="ctl00$ContentPlaceHolder1$btnBack">
-      </td>
+		<td style="text-align: center" valign="top">
+			<a href="#" onclick="closeWindow(); return false;">
+				<img onmouseover="MM_swapImage('btnClose','','images/close-window-new-over.gif',1)" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px;
+					width: 108px; height: 27px; border-right-width: 0px" onmouseout="MM_swapImgRestore()" alt="continue" src="images/close-window-new.gif" border="0" name="btnClose"></a>
+		</td>
     </tr>
   </tbody>
 </table>
+<script type="text/javascript">
+	function closeWindow() {
+		try {
+			window.close();
+			window.top.location.href = 'default.aspx';
+		} catch (e) { ; }
+	}
+</script>
 </td>
         <td align="left" valign="top" class="main-900-right">&nbsp;</td>
       </tr>
@@ -138,6 +149,7 @@ pageTracker._setDomainName("none");
 pageTracker._setAllowLinker(true);
 pageTracker._setVar('partnerID=0');
 pageTracker._trackPageview();
+if(window['google_ecommerce_event'] != null) { TrackGoogleCommerceEvent(pageTracker); }
 </script>
 <!-- END Google Analytics -->
 <!-- BEGIN LiveEngage  -->
