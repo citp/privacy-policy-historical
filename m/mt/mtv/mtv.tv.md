@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtv.tv privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617040133id_/http%3A//www.mtv.tv/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtv.tv privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218003711id_/http%3A//www.mtv.tv/privacy_policy.htm) for the most accurate reproduction.*
 
 # MTV European: Privacy Policy
 
