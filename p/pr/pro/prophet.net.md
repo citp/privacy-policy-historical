@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prophet.net privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218092307id_/http%3A//www.prophet.net/forms/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prophet.net privacy policy that was archived on 2010-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100217050131id_/http%3A//www.prophet.net/forms/privacy.jsp) for the most accurate reproduction.*
 
 # Prophet.Net | Home | Privacy Policy
 
@@ -40,8 +40,6 @@ The fastest and easiest way to update your account!
   3. Send mail to:  
 658 High Street  
 Palo Alto, CA 94301 
-  4. Call:  
-1-650-322-4183 
 
 
 
