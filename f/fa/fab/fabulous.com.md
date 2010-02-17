@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabulous.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219010845id_/http%3A//www.fabulous.com/informationcenter/index.htm%3Fformdata%5Bqid%5D%3D190) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabulous.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218000712id_/http%3A//www.fabulous.com/informationcenter/index.htm%3Fformdata%5Bqid%5D%3D190) for the most accurate reproduction.*
 
 # Fabulous - Information Center
 
