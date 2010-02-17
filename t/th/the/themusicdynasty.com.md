@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themusicdynasty.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218115854id_/http%3A//www.themusicdynasty.com/forums/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themusicdynasty.com privacy policy that was archived on 2010-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100217043108id_/http%3A//www.themusicdynasty.com/forums/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - The Music Dynasty | The Internet's #1 Music Forum
 
@@ -61,7 +61,7 @@ If you have any problems with the registration process or your account login, pl
   
   
 Powered by vBulletin® Version 3.8.4  
-Copyright ©2000 - 2009, Jelsoft Enterprises Ltd. 
+Copyright ©2000 - 2010, Jelsoft Enterprises Ltd. 
 
 Search Engine Optimization by vBSEO 3.2.0
 
