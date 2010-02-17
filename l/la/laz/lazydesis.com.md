@@ -1,25 +1,27 @@
-> *The following text is extracted and transformed from the lazydesis.com privacy policy that was archived on 2009-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090725094816id_/http%3A//www.lazydesis.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazydesis.com privacy policy that was archived on 2010-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100217190616id_/http%3A//www.lazydesis.com/announcements/showthread.php%3Ft%3D158311) for the most accurate reproduction.*
 
-# Lazydesis - Privacy Policy
+# Privacy Policy - Lazydesis
 
-**Privacy Policy for http://www.lazydesis.com**
+_**Privacy Policy for[http://www.lazydesis.com](http://www.lazydesis.com/) **_
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at lazydesis@gmail.com. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **lazydesis@gmail.com**
 
-At http://www.lazydesis.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.lazydesis.com and how it is used. 
+At [http://www.lazydesis.com](http://www.lazydesis.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [http://www.lazydesis.com](http://www.lazydesis.com/) and how it is used. 
 
-**Log Files**  
-Like many other Web sites, http://www.lazydesis.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+_**Log Files**_
 
-**Cookies and Web Beacons**  
-http://www.lazydesis.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+Like many other Web sites, [http://www.lazydesis.com](http://www.lazydesis.com/) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Adbrite, Bidvertiser, Clicksor among others. 
+_**Cookies and Web Beacons**_
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://www.lazydesis.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+[http://www.lazydesis.com](http://www.lazydesis.com/) does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-http://www.lazydesis.com has no access to or control over these cookies that are used by third-party advertisers. 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Tribalfusion, Axill, Yieldbuild, DSNR among others.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.lazydesis.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on [http://www.lazydesis.com](http://www.lazydesis.com/) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites
+[http://www.lazydesis.com](http://www.lazydesis.com/) has no access to or control over these cookies that are used by third-party advertisers. 
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [http://www.lazydesis.com's](http://www.lazydesis.com%27s/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites 
