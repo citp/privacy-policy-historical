@@ -1,29 +1,31 @@
-> *The following text is extracted and transformed from the traveltowork.net privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219071729id_/http%3A//www.traveltowork.net/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveltowork.net privacy policy that was archived on 2010-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100217050636id_/http%3A//www.traveltowork.net/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | I travel to work, do you?
+# Privacy Policy | Travel, Work, Life...!
 
-### Privacy
+Your privacy is of utmost importance to us here at this blog Rest assured that any information you provide will only be used in accordance with this privacy statement.
 
-**traveltowork.net respects your privacy.**
+This policy may be updated or changed anytime and we encourage you to review it whenever you visit the site to make sure you understand how any personal information you provide will be used.
 
-Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of traveltowork.net.
+## Collection and Use of Information
 
-**Credit card details**
+We collect personally identifiable information such as names and email addresses only when voluntarily submitted. These information are used merely to fulfill a specific request, for example, to post a comment on our blog, to create an account in our Forum, or to subscribe to our mailing list. All emails and newsletters from this site allow you to opt out of further communications.
 
-traveltowork.net will never ask for Credit Card details and request that you do not enter it on any of the forms on traveltowork.net.
+## Distribution of Information
 
-**External Sites.**
+We never use or share any of those information in ways unrelated to the ones described above. We do not send spam and we do not sell your information to any company for marketing purposes. We may, however, share information with government agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or (3) investigating fraud which has already taken place.
 
-traveltowork.net is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
+## Cookies and Tracking Technology
 
-**Cookies**
+Our site may place a small file, called a cookie, on your hard drive to provide you with a better website. A cookie does not, in any way, give us access to your computer or to any personally identifiable information about you, other than the data you choose to share with us. It only helps us analyze web traffic or lets web applications respond to you as an individual.
 
-A “cookie” is a small data text file that is placed in your browser and allows traveltowork.net to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and traveltowork.net does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeeds.
+Our authorized third-party advertisers in the course of serving ads to you, may also place cookies on your browser or use tracking technology to collect information. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browser’s settings section.
 
-**Remember The Risks Whenever You Use The Internet**
+Google, one of our third-party advertisers, may add a cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. You can choose to opt out of Google’s use of cookies by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
 
-While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to traveltowork.net and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition other Internet sites or services that may be accessible through traveltowork.net have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions. 
+## Links to other Websites
 
-Please contact those vendors and others directly if you have any questions about their privacy policies.
+Our site may contain links to other websites of interest. However, once you use these links to leave our site, we do not anymore have control over that website. Such sites are not governed by this privacy statement and we cannot be responsible for the protection and privacy of any information you provide to those sites. Exercise caution and read the privacy statement applicable to the website in question.
 
-For any other information email [webmaster](mailto:rmak@traveltowork.net)
+## Privacy Contact Information
+
+Should you have any questions, concerns, or comments about our privacy policy, please contact us by email  directly at **webmaster @ traveltowork.net.**
