@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the revostock.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229064645id_/http%3A//www.revostock.com/privacy/Content.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revostock.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218125704id_/http%3A//www.revostock.com/privacy/Content.html) for the most accurate reproduction.*
 
-# RevoStock: Affordable Stock Video Footage, Music and Sound Effects
+# RevoStock: Affordable Stock Video Footage, After Effects Projects, Music and Sound Effects
 
 **REVOSTOCK.COM PRIVACY POLICY**
 
@@ -49,3 +49,6 @@ We collect personal and non-personal information in a non-identifying, anonymous
 **AMENDMENT TO PRIVACY POLICY**
 
 This policy is subject to change.  Any changes will be effective when a notice of the change is posted on the Website.  Please check this Privacy Policy periodically so that You are aware of any changes.
+
+[Sitemap](http://www.revostock.com/TextSitemap.html "Text Sitemap")  
+
