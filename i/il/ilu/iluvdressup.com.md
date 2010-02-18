@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iluvdressup.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429175259id_/http%3A//www.iluvdressup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iluvdressup.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218141951id_/http%3A//www.iluvdressup.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY - iLuvDressUp.com - Dress up games
 
@@ -26,7 +26,17 @@ ILuvDressUp will not share your information with anyone. The only exception shal
 
 **Collection of information and Third-Party sites and Sponsors**
 
-It is important that you understand that advertisers or Web sites that link to a ILuvDressUp site may collect personal information about you. The Privacy Policy does not apply to, and cannot control the activities of other advertisers or Web sites. We use third-party advertising companies to serve ads on our sites. These companies may use information about your visits to this and other sites in order to help them provide relevant ads to users. Third parties may also be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on our website. If you do not wish for these third-parties to place and read cookies you can set your browser to block them.
+It is important that you understand that advertisers or Web sites that link to a ILuvDressUp site may collect personal information about you. The Privacy Policy does not apply to, and cannot control the activities of other advertisers or Web sites.   
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp).   
+
+
+Google Adsense 
+
+  * Google, as a third party vendor, uses cookies to serve ads on GirlGames4u website. 
+  * Google's use of the DART cookie enables it to serve ads based on your visit to GirlGames4u site and other sites on the Internet. 
+  * You may opt out of the use of the DART cookie or change your preferences by visiting the google ads preferences page [here](http://www.google.com/ads/preferences/).
+
+
 
   
 **Chat and Messaging**  
