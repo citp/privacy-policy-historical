@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coldstonecreamery.com privacy policy that was archived on 2009-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091008044533id_/http%3A//www.coldstonecreamery.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldstonecreamery.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218183426id_/http%3A//www.coldstonecreamery.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
