@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artbeats.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221154229id_/http%3A//www.artbeats.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artbeats.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218153919id_/http%3A//www.artbeats.com/info/privacy) for the most accurate reproduction.*
 
-# Artbeats - Privacy Policy
+# Privacy Policy - Artbeats
 
 ### Philosophy
 
