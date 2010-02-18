@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phulki.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213114055id_/http%3A//www.phulki.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phulki.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218133832id_/http%3A//www.phulki.com/privacy.php) for the most accurate reproduction.*
 
 # Phulki Privacy Policy
 
@@ -56,4 +56,4 @@ We take appropriate security measures to protect against unauthorized access to 
 
 Please note that this Privacy Policy may change from time to time. This policy was last updated on June 04, 2008. 
 
-©2008 Phulki
+©2010 Phulki
