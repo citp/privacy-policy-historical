@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the joomvision.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101175300id_/http%3A//www.joomvision.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomvision.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218122508id_/http%3A//www.joomvision.com/JoomVision-Legal/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Professional Joomla Templates Club and Professional Joomla Extensions Club
-
-##  Privacy Policy
+# Privacy Policy
 
 ### 1\. Introduction
 
