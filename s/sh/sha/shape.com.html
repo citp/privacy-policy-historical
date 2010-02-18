@@ -1,19 +1,23 @@
-<!--The following is the downloaded HTML source of the shape.com privacy policy that was archived on 2009-08-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090825101251id_/http%3A//www.shape.com/subscribe/legal/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shape.com privacy policy that was archived on 2010-02-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100218123402id_/http%3A//www.shape.com/subscribe/legal/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 		<!-- <meta http-equiv="Content-Type" content="text/html; charset="> -->
-
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		
+		 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		
+		<!-- Google Verification -->
 		<meta name="verify-v1" content="JEZfic/WtsDLeQD2ixaEsreEITNCzqnjjHBwa6x/auI=">
-
 		<meta name="verify-v1" content="nzeYG8bHikk1+Qo4DD0VXDGvXc+Ti6xSiIPsLFqOKNE=">
 		<meta name="verify-v1" content="3LoU9v6BShf8su5Y1ORz4EzVJjOOI6dDYbHjr6mcfqE=">
 		<meta name="verify-v1" content="3/dlgV9qtdRIeAMfAcN7AreQLpIR/IRFHnYAHmBuUN4=">
 		<meta name="verify-v1" content="KuvBqu7bcqYQKQS45SdUwiYkS7JC986Q3pAlIpcXcX4=">
+		
+		<!-- BING Verification -->
+		<meta name="msvalidate.01" content="91DDECE346973F80B75543E0344E99C8">
 
 		<meta name="description" content="">
-<meta name="keywords" content="diet, healthy eating, fitness, recipes,exercise, health, beauty, fashion, online community, sweepstakes, giveaways"><title>Privacy Policy  : Legal : Shape.com: Diet, Fitness, Recipes, Healthy Eating Expertise</title><link href="/subscribe/legal/privacy_policy" rel="canonical">
+<meta name="keywords" content="diet, healthy eating, fitness, recipes,exercise, health, beauty, fashion, online community, sweepstakes, giveaways"><title>Privacy Policy  : Legal : Shape.com: Diet, Fitness, Recipes, Healthy Eating Expertise</title><link href="http://www.shape.com/subscribe/legal/privacy_policy" rel="canonical">
 <link href="/skins/ben/css/primary.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/skins/ben/css/forrest.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/styles/facebox.css" media="screen" rel="stylesheet" type="text/css">
@@ -33,6 +37,7 @@
 <script type="text/javascript" src="/jquery/jquery.stars.js"></script>
 <script type="text/javascript" src="/javascript/facebox.js"></script>
 <script type="text/javascript" src="/jquery/jquery.pngFix.pack.js"></script>
+<script type="text/javascript" src="/javascript/jquery.qtip.min.js"></script>
 <script type="text/javascript" src="http://serve.a-widget.com/kickFlash/scripts/swfobject2.js"></script>
 
 
@@ -48,7 +53,18 @@
 		var iadCookie = $.cookie('iad');
 
 		if(!isset(iadCookie) || iadCookie != 1) {
+			$('#wrapper').empty();
+
 			window.location = '/channel/public/ad';		}
+	}
+	//use a preg match to match any location within fitness
+	if(cleanLocation.match(/^\/fitness/i)) {
+		var fiadCookie = $.cookie('fiad');
+		if(!isset(fiadCookie) || fiadCookie != 1) {
+			$('#wrapper').empty();
+			//set the back location
+			$.cookie('fiadbl', cleanLocation, { path: '/', expires: 1 });
+			window.location = '/channel/public/fitness-ad';		}
 	}
 
 	function isset(  ) {
@@ -82,15 +98,68 @@
 
 		if(isset(vtCookie.has_account) && vtCookie.has_account == 1) {
 			hasStrengthAccount = true;
+			vtGender = vtCookie.gender;
 		}
 	}
 
 	function updateWeighInStats(stats) {
 		if(isset(stats)) {
 			for(var i in stats) {
-				$('span.vtStats_' + i).text(stats[i]);
+				if(i == 'goalWeight') {
+					if(stats[i] == false || stats[i] == '') {
+						stats[i] = 0;
+					}
+					$('span.vtStats_' + i).text(stats[i]);
+				}
+				if(i == 'bodyFat') {
+					if(stats[i] == false || stats[i] == 'None Entered') {
+						stats[i] = 'None Entered';
+					} else {
+						stats[i] = stats[i] + '%';
+					}
+					stats[i] = stats[i].replace(/%%/,'%');
+					$('span.vtStats_' + i).text(stats[i]);
+				}
+				if(i == 'weightLost') {
+					if(stats[i] == false) {
+						stats[i] = 0;
+						$('span.vtStats_' + i).text(stats[i]);
+					} else if(stats[i] < 0) {
+						$('span.vtStats_' + i).text(stats[i]*-1);
+						$('span.vtStats_weightLostTitle').text('Weight Gain');
+					} else {							
+						$('span.vtStats_' + i).text(stats[i]);
+						$('span.vtStats_weightLostTitle').text('Weight Loss');					
+					}
+				} 
+				if(i == 'inchesLost') {
+					if(stats[i] < 0) {
+						$('span.vtStats_' + i).text(stats[i]*-1);
+						$('span.vtStats_inchesLostTitle').text('Inches Gained');
+					} else {							
+						$('span.vtStats_' + i).text(stats[i]);
+						$('span.vtStats_inchesLostTitle').text('Inches Lost');					
+					}
+				}
+				if(i == 'currentWeight') {
+					$('span.vtStats_' + i).text(stats[i]);
+				}
 			}
 		}
+	}
+
+	function updateWeightGoal(weightGoal,weightLost) {
+
+		myCookie = $.cookie('virtualtrainer');
+		if(isset(myCookie)) {
+			myCookie = JSON.parse(myCookie);
+			myCookie.goalWeight = weightGoal;
+			myCookie = JSON.stringify(myCookie);
+			$.cookie('virtualtrainer',myCookie,{path: '/'});
+			updateWeighInStats(myCookie);
+		}
+		
+		
 	}
 
 	/*
@@ -171,6 +240,63 @@ $(document).ready(function() {
 	if(jQuery.support.opacity == false) {
 		$('.sponsored a img[src="http://m1.2mdn.net/viewad/817-grey.gif"]').parent().css('display', 'block').css('height', '1px').css('overflow', 'hidden');
 	}
+	if(hasStrengthAccount == false && hasShapeAccount == true) {
+		$('.hasShapeNoVt').css('display','none');
+		$('.vtRegHeading').html('Virtual Trainer: <strong>Register Now 100% Free.</strong>').css('padding-bottom', '10px');
+		$('.vtRegBoxTextTop').html('Ready for Success?');
+		$('.vtRegBoxTextNoShapeNoVt').css('display','none');
+		$('.vtRegBoxTextShapeNoVt').css('display','block');
+		$('#vtRegBoxSignUpImg').attr('src','/images/vt_landing_loggedin.jpg');
+	}
+	// Match all link elements with tooltip attributes
+	$('img[tooltip]').each(function(){
+		$(this).qtip({
+			content: $(this).attr('tooltip'), // Use the tooltip attribute of the element for the content
+			style: {
+			      padding: 2,
+			      background: '#FFFFFF',
+			      color: '#34A9CA',
+			      textAlign: 'center',
+			      fontSize: '10px',
+			      fontWeight: 'bold',
+			      border: {
+			         width: 3,
+			         radius: 3,
+			         color: '#FFFFFF'
+				  },
+					tip: {
+						corner: 'topMiddle',
+						color: '#FFFFFF',
+						size: { x: 6, y: 9 }
+					}
+			},
+			position: {
+				corner: {
+					target: 'topMiddle',
+					tooltip: 'bottomMiddle'
+				},
+				adjust: { screen: true }
+			},
+			hide: {
+				fixed: true
+			}    							     
+		});
+	});
+	$("form#newsletterSignUp").submit(function() {
+	      var newsletterEmail = $("form#newsletterSignUp input[name=email]").val();
+	      $.cookie('shapeNewsletterEmail',newsletterEmail,{path: '/'});
+	});
+	if(typeof(vtGender) != 'undefined' && vtGender == "Male") {
+		$("#measure1Label").html('Waist');
+		$("#measure1").attr('name','waist');
+		$("#measure2Label").html('Bicep');
+		$("#measure2").attr('name','bicep');
+		$("#measure3Label").html('Chest');
+		$("#measure3").attr('name','bust');
+		$("#measure4Label").html('Thigh');
+		$("#measure4").attr('name','thigh');
+	}
+		
 });
 
 var ajaxSubmitExt = function(form, dType) {
@@ -301,11 +427,43 @@ var changeTab = function(tab) {
 	});
 }
 
+function refreshAdsAfterWidgetSubmit() {
+	//$('#block_3585').load('/block/public/refresh-block');
+	//$('#block_3585').html(data);		
+	//$('#block_3585').html('<textarea rows=50 cols=50>' + data + '</textarea>');
+	/*
+	$.post("/block/public/refresh-block", { block: "3585" },
+	  function(data){
+		$('#block_3585').html('<textarea rows=50 cols=50>' + data + '</textarea>');	
+	  }, "html");
+	*/			
+		var blockId = topAd;			
+		$('#block_' + blockId).empty();			
+		$('#block_' + blockId).html("<iframe src='/block/public/refresh-block/id/" + blockId + "/cid/" + contentId + "' width='728px' height='90px' frameborder='0' vspace='0' hspace='0' marginwidth='0' marginheight='0' scrolling='no' noresize></iframe>");			
+			
+	for (var x = 0; x < rsBlocks.length; x++) {
+		//alert(rsBlocks[x]);
+		var blockId = rsBlocks[x];			
+		$('#block_' + rsBlocks[x]).empty();			
+		$('#block_' + rsBlocks[x]).html("<iframe src='/block/public/refresh-block/id/" + blockId + "/cid/" + contentId + "' width='300px' height='250px' frameborder='0' vspace='0' hspace='0' marginwidth='0' marginheight='0' scrolling='no' noresize></iframe>");			
+	}
+	
+	for (var x = 0; x < bottomBlocks.length; x++) {
+		//alert(bottomBlocks[x]);
+		var blockId = bottomBlocks[x];			
+		$('#block_' + bottomBlocks[x]).empty();			
+		$('#block_' + bottomBlocks[x]).html("<iframe src='/block/public/refresh-block/id/" + blockId + "/cid/" + contentId + "' width='120px' height='90px' frameborder='0' vspace='0' hspace='0' marginwidth='0' marginheight='0' scrolling='no' noresize></iframe>");			
+	}
+	
+}
 //Cufon.replace('.cufon-pc');
 //]]>
-</script><script src="http://community.shape.com/service/isUserLoggedIn.kickAction?callback=jsonp1580595706849&amp;_=1580595707074&amp;as=103284"></script>
+</script><script src="http://community.shape.com/service/isUserLoggedIn.kickAction?callback=jsonp1580595707255&amp;_=1580595707655&amp;as=103284"></script>
+		<!-- MN T:1 3803 3804 3934 3931 3932 -->
 	</head>
 	<body>
+		<div id="advertiser-bottom">
+		<div id="advertiser-top">
 		<div id="wrapper">
 
 			<!-- START: Masthead -->
@@ -314,23 +472,22 @@ var changeTab = function(tab) {
 					<div class="right">
 						<div class="logo">
 
+														<div class="upper_search">
+								<form name="search" action="/search" method="post">
+									<div class="input"><input type="text" name="keywords" title="Enter search terms..." value="Enter search terms..."></div>
+									<input type="image" src="/skins/ben/images/masthead/search_button.jpg">
+								</form>
+								
+								<div style="clear: both;"></div>
+							</div>
 							<div class="upper">
 
 								<div class="advert">
-	<a target="_blank" href="http://weidermags.com/redirect.aspx?&amp;cds_page_id=45236&amp;cds_mag_code=SHP&amp;p=N&amp;g=R&amp;at=A"><img alt="Subscribe to Shape Magazine" src="/media/subscribe_masthead.png"></a>
-</div>								<div class="shapelogo"><a href="/" border="0"><img src="/skins/ben/images/masthead/logo.png"></a></div>
+	<a target="_blank" href="https://w1.buysub.com/loc/SHP/magcover"><img alt="Subscribe to Shape Magazine" src="/media/subscribe_masthead.png"></a>
+</div>								
+								<div class="shapelogo"><a href="/" border="0"><img src="/skins/ben/images/masthead/logo.png"></a></div>
 
-								<div class="search">
-	<form name="search" action="/search" method="post">
-		<table border="0">
-			<tbody><tr>
-				<td><div class="input"><input type="text" name="keywords" title="Enter search terms..." value="Enter search terms..."></div></td>
-				<td><input type="image" src="/skins/ben/images/buttons/masthead_go.jpg"></td>
-			</tr>
-		</tbody></table>
-	</form>
-</div>
-
+								<div class="sweeps"><a href="/sweeps_and_promos"><img src="/skins/ben/images/masthead/sweeps_callout.png"></a></div>
 							</div>
 
 							<div class="lower">
@@ -341,9 +498,10 @@ var changeTab = function(tab) {
 	<a href="/health" id="menu_item_2715" class="unselected"><div>Health</div></a></li><li id="menu_item_wrapper_2718">
 	<a href="/beauty_and_style" id="menu_item_2718" class="unselected"><div>Beauty &amp; Style</div></a></li><li id="menu_item_wrapper_2716">
 	<a href="/lifestyle" id="menu_item_2716" class="unselected"><div>Lifestyle</div></a></li><li id="menu_item_wrapper_2717">
-	<a href="http://www.shape.com/kickapps/public/go-to-kickapps/place/community" id="menu_item_2717" class="unselected"><div>Community</div></a></li><li id="menu_item_wrapper_2808">
-	<a href="http://weidermags.com/redirect.aspx?&amp;cds_page_id=45236&amp;cds_mag_code=SHP&amp;p=N&amp;g=R&amp;at=N" id="menu_item_2808" class="selected"><div>Subscribe</div></a></li><li id="menu_item_wrapper_2809">
-	<a href="/sweeps_and_promos" id="menu_item_2809" class="unselected"><div>Sweeps/Products</div></a></li></ul>
+	<a href="http://www.shape.com/kickapps/public/go-to-kickapps/place/community" id="menu_item_2717" class="unselected"><div>Community</div></a></li><li id="menu_item_wrapper_4355">
+	<a href="/blogs" id="menu_item_4355" class="unselected"><div>Blogs</div></a></li><li id="menu_item_wrapper_4585">
+	<a href="/shapebride" id="menu_item_4585" class="unselected"><div>Shape Bride</div></a></li><li id="menu_item_wrapper_2808">
+	<a href="https://w1.buysub.com/loc/SHP/navbar_sub" id="menu_item_2808" class="selected"><div>Subscribe</div></a></li></ul>
 							</div>
 
 						</div>
@@ -367,21 +525,23 @@ var changeTab = function(tab) {
 			<div id="content">
 
 				<!-- START: Upper Content (Leaderboard & Customer Service) -->
-				<div id="content_upper">
+				<script type="text/javascript">var topAd = 3803;</script><div id="content_upper">
 	<div class="advert">
+		<div id="block_3803">
 		<script language="JavaScript" type="text/javascript">
-document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.other;dcopt=ist;sz=728x90;tile=1;layout=728x90_300x250_300x250;sa=728x90_300x250top;sa=728x90_300x250bottom;sa=728x90_160x600;article=' + contentId + ';ord=' + ord + '?" type="text/javascript"><\/script>');</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.other;dcopt=ist;sz=728x90;tile=1;layout=728x90_300x250_300x250;sa=728x90_300x250top;sa=728x90_300x250bottom;sa=728x90_160x600;article=3305;ord=896451087764162.9?" type="text/javascript"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/ami.shape.other;sz=728x90;tile=1;layout=728x90_300x250_300x250;sa=728x90_300x250top;sa=728x90_300x250bottom;sa=728x90_160x600;article=-1;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/ami.shape.other;sz=728x90;tile=1;layout=728x90_300x250_300x250;sa=728x90_300x250top;sa=728x90_300x250bottom;sa=728x90_160x600;article=-1;ord=123456789?" width="728" height="90" border="0" alt=""></a></noscript>	</div>
+document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.other;dcopt=ist;sz=728x90;tile=1;layout=728x90_300x250_300x250;sa=728x90_300x250top;sa=728x90_300x250bottom;sa=728x90_160x600;article=' + contentId + ';ord=' + ord + '?" type="text/javascript"><\/script>');</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.other;dcopt=ist;sz=728x90;tile=1;layout=728x90_300x250_300x250;sa=728x90_300x250top;sa=728x90_300x250bottom;sa=728x90_160x600;article=3305;ord=4252065071870234.5?" type="text/javascript"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/ami.shape.other;sz=728x90;tile=1;layout=728x90_300x250_300x250;sa=728x90_300x250top;sa=728x90_300x250bottom;sa=728x90_160x600;article=-1;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/ami.shape.other;sz=728x90;tile=1;layout=728x90_300x250_300x250;sa=728x90_300x250top;sa=728x90_300x250bottom;sa=728x90_160x600;article=-1;ord=123456789?" width="728" height="90" border="0" alt=""></a></noscript>		</div>
+	</div>
 
 	<div class="magazine">
 		<div class="magazine-left">
-        <img alt="Gift Shape Magazine as a Gift" src="/media/7/6327.jpg">
+        <img alt="Gift Shape Magazine as a Gift" src="/media/5/8145.jpg">
 </div>
 <div class="magazine-right">
 <strong>Shape Magazine</strong>
     <ul>
-      <li><a href="http://weidermags.com/redirect.aspx?&amp;cds_page_id=45236&amp;cds_mag_code=SHP&amp;p=N&amp;g=R&amp;at=S">Subscribe</a></li>
-      <li><a href="http://weidermags.com/redirect.aspx?cds_page_id=46251&amp;cds_mag_code=SHP&amp;p=N&amp;g=X&amp;at=S">Give a Gift</a></li>
+      <li><a href="https://w1.buysub.com/loc/SHP/subcenter_sub">Subscribe</a></li>
+      <li><a href="https://w1.buysub.com/loc/SHP/subcenter_gift">Give a Gift</a></li>
       <li><a href="https://w1.buysub.com/pubs/SR/SHP/SHP_entry2_08.jsp?cds_page_id=19387&amp;amp;cds_mag_code=SHP&amp;amp;id=1241484707435&amp;amp;lsid=91241951176022809&amp;vid=3">Renew</a></li>
       <li><a href="https://w1.buysub.com/loc/SHP/customer_care">Customer Service</a></li>
     </ul>
@@ -392,7 +552,7 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 
 
 				<!-- START: Breadcrumbs -->
-				<div id="breadcrumbs"><a href="/">HOME</a> &gt; <a href="/http://weidermags.com/redirect.aspx?&amp;cds_page_id=45236&amp;cds_mag_code=SHP&amp;p=N&amp;g=R&amp;at=N">SUBSCRIBE</a> &gt; <a href="/subscribe/legal">LEGAL</a> &gt; <a href="/subscribe/legal/privacy_policy" class="selected">PRIVACY POLICY </a></div>
+				<div id="breadcrumbs"><a href="/">HOME</a> &gt; <a href="/https://w1.buysub.com/loc/SHP/navbar_sub">SUBSCRIBE</a> &gt; <a href="/subscribe/legal">LEGAL</a> &gt; <a href="/subscribe/legal/privacy_policy" class="selected">PRIVACY POLICY </a></div>
 				<!-- START: Primary Data Columns -->
 				<div id="columns" class="columns-breadcrumbs">
 
@@ -428,7 +588,7 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 
 			setTimeout(function() { $(thisEl).parent().find('.accordion-item-content').slideDown(); }, speed + 50);
 
-			var clickSectionHeight = (parseFloat($(this).parent().find('.accordion-item-content').attr('title')) + sectionHeight);
+			var clickSectionHeight = (parseFloat($(this).parent().find('.accordion-item-content').attr('mytitle')) + sectionHeight);
 
 			if(maxHeight - clickSectionHeight < sponsorsHeight) {
 				$('.sponsors').hide();
@@ -450,7 +610,7 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 		var tallestSlide = 0;
 
 		$('#myshape .accordion .accordion-item-content').each(function() {
-			var slideTitle = $(this).attr('title');
+			var slideTitle = $(this).attr('mytitle');
 
 			if(slideTitle != null && slideTitle != '' && slideTitle != undefined) {
 				if(parseFloat(tallestSlide) < parseFloat(slideTitle)) {
@@ -523,10 +683,10 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 
 												<div class="accordion-item accordion-item-weigh_in">
 								<div class="sidebar-item-header accordion-item-header" style="cursor: pointer;">
-	<a href="#">Weekly weigh in</a>
+	<a href="#">Weekly Weigh In</a>
 </div>
 
-<div class="sidebar-item-content accordion-item-content" title="400">
+<div class="sidebar-item-content accordion-item-content" mytitle="400">
 	<div class="has_strength" style="display: none;">
 		<div style="float: left; width: 34px;">
 			<img src="/skins/ben/images/myshape/weigh_in.png">
@@ -541,14 +701,14 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 			<br>
 			Goal Weight: <span class="vtStats_goalWeight">120</span> lbs
 			<br>
-			Weight Loss: <span class="vtStats_weightLost">120</span> lbs
+			<span class="vtStats_weightLostTitle">Weight Loss</span>: <span class="vtStats_weightLost">120</span> lbs
 			<br>
-			Body Fat: <span class="vtStats_bodyFat">120</span>%
+			Body Fat: <span class="vtStats_bodyFat">12</span>
 			<br>
-			Inches Lost: <span class="vtStats_inchesLost">120</span> inches
+			<span class="vtStats_inchesLostTitle">Inches Lost</span>: <span class="vtStats_inchesLost">120</span> inches
 
 			<div style="font-weight: bold; padding: 10px 0 4px;">Weekly Weigh In:</div>
-			<form name="weeklyWeighIn" action="/virtualtrainer/public/update-weigh-in" method="post">
+			<form name="weeklyWeighIn" id="weeklyWeighIn" action="/virtualtrainer/public/update-weigh-in" method="post">
 				<table class="short">
 					<tbody><tr>
 						<td class="label">Weight:</td>
@@ -583,30 +743,27 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 					<div style="float: left; padding-top: 1px;">
 						<strong>Measurements:</strong>
 					</div>
-
-					<form name="weeklyMeasurements" action="/virtualtrainer/public/update-measurements" method="post">
+					<div style="clear: both"></div>
+					<form name="weeklyMeasurements" id="weeklyMeasurements" action="/virtualtrainer/public/update-measurements" method="post">
 						<div class="long-form">
 							<table class="long">
 								<tbody><tr>
-									<td>Bust:</td>
-									<td><input type="text" name="bust"></td>
-
-									<td>Hips:</td>
-									<td><input type="text" name="hip"></td>
+									<td id="measure1Label">Bust:</td>
+									<td><input type="text" name="bust" id="measure1"></td>
+									<td id="measure2Label">Hips:</td>
+									<td><input type="text" name="hip" id="measure2"></td>
 								</tr>
 
 								<tr>
-									<td>Waist:</td>
-									<td><input type="text" name="waist"></td>
-
-									<td>Thighs:</td>
-									<td><input type="text" name="thigh"></td>
+									<td id="measure3Label">Waist:</td>
+									<td><input type="text" name="waist" id="measure3"></td>
+									<td id="measure4Label">Thigh:</td>
+									<td><input type="text" name="thigh" id="measure4"></td>
 								</tr>
 
 								<tr>
 									<td class="label" colspan="4" style="text-align: right; padding-right: 20px; padding-top: 4px;">
-										<input type="hidden" name="bicep">
-										<input type="hidden" name="neck">
+
 
 										<input type="image" style="width: 75px; height: 18px; border: 0;" src="/skins/ben/images/myshape/btn_calculate.png">
 									</td>
@@ -642,7 +799,7 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 				Sign up for the Free Virtual Trainer to record your weight, measurements and body fat, schedule workouts and track your progress.
 			</p>
 
-			<a class="createStrength" href="/fitness/virtual_trainer/p/step/1" title="/fitness/virtual_trainer/p/step/1"><img src="/skins/ben/images/myshape/btn_create_strength.jpg"></a>
+			<a class="createStrength" href="/virtualtrainer/public/index" title="/virtualtrainer/public/index"><img src="/skins/ben/images/myshape/btn_create_strength.jpg"></a>
 		</div>
 	</div>
 
@@ -653,19 +810,45 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 			updateWeighInStats(vtCookie);
 
 			var weeklyWeighIn = new ajaxSubmitExt('form[name="weeklyWeighIn"]');
+			weeklyWeighIn.setAutoDisplayMessages(false);
 
 			weeklyWeighIn.setSuccessCb(function(response) {
 				updateWeighInStats(response.data);
-
+				$('form#weeklyWeighIn').find('.displayMessage').slideUp(function() {
+					$(this).remove();
+				});
 				$('form[name="weeklyWeighIn"]').find('input[type="text"]').val('');
 			});
 
+			weeklyWeighIn.setErrorCb(function(formEl, response) {
+				if(response.message != '' && response.message != null && response.message != undefined) {
+					$('form#weeklyWeighIn').find('.displayMessage').slideUp(function() {
+						$(this).remove();
+					});
+					$('form#weeklyWeighIn').prepend('<div class="displayMessage" style="text-align: center; color: red; display: none;">' + response.message + '</div>');
+					$('form#weeklyWeighIn').find('.displayMessage').slideDown();
+				}
+			});
+
 			var weeklyMeasurements = new ajaxSubmitExt('form[name="weeklyMeasurements"]');
+			weeklyMeasurements.setAutoDisplayMessages(false);
 
 			weeklyMeasurements.setSuccessCb(function(response) {
 				updateWeighInStats(response.data);
-
+				$('form#weeklyMeasurements').find('.displayMessage').slideUp(function() {
+					$(this).remove();
+				});
 				$('form[name="weeklyMeasurements"]').find('input[type="text"]').val('');
+			});
+
+			weeklyMeasurements.setErrorCb(function(formEl, response) {
+				if(response.message != '' && response.message != null && response.message != undefined) {
+					$('form#weeklyMeasurements').find('.displayMessage').slideUp(function() {
+						$(this).remove();
+					});
+					$('form#weeklyMeasurements').prepend('<div class="displayMessage" style="text-align: center; color: red; clear: both; display: none;">' + response.message + '</div>');
+					$('form#weeklyMeasurements').find('.displayMessage').slideDown();
+				}
 			});
 		} else {
 			if(shapeCookie != false && shapeCookie == 1) {
@@ -675,7 +858,8 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 			}
 		}
 	</script>
-</div>							</div>
+</div>
+							</div>
 														<div class="accordion-item accordion-item-virtual_trainer">
 								<div class="sidebar-item-header accordion-item-header accordion-item-header-square accordiom-item-virtual-trainer" style="cursor: pointer;">
 	<a href="/virtualtrainer/public/vt">Virtual Trainer Sign Up</a>
@@ -703,8 +887,8 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 	<a href="#">Recent Forum Topics</a>
 </div>
 
-<div class="sidebar-item-content accordion-item-content" title="301">
-	<div class="flash_RecentTopics flash-update"><p>This content requires the Flash Player. <a href="https://web.archive.org/web/20091026203255/http://www.adobe.com/go/getflashplayer">Download Flash Player</a>. Already have Flash Player? <a href="https://web.archive.org/web/20090825101251id_/http%3A//www.shape.com/subscribe/legal/privacy_policy?hasFlash=true&amp;">Click here.</a></p><span class="alt"><p>This content requires the Flash Player. <a href="https://web.archive.org/web/20091026203255/http://www.adobe.com/go/getflashplayer">Download Flash Player</a>. Already have Flash Player? <a href="https://web.archive.org/web/20090825101251id_/http%3A//www.shape.com/subscribe/legal/privacy_policy?hasFlash=true&amp;">Click here.</a></p><span class="alt">
+<div class="sidebar-item-content accordion-item-content" mytitle="301">
+	<div class="flash_RecentTopics flash-update"><p>This content requires the Flash Player. <a href="https://web.archive.org/web/20091026203255/http://www.adobe.com/go/getflashplayer">Download Flash Player</a>. Already have Flash Player? <a href="https://web.archive.org/web/20100218123402id_/http%3A//www.shape.com/subscribe/legal/privacy_policy?hasFlash=true&amp;">Click here.</a></p><span class="alt"><p>This content requires the Flash Player. <a href="https://web.archive.org/web/20091026203255/http://www.adobe.com/go/getflashplayer">Download Flash Player</a>. Already have Flash Player? <a href="https://web.archive.org/web/20100218123402id_/http%3A//www.shape.com/subscribe/legal/privacy_policy?hasFlash=true&amp;">Click here.</a></p><span class="alt">
 
 	</span></span></div>
 
@@ -857,9 +1041,9 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 
 			<div class="sidebar-content-outside ">
 										<div class="sidebar-item sidebar-item-weigh_in">
-							<div class="sidebar-item-header accordion-item-header">Weekly weigh in</div>
+							<div class="sidebar-item-header accordion-item-header">Weekly Weigh In</div>
 
-<div class="sidebar-item-content accordion-item-content" title="400">
+<div class="sidebar-item-content accordion-item-content" mytitle="400">
 	<div class="has_strength" style="display: none;">
 		<div style="float: left; width: 34px;">
 			<img src="/skins/ben/images/myshape/weigh_in.png">
@@ -874,14 +1058,14 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 			<br>
 			Goal Weight: <span class="vtStats_goalWeight">120</span> lbs
 			<br>
-			Weight Loss: <span class="vtStats_weightLost">120</span> lbs
+			<span class="vtStats_weightLostTitle">Weight Loss</span>: <span class="vtStats_weightLost">120</span> lbs
 			<br>
-			Body Fat: <span class="vtStats_bodyFat">120</span>%
+			Body Fat: <span class="vtStats_bodyFat">12</span>
 			<br>
-			Inches Lost: <span class="vtStats_inchesLost">120</span> inches
+			<span class="vtStats_inchesLostTitle">Inches Lost</span>: <span class="vtStats_inchesLost">120</span> inches
 
 			<div style="font-weight: bold; padding: 10px 0 4px;">Weekly Weigh In:</div>
-			<form name="weeklyWeighIn" action="/virtualtrainer/public/update-weigh-in" method="post">
+			<form name="weeklyWeighIn" id="weeklyWeighIn" action="/virtualtrainer/public/update-weigh-in" method="post">
 				<table class="short">
 					<tbody><tr>
 						<td class="label">Weight:</td>
@@ -916,30 +1100,27 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 					<div style="float: left; padding-top: 1px;">
 						<strong>Measurements:</strong>
 					</div>
-
-					<form name="weeklyMeasurements" action="/virtualtrainer/public/update-measurements" method="post">
+					<div style="clear: both"></div>
+					<form name="weeklyMeasurements" id="weeklyMeasurements" action="/virtualtrainer/public/update-measurements" method="post">
 						<div class="long-form">
 							<table class="long">
 								<tbody><tr>
-									<td>Bust:</td>
-									<td><input type="text" name="bust"></td>
-
-									<td>Hips:</td>
-									<td><input type="text" name="hip"></td>
+									<td id="measure1Label">Bust:</td>
+									<td><input type="text" name="bust" id="measure1"></td>
+									<td id="measure2Label">Hips:</td>
+									<td><input type="text" name="hip" id="measure2"></td>
 								</tr>
 
 								<tr>
-									<td>Waist:</td>
-									<td><input type="text" name="waist"></td>
-
-									<td>Thighs:</td>
-									<td><input type="text" name="thigh"></td>
+									<td id="measure3Label">Waist:</td>
+									<td><input type="text" name="waist" id="measure3"></td>
+									<td id="measure4Label">Thigh:</td>
+									<td><input type="text" name="thigh" id="measure4"></td>
 								</tr>
 
 								<tr>
 									<td class="label" colspan="4" style="text-align: right; padding-right: 20px; padding-top: 4px;">
-										<input type="hidden" name="bicep">
-										<input type="hidden" name="neck">
+
 
 										<input type="image" style="width: 75px; height: 18px; border: 0;" src="/skins/ben/images/myshape/btn_calculate.png">
 									</td>
@@ -975,7 +1156,7 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 				Sign up for the Free Virtual Trainer to record your weight, measurements and body fat, schedule workouts and track your progress.
 			</p>
 
-			<a class="createStrength" href="/fitness/virtual_trainer/p/step/1" title="/fitness/virtual_trainer/p/step/1"><img src="/skins/ben/images/myshape/btn_create_strength.jpg"></a>
+			<a class="createStrength" href="/virtualtrainer/public/index" title="/virtualtrainer/public/index"><img src="/skins/ben/images/myshape/btn_create_strength.jpg"></a>
 		</div>
 	</div>
 
@@ -986,19 +1167,45 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 			updateWeighInStats(vtCookie);
 
 			var weeklyWeighIn = new ajaxSubmitExt('form[name="weeklyWeighIn"]');
+			weeklyWeighIn.setAutoDisplayMessages(false);
 
 			weeklyWeighIn.setSuccessCb(function(response) {
 				updateWeighInStats(response.data);
-
+				$('form#weeklyWeighIn').find('.displayMessage').slideUp(function() {
+					$(this).remove();
+				});
 				$('form[name="weeklyWeighIn"]').find('input[type="text"]').val('');
 			});
 
+			weeklyWeighIn.setErrorCb(function(formEl, response) {
+				if(response.message != '' && response.message != null && response.message != undefined) {
+					$('form#weeklyWeighIn').find('.displayMessage').slideUp(function() {
+						$(this).remove();
+					});
+					$('form#weeklyWeighIn').prepend('<div class="displayMessage" style="text-align: center; color: red; display: none;">' + response.message + '</div>');
+					$('form#weeklyWeighIn').find('.displayMessage').slideDown();
+				}
+			});
+
 			var weeklyMeasurements = new ajaxSubmitExt('form[name="weeklyMeasurements"]');
+			weeklyMeasurements.setAutoDisplayMessages(false);
 
 			weeklyMeasurements.setSuccessCb(function(response) {
 				updateWeighInStats(response.data);
-
+				$('form#weeklyMeasurements').find('.displayMessage').slideUp(function() {
+					$(this).remove();
+				});
 				$('form[name="weeklyMeasurements"]').find('input[type="text"]').val('');
+			});
+
+			weeklyMeasurements.setErrorCb(function(formEl, response) {
+				if(response.message != '' && response.message != null && response.message != undefined) {
+					$('form#weeklyMeasurements').find('.displayMessage').slideUp(function() {
+						$(this).remove();
+					});
+					$('form#weeklyMeasurements').prepend('<div class="displayMessage" style="text-align: center; color: red; clear: both; display: none;">' + response.message + '</div>');
+					$('form#weeklyMeasurements').find('.displayMessage').slideDown();
+				}
 			});
 		} else {
 			if(shapeCookie != false && shapeCookie == 1) {
@@ -1008,7 +1215,8 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 			}
 		}
 	</script>
-</div>						</div>
+</div>
+						</div>
 												<div class="sidebar-item sidebar-item-virtual_trainer">
 							<div class="sidebar-item-header accordion-item-header accordion-item-header-square accordiom-item-virtual-trainer">Virtual Trainer Sign Up</div>
 
@@ -1030,8 +1238,8 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 							
 <div class="sidebar-item-header accordion-item-header">Recent Forum Topics</div>
 
-<div class="sidebar-item-content accordion-item-content" title="301">
-	<div class="flash_RecentTopics flash-update"><p>This content requires the Flash Player. <a href="https://web.archive.org/web/20091026203255/http://www.adobe.com/go/getflashplayer">Download Flash Player</a>. Already have Flash Player? <a href="https://web.archive.org/web/20090825101251id_/http%3A//www.shape.com/subscribe/legal/privacy_policy?hasFlash=true&amp;">Click here.</a></p><span class="alt">
+<div class="sidebar-item-content accordion-item-content" mytitle="301">
+	<div class="flash_RecentTopics flash-update"><p>This content requires the Flash Player. <a href="https://web.archive.org/web/20091026203255/http://www.adobe.com/go/getflashplayer">Download Flash Player</a>. Already have Flash Player? <a href="https://web.archive.org/web/20100218123402id_/http%3A//www.shape.com/subscribe/legal/privacy_policy?hasFlash=true&amp;">Click here.</a></p><span class="alt">
 
 	</span></div>
 
@@ -1135,32 +1343,174 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 </div></div>
 
 <div class="right-column-fixed">
-              <b>SHAPE.com Privacy Policy</b> 
-<p>Thank you for visiting Shape.com, a Weider Interactive Networks, Inc. ("WIN") site. WIN is committed to providing our visitors and members with content and services characterized by outstanding quality and customer service. Our Online Privacy Policy continues our commitment to serve you and to protect your privacy online. </p>
-<p>BY USING OUR WEBSITE, YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY. Accordingly, please review the following carefully so that you understand our privacy practices in regards to: 
+              <b>SHAPE.com Privacy Policy</b>
+<p>Thank you for visiting Shape.com, a Weider Interactive Networks, Inc. ("WIN")
+	site. WIN is committed to providing our visitors and members with content and
+	services characterized by outstanding quality and customer service. Our Online
+	Privacy Policy continues our commitment to serve you and to protect your privacy
+	online. </p>
+<p>BY USING OUR WEBSITE, YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY. Accordingly,
+	please review the following carefully so that you understand our privacy practices
+	in regards to:
 </p><ul>
-<li><a href="http://producer.shape.com/content/content/edit/ctype/generic/cid/3305#children">Children under 13</a></li>
-<li><a href="http://producer.shape.com/content/content/edit/ctype/generic/cid/3305#collectinfo">Information we collect</a></li>
-<li><a href="http://producer.shape.com/content/content/edit/ctype/generic/cid/3305#infoweuse">How your information will be used</a></li>
-<li><a href="http://producer.shape.com/content/content/edit/ctype/generic/cid/3305#correctinfo">How you can correct your information</a></li>
-<li><a href="http://producer.shape.com/content/content/edit/ctype/generic/cid/3305#opt-out">Opt-out information</a></li>
-<li><a href="http://producer.shape.com/content/content/edit/ctype/generic/cid/3305#security">Security and passwords</a></li>
-<li><a href="http://producer.shape.com/content/content/edit/ctype/generic/cid/3305#misc">Miscellaneous</a></li></ul>
+	<li><a href="#children">Children
+			under 13</a></li>
+	<li><a href="#collectinfo">Information
+			we collect</a></li>
+	<li><a href="#infoweuse">How
+			your information will be used</a></li>
+	<li><a href="#correctinfo">How
+			you can correct your information</a></li>
+	<li><a href="#opt-out">Opt-out
+			information</a></li>
+	<li><a href="#security">Security
+			and passwords</a></li>
+	<li><a href="#misc">Miscellaneous</a></li>
+</ul>
 <p>If you have questions about this Privacy Policy, please contact us at <a href="mailto:OnlinePrivacy@weiderinet.com">OnlinePrivacy@weiderinet.com</a> </p>
-<p><a name="children"><b>Children Under 13:</b></a><br>WIN cares about the safety of children. Since our content and services are not directed towards kids, children under 13 are not allowed to register with our website or to participate in public posting areas on our site. As a reminder, children should always get permission from their parents before sending any information about themselves (such as their names, e-mail addresses, and phone numbers) over the Internet, to us or to anyone else. </p>
-<p><a name="collectinfo"><b>Information We Collect:</b></a><br>Generally, the information we gather on our website falls into two categories: (1) information you supply when you register, sign up for our product offerings, participate in sweepstakes, contests, surveys and promotions, or send us correspondence, and (2) tracking information collected as you navigate through our site. Third-party providers featured on or linked to our website, such as vendors of products and services offered through our site, may gather the same kinds of information about you. </p>
+<p><a name="children"><b>Children Under 13:</b></a><br>
+	WIN cares about the safety of children. Since our content and services are
+		not directed towards kids, children under 13 are not allowed to register with
+		our website or to participate in public posting areas on our site. As a reminder,
+		children should always get permission from their parents before sending any
+		information about themselves (such as their names, e-mail addresses, and phone
+		numbers) over the Internet, to us or to anyone else. </p>
+<p><a name="collectinfo"><b>Information We Collect:</b></a><br>
+	Generally, the information we gather on our website falls into two categories:
+		(1) information you supply when you register, sign up for our product offerings,
+		participate in sweepstakes, contests, surveys and promotions, or send us correspondence,
+		and (2) tracking information collected as you navigate through our site. Third-party
+		providers featured on or linked to our website, such as vendors of products
+		and services offered through our site, may gather the same kinds of information
+		about you. </p>
 <p>
-</p><blockquote><u>Personally Identifiable Information</u><br>To use certain features on our sites, we ask you to register. When you register, we collect personally identifiable information about you including your name, e-mail address, user name and password. We may also ask for some additional information, such as birth date, fitness goals, content interests, and the like, but you're free to register without providing this information if you prefer. In addition, we may ask you for personal information when you sign up for products and/or services, complete a survey, or report a problem with our site. Generally, we use this information to communicate with you, process your orders and to help improve our site. 
-<p></p>
-<p>From time to time, we also may offer contests or other promotions involving marketing or advertising partners. If you choose to participate in one of these contests or promotions, you'll have to provide some information about yourself (such as name, address, and e-mail address). Generally, we use this information to verify eligibility and to notify winners. We may share this information with co-sponsors of the contest or other promotional partners, but we will always identify that another party is involved. We don't control these third parties' privacy practices, and our Privacy Policy does not apply to their collection and use of personal information. We urge you to review their privacy policies and learn how they will use the information before participating. If you don't want us to collect the information requested in the promotion, or to provide it to our co-sponsors or partners, please do not participate in the contest or promotion. </p>
-<p><u>Aggregate Information</u><br>To help us serve your needs better, we use "cookies" to store and sometimes track user information. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. The help function on most browsers contains information on how to set your browser to notify you before accepting cookies or to disable cookies entirely. However, if you don't accept cookies, you won't be able to take advantage of various features on our site that are available to other visitors. In addition, we use a third-party advertising company, DoubleClick, to serve ads when you visit our site. Occasionally, in the course of serving advertisements to our site, advertisers or our third-party advertiser may place or recognize cookies on your browser. WIN does not control and is not responsible for these cookies. Information about your visits to our site, such as the number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies and how to "opt-out," please <a href="http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&amp;" target="_new">click here</a>.</p>
-<p>When you use our site, we may also collect your browser type, access time, and/or Internet Protocol ("IP") address, and keep records of this information. Your IP address is a number that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you request) can be sent to you. Your IP address does not tell us who you are. Like the IP address, none of this other information identifies you personally either; we collect it for aggregate reporting on site activity that we, and our advertisers, may use. For example, we may want to know how long the average user spends on our site, which pages or features get the most attention, and the like. The aggregate information helps to understand our audience and confirm the value of the advertising on our website. </p></blockquote>
-<p><a name="infoweuse"><b>How Your Information Will Be Used:</b></a><br>Among our primary goals in collecting information is to provide you with a customized experience when visiting our site and to make our site more valuable to you. We try to ensure that the banner advertisements we deliver to you are consistent with your interests. We may also e-mail you with messages and advertising that we think may be of interest to you. </p>
-<p>To make your online experience more useful and enjoyable, our site includes links to other websites, and provides access to products and services offered by third parties. We share with these third parties such information as is necessary to provide the products or services. We will not provide your e-mail address to such third parties unless it's necessary to provide services you have requested, or to allow you to participate in a co-sponsored promotion. We also may provide links to other websites, and provide access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services or conduct other transactions through our website, use of any information you provide is governed by the privacy policy and practices of the operator of the site you're visiting or the provider of such products or services. When you provide information in the course of obtaining products or services through our site, use of any information you provide may be governed by the privacy policy and practices of the provider of those products or services, even if it appears that you're on our site throughout the transaction. The provider's privacy policy and practices may differ from ours. If you can't find the privacy policy of any of our provider partners via a link either from the site's homepage or from the pages on which the products or services are offered, you should contact the provider directly for more information. </p>
-<p>We may disclose your personal information when we believe disclosure is (i) required by law or necessary for compliance with legal process, or necessary, in our good faith belief, in order to conform with the edicts of the law or comply with legal process; (ii) necessary to enforce our <a href="http://producer.shape.com/legal/">Visitor Agreement</a> or other agreements between you and us; (iii) necessary to protect the rights, safety or interests of other visitors and members of our site or other members of the public; and/or (iv) necessary to protect the rights or interests of WIN or its partners, sponsors or affiliates. As our business grows, we may buy or sell various assets. In the event that WIN (or a significant portion of our stock), or our assets or our site (or a significant portion thereof) is acquired by another company, information on our visitors and members would be among the transferred assets. We may also disclose aggregate information to companies that provide us with financing, technology, and corporate, financial and legal advice, as well as to our partners and visitors. You acknowledge and agree to disclosure in each of the foregoing circumstances. </p>
-<p><a name="security"><b>Security and Passwords:</b></a><br>The personally identifiable information we collect is securely stored within our database, and we use standard, industry-wide procedures such as encryption, firewalls and SSL (Secure Socket Layers) for protecting your information. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a message you post to any message board, discussion group, or other public posting area on our sites is available to anyone with Internet access. If you don't want people to know your name or e-mail address, for example, make sure not to include it in any message you post publicly. Please see our <a href="http://producer.shape.com/legal/">Visitor Agreement</a> for more information related to posting materials on our site, including our use of such materials. We recommend that you not disclose your password to anyone. </p>
-<p><b>Unauthorized Use/Hacking:</b><br>WIN's website and system are made available for lawful activities by authorized users only. Any person using the site without authority or for any unlawful activity are subject to having his or her activities monitored, recorded, investigated, examined and/or disclosed by or to WIN and its agents, and law enforcement. WIN may also monitor and record the activities of authorized users. Any information so recorded may be disclosed in accordance with the provisions of this Privacy Policy. </p>
-<p><a name="misc"><b>Miscellaneous:</b></a><br>The Internet is an evolving medium. Accordingly, WIN reserves the right to change this Privacy Policy. If we need to change our Privacy Policy at some point in the future, we'll post the changes or an amended Privacy Policy. Your continued use of the site or any of the services offered therein following any such posting will constitute your acceptance of all changes. In addition, by visiting any of our sites, you agree that your visit, and any dispute over privacy, is governed by this Privacy Policy and our <a href="http://producer.shape.com/legal/">Visitor Agreement</a>. Please read both carefully before using or registering with any of our sites. </p></div>
+</p><blockquote><u>Personally Identifiable Information</u><br>
+	To use certain features on our sites, we ask you to register. When you register,
+		we collect personally identifiable information about you including your name,
+		e-mail address, user name and password. We may also ask for some additional
+		information, such as birth date, fitness goals, content interests, and the
+		like, but you're free to register without providing this information if you
+		prefer. In addition, we may ask you for personal information when you sign
+		up for products and/or services, complete a survey, or report a problem with
+		our site. Generally, we use this information to communicate with you, process
+		your orders and to help improve our site.
+	<p></p>
+	<p>From time to time, we also may offer contests or other promotions involving
+		marketing or advertising partners. If you choose to participate in one of these
+		contests or promotions, you'll have to provide some information about yourself
+		(such as name, address, and e-mail address). Generally, we use this information
+		to verify eligibility and to notify winners. We may share this information
+		with co-sponsors of the contest or other promotional partners, but we will
+		always identify that another party is involved. We don't control these third
+		parties' privacy practices, and our Privacy Policy does not apply to their
+		collection and use of personal information. We urge you to review their privacy
+		policies and learn how they will use the information before participating.
+		If you don't want us to collect the information requested in the promotion,
+		or to provide it to our co-sponsors or partners, please do not participate
+		in the contest or promotion. </p>
+	<p><u>Aggregate Information</u><br>
+		To help us serve your needs better, we use "cookies" to store and sometimes
+		track user information. A cookie is a small amount of data that is sent to
+		your browser from a web server and stored on your computer's hard drive. The
+		help function on most browsers contains information on how to set your browser
+		to notify you before accepting cookies or to disable cookies entirely. However,
+		if you don't accept cookies, you won't be able to take advantage of various
+		features on our site that are available to other visitors. In addition, we
+		use a third-party advertising company, DoubleClick, to serve ads when you visit
+		our site. Occasionally, in the course of serving advertisements to our site,
+		advertisers or our third-party advertiser may place or recognize cookies on
+		your browser. WIN does not control and is not responsible for these cookies.
+		Information about your visits to our site, such as the number of times you
+		have viewed an ad (but not your name, address or other personal information),
+		is used to serve ads to you. For more information about DoubleClick, cookies
+		and how to "opt-out," please <a href="http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&amp;" target="_new">click
+		here</a>.</p>
+	<p>When you use our site, we may also collect your browser type, access time,
+		and/or Internet Protocol ("IP") address, and keep records of this information.
+		Your IP address is a number that is used by computers connected to the Internet
+		to identify your computer so that data (such as the web pages you request)
+		can be sent to you. Your IP address does not tell us who you are. Like the
+		IP address, none of this other information identifies you personally either;
+		we collect it for aggregate reporting on site activity that we, and our advertisers,
+		may use. For example, we may want to know how long the average user spends
+		on our site, which pages or features get the most attention, and the like.
+		The aggregate information helps to understand our audience and confirm the
+		value of the advertising on our website. </p>
+</blockquote>
+<p><a name="infoweuse"><b>How Your Information Will Be Used:</b></a><br>
+	Among our primary goals in collecting information is to provide you with
+		a customized experience when visiting our site and to make our site more valuable
+		to you. We try to ensure that the banner advertisements we deliver to you are
+		consistent with your interests. We may also e-mail you with messages and advertising
+		that we think may be of interest to you. </p>
+<p>To make your online experience more useful and enjoyable, our site includes
+	links to other websites, and provides access to products and services offered
+	by third parties. We share with these third parties such information as is necessary
+	to provide the products or services. We will not provide your e-mail address
+	to such third parties unless it's necessary to provide services you have requested,
+	or to allow you to participate in a co-sponsored promotion. We also may provide
+	links to other websites, and provide access to products and services offered
+	by third parties, whose privacy policies we do not control. When you access
+	another website or purchase products or services or conduct other transactions
+	through our website, use of any information you provide is governed by the privacy
+	policy and practices of the operator of the site you're visiting or the provider
+	of such products or services. When you provide information in the course of
+	obtaining products or services through our site, use of any information you
+	provide may be governed by the privacy policy and practices of the provider
+	of those products or services, even if it appears that you're on our site throughout
+	the transaction. The provider's privacy policy and practices may differ from
+	ours. If you can't find the privacy policy of any of our provider partners via
+	a link either from the site's homepage or from the pages on which the products
+	or services are offered, you should contact the provider directly for more information. </p>
+<p>We may disclose your personal information when we believe disclosure is (i)
+	required by law or necessary for compliance with legal process, or necessary,
+	in our good faith belief, in order to conform with the edicts of the law or
+	comply with legal process; (ii) necessary to enforce our <a href="http://www.shape.com/subscribe/legal/">Visitor
+	Agreement</a> or other agreements between you and us; (iii) necessary to protect
+	the rights, safety or interests of other visitors and members of our site or
+	other members of the public; and/or (iv) necessary to protect the rights or
+	interests of WIN or its partners, sponsors or affiliates. As our business grows,
+	we may buy or sell various assets. In the event that WIN (or a significant portion
+	of our stock), or our assets or our site (or a significant portion thereof)
+	is acquired by another company, information on our visitors and members would
+	be among the transferred assets. We may also disclose aggregate information
+	to companies that provide us with financing, technology, and corporate, financial
+	and legal advice, as well as to our partners and visitors. You acknowledge and
+	agree to disclosure in each of the foregoing circumstances. </p>
+<p><a name="security"><b>Security and Passwords:</b></a><br>
+	The personally identifiable information we collect is securely stored within
+		our database, and we use standard, industry-wide procedures such as encryption,
+		firewalls and SSL (Secure Socket Layers) for protecting your information. However,
+		as effective as encryption technology is, no security system is impenetrable.
+		We cannot guarantee the security of our database, nor can we guarantee that
+		information you supply won't be intercepted while being transmitted to us over
+		the Internet. And, of course, any information you include in a message you
+		post to any message board, discussion group, or other public posting area on
+		our sites is available to anyone with Internet access. If you don't want people
+		to know your name or e-mail address, for example, make sure not to include
+		it in any message you post publicly. Please see our <a href="http://www.shape.com/subscribe/legal/">Visitor
+		Agreement</a> for more information related to posting materials on our site,
+		including our use of such materials. We recommend that you not disclose your
+		password to anyone. </p>
+<p><b>Unauthorized Use/Hacking:</b><br>
+	WIN's website and system are made available for lawful activities by authorized
+		users only. Any person using the site without authority or for any unlawful
+		activity are subject to having his or her activities monitored, recorded, investigated,
+		examined and/or disclosed by or to WIN and its agents, and law enforcement.
+		WIN may also monitor and record the activities of authorized users. Any information
+		so recorded may be disclosed in accordance with the provisions of this Privacy
+		Policy. </p>
+<p><a name="misc"><b>Miscellaneous:</b></a><br>
+	The Internet is an evolving medium. Accordingly, WIN reserves the right to
+		change this Privacy Policy. If we need to change our Privacy Policy at some
+		point in the future, we'll post the changes or an amended Privacy Policy. Your
+		continued use of the site or any of the services offered therein following
+		any such posting will constitute your acceptance of all changes. In addition,
+		by visiting any of our sites, you agree that your visit, and any dispute over
+		privacy, is governed by this Privacy Policy and our <a href="http://www.shape.com/subscribe/legal/">Visitor
+		Agreement</a>. Please read both carefully before using or registering with
+		any of our sites. </p>
+</div>
 
 
     <!-- START: Related Items -->
@@ -1177,9 +1527,9 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 							<!--
 							3804							-->
 
-							<div class="item"><div style="width: 300px;"><script language="JavaScript" type="text/javascript">
+							<script type="text/javascript">var rsBlocks = ["3800","3801","3802"];</script><div class="item" id="block_3800"><div style="width: 300px;"><script language="JavaScript" type="text/javascript">
 document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.other;sz=300x250;tile=3;layout=728x90_300x250_300x250;sa=728x90_300x250bottom;article=' + contentId +';ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.other;sz=300x250;tile=3;layout=728x90_300x250_300x250;sa=728x90_300x250bottom;article=3305;ord=896451087764162.9?" type="text/javascript"></script>
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.other;sz=300x250;tile=3;layout=728x90_300x250_300x250;sa=728x90_300x250bottom;article=3305;ord=4252065071870234.5?" type="text/javascript"></script>
 <noscript>
 <a href="http://ad.doubleclick.net/jump/ami.shape.other;sz=300x250;tile=3;layout=728x90_300x250_300x250;sa=728x90_300x250bottom;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/ami.shape.other;sz=300x250;tile=3;layout=728x90_300x250_300x250;sa=728x90_300x250bottom;ord=123456789?" width="300" height="250" border="0" alt=""></a>
 </noscript></div></div><script type="text/javascript">
@@ -1194,9 +1544,9 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 </script>
 <div class="item">
 	<div id="frizz"></div>
-</div><div class="item"><div style="width: 300px;"><script language="JavaScript" type="text/javascript">
+</div><div class="item" id="block_3801"><div style="width: 300px;"><script language="JavaScript" type="text/javascript">
 document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.other;sz=300x250;tile=4;layout=728x90_300x250_300x250;sa=728x90_300x250bottom;article=' + contentId +';ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.other;sz=300x250;tile=4;layout=728x90_300x250_300x250;sa=728x90_300x250bottom;article=3305;ord=896451087764162.9?" type="text/javascript"></script>
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.other;sz=300x250;tile=4;layout=728x90_300x250_300x250;sa=728x90_300x250bottom;article=3305;ord=4252065071870234.5?" type="text/javascript"></script>
 <noscript>
 <a href="http://ad.doubleclick.net/jump/ami.shape.other;sz=300x250;tile=4;layout=728x90_300x250_300x250;sa=728x90_300x250bottom;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/ami.shape.other;sz=300x250;tile=4;layout=728x90_300x250_300x250;sa=728x90_300x250bottom;ord=123456789?" width="300" height="250" border="0" alt=""></a>
 </noscript></div></div><!--[if IE]>
@@ -1210,9 +1560,9 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 <param name="allowScriptAccess" value="always">
 <param name="allowNetworking" value="all">
 </object>
-<script type="text/javascript" src="http://widgets.clearspring.com/o/4a82f30e20957783/4a82f351a9f16ed9/4a82f30e20957783/1ca84d66/widget.js"></script><div class="item"><div style="width: 300px;"><script language="JavaScript" type="text/javascript">
+<script type="text/javascript" src="http://widgets.clearspring.com/o/4a82f30e20957783/4a82f351a9f16ed9/4a82f30e20957783/1ca84d66/widget.js"></script><div class="item" id="block_3802"><div style="width: 300px;"><script language="JavaScript" type="text/javascript">
 document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.other;sz=300x250;tile=5;layout=728x90_300x250_300x250;sa=728x90_300x250bottom;article=' + contentId +';ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.other;sz=300x250;tile=5;layout=728x90_300x250_300x250;sa=728x90_300x250bottom;article=3305;ord=896451087764162.9?" type="text/javascript"></script>
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.other;sz=300x250;tile=5;layout=728x90_300x250_300x250;sa=728x90_300x250bottom;article=3305;ord=4252065071870234.5?" type="text/javascript"></script>
 <noscript>
 <a href="http://ad.doubleclick.net/jump/ami.shape.other;sz=300x250;tile=5;layout=728x90_300x250_300x250;sa=728x90_300x250bottom;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/ami.shape.other;sz=300x250;tile=5;layout=728x90_300x250_300x250;sa=728x90_300x250bottom;ord=123456789?" width="300" height="250" border="0" alt=""></a>
 </noscript></div></div>						</div>
@@ -1225,184 +1575,188 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 					<!--
 					3934					-->
 
-					<div style="clear: both; padding-top: 20px;">
+					<script type="text/javascript">var bottomBlocks = ["3470","3471","3472","3473","3474","3475","3476","3477","3478","3479","3480"];</script><div style="clear: both; padding-top: 20px;">
 	<table border="0" width="100%">
 		<tbody><tr valign="bottom">
 
 			
 			<td style="text-align: center; padding-bottom: 6px;">
-
-			<a href="http://www.pilatesforpink.com"><img src="http://www.shape.com/media/7/5887.jpg" width="120" height="90" alt="" title="" border="0"></a>
 				
-			</td>
 
-			
-			<td style="text-align: center; padding-bottom: 6px;">
-
-			 <!-- begin DART for channel: - Ad Dimension: 120 x 90 (tile=16)-->
+			<div class="item" id="block_3470"> <!-- begin DART for channel: - Ad Dimension: 120 x 90 (tile=16)-->
   <script language="JavaScript" type="text/javascript">
 
 		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=16;ord=' + ord + '?" type="text/javascript"><\/script>');
-		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=16;ord=896451087764162.9?" type="text/javascript"></script>
+		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=16;ord=4252065071870234.5?" type="text/javascript"></script>
   <noscript>
   <a href="http://ad.doubleclick.net/jump/ami.shape.home;sz=120x90;tile=16;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/ami.shape.home/;sz=120x90;tile=16;ord=123456789?" width="120" height="90" border="0" alt=""></a>
   </noscript>
-  <!-- end DART for channel: - Ad Dimension: 120 x 90 -->
+  <!-- end DART for channel: - Ad Dimension: 120 x 90 --></div>				
 				
 			</td>
 
 			
 			<td style="text-align: center; padding-bottom: 6px;">
+				
 
-			 <!-- begin DART for channel: - Ad Dimension: 120 x 90 (tile=15)-->
+			<div class="item" id="block_3471"> <!-- begin DART for channel: - Ad Dimension: 120 x 90 (tile=15)-->
   <script language="JavaScript" type="text/javascript">
 
 		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=15;ord=' + ord + '?" type="text/javascript"><\/script>');
-		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=15;ord=896451087764162.9?" type="text/javascript"></script>
+		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=15;ord=4252065071870234.5?" type="text/javascript"></script>
   <noscript>
   <a href="http://ad.doubleclick.net/jump/ami.shape.home;sz=120x90;tile=15;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/ami.shape.home/;sz=120x90;tile=15;ord=123456789?" width="120" height="90" border="0" alt=""></a>
   </noscript>
-  <!-- end DART for channel: - Ad Dimension: 120 x 90 -->
+  <!-- end DART for channel: - Ad Dimension: 120 x 90 --></div>				
 				
 			</td>
 
 			
 			<td style="text-align: center; padding-bottom: 6px;">
+				
 
-			 <!-- begin DART for channel: - Ad Dimension: 120 x 90 (tile=14)-->
+			<div class="item" id="block_3472"> <!-- begin DART for channel: - Ad Dimension: 120 x 90 (tile=14)-->
   <script language="JavaScript" type="text/javascript">
 
 		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=14;ord=' + ord + '?" type="text/javascript"><\/script>');
-		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=14;ord=896451087764162.9?" type="text/javascript"></script>
+		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=14;ord=4252065071870234.5?" type="text/javascript"></script>
   <noscript>
   <a href="http://ad.doubleclick.net/jump/ami.shape.home;sz=120x90;tile=14;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/ami.shape.home/;sz=120x90;tile=14;ord=123456789?" width="120" height="90" border="0" alt=""></a>
   </noscript>
-  <!-- end DART for channel: - Ad Dimension: 120 x 90 -->
+  <!-- end DART for channel: - Ad Dimension: 120 x 90 --></div>				
 				
 			</td>
 
 			
 			<td style="text-align: center; padding-bottom: 6px;">
+				
 
-			 <!-- begin DART for channel: - Ad Dimension: 120 x 90 (tile=13)-->
+			<div class="item" id="block_3473"> <!-- begin DART for channel: - Ad Dimension: 120 x 90 (tile=13)-->
   <script language="JavaScript" type="text/javascript">
 
 		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=13;ord=' + ord + '?" type="text/javascript"><\/script>');
-		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=13;ord=896451087764162.9?" type="text/javascript"></script>
+		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=13;ord=4252065071870234.5?" type="text/javascript"></script>
   <noscript>
   <a href="http://ad.doubleclick.net/jump/ami.shape.home;sz=120x90;tile=13;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/ami.shape.home/;sz=120x90;tile=13;ord=123456789?" width="120" height="90" border="0" alt=""></a>
   </noscript>
-  <!-- end DART for channel: - Ad Dimension: 120 x 90 -->
+  <!-- end DART for channel: - Ad Dimension: 120 x 90 --></div>				
 				
 			</td>
 
 			
 			<td style="text-align: center; padding-bottom: 6px;">
+				
 
-			  <!-- begin DART for channel: - Ad Dimension: 120 x 90 (tile=12)-->
+			<div class="item" id="block_3474">  <!-- begin DART for channel: - Ad Dimension: 120 x 90 (tile=12)-->
   <script language="JavaScript" type="text/javascript">
 
 		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=12;ord=' + ord + '?" type="text/javascript"><\/script>');
-		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=12;ord=896451087764162.9?" type="text/javascript"></script>
+		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=12;ord=4252065071870234.5?" type="text/javascript"></script>
   <noscript>
   <a href="http://ad.doubleclick.net/jump/ami.shape.home;sz=120x90;tile=12;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/ami.shape.home/;sz=120x90;tile=12;ord=123456789?" width="120" height="90" border="0" alt=""></a>
   </noscript>
-  <!-- end DART for channel: - Ad Dimension: 120 x 90 -->
+  <!-- end DART for channel: - Ad Dimension: 120 x 90 --></div>				
 				
 			</td>
 
 			
 			<td style="text-align: center; padding-bottom: 6px;">
+				
 
-			  <!-- begin DART for channel: - Ad Dimension: 120 x 90 (tile=11)-->
+			<div class="item" id="block_3475">  <!-- begin DART for channel: - Ad Dimension: 120 x 90 (tile=11)-->
   <script language="JavaScript" type="text/javascript">
 
 		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=11;ord=' + ord + '?" type="text/javascript"><\/script>');
-		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=11;ord=896451087764162.9?" type="text/javascript"></script>
+		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=11;ord=4252065071870234.5?" type="text/javascript"></script>
   <noscript>
   <a href="http://ad.doubleclick.net/jump/ami.shape.home;sz=120x90;tile=11;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/ami.shape.home/;sz=120x90;tile=11;ord=123456789?" width="120" height="90" border="0" alt=""></a>
   </noscript>
-  <!-- end DART for channel: - Ad Dimension: 120 x 90 -->
+  <!-- end DART for channel: - Ad Dimension: 120 x 90 --></div>				
+				
+			</td>
+
+			
+			<td style="text-align: center; padding-bottom: 6px;">
+				
+
+			<div class="item" id="block_3476">  <!-- begin DART for channel: - Ad Dimension: 120 x 90 (tile=10)-->
+  <script language="JavaScript" type="text/javascript">
+
+		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=10;ord=' + ord + '?" type="text/javascript"><\/script>');
+		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=10;ord=4252065071870234.5?" type="text/javascript"></script>
+  <noscript>
+  <a href="http://ad.doubleclick.net/jump/ami.shape.home;sz=120x90;tile=10;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/ami.shape.home/;sz=120x90;tile=10;ord=123456789?" width="120" height="90" border="0" alt=""></a>
+  </noscript>
+  <!-- end DART for channel: - Ad Dimension: 120 x 90 --></div>				
 				</td></tr><tr valign="bottom"></tr>
 			
 
 			
 			<tr><td style="text-align: center; padding-bottom: 6px;">
-
-			  <!-- begin DART for channel: - Ad Dimension: 120 x 90 (tile=10)-->
-  <script language="JavaScript" type="text/javascript">
-
-		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=10;ord=' + ord + '?" type="text/javascript"><\/script>');
-		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=10;ord=896451087764162.9?" type="text/javascript"></script>
-  <noscript>
-  <a href="http://ad.doubleclick.net/jump/ami.shape.home;sz=120x90;tile=10;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/ami.shape.home/;sz=120x90;tile=10;ord=123456789?" width="120" height="90" border="0" alt=""></a>
-  </noscript>
-  <!-- end DART for channel: - Ad Dimension: 120 x 90 -->
 				
-			</td>
 
-			
-			<td style="text-align: center; padding-bottom: 6px;">
-
-			  <!-- begin DART for channel: - Ad Dimension: 120 x 90 (tile=9)-->
+			<div class="item" id="block_3477">  <!-- begin DART for channel: - Ad Dimension: 120 x 90 (tile=9)-->
   <script language="JavaScript" type="text/javascript">
 
 		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=9;ord=' + ord + '?" type="text/javascript"><\/script>');
-		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=9;ord=896451087764162.9?" type="text/javascript"></script>
+		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=9;ord=4252065071870234.5?" type="text/javascript"></script>
   <noscript>
   <a href="http://ad.doubleclick.net/jump/ami.shape.home/;sz=120x90;tile=9;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/ami.shape.home;sz=120x90;tile=9;ord=123456789?" width="120" height="90" border="0" alt=""></a>
   </noscript>
-  <!-- end DART for channel: - Ad Dimension: 120 x 90 -->
+  <!-- end DART for channel: - Ad Dimension: 120 x 90 --></div>				
 				
 			</td>
 
 			
 			<td style="text-align: center; padding-bottom: 6px;">
+				
 
-			  <!-- begin DART for channel: - Ad Dimension: 120 x 90 (tile=8)-->
+			<div class="item" id="block_3478">  <!-- begin DART for channel: - Ad Dimension: 120 x 90 (tile=8)-->
   <script language="JavaScript" type="text/javascript">
 
 		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=8;ord=' + ord + '?" type="text/javascript"><\/script>');
-		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=8;ord=896451087764162.9?" type="text/javascript"></script>
+		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=8;ord=4252065071870234.5?" type="text/javascript"></script>
   <noscript>
   <a href="http://ad.doubleclick.net/jump/ami.shape.home/;sz=120x90;tile=8;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/ami.shape.home;sz=120x90;tile=8;ord=123456789?" width="120" height="90" border="0" alt=""></a>
   </noscript>
-  <!-- end DART for channel: - Ad Dimension: 120 x 90 -->
+  <!-- end DART for channel: - Ad Dimension: 120 x 90 --></div>				
 				
 			</td>
 
 			
 			<td style="text-align: center; padding-bottom: 6px;">
+				
 
-			  <!-- begin DART for channel: - Ad Dimension: 120 x 90 (tile=7)-->
+			<div class="item" id="block_3479">  <!-- begin DART for channel: - Ad Dimension: 120 x 90 (tile=7)-->
   <script language="JavaScript" type="text/javascript">
 
 		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=7;ord=' + ord + '?" type="text/javascript"><\/script>');
-		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=7;ord=896451087764162.9?" type="text/javascript"></script>
+		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=7;ord=4252065071870234.5?" type="text/javascript"></script>
   <noscript>
   <a href="http://ad.doubleclick.net/jump/ami.shape.home/;sz=120x90;tile=7;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/ami.shape.home;sz=120x90;tile=7;ord=123456789?" width="120" height="90" border="0" alt=""></a>
   </noscript>
-  <!-- end DART for channel: - Ad Dimension: 120 x 90 -->
+  <!-- end DART for channel: - Ad Dimension: 120 x 90 --></div>				
 				
 			</td>
 
 			
 			<td style="text-align: center; padding-bottom: 6px;">
+				
 
-			  <!-- begin DART for channel: - Ad Dimension: 120 x 90 (tile=6)-->
+			<div class="item" id="block_3480">  <!-- begin DART for channel: - Ad Dimension: 120 x 90 (tile=6)-->
   <script language="JavaScript" type="text/javascript">
 
 		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=6;ord=' + ord + '?" type="text/javascript"><\/script>');
-		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=6;ord=896451087764162.9?" type="text/javascript"></script>
+		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ami.shape.home;sz=120x90;tile=6;ord=4252065071870234.5?" type="text/javascript"></script>
   <noscript>
   <a href="http://ad.doubleclick.net/jump/ami.shape.home/;sz=120x90;tile=6;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/ami.shape.home;sz=120x90;tile=6;ord=123456789?" width="120" height="90" border="0" alt=""></a>
   </noscript>
-  <!-- end DART for channel: - Ad Dimension: 120 x 90 -->
+  <!-- end DART for channel: - Ad Dimension: 120 x 90 --></div>				
 				
 			</td>
 
 			
-			<td style="padding-bottom: 6px;">&nbsp;</td><td style="padding-bottom: 6px;">&nbsp;</td>
+			<td style="padding-bottom: 6px;">&nbsp;</td><td style="padding-bottom: 6px;">&nbsp;</td><td style="padding-bottom: 6px;">&nbsp;</td>
 		</tr>
 	</tbody></table>
 </div>
@@ -1419,7 +1773,7 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 <li><a href="/beauty_and_style">BEAUTY&nbsp;&amp;&nbsp;STYLE</a>&nbsp;&nbsp;|&nbsp;</li>
 <li><a href="/lifestyle">LIFESTYLE</a>&nbsp;&nbsp;|&nbsp;</li>
 <li><a href="/community">COMMUNITY</a>&nbsp;&nbsp;|&nbsp;</li>
-<li><a href="http://weidermags.com/redirect.aspx?&amp;cds_page_id=45236&amp;cds_mag_code=SHP&amp;p=N&amp;g=R&amp;at=L" target="_blank">SUBSCRIBE</a>&nbsp;&nbsp;|&nbsp;</li>
+<li><a href="https://w1.buysub.com/loc/SHP/footer_sub" target="_blank">SUBSCRIBE</a>&nbsp;&nbsp;|&nbsp;</li>
 <li><a href="/sweeps_and_promos">SWEEPS&nbsp;&amp;&nbsp;PROMOS</a>&nbsp;&nbsp;|&nbsp;</li>
 <li><a href="http://www.americanmediainc.com/mediakits/shape/kit_online.htm">ADVERTISING INFO</a>&nbsp;&nbsp;|&nbsp;</li>
 <li><a href="/subscribe/legal/privacy_policy">PRIVACY POLICY</a></li></ul>
@@ -1428,13 +1782,14 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 <p>Health&nbsp;&amp;&nbsp;Fitness:&nbsp;<a href="http://www.fitpregnancy.com/" target="_blank">Fit Pregnancy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.flexonline.com/" target="_blank">Flex</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.mensfitness.com/" target="_blank">Men's Fitness</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.muscleandfitness.com/" target="_blank">Muscle&nbsp;&amp;&nbsp;Fitness</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.muscleandfitnesshers.com/" target="_blank">Muscle&nbsp;&amp;&nbsp;Fitness Hers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.naturalhealthmag.com/" target="_blank">Natural Health</a></p>
 <p>News&nbsp;&amp;&nbsp;Entertainment:&nbsp;<a href="http://www.countryweekly.com/" target="_blank">Country Weekly</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.globemagazine.com/" target="_blank">Globe Magazine</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miramagazine.com/" target="_blank">Mira
 Magazine</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.nationalenquirer.com/" target="_blank">National Enquirer</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.starmagazine.com/" target="_blank">Star Magazine</a></p><div class="copyright">
-<p>Shape.com is part of The American Media Inc
+<p>Shape.com is part of The American Media, Inc.
 Fitness&nbsp;&amp;&nbsp;Health Network</p>
-<p>©&nbsp;2009 Weider Publications, LLC, a subsidiary of American
+<p>©&nbsp;2010 Weider Publications, LLC, a subsidiary of American
 Media, Inc. All Rights Reserved.</p>
 </div>			</div>
 		</div>
-
+		</div>
+		</div>
 				<script type="text/javascript">
 	$('a.createStrength,span.createShape a').each(function() {
 		$(this).attr('href', $(this).attr('title'));
@@ -1521,7 +1876,26 @@ Media, Inc. All Rights Reserved.</p>
 	});
 
 	Cufon.now();
-</script>    <div id="facebox" style="display:none;">       <div class="popup">         <table>           <tbody>             <tr>               <td class="tl"></td><td class="b"></td><td class="tr"></td>             </tr>             <tr>               <td class="b"></td>               <td class="body">               	<div class="content-outer">                 	<div class="content">                 	</div>                 	<div class="footer">                   	<a href="#" class="close">                     	<img src="/images/facebox/closelabel.gif" title="close" class="close_image">                   	</a>                   	<div style="clear: both;"></div>                 	</div>                 </div>               </td>               <td class="b"></td>             </tr>             <tr>               <td class="bl"></td><td class="b"></td><td class="br"></td>             </tr>           </tbody>         </table>       </div>     </div>				<!-- google script -->
+</script>    <div id="facebox" style="display:none;">       <div class="popup">         <table>           <tbody>             <tr>               <td class="tl"></td><td class="b"></td><td class="tr"></td>             </tr>             <tr>               <td class="b"></td>               <td class="body">               	<div class="content-outer">                 	<div class="content">                 	</div>                 	<div class="footer">                   	<a href="#" class="close">                     	<img src="/images/facebox/closelabel.gif" title="close" class="close_image">                   	</a>                   	<div style="clear: both;"></div>                 	</div>                 </div>               </td>               <td class="b"></td>             </tr>             <tr>               <td class="bl"></td><td class="b"></td><td class="br"></td>             </tr>           </tbody>         </table>       </div>     </div>				<!-- Begin comScore Tag -->
+<script>
+    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
+<script>
+  COMSCORE.beacon({
+    c1:2,
+    c2:6036076,
+    c3:"",
+    c4:"",
+    c5:"",
+    c6:"",
+    c15:""
+  });
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/b?c1=2&c2=6036076&c3=&c4=&c5=&c6=&c15=&cv=1.3&cj=1" style="display:none" width="0" height="0" alt="" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- google script -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -1531,7 +1905,7 @@ try {
 var pageTracker = _gat._getTracker("UA-1912801-25");
 pageTracker._trackPageview();
 } catch(err) {}</script>				
-	
+			
 
 
 </body></html>
