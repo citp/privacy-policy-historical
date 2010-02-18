@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the qondio.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228061213id_/http%3A//admin.qondio.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qondio.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218121233id_/http%3A//admin.qondio.com/pp) for the most accurate reproduction.*
 
 # Privacy Policy - Qondio
 
 Find out more about Qondio by reading our [About Us](http://admin.qondio.com/about) page, if you haven't done so already. Or you could skip straight to the [Sign Up form](http://www.qondio.com/content.power?a=signup). 
 
-| Users|  **30,805**  
+| Users|  **31,325**  
 ---|---  
-Intel|  **34,544**  
-Sites|  **9,803**  
+Intel|  **35,423**  
+Sites|  **9,991**  
   
 
 
 Not a member yet? You're missing out on one of the most powerful website promotion resources on the web. [Sign up](http://www.qondio.com/content.power?a=signup) and join the party. 
-
-Qondio is excited to announce the new destination for buying and selling websites, Swansworth Online. In the market for a ready-made site? Peruse the [websites for sale](http://www.swansworth.com/). Ready to get paid? [Sell your site](http://www.swansworth.com/).  [](http://www.swansworth.com/)
 
 |  This privacy policy pertains to the use of the Qondio Web site at http://www.Qondio.com/ (hereinafter referred to as "Qondio"), and describes our policy regarding the handling of user-specific information. 
 
