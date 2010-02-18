@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keds.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219144832id_/http%3A//www.keds.com/custserv/customerservicemain.jsp%3Fcid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keds.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218122601id_/http%3A//www.keds.com/custserv/customerservicemain.jsp%3Fcid%3D2) for the most accurate reproduction.*
 
 # Keds Shoes Official Site - The Complete Keds Collection - Champion, Green, Custom
 
