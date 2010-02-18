@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the twitterbackgrounds.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503193504id_/http%3A//www.twitterbackgrounds.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitterbackgrounds.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218130019id_/http%3A//www.twitrbackgrounds.com/pages/privacy) for the most accurate reproduction.*
 
-# TwitterBackgrounds.com | Privacy Policy
+# TwitrBackgrounds.com | Privacy Policy
 
-Welcome to **TwitterBackgrounds.com** , the premier site for Twitter backgrounds. We have the largest selection of free Twitter backgrounds and each design is made by us in house. And if you want an even better Twitter, have our world class artists design you a **completely custom** Twitter background. 
+Welcome to TwitrBackgrounds.com, the premier site for **Twitter backgrounds**. We have the largest selection of free Twitter backgrounds and each design is made by us in house. And if you want an even better Twitter, have our world class artists design you a completely **custom Twitter background**. 
 
 **Privacy Policy**  
 We are committed to the privacy of our visitors and users while they browse and utilize TwitterBackgrounds.com 
