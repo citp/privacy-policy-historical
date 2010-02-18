@@ -1,25 +1,29 @@
-> *The following text is extracted and transformed from the travel-library.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402131655id_/http%3A//travel-library.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travel-library.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218144718id_/http%3A//www.travel-library.com/privacy.html) for the most accurate reproduction.*
 
-# Rec.Travel Library
+# Privacy Policy - Travel-Library
 
-The Rec.Travel Library was founded to help individuals share travel information and stories with each other, and believes in the rights of individuals to liberty and to privacy on the Internet. We do not track any personal or individual information about any visitor to this web site, and we do not engage in spamming. 
+## Privacy Policy
 
-**Information Automatically Logged**
+The following statement sets out the policy of Travel Library (travel-library.com) regarding the use of any personal information that we may collect about you, the User.
 
-Certain information about web server traffic is automatically logged by all web servers. This information includes your IP address, the page you requested, the time of the connection, the type of web browser you use, and the address of the page containing the link that sent you here. We use this information in aggregate to find the total number of visitors to each page of the web site, to determine what web sites bring visitors here, and to help identify errors such as broken links within our web site. 
+### 1\. Introduction
 
-**Burst! Media**
+When making submissions to Travel Library and when using other services on our Web Site (www.travel-library.com), you may be asked to submit personal information about yourself (e.g. name, the country from which you are posting and your e-mail address). In some cases these details must be entered into the fields provided and in others they are optional Whenever you provide such personal information, we will treat that information in accordance with this policy.
 
-We use an advertising agency, Burst! Media, to display advertisements on our site. Some of these ads may contain cookies and may collect certain kinds of personal information. We also host a demographic survey which invites visitors to voluntarily provide general demographic information which is not linked to personal identification. Information from both sources is used in aggregate in connection with selling banner advertising on the web site. Burst! Media have published a [privacy statement](http://www.burstmedia.com/release/privacy.asp) describing how they use the information that they collect. The Rec.Travel Library has no access to the information that Burst! obtains through its banners, and has access only to overall summaries of the demographic survey information. 
+### 2\. Use and Storage of your Personal Information
 
-**Mailing lists**
+Other than a name and country from which you are posting, which you are asked to supply for inclusion in the text of the submissions that you make to our Web Site, the personal information that we collect about you will not be published on our Web Site and will be stored by us for our purposes only. We respect your personal data and are committed to protecting your privacy and we take all reasonable steps to keep your details safe. We will not share your information with others without your prior consent. However, if you provide us with your e-mail address we may use it to supply you with information about Travel Library including but not limited to news about travel offers and changes to our Web Site. While we will not normally pass on your details to anyone else, we reserve the right to disclose any material under our control, including personal data about you, to a relevant person or authority if you breach our Terms and Conditions of Use (<http://www.travel-library.com/terms.html>) and/or when required by statute, rule of law in England and Wales or court order or when such disclosure is requested by the police or other competent regulatory authority or is necessary for the purpose of any civil or criminal legal proceedings.
 
-We operate a mailing list used to make announcements about the Library. The list is opt-in only; we do not place people's addresses on the list without their consent. The list services are provided by a reputable list service provider, and include easy-to-use subscription and unsubscription procedures. We do not release our mailing list to any other organizations or individuals. 
+### 3\. Privacy Policies of Third Parties
 
-**External Links**
+Our Web Site contains links to other web sites not owned operated or under the control of Travel Library. These sites will not in general operate the same privacy policies as us and you are therefore advised to carefully read the relevant policies pertaining to these sites before submitting any personal information.
 
-This site contains many links to other sites. We have no knowledge of or responsibility for the privacy practices or the content of such Web sites. 
+Travel Library has a number of strategic partnerships with reputable third party travel consolidators offering a variety of travel services. Any personal information (including financial data) submitted by our Users through our Web Site to these companies will be transmitted securely and directly to the companies in question. Travel Library will not normally have access to this information.
 
-**Contacting us**
+### 4\. Guidelines for Children
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact Brian Lucas at: [lucas@travel-library.com](mailto:lucas@travel-library.com)
+While Travel Library welcomes users of all ages, in line with the recommendations of the TRUSTe children’s programme ([http://www.truste.org](http://www.truste.org/ "Online Trust, Online Safety & Privacy Services from TRUSTe")) , we advise against children under the age of 13 submitting any content to our Web Site. Also, if you are aged 16 or under, we advise that you obtain your parent/guardian's permission before providing any personal information to us. Users under 16 without this permission should not provide us with any personal information.
+
+### 5\. Contact
+
+If you have any questions or queries about our privacy policy, please [contact Us](https://web.archive.org/contactus.html).
