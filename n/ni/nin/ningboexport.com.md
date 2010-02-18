@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ningboexport.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421111917id_/http%3A//www.ningboexport.com/law.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ningboexport.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218210621id_/http%3A//www.ningboexport.com/law.htm) for the most accurate reproduction.*
 
 # China Online Commodities Fair
 
