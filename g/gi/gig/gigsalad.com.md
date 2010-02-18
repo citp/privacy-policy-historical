@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gigsalad.com privacy policy that was archived on 2009-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091018081220id_/http%3A//www.gigsalad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigsalad.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218185258id_/http%3A//www.gigsalad.com/privacy) for the most accurate reproduction.*
 
 # Gig Salad | Privacy Policy
 
-GigSalad.com has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses the information gathering and dissemination practices for this web site: www.gigsalad.com
+**GigSalad.com has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses the information gathering and dissemination practices for this web site: www.gigsalad.com**
 
 ### External Links
 
@@ -28,7 +28,7 @@ We use your IP address to gather broad demographic information. IP address are g
 
 ### Cookies
 
-Our Site uses cookies to save your password so you don't have to re-enter it each time you visit a page on the site. The cookie is session-based (sits in the header information sent to the browser) and is destroyed after you close your browser. The cookie neither reads nor writes anything to or from your computer but cookies must be enabled to use the site as a member.
+Our Site uses cookies to save a unique key information so you don't have to re-enter your password each time you visit a page on the site. The cookie is session-based (sits in the header information sent to the browser) and is destroyed after you close your browser. The cookie neither reads nor writes anything to or from your computer but cookies must be enabled to use the site as a member.
 
 ### Privacy for Children and Minors
 
