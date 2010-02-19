@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scripps.com privacy policy that was archived on 2009-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090411042001id_/http%3A//www.scripps.com/legal/legal-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripps.com privacy policy that was archived on 2010-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100219090457id_/http%3A//www.scripps.com/privacy-policy) for the most accurate reproduction.*
 
-# The E.W. Scripps Company
+# Privacy Policy | The E.W. Scripps Company
 
 **Scripps.com Privacy Policy**
 
@@ -18,9 +18,9 @@ Like many other commercial sites, our **site(s)** may utilize a standard technol
 
 We also use cookies in connection with our chat rooms in order to record your preferences. These cookies automatically store information pertaining to the last chat room you visited, as well as certain comments that can be issues in the chat room, in order to facilitate your experience with the chat rooms. No additional identifying information is stored on these cookies. You also have the option of choosing to allow us to use a cookie to store your username, or "handle" and password on your computer for use in that chat rooms, forums and other sites as indicated on the particular site.
 
-We may require you to supply us with personal information (demographic information such as average age, income, education, population data, zip codes) during a "registration" process online prior to using certain features of our site. For example, you may be required to register to use chat rooms, forums, to access archival stories, to subscribe to newspapers, and to access other features. We use this general information to aggregate information according to demographics, such as gender, geographic location, age, income or a combination of these or other demographics. 
+We may require you to supply us with personal information (demographic information such as average age, income, education, population data, zip codes) during a "registration" process online prior to using certain features of our site. For example, you may be required to register to use chat rooms, forums, to access archival stories, to subscribe to newspapers, and to access other features. We use this general information to aggregate information according to demographics, such as gender, geographic location, age, income or a combination of these or other demographics.
 
-In addition, users may complete a subscription form online in order to subscribe to **any of our affiliate news sites**. To subscribe, users must submit personal information in order for us to send the newspaper to you. 
+In addition, users may complete a subscription form online in order to subscribe to **any of our affiliate news sites**. To subscribe, users must submit personal information in order for us to send the newspaper to you.
 
 **II. Use of User Information**
 
@@ -36,16 +36,15 @@ We may disclose personal information in special cases when we believe that discl
 
 **V. Accuracy of User Information**
 
-In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. To the extent that such information is also stored in other databases, we cannot always ensure that such correction or deletion will reach the other databases. We will use all reasonable efforts to ensure that your information is removed from or is correct in our records. 
+In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. To the extent that such information is also stored in other databases, we cannot always ensure that such correction or deletion will reach the other databases. We will use all reasonable efforts to ensure that your information is removed from or is correct in our records.
 
 **VI. Security of Information**
 
 We use our best efforts to ensure the security of personal information submitted by users. When collecting credit card information for online purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it. When we collect other information from our users, it is stored in an area where the general public does not have access to it.
 
-  
 **VII. Contacting Us; Opting-out**
 
-Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to kuprionis@scripps.com, or you can reach us by telephone at **(513) 977-3835**. You can also write us at:
+Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to [kuprionis@scripps.com](mailto:kuprionis@scripps.com), or you can reach us by telephone at **(513) 977-3835**. You can also write us at:
 
 **M. Denise Kuprionis  
 Vice President/Corporate Secretary and Director of Legal Affairs  
@@ -55,9 +54,8 @@ Cincinnati, Ohio 45201-5380**
 
 We reserve the right to change this policy at any time, and will post notice of such changes on a page of the site entitled “Legal Notice”.
 
-At any time while assessing our **site(s)** , any user while online may "opt-out" of further e-mail contact from us (while still allowing access to our **site(s)** ). For further information about opting-out, contact us at the e-mail address, postal address or telephone number stated above. 
+At any time while assessing our **site(s)** , any user while online may "opt-out" of further e-mail contact from us (while still allowing access to our **site(s)** ). For further information about opting-out, contact us at the e-mail address, postal address or telephone number stated above.
 
 **VIII. Use of Materials**
 
-The right to download and store or output the materials in our **site(s)** is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at using the contact information in Section VII. To link to the full Terms of Use Agreement pertaining to use of our site(s), please **[click here](https://web.archive.org/web/20090411042001id_/http%3A//www.scripps.com/legal/legal-user-agreement.html)**.  
-
+The right to download and store or output the materials in our **site(s)** is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at using the contact information in Section VII. To link to the full Terms of Use Agreement pertaining to use of our site(s), please **[click here](https://web.archive.org/web/20100219090457id_/http%3A//www.scripps.com/user-agreement)**.
