@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fulldls.com privacy policy that was archived on 2009-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090310170414id_/http%3A//www.fulldls.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulldls.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220005307id_/http%3A//www.fulldls.com/privacy.php) for the most accurate reproduction.*
 
 # Fulldls.com - Privacy policy
 
