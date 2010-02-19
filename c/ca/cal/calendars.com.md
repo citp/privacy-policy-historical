@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calendars.com privacy policy that was archived on 2009-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090818171134id_/http%3A//www.fuzeqna.com/calendars/consumer/kbdetail.asp%3Fkbid%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendars.com privacy policy that was archived on 2010-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100219045303id_/http%3A//www.fuzeqna.com/calendars/consumer/kbdetail.asp%3Fkbid%3D41) for the most accurate reproduction.*
 
 # What is your Privacy Policy?
 
