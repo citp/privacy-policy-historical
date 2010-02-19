@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cooksongold.com privacy policy that was archived on 2009-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220022519id_/http%3A//www.cooksongold.com/help/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cooksongold.com privacy policy that was archived on 2010-02-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100219091623id_/http%3A//www.cooksongold.com/help/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Security &amp; Privacy - Cooksongold.com</title>
@@ -15,7 +15,19 @@
 
  
 
-<body>
+
+<body>﻿
+
+
+
+
+
+
+
+
+ 
+
+
 <div id="wrap">
 
 
@@ -24,12 +36,18 @@
 function noitems() {
 	alert("Your basket is currently empty.");
 	}
-function verifyprd() {
-  var ps = document.getElementById("prod_search").value;
+function verifyprd(form) {
+  var ps = search_word_inc.query.value;
+  var success = 1;
   if ((ps.length == 0) || (ps.length == 1) || (ps == "product code or keyword")) {
+success = 0;
+}
+    if(!success) {
 alert("Please enter a minimum of 2 characters");
-event.returnValue=false;
-  } 
+ return false;
+  } else {
+  return true;
+  }
 }
 function bookmarksite(url){
 	var ttitle =document.title;
@@ -132,11 +150,11 @@ welcome to the widest choice of precious metals on-line
 
 
  
-<div id="left" style="height: 1569px;"><div id="leftcontent">
+<div id="left" style="height: 1581px;"><div id="leftcontent">
 <div class="Sideboxes" style="margin-top:0">
-<form method="get" action="http://www.cooksongold.com/category_select.jsp" name="search_word_inc" onsubmit="verifyprd();">
+<form method="get" action="http://www.cooksongold.com/category_select.jsp" name="search_word_inc" onsubmit="verifysrch();">
 <p class="floatLeft"><input class="search" type="text" name="query" id="query" autocomplete="off" maxlength="50" value=""></p>
-<p class="floatRight"><input class="submit" name="submit" type="image" value="submit" src="/images/submit.gif" alt="submit" align="middle"></p>
+<p class="floatRight"><input class="submit" name="submit" type="image" value="submit" src="/images/submit.gif" alt="submit" align="middle" onclick="verifysrch();"></p>
 <div class="clearthis"></div>
 <div id="suggestLayer" class="suggestLayer" style="z-index:1001;"></div>
 
@@ -357,33 +375,33 @@ document.forms["search_word_inc"]["query"].select();
 </a></p>
 <p style="line-height:0.5em;">&nbsp;</p>
  
+<p><a href="http://www.cooksongold.com/Solders/Easy-Silver-Solder-Paste,-30g-Syringe-prcode-PAT-020" title="Click for more details." style="font-weight: normal">
+4. Easy Silver Solder Paste, 30g Syringe
+</a></p>
+<p style="line-height:0.5em;">&nbsp;</p>
+ 
 <p><a href="http://www.cooksongold.com/Jewellery-Tools/3--Adjustable-Saw-Frame-prcode-999-735" title="Click for more details." style="font-weight: normal">
-4. 3" Adjustable Saw Frame
+5. 3" Adjustable Saw Frame
 </a></p>
 <p style="line-height:0.5em;">&nbsp;</p>
  
 <p><a href="http://www.cooksongold.com/Loose-Chain/Silver-Navette-Trace,-Loose-prcode-WVT-800" title="Click for more details." style="font-weight: normal">
-5. Silver Navette Trace, Loose
+6. Silver Navette Trace, Loose
 </a></p>
 <p style="line-height:0.5em;">&nbsp;</p>
  
 <p><a href="http://www.cooksongold.com/Wire/9ct-DF-Yellow-Round-Wire-1.00mm-Diameter-prcode-HAA-100" title="Click for more details." style="font-weight: normal">
-6. 9ct DF Yellow Round Wire 1.00mm Diameter
+7. 9ct DF Yellow Round Wire 1.00mm Diameter
 </a></p>
 <p style="line-height:0.5em;">&nbsp;</p>
  
 <p><a href="http://www.cooksongold.com/Solders/Extra-Easy-Silver-Solder-Strip,-2.0mm-X-0.45mm,-600mm-Lengths,-Weight-Per-Strip-5g-prcode-CTA-500" title="Click for more details." style="font-weight: normal">
-7. Extra Easy Silver Solder Strip, 2.0mm X 0.45mm, 600mm Lengths, Weight Per Strip 5g
+8. Extra Easy Silver Solder Strip, 2.0mm X 0.45mm, 600mm Lengths, Weight Per Strip 5g
 </a></p>
 <p style="line-height:0.5em;">&nbsp;</p>
  
 <p><a href="http://www.cooksongold.com/Findings/Silver-Plain-Crimp-Tube,-Pack-Of-12,-1.3-Inside-Diameter-X-2mm-Long-prcode-NVO-108" title="Click for more details." style="font-weight: normal">
-8. Silver Plain Crimp Tube, Pack Of 12, 1.3 Inside Diameter X 2mm Long
-</a></p>
-<p style="line-height:0.5em;">&nbsp;</p>
- 
-<p><a href="http://www.cooksongold.com/Grain-and-Casting-Pieces/Sterling-Silver-Grain-prcode-ASA-000" title="Click for more details." style="font-weight: normal">
-9. Sterling Silver Grain
+9. Silver Plain Crimp Tube, Pack Of 12, 1.3 Inside Diameter X 2mm Long
 </a></p>
 <p style="line-height:0.5em;">&nbsp;</p>
  
@@ -449,7 +467,7 @@ document.forms["search_word_inc"]["query"].select();
 <a href="/exit_shop.jsp"><b>home</b></a> &gt; <a href="help.jsp">help</a> &gt; security &amp; privacy</div>
 
 <div class="clearthis"></div>
-<div id="middle" style="height: 1569px;"><div id="contentcontent">
+<div id="middle" style="height: 1581px;"><div id="contentcontent">
 <div class="DetailContainer">
 <h1>Security &amp; Privacy</h1>
 <table width="90%" border="0" align="center">
@@ -511,6 +529,10 @@ Cooksongold.com. If we change our privacy policy, we will post those changes
 on this page. Tell us what you think Cooksongold welcomes your questions and 
 comments about privacy. Please send e-mail to <a href="mailto:cooksongold.com?subject=Privacy%20Comments">webmaster@cooksongold.com</a></li>
 </ul>
+<b>Third-Party Web Beacons</b>
+<ul>
+<li>We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, <a href="https://reports.web.analytics.yahoo.com/optout,OptOut.vm" target="_blank">click here</a>.</li>
+</ul>
 		</td>
 	</tr>
 </tbody></table>
@@ -531,17 +553,17 @@ comments about privacy. Please send e-mail to <a href="mailto:cooksongold.com?su
 
 
  
-<div id="right" style="height: 1569px;"><div id="rightcontent"> 
+<div id="right" style="height: 1581px;"><div id="rightcontent"> 
  
 <div class="rightSideboxes" style="border: 0;">
  
-<a href="http://www.cooksongold.com/home/xmas_post.jsp"><img src="/images/banners/delivery.jpg" width="189px" alt="Cooksongold Final Delivery Date"></a>
+<a href="http://www.cooksongold.com/home/static.jsp?page=rate-and-review"><img src="/images/banners/rate.jpg" width="189px" alt="Rate &amp; Review - Have Your Say"></a>
  
 </div>
  
 <div class="rightSideboxes" style="border: 0;">
  
-<a href="http://www.cooksongold.com/home/win_rollingmill.jsp"><img src="/images/banners/register.jpg" width="189px" alt="Register to WIN!"></a>
+<a href="http://www.cooksongold.com/home/win_jewellersworkbench.jsp"><img src="/images/banners/register.jpg" width="189px" alt="Register to WIN!"></a>
  
 </div>
  
@@ -553,67 +575,7 @@ comments about privacy. Please send e-mail to <a href="mailto:cooksongold.com?su
  
 <div class="rightSideboxes" style="border: 0;">
  
-<a href="http://www.cooksongold.com/home/deals.jsp?deal=stockingfillers10"><img src="/images/banners/stocking-fillers.jpg" width="189px" alt="Stocking Fillers Under a Tenner"></a>
- 
-</div>
- 
-<div class="rightSideboxes" style="border: 0;">
- 
-<a href="http://www.cooksongold.com/home/deals.jsp?deal=giftsunder20"><img src="/images/banners/gifts.jpg" width="189px" alt="Gifts Under £20"></a>
- 
-</div>
- 
-<div class="rightSideboxes" style="border: 0;">
- 
-<a href="http://www.cooksongold.com/forum/"><img src="/images/banners/forum.jpg" width="189px" alt="NEW Jewellery Making Forum - Post and WIN!"></a>
- 
-</div>
- 
-<div class="rightSideboxes" style="border: 0;">
- 
-<a href="http://www.cooksongold.com/home/deals.jsp?deal=christmaskits"><img src="/images/banners/kits.jpg" width="189px" alt="Christmas Kits"></a>
- 
-</div>
- 
-<div class="rightSideboxes" style="border: 0;">
- 
-<a href="http://www.cooksongold.com/home/deals.jsp?deal=creativexmas"><img src="/images/banners/creative-christmas.jpg" width="189px" alt="Have a Creative Christmas at Cooksongold"></a>
- 
-</div>
- 
-<div class="rightSideboxes" style="border: 0;">
- 
-<a href="http://www.cooksongold.com/home/deals.jsp?deal=midastouch"><img src="/images/banners/midas.jpg" width="189px" alt="Midas Touch"></a>
- 
-</div>
- 
-<div class="rightSideboxes" style="border: 0;">
- 
-<a href="http://www.cooksongold.com/home/deals.jsp?deal=sayitwithsilver"><img src="/images/banners/silver.jpg" width="189px" alt="Say it with Silver"></a>
- 
-</div>
- 
-<div class="rightSideboxes" style="border: 0;">
- 
-<a href="http://www.cooksongold.com/home/deals.jsp?deal=finishedjewellery"><img src="/images/banners/jewellery.jpg" width="189px" alt="Christmas Jewellery from a Fiver"></a>
- 
-</div>
- 
-<div class="rightSideboxes" style="border: 0;">
- 
-<a href="http://www.cooksongold.com/home/xmas-is-here-minicat.jsp"><img src="/images/banners/mini-cat-dec.jpg" width="189px" alt="NEW Mini Catalogue"></a>
- 
-</div>
- 
-<div class="rightSideboxes" style="border: 0;">
- 
-<a href="http://www.cooksongold.com/home/deals.jsp?deal=workshoptreats"><img src="/images/banners/workshop.jpg" width="189px" alt="Workshop Treats"></a>
- 
-</div>
- 
-<div class="rightSideboxes" style="border: 0;">
- 
-<a href="http://www.cooksongold.com/home/deals.jsp?deal=christmasreads"><img src="/images/banners/reads.jpg" width="189px" alt="Christmas Reads"></a>
+<a href="http://www.cooksongold.com/home/catalogues.jsp"><img src="/images/banners/cookbook2.jpg" width="189px" alt="Get Your FREE Copy of the NEW 2010 Cook Book"></a>
  
 </div>
  
@@ -625,14 +587,38 @@ comments about privacy. Please send e-mail to <a href="mailto:cooksongold.com?su
  
 <div class="rightSideboxes" style="border: 0;">
  
-<a href="http://www.cooksongold.com/home/deals.jsp?deal=top10presents"><img src="/images/banners/presents.jpg" width="189px" alt="Top 10 Presents"></a>
+<a href="http://www.cooksongold.com/forum/"><img src="/images/banners/forum.jpg" width="189px" alt="Post &amp; WIN at the Cooksongold forum"></a>
+ 
+</div>
+ 
+<div class="rightSideboxes" style="border: 0;">
+ 
+<a href="http://www.cooksongold.com/Shop-Home/"><img src="/images/banners/delivery.jpg" width="189px" alt="Order by 3pm for guarenteed next day delivery"></a>
+ 
+</div>
+ 
+<div class="rightSideboxes" style="border: 0;">
+ 
+<a href="http://www.cooksongold.com/home/wallplanner.jsp"><img src="/images/banners/planner-v2.jpg" width="189px" alt="FREE 2010 Wall Planner ideal for your workshop"></a>
+ 
+</div>
+ 
+<div class="rightSideboxes" style="border: 0;">
+ 
+<a href="http://www.cooksongold.com/blog/"><img src="/images/banners/blog-v2.jpg" width="189px" alt="Jewellery Making Blog"></a>
+ 
+</div>
+ 
+<div class="rightSideboxes" style="border: 0;">
+ 
+<a href="http://www.cooksongold.com/home/weds-minicat.jsp"><img src="/images/banners/mini-cat.jpg" width="189px" alt="NEW Mini Catalogue"></a>
  
 </div>
  
 </div></div>
 <div class="clearthis"></div>
 
-
+﻿
 
  
 <div id="footer" style="visibility: inherit;">
@@ -706,6 +692,10 @@ comments about privacy. Please send e-mail to <a href="mailto:cooksongold.com?su
 </div>
 </div>
  
+<script language="Javascript" type="text/javascript">
+var dotHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+document.write(unescape("%3Cscript src='" + dotHost + "t.trackedlink.net/_dmpt.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://t.trackedlink.net/_dmpt.js" type="text/javascript"></script>
 </div>
 <div class="clearthis"></div>
 <!-- Yahoo! Web Analytics - All rights reserved -->
