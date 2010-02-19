@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooksongold.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220022519id_/http%3A//www.cooksongold.com/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooksongold.com privacy policy that was archived on 2010-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100219091623id_/http%3A//www.cooksongold.com/help/privacy.jsp) for the most accurate reproduction.*
 
 # Security & Privacy - Cooksongold.com
 
@@ -23,5 +23,9 @@ At cooksongold.com we are committed to protecting your privacy. We use the infor
 **In summary**
 
   * We are committed to protecting your own privacy. We use the information we collect on the site to make shopping at Cooksongold.com possible to enhance your overall shopping experience. We do not sell, trade or rent your personal information to others. If you do not want to receive any announcements or special offers from us, please send us an e-mail. Your consent By using our web site you consent to the collection and use of this information by Cooksongold.com. If we change our privacy policy, we will post those changes on this page. Tell us what you think Cooksongold welcomes your questions and comments about privacy. Please send e-mail to [webmaster@cooksongold.com](mailto:cooksongold.com?subject=Privacy%20Comments)
+
+**Third-Party Web Beacons**
+
+  * We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm).
 
 
