@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rajb2b.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126035758id_/http%3A//rajb2b.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rajb2b.com privacy policy that was archived on 2010-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100219164405id_/http%3A//rajb2b.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # rajb2b.com yellow pages privacy statement
 
