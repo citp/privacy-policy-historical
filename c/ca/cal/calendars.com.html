@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the calendars.com privacy policy that was archived on 2009-08-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090818171134id_/http%3A//www.fuzeqna.com/calendars/consumer/kbdetail.asp%3Fkbid%3D41) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the calendars.com privacy policy that was archived on 2010-02-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100219045303id_/http%3A//www.fuzeqna.com/calendars/consumer/kbdetail.asp%3Fkbid%3D41) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -149,15 +149,7 @@ function IsStateValid(sState) {
 }
 
 function IsPhoneValid(sPhone) {
-	var counttemp = sPhone.replace(/[^0-9]+/g,'');
-	
-	var re = new RegExp("^[0-9( )-]*$","i");
-	var stringFound = sPhone.match(re);
-
-	//Display error message if the pattern was not found
-	if (!stringFound || (counttemp.length < 10)) {
-		return false;
-	}
+	//this function has been neutered by Jim per Eric
 	return true;
 }
 
@@ -620,7 +612,7 @@ function getSpellCheckArray() {
 
 function popupFile() {
 	//newwin = window.open('FILE://\\\\10.1.2.3\\c$\\Inetpub\\fuzeds\\test2.doc','myWindow','scrollbars=yes,toolbar=yes,status=no,resizable=yes,width=600,height=400')
-	newwin = window.open('','myWindow','scrollbars=yes,toolbar=yes,status=no,resizable=yes,width=600,height=400')
+	newwin = window.open("",'myWindow','scrollbars=yes,toolbar=yes,status=no,resizable=yes,width=600,height=400')
 }
 
 function popup(fileName) {
@@ -655,6 +647,12 @@ function validateSelect(elem, msg)  {
 		return false;
 	}
 	
+	
+	if(frm.TextBoxUserCode.value == "") {
+		alert('Please enter the text found in the image');
+		frm.TextBoxUserCode.focus();
+		return false;
+	}
 	
 	return true;
 }
@@ -703,21 +701,11 @@ function EraseComment() {
 </script>
 
     
-        <script type="text/javascript" src="http://www.fuzeqna.com/calendars/fuzedojo/dojo/dojo.xd.js" djconfig="parseOnLoad: true"></script>
-        <script type="text/javascript" src="http://www.fuzeqna.com/calendars/fuzedojo/dojo/fuzedojo.xd.js" djconfig="parseOnLoad: true"></script>
+        <script type="text/javascript" src="/calendars/fuzedojo/dojo/dojo.xd.js" djconfig="parseOnLoad: true,isDebug: false"></script>
+        <script type="text/javascript" src="/calendars/fuzedojo/dojo/fuzedojo.xd.js" djconfig="parseOnLoad: true"></script>
 
     
-    <link rel="stylesheet" type="text/css" href="http://www.fuzeqna.com/calendars/fuzedojo/dijit/themes/tundra/tundra.css">
-    <script type="text/javascript">
-	        //djConfig = {
-	            //useXDomain: true,
-		        //modulePaths: {
-		            //"dojo": "http://www.fuzeqna.com/calendars/fuzedojo/dojo",
-		            //"dijit": "http://www.fuzeqna.com/calendars/fuzedojo/dijit"
-		        //}
-
-	        //};
-    </script>
+    <link rel="stylesheet" type="text/css" href="/calendars/fuzedojo/dijit/themes/tundra/tundra.css">
 
 <link rel="stylesheet" type="text/css" href="/calendars/fuzedojo/dijit/themes/tundra/tundra.css">
 <script type="text/javascript">
@@ -850,7 +838,7 @@ function help() {
 
 
 <div id="logindialog" dojotype="dijit.Dialog" title="Login" duration="1" class="tundra" style="display:none;padding:0px;" border="1" height="300" width="500">
-    <iframe height="300" width="500" src="/calendars/membership/consumer/login.asp?inline_login=true&amp;msgkey=login_messaging_personal_info&amp;referer=http://www.fuzeqna.com/calendars/consumer/mypastquestion.asp" frameborder="0" name="logininfo" id="logininfo" scrolling="no"></iframe>
+    <iframe height="300" width="500" src="/calendars/static/empty.html" frameborder="0" name="logininfo" id="logininfo" scrolling="no"></iframe>
 </div>	
 <map name="Map">
 	<area shape="rect" coords="4,63,283,109" href="javascript:setParent('http://www.calendars.com');">
@@ -1209,13 +1197,18 @@ function ParticipateClick(){
 	<span>Please click <strong><a href="javascript:GoToContactMe();">Contact Me</a></strong> if you wish to be contacted</span>
 	</div>
 	    
-	<div align="left" style="padding-top:10px;"></div>
-		<table width="100%">
+	<div align="left" style="padding-top:10px;">
+	    <img src="../consumer/lanapbotdetecthandler.asp?Command=CreateImage&amp;TextStyle=14&amp;ImageWidth=150&amp;imageHeight=35&amp;CodeLength=3&amp;CodeType=0&amp;passKey=3719141" alt="">	
+	    &nbsp;
+	    <a href="javascript:popup('../consumer/lanapbotdetecthandler.asp?Command=CreateSound&amp;passKey=3719141');"><img src="../images/speaker.gif" alt="Play Sound" style="border:0;" width="22" height="22"></a>
+	</div>
+	    <table width="100%">
 			<tbody><tr>
-			
-	        <td align="right">
-                <input type="button" onclick="javascript:SubmitRating();" value="Submit" name="submit1" id="submit1">
-            </td>	
+				<td align="left" class="fuze_small_font">
+					Text found in image:&nbsp;
+					<input name="TextBoxUserCode" type="text" id="TextBoxUserCode" size="5"></td>
+				<td align="right">
+					<input type="button" onclick="javascript:SubmitRating();" value="Submit" name="submit1" id="submit1"></td>
 		    </tr>
 		</tbody></table>
 	
@@ -1235,6 +1228,8 @@ function SubmitRating(){
 	if (dojo.byId('surveycomments')){  
 		frm.comments.value = dojo.byId('surveycomments').value;
 	}
+	  
+	frm.TextBoxUserCode.value = dojo.byId('TextBoxUserCode').value;
 	
 	
 	if (SurveyValidation()){
@@ -1264,6 +1259,13 @@ function SurveyValidation(){
 		  dojo.byId('surveycomments').focus();
 		  return false;
 		}
+		  
+		//image text is required
+		if(dojo.byId('TextBoxUserCode').value==''){
+		  alert("Please enter the text found in the image");
+		  dojo.byId('TextBoxUserCode').focus();
+		  return false;
+		}
 		
 	}
 	return true; 
@@ -1289,7 +1291,7 @@ function LogInForContests(){
 <input type="hidden" name="comments">
 <input type="hidden" name="ap" value="">
 <input type="hidden" name="ao" value="">
-<input type="hidden" name="passKey" value="4009363">
+<input type="hidden" name="passKey" value="3719141">
 <input type="hidden" name="formaction" value="survey">
 <input type="hidden" name="NickName">
 <input type="hidden" name="keyword" value="">
@@ -1389,7 +1391,7 @@ If at any time you would like to change any information in your account, just go
 				<input type="hidden" name="ao" value="">
 				<input type="hidden" name="keyword" value="">
 				<input type="hidden" name="match" value="">
-				<input type="hidden" name="passKey" value="4009363">
+				<input type="hidden" name="passKey" value="3719141">
 				<input type="hidden" name="gpn" value="">
 				<input type="hidden" name="gpv" value="">
 		
