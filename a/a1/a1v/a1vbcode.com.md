@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a1vbcode.com privacy policy that was archived on 2009-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090906183659id_/http%3A//a1vbcode.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a1vbcode.com privacy policy that was archived on 2010-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100219185403id_/http%3A//a1vbcode.com/privacy.asp) for the most accurate reproduction.*
 
 # Visual Basic Code , VB.NET Code
 
@@ -10,23 +10,23 @@
 • CLICK HERE!](http://www.discountasp.net/)   
    
 Code   
-  [All](https://web.archive.org/web/20090906183659id_/http%3A//a1vbcode.com/sort.asp?type=all)  
-  [VB](https://web.archive.org/web/20090906183659id_/http%3A//a1vbcode.com/code.asp?type=vb)  
-  [VB.NET](https://web.archive.org/web/20090906183659id_/http%3A//a1vbcode.com/code.asp?type=vb.net)  
-  [ASP](https://web.archive.org/web/20090906183659id_/http%3A//a1vbcode.com/code.asp?type=asp)  
-  [ASP.NET](https://web.archive.org/web/20090906183659id_/http%3A//a1vbcode.com/code.asp?type=asp.net)  
-  [Snippets](https://web.archive.org/web/20090906183659id_/http%3A//a1vbcode.com/sort.asp?type=snippet)  
-  [Popular](https://web.archive.org/web/20090906183659id_/http%3A//a1vbcode.com/sort.asp?type=popular)  
+  [All](https://web.archive.org/web/20100219185403id_/http%3A//a1vbcode.com/sort.asp?type=all)  
+  [VB](https://web.archive.org/web/20100219185403id_/http%3A//a1vbcode.com/code.asp?type=vb)  
+  [VB.NET](https://web.archive.org/web/20100219185403id_/http%3A//a1vbcode.com/code.asp?type=vb.net)  
+  [ASP](https://web.archive.org/web/20100219185403id_/http%3A//a1vbcode.com/code.asp?type=asp)  
+  [ASP.NET](https://web.archive.org/web/20100219185403id_/http%3A//a1vbcode.com/code.asp?type=asp.net)  
+  [Snippets](https://web.archive.org/web/20100219185403id_/http%3A//a1vbcode.com/sort.asp?type=snippet)  
+  [Popular](https://web.archive.org/web/20100219185403id_/http%3A//a1vbcode.com/sort.asp?type=popular)  
 Resources   
-  [Submit Code](https://web.archive.org/web/20090906183659id_/http%3A//a1vbcode.com/submit.asp)  
+  [Submit Code](https://web.archive.org/web/20100219185403id_/http%3A//a1vbcode.com/submit.asp)  
   [Forums](https://web.archive.org/vbforums)  
-  [Articles](https://web.archive.org/web/20090906183659id_/http%3A//a1vbcode.com/articles.asp)  
-  [Tips](https://web.archive.org/web/20090906183659id_/http%3A//a1vbcode.com/tipsarchive.asp)  
-  [Links](https://web.archive.org/web/20090906183659id_/http%3A//a1vbcode.com/sitecat.asp)  
-  [Books](https://web.archive.org/web/20090906183659id_/http%3A//a1vbcode.com/vbbooks.asp)  
-  [Contest](https://web.archive.org/web/20090906183659id_/http%3A//a1vbcode.com/contest.asp)  
-  [Mailing List](https://web.archive.org/web/20090906183659id_/http%3A//a1vbcode.com/mailinglist.asp)  
-  [Link to us](https://web.archive.org/web/20090906183659id_/http%3A//a1vbcode.com/linktous.asp)  
+  [Articles](https://web.archive.org/web/20100219185403id_/http%3A//a1vbcode.com/articles.asp)  
+  [Tips](https://web.archive.org/web/20100219185403id_/http%3A//a1vbcode.com/tipsarchive.asp)  
+  [Links](https://web.archive.org/web/20100219185403id_/http%3A//a1vbcode.com/sitecat.asp)  
+  [Books](https://web.archive.org/web/20100219185403id_/http%3A//a1vbcode.com/vbbooks.asp)  
+  [Contest](https://web.archive.org/web/20100219185403id_/http%3A//a1vbcode.com/contest.asp)  
+  [Mailing List](https://web.archive.org/web/20100219185403id_/http%3A//a1vbcode.com/mailinglist.asp)  
+  [Link to us](https://web.archive.org/web/20100219185403id_/http%3A//a1vbcode.com/linktous.asp)  
 Product Spotlight   
 Sponsor   
   **Privacy Statement**
@@ -41,6 +41,15 @@ We also use third party advertisements on our site. Some of these advertisers ma
 
 DoubleClick DART cookies  
 We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx 
+
+**Advertisers**
+
+A1VBCode uses third-party advertising companies Google Adsense, BurstMedia, TribalFusion, and Valueclick to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit, <http://tribalfusion.com/TribalFusion/privacy.html>,  
+<http://www.burstmedia.com/privacy.asp>,  
+<http://www.valueclickmedia.com/privacy.shtml>, and  
+<http://www.google.com/privacy_ads.html>. 
+
+If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit   [www.networkadvertising.org](http://www.networkadvertising.org/)
 
 **Registration Forms**
 
