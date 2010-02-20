@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rozee.pk privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302082323id_/http%3A//www1.rozee.pk/rozeedocs/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rozee.pk privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220095108id_/http%3A//www.rozee.pk/rozeedocs/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - ROZEE.PK | Jobs in Pakistan, Careers in Pakistan, Jobs, Employment, Careers, Recruitment, Hiring
+# Privacy Policy - ROZEE.PK | Jobs in Pakistan, Careers in Pakistan, Employment, Careers, Recruitment
 
 | 
 
