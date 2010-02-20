@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fragrancenet.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227084921id_/http%3A//www.fragrancenet.com/f/net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fragrancenet.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220013342id_/http%3A//www.fragrancenet.com/f/net/privacy.html) for the most accurate reproduction.*
 
 # FragranceNet.com® Privacy Policy
 
@@ -49,7 +49,7 @@ We want you to be aware that when you click on links and/or ad banners that take
   
 Your Security
 
-If you place an order our Website encrypts your credit card number you submit prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the site is viewed using Microsoft's Internet Explorer® or Netscape Navigator®. However, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard your personal information once we receive it, we cannot warrant the security of information you transmit to us. 
+If you place an order our Website encrypts your credit card number you submit prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the site is viewed using Microsoft's Internet Explorerï¿½ or Netscape Navigatorï¿½. However, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard your personal information once we receive it, we cannot warrant the security of information you transmit to us. 
 
   
 How to limit the use of your information from Third Parties
@@ -94,4 +94,4 @@ Subject to the above provisions, by using our Website, you consent to the collec
   
 Your Comments
 
-FragranceNet.com, Inc. welcomes feedback concerning this Privacy Policy. Please send your comments and questions to [feedback@fragrancent.com](mailto:feedback@fragrancenet.com). 
+FragranceNet.com, Inc. welcomes feedback concerning this Privacy Policy. Please send your comments and questions to [feedback@fragrancenet.com](mailto:feedback@fragrancenet.com). 
