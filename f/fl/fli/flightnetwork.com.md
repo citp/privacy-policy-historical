@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightnetwork.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604083805id_/http%3A//www.flightnetwork.com/pages/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightnetwork.com privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221000829id_/http%3A//www.flightnetwork.com/pages/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | Flight Network
 
@@ -108,4 +108,4 @@ www.privcom.gc.ca
 
 **UPDATED: May 30, 2007**
 
-Copyright © 1998 - 2009 Flight Network Cheap Flights. All Rights Reserved.
+Copyright © 1998 - 2010 Flight Network Cheap Flights. All Rights Reserved.
