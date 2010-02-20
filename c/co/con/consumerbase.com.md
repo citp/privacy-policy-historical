@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerbase.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220122026id_/http%3A//www.consumerbase.com/page/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerbase.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220062514id_/http%3A//www.consumerbase.com/page/Privacy-Policy) for the most accurate reproduction.*
 
 # ConsumerBase Privacy Policy
 
