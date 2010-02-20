@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the charismamag.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221171804id_/http%3A//www.charismamag.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charismamag.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220034333id_/http%3A//www.charismamag.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At Strang Communications, we are committed to protecting your privacy. We use the information we collect about you to send you information about the latest products and services and to learn from you about new products and services that you would like us to provide. Please read on for more details about our privacy policy.
+At Strang Communications, we are committed to protecting your privacy. We use the information we collect about you to send you information about the latest products and services and to learn from you about new products and services that you would like us to provide. Please read on for more details about our privacy policy. 
 
 ### What information do we collect? How will we use it?
 
