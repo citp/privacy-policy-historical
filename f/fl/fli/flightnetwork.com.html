@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flightnetwork.com privacy policy that was archived on 2009-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090604083805id_/http%3A//www.flightnetwork.com/pages/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flightnetwork.com privacy policy that was archived on 2010-02-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100221000829id_/http%3A//www.flightnetwork.com/pages/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy | Flight Network</title>
@@ -16,6 +16,7 @@
 <script language="javascript" src="/js/yahoo/calendar-min.js"></script>
 <script language="JavaScript" src="/js/detectbrowser.js"></script>
 <script language="JavaScript" src="/js/flightnetwork.js"></script>
+<script type="text/javascript" src="/recentSearches.js"></script>
 <script language="javascript">
  // yahoo calendar
  var input_id = 'depart_date';
@@ -26,53 +27,107 @@
  YAHOO.util.Event.addListener("return_date_calendar_ico", "click", launchCalendar);
  YAHOO.util.Event.addListener("return_date", "focus", launchCalendar);
 </script>
-<script type="text/javascript">
-    function LoadAutocompleter() {
-      new Ajax.Autocompleter('gateway_departure', 'd_hint1', '/cgi-bin/b2c-v3/get_airport.cgi', {minChars: 3, frequency: 0.1});
-      new Ajax.Autocompleter('gateway_return', 'r_hint1', '/cgi-bin/b2c-v3/get_airport.cgi', {minChars: 3, frequency: 0.1});
-      new Ajax.Autocompleter('dest_departure', 'd_hint2', '/cgi-bin/b2c-v3/get_airport.cgi', {minChars: 3, frequency: 0.1});
-      new Ajax.Autocompleter('dest_return', 'r_hint2', '/cgi-bin/b2c-v3/get_airport.cgi', {minChars: 3, frequency: 0.1});      
-    }            
-</script>
+<script language="javascript" src="/js/date.js"></script>
+<script language="JavaScript1.2" src="/js/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
 <link rel="stylesheet" type="text/css" href="/b2c-v3/css/yahoo/calendar.css">
 <link rel="stylesheet" type="text/css" href="/b2c-v3/css/yahoo/fonts-min.css">
 </head>
 
-<body onload="set_date_from_cookie(); LoadAutocompleter(); document.getElementById('gateway_departure').focus()">
+<body onload="set_date_from_cookie(); LoadAutocompleter(); getRecentSearches(); document.getElementById('gateway_departure').focus()">
+<!-- Start the mbox code for Autocompleter T&T -->
+
+<style type="text/css">
+.mboxDefault {
+    visibility:hidden;
+}
+</style>
+<!-- insertion point for Test & Target code -->
+<div class="mboxDefault" style="visibility: visible; display: block;">
+<!-- main content start-->
+<div id="autocompleter_view" style="display:none;">old autocompleter</div>
+<!-- main content end-->
+</div>
+<!-- mboxDefault end -->
+<script language="javascript">
+       mboxCreate('Autocompleter_citydisplay_Mbox');
+</script><div id="mboxMarker-default-Autocompleter_citydisplay_Mbox-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://shockwave.tt.omtrdc.net/m2/shockwave/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1582550579544-952710&amp;mboxPage=1582550583044-499337&amp;mboxCount=1&amp;mbox=Autocompleter_citydisplay_Mbox&amp;mboxId=0&amp;mboxTime=1582550583046&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20100221000829id_%2Fhttp%253A%2F%2Fwww.flightnetwork.com%2Fpages%2Fprivacy.shtml&amp;mboxReferrer=&amp;mboxVersion=37" language="JavaScript"></script>
+ <!--End of Commented for now-->    
+
+<!-- Ends the code -->
 <div id="wrapper">
   <div id="header">
-	 <!-- Omniture T & T JS file -->
-<script type="text/javascript" src="/js/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
+	 
 
-<img src="/img/logo-main.jpg" id="logo" alt="Cheap Flights">
-	<div id="slogan">Specializing in Cheap Flights from Canada</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="JavaScript" src="/js/us_canada_pagecookies.js"></script>
+<script type="text/javascript" src="/recentSearches.js"></script>
+<script>
+window.onload=function() {
+	set_date_from_cookie();
+ 	LoadAutocompleter();
+ 	getRecentSearches();
+}
+
+	function reset_menu(mid){
+		document.getElementById(mid).style.backgroundImage = 'url(../../img/bg-menu-hover.gif)';
+	} 
+</script>
+<a href="/"><img src="/img/logo-main.jpg" id="logo" alt="Cheap Flights" style="border:none; border-width:0px;"></a>
+
+	<div id="slogan">Specializing in Cheap Flights from Canada and the US</div>
+<div id="uscanada_flag">
+	<script>
+	searchstr=getCookie('hasVisited');
+	if(searchstr == 'us') {
+	document.write('<a href="'+location.href+'" onClick="deleteCookie();"><img src="/img/canada_flage.jpg" border="0"></a>');
+	}
+	</script>
+	</div>
     <div id="top-nav">
        <ul id="top-menu">
               <li><a href="/">Home</a>&nbsp; |&nbsp;</li>
                 <li><a href="/pages/about.htm">About Us</a>&nbsp; |&nbsp;</li>
                 <li><a href="/pages/contact.htm">Contact Us</a><br></li>
+
         </ul>
-        <span id="top-contact"><span id="email">sales@flightnetwork.com</span> 905.829.8699 · 1.800.671.5032</span>
         </div>
         <div style="clear:both"></div>
 		<ul id="menu">
-				  <li><a href="/"><br><span>Home </span></a></li>
-				  <li><a href="/flights"><br><span>Flights </span></a></li>
-				  <li><a href="/vacations/"><br><span>Vacations</span></a></li>
-				  <li><a href="/hotels"><br><span>Hotels </span></a></li>
-				  <li><a href="/cruises"><br><span>Cruises </span></a></li>
-				  <li><a href="/tours"><br><span>Tours </span></a></li>
-				  <li><a href="/airlines"><br><span>Airlines </span></a></li>
-				  <li><a href="/destinations"><br><span>Destinations </span></a></li>
-			  <li><a href="/etickets"><br><span>E-Tickets </span></a></li>
+
+				  <li><a href="/" id="menu_home"><br><span>Home </span></a></li>
+				  <li><a href="/flights" id="menu_flights"><br><span>Flights </span></a></li>
+				  <li><a href="/vacations" id="menu_vacations"><br><span>Vacations</span></a></li>
+				  <li><a href="/hotels" id="menu_hotels"><br><span>Hotels </span></a></li>
+                      <li><a href="/cars/" id="menu_cars"><br><span>Cars </span></a></li>
+				  <li><a href="/cruises" id="menu_cruises"><br><span>Cruises </span></a></li>
+				  <li><a href="/tours" id="menu_tours"><br><span>Tours </span></a></li>
+				  <li><a href="/airlines" id="menu_airlines"><br><span>Airlines </span></a></li>
+				  <li><a href="/top20deals/" id="menu_top20"><br><span>Top20 Deals </span></a></li>
+                      <li><a href="/destinations" id="menu_destinations"><br><span>Destinations </span></a></li>
+ 			       <li><a href="/etickets"><br><span>E-Tickets </span></a></li>
 		</ul>
+
         <img src="/img/menu-line.gif" alt="line">
 
 
-	<div id="top-left"><div id="fsearch">Flight <b>Search</b></div><form name="SearchFare" action="/flights/search" method="post">
+	<div id="top-left"><div id="fsearch">Flight <b>Search</b></div><form name="SearchFare" action="/flights/search" method="get">
 		<div id="search-form">
 		  <div id="form-fields">
-
+	<input type="hidden" name="currency" value="CAD">		
 	<input type="hidden" value="flightnetwork" name="client_ref">
 		<label class="label">From:</label>
 		<!--Mythily's addition for city converter-->
@@ -85,24 +140,29 @@
 
 		<!--<input name="gateway_ret"  type="text" tabindex="2" class="textbox" />-->
 		<input name="gateway_return" type="text" tabindex="2" class="textbox" id="gateway_return" autocomplete="off" value="">
-		<div class="autocomplete" id="r_hint1" style="display:none;"></div>
+		<div class="autocomplete" id="r_hint1" style="display:none; z-index: 4000;"></div>
 		<input type="hidden" name="gateway_ret" id="gateway_ret" value="">
-		<div id="CITY1" style="display: none;"><br>
-		<label class="label">From:</label>
-
+		
+        <div id="CITY1" style="display: none;">
+		
+        <label class="label">From:</label>
 		<!--<input name="dest_dep"  type="text" tabindex="3" class="textbox" />-->
 		<input name="dest_departure" id="dest_departure" type="text" tabindex="3" class="textbox" autocomplete="off" value="">
 		<div class="autocomplete" id="d_hint2" style="display:none;"></div>
 		<input name="dest_dep" type="hidden" tabindex="3" id="dest_dep" value="">
-		</div>
-        <div id="CITY2" style="display: none;"><label class="label">&nbsp;&nbsp;&nbsp;&nbsp;To:</label>
-
+		
+        </div>
+        
+        <div id="CITY2" style="display: none;">
+        
+        <label class="label">&nbsp;&nbsp;&nbsp;&nbsp;To:</label>
 		<!--<input name="dest_ret"  type="text" tabindex="4" class="textbox" />-->
-
 		<input name="dest_return" type="text" tabindex="4" class="textbox" id="dest_return" autocomplete="off" value="">
-		<div class="autocomplete" id="r_hint2" style="display:none;"></div>
+		<div class="autocomplete" id="r_hint2" style="display:none; z-index: 4000;"></div>
 		<input name="dest_ret" type="hidden" id="dest_ret" tabindex="4" value="">
+
 		</div>
+
 		<div class="divider"></div>
 		<label class="label">Fare Type:</label>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -116,20 +176,25 @@
 
 <div class="divider"></div>
 
-       <label class="label">Departure Date:</label>&nbsp;
+       <label class="label">Departure Date:</label>
 		<input type="text" size="9" id="depart_date" name="depart_date" value="mm/dd/yyyy" class="dates" tabindex="6">
 		<img width="14" height="14" border="0" id="depart_date_calendar_ico" alt="calendar" src="/images/calendar.gif" class="bottom">
 		           	<div class="yui-skin-sam divyui">
- 						<div id="calendar" name="calendar" style="position:absolute;display:none;"></div>
+ 					<!--[if IE ]>
+					<div id="calendar" name="calendar" style="margin-left: 17px; margin-top:-26px; position:absolute; display:none;"></div>
+				<![endif]-->
+				<!--[if IE]><![if !IE]><![endif]-->
+					<div id="calendar" name="calendar" style="margin-left: -5px; margin-top:-20px; position:absolute; display:none;"></div>
+				<!--[if IE]><![endif]><![endif]-->
 			        </div>
 <div class="divider"></div>
-<label class="label">Return Date:</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<label class="label">Return Date:</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<input type="text" size="9" id="return_date" name="return_date" value="mm/dd/yyyy" class="dates" tabindex="7">
 		<img width="14" height="14" border="0" id="return_date_calendar_ico" alt="calendar" src="/images/calendar.gif" class="bottom">
 <div class="divider"></div>
 		<label class="paxlabels">Adult(s)</label>
 
-		<select size="1" name="adult" tabindex="8" class="pax">
+		<select size="1" id="adult" name="adult" tabindex="8" class="pax">
 		  <option value="1">1</option>
 		  <option value="2">2</option>
 		  <option value="3">3</option>
@@ -142,7 +207,7 @@
 		  <option value="9">9</option>
 		</select>
 		<label class="paxlabels">Child(2-11)</label>
-        <select name="child" tabindex="9" class="pax">
+        <select id="child" name="child" tabindex="9" class="pax">
 
           <option value="0">0</option>
           <option value="1">1</option>
@@ -157,7 +222,7 @@
           <option value="9">9</option>
         </select>
 		<label class="paxlabels">Infant(0-23mth)</label>
-        <select name="infant" tabindex="10" class="pax">
+        <select id="infant" name="infant" tabindex="10" class="pax">
 
           <option value="0">0</option>
           <option value="1">1</option>
@@ -172,29 +237,45 @@
           <option value="9">9</option>
         </select>
 <div class="divider"></div>
-		<input type="radio" name="trip_type" value="1" onclick="DisplayReturn()" tabindex="11" class="radio" checked="checked">
+		<input type="radio" id="trip_type" name="trip_type" value="1" onclick="DisplayReturn()" tabindex="11" class="radio" checked="checked">
 
 		<label class="paxlabels">Return</label>
-		<input type="radio" name="trip_type" value="0" onclick="DisplayOneway()" tabindex="12" class="radio">
+		<input type="radio" id="trip_type" name="trip_type" value="0" onclick="DisplayOneway()" tabindex="12" class="radio">
 		<label class="paxlabels">Oneway</label>
-		<input type="radio" name="trip_type" value="2" onclick="DisplayOJ()" tabindex="13" class="radio">
+		<input type="radio" id="trip_type" name="trip_type" value="2" onclick="DisplayOJ()" tabindex="13" class="radio">
 		<label class="paxlabels">MultiCity</label>
-		<br><br>
+		<div class="divider"></div>
+	
+<div id="recentSearches">
+            <select id="recentSearches_ddl" class="recSearches" onchange="showPrev()">
+                <option value="">Select a recent search</option>
+            </select><div class="divider"></div>
+        </div>
+
         <!-- SSL/ TICO/ BBB logo strip -->
 		<div id="sslbbbtico" align="left">
-            <img src="/img/main_logo.png" width="231" height="30" alt="logo" align="center"></div>
-		  </div>
+            <img src="/img/main_logo.png" width="231" height="30" alt="logo" align="center"></div>								
+		<!--[if IE 7]>
+		</form>
+		<form name="SearchFareNew" action="/flights/search" method="get" onsubmit="this.submit();return false;">						
 		</div>
+		</div>
+		<![endif]-->
+		<!--[if IE 7]><![if !IE 7]><![endif]-->
+		</div>
+		</div>
+		</form>
+		<form name="SearchFareNew" action="/flights/search" method="get" onsubmit="this.submit();return false;">								
+		<!--[if IE 7]><![endif]><![endif]-->
 <!-- insertion point for Test & Target code -->
-<div class="mboxDefault" style="visibility: visible; display: block;">
+<!-- <div class = "mboxDefault"> -->
 		<div id="search-submit">
-        <input class="button" id="button" tabindex="14" value="Search »" onclick="return ValidateDate();  javascript:this.document.SearchFare.submit();" type="image" name="button" src="/img/search-submit.gif" alt="Search Submit"></div>
-    </div>      <!-- mboxDefault end -->
-    <script language="javascript">
+        <input class="button" id="button" tabindex="14" value="Search »" onclick="return (ValidateDate() &amp;&amp; setRecentSearch()); javascript:this.document.SearchFareNew.submit();" type="image" name="button" src="/img/search-submit.gif" alt="Search Submit"></div>
+   <!-- </div> -->     <!-- mboxDefault end -->
+    <!-- <script language="javascript">
         mboxCreate('searchMbox');
-    </script><div id="mboxMarker-default-searchMbox-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://shockwave.tt.omtrdc.net/m2/shockwave/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1582550592237-796988&amp;mboxPage=1582550592237-796988&amp;mboxCount=1&amp;mbox=searchMbox&amp;mboxId=0&amp;mboxTime=1582550592254&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20090604083805id_%2Fhttp%253A%2F%2Fwww.flightnetwork.com%2Fpages%2Fprivacy.shtml&amp;mboxReferrer=&amp;mboxVersion=37" language="JavaScript"></script>
-
-	</form>
+    </script> -->
+	</form>		
 </div>
 	<div id="top-right-other" style="background: url('/img/bg-top-flights1.jpg') no-repeat">
  <table cellspacing="0" cellpadding="0" border="0" class="airfare">
@@ -212,8 +293,7 @@
   </map>
   </div>
 <div id="spara">
-	   <p>With some of the most sophisticated search technology in the industry we will check and compare for <font style="color:#F39; font-weight:bold">you</font> all the airline published fares, special "web only" fares, and over 2 000 000 bulk rates that we have negotiated with major airlines including <a href="/airlines/westjet/">WestJet</a> to find you the <font style="color:#F39; font-weight:bold">cheapest flights</font>. These substantial savings are available for you on economy, business and first class flights, as well as on last minute and mid-week trips. Book <font style="color:#F39; font-weight:bold">your</font> discount flights today! <br>
-      </p></div>
+<p>With some of the most sophisticated search technology in the industry we will check and compare for <font style="color:#F39; font-weight:bold">you</font> all the airline published fares, special "web only" fares, and over 2 000 000 bulk rates that we have negotiated with&nbsp; major&nbsp; airlines&nbsp; including <a href="/airlines/aircanada/">Air Canada</a> and <a href="/airlines/westjet/">WestJet</a> to find you the <font style="color:#F39; font-weight:bold">cheapest flights</font>. These substantial savings are available for you on economy, business and first class flights, as well as on last minute and mid-week trips. Book <font style="color:#F39; font-weight:bold">your</font> discount flights today!<br></p></div>
 
 	</div>
   </div>
@@ -225,26 +305,176 @@
 			  <li><a href="/pages/about.htm">History</a></li>
 			<li><a href="/pages/service.shtml">Service</a></li>
 			<li><a href="/pages/associations.shtml">Associations</a></li>
+            <li><a href="/pages/news.htm">News</a></li>
+            <li><a href="/pages/contest.shtml">Contest Winners</a></li>
 			<li><a href="/pages/how.htm">How Do We Do It?</a></li>
 			<li><a href="/pages/faq.htm">FAQ's</a></li>
 			<li><a href="/pages/terms.shtml">Terms &amp; Conditions</a></li>
 			<li><a href="/pages/testimonials.shtml">Testimonials</a></li>
+            <li><a href="/pages/td.shtml">TD Rewards</a></li>
 			<li><a href="/airlines">Airlines</a></li>
 			<li><a href="/destinations">Destinations</a></li>
+            <li><a href="/groups/index.shtml">Groups</a></li>
+	    <li><a href="/pages/employment.shtml">Employment</a></li>
 			</ul>
 		<img src="/img/navbot.gif" style="margin: 0 0 10px 0">
-			<div id="inexpensive-flights">
-<table cellspacing="0" cellpadding="0" border="0" align="center" class="inexpensive">
-<tbody><tr>
-<th><b>Inexpensive</b></th><td> Flights</td>
-</tr>
-</tbody></table>
-<p><strong>Over 2,000,000</strong> exclusively Negotiated "bulk" airfares for you. Find yourself huge savings on <strong>cheap flights</strong> with minimal advance purchase. With Flightnetwork, you get the discounts.</p>
-		  	</div>
-			<img src="/img/plane-engine.jpg" alt="Plane">
-			<img src="/img/bbb.gif" alt="BBB" border="0" class="right">
-		    <img src="/img/tico.gif" alt="TICO" border="0" class="right">
-			<a href="https://seal.godaddy.com/verifySeal?sealID=157609082302bce066312710ad29afce617edb04109306762557451968"><img src="/img/ssl.gif" alt="SSL" border="0" class="right"></a>
+			<script language="JavaScript" src="/js/us_canada_pagecookies.js"></script>
+<script>
+	searchstr=getCookie('hasVisited');
+	if(searchstr == 'us') 
+	{
+	document.write('<div id="inexpensive-flights">');
+	document.write('<table cellspacing="0" cellpadding="0" border="0" align="center" class="inexpensive" width="90%">');
+	document.write('<tr><th><b>Inexpensive</b> <font color="#333333">Flights</font></th></tr>');
+	document.write('<tr><td colspan="2"><b>Over 2,000,000</b> exclusively Negotiated "bulk" airfares for you. Find yourself huge savings on <b>cheap flights</b> with minimal advance purchase. With Flightnetwork, you get the discounts.</td></tr>');
+	document.write('</table></div>');
+	}
+	else
+	{
+	document.write('<div id="inexpensive-flights-grey">');
+	document.write('<table cellspacing="0" cellpadding="0" border="0" align="center" class="inexpensive" width="90%">');
+	document.write('<tr><th><font style="font-size:18px; ">Book Flights on Canada&rsquo;s 2nd Most Visited Online Travel Agency Website</font></th></tr>');
+	document.write('<tr><td>We&rsquo;re &lsquo;Canada&rsquo;s Best Kept Secret&rsquo; for cheap flights and online travel. Search for a flight now and see for yourself.</td></tr>');
+	document.write('</table></div>');
+	}
+</script>
+<!--<div id="inexpensive-flights">
+        <table cellspacing="0" cellpadding="0" border="0" align="center" class="inexpensive" width="90%">
+            <tr>
+        <th><b>Inexpensive</b> <font color="#333333">Flights</font></th>
+      </tr>
+
+      <tr>
+        <td colspan="2">
+                 <b>Over 2,000,000</b> exclusively Negotiated "bulk" airfares for you. Find yourself huge savings on <b>cheap flights</b> with minimal advance purchase. With Flightnetwork, you get the discounts.
+</td>
+      </tr>
+    </table>
+
+  </div>
+<div id="inexpensive-flights-grey">
+  <table cellspacing="0" cellpadding="0" border="0" align="center" class="inexpensive" width="90%">
+    <tr>
+      <th><font style="font-size:18px; ">Book Flights on Canada's 2nd Most Visited Online Travel Agency Website</font></th>
+    </tr>
+    <tr>
+      <td>We're 'Canada's Best Kept Secret' for cheap flights and online travel. Search for a flight now and see for yourself.</td>
+    </tr>
+  </table>
+</div>-->
+
+<script type="text/javascript"> 
+var curr_lb_div; 
+var is_modal = false; 
+function ShowLightBox(lb_div, isModal) { 
+    document.getElementById(lb_div).style.display='block'; 
+    document.getElementById('fade').style.display='block'; 
+    curr_lb_div = lb_div;
+    if (isModal) 
+    is_modal = true; 
+    else is_modal = false;
+    setTimeout("HideLightBox()",3000);
+} 
+function HideLightBox() { 
+    if (document.getElementById(curr_lb_div)) 
+    { 
+        document.getElementById(curr_lb_div).style.display='none'; 
+        document.getElementById('fade').style.display='none'; 
+        curr_lb_div = ''; 
+    } 
+} 
+</script>
+<script type="text/javascript" language="javascript">
+   var http_request = false;
+   function makePOSTRequest(url, parameters) {
+      http_request = false;
+      if (window.XMLHttpRequest) { // Mozilla, Safari,...
+         http_request = new XMLHttpRequest();
+         if (http_request.overrideMimeType) {
+            // set type accordingly to anticipated content type
+            //http_request.overrideMimeType('text/xml');
+            http_request.overrideMimeType('text/html');
+         }
+      } else if (window.ActiveXObject) { // IE
+         try {
+            http_request = new ActiveXObject("Msxml2.XMLHTTP");
+         } catch (e) {
+            try {
+               http_request = new ActiveXObject("Microsoft.XMLHTTP");
+            } catch (e) {}
+         }
+      }
+      if (!http_request) {
+         alert('Cannot create XMLHTTP instance');
+         return false;
+      }
+      
+//       http_request.onreadystatechange = alertContents;
+      http_request.open('POST', url, true);
+      http_request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+      http_request.setRequestHeader("Content-length", parameters.length);
+      http_request.setRequestHeader("Connection", "close");
+      http_request.send(parameters);
+   }
+
+
+   function get(obj) {
+      var poststr = document.getElementById("txtemail").value  ;
+    var testresults;
+      var filter=/^.+@.+\..{2,3}$/ ;
+
+      if (filter.test(poststr)) {
+
+            testresults=true;
+            ShowLightBox('single1');
+            makePOSTRequest('/cgi-bin/b2c-v3/SuccessByEmail/cgi/successClient.cgi', poststr);
+
+        }
+
+        else{
+            ShowLightBox('single2');
+            testresults=false;
+        }
+     return (testresults);
+   }
+</script>
+
+<div id="fade" class="LB-black-overlay" onclick="if (!is_modal) HideLightBox(); return false;"></div>  
+<div id="single1" class="LB-white-content"> <img src="/img/fnlogo.jpg" id="logo1" alt="Cheap Flights"><br><br><font style="font: 13px arial, sans-serif;font-weight: bold;"> <center>
+Thank you for subscribing to our Newsletter.<br> You will now receive the Best Travel Deals to your inbox! </center></font> </div>
+<div id="single2" class="LB-white-content"> <img src="/img/fnlogo.jpg" id="logo2" alt="Cheap Flights"><br><br><font style="font: 13px arial, sans-serif;font-weight: bold;"> <center>
+<b><font color="red">ERROR : </font></b>Invalid email address; Please check the email address.</center></font> </div>    
+
+
+<div id="dealbox">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td><form name="myform" id="myform">
+        <table class="exclusive " width="100%" border="0" cellspacing="0" cellpadding="3">
+          <tbody><tr>
+            <th align="left"><b>Exclusive Deals<br>
+in your inbox</b></th>
+          </tr>
+          <tr>
+            <td><font name="Verdana,Geneva,sans-serif" size="2" color="#000000">Sign up now and  receive our weekly<br>
+               <strong>Top 20 Deals</strong> in your email inbox </font></td>
+          </tr>
+          <tr>
+            <td><label>
+              <input name="txtemail" type="text" id="txtemail" style="width:218px;">
+            </label></td>
+          </tr>
+        <tr>
+            <td align="right"><input class="button" id="button" name="button" alt="Search Submit" type="button" style="margin-right:45px; background: url('/img/sub_logo.gif') top no-repeat;width:80px;height:28px;border:none; border-width:0px;" onclick="javascript:get(this.parentNode);"></td>
+          </tr>
+        </tbody></table>
+      </form></td>
+    </tr>
+  </tbody></table>
+</div> 
+
+<img src="/img/bbb.gif" alt="BBB" border="0" class="right"> <img src="/img/tico.gif" alt="TICO" border="0" class="right"> <a href="https://seal.godaddy.com/verifySeal?sealID=157609082302bce066312710ad29afce617edb04109306762557451968"> <img src="/img/ssl.gif" alt="SSL" border="0" class="right"></a> 
+    
 
 	  </div>
 	  	<div id="content-airlines">
@@ -361,11 +591,15 @@ When you visit or browse our <strong>w</strong>ebsite, we may also collect infor
     s.pageName = "FlightNetwork: Privacy Policy";
     }
 </script>   
-    <div class="clear"></div>
+
+
+
+    
+<div class="clear"></div>
 </div>
 	</div>
 	<div id="footer">
-		<ul id="bottom-menu">
+		<ul id="bottom-menu" style="font-size:11px;">
 			<li><a href="/">Home</a> | </li>
 			<li><a href="/flights">Flights</a> | </li>
 			<li><a href="/vacations/">Vacations</a> | </li>
@@ -376,7 +610,9 @@ When you visit or browse our <strong>w</strong>ebsite, we may also collect infor
 			<li><a href="/destinations">Destinations</a> | </li>
 			<li><a href="/etickets">E-Tickets</a> | </li>
             <li><a href="/pages/lowestfare.shtml">Lowest Fare</a> | </li>
-            <li><a href="/top20deals/">Top 20 Deals</a></li>
+            <li><a href="/top20deals/">Top20 Deals</a> | </li>
+            <li><a href="/groups/">Groups</a> | </li>
+            <li><a href="/cars/">Car Rentals</a></li>
 		</ul>
 		<ul id="bottom-nav">
 			<li><a href="/">Cheap Flights</a> | </li>
@@ -390,11 +626,12 @@ When you visit or browse our <strong>w</strong>ebsite, we may also collect infor
 			<li><a href="/pages/sitemap.htm">Sitemap</a> | </li>
 			<li><a href="/pages/resources">Resources</a> | </li>
 			<li><a href="/pages/privacy.shtml">Privacy</a> | </li>
-            <li><a href="/pages/terms.shtml">Terms &amp; Conditions</a></li>
-		</ul>
+            <li><a href="/pages/terms.shtml">Terms &amp; Conditions</a> | </li>
+            <li><a href="http://www.travelaffiliateworld.com" target="_blank">Affiliates</a></li>
+         </ul>
 	</div>
 </div>
-<div align="center">Copyright © 1998 - 2009 Flight Network Cheap Flights.  All Rights Reserved.</div>
+<div align="center">Copyright © 1998 - 2010 Flight Network Cheap Flights.  All Rights Reserved.</div>
 
 <!-- Omniture code inclusion -->
 <!-- SiteCatalyst code version: H.19.4.
@@ -466,8 +703,6 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
     } catch(err) {}
 </script>
 
-
-<script type="text/javascript" src="http://cetrk.com/pages/scripts/0007/4333.js"> </script>
 <script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
