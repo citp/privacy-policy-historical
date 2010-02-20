@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flydubai.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410184655id_/http%3A//www.flydubai.com/LandingPage.aspx%3Fid%3D304) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flydubai.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220012932id_/http%3A//www.flydubai.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# flydubai - privacy policy
+# Privacy policy - flydubai
 
 ## Information collection and use
 
@@ -19,11 +19,11 @@ We take our responsibilities regarding the protection of personal information ve
   7. Security
   8. Tracking site usage
   9. Cookies
-  10. Links
-  11. Changes to the Privacy Policy
-  12. Minors accessing our web site
-  13. News and updates
-  14. Applicable law
+  10.  Links
+  11.  Changes to the Privacy Policy
+  12.  Minors accessing our web site
+  13.  News and updates
+  14.  Applicable law
 
 
 
@@ -52,7 +52,7 @@ Information you provide or that is obtained by us on this web site, via our call
 
 We may contact you by post, email, telephone (including SMS) or fax for these purposes. Your confirmation e-mails (which may include details of flight bookings or other services booked through our websites) may include marketing material which we may feel will be of interest to you from other third parties. We may also use and analyse the information that we collect so that we can review, administer, support, improve and develop our business and the services which we offer.
 
-If you would like to receive details of our new services and special offers,[you can click here to register.](https://web.archive.org/web/20090410184655id_/http%3A//www.flydubai.com/LandingPage.aspx?id=306)
+If you would like to receive details of our new services and special offers, [you can click here to register.](https://web.archive.org/web/20100220012932id_/http%3A//www.flydubai.com/signup.aspx)
 
 Back to top
 
@@ -60,14 +60,14 @@ Back to top
 
 flydubai does not sell, or trade your personal information to third parties. We may share information about you as follows:
 
-* your personal data (including sensitive personal data) has been provided to us for the purposes of: making a reservation; recording and issuing a Ticket; issuing a boarding pass and other purposes associated with or incidental to your carriage [link to Conditions of Carriage]. you authorise us to retain and use such data and to transmit to and/or to share it with: our own offices, our Authorised Agents, our other companies and/or brands, anyone to whom we transfer our rights and duties; third party companies offering related services (including, for example, car rental, hotels, limousines, transfers, ancillary services), governments and government agencies, credit card and other payment card companies, and other airlines or providers of such related services.
+* Your personal data (including sensitive personal data) has been provided to us for the purposes of: making a reservation; recording and issuing a Ticket; issuing a boarding pass and other purposes associated with or incidental to your carriage [link to Conditions of Carriage]. you authorise us to retain and use such data and to transmit to and/or to share it with: our own offices, our Authorised Agents, our other companies and/or brands, anyone to whom we transfer our rights and duties; third party companies offering related services (including, for example, car rental, hotels, limousines, transfers, ancillary services), governments and government agencies, credit card and other payment card companies, and other airlines or providers of such related services.
 * For all these purposes, flydubai may provide its third party service providers and processors with access to your personal information. These services providers may include: credit card verification providers, our data warehouse and customer relationship management centre, marketing organizations, who may provide us support with marketing and promotional communications; internet service providers who administer our web page and provide internet services and host our facilities; third party companies offering related services, such as chauffeurs, car rental agencies, hotels and other ancillary services; and consumer research companies that assist flydubai with understanding consumer interests by conducting surveys.
 * flydubai may also disclose your personal information as permitted or required by law. For example, flydubai will disclose personal information to those governmental bodies who have authority to obtain it, in order to comply with a warrant or subpoena issued by a court of competent jurisdiction, and to comply with record production requirements.
-* to customs and/or immigration departments or other regulatory authorities in your country of departure and/or destination in order to comply with the law in those countries;
+* To customs and/or immigration departments or other regulatory authorities in your country of departure and/or destination in order to comply with the law in those countries;
 * Sensitive personal data, for example data relating to your health or disabilities, religion, criminal record or otherwise may be processed by us. You recognise that, by providing us with sensitive personal data you give your explicit consent for us to process it and disclose it to third parties for the above purposes. We undertake to collect, process, store, save and transfer your data in compliance with relevant data protection legislation in force from time to time. In processing your data we may transfer it to countries which may not afford the same level of protection.
-* to anyone to whom we transfer or may transfer our rights and duties under our agreement with you;
-* if we have a duty to do so or if the law allows us to do so;
-* to our employees and agents to do any of the above on our behalf, now or in the future.
+* To anyone to whom we transfer or may transfer our rights and duties under our agreement with you;
+* If we have a duty to do so or if the law allows us to do so;
+* To our employees and agents to do any of the above on our behalf, now or in the future.
 
 If you choose not to provide certain personal information we request, you will still be able to visit our web site but you may be unable to access certain options or services.
 
@@ -111,9 +111,7 @@ Back to top
 
 We take appropriate steps to protect the personal information you share with us. When you book a flight or enter personally identifying information, your details are transmitted across the internet securely using high-grade encryption (128 bit). We have implemented technology and security features to safeguard the privacy of your personal information. We also follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access. Should we be required to disclose sensitive information to you, we may request proof of identity in adherence with our security procedures, before we are able to do so.
 
-In the circumstances set out in this policy where flydubai passes your information to a third party, we will ensure that the security measures that such party has in place in relation to the processing
-
-of your data are at least as stringent as those employed by flydubai. This does not apply where we are required by law to pass your information to a third party.
+In the circumstances set out in this policy where flydubai passes your information to a third party, we will ensure that the security measures that such party has in place in relation to the processing of your data are at least as stringent as those employed by flydubai. This does not apply where we are required by law to pass your information to a third party.
 
 We will retain your information for a reasonable period or as long as the law requires.
 
