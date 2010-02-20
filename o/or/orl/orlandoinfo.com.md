@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the orlandoinfo.com privacy policy that was archived on 2008-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081025155631id_/http%3A//www.orlandoinfo.com/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orlandoinfo.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220081050id_/http%3A//www.orlandoinfo.com/company/privacy.cfm) for the most accurate reproduction.*
 
-# Orlando Travel & Visitors Bureau - Orlando Florida Vacation - Privacy Policy
+# Privacy Policy
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name.
 
@@ -38,7 +38,7 @@ Some of our Web pages and HTML-formatted e-mail newsletters use Web beacons in c
 
 Each time we collect information, the user is given the opportunity to opt out of any e-mail communication from our site. E-mail will not be sent to anyone who has indicated that they do not wish to receive our newsletters.
 
-If you do not want to receive e-mail from us in the future, please let us know by visiting <http://orlandoinfo.com/enewsletter/unsubscribe.cfm> and following the instructions there.
+If you do not want to receive e-mail from us in the future, please let us know by visiting [http://orlandoinfo.com/enewsletter/unsubscribe.cfm](https://web.archive.org/enewsletter/unsubscribe.cfm) and following the instructions there.
 
 ### Children
 
