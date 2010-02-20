@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gaiam.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503144430id_/http%3A//www.gaiam.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaiam.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220013205id_/http%3A//www.gaiam.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
-# Privacy and Security - Customer Service - Gaiam
+# Gaiam.com Privacy Policy - Gaiam
 
 This Gaiam.com Privacy Policy (" **Privacy Policy** ") governs your use of the Gaiam.com website (the " **Website** "), which is owned by Gaiam, Inc. (" **Gaiam** ").   We know how visitors like you value your privacy, and we have created this Privacy Policy to ensure that you understand our policies and procedures, what personal information you must provide if you wish to use certain portions of our Website and, ultimately, just how we use such personal information. This Privacy Policy is a part of and is incorporated into our Gaiam.com Terms and Conditions of Use. By accessing or using our Website, you accept, without limitation or qualification, the terms of this Privacy Policy.
 
