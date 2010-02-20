@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angelfoodministries.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219190740id_/http%3A//www.angelfoodministries.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angelfoodministries.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220063747id_/http%3A//www.angelfoodministries.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Angel Food Ministries
 
