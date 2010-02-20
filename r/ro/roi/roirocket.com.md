@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roirocket.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503185532id_/http%3A//www.roirocket.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roirocket.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220111132id_/http%3A//www.roirocket.com/privacy.asp) for the most accurate reproduction.*
 
 # ROI Rocket - Affiliate Network - Affiliate Programs
 
@@ -50,8 +50,8 @@ ROI Rocket provides every user with the opportunity to opt-out of receiving futu
 
   1. Email: [Click Here](mailto:publishers@roirocketcorp.com)
   2. Website: http://www.roirocket.com 
-  3. Postal Mail: #425 3210 E Chinden Blvd #115 Eagle ID 83616 
-  4. Facsimile: (734) 661-0173 
+  3. Postal Mail: 1675 Larimer Street, Suite 640, Denver CO 80202, USA 
+  4. Facsimile: (303) 534-5021 
 
 
 
@@ -59,4 +59,4 @@ CONTACTING ROI ROCKET
 
 If you have any questions about ROI Rocket's Privacy Policy, the practices of the ROI Rocket web site, or your dealings with the ROI Rocket web site, please contact us via one of the methods outlined above.
 
-This Privacy Policy was last revised on August 22, 2005.
+This Privacy Policy was last revised on December 16, 2009.
