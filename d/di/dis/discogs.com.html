@@ -1,117 +1,126 @@
-<!--The following is the downloaded HTML source of the discogs.com privacy policy that was archived on 2009-02-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090209090158id_/http%3A//www.discogs.com/help/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the discogs.com privacy policy that was archived on 2010-02-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100221233612id_/http%3A//www.discogs.com/help/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta name="verify-v1" content="kZg16KbGVgtSrBuoDcwAKBKYVvDb26lnudxP3FMOcoE=">
 <meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<meta name="google-site-verification" content="P9e8dDWoaDuDPrp0DD3zgkSxYwl5w10Ask6KkHr2V6k">
 <title>Privacy Policy / Discogs Help</title>
 <link rel="icon" href="/images/favicon.ico">
-<link rel="stylesheet" href="/css/main.css?v=001i">
+<link rel="stylesheet" href="/css/main-v70.css">
 <!--[if IE 7]>
-<link rel="stylesheet" href="/css/nav_ie7.css?v=001b">
+<link rel="stylesheet" href="/css/nav_ie-v70.css">
 <![endif]-->
 <!--[if lte IE 6]>
-<link rel="stylesheet" href="/css/nav_ie.css?v=001b">
+<link rel="stylesheet" href="/css/nav_ie-v70.css">
 <![endif]-->
-<script type="text/javascript" src="http://yui.yahooapis.com/combo?2.6.0/build/utilities/utilities.js&amp;2.6.0/build/datasource/datasource-min.js&amp;2.6.0/build/autocomplete/autocomplete-min.js"></script>
-<script type="text/javascript" src="/js/global.js?v=001g"></script>
+<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/yui/2.8.0r4/build/container/assets/skins/sam/container.css">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.8.0r4/build/utilities/utilities.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.8.0r4/build/datasource/datasource-min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.8.0r4/build/autocomplete/autocomplete-min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.8.0r4/build/container/container-min.js"></script>
+<script type="text/javascript" src="/js/global-v77.js"></script>
 
 <script type="text/javascript">
 DISCOGS.set("Session", {loggedin: false, username: ''});
+DISCOGS.set('static_server', '');
 </script>
 
 </head>
 <body>
+<div id="page">
 
-<div class="ac_div" id="ac_q"></div>
+<div class="ac_div" id="ac_search_q"></div>
 
-<form action="/search" method="get">
-<div style="text-align:center;">
+
+
 <div id="header">
-<div id="discogsLogo">
-<a title="Go to Discogs.com homepage" href="/"><img width="135" height="49" alt="Go to Discogs.com homepage" src="/images/dislogo.gif"></a>
-</div>
 
-<div id="headerNav">
-<a href="/users/create">Create Account</a>
-<a href="/users/login">Log In</a>
+<div class="logo"><a title="Go to Discogs.com homepage" href="/"><img alt="Discogs.com" src="/images/dislogo2.gif"></a></div>
+
+<div>
+
+<div class="tools">
+<a href="https://www.discogs.com/users/create">Sign Up</a>
+<a href="https://www.discogs.com/users/login">Log In</a>
 <a href="/help"><b>Help</b></a>
 </div>
 
-<div id="headerSearch">
-<select id="type" name="type" onchange="initMainAC();"><option value="all">Search all</option>
-<option value="artists">Artists</option>
-<option value="labels">Labels</option>
-<option value="releases">Releases</option>
-<option value="needsvote">Needs Vote</option>
-<option value="catno">Catalog#</option>
-<option value="forsale">For Sale</option></select>
-<input autocomplete="off" id="q" name="q" size="25" type="text">
-<input name="btn" style="padding-left:2px;padding-right:2px;" type="submit" value="Search">
-<a href="/advanced_search">Advanced Search</a>
-
+<div class="search">
+<form class="search" action="/search" method="get">
+<table class="search"><tbody><tr>
+<td class="query">
+<input autocomplete="off" id="search_q" name="q" size="10" type="text" value=""></td>
+<td class="filter" id="menu_head_search">
+<input id="search_type" name="type" type="hidden" value="all">
+<span id="search_filter"></span></td>
+<td class="submit">
+<input id="search_submit" name="btn" type="submit" value="Search"></td>
+</tr></tbody></table>
+</form>
+<script type="text/javascript">
+YD.get('search_q').value="";
+searchFilter(null,{'name':"all",'html':"all"});
+</script>
 </div>
 
-</div></div>
+<div class="menus">
+<div class="menu_head" id="menu_head_my"><a href="/my">My Discogs</a></div>
+<div class="menu_head" id="menu_head_mp"><a href="/sell/list">Marketplace</a></div>
+<div class="menu_head" id="menu_head_browse"><a href="/browse">Browse</a></div>
+<div class="menu_head" id="menu_head_groups"><a href="/groups">Groups</a></div>
 
-<div id="mainNavigation"><ul>
-<li><a id="gr_nav" class="witharrow" href="/groups">Groups</a><a id="gr_arr" href="javascript:void(0);" class="arrow">▼</a></li>
-<li><a id="br_nav" class="witharrow" href="/browse">Browse</a><a id="br_arr" href="javascript:void(0);" class="arrow">▼</a></li>
-<li><a id="mp_nav" class="witharrow" href="/sell/list">Marketplace</a><a id="mp_arr" href="javascript:void(0);" class="arrow">▼</a></li>
-<li><a id="my_nav" class="witharrow" href="/my">My Discogs</a><a id="my_arr" href="javascript:void(0);" class="arrow">▼</a></li>
-<li><a href="/">Home</a></li>
-</ul></div>
-<div id="subNavigation" style="background-image: url('/images/topbar2_dropshadow.gif')"><img alt="" src="/images/spacer.gif" width="1" height="6"></div>
-</form>
-<script type="text/javascript">var menu_ids=['my','mp','br','gr'];</script>
-
-<div class="submenu" id="my_menu">
+<div class="menu" id="menu_my">
 <a href="/submissions">Submissions</a>
 <a href="/watchlist">Watchlist</a>
 <a href="/users/drafts">Drafts</a>
 <a href="/mycollection">Collection</a>
 <a href="/mywantlist">Wantlist</a>
-<a href="/favorites">Favorites</a>
+<a href="/users/favorites">Favorites</a>
 <a href="/users/friends">Friends</a>
 </div>
-
-<div class="submenu" id="mp_menu">
-<a href="/sell/mywants">Items For Sale in my Wantlist</a>
+<div class="menu" id="menu_mp">
+<a href="/sell/mywants">Items I Want</a>
 <a href="/sell/list">Browse All</a>
-<a href="/sell/cart">View Shopping Cart</a>
-<div class="label">Buyers:</div>
-<a href="/sell/purchases">My Purchases</a>
-<a href="/sell/buyerprefs">Settings</a>
-<div class="label">Sellers:</div>
+<a class="grouplast" href="/sell/purchases">My Purchases</a>
 <a href="/sell/manage">Manage Inventory</a>
-
 <a href="/sell/orders">My Orders</a>
-<a href="/sell/billing">Billing</a>
-<a href="/sell/settings">Settings</a>
+<a class="last" href="/sell/billing">Billing</a>
 </div>
-
-<div class="submenu" id="br_menu">
+<div class="menu" id="menu_browse">
 <a href="/artists/">Artists</a>
 <a href="/labels/">Labels</a>
 <a href="/recentreleases?start=0">Recent Additions</a>
-<a href="/recentcomments?start=0">Recent Reviews</a>
+<a class="last" href="/reviews">Recent Reviews</a>
 </div>
-
-<div class="submenu" id="gr_menu">
+<div class="menu" id="menu_groups">
 <a href="/groups/recent_activity">Recent Activity</a>
 <a href="/groups/mygroups">My Groups</a>
-<a href="/groups/saved_topics">Saved Topics</a>
-<a class="line_above" href="/groups/create">Start a New Group</a>
+<a class="grouplast" href="/groups/saved_topics">Saved Topics</a>
+<a class="last" href="/groups/create">Start a New Group</a>
+</div>
+<div class="menu" id="menu_search">
+<a id="search_all">All</a>
+<a id="search_artists">Artists</a>
+<a id="search_labels">Labels</a>
+<a id="search_releases">Releases</a>
+<a id="search_needsvote">Needs Vote</a>
+<a id="search_catno">Catalog #</a>
+<a class="grouplast" id="search_forsale">For Sale</a>
+<a class="last" href="/advanced_search">Advanced</a>
+</div>
 </div>
 
-<p>
+</div><div class="clear"></div></div>
 
 
 
 
 
 
-</p><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr>
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr>
 
 <td align="left" width="200" valign="top">
 <div class="helpnav">
@@ -153,7 +162,7 @@ DISCOGS.set("Session", {loggedin: false, username: ''});
 
 <div id="searchbox" style="margin-bottom:1em;">
 <form action="/help/search" method="get">
-<b>Search Help Center:</b><br>
+<b>Search Help:</b><br>
 <input id="query" name="query" size="50" type="text">
 <input name="btn" type="submit" value="Search"><br>
 </form>
@@ -172,46 +181,68 @@ h5 { font-size: 10pt; font-weight: heavy; }
 </style>
 
 <h1>Privacy Policy</h1>
-<div class="doc"><p><strong>Privacy Statement for Discogs</strong> Discogs has created this 
-        privacy statement in order to demonstrate our firm commitment to privacy. 
-        The following discloses the information gathering and dissemination practices 
-        for this Web site: Discogs </p>
-<p>
-<strong>Your Private Information</strong> Discogs does not give out any
-of your private information except what you have already made public
-(profile info, collection, wantlist). Discogs does not give or sell
-email addresses or collection/wantlist data to any third party.
-</p>
-<p>
-<strong>Cookies</strong> Our Site uses cookies to deliver content
-specific to your interests. We also use cookies to save your password
-so you don't have to re-enter it each time you visit our site.
-</p>
-<p>
-<strong>Registration Forms</strong> Our site's registration form
-requires users to give us contact information (email). Contact
-information from the registration forms is used to get in touch with
-the user when necessary. This contact information is not shared with
-any third parties.
-</p>
-<p>
+<div class="doc">
+<h4>Collection</h4>
+<ul>
+<li>When you register or enter information on our site, we collect your personal information.</li>
+<li>We use cookies and other technology to keep track of your online interaction with our site.</li>
+<li>We don’t send spam and do not permit spam on Discogs</li>
+</ul>
+<p></p>
+<h4>Information Use</h4>
+<br>
+<b>We use information to:</b>
+<ul>
+<li>Provide the requested services.</li>
+<li>Personalize the site for you and communicate with you.</li>
+<li>Help enforce our terms and conditions, prevent fraud, and keep Discogs safe.</li>
+</ul>
+<p></p>
+<h4>Disclosure</h4>
+<ul>
+<li>We disclose your information to facilitate your transactions on the site.</li>
+<li>We occasionally provide information to other companies who work on our behalf to help provide our services.</li>
+<li>We share limited information with law enforcement and others to help keep the Discogs safe.</li>
+<li>We <b>do not</b> give or sell email addresses or collection/wantlist data to any third party.</li>
+</ul>
+<p></p>
+<h4>Notification Preferences</h4>
+<br>
+<b>The <a href="http://www.discogs.com/settings">settings</a> page allows you to:</b>
+<ul>
+<li>Choose how we communicate with you.</li>
+<li>Change your personal information</li>
+<li>Set privacy preferences for your collection and wantlist</li>
+</ul>
+<p></p>
+<h4>Public Groups &amp; Forums</h4>
+<br>
+Information you post in groups and/or forums becomes public information. Please exercise caution when disclosing your private information in these areas. 
+<p></p>
+<h4>Third Parties</h4>
+<br>
+Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others, whether they are buyers or sellers on our site or other sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them. Discogs does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others.
+<p></p>
+<h4>General</h4>
+<br>
+We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 30 days after they are initially posted on the site. In addition, we will notify you through your Discogs inbox.
+<p></p>
+<h4>Contact us</h4>
+<br>
+You can contact us via our <a href="https://www.discogs.com/support/new">support request form</a>.
 
-<strong>External Links</strong> This site contains links to other sites. Discogs is not responsible for the privacy practices or the content of such Web sites.
-</p>
-<p>
-<strong>Public Forums</strong> This site makes forums available to its
-users. Please remember that any information that is disclosed in these
-areas becomes public information and you should exercise caution when
-deciding to disclose your personal information.
-</p>
-<p>
-<strong>Security</strong> This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
-</p>
 
-<p>
-<strong>Contacting the Web Site</strong> If you have any questions
-about this privacy statement, the practices of this site, or your
-dealings with this Web site, you can contact: info @ discogs.com </p>
+
+
+
+
+
+
+
+
+
+
+
 </div>
 
 
@@ -221,62 +252,59 @@ dealings with this Web site, you can contact: info @ discogs.com </p>
 </tr></tbody></table><p>
 
 
+</p><div id="footer">
 
-</p><div style="border-top:1px solid #ccc;padding-top:10px;margin-right:auto;margin-top:2em;clear:both;width:600px;">
-<table class="fnav">
-<tbody><tr><td><b>My Discogs</b></td><td>
+<div class="head">My Discogs</div>
+<div class="content">
 <a href="/submissions">Submissions</a>
 <a href="/watchlist">Watchlist</a>
 <a href="/users/drafts">Drafts</a>
 <a href="/mycollection">Collection</a>
 <a href="/mywantlist">Wantlist</a>
 <a href="/my">more...</a>
-</td></tr>
+</div>
 
-<tr><td><b>Help</b></td><td>
+<div class="head">Help</div>
+<div class="content">
 <a href="/help/contributing.html">Contributing to Discogs</a>
 <a href="/help/quick-start-guide.html">Quick Start Guide</a>
 <a href="/help/mp-howtobuy.html">Buying</a>
 <a href="/help/mp-sellprocess.html">Selling</a>
 <a href="/help/forums">Help Forums</a>
 <a href="/help">more...</a>
-</td></tr>
+</div>
 
-<tr><td>&nbsp;</td><td>
+<div class="content">
 <a href="/help/about-discogs.html">About Discogs</a>
+<a href="/help/jobs.html"><b>Jobs</b></a>
+<a href="http://blog.discogs.com">Blog</a>
 <a href="/help/api">Developers API</a>
 <a href="/widgets">Widgets</a>
+</div>
 
-</td></tr>
-
-<tr><td colspan="2">&nbsp;</td></tr>
-
-<tr><td colspan="2" class="gr">
-Discogs™ website Copyright © 2009 Discogs
+<p class="gr">
+Discogs™ website Copyright © 2010 Discogs
 <a href="/help/terms-of-service.html">Terms of Service</a>
 <a href="/help/privacy-policy.html">Privacy Policy</a>
-</td></tr>
-</tbody></table>
+</p>
+
 </div>
 
 <div id="act"></div>
 
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 <script type="text/javascript">
-_uacct = "UA-1210093-1";
-urchinTracker();
-</script>
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1210093-1");
+pageTracker._setCustomVar(1,"User Type","Visitor",2);
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
-<!-- Start Quantcast tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">_qacct="p-407vEHXVd7pCA";quantserve();</script>
-<noscript>
-<a href="http://www.quantcast.com/p-407vEHXVd7pCA" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-407vEHXVd7pCA.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
-</noscript>
-<!-- End Quantcast tag -->
+</div>
 
 
-
-<!-- web12:myt:0.017 --></body></html>
+<!-- web07:myt:0.011 --></body></html>
