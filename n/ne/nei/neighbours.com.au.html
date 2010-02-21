@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the neighbours.com.au privacy policy that was archived on 2009-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090605035213id_/http%3A//neighbours.com.au/privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the neighbours.com.au privacy policy that was archived on 2010-02-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100221040330id_/http%3A//neighbours.com.au/privacy-policy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><!-- PageID 246 - published by RedDot 7.5 - 7.5.2.16 - 26895 -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><!-- PageID 246 - published by Open Text Web Solutions 9 - 9.0.1.28 - 28207 -->
     <script type="text/javascript" src="jquery-latest-pack.js"></script>
     <script type="text/javascript" src="thickbox.js"></script>
     <link rel="stylesheet" type="text/css" href="/thickbox.css" media="all">
@@ -52,9 +52,9 @@ function GetHBX() {
     
     <meta name="DC.Subject" content="So You Think You Can Dance Australia - Privacy Policy">
     <meta name="DC.Creator" content="Network TEN"> 
-    <meta name="DC.Date.created" scheme="ISO8601" content="Tuesday, 11 December 2007 15:11"> 
-    <meta name="DC.Date.modified" scheme="ISO8601" content="Tuesday, 2 June 2009 17:51">
-    <meta name="DC.Date.issued" content="Tuesday, 2 June 2009 17:51">
+    <meta name="DC.Date.created" scheme="ISO8601" content="11/12/2007 3:11 PM"> 
+    <meta name="DC.Date.modified" scheme="ISO8601" content="18/02/2010 2:21 PM">
+    <meta name="DC.Date.issued" content="18/02/2010 2:21 PM">
     <meta name="DC.Keywords" content="So You Think You Can Dance Australia, Privacy Policy">
     <meta name="DC.Description" content="Privacy Policy for So You Think You Can Dance Australia, shown on Channel TEN.">
     <meta name="DC.Title" content="So You Think You Can Dance Australia - Privacy Policy"> 
@@ -132,6 +132,88 @@ function GetHBX() {
       
 
 
+        <!--BP OSC Start--> 
+        <script type="text/javascript"> 
+        
+                function encodeNameO(strEnc) 
+                    { 
+                        strEnc = strEnc.replace(/<[^>]+>/g, ""); 
+                        strEnc = strEnc.replace(/&amp;/gi,"and"); 
+                        strEnc = strEnc.replace(/^\//g, ""); 
+                        strEnc = strEnc.replace(/&quot;/gi,""); 
+                        strEnc = strEnc.replace(/&acute;/gi,""); 
+                        strEnc = strEnc.replace(/[',`,;,\&,\?,\#,\!,\$,\%,\^,\@,\*,.,\,]/gi,""); 
+                        strEnc = strEnc.replace(/rsquo;/gi,""); 
+                        strEnc = strEnc.replace(/lsquo;/gi,""); 
+                        strEnc = strEnc.replace(/rdquo;/gi,""); 
+                        strEnc = strEnc.replace(/ldquo;/gi,"");
+                        strEnc = strEnc.replace(/\//gi,"-");
+                        strEnc = strEnc .toLowerCase();
+                        return strEnc; 
+                    } 
+                function GetOSCPath() {
+                    //Get the full path including final page name
+                    var scPageName = encodeNameO("Privacy Policy"); 
+                    scBreadCrumb = new String('<a href="home.htm">Home</a>|<a href="privacy-policy.htm">'+scPageName+'</a>'); 
+                    scBreadCrumb = scBreadCrumb.replace(/\&/gi,"and"); 
+                    scBreadCrumb = scBreadCrumb.replace(/'/gi,""); 
+                    scBreadCrumb = scBreadCrumb.replace(/`/gi,""); 
+                    scBreadCrumb = scBreadCrumb.replace(/rsquo;/gi,""); 
+                    scBreadCrumb = scBreadCrumb.replace(/lsquo;/gi,""); 
+                    scBreadCrumb = scBreadCrumb.replace(/rdquo;/gi,""); 
+                    scBreadCrumb = scBreadCrumb.replace(/ldquo;/gi,"");
+                    var scBreadCrumbArray = scBreadCrumb.split("|"); 
+                    var scHBXMLC = ''; 
+                    for (x in scBreadCrumbArray) { 
+                        scBreadCrumbValue = new String(scBreadCrumbArray[x]); 
+                        scBreadCrumbValue = scBreadCrumbValue.substring(scBreadCrumbValue.indexOf(">") + 1); 
+                        scBreadCrumbValue = scBreadCrumbValue.substring(0, scBreadCrumbValue.indexOf("<")); 
+                        scHBXMLC = scHBXMLC + '/' + scBreadCrumbValue;
+                    } 
+                    var oscCn = scHBXMLC; 
+                    //alert("oscCn: " + scHBXMLC); 
+                    strOSC = oscCn.toLowerCase(); 
+                // remove /home from breadcrumb so top level sections exist 
+                    if (strOSC.length > 5) { 
+                     strOSC = strOSC.replace(/\/home\//g,"/"); 
+                    } 
+                // remove bad characters 
+                    strOSC = strOSC.replace(/&amp;/gi,"and"); 
+                    strOSC = strOSC.replace(/rsquo;/gi,""); 
+                    strOSC = strOSC.replace(/lsquo;/gi,""); 
+                    strOSC = strOSC.replace(/rdquo;/gi,""); 
+                    strOSC = strOSC.replace(/ldquo;/gi,""); 
+                    strOSC = strOSC.replace(/\nbsp/gi,""); 
+                    //strOSC = strOSC.replace(/\ /gi," "); 
+                    strOSC = strOSC.replace(/[',`,;,\&,\?,\#,\!,\$,\%,\^,\@,\*,.,\,]/gi,""); 
+                    // return OSC string 
+                    strOSC = 'neighbours'+ strOSC; 
+                    return(strOSC); 
+                } 
+            
+                function GetSectionPath(intlevel)
+                {
+                //display path taken from GetOSCPath with number of intlevels deep to populate sub sections
+                var strOSCPath = GetOSCPath();
+                var scCrumbArray = strOSCPath.split("/"); 
+                var scOSCMLC = ''; 
+                
+                for (x in scCrumbArray) { 
+                    scCrumbValue = new String(scCrumbArray[x]); 
+                    if (x <= (scCrumbArray.length) && x <= intlevel) {
+                        if (scOSCMLC=='') {
+                            scOSCMLC = scCrumbValue;
+                        } else {
+                            scOSCMLC = scOSCMLC + '/' + scCrumbValue;
+                        }
+                    }
+                } 
+                return(scOSCMLC);
+                }     
+        </script>
+      
+
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -158,17 +240,21 @@ pageTracker._trackPageview();
     <div id="network-ten-header">
         <h3 class="accessible">Network Ten Navigation</h3>
         <ul>
-            <li class="home"><a href="http://ten.com.au"><img src="images/ten-nav-home.gif" alt="Home" border="0" width="33" height="11"></a></li>
+            <li class="home"><a href="http://ten.com.au"><img src="images/ten-nav-logo.gif"></a></li><a href="http://ten.com.au">
             
-                <li><a href="http://9am.ten.com.au/"><img src="images/9am-Neighbours-header(1).gif" border="0" width="30" height="12"></a></li>
+                </a><li><a href="http://ten.com.au"></a><a href="http://neighbours.com.au"><img src="images/gh_home.gif" border="0" width="33" height="12"></a></li>
             
-                <li><a href="http://videohits.com.au/"><img src="images/vh.jpg" border="0" width="58" height="11"></a></li>
+                <li><a href="http://videohits.com.au/"><img src="images/gh_video_hits.gif" border="0" width="57" height="12"></a></li>
             
-                <li><a href="http://www.rovedaily.com.au"><img src="images/rove.gif" alt="Rove" border="0" width="27" height="9"></a></li>
+                <li><a href="http://7pmproject.com.au"><img src="images/gh_7pm_project.gif" border="0" width="90" height="12"></a></li>
             
-                <li><a href="http://www.australianidol.com.au/"><img src="images/neighbours-australian-idol-header.gif" border="0" width="86" height="9"></a></li>
+                <li><a href="http://dance.ten.com.au/"><img src="images/Neighbours-header-sytycdance.gif" alt="Rove" border="0" width="220" height="12"></a></li>
             
-                <li><a href="http://www.masterchef.com.au/"><img src="images/masterchef-header.gif" border="0" width="122" height="13"></a></li>
+                <li><a href="http://www.thebiggestloser.com.au/home.htm"><img src="images/Neighbours-header-the-biggest-loser.gif" border="0" width="157" height="12"></a></li>
+            
+                <li><a href="http://www.masterchef.com.au/"><img src="images/Neighbours-header-image-cmc.gif" border="0" width="121" height="12"></a></li>
+            
+                <li><a href="http://ten.com.au/are-you-smarter-than-a-5th-grader.htm"><img src="images/Neighbours-header-5th-grader.gif" border="0" width="204" height="12"></a></li>
             
         </ul>
     </div>
@@ -228,7 +314,7 @@ function processLogout()
         <div class="buttons">
         
         
-            <script type="text/javascript">document.write(checkCookie());</script><div class="button member-login"><a href="https://memberscrm.ten.com.au/index.cfm?action=registration&amp;requestor_id=E77DEC7F-1279-6355-57FA331C643A14A2&amp;redirectto=https%3A//web.archive.org/web/20090605035213id_/http%253A//neighbours.com.au/privacy-policy.htm&amp;pageaction=loginPopup&amp;keepThis=true&amp;TB_iframe=true&amp;height=200&amp;width=200&amp;redirectto=" title="Login" class="thickbox"><img src="images/btn-reg-login.gif" alt="Login"></a></div><div class="button member-signup"><a href="https://members.ten.com.au/neighbours/register.htm"><img src="images/btn-reg-sign-up.gif" alt="Sign Up"></a></div>
+            <script type="text/javascript">document.write(checkCookie());</script><div class="button member-login"><a href="https://memberscrm.ten.com.au/index.cfm?action=registration&amp;requestor_id=E77DEC7F-1279-6355-57FA331C643A14A2&amp;redirectto=https%3A//web.archive.org/web/20100221040330id_/http%253A//neighbours.com.au/privacy-policy.htm&amp;pageaction=loginPopup&amp;keepThis=true&amp;TB_iframe=true&amp;height=200&amp;width=200&amp;redirectto=" title="Login" class="thickbox"><img src="images/btn-reg-login.gif" alt="Login"></a></div><div class="button member-signup"><a href="https://members.ten.com.au/neighbours/register.htm"><img src="images/btn-reg-sign-up.gif" alt="Sign Up"></a></div>
         
         
         </div>
@@ -475,73 +561,57 @@ var sitepage = 'neighbours'+ oashmlc;
     <!-- END Nielsen//NetRatings SiteCensus V5.3 --> 
       
 
+
+<!---->
+<!--Omniture Code-->
+<!-- SiteCatalyst code version: H.20.3.
+Copyright 1997-2009 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName=GetOSCPath() + "/" + encodeNameO("Privacy Policy") + "-landing"
+s.server=""
+s.channel=GetSectionPath(1)
+s.pageType="404:http://neighbours.com.au/error-404.htm"
+s.prop1=GetSectionPath(2)
+s.prop2=GetSectionPath(3)
+s.prop3=GetSectionPath(4)
+s.prop4="html-content"
+s.prop5="neighbours"
+s.prop7="neighbours"
+/* Conversion Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+/* Hierarchy Variables */
+s.hier1=GetOSCPath()
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://networkten.122.2o7.net/b/ss/nwtdev/1/H.20.3--NS/0?[AQB]&cdp=3&[AQE]"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.20.3. -->
+      
+
     
-    <script type="text/javascript">
-        var GA_name = GetHBX();
-        GA_name = GA_name.replace(/main home/,"");
-        pageTracker._trackPageview(GA_name + "/privacy-policy.htm");
-    </script>
-
-
-    
 
 
 
 
 
 
-
-<!--WEBSIDESTORY CODE HBX2.0 (Universal)-->
-<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
-<script type="text/javascript">
-<!--
-var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ths.ten.com.au";
-//BEGIN EDITABLE SECTION
-//CONFIGURATION VARIABLES
-hbx.acct="DM570126D9SV;DM5701089FBR";//LOCAL,GLOBAL ACCOUNT NUMBERS
-  pn = GetHBX();
-  pn = pn.replace(/<[^>]+>/g, "");
-  pn = pn.replace(/^\//g, "");
-  pn = pn.replace(/\//gi, " - ");
-  pn = pn.replace(/rsquo;/gi,"");
-  pn = pn.replace(/lsquo;/gi,"");
-  pn = pn.replace(/&quot;/gi,"");
-  pn = pn.replace(/&acute;/gi,"");
-  pn = pn.replace(/'/gi,"");
-  pn = pn.replace(/;/gi,"");
-  pn = pn.replace(/\&/gi,"");
-  pn = pn.replace(/\?/gi,"");
-  pn = pn.replace(/\#/gi,"");
-  pn = pn.replace(/\nbsp/gi,"");
-hbx.pn=pn;
-hmlc = GetHBX();
-hbx.mlc= hmlc + "/landing;/Neighbours";
-hbx.pndef="title";//DEFAULT PAGE NAME
-hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
-hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-hbx.lt="auto";//LINK TRACKING
-hbx.dlf="n";//DOWNLOAD FILTER
-hbx.dft="n";//DOWNLOAD FILE NAMING
-hbx.elf="n";//EXIT LINK FILTER
-hbx.seg="";//VISITOR SEGMENTATION
-hbx.ci=getCookie('TI');//CUSTOMER ID
-hbx.hc1="";//CUSTOM 1
-hbx.hc2="";//CUSTOM 2
-hbx.hc3="";//CUSTOM 3
-hbx.hc4="";//CUSTOM 4
-hbx.hrf="";//CUSTOM REFERRER
-hbx.pec="";//ERROR CODES
--->
-</script>
-<script type="text/javascript" src="hbx_analytics.js"></script>
-<script type="text/javascript" src="319.htm"></script>
- 
-<script type="text/javascript">
-<!--
--->
-</script>
-<!--END WEBSIDESTORY CODE-->
 
 
       
