@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paypoint.net privacy policy that was archived on 2009-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090326080542id_/http%3A//www.paypoint.net/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypoint.net privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221215032id_/http%3A//www.paypoint.net/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PayPoint.net
 
@@ -43,7 +43,7 @@ We will not disclose your personal information to third parties except as detail
 
 If you wish to update or amend the information which PayPoint.net may hold about you or wish PayPoint.net to cease using your data please contact us [marketing@paypoint.net](mailto:marketing@paypoint.net?subject=Contact%20Us%20Web%20Site%20enquiry). Alternatively you may write to us at: PayPoint.net Limited, Tower Bridge Business Centre, East Smithfield, London E1W 1AW.
 
-You have a right under the Data Protection Act 1998 to access the information PayPoint.net may hold about you, subject to certain conditions. If you wish to make an application to access this information please contact us [marketing@paypoint.net](mailto:marketing@paypoint.net?subject=Contact%20Us%20Web%20Site%20enquiry). Alternatively you may write to us at: PayPoint.net Limited, Tower Bridge Business Centre, East Smithfield, London E1W 1AW.
+You have a right under the Data Protection Act 1998 to access the information PayPoint.net may hold about you, subject to certain conditions. If you wish to make an application to access this information please contact us [marketing@paypoint.net](mailto:marketing@paypoint.net?subject=Contact%20Us%20Web%20Site%20enquiry). Alternatively you may write to us at: PayPoint.net Limited, 1 Finsbury Square, London, EC2A 1AE.
 
 These terms and conditions shall be governed by and construed in accordance with English law and the parties hereby submit to the exclusive jurisdiction of the English courts in respect of all matters arising in connection herewith.
 
