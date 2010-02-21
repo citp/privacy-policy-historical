@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the twitrpix.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616152201id_/http%3A//twitrpix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitrpix.com privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221224307id_/http%3A//twitrpix.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TwitrPix
+
+It matters to you so it matters to us. We take privacy very seriously. 
 
 ### Privacy Policy
 
@@ -54,4 +56,4 @@ TwitrPix has security measures in place to help protect against the loss, misuse
 
 If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us at:
 
-Email: hi@TwitrPix.com
+Email: [_hi@twitrpix.com_](mailto:hi@twitrpix.com)
