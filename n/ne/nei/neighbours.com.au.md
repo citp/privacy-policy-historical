@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neighbours.com.au privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605035213id_/http%3A//neighbours.com.au/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neighbours.com.au privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221040330id_/http%3A//neighbours.com.au/privacy-policy.htm) for the most accurate reproduction.*
 
 # So You Think You Can Dance Australia - Privacy Policy - Neighbours
 
