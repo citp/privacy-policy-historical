@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsdaq.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228030301id_/http%3A//www.contextweb.com/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsdaq.com privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221084738id_/http%3A//www.contextweb.com/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ContextWeb
 
@@ -10,7 +10,11 @@ ContextWeb does not collect any personally identifiable information about you (s
 
 ## Cookies
 
-A cookie is a small piece of data that is transmitted to an end-user's computer and stored in the cookie directory of that user's hard drive. A cookie identifies an end-user as a unique, anonymous user (but does not collect or transmit any personally identifiable information about that end-user). ContextWeb uses cookies to authenticate and keep track of user sessions and to measure the number of unique users viewing particular ads. In addition, ContextWeb uses cookies to reduce the likelihood of end-users seeing the same ad over and over again or more than a certain number of ContextWeb-served ads over a certain time period. As an end-user, you can generally configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the 'Help' menu of your browser to learn how to change your cookie preferences). Please note that if you reject all cookies, then ads will become more repetitive and you will be more likely to see the same ad over and over again. 
+A cookie is a small piece of data that is transmitted to an end-user's computer and stored in the cookie directory of that user's hard drive. A cookie identifies an end-user as a unique, anonymous user (but does not collect or transmit any personally identifiable information about that end-user). ContextWeb uses cookies to authenticate and keep track of user sessions and to measure the number of unique users viewing particular ads. In addition, ContextWeb uses cookies to reduce the likelihood of end-users seeing the same ad over and over again or more than a certain number of ContextWeb-served ads over a certain time period.
+
+As an end-user, you can generally configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the 'Help' menu of your browser to learn how to change your cookie preferences). Please note that if you reject all cookies, then ads will become more repetitive and you will be more likely to see the same ad over and over again.
+
+ContextWeb also provides you the choice to specifically opt-out of ContextWeb's targeting cookies. Please visit [this page](http://www.contextweb.com/cookie_opt_out.php) to opt-out.
 
 ## Information Sharing
 
