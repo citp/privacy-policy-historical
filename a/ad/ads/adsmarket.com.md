@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsmarket.com privacy policy that was archived on 2009-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090703051129id_/http%3A//www.adsmarket.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsmarket.com privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221214839id_/http%3A//www.adsmarket.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Adsmarket - Private Policy
 
