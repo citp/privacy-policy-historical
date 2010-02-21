@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketline.co.uk privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401010445id_/http%3A//www.ticketline.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketline.co.uk privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221212443id_/http%3A//www.ticketline.co.uk/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ticketline
 
