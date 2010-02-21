@@ -1,65 +1,77 @@
-> *The following text is extracted and transformed from the mypengo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217092017id_/http%3A//www.mypengo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypengo.com privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221055304id_/http%3A//www.mypengo.com/privacy) for the most accurate reproduction.*
 
-# 
+# My Pengo
 
-(Last updated: May 2nd , 2007) 
+##### privacy policy
 
-MyPengo.com is committed to protecting your privacy. This Privacy Statement explains data collection and use practices of the MyPengo.com site (the “Site” or “we”) hosted for MyPengo.com; it does not apply to other online or offline MyPengo.com sites, products or services. By accessing the Site, you are consenting to the information collection and use practices described in this Privacy Statement. 
+##### 1\. What information do we collect?
 
-COLLECTING YOUR PERSONAL INFORMATION 
+We collect several different types of information from you. 
 
-We will ask you when we need information that personally identifies you or allows us to contact you. The personal information we collect may include your name, title, email address, company name, phone number, and region. The Site may collect certain information about your visit, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to the Site. This information is used for the operation and improvement of the Site. 
+###### A. Information collected at registration
 
-USE OF YOUR PERSONAL INFORMATION 
+We collect personal information when you register with us and when you use our Services. We may combine this information about you with information we obtain from our business partners or other companies. During registration for some of our services, we may require users to give us basic contact information (such as your first and last name, e-mail addresses, and mobile phone number), and demographic information (such as zip code and age). The information requested on the registration form may change from time to time. Although additional demographic information may be requested at the time of registration, only information marked "required" is necessary for registration and utilization of our services. 
 
-Information about our customers is an important part of our business. We are not in the business of selling it to others. The personal information collected on this Site will be used to operate the Site and to provide the service(s) or carry out the transaction(s) you have requested or authorized. 
+We do not accept registrations from persons under the age of eighteen. Our Services are available only to persons who are eighteen years of age and over. If we learn that a user is under the age of eighteen, we will terminate the account and delete the user's information. We will not be liable for any content or advertisements viewed by minor children in violation of the terms of this policy. 
 
-In support of these uses, MyPengo.com may use personal information to provide you with more effective customer service, to improve the Site and any related MyPengo.com products or services, and to make the Site easier to use by eliminating the need for you to repeatedly enter the same information or by customizing the Site to your particular preference or interests. 
+###### B. Information collected through use of the Site and Services
 
-MyPengo offers an extensive collection of mobile and online entertainment. We will use your personally identifiable information to enable delivery and for customer support. We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications. We may additionally send you information about other MyPengo.com products and services. 
+In addition to the specific questions you answer when you register for our content services, we may also collect information, such as their street address, phone number, date of birth. 
 
-We do not sell or rent your personal information to third parties. As described in this policy, we do, however, share your information with our affiliates and, under certain circumstances, with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service. 
+We collect system information such as IP addresses (in other words, the location of your computer on the Internet) for system administration, troubleshooting, security, and to examine overall traffic trends. This information, in aggregate form, is recorded for administrative purposes. 
 
-MyPengo.com may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on MyPengo.com or the Site; (b) protect and defend the rights or property of MyPengo.com and our family of Web sites; or (c) act in urgent circumstances to protect the personal safety of MyPengo.com employees or agents, users of MyPengo.com products or services, or members of the public. 
+We also may use cookies, a small data file stored on your computer, to customize portions of our Services and Site to your preferences. For example, we may use this cookie to identify you as a registered user of our Services. If you do not allow your browser to accept cookies, please understand that some of the areas or functionality within our Site may be limited. 
 
-Personal information collected on the Site may be stored and processed in the United States or any other country in which MyPengo.com or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country. MyPengo.com abides by the Safe Harbor Privacy Principles as set forth by the U.S. Department of Commerce. 
+Provider allows the user the possibility to interrupt the flow of information received via SMS (Short Message Service). Information received via SMS can be interrupted by sending an SMS message starting with the keyword, i.e. your entry code, followed by a space and then the word STOP or simply sending STOP or STOP ALL. You can send this message to the abbreviated number you used for entry. See for more details the 'unsubscribe' page of the website. 
 
-In the unlikely event of a sale of some or all of our business, MyPengo.com will disclose your personal information to a purchaser that agrees to abide by the terms and conditions of this Privacy Statement. 
+##### 2\. What do we do with the information we collect?
 
-COOKIES 
+We use the information we collect from you to do the following: 
 
-We use cookies on this Site to ensure the integrity of the registration process and to personalize the Site. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. 
+  * provide the Services to you,
+  * confirm your agreement with us for use of the Services, 
+  * bill you for the Services and process other transactions between you and us, 
+  * improve our content, 
+  * customize certain pages or Services for you, and
+  * send you promotional information, and update you about us. 
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. This simplifies the process of delivering relevant content, eases site navigation, and so on. When you return to the web site, the information you previously provided can be retrieved, so you can easily use the site's features that you customized. 
 
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other web sites you visit. 
 
-LINKS 
+##### 3\. With whom do we share information? 
 
-The Site may contain links to other web- or wapsites. We do not control such other web- and wapsites and are not responsible or liable for the availability thereof or the content, advertising, products or other materials contained on such sites. We shall not be responsible or liable, directly or indirectly, for any damage or loss incurred or suffered by any user in connection therewith. Your access and use of linked sites, including the content therein, is solely at your own risk. 
+Our policy is not to disclosure your personally identifiable information to any third parties, except as follows: 
 
-THE CHOICES YOU HAVE 
+  * We may disclose such information to third party vendors (e.g., data storage and processing facilities) that we use to assist us in providing our services, subject to similar obligations of confidentiality to those contained in this Privacy Policy. 
+  * We share your MDISDN number and your carrier with our aggregator and carrier. 
+  * We may disclose information about you to the cellular telephone providers that you select to provide the mobile communications services necessary to access our Services. 
+  * We may also disclose information about you as we believe is reasonably necessary to comply with laws, regulations, court or administrative orders, or other governmental authority or to prevent harm to yourself or others. 
+  * Finally, we may disclose your personal information upon a transfer or sale to another entity of all or substantially all of our stock or assets in the line of business that this privacy policy relates or upon any other corporate reorganization. 
 
-You can always choose not to provide information, even though it might be required to take advantage of MyPengo.com’s features and services. 
 
-You can add or update certain personal information. When you update information, we usually keep a copy of the prior version for our records. 
 
-If you do not want to receive promotional information, e-mails or other mail from us or our partners, please info@mypengo.com. 
+We may also share aggregate demographic and other information regarding use of our Services with third parties for marketing and other purposes. 
 
-You can remove personal information that you have provided to us. Deleting your information will delete the data only in our database for purposes of managing future communications from us and third parties. These deletions will not delete information already collected that may have already been shared with third parties, all as provided above in this Privacy Statement. You will need to contact third parties that may contact you directly to delete your personal information that they may be using to contact you. 
+##### 4\. Access to your account 
 
-SECURITY 
+For security reasons, we don’t currently provide users the ability to access or update their accounts on our systems. 
 
-Protecting your information is important to us. We use the industry standard technology to protect the security of your information. Unfortunately, no data transmission over the Internet and via mobile communications networks can be guaranteed to be 100% secure. As a result, while we are committed to protecting your information, we cannot ensure or warrant the security of any information you transmit to or through us. 
+##### 5\. Other websites
 
-ADULTS ONLY 
+Our Site may contain links to other websites. We cannot be responsible for their content or for private information that you may choose to share with them. Please note: any information you release directly to parties who provide services to us, such as any vendors who advertise on our Site or Services, may be subject to different rules of use or disclosure. We encourage you to investigate and ask questions before disclosing personal information to third parties. 
 
-MyPengo.com is not intended for use by children. We will not knowingly collect any personally identifiable information submitted by users who are under the age of 18. If you are under 18, you may use MyPengo.com only with the involvement of a parent or guardian. 
+##### 6\. Security 
 
-CHANGES TO THIS PRIVACY STATEMENT 
+Your privacy is important to us and we take reasonable measures to protect the security of the personal information we collect. However, we cannot guarantee absolute security or that your personal information would never be disclosed. In addition, you are responsible for maintaining the security of any passwords of login ids you are provided and for any claims, losses, liabilities or expenses arising out the use of your passwords or ids, whether authorized or not. 
 
-We may occasionally update this Privacy Statement. When we do, we will also revise the "last updated" date at the top of this Privacy Statement. For material changes to this Privacy Statement, we will notify you either by placing a prominent notice on the home page of our web site or by directly sending you a notification. We encourage you to periodically review this Privacy Statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this Privacy Statement and any updates. 
+##### 7\. Notice of changes
 
-CONTACT INFORMATION 
+We reserve the right to change this privacy policy in our sole discretion, and will post any revisions on the Site or through our Services. We encourage you to review this privacy policy regularly for any changes. Your continued use of the Site and Services will be subject to the then-current privacy policy. If there is a change in this privacy policy that affects your personally identifiable information, we will notify you of the change by e-mail to the address that you have provided to us. At the time of this message, you will be given the option to opt out of this change in information usage by sending a written response message, provided, however that any subsequent use of the Site will subject you to the new privacy policy. 
 
-MyPengo.com welcomes your comments regarding this Privacy Statement. If you believe that MyPengo.com has not adhered to this Privacy Statement, please contact us by e-mail at info@MyPengo.com. 
+##### 8\. Contact Information
+
+If you have questions or concerns regarding this policy, you should contact us by mail at: 
+
+2waytraffic mobile usa, inc.   
+Concerning Privacy Policy   
+1515 Broadway, 12th floor  
+New York, NY 10036
