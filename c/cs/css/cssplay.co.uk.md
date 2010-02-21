@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cssplay.co.uk privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218164027id_/http%3A//www.cssplay.co.uk/w3c/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssplay.co.uk privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221213615id_/http%3A//www.cssplay.co.uk/w3c/privacy) for the most accurate reproduction.*
 
 # Stu Nicholls | CSS play | Privacy Policy
 
@@ -70,3 +70,7 @@ Me and/or my entities acting as my agents or entities for which I am acting as a
 How long is this information retained?
 
 I do not have a retention policy for this area of the Web Site.
+
+### Google Advertisments
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
