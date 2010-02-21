@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daytrotter.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530110414id_/http%3A//www.daytrotter.com/sc/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytrotter.com privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221211208id_/http%3A//www.daytrotter.com/sc/privacy-policy.html) for the most accurate reproduction.*
 
 # Daytrotter: Privacy Policy
 
@@ -10,8 +10,8 @@ We invite you to contact us if you have questions about this policy. You may con
     
     
     Daytrotter
-    PO Box F
-    Pleasant Valley, IA 52767
+    110 McLellan Blvd.
+    Davenport, IA 52803
     USA
     
 
@@ -135,21 +135,15 @@ Microsoft Internet Explorer 6 will evaluate this policy’s compact policy whene
 ## 
 
 Daytrotter.com Total Tunes Served:  
-6,848,118  
-(As of May 30, 2009 12:40 AM UTC) 
+10,067,301  
+(As of Feb 21, 2010 02:47 PM UTC) 
 
 ## 
 
 In case you’re wondering, Daytrotter is a recording studio with a website. We invite musicians to our studio, record their songs, and give (give, as in “for free, no strings attached”) them to you, from our website. Simple. Of course, if you’re here you probably already knew that. Please tell your friends. There are plenty of songs for everyone.
 
-  * all content © 2006-2009, daytrotter®, all rights reserved.
-  * [Free MP3s for your iPod.](http://www.daytrotter.com/al/songs/down.html)
-  * [Contact Us](http://www.daytrotter.com/sc/about.html)
-  * [p3p privacy policy](http://www.daytrotter.com/sc/privacy-policy.html)
-  * For information about Advertising, send a message to: [advertising@daytrotter.com](mailto:advertising@daytrotter.com)
+[Contact Us](mailto:support@daytrotter.com?subject=A%20Question%20for%20Daytrotter) | [Privacy Policy](https://web.archive.org/sc/privacy-policy.html)   
+For information about Advertising, contact our [Advertising Team](mailto:adsales@daytrotter.com)   
+Copyright © 2009 Daytrotter, LLC. All rights reserved.
 
-
-
-All songs posted at Daytrotter.com are the exclusive property of the respective recording artists and Daytrotter. Please do not post these songs on other websites unless you use our embed feature. We encourage you to link directly to our songs page or the specific free songs page for a particular band/artist.
-
-Daytrotter is a registered trademark of Daytrotter Media, LLC.
+All songs posted at daytrotter.com are the exclusive property of the respective recording artists and Daytrotter. Please do not post these songs on other websites unless you use our embed feature. We encourage you to link directly to the session page for a particular band or artist’s session.
