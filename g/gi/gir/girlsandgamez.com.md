@@ -1,0 +1,19 @@
+> *The following text is extracted and transformed from the girlsandgamez.com privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221225252id_/http%3A//www.girlsandgamez.com/privacy.html) for the most accurate reproduction.*
+
+# Girls And Gamez privacy policy
+
+**Personal Information**  
+[girlsandgamez.com](http://www.girlsandgamez.com/) is committed to protecting your privacy online. girlsandgamez.com does not collect any personal information. 
+
+**IP address and logging**  
+Your IP address is used to gather broad demographic information and to track your general visiting paterns (how many pages you view while at one website, downloads, etc).
+
+**Third Party Advertising**  
+We use third-party advertising (OBA) companies to serve ads when you visit girlsandgamez.com. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+
+**Third Party Cookies**  
+\- In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.  
+\- Visit [nai opt out](http://www.networkadvertising.org/managing/opt_out.asp) to protect your privacy. Note that by using the nai opt out service you will create cookies on your machine, created by nai itself.
+
+**Liability**  
+It is girlsandgamez.com's policy to respond quickly to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, girlsandgamez.com will immediately disable and remove games in question.
