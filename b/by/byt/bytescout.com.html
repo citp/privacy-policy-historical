@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bytescout.com privacy policy that was archived on 2009-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091222041351id_/http%3A//bytescout.com/privacy_statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bytescout.com privacy policy that was archived on 2010-02-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100221161756id_/http%3A//bytescout.com/privacy_statement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>ByteScout.Com Privacy Statement</title>
@@ -9,6 +9,11 @@
 <link rel="stylesheet" href="mainstyles.css" type="text/css">
 <link rel="stylesheet" href="css/left_menu.css" type="text/css">
 <script type="text/javascript">
+
+function ShowDiv(divID) {
+	var divele = document.getElementById(divID);
+	divele.style.display = "block";
+}
 
 function left_menu(id) {
 	if (!document.getElementById || !document.getElementsByTagName)
@@ -145,6 +150,87 @@ function setLinkBehaviours()
 <a href="http://bytescout.com/"><img src="/images/main_logo.png" alt="Home" border="0"></a>
 </div>
 
+<!-- suggestion box - begin -->
+
+<div style="padding-left:5;padding-bottom: 5px;"> 
+
+<font class="textblack">
+<a id="displaySuggestionBox" href="javascript:ShowDiv('SuggestionBox');" class="textblue1">
+<strong><img src="/images/comment.png" border="0"> Suggestion or Comment?</strong></a><strong>
+</strong></font><strong>
+
+<div id="SuggestionBox" style="display: none">
+
+<form method="POST" action="sendmail.php">
+  <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td height="140" valign="top">
+      
+
+<input type="hidden" name="presubject" value="SUGGESTION">
+<input type="hidden" name="subject" value="">
+
+<div align="left"> 
+ <textarea name="message" cols="5" rows="13" style="width:200" class="textblack" onclick="javascript:if (this.value == 'Enter your feedback here..') { this.value = ''; }">Enter your feedback here..</textarea>
+</div>
+
+<br>
+<input name="email" type="text" size="10" maxlength="100" class="textblack" style="width:200px " value="Your Email (if you want a reply)" onclick="javascript:if (this.value == 'Your Email (if you want a reply)') { this.value = ''; }">
+<br>            
+
+                                    
+        <!-- spam protection number - begin -->
+        <font class="textblack"><strong>AntiSPAM 
+          protection, </strong><br>
+          Please Enter <br>
+
+          <b><font size="+1"> 
+          <script language="JavaScript" type="text/JavaScript">
+var kl_number = 19; var l_b = 5; var h_b = 12;
+var myinteger = 15+kl_number*(l_b+Math.floor(Math.random()*(h_b-l_b))); 
+var mys1 = myinteger;document.write(mys1);
+</script>167
+<noscript>
+PLEASE ENABLE JAVASCRIPT TO ENABLE ANTI-SPAM PROTECTION 
+</noscript>          </font></b></font><b> 
+          <input type="text" name="aspm" maxlength="10" class="textblack" value="" style="width:60px">
+        
+        <!-- spam protection number - end -->
+                
+      </b></td>
+    </tr>
+    <tr>
+
+      <td align="left" valign="top">
+        <div style="padding-left:10">
+          <div align="left">
+            <input type="submit" name="Submit" value="Submit">
+          </div>
+        </div>
+      </td>
+    </tr>
+	
+  </tbody></table>
+</form>
+
+<font class="textblack">
+<p>
+Our E-Mail: <a onmouseover="email = new Array('s','u','p','p','o','r','t','@','b','y','t','e','s','c','o','u','t','.','c','o','m','?','s','u','b','j','e','c','t','=','[','Q','u','e','s','t','i','o','n',']');this.href='mailto:';for(i=0;i<email.length;i++){this.href+=email[i]}" href="blockme@relays.osirusoft.com"><script>text = new Array('s','u','p','p','o','r','t','@','b','y','t','e','s','c','o','u','t','.','c','o','m');for(i=0;i<text.length;i++) {document.write(text[i])}</script>support@bytescout.com</a>
+</p>
+
+<p>Manage your previous requests<br> 
+<a href="https://bytescout.com/support/">login here</a></p>
+
+<p>
+Our secure tickets system (recommended): <a href="http://bytescout.com/support/index.php?_m=tickets&amp;_a=submit&amp;step=1&amp;departmentid=2" style="color:#4687B6;text-decoration:none ">Click Here</a>
+</p>
+						  
+
+</font>
+
+</div>
+
+<!-- suggestion box - end -->
 
 
       <p class="textblack"><strong>About Us <br>
@@ -159,6 +245,9 @@ function setLinkBehaviours()
         partner solutions </font></a></p>
       <br>
 <table>
+
+
+
 <tbody><tr><td valign="top">
 <!-- menu begin -->
 <div style="float: left; padding-left:5;" id="menu1" class="left_menu"> 
@@ -173,6 +262,8 @@ function setLinkBehaviours()
 		  <a href="swftoscreensaverscout.html">SWF To Screensaver Scout</a> 		  
 		  <a href="ppttovideoscout.html">PPT To Video Scout</a> 
 		  <a href="ppttoswfscout.html">PPT To SWF Scout</a> 		  
+		  <a href="lossless_video_codec_for_avi.html">Lossless Video Codec</a> 		  
+		  <a href="screencapturing.html">Screen Video Capturing</a> 		  
         </div>
         <div class="collapsed"> 
 		<span>For Software Developers</span> 
@@ -187,6 +278,7 @@ function setLinkBehaviours()
           library</a> 
 		  
 		  <a href="bytescoutscansdk.html">Scan SDK for .NET</a> 		  
+		  <a href="pdfimagesextractorsdk.html">PDF Images Extractor for .NET</a> 		  
 		  
 		  <a href="rss2htmlpro.html">RSS2HTMLPro.ASP script</a> 
 
@@ -224,14 +316,6 @@ function setLinkBehaviours()
 
 <!-- subscription form -->
 
-<style>
-.signupframe {
-  border: 1px solid #cccccc;
-  background: #ffffff;
-  color: #226699;
-  font-family: Arial, Helvetica, sans-serif;
-}
-</style>
 <form method="post" action="http://bytescout.com/mail/form.php?form=1" id="frmSS1" onsubmit="return CheckForm1(this);">
 <script type="text/javascript">
 // <![CDATA[
@@ -301,7 +385,7 @@ in a reader</a> </font>
 </td></tr>	
 </tbody></table>  		
 	  
-    </td>
+    </strong></div></td>
     <td width="99%" align="left" valign="top"> 
       <div style="padding-left: 4px; padding-top: 4px"> 
 <form action="/search/search.php" method="get">
@@ -328,27 +412,27 @@ in a reader</a> </font>
       <div style="padding-left:5;padding-right:5;padding-bottom:5 "> 
         <div style="padding-left:5 "><strong>Privacy Statement</strong></div>
         <div style="padding-left:15 "> 
-          <p class="textblack">ByteScout Software Development is committed to 
+          <p class="textblack">ByteScout is committed to 
             protecting your privacy. The following discloses the information gathering 
             and dissemination practices for this Web site: www.ByteScout.com.</p>
           <p class="textblack"><b>Information Automatically Logged</b><br>
-            We use your IP address to help diagnose problems with our server and 
-            to administer our Web site. This information is also used to allow 
-            us to determine statistical usage of the website.</p>
-          <p class="textblack">The referring URL (the web page you left before 
-            coming to a www.ByteScout.com web page, if any) is logged whenever 
+            We may use your IP address to help diagnose problems with our server and 
+            to administer our Web site. This information can also be used to allow 
+            us to determine the statistical usage of the Web site.</p>
+          <p class="textblack">The referring URL (address of a  web page you left before 
+            coming to the www.ByteScout.com web page, if any) is logged whenever 
             you view a page on the www.ByteScout.com website. This allows us to 
-            see which areas are more popular than others on the website, the paths 
-            taken to reach each page, and it also allows us to gauge the effectiveness 
-            of any promotional programs we may be running at the time.</p>
-          <p class="textblack">All such information is gathered globally rather 
-            than individually, and no information is linked to any identifying 
-            information about you.</p>
+            determine which areas on the Web Site are more popular than others and paths 
+            taken to reach each page. It also allows us to measure the effectiveness 
+            of promotional programs we may be running on the Web site.</p>
+          <p class="textblack">All such information is gathered globally not 
+            individually and no such information is linked to any identifying 
+            information about you as a visitor.</p>
           <p class="textblack"><b>Cookies</b><br>
             Our site uses cookies to track the aggregate information about our 
             visitors. This information is not linked to individual visitors.</p>
           <p class="textblack"><b>Order Forms</b><br>
-            ByteScout Software Development has partnered with <a href="http://www.regnow.com" style="color:#4687B6;text-decoration:none "><font class="textblue1">Plimus, 
+            ByteScout has partnered with <a href="http://www.regnow.com" style="color:#4687B6;text-decoration:none "><font class="textblue1">Plimus, 
             Regnow</font></a> and <a href="http://www.shareit.com/" style="text-decoration:none" class="textblue1">Share-It</a> 
             e-commerce providers to accept your orders. Both <a href="http://www.regnow.com" style="color:#4687B6;text-decoration:none "><font class="textblue1">Plimus, 
             Regnow</font></a> and <a href="http://www.shareit.com/" style="text-decoration:none" class="textblue1">Share-It</a> 
@@ -357,22 +441,19 @@ in a reader</a> </font>
             Regnow</font></a> or <a href="http://www.shareit.com/" style="text-decoration:none" class="textblue1">Share-It</a> 
             collects contact information (like your email address), and financial 
             information (like your credit card number). Contact information from 
-            the order forms is used only to get in touch with you when necessary. 
+            the order forms is used <strong>only</strong> to get in touch with you when necessary. 
             This includes sending you the product(s) you ordered, notifying you 
             about new versions of the product(s) you ordered, and contacting you 
-            if there's a problem with your order. Financial information that is 
+            if there is a problem with your order. Financial information that is 
             collected is used to bill you for the order. </p>
           <p class="textblack"><b>Newsletter</b><br>
-            We allow visitors to sign up for our free newsletter by providing 
+            We allow our visitors to sign up for our free newsletter(s) by providing 
             an email address. The email address you provide is used only to send 
-            you the free newsletter.</p>
+            you the the newsletter(s).</p>
           <p class="textblack"><b>External Links</b><br>
-            This site contains links to other sites. ByteScout Software Development 
-            is not responsible for the privacy practices or the content of such 
-            web sites.</p>
+            This site contains links to other sites. ByteScout is not responsible for the privacy practices or the content of these web sites.</p>
           <p class="textblack"><b>Security</b><br>
-            This site has security measures in place to protect the loss, misuse, 
-            and alteration of the information under our control.</p>
+            This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.</p>
                       </div>
       </div>
       
@@ -408,7 +489,7 @@ in a reader</a> </font>
       <br> 
                   <div style="padding-left:5 ">
 			<font class="textblack" style="color:#4C4C4C "> 
-              Copyright © ByteScout, 2003-2009. <font class="textblue1"><a href="privacy_statement.html" style="color:#4687B6;text-decoration:none ">Privacy Statement</a></font>
+              Copyright © ByteScout, 2003-2010. <font class="textblue1"><a href="privacy_statement.html" style="color:#4687B6;text-decoration:none ">Privacy Statement</a></font>
 			  <br>
 			  Microsoft®, Windows®, Windows 2000®, Windows Server®, Windows Vista®, Internet Explorer®, .NET Framework®, ActiveX®, Visual Basic®, Visual C#®, ASP®, ASP.NET®, Excel®, PowerPoint®, are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. 
 			  Adobe®, Flash® and Acrobat® are registered trademarks of Adobe Systems, Incorporated. Mozilla®, Firefox® and the Mozilla and Firefox Logos are registered trademarks of the Mozilla Foundation.
