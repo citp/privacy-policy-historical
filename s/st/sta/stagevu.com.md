@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stagevu.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617002157id_/http%3A//stagevu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stagevu.com privacy policy that was archived on 2010-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100222070416id_/http%3A//stagevu.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Stagevu: Your View
 
-This document outlines exactly what you are permitted and not permitted to do as an user of Stagevu. Note that by visiting Stagevu, you are an user of Stagevu and these rules apply to you. Using this site simply means visiting it, or downloading it.
+This document outlines exactly what you are permitted and not permitted to do as a user of Stagevu. Note that by visiting Stagevu, you are an user of Stagevu and these rules apply to you. Using this site simply means visiting it, or downloading it.
 
 ## Your Privacy is Important
 
