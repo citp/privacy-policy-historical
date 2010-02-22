@@ -1,18 +1,17 @@
-<!--The following is the downloaded HTML source of the stagevu.com privacy policy that was archived on 2009-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617002157id_/http%3A//stagevu.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stagevu.com privacy policy that was archived on 2010-02-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100222070416id_/http%3A//stagevu.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>Privacy Policy - Stagevu: Your View</title>
 	<link rel="stylesheet" type="text/css" href="http://stagevu.com/includes/yuireset.css">
-	<link rel="stylesheet" type="text/css" href="http://stagevu.com/includes/css.css">
-
-	<link rel="stylesheet" type="text/css" href="http://stagevu.com/includes/white.css">
+	<link rel="stylesheet" type="text/css" href="http://stagevu.com/includes/new/css.css">
+	<link rel="stylesheet" type="text/css" href="http://stagevu.com/includes/new/white.css">
 	
 	<link rel="shortcut icon" href="http://stagevu.com/favicon.ico" type="image/x-icon">
 	<script src="http://stagevu.com/includes/all.js" type="text/javascript"></script>
 
 	<script type="text/javascript">
-	var ip = '67.202.55.193';
+	var ip = '204.236.235.245';
 	var bgcolour = 'f';
 	var boxcolour = 'd';
 	var searchcolour = {		1: 'd'		, 2: 'b'	};
@@ -25,24 +24,46 @@
 <body>
 
 
+
 <div id="loading"><img src="http://stagevu.com/img/loading.gif" alt=""> Loading</div>
 <div class="center"><div id="notice">
 <table>
 <colgroup span="2"><col><col width="36px"></colgroup>
 <tbody><tr><td id="noticetext"></td><td class="textright"><a href="#" onclick="clearTimeout(noticetimeout); noticetimeout = null; notice(); return false;"><img src="http://stagevu.com/img/close.png" alt="Close" id="noticeimg"></a></td></tr></tbody></table></div></div>
 
-<div id="topheader">
+<div id="container">
+	<div id="topheader">
+		<a href="http://stagevu.com/index"><img src="http://stagevu.com/img/white/newtitle.png" alt="stagevu" id="title"></a>
 
-	<div id="userlinks">
-			<a href="#" onclick="toggleuser(); return false;">Login</a>
-		<a href="http://stagevu.com/register">Sign up</a>
-		</div>
-	<div id="themelinks">
-	<strong>Select a theme:</strong> White | <a href="#" onclick="changetheme('black'); return false;">Black</a>	</div>
-	<div id="user">
-		<p class="floatright"><a href="#" onclick="toggleuser(); return false;">Hide</a></p>
-		<h2>Login</h2>
-  
+		<div id="search"><form action="http://stagevu.com/search" method="get" id="mainsearchform" onsubmit="return searchsubmit();">
+			<div id="innersearch" class="floatleft">
+				<a href="#" onclick="searchsubmit(); $('#mainsearchform').submit(); return false;" id="maga"><img src="http://stagevu.com/img/white/mag.png" id="mag" alt="Go"></a>
+				<input name="for" type="text" maxlength="120" id="box">
+				<span id="in">in</span>
+				<div id="jsdddiv"><a href="#" id="jsdd" onclick="return false;">Videos</a>
+					<ul>
+						<li><a href="#" class="selected">Videos</a></li>
+						<li><a href="#">Channels</a></li>
+						<li><a href="#">Tags</a></li>
+					</ul>
+				</div>
+				<select name="in" id="dd">
+					<option value="Videos" selected="selected">Videos</option>
+					<option value="Channels">Channels</option>
+					<option value="Tags">Tags</option>
+				</select>
+			</div>
+			<a href="#" onclick="searchsubmit(); $('#mainsearchform').submit(); return false;" class="floatright" id="button">Search</a>
+		</form></div>
+		
+		<div id="rightlinks">
+			<div id="userlinks">
+							<a href="#" onclick="toggleuser(); return false;" class="m">Login</a>
+				<a href="http://stagevu.com/register" class="m">Sign up</a>
+											<div id="user">
+					<p class="floatright"><a href="#" onclick="toggleuser(); return false;">Hide</a></p>
+					<h2>Login</h2>
+												  
   <form id="loginform" action="http://stagevu.com/ajax/login.php" method="post">
   <table class="logintable">
   	<colgroup span="2">
@@ -61,199 +82,272 @@
   		<input type="submit" class="button floatright" value="Log in">
   		<input name="shared" type="checkbox" class="checkbox valignmid" value="1">
   		<span class="small">Don't remember me (shared computer)</span>
+  		<div style="clear: both"></div>
   	</td></tr>
   	<tr><td colspan="2"><a href="http://stagevu.com/forgot">Recover account/Reactivate</a></td></tr>
   	<tr><td colspan="2" id="loginmessage"></td></tr>
   </tbody></table>
   </form>
+				</div>
+							</div>
+			<div id="themelinks">
+				<table class="floatright">
+					<tbody><tr>
+						<td class="textright"><strong>Colour theme:&nbsp;&nbsp;</strong></td>
+						<td class="textleft">White | <a href="#" onclick="changecolour('black'); return false;">Black</a></td>
+					</tr>
+					<tr>
+						<td class="textright"><strong>Layout:&nbsp;&nbsp;</strong></td>
+						<td class="textleft">New | <a href="#" onclick="changelayout('old'); return false;">Classic</a></td>
+					</tr>
+				</tbody></table>
+			</div>
+		</div>
+		<div style="clear: both"></div>
 	</div>
-	
-	<div style="margin-top:5px">
-	<a href="http://stagevu.com/index"><img src="http://stagevu.com/img/white/title.gif" alt="stagevu" id="title"></a><a href="http://stagevu.com/index" class="m">Home</a><a href="http://stagevu.com/videos" class="m">Videos</a><a href="http://stagevu.com/channels" class="m">Channels</a><a href="http://stagevu.com/forum" class="m">Forum</a><a href="http://stagevu.com/divxwebplayer" class="m">Player</a><a href="http://stagevu.com/upload" class="m yellow">Submit a video</a>
+		
+	<div id="menu">
+		<ul>
+			<li><a href="http://stagevu.com/index" id="firstmenulink">Home</a></li><li><a href="http://stagevu.com/videos">Videos</a></li><li><a href="http://stagevu.com/channels">Channels</a></li><li><a href="http://stagevu.com/forum">Support forum</a></li><li><a href="#" onclick="togglesearch();return false;">Advanced search</a></li><li><a href="http://stagevu.com/upload" class="highlight" id="lastmenulink">Submit a video</a></li>
+		</ul>
 	</div>
-</div>
-<div id="search">
-	look for:
-	<form action="http://stagevu.com/search" method="get" id="mainsearchform" onsubmit="return searchsubmit();">
-		<input name="for" type="text" maxlength="120" id="box">
-		in
-		<select name="in" id="dd">
-			<option value="Videos">Videos</option>
-			<option value="Channels">Channels</option>
-			<option value="Tags">Tags</option>
-		</select>
-		<input type="image" src="http://stagevu.com/img/white/search.png" id="button">
-	</form>
-	<a href="#" onclick="togglesearch();return false;">Advanced search</a></div>
 
-<div id="content">
 	<div id="overlay">&nbsp;</div>
 	<div id="sitemessage">
 	<a href="#" id="hideoverlay" onclick="$('#sitemessage, #overlay').fadeOut('slow')" class="floatright">Hide</a>
 
 	</div>
+ 
  	<div id="advsearch" style="display: none">
- 	<form action="http://stagevu.com/search" method="get">
- 	<table class="form">
- 	<colgroup span="4">
+ 		<p id="advlinks">
+ 			<a class="noa" onclick="advsearch('video'); return false;" id="videoadvlink">Video</a> |
+ 			<a href="#" onclick="advsearch('channel'); return false;" id="channeladvlink">Channel</a>
+ 		</p>
+ 		<div id="videoadv">
+ 		<form action="http://stagevu.com/search" method="get">
+ 		<table class="form">
+ 		<colgroup span="4">
+ 			<col width="150px">
+ 			<col width="300px">
+ 			<col width="150px">
+ 			<col width="300px">
+ 		</colgroup>
+ 		<tbody><tr><td colspan="4"><h2>Advanced Video Search</h2></td></tr>
+ 		<tr>
+ 			<td class="textright"><label for="askeywords">Keywords</label></td>
  
- 		<col width="150px">
- 		<col width="300px">
- 		<col width="150px">
- 		<col width="300px">
- 	</colgroup>
- 	<tbody><tr><td colspan="4"><h2>Advanced Search</h2></td></tr>
- 	<tr>
- 		<td class="textright"><label for="askeywords">Keywords</label></td>
+ 			<td><input name="keywords" id="askeywords" type="text" class="text" maxlength="120"></td>
+ 			<td class="textright"><label for="astags">Tags:</label><br><span class="small">Separate with commas (,)</span></td>
+ 			<td><input name="tags" id="astags" type="text" class="text" maxlength="120"></td>
+ 		</tr>
+ 		<tr>
+ 			<td class="textright"><label for="assubmitter">Submitted by</label></td>
+ 			<td><input name="submitter" id="assubmitter" type="text" class="text" maxlength="30"></td>
+ 			<td class="textright"><label for="ascategory">Category</label></td>
+ 			<td><select name="category" id="ascategory">
+ 				<option value="">Any</option>
+ 				<option value="Animation">Animation</option>
+ 				<option value="Art">Art</option>
+ 				<option value="Blogs">Blogs</option>
+ 				<option value="Comedy">Comedy</option>
+ 				<option value="Educational">Educational</option>
+ 				<option value="Films and Movies">Films and Movies</option>
+ 				<option value="Games">Games</option>
+ 				<option value="Music">Music</option>
+ 				<option value="News and Politics">News and Politics</option>
+ 								<option value="Sports">Sports</option>
+ 				<option value="Television">Television</option>
+ 				<option value="Others">Others</option>
+ 			</select></td>
+ 		</tr>
+ 		<tr>
+ 			<td class="textright"><label for="asminmin">Minimum length</label></td>
  
- 		<td><input name="keywords" id="askeywords" type="text" class="text" maxlength="120"></td>
- 		<td class="textright"><label for="astags">Tags:</label><br><span class="small">Separate with commas</span></td>
- 		<td><input name="tags" id="astags" type="text" class="text" maxlength="120"></td>
- 	</tr>
- 	<tr>
- 		<td class="textright"><label for="assubmitter">Submitted by</label></td>
- 		<td><input name="submitter" id="assubmitter" type="text" class="text" maxlength="30"></td>
+ 			<td><input name="minmin" id="asminmin" type="text" class="vartext" maxlength="4" size="4">:<input name="minsec" id="asminsec" type="text" class="vartext" maxlength="2" size="2"> (mm:ss)</td>
+ 			<td class="textright"><label for="asmaxmin">Maximum length</label></td>
+ 			<td><input name="maxmin" id="asmaxmin" type="text" class="vartext" maxlength="4" size="4">:<input name="maxsec" id="asmaxsec" type="text" class="vartext" maxlength="2" size="2"> (mm:ss)</td>
+ 		</tr>
+ 		<tr>
+ 			<td class="textright"><label for="asminrating">Rating</label></td>
+ 			<td>From <select name="minrating" id="asminrating">
+ 				<option value="">Any</option>
+ 				<option value="1">1</option>
+ 				<option value="2">2</option>
+ 				<option value="3">3</option>
  
- 		<td class="textright"><label for="ascategory">Category</label></td>
- 		<td><select name="category" id="ascategory">
- 			<option value="">Any</option>
- 			<option value="Animation">Animation</option>
- 			<option value="Art">Art</option>
- 			<option value="Blogs">Blogs</option>
- 			<option value="Comedy">Comedy</option>
- 			<option value="Educational">Educational</option>
- 			<option value="Films and Movies">Films and Movies</option>
- 			<option value="Games">Games</option>
- 			<option value="Music">Music</option>
- 			<option value="News and Politics">News and Politics</option>
- 						<option value="Sports">Sports</option>
- 			<option value="Television">Television</option>
- 			<option value="Others">Others</option>
- 		</select></td>
- 	</tr>
- 	<tr>
- 		<td class="textright"><label for="asminmin">Minimum length</label></td>
+ 				<option value="4">4</option>
+ 				<option value="5">5</option>
+ 			</select> to <select name="maxrating" id="asmaxrating">
+ 				<option value="">Any</option>
+ 				<option value="1">1</option>
+ 				<option value="2">2</option>
  
- 		<td><input name="minmin" id="asminmin" type="text" class="vartext" maxlength="4" size="4">:<input name="minsec" id="asminsec" type="text" class="vartext" maxlength="2" size="2"> (mm:ss)</td>
- 		<td class="textright"><label for="asmaxmin">Maximum length</label></td>
- 		<td><input name="maxmin" id="asmaxmin" type="text" class="vartext" maxlength="4" size="4">:<input name="maxsec" id="asmaxsec" type="text" class="vartext" maxlength="2" size="2"> (mm:ss)</td>
- 	</tr>
- 	<tr>
+ 				<option value="3">3</option>
+ 				<option value="4">4</option>
+ 				<option value="5">5</option>
+ 			</select></td>
+ 			<td class="textright"><label for="aswidth">Minimum Resolution</label></td>
+ 			<td><input name="width" id="aswidth" type="text" class="vartext" maxlength="4" size="4"> (width) x <input name="height" id="asheight" type="text" class="vartext" maxlength="4" size="4"> (height)</td>
+ 		</tr>
+ 		<tr>
+ 			<td class="textright"><label for="language">Language</label></td>
+ 			<td><select name="language" class="text">
+ 				<option value="">Any</option>
+ 				<option value="English">English</option>
+ 				<option value="Arabic">Arabic</option>
+ 				<option value="Chinese (Mandarin)">Chinese (Mandarin)</option>
+ 				<option value="Chinese (Cantonese)">Chinese (Cantonese)</option>
+ 				<option value="French">French</option>
+ 				<option value="German">German</option>
+ 				<option value="Hindi">Hindi</option>
+ 				<option value="Japanese">Japanese</option>
+ 				<option value="Russian">Russian</option>
+ 				<option value="Spanish">Spanish</option>
+ 				<option value="Amharic">Amharic</option>
+ 				<option value="Arabic">Arabic</option>
+ 				<option value="Assamese">Assamese</option>
+ 				<option value="Azerbaijani">Azerbaijani</option>
+ 				<option value="Bengali">Bengali</option>
+ 				<option value="Bhojpuri">Bhojpuri</option>
+ 				<option value="Burmese">Burmese</option>
+ 				<option value="Cebuano">Cebuano</option>
+ 				<option value="Chinese (Cantonese)">Chinese (Cantonese)</option>
+ 				<option value="Chinese (Mandarin)">Chinese (Mandarin)</option>
+ 				<option value="Czech">Czech</option>
+ 				<option value="Dutch">Dutch</option>
+ 				<option value="English">English</option>
+ 				<option value="Filipino">Filipino</option>
+ 				<option value="French">French</option>
+ 				<option value="Fula">Fula</option>
+ 				<option value="Gan">Gan</option>
+ 				<option value="German">German</option>
+ 				<option value="Greek">Greek</option>
+ 				<option value="Gujarati">Gujarati</option>
+ 				<option value="Hakka">Hakka</option>
+ 				<option value="Hausa">Hausa</option>
+ 				<option value="Hindi">Hindi</option>
+ 				<option value="Hungarian">Hungarian</option>
+ 				<option value="Igbo">Igbo</option>
+ 				<option value="Indonesian">Indonesian</option>
+ 				<option value="Italian">Italian</option>
+ 				<option value="Japanese">Japanese</option>
+ 				<option value="Javanese">Javanese</option>
+ 				<option value="Kannada">Kannada</option>
+ 				<option value="Khmer">Khmer</option>
+ 				<option value="Korean">Korean</option>
+ 				<option value="Kurdish">Kurdish</option>
+ 				<option value="Language">Language</option>
+ 				<option value="Lao">Lao</option>
+ 				<option value="Madurese">Madurese</option>
+ 				<option value="Maithili">Maithili</option>
+ 				<option value="Malagasy">Malagasy</option>
+ 				<option value="Malay">Malay</option>
+ 				<option value="Malayalam">Malayalam</option>
+ 				<option value="Marathi">Marathi</option>
+ 				<option value="Nepali">Nepali</option>
+ 				<option value="Oriya">Oriya</option>
+ 				<option value="Oromo">Oromo</option>
+ 				<option value="Pashto">Pashto</option>
+ 				<option value="Persian">Persian</option>
+ 				<option value="Polish">Polish</option>
+ 				<option value="Portuguese">Portuguese</option>
+ 				<option value="Punjabi">Punjabi</option>
+ 				<option value="Romanian">Romanian</option>
+ 				<option value="Russian">Russian</option>
+ 				<option value="Serbo-Croatian">Serbo-Croatian</option>
+ 				<option value="Shona">Shona</option>
+ 				<option value="Sindhi">Sindhi</option>
+ 				<option value="Sinhalese">Sinhalese</option>
+ 				<option value="Somali">Somali</option>
+ 				<option value="Spanish">Spanish</option>
+ 				<option value="Sundanese">Sundanese</option>
+ 				<option value="Tamazight">Tamazight</option>
+ 				<option value="Tamil">Tamil</option>
+ 				<option value="Telugu">Telugu</option>
+ 				<option value="Thai">Thai</option>
+ 				<option value="Turkish">Turkish</option>
+ 				<option value="Ukrainian">Ukrainian</option>
+ 				<option value="Uzbek">Uzbek</option>
+ 				<option value="Vietnamese">Vietnamese</option>
+ 				<option value="Other/None">Other/None</option>
+ 			</select></td>
+ 			<td colspan="2"></td>
+ 		</tr>
+ 		<tr>
+ 			<td colspan="4"><input type="submit" class="button floatright" value="Search"></td></tr>
+ 		
+ 		</tbody></table>
+ 		</form>
+ 		</div>
+ 		
+ 		<div id="channeladv" class="nodisplay">
+ 		<form action="http://stagevu.com/chansearch" method="get">
+ 		<table class="form">
+ 		<colgroup span="4">
  
- 		<td class="textright"><label for="asminrating">Rating</label></td>
- 		<td>From <select name="minrating" id="asminrating">
- 			<option value="">Any</option>
- 			<option value="1">1</option>
- 			<option value="2">2</option>
- 			<option value="3">3</option>
+ 			<col width="150px">
+ 			<col width="300px">
+ 			<col width="150px">
+ 			<col width="300px">
+ 		</colgroup>
+ 		<tbody><tr><td colspan="4"><h2>Advanced Channel Search</h2></td></tr>
+ 		<tr>
+ 			<td class="textright"><label for="acskeywords">Keywords</label></td>
  
- 			<option value="4">4</option>
- 			<option value="5">5</option>
- 		</select> to <select name="maxrating" id="asmaxrating">
- 			<option value="">Any</option>
- 			<option value="1">1</option>
- 			<option value="2">2</option>
+ 			<td><input name="keywords" id="acskeywords" type="text" class="text" maxlength="120"></td>
+ 			<td class="textright"><label for="acstags">Tags:</label><br><span class="small">Separate with commas</span></td>
+ 			<td><input name="tags" id="acstags" type="text" class="text" maxlength="120"></td>
+ 		</tr>
+ 		<tr>
+ 			<td class="textright"><label for="acsadmin">Channel created by</label></td>
+ 			<td><input name="admin" id="acsadmin" type="text" class="text" maxlength="30"></td>
+ 			<td class="textright"><label for="acscategory">Category</label></td>
+ 			<td><select name="category" id="acscategory">
+ 				<option value="">Any</option>
+ 				<option value="Animation">Animation</option>
+ 				<option value="Art">Art</option>
+ 				<option value="Blogs">Blogs</option>
+ 				<option value="Comedy">Comedy</option>
+ 				<option value="Educational">Educational</option>
+ 				<option value="Films and Movies">Films and Movies</option>
+ 				<option value="Games">Games</option>
+ 				<option value="Music">Music</option>
+ 				<option value="News and Politics">News and Politics</option>
+ 								<option value="Sports">Sports</option>
+ 				<option value="Television">Television</option>
+ 				<option value="Others">Others</option>
+ 			</select></td>
+ 		</tr>
+ 		<tr>
+ 			<td class="textright"><label for="acsminmin">Number of videos</label></td>
+ 			<td>At least <input name="minvid" id="acsminvid" type="text" class="vartext" maxlength="4" size="4"> to at most <input name="maxvid" id="acsmaxvid" type="text" class="vartext" maxlength="4" size="4"></td>
+ 			<td class="textright"><label for="acsminrating">Rating</label></td>
+ 			<td>At least <select name="minrating" id="acsminrating">
+ 				<option value="">Any</option>
+ 				<option value="1">1</option>
+ 				<option value="2">2</option>
+ 				<option value="3">3</option>
  
- 			<option value="3">3</option>
- 			<option value="4">4</option>
- 			<option value="5">5</option>
- 		</select></td>
- 		<td class="textright"><label for="aswidth">Minimum Resolution</label></td>
- 		<td><input name="width" id="aswidth" type="text" class="vartext" maxlength="4" size="4"> (width) x <input name="height" id="asheight" type="text" class="vartext" maxlength="4" size="4"> (height)</td>
- 	</tr>
- 	<tr>
- 		<td class="textright"><label for="language">Language</label></td>
- 		<td><select name="language" class="text">
- 			<option value="">Any</option>
- 			<option value="English">English</option>
- 			<option value="Arabic">Arabic</option>
- 			<option value="Chinese (Mandarin)">Chinese (Mandarin)</option>
- 			<option value="Chinese (Cantonese)">Chinese (Cantonese)</option>
- 			<option value="French">French</option>
- 			<option value="German">German</option>
- 			<option value="Hindi">Hindi</option>
- 			<option value="Japanese">Japanese</option>
- 			<option value="Russian">Russian</option>
- 			<option value="Spanish">Spanish</option>
- 			<option value="Amharic">Amharic</option>
- 			<option value="Arabic">Arabic</option>
- 			<option value="Assamese">Assamese</option>
- 			<option value="Azerbaijani">Azerbaijani</option>
- 			<option value="Bengali">Bengali</option>
- 			<option value="Bhojpuri">Bhojpuri</option>
- 			<option value="Burmese">Burmese</option>
- 			<option value="Cebuano">Cebuano</option>
- 			<option value="Chinese (Cantonese)">Chinese (Cantonese)</option>
- 			<option value="Chinese (Mandarin)">Chinese (Mandarin)</option>
- 			<option value="Czech">Czech</option>
- 			<option value="Dutch">Dutch</option>
- 			<option value="English">English</option>
- 			<option value="Filipino">Filipino</option>
- 			<option value="French">French</option>
- 			<option value="Fula">Fula</option>
- 			<option value="Gan">Gan</option>
- 			<option value="German">German</option>
- 			<option value="Greek">Greek</option>
- 			<option value="Gujarati">Gujarati</option>
- 			<option value="Hakka">Hakka</option>
- 			<option value="Hausa">Hausa</option>
- 			<option value="Hindi">Hindi</option>
- 			<option value="Hungarian">Hungarian</option>
- 			<option value="Igbo">Igbo</option>
- 			<option value="Indonesian">Indonesian</option>
- 			<option value="Italian">Italian</option>
- 			<option value="Japanese">Japanese</option>
- 			<option value="Javanese">Javanese</option>
- 			<option value="Kannada">Kannada</option>
- 			<option value="Khmer">Khmer</option>
- 			<option value="Korean">Korean</option>
- 			<option value="Kurdish">Kurdish</option>
- 			<option value="Language">Language</option>
- 			<option value="Lao">Lao</option>
- 			<option value="Madurese">Madurese</option>
- 			<option value="Maithili">Maithili</option>
- 			<option value="Malagasy">Malagasy</option>
- 			<option value="Malay">Malay</option>
- 			<option value="Malayalam">Malayalam</option>
- 			<option value="Marathi">Marathi</option>
- 			<option value="Nepali">Nepali</option>
- 			<option value="Oriya">Oriya</option>
- 			<option value="Oromo">Oromo</option>
- 			<option value="Pashto">Pashto</option>
- 			<option value="Persian">Persian</option>
- 			<option value="Polish">Polish</option>
- 			<option value="Portuguese">Portuguese</option>
- 			<option value="Punjabi">Punjabi</option>
- 			<option value="Romanian">Romanian</option>
- 			<option value="Russian">Russian</option>
- 			<option value="Serbo-Croatian">Serbo-Croatian</option>
- 			<option value="Shona">Shona</option>
- 			<option value="Sindhi">Sindhi</option>
- 			<option value="Sinhalese">Sinhalese</option>
- 			<option value="Somali">Somali</option>
- 			<option value="Spanish">Spanish</option>
- 			<option value="Sundanese">Sundanese</option>
- 			<option value="Tamazight">Tamazight</option>
- 			<option value="Tamil">Tamil</option>
- 			<option value="Telugu">Telugu</option>
- 			<option value="Thai">Thai</option>
- 			<option value="Turkish">Turkish</option>
- 			<option value="Ukrainian">Ukrainian</option>
- 			<option value="Uzbek">Uzbek</option>
- 			<option value="Vietnamese">Vietnamese</option>
- 			<option value="Other/None">Other/None</option>
- 		</select></td>
- 		<td colspan="2"></td>
- 	</tr>
- 	<tr>
- 		<td colspan="4"><input type="submit" class="button floatright" value="Search"></td></tr>
- 	
- 	</tbody></table>
- 
- 	</form>
+ 				<option value="4">4</option>
+ 				<option value="5">5</option>
+ 			</select> to at most <select name="maxrating" id="acsmaxrating">
+ 				<option value="">Any</option>
+ 				<option value="1">1</option>
+ 				<option value="2">2</option>
+ 				<option value="3">3</option>
+ 				<option value="4">4</option>
+ 				<option value="5">5</option>
+ 			</select></td>
+ 		</tr>
+ 		<tr>
+ 			<td colspan="4"><input type="submit" class="button floatright" value="Search"></td></tr>
+ 		
+ 		</tbody></table>
+ 		</form>
+ 		</div>
  	</div>
-		<h1>Stagevu Privacy Policy</h1>
-		<p>This document outlines exactly what you are permitted and not permitted to do as an user of Stagevu. Note that by visiting Stagevu, you are an user of Stagevu and these rules apply to you. Using this site simply means visiting it, or downloading it.</p>
+	<div id="content">		<h1>Stagevu Privacy Policy</h1>
+		<p>This document outlines exactly what you are permitted and not permitted to do as a user of Stagevu. Note that by visiting Stagevu, you are an user of Stagevu and these rules apply to you. Using this site simply means visiting it, or downloading it.</p>
 		
 		<h2>Your Privacy is Important</h2>
 		<p>Stagevu respects the privacy and sensitivity of any information you may give us, and strives to protect this information for its intended uses. This document is meant to clearly outline how personal information given to us will be used.</p>
@@ -304,14 +398,14 @@
 		
 		<h2>Contact Us</h2>
 		<p>If you have any concerns or questions concerning the Privacy Policy of Stagevu, simply use the Contact Us link on the bottom bar.</p>
-</div>
 
-<div id="footcont">
+	</div>
+	<div id="footcont"></div>
 	<div id="footer">
-		<div class="floatright textright small" style="margin-right: 50px;">Powered by the <a href="http://labs.divx.com/WebPlayer" style="margin: 0;">DivX© Web Player</a>. DivX is a registered trademark of DivX, Inc.<br>Website by <a href="http://myrtlelime.com/index" style="margin: 0">Myrtlelime</a></div>
+		<div class="floatright textright small" style="margin-right: 50px;">Powered by the <a href="http://labs.divx.com/WebPlayer" style="margin: 0;">DivX© Web Player</a>. DivX is a registered trademark of DivX, Inc.</div>
 		<a href="http://stagevu.com/privacy">privacy</a>
 		<a href="http://stagevu.com/terms">terms of use</a>
-		<a href="http://stagevu.com/help">contact</a>
+		<a href="http://stagevu.com/contactus">contact</a>
 		<a href="http://stagevu.com/help">help</a>
 	</div>
 </div>
@@ -326,6 +420,8 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <script type="text/javascript">
 try {
 var pageTracker = _gat._getTracker("UA-1336767-4");
+pageTracker._setCustomVar(1, "Layout theme", "new", 3);
+pageTracker._setCustomVar(2, "Colour theme", "white", 3);
 pageTracker._trackPageview();
 } catch(err) {}
 </script>
@@ -336,6 +432,5 @@ pageTracker._trackPageview();
 <a href="http://www.quantcast.com/p-11caysjOsgMsE" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-11caysjOsgMsE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
 <!-- End Quantcast tag -->
-
 
 </body></html>
