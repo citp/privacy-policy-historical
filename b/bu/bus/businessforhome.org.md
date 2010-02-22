@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessforhome.org privacy policy that was archived on 2009-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091026162702id_/http%3A//www.businessforhome.org/support-and-faq/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessforhome.org privacy policy that was archived on 2010-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100222084515id_/http%3A//www.businessforhome.org/home/privacy-policy) for the most accurate reproduction.*
 
-# External links policy for mlm - Privacy Policy & Contact | Independent MLM & Affiliate Info
+# Independent Direct Selling & Affiliate Info: Privacy Policy & Contact
 
 ### Privacy Policy
 
