@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the article-exchange.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213084755id_/http%3A//www.article-exchange.com/_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-exchange.com privacy policy that was archived on 2010-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100222063349id_/http%3A//www.article-exchange.com/_privacy.html) for the most accurate reproduction.*
 
 # Article Exchange Network
 
