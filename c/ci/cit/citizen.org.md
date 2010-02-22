@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizen.org privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231075924id_/http%3A//www.citizen.org/about/articles.cfm%3FID%3D6272) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizen.org privacy policy that was archived on 2010-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100222050446id_/http%3A//www.citizen.org/about/articles.cfm%3FID%3D6272) for the most accurate reproduction.*
 
 # Public Citizen | Public Citizen | Public Citizen Home Page - Public Citizen's Privacy Policy
 
