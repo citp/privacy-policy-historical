@@ -1,56 +1,81 @@
-> *The following text is extracted and transformed from the jacobw.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526205314id_/http%3A//jacobw.com/content/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacobw.com privacy policy that was archived on 2010-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100222015201id_/http%3A//www.jacobw.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | myPARAMEDICspace.com
+# Privacy
 
-**About myPARAMEDICspace.com**  
-myPARAMEDICspace.com is an online service that allows our members to set up unique personal profiles that can be linked together through networks of friends. myPARAMEDICspace members can view each others' profiles, communicate with old friends and meet new friends on the service, share photos, post journals and comments, and describe their interests. To enrich our members' experience, we request and display some personal information to other members and visitors, which allows our users to identify each other and expand their network of friends. myPARAMEDICspace members can change their profile information at any time and can control how other members and the service communicates with them.
+**What information do we collect?**
 
-myPARAMEDICspace.com cares deeply about online privacy If you have any questions concerning this privacy policy, please contact us with [our feedback form](https://web.archive.org/feedback).
+We collect information from you when you register on our site or subscribe to our newsletter.
 
-**Information Collection and Use by myPARAMEDICspace.com**   
-myPARAMEDICspace.com collects user submitted information such as name, email address, and age to authenticate users and to send notifications to those users relating to the myPARAMEDICspace.com service. myPARAMEDICspace.com also collects other profile data including but not limited to: personal interests, gender, age, education and occupation in order to assist users in finding and communicating with each other.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-myPARAMEDICspace.com also logs non-personally-identifiable information including IP address, profile information, aggregate user data, and browser type, from users and visitors to the site This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes 
+Google, as a third party vendor, uses cookies to serve ads on your site.  
+Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-User Profile information including members' pictures and first names are displayed to people in order to facilitate user interaction in the myPARAMEDICspace.com social networking community. Email addresses are used for the purposes of inviting new friends to join myPARAMEDICspace, to add users to members' friends' networks, and to send notifications related to the service. With the exception of inviting friends, adding friends, and notifications, a user's email address is not shared or displayed to people within a user's personal network Users within a personal network communicate on myPARAMEDICspace.com with each other through the myPARAMEDICspace.com service, without disclosing their email addresses. Users' full names are never directly revealed to other members. To facilitate searching and finding friends and acquaintances on the service, myPARAMEDICspace.com allows users to search for other members using first and last name, email address, and schools and/or companies where users may have attended or worked.
+**What do we use your information for?**
 
-We may also use a user's email address to send updates, a newsletter or news regarding the service. Users may choose not to receive email of this type by changing their "notification" setting to "Do not send me notification emails" in the user "Account Settings"
+Any of the information we collect from you may be used in one of the following ways:
 
-From time to time, myPARAMEDICspace.com or a partner, may sponsor a promotion, sweepstake or contest on myPARAMEDICspace.com. Users may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. We may transfer personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-**Invitations and Other Communications to Non-members**  
-myPARAMEDICspace members can invite friends to join the service by sending invitation emails via our automated invitation system. myPARAMEDICspace.com stores the email addresses that members provide so that the respondents may be added to the friend's list of the member sending the invitations, and also to send reminders of the invitations myPARAMEDICspace.com does not sell these email addresses or use them to send any other communication besides invitations, invitation reminders (up to three (3) per email address). Recipients of invitations from myPARAMEDICspace.com may contact myPARAMEDICspace.com to request the removal of their information from our database. 
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-myPARAMEDICspace members may also store email addresses of people they know in their internal myPARAMEDICspace address book and may also choose to send invitations and other communications to those addresses.
+• To administer a contest, promotion, survey or other site feature
 
-You may prevent myPARAMEDICspace.com email invitations and other messages from being sent to any email address you control by sending a message with the subject "BLOCK" on our [feeback page.](https://web.archive.org/feedback) Please note that the email must come from the account you wish to block. 
+• To send periodic emails
 
-**Use of Cookies**  
-myPARAMEDICspace.com uses cookies to store visitors' preferences and to record session information, for purposes including ensuring that visitors are not repeatedly offered the same advertisements and to customize newsletter, advertising, and Web page content based on browser type and user profile information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set -- each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences -- however, you must enable cookies from myPARAMEDICspace.com in order to use most functions on the site Please note that myPARAMEDICspace allows 3rd party advertisers that are presenting advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the myPARAMEDICspace Privacy Policy. 
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-**Links** ****  
-myPARAMEDICspace.com contains links to sites. myPARAMEDICspace.com is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on myPARAMEDICspace.com. 
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
 
-**Chat Rooms, Journals and WebLogs, Message Boards, Classifieds and Public Forums**   
-Please be aware that whenever you voluntarily post public information to Journals, WebLogs, Message Boards, Classifieds or any other Public Forums that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-**Correcting/Updating or Removing Information**  
-myPARAMEDICspace.com users may modify or remove any of their personal information at any time by logging into their account and accessing features such as Edit Profile and Account Info. 
+**How do we protect your information?**
 
-**Email Choice/Opt-out**  
-Members who no longer wish to receive updates or notifications may choose not to by selecting 'Do not send me notification emails' in the user profile 'Account Settings'. Users who do not wish to receive myPARAMEDICspace.com newsletters may choose not to by selecting 'Do not send me myPARAMEDICspace newsletters' in the user profile 'Account Settings'. All notification emails and myPARAMEDICspace.com newsletters also include the above instructions for opting-out of those communications in the future. 
+We implement a variety of security measures to maintain the safety of your personal information when you access your personal information.
 
-**Third Party Advertising**  
-Ads appearing on this Web site may be delivered to users by myPARAMEDICspace.com or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by myPARAMEDICspace.com and does not cover the use of cookies by any advertisers. 
+**Do we use cookies?**
 
-**Security**  
-myPARAMEDICspace.com member accounts are secured by member-created passwords myPARAMEDICspace.com takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time For any additional information about the security measures we use on myPARAMEDICspace.com, please contact us on our [feedback form](https://web.archive.org/feedback). 
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-**Sharing and Disclosure of Information myPARAMEDICspace.com Collects**  
-Except as otherwise described in this privacy statement, myPARAMEDICspace will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by myPARAMEDICspace.com, whether or not a response is required by applicable law; (2) to enforce the myPARAMEDICspace.com Terms of Use Agreement or to protect our rights; or (3) to protect the safety of members of the public and users of the service. myPARAMEDICspace reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of myPARAMEDICspace or substantially all of its assets to that successor in interest For more information see the "Changes in Our Privacy Policy" section below. 
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-**Changes in Our Privacy Policy**  
-From time to time we may make changes to our privacy policy If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the policy when she or he uses the site after those changes have been posted If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on our Web site for 30 days. 
+**Do we disclose any information to outside parties?**
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us on our [feedback form](https://web.archive.org/feedback). 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.jacobw.com/tos>
+
+**Your Consent**
+
+By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+This policy was last modified on December 19,2009
+
+http://www.jacobw.com/contact
