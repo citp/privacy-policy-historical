@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the romancelatina.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205060948id_/http%3A//www.romancelatina.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romancelatina.com privacy policy that was archived on 2010-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100223060430id_/http%3A//www.romancelatina.com/en/privacy.php) for the most accurate reproduction.*
 
-# Free Colombian dating site - Meet Colombian women for dating | Colombian women for marriage
+# Colombian Girls for dating | Colombian women for marriage | Free Online Colombian Dating
 
 RomaceLatinca.com PRIVACY POLICY
 
