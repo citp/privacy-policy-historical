@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollrr.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221072912id_/http%3A//www.hollrr.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollrr.com privacy policy that was archived on 2010-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100223013853id_/http%3A//hollrr.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - hollrr.com
 
@@ -50,6 +50,6 @@ Our Site contains links to other websites. The fact that we link to a website is
 
 ## Our Policy Towards Children
 
-The Site is not directed to persons under 18. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at privacy@hollrr.com. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.
+The Site is not directed to persons under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at privacy@hollrr.com. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.
 
 (Our privacy policy was inspired by Twitter's - thanks guys, you rock!)
