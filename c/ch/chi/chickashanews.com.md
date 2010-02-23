@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chickashanews.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224085207id_/http%3A//www.chickashanews.com/homepage/resources_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chickashanews.com privacy policy that was archived on 2010-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100223201645id_/http%3A//www.chickashanews.com/homepage/resources_privacypolicy) for the most accurate reproduction.*
 
 # Chickashanews.com - Homepage
 
