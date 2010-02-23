@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicmaza.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222005536id_/http%3A//www.musicmaza.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicmaza.com privacy policy that was archived on 2010-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100223085358id_/http%3A//www.musicmaza.com/privacy.html) for the most accurate reproduction.*
 
 # Music Maza : Privacy Policy
 
