@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the batangastoday.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629003347id_/http%3A//www.batangastoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batangastoday.com privacy policy that was archived on 2010-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100223025553id_/http%3A//www.batangastoday.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Batangas News and Information | Batangas Today
+# Privacy Policy / Batangas Today
 
 I respect your privacy and I am committed to safeguarding your privacy while online at my site www.batangastoday.com . The following discloses the information gathering and dissemination practices for this Web site.
 
