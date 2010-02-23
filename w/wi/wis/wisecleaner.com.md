@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisecleaner.com privacy policy that was archived on 2009-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090306061216id_/http%3A//www.wisecleaner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisecleaner.com privacy policy that was archived on 2010-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100223202252id_/http%3A//www.wisecleaner.com/privacy.html) for the most accurate reproduction.*
 
 # WiseCleaner - Privacy Policy
 
@@ -72,4 +72,4 @@ We will occasionally update this privacy statement to reflect changes in our ser
 
 Contacting Us
 
-WiseCleaner welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please [contact us](https://web.archive.org/web/20090306061216id_/http%3A//www.wisecleaner.com/help.html).
+WiseCleaner welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please [contact us](https://web.archive.org/web/20100223202252id_/http%3A//www.wisecleaner.com/help.html).
