@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coloring.ws privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223141638id_/http%3A//www.dltk-kids.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coloring.ws privacy policy that was archived on 2010-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100223123842id_/http%3A//www.dltk-kids.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
