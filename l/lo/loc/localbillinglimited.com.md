@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the localbillinglimited.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122061543id_/http%3A//localbillinglimited.com/localbilling_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localbillinglimited.com privacy policy that was archived on 2010-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100223083804id_/http%3A//www.localbillinglimited.com/localbilling_privacy_policy.php) for the most accurate reproduction.*
 
 # LocalBilling - LocalBilling Privacy Policy
 
-|  | [](https://web.archive.org/web/20091122061543id_/http%3A//localbillinglimited.com/billing_solutions01.php) | [](https://web.archive.org/web/20091122061543id_/http%3A//localbillinglimited.com/start.php) | [](https://web.archive.org/web/20091122061543id_/http%3A//localbillinglimited.com/stats_reporting.php) | [](https://web.archive.org/web/20091122061543id_/http%3A//localbillinglimited.com/payment.php) | [](https://web.archive.org/web/20091122061543id_/http%3A//localbillinglimited.com/affiliate_management.php) | [](https://web.archive.org/web/20091122061543id_/http%3A//localbillinglimited.com/contact_support.php) | [](https://web.archive.org/web/20091122061543id_/http%3A//localbillinglimited.com/news.php)  
+|  | [](https://web.archive.org/web/20100223083804id_/http%3A//www.localbillinglimited.com/billing_solutions01.php) | [](https://web.archive.org/web/20100223083804id_/http%3A//www.localbillinglimited.com/start.php) | [](https://web.archive.org/web/20100223083804id_/http%3A//www.localbillinglimited.com/stats_reporting.php) | [](https://web.archive.org/web/20100223083804id_/http%3A//www.localbillinglimited.com/payment.php) | [](https://web.archive.org/web/20100223083804id_/http%3A//www.localbillinglimited.com/affiliate_management.php) | [](https://web.archive.org/web/20100223083804id_/http%3A//www.localbillinglimited.com/contact_support.php) | [](https://web.archive.org/web/20100223083804id_/http%3A//www.localbillinglimited.com/news.php)  
 ---|---|---|---|---|---|---  
   
-| [Home](https://web.archive.org/web/20091122061543id_/http%3A//localbillinglimited.com/index.php) >>> Local Billing Privacy Policy  
+| [Home](https://web.archive.org/web/20100223083804id_/http%3A//www.localbillinglimited.com/index.php) >>> Local Billing Privacy Policy  
 ---  
   
 Summary
@@ -69,7 +69,7 @@ Changes to this Privacy Policy
 
 Questions and Suggestions
 
-If you have questions or suggestions, please [contact us](https://web.archive.org/web/20091122061543id_/http%3A//localbillinglimited.com/contact_support.php)
+If you have questions or suggestions, please [contact us](https://web.archive.org/web/20100223083804id_/http%3A//www.localbillinglimited.com/contact_support.php)
 
 |  January 12th, 2009
 
@@ -97,5 +97,4 @@ August 8th, 2008
 **Miami**  
 Be the first to personally meet the new Local Billing directive team and find out how their world-class knowledge and expertise will ensure Local Billing will deliver on your performance. They will also be on hand to answer any questions. 
 
-[more...](https://web.archive.org/web/20091122061543id_/http%3A//localbillinglimited.com/news.php)  
-
+[Read more news...](https://web.archive.org/web/20100223083804id_/http%3A//www.localbillinglimited.com/news.php)
