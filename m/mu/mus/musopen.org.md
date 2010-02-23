@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musopen.org privacy policy that was archived on 2009-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090914102348id_/http%3A//musopen.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musopen.org privacy policy that was archived on 2010-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100223102328id_/http%3A//musopen.org/privacy.php) for the most accurate reproduction.*
 
 # Musopen - Privacy Policy
 
