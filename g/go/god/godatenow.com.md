@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the godatenow.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618031609id_/http%3A//godatenow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godatenow.com privacy policy that was archived on 2010-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100224032334id_/http%3A//www.godatenow.com/privacy) for the most accurate reproduction.*
 
-# GoDateNow.com
+# GoDateNow.com - Best Online Dating community and Videos
 
 1\. How is personal information collected?
 
