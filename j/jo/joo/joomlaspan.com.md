@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlaspan.com privacy policy that was archived on 2009-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090705130103id_/http%3A//www.joomlaspan.com/site/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlaspan.com privacy policy that was archived on 2010-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100224061030id_/http%3A//www.joomlaspan.com/site/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Site • Joomla Resources • Modules • Plugins • Components
 
@@ -69,5 +69,5 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 Should you have other questions or concerns about these privacy policies, please send us an email at [policies@joomlaspan.com](mailto:policies@joomlaspan.com) .
 
-|  [< Prev](http://www.joomlaspan.com/site/terms-of-service.php)  
+|  [< Prev](http://www.joomlaspan.com/site/404.php)  
 ---
