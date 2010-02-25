@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loadzajobs.ie privacy policy that was archived on 2009-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090917004141id_/http%3A//www.loadzajobs.ie/privacy.jobs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loadzajobs.ie privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225100428id_/http%3A//www.loadzajobs.ie/privacy.jobs) for the most accurate reproduction.*
 
 # Privacy | LoadzaJobs.ie
 
