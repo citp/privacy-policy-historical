@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medspartners.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224130348id_/http%3A//medspartners.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medspartners.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225045657id_/http%3A//medspartners.com/policy.aspx) for the most accurate reproduction.*
 
 # MedsPartners
 
@@ -25,7 +25,7 @@ We also allow third party companies that are presenting advertisements on some o
 Information Sharing and Disclosure  
 We will not disclose your personal information to any third parties who work on our behalf to provide products and services requested by you. We will not share your personal information for any purposes even if a third parties privacy policies are consistent with ours.
 
-We may otherwise disclose your personal information when: (a) We have your express consent to share the information for a specified purpose; (b) We need to respond to subpoenas, court orders or other such legal process; (c) We find that your actions on our websites violate our [Terms and Conditions](https://web.archive.org/web/20091224130348id_/http%3A//medspartners.com/Terms.aspx) document or any of our usage guidelines pertaining to corresponding products or services.
+We may otherwise disclose your personal information when: (a) We have your express consent to share the information for a specified purpose; (b) We need to respond to subpoenas, court orders or other such legal process; (c) We find that your actions on our websites violate our [Terms and Conditions](https://web.archive.org/web/20100225045657id_/http%3A//medspartners.com/Terms.aspx) document or any of our usage guidelines pertaining to corresponding products or services.
 
 We may also disclose your personal information, with your consent, to a third party payment gateway when it is absolutely required to allow us to make financial settlements. However, only information that you provide in the Payment Method section of the Affiliate Account settings will be shared. It is your responsibility to provide the minimum but sufficient information needed to permit us to make a timely settlement. 
 
@@ -47,4 +47,4 @@ We may at any time, without notice to you, and with sole discretion, amend this 
 Questions or Suggestions  
 If you have questions or suggestions about this privacy policy, or the security of your own personal information, please e-mail us at [support@medspartners.com](mailto:support@medspartners.com). 
 
-[](https://web.archive.org/web/20091224130348id_/http%3A//medspartners.com/AffiliateSignUp.aspx)
+[](https://web.archive.org/web/20100225045657id_/http%3A//medspartners.com/AffiliateSignUp.aspx)
