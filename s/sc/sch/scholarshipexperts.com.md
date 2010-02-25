@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarshipexperts.com privacy policy that was archived on 2009-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090917010131id_/http%3A//www.scholarshipexperts.com/scholarships/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipexperts.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225101600id_/http%3A//www.scholarshipexperts.com/scholarships/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - ScholarshipExperts.com
 
@@ -80,7 +80,7 @@ Access to nonpublic personal information about you is limited to those employees
    
 Emails for Site and Service Updates  
   
-We send all new users a welcoming email to verify their username and to explain the login process. We also send users site and service announcement updates, newsletters, and other appropriate email messages. Users are able to opt-out from site and service announcements and other emails by [changing their email preferences](http://www.scholarshipexperts.com/unsubscribemail_form.jsp) on our website. We communicate via email with users to provide requested services and for issues relating to their profiles. And for users who have given us explicit permission to do so, we send out customized email offers on behalf of our partners.   
+We send all new users a welcoming email to verify their username and to explain the login process. We also send users site and service announcement updates, newsletters, and other appropriate email messages. Users are able to opt-out from site and service announcements and other emails by [changing their email preferences](http://scholarshipexperts.com/unsubscribemail_form.jsp) on our website. We communicate via email with users to provide requested services and for issues relating to their profiles. And for users who have given us explicit permission to do so, we send out customized email offers on behalf of our partners.   
   
    
 Correcting/Updating Personal Information  
@@ -113,7 +113,7 @@ _© Copyright WiseChoice Brands, LLC 2009. All rights reserved._
   
    
   
-[ Back to Top](http://www.scholarshipexperts.com/scholarships/privacy.jsp)  
+[ Back to Top](http://scholarshipexperts.com/scholarships/privacy.jsp)  
   
    
 |  | 
