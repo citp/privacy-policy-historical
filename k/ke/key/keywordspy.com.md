@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keywordspy.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221185101id_/http%3A//www.keywordspy.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordspy.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225150242id_/http%3A//www.keywordspy.com/policy.aspx) for the most accurate reproduction.*
 
-# KeywordSpy
+# 
 
 KeywordSpy is committed to safeguarding your privacy on-line. The following statement sets our privacy policy. For the purpose of this Privacy Statement "KeywordSpy" shall mean KeywordSpy.com. This policy may change from time to time so please re-read this policy periodically. 
 
