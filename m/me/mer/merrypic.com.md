@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the merrypic.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601070206id_/http%3A//www.merrypic.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merrypic.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225121059id_/http%3A//www.merrypic.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
-# MerryPic Free Image Hosting Service and Photo Sharing. Free Upload Pictures
+# MerryPic Free Image Sharing and Photo Hosting Upload pictures
+
+[Creat Site, Register Domain,Buy Hosting, Disgn your site,SEO Optimizer and Searh Engine Optimizer](http://www.ipower.com/join/index.bml?AffID=606581&LinkName=linkmovie "Creat Site, Register Domain,Buy Hosting, Disgn your site,SEO Optimizer and Searh Engine Optimizer")
 
 MerryPic policy is to respect and protect the privacy of our users. MerryPic will not disclose your personal information to third parties without your consent.
 
