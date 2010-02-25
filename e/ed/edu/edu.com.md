@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edu.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830151227id_/http%3A//www.vantagemedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edu.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225192747id_/http%3A//www.vantagemedia.com/privacy.html) for the most accurate reproduction.*
 
 # Vantage Media Privacy Statement
 
@@ -30,7 +30,7 @@ Vantage Media, LLC websites are not directed at individuals under sixteen years 
 We invite you to contact us if you have questions or comments about our Privacy Policy or you want to change the  personally identifiable information you have provided to us. 
 
 You may contact us by:  
-Sending a letter to: Vantage Media, LLC, 2100 Rosecrans Ave., Suite 2000, El Segundo, CA 90245  
+Sending a letter to: Vantage Media, LLC, 2101 Rosecrans Ave., Suite 2000, El Segundo, CA 90245  
 Calling us at (310) 219-6202  
 Emailing us at: [privacy@vantagemedia.com](mailto:privacy@vantagemedia.com) with a copy to [admin@vantagemedia.com](mailto:admin@vantagemedia.com)
 
