@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scripted.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509004346id_/http%3A//scripted.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripted.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225051912id_/http%3A//scripped.com/privacy) for the most accurate reproduction.*
 
 # Scripped - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 _Effective as of December 27, 2007_
 
-Here at [Scripped.com](http://www.scripped.com/), (“Scripped”, “we” and “us”), we understand and respect your concerns about the use of your personal information. We believe that you should know what information about you we collect, as well as how that information is used, maintained, and, in some cases, shared. The following sets forth our privacy practices and policies (“Privacy Policy”):
+Here at [Scripped.com](http://scripped.com/), (“Scripped”, “we” and “us”), we understand and respect your concerns about the use of your personal information. We believe that you should know what information about you we collect, as well as how that information is used, maintained, and, in some cases, shared. The following sets forth our privacy practices and policies (“Privacy Policy”):
 
 We will collect information about you when you register for our website or other features and services we provide, when you transmit information via our website or by email, when you register for our promotions and when you otherwise use our website. By doing any of the foregoing, you assent to this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not engage in any of these activities.
 
@@ -90,7 +90,7 @@ Scripped may update this Privacy Policy from time to time. In the event that Scr
 
 ### GOVERNING LAW
 
-By choosing to visit this website or otherwise provide information to Scripped, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the laws of the State of California. You also agree to arbitrate such disputes and to abide by any limitation on damages contained in our Terms of Use (available at <http://www.scripped.com/term>) or other agreement we have with you.
+By choosing to visit this website or otherwise provide information to Scripped, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the laws of the State of California. You also agree to arbitrate such disputes and to abide by any limitation on damages contained in our Terms of Use (available at [http://www.scripped.com/term](http://scripped.com/term)) or other agreement we have with you.
 
 ### UPDATE INFORMATION / SUGGESTIONS
 
