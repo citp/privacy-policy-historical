@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepayerplayer.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224035829id_/http%3A//www.thepayerplayer.com/content/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepayerplayer.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225134104id_/http%3A//www.thepayerplayer.com/content/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,4 +30,4 @@ Various advertisers or affiliate merchants on this site may use cookies. Typical
 
 **Updates and changes:**
 
-The Payer Player.com reserves the right to replace its Privacy Policy at any time. We suggest that you regularly check [http://www.thepayerplayer.com/content/Privacy_Policy](https://web.archive.org/web/20091224035829id_/http%3A/content/Privacy_Policy "This external link will open in a new window") for updates. Please e-mail _[feedback@thepayerplayer.com](mailto:feedback@thepayerplayer.com "This external link will open in a new window")_ with questions or comments.
+The Payer Player.com reserves the right to replace its Privacy Policy at any time. We suggest that you regularly check [http://www.thepayerplayer.com/content/Privacy_Policy](https://web.archive.org/web/20100225134104id_/http%3A/content/Privacy_Policy "This external link will open in a new window") for updates. Please e-mail _[feedback@thepayerplayer.com](mailto:feedback@thepayerplayer.com "This external link will open in a new window")_ with questions or comments.
