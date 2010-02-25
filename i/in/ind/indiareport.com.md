@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiareport.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227180332id_/http%3A//www.indiareport.com/registration/privacyconcerns.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiareport.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225121532id_/http%3A//www.indiareport.com/registration/privacyconcerns.php) for the most accurate reproduction.*
 
 # Indiareport.com,India entertainment News,Indian Politics News,Latest Sports News,Top Breaking News,India
 
