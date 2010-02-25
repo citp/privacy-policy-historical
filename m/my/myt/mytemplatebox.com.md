@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mytemplatebox.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224150551id_/http%3A//mytemplatebox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytemplatebox.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225080943id_/http%3A//www.mytemplatebox.com/privacy) for the most accurate reproduction.*
 
-# Free Website Templates
+# Privacy Policy
 
 By using or accessing MyTemplateBox templates, you are accepting the practices described in this Privacy Policy. Please be sure to check our Privacy Policy and Terms of Use regularly as they may change as new services are added; such changes will be effective immediately and without prior written notice.
 
@@ -28,7 +28,7 @@ You have the ability and control to remove or alter your account-specific inform
 
 **IF YOU ARE UNDER 13 YEARS OF AGE, PLEASE DO NOT USE OR ACCESS MyTemplateBox AT ANY TIME OR IN ANY MANNER.**
 
-MyTemplateBox complies with the Children's Online Privacy Protection Act and does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on the MyTemplateBox. If you are the parent or legal guardian of a child under 13 who has become a member of the MyTemplateBox, then please contact MyTemplateBox via [contact](http://www.mytemplatebox.com/contact_us/privacy) form to have that child's account terminated and information deleted.
+MyTemplateBox complies with the Children's Online Privacy Protection Act and does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on the MyTemplateBox. If you are the parent or legal guardian of a child under 13 who has become a member of the MyTemplateBox, then please contact MyTemplateBox via [contact](https://web.archive.org/contact_us/privacy) form to have that child's account terminated and information deleted.
 
 **In the Event of Merger or Sale:**
 
@@ -36,4 +36,4 @@ In the event that MyTemplateBox is acquired by or merged with a third-party enti
 
 **Contacting MyTemplateBox:**
 
-Please contact MyTemplateBox with any questions or comments about this Privacy Notice using our [contact](http://www.mytemplatebox.com/contact_us/privacy) form.
+Please contact MyTemplateBox with any questions or comments about this Privacy Notice using our [contact](https://web.archive.org/contact_us/privacy) form.
