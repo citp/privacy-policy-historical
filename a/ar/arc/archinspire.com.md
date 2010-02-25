@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the archinspire.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505134813id_/http%3A//archinspire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archinspire.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225140046id_/http%3A//archinspire.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Home Design Ideas | Decorating | Gardening - Archinspire.Com
-
-Hello, thanks for visiting Archinspire.Com. Track last update from archinspire.com by subscribe to our feed :).
+# Privacy Policy - Home Design Ideas | Decorating | Gardening
 
 1\. Archinspire.Com respects the privacy of its users and does not collect any personally identifiable user information without prior notice. Web statistics are the sole and private property of Archinspire.Com and are only used for troubleshooting purposes.
 
