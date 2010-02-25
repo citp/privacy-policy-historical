@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egreetings.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413175120id_/http%3A//www.egreetings.com/new_warrants.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egreetings.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225144348id_/http%3A//www.egreetings.com/new_warrants.pd) for the most accurate reproduction.*
 
 # Find out more about Egreetings.com!
 
@@ -168,7 +168,7 @@ As of January 1, 2005, California Civil Code Section 1798.83 permits visitors to
 
 We are committed to protecting the privacy and rights of children online. We believe that children should be able to use the Internet in a safe, productive, and efficient manner and should be afforded the highest protection available with respect to their personal information. To that end, we have made it our policy to not collect any individually identifiable information from users whom we know are under the age of 13. Our registration process blocks the registration of users under 13 years old and will automatically delete all individually identifiable information collected from such users. 
 
-The Children's Online Privacy Protection Act ("COPPA") imposes certain requirements upon web sites and online services that are directed toward children. To learn more about COPPA, [click here](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html) for the Federal Trade Commission COPPA Web Site. 
+The Children's Online Privacy Protection Act ("COPPA") imposes certain requirements upon web sites and online services that are directed toward children. To learn more about COPPA, [click here](http://www.ftc.gov/ogc/coppa1.htm) for the Federal Trade Commission COPPA Web Site. 
 
 **Contests and Promotions**
 
