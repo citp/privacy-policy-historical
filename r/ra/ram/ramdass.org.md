@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ramdass.org privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328031333id_/http%3A//www.ramdass.org/Home/tabid/328/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ramdass.org privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225144055id_/http%3A//www.ramdass.org/Home/tabid/328/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Ram Dass - the official interactive Satsang site for author (Be Here Now) and spiritual teacher Ram Dass
 
