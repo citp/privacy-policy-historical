@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pro-response.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527044614id_/http%3A//pro-response.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pro-response.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225144007id_/http%3A//pro-response.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Pro-Response
 
-[Home](https://web.archive.org/web/20090527044614id_/http%3A//pro-response.com/index.htm) > [About Us](https://web.archive.org/web/20090527044614id_/http%3A//pro-response.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20090527044614id_/http%3A//pro-response.com/privacy-policy.htm)
+[Home](https://web.archive.org/web/20100225144007id_/http%3A//pro-response.com/index.htm) > [About Us](https://web.archive.org/web/20100225144007id_/http%3A//pro-response.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20100225144007id_/http%3A//pro-response.com/privacy-policy.htm)
 
 **This statement discloses the privacy practices of Pro-Response Communications/AWeber Systems, Inc.**
 
