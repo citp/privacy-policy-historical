@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashnetusa.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523131405id_/http%3A//www.cashnetusa.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashnetusa.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225151505id_/http%3A//www.cashnetusa.com/privacy_policy.html) for the most accurate reproduction.*
 
 # CashNetUsa - Fast Payday Loans
 
@@ -26,5 +26,3 @@ Our Right to Change This Policy
 Notice to California Residents 
 Notice to North Dakota Residents 
 Notice to Vermont Residents 
-
-Customer Notice: Payday advances should be used for short-term financial needs only, not as a long-term financial solution. Customers with credit difficulties should seek credit counseling.
