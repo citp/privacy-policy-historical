@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clickosmedia.com privacy policy that was archived on 2009-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091014162944id_/http%3A//www.clickosmedia.com/Privpolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickosmedia.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225122213id_/http%3A//www.clickosmedia.com/Privpolicy.asp) for the most accurate reproduction.*
 
-# Clickos MEDIA - Online Advertising Network
+# Privacy Policy | ClickosMEDIA - Online Advertising Network
 
 Site: ClickosMEDIA  
 URL: http:// www.Clickosmedia.com
@@ -29,14 +29,12 @@ other resources on the Web.
 address, and other pertinent information.
 
   This information is used to facilitate buying and selling of links/advertisements   
-on the Internet
-
+on the Internet  
   Unless requested by law enforcement personnel or required by legal process,  
 we will not share any personal information with any third parties nor will we   
 use any personal information for any purposes beyond those stated here.
 
-  **Cookies**
-
+  **Cookies**  
   This site uses cookies for session management. See the Session  
 Management section for more information about how cookies are used
 
