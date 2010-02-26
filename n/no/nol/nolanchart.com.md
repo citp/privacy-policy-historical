@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nolanchart.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401172948id_/http%3A//www.nolanchart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nolanchart.com privacy policy that was archived on 2010-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100226054526id_/http%3A//www.nolanchart.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,5 +20,13 @@ With respect to Ad Servers, we try to bring you offers that are of interest to y
 For further information, consult the privacy policies of:  
 [Google](http://www.google.com/privacy.htmlutm_source=aso&utm_campaign=ww-ww-et-ashp&utm_medium=link)  
 
+
+  * Google, as a third party vendor, uses cookies to serve ads on this site. 
+  * Google's use of the DART cookie enables it to serve ads to our users based on their visits to this site and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 Upon request we provide site visitors with a description of information that we maintain about them. Consumers can have this information corrected by sending us email at the above address. If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
