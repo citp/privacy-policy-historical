@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the above.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115181306id_/http%3A//www.above.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the above.com privacy policy that was archived on 2010-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100226123159id_/http%3A//www.above.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Above.com Privacy Policy
 
@@ -15,8 +15,6 @@ Above does not sell or provide to third parties any personal information collect
 Above does not sell or provide to third parties any data derived from this service, aggregated or not that can be tied or linked to you personally or your account.
 
 Above in the course of providing this service uses various means to access and obtain data in your specified Parking Services accounts. The data that is provided by you or extracted only contains relevant traffic data points relating to your domains as used in the Above reporting. No other personal details are accessed such as: contact details, payment details, payment history, revenue share or tax information from your third party Parking companies accounts. Ownership of any data provided or extracted from third party accounts, remains solely with you.
-
-Above.com Pty Ltd falls under Australian jurisdiction and as such we may in response to an Australian subpoena or a court order, or a request for cooperation from any law enforcement or other Government agency, in such cases, we may disclose your personal information to comply with applicable law or cooperate with law enforcement.
 
 By accepting these terms and conditions, you agree to the use of your personal information as outlined above.
 
