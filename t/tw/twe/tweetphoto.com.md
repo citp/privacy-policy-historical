@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tweetphoto.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130053451id_/http%3A//tweetphoto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetphoto.com privacy policy that was archived on 2010-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100226151405id_/http%3A//tweetphoto.com/privacy) for the most accurate reproduction.*
 
-# TweetPhoto | Photosharing made simple.
+# Privacy Policy | TweetPhoto
 
 TweetPhoto, Inc. ("TweetPhoto") recognizes that its customers, visitors, users, and others who use [http://tweetphoto.com](http://tweetphoto.com/) or other web sites owned or operated by TweetPhoto (the "TweetPhoto Sites") (collectively or individually "Users") value their privacy. This Privacy Policy details important information regarding the use and disclosure of User information collected on the TweetPhoto Sites. TweetPhoto provides this Privacy Policy to help you make an informed decision about whether to use or continue using the TweetPhoto Sites. 
 
