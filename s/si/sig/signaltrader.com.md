@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the signaltrader.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227064415id_/http%3A//www.signaltrader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signaltrader.com privacy policy that was archived on 2010-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100226185800id_/http%3A//www.signaltrader.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Signal Trader Privacy Policy
 
-Signal Trader (Hereinafter "SIGNALTRADER.COM", "The Company" or "we") is the owner of this website SignalTrader.com ("The website"). Signal Trader is committed to protecting your privacy. This "Privacy Policy" describes how we collect, store and use information on individuals that use this Web Site.
+I.S. Signal Trader Limited (Hereinafter "SIGNALTRADER.COM", "Signal Trader Limited", "Signal Trader", "The Company" or "we") is the owner of this website SignalTrader.com ("The website"). Signal Trader is committed to protecting your privacy. This "Privacy Policy" describes how we collect, store and use information on individuals that use this Web Site.
 
 Signal Trader Privacy Pledge  
 The term "personal data" as used in this Policy refers to information such as your name, e-mail address or mailing address, or any data that can be used to identify you. We ensure that our staff and those acting on our behalf obtain, use and disclose personal information lawfully and correctly.
