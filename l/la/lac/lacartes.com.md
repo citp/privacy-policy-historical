@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lacartes.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227132615id_/http%3A//lacartes.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacartes.com privacy policy that was archived on 2010-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100226105846id_/http%3A//www.lacartes.com/privacypolicy.php) for the most accurate reproduction.*
 
 # ::..Welcome to LaCartes.com..::
 
