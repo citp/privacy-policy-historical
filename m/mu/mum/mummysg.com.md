@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mummysg.com privacy policy that was archived on 2009-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090819232619id_/http%3A//www.mummysg.com/forums/f4/privacy-policy-14417) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mummysg.com privacy policy that was archived on 2010-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100226054715id_/http%3A//www.mummysg.com/forums/f4/privacy-policy-14417) for the most accurate reproduction.*
 
 # Privacy Policy
 
