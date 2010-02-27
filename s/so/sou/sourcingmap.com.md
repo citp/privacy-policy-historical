@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourcingmap.com privacy policy that was archived on 2009-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090411145842id_/http%3A//www.sourcingmap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcingmap.com privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227195157id_/http%3A//www.sourcingmap.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Notice from Sourcigmap.com-Secure and Safe Online Wholesale Store
 
