@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the article-tree.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607223914id_/http%3A//www.article-tree.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-tree.com privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227051753id_/http%3A//www.article-tree.com/privacy.php) for the most accurate reproduction.*
 
 # Free Articles Directory | Submit Articles | SEO Friendly Articles Directory | Free Articles for Reprint
 
