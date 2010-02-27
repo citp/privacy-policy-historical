@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fromnaturewithlove.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626022117id_/http%3A//www.fromnaturewithlove.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromnaturewithlove.com privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227033039id_/http%3A//www.fromnaturewithlove.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement - FNWL
 
@@ -39,5 +39,3 @@ There are several types of "cookies" that we use.
 If you have any questions about this privacy statement or our Web site practices, please contact: 
 
 [webmaster@fromnaturewithlove.com ](mailto:webmaster@fromnaturewithlove.com)
-
-Â 
