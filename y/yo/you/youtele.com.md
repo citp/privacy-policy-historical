@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youtele.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616151708id_/http%3A//www.youtele.com/youtele08/html/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtele.com privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227053706id_/http%3A//www.youtele.com/youtele08/html/policy.php) for the most accurate reproduction.*
 
-# Broadband from YOU Telecom: Leading Hi Speed Broadband Internet Service provider in India.uper Fast Connection.
+# YOU Broadband & Cable India Private Limited: Leading High Speed Broadband Internet Service provider in India. Super Fast Connection.
 
   * YOU Play
     * Premium Games
@@ -11,6 +11,7 @@
       * [Level Up Games](http://www.youtele.com/youtele08/html/yourspace/levelupgames.php)
       * [Games2win](http://www.youtele.com/youtele08/html/yourspace/games2win.php)
       * [Flash Games](http://www.youtele.com/youtele08/html/yourspace/funzone/funzone.php)
+      * [Free Games Jungle](http://www.youtele.com/youtele08/html/yourspace/funzone/freeflashgames.php)
   * [YOU Shop](http://www.youshop.in/)
   * YOU Learn
     * [24x7 Guru](http://itapps.youtele.com:8100/default/24x7guru/html/index.jsp)
@@ -23,7 +24,7 @@
 ---  
 **What This Privacy Policy Covers**  
   
-  * This policy covers how YOU Telecom India Pvt Ltd ("Company") treats personal information that the Company collects and receives, including information related to your past use of the Company's products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number etc.
+  * This policy covers how YOU Broadband & Cable India Private Limited ("Company") treats personal information that the Company collects and receives, including information related to your past use of the Company's products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number etc.
 
 
 
