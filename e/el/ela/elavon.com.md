@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the elavon.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614030214id_/http%3A//www.elavon.com/acquiring/privacy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elavon.com privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227032206id_/http%3A//www.elavon.com/privacy/index.aspx) for the most accurate reproduction.*
 
-# Elavon - Privacy Policy
+# Elavon - Privacy
+
+## Privacy
 
 Last Update: March 13, 2008
 
