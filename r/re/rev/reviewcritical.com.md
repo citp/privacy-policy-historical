@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviewcritical.com privacy policy that was archived on 2009-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090912081242id_/http%3A//www.reviewcritical.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewcritical.com privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227100507id_/http%3A//www.reviewcritical.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
