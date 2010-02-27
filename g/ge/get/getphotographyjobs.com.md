@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getphotographyjobs.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525195207id_/http%3A//www.getphotographyjobs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getphotographyjobs.com privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227101517id_/http%3A//www.getphotographyjobs.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Get Photography Jobs
 
@@ -37,10 +37,16 @@ Get Photography Jobs welcomes your feedback on this document by email at contact
 
 | 
 
+[](http://www.addthis.com/bookmark.php)
+
+[](https://web.archive.org/resources/add.php)
+
 ## These Jobs Need Your Help
+
+## Get Photography Jobs on Facebook
 
 ## FREE Weekly Photography Jobs
 
-**Hot New Jobs** direct to your inbox. Join **23475** Photography professionals today!
+**Hot New Jobs** direct to your inbox. Join **29,022** Photography professionals today!
 
 [](http://www.employmentwebsites.org/)
