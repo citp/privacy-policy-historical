@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mandmdirect.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227145244id_/http%3A//www.mandmdirect.com/Security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandmdirect.com privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227110459id_/http%3A//www.mandmdirect.com/Security.asp) for the most accurate reproduction.*
 
 # Security details for MandMDirect.com. adidas , Ben Sherman, Diesel, Nike and loads more.
 
