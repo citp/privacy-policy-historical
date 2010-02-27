@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grindr.com privacy policy that was archived on 2009-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091012004632id_/http%3A//www.grindr.com/Grindr_iPhone_App/Grindr_Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grindr.com privacy policy that was archived on 2010-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100228000401id_/http%3A//www.grindr.com/Grindr_iPhone_App/Grindr_Privacy_Policy.html) for the most accurate reproduction.*
 
 # Grindr Privacy Policy
 
@@ -43,4 +43,4 @@ Grindr © Copyright 2009 Nearby Buddy Finder, LLC.
 Apple, iPhone, iPod Touch, and iTunes are trademarks of Apple Inc.,registered in the U.S. and other countries.  
 
 
-[Grindr Privacy Policy]() | [Terms of Service](https://web.archive.org/web/20091012004632id_/http%3A//www.grindr.com/Grindr_iPhone_App/Grindr_Terms_of_Service.html "Grindr_Terms_of_Service.html")
+[Grindr Privacy Policy]() | [Terms of Service](https://web.archive.org/web/20100228000401id_/http%3A//www.grindr.com/Grindr_iPhone_App/Grindr_Terms_of_Service.html "Grindr_Terms_of_Service.html")
