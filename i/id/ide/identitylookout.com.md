@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the identitylookout.com privacy policy that was archived on 2009-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090206175828id_/http%3A//www.identitylookout.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the identitylookout.com privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227100655id_/http%3A//identitylookout.com/privacy.html) for the most accurate reproduction.*
 
 # IdentityLookout
 
@@ -54,6 +54,10 @@ We reserve the right to collect information about you and store it in connection
 
 From time to time, we may contact you via e-mail advertising, telephone marketing, direct mail marketing, online banner advertising or other means to inform you of additional opportunities to receive special offers for other services and/or products that we believe may be of interest to you. By providing your contact information when using the Service, you are entering into a business relationship with Ratespecial and are further requesting, and expressly consenting to, being contacted by Ratespecial and our Third Party Providers via telephone, fax, email, surface mail or any other means, at any of your contact numbers or addresses, even if you are listed on any federal, state or other applicable "Do Not Call" list, in order that Ratespecial may provide the services set forth on the Site or for other purposes reasonably related to your service request and the business of Ratespecial, including marketing-related emails. You are under no obligation to accept any service or product offered through these communications. 
 
+SMS, Wireless and Other Mobile Offerings. By using this Site we may make available a service either directly or through third parties by which you can receive messages on your wireless device via short message service ("SMS Service"). Data obtained from you in connection with this SMS service may include your name, address, cell phone number, your provider's name, and the date, time, and content of your messages. We may also obtain the date, time and content of your messages in the course of your use of the SMS Service. We will use the information we obtain in connection with our SMS Service in accordance with this Privacy Policy. If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies. We do not guarantee that your use of the SMS Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS Service. You may opt out of the SMS Service at any time by replying "STOP", "END", or "QUIT" to the SMS text message you have received.
+
+mobile unsubscribe: http://www.mytxtsupport.com/_unsubscribe.php
+
 From time to time, we may send you certain transactional messages relating to the Service, such as service announcements, administrative messages, etc.
 
 To the extent that we collect your credit card information, we will use the information for verification purposes and/or for transmitting the information to the specific Third Party Providers authorized by you for the purpose of completing your requested transaction. Your credit card information will be encrypted during transmission. In addition, by submitting your credit card information to us, you authorize us to verify that your credit card account is valid by charging, and thereafter immediately crediting, a small sum to the card. Such verification may be conducted through a third-party and, in that case, we would share your specific credit card information with this third-party for verification purposes. Notwithstanding the foregoing, we reserve the right to share with third-parties the fact that we have credit card information on file for specific users. 
@@ -98,7 +102,7 @@ If you have any questions about security on our Web site, you can mail us at the
 
 **Opting Out**
 
-If you wish to opt-out from receiving additional email offers, advertisements and promotions relating to this Site, write to "unsubscribe" or [please click on this link](https://web.archive.org/web/20090206175828id_/http%3A//www.identitylookout.com/unsubscribe.html) to “opt-out”. 
+If you wish to opt-out from receiving additional email offers, advertisements and promotions relating to this Site, write to "unsubscribe" or [please click on this link](https://web.archive.org/web/20100227100655id_/http%3A//identitylookout.com/unsubscribe.html) to “opt-out”. 
 
 If you choose to opt-out, your e-mail address will be added to the suppression files associated with this Site (e.g. Mortgage, Education, Membership Rewards Program, etc.) within ten (10) business days of your request. Thereafter, you should not receive any further email offers, advertisements and promotions from this Site. However you may still receive promotional communications from our Third Party Providers with whom we have shared your information. To stop receiving further communications from these Third Party Providers you will need to contact them directly in order to opt-out. Please note that after we process your request to opt-out from receiving additional email offers, advertisements and promotions from this Site, we will no longer make your information available to our Third Party Providers relating to this Site. 
 
@@ -114,8 +118,8 @@ If you have any questions or suggestions regarding our Privacy Policy, please co
 
 ATTN:IdentityLookout  
 Customer Service  
-P.O. BOX 3451   
-Santa Fe Springs, CA 90670-9998  
+P.O. Box 26   
+Pasadena, CA 91102-0026  
 Fax:  213-799-2464 
 
 Gramm-Leach-Bliley Act
@@ -128,8 +132,8 @@ We are committed to uphold and respect intellectual property rights. If you are 
 
 ATTN:IdentityLookout  
 Legal Department   
-P.O. BOX 3451   
-Santa Fe Springs, CA 90670-9998
+P.O. Box 26   
+Pasadena, CA 91102-0026
 
 Please provide the following information in your correspondence to us: your name and contact information, identification of the copyrighted work claimed to be infringed, identification of the material that is claimed to be infringing, and sufficient information for us to locate the material. Please include with your correspondence, (i) a statement that you have a good faith belief that use of the material in the manner complained of is not authorized by you (copyright owner), your agent, or the law; (ii) a statement that the information you provided is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of the exclusive right that is allegedly infringed. 
 
