@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superteacherworksheets.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618170332id_/http%3A//www.superteacherworksheets.com/faq.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superteacherworksheets.com privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227032259id_/http%3A//www.superteacherworksheets.com/faq.html) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use for Super Teacher Worksheets
 
@@ -46,7 +46,7 @@ We do have a free, opt-in subscription newsletter for which we collect names and
 
 SuperTeacherWorksheets.com is part of T.P.W. Websites, LLC.
 
-Our mailing address is 36 Kohler St., Tonawanda, NY 14150.
+Our mailing address is 787 N. Colony, Grand Is, NY 14072.
 
 **Thanks for visitng Super Teacher Worksheets!**
 
@@ -54,10 +54,6 @@ Copyright 2008 - Super Teacher Worksheets  |  Privacy Policy Worksheets
 
 Fun Math Practice Worksheets
 
-_Spelling Lists & Worksheets_
+450+ Pages of Math Games!
 
-_Super Teacher Newsletter_
-
-Free teaching tips, ideas, & worksheets sent to your inbox!
-
-Cool NEW Math Printables!
+Guide to Getting a Teaching Job
