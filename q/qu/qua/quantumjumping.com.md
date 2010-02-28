@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quantumjumping.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422072241id_/http%3A//www.quantumjumping.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantumjumping.com privacy policy that was archived on 2010-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100228181237id_/http%3A//www.quantumjumping.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Quantum Jumping - The Inter-dimensional Quest for a Better You
 
