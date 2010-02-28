@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kontera.com privacy policy that was archived on 2009-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090725121448id_/http%3A//www.kontera.com/index.php/em-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kontera.com privacy policy that was archived on 2010-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100228213539id_/http%3A//www.kontera.com/index.php/em-privacy-policy) for the most accurate reproduction.*
 
-# Administrator
+# Kontera Privacy Policy
 
 Welcome to the Kontera Technologies, Inc. ("Kontera") web site at [http://www.kontera.com/](https://web.archive.org/) (the "Site").  Kontera values the privacy of our other customers and visitors of the Site (referred to individually as "User" and collectively as "Users"). 
 
