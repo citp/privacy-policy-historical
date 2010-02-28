@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetandd.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229040101id_/http%3A//www.thetandd.com/other/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetandd.com privacy policy that was archived on 2010-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100228012507id_/http%3A//www.thetandd.com/other/privacy) for the most accurate reproduction.*
 
 # TheTandD.com | Privacy
 
