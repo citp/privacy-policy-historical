@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the kavoir.com privacy policy that was archived on 2009-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090222092333id_/http%3A//www.kavoir.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kavoir.com privacy policy that was archived on 2010-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100228213640id_/http%3A//www.kavoir.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Make A Website
-
-Posted by Yang Yang
-
-### Privacy Policy
+# Privacy Policy
 
 This privacy policy sets out how Kavoir uses and protects any information that you give Kavoir when you use this website.
 
@@ -30,6 +26,14 @@ We require this information to understand your needs and provide you with a bett
   * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
   * We may use the information to customise the website according to your interests.
+
+
+
+#### Advertisement serving
+
+  * Google, as a third party vendor, uses cookies to serve ads on this site. 
+  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to this site and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 
 
@@ -65,7 +69,3 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to ichsie@gmail.com.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
-
-[Permalink](http://www.kavoir.com/privacy-policy) | October 16th, 2008
-
-Comments are closed.
