@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playsite247.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227071936id_/http%3A//www.playsite247.com/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playsite247.com privacy policy that was archived on 2010-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100301163350id_/http%3A//www.playsite247.com/page/1.html) for the most accurate reproduction.*
 
 # Free Online Flash Games at PlaySite247.com - Privacy Policy
 
@@ -23,3 +23,7 @@ We also use third party advertisements on PlaySite247.com to support our site. S
 * Users may opt out of the use of the DART cookie by visiting the[ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+ **ValueClick Media/NetworkAdvertising.org**
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>
