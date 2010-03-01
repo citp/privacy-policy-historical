@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the videomela.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229213208id_/http%3A//www.videomela.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videomela.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302005910id_/http%3A//www.videomela.com/privacy) for the most accurate reproduction.*
 
-# Watch Free Music Videos - Bangla, Hindi, Telugu, English
+# Music Video - Watch Online Free!
 
 This document details important information regarding the use and disclosure of User Data collected on VideoMela   
 The security of your Data is very important to VideoMela and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.  
