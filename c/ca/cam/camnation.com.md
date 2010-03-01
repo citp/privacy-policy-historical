@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camnation.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231023937id_/http%3A//www.camnation.com%3Fp%3Dprivacy%26d%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camnation.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302005351id_/http%3A//camnation.com%3Fp%3Dprivacy%26d%3D2) for the most accurate reproduction.*
 
 # CamNation.com
 
