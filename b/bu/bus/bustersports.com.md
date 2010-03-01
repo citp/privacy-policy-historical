@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bustersports.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224071413id_/http%3A//bustersports.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustersports.com privacy policy that was archived on 2010-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100301173159id_/http%3A//www.bustersports.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy > Buster Sports
 
