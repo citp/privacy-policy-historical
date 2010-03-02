@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kikin.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227102258id_/http%3A//www.kikin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kikin.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302063758id_/http%3A//www.kikin.com/privacy) for the most accurate reproduction.*
 
 # kikin
 
