@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linux.org.bd privacy policy that was archived on 2009-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090718215229id_/http%3A//linux.org.bd/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D24%26Itemid%3D50) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linux.org.bd privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302193411id_/http%3A//www.linux.org.bd/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D24%26Itemid%3D50) for the most accurate reproduction.*
 
 # Privacy Policy
 
