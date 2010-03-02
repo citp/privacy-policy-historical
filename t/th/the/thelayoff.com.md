@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelayoff.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230014335id_/http%3A//thelayoff.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelayoff.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302134604id_/http%3A//www.thelayoff.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
