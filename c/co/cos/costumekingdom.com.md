@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costumekingdom.com privacy policy that was archived on 2009-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090907091922id_/http%3A//www.costumekingdom.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumekingdom.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302192012id_/http%3A//www.costumekingdom.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
