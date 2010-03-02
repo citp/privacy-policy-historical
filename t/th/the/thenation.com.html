@@ -1,25 +1,45 @@
-<!--The following is the downloaded HTML source of the thenation.com privacy policy that was archived on 2009-04-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090415201248id_/http%3A//www.thenation.com/about/privacy.mhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thenation.com privacy policy that was archived on 2010-03-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100302154142id_/http%3A//www.thenation.com/about/privacy.mhtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
-
 <title>The Nation Privacy Policy</title>
 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="Weekly journal of opinion, featuring analysis on politics and culture. Founded in 1865. ">
 
+
 <script src="https://www.google.com/jsapi" type="text/javascript"></script>
+ 
 <script type="text/javascript">
 	google.load("jquery", "1.2.3");
 </script>
+
+
 <script type="text/javascript" src="/js/jquery-plugins.js"></script>
 <script type="text/javascript" src="/js/core.js"></script>
+
+<script type="text/javascript" src="/js/shadowbox/shadowbox.js"></script>
 
 <script type="text/javascript" src="/js/jquery.simplemodal.js"></script>
 <script type="text/javascript" src="/js/basic.js"></script>
 
 <script type="text/javascript">
+$(document).ready(function() {
+    if (window.location == "http://krogers-dev.thenation.com/"){
+       if($.cookie('nation-hijack') != null){
+              if($.cookie('nation-second') == null) {
+                $('#basicModalContent').modal();
+                $('#hijack').load('/special/hijack.mhtml');
+                $.modal.defaults.closeClass = "modalClose";
+                $.cookie('nation-second', '1', {expires: 31});
+           }
+          } else {
+            $.cookie('nation-hijack', '1', {expires: 31});
+      }
+    }
+});
 </script>
+
 
 
 
@@ -33,10 +53,6 @@
     GS_googleEnableAllServices(); 
 </script> 
 
-<script language="JavaScript" type="text/javascript"> 
-    	GA_googleAddAttr("title", "The Nation Privacy Policy");    
-</script> 
-
 
 <script language="JavaScript" type="text/javascript">
    GA_googleFetchAds(); 
@@ -47,12 +63,15 @@
 
 
 
-
+<link rel="apple-touch-icon" type="image/png" href="/images/icons/nation-iphone-icon.png">
+<link rel="icon" type="image/png" href="/images/icons/nation-icon-2.png">
 
 <link rel="stylesheet" href="/css/screen/main.css" type="text/css" media="screen, projection">
 <link rel="stylesheet" href="/css/print/main.css" type="text/css" media="print">
 <link rel="stylesheet" href="/css/handheld/main.css" type="text/css" media="handheld">
 <link rel="stylesheet" href="/css/screen/basic.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/js/shadowbox/shadowbox.css" type="text/css" media="screen">
+
 <!--[if lt IE 7]>
 <link type='text/css' href='/css/basic_ie.css' rel='stylesheet' media='screen' />
 <![endif]-->
@@ -69,6 +88,11 @@
 <link rel="stylesheet" href="/css/screen/patches/win-ie7-up.css" type="text/css" media="screen, projection" />
 <![endif]-->
 
+<script type="text/javascript">
+Shadowbox.init();
+</script><script type="text/javascript" src="https://web.archive.org/js/shadowbox/libraries/sizzle/sizzle.js"></script><script type="text/javascript" src="https://web.archive.org/js/shadowbox/languages/shadowbox-en.js"></script><script type="text/javascript" src="https://web.archive.org/js/shadowbox/players/shadowbox-img.js"></script><script type="text/javascript" src="https://web.archive.org/js/shadowbox/adapters/shadowbox-base.js"></script>
+
+
 
 </head>
 
@@ -77,7 +101,7 @@
 <style type="text/css">
 <!--
 #mainwrap {
-font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
         font-size: 1em;
         font-style: normal;
         text-decoration: none;
@@ -87,118 +111,21 @@ font-family: Verdana, Arial, Helvetica, sans-serif;
         margin-bottom: 0px;
         margin-left: auto;
         position: relative;
-        background-image: url(/images/hijack/bg2.png);
         background-repeat: repeat-y;
-        z-index: 1000;
     }
-    #mainwrap .bannertop {
-        height: 158px;
-        width: 572px;
-        position: relative;
-        background-image: url(/images/hijack/TopBanner.jpg);
-        background-repeat: no-repeat;
-        z-index: 1000;
-    }
-    #mainwrap .skip1 {
-        height: 21px;
-        width: 157px;
-        position: absolute;
-        left: 302px;
-        top: 10px;
-        z-index: 1000;
-    }
-    #mainwrap .leftrail {
-        float: left;
-        width: 372px;
-        position: relative;
-        z-index: 1000;
-    }
-    #mainwrap .lefttop {
-        position: relative;
-        width: 372px;
-        z-index: 1000;
-    }
-    #mainwrap .content {
-        height: 394px;
-        width: 335px;
-        position: relative;
-        font-family: Verdana, Arial, Helvetica, sans-serif;
-        font-size: 10px;
-        color: #000000;
-        margin-left: 10px;
-        padding-left: 20px;
-        z-index: 1000;
-    }
-    #mainwrap .leftdown {
-	background-image: url(/images/hijack/sigbox.png);
-	background-repeat: no-repeat;
-	background-position: left top;
-	width: 372px;
-	position: relative;
-        z-index: 1000;
-    }
-    #mainwrap .donate {
-	height: 100px;
-	width: 75px;
-	left: 290px;
-	position: relative;
-	margin-bottom: 10px;
-        z-index: 1000;
-    }
-    #mainwrap .rightrail {
-        background-image: url(/images/hijack/siderail.png);
-        background-repeat: no-repeat;
-        background-position: left top;
-        float: left;
-        width: 200px;
-        position: relative;
-        z-index: 1000;
-    }
-    #mainwrap .righttop {
-	width: 133px;
-	position: relative;
-	left: 52px;
-	margin-top: 230px;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	height: 250px;
-        z-index: 1000;
-    }
-    #mainwrap .bottom {
-	background-image: url(/images/hijack/bottom.png);
-	background-repeat: no-repeat;
-	background-position: left top;
-	height: 29px;
-	width: 572px;
-	position: relative;
-	clear: both;
-        z-index: 1000;
-    }
-    #mainwrap .skip22 {
-        height: 17px;
-        width: 141px;
-        position: relative;
-        left: 420px;
-        top: 6px;
-        z-index: 1000;
-    }
-    
-    -->
+-->
     </style>
- <div id="basicModalContent" style="display:none">
-<div id="hijack">
-</div>
+ <div id="basicModalContent" style="display:none"><div id="hijack"></div>
 </div>
 
 
 <div id="container">
 
 <hr>
-
 <div id="nav">
 <div id="global">
 <ul>
-<li><strong><a href="https://ssl.thenation.com/sumo/DIGTOOLBARWARC" style="color:#cc0000">Subscribe</a></strong></li>
+<li><strong><a href="https://ssl.thenation.com/sumo/DIGTOOLAUTO" style="color:#cc0000">Subsc</a><a href="https://ssl.thenation.com/sumo/DIGTOOLAUTO__B" style="color:#cc0000">ribe</a></strong></li>
 <li><a href="https://salsa.wiredforchange.com/o/1555/t/2923/shop/custom.jsp?donate_page_KEY=1976">Donate</a></li>
 <li><a href="http://www.thenation.com/help/">Help</a></li>
 <li><a href="http://www.thenation.com/mediakit/">Advertise</a></li>
@@ -239,11 +166,11 @@ font-family: Verdana, Arial, Helvetica, sans-serif;
 <li id="nav-home"><a href="http://www.thenation.com/">Home</a></li>
 <li id="nav-blogs"><a href="http://www.thenation.com/blogs/">Blogs</a></li>
 <li id="nav-ba"><a href="http://www.thenation.com/section/booksandarts">Books &amp; The Arts</a></li>
-<li id="nav-wash"><a href="/section/washington">Washington</a></li>
+<li id="nav-wash"><a href="/section/politics">Politics</a></li>
 <li id="nav-vid"><a href="http://www.thenation.com/section/videonation">Video</a></li>
-<li id="nav-pod"><a href="http://www.thenation.com/section/podcasts">Podcasts</a></li>
 <li id="nav-email"><a href="http://www.thenation.com/section/studentnation">Student Nation</a></li>
-<li id="nav-na"><a href="http://www.thenation.com/associates/">Nation Associates</a></li>
+<li id="nav-na"><a href="http://associates.thenation.com/">Donate</a></li>
+<li id="nav-nc"><a href="http://www.nationcruise.com/">Nation Cruise</a></li>
 <li id="nav-email"><a href="http://www.thenation.com/emailnation/">Email Nation</a>
 </li><li id="nav-store"><a href="http://store.thenationmart.com/">Nation Mart</a></li>
 <li id="nav-class" class="last"><a href="http://www.thenation.com/section/classroom">Nation Classroom</a></li>
@@ -504,7 +431,7 @@ History of Amendments to This Document
 
 	<div id="footer">
 		<ul class="info">
-			<li>Copyright © 2008 The Nation</li>
+			<li>Copyright © 2009 The Nation</li>
 			<li><a href="http://www.thenation.com/about/privacy.mhtml">Privacy Policy</a></li>
 			<li><a href="http://www.thenation.com/about/terms_of_use.mhtml">Terms of Use</a></li>
 			<li><a href="http://www.thenation.com/sitemap.mhtml">Sitemap</a></li>
@@ -541,6 +468,7 @@ History of Amendments to This Document
 </div><!-- /end #container -->
 
 
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -562,6 +490,7 @@ pageTracker._trackPageview();
 <a href="http://www.quantcast.com/p-94ogF8e_UUwF6" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-94ogF8e_UUwF6.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
 <!-- End Quantcast tag -->
+
 
 
 
