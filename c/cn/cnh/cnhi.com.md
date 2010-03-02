@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnhi.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125165043id_/http%3A//www.cnhi.com/homepage/resources_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnhi.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302154733id_/http%3A//www.cnhi.com/homepage/resources_privacypolicy) for the most accurate reproduction.*
 
 # Community Newspaper Holdings, Inc. - Community Newspaper Holdings, Inc. (CNHI) - Homepage
 
