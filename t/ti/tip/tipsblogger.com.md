@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tipsblogger.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212044556id_/http%3A//www.tipsblogger.com/2008/07/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipsblogger.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302192004id_/http%3A//www.tipsblogger.com/2008/07/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | TipsBlogger.Com
+# Privacy Policy | Tips Blogger
 
 _Privacy Policy_ for **www.TipsBlogger.Com**
 
@@ -37,5 +37,3 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
 For any other information, email shafar@tipsblogger.com
-
-_(Updated - 1 November 2009)_
