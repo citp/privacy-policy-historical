@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenation.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415201248id_/http%3A//www.thenation.com/about/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenation.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302154142id_/http%3A//www.thenation.com/about/privacy.mhtml) for the most accurate reproduction.*
 
 # The Nation Privacy Policy
 
