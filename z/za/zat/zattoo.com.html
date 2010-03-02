@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the zattoo.com privacy policy that was archived on 2009-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090611195919id_/http%3A//zattoo.com/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zattoo.com privacy policy that was archived on 2010-03-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100302145606id_/http%3A//zattoo.com/en/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<title>Zattoo Privacy Policy | Zattoo - watch online TV</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" href="/themes/zattoo/favicon.ico" type="image/x-icon">
-	<link rel="stylesheet" type="text/css" href="/themes/zattoo/style.css?v=1" media="all"><link rel="stylesheet" type="text/css" href="/themes/zattoo/en.css" media="all">	<script type="text/javascript">var BASE_URL = "/";</script><script type="text/javascript" src="/misc/jquery.js"></script><script type="text/javascript" src="/themes/zattoo/swfobject.js"></script>	<!-- TradeDoubler site verification 1653729 -->
+	<link rel="stylesheet" type="text/css" href="/themes/zattoo/style.css?v=6" media="all"><link rel="stylesheet" type="text/css" href="/themes/zattoo/en.css" media="all">	<script type="text/javascript">var BASE_URL = "/";</script><script type="text/javascript" src="/misc/jquery.js?v=1"></script><script type="text/javascript" src="/themes/zattoo/swfobject.js?v=2"></script>	<!-- TradeDoubler site verification 1653729 -->
 	<script src="/themes/zattoo/jquery.lightbox.min.js" type="text/javascript"></script>
-</head>
+	</head>
 <body class="privacy-policy en page">
 	<div id="container">
 		<div id="head">
@@ -86,7 +86,7 @@ Zattoo Inc., 1327 Jones Dr, Suite 106, Ann Arbor, MI 48105, USA</p>
 
 <p>Advertisements may be displayed when using the Services or the website. Zattoo may use the personal data of User to target the advertisement at certain demographic groups. Processing of personal data for such targeting is performed pseudonymously by using a unique numerical UserID. </p>
 
-<p>We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click <a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a>. </p>
+<p>We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click <a href="http://www.google.com/privacy_ads.html" target="_blank">http://www.google.com/privacy_ads.html</a>. </p>
 
 <p>Notwithstanding the disabling of the Cookies, User acknowledges and accepts that he or she will remain traceable via the UserID.</p>
 
@@ -171,8 +171,8 @@ Zattoo Inc., 1327 Jones Dr, Suite 106, Ann Arbor, MI 48105, USA</p>
 		css: style,
 		wmode: 'transparent'
 		});
-	$ (document).ready (function ()
-		{
+	//$ (document).ready (function ()
+	//	{
 		
 		var so = new SWFObject ('http://download.zattoo.com/flash_assets/header.swf', 'header', '100%', '305', '8', '#FFF');
 		so.addVariable ('page_url', location.href);
@@ -189,9 +189,32 @@ while (num_movies)
 	}
 so.addVariable ('movies', selected_movies.join (','));
 so.addVariable ('text', '');		so.addParam ('allowScriptAccess', 'always');
+		so.addParam ('wmode', 'transparent');
 		so.addVariable ('xml', encodeURIComponent ($ ('#head').toXML ()));
 		so.write ('head');
-		});
+		/*
+		swfobject.embedSWF('http://download.zattoo.com/flash_assets/header.swf', 'header', '100%', '305', '8', '#FFF', {
+				xml: encodeURIComponent ($ ('#head').toXML ()),
+				page_url: location.href,
+				var intro = Math.floor (Math.random() * 3) + 1;
+so.addVariable ('intro', 'intro' + intro + '.flv');
+var movies = ['tv-mutants.swf','tv-heads.swf','tekkno.swf','slotmachine.swf','fishjump.swf','fishflip.swf','fische.swf','disco_tv.swf','billard_tv.swf'];
+var num_movies = Math.floor (Math.random () * movies.length) + 1;
+var selected_movies = [];
+while (num_movies)
+	{
+	selected_movies.push (movies[Math.floor (Math.random () * movies.length)]);
+	num_movies --;
+	}
+so.addVariable ('movies', selected_movies.join (','));
+so.addVariable ('text', '');				asset_root: 'http://download.zattoo.com/flash_assets/'
+			}, {
+				allowScriptAccess: "always",
+				wmode: 'transparent'
+			}, {
+				name: 'header', id: "header"
+			});*/
+	//	});
 	</script>
 			<script type="text/javascript">
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
