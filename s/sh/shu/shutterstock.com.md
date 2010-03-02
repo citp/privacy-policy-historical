@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the shutterstock.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225082528id_/http%3A//www.shutterstock.com/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterstock.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302043116id_/http%3A//www.shutterstock.com/privacy.mhtml) for the most accurate reproduction.*
 
-# Shutterstock: シャッターストック個人情報保護方針
+# Shutterstock: Privacy Statement for Shutterstock Images
 
-現在、日本語サイトご利用ユーザーの皆様への翻訳文書作成をしています。完成次第このページに掲載されます。ユーザーとしての権利や義務に関して不明点がある場合、必ず英語版の規約を参照してください。 
-
-**Privacy Statement for Shutterstock Images LLC.**
+[](http://www.truste.org/ivalidate.php?url=www.shutterstock.com&sealid=101) **Privacy Statement for Shutterstock Images LLC.**
 
 Last updated on 12/07/07. 
 
