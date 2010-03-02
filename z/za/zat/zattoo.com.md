@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zattoo.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611195919id_/http%3A//zattoo.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zattoo.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302145606id_/http%3A//zattoo.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Zattoo Privacy Policy | Zattoo - watch online TV
 
