@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klwines.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044807id_/http%3A//www.klwines.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klwines.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302153823id_/http%3A//www.klwines.com/privacy.asp) for the most accurate reproduction.*
 
 # K&L Wine Merchants - Privacy Policy
 
