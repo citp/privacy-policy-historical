@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smokefree.nhs.uk privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727083212id_/http%3A//smokefree.nhs.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smokefree.nhs.uk privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302163010id_/http%3A//smokefree.nhs.uk/privacy-statement) for the most accurate reproduction.*
 
 # Stop smoking start living - Privacy statement
 
@@ -23,7 +23,7 @@ If you provide feedback on our website we will only use it to develop and improv
 
 ## Statement coverage
 
-This privacy statement only covers the Go Smokefree website at [http://gosmokefree.nhs.uk](http://gosmokefree.nhs.uk/ "Go Smokefree"). It does not cover links within this site to other websites.
+This privacy statement only covers the Go Smokefree website at [http://gosmokefree.nhs.uk](http://smokefree.nhs.uk/ "Smokefree"). It does not cover links within this site to other websites.
 
 ## Security
 
