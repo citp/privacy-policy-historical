@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxlmag.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231024033id_/http%3A//www.xxlmag.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxlmag.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302220554id_/http%3A//www.xxlmag.com/privacy.php) for the most accurate reproduction.*
 
 # XXLmag.com - Privacy Policy
 
