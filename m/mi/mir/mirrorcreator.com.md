@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the mirrorcreator.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227090954id_/http%3A//www.mirrorcreator.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirrorcreator.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302084442id_/http%3A//www.mirrorcreator.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mirrorcreator.com - Upload Your files to multiple hosts
+
+  
+
+
+  * [Upload](http://www.mirrorcreator.com/)Upload your files of size as large as 200 MB. 
+  * [Distribute](http://www.mirrorcreator.com/)We will distribute your files to multiple file sharing hosts. 
+
+
+
+  
+
+
+## Privacy Policy  
+
 
 **Google Advertising Cookie**
 
@@ -10,7 +24,6 @@ Google, as a third party vendor, uses cookies to serve ads on our site. Google's
 
 For each visitor to our Web page, our Web server does not recognize any information regarding the domain or e-mail address. IP addresses are logged and used by MirrorCreator for measuring usage.
 
-  
 **Certain Exceptional Disclosures**
 
 We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct or potential threats to the physical safety of any person. Disclosure may be required by law or if we receive legal process.
