@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the make4fun.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227120634id_/http%3A//www.make4fun.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the make4fun.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302083713id_/http%3A//www.make4fun.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Make4fun Privacy Notice
 
