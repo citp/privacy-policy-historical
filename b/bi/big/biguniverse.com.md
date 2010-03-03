@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biguniverse.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229002655id_/http%3A//www.biguniverse.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biguniverse.com privacy policy that was archived on 2010-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100303130356id_/http%3A//www.biguniverse.com/main/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BigUniverse.com
 
@@ -8,7 +8,7 @@ Big Universe, Inc. (“Big Universe”, “we” or “us”) takes your privacy
 
 By visiting the Big Universe website, you are accepting the practices described in this policy. If you do not agree to the terms of this policy, please exit this website immediately. We may modify or amend the terms of our policy from time to time in which case we will notify you by either prominently posting a notice of such changes on our website or by directly sending you a notification. Your continued use of this site after such changes have been made indicate your agreement to comply with the modified policy. Because this policy creates a binding agreement between you and us, we recommend that you bookmark this page and return to it often to ensure you are in compliance therewith. 
 
-If you have any questions about this policy or don’t see your concerns addressed here, [please contact us via our online form here](https://web.archive.org/web/20091229002655id_/http%3A//www.biguniverse.com/main/feedback). 
+If you have any questions about this policy or don’t see your concerns addressed here, [please contact us via our online form here](https://web.archive.org/web/20100303130356id_/http%3A//www.biguniverse.com/main/feedback). 
 
 ## What This Privacy Policy Covers 
 
@@ -25,7 +25,7 @@ If you have any questions about this policy or don’t see your concerns address
 
   * Big Universe automatically receives and records information on our server logs from your browser, including your IP address, Big Universe cookie information, and the page you request. For more information about cookies, see the section labeled “Cookies and Spyware” below.  
 
-  * Big Universe does not knowingly collect personal information from children under the age of thirteen (13). If you are under 13 years of age, you may only visit this site with your parents or guardians and you may _not_ send any information about yourself to Big Universe. If you are a parent or guardian that has become aware that your child has provided Big Universe with personal information, then please [contact Big Universe via our online form here](https://web.archive.org/web/20091229002655id_/http%3A//www.biguniverse.com/main/feedback), and Big Universe will purge such information from its files.  If Big Universe itself becomes aware that a child under 13 has provided us with personal information, we will purge such information from its files. 
+  * Big Universe does not knowingly collect personal information from children under the age of thirteen (13). If you are under 13 years of age, you may only visit this site with your parents or guardians and you may _not_ send any information about yourself to Big Universe. If you are a parent or guardian that has become aware that your child has provided Big Universe with personal information, then please [contact Big Universe via our online form here](https://web.archive.org/web/20100303130356id_/http%3A//www.biguniverse.com/main/feedback), and Big Universe will purge such information from its files.  If Big Universe itself becomes aware that a child under 13 has provided us with personal information, we will purge such information from its files. 
 
 
 
@@ -53,7 +53,7 @@ If you have any questions about this policy or don’t see your concerns address
 
   * You can always edit your Big Universe Account Information to correct or update personal information that you have provided to us.
   * We reserve the right to send you certain communications relating to the Big Universe service, such as service announcements, administrative messages and the Big Universe Newsletter, that are considered part of your Big Universe account, without offering you the opportunity to opt out of receiving them.
-  * You can delete your Big Universe account by [contacting us via our online form here](https://web.archive.org/web/20091229002655id_/http%3A//www.biguniverse.com/main/feedback). 
+  * You can delete your Big Universe account by [contacting us via our online form here](https://web.archive.org/web/20100303130356id_/http%3A//www.biguniverse.com/main/feedback). 
 
 
 
