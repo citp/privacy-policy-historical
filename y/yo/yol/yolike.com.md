@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the yolike.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230104655id_/http%3A//www.yolike.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yolike.com privacy policy that was archived on 2010-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100303051805id_/http%3A//www.yolike.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy -- YoLike.com
-
-### Privacy Policy Statement
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
@@ -20,7 +18,7 @@ From time to time, we make our _customer_ e-mail list available to other reputab
 
 If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above.
 
-you may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by calling us at the number provided above. 
+you may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by calling us at the number provided above.
 
 Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations 
 
@@ -34,11 +32,13 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address. 
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
 
 Upon request we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them .
 
-Consumers can access this information by e-mail us at the above address. Consumers can have this information corrected by sending us e-mail at the above address. 
+Consumers can access this information by e-mail us at the above address.
+
+Consumers can have this information corrected by sending us e-mail at the above address.
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
