@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the gettingmarried.co.uk privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421065835id_/http%3A//www.gettingmarried.co.uk/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettingmarried.co.uk privacy policy that was archived on 2010-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100303180933id_/http%3A//www.gettingmarried.co.uk/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
-Last updated: 22 February 2009.
+Last updated: 1 December 2009.
 
 At GettingMarried.co.uk, we recognise that privacy is important. The following Privacy Policy describes the usage of information that is collected on the site, by both you and visitors to your site. If you have any questions or queries about this Privacy Policy, please do not hesitate to contact us via our website at <http://www.gettingmarried.co.uk/contactus.php>.
 
 ##   
 Information Collection & Use
 
-**Registration**
-
+**Registration**  
 In order to use this Web site, you must first complete the registration form and create a user name and password.  During registration you are required to give contact information (such as name and email address). We use this information to contact you about the services on our site in which you have expressed interest. 
 
 You have the option to provide demographic information age and gender to us; we encourage you to submit this information so we can provide you a more personalised experience on our site. 
@@ -29,6 +28,9 @@ Creating your wedding website
 **If you choose to send an invitation to a friend, we will ask you for your friend’s email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  Incubate stores this information for the sole purpose of sending this one-time email and tracking the success of our referral programme.
 
 Your friend may contact us at <http://www.gettingmarried.co.uk/contactus.php>  to request that we remove this information from our database.
+
+**Financial details  
+**When purchasing a GettingMarried.co.uk DVD, GettingMarried.co.uk uses PayPal as its gateway to process credit/debit card payments. GettingMarried.co.uk does NOT store (and does not intend to store) your credit/debit card information.
 
 The site uses information that you provide to create the designs on the site, and provide starting data for the site’s features. For example, if you provide a postcode of the wedding venue, the site will use this information to automatically generate maps and travelling instructions.
 
