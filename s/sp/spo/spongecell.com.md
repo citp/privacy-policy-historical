@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spongecell.com privacy policy that was archived on 2009-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090905004147id_/http%3A//spongecell.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spongecell.com privacy policy that was archived on 2010-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100303013525id_/http%3A//www.spongecell.com/legal/privacy) for the most accurate reproduction.*
 
 # Spongecell Privacy Policy
 
@@ -95,5 +95,9 @@ From time to time we may make changes to our Privacy Policy. If we make changes,
 * Opt-Out/Correct/Delete/Deactivate 
 
 You may elect not to receive future communications from the Company or a promoter who uses Spongecell, or to discontinue use of our products or services. If you are a registered user, please send an email with your name, email address, and request to opt-out to privacy@spongecell.com. If you are not a registered user but are a recipient of a Spongecell email or invitation, you may opt- out of any further communication by clicking the opt-out option at the bottom of any message. 
+
+* Opt-Out Cookies 
+
+You may elect not to receive traceable cookies by visiting the [Opt-Out Cookies](https://web.archive.org/opt_out/cookies_form) page. 
 
 [Return to Spongecell Legal](https://web.archive.org/legal/legal_landing)
