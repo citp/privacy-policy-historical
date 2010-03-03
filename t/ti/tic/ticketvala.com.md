@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketvala.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417180219id_/http%3A//www.ticketvala.com/ticketvala/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketvala.com privacy policy that was archived on 2010-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100303164752id_/http%3A//www.ticketvala.com/ticketvala/html/privacy.shtml) for the most accurate reproduction.*
 
 # Book Bus Tickets Online, Bus Tickets Booking, Online Bus Ticket Reservation India
 
