@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the egydown.com privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225105302id_/http%3A//www.egydown.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egydown.com privacy policy that was archived on 2010-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100303193027id_/http%3A//www.egydown.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy » Download Free Software Crack Serial - Rapidshare
+# Privacy Policy » Megaupload Rapidshare Download Crack Serial
 
 Your Privacy
 
