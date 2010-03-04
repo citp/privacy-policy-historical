@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drpic.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227212431id_/http%3A//www.drpic.com/docs/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drpic.com privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304131355id_/http%3A//www.drpic.com/docs/privacy_policy.html) for the most accurate reproduction.*
 
 # DrPic.com Free Web Picture Editor and Image Host - Privacy Policy
 
