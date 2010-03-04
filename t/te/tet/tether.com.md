@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tether.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214183839id_/http%3A//tether.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tether.com privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304234520id_/http%3A//tether.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TetherBerry
+# Privacy Policy | Tether
+
+## Privacy Policy
 
 We at 3235106 Nova Scotia Limited recognize the importance of privacy and the sensitivity of personal information. Like most businesses, we have an obligation to keep confidential all information by which you or other individuals can be identified. We are committed to protecting any personal information we receive. This privacy policy outlines how we manage personal information and safeguard privacy.
 
@@ -12,7 +14,7 @@ We are responsible for the personal information we collect and hold. To ensure t
 
 ## Why do we collect personal information? 
 
-We are interested in refining, developing and perfecting the software used in connection with TetherBerry. In order to do this, we need to be able to access information about its users. We will use some or all of that information to tailor our software to enhance our users experience.
+We are interested in refining, developing and perfecting the software used in connection with Tether. In order to do this, we need to be able to access information about its users. We will use some or all of that information to tailor our software to enhance our users experience.
 
 ## What personal information do we collect? 
 
@@ -20,7 +22,7 @@ Personal information is any information that identifies you or by which your ide
 
 Name, address, telephone number, service provider, and related billing information. We will also obtain your BlackBerry device PIN in order to provide services related to that device.
 
-To deliver the TetherBerry service we:
+To deliver the Tether service we:
 
   * Must divert your data through our proxy servers
   * Map that data to you via your PIN
