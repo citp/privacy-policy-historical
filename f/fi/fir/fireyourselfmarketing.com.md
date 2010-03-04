@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fireyourselfmarketing.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227201709id_/http%3A//www.fireyourselfmarketing.com/member/membership/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fireyourselfmarketing.com privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304140952id_/http%3A//www.fireyourselfmarketing.com/member/membership/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fire Your Self Marketing
 
