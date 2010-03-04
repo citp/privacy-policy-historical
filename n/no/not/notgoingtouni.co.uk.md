@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notgoingtouni.co.uk privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102050857id_/http%3A//www.notgoingtouni.co.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notgoingtouni.co.uk privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304063659id_/http%3A//www.notgoingtouni.co.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | notgoingtouni.co.uk
 
@@ -34,4 +34,4 @@ We may change this privacy policy from time to time. When such a change is made 
 
 #### Data Protection Act
 
-Not Going To Uni Ltd. is registered in accordance with the Data Protection Act 1998. Registered in August 2008, Registration number Z1421176.
+Not Going To Uni Ltd. is registered in accordance with the Data Protection Act 1998. Registered in August 2008, Registration number Z1421176. 
