@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileguru.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605164924id_/http%3A//www.fileguru.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileguru.com privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304131104id_/http%3A//www.fileguru.com/privacy) for the most accurate reproduction.*
 
 # FileGuru.Com Privacy Policy Information
 
