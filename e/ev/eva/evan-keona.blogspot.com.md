@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evan-keona.blogspot.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231025907id_/http%3A//evan-keona.blogspot.com/2009/04/privacy-policy-starting-april-10-2009.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evan-keona.blogspot.com privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304074424id_/http%3A//evan-keona.blogspot.com/2009/04/privacy-policy-starting-april-10-2009.html) for the most accurate reproduction.*
 
 # Privacy Policy Starting April 10, 2009 - A Little Boy's Blog
 
