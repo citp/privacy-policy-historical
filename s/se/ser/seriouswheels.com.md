@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seriouswheels.com privacy policy that was archived on 2009-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090613003152id_/http%3A//www.seriouswheels.com/car-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seriouswheels.com privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304141333id_/http%3A//www.seriouswheels.com/car-privacy.htm) for the most accurate reproduction.*
 
 # Serious Wheels Privacy Policy
 
