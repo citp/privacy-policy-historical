@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the balticnordic.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509091858id_/http%3A//www.balticnordic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balticnordic.com privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304050658id_/http%3A//www.balticnordic.com/privacy.html) for the most accurate reproduction.*
 
-# Baltic Company Directory Nordic Company Directory Baltic B2B Companies Nordic B2B Companies Baltic Stock Indexes Baltic Business Nordic Business
+# Privacy Notice
 
 _Last updated: February 2008_
 
 **_Overview_**  
-[BalticNordic.com](http://www.balticnordic.com/) appreciates your visiting this web site. Our site visitors’ privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site.   
-This Privacy Policy describes the policies of Synergy Technologies ("ST" or "We"), regarding the collection, use, disclosure and protection of the following types of information: 
+[balticnordic.com](http://www.balticnordic.com/) appreciates your visiting this web site. Our site visitors’ privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site.   
+This Privacy Policy describes the policies of BalticNordic.com ("BalticNordic.com" or "We"), regarding the collection, use, disclosure and protection of the following types of information: 
 
-  * Information obtained when you ("You" or "User") visit the [www.BalticNordic.com](http://www.balticnordic.com/) web site (this "Site"). 
+  * Information obtained when you ("You" or "User") visit the [www.balticnordic.com](http://www.balticnordic.com/) web site (this "Site"). 
   * Information obtained through e-mail communications with you related to the Site. 
+
+
 
 This privacy policy does not apply to information we collect by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy.  
 We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time. Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes. 
@@ -31,9 +33,11 @@ We use Personally Identifiable Information collected on this Site for the follow
   * For any other purpose disclosed at the time the information is collected or to which you consent. 
   * As otherwise specifically described in this Privacy Policy. 
 
+
+
 We also may use your information to better understand our Users and to improve our Site. For example, we may use this information to determine what portions of the Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site. We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of the Site.   
-We may use the information you provide us to send you e-mail, fax and other communications on behalf of ST and our affiliates. These communications may include e-mail newsletters that are relevant to this Site, as well as offers for other ST services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted.   
-We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [Privacy Manager]().
+We may use the information you provide us to send you e-mail, fax and other communications on behalf of BalticNordic.com and our affiliates. These communications may include e-mail newsletters that are relevant to this Site, as well as offers for other BalticNordic.com services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted.   
+We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by [contacting us](http://www.balticnordic.com/contact_us.html).
 
 **_Our Disclosure of Your Information_**  
 We may disclose aggregated, anonymous statistics about many Users, and individual information that is not Personally Identifiable Information without restriction as long as no individual is identifiable by the information disclosed, and otherwise will not disclose your Personally Identifiable Information except as follows: 
@@ -41,11 +45,11 @@ We may disclose aggregated, anonymous statistics about many Users, and individua
   * Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address ) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient. 
   * To third parties engaged to provide services under contractual requirement to keep Personally Identifiable Information confidential and use it only to perform the services. 
   * Portions of this Site may be provided as "Premium" or "Sponsored" content. Premium or Sponsored content is made available to Users on the condition that we may share certain of the User’s registration information with the Premium or Sponsored content’s sponsors and advertisers. We will always disclose when you are registering or being provided with Premium or Sponsored content. 
-  * To other third parties to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. You may opt out of such disclosures by sending an e-mail to [Privacy Manager](). 
-  * To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving ST or this Site. 
+  * To other third parties to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. You may opt out of such disclosures by [contacting us](http://www.balticnordic.com/contact_us.html). 
+  * To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving BalticNordic.com or this Site. 
   * When we believe such disclosure is required by law, regulation or securities exchange requirement or for the protection of persons or property. 
   * When disclosure is necessary to accomplish the purpose for which you provide it. 
-  * We may share any information (including Personally Identifiable Information) you provide with other Synergy Technologies member companies for any uses consistent with those disclosed in this Privacy Policy. 
+  * We may share any information (including Personally Identifiable Information) you provide with other BalticNordic.com member companies for any uses consistent with those disclosed in this Privacy Policy. 
 
 
 
@@ -53,19 +57,17 @@ We may disclose aggregated, anonymous statistics about many Users, and individua
 We use reasonable safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure. However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties. 
 
 **_Right to Access and Change Information_**  
-You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to [Subscribers' Service](). However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process. 
+You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by [contacting us](http://www.balticnordic.com/contact_us.html). However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process. 
 
 **_Links_**  
 This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites. 
 
-Hosting provided by:  
-Maan Jee AB  
-Malmö, Sweden  
+Hosting service is provided by:  
+dot Online Marketing AB  
+Sweden  
 
 
-This Site is operated by:  
-Synergy Technologies  
-Suite no. 4/2 2nd Floor  
-Rehman Chamber, 132 Temple Road  
-Lahore, Pakistan  
-[Contact Privacy Manager]()
+[](http://www.balticnordic.com/index.html)
+
+  
+
