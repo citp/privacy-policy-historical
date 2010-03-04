@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidlloyd.co.uk privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318160716id_/http%3A//www.davidlloyd.co.uk/home/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidlloyd.co.uk privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304133303id_/http%3A//www.davidlloyd.co.uk/home/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | David Lloyd
 
@@ -19,7 +19,7 @@
     
 DAVID LLOYD PRIVACY POLICY
 
-David Lloyd is a brand owned by David Lloyd Leisure Limited, whose registered office is located at Quadrant House, Floor 6, 17 Thomas More Street, Thomas More Square, London E1W 1YW. Registered in England No 1516226. This policy (together with our terms and conditions and any other documents referred to in it) explains how we will collect, process, use and protect your personal information when you use our website http://www.davidlloyd.co.uk ("Website"), and by using this Website, you agree to the terms of this Privacy Policy.
+David Lloyd is a brand owned by David Lloyd Leisure Limited, whose registered office is located at The Hangar, Mosquito Way, Hatfield Business Park, Hatfield, Hertfordshire, AL10 9AX. Registered in England No 6261643. This policy (together with our terms and conditions and any other documents referred to in it) explains how we will collect, process, use and protect your personal information when you use our website http://www.davidlloyd.co.uk ("Website"), and by using this Website, you agree to the terms of this Privacy Policy.
 
     
 1\. YOUR PERSONAL INFORMATION
