@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cornerstoneondemand.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228105010id_/http%3A//www.cornerstoneondemand.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cornerstoneondemand.com privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304070702id_/http%3A//www.cornerstoneondemand.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CSOD
 
@@ -10,7 +10,7 @@ Cornerstone OnDemand considers the protection and management of your personal in
 
 ## Data Collection Overview: What Information Do We Collect?
 
-Visitors to the Cornerstone website may provide us with two types of information: Personal information, such as your name, address, e-mail address, etc; andGeneral web usage information, such as your browser type, domain name, etc.
+Visitors to the Cornerstone website may provide us with two types of information: Personal information, such as your name, address, e-mail address, etc; and general web usage information, such as your browser type, domain name, etc.
 
 In addition, users of Cornerstone's applications may also provide information relating to your training and performance, including data related to your certifications, competencies and job performance.
 
@@ -30,15 +30,15 @@ Through the use of Cornerstone's applications, users may be asked to provide inf
 
 ## Data Usage: How Do We Use the Information That You Provide to Us?
 
-Cornerstone uses the personal information it collects for purposes of administering our business activities, providing customer service, and making available other products and services to our customers and prospective customers. We use the personal information you give us to provide you with up-to-date information about Cornerstone's products and services. Occasionally, we may also use the information we collect to notify you about important changes to our website, new services and special offers we think you will find valuable.
+Cornerstone uses the personal information it collects for purposes of administering our business activities, providing customer service, and making available other products and services to our customers and prospective customers. We use the personal information you give us to provide you with up-to-date information about Cornerstone's products and services. Occasionally, we may also use the information we collect to notify you about important changes to our website, and new services and special offers we think you will find valuable.
 
-Cornerstone does not sell, trade, or rent your personal information to others. In the future, we may choose to do so with trustworthy third parties if you consent to receiving newsletters and correspondence and e-mails from third parties on the registration page on our Web site. Cookies
+Cornerstone does not sell, trade, or rent your personal information to others. In the future, we may choose to do so with trustworthy third parties if you consent to receiving newsletters, correspondence and e-mails from third parties on the registration page on our website.
 
 ## What are Cookies?
 
 Cookies are a feature of web browser software that allows web servers to recognize the computer used to access a Web site. A cookie is a chunk of data that is sent to your browser from a web server and stored by your browser on the hard drive of your computer. Your browser settings must be set to accept cookies before you can login or customize. Most browsers are set up to accept cookies, but you can usually change your browser settings to refuse them.
 
-Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user's transactions on related Web pages. This makes it easier for a user to move from webpage to webpage and to complete commercial transactions over the Internet. Cookies should make your online experience easier and more personalized.
+Cookies can remember what information a user accesses on one web page to simplify subsequent interactions with that website by the same user or to use the information to streamline the user's transactions on related Web pages. This makes it easier for a user to move from webpage to webpage and to complete commercial transactions over the Internet. Cookies should make your online experience easier and more personalized.
 
 ## How Do We Use Information We Collect From Cookies?
 
@@ -60,9 +60,13 @@ Websites Linked to Cornerstone - We are not responsible for the practices employ
 
 ## Your Consent
 
-By using our website you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Safe Harbor
+By using our website you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
 
-Cornerstone adheres to the "safe harbor" framework that resulted from the European Commission's Directive on Data Protection. Information about the U.S. Department of Commerce Safe Harbor certification can be found at [www.export.gov/safeharbor](http://www.export.gov/safeharbor "www.export.gov/safeharbor"). Opt-out
+## Safe Harbor 
+
+Cornerstone adheres to the "safe harbor" framework that resulted from the European Commission's Directive on Data Protection. Information about the U.S. Department of Commerce Safe Harbor certification can be found at [www.export.gov/safeharbor](http://www.export.gov/safeharbor "www.export.gov/safeharbor").
+
+## Opt Out
 
 If you receive marketing or similar e-mail messages from us and wish to opt out of receiving such messages, then you may simply follow the opt-out procedure specified in such e-mail. In the case of our enterprise applications, please note that email reminders and similar notifications may be configured by your administrators and are not controlled by Cornerstone. Cornerstone provides the following choices for electing not to receive communications from us: Send an email request to [info@cornerstoneondemand.com](mailto:info@cornerstoneondemand.com).
 
