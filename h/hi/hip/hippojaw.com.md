@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hippojaw.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212053500id_/http%3A//www.hippojaw.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hippojaw.com privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304205407id_/http%3A//www.hippojaw.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # hippoJaw - Privacy Policy
 
