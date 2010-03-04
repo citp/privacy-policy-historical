@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the subhub.com privacy policy that was archived on 2009-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090825140320id_/http%3A//www.subhub.com/static/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subhub.com privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304205842id_/http%3A//www.subhub.com/static/privacypolicy) for the most accurate reproduction.*
 
-# Build a Membership Site With SubHub Membership Software
+# Membership Software from SubHub - Membership Site Experts
 
 **END USER PRIVACY AND COOKIE POLICY**
 
