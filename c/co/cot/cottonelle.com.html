@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cottonelle.com privacy policy that was archived on 2009-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091228191353id_/http%3A//www.cottonelle.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cottonelle.com privacy policy that was archived on 2010-03-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100304181939id_/http%3A//www.cottonelle.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1">
 	<script type="text/javascript" src="/js/jquery.js"></script>
@@ -19,10 +19,21 @@
 	
 	
 	
-	<div id="topbanner" style="position: absolute; top: -60px; left: 0; height: 60px; background: #97c27f; z-index: 1000; width: 100%;">
+	<div id="topbanner" style="position: absolute; top: -60px; left: 0; height: 60px; background: #fa7f37; z-index: 1000; width: 100%;">
+	<div id="left_green" style="background: #b2d560; width:50%; height:60px; position: absolute; top: 0px; left: 0;"></div>
 		<div style="width: 968px; margin: 0 auto; position: relative;">
-			<a href="http://www.cottonelleinstitute.com" target="_blank"><img src="/img/banner_institute.jpg" border="0" width="968" height="60" alt="Explore the Cottonelle Institute of Sensitive Skin Care."></a>
-			<a href="#" onclick="return bannerClose();"><img src="/img/banner_close.jpg" border="0" width="27" height="28" align="top" style="position: absolute; left: 968px; top: 0;"></a>
+
+			<form method="post" action="http://www.cottonellerollpoll.com/Default.aspx" target="_blank" style="display:inline; border:0px; margin:0px; padding:0px;" class="vote"> 
+				<input type="hidden" name="vote" value="over"> 
+				<input type="image" id="vote_over_submit" src="img/dot.gif" style="background-color:transparent; background-image:none; display:block; height: 60px; width:200px; position:absolute; top:0; left:0; font-size:0px; font-family:none; font-color:transparent;  border:0px transparent; outline: none;"> 
+			</form>
+	<img src="/img/banner_rollpoll.jpg" border="0" width="968" height="60" alt="" style="display: block; margin:0px; padding:0px;">
+			<form method="post" action="http://www.cottonellerollpoll.com/Default.aspx" target="_blank" style="display:inline; border:0px; margin:0px; padding:0px;" class="vote"> 
+				<input type="hidden" name="vote" value="under"> 
+				<input type="image" id="vote_under_submit" src="img/dot.gif" style="background:transparent none; display:block; height: 60px; width:190px; position:absolute; top:0; left:770px; font-size:0px; font-family:none; font-color:transparent; border:0px transparent; outline: none;"> 
+			</form>
+			
+			<a href="#" onclick="return bannerClose();"><img src="/img/banner_close.jpg" border="0" width="27" height="28" align="top" style="position: absolute; left: 968px; top: 0; "></a>
 		</div>
 	</div>
 	
@@ -32,6 +43,13 @@
 				bannerOpen();
 			}
 		});
+		
+		$(document).ready(function(){
+			 $('form.vote').submit(function(){
+				bannerClose();
+		  });
+		});
+				
 	</script>
 	
 	
@@ -250,7 +268,7 @@ Neenah, WI 54957-2020</p>
 
 <p id="kcdisclaimer">*Cottonelle® Toilet Paper Double Roll vs. The Leading Brand's Red Pack Big Roll.<br><br>
 For more information about other great Kimberly-Clark brands, visit our website at <a href="http://www.kimberly-clark.com">www.kimberly-clark.com</a><br>
-All names, logos and trademarks are the property of Kimberly-Clark Worldwide, Inc. or its affiliates.<br>© 2009 KCWW. All Rights Reserved. Your visit to this site and use of the information herein is subject to the<br>
+All names, logos and trademarks are the property of Kimberly-Clark Worldwide, Inc. or its affiliates.<br>© 2010 KCWW. All Rights Reserved. Your visit to this site and use of the information herein is subject to the<br>
 terms of our <a href="/legal.aspx">Legal Statement</a>. Please review our <a href="/privacy.aspx">Privacy Policy</a>. </p>
 
 </div>
