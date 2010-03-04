@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartbuyglasses.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215104126id_/http%3A//www.smartbuyglasses.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartbuyglasses.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305000132id_/http%3A//www.smartbuyglasses.com/privacy) for the most accurate reproduction.*
 
 # SmartBuyGlasses -- Privacy Policy
 
