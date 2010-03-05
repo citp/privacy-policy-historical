@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allkidsnetwork.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103145549id_/http%3A//www.allkidsnetwork.com/about/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allkidsnetwork.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305020427id_/http%3A//www.allkidsnetwork.com/about/privacy-policy.asp) for the most accurate reproduction.*
 
 # AllKidsNetwork.com Privacy Policy
 
@@ -22,6 +22,10 @@ We never use or share the personally identifiable information provided to us onl
 ### Our Commitment To Data Security
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+
+### Third Party Information Collection
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org. 
 
 ### How To Contact Us
 
