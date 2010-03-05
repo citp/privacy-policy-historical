@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globaltestmarket.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226055454id_/http%3A//www.globaltestmarket.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaltestmarket.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305181958id_/http%3A//globaltestmarket.com/privacypolicy.php) for the most accurate reproduction.*
 
 # GlobalTestMarket - Privacy Policy
 
@@ -58,9 +58,9 @@ GlobalTestMarket does not sell or rent user information to anyone. We will notif
 
 ### What is GlobalTestMarket's policy on allowing me to update, correct, or delete my personally identifiable information?
 
-You may edit your GlobalTestMarket Account Information and your public GlobalTestMarket Profile at any time by using your GlobalTestMarket ID and password. If you have forgotten your password, please [click here](https://web.archive.org/web/20090226055454id_/http%3A//www.globaltestmarket.com/forgotten.php). 
+You may edit your GlobalTestMarket Account Information and your public GlobalTestMarket Profile at any time by using your GlobalTestMarket ID and password. If you have forgotten your password, please [click here](https://web.archive.org/web/20100305181958id_/http%3A//globaltestmarket.com/forgotten.php). 
 
-Your GlobalTestMarket account can be deleted or deactivated. Please contact [privacypolicy@globaltestmarket.com](mailto:privacypolicy@globaltestmarket.com) for further instructions about deleting or deactivating your GlobalTestMarket account.
+Your GlobalTestMarket account can be deleted or deactivated. You can choose to terminate your membership at any time by [completing this form](https://web.archive.org/web/20100305181958id_/http%3A//globaltestmarket.com/unsubscribing.php).
 
 ### What security precautions are in place to protect the loss, misuse, or alteration of my information?
 
@@ -80,4 +80,4 @@ Ultimately, you are solely responsible for maintaining the secrecy of your passw
 
 ### Additional information
 
-Questions regarding this statement should be directed to [privacypolicy@globaltestmarket.com](mailto:privacypolicy@globaltestmarket.com).
+Please [contact us](https://web.archive.org/web/20100305181958id_/http%3A//globaltestmarket.com/contact.php) with any questions regarding this statement. 
