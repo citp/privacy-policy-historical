@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uksmallbusinessdirectory.co.uk privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301180350id_/http%3A//www.uksmallbusinessdirectory.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uksmallbusinessdirectory.co.uk privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305170644id_/http%3A//www.uksmallbusinessdirectory.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # UK Small Business Directory - privacy policy
 
@@ -71,6 +71,10 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
 We also use 3rd party tracking systems to monitor visitor behaviour, the primary systems we use are statcounter.com and google analytics, please view the privacy policies of both ofthese companies if you have any concerns.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.networkadvertising.org/)
+
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 ### How to reject cookies
 
