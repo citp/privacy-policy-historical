@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicksplat.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520180207id_/http%3A//www.nicksplat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicksplat.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305181052id_/http%3A//www.nicksplat.com/privacy.html) for the most accurate reproduction.*
 
 # www.nicksplat.com - Terms and Conditions of Use
 
