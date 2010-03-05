@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistage.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228082542id_/http%3A//www.vistage.com/about-us/about-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistage.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305065940id_/http%3A//www.vistage.com/about-us/about-us/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Executive Coaching and Business Leadership Coaching - Vistage
 
