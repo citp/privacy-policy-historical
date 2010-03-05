@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netkushi.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104115615id_/http%3A//netkushi.com/pg/expages/read/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netkushi.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305234609id_/http%3A//netkushi.com/pg/expages/read/Privacy) for the most accurate reproduction.*
 
 # netkushi.com Social networking site (Friends Community)
 
