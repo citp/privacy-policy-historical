@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oloffson.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104013813id_/http%3A//www.oloffson.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oloffson.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305204908id_/http%3A//oloffson.com/privacy.php) for the most accurate reproduction.*
 
-# Oloffson Directory - Privacy Policy
+# DIRECTORY_TITLE - Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at utkarshkukreti at gmail
 
