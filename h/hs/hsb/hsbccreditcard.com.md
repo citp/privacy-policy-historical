@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hsbccreditcard.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216085138id_/http%3A//www.hsbccreditcard.com/ecare/privacy_nli) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbccreditcard.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305192356id_/http%3A//www.hsbccreditcard.com/ecare/privacy_nli) for the most accurate reproduction.*
 
 # HSBC Privacy and Security Policy
 
-Privacy | Privacy Statement | Your Choices to Limit Sharing | Your Choices to Limit Marketing | Security Information | Website Terms and Conditions | Notice of Error Resolution Procedures
+Privacy | Privacy Statement | Your Choices to Limit Sharing | Your Choice to Limit Marketing | Security Information | Website Terms and Conditions
 
 HSBC Bank Nevada, N.A. and HSBC Bank USA, N.A. ("HSBC Bank") is the proud issuer of the HSBC® Credit Card. We understand the importance of handling customer information in a professional and confidential manner. We know that privacy is an important element of our customers' confidence in us and we understand that our customers expect us to collect and retain personal financial information responsibly. 
 
@@ -136,9 +136,6 @@ This paragraph applies only to customers with insurance products provided by Hou
 
 ** Household Insurance Group Holding Company (also under the trade name of HSBC Insurance Services or HSBC Insurance) includes Household Insurance Group, Inc., Household Life Insurance Company, HSBC Insurance Company of Delaware (formerly known as Service General Insurance Company), First Central National Life Insurance Company of New York, Household Life Insurance Company of Delaware, BFC Insurance Agency of Nevada, HSBC Insurance Agency (USA) Inc., and such other companies Household Insurance Group Holding Company may subsequently acquire.
 
-  
-
-
 Top of Your Choices to Limit Sharing | Top of Your Choices to Limit Marketing   
 Back to Top
 
@@ -147,7 +144,7 @@ Privacy | Privacy Statement |  Your Choices to Limit Sharing | Your Choice
   
 
 
-We understand that security is a prime concern for our customers, and our website strives to offer a high level of security: 
+We understand that security is a prime concern for our customers, and our website strives to offer a high level of security:
 
   * All Internet access must be completed using a browser that supports SSL encryption. All communications between you and our website are encrypted by a 128 bit secure link to protect the confidentiality of your data. State of the art monitoring systems and firewalls are used to prevent unauthorized access to our systems.
   * Users are required to select their own Login ID and Password when they sign up, and can change it at any time. 
@@ -258,16 +255,11 @@ Updates: These Terms and Conditions were last updated May 1, 2009. Please check 
 Top of Website Terms and Conditions  
 Back to Top
 
-  
+The following annual notice is being provided to you, because you are enrolled in HSBC Card Services’ Online Bill Payment Service for your general purpose credit card. This notice provides important information regarding the procedures for notification on any errors or questions about your online bill payments. 
 
+**This is not a notification of an error on your account.**
 
-Dear Valued Cardmember, 
-
-The following annual notice is being provided to you, because you are enrolled in HSBC Card Services’ Online Bill Payment Service for your general purpose credit card. This notice provides important information regarding the procedures for notification on any errors or questions about your online bill payments. Please read the notice below and retain it for your records. 
-
-Sincerely, 
-
-HSBC Card Services Online Customer Care 
+Please read the notice below and retain it for your records.
 
 ====================================================== 
 
