@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoinsureusa.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228055325id_/http%3A//www.autoinsureusa.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoinsureusa.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305051502id_/http%3A//www.autoinsureusa.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Auto Insure USA - AutoInsureUSA.com - Save up to $500 on your Auto Insurance.
 
