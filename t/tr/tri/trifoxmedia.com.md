@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trifoxmedia.com privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826013515id_/http%3A//trifoxmedia.com/tfx_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trifoxmedia.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305131404id_/http%3A//trifoxmedia.com/tfx_privacy_policy.html) for the most accurate reproduction.*
 
 # 
 
