@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skipmcgrath.com privacy policy that was archived on 2009-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090819125040id_/http%3A//www.skipmcgrath.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skipmcgrath.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305032003id_/http%3A//www.skipmcgrath.com/privacy.shtml) for the most accurate reproduction.*
 
-# The Auction Seller's Resource for professional eBay sellers
+# Auction Seller's Resource Privacy Policy
 
 **Sharing Personal Information with Third Parties  
 **We will never sell or give away your personal information to third parties for purposes of building contact lists, or anything of that nature, without your permission. 
