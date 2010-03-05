@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixdayweekend.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227005702id_/http%3A//www.sixdayweekend.com/page-privacy-policy-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixdayweekend.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305080100id_/http%3A//www.sixdayweekend.com/page-privacy-policy-3.html) for the most accurate reproduction.*
 
 # 6 Day Weekend by Sean Morrissy » The Six Day Weekend Privacy Policy
 
