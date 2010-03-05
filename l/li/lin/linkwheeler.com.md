@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkwheeler.com privacy policy that was archived on 2009-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091011063457id_/http%3A//www.linkwheeler.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkwheeler.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305214514id_/http%3A//www.linkwheeler.com/privacy.php) for the most accurate reproduction.*
 
 # LinkWheeler | Privacy
 
@@ -8,7 +8,7 @@ All web servers track basic information about their visitors. This information i
 
 ****Cookies and Web Beacons****
 
-Where necessary, LinkWheel.net uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Where necessary, LinkWheeler.com uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
 
