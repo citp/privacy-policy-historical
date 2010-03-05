@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105232218id_/http%3A//www.invitationconsultants.com/cs-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305082847id_/http%3A//www.invitationconsultants.com/cs-privacy.aspx) for the most accurate reproduction.*
 
 # Help Center at InvitationConsultants.com - Security & Privacy
 
@@ -16,7 +16,7 @@ Click here to verify: 
 
 ## Privacy Notice: 
 
-_Last updated: 6/22/2009_ | [ ](http://www.truste.com/ivalidate.php?url=www.invitationconsultants.com&sealid=101) | 
+_Last updated: 2/9/2010_ | [ ](http://www.truste.com/ivalidate.php?url=www.invitationconsultants.com&sealid=101) | 
 
 Invitation Consultants, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers www.invitationconsultants.com and www.graduation-announcements-store.com (collectively "the site").   
   
