@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realjock.com privacy policy that was archived on 2009-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090823052644id_/http%3A//www.realjock.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realjock.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305154128id_/http%3A//www.realjock.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy - RealJock
 
@@ -70,4 +70,4 @@ If you have any questions or concerns regarding our privacy policy, please conta
 
 By email: [privacy@realjock.com](mailto:privacy@realjock.com)
 
-Copyright © 2006-2009 RealJock, Inc. All rights reserved
+Copyright © 2006-2010 RealJock, Inc. All rights reserved
