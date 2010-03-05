@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigfoto.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228182706id_/http%3A//www.bigfoto.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfoto.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305074935id_/http%3A//www.bigfoto.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy, no spam marketing
 
