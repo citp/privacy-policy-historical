@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centraljersey.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104080501id_/http%3A//www.centraljersey.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centraljersey.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305123120id_/http%3A//www.centraljersey.com/privacy_policy) for the most accurate reproduction.*
 
 # Centraljersey.com | Central Jersey News,Princeton Breaking News Sports, Entertainment, Obits, Homes, Jobs, Cars, Classifieds, Real Estate, Princeton News, Dining,Princeton Dining, The Princeton Packet
 
