@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215183515id_/http%3A//www.quickquid.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305131211id_/http%3A//www.quickquid.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # Payday Loans: Cash Advances & Payday Loans @ www.quickquid.co.uk
 
@@ -56,7 +56,7 @@ If you have any questions or concerns about the sharing of your Personal Data as
 Marketing and Opt-Out Rights
     
 
-By visiting our Website, you understand and agree that we may contact you at the phone number or email address you enter on your loan application to assist you with your loan or to discuss other products and services that CashEuroNetUK may provide for you. You may opt-out of receiving these marketing communications from us by not submitting your Personal Data. We also allow you to opt-out of our use of your Personal Data for marketing purposes at any time by responding to any of our e-mail communications with “remove” in the subject line, or by sending us an email to support@quickquid.co.uk or by visiting your customer account at www.quickquid.co.uk and updating your contact preferences. If you opt-out of our use of your Personal Data for marketing purposes, we will honour such choice once we have had a reasonable opportunity to process your request. We reserve the right to take reasonable steps to authenticate your identity with respect to any such request or other inquiry. 
+By visiting our Website, you understand and agree that we may contact you by post, telephone, email or SMS (Short Message Service) i.e., text message to assist you with your loan or to discuss other products and services that CashEuroNetUK may provide for you. You may opt-out of receiving these marketing communications from us by not submitting your Personal Data. We also allow you to opt-out of our use of your Personal Data for marketing purposes at any time by responding to any of our e-mail communications with “remove” in the subject line, or by sending us an email to support@quickquid.co.uk or by visiting your customer account at www.quickquid.co.uk and updating your contact preferences. If you opt-out of our use of your Personal Data for marketing purposes, we will honour such choice once we have had a reasonable opportunity to process your request. We reserve the right to take reasonable steps to authenticate your identity with respect to any such request or other inquiry.
 
 How We Protect the Security of Your Personal Data
     
@@ -104,4 +104,4 @@ Email: [support@quickquid.co.uk](mailto:support@quickquid.co.uk)
 
 We reserve the right to change this Privacy Policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our Website.
 
-Privacy Policy last amended 06 November, 2008
+Privacy Policy last amended 02 February 2010
