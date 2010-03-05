@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsibilityproject.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103135805id_/http%3A//www.responsibilityproject.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsibilityproject.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306002222id_/http%3A//www.responsibilityproject.com/privacy) for the most accurate reproduction.*
 
 # The Responsibility Project, Presented by Liberty Mutual
 
@@ -13,6 +13,8 @@ The level of information gathered by Liberty Mutual varies depending upon your r
   * “Contact Us” & Other Email Forms – Name & Email Address
   * Request for Information Forms – Name & Mailing Address and/or Email Address
   * “Create a Profile” – Name & Email Address
+
+
   * Submissions to the website Blog (which are also subject to the [Comment Submission Guidelines](https://web.archive.org/terms/#submission-guidelines))
 
 
