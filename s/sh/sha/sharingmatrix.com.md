@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharingmatrix.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215043757id_/http%3A//www.sharingmatrix.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharingmatrix.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305140130id_/http%3A//www.sharingmatrix.com/privacy_policy) for the most accurate reproduction.*
 
 # Free File Hosting. SharingMatrix.com file hosting and storage.
 
