@@ -1,42 +1,23 @@
-> *The following text is extracted and transformed from the mi9.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323023210id_/http%3A//phim.mi9.com/%3Fact%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mi9.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305140148id_/http%3A//mi9.com/privacy-policy) for the most accurate reproduction.*
 
-# MI9! Movies: Read Movie Reviews, Find Showtimes and View Trailers
+# Privacy Policy - mi9.com
 
-We do not sell, distribute or otherwise disseminate any information collected to any person or company unless chosen by the visitor.  
-**  
-****Privacy Statement**  
-mi9.com only list the information of web sites. We are not responsibility for any loss or anything that occurs. Please be careful when giving out your personal information online.   
-All offers listed on our site is not 100% free. Some free items, you maybe pay Shipping / handling. When you giving out your personal information please read their privacy policy and all details first.   
-If you have any question or concerns regarding this statment, you should first contact at [contact@mi9.com](mailto:contact@mi9.com)
+Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
-**Cookies**  
-Our site does not use cookies.
+Note: the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.
 
-**Advertisers**  
-We use an outside ad company to display ads on our site. These ads may contain cookies. Cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+**Collection of Information**  
+We do not collect personally identifiable information, like names, postal addresses, email addresses, etc.
 
-**Email address**  
-Our newsletter which goes once a week.   
-You can anytime Opt-Out your email form our list. We will never disclose or sell your address to anybody else.
+**Cookie/Tracking Technology**  
+The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
 
-**Unsubscribing**  
-You can easy to unsubscribe your list anytime. Subscribers can also unsubscribe from our list via email. To unsubscribe, send a blank email to [contact@mi9.com](mailto:contact@mi9.com) with "unsubscribe" in the subject field.
+**Distribution of Information**  
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
 
-**Children's Privacy**  
-Some Portions of the Web site may be used by children under the age of 13. We are strongly committed to protecting the safety and privacy of children who visit our web site.
+**Privacy Contact Information**  
+If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-Children under 13 who wish to visit our web site are asked to have a parent or legal guardian. Children let your parents know every time someone asks for your personal information online, even when it's a friend. Your parent will tell you when it's OK to give out your personal information. It's better to be safe than sorry, so always ask first!
+By e-mail: Please use our Contact Form
 
-mi9.com will NOT:
-
-· collect online contact information from a user under 13 without prior verifiable parental consent, which includes an opportunity for the parent to prevent use of the information and participation in the activity. When we do not obtain prior verifiable parental consent, online contact information will be used only to directly respond to the child's request and will not be used to contact the child for other purposes.
-
-· collect personally identifiable offline contact information from users under 13 without prior verifiable parental consent.
-
-· distribute to third parties any personally identifiable information collected from children known to be under 13.
-
-If you have any questions regarding the privacy and safety of children on our site, please [contact us](mailto:contact@mi9.com).  
-
-
-  
-
+We reserve the right to make changes to this policy. Any changes to this policy will be posted.
