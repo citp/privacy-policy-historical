@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepittrill.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228081120id_/http%3A//www.keepittrill.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepittrill.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305072305id_/http%3A//www.keepittrill.com/misc/privacy.html) for the most accurate reproduction.*
 
 # KEEP IT TRILL- Street Promotions, Hip Hop, Booking, UGK
 
