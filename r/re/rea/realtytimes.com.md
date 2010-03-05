@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224031653id_/http%3A//realtytimes.com/rtpages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305035601id_/http%3A//realtytimes.com/rtpages/privacy.htm) for the most accurate reproduction.*
 
 # Realty Times - Privacy Statement
 
@@ -74,7 +74,7 @@ The Privacy Notice posted on this site was updated on or about August 1, 2006.
   
 
 
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\HouseValues_Banner_C29&LINK=http://info.marketleader.com/form/3291)
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\HouseValues_Banner_C32&LINK=http://info.marketleader.com/form/3329)
 
 |    
 
@@ -84,25 +84,25 @@ Real Estate News Network
 [ ](http://www.adobe.com/go/getflashplayer)
 
 **Mortgage Rates**  
-30 Year Fixed: 4.94%  
-15 Year Fixed: 5.19%  
-1 Year Adj: 4.34%  
+30 Year Fixed: 5.05%  
+15 Year Fixed: 4.40%  
+1 Year Adj: 4.15%  
 (U.S. Weekly Averages)  
 
 
 Today's Headlines  
 
 
-  * [Nation's Largest Historic Residential Restoration](https://web.archive.org/rtpages/20091223_historic.htm)
-  * [HOA Newsletter Baker's Dozen](https://web.archive.org/rtpages/20091223_dozen.htm)
-  * [Auctions, Internet Marketing, and Forbearance Facilitators Will Dominate New Homes Services in 2010](https://web.archive.org/rtpages/20091223_auctions.htm)
-  * [Move-Down Buyers Can Be Eligible For Tax Credit Too](https://web.archive.org/rtpages/20091222_movedown.htm)
-  * [Real Estate Outlook: Economic Forecasting](https://web.archive.org/rtpages/20091222_realestateoutlook.htm)
-  * [Looking Ahead: Canada's Housing Demand to 2036](https://web.archive.org/rtpages/20091222_immig.htm)
-  * [Maximizing a Flawed Property's Chances of Sale](https://web.archive.org/rtpages/20091221_maximize.htm)
-  * [Washington Report: New Consumer Financial Protection Agency](https://web.archive.org/rtpages/20091221_washingtonreport.htm)
-  * [Home Price Expectations—Will They Rise?](https://web.archive.org/rtpages/20091218_homeprice.htm)
-  * [Mortgage Rates up But Still Below 5 Percent](https://web.archive.org/rtpages/20091218_rates.htm)
+  * [Relationship Selling Begins With Databased Marketing](https://web.archive.org/rtpages/20100304_databased.htm)
+  * [Feds Help Speed Up Your Mortgage Modification](https://web.archive.org/rtpages/20100304_speedup.htm)
+  * [NAR Commercial A Leading Voice for the Industry, The Market, and the Investor](https://web.archive.org/rtpages/20100304_narcomm.htm)
+  * [Editorial: Banks Are Looking For More Bailouts](https://web.archive.org/rtpages/20100303_banks.htm)
+  * [Future Architects Design Sustainabale Architecture](https://web.archive.org/rtpages/20100303_sustain.htm)
+  * [Carrot or Stick Rules](https://web.archive.org/rtpages/20100303_carrot.htm)
+  * [What Canada's New Mortgage Rules Mean to You](https://web.archive.org/rtpages/20100302_newrules.htm)
+  * [Focusing on the Median Price Can Be Misleading](https://web.archive.org/rtpages/20100302_medianprice.htm)
+  * [Quick and Easy Interior Design for Home Sellers](https://web.archive.org/rtpages/20100302_design.htm)
+  * [Sellers: Staging is a Must](https://web.archive.org/rtpages/20100301_staging.htm)
 
   
 
@@ -112,5 +112,4 @@ Today's Headlines
 Spotlight 
 
   
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\CraigProctorProductions_Sponsor_C&LINK=http://www.hypertracker.com/go/cp/rtsb040601/)   
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\WebcastCity_Sponsor_C1&LINK=http://WebcastCity.com/)
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\HouseValues_Spotlight_C25&LINK=http://info.marketleader.com/form/3329)
