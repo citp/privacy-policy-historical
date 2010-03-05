@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the netkushi.com privacy policy that was archived on 2009-11-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091104115615id_/http%3A//netkushi.com/pg/expages/read/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the netkushi.com privacy policy that was archived on 2010-03-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100305234609id_/http%3A//netkushi.com/pg/expages/read/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -10,9 +10,9 @@
 	<script type="text/javascript" src="http://netkushi.com/vendors/jquery/jquery-1.3.2.min.js"></script> 
 	<script type="text/javascript" src="http://netkushi.com/vendors/jquery/jquery-ui-1.7.2.custom.min.js"></script>
 	<script type="text/javascript" src="http://netkushi.com/vendors/jquery/jquery.form.js"></script>
-	<script type="text/javascript" src="http://netkushi.com/_css/js.php?lastcache=1257335668&amp;js=initialise_elgg&amp;viewtype=default"></script>
+	<script type="text/javascript" src="http://netkushi.com/_css/js.php?lastcache=1267829545&amp;js=initialise_elgg&amp;viewtype=default"></script>
 	<!-- include the default css file -->
-	<link rel="stylesheet" href="http://netkushi.com/_css/css.css?lastcache=1257335668&amp;viewtype=default" type="text/css">
+	<link rel="stylesheet" href="http://netkushi.com/_css/css.css?lastcache=1267829545&amp;viewtype=default" type="text/css">
 	
 	
 		
@@ -21,7 +21,7 @@
 		  $('a[rel*=facebox]').facebox()
 		});
 		</script>
-<script src="http://www.google.com/jsapi"></script>
+<script type="text/javascript" src="http://netkushi.com/mod/izap_videos/views/default/izap_videos/js/default.js"></script><script src="http://www.google.com/jsapi"></script>
 <script type="text/javascript">
   google.load('friendconnect', '0.8');
 </script>
@@ -57,8 +57,12 @@
   });
 </script>
 
+<script type="text/javascript" src="http://netkushi.com/mod/blogwatch/lib/js/thickbox.js"></script>
+<style type="text/css" media="all">
+@import "http://netkushi.com/mod/blogwatch/lib/js/thickbox-elgg.css";
+</style>
 
-    <script type="text/javascript" src="http://netkushi.com/mod/fivestar/js/ui.stars.js"></script>
+    <script type="text/javascript" src="http://netkushi.com/mod/elggx_fivestar/js/ui.stars.js"></script>
 
     <script type="text/javascript">
         function fivestar(id, token, ts) {
@@ -66,7 +70,7 @@
 
             // Create stars for: Rate this
             $("#fivestar-form-"+id).stars({
-                cancelShow: 1,
+                cancelShow: 0,
                 cancelValue: 0,
                 captionEl: $("#caption"),
                 callback: function(ui, type, value)
@@ -77,7 +81,7 @@
                     // Display message to the user at the begining of request
                     $("#fivestar-messages-"+id).text("Saving ...").stop().css("opacity", 1).fadeIn(30);
 
-                    $.post("http://netkushi.com/action/fivestar/rate", {id: id, vote: value, __elgg_token: token, __elgg_ts: ts}, function(db)
+                    $.post("http://netkushi.com/action/elggx_fivestar/rate", {id: id, vote: value, __elgg_token: token, __elgg_ts: ts}, function(db)
                     {
                         // Select stars from "Average rating" control to match the returned average rating value
                         $("#fivestar-form-"+id).stars("select", Math.round(db.rating));
@@ -105,11 +109,96 @@
             $('<div class="fivestar-messages" id="fivestar-messages-'+id+'"/>').appendTo("#fivestar-form-"+id);
         };
     </script>
-<script type="text/javascript" src="http://netkushi.com/mod/blogwatch/lib/js/thickbox.js"></script>
-<style type="text/css" media="all">
-@import "http://netkushi.com/mod/blogwatch/lib/js/thickbox-elgg.css";
-</style>
-	<script type="text/javascript" src="http://netkushi.com/mod/izap_videos/views/default/izap_videos/js/izap.js"></script>	<!--[if lt IE 7]>
+
+
+<script type="text/javascript">
+
+/* Optional: Temporarily hide the "tabber" class so it does not "flash"
+   on the page as plain HTML. After tabber runs, the class is changed
+   to "tabberlive" and it will appear. */
+
+document.write('<style type="text/css">.tabber{display:none;}<\/style>');
+
+/*==================================================
+  Set the tabber options (must do this before including tabber.js)
+  ==================================================*/
+var tabberOptions = {
+
+  'cookie':"stats_tabs", /* Name to use for the cookie */
+
+  'onLoad': function(argsObj)
+  {
+    var t = argsObj.tabber;
+    var i;
+
+    /* Optional: Add the id of the tabber to the cookie name to allow
+       for multiple tabber interfaces on the site.  If you have
+       multiple tabber interfaces (even on different pages) I suggest
+       setting a unique id on each one, to avoid having the cookie set
+       the wrong tab.
+    */
+    if (t.id) {
+      t.cookie = t.id + t.cookie;
+    }
+
+    /* If a cookie was previously set, restore the active tab */
+    i = parseInt(getCookie(t.cookie));
+    if (isNaN(i)) { return; }
+    t.tabShow(i);
+   /* alert('getCookie(' + t.cookie + ') = ' + i); */
+  },
+
+  'onClick':function(argsObj)
+  {
+    var c = argsObj.tabber.cookie;
+    var i = argsObj.index;
+   /* alert('setCookie(' + c + ',' + i + ')'); */
+    setCookie(c, i);
+  }
+};
+
+/*==================================================
+  Cookie functions
+  ==================================================*/
+function setCookie(name, value, expires, path, domain, secure) {
+    document.cookie= name + "=" + escape(value) +
+        ((expires) ? "; expires=" + expires.toGMTString() : "") +
+        ((path) ? "; path=" + path : "") +
+        ((domain) ? "; domain=" + domain : "") +
+        ((secure) ? "; secure" : "");
+}
+
+function getCookie(name) {
+    var dc = document.cookie;
+    var prefix = name + "=";
+    var begin = dc.indexOf("; " + prefix);
+    if (begin == -1) {
+        begin = dc.indexOf(prefix);
+        if (begin != 0) return null;
+    } else {
+        begin += 2;
+    }
+    var end = document.cookie.indexOf(";", begin);
+    if (end == -1) {
+        end = dc.length;
+    }
+    return unescape(dc.substring(begin + prefix.length, end));
+}
+function deleteCookie(name, path, domain) {
+    if (getCookie(name)) {
+        document.cookie = name + "=" +
+            ((path) ? "; path=" + path : "") +
+            ((domain) ? "; domain=" + domain : "") +
+            "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+    }
+}
+
+</script><style type="text/css">.tabber{display:none;}</style>
+
+
+<script type="text/javascript" src="http://netkushi.com/mod/stats/js/tabber.js"></script>
+
+	<!--[if lt IE 7]>
 <script language="JavaScript">
 function correctPNG() // correctly handle PNG transparency in Win IE 5.5 & 6.
 {
@@ -244,6 +333,18 @@ google_ad_height = 90;
 
 <!-- footer -->
 
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://www.netkushi.com/piwik/" : "http://www.netkushi.com/piwik/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://www.netkushi.com/piwik/piwik.js" type="text/javascript"></script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script>
+<noscript><p><img src="http://www.netkushi.com/piwik/piwik.php?idsite=1" style="border:0" alt=""/></p></noscript>
+
 <div class="clearfloat"></div>
 
 <div id="layout_footer">
@@ -263,18 +364,21 @@ google_ad_height = 60;
 </script>
 		</div>	  </td>
 		
-		<td width="450" height="50" align="right">
-		<p class="footer_toolbar_links">
-		
-</p><div class="footer_toolbar_links">| 
+		<td width="127" height="50" align="right">
+		<p align="center" class="footer_toolbar_links"><a href="http://twitter.com/netkushicom"><img src="http://netkushi.com/images/small_twitter.gif" alt="Follow Me!" width="100" height="74" border="0"></a></p>	  </td>
+	    <td width="323" align="right"><span class="footer_toolbar_links">
+	      
+<div class="footer_toolbar_links">| 
 <a href="http://netkushi.com/pg/expages/read/About/">About</a> |
 <a href="http://netkushi.com/pg/expages/read/Terms/">Terms</a> |
 <a href="http://netkushi.com/pg/expages/read/Privacy/">Privacy</a> |
-</div>		<p></p>	  </td>
-	</tr>
+</div><div class="footer_toolbar_links">
+		| <a href="http://netkushi.com/pg/sitemap/">Sitemap</a>&nbsp;
+</div>	    </span></td>
+</tr>
 	
 	<tr>
-		<td height="28" colspan="2">
+		<td height="28" colspan="3">
 		  <p align="right" class="footer_legal_links">
 	    <a href="http://netkushi.com/mod/blog/everyone.php">Blogs</a> | <a href="http://netkushi.com/pg/photos/world/">Photos</a> | <a href="http://netkushi.com/pg/izap_videos">Videos</a> | <a href="http://netkushi.com/pg/groups/world/">Groups</a> | <a href="http://netkushi.com/mod/pages/world.php">Pages</a> | <a href="http://netkushi.com/mod/ad/everyone.php">Classifieds</a> | <a href="http://netkushi.com/mod/file/world.php">Files</a> | <a href="http://netkushi.com/mod/news/everyone.php">News</a> | <a href="http://netkushi.com/directory">Directory</a> </p></td>
     </tr>
@@ -294,4 +398,190 @@ _uacct = "UA-5061574-2";
 urchinTracker();
 } catch(err) {}</script>
 
+
+  <div id="feedbackWrapper">
+
+  <div id="feedBackToggler">
+    <a id="feedBackTogglerLink" href="javascript:void(0)" onclick="FeedBack_Toggle();this.blur();" style="float:left;position:relative;left:-1px;">
+      <img src="http://netkushi.com/mod/feedback/_graphics/slide-button-open.gif" alt="Feedback" title="Feedback">    </a>
+  </div>
+		
+  <div id="feedBackContent">
+    <div style="padding:10px;">
+        
+      <h1 style="padding-bottom:10px;">
+        Feedback      </h1>
+
+      <div style="padding-bottom:10px;">
+        Love it? Hate it? Want to suggest new features or report a bug? We would love to hear from you.      </div>
+
+      <div id="feedBackFormInputs">
+        <form action="" method="post" onsubmit="FeedBack_Send();return false;">
+          <div>
+            <div style="float:left"><b>Mood:&nbsp;&nbsp;&nbsp;&nbsp;</b></div>
+            <div style="float:left">
+              <input type="radio" name="mood" value="angry"> Angry              <input type="radio" name="mood" value="neutral" checked=""> Neutral              <input type="radio" name="mood" value="happy"> Happy            </div>
+            <div style="clear:both;"></div>
+          </div>
+          <br>
+          <div>
+            <div style="float:left"><b>About:&nbsp;&nbsp;&nbsp;&nbsp;</b></div>
+            <div style="float:left">
+              <input type="radio" name="about" value="bug_report"> Bug Report              <input type="radio" name="about" value="content"> Content              <input type="radio" name="about" value="suggestions" checked=""> Suggestions<br>
+              <input type="radio" name="about" value="compliment"> Compliment              <input type="radio" name="about" value="other"> Other            </div>
+            <div style="clear:both;"></div>
+          </div>
+          <br>
+          <div>
+						<input type="text" name="feedback_id" value="Name and/or Email" id="feedback_id" size="30" onfocus="if (this.value == 'Name and/or Email') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Name and/or Email';}" class="feedbackText">
+          </div>
+					<div style="padding-top:5px;">
+						<textarea name="feedback_txt" cols="34" rows="10" id="feedback_txt" onfocus="if (this.value == 'Let us know what you think!') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Let us know what you think!';}" class="feedbackTextbox mceNoEditor">Let us know what you think!</textarea>
+					</div>
+          <div>
+            <div class="captcha">
+	<input type="hidden" name="captcha_token" value="15b2798236275b63cfba22c1f79e9cd2">
+	<div class="captcha-left">
+		<img class="captcha-input-image" src="http://netkushi.com/pg/captcha/15b2798236275b63cfba22c1f79e9cd2">
+	</div>
+	<div class="captcha-middle">&nbsp;&nbsp;&gt;&gt;&nbsp;&nbsp;</div>
+	<div class="captcha-right">
+		<input type="text" name="captcha_input" value="" class="captcha-input-text"> 	</div>
+	<div style="clear:both;"></div>
+</div>
+          </div>
+				  <div style="padding-top:10px;">
+					  <input id="feedback_send_btn" name="send" value="Send" type="button" class="Button" onclick="FeedBack_Send();">
+					  &nbsp;
+					  <input id="feedback_cancel_btn" name="Cancel" value="Cancel" type="button" class="Button" onclick="FeedBack_Toggle();">
+					  &nbsp;
+				  </div>
+        </form>
+      </div>
+      <div id="feedBackFormStatus"></div>
+		  <div id="feedbackClose" style="padding-top:10px;">
+			  <input id="feedback_close_btn" name="Close" value="Close" type="button" class="Button" onclick="FeedBack_Toggle();">
+      </div>
+    </div>
+  </div>
+
+  <div style="clear:both;"></div>
+    
+</div>
+
+<script type="text/javascript">
+
+$("#feedbackWrapper").width("50px");
+$('#feedbackClose').hide();
+
+var toggle_state = 0;
+
+function FeedBack_Toggle()
+{
+    if ( toggle_state ) 
+    {
+      toggle_state = 0;
+      $("#feedbackWrapper").width("50px");
+      $("#feedBackTogglerLink").html('<img src="http://netkushi.com/mod/feedback/_graphics/slide-button-open.gif" alt="Feedback" title="Feedback" />');
+      $('#feedBackFormInputs').show();
+			$("#feedBackFormStatus").html("");
+      $('#feedbackClose').hide();
+    }
+    else 
+    {
+      toggle_state = 1;
+      $("#feedbackWrapper").width("450px");
+      $("#feedBackTogglerLink").html('<img src="http://netkushi.com/mod/feedback/_graphics/slide-button-close.gif" alt="Feedback" title="Feedback" />');
+    }
+
+    $("#feedBackContent").toggle();
+}
+
+function FeedBack_Send()
+{
+  var page = '/pg/expages/read/Privacy/';
+  var mood = $('input[name=mood]:checked').val();
+  var about = $('input[name=about]:checked').val();
+  var id = $("#feedback_id").val().replace(/^\s+|\s+$/g,"");
+  var txt = encodeURIComponent( $("#feedback_txt").val().replace(/^\s+|\s+$/g,"") );
+
+  var captcha_token = $('input[name=captcha_token]').val();
+  var captcha_input = $('input[name=captcha_input]').val();
+  if ( captcha_token != '' && captcha_input == '' ) 
+  {
+    alert ( "No captcha input provided" );
+    return;
+  }
+
+  // if no address provided...
+  if ( id == '' || id == "Name and/or Email" )
+  {
+    id = "204.236.235.245";
+  }
+
+  // if no text provided...
+  if ( txt == '' || txt == encodeURIComponent("Let us know what you think!") )
+  {
+    alert ( "No feedback message has been provided.\nWe value your suggestions and criticisms.\nPlease enter your message and press Send." );
+    return;
+  }
+
+  // show progress indicator
+  $('#feedBackFormStatus').html('<img src="http://netkushi.com/mod/feedback/_graphics/ajax-loader-bar.gif" alt="Submitting..." />');
+
+  // disable the send button while we are submitting
+  $('#feedBackFormInputs').hide();
+  
+	// fire the AJAX query
+	jQuery.ajax({
+		url: "http://netkushi.com/mod/feedback/actions/submit_feedback.php",
+		type: "POST",
+		data: "captcha_input="+captcha_input+"&captcha_token="+captcha_token+"&page="+page+"&mood="+mood+"&about="+about+"&id="+id+"&txt="+txt,
+		cache: false,
+		dataType: "html",
+		error: function() {
+      //$('#feedBackFormInputs').show();
+			$("#feedBackFormStatus").html("<div id='feedbackError'>Could not submit feedback!</div>");
+      $('#feedbackClose').show();
+		},
+		success: function(data){
+      //$('#feedBackFormInputs').show(); // show form
+			$("#feedBackFormStatus").html(data);
+      $('#feedbackClose').show();
+		}
+	});
+}
+
+</script>
+ 
+<script type="text/javascript">
+
+$("#myfriendsWrapper").width("50px");
+$('#myfriendsClose').hide();
+
+var toggle_state = 0;
+
+function myfriends_Toggle()
+{
+    if ( toggle_state ) 
+    {
+      toggle_state = 0;
+      $("#myfriendsWrapper").width("50px");
+      $("#myfriendsTogglerLink").html('<img src="http://netkushi.com/mod/feedback/_graphics/slide-button-open.gif" alt="Feedback" title="Feedback" />');
+      $('#myfriendsFormInputs').show();
+			$("#myfriendsFormStatus").html("");
+      $('#myfriendsClose').hide();
+    }
+    else 
+    {
+      toggle_state = 1;
+      $("#myfriendsWrapper").width("450px");
+      $("#myfriendsTogglerLink").html('<img src="http://netkushi.com/mod/feedback/_graphics/slide-button-close.gif" alt="Feedback" title="Feedback" />');
+    }
+
+    $("#myfriendsContent").toggle();
+}
+
+
+</script>
 </body></html>
