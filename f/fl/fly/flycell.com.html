@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the flycell.com privacy policy that was archived on 2009-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091215043454id_/http%3A//www.flycell.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flycell.com privacy policy that was archived on 2010-03-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100305135404id_/http%3A//www.flycell.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd"><html><head>
-                    <!-- ny0111.lan.usny.acotel.com. -->
+                    <!-- nyx01134.lan.usny.acotel.com. -->
             <title>Privacy Policy - Flycell</title>
             <meta name="keywords" content="Ringtones, Cellphone Wallpapers, Free ringtones,Ring tones, Free ring tones, Free wallpapers, Hip hop, Ringtone, Polyphonic ringtones, Cellphone, Cell phone wallpaper,Real tones, Mobile games, Cell phone ring tones, Ringers, Cell phone ringtones, Cellular ringtones, Free ringtone, Ringtones for cell phones, Cell phone wallpapers,Ringtones download, Ring tone, Phone ringtones, Cell phone games, Free mobile ringtones, Downloadable ringtones, Free ring tone, Cell wallpaper, Cellphone ringtones, Mobile ringtones,69999" "="">
             <meta name="description" content="Privacy Policy">
@@ -219,7 +219,15 @@ function makeCaptcha() {
 
 function resetPassword(login, showAlertBox, captchaText)
 {
+  if($('phoneReturn1') && $('phoneReturn2')){
+      $('login').value = $('phoneReturn1').value + $('phoneReturn2').value;
+      login = $('login').value;
+  }else if($('phoneReturn1')){
+  	$('login').value = $('phoneReturn1').value;
+  	login = $('login').value;
+  }
   resetPhoneType = "";
+  
   if (isValidEmail(login)){
       resetPhoneType = 'email';
   }
@@ -317,8 +325,8 @@ function getTs()
       	<div><a class="close right" href="javascript:void(0);" onclick="overlay()"></a></div>
         <h2 class="form_color large">Log In</h2>
 
-        <p class="bold" id="requiredLoginText">You must be logged in to do that. Log in below or <a href="/offer/?ref=901">Register</a>.</p>
-        <p class="bold large" id="normalLoginText" style="display: none;">Welcome back to Flycell! Please log in below or <a href="/offer/?ref=901">click to register</a>.</p>
+        <p class="bold" id="requiredLoginText" style="display: none;">You must be logged in to do that. Log in below or <a href="/offer/?ref=901">Register</a>.</p>
+        <p class="bold large" id="normalLoginText">Welcome back to Flycell! Please log in below or <a href="/offer/?ref=901">click to register</a>.</p>
 
         <div id="errors">
                 </div>
@@ -366,8 +374,8 @@ function getTs()
        <div><a class="close right" href="javascript:void(0);" onclick="overlay()"></a></div>
         <h2 class="form_color large">Log In</h2>
 
-        <p id="requiredLoginText">You must be logged in to do that. Log in below or <a href="/offer/?ref=901">Register</a>.</p>
-        <p id="normalLoginText" style="display: none;">Welcome back to Flycell! Please log in below or <a href="/offer/?ref=901">click to register</a>.</p>
+        <p id="requiredLoginText" style="display: none;">You must be logged in to do that. Log in below or <a href="/offer/?ref=901">Register</a>.</p>
+        <p id="normalLoginText">Welcome back to Flycell! Please log in below or <a href="/offer/?ref=901">click to register</a>.</p>
 
         <div id="captcha_errors">
                 </div>
@@ -923,6 +931,7 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 						</ul>
 					</li>
 				<li class="sub_cat"><a href="/artist-browse" class="sub_link">Browse By Artist</a></li>
+				<li class="sub_cat"><a href="/lyrics-artist-browse" class="sub_link">Browse Lyrics By Artist</a></li>
 				<li class="sub_cat"><a href="/idjmobile" class="sub_link">IDJMobile</a></li>
 	      <li class="sub_close"></li>
 			</ul>
@@ -1001,7 +1010,7 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 					</ul>				
 				</li>
 				
-				<li class="sub_cat"><a href="/bid-hunter" class="sub_link">Games for Prizes</a><span class="subArrow">&gt;</span>	
+				<li class="sub_cat"><a href="/bid-hunter" class="sub_link">Play for Prizes</a><span class="subArrow">&gt;</span>	
 					<ul class="subnav_play">	
 						<li>
 							
@@ -1031,7 +1040,7 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 								<a href="/text-alerts/jokes">Jokes</a>
 								<a href="/text-alerts/trivia">Trivia</a>								
 								<a href="/text-alerts/love">Love</a>
-								<a href="/text-alerts/horoscope-and-fortunes">Horoscope &amp; Fortunes</a>	
+								<a href="/text-alerts/horoscope">Horoscopes</a>	
 								<a href="/text-alerts/news-and-gossip">News &amp; Gossip</a>
 								<br>
 								<a href="/text-alerts" class="menuSeeAll">See all Text Alerts</a>
@@ -1070,26 +1079,16 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 						</li>
 					</ul>
 				</li>
-								<li class="sub_cat"><a href="/pope-message" class="sub_link">Pope Message</a>
-				</li><li class="sub_close"></li>
+								<li class="sub_cat"><a href="/chat" class="sub_link">Mobile Matchup</a></li>				
+								<li class="sub_close"></li>
 			</ul>
 		</li>
 
-		<li class="nav_community"><a href="/community">Community</a>
+		<li class="nav_community"><a href="/my-settings/settings">Account</a>
 			<ul class="subnav_community">
 				<li class="sub_open"></li>
-								<li class="sub_cat"><a href="/community" class="sub_link">Upload</a></li>
-				
-									<li class="sub_cat"><a href="/community" class="sub_link">My Locker</a></li>
-					<li class="sub_cat"><a href="/community" class="sub_link">Account</a></li>
-													<li class="sub_cat"><a href="/community" class="sub_link">My Profile</a></li>
-								<li class="sub_cat"><a href="http://channels.flycell.com/explore/video/pagesize25/" class="sub_link">Video</a></li>
-				<li class="sub_cat"><a href="http://channels.flycell.com/explore/image/pagesize25/" class="sub_link">Pics</a></li>
-				<li class="sub_cat"><a href="http://channels.flycell.com/explore/audio/pagesize25/" class="sub_link">Audio</a></li>
-				<li class="sub_cat"><a href="/connect" class="sub_link">People</a></li>
-				<li class="sub_cat"><a href="/chat" class="sub_link">Mobile Matchup</a></li>
-									<li class="sub_cat"><a href="/community" class="sub_link">Inbox</a></li>
-								
+				<li class="sub_cat"><a href="/my-settings/my-locker" class="sub_link">My Locker</a></li>
+				<li class="sub_cat"><a href="/my-settings/settings" class="sub_link">Account</a></li>
 				<li class="sub_close"></li>
 			</ul>
 		</li>
@@ -1342,41 +1341,33 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
   
 
 
-        <a href="/" class="footLink xmall">Download Ringtones</a>&nbsp;|&nbsp;
+        
+    
+
+    <a href="/" class="footLink xmall">Download Ringtones</a>&nbsp;|&nbsp;
     <a href="/realtones-polyphonic-ringtones" class="footLink xmall">MP3 Ringtones</a>&nbsp;|&nbsp;
     <a href="/realtones-polyphonic-ringtones" class="footLink xmall">MP3 and Music Ringtones</a>&nbsp;|&nbsp;
     <a href="/mobile-cell-phone-wallpapers" class="footLink xmall">Cell Phone Wallpapers</a>&nbsp;|&nbsp;
     <a href="/mobile-phone-games" class="footLink xmall">Mobile Games</a>&nbsp;|&nbsp;
-    <a href="/mobile-phone-applications" class="footLink xmall">Cellular Applications</a>&nbsp;|&nbsp;
+    <a href="/mobile-phone-applications" class="footLink xmall">Cellular Applications</a>
+        <br> 
+
     <a href="/text-alerts" class="footLink xmall">Text Alerts</a>&nbsp;|&nbsp;
-    <a href="/bid-hunter" class="footLink">Bid Hunter</a>
-    <br>
     
     
-    <a href="http://channels.flycell.com/explore" class="footLink xmall" rel="nofollow">Explore</a>&nbsp;|&nbsp;
-    <a href="http://channels.flycell.com/upload" class="footLink xmall" rel="nofollow">Upload</a>&nbsp;|&nbsp;
-    <a href="http://www.flycell.com/connect" class="footLink xmall" rel="nofollow">Connect</a>&nbsp;|&nbsp;
-    <a href="http://play.flycell.com/" class="footLink xmall" rel="nofollow">Compete</a>&nbsp;|&nbsp;
+   
+    <a href="/bid-hunter" class="footLink">Bid Hunter</a>&nbsp;|&nbsp;
+        <a href="http://play.flycell.com/" class="footLink xmall" rel="nofollow">Complementary Games</a>&nbsp;|&nbsp;
+
         <a href="/chat" class="footLink xmall" rel="nofollow">Mobile Match Up</a>&nbsp;|&nbsp;
-    
-    
-    
-        	<a href="/community" class="footLink xmall" rel="nofollow">My Profile</a>&nbsp;|&nbsp;
-        			
-    <a href="/community" class="footLink xmall" rel="nofollow">My Flycell</a>&nbsp;|&nbsp;
-    
-            <a href="/community" class="footLink xmall" rel="nofollow">Settings</a>&nbsp;|&nbsp;
-        			
-             <a href="/community" class="footLink xmall" rel="nofollow">Inbox</a>&nbsp;|&nbsp;
-        			
-        	<a href="/community" class="footLink xmall" rel="nofollow">My Locker</a>&nbsp;|&nbsp;
-    	<a href="/community" class="footLink xmall" rel="nofollow">Account</a>
-        <br>
-    <a href="/my-settings/free-sms-home" class="footLink xmall" rel="nofollow">Send Text</a>&nbsp;|&nbsp;
-    <a href="http://channels.flycell.com/explore/image/pagesize25/" class="footLink xmall" rel="nofollow">Photos</a>&nbsp;|&nbsp;
-    <a href="http://channels.flycell.com/explore/video/pagesize25/" class="footLink xmall" rel="nofollow">Videos</a>&nbsp;|&nbsp;
-    <a href="http://channels.flycell.com/explore/audio/pagesize25/" class="footLink xmall" rel="nofollow">Audio</a>&nbsp;|&nbsp;
-    <a href="/learn-more/knowledge-base?fullFaq=true" class="footLink xmall" rel="nofollow">Frequently Asked Questions</a>&nbsp;|&nbsp;
+        <a href="/my-settings/free-sms-home" class="footLink xmall" rel="nofollow">Send Text</a>&nbsp;|&nbsp;
+
+
+    	<a href="/my-settings/my-locker" class="footLink xmall" rel="nofollow">My Locker</a>&nbsp;|&nbsp;
+    	<a href="/my-settings/settings" class="footLink xmall" rel="nofollow">Account</a>
+	<br>	
+
+     <a href="/learn-more/knowledge-base?fullFaq=true" class="footLink xmall" rel="nofollow">Frequently Asked Questions</a>&nbsp;|&nbsp;
     <a href="/support" class="footLink xmall" rel="nofollow">Contact Support</a>&nbsp;|&nbsp;
     <a href="/learn-more/unsubscribe" class="footLink xmall" rel="nofollow">Unsubscribe</a>&nbsp;|&nbsp;
     <a href="/terms-of-use" class="footLink xmall" rel="nofollow">Terms of Use</a>&nbsp;|&nbsp;
@@ -1401,13 +1392,13 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 
 
 Flycell International Sites:
+<a href="http://www.flycell.com.ar" class="copyright" style="text-decoration:none; margin-left: 10px;" title="Flycell Argentina">Argentina</a>
 <a href="http://www.flycell.com.br" class="copyright" style="text-decoration:none; margin-left: 10px;" title="Flycell Brazil">Brazil</a>
 <a href="http://www.flycell.ca" class="copyright" style="text-decoration:none; margin-left: 10px;" title="Flycell Canada">Canada</a>
 <a href="http://www.flycell.it" class="copyright" style="text-decoration:none; margin-left: 10px;" title="Flycell Italy">Italy</a>
 <a href="http://www.flycell.com.mx" class="copyright" style="text-decoration:none; margin-left: 10px;" title="Flycell Mexico">Mexico</a>
 <a href="http://www.flycell.es" class="copyright" style="text-decoration:none; margin-left: 10px;" title="Flycell Spain">Spain</a>
 <a href="http://www.flycell.com.tr" class="copyright" style="text-decoration:none; margin-left: 10px;" title="Flycell Turkey">Turkey</a>
-<a href="http://www.flycell.com.ar" class="copyright" style="text-decoration:none; margin-left: 10px;" title="Flycell Argentina">Argentina</a>
 <br>
 <br>
 <a href="/privacy-policy"><img src="/template/us/images/truste_logo.gif"></a> &nbsp; <a href="/privacy-policy"><img src="/template/us-es/images/truste_logo.gif"></a>
@@ -1515,7 +1506,7 @@ qacct:"p-012Kq1nHYGWi6"
 <a href="http://www.quantcast.com/p-012Kq1nHYGWi6" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-012Kq1nHYGWi6.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
 <!-- End Quantcast tag -->
-<!-- ny0111.lan.usny.acotel.com. -->
+<!-- nyx01134.lan.usny.acotel.com. -->
 
 
 
