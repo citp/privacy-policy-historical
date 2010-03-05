@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prsguitars.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231134001id_/http%3A//www.prsguitars.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prsguitars.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305113338id_/http%3A//www.prsguitars.com/privacy.html) for the most accurate reproduction.*
 
-# PRS Guitars - Privacy Policy
+# Paul Reed Smith Guitars | Privacy Policy
 
 Thank you for visiting the prsguitars.com web site. We are committed to protecting your privacy and we voluntarily provide this privacy statement in support of this commitment. Paul Reed Smith Guitars wants to provide a secure, helpful experience for our users. Therefore, we will make commercially reasonable efforts to ensure that the information you provide and submit to us remains private, and is used only for the purposes as set forth herein.
 
@@ -8,7 +8,7 @@ The following discloses our current information gathering and dissemination prac
 
 ## Personal Information Gathering
 
-No user information is required to visit the PRS web site. The only personal information gathered from you will be your e-mail address, should you choose to elect to provide your e-mail address. This address will be used to send you notices about PRS products and events. The information will NOT be revealed to third parties.
+No user information is required to visit the PRS web site. The only personal information gathered from you will be your e-mail address, should you choose to elect to provide your e-mail address. This address will be used to send you notices about PRS products and events. _The information will NOT be revealed to third parties._
 
 ## Non-Personal Information Gathering
 
@@ -32,7 +32,7 @@ While PRS strives to protect the personal information of our users, PRS will rel
 
 Your use of this site indicates an acceptance of the terms of the Privacy Policy in effect at the time of such usage.
 
-## Changes to Privacy Policy-Modification and Termination of this Agreement
+## Changes To Privacy Policy — Modification and Termination of This Agreement
 
 PRS reserves the right to update or amend this Privacy Policy at any time. If we are going to use your personally identifiable information in a manner which materially differs from the standards in effect at the time such information was collected, we will notify you and you will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes to our Privacy Policy that do not affect user information already stored in our database, we will post a prominent notice on our site notifying users that our Privacy Policy has changed. In some cases when we post such a notice, we will also send an e-mail to users who have provided their information notifying them of the changes in our Privacy Policy.
 
@@ -40,23 +40,23 @@ PRS reserves the right to update or amend this Privacy Policy at any time. If we
 
 As noted, any contact information (such as email address) is used to contact the visitor when necessary.
 
-## Third Party Web Sites and Links
+## Third Party Websites and Links
 
 The Site may contain links to other sites. Once you link to another site(s), you are subject to the privacy policy and terms of use of the new site(s). Paul Reed Smith Guitars is not responsible for the privacy practices or the content of such Web sites. Paul Reed Smith Guitars is not responsible to any third party posting to this Site. Please refer to our Terms of Use for other information pertinent to links to external sites.
 
 ## Children
 
-The Site is not directed to children and it does not specifically collect information from children under the age of thirteen (13); therefore, the Children's Online Privacy Protection Act (COPPA) does not apply to the Site. We highly recommend that parents view with their children the Federal Trade Commission's Web site at <http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html> to learn more about how COPPA protects children's privacy online.
+The Site is not directed to children and it does not specifically collect information from children under the age of thirteen (13); therefore, the Children's Online Privacy Protection Act (COPPA) does not apply to the Site. We highly recommend that parents view with their children the Federal Trade Commission's Web site at http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html to learn more about how COPPA protects children's privacy online.
 
-## Contacting the Web Site
+## Contacting The Website
 
 If you have any questions about this privacy statement, the practices of this Site, or your dealings with this Site, you can contact:
 
-  * Paul Reed Smith Guitars Web Site Administrator
+  * Paul Reed Smith Guitars
   * c/o Webmaster
   * PRS Guitars
   * 380 Log Canoe Circle
   * Stevensville, MD 21666
-  * You can send an email to our [webmaster](mailto:jderdock@prsguitars.com)
+  * You can send an email to our webmaster [by clicking here](mailto:jderdock@prsguitars.com/)
 
 
