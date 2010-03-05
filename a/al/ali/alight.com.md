@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alight.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215064650id_/http%3A//www.alight.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alight.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305164409id_/http%3A//www.alight.com/privacy-statement.html) for the most accurate reproduction.*
 
 # privacy statement
 
@@ -18,13 +18,10 @@ Secure Shopping**
 
 Your information is secure with alight.com! ****
 
-We use secure servers to protect your personal information, including your name, address, and credit card information. We use the Linus Security Suite, currently the best-selling secure server software, and in our opinion, the best product technically. It supports industry-standard 128-bit SSL encryption.  
+We use secure servers to protect your personal information, including your name, address, and credit card information. We use the Starfield Technology Security Suite, one of the best-selling secure server software suites, and in our opinion, the best product technically. It supports industry-standard 256-bit SSL encryption.  
 
 
 When you enter your credit card number into the order form, it is transmitted across the Internet in an encrypted (scrambled) form, then decoded when it reaches us. 
-
-  
-If you are not the kind of person who worries about being hit by lightning as you're crossing the street, you probably don't have to worry that your credit card number will be intercepted on the way to a secure Web site. According to CNN, "The prevalent opinion... is that on-line credit card use is actually no riskier for consumers than traditional "low-tech" transactions." 
 
 So order with confidence at alight.com.
 
