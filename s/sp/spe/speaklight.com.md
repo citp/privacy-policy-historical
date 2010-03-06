@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the speaklight.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302090719id_/http%3A//www.speaklight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speaklight.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306181704id_/http%3A//www.speaklight.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | LightCMS
 
 **INFORMATION WE COLLECT**
 
-[Element Fusion](http://www.elementfusion.com/) collects information on visitors to our website and the websites of our products.  This information includes aggregate information on what pages visitors access, email addresses of those who email us or sign up for our newsletters, and other information volunteered by the site visitor.  
+[Element Fusion](http://www.elementfusion.com/) collects information on visitors to our website and the websites of our products. This information includes aggregate information on what pages visitors access, email addresses of those who email us or sign up for our newsletters, and other information volunteered by the site visitor. 
 
-When you register for one of our products, we ask for additional information such as your name, company name, and billing information (for paying accounts). 
+When you register for one of our products, we ask for additional information such as your name, company name, and billing information (for paying accounts). 
 
 **HOW WE USE THIS INFORMATION**
 
@@ -19,11 +19,11 @@ When you register for one of our products, we ask for additional information suc
 
 **SHARING YOUR INFORMATION**
 
-We do not ever share or sell your personal information for commercial purposes except to provide products or services you’ve requested, and only if we have your permission.  We may share aggregated non-personal information with third parties outside of Element Fusion. We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, ensuring the security of our network and services, or when your actions violate the [Terms of Service](https://web.archive.org/terms-of-service).
+We do not ever share or sell your personal information for commercial purposes except to provide products or services you’ve requested, and only if we have your permission. We may share aggregated non-personal information with third parties outside of Element Fusion. We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, ensuring the security of our network and services, or when your actions violate the [Terms of Service](https://web.archive.org/terms-of-service).
 
-**COOKIES**
+ **COOKIES**
 
-A cookie is a small amount of data that we store on your computer's hard drive.  Cookies are not required to browse our company and product sites, but are required to use our products.  We set and access cookies to record current session information. 
+A cookie is a small amount of data that we store on your computer's hard drive. Cookies are not required to browse our company and product sites, but are required to use our products. We set and access cookies to record current session information. 
 
 **CHANGES**
 
