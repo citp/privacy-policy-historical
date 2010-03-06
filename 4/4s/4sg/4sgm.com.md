@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the 4sgm.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013120923id_/http%3A//www.4sgm.com/is-bin/INTERSHOP.enfinity/WFS/4sgm-Storefront-Site/en_US/-/USD/ViewStatic-Start%3Bpgid%3D3a..iKKCif9SR0MH6WtkEPll00003pJmJ24b%3FWorkingTemplate%3Dstatic%252FPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4sgm.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306012853id_/http%3A//www.4sgm.com/is-bin/INTERSHOP.enfinity/WFS/4sgm-Storefront-Site/en_US/-/USD/ViewStatic-Start%3Bpgid%3Dsf6GiKqqUz9SR0czO97CJUlv0000OFe3-Hem%3FWorkingTemplate%3Dstatic%252FPrivacyPolicy) for the most accurate reproduction.*
 
 # Wholesale PrivacyPolicy
 
 4sgm.com is owned and operated by Four Seasons General Merchandise. We wholeheartedly respect and understand privacy concerns that may arise, so we have created a comprehensive statement summary for you, our loyal customer. Our privacy policy is intended to offer an explanation on how we collect, handle, share and how you yourself may access the data you have provided us.   
 If you have any questions, or want further details about this policy, please contact us
 
-  * By e-mail at:  [iis@4sgm.com](mailto:iis@4sgm.com)
-  * By phone at: Toll Free **1-877-446-4746 Ext. 601** or directly/internationally at **(323) 319-0601** our business hours are 8am-5pm M-F (PST)
+  * By e-mail at:  [iss@4sgm.com](mailto:iss@4sgm.com)
+  * By phone at: Toll Free **1-877-446-4746 Ext. 704** or directly/internationally at **(323) 826-1199** our business hours are 8am-5pm M-F (PST)
   * By mail at:  Four Seasons General Merchandise 2801 East Vernon Ave. Los Angeles, CA 90058. Please make sure to include your contact information. 
 
 
@@ -38,7 +38,7 @@ Maintaining security of your personal information is a high priority to us, so w
 ** You have the option to leave behind your own personal comment for each product. This will serve as invaluable input on many levels such as marketing and buying. 
 
 **When you apply for a credit line** **  
-** You will be asked to provide your name, address, e-mail address, phone number, and other reference information needed to verify your identity, such as your business details. This information is required to process your application.  [Learn more about the 4sgm.com credit program here](http://4sgm.com/is-bin/INTERSHOP.enfinity/WFS/4sgm-Storefront-Site/en_US/-/USD/ViewStatic-Start;pgid=3a..iKKCif9SR0MH6WtkEPll0000VcFL1Zr7?WorkingTemplate=static%2FOpenCreditAccount)
+** You will be asked to provide your name, address, e-mail address, phone number, and other reference information needed to verify your identity, such as your business details. This information is required to process your application.  [Learn more about the 4sgm.com credit program here](http://www.4sgm.com/is-bin/INTERSHOP.enfinity/WFS/4sgm-Storefront-Site/en_US/-/USD/ViewStatic-Start;pgid=9JykiKCIRUBSR0ooqkPIgafi0000kOML1_oO?WorkingTemplate=static%2FOpenCreditAccount)
 
 **We may acquire customer lists from other parties** **  
 ** So that we may invite new people to visit 4sgm.com. Our policy is to acquire lists of people who have indicated that they are willing to receive e-mail offers. Also, each time we send an e-mail offer, we provide people with the opportunity to opt-out of receiving future e-mail offers. 
@@ -80,7 +80,7 @@ Yes. 4sgm.com uses Secure Sockets Layer ("SSL") for secure transmissions. SSL ap
 Session cookies exist only for as long as your browser remains open. Meaning, once you close your browser window the cookies (and all its information) disappear. We use session cookies to maintain information we need to have in order for you to shop at 4sgm.com. For example, the Session ID cookie that we ask your browser to record might be the ID for your order. Without the Session ID cookie, you cannot add merchandise to your shopping order and carry it to Checkout. Cookies can be used by a web site to recognize you. But that does not necessarily mean any personal information is stored in the cookies. At 4sgm.com, we store no personal information about you in the cookies. Anything you choose to tell us about yourself (such as your address and e-mail address) is stored safely and separately on our servers. You will be prompted to provide a password to access this information every time.
 
 **_Your California Privacy Rights_**  
-Four Seasons General Merchandise gathers and collects various types of personal information about customers and prospects both online and offline. California residents are granted allowance to request what and to whom your personal information is being disclosed. However, Four Seasons General Merchandise does not disclose any information to anybody. The information gathered is strictly and solely used internally for marketing purposes to improve your overall 4sgm.com experience. You will receive customized information only if you customized your details. If you would like a full report please send an e-mail to [iss@4sgm.com](mailto:iss@4sgm.com) or call (323) 319-0601 for more information.  
+Four Seasons General Merchandise gathers and collects various types of personal information about customers and prospects both online and offline. California residents are granted allowance to request what and to whom your personal information is being disclosed. However, Four Seasons General Merchandise does not disclose any information to anybody. The information gathered is strictly and solely used internally for marketing purposes to improve your overall 4sgm.com experience. You will receive customized information only if you customized your details. If you would like a full report please send an e-mail to [iss@4sgm.com](mailto:iss@4sgm.com) or call (323) 826-1199 for more information.  
 **_
 
 How Often Does This Policy Change?
