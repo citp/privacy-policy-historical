@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynamenetwork.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417042030id_/http%3A//www.babynamenetwork.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynamenetwork.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306171426id_/http%3A//www.babynamenetwork.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Baby Names, Baby Boy Names, Baby Girl Names, Baby Name Meanings
 
@@ -41,7 +41,7 @@ We may enter into alliances, partnerships or other business arrangements with th
 
 **The Controls You Have On Information You Share**
 
-If you do not want us to share contact, postal, e-mail address and demographic information with third party marketers, email [help@babynamenetwork.com](mailto:help@babynamenetwork.com). 
+If you do not want us to share contact, postal, e-mail address and demographic information with third party marketers, email [help@babynamenetwork.com](mailto:help@babynamenetwork.com). You can opt out of third party and advertising networks by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp).
 
 In addition, you may request to be removed from our membership list at any time by emailing [help@babynamenetwork.com](mailto:help@babynamenetwork.com). 
 
