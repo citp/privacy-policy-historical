@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privatenicheempire.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130223536id_/http%3A//www.privatenicheempire.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privatenicheempire.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306173536id_/http%3A//www.privatenicheempire.com/privacy.html) for the most accurate reproduction.*
 
 # Legal Forms
 
