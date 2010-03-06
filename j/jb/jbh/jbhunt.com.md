@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jbhunt.com privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031120437id_/http%3A//www.jbhunt.com/shared/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbhunt.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306010643id_/http%3A//www.jbhunt.com/shared/privacy.html) for the most accurate reproduction.*
 
 # J.B. Hunt - Privacy
 
