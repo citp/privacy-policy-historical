@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binverse.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227222133id_/http%3A//www.binverse.com/BNV/Shop/misc/miscShowPrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binverse.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306180200id_/http%3A//www.binverse.com/BNV/Shop/misc/miscShowPrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # Binverse Privacy Policy
 
@@ -8,7 +8,7 @@ At Binverse (the "Company," “Binverse,” "us," "we," or "our"), we recognize 
 
 _Note: You must be 18 years old or older to register as a customer of Binverse._
 
-If you have any questions please [contact](https://web.archive.org/web/20091227222133id_/http%3A//www.binverse.com/BNV/Shop/misc/miscShowContact.cfm?) our Customer Service Team. You may also write to us at: 
+If you have any questions please [contact](https://web.archive.org/web/20100306180200id_/http%3A//www.binverse.com/BNV/Shop/misc/miscShowContact.cfm?) our Customer Service Team. You may also write to us at: 
 
 2125 Center Avenue Suite 507  
 Fort Lee, NJ 07024  
