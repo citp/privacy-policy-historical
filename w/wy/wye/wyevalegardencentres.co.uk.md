@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the wyevalegardencentres.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217155935id_/http%3A//www.wyevale.co.uk/WYE_PRIVACY/WYE_PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyevalegardencentres.co.uk privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306173352id_/http%3A//www.wyevale.co.uk/WYE_PRIVACY/WYE_PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# Wyevale Garden Centres Limited | Privacy Policy
+# Privacy Policy | The Garden Centre Group Trading Limited
 
   
 
 
 ## **1\. Introduction**
 
-1.1 Wyevale Garden Centres Limited (“We/Us/Our”) is committed to safeguarding your privacy. The information that you provide to Us will only be used in accordance with this Privacy Policy. This Privacy Policy is intended to help you understand what information may be gathered from you and how We will use it.  
+1.1 The Garden Centre Group Trading Limited (“We/Us/Our”) is committed to safeguarding your privacy. The information that you provide to Us will only be used in accordance with this Privacy Policy. This Privacy Policy is intended to help you understand what information may be gathered from you and how We will use it.  
 1.2 By using this website (”Website”) you consent to Us using your information in accordance with the terms of this Privacy Policy. This Privacy Policy does not apply to third party sites.  
 1.3 If We amend this Policy We will post the changes on this page so that you are always aware of what information We collect and how We use it.  
 1.4 We do not accept any liability for and this Privacy Policy does not apply to any content or information contained in or collected from or submitted to any third party site that you access via any link from the Website.  
@@ -35,11 +35,11 @@
 
 please contact us by:
 
-**Email** – [customer_services@wyevale.co.uk](mailto:customer_services@wyevale.co.uk)   
+**Email** – [customer.services@thegardencentregroup.co.uk](mailto:customer.services@thegardencentregroup.co.uk)   
 **Telephone** 0844 800 8428; or
 
 **Post**  
-Wyevale Garden Centres Limited  
+The Garden Centre Group Trading Limited  
 258 Bath Road  
 Slough  
 Berkshire  
@@ -59,7 +59,9 @@ If we wish to pass your personal information to third parties in any other situa
 
 
 **6\. Data Protection**   
-6.1 We comply with the requirements of all data protection legislation in force in England and Wales from time to time. You have the right to receive a copy of the information We hold about you on written application. This will be information you have specifically provided to us during your visits to the Website or during the phone call. If you would like a copy of it please contact [customer_services@wyevale.co.uk](mailto:customer_services@wyevale.co.uk). We are entitled to charge the current statutory fee for providing you with such information. 
+6.1 We comply with the requirements of all data protection legislation in force in England and Wales from time to time. You have the right to receive a copy of the information We hold about you on written application. This will be information you have specifically provided to us during your visits to the Website or during the phone call. If you would like a copy of it please contact [customer.services@thegardencentregroup.co.uk](mailto:customer.services@thegardencentregroup.co.uk). We are entitled to charge the current statutory fee for providing you with such information. 
+
+Please note: This Privacy Policy relates to thegardencentregroup.co.uk only - it does not apply to The Gardening Club which features its own terms and conditions and can be seen at [www.yourgardeningclub.co.uk](http://www.yourgardeningclub.co.uk/)
 
   
 
