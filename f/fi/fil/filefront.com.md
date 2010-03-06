@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filefront.com privacy policy that was archived on 2009-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090729172711id_/http%3A//www.filefront.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filefront.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306205008id_/http%3A//www.filefront.com/privacy.php) for the most accurate reproduction.*
 
-# Video Game Downloads
+# Free Game Downloads - Game Demos, Game Videos, Game Mods
 
 Last Updated: April 10, 2009
 
