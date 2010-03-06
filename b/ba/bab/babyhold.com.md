@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babyhold.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619172914id_/http%3A//www.babyhold.com/Articles/Articles/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyhold.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306165121id_/http%3A//www.babyhold.com/Articles/Articles/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
