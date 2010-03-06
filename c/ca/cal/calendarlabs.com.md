@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calendarlabs.com privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119183906id_/http%3A//www.calendarlabs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendarlabs.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306183634id_/http%3A//www.calendarlabs.com/privacy.php) for the most accurate reproduction.*
 
 # CalendarLabs Privacy Policy
 
@@ -14,7 +14,7 @@ We may use your IP address to help diagnose problems with our server and to admi
 
 Our online surveys may ask visitors for contact information (such as their email address). The customer's contact information is used to contact the visitor when necessary.
 
-We may use third-party advertising companies to serve ads when you visit our website. These companies may use cookies to serve ads. They may also use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+We may use third-party advertising companies to serve ads when you visit our website. These companies may use cookies to serve ads. They may also use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
 CalendarLabs.com used social book marking service available from AddThis, LLC. For information about their policy, please visit www.addthis.com .
 
