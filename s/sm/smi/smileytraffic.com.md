@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smileytraffic.com privacy policy that was archived on 2009-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090317045731id_/http%3A//www.smileytraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smileytraffic.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306162905id_/http%3A//www.smileytraffic.com/privacy.php) for the most accurate reproduction.*
 
 # SmileyTraffic #1 Rated Traffic Exchange For Signups To Your Pages!
 
@@ -14,22 +14,22 @@
 Members Earnings  
 Since 03-22-04  
 Last Updated  
-03-16-09  
- **$27,151.24 43,408  
+03-05-10  
+ **$41,657.05 60,018  
 Total Members
 
-15  
+129  
 Pro Members  
-18  
+119  
 Premium Members  
-10  
+105  
 Ultimate Members  
-35  
+130  
 Partner Members
 
 NEW MEMBERS  
 This Month:  
-674
+312
 
 **  
 
@@ -47,7 +47,7 @@ We Are Proudly
 Running Off A  
 Dedicated Server  
 At  
-[**Ljscripts.com**](http://www.ljscripts.com/hosting/)
+[**Ljscripts.com**](http://www.ljscripts.com/affils.php?affid=smiley)
 
 Personal Information  
 Is NEVER EVER given out to anyone, this is collected to set up your account and for payment or contact with Smileytraffic.com.
