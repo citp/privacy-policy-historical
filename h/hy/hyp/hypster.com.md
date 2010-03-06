@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hypster.com privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214230902id_/http%3A//www.hypster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypster.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306180833id_/http%3A//www.hypster.com/privacy.php) for the most accurate reproduction.*
 
 # Hypster Myspace Standalone Player For Myspace Music Playlist Music Downloads
+
+[Click Here](http://beta.hypster.com/) to try out the new Hypster beta!
 
  
 
@@ -50,7 +52,7 @@ MISCELLANEOUS
 
 13\. Other Web Sites - The Web Site may contain links to other Web sites or Internet resources. When you click on one of those links you are contacting another Web site or Internet resource. hypster.com has no responsibility or liability for or control over those other Web sites or Internet resources or their collection, use and disclosure of your personal information.
 
-14\. [Web Site Use Agreement](https://web.archive.org/web/20090214230902id_/http%3A//UserAgreement.php) The Web Site Use Agreement governing your use of the Web Site (which may be viewed by clicking here) contains important provisions, including provisions disclaiming, limiting or excluding hypster.com's liability for your use of the Web Site and provisions determining the applicable law and exclusive jurisdiction for the resolution of any disputes regarding your use of the Web Site. Each of those provisions applies to any disputes that may arise in relation to this Policy and hypster.com's collection, use and disclosure of your personal information, and are of the same force and effect as if they had been reproduced directly in this Policy.
+14\. [Web Site Use Agreement](https://web.archive.org/web/20100306180833id_/http%3A//UserAgreement.php) The Web Site Use Agreement governing your use of the Web Site (which may be viewed by clicking here) contains important provisions, including provisions disclaiming, limiting or excluding hypster.com's liability for your use of the Web Site and provisions determining the applicable law and exclusive jurisdiction for the resolution of any disputes regarding your use of the Web Site. Each of those provisions applies to any disputes that may arise in relation to this Policy and hypster.com's collection, use and disclosure of your personal information, and are of the same force and effect as if they had been reproduced directly in this Policy.
 
 15\. Former Users - If you stop using the Web Site or your permission to use the Web Site is terminated, hypster.com may continue to use and disclose your personal information in accordance with this Policy as amended from time to time. However, if you want hypster.com to stop sending you unsolicited email and other information, or you do not wish hypster.com to disclose your personal information to Burned Media Ltd., trading partners or in business transactions, please notify hypster.com at [help@hypster.com](mailto:websupport@tomleemusic.ca).
 
