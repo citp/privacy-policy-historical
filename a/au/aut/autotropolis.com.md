@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the autotropolis.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210032202id_/http%3A//www.autotropolis.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotropolis.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306172010id_/http%3A//www.autotropolis.com/privacy.aspx) for the most accurate reproduction.*
 
-# Autotropolis Privacy Policy Highlights and Details
+# Privacy Policy
 
 Autotropolis.com Privacy Policy  
   
   
-**This Privacy Policy is effective as of January 1, 2007.**  
+**This Privacy Policy is effective as of January 1, 2006.**  
   
 Autotropolis.com (the "Site") takes your privacy seriously. The Site understands that privacy concerns are extremely important to our customers. We would like to assure you that we are committed to protecting your personal privacy and for that reason the Site has created this privacy policy. Please read the following to learn more about our privacy policy.   
   
