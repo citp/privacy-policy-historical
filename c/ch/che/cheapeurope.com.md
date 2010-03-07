@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapeurope.com privacy policy that was archived on 2009-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091030135402id_/http%3A//www.cheapeurope.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapeurope.com privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307230416id_/http%3A//www.cheapeurope.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : CheapEurope.com – Cheap Europe Flights, Hotels, Cars and More
 
@@ -32,6 +32,6 @@ We follow accepted industry standards to protect any personal information you ha
 
 **Contact Details**
 
-If you have any questions or concerns regarding this privacy policy, please email us at [help@cheapeurope.com](https://web.archive.org/%22///%22).
+If you have any questions or concerns regarding this privacy policy, please email us at help@cheapeurope.com.
 
 This privacy policy was last updated on 05/09/2008.
