@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the blackberry.com privacy policy that was archived on 2009-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091024034848id_/http%3A//na.blackberry.com/eng/legal/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackberry.com privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307044842id_/http%3A//na.blackberry.com/eng/legal/privacy_policy.jsp) for the most accurate reproduction.*
 
 # BlackBerry - BlackBerry | BlackBerry.com Privacy Policy from Research in Motion (RIM)
 
-  * [Printer Friendly Version](https://web.archive.org/web/20091024034848id_/http%3A//na.blackberry.com/eng/legal/privacy_policy.htm)
-  * [Downloadable Version](https://web.archive.org/web/20091024034848id_/http%3A//na.blackberry.com/eng/legal/RIM_Privacy_Policy.pdf) (PDF)
+  * [Printer Friendly Version](https://web.archive.org/web/20100307044842id_/http%3A//na.blackberry.com/eng/legal/privacy_policy.htm)
+  * [Downloadable Version](https://web.archive.org/web/20100307044842id_/http%3A//na.blackberry.com/eng/legal/RIM_Privacy_Policy.pdf) (PDF)
 
 
 
@@ -11,7 +11,7 @@ Research In Motion Limited and its subsidiaries and affiliates ("RIM") are commi
 
 ### Contact Information
 
-RIM welcomes your comments regarding this Privacy Policy. If you believe that we have not adhered to this Policy or if you wish to review or edit your personal information, please contact us by e-mail at _[webmaster@rim.com](mailto:webmaster@rim.com)_ , and we will use reasonable commercial efforts to address any concerns that you may have.
+RIM welcomes your comments regarding this Privacy Policy. If you believe that we have not adhered to this Policy or if you wish to review or edit your personal information, please contact us by e-mail at [webmaster@rim.com](mailto:webmaster@rim.com), and we will use reasonable commercial efforts to address any concerns that you may have.
 
 ### Collection of Personal Information
 
