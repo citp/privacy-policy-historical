@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wweshop.com privacy policy that was archived on 2009-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091008124637id_/http%3A//www.wweshop.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wweshop.com privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307033556id_/http%3A//www.wweshop.com/Privacy) for the most accurate reproduction.*
 
 # WWEShop - Privacy Policy
 
