@@ -1,45 +1,27 @@
-> *The following text is extracted and transformed from the uniteddogs.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624103218id_/http%3A//www.uniteddogs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniteddogs.com privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307150903id_/http%3A//www.uniteddogs.com/en/about/privacy) for the most accurate reproduction.*
 
-# Uniteddogs.com - dogs, puppies, doggies - dogs' home on the web
+# Privacy Policy (Uniteddogs)
 
-## Privacy Policy
+Welcome to uniteddogs.com and unitedcats.com, an online dogs'/cats' and dog/cat lovers' social networking service, operated by United Dogs and Cats Ltd (registered in Europe, Estonia). United Dogs and Cats cares deeply about online privacy. This Privacy Policy explains how we collect and use your personal identifying information. Please read this Privacy Policy carefully, and if you have any questions, please feel free to contact us. 
 
-Welcome to uniteddogs.com, an online dogs' and dog lovers' social networking service, operated by United Dogs and Cats Ltd (registered in Europe, Estonia). Uniteddogs.com cares deeply about online privacy. This Privacy Policy explains how we collect and use your personal identifying information. Please read this Privacy Policy carefully, and if you have any questions, please feel free to contact us.
-
-By using Uniteddogs.com, you consent to the collection and use of your personal information as outlined in the Privacy Policy. From time to time, we may update the Privacy Policy and we will post a notice of significant changes on the site. You should visit this page periodically to review any such changes to the Privacy Policy.
+By using Uniteddogs.com and Unitedcats.com, you consent to the collection and use of your personal information as outlined in the Privacy Policy. From time to time, we may update the Privacy Policy and we will post a notice of significant changes on the site. You should visit this page periodically to review any such changes to the Privacy Policy.
 
 ### The information we collect
 
-When you register to become a member of uniteddogs.com, we collect your name, email address and optionally your hometown or state and country. When you register your dog we collect the information you want to share about that canine, nickname, breed, age, likes, dislikes,etc. Your name and email will never be shared, rented, bartered or sold with other users or third-party companies. All information entered about your dog(s) will only be used by uniteddogs.com to display on the site and will never be shared, rented, bartered, sold or exchanged any other purposeful manner. The website, however, is accessible by anyone with an internet connection and a web browser, which means that any words and photos you post can be copied by any other internet user. That is the nature of the internet and though we discourage anyone from abusing that option, it is something that must be noted.
+When you register to become a member of uniteddogs.com and unitedcats.com, we collect your name, email address, your country and state, optionally your hometown. When you register your dog we collect the information you want to share about your pet. 
 
-We also collect other non-personally identifiable data, which may include your IP address and what browser you are using. This information as well is never shared with anyone.
+When you enter Uniteddogs and Unitedcas, we collect your browser type and IP address. This information is gathered for all Uniteddogs.com and Unitedcats.com visitors. In addition, we store certain information from your browser using "cookies." A cookie is a piece of data stored on the users' computer tied to information about the user. We use session ID cookies to confirm that users are logged in. These cookies terminate once the user closes the browser, unless you choose to remember your session with our site. By default, we use a persistent cookie that stores your login ID (but not your password) to make it easier for you to login when you come back to Uniteddogs and Unitedcats. You can remove or block this cookie using the settings in your browser if you want to disable this convenience feature. 
 
-### How we use your information
+When you use Uniteddogs and Unitedcats, you may set up your personal profile for yourself and your dog(s) and cats(s), form relationships, send messages, perform searches, form clubs, and transmit information through various channels. We collect this information so that we can provide you the service and offer personalized features. In most cases, we retain it so that, for instance, you can return to view prior messages you have sent or easily see your animals’ buddies list. 
 
-We will display your personal information on your profile according to the preferences you set in your account. We will use your name so that we can personalize your experience. We will use your email address to contact you from time to time and we will use your email address for security reasons to confirm that you are who you say you are. You can control the types and frequencies of certain emails you receive.
+When you invite your friends to see your dog or cat profiles or send messages through Uniteddogs and Unitedcats, we collect and maintain information associated with those messages, including email addresses and content. 
 
-We may use the non-personally identifiable information, like your IP address, to statistically analyze site usage and to customize our site's content, layout and services. The resulting information will allow us to improve our site and better understand and serve our users.
+You post your and your pets personal information on Uniteddogs and Unitedcats at your own risk. Under profile settings you can limit access to your personal information, please be aware that no security measures are perfect or impenetrable. We can’t control the actions of other users or visitors with whom you may choose to share your and your pets pages and information. Therefore, we cannot and do not guarantee that user and pets’ information you post on Uniteddogs or Unitedcats will not be viewed by unauthorized persons. United Dogs and Cats is not responsible for circumvention of any privacy settings or security measures contained on the Unitedcats.com and Uniteddogs.com. You understand and acknowledge that, even after removal, copies of user and pet information may remain viewable in cached and archived pages or if other users or visitors have copied or stored your user or pet information. 
 
-### Legal requests
+Access and control over user personal and pets’ information on Uniteddogs and Unitedcats is readily available under profile settings. Uniteddogs and Untiedcats users may modify or delete any of their profile information and their pets profiles information at any time by logging into their account. Individuals who wish to deactivate their Uniteddogs and Unitedcats account or their pets profiles may do so by sending a request to info[at]uniteddogs.com . Removed information may persist in backup copies for a reasonable period of time but will not be generally available to members or visitors of Uniteddogs and Unitedcats. 
 
-We will disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority or to protect the rights and property of Uniteddogs.com, its affiliates or the public. We may also cooperate with law enforcement agencies in any official investigation and we may disclose your personally identifiable information to the relevant agency in doing so.
+Uniteddogs and Unitedcats takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of Uniteddogs or Unitedcats websites, please contact us at through our email. 
 
-### Controlling your personal information
+### Users under 13
 
-You have complete control of the information you submit to Uniteddogs.com. You may at anytime edit any information or remove your dog and personal accounts entirely.
-
-### Cookies
-
-Cookies are a standard Internet technology, and many major web sites use them to provide useful features for their members. Cookies allow us to store and retrieve login information on a user's system. They provide us with data that we can use to improve the quality of our service and make it easier to use. Most browsers are initially set up to accept cookies. If you'd prefer, you can set yours to refuse cookies. However, you may not be able to take full advantage of our web site if you do so.
-
-### External links
-
-Uniteddogs.com may contain links to other web sites. These other sites maintain their own policies regarding cookies and the collection and use of personal information.
-
-### Acquisition
-
-We reserve the right to transfer your personal information in the event of a transfer of ownership of Uniteddogs.com, such as acquisition by or merger with another company. If an acquiring company should plan to materially change this privacy policy, we will notify you beforehand.
-
-### Security
-
-The security of your personal information depends on your protection of your account password. Please do not disclose your account password to unauthorized people. We use industry standard security measures to protect your information so that it is not made available to unauthorized parties. If you have any questions regarding which measures and techniques we use, feel free to contact us.
+Uniteddogs and Unitedcats does not allow knowingly any children under the age of 13 register on the site. If you are under 13 please do not register and lye about your age. This is a really serious matter! If we find out that user is under the age of 13 then the account will be deleted. 
