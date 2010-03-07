@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gourmandia.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603095546id_/http%3A//www.gourmandia.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gourmandia.com privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307025951id_/http%3A//www.gourmandia.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Gourmet Recipe videos from Michelin Ranked Epicurean Chefs- Gourmandia
 
