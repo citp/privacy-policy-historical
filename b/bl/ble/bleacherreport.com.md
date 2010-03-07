@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bleacherreport.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207222424id_/http%3A//bleacherreport.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleacherreport.com privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307051808id_/http%3A//bleacherreport.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -106,3 +106,6 @@ Bleacher Report may amend this Privacy Policy from time to time, at our sole dis
 Please e-mail [privacy@bleacherreport.com.](mailto:privacy@bleacherreport.com)
 
 [Back to the Terms of Use](http://beta.bleacherreport.com/pages/terms) 
+
+Certain photos copyright © 2010 by Getty Images.  
+Any commercial use or distribution without the express written consent of Getty Images is strictly prohibited.
