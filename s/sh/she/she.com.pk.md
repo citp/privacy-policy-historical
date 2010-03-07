@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the she.com.pk privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211074401id_/http%3A//www.she.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the she.com.pk privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307050430id_/http%3A//www.she.com.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 If you need more information about She.com.pk , please Contact Us  
-Any personal information you (”You”/”Member”) give us is treated confidentially and held with care and security.  
+Any personal information you (“You”/”Member”) give us is treated confidentially and held with care and security.  
 Please read the following statement to understand how we use your personal information. This policy may change from time to time so please check back on a regular basis.  
 **How we gather information:**
 
