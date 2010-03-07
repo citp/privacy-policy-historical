@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openair.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419143811id_/http%3A//www.openair.com/home/NewSite/s_a_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openair.com privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307151017id_/http%3A//www.openair.com/s_a_privacy.html) for the most accurate reproduction.*
 
 # OpenAir Privacy Statement
 
@@ -9,7 +9,7 @@
 In this Website Privacy Statement ("statement"), we, OpenAir, Inc., provide information about how we collect, use and transfer personally identifiable data from you, an individual person and website visitor, through OpenAir's publicly accessible websites (any of our websites such as [www.OpenAir.com](https://web.archive.org/) that can be accessed without a password) and on which we post a direct link to this statement (collectively the "site"). 
 
 **Scope**  
-This statement covers only data collected through the site and not any other data collection or processing, including, without limitation, data collection practices of webpages to which the site links, or data that we or our affiliates collect offline or through webpages that do not display a direct link to this statement, for example the OpenAir applications on which we host data for registered customers. The scope of our Safe Harbor Certification is defined by our [General EEA Safe Harbor Notice](https://web.archive.org/home/NewSite/s_a_safeharbor.html). 
+This statement covers only data collected through the site and not any other data collection or processing, including, without limitation, data collection practices of webpages to which the site links, or data that we or our affiliates collect offline or through webpages that do not display a direct link to this statement, for example the OpenAir applications on which we host data for registered customers. The scope of our Safe Harbor Certification is defined by our [General EEA Safe Harbor Notice](https://web.archive.org/web/20100307151017id_/http%3A//www.openair.com/s_a_safeharbor.html). 
 
 **Types of Data and Collection Methods**  
 Through the site, we receive data that you actively submit as well as data that we track: 
