@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakthroughbasketball.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416171431id_/http%3A//www.breakthroughbasketball.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakthroughbasketball.com privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307034604id_/http%3A//www.breakthroughbasketball.com/privacypolicy.html) for the most accurate reproduction.*
 
 # BreakthroughBasketball.com Privacy Policy
 
@@ -12,7 +12,7 @@
 
 
 
-Plus you’ll get ALL updates to this website delivered to your inbox for free. **93,606** other coaches, players, and parents have already subscribed.
+Plus you’ll get ALL updates to this website delivered to your inbox for free. Over 100,000 other coaches, players, & parents have already subscribed.
 
 We will never send you spam or share your email address, guaranteed!
 
