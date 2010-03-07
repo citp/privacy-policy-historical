@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rankonesport.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218105242id_/http%3A//www.rankonesport.com/%3Fm%3DContent%26n%3DPrivacy_Policy%26i%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankonesport.com privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307103711id_/https%3A//www.rankonesport.com/%3Fm%3DContent%26n%3DPrivacy_Policy%26i%3D7) for the most accurate reproduction.*
 
-# RankOneSport.com .:. PRIVACY POLICY
+# PRIVACY POLICY
 
     Rank One Sport LP, a Texas limited partnership (“ROS”), has created this Privacy Policy in order to demonstrate our firm commitment to the privacy of your personal information. The following discloses our information gathering and dissemination practices for the site located at[www.rankonesport.com](http://www.rankonesport.com/) and other affiliated websites owned and operated by ROS and its affiliates (the “Site”).
 
@@ -41,7 +41,7 @@ Our Site also utilizes web analytics to determine which aspects of the Site resu
 Security
 
     For your security, certain portions of our Site are encrypted with Secure Sockets Layer Protocol (“SSL”) technology on both the client and server end.  VeriSign has issued ROS a unique ID, which assures visitors that they have reached our authenticated Site, thereby allowing communications to be encrypted.  In order for 128-bit SSL to work, though, you must have a browser that supports SSL technology.  
-Please note that e‑mail may not be encrypted and cannot be considered a secure means of transmitting sensitive information.  ROS will never ask you to submit your financial data such as your credit card account numbers via e-mail.
+Please note that eâ€‘mail may not be encrypted and cannot be considered a secure means of transmitting sensitive information.  ROS will never ask you to submit your financial data such as your credit card account numbers via e-mail.
 
   
     This website takes every reasonable precaution to protect our users’ information.  When users submit sensitive information via the website, your information is protected both online and off-line.  When our order form asks users to enter sensitive information, that information is encrypted and is protected with the encryption software in the industry - SSL. While on a secure page the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’.
