@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinahighlights.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230232425id_/http%3A//chinahighlights.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinahighlights.com privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307022627id_/http%3A//www.chinahighlights.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy and Security - China Highlights
 
@@ -40,14 +40,5 @@ All other personal information ****
 **Credit card information**
 
 \- To pay for your travel services
-
-##### Customer Testimonials
-
-[9 Days Beijing, Guilin, Yangshuo, Longsheng, Sanjiang, Zhaoxing, Congjiang, Basha, Xijiang, Guiyang Tour](https://web.archive.org/feedback/2009/12/T90923012.htm)
-[5 Days Shenzhen, Xian, Beijing Tour](https://web.archive.org/feedback/2009/12/F90901007.htm)
-[1 Day Mutianyu Great Wall Tour](https://web.archive.org/feedback/2009/12/RZ91203006.htm)
-[13 Days Beijing, Xian, Chongqing, Yangtze, Yichang, Shanghai Tour](https://web.archive.org/feedback/2009/12/N90304006.htm)
-[12 Days Beijing, Xian, Shanghai, Guilin, Hong Kong Tour](https://web.archive.org/feedback/2009/12/L91003015.htm)
-[23 Days Shanghai, Hangzhou, Xian, Guilin, Yangshuo Tour](https://web.archive.org/feedback/2009/12/U91026032.htm)
 
 [](https://web.archive.org/forms/tailormadetours.htm)
