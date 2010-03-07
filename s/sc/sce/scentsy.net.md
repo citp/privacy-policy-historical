@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scentsy.net privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105195529id_/http%3A//www.scentsy.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scentsy.net privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307055422id_/http%3A//www.scentsy.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Scentsy: The Hottest New Thing in Candles
 
