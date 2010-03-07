@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the mindflash.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628071048id_/http%3A//www.mindflash.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindflash.com privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307143347id_/http%3A//www.mindflash.com/privacy.html) for the most accurate reproduction.*
 
-# mindflash online learning | privacy policy
+# Easy Online Training - Privacy Policy | Mindflash
 
 WEBSITE PRIVACY POLICY EFFECTIVE DATE: February 6, 2009
 
-1\. INTRODUCTION  
-1.1. PURPOSE OF POLICY. Mindflash Technologies, Inc. ("us," "we," or "Company") is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (the "Site"). We created this Website Privacy Policy (this "Policy") to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy. 
+1\. INTRODUCTION
+
+1.1. PURPOSE OF POLICY. Mindflash Technologies, Inc. ("us," "we," or "Company") is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (the "Site"). We created this Website Privacy Policy (this "Policy") to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to the Site, and not to any other Websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy. 
 
 1.2. NOTICE CONCERNING CHILDREN 
 
@@ -21,7 +22,7 @@ In operating the Site, Company may include registration, online surveys, and oth
 
 (a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors' domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous "traffic data" that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer. 
 
-(b) COOKIES. From time to time, we may use the standard "cookies" feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Web site. We do not set any personally identifiable information in cookies, nor do we employ any data capture mechanisms on our website other than cookies. Cookies help us learn which areas of our site are useful and which areas need improvement. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at our Web site may be diminished and some features may not work as they were intended. 
+(b) COOKIES. From time to time, we may use the standard "cookies" feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Website. We do not set any personally identifiable information in cookies, nor do we employ any data capture mechanisms on our Website other than cookies. Cookies help us learn which areas of our site are useful and which areas need improvement. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at our Website may be diminished and some features may not work as they were intended. 
 
 3\. USE AND SHARING OF INFORMATION 
 
@@ -35,7 +36,7 @@ In operating the Site, Company may include registration, online surveys, and oth
 
 (d) DISCLOSURE OF PERSONAL INFORMATION. We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on Company or its parent company, subsidiaries or affiliates, (2) protect and defend the rights or property of Company or the users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site. 
 
-(e) SALE OF INFORMATION. In order to accommodate changes in our business, we may sell or buy portions of our company or other companies or assets, including the information collected through this Web site. If Company or substantially all of its assets are acquired, customer information will be one of the assets transferred to the acquirer. 
+(e) SALE OF INFORMATION. In order to accommodate changes in our business, we may sell or buy portions of our company or other companies or assets, including the information collected through this Website. If Company or substantially all of its assets are acquired, customer information will be one of the assets transferred to the acquirer. 
 
 (f) ACCESS TO INFORMATION. Unfortunately, we do not maintain any procedures for you to review or request changes to some of the information that we collect about you. If you have administrative privileges you may be able to modify the account information that is modifiable in the Administration Portal. However, we reserve the right to change the information that is modifiable in the Administration Portal at any time without notice. Furthermore, you may request that we deactivate your account by contacting us in accordance with Section 6.1 below. 
 
@@ -51,14 +52,15 @@ The Site may include interactive forums such as virtual classrooms, message boar
 
 5.2. THIRD PARTY WEBSITES 
 
-The Site may contain links to other websites. If you choose to visit other websites, we are not responsible for the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies. 
+The Site may contain links to other Websites. If you choose to visit other Websites, we are not responsible for the privacy practices or content of those other Websites, and it is your responsibility to review the privacy policies at those Websites to confirm that you understand and agree with their policies. 
 
 6\. CONTACT INFORMATION AND POLICY UPDATES 
 
 6.1. CONTACTING US 
 
-If you have any questions about this Policy, our practices related to this Site please feel contact us at the following: [support@mindflash.com](mailto:support@mindflash.com)
+If you have any questions about this Policy, our practices related to this Site please feel contact us at the following: support@mindflash.com 
 
 6.2. UPDATES AND CHANGES 
 
-We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms. You agree that, by continuing to use or access the Site following any update or change, you shall be bound by any such update or change. 
+We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms. You agree that, by continuing to use or access the Site following any update or change, you shall be bound by any such update or change.  
+
