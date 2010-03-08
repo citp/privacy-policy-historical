@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toolorbit.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606210241id_/http%3A//www.toolorbit.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolorbit.com privacy policy that was archived on 2010-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100308124840id_/http%3A//www.toolorbit.com/Privacy-Policy.html) for the most accurate reproduction.*
 
-# ToolOrbit.com | Power Tools | Cordless Tools | Air Tools | Hand Tools | Woodworking Tools
+# Privacy Policy | ToolOrbit.com
 
   
 Thank you for visiting our web site. ToolOrbit.com values the relationship we have with our customers and we are committed to responsible information handling practices. Your privacy on the Internet is important to us. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted. 
