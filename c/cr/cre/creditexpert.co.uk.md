@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the creditexpert.co.uk privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216154319id_/http%3A//www.creditexpert.co.uk/PrivacyInfo.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditexpert.co.uk privacy policy that was archived on 2010-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100308045343id_/http%3A//www.creditexpert.co.uk/PrivacyInfo.aspx%3FSiteVersionID%3D604%26SiteID%3D100002%26sc%3D990604%26bcd%3D) for the most accurate reproduction.*
 
 # CreditExpert.co.uk
 
 ## Who are we?
 
-Experian Limited is part of a group of companies, whose parent company is Experian plc which is listed on the London Stock Exchange (EXPN). For more information, visit the Experian group’s website on www.experiangroup.com. The Experian group of companies has its corporate headquarters in Dublin, Ireland, and operational headquarters in Costa Mesa, California and Nottingham, UK. References to 'Experian' in this privacy policy are to Experian Limited. 
+Experian Limited is part of a group of companies, whose parent company is Experian plc which is listed on the London Stock Exchange (EXPN). For more information, visit the Experian group´s website on www.experiangroup.com. The Experian group of companies has its corporate headquarters in Dublin, Ireland, and operational headquarters in Costa Mesa, California and Nottingham, UK. References to 'Experian' in this privacy policy are to Experian Limited. 
 
 The word "EXPERIAN", and the square and dots graphical device in respect of Experian and "CreditExpert" are trade marks of Experian Limited and/or its associated companies and may be registered in the EU, USA and other countries. The square and dots graphical device is a registered Community design in the EU. All rights reserved. 
 
@@ -106,13 +106,13 @@ Our Privacy Policy will be reviewed and enhanced from time to time and you shoul
 
 Back to top
 
-## Data Transfers
+## Data transfers
 
 Because we operate throughout the world in providing our goods and services, this may involve us transferring your personal information to countries whose data protection laws do not provide the same level of protection as those in the UK. If we do so, we will ensure that an agreement is in place in which anyone to whom we pass the information agrees to treat it with the same level of protection as if we were dealing with it. 
 
 Back to top
 
-## Third Parties
+## Third parties
 
 We may supplement the information that you provide to us with information that we receive from third parties. 
 
@@ -128,17 +128,10 @@ We may disclose any of the information that we collect to other companies within
   * We may also wish to pass your contact details to other selected organisations outside of the Group with whom we have a business relationship and which may wish to contact you about goods, services and events in which you may be interested. You will not receive such marketing unless you agree to do so. 
   * In addition, we may disclose all of the information we collect, as described above, to companies that perform services on our behalf such as credit card processors, data management firms or call centre providers and data may be hosted outside the European Economic Area by such companies. 
   * We may use third-party advertising companies to serve advertisements about our products and services on our behalf. 
-  * We will check your details with the records we hold and with other fraud prevention agencies. If you provide false or inaccurate information and we suspect fraud, we will record this. Other organisations may use and search these records to: 
-    * Help make decisions about credit and credit related services, for you and members of your household 
-    * Help make decisions on motor, household, credit, life and other insurance proposals and insurance claims, for you and members of your household 
-    * Trace debtors, recover debt, prevent fraud, and to manage your accounts or insurance policies 
-    * Check your identity to prevent money laundering, unless you provide other satisfactory proof of identity. 
 
 
 
 This web site may contain links for other offers and services that we feel you may have an interest in. We believe these sites share a similar commitment to consumer privacy and urge you to review their privacy policy when visiting their sites. We cannot, however, be responsible for their privacy and data use practices. 
-
-Back to top
 
 ## Your rights to access your personal information
 
