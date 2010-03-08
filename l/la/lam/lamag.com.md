@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lamag.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201021753id_/http%3A//www.lamag.com/reader_services/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamag.com privacy policy that was archived on 2010-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100308112550id_/http%3A//lamag.com/reader_services/privacy.aspx) for the most accurate reproduction.*
 
 # Los Angeles Magazine Reader Services
 
