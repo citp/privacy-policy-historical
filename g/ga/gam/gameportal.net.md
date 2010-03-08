@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameportal.net privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416022730id_/http%3A//www.spilgames.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameportal.net privacy policy that was archived on 2010-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100308122857id_/http%3A//www.spilgames.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Spil games - privacy policy
 
@@ -6,11 +6,11 @@
 
 PRIVACY POLICY
 
-This privacy policy (hereinafter the “Privacy Policy”) is applicable to this website and to all games and other activities that are offered by SPIL GAMES B.V. with its offices at Arendstraat 23, 1223 RE, Hilversum, the Netherlands, (hereinafter referred to as “SPIL”) on or through this website (this website and such games and activities hereinafter collectively referred to as the “Website”). SPIL is the responsible party as referred to in the Dutch Personal Data Protection Act (Wet bescherming persoonsgegevens). SPIL may use affiliates’ or reputable third parties’ services for the processing of personal data collected on or through the Website. 
+This privacy policy (hereinafter the "Privacy Policy") is applicable to this website and to all games and other activities that are offered by SPIL GAMES B.V. with its offices at Arendstraat 23, 1223 RE, Hilversum, the Netherlands, (hereinafter referred to as "SPIL") on or through this website (this website and such games and activities hereinafter collectively referred to as the "Website"). SPIL is the responsible party as referred to in the Dutch Personal Data Protection Act (Wet bescherming persoonsgegevens). SPIL may use affiliates' or reputable third parties' services for the processing of personal data collected on or through the Website. 
 
 **1.** |  **General data of visitors of the Website**  
 ---|---  
-|  When you visit the Website, our servers automatically save your computer’s IP address. IP addresses will be collected along with information about the actual webpages that you visit on the Website. If you arrived at the Website via a link from another website, the URL of the linking website and the website that you might link to next will also be collected.   
+|  When you visit the Website, our servers automatically save your computer's IP address. IP addresses will be collected along with information about the actual webpages that you visit on the Website. If you arrived at the Website via a link from another website, the URL of the linking website and the website that you might link to next will also be collected.   
   
 **2.** |  **Cookies and web beacons**  
 ---|---  
