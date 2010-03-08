@@ -1,24 +1,24 @@
-<!--The following is the downloaded HTML source of the pickmanager.com privacy policy that was archived on 2009-09-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090904034046id_/http%3A//www.pickmanager.com/www/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pickmanager.com privacy policy that was archived on 2010-03-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100308095946id_/http%3A//www.pickmanager.com/www/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head>
         <title>PickManager.com - 2009 Fantasy Football - Play All You Want, Win All You Can</title>
         
         <link rel="icon" type="image/png" href="/pickmgr_icon.png">
 
-        <link rel="stylesheet" type="text/css" href="http://static.dellsports.com/pickmanager/styles/general.css" media="screen">
-        <link rel="stylesheet" href="http://static.dellsports.com/pickmanager/styles/jquery.tabs.css" type="text/css" media="print, projection, screen">
+        <link rel="stylesheet" type="text/css" href="http://cdn.dellsports.com/pickmanager/styles/general.css" media="screen">
+        <link rel="stylesheet" href="http://cdn.dellsports.com/pickmanager/styles/jquery.tabs.css" type="text/css" media="print, projection, screen">
         <!--[if lte IE 7]>
-        <link rel="stylesheet" href="http://static.dellsports.com/pickmanager/styles/jquery.tabs-ie.css" type="text/css" media="projection, screen">
+        <link rel="stylesheet" href="http://cdn.dellsports.com/pickmanager/styles/jquery.tabs-ie.css" type="text/css" media="projection, screen">
         <![endif]-->
 				
-				<link rel="stylesheet" href="http://static.dellsports.com/pickmanager/styles/assets/menus/menus.css" type="text/css" media="print, projection, screen">
+				<link rel="stylesheet" href="http://cdn.dellsports.com/pickmanager/styles/assets/menus/menus.css" type="text/css" media="print, projection, screen">
 
         
-        <script type="text/javascript" src="http://static.dellsports.com/pickmanager/scripts/jquery.js"></script>
-        <script type="text/javascript" src="http://static.dellsports.com/pickmanager/scripts/jquery.tabs.js"></script>
-        <script type="text/javascript" src="http://static.dellsports.com/pickmanager/scripts/lib.js"></script>
-				<script type="text/javascript" src="http://static.dellsports.com/pickmanager/scripts/dropdownmenu.js"></script>        <script type="text/javascript" src="http://static.dellsports.com/pickmanager/scripts/AC_RunActiveContent.js"></script>
+        <script type="text/javascript" src="http://cdn.dellsports.com/pickmanager/scripts/jquery.js"></script>
+        <script type="text/javascript" src="http://cdn.dellsports.com/pickmanager/scripts/jquery.tabs.js"></script>
+        <script type="text/javascript" src="http://cdn.dellsports.com/pickmanager/scripts/lib.js"></script>
+				<script type="text/javascript" src="http://cdn.dellsports.com/pickmanager/scripts/dropdownmenu.js"></script>        <script type="text/javascript" src="http://cdn.dellsports.com/pickmanager/scripts/AC_RunActiveContent.js"></script>
         
         <meta name="keywords" content="">
         <meta name="description" content="">
@@ -185,7 +185,78 @@ color:#000000;
 text-align:center;
 vertical-align:bottom;
 font-size:13px;
-font-weight:500;}</style><div style="background-color: #FFF;">    <table class="content_table" cellspacing="0" cellpadding="0">
+font-weight:500;}</style>					<script type="text/javascript" src="http://cdn.dellsports.com/imagesapp/js/jquery.js"></script>
+					<div id="dellsupercontainer" style="width:624px;background-color:#fff;">
+						<style type="text/css">
+							#poploginwindow a,#poploginwindow img {border:0;}
+							#poploginwindow {display:none;position:fixed;z-index:90005;border:4px solid #aaa;background:#f7f7f7;width:375px;}
+							#poploginwindow {-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;}
+							#poploginwindow {-moz-box-shadow:0 0 20px #333;-webkit-box-shadow:0 0 20px #333;box-shadow:0 0 20px #333;}
+							
+							#poploginwindow form {text-align:left;}
+							#poploginwindow form span {display:block;font-size:11px;height:11px;line-height:11px;}
+							#poploginwindow .formcontainer {padding:10px 15px;}
+							#poploginwindow h1 {background:#333;padding:5px;font-size:12px;color:#fff;font-weight:bold;}
+							#poploginwindow .textfield {width:333px;border:1px solid #555;font-weight:bold;margin:0;padding:5px;line-height:16px;font-size:16px;}
+							#poploginwindow label {font-size:12px;font-weight:bold;margin:0;padding:0;}
+							
+							#poploginwindow .poploginerror {display:none;padding:7px;margin-bottom:10px;background:#eee2ce;color:#b07714;border-top:1px solid #af8234;border-bottom:1px solid #af8234;}
+							#poploginwindow .troubleloggingin {color:#a9293e;font-weight:bold;;float:left;display:block;padding:8px 0 0 0;}
+							#poploginwindow .troubleloggingin:hover {text-decoration:underline;}
+							
+							#poploginwindow .noaccountyet {text-align:center;padding:10px 15px;background:#ddd;}
+						</style>
+						
+						<script type="text/javascript">
+							function ExecuteLogin() {
+								var f = $("form#poploginform"),params = {};
+								params.service = "login";
+								
+								params.memberid = $.trim(f.find("input#mumemberid").val());
+								params.password = $.trim(f.find("input#mypassword").val());
+								
+								if (params.memberid != "" && params.password != "") {
+									$.post("/www/login/",params,function(r){
+										if (r.success) {
+											window.location = "/www/index/";
+										}
+										else {
+											f.find("div#poploginerror").html("Login attempt failed. Please try again.").show().fadeOut().fadeIn();
+										}
+									},"json");
+								}
+								else {
+									f.find("div#poploginerror").html("Username and/or Password cannot be empty.").show().fadeOut().fadeIn();
+								}
+								
+								return false;
+							}
+						</script>
+						<div id="poploginwindow">
+							<form id="poploginform" method="post" onsubmit="return ExecuteLogin()" action="http://www.pickmanager.com/www/login">
+								<h1>Please Login or Register before continuing</h1>
+								<div class="formcontainer">
+									<label for="mumemberid">Username or email:</label>
+									<input id="mumemberid" type="text" name="memberid" class="textfield">
+									<span>&nbsp;</span>
+									<label for="mypassword">Password:</label>
+									<input id="mypassword" type="password" name="password" class="textfield">
+									<span>&nbsp;</span>
+									<div class="poploginerror" id="poploginerror"></div>
+									<div style="text-align:right;">
+										<a href="/www/logintrouble/" class="troubleloggingin">Trouble logging in?</a>
+										<img src="http://www.dellsports.com/dellButton?t=Cancel&amp;c=883434" onclick="VISITORSYS.toggle();" style="cursor:pointer;">
+										<input type="image" src="http://www.dellsports.com/dellButton?t=Login&amp;c=343434">
+									</div>
+								</div>
+							</form>
+							<h1>Don't have an account?</h1>
+							<div class="noaccountyet">
+								<a href="http://www.pickmanager.com/www/register"><img src="http://www.dellsports.com/dellButton?t=Click+here+to+REGISTER&amp;c=883434"></a>
+							</div>
+						</div>
+						
+				    <table class="content_table" cellspacing="0" cellpadding="0">
       <tbody><tr>
         <td rowspan="2" class="left_menu_column">
 	<div class="leftmenu_container">
