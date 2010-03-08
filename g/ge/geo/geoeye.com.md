@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geoeye.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204132910id_/http%3A//www.geoeye.com/CorpSite/orphans/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geoeye.com privacy policy that was archived on 2010-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100308111143id_/http%3A//www.geoeye.com/CorpSite/orphans/privacy-policy.aspx) for the most accurate reproduction.*
 
 # GeoEye › Privacy Policy
 
