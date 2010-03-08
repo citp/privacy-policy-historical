@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the miramax.com privacy policy that was archived on 2009-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091231122040id_/http%3A//www.miramax.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the miramax.com privacy policy that was archived on 2010-03-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100308140824id_/http%3A//miramax.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -16,153 +16,87 @@
 
 	<meta name="pageName" content="Privacy Policy">
 	
-<script type="text/javascript">
-//<![CDATA[
-
-var prog = 3;
-var progBlur = 4;
-var suggestResult = "";
-
-var currentIdSuggestion = -1;
-var suggestResponses = 0;
-var tempStyle = "";
-var ssTitles = new Array();
-		  
-
-function navStyle(val){
-	if(currentIdSuggestion ==-1){
-		currentIdSuggestion = 0;
-		tempStyle = "";
-	}else if(currentIdSuggestion >= suggestResponses-1 && val > 0){
-		currentIdSuggestion = currentIdSuggestion;
-	}else{
-		$("#sR"+currentIdSuggestion).css("background","");
-		currentIdSuggestion = currentIdSuggestion + (val);
-		tempStyle = "";
-	}
-	$("#sR"+currentIdSuggestion).css("background","#036AC7");
-}
-
-function overSSLink(isOver, cId){
-	if(currentIdSuggestion != -1){
-		$("#sR"+currentIdSuggestion).css("background","");		
-	}
-	if(isOver == 1)
-		tempStyle = "";
-		$("#sR"+cId).css("background","#036AC7");
-	if(isOver == 0)
-		$("#sR"+cId).css("background","");
-}
-
-function resetCount(){
-	prog = 0;
-	currentIdSuggestion = -1;
-	suggestResponses = 0;
-}
-
-function resetCountBlur(){
-	progBlur =0;
-}
-
-function countProgress(){
-	prog ++;
-	progBlur++;
-	search();
-}
-
-function search(){
-	var valSearchBox = $("#Mfinder").val();
-
-	if(valSearchBox == " ") return false;	
-	if(valSearchBox == "Search for Films and More...") return false;	
-	var suggestResults = "";
-	if (prog == 1 && valSearchBox!=""){		
-	valSearchBox = jQuery.trim(valSearchBox);
-	if(valSearchBox.substring(0,1) == "?" ||  valSearchBox.substring(0,1) == "*" || valSearchBox.substring(0,1) == " "){
-		valSearchBox = valSearchBox.substring(1);		
-	}
-	$("#suggestResultsDiv").html("<ul><li>searching for suggestions...</li></ul>");
-	$.Tache.Get({
-		type: "GET",
-		url:"/ajax/searchSuggest.action?searchText="+valSearchBox+"&fieldList=name,uriName",
-		dataType:"json",
-		success: function(responseObject){
-					suggestResults += "<ul>";
-					suggestResponses = responseObject.response.docs.length;
-					currentIdSuggestion = -1;
-					if(suggestResponses > 0){
-						for(i=0; i<responseObject.response.docs.length; i++){
-							ssTitles[i] = responseObject.response.docs[i].uriName;
-							suggestResults += "<a href=\"/"+responseObject.response.docs[i].uriName.replace(/-/g, '')+"/\"><div id='suggestion"+i+"' onclick=\"topHide('suggestBox');\" style='cursor:pointer;'>";					
-							if(i%2==0){
-								suggestResults +="<li class='odd' id='sR"+i+"' onmouseover='overSSLink(1,"+i+")' onmouseout='overSSLink(0,"+i+")'>";
-							}else{
-								suggestResults += "<li id='sR"+i+"' onmouseover='overSSLink(1,"+i+")' onmouseout='overSSLink(0,"+i+")'>";
-							}
-							suggestResults +="";
-							suggestResults += "<div style='width:90%;' id='suggestionR"+i+"'>"+responseObject.response.docs[i].name + "</div></li></div></a>";	
-						}
-				}else{
-					suggestResults += "<li>Click GO to perform your search!</li>";
-				}
-				suggestResults += "</ul>";
-				$("#suggestResultsDiv").html(suggestResults);
-				//alert(suggestResults);
-				return responseObject;
-   		     }
-		});
-	//topShow("suggestBox");
-	$("#suggestBox").slideDown("slow");
-
-	}
-	if(progBlur == 1){
-		$("#suggestBox").slideUp("slow");
-	}
-}
-
-function goToSearchPage(isEnter){
-	if(currentIdSuggestion != -1 && isEnter == 1 ){
-		window.location = "/"+ssTitles[currentIdSuggestion]+".html";	
-	}else{
-		var valSearchBox = $("#Mfinder").val();
-		if(valSearchBox != "" && valSearchBox != " " && valSearchBox != "Search for Films and More...") {
-			window.location = "/search.html?q="+valSearchBox+"&rows=10&start=0&sort=closest";
-		} else {
-			return false;
-		}
-	}
-}
-//]]>
-</script>
-
-
-
 </head>
 
 <body id="dvdbluray">
 <!-- page name dvdbluray -->
 
-<div id="container">
+<!-- this function returns the different vendor names for products inside a title    -->
 
-                <div id="bg-top"></div>
-	<div class="bg-grad" id="grad">
 
-               </div>		
+<!-- this function returns the different vendor names for products inside a title    -->
 
-			   <div class="searchMXBox">
-				<form action="">
-					<input type="text" class="findTextbox" id="Mfinder" name="Mfinder" value="Search for Films and More..." onblur="resetCountBlur();" autocomplete="off" onfocus="if(this.value =='Search for Films and More...')this.value ='';this.style.color='#FFFFFF'">
-					<input type="image" class="findButton" src="http://media.miramax.com/managed/searchButton.jpg" name="op" value="Go" onclick="goToSearchPage(0);return false;">   
-				</form>
-         	</div>
-			<!-- Search Suggest Overlay -->
-			<div id="suggestBox" class="search_suggest_overlay" style="display:none;">
-				<div class="hdr">Movie Title Matches:</div>
-				<div id="suggestResultsDiv"></div>
-				<div class="ftr">&nbsp;</div>
-			</div>
-			<!-- #content : start -->
-			<div id="content">
+
+<div id="genresFlyContainer">
+    <div id="genresFlyMask"></div>
+    <div id="genresFly" class="flyAccordeon">
+			<h3><a href="/shop.html" style="float:left;#width:91px" name="lid=shopPage/topRight/View All Movies/080929"><b>See All Genres</b></a></h3>
+			<a class="close" style="position:absolute;right:15px;font-size: 9px;" href="javascript:closeDiv('genresFlyContainer');" name="lid=shopPage/topRight/close/080929"> [x] close</a>					
+	<br><br>
+			<table>
+			   <tbody><tr>
+						<td style="vertical-align:top"><ul>
+							<li><h3><a href="/shop/genre/award-winning-collection.html" name="lid=shopPage/topRight/Award-Winning Collection/080929">Award-Winning Collection</a></h3></li>
+                        
+						
+							<li><h3><a href="/shop/genre/itunes.html" name="lid=shopPage/topRight/iTunes/080929">iTunes</a></h3></li>
+                        
+						
+							<li><h3><a href="/shop/genre/blu-ray.html" name="lid=shopPage/topRight/Blu-ray/080929">Blu-ray</a></h3></li>
+                        
+						
+							<li><a href="/shop/genre/action-adventure.html" name="lid=shopPage/topRight/Action/Adventure/080929">Action/Adventure</a></li>
+                        
+						
+							<li><a href="/shop/genre/animation.html" name="lid=shopPage/topRight/Animation/080929">Animation</a></li>
+                        
+						
+							<li><a href="/shop/genre/biography.html" name="lid=shopPage/topRight/Biography/080929">Biography</a></li>
+                        </ul></td>
+						<td style="vertical-align:top"><ul>
+							<li><a href="/shop/genre/comedy.html" name="lid=shopPage/topRight/Comedy/080929">Comedy</a></li>
+                        
+						
+							<li><a href="/shop/genre/cult-classics.html" name="lid=shopPage/topRight/Cult Classics/080929">Cult Classics</a></li>
+                        
+						
+							<li><a href="/shop/genre/dimension-films.html" name="lid=shopPage/topRight/Dimension Films/080929">Dimension Films</a></li>
+                        
+						
+							<li><a href="/shop/genre/documentary.html" name="lid=shopPage/topRight/Documentary/080929">Documentary</a></li>
+                        
+						
+							<li><a href="/shop/genre/drama.html" name="lid=shopPage/topRight/Drama/080929">Drama</a></li>
+                        
+						
+							<li><a href="/shop/genre/family-entertainment.html" name="lid=shopPage/topRight/Family Entertainment/080929">Family Entertainment</a></li>
+                        </ul></td>
+						<td style="vertical-align:top"><ul>
+							<li><a href="/shop/genre/foreign-language.html" name="lid=shopPage/topRight/Foreign Language/080929">Foreign Language</a></li>
+                        
+						
+							<li><a href="/shop/genre/horror.html" name="lid=shopPage/topRight/Horror/080929">Horror</a></li>
+                        
+						
+							<li><a href="/shop/genre/romantic-comedy.html" name="lid=shopPage/topRight/Romantic Comedy/080929">Romantic Comedy</a></li>
+                        
+						
+							<li><a href="/shop/genre/special-interest.html" name="lid=shopPage/topRight/Special Interest/080929">Special Interest</a></li>
+                        
+						
+							<li><a href="/shop/genre/thriller.html" name="lid=shopPage/topRight/Thriller/080929">Thriller</a></li>
+                        
+				</ul></td></tr>
+			</tbody></table>
+		</div>
+	</div><div id="container">
+
+    <div id="bg-top"></div>
+	<div class="bg-grad" id="grad"></div>
+	
+
+	<!-- #content : start -->
+	<div id="content">
 			
 				<ul id="nav">
 	<li class="logo"><a name="lid=header_decorator/top/home_page/080929" class="navbtn" style="cursor:pointer" title="Miramax Films" href="/index.html">Miramax Films</a></li>
@@ -194,34 +128,16 @@ function goToSearchPage(isEnter){
 
 
 
-     
-
-
-
-
-
 <div class="flyoutCurrent">
 			<a class="tabCurrent" href="/current.html"></a>
-			<div class="inTheatersFly">
-				<h3>In Theaters:</h3>
-				<ul>
-
-
-
-      <li><a href="/everybodysfine/">Everybody's Fine</a></li>
-
-
-				</ul>
-
-			</div>
 			
 			<div class="commingFly">
 				<h3>Coming soon:</h3>
 				<ul>
 
-       <li><a href="/dontbeafraidofthedark/">Don't Be Afraid Of The Dark</a></li>
        <li><a href="/lastnight/">Last Night</a></li>
        <li><a href="/thedebt/">The Debt</a></li>
+       <li><a href="/dontbeafraidofthedark/">Don't Be Afraid Of The Dark</a></li>
 
 				</ul>
 
@@ -234,6 +150,18 @@ function goToSearchPage(isEnter){
 			</div>
 		</div>
 
+<script type="text/javascript">
+window.onload = function(){
+
+	$("div.flyoutCurrent").css({width:'250px',left:'318px'});
+$(".flyoutCurrent .tabCurrent").css({width:'164px',left:'125px'});
+$("#nav .flyoutCurrent .bottomlink").css({width:'290px'});
+$("div.inTheatersFly").css({border:'none'});
+
+
+
+};
+</script>
 </li>
 	<li class="dvdbluray">
 		<a name="lid=header_decorator/top/Shop_page/080929" class="navbtn" href="/shop.html" title="On Blu-ray™ Hi-Def &amp; DVD">On BLU-Ray™ HI-DEF &amp; DVD</a>
@@ -263,13 +191,32 @@ function goToSearchPage(isEnter){
 
 <![endif]-->
 	<a class="tab" href="/shop.html"></a>
-
-
+	
 
 	<div class="releases">
 
 		<h3>New Releases:</h3>
 		<ul>
+		
+
+			<li><a name="lid=header_module/top/EVERYBODYS FINE/080929" href="/everybodysfine/">
+				Everybody's Fine
+			
+			</a> - 
+DVD
+			</li>
+
+
+		
+
+			<li><a name="lid=header_module/top/THE BOYS ARE BACK /080929" href="/theboysareback/">
+				The Boys Are Back
+			
+			</a> - 
+DVD
+			</li>
+
+
 		
 
 			<li><a name="lid=header_module/top/EXTRACT/080929" href="/extract/">
@@ -319,26 +266,6 @@ Blu-ray
 				Blu-ray &amp; DVD
 			</li>
 
-
-		
-
-			<li><a name="lid=header_module/top/SLING BLADE/080929" href="/slingbladebluraytm/">
-				Sling Blade
-			
-			</a> - 
-Blu-ray
-			</li>
-
-
-		
-
-			<li><a name="lid=header_module/top/ENCHANTED APRIL/080929" href="/enchantedapril/">
-				Enchanted April
-			
-			</a> - 
-DVD
-			</li>
-
 		</ul>
 	</div>
 
@@ -346,32 +273,91 @@ DVD
 
 		<h3>Coming soon:</h3>
 		<ul>	
-			<li><a name="lid=header_module/top/THE BOYS ARE BACK /080929" href="/theboysareback/">
-				The Boys Are Back
-			
-			</a> - 
-DVD
-		</li>
-
-		
-
 		</ul>
 	</div>
-
-	<div class="genres">
-
-		<h3>Genres:</h3>
+	<div class="awardWinning">
+		<h3>AWARD WINNING:</h3>
 		<ul>
-				<li><a name="lid=header_module/top/DIMENSION FILMS/080929" href="/shop/genre/dimension-films.html">Dimension Films</a></li>
-				<li><a name="lid=header_module/top/ACTION ADVENTURE/080929" href="/shop/genre/action-adventure.html">Action/Adventure</a></li>
-				<li><a name="lid=header_module/top/AWARD-WINNING COLLECTION/080929" href="/shop/genre/award-winning-collection.html">Award-Winning Collection</a></li>
-				<li><a name="lid=header_module/top/BLU-RAY/080929" href="/shop/genre/blu-ray.html">Blu-ray</a></li>
-				<li><a name="lid=header_module/top/COMEDY/080929" href="/shop/genre/comedy.html">Comedy</a></li>
-				<li><a name="lid=header_module/top/DRAMA/080929" href="/shop/genre/drama.html">Drama</a></li>
-				<li><a name="lid=header_module/top/ITUNES/080929" href="/shop/genre/itunes.html">iTunes</a></li>
+				<li>
+					<a name="lid=header_module/top/THE DIVING BELL AND THE BUTTERFLY/080929" href="/thedivingbellandthebutterfly/">
+							The Diving Bell And The Butterfly
+						
+					</a>
+	DVD
+				</li>
+			
+			
+				<li>
+					<a name="lid=header_module/top/NO COUNTRY FOR OLD MEN COLLECTORS EDITION/080929" href="/nocountryforoldmencollectorsedition/">
+							No Country for Old Men: Collector's Edition
+						
+					</a>
+	Blu-ray &amp; DVD
+					</li>
+			
+			
+				<li>
+					<a name="lid=header_module/top/THE QUEEN/080929" href="/thequeen/">
+							The Queen
+						
+					</a>
+	Blu-ray &amp; DVD
+					</li>
+			
+			
+				<li>
+					<a name="lid=header_module/top/NO COUNTRY FOR OLD MEN/080929" href="/nocountryforoldmen/">
+							No Country For Old Men
+						
+					</a>
+	Blu-ray &amp; DVD
+					</li>
+			
+			
+				<li>
+					<a name="lid=header_module/top/FINDING NEVERLAND/080929" href="/findingneverland/">
+							Finding Neverland Blu-ray
+						
+					</a>
+	Blu-ray &amp; DVD
+					</li>
+			
+			
+				<li>
+					<a name="lid=header_module/top/TSOTSI/080929" href="/tsotsi/">
+							Tsotsi
+						
+					</a>
+	DVD
+				</li>
+			
+			
+				<li>
+					<a name="lid=header_module/top/COLD MOUNTAIN/080929" href="/coldmountain/">
+							Cold Mountain
+						
+					</a>
+	Blu-ray &amp; DVD
+					</li>
+			
 		</ul>
 	</div>
-	<div class="bottomlink clear">
+<div class="genres">
+    <div class="genresTop">
+	    <h3>Genres:</h3>
+	    <ul>
+			    <li><a name="lid=header_module/top/ITUNES/080929" href="/shop/genre/itunes.html">iTunes</a></li>
+			    <li><a name="lid=header_module/top/DIMENSION FILMS/080929" href="/shop/genre/dimension-films.html">Dimension Films</a></li>
+			    <li><a name="lid=header_module/top/ACTION ADVENTURE/080929" href="/shop/genre/action-adventure.html">Action/Adventure</a></li>
+			    <li><a name="lid=header_module/top/AWARD-WINNING COLLECTION/080929" href="/shop/genre/award-winning-collection.html">Award-Winning Collection</a></li>
+			    <li><a name="lid=header_module/top/BLU-RAY/080929" href="/shop/genre/blu-ray.html">Blu-ray</a></li>
+			    <li><a name="lid=header_module/top/COMEDY/080929" href="/shop/genre/comedy.html">Comedy</a></li>
+			    <li><a name="lid=header_module/top/DRAMA/080929" href="/shop/genre/drama.html">Drama</a></li>
+	        </ul>
+    </div>
+    <div class="genresBottom"><a name="lid=header_module/top/view_all_genres/080929" onclick="showDiv('genresFlyContainer');closeDiv('castFly');closeDiv('directorsFly')" class="b-link">View all Genres</a></div>
+</div>
+<div class="bottomlink clear">
 	<a name="lid=header_module/top/view_all_movies/080929" href="/shop.html" class="b-link">View all Miramax movies on Blu-ray &amp; DVD</a>
 <!--[if lte IE 6.5]>
 </a>
@@ -379,8 +365,6 @@ DVD
 
 <![endif]-->
 	</div>
-
-
 </div>	
 	</li>
 	<li class="headlines"><a name="lid=header_decorator/top/Headlines_page/080929" class="navbtn" href="/headlines.html" title="Headlines">Headlines </a>
@@ -525,10 +509,85 @@ DVD
 
 
 
-
-
 </li>
 
+<li class="award"><a class="navbtn" href="/shop/genre/award-winning-collection.html" title="Award Winning Movies">Award Winning Movies</a>
+    
+
+<!-- this function returns the different vendor names for products inside a title    -->
+
+
+<!-- this function returns the different vendor names for products inside a title    -->
+<div class="flyoutAward">
+	<a class="tabAward" href="/shop/genre/award-winning-collection.html"></a>
+	<div class="awardWinning">
+		<h3>AWARD WINNING:</h3>
+		<ul>
+				<li>
+					<a name="lid=header_module/top/THE DIVING BELL AND THE BUTTERFLY/080929" href="/thedivingbellandthebutterfly/">
+							The Diving Bell And The Butterfly
+						
+					</a>
+	DVD
+				</li>
+			
+				<li>
+					<a name="lid=header_module/top/NO COUNTRY FOR OLD MEN COLLECTORS EDITION/080929" href="/nocountryforoldmencollectorsedition/">
+							No Country for Old Men: Collector's Edition
+						
+					</a>
+	Blu-ray &amp; DVD
+					</li>
+			
+				<li>
+					<a name="lid=header_module/top/THE QUEEN/080929" href="/thequeen/">
+							The Queen
+						
+					</a>
+	Blu-ray &amp; DVD
+					</li>
+			
+				<li>
+					<a name="lid=header_module/top/NO COUNTRY FOR OLD MEN/080929" href="/nocountryforoldmen/">
+							No Country For Old Men
+						
+					</a>
+	Blu-ray &amp; DVD
+					</li>
+			
+				<li>
+					<a name="lid=header_module/top/FINDING NEVERLAND/080929" href="/findingneverland/">
+							Finding Neverland Blu-ray
+						
+					</a>
+	Blu-ray &amp; DVD
+					</li>
+			
+				<li>
+					<a name="lid=header_module/top/TSOTSI/080929" href="/tsotsi/">
+							Tsotsi
+						
+					</a>
+	DVD
+				</li>
+			
+				<li>
+					<a name="lid=header_module/top/COLD MOUNTAIN/080929" href="/coldmountain/">
+							Cold Mountain
+						
+					</a>
+	Blu-ray &amp; DVD
+					</li>
+			
+		</ul>
+	</div>
+	<div class="bottomlink clear">
+		<a name="lid=header_module/top/award-winning-collection/080929" href="/shop/genre/award-winning-collection.html" class="b-link">View all Award-Winning Movies</a>
+	<!--[if lte IE 6.5]>
+	</a>
+	<![endif]-->
+	</div>
+</div></li>
 
 </ul>
 
@@ -680,24 +739,6 @@ so1.write("signature");
 <div style="float:left; width: 100%;"><ul>
 		
 			<li>
-				<a class="c-link" name="lid=bottomleft_module/bottom/Everybodys Fine/080929" href="http://www.miramax.com/everybodysfine/">
-				Everybody's Fine
-				</a>
-			</li>
-
-
-
-		
-			<li>
-				<a class="c-link" name="lid=bottomleft_module/bottom/Dont Be Afraid Of The Dark/080929" href="http://www.miramax.com/dontbeafraidofthedark/">
-				Don't Be Afraid Of The Dark
-				</a>
-			</li>
-
-
-
-		
-			<li>
 				<a class="c-link" name="lid=bottomleft_module/bottom/Last Night/080929" href="http://www.miramax.com/lastnight/">
 				Last Night
 				</a>
@@ -711,9 +752,18 @@ so1.write("signature");
 				The Debt
 				</a>
 			</li>
+
+
+
+		
+			<li>
+				<a class="c-link" name="lid=bottomleft_module/bottom/Dont Be Afraid Of The Dark/080929" href="http://www.miramax.com/dontbeafraidofthedark/">
+				Don't Be Afraid Of The Dark
+				</a>
+			</li>
+
+
 </ul></div>
-
-
 		
                 </div>
 	<div class="col" style="border:none;border-right:1px solid #2D345C;width:376px;">
@@ -729,29 +779,29 @@ so1.write("signature");
 <div style="float:left; width:185px"><ul>
 		
 			<li>
-				<a class="c-link" name="lid=bottommiddle_module/bottom/Red/080929" href="http://www.miramax.com/red/">
-				Red
+				<a class="c-link" name="lid=bottommiddle_module/bottom/My Left Foot Special Edition/080929" href="http://www.miramax.com/myleftfootspecialedition/">
+				My Left Foot Special Edition
 				</a>
 			</li>
 
 		
 			<li>
-				<a class="c-link" name="lid=bottommiddle_module/bottom/Kill Bill Volume 2/080929" href="http://www.miramax.com/killbillvolume2/">
-				Kill Bill Volume 2
+				<a class="c-link" name="lid=bottommiddle_module/bottom/Emma/080929" href="http://www.miramax.com/emma/">
+				Emma
 				</a>
 			</li>
 
 		
 			<li>
-				<a class="c-link" name="lid=bottommiddle_module/bottom/Muriels Wedding/080929" href="http://www.miramax.com/murielswedding/">
-				Muriel's Wedding
+				<a class="c-link" name="lid=bottommiddle_module/bottom/Kill Bill Volume 1/080929" href="http://www.miramax.com/killbillvolume1/">
+				Kill Bill Volume 1
 				</a>
 			</li>
 
 		
 			<li>
-				<a class="c-link" name="lid=bottommiddle_module/bottom/Frida/080929" href="http://www.miramax.com/frida/">
-				Frida
+				<a class="c-link" name="lid=bottommiddle_module/bottom/Pulp Fiction/080929" href="http://www.miramax.com/pulpfiction/">
+				Pulp Fiction
 				</a>
 			</li>
 </ul></div>
@@ -759,29 +809,29 @@ so1.write("signature");
 <div style="float:left; width:185px"><ul>
 		
 			<li>
-				<a class="c-link" name="lid=bottommiddle_module/bottom/Jackie Brown/080929" href="http://www.miramax.com/jackiebrown/">
-				Jackie Brown
+				<a class="c-link" name="lid=bottommiddle_module/bottom/The Station Agent/080929" href="http://www.miramax.com/thestationagent/">
+				The Station Agent
 				</a>
 			</li>
 
 		
 			<li>
-				<a class="c-link" name="lid=bottommiddle_module/bottom/Chocolat/080929" href="http://www.miramax.com/chocolat/">
-				Chocolat
+				<a class="c-link" name="lid=bottommiddle_module/bottom/City Of God/080929" href="http://www.miramax.com/cityofgod/">
+				City Of God
 				</a>
 			</li>
 
 		
 			<li>
-				<a class="c-link" name="lid=bottommiddle_module/bottom/Good Will Hunting/080929" href="http://www.miramax.com/goodwillhunting/">
-				Good Will Hunting
+				<a class="c-link" name="lid=bottommiddle_module/bottom/Swingers/080929" href="http://www.miramax.com/swingers/">
+				Swingers
 				</a>
 			</li>
 
 		
 			<li>
-				<a class="c-link" name="lid=bottommiddle_module/bottom/Gangs Of New York/080929" href="http://www.miramax.com/gangsofnewyork/">
-				Gangs Of New York 
+				<a class="c-link" name="lid=bottommiddle_module/bottom/Bridget Joness Diary/080929" href="http://www.miramax.com/bridgetjonessdiary/">
+				Bridget Jones's Diary
 				</a>
 			</li>
 </ul></div>
@@ -824,7 +874,7 @@ so1.write("signature");
 <li class="privacy"><a name="lid=footer_Module/footer/privacy_policy/080929" href="/privacy-policy.html">Privacy Policy</a></li>
 <li class="terms"><a name="lid=footer_Module/footer/terms_use/080929" href="/terms-of-use.html">Terms Of Use</a></li>
 
-<li class="copyright" style="font-size:11px;">© Copyright 2009 Miramax Films. All rights reserved.</li>
+<li class="copyright" style="font-size:11px;">© Copyright 2010 Miramax Films. All rights reserved.</li>
 </ul>
 </div>
 
@@ -836,7 +886,7 @@ so1.write("signature");
 <li class="privacy"><a name="lid=footer_Module/footer/privacy_policy/080929" href="/privacy-policy.html">Privacy Policy</a></li>
 <li class="terms"><a name="lid=footer_Module/footer/terms_use/080929" href="/terms-of-use.html">Terms Of Use</a></li>
 
-<li class="copyright" style="font-size:11px;">© Copyright 2009 Miramax Films and Buena Vista Home Entertainment. All rights reserved.</li>
+<li class="copyright" style="font-size:11px;">© Copyright 2010 Miramax Films and Buena Vista Home Entertainment. All rights reserved.</li>
 </ul>
 </div>
 </div>
