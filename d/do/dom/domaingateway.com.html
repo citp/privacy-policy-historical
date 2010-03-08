@@ -1,0 +1,262 @@
+<!--The following is the downloaded HTML source of the domaingateway.com privacy policy that was archived on 2010-03-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100308130423id_/http%3A//www.domaingateway.com/privacypolicy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>-:: Privacy Policy | Domain Gateway | Match - Connect - Display ::-</title>
+<meta name="description" content="Domain Gateway, advertisers can expect higher quality traffic, higher conversions, and easy to use campaign management platform. Domain Gateway Redirects Visitors From Domains To The Highest Bidding Advertisers.">
+<meta name="keywords" content="Higher Quality Traffic, Targeted Visitors, Maximize Domain Revenue, Domain Monetization, Domain Parking, Direct Navigation, Cost Per Action, Click Through Rate, Highest RPM, Highest CPM, Higher Conversions, Highest Bidding Advertisers">
+<meta name="copyright" content="DOMAIN GATEWAY">
+<meta name="author" content="DOMAIN GATEWAY">
+<meta name="Distribution" content="Global">
+<meta name="Rating" content="General">
+<meta name="Robots" content="INDEX,FOLLOW">
+<meta name="Revisit-after" content="31 Days">
+
+<link href="css/main.css" rel="stylesheet" type="text/css">
+
+<script src="js/webticker_lib.js" type="text/javascript"></script>
+<script src="js/prototype.js" type="text/javascript"></script>
+<script src="js/scriptaculous.js" type="text/javascript"></script>
+<script src="js/flash.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+var curTab = 'nav_privacypolicy';
+var toggle_f = '';
+	
+window.onload = function() {
+		
+	var nav = $('nav');
+	var nav_a = nav.getElementsByTagName('a');
+	for( var i=0; i<nav_a.length; i++) {
+		var this_elm = nav_a[i];
+	}
+	
+	}
+
+function actTab( elm ) {
+	var curElm = $(elm);
+	var nextElm = $(curElm.id).nextSiblings();
+	var preElm = $(curElm.id).previousSiblings();
+
+	curElm.className = 'act';
+
+	if ( preElm[0].className.match('div') ) preElm[0].addClassName("div leftact");
+	if ( nextElm[0].className.match('div') ) nextElm[0].addClassName("div rightact");
+	if ( preElm[0].className.match('first') ) preElm[0].addClassName("firstact");
+	if ( nextElm[0].className.match('last') ) nextElm[0].addClassName("lastact");
+}
+function changeAct( elm, tab ) {
+	var curElm = tab ? $(elm) : elm.parentNode;
+	var nextElm = $(curElm.id).nextSiblings();
+	var preElm = $(curElm.id).previousSiblings();
+
+	curElm.className = 'act';
+
+	if ( preElm[0].className.match('div') ) {
+		if ( preElm[0].className.match('rightact') ) {
+			preElm[0].removeClassName("rightact");
+			preElm[0].addClassName("leftact2");
+		} else {
+			preElm[0].addClassName("leftact");
+		}
+	}
+	if ( nextElm[0].className.match('div') ) {
+		if ( nextElm[0].className.match('leftact') ) {
+			nextElm[0].removeClassName("leftact");
+			nextElm[0].addClassName("rightact2");
+		} else {
+			nextElm[0].addClassName("rightact");
+		}
+	}
+	if ( preElm[0].className.match('first') ) preElm[0].addClassName("firstact");
+	if ( nextElm[0].className.match('last') ) nextElm[0].addClassName("lastact");
+}
+
+function changeInact( elm ) {
+	if ( elm.parentNode.id != curTab ) {
+		var curElm = elm.parentNode;
+		var nextElm = $(curElm.id).nextSiblings();
+		var preElm = $(curElm.id).previousSiblings();
+	
+		curElm.className = '';
+		if ( preElm[0].className.match('div') ) {
+			if ( preElm[0].className.match('leftact2') ) {
+				preElm[0].removeClassName("leftact2");
+				preElm[0].addClassName("rightact");
+			} else {
+				preElm[0].removeClassName("leftact");
+			}
+		}
+		if ( nextElm[0].className.match('div') ) {
+			if ( nextElm[0].className.match('rightact2') ) {
+				nextElm[0].removeClassName("rightact2");
+				nextElm[0].addClassName("leftact");
+			} else {
+				nextElm[0].removeClassName("rightact");
+			}
+		}
+		if ( preElm[0].className.match('first') ) {
+			preElm[0].removeClassName("firstact");
+			preElm[0].addClassName("first");
+		}
+		if ( nextElm[0].className.match('last') ) {
+			nextElm[0].removeClassName("lastact");
+			nextElm[0].addClassName("last");
+		}
+		
+	}
+}
+
+function toggle( elm, manual ) {
+	if ( manual ) {
+		content_id = elm;
+	} else {
+		var content = elm.getElementsByTagName('div');
+		var content_id = content[0].id;
+	}
+	
+	if ( toggle_f != content_id ) {
+		if ( toggle_f != "" ) { 
+			$(toggle_f).parentNode.className = 'plus';
+			Effect.SlideUp( toggle_f, { duration: 0.3 } );
+		}
+		Effect.SlideDown(content_id, { duration: 0.3 } );
+		toggle_f = content_id;
+        if ( manual ) {
+			$(toggle_f).parentNode.className = 'minus';
+        } else {
+		    elm.className = 'minus';
+        }
+	}
+}
+
+</script>
+
+</head>
+
+<body class="privacypolicy">
+
+<div id="container">
+	<div id="container_wrap">
+    	<div id="header">
+        	<div id="header_wrap">
+            	<a href="index.php" id="logo" title="Domain Gateway - Match. Connect. Display."><span>Domain Gateway - Match. Connect. Display.</span></a>
+                <div class="col_right">
+                    <div id="nav_sub">
+                        <a href="login.php" title="Advertisers and Publishers login">login</a>
+                    </div>
+                    <div class="clear">&nbsp;</div>
+                    <ul id="nav">
+                        <li class="first"></li>
+                        <li id="nav_aboutus" class=""><a href="aboutus.php" title="About Domain Gateway">about us</a></li>
+                        <li class="div"></li>
+                        <li id="nav_advertisers" class=""><a href="advertisers.php" title="Advertisers">advertisers</a></li>
+                        <li class="div"></li>
+                        <li id="nav_publishers" class=""><a href="publishers.php" title="Publishers">publishers</a></li>
+                        <li class="div"></li>
+                        <li id="nav_contactus" class=""><a href="contactus.php" title="Contact Domain Gateway">contact us</a></li>
+                        <li class="last"></li>
+                    </ul>
+				</div>  
+                <div class="clear">&nbsp;</div>              
+            </div>
+		</div>
+        <div id="main">
+        	<div id="main_wrap">
+            	<div id="main_wrap_2">
+
+                    <div class="section_intro">
+						<h2>Domaingateway.com Privacy Policy</h2>
+
+<p>
+As the owners ("<b>Company</b>" or "<b>we</b>") of domaingateway.com (the "<b>Web Site</b>"), we have created this Privacy Policy in order to demonstrate our commitment to the privacy of our customers and users. The following Privacy Policy is only in effect for the Web Site. 
+</p>
+<p>
+By using the Web Site you agree to this Privacy Policy.   
+</p>
+<p>
+This Privacy Policy is effective as of November 24, 2009.
+</p>
+<p>
+If you choose to visit the Web Site, your visit and any dispute over privacy is subject to this Privacy Policy and the Web Site's <a href="/termsofuse.php" title="Domain Gateway Terms and Condition">TERMS AND CONDITION</a>, including limitations on damages, jurisdiction of disputes and application of the law of the State of California.
+</p>
+<p>
+If you have any questions about this Privacy Policy, please feel free to <a href="/contactus.php" title="Contact Domain Gateway" target="_blank">contact us</a> write to us at: 
+</p>
+<p>
+Privacy Policy<br>
+Domain Gateway<br>
+1158 26th Street Suite 464<br>
+Santa Monica, California 90403<br>
+</p>
+<h3>The Information We Collect </h3>
+<p>
+In order for you to access certain services that we offer via the Web Site, we require you to provide us with certain information that personally identifies you which includes: contact information such as your name, mailing address, telephone number, facsimile number and e-mail address and financial data such as your credit card number and social security number and/or tax identification number. 
+</p>
+<p>
+We may also collect certain non-personally identifiable information from you when you visit the Web Site such as your: IP address; web request; domain server; type of web browser you used to access the Web Site; and your approximate geographic location. 
+</p>
+<h3>How We Use the Information</h3>
+<p>
+We use your contact information that you provide to contact you when necessary. We use the financial data that you provide to verify your qualifications for certain services and to bill you for services. We do not rent, sell or share any personal information about you with other people or nonaffiliated companies except to provide the services you've requested. 
+</p>
+<p>
+We sometimes use the non-personally identifiable information that we collect to enable us to personalize your experience with our Web Site. We also may use this information in the aggregate to analyze our Web Site usage and/or provide this information to third parties for the same purpose, as well as to offer you products or services. 
+</p>
+<p>
+On occasion we may share your non-personally identifiable information that we collect and personal information that you provide to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Company's Terms and Conditions, in order to diagnose a problem with our server, to administer our Web Site or as we otherwise deem necessary in our sole and absolute discretion. We will transfer information about you if the Company is acquired by or merged with another company and this may occur with or without notice to you. Also, we will provide your personal information to respond to subpoenas, court orders, or legal process or to establish or exercise our legal rights or defend against legal claims. 
+</p>
+<p>
+We provide our customers with unique usernames and passwords for use with our services. We use this information for security purposes and to prevent unauthorized use, access, alteration or misuse of your accounts and services. 
+</p>
+<h3>Security Measures </h3>
+<p>
+We have reasonable security measures in place and technologies to protect the loss, misuse and alteration of your information under our control but we cannot assure that your personally identifiable information or non-personally identifiable information will never be disclosed in a manner that is inconsistent with this Privacy Policy. 
+</p>
+<h3>To Change and/or Modify Information </h3>
+<p>
+We allow our customers to change and modify personal information previously provided by either using their account manager or <a href="/contactus.php" title="Contact Domain Gateway" target="_blank">contact us</a>. 
+</p>
+<h3>Cookies </h3>
+<p>
+To enhance the performance of certain services within our Web Site we use cookies. Cookies, by themselves, do not tell us your personally identifiable information. However, once you choose to furnish the Web Site with personally identifiable information, this information may be linked to the data stored in the cookie. We use cookies to understand site usage and to improve the offerings on our Web Site. Cookies placed on your computer by third parties by or through the Web Site, if any, are not the responsibility of the Company and are not subject to this Privacy Policy. Please contact the third party placing these cookies to find out what information is collected and how it is used. You can usually edit your browser not to accept cookies, but the features of our Web Site may not function properly if you do accept cookies. 
+</p>
+<h3>Special Notification for California Residents </h3>
+<p>
+Users of the Web Site that reside in California and have provided their personal information to the Web Site may request information about our disclosures of certain categories of personal information (if any) to third parties for their direct marketing purposes. Such requests must be submitted to us using the email address below. Within thirty days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties (if any) for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.
+</p>
+<h3>Accessing and updating personal information</h3>
+<p>
+We make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We will ask that you identify yourself and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. The initial procedure to access, correct or delete your personal information is to <a href="/contactus.php" title="Contact Domain Gateway" target="_blank">contact us</a>. 
+</p>
+<p>
+The Company may update this Privacy Policy from time to time. We may notify you about significant changes in the way we treat your information by sending a notice to you, although we are not required to do so, or we may simply place a notice on the Web Site.  Notwithstanding the foregoing, we reserve the right to change this Privacy Policy without any notice whatsoever to you and for whatever reason we deem appropriate under the circumstances. We encourage you to periodically check back and review this Privacy Policy so that you always will know what information we collect, how we use it, and to whom we disclose it. 
+</p>
+
+                    </div>
+                    <div class="clear">&nbsp;</div>                  
+
+                    
+            	</div>
+            </div>
+		</div>
+        <div id="footer">
+        	<div id="footer_wrap">
+            	<div class="txt_copyright">© 2010 domain gateway</div>
+                <div class="links">
+                	<a href="aboutus.php">about us</a>|
+                    <a href="advertisers.php">advertisers</a>|
+                    <a href="publishers.php">publishers</a>|
+                    <a href="contactus.php">contact us</a>|
+                    <a href="termsofuse.php">terms of use</a>|
+                    <a href="privacypolicy.php">privacy policy</a>
+                </div>
+            </div>
+		</div>
+	</div>
+</div>
+
+
+
+</body></html>
