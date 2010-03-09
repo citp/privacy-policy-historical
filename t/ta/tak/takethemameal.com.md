@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takethemameal.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206124126id_/http%3A//www.takethemameal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takethemameal.com privacy policy that was archived on 2010-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100309073225id_/http%3A//takethemameal.com/privacy.php) for the most accurate reproduction.*
 
 # Take Them A Meal!
 
@@ -19,4 +19,4 @@ From time to time we may send an e-mail to all past meal coordinators and meal d
 In what ways can the general public access the information stored on "Take Them A Meal"?   
 As is hopefully evident through use of "Take Them A Meal", information can only be accessed by knowing the last name and user password for a meal recipient. 
 
-[**Take me back to schedule some meals!**](https://web.archive.org/web/20091206124126id_/http%3A//www.takethemameal.com/index.php)
+[**Take me back to schedule some meals!**](https://web.archive.org/web/20100309073225id_/http%3A//takethemameal.com/index.php)
