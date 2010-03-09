@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubesss.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229155641id_/http%3A//www.tubesss.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubesss.com privacy policy that was archived on 2010-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100309210131id_/http%3A//tubesss.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy at Tubesss
 
@@ -42,6 +42,4 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at tube@tubesss.com. 
 
-[ ](http://www.yourfuckbook.com/?s=awhiteblob300x1150)
-
-[ ](http://join.kinkygfs.com/track/MTIuNS4zLjI5LjAuMC4wLjAuMA) [ ](http://join.kinkygfs.com/track/MTIuNS4zLjI5LjAuMC4wLjAuMA) [ ](http://join.kinkygfs.com/track/MTIuNS4zLjI5LjAuMC4wLjAuMA)
+﻿ 
