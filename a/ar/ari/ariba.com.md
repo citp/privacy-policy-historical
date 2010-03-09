@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ariba.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223045906id_/http%3A//www.ariba.com/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ariba.com privacy policy that was archived on 2010-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100309034449id_/http%3A//www.ariba.com/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Ariba.com Privacy Statement
 
 **Ariba Web Site Privacy Statement**
 
-Effective July 17, 2007
+Effective January 14, 2010
 
-This Web Site Privacy Statement ("Privacy Statement") tells our visitors ("You") about: a) The information Ariba, Inc. ("Ariba") collects through our website(s), [www.ariba.com](http://www.ariba.com/) and "related web sites" (the "Site(s)"); b) Certain services available on our Site(s) including the Ariba Connect and Ariba Education pages; c) How we use that information; and d) How You can choose to opt out of some of these practices. 
+This Web Site Privacy Statement ("Privacy Statement") tells our visitors ("You") about: a) The information Ariba, Inc. ("Ariba") collects through our website(s), [www.ariba.com](http://www.ariba.com/) and "related web sites" (the "Site(s)"); b) Certain services available on our Site(s) including the Ariba Connect, Ariba Exchange, and Ariba Education pages; c) How we use that information; and d) How You can choose to opt out of some of these practices. 
 
 **Consent**  
 By accessing our Site, You are consenting to the information collection and use practices described in this Privacy Statement, as modified from time to time by us. If we decide to change our Privacy Statement, we will post a new statement on our Site and change the date at the top of the statement. Therefore, we encourage you to check the date of our Privacy Statement whenever you visit this Site for any updates or changes. 
@@ -27,7 +27,9 @@ Here are some details about certain features of our Site(s).
 
 **Investor Inquiries** — Ariba's investor relations department accepts requests for corporate and securities information about Ariba through the Site. Personal information submitted with such requests is only used by Ariba to respond to the investor's request as long as the request is for investor information.
 
-**Connect.Ariba.Com ("Connect")** — The Connect area of the Site is designed for current customers and partners of Ariba. Registration is required for access to this part of the Site. The information provided in registration may be used by Ariba to handle support inquiries and to communicate about Ariba products, administrative issues related to the Connect site, and special offers and promotions. Registration in Connect is required to register for Ariba education classes. Customers may purchase education services from Ariba on this site using credit cards. Ariba uses industry standard techniques to store and process credit card data in a secure manner.
+**Connect.Ariba.Com ("Connect")** — The Connect area of the Site, including Ariba Knowledge, is designed for current customers and partners of Ariba. Registration is required for access to this part of the Site. The information provided in registration may be used by Ariba to handle support inquiries and to communicate about Ariba products, administrative issues related to the Connect site, and special offers and promotions. Registration in Connect is required to register for Ariba education classes. Customers may purchase education services from Ariba on this site using credit cards. Ariba uses industry standard techniques to store and process credit card data in a secure manner.
+
+Exchange.Ariba.com ("Exchange") – The Ariba Exchange area of the Site is designed as an area for current Ariba customers, Ariba representatives, and other business professionals to exchange ideas and facilitate discussions regarding best spend management practices. Registration is required to be able to post comments or create discussion topics. The information provided in registration is used as a basis for a users profile and to allow the user to receive notifications and emails from the Ariba Exchange and other users of the Ariba Exchange. Users may decide whether to let their name and/or email address be visible to other visitors to the Ariba Exchange by updating their profile. Only business contact information may be provided. Please do not enter personal (e.g. home) contact information into the Exchange.
 
 **IP Addresses** — Each visitor to the Site is identified by an IP address during their visit and IP addresses are automatically captured by the Site management software. Ariba uses this information to help improve the operation of the Site and may at some time use this information to help adjust the content of the Site to the general geographic location of the visitor and for reporting purposes.
 
@@ -43,7 +45,7 @@ This Site is primarily located in and operated from the United States. By submit
 The Site contains links to third party web sites such as the web sites of Ariba partner companies. Ariba takes no responsibility for the content or information practices of such sites.
 
 **Choice and Opt-Out**  
-You may opt-out of receiving Ariba newsletters or other email communications from Ariba by sending an email to [online@ariba.com](mailto:online@ariba.com). In addition, each email communication includes instructions on how to unsubscribe. Registrants of Connect.Ariba.Com may cancel their registration by sending an email to [connect_support@ariba.com](mailto:connect_support@ariba.com).
+You may opt-out of receiving Ariba newsletters or other email communications from Ariba by sending an email to [online@ariba.com](mailto:online@ariba.com). In addition, each email communication includes instructions on how to unsubscribe. Registrants of Connect.Ariba.Com may cancel their registration by sending an email to [connect_support@ariba.com](mailto:connect_support@ariba.com). Registrants of Ariba Exchange may cancel their registration by sending an email to [jfogarty@ariba.com](mailto:jfogarty@ariba.com?subject=Ariba%20Exchange%20Registration%20Cancellation)
 
 **Security**  
 Ariba uses commercially reasonable efforts to store and maintain personal information You submit on the Site to protect it from loss, misuse, alteration or destruction by unauthorized parties. We may store information that we collect through our Site indefinitely except as otherwise required by law.
@@ -52,4 +54,4 @@ Ariba uses commercially reasonable efforts to store and maintain personal inform
 This Privacy Statement does not address the data management practices and polices of Ariba applicable to the operation and use of the Ariba Supplier Network, Ariba's hosting services and Ariba's On-Demand services such as Ariba Procure-To-Pay. The policy addressing these services can be found at <http://www.ariba.com/legal/ariba_data_policy.cfm>
 
 **Comments and Questions**  
-If You have questions or comments about this Privacy Statement, please send an email to [privacy@ariba.com](mailto:privacy@ariba.com) or in writing to: Ariba Privacy and Security Manager, Ariba Legal Department, Ariba, Inc., 807b 11th Avenue, Sunnyvale, CA 94089.
+If You have questions or comments about this Privacy Statement, please send an email to [privacy@ariba.com](mailto:privacy@ariba.com) or in writing to: Ariba Privacy and Security Manager, Ariba Legal Department, Ariba, Inc., 807 11th Avenue, Sunnyvale, CA 94089.
