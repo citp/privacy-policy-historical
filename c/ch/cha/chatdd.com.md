@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatdd.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418152706id_/http%3A//www.chatdd.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatdd.com privacy policy that was archived on 2010-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100309080836id_/http%3A//www.chatdd.com/policy) for the most accurate reproduction.*
 
 # ChatDD.Com - Privacy Policy
 
@@ -43,7 +43,7 @@ We do not take any responsibility for any error or omission by Chatdd.com or Thi
 
 ****
 **[   
-**Play Online Games!**](http://www.letsjoy.com/online-games/)
+**Play Online Games!**](http://www.countgames.com/)
 
 **More Resources  
 
