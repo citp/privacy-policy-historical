@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the embanet.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429100335id_/http%3A//www.embanet.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embanet.com privacy policy that was archived on 2010-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100309090803id_/http%3A//embanet.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Embanet :: Privacy Policy
 
@@ -78,7 +78,7 @@ We have appointed a Privacy Officer to oversee compliance with this Privacy Poli
 The contact information for our Privacy Officer is as follows:
 
 **Privacy Officer:**  
-Balwinder Ahluwalia  
+Jeff Morrow  
 Director, Information Technology  
 **Embanet ULC**  
 225 Sparks Avenue,  
@@ -86,5 +86,5 @@ Toronto, Ontario
 M2H 2S5 CANADA
 
 **Phone:** 416-494-6622, extension 2270  
-**E-mail:** [privacy@embanet.com](https://web.archive.org/web/20090429100335id_/http%3A//www.embanet.com/privacy@embanet.com)  
+**E-mail:** [privacy@embanet.com](mailto:privacy@embanet.com)  
 **Fax:** 416-494-1891
