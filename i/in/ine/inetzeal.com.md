@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inetzeal.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203132422id_/http%3A//www.inetzeal.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inetzeal.com privacy policy that was archived on 2010-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100309164426id_/http%3A//www.inetzeal.com/privacy_policy.html) for the most accurate reproduction.*
 
 # iNetZeal.com - Privacy Policy
 
@@ -10,7 +10,7 @@ Achieving good **search engine visibility** has become a necessity for every web
 
 ### Our Client Testimonials
 
-"the Google ranking for my 5 important keywords had raised A LOT. What I took from iNetZeal was a package service and Manish gave me a sweet discounted price. Now I am going to buy another service from iNetZeal again, hope this works as good as the last one. Especially thank Manish and I would like to recommend this service to people around me"... Allen Lee.
+"Our website got Google PR 4. We started getting lots of traffic and buzz. Thanks to sincere efforts of iNetZeal and their team for this achievement. Thank you iNetzeal. I highly recommend their service to my fellow friends and colleges. Nathan from [BlogHug](http://www.bloghug.com/)
 
 [:: Read More](http://directory-submission.inetzeal.com/testimonials.htm)
 
