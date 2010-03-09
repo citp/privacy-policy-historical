@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchvideo.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201173604id_/http%3A//www.truveo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchvideo.com privacy policy that was archived on 2010-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100309100459id_/http%3A//www.truveo.com/privacy) for the most accurate reproduction.*
 
 # Truveo Privacy Policy - Truveo Video Search
 
