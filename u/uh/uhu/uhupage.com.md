@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhupage.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202050621id_/http%3A//uhupage.com/cms.php%3Fid_cms%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhupage.com privacy policy that was archived on 2010-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100309074303id_/http%3A//www.uhupage.com/cms.php%3Fid_cms%3D2) for the most accurate reproduction.*
 
 # UHU Template - Privacy Policy
 
@@ -67,5 +67,3 @@ No method of transmission over the Internet, or method of electronic storage, is
 ## Changes to This Privacy Policy
 
 We reserve the right to change the terms of this privacy policy at any time. When we make changes, we will revise the "last updated" date at the top of the policy. If there are material changes to this statement or in how UHUpage will use your personal information, we will notify you by prominently posting a notice of such changes here or on our home page, or by sending you an email. We encourage you to review this policy whenever you visit one of our sites.
-
-[](http://www.uhupage.com/ "Home")[Home](http://www.uhupage.com/ "Home")
