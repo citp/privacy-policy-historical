@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the socialgo.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203030153id_/http%3A//www.socialgo.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialgo.com privacy policy that was archived on 2010-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100309124934id_/http%3A//www.socialgo.com/legal/privacy) for the most accurate reproduction.*
 
 # None
 
-[ ](https://web.archive.org/ "SocialGO Home")
-
-[](http://server.iad.liveperson.net/hc/53515734/?cmd=file&file=visitorWantsToChat&site=53515734&byhref=1&imageUrl=http://s3.amazonaws.com/sogoimg)
+[ ](https://web.archive.org/ "SocialGO Home") [](http://www.socialgo.com/blog/data-ownership-guarantee)
 
 ## SocialGO Privacy Policy
 
