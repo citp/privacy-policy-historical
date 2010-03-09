@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the horizonhobby.com privacy policy that was archived on 2009-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090919150141id_/http%3A//www.horizonhobby.com/Support/Website/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horizonhobby.com privacy policy that was archived on 2010-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100309042637id_/http%3A//www.horizonhobby.com/Support/Website/Privacy.aspx) for the most accurate reproduction.*
 
 # Horizon Hobby
 
-|  |  |   
----  
-|  | PRIVACY  
----|---  
 | Thank you for visiting HORIZON HOBBY, INC.'s web site. This site is governed by the Privacy Policy of Horizon Hobby and discloses the consumer privacy practices of the Horizon Hobby website. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Horizon Hobby’s web site. 
 
 You can freely access much of our website without providing any personal information. Certain areas of our website, for example purchasing products, entering contests, filling out surveys, and receiving newsletters, emails or other promotional information from us, require that you submit some personal information. We do not collect any personal information without your knowledge! We use the information that we collect about you to fulfill your product and service purchases and to create a more personalized online experience.
