@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inlovewithfashion.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101072429id_/http%3A//www.inlovewithfashion.com/index.php%3Ftarget%3Dpages%26page_id%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inlovewithfashion.com privacy policy that was archived on 2010-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100309045737id_/http%3A//www.inlovewithfashion.com/index.php%3Ftarget%3Dpages%26page_id%3Dprivacy_policy) for the most accurate reproduction.*
 
 # In Love With Fashion - Women's Clothing Store, Online Fashion, Just As Found In Topshop. Our Privary Policy.
 
