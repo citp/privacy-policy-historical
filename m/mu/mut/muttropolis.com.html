@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the muttropolis.com privacy policy that was archived on 2009-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091203055028id_/http%3A//www.muttropolis.com/content/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the muttropolis.com privacy policy that was archived on 2010-03-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100310201256id_/http%3A//www.muttropolis.com/content/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -22,7 +22,7 @@
 <!--   end quickView pop-upbox scripts-->
 
 <script type="text/javascript" src="/muttScripts/productMenu.js"></script>
-<script src="/muttScripts/muttNavCaps.js" type="text/javascript"></script>
+<script src="http://www.muttropolis.com/mutt_scripts/muttNavCaps.js" type="text/javascript"></script>
 
 <!--   product boxess -->
 <link rel="stylesheet" href="/muttScripts/thickBox.css" type="text/css" media="screen">
@@ -68,6 +68,40 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 }
 //-->
 </script>
+ <script language="Javascript">
+<!--
+function doClear(theText) {
+ if (theText.value == theText.defaultValue) {
+ theText.value = ""
+ }
+}
+//------------------- OPEN NEW WINDOW -------------------//
+var newWindow = null;
+
+function closeWin(){
+	if (newWindow != null){
+		if(!newWindow.closed)
+			newWindow.close();
+	}
+}
+
+function popUpWin(url, type, strWidth, strHeight){
+
+	closeWin();
+
+	if (type == "fullScreen"){
+		strWidth = screen.availWidth - 10;
+		strHeight = screen.availHeight - 160;
+	}
+
+	var tools="";
+	if (type == "standard" || type == "fullScreen") tools = "resizable,toolbar=no,location=no,scrollbars=yes,menubar=no,width="+strWidth+",height="+strHeight+",top=0,left=0";
+	if (type == "console") tools = "resizable,toolbar=no,location=no,scrollbars=yes,width="+strWidth+",height="+strHeight+",left=0,top=0";
+	newWindow = window.open(url, 'newWin', tools);
+	newWindow.focus();
+}
+//-->
+</script> 
 
 
 <script src="MuttropolisWeb/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
@@ -109,13 +143,16 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 
   <div align="center">
     
-
-    <table width="990" height="70" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" background="/muttImages/header3.gif">
-      <tbody><tr valign="top">
-        <td>
-          <div id="header">
-					<a href="http://www.muttropolis.com/index.cfm" style="position: absolute; height: 70px; left: -900px; width: 1300px;">muttropolis</a>
-            <div align="right" class="headText">
+ <table width="990" height="115" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" id="Table_01">
+<tbody><tr bgcolor="#FFFFFF">
+		<td width="286" height="23" valign="bottom"><a href="http://www.muttropolis.com/content/shipping.html" target="_blank" onclick="popUpWin(this.href,'standard',640,480);return false;"><img src="http://www.muttropolis.com/images/freeShipping.jpg" alt="free shipping" width="286" height="23" border="0"></a></td>
+<td width="670">
+        
+        
+        
+        
+<div id="header">
+<div align="right" class="headText">
 
               
 
@@ -123,22 +160,41 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 						
               	<a href="http://www.muttropolis.com/login.cfm">sign in</a>
               
-              &nbsp;&nbsp;| <a href="http://www.muttropolis.com/check_order_status.cfm">order status</a> | <a href="http://www.muttropolis.com/content/customerservice.cfm">customer service</a> | 888 688 8799 | <a href="http://www.muttropolis.com/viewcart.cfm">my cart:
+              &nbsp;&nbsp;| <a href="http://www.muttropolis.com/check_order_status.cfm">order status</a> | <a href="http://www.muttropolis.com/content/customerservice.cfm">help</a> |
+              
+              <span style="font-size:11px; font-family:Arial, Helvetica, sans-serif; color:#002b50;">
+<script language="JavaScript" src="http://www.everymethod.com/phplive/js/status_image.php?base_url=http://www.everymethod.com/phplive&amp;l=admin&amp;x=1&amp;deptid=1&amp;text=live+chat+support"></script>
+
+        </span>
+        
+        
+        | 888 688 8799 | <a href="http://www.muttropolis.com/viewcart.cfm">my cart:
               <span class="cartNumber"> 
                 
                   
                 
-              </span></a><span class="cartNumber"> 0 items</span>&nbsp; <img src="/muttImages/cart.jpg" alt="cart" width="30" height="26" align="right">
-              
-            </div>
-        </div>     </td>
-          </tr>
-      </tbody></table>
+      </span></a><span class="cartNumber"> 0 items</span>      </div></div>    </td>
+        <td width="30"><img src="/muttImages/cart.jpg" alt="cart" width="29" height="23" border="0" align="left"></td>
+  </tr>
+	<tr align="right" valign="top" bgcolor="#002b50">
+		<td height="92" background="http://www.muttropolis.com/images/topLogo_01.jpg" colspan="3">
+        
+       
+        <div style="margin:6px">
+        
+       <form name="CFForm_1" action="http://www.muttropolis.com/search.cfm?requesttimeout=500" method="get" onsubmit="return _CF_checkCFForm_1(this)">
+          <input name="kword" type="text" class="swap_value" id="s" style="font-family: Arial; color: #003366; background:#FFFFFF; max-height: 20px; font-size: 12px;" onfocus="if(this.value==this.defaultValue) this.value='';" value="       Sniff around!" size="16">
+            <input name="go" value=" SEARCH " class="submit" style="font-family: Arial; font-size: 11px; color: #FFFFFF; background-color: #e65d00; max-height: 30px;" height="30px" type="submit">
+        </form>
 
+        </div>        </td>
+   </tr>
+</tbody></table>   
+   
 
-    <table width="990" height="24" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-      <tbody><tr valign="middle">
-        <td width="758" valign="middle">
+<table width="990" height="24" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+<tbody><tr valign="middle">
+        <td width="758" height="24" valign="middle">
 
   
           <div id="topDog">
@@ -170,21 +226,25 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
       <div id="m13" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
         
         
-          <a href="http://www.muttropolis.com/category/dog/new-dog-beds.cfm">Cozy New Beds</a>
-        
-          <a href="http://www.muttropolis.com/category/dog/fall-dog-collection.cfm">Fall Collection</a>
-        
-          <a href="http://www.muttropolis.com/category/dog/halloween-dog-costumes.cfm">Halloween</a>
+          <a href="http://www.muttropolis.com/category/dog/dog-birthday-products.cfm">Birthday Collection</a>
         
           <a href="http://www.muttropolis.com/category/dog/holiday-boutique.cfm">Made in the U.S.A.</a>
-        
-          <a href="http://www.muttropolis.com/category/dog/new-dog-collars.cfm">New Collars for Every Occasion</a>
         
           <a href="http://www.muttropolis.com/category/dog/puppy-training.cfm">Puppy Essentials</a>
         
           <a href="http://www.muttropolis.com/category/dog/senior-dog.cfm">Senior Dog</a>
         
           <a href="http://www.muttropolis.com/category/dog/skulls-crossbones.cfm">Skull and Crossbones Dog Accessories</a>
+        
+          <a href="http://www.muttropolis.com/category/dog/spring-dog-clothing.cfm">Spring Preview</a>
+        
+          <a href="http://www.muttropolis.com/category/dog/valentines-dog-shop.cfm">Valentine's Day Shop</a>
+        
+          <a href="http://www.muttropolis.com/category/dog/safari-dog-products.cfm">Walk on the Wild Side</a>
+        
+          <a href="http://www.muttropolis.com/category/dog/winter-beds-blankets.cfm">Winter Beds and Blankets</a>
+        
+          <a href="http://www.muttropolis.com/category/dog/winter-essentials.cfm">Winter Essentials Inside and Out</a>
         
           <a href="http://www.muttropolis.com/category/dog/dog-behavior-training.cfm">Dog Training + Behavior</a>
         
@@ -205,8 +265,6 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
                   <a href="http://www.muttropolis.com/category/dog/dogswell-dog-treats.cfm">Dogswell</a>
                 
                   <a href="http://www.muttropolis.com/category/dog/Evo-dog-food.cfm">Evo</a>
-                
-                  <a href="http://www.muttropolis.com/category/dog/haute-pooch.cfm">Haute Pooch</a>
                 
                   <a href="http://www.muttropolis.com/category/dog/honest-kitchen-dog-food.cfm">Honest Kitchen</a>
                 
@@ -248,16 +306,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
               <div id="m16" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">			 </div>
 	        </li>
 
-    <li><a href="http://www.muttropolis.com/content/locations.cfm" onmouseover="mopen('m17');PassCaf()" onmouseout="mclosetime();PassOut()">Stores<img src="/muttImages/circle.gif" width="12" height="12"></a>
+    <li><a href="http://www.muttropolis.com/content/locations.cfm" onmouseover="mopen('m17');PassCaf()" onmouseout="mclosetime();PassOut()">Stores &amp; Events</a>
       <div id="m17" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">			 </div>
 	        </li>
-            
-             <li><a href="http://www.muttropolis.com/category/dog/christmas-dog-gifts.cfm" onmouseover="mopen('m12');PassIns()" onmouseout="mclosetime();PassOut()"><span style="color:#FF0000" ;="" onmouseout="this.style.color = 'red';" onmouseover="this.style.color 
-= 'green';" align="justify"> Holiday Shop </span></a>
-	          <div id="m12" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">					     </div>
-	        </li>
-            
-            
         </ul>
         <div style="clear:both"></div>
 
@@ -268,32 +319,27 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 
             </div>
         </div>    </td>
-        <td width="236" align="center" valign="middle" bgcolor="FFFFFF"><form name="CFForm_1" action="http://www.muttropolis.com/search.cfm?requesttimeout=500" method="get" onsubmit="return _CF_checkCFForm_1(this)">
-          <input name="kword" type="text" class="swap_value" id="s" style="font-family: Arial; color: #003366; background:#FFFFFF; max-height: 22px; font-size: 12px;" onfocus="if(this.value==this.defaultValue) this.value='';" value="       Sniff around!" size="20">
-          <input name="go" value="SEARCH" class="submit" style="font-family: Arial; font-size: 11px; font-weight:bold; color: #FFFFFF; background-color: #e65d00; max-height: 24px;" type="submit">
-        </form>
-  </td>
-      </tr>
+  <td width="236" height="24" valign="bottom" background="http://www.muttropolis.com/images/topCatBack.jpg" bgcolor="FFFFFF"><img src="http://www.muttropolis.com/images/topCat.jpg" alt="top cat" width="236" height="24" border="0" longdesc="http://www.muttropolis.com/images/topCat.jpg">      </td></tr>
       </tbody></table>
 
     <table width="990" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
       <tbody><tr>
         <td style="background-repeat:no-repeat; background-image:url(/muttImages/navBackG.gif)">
 
-          
+
           <div id="topNav" class="clearfix">
             <ul>
 
-              <li class="first"><a href="http://www.muttropolis.com/category/dog/designer-collars-leads-harnesses.cfm" onmouseout="WS_dooutTopCat(1);" onmouseover="WS_hideall(); hideTheSortBySelect ('hidden'); WS_doinTopCat(1,cat1on);"><img src="/muttImages/nav/muttNav_01.gif" width="70" height="24" alt="Collars" border="0" id="cat1"></a> </li>
-	          <li><a href="http://www.muttropolis.com/category/dog/designer-dog-harnesses-leads.cfm" onmouseout="WS_dooutTopCat(10);" onmouseover="WS_hideall(); hideTheSortBySelect ('hidden'); WS_doinTopCat(10,cat10on);"><img src="/muttImages/nav/muttNav_02.gif" width="85" height="24" alt="Leashes" border="0" id="cat10"></a></li>
-	          <li><a href="http://www.muttropolis.com/category/dog/dog-leashes.cfm" onmouseout="WS_dooutTopCat(2);" onmouseover="WS_hideall(); hideTheSortBySelect ('hidden'); WS_doinTopCat(2,cat2on);"><img src="/muttImages/nav/muttNav_03.gif" width="66" height="24" alt="Harnesses" border="0" id="cat2"></a></li>
-	          <li><a href="http://www.muttropolis.com/category/dog/designer-dog-beds-furniture.cfm" onmouseout="WS_dooutTopCat(3);" onmouseover="WS_hideall(); hideTheSortBySelect ('hidden'); WS_doinTopCat(3,cat3on);"><img src="/muttImages/nav/muttNav_04.gif" width="105" height="24" alt="Beds and Travel" border="0" id="cat3"></a></li>
-	          <li><a href="http://www.muttropolis.com/category/dog/designer-dog-clothing-gear-accessories.cfm" onmouseout="WS_dooutTopCat(4);" onmouseover="WS_hideall(); hideTheSortBySelect (''); WS_doinTopCat(4,cat4on);"><img src="/muttImages/nav/muttNav_05.gif" width="170" height="24" alt="Clothes and Accessories" border="0" id="cat4"></a></li>
-	          <li><a href="http://www.muttropolis.com/category/dog/dog-toys.cfm" onmouseout="WS_dooutTopCat(5);" onmouseover="WS_hideall(); hideTheSortBySelect (''); WS_doinTopCat(5,cat5on);"><img src="/muttImages/nav/muttNav_06.gif" width="41" height="24" alt="Toys" border="0" id="cat5"></a></li>
-	          <li><a href="http://www.muttropolis.com/category/dog/dog-bowls-feeders.cfm" onmouseout="WS_dooutTopCat(6);" onmouseover="WS_hideall(); hideTheSortBySelect (''); WS_doinTopCat(6,cat6on);"><img src="/muttImages/nav/muttNav_07.gif" width="124" height="24" alt="Bowls and Feeders" border="0" id="cat6"></a></li>
-	          <li><a href="http://www.muttropolis.com/category/dog/all-natural-dog-food-treats-supplements.cfm" onmouseout="WS_dooutTopCat(7);" onmouseover="WS_hideall(); hideTheSortBySelect ('hidden'); WS_doinTopCat(7,cat7on);"><img src="/muttImages/nav/muttNav_08.gif" width="105" height="24" alt="Food and Treats" border="0" id="cat7"></a></li>
-	          <li><a href="http://www.muttropolis.com/category/dog/dog-grooming-spa.cfm" onmouseout="WS_dooutTopCat(8);" onmouseover="WS_hideall(); hideTheSortBySelect ('hidden'); WS_doinTopCat(8,cat8on);"><img src="/muttImages/nav/muttNav_09.gif" width="140" height="24" alt="Pickup and Grooming" border="0" id="cat8"></a></li>
-	          <li><a href="http://www.muttropolis.com/shop_cat.cfm" onmouseout="WS_dooutTopCat(9);" onmouseover="WS_hideall(); hideTheSortBySelect ('hidden'); WS_doinTopCat(9,cat9on);"><img src="/muttImages/nav/muttNav_10.gif" width="74" height="24" alt="Shop Cat" border="0" id="cat9"></a></li>
+              <li class="first"><a href="http://www.muttropolis.com/category/dog/designer-collars-leads-harnesses.cfm" onmouseout="WS_dooutTopCat(1);" onmouseover="WS_hideall(); hideTheSortBySelect ('hidden'); WS_doinTopCat(1,cat1on);"><img src="http://www.muttropolis.com/MuttropolisWeb/muttImages/nav/muttNav_01.gif" width="78" height="24" alt="Collars" border="0" id="cat1"></a> </li>
+	          <li><a href="http://www.muttropolis.com/category/dog/designer-dog-harnesses-leads.cfm" onmouseout="WS_dooutTopCat(10);" onmouseover="WS_hideall(); hideTheSortBySelect ('hidden'); WS_doinTopCat(10,cat10on);"><img src="http://www.muttropolis.com/MuttropolisWeb/muttImages/nav/muttNav_02.gif" width="95" height="24" alt="Leashes" border="0" id="cat10"></a></li>
+	          <li><a href="http://www.muttropolis.com/category/dog/dog-leashes.cfm" onmouseout="WS_dooutTopCat(2);" onmouseover="WS_hideall(); hideTheSortBySelect ('hidden'); WS_doinTopCat(2,cat2on);"><img src="http://www.muttropolis.com/MuttropolisWeb/muttImages/nav/muttNav_03.gif" width="74" height="24" alt="Harnesses" border="0" id="cat2"></a></li>
+	          <li><a href="http://www.muttropolis.com/category/dog/designer-dog-beds-furniture.cfm" onmouseout="WS_dooutTopCat(3);" onmouseover="WS_hideall(); hideTheSortBySelect ('hidden'); WS_doinTopCat(3,cat3on);"><img src="http://www.muttropolis.com/MuttropolisWeb/muttImages/nav/muttNav_04.gif" width="119" height="24" alt="Beds and Travel" border="0" id="cat3"></a></li>
+	          <li><a href="http://www.muttropolis.com/category/dog/designer-dog-clothing-gear-accessories.cfm" onmouseout="WS_dooutTopCat(4);" onmouseover="WS_hideall(); hideTheSortBySelect (''); WS_doinTopCat(4,cat4on);"><img src="http://www.muttropolis.com/MuttropolisWeb/muttImages/nav/muttNav_05.gif" width="73" height="24" alt="Clothes and Accessories" border="0" id="cat4"></a></li>
+	          <li><a href="http://www.muttropolis.com/category/dog/dog-toys.cfm" onmouseout="WS_dooutTopCat(5);" onmouseover="WS_hideall(); hideTheSortBySelect (''); WS_doinTopCat(5,cat5on);"><img src="http://www.muttropolis.com/MuttropolisWeb/muttImages/nav/muttNav_06.gif" width="47" height="24" alt="Toys" border="0" id="cat5"></a></li>
+	          <li><a href="http://www.muttropolis.com/category/dog/dog-bowls-feeders.cfm" onmouseout="WS_dooutTopCat(6);" onmouseover="WS_hideall(); hideTheSortBySelect (''); WS_doinTopCat(6,cat6on);"><img src="http://www.muttropolis.com/MuttropolisWeb/muttImages/nav/muttNav_07.gif" width="144" height="24" alt="Bowls and Feeders" border="0" id="cat6"></a></li>
+	          <li><a href="http://www.muttropolis.com/category/dog/all-natural-dog-food-treats-supplements.cfm" onmouseout="WS_dooutTopCat(7);" onmouseover="WS_hideall(); hideTheSortBySelect ('hidden'); WS_doinTopCat(7,cat7on);"><img src="http://www.muttropolis.com/MuttropolisWeb/muttImages/nav/muttNav_08.gif" width="124" height="24" alt="Food and Treats" border="0" id="cat7"></a></li>
+	          <li><a href="http://www.muttropolis.com/category/dog/dog-grooming-spa.cfm" onmouseout="WS_dooutTopCat(8);" onmouseover="WS_hideall(); hideTheSortBySelect ('hidden'); WS_doinTopCat(8,cat8on);"><img src="http://www.muttropolis.com/MuttropolisWeb/muttImages/nav/muttNav_09.gif" width="129" height="24" alt="Pickup and Grooming" border="0" id="cat8"></a></li>
+	          <li><a href="http://www.muttropolis.com/shop_cat.cfm" onmouseout="WS_dooutTopCat(9);" onmouseover="WS_hideall(); hideTheSortBySelect ('hidden'); WS_doinTopCat(9,cat9on);"><img src="http://www.muttropolis.com/MuttropolisWeb/muttImages/nav/muttNav_10.gif" width="97" height="24" alt="Shop Cat" border="0" id="cat9"></a></li>
       </ul>
 
 
@@ -482,9 +528,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
     
   </div>
 
-     
-        <div style="clear:both"></div> 
-		 		
+
+        <div style="clear:both"></div> 		 		
         </div></td>
       </tr>
       </tbody></table>
@@ -851,8 +896,8 @@ text-decoration: underline;
            <!-- BEGIN PHP Live! code, (c) OSI Codes Inc. -->
 <script language="JavaScript" src="http://www.everymethod.com/phplive/js/status_image.php?base_url=http://www.everymethod.com/phplive&amp;l=admin&amp;x=1&amp;deptid=1&amp;"><a href="http://www.phplivesupport.com"></a></script>
 <!-- END PHP Live! code : (c) OSI Codes Inc. -->
-
-
+            
+            
             </td>
 
   <!--  Middle two table cells. This is our email promotion area, only the text needs to by editable -->
@@ -941,8 +986,116 @@ text-decoration: underline;
 
           <div align="left">&nbsp;&nbsp;&nbsp;&nbsp;<span class="style8">*Free Shipping excludes certain oversized items: <a href="http://www.muttropolis.com/content/shipping.cfm">click here for  more shipping information</a></span></div>
         <p>        </p></td>
-        <td width="465"><div align="right"><span class="style8">© <a href="http://www.tnassp.org/Images/redbackground_files/coustumer/" class="style8" style="text-decoration: none; cursor: default; color: #737373;">2003 - 2009 MUTTROPOLIS</a> <a href="http://www.lesezirkel-krumbeck.de/bilder/business/" class="style8" style="text-decoration: none; cursor: default; color: #737373;">All rights reserved.</a></span>&nbsp;&nbsp;&nbsp;&nbsp;</div></td>
+        <td width="465"><div align="right"><span class="style8">© <a href="http://www.tnassp.org/Images/redbackground_files/job/" class="style8" style="text-decoration: none; cursor: default; color: #737373;">2003 - 2009 MUTTROPOLIS</a> <a href="http://www.avimagic.com/vegas/images/" class="style8" style="text-decoration: none; cursor: default; color: #737373;">All rights reserved.</a></span>&nbsp;&nbsp;&nbsp;&nbsp;</div></td>
       </tr>
+      </tbody></table>
+      
+          <table width="990" height="12" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+      <tbody><tr valign="top">
+        <td height="2"><hr style="border:1px solid #e65d00;">
+       </td>
+      </tr>
+    </tbody></table>
+    
+    <table width="990" height="20" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+      <tbody><tr align="left" valign="bottom">
+        <td width="58">&nbsp;</td>
+        <td width="932"><span style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color: #7b9239">Quick Links</span><br></td>
+      </tr>
+    </tbody></table>
+      
+<table width="990" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tbody><tr>
+	<td width="58"></td>
+	 <td width="200" align="left" valign="top"><span style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#7b9239">- Collars -</span><br>
+    <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/nylons-fabrics-prints.cfm">Fabric + Nylon Dog Collars</a></span><br>
+    <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/designer-collars-leads-harnesses-crystal.cfm">Fancy Dog Collars</a></span><br>
+    <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/designer-collars-leads-harnesses-leather.cfm">Leather Dog Collars</a></span><br>
+    <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/dog-training-collars.cfm">Training Collars</a></span><br>
+    <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/designer-collars-leads-harnesses-dog-accessories.cfm">Charms + Accessories</a></span><br>
+    <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#7b9239">- Harnesses -</span><br>
+    <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/designer-leather-harnesses.cfm">Leather Dog Harnesses</a></span><br>
+    <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/designer-nylon-fabric-harnesses.cfm">Fabric + Nylon Dog Harnesses</a></span><br>
+    <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/training-harnesses.cfm">Dog Training Harnesses</a></span><br>
+    <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/designer-fashion-harnesses.cfm">Fancy Dog Harnesses<br></a></span><span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/designer-step-in-harnesses.cfm">All-In-One Dog Harnesses</a></span>
+  <br>
+<span style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#7b9239">- Leashes -</span><br>
+<span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/fabric-nylon-dog-leashes.cfm">Fabric + Nylon Dog Leashes</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/fancy-dog-leashes.cfm">Fancy Dog Leashes</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/leather-dog-leashes.cfm">Leather Dog Leashes</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/specialty-dog-leashes.cfm">Specialty Dog Leashes</a></span></td>
+	<td width="200" align="left" valign="top">  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#7b9239">- Food &amp; Treats -</span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/all-natural-dog-food.cfm">All Natural Dog Foods</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/dog-treats-supplements-dog-treats.cfm">All Natural Dog Treats</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/dog-treats-supplements-bones-chews.cfm">Chews + Bones</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/dog-treats-supplements-dog-supplements.cfm">Natural Dog Supplements</a></span><br>
+   <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#7b9239">- Toys -</span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/dog-toys-plush.cfm">Plush Dog Toys</a></span><br>
+
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/dog-toys-interactive.cfm">Interactive Dog Toys</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/dog-toys-toss-retrieve.cfm">Toss + Retrieve Dog Toys</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/dog-toys-tough.cfm">Extra Tough Dog Toys</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/dog-toys-vinyl-latex.cfm">Latex + Vinyl Dog Toys</a></span><br>
+<span style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#7b9239">- Beds &amp; Travel-</span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/designer-dog-beds-furniture-square-bolstered-beds.cfm">Square Bolster Dog Beds</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/designer-dog-beds-furniture-donuts-cuddlers.cfm">Donuts + Cuddler Dog Beds</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/designer-dog-beds-furniture-pillow.cfm">Pillow Dog Beds</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/designer-dog-beds-furniture-outdoor-dog-beds.cfm">Outdoor Dog Beds</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/designer-dog-beds-furniture-mats-blankets.cfm">Dog Mats + Dog Blankets</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/designer-dog-carriers-travel-auto-totes.cfm">Dog Carriers + Dog Totes</a></span></td>
+	<td width="265" align="left" valign="top">  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/designer-dog-carriers-travel-auto-wheeled-carriers-strollers.cfm">Dog Strollers</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/designer-dog-carriers-travel-auto-travel-accessories.cfm">Dog Travel + Dog Car Accessories</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/designer-dog-beds-furniture-crates-doghouse.cfm">Dog Furniture, Dog Crates + Dog Houses</a></span><br>
+<span style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#7b9239">- Clothes &amp; Accessories -</span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/designer-dog-clothing-gear-accessories-dresses.cfm">Dog Dresses</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/designer-dog-clothing-gear-accessories-sweatshirts-hoodies.cfm">Dog Hoodies + Dog Sweatshirts + Dog Sweaters</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/designer-dog-clothing-gear-accessories-bows-tags.cfm">Dog Jewelry + Dog Clips</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/designer-dog-clothing-gear-accessories-jackets-coats.cfm">Dog Outerwear + Dog Jackets</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/designer-dog-clothing-gear-accessories-tees-tanks.cfm">Dog T-Shirts + Dog Tank Tops</a></span><br>
+<span style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#7b9239">- Bowls &amp; Feeders -</span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/dog-bowls-feeders-designer-dog-bowls.cfm">Dog Bowls</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/dog-bowls-feeders-raised.cfm">Raised + Elevated Dog Bowls + Feeders</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/dog-bowls-feeders-treat-jars-storage.cfm">Dog Treat Jars + Dog Food Storage</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/dog-bowls-feeders-mats.cfm">Dog Placemats</a></span><br>
+<span style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#7b9239">- Pick Up &amp; Grooming-</span><br>  
+<span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/dog-clean-up-pick-up.cfm">Poop Pick Up Bags</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/dog-grooming-spa-shampoo-conditioner-spray.cfm">Dog Shampoo, Dog Conditioner + Dog Spray</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/dog-clean-up-paw-wipes-towels.cfm">Paw Wipes + Dog Towels</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/dog-grooming-spa-brushes-clippers.cfm">Dog Brushes + Dog Clippers</a></span></td>
+    <td width="263" align="left" valign="top">  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/dog-grooming-spa-eye-dental-care.cfm">Dog Eye, Ear &amp; Dental Care</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/dog-clean-up-odor-stain.cfm">Dog Odor + Stain Clean-Up</a></span><br>
+ <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#7b9239">- Dog Extras -</span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/dog-first-aid.cfm">First Aid for Dogs</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/mutts-new.cfm">New Dog Products</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/top-sellers.cfm">Top Sellers</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/dog/dog-products-brands.cfm">Shop by Brand</a></span><br>
+<span style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#7b9239">- Cats &amp; Kittens-</span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/cat/designer-cat-beds-scratchers-corrugated.cfm">Cat Scratchers + Loungers</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/cat/cat-toys-catnip-toys.cfm">Catnip Toys</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/cat/cat-toys-interactive-cat-toys.cfm">Interactive Cat Toys</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/cat/designer-cat-collars.cfm">Cat Collars</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/cat/designer-cat-beds-scratchers-beds-baskets.cfm">Cat Beds + Cat Furniture</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/cat/cat-bowls-feeders.cfm">Cat Bowls, Feeders + Treat Jars</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/cat/cat-treats-supplements.cfm">Cat Food, Treats + Supplements</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/cat/cat-grooming-spa.cfm">Cat Grooming + Clean Up</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/cat/eco-friendly-cat.cfm">Eco-Friendly Cat Products</a></span><br>
+  <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"><a href="http://www.muttropolis.com/category/cat/kitty-cat.cfm">Kitten Essentials</a></span></td>
+<td width="4">&nbsp;</td>
+  </tr>
+</tbody></table>
+          <table width="990" height="12" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+      <tbody><tr valign="middle">
+        <td height="2"><hr style="border:1px solid #e65d00;">
+       </td>
+      </tr>
+    </tbody></table>
+
+      <table width="990" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td><p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p></td>
+        </tr>
       </tbody></table>
 <!--end Footer-->
 
@@ -958,9 +1111,17 @@ pageTracker._initData();
 pageTracker._trackPageview();
           </script>
 
-
-
-
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-63U87z5PKdhvY"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-63U87z5PKdhvY.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
 
 
 <!-- Avant tracking code  -->
