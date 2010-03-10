@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitclick.com privacy policy that was archived on 2009-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090818010636id_/http%3A//www.fitclick.com/www/misc/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitclick.com privacy policy that was archived on 2010-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100310180543id_/http%3A//www.fitclick.com/www/misc/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy | FitClick
 
