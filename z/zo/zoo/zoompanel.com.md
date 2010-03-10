@@ -1,159 +1,80 @@
-> *The following text is extracted and transformed from the zoompanel.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513185325id_/http%3A//www.zoompanel.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoompanel.com privacy policy that was archived on 2010-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100310171815id_/http%3A//www.markettools.com/privacy) for the most accurate reproduction.*
 
-# ZoomPanel : Privacy Policy
+# MarketTools, Inc.
 
-## Privacy Policy Revised: August 2006
+**Website Privacy Statement**
 
-The ZoomPanel is operated by MarketTools, Inc. MarketTools is a professional online marketing research company, which adheres to all CASRO (Council of American Survey Research Organizations) guidelines to protect all respondent confidentiality. Your identity and the replies that you provide to the ZoomPanel are kept completely confidential. The data that we collect for our market research clients is reported to them in aggregate form only. We do not provide our clients with your personally identifiable information and we will not send you unsolicited email.
+In this Web Site Privacy Statement ("statement"), we, MarketTools, Inc., headquartered in San Francisco, California, USA provide information about how we collect, use and transfer personally identifiable data from you, a web site visitor to web sites that we operate (collectively the "site"). The TRUSTe portions of this policy are applicable to ztelligence.com, zoomerang.com, zoompanel.com, and markettools.com only. 
 
-MarketTools, Inc is a licensee of the TRUSTe® Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. [](http://www.truste.org/ivalidate.php?url=www.zoompanel.com&sealid=102)
+**Scope**   
+This statement covers only data collected through the site. This statement does not cover any other data collection or processing, including, without limitation, data collection practices of other web pages to which we link or data processing practices of users of our service (e.g., users of our Zoomerang service). When we refer to this statement in notices and consent requests related to surveys, special-purpose web pages or otherwise, this statement applies as modified in the particular notice or consent request (e.g., with respect to types of data collected or purposes of collection). 
 
-This ZoomPanel privacy policy contains the following sections:
+We comply with the EU Safe Harbor Certification framework as set forth by the US Department of Commerce that covers personal data collected from or about persons in the European Economic Area as further explained in our General EEA Safe Harbor Notice [www.markettools.com/safeharbor/](http://www.markettools.com/safeharbor/). 
 
-  * Information Collection
-  * How We Use Your Information
-  * Data Verification and Supplementation
-  * Contests and Sweepstakes
-  * Tell-a-Friend
-  * Loyalty Program Co-branded Site (ZoomRewards)
-  * Opt-Out Policy
-  * Modifying Your Information
-  * Notification of Changes
-  * Security Measures
-  * How to Contact Us
-  * [Terms and Conditions](https://web.archive.org/termsZP.asp)
-  * [ZoomRewards Privacy Statement](https://web.archive.org/privacyZR.asp)
-  * [ZoomRewards Terms and Conditions](https://web.archive.org/termsZR.asp)
+**Types of Data and Collection Methods**   
+Through the site, we receive data that you actively submit as well as data that we track: 
 
+> _Actively Submitted Data:_ When you request information, subscribe to a mailing list or for a service, register as a user, post to one of our forums or communities, send or respond to an online survey or otherwise actively send us data, we usually collect data such as your name, email address(es), telephone number(s), country of residency, and certain information related to the business you represent (if any). In connection with chargeable services, we will also collect payment information (e.g., credit card number and related verification information). In connection with our own surveys, directed at ZoomPanel members, we ask question on the topic of the survey. When your or other website visitors use our tools to send out their own surveys, they decide who to contact and what questions to ask. In each such instance, however, you will know what data we collect through the site, because you actively submit it. 
+> 
+> _Passively Tracked Data:_ When you visit the site, we also passively track information on your computer and Internet connection, such as the IP address of your computer and/or Internet service provider, the date and time you access the site, the Internet address of web sites from which you link to our site, the computer technology you are using and your movements and preferences on our site. We use technology that many other web sites employ, including, without limitation, "cookies" or small data files stored on your computer's hard drive, to collect information such as the aforementioned. In some instances, we also use cookies to collect information in connection with future visits from that web site, to recognize you as a previous visitor and to track your activity at our site. You do not need to have cookies turned on to participate in our surveys or to visit our site. You can refuse cookies by turning them off on your browser, but please note that this may adversely affect user experience and convenience. 
+> 
+> _Combinations:_ Unless you also actively submit personal information such as your name or address, passively tracked data does not typically allow us to identify you personally (even though it can theoretically be done, we do not try to find out who you are, unless you identify yourself voluntarily through an active submission of data). To the extent permitted by applicable law, we reserve the right to combine passively tracked data or data available via a third party with personal data that you may choose to actively submit. We do this on the www.markettools.com site and for some survey "panels" (which may be deployed on ztelligence.com, Zoomerang.com, or other sites). Specifically if you take surveys from us we will "fingerprint" your system in order to combat fraud. In generating this "fingerprint" we gather only publically available information from your browser; this includes your IP address, browser version, and other identifying information. 
 
+**Collection Purposes, Use of Data**   
+We collect passively tracked data primarily for purposes of administering, protecting and improving our site and our systems, to better understand the preferences of our site visitors, to compile aggregated statistics about site usage, and to help personalize your experience on our site. We also use cookies and passively tracked data to protect the integrity of surveys, e.g., to prevent survey respondents from responding to the same survey twice. 
 
-## INFORMATION COLLECTION
+For some survey panels we will verify the information that you, or a third party, provide us and/or combine the information you provide with information we may gather from additional sources. Verification of personal data may be done on our systems, or done by a third party. If your personal data is provided to us for verification purposes only we will never store any of your personal information on our systems (we store only the result of the verification process). 
 
-When you fill out the ZoomPanel registration questionnaire, we gather your contact and demographic information such as email address, age, gender, postal address and zip code. We track this information so that we can send you surveys that are appropriate for or relevant to you. We try to ask your opinions about products and services with which you are familiar and that are readily available where you live.
+We collect primarily for two purposes: Firstly, for the purpose for which you originally sent us the data e.g., to confirm your registration for a service, to run a survey, to allow you to run a survey, to bill you for services or to send you information or materials that you requested – for additional information on our services please click here <http://www.markettools.com/products/>; secondly, for purposes of informing you about products and services; you can opt out of receiving marketing emails as explained below. 
 
-We also need to know about you so that we can ensure that a broad group of people is given the opportunity to respond to each survey. Often, the survey group must represent the diverse population comprised of specific geographic regions or age groups.
+**Disclosures of Personal Information**   
+We are not in the business of selling or renting your information to telemarketers and do not share your personally identifiable information with others, except as follows: 
 
-### LOG FILES
+  * We may share your information with affiliated companies for reward redemption and/or other market research opportunities. 
+  * If you use any of our services with a corporate email account (i.e., an account for employees, contractors, etc. as opposed to a personal email account with a general email service provider such as AOL, Hotmail, Yahoo, Gmail, etc.), and such corporation signs up for an enterprise account with us, we may inform such corporation of your use of our service, so that you can benefit from enterprise pricing and any other benefits negotiated by the corporation for its registered users or otherwise arising from such coordination. 
+  * We also engage agents and service providers who have access to data, but only to process such data on our behalf and for our purposes under confidentiality agreements. 
+  * We may share your information as required by law or in the interest of protecting or exercising our or others' legal rights, e.g., without limitation, in connection with requests from law enforcement officials and in connection with court proceedings. 
+  * We may share or transfer your information in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business. 
+  * We reserve the right to use and disclose any information collected via the site that is not in personally identifiable form. 
+  * We do not share, sell, rent or trade PII with third parties for their promotional purposes. 
 
-When you visit the ZoomPanel website (the "Site"), or participate in a survey, we gather certain information about your computer automatically and store it in log files. This information includes, but is not limited to, internet protocol (IP) addresses, browser type, internet service provider (ISP), referring and exiting pages, operating system, screen resolution, color capabilities, date and time stamp, click stream data, and information regarding which JavaScript version your computer has and whether your computer is enabled for Flash® and ActiveX. We tie personal information to logged information to (1) prevent abuse of our system, (b) track clicks and (c) ensure completion of the registration process.
 
-### COOKIES
 
-A cookie is a small text file that is stored on your computer that is used for authenticating, tracking, and maintaining specific information about you, such as your site preferences. We use cookies on the ZoomPanel website.
+Without limiting the generality of the foregoing, note that we will NOT share your identity or your individual responses to surveys that we conduct ourselves with customers who may have commissioned such surveys; we only provide aggregate response data to survey customers. But, as noted in the next following section, we do not control how others may use our tools when they conduct surveys through our website. 
 
-We may use both session ID cookies and/or persistent cookies. Session ID cookies make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your internet browser's "Help" file.
+**Third Party Data Collection Through Our Site**   
+When one of our users deploys our tools to send out survey requests or otherwise to collect data, e.g., through zoomerang.com, such user will receive and process any responses. We will host, but not access such information, except in connection with technical support or with the consent of the user who conducted the survey. We post rules on how our tools should be used, however, we cannot control the data processing practices of our users and we do not assume any responsibility for actions of our users who conduct surveys or of any other third parties. 
 
-If you reject cookies, you may still use the Site, however your ability to participate in surveys may be limited.
+**Tell A Friend**   
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. MarketTools stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
-^ back to top
+Your friend may contact us at [privacy@markettools.com](mailto:privacy@markettools.com) to request that we remove this information from our database. 
 
-## INFORMATION THAT WE USE AND SHARE
+**Co-branded Sites  
+**From time to time we may partner with a third parties to provide portions of the site. In the event that you provide personally identifiable information there this privacy policies will continue to apply. You retain full rights to you data and may either contact us at [privacy@markettools.com](mailto:privacy@markettools.com) to change or remove your data or alternatively you may ask us for a contact at the third party who can provide this service. 
 
-The personally identifiable information you provide us is used when we need to communicate with you. The communications that you will receive from the ZoomPanel will involve:
+**Opt-Out  
+**In connection with promotions or other projects, we may ask you specifically whether you have objections against a certain kind of data use or sharing. If you opt-out under such circumstances, we will respect your decision. To opt-out of receiving further commercial emails, sharing of your information with our affiliates or to unsubscribe from services, please contact us at [privacy@markettools.com](mailto:privacy@markettools.com). Please note that our affiliates and other data recipients have their own data privacy policies, which may differ from ours and you would have to contact them separately with respect to opt-out requests. 
 
-  * Invitations to participate in our surveys
-  * Communications about sweepstakes or other rewards for your participation
-  * Offers from MarketTools, Inc. or Zoomerang, a service of MarketTools, Inc.
-  * Administrative emails including but not limited to, Account Statements and ZoomPanel Newsletters
+**Access**   
+If personal information you have submitted through the site is no longer accurate, current, or complete, and you wish to update it, or you wish to delete it, please update your profile on the site (typically [www.zoompanel.com](http://www.zoompanel.com/)) or send an email to [privacy@markettools.com](mailto:privacy@markettools.com). Upon appropriate request we will be glad to update or amend your information within 30 days, but we reserve the right to use information previously obtained to verify your identity or take other actions that we believe are appropriate. 
 
+**Security**   
+Transmissions over the Internet are never 100% secure or error-free. We do, however, take reasonable steps to protect your personal information from loss, misuse, and unauthorized access, disclosure, alteration and destruction. For example, we encrypt your registration information using secure socket layer technology (SSL). To learn more about SSL follow this link   
+<http://en.wikipedia.org/wiki/Transport_Layer_Security>. It is your responsibility to safeguard any password and User ID you use to access the site and to notify us at [webmaster@markettools.com](mailto:webmaster@markettools.com) if you ever suspect that your password or User ID has been compromised. You are solely responsible for any unauthorized use of the site conducted via your password and User ID. 
 
+**Children's Privacy**.   
+The site is intended for adults in the United States. We do not intentionally or knowingly collect personally-identifiable information from children under the age of 13 and we request that individuals under the age of 13 not submit any personal information on the site. 
 
-### NOTE TO PARENTS AND MINORS
+**Terms of Use**   
+Your use of our site is governed by our [Terms of Use](http://www.zoomerang.com/Terms-of-Use/), which contain disclaimers, limitations of liability, and a choice of California law and jurisdiction.   
 
-ZoomPanel does not seek to collect any personal information from minors. We ask that minors do not submit any information about themselves and that they do not use this Site. Anyone using the Site or the services provided in connection with the Site represents and warrants that they are 18 years of age or older. We may ask you about whether or not you have children and the ages of your children as family composition is often relevant to assembling a particular panel.
 
-You may opt out of receiving communications from us at any time. Please review the Opt-Out Policy section below.
+**Effective Date, Amendments**   
+This statement is effective as of December 10, 2007. We reserve the right to change, modify, supplement or replace all or part of this statement from time to time and in our sole discretion, but will alert you that changes have been made by indicating on the statement the date it was last updated. Before any material changes to this privacy policy we will post a prominent notice on our home page no less than 30 days before these changes go into effect. When you visit the site, you are accepting the current version of this statement as posted on the site at that time. We recommend that users revisit this statement on occasion to learn of any changes. 
 
-We gather information about you as part of our Internet survey and research process. We collect this information so that we can send you relevant market research surveys that target your specific demographic profile. We then aggregate your survey responses and report the results to our clients.
+**TRUSTe**   
+We are a participant in the TRUSTe Privacy and EU Safe Harbor programs. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. 
 
-^ back to top
-
-## DATA PROCESSING, VERIFICATION AND SUPPLEMENTATION
-
-Periodically, we may send your information to third-party data processors for data verification, supplementation or other processing. Data verification involves the use of third-party data processing services to standardize and clean your provided profile information so that it is easily identified and accessed in our database. Data supplementation involves appending any publicly available information about you to your personal profile.
-
-On occasion, ZoomPanel may send the information we gather about you to other trusted third-party data processors to organize, process and/or analyze the data on our behalf. For instance, we use such services to ensure that your opt-out requests are honored and we use other such services to send surveys to those of you participating in our mobile panel.
-
-All such third-party data processors are (a) prohibited from using your personal information except to provide these services to ZoomPanel and (b) contractually bound to observe this ZoomPanel privacy policy to ensure that the confidentiality of your personal information will be maintained.
-
-We may share your non-personally identifiable information collected via surveys in aggregate and anonymous form with our clients. For example, we may let a client know that female survey respondents aged 25-34 preferred product A over product B. We do not disclose your first name, last name, postal address, email address or any other personally identifiable information to these third parties unless you provide us with your express consent.
-
-^ back to top
-
-## CONTESTS AND SWEEPSTAKES
-
-ZoomPanel may provide you with opportunity to participate in contests and sweepstakes. If you choose to participate, we will request certain personally identifiable information from you. The requested information typically includes contact information (such as name and shipping address) and demographic information (such as gender and zip code). We use this information to help our clients qualify and notify contest winners and award prizes. We will not share such personally identifiable information with any third party unless we give you prior notice and the opportunity to opt out (though failure to provide certain contact information may impact our clients' ability to award prizes).
-
-We may use a third-party service provide to conduct these contests and sweepstakes. All such providers are (a) prohibited from using your personally identifiable information for any purpose other than conducting the contest or sweepstakes and (b) contractually bound to observe this ZoomPanel privacy policy to ensure that the confidentiality of your personal information will be maintained.
-
-^ back to top
-
-## TELL-A-FRIEND
-
-ZoomPanel may offer you the opportunity to refer friends to join the panel. If you choose to use our referral service to tell a friend about ZoomPanel, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to join the panel. We may store this information for the sole purpose of sending this one-time email and for tracking the success of our referral program.
-
-Your friend may contact us at [info@zoompanel.com](mailto:info@zoompanel.com) to request that we remove this information from our database.
-
-^ back to top
-
-## PARTNER LOYALTY PROGRAM CO-BRANDED SITE (ZoomRewards)
-
-We may use another domain at one of our partners' sites so that you can be offered loyalty incentives or other rewards for participating in ZoomPanel surveys. Your personally identifiable information will be used by our partners only for the purpose of tracking your participation and redeeming rewards. All such partners are (a) prohibited from using your personally identifiable information for any purpose other than providing you with rewards and (b) contractually bound to observe this ZoomPanel privacy policy to ensure that the confidentiality for your personal information will be maintained.
-
-You can view ZoomRewards' [Privacy Policy](https://web.archive.org/privacyZR.asp) or [Terms & Conditions](https://web.archive.org/termsZR.asp).
-
-^ back to top
-
-## OPT-OUT POLICY
-
-Our Site provides you with the ability to opt-out of receiving communications from the ZoomPanel. You may opt-out by clicking on the "Cancel Account" link at the bottom of each page on ZoomPanel.com. Instructions about how to unsubscribe from the Zoompanel are also contained in every email that we send out to you. You may also opt out by sending an email to [info@zoompanel.com](mailto:info@zoompanel.com) or writing to us at:
-
-ZoomPanel  
-150 Spear Street, Suite 600  
-San Francisco, CA 94105  
-Attn: Opt-Out Program
-
-^ back to top
-
-## MODIFYING YOUR INFORMATION
-
-You may update your registration information on the "My Profile" page of the Site. This is a secure area and login is required. You may change your email, password, mailing address or other registration information on this page. If you have forgotten your password, you may select the "Forgot Password" link on the "My Profile" page, and then enter your email address. Your password will be sent to your registered email address.
-
-^ back to top
-
-## NOTIFICATION OF CHANGES
-
-If we make material changes to this privacy policy that do not affect how we use your personally identifiable information, we will post a prominent notice on our website. That notice will direct you to the page containing the revised policy. If, however, we propose to use your personally identifiable information in a manner different from that stated at the time we collected it from you, we will notify you via email. Our email will instruct you on how you can express your consent to our proposed use of your information.
-
-^ back to top
-
-## SECURITY MEASURES
-
-We take strict precautions to use modern security technology to protect the personally identifiable information submitted to us, both during transmission and once we receive it. The data we collect is protected through the use of firewalls and passwords, among other things. Nonetheless, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we are vigilant in protecting your personally identifiable information, we cannot guarantee its absolute security.
-
-^ back to top
-
-If you have questions or concerns about this statement, you should first contact us.
-
-By email: [privacy@zoompanel.com](mailto:privacy@zoompanel.com).
-
-By regular mail:  
-ZoomPanel  
-150 Spear Street Suite 600  
-San Francisco, CA 94105
-
-If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will serve as a liaison with our ZoomPanel team to resolve your concerns.
-
-^ back to top
-
-## [ZOOMPANEL TERMS AND CONDITIONS](https://web.archive.org/termsZP.asp)
-
-## [ZOOMREWARDS PRIVACY POLICY](https://web.archive.org/privacyZR.asp)
-
-## [ZOOMREWARDS TERMS AND CONDITIONS](https://web.archive.org/termsZR.asp)
-
-^ back to top
-
-[Join Now](http://join.zoompanel.com/zoompanel/?source=ZPOR&master_id=130&source_creative_id=9999&promo_id=9999) | [Privacy Policy](https://web.archive.org/privacy.asp) | [Terms of Service](https://web.archive.org/termsZP.asp) | [Cancel Account](http://deploy.ztelligence.com/start/survey/survey_taking.jsp?PIN=137NME7VMEQNG)
-
-Copyright ©2002-2008 MarketTools, Inc. All rights reserved. MarketTools is a registered trademark of MarketTools, Inc. ZoomPanel and the corporate logo are trademarks of MarketTools, Inc. Other marks referenced herein are the property of their respective owners.
+**Contact Us**   
+Please feel free to contact us with any comments, questions, complaints or suggestions you might have regarding the information practices described in this statement. You may send us an e-mail at [info@markettools.com](mailto:info@markettools.com) or MarketTools, Inc., 150 Spear Street, Suite 600, San Francisco, CA 94105. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you can also contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. TRUSTe will act as a liaison for any complaints arising from markettools.com, zTelligence.com, Zoomerang.com, or Zoompanel.com. 
