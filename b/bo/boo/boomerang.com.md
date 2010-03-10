@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomerang.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204130655id_/http%3A//boomerang.com/About-Us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomerang.com privacy policy that was archived on 2010-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100310222150id_/http%3A//boomerang.com/About-Us/privacy-policy) for the most accurate reproduction.*
 
 # Our Promise To Protect Your Privacy - Boomerang
 
