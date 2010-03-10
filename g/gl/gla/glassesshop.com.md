@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glassesshop.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515153026id_/http%3A//www.glassesshop.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassesshop.com privacy policy that was archived on 2010-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100310012238id_/http%3A//www.glassesshop.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy: Glassesshop Online Shopping
 
