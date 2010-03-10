@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitnsw.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215092348id_/http%3A//www.visitnsw.com/Privacy_p863.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitnsw.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311000313id_/http%3A//www.visitnsw.com/Privacy_p863.aspx) for the most accurate reproduction.*
 
 # Privacy, Visit NSW
 
