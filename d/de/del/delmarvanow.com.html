@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the delmarvanow.com privacy policy that was archived on 2009-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091218024649id_/http%3A//www.delmarvanow.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the delmarvanow.com privacy policy that was archived on 2010-03-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100310094942id_/http%3A//www.delmarvanow.com/section/PRIVACY) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><!-- 
 
 --><head>
-<!-- GO4F Version: 0912.1604 -->
+<!-- GO4F Version: 1003.1671 -->
 							<title>delmarvanow.com | Salisbury PRIVACY | The Daily Times</title>
 <meta name="keywords" content="delmarvanow.com,Salisbury,Maryland,News,local news,headlines,stories,world news">
 <meta name="description" content="Salisbury Maryland News - delmarvanow.com is the home page of Salisbury Maryland with in depth and updated Salisbury local news. Stay informed with both Salisbury Maryland news as well as headlines and stories from around the world.">
+<link rel="canonical" href="http://www.delmarvanow.com/section/PRIVACY/PRIVACY">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="expires" content="0">
@@ -17,12 +18,12 @@
 <link href="/gci/gc/p12/GO4Styles-min.css" rel="stylesheet" type="text/css">
 <script src="/GEL/lib/core/core.js"></script>
 <script type="text/javascript"> 
- /*Subsite Redirect*/
+/*Subsite Redirect*/
 var _bodyTimer= new GEL.util.benchmark.Timer("Body Load").start(); 
 GEL.thepage.on("ready", function() { _bodyTimer.end() } ); 
- try{document.domain= GEL.config.domain= "delmarvanow.com"}catch(e){};
- /* GO4 Faster PageInfo */
- 				GEL.config.sitelifeurl= "http://sitelife." + 
+try{document.domain= GEL.config.domain= "delmarvanow.com"}catch(e){};
+/* GO4 Faster PageInfo */
+				GEL.config.sitelifeurl= "http://sitelife." + 
 	"delmarvanow.com/ver1.0/Direct/Process?sid=sitelife"+ 
 	".delmarvanow.com";
 GEL.thepage.pageinfo = { 
@@ -58,31 +59,27 @@ GEL.thepage.pageinfo = {
 	}
 };
 GEL.thepage.pageinfo.siteinstance="";
- /* Banner configuration and Initialization */
- (function(){
+/*GO4 Faster Semantics*/
+/* Banner configuration and Initialization */
+(function(){
 var 
 	_c= GEL.config,
-        _keywords= ''+'&'+location.search.substring(1),
-        _a= _keywords.split("&")
+	_a = [],
+	_ids = (typeof(GEL.thepage.pageinfo.semantics) != 'undefined'
+			&& typeof(GEL.thepage.pageinfo.semantics.uniqueids) != 'undefined') ? GEL.thepage.pageinfo.semantics.uniqueids : [],
+	_keywords
 ; 
+_c.KeyValues={};
+_c.KeyWords=[];
+for(n in _ids)
+	_a.push('CW'+_ids[n])
+for(var i=0; i<_a.length; i++)
+	_c.KeyWords.push(_a[i]);
+_c.KeyValues = {kvcw: _ids.join(':')};
 _c.AdPage='PRIVACYsection';
 _c.AdServer= "gannett.gcion.com"; 
 _c.AdNetworkId= 5111.1;
-_c.KeyValues= { };
-_c.KeyWords= [];
-for( var i=0,l=_a.length,w=_a[i]; i<l; w= _a[++i] )
-{
-        if(!w) continue;
-        var
-                _t= w.split("="),
-                n= encodeURIComponent(_t[0]),
-                v= _t[1]
-        ;
-        if(v)   
-                _c.KeyValues['kv'+n]=  encodeURIComponent(v);
-        else
-                _c.KeyWords.push(n);
-}
+_c.PlacementId=parseInt(896172, 10)
 _c.gcion_section_front = "section"; 
 _c.gdn_section_front = "section"; 
 _c.PDurl = 'search.delmarvanow.com'; /*PDURL*/
@@ -123,7 +120,7 @@ return function OAS_AD(pos, opts) {
         _me.parentNode.insertBefore(_container.getElement(), _me); 
 }
 })(); 
- (function(){ 
+(function(){ 
 var _c= GEL.config.userauth={
 	timeout: 20, 
 	enable_auth_by_division: true, 
@@ -149,7 +146,7 @@ var _c= GEL.config.userauth={
 	persona_url: "/apps/pbcs.dll/section?category=pluckpersona", 
 	blogs_url: "/apps/pbcs.dll/section?category=pluckpersona&plckPersonaPage=PersonaBlog", 
 	photos_url: "/apps/pbcs.dll/section?category=pluckpersona&plckPersonaPage=PersonaPhotos", 
-	version: "3.4.1",
+	version: "3.4",
 	coppaage: 13, 
 	pp_url: "/pp", 
 	tos_url: "/tos", 
@@ -237,7 +234,7 @@ GEL.thepage.initializer.addInitRoutine({
 	}
 }); 
 })(); 
- /****O4 Faster Omniture******/
+/****O4 Faster Omniture******/
 (function(){
 	var 
 		_PI= GEL.thepage.pageinfo
@@ -245,18 +242,7 @@ GEL.thepage.initializer.addInitRoutine({
 	GEL.namespace('config.omniture', 'config.bus.properties', 'config.bus.providers');
 	GEL.config.bus.providers.sitecat= 100; 
 	GEL.config.bus.providers.bt= 200;
-/* If this is a frontpage (section or home) we add the checkmate provider */
-(function(){ 
-	var _CFG= GEL.namespace("config.checkmate"); 
-	_CFG.domain= "" || (function(){ 
-		var _a= window.location.host.split("."); 
-		return _a[_a.length - 2];
-	})(); 
-	_CFG.server= "q1.checkm8.com"; 
-	_CFG.scriptlib= "http://q1digital.checkm8.com/adam/cm8adam_1_call.js"; 
-	_CFG.profile= ""; 
-	GEL.config.bus.providers.checkm8= 200;
-})(); 
+/* If this is a frontpage (section Front or home) we add the checkmate provider:*/
 (function(){ 
 	var _CFG= GEL.namespace("config.comscore"); 
 	_CFG.domain= "" || (function(){ 
@@ -326,7 +312,42 @@ GEL.thepage.initializer.addInitRoutine({
 		division: 'Newspaper',
 		location: document.location,
 		marketname: 'Salisbury:delmarvanow',
-		isException : false
+		isException : false,
+		v4: (function(){
+			var 
+				_p = GEL.env.url.qsv
+			;
+			if(_p.source)
+				return _p.source;
+		})(),
+		v11: (function(){
+			if(typeof(_PI.semantics)!='undefined' && typeof(_PI.semantics.uniqueids)!='undefined'){
+				var 
+					_c = _PI.semantics.uniqueids.join('+'),
+					_t = _PI.type,_u
+				;
+			_u = (_t=='frontpage') ? 'frontpage' : 
+					( (_t=='article') ? _PI.articleinturl.split('/').slice(1,5).join('/') : 
+						( (_t=='section') ? _PI.type +'/'+_PI.categoryid : '' ) )
+			; 
+				if(_c)
+					return 'CW:'+'/'+_u+':'+_PI.ssts.section+':'+_c;
+			}
+		})(),
+		v12: (function(){
+			if(typeof(_PI.semantics)!='undefined' && typeof(_PI.semantics.allids)!='undefined'){
+				var 
+					_c = _PI.semantics.allids.join('+'),
+					_t = _PI.type,_u
+				;
+			 _u = (_t=='frontpage') ? 'frontpage' : 
+					( (_t=='article') ? _PI.articleinturl.split('/').slice(1,5).join('/') : 
+						( (_t=='section') ? _PI.type +'/'+_PI.categoryid : '' ) )
+			; 
+				if(_c)
+					return 'CW:'+'/'+_u+':'+_c;
+			}
+		})()
 	}
 })();
 </script> 
@@ -346,7 +367,7 @@ GEL.thepage.initializer.addInitRoutine({
 			<div class="leaderboard-container-top">
 				<div class="leaderboard-top">
 					<div class="ad_728x90">
-<div id="adcontainer___gelement_adbanner_0"><div id="__gelement_1" class=" gel-hidden"><script id="__gelement_2" src="https://gannett.gcion.com/addyn/3.0/5111.1/133600/0/-1/ADTECH;alias=PRIVACYsection_728x90_1;cookie=info;loc=100;target=_blank;grp=27641;misc=1582529700330;size=728x90;noperf=1;key=PRIVACY;kvtitle=PRIVACY"></script>
+<div id="adcontainer___gelement_adbanner_0"><div id="__gelement_1" class=" gel-hidden"><script id="__gelement_2" src="https://gannett.gcion.com/addyn/3.0/5111.1/896172/0/-1/ADTECH;alias=PRIVACYsection_728x90_1;cookie=info;loc=100;target=_blank;grp=22004;misc=1582529699285;size=728x90;noperf=1;key=PRIVACY;kvcw=;kvtitle=PRIVACY"></script>
 </div>
 </div><banner position="728x90_1" id="__gelement_adbanner_0"></banner>
 </div>
@@ -363,7 +384,8 @@ GEL.thepage.initializer.addInitRoutine({
 		<li>Other editions: </li>
 		<li><a href="/mobile/">Mobile</a> |</li>
 		<li><a href="/rss/">News Feeds</a> |</li>
-		<li><a href="/newsletters/">E-Newsletters</a></li>
+		<li><a href="/newsletters/">E-Newsletters</a></li> |
+		<li><a href="http://salisburydailytimes.md.newsmemory.com/">E-Edition</a></li>
 		<!-- li><a href="/sms/">Text Alerts</a></li -->
 	</ul>
 	<ul class="right">
@@ -502,7 +524,6 @@ GEL.thepage.initializer.addInitRoutine({
 	<div style="clear:both;"></div>
 </form>
 		</div><!-- #isf-search-form -->			
-
 				</div>
 			</td>
 			<td>
@@ -652,7 +673,7 @@ function initMenu(){
 	<a href="/apartments"><span class="apartments"></span></a>
 	<a href="/cars"><span class="cars"></span></a>
 	<a href="/jobs"><span class="jobs"></span></a>
-	<a href="/homes"><span class="homes"></span></a>
+	<a href="http://www.homefinder.com"><span class="homes"></span></a>
 	<a href="/shopping"><span class="shopping"></span></a>
 	<a href="/dating"><span class="dating"></span></a>
 	<a href="http://www.usaweekend.com"><span class="usaweekend"></span></a>
@@ -660,11 +681,11 @@ function initMenu(){
 <div id="partner-links" class="partner-links">
 	<ul>
 		<li>Partners: </li>
-		<li><a href="http://www.careerbuilder.com">Jobs: CareerBuilder.com</a></li>
-		<li><a href="http://www.cars.com">Cars: Cars.com</a></li>
-		<li><a href="http://www.apartments.com">Apartments: Apartments.com</a></li>
-		<li><a href="http://www.shoplocal.com">Shopping: ShopLocal.com</a></li>
-		<li><a href="/homes">Homes: Homefinder.com</a></li>
+		<li><a href="/jobs">Jobs: CareerBuilder.com</a></li>
+		<li><a href="/cars">Cars: Cars.com</a></li>
+		<li><a href="/apartments">Apartments: Apartments.com</a></li>
+		<li><a href="/shopping">Shopping: ShopLocal.com</a></li>
+		<li><a href="http://www.homefinder.com">Homes: Homefinder.com</a></li>
 		<li><a href="http://www.eharmony.com">Dating: eHarmony</a></li>
 	</ul>
 </div>
@@ -679,7 +700,7 @@ function initMenu(){
 		<li><a href="/aboutus">About Us</a> |</li>
 		<li><a href="/subscribe">Subscribe</a></li>
 	</ul>
-	<p>Copyright ©2009 The Daily Times</p>
+	<p>Copyright ©2010 The Daily Times</p>
 </div>
 <div class="gannettlegal">
 	<p>	Use of this site signifies your agreement to the <a href="/section/TERMS">Terms of Service</a> and <a href="/section/PRIVACY">Privacy Policy</a> , updated March 2009.	</p>
