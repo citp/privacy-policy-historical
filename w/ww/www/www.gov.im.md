@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the www.gov.im privacy policy that was archived on 2009-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090919084757id_/http%3A//www.gov.im/terms.gov%3Fkeyname%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.gov.im privacy policy that was archived on 2010-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100310110658id_/http%3A//www.gov.im/terms.gov%3Fkeyname%3DPrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy, Data Protection and sharing of information - Isle of Man Government -
+# Privacy, Data Protection and sharing of information - Isle of Man Public Services -
 
 This privacy policy explains what information the Isle of Man Government collects and what that information is used for. 
 
