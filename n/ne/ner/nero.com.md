@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nero.com privacy policy that was archived on 2009-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090316095749id_/http%3A//www.nero.com/enu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nero.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311001556id_/http%3A//www.nero.com/enu/privacy.html) for the most accurate reproduction.*
 
 # Nero - Privacy
 
@@ -26,7 +26,7 @@ When you enter a contest or other promotional event, we may ask for information 
 When you register, we may ask you for information such as your name, e-mail address, shipping address, and serial number.  
 We may use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to help identify you and your time spent at our sites, and to gather broad demographic information. This allows us to see which parts of our sites users are visiting. We do not link IP addresses to anything personally identifiable. This means, for instance, that a user's session will be tracked, but the user will remain anonymous. We do not use this information for any other puposes.  
 When a user submits personal information, it is kept on a private server not accessible from the Internet. This limits the possibility of any malicious use of your information.  
-Visitors can change or correct information about themselves via our registration system. If there is a problem with a change being accepted by our system, you may contact us at the e-mail address: [webmaster@nero.com](mailto:webmaster@nero.com)  
+Visitors can change or correct information about themselves via our registration system. If there is a problem with a change being accepted by our system, you may contact us at the e-mail address: [privacy@nero.com](mailto:privacy@nero.com)  
 If you choose not to register or provide personal information, you can still use most of our websites anonymously. But you will not be able to access areas that require registration. Only the domain name from which you access the Internet, the Internet address and the date and time you access our web sites are logged. Nero AG uses this information to analyze trends and to measure the number of visitors to our web sites.
 
 ### Use of personal information
@@ -70,7 +70,7 @@ Nero AG may share non-personal, summary information regarding its customers with
 
 When a user registers, the user will be given the opportunity to select whether or not to be included in the Nero AG mailing list. Inclusion on the mailing list may entitle the user to receive information or updates about special offers, programs, new products and/or services.
 
-**To help us improve our privacy policies, please give us your[feedback, comments and suggestions](mailto:webmaster@nero.com).**
+**To help us improve our privacy policies, please give us your[feedback, comments and suggestions](mailto:privacy@nero.com).**
 
 ### Updates and Changes to Privacy Statement
 
