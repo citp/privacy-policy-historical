@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetrafficworld.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219133433id_/http%3A//www.freetrafficworld.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetrafficworld.com privacy policy that was archived on 2010-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100310135340id_/http%3A//www.freetrafficworld.com/privacy.php) for the most accurate reproduction.*
 
 # FreeTrafficWorld.com
 
