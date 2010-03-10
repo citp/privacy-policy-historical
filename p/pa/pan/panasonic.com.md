@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the panasonic.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323021949id_/http%3A//www.panasonic.com/pol_docs/copyright-prv.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panasonic.com privacy policy that was archived on 2010-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100310222043id_/http%3A//www.panasonic.com/pol_docs/copyright-prv.asp%23privacy) for the most accurate reproduction.*
 
 # Copyright Notice, Pricing Policies & Online Privacy Statement
 
 **Copyright Notice, Pricing Policies & Online Privacy Statement**
 
 **Copyright Notice**  
-Copyright ©1998-2009 Panasonic Corporation of North America. All rights reserved. 
+Copyright ©1998-2010 Panasonic Corporation of North America. All rights reserved. 
 
 Panasonic Corporation of North America  
 One Panasonic Way  
