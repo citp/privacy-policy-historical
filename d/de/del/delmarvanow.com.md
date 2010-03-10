@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delmarvanow.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218024649id_/http%3A//www.delmarvanow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delmarvanow.com privacy policy that was archived on 2010-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100310094942id_/http%3A//www.delmarvanow.com/section/PRIVACY) for the most accurate reproduction.*
 
 # delmarvanow.com | Salisbury PRIVACY | The Daily Times
 
