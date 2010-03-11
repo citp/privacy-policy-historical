@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnsstuff.com privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004024819id_/http%3A//www.dnsstuff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnsstuff.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311075734id_/http%3A//www.dnsstuff.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement
 
