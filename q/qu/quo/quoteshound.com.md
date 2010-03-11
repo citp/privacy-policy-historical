@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quoteshound.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215091433id_/http%3A//www.quoteshound.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quoteshound.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311150722id_/http%3A//www.quoteshound.com/privacy/index.php) for the most accurate reproduction.*
 
 # QuotesHound :: Privacy Policy
 
