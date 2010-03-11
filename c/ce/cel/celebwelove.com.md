@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebwelove.com privacy policy that was archived on 2009-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091002084443id_/http%3A//www.celebwelove.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebwelove.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311140907id_/http%3A//www.celebwelove.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy : CelebWeLove.com
 
