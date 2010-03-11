@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianitytoday.com privacy policy that was archived on 2009-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090910000604id_/http%3A//www.christianitytoday.com/help/features/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianitytoday.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311234547id_/http%3A//www.christianitytoday.com/help/features/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Help & Info
 
@@ -19,7 +19,7 @@ Credit Card Safety
 Ordering online with us is a secure transaction. All online transactions in CTI's online stores are handled with industry-standard SSL encryption. This means that when you enter your credit card number into the order form, it is transmitted across the Internet in an encrypted (scrambled) form, and then decoded when it gets to us.
 
 E-mail Addresses  
-When you provide CTI with your e-mail address, we will use it only for the purpose for which it was provided. We do not rent, sell, or exchange your e-mail address with any third party except to provide the services you request or as required by law (see "Other Entities" section below).
+When you provide CTI with your e-mail address, we will use it only for the purpose for which it was provided. We do not rent, sell, or exchange your e-mail address with any third party except to provide the services you request or as set forth in the "Other Entities" section below.
 
 Information We Collect
 
@@ -40,7 +40,7 @@ Personally identifiable information will be used for the purposes for which it w
 You can visit and browse CTI's websites without revealing personally identifiable information about yourself. You may also choose to disclose personally identifiable information about yourself for the purposes described below.
 
 E-mail Newsletters  
-When you request a free e-mail newsletter from us, we will collect and store your e-mail address to provide you with the requested newsletter. We may also send you occasional special offers and information from CTI and other select sources we think would be of interest to you. You may change your subscribed e-mail address, opt-out of receiving special e-mailed offers, or remove yourself from any mailing list by following the instructions contained in every newsletter. We do not rent, sell, or exchange your e-mail address with any third party except to provide the services you request or as required by law (see "Other Entities" section below).
+When you request a free e-mail newsletter from us, we will collect and store your e-mail address to provide you with the requested newsletter. We may also send you occasional special offers and information from CTI and other select sources we think would be of interest to you. You may change your subscribed e-mail address, opt-out of receiving special e-mailed offers, or remove yourself from any mailing list by following the instructions contained in every newsletter. We do not rent, sell, or exchange your e-mail address with any third party except to provide the services you request or as set forth in the "Other Entities" section below.
 
 Requests for Magazines, Products or Services  
 When you request a magazine, product, or service from us, we will collect and store your name, address, credit card number, and other basic personally identifiable information to provide you with the requested product or service and for billing purposes. We may also offer you, by direct mail, products from CTI and other select sources we think would be of interest to you.
@@ -70,6 +70,8 @@ Certain CTI Internet services and websites are co-branded (such as [ChurchSiteCr
 
 Many CTI online stores are hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you access one of these stores through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information.
 
+In the event of a sale, merger, assignment, joint venture or other transfer or disposition of a portion or all of the assets of Christianity Today International (including, without limitation, in connection with any bankruptcy or similar proceedings), information you have provided may be transferred as part of the business assets but will remain subject to the promises made in any pre-existing Privacy Notice (unless, of course, you consent otherwise).
+
 CTI reserves the right to cooperate with law enforcement officials in the investigation of alleged unlawful activities of our customers related to electronic communication transmitted on our site. CTI will have no legal liability for such disclosures.
 
 Cookies  
@@ -81,7 +83,7 @@ Kids and Teens
 Be sure to ask your parents for permission before sending us any information about yourself. **_If you are under 18, you must have your parents' or guardian's permission to order any products or services from us._** If you are under the age of 13, do not use our chat and message boards. If you are between the ages of 13 and 18, you may use our Teen message boards, but never post your full name, address, phone number, or school name on any message board or in any chat room.
 
 Parents  
-CTI's Internet sites are general audience sites, and CTI does not knowingly collect personally identifiable information from children under the age of 13. Any information collected online by CTI from children under 18 is used only for the purpose of delivering the requested product or service. Please instruct your children to ask you for permission before providing any information about themselves to CTI, and visit the [Federal Trade Commission website](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html) for more information about safe Web surfing.
+CTI's Internet sites are general audience sites, and CTI does not knowingly collect personally identifiable information from children under the age of 13. Any information collected online by CTI from children under 18 is used only for the purpose of delivering the requested product or service. Please instruct your children to ask you for permission before providing any information about themselves to CTI, and visit the [Federal Trade Commission website](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm) for more information about safe Web surfing.
 
 How to Update Your Information
 
@@ -97,7 +99,7 @@ Upon request, we provide site visitors with access to contact information (e.g.,
   * ChristianityTodayLibrary.com: [click here](http://ctlibrary.com/help/contact.html) to send your request
   * ChurchSiteCreator.com: [click here](http://churchsitecreator.com/templates/cuscti/details.asp?id=27256&PG=Contact) to send your request
   * ChurchLawToday.com: [click here](http://www.churchlawtoday.com/contact.php) to send your request
-  * ReducingTheRisk.com: [click here](http://www.reducingtherisk.com/contact.php) to send your request
+  * ReducingTheRisk.com: [click here](http://www.reducingtherisk.com/help/contactus.html) to send your request
 
 
 
@@ -107,7 +109,7 @@ Beginning on January 1, 2005, California Civil Code Section 1798.83 requires CTI
 Updates to Privacy Policy  
 From time to time, we may update this privacy notice. Please check this page periodically for changes. We will notify you about any changes in the way we treat personally identifiable information by placing a notice on our site.
 
-The Privacy Policy posted on this site was updated on or about February 22, 2007.
+The Privacy Policy posted on this site was updated on or about October 7, 2009.
 
 CTI welcomes your comments regarding this Privacy Policy. If you have any questions or comments, please feel free to [contact us](https://web.archive.org/help/features/webmaster.html).
 
