@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jpeterman.com privacy policy that was archived on 2009-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090130083819id_/http%3A//jpeterman.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpeterman.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311223610id_/http%3A//www.jpeterman.com/Privacy) for the most accurate reproduction.*
 
-# Uncommonly good men's and women's clothing, accessories and things for the home | The J. Peterman Company
+# The J. Peterman Company - Privacy Policy
+
+Privacy Policy
 
 Welcome. We appreciate your participation and value your personal privacy at our website, jpeterman.com. The goal of our policy is to explain to you the information we collect, how we use and share this information, and how you can edit your personal information. This policy applies to the information we collect on this website, that you were participating in when you clicked through to this policy, which is owned and operated by The J. Peterman Company. We collect customer information to improve your overall shopping experience with us. We respect your privacy and are committed to maintaining and using this information responsibly. 
 
