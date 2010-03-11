@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freaksofboobs.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217234549id_/http%3A//cumdisgrace.com/terms_conditions/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freaksofboobs.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311192115id_/http%3A//freaksofboobs.com/terms_conditions/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
