@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the marks.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215040610id_/http%3A//www2.marks.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marks.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311084619id_/http%3A//www2.marks.com/Privacy.asp) for the most accurate reproduction.*
 
-# Mark's Work Wearhouse :: Clothes That Work
+# Mark's Work Wearhouse :: Clothes that don't compromise on performance or fashion.
 
 ## E-CAST  
 OFFERS
 
-[Sign Up Now >](https://web.archive.org/web/20091215040610id_/http%3A//www2.marks.com/RewardsClub.asp)
+[Sign Up Now >](https://web.archive.org/web/20100311084619id_/http%3A//www2.marks.com/RewardsClub.asp)
 
 [](http://www2.marks.com/OurGuarantee.asp)   
 [](http://www.mediaservicesgroup.net/marks/ecast/dec08_fastfind/index.html)
