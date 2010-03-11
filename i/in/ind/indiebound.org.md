@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiebound.org privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528075013id_/http%3A//indiebound.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiebound.org privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311184624id_/http%3A//www.indiebound.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IndieBound
 
