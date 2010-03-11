@@ -1,47 +1,68 @@
-> *The following text is extracted and transformed from the powerhousemuseum.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509133453id_/http%3A//www.pocketmail.com/us/products/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerhousemuseum.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311022716id_/http%3A//www.powerhousemuseum.com/privacy) for the most accurate reproduction.*
 
-# PocketMail Email Anywhere
+# Powerhouse Museum - Online privacy statement
 
-|  | 
+**Powerhouse Museum commitment to protecting your privacy**   
+The Powerhouse Museum is committed to protecting your privacy, including while and as a result of your interaction/s with our websites. These include:
 
-  
-_Last Updated 22 May 2002_
+  * www.powerhousemuseum.com, www.powerhousemuseum.com.au
+  * www.sydneyoberservatory.com, www.sydneyobservatory.com.au
+  * www.soundbyte.org 
+  * www.sydneydesign.com.au
+  * www.dhub.org
+  * www.ultimosciencefestival.com
+  * www.migrationheritage.nsw.gov.au
 
-_This Privacy Notice will inform you as to what personal information PocketMail collects, in connection with your use of the PocketMail Service and how we use it and protect it in accordance with the Privacy Amendment (Private Sector) Act 2001. We value your expectations for privacy and take care to protect, consistent with this Privacy Notice, the confidentiality and security of the information we collect from you and our subscribers_
 
-  
-  
-  
-This Privacy Notice applies to PocketMail Group Ltd. and its subsidiaries worldwide ("PocketMail"), our PocketMail Service, and our Web sites www.pocketmail.com, shop.pocket.com, my.pocket.com and localised national versions of those same Web sites published by us. It does not apply to any other Web site, or any company, entity, or person that is not under the direct or contractual control of PocketMail. 
 
-"Personal information" means personally identifiable information such as your name, street address, telephone number, credit card information, screen name and e-mail address. PocketMail will not collect any personal information from your visits to the Web sites used with our Service unless you provide this information voluntarily. By subscribing to the PocketMail Service, you have agreed to provide this information. 
+and all subsections of the above
 
-When you provide us with Personal Information, you are authorising us to use that information in accordance with the terms of this Privacy Notice. If you have any questions or concerns regarding our use of your personal information, please see "Who to Contact" below. 
+The Powerhouse Museum is subject to the _NSW Privacy and Personal Information Protection Act (1998)_. The Museum's Privacy Management Plan outlines how the Museum complies with the Act.
 
-We collect personal information you submit during the initial registration process. We also collect payment information, including credit card information, in connection with your subscription or if you request any additional products or services for which payment is required. We also collect non-personally identifiable information from all users of the Service that allows us to understand how our Service is used, so that we may continually improve it, and to customise the features of the Service for our users. Please see "Do We Use Cookies?" below for more information. 
+**Email newsletters  
+**The Powerhouse Museum offers a number of regular email bulletins including a Members bulletin, Livewire monthly newsletter and the Design mailing list for updates and special announcements . In sending email newsletters the Powerhouse Museum complies with the Australian Government's _Spam Act 2003_. By signing up for an email newsletter you are explicitly giving consent to receive that newsletter at the regular interval specified at the time of signing up. All bulk emails have an opt-out feature in their footer and the secure email service the Museum utilises explicitly prevents resending to any addresses that have opted out. Email addresses attached to one list are never merged or added into other Powerhouse Museum lists. All these lists are also covered by the _NSW Privacy and Personal Information Protection Act (1998)_ and are never passed on to, traded or sold to third parties.
 
-We use the registration information you submit in order to keep track of who our customers are, so that we may provide you the services you request, and so that we may contact you with offers of products or services in the future. If you submit credit card information, we use this information in order to process your payments and maintain our own financial records. We do not use your credit card information for any other purpose, or transmit it to anyone except our credit card processor, unless we are required to do so by law. 
+**Automatic logging of information**   
+IP (Internet Protocol) addresses [an IP is the address of a computer] of visitors are automatically logged by our servers. The server makes a record of your visit and logs limited information for statistical purposes - your IP address, top-level domain name (.com, .gov, .edu, com.au etc), the date and time of your visit to our site, pages accessed and documents downloaded, previous site visited and the type of browser used. These logs are used to administer the website and to diagnose problems in order to be able to rectify them. This data is also used for audience research to help us to improve the site.
 
-We do not sell, rent, or give the personal information of our subscribers to any company not affiliated with us. Other companies that perform services for us may have access to your personal information from time to time, but we contractually require these companies to keep such information confidential and not to use it for any other purpose than to perform the service for which they have been retained. 
+IP addresses do not contain any personally identifiable information and are aggregated for analysis. Such aggregate data may be provided to internal departments only. Recording usage patterns helps us to identify popular areas of our site, and helps us to improve the site. Reports generated on aggregate data are periodically sent to State Government as part of the Museum's statutory requirements.
 
-We may aggregate information you provide in a manner that does not disclose any personally identifiable information and provide that information, in aggregated form, to one or more advertisers, service partners or other businesses. In no event will that aggregated information be sufficient to allow you to be personally identified, either alone or in combination with any other information that may exist about you. 
+**Collection of personal information**   
+The Powerhouse Museum collects personal information such as name, phone/fax number, email address/postal address when you provide it in order to receive specific Museum services. This information is stored in secure Museum databases. The information you provide will be used solely by the relevant Museum staff for its intended purpose, as stated on those pages. Your name, contact details and other information will not be provided to any other person or third-party organisation without your consent.
 
-Certain features of our Service, such as e-mail sent to your e-mail address may also serve to notify us when the message itself is opened. This enables us to measure the effectiveness and improve the delivery of these and other features of our Service. None of these files transmit any additional information to us. By using the Service, you agree to receive e-mails from us and to permit the collection of this information. 
+Your provision of personal details is optional, however some services may not be available to you if you do not provide these details.
 
-We may also collect information about your PocketMail device, such as the e-mail address and the unique identification number associated with that device, and information about any computer you use to access our Web sites, such as your IP address (a number assigned to your computer whenever you surf the Internet), the type of Internet browser you are using and the type of computer operating system you are using. This information is used to manage the security and efficiency of our Service and in connection with measuring the effectiveness of certain advertisements and services. We also use your personal information in connection with your use of our Service in order to better understand how our Service is used, so that we may continually improve it, and to customise the features of the Service for you. 
+One such example is Soundbyte.org, the Museum's interactive music site which requires users to log-on and authenticate with the site to access premium services.
 
-This issue does not apply to the use of PocketMail devices, however it may apply to your use of Web browsers to access our Web sites. Cookies are small files or pieces of information that are stored by your Web browser on your computer's hard drive, or, if you access the Web via a mobile phone, in a temporary directory on your WAP service providers' network servers. Cookies do not damage or harm your computer or your mobile phone in any way. 
+If you contact the Museum via this website, your email address will be used only to reply to you - which may require it to be sent on to the appropriate Museum staff member. Your email address will not be added to a mailing list or disclosed to any other person or organisation without your consent.
 
-We may use cookies to collect information during your visit to our Web sites (on a non-personally identifiable basis), such as the particular site areas you visit and the products or services you obtain through the Service. We collect this information to better tailor the Service and our products to the interests and needs of our users. Cookies may also be used to help speed up your future activities with the Service; the computer can remember that you have already provided personal information and service preferences, and not request that you provide these a second time. 
+This website may use third party tracking and monitoring tools. These tools may record information about your user session but do not record personal information other than about your IP address, internet browser and search terms. If you wish to opt out of these tools then we would recommend disabling Javascript and turning off cookies. Please be aware that some areas of our website may not function correctly with these turned off.
 
-Most browsers are initially set to accept cookies. If you prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, your refusal of the use of cookies with our Service may limit your ability to use certain features or to receive personalised information during your use of the Service. 
+**Use of cookies**   
+Cookies are small files that a website can store on a user's computer and are used for keeping the 'state of a user session' i.e. remembering who you are from a page requesting information through to supplying it. The cookies that are used by the Powerhouse Museum websites do not collect any personal information and we do not combine information collected through cookies with other personal information to tell us who you are other than to authenticate the user for security purposes.
 
-We maintain physical and technical security measures at our facilities to ensure that no one obtains access to personal information that does not have a legitimate reason to do so. When we collect credit card information, we do so by means of a secure server using Secured Sockets Layer ("SSL"). SSL is a type of encryption that encodes your credit card information while it is in transit to us so that it is very difficult to intercept and read. We may upgrade the type of security measures we use from time to time, as technology and threats to security change. 
+We also use cookies to measure certain visitor patterns, including areas of the website you have visited. This research is used to help us understand user habits, so the website can be improved.
 
-  
-The personal information records we collect are part of our business operations and assets. In the event that we sell or transfer the ownership or operation of the Service to a third party, that transaction may include the transfer of our records containing your personal information. However, in that situation, we will contractually assure that the party to whom the business is sold or transferred may only use your personal information in a manner consistent with the terms of this Privacy Policy. 
+If you prefer not to receive cookies, you can adjust your internet browser to refuse cookies or to warn you when cookies are being used. Refusal may make some parts of our websites inaccessible, unusable, or not function correctly.
 
-We are unlikely to make frequent changes to the ways we collect, use and disclose personal information. However, we reserve the right to change our privacy practices at any time. If we do make any significant change to how we use personal information, notice of that change will be prominently posted in this area of our Web site. We encourage you to check this page regularly in order to stay informed if we make any changes that may affect you. 
+**Collection search data  
+**The Powerhouse Museum's collection search and the collection search on Design Hub (www.dhub.org) anonymously stores all search terms to enable better ordering and sorting of search results, as well as for internal museum evaluation purposes. At no time are search results stored with any personally identifying information. The museum does NOT collect IP addresses against search terms in our collection databases. 
 
-You may access, correct and update the personal information that we hold about you. We encourage you to let us know if there are any errors in your personal information and to advise us of changes to the information. To ensure the integrity and safety of your personal information, we will only disclose such information if our internal procedures are satisfied. If you have any questions or concerns regarding our collection, use or disclosure of your personal information, please contact PocketMail Customer Service via the e-mail, telephone or fax contact information listed under "Contact us" in the Company section of this Web site. We always appreciate your feedback because it helps us to continually improve our service to our customers.   
+**Disclosure**   
+The Powerhouse Museum will not disclose your personal information to any third party except when required by law and/or in accordance with the _Privacy and Personal Information Protection Act, 1998_.
 
+The Museum may be required to disclose your personal information to third parties to provide the service you requested. For example, in purchasing products online, the Museum will need to disclose personal information to third parties in order to bill and deliver your products. This disclosure, however, will only be made to fulfil the purpose for which you disclosed your personal information. We will not disclose your personal information for any other purpose unless you have authorised us to do so.
+
+**External links**   
+This site contains links to other sites. The Powerhouse Museum is not responsible for the privacy practices or the content of such web sites.
+
+**Public forums and listservers**   
+There are interactive features on some of the Museum's websites including email groups and online collaborative functionality. These services are opt-in services and by their nature require that certain details are transmitted to third parties. For example, a participatory email discussion list requires disclosure of email addresses to other participants in the group when you post messages for discussion. If you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return. Please do not post any information that you do not want seen in these public areas.
+
+**Security**   
+This site uses secure credit card facilities provided by two third party providers. Online book sales and memberships are handled securely by Westpac. Ticket sales are handled by Sabo. Please refer to their respective privacy and security policies for details on their services.
+
+This site has security measures in place to protect against the loss, misuse and alteration of information under our control.
+
+**Contact details**   
+If you have any questions about this Online Privacy Statement, please contact the Museum's Privacy Officer by telephoning (02) 9217 0575.
