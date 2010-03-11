@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfspot.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228160534id_/http%3A//www.perfspot.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfspot.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311230138id_/http%3A//www.perfspot.com/privacy.asp) for the most accurate reproduction.*
 
 # PerfSpot.com
 
@@ -18,7 +18,7 @@ You are informed that any photograph, image, graphic, video or other content pos
 
   
   
-2\. Información recogida  
+2\. Collected Information  
   
 
 
@@ -32,7 +32,7 @@ d. Log File Data: When Users log-in to their PerfSpot account, our servers will 
 
   
   
-3\. Usos de la información  
+3\. Information Uses  
   
 
 
@@ -43,7 +43,7 @@ d. PerfSpot uses clear .GIFs and log file data to: (i) provide custom content an
 
   
   
-4\. Divulgación de información  
+4\. Disclosure of Information  
   
 
 
@@ -55,7 +55,7 @@ e. PerfSpot may release any information available if required to do so by law, o
 
   
   
-5\. Declinar aceptar  
+5\. Decline to Accept  
   
 
 
@@ -63,7 +63,7 @@ You may, of course, decline to submit or allow the submission of personally iden
 
   
   
-6\. Vínculos y anunciantes terceros  
+6\. Links and Third Party Advertisers  
   
 
 
@@ -71,9 +71,11 @@ PerfSpot allows other companies, also referred to as Third Party Advertisers, Ad
 
 PerfSpot does not provide any personally identifiable information to these Advertisers without your consent, except as part of a specific program, feature, or campaign for which you will have the ability to opt-out. However, should you click on an Advertiser offering or choose to visit an Advertiser's website, PerfSpot highly recommends that you consult the respective privacy policy of the Advertiser for more information on their practices and for instructions on how to opt-out of certain programs and practices of the Advertiser. PerfSpot's Privacy Policy does not apply to, nor can PerfSpot control, the activities of other websites or Advertisers.
 
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp)
+
   
   
-7\. Seguridad de los datos  
+7\. Data Security  
   
 
 
@@ -81,7 +83,7 @@ In an effort to provide maximum protection of User's privacy, PerfSpot routinely
 
   
   
-8\. Intimidad de los niños  
+8\. Children's Privacy  
   
 
 
@@ -89,7 +91,7 @@ PerfSpot complies with the Children's Online Privacy Protection Act of 1998 (COP
 
   
   
-9\. Transferencia de derechos  
+9\. Transfer of Rights  
   
 
 
@@ -99,23 +101,21 @@ In the unlikely event of a bankruptcy, assignment for the benefit of creditors, 
 
   
   
-10\. Información de contacto  
+10\. Contact Information  
   
 
 
-Puedes ponerte en contacto con Atención al Cliente de PerfSpot en:
+You may contact PerfSpot Customer Service at:
 
 PerfSpot.com, LLC  
 Attention: Customer Service  
 4800 N. Scottsdale Rd, Suite 4500  
 Scottsdale, Arizona 85251 USA  
-Correo electrónico: support@perfspot.com  
-(USA): 1-888-311-PERF (311-7373)  
-Directo (Internacional): (1)602-273-3758
+Email: support@perfspot.com
 
   
   
-11\. Cambios y actualizaciones  
+11\. Changes and Updates  
   
 
 
@@ -123,7 +123,7 @@ This Privacy Policy may be revised at will. Such changes, edits, revisions, and/
 
   
   
-12\. Comunicaciones  
+12\. Communications  
   
 
 
@@ -131,7 +131,7 @@ On occasion as deemed necessary by PerfSpot (daily, weekly, monthly, etc.), Perf
 
   
   
-13\. Lengua De Presidencia  
+13\. Presiding Language  
   
 
 
