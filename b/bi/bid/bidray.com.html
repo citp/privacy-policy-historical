@@ -1,11 +1,101 @@
-<!--The following is the downloaded HTML source of the bidray.com privacy policy that was archived on 2009-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091207011056id_/http%3A//www.bidray.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bidray.com privacy policy that was archived on 2010-03-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100311042324id_/http%3A//www.bidray.com/privacy.php) for the most accurate reproduction.-->
 
-<html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Penny Auctions - Bidray | Bid &amp; Win Penny Auctions! - Privacy Statement</title>
-<meta name="description" content="Bidray offers Crazy Bargain Penny Auctions on Brand New Products. Save $1000´s on new laptops, HD TVs, Ipods and more. Bid and Win Crazy Penny Auctions on Bidray!">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script>
+function utmx_section(){}function utmx(){}
+(function(){var k='2168950583',d=document,l=d.location,c=d.cookie;function f(n){
+if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.indexOf(';',i);return c.substring(i+n.
+length+1,j<0?c.length:j)}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;
+d.write('<sc'+'ript src="'+
+'http'+(l.protocol=='https:'?'s://ssl':'://www')+'.google-analytics.com'
++'/siteopt.js?v=1&utmxkey='+k+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='
++new Date().valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
+'" type="text/javascript" charset="utf-8"></sc'+'ript>')})();
+</script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=2168950583&amp;utmx=&amp;utmxx=&amp;utmxtime=1582536741312" type="text/javascript" charset="utf-8"></script>
+<!-- End of Google Website Optimizer Control Script -->
+
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Penny Auctions - Bidray | Bid &amp; Win Penny Auctions!</title>
+<meta name="description" content="Bidray offers Crazy Bargain Penny Auctions on Brand New Products. Save $1000's on new laptops, HD TVs, Ipods and more. Bid and Win Crazy Penny Auctions on Bidray!">
 <meta name="keywords" content="Penny Auctions, Penny auction,cent auction,bidray">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><link rel="stylesheet" href="/css/bidraystyle.css" type="text/css"><script type="text/javascript" src="js2/jquery.js"></script><script type="text/javascript" src="js2/json.js"></script><script type="text/javascript" src="js2/start_business2.js"></script><script type="text/javascript" src="js2/mz-packed.js"></script><script type="text/javascript" src="js2/arun-validator.js"></script><script type="text/javascript" src="js2/oodomimagerollover.js"></script><script type="text/javascript" src="js2/tabcontent2.js"></script><script type="text/javascript" src="js2/common_users.js"></script></head>
+
+<link rel="stylesheet" href="css/bidraystyle.css" type="text/css">
+<link rel="stylesheet" href="css/newstyles.css" type="text/css">
+
+
+
+
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/json.js"></script>
+
+
+
+<script type="text/javascript" src="js/mz-packed.js"></script>
+<script type="text/javascript" src="js/arun-validator.js"></script>
+<script type="text/javascript" src="js/oodomimagerollover.js"></script>
+<script type="text/javascript" src="js/tabcontent2.js"></script>
+
+
+
+<script type="text/javascript" src="js/common_users.js"></script>
+
+<script type="text/javascript">
+
+	function checkBRLogin(){
+		$.getJSON("ajax_loginStatus.php", function(data){
+		  if(data.status){
+			if($(".userName")){
+				$(".userName").text(data.userName);
+				$("#biddableCredit").text(data.biddableCredit);
+				$("#loginWrapper").show();
+				$("#logoutWrapper").hide();
+                                firstload=true;
+		  }
+			$("#menuMybidray").html("<a href='account.php'>My Bidray</a>");
+			$("#menuRegister").html("<span id=logoutspan>Logout</span>");
+$("#logoutspan").click(
+  function() {
+     $.get("auction_winners.php?logout=1");
+  }
+);
+			
+
+		}else{
+			if(typeof(data.referrer) != "undefined"){
+				//$("#referrer").text("DBG referred by: "+data.referrer);
+			}
+			if($("#loginWrapper")){
+				$("#loginWrapper").hide();
+				$("#logoutWrapper").show();
+				$(".bidlink").unbind("click");
+			}
+			$("#menuMybidray").html("<a href='newtobidray.php'>How it Works?</a>");
+			$("#menuRegister").html("<a href='registration.php'>Register</a>");
+		}
+	
+	});
+
+	
+}
+$(document).ready(function(){
+  checkBRLogin();
+  if(typeof(bFrontPage) != "undefined"){
+  }else{
+    setInterval("checkBRLogin()", 10000);
+  }
+});
+</script>
 
 
 
@@ -13,42 +103,13 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
+</head>
 
 
 
 <body>
+
+
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 
@@ -70,7 +131,7 @@
 
                 <tbody><tr>
 
-                  <td valign="bottom"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <td valign="bottom" colspan="3"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 
                       <tbody><tr>
 
@@ -81,25 +142,54 @@
                             <tbody><tr>
 
                               <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+
                                 <tbody><tr>
-                                  <td id="links">Official Bidray Penny Auctions Time (Central): <strong><span id="display_time"><!-- Google Website Optimizer Control Script -->
-<script>
-function utmx_section(){}function utmx(){}
-(function(){var k='3554482407',d=document,l=d.location,c=d.cookie;function f(n){
-if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.indexOf(';',i);return c.substring(i+n.
-length+1,j<0?c.length:NaN:NaN //ssl'</script></span></strong><div style="height: 54px; padding-top:5px; width:970px; float:right; position:absolute; left:1px; top:15px;"><!-- START SCANALERT CODE -->
+                                  <td id="links">Official Bidray Penny Auctions Time (PST): <strong><span id="display_time_small">
+
+  
+    <title>Wayback Machine</title>
+    <script type="text/javascript">      window.webComponentLoaderConfig = {
+      baseUrl: 'https://archive.org',
+      version  '29e56e87'
+      }
+    </script>
+    <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+    <script src="//archive.org/includes/analytics.js?v=24ef0ed0" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/npm/jquery-ui.min.js?v1.12.1" type="text/javascript"></script>
+    <script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+    <script src="//archive.org/components/npm/clipboard/dist/clipboard.js?v=24ef0ed0" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/regenerator-runtime-polyfill.min.js?v=24ef0ed0" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/ie-dom-node-remove-polyfill.min.js?v=24ef0ed0" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/polyfill.min.js?v=24ef0ed0" type="text/javascript"></script>
+    <script src="//archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=24ef0ed0" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/more-facets.min.js?v=24ef0ed0" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?v16.7.0" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/archive.min.js?v=24ef0ed0" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/areact.min.js?v=24ef0ed0" type="text/javascript"></script>
+    <link href="//archive.org/includes/build/css/archive.min.css?v=24ef0ed0" rel="stylesheet" type="text/css">
+    <meta property="braintree_token" content="production_w3jccm3z_pqd7hz44swp6zvvw">
+    <meta property="environment" content="production">
+    <meta property="venmo_id" content="2878003111190856236">
+        <script src="/_static/js/raven.min.js" crossorigin="anonymous"></script>
+    <script>Raven.config('https</script></span></strong><div style="height: 54px; padding-top:5px; width:970px; float:right; position:absolute; left:1px; top:15px;"><!-- START SCANALERT CODE -->
 <a href="https://www.mcafeesecure.com/RatingVerify?ref=www.bidray.com" target="_blank"><img width="94" height="54" border="0" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" src="//images.scanalert.com/meter/www.bidray.com/13.gif"></a>
 <!-- END SCANALERT CODE --></div></td>
                                 </tr>
                                 <tr>
                                   <td valign="bottom">
-								  <div id="nav" style="top:70px "><img src="images/finalbidraylogo.png" alt="Penny Auctions" border="0" class="logo" style="float:left ">
-              <ul style="float:left ">
+								  <div id="nav" style="top:70px "><img src="img/finalbidraylogo.png" alt="Penny Auctions" border="0" class="logo" style="float:left ">
+              <ul style="position:absolute;left:230px;top:0px;">
+
                 <li><a href="index.php">Home</a></li>
-                <li> <a href="newtobidray.php">How it Works?</a>  </li>
+                
+                <li id="menuMybidray"><a href="newtobidray.php">How it Works?</a></li>
+               
                 <li><a href="sold.php">Sold Items</a></li>
                 <li><a href="help.php">Help</a></li>
-                <li> <a href="registration.php">Register</a>  </li>
+                
+                   <li id="menuRegister"><a href="registration.php">Register</a></li>
+ 
 
                </ul>
             </div></td>
@@ -128,33 +218,109 @@ length+1,j<0?c.length:NaN:NaN //ssl'</script></span></strong><div style="height:
 					
 				  <table width="100%" border="0" cellspacing="0" cellpadding="0">
 
+  
+
   <tbody><tr>
 
-    <td height="5"></td>
-
-  </tr>
-
-  <tr>
-
-    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <td width="257" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 
         <tbody><tr>
 
-          <td width="5"></td>
+          <td></td>
 
-          <td width="250" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+         
+
+	<td width="250" valign="top">
+<div id="main_leftnavi_wrapper">
+ 	
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
 
 							  
 
-							 	
+						 	
 
               <tbody><tr>
 
-                <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <td>
+                <!--  -->
+					<div id="loginWrapper" class="hidden" style="display: none;">
+					<table width="100%" cellspacing="0" cellpadding="0" border="0">
+
+                                          <tbody><tr>
+
+                                            <td width="100%"><table width="100%" cellspacing="0" border="0">
+
+                                              <tbody><tr>
+
+                                                <td><div class="infotitle"><h2>User Account</h2>
+                            </div></td>
+
+                                              </tr>
+
+                                            </tbody></table></td>
+
+                                          </tr>
+
+                                          <tr>
+
+                                            <td valign="top" align="center" class="infobox"><table width="100%" cellspacing="0" border="0" align="center">
+
+                                              <tbody><tr>
+
+                                                <td valign="middle" align="left" class="blacktxt2">Hi <span class="userName"></span>,</td>
+
+                                              </tr>
+
+                                              <tr>
+
+                                                <td valign="middle" align="left" class="content11">You are now logged in, and can start bidding on all of our exciting auctions,</td>
+
+                                              </tr>
+
+                                              <tr>
+
+                                                <td align="center" class="bluetxt">Bids Left : <span id="bidcounts"><span id="biddableCredit"></span></span> </td>
+
+                                              </tr>
+
+                                              <tr>
+
+                                                <td height="25" valign="middle" align="center"><input type="button" value="Buy More Bids" onclick="window.location.href='account.php';" class="arunbutton" name="button3"></td>
+
+                                              </tr>
+
+                                              <tr>
+
+                                                <td valign="middle" align="center" class="content11">Or</td>
+
+                                              </tr>
+
+                                              <tr>
+
+                                                <td height="25" align="center"><input type="button" value="Refer Friends for Bids" onclick="window.location.href='referfriend.php';" class="arunbutton" name="button4"></td>
+
+                                              </tr>
+
+                                            </tbody></table>
+
+                  </td></tr>
+
+                                          <tr>
+
+                                            <td background="images/botbgn.gif">
+
+                                          </td></tr>
+
+                  </tbody></table>
+                </div>
+					
+			<div id="logoutWrapper" class="">
+			<table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                     <tbody><tr>
 
-                      <td width="100%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <td width="100%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+
                           <tbody><tr>
 
                             <td><div class="infotitle">                         <h2>Login</h2>
@@ -170,51 +336,83 @@ length+1,j<0?c.length:NaN:NaN //ssl'</script></span></strong><div style="height:
 
                       <td height="201" class="infobox">
 
-				  	    <form name="loginfrm" method="post">
-				  	      <table width="100%" border="0" align="center" cellpadding="1" cellspacing="0">
+				  	    <form method="post" name="loginfrm" id="formId_0043735689170909171258451546914">
+				  	      <table width="100%" cellspacing="0" cellpadding="1" border="0" align="center">
 
                           <tbody><tr>
 
-                            <td align="left" valign="middle" class="bluetxt">User Name:</td>
+                            <td valign="middle" align="left" class="bluetxt">User Name:</td>
 
                           </tr>
 
                           <tr>
 
-                            <td align="left" valign="middle"><input id="f1" name="username" type="text" class="input" value=""></td>
+                            <td valign="middle" align="left"><input type="text" value="" class="input" name="username" id="f1"></td>
 
                           </tr>
 
                           <tr>
 
-                            <td align="left" valign="middle" class="bluetxt">Password:</td>
+                            <td valign="middle" align="left" class="bluetxt">Password:</td>
 
                           </tr>
 
                           <tr>
 
-                            <td align="left" valign="middle"><input name="password" id="f2" type="password" class="input" value=""></td>
+                            <td valign="middle" align="left"><input type="password" value="" class="input" id="f2" name="password"></td>
 
                           </tr>
 <tr><td>
 <script type="text/javascript">
+
 var f1 = new LiveValidation('f1');
 f1.add( Validate.Presence );
 var f2 = new LiveValidation('f2');
 f2.add( Validate.Presence );
-</script></td></tr>
+</script>
+<script type="text/javascript">
+function bidrayLogin(){
+	$("#loading").show();
+	$.post("auction_winners.php?login=1",
+			{
+				u : $("#f1").val(),
+				p : $("#f2").val()
+			},							
+			function(d) {
+				
+				// same as the personal fetch here										
+				if(d.logged) {					
+					window.location.href="index.php";			
+					// get the personal information								
+				} else {
+					
+					
+					alert("The password or the username was incorrect.");
+					 
+				}
+				$("#loading").hide();
+				
+			},
+			"json"
+			);
+	return false;
+}
+</script>
+</td></tr>
                           
                           <tr>
-                            <td align="left" valign="middle"><input type="image" src="images/login.gif" srcover="images/login2.gif" srcdown="images/login3.gif" alt="" width="108" height="37" border="0" onclick="return validate_ajaxlogin()"><span class="err" id="user"></span><span align="center" class="fontcombo" id="loading" style="visibility:hidden"><center><img src="images/ajax-loader.gif"><br>
-                    <font color="#0066FF" size="-1"><b>Loading....Please Wait!</b></font></center></span></td>
+
+                            <td valign="middle" align="left"><input height="37" width="108" type="image" border="0" onclick="return bidrayLogin()" alt="" srcdown="img/login3.gif" srcover="img/login2.gif" src="img/login.gif" oldsrc="https://web.archive.org/web/20100311042324id_/http%3A//www.bidray.com/img/login.gif"><span id="user" class="err"><span style="display: none;" id="loading" class="fontcombo" align="center"><center><img src="img/ajax-loader.gif"><br>
+                    <font size="-1" color="#0066ff"><b>Loading....Please Wait!</b></font></center></span></span></td>
                           </tr>
 
 
 
                           <tr>
 
-                            <td height="21" align="left" valign="middle"><a href="forgotpassword.php" class="bluetxt1">Forgot Password?<br>
-                            </a></td>
+                            <td height="21" valign="middle" align="left"><a class="bluetxt1" href="forgotpassword.php">Forgot Password?<br>
+                            </a><span id="referrer"></span>
+                            </td>
 
                           </tr>
 			        <tr>
@@ -234,7 +432,10 @@ f2.add( Validate.Presence );
 
                    
 
-                  </tbody></table></td>
+                  </tbody></table>
+                 </div><!-- loginWrapper end -->
+			
+                </td>
 
               </tr>
 
@@ -255,7 +456,7 @@ f2.add( Validate.Presence );
 			   
               <tr>
 
-                <td height="15"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <td width="250" height="15"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 
                   <tbody><tr>
 
@@ -264,6 +465,7 @@ f2.add( Validate.Presence );
                         <tbody><tr>
 
                           <td><div class="bbsatitle"><h2>Information</h2>
+
                             </div></td>
 
                         </tr>
@@ -275,16 +477,18 @@ f2.add( Validate.Presence );
                   <tr>
 
                     <td class="bbsabox">
+
 <p class="heading">How do  Penny Auctions work?</p>
                       
 <p>1. You bid on an item (price is raised by $0.01)<br>
   2. Wait for the countdown timer to hit zero.<br>
   3. Purchase the item at your bidding price.</p>
-<p></p><center><a href="http://www.bidray.com/tactics.php"><img src="http://www.bidray.com/images/winningstrategies.png" srcover="http://www.bidray.com/images/winningstrategies2.png" alt="Secret Winning Strategies!" vspace="3" border="0" align="center"></a><br></center>
+<p></p><center><a href="tactics.php"><img src="img/winningstrategies.png" srcover="img/winningstrategies2.png" alt="Secret Winning Strategies!" vspace="3" border="0" align="center" oldsrc="https://web.archive.org/web/20100311042324id_/http%3A//www.bidray.com/img/winningstrategies.png"></a><br></center>
 <p></p>
 <table width="204" border="0" align="center" cellpadding="2">
 
                     </table>
+
                     <center>
                     </center>
                       <br>
@@ -292,20 +496,19 @@ f2.add( Validate.Presence );
                           <tbody><tr>
                             <td colspan="2" class="blacktxt4">BID PRICES</td>
                         </tr>
-                          <tr class="orangedata1">
-                            <td><strong>2 Text Message Bids </strong></td>
-                            <td>*Free!</td>
-                        </tr>
+                          
                           <tr class="orangedata2">
                             <td><strong>20 Bids </strong></td>
                             <td>$19.75</td>
                           </tr>
+
                           <tr class="orangedata1">
                             <td><strong>50 Bids   (+5 Bonus) </strong></td>
                             <td>$49.75</td>
                           </tr>
                           <tr class="orangedata2">
                             <td><strong>100 Bids   (+15 Bonus) </strong></td>
+
                             <td>$99.75</td>
                           </tr>
                           <tr class="orangedata1">
@@ -313,93 +516,56 @@ f2.add( Validate.Presence );
                             <td>$199.75</td>
                           </tr>
                           <tr class="orangedata2">
+
                             <td><strong>400 Bids   (+100 Bonus!) </strong></td>
                             <td>$399.75</td>
                           </tr>
                       </tbody></table>
-                          <center>* (Normal traffic fees for sending and receiving text messages may occur.) <br>   
+                          <center> <br>   
                       <table width="135" border="0" align="center" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
 <tbody><tr>
-<td width="135" align="center" valign="top"><script src="https://seal.verisign.com/getseal?host_name=www.bidray.com&amp;size=L&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br>
+<td width="135" align="center" valign="top"><script src="https://seal.verisign.com/getseal?host_name=www.bidray.com&amp;size=L&amp;use_flash=NO&amp;use_transparent=NO〈=en"></script><br>
+
 <a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
 </tr>
 </tbody></table>           	
                             <br>
-                            <img src="http://www.bidray.com/images/dalpay_retail_VMAJ_199x72.gif" alt="" align="center" border="0">
+                            <img src="img/dalpay_retail_VMAJ_199x72.gif" alt="" align="center" border="0">
                     </center><br>
 <center><br>
-  <a href="http://www.bidray.com/community.php"><img src="http://www.bidray.com/images/winners.jpg" srcover="http://www.bidray.com/images/winners1.jpg" alt="Checkout Our Latest Winners!" vspace="3" border="0" align="center"></a><br>
-  <a href="http://www.bidray.com/support.php"><img src="http://www.bidray.com/images/supportbutton.jpg" srcover="http://www.bidray.com/images/supportbutton2.jpg" alt="Click here for Support!" vspace="3" border="0" align="center"></a><br>
+  <a href="community.php"><img src="img/winners.jpg" srcover="img/winners1.jpg" alt="Checkout Our Latest Winners!" vspace="3" border="0" align="center" oldsrc="https://web.archive.org/web/20100311042324id_/http%3A//www.bidray.com/img/winners.jpg"></a><br>
+  <a href="support.php"><img src="img/supportbutton.jpg" srcover="img/supportbutton2.jpg" alt="Click here for Support!" vspace="3" border="0" align="center" oldsrc="https://web.archive.org/web/20100311042324id_/http%3A//www.bidray.com/img/supportbutton.jpg"></a><br>
 
 </center>
 
-                      <p></p><p><u><strong>News:</strong></u></p>
-<p><strong>No Winning Limits - 11/28/2009</strong><br>
-<em>Black Friday was a crazy day on Bidray!<br>
-Thousands of $$$ were saved and won!<br>
-The "No Winning Limits" period started<br>
-yesterday and will continue until 12/25.<br>
-There will be super many auctions<br>
-during the next few days!<br>
+                      <p></p><p><u><strong>News:</strong></u><em><br>
 </em></p>
-<p><strong>BLACK FRIDAY!!! - 11/27/2009</strong><br>
-<em>The craziest day on Bidray ever!<br>
-Win more than $20,000 tonight!<br>
-All winning limits are deactivated,<br>
-All auctions will run until sold! (24h)<br>
-All timers 30 sec or less!<br>
-3..2..1.. GO!</em></p>
-<p><br>
-<em><br>
-</em><strong><br>
+<p><strong>Site back up! - 03/04/2010</strong><br>
+<em>All auctions have been reset<br>
+to 03/01/2010. All bids returned.<br>
+Let the games continue!</em><br>
+<br>
+</p><p><strong>Site update! - 03/02/2010</strong><br>
+<em>We´ve made Bidray faster!<br>
+Let us know if everything works<br>
+email tech@bidray.com</em><br>
+<br>
+<strong><br>
 </strong></p>
 <center>
-<p><a href="http://www.bidray.com/newtobidray.php"><br>
+<p><a href="newtobidray.php"><br>
 </a><em><a href="http://www.bidrayblog.com">Click Here to Check out The <br>
 Official Bidray Penny Auctions Blog!</a><br>
 </em></p>
 <c enter=""></c></center><br>
                           <center>
-                 <a href="http://www.bidray.com/shipping.php"><img src="http://www.bidray.com/images/freeshipping1.jpg" alt="Bidray Shipping Policy" vspace="3" border="0" align="center"></a><br>
-<img src="http://www.bidray.com/images/auctions_time_new.jpg" alt="Day Penny Auctions are Open from 1pm - 12am Central!" vspace="3" border="0" align="center"><br>
-<img src="http://www.bidray.com/images/testimonial2.jpg" alt="Penny Auction Winner" vspace="3" border="0" align="center">
+
+                 <a href="shipping.php"><img src="img/freeshipping1.jpg" alt="Bidray Shipping Policy" vspace="3" border="0" align="center"></a><br>
+<img src="img/testimonial2.jpg" alt="Penny Auction Winner" vspace="3" border="0" align="center">
                           </center>
 
 
-                        <!--<table width="96%" border="0" align="center" cellpadding="0" cellspacing="0">
-
-                      <tr>
-
-                        <td align="left" valign="top" class=""><p><u><strong>News:</strong></u></p>
-<p><strong>No Winning Limits - 11/28/2009</strong><br />
-<em>Black Friday was a crazy day on Bidray!<br />
-Thousands of $$$ were saved and won!<br />
-The &quot;No Winning Limits&quot; period started<br />
-yesterday and will continue until 12/25.<br />
-There will be super many auctions<br />
-during the next few days!<br />
-</em></p>
-<p><strong>BLACK FRIDAY!!! - 11/27/2009</strong><br />
-<em>The craziest day on Bidray ever!<br />
-Win more than $20,000 tonight!<br />
-All winning limits are deactivated,<br />
-All auctions will run until sold! (24h)<br />
-All timers 30 sec or less!<br />
-3..2..1.. GO!</em></p>
-<p><br />
-<em><br />
-</em><strong><br />
-</strong></p>
-<center>
-<p><a href="http://www.bidray.com/newtobidray.php"><br />
-</a><em><a href="http://www.bidrayblog.com">Click Here to Check out The <br />
-Official Bidray Penny Auctions Blog!</a><br />
-</em></p>
-<c enter=""></c></center></td>
-
-                      </tr>
-
-                    </table>-->
+                       
                       <p></p>
 
                     <p>&nbsp;</p></td>
@@ -417,9 +583,10 @@ Official Bidray Penny Auctions Blog!</a><br />
               </tr>
 
 			  
-              <tr>
+              <!--  -->
+			<tr>
 
-                <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <td width="250"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 
                     <tbody><tr>
 
@@ -439,44 +606,44 @@ Official Bidray Penny Auctions Blog!</a><br />
                     <tr>
 
                       <td class="infobox">
-
-					  
-                        <table width="100%" border="0" cellspacing="3" cellpadding="2">
+						
+			
+			<table width="100%" cellspacing="3" cellpadding="2" border="0">
 
                                 <tbody><tr>
 
-                                  <td width="44%" align="center" valign="middle">
+                                  <td width="44%" valign="middle" align="center">
 
 									
-									<img src="products/ipodc3032.jpg" alt="Won Penny Auctions">
+									<img width="85" height="85" alt="Won Penny Auctions" src="img/winterc4100.jpg">
 
 																	  
 
 								  </td>
 
-                                  <td width="56%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td width="56%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td align="left" valign="middle" class="browntxt4">&nbsp;</td>
+                                        <td valign="middle" align="left" class="browntxt4">&nbsp;</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td align="left" valign="middle" class="browntxt4"></td>
+                                        <td valign="middle" align="left" class="browntxt4"></td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="browntxt5">slade</td>
+                                        <td height="35" valign="middle" align="left" class="browntxt5">turkey12</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="darkredtxt3">$8.92</td>
+                                        <td height="35" valign="middle" align="left" class="darkredtxt3">$2.16</td>
 
                                     </tr>
 
@@ -486,67 +653,66 @@ Official Bidray Penny Auctions Blog!</a><br />
 
                                 <tr>
 
-                                  <td align="center" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td valign="middle" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
-                                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
                                 </tr>
 
                         </tbody></table>
-
-						  
-                        <table width="100%" border="0" cellspacing="3" cellpadding="2">
+			
+			<table width="100%" cellspacing="3" cellpadding="2" border="0">
 
                                 <tbody><tr>
 
-                                  <td width="44%" align="center" valign="middle">
+                                  <td width="44%" valign="middle" align="center">
 
 									
-									<img src="products/macbookc4014.jpg" alt="Won Penny Auctions">
+									<img width="85" height="85" alt="Won Penny Auctions" src="img/amazon501c2672.jpg">
 
 																	  
 
 								  </td>
 
-                                  <td width="56%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td width="56%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td align="left" valign="middle" class="browntxt4">&nbsp;</td>
+                                        <td valign="middle" align="left" class="browntxt4">&nbsp;</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td align="left" valign="middle" class="browntxt4"></td>
+                                        <td valign="middle" align="left" class="browntxt4"></td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="browntxt5">NAMIO</td>
+                                        <td height="35" valign="middle" align="left" class="browntxt5">GP5RR4</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="darkredtxt3">$22.97</td>
+                                        <td height="35" valign="middle" align="left" class="darkredtxt3">$4.50</td>
 
                                     </tr>
 
@@ -556,67 +722,66 @@ Official Bidray Penny Auctions Blog!</a><br />
 
                                 <tr>
 
-                                  <td align="center" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td valign="middle" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
-                                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
                                 </tr>
 
                         </tbody></table>
-
-						  
-                        <table width="100%" border="0" cellspacing="3" cellpadding="2">
+			
+			<table width="100%" cellspacing="3" cellpadding="2" border="0">
 
                                 <tbody><tr>
 
-                                  <td width="44%" align="center" valign="middle">
+                                  <td width="44%" valign="middle" align="center">
 
 									
-									<img src="products/handbagc3490.jpg" alt="Won Penny Auctions">
+									<img width="85" height="85" alt="Won Penny Auctions" src="img/Starbucks1c2227.jpg">
 
 																	  
 
 								  </td>
 
-                                  <td width="56%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td width="56%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td align="left" valign="middle" class="browntxt4">&nbsp;</td>
+                                        <td valign="middle" align="left" class="browntxt4">&nbsp;</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td align="left" valign="middle" class="browntxt4"></td>
+                                        <td valign="middle" align="left" class="browntxt4"></td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="browntxt5">slade</td>
+                                        <td height="35" valign="middle" align="left" class="browntxt5">quinty</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="darkredtxt3">$0.21</td>
+                                        <td height="35" valign="middle" align="left" class="darkredtxt3">$1.02</td>
 
                                     </tr>
 
@@ -626,67 +791,66 @@ Official Bidray Penny Auctions Blog!</a><br />
 
                                 <tr>
 
-                                  <td align="center" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td valign="middle" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
-                                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
                                 </tr>
 
                         </tbody></table>
-
-						  
-                        <table width="100%" border="0" cellspacing="3" cellpadding="2">
+			
+			<table width="100%" cellspacing="3" cellpadding="2" border="0">
 
                                 <tbody><tr>
 
-                                  <td width="44%" align="center" valign="middle">
+                                  <td width="44%" valign="middle" align="center">
 
 									
-									<img src="products/1c4132.png" alt="Won Penny Auctions">
+									<img width="85" height="85" alt="Won Penny Auctions" src="img/itunnes1c3681.jpg">
 
 																	  
 
 								  </td>
 
-                                  <td width="56%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td width="56%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td align="left" valign="middle" class="browntxt4">&nbsp;</td>
+                                        <td valign="middle" align="left" class="browntxt4">&nbsp;</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td align="left" valign="middle" class="browntxt4"></td>
+                                        <td valign="middle" align="left" class="browntxt4"></td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="browntxt5">startover4</td>
+                                        <td height="35" valign="middle" align="left" class="browntxt5">craftd</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="darkredtxt3">$1.49</td>
+                                        <td height="35" valign="middle" align="left" class="darkredtxt3">$0.10</td>
 
                                     </tr>
 
@@ -696,67 +860,66 @@ Official Bidray Penny Auctions Blog!</a><br />
 
                                 <tr>
 
-                                  <td align="center" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td valign="middle" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
-                                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
                                 </tr>
 
                         </tbody></table>
-
-						  
-                        <table width="100%" border="0" cellspacing="3" cellpadding="2">
+			
+			<table width="100%" cellspacing="3" cellpadding="2" border="0">
 
                                 <tbody><tr>
 
-                                  <td width="44%" align="center" valign="middle">
+                                  <td width="44%" valign="middle" align="center">
 
 									
-									<img src="products/toothbrushc3546.jpg" alt="Won Penny Auctions">
+									<img width="85" height="85" alt="Won Penny Auctions" src="img/1c22683120.gif">
 
 																	  
 
 								  </td>
 
-                                  <td width="56%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td width="56%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td align="left" valign="middle" class="browntxt4">&nbsp;</td>
+                                        <td valign="middle" align="left" class="browntxt4">&nbsp;</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td align="left" valign="middle" class="browntxt4"></td>
+                                        <td valign="middle" align="left" class="browntxt4"></td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="browntxt5">slade</td>
+                                        <td height="35" valign="middle" align="left" class="browntxt5">slotmoney</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="darkredtxt3">$0.24</td>
+                                        <td height="35" valign="middle" align="left" class="darkredtxt3">$0.57</td>
 
                                     </tr>
 
@@ -766,67 +929,66 @@ Official Bidray Penny Auctions Blog!</a><br />
 
                                 <tr>
 
-                                  <td align="center" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td valign="middle" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
-                                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
                                 </tr>
 
                         </tbody></table>
-
-						  
-                        <table width="100%" border="0" cellspacing="3" cellpadding="2">
+			
+			<table width="100%" cellspacing="3" cellpadding="2" border="0">
 
                                 <tbody><tr>
 
-                                  <td width="44%" align="center" valign="middle">
+                                  <td width="44%" valign="middle" align="center">
 
 									
-									<img src="products/wirelessc3589.jpg" alt="Won Penny Auctions">
+									<img width="85" height="85" alt="Won Penny Auctions" src="img/75bids1c3179.jpg">
 
 																	  
 
 								  </td>
 
-                                  <td width="56%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td width="56%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td align="left" valign="middle" class="browntxt4">&nbsp;</td>
+                                        <td valign="middle" align="left" class="browntxt4">&nbsp;</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td align="left" valign="middle" class="browntxt4"></td>
+                                        <td valign="middle" align="left" class="browntxt4"></td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="browntxt5">kelleyinthesky</td>
+                                        <td height="35" valign="middle" align="left" class="browntxt5">slinter</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="darkredtxt3">$0.04</td>
+                                        <td height="35" valign="middle" align="left" class="darkredtxt3">$0.27</td>
 
                                     </tr>
 
@@ -836,67 +998,66 @@ Official Bidray Penny Auctions Blog!</a><br />
 
                                 <tr>
 
-                                  <td align="center" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td valign="middle" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
-                                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
                                 </tr>
 
                         </tbody></table>
-
-						  
-                        <table width="100%" border="0" cellspacing="3" cellpadding="2">
+			
+			<table width="100%" cellspacing="3" cellpadding="2" border="0">
 
                                 <tbody><tr>
 
-                                  <td width="44%" align="center" valign="middle">
+                                  <td width="44%" valign="middle" align="center">
 
 									
-									<img src="products/glassc4324.jpg" alt="Won Penny Auctions">
+									<img width="85" height="85" alt="Won Penny Auctions" src="img/subwayc2503.jpg">
 
 																	  
 
 								  </td>
 
-                                  <td width="56%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td width="56%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td align="left" valign="middle" class="browntxt4">&nbsp;</td>
+                                        <td valign="middle" align="left" class="browntxt4">&nbsp;</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td align="left" valign="middle" class="browntxt4"></td>
+                                        <td valign="middle" align="left" class="browntxt4"></td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="browntxt5">BLACKTAXI</td>
+                                        <td height="35" valign="middle" align="left" class="browntxt5">KIRAX2</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="darkredtxt3">$0.72</td>
+                                        <td height="35" valign="middle" align="left" class="darkredtxt3">$1.38</td>
 
                                     </tr>
 
@@ -906,67 +1067,66 @@ Official Bidray Penny Auctions Blog!</a><br />
 
                                 <tr>
 
-                                  <td align="center" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td valign="middle" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
-                                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
                                 </tr>
 
                         </tbody></table>
-
-						  
-                        <table width="100%" border="0" cellspacing="3" cellpadding="2">
+			
+			<table width="100%" cellspacing="3" cellpadding="2" border="0">
 
                                 <tbody><tr>
 
-                                  <td width="44%" align="center" valign="middle">
+                                  <td width="44%" valign="middle" align="center">
 
 									
-									<img src="products/basketballc3368.jpg" alt="Won Penny Auctions">
+									<img width="85" height="85" alt="Won Penny Auctions" src="img/flipuusc2603.jpg">
 
 																	  
 
 								  </td>
 
-                                  <td width="56%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td width="56%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td align="left" valign="middle" class="browntxt4">&nbsp;</td>
+                                        <td valign="middle" align="left" class="browntxt4">&nbsp;</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td align="left" valign="middle" class="browntxt4"></td>
+                                        <td valign="middle" align="left" class="browntxt4"></td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="browntxt5">BigStocks</td>
+                                        <td height="35" valign="middle" align="left" class="browntxt5">GP5RR4</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="darkredtxt3">$0.37</td>
+                                        <td height="35" valign="middle" align="left" class="darkredtxt3">$1.48</td>
 
                                     </tr>
 
@@ -976,67 +1136,66 @@ Official Bidray Penny Auctions Blog!</a><br />
 
                                 <tr>
 
-                                  <td align="center" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td valign="middle" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
-                                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
                                 </tr>
 
                         </tbody></table>
-
-						  
-                        <table width="100%" border="0" cellspacing="3" cellpadding="2">
+			
+			<table width="100%" cellspacing="3" cellpadding="2" border="0">
 
                                 <tbody><tr>
 
-                                  <td width="44%" align="center" valign="middle">
+                                  <td width="44%" valign="middle" align="center">
 
 									
-									<img src="products/24c2474.jpg" alt="Won Penny Auctions">
+									<img width="85" height="85" alt="Won Penny Auctions" src="img/amazon501c2672.jpg">
 
 																	  
 
 								  </td>
 
-                                  <td width="56%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td width="56%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td align="left" valign="middle" class="browntxt4">&nbsp;</td>
+                                        <td valign="middle" align="left" class="browntxt4">&nbsp;</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td align="left" valign="middle" class="browntxt4"></td>
+                                        <td valign="middle" align="left" class="browntxt4"></td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="browntxt5">dynamite1</td>
+                                        <td height="35" valign="middle" align="left" class="browntxt5">amyswinningways</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="darkredtxt3">$0.06</td>
+                                        <td height="35" valign="middle" align="left" class="darkredtxt3">$0.22</td>
 
                                     </tr>
 
@@ -1046,67 +1205,66 @@ Official Bidray Penny Auctions Blog!</a><br />
 
                                 <tr>
 
-                                  <td align="center" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td valign="middle" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
-                                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
                                 </tr>
 
                         </tbody></table>
-
-						  
-                        <table width="100%" border="0" cellspacing="3" cellpadding="2">
+			
+			<table width="100%" cellspacing="3" cellpadding="2" border="0">
 
                                 <tbody><tr>
 
-                                  <td width="44%" align="center" valign="middle">
+                                  <td width="44%" valign="middle" align="center">
 
 									
-									<img src="products/tomtomc3301.jpg" alt="Won Penny Auctions">
+									<img width="85" height="85" alt="Won Penny Auctions" src="img/1c22683120.gif">
 
 																	  
 
 								  </td>
 
-                                  <td width="56%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td width="56%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td align="left" valign="middle" class="browntxt4">&nbsp;</td>
+                                        <td valign="middle" align="left" class="browntxt4">&nbsp;</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td align="left" valign="middle" class="browntxt4"></td>
+                                        <td valign="middle" align="left" class="browntxt4"></td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="browntxt5">slade</td>
+                                        <td height="35" valign="middle" align="left" class="browntxt5">amyswinningways</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="darkredtxt3">$10.65</td>
+                                        <td height="35" valign="middle" align="left" class="darkredtxt3">$0.17</td>
 
                                     </tr>
 
@@ -1116,67 +1274,66 @@ Official Bidray Penny Auctions Blog!</a><br />
 
                                 <tr>
 
-                                  <td align="center" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td valign="middle" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
-                                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
                                 </tr>
 
                         </tbody></table>
-
-						  
-                        <table width="100%" border="0" cellspacing="3" cellpadding="2">
+			
+			<table width="100%" cellspacing="3" cellpadding="2" border="0">
 
                                 <tbody><tr>
 
-                                  <td width="44%" align="center" valign="middle">
+                                  <td width="44%" valign="middle" align="center">
 
 									
-									<img src="products/earhookc4068.jpg" alt="Won Penny Auctions">
+									<img width="85" height="85" alt="Won Penny Auctions" src="img/1c-fatboy3688.jpg">
 
 																	  
 
 								  </td>
 
-                                  <td width="56%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td width="56%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td align="left" valign="middle" class="browntxt4">&nbsp;</td>
+                                        <td valign="middle" align="left" class="browntxt4">&nbsp;</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td align="left" valign="middle" class="browntxt4"></td>
+                                        <td valign="middle" align="left" class="browntxt4"></td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="browntxt5">bruizer</td>
+                                        <td height="35" valign="middle" align="left" class="browntxt5">kelleyinthesky</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="darkredtxt3">$0.35</td>
+                                        <td height="35" valign="middle" align="left" class="darkredtxt3">$0.47</td>
 
                                     </tr>
 
@@ -1186,67 +1343,66 @@ Official Bidray Penny Auctions Blog!</a><br />
 
                                 <tr>
 
-                                  <td align="center" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td valign="middle" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
-                                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
                                 </tr>
 
                         </tbody></table>
-
-						  
-                        <table width="100%" border="0" cellspacing="3" cellpadding="2">
+			
+			<table width="100%" cellspacing="3" cellpadding="2" border="0">
 
                                 <tbody><tr>
 
-                                  <td width="44%" align="center" valign="middle">
+                                  <td width="44%" valign="middle" align="center">
 
 									
-									<img src="products/46c2918.jpg" alt="Won Penny Auctions">
+									<img width="85" height="85" alt="Won Penny Auctions" src="img/1c-airbed3507.jpg">
 
 																	  
 
 								  </td>
 
-                                  <td width="56%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td width="56%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td align="left" valign="middle" class="browntxt4">&nbsp;</td>
+                                        <td valign="middle" align="left" class="browntxt4">&nbsp;</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td align="left" valign="middle" class="browntxt4"></td>
+                                        <td valign="middle" align="left" class="browntxt4"></td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="browntxt5">NAMIO</td>
+                                        <td height="35" valign="middle" align="left" class="browntxt5">KIRAX2</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="darkredtxt3">$27.49</td>
+                                        <td height="35" valign="middle" align="left" class="darkredtxt3">$1.36</td>
 
                                     </tr>
 
@@ -1256,67 +1412,66 @@ Official Bidray Penny Auctions Blog!</a><br />
 
                                 <tr>
 
-                                  <td align="center" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td valign="middle" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
-                                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
                                 </tr>
 
                         </tbody></table>
-
-						  
-                        <table width="100%" border="0" cellspacing="3" cellpadding="2">
+			
+			<table width="100%" cellspacing="3" cellpadding="2" border="0">
 
                                 <tbody><tr>
 
-                                  <td width="44%" align="center" valign="middle">
+                                  <td width="44%" valign="middle" align="center">
 
 									
-									<img src="products/1000amazon1c2607.jpg" alt="Won Penny Auctions">
+									<img width="85" height="85" alt="Won Penny Auctions" src="img/1c-holder4409.jpg">
 
 																	  
 
 								  </td>
 
-                                  <td width="56%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td width="56%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td align="left" valign="middle" class="browntxt4">&nbsp;</td>
+                                        <td valign="middle" align="left" class="browntxt4">&nbsp;</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td align="left" valign="middle" class="browntxt4"></td>
+                                        <td valign="middle" align="left" class="browntxt4"></td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="browntxt5">techie159</td>
+                                        <td height="35" valign="middle" align="left" class="browntxt5">LetsGoJets777</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="darkredtxt3">$14.48</td>
+                                        <td height="35" valign="middle" align="left" class="darkredtxt3">$0.02</td>
 
                                     </tr>
 
@@ -1326,67 +1481,66 @@ Official Bidray Penny Auctions Blog!</a><br />
 
                                 <tr>
 
-                                  <td align="center" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td valign="middle" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
-                                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
                                 </tr>
 
                         </tbody></table>
-
-						  
-                        <table width="100%" border="0" cellspacing="3" cellpadding="2">
+			
+			<table width="100%" cellspacing="3" cellpadding="2" border="0">
 
                                 <tbody><tr>
 
-                                  <td width="44%" align="center" valign="middle">
+                                  <td width="44%" valign="middle" align="center">
 
 									
-									<img src="products/1c22683120.gif" alt="Won Penny Auctions">
+									<img width="85" height="85" alt="Won Penny Auctions" src="img/1c-breville3625.jpg">
 
 																	  
 
 								  </td>
 
-                                  <td width="56%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td width="56%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td align="left" valign="middle" class="browntxt4">&nbsp;</td>
+                                        <td valign="middle" align="left" class="browntxt4">&nbsp;</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td align="left" valign="middle" class="browntxt4"></td>
+                                        <td valign="middle" align="left" class="browntxt4"></td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="browntxt5">BLACKTAXI</td>
+                                        <td height="35" valign="middle" align="left" class="browntxt5">slotmoney</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="darkredtxt3">$0.11</td>
+                                        <td height="35" valign="middle" align="left" class="darkredtxt3">$0.53</td>
 
                                     </tr>
 
@@ -1396,67 +1550,66 @@ Official Bidray Penny Auctions Blog!</a><br />
 
                                 <tr>
 
-                                  <td align="center" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td valign="middle" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
-                                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
                                 </tr>
 
                         </tbody></table>
-
-						  
-                        <table width="100%" border="0" cellspacing="3" cellpadding="2">
+			
+			<table width="100%" cellspacing="3" cellpadding="2" border="0">
 
                                 <tbody><tr>
 
-                                  <td width="44%" align="center" valign="middle">
+                                  <td width="44%" valign="middle" align="center">
 
 									
-									<img src="products/hariboc4045.jpg" alt="Won Penny Auctions">
+									<img width="85" height="85" alt="Won Penny Auctions" src="img/1c-cyberA4119.jpg">
 
 																	  
 
 								  </td>
 
-                                  <td width="56%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td width="56%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td align="left" valign="middle" class="browntxt4">&nbsp;</td>
+                                        <td valign="middle" align="left" class="browntxt4">&nbsp;</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td align="left" valign="middle" class="browntxt4"></td>
+                                        <td valign="middle" align="left" class="browntxt4"></td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="browntxt5">slade</td>
+                                        <td height="35" valign="middle" align="left" class="browntxt5">LetsGoJets777</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="darkredtxt3">$0.80</td>
+                                        <td height="35" valign="middle" align="left" class="darkredtxt3">$0.22</td>
 
                                     </tr>
 
@@ -1466,67 +1619,66 @@ Official Bidray Penny Auctions Blog!</a><br />
 
                                 <tr>
 
-                                  <td align="center" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td valign="middle" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
-                                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
                                 </tr>
 
                         </tbody></table>
-
-						  
-                        <table width="100%" border="0" cellspacing="3" cellpadding="2">
+			
+			<table width="100%" cellspacing="3" cellpadding="2" border="0">
 
                                 <tbody><tr>
 
-                                  <td width="44%" align="center" valign="middle">
+                                  <td width="44%" valign="middle" align="center">
 
 									
-									<img src="products/250bids1c3770.jpg" alt="Won Penny Auctions">
+									<img width="85" height="85" alt="Won Penny Auctions" src="img/amazon33066.jpg">
 
 																	  
 
 								  </td>
 
-                                  <td width="56%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td width="56%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td align="left" valign="middle" class="browntxt4">&nbsp;</td>
+                                        <td valign="middle" align="left" class="browntxt4">&nbsp;</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td align="left" valign="middle" class="browntxt4"></td>
+                                        <td valign="middle" align="left" class="browntxt4"></td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="browntxt5">NAMIO</td>
+                                        <td height="35" valign="middle" align="left" class="browntxt5">flip711</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="darkredtxt3">$2.65</td>
+                                        <td height="35" valign="middle" align="left" class="darkredtxt3">$11.40</td>
 
                                     </tr>
 
@@ -1536,67 +1688,66 @@ Official Bidray Penny Auctions Blog!</a><br />
 
                                 <tr>
 
-                                  <td align="center" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td valign="middle" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
-                                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
                                 </tr>
 
                         </tbody></table>
-
-						  
-                        <table width="100%" border="0" cellspacing="3" cellpadding="2">
+			
+			<table width="100%" cellspacing="3" cellpadding="2" border="0">
 
                                 <tbody><tr>
 
-                                  <td width="44%" align="center" valign="middle">
+                                  <td width="44%" valign="middle" align="center">
 
 									
-									<img src="products/wiic3949.jpg" alt="Won Penny Auctions">
+									<img width="85" height="85" alt="Won Penny Auctions" src="img/acerc3326.jpg">
 
 																	  
 
 								  </td>
 
-                                  <td width="56%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td width="56%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td align="left" valign="middle" class="browntxt4">&nbsp;</td>
+                                        <td valign="middle" align="left" class="browntxt4">&nbsp;</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td align="left" valign="middle" class="browntxt4"></td>
+                                        <td valign="middle" align="left" class="browntxt4"></td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="browntxt5">slade</td>
+                                        <td height="35" valign="middle" align="left" class="browntxt5">Ladydogiva</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="darkredtxt3">$2.36</td>
+                                        <td height="35" valign="middle" align="left" class="darkredtxt3">$3.15</td>
 
                                     </tr>
 
@@ -1606,71 +1757,237 @@ Official Bidray Penny Auctions Blog!</a><br />
 
                                 <tr>
 
-                                  <td align="center" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td valign="middle" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
-                                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td height="1" bgcolor="#e5e5e5"></td>
+                                        <td height="1" bgcolor="#e5e5e5">
 
-                                      </tr>
+                                      </td></tr>
 
                                     </tbody></table></td>
 
                                 </tr>
 
                         </tbody></table>
-
-						  
-                        <table width="100%" border="0" cellspacing="3" cellpadding="2">
+			
+			<table width="100%" cellspacing="3" cellpadding="2" border="0">
 
                                 <tbody><tr>
 
-                                  <td width="44%" align="center" valign="middle">
+                                  <td width="44%" valign="middle" align="center">
 
 									
-									<img src="products/ps3c2738.jpg" alt="Won Penny Auctions">
+									<img width="85" height="85" alt="Won Penny Auctions" src="img/1c-sunbeam2905.jpg">
 
 																	  
 
 								  </td>
 
-                                  <td width="56%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <td width="56%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
 
                                       <tbody><tr>
 
-                                        <td align="left" valign="middle" class="browntxt4">&nbsp;</td>
+                                        <td valign="middle" align="left" class="browntxt4">&nbsp;</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td align="left" valign="middle" class="browntxt4"></td>
+                                        <td valign="middle" align="left" class="browntxt4"></td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="browntxt5">slade</td>
+                                        <td height="35" valign="middle" align="left" class="browntxt5">MORPHEUS</td>
 
                                       </tr>
 
                                       <tr>
 
-                                        <td height="35" align="left" valign="middle" class="darkredtxt3">$5.72</td>
+                                        <td height="35" valign="middle" align="left" class="darkredtxt3">$0.76</td>
 
                                     </tr>
 
                                     </tbody></table></td>
+
+                                </tr>
+
+                                <tr>
+
+                                  <td valign="middle" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+
+                                      <tbody><tr>
+
+                                        <td height="1" bgcolor="#e5e5e5">
+
+                                      </td></tr>
+
+                                    </tbody></table></td>
+
+                                  <td><table width="100%" cellspacing="0" cellpadding="0" border="0">
+
+                                      <tbody><tr>
+
+                                        <td height="1" bgcolor="#e5e5e5">
+
+                                      </td></tr>
+
+                                    </tbody></table></td>
+
+                                </tr>
+
+                        </tbody></table>
+			
+			<table width="100%" cellspacing="3" cellpadding="2" border="0">
+
+                                <tbody><tr>
+
+                                  <td width="44%" valign="middle" align="center">
+
+									
+									<img width="85" height="85" alt="Won Penny Auctions" src="img/razerc2833.jpg">
+
+																	  
+
+								  </td>
+
+                                  <td width="56%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+
+                                      <tbody><tr>
+
+                                        <td valign="middle" align="left" class="browntxt4">&nbsp;</td>
+
+                                      </tr>
+
+                                      <tr>
+
+                                        <td valign="middle" align="left" class="browntxt4"></td>
+
+                                      </tr>
+
+                                      <tr>
+
+                                        <td height="35" valign="middle" align="left" class="browntxt5">Duster</td>
+
+                                      </tr>
+
+                                      <tr>
+
+                                        <td height="35" valign="middle" align="left" class="darkredtxt3">$0.04</td>
+
+                                    </tr>
+
+                                    </tbody></table></td>
+
+                                </tr>
+
+                                <tr>
+
+                                  <td valign="middle" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+
+                                      <tbody><tr>
+
+                                        <td height="1" bgcolor="#e5e5e5">
+
+                                      </td></tr>
+
+                                    </tbody></table></td>
+
+                                  <td><table width="100%" cellspacing="0" cellpadding="0" border="0">
+
+                                      <tbody><tr>
+
+                                        <td height="1" bgcolor="#e5e5e5">
+
+                                      </td></tr>
+
+                                    </tbody></table></td>
+
+                                </tr>
+
+                        </tbody></table>
+			
+			<table width="100%" cellspacing="3" cellpadding="2" border="0">
+
+                                <tbody><tr>
+
+                                  <td width="44%" valign="middle" align="center">
+
+									
+									<img width="85" height="85" alt="Won Penny Auctions" src="img/1c-wiretrans4110.jpg">
+
+																	  
+
+								  </td>
+
+                                  <td width="56%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+
+                                      <tbody><tr>
+
+                                        <td valign="middle" align="left" class="browntxt4">&nbsp;</td>
+
+                                      </tr>
+
+                                      <tr>
+
+                                        <td valign="middle" align="left" class="browntxt4"></td>
+
+                                      </tr>
+
+                                      <tr>
+
+                                        <td height="35" valign="middle" align="left" class="browntxt5">turkey12</td>
+
+                                      </tr>
+
+                                      <tr>
+
+                                        <td height="35" valign="middle" align="left" class="darkredtxt3">$0.47</td>
+
+                                    </tr>
+
+                                    </tbody></table></td>
+
+                                </tr>
+
+                                <tr>
+
+                                  <td valign="middle" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+
+                                      <tbody><tr>
+
+                                        <td height="1" bgcolor="#e5e5e5">
+
+                                      </td></tr>
+
+                                    </tbody></table></td>
+
+                                  <td><table width="100%" cellspacing="0" cellpadding="0" border="0">
+
+                                      <tbody><tr>
+
+                                        <td height="1" bgcolor="#e5e5e5">
+
+                                      </td></tr>
+
+                                    </tbody></table></td>
+
+                                </tr>
+
+                        </tbody></table>					  
+                      </td>
 
                                 </tr>
 
@@ -1705,24 +2022,48 @@ Official Bidray Penny Auctions Blog!</a><br />
 
                     </tr>
 
-                  </tbody></table></td>
+                  </tbody></table></div></td>
 
               </tr>
+			
 
 			  
-            </tbody></table></td>
+            </tbody></table>
 
-          <td width="5"></td>
+</td>
+
+          
+
+          <td></td>
 
           <td valign="top">
 
-				  <table width="99%" border="0" align="left" cellpadding="0" cellspacing="0">
+				  
+
+<script language="javascript" src="js/reg1.js"></script>
+
+
+
+						<input type="hidden" id="session_user_name" value="">
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+
                           <tbody><tr>
-                            <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<td>
+						<div id="main_content_wrapper">
+						
+											
+						
+												
+						
+						<!--  -->
+			<table width="99%" cellspacing="0" cellpadding="0" border="0" align="left">
+                          <tbody><tr>
+                            <td valign="top"><table width="100%" cellspacing="0" cellpadding="0" border="0">
                               <tbody><tr>
-                                <td width="100%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <td width="100%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
                                     <tbody><tr>
-                                      <td height="25" align="left" valign="middle"><div class="infotitle"><h2>Privacy</h2></div></td>
+                                      <td height="25" valign="middle" align="left"><div class="infotitle"><h2>Privacy</h2></div></td>
                                     </tr>
                                 </tbody></table></td>
                               </tr>
@@ -1760,7 +2101,7 @@ We need your account data to process payment transactions that you are involved 
 Similarly, we use your data in order to inform you of marketing  promotions or to enable third parties authorized by us to perform  technical, logistical, or other services.<br>
 All data is stored securely  on our servers.</p>
 <p class="heading">4. Newsletter</p>
-<p>When you register with Bidray, you agree to be signed up with our newsletter. You may at anytime unsubscribe from the newsletter by going to <a href="http://www.bidray.com/newsletter.php">this page</a><br>
+<p>When you register with Bidray, you agree to be signed up with our newsletter. You may at anytime unsubscribe from the newsletter by going to <a href="newsletter.php">this page</a><br>
 or clicking the unsubscribe link at the bottom of the newsletter emails.</p>
 <p class="heading">5. Forwarding Personal Data to Third Parties</p>
 <p>Your personal information may be passed on to third parties only if this is necessary to process a payment transaction or a business transaction with our partners.<br>
@@ -1775,7 +2116,7 @@ Your mobile phone number for  activating your account can only be changed by con
 Once we are informed, we will adjust incorrect data accordingly.<br>
 We will notify you upon request at any  time as to whether and what personal data in respect to your identity  or your pseudonym has been stored.</p>
 <p class="heading">8. Revoking Consent/Deleting Your Account</p>
-<p>You can revoke your consent to the storage and processing of your personal data <a href="http://www.bidray.com/closeaccount.php">here</a> at any time, effective immediately. <br>
+<p>You can revoke your consent to the storage and processing of your personal data <a href="closeaccount.php">here</a> at any time, effective immediately. <br>
 You can delete or deactivate your Bidray  account at any time. When you delete your membership, your personal  data is removed from our database unless we are required to save the  data. <br>
 As a rule it takes two to three weeks until your information is completely removed from all records. If you choose to  close your account, all remaining bids will be destroyed.</p>
 <p class="heading">9. The Use of Cookies at our Website</p>
@@ -1798,45 +2139,64 @@ If you believe that your e-mail address has been recorded in this way,  please l
 <p>We reserve the right to change this document at any time, without prior notification.</p></td>
                               </tr>
                               <tr>
-                                <td background="images/botbg.gif"></td>
-                              </tr>
+                                <td background="img/botbg.gif">
+                              </td></tr>
                             </tbody></table></td>
                           </tr>
-                        </tbody></table>				  
+                        </tbody></table>
+			
+						
+						</div>
+						</td>
+                           </tr>
 
+     
+ 
+              <tr>
 
-				  
-				  </td>
+                <td height="5" colspan="2"></td>
+                </tr>
+
+          </tbody></table>
+		  
+
+		     </td>   
         </tr>
-      </tbody></table></td>
+
+                            <!-- <tr>
+
+                              <td height="35" bgcolor="#dfdcdc">
+
+                                <table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+
+                                  <tr>
+
+                                    <td align="right" valign="middle" class="blacktxt2">All Live Auctions Here<img src="images/key.gif" alt="" width="30" height="18" hspace="2" border="0" align="absmiddle" /></td>
+
+                                  </tr>
+
+                              </table></td>
+
+                            </tr> -->
+
+         
+      </tbody></table>
+
+        <input type="hidden" name="max_limit" id="max_limit" value="57">
+
+        <input type="hidden" name="auction_min_bid_rate" id="auction_min_bid_rate" value="0.01">    
+        </td>
   </tr>
-</tbody></table>
-				  
-					</td>
 
-                </tr>
- <tr><td height="5px"></td></tr>
-                <tr>
-
-                  <td class="greycolor"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-
-                     
-
-                  </table></td>
-
-                </tr>
-
-            </tbody></table></td>
-
-            <td width="4"></td>
-
-          </tr>
-
-        </tbody></table></td>
-
-      </tr>
-
-	  <tr><td class="bbsabox"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  
+		<tr>
+		<td>
+		  <div class="bbsaboxmarg"></div>
+		</td>
+		</tr>
+	  <tr><td class="bbsabox">
+	
+	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
 
         <tbody><tr>
 
@@ -1847,12 +2207,12 @@ If you believe that your e-mail address has been recorded in this way,  please l
               <td align="left" valign="middle">
 <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
 <tbody><tr>
-<td width="135" align="center" valign="top"><script src="https://seal.verisign.com/getseal?host_name=www.bidray.com&amp;size=L&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script><br>
+<td width="135" align="center" valign="top"><script src="https://seal.verisign.com/getseal?host_name=www.bidray.com&amp;size=L&amp;use_flash=NO&amp;use_transparent=YES〈=en"></script><br>
 <a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;"></a></td>
 </tr>
 </tbody></table>
               </td>
-              <td align="left" valign="middle"><a href="#">              <img src="images/paymentoptions.gif" alt="" border="0"></a></td>
+              <td align="left" valign="middle"><a href="#">              <img src="img/paymentoptions.gif" alt="" border="0"></a></td>
 
             </tr>
 
@@ -1862,6 +2222,7 @@ If you believe that your e-mail address has been recorded in this way,  please l
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td class="logintxt1"><a href="index.php">Home</a> | <a href="sold.php">Sold items</a> | <a href="terms.php">Terms &amp; Conditions</a> | <a href="privacy.php">Privacy</a> | <a href="responsibility.php">Responsible Bidding</a> | <a href="aboutus.php">About Us</a></td>
+
   </tr>
 </tbody></table></td>
         </tr>
@@ -1873,6 +2234,7 @@ If you believe that your e-mail address has been recorded in this way,  please l
         <tbody><tr>
           <td height="30" align="right" class="logintxt1"><table width="100%" border="0" cellspacing="0" cellpadding="0">
             <tbody><tr>
+
               <td height="30" align="center" class="logintxt1">All contents © Copyright 2008-2009 Bidray Ltd. All rights reserved.
 <br>
 All trademarks belong to their respective owners.
@@ -1915,4 +2277,45 @@ pageTracker._trackPageview();
 
 
 
-</body></html>
+ 
+
+
+
+<!-- Google Website Optimizer Tracking Script -->
+<script type="text/javascript">
+if(typeof(_gat)!='object')document.write('<sc'+'ript src="http'+
+(document.location.protocol=='https:'?'s://ssl':'://www')+
+'.google-analytics.com/ga.js"></sc'+'ript>')</script><script src="https://ssl.google-analytics.com/ga.js"></script>
+<script type="text/javascript">
+try {
+var gwoTracker=_gat._getTracker("UA-5670340-2");
+gwoTracker._trackPageview("/2168950583/test");
+}catch(err){}</script>
+
+<!-- End of Google Website Optimizer Tracking Script -->
+  <script src="http://www.ispeakvideo.com/scripts/iSpeakVideo.js" type="text/javascript" language="javascript"></script>
+ <script language="javascript" type="text/javascript">
+   var video=new iSpeakVideo();
+	if($("#ispeak_video") != null){
+	   var pageVideo = $("#ispeak_video").val();
+           if(typeof(pageVideo) != "undefined"){
+             
+           
+		video.src=pageVideo;
+	   video.height=320;
+	   video.width=250;
+	   video.positionFrom='fromBottom';
+	   video.positionHorizontalFrom='fromRight';
+	   video.Location.X=0;
+	   video.Location.Y=0;
+	   video.DoNotShowDays=30;
+	   video.PauseIfShown=1;
+	   video.ReferenceID='imgReference';
+	   video.Intialize();
+       }
+}
+   function hideWhenFinished() {
+    video.HideWhenFinished();
+}
+ </script>
+</td></tr></tbody></table></td></tr></tbody></table></body></html>
