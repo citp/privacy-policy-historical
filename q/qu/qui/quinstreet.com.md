@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quinstreet.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216040730id_/http%3A//www.quinstreet.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quinstreet.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311153108id_/http%3A//www.quinstreet.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | QuinStreet
 
@@ -16,15 +16,15 @@ Quinstreet strives to comply with all applicable laws around the globe that are 
 
 ## Cookies and Other Tracking Technologies
 
-Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
+Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about website activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
 
-You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site.
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the website.
 
 If you want your browser not to store this cookie information there is a simple procedure that allows you to deny or accept this feature. In order to "opt out" of the benefits of cookies, you can manually delete your cookies by following the instructions contained in the "help" section of your browser. Or, go to our home page at [www.quinstreet.com](http://www.quinstreet.com/) and simply click into the "OPT OUT NOW" button provided. 
 
 [ ](http://o1.qnsr.com/w3c/optoutnow.html)
 
-Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics.
+Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our website and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics.
 
 To protect your privacy, we have adopted the following principles:
 
@@ -42,7 +42,7 @@ Where QuinStreet collects Personal Information on the web, we intend to post a p
 
 ## Choice
 
-You may choose whether or not to provide Personal Information to QuinStreet. The notice we intend to provide where QuinStreet collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of QuinStreet's Web sites, but you may be unable to access certain options, offers, and services that involve our interaction with you.
+You may choose whether or not to provide Personal Information to QuinStreet. The notice we intend to provide where QuinStreet collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of QuinStreet's websites, but you may be unable to access certain options, offers, and services that involve our interaction with you.
 
 If you chose to have a relationship with QuinStreet, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship.
 
@@ -62,13 +62,13 @@ QuinStreet.com is not structured to attract children. Accordingly, we do not int
 
 ## Commitment
 
-Protecting your privacy online is an evolving area, and QuinStreet's Web sites are constantly evolving to meet these demands.
+Protecting your privacy online is an evolving area, and QuinStreet's websites are constantly evolving to meet these demands.
 
 If you have any comments or questions regarding our Online PRIVACY POLICY, please contact us at [privacy@QuinStreet.com](mailto:privacy@QuinStreet.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
 
 ## Your Consent
 
-By using this Web site, you consent to the terms of our Online PRIVACY POLICY and to QuinStreet's processing of Personal Information for the purposes given above as well as those explained where QuinStreet collects Personal Information on the Web. Should the Online PRIVACY POLICY change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
+By using this website, you consent to the terms of our Online PRIVACY POLICY and to QuinStreet's processing of Personal Information for the purposes given above as well as those explained where QuinStreet collects Personal Information on the Web. Should the Online PRIVACY POLICY change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our website for a reasonable period of time.
 
 ## Contacting Us
 
