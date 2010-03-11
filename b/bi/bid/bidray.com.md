@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bidray.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207011056id_/http%3A//www.bidray.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidray.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311042324id_/http%3A//www.bidray.com/privacy.php) for the most accurate reproduction.*
 
-# Penny Auctions - Bidray | Bid & Win Penny Auctions! - Privacy Statement
+# Penny Auctions - Bidray | Bid & Win Penny Auctions!
 
 Bidray Ltd.
 
@@ -42,7 +42,7 @@ All data is stored securely on our servers.
 
 4\. Newsletter
 
-When you register with Bidray, you agree to be signed up with our newsletter. You may at anytime unsubscribe from the newsletter by going to [this page](http://www.bidray.com/newsletter.php)  
+When you register with Bidray, you agree to be signed up with our newsletter. You may at anytime unsubscribe from the newsletter by going to [this page](https://web.archive.org/web/20100311042324id_/http%3A//www.bidray.com/newsletter.php)  
 or clicking the unsubscribe link at the bottom of the newsletter emails.
 
 5\. Forwarding Personal Data to Third Parties
@@ -63,7 +63,7 @@ We will notify you upon request at any time as to whether and what personal data
 
 8\. Revoking Consent/Deleting Your Account
 
-You can revoke your consent to the storage and processing of your personal data [here](http://www.bidray.com/closeaccount.php) at any time, effective immediately.   
+You can revoke your consent to the storage and processing of your personal data [here](https://web.archive.org/web/20100311042324id_/http%3A//www.bidray.com/closeaccount.php) at any time, effective immediately.   
 You can delete or deactivate your Bidray account at any time. When you delete your membership, your personal data is removed from our database unless we are required to save the data.   
 As a rule it takes two to three weeks until your information is completely removed from all records. If you choose to close your account, all remaining bids will be destroyed.
 
