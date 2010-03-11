@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the missamerica.org privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301001401id_/http%3A//www.missamerica.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missamerica.org privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311143735id_/http%3A//www.missamerica.org/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Miss America : Privacy Policy
 
