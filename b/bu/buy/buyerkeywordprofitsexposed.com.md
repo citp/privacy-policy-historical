@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyerkeywordprofitsexposed.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830014222id_/http%3A//buyerkeywordprofitsexposed.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyerkeywordprofitsexposed.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311200244id_/http%3A//www.buyerkeywordprofitsexposed.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Buyer Keyword Profits Exposed
 
