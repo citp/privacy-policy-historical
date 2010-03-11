@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgsoysauce.com privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110072527id_/http%3A//www.omgsoysauce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgsoysauce.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311173756id_/http%3A//www.omgsoysauce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OMGSoySauce.com
 
@@ -62,7 +62,7 @@ We maintain archives of our web logs, database, and other systems and informatio
 
 If you are visiting our site from outside the United States, please be advised that because we operate internationally, and certain of our computer systems are currently based in the United States, your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union.  By using the Web Site, you consent to any such transfer of information outside of your country.
 
-You are responsible for maintaining the accuracy of your profile by notifying us when you change your address, title, phone number, or e-mail address.  If at any time you wish to update your information or stop receiving communication from us, sign in and then select - update your profile, to change your newsletter preferences.
+You are responsible for maintaining the accuracy of your profile by notifying us when you change your address, title, phone number, or e-mail address.  If at any time you wish to update your information or stop receiving communication from us, sign in and then select – update your profile, to change your newsletter preferences.
 
 Please address comments or questions regarding this Privacy Policy to us as follows: [Contact](http://www.omgsoysauce.com/contact/)
 
