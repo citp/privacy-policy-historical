@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweetree.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506100338id_/http%3A//tweetree.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetree.com privacy policy that was archived on 2010-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100312041805id_/http%3A//tweetree.com/privacy_policy) for the most accurate reproduction.*
 
 # Tweetree - Privacy Policy
 
@@ -17,7 +17,7 @@ With regards to security: We take reasonable precautions to safeguard the confid
 
 The information we collect is used to customize the content and/or layout of our page for each individual visitor.
 
-With respect to cookies: Like many websites, we use cookies to record session information such as account registrations. Cookies are automatically deleted when closing your browser, or may be kept longer if using the Remember Me feature.
+With respect to cookies: Like many websites, we use cookies to record session information such as account registrations.
 
 We do not send any emails of any kind to users. For emails like forgotten password reminders, users are directed to Twitter.com.
 
