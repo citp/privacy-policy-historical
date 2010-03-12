@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fantasybaseballcafe.com privacy policy that was archived on 2009-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090815112637id_/http%3A//www.fantasybaseballcafe.com/utility_page.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasybaseballcafe.com privacy policy that was archived on 2010-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100312102907id_/http%3A//www.fantasybaseballcafe.com/utility_page.php) for the most accurate reproduction.*
 
-# Utility Page - Fantasy Baseball Cafe 2009
+# Utility Page - Fantasy Baseball Cafe 2010
 
 On this page, you can find out how to write for the Cafe, whom to contact for what as well as a statement on our firm commitment to privacy. Once you're here, we'd also be particularly happy if you would participate in our [Site Survey](https://web.archive.org/survey_start.php), which is located [here](https://web.archive.org/survey_start.php). Interested in having your baseball writing published? Want to share your thoughts with the fantasy community? Fantasy Baseball Cafe welcomes submissions of interesting, original, and well-written articles.
 
