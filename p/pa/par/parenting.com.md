@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parenting.com privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805182511id_/http%3A//www.parenting.com/article/Parenting/Customer-Service/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parenting.com privacy policy that was archived on 2010-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100312212339id_/http%3A//www.parenting.com/article/Parenting/Customer-Service/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Parenting.com
 
@@ -112,5 +112,3 @@ Bonnier Corporation
 Winter Park, FL 32789
 
 If we receive a complaint from you, we will contact you in an attempt to address your concerns.  If we are not able to resolve a complaint, we will participate in the appropriate independent recourse mechanism as necessary.
-
-* * *
