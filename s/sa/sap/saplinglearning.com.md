@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saplinglearning.com privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110170457id_/http%3A//www.saplinglearning.com/ibiscms/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saplinglearning.com privacy policy that was archived on 2010-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100312222026id_/http%3A//www.saplinglearning.com/ibiscms/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,6 +32,6 @@ We may update our privacy policy from time to time. We will post any changes on 
 
 We appreciate your trust that we will only use your personal information in a responsible manner. If you have any questions about our privacy policy, please contact us at the address below.
 
-Postal Address: 4315 Guadalupe, Suite 200, Austin, Texas 78751
+Postal Address: 4315 Guadalupe, Suite 201, Austin, Texas 78751
 
 Email:                 info@saplinglearning.com
