@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flynax.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208043314id_/http%3A//flynax.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flynax.com privacy policy that was archived on 2010-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100312070145id_/http%3A//flynax.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
