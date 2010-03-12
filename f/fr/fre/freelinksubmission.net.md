@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelinksubmission.net privacy policy that was archived on 2009-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091014122033id_/http%3A//freelinksubmission.net/AddLink/support-suggestions/freelinksubmission-net-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelinksubmission.net privacy policy that was archived on 2010-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100312080840id_/http%3A//freelinksubmission.net/AddLink/support-suggestions/freelinksubmission-net-privacy-policy) for the most accurate reproduction.*
 
 # FreeLinkSubmission.net Privacy Policy
 
