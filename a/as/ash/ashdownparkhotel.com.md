@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashdownparkhotel.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207091735id_/http%3A//www.ashdownparkhotel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashdownparkhotel.com privacy policy that was archived on 2010-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100312034456id_/http%3A//www.ashdownparkhotel.com/privacy.htm) for the most accurate reproduction.*
 
 # Ashdown Park Hotel Privacy Page
 
@@ -41,38 +41,18 @@ Please use our Contact Us page if you have any questions or would like to contac
 
 ## Check Availability
 
-[](https://web.archive.org/web/20091207091735id_/http%3A//www.ashdownparkhotel.com/Gallery.html) [](https://web.archive.org/web/20091207091735id_/http%3A//www.ashdownparkhotel.com/family_friendly_hotel_leisure_breaks.html)
-
-### Special Offers
-
-**SPECIAL OFFERS**
-
-**Midweek: Bed & Full Irish Breakfast €45 per person sharing **
-
-**Sunday & Monday: 2 Nights Bed & Full Irish Breakfast, 1 Gourmet dinner €89 per person**
-
-**Midweek: 2 Nights Bed & Full Irish Breakfast, 1 Gourmet dinner €99 per person**
-
-**Midweek: 3 Nights Bed & Full irish Breakfast, 1 Gourmet Dinner €129 per person**
-
-**Weekends: 2 Nights Bed & Full Irish Breakfast, 1 Gourmet Dinner €129 perp person**
-
-[Click here for all Special Offers](https://web.archive.org/web/20091207091735id_/http%3A//www.ashdownparkhotel.com/irish_hotel_offers/index.htm)
+[](https://web.archive.org/web/20100312034456id_/http%3A//www.ashdownparkhotel.com/irish_hotel_offers/index.htm)[](https://web.archive.org/web/20100312034456id_/http%3A//www.ashdownparkhotel.com/Gallery.html) [](https://web.archive.org/web/20100312034456id_/http%3A//www.ashdownparkhotel.com/family_friendly_hotel_leisure_breaks.html)
 
 ### Upcoming Events
 
-LIVE at the Ashdown Park Hotel
+LIVE @ ASHDOWN PARK HOTEL
 
-Country Music Christmas parties 10th & 17th December
+FEBRUARY 2010
 
-Featuring: Trudi lalor, Louise Morrissey, Larry Cunningham, John Hogan
+SUN 28TH - MIKE DENVER + TERESA & THE STARS
 
-Gala Meal, Spot prizes & novelties. Tickets at hotel
+TRADITIONAL IRISH MUSIC EVERY WEDNESDAY NIGHT IN OUR COACH BAR
 
-Sunday 22nd November    Louise Morrissey
-
-Sunday 29th November     Dominic Kirwan
-
-[Click here for all Upcoming Events](https://web.archive.org/web/20091207091735id_/http%3A//www.ashdownparkhotel.com/wexford_conference_venues/special_occasions_events.htm)
+[Click here for all Upcoming Events](https://web.archive.org/web/20100312034456id_/http%3A//www.ashdownparkhotel.com/wexford_conference_venues/special_occasions_events.htm)
 
 Enter your name and email address to receive our Newsletter 
