@@ -1,36 +1,370 @@
-<!--The following is the downloaded HTML source of the manymoon.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216164351id_/http%3A//www.manymoon.com/auth/showPrivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the manymoon.com privacy policy that was archived on 2010-03-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100312095443id_/https%3A//manymoon.com/auth/showPrivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="keywords" content="task,todo,project,basecamp,remember the milk,google calendar,google docs,facebook enterprise,social networking enterprise">
+    <meta name="verify-v1" content="TVuMoNAW2wNgtYSrl463pn7wSZvhYz5sLQCI4iUoTnI=">
     <title>Manymoon | Privacy Agreement</title>
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+    
+  <link rel="stylesheet" type="text/css" media="all" href="/css/960_gs/960-all.css">
+  <link rel="stylesheet" type="text/css" media="all" href="/css/mmCommon.css?v=124">
+  <link rel="stylesheet" type="text/css" media="all" href="/css/mmStyle.css?v=123">
+  
+  
 
-    <link rel="stylesheet" type="text/css" media="all" href="/css/960_gs/reset.css">
-    <link rel="stylesheet" type="text/css" media="all" href="/css/960_gs/text.css">
-    <link rel="stylesheet" type="text/css" media="all" href="/css/960_gs/960.css">
+  
 
-    <link rel="stylesheet" type="text/css" media="all" href="/css/mmStyle.css">
-    <link rel="stylesheet" type="text/css" media="all" href="/css/mmCommon.css">
 
-    <link rel="shortcut icon" href="/images/title.ico" type="image/x-icon">
+  <style type="text/css">
+    
+      .joinNow, .joinNow:hover { background: url('/images/micro/joinNowSprite.png') no-repeat scroll 0 0; }
+      .joinNow { background-position: 0 0; height: 39px; width: 203px; }
+      .joinNow:hover { background-position: 0 -49px; }
+    
 
-    <script type="text/javascript" src="/js/jquery/jquery-1.2.6.min.js"></script>
-    <script type="text/javascript" src="/js/jquery/jquery.labelify.js"></script>
-     <script type="text/javascript" src="/js/mmCommon.js"></script>
+  </style>
+
+
+<style type="text/css">
+
+pre {white-space:pre-wrap}
+
+</style>
+
+  
+    <link rel="stylesheet" type="text/css" href="/js/jquery/fancybox/jquery.fancybox-1.3.0.css" media="screen">
+    <link rel="stylesheet" type="text/css" media="all" href="/js/jquery/jquery-validate/jquery.validate.css">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/jquery/jquery-misc-1.3.1-min-v2.js"></script>
+    <script type="text/javascript" src="/js/jquery/fancybox/jquery.mousewheel-3.0.2.pack.js"></script>
+    <script type="text/javascript" src="/js/jquery/fancybox/jquery.fancybox-1.3.0.pack.js"></script>
+    <script type="text/javascript" src="/js/mmCommon.js?v=5"></script>
+
+        <title>Social Productivity | Manymoon | Task Management | Project Management | Google Apps</title>
+
+  <script type="text/javascript">
+        $(document).ready(function(){
+          if ($('#loginForm').size() > 0) {
+  //          if ($('.toLabel').size() > 0) $(".toLabel").labelify({labelledClass: "labelHighlight"});
+            var pwdHInputs = '#passwordH';
+            var pwdInputs = '#password';
+            $(pwdHInputs).bind('click focus keydown keypress',function() {
+  //            $('.pwd').toggle();
+              var realPwdInput = $(this).next();
+              $(realPwdInput).show();
+              $(this).hide();
+              $(realPwdInput).focus();
+  //            alert('test2');
+            });
+            $(pwdInputs).blur(function() {
+  //            alert($(this).val());
+              if ($(this).val() == '') {
+                $(this).parent().find('.pwd').toggle();
+  //              $('#passwordH').labelify('show');
+  //              alert('test');
+              }
+            });
+            showLoginEmailHint();
+            setTimeout(function() {
+              $('#username').bind('click focus keydown keypress',function() {
+                if ($(this).hasClass('labelHighlight')) {
+                  $(this).val('').removeClass('labelHighlight');
+                }
+              });
+            },500);
+            $('#username').blur(function() {
+              showLoginEmailHint();
+            });
+          }
+          
+
+            var currDate = calculateZoneOffset();
+//          alert(currDate);
+            $("#zoneOffset").val(currDate);
+
+          
+            $("#username").focus().select();
+//          setTimeout(function() {$('#username').labelify('show');}, 500);
+          document.getElementById('username').select();
+          
+          setupValidation();
+          if ($("#joinBetaForm").size() > 0) initSignupForm();
+
+          
+
+
+          
+            $("#loginForm :text").labelify({labelledClass: "labelHighlight"});
+          
+          KM.record('Main Login - Landed');
+        });
+        function showLoginEmailHint() {
+          if ($('#username').val() == '') {
+              $('#username').addClass('labelHighlight');
+              $('#username').val('Email');
+            }
+        }
+        function setupValidation() {
+            $("#loginForm").validate({
+                rules: {
+                    login: {
+                        required: true,
+                        email: true
+                    },
+                    password: {
+                        required: true,
+                        minlength: 6,
+                        maxlength: 18
+                    }
+                },
+                messages: {
+                    login: {
+                        email: "Please enter a valid email."
+                    },
+                    password: {
+                        minlength:"Password must be at least 6 characters long."
+                    }
+                },
+                onfocusout: false,
+                onclick: false,
+                onkeyup: false
+            });
+            $("#gAppForm").validate({
+                rules: {
+                    domain: {
+                      required: true,
+                      email: true
+                    }
+                },
+                onfocusout: false,
+                onclick: false,
+                onkeyup: false
+            });
+          
+        }
+        function initSignupForm() {
+          $("#joinBetaForm").validate({
+                rules: {
+                    firstName: {
+                        required: true
+                    },
+                    lastName: {
+                        required: true
+                    },
+                    userNameEmail: {
+                        required: true,
+                        email: true
+                    },
+                    password: {
+                        required: true,
+                        minlength: 6,
+                        maxlength: 18
+                    }
+                },
+                messages: {
+                    password: {
+                      
+                        minlength:"Password must be at least 6 characters long."
+                    }
+                },
+            
+                onfocusout: false,
+                onclick: false,
+                onkeyup: false
+            });
+          if ($('#userTagInput').size() > 0)setupBubbleInput('userTagInput', 'userTag');
+          
+        }
+        function toResetPwd() {
+            var url = '/auth/forgotpassword';
+            var email = $('#username').val();
+            url += '?email=' + email;
+          
+            window.location = url;
+          
+        }
+        function doLogin() {
+            if(!$("#loginForm").validate().form())
+                return;
+            //document.loginForm.submit();
+        }
+        function doSignup() {
+            if(!$("#joinBetaForm").validate().form())
+                return;
+            //document.joinBetaForm.submit();
+        }
+        function toPwdInput() {
+
+        }
+  function preSubmitReg() {
+    
+    // adding tag if any not yet added from input
+    if ($('#userTagInput').size() > 0) addBubbleToListByElem($('#userTagInput'), $('#userTag'), 'userTag');
+    
+    KM.record('Cold Join - Signup',{'signup_type':'regular'});
+  }
+  function checkRememberMe(lkElem) {
+    if (isChecked('rememberMe')) $(lkElem).attr('href', $(lkElem).attr('href') + '?rememberMe=y');
+//    alert($(lkElem).attr('href'));
+  }
+  function initFancySignup(target) {
+    $(target).fancybox({
+      'opacity': false,
+      'height' : 305,
+      'width' : 615,
+      'hideOnContentClick' : false,
+      'hideOnOverlayClick' : false,
+      'onComplete' : function() {
+        initSignupForm();
+        $("#firstName").focus();
+      }
+    });
+  }
+  
+  
+    </script>
+  <style>
+    
+    .login input, .login input:hover, .loginBottom { background: url('/images/micro/loginSprite.png') no-repeat scroll 0 0; }
+    .loginBottom {
+      background-position: 0 -28px;
+      height: 9px; width: 494px;
+    }
+    #loginContainer { font-size: 12px; font-weight: bold; color: white; }
+    .loginInput { background-color: #004d7d; width: 417px; }
+    .login { background-color: #fff; width: 77px; }
+
+    .login input { background-position: 0 0; width: 57px; height:20px; margin: 2px 0px 0 15px; cursor:pointer; border: none; }
+    .login input:hover { background-position: 0 -47px; }
+    #loginForm table tr td table { width: 410px; }
+    #loginForm table tr td table tr td { width: 205px; color: #98A9CA; }
+    #loginForm table tr td table tr td a { color: #98A9CA; }
+    #loginForm table tr td table tr td div { margin-left: 15px; }
+    #loginForm table tr td table tr td .text { width: 170px; }
+    .gLoginDiv {margin-right:77px;text-align:right;color:#666; }
+    .gLoginDiv a:visited { color: #004d7d; }
+
+  </style>
+  
+  
+  <style>
+
+    html, body {
+      background: #7fb6d7 url('/images/micro/bg.jpg') no-repeat scroll 0 0;
+      color: #041023;
+      font-family: Arial, Helvetica, Verdana,  sans-serif;
+    }
+    #mmMain {
+      background: none;
+      border: none;
+    }
+    .roundTop {
+      background: url('/images/coldJoin/roundTop.png') no-repeat scroll 0 0;
+    }
+    .roundBottom {
+      background: url('/images/coldJoin/roundBottom.png') no-repeat scroll 0 0;
+    }
+    .roundTop, .roundBottom { height: 17px; width: 960px; }
+    .top {
+      background-color:white; width: 960px;
+    }
+    h4 { border: none; }
+
+    .center { margin-left:auto;margin-right:auto; }
+
+    #logo { margin-bottom: 20px; }
+
+    #footer strong, #footer strong a, #footer strong a:visited { color: #004d7d; }
+    #footer a, #footer a:visited { color: #369; }
+  </style>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <meta name="layout" content="mmLayoutUserless">
+        <meta name="layout" content="mmLayoutUserless_v3_2">
 </head>
 <body>
-     <div id="mmMain">
-         <div class="container_12">
-             <div class="grid_12">
-                 <div id="logo" style="margin:20px 0 10px 0;">
-                    <a href="/users/main"><img src="/images/logoOriginalcolorSmaller.jpg" alt="ManyMoon"></a>
-                 </div>
-             </div>
-             <div class="clear"></div>
+  <div id="mmMain">
+     <div class="container_12">
+       <div id="" style="">
+         <table style="height: 100px;">
+           <tbody><tr>
+             <td id="logo" style="width:280px;"><a href="/users/main"><img src="/images/logoOriginalcolor_transparent.png" alt="ManyMoon" style="margin-top: 42px"></a></td>
+             <td style="width:186px;"></td>
+             <td id="loginContainer" style="width:494px;">
+               
+                  <form action="/auth/handleLogin" method="post" class="loginForm loginTog" name="loginForm" onclick="KM.record('Main Login - Login');" id="loginForm">
+   <input type="hidden" name="zoneOffset" id="zoneOffset">
+ <table>
+   <tbody><tr>
+     <td class="loginInput">
+      <table>
+       <tbody><tr class="mmsmall_nm">
+         <td>
+          <div style=""><input type="checkbox" name="rememberMe" id="rememberMe" class="mmCheckbox_mid" style="margin-right:3px;">Remember me</div>
+         </td>
+         <td>
+          <div><a href="#" onclick="toResetPwd();" tabindex="4" style="">Forgot Your Password?</a></div>
+         </td>
+       </tr>
+     </tbody></table>
+     </td>
+     <td class="login"></td>
+   </tr>
+   <tr>
+     <td class="loginInput">
+       <table>
+         <tbody><tr>
+         <td style="">
+          <div style=""><input type="text" id="username" name="login" maxlength="70" tabindex="1" style="" value="" onfocus="this.select();" class="text"></div>
+         </td>
+         <td id="pwdHolder" style="">
+           <div>
+            <input type="text" id="passwordH" tabindex="2" class="pwd text" style="color:gray;" value="Password">
+            <input type="password" id="password" name="password" maxlength="50" style="" tabindex="2" class="mm-hidden pwd text">
+           </div>
+         </td>
+       </tr>
+       </tbody></table>
+     </td>
+     <td class="login"><input type="Submit" name="submit" value="" tabindex="3" class=""></td>
+   </tr>
+ </tbody></table>
+ <div class="loginBottom"></div>
+ </form>
+ <form action="/auth/openidgapp" method="post" class="mm-hidden loginTog loginForm" name="gAppForm" id="gAppForm">
+   <input type="hidden" name="src" value="">
+   <input type="hidden" name="tid" value="">
+   <table>
+     <tbody><tr>
+       <td class="loginInput">
+         <div style="padding: 8px 0px 0pt 15px;">
+          Google Apps Email Address:
+          <input type="text" id="domain" name="domain" maxlength="50" style="width:210px;" tabindex="4" value="">
+         </div>
+       </td>
+       <td class="login aCenter" style="padding-top: 7px">
+        <input type="Submit" name="submit" value="" tabindex="5" class="">
+       </td>
+     </tr>
+   </tbody></table>
+   
+   <div class="loginBottom"></div>
+ </form>
 
-             <div class="grid_12" id="container">
+ <div class="gLoginDiv">Login using <a href="/auth/openid" class="blueTxt">Google</a> or
+   <span class="mm_lk loginChangeTog blueTxt" style="" onclick="$('.loginTog, .loginChangeTog').toggle();$('#domain').focus();">Google Apps</span>
+   <span class="mm_lk mm-hidden loginChangeTog blueTxt" onclick="$('.loginTog, .loginChangeTog').toggle();$('#username').focus();">Manymoon</span>
+ </div>
+ 
+
+               
+             </td>
+           </tr>
+         </tbody></table>
+         <div class="roundTop"></div>
+         <div class="top">
+           <div style="padding: 0 20px;">
+         <div class="" id="container">
 <h2>Privacy Agreement</h2>
 <p>We are committed to maintaining your privacy and keeping your trust, so we guarantee the following to protect your privacy:</p>
 <ul style="list-style-type: disc;margin-left:20px;">
@@ -71,7 +405,7 @@ Children are not eligible to use our service and we ask that minors (under the a
 <p>Manymoon is an online service dedicated to helping all types of professionals more effectively work with one another. The personally identifiable information you choose to provide on this site is used to help you describe yourself to other users. Other information, that does not personally identify you as an individual, is collected by Manymoon from the site (such as, by way of example, patterns of utilization) and is exclusively owned by Manymoon. This information can be utilized by Manymoon in such manner as Manymoon, in its sole discretion, deems appropriate.<br>
 <br>
 <em>Manymoon  Communications:</em><br>
-Manymoon will communicate with you through email and notices posted on this website. These include a series of welcome emails which help inform new users about various features of the service. Please be aware that you will always receive certain emails from Manymoon related to the proper functioning of your account, such as email notices when another user shares project information with you. Manymoon may send you promotional information unless you have opted out of receiving such information. If you wish to opt-out of receiving promotional emails, please send a request to <a href="mailto:customer_service@manymoon.com">customer_service@Manymoon.com</a>.<br>
+Manymoon will communicate with you through email and notices posted on this website. These include a series of welcome emails which help inform new users about various features of the service. Please be aware that you will always receive certain emails from Manymoon related to the proper functioning of your account, such as email notices when another user shares project information with you. Manymoon may send you promotional information unless you have opted out of receiving such information. If you wish to opt-out of receiving promotional emails, please send a request to <a href="mailto:customerservice@manymoon.com">CustomerService@Manymoon.com</a>.<br>
 <br>
 <em>Customized Content:</em><br>
 Information you provide at registration or in your Profile section is also used to customize your experience on the web site. For example, when you login to your account we may display the names of users who are in the same project as you.</p>
@@ -98,28 +432,48 @@ You can review the personal information you provided us and make any desired cha
 <h3>Changes to this Privacy Policy</h3>
 <p>Manymoon may update this privacy policy. In the event there are significant changes in the way we treat your personally identifiable information, we will display a notice on this site. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.</p>
 <h3>Questions or Comments</h3>
-<p>If you have questions or comments about this privacy policy, please email us at <a href="mailto:privacy@manymoon.com">privacy@Manymoon.com</a> or contact us at:<br>
+<p style="margin:0;">If you have questions or comments about this privacy policy, please email us at <a href="mailto:privacy@manymoon.com">privacy@Manymoon.com</a> or contact us at:<br>
 Manymoon<br>
 Attn: Privacy Policy Issues<br>
 P.O. Box 170673<br>
 San Francisco, CA 94117</p>
-<p>&nbsp;</p>
 </div>
-            
-             <div class="clear"></div>
-
-             
+    <div class="clear"></div>
+           </div>
          </div>
-         <div class="push"></div>
-     </div>
-    <div id="mmFooter">
-     <span>Manymoon © 2008</span>
-     <span>|</span>
-     <span><a href="/auth/showTerms" target="_blank" title="Manymoon Terms Of Service">Terms</a></span>
-     <span>|</span>
-     <span><a href="/auth/showPrivacy" target="_blank" title="Manymoon Privacy Policy">Privacy</a></span>
-    <span>|</span>
-     <span><a href="/auth/showAboutUs" target="_blank" title="Manymoon About Us">About Us</a></span>
+         <div class="roundBottom"></div>
+         <div id="footer" style="margin-top: 5px;">
+   <table style="width:960px;">
+     <tbody><tr>
+       <td style="padding-left: 40px;width: 20%">
+         <ul>
+           <li><strong>Legal</strong></li>
+           <li><a href="/auth/showTerms" title="Manymoon Terms Of Service">User Agreement</a></li>
+           <li><a href="/auth/showPrivacy" title="Manymoon Privacy Policy">Privacy</a></li>
+         </ul>
+       </td>
+       <td style="width: 20%">
+         <ul>
+           <li><strong><a href="/auth/showAboutUs" title="Manymoon About Us">About Us</a></strong></li>
+           <li><a href="http://twitter.com/Manymoon" target="_blank" title="Manymoon on Twitter">Twitter</a></li>
+           <li><a href="http://www.facebook.com/pages/Manymoon/50171932570" target="_blank" title="Manymoon on Facebook">Facebook</a></li>
+           <li><a href="http://blog.manymoon.com" target="_blank" title="Manymoon Blog">Blog</a></li>
+           <li><a href="http://www.manymoon.com/jobs/wd0107.html" title="Jobs at Manymoon">Jobs</a></li>
+           <li><a href="mailto:customerservice@manymoon.com" title="Contact Us">Contact Us</a></li>
+         </ul>
+       </td>
+       <td style="width: 20%">
+         <ul>
+           <li><strong>Security</strong></li>
+           <li><a href="/misc/help?goto=security" title="Manymoon Security Statement">Security Statement</a></li>
+         </ul>
+       </td>
+       <td style="padding-right: 20px;width: 30%;text-align:right;">
+          <strong>Manymoon © 2010</strong>
+       </td>
+     </tr>
+   </tbody></table>
+
  </div>
 
 <script type="text/javascript">
@@ -130,6 +484,47 @@ San Francisco, CA 94117</p>
     var pageTracker = _gat._getTracker("UA-4872342-1");
     pageTracker._initData();
     pageTracker._trackPageview();
+    
 </script>
+
+<script type="text/javascript">
+  function mpmetrics() {}
+  mpmetrics.track = function() {}
+  mpmetrics.init = function() {}
+  mpmetrics.track_funnel = function() {}
+  
+</script>
+<script type="text/javascript">
+  var KM_KEY = "";
+  
+  if ($.cookie('mm_km_key') != null && $.cookie('mm_km_key') != '') {
+    KM_KEY = $.cookie('mm_km_key');
+  }
+  else if ($.cookie('mm_sem_gadwords') == 'y') {
+    KM_KEY = "1c68c08f6e3e55a49e76bc646189be6a7bb7514b";
+  }
+  else if ($.cookie('mm_googleIOsandbox') == 'y') {
+    KM_KEY = "bb31529c7184e5d5f726b78c2cba1585d801d42f";
+  }
+  else KM_KEY = "df15dcf35bdbb8bfa367097cbf07a079ec38ec0b";
+  
+  document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") + "scripts.kissmetrics.com/t.js' type='text/javascript'%3E%3C/script%3E"));
+  window.onload=function(){
+    $.cookie('mm_sem_gadwords', null, { path: '/'});
+    $.cookie('mm_googleIOsandbox', null, { path: '/'});
+    
+    
+  }
+</script>
+<script type="text/javascript">
+//  function KM() {}
+//  KM.record = function() {}
+</script>
+       </div>
+     </div>
+   </div>
+
+
+
 
 </body></html>
