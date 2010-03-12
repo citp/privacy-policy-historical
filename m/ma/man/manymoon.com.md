@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manymoon.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216164351id_/http%3A//www.manymoon.com/auth/showPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manymoon.com privacy policy that was archived on 2010-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100312095443id_/https%3A//manymoon.com/auth/showPrivacy) for the most accurate reproduction.*
 
 # Manymoon | Privacy Agreement
 
@@ -38,7 +38,7 @@ Children are not eligible to use our service and we ask that minors (under the a
 Manymoon is an online service dedicated to helping all types of professionals more effectively work with one another. The personally identifiable information you choose to provide on this site is used to help you describe yourself to other users. Other information, that does not personally identify you as an individual, is collected by Manymoon from the site (such as, by way of example, patterns of utilization) and is exclusively owned by Manymoon. This information can be utilized by Manymoon in such manner as Manymoon, in its sole discretion, deems appropriate.
 
 _Manymoon Communications:_  
-Manymoon will communicate with you through email and notices posted on this website. These include a series of welcome emails which help inform new users about various features of the service. Please be aware that you will always receive certain emails from Manymoon related to the proper functioning of your account, such as email notices when another user shares project information with you. Manymoon may send you promotional information unless you have opted out of receiving such information. If you wish to opt-out of receiving promotional emails, please send a request to [customer_service@Manymoon.com](mailto:customer_service@manymoon.com).
+Manymoon will communicate with you through email and notices posted on this website. These include a series of welcome emails which help inform new users about various features of the service. Please be aware that you will always receive certain emails from Manymoon related to the proper functioning of your account, such as email notices when another user shares project information with you. Manymoon may send you promotional information unless you have opted out of receiving such information. If you wish to opt-out of receiving promotional emails, please send a request to [CustomerService@Manymoon.com](mailto:customerservice@manymoon.com).
 
 _Customized Content:_  
 Information you provide at registration or in your Profile section is also used to customize your experience on the web site. For example, when you login to your account we may display the names of users who are in the same project as you.
