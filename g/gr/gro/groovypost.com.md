@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groovypost.com privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027120306id_/http%3A//www.groovypost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groovypost.com privacy policy that was archived on 2010-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100312045441id_/http%3A//www.groovypost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | groovypost.com
 
@@ -22,5 +22,3 @@ Another option is to disable cookies in your browser however by doing this you w
 Any questions or comments regarding the privacy policy should be sent to [privacy@groovyPost.com](mailto:privacy@groovyPost.com).
 
 MrGroove
-
-Comments Off
