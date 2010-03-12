@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dlife.com privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327144841id_/http%3A//www.dlife.com/dLife/do/ShowContent/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlife.com privacy policy that was archived on 2010-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100312104002id_/http%3A//www.dlife.com/diabetes/information/policy/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - dLife.com - For Your Diabetes Life
 
@@ -47,4 +47,4 @@ If you have questions or concerns about any of our information collection or han
 
 User Agreement
 
- ****Your access to and use of the Site requires acceptance of dLife’s User agreement. Read more about our User Agreement[here](https://web.archive.org/dLife/do/ShowContent/policy/forum.html). 
+ ****Your access to and use of the Site requires acceptance of dLife’s User agreement. Read more about our User Agreement[here](https://web.archive.org/diabetes/information/policy/forum.html). 
