@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mariogames1.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216053040id_/http%3A//www.mariogames1.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariogames1.com privacy policy that was archived on 2010-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100312082047id_/http%3A//www.mariogames1.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -32,4 +32,4 @@ We use third-party advertising companies to serve ads when you visit our website
 
 From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by Email us at the address provided above.
 
-From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by E-mail us at the address provided above.oktv
+From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by E-mail us at the address provided above.ok-2010
