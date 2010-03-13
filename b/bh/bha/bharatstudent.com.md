@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bharatstudent.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219081216id_/http%3A//www.bharatstudent.com/help/faq-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatstudent.com privacy policy that was archived on 2010-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100313081443id_/http%3A//www.bharatstudent.com/help/faq-privacy.php) for the most accurate reproduction.*
 
 # BharatStudent Help
 
