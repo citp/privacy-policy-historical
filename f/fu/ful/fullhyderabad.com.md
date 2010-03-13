@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fullhyderabad.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216150513id_/http%3A//www.fullhyderabad.com/articles/15) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullhyderabad.com privacy policy that was archived on 2010-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100313083607id_/http%3A//www.fullhyderabad.com/articles/15) for the most accurate reproduction.*
 
-# Privacy Policy - fullhyd.com
+# Privacy Policy - fullhyd.com, Hyderabad local guide
 
 This site (including the URLs fullhyd.com, fullhyderabad.com, fullhyd.in, fullhyderabad.in and fullhydblogs.com) is the responsibility of LRR Technologies (Hyderabad) Private Limited. We want you to: 
 
