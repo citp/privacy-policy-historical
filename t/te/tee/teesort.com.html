@@ -1,0 +1,289 @@
+<!--The following is the downloaded HTML source of the teesort.com privacy policy that was archived on 2010-03-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100313195153id_/http%3A//www.teesort.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en"><head>
+<title>TeeSort.com | Privacy Policy</title>
+<base href="http://www.teesort.com/">
+<link rel="shortcut icon" href="favicon.ico">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/layout.css">
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ie6.css" />
+<![endif]-->
+<script type="text/javascript" src="catalog/view/javascript/jquery/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/thickbox/thickbox-compressed.js"></script>
+<link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/thickbox/thickbox.css">
+<script type="text/javascript" src="catalog/view/javascript/jquery/tab.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/protection.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/jquery.pngFix.js"></script> 
+<script type="text/javascript"> 
+    $(document).ready(function(){ 
+        $(document).pngFix(); 
+    }); 
+</script>
+
+
+
+
+
+</head>
+<body class="inner">
+<div id="header"><div style="width:1000px;margin:0 auto;height:110x;">
+<div class="div1"><a href="http://www.teesort.com/index.php?route=common/home">
+	<object type="application/x-shockwave-flash" data="/image/flash/logo.swf" width="235" height="110">
+	<param name="movie" value="/image/flash/logo.swf"> 
+	<param name="wmode" value="transparent"> 
+	</object> 
+<!-- <img src="http://www.teesort.com/image/logo.gif" title="TeeSort.com" alt="TeeSort.com" /> --></a></div>
+<div class="div2">
+<div class="div21" style="text-align:left;border:0px;">	
+	<object type="application/x-shockwave-flash" data="/image/flash/home.swf" width="375" height="90" align="middle" bgcolor="#000000">
+	<param name="movie" value="/image/flash/home.swf">
+	</object>
+</div>
+<!-- <div class="div22">	
+	<a href="?route=design/design">New Designs</a> | <a href="">Critiques</a> | <a href="">Challengers</a> | <a href="">Archives</a>
+</div> -->
+</div>
+<div class="div3"><div id="module_login">
+        <form action="/index.php?route=account/login" method="post" enctype="multipart/form-data" id="login" onsubmit="return moduleLogin();">
+        <div style="float:left;width:175px;padding-top:5px;">
+			<table border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr><td align="right">E-mail:</td><td><input type="text" name="email"></td></tr>
+			<tr><td align="right">Password:</td><td><input type="password" name="password"></td></tr>
+			</tbody></table>
+		</div>
+		<div style="float:left;width:50px;"><a onclick="$('#login').submit();"><img src="catalog/view/theme/default/image/login.png"></a></div>
+		<div style="float:left;width:20px;padding-top:5px;"><img src="catalog/view/theme/default/image/login_sep.gif"></div>
+		<div style="float:left;width:60px;padding-top:5px;color:#fff;">
+			<div style="margin-bottom:5px;"><a href="http://www.teesort.com/index.php?route=account/signup">Register</a></div>
+		<a href="http://www.teesort.com/index.php?route=account/forgotten">Forgot Password?</a></div>
+
+	  </form>
+</div>
+<script type="text/javascript"><!--
+function moduleLogin() {
+	
+}
+//--></script>
+<div class="div31">
+  <!-- <a href="http://www.teesort.com/index.php?route=account/account"><img src="catalog/view/theme/default/image/icon_account.png" alt="" />Account</a> -->
+  <a href="http://www.teesort.com/index.php?route=checkout/payment"><img src="catalog/view/theme/default/image/icon_checkout.gif" alt="">Checkout</a><a href="http://www.teesort.com/index.php?route=checkout/cart"><img src="catalog/view/theme/default/image/icon_basket.gif" alt="">Basket(<span id="quantity_cart">	0	</span>)</a>
+</div>
+</div>
+</div>
+<!-- <div class="div4">
+  <div class="div5"><img src="catalog/view/theme/default/image/cart.png" title="TeeSort.com" alt="TeeSort.com" align=left />
+	<div id="quantity_cart">	0	</div>
+  </div>
+  <div class="div6">Call @ 866-000-0600</div>
+</div> -->
+<script type="text/javascript"><!--
+$(document).ready(function () {
+	$('#add_to_cart').replaceWith('<a onclick="" id="add_to_cart" class="button">' + $('#add_to_cart').html() + '</a>');
+
+	$('#add_to_cart').click(function () {
+		$.ajax({
+			type: 'post',
+			url: 'index.php?route=module/cart/callback2',
+			dataType: 'html',
+			data: $('#product :input'),
+			success: function (html) {
+				$('#quantity_cart').html(html);
+			},	
+			complete: function () {
+				var image = $('#image').offset();
+				var cart  = $('#quantity_cart').offset();
+	
+				$('#image').before('<img src="' + $('#image').attr('src') + '" id="temp" style="position: absolute; top: ' + image.top + 'px; left: ' + image.left + 'px;" />');
+
+				$('.divClass').css("display","block") ; 
+				timedout();
+					
+
+				params = {
+					top : cart.top + 'px',
+					left : cart.left + 'px',
+					opacity : 0.0,
+					width : $('#quantity_cart').width(),  
+					heigth : $('#quantity_cart').height()
+				};		
+	
+				$('#temp').animate(params, 'slow', false, function () {
+					$('#temp').remove();
+				});		
+			}			
+		});			
+	});			
+});
+//--></script>
+
+<script type="text/javascript">
+
+
+function timedout()
+	{
+		var t=setTimeout("window.document.getElementById('divClass').style.display='none';",10000);
+	}
+
+$(document).ready(function(){
+
+$(".divClass .deleteDiv").click(function(){
+$(this).parents(".divClass").animate({ opacity: 'hide' }, "slow");
+});
+
+});
+</script></div>
+<div id="container"><a name="page"></a>
+	<div id="column_right">
+						<div class="about_us">
+	<img vspace="6" src="catalog/view/theme/default/image/about.jpg" border="0" usemap="#Map">
+	<map name="Map" id="Map"><area shape="rect" coords="1,-1,193,106" href="/?route=information/how-we-work"><area shape="rect" coords="0,106,193,152" href="/?route=information/about_us"></map>
+</div>
+
+								<div class="tell_friend">
+	<img src="catalog/view/theme/default/image/facebook_2.jpg" width="200" border="0" usemap="#Map2">
+	<map name="Map2" id="Map2">
+	<area shape="rect" coords="67,22,89,39" href="#" onclick="window.open('http://www.facebook.com/pages/teesortcom/205378725942?ref=ts', '1')"> <area shape="rect" coords="90,22,102,39" href="#" onclick="window.open('http://www.orkut.com/Main#Profile?uid=13002776446283845715','2')"><area shape="rect" coords="103,22,118,39" href="#" onclick="window.open('http://twitter.com/teesort', '3')"></map>
+</div>
+								<div class="box">
+  <div class="middle" style="width:196px;border:2px solid #f4f4f4;">
+	<img src="catalog/view/theme/default/image/live_com.jpg"><!-- Live Competition -->
+	  		<div class="module_forum">
+		  					 <a href="http://www.teesort.com/index.php?route=design/competition/detail&amp;competition_id=41"> <img src="http://www.teesort.com/image/cache/Art-Attack-4-thumb-194x110.jpg" title="Art Attack" alt="Art Attack"></a> 
+				  		</div>
+         </div>
+</div>
+<!-- <div style="width:196px;border:2px solid #FDD8D8;padding:0px;margin:0px;">
+	<h2 style="background:url('catalog/view/theme/default/image/forum_bg_red.gif') repeat-x;width:196px;height:24px;"><img src="catalog/view/theme/default/image/live_com.gif"></h2>
+		<table cellspacing="0" cellpadding="0" border="0" width="100%">
+		  <tbody> 
+		  			<tr>
+			  <td align = "center" class="tell_friend" >
+				  					 <a href="http://www.teesort.com/index.php?route=design/competition/detail&amp;competition_id=41"> <img src="http://www.teesort.com/image/cache/Art-Attack-4-thumb-194x110.jpg" title="Art Attack" alt="Art Attack" /></a> 
+				  			  </td>			
+			  </tr>
+			  <tr width=100% height=8><td></td></tr>
+					 </tbody>
+	  </table>
+  </div> -->
+								<div class="tell_friend"><!--<img src="catalog/view/theme/default/image/tell_friend.gif">-->
+<script type="text/javascript" src="http://cdn.socialtwist.com/2010020234606/script.js"></script><a class="st-taf" href="http://tellafriend.socialtwist.com:80" onclick="return false;" style="border:0;padding:0;margin:0;"><img alt="SocialTwist Tell-a-Friend" style="border:0;padding:0;margin:0;" src="catalog/view/theme/default/image/tell_friend.gif" onmouseout="STTAFFUNC.hideHoverMap(this)" onmouseover="STTAFFUNC.showHoverMap(this, '2010020234606', window.location, document.title)" onclick="STTAFFUNC.cw(this, {id:'2010020234606', link: window.location, title: document.title });"></a> 
+</div>
+								<div class="box">
+  <div style="height:170px;width:196px;border:2px solid #f4f4f4;"><img src="catalog/view/theme/default/image/forumtalk.jpg">
+	<div style="padding:5px;">
+	                    		<div class="module_forum" style="padding:4px;width:180px;">
+		  <b>Webmaster says :</b> <a href="/forum/topic.php?id=6">
+		  Starting this forum thread to get to know from ...</a>
+		</div>
+      	  	<div class="more"><a href="/forum/">more...</a></div>
+    </div> 
+   </div>
+</div>
+								<script type="text/javascript">
+	function SetDefault(obj,defaultVal,SetStaus){
+		if(SetStaus=='Set'){
+		if(obj.value=='')obj.value=defaultVal;
+			}else{
+		if(obj.value==defaultVal)obj.value='';
+		}
+	}
+</script>
+<div class="box">
+  <div class="middle">
+	<div style="background:url('/catalog/view/theme/default/image/add_to_cart.gif') repeat-x;width:196px;height:44px;border:2px solid #cecece;margin:0px;padding:0px;">
+	 <form name="subscription_form" action="/index.php?route=information/newsletter" method="POST">
+   	 <table align="center" border="0">
+		<tbody><tr>
+		<td align="left"><input type="text" name="email" size="18" style="margin-top:6px;height:24px;width:122px;background:url('catalog/view/theme/default/image/input_bg.gif') repeat-x;font:bold 11px/24px verdana;color:#a6a6a6;border:0px solid black;" value="Enter email ID" onfocus="SetDefault(this,'Enter email ID','Unset')" onblur="SetDefault(this,'Enter email ID','Set')">
+				</td>
+		<td><input type="image" src="catalog/view/theme/default/image/button_subscribe.gif" name="subscribe">
+		</td>
+		</tr> 
+	 </tbody></table>
+	 </form>	
+	</div>
+	</div>
+</div>
+					</div>
+	<div id="content" style="width:730px;">
+	  <div id="breadcrumb">
+				<a href="http://www.teesort.com/index.php?route=common/home">Home</a>
+				 &gt; <a href="http://www.teesort.com/index.php?route=information/information&amp;information_id=3">Privacy Policy</a>
+			  </div>  
+	  <div class="heading_title"><h1><img src="/catalog/view/theme/default/image/privacy_policy.jpg"></h1></div>
+<div class="middle"><p>This privacy policy sets out how Teesort uses and protects any information that you give Teesort when you use this website i.e., teesort.com, the site is owned and operated by Teesort</p>
+<p>Teesort is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.</p>
+<p>Teesort may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st December 2009.</p>
+<p><b>What we collect</b></p>
+<p>We may collect the following information:</p>
+<ul>
+    <li>name and job title</li>
+    <li>contact information including email address</li>
+    <li>demographic information such as postcode or zipcode, preferences and interests</li>
+    <li>other information relevant to customer surveys and/or offers</li>
+</ul>
+<p>What we do with the information we gather?</p>
+<p>We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:</p>
+<ul>
+    <li>Internal record keeping.</li>
+    <li>We may use the information to improve our products and services.</li>
+    <li>We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.</li>
+    <li>From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.</li>
+</ul>
+<p><b>Security</b></p>
+<p>We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.</p>
+<p><b>How we use cookies</b></p>
+<p>A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.</p>
+<p>We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.</p>
+<p>Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.</p>
+<p>You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.</p>
+<p><b>Links to other websites</b></p>
+<p>Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p>
+<p>Interest-based advertising will allow advertisers to show ads based on a user's previous interactions with them, such as visits to advertiser website and also to reach users based on their interests (e.g. "sports enthusiast"). To develop interest categories, we will recognize the types of web pages users visit throughout the Google content network. As an example, if they visit a number of sports pages, we will add them to the "sports enthusiast" interest category.</p>
+<p><b>Controlling your personal information</b></p>
+<p>You may choose to restrict the collection or use of your personal information in the following ways:</p>
+<ul>
+    <li>whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes</li>
+    <li>if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at <a href="mailto:info@teesort.com">info@teesort.com</a></li>
+</ul>
+<p>We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.</p>
+<p>You may request details of personal information which we hold about you under the Delhi's Cyber Law. A small fee will be payable. If you would like a copy of the information held on you please write to <b>Address</b>.</p>
+<p>If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.</p><!--   <div class="buttons">
+    <table>
+      <tr>
+        <td align="right"><a onclick="location='http://www.teesort.com/index.php?route=common/home'" class="button"><span>Continue</span></a></td>
+      </tr>
+    </table>
+  </div> -->
+</div>
+<div class="bottom">&nbsp;</div>
+	</div><div style="clear: both;">&nbsp;</div>
+</div>
+<div id="bottombar"><div id="footer">
+	<div class="div1">
+		<object type="application/x-shockwave-flash" data="/image/flash/fottor_home.swf" width="375" height="100" bgcolor="#000000">
+		<param name="movie" value="/image/flash/fottor_home.swf">
+		</object>
+	</div>
+	<div class="div2">
+				<p class="footer_a1"><a href="/">Home</a> | <a href="/index.php?route=product/shop">Shop</a>  | <a href="/?route=account/search">Our Artists</a> | <a href="/index.php?route=information/faq">FAQ's</a>  |   <a onclick="window.open('/support/livehelp.php?department=1', '1', 'width=500, height=400');">Live Support</a>  | <a href="/?route=information/about_us">About Us</a>  | <a href="/index.php?route=account/login">Login</a>  | <a href="/index.php?route=account/signup">Join TeeSort</a></p>
+		<p class="footer_a1"><a href="/index.php?route=account/order">Order Invoice</a> | <a href="/index.php?route=information/report_abuse">Report Abuse</a> | <a href="/blog/">Blogs</a> | <a href="/forum/">Forums</a></p>
+
+		<p class="footer_a2">© TeeSort.com 2009-2010 All rights reserved.<br>
+		<a href="/tems_conditions">Terms and Conditions</a> - <!-- <a href="/user_policy">User Policy</a> - --> <a href="/privacy-policy">Privacy Policy</a> - <a href="/index.php?route=information/sitemap">Sitemap</a> - <a href="/affiliate">Join our Affiliate Program</a></p>
+		<p><a href="http://www.ccavenue.com/" target="_blank"><img src="/catalog/view/theme/default/image/ccavenue.jpg" alt=""></a><a href="http://www.paypal.com" target="_blank"><img src="/catalog/view/theme/default/image/payment.png" alt=""></a></p>
+	</div> 
+</div></div>
+<!-- Google Analytics Stuff -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-15091020-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>
