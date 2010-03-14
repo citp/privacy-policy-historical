@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the directagents.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205031235id_/http%3A//www.directagents.com/aboutus/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directagents.com privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314051305id_/http%3A//www.directagents.com/aboutus/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Direct Agents, Inc.
 
 #### Direct Agents, Inc., 
 
-is committed to protecting the privacy of visitors to our websites. The following document outlines the privacy procedures and guidelines for our websites - [www.directagents.com](http://www.directagents.com/), [www.da-tracking.com](http://www.da-tracking.com/), [www.affiliateresponse.com](http://www.affiliateresponse.com/), and any other websites that we may launch in connection with our business. 
+is committed to protecting the privacy of visitors to our websites. The following document outlines the privacy procedures and guidelines for our websites - [www.directagents.com](http://www.directagents.com/), [www.da-tracking.com](http://www.da-tracking.com/), [www.localconnex.com](http://www.localconnex.com/), and any other websites that we may launch in connection with our business. This policy was last updated January 20th, 2010.
 
 #### The Information We Collect
 
@@ -25,6 +25,10 @@ A "Cookie" is a small amount of data stored on the hard drive of your computer t
 #### Site Security
 
 Direct Agents and its affiliated websites are hosted securely in order to protect your privacy and personal information. We follow industry best practices to ensure the integrity of your data.
+
+#### Foreign Use of the Website
+
+Foreign Domiciled users accessing this Website, acknowledge and consent that personal information provided to Direct Agents is collected and stored in the United States.  You therefore consent to the transfer of such information out of your country of domicile, to the United States. 
 
 #### Contact Information
 
