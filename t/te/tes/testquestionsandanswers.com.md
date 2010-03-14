@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testquestionsandanswers.com privacy policy that was archived on 2009-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090725131016id_/http%3A//www.testquestionsandanswers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testquestionsandanswers.com privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314073014id_/http%3A//www.testquestionsandanswers.com/privacy.html) for the most accurate reproduction.*
 
 # Test Questions and Answers - Privacy Policy
 
@@ -29,7 +29,7 @@ To use **TestQuestionsAndAnswers.com** , you do not need to accept persistent co
 
 ## If You Send Us Personal Information
 
-If you choose to provide us with personal information -- like filling out a Contact Us form with personal information and submitting it to us through the website -- we use that information to respond to your message and to help us get you the information you have requested. We only share the information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. We never create individual profiles or give it to any private organizations. **TestQuestionsAndAnswers.com** never collects information for commercial marketing.
+If you choose to provide us with personal information -- like filling out a Contact Us form with personal information and submitting it to us through the website -- we use that information to respond to your message and to help us get you the information you have requested. We only share the information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. We never create individual profiles or give it to any private organizations. **TestQuestionsAndAnswers.com** never collects information for commercial marketing without your permission.
 
 ## Site Security
 
