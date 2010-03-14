@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unify.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230205453id_/http%3A//www.unify.com/site/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unify.com privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314064426id_/http%3A//unify.com/site/privacy.aspx) for the most accurate reproduction.*
 
 # Unify | Privacy Policy
 
@@ -42,7 +42,7 @@ Unify will not sell, trade or lease your personal information to others.
 
 Unify does not require that you provide Unify with personal information. The decision to provide personal information is voluntary. If you do not wish to provide the personal information requested, however, you may not be able to proceed with the activity or receive the benefit for which the personal information is being requested.
 
-If you would like to remove your information from our database or not receive future communications, or wish to change or modify information previously provided, please contact us at [webmaster@unify.com](https://web.archive.org/web/20091230205453id_/http%3A//www.unify.com/site/webmaster@unify.com). Upon receipt of your request, your information will be removed or updated within ten (10) business days of receipt of your request.
+If you would like to remove your information from our database or not receive future communications, or wish to change or modify information previously provided, please contact us at [webmaster@unify.com](https://web.archive.org/web/20100314064426id_/http%3A//unify.com/site/webmaster@unify.com). Upon receipt of your request, your information will be removed or updated within ten (10) business days of receipt of your request.
 
 ## Sensitive Information
 
