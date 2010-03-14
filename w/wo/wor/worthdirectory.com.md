@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worthdirectory.com privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821181741id_/http%3A//www.worthdirectory.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worthdirectory.com privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314144256id_/http%3A//www.worthdirectory.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Worth Directory
 
