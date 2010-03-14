@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicusa.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419201629id_/http%3A//www.nicusa.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicusa.com privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314232202id_/http%3A//www.nicusa.com/html/privacy.html) for the most accurate reproduction.*
 
 # NIC Inc. | Privacy Statement
 
