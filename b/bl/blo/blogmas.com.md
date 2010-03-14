@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogmas.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215144720id_/http%3A//blogmas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogmas.com privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314064556id_/http%3A//blogmas.com/privacy-policy) for the most accurate reproduction.*
 
 # BlogMas - Alternative Free Blog Provider » Privacy Policy
 
