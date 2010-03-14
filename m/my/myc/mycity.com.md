@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mycity.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214205111id_/http%3A//www.mycity.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycity.com privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314063358id_/http%3A//www.mycity.com/privacy_policy.php) for the most accurate reproduction.*
 
 # MyCity
 
-[ ](http://www.mycity.com/) Your social community where consumers and businesses meet     [ ](http://www.mycity.com/member_signup.php)
+[ ](http://www.mycity.com/) Your social community where consumers and businesses meet    [ ](http://www.mycity.com/member_signup.php)
 
 Los Angeles, CA
 
