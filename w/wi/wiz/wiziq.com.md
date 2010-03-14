@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiziq.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209081353id_/http%3A//www.wiziq.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiziq.com privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314132223id_/http%3A//www.wiziq.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Your privacy is our top concern
 
