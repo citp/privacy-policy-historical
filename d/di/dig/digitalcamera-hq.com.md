@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the digitalcamera-hq.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619212651id_/http%3A//www.digitalcamera-hq.com/digital-cameras/dchq-privacy-policy_guide.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalcamera-hq.com privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314064030id_/http%3A//digitalcamera-hq.com/privacy_policy) for the most accurate reproduction.*
 
-# DCHQ: Privacy Policy - Unbiased digital camera reviews, prices, and advice
+# Privacy policy - Unbiased digital camera reviews, prices, and advice
 
-DigitalAdvisor LLC has provided this privacy policy because we value your right to privacy. This policy describes the types of information DigitalAdvisor LLC's Web site, DigitalCamera-HQ.com, gathers from its users and how that information is used. Please read this policy carefully. If you have questions about this policy, [please submit your query here.](https://web.archive.org/forms/feedback_form.html?site=dchq)
+DigitalAdvisor LLC has provided this privacy policy because we value your right to privacy. This policy describes the types of information DigitalAdvisor LLC's Web site, DigitalCamera-HQ.com, gathers from its users and how that information is used. Please read this policy carefully. If you have questions about this policy, email [admin@digitaladvisor.com](mailto:admin@digitaladvisor.com)
 
 ### Information we collect.
 
@@ -44,7 +44,7 @@ We also may share your personal information with third-parties specifically enga
 
 ### How you can review and update your personal information.
 
-You can review and update the personal information you have provided through the registration process by visiting http://www.digitaladvisor.com/user/registration.html.
+You can review and update the personal information you have provided through the registration process by visiting [http://digitalcamera-hq.com/users/new](https://web.archive.org/users/new).
 
 ### Steps we take to protect your personal information.
 
