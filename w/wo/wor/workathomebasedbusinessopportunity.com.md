@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workathomebasedbusinessopportunity.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211195147id_/http%3A//www.marketingcourseblowout.com/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workathomebasedbusinessopportunity.com privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315090441id_/http%3A//www.marketingcourseblowout.com/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # - Privacy Policy
 
@@ -14,7 +14,7 @@ We do not provide services or sell products to children. If you are below the ag
 
 **3\. Policy Is Part Of Our Terms And Conditions Of Use.** ****
 
-Our privacy policy is part of, and subject to, our website's terms and conditions of use. You may view these terms and conditions by [Terms](https://web.archive.org/web/20091211195147id_/http%3A//www.marketingcourseblowout.com/Terms.htm). __
+Our privacy policy is part of, and subject to, our website's terms and conditions of use. You may view these terms and conditions by [Terms](https://web.archive.org/web/20100315090441id_/http%3A//www.marketingcourseblowout.com/Terms.htm). __
 
 **4\. The Type Of Information We Collect From You.** ****
 
