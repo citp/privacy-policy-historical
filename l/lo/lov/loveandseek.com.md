@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveandseek.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204010533id_/http%3A//www.loveandseek.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveandseek.com privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315013757id_/http%3A//www.loveandseek.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # LoveAndSeek.com - Privacy Policy
 
@@ -60,4 +60,4 @@ The website is a general audience website and is intended to be used by adults i
 
 This Policy was last updated on October 21, 2009.
 
-Copyright © 2000-2009 People Media L.L.C. All rights reserved.
+Copyright © 2000-2010 People Media L.L.C. All rights reserved.
