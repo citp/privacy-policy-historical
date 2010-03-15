@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the emedoutlet.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emedoutlet.com privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315010516id_/http%3A//www.emedoutlet.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Canadian Pharmacy Online, Cheap Online Mexican Pharmacy
 
-|  |  |   
+|   
 ---  
 PRIVACY POLICY  
   It is our top priority to protect your privacy. We do collect personal information about you in order to fill your prescription orders and we pledge to maintain the confidentiality of that information. We do not sell, rent or give away the information you have entrusted to us. This notice describes our current privacy policy and practices.  
@@ -18,57 +18,4 @@ PRIVACY POLICY
   We do not rent, sell, or disclose any of your personal information, regardless of whether you are a current or former customer. Should your relationship with Emedoutlet end, we will continue to limit disclosures of your personal information in accordance with our stated privacy policy and practices just as we do for those who maintain a continuing relationship with us.  
   We welcome your inquiries. Please email us at [noreply@emedoutlet.com](mailto:noreply@emedoutlet.com)  
 |   
-|  [  Anti-Convulsant    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=30&cnt=0)    
----  
- [  Acne    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=44&cnt=1)    
- [  ADHD    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=59&cnt=2)    
- [  Alcohol & Drug Treatment    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=52&cnt=3)    
- [  Allergy & Sinus    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=9&cnt=4)    
- [  Alzheimers    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=27&cnt=5)    
- [  Anthelmintic    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=55&cnt=6)    
- [  Anti Coagulant    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=50&cnt=7)    
- [  Anti hemorrhoids    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=53&cnt=8)    
- [  Anti Viral    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=54&cnt=9)    
- [  Anti-Cancer    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=24&cnt=10)    
- [  Anti-Depressant    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=2&cnt=11)    
- [  Anti-Emetic    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=33&cnt=12)    
- [  Anti-Gout    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=37&cnt=13)    
- [  Anti-Parkinsonion    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=36&cnt=15)    
- [  Anti-Smoking    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=5&cnt=16)    
- [  Antibiotics    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=15&cnt=17)    
- [  Antifungal    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=29&cnt=18)    
- [  Antipsychotic    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=26&cnt=19)    
- [  Arthritis    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=35&cnt=20)    
- [  Asthma    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=20&cnt=21)    
- [  Beauty & Skin Care    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=18&cnt=22)    
- [  Birth Control    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=46&cnt=23)    
- [  Bladder - Prostate    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=34&cnt=24)    
- [  Charity & Aid Org    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=32&cnt=25)    
- [  Dental Care    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=56&cnt=26)    
- [  Diabetes    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=16&cnt=27)    
- [  Epilepsy    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=47&cnt=28)    
- [  Eye Care    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=22&cnt=29)    
- [  Gastro Health    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=14&cnt=30)    
- [  Hair Loss    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=12&cnt=31)    
- [  Heart & Blood Pressure    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=13&cnt=32)    
- [  Herbal Enhancers    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=65&cnt=33)    
- [  Herbal Health    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=41&cnt=34)    
- [  HIV & Herpes    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=48&cnt=35)    
- [  Homeopathic Medicine    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=57&cnt=36)    
- [  Hormones    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=21&cnt=37)    
- [  Immunosuppressive    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=39&cnt=38)    
- [  Infertility Therapy    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=49&cnt=39)    
- [  Mens Health    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=8&cnt=40)    
- [  Mens Herbal Health    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=66&cnt=41)    
- [  Muscle Relaxant    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=1&cnt=42)    
- [  Osteoporosis    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=23&cnt=43)    
- [  Pain Relief    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=7&cnt=44)    
- [  Pet Care    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=25&cnt=45)    
- [  Pure Herbal    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=40&cnt=46)    
- [  Sleep Aid    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=28&cnt=47)    
- [  Tubercolosis    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=45&cnt=49)    
- [  Weight Loss    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=6&cnt=50)    
- [  Womens Health    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=17&cnt=51)    
- [  Womens Herbal Health    ](https://web.archive.org/web/20090624182239id_/http%3A//www.emedoutlet.com/cat_med.php?id1=67&cnt=52)    
-  
 
