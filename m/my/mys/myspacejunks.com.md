@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myspacejunks.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209054709id_/http%3A//www.myspacejunks.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myspacejunks.com privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315064926id_/http%3A//www.myspacejunks.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Myspacejunks.com
 
