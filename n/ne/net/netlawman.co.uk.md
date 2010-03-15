@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netlawman.co.uk privacy policy that was archived on 2009-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090213112005id_/http%3A//www.netlawman.co.uk/nlm/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netlawman.co.uk privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315134722id_/http%3A//www.netlawman.co.uk/nlm/privacy_policy.php) for the most accurate reproduction.*
 
-# 
+# Net Lawman
 
 |  | **Privacy Policy**  
 ---  
@@ -33,7 +33,7 @@ To assist in combatting fraud, we share information with credit reference agenci
   |  | **7** | Update your information  
   
 ---|---  
-At any time you may review or update the personally identifiable information that we hold about you, by contacting us at the address below. To better safeguard your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information. If you have any question regarding the confidentiality policy, please [contact us](http://netlawman.co.uk/others/contact_us.php?jury_id=&service_id=).  
+At any time you may review or update the personally identifiable information that we hold about you, by contacting us at the address below. To better safeguard your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information. If you have any question regarding the confidentiality policy, please [contact us](http://www.netlawman.co.uk/others/contact_us.php?jury_id=3072bd2fbf&service_id=971f449ae2).  
   |    
   | Now take me back where I was before reading this.  
   |  
