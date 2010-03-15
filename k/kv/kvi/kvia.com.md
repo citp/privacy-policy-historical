@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kvia.com privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031204914id_/http%3A//www.kvia.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvia.com privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315211905id_/http%3A//www.kvia.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - KVIA.com El Paso, Las Cruces - Weather, News, Sports -
 
