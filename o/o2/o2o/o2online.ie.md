@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the o2online.ie privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203072221id_/http%3A//www.o2online.ie/wps/wcm/connect/O2/About%2BO2/Terms%2Band%2BConditions/Privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the o2online.ie privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315065215id_/http%3A//www.o2online.ie/wps/wcm/connect/O2/About%2BO2/Terms%2Band%2BConditions/Privacy%2Bpolicy) for the most accurate reproduction.*
 
 # Terms and Conditions
 
