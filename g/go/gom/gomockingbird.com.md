@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomockingbird.com privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113090136id_/http%3A//gomockingbird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomockingbird.com privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315160231id_/http%3A//gomockingbird.com/privacy) for the most accurate reproduction.*
 
 # Mockingbird | Wireframes on the fly | Privacy Policy
 
