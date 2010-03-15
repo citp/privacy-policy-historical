@@ -1,111 +1,109 @@
-> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615185453id_/http%3A//www.deakin.edu.au/disclaimer/index.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315071101id_/http%3A//deakin.edu.au/disclaimer/%23privacy) for the most accurate reproduction.*
 
-# Disclaimer
+# Disclaimer information
 
-Deakin University has taken all reasonable measures to ensure that material contained in this website is correct.  
-However, the University gives no warranty and accepts no responsibility for the accuracy or the completeness of the material; no reliance should be made by any user on the material. The user should check for confirmation with the originating or authorising faculty, department or other body; and the University reserves the right at any time to make changes, as it deems appropriate. 
+Deakin University has taken all reasonable measures to ensure that material contained in this website is correct. However, the University gives no warranty and accepts no responsibility for the accuracy or the completeness of the material; no reliance should be made by any user on the material. The user should check for confirmation with the originating or authorising faculty, department or other body; and the University reserves the right at any time to make changes, as it deems appropriate. 
 
-The University provides external links as a service to users of its website. In providing an external link the University does not accept responsibility for or endorse the content or condition of any linked site. 
+The University provides external links as a service to users of its website. In providing an external link the University does not accept responsibility for or endorse the content or condition of any linked site.
 
 ## Copyright notice
 
-This website and its contents are subject to copyright under the laws of Australia and, through international treaties, other countries. The copyright in materials in this website as a whole is owned by Deakin University. Third parties own the copyright in some materials incorporated within this website. You may view this website and its contents using your web browser and save an electronic copy, or print out a copy, of parts of this website solely for your own information, research or study, but only if you: do not modify the copy; and include the copyright notice "© Deakin University 2006" on the copy. You must not otherwise exercise the copyright in the whole or any part of this website for any other purpose except as expressly permitted by statute or with Deakin University's prior consent. 
+This website and its contents are subject to copyright under the laws of Australia and, through international treaties, other countries. The copyright in materials in this website as a whole is owned by Deakin University. Third parties own the copyright in some materials incorporated within this website. You may view this website and its contents using your web browser and save an electronic copy, or print out a copy, of parts of this website solely for your own information, research or study, but only if you: do not modify the copy; and include the copyright notice "© Deakin University 2010" on the copy. You must not otherwise exercise the copyright in the whole or any part of this website for any other purpose except as expressly permitted by statute or with Deakin University's prior consent. 
 
-See the [Deakin University Copyright Guidelines and Requirements](http://www.deakin.edu.au/learningservices/copyright/) website.
+  * See the [Deakin University Copyright Guidelines and Requirements](http://www.deakin.edu.au/kmd/copyright/) website.
+
+
+
+### Copyright complaints and take-down notices 
+
+If you have identified a use of copyright material on the Deakin University IT network which may constitute a copyright infringement or a breach of agreed licence or contract, please notify us using the [Copyright Infringement Take-down Notice form](https://web.archive.org/web/20100315071101id_/http%3A//deakin.edu.au/disclaimer/takedown/index.php). This form may be used by all complainants whether external or internal to the University.
+
+Upon submission, this notice will be sent to the Deakin University designated representative for receiving complaints regarding the use of copyright material on the Deakin University IT network. Complaints will be dealt with in accordance with the [Copyright procedure](http://theguide.deakin.edu.au/TheDeakinGuide.nsf/7264c32fe71924374a2566f3000a65de/a987d56569225325ca2575dd001822bc?OpenDocument).
+
+If you are unable to use this form, or if you do not wish to submit your copyright infringement claim via this form, you may post or email your claim to the Deakin University designated representative for take-down notices, the Director of Information Technology Services Division.
+
+Director, Information Technology Services Division   
+copyright-takedown@deakin.edu.au
+
+**Postal address:**  
+Geelong Waterfront Campus  
+1 Gheringap Street,  
+Geelong, Victoria  
+Australia 3217
+
+Staff within the University who have received a complaint about the use of copyright material on the Deakin University IT network must promptly forward the details of the complaint to the above designated representative for further action. 
+
+[Copyright Infringement Take-down Notice form](https://web.archive.org/web/20100315071101id_/http%3A//deakin.edu.au/disclaimer/takedown/index.php)
 
 ## Privacy statement
 
-### Privacy of visitors to Deakin University website
+Deakin University respects the privacy of users of its website and complies with the _Information Privacy Act 2000_ (Vic). 
 
-Deakin University respects the privacy of users of the Deakin University Website. The University complies with all legislation applicable to websites, including the Information Privacy Act 2000 (VIC). The Information Privacy Act requires public sector agencies to inform individuals when their personal information is being collected, and to identify how the agency will use that information. 
+### Collecting information about users of the website
 
-### What is personal information
+The University web server, and cookies installed by the server on users' computers' hard drives, record the following non-identifying information in relation to all users: 
 
-Personal information means information or opinions about a person which would reveal the identity of that person. It extends to information recorded in any format, including digital or electronic formats derived from computer access to the Deakin University Website. 
-
-### How does Deakin University obtain personal information about visitors to the Deakin University website
-
-When a user enters the Deakin University web site, the University server makes a record of their visit and records the following information: 
-
-  * the web browser being used to access the site
+  * the user's computer address and an anonymous user-id (identifier)
+  * the web browser and browser version being used to access the site (for example, Firefox version 3.5)
   * the operating system on the user's computer
-  * referrer page (the web page the computer was accessing immediately prior to the Deakin web site)
-  * pages/files viewed and the size of those files
-  * types of files accessed/downloaded
-  * date/time of visit
-  * username and password entered if accessing restricted areas of the site
+  * the web page the user was accessing immediately prior to accessing a Deakin web page
+  * the pages and files viewed and files downloaded on the Deakin domain 
+  * the date, time and duration of the user's visit
+  * successful authentications to restricted areas on the site. 
 
 
 
-Deakin University uses this information for on-going administration and development of its web site. 
+A cookie is a small text file which has a limited lifetime. Information supplied by cookies helps us learn about how you use our site, analyse our visitors and provide you with a better user experience. A cookie allows a web server to "remember" the visitor on subsequent visits without having to prompt the visitor for information previously supplied. A cookie may also be used to personalise your web experience. An example of this would be a cookie remembering courses you previously viewed.
 
-Deakin University also obtain personal information in the following ways:
+The installation of cookies may be blocked via the user's web browser if the user does not wish to accept cookies, but this may mean that the user will not be able to access some parts of the University's website without re-authenticating on each visit. A web browser will contain a function enabling deletion by the user of all cookies on their computer's hard drive. 
 
-### Cookies
+### User-supplied information
 
-A cookie is a small, text file that is stored by a browser on a computer's hard drive. It has a limited lifetime – usually until the browser is shut down. This allows web servers to remember the user on subsequent visits without having to prompt them for the same information. This function may be disabled in the web browser if the user does not wish to accept cookies, but this may effect their access to all parts of the Deakin University website. 
+Some areas of Deakin’s web environment may offer users the opportunity to supply personal information to enable the University to provide specific services to a user, such as:
 
-Cookies are used to store both personal and non-personal information. Examples of personal information are encrypted username and encrypted password that are used by Deakin University Portal and Deakin University Webmail. Examples of non-personal information include the Deakin web server that the user has authenticated into, the top level domain name of the user’s Internet Service Provider, the date and the time of a visit to the site, the pages accessed and downloaded, the address of the last site visited, and the type of browser being used. 
+  * providing access to restricted areas of the website 
+  * enabling web-based knowledge sharing with Deakin staff or students (e.g., providing web spaces in which groups of individuals interact to pursue mutual goals , for example to achieve a shared, collaboratively developed understanding of a new or complex concept)
+  * enabling delivery of responses to users' enquiries via email or
+  * providing specific requested information to users via email. 
 
-Cookies make it possible to identify registered users without needing to ask for registration details every time the user accesses a site. Using cookies makes accessing sites more convenient to the user as they don't need to remember their username and password each time they enter the site. 
-
-Deakin University may also use cookies to track users as they travel through the site - for instance, it might use cookies to count the total number of unique users who are accessing the site over a particular period of time, or to ensure that users don't see a particular advert more than once. This information is purely used for our internal purposes. The use of cookies in this way helps to make systems more efficient. Deakin University also uses this information for monitoring its web site use, and to facilitate web site management, development and planning.  
 
 
-### On-Line Forms
+A user may also choose to provide personal information during the completion of online surveys or forms or in offering feedback about the website. 
 
-The University web site may offer users the opportunity to supply personal information to enable it to provide you with further services, including allowing users to access restricted areas of the website, responding to users’ questions by e-mail or the provision of information to users via email. You may also choose to complete on-line surveys or offer feedback to the persons responsible for maintaining the website. Users may in the future be able to complete enrolment and registration forms or access grades on-line. 
+Personal information will be managed by Deakin University in accordance with the _Information Privacy Act 2000_. 
 
-### How does Deakin University use personal information about visitors to its website?
+### Internet use risks
 
-In addition to using personal information to provide services that have been specifically requested, Deakin University uses personal information about users to the website to carry on the business of the University. This includes the following: 
+The University has security measures in place to guard against the loss or corruption of information gathered through its website, including regular data back-ups, firewalls, data encryption and access-controlled areas. However, there are inherent risks in transmitting information across the internet as intrusion by unauthorised third parties is technically possible. If you are concerned about conveying sensitive material over the Internet, you might prefer to contact the University in person, by telephone or mail. [Deakin University's contact details](http://www.deakin.edu.au/contact/) are available online.
 
-### Analysis of Usage
+### Links to external websites
 
-The University periodically analyses personal information provided by visitors to our website. This analysis allows the University to identify the needs of users, the effectiveness of its website in meeting those needs, and the types of improvements needed to make the website more effective. 
+As a convenience to users of the website some links to external websites are provided on Deakin web pages. If a link to an external website is pursued, its privacy statement or other relevant information provided on that site should be consulted as the University is not responsible for collection and handling of your personal information on an external website. 
 
-### Monitoring Computer Usage
+### Access to and correction of personal information held by the University
 
-The University uses personal information to ensure that visitors to the Deakin University web site use the web site in compliance with Commonwealth and State laws, and the policies and procedures for Internet usage established by the University. This includes maintaining records to enable recovery of any costs incurred by the University in connection with a visitor’s usage of the Internet through the Deakin University server. Details are available through the Deakin University Information Technology Services Division homepage. 
+Access to and correction of personal information held by the University is managed in accordance with the _Freedom of Information Act 1982_ (Vic). [Further information about freedom of information requests](http://www.deakin.edu.au/executive/vpa/solicitorsoffice/legal-services/foi.php) is available online.
 
-### Security
+### Enquiries or complaints about the management of personal information
 
-Deakin University takes all reasonable precautions to guard against unauthorized access to, and loss, misuse or alteration of your personal information. For this reason, users may be asked to provide their user name and password which will be used to grant access to areas of the Deakin University Website not available to the general public. It is important that users keep their password secure and do not disclose it to anyone else. 
+Enquiries or complaints about the management of your personal information at the University may be directed to the University's Privacy Officer as follows:
 
-### Disclosure of personal information to parties outside Deakin University
+**Email:** privacy@deakin.edu.au
 
-The Information Privacy Act 2000 (VIC) allows the University to disclose Personal Information it collects under specific circumstances. In other circumstances not covered by the Information Privacy Act 2000, the University may disclose your personal information to third parties only if it has first received your consent to the disclosure. 
-
-### What can I do if I have an inquiry or a complaint about the management of, or wish to access, my personal information? 
-
-Inquiries about the management of, or access to, your personal information at Deakin University should be directed to the University's Privacy Officer.
-
-If you believe the University has breached your right to privacy, you may make a written complaint providing full details, also to the University's Privacy Officer.
-
-#### Contact details for the Privacy Officer are:
-
-Email: [privacy@deakin.edu.au](mailto:privacy@deakin.edu.au)
-
-Telephone: (03) 9246 8114
-
-Address: 
-
-**Privacy Officer**  
+**Address:**  
+Privacy Officer  
 University Governance Unit  
 Deakin University  
 221 Burwood Highway  
 Burwood, Victoria, 3125 
 
-### WARNING:
+### Links:
 
-As a convenience to users of the Deakin University Website, the University provides links to sites which are not controlled or maintained by Deakin University. Each site has its own privacy policies, and Deakin University assumes no responsibility for the content or the privacy policies of external websites nor for the use external websites may make of your personal information. If you pursue a link to an external web site, you should consult its privacy statements. 
+  * [Deakin University Information Privacy Policy](http://theguide.deakin.edu.au/TheDeakinGuide.nsf/7264c32fe71924374a2566f3000a65de/cce38c85b6aadc45ca2574b300050ef2?OpenDocument)
 
-### LINKS:
+  * [_Information Privacy Act 2000_ (Vic) ](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/a12f6f60fbd56800ca256de500201e54/cd652e34a04da6c2ca257505007ce686!OpenDocument "External website")
 
-[Deakin University Information Privacy Policy](http://theguide.deakin.edu.au/TheDeakinGuide.nsf/7264c32fe71924374a2566f3000a65de/2066bcd1f5da25bdca256e63003132e9?OpenDocument)
+  * [Privacy Victoria ](http://www.privacy.vic.gov.au/dir100/priweb.nsf "External website")
 
-[Deakin University Information Privacy Procedure](http://theguide.deakin.edu.au/TheDeakinGuide.nsf/7264c32fe71924374a2566f3000a65de/ed5798079db41f39ca256e630031621b?OpenDocument)
 
-[Information Privacy Act 2000 (VIC)](http://www.dms.dpc.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/2184e627479f8392ca256da50082bf3e/3b9de74d4c0869baca256e8400223467/$FILE/00-98a010.pdf)
 
-[Privacy Victoria](http://www.privacy.vic.gov.au/)
