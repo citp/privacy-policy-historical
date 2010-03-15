@@ -1,40 +1,55 @@
-<!--The following is the downloaded HTML source of the netlawman.co.uk privacy policy that was archived on 2009-02-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090213112005id_/http%3A//www.netlawman.co.uk/nlm/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the netlawman.co.uk privacy policy that was archived on 2010-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100315134722id_/http%3A//www.netlawman.co.uk/nlm/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="robots" content="index,follow">
-<meta name="description" content="">
-<meta name="keywords" content="">
-<title></title>
-<link href="http://netlawman.co.uk/css/styles.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="http://netlawman.co.uk/admin/css/interface.css" type="text/css">
+<meta name="description" content="Netlawman provides best collection of UK legal documents, legal forms, legal agreements, legal contracts in plain english on the Internet">
+<meta name="keywords" content="legal document, uk legal documents, legal agreements, legal agreement, legal advice, free legal information, legal forms, legal documents, document drafting service, free legal advice, sample legal documents, sample legal agreements, netlawman">
+<title>Net Lawman</title>
+<style>
+	body{margin-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; padding:0% 0% 0% 0%; background-color:#f9fff5}
+</style>
 
-<script src="http://netlawman.co.uk/scripts/SpryAssets/SpryValidationTextField.js" type="text/javascript"></script>
-<script src="http://netlawman.co.uk/scripts/SpryAssets/SpryValidationTextarea.js" type="text/javascript"></script>
-<script src="http://netlawman.co.uk/scripts/SpryAssets/SpryValidationSelect.js" type="text/javascript"></script>
-<script src="http://netlawman.co.uk/scripts/SpryAssets/SpryAccordion.js" type="text/javascript"></script>
-<script src="http://netlawman.co.uk/scripts/SpryAssets/SpryData.js" type="text/javascript"></script>
-<script src="http://netlawman.co.uk/scripts/SpryAssets/SpryValidationCheckbox.js" type="text/javascript"></script>
+<link href="http://www.netlawman.co.uk/css/nl_css.php" rel="stylesheet" type="text/css">
 
-<script src="http://netlawman.co.uk/scripts/SpryAssets/SpryValidationRadio.js" type="text/javascript"></script>
 
-<script src="http://netlawman.co.uk/scripts/SpryAssets/SpryCollapsiblePanel.js" type="text/javascript"></script>
-<link href="http://netlawman.co.uk/scripts/SpryAssets/SpryCollapsiblePanel.css" rel="stylesheet" type="text/css">
 
-<link href="http://netlawman.co.uk/scripts/SpryAssets/SpryValidationRadio.css" rel="stylesheet" type="text/css">
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+		<script type="text/javascript" src="http://www.netlawman.co.uk/jqry/css/jquery.colorbox.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(){
+				//Examples of how to assign the ColorBox event to elements
+				$("a[rel='example1']").colorbox();
+				$("a[rel='example2']").colorbox({transition:"fade"});
+				$("a[rel='example3']").colorbox({transition:"none", width:"75%", height:"75%"});
+				$("a[rel='example4']").colorbox({slideshow:true});
+				$(".example5").colorbox();
+				$(".example6").colorbox({iframe:true, innerWidth:425, innerHeight:344});
+				$(".example7").colorbox({width:"80%", height:"80%", iframe:true});
+				//$(".example8").colorbox({width:"50%", inline:true, href:"#inline_example1"});
+				$("a[rel='example8']").colorbox({ width:780, height:370,inline:true, href:"#inline_example1"});
+				$(".example9").colorbox({
+					onOpen:function(){ alert('onOpen: colorbox is about to open'); },
+					onLoad:function(){ alert('onLoad: colorbox has started to load the targeted content'); },
+					onComplete:function(){ alert('onComplete: colorbox has displayed the loaded content'); },
+					onCleanup:function(){ alert('onCleanup: colorbox has begun the close process'); },
+					onClosed:function(){ alert('onClosed: colorbox has completely closed'); }
+				});
+				
+				//Example of preserving a JavaScript event for inline calls.
+				$("#click").click(function(){ 
+					$('#click').css({"background-color":"#f00", "color":"#fff", "cursor":"inherit"}).text("Open this window again and this message will still be here.");
+					return false;
+				});
+			});
+		</script>
 
-<link href="http://netlawman.co.uk/scripts/SpryAssets/SpryAccordion.css" rel="stylesheet" type="text/css">
-<link href="http://netlawman.co.uk/scripts/SpryAssets/SpryValidationTextField.css" rel="stylesheet" type="text/css">
-<link href="http://netlawman.co.uk/scripts/SpryAssets/SpryValidationTextarea.css" rel="stylesheet" type="text/css">
-<link href="http://netlawman.co.uk/scripts/SpryAssets/SpryValidationSelect.css" rel="stylesheet" type="text/css">
-<link href="http://netlawman.co.uk/scripts/SpryAssets/SpryValidationCheckbox.css" rel="stylesheet" type="text/css">
 
-<link href="http://netlawman.co.uk/css/mycss.css" rel="stylesheet" type="text/css">
-<link href="http://netlawman.co.uk/css/mycss1.css" rel="stylesheet" type="text/css">
+
 </head>
 
-<body>
+<body style="size:landscape;">
 <script language="JavaScript" type="text/javascript">
 
 	function home(host){		
@@ -58,26 +73,55 @@
 		document.frmSearch.dcmt.checked = true;
 	}
 	
-	function JurySubmit(){
-		document.getElementById('juryform').submit();
-	}
+		function JurySubmit(){
+			var jury_id;
+			jury_id = document.getElementById('jury_id_id').value;
+			//alert(jury_id);
+			//return;
+			if (jury_id == 'bbae00170c'){	//Ireland
+				window.location.href ='http://www.netlawman.ie';	
+				return;
+			}else if(jury_id == '099e9b3449'){ //Scotland
+				window.location.href ='http://www.scotlawman.co.uk';	
+				return;
+			}//else if(jury_id == '774ea9ae82'){	//South Africa *
+				//window.location.href ='www.netlawman.co.za';	
+				//return;
+			//}
+			else if(jury_id == 'd1b30f936a'){	//India
+				window.location.href ='http://www.netlawman.co.in';	
+				return;
+			}else if(jury_id == '59ff32b9ad'){	//New Zealand
+				window.location.href ='http://www.netlawman.co.nz';	
+				return;
+			}else if(jury_id == '3072bd2fbf'){	//UK
+				window.location.href ='http://www.netlawman.co.uk';	
+				return;
+			}else if(jury_id == 'a9022a7f1d'){	//AUSTRALIA
+				window.location.href ='http://www.netlawman.com.au';	
+				return;
+			}		
+			else {//hard coded by naveed qadri *
+			window.location.href ='http://www.netlawman.co.za';	
+			return;
+			}
+			
+		}
 </script>
 <div id="main">
 <div id="header_new_change">
 
-	<div align="left" style="position:absolute; height:100px; width:250px; cursor:pointer" title="legal document, legal agreements, legal agreement, legal advice, legal forms, document drafting service, personal drafting service, draft a new document, divorce law service, family law service, sell own template documents, sell lawyer document template, sell lawyer documents" onclick="home('http://netlawman.co.uk');"></div>
+	<div align="left" style="position:absolute; height:100px; width:250px; cursor:pointer" title="Online legal documents, bespoke legal drafting and cost-efficient legal advice" onclick="home('http://www.netlawman.co.uk');"><img src="http://www.netlawman.co.uk/images/spacer.gif" border="0" width="0px" height="0px" alt="Legal Documents and Forms" title="netlawman"></div>
     <div style="float:right; width:500px; height:50px; margin-right:20px;">
       <div align="right" id="login_penal">	  	
        <form name="juryform" id="juryform" action="/nlm/privacy_policy.php" method="post">
 	    <div style="width:125px; float:right; margin-left:5px;">
 		  	
-          <select name="jury_id" class="blacktxt_11" onchange="JurySubmit();">
+          <select name="jury_id" class="blacktxt_11" id="jury_id_id" onchange="JurySubmit();">
             <option value="other_jurisdictions" selected="">Other jurisdictions</option>
 			
 			 
 			<option value="a9022a7f1d">Australia </option>
-			 
-			<option value="3072bd2fbf">England &amp; Wales </option>
 			 
 			<option value="d1b30f936a">India </option>
 			 
@@ -108,9 +152,10 @@
 	<div style="width:130px; float:right; margin-top:28px;">
    		<div id="sCart" style="display:none;">
 		<div style="width:auto; float:right; padding-right:2px; padding-top:0px;">	
- 		<a href="http://netlawman.co.uk/Member/product-basket.php?jury_id=">
+ 		
+        <a href="http://www.netlawman.co.uk/Member/product-basket.php?jury_id=3072bd2fbf" id="sCartURL">
 		<!--<img src="/images/basket.jpg" width="46" height="28" align="absmiddle" border="0" />-->
-		<img src="http://netlawman.co.uk/images/basket.jpg" width="46" height="28" align="middle" border="0" alt="shopping cart" title="shopping cart">
+		<img src="http://www.netlawman.co.uk/images/basket.jpg" width="46" height="28" align="middle" border="0" alt="shopping cart" title="shopping cart">
 		</a>&nbsp;&nbsp;
             </div>
                 
@@ -125,37 +170,48 @@
 <div style="clear:both; padding-top:3px;">
       
   <div style=" margin-left:10px; width:925px; margin-top:5px; height:30px;"> 
-    &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://netlawman.co.uk/index.php" class="arial_12white_link" style="margin-left:0px;">Home</a>	
-    &nbsp;&nbsp;&nbsp;&nbsp;<span class="whitetxt_12">|</span> 
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://netlawman.co.uk/legal-documents.php" class="arial_12white_link" style="margin-left:0px;">Legal 
-    Document Centre</a> &nbsp;&nbsp;&nbsp;&nbsp;<span class="whitetxt_12"> | </span> 
+    &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.netlawman.co.uk/index.php" class="arial_12white_link" style="margin-left:0px;">Home</a>	
+    &nbsp;&nbsp;&nbsp;<span class="whitetxt_12">|</span> 
+            &nbsp;&nbsp;&nbsp;<a href="http://www.netlawman.co.uk/legal-documents.php" class="arial_12white_link" style="margin-left:0px;">Legal 
+    Document Centre</a> &nbsp;&nbsp;&nbsp;<span class="whitetxt_12"> | </span> 
             
-	        
+	        &nbsp;&nbsp;&nbsp;<a href="http://www.netlawman.co.uk/document-drafting.php" class="arial_12white_link">Personal 
+    Drafting Service</a> &nbsp;&nbsp;&nbsp;<span class="whitetxt_12">|</span> 
+    	    
 
-        &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://netlawman.co.uk/family-law-service.php" class="arial_12white_link">Divorce 
-    and Family Law</a> &nbsp;&nbsp;&nbsp;&nbsp; <span class="whitetxt_12">| </span> 
+        &nbsp;&nbsp;&nbsp;<a href="http://www.netlawman.co.uk/nlm/family_law_service.php" class="arial_12white_link">Divorce 
+    and Family Law</a> &nbsp;&nbsp;&nbsp;<span class="whitetxt_12">| </span> 
     
 
-        &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://netlawman.co.uk/nlm/law_professional.php?service_id=22f7ed8c67" class="arial_12white_link" style="margin-left:0px;">Law 
-    Professionals</a>&nbsp;&nbsp;&nbsp;&nbsp; <span class="whitetxt_12">|</span> 
-        &nbsp;&nbsp; <a href="http://netlawman.co.uk/nlm/faqs_nlm.php" class="arial_12white_link">FAQs</a> 
+        &nbsp;&nbsp;&nbsp;<a href="http://www.netlawman.co.uk/nlm/law_professional.php" class="arial_12white_link" style="margin-left:0px;">Law 
+    Professionals</a>&nbsp;&nbsp;&nbsp;<span class="whitetxt_12">|</span> 
+    	    &nbsp;&nbsp; <a href="http://www.netlawman.co.uk/blog" class="arial_12white_link">Blog</a> 
+    &nbsp;&nbsp; <span class="whitetxt_12">|</span>
+	    &nbsp;&nbsp; <a href="http://www.netlawman.co.uk/nlm/faqs_nlm.php" class="arial_12white_link">FAQs</a> 
     &nbsp;&nbsp; 
-    				<span class="whitetxt_12">|</span> &nbsp;&nbsp;&nbsp;<span id="log_in"> <a href="http://netlawman.co.uk/users/login.php" class="arial_12white_link">Log 
-			in</a> </span> 
-				  </div>
+
+    
+	
+
+
+
+				<span class="whitetxt_12">|</span> &nbsp;&nbsp;<span id="log_in"> <a href="http://www.netlawman.co.uk/users/login.php" class="arial_12white_link">My Net Lawman</a> </span> 
+				
+
+  </div>
  </div>
 <!--added code VAT-->
 <!--
 <div style="height:3px"></div>
    <div id="offer" style="display:block">
-   <img src="http://netlawman.co.uk/images/saving_banner.jpg" width="950" height="30" border="0" usemap="#Map" alt="netlawman" title="netlawman" />
+   <img src="http://www.netlawman.co.uk/images/saving_banner.jpg" width="950" height="30" border="0" usemap="#Map" alt="netlawman" title="netlawman" />
 <map name="Map" id="Map">
   <area shape="rect" coords="922,7,942,24" href="#" onclick="javascript:document.getElementById('offer').style.display='none'" />
 </map>
 </div>
 -->
 <!--END added code VAT-->
- <div style="height:10px; width:"><img src="http://netlawman.co.uk/images/spacer.gif" width="10px" height="10px" alt="netlawman" title="netlawman"></div>
+ <div style="height:10px; width:"><img src="http://www.netlawman.co.uk/images/spacer.gif" width="10px" height="10px" alt="netlawman" title="netlawman"></div>
 
 <div style="clear:both; margin-left:14px; margin-right:15px; padding-top:2px;">
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -446,7 +502,7 @@
                     steps to verify your identity before granting access or making 
                     corrections to your
                     information. If you have any question regarding the confidentiality 
-                    policy, please <a href="http://netlawman.co.uk/others/contact_us.php?jury_id=&amp;service_id=" class="arial_12blue_link">contact 
+                    policy, please <a href="http://www.netlawman.co.uk/others/contact_us.php?jury_id=3072bd2fbf&amp;service_id=971f449ae2" class="arial_12blue_link">contact 
                     us</a>.</td>
                 </tr>
               </tbody></table></td>
@@ -474,25 +530,35 @@
   </tbody></table>
 </div>
 
-<div style="clear:both"><img src="http://netlawman.co.uk/images/spacer.gif" width="10" height="10" alt="netlawman" title="netlawman"></div>
+<div style="clear:both"><img src="http://www.netlawman.co.uk/images/spacer.gif" width="10" height="10" alt="netlawman" title="netlawman"></div>
+
+						<style>
+						#footer_links{background-image:url(../images/green_footer.jpg); height:31px; text-align:center; padding-top:10px}
+				</style>
 
 <div id="footer_links">
-	<div style="display:inline; visibility:visible;line-height:20px;  ">
-		 <a href="http://netlawman.co.uk/netlawman-contact.php" class="whitetxt_11_link">Contact us </a> &nbsp;&nbsp; 
-		<span class="whitetxt_12">|</span>&nbsp;&nbsp; 
-		<a href="http://netlawman.co.uk/nlm/who_we_are.php" class="whitetxt_11_link">Who we are</a> 
-		&nbsp;&nbsp; <span class="whitetxt_12">| </span>&nbsp;&nbsp; 
-        
-        
-		<a href="http://netlawman.co.uk/affiliates/affiliate-information.php" class="whitetxt_11_link">Partners &amp; Affiliates</a> 
-		&nbsp;&nbsp; <span class="whitetxt_12">| </span>&nbsp;&nbsp; 
-		<a href="http://netlawman.co.uk/nlm/privacy_policy.php" class="whitetxt_11_link">Privacy policy</a> 
-		&nbsp;&nbsp; <span class="whitetxt_12">| </span>&nbsp;&nbsp;
-		<a href="http://netlawman.co.uk/nlm/sitemap.php" class="whitetxt_11_link">Site map</a> 
-	</div>
+
+		<div footer_links="display:inline; visibility:visible;line-height:20px;" style="margin-top:4px">
+			 <a href="http://www.netlawman.co.uk/others/contact_us.php" class="whitetxt_11_link">Contact us </a> &nbsp;&nbsp; 
+			<span class="whitetxt_12">|</span>&nbsp;&nbsp; 
+			<a href="http://www.netlawman.co.uk/nlm/who_we_are.php" class="whitetxt_11_link">Who we are</a> 
+			&nbsp;&nbsp; <span class="whitetxt_12">| </span>&nbsp;&nbsp; 
+							
+			<a href="http://www.netlawman.co.uk/affiliates/affiliate-information.php" class="whitetxt_11_link">Partners &amp; Affiliates</a> 
+			&nbsp;&nbsp; <span class="whitetxt_12">| </span>&nbsp;&nbsp; 
+			<a href="http://www.netlawman.co.uk/nlm/privacy_policy.php" class="whitetxt_11_link">Privacy policy</a> 
+			&nbsp;&nbsp; <span class="whitetxt_12">| </span>&nbsp;&nbsp;
+			<a href="http://www.netlawman.co.uk/adv/advertise-with-us.php" class="whitetxt_11_link">Advertise with us</a> 
+			&nbsp;&nbsp; <span class="whitetxt_12">| </span>&nbsp;&nbsp;
+			<a href="http://www.netlawman.co.uk/nlm/sitemap.php" class="whitetxt_11_link">Site map</a> 
+		</div>
+	
+		
+
 </div>
-<div id="lower_footer_others" style="padding-top:5px;"> <span class="blacktxt_11">© 2000 - 2009 Net Lawman Ltd. All rights reserved. </span><br>
-  <span class="blacktxt_11">This website was designed and developed by <a href="http://website-developer-service.com/" target="_blank" class="arial_12green_link" style="font-size:10px; font-family:tahoma;font-size:11px;text-decoration:none">Website-Developer-Service</a></span> 
+
+
+<div id="lower_footer_others" style="padding-top:5px; height:20px;"> <span class="blacktxt_11">© 2000 - 2010 Net Lawman Ltd. All rights reserved. </span> 
 </div>
 <script language="JavaScript" type="text/javascript">
 	var isCart = '0';
@@ -533,12 +599,79 @@ pageTracker._trackPageview();
 } catch(err) {}</script>
 
 
+<!--ONESTAT SCRIPTCODE START-->
+<script type="text/javascript">
+<!--
+// Account ID : 543691
+// Website URL: http://www.netlawman.co.uk
+// Copyright (C) 2002-2007 OneStat.com All Rights Reserved
+function OneStat_Pageview()
+{
+    var d=document;
+    var sid="543691";
+    var CONTENTSECTION="";
+    var osp_ACTION="";
+    var osp_TRANSACTION="";
+    var osp_AMOUNT="";
+    var osp_PRODUCTCODE="";
+    var osp_PRODUCTGROUP="";
+    var osp_ADCAMPAIGN="";
+    var osp_CUSTOMER="";
+    var osp_CUST0 = "";
+    var osp_CUST1 = "";
+    var osp_CUST2 = "";
+    var osp_CUST3 = "";
+    var osp_CUST10 = "";
+    var osp_CUST11 = "";
+    var osp_URL=d.URL;
+    var osp_Title=d.title;
+    var t=new Date();
+    var p="http"+(d.URL.indexOf('https:')==0?'s':'')+"://stat.onestat.com/stat.aspx?tagver=2&sid="+sid;
+    p+="&url="+escape(osp_URL);
+    p+="&ti="+escape(osp_Title);
+    p+="&section="+escape(CONTENTSECTION);
+    p+="&cma="+escape(osp_ACTION);
+    p+="&cmt="+escape(osp_TRANSACTION);
+    p+="&cmm="+escape(osp_AMOUNT);
+    p+="&cmp="+escape(osp_PRODUCTCODE);
+    p+="&cmg="+escape(osp_PRODUCTGROUP);
+    p+="&cmad="+escape(osp_ADCAMPAIGN);
+    p+="&cmc="+escape(osp_CUSTOMER);
+    p+="&cu0="+escape(osp_CUST0);
+    p+="&cu1="+escape(osp_CUST1);
+    p+="&cu2="+escape(osp_CUST2);
+    p+="&cu3="+escape(osp_CUST3);
+    p+="&cu10="+escape(osp_CUST10);
+    p+="&cu11="+escape(osp_CUST11);
+    p+="&rf="+escape(parent==self?document.referrer:top.document.referrer);
+    p+="&tz="+escape(t.getTimezoneOffset());
+    p+="&ch="+escape(t.getHours());
+    p+="&js=1";
+    p+="&ul="+escape(navigator.appName=="Netscape"?navigator.language:navigator.userLanguage);
+    if(osp_URL!=d.URL) p+="&ol="+escape(d.URL);
+    if(typeof(screen)=="object"){
+       p+="&sr="+screen.width+"x"+screen.height;p+="&cd="+screen.colorDepth;
+       p+="&jo="+(navigator.javaEnabled()?"Yes":"No");
+    }
+    d.write('<img id="ONESTAT_TAG" border="0" width="1" height="1" src="'+p+'" >');
+}
+
+OneStat_Pageview();
+//-->
+</script><img id="ONESTAT_TAG" border="0" width="1" height="1" src="https://stat.onestat.com/stat.aspx?tagver=2&amp;sid=543691&amp;url=https%3A//web.archive.org/web/20100315134722id_/http%253A//www.netlawman.co.uk/nlm/privacy_policy.php&amp;ti=Net%20Lawman&amp;section=&amp;cma=&amp;cmt=&amp;cmm=&amp;cmp=&amp;cmg=&amp;cmad=&amp;cmc=&amp;cu0=&amp;cu1=&amp;cu2=&amp;cu3=&amp;cu10=&amp;cu11=&amp;rf=&amp;tz=0&amp;ch=22&amp;js=1&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
+<noscript>
+<a href="http://www.onestat.com"><img border="0" width="1" height="1" src="http://stat.onestat.com/stat.aspx?tagver=2&amp;sid=543691&amp;js=No&amp;" ALT="OneStat.com Web Analytics"></a>
+</noscript>
+<!--ONESTAT SCRIPTCODE END-->
 
 
 
 
 
-<!--<div style="margin-left:14px; margin-top:8px;"><a href="http://netlawman.co.uk/index.php" class="brdgrmb"><strong>Home</strong></a> <span class="brdgrmb_simple_non_link"><strong>&gt;&gt;</strong></span><strong> </strong><span class="brdgrmb_simple_non_link"><strong>Privacy Policy</strong></span></div>-->
+
+
+
+<!--<div style="margin-left:14px; margin-top:8px;"><a href="http://www.netlawman.co.uk/index.php" class="brdgrmb"><strong>Home</strong></a> <span class="brdgrmb_simple_non_link"><strong>&gt;&gt;</strong></span><strong> </strong><span class="brdgrmb_simple_non_link"><strong>Privacy Policy</strong></span></div>-->
 <!--
 <div style="clear:both; margin-left:14px; margin-right:15px; padding-top:2px;">
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
