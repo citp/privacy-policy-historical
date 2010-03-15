@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangladeshnewspaper4u.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213222110id_/http%3A//www.bangladeshnewspaper4u.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangladeshnewspaper4u.com privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315144336id_/http%3A//www.bangladeshnewspaper4u.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
