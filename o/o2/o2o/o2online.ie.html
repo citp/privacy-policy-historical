@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the o2online.ie privacy policy that was archived on 2009-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091203072221id_/http%3A//www.o2online.ie/wps/wcm/connect/O2/About%2BO2/Terms%2Band%2BConditions/Privacy%2Bpolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the o2online.ie privacy policy that was archived on 2010-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100315065215id_/http%3A//www.o2online.ie/wps/wcm/connect/O2/About%2BO2/Terms%2Band%2BConditions/Privacy%2Bpolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en"><!-- O2_PRES_SiteGeneral --><head>
 <!-- Start O2_HTML_HEAD_Personal -->
@@ -31,7 +31,7 @@
 <meta name="DC.Coverage" content="Ireland">
 <meta name="DC.Source" content="Telefonica O2 Ireland">
 <meta name="DC.Language" content="en">
-
+<meta name="google-site-verification" content="tI-LHC0LSlCR1MbiwLE2rq8XC-vqqcg2b3T935TeJF8">
 <!-- Hc_SiteWide_MetaData :: END//-->
 
 
@@ -45,7 +45,7 @@
 
 <link rel="stylesheet" type="text/css" media="screen" href="http://www.o2online.ie/wps/wcm/resources/file/ebc25c4dca94210/WCMbasic.css">
 <link rel="stylesheet" type="text/css" media="screen" href="http://www.o2online.ie/wps/wcm/resources/file/eb804005336f028/WCMtemplate.css">
-<link rel="stylesheet" type="text/css" media="screen" href="http://www.o2online.ie/wps/wcm/resources/file/ebb53140c40e4c1/o2-styles-screen_WCM_v11a.min.css">
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.o2online.ie/wps/wcm/resources/file/ebf2ae447b69a7d/o2-styles-screen_WCM_v11b.min.css">
 <link rel="stylesheet" type="text/css" media="print" href="http://www.o2online.ie/wps/wcm/resources/file/eb658f0f2cd8f5b/o2-styles-print_WCM.css">
 <link rel="stylesheet" type="text/css" media="screen" href="http://www.o2online.ie/wps/wcm/resources/file/eb62f20f2b85142/Fc_STATIC_Generic_Content_v2-min.css">
 <link rel="stylesheet" type="text/css" media="screen" href="http://www.o2online.ie/wps/wcm/resources/file/eb35080a2990a5c/Fc_Static_Generic_global.css">
@@ -72,7 +72,7 @@ display:inline;
 
 <script type="text/javascript" src="http://www.o2online.ie/wps/wcm/resources/file/eb52fe070e079ae/Fc_SiteWide_jcarousel.js">
 </script>
-<script type="text/javascript" src="http://www.o2online.ie/wps/wcm/resources/file/eb64ac00de56fae/o2-init_v8-min.js"></script>
+<script type="text/javascript" src="http://www.o2online.ie/wps/wcm/resources/file/eb5fdd4599f4a5f/o2-init_v9-min.js"></script>
 
 <!-- Hc_SiteWide_JavaScriptLibs_H12009 :: END//-->
 <script type="text/javascript">
@@ -323,6 +323,11 @@ a.relInfo_priceplan {
 					<input type="hidden" class="service-action" value="http://www.o2online.ie/wps/wcm/connect/O2/Treats">
 					<input type="hidden" class="loggedin-action" value="http://www.o2online.ie/wps/wcm/connect/O2/Treats">
 				</li>
+					<li id="widgets">
+					<input type="image" tabindex="4800" name="search" title="My Widgets" alt="My Widgets" src="http://www.o2online.ie/wps/wcm/resources/file/ebfb2b0cb727e01/Fc_O2_shim.gif" class="serviceButton">
+	                                <input type="hidden" class="service-action" value="http://www.o2online.ie/SSOValidator/web%3fpartner_id%3d2001%26action_type%3dACCESS">
+					<input type="hidden" class="loggedin-action" value="http://www.o2online.ie/SSOValidator/web?partner_id=2001&amp;action_type=ACCESS">
+				</li>
 			</ul>
 		</div>
 
@@ -446,7 +451,7 @@ Business
 
 
 <li id="help-and-support" style="">
-<a href="http://www.o2online.ie/wps/wcm/connect/O2/Home/Help+and+Support/"> 
+<a href="http://www.o2online.ie/help"> 
 Help
 
 </a>
@@ -468,6 +473,65 @@ doBodyTopInit();
 <!-- O2_HTML_BODY_Top (H12009)  :: End -->
 
 
+<!--Start Import Coremetrics Javascript -->
+<script language="javascript1.2" src="http://www.o2online.ie/wps/wcm/resources/file/ebb61343d806fb3/cmdatatagutils.js" type="text/javascript"></script>
+<script language="javascript1.2" src="http://www.o2online.ie/wps/wcm/resources/file/ebb5c543d7f6128/eluminate.js" type="text/javascript"></script>
+<script language="javascript1.2" type="text/javascript">
+$(document).ready( function ()
+{
+	var url = document.domain;
+	var domain = "";
+	var sub_domain = "";
+	if(url.indexOf("www.") >= 0)
+	{
+		domain = url.substring(4);
+	}
+	else
+	{
+		sub_domain = url.substring(0,url.indexOf("."));
+		domain = url.substring(url.indexOf(".")+1);
+	}
+	if(domain == "o2online.ie")
+	{
+		if((sub_domain != "pre" || sub_domain != "uat" || sub_domain != "int"))
+		{
+			cmSetProduction();
+		}
+	}
+
+	var url = document.location.href;
+	if(url.indexOf('?') != -1)
+	{
+		url = url.substring(0, url.indexOf('?'));
+	}
+
+	if(url == "http://www.o2online.ie/O2Search/search/search.do")
+	{
+		var search_term = "";
+		var number_results  = "";
+		$('.searchResultsTopBar').children().each(function ()
+		{	
+			var class_search = $(this).attr('class');
+			if(class_search == "floatRight standardText1R")
+			{
+				var temp = $(this).text();
+				number_results = temp.substring(temp.indexOf(':')+2);
+			}
+		});
+		if($(document).getUrlParam("query")!=null)
+		{
+			search_term = $(document).getUrlParam("query");
+		}
+		cmCreatePageviewTag("Search Successful",null,search_term,number_results);
+	}
+	else
+	{
+		cmCreatePageviewTag(url,null);
+	}
+});
+</script>
+<!-- End Import Coremetrics -->
+
 <!-- End O2_HTML_BODY_Top -->
 </div>
 <div id="middleRowContainer">
@@ -477,7 +541,7 @@ doBodyTopInit();
 <!-- // -->
 <ul>
 
-<!-- //  --><!-- //  --><!-- //  --><!-- //  --><!-- //  --><!-- //  --><!-- //  -->
+<!-- //  --><!-- //  --><!-- //  --><!-- //  --><!-- //  --><!-- //  --><!-- //  --><!-- //  -->
 
 <li><a href="/wps/wcm/connect/O2/About+O2/O2+TV+Adverts/">O2 TV Adverts</a>
 </li>
@@ -616,11 +680,11 @@ doBodyTopInit();
 <li class="l2"><a href="/wps/wcm/connect/O2/About+O2/Terms+and+Conditions/Customer+Notification/">Customer Notification</a>
 </li>
 
+<!--
 
-
-<li class="l2"><a href="/wps/wcm/connect/O2/About+O2/Terms+and+Conditions/VAT+explained/">VAT explained</a>
+<li class="l2"><a href='/wps/wcm/connect/O2/About+O2/Terms+and+Conditions/VAT+explained/'>VAT explained</a>
 </li>
-
+-->
 
 
 <li class="l2"><a href="/wps/wcm/connect/O2/About+O2/Terms+and+Conditions/Old+Pay+Monthly+terms/">Old Pay Monthly terms</a>
@@ -643,6 +707,18 @@ doBodyTopInit();
 
 
 
+<li><a href="/wps/wcm/connect/O2/About+O2/Old+Pay+monthly+price+plans/">Old Pay monthly price plans</a>
+</li>
+
+
+
+
+<li><a href="/wps/wcm/connect/O2/About+O2/Old+Prepay+price+plans/">Old Prepay price plans</a>
+</li>
+
+
+
+
 <li><a href="/wps/wcm/connect/O2/About+O2/Wholesale+interconnect">Wholesale interconnect</a>
 </li>
 
@@ -653,6 +729,12 @@ doBodyTopInit();
 </li>
 
 
+<!--
+
+<li><a href='/wps/wcm/connect/O2/About+O2/News/'>News</a>
+</li>
+
+-->
 <!-- //  --><!-- //  --><!-- //  --><!-- //  --><!-- //  --><!-- //  --><!-- //  --><!-- //  --><!-- //  --><!-- //  --><!-- //  --></ul></div>
 </div>
 <div id="middleRowRightColContainer">
@@ -768,7 +850,7 @@ doBodyTopInit();
 				<div class="quicklinks-container">
 					<p class="footer-list-title">Contact Us</p>
 					<ul>
-						<li class="first"><a href="http://www.o2online.ie/wps/wcm/connect/O2/Home/Help+and+Support/Contact+Us/">Contact Us</a></li>
+						<li class="first"><a href="http://www.o2online.ie/help/contact_us.shtml">Contact Us</a></li>
 						<li><a href="http://www.o2online.ie/wps/wcm/connect/O2/About+O2/Careers/">Careers</a></li>
 						<li class="last"><a href="http://www.hotline.ie/">Hotline.ie</a></li>
 					</ul>
@@ -786,7 +868,7 @@ doBodyTopInit();
 					<ul>
 						<li class="first"><a href="http://www.o2online.ie/wps/wcm/connect/O2/About+O2">About O2</a></li>
 						<li><a href="http://www.o2online.ie/wps/wcm/connect/O2/Home/Sitemap">Site Map</a></li>
-						<li class="last"><a href="http://forums.o2online.ie">Talk to O2</a></li>
+						<li class="last"><a href="http://forums.o2online.ie">O2 Forum</a></li>
 					</ul>
 				</div>
 				<div class="signup-container">
@@ -807,12 +889,11 @@ doBodyTopInit();
 			</div>
 	
 		<!-- Survey Start // -->
-<!--
-<script type="text/javascript" src="http://tools.o2online-media.ie/survey/?w=640&h=800&url=http%3A%2F%2Fwww.millwardbrownlansdowne.ie%2FOdinServlet%2FInterview%3FSurveyID%3D7F1A2508D4">
-</script>
--->
-<!-- Survey End // -->
 
+<script type="text/javascript" src="http://tools.o2online-media.ie/survey/?w=640&amp;h=800&amp;url=http%3A%2F%2Fwww.millwardbrownlansdowne.ie%2FOdinServlet%2FInterview%3FSurveyID%3D2A2E570388">
+</script>
+
+<!-- Survey End // -->
 		<!-- // Hc_SiteWide_Google_Analytics_Footer .... START-->
 <script type="text/javascript">
 gaCurLocation = gaCurLocation.replace(/ /g, "+");
@@ -820,7 +901,32 @@ gaCurLocation = gaCurLocation.replace(/%20/g, "+");
 
 </script>
 <script type="text/javascript">
+/**
+ *	TH20100106: - Filters for different dubdomains
+ *	
+ *	An indexOf("mywidgets.o2online.ie") > -1 match against document.location.toString() applies
+ *	an alternate google analytics account for posting the info to.
+ *	"mywidgets.o2online.ie", "UA-1807669-15" is a pair - treat any additions accordingly...
+ *	Make sure these filters are good and explicit, first match found will exclude following potential matches...
+ */
+ 
+var gaFilters = new Array(
+	"mywidgets.o2online.ie", "UA-1807669-15", 
+	"bethedifference.o2online.ie" , "UA-1807669-17",
+	"dailytreats.o2online.ie","UA-1807669-20"
+);
+
+var GAAccToUse;
 var _googleInterval;
+var dl = document.location.toString();
+var defaultGAAccount = "UA-1807669-3";
+
+for(f=0;f<gaFilters.length;f=f+2) {
+	if(typeof GAAccToUse == "undefined") GAAccToUse = (dl.indexOf(gaFilters[f])>-1) ? gaFilters[f+1] : GAAccToUse;
+}
+if (typeof GAAccToUse == "undefined") GAAccToUse = defaultGAAccount;
+if (typeof console != "undefined") console.log(GAAccToUse);
+
 function addGoogleTracking()
 {
 	var sc = document.createElement('script');
@@ -835,7 +941,7 @@ function activateGoogle()
 	if(typeof _gat != 'undefined') 
 	{
 		clearInterval(_googleInterval);
-		var pageTracker = _gat._getTracker("UA-1807669-3");
+		var pageTracker = _gat._getTracker(GAAccToUse);
 		pageTracker._initData();
 		pageTracker._trackPageview(gaCurLocation);
 	}
