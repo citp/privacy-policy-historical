@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornheed.com privacy policy that was archived on 2009-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090929035550id_/http%3A//www.pornheed.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornheed.com privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315053809id_/http%3A//www.pornheed.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Pornheed.com
 
@@ -30,7 +30,7 @@ We analyze aggregated user traffic information to help streamline our marketing 
 
 DISCLOSURE OF INFORMATION
 
-if under duty to do so PornHeed.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of PornHeed.com or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is PornHub.com's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party. Should you deliberately upload any illegal material PornHeed.com shall forward all available information to all relevant authorities and this without notice.   
+if under duty to do so PornHeed.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of PornHeed.com or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is PornHeed.com's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party. Should you deliberately upload any illegal material PornHeed.com shall forward all available information to all relevant authorities and this without notice.   
 \- We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
 
 SECURITY
@@ -41,4 +41,4 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 YOUR RIGHTS
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at contact@pornheed.com. 
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at pornheed@gmail.com. 
