@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burningangel.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209070522id_/http%3A//www.burningangel.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burningangel.com privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315060011id_/http%3A//www.burningangel.com/privacy.php) for the most accurate reproduction.*
 
 # Burning Angel:legal/2257
 
