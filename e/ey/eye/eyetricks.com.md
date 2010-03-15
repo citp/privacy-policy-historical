@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyetricks.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831121013id_/http%3A//www.eyetricks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyetricks.com privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315134050id_/http%3A//www.eyetricks.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -17,6 +17,8 @@ BWH Ventures, LLC has created this privacy statement in order to demonstrate our
 We use your IP address to help diagnose problems with our server, and to administer our Web site. 
 
 This site contains links to other sites. **eyetricks.com** is not responsible for the privacy practices or the content of such Web sites. Certain links on this website are provided by Adtegrity.com, a third party. Please follow this link <http://www.adtegrity.com/privacy.asp> to view Adtegrity.com's Privacy Statement.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
 We offer a newsletter to our visitors which is used to distribute information regarding our Web Site. We use contact data from our newsletter to send the user information about our company. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
@@ -51,7 +53,3 @@ This site gives users the following options for changing and modifying informati
 ## Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
-
-Brad
-
-BWH Ventures, LLC 
