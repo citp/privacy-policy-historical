@@ -1,23 +1,16 @@
-> *The following text is extracted and transformed from the toptenwholesale.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605022333id_/http%3A//www.toptenwholesale.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptenwholesale.com privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315145629id_/http%3A//www.toptenwholesale.com/privacy.html) for the most accurate reproduction.*
 
 # JP Communications Privacy Policy
 
-[Home](https://web.archive.org/)
-
-[About TopTen](https://web.archive.org/about.html)
-
-[Press Center](https://web.archive.org/press)
-
-[Contact Us](https://web.archive.org/contact.html)
-
-**Privacy Policy**
-
-Previous Privacy Policies:  
-• [Prior to 9/26/2005](https://web.archive.org/privacy_092506.html)
-
-[Terms Of Use](https://web.archive.org/terms_of_use.html)
-
-[Advertising Program Terms](https://web.archive.org/advertiser_terms.html)
+  * [Home](https://web.archive.org/)
+  * [About TopTen](https://web.archive.org/about.html)
+  * [Press Center](https://web.archive.org/press)
+  * [Contact Us](https://web.archive.org/contact.html)
+  * **Privacy Policy**
+  * Previous Privacy Policies:  
+[Prior to 9/26/2005](https://web.archive.org/privacy_092506.html)
+  * [Terms Of Use](https://web.archive.org/terms_of_use.html)
+  * [Advertising Program Terms](https://web.archive.org/advertiser_terms.html)
 
 | 
 
@@ -85,7 +78,7 @@ JP Communications only shares Personal Information with other companies or indiv
 
   * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing Personal Information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this privacy policy and any other appropriate confidentiality and security measures.
 
-  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation or Valid Legal Process (b) enforce applicable Terms of Service, including investigation of potential violations thereof, �) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of JP Communications, its users or the public as required or permitted by law.
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation or Valid Legal Process (b) enforce applicable Terms of Service, including investigation of potential violations thereof, ? detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of JP Communications, its users or the public as required or permitted by law.
 
 
 
@@ -128,7 +121,7 @@ For additional information about the Websites, JP Communications or our Privacy 
 
   2. **Member Account** means the account that you created on any of the Websites in order to advertise or to use certain services. You can edit or terminate your Member Account at any time through the Website with which you have the Member Account.
 
-  3. **Member Information** means the information that you provide when signing up for a Member Account at one of our websites. We ask for some Personal Information, such as your name, email address and a physical address, as well as a user name and a password. Member information is used to allow you access to free services, such as classified advertising, and for designing and building advertising campaigns. Member Information allows us to protect you from an unauthorized user of your account. We may share Member Information and Personal Information among our various services in order to customize content and enhance our services for you or with other companies or firms for the purpose of permitting them to contact you to market their goods or services. No account information is shared with anyone other than JP Communications except as specified in the Privacy Policy or with your consent.
+  3. **Member Information** means the information that you provide when signing up for a Member Account at one of our websites. We ask for some Personal Information, such as your name, email address and a physical address, as well as a Username and a password. Member information is used to allow you access to free services, such as classified advertising, and for designing and building advertising campaigns. Member Information allows us to protect you from an unauthorized user of your account. We may share Member Information and Personal Information among our various services in order to customize content and enhance our services for you or with other companies or firms for the purpose of permitting them to contact you to market their goods or services. No account information is shared with anyone other than JP Communications except as specified in the Privacy Policy or with your consent.
 
 You can edit or terminate your Member Account at any time through the Website with which you have the Member Account.
 
