@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unsubcentral.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909013247id_/http%3A//www.unsubcentral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unsubcentral.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316181233id_/http%3A//www.unsubcentral.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# UnsubCentral — Suppression List and Opt-out List Email Compliance Solutions
 
 ## Effective Date : January 18th, 2007
 
@@ -57,3 +57,7 @@ The following discloses our information gathering and dissemination practices sp
 The information UnsubCentral collects and receives from our customers' and customer's affiliates is used to provide our proprietary suppression services. UnsubCentral does not share the information collected or the lists provided with unauthorized parties. In no event shall UnsubCentral use any email addresses or other information provided by the customer affiliates in any manner except (i) for suppression list comparisons as part of the UnsubCentral service (ii) for dispute resolution, and (iii) UnsubCentral may disclose such email addresses and/or information if disclosed in response to a valid order of a court or authorized agency of government.
 
 UnsubCentral uses industry-standard technologies when transferring and receiving consumer data exchanged between us and other companies to help ensure its security. This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+
+| 
+
+[](https://web.archive.org/web/20100316181233id_/http%3A//www.unsubcentral.com/contact.php)
