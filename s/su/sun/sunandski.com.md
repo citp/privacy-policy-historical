@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sunandski.com privacy policy that was archived on 2008-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081023063736id_/http%3A//www.sunandski.com/Articles.asp%3FID%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunandski.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316072928id_/http%3A//www.sunandski.com/Articles.asp%3FID%3D5) for the most accurate reproduction.*
 
-# Burton Snowboards, The North Face Denali Jacket, Ski Jackets, Snow Skis | Sun & Ski Sports
+# North Face Denali Jacket, Burton Snowboards, Ski Jackets | Sun & Ski Sports
 
 ### Privacy Policy
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20081023063736id_/http%3A//www.sunandski.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20100316072928id_/http%3A//www.sunandski.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
