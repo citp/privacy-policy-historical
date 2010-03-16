@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kvchosting.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207004432id_/http%3A//www.kvchosting.com/webhosting-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvchosting.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316213144id_/http%3A//www.kvchosting.com/webhosting-privacy-policy.php) for the most accurate reproduction.*
 
 # KVCHOSTING Privacy Policy
 
