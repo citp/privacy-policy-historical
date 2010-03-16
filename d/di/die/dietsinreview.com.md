@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dietsinreview.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208052044id_/http%3A//www.dietsinreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietsinreview.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316135117id_/http%3A//www.dietsinreview.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DietsInReview.com
 
