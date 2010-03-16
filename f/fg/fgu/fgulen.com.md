@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fgulen.com privacy policy that was archived on 2009-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090809234440id_/http%3A//en.fgulen.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fgulen.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316093936id_/http%3A//en.fgulen.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Fethullah Gülen's Web Site - Privacy Policy
 
 ##  Privacy Policy 
 
 [](http://en.fgulen.com/privacy-policy.pdf "PDF")[](http://en.fgulen.com/privacy-policy.html?tmpl=component&print=1&page= "Print")[](http://en.fgulen.com/component/mailto/?tmpl=component&link=aHR0cDovL2VuLmZndWxlbi5jb20vcHJpdmFjeS1wb2xpY3kuaHRtbA%3D%3D "E-mail")
 
-Last Updated on Monday, 22 June 2009 17:33  Written by fgulen.com  Monday, 31 July 2006 13:43 
+Last Updated on Monday, 22 June 2009 17:33  by fgulen.com  Monday, 31 July 2006 13:43 
 
 **COMMITMENT TO YOUR PRIVACY**
 
