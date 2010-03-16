@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cheapostay.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309005758id_/http%3A//www.cheapostay.com/hotels/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapostay.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316181610id_/http%3A//www.cheapostay.com/hotels/privacy-policy.asp) for the most accurate reproduction.*
 
 # CheapOstay Privacy Policy
 
-|    Privacy Policy  
----  
-CheapOstay.com is strongly committed to protecting your privacy   
+|    Privacy Policy | [](http://www.truste.org/ivalidate.php?url=www.cheapostay.com&sealid=101)  
+---|---  
+CheapOstay.com is strongly committed to protecting your privacy.  
 FAREPORTAL is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [CheapOstay.com](http://www.cheapostay.com/). Because this website wants to demonstrate its commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. 
 
 If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information, such as name, email, and shipping address, as well as financial information, such as credit card number and expiration date. 
@@ -14,6 +14,10 @@ We use this information for billing purposes and to complete your orders. If we 
 We do not sell, trade, share or rent your personal information to others without your prior consent. We keep your personal information private and secure in our database and during transfer to our third party marketing partners. When you use our system, you are asked to provide your name, email address and other information. We use this information to answer your questions and process your requests for services from us and, or for products or services from our third party marketing partners. 
 
 To keep you informed about our latest services, we may notify you via email newsletter of any changes or new additions to our site. You may unsubscribe from our email newsletter by following the unsubscribe instructions in any email you receive from us. 
+
+We use third-party advertising companies serving ads when you visit our Website. These companies may use information about your visits to our and other Websites in order to provide advertisements of goods and services that may be of interest to you. Please note, that such information does not contain any of your personal information, in whole or in part whatsoever; such as your name, address, e-mail ID and/or telephone number. If you would like to obtain more information about the practice of usage of such information, and learn more about your choices of having such information as described herein 
+
+_not_ be used by these companies, [click here](http://www.fetchback.com/optout.html). 
 
 Other sites accessible through our website have their own privacy policies and data collection practices. Please consult each website’s privacy policy. [CheapOstay.com](http://www.cheapostay.com/) is not responsible for the actions of third parties.  
   
@@ -65,8 +69,5 @@ Suite 1301
 New York, NY 10001  
 [feedback@CheapOstay.com](mailto:feedback@CheapOstay.com)**  
 If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns.   
-  
-   
-  
   
  
