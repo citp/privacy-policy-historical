@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carrentalexpress.com privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001150037id_/http%3A//www.carrentalexpress.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrentalexpress.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316213929id_/http%3A//www.carrentalexpress.com/privacy.htm) for the most accurate reproduction.*
 
 # Car Rental Express Privacy Policy
 
@@ -117,7 +117,7 @@ Contact Us
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at: email at privacy [help@carrentalexpress.com](mailto:help@carrentalexpress.com). 
 
-Please click to view our [Terms of Use Policy](https://web.archive.org/web/20091001150037id_/http%3A//www.carrentalexpress.com/disclaimer.html).
+Please click to view our [Terms of Use Policy](https://web.archive.org/web/20100316213929id_/http%3A//www.carrentalexpress.com/disclaimer.html).
 
-© Car Rental Express.Com, Inc., 1999 - 2009. ALL RIGHTS RESERVED.  
+© Car Rental Express.Com, Inc., 1999 - 2010. ALL RIGHTS RESERVED.  
 [Vancouver Law Firms: PichÃ© & Company](http://www.pichelaw.com/)
