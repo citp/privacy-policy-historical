@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kansas.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202213431id_/http%3A//www.kansas.com/ss/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kansas.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316102202id_/http%3A//www.kansas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wichita Eagle
 
@@ -30,7 +30,7 @@ Like most Web sites, Kansas.com also collects and logs information automatically
 
 Most standard Web browsers contain a feature called "cookies," which allow a Web site to place information about a user's visit to that Web site in a small data text file that is stored on the user's computer. Our use of cookie technology will likely be transparent to you and is used to recognize you and hold information from one visit to the next in an effort to increase your ease of use of Kansas.com and to allow us to better understand how people use Kansas.com through click-stream analysis. For example, cookies may be used to store information such as your member name and password, sparing you from having to re-enter that information each time you visit. Another example is that we may use cookie technology to control the number of times you see a particular advertisement while visiting Kansas.com. You can turn the cookies feature off by using your browser preference options, but doing so will severely limit your access to Kansas.com and may prevent you from registration.
 
-Some of Kansas.com's third-party content providers also may place a cookie on your computer. If you choose to monitor or restrict cookies that are placed on his computer, you can determine the Web site that is attempting to place a cookie. Those cookies are controlled by the content provider, and you should refer to that provider's privacy policy for further information regarding its use of cookies.
+Some of Kansas.com's third-party content providers also may place a cookie on your computer. If you choose to monitor or restrict cookies that are placed on this computer, you can determine the Web site that is attempting to place a cookie. Those cookies are controlled by the content provider, and you should refer to that provider's privacy policy for further information regarding its use of cookies and about your options not to accept them.
 
 We use services provided by Yahoo! to display advertising on Kansas.com, and we may use cookies in conjunction with displaying those ads. Please refer to Yahoo!'s privacy policy at <http://privacy.yahoo.com/> for further information concerning Yahoo!'s use of cookies.
 
