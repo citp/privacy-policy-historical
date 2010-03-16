@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everbridge.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207181110id_/http%3A//www.everbridge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everbridge.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316134519id_/http%3A//www.everbridge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,6 +29,10 @@ If you become a Everbridge customer, you can access and update your personally i
 ### Security
 
 It is possible that Electronic Communications may be accessed by unauthorized third parties when communicated between you and Everbridge using the Internet, other network communications facilities, telephone or any other electronic means. All transfer of personal information on Everbridgeonline.net is secured by encrypted user names and passwords, and the industry standard Secure Sockets Layer (SSL) protocol. SSL prohibits other Web users from gaining access to your personal information, and to help protect the loss, misuse, and alteration of your information.
+
+### Safe Harbor Compliance
+
+Everbridge complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please visit <http://www.export.gov/safeharbor/>
 
 ### Children
 
