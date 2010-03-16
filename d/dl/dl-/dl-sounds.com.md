@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dl-sounds.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212014636id_/http%3A//www.dl-sounds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dl-sounds.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316182057id_/http%3A//www.dl-sounds.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : DL Sounds-, Royalty free Samples, Loops and Tunes
 
@@ -32,8 +32,7 @@ We reserve the right to modify this privacy notice in the future. Please check o
 
 **Contact us**
 
-If you have any questions about this privacy notice, please do not hesitate to contact us at info (at) dl-sounds. com
+If you have any questions about this privacy notice, please do not hesitate to contact us at info (at) dl-sounds. com. Or click [here](http://www.dl-sounds.com/contact_us "Contact Us!")
 
-  
 September 2009  
 
