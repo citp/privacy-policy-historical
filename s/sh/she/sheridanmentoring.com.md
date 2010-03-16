@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheridanmentoring.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123203817id_/http%3A//www.sheridanmentoring.com/index/method/c.privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheridanmentoring.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316052847id_/http%3A//www.sheridanmentoring.com/index/method/c.privacyPolicy.html) for the most accurate reproduction.*
 
 # Sheridan Options Mentoring - Privacy Policy.
 
@@ -63,7 +63,7 @@ Members may access their information 24 hours a day using their designated login
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date. 
 
-312 page views
+957 page views
 
   
 
