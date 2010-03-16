@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lime.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213135433id_/http%3A//www.lime.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lime.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316091911id_/http%3A//www.lime.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - LIME
 
