@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bodyparts.biz privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413031643id_/http%3A//www.bodyparts.biz/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyparts.biz privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316064837id_/http%3A//bodyparts.biz/close-ups-pictures-photos-videos-movies/privacy.htm) for the most accurate reproduction.*
 
-# Close up Big Tits | Close up Tits Free | Natural Tits
+# BODYPARTS.BIZ
 
 Flash Productions Privacy Policy  
 
@@ -64,6 +64,6 @@ If we decide to use your personally identifiable information in a manner materia
 Contact Information   
 If you have any questions about this Privacy Policy, or if you otherwise need to contact us regarding your personally identifiable information, please contact us by sending an e-mail. Please provide your name, mailing address, telephone number and e-mail address so we can service you quicker. Please send your e-mail to: support@BodyParts.biz. 
 
-© Flash Productions, LLC (2008) 
+© Flash Productions, LLC (2009) 
 
  
