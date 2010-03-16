@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradedoubler.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211224742id_/http%3A//www.tradedoubler.com/uk-en/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradedoubler.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316164826id_/http%3A//www.tradedoubler.com/uk-en/legal/privacy.html) for the most accurate reproduction.*
 
 # TradeDoubler - Privacy Policy
 
@@ -85,7 +85,7 @@ This Site sends your browser a cookie - a small piece of data stored on your com
 
 If you do not want to accept that your computer receives and stores cookies, you can alter your security settings on your web browser (Internet Explorer, Netscape etc.). However, note that certain parts of our Site may only be used fully if your browser allows cookies. Thus, your reading experience of our Site may be affected negatively by removing and not allowing cookies.
 
-In addition, TradeDoubler may serve ads on this and other websites using our own ad-serving technology. In doing so, one of our ad servers will place or read a unique ad-serving cookie on your computer and will use non-personal information about your browser and your activity at this site to serve ads on this and other sites. The ad-serving cookie is a persistent cookie. Please [click here](https://web.archive.org/web/20091211224742id_/http%3A//www.tradedoubler.com/include/functions/optout.html) for more information about TradeDoubler ad serving or to opt-out of the TradeDoubler ad-serving cookie.
+In addition, TradeDoubler may serve ads on this and other websites using our own ad-serving technology. In doing so, one of our ad servers will place or read a unique ad-serving cookie on your computer and will use non-personal information about your browser and your activity at this site to serve ads on this and other sites. The ad-serving cookie is a persistent cookie. Please [click here](https://web.archive.org/web/20100316164826id_/http%3A//www.tradedoubler.com/include/functions/optout.html) for more information about TradeDoubler ad serving or to opt-out of the TradeDoubler ad-serving cookie.
 
 ## Part 2 - Interest Based Advertising privacy principles
 
