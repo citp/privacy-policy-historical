@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manualsonline.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202194310id_/http%3A//www.manualsonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manualsonline.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316201829id_/http%3A//www.manualsonline.com/privacy.html) for the most accurate reproduction.*
 
 # Free owners manuals, user guides & how-to instructions | ManualsOnline
 
@@ -6,9 +6,9 @@ OwnerIQ and its affiliated companies (collectively, "OwnerIQ") are committed to 
 
 [ ](http://www.truste.org/ivalidate.php?companyName=OwnerIQ&sealid=101)
 
-OwnerIQ is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web sites [OwnerIQ.net](htpp://owneriq.net), [www.TheUserManualSite.com](http://www.theusermanualsite.com/), [www.ManualsOnline.com](http://www.manualsonline.com/) Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+OwnerIQ is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web sites [www.OwnerIQ.com](http://www.owneriq.com/), [www.ManualsOnline.com](http://www.manualsonline.com/) Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first our privacy director at [webmaster@owneriq.net](mailto:webmaster@owneriq.net). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first our privacy director at [webmaster@owneriq.com](mailto:webmaster@owneriq.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 #### Enforcement
 
@@ -18,7 +18,7 @@ If you believe that OwnerIQ has not complied with this Privacy Policy, or if you
 **320 Congress Street  
 Boston, MA 02210  
 Attention: Gracie F. Johnson, Membership Coordinator  
-E-mail: [webmaster@owneriq.net ](mailto:webmaster@owneriq.net)
+E-mail: [webmaster@owneriq.com ](mailto:webmaster@owneriq.com)
 
 OwnerIQ will investigate your complaint and respond to you promptly.
 
@@ -31,8 +31,7 @@ In this Privacy Policy, we use the following key definitions. Other terms are de
 " **Content Provider** " means a third party that owns a user manual or other document to which OwnerIQ links to or displays on the Sites.
 
 " **Sites** " include subdomains of the following.   
-1\. [www.OwnerIQ.net](http://www.owneriq.net/)  
-2\. [www.theusermanualsite.com](http://www.theusermanualsite.com/)  
+1\. [www.OwnerIQ.com](http://www.owneriq.com/)  
 3\. [www.ManualsOnline.com](http://www.manualsonline.com/)
 
 " **User** " or " **you** " means any person viewing any page of the Sites.
@@ -95,9 +94,9 @@ We may provide summary reports to our Content Providers, based on our analysis o
 
 OwnerIQ will only use your Member Details for the purposes described in this Privacy Policy or subsequently authorized by you. You can opt out of having your Member Details and Clickstream Data disclosed as described above by not becoming a member and not viewing the Third Party Content. OwnerIQ operates on the basis that users can view Third Party Content in return for providing Member Details to OwnerIQ and allowing our use and disclosure as described above. If you do not want your information used and disclosed in this way, you must not become a member or view Third Party Content.
 
-To contact us regarding a privacy issue, please send an e-mail to [webmaster@owneriq.net](mailto:webmaster@owneriq.net). Please be sure to include the site so that we may better serve you.
+To contact us regarding a privacy issue, please send an e-mail to [webmaster@owneriq.com](mailto:webmaster@owneriq.com). Please be sure to include the site so that we may better serve you.
 
-If you want your subscriber information deleted from the OwnerIQ database or you wish to opt out of any newsletters or promotional emails, please contact us at [webmaster@owneriq.net](mailto:webmaster@owneriq.net) and we will remove your Member Details. You can also unsubscribe from any promotional emails from the site or third parties by clicking on the functioning un-subscribe mechanism in each email communication. 
+If you want your subscriber information deleted from the OwnerIQ database or you wish to opt out of any newsletters or promotional emails, please contact us at [webmaster@owneriq.com](mailto:webmaster@owneriq.com) and we will remove your Member Details. You can also unsubscribe from any promotional emails from the site or third parties by clicking on the functioning un-subscribe mechanism in each email communication. 
 
 Information provided to us by you is, however, subject to disclosure pursuant to any applicable laws.
 
@@ -107,7 +106,7 @@ OwnerIQ has implemented reasonable security measures to protect information from
 
 #### Access and Updating of Information
 
-The instructions to review, amend, or delete your information may be found in the View Profile area on any of our sites. You can access this area of the site by logging in using your username and password. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us by sending an email to: [webmaster@owneriq.net](mailto:webmaster@owneriq.net).
+The instructions to review, amend, or delete your information may be found in the View Profile area on any of our sites. You can access this area of the site by logging in using your username and password. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us by sending an email to: [webmaster@owneriq.com](mailto:webmaster@owneriq.com).
 
 **Comments, and User requests for information from the Membership**  
 If you use a bulletin board, blog, or post other information on the Sites, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  We are not responsible for the personally identifiable information you choose to submit in these forums.
@@ -122,7 +121,7 @@ We recommend that you do not divulge your security question or answer to anyone.
 
 **Business Transfers** : We are always seeking to improve our Sites and our business. If all or part of OwnerIQ is sold, merged or otherwise transferred to another entity, the Member Details that you have provided to us along with Clickstream Data may be transferred as part of that transaction. In these circumstances, OwnerIQ will require that the information be used by its successor in a manner that is consistent with the OwnerIQ Privacy Policy in effect at the time OwnerIQ received the information.
 
-**Amendments** : OwnerIQ may modify or amend this policy from time to time. If we make any material changes, as determined by OwnerIQ, in the way in which information is collected, used or transferred, we will notify you of these changes on our site(s) homepage or by e-mail and provide a link to the new privacy statement. If you object to any of the changes, you can have us delete your information from our database by contacting webmaster@owneriq.net  
+**Amendments** : OwnerIQ may modify or amend this policy from time to time. If we make any material changes, as determined by OwnerIQ, in the way in which information is collected, used or transferred, we will notify you of these changes on our site(s) homepage or by e-mail and provide a link to the new privacy statement. If you object to any of the changes, you can have us delete your information from our database by contacting [webmaster@owneriq.com](mailto:webmaster@owneriq.com).  
 **  
 **Site Visitors from outside the United States**** : OwnerIQ and its servers are located in the United States and are subject to the applicable state and federal laws of the United States. If you choose to access the Sites or become a Member, you consent to the use and disclosure of information in accordance with this privacy policy and subject to such laws.   
 **  
@@ -133,4 +132,4 @@ We recommend that you do not divulge your security question or answer to anyone.
 #### Effective Date of this policy: June 20th, 2009. 
 
 To contact the site please email us at:   
-[webmaster@owneriq.net](mailto:webmaster@owneriq.net)
+[webmaster@owneriq.com](mailto:webmaster@owneriq.com)
