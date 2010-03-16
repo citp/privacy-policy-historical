@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favit.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211222246id_/http%3A//favit.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favit.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316191553id_/http%3A//favit.com/about/privacy) for the most accurate reproduction.*
 
 # favit :: stream & share
 
