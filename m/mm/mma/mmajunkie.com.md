@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmajunkie.com privacy policy that was archived on 2009-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090402132808id_/http%3A//mmajunkie.com/misc/Privacy-Policy.mma) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmajunkie.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316161752id_/http%3A//mmajunkie.com/misc/Privacy-Policy.mma) for the most accurate reproduction.*
 
 # MMAjunkie.com Privacy Policy | MMAjunkie.com
 
