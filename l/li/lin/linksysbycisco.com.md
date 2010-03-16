@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linksysbycisco.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209071101id_/http%3A//www.linksysbycisco.com/US/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksysbycisco.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316214854id_/http%3A//www.linksysbycisco.com/US/en/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
