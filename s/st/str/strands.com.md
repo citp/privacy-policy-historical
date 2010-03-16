@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the strands.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225082304id_/http%3A//www.strands.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strands.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316174152id_/http%3A//www.strands.com/privacy) for the most accurate reproduction.*
 
-# Statics : Privacy
+# Support - Privacy Policy on Strands
 
 ### Strands Privacy Policy
 
