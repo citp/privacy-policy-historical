@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the the700level.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114080748id_/http%3A//www.the700level.com/2007/01/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the700level.com privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317150451id_/http%3A//www.the700level.com/privacy-policy.html) for the most accurate reproduction.*
 
 # The700Level.com - Philly Sports & Minutiae: Privacy Policy
 
-The 700 Level will not use or sell any personall information used on this site.  
+The 700 Level will not use or sell any personal information used on this site.  
   
  **Privacy Policy** :
 
