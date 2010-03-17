@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonnetwork.com.au privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003105233id_/http%3A//www.cartoonnetwork.com.au/parents/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetwork.com.au privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317111911id_/http%3A//www.cartoonnetwork.com.au/parents/privacy.php) for the most accurate reproduction.*
 
 # Cartoon Network Australia - free online games & videos
 
