@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the holidayextras.co.uk privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623003335id_/http%3A//www.holidayextras.co.uk/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayextras.co.uk privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317102700id_/http%3A//www.holidayextras.co.uk/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Holiday Extras - privacy policy | How we use your information
+
+"Once again I was given a speedy and professional service. The staff are always helpful and cheerful over the phone and make sure that you get the best deal around. Holiday Extras always makes your custom and you feel important and are always there to help with any questions or problems."  
+**Mr Lings**
 
 "Easily booked online on Christmas Day - when other companies' websites were offline!. Then we got very good service when we arrived in the middle of the night. Thank you."  
 **Mr McAllister**
