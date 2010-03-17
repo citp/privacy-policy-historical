@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sendspace.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231151035id_/http%3A//www.sendspace.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendspace.com privacy policy that was archived on 2010-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100318002302id_/http%3A//www.sendspace.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Send big files the easy way. Files too large for email attachments? No problem!
+# Free large file hosting. Send big files the easy way!
 
 Please read this entire notice. **_Send_ space** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the **_Send_ space** Web site.
 
