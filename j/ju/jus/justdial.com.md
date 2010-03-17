@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justdial.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227213718id_/http%3A//www.justdial.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justdial.com privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317184821id_/http%3A//www.justdial.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Just Dial - Disclaimer and Terms
 
