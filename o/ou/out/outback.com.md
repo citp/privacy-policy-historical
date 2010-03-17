@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outback.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209073513id_/http%3A//www.outback.com/companyinfo/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outback.com privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317110508id_/http%3A//www.outback.com/companyinfo/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Outback Steakhouse
 
