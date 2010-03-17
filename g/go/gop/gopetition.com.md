@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gopetition.com privacy policy that was archived on 2009-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090331203700id_/http%3A//www.gopetition.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopetition.com privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317134845id_/http%3A//www.gopetition.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement / Start a Petition / How to Write a Petition / How to Start a Petition
+# Privacy Policy | GoPetition | Privacy Info for those writing or starting a petition or signing a petition
 
 GoPetition - Privacy Statement
 
-GoPetition recognises that your privacy is very important to you and that you have a right to control your personal information. We know that providing personal information is an act of trust and we take that seriously. This privacy policy forms part or our Terms of Use (TOU) and should be read with our TOU.  
+GoPetition recognises that your privacy is very important to you and that you have a right to control your personal information. We know that providing personal information is an act of trust and we take that seriously. This privacy policy forms part or our Terms of Use (TOU) and is subject to and should be read with our TOU.  
 
 
 **Your email address will NEVER be displayed on this website.**
@@ -13,18 +13,30 @@ We will not email you anything unrelated to GoPetition. If your email address is
 
 Your information
 
-Subject to our TOU, GoPetition will not give or sell your information to any third party. If signing a petition, your information can be accessed by the petition's author. The author agrees to use signatures responsibly. Petition targets will also ultimately view relevant signature lists.   
+GoPetition will not give or sell your information to any third party. If signing a petition, your information can be accessed by the petition's author. The author agrees to use signatures responsibly. Petition targets will also ultimately view relevant signature lists.   
 
 
 Signature Display and Search Engine Access to Signature Lists
 
-If you are signing a petition your signature may be publicly displayed in a signature list. In addition, search engines such as Google and Yahoo may be able to view your signature and may index your signature. You may prevent indexing by cloaking your signature with an "Anonymous" designation. GoPetition members, from Jan 28, 2009, may also edit their signatures to encourage or hide from search engine exposure. For information about how to edit your signature please read our FAQ.Advertisements on GoPetition
+If you are signing a petition your signature may be publicly displayed in a signature list. Each petition at GoPetition has a public signature list that publicly displays at GoPetition all those who sign each petition. Our public lists do not include email or street addresses, but may include your town/city. 
 
-GoPetition uses the services of Google and ValueClick advertising. For further information on their privacy practices, please feel free to contact them.
+The public lists give weight to each petition and confidence to other signers. Each author has the option to NOT display their list publicly. But you should assume that the author may display their list. If you choose our "Anonymous" designation feature, then your name will be cloaked publicly and will only be viewable to the author and target. You may also elect to hide your signature comment from public view if you only want the author or target to view your comment.
+
+Please note that search engines such as Google and Yahoo may be able to view your signature and may index your signature. 
+
+You may prevent indexing by cloaking your signature with an "Anonymous" designation. GoPetition members may now edit their signatures to encourage or hide from search engine exposure. For information about how to edit your signature please read our FAQ.Advertisements on GoPetition
+
+GoPetition uses the services of Google and ValueClick advertising.   
+
+
+* Google, as a third-party vendor, uses cookies to serve ads on this site. Specifically Google uses the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx).  
+* Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.  
+* Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html).  
+
 
 Cookies
 
-We use some cookies to remember who you are. GoPetition also uses cookies and scripting for several site functions. This information is used to enhance customer experience of our software.
+See info above. We also use some cookies to remember who you are. In addition, GoPetition uses cookies and scripting for several site functions. This information is used to enhance customer experience of our software.
 
 Access to Signature Details and Personal Information
 
