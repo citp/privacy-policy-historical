@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the encoding.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618090555id_/http%3A//www.encoding.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encoding.com privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317142459id_/https%3A//www.encoding.com/privacy) for the most accurate reproduction.*
 
-# On Demand Video Encoding - privacy statement
+# On Demand Video Encoding
 
 We take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, which is operated directly by us, by our partner, or by our affiliate.
 
@@ -84,61 +84,3 @@ None of the sites within our network is directed to children under the age of 13
 Questions, Comments
 
 Questions regarding this privacy statement or any other aspects of our network of Web sites should be sent to our legal department at [legal@Encoding.com](mailto:legal@Encoding.com). We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site, or review and discard the information.
-
-| 
-
-Developer Resources
-
-[API Documentation](https://web.archive.org/wdocs/ApiDoc)
-
-[Supported Source Media Formats](https://web.archive.org/wdocs/SourceFileFormats)
-
-[Sample Scripts](https://web.archive.org/wdocs/SampleScripts)
-
-[Recent Changes](https://web.archive.org/wdocs/Changes)
-
-| 
-
-Video Encoding Service
-
-[Pricing/Scaling](https://web.archive.org/pricing)
-
-[Service Description](https://web.archive.org/service)
-
-Feature List
-
-| 
-
-Support
-
-[About/Contact Us](https://web.archive.org/newabout.php)
-
-[Client Login](http://manage.encoding.com/user/)
-
-[Technical FAQ](http://help.encoding.com/)
-
-[Follow us on Twitter](http://www.twitter.com/encodingdotcom)
-
-| 
-
-Get Started
-
-[Buy Now](https://www.encoding.com/register/)
-
-[Free 1GB Trial](https://www.encoding.com/register/?trial=yes)
-
-[Try 3 videos Free!](https://web.archive.org/try/)
-
-| 
-
-Legal Eagle
-
-[SLA](http://www.encoding.com/sla.html)
-
-[Terms of Use](https://web.archive.org/terms.html)
-
-[Privacy](https://web.archive.org/privacy.html)  
-  
----|---|---|---|---  
-  
-Copyright 2008 Encoding.com. All rights reserved. 
