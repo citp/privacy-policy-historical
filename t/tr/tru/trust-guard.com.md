@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trust-guard.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211210655id_/http%3A//www.trust-guard.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trust-guard.com privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317220721id_/http%3A//www.trust-guard.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Trust Seals from Trust Guard - Improve Online Conversion and Build Customer Trust today.
 
@@ -64,7 +64,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20091211210655id_/http%3A//www.trust-guard.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20100317220721id_/http%3A//www.trust-guard.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
