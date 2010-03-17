@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tpmtraffic.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605132327id_/http%3A//www.targetpointmedia.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpmtraffic.com privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317204330id_/http%3A//www.targetpointmedia.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Solutions of Target Point Media
 
