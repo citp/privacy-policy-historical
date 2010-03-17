@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicalnewstoday.com privacy policy that was archived on 2009-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090902211509id_/http%3A//www.medicalnewstoday.com/index.php%3Fpage%3Dprivacypolicy%26title%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalnewstoday.com privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317125225id_/http%3A//www.medicalnewstoday.com/index.php%3Fpage%3Dprivacypolicy%26title%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,6 +17,8 @@ If you would like more information about this practice and to know your choices 
 In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser.
 
 Google, as a third party vendor, uses cookies to serve ads on the Medical News Today Web site. Google uses the DART cookie to enable it to serve ads to the user based on the users visit to the Medical News Today Web site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "External Site Link - opens in new window - Google").
+
+To learn more about behavioral advertising practices by third party advertisers or to opt-out of this type of advertising, you can visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp "new window - networkadvertising.org"). 
 
   
 
