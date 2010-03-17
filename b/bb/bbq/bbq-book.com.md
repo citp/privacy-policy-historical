@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbq-book.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223081958id_/http%3A//www.bbq-book.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbq-book.com privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317154644id_/http%3A//www.bbq-book.com/html/privacy_policy.html) for the most accurate reproduction.*
 
 # BBQ Recipes | Privacy Policy
 
@@ -24,6 +24,8 @@ We may use small text files called cookies to improve overall Site experience. A
 
 Advertisements that appear on this Site are delivered to users by our advertising partners. Our advertising partners may download cookies to your computer. Doing this allows the advertising network to recognize your computer each time they send you an advertisement. In this way, they may compile information about where you, or others who are using your computer, saw their advertisements and determine which advertisements are clicked. This information allows an advertising network to deliver targeted advertisements that they believe will be of most interest to you. Network 6000 does not have access to or control of the cookies that may be placed by the third party advertisers.
 
+We may use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+
  **Aggregate Information**
 
 The Site may track the total number of visitors to our Site, the number of visitors to each page of our Site, IP addresses, External Web Sites (defined below) linked to, and we may analyze this data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We may use such aggregate information to analyze trends, administer the Site, track users' movement, and gather broad demographic information for aggregate use.  We may share this aggregate information with third parties to assist them in targeting advertisements to appropriate audiences.
@@ -44,5 +46,5 @@ We may employ procedural and technological measures, consistent with industry pr
 
 Network 6000 provides you with the ability to review, correct and delete any of the personally identifiable information that you have provided to us.  If you wish to review or correct any information you have provided to us, [you may access your account and review, correct and delete your personally identifiable information] [or you may contact us by email at: affiliate @ network6000.com (spaces inserted to avoid spam - do not type them).] If you have any questions regarding this Privacy Policy please contact us by the [link- contact us page] or via email at:  affiliate @ network6000.com (spaces inserted to avoid spam - do not type them).
 
-This Privacy Policy was last updated: Sept 12, 2006  
+This Privacy Policy was last updated: Sept 23, 2009  
 This Privacy Policy is effective as of: Sept 12, 2006
