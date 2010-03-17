@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickable.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217083859id_/http%3A//www.clickable.com/Corp/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickable.com privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317033741id_/http%3A//www.clickable.com/Corp/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Clickable.com
 
