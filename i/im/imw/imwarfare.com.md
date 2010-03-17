@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imwarfare.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115082611id_/http%3A//www.imwarfare.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imwarfare.com privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317141528id_/http%3A//www.imwarfare.com/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
