@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the unitymix.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105092347id_/http%3A//www.unitymix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitymix.com privacy policy that was archived on 2010-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100318081420id_/http%3A//www.unitymix.com/privacy) for the most accurate reproduction.*
 
 # unitymix|Privacy
 
+[Sign Up](http://www.unitymix.com/signup)    Unitymix is a safe place for social events, interactions,interests and make new friends around the world.
+
 unitymix|Privacy
 
-**Unitymix Privacy policy** Last Revised on: March 18, 2008 
+**Unitymix Privacy policy** Last Revised on: January 5,2010 
 
 Below is our Privacy Policy. Please take a moment of your time to read what we expect of our members and how we are devoted to protecting your privacy. 
 
 ## Privacy Policy 
 
-Not sure how to use unitymix.com or need help? [**Write to Us**](http://www.unitymix.com/contact)
+Not sure how to use unitymix.com or need help? [**Write to Us**](http://www.unitymix.com/pages/contact)
 
   
 
@@ -34,7 +36,7 @@ Not sure how to use unitymix.com or need help? [**Write to Us**](http://www.unit
 
 
 
-If you have any questions regarding the full privacy statement below, or any questions or comments at all, please [**Contact Us**](http://www.unitymix.com/contact)directly. If you're interested, please read more [**About Us**](http://www.unitymix.com/about)
+If you have any questions regarding the full privacy statement below, or any questions or comments at all, please [**Contact Us**](http://www.unitymix.com/pages/contact)directly. If you're interested, please read more [**About Us**](http://www.unitymix.com/pages/overview)
 
  **unitymix.com's privacy policy**  
 We are not going to sell your personal information to anyone! No If's, And's or But's!!! We will only provide your information under the order of a recognized court providing a search warrant for such information! Or in an emergency situation, in my best judgement, may provide information to recognized law enforcement agencies! - Founder.... Now to the legal section. 
@@ -42,7 +44,7 @@ We are not going to sell your personal information to anyone! No If's, And's or 
 **Privacy Policy**  
 We at unitymix.com, have created this privacy policy to demonstrate our firm commitment to protecting your personal information and informing you about how we handle it. This privacy policy only applies to transactions and activities in which you engage, and data gathered, on the unitymix.com Website, Please review this privacy policy periodically as we may modify it from time to time. This privacy policy was last revised on April, 2008. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time.   
 **Children.**  
-We do not allow persons who are ages twelve or younger to become members of this site. For more information, please [**Contact Us**](http://www.unitymix.com/contact)
+We do not allow persons who are ages twelve or younger to become members of this site. For more information, please [**Contact Us**](http://www.unitymix.com/pages/contact)
 
  **Your IP Address**  
 Like most e-commerce Websites, each time you visit the Site, we automatically collect your IP address and the web page from which you came. In order to administer and optimize the Site for you and to diagnose problems with our Site, we use your IP address to help identify   
@@ -102,7 +104,7 @@ If at any point we decide to use particular personally identifiable information 
 **How You Can Access and Update Your Email Preferences, Personal Information and Public Information**  
 We give you the opportunity to opt-out of certain communications and modify personal information or demographic information you have provided to us, and to hide demographic information from, or make demographic information visible to, the public users of the Site, at anytime by going to the section of the Site. Please be aware that it may take several hours for the changes you make to take effect on the public areas of the Site. We thank you for your patience. Please note that changing or deleting your information through the "Account Settings" or "My Profile" section of the Site, or otherwise opting-out of receipt of email communications from unitymix.com, will only change or delete the data in our database for purposes of future activities on the Site and for managing future communications from unitymix.com. These changes and deletions will not change or delete emails or information that we may have already forwarded to other users or credit card companies or any other third parties, all as provided above in this privacy policy. 
 
-If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can [**Contact Us**](http://www.unitymix.com/contact)
+If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can [**Contact Us**](http://www.unitymix.com/pages/contact)
 
 |   |    
 ---|---  
