@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pictage.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211171611id_/http%3A//www.pictage.com/static/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pictage.com privacy policy that was archived on 2010-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100318040904id_/http%3A//www.pictage.com/static/about/privacy.html) for the most accurate reproduction.*
 
 # Pictage Privacy Policy
 
