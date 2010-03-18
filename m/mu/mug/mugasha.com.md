@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mugasha.com privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120061618id_/http%3A//mugasha.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mugasha.com privacy policy that was archived on 2010-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100318124021id_/http%3A//mugasha.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Mugasha
 
