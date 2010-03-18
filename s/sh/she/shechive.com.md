@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shechive.com privacy policy that was archived on 2009-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090912003224id_/http%3A//www.shechive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shechive.com privacy policy that was archived on 2010-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100318035849id_/http%3A//shechive.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SheChive
+# Privacy Policy : sheCHIVE
 
 **Rober Media LLC Privacy Policy**  
 The following privacy statement covers all of the Rober Media LLC websites. Please read this statement regarding our websites. If you have any questions or suggestions regarding our privacy policy, please contact us.
