@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theauteurs.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211230704id_/http%3A//www.theauteurs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theauteurs.com privacy policy that was archived on 2010-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100318052230id_/http%3A//www.theauteurs.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
