@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinit.com privacy policy that was archived on 2009-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090927014359id_/http%3A//www.skinit.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinit.com privacy policy that was archived on 2010-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100318063916id_/http%3A//www.skinit.com/privacy.php) for the most accurate reproduction.*
 
 # Skinit.com: Phone Skins, Laptop Skins, iPod Skins, Gaming Skins: Personalization on Demand
 
