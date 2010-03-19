@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the guinnessworldrecords.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604050917id_/http%3A//www.guinnessworldrecords.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guinnessworldrecords.com privacy policy that was archived on 2010-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100319015102id_/http%3A//www.guinnessworldrecords.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
 # Guinness World Records - Corporate - Privacy
 
-THIS PRIVACY POLICY WAS LAST UPDATED ON 26 JULY 2007.
+THIS PRIVACY POLICY WAS LAST UPDATED ON 19 JANUARY 2010.
 
 Welcome to Guinness World Records’ family of web sites (“Web Sites”) and thank you for visiting. We are committed to providing a quality experience and have developed our Web Sites to provide an informative and entertaining experience for users. We also respect the privacy rights of our online visitors and are committed to providing and maintaining a safe and secure online environment. This Privacy Policy (the “Privacy Policy”) explains Guinness World Records’ online information practices and describes how Guinness World Records collects, uses and shares any of the following information obtained from and about our online visitors (i) personally identifiable information ("PII") such as, your first and last name, address, telephone number, screen name, email address or credit card information and (ii) other information which does not allow us to personally identify you (“Non-PII”) such as, your first name, post code, city, age, gender, product and promotional preferences and household characteristics like presence of children or income bracket information.
 
@@ -55,9 +55,9 @@ or
 
 Guinness World Records  
 Attn: Online Privacy Administrator  
-1133 Broadway  
-Suite 1520  
-New York NY 10010  
+45 W. 45th Street  
+Suite 902  
+New York NY 10036  
 USA
 
 Purchases through our Web Sites may require disclosure of your PII, your credit card information and information about the name and address of the person receiving the purchases. The credit card information may be subject to verification by the issuing credit card company or other company. Sales and shipping records will also be generated and maintained. Unless you give us permission at the time we collect such information, we will not use this information for any purpose except the fulfillment and record keeping of the transaction.
@@ -68,13 +68,15 @@ During the course of any visit to a Guinness World Records Web Site, the pages y
 
 Cookies in themselves do not identify the individual user, just the computer used. Users have the opportunity to set their computers to accept all cookies, to notify them when a cookie is issued or to block all cookies. If you set the browser to block cookies, it will result in certain personalised services not being provided to the users on that computer.
 
-Our Web Sites contain electronic images (called a "single-pixel gif" or "Web beacon") that allow us to count page views or to access cookies. In general, any electronic image viewed as part of a web site, including an ad banner, can act as a web beacon. Web beacons are typically very small, 1 by 1 pixel size, banner like files, but their presence can be easily seen within Internet Explorer by clicking on "View" and then on "Source." Our Web beacons do not collect, gather, monitor or share any personal information about visitors to our Web Sites, they are just the technique we use to compile our anonymous, aggregated statistics about web site usage. The Web Beacon system we use to collect this information is called Omniture (www.onmiture.com) provided by Omniture, Inc.
+Our Web Sites contain electronic images (called a "single-pixel gif" or "Web beacon") that allow us to count page views or to access cookies. In general, any electronic image viewed as part of a web site, including an ad banner, can act as a web beacon. Web beacons are typically very small, 1 by 1 pixel size, banner like files, but their presence can be easily seen within Internet Explorer by clicking on "View" and then on "Source." Our Web beacons do not collect, gather, monitor or share any personal information about visitors to our Web Sites, they are just the technique we use to compile our anonymous, aggregated statistics about web site usage. The Web Beacon system we use to collect this information is called Google Analytics (www.google.com/analytics) provided by Google, Inc.
 
-Through the Omniture technology, we also collect and accumulate other anonymous data that helps us understand and analyse the Internet experience of our visitors. For example, we accumulate visitor data relating to referring domains, the type of browsers used, operating system software, screen resolutions, color capabilities, plug-ins, language settings, cookie preferences, search engine keywords and JavaScript enablement. We also record number of visits, paths taken and time spent on Web Sites and pages. None of this information is personally identifiable and we only share this information in the aggregate, reflecting overall web site or Internet usage trends.
+Through the Google Analytics technology, we also collect and accumulate other anonymous data that helps us understand and analyse the Internet experience of our visitors. For example, we accumulate visitor data relating to referring domains, the type of browsers used, operating system software, screen resolutions, color capabilities, plug-ins, language settings, cookie preferences, search engine keywords and JavaScript enablement. We also record number of visits, paths taken and time spent on Web Sites and pages. None of this information is personally identifiable and we only share this information in the aggregate, reflecting overall web site or Internet usage trends.
 
 Web pages and/or micro web sites may be included within our Web Sites and may be co-branded with third party names, logos and/or properties and are operated and maintained by us. While such third parties are sponsors of these web pages or micro web sites, they do not share in any PII collected within those web pages or micro web sites. 
 
-We may include on our Web Sites banner or text advertisements from third parties, or for web sites operated by third parties, that are not sponsors of and are not affiliated with our Web Sites. As such, we are not responsible for the content, polices or practices of the web sites operated by these third parties. In addition, these advertisements and/or links do not constitute sponsorship, endorsement or approval by us of the content, policies or practices of these web sites. All users should check the relevant web site's privacy policy and terms of use in order to understand their policies and practices regarding the collection and use of PII. 
+We may include on our Web Sites banner or text advertisements from third parties, or for web sites operated by third parties, that are not sponsors of and are not affiliated with our Web Sites. As such, we are not responsible for the content, polices or practices of the web sites operated by these third parties. In addition, these advertisements and/or links do not constitute sponsorship, endorsement or approval by us of the content, policies or practices of these web sites. 
+
+These third parties may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 As Guinness World Records operates globally, it may be necessary to transfer your information internationally, and in particular, your information may be transferred to and processed in the United States or the United Kingdom. For residents of the European Union: the data protection and other laws of other countries outside of the European Union may not be as comprehensive as those of the European Union; please be assured that we take all reasonable steps to ensure that your privacy is protected. 
 
@@ -95,9 +97,9 @@ or
 
 Guinness World Records  
 Attn: Online Privacy Administrator  
-1133 Broadway  
-Suite 1520  
-New York NY 10010  
+45 W. 45th Street  
+Suite 902  
+New York NY 10036  
 USA
 
 If you do not want us to disclose any of your PII to third parties who may use such information for direct marketing purposes, then please write to us with your detailed request at:
@@ -117,83 +119,102 @@ or
 
 Guinness World Records  
 Attn: Online Privacy Administrator  
-1133 Broadway  
-Suite 1520  
-New York NY 10010  
+45 W. 45th Street  
+Suite 902  
+New York NY 10036  
 USA
+
+If you're using Internet Explorer 6.0 or 7.0:
+
+  1. Choose Tools, then
+  2. Internet Options
+  3. Click the Privacy tab
+  4. Click on Custom Level
+  5. Click on the 'Advanced' button
+  6. Check the 'override automatic cookie handing' box and select Accept, Block or Prompt for action as appropriate. 
+
+
+
+If you're using Firefox 2.0:
+
+  1. Choose Tools, then
+  2. Options
+  3. Click the Privacy icon
+
+
+
+If you're using Firefox 1.0 or 1.5:
+
+  1. Choose Tools, then
+  2. Options
+  3. Click the Privacy icon
+  4. Click the Cookies tab
+
+
+
+If you're using Opera 8.0 or 9.0:
+
+  1. Choose Tools, then
+  2. Preferences
+  3. Advanced
+  4. Cookies
+
+
+
+If you're using Opera 7.0:
+
+  1. Choose File, then
+  2. Preferences
+  3. Privacy
+
+
 
 If you're using Netscape 6.0:
 
-On your Task Bar, click:  
-1\. Edit, then  
-2\. Preferences  
-3\. Click on Advanced  
-4\. Click on Cookies
+  1. Choose Edit, then
+  2. Preferences
+  3. Click on Advanced
+  4. Click on Cookies
+
+
 
 If you're using Internet Explorer 5.0 or 5.5:
 
-1\. Choose Tools,  
-2\. then Internet Options  
-3\. Click the Security tab  
-4\. Click on Custom Level  
-5\. Scroll down to the sixth option to see how cookies are handled by IE5 and change to Accept, Disable or Prompt for action as appropriate
+  1. Choose Tools, then
+  2. Internet Options
+  3. Click the Security tab
+  4. Click on Custom Level
+  5. Scroll down to the sixth option to see how cookies are handled by IE5 and change to Accept, Disable, or Prompt for action as appropriate.
+
+
 
 If you're using Internet Explorer 4.0:
 
-1\. Choose View, then  
-2\. Internet Options  
-3\. Click the Advanced tab  
-4\. Scroll down to the yellow exclamation icon under Security and choose one of the three options to regulate your use of cookies
+  1. Choose View, then
+  2. Internet Options
+  3. Click the Advanced tab
+  4. Scroll down to the yellow exclamation icon under Security and choose one of the three options to regolate your use of cookies.
 
-In Internet Explorer 3.0:
 
-You can View, Options, Advanced, then click on the button that says Warn before Accepting Cookies.
+
+If you're using Internet Explorer 3.0:
+
+  1. Choose View, then
+  2. Options
+  3. Click on Advanced
+  4. Click on the button that says Warn before Accepting Cookies.
+
+
 
 If you're using Netscape Communicator 4.0:
 
-On your Task Bar, click:  
-1\. Edit, then  
-2\. Preferences  
-3\. Click on Advanced  
-4\. Set your options in the box that says Cookies 
+  1. Choose Edit, then
+  2. Preferences
+  3. Click on Advanced
+  4. Set your options in the box that says Cookies.
 
-If you're using Netscape 6.0:
 
-On your Task Bar, click:  
-1\. Edit, then  
-2\. Preferences  
-3\. Click on Advanced  
-4\. Click on Cookies  
-5\. Click the View Cookies button
-
-If you're using Internet Explorer 5.0:
-
-1\. Choose Tools, then  
-2\. Internet Options  
-3\. Click the General tab  
-4\. Click Settings  
-5\. View Files
-
-If you're using Internet Explorer 4.0:
-
-On your Task Bar, click  
-1\. View, then  
-2\. Internet Options  
-3\. Under the tab General (the default tab) click  
-4\. Settings View Files
-
-Internet Explorer 3.0:
-
-On your Task Bar, click:  
-1\. View  
-2\. Options  
-3\. Advanced  
-4\. View Files
-
-Netscape Communicator 4.0:
-
-Netscape bundles all cookies into one file on your hard drive. You'll need to find the file, which it calls Cookie.txt on Windows machines. 
 
 Just click on a cookie to open it. You'll see a short string of text and numbers. The numbers are your identification card, which can only be seen by the server that gave you the cookie.
 
-[Download Parental Consent Form](https://web.archive.org/web/20090604050917id_/http%3A//www.guinnessworldrecords.com/corporate/gwr_parental_consent_form.doc)
+[Download Parental Consent Form](https://web.archive.org/web/20100319015102id_/http%3A//www.guinnessworldrecords.com/corporate/gwr_parental_consent_form.doc)
