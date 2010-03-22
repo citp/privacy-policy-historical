@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the smartypig.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510091343id_/http%3A//www.smartypig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartypig.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322235355id_/http%3A//www.smartypig.com/privacy) for the most accurate reproduction.*
 
 # SmartyPig®: Privacy Policy
 
-The _Privacy Policy_ can also be downloaded in [Adobe® PDF](http://www.adobe.com/products/acrobat/readstep2.html) format. Click the link below to save the Privacy Policy to your hard drive.
+The _Privacy Policy_ can also be downloaded in [Adobe® PDF](http://get.adobe.com/reader) format. Click the link below to save the Privacy Policy to your hard drive.
 
-[Download Privacy Policy](https://web.archive.org/PdfDisplay.aspx?Id=9de545c7-c135-de11-b1f6-001a4b338aac) (PDF 78k)
+[Download Privacy Policy](https://web.archive.org/PdfDisplay.aspx?Id=7007a1f2-0be5-4261-9d86-f3d6baa54b01) (PDF 81k)
 
-Last Updated:  April 30, 2009
+Last Updated: November 30, 2009
 
 * * *
 
-[](http://www.truste.org/ivalidate.php?url=www.smartypig.com&sealid=101)
+[](http://www.truste.com/ivalidate.php?url=www.smartypig.com&sealid-101)
 
 #### PRIVACY POLICY
 
 In this disclosure, you'll find details about our privacy policies and procedures, and instructions for changing how information about you may be shared. Please read this carefully, print and/or download a copy for your files.
 
-SmartyPig, LLC is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.smartypig.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+SmartyPig, LLC is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.smartypig.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact SmartyPig Customer Support at 888-567-6278 or email [privacy@smartypig.com](mailto:privacy@smartypig.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact SmartyPig Customer Support at 888-567-6278 or email [privacy@smartypig.com](mailto:privacy@smartypig.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://watchdog.truste.com/pvr.php?page=complaint>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 #### SmartyPig Site Privacy Policy
 
@@ -34,7 +34,7 @@ We want you to make an educated choice, so please read this disclosure carefully
 
 #### Information Collection
 
-We begin by safeguarding the security and integrity of customer information that we collect such as your name, address, financial information, social security number, email address and date of birth. We are committed to protecting the security and integrity of customer information through procedures and technology designed for this purpose. For example:
+We begin by safeguarding the security and integrity of customer information that we collect such as your name, address, financial information, social security number, email address, and date of birth. We are committed to protecting the security and integrity of customer information through procedures and technology designed for this purpose. For example:
 
   * We limit employee access to customer information to those who have a business reason to know this information. Employees are required to honor our code of conduct, which includes standards to protect customer confidentiality. They are subject to disciplinary action if they fail to do so.
   * We maintain policies and procedures covering the proper physical security of workplaces and records.
@@ -54,10 +54,10 @@ We collect and maintain customer information as part of servicing your account a
 
 #### Use of Information That We Collect
 
-Certain areas and features of SmartyPig.com are available to you without registration or the need to provide to us any information. However, there are times in which we do collect personally identifiable information and are listed below:
+Certain areas and features of SmartyPig.com are available to you without registration or the need to provide to us any information. However, there are times in which we do collect personally identifiable information and they are listed below:
 
-  * In order to setup a SmartyPig account and benefit from the full functionality of the site, you must register and in doing so, provide us with the following personally identifiable information; name, residential address, social security number, phone number, gender, birth date and email address. This information is used by SmartyPig to verify your identity and communicate with you regarding the services requested and other account related activities. Once registered you may choose to open a savings goal and fund that goal with a personal funding source. In doing so, you will provide us with the following personally identifiable information; bank routing and account numbers.
-  * In order to contribute funds to a SmartyPig users public savings goal you must provide us with the following personally identifiable information; name, billing address, credit card information, phone number, and email address. This information is used by SmartyPig to process your order.
+  * In order to setup a SmartyPig account and benefit from the full functionality of the site, you must register and in doing so, provide us with the following personally identifiable information; name, residential address, social security number, phone number, gender, birth date and email address. This information is used by SmartyPig to verify your identity and communicate with you regarding the services requested and other account related activities. Once registered you may choose to open a savings goal and fund that goal with a personal funding source. In doing so, you will provide us with the following personally identifiable information: bank routing and account numbers.
+  * In order to contribute funds to a SmartyPig user's public savings goal you must provide us with the following personally identifiable information: name, billing address, credit card information, phone number, and email address. This information is used by SmartyPig to process your order.
   * In order to purchase a SmartyPig gift card you must provide us with the following personally identifiable information; name, billing address, credit card information, phone number, and email address. This information is used by SmartyPig to process your order.
 
 
@@ -66,9 +66,9 @@ Certain areas and features of SmartyPig.com are available to you without registr
 
 Once a user, you may provide additional information about your savings account(s), including what you are saving for, the savings category, if this is a public or private account, how much you wish to save, how much you have saved to date and when you wish to meet your goal.
 
-#### Public Accounts
+#### Sharing Accounts
 
-In order to invite others to contribute to your savings goals, you must designate a savings goal as being "public." By doing so, you can then send e-mails to family members and friends inviting them to contribute to your public savings goal, or family and friends can locate your public savings goal by searching for your goal using your e-mail address. Your e-mail address will not be made public. The names and e-mail addresses of people whom you invite will be used only to send your invitation and reminders. Users can control the amount of information that is displayed on their public savings goal-landing page, but it will not include more than the user's profile image, first name, last name, description of what they are saving for, the total goal amount, the current balance of the savings goal, the percent needed to reach the goal and SmartyPig "friends." All information that you enter or upload about your contacts will be covered by the same terms of this privacy policy.
+In order to invite others to contribute to your savings goals, you must designate a savings goal as being allowed to accept contributions. By doing so, you can then send e-mails to family members and friends inviting them to contribute to your savings goal, or family and friends can locate your savings goal by searching for your goal using your e-mail address. Your e-mail address will not be made public. The names and e-mail addresses of people whom you invite will be used only to send your invitation and reminders. Users can control the amount of information that is displayed on their savings goal-landing page, but it will not include more than the user's profile image, first name, last name, and description of what they are saving for, the total goal amount and their SmartyPig "friends." Users will have the option of displaying the current balance of the savings goal, the percent needed to reach the goal, or neither. All information that you enter or upload about your contacts will be covered by the same terms of this privacy policy.
 
 #### Cookies & Log Files
 
@@ -107,7 +107,7 @@ We collect non-public personal information about you from the following sources:
 
 
 
-We do, however, disclose non-public, personally identifiable information about you to our service providers without your consent to perform the services on SmartyPig.com. We restrict access to non-public personal information about you to those employees on a "need to know" basis only. We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your non-public personal information. We may provide aggregated data about the usage of our services to third parties for such purposes as we deem, in our sole discretion, to be appropriate. We may segment our users by savings category (i.e. electronics, home improvement). However, no non-public personal information about you will be shared.
+We do, however, disclose non-public, personally identifiable information about you to our service providers without your consent to perform the services on SmartyPig.com. We restrict access to non-public personal information about you to those employees on a "need to know" basis only. We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your non-public personal information. We may provide aggregated data about the usage of our services to third parties for such purposes as we deem, in our sole discretion, to be appropriate. We may segment our users by savings category (i.e. electronics, home improvement). However, no non-public personal information about you will be included in this aggregate data.
 
 #### Service Providers
 
@@ -144,7 +144,7 @@ You can review the personal information you provided us and make any desired cha
 
 #### Links to Other Sites
 
-This Web site contains links to other sites that are not owned or controlled by SmartyPig. Please be aware that we, SmartyPig, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site
+This Web site contains links to other sites that are not owned or controlled by SmartyPig. Please be aware that we, SmartyPig, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site.
 
 #### Changes To This Privacy Policy
 
