@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the braveheartwomen.com privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120005818id_/http%3A//www.braveheartwomen.com/customhtml.jspa%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the braveheartwomen.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322201508id_/http%3A//www.braveheartwomen.com/customhtml.jspa%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# privacy: BraveHeart Women
+# Braveheart Women Privacy Policy: BraveHeart Women
 
 **PRIVACY POLCIY**
 
@@ -18,7 +18,7 @@ When you register with BraveHeart Women Global Community you provide us with cer
 
 We may also collect information regarding your interaction with other users and your use of the Site. From time to time we may ask you to respond to surveys or other requests for information and we collect the information you provide. We collect this information so that we can provide you quality services and offer features which will benefit all members of the community
 
-You post User Content (as defined in the [Terms of Use](http://www.facebook.com/terms.php)) on the Site at your own risk. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.
+You post User Content (as defined in the [Terms of Use](http://braveheartwomen.com/customhtml.jspa?page=terms)) on the Site at your own risk. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.
 
 Any improper collection or misuse of information provided on the site is a violation of the BraveHeart Women Terms of Use and should be reported to [info@braveheartwomen.com](http://braveheartwomen.com/Local%20Settings/Temporary%20Internet%20Files/Local%20Settings/Temporary%20Internet%20Files/OLK187/info@braveheartwomen.com)
 
