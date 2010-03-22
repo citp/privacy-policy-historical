@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the megawebpromotion.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418034345id_/http%3A//www.megawebpromotion.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megawebpromotion.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322212652id_/http%3A//megawebpromotion.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# MegaWebPromotion - Qualified Customers Driven To Your Site
+# Website Promotion * Free Traffic * Free URL Submission * Free Website Traffic
 
-|  At MegaWebPromotion.com, we are committed to protecting your privacy. By using our website and purchasing services from us, you agree to be bound by this policy. Should we change our privacy policy, we will post those changes on this page to keep you informed of what information we collect and how we use it. 
+At MegaWebPromotion.com, we are committed to protecting your privacy. By using our website and purchasing services from us, you agree to be bound by this policy. Should we change our privacy policy, we will post those changes on this page to keep you informed of what information we collect and how we use it. 
 
 **Information We Collect and How We Use It**   
 When you visit our website, MegaWebPromotion.com collects your IP address which is used to administer our website and improve the quality of our services. Your IP address is used to gather broad demographic information that does not personally identify you. 
@@ -26,5 +26,4 @@ MegaWebPromotion.com welcomes your questions and comments regarding our privacy 
 
 This Privacy Policy last updated July 01, 2004. 
 
-|   |   
----|---|---
+|   | 
