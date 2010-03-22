@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feng-gui.com privacy policy that was archived on 2009-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090402221920id_/http%3A//www.feng-gui.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feng-gui.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322224300id_/http%3A//www.feng-gui.com/privacy.htm) for the most accurate reproduction.*
 
 # Feng-GUI Privacy Policy
 
@@ -74,10 +74,10 @@ In any case where we provide information access and correction, we perform this 
 
 ### Enforcement
 
-Feng-GUI regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Feng-GUI's treatment of personal information by emailing us at privacy@feng-gui.com  
+Feng-GUI regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Feng-GUI's treatment of personal information by emailing us at info@feng-gui.com  
 When we receive formal written complaints at this address, it is Feng-GUI's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Feng-GUI and an individual. 
 
 ### Changes to this Privacy Policy
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent and we expect that most changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes).   
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us at any time by emailing privacy@feng-gui.com
+If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us at any time by emailing info@feng-gui.com
