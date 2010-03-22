@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the djindexes.com privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028075931id_/http%3A//www.djindexes.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djindexes.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322193213id_/http%3A//www.djindexes.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Dow Jones Indexes | Privacy Policy
 
@@ -6,11 +6,11 @@ Print
 
 Sites Subject to this Privacy Policy
 
-This privacy policy describes how Dow Jones & Company, Inc. and its affiliates ("Dow Jones") will treat the personal information received about you when you visit averages.dowjones.com, djaverages.com, djindexes.com and djhedgefundindexes.com (hereafter referred to collectively as the "Services"). Information you provide to us through any other means is not covered by this policy.
+This privacy policy describes how CME Group Index Services, LLC and its affiliates ("CME Indexes") will treat the personal information received about you when you visit averages.dowjones.com, djaverages.com, djindexes.com and djhedgefundindexes.com (hereafter referred to collectively as the "Services"). Information you provide to us through any other means is not covered by this policy.
 
 Links to Other Web Sites
 
-Dow Jones publishes other web sites that have separate privacy policies and may be accessible via links on the Services. The Services also offer features, such as services to create charts and graphs and access to third-party publications that are provided by third parties through links located on the Services. These third-party sites, some of which are co-branded with Dow Jones, also have their own privacy policies. Please remember that when you visit these other web sites, even the affiliated and co-branded sites, this privacy policy does not apply.
+CME Indexes publishes other web sites that have separate privacy policies and may be accessible via links on the Services. The Services also offer features, such as services to create charts and graphs and access to third-party publications that are provided by third parties through links located on the Services. These third-party sites, some of which are co-branded, also have their own privacy policies. Please remember that when you visit these other web sites, even the affiliated and co-branded sites, this privacy policy does not apply.
 
 Information We Collect
 
@@ -41,17 +41,17 @@ We may disclose and use personally identifiable information in special circumsta
 
 Your Ability to Choose
 
-You can let us know that you do not wish to receive information about special offers and new products and features from Dow Jones Indexes, or to have us share your personal information with third parties whose products or services we think may interest you by opting out at the time you give us your personally identifiable information or by contacting us as follows:
+You can let us know that you do not wish to receive information about special offers and new products and features from CME Indexes, or to have us share your personal information with third parties whose products or services we think may interest you by opting out at the time you give us your personally identifiable information or by contacting us as follows:
 
-  * Contact us by e-mail at [djiregister@dowjones.com](mailto:djiregister@dowjones.com) or by postal mail at Dow Jones Indexes, Attn: Karen Polefka, P.O. Box 300, Princeton, NJ 08543-0300.
+  * Contact us by e-mail at [dowjonesindexes@dowjones.com](mailto:dowjonesindexes@dowjones.com) or by postal mail at CME Group Index Services, LLC, P.O. Box 300, Princeton, NJ 08543-0300.
 
 
 
 Review and Correction
 
-If you would like to review or update any personally identifiable information that Dow Jones Indexes may have about you, you may do so by contacting us as follows:
+If you would like to review or update any personally identifiable information that CME Group Index Services, LLC may have about you, you may do so by contacting us as follows:
 
-  * Contact us by e-mail at [djiregister@dowjones.com](mailto:djiregister@dowjones.com) or by postal mail at Dow Jones Indexes, Attn: Karen Polefka, P.O. Box 300, Princeton, NJ 08543-0300.
+  * Contact us by e-mail at [dowjonesindexes@dowjones.com](mailto:dowjonesindexes@dowjones.com) or by postal mail at CME Group Index Services, LLC, P.O. Box 300, Princeton, NJ 08543-0300.
 
 
 
@@ -67,7 +67,7 @@ The personally identifiable information we collect about you is stored in limite
 
 Transfer to U.S. or Other Countries
 
-Your information may be stored and processed in the United States or any other country where Dow Jones has facilities, and by using the Services, you consent to the transfer of information outside of your country.
+Your information may be stored and processed in the United States or any other country where CME Indexes has facilities, and by using the Services, you consent to the transfer of information outside of your country.
 
 Policy Modifications
 
@@ -75,6 +75,6 @@ When we make any material change to this Privacy Policy, we will inform you by p
 
 Questions, Comments and Concerns
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us by e-mail at djiregister@dowjones.com or by postal mail at Dow Jones Indexes, Attn: Karen Polefka, P.O. Box 300, Princeton, NJ 08543-0300.
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us by e-mail at djiregister@dowjones.com or by postal mail at CME Group Index Services, LLC, Attn: Susan Pellegrino, P.O. Box 300, Princeton, NJ 08543-0300.
 
-This policy was last updated on April 9, 2007.
+This policy was last updated on March 18, 2010.
