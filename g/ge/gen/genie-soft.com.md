@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genie-soft.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230085546id_/http%3A//www.genie-soft.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genie-soft.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322235557id_/http%3A//www.genie-soft.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Genie-Soft Backup Solutions - Privacy Statement
 
@@ -44,7 +44,7 @@ Stay informed |  
   
 Subscribe to our **"What's New?"** newsletter and get all the latest updates about our products, new releases and offers.
 
-[Subscribe Now](https://web.archive.org/web/20091230085546id_/http%3A//www.genie-soft.com/community/newsletter.asp)
+[Subscribe Now](https://web.archive.org/web/20100322235557id_/http%3A//www.genie-soft.com/community/newsletter.asp)
 
 |    
   |    
