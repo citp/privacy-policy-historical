@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cracked.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418022810id_/http%3A//www.cracked.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cracked.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322195405id_/http%3A//www.cracked.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Cracked.com
 
-This Privacy and Information Security Policy ("this Policy") discusses the personally identifying information ("PII") that we collect about you when you use our website http://www.cracked.com.com/ (the “Site”) and the software, games and other services we provide on or through the Site (together with the Site, the “Service”). 
+This Privacy and Information Security Policy ("this Policy") discusses the personally identifying information ("PII") that we collect about you when you use our website http://www.cracked.com.com/ (the "Site") and the software, games and other services we provide on or through the Site (together with the Site, the "Service"). 
 
-Who We Are. We are [DEMAND ENTITY] ("Cracked.com," "Cracked.com.com," "Site,""Service,” "we," "us," or "our"). Cracked.com.com is a popular place to access hundreds of great articles and videos, post content and to share ideas with others. In conducting our business, as further described below, we collect information, including PII, about the individuals who use the Service. 
+Who We Are. We are [DEMAND ENTITY] ("Cracked.com," "Cracked.com.com," "Site,""Service," "we," "us," or "our"). Cracked.com.com is a popular place to access hundreds of great articles and videos, post content and to share ideas with others. In conducting our business, as further described below, we collect information, including PII, about the individuals who use the Service. 
 
-This Policy and the Terms of Use. This Policy is part of and incorporated into the Cracked.com Terms of Use [INSERT LINK] (collectively, the “Terms”). 
+This Policy and the Terms of Use. This Policy is part of and incorporated into the Cracked.com Terms of Use [INSERT LINK] (collectively, the "Terms"). 
 
 BY PROVIDING PII OR OTHER INFORMATION TO US OR BY USING OUR SERVICE, YOU AGREE TO THIS POLICY AND THE PRACTICES DESCRIBED IN THE POLICY. 
 
@@ -22,7 +22,7 @@ We collect any information you enter on the Service or give us in any other way 
 
 _Information in Public Areas of the Site._
 
-Please keep in mind that whenever you voluntarily provide information in public areas of the Service, such as the user profile pages or forums, that information can be viewed and possibly used by others. We therefore advise visitors not to disclose contact information, including phone number, email address, street address or instant messenger address (within these public areas) that they do not wish to share. We are not responsible for PII you choose to submit in these public areas. Also, we may highlight content you post to the public areas of the Service such as reviews or comments, such as by featuring your content on the Site’s home page.
+Please keep in mind that whenever you voluntarily provide information in public areas of the Service, such as the user profile pages or forums, that information can be viewed and possibly used by others. We therefore advise visitors not to disclose contact information, including phone number, email address, street address or instant messenger address (within these public areas) that they do not wish to share. We are not responsible for PII you choose to submit in these public areas. Also, we may highlight content you post to the public areas of the Service such as reviews or comments, such as by featuring your content on the Site's home page.
 
 2\. AUTOMATIC INFORMATION COLLECTION
 
@@ -50,7 +50,7 @@ _Pixel Tags_
 
 _Collection of Information by Third Parties_
 
-. Some of the advertisers and other businesses that advertise or place other content our Site use cookies on our Site and may place a cookie on your computer. The content posted by these businesses will be identified as coming from a third party. In addition, we use third-party advertising companies to serve ads. These companies (1) use information obtained from your visits to this Site and other sites to serve ads to you and (2) place unique third-party cookies on your browser. Also, we use Web beacons provided by third-party advertising companies to help optimize our advertising. Web beacons enable us to recognize your browser when a cookie has been placed on your computer. Some but not all third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please [click here: http://www.networkadvertising.org/consumer/opt_out.asp](http://www.networkadvertising.org/consumer/opt_out.asp). The information collected by third party cookies is subject to the privacy policy of the third party, not Cracked.com’s privacy policy. 
+. Some of the advertisers and other businesses that advertise or place other content our Site use cookies on our Site and may place a cookie on your computer. The content posted by these businesses will be identified as coming from a third party. In addition, we use third-party advertising companies to serve ads. These companies (1) use information obtained from your visits to this Site and other sites to serve ads to you and (2) place unique third-party cookies on your browser. Also, we use Web beacons provided by third-party advertising companies to help optimize our advertising. Web beacons enable us to recognize your browser when a cookie has been placed on your computer. Some but not all third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please [click here: http://www.networkadvertising.org/consumer/opt_out.asp](http://www.networkadvertising.org/consumer/opt_out.asp). The information collected by third party cookies is subject to the privacy policy of the third party, not Cracked.com's privacy policy. 
 
 2.4
 
@@ -58,7 +58,7 @@ _Promotions, Sweepstakes, and Contests_
 
 . From time to time, we may host a promotion, sweepstake or contest on the Service. You may be asked to provide personal information or permit the transfer to a third party of your personal information in connection with such promotion, sweepstake or contest. It will be disclosed at the point of collection or transfer who is collecting or transferring the information and whose privacy statement applies, and it will be your choice whether or not you wish to permit such transfer to or collection of personal information by a third party. 
 
-3\. CRACKED.COM’S USE AND RETENTION OF YOUR INFORMATION
+3\. CRACKED.COM'S USE AND RETENTION OF YOUR INFORMATION
 
 3.1
 
@@ -78,7 +78,7 @@ _Retention of Information_
 
 . We retain information for as long as required, allowed or we believe it useful, but do not undertake retention obligations. We may dispose of information in our discretion without notice, subject to applicable law that specifically requires the handling or retention of information. You must keep your own, separate back-up records.
 
-4\. CRACKED.COM’S SHARING OF INFORMATION
+4\. CRACKED.COM'S SHARING OF INFORMATION
 
 Cracked.com shares information with third parties, but only as described in this Section 4.
 
