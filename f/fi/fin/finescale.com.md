@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the finescale.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424124807id_/http%3A//corporate.kalmbach.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finescale.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322231307id_/http%3A//corporate.kalmbach.com/privacy) for the most accurate reproduction.*
 
-# Kalmbach Publishing Co. - Hobby, craft, leisure time magazines, books, events, shows - Kalmbach Publishing Co. Privacy Policy
-
-Last modified: June 19, 2008.
+# Kalmbach Publishing Co. - Kalmbach Publishing Co Privacy Policy
 
 Kalmbach Publishing Co. is committed to providing service that exceeds expectations while treating all customers as VIPs. This includes maintaining your privacy and that of the members of your family, when it comes to use of any "personally identifiable information" you may voluntarily provide us via the Internet or otherwise.
 
@@ -10,47 +8,39 @@ We believe it is important to explain our information gathering practices and th
 
 This explanation of our privacy policy answers the following questions:
 
-* How and what kinds of information does Kalmbach and its affiliated entities collect? 
-  
+  * How and what kinds of information does Kalmbach and its affiliated entities collect?   
 
-* How is this information used?
-  
+  * How is this information used?  
 
-* What can customers do to retain their privacy? 
-  
+  * What can customers do to retain their privacy?   
 
-* What special policies, precautions and safeguards are employed with regard to children? 
+  * What special policies, precautions and safeguards are employed with regard to children?   
 
-**Gathering Information**  
+
+****
+
+**  
+Gathering Information**  
 Kalmbach Publishing Co. is the publisher of the following magazines and web sites: American Snowmobiler, Astronomy, Art Jewelry, Bead&Button, BeadStyle, Birder's World, Classic Toy Trains, Classic Trains, FineScale Modeler, Garden Railways, Model Railroader, Model Retailer, Scale Auto, Trains, and The Writer.
 
 Kalmbach Publishing Co. is also the host for:
 
   
 
-  * [www.beadandbuttonshow.com ](http://www.beadandbuttonshow.com/)
-  
+  * [www.beadandbuttonshow.com ](http://www.beadandbuttonshow.com/)  
 
-  * [Bead&Button Show Online Registration ](http://store.yahoo.com/beadandbuttonshow/)
-  
+  * [Bead&Button Show Online Registration ](http://store.yahoo.com/beadandbuttonshow/)  
 
-  * [www.beadshopfinder.com ](http://www.beadshopfinder.com/)
-  
+  * [www.beadshopfinder.com ](http://www.beadshopfinder.com/)  
 
-  * [www.hobbyretailer.com ](http://www.hobbyretailer.com/)
-  
+  * [www.hobbyretailer.com ](http://www.hobbyretailer.com/)  
 
-  * [Kalmbach Online Catalog ](http://store.yahoo.net/kalmbachcatalog/)
-  
+  * [Kalmbach Online Catalog ](http://www.kalmbachstore.com/)  
 
-  * [Bead, Jewelry and Crafts Store](http://www.beadandcraftbooks.com/)
-  
+  * [Model Train Magazine Index ](http://index.mrmag.com/)  
 
-  * [Model Train Magazine Index ](http://index.mrmag.com/)
-  
+  * [Trade Sales & Service - B2B ](http://retailers.kalmbach.com/)  
 
-  * [Trade Sales & Service - B2B ](http://retailers.kalmbach.com/)
-  
 
 
 
@@ -70,7 +60,7 @@ If you subscribe to one or more of our magazines, you will also receive a notice
  **Maintaining Your Personal Privacy**  
 At the time you volunteer personally identifiable information and at anytime thereafter, you can direct us not to use this information for promotional or informational mailings. At your option, you may also elect to suppress the mailing of renewal notices for any of our magazines. If you do so, your personally identifiable information will be flagged in our system as "do not promote" to correspond with your request, and you will be excluded from the related Kalmbach mailings. You can also elect separately to be excluded from mailings by any third party to whom your address might otherwise be provided. Simply let us know, and we'll be happy to tailor things according to the degree of privacy you may choose!
 
-You can, at any time, send such directions to our Customer Service Department at Kalmbach Publishing Co., P.O. Box 1612, Waukesha WI 53187-1612, or simply contact us at [customerservice@kalmbach.com](mailto:customerservice@kalmbach.com) or [webmaster@kalmbach.com](mailto:webmaster@kalmbach.com). Customer Service can also be reached by calling toll-free, 800-533-6644, 8:30am - 5:00pm Central Time, Monday - Friday. Outside the US and Canada, call 262-796-8776. The fax number is 262-796-1615.
+You can, at any time, send such directions to our Customer Service Department at Kalmbach Publishing Co., P.O. Box 1612, Waukesha WI 53187-1612, or simply contact us at [customerservice@kalmbach.com](mailto:customerservice@kalmbach.com) or [webmaster@kalmbach.com](mailto:webmaster@kalmbach.com). Customer Service can also be reached by calling toll-free, 800-533-6644, 8:30am - 4:30pm Central Time, Monday - Friday. Outside the US and Canada, call 262-796-8776. The fax number is 262-796-1615.
 
 There are also national clearinghouse organizations and governmental entities where you can register to suppress unwanted solicitations. The most prominent of these is the Direct Marketing Association (DMA), of which Kalmbach Publishing Co. is a member. The DMA provides mail, e-mail and telephone data base "preference services" free of charge to consumers who wish to block all unsolicited direct mail, e-mail and telemarketing contacts, respectively. For more information, visit DMA's web site at [www.the-dma.org](http://www.the-dma.org/), or contact them at (202) 955-5030.
 
@@ -93,6 +83,3 @@ Waukesha, WI 53187-1612
 800-533-6644 (US & Canada)  
 262-796-8776  
 262-796-1615 (fax) 
-
-|   
----|---
