@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikestore.com.au privacy policy that was archived on 2009-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091117020847id_/http%3A//www.nikestore.com.au/www/585/1001127/displayarticle/1001357.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikestore.com.au privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322221137id_/http%3A//www.nikestore.com.au/www/585/1001127/displayarticle/1001357.html) for the most accurate reproduction.*
 
 # Privacy Policy - Nikestore.com.au – Nike Australia’s Official Online Store
 
