@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nypost.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108044138id_/http%3A//www.nypost.com/p/static/privacy_policy_PlyzvkFUzwURLgq0xv11cN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nypost.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322222742id_/http%3A//www.nypost.com/p/static/item_PlyzvkFUzwURLgq0xv11cN) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - NYPOST.com
 
 _Effective as of June 21, 2006_
 
