@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the quickheal.co.in privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418045004id_/http%3A//www.quickheal.co.in/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickheal.co.in privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322222101id_/http%3A//www.quickheal.co.in/privacy-policy.asp) for the most accurate reproduction.*
 
 # Quick Heal
 
-| › | [About Us ](https://web.archive.org/web/20090418045004id_/http%3A//www.quickheal.co.in/about.asp)  
+| › | [About Us ](https://web.archive.org/web/20100322222101id_/http%3A//www.quickheal.co.in/about.asp)  
 ---|---  
 |   
-› | [Contact](https://web.archive.org/web/20090418045004id_/http%3A//www.quickheal.co.in/contact.asp)  
+› | [Contact](https://web.archive.org/web/20100322222101id_/http%3A//www.quickheal.co.in/contact.asp)  
 |   
-› | [Sitemap ](https://web.archive.org/web/20090418045004id_/http%3A//www.quickheal.co.in/sitemap.asp)  
+› | [Sitemap ](https://web.archive.org/web/20100322222101id_/http%3A//www.quickheal.co.in/sitemap.asp)  
 |   
   |    
   | 
@@ -60,7 +60,7 @@ If you have any questions or comments, please contact us:
 
 | 
 
-Global Support Centre
+International Support Centre
 
 |   |    
 ---|---|---  
@@ -68,23 +68,23 @@ Global Support Centre
 | :  |  Quick Heal Technologies (P) Ltd.  
   
  | Address  
-| :  |  Office No. 201, Sunrise Apartment,   
- |  |  |  775/3, Ketkar Path,  
- |  |  |  Opposite Kamala Nehru Park  
+| :  |  Office No. 101, Shree Sai Narayan Apartment,  
+ |  |  |  Ganjave Chowk, Navi Peth,  
+ |  |  |  Opposite Patrakar Bhavan, LBS Road  
  |  City  
 | :  |  Pune  
  |  Pincode  
-| :  |  411004  
+| :  |  411030  
  |  State  
 | :  |  Maharashtra  
  |  Country  
 | :  |  India  
  |  Phone  
-| :  |  +91-020-65223883/65223892/64004453  
+| :  |  +91-0253-3041888  
  |  Toll Free Number  
 | :  |  1800-233-3733 (For Indian Users having BSNL/MTNL/Reliance landline connection.)  
  |  Fax  
-| :  |  +91-020-25663632  
+| :  |  +91-020-41402805  
  |  Email  
 | :  |  [ support@quickheal.com](mailto:support@quickheal.com)  
  |  Website  
