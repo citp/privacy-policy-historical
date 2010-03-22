@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217220926id_/http%3A//transport.qld.gov.au/Footer/web_footer_20-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322235906id_/http%3A//www.transport.qld.gov.au/Footer/web_footer_20-Privacy) for the most accurate reproduction.*
 
 # Privacy and security
 
@@ -49,4 +49,4 @@ If you have any queries about our privacy and security practices, please contact
 
 [](http://www.adobe.com/products/acrobat/readstep2.html)**While this department has taken every possible precaution with the creation of these files, they are downloaded and used at your own risk. Adobe Reader is needed to open and print Portable Document Format (PDF) files and is free to download from <http://www.adobe.com/products/acrobat/readstep2.html>. Various tools to enable access to these files for people using a screen reader can be found at [http://access.adobe.com](http://access.adobe.com/). Further information is available from the "[Help with downloading, reading and printing PDF](http://www.transport.qld.gov.au/Utilities/Help/)".
 
-Last updated 24 September 2009
+Last updated 31 January 2010
