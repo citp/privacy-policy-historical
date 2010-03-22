@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pps.org privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118224133id_/http%3A//www.pps.org/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pps.org privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322191809id_/http%3A//www.pps.org/policy.htm) for the most accurate reproduction.*
 
 # Project for Public Spaces Refund Policy
 
