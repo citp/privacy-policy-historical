@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otherinbox.com privacy policy that was archived on 2009-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090829165757id_/http%3A//www.otherinbox.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otherinbox.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322235433id_/http%3A//www.otherinbox.com/privacy.html) for the most accurate reproduction.*
 
 # OtherInbox - The cure for email overload™
 
@@ -46,7 +46,7 @@ OtherInbox may amend this policy at any time. If OtherInbox is going to use pers
 
 #### Contacts
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this web site, you can contact [privacy@otherinbox.com](mailto:privacy@otherinbox.com). Upon request, OtherInbox will provide you with access to information (e.g., name, address, phone number) that OtherInbox collects and maintains about you. This site gives you the following options for changing and modifying information previously provided: (i) email: [privacy@otherinbox.com](mailto:privacy@otherinbox.com); or (ii) visit [www.otherinbox.com](https://web.archive.org/web/20090829165757id_/http%3A//www.otherinbox.com/%3Cmt:BlogURL%3E). There you can also log into your account to update your contact information.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this web site, you can contact [privacy@otherinbox.com](mailto:privacy@otherinbox.com). Upon request, OtherInbox will provide you with access to information (e.g., name, address, phone number) that OtherInbox collects and maintains about you. This site gives you the following options for changing and modifying information previously provided: (i) email: [privacy@otherinbox.com](mailto:privacy@otherinbox.com); or (ii) visit [www.otherinbox.com](http://www.otherinbox.com/). There you can also log into your account to update your contact information.
 
 #### Opt-Out
 
