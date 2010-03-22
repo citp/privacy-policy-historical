@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printable-grocery-coupon.com privacy policy that was archived on 2009-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090326075900id_/http%3A//printable-grocery-coupon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printable-grocery-coupon.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322223456id_/http%3A//printable-grocery-coupon.com/privacy.html) for the most accurate reproduction.*
 
 # Printable-Grocery-Coupon.com - Privacy Policy
 
