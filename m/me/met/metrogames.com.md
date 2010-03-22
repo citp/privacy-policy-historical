@@ -1,0 +1,93 @@
+> *The following text is extracted and transformed from the metrogames.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322194518id_/http%3A//www.metrogames.com/privacy) for the most accurate reproduction.*
+
+# Privacy - MetroGames
+
+Metrogames Privacy Policy aims at informing the User the way in which Metrogames collects and uses the personal information that the User decides to share. Metrogames Privacy Policy will help the User make informed decisions when using Metrogames, located at www.metrogames.com and its directly associated domains.
+
+By using or accessing Metrogames, Users accept the practices described in this Privacy Policy. This privacy statement covers the site www.metrogames.com and its directly associated domains. 
+
+### Information collection and use
+
+When Users visit Metrogames, they basically provide us with two types of information: personal information that Users consciously choose to disclose and that is collected by Metrogames and Web Site use information, which is also collected by Metrogames as Users interact with our Web Site.
+
+When Users register in Metrogames, they provide us with certain personal information, such as their names, email addresses, telephone numbers, addresses, gender, schools attended and any other personal or preference information that they provide to us.
+
+When Users enter Metrogames, we collect their browser type and IP address. This information is gathered for all Metrogames visitors. In addition, Metrogames stores certain information from Users’ browser using "cookies." A cookie is a piece of data stored on the User's computer tied to information about the User. We use session ID cookies to confirm that Users are logged in, and these cookies expire once the User closes the browser. By default, Metrogames uses a persistent cookie that stores Users’ login ID (but not their password) to make it easier for Users to login when they come back to Metrogames. Users can remove or block this cookie using the settings in their browser if they want to disable this convenience feature. When using Metrogames, Users may set up their personal profile, form relationships, send messages, play games, perform searches and queries, and transmit information through various channels. Metrogames collects this information so that we can provide you the service and offer personalized features. In most cases, Metrogames retains it so that Users can, for instance, return to view prior messages they have already sent or they can easily see their friend list.
+
+It is important that Users know that they post User Content (as defined in Metrogames Terms of Service) on the Site at their own risk. Although we allow Users to set privacy options that limit access to their pages, Users must be aware that no security measures are perfect or impenetrable. Metrogames cannot control the actions of other Users with whom Users may choose to share their pages and information. Therefore, Metrogames cannot and does not guarantee that the User Content that Users’ posts on the Site will not be viewed by unauthorized persons. Metrogames is not responsible for circumvention of any privacy settings or security measures contained on the Site. The User understands and acknowledges that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored his or her User Content.
+
+Any improper collection or misuse of information provided on Metrogames is a violation of the Metrogames Terms of Service and should be reported.
+
+If a User chooses to use Metrogames invitation service to tell a friend about our site, we will ask the User for information needed to send the invitation, such as their friend's email address. We will send an email or instant message to the User’s friend on behalf of the User inviting him or her to visit the site, and we may send up to two reminders to them. Metrogames stores this information to send invitations and reminders, to register a friend connection if the User’s invitation is accepted, to allow Users to see invitations they have sent, and to track the success of our referral program. Any User’s friend may contact us to request that we remove this information from our database.
+
+Metrogames may also collect information about the User from other sources, such as newspapers, blogs, instant messaging services, and other users of the Metrogames service through the operation of the service (e.g., photo tags) in order to provide the User with more useful information and a more personalized experience.
+
+By using Metrogames, Users are consenting to have their personal data transferred to and processed in any Country of the World. 
+
+### Children
+
+Metrogames does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. No person under 13 should attempt to register in Metrogames or send any information about them to us, including, without limitation, their name, address, telephone number, or email address. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, Metrogames will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us through our help page.
+
+Metrogames recommends that minors of 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet.
+
+When Users register in Metrogames, they create their own profile and privacy settings. The User’s profile information, as well as his or her name, email and photo, are displayed to people in the networks specified in the User’s privacy settings to enable him or her to connect with people on Metrogames. Metrogames may occasionally use the User’s name and email address to send him or her notifications regarding new services offered by Metrogames that we think Users may find valuable.
+
+The profile information is used by Metrogames primarily to be presented back to and edited by Users when they access the service and to be presented to others permitted to view that information by the User’s privacy settings. In some cases where the User’s privacy settings permit it (e.g., posting to their wall), other Metrogames users may be able to supplement the User’s profile.
+
+The Profile information that Users submit to Metrogames will be available to other Users of Metrogames who belong to at least one of the networks that Users, through their privacy settings, allow them to access information (e.g., school, geography, friends of friends). The User name and profile picture thumbnail will be available in search results across the Metrogames network and those limited pieces of information may be made available to third party search engines.
+
+Metrogames may send you service-related announcements from time to time through the general operation of the service.
+
+Users may opt out of such emails from the Notifications page, though Metrogames reserves the right to send notices about the User’s account even if Users opt out of all voluntary email notifications.
+
+Metrogames may use information in the User’s profile without identifying him or her as an individual to third parties. We do this primarily for personalizing advertisements and promotions. We regard this as a benefit for the User.
+
+We may use information about Users that we collect from other sources, including but not limited to newspapers and Internet sources such as blogs, instant messaging services, and other users of Metrogames, to supplement the User’s profile. 
+
+### Information sharing
+
+Metrogames allows you to choose the information you provide to friends and networks through our site. Our network architecture and your privacy settings allow you to make informed choices about the people who have access to your information. Under no circumstances does Metrogames provide contact information to third party marketers without the User’s permission (except in the cases described below).
+
+The only limited circumstances in which Metrogames shares the User’s information with third parties is in cases where we believe such sharing is 1) reasonably necessary to offer the service, 2) legally required or, 3) permitted by the User. For example: 
+
+  * Metrogames may provide information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as to host the service at a co-location facility for servers, to send out email updates about Metrogames, to remove repetitive information from our user lists, to process payments for products or services, to offer an online job application process, or to provide search results or links (including sponsored links). In connection with these offerings and business operations, our service providers may have access to the User’s personal information for use for a limited time in connection with these business activities. Where we utilize third parties for the processing of any personal information, we implement reasonable contractual and technical protections limiting the use of that information to the purposes specified for Metrogames.
+  * The User’s Feed and Wall may aggregate the information provided and make it available to the User’s friends and network members based on the User’s privacy settings. Users may set their preferences for their News Feed and Wall on their Privacy Settings page.
+  * Metrogames limits access to site information by third party search engine "crawlers" (e.g. Google, Yahoo, MSN, Ask). Metrogames takes action to block access by these engines to personal information beyond the User’s name, profile picture, and limited aggregated data about his or her profile (e.g. number of wall postings).
+  * If any User, User’s friend or members of the User’s network use any third-party games developed using the Metrogames Platform (hereafter referred as “Platform Games"), those Platform Games may access and share certain information about the User with others in accordance with the User’s privacy settings. Users may opt-out of any sharing of certain or all information through Platform Games on the Privacy Settings page. In addition, third party developers who have created and operate Platform Games (hereafter referred as "Platform Developers"), may also have access to the User’s personal information (excluding contact information) if the User permits Platform Games to access his or her data. Before allowing any Platform Developer to make any Platform Game available to the User, Metrogames requires the Platform Developer to enter into an agreement which requires them to respect the User’s privacy settings and strictly limits the collection, use, and storage of the User’s information. Notwithstanding what was previously stated, Metrogames cannot and does not guarantee that all Platform Developers will abide by such agreements. Some Platform Developers may require the User to sign up to their own terms of service, privacy policies or other policies, which may give them additional rights or impose additional obligations on the User. Therefore, the User must review these terms and policies carefully before using any Platform Game.
+  * Metrogames may be required to disclose User information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. Metrogames does not reveal information until we have a good faith belief that an information request by law enforcement or private litigants meets applicable legal standards. Metrogames may share account or other information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the Metrogames service or using our name, or to prevent imminent bodily harm. This may include sharing information with other companies, lawyers, agents or government agencies.
+  * Metrogames lets you choose to share information with marketers or electronic commerce providers through on-site offers. 
+  * Demonstration accounts, which allow non-users a glimpse into the Metrogames world, have only limited capabilities (e.g., messaging is disabled) and passwords are changed regularly to limit possible misuse.
+  * Metrogames may offer stores or provide services jointly with other companies on the site.
+  * If the ownership of all or substantially all of the Metrogames business, or individual business units owned by Metrogames were to change, your User information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the promises made in any pre-existing Privacy Policy.
+
+
+
+When using Metrogames, certain information Users post or share with third parties (e.g., a friend or other player), such as personal information, comments, messages, photos, videos, Marketplace listings or other information, may be shared with other Users in accordance with the privacy settings the User has selected. All such sharing of information is done at the User’s own risk. Users must keep in mind that when they disclose personal information in their profile or when posting comments, messages, photos, videos, Marketplace listings or other items, this information may become publicly available. 
+
+### External links
+
+Metrogames may contain links to other websites. Metrogames is not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by Metrogames.
+
+### Third Party Advertisements
+
+Some advertisements that appeared on Metrogames are sometimes delivered (or "served") directly to users by third party advertisers who automatically receive your IP address when this happens. These third party advertisers may also download cookies to the User’s computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize the User’s computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about which advertisements are clicked. Metrogames does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to the User’s contact information stored on Metrogames unless the User chooses to share it with them.
+
+This privacy policy covers the use of cookies by Metrogames and does not cover the use of cookies or other tracking technologies by any of its advertisers. 
+
+### Editing information
+
+Access and control over most personal information on Metrogames is readily available through the profile editing tools. Metrogames users may modify or delete any of their profile information at any time by logging into their account. Information will be updated immediately. Individuals who wish to deactivate their Metrogames account may do so on the My Account page. Removed information may persist in backup copies for a reasonable period of time but will not be generally available to members of Metrogames.
+
+However, where you make use of the communication features of the service to share information with other individuals on Metrogames (e.g., sending a personal message to another Metrogames User), you generally cannot remove such communications. 
+
+### Security policy
+
+Metrogames takes appropriate precautions to protect our Users’ information. Users account information is located on a secured server behind a firewall. When Users enter sensitive information (such as credit card number or password), we encrypt that information using secure socket layer technology (SSL). (To learn more about SSL, go to http://en.wikipedia.org/wiki/Secure_Sockets_Layer). Since email and instant messaging are not recognized as secure communications, we request that Users do not send private information to us by email or instant messaging services. If you have any questions about the security of Metrogames, please contact us through the Help Center.
+
+### Terms of Service
+
+Your use of Metrogames, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Service and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. Metrogames reserves the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site.
+
+### Changes and Notices
+
+If any changes are made to this Privacy Policy, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify them here, by email, or through notice on our home page. We encourage Users to refer to this Policy on an on-going basis so that they understand our current Privacy Policy. Unless stated otherwise, our current Privacy Policy applies to all information that we have about Users and their accounts.
