@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiajam.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430112009id_/http%3A//www.asiajam.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiajam.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322202104id_/http%3A//www.asiajam.com/catalog/privacy.php) for the most accurate reproduction.*
 
 # AsiaJam.com Fashion Boutique
 
@@ -8,11 +8,11 @@
 |   
 ---  
   
-[](http://www.asiajam.com/catalog/product_info.php/products_id/2241)
+[](http://www.asiajam.com/catalog/product_info.php/products_id/20)
 
-Comfy & Stylish Outdoor Tunic Top
+Ankle Length Lace Leggings
 
-$26.00  
+$9.90  
   
 Privacy Policy
 
