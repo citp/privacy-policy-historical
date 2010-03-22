@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orvis.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114090351id_/http%3A//www.orvis.com/intro.aspx%3Fsubject%3D107) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orvis.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322192453id_/http%3A//www.orvis.com/intro.aspx%3Fsubject%3D107) for the most accurate reproduction.*
 
 # Orvis Privacy Policy
 
@@ -83,7 +83,7 @@ b. Third Parties
 
 i. Postal Mailing Partners 
 
-From time to time, we make our postal mailing list (names and postal addresses only) available to carefully screened companies whose products we believe will be of interest to you. If you prefer that we do not share any information with these companies, [complete the following form.](https://web.archive.org/intro.aspx?dir_id=2204&subject=6085)
+From time to time, we make our postal mailing list (names and postal addresses only) available to carefully screened companies whose products we believe will be of interest to you. If you prefer that we do not share any information with these companies, [complete the following form.](https://web.archive.org/intro.aspx?subject=6085)
 
 You may also make this request by mail by writing us at the following address:
 
