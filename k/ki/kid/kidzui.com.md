@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidzui.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216211057id_/http%3A//www.kidzui.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzui.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323201909id_/http%3A//www.kidzui.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - KidZui
 
@@ -61,7 +61,7 @@ Parent access to information - Parents can review information that has been coll
 
 
 
-Zuigames Copyright - We believe we have taken the necessary steps to obtain licensing for all the games posted. If you believe that your copyrightable work is being displayed on this site and is violating copyright regulations – please advise us immediately at [contact@kidzui.com](mailto:contact@kidzui.com) and the game will be immediately removed.
+Zuigames Copyright - We believe we have taken the necessary steps to obtain licensing for all the games posted. If you believe that your copyrightable work is being displayed on this site and is violating copyright regulations – please advise us immediately at [support@kidzui.com](mailto:support@kidzui.com) and the game will be immediately removed.
 
 Modifications to this policy - If KidZui, Inc. makes modifications or changes to this privacy policy, we will notify parents via email.
 
