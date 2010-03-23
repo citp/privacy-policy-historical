@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatepanic.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218210159id_/http%3A//www.templatepanic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatepanic.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323131549id_/http%3A//www.templatepanic.com/privacy-policy) for the most accurate reproduction.*
 
 # TemplatePanic.com » Privacy Policy | Wordpress Themes And Web Development
 
