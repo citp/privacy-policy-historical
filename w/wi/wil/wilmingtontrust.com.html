@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the wilmingtontrust.com privacy policy that was archived on 2009-04-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090419132947id_/http%3A//www.wilmingtontrust.com/wtcom/index.jsp%3Fsection%3DPrivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wilmingtontrust.com privacy policy that was archived on 2010-03-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100323042724id_/http%3A//www.wilmingtontrust.com/wtcom/index.jsp%3Fsection%3DPrivacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="dj_webkit dj_contentbox"><head>
     <link rel="stylesheet" type="text/css" href="/repositories/wtc_css/layout.css">
     <link rel="stylesheet" type="text/css" href="/repositories/wtc_css/styles.css">
     <script language="javascript" src="/wtcom/js/render.js"></script>
@@ -25,6 +25,39 @@
 	<script type="text/javascript">
   	var logged_in = "false";
   </script>
+  <script>
+      var djConfig={ parseOnLoad: true};
+  </script>
+  <script type="text/javascript" src="/repositories/dojo/dojorelease130/dojo/dojo.js" djconfig="parseOnLoad:true, isDebug:false"></script>
+  <script type="text/javascript" src="/repositories/dojo/dojorelease130/dijit/dijit.js"></script>
+  <script type="text/javascript" src="/repositories/dojo/autofill/AutoComplete.js"></script>
+  <script type="text/javascript" src="/repositories/dojo/json2.js"></script>
+  <script type="text/javascript" src="/repositories/dojo/wtjson.js"></script>
+
+  <script type="text/javascript">
+	  dojo.require("dojo.parser");	
+    dojo.require("util.AutoComplete");
+  </script>
+  <style type="text/css">
+	.choices {
+ 			background-color: lavender;
+ 			color: black;
+ 			border: solid #000000;
+ 			border-width: 0px 1px 1px 1px;
+ 			font: 10px arial;
+ 			display: none;
+ 			position: absolute;
+	}
+
+	.selected {
+ 			background-color: #222222;
+ 			color: white;
+ 			border: solid #CCCCCC;
+ 			border-width: 0px 1px 1px 1px;
+ 			font: 10px arial;
+ 			width: 100%;
+	}
+	</style>
   
   
   
@@ -139,28 +172,39 @@
 		            
 		            <span class="utilityNavPipe">|</span>
 		          
+		          <a href="/wtcom/index.jsp?section=Library" class="utilityNav">Library</a>
+		        
+		      
+		        
+		        
+		          
+		            
+		            
+		            
+		          
+		            
+		            
+		            <span class="utilityNavPipe">|</span>
+		          
 		          <a href="/wtcom/index.jsp?section=Careers" class="utilityNav">Careers</a>
 		        
 		      
         
       
-
+      <div style="text-align:left;">
       <table cellspacing="0" cellpadding="2" border="0" align="right" alt="this table is used for layout purposes only">
         <tbody><tr>
-          <form action="?_DARGS=/wtcom/common/layouts/wtredesign/header.jsp.searchForm" name="searchForm" method="post"></form><input value="ISO-8859-1" type="hidden" name="_dyncharset"><input value="3543794626732470501" type="hidden" name="_dynSessConf">                 
-            <td><input value="" type="text" onfocus="setEnterKeyEvent();" size="15" name="searchWord"><input value=" " type="hidden" name="_D:searchWord"> </td>
+          <form action="?_DARGS=/wtcom/common/layouts/wtredesign/header.jsp.searchForm" name="searchForm" method="post"></form><input value="ISO-8859-1" type="hidden" name="_dyncharset"><input value="6725307733835987407" type="hidden" name="_dynSessConf">                 
             <td>
-            
-            <input type="submit" value="Search" class="searchButton" onclick="return doInitial();">
-		<input value="trigger" type="hidden" name="/search/SearchFormHandler.submit" id="formHandlerTrigger"><input value=" " type="hidden" name="_D:/search/SearchFormHandler.submit">          
-            
+          		<input value="trigger" type="hidden" name="/search/SearchFormHandler.submit" id="formHandlerTrigger"><input value=" " type="hidden" name="_D:/search/SearchFormHandler.submit">          
+              <input value="" type="text" onfocus="setEnterKeyEvent();" style="font: 10px arial;" size="25" name="searchWord" id="searchWord"><input value=" " type="hidden" name="_D:searchWord">
+              <input type="submit" value="Search" class="searchButton" onclick="return doInitial();">
+      		    <div style="z-index:2;" id="util_AutoComplete_0" widgetid="util_AutoComplete_0"><div class="choices" dojoattachpoint="choices"></div></div>
             </td>
-        </tr>
           <input value="/wtcom/common/layouts/wtredesign/header.jsp.searchForm" type="hidden" name="_DARGS">
-        <tr>
-          <td align="left" colspan="2"><a href="/wtcom/index.jsp?section=Library" class="boldLink">Explore our Library</a> <a href="/wtcom/index.jsp?section=Library"><img src="/repositories/wtc_images/smallArrow.gif" border="0" height="6" width="12" alt="Explore Our Library"></a></td>
         </tr>
       </tbody></table>
+      </div>
     </div>
   </div>
   <div class="stripeBelowHead">&nbsp;</div>
@@ -650,7 +694,7 @@ We recognize that protecting children’s identities and privacy online is impor
   
   
   
-    <form action="https://www.wilmingtontrust.com/wtcom/index.jsp?_DARGS=/wtcom/common/layouts/wtredesign/components/login.jsp.login" autocomplete="off" onsubmit="return doOnSubmit();" name="login" method="post"><input value="ISO-8859-1" type="hidden" name="_dyncharset"><input value="3543794626732470501" type="hidden" name="_dynSessConf">
+    <form action="https://www.wilmingtontrust.com/wtcom/index.jsp?_DARGS=/wtcom/common/layouts/wtredesign/components/login.jsp.login" autocomplete="off" onsubmit="return doOnSubmit();" name="login" method="post"><input value="ISO-8859-1" type="hidden" name="_dyncharset"><input value="6725307733835987407" type="hidden" name="_dynSessConf">
       <div class="accountLoginHeader">Secure Account Login</div>
       
       <div class="accountLoginArea">
@@ -679,9 +723,14 @@ We recognize that protecting children’s identities and privacy online is impor
           
           
            
-            <a href="#" onclick="window.open('/repositories/wtc_popup/help/Help-EnhancedOnlineSecurity.html','W0','screenX=10,screenY=10,toolbar=no,scrollbars=yes,resizable=yes,width=640,height=400');"><strong>Where is the password?</strong></a>
-<br>
-<strong>Enroll</strong> <font size="1">[ <a href="/wtcom/index.jsp?section=Enroll">Accounts</a> | <a href="/wtcom/index.jsp?section=Enroll">Statements</a> ]</font>
+            <!--signin.html-->
+
+<strong>Enroll</strong> <font size="1"> <a href="/wtcom/index.jsp?section=Enroll">Accounts</a></font><br>
+
+<span style="font-size:7pt;"><strong>Forgot</strong> <a href="/wtcom/index.jsp?section=Contact">User ID</a> / <a style="font-size:7pt;" href="/wtcom/index.jsp?section=PassReset">Password</a></span><br>
+
+
+<font size="1"><a href="https://m.wilmingtontrust.com">Mobile Login</a></font>
 
           
         
@@ -707,6 +756,58 @@ We recognize that protecting children’s identities and privacy online is impor
 		<script language="JavaScript" type="text/javascript">
 			document.login.mfaDevicePrint.value = add_deviceprint();
     </script>
+
+
+    
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+    
+  
+    
+    
+      
+        
+      
+    
+  
+  
+  
+  
+    
+    
+  
+    
+    
+      
+        
+      
+    
+  
+
+
+
+  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="1" height="1">
+    <param name="movie" value="http://www.wilmingtontrust.com/wtcom/jsp/mfa/pmfso.swf">
+    <param name="quality" value="high">
+    <param name="bgcolor" value="#FFFFFF">
+    <param name="FlashVars" value="gotoUrl=&amp;sendUrl=http://www.wilmingtontrust.com/wtcom/DeviceTokenFSOServlet;jsessionid=8DB06A782412EE1A6A583A6A29979F0D.node1">
+    <embed src="http://www.wilmingtontrust.com/wtcom/jsp/mfa/pmfso.swf" flashvars="gotoUrl=&amp;sendUrl=http://www.wilmingtontrust.com/wtcom/DeviceTokenFSOServlet;jsessionid=8DB06A782412EE1A6A583A6A29979F0D.node1" quality="high" bgcolor="#FFFFFF" width="1" height="1" type="application/x-shockwave-flash">
+    
+  </object>
+
+  <!-- END OF MFA Device Functionality -->
+				
 
 
 
@@ -976,39 +1077,41 @@ Articles, publications, and webcasts on a host of topics.<br>
 </style>
 
 <div class="footertext">
-  <table width="98%" border="0">
+  <table width="98%" border="0" cellpadding="3" cellspacing="0">
     
 		
-	<tbody><tr valign="middle"> 
-     <td width="87%" valign="top"><div class="footertext">
-       <p class="style1"><b>Questions about products or services?</b> Call 1-800-814-8386, M-Th. 8 AM - 7 PM, Fri. 8 AM - 6 PM, and Sat. 9 AM - 1 PM ET. <br>
+	<tbody><tr> 
+     <td width="87%" valign="top">
+       <div class="style1"><b>Questions about products or services?</b> Call 1-800-814-8386, M-Th. 8 AM - 7 PM, Fri. 8 AM - 6 PM, and Sat. 9 AM - 1 PM ET. <br>
 <b>Questions about your account? </b> Call 1-800-523-2378, M-F 7 AM - 10 PM, and Sat. 9 AM - 1 PM ET. <br>
 <b>Need technical assistance? </b> Call 1-877-982-5483, M-F 8:30 AM - 11 PM, and Sat. 9 AM - 1 PM ET. <br>
-<b>Para asistencia en Español</b>, llame 1-800-523-2378 y oprima el numero dos.</p></div>
+<b>Para asistencia en Español</b>, llame 1-800-523-2378 y oprima el numero dos.</div>
 
 
 
 </td>
-      <td width="13%" valign="top"><div align="right"><a href="#" onclick="window.open('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.WILMINGTONTRUST.COM&amp;lang=en','Verisign','height=450,width=525,location=no,status=no,scrollbars=no,toolbar=no,menubar=no,resize=no')"><img src="/repositories/wtc_images/veriSign.gif" alt="Verified by VeriSign" width="103" height="57" align="middle" border="0"></a></div></td>
+      <td width="13%" valign="top"><a href="#" onclick="window.open('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.WILMINGTONTRUST.COM&amp;lang=en','Verisign','height=450,width=525,location=no,status=no,scrollbars=no,toolbar=no,menubar=no,resize=no')"><img src="/repositories/wtc_images/veriSign.gif" alt="Verified by VeriSign" width="103" height="57" border="0"></a><br></td>
 	</tr>
   </tbody></table>
  
-</div>
+</div></div><div class="footerTextArea">
 
-<br>
-<div class="footertext">© 2009 Wilmington Trust Corporation. </div><br>
+<div class="footertext">&nbsp;&nbsp;© 2010 Wilmington Trust Corporation. </div>
 
 <div class="footertext">
-  <table width="98%" border="0">
+  <table width="98%" border="0" cellpadding="6">
     
 		
 	<tbody><tr valign="middle"> 
       <td width="70%" valign="top"> <img src="/repositories/wtc_images/os-Ban-EHL-Logo2.gif" width="24" height="18" alt="Equal Housing Lender">	    <font face="Arial, Helvetica, sans-serif" color="#FFFFFF" size="2">Equal Housing Lender</font></td>
+
+<td align="right"><a href="http://www.twitter.com/wilmingtontrust" class="footertext" target="_blank"><img src="/repositories/wtc_images/icon_twitter.png" width="16" height="16" alt="Follow us on Twitter" border="0"></a>&nbsp;&nbsp;</td>
+
     </tr>
   </tbody></table>
  
-</div>
-
+</div></div>
+<div class="footertext">
 
           
         
@@ -1032,7 +1135,7 @@ Articles, publications, and webcasts on a host of topics.<br>
       	
       	  
       		<p><font color="#FFFFFF">
-      		<!--Release 2009.01.02.1727 of wtcom.war was built on 3/10/2009 at 01:40 PM<br>wtc-atg-07<br>Sun Apr 19 09:29:47 EDT 2009-->
+      		<!--<b>ATG 9.1 Testing</b><br>Release:2010.01.01 SVN-Revision:238 TeamCity-Build-ID:2010.50.238 of wtcom.war was built on 3/12/2010 at 01:45 PM of wtcom.war was built on 3/15/2010 at 12:29 PM<br>wtc-atg-06<br>Tue Mar 23 00:27:24 EDT 2010-->
       		</font></p>      
         
       </div>
@@ -1075,6 +1178,14 @@ pageTracker._initData();
     pageTracker._trackPageview(currentActivity);
   }
 </script>
+
+
+<script language="JavaScript" type="text/javascript">
+  function jsFunc(trackName) {
+    pageTracker._trackPageview(trackName);
+  }
+</script>
+
       
     
  
@@ -1086,7 +1197,12 @@ pageTracker._initData();
 
 
 
+          
+        
       
+    
+  
+    
     
   
 
