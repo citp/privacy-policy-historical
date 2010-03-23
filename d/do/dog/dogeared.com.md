@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogeared.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230073627id_/http%3A//www.dogeared.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogeared.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323083408id_/http%3A//www.dogeared.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy : Dogeared Jewels and Gifts
 
