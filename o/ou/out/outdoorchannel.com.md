@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the outdoorchannel.com privacy policy that was archived on 2009-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090709060628id_/http%3A//www.outdoorchannel.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorchannel.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323020651id_/http%3A//www.outdoorchannel.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Outdoor Channel
 
-Privacy Policy
-
-This is the web site of **Outdoor Channel, Outdoor Channel 2HD, and Outdoor Channel On Demand.**
-
-Our postal address is: **43445 Business Park Dr. Suite 103, Temecula, CA 92590**
-
-We can be reached via email at [**info@outdoorchannel.com**](mailto:info@outdoorchannel.com) or you can reach us by telephone at **(951) 699-6991**
+This is the web site of **Outdoor Channel.** Our postal address is: **43445 Business Park Dr. Suite 103, Temecula, CA 92590**. We can be reached via email at [**info@outdoorchannel.com**](mailto:info@outdoorchannel.com) or you can reach us by telephone at **(951) 699-6991**.
 
  **This Privacy Policy is effective on September 1, 2006**
 
