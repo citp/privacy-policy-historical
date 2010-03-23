@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careercruising.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217182542id_/http%3A//www.careercruising.com/Public/LegalPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careercruising.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323165745id_/http%3A//www.careercruising.com/Public/LegalPrivacy.aspx) for the most accurate reproduction.*
 
 # Career Cruising: Online Policies
 
@@ -37,4 +37,4 @@ Contact Information
 
 If you have any comments or questions about our privacy policy, please contact our Privacy Officer at [privacy@careercruising.com](mailto:privacy@careercruising.com). 
 
-[Politique de confidentialité](https://web.archive.org/web/20091217182542id_/http%3A//www.careercruising.com/Public/LegalPrivacyFr.aspx) en français.
+[Politique de confidentialité](https://web.archive.org/web/20100323165745id_/http%3A//www.careercruising.com/Public/LegalPrivacyFr.aspx) en français.
