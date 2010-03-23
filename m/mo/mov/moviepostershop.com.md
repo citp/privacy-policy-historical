@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviepostershop.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622191605id_/http%3A//www.moviepostershop.com/pages.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviepostershop.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323031104id_/http%3A//www.moviepostershop.com/pages.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Movie Posters, Photos and Picture Art – MoviePosterShop.com
 
