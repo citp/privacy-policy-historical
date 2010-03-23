@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfchex.com privacy policy that was archived on 2009-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090927161121id_/http%3A//www.surfchex.com/wp/%3Fpage_id%3D227) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfchex.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323035017id_/http%3A//surfchex.com/wp/%3Fpage_id%3D227) for the most accurate reproduction.*
 
 # Privacy Policy - Live Web Cams, Surf Reports, and Weather - SurfChex.com
 
