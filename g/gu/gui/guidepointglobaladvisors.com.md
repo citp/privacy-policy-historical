@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guidepointglobaladvisors.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217130024id_/http%3A//www.guidepointglobaladvisors.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidepointglobaladvisors.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323124846id_/http%3A//www.guidepointglobaladvisors.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # GUIDEPOINT GLOBAL ADVISORS - Privacy Policy
 
@@ -18,4 +18,4 @@ We do not or sell to or share your personal information with third parties for t
 
 Personal information provided to Guidepoint will be held by us inside the United States and will be accessed by our staff and third parties working for us for the purposes set forth in this policy or for other purposes subject to your approval. Your personal information may be also held, processed and accessed inside the European Economic Area. 
 
-Guidepoint may share your information with our clients, typically in connection with consulting opportunities. Guidepoint may disclose the fact that you are an Advisor and information collected about you in response to a valid order or request by a court or other governmental body, to enforce an agreement between you and Guidepoint or one of Guidepoint’s clients, to protect Guidepoint’s rights, or as otherwise required by law, legal process or for the prevention or detection of a crime. If Guidepoint 
+Guidepoint may share your information with our clients, typically in connection with consulting opportunities. Guidepoint may disclose the fact that you are an Advisor and information collected about you in response to a valid order or request by a court or other governmental body, to enforce an agreement between you and Guidepoint or one of Guidepoint’s clients, to protect Guidepoint’s rights, or as otherwise required by law, legal process or for the prevention or detection of a crime. 
