@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empflix.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430111443id_/http%3A//www.empflix.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empflix.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323054622id_/http%3A//www.empflix.com/privacy.php) for the most accurate reproduction.*
 
 # Empflix - Privacy Policy
 
@@ -13,9 +13,9 @@ User-provided information: You provide certain personally identifiable informati
   * Cookies Information: When you visit the Empflix web site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Empflix uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Empflix web site may not function properly if the ability to accept cookies is disabled. 
   * Log File Information: When you use the Empflix web site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. 
 
-  
-**The Way Empflix Retains Information**  
 
+
+**The Way Empflix Retains Information**
 
   * To preserve the integrity of website databases, Empflix Video's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to Empflix, you are consenting to store that information indefinitely. 
 
