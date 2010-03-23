@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the hardwareandtools.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423205150id_/http%3A//www.hardwareandtools.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwareandtools.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323065737id_/http%3A//www.hardwareandtools.com/page/privacy) for the most accurate reproduction.*
 
 # HardwareAndTools.com: Privacy Policy
 
   
   
   
-
-
-[](https://web.archive.org/icat/hotbuys/ "Hot Buys")
-
   
 |    
 
