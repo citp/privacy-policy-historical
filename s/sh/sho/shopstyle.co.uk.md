@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopstyle.co.uk privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410125749id_/http%3A//www.shopstyle.co.uk/page/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopstyle.co.uk privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323045541id_/http%3A//www.shopstyle.co.uk/page/Privacy) for the most accurate reproduction.*
 
 # ShopStyle: privacy policy
 
@@ -32,7 +32,7 @@ This privacy statement ("Privacy Policy") covers all the websites and services o
 
   * Email Communications:
 
-    * We may receive a confirmation when you open an email from Sugar Publishing if your computer supports this type of program, in order to help us make emails more interesting and helpful. We may also send out emails with news or promotions. If you do not want to receive email or other mail from us, please notify us by email at help@teamsugar.com and include sufficient information for us to identify your account.
+    * We may receive a confirmation when you open an email from Sugar Publishing if your computer supports this type of program, in order to help us make emails more interesting and helpful. We may also send out emails with news or promotions. If you do not want to receive email or other mail from us, please notify us by email at help@onsugar.com and include sufficient information for us to identify your account.
 
   * Information from Other Sources:
 
@@ -62,7 +62,7 @@ We neither rent nor sell your personal information to anyone. We share your pers
 
   * **Agents:** We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, and providing customer service. We may also provide your personal information to agents who will use it to verify aggregate usage data that we provide to our partners. You hereby consent to our sharing of your personal information for all the above purposes.
 
-  * **Promotional Offers:** We may send offers to certain users on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, please notify us by e-mail at help@teamsugar.com.
+  * **Promotional Offers:** We may send offers to certain users on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, please notify us by e-mail at help@onsugar.com.
 
   * **Business Transfers:** In some cases, we may choose to buy or sell assets or business. In these types of transactions, customer information is typically one of the business assets that is transferred. Moreover, if Sugar Publishing, or substantially all of its assets, were acquired, customer information would be one of the assets that is transferred or acquired by a third party.
 
@@ -83,7 +83,7 @@ We neither rent nor sell your personal information to anyone. We share your pers
 
   * We use industry-standard Secure Socket Layer (SSL) software to protect the security of your personal information during transmission, which encrypts all of the information you input.
 
-  * We endeavor to protect user information to ensure that the user account information is kept private, however, we cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failures, and other factors may compromise the security of user information at any time. For more information about the security measures Sugar Publishing uses in connection with the website, please contact us at support@sugarinc.com.
+  * We endeavor to protect user information to ensure that the user account information is kept private, however, we cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failures, and other factors may compromise the security of user information at any time. For more information about the security measures Sugar Publishing uses in connection with the website, please contact us at help@onsugar.com.
 
   * Sugar Publishing employees who do not need personal information to perform a specific job will not be granted access to such information. All of our employees are kept up to date on our privacy and security practices.
 
@@ -98,16 +98,16 @@ We neither rent nor sell your personal information to anyone. We share your pers
 
   * You are able to add or update certain information on pages, such as those listed in the "What Personal Information About Users Does Sugar Publishing Collect?" section above. When you update information, however, we often maintain a copy of the unrevised information in our records.
 
-  * You may request deletion of your Sugar Publishing account by sending a message to help@teamsugar.com. Please note that some information may remain in our records after deletion of your account.
+  * You may request deletion of your Sugar Publishing account by sending a message to help@onsugar.com. Please note that some information may remain in our records after deletion of your account.
 
-  * If you do not wish to receive e-mail or other mail from us, please notify us by e-mail at help@teamsugar.com. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Sugar Publishing websites, and you are responsible for reviewing such legal notices for changes.
+  * If you do not wish to receive e-mail or other mail from us, please notify us by e-mail at help@onsugar.com. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Sugar Publishing websites, and you are responsible for reviewing such legal notices for changes.
 
   * As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features and services.
 
 
 
 
-**Does Sugar Publishing Collect Personal Information from Children?** Our websites and the services available by us are not intended for children under the age of 13. Sugar Publishing does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for our websites or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to Sugar Publishing or on our websites. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at support@sugarinc.com. We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.
+**Does Sugar Publishing Collect Personal Information from Children?** Our websites and the services available by us are not intended for children under the age of 13. Sugar Publishing does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for our websites or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to Sugar Publishing or on our websites. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at help@onsugar.com. We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.
 
 **Conditions of Use** If you decide to visit the Sugar Publishing websites, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
 
@@ -115,6 +115,6 @@ We neither rent nor sell your personal information to anyone. We share your pers
 
 **Changes to this Privacy Policy** Sugar Publishing may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Sugar Publishing websites or sending you an email so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
 
-**Questions or Concerns** If you have any questions or concerns regarding privacy at the Sugar Publishing websites, please send a detailed message to support@sugarinc.com. Your privacy is important to us and we will make every effort to resolve your concerns.
+**Questions or Concerns** If you have any questions or concerns regarding privacy at the Sugar Publishing websites, please send a detailed message to help@onsugar.com. Your privacy is important to us and we will make every effort to resolve your concerns.
 
 **Effective Date of This Privacy Policy** This Privacy Policy is effective as of July 16, 2008.
