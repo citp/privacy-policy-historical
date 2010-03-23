@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the maxnewyorklife.com privacy policy that was archived on 2008-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080113131215id_/http%3A//www.maxnewyorklife.com/Home/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxnewyorklife.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323081758id_/http%3A//maxnewyorklife.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Max New York Life India: PrivacyPolicy
+# Max New York Life Insurance: Privacy Policy
 
+  
 The Privacy Policy governs the use of this website [www.maxnewyorklife.com](http://www.maxnewyorklife.com/) of Max New York Life Insurance Co. Ltd (MNYL).
 
 MNYL is committed to protecting your privacy and working towards offering you a powerful, safe, online experience.
 
 [www.maxnewyorklife.com](http://www.maxnewyorklife.com/) does not collect personal information about individuals except when such individuals specifically provide such information on a voluntary basis which information will not be sold or otherwise transferred to unaffiliated third parties unless otherwise stated at the time of collection or with the approval of the user as the case may be.
 
-MNYL treats your personal information or your use of the service as private and confidential and does not check, edit or reveal it to any third parties except where it believes in good faith, such action is necessary to comply with the applicable legal and regulatory processes or to protect and defend the rights of other users or to enforce the terms of service which are binding on all the users of [www.maxnewyorklife.com](http://www.maxnewyorklife.com/)
+MNYL treats your personal information or your use of the service as private and confidential and does not check, edit or reveal it to any third parties except where it believes in good faith, such action is necessary to comply with the applicable legal and regulatory processes or to protect and defend the rights of other users or to enforce the terms of service which are binding on all the users of  [www.maxnewyorklife.com](http://www.maxnewyorklife.com/)
 
 Except where specifically agreed or necessary for operational or regulatory reasons, MNYL will not send you any unsolicited information. If the user does not opt out, MNYL may use any e-mail addresses of users to send occasional e-mails pertaining to information on product and services. The user can nevertheless unsubscribe from receipt of such e-mails by following instructions therein.
 
