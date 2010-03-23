@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perrymarshall.com privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004202217id_/http%3A//www.perrymarshall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perrymarshall.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323114735id_/http%3A//www.perrymarshall.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -73,9 +73,8 @@ PSMA will use reasonable efforts to protect customers’ personal information.
 
 PSMA will afford you a reasonable opportunity to review the personal information in your file, if you so request by writing to:
 
-Perry S. Marshall & Associates  
-1131 Lake Street #295  
-Oak Park, IL 60402
+159 N. Marion St #295  
+Oak Park, Illinois 60301-1032 USA 
 
 If PSMA is not able to provide access to some aspect of a customer’s personal information, it will provide reasons for denying access such as; that by doing so would likely reveal personal information about a third party, or that it is confidential commercial information or attorney’client privileged communications, or that the information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably be expected to threaten the life or security of another individual.
 
