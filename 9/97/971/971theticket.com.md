@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 971theticket.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223002545id_/http%3A//www.971theticket.com/pages/1681144.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 971theticket.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323035131id_/http%3A//www.971theticket.com/pages/1681144.php) for the most accurate reproduction.*
 
-# Detroit's 97.1 The Ticket - Privacy Policies
+# Privacy Policies - Detroit's 97.1 The Ticket
 
 |   |   |    
 ---|---|---  
