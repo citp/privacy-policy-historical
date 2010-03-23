@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalculinarycenter.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105142711id_/http%3A//www.internationalculinarycenter.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalculinarycenter.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323082419id_/http%3A//www.internationalculinarycenter.com/privacy.htm) for the most accurate reproduction.*
 
 # Tour the International Culinary Center
 
@@ -69,8 +69,9 @@ Email [ahrnciar@frenchculinary.com](mailto:ahrnciar@frenchculinary.com)
 Contact us at:  
 The International Culinary Center  
 Attn: Amy Hrnciar   
-434 Broadway, 7th Floor  
-New York, NY 10013 
+462 Broadway  
+New York, NY 10013  
+1.888.324.2433 
 
 
 CONDITIONS OF USE  
