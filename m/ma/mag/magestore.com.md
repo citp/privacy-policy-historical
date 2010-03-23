@@ -1,21 +1,31 @@
-> *The following text is extracted and transformed from the magestore.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219213453id_/http%3A//www.magestore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magestore.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323163319id_/http%3A//www.magestore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Privacy Policy
 
-**Privacy Statement**
+At Magestore, we recognize that privacy is important and we commit to protect your privacy. This policy describes the ways we collect, store, use and protect your personal information. We assume that you accepted our policy when you sign up and use our services. 
 
-MageStore is committed to protect your privacy. This Privacy Policy explains our privacy practices for our website, www.magestore.com, as well as for our services that may be accessed through the normal use of our products.   
-You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide services that you request. The following statement explains our information-gathering and dissemination practices. Please read the complete Privacy Policy. 
+**Information Collected**
 
-**Information Collection and Use**
+When you visit Magestore.com, we collect your IP address and web browser information. If you want to create an account at Magestore, we require you provide your personal information: name, address and email address. When you purchase extensions from Magestore, you may need to provide us some more additional information: address, phone, company. 
 
-You may decide whether to proceed with any activity that requests personally identifiable information. If you do not wish to provide the requested information, however, you may not be able to complete the transaction. We will collect general information (such as the type of browser you use, the files you request, and the IP and country from which you request information) to improve our Web site and better meet your needs. All of your personal information including credit card information and the ordering process are handled through our 256-bit data encryption Secure Socket Layer (SSL) connection.   
-Before we collect any personally identifiable information, we will provide an explanation for the possible use of your data. The information you supply will be used by us to fulfill your orders for our products and services, respond to your inquiries, supply you with requested information the products and services. We may also use the information to inform you about new features, products or services if you explicitly instructed us to do so. 
+**How we use your information**
 
-**Site Functionality**
+Our main purpose to collect your information is to provide you secure, smooth, efficient when you browse our site. We use this information to process and deliver your order, for billing purposes, for providing a more pleasant and personalized shopping experience, and for communicating with you about orders and promotional updates. You can review and edit your personal information at any time by logging in your account and go to My Account section. 
 
-**Cookies** : A "cookie" is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our Site. Once you close your browser, the cookie simply terminates. For instance, by setting a cookie on our Site, you would not have to log in a password more than once, thereby saving time while on our Site. You may still use our Site if you reject the cookie. The only drawback to this is that you will be limited in some areas of our Site. For example, you will not be able to use certain features of our forum or other parts of the Site that offer customized settings.  
-**Links** : This Site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Site.  
-**Newsletter** : If you wish to subscribe to our newsletter, we ask for contact information such as name and email address. 
+**How we use cookies**
+
+When you access our website, we may place small data files called "cookies" on your computer. This data contains information about you and it helps us to identify you if you visit multiple pages on our site during the same session, so that we don’t need to ask you for your password on each page. Once you log out your account or close your browser, this cookie expires and no longer has any effect. If you disable cookies for our site, you may still use our site, but certain benefits of your shopping experience with us may be impacted. 
+
+**How we protect and store personal information**
+
+We commit to protect personal information. We store your information on our secured server. We use SSL for the checkout process which help you keep your billing information safe. No credit card information is saved on our system. We don’t share your personal information with any other third parties. 
+
+You can always trust when doing business with Magestore, we always try our best to procted our customers. 
+
+**Changes to this privacy policy**
+
+Please note that this Privacy Policy may change from time to time. Magestore reserves the right to modify this Privacy Policy at any time. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice. 
+
+If you have any additional questions or concerns about this Privacy Policy, please feel free to contact through the web site. 
