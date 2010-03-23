@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niit-tech.com privacy policy that was archived on 2009-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090927125915id_/http%3A//www.niit-tech.com/Common.aspx%3Fpath%3D0/40) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niit-tech.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323121021id_/http%3A//www.niit-tech.com/Common.aspx%3Fpath%3D0/40) for the most accurate reproduction.*
 
 # Privacy Statement | NIIT Tech
 
