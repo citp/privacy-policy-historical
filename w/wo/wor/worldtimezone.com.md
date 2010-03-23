@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldtimezone.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415111813id_/http%3A//www.worldtimezone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtimezone.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323065459id_/http%3A//www.worldtimezone.com/privacy.html) for the most accurate reproduction.*
 
 # Web Site Disclaimer and Privacy Statement for WorldTimeZone.com
 
@@ -16,7 +16,12 @@ WorldTimeZone.com takes absolutely no responsibility for any errors on this free
 No personal information is collected by WorldTimeZone.com from visitors to our website, when viewing pages, or when navigating WorldTimeZone.com. We also do not collect or harvest the email addresses of people who email us directly. We only use them to respond to your queries.  
   
 **Advertisers and Cookies**  
-WorldTimeZone.com use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
+WorldTimeZone.com use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.   
+  
+**Compliance with NAI principles** [ ](http://www.networkadvertising.org/managing/opt_out.asp)  
+Some of third-party advertising companies are members of the Network Advertising Initiative (NAI), which offers a single location to opt out of their cookies. Please visit the [NAI](http://www.networkadvertising.org/managing/opt_out.asp) (Network Advertising Initiative) website to review the most up-to-date policies.
+
+If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
 
 WorldTimeZone.com cannot guarantee the content and/or availability of advertiser's products and services or be held responsible for any sweepstakes, sweepstakes results or banner ad which may award prizes.   
 Users who participate in these activities do so at their own risk and must work directly with the advertiser to claim any award. 
@@ -48,11 +53,11 @@ If you have any questions, please contact us via [Email](https://web.archive.org
 ---  
   
 Sections Time Maps  
-| [](https://web.archive.org/web/20090415111813id_/http%3A//www.worldtimezone.com/wtz001.php) | [](https://web.archive.org/web/20090415111813id_/http%3A//www.worldtimezone.com/wtz002.php) | [](https://web.archive.org/web/20090415111813id_/http%3A//www.worldtimezone.com/wtz003.php) | [](https://web.archive.org/web/20090415111813id_/http%3A//www.worldtimezone.com/wtz004.php) | [](https://web.archive.org/web/20090415111813id_/http%3A//www.worldtimezone.com/wtz005.php)  
+| [](https://web.archive.org/web/20100323065459id_/http%3A//www.worldtimezone.com/wtz001.php) | [](https://web.archive.org/web/20100323065459id_/http%3A//www.worldtimezone.com/wtz002.php) | [](https://web.archive.org/web/20100323065459id_/http%3A//www.worldtimezone.com/wtz003.php) | [](https://web.archive.org/web/20100323065459id_/http%3A//www.worldtimezone.com/wtz004.php) | [](https://web.archive.org/web/20100323065459id_/http%3A//www.worldtimezone.com/wtz005.php)  
 ---|---|---|---|---  
-[](https://web.archive.org/web/20090415111813id_/http%3A//www.worldtimezone.com/wtz006.php) | [](https://web.archive.org/web/20090415111813id_/http%3A//www.worldtimezone.com/wtz007.php) | [](https://web.archive.org/web/20090415111813id_/http%3A//www.worldtimezone.com/wtz008.php) | [](https://web.archive.org/web/20090415111813id_/http%3A//www.worldtimezone.com/wtz009.php) | [](https://web.archive.org/web/20090415111813id_/http%3A//www.worldtimezone.com/wtz010.php)  
-[](https://web.archive.org/web/20090415111813id_/http%3A//www.worldtimezone.com/wtz011.php) | [](https://web.archive.org/web/20090415111813id_/http%3A//www.worldtimezone.com/wtz012.php) | [](https://web.archive.org/web/20090415111813id_/http%3A//www.worldtimezone.com/wtz013.php) | [](https://web.archive.org/web/20090415111813id_/http%3A//www.worldtimezone.com/wtz014.php) | [](https://web.archive.org/web/20090415111813id_/http%3A//www.worldtimezone.com/wtz015.php)  
-[](https://web.archive.org/web/20090415111813id_/http%3A//www.worldtimezone.com/wtz016.php) | [](https://web.archive.org/web/20090415111813id_/http%3A//www.worldtimezone.com/wtz017.php) | [](https://web.archive.org/web/20090415111813id_/http%3A//www.worldtimezone.com/wtz018.php) | [](https://web.archive.org/web/20090415111813id_/http%3A//www.worldtimezone.com/wtz019.php) | [](https://web.archive.org/web/20090415111813id_/http%3A//www.worldtimezone.com/wtz020.php)  
+[](https://web.archive.org/web/20100323065459id_/http%3A//www.worldtimezone.com/wtz006.php) | [](https://web.archive.org/web/20100323065459id_/http%3A//www.worldtimezone.com/wtz007.php) | [](https://web.archive.org/web/20100323065459id_/http%3A//www.worldtimezone.com/wtz008.php) | [](https://web.archive.org/web/20100323065459id_/http%3A//www.worldtimezone.com/wtz009.php) | [](https://web.archive.org/web/20100323065459id_/http%3A//www.worldtimezone.com/wtz010.php)  
+[](https://web.archive.org/web/20100323065459id_/http%3A//www.worldtimezone.com/wtz011.php) | [](https://web.archive.org/web/20100323065459id_/http%3A//www.worldtimezone.com/wtz012.php) | [](https://web.archive.org/web/20100323065459id_/http%3A//www.worldtimezone.com/wtz013.php) | [](https://web.archive.org/web/20100323065459id_/http%3A//www.worldtimezone.com/wtz014.php) | [](https://web.archive.org/web/20100323065459id_/http%3A//www.worldtimezone.com/wtz015.php)  
+[](https://web.archive.org/web/20100323065459id_/http%3A//www.worldtimezone.com/wtz016.php) | [](https://web.archive.org/web/20100323065459id_/http%3A//www.worldtimezone.com/wtz017.php) | [](https://web.archive.org/web/20100323065459id_/http%3A//www.worldtimezone.com/wtz018.php) | [](https://web.archive.org/web/20100323065459id_/http%3A//www.worldtimezone.com/wtz019.php) | [](https://web.archive.org/web/20100323065459id_/http%3A//www.worldtimezone.com/wtz020.php)  
 ---  
   
   
