@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whymilk.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205231256id_/http%3A//www.whymilk.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whymilk.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323182300id_/http%3A//www.whymilk.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Why Milk? - Privacy Policy
 
 This site ("Milk") has a policy to respect and protect the privacy of its users. This privacy policy statement tells you how we collect information from you and how we use it. Using the Internet should be a fun experience and we want to help you make it so. 
 
