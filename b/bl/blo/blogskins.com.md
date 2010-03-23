@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the blogskins.com privacy policy that was archived on 2009-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090412162636id_/http%3A//www.blogskins.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogskins.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323020812id_/http%3A//www.blogskins.com/privacy.php) for the most accurate reproduction.*
 
 # Blog Templates - Privacy Policy
+
+## Privacy Policy
 
 BlogSkins.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this website.
 
