@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gv.com.sg privacy policy that was archived on 2009-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090330170245id_/http%3A//www.gv.com.sg/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gv.com.sg privacy policy that was archived on 2010-03-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100323060426id_/http%3A//www.gv.com.sg/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <link rel="alternate" type="application/rss+xml" title="RSS - Golden Village - Now Showing" href="/rss/nowshowing_index_rss.xml">
@@ -25,6 +25,7 @@ body {
     <script type="text/javascript" src="http://media.gv.com.sg/js/prototype-1.4.0.js"></script>
     <script type="text/javascript" src="http://media.gv.com.sg/js/scriptaculous.js"></script>
     <script type="text/javascript" src="http://media.gv.com.sg/js/ajaxtags-1.2-beta2.js"></script>
+<script type="text/javascript" src="http://www.gv.com.sg/swfobject.js"></script>
     <link rel="stylesheet" type="text/css" href="http://media.gv.com.sg/css/gvtabs.css">
     <link href="http://media.gv.com.sg/css/gv2007.css" rel="stylesheet" type="text/css">
     <link href="http://media.gv.com.sg/css/print.css" rel="stylesheet" type="text/css" media="print">
@@ -43,6 +44,7 @@ body {
 	     // read cookies using javascript , added by weetat on 13 Mar 2008
 		 // for caching issue
 	    function readCookie(name)
+
 		{
 		 var cookieValue = "";
 		 var search = name + "=";
@@ -76,11 +78,13 @@ body {
            }
         }
     </script>
+    <script src="/js/AC_RunActiveContent.js" type="text/javascript"></script>
 </head>
 <body onload="javascript:show_gvmcMessage();">
 
 <table width="980" border="0" align="center" cellpadding="0" cellspacing="0">
-    <tbody><tr>
+    <tbody><tr>              
+      
         <td>
             <table width="100%" border="0" cellspacing="0" cellpadding="0">
                 <tbody><tr>
@@ -108,7 +112,7 @@ body {
                                                 <div id="gvmc_msg2" style="display:none" ><a href="/servlet/movieclub/MemberLogoutServlet" class="textlink">Log out</a></div>-->
                                                 
                                            <!-- </td>-->
-										   <td width="152" bgcolor="#000000"><img src="http://media.gv.com.sg/imagesresize/gvmobile.gif" width="116" height="45"></td>
+										   <td width="152" bgcolor="#000000"><a href="/mobile/index.html"><img src="http://media.gv.com.sg/imagesresize/gvmobile.gif" width="116" height="45" border="0"></a></td>
                                             <td width="48" bgcolor="#000000"><img src="http://media.gv.com.sg/movies/images/home_visa.gif" width="43" height="31"></td>
                                             <td width="61" bgcolor="#000000" class="mediumsmall"><img src="http://media.gv.com.sg/movies/images/home_verifiedvisa.gif" width="43" height="31"></td>
                                         </tr>
@@ -158,11 +162,9 @@ body {
                 </tr>
             </tbody></table>
         </td>
+        
     </tr>   
 </tbody></table>
-
-
-
 
 
 <table width="980" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -175,223 +177,220 @@ body {
 
 <!--div id="mldatemovie" style="position:absolute; width:215px; z-index:2; left:50%; top:69px; margin-left:-467px;"-->
 <script type="text/javascript"><!--
-function ssubmit(){
-  $('selectenabled').disabled=true;
-}
-
-function reset(){
-  var aj = new Ajax.Request("/index_ticketing_box4.jsp", {
-    asynchronous: true,
-    method: 'get',
-    evalScripts: true,
-    parameters: '',
-    onSuccess: function(request) {
-      var parser=new ResponseXmlParser();
-      parser.load(request);
-      var results = parser.itemList;
-      var target = $('loc');
-      target.options.length = 0;
-      target.disabled = false;
-      for (var i=0; i<results.length; i++) {
-        target.options[i] = new Option(results[i][0], results[i][1]);
-      }
+    function ssubmit(){
+        $('selectenabled').disabled=true;
     }
-  });
-  var aj = new Ajax.Request("/index_ticketing_box5.jsp", {
-    asynchronous: true,
-    method: 'get',
-    evalScripts: true,
-    parameters: '',
-    onSuccess: function(request) {
-      var parser=new ResponseXmlParser();
-      parser.load(request);
-      var results = parser.itemList;
-      var target = $('movie');
-      target.options.length = 0;
-      target.disabled = false;
-      for (var i=0; i<results.length; i++) {
-        target.options[i] = new Option(results[i][0], results[i][1]);
-      }
+
+    function reset(){
+        var aj = new Ajax.Request("/index_ticketing_box4.jsp", {
+            asynchronous: true,
+            method: 'get',
+            evalScripts: true,
+            parameters: '',
+            onSuccess: function(request) {
+                var parser=new ResponseXmlParser();
+                parser.load(request);
+                var results = parser.itemList;
+                var target = $('loc');
+                target.options.length = 0;
+                target.disabled = false;
+                for (var i=0; i<results.length; i++) {
+                    target.options[i] = new Option(results[i][0], results[i][1]);
+                }
+            }
+        });
+        var aj = new Ajax.Request("/index_ticketing_box5.jsp", {
+            asynchronous: true,
+            method: 'get',
+            evalScripts: true,
+            parameters: '',
+            onSuccess: function(request) {
+                var parser=new ResponseXmlParser();
+                parser.load(request);
+                var results = parser.itemList;
+                var target = $('movie');
+                target.options.length = 0;
+                target.disabled = false;
+                for (var i=0; i<results.length; i++) {
+                    target.options[i] = new Option(results[i][0], results[i][1]);
+                }
+            }
+        });
+        $('loc').selectedIndex=0;
+        $('movie').selectedIndex=0;
+        $('date').selectedIndex=0;
+        $('date').disabled=true;
+        $('time').selectedIndex=0;
+        $('time').disabled=true;
     }
-  });
-$('loc').selectedIndex=0;
-$('movie').selectedIndex=0;
-$('date').selectedIndex=0;
-$('date').disabled=true;
-$('time').selectedIndex=0;
-$('time').disabled=true;
-}
 
-var prevdate="";
-function initProgress1() {
-  formenabled=$('loc').selectedIndex!=0||$('movie').selectedIndex!=0;
-  $('selectdisabled').style.display=formenabled?"none":"";
-  $('selectenabled').style.display=!formenabled?"none":"";
+    var prevdate="";
+    function initProgress1() {
+        formenabled=$('loc').selectedIndex!=0||$('movie').selectedIndex!=0;
+        $('selectdisabled').style.display=formenabled?"none":"";
+        $('selectenabled').style.display=!formenabled?"none":"";
 
-  $('date').disabled=true;
-  var index = $('date').selectedIndex;
-  prevdate = $('date').options[index].text;
-}
-function resetProgress1() {
-  if($('date').options.length==1)
-    $('date').disabled=true;
-  else{
-    for(i=0;i<$('date').options.length;i++)
-      if(prevdate==$('date').options[i].text)
-        $('date').selectedIndex=i;
-  }
-}
-function reportError1() {
-}
-function initProgress2() {
-  $('time').disabled=true;
-}
-function resetProgress2() {
-  if($('time').options.length==1){
-    $('time').disabled=true;
-  }
-}
-function reportError2() {
-}
-var prevloc="";
-function initProgress4() {
-  //$('loc').disabled=true;
-  var index = $('loc').selectedIndex;
-  prevloc = $('loc').options[index].text;
-}
-function resetProgress4() {
-  if($('loc').options.length==1)
-    $('loc').disabled=true;
-  else{
-    for(i=0;i<$('loc').options.length;i++)
-    {
-      if(prevloc==$('loc').options[i].text)
-        $('loc').selectedIndex=i;
-     }
-  }
-}
-function reportError4() {
-}
-var prevmov="";
-function initProgress5() {
-  //$('movie').disabled=true;
-  var index = $('movie').selectedIndex;
-  prevmov = $('movie').options[index].text;
-}
-function resetProgress5() {
-  if($('movie').options.length==1)
-    $('movie').disabled=true;
-  else{
-    for(i=0;i<$('movie').options.length;i++)
-      if(prevmov==$('movie').options[i].text)
-        $('movie').selectedIndex=i;
-  }
-}
-function reportError5() {
-}
-//--></script>
+        $('date').disabled=true;
+        var index = $('date').selectedIndex;
+        prevdate = $('date').options[index].text;
+    }
+    function resetProgress1() {
+        if($('date').options.length==1)
+            $('date').disabled=true;
+        else{
+            for(i=0;i<$('date').options.length;i++)
+                if(prevdate==$('date').options[i].text)
+                    $('date').selectedIndex=i;
+        }
+    }
+    function reportError1() {
+    }
+    function initProgress2() {
+        $('time').disabled=true;
+    }
+    function resetProgress2() {
+        if($('time').options.length==1){
+            $('time').disabled=true;
+        }
+    }
+    function reportError2() {
+    }
+    var prevloc="";
+    function initProgress4() {
+        //$('loc').disabled=true;
+        var index = $('loc').selectedIndex;
+        prevloc = $('loc').options[index].text;
+    }
+    function resetProgress4() {
+        if($('loc').options.length==1)
+            $('loc').disabled=true;
+        else{
+            for(i=0;i<$('loc').options.length;i++)
+            {
+                if(prevloc==$('loc').options[i].text)
+                    $('loc').selectedIndex=i;
+            }
+        }
+    }
+    function reportError4() {
+    }
+    var prevmov="";
+    function initProgress5() {
+        //$('movie').disabled=true;
+        var index = $('movie').selectedIndex;
+        prevmov = $('movie').options[index].text;
+    }
+    function resetProgress5() {
+        if($('movie').options.length==1)
+            $('movie').disabled=true;
+        else{
+            for(i=0;i<$('movie').options.length;i++)
+                if(prevmov==$('movie').options[i].text)
+                    $('movie').selectedIndex=i;
+        }
+    }
+    function reportError5() {
+    }
+    //--></script>
+<form action="/searchMovie.jsp" name="search" id="search">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+            <td background="http://media.gv.com.sg/movies/images/ticketbox.jpg" style="background-repeat:no-repeat"><table width="246" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                        <td colspan="3"><img src="http://media.gv.com.sg/movies/images/spacer.gif" width="246" height="4"></td>
+                    </tr>
+                    <tr>
+                        <td width="8"><img src="http://media.gv.com.sg/movies/images/spacer.gif" width="20" height="250"></td>
+                        <td width="235"><div style="height:254px;">
+                                <table width="205" border="0" cellspacing="4" cellpadding="0" style="position:relative; top:-27px;">
+                                    <tbody><tr>
+                                        <td colspan="2"><img src="http://media.gv.com.sg/movies/images/clapper_ticket.gif" width="74" height="63"> <img src="http://media.gv.com.sg/movies/images/home_tickets.gif" width="116" height="26"></td>
+                                    </tr>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td background="http://media.gv.com.sg/movies/images/ticketbox.jpg" style="background-repeat:no-repeat">
-            <table width="246" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td colspan="3"><img src="http://media.gv.com.sg/movies/images/spacer.gif" width="246" height="4"></td>
-                </tr>
-              <tr>
-                <td width="8"><img src="http://media.gv.com.sg/movies/images/spacer.gif" width="20" height="254"></td>
-                <td width="235" valign="top">
-<!--div style1="height:240px;overflow:hidden;"><div style1="position:relative; top:-27px;"-->
-<table width="205" border="0" cellspacing="4" cellpadding="0" style="">
-<form action="/searchMovie.jsp" name="search" id="search" onsubmit="ssubmit()"></form>
-<tbody><tr>
-    <td colspan="2"><img src="http://media.gv.com.sg/movies/images/clapper_ticketnew.gif" width="61" height="44"> <img src="http://media.gv.com.sg/movies/images/home_tickets.gif" width="116" height="26"></td>
-</tr>
+                                    <tr>
+                                        <td colspan="2" class="mediumblack">1. Select a Cinema or Film: </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="2"><select name="loc" id="loc" class="searchselect">
+                                                <option value="">------- Select Cinema --------</option>
+                                                
+                                                <option value="50">GV VivoCity Gold Class</option>
+                                                
+                                                <option value="70">GV Grand Gold Class</option>
+                                                
+                                                <option value="52">Cinema Europa</option>
+                                                
+                                                <option value="51">GVmax</option>
+                                                
+                                                <option value="05">GV VivoCity</option>
+                                                
+                                                <option value="07">GV Grand</option>
+                                                
+                                                <option value="08">GV Plaza</option>
+                                                
+                                                <option value="06">GV Marina</option>
+                                                
+                                                <option value="02">GV Bishan</option>
+                                                
+                                                <option value="09">GV Tampines</option>
+                                                
+                                                <option value="04">GV Jurong Point</option>
+                                                
+                                                <option value="01">GV Yishun</option>
+                                                
+                                                <option value="03">GV Tiong Bahru</option>
+                                                
+                                            </select>    </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="2"><select name="movie" id="movie" class="searchselect">
+                                                <option value="">---------- Select Film -----------</option>
+                                                
+                                            </select></td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="2"><img src="http://media.gv.com.sg/movies/images/spacer.gif" width="8" height="2"></td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="2" class="mediumblack">2. Choose a Day </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="2"><select name="date" id="date" class="searchselect" disabled="disabled">
+                                                <option value="">---------- Select Day -----------</option>
+                                            </select>
 
-<tr>
-    <td colspan="2" class="mediumblack">1. Select a Cinema or Film: </td>
-</tr>
-<tr>
-    <td colspan="2"><select name="loc" id="loc" class="searchselect">
-            <option value="">------- Select Cinema --------</option>
-            
-            <option value="GC">Gold Class</option>
-            
-            <option value="52">Cinema Europa</option>
-            
-            <option value="51">GVmax</option>
-            
-            <option value="05">GV VivoCity</option>
-            
-            <option value="07">GV Grand</option>
-            
-            <option value="08">GV Plaza</option>
-            
-            <option value="06">GV Marina</option>
-            
-            <option value="02">GV Bishan</option>
-            
-            <option value="09">GV Tampines</option>
-            
-            <option value="04">GV Jurong Point</option>
-            
-            <option value="01">GV Yishun</option>
-            
-            <option value="03">GV Tiong Bahru</option>
-            
-    </select>    </td>
-</tr>
-<tr>
-    <td colspan="2"><select name="movie" id="movie" class="searchselect">
-            <option value="">---------- Select Film -----------</option>
-            
-    </select></td>
-</tr>
-<tr>
-    <td colspan="2"><img src="http://media.gv.com.sg/movies/images/spacer.gif" width="8" height="2"></td>
-</tr>
-<tr>
-    <td colspan="2" class="mediumblack">2. Choose a Day </td>
-</tr>
-<tr>
-    <td colspan="2"><select name="date" id="date" class="searchselect" disabled="disabled">
-            <option value="">---------- Select Day -----------</option>
-        </select>
-        
-    </td>
-</tr>
-<tr>
-    <td colspan="2"><img src="http://media.gv.com.sg/movies/images/spacer.gif" width="8" height="2"></td>
-</tr>
-<tr>
-    <td colspan="2" class="mediumblack">3. Choose a Time </td>
-</tr>
-<tr>
-    <td colspan="2"><select name="time" id="time" class="searchselect" disabled="disabled">
-            <option value="">--------- Select Time ----------</option>
-        </select>
-        
-    </td>
-</tr>
-<tr>
-    <td colspan="2"><img src="http://media.gv.com.sg/movies/images/spacer.gif" width="8" height="2"></td>
-</tr>
-<tr>
-<td width="142"><span style="cursor:pointer;cursor:hand" onclick="return reset()"><img src="http://media.gv.com.sg/movies/images/arrow.gif" width="10" height="9"><span class="nav style1">Reset</span></span></td>
-<td width="57"><img id="selectdisabled" src="http://media.gv.com.sg/movies/images/button_godisabled.gif" width="33" height="20" style="display:"><input id="selectenabled" type="image" src="http://media.gv.com.sg/movies/images/button_go.gif" style="display:none"></td>
-</tr>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="2"><img src="http://media.gv.com.sg/movies/images/spacer.gif" width="8" height="2"></td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="2" class="mediumblack">3. Choose a Time </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="2"><select name="time" id="time" class="searchselect" disabled="disabled">
+                                                <option value="">--------- Select Time ----------</option>
+                                            </select>
 
-</tbody></table>
-<!--/div></div-->
-</td>
-                <td width="3">&nbsp;</td>
-              </tr>
-            </tbody></table>
-</td>
-</tr>
-</tbody></table>
-
-<script type="text/javascript">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="2"><img src="http://media.gv.com.sg/movies/images/spacer.gif" width="8" height="2"></td>
+                                    </tr>
+                                    <tr>
+                                        <td width="142"><span style="cursor:pointer;cursor:hand" onclick="return reset()"><img src="http://media.gv.com.sg/movies/images/arrow.gif" width="10" height="9"><span class="nav style1">Reset</span></span></td>
+                                        <td width="57"><img id="selectdisabled" src="http://media.gv.com.sg/movies/images/button_godisabled.gif" width="33" height="20" style="display:"><input id="selectenabled" type="image" src="http://media.gv.com.sg/movies/images/button_go.gif" style="display:none"></td>
+                                    </tr>
+                                </tbody></table>
+                            </div>
+                        </td>
+                        <td width="3">&nbsp;</td>
+                    </tr>
+                </tbody></table></td>
+        </tr>
+    </tbody></table></form>
+    
+    <script type="text/javascript">
 new AjaxJspTag.Select(
 "/index_ticketing_box5.jsp", {
 executeOnLoad: "true",
@@ -407,8 +406,8 @@ errorFunction: reportError5
 
 
 
-
-<script type="text/javascript">
+    
+    <script type="text/javascript">
 new AjaxJspTag.Select(
 "/index_ticketing_box4.jsp", {
 executeOnLoad: "true",
@@ -424,8 +423,8 @@ errorFunction: reportError4
 
 
 
-
-<script type="text/javascript">
+    
+    <script type="text/javascript">
 new AjaxJspTag.Select(
 "/index_ticketing_box2.jsp", {
 source: "loc",
@@ -440,7 +439,7 @@ errorFunction: reportError1
 
 
 
-<script type="text/javascript">
+    <script type="text/javascript">
 new AjaxJspTag.Select(
 "/index_ticketing_box2.jsp", {
 source: "movie",
@@ -455,8 +454,8 @@ errorFunction: reportError1
 
 
 
-
-<script type="text/javascript">
+    
+    <script type="text/javascript">
 new AjaxJspTag.Select(
 "/index_ticketing_box3.jsp", {
 source: "loc",
@@ -471,7 +470,7 @@ errorFunction: reportError2
 
 
 
-<script type="text/javascript">
+    <script type="text/javascript">
 new AjaxJspTag.Select(
 "/index_ticketing_box3.jsp", {
 source: "movie",
@@ -486,7 +485,7 @@ errorFunction: reportError2
 
 
 
-<script type="text/javascript">
+    <script type="text/javascript">
 new AjaxJspTag.Select(
 "/index_ticketing_box3.jsp", {
 source: "date",
@@ -508,12 +507,20 @@ errorFunction: reportError2
                                 <td><img src="http://media.gv.com.sg/movies/images/spacer.gif" width="5" height="8"></td>
                             </tr>
                             <tr>
-                                <td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="246" height="205">
-                                        <param name="movie" value="http://media.gv.com.sg/Booking/movies/images/gvcombox_side.swf">
-                                        <param name="allowScriptAccess" value="always">
-                                        <param name="quality" value="high">
-                                        <embed src="http://media.gv.com.sg/Booking/movies/images/gvcombox_side.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="246" height="205" allowscriptaccess="always">
-                                </object></td>
+                                <td><script language="javascript">
+if (AC_FL_RunContent == 0) {
+alert("This page requires AC_RunActiveContent.js.");
+} else {
+AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0','width','246','height','225','id','rotator2','align','middle','src','http://media.gv.com.sg/Booking/movies/images/banner246205','quality','high','scale','noscale','wmode','transparent','bgcolor','#666666','name','rotator2','allowscriptaccess','always','allowfullscreen','true','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','http://media.gv.com.sg/Booking/movies/images/banner246205' ); //end AC code
+}
+</script><embed width="246" height="225" align="middle" src="http://media.gv.com.sg/Booking/movies/images/banner246205.swf" quality="high" scale="noscale" wmode="transparent" bgcolor="#666666" name="rotator2" allowscriptaccess="always" allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"> 
+<noscript>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="246" height="225" id="rotator2" align="middle">
+<param name="allowScriptAccess" value="always" />
+<param name="allowFullScreen" value="true" />
+<param name="movie" value="http://media.gv.com.sg/Booking/movies/images/banner246205.swf" /><param name="quality" value="high" /><param name="scale" value="noscale" /><param name="wmode" value="transparent" /><param name="bgcolor" value="#666666" /> <embed src="http://media.gv.com.sg/Booking/movies/images/banner246205.swf" quality="high" scale="noscale" wmode="transparent" bgcolor="#666666" width="246" height="225" name="rotator2" align="middle" allowScriptAccess="always" allowFullScreen="true" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+</object>
+</noscript></td>
                             </tr>
                     </tbody></table></td>
                     <td width="10" bgcolor="#000000"><img src="http://media.gv.com.sg/movies/images/spacer.gif" width="10" height="5"></td>
@@ -523,19 +530,24 @@ errorFunction: reportError2
                                  
 
 <td width="585" class="mediumsmall">
-<strong> GV Gift Card for sale now. <a href="http://www.gv.com.sg/giftcards.jsp" class="textlink">Buy it</a> at only $28!</strong>
+    
 </td>
+
 
 
 					<td width="138"><a href="https://payment.gv.com.sg/Booking/servlet/BkCheckBookingServlet?gvAction=checkBookings"><img src="http://media.gv.com.sg/movies/images/button_checkbooking.gif" width="124" height="28" border="0"></a></td>
                             </tr>
                             <tr>
-                                <td colspan="3"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="728" height="90">
-                                        <param name="movie" value="http://media.gv.com.sg/Booking/movies/images/gvcombox_home.swf">
-                                        <param name="allowScriptAccess" value="always">
-                                        <param name="quality" value="high">
-                                        <embed src="http://media.gv.com.sg/Booking/movies/images/gvcombox_home.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="728" height="90" allowscriptaccess="always">
-                                </object></td>
+                                <td colspan="3"><!-- begin ad tag (tile=1) -->
+<script type="text/javascript">
+//<![CDATA[
+ord = window.ord || Math.floor(Math.random()*1E16);
+document.write('<script type="text/javascript" src="http://ad.hk.doubleclick.net/adj/GoldenVillage/ROS_Others;tile=1;sz=728x90;ord=' + ord + '?"><\/script>');
+//]]>
+</script><script type="text/javascript" src="http://ad.hk.doubleclick.net/adj/GoldenVillage/ROS_Others;tile=1;sz=728x90;ord=6737360232663967?"></script>
+<noscript><a href="http://ad.hk.doubleclick.net/jump/GoldenVillage/ROS_Others;tile=1;sz=728x90;ord=123456789?" target="_blank" ><img src="http://ad.hk.doubleclick.net/ad/GoldenVillage/ROS_Others;tile=1;sz=728x90;ord=123456789?" border="0" alt="" /></a></noscript>
+<!-- end ad tag -->
+</td>
                             </tr>
                             <tr>
                                 <td colspan="3"><table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -648,6 +660,8 @@ errorFunction: reportError2
     <tr>
         <td bgcolor="#000000"><img src="http://media.gv.com.sg/movies/images/spacer.gif" width="5" height="10"></td>
 </tr>   </tbody></table>
+
+
 <table width="980" border="0" align="center" cellpadding="0" cellspacing="0" class="widewidth">
   <tbody><tr class="noprint">
     <td background="http://media.gv.com.sg/movies/images/btmnavi_bg.gif" bgcolor="#000000"><table width="93%" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -678,16 +692,17 @@ errorFunction: reportError2
     <td bgcolor="#d7d7d7" class="footer"><div align="center"><br>
       © 2008 Golden Village Multiplex Pte Ltd. All rights reserved. <br>
        <img align="left" src="http://media.gv.com.sg/movies/images/nielson.jpg" border="0">
-      <a href="http://www.cxrus.com/home.php">
+      <a href="http://www.cxrus.com/">
       <img align="right" src="http://media.gv.com.sg/movies/images/poweredbyCxrus3.gif" border="0"></a>
       No part of this website may be reproduced in any form without our written permission. We may take all necessary legal actions against users <br>
     who infringe or repeatedly infringe our copyrights or other intellectual property rights. <br>
 
-<!--Page generated in 0.004879045 seconds -->
+<!--Page generated in 0.006910586 seconds -->
     <br>
     </div></td>
   </tr>
 </tbody></table>
+
 
 
 <!-- START Nielsen//NetRatings SiteCensus V5.3 -->
