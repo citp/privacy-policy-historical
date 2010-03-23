@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doggies.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303133237id_/http%3A//www.doggies.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doggies.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323085501id_/http%3A//www.doggies.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Doggies.com Privacy Policy
 
