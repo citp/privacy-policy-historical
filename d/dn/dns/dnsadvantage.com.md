@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnsadvantage.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223201705id_/http%3A//www.dnsadvantage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnsadvantage.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324210853id_/http%3A//www.dnsadvantage.com/privacy.html) for the most accurate reproduction.*
 
 # DNS Advantage
 
