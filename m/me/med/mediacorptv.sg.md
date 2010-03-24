@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediacorptv.sg privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429045908id_/http%3A//www.mediacorp.sg/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediacorptv.sg privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324122700id_/http%3A//www.mediacorp.sg/privacy.php) for the most accurate reproduction.*
 
 # MediaCorp Pte Ltd
 
