@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searsoutlet.com privacy policy that was archived on 2009-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091010141203id_/http%3A//www.searsoutlet.com/8303/s/legal/PP.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searsoutlet.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324172828id_/http%3A//www.searsoutlet.com/11416/s/legal/PP.htm) for the most accurate reproduction.*
 
 # Sears Outlet: Top Brands, Great Services and Unbelievable Prices. 20-60% off Regular Retail Prices Everyday!
 
@@ -105,3 +105,5 @@ Will I Receive Notice of Changes to the Privacy Policy?
 As mentioned above, from time to time we may modify this Privacy Policy to reflect industry initiatives or changes in the law, changes in our collection or use practices, or changes in our web site’s features or technology, and such modifications shall be effective upon posting on this web site. Your continued use of this web site after we post a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes.
 
 Back to top
+
+© 2010 Sears Brands, LLC.
