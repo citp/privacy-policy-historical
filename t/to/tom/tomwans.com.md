@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomwans.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218112919id_/http%3A//www.tomwans.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomwans.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324180953id_/http%3A//www.tomwans.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
