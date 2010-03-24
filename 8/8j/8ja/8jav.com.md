@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8jav.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217011028id_/http%3A//www.8jav.com/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8jav.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324161505id_/http%3A//www.8jav.com/terms.htm) for the most accurate reproduction.*
 
 # 
 
