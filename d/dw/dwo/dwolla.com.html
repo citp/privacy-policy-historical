@@ -1,0 +1,682 @@
+<!--The following is the downloaded HTML source of the dwolla.com privacy policy that was archived on 2010-03-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100324180426id_/http%3A//dwolla.org/dwollak/questions/8/Privacy%2BPolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Dwolla Support :: Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<meta name="pragma" content="no-cache">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+
+	<script type="text/javascript">
+		var remoteSaveFailure = 'There has been an error saving the question for quick edit. This could be a database problem or you may not have the correct permissions';
+		var kbpath = 'http://dwolla.org/dwollak';
+		var txtRestoreContent = 'Cancel Edit';
+		var txtSaveContent = 'Save Content';
+		var txtQuickEdit = 'Quick Edit';
+	</script>
+
+	<style type="text/css">
+		@import url(http://dwolla.org/dwollak/javascript/iselector.css);
+	</style>
+
+	<script type="text/javascript" src="http://dwolla.org/dwollak/javascript/jquery.js"></script>
+	<script type="text/javascript" src="http://dwolla.org/dwollak/javascript/general.js"></script>
+	<script type="text/javascript" src="http://dwolla.org/dwollak/templates/Corporate/Styles/imghover.js"> </script>
+	<link rel="stylesheet" type="text/css" href="http://dwolla.org/dwollak/templates/Corporate/Styles/Styles.css">
+	<script type="text/javascript" src="http://dwolla.org/dwollak/javascript/helptip.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://dwolla.org/dwollak/javascript/helptip.css">
+	<script language="javascript" type="text/javascript" src="http://dwolla.org/dwollak/javascript/livesearch.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://dwolla.org/dwollak/javascript/livesearch.css">
+	<script language="javascript" type="text/javascript" src="http://dwolla.org/dwollak/javascript/iselector.js"></script>
+	<script type="text/javascript" language="javascript">
+		function reloadCaptchaImg()
+		{
+			window.location.reload( true );
+		}
+	</script>
+</head>
+<body>
+
+<div class="bg">
+	<div class="bgtop"></div>
+
+	<div class="Header">
+<!-- Start PageHeader -->
+<h1><a href="http://dwolla.org/dwollak"><img border="0" alt="Dwolla Support logo" src="http://www.dwolla.org/img/dwolla_support-logo.gif"></a></h1>
+<!-- Start split table (Header section) -->
+<!-- End split table (Header section) -->
+<!-- End PageHeader -->
+</div>
+	<div class="Nav">
+<!-- Start TitlePanel -->
+<table width="782px" border="0" valign="middle">
+  <tbody><tr>
+    <th width="50%" scope="row">
+    <div>
+    <ul style="display: none">
+  <li>
+    <div align="left"><a href="http://dwolla.org/dwollak/">Knowledgebase Home</a> <strong> </strong></div>
+  </li>
+</ul>
+    <div align="left">
+      <ul style="display: inline">
+        <li><a href="http://dwolla.org/dwollak/">Knowledgebase Home</a></li>
+      </ul>
+    </div>
+    <p align="left" class="NavTop">
+	<a href="http://www.dwolla.com">Dwolla.com</a> | <a href="http://www.dwolla.org/dwollak/">Help Index</a> | <a href="http://www.dwolla.org/blog/">Blog</a> | <a href="http://dwolla.org/dwollak/questions/15/Contact+Us">Contact</a> | <a href="http://www.dwolla.org/s/">Store</a>
+    </p></div>
+    &nbsp;</th>
+
+  </tr>
+</tbody></table>
+<!-- End TitlePanel -->
+</div>
+
+	<div class="Search">
+<!-- Start NavigationPanel -->
+<div class="Search" width="100%">
+<div class="SearchLeft"><div class="SearchTop"></div>
+<fieldset>
+<h3>Search the Knowledgebase</h3>
+<form name="frmSearch" onsubmit="return SendSearch()" method="POST" action="http://dwolla.org/dwollak/search/">
+<input name="Query" id="livesearch" type="text" value="" onkeypress="liveSearchStart()" onblur="setTimeout('closeResults()',2000);" class="keyword" style="width: 240px;">
+<input type="submit" value="Search" class="Button">
+<div id="LSResult" style="display: none;"><div id="LSShadow"></div></div><br>
+<a href="http://dwolla.org/dwollak/search.php?as=1" class="SmallLink">[Advanced Search]</a>
+</form>
+</fieldset>
+</div>
+
+<div class="SearchRight"><div class="SearchTop"></div>
+<fieldset>
+<h3>Browse by Category</h3>
+<form name="frmCat" onsubmit="return SendCategory()" method="GET" action="">
+<select name="navCat" id="navCat" class="keyword" style="width: 240px;">
+<option value="0">-- Select Category --</option>
+<option value="3">Demo Videos</option><option value="6">&nbsp;&nbsp;&nbsp;&nbsp;- Videos For Logged In Users</option><option value="2">Documentation</option><option value="7">Forms</option><option value="1">General Information</option>
+</select>
+<input type="submit" value="Go" class="Button">
+</form>
+
+</fieldset>
+</div>
+<script type="text/javascript" language="javascript">
+
+	baseUrl = 'http://dwolla.org/dwollak';
+	searchUrl = '/search/';
+	categoriesUrl = '/categories/';
+
+	function SendSearch()
+	{
+		var query = document.getElementById("livesearch");
+		if(query.value.length == 0) {
+			alert("Please enter a search term.");
+			query.focus();
+			query.select();
+			return false;
+		} else {
+			return liveSearchSubmit();
+		}
+	}
+
+	function SendCategory()
+	{
+		var cat = document.getElementById("navCat");
+
+		if(cat.selectedIndex == 0)
+		{
+			alert("Please choose a category.");
+			cat.focus();
+			return false;
+		}
+		else
+		{
+			document.location.href = 'http://dwolla.org/dwollak' + categoriesUrl + cat.options[cat.selectedIndex].value;
+			return false;
+		}
+	}
+
+</script>
+</div>
+<!-- End NavigationPanel -->
+</div>
+
+	<br clear="all"><br>
+
+	<div id="q_crumbs" style="display: ">
+		<ul>
+
+<li><a href="http://dwolla.org/dwollak/" target="_top">Knowledgebase Home</a>
+&gt; <a href="http://dwolla.org/dwollak/categories/Documentation/">Documentation</a>
+</li>
+</ul>
+
+	</div>
+
+	<div class="Container">
+		
+
+		
+<!-- Start QuestionAuthPanel -->
+
+<!-- End QuestionAuthPanel -->
+
+		
+<!-- Start ViewQuestionPanel -->
+<script language="javascript" type="text/javascript">
+
+	function PrintPage(url)
+	{
+		// Open the window to print this page
+		var x = window.open(url, "PrintQuestion", "toolbar=1, scrollbars=1");
+	}
+
+	function EmailToFriend(url)
+	{
+		xPos = screen.availWidth / 2 - 250;
+		yPos = screen.availHeight / 2 - 215;
+
+		// Open the window to email this question to a friend
+		var y = window.open(url, "EmailQuestion", "width=500, height=430, toolbar=1, scrollbars=1, left=" + xPos + ", top=" + yPos);
+	}
+
+	function ToggleWhyTextbox(f)
+	{
+		if (f.value == 0) {
+			document.getElementById('why').style.display='block';
+		} else {
+			document.getElementById('why').style.display='none';
+		}
+	}
+
+	function ResetWhy(f)
+	{
+		if (f.value == '') {
+			f.value='Help us improve. Why was this unhelpful?';
+			f.style.color = 'gray';
+		}
+	}
+
+	function ClearWhy(f)
+	{
+		if (f.value == 'Help us improve. Why was this unhelpful?') {
+			f.value='';
+			f.style.color = 'black';
+		}
+	}
+
+	function ResetWhyEmail(f)
+	{
+		if (f.value == '') {
+			f.value='Optional Email Address';
+			f.style.color = 'gray';
+		}
+	}
+
+	function ClearWhyEmail(f)
+	{
+		if (f.value == 'Optional Email Address') {
+			f.value='';
+			f.style.color = 'black';
+		}
+	}
+
+	function CheckFormRating(f)
+	{
+		if (f.rate[1].value == 0 && f.rate[1].checked) {
+			if (f.ratingmessage.value == '') {
+				alert('Please tell us why you found this answer unhelpful so we can improve our system in the future.');
+				return false;
+			}
+
+			if (f.ratingmessage.value == 'Help us improve. Why was this unhelpful?') {
+				alert('Please tell us why you found this answer unhelpful so we can improve our system in the future.');
+				return false;
+			}
+
+			var email_address = document.getElementById("ratingemail").value;
+
+			if ((email_address != "") && (email_address != "Optional Email Address")) {
+				if (!checkemail(email_address)) {
+					alert("Please enter a valid email address.");
+					return false;
+				}
+			}
+		}
+
+		return true;
+	}
+
+
+</script>
+
+<div class="question">
+
+<div class="questionLeft">
+<h2 id="title">Privacy Policy</h2>
+<span id="answer"><strong>Privacy Policy</strong>
+
+<p>Effective on October 25, 2009</p>
+
+<p>Dwolla is committed to protecting your privacy. This privacy policy
+describes how Dwolla collects and uses the personal information you
+provide on our website: <a href="http://www.dwolla.com/">www.dwolla.com</a>.
+It also describes the choices available to you regarding Dwolla's use
+of your personal information and the steps you can take to access this
+information and to request that we correct or update it.</p>
+
+
+
+
+    <strong>Collection and Use of Personal Information</strong>
+
+    <p>We collect the following personal information from you.</p>
+    <ul><li>Contact Information such as name, email address, mailing address, phone number</li><li>Information about your business such as company name, company size, business type</li><li>Billing Information such as credit card number, expiration date, billing address</li><li>Preferences Information such as product wish lists, order history, marketing preferences</li><li>Unique Identifiers such as user name, ID number, account number, password</li></ul>
+    
+        <p>We collect this information when you</p>
+        <ul><li>Set up an account</li><li>Purchase products</li><li>Sign up for our newsletter or email list</li><li>Submit a product review</li><li>Contact us with questions or request more information about our products or services</li><li>Provide us feedback</li></ul>
+    
+    
+        <p>We use this information to</p>
+        <ul><li>Fulfill your order</li><li>Send you an order confirmation</li><li>Assess the needs of your business to determine which products best meet those needs</li><li>Send you requested product or service information</li><li>Send product updates or warranty information</li><li>Respond to customer service requests</li><li>Administer your account</li><li>Send you a newsletter</li><li>Send you marketing communications</li><li>Respond to your questions and concerns</li><li>Improve our website and marketing efforts</li><li>Conduct research and analysis</li></ul>
+    
+
+
+    <strong>Information Obtained from Third Parties</strong>
+    
+        <p>We
+obtain address information about you from third party sources, such as
+the US Postal Service, to verify your address so we can properly ship
+your order to you and to prevent fraud.</p>
+    
+    
+    
+        <p>
+If you provide us personal information about others, or if others give
+us your information, we will only use that information for the specific
+reason for which it was provided to us.</p>
+    
+
+
+<strong>Information Sharing</strong>
+
+<p>We will share your personal information with third parties only in
+the ways that are described in this privacy statement. We do not sell,
+rent, trade, or otherwise share your personal information with third
+parties without first providing you notice and choice.</p>
+
+
+	<p>We may
+provide your personal information to agents or service providers acting
+on our behalf for limited purposes. For example, we may share personal
+information with our agents or service providers to ship your order, or
+send you email on our behalf. These third parties are authorized to use
+your personal information <em>only</em> to perform the service they are providing for us.</p>
+
+
+<p>We reserve the right to disclose your personal information as
+required by law (e.g., to comply with a subpoena, warrant, court order,
+or legal process served on our website) and when we believe that
+disclosure is necessary to protect our rights, protect your safety or
+the safety of others, investigate fraud, and/or respond to a government
+request.</p>
+
+
+<p>In the event Dwolla goes through a business transition, such as a
+merger, acquisition by another company, or sale of all or a portion of
+its assets, your personally identifiable information will likely be
+among the assets transferred. You will be notified via email and/or a
+prominent notice on our website of any such change in ownership or
+control of your personal information, as well as any choices you may
+have regarding your personal information.</p>
+
+
+	
+	
+	    <p><em>PayPal</em></p>
+	
+	    <p>If
+you choose to use PayPal to finalize and pay for your order, you will
+provide your billing information, such as a credit card number,
+directly to PayPal. We will not have access to this information.
+PayPal's privacy policy will apply to the information you provide on
+the PayPal website.</p>
+	
+	
+	
+	
+	    <p><em>Third Party E-Commerce Solutions Provider</em></p>
+	
+	    <p>Our
+shopping cart is hosted by our e-commerce solutions provider. They host
+our ordering system, and collect your billing information directly from
+you for the purpose of processing your order. This company does not use
+your information for any other purpose.</p>
+	
+
+
+
+    <strong>Choice/Opt-Out</strong>
+
+    <p>You
+may opt-out of receiving our newsletter or marketing emails from us by
+following the unsubscribe instructions included in each newsletter or
+marketing email or you can contact us at <a href="mailto:Support@dwolla.org">Support@dwolla.org</a>.</p>
+
+<strong>Cookies and Other Tracking Technologies</strong>
+
+    <p><em>Cookies</em></p>
+
+    <p>Cookies
+are very small text files that are stored on your computer when you
+visit certain web pages. We use cookies on our site to</p>
+    
+        <ul><li>Keep track of login name and password</li><li>Personalize your experience</li><li>Analyze which pages our site visitors visit</li><li>Make it easier for you to navigate our site</li></ul>
+    
+    
+    
+    
+
+
+<p><em>Log Files</em></p>
+
+<p>As is true of most websites, we gather certain information
+automatically and store it in log files. This information may include
+internet protocol (IP) addresses, browser type, internet service
+provider (ISP), referring/exit pages, operating system, date/time
+stamp, and/or page views.</p>
+
+<p>We use this information, which does not usually identify individual
+users, to analyze trends, to administer the site, to track users'
+movements around the site and to gather demographic information about
+our user base as a whole.</p>
+
+<p>We may record your IP addresses when you place an order through our site in order to detect and prevent fraud.</p>
+
+<p><em>Web Beacons</em></p>
+
+<p>A web beacon is an electronic image placed on a web page that can
+serve many of the same purposes that cookies serve, For example,
+recording the pages you visit on our site. We or third parties may use
+web beacons to track the traffic patterns of users from one page to
+another.</p>
+
+<p>We or our third party service provider may use web beacons in some
+of our emails to let us know which emails have been opened by
+recipients or track click-through rates. This allows us to gauge the
+effectiveness of our communications to customers and our marketing
+campaigns.</p>
+
+<strong>Correcting and Updating Your Personal Information</strong>
+
+<p>To review and update your personal information to ensure it is accurate, contact us at <a href="mailto:Support@dwolla.org">Support@dwolla.org</a>.</p>
+
+
+    <strong>Widgets</strong>
+
+    <p>Our
+website includes Widgets, which are interactive mini-programs that run
+on our site and are designed to provide single-purpose services (e.g.
+displaying the latest news, opinions, music, etc). These Widgets are
+hosted by a third party. Personal information, such as your email
+address, may be collected through the Widget. Cookies may also be set
+by the Widget to enable certain features of the Widget to function
+properly. The information collected by this Widget is subject to the
+Widget's privacy policy. Dwolla is not responsible for personal
+information you choose to provide through the Widget.</p>
+
+
+
+    <strong>Links to Other Websites</strong>
+
+    <p>Our
+site includes links to other websites whose privacy practices may
+differ from those of Dwolla. If you submit personal information to any
+of those sites, your information is subject to their privacy
+statements. We encourage you to carefully read the privacy statement of
+any website you visit.</p>
+
+
+
+    <p>Our website offers blogs or
+community forums to allow you to learn more about us. You should be
+aware that any personally identifiable information you provide in these
+areas may be read, collected, and used by others who access them. We
+are not responsible for any personally identifiable information you
+choose to submit in blogs, forums, chat areas, instant message
+services, bulletin boards, or any other publicly accessible service or
+website.</p>
+
+
+<strong>Security</strong>
+
+
+
+
+
+   
+    <p>The security of your personal
+information is important to us. We follow generally accepted industry
+standards to protect the personal information submitted to us, both
+during transmission and once we receive it. No method of transmission
+over the Internet, or method of electronic storage, is 100% secure,
+however. Therefore, while we strive to use commercially acceptable
+means to protect your personal information, we cannot guarantee its
+absolute security. If you have any questions about security on our
+website, you can contact us at <a href="mailto:Support@dwolla.org">Support@dwolla.org</a>.</p>
+	
+	<p>We
+provide two means for you to make a purchase on our site. You can
+either use our order form or a third party payment option. If you use
+our shopping cart, information collected on our order form is encrypted
+using secure socket layer technology (SSL). If you choose to use a
+third party payment option to finalize and pay for your order, its
+privacy statement and security practices will apply to your information
+We encourage you to read that privacy statement before providing your
+information.</p>
+
+
+
+
+<strong>Notification of Privacy Statement Changes</strong>
+
+<p>We may update this policy from time to time as our information
+practices are modified or changed. If we make any material changes to
+this policy that affect your personal information, we will notify you
+by email (sent to the e-mail address specified in your account) or by
+means of a notice on this Site prior to the change. We encourage you to
+periodically review this page for the latest information on our privacy
+practices.</p>
+
+<strong>Contact Information</strong>
+
+<p>You can contact us by writing or email us at the address below.</p>
+
+Dwolla
+<br>
+1312 Locust
+
+    <br>
+    Suite 204
+
+<br>
+Des Moines, IA 50309
+<br>
+<a href="mailto:Support@dwolla.org">Support@dwolla.org
+</a>
+
+    <br>
+    515-462-0047
+
+
+            </span>
+<br>
+<br clear="all">
+
+<h3>Related Articles</h3>
+No related articles were found.
+
+<h3>Attachments</h3>
+No attachments were found.
+
+<h3>Visitor Comments</h3>
+
+
+
+<!-- Start SubmitCommentPanel -->
+
+<!-- End SubmitCommentPanel -->
+
+</div>
+
+<div class="questionRight bSpacing" style="display: block">
+
+	<h3>Article Details</h3>
+
+	<p>
+		<strong>Last Updated</strong><br>30th o November, 2009
+	</p>
+
+	
+
+</div>
+
+<div class="questionRight" style="display: block">
+<h3>Would you like to...</h3>
+
+<p style="display: block">
+<img align="left" border="0" src="http://dwolla.org/dwollak/templates/Corporate/Images/IconPrint.gif" hspace="5" alt="Print this page"> &nbsp;<a href="javascript:PrintPage('http://dwolla.org/dwollak/questions/8/__print')">Print this page</a>
+</p>
+
+<p style="display: block">
+<img align="left" border="0" src="http://dwolla.org/dwollak/templates/Corporate/Images/IconEmail.gif" hspace="5" alt="Email this page"> &nbsp;<a href="javascript:EmailToFriend('http://dwolla.org/dwollak/questions/8/__email')">Email this page</a>
+</p>
+
+<p style="display: none">
+<img align="left" border="0" src="http://dwolla.org/dwollak/templates/Corporate/Images/IconComment.gif" hspace="5" alt="Post a comment"> &nbsp;<a href="#comment">Post a comment</a>
+</p>
+
+<p style="display: none">
+<img align="left" border="0" src="http://dwolla.org/dwollak/templates/Corporate/Images/IconSubscribe.gif" hspace="5" alt=""> &nbsp;<a href="http://dwolla.org/dwollak/questions/8/__subscribe">Subscribe me</a>
+</p>
+
+<p>
+<img align="left" border="0" src="http://dwolla.org/dwollak/templates/Corporate/Images/IconFav.gif" hspace="5" alt="Subscribe me"> &nbsp;<a href="http://dwolla.org/dwollak/questions/8/__fav" rel="nofollow">Add to favorites</a>
+</p>
+
+<p style="display: none">
+<img align="top" border="0" src="http://dwolla.org/dwollak/templates/Corporate/Images/unhighlight.gif" hspace="5" alt="Remove Highlighting">
+<a href="http://dwolla.org/dwollak/questions/8/__unhighlight" rel="nofollow">Remove Highlighting</a>
+</p>
+
+
+<p style="display: none">
+	<img align="top" border="0" src="http://dwolla.org/dwollak/templates/Corporate/Images/IconEdit.gif" hspace="5" alt="">
+	<a href="http://dwolla.org/dwollak/admin/index.php?ToDo=editQuestion&amp;questionid=8" rel="nofollow">Edit this Article</a>
+</p>
+
+<p style="display: none">
+	<img align="top" border="0" src="http://dwolla.org/dwollak/templates/Corporate/Images/IconEdit.gif" hspace="5" alt="">
+	<a href="javascript: editArticle(8);" rel="nofollow" id="editArticle">Quick Edit</a>
+</p>
+
+<p style="display: block">
+	<img align="top" border="0" src="http://dwolla.org/dwollak/templates/Corporate/Images/pdf.gif" hspace="5" alt="">
+	<a href="http://dwolla.org/dwollak/questions/8/__topdf" rel="nofollow">Export to PDF</a>
+</p>
+
+<br>
+
+<div style="display:none">
+	<h3>User Opinions</h3>
+	
+	<br>
+	<br>
+
+	<script language="javascript">document.write('<fo' + 'rm act' + 'ion="http://dwolla.org/dwollak/questions/8/__rate" met' + 'hod="post" onsu' + 'bmit="return CheckFormRating(this);">');</script><form action="http://dwolla.org/dwollak/questions/8/__rate" method="post" onsubmit="return CheckFormRating(this);">
+		<div style="display: none">
+
+		<h3>How would you rate this answer?</h3>
+
+		<input type="radio" style="border: 0px;" name="rate" id="rate1" value="1" onclick="ToggleWhyTextbox(this);" checked="checked"> <label for="rate1">Helpful</label><br>
+		<input type="radio" style="border: 0px;" name="rate" id="rate0" value="0" onclick="ToggleWhyTextbox(this);"> <label for="rate0">Not helpful</label><br>
+		<input type="submit" value="Rate It!" class="button" style="margin-top:5px;">
+		<hr>
+
+		<div id="why" style="display: none;">
+			<textarea name="ratingmessage" id="ratingwhy" style="font-size: 12px; color: gray; width: 134px; height: 80px; border: 1px solid #AAA;" onfocus="ClearWhy(this);" onblur="ResetWhy(this);">Help us improve. Why was this unhelpful?</textarea>
+			<br>
+			<input type="text" name="ratingemail" id="ratingemail" value="Optional Email Address" style="font-size: 12px; color: gray; width: 130px; border: 1px solid #AAA;" onfocus="ClearWhyEmail(this);" onblur="ResetWhyEmail(this);">
+		</div>
+
+		</div>
+	<script language="javascript">document.write('</form>');</script></form>
+
+</div>
+
+<p style="display: none">Thank you for rating this answer.</p>
+
+</div>
+</div>
+
+<!-- End ViewQuestionPanel -->
+
+		
+<!-- Start CommentSubmitted -->
+<div style="display: none">
+	<h3></h3>
+	<p></p>
+	<a href="#">Continue</a>
+</div>
+<!-- End CommentSubmitted -->
+
+		
+<!-- Start QuestionSubscribePanel -->
+
+<!-- End QuestionSubscribePanel -->
+
+		
+<!-- Start QuestionUnsubscribePanel -->
+
+<!-- End QuestionUnsubscribePanel -->
+
+		
+<!-- Start SearchResultsPanel -->
+
+<!-- End SearchResultsPanel -->
+
+	</div>
+
+	<div class="Spacer"></div>
+
+</div>
+
+<div class="Footer">
+<!-- Start PageFooter -->
+<!-- Start split table (Footer section) -->
+<!-- End split table (Footer section) -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11020011-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+© Dwolla 2010 - <a href="http://dwolla.org/dwollak/questions/16/Advantages">Advantages</a> - <a href="http://dwolla.org/dwollak/categories/Demo+Videos/">Videos</a> - <a href="http://dwolla.org/dwollak/categories/News+%26+Updates/">News</a> - <a href="http://dwolla.org/dwollak/questions/8/Privacy+Policy">Privacy</a> - <a href="http://dwolla.org/dwollak/questions/15/Contact+Us">Contact</a>-
+        <a><!-- Begin SupportSuite Javascript Code -->
+			<script language="javascript" src="https://www.dwolla.org/email/visitor/index.php?_m=livesupport&amp;_a=htmlcode&amp;departmentid=0&amp;custom=YToyOntpOjA7czo4OiJDaGF0IE5vdyI7aToxO3M6MTU6IkxlYXZlIEEgTWVzc2FnZSI7fQ%3D%3D"></script>
+			<!-- End SupportSuite Javascript Code --> 
+			</a><br>
+
+<!-- End PageFooter -->
+</div>
+
+
+
+</body></html>
