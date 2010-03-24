@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamersgate.com privacy policy that was archived on 2009-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090726112839id_/http%3A//www.gamersgate.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamersgate.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324130959id_/http%3A//www.gamersgate.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GamersGate - Buy and download games for PC now
 
-GamersGate respects your privacy and provides you with this privacy policy ("Privacy Policy") so that you may understand the ways in which it does and does not use the information you transmit when visiting its website www.gamersgate.net ("Website"). Please note that your use of the Website constitutes your acceptance of this Privacy Policy as well as our Terms of Use. Terms of Use
+GamersGate respects your privacy and provides you with this privacy policy ("Privacy Policy") so that you may understand the ways in which it does and does not use the information you transmit when visiting its website www.gamersgate.com ("Website"). Please note that your use of the Website constitutes your acceptance of this Privacy Policy as well as our Terms of Use. Terms of Use
 
 **IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT USE THE WEBSITE.**
 
@@ -38,6 +38,6 @@ GamersGate has taken steps to ensure that the personally identifiable informatio
 Please note that GamersGate may provide links to other websites that are operated and hosted by third parties who may have their own information collection practices. These other websites are governed by their own privacy policies, which may be substantially different from GamersGate&acutes policy. Visitors to other websites are encouraged to review the privacy policies and information collection practices of those websites.
 
 **Questions, Comments or Complaints**  
-If you have any questions, comments or complaints regarding this Privacy Policy, please contact us at [support [ at ] gamersgate.com](mailto:%3Ca%20href=)">[support [ at ] gamersgate.com](mailto:support@gamersgate.com)
+If you have any questions, comments or complaints regarding this Privacy Policy, please contact us at [support [ at ] gamersgate.com](mailto:support@gamersgate.com)
 
 This Privacy Policy is subject to change. GamersGate will notify you of material changes by posting them at its Website. You are encouraged to check back and review this Privacy Policy from time to time so that you will always know what information is collected how it is used and to whom it is disclosed.
