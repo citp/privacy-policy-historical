@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the milesfaster.co.uk privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603134218id_/http%3A//www.milesfaster.co.uk/information/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milesfaster.co.uk privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324172832id_/http%3A//www.milesfaster.co.uk/information/privacy-policy.htm) for the most accurate reproduction.*
 
 # Milesfaster.co.uk privacy policy.
 
 This is the website of [www.milesfaster.co.uk](http://www.milesfaster.co.uk/)  
-We can be contacted using the form >>>[here](https://web.archive.org/web/20090603134218id_/http%3A//www.milesfaster.co.uk/form/email-milesfaster.htm)
+We can be contacted using the form >>>[here](https://web.archive.org/web/20100324172832id_/http%3A//www.milesfaster.co.uk/form/email-milesfaster.htm)
 
 For each visitor to our Website, our Web server automatically recognises Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, platform type, date/time stamp, and number and location on a page of clicks. The information is collected in log files and this is normal practice for standard websites.  
 This information is not linked to personally identifiable information.  
