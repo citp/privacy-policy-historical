@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myfdb.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213005807id_/http%3A//www.myfdb.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfdb.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324194750id_/http%3A//www.myfdb.com/privacy_policy) for the most accurate reproduction.*
 
-# MyFDB
+# Privacy Policy - MyFDB.com
 
 If you have questions or concerns regarding this statement, you should first contact MyFDB via electronic mail at help@MyFDB.com or by mail directed to: 
 
