@@ -1,623 +1,330 @@
-<!--The following is the downloaded HTML source of the emmys.tv privacy policy that was archived on 2009-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091017093048id_/http%3A//cdn.emmys.tv/PrivacyPolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the emmys.tv privacy policy that was archived on 2010-03-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100324095258id_/http%3A//www.emmys.tv/privacy-policy) for the most accurate reproduction.-->
 
-<html><head><script language="JavaScript"><!--
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" class="js"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Privacy Policy | Academy of Television Arts &amp; Sciences</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Our Commitment to Privacy The Academy of Television Arts &amp;amp; Sciences’ (“Television Academy”) Privacy Policy was developed as an extension of our commitment to combine quality products and services with integrity in dealing with our users. The">
+<meta name="robots" content="index,follow">
+<meta name="DC.title" content="Privacy Policy">
+<link rel="shortcut icon" href="/sites/emmys.tv/files/emmystv_favicon.ico" type="image/x-icon">
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/emmys.tv/files/css/css_b835eb18ceaa69b76e5019a52b027ca8.css">
+<link type="text/css" rel="stylesheet" media="print" href="/sites/emmys.tv/files/css/css_ed0f1059c57a23ac0b58923a5a51c255.css">
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/contrib/zen/zen/ie.css?A" />
+<![endif]-->
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/emmys.tv/themes/emmystv/ie6.css?A" />
+<![endif]-->
+<!--[if IE 7]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/emmys.tv/themes/emmystv/ie7.css?A" />
+<![endif]-->
+<!--[if IE 8]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/emmys.tv/themes/emmystv/ie8.css?A" />
+<![endif]-->
+  <script type="text/javascript" src="/misc/jquery.js?A"></script>
+<script type="text/javascript" src="/misc/drupal.js?A"></script>
+<script type="text/javascript" src="/sites/all/modules/contrib/external/external.js?A"></script>
+<script type="text/javascript" src="/sites/all/modules/contrib/thickbox/thickbox.js?A"></script>
+<script type="text/javascript" src="/sites/emmys.net/themes/emmystv/suckerfish.js?A"></script>
+<script type="text/javascript" src="/sites/emmys.net/themes/emmystv/emmystv.js?A"></script>
+<script type="text/javascript" src="/sites/emmys.net/themes/emmystv/jquery.pngFix.js?A"></script>
+<script type="text/javascript" src="/sites/emmys.net/themes/emmystv/jquery.timers.js?A"></script>
+<script type="text/javascript" src="/sites/emmys.net/themes/emmystv/jquery.browser.min.js?A"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/galleryformatter/infinite-carousel.js?A"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip" }, "thickbox": { "close": "Close", "next": "Next \x3e", "prev": "\x3c Prev", "esc_key": "or Esc Key", "next_close": "Next / Close on last", "image_count": "Image !current of !total" } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
 
-    /**
-     * shows or hides the subnavigation.
-     */
-    function toggleSubNav( element, forceShow )
-    {
-      var parent = element.parentNode.parentNode;
-      
-      if( parent )
-      {
-        if( !forceShow && (parent.className == "" ) )
-        {
-          hideMenu( parent, element );
-        }
-        else
-        {
-          //hide all menus
-          var rootLevelMenuItems = parent.parentNode.childNodes
-          var item;
-          var itemImage;
-          for( var i = 0; i < rootLevelMenuItems.length; i++)
-          {
-            item = rootLevelMenuItems[i];
-
-            if( item && item.tagName )
-            {
-              if( item.tagName.toLowerCase() == 'li' )
-              {
-                hideMenu( item, findMenuImage(item) );
-              }
-            }
-          }
-          parent.className = "";
-          element.src = "http://cdn.emmys.tv/images/icon-collapse.gif";
-        }
-      }
-    }
-    
-    /**
-     * finds the menu's toggleimage
-     */
-    function findMenuImage( item )
-    {
-      if( item )
-      {
-        var child;
-        for( var i = 0; i < item.childNodes.length; i++)
-        {
-          child = item.childNodes[i];
-          if( child && child.tagName )
-          {
-            if( child.tagName.toLowerCase() == 'div' )
-            {
-              for( var j = 0; j < child.childNodes.length; j++)
-              {
-                if( child.childNodes[j] && child.childNodes[j].tagName )
-                {
-                  if(child.childNodes[j].tagName.toLowerCase() == 'img')
-                  {
-                    return child.childNodes[j];
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-      
-      return null;
-    }
-    
-    /**
-     * hides the menu item
-     */
-    function hideMenu( item, image )
-    {
-      if( item )
-        item.className = "hidden";
-        
-      if( image )
-        image.src = "http://cdn.emmys.tv/images/icon-expand.gif";
-    }
-
-    /**
-     * toggles the sub nav given the href page name.
-     * This is done by recursivly iterating through all elements and
-     * locating the anachor tags.  Once the correct anchor tag is found
-     * the tag is hightlighted and the menu is shown/expanded.
-     *
-     * NOTE: a specific Structure is assumed inorder to properly locate
-     *       the close button to show the subnav
-     */
-    function toggleSubNavByPageName( pageName, currentElement )
-    {
-      if( pageName != "/index.php" )
-      {
-        if( !currentElement )
-          currentElement = document.getElementById("LeftNavContainer");
-  
-        if( currentElement )
-        {
-          if( currentElement.tagName && (currentElement.tagName.toLowerCase() == "a") )
-          {
-            if( currentElement.href.indexOf( pageName ) > 0 )
-            {
-              // found the anchor with given pageName, lets toogle the subnav
-               var parentNode = currentElement.parentNode.parentNode
-              if( currentElement.parentNode.tagName.toLowerCase() != "div" )
-              {
-                highlightElement( currentElement );
-                parentNode = currentElement.parentNode.parentNode.parentNode;
-              }
-              
-              toggleSubNav( findElementByClassName("closeButton", parentNode), true );
-              return;
-            }
-          }
-          else
-          {
-            var childNodes = currentElement.childNodes;
-            for( var i = 0; i < childNodes.length; i++ )
-            {
-              if( childNodes[ i ] )
-                toggleSubNavByPageName( pageName, childNodes[ i ] );
-            }
-          }
-        }
-      }
-    }
-
-    function highlightElement( element )
-    {
-      if( element )
-        element.className = "selected";
-    }
-
-    /**
-     * recursively iterates through all child nodes in the given parent element.
-     * It returns the first element with the given class name.
-     */
-    function findElementByClassName( className, currentElement )
-    {
-      if( currentElement && className )
-      {
-        if( currentElement.className && (currentElement.className.toLowerCase() == className.toLowerCase()) )
-        {
-          return currentElement;
-        }
-        else
-        {
-          var childNodes = currentElement.childNodes;
-          for( var i = 0; i < childNodes.length; i++ )
-          {
-            if( childNodes[ i ] && childNodes[ i ].tagName)
-            {
-              var element = findElementByClassName( className, childNodes[ i ] );
-              if( element != null )
-                return element;
-            }
-          }
-        }
-      }
-
-      return null;
-    }
-
-
-
-
-	if (document.images) {
-		menu0on = new Image();				// On Images
-		menu0on.src = "http://cdn.emmys.tv/images/menu/menu-atemmys-on.jpg";
-		menu1on = new Image();
-		menu1on.src ="http://cdn.emmys.tv/images/menu/menu-awards-on.jpg";
-		menu2on = new Image();
-		menu2on.src ="http://cdn.emmys.tv/images/menu/menu-membership-on.jpg";
-		menu3on = new Image();
-		menu3on.src ="http://cdn.emmys.tv/images/menu/menu-foundation-on.jpg";
-		menu4on = new Image();
-		menu4on.src ="http://cdn.emmys.tv/images/menu/menu-events-on.jpg";
-		menu5on = new Image();
-		menu5on.src ="http://cdn.emmys.tv/images/menu/menu-emmymag-on.jpg";
-
-		menu0off = new Image();				// Off Images
-		menu0off.src ="http://cdn.emmys.tv/images/menu/menu-atemmys-off.jpg";
-		menu1off = new Image();
-		menu1off.src ="http://cdn.emmys.tv/images/menu/menu-awards-off.jpg";
-		menu2off = new Image();
-		menu2off.src ="http://cdn.emmys.tv/images/menu/menu-membership-off.jpg";
-		menu3off = new Image();
-		menu3off.src ="http://cdn.emmys.tv/images/menu/menu-foundation-off.jpg";
-		menu4off  = new Image();
-		menu4off.src ="http://cdn.emmys.tv/images/menu/menu-events-off.jpg";
-		menu5off = new Image();
-		menu5off.src ="http://cdn.emmys.tv/images/menu/menu-emmymag-off.jpg";
-
-		submenu0on = new Image();				// On Images
-		submenu0on.src ="http://cdn.emmys.tv/images/submenu/submenu-on.gif";
-
-		submenu0off = new Image();				// Off Images
-		submenu0off.src ="http://cdn.emmys.tv/images/submenu/submenu-off.gif";
-
-		emmys0on = new Image();				// On Images
-		emmys0on.src ="http://cdn.emmys.tv/awards/2005pt/images/2005pt-home-on.gif";
-		emmys1on = new Image();
-		emmys1on.src ="http://cdn.emmys.tv/awards/2005pt/images/2005pt-awards-on.gif";
-		emmys2on = new Image();
-		emmys2on.src ="http://cdn.emmys.tv/awards/2005pt/images/2005pt-news-on.gif";
-		emmys3on = new Image();
-		emmys3on.src ="http://cdn.emmys.tv/awards/2005pt/images/2005pt-gallery-on.gif";
-		emmys4on = new Image();
-		emmys4on.src ="http://cdn.emmys.tv/awards/2005pt/images/2005pt-info-on.gif";
-
-		emmys0off = new Image();				// Off Images
-		emmys0off.src ="http://cdn.emmys.tv/awards/2005pt/images/2005pt-home-off.gif";
-		emmys1off = new Image();
-		emmys1off.src ="http://cdn.emmys.tv/awards/2005pt/images/2005pt-awards-off.gif";
-		emmys2off = new Image();
-		emmys2off.src ="http://cdn.emmys.tv/awards/2005pt/images/2005pt-news-off.gif";
-		emmys3off = new Image();
-		emmys3off.src ="http://cdn.emmys.tv/awards/2005pt/images/2005pt-gallery-off.gif";
-		emmys4off  = new Image();
-		emmys4off.src ="http://cdn.emmys.tv/awards/2005pt/images/2005pt-info-off.gif";
-
-	}
-
-function menuon(index) {
-	if (document.images)
-		eval("document.menu" + index + ".src = menu" + index + "on.src");
-}
-
-function menuoff(index) {
-	if (document.images)
-		eval("document.menu" + index + ".src = menu" + index + "off.src");
-}
-
-function submenuon(index) {
-	if (document.images)
-		eval("document.submenu" + index + ".src = submenu0on.src");
-}
-
-function submenuoff(index) {
-	if (document.images)
-		eval("document.submenu" + index + ".src = submenu0off.src");
-}
-
-function emmysmenuon(index) {
-	if (document.images)
-		eval("document.emmys" + index + ".src = emmys" + index + "on.src");
-}
-
-function emmysmenuoff(index) {
-	if (document.images)
-		eval("document.emmys" + index + ".src = emmys" + index + "off.src");
-}
-
-function goQuickNav() {
-	urlQuickNav = document.formQuickNav.selectNav.options[document.formQuickNav.selectNav.selectedIndex].value;
-
-	if (urlQuickNav == "nada") {
-		//nada surf
-	}
-	else {
-		eval("parent.location='"+document.formQuickNav.selectNav.options[document.formQuickNav.selectNav.selectedIndex].value+"'");
-	}
-}
-
-function primetime(file)
-{
-	window.open(file,"emmys","HEIGHT=437,WIDTH=525,resizable=no,scrollbars=no,menubar=no,toolbar=yes,directories=no,location=no,status=no")
-}
-
-function webcast(file)
-{
-	window.open(file,"webcast","HEIGHT=488,WIDTH=515,resizable=yes,scrollbars=no,menubar=no,toolbar=yes,directories=no,location=no,status=no")
-}
-
-function festival(file)
-{
-	window.open(file,"festival","HEIGHT=331,WIDTH=461,resizable=no,scrollbars=no,menubar=no,toolbar=no,directories=no,location=no,status=no")
-}
-
-function goEmmynoms() {
-		urlEmmynoms = document.formEmmynoms.selectCat.options[document.formEmmynoms.selectCat.selectedIndex].value;
-
-		if (urlEmmynoms == "nada") {
-			//nada surf
-		}
-		else {
-			eval("parent.location='"+document.formEmmynoms.selectCat.options[document.formEmmynoms.selectCat.selectedIndex].value+"'");
-		}
-	}
-
-function goEmmynoms2() {
-		urlEmmynoms = document.formEmmynoms.selectCat2.options[document.formEmmynoms.selectCat2.selectedIndex].value;
-
-		if (urlEmmynoms == "nada") {
-			//nada surf
-		}
-		else {
-			eval("parent.location='"+document.formEmmynoms.selectCat2.options[document.formEmmynoms.selectCat2.selectedIndex].value+"'");
-		}
-	}
-
-// -->
-		</script>
-<link href="http://cdn.emmys.tv/styles/emmystyle.css" rel="stylesheet" type="text/css" media="all">
-<link href="http://cdn.emmys.tv/styles/menuStyles.css" rel="stylesheet" type="text/css" media="all">
-
-
-
-
-
-
+	    addthis_pub = 'my-username';
+	    addthis_logo = 'http://www.addthis.com/images/yourlogo.png';
+	    addthis_logo_background = 'EFEFFF';
+	    addthis_logo_color = '666699';
+	    addthis_brand = 'Emmys.tv';
+	    addthis_options = 'favorites, email, digg, delicious, myspace, facebook, google, live, more';
+	    addthis_disable_flash = 'true';
 	
-		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
-		<title>Academy of Television Arts &amp; Sciences</title>
-		<meta name="generator" content="Adobe GoLive 6">
-		<link href="styles/emmystyle_media.css" rel="stylesheet" type="text/css" media="all">
-		<link href="styles/emmystyle.css" rel="stylesheet" type="text/css" media="all">
-	</head>
+//--><!]]>
+</script>
+</head>
+<body class="not-front not-logged-in node-type-page no-sidebars page-privacy-policy section-privacy-policy">
 
-	<body bgcolor="white" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0"><center>
-		<table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td align="center" valign="top">
+  <div id="page"><div id="page-inner">
 
-					<table width="100%" border="0" cellspacing="0" cellpadding="0" background="http://cdn.emmys.tv/images/backgrounds/header-background.gif">
-						<tbody><tr>
-							<td align="center" valign="top">
-								<table width="665" border="0" cellspacing="0" cellpadding="0">
-									<tbody><tr>
-										<td colspan="13" align="left" valign="top"><a href="http://cdn.emmys.tv/index.php"><img src="http://cdn.emmys.tv/images/titlebar.gif" height="62" width="665" border="0"></a></td>
-									</tr>
-									<tr>
-										<td colspan="13" align="left" valign="top"><img height="8" width="665" src="http://cdn.emmys.tv/images/menu/menutop.gif"></td>
-									</tr>
-									<tr>
-										<td align="left" valign="top" width="8"><img src="http://cdn.emmys.tv/images/menu/menuspacer-1.jpg" height="81" width="8" border="0"></td>
-										<td align="left" valign="top" width="82"><a href="http://cdn.emmys.tv/atemmys/index.php" onmouseover="menuon(0);return false" onmouseout="menuoff(0);return false"><img src="http://cdn.emmys.tv/images/menu/menu-atemmys-off.jpg" name="menu0" height="63" width="82" border="0"><img height="18" width="82" src="http://cdn.emmys.tv/images/menu/menu-academy-text.gif" border="0"></a></td>
-										<td align="left" valign="top" width="7"><img src="http://cdn.emmys.tv/images/menu/menuspacer-2.jpg" height="81" width="7" border="0"></td>
-										<td align="left" valign="top" width="82"><a href="http://cdn.emmys.tv/awards/index.php" onmouseover="menuon(1);return false" onmouseout="menuoff(1);return false"><img src="http://cdn.emmys.tv/images/menu/menu-awards-off.jpg" name="menu1" height="63" width="82" border="0"><img height="18" width="82" src="http://cdn.emmys.tv/images/menu/menu-awards-text.gif" border="0"></a></td>
-										<td align="left" valign="top" width="7"><img src="http://cdn.emmys.tv/images/menu/menuspacer-3.jpg" height="81" width="7" border="0"></td>
-										<td align="left" valign="top" width="82"><a href="http://cdn.emmys.tv/membership/index.php" onmouseover="menuon(2);return false" onmouseout="menuoff(2);return false"><img src="http://cdn.emmys.tv/images/menu/menu-membership-off.jpg" name="menu2" height="63" width="82" border="0"><img height="18" width="82" src="http://cdn.emmys.tv/images/menu/menu-membership-text.gif" border="0"></a></td>
-										<td align="left" valign="top" width="7"><img src="http://cdn.emmys.tv/images/menu/menuspacer-4.jpg" height="81" width="7" border="0"></td>
-										<td align="left" valign="top" width="82"><a href="http://cdn.emmys.tv/foundation/index.php" onmouseover="menuon(3);return false" onmouseout="menuoff(3);return false"><img src="http://cdn.emmys.tv/images/menu/menu-foundation-off.jpg" name="menu3" height="63" width="82" border="0"><img height="18" width="82" src="http://cdn.emmys.tv/images/menu/menu-foundation-text.gif" border="0"></a></td>
-										<td align="left" valign="top" width="7"><img src="http://cdn.emmys.tv/images/menu/menuspacer-5.jpg" height="81" width="7" border="0"></td>
-										<td align="left" valign="top" width="82"><a href="http://cdn.emmys.tv/events/index.php" onmouseover="menuon(4);return false" onmouseout="menuoff(4);return false"><img src="http://cdn.emmys.tv/images/menu/menu-events-off.jpg" name="menu4" height="63" width="82" border="0"><img height="18" width="82" src="http://cdn.emmys.tv/images/menu/menu-events-text.gif" border="0"></a></td>
-										<td align="left" valign="top" width="7"><img src="http://cdn.emmys.tv/images/menu/menuspacer-6.jpg" height="81" width="7" border="0"></td>
-										<td align="left" valign="top" width="82"><a href="http://cdn.emmys.tv/emmymag/index.php" onmouseover="menuon(5);return false" onmouseout="menuoff(5);return false"><img src="http://cdn.emmys.tv/images/menu/menu-emmymag-off.jpg" name="menu5" height="63" width="82" border="0"><img height="18" width="82" src="http://cdn.emmys.tv/images/menu/menu-emmymag-text.gif" border="0"></a></td>
-										<td align="left" valign="top" width="130"><img src="http://cdn.emmys.tv/images/menu/menuemmy.jpg" height="81" width="130" border="0"></td>
-									</tr>
-								</tbody></table>
-								<table border="0" cellpadding="0" cellspacing="0" width="665" height="32" background="http://cdn.emmys.tv/images/backgrounds/header-background3.gif">
-									<form name="formQuickNav" action="http://search.freefind.com/find.html" method="GET" target="_self"></form>
-										<input type="HIDDEN" name="id" value="27391482">
-										<input type="HIDDEN" name="pid" value="r">
-										<input type="HIDDEN" name="mode" value="ALL">
-										<input type="hidden" name="t" value="s">
-									<tbody><tr>
-										<td valign="top" align="left" width="446">
-											<table border="0" cellpadding="0" cellspacing="0" width="446" height="32">
-												<tbody><tr>
-													<td valign="middle" align="left" width="349">                   
-                            <a href="http://cdn.emmys.tv/index.php" class="headerNavLink">Home</a>
-                            <span class="headerNavLink">|</span>
-                            <a href="http://cdn.emmys.tv/downloads/index.php" class="headerNavLink">Downloads</a>
-                            <span class="headerNavLink">|</span>
-                            <a href="http://cdn.emmys.tv/contact/index.php" class="headerNavLink">Contact</a>
-                            <span class="headerNavLink">|</span>
-                            <a href="http://cdn.emmys.tv/sitemap/index.php" class="headerNavLink">Site Map</a>
-                            <span class="headerNavLink">|</span>
-                            <a href="http://www.emmys.com" class="headerNavLink" target="_blank">Emmys.com</a>
-													</td>
-													<td valign="top" align="center" width="87" height="32">
-														<a href="http://online.emmys.tv"><img height="32" width="97" src="http://cdn.emmys.tv/images/tabbar/tab-separator2.gif" border="0"></a></td>
-												</tr>
-											</tbody></table>
-										</td>
-										<td valign="top" align="right" width="219">
-											<table border="0" cellpadding="0" cellspacing="0" width="219" height="32">
-												<tbody><tr>
-													<td valign="middle" align="right" width="219">
-                            <span class="headerNavLink">Site Search</span>&nbsp;<input class="searchbox" type="text" size="15" maxlength="30" name="query">&nbsp;<input type="image" height="17" width="21" src="http://cdn.emmys.tv/images/tabbar/tab-go.gif"></td>
-												</tr>
-											</tbody></table>
-										</td>
-									</tr>
-									
-								</tbody></table>
-							</td>
-						</tr>
-					</tbody></table>
-		<table border="0" cellpadding="5" cellspacing="0" width="665" background="images/backgrounds/subbodyback-1.gif">
-			<tbody><tr>
-				<td width="124" align="left" valign="top">
+        
+    <div id="header"><div id="header-inner" class="clear-block">
 
+              <div id="logo-title">
 
+                      <div id="logo"><a href="/" title="Home" rel="home"><img src="/sites/emmys.tv/files/emmystv_logo.jpg" alt="Home" id="logo-image"></a></div>
+          
+                                    <div id="site-name"><strong>
+                <a id="logo-text" href="/" title="Home" rel="home">
+                Academy of Television Arts &amp; Sciences                </a>
+              </strong></div>
+                      
+          
+        </div> 
+			
+      
+    </div></div> 
 
-  <div id="LeftNavContainer">
-    <ol>
-      <li class="hidden">
-        <div>
-          <a href="http://cdn.emmys.tv/atemmys/index.php">The Academy</a>
-          <img id="TheAcademy" src="http://cdn.emmys.tv/images/icon-expand.gif" class="closeButton" onclick="toggleSubNav(this);" alt="Show/Hide SubNav">
-        </div>
-        <ol>
-          <li><a href="http://cdn.emmys.tv/atemmys/leadership/governors.php">Board of Governors</a></li>
-          <li><a href="http://cdn.emmys.tv/atemmys/leadership/excommittee.php" style="line-height: 13px; background-position: 3px 3px;">Executive <br>Committee</a></li>
-		  <li><a href="http://cdn.emmys.tv/atemmys/leadership/committeelist.php">Committee List</a></li>	
-          <li><a href="http://cdn.emmys.tv/atemmys/chairman.php">From the Chairman</a></li>
-          <li><a href="http://cdn.emmys.tv/atemmys/calendar.php">Calendar</a></li>
-          <li><a href="http://cdn.emmys.tv/atemmys/copyrighttrademark.php" style="line-height: 13px; background-position: 3px 3px;">Copyright/Trademark Policies</a></li>
-          <li><a href="http://cdn.emmys.tv/contact/directions.php">Map &amp; Directions</a></li>
-          <li><a href="http://cdn.emmys.tv/atemmys/history.php">History</a></li>
-        </ol>
-      </li>
-      <li class="hidden">
-        <div>
-          <a href="http://cdn.emmys.tv/awards/index.php">Awards</a>
-          <img id="Awards" src="http://cdn.emmys.tv/images/icon-expand.gif" class="closeButton" onclick="toggleSubNav(this);" alt="Show/Hide SubNav">
-        </div>
-        <ol>
-          <li><a href="http://cdn.emmys.tv/awards/primetimeawards.php">Primetime Awards</a></li>
-          <li><a href="http://cdn.emmys.tv/awards/daytimeawards.php">Daytime Awards</a></li>
-          <li><a href="http://cdn.emmys.tv/awards/laareaawards.php">L.A. Area Awards</a></li>
-          <li><a href="http://cdn.emmys.tv/awards/rulesnprocedures.php">Rules &amp; Procedures</a></li>
-          <li><a href="http://cdn.emmys.tv/awards/awardsearch.php" style="line-height: 13px; background-position: 3px 3px;">Advanced Primetime Awards Search</a></li>
-           <li><a href="http://cdn.emmys.tv/awards/tvacadhonors.php" style="line-height: 13px; background-position: 3px 3px;">Television Academy Honors</a></li>
-          <li><a href="http://cdn.emmys.tv/awards/halloffame.php">Hall of Fame</a></li>
-          <li><a href="http://cdn.emmys.tv/awards/emmyorigin.php">Emmy Origin</a></li>
-        </ol>
-      </li>
-      <li class="hidden">
-        <div>
-          <a href="http://cdn.emmys.tv/membership/index.php">Membership</a>
-          <img id="Membership" src="http://cdn.emmys.tv/images/icon-expand.gif" class="closeButton" onclick="toggleSubNav(this);" alt="Show/Hide SubNav">
-        </div>
-        <ol>
-          <li><a href="http://cdn.emmys.tv/membership/howtojoin.php">How to Join</a></li>
-          <li><a href="http://cdn.emmys.tv/membership/membershiptypes.php">Membership Types</a></li>
-          <li><a href="http://cdn.emmys.tv/membership/requirements.php">Requirements</a></li>
-          <li><a href="http://cdn.emmys.tv/membership/applications.php">Applications</a></li>
-          <li><a href="http://cdn.emmys.tv/membership/benefits.php">Benefits</a></li>
-          <li><a href="http://cdn.emmys.tv/membership/rewardsprogram.php" style="line-height: 13px; background-position: 3px 3px;">Discount &amp;<br> Rewards Program</a></li>
-          <li><a href="http://cdn.emmys.tv/membership/filmgroup/index.php" style="line-height: 13px; background-position: 3px 3px;">Film Group <br>Screenings</a></li>
-          <!-- <li><a href="http://cdn.emmys.tv/membership/why/kawahara.php">Why I'm a Member</a></li> -->
-          <li><a href="http://cdn.emmys.tv/news/2005/december/diversity_dir.php">Diversity Directory</a></li>
-        	
-          <li><a href="http://cdn.emmys.tv/membership/internationalacademy.php" style="line-height: 13px; background-position: 3px 3px;">International <br>Academy</a></li>
-		  <li><a href="http://cdn.emmys.tv/membership/nationalacademy.php">National Academy</a></li>
-        </ol>
-      </li>
-      <li class="hidden">
-        <div>
-          <a href="http://cdn.emmys.tv/foundation/index.php">The Foundation</a>
-          <img id="Foundation" src="http://cdn.emmys.tv/images/icon-expand.gif" class="closeButton" onclick="toggleSubNav(this);" alt="Show/Hide SubNav">
-        </div>
-        <ol>
-		 <li><a href="http://cdn.emmys.tv/foundation/foundationboardlist.php">Foundation Board</a></li>
-          <li><a href="http://www.emmytvlegends.org/" target="_blank" style="line-height: 13px; background-position: 3px 3px;">Archive of American Television</a></li>
-          <li><a href="http://cdn.emmys.tv/foundation/education.php">Education Programs</a></li>
-          <li><a href="http://cdn.emmys.tv/foundation/collegetvawards.php">College TV Awards</a></li>
-		  <li><a href="http://cdn.emmys.tv/foundation/rogersscholar.php" style="line-height: 13px; background-position: 3px 3px;">Fred Rogers Memorial Scholarship</a></li>
-          <li><a href="http://cdn.emmys.tv/foundation/facultyseminar.php">Faculty Seminars</a></li>	
-           <li><a href="http://www.virtualtvacademy.org/" target="_blank">Virtual Academy</a></li>
-          <li><a href="http://cdn.emmys.tv/foundation/internships.php">Internship Programs</a></li>
-           <li><a href="http://cdn.emmys.tv/foundation/journeysdvd.php" style="line-height: 13px; background-position: 3px 3px;">Journeys Below the <br>
-Line DVD Series</a></li>
-		  <li><a href="http://cdn.emmys.tv/foundation/visitingprofessionals.php">Visiting Professionals</a></li>
-          <li><a href="http://cdn.emmys.tv/foundation/howtodonate.php">How to Donate</a></li>
-          <li><a href="http://cdn.emmys.tv/foundation/uclaarchives.php">UCLA Archives</a></li>
-          <li><a href="http://cdn.emmys.tv/foundation/usclibrary.php">USC Library</a></li>
-        </ol>
-      </li>
-      <li class="hidden">
-        <div>
-          <a href="http://cdn.emmys.tv/events/index.php">Events</a>
-          <img id="Events" src="http://cdn.emmys.tv/images/icon-expand.gif" class="closeButton" onclick="toggleSubNav(this);" alt="Show/Hide SubNav">
-        </div>
-        <ol>
-          <li><a href="http://cdn.emmys.tv/events/index.php">Events &amp; Activities</a></li>
-		  <li><a href="http://cdn.emmys.tv/atemmys/calendar.php">Calendar</a></li>
-           <li><a href="http://cdn.emmys.tv/membership/filmgroup/index.php" style="line-height: 13px; background-position: 3px 3px;">Film Group <br>Screenings</a></li>
-          <li><a href="http://cdn.emmys.tv/events/lhgtheatre.php" style="line-height: 13px; background-position: 3px 3px;">Leonard H. <br>Goldenson Theatre</a></li>
-		   <li><a href="http://cdn.emmys.tv/events/activities.php">Activities Committee</a></li>
-        </ol>
-      </li>
-      <li class="hidden">
-        <div>
-          <a href="http://cdn.emmys.tv/emmymag/index.php">Emmy Magazine</a>
-          <img id="EmmyMagazine" src="http://cdn.emmys.tv/images/icon-expand.gif" class="closeButton" onclick="toggleSubNav(this);" alt="Show/Hide SubNav">
-        </div>
-        <ol>
-          <li><a href="http://cdn.emmys.tv/emmymag/index.php">Current Issue</a></li>
-          <li><a href="http://cdn.emmys.tv/emmymag/subscribetoemmy.php">Subscribe to <i>emmy</i></a></li>
-          <li><a href="http://cdn.emmys.tv/emmymag/advertiserrates.php" style="line-height: 13px; background-position: 3px 3px;">Advertiser Rates and Specifications</a></li>
-          <li><a href="http://cdn.emmys.tv/emmymag/writersguidelines.php">Writer's Guidelines</a></li>
-          <li><a href="http://cdn.emmys.tv/emmymag/editorialcalendar.php">Editorial Calendar</a></li>
-        </ol>
-      </li>
-	   <li class="hidden">
-        <div>
-          <a href="http://cdn.emmys.tv/news/index.php">News</a>
-        </div>
-      </li>
-      <li class="hidden">
-        <div>
-          <a href="http://cdn.emmys.tv/media/">Media Center</a>
-        </div>
-      </li>
-      <li class="hidden">
-        <div>
-          <a href="http://cdn.emmys.tv/foundation/archive/index.php">Archive</a>
-        </div>
-      </li>
-   
-	   <li class="hidden">
-        <div>
-          <a href="http://cdn.emmys.tv/foundation/education.php">Students</a>
-          <img id="Students" src="http://cdn.emmys.tv/images/icon-expand.gif" class="closeButton" onclick="toggleSubNav(this);" alt="Show/Hide SubNav">        </div>
-        <ol>
-          <li><a href="http://cdn.emmys.tv/membership/academicmember_reqs.php" style="line-height: 13px; background-position: 3px 3px;">Student Membership Application</a></li>
-          <li><a href="http://cdn.emmys.tv/foundation/collegetvawards.php">College TV Awards</a></li>
-          <li><a href="http://cdn.emmys.tv/foundation/internships.php" style="line-height: 13px; background-position: 3px 3px;">Student Internship Program</a></li>
-          <li><a href="http://cdn.emmys.tv/foundation/rogersscholar.php" style="line-height: 13px; background-position: 3px 3px;">Fred Rogers Memorial Scholarship</a></li>
-          <li><a href="http://cdn.emmys.tv/foundation/journeysdvd.php" style="line-height: 13px; background-position: 3px 3px;">Journeys Below the <br>
-Line DVD Series</a></li>
-		  <li><a href="http://cdn.emmys.tv/foundation/PrincetonReview.php" style="line-height: 13px; background-position: 3px 3px;">Princeton Review <br>
-	      College Guide
-</a></li>
-        </ol>
-      </li>
-	 </ol>
+    <div id="main"><div id="main-inner" class="clear-block with-navbar">
+
+      <div id="content"><div id="content-inner">
+
+        
+								        
+                  <div id="content-header">
+              <h1 class="title">Privacy Policy</h1>
+                        
+                                  </div> 
+        
+				<div id="content-preface">
+									</div>
+
+        <div id="content-area">
+          <div id="node-800" class="node node-type-page"><div class="node-inner">
+
+  
+  
+  
+  
+  <div class="content">
+    <h2>Our Commitment to Privacy</h2>
+<p>The Academy of Television Arts &amp; Sciences’ (“Television Academy”) Privacy Policy was developed as an extension of our commitment to combine quality products and services with integrity in dealing with our users.  The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. </p>
+<h2>What Information Do We Collect?</h2>
+<p>When you visit our site you may provide us with two types of information:  personal information you actively choose to disclose (“Active Information”) and use information collected, in a way not visible to you, on an aggregate anonymous basis as you and others browse our site (“Passive Information”).</p>
+<h2>No Use of Our Site by Persons Under 13</h2>
+<p>No person under 13 should disclose information on this site.  You may learn more about protecting children’s privacy online  <a href="http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm">here</a></p>
+<h2>Active Information You Choose to Provide</h2>
+<p>In order to gain use of the site (become a “user”), we require you to disclose the your email address.  Your email address will only be used for password retrieval.  You may also choose to disclose your email address for additional communication options between the Television Academy and members.</p>
+<p>We use secure socket layer (SSL) encryption to protect the transmission of the information you submit to us when you use our secure online forms. The information you provide to us is stored securely.</p>
+<p>If you choose to post information on our site or maintain email, snailmail or telephone contact with us, we may retain such information also and its transmission via email is not secured.</p>
+<h2>Passive Information Collected</h2>
+<p><strong><br>
+What is a Cookie? </strong></p>
+<p>Cookies are a feature of web browser (Internet Explorer, Netscape Navigator, etc.) software that allows web servers to recognize the computer used to access a site.  They are small pieces of data that are stored by a user’s web browser on one site to simplify subsequent interactions with that site by the same user or to use the information to streamline the user’s transaction on related web pages.  This makes it easier for a user to move from site to site and to complete transactions over the Internet.  Cookies should make your online experience easier and more personalized.</p>
+<p>Our site utilizes cookies to collect information about how our site is used.  Passive Information gathered may include the date and time of visits, the site pages viewed, time spent at our site, the sites visited just before and just after our site.  If you do not wish to transmit “cookie” information about yourself, you may turn off the cookie function in your web browser; please consult the “Help” section of your browser to correctly do so. </p>
+<p>Our site’s servers also automatically identify your computer by its Internet Protocol address which is a unique string of numbers that is assigned to your computer by your Internet Service Provider.  Your IP address may be used to address problems with our server or administer our site or to gather broad demographic information about our users.</p>
+<p>Our site has been pre-populated with user accounts for all active members.  As an active member your online account is subject to the status of your account with the Television Academy.  As well, any information stored in your membership record may be used by our system for functional purposes.  At no time will your personal information be made available to non-staff without your permission.</p>
+<p><strong>How Do We Use the Information Collected?</strong></p>
+<p>Broadly speaking, persons we employ directly, or as contractors or agents at our direction, use Active Information for purposes of administering our business activities, providing customer services such as support, and making available other products or services we think may be of interest to our users.  We may use the Active Information or Passive Information you provide to us to contact you about changes to our site, new services, features or products we offer, or other information we think you shall find valuable.  If at any time you do not wish to receive such information, you may “opt-out” of doing so by sending an email to us at <a href="mailto:webmaster@emmys.org">webmaster@emmys.org</a>.</p>
+<p>We use Passive Information to gather information about our users and to enhance and design our site to make it easier, faster and friendlier to use.  Additionally, cookies help us know information about how many people visit our site, when they visit and how they use our service.  Passive Information may result in your viewing of particular advertising based on your user habits for your viewing on our site and a shopping experience customized to you in content, services and goods.</p>
+<p><strong>Your Information In Relation to Others We Link To</strong></p>
+<p>You may be able to access other websites through our site.  When you do so you are doing so subject to their policies regarding privacy and data collection and you should read those sites’ privacy policies to make sure you agree to them before using such sites. When you choose to shop at such sites, you should read their privacy policies to make sure you agree to them before making purchases.</p>
+<p><strong>Sharing Information with Advertisers or Other Third Parties</strong></p>
+<p>We may disclose anonymous information about user habits, characteristics and user patterns, based on aggregate user statistics to advertisers on our site.  The parties who perform services for us (credit card processors, merchant bank, our Internet Service Provider) may also have access to your information in performing such services.  Should we buy or sell assets of our company, another company may need to review our company’s assets, including your information, to make business decisions as to whether to acquire such assets.  </p>
+<p>Lithium Technologies provides the messageboard service on our site.  Security measures require minimal  user account information to be shared with Lithium.  Name, username and peer group are shared with the Lithium servers.</p>
+<p>Verisign, Shopsite Pro, PayPal and Wells Fargo are the online credit card vendors we work with.  The only information they receive is actively provided by you.<br>
+<strong><br>
+Sharing Information with the Government or As Otherwise Required by Law</strong></p>
+<p>We may be required by subpoena, law or government agency to disclose both Active and Passive Information you have provided to us.</p>
+<p>The Television Academy may track user trends and activity in order to provide useful data for staff and the Board of Governors to make logistical decisions about the services provided.</p>
+<p><strong>How Do We Secure Active Information and Passive Information?</strong></p>
+<p>We secure your personal information submitted by you by using reasonable efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of Active Information and Passive Information.  Your postings on this site and other communications you may have with us via email or snailmail may not be secure unless we advise you that security measures are in place prior to your sending information.  Therefore, if you choose to communicate with us through these means, you are assuming the risk of doing so and we request that you do not send or post sensitive information through these means.</p>
+<p><strong>How Can You Choose Not to Receive Information About Products or Services By Us or to Correct, Delete or Access Your Information</strong></p>
+<p>If you desire not to receive information about products or services we think may be of interest to you or if you wish to access, delete or correct you information, please send us an email to <a href="mailto:webmaster@emmys.org">webmaster@emmys.org</a>.</p>
+<p>YOUR USE OF OUR SITE MEANS THAT YOU ARE ACCEPT THE PRACTICES SET FORTH IN THIS POLICY.  WE RESERVE THE RIGHT TO MAKE CHANGES TO THE POLICY BY POSTING THE NEW VERSION WITH A NEW EFFECTIVE DATE.  YOUR CONTINUED USE INDICATES YOUR AGREEMENT TO THE CHANGES.</p>
   </div>
 
-  <script>
-    //alert('/PrivacyPolicy.php');
-    toggleSubNavByPageName('/PrivacyPolicy.php', null);
-  </script>
+  
+</div></div> <!-- /node-inner, /node -->
+        </div>
 
-				</td>
-				
-				<td width="521" align="left" valign="top" class="bodytext2"><span class="bodytext3"><b><font color="#333333">Privacy Policy</font></b></span><font color="#333333"><br>
-									</font>
-									<div align="left">
-										<table width="521" border="0" cellspacing="2" cellpadding="2" height="70">
-											<tbody><tr align="left" valign="top" height="70">
-											  <td class="bodytext2" align="left" valign="top" width="515" height="70"><br>
-												  <p><strong>Our Commitment to Privacy</strong></p>
-												  <p>The Academy of  Television Arts &amp; Sciences’ (“Television   Academy”) Privacy Policy  was developed as an extension of our commitment to combine quality products and  services with integrity in dealing with our users.&nbsp; The Policy is designed to assist you in  understanding how we collect, use and safeguard the personal information you  provide to us and to assist you in making informed decisions when using our  site and our products and services.&nbsp; </p>
-												  <p><strong>What  Information Do We Collect?</strong></p>
-												  <p>When you visit our  site you may provide us with two types of information:&nbsp; personal information you actively choose to  disclose (“Active Information”) and use information collected, in a way not  visible to you, on an aggregate anonymous basis as you and others browse our  site (“Passive Information”).</p>
-												  <p><strong>No Use of Our Site by Persons Under 13</strong></p>
-												  <p><em>No person under 13 should disclose  information on this site.</em>&nbsp; You may  learn more about protecting children’s privacy online by visiting&nbsp; www.ftc.gov/kidzprivacy.&nbsp; </p>
-												  <p align="left"><strong>Active Information You Choose to Provide </strong></p>
-												  <p>In order to  gain use of the site (become a “user”), we require you to disclose the your  email address.&nbsp; Your email address will  only be used for password retrieval.&nbsp; You  may also choose to disclose your email address for additional communication  options between the Television   Academy and members.</p>
-												  <p>We use secure socket layer (SSL) encryption to protect the  transmission of the information you submit to us when you use our<strong> </strong><strong><u>secure online forms</u></strong><strong><u>. </u></strong>The information you  provide to us is stored securely. </p>
-												  <p>If you choose to post information on our site or maintain  email, snailmail or telephone contact with us, we may retain such information  also and its transmission via email is not secured.</p>
-												  <p><strong>Passive Information Collected </strong></p>
-												  <p><strong>What is a Cookie?&nbsp; </strong></p>
-												  <p>Cookies are  a feature of web browser (Internet Explorer, Netscape Navigator, etc.) software  that allows web servers to recognize the computer used to access a site.&nbsp; They are small pieces of data that are stored  by a user’s web browser on one site to simplify subsequent interactions with  that site by the same user or to use the information to streamline the user’s  transaction on related web pages.&nbsp; This  makes it easier for a user to move from site to site and to complete transactions  over the Internet.&nbsp; Cookies should make  your online experience easier and more personalized.<strong></strong></p>
-												  <p>Our site  utilizes cookies to collect information about how our site is used.&nbsp; Passive Information gathered may include the  date and time of visits, the site pages viewed, time spent at our site, the  sites visited just before and just after our site.&nbsp; If you do not wish to transmit “cookie”  information about yourself, you may turn off the cookie function in your web browser;  please consult the “Help” section of your browser to correctly do so.&nbsp; </p>
-												  <p>Our site’s  servers also automatically identify your computer by its Internet Protocol  address which is a unique string of numbers that is assigned to your computer  by your Internet Service Provider.&nbsp; Your  IP address may be used to address problems with our server or administer our  site or to gather broad demographic information about our users.</p>
-												  <p>Our site  has been pre-populated with user accounts for all active members.&nbsp; As an active member your online account is subject  to the status of your account with the Television Academy.&nbsp; As well, any information stored in your  membership record may be used by our system for functional purposes.&nbsp; At no time will your personal information be  made available to non-staff without your permission. </p>
-												  <p><strong>How  Do We Use the Information Collected?</strong></p>
-												  <p>Broadly speaking,  persons we employ directly, or as contractors or agents at our direction, use  Active Information for purposes of administering our business activities,  providing customer services such as support, and making available other  products or services we think may be of interest to our users.&nbsp; We may use the Active Information or Passive  Information you provide to us to contact you about changes to our site, new  services, features or products we offer, or other information we think you  shall find valuable.&nbsp; If at any time you  do not wish to receive such information, you may “opt-out” of doing so by  sending an email to us at webmaster@emmys.org.</p>
-												  <p>We use Passive  Information to gather information about our users and to enhance and design our  site to make it easier, faster and friendlier to use.&nbsp; Additionally, cookies help us know  information about how many people visit our site, when they visit and how they  use our service.&nbsp; Passive Information may  result in your viewing of particular advertising based on your user habits for  your viewing on our site and a shopping experience customized to you in  content, services and goods.</p>
-												  <p><strong>Your Information In Relation to Others We Link To</strong></p>
-												  <p>You may be able to access other websites through  our site.&nbsp; When you do so you are doing  so subject to their policies regarding privacy and data collection and you  should read those sites’ privacy policies to make sure you agree to them before  using such sites. When you choose to shop at such sites, you should read their  privacy policies to make sure you agree to them before making purchases.</p>
-												  <p><strong>Sharing Information with Advertisers or Other Third Parties</strong></p>
-												  <p>We may disclose  anonymous information about user habits, characteristics and user patterns,  based on aggregate user statistics to advertisers on our site.&nbsp; The parties who perform services for us  (credit card processors, merchant bank, our Internet Service Provider) may also  have access to your information in performing such services.&nbsp; Should we buy or sell assets of our company,  another company may need to review our company’s assets, including your  information, to make business decisions as to whether to acquire such assets.&nbsp;&nbsp; </p>
-												  <p>Lithium Technologies  provides the messageboard service on our site.&nbsp;  Security measures require minimal&nbsp;  user account information to be shared with Lithium.&nbsp; Name, username and peer group are shared with  the Lithium servers.</p>
-												  <p>Verisign, Shopsite  Pro, PayPal and Wells Fargo are the online credit card vendors we work with.&nbsp; The only information they receive is actively  provided by you.</p>
-												  <p><strong>Sharing Information with the Government or As Otherwise Required by Law</strong></p>
-												  <p>We may be required by  subpoena, law or government agency to disclose both Active and Passive  Information you have provided to us.</p>
-                                                  <p>The Television   Academy may track user  trends and activity in order to provide useful data for staff and the Board of  Governors to make logistical decisions about the services provided. </p>
-                                                  <p><strong>How Do We Secure Active Information and Passive  Information?</strong></p>
-                                                  <p>We secure your  personal information submitted by you by using reasonable efforts to prevent  unauthorized access or disclosure, or accidental loss or destruction of Active  Information and Passive Information.&nbsp;  Your postings on this site and other communications you may have with us  via email or snailmail may not be secure unless we advise you that security  measures are in place prior to your sending information.&nbsp; Therefore, if you choose to communicate with  us through these means, you are assuming the risk of doing so and we request  that you do not send or post sensitive information through these means.</p>
-                                                  <p><strong>How Can You Choose Not to  Receive Information About Products or Services By Us or to Correct, Delete or  Access Your Information</strong></p>
-                                                  <p>If you desire not to  receive information about products or services we think may be of interest to  you or if you wish to access, delete or correct you information, please send us  an email to webmaster@emmys.org. </p>
-                                                  YOUR USE OF OUR SITE MEANS THAT YOU ARE ACCEPT  THE PRACTICES SET FORTH IN THIS POLICY.&nbsp; WE RESERVE THE RIGHT TO MAKE CHANGES TO THE  POLICY BY POSTING THE NEW VERSION WITH A NEW EFFECTIVE DATE.&nbsp; YOUR CONTINUED USE INDICATES YOUR AGREEMENT  TO THE CHANGES.<font color="#333333"><br>
-														<br>
-													</font></td>
-											</tr>
-										</tbody></table></div>
-			  </td>
-			</tr>
-		</tbody></table>
-		
-<table width="100%" border="0" cellspacing="0" cellpadding="2" background="http://cdn.emmys.tv/images/backgrounds/footer-background.jpg" height="96">
-	<tbody><tr align="center" id="sub_footer_new" height="21">
-		<td height="22" background="http://cdn.emmys.tv/images/backgrounds/subfoot_bar_1600x23.jpg"><span class="bottomnav"><a href="http://www.emmys.tv/foundation/archive/index.php">Archive of American Television</a> | <a href="http://www.emmys.tv/membership/applications.php">Membership Forms</a> | <a href="http://www.emmys.com" target="_blank">Emmys.com</a></span></td>
-	</tr>
-	<tr height="67">
-		<td align="center" valign="top" height="86">
-			<table width="665" border="0" cellspacing="0" cellpadding="5" background="http://cdn.emmys.tv/images/backgrounds/footer-backdrop.jpg" height="63">
-				<tbody><tr height="23">
-					<td align="center" valign="middle" width="700" height="23"><span class="bodytext1"><font color="white">© </font></span><span class="bodytext1b"><font color="white">1995-2009 Academy of Television Arts &amp; Sciences. All Rights Reserved.<br>
-									Emmy and the Emmy Statuette are the trademark property of ATAS/NATAS.<br>
- <a href="http://cdn.emmys.tv/PrivacyPolicy.php"><font color="white">Privacy Policy</font></a>&nbsp; | &nbsp;<a href="http://cdn.emmys.tv/UserAgreement.php"><font color="white">User Agreement</font></a>&nbsp; | &nbsp;<a href="http://cdn.emmys.tv/SiteSubmission.php"><font color="white">Site Submission Rules</font></a> | &nbsp;<a href="http://cdn.emmys.tv/atemmys/copyrighttrademark.php"><font color="white">Copyright/Trademark</font></a></font></span></td>
-				</tr>
-				<tr height="20">
-					<td align="center" valign="middle" width="700" height="20"><font color="white"><span class="bodytext1b">Emmys.tv domain name supplied by <a href="http://www.tv" target="new"><img src="http://cdn.emmys.tv/images/footer/footer-dottv.gif" width="26" height="17" align="absmiddle" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Emmys.tv hosting provided by <a href="http://www.pair.com" target="new"><img src="http://cdn.emmys.tv/images/footer/footer-pair.gif" width="44" height="20" align="absmiddle" border="0"></a><br>
-							</span></font></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-<!--ONESTAT SCRIPTCODE START-->
+        
+        
+      </div></div> 
+
+              <div id="navbar"><div id="navbar-inner" class="clear-block region region-navbar">
+
+          <a name="navigation" id="navigation"></a>
+                      <div id="search-box">
+              <form action="/privacy-policy" accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+    <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="24" value="" class="form-text">
+  </div>
+  <input type="submit" name="op" id="edit-submit" value="Search" class="form-submit">
+<input type="hidden" name="form_build_id" id="form-ca4e27fa9fb4104fc5bf2a6bfe2273e1" value="form-ca4e27fa9fb4104fc5bf2a6bfe2273e1">
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
+</div>
+
+</div></form>
+            </div> 
+          
+          
+                      <div id="secondary">
+              <ul class="links"><li class="menu-583 first"><a href="http://emmys.com" title="">Emmys.com</a></li>
+<li class="menu-584"><a href="http://emmysfoundation.org/" title="">EmmysFoundation.org</a></li>
+<li class="menu-33878"><a href="http://www.emmytvlegends.org/" title="">Archive of American Television</a></li>
+<li class="menu-596 last"><a href="http://online.emmys.tv" title="">Academy Member Signin</a></li>
+</ul>            </div> 
+          
+          <div id="block-menu_block-1" class="class-menu_block_1 block block-menu_block region-odd odd region-count-1 count-1"><div class="block-inner">
+
+  
+  <div class="content">
+    <div class="menu-name-primary-links parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="expanded first menu-mlid-34724"><a href="/awards" title="The Awards">The Awards</a><ul class="menu"><li class="expanded first menu-mlid-34736"><a href="/awards/primetime-emmy-awards" title="Primetime Emmy Awards">Primetime Emmy Awards</a><ul class="menu"><li class="leaf first menu-mlid-36542"><a href="/awards/primetime-emmy-awards/62nd-primetime-emmy-awards" title="62nd Primetime Emmy® Awards">2010</a></li>
+<li class="leaf menu-mlid-36068 has-children"><a href="/awards/primetime-emmy-awards-2009/2009" title="2009">2009</a></li>
+<li class="leaf menu-mlid-35052 has-children"><a href="/awards/primetime-emmy-awards/2008/nominationswinners-0" title="Primetime Emmy Awards (2008)">2008</a></li>
+<li class="leaf menu-mlid-35053 has-children"><a href="/awards/primetime-emmy-awards-2007" title="Primetime Emmy Awards (2007)">2007</a></li>
+<li class="leaf last menu-mlid-35856 has-children"><a href="/awards/primetime-emmy-awards/2006" title="Primetime Emmy Awards (2006)">2006</a></li>
+</ul></li>
+<li class="expanded menu-mlid-34729"><a href="/awards/la-area-emmy-awards" title="LA Area Emmy Awards">LA Area Emmy Awards</a><ul class="menu"><li class="leaf first menu-mlid-36534"><a href="/awards/la-area-emmy-awards" title="2010">2010</a></li>
+<li class="leaf menu-mlid-36069 has-children"><a href="/awards/la-area-emmy-awards/2009" title="2009">2009</a></li>
+<li class="leaf menu-mlid-35302 has-children"><a href="/awards/la-area-emmy-awards/la-area-emmys-awards-2008" title="LA Area Emmys Awards (2008)">2008</a></li>
+<li class="leaf menu-mlid-35303 has-children"><a href="/awards/la-area-emmy-awards/la-area-emmys-awards-2007" title="LA Area Emmys Awards (2007)">2007</a></li>
+<li class="leaf last menu-mlid-35304"><a href="/awards/la-area-emmy-awards/la-area-emmys-awards-2006" title="LA Area Emmys Awards (2006)">2006</a></li>
+</ul></li>
+<li class="expanded menu-mlid-34732"><a href="/awards/television-academy-honors" title="Television Academy Honors">Television Academy Honors</a><ul class="menu"><li class="leaf first menu-mlid-36138"><a href="/television-academy-honors-2010" title="Television Academy Honors (2010)">2010</a></li>
+<li class="leaf menu-mlid-35061"><a href="/awards/television-academy-honors/television-academy-honors-2009" title="Television Academy Honors (2009)">2009</a></li>
+<li class="leaf last menu-mlid-36128"><a href="/awards/television-academy-honors/2008" title="Television Academy Honors (2008)">2008</a></li>
+</ul></li>
+<li class="expanded menu-mlid-34733"><a href="/awards/hall-fame" title="Hall of Fame">Hall of Fame</a><ul class="menu"><li class="leaf first menu-mlid-36576"><a href="/hallfame/2010/bergen-smothers-brothers-19th-hall-fame" title="Wrap up article for 19th Annual Hall of Fame Induction">2010 Wrap Up</a></li>
+<li class="leaf menu-mlid-36582"><a href="http://www.emmys.com/articles/flip-don-pardo-snl-says-name" title="">Flip Cam Video</a></li>
+<li class="leaf menu-mlid-36583"><a href="http://www.emmys.com/articles/emmyscom-galleries-2010-hall-fame-gala%C2%A0" title="">Photo Gallery</a></li>
+<li class="leaf last menu-mlid-36001"><a href="/awards/hall-fame/hall-fame-archives-honorees" title="Hall of Fame Archives: Inductees">Hall of Fame Archives: Inductees</a></li>
+</ul></li>
+<li class="leaf menu-mlid-34731"><a href="/awards/college-television-awards" title="College Television Awards">College Television Awards</a></li>
+<li class="leaf menu-mlid-34730"><a href="/awards/daytime-emmy-awards" title="Daytime Emmy Awards">Daytime Emmy Awards</a></li>
+<li class="leaf menu-mlid-34737"><a href="/awards/in-memoriam" title="In Memoriam">In Memoriam</a></li>
+<li class="leaf menu-mlid-34735"><a href="http://emmys.com/nominations" title="">Primetime Award Search </a></li>
+<li class="leaf last menu-mlid-34734"><a href="/awards/history-emmy-statuette" title="History of Emmy Statuette">History of Emmy Statuette</a></li>
+</ul></li>
+<li class="expanded menu-mlid-34725"><a href="/academy" title="The Academy">The Academy</a><ul class="menu"><li class="leaf first menu-mlid-35017"><a href="/board-of-governors" title="Board of Governors">Board of Governors</a></li>
+<li class="leaf menu-mlid-35098"><a href="/executive-committee" title="Executive Committee">Executive Committee</a></li>
+<li class="leaf menu-mlid-34717"><a href="/academy/committee-list" title="Committee List">Committee List</a></li>
+<li class="leaf menu-mlid-34718"><a href="/academy/chairman" title="From the Chairman">From the Chairman</a></li>
+<li class="leaf menu-mlid-34719"><a href="/academy/map-directions" title="Map &amp; Directions">Map &amp; Directions</a></li>
+<li class="leaf menu-mlid-34726"><a href="/contact" title="">Contact</a></li>
+<li class="leaf menu-mlid-34721"><a href="/academy/faq" title="FAQ">FAQ</a></li>
+<li class="leaf menu-mlid-34722"><a href="/academy/history-television-adacemy" title="History">History</a></li>
+<li class="expanded last menu-mlid-34727"><a href="/academy/sister-organizations" title="Sister Organizations">Sister Organizations</a><ul class="menu"><li class="leaf first menu-mlid-34747"><a href="/membership/international-academy-television-arts-sciences" title="International Academy">International Academy</a></li>
+<li class="leaf last menu-mlid-34748"><a href="/membership/national-academy-television-arts-sciences" title="National Academy">National Academy</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded menu-mlid-34738"><a href="/membership" title="Membership">Membership</a><ul class="menu"><li class="leaf first menu-mlid-34739"><a href="/membership/how-join" title="How to Join">How to Join</a></li>
+<li class="leaf menu-mlid-34740"><a href="/membership/membership-types" title="Membership Types">Membership Types</a></li>
+<li class="leaf menu-mlid-35575"><a href="/membership/requirements" title="Membership Requirements">Membership Requirements</a></li>
+<li class="leaf menu-mlid-34741"><a href="/membership/film-group-membership" title="Film Group Membership">Film Group Membership</a></li>
+<li class="expanded menu-mlid-34744"><a href="/membership/benefits" title="Benefits">Benefits</a><ul class="menu"><li class="leaf first last menu-mlid-35345"><a href="/medical-insurance" title="Medical Insurance">Medical Insurance</a></li>
+</ul></li>
+<li class="leaf last menu-mlid-35713"><a href="/membership/discount-rewards-program" title="Discount Rewards Program">Discount Rewards Program</a></li>
+</ul></li>
+<li class="expanded menu-mlid-34765"><a href="/events" title="Events">Events</a><ul class="menu"><li class="leaf first menu-mlid-34769"><a href="/events/upcoming-events" title="Upcoming Events">Upcoming Events</a></li>
+<li class="leaf menu-mlid-34770"><a href="/events/past-events" title="Past Events">Past Events</a></li>
+<li class="leaf menu-mlid-34771"><a href="/events/film-screenings" title="Film Group Screenings">Film Group Screenings</a></li>
+<li class="expanded menu-mlid-34772"><a href="/events/goldenson-theatre" title="Leonard H. Goldenson Theatre">Goldenson Theatre</a><ul class="menu"><li class="leaf first menu-mlid-35991"><a href="/events/goldenson-theatre/booking" title="Booking">Booking</a></li>
+<li class="leaf menu-mlid-35992"><a href="/features" title="Features">Features</a></li>
+<li class="leaf last menu-mlid-35990"><a href="/events/goldenson-theatre/testimonials" title="Testimonials">Testimonials</a></li>
+</ul></li>
+<li class="leaf last menu-mlid-34773"><a href="/events/activities-committee" title="Activities Committee">Activities Committee</a></li>
+</ul></li>
+<li class="expanded menu-mlid-34762"><a href="/emmy-magazine" title="Emmys Extra">Emmy Magazine</a><ul class="menu"><li class="leaf first menu-mlid-34760"><a href="/emmy-magazine/current-issue" title="Current Issue">Current Issue</a></li>
+<li class="leaf menu-mlid-34761"><a href="/emmy-magazine/subscribe" title="Subscribe">Subscribe</a></li>
+<li class="leaf menu-mlid-34201"><a href="/emmymag/extra" title="">Emmy Extra</a></li>
+<li class="expanded menu-mlid-34763"><a href="/emmy-magazine/advertising" title="Advertising">Advertising</a><ul class="menu"><li class="leaf first menu-mlid-34781"><a href="/emmy-magazine/advertising/advertising-rates" title="Advertising Rates">Rates</a></li>
+<li class="leaf menu-mlid-34782"><a href="/emmy-magazine/advertising/advertising-requirements" title="Advertising Requirements">Requirements</a></li>
+<li class="leaf menu-mlid-34784"><a href="/emmy-magazine/advertising/sales-contacts" title="Sales Contacts">Sales Contacts</a></li>
+<li class="leaf last menu-mlid-34783"><a href="/emmy-magazine/advertising/production-schedule" title="Production Schedule">Production Schedule</a></li>
+</ul></li>
+<li class="expanded menu-mlid-34764"><a href="/emmy-magazine/editorial-info" title="Editorial Info">Editorial Overview</a><ul class="menu"><li class="leaf first menu-mlid-34788"><a href="/emmy-magazine/editorial-info/editorial-calendar" title="Editorial Calendar">2010 Editorial Calendar</a></li>
+<li class="leaf menu-mlid-34785"><a href="/emmy-magazine/editorial-info/writer-guidelines" title="Writer Guidelines">Writer Guidelines</a></li>
+<li class="leaf last menu-mlid-34786"><a href="/emmy-magazine/editorial-info/staff" title="Staff">Staff</a></li>
+</ul></li>
+<li class="leaf last menu-mlid-36573"><a href="/emmy-magazine-digital" title="Emmy Magazine Digital">Emmy Magazine Digital</a></li>
+</ul></li>
+<li class="leaf menu-mlid-34766"><a href="/news" title="News">News</a></li>
+<li class="expanded last menu-mlid-34768"><a href="/media-center" title="Press">Media Center</a><ul class="menu"><li class="leaf first menu-mlid-34775"><a href="/media-center/login" title="Login">Login</a></li>
+<li class="leaf last menu-mlid-34776"><a href="/media-center/contacts" title="Contacts">Contacts</a></li>
+</ul></li>
+</ul></div>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-addthis-0" class="class-addthis_0 block block-addthis region-even even region-count-2 count-2"><div class="block-inner">
+
+  
+  <div class="content">
+    
+      <a class="addthis-button" href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-share.gif" width="125" height="16" alt=""></a>
+      <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+        </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+
+        </div></div> 
+      
+      
+      
+    </div></div> 
+
+          <div id="footer"><div id="footer-inner" class="region region-footer">
+
+        <div id="block-menu-menu-footer-top" class="class-menu_menu-footer-top block block-menu region-odd odd region-count-1 count-3"><div class="block-inner">
+
+  
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/awards" title="">The Awards</a></li>
+<li class="leaf"><a href="/academy" title="">The Academy</a></li>
+<li class="leaf"><a href="/membership" title="">Membership</a></li>
+<li class="leaf"><a href="/events" title="">Events</a></li>
+<li class="leaf"><a href="/emmy-magazine" title="">Emmy Magazine</a></li>
+<li class="leaf"><a href="/news" title="">News</a></li>
+<li class="leaf"><a href="http://www.emmys.com" title="">emmys.com</a></li>
+<li class="leaf last"><a href="http://emmyfoundation.org" title="">emmyfoundation.org</a></li>
+</ul>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-menu-menu-footer-bottom" class="class-menu_menu-footer-bottom block block-menu region-even even region-count-2 count-4"><div class="block-inner">
+
+  
+  <div class="content">
+    <ul class="menu"><li class="leaf first active-trail"><a href="/privacy-policy" title="Privacy Policy" class="active">Privacy Policy</a></li>
+<li class="leaf"><a href="/user-agreement" title="User Agreement">User Agreement</a></li>
+<li class="leaf"><a href="/site-submission-rules" title="Site Submission Rules">Site Submission Rules</a></li>
+<li class="leaf"><a href="/copyrighttrademark" title="Copyright/Trademark">Copyright/Trademark</a></li>
+<li class="leaf"><a href="/press/public-downloads" title="">Downloads</a></li>
+<li class="leaf"><a href="/sitemap.xml" title="Sitemap">Sitemap</a></li>
+<li class="leaf last"><a href="/contact" title="Contact">Contact</a></li>
+</ul>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+        
+                  <div id="footer-message">© 1995-2009 Academy of Television Arts &amp; Sciences.  All rights reserved.  <span class="footer-emmys">Emmy®</span> and the Emmy statuette are the trademark property of ATAS/NATAS.</div>
+        
+      </div></div> 
+    
+  </div></div> 
+
+  
+  <script type="text/javascript" src="/sites/all/modules/contrib/google_analytics/googleanalytics.js?A"></script>
 <script type="text/javascript">
-<!--
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-10415029-1");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+	
+<script type="text/javascript">
 // Account ID : 206963
 // Website URL: http://www.emmys.tv
-// Copyright (C) 2002-2006 OneStat.com All Rights Reserved
+// Copyright (C) 2002-2007 OneStat.com All Rights Reserved
 function OneStat_Pageview()
 {
     var d=document;
@@ -644,21 +351,12 @@ function OneStat_Pageview()
 }
 
 OneStat_Pageview();
-//-->
-</script><img id="ONESTAT_TAG" border="0" width="1" height="1" src="https://stat.onestat.com/stat.aspx?tagver=2&amp;sid=206963&amp;url=https%3A//web.archive.org/web/20091017093048id_/http%253A//cdn.emmys.tv/PrivacyPolicy.php&amp;ti=Academy%20of%20Television%20Arts%20%26%20Sciences&amp;section=&amp;rf=&amp;tz=0&amp;ch=7&amp;js=1&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
+</script><img id="ONESTAT_TAG" border="0" width="1" height="1" src="https://stat.onestat.com/stat.aspx?tagver=2&amp;sid=206963&amp;url=https%3A//web.archive.org/web/20100324095258id_/http%253A//www.emmys.tv/privacy-policy&amp;ti=Privacy%20Policy%20%7C%20Academy%20of%20Television%20Arts%20%26%20Sciences&amp;section=&amp;rf=&amp;tz=0&amp;ch=11&amp;js=1&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
 <noscript>
-<a href="http://www.onestat.com"><img border="0" width="1" height="1" src="http://stat.onestat.com/stat.aspx?tagver=2&sid=206963&js=No&" ALT="OneStat.com Web Analytics"></a>
+<div>
+<a href="http://www.onestat.com"><img width="1" height="1" src="http://stat.onestat.com/stat.aspx?tagver=2&amp;sid=206963&amp;js=No&amp;" alt="OneStat.com Web Analytics" /></a>
+</div>
 </noscript>
-<!--ONESTAT SCRIPTCODE END-->	
 
 
-
-				</td>
-			</tr>
-		</tbody></table>
-		
-	</center>
-
-
-					
 </body></html>
