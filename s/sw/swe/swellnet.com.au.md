@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the swellnet.com.au privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112043931id_/http%3A//www.swellnet.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swellnet.com.au privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324175028id_/http%3A//www.swellnet.com.au/privacy) for the most accurate reproduction.*
 
-# s w e l l n e t -
+# Privacy › Swellnet
 
-If you have any questions or concerns regarding our privacy policy please direct them to privacy @ swellnet.com.au. You may also send a letter to: 
+If you have any questions or concerns regarding our privacy policy please direct them to privacy @ swellnet.com.au. 
+
+You may also send a letter to:
 
 Swellnet Pty Ltd  
-PO Box 66  
-Miami, Qld 4220  
+Level 5, 8 West Street  
+North Sydney, NSW, 2060  
 Australia
 
 * Swellnet does not sell, exchange, or release your personal information (name, e-mail address, mailing address, credit card data, etc.) without your consent to any third parties.  
