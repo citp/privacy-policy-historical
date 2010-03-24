@@ -1,69 +1,70 @@
-> *The following text is extracted and transformed from the emmys.tv privacy policy that was archived on 2009-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091017093048id_/http%3A//cdn.emmys.tv/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emmys.tv privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324095258id_/http%3A//www.emmys.tv/privacy-policy) for the most accurate reproduction.*
 
-# Academy of Television Arts & Sciences
+# Privacy Policy | Academy of Television Arts & Sciences
 
-**Our Commitment to Privacy**
+## Our Commitment to Privacy
 
-The Academy of Television Arts & Sciences’ (“Television Academy”) Privacy Policy was developed as an extension of our commitment to combine quality products and services with integrity in dealing with our users.  The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. 
+The Academy of Television Arts & Sciences’ (“Television Academy”) Privacy Policy was developed as an extension of our commitment to combine quality products and services with integrity in dealing with our users. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. 
 
-**What Information Do We Collect?**
+## What Information Do We Collect?
 
-When you visit our site you may provide us with two types of information:  personal information you actively choose to disclose (“Active Information”) and use information collected, in a way not visible to you, on an aggregate anonymous basis as you and others browse our site (“Passive Information”).
+When you visit our site you may provide us with two types of information: personal information you actively choose to disclose (“Active Information”) and use information collected, in a way not visible to you, on an aggregate anonymous basis as you and others browse our site (“Passive Information”).
 
-**No Use of Our Site by Persons Under 13**
+## No Use of Our Site by Persons Under 13
 
-_No person under 13 should disclose information on this site._   You may learn more about protecting children’s privacy online by visiting  www.ftc.gov/kidzprivacy. 
+No person under 13 should disclose information on this site. You may learn more about protecting children’s privacy online [here](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm)
 
-**Active Information You Choose to Provide**
+## Active Information You Choose to Provide
 
-In order to gain use of the site (become a “user”), we require you to disclose the your email address.  Your email address will only be used for password retrieval.  You may also choose to disclose your email address for additional communication options between the Television Academy and members.
+In order to gain use of the site (become a “user”), we require you to disclose the your email address. Your email address will only be used for password retrieval. You may also choose to disclose your email address for additional communication options between the Television Academy and members.
 
-We use secure socket layer (SSL) encryption to protect the transmission of the information you submit to us when you use our ******_secure online forms_** ** _._** The information you provide to us is stored securely. 
+We use secure socket layer (SSL) encryption to protect the transmission of the information you submit to us when you use our secure online forms. The information you provide to us is stored securely.
 
 If you choose to post information on our site or maintain email, snailmail or telephone contact with us, we may retain such information also and its transmission via email is not secured.
 
-**Passive Information Collected**
+## Passive Information Collected
 
-**What is a Cookie?   **
+**  
+What is a Cookie?**
 
-Cookies are a feature of web browser (Internet Explorer, Netscape Navigator, etc.) software that allows web servers to recognize the computer used to access a site.  They are small pieces of data that are stored by a user’s web browser on one site to simplify subsequent interactions with that site by the same user or to use the information to streamline the user’s transaction on related web pages.  This makes it easier for a user to move from site to site and to complete transactions over the Internet.  Cookies should make your online experience easier and more personalized. ****
+Cookies are a feature of web browser (Internet Explorer, Netscape Navigator, etc.) software that allows web servers to recognize the computer used to access a site. They are small pieces of data that are stored by a user’s web browser on one site to simplify subsequent interactions with that site by the same user or to use the information to streamline the user’s transaction on related web pages. This makes it easier for a user to move from site to site and to complete transactions over the Internet. Cookies should make your online experience easier and more personalized.
 
-Our site utilizes cookies to collect information about how our site is used.  Passive Information gathered may include the date and time of visits, the site pages viewed, time spent at our site, the sites visited just before and just after our site.  If you do not wish to transmit “cookie” information about yourself, you may turn off the cookie function in your web browser; please consult the “Help” section of your browser to correctly do so. 
+Our site utilizes cookies to collect information about how our site is used. Passive Information gathered may include the date and time of visits, the site pages viewed, time spent at our site, the sites visited just before and just after our site. If you do not wish to transmit “cookie” information about yourself, you may turn off the cookie function in your web browser; please consult the “Help” section of your browser to correctly do so. 
 
-Our site’s servers also automatically identify your computer by its Internet Protocol address which is a unique string of numbers that is assigned to your computer by your Internet Service Provider.  Your IP address may be used to address problems with our server or administer our site or to gather broad demographic information about our users.
+Our site’s servers also automatically identify your computer by its Internet Protocol address which is a unique string of numbers that is assigned to your computer by your Internet Service Provider. Your IP address may be used to address problems with our server or administer our site or to gather broad demographic information about our users.
 
-Our site has been pre-populated with user accounts for all active members.  As an active member your online account is subject to the status of your account with the Television Academy.  As well, any information stored in your membership record may be used by our system for functional purposes.  At no time will your personal information be made available to non-staff without your permission. 
+Our site has been pre-populated with user accounts for all active members. As an active member your online account is subject to the status of your account with the Television Academy. As well, any information stored in your membership record may be used by our system for functional purposes. At no time will your personal information be made available to non-staff without your permission.
 
 **How Do We Use the Information Collected?**
 
-Broadly speaking, persons we employ directly, or as contractors or agents at our direction, use Active Information for purposes of administering our business activities, providing customer services such as support, and making available other products or services we think may be of interest to our users.  We may use the Active Information or Passive Information you provide to us to contact you about changes to our site, new services, features or products we offer, or other information we think you shall find valuable.  If at any time you do not wish to receive such information, you may “opt-out” of doing so by sending an email to us at webmaster@emmys.org.
+Broadly speaking, persons we employ directly, or as contractors or agents at our direction, use Active Information for purposes of administering our business activities, providing customer services such as support, and making available other products or services we think may be of interest to our users. We may use the Active Information or Passive Information you provide to us to contact you about changes to our site, new services, features or products we offer, or other information we think you shall find valuable. If at any time you do not wish to receive such information, you may “opt-out” of doing so by sending an email to us at [webmaster@emmys.org](mailto:webmaster@emmys.org).
 
-We use Passive Information to gather information about our users and to enhance and design our site to make it easier, faster and friendlier to use.  Additionally, cookies help us know information about how many people visit our site, when they visit and how they use our service.  Passive Information may result in your viewing of particular advertising based on your user habits for your viewing on our site and a shopping experience customized to you in content, services and goods.
+We use Passive Information to gather information about our users and to enhance and design our site to make it easier, faster and friendlier to use. Additionally, cookies help us know information about how many people visit our site, when they visit and how they use our service. Passive Information may result in your viewing of particular advertising based on your user habits for your viewing on our site and a shopping experience customized to you in content, services and goods.
 
 **Your Information In Relation to Others We Link To**
 
-You may be able to access other websites through our site.  When you do so you are doing so subject to their policies regarding privacy and data collection and you should read those sites’ privacy policies to make sure you agree to them before using such sites. When you choose to shop at such sites, you should read their privacy policies to make sure you agree to them before making purchases.
+You may be able to access other websites through our site. When you do so you are doing so subject to their policies regarding privacy and data collection and you should read those sites’ privacy policies to make sure you agree to them before using such sites. When you choose to shop at such sites, you should read their privacy policies to make sure you agree to them before making purchases.
 
 **Sharing Information with Advertisers or Other Third Parties**
 
-We may disclose anonymous information about user habits, characteristics and user patterns, based on aggregate user statistics to advertisers on our site.  The parties who perform services for us (credit card processors, merchant bank, our Internet Service Provider) may also have access to your information in performing such services.  Should we buy or sell assets of our company, another company may need to review our company’s assets, including your information, to make business decisions as to whether to acquire such assets.  
+We may disclose anonymous information about user habits, characteristics and user patterns, based on aggregate user statistics to advertisers on our site. The parties who perform services for us (credit card processors, merchant bank, our Internet Service Provider) may also have access to your information in performing such services. Should we buy or sell assets of our company, another company may need to review our company’s assets, including your information, to make business decisions as to whether to acquire such assets. 
 
-Lithium Technologies provides the messageboard service on our site.  Security measures require minimal  user account information to be shared with Lithium.  Name, username and peer group are shared with the Lithium servers.
+Lithium Technologies provides the messageboard service on our site. Security measures require minimal user account information to be shared with Lithium. Name, username and peer group are shared with the Lithium servers.
 
-Verisign, Shopsite Pro, PayPal and Wells Fargo are the online credit card vendors we work with.  The only information they receive is actively provided by you.
-
-**Sharing Information with the Government or As Otherwise Required by Law**
+Verisign, Shopsite Pro, PayPal and Wells Fargo are the online credit card vendors we work with. The only information they receive is actively provided by you.  
+**  
+Sharing Information with the Government or As Otherwise Required by Law**
 
 We may be required by subpoena, law or government agency to disclose both Active and Passive Information you have provided to us.
 
-The Television Academy may track user trends and activity in order to provide useful data for staff and the Board of Governors to make logistical decisions about the services provided. 
+The Television Academy may track user trends and activity in order to provide useful data for staff and the Board of Governors to make logistical decisions about the services provided.
 
 **How Do We Secure Active Information and Passive Information?**
 
-We secure your personal information submitted by you by using reasonable efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of Active Information and Passive Information.  Your postings on this site and other communications you may have with us via email or snailmail may not be secure unless we advise you that security measures are in place prior to your sending information.  Therefore, if you choose to communicate with us through these means, you are assuming the risk of doing so and we request that you do not send or post sensitive information through these means.
+We secure your personal information submitted by you by using reasonable efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of Active Information and Passive Information. Your postings on this site and other communications you may have with us via email or snailmail may not be secure unless we advise you that security measures are in place prior to your sending information. Therefore, if you choose to communicate with us through these means, you are assuming the risk of doing so and we request that you do not send or post sensitive information through these means.
 
 **How Can You Choose Not to Receive Information About Products or Services By Us or to Correct, Delete or Access Your Information**
 
-If you desire not to receive information about products or services we think may be of interest to you or if you wish to access, delete or correct you information, please send us an email to webmaster@emmys.org. 
+If you desire not to receive information about products or services we think may be of interest to you or if you wish to access, delete or correct you information, please send us an email to [webmaster@emmys.org](mailto:webmaster@emmys.org).
 
-YOUR USE OF OUR SITE MEANS THAT YOU ARE ACCEPT THE PRACTICES SET FORTH IN THIS POLICY.  WE RESERVE THE RIGHT TO MAKE CHANGES TO THE POLICY BY POSTING THE NEW VERSION WITH A NEW EFFECTIVE DATE.  YOUR CONTINUED USE INDICATES YOUR AGREEMENT TO THE CHANGES.
+YOUR USE OF OUR SITE MEANS THAT YOU ARE ACCEPT THE PRACTICES SET FORTH IN THIS POLICY. WE RESERVE THE RIGHT TO MAKE CHANGES TO THE POLICY BY POSTING THE NEW VERSION WITH A NEW EFFECTIVE DATE. YOUR CONTINUED USE INDICATES YOUR AGREEMENT TO THE CHANGES.
