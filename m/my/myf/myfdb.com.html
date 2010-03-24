@@ -1,15 +1,19 @@
-<!--The following is the downloaded HTML source of the myfdb.com privacy policy that was archived on 2009-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091213005807id_/http%3A//www.myfdb.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myfdb.com privacy policy that was archived on 2010-03-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100324194750id_/http%3A//www.myfdb.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"><head>
-	<title>MyFDB</title>
+	<title>Privacy Policy - MyFDB.com</title>
+        <meta name="description" content="Privacy Policy">
 	<meta http-equiv="X-UA-Compatible" content="chrome=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
   
-  <link href="/stylesheets/all.css?1260483311" media="screen" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/all.css?1266868291" media="screen" rel="stylesheet" type="text/css">
+  
+  <link href="/stylesheets/smoothness/jquery-ui-1.7.2.custom.css?1266269910" media="screen" rel="stylesheet" type="text/css">
+  
   
   <!--[if IE 7]>
-    <link href="/stylesheets/ie7.css?1260483175" media="screen" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/ie7.css?1266868291" media="screen" rel="stylesheet" type="text/css" />
   <![endif]-->
   
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.3/jquery.min.js" type="text/javascript"></script>
@@ -18,7 +22,7 @@
   <script type="text/javascript" src="http://api.mixpanel.com/site_media/js/api/mpmetrics.js"></script>
   <script type="text/javascript"> try { mpmetrics.init("837614cff138f649b1055b4e93d81989");} catch(err) {} </script> 
   
-  <script src="/javascripts/combined.js?1260483175" type="text/javascript"></script>
+  <script src="/javascripts/combined.js?1266868291" type="text/javascript"></script>
   
   
   
@@ -30,6 +34,57 @@
 //]]>
 </script>
   
+  <script type="text/javascript">
+  
+        (function($){
+          $.fn.shuffle = function() {
+            return this.each(function(){
+              var items = $(this).children();
+              return (items.length)
+                ? $(this).html($.shuffle(items))
+                : this;
+            });
+          }
+
+          $.shuffle = function(arr) {
+            for(
+              var j, x, i = arr.length; i;
+              j = parseInt(Math.random() * i),
+              x = arr[--i], arr[i] = arr[j], arr[j] = x
+            );
+            return arr;
+          }
+        })(jQuery);
+  
+  			jQuery(document).ready(function(){
+  			  jQuery(".cover", this).stop().animate({top:'300px'},{queue:false,duration:1});
+  				//Caption Sliding (Partially Hidden to Visible)
+  				jQuery('.boxgrid.caption').hover(function(){
+  					jQuery(".cover", this).stop().animate({top:'248px'},{queue:false,duration:160});
+  				}, function() {
+  					jQuery(".cover", this).stop().animate({top:'300px'},{queue:false,duration:160});
+  				});
+  			
+  		
+  				
+  				jQuery('#headlines ul').shuffle();
+  				
+  				jQuery('#headlines ul li').slice(6, 19).remove();
+  				
+
+  				
+
+
+          
+          
+  				
+  			});			
+  			
+  </script>
+  
+  <script type="text/javascript" src="/javascripts/overview.js"></script>
+  
+  
   <link rel="search" type="application/opensearchdescription+xml" href="http://www.myfdb.com/open_search.xml">
   
   <script src="/javascripts/cufon.js" type="text/javascript"></script>
@@ -37,10 +92,7 @@
 <script src="/javascripts/cufon/Didot_400-Didot_700-Didot_italic_400.font.js" type="text/javascript"></script>
 
 <script type="text/javascript">  
-  Cufon.replace('.alpha_pagination a', {
-      fontFamily: 'Didot',
-      hover: true
-  });
+
   
   Cufon.replace('.home_feature h3 a', {
       fontFamily: 'Didot',
@@ -48,10 +100,8 @@
   });
 
   
-	Cufon.replace('#content h1', { fontFamily: 'Didot' });
+
 	Cufon.replace('#content h3', { fontFamily: 'Walkway' });
-	Cufon.replace('div.people_top_fives h2', { fontFamily: 'Didot' });
-	Cufon.replace('h4.sidebars', { fontFamily: 'Didot' });
 	Cufon.replace('#issue_browser .issue_item_info h2', { fontFamily: 'Didot' });
 	
 </script>
@@ -59,63 +109,15 @@
 
 <body>
       <div id="background_top">
-        <div id="utility_navigation">
-<ul>
-<li>
-<a href="/users/new">Pricing &amp; Sign Up</a>
-</li>
-<li class="bold">
-<a href="/#sign_in" id="sign_in_link">Sign In</a>
-</li>
-</ul>
-</div>
-<div class="" id="sign_in_dialog">
-<div id="sign_in_tab">
-<div>Sign In</div>
-</div>
-<div class="clearfix" id="sign_in_form_wrapper">
-<div id="background_wrapper">
-<div id="hidden_wrapper">
-<div id="animation_wrapper">
-  <form action="/user_sessions" id="sign_in_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="F4vHtyjaiDpGJ8qAHrO4/+d8kvx8y4aJHQ2hGEY/R9c="></div>
-<fieldset>
-<label for="user_session_login">Username</label>
-<input id="user_session_login" name="user_session[login]" size="30" type="text">
-</fieldset>
-<fieldset>
-<label for="user_session_password">Password</label>
-<input id="user_session_password" name="user_session[password]" size="30" type="password">
-</fieldset>
-<fieldset>
-<input id="sign_in_button" src="/images/overview/sign_in_button.png?1260483175" type="image">
-<span>
-<a href="#" id="forgot_password_link">Forgot your password?</a>
-</span>
-</fieldset>
-  </form>
-<div>
-<form action="/account/password_resets" id="forgot_password_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="F4vHtyjaiDpGJ8qAHrO4/+d8kvx8y4aJHQ2hGEY/R9c="></div>
-<p>Enter your email address and we’ll send you an email with instructions to reset your password.</p>
-<fieldset>
-<label for="user_email">Email</label>
-<input id="user_email" name="user[email]" size="30" type="text">
-</fieldset>
-<fieldset>
-<input id="send_email_button" src="/images/overview/send_email_button.png?1260483175" type="image">
-<span>
-<a href="/#sign_in" id="back_to_sign_in_link">&lt; Back to Sign In</a>
-</span>
-</fieldset>
-</form>
-<script></script>
-</div>
-
-</div>
-</div>
-</div>
-</div>
-</div>
-
+        
+                <div id="utility_navigation">
+        <ul>
+        
+        <li><a href="/sign_in">Existing users, Sign in here.</a></li>
+        
+        </ul>
+        </div>
+        
       </div>
       
       <div id="wrapper">
@@ -134,7 +136,7 @@
                   <li class=""><a href="/people" class="">People</a></li>
                   <li class=""><a href="/companies" class="">Companies</a></li>
                   <li class=""><a href="/brands" class="">Brands</a></li>
-                  <li class=""><a href="/magazines" class="">Publications</a></li>
+                  <li class=""><a href="/publications" class="">Publications</a></li>
                   <!-- <li class=""><a href="/campaigns" class="">Campaigns</a></li> -->
                   <li class=""><a href="/runway_shows" class="">Runway</a></li>
                 </ul>
@@ -150,7 +152,11 @@
     		      
     		      
     		    
-            <h1>Privacy Policy</h1>
+             
+ 
+
+
+<h1>Privacy Policy</h1>
     		    
             <p>If you have questions or concerns regarding this statement, you should first contact MyFDB via electronic mail at help@MyFDB.com or by mail directed to: <br><br>
 
@@ -218,7 +224,7 @@
           <div id="peripherals">
             
             <div class="my_fashion_database">
-              <img src="/images/my_fashion_database.png">
+              <img src="/images/my_fashion_database.png" alt="My Fashion Database">
             </div>
 
               
@@ -256,21 +262,29 @@
       <div id="background_bottom">
         &nbsp;
       </div>
+  
+  
       <script type="text/javascript">
-    //<![CDATA[
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    //]]>
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-    <script type="text/javascript">
-    //<![CDATA[
-    var pageTracker = _gat._getTracker("UA-5381364-1");
-    pageTracker._trackPageview();
-    //]]>
-    </script>
+        $(document).ready(function() {
+          mpmetrics.track('Page View', {'Era':'The Wall Came Down'});
+        });
+      </script>
 
+      <script type="text/javascript">
+      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+      <script type="text/javascript">
+      try {
+      var pageTracker = _gat._getTracker("UA-5381364-1");
+      pageTracker._trackPageview();
+      } catch(err) {}</script>
+  
   
   <script type="text/javascript">Cufon.now();</script>
+  
+    
+  
 
 
 </body></html>
