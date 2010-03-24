@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floristquest.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422055022id_/http%3A//floristquest.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floristquest.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324081501id_/http%3A//floristquest.com/privacy.php) for the most accurate reproduction.*
 
 # Florist Quest - Privacy Policy
 
@@ -46,7 +46,7 @@ For security purposes Florist Quest sometimes collects and analyzes the Internet
 
 **Questions**
 
-Questions regarding our Conditions of Usage, Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link in the side menu. Or you can email us at: [info@{$smarty.server.SERVER_NAME}](mailto:info@%7B$smarty.server.SERVER_NAME%7D)
+Questions regarding our Conditions of Usage, Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link in the side menu. Or you can email us at: [info@floristquest.com](mailto:info@floristquest.com)
 
   
 
