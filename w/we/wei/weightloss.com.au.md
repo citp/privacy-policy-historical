@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightloss.com.au privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227230225id_/http%3A//www.weightloss.com.au/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightloss.com.au privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324185710id_/http%3A//www.weightloss.com.au/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of Weightloss.com.au - Australia's premier weight loss website
 
@@ -91,6 +91,6 @@ Contact us.
 
 If you have any questions about this policy statement, the practices of our Sites, or your dealings with Ultimate Weightloss, please contact us Email: scott@weightloss.com.au
 
-Click [here to contact us](https://web.archive.org/contact.htm)
+Click [here to contact us](https://web.archive.org/contact.html)
 
 Thank you for visiting weightloss.com.au.
