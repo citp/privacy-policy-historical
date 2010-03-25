@@ -1,462 +1,33 @@
-<!--The following is the downloaded HTML source of the freeticketclassifieds.com privacy policy that was archived on 2009-02-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090224061524id_/http%3A//www.freeticketclassifieds.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freeticketclassifieds.com privacy policy that was archived on 2010-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100325203545id_/http%3A//www.freeticketclassifieds.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en" dir="ltr"><head>     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">     <base href="http://www.freeticketclassifieds.com/">               <title>Free Ticket Classifieds - Post and Browse Classified Ads</title>     <meta name="description" content="At Free Tickets Classifieds, users can post and browse classified ads for concert, theater, and sports tickets.">     <meta name="keywords" content="mlb, nfl, ncaa, nba, concert, theater, sports, ticket, classifieds, buy, sell, by owner, for sale">               <link rel="StyleSheet" href="./themes/modern/css/layout.css?3.2.0" type="text/css">     <link rel="StyleSheet" href="./themes/modern/css/pages.css?3.2.0" type="text/css">               <script src="./gorum/js/jquery/jquery.js" type="text/javascript"></script>
-<script src="./gorum/js/jquery/jquery.curvycorners.js" type="text/javascript"></script>
-<script src="./themes/modern/javascripts/modern.js" type="text/javascript"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en" dir="ltr"><head> <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> <base href="http://www.freeticketclassifieds.com/">   <title>Free Ticket Classifieds - Post and Browse Event Ticket Classified Ads</title> <script type="text/javascript">var DID=60103;var MyPageName='Free Ticket Classifieds - Post and Browse Event Ticket Classified Ads';</script> <script src="http://sniff.visistat.com/sniff.js" type="text/javascript"></script> <meta name="description" content="At Free Tickets Classifieds, users can post and browse classified ads for concert, theater, and sports tickets."> <meta name="keywords" content="concert ticket classifieds, theater ticket classifieds, sports ticket classifieds, ticket listings, classifieds, buy tickets, sell tickets, tickets by owner, tickets for sale">   <link rel="StyleSheet" href="combine.php?type=css&amp;theme=modern&amp;files=modern@layout,modern@pages,modern@scrollable,jscrollpane" type="text/css">
+<script src="combine.php?type=javascript&amp;theme=modern&amp;files=jquery,noah,curvycorners,livequery,modern,center,scrollable,em,jscrollpane,noah_scrollable,tablehover" type="text/javascript"></script>
+<script type="text/javascript">var $JQ = jQuery.noConflict();</script>
 <script src="./gorum/js/jquery/jquery.dimensions.js" type="text/javascript"></script>
-<script src="./gorum/js/jquery/jquery.center.js" type="text/javascript"></script>
-<script src="./gorum/js/jquery/jquery.scrollable.js" type="text/javascript"></script>
-<script src="./gorum/js/jquery/jquery.em.js" type="text/javascript"></script>
-<script src="./gorum/js/jquery/jquery.jscrollpane.js" type="text/javascript"></script>
-<script src="./gorum/js/jquery/tablehover.js" type="text/javascript"></script>
-<script src="./gorum/js/cookie.js" type="text/javascript"></script>
-<style type="text/css">@import url(./themes/modern/css/scrollable.css);</style>
-<style type="text/css">@import url(./gorum/js/jquery/jscrollpane.css);</style>
-     
+<script type="text/javascript">var $JQ = jQuery.noConflict();</script>
+ 
     <script type="text/javascript">
     <!--
-    
-                function advanceScrollable( which )
-                {                
-                    var api = $('#scrollable' + which).scrollable();
-                    var status = api.getStatus(); 
-                    if( status.size>=status.total ) return;  // too few elements
-                    var dir = eval('autoScrollDir' + which);
-                    if( dir=='right' )
-                    {
-                        if( status.index == status.total - status.size )
-                        {
-                            eval('autoScrollDir' + which + ' = "left";');
-                            api.prev();
-                        }
-                        else api.next();
-                    }
-                    else
-                    {
-                        if( status.index == 0 )
-                        {
-                            eval('autoScrollDir' + which + ' = "right";');
-                            api.next();
-                        }
-                        else api.prev();
-                    }
-                }
-                            
-        $(function() {
-            
-                $('div.template').corner({
-                    tl: { radius: 6 }, 
-                    tr: { radius: 6 }, 
-                    bl: { radius: 0 }, 
-                    br: { radius: 0 },
-                    autoPad: false}); 
-                $('div.forCurvyFooter').corner({
-                    tl: { radius: 0 }, 
-                    tr: { radius: 0 }, 
-                    bl: { radius: 6 }, 
-                    br: { radius: 6 },
-                    autoPad: false}); 
-            
-
-            $('div.items, a.next, a.prev').show(); 
-            if( $('div.items .item').length > 4 ) $('a.next, a.prev').show(); 
-            // centering the navi:
-            $('div.item').hover(function(){
-                $(this).find('.title').addClass('activeTitle');
-                $(this).find('.inner, .label, .cell, .picture').addClass('activeDesc');
-            }, function() {
-                $(this).find('.title').removeClass('activeTitle');
-                $(this).find('.inner, .label, .cell, .picture').removeClass('activeDesc');
-            });
-            $('.item .inner').jScrollPane();
-        
-
-            $('#scrollable8_customListRight').scrollable({vertical: true}).
-            find('div.navi').css('width', ($(this).find('span').length * 14) + 'px').
-            center({horizontal: true, vertical: false}); 
-        
-
-            $('#scrollable6_customListLeft').scrollable({vertical: true, loop: true}).
-            find('div.navi').css('width', ($(this).find('span').length * 14) + 'px').
-            center({horizontal: true, vertical: false}); 
-        
-
-                autoScrollDir6_customListLeft = 'right';
-                setInterval( 'advanceScrollable("6_customListLeft")', 15000);
-            
-
-        $('#LanguageSelectorWidget').change(function(){
-            var newSelection = this.options[this.selectedIndex].value;
-            if( newSelection!=0 )
-            {
-                createCookie('noahLanguage',newSelection,500);
-                document.location='http://www.freeticketclassifieds.com/';
-            }
-        });
-    ;
+                    
+        jQuery(document).ready(function($) {
+            $.noah.addCurvyCornersToPresentationDivs();
+$.noah.globalScrollableOnLoad();
+$.noah.scrollableOnLoad('6', 'customListAboveContent', 'vertical: false, loop: true');
+$.noah.autoscrollOnLoad('6', 'customListAboveContent', '5');
+$.noah.scrollableOnLoad('8', 'customListRight', 'vertical: true');
+$.noah.scrollableOnLoad('8', 'customListLeft', 'vertical: true');;
         })
         
     -->
-    </script>        </head>     <body>          <div id="outerMain" class="outerMain_twoSidebars">     <div id="sidebarLeft">     <br><br><br><br><br><font color="#008001"><center> <b>Featured Ticket Listings</b></center></font>       
-<!-- root element for scrollable --> 
-<div class="scrollable vertical" id="scrollable6_customListLeft"> 
-     
-  <!-- those small round navigational buttons are auto- generated. styled with CSS --> 
-  <div class="navi"></div> 
-   
-  <!-- "prev page" link is generated here. styling with CSS --> 
-  <a class="prev"></a>     
-   
-  <!-- container for the scrollable items --> 
-  <div class="items vertical"> 
-          <div class="item">
-        <a href="item/2229">
-          <div class="title">
-            2 Jonas Brothers at the Houston Rodeo Tickets 3/8          </div>
-        </a>  
-        <div class="inner">
-          <a href="item/2229">
-                                          <div class="picture">
-                  <img src="./pictures/listings/th_small_2229_27.jpg" width="55" height="31" border="0" rel="133x74">                </div>
-                                                        <span class="label">Date</span>: 03-08-09                                  <hr>
-                  
-                                                        <span class="label">Price</span>: $30 ea                                  <hr>
-                  
-                                                        I have for sale 2 tickets to the Jonas Brothers concert at the Houston Rodeo on March 8th at Reliant Stadium - $30 each.  These are SRO tickets and are first come first served.  For more info please check out my listing over at </a><a href="http://www.ticketcity.com/rodeo-tickets/houston-rodeo-tickets/houston-rodeo-jonas-brothers-tickets-reliant-stadium-march-8-3-45pm.html" rel="nofollow">Jonas Brothers Tix</a>.  Thank you.                  
-                                      
-        </div>  
-      </div>
-          <div class="item">
-        <a href="item/2228">
-          <div class="title">
-            2 Houston Rodeo - Taylor Swift Tickets 3/20          </div>
-        </a>  
-        <div class="inner">
-          <a href="item/2228">
-                                          <div class="picture">
-                  <img src="./pictures/listings/th_small_2228_27.jpg" width="42" height="41" border="0" rel="127x124">                </div>
-                                                        <span class="label">Date</span>: 03-20-09                                  <hr>
-                  
-                                                        <span class="label">Price</span>: $57 ea                                  <hr>
-                  
-                                                        I am looking to sell my 2 tickets to the Taylor Swift Houston Rodeo Concert on March. 20th for just $57. The seats are in section 601 row K - First come first served. For more info check out my listing over at </a><a href="http://www.ticketcity.com/rodeo-tickets/houston-rodeo-tickets/houston-rodeo-taylor-swift-tickets-reliant-stadium-march-20-6-45pm.html" rel="nofollow">HR Tickets</a>. Thanx.                  
-                                      
-        </div>  
-      </div>
-          <div class="item">
-        <a href="item/2227">
-          <div class="title">
-            4 Jimmy Eat World Tickets 2/28 - The Metro          </div>
-        </a>  
-        <div class="inner">
-          <a href="item/2227">
-                                          <div class="picture">
-                  <img src="./pictures/listings/th_small_2227_27.jpg" width="55" height="37" border="0" rel="145x98">                </div>
-                                                        <span class="label">Date</span>:                                   <hr>
-                  
-                                                        <span class="label">Price</span>: $213 ea                                  <hr>
-                  
-                                                        I am looking to sell my 4 tickets to the Jimmy Eat World Concert this Saturday Feb. 28th for just $213. These are floor/ general admission tickets - First come first served. For more info check out my listing over at </a><a href="http://metroseats.com/Events/Default/Jimmy_Eat_World">Jimmy Tickets</a>. Thanx.                  
-                                      
-        </div>  
-      </div>
-          <div class="item">
-        <a href="item/2226">
-          <div class="title">
-            2 Stanford vs. UCLATickets 2/26          </div>
-        </a>  
-        <div class="inner">
-          <a href="item/2226">
-                                          <div class="picture">
-                  <img src="./pictures/listings/th_small_2226_27.gif" width="55" height="28" border="0" rel="187x97">                </div>
-                                                        <span class="label">Date</span>: 02-26-09                                  <hr>
-                  
-                                                        <span class="label">Price</span>: $80 ea                                  <hr>
-                  
-                                                        I am looking to sell my 2 tickets to the Stanford vs. UCLA basketball game this Thursday Feb. 26th for just $80. The seats are in section 7 row M - First come first served. For more info check out my listing over at </a><a href="http://www.ticketcity.com/college-basketball-tickets/pac-10-basketball/stanford-cardinal-basketball-tickets/stanford-cardinal-mens-basketball-tickets-maples-pavilion-february-26-7-30pm.html" rel="nofollow">Stanford Tickets</a>. Thanx.                  
-                                      
-        </div>  
-      </div>
-          <div class="item">
-        <a href="item/2225">
-          <div class="title">
-            4 Michigan vs. Purdue Basketball Tickets 2/26          </div>
-        </a>  
-        <div class="inner">
-          <a href="item/2225">
-                                          <div class="picture">
-                  <img src="./pictures/listings/th_small_2225_27.jpg" width="55" height="35" border="0" rel="187x118">                </div>
-                                                        <span class="label">Date</span>: 02-26-09                                  <hr>
-                  
-                                                        <span class="label">Price</span>: $24 ea                                  <hr>
-                  
-                                                        I am looking to sell my 4 tickets to the Michigan vs. Purdue basketball game this Thursday Feb. 26th for just $24. The seats are in section 35 row 29 - can sell in pairs. For more info check out my listing over at </a><a href="http://www.ticketcity.com/college-basketball-tickets/big-ten-basketball/michigan-wolverines-basketball-tickets/purdue-at-michigan-basketball-tickets-crisler-arena-february-26-9-00pm.html" rel="nofollow">Michigan Tickets</a>. Thanx.                  
-                                      
-        </div>  
-      </div>
-          <div class="item">
-        <a href="item/2224">
-          <div class="title">
-            4 Wake Forest vs. NC State Basketball Tickets 2/26          </div>
-        </a>  
-        <div class="inner">
-          <a href="item/2224">
-                                          <div class="picture">
-                  <img src="./pictures/listings/th_small_2224_27.jpg" width="51" height="41" border="0" rel="102x82">                </div>
-                                                        <span class="label">Date</span>: 02-26-09                                  <hr>
-                  
-                                                        <span class="label">Price</span>: $30 ea                                  <hr>
-                  
-                                                        I am looking to sell my 4 tickets to the Wake Forest vs. NC State basketball game this Thursday Feb. 26th for just $30. The seats are in section 237 row R - can sell in pairs. For more info check out my listing over at </a><a href="http://www.ticketcity.com/college-basketball-tickets/acc-basketball/wake-forest-demon-deacons-basketball-tickets/nc-state-at-wake-forest-basketball-tickets-lawrence-joel-coliseum-february-26-8-00pm.html" rel="nofollow">WF Tickets</a>. Thanx.                  
-                                      
-        </div>  
-      </div>
-          <div class="item">
-        <a href="item/2223">
-          <div class="title">
-            2 Illinois vs. Minnesota Basketball Tickets 2.26.2009          </div>
-        </a>  
-        <div class="inner">
-          <a href="item/2223">
-                                          <div class="picture">
-                  <img src="./pictures/listings/th_small_2223_27.jpg" width="27" height="41" border="0" rel="83x126">                </div>
-                                                        <span class="label">Date</span>: 02-26-09                                  <hr>
-                  
-                                                        <span class="label">Price</span>: $35 ea                                  <hr>
-                  
-                                                        I am looking to sell my 2 tickets to the Illinois vs.Minnesota basketball game this Thursday. 2/26 for just $35. The seats are in section C22 row 20 - first come first served. For more info check out my listing over at </a><a href="http://metroseats.com/Events/Default/Illinois_Fighting_Illini_Basketball">Illini Tickets</a>. Thanx.                  
-                                      
-        </div>  
-      </div>
-          <div class="item">
-        <a href="item/2222">
-          <div class="title">
-            4 Texas vs.Texas Tech Tickets 2/25          </div>
-        </a>  
-        <div class="inner">
-          <a href="item/2222">
-                                          <div class="picture">
-                  <img src="./pictures/listings/th_small_2222_27.jpg" width="55" height="36" border="0" rel="124x81">                </div>
-                                                        <span class="label">Date</span>: 02-25-09                                  <hr>
-                  
-                                                        <span class="label">Price</span>: $6 ea                                  <hr>
-                  
-                                                        I am looking to sell my 4 tickets to the Texas vs.Texas Tech basketball game this Weds. 2/25 for just $6 each. The seats are in section 64 row 16 - can sell in pairs. For more info check out my listing over at </a><a href="http://tix6.info/sports/college-basketball-tickets/texas-longhorns/" rel="nofollow">Longhorns Tickets</a>. Thanx.                  
-                                      
-        </div>  
-      </div>
-          <div class="item">
-        <a href="item/2221">
-          <div class="title">
-            2 Maryland vs. Duke Basketball Tickets 2/25          </div>
-        </a>  
-        <div class="inner">
-          <a href="item/2221">
-                                          <div class="picture">
-                  <img src="./pictures/listings/th_small_2221_27.jpg" width="40" height="41" border="0" rel="138x140">                </div>
-                                                        <span class="label">Date</span>: 02-25-09                                  <hr>
-                  
-                                                        <span class="label">Price</span>: $115 ea                                  <hr>
-                  
-                                                        I am looking to sell my 2 tickets to the Maryland vs.Duke basketball game this Weds. 2/25 for just $115. The seats are in section 211 row 14 - can sell in pairs. For more info check out my listing over at </a><a href="http://www.ticketcity.com/college-basketball-tickets/acc-basketball/maryland-terrapins-basketball-tickets/duke-at-maryland-basketball-tickets-comcast-center-february-25-9-00pm.html" rel="nofollow">Maryland Tickets</a>. Thanx.                  
-                                      
-        </div>  
-      </div>
-          <div class="item">
-        <a href="item/2220">
-          <div class="title">
-            4 Michigan State vs. Iowa Basketball Tickets 2/25          </div>
-        </a>  
-        <div class="inner">
-          <a href="item/2220">
-                                          <div class="picture">
-                  <img src="./pictures/listings/th_small_2220_27.jpg" width="41" height="41" border="0" rel="107x107">                </div>
-                                                        <span class="label">Date</span>: 02-25-09                                  <hr>
-                  
-                                                        <span class="label">Price</span>: $9 ea                                  <hr>
-                  
-                                                        I am looking to sell my 4 tickets to the MSU vs.Iowa basketball game on Weds. 2/25 for just $9 each. The seats are in section 218 row 14 - First come first served. For more info check out my listing over at </a><a href="http://www.ticketcity.com/college-basketball-tickets/big-ten-basketball/michigan-state-spartans-basketball-tickets/iowa-at-michigan-state-basketball-tickets-breslin-center-february-25-8-30pm.html" rel="nofollow">MSU Tickets</a>. Thanx.                  
-                                      
-        </div>  
-      </div>
-          <div class="item">
-        <a href="item/2219">
-          <div class="title">
-            2 Clemson vs. Virginia Tech Basketball Tickets 2/25          </div>
-        </a>  
-        <div class="inner">
-          <a href="item/2219">
-                                          <div class="picture">
-                  <img src="./pictures/listings/th_small_2219_27.jpg" width="42" height="41" border="0" rel="126x124">                </div>
-                                                        <span class="label">Date</span>: 02-25-09                                  <hr>
-                  
-                                                        <span class="label">Price</span>: $19 ea                                  <hr>
-                  
-                                                        I am looking to sell my 2 tickets to the Clemson vs.Virginia Tech basketball game on Weds. 2/25 for just $19 each. The seats are in section 239 row G - First come first served. For more info check out my listing over at </a><a href="http://www.ticketcity.com/college-basketball-tickets/acc-basketball/clemson-tigers-basketball-tickets/virginia-tech-at-clemson-basketball-tickets-littlejohn-coliseum-february-25-7-30pm.html" rel="nofollow">Clemson Tickets</a>. Thanx.                  
-                                      
-        </div>  
-      </div>
-          <div class="item">
-        <a href="item/2218">
-          <div class="title">
-            4 Marquette vs. UCONN Basketball Tickets 2/25          </div>
-        </a>  
-        <div class="inner">
-          <a href="item/2218">
-                                          <div class="picture">
-                  <img src="./pictures/listings/th_small_2218_27.jpg" width="54" height="41" border="0" rel="118x89">                </div>
-                                                        <span class="label">Date</span>: 02-25-09                                  <hr>
-                  
-                                                        <span class="label">Price</span>: $40 ea                                  <hr>
-                  
-                                                        I am looking to sell my 4 tickets to the Marquette vs.Connecticut basketball game on Weds. 2/25 for just $40. The seats are in section 409 row N - can sell in pairs. For more info check out my listing over at </a><a href="http://www.ticketcity.com/college-basketball-tickets/big-east-basketball/marquette-golden-eagles-basketball-tickets/connecticut-at-marquette-basketball-tickets-bradley-center-february-25-6-00pm.html" rel="nofollow">Marquette Tickets</a>. Thanx.                  
-                                      
-        </div>  
-      </div>
-          <div class="item">
-        <a href="item/2217">
-          <div class="title">
-            4 Notre Dame vs. Rutgers Basketball Tickets 2/25          </div>
-        </a>  
-        <div class="inner">
-          <a href="item/2217">
-                                          <div class="picture">
-                  <img src="./pictures/listings/th_small_2217_27.jpg" width="42" height="41" border="0" rel="96x93">                </div>
-                                                        <span class="label">Date</span>: 02-25-09                                  <hr>
-                  
-                                                        <span class="label">Price</span>: $20 ea                                  <hr>
-                  
-                                                        I am looking to sell my 4 tickets to the Notre Dame vs.Rutgers basketball game on Weds. 2/25 for just $20. The seats are in section 109 row 10 - can sell in pairs. For more info check out my listing over at </a><a href="http://www.ticketcity.com/college-basketball-tickets/big-east-basketball/notre-dame-fighting-irish-basketball-tickets/rutgers-at-notre-dame-basketball-tickets-joyce-center-february-25-tba.html" rel="nofollow">ND Tickets</a>. Thanx.                  
-                                      
-        </div>  
-      </div>
-          <div class="item">
-        <a href="item/2215">
-          <div class="title">
-            6 Kobalt Tools 500 Tickets 3/8 - Atlanta Motor Speedway          </div>
-        </a>  
-        <div class="inner">
-          <a href="item/2215">
-                                          <div class="picture">
-                  <img src="./pictures/listings/th_small_2215_27.jpg" width="55" height="22" border="0" rel="99x40">                </div>
-                                                        <span class="label">Date</span>: 03-08-09                                  <hr>
-                  
-                                                        <span class="label">Price</span>: $80 ea                                  <hr>
-                  
-                                                        Hi, I have for sale 6 tickets to the Kobalt Tools 500 on Sunday March 8th at the Atlanta Motor Speedway for just $80. These are nice seats in section Elliot 57  row 10- can split in pairs. If you want them please see my listing at </a><a href="http://metroseats.com/Events/Default/Kobalt_Tools_500">Koblat Tools 500 Tickets</a>. Thanks.                  
-                                      
-        </div>  
-      </div>
-          <div class="item">
-        <a href="item/2214">
-          <div class="title">
-            4 Sams Town 300 Tickets 2/28          </div>
-        </a>  
-        <div class="inner">
-          <a href="item/2214">
-                                          <div class="picture">
-                  <img src="./pictures/listings/th_small_2214_27.jpg" width="55" height="30" border="0" rel="121x67">                </div>
-                                                        <span class="label">Date</span>: 02-28-09                                  <hr>
-                  
-                                                        <span class="label">Price</span>: $21 ea                                  <hr>
-                  
-                                                        Hi, I have for sale 4 tickets to the Sams Town 300 on Saturday February 28th at the Las Vegas Speedway for just $21. These are nice seats in section TD-WHI  row 19- can split in pairs. If you want them please see my listing at </a><a href="http://metroseats.com/Events/Default/Sams_Town_300">Sams Town 300 Tickets</a>. Thanks.                  
-                                      
-        </div>  
-      </div>
-          <div class="item">
-        <a href="item/2213">
-          <div class="title">
-            4 Monster Jam Tickets - Oakland - 2/28/2009          </div>
-        </a>  
-        <div class="inner">
-          <a href="item/2213">
-                                          <div class="picture">
-                  <img src="./pictures/listings/th_small_2213_27.jpg" width="55" height="34" border="0" rel="133x82">                </div>
-                                                        <span class="label">Date</span>: 02-28-09                                  <hr>
-                  
-                                                        <span class="label">Price</span>: $40 ea                                  <hr>
-                  
-                                                        Hi, I have for sale 4 tickets to the Monster Jam on Saturday February 28th (7:30 PM) at the Oakland-Alameda County Coliseum for just $40. These are nice  seats in section 211 row 4- can split in pairs. If you want them please see my listing at </a><a href="http://www.ticketcity.com/monster-jam-tickets/monster-jam-tickets-oakland-alameda-county-coliseum-february-28-7-30pm.html" rel="nofollow">Monster Jam Tickets</a>. Thanks.                  
-                                      
-        </div>  
-      </div>
-          <div class="item">
-        <a href="item/2212">
-          <div class="title">
-            4 Monster Jam Tickets Saturday 2/28 - Jacksonville          </div>
-        </a>  
-        <div class="inner">
-          <a href="item/2212">
-                                          <div class="picture">
-                  <img src="./pictures/listings/th_small_2212_27.jpg" width="45" height="41" border="0" rel="111x101">                </div>
-                                                        <span class="label">Date</span>: 02-28-09                                  <hr>
-                  
-                                                        <span class="label">Price</span>: $45 ea                                  <hr>
-                  
-                                                        I have for sale 4 tickets to the Monster Truck Jam on Saturday February 28th (7:30 PM) at the Jacksonville Municipal Stadium for just $45. These are nice mid-level seats in section 322 row F- can split in pairs. If you want them please see my listing at </a><a href="http://www.ticketcity.com/monster-jam-tickets/monster-jam-tickets-jacksonville-municipal-stadium-february-28-7-30pm.html" rel="nofollow">Monster Jam Tickets</a>. Thanks.                  
-                                      
-        </div>  
-      </div>
-          <div class="item">
-        <a href="item/2211">
-          <div class="title">
-            4 Monster Truck Jam Tickets 2/28 - Baltimore          </div>
-        </a>  
-        <div class="inner">
-          <a href="item/2211">
-                                          <div class="picture">
-                  <img src="./pictures/listings/th_small_2211_27.jpg" width="55" height="41" border="0" rel="126x94">                </div>
-                                                        <span class="label">Date</span>: 02-28-09                                  <hr>
-                  
-                                                        <span class="label">Price</span>: $48 ea                                  <hr>
-                  
-                                                        I have for sale 4 tickets to the Monster Truck Jam on Saturday February 28th (7:30 PM) at the 1st Mariner Arena for just $48. These are nice lower level seats in section 112 row M. If you want them please see my listing at </a><a href="http://metroseats.com/Tickets/Default/372744">Monster Jam Tickets - Baltimore</a>. Thanks.                  
-                                      
-        </div>  
-      </div>
-          <div class="item">
-        <a href="item/2210">
-          <div class="title">
-            3 Monster Jam Tickets 2/28 - Tuscon          </div>
-        </a>  
-        <div class="inner">
-          <a href="item/2210">
-                                          <div class="picture">
-                  <img src="./pictures/listings/th_small_2210_27.jpg" width="29" height="41" border="0" rel="88x126">                </div>
-                                                        <span class="label">Date</span>: 02-28-09                                  <hr>
-                  
-                                                        <span class="label">Price</span>: $65 ea                                  <hr>
-                  
-                                                        I have for sale 3 tickets to the Monster Truck Jam on Saturday 2/28 (7:30) at the TCC Arena for just $65.  These are fine seats in section WC21 row C (Lower Level).  If you want them please see my listing at </a><a href="http://metroseats.com/Tickets/Default/396310">Monster Jam Tickets - Tuscon</a>.  Thanks.                  
-                                      
-        </div>  
-      </div>
-          <div class="item">
-        <a href="item/2209">
-          <div class="title">
-            4 Modest Mouse Tickets 2/25 - Tempe          </div>
-        </a>  
-        <div class="inner">
-          <a href="item/2209">
-                                          <div class="picture">
-                  <img src="./pictures/listings/th_small_2209_27.jpg" width="41" height="41" border="0" rel="130x130">                </div>
-                                                        <span class="label">Date</span>: 02-25-09                                  <hr>
-                  
-                                                        <span class="label">Price</span>: $85 ea                                  <hr>
-                  
-                                                        I am selling 4 tickets to the Modest Mouse concert on Feb. 25th at the Marquee Theater in Tempe for just $85.  These are general admission/ floor tickets - can sell in pairs.  If you want them check out my listing over at </a><a href="http://theticketlodge.com/concerts/rock-music-tickets/modest-mouse/" rel="nofollow">Modest Mouse Tickets</a>.  Thanks.                  
-                                      
-        </div>  
-      </div>
-      </div> 
-   
-  <!-- "prev page" link --> 
-  <a class="next"></a> 
-     
-</div> 
-   <br> <center> <table cellpadding="0" cellspacing="1" bgcolor="#008001" width="100px"> <tbody><tr> <td bgcolor="#ffffff" width="100%"><a rel="nofollow" href="http://freeticketclassifieds.com/membership.html"><img src="http://freeticketclassifieds.com/pictures/buyads.jpg" border="0"></a></td> </tr> <tr> <td bgcolor="#008001" width="100%" align="center" style="font-family:verdana;font-size:12px;font-weight:bold;color:#ffffff;"><div style="padding:3px 3px 3px 3px;">Buy Ad Space!</div></td> </tr> </tbody></table> </center>        </div>       <div id="main" class="main_twoSidebars">              <div id="top">         <div id="header"><img src="./themes/modern/images/headpic.gif"></div>         <div id="loginMenu">           <table>
+    </script> <meta name="verify-v1" content="tv62aDlKaIMq5tG97YYK9q7c4HPY0+ZEv49I3K92sQM=">
+<meta name="msvalidate.01" content="A3FB8AD503CADEEFB7CEF4C0369F98A5">
+<link rel="alternate" type="application/rss+xml" title="Free Ticket Classifieds RSS Feed" href="http://www.freeticketclassifieds.com/rss/latest/20"> </head>  <body>  <div id="outerMain" class="outerMain_twoSidebars"> 
+
+<div id="sidebarLeft"> 
+<center><br><br><a href="http://twitter.com/FTClassifieds" target="_blank"> <img src="http://c1069392.cdn.cloudfiles.rackspacecloud.com/twitter.png" alt="Follow FreeTicketClassifieds.com" title="Follow Free Ticket Classifieds" border="0" width="64" height="64"></a> <a href="http://www.facebook.com/pages/Free-Ticket-Classifieds/289146488067" target="_blank"> <img src="http://c1069392.cdn.cloudfiles.rackspacecloud.com/facebook.png" alt="Become a FreeTicketClassifieds.com FAN" title="Become a FreeTicketClassifieds.com FAN" border="0" width="64" height="64"></a><br><br><br><a onclick="VSLT('highoctanetickets.com')" target="new" rel="nofollow" href="http://www.highoctanetickets.com"><img src="http://c1069392.cdn.cloudfiles.rackspacecloud.com/hotplug2.jpg" border="0" width="150" height="220"></a> <br><br><a onclick="VSLT('ticketcity Banner')" target="new" rel="nofollow" href="http://www.ticketcity.com/"><img src="http://c1069392.cdn.cloudfiles.rackspacecloud.com/160x600Sports.gif" alt="TicketCity Tickets" border="0" width="160" height="600"></a><br> <br><!--Begin ClixTrac.com Banner code --><a href="http://www.clixtrac.com/banner/click.php?banner=00015636" target="_blank"><img src="http://c1069392.cdn.cloudfiles.rackspacecloud.com/00015636.jpg" alt="Click Here!" border="0" width="150" height="220"></a><!--End ClixTrac.com Banner code --><br> <br><table cellpadding="0" cellspacing="1" bgcolor="#00a040" width="100px"> <tbody><tr> <td bgcolor="#ffffff" width="100%"><a onclick="VSLT('going2theshow.com')" target="new" rel="nofollow" href=" http://going2theshow.com/"><img src="http://c1069392.cdn.cloudfiles.rackspacecloud.com/g2s.jpg" border="0" width="150" height="120"></a></td> </tr> <tr> <td bgcolor="#00a040" width="100%" align="center" style="font-family:verdana;font-size:12px;font-weight:bold;color:#ffffff;"><div style="padding:3px 3px 3px 3px;"><font size="1">Presale Passwords!</font></div></td> </tr> <tr> <td bgcolor="#ffffff" width="100%" style="font-family:verdana;font-size:10px;"> <div style="padding:5px 5px 5px 5px;"><center><a onclick="VSLT('going2theshow.com')" target="new" rel="nofollow" href="http://going2theshow.com/tag/free-presale-passcodes/" style="color:0060c0;">Presale Concert Codes</a></center></div><div style="padding:5px 5px 5px 5px;"><center><a onclick="VSLT('going2theshow.com')" target="new" rel="nofollow" href="http://going2theshow.com" style="color:0060c0;">Free Presale Passwords</a></center></div> </td> </tr></tbody></table> </center> 
+
+</div> <div id="main" class="main_twoSidebars">  <div id="top"> <div id="loginMenu"> <table>
   <tbody><tr>
       
           <td><div class="loginMenu"><a class="noindent" href="http://www.freeticketclassifieds.com/">
@@ -472,13 +43,10 @@
       </div></td>
       
       
-          <td><div class="loginMenu"><a href="item/create_form/">
+          <td><div class="loginMenu"><a href="item/create_form/52">
         Submit ad</a>
       </div></td>
       
-          <td><div class="loginMenu"><a href="search/create_form/">
-        Search</a>
-      </div></td>
       
       
           <td><div class="loginMenu"><a href="customlist/3">
@@ -490,34 +58,290 @@
         
   </tr>
 </tbody></table>
+<br><br><br><form action="http://www.freeticketclassifieds.com/searchresults" id="cse-search-box">
+  <div align="right">
+    <input type="hidden" name="cx" value="017351165326186081601:rdca6nogaeq">
+    <input type="hidden" name="cof" value="FORID:11">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input type="text" name="q" size="51">
+    <input type="submit" name="sa" value="Search">
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script> 
+<br>
+</div>
 
-         </div>                    <ul class="feedList">                            <li>                 <a href="rss/latest/20" class="color1">                   Latest 20 ads                 </a>               </li>                          </ul>                  </div>         <div id="userStatusBar">         <div id="userStatus">           Please register or log in.         </div>                    <div id="languageSelector">             
-<select name="LanguageSelectorWidget" id="LanguageSelectorWidget">
-<option value="0" selected="">-- Change language --</option>
-<option value="en">English</option>
-<option value="af">Afrikaans</option>
-<option value="da">Danish</option>
-<option value="de">German</option>
-<option value="el">Greek</option>
-<option value="es">Spanish</option>
-<option value="fr">French</option>
-<option value="hu">Hungarian</option>
-<option value="id">Indonesian</option>
-<option value="it">Italian</option>
-<option value="lt">Lithuanian</option>
-<option value="nl">Dutch</option>
-<option value="pt">Portuguese</option>
-<option value="sv">Swedish</option>
-<option value="br">Brazilian Portuguese</option>
-<option value="pl">Polish</option>
-<option value="tk">Turkish</option>
-</select>
-           </div>                             </div>       <div id="sep"></div>                     <p></p><center>Want more exposure for your FREE ticket ads?  Sign up for a <a href="http://www.freeticketclassifieds.com/membership"><font color="008001">Premium Membership</font> </a><br><a href="http://www.freeticketclassifieds.com/scams"><font color="008001">Tips to Avoid Scams</font> </a>  |  <a href="http://www.FreeTicketClassifieds.CommunityToolbars.com"><font color="008001">Download our free toolbar</font></a><font color="008001">  |  <a href="http://www.freeticketclassifieds.com/widgets"><font color="008001"> Get Our Widgets</font></a><font color="008001"><br></font> </font></center><p></p><font color="008001">                     <div id="content">                  <div id="contentArea">           
 
- <div id="content">
-                <div id="contentArea">
+ <div id="header"><a href="/"><img src="http://c1069392.cdn.cloudfiles.rackspacecloud.com/headpic.png" border="0" width="310" height="100" alt="Free Ticket Classifieds"></a> </div> <br><br> <ul class="feedList">  <li> <a href="rss/latest/20" class="color1"> Latest 20 ads </a> </li>  </ul>  </div> <div id="userStatusBar"> <div id="userStatus"> Welcome to Free Ticket Classifieds </div>   </div> <div id="sep"></div>     <div id="infoTextBar"><div id="infoText">Please, register yourself or login to submit an ad!</div></div>  
+<!-- root element for scrollable --> 
+
+<h2><font color="#00a040"><b>Featured Ticket Ads</b></font> </h2>
+
+<div class="scrollable horizontal" id="scrollable6_customListAboveContent">
+     
+  <!-- those small round navigational buttons are auto- generated. styled with CSS --> 
+    
+  <!-- "prev page" link is generated here. styling with CSS --> 
+  <a class="prev"></a>     
+   
+  <!-- container for the scrollable items --> 
+  <div class="items horizontal"> 
+          <div class="item">
+        
+          <div class="title">
+<a href="other_sports_tickets/16462_houston_dynamo_tickets">
+            Houston Dynamo Tickets</a>          
+</div>
+        <div class="inner">
+                                          <div class="picture">
+                  <a href="other_sports_tickets/16462_houston_dynamo_tickets"><img src="./pictures/listings/th_large_16462_27.jpg" width="100" height="100" border="0"></a> 
+                </div>
+                                                        <a href="other_sports_tickets/16462_houston_dynamo_tickets">Houston Dynamo Soccer Tickets, Robertson Stadium, Houston,  TX, Houston Dynamo Vs. Real Salt Lake Tickets, *For ...</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16462_houston_dynamo_tickets"><span class="label">Event Date</span>: 04.01.2010</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16462_houston_dynamo_tickets"><span class="label">Section</span>: ** 222 ***</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16462_houston_dynamo_tickets"><span class="label">Price</span>: $32 each</a> 
+                  
+                           
+        </div>  
+         
+      </div>
+          <div class="item">
+        
+          <div class="title">
+<a href="other_sports_tickets/16461_fc_dallas_tickets">
+            FC Dallas Tickets</a>          
+</div>
+        <div class="inner">
+                                          <div class="picture">
+                  <a href="other_sports_tickets/16461_fc_dallas_tickets"><img src="./pictures/listings/th_large_16461_27.jpg" width="100" height="100" border="0"></a> 
+                </div>
+                                                        <a href="other_sports_tickets/16461_fc_dallas_tickets">FC Dallas Tickets, Pizza Hut Park, Frisco, TX, Sat, Apr 10 2010, FC Dallas Vs. Columbus Crew Tickets, *For Extra saving ...</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16461_fc_dallas_tickets"><span class="label">Event Date</span>: 04.10.2010</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16461_fc_dallas_tickets"><span class="label">Section</span>: 105- platinum parking pass included</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16461_fc_dallas_tickets"><span class="label">Price</span>: $35 each</a> 
+                  
+                           
+        </div>  
+         
+      </div>
+          <div class="item">
+        
+          <div class="title">
+<a href="other_sports_tickets/16460_d_c__united_soccer_tickets">
+            D.C. United Soccer Tickets</a>          
+</div>
+        <div class="inner">
+                                          <div class="picture">
+                  <a href="other_sports_tickets/16460_d_c__united_soccer_tickets"><img src="./pictures/listings/th_large_16460_27.jpg" width="100" height="100" border="0"></a> 
+                </div>
+                                                        <a href="other_sports_tickets/16460_d_c__united_soccer_tickets">D.C. United Soccer Tickets, Rfk Stadium, Washington, DC, D.C. United Vs. Chivas USA Tickets, Sat, May 29 2010, ...</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16460_d_c__united_soccer_tickets"><span class="label">Event Date</span>: 05.29.2010</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16460_d_c__united_soccer_tickets"><span class="label">Section</span>: 107 - SECOND ROW MID-FIELD.</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16460_d_c__united_soccer_tickets"><span class="label">Price</span>: $64 each</a> 
+                  
+                           
+        </div>  
+         
+      </div>
+          <div class="item">
+        
+          <div class="title">
+<a href="other_sports_tickets/16459_new_york_red_bulls_soccer_tickets">
+            New York Red Bulls Soccer Tickets</a>          
+</div>
+        <div class="inner">
+                                          <div class="picture">
+                  <a href="other_sports_tickets/16459_new_york_red_bulls_soccer_tickets"><img src="./pictures/listings/th_large_16459_27.jpg" width="100" height="100" border="0"></a> 
+                </div>
+                                                        <a href="other_sports_tickets/16459_new_york_red_bulls_soccer_tickets">New York Red Bulls Soccer Tickets, New York Red Bulls Vs. Chivas USA Tickets, Sat, Jun 5 2010, Our Featured Seats are ...</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16459_new_york_red_bulls_soccer_tickets"><span class="label">Event Date</span>: 06.05.2010</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16459_new_york_red_bulls_soccer_tickets"><span class="label">Section</span>: 125 - MIDFIELD! 7 ROWS OFF THE FIELD!</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16459_new_york_red_bulls_soccer_tickets"><span class="label">Price</span>: $55 each</a> 
+                  
+                           
+        </div>  
+         
+      </div>
+          <div class="item">
+        
+          <div class="title">
+<a href="other_sports_tickets/16458_team_mexico_soccer_tickets">
+            Team Mexico Soccer Tickets</a>          
+</div>
+        <div class="inner">
+                                          <div class="picture">
+                  <a href="other_sports_tickets/16458_team_mexico_soccer_tickets"><img src="./pictures/listings/th_large_16458_27.jpg" width="100" height="100" border="0"></a> 
+                </div>
+                                                        <a href="other_sports_tickets/16458_team_mexico_soccer_tickets">Team Mexico Soccer Tickets, Reliant Stadium, Houston, TX, Thu, May 13 2010, Mexico Vs. TBD Tickets, PLUS *For Extra ...</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16458_team_mexico_soccer_tickets"><span class="label">Event Date</span>: 05.13.2010</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16458_team_mexico_soccer_tickets"><span class="label">Section</span>: 136 - Lowers behind goal</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16458_team_mexico_soccer_tickets"><span class="label">Price</span>: $61 each</a> 
+                  
+                           
+        </div>  
+         
+      </div>
+          <div class="item">
+        
+          <div class="title">
+<a href="other_sports_tickets/16405_roy_jones_jr__vs__bernard_hopkins_tickets">
+            Roy Jones Jr. Vs. Bernard Hopkins Tickets</a>          
+</div>
+        <div class="inner">
+                                          <div class="picture">
+                  <a href="other_sports_tickets/16405_roy_jones_jr__vs__bernard_hopkins_tickets"><img src="./pictures/listings/th_large_16405_27.jpg" width="100" height="100" border="0"></a> 
+                </div>
+                                                        <a href="other_sports_tickets/16405_roy_jones_jr__vs__bernard_hopkins_tickets">Roy Jones Jr. Vs. Bernard Hopkins Tickets, Mandalay Bay - Events Center, Las Vegas, NV, Sat, Apr 3 2010, We Still Have ...</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16405_roy_jones_jr__vs__bernard_hopkins_tickets"><span class="label">Event Date</span>: 04.03.2010</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16405_roy_jones_jr__vs__bernard_hopkins_tickets"><span class="label">Section</span>: 215 -  Upper Level! ETicket</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16405_roy_jones_jr__vs__bernard_hopkins_tickets"><span class="label">Price</span>: $120 each</a> 
+                  
+                           
+        </div>  
+         
+      </div>
+          <div class="item">
+        
+          <div class="title">
+<a href="other_sports_tickets/16404_kentucky_derby_tickets">
+            Kentucky Derby Tickets</a>          
+</div>
+        <div class="inner">
+                                          <div class="picture">
+                  <a href="other_sports_tickets/16404_kentucky_derby_tickets"><img src="./pictures/listings/th_large_16404_27.jpg" width="140" height="140" border="0"></a> 
+                </div>
+                                                        <a href="other_sports_tickets/16404_kentucky_derby_tickets">Kentucky Derby Tickets, Churchill Downs, Louisville, KY - Still Have Tickets for Most Levels, Order Kentucky Derby ...</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16404_kentucky_derby_tickets"><span class="label">Event Date</span>: 05.01.2010</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16404_kentucky_derby_tickets"><span class="label">Section</span>: 1ST FL-GRAND - 1st Floor Grandstand</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16404_kentucky_derby_tickets"><span class="label">Price</span>: $250 each</a> 
+                  
+                           
+        </div>  
+         
+      </div>
+          <div class="item">
+        
+          <div class="title">
+<a href="other_sports_tickets/16402_monster_energy_ama_supercross_tickets">
+            Monster Energy AMA Supercross Tickets</a>          
+</div>
+        <div class="inner">
+                                          <div class="picture">
+                  <a href="other_sports_tickets/16402_monster_energy_ama_supercross_tickets"><img src="./pictures/listings/th_large_16402_27.jpg" width="140" height="140" border="0"></a> 
+                </div>
+                                                        <a href="other_sports_tickets/16402_monster_energy_ama_supercross_tickets">Monster Energy AMA Supercross Tickets, Jacksonville Municipal Stadium, Jacksonville, FL, Sat, Mar 27 2010, For ...</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16402_monster_energy_ama_supercross_tickets"><span class="label">Event Date</span>: 03.27.2010</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16402_monster_energy_ama_supercross_tickets"><span class="label">Section</span>: 150</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16402_monster_energy_ama_supercross_tickets"><span class="label">Price</span>: $22 each</a> 
+                  
+                           
+        </div>  
+         
+      </div>
+          <div class="item">
+        
+          <div class="title">
+<a href="other_sports_tickets/16394_toronto_fc_tickets_bmo_field">
+            Toronto FC Tickets BMO Field</a>          
+</div>
+        <div class="inner">
+                                          <div class="picture">
+                  <a href="other_sports_tickets/16394_toronto_fc_tickets_bmo_field"><img src="./pictures/listings/th_large_16394_27.jpg" width="100" height="100" border="0"></a> 
+                </div>
+                                                        <a href="other_sports_tickets/16394_toronto_fc_tickets_bmo_field">Toronto FC at Home to the Philadelphia Union Tickets, See this 1st Home Game for 2010, from UP CLOSE TO PLAYERS BENCH, 10 ...</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16394_toronto_fc_tickets_bmo_field"><span class="label">Event Date</span>: 04.15.2010</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16394_toronto_fc_tickets_bmo_field"><span class="label">Section</span>: 125 - CLOSE TO PLAYERS BENCH</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16394_toronto_fc_tickets_bmo_field"><span class="label">Price</span>: $137 each</a> 
+                  
+                           
+        </div>  
+         
+      </div>
+          <div class="item">
+        
+          <div class="title">
+<a href="other_sports_tickets/16393_toronto_fc_tickets">
+            Toronto FC Tickets</a>          
+</div>
+        <div class="inner">
+                                          <div class="picture">
+                  <a href="other_sports_tickets/16393_toronto_fc_tickets"><img src="./pictures/listings/th_large_16393_27.jpg" width="100" height="100" border="0"></a> 
+                </div>
+                                                        <a href="other_sports_tickets/16393_toronto_fc_tickets">Toronto FC Tickets Are Here !!! See Toronto FC and the Seattle Sounders FC, at BMO Field, Toronto, Sun, Apr 25 ...</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16393_toronto_fc_tickets"><span class="label">Event Date</span>: 04.25.2010</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16393_toronto_fc_tickets"><span class="label">Section</span>: 108</a> 
+                                  <hr>
+                  
+                                                        <a href="other_sports_tickets/16393_toronto_fc_tickets"><span class="label">Price</span>: $115 each</a> 
+                  
+                           
+        </div>  
+         
+      </div>
+      </div>   
+  <!-- "prev page" link --> 
+  <a class="next"></a> </div>    
+<font size="1">Get your ads featured here and much more with a <a href="../membership">Premium Membership</a></font> <div id="content"> <br> <div id="contentArea"> 
           
-<h2>Free Ticket Classifieds Privacy Policy</h2>
+<h1><font color="#0060c0">Free Ticket Classifieds Privacy Policy</font></h1>
 
 <div align="left">
 
@@ -565,29 +389,14 @@
 <p>If you have any enquiries or wish to provide feedback about this policy, please email <a href="mailto:admin@freeticketclassifieds.com">admin@freeticketclassifieds.com</a>.</p>
 
 
-</div></div></div>
-         </div>       </div>                  <p>
-<script type="text/javascript"><!--
-google_ad_client = "pub-8918920612598517";
-/* 728x90, created 2/22/09 */
-google_ad_slot = "9458654246";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-
+</div> <br> </div> </div>  <br><br><center>
+<p>
+<a onclick="VSLT('stubhub 728 Bottom')" rel="nofollow" href="http://www.jdoqocy.com/9r75zw41w3JNOMRTQNJLKPPLKKM" target="_blank" onmouseover="window.status='http://www.stubhub.com';return true;" onmouseout="window.status=' ';return true;">
+<img src="http://c1069392.cdn.cloudfiles.rackspacecloud.com/SHconcert.gif" alt="Get Concert Tickets at StubHub!" border="0" width="728" height="90"></a>
 </p>
-<br><br><br>       <div id="footer">         <div><div><center> <font color="008001"> 
-<a href="http://www.freeticketclassifieds.com/terms"><font color="008001">Terms of Use</font> </a>  |  <font color="008001"> 
-<a href="http://www.freeticketclassifieds.com/privacy"><font color="008001">Privacy Policy</font> </a>  |  <a href="http://www.freeticketclassifieds.com/membership"><font color="008001">Membership Info</font> </a>  |  <a href="http://www.freeticketclassifieds.com/scams"><font color="008001"> Avoid Scams</font> </a>  |  <a href="mailto:admin@freeticketclassifieds.com"><font color="008001"> Contact Us</font> </a>  |  <a href="http://www.freeticketclassifieds.com/advertising"><font color="008001">Advertising Info</font></a><font color="008001">  |  <a href="http://FreeTicketClassifieds.CommunityToolbars.com">Download our free toolbar</a>  |  <a href="http://www.freeticketclassifieds.com/widgets">Get Our Widgets</a><br></font> </font></font></center></div></div><font color="008001"><font color="008001">       </font></font></div><font color="008001"><font color="008001">       <font size="1">Disclaimer: All team and league information, logos, and names contained within this site are for reference only and are properties of their respective leagues, teams, ownership groups and/or organizations.</font><br><br>
+<br><br></center> <div id="footer"> <div><div><center><a href="../terms">Terms</a>  |   
+<a href="../privacy">Privacy</a>  |  <a href="http://blog.freeticketclassifieds.com">Blog</a>  |  <a href="../membership">Premium Membership</a>  |  <a href="../scams"> Avoid Scams </a>  |  <a href="mailto:admin@freeticketclassifieds.com">Contact</a>  |  <a href="../advertising">Advertising</a>  |  <a href="http://FreeTicketClassifieds.CommunityToolbars.com">Toolbar</a>  |  <a href="../widgets">Widgets</a>  |  <a href="../rssfeeds">RSS Feeds </a></center></div></div> </div> <font size="1"></font><p><font size="1">Copyright 2008-2010 <a href="http://glowflymedia.com">GlowFly Media LLC</a><br> All team and league information, logos, and names contained within this site are for reference only and are properties of their respective leagues, teams, ownership groups and/or organizations. To report copyright infringement please <a href="mailto:admin@freeticketclassifieds.com">email us</a></font></p><br><br>  </div> 
 
-<center><!-- Site Meter -->
-<script type="text/javascript" src="http://s47.sitemeter.com/js/counter.js?site=s47freeticketclassifieds">
-</script>
-<noscript>
-<a href="http://s47.sitemeter.com/stats.asp?site=s47freeticketclassifieds" target="_top">
-<img src="http://s47.sitemeter.com/meter.asp?site=s47freeticketclassifieds" alt="Site Meter" border="0"/></a>
-</noscript>
-<!-- Copyright (c)2006 Site Meter --> </center>            </font></font></font></div><font color="008001"><font color="008001">      <div id="sidebarRight">      <br><br><br><br><br><b> <font color="#008001">   Sponsored Ads</font></b>  <br><br> <table cellpadding="0" cellspacing="1" bgcolor="#008001" width="100px"> <tbody><tr> <td bgcolor="#ffffff" width="100%"><a rel="nofollow" href="http://www.ticketcity.com/"><img src="http://freeticketclassifieds.com/pictures/tc.gif" border="0"></a></td> </tr> <tr> <td bgcolor="#008001" width="100%" align="center" style="font-family:verdana;font-size:12px;font-weight:bold;color:#ffffff;"><div style="padding:3px 3px 3px 3px;">Find Tickets!</div></td> </tr> <tr> <td bgcolor="#ffffff" width="100%" style="font-family:verdana;font-size:10px;"> <div style="padding:5px 5px 5px 5px;"><a rel="nofollow" href="http://www.ticketcity.com/" style="color:008001;">College Football Tickets</a></div> <div style="padding:5px 5px 5px 5px;"><a rel="nofollow" href="http://www.ticketcity.com/" style="color:008001;">Bowl Game Tickets</a></div>  </td> </tr> </tbody></table>  <br>  <table cellpadding="0" cellspacing="1" bgcolor="#008001" width="100px"> <tbody><tr> <td bgcolor="#ffffff" width="100%"><a rel="nofollow" href="http://metroseats.com/"><img src="http://freeticketclassifieds.com/pictures/ms120.bmp" border="0"></a></td> </tr> <tr> <td bgcolor="#008001" width="100%" align="center" style="font-family:verdana;font-size:12px;font-weight:bold;color:#ffffff;"><div style="padding:3px 3px 3px 3px;">Find Tickets!</div></td> </tr> <tr> <td bgcolor="#ffffff" width="100%" style="font-family:verdana;font-size:10px;"> <div style="padding:5px 5px 5px 5px;"><a href="http://metroseats.com/" style="color:008001;">Rose Bow Tickets</a></div> <div style="padding:5px 5px 5px 5px;"><a rel="nofollow" href="http://metroseats.com/" style="color:008001;">College Football Tickets</a></div> </td> </tr> </tbody></table>  <br>  <table cellpadding="0" cellspacing="1" bgcolor="#008001" width="100px"> <tbody><tr> <td bgcolor="#ffffff" width="100%"><a rel="nofollow" href="http://theticketlodge.com/"><img src="http://freeticketclassifieds.com/pictures/tl120.bmp" border="0"></a></td> </tr> <tr> <td bgcolor="#008001" width="100%" align="center" style="font-family:verdana;font-size:12px;font-weight:bold;color:#ffffff;"><div style="padding:3px 3px 3px 3px;">Find Tickets!</div></td> </tr> <tr> <td bgcolor="#ffffff" width="100%" style="font-family:verdana;font-size:10px;"> <div style="padding:5px 5px 5px 5px;"><a rel="nofollow" href="http://theticketlodge.com/" style="color:008001;">NFL Football Tickets</a></div> <div style="padding:5px 5px 5px 5px;"><a rel="nofollow" href="http://theticketlodge.com/" style="color:008001;">NCAA Bowl Tickets</a></div> </td> </tr> </tbody></table>   <br>  <table cellpadding="0" cellspacing="1" bgcolor="#008001" width="100px"> <tbody><tr> <td bgcolor="#ffffff" width="100%"><a rel="nofollow" href="http://www.tmpresale.com/"><img src="http://freeticketclassifieds.com/pictures/presale-password-wiseguy.gif" border="0"></a></td> </tr> <tr> <td bgcolor="#008001" width="100%" align="center" style="font-family:verdana;font-size:12px;font-weight:bold;color:#ffffff;"><div style="padding:3px 3px 3px 3px;">Presale Codes!</div></td> </tr> <tr> <td bgcolor="#ffffff" width="100%" style="font-family:verdana;font-size:10px;"> <div style="padding:5px 5px 5px 5px;"><a href="http://www.tmpresale.com/" style="color:008001;" rel="nofollow">Free Presale Passwords</a></div> <div style="padding:5px 5px 5px 5px;"><a href="http://discountedtickets.blogspot.com/" style="color:008001;" rel="nofollow">Ticketmaster Offer Codes</a></div> </td> </tr> </tbody></table>     <br>                </div>       </font></font></div><font color="008001"><font color="008001">                <script type="text/javascript">       var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");       document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));     </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>     <script type="text/javascript">       var pageTracker = _gat._getTracker("UA-3653545-1");       pageTracker._initData();       pageTracker._trackPageview();     </script>      </font></font></body></html>
+<div id="sidebarRight"><center> <br><br><a href="/rssfeeds"> <img src="http://c1069392.cdn.cloudfiles.rackspacecloud.com/rss-button.png" alt="subscribe to FreeTicketClassifieds.com" title="Subscribe to Free Tickets Classifieds RSS Feed" border="0" width="64" height="64"></a> <a href="mailto:admin@freeticketclassifieds.com"> <img src="http://c1069392.cdn.cloudfiles.rackspacecloud.com/email.png" alt="Email Us" title="Email Free Ticket Classifieds" border="0" width="64" height="64"></a> <br><br><br><a onclick="VSLT('ticketlodge.com sidebar banner')" target="new" rel="nofollow" href="http://ticketlodge.com/"><img src="http://c1069392.cdn.cloudfiles.rackspacecloud.com/tlbanner.png" border="0" width="150" height="220"></a> <br><br><a onclick="VSLT('Stubhub NBA 160x600')" rel="nofollow" href="http://www.dpbolvw.net/click-3427963-10525938" target="_blank"><img src="http://c1069392.cdn.cloudfiles.rackspacecloud.com/SHnba.jpg" alt="Get NBA Tickets at StubHub!" height="600" width="160" border="0"></a><br><br><a onclick="VSLT('Your ad here 150x220')" target="new" rel="nofollow" href="/advertising"><img src="http://c1069392.cdn.cloudfiles.rackspacecloud.com/ftcads.png" border="1" width="150" height="220"></a><br><br> <table cellpadding="0" cellspacing="1" bgcolor="#00a040" width="100px"> <tbody><tr> <td bgcolor="#ffffff" width="100%"><a rel="nofollow" href="http://ticketstoget.com"><img src="http://c1069392.cdn.cloudfiles.rackspacecloud.com/TTGlogo.jpg" border="0" width="150" height="120"></a></td> </tr> <tr> <td bgcolor="#00a040" width="100%" align="center" style="font-family:verdana;font-size:12px;font-weight:bold;color:#ffffff;"><div style="padding:3px 3px 3px 3px;"><font size="1">Tickets To Get!</font></div></td> </tr> <tr> <td bgcolor="#ffffff" width="100%" style="font-family:verdana;font-size:10px;"> <div style="padding:5px 5px 5px 5px;"><center><a rel="nofollow" href="http://ticketstoget.com/concerts.aspx" style="color:0060c0;">Concert Tickets</a></center></div> <div style="padding:5px 5px 5px 5px;"><center><a rel="nofollow" href="http://ticketstoget.com/sports.aspx" style="color:0060c0;">Sports Tickets</a></center></div> </td> </tr> </tbody></table> </center>  </div> </div> 
+
+  </body></html>
