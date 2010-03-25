@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutvision.com privacy policy that was archived on 2009-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090314060808id_/http%3A//www.allaboutvision.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutvision.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325205639id_/http%3A//www.allaboutvision.com/privacy.htm) for the most accurate reproduction.*
 
 # AllAboutVision.com Privacy Policy
 
@@ -6,32 +6,37 @@ All About Vision's policy is to respect the privacy of visitors to our website. 
 
 ## How We Collect Information
 
-Our web server automatically recognizes each visitor's domain name, and we collect the domain name of visitors to our website for the purposes of system administration. A domain name does not provide us with personally identifiable information.
+Our web server, like all web servers, will automatically recognize each visitor's Internet address (or "IP address"). This does not provide us with personally identifiable information. Our server logs will record page views and the serving of images and other files, and can associate those actions with particular visitor sessions, but this information is not tied to any individual visitor's identity. We use Google Analytics for this same purpose.
 
-You can visit our website without revealing any information about yourself. Our site is not set up to track, collect, or distribute personal information about you (such as name, address, e-mail address, telephone number and product preferences) unless you voluntarily input this information, such as when you sign up to receive our e-mail newsletter, when you ask us to e-mail a friend about this site or when you otherwise voluntarily input this information. Any information you input will be used by us only as described in the "How we use information" section of this statement.
-
-We use electronic records to compile statistics about how collectively our visitors interact with our website. These statistics contain no personal information. **By voluntarily providing us with information about yourself, you are consenting to our use of it in accordance with this policy.**
+You can visit our website without revealing any information about yourself. Our site is not set up to track, collect or distribute personal information about you (such as name, address, e-mail address, telephone number and product preferences) unless you voluntarily provide this information, such as when you ask us to e-mail a friend or you provide this information when you fill out a "contact us" form.
 
 ## How We Use Information
 
-We use the personally identifiable information we collect for internal purposes such as improving our products and services, sending you e-mail (at your request only) about topics you have specified, to show you the categories of banner ads in which you are most likely to be interested and learning about our users' needs.
+We automatically use electronic records to compile statistics about how collectively our visitors interact with our website. These statistics contain no personal information.
 
-We may share this information in aggregate form with our advertisers. For example, while we would never say, "Jen Jones wears contact lenses," we might tell our advertisers, "29 percent of our newsletter readers wear contact lenses."
+On certain pages, you may have the opportunity to provide personally identifiable information. **When you voluntarily provide us with information about yourself, you consent to our use of it in accordance with this policy**.
+
+We use the personally identifiable information only for clearly stated purposes. For example, we may use your email address to respond to a question you have sent us. We never add email addresses to lists for purposes of additional communication, unless you have asked us to. **Your personally identifiable information will be provided to third parties only at your request**. Examples of this include but are not limited to: (1) We may provide your medical question to a doctor for a response; (2) If you use a feedback form in an advertising section, the information will be sent to the advertiser; (3) If you provide your personal information for purposes of a product rebate or value-added service, it will be provided to a third party for fulfillment.
+
+We may share this information in aggregate form with our advertisers, but we never supply without your permission personal information such as: "Jen Jones wears contact lenses."
 
 Unless otherwise required by law or if pertinent to a judicial or governmental investigation, personally identifiable information is not shared with other organizations or persons. Should we ever need to make an exception, we will say so at the point where you are giving the information.
 
 Information submitted or provided to us by a website user or any person or entity regarding us or our products or services, including but not limited to ideas for new products or services or modifications to existing products or services, shall be deemed to be non-confidential, and we shall be free to reproduce, use, disclose and distribute such information to others without limitation or attribution.
 
-**Cookies.** Cookies are small text files that websites store on your computer's hard drive. When they are supplied from our site, they contain information you have given us and are intended to be a convenience to you. They eliminate the need to enter your name and e-mail address in certain forms on our site. They may also record how often you visit our website, or what pages you looked at, so that we may provide more of the types of editorial content that you enjoy or tailor advertising to your interests.
+  * **Cookies.** Cookies are small text files that websites store on your computer's hard drive. When they are supplied from our site, they may contain information you have given us and are intended to be a convenience to you. They may enable the functionality of certain interactive features. They also may anonymously record how often you visit our website, or what pages you looked at.
 
-AllAboutVision.com uses cookies only to store personally identifying information that you have provided to us. They are not capable of obtaining additional personally identifying information.
+  AllAboutVision.com cookies only store personally identifying information that you have provided to us. They are not capable of obtaining additional personally identifying information.
 
-**Children.** We are very concerned about protecting the children who use our site. We never share with outside companies the personally identifying information that children provide, and use it only for the stated purpose (for example: contacting the winner of a children's contest).
+  * **Children.** We are very concerned about protecting the children who use our site. We never share with outside companies the personally identifying information that children provide, and use it only for the stated purpose, such as contacting the winner of a children's contest.
 
-In some cases, such as our e-mail newsletter sign-up, we require a parent's written permission for children under 13 to participate. In cases where we would normally post a person's first name on our site (such as a contest winner), we will choose a false name for any child under 18, if a parent asks us to do so.
+  In some cases we require a parent's written permission for children under 13 to participate in surveys or contests. In cases where we would normally post a person's first name on our site (such as a contest winner), we will choose a false name for any child under 18, if a parent asks us to do so.
+
+
+
 
 ## Other Websites
 
-You have the opportunity to access other sites from AllAboutVision.com, by either clicking on a site's link or on an advertisement. Please be aware that these sites are outside the control of Access Media Group LLC, and that their privacy policies are likely to differ from ours. We suggest contacting these sites for relevant information about their data collection. 
+You have the opportunity to access other sites from AllAboutVision.com, by clicking either on a site's link or on an advertisement. Please be aware that these sites are outside the control of Access Media Group LLC, and that their privacy policies are likely to differ from ours. We suggest contacting these sites for relevant information about their data collection. 
 
-[Page updated November 2005]
+[Page updated May 2009]
