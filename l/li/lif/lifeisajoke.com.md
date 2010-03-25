@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeisajoke.com privacy policy that was archived on 2009-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090517082800id_/http%3A//www.lifeisajoke.com/privacy_html.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeisajoke.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325192506id_/http%3A//lifeisajoke.com/privacy_html.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Lifeisajoke
 
