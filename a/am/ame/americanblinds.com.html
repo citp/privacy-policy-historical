@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the americanblinds.com privacy policy that was archived on 2009-09-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090903001024id_/http%3A//www.americanblinds.com/resourcecenter/help/security.asp%3Fcm_re%3DBottomNavHP-_-Bottom-_-PrivacySecurity) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the americanblinds.com privacy policy that was archived on 2010-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100325123044id_/http%3A//www.americanblinds.com/resourcecenter/help/security.asp%3Fcm_re%3DBottomNavHP-_-Bottom-_-PrivacySecurity) for the most accurate reproduction.-->
 
-<html><head>    
+<html><head>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">    
 <title>American Blinds Wallpaper and More : Resource Center: American Blinds Wallpaper and More</title>
    
 <meta name="description" content="American Blinds, Wallpaper &amp; More - Shop for top brands, discount blinds, curtains, drapes, window blinds, window treatments, window coverings &amp; window shades. Guaranteed Lowest Prices - Hunter Douglas, Bali, Levolor, Graber, Kirsch, wood blinds, mini blinds">
@@ -16,7 +17,6 @@
 
 <script language="javascript" type="text/javascript" src="/includes/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
 <script language="javascript" type="text/javascript" src="/includes/overlib.js"></script>
-<script language="javascript" type="text/javascript" src="/includes/survey.js"></script>
 
 <style type="text/css">
 <!--
@@ -54,356 +54,9 @@ function checkEmail(f){
      } 
      f.submit();
 	 }
-
-function winClose() {
-   var sCookie;
-   sCookie = "";
-   if (event.clientY<0 && (event.clientX > (document.body.offsetWidth-20))){ 
-      sCookie = getSurveyCookie("surveyFlag");
-      if (sCookie == "") {
-          SetSurveyCookie("surveyFlag", "1", 90);      
-          window.open("http://survey.americanblinds.com/TakeSurvey.asp?SurveyID=7M15534K2581G","Survey");
-      }
-   } 
-}
-
-function MM_initTimelines() { //v4.0
-    //MM_initTimelines() Copyright 1997 Macromedia, Inc. All rights reserved.
-    var ns = navigator.appName == "Netscape";
-    var ns4 = (ns && parseInt(navigator.appVersion) == 4);
-    var ns5 = (ns && parseInt(navigator.appVersion) > 4);
-    document.MM_Time = new Array(1);
-    document.MM_Time[0] = new Array(0);
-    document.MM_Time["Timeline1"] = document.MM_Time[0];
-    document.MM_Time[0].MM_Name = "Timeline1";
-    document.MM_Time[0].fps = 15;
-    document.MM_Time[0].lastFrame = 0;
-    for (i=0; i<document.MM_Time.length; i++) {
-        document.MM_Time[i].ID = null;
-        document.MM_Time[i].curFrame = 0;
-        document.MM_Time[i].delay = 1000/document.MM_Time[i].fps;
-    }
-}
 //-->
 </script>
-<script language="Javascript">
-
-function Set_Cookie(name,value,path) {
-     document.cookie = name + "=" +escape(value) +
-     ( (path) ? ";path=" + path : "");
- }
- 
-// make sure we are capable of live help 
-function CheckBrowser() {
-    var NN = (navigator.appName.indexOf("Netscape") != -1);
-    var IE = (navigator.appName.indexOf("Microsoft") != -1);
-    var V3 = (navigator.appVersion.indexOf("3.") != -1);
-    var V4 = (navigator.appVersion.indexOf("4.") != -1);
-
-    if ( (NN||IE) && (V3||V4||V5)) {
-      return true;
-    } else {
-      alert("Sorry, LiveHelp is not supported on this browser.\nYou need one of the following:\n\n	Netscape 3/4	\n	Internet Explorer 3/4/5	");
-      return false;
-    }
-}
-
-function getCookieValue(index)
-{
-  var allcookies = document.cookie;
-  var pos = allcookies.indexOf(index + "=");
-  if (pos == -1) return null;
-  var start = pos + (index.length + 1);
-  var end = allcookies.indexOf(";", start);
-  if (end == -1) end = allcookies.length;
-  var value = allcookies.substring(start, end);
- 
-  return value;
-}
-
-function LHCheck() {
-    if (!CheckBrowser()) {
-      return;
-    }
-    var inLH;
-//    var Sess_Flag2;
-	var Sess_Flag_Christmas;
-	var Sess_Flag_NewYear;
-	var Sess_Flag_Thanksgiving;
-	var Sess_Flag_FourthofJuly;
-	var Sess_Flag_MeritBanquet;
-	var Sess_Flag_LaborDay;
-    inLH = getCookieValue("cc");
-    if (inLH == 1) {
-      alert("You're already using LiveHelp!\nTo end your current LiveHelp session,\nclick on the Quit button below the text entry box.");
-      return;
-    }
-   Sess_Flag_Christmas		= "";
-   Sess_Flag_NewYear		= "";
-   Sess_Flag_Thanksgiving   = "";
-   Sess_Flag_FourthofJuly   = "";
-   Sess_Flag_MeritBanquet	= "";
-   Sess_Flag_LaborDay	= "";
-   
-   //alert ("S= "+Sess_Flag2);
-   if (Sess_Flag_Christmas != "Y" && Sess_Flag_NewYear != "Y" && Sess_Flag_Thanksgiving != "Y" && Sess_Flag_FourthofJuly != "Y" && Sess_Flag_MeritBanquet != "Y" && Sess_Flag_LaborDay != "Y")
-   {
-	location.href = "/abwf/lcstart.asp?uri=" + escape(document.location.toString());
-	 Set_Cookie("livechat",1,"/");
-   }
-   else if (Sess_Flag_Christmas == "Y")
-   {
-	location.href = "/chat_closed_Christmas.asp";
-   }
-   else if (Sess_Flag_NewYear == "Y")
-   {
-	location.href = "/chat_closed_newyear.asp";
-   }
-   else if (Sess_Flag_Thanksgiving == "Y")
-   {
-	location.href = "/chat_closed_thanksgiving.asp";
-   }
-   else if (Sess_Flag_FourthofJuly == "Y")
-   {
-	location.href = "/chat_closed_FourthofJuly.asp";
-   } 
-   else if (Sess_Flag_MeritBanquet == "Y")
-   {
-	location.href = "/chat_closed_meritAwards.asp";
-   } 
-   else if (Sess_Flag_LaborDay == "Y")
-   {
-	location.href = "/chat_closed_labor_day.asp";
-   }   
-}
-
-function LHCheck_christmas() {
-    
-    if (!CheckBrowser()) {
-      return;
-    }
-    var inLH;
-    inLH = getCookieValue("cc");
-    if (inLH == 1) {
-      alert("You're already using LiveHelp!\nTo end your current LiveHelp session,\nclick on the Quit button below the text entry box.");
-      return;
-    }
-	location.href = "/chat_closed_christmas.asp";	 	  
-}
-
-function LHCheck_newyear() {
-    
-    if (!CheckBrowser()) {
-      return;
-    }
-    var inLH;
-    inLH = getCookieValue("cc");
-    if (inLH == 1) {
-      alert("You're already using LiveHelp!\nTo end your current LiveHelp session,\nclick on the Quit button below the text entry box.");
-      return;
-    }
-	location.href = "/chat_closed_newyear.asp";	 	  
-}
-
-function LHCheck_thanksgiving() {
-    
-    if (!CheckBrowser()) {
-      return;
-    }
-    var inLH;
-    inLH = getCookieValue("cc");
-    if (inLH == 1) {
-      alert("You're already using LiveHelp!\nTo end your current LiveHelp session,\nclick on the Quit button below the text entry box.");
-      return;
-    }
-	location.href = "/chat_closed_thanksgiving.asp";	 	  
-}
-
-function LHCheck_FourthofJuly() {
-    
-    if (!CheckBrowser()) {
-      return;
-    }
-    var inLH;
-    inLH = getCookieValue("cc");
-    if (inLH == 1) {
-      alert("You're already using LiveHelp!\nTo end your current LiveHelp session,\nclick on the Quit button below the text entry box.");
-      return;
-    }
-	location.href = "/chat_closed_FourthofJuly.asp";	 	  
-}
-
-function LHCheck_MeritBanquet() {
-    
-    if (!CheckBrowser()) {
-      return;
-    }
-    var inLH;
-    inLH = getCookieValue("cc");
-    if (inLH == 1) {
-      alert("You're already using LiveHelp!\nTo end your current LiveHelp session,\nclick on the Quit button below the text entry box.");
-      return;
-    }
-	location.href = "/chat_closed_meritAwards.asp";	 	  
-}
-
-function LHCheck_LaborDay() {
-    
-    if (!CheckBrowser()) {
-      return;
-    }
-    var inLH;
-    inLH = getCookieValue("cc");
-    if (inLH == 1) {
-      alert("You're already using LiveHelp!\nTo end your current LiveHelp session,\nclick on the Quit button below the text entry box.");
-      return;
-    }
-	location.href = "/chat_closed_labor_day.asp";	 	  
-}
-
-function LHCheck_holiday() {
-    
-    if (!CheckBrowser()) {
-      return;
-    }
-    var inLH;
-    inLH = getCookieValue("cc");
-    if (inLH == 1) {
-      alert("You're already using LiveHelp!\nTo end your current LiveHelp session,\nclick on the Quit button below the text entry box.");
-      return;
-    }
-	location.href = "/chat_closed_thanksgiving.asp";	 	  
-}
-
-function LHCheck_night() {
-    
-    if (!CheckBrowser()) {
-      return;
-    }
-    var inLH;
-    inLH = getCookieValue("cc");
-    if (inLH == 1) {
-      alert("You're already using LiveHelp!\nTo end your current LiveHelp session,\nclick on the Quit button below the text entry box.");
-      return;
-    }
-	var Sess_Flag1;
-	//var Sess_Flag2;
-	var Sess_Flag_Christmas;
-	var Sess_Flag_NewYear;
-	var Sess_Flag_Thanksgiving;
-	var Sess_Flag_FourthofJuly;
-	var Sess_Flag_LaborDay;
-	var Sess_Flag_MemorialDay;
-   Sess_Flag_Christmas		= "";
-   Sess_Flag_NewYear		= "";
-   Sess_Flag_Thanksgiving   = "";	
-   Sess_Flag_FourthofJuly   = "";
-   Sess_Flag_MeritBanquet	= "";	
-   var Sess_Flag_LaborDay	= "";
-   var Sess_Flag_MemorialDay= "";
- 
-   //Sess_Flag2= "";    
-   Sess_Flag1= "";
-//   alert ("S1= "+Sess_Flag1+"S2= "+Sess_Flag2);
-   if (Sess_Flag_Thanksgiving == "Y"){
-	location.href = "/chat_closed_thanksgiving.asp";   
-   } 
-   else if (Sess_Flag_Christmas == "Y"){
-	location.href = "/chat_closed_christmas.asp";   
-   } 
-   else if (Sess_Flag_NewYear == "Y"){
-	location.href = "/chat_closed_newyear.asp";   
-   }
-   else if (Sess_Flag_FourthofJuly == "Y"){
-	location.href = "/chat_closed_FourthofJuly.asp";   
-   }  
-   else if (Sess_Flag_MeritBanquet == "Y"){
-	location.href = "/chat_closed_meritAwards.asp";   
-   }   
-   else if (Sess_Flag_LaborDay == "Y"){
-    location.href = "/chat_closed_labor_day.asp";   
-   }
-   else if (Sess_Flag_MemorialDay == "Y"){
-	location.href = "/chat_closed_MemorialDay.asp";   
-   }
-   else if  ((Sess_Flag1 == "Y") && (Sess_Flag_Christmas != "Y")&& (Sess_Flag_NewYear != "Y")&& (Sess_Flag_Thanksgiving != "Y")&& (Sess_Flag_FourthofJuly != "Y")&& (Sess_Flag_MeritBanquet != "Y") && (Sess_Flag_LaborDay != "Y") && (Sess_Flag_MemorialDay != "Y")){
-	location.href = "/chat_closed.asp";
-   }
-   else
-   {
-	location.href = "/abwf/lcstart.asp?uri=" + escape(document.location.toString());
-	Set_Cookie("livechat",1,"/");
-   }    
-	//location.href = "/chat_closed.asp";	 	  
-}
-
-function UseAddr(x) {
-	var Addr1 = new Array(20);
-	var Addr2 = new Array(20);
-	var City = new Array(20);
-	var State = new Array(20);
-	var Zip = new Array(20);
-	var Zip2 = new Array(20);
-	var Names = new Object();
-	
-Names.addr1='CuShipAddress1' ;
-Names.city='CuShipCity' ;
-Names.state='readonly' ;
-Names.zip='CuShipPostalCode' ;
-Names.zip2='CuShipPostalCode2' ;
-
-	
-	if ( ( x < 99 ) & (x > 0) )  {
-		if (Names.addr1 != "") document.form0.elements[Names.addr1].value = Addr1[x];
-		//if (Names.addr2 != "") document.form0.elements[Names.addr2].value = Addr2[x];
-		if (Names.city != "") document.form0.elements[Names.city].value = City[x];
-		if (Names.state != "readonly") document.form0.elements[Names.state].value = State[x];
-        if (Names.zip != "") document.form0.elements[Names.zip].value = Zip[x];
-		if (Names.zip2 != "") document.form0.elements[Names.zip2].value = Zip2[x];
-
-		document.form0.verifyaddress.value = "true";
-		document.form0.validaddress.value = "true";
-		document.form0.submit();
-		}
-	else {
-		document.form0.validaddress.value = "false";
-		document.form0.CuShipAddress1.value=document.form0.CuShipAddress1H.value;
-		//document.form0.CuShipAddress2.value=document.form0.CuShipAddress2H.value;
-		document.form0.CuShipStID.value=document.form0.CuShipStIDH.value;		
-		document.form0.CuShipCity.value=document.form0.CuShipCityH.value;
-		document.form0.CuShipPostalCode.value=document.form0.CuShipPostalCodeH.value;
-		document.form0.CuShipPostalCode2.value=document.form0.CuShipPostalCode2H.value;
-		if (x == 0) {
-			document.form0.verifyaddress.value = "true";
-			document.form0.validaddress.value = "true";
-			document.form0.submit();
-		}	
-		else {
-			document.form0.verifyaddress.value = "change";
-			document.form0.submit();
-		}
-	}	
-}
-
-
-
-</script><script language="JavaScript">
-
-function Set_Cookie(name,value,path) {
-     document.cookie = name + "=" +escape(value) +
-     ( (path) ? ";path=" + path : "");
-}
-
-function Get_Cookie(name) {
-     var start = document.cookie.indexOf(name+"=");
-     var len = start+name.length+1;
-     if ((!start) && (name != document.cookie.substring(0,name.length))) return null;
-     if (start == -1) return null;
-     var end = document.cookie.indexOf(";",len);
-     if (end == -1) end = document.cookie.length;
-     return unescape(document.cookie.substring(len,end));
-}
-</script><script language="JavaScript">
+<script language="JavaScript">
 <!-- Begin Blinds installer
 function popUpb(URL) {
 day = new Date();
@@ -412,72 +65,10 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
 }
 // End blinds installer-->
 </script><script language="JavaScript">
-
-	<!-- hide from JavaScript-challenged browsers
-		var jlivechat
-		var secure
-		//jlivechat = Get_Cookie("livechat");
-		//document.write ("**j=" + jlivechat);
-		
-
-		jlivechat = Get_Cookie("livechat");
-		//document.write ("**2=" + jlivechat);
-
-		
-		//Get rid of the frame from CJ affiliates sites on secure pages 
-		
-	//document.write ("\n**j=" + jlivechat);
-
-function appendQueryString(){
-	var jsblsearchsel =	document.COLORFRM.BLSEARCHSEL.value;
-	var jsblsearchtext = escape(document.COLORFRM.BLSEARCHTEXT.value);
-	var jsui = "97887811";
-	var jslg = "0";
-	var jsAddURL = "";
-    var cookieFlg = "";
-    var jsad = ""
-		
-	//if (cookieFlg != 1) {
-	    jsAddURL = "&cmad=" + jsad + "&ui=" + jsui + "&lg=" + jslg; 
-	    document.COLORFRM.action = "http://www1.americanblinds.com/BlindsColorSearch1_new.aspx?blsearchsel=" + jsblsearchsel + "&blsearchtext=" + jsblsearchtext;
-	//}else{   
-	//	document.COLORFRM.action = "http://www.americanblinds.com/products/blinds/top_nav_search.asp?blsearchsel=" + jsblsearchsel + "&blsearchtext=" + jsblsearchtext;
-	//}
-	document.COLORFRM.submit();
-	return true;
-}
+  //Get rid of the frame from CJ affiliates sites on secure pages 
+<!--
+	
 change = 0
-function NavChangeLocation() {
-	i = document.nav.product_go.selectedIndex 
-	if(i > 0) {
-		document.location = document.nav.product_go.options[i].value
-	}
-}
-
-function LoadProductPage(p) {
-	if ( p != "" ) {
-	    if (p == "artselect"){
-		    dest = "http://www.americanblinds.com/wallart-jump.asp";
-		}else if (p != "toppers") {
-			dest = "http://www.americanblinds.com/products/" + p;
-	    }else {
-		    dest = "http://www.americanblinds.com/products/instock/index.asp?P=CU&home=tab3";  
-        }
-		location.href = dest
-	}          
-}
-function smallPopUp()
-{
-	var js_discount_popup = 1;
-	browsername=navigator.appName;
-
-	if (js_discount_popup!="1") {
-	   if(browsername.indexOf("Netscape")!=-1)
-		  threedayWin=window.open('/popup_jan_2004.asp?ref=1','threedayWin','toolbar=0,location=0,directories=0,status=0,toolbar=0,scrollbars=0,resizable=0,width=201,height=251,screenX=170,screenY=187');
-	   else
- 	      threedayWin=window.open('/popup_jan_2004.asp?ref=1','threedayWin','toolbar=0,location=0,directories=0,status=0,toolbar=0,scrollbars=0,resizable=0,width=201,height=251,left=170,top=187');
-       }
-}
 //-->
 
 <!--
@@ -486,12 +77,6 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 }
 //-->
 </script></head>
-<!-- Begin escalation script for WebCenter -->
-
-
-<!-- END escalation script for WebCenter --> 
-
-
 
 
 
@@ -509,7 +94,7 @@ http://www.omniture.com -->
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
 s.pageName="resourcecenter:help:security"
-s.server="Webserver9"
+s.server="Webserver7"
 s.channel="resourcecenter"
 s.prop1="resourcecenter"
 s.prop2="resourcecenter:help"
@@ -539,7 +124,7 @@ s.t()//]]>
 </script>
 <!-- End SiteCatalyst code version: H.19.3. -->
 
-<div class="mboxDefault" style="visibility: visible; display: block;">
+
 <table width="992" border="0" cellspacing="0" cellpadding="0" id="emailbanner">
   
 	<tbody><tr>
@@ -637,7 +222,7 @@ s.t()//]]>
             				</tr>
                             </tbody></table>
 					
-              <img src="/images/nav/abwm_phonenumber2.gif" alt="313-266-3999" width="134" height="20" hspace="0" vspace="0" border="0"></td>
+              <img src="/images/nav/abwm_phonenumber2.gif" alt="734-266-3999" width="134" height="20" hspace="0" vspace="0" border="0"></td>
       			</tr>
       			<tr>
         			<td nowrap="">
@@ -687,18 +272,24 @@ s.t()//]]>
     	
     <td> 
       
+        
       <table width="992" border="0" cellpadding="0" cellspacing="0" style="background-color:#336699">
         <tbody><tr> 
           <td width="75" align="center" nowrap=""><a href="http://www.americanblinds.com/Default.asp"><img src="/images/nav/ABWM_logo_home_bg2.jpg" width="75" height="28" hspace="0" vspace="0" border="0"></a></td>
           <td width="5"><img src="/images/nav/corners_navDividerBarsLeft.gif" width="5" height="28" hspace="0" vspace="0" border="0"></td>
-          <td align="center" nowrap=""><a href="http://www1.americanblinds.com/blindshome.aspx?ui=97887811&amp;lg=0&amp;cmad=" class="topNavLinksWhite" style="background-color:#336699"><font color="#ffffff">BLINDS<br>
+          <td align="center" nowrap=""><a href="http://www1.americanblinds.com/blindshome.aspx?ui=107375134&amp;lg=0&amp;cmad=" class="topNavLinksWhite" style="background-color:#336699"><font color="#ffffff">&nbsp;&nbsp;&nbsp;BLINDS&nbsp;&nbsp;&nbsp; 
+            <br>
             <img src="/images/nav/v_line.gif" width="30" height="3" vspace="0" hspace="0" border="0"><br>
-            SHADES </font></a></td>
+            &nbsp;&nbsp;&nbsp;SHADES&nbsp;&nbsp;&nbsp; </font></a></td>
           <td width="5"><img src="/images/nav/corners_navDividerBars.gif" width="5" height="28" hspace="0" vspace="0" border="0"></td>
           <td align="center" nowrap="" style="background-color:#336699"><a href="http://www.americanblinds.com/products/wallpaper/index.asp?P=WP&amp;N=4294967258" class="topNavLinksWhite"><font color="#ffffff">WALLPAPER 
             <br>
             <img src="/images/nav/v_line.gif" width="30" height="3" vspace="0" hspace="0" border="0"><br>
             FABRIC </font></a></td>
+          <td width="5"><img src="/images/nav/corners_navDividerBars.gif" width="5" height="28" hspace="0" vspace="0" border="0"></td>
+          <td align="center" nowrap="" style="background-color:#336699"><a href="http://www.americanblinds.com/products/mural/mural_jump.asp?ui=107375134&amp;lg=0&amp;cmad=" class="topNavLinksWhite"><font color="#ffffff">DESIGN 
+            YOUR<br>
+            OWN WALLPAPER</font></a></td>
           <td width="5"><img src="/images/nav/corners_navDividerBars.gif" width="5" height="28" hspace="0" vspace="0" border="0"></td>
           <td align="center" nowrap="" style="background-color:#336699"><a href="http://www.americanblinds.com/products/instock/index.asp?P=CU&amp;N=4294957587" class="topNavLinksWhite"><font color="#ffffff">CURTAINS 
             <br>
@@ -707,23 +298,18 @@ s.t()//]]>
           <td width="5"><img src="/images/nav/corners_navDividerBars.gif" width="5" height="28" hspace="0" vspace="0" border="0"></td>
           <td align="center" nowrap="" style="background-color:#336699"><a href="http://www.americanblinds.com/products/instock/index.asp?P=HD&amp;N=4294956741" class="topNavLinksWhite"><font color="#ffffff">HARDWARE</font></a></td>
           <td width="5"><img src="/images/nav/corners_navDividerBars.gif" width="5" height="28" hspace="0" vspace="0" border="0"></td>
-          <td align="center" nowrap="" style="background-color:#336699"><a href="http://www.americanblinds.com/products/instock/index.asp?P=RU&amp;N=4294955199" class="topNavLinksWhite"><font color="#ffffff">AREA 
+          <td align="center" nowrap="" style="background-color:#336699"><a href="http://www.americanblinds.com/products/instock/index.asp?P=RU&amp;N=4294955199" class="topNavLinksWhite"><font color="#ffffff">AREA<br>
             RUGS </font></a></td>
           <td width="5"><img src="/images/nav/corners_navDividerBars.gif" width="5" height="28" hspace="0" vspace="0" border="0"></td>
-          <td align="center" nowrap="" style="background-color:#336699"><a href="http://www.americanblinds.com/products/instock/index.asp?P=MR" class="topNavLinksWhite"><font color="#ffffff">DECORATIVE 
+          <td align="center" nowrap=""><a href="http://www.americanblinds.com/products/artwork/maw_jump.asp" class="topNavLinksWhite" style="background-color:#336699<font color=" #ffffff"="">POSTERS 
+            - PRINTS<br>
+            <img src="/images/nav/v_line.gif" width="30" height="3" vspace="0" hspace="0" border="0"><br>
+            FRAMED ART</a></td>
+          <td width="5"><img src="/images/nav/corners_navDividerBars_2.gif" width="5" height="28" hspace="0" vspace="0" border="0"></td>
+          <td align="center" bgcolor="#003399"><a href="http://www.americanblinds.com/commercialquote/default.asp" class="topNavLinksWhite">COMMERCIAL 
             <br>
-            MIRRORS </font></a></td>
-          <td width="5"><img src="/images/nav/corners_navDividerBars.gif" width="5" height="28" hspace="0" vspace="0" border="0"></td>
-          <td align="center" nowrap="" style="background-color:#336699"><a href="http://www.americanblinds.com/products/instock/index.asp?P=WA" class="topNavLinksWhite"><font color="#ffffff">WALL<br>
-              DÉCOR</font></a></td>
-			<td width="5"><img src="/images/nav/corners_navDividerBars.gif" width="5" height="28" hspace="0" vspace="0" border="0"></td>
-          <td align="center" nowrap=""><a href="http://www.americanblinds.com/products/fineart/bfa_jump.asp" class="topNavLinksWhite" style="background-color:#336699"><font color="#ffffff">FINE ART<br>
-            OIL PAINTINGS</font></a></td>
-          <td width="5"><img src="/images/nav/corners_navDividerBars.gif" width="5" height="28" hspace="0" vspace="0" border="0"></td>
-            <td align="center" nowrap=""><a href="http://www.americanblinds.com/products/artwork/maw_jump.asp" class="topNavLinksWhite" style="background-color:#336699<font color=" #ffffff"="">POSTERS 
-              - PRINTS<br>
-              <img src="/images/nav/v_line.gif" width="30" height="3" vspace="0" hspace="0" border="0"><br>
-              FRAMED ART</a></td>                        
+            &amp; CONTRACT</a><br>
+          </td>
           <td width="3"><img src="/images/nav/corners_navDividerBarsRtA.gif" width="3" height="28"></td>
           <td width="2" bgcolor="#990000"><img src="/images/nav/corners_navDividerBarsRtB.gif" width="2" height="28"></td>
           <td align="center" nowrap="" bgcolor="#990000"><a href="http://www.americanblinds.com/clearance/default.asp" class="topNavLinksWhite">CLEARANCE<br>
@@ -758,19 +344,14 @@ s.t()//]]>
 		</td>
   	</tr>
 </tbody></table>
-</div>
-
-    <script language="javascript1.2">
-        mboxCreate('topnav','page=restofthesite','site=us');
-    </script><div id="mboxMarker-default-topnav-0" style="visibility:hidden;display:none"></div><script src="https://mbox9e.offermatica.com/m2/americanblinds/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580350652880-157227&amp;mboxPage=1580350655945-574279&amp;mboxCount=1&amp;page=restofthesite&amp;site=us&amp;mbox=topnav&amp;mboxId=0&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20090903001024id_%2Fhttp%253A%2F%2Fwww.americanblinds.com%2Fresourcecenter%2Fhelp%2Fsecurity.asp%253Fcm_re%253DBottomNavHP-_-Bottom-_-PrivacySecurity&amp;mboxReferrer=&amp;mboxVersion=34" language="JavaScript"></script>
 
 <!-- PROGRAMMER NOTE - PLEASE ADD THE LINK LOGIC FOR BACK TO ONLINE CATALOG IN THE FOLLOWING TABLE AND ONLY SHOW THIS TABLE IF THE USER IS DETECTED TO HAVE COME FROM THE ONLINE CATALOG. -->
 
 
 <table><tbody><tr><td width="100">
-
+<!--
 <img src="http://www.americanblinds.com/images/horizontal_spacer.gif">
-
+-->
 </td><td align="center">
 
 </td></tr></tbody></table>
@@ -884,7 +465,7 @@ s.t()//]]>
       Service department at 1-800-575-9019. <b><br>
       <br>
       Additional Information</b><br>
-                        This policy is valid until 31 January 2010 at 12:00:00 
+                        This policy is valid until 31 January 2011 at 12:00:00 
                         EST.<br>
       <br>
       <b>Data Collection</b><br>
@@ -1039,12 +620,6 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
 // End -->
 </script>
 
-<div class="mboxDefault" style="visibility: visible; display: block;">
-</div>
-<script type="text/javascript">
-  mboxCreate('bottom_nav', 'page=bottomnavlive','site=us');
-</script><div id="mboxMarker-default-bottom_nav-0" style="visibility:hidden;display:none"></div><script src="https://mbox9e.offermatica.com/m2/americanblinds/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580350652880-157227&amp;mboxPage=1580350655945-574279&amp;mboxCount=2&amp;page=bottomnavlive&amp;site=us&amp;mbox=bottom_nav&amp;mboxId=0&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20090903001024id_%2Fhttp%253A%2F%2Fwww.americanblinds.com%2Fresourcecenter%2Fhelp%2Fsecurity.asp%253Fcm_re%253DBottomNavHP-_-Bottom-_-PrivacySecurity&amp;mboxReferrer=&amp;mboxVersion=34" language="JavaScript"></script>
-
 <br>
 
 <div id="newbottomnav_live">
@@ -1067,21 +642,21 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
           <tr>
             <td><table width="100%" border="0" cellspacing="0" cellpadding="10">
               <tbody><tr>
-                <td valign="top" class="btmnavLinks"><a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=97887811&amp;lg=0&amp;cmad=&amp;blindid=4&amp;blindname=Cellular Shades" class="btmnavLinks">Cellular Shades</a><br>
-                  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=97887811&amp;lg=0&amp;cmad=&amp;blindid=194&amp;blindname=Cornices" class="btmnavLinks">Cornices</a><br>
-                  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=97887811&amp;lg=0&amp;cmad=&amp;blindid=183&amp;blindname=Faux  Wood Blinds" class="btmnavLinks">Faux Wood Blinds</a><br>
-                  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=97887811&amp;lg=0&amp;cmad=&amp;blindid=1&amp;blindname=Mini Blinds" class="btmnavLinks">Mini Blinds</a><br>
-                  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=97887811&amp;lg=0&amp;cmad=&amp;blindid=3&amp;blindname=Pleated Shades" class="btmnavLinks">Pleated Shades</a><br>
-				  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=97887811&amp;lg=0&amp;cmad=&amp;blindid=5&amp;blindname=Roller Shades" class="btmnavLinks">Roller Shades</a><br>
-                  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=97887811&amp;lg=0&amp;cmad=&amp;blindid=9&amp;blindname=Roman Shades" class="btmnavLinks">Roman Shades</a><br>
+                <td valign="top" class="btmnavLinks"><a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=4&amp;blindname=Cellular Shades" class="btmnavLinks">Cellular Shades</a><br>
+                  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=194&amp;blindname=Cornices" class="btmnavLinks">Cornices</a><br>
+                  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=183&amp;blindname=Faux  Wood Blinds" class="btmnavLinks">Faux Wood Blinds</a><br>
+                  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=1&amp;blindname=Mini Blinds" class="btmnavLinks">Mini Blinds</a><br>
+                  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=3&amp;blindname=Pleated Shades" class="btmnavLinks">Pleated Shades</a><br>
+				  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=5&amp;blindname=Roller Shades" class="btmnavLinks">Roller Shades</a><br>
+                  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=9&amp;blindname=Roman Shades" class="btmnavLinks">Roman Shades</a><br>
 					&nbsp; </td>
-                        <td valign="top" class="btmnavLinks"> <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=97887811&amp;lg=0&amp;cmad=&amp;blindid=6&amp;blindname=Sheer Vertical Blinds" class="btmnavLinks">Sheer 
+                        <td valign="top" class="btmnavLinks"> <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=6&amp;blindname=Sheer Vertical Blinds" class="btmnavLinks">Sheer 
                           Vertical Blinds</a> <br>
-				  <a href="http://www1.americanblinds.com/sunburst/sbInterior.aspx?ui=97887811&amp;lg=0&amp;cmad=" class="btmnavLinks">Shutters (Interior)</a> <br>
-                  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=97887811&amp;lg=0&amp;cmad=&amp;blindid=2&amp;blindname=Vertical Blinds" class="btmnavLinks">Vertical Blinds</a><br>
-				  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=97887811&amp;lg=0&amp;cmad=&amp;blindid=8&amp;blindname=Window Shadings" class="btmnavLinks">Window Shadings</a><br>
-                  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=97887811&amp;lg=0&amp;cmad=&amp;blindid=7&amp;blindname=Wood Blinds" class="btmnavLinks">Wood Blinds</a><br>
-                          <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=97887811&amp;lg=0&amp;cmad=&amp;blindid=11&amp;blindname=Woven Woods" class="btmnavLinks">Woven 
+				  <a href="http://www1.americanblinds.com/sunburst/sbInterior.aspx?ui=107375134&amp;lg=0&amp;cmad=" class="btmnavLinks">Shutters (Interior)</a> <br>
+                  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=2&amp;blindname=Vertical Blinds" class="btmnavLinks">Vertical Blinds</a><br>
+				  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=8&amp;blindname=Window Shadings" class="btmnavLinks">Window Shadings</a><br>
+                  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=7&amp;blindname=Wood Blinds" class="btmnavLinks">Wood Blinds</a><br>
+                          <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=11&amp;blindname=Woven Woods" class="btmnavLinks">Woven 
                           Woods</a><br>
                           <br>
                           <br>
@@ -1114,7 +689,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
                     <a href="http://www.americanblinds.com/products/wallpaper/index.asp?P=WP&amp;active=1&amp;results=1&amp;N=4294967258+4294965533&amp;Ne=94&amp;home=tab1&amp;Ns=p_bookName|0&amp;Ntk=search_book&amp;sterm=NV&amp;sval=Traditional" class="btmnavLinks">Traditional</a> <br>
                           <a href="http://www.americanblinds.com/wallpapertrends.asp?sterm=NV&amp;sval=Wallpaper%20Trends" class="btmnavLinks">Wallpaper 
                           Trends</a> <br>
-                          <br>
+                          <a href="http://www.americanblinds.com/products/mural/mural_jump.asp?cm_re=BottomNavHP-_-WALLPAPER-_-CUSTOMMURALS" class="btmnavLinks">Design Your Own Wallpaper</a>
                           <br>
                           <br>
                           <br>
@@ -1131,8 +706,8 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
             <td><table width="100%" border="0" cellspacing="0" cellpadding="10">
                 <tbody><tr>
                   <td valign="top" class="btmnavLinks"><a href="http://www.americanblinds.com/measure/default.asp" class="btmnavLinks">How to Measure Blinds </a><br>
-                    <a href="http://www.americanblinds.com/installation/default.asp" class="btmnavLinks">How to Install Blinds</a><br>
-					<a href="http://www.americanblinds.com/products/fineart/uploadphoto.asp" class="btmnavLinks">Portrait Photo Upload</a><br>
+                          <a href="http://www.americanblinds.com/installation/default.asp" class="btmnavLinks">How 
+                          to Install Blinds</a><br>
                     <a href="http://www.americanblinds.com/resourcecenter/videosandguides.asp" class="btmnavLinks">Do it Yourself Videos</a><br>
                     <a href="http://www.americanblinds.com/resourcecenter/decoratingtips.asp" class="btmnavLinks">Decorating Tips</a><br>
                     <a href="http://www.americanblinds.com/resourcecenter/testimonials.asp" class="btmnavLinks">Customer Testimonials</a><br>
@@ -1185,7 +760,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
         
         <script src="https://seal.verisign.com/getseal?host_name=www.americanblinds.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script>
      </td>
-      <td align="center" valign="middle" height="67"><a href="https://www1.americanblinds.com/contest/sweepstakes/default.aspx?ui=97887811&amp;lg=0&amp;cmad="></a><a href="http://www.americanblinds.com/resourcecenter/help/payment.asp"><img src="/images/nav/footer_paymentoptions.gif" alt="We are proud to accept these payment options" width="335" height="30" hspace="0" vspace="0" border="0"></a><a href="javascript:popUp2('http://www.americanblinds.com/bml/default.asp')"><img src="/images/nav/footer_bmlLogo.gif" alt="BillMeLater" width="126" height="30" hspace="0" vspace="0" border="0"></a></td>
+      <td align="center" valign="middle" height="67"><a href="https://www1.americanblinds.com/contest/sweepstakes/default.aspx?ui=107375134&amp;lg=0&amp;cmad="></a><a href="http://www.americanblinds.com/resourcecenter/help/payment.asp"><img src="/images/nav/footer_paymentoptions.gif" alt="We are proud to accept these payment options" width="335" height="30" hspace="0" vspace="0" border="0"></a><a href="javascript:popUp2('http://www.americanblinds.com/bml/default.asp')"><img src="/images/nav/footer_bmlLogo.gif" alt="BillMeLater" width="126" height="30" hspace="0" vspace="0" border="0"></a></td>
       <td align="center" valign="middle" height="67"><a href="http://www.americanblinds.com/resourcecenter/installerservices.asp"><img src="/images/nav/footer_installersBTN.gif" alt="Find a Professional Installer" width="122" height="44" hspace="0" vspace="0" border="0"></a></td>
    </tr>
    
@@ -1194,9 +769,11 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
       <td align="center" valign="middle"><span class="btmnavLinks">Copyright American 
         Blind and Wallpaper Factory, Inc. ©2009<br>
       American Blind and Wallpaper Factory brings you DecorateToday.com</span><br>
-       <span class="btmnavLinks">*Prices on website already reflect discount.<br>
-**Multiple discount codes cannot be combined or applied to prior orders. </span></td>
-     <td align="center" valign="middle"><!--<img src="/nav/DMAmemberlogo.gif" hspace="0" vspace="0" border="0">--><img src="/images/spacer.gif" width="90" height="41" hspace="0" vspace="0" border="0"></td>
+        <span class="btmnavLinks">*Prices on website already reflect discount.<br>
+        **Multiple discount codes cannot be combined. Discounts cannot be applied 
+        to prior orders. †<a href="http://www.americanblinds.com/resourcecenter/help/disclaimer.asp">Click 
+        for details.</a></span></td>
+     <td align="center" valign="middle"><img src="/images/spacer.gif" width="90" height="41" hspace="0" vspace="0" border="0"></td>
    </tr>
    <tr>
      <td colspan="3" align="center"><span class="btmnavLinks"><a href="http://www.americanblinds.com/customer/default.asp" class="btmnavLinks">Contact Us</a> &nbsp;|&nbsp; <a href="https://www.americanblinds.com/customer/email_request.asp?msgid=5&amp;cm_re=BottomNavHP-_-Bottom-_-ContactTheCEO" class="btmnavLinks">Contact The CEO</a> &nbsp;|&nbsp; <a href="http://www.americanblinds.com/resourcecenter/help/security.asp" class="btmnavLinks">Privacy &amp; Security</a> &nbsp;|&nbsp;    <a href="http://www.americanblinds.com/resourcecenter/help/legal.asp" class="btmnavLinks">Legal Notices</a> &nbsp;|&nbsp;    <a href="http://www.americanblinds.com/resourcecenter/help/disclaimer.asp" class="btmnavLinks">Disclaimers</a> &nbsp;|&nbsp; <a href="http://www.americanblinds.com/affiliates/default.asp" class="btmnavLinks">Affiliate Program</a> &nbsp;|&nbsp;   <a href="http://www.americanblinds.com/customer/sitemap.asp" class="btmnavLinks">Site Map</a></span></td>
@@ -1206,7 +783,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
  
  
 
-<!-- webserver = Webserver9-->
+<!-- webserver = Webserver7-->
 </div></td>
   		</tr>
 	</tbody></table></td>
