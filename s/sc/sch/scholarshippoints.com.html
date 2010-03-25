@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scholarshippoints.com privacy policy that was archived on 2009-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091217062818id_/http%3A//www.scholarshippoints.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scholarshippoints.com privacy policy that was archived on 2010-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100325154722id_/http%3A//www.scholarshippoints.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -16,47 +16,13 @@
 <meta name="Slurp" content="NOYDIR">
 <meta name="robots" content="index,follow">
 <meta name="y_key" content="2472f7c10ce0d2bf">
-
+<!-- jQuery Library -->
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
 <script type="text/javascript">
-var http = false;
-
-if(navigator.appName == "Microsoft Internet Explorer") {
-	http = new ActiveXObject("Microsoft.XMLHTTP");
-} else {
-	http = new XMLHttpRequest();
-}
-
-function validate(email, fname, lname, gradyear, site, date) {
-	http.abort();
-	http.open("GET", "includes/newsletter.php?name=" + email + "&fname=" + fname + "&lname=" + lname + "&gradyear=" + gradyear + "&site=" + site + "&date=" + date, true);
-	http.onreadystatechange=function() {
-		if(http.readyState == 4) {
-			document.getElementById('foo').innerHTML = http.responseText;
-		}
-	}
-	http.send(null);
-}
-</script>
-<script language="javascript">
-function changeBox() 
-{
-  document.getElementById('div1').style.display='none';
-  document.getElementById('div2').style.display='';
-  document.getElementById('password').focus();
-}
-function restoreBox() 
-{
-	if(document.getElementById('password').value=='')
-	{
-	  document.getElementById('div1').style.display='';
-	  document.getElementById('div2').style.display='none';
-	}
-}
+	 google.load("jquery", "1.3.2");
 </script>
 
-
-
-
+<script src="http://www.scholarshippoints.com/includes/javascript/containerController.js" type="text/javascript"></script><script src="http://www.scholarshippoints.com/includes/javascript/popper.js" type="text/javascript"></script>
 </head>
 
 <body>
@@ -70,45 +36,32 @@ function restoreBox()
 
 <!-- Logo -->
 <div id="logo_strip">
-<div class="logo"><a href="http://www.scholarshippoints.com/"><img src="http://www.scholarshippoints.com/images/scholarship_points_logo.gif" border="0" alt="Scholarship Points Free Scholarships Program"></a></div>
-<div class="topright">
-
-<div align="left">
-<h4>613,101 members!</h4>
-
-
-<div class="form_wrap">
-	<form action="win-free-scholarships/login.php" method="post" name="login">
-		<div class="pass_1">
-			<input name="username" type="text" size="16" height="12" value="Enter Email" tabindex="90" style="font-size:9px;" onfocus="this.value=''">
- 		</div>	
- 			
- 		<div class="pass_2">
- 			<div id="div1">  
-				<input type="pass_temp" value="Password" size="11" tabindex="91" style="font-size:9px;" onfocus="changeBox()">
-			</div>	 
-			
-			<div id="div2" style="display:none"> 
-				<input name="password" id="password" type="password" size="11" tabindex="91" style="font-size:9px;" onfocus="changeBox()">
-			</div>
+	<div class="logo">
+		<a href="http://www.scholarshippoints.com/"><img src="http://www.scholarshippoints.com/images/scholarship_points_logo.gif" border="0" alt="Scholarship Points Free Scholarships Program"></a>
+	</div>
+	<div class="topright">
+		<table border="0">
+			<tbody><tr>
+				<td>
+					<h4>878,985 members!</h4> 
+					<div class="fLeft">
+						<a href="http://www.scholarshippoints.com/win-free-scholarships/" title="Register for Scholarship Points"><span style="font-size:9px">Join Now</span></a> <span style="font-size:9px">|</span> <a href="http://www.scholarshippoints.com/win-free-scholarships/forgotpassword.php" title="Forgot your password"><span style="font-size:9px">Forgot password?</span></a> 
+					</div>
+				</td>
+				<td>
+					<a href="http://www.scholarshippoints.com/win-free-scholarships/login.php"><img src="http://www.scholarshippoints.com/images/buttons/loginBtn.png" border="0"></a>
+					</td>
+				</tr>
+			</tbody></table>
 		</div>
-		
-		<div class="login_btn">
-	  		 <input type="image" name="do_login" value="Login" tabindex="92" src="images/buttons/loginBtn.png">
-			<input type="hidden" name="from" value="members/index.php">	 
-			<input type="hidden" name="do_login" id="do_login" value="1">
-		</div>			
-</form>
+	</div>
+<!-- Navigation -->
+<div id="nav">
+	<p>
+		<a href="http://www.scholarshippoints.com/free-college-scholarships/">Free College Scholarships</a><img src="http://www.scholarshippoints.com/images/pixel.gif" alt="" width="44" height="10" class="navsplit"><a href="http://www.scholarshippoints.com/scholarship-contests/">Earn Points</a><img src="http://www.scholarshippoints.com/images/pixel.gif" alt="" width="50" height="10" class="navsplit"><a href="http://www.scholarshippoints.com/free-scholarship-winners/">Winners</a><img src="http://www.scholarshippoints.com/images/pixel.gif" alt="" width="50" height="10" class="navsplit"><a href="http://www.scholarshippoints.com/community.php" target="_blank">Community</a><img src="http://www.scholarshippoints.com/images/pixel.gif" alt="" width="45" height="10" class="navsplit"><a href="http://www.scholarshippoints.com/win-free-scholarships/">Join Now</a>
+	</p>
 </div>
 
-</div>
-<div class="fLeft">
-<a href="http://www.scholarshippoints.com/win-free-scholarships/" title="Register for Scholarship Points"><span style="font-size:9px">Join Now</span></a> <span style="font-size:9px">|</span>  <a href="http://www.scholarshippoints.com/win-free-scholarships/forgotpassword.php" title="Forgot your password"><span style="font-size:9px">Forgot password?</span></a>
-</div>
-</div>
-</div>
-<!-- Navigation -->
-<div id="nav"><p><a href="http://www.scholarshippoints.com/free-college-scholarships/">Free College Scholarships</a>&nbsp;<img src="http://www.scholarshippoints.com/images/nav-split-clear.gif" alt="split" width="2" height="20" class="navsplit">&nbsp;&nbsp;<a href="http://www.scholarshippoints.com/scholarship-contests/">Earn Points</a>&nbsp;&nbsp;<img src="http://www.scholarshippoints.com/images/nav-split-clear.gif" alt="split" width="2" height="20" class="navsplit">&nbsp;&nbsp;<a href="http://www.scholarshippoints.com/free-scholarship-winners/">Winners</a>&nbsp;&nbsp;<img src="http://www.scholarshippoints.com/images/nav-split-clear.gif" alt="split" width="2" height="20" class="navsplit">&nbsp;&nbsp;<a href="http://www.scholarshippoints.com/community.php" target="_blank">Community</a>&nbsp;&nbsp;<img src="http://www.scholarshippoints.com/images/nav-split-clear.gif" alt="split" width="2" height="20" class="navsplit">&nbsp;<a href="http://www.scholarshippoints.com/win-free-scholarships/">Join Now</a></p></div>
 <!-- Main Content -->
 <div id="main_content">
 
@@ -123,7 +76,7 @@ function restoreBox()
 <div class="left_resources">
 	<h1>Free Scholarships</h1> 
 	<p>
-		<a href="http://www.scholarshippoints.com/win-free-scholarships/?st=SCPNAV" title="Win $100,000 in Free Scholarships" style="color: #980F08;font-weight:bold;text-decoration:underline">Win $100,000 in <br>FREE Scholarships</a> 
+		<a href="http://www.scholarshippoints.com/win-free-scholarships/" title="Win $150,000 in Free Scholarships" style="color: #980F08;font-weight:bold;text-decoration:underline">Win FREE Scholarships</a> 
 	</p>
 	<p>
 		<a href="http://www.scholarshippoints.com/about.php" title="About ScholarshipPoints">About ScholarshipPoints</a> 
@@ -137,28 +90,12 @@ function restoreBox()
 	<p>
 		<a href="http://www.scholarshippoints.com/scholarship-questions/" title="Scholarship Points FAQ">Scholarship Points FAQ</a> 
 	</p>
-	<h1 style="white-space:nowrap">Scholarship Sponsors</h1> 
-	<p>
-		<a rel="nofollow" href="http://www.vhmnetwork.com/trackingcode.php?aid=2689&amp;linkid=N289&amp;subid=SCPNAV" target="_blank">$20,000 Zinch Scholarship</a> 
-	</p>
-	<p>
-		<a href="http://www.scholarshippoints.com/pro/zoompanel/?src=SCPNAV">$500 ZoomPanel.com Scholarship</a> 
-	</p>
-	<p>
-		<a href="http://www.scholarshippoints.com/pro/winningsurveys/">$500 WinningSurveys.com Scholarship</a> 
-	</p>
-	<p>
-		<a href="http://www.cappex.com/page/account/quickApply.jsp?scholarshipID=gp&amp;code=CD169-269-32&amp;bid=269&amp;aid=CD169&amp;opt=&amp;subid1=SCPNAV" target="_blank">$1,000 GPA Isn't Everything Scholarship</a> 
-	</p>
 	<h1>Friend &amp; Follow Us!</h1> 
-	<p>
-		<span class="small">Become a ScholarshipPoints insider and receive secret bonus codes. </span>
-	</p>
 	<div style="width:185px;text-align:center;padding:1em .5em">
-		<a rel="nofollow" href="http://twitter.com/winscholarships" title="Follow us on twitter" target="_blank"><img src="images/twitter_logo.png" alt="Follow us on twitter" border="0"></a> 
+		<a rel="nofollow" href="http://twitter.com/winscholarships" title="Follow us on twitter" target="_blank"><img src="http://www.scholarshippoints.com/images/twitter_logo.png" alt="Follow us on twitter" border="0"></a> 
 	</div>
 	<div style="width:185px;text-align:center;padding:.5em .5em">
-		<a rel="nofollow" href="http://www.facebook.com/scholarshippoints" title="Join us on FaceBook" target="_blank"><img src="images/facebook_logo.png" alt="Join us on FaceBook" border="0"></a> 
+		<a rel="nofollow" href="http://www.facebook.com/scholarshippoints" title="Join us on FaceBook" target="_blank"><img src="http://www.scholarshippoints.com/images/facebook_logo.png" alt="Join us on FaceBook" border="0"></a> 
 	</div>
 	<h1>Helpful Resources</h1> 
 	<p>
@@ -198,7 +135,7 @@ function restoreBox()
 
 <div class="adClear"></div>
 <div id="adRectangle">
-<a href="http://advertising.edvisors.com/www/delivery/ck.php?oaparams=2__bannerid=308__zoneid=134__cb=62a91addca__maxdest=http://www.studentloannetwork.com/10K/?st=OPNX308" target="_blank"><img src="http://advertising.edvisors.com/www/images/180x150_10k_3.gif" width="180" height="150" alt="$10,000 Scholarship Giveaway" title="$10,000 Scholarship Giveaway" border="0"></a><div id="beacon_62a91addca" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://advertising.edvisors.com/www/delivery/lg.php?bannerid=308&amp;campaignid=165&amp;zoneid=134&amp;loc=http%3A%2F%2Fwww.scholarshippoints.com%2Fprivacy.php&amp;cb=62a91addca" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></div>
+<a href="http://advertising.edvisors.com/www/delivery/ck.php?oaparams=2__bannerid=296__zoneid=134__cb=320dff6c32__maxdest=http://www.privatestudentloans.com/easy/?st=OPNX296_134" target="_blank"><img src="http://advertising.edvisors.com/www/images/psl-180x150_2.gif" width="180" height="150" alt="Learn more about  Private Student Loans" title="Learn more about  Private Student Loans" border="0"></a><div id="beacon_320dff6c32" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://advertising.edvisors.com/www/delivery/lg.php?bannerid=296&amp;campaignid=147&amp;zoneid=134&amp;loc=http%3A%2F%2Fwww.scholarshippoints.com%2Fprivacy.php&amp;cb=320dff6c32" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></div>
 
 </div>
 
@@ -374,19 +311,19 @@ WsmWLcdeOozVQYa();
 </div>
 
 <!-- Footer -->
+
 <div id="footer">
-	<div id="footer_left">
-		<a href="http://www.bbb.org/boston/business-reviews/insurance-companies/edvisors-network-inc-in-quincy-ma-88239/" target="_blank" rel="nofollow"><img src="http://www.scholarshippoints.com/images/bbbwide.gif" alt="BBBOnLine Reliability Seal" border="0"></a> 
+	<p>
+	</p><div id="footer_left">
+		<a href="http://www.bbb.org/boston/business-reviews/insurance-companies/edvisors-network-inc-in-quincy-ma-88239/" target="_blank" rel="nofollow"><img src="http://www.scholarshippoints.com/images/bbb-seal.png" alt="BBBOnLine Reliability Seal" border="0"></a> 
 	</div>
-	<div id="footer_right">
-		<p>
+
 			<a href="http://www.scholarshippoints.com" title="Scholarship Points" target="_blank">Scholarship Points</a> is an Edvisors <a href="http://www.edvisors.com/" title="Online Education Directory">Online Education</a> company. 
 			<br>
-			© 2009 Edvisors. All rights reserved. 1250 Hancock Street, Suite 703N, Quincy, MA 02169 
+			©2010 Edvisors. All rights reserved. 1250 Hancock Street, Suite 703N, Quincy, MA 02169 
 			<br>
-			<a href="http://www.scholarshippoints.com/" title="Free Scholarships">Free Scholarships</a> | <a href="http://www.studentscholarshipsearch.com/" title="Search for College Scholarships" target="_blank">Scholarships</a> | <a href="http://www.studentloanconsolidator.com/" title="Student Loan Consolidation" target="_blank">Consolidation</a> | <a href="http://www.scholarshippoints.com/privacy.php" title="Privacy Policy">Privacy Policy</a> | <a href="http://www.scholarshippoints.com/sitemap.php" title="Site Map">Site Map</a> | <a href="http://www.scholarshippoints.com/contact.php" title="Contact Scholarship Points">Contact Us</a> | <a href="http://www.scholarshippoints.com/terms.php" title="Scholarship Terms &amp; Conditions">Terms &amp; Conditions</a>
-		</p>
-	</div>
+			<a href="http://www.scholarshippoints.com/sitemap.php" title="Site Map">Site Map</a> | <a href="http://www.scholarshippoints.com/contact.php" title="Contact Scholarship Points">Contact Us</a> | <a href="http://www.scholarshippoints.com/affiliates.php">Affiliates</a> | <a href="http://www.scholarshippoints.com/terms.php" title="Scholarship Terms &amp; Conditions">Terms &amp; Conditions</a> | <a href="http://www.scholarshippoints.com/privacy.php" title="Privacy Policy">Privacy Policy</a>
+	<p></p>
 </div>
 
 <!-- End of Site Wrapper -->
@@ -397,7 +334,22 @@ WsmWLcdeOozVQYa();
 </div>
 
 <!-- Start HTML body close -->
+<!-- End OpenX code -->
 
+<!-- Start BlueKai Script -->
+<iframe name="__bkframe" height="0" width="0" frameborder="0" src="javascript:void(0)"></iframe>
+<script language="javascript" src="http://www.bkrtx.com/js/bk-static.js"></script>
+<script language="javascript">bk_addPageCtx("http_refferer", "www.scholarshippoints.com");bk_addPageCtx("Interest_Scholarships", "Yes");bk_doJSTag(656,4);
+</script>
+<!-- End BlueKai Script -->
+  <!-- Start Quantcast tracking -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-42y4FMUjWq6F-";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-42y4FMUjWq6F-" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-42y4FMUjWq6F-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tracking -->
+<!-- Start Analytics tracking -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -407,20 +359,8 @@ try {
 var pageTracker = _gat._getTracker("UA-84190-15");
 pageTracker._trackPageview();
 } catch(err) {}</script>
-<script type="text/javascript" src="https://s3.amazonaws.com/new.cetrk.com/pages/scripts/0003/7557.js"> </script>
+<!-- End Analytics tracking -->
 
-<!-- Start Quantcast tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">_qacct="p-42y4FMUjWq6F-";quantserve();</script>
-<noscript>
-<a href="http://www.quantcast.com/p-42y4FMUjWq6F-" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-42y4FMUjWq6F-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
-</noscript>
-<!-- End Quantcast tag -->
-<!-- Start BlueKai Script -->
-<iframe name="__bkframe" height="0" width="0" frameborder="0" src="javascript:void(0)"></iframe>
-<script language="javascript" src="http://www.bkrtx.com/js/bk-static.js"></script>
-<script language="javascript">bk_addPageCtx("http_refferer", "www.scholarshippoints.com");bk_addPageCtx("Interest_Scholarships", "Yes");bk_doJSTag(656,4);
-</script>
-<!-- End BlueKai Script -->
-  
+
+
 </body></html>
