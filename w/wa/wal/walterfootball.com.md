@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walterfootball.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211175559id_/http%3A//www.walterfootball.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walterfootball.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325164737id_/http%3A//www.walterfootball.com/privacy.php) for the most accurate reproduction.*
 
 # WalterFootball.com: Links
 
@@ -34,7 +34,7 @@ WalterFootball.com Privacy Policy
 
 * * *
 
-© 1999-2009 [ Walter Cherepinsky ](mailto:wpc112@gmail.com): all rights reserved    
-[ Privacy Policy](https://web.archive.org/web/20091211175559id_/http%3A//www.walterfootball.com/privacy.php)   
+© 1999-2010 [ Walter Cherepinsky ](mailto:wpc112@gmail.com): all rights reserved    
+[ Privacy Policy](https://web.archive.org/web/20100325164737id_/http%3A//www.walterfootball.com/privacy.php)   
 2  5  9    
 
