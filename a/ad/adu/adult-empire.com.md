@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adult-empire.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202223344id_/http%3A//www.adult-empire.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adult-empire.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325075700id_/http%3A//www.adult-empire.com/privacy.htm) for the most accurate reproduction.*
 
 # Adult-Empire.com Privacy
 
@@ -22,12 +22,15 @@ The following are representative of the types of information automatically colle
 
 We will never sell or distribute any your personal information to any third-party for any reason. 
 
-Please see our [payment processor's Privacy Policy](http://www.standardpay.com/services-client/privacy) concerning collected information. 
-
 Copyright notice. 
 
 All materials on this web site are copyrighted with all rights reserved. No image of this site may be reproduced without written permission. No part of this site may be reproduced, duplicated, copied, sold, resold, visited, or otherwise used for any commercial purposes. You may not frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout, or form) of ours. You may not use any meta tags or any other "hidden text" utilizing any of our trade names or trademarks without our permission in writing. Any unauthorized use terminates the permission or license to access this site. Spidering (automatic retrieving the entire site or parts of it with a specific program) is forbidden. Searching our servers for unpublished or offline files is forbidden too. 
 
 If you have any questions or comments about the information presented here, please contact the support-team via phone or e-mail support@adult-empire.com .   
   
----
+---  
+  
+[Terms of Service](https://web.archive.org/terms.htm) | [Privacy policy](https://web.archive.org/privacy.htm)  | [Download Agreement ](https://web.archive.org/download.htm)| [DMCA](https://web.archive.org/dmca.htm) | [Contact](http://www.adult-empire.com/contact.html) |  [Spam Policy | ](https://web.archive.org/spam_policy.htm) [USC 2257 ](https://web.archive.org/2257.htm)|  [Refund Policy ](https://web.archive.org/refund.htm)| [Webmasters](http://adult-empire.com/wm/)   
+Copyright © 2003-2009 Astro Creative Media B.V. All rights reserved.  
+This site is owned and operated by Astro Creative Media B.V., The Netherlands; Dallonica LTD, 243 28th October Avenue, Christiana Sea View Court, Block A, 202 Suites, 3035 Limassol, Cyprus; DAKO Systems B.V., Ganzenstraat 1, 3815JA Amersfoort, Netherlands; Dako Systems Inc, C18 the Sands, Bay Road. & George Street, Basseterre, St. Kitts are owners of this website, and the charge will appear on your statement as CS-AE.COM HARDERWIJK,NL.  
+Your credit card will be billed immediately after purchase. We recommend printing out your transaction data and storing it in an easily accessible place.
