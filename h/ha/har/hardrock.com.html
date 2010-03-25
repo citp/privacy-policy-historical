@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the hardrock.com privacy policy that was archived on 2009-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090405231208id_/http%3A//www.hardrock.com/privacy/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hardrock.com privacy policy that was archived on 2010-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100325195151id_/http%3A//www.hardrock.com/privacy/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="description" content="">
@@ -13,15 +15,16 @@
 <!--[if IE]>
   <style type="text/css">
          ul.nav li ul{top: 24px; }
-         #lastSubMenu { margin-left: -170px; }        
+        /* #lastSubMenu { margin-left: -170px; }        */
    </style>   
 <![endif]-->
 
-<!--[if lt IE 7]>
+
   <style type="text/css">         
-          body {behavior:url("/styles/csshover.htc");}                        
+          body {behavior:url("/styles/csshover.htc");}    
+           /*ul.nav{left: 9px;}                    */
    </style>   
-<![endif]-->
+
 
 
 
@@ -65,31 +68,73 @@ pageTracker._trackPageview();
 
 <style>
 
- .navItem img {margin-left: -2px; }
+ .navItem img {margin: 0 0 0 -1px; }
+
+ #MenuContainer{right: 0px; width: auto;}
 
 /* Safari Hacks */
-
-
 @media screen and (-webkit-min-device-pixel-ratio:0)
 {
    #lastSubMenu {right: -4px; }
 }
 
-
-
-
 </style>
+<script language="javascript">
+var HRC = {
+	Search : function() {
+		window.location.href='/search/default.aspx?searchString=' + document.getElementById('searchstring').value;
+		return false;
+	},
+	CheckKey : function(ev) {
+		if(window.event)
+          var key = ev.keyCode;
+        else if(ev.which)
+           var key = ev.which;
+ 		
+ 		var retVal = true;
+ 		
+ 		if(key==13){
+			if(ev.preventDefault) ev.preventDefault();
+			if(ev.returnValue) ev.returnValue=false;
+			retVal = HRC.Search();		
+		}
+		return retVal;
+	}
+};
 
+
+</script>
 <div id="MainWrapper">
 <div id="MainPage">
 <div id="bubbleContainer">
 	<div id="bubble"></div>
 </div>
 <!--- Navigation-->
-<div id="Search">
-        <form id="frmSearch" name="frmSearch" action="/search/default.aspx" method="post"><input name="searchstring" style="height:14px; width:100px;" type="text" id="searchstring"><input name="imgBtnSearch" type="image" id="imgBtnSearch" onmouseover="MM_swapImage('imgBtnSearch','','/img/search_btn_ro.gif',1)" onmouseout="MM_swapImgRestore()" src="/img/search_btn.gif" alt="SEARCH" align="absmiddle"></form><img src="/img/search_divider.gif" width="1" height="15" align="absmiddle" style="padding-left:6px; padding-right:6px;"><a href="/estore"><img src="/img/cart_icon.gif" alt="Shop Hard Rock" name="imgCart" width="50" height="15" border="0" align="absmiddle" id="imgCart" onmouseover="MM_swapImage('imgCart','','/img/cart_icon_ro.gif',1)" onmouseout="MM_swapImgRestore()"></a>
-</div>
-<!-- End Search -->
+
+<!--<div id="Search">
+   <input name="searchstring" type="text" id="searchstring" style="height:14px; width:100px;" onkeydown="return HRC.CheckKey(event);" /><a href="javascript:HRC.Search();"><img id="imgBtnSearch" name="imgBtnSearch" src="/img/search_btn.gif" alt="SEARCH" border="0" align="absmiddle" onMouseOver="MM_swapImage('imgBtnSearch','','/img/search_btn_ro.gif',1)" onMouseOut="MM_swapImgRestore()" /></a><img style="padding-right:6px; padding-left:6px;" src="/img/search_divider.gif" width="1" height="15" align="absmiddle" /><a href="/estore/"><img src="/img/cart_icon.gif" alt="Shop Hard Rock" name="imgCart" width="50" height="15" border="0" align="absmiddle" id="imgCart" onMouseOver="MM_swapImage('imgCart','','/img/cart_icon_ro.gif',1)" onMouseOut="MM_swapImgRestore()" /></a>
+</div>-->
+
+<div id="Search" style="">
+            <div style="float:right">
+            <div style="float:left;">
+                <input name="searchstring" type="text" id="searchstring" style="height:14px; width:100px;" onkeydown="return HRC.CheckKey(event);">
+            </div>
+            <div style="float:left;">
+                <a href="javascript:HRC.Search();"><img id="imgBtnSearch" name="imgBtnSearch" src="/img/search_btn.gif" alt="SEARCH" border="0" align="absmiddle" onmouseover="MM_swapImage('imgBtnSearch','','/img/search_btn_ro.gif',1)" onmouseout="MM_swapImgRestore()"></a>
+            </div>
+            <div style="float:left;">
+                <img style="padding-right:6px; padding-left:6px;" src="/img/search_divider.gif" width="1" height="15" align="absmiddle">
+            </div>
+            <div style="float:left; ">
+                <a href="/estore/"><img src="/images/home/shoppingbag.gif" alt="Shop Hard Rock" style="position:relative; top:-3px;" name="imgCart" width="46" height="23" border="0" align="absmiddle" id="imgCart" onmouseover="MM_swapImage('imgCart','','/images/home/shoppingbag_over.gif',1)" onmouseout="MM_swapImgRestore()"></a>
+            </div>
+            <div style="clear:both;"></div>
+           </div>
+           <div style="clear:both;"></div>
+        </div>
+
+<!-- End Search --> 
 <!-- Begin Menu -->
 <div id="MenuContainer">
 
@@ -97,17 +142,17 @@ pageTracker._trackPageview();
             <li class="navItem" style="">
    
     <a class="navItemLink" href="/locations/cafes3/"><img src="/img/sn_cafes_off.jpg" alt="CAFES" onmouseover="MM_swapImage('imgCafes','','/img/sn_cafes_on.jpg',1)" onmouseout="MM_swapImgRestore()" name="imgCafes" width="45" height="24" border="0" id="img3"></a>
-             <ul id="menu1" style="margin-left: -98px;">
-                <li><a href="/locations/cafes3/">CAFE HOME</a></li><li><a href="/locations/cafes3/locator.aspx">CAFE LOCATOR</a></li><li><a href="javascript:openRemote('/locations/cafes3/remote.html')">CAFE MAP</a></li><li><a href="/locations/cafes3/menuSelect.aspx?lc=MENU">CAFE MENU</a></li><li><a href="/locations/cafes3/groupsales">GROUP SALES</a></li><li><a href="/estore/survey/2">SURVEY</a></li>                 
+             <ul style="right: 510px;">
+                <li><a href="/locations/cafes3/">CAFE HOME</a></li><li><a href="/locations/cafes3/locator.aspx">CAFE LOCATOR</a></li><li><a href="javascript:openRemote('/locations/cafes3/remote.html')">CAFE MAP</a></li><li><a href="/locations/cafes3/menuSelect.aspx?lc=MENU">CAFE MENU</a></li><li><a href="/meetings/cafes">GROUP SALES</a></li><li><a href="/estore/survey/2">SURVEY</a></li>                 
                </ul>
             </li>
             
             
            <li class="navItem" style="">                               
 <img class="navItemSpacer" src="/img/sn_lt_cap.gif" height="24" width="2">
-<a class="navItemLink" href="http://www.hardrockhotels.com" target="_blank"><img src="/img/sn_hotelcasino_off.jpg" alt="HOTELS" onmouseover="MM_swapImage('imgHotels','','/img/sn_hotelcasino_on.jpg',1)" onmouseout="MM_swapImgRestore()" name="imgHotels" width="113" height="24" border="0" id="imgHotels"></a>
-<ul style="margin-left: -145px;">
-                <li><a href="http://www.hardrockhotels.com">HOTELS/CASINOS HOME</a></li><li><a href="http://www.hardrockhotels.com/target.aspx?site=http://www.hardrockhotels.net/bali/">BALI</a></li><li><a href="http://www.hardrockhotels.com/target.aspx?site=http://www.hardrockbiloxi.com">BILOXI</a></li><li><a href="http://www.hardrockhotels.com/target.aspx?site=http://hardrockhotelchicago.com">CHICAGO</a></li><li><a href="http://www.hardrockhotels.com/target.aspx?site=http://www.seminolehardrockhollywood.com">HOLLYWOOD, FL</a></li><li><a href="http://www.hardrockhotels.com/target.aspx?site=http://www.hardrockhotel.com">LAS VEGAS</a></li><li><a href="http://www.hardrockhotels.com/target.aspx?site=http://www.hardrockhotelorlando.com">ORLANDO</a></li><li><a href="http://www.hardrockhotels.com/target.aspx?site=http://www.hardrockhotels.net/pattaya/">PATTAYA</a></li><li><a href="http://www.hardrockhotels.com/target.aspx?site=http://www.hardrockhotels.net/penang/">PENANG</a></li><li><a href="http://www.hardrockhotels.com/target.aspx?site=http://www.hardrockhotelsd.com">SAN DIEGO</a></li><li><a href="http://www.hardrockhotels.com/target.aspx?site=http://www.hardrockhotelcasinotampa.com">TAMPA</a></li><li><a href="http://www.hardrockhotels.com/meetings/">HARD ROCK MEETINGS</a></li>                   
+<a class="navItemLink" href="http://www.hardrockhotels.com/target.aspx?site=http://www.hardrockhotels.com" target="_blank"><img src="/img/sn_hotelcasino_off.jpg" alt="HOTELS" onmouseover="MM_swapImage('imgHotels','','/img/sn_hotelcasino_on.jpg',1)" onmouseout="MM_swapImgRestore()" name="imgHotels" width="113" height="24" border="0" id="imgHotels"></a>
+ <ul style="right: 430px;"> 
+                <li><a href="http://www.hardrockhotels.com">HOTELS/CASINOS HOME</a></li><li><a href="http://www.hardrockhotels.com/target.aspx?site=http://www.hardrockhotels.net/bali/">BALI</a></li><li><a href="http://www.hardrockhotels.com/target.aspx?site=http://www.hardrockbiloxi.com">BILOXI</a></li><li><a href="http://www.hardrockhotels.com/target.aspx?site=http://hardrockhotelchicago.com">CHICAGO</a></li><li><a href="http://www.hardrockhotels.com/target.aspx?site=http://www.seminolehardrockhollywood.com">HOLLYWOOD, FL</a></li><li><a href="http://www.euro-vegas.eu">HUNGARY</a></li><li><a href="http://www.hardrockhotels.com/target.aspx?site=http://www.hardrockhotel.com">LAS VEGAS</a></li><li><a href="http://www.hardrockhotels.com/target.aspx?site=http://www.hardrockhotelorlando.com">ORLANDO</a></li><li><a href="http://www.hardrockhotels.com/target.aspx?site=http://www.hardrockhotelmacau.com">MACAU</a></li><li><a href="http://www.hardrockhotels.com/target.aspx?site=http://www.hardrockhotels.net/pattaya/">PATTAYA</a></li><li><a href="http://www.hardrockhotels.com/target.aspx?site=http://penang.hardrockhotels.net">PENANG</a></li><li><a href="http://www.hardrockhotels.com/target.aspx?site=http://www.hardrockhotelsd.com">SAN DIEGO</a></li><li><a href="http://www.hardrockhotels.com/target.aspx?site=http://www.hardrockhotelcasinotampa.com">TAMPA</a></li><li><a href="http://www.hardrockcasinotulsa.com">TULSA</a></li><li><a href="http://www.hardrockhotels.com/meetings/">HARD ROCK MEETINGS</a></li>                   
                </ul>
             </li>
 
@@ -115,7 +160,7 @@ pageTracker._trackPageview();
  <li class="navItem" style="">
 <img class="navItemSpacer" src="/img/sn_lt_cap.gif" height="24" width="2">
 <a class="navItemLink" href="/live2/"><img src="/img/sn_livemusic_off.jpg" alt="LIVE/MUSIC" onmouseover="MM_swapImage('imgLive','','/img/sn_livemusic_on.jpg',1)" onmouseout="MM_swapImgRestore()" name="imgLive" width="81" height="24" border="0" id="imgLive"></a>
- <ul style="margin-left: -130px;">
+<ul style="right: 327px"> 
                 <li><a href="http://www.hardrock.com/live2/">LIVE/MUSIC HOME</a></li><li><a href="/live2/">HARD ROCK LIVE</a></li><li><a href="/live2/globalevents.aspx">EVENT CALENDAR</a></li><li><a href="/live2/hello/">HELLO</a></li><li><a href="/live2/memomoments/">MEMO MOMENTS</a></li><li><a href="http://www.hardrock.com/promo/annual08/">HARD ROCK ANNUAL</a></li><li><a href="/live2/interviews.asp">ARTIST INTERVIEWS</a></li>                   
                </ul>
             </li>
@@ -127,7 +172,7 @@ pageTracker._trackPageview();
 <img class="navItemSpacer" src="/img/sn_lt_cap.gif" height="24" width="2">
 <a class="navItemLink" href="http://www.hardrock.com/target.asp?dest=http://memorabilia.hardrock.com/"><img src="/img/sn_memorabilia_off.jpg" alt="MEMORABILIA" onmouseover="MM_swapImage('imgMemorabilia','','/img/sn_memorabilia_on.jpg',1)" onmouseout="MM_swapImgRestore()" name="imgMemorabilia" width="99" height="24" border="0" id="imgMemorabilia"></a>   
 
-<ul style="margin-left: -140px;">
+<ul style="right:235px">
                 <li><a href="/target.asp?dest=http://memorabilia.hardrock.com/">MEMORABILIA HOME</a></li>                   
                </ul>
             </li>
@@ -135,10 +180,10 @@ pageTracker._trackPageview();
 
  <li class="navItem" style="">
 <img class="navItemSpacer" src="/img/sn_lt_cap.gif" height="24" width="2">
-<a class="navItemLink" href="/estore/">
+<a class="navItemLink" href="http://rockshop.hardrock.com">
 <img src="/img/sn_rockshop_off.jpg" alt="ROCK SHOP" onmouseover="MM_swapImage('imgRockShop','','/img/sn_rockshop_on.jpg',1)" onmouseout="MM_swapImgRestore()" name="imgRockShop" width="78" height="24" border="0" id="imgRockShop"></a>
-	<ul style="margin-left: -135px;">
-                <li><a href="/estore">ROCK SHOP HOME</a></li><li><a href="/estore/category.asp?catalog%5Fname=Hardrock+Online&amp;category%5Fname=Whats+New&amp;Page=1">WHAT'S NEW</a></li><li><a href="/Estore/category.asp?catalog%5Fname=Hardrock+Online&amp;category%5Fname=FEATURED+ITEMS&amp;Page=1">FEATURED ITEMS</a></li><li><a href="/estore/category.asp?catalog%5Fname=Hardrock+Online&amp;category%5Fname=HARD+ROCK+LADIES&amp;Page=1">HARD ROCK LADIES</a></li><li><a href="/estore/category.asp?catalog%5Fname=Hardrock+Online&amp;category%5Fname=HARD+ROCK+MEN&amp;Page=1">HARD ROCK MEN</a></li><li><a href="/estore/category.asp?catalog%5Fname=Hardrock+Online&amp;category%5Fname=HARD+ROCK+KIDS&amp;Page=1">HARD ROCK KIDS</a></li><li><a href="/estore/category.asp?catalog%5Fname=Hardrock+Online&amp;category%5Fname=HARD+ROCK+GIFTS&amp;Page=1">HARD ROCK GIFTS</a></li><li><a href="/estore/category.asp?catalog%5Fname=Hardrock+Online&amp;category%5Fname=HARDROCK+PINS&amp;Page=1">HARD ROCK PINS</a></li><li><a href="/estore/category.asp?catalog_name=Hardrock%20Online&amp;category_name=Pin%20Club">HRCPCC ONLY</a></li><li><a href="/Estore/auction.asp">AUCTION</a></li>                   
+	<ul style="right:140px"> 
+                <li><a href="https://rockshop.hardrock.com">ROCK SHOP HOME</a></li><li><a href="https://rockshop.hardrock.com/Mens/">HARD ROCK MEN</a></li><li><a href="https://rockshop.hardrock.com/Womens/">HARD ROCK LADIES</a></li><li><a href="https://rockshop.hardrock.com/PinsCollectibles/">HARD ROCK PINS</a></li><li><a href="https://rockshop.hardrock.com/Gifts/">HARD ROCK GIFTS</a></li><li><a href="https://rockshop.hardrock.com/Lifestyle/">HARD ROCK LIFESTYLE</a></li><li><a href="https://rockshop.hardrock.com/PinsCollectibles/Pin%20Members%20Only">HRCPCC ONLY</a></li>                   
                </ul>
             </li>
  
@@ -146,7 +191,7 @@ pageTracker._trackPageview();
  <li class="navItem" style="">
 <img class="navItemSpacer" src="/img/sn_lt_cap.gif" height="24" width="2" style="border-style:none;">
 <a class="navItemLink" href="/estore/services/customer/hrc_myrock_homepage.asp"><img src="/img/sn_memberships_off.jpg" alt="MEMBERSHIPS" onmouseover="MM_swapImage('imgMemberships','','/img/sn_memberships_on.jpg',1)" onmouseout="MM_swapImgRestore()" name="imgMemberships" width="99" height="24" border="0" id="imgParks"></a>
-   <ul style="margin-left: -139px;">
+   <ul style="right: 50px;">
                 <li><a href="/estore/services/customer/hrc_myrock_homepage.asp">MEMBERSHIPS HOME</a></li><li><a href="/estore/services/customer/hrc_myrock_homepage.asp">LOGIN</a></li><li><a href="/all-access/join.asp">ALL ACCESS</a></li><li><a href="/estore/pinclub/">PIN CLUB</a></li><li><a href="/estore/services/customer/HRC_Register_1.asp">MY ROCK</a></li>                   
                </ul>
             </li>
@@ -154,14 +199,18 @@ pageTracker._trackPageview();
  <li class="navItem" style="">
 	<img class="navItemSpacer" src="/img/sn_lt_cap.gif" height="24" width="2" border="0">
 	<a class="navItemLink" href="/corporate/" style="border-width:0px;"><img src="/img/sn_corporate_off.jpg" alt="CORPORATE" onmouseover="MM_swapImage('imgCorporate','','/img/sn_corporate_on.jpg',1)" onmouseout="MM_swapImgRestore()" name="imgCorporate" width="82" height="24" border="0" id="imgCorporate"></a>
-                <ul id="lastSubMenu" style="">
-                <li><a href="/careers/">CAREERS</a></li><li><a href="/corporate/ownership/">SEMINOLE OWNERSHIP</a></li><li><a href="/corporate/contactus/#devel">FRANCHISE OPPORTUNITIES</a></li><li><a href="/corporate/community/philanthropy.asp">PHILANTHROPY</a></li><li><a href="/corporate/news/">HARD ROCK NEWS</a></li><li><a href="/corporate/management/">MANAGEMENT</a></li><li><a href="/corporate/history/">HARD ROCK HISTORY</a></li><li><a href="/corporate/logos/logos.asp">HARD ROCK LOGOS</a></li><li><a href="/corporate/contactus/">CONTACT US</a></li>                   
+                <ul id="" style="right:-1px;">
+                <li><a href="/careers/">CAREERS</a></li><li><a href="/corporate/ownership/">SEMINOLE OWNERSHIP</a></li><li><a href="/corporate/contactus/#devel">FRANCHISE OPPORTUNITIES</a></li><li><a href="/corporate/community/philanthropy.asp">PHILANTHROPY</a></li><li><a href="http://blog.hardrock.com/category/hard-rock-news.aspx">HARD ROCK NEWS</a></li><li><a href="/corporate/management/">MANAGEMENT</a></li><li><a href="/corporate/history/">HARD ROCK HISTORY</a></li><li><a href="/corporate/logos/logos.asp">HARD ROCK LOGOS</a></li><li><a href="/corporate/contactus/">CONTACT US</a></li>                   
                </ul>
             </li>
 
 </ul>
-
+     
 </div>
+
+<script type="text/javascript">
+
+</script>
 
 <!-- End Menu -->
 <!-- script language="JavaScript" type="text/javascript" src="/scripts/menu.js"></script> -->
@@ -396,7 +445,7 @@ onLoad="MM_preloadImages('/corporate/grfx/mission_on.gif','/corporate/grfx/manag
 <div class="menurowouter">
     <div class="menurowinner">
         
-            <a href="/corporate/news/" class="unselectedmenu">HARD ROCK NEWS</a><br>
+            <a href="http://blog.hardrock.com/category/hard-rock-news.aspx" class="unselectedmenu">NEWS AND PRESS RELEASES</a><br>
         
     </div>
 </div>
@@ -433,14 +482,14 @@ onLoad="MM_preloadImages('/corporate/grfx/mission_on.gif','/corporate/grfx/manag
         
     </div>
 </div>
-<div class="menurowouter">
+<!--<div class="menurowouter" >
     <div class="menurowinner">
         
-            <a href="/corporate/press/" class="unselectedmenu">PRESS</a><br>
+            <a href="/corporate/press/" class="unselectedmenu">PRESS</a><br />
         
-        <img src="/grfx/dot_clear.gif" height="8"><br>
+        <img src="/grfx/dot_clear.gif" height="8" /><br />
     </div>
-</div>
+</div>-->
 <img src="/corporate/img/menufooter.gif" width="200" height="16"><br>
 <br><img src="/grfx/invisible.gif" border="0" vspace="0" hspace="0" alt="" height="1" width="200"><br>
 </td>
@@ -455,7 +504,7 @@ onLoad="MM_preloadImages('/corporate/grfx/mission_on.gif','/corporate/grfx/manag
   <img src="/img/footer_div_onblack.gif" width="625" height="15" style="margin-top:4px; "><br>
   <a href="/privacy/privacy.asp">Privacy Policy</a>/<a href="/privacy/privacy.asp#California">Your CA Privacy Rights</a> (as of 1/9/05)<span class="tilde">~</span><a href="/privacy/safeharbor.asp">Safe Harbor Policy</a><span class="tilde">~</span><a href="/privacy/terms.asp">Terms of Use</a><br>
 <br>
-<span class="CopyRight">Copyright © 2009, Hard Rock Cafe International, Inc. All rights reserved.</span>
+<span class="CopyRight">Copyright © 2010, Hard Rock Cafe International, Inc. All rights reserved.</span>
 </div><!--/Footer-->
 </div><!--/MainPage-->
 </div><!--/MainWrapper-->
