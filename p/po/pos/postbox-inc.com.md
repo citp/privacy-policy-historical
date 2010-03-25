@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postbox-inc.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230041534id_/http%3A//postbox-inc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postbox-inc.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325192630id_/http%3A//www.postbox-inc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Postbox
 
