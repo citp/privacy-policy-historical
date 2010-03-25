@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neoedge.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122092523id_/http%3A//www.neoedge.com/other/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neoedge.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325224544id_/http%3A//www.neoedge.com/other/privacy.htm) for the most accurate reproduction.*
 
 # NeoEdge - the leading ad platform for casual games
 
@@ -9,7 +9,7 @@ Last updated on May 11, 2009.
 
 This policy, as amended from time to time, (the "Privacy Policy") governs the data collected by NeoEdge-powered services (the "Service") operated by NeoEdge Networks, Inc. (collectively, the "Site") as well as the NeoEdge Networks software available from and operated in connection with the Service. "NeoEdge-powered services" means the NeoEdge distribution network which includes NeoEdge-owned web sites and web sites of affiliate partners using NeoEdge technologies, as presently configured or as may be supplemented, or otherwise modified by NeoEdge on an ongoing basis. This Privacy Policy does not govern privacy practices associated with offline activities or products and services of third parties that may be obtained or accessed via the Service. 
 
-If you have objections to the Privacy Policy, you should immediately discontinue use of the Service enabled by the NeoEdge-powered sites and contact the Privacy Policy Administrator at [privacy@neoedge.com](mailto:privacy@neoedge.com). You can also contact the Privacy Policy Administrator at NeoEdge Networks 215 Castro St, #200, Mountain View, CA, 94041, phone number (650) 853-8143. 
+If you have objections to the Privacy Policy, you should immediately discontinue use of the Service enabled by the NeoEdge-powered sites and contact the Privacy Policy Administrator at [privacy@neoedge.com](mailto:privacy@neoedge.com). You can also contact the Privacy Policy Administrator at NeoEdge Networks 45 Broadway Street, San Francisco, CA 94111, phone number (650) 853-8143. 
 
 The Service is intended for adult audiences, and NeoEdge Networks does not knowingly collect any personal information from anyone under 13 years of age. 
 
