@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the weddingpaperdivas.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223073018id_/http%3A//www.weddingpaperdivas.com/about-us/privacy-security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingpaperdivas.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325221525id_/http%3A//www.weddingpaperdivas.com/about-us/privacy-security.htm) for the most accurate reproduction.*
 
 # Wedding Paper Divas Privacy and Security
-
-[home](http://www.weddingpaperdivas.com/ "home") › privacy and security
 
 Last Updated: October 20, 2007
 
@@ -63,11 +61,10 @@ We also work with a third party to monitor certain pages of our website for the 
 If you have questions about this Privacy Policy, you can contact us at [info@weddingpaperdivas.com](mailto:info@weddingpaperdivas.com) or (877) 300-9256.
 
   1. [](https://web.archive.org/shop/wedding_invitations.htm "Wedding Invitations") [Wedding Invitations](https://web.archive.org/shop/wedding_invitations.htm "Wedding Invitations")
-  2. [](https://web.archive.org/shop/save-the-date-cards.htm "Save the Date Invitations") [Save The Date Cards](https://web.archive.org/shop/save-the-date-cards.htm "Save The Date Invitations")
-  3. [](https://web.archive.org/shop/bridal-shower-invitations.htm "Bridal Shower Invitation Ideas") [Bridal Shower Invitations](https://web.archive.org/shop/bridal-shower-invitations.htm "Elegant Bridal Shower Invitations")
-  4. [](https://web.archive.org/shop/party-invitations.htm "Engagement, Rehearsal Dinner, Bachelorette Party Invitations") [Other Bridal Party Invitations](https://web.archive.org/shop/party-invitations.htm "Engagement, Rehearsal Dinner, Bachelorette Party Invitations")
-  5. [](https://web.archive.org/shop/thank_you_cards.htm "Wedding Thank You Cards")  
-[Thank You Cards](https://web.archive.org/shop/thank_you_cards.htm "Bridal Thank You Cards")
-  6. [](https://web.archive.org/wedding-supplies-essentials-accessories.htm "Wedding Accessories & Favors") [Wedding Accessories & Favors](https://web.archive.org/wedding-supplies-essentials-accessories.htm "Wedding Accessories & Favors")
+  2. [](https://web.archive.org/shop/save-the-date-cards.htm "Save the Date Cards") [Save the Date Cards](https://web.archive.org/shop/save-the-date-cards.htm "Save the Date Cards")
+  3. [](https://web.archive.org/shop/bridal-shower-invitations.htm "Bridal Shower Invitations") [Bridal Shower Invitations](https://web.archive.org/shop/bridal-shower-invitations.htm "Bridal Shower Invitations")
+  4. [](https://web.archive.org/shop/rehearsal-dinner-invitations.htm "Engagement, Rehearsal Dinner, Bachelorette Party Invitations") [Other Party Invitations](https://web.archive.org/shop/rehearsal-dinner-invitations.htm "Engagement, Rehearsal Dinner, Bachelorette Party Invitations")
+  5. [](https://web.archive.org/shop/thank_you_cards.htm "Wedding Thank You Cards") [Thank You Cards](https://web.archive.org/shop/thank_you_cards.htm "Wedding Thank You Cards")
+  6. [](https://web.archive.org/shop/wedding-programs.htm "Wedding Programs") [Wedding Programs](https://web.archive.org/shop/wedding-programs.htm "Wedding Programs")
 
 
