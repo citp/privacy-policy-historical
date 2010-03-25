@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the constructiondeal.com privacy policy that was archived on 2009-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090704112159id_/http%3A//www.constructiondeal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constructiondeal.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325235414id_/http%3A//www.constructiondeal.com/privacy) for the most accurate reproduction.*
 
 # ConstructionDeal.com - Privacy Policy
 
