@@ -1,252 +1,313 @@
-<!--The following is the downloaded HTML source of the bloosky.com privacy policy that was archived on 2009-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090429110459id_/http%3A//www.bloosky.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bloosky.com privacy policy that was archived on 2010-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100325232619id_/http%3A//www.bloosky.com/privacy_policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Bloosky Interactive, LLC</title>
-<meta name="description" content="default description">
-<meta name="keywords" content="bloosky, bloomail, blooads">
-<link rel="icon" href="favicon.png" type="image/png">
-<link rel="shortcut icon" href="favicon.png" type="image/png">
-<link href="/style/main.css" rel="stylesheet" type="text/css">
-<link href="/style/nav.css" rel="stylesheet" type="text/css">
-<link href="/style/bg.css" rel="stylesheet" type="text/css">
-<link href="/style/app.css" rel="stylesheet" type="text/css">
-<link href="/style/text.css" rel="stylesheet" type="text/css">
-<script src="/scripts/bloo.js" type="text/javascript"></script>
-<script src="/scripts/jquery-1.2.6.min.js" type="text/javascript"></script>
-<script type="text/javascript">
-    <!--
-    if (document.images) {
-		preload_contact = new Image(936,195);
-	
-		// set image url
-		var contact_images = ['contact.jpg','ca.gif','ut.gif','ny.gif'];
-		for(var i = 0; i < contact_images.length; ++i) {
-			preload_contact.src = '/images/'+contact_images[i];
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+	<title>privacy policy</title>
+	<link rel="icon" href="favicon.png" type="image/png">
+	<link rel="stylesheet" type="text/css" href="/theme/default/css/main.css">
+	<link rel="stylesheet" type="text/css" href="/scripts/jscrollpane/css/style.css">
+	<script type="text/javascript" src="/global_scripts/jquery/jquery-1.3.2.min.js"></script>
+	<script type="text/javascript" src="/global_scripts/jquery/jquery-ui-1.7.2.min.js"></script>
+	<script type="text/javascript" src="/scripts/jquery.mousewheel.min.js"></script>
+	<script type="text/javascript" src="/scripts/jscrollpane/jScrollPane-1.2.3.min.js"></script>
+	<script type="text/javascript" src="/global_scripts/jquery/fe_validator.min.js"></script>
+	<script type="text/javascript" src="/scripts/anti-captcha-0.1.js.php"></script>
+	<script type="text/javascript" src="/scripts/jquery.notifier.js"></script>
+	<script type="text/javascript">
+		function showHeadline(headline) {
+			var $headline_pane = $('#headlines');
+			var $headline = $('<li></li>').addClass('headline').html(headline);
+			
+			$headline_pane.append($headline);
+			$headline.css({
+				left: '-' + $headline_pane.width() + 'px',
+				display: 'block'
+			}).animate({ right: '', left: '0px' }, 2500);
 		}
-    }
-    //-->
-</script>
+		
+		$(function() {		
+			$('label.inside + :input').blur(function() {
+				if ($(this).val() == '') {
+					$(this).prev('label').show();
+				} else {
+					$(this).prev('label').hide();
+				}
+			}).focus(function() {
+				$(this).prev('label').fadeOut('fast');		
+			}).blur();
+		});
+	</script>
+	<style type="text/css">
+		.notification {
+			margin: 12px 0 0 34px;
+			padding-bottom: 15px;
+		}
+
+		.notification h2 {
+			background: #f00;
+			color: #fff;
+			padding: 3px;
+			font-size: 17px;
+		}
+	</style>
 </head>
-<body class="bg">
-<table class="main" align="center" cellspacing="0px" cellpadding="0px">
-  <tbody><tr>
-    <td class="content">
-      <table border="0" cellpadding="0" cellspacing="0" class="top">
-        <tbody><tr>
-         <td width="565" class="nav_area"><a href="/"><img src="/images/logo.gif" border="0"></a></td>
-         <td width="371" align="left" valign="bottom" class="nav_area">
-           <table width="75%" border="0" cellpadding="2" cellspacing="0">
-             <tbody><tr>
-               <td valign="bottom" class="td_nav"><a href="/corporate" class="top_nav">corporate</a></td>
-               <td valign="bottom" class="td_nav"><a href="/products" class="top_nav">products</a></td>
-               <td valign="bottom" class="td_nav"><a href="/solutions" class="top_nav">solutions</a></td>
-               <td valign="bottom" class="td_nav"><a href="/client_login" class="top_nav">client login</a></td>
-             </tr>
-           </tbody></table>
-         </td>
-         <td align="right" class="nav_area" nowrap=""></td>
-        </tr>
-      </tbody></table>
-      <div id="text">
-        <!-- header -->
-            <table border="0" cellpadding="0" cellspacing="0" class="header">
-      <tbody><tr>
-        <td id="h_home" class="header_left" height="195" style="background-image:url('/images/background/pro_01_h.jpg');background-repeat:no-repeat; height:195px;">&nbsp;</td>
-        <td class="header_right"><img src="/images/slogan.gif"></td>
-      </tr>
-    </tbody></table>
-        <div class="header_bottom"></div>
-        <!--home body-->
-        <table border="0" cellpadding="0" cellspacing="0" class="normal_body">
-         <tbody><tr>
-           <td class="body_left" id="b_01_product"><span class="h2">&gt; </span><span class="h1">privacy policy</span><p class="text_pg"> Bloosky Interactive, LLC ("Bloosky") strives to maintain high standards for the protection of privacy over the internet.
-             The purpose of our privacy policy is to explain to our visitors the type of information Bloosky obtains from visitors to our website,
-             how we gather it, how we use it, and how visitors can restrict the use or disclosure of personally identifiable information ("PII").
-             Bloosky reserves the right to modify its privacy policy from time to time. Changes to the privacy policy will be posted on this website and
-             the effective date of the policy will be modified to reflect the effective date of the most recent version. If a material change to our PII
-             information practices occurs in the future, we will only use PII collected from the time of the policy change forward for these new purposes 
-             unless we have your consent. 
-<br><br>
-<span class="T1"> The type of information we obtain from visitors to our website</span><br>
-The personal information Bloosky obtains about individual visitors to our websites is information the visitor supplies voluntarily. 
-This means that you can visit our websites without telling us who you are or revealing any information about yourself. 
-We may use web beacons (i.e., cookies) to track use of our sites and to track what sites users came from, but do not collect 
-personally identifiable information via these web beacons. 
-<br><br>
-<span class="T1">The type of information we gather from our customers</span><br>
-Personal information provided to Bloosky by its customers will be used to create login names and passwords for Bloosky products and services.  
-Financial information that is provided to Bloosky is used to verify you or your company's identity, to pay for a product or service, or to bill 
-you or your company for a product or service.
-
-<br><br>
-<span class="T1">How we use the information we gather from our customers</span><br>
-Bloosky may use information from our customers to contact them in response to consumer-initiated inquiries, 
-to provide services requested by the customer, to alert costumers to changes in services or features, 
-and to provide customers with requested information regarding Bloosky or our services. 
-
-Bloosky does not sell, rent, or lease information collected on this site to third party marketers. 
-
-Bloosky may share information collected in the following limited circumstances: 
-(1) upon receipt of a properly authorized and authenticated governmental request for information; 
-(2) in response to a subpoena or a court order; (3) to comply with relevant laws; 
-(4) in response to an investigation of fraud regarding a specific costumer; or 
-(5) in an effort to safeguard the person or property of a Bloosky employee or a third party. 
-Finally, Bloosky may, in the future, decide to sell, merge or otherwise reorganize its business. 
-Bloosky reserves the right to transfer and disclose all information in this circumstance, 
-but data collected by Bloosky will be governed by the same privacy policy that existed prior to any change 
-in business conditions unless you consent to the new privacy policy. 
-
-<br><br>
-
-<span class="T1">Updating your information</span><br>
-Customers may access, correct, and update information they have provided to Bloosky at info@bloosky.com 
-or contacting our customer service department. 
-<br><br>
-<span class="T1">Consumer information managed by Bloosky pursuant to a list management arrangement</span><br>
-Bloosky is in the business of managing email-recipient lists for its customers. 
-Therefore, Bloosky may receive PII from its marketing partners and use it to send relevant marketing content to those recipients. 
-Bloosky's use of PII collected by third party marketing partners is limited to the uses allowed under the third party's privacy 
-policy previously agreed to by the consumer. Bloosky will also share PII collected by third party marketing partners and managed 
-by Bloosky in the following circumstances: (1) upon receipt of a properly authorized and authenticated governmental request for information; 
-(2) in response to a subpoena or a court order, (3) to comply with relevant laws; (4) in response to an investigation of fraud regarding a specific consumer; 
-(4) if Bloosky is sold or acquired; or (5) in an effort to safeguard the person or property of a Bloosky employee or a third party. 
-
-Bloosky may, in the future, decide to sell, merge or otherwise reorganize its business. Bloosky reserves the right to transfer and disclose PII in this circumstance. 
-
-<br><br>
-<span class="T1">Data Processing for European Union Residents</span><br>
-The European Union (EU) maintains strict privacy laws. These rules differ significantly from US laws. 
-To reconcile these differences, the US and the EU have created a Safe Harbor that defines mutually acceptable privacy operations. 
-Bloosky adheres to the Safe Harbor principals. For more information see www.export.gov/safeharbor.
-
-By providing information to Bloosky, you acknowledge it operates in the United States and agree to 
-(i) permit Bloosky to transmit and use your information anywhere necessary, including across international boundaries, 
-to affect the services and transactions provided by this Site; and (ii) that such use by Bloosky shall be subject to the 
-terms and conditions stated in this Privacy Statement and applicable Terms and Conditions.
-
-<br><br>
-<span class="T1">Children's Privacy</span><br>
-Bloosky places the highest value on the privacy of children. Bloosky does not knowingly accept PII from children under the age of 13. 
-Bloosky's web site, and its products and services, are not developed for or directed at children. 
-Persons under the age of 18 are not eligible to do business with us. 
-
-<br><br>
-<span class="T1">Opt-out choice</span><br>
-
-Bloosky manages e-mail lists through its list management arrangements. 
-Consumers may wish to remove themselves from specific marketing lists. 
-As such, users may remove themselves from a specific list by utilizing the list-unsubscribe option that is present and available at the end of each e-mail. 
-Moreover, consumers may elect not to receive advertisements from any Bloosky advertiser at any time. 
-To opt-out of email advertisements from all Bloosky advertisers send your request to info@bloosky.com. We process all unsubscribe requests in a prompt fashion. 
-
-
-
-<br><br>
-<span class="T1">Right to contact via telephone</span><br>
-By providing your contact name and telephone number on our website, 
-you agree that your act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR 310 et seq.). 
-Notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, 
-we reserve the right to contact you via telemarketing in accordance with the Rule. 
-
-<br><br>
-<span class="T1">Security</span><br>
-We endeavor to safeguard and protect our users' information. 
-When users submit information at the website or when our third party marketing partners transfer PII to us, 
-such information is protected both online and offline. The servers in which we store PII are kept in a secure physical environment. 
-Bloosky has security measures in place to protect against the loss, misuse, and alteration of personal information under our control.  
-Please be advised that, although we take reasonable technological precautions to protect your data, 
-no data transmission over the Internet can be guaranteed to be completely secure. 
-Therefore, Bloosky cannot warrant that your information will be absolutely secure. 
-Any transmission of data through our website is at your own risk. However, access to your information is strictly limited, 
-and not accessible to the public. 
-
-<br><br>
-<span class="T1">Access</span><br>
-Consumers wishing to review PII collected by Bloosky on this site should write to Bloosky Interactive, 
-LLC attention Legal Department at the address listed below. Bloosky may take reasonable steps to confirm the 
-identity of the consumer in an effort to prevent identity theft. Consumers wishing to review PII managed by Bloosky but 
-collected on a third party site pursuant to the third party's privacy policy should contact the third party company responsible 
-for the collection of the consumer's PII. 
-
-<br><br>
-<span class="T1">Your California privacy rights</span><br>
-California Civil Code Section 1798.83 permits California residents who have provided PII to Bloosky or its partners in list management 
-arrangements to request certain information regarding Bloosky disclosure of PII to third parties for their direct marketing purposes. 
-Within thirty days of receiving such a request, we will provide a list of the categories of PII disclosed to third parties for third party 
-direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. 
-This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to 
-the address specified in this section. 
-If you have any questions about this Privacy Policy, please contact us at 
-
-<a href="mailto:info@bloosky.com" class="employment" style="color: rgb(0, 0, 0);">info@bloosky.com</a> or in writing at:
-<br>
-Bloosky Interactive, LLC<br>
-PO BOX 75466<br>
-San Clemente, CA 92673-0183<br>
-
-</p></td>
-           <td class="empty_center" id="nullid"></td>
-           <td class="body_right" id="i_products"></td>
-         </tr>
-        </tbody></table>
-      </div>
-      <!-- footer -->
-      <table border="0" cellpadding="0" cellspacing="0" class="footer">
-        <tbody><tr>
-          <td class="footer_txt">888.203.2433 bloosky interactive 2008 ©&nbsp;<a href="/privacy_policy" class="footerlink">privacy policy</a></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
+<body>
+	<div id="main_container">
+		<div id="header_container">
+			<div id="logo">
+				<a href="/"><img src="/images/logo.png" border="0" alt="bloosky interactive > bloosky.com"></a>
+			</div>
+			<div id="topnav" class="nav">
+				<ul>
+	<li>
+		<a href="/online_advertising.html" title="online advertising">
+			<div class="tab " style="background-image:url(/images/nav/online_advertising.png)"></div>
+		</a>
+	</li>
+	<li>
+		<a href="/direct_marketing.html" title="direct marketing">
+			<div class="tab " style="background-image:url(/images/nav/direct_marketing.png)"></div>
+		</a>
+	</li>
+	<li style="margin-left:10px;">
+		<a href="/list_management.html" title="list management">
+			<div class="tab " style="background-image:url(/images/nav/list_management.png)"></div>
+		</a>
+	</li>
+</ul>
 
 <script type="text/javascript">
-    <!--
-    
-    if (document.getElementById("scroller")) {
-    	
-    	var scroller = document.getElementById("scroller");
-		var content = document.getElementById("news");
-		var increment = 85;
-		var content_top = 0;
-		var content_bottom = content.offsetHeight;
-		var scroller_bottom = scroller.offsetHeight;
-		var interval = setInterval("autoScroll()", increment);
-		
-		scroller.onmouseover = function() {
-			clearInterval(interval);
-		}
-		
-		scroller.onmouseout = function() {
-			interval = setInterval("autoScroll()", increment);
-		}
-		
-		function autoScroll() {
-			if (Math.abs(content_top) >= content_bottom) {
-				clearInterval(interval);
-				content_top = scroller_bottom - 20;
-				interval = setInterval("autoScroll()", increment);
-			} else {
-				content_top--;
-			}
-			content.style.top = content_top + "px";
-		}
-    
+	$(function() {	
+		$('#topnav li').mouseenter(function() {
+			$('.tab', $(this)).addClass('hover');
+		}).mouseleave(function() {
+			$('.tab', $(this)).removeClass('hover');
+		});
+	});
+</script>			</div>
+		</div>
+		<div id="content_container">
+			<div class="content">
+				<script type="text/javascript">
+	$(function() {
+		$('#privacy_policy_pane').jScrollPane({
+			showArrows:false, 
+			scrollbarOnLeft: true, 
+			arrowSize: 0
+		});	
+	});
+</script>
+
+<style type="text/css">
+	.content {
+		background: url(/images/bg/privacy_policy_bg.png) left top no-repeat;
 	}
-    
-    //-->
-</script>
-<script type="text/javascript">
-  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-  try {
-    var pageTracker = _gat._getTracker("UA-7012515-5");
-    pageTracker._trackPageview();
-  } catch(err) {}
-</script>
+	
+	#privacy_policy_container {
+		position: absolute;
+		left: 404px;
+		top: 39px;
+		width: 494px;
+	}
+	
+	#privacy_policy_pane {
+		font-size: 10px;
+		line-height: 13px;
+		text-align: left;
+		height:220px;
+	}
+		
+	.T1 {
+		color: #265d7d;
+		font-weight: bold;
+		text-transform:lowercase;
+	}
+	
+	.mailto, .mailto:hover, .mailto:active {
+		color: #265d7d;
+		font-weight: bold;
+	}
+	
+	#start_button {
+		position: absolute;
+		left: 662px;
+		top: 283px;
+		width: 283px;
+		height: 26px;
+	}
+	
+	#start_button a, #start_button img {
+		border: 0;
+	}
+</style>
+
+<div id="privacy_policy_container">
+	<div class="jScrollPaneContainer" style="height: 220px; width: 494px;"><div id="privacy_policy_pane" class="scroll_pane" style="overflow: visible; height: auto; width: 439px; padding-left: 55px; position: absolute; top: 0px;">
+		Bloosky Interactive, LLC ("Bloosky") strives to maintain high standards for the protection of privacy over the internet.
+		The purpose of our privacy policy is to explain to our visitors the type of information Bloosky obtains from visitors to our website,
+		how we gather it, how we use it, and how visitors can restrict the use or disclosure of personally identifiable information ("PII").
+		Bloosky reserves the right to modify its privacy policy from time to time. Changes to the privacy policy will be posted on this website and
+		the effective date of the policy will be modified to reflect the effective date of the most recent version. If a material change to our PII
+		information practices occurs in the future, we will only use PII collected from the time of the policy change forward for these new purposes 
+		unless we have your consent. 
+		<br><br>
+		
+		<span class="T1"> The type of information we obtain from visitors to our website</span><br> 
+		The personal information Bloosky obtains about individual visitors to our websites is information the visitor supplies voluntarily. 
+		This means that you can visit our websites without telling us who you are or revealing any information about yourself. 
+		We may use web beacons (i.e., cookies) to track use of our sites and to track what sites users came from, but do not collect 
+		personally identifiable information via these web beacons. 
+		<br><br>
+		
+		<span class="T1">The type of information we gather from our customers</span><br> 
+		Personal information provided to Bloosky by its customers will be used to create login names and passwords for Bloosky products and services.  
+		Financial information that is provided to Bloosky is used to verify you or your company's identity, to pay for a product or service, or to bill 
+		you or your company for a product or service.
+		<br><br>
+		
+		<span class="T1">How we use the information we gather from our customers</span><br> 
+		Bloosky may use information from our customers to contact them in response to consumer-initiated inquiries, 
+		to provide services requested by the customer, to alert costumers to changes in services or features, 
+		and to provide customers with requested information regarding Bloosky or our services.
+		<br><br> 
+		Bloosky does not sell, rent, or lease information collected on this site to third party marketers. 
+		<br><br>
+		Bloosky may share information collected in the following limited circumstances: 
+		(1) upon receipt of a properly authorized and authenticated governmental request for information;<br>
+		(2) in response to a subpoena or a court order; (3) to comply with relevant laws; <br>
+		(4) in response to an investigation of fraud regarding a specific costumer; or <br>
+		(5) in an effort to safeguard the person or property of a Bloosky employee or a third party. <br>
+		Finally, Bloosky may, in the future, decide to sell, merge or otherwise reorganize its business. 
+		Bloosky reserves the right to transfer and disclose all information in this circumstance, 
+		but data collected by Bloosky will be governed by the same privacy policy that existed prior to any change 
+		in business conditions unless you consent to the new privacy policy. 
+		
+		<br><br> 
+		
+		<span class="T1">Updating your information</span><br> 
+		Customers may access, correct, and update information they have provided to Bloosky at info@bloosky.com 
+		or contacting our customer service department. 
+		<br><br> 
+		<span class="T1">Consumer information managed by Bloosky pursuant to a list management arrangement</span><br> 
+		Bloosky is in the business of managing email-recipient lists for its customers. 
+		Therefore, Bloosky may receive PII from its marketing partners and use it to send relevant marketing content to those recipients. 
+		Bloosky's use of PII collected by third party marketing partners is limited to the uses allowed under the third party's privacy 
+		policy previously agreed to by the consumer. Bloosky will also share PII collected by third party marketing partners and managed 
+		by Bloosky in the following circumstances: (1) upon receipt of a properly authorized and authenticated governmental request for information; 
+		(2) in response to a subpoena or a court order, (3) to comply with relevant laws; (4) in response to an investigation of fraud regarding a specific consumer; 
+		(4) if Bloosky is sold or acquired; or (5) in an effort to safeguard the person or property of a Bloosky employee or a third party. 
+		<br><br>
+		Bloosky may, in the future, decide to sell, merge or otherwise reorganize its business. Bloosky reserves the right to transfer and disclose PII in this circumstance. 
+		
+		<br><br>
+		<span class="T1">Data Processing for European Union Residents</span><br> 
+		The European Union (EU) maintains strict privacy laws. These rules differ significantly from US laws. 
+		To reconcile these differences, the US and the EU have created a Safe Harbor that defines mutually acceptable privacy operations. 
+		Bloosky adheres to the Safe Harbor principals. For more information see www.export.gov/safeharbor.
+		 
+		By providing information to Bloosky, you acknowledge it operates in the United States and agree to 
+		(i) permit Bloosky to transmit and use your information anywhere necessary, including across international boundaries, 
+		to affect the services and transactions provided by this Site; and (ii) that such use by Bloosky shall be subject to the 
+		terms and conditions stated in this Privacy Statement and applicable Terms and Conditions.
+		
+		<br><br>
+		<span class="T1">Children's Privacy</span><br> 
+		Bloosky places the highest value on the privacy of children. Bloosky does not knowingly accept PII from children under the age of 13. 
+		Bloosky's web site, and its products and services, are not developed for or directed at children. 
+		Persons under the age of 18 are not eligible to do business with us. 
+		
+		<br><br> 
+		<span class="T1">Opt-out choice</span><br> 
+		
+		Bloosky manages e-mail lists through its list management arrangements. 
+		Consumers may wish to remove themselves from specific marketing lists. 
+		As such, users may remove themselves from a specific list by utilizing the list-unsubscribe option that is present and available at the end of each e-mail. 
+		Moreover, consumers may elect not to receive advertisements from any Bloosky advertiser at any time. 
+		To opt-out of email advertisements from all Bloosky advertisers send your request to info@bloosky.com. We process all unsubscribe requests in a prompt fashion. 
+		
+		
+		
+		<br><br> 
+		<span class="T1">Right to contact via telephone</span><br> 
+		By providing your contact name and telephone number on our website, 
+		you agree that your act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR 310 et seq.). 
+		Notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, 
+		we reserve the right to contact you via telemarketing in accordance with the Rule. 
+		
+		<br><br> 
+		<span class="T1">Security</span><br> 
+		We endeavor to safeguard and protect our users' information. 
+		When users submit information at the website or when our third party marketing partners transfer PII to us, 
+		such information is protected both online and offline. The servers in which we store PII are kept in a secure physical environment. 
+		Bloosky has security measures in place to protect against the loss, misuse, and alteration of personal information under our control.  
+		Please be advised that, although we take reasonable technological precautions to protect your data, 
+		no data transmission over the Internet can be guaranteed to be completely secure. 
+		Therefore, Bloosky cannot warrant that your information will be absolutely secure. 
+		Any transmission of data through our website is at your own risk. However, access to your information is strictly limited, 
+		and not accessible to the public. 
+		
+		<br><br> 
+		<span class="T1">Access</span><br> 
+		Consumers wishing to review PII collected by Bloosky on this site should write to Bloosky Interactive, 
+		LLC attention Legal Department at the address listed below. Bloosky may take reasonable steps to confirm the 
+		identity of the consumer in an effort to prevent identity theft. Consumers wishing to review PII managed by Bloosky but 
+		collected on a third party site pursuant to the third party's privacy policy should contact the third party company responsible 
+		for the collection of the consumer's PII. 
+		
+		<br><br> 
+		<span class="T1">Your California privacy rights</span><br> 
+		California Civil Code Section 1798.83 permits California residents who have provided PII to Bloosky or its partners in list management 
+		arrangements to request certain information regarding Bloosky disclosure of PII to third parties for their direct marketing purposes. 
+		Within thirty days of receiving such a request, we will provide a list of the categories of PII disclosed to third parties for third party 
+		direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. 
+		This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to 
+		the address specified in this section. 
+		If you have any questions about this Privacy Policy, please contact us at <a class="mailto" href="mailto:info@bloosky.com">info@bloosky.com</a> 
+		or in writing at:
+		<br><br>
+		Bloosky Interactive, LLC<br> 
+		PO BOX 75466<br> 
+		San Clemente, CA 92673-0183<br> 
+	</div><div class="jScrollPaneTrack" style="width: 50px;"><div class="jScrollPaneDrag" style="width: 50px; top: 0px;"><div class="jScrollPaneDragTop" style="width: 50px;"></div><div class="jScrollPaneDragBottom" style="width: 50px;"></div></div></div></div>
+</div>
+<div id="start_button">
+	<a href="/start_with_bloosky.html">
+		<img src="/images/start_button.png" border="0" alt="start with bloosky today >">
+	</a>
+</div>
+<a href="/" id="home_page_link"></a>			</div>
+		</div>
+		<div id="footer_container">
+			<div id="headlines"></div>
+			<div id="footer_text"></div>
+			<div id="lower_nav" class="nav">
+				<ul>
+					<li><a href="/news.html" class="">news</a></li>
+                    <li>|</li>
+					<li><a href="/team.html" class="">team</a></li>
+					<li>|</li>
+					<li><a href="/work_for_bloosky.html" class="">work for bloosky</a></li>
+					<li>|</li>
+					<li><a href="/contact_us.html" class="">contact us</a></li>
+					<li>|</li>
+					<li><a href="/privacy_policy.html" class="selected">privacy policy</a></li>
+					<li>|</li>
+					<li><a href="/client_login.html" class="">client login</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	
+		<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+		<script type="text/javascript">
+		try {
+		var pageTracker = _gat._getTracker("UA-11569475-1");
+		pageTracker._trackPageview();
+		} catch(err) {}
+	</script>
+
 
 </body></html>
