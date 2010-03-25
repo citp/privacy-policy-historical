@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeticketclassifieds.com privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224061524id_/http%3A//www.freeticketclassifieds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeticketclassifieds.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325203545id_/http%3A//www.freeticketclassifieds.com/privacy) for the most accurate reproduction.*
 
-# Free Ticket Classifieds - Post and Browse Classified Ads
+# Free Ticket Classifieds - Post and Browse Event Ticket Classified Ads
 
 Free Ticket Classifieds is committed to safeguarding your online privacy. The following policy outlines how your personal information will be treated as you use our website.
 
