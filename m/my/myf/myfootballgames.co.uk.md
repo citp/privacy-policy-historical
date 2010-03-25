@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfootballgames.co.uk privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203070147id_/http%3A//www.myfootballgames.co.uk/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfootballgames.co.uk privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325143709id_/http%3A//www.myfootballgames.co.uk/page/1.html) for the most accurate reproduction.*
 
 # Privacy Policy : Play Privacy Policy Game Free Online at MyFootballGames.co.uk
 
