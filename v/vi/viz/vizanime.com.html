@@ -1,0 +1,1283 @@
+<!--The following is the downloaded HTML source of the vizanime.com privacy policy that was archived on 2010-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100325222548id_/http%3A//www.vizanime.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <title>Privacy Policy - VIZ ANIME: Free Anime Online. All the Time.</title>
+    <!--[if (!IE)|(gte IE 8)]><!-->
+<link href="/assets/common-datauri.css?1267750551" media="screen" rel="stylesheet" type="text/css">
+<!--<![endif]-->
+<!--[if lte IE 7]>
+<link href="/assets/common.css?1267750551" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+    <script src="/assets/common.js?1267750551" type="text/javascript"></script>
+    
+<!--[if lt IE 7]>
+  <style type="text/css">
+    /* IE6 hack for feedback button fixed position: */
+    a.feedback {
+      left: expression( ( 0 + ( ignoreMe2 = document.documentElement.scrollLeft ? document.documentElement.scrollLeft : document.body.scrollLeft ) ) + 'px' );
+      top: expression( ( 415 + ( ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop ) ) + 'px' );
+    }
+  </style>
+  <script type="text/javascript" src="/javascripts/DD_belatedPNG_0.0.8a-min.js"></script>
+  <script type="text/javascript" src="/javascripts/ie6_hacks.js"></script>
+<![endif]-->
+
+
+  </head>
+  <body>
+    <script type="text/javascript">
+  //<![CDATA[
+    Cufon.replace('.section_divider > h1', { fontFamily: 'Avenir' });
+    Cufon.replace("#footerlinks .header_headers a", { hover: true, fontFamily: 'Myriad Pro' });
+  //]]>
+</script>
+
+<div id="header_container">
+  <div id="header">
+    <a class="img track" href="/" path="header/home"><img class="img" id="header_viz_logo" src="/images/vizlogo-black.png" alt="Viz Anime home"></a><div id="beta">BETA</div>
+
+    <div id="search_box">
+      <form autocomplete="off" action="/search" id="search_form">
+        <input type="text" id="search_input" name="search" value="Search videos">
+        <button type="submit" id="search_submit"></button>
+        <!--input type="submit" value="SEARCH" id="search_submit" /-->
+      </form>
+    </div>
+    <div id="account_links">
+      <div class="popup_modal" id="sign_in_form">
+  <h1 id="login_box_label">Login to your account</h1>
+  <h2>Don't have an account? <a id="login_form_sign_up_now_link track" path="login/signup" href="javascript:hideLoginShowSignup()">Sign Up Now!</a></h2>
+  <div id="sign_in_form_body">
+    <div style="display: none;" id="sign_in_form_body_error"><font color="#bd0026">There was an error with your login/password, or your account is not yet active.</font></div>
+
+    <div class="modal_form_field" style="margin-top: 20px;">
+      <label for="try_login">Login/Email</label>
+      <input style="width:220px;" type="text" name="try_login" value="" id="try_login">
+    </div>
+    <div class="modal_form_field">
+      <label for="try_pass">Password</label>
+      <input style="width:220px;" type="password" name="try_pass" value="" id="try_pass" onkeydown="if (event.keyCode == 13){tryLogin()}">
+    </div>
+
+    <div class="modal_form_button">
+      <a class="track" href="javascript:tryLogin()" path="login"><img src="/images/btn-login.png" alt="Login"></a>
+    </div>
+
+    <div class="login_forgot_password_link">
+      <a class="track" path="login/forgot_pwd" href="javascript:loginForgotPassword()" style="float: left;">Forgot Your Password?</a>
+      <a class="track" path="login/send_welcome" href="javascript:resendWelcomeEmail()" style="float: right;">Re-Send Welcome Email</a>
+    </div>
+  </div>
+  <div id="forgot_password" style="display:none;">
+    <div id="forgot_password_sent" style="display: none;">You have been sent an email with instructions on how to reset your password.</div>
+    <p id="forgot_pass_body"></p>
+    Email Address: <input type="text" id="forgot_pass_email" name="forgot_pass_email" size="20">
+    <div id="forgot_pass_ctl">
+      <button class="red_btn_24 track" path="login/forgot_pwd/reset" id="reset_pass_btn" onclick="javascript:send_forgot_pass()"><span>Reset Password</span></button>
+    </div>
+    <div id="forgot_pass_done">
+      <button id="forgot_pass_cancel" class="red_btn_24 track" path="login/forgot_pwd/cancel" onclick="javascript:cancelLoginForgotPassword()"><span>Cancel</span></button>
+      <button id="forgot_pass_close" class="simplemodal-close red_btn_24 track" path="login/forgot_pwd/close"><span>Close</span></button>
+    </div>
+    <div class="clearBoth"><img src="/images/1px.gif"></div>
+  </div>
+  <div style="display:none;" id="sign_in_form_loading"></div>
+</div>
+
+<div class="popup_modal" id="create_account_form">
+  <h1>Create An Account</h1>
+  <h2>Already have an account? <a class="track" path="signup/login" href="javascript:hideSignupShowLogin()">Sign In Now</a></h2>
+
+  <div style="display:none;" id="create_account_submitting"> <!-- When we are submitting the "create account" form -->
+    <img style="float:left;margin-top:3px;" src="/images/ajax-loader.gif">
+    <div style="float:left;padding:4px 0 0 10px;">Please wait while your account is created...</div>
+    <div class="clearBoth"><img src="/images/1px.gif"></div>
+  </div>
+  <div style="display:none;" id="create_account_success">
+    <p>Your account was successfully created! We are sending you a welcome email that describes how to log in to your account. Before you can log in, you must click a link in the welcome email that will activate your account.</p>
+    <div class="modal_form_button">
+      <img src="/images/btn-close.png" class="simplemodal-close" alt="Close">
+    </div>
+  </div>
+
+  <div id="create_account_details">
+    <!-- <form method="post"> -->
+    <div id="create_msg">
+      <div id="create_msg_error">Note: All fields are required</div>
+      <div style="display:none;" id="create_msg_password_match"><font color="#bd0000">Error:</font> Your passwords do not match.</div>
+      <div style="display:none;" id="create_msg_password_short"><font color="#bd0000">Error:</font> Your password is too short.</div>
+      <div style="display:none;" id="login_bad_chars"><font color="#bd0000">Error:</font> Your login contains invalid characters - only letters and numbers can be used.</div>
+    </div>
+
+    <table class="sign_up_table" cellspacing="6">
+      <tbody><tr><td colspan="2">
+        <div class="modal_form_field">
+          <label for="new_email">Email</label>
+          <input style="width: 400px;" type="text" name="email" value="" id="new_email"><br>
+          <i>Your email address will be verified, but will not be visible to other visitors</i>
+        </div>
+      </td></tr>
+      <tr><td colspan="2">
+        <div class="modal_form_field">
+          <label for="pass">Password</label>
+          <input type="password" name="pass" value="" id="pass" style="width: 400px;">
+        </div>
+      </td></tr>
+      <tr><td colspan="2">
+        <div class="modal_form_field">
+          <label for="pass2">Re-Type Password</label>
+          <input type="password" name="pass2" value="" id="pass2" style="width: 400px;">
+        </div>
+      </td></tr>
+      <tr><td>
+        <div class="modal_form_field">
+          <label for="fname">First Name</label>
+          <input type="text" name="fname" value="" id="fname" style="width: 186px;">
+        </div>
+      </td><td>
+        <div class="modal_form_field">
+          <label for="lname">Last Name</label>
+          <input type="text" name="lname" value="" id="lname" style="width: 186px;">
+        </div>
+      </td></tr>
+      <tr><td style="vertical-align:top;">
+        <div id="profile_label_container">
+          <div id="profile_label">http://www.vizanime.com/profiles/</div>
+        </div>
+      </td><td>
+        <div class="modal_form_field">
+          <label for="login">Login Name (Profile URL)</label>
+          <input type="text" name="login" value="" id="login" style="width: 186px;"><br>
+          <div id="check_login">
+            <a class="track" path="signup/check" href="javascript:checkLogin()">Check</a>
+            <div id="profile_url_avail" style="display:none;float:right;">
+          </div>
+        </div>
+      </div></td></tr>
+    </tbody></table>
+    <table class="sign_up_table" cellspacing="5" style="margin-top:-18px;">
+      <tbody><tr><td colspan="2" class="sign_up_radio" style="padding-left:10px;"><font style="color: #8e8e8e;">Gender:</font>&nbsp;&nbsp;
+        <input type="radio" name="gender" value="male"> Male <input type="radio" name="gender" value="female"> Female
+      </td></tr>
+      <tr><td colspan="2" class="sign_up_radio" style="padding-left:10px;"><font style="color: #8e8e8e;">Date Of Birth:</font>
+        <select id="date_month" name="date[month]">
+<option value="1">Jan</option>
+<option value="2">Feb</option>
+<option selected="selected" value="3">Mar</option>
+<option value="4">Apr</option>
+<option value="5">May</option>
+<option value="6">Jun</option>
+<option value="7">Jul</option>
+<option value="8">Aug</option>
+<option value="9">Sep</option>
+<option value="10">Oct</option>
+<option value="11">Nov</option>
+<option value="12">Dec</option>
+</select>
+
+        <select id="date_day" name="date[day]">
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option selected="selected" value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+</select>
+
+        <select id="date_year" name="date[year]">
+<option value="1920">1920</option>
+<option value="1921">1921</option>
+<option value="1922">1922</option>
+<option value="1923">1923</option>
+<option value="1924">1924</option>
+<option value="1925">1925</option>
+<option value="1926">1926</option>
+<option value="1927">1927</option>
+<option value="1928">1928</option>
+<option value="1929">1929</option>
+<option value="1930">1930</option>
+<option value="1931">1931</option>
+<option value="1932">1932</option>
+<option value="1933">1933</option>
+<option value="1934">1934</option>
+<option value="1935">1935</option>
+<option value="1936">1936</option>
+<option value="1937">1937</option>
+<option value="1938">1938</option>
+<option value="1939">1939</option>
+<option value="1940">1940</option>
+<option value="1941">1941</option>
+<option value="1942">1942</option>
+<option value="1943">1943</option>
+<option value="1944">1944</option>
+<option value="1945">1945</option>
+<option value="1946">1946</option>
+<option value="1947">1947</option>
+<option value="1948">1948</option>
+<option value="1949">1949</option>
+<option value="1950">1950</option>
+<option value="1951">1951</option>
+<option value="1952">1952</option>
+<option value="1953">1953</option>
+<option value="1954">1954</option>
+<option value="1955">1955</option>
+<option value="1956">1956</option>
+<option value="1957">1957</option>
+<option value="1958">1958</option>
+<option value="1959">1959</option>
+<option value="1960">1960</option>
+<option value="1961">1961</option>
+<option value="1962">1962</option>
+<option value="1963">1963</option>
+<option value="1964">1964</option>
+<option value="1965">1965</option>
+<option value="1966">1966</option>
+<option value="1967">1967</option>
+<option value="1968">1968</option>
+<option value="1969">1969</option>
+<option value="1970">1970</option>
+<option value="1971">1971</option>
+<option value="1972">1972</option>
+<option value="1973">1973</option>
+<option value="1974">1974</option>
+<option value="1975">1975</option>
+<option value="1976">1976</option>
+<option value="1977">1977</option>
+<option value="1978">1978</option>
+<option value="1979">1979</option>
+<option value="1980">1980</option>
+<option value="1981">1981</option>
+<option value="1982">1982</option>
+<option value="1983">1983</option>
+<option value="1984">1984</option>
+<option value="1985">1985</option>
+<option value="1986">1986</option>
+<option value="1987">1987</option>
+<option value="1988">1988</option>
+<option value="1989">1989</option>
+<option value="1990">1990</option>
+<option value="1991">1991</option>
+<option value="1992">1992</option>
+<option value="1993">1993</option>
+<option value="1994">1994</option>
+<option value="1995">1995</option>
+<option value="1996">1996</option>
+<option value="1997">1997</option>
+<option value="1998">1998</option>
+<option value="1999">1999</option>
+<option value="2000">2000</option>
+<option value="2001">2001</option>
+<option value="2002">2002</option>
+<option value="2003">2003</option>
+<option value="2004">2004</option>
+<option value="2005">2005</option>
+<option value="2006">2006</option>
+<option value="2007">2007</option>
+<option value="2008">2008</option>
+<option value="2009">2009</option>
+<option selected="selected" value="2010">2010</option>
+<option value="2011">2011</option>
+<option value="2012">2012</option>
+<option value="2013">2013</option>
+<option value="2014">2014</option>
+<option value="2015">2015</option>
+</select>
+
+      </td></tr>
+      <tr>
+        <td colspan="2" class="sign_up_radio">
+          <input type="checkbox" id="terms" name="terms" value="terms">&nbsp;&nbsp;
+          I agree to the <a class="track" path="signup/terms" href="/terms-of-use" target="_blank">Terms of Use</a>
+          and <a class="track" path="signup/privacy" href="/privacy" target="_blank">Privacy Policy</a>.
+        </td>
+      </tr>
+    </tbody></table>
+    <div id="recaptcha_div"></div>
+    <br>
+    <div class="modal_form_button" style="margin-top: 0px;">
+      <a class="track" href="javascript:createAccount()" path="signup/create_account"><img src="/images/btn-create-account.png" alt="Create"></a>
+      <a class="track simplemodal-close" href="#" path="signup/close"><img src="/images/btn-close.png" alt="Close"></a>
+    </div>
+    <!-- </form> -->
+  </div>
+</div>
+
+<script type="text/javascript" src="http://api.recaptcha.net/js/recaptcha_ajax.js"></script>
+
+<script language="javascript">
+  function showSignUpForm() {
+    Recaptcha.create("6LeUgwsAAAAAALYSpmZtIIyuGbr8kpFNTVX7d6sD", 
+      "recaptcha_div", {
+      theme: "blackglass"
+    });
+    $("#create_account_form").modal({
+      minHeight: 640,
+      minWidth: 435,
+      overflow: "auto",
+      onShow: function() {setFieldLabels()},
+      onClose: function() {
+        Recaptcha.destroy(); 
+        $.modal.close();
+      }
+    });
+  }
+</script>
+
+
+    </div>
+    <div id="all_shows_nav"><img src="/images/arrow.jpg">&nbsp;&nbsp;All Shows</div>
+
+    <div id="header_all_shows" style="display: none;">
+      <table id="footerlinks">
+        <tbody><tr>
+        <td class="header_headers"><img src="/images/sj_small.jpg" height="21">&nbsp;&nbsp;<a class="track" path="header/shonen-jump" href="/shonen-jump">SHONEN JUMP</a></td>
+        <td>&nbsp;</td>
+
+    <td class="header_headers"><img src="/images/sb_small.jpg" height="21">&nbsp;&nbsp;<a class="track" path="header/shojo-beat" href="/shojo-beat">SHOJO BEAT</a></td>
+    <td class="header_headers" style="padding-bottom:5px;"><img src="/images/ss_small.jpg" height="21">&nbsp;&nbsp;<a class="track" path="header/shonen-sunday" href="/shonen-sunday">SHONEN SUNDAY</a></td>
+  </tr>
+  <tr>
+    <td>
+      <ol class="allshows_link_list">
+      <li><a class="track " href="/bleach" path="header/bleach">Bleach</a></li>
+
+      <li><a class="track " href="/buso-renkin" path="header/buso-renkin">Buso Renkin</a></li>
+      <li><a class="track " href="/deathnote" path="header/deathnote">Death Note</a></li>
+      <li><a class="track " href="/hikaru-no-go" path="header/hikaru-no-go">Hikaru No Go</a></li>
+      </ol>
+    </td><td>
+      <ol class="allshows_link_list">
+      <li><a class="track " href="/naruto" path="header/naruto">Naruto</a></li>
+      <li><a class="track " href="/naruto-shippuden" path="header/naruto-shippuden">Naruto Shippuden</a></li>
+      <li><a class="track " href="/the-prince-of-tennis" path="header/the-prince-of-tennis">Prince of Tennis</a></li>
+      </ol>
+    </td><td>
+      <ol class="allshows_link_list">
+        <li><a class="track " href="/honey-and-clover" path="header/honey-and-clover">Honey and Clover</a></li>
+        <li><a class="track " href="/honey-and-clover-2" path="header/honey-and-clover-2">Honey and Clover II</a></li>
+        <li><a class="track " href="/nana" path="header/nana">Nana</a></li>
+      </ol>
+    </td><td>
+      <ol class="allshows_link_list">
+
+        <li><a class="track" href="/inuyasha" path="header/inuyasha">Inuyasha</a></li>
+        <li><a class="track" href="/inuyasha-the-final-act" path="header/inuyasha-the-final-act">Inuyasha - The Final Act</a></li>
+        <li><a class="track" href="/kekkaishi" path="header/kekkaishi">Kekkaishi</a></li>
+      </ol>
+    </td>
+  </tr>
+</tbody></table>
+
+    </div>
+
+  </div>
+</div>
+
+<noscript>
+  <div class="no_javascript">
+    Javascript is required to view this site. Please enable Javascript and reload the page.
+  </div>
+</noscript>
+
+<script language="javascript">
+var header_all_shows_mouse_in_label = 0;
+var header_all_shows_mouse_in_popup = 0;
+$(document).ready(function() {  
+  $("#all_shows_nav").mouseenter(function() {
+    header_all_shows_mouse_in_label = 1;
+    setTimeout(function() { 
+      show_or_hide_header_all_shows();
+    }, 200);
+  });
+  $("#all_shows_nav").mouseleave(function() {
+      header_all_shows_mouse_in_label = 0;
+    setTimeout(function() { 
+      show_or_hide_header_all_shows();
+    }, 200);
+  });
+  $("#header_all_shows").mouseenter(function() {
+      header_all_shows_mouse_in_popup = 1;
+    setTimeout(function() { 
+      show_or_hide_header_all_shows();
+    }, 200);
+  });
+  $("#header_all_shows").mouseleave(function() {
+      header_all_shows_mouse_in_popup = 0;
+    setTimeout(function() { 
+      show_or_hide_header_all_shows();
+    }, 200);
+  });
+});
+function show_or_hide_header_all_shows() {
+  if (header_all_shows_mouse_in_label == 1 || header_all_shows_mouse_in_popup == 1) {
+    $("#header_all_shows").fadeIn();
+  } else {
+    $("#header_all_shows").fadeOut();
+  }
+}
+</script>
+
+    <div class="container">
+    <div style="border: 20px solid #ccc;">
+    <div style="border: 1px solid #ab0000; padding-left: 80px; padding-right: 80px; padding-top: 60px; padding-bottom: 60px;">
+      <style>
+    h1 {
+      font-size: 20px;
+      color: #666;
+    }
+    p {
+      line-height: 1.5em;
+    }
+    
+    .sIFR-active h1 {
+      visibility: hidden;
+      font-family: Helvetica, Verdana;
+    }
+</style>
+
+<script type="text/javascript">
+//<![CDATA[
+  Cufon.replace('h1');
+//]]>
+</script>
+
+<h1 style="padding: 10px 0 10px 0;">Privacy Policy</h1>
+<p>Last Updated: September 20, 2006<br></p>
+		<p class="sectionhd"><b>INTRODUCTION &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#california">[Special Note to California Customers]</a></b></p>
+		
+		<p> VIZ Media, LLC (“VIZ Media”) is committed to providing a fun,
+		  safe and secure website for people of all ages. We are dedicated to safeguarding
+		  all personally identifiable information collected online in accordance with
+		  this Policy and to helping our visitors learn how to exercise control over
+		  personally identifiable information while exploring the Internet. Because
+		  many visitors to this site are children, we take care that children access
+		  only the content that is appropriate for them. In addition, we employ special
+		  measures to help children protect their privacy while online. Our practices
+		  with respect to the personally identifiable information of children are explained
+		  in Section VI below.&nbsp;</p>
+
+		
+		<p>To help ensure a rewarding online experience for all visitors, we provide
+		  this summary of the information practices of VIZ Media. This privacy notice
+		  governs the collection and use of information at all web sites owned and
+		  controlled by VIZ Media including, without limitation:</p>
+		
+	     <p>www.vizanime.com<br>
+		www.viz.com<br>
+  		store.viz.com<br>
+  		naruto.viz.com<br>
+  		narutostore.viz.com<br>
+  		inuyasha.viz.com<br>
+
+  		inuyashastore.viz.com<br>
+  		www.zatch-bell.com<br>
+  		zatch-bellstore.viz.com<br>
+ 		bleach.viz.com<br>
+  		bleachstore.viz.com<br>
+  		www.dekobokofriends.com<br>
+
+  		dekobokofriendsstore.viz.com<br>
+		www.animerica.com<br>
+		www.fma-manga.com<br>
+		www.hamtaro.com<br>
+		www.kamikazegirls.net<br>
+  		www.megaman-ntwarrior.com<br>
+
+  		www.mirmo-zibang.com<br>
+		www.saikano-usa.com<br>
+  		www.shojobeat.com<br>
+  		www.shonenjump.com</p>
+		<p> (collectively the “Sites”).&nbsp; As we continue to offer our
+		  visitors new and different types of content and services, we may modify our
+		  practices from time to time. </p><br>
+
+		
+		<p class="sectionhd"><b>I. The Information We Collect</b>
+		</p><p>At Our Sites, we do not collect personally identifiable information unless
+		  our visitors voluntarily provide it to us. For some activities, such as completing
+		  online polls or surveys, we may ask visitors to provide information such
+		  as first and/or last name, city or state of residence, age, gender, or a
+		  favorite title or character.&nbsp; For some other activities, such as entering
+		  sweepstakes or contests, participating in forums, sign-ups, chats or bulletin
+		  boards or subscribing to our magazines, web sites or e-mail newsletters or
+		  requesting us to make products, services or information available to you,
+		  we may ask visitors to provide a first and/or last name and e-mail address.
+		  For other activities, such as sending an electronic postcard, e-mail to a
+		  friend, or refer a friend, we may also ask for personally identifiable information
+		  about other people. This is usually limited to a first name and e-mail address.
+		  E-mail addresses collected to send an electronic postcard or e-mail to a
+		  friend are used only for the purpose of transmitting the requested postcard
+		  or e-mail.&nbsp; For some limited activities, campaigns, or offers, intended
+		  for parents and adults, we may ask a parent or adult to provide their name,
+		  address, e-mail address, telephone number, fax number, credit card information,
+		  cable or satellite provider, and/or information about their interests in
+		  and use of various products, programs, and services.</p>
+		<p>Visitors who order merchandise or other materials from one of our store
+		  websites (e.g., store.viz.com, narutostore.viz.com)
+		  will be directed prior to purchase to the web site of our outside e-commerce
+		  partner, where they will be required to provide their full name, billing
+		  and mailing addresses, e-mail address, telephone number and a credit card
+		  number. If the order is being shipped to a third party, we will also need
+		  the recipient's name and mailing address may be collected by us and/or our
+		  third party e-commerce partner.<strong>&nbsp; </strong>On occasion, we might
+		  solicit additional voluntary information regarding shoppers' personal shopping
+		  preferences.&nbsp; (Please see discussion below about Third party sites).</p>
+
+		<p>For specific one-time requests we receive from visitors, e-mail addresses
+		  are collected and used only in connection with the specific one-time request.&nbsp; For
+		  example, for sweepstakes and contests, e-mail addresses are collected for
+		  the purpose of entering online sweepstakes or contests and are used to notify
+		  winners of the sweepstakes or contest by e-mail. In addition, a contest or
+		  sweepstakes participant or visitor to Our Sites may be asked to provide personally
+		  identifiable information in connection with any subscriptions, sign-ups or
+		  items purchased through Our Sites.&nbsp; Sweepstakes or contest winners may
+		  be required to return completed prize Affidavit of Eligibility,&nbsp; Liability
+		  Release and/or similar forms by facsimile or U.S. mail within a designated
+		  time period (along with the signature of a parent or legal guardian for all
+		  minors).</p>
+		<p>When visitors come to our Sites, we automatically collect some non-personally
+		  identifiable information such as the type of computer operating system (e.g.,
+		  Windows 2000 or Mac OS) and browser (e.g., Netscape, Internet Explorer) being
+		  used, and the domain name of the Internet service provider (e.g., America
+		  Online, Earthlink).</p><br>
+		<p class="sectionhd"><b>II. How We Use the Information</b>
+		</p><p>We generally use visitors' personally identifiable information for the purposes
+		  for which it was provided, such as enabling visitors to enter our online
+		  contests or sweepstakes or to subscribe to an online newsletter or to order
+		  from our e-commerce sites. VIZ Media may also use personally identifiable
+		  information provided by vistors at our sites or by shoppers at or through
+		  related e-commerce sites to send them, by e-mail or direct mail, notification
+		  of special offers, sale events, or birthday reminders. We may disclose personally
+		  identifiable information of parents or adults to selected third-party companies
+		  that want to contact you in connection with other initiatives or marketing
+		  products or services that we believe may be of interest to you. This policy
+		  does not cover the privacy practices of these companies or other third parties.</p><br>
+
+		<p><strong><a name="california"></a>California Customers</strong>:<br>
+		Individual California residents may specifically request information about
+		  our disclosures, if any, of certain categories of personally identifiable
+		  information to third parties for their direct marketing purposes.&nbsp; Such
+		  requests must be submitted to us either by email at the email address or
+		  mailing address set forth above.&nbsp; Within thirty (30) days of receiving
+		  such a request, we will provide a list of the categories of personally identifiable
+		  information disclosed to third parties for their direct marketing purposes
+		  during the immediately preceding calendar year, along with the names and
+		  addresses of these third parties.&nbsp; This request may be made no more
+		  than once per calendar year.&nbsp; We reserve our right not to respond to
+		  requests submitted other than to the email or mailing addresses specified
+		  above.</p>
+		<p>When visitors submit personally-identifiable information about other individuals
+		  through our Site, we use that information [only] for the purpose for which
+		  it was provided, such as sending them electronic postcards or e-mail or shipping
+		  gifts purchased on or through our e-commerce sites.</p>
+
+		<p>Other than such information relating to the Winners, we do not keep any
+		  personally identifiable information we obtain through a contest or sweepstakes
+		  after we have successfully selected a winner(s), awarded the prize(s), and
+		  administered the contest or sweepstakes. We only use the e-mail addresses
+		  of subscribers to e-mail newsletters to send them the requested newsletter(s).
+		  Each newsletter also includes instructions for subscription removal via return
+		  e-mail.</p>
+		<p>Sometimes, we use agents, licensees or contractors to provide services to
+		  our visitors, such as helping us conduct a sweepstakes, sending prizes to
+		  winners, shipping or handling customer orders made on or through our e-commerce
+		  sites. In these cases, we require the agent, licensee or contractor to keep
+		  the information confidential and to use it only for the specific services
+		  they are performing. We sometimes use non-personally identifiable information
+		  that we collect to improve the design and content of Our Sites, and to improve
+		  our visitors' experience on Our Sites. We also may aggregate this information
+		  for marketing analysis, surveys, service evaluation, planning and/or to analyze
+		  site usage, as well as to offer products, programs, or services.&nbsp; Notwithstanding
+		  the foregoing, in cases where surveys allow users to submit written comments,
+		  and where we advise users or the possibility of such disclosure at the time
+		  they take the survey, we reserve the right to disclose text information provided
+		  by any user through such survey, provided that no personally identifiable
+		  information for that user is disclosed.<strong></strong></p>
+		<p>We may also disclose personally identifiable information in response to
+		  legal process, for example, in response to a court order or a subpoena. We
+		  also may disclose such information in response to a law enforcement agency's
+		  request, or where we believe it is necessary to investigate, prevent, or
+		  take action regarding illegal or unauthorized activities, suspected fraud,
+		  situations involving potential threats to the physical safety of any person,
+		  violations of our terms of use, to verify or enforce compliance with the
+		  policies governing Our Sites and applicable laws, or as otherwise required
+		  or permitted by law. In addition, we may transfer personally identifiable
+		  information about you if we or one of our business units acquire, or are
+		  acquired by, sold to, or merged with another company.&nbsp; For example,
+		  we may use your information to complete transactions requested by you (such
+		  as your purchase of a product or service offered on Our Sites), or to enforce
+		  our Terms of Use, to send you administrative communications either about
+		  your purchases, subscriptions and/or account(s) with us or about features
+		  of Our Sites, including, without limitation, any future changes to this Privacy
+		  Policy.</p>
+		<p>We will not use or transfer personally identifiable information about children
+		  under 13 in ways that are materially different from the ones described above
+		  without also providing parental notification of such practices and obtaining
+		  consent for any materially different uses.</p><br>
+		<p class="sectionhd"><b>III. Cookies, Web Beacons and Opt-Outs</b>
+
+		</p><p>Our Sites use a software technology called cookies. Cookies are small text
+		  files that we place in visitors' computer browsers to store their preferences.
+		  Cookies themselves do not contain any personally identifiable information.
+		  Although cookies could enable us to relate a visitor's use of this web site
+		  to personally identifiable information that the visitor has provided, such
+		  as an e-mail address, we do not use cookies for this purpose with one exception:
+		  for some activities, we use session cookies to ensure that visitors under
+		  the age of 13 provide a parental email address to assist with our compliance
+		  with the Children's Online Privacy Protection Act (COPPA). We do use cookies
+		  to determine how many visitors we have and how often they visit various sections
+		  of Our Sites.</p>
+		<p>Web beacons are small pieces of code placed on a web page to track or monitor
+		  the behavior and collect data about the visitors viewing a web page. For
+		  example, web beacons can be used to count the users who visit a web page
+		  or to deliver a cookie to the browser of a visitor viewing that page. We
+		  may use web beacons on this site from time to time for this and other purposes.</p>
+		<p>Users may receive site notifications, newsletters or other information via
+		  email.&nbsp; Users may remove themselves from such services at their discretion.&nbsp; Any
+		  email sent to an opt-out list will include directions for how a user may
+		  remove him or herself from the list or a URL where the user may find such
+		  directions.</p>
+		<p>In some cases, users may have the opportunity to use Our Sites to send electronic
+		  mail to another user or email list.&nbsp; In such cases, a user’s valid
+		  email address and real name will be included with such messages.&nbsp; In
+		  order to prevent abuse, users may opt-out of such a display, but may choose
+		  to refrain from using said Service to transmit an email message.</p>
+
+		<p>In cases where users voluntarily and publicly disclose personally identifiable
+		  information on Our Sites, such personally identifiable information will be
+		  available to other visitors to Our Sites.&nbsp; An example of such a disclosure
+		  includes, but is not limited to, a user’s disclosure of personally
+		  identifiable information as part of a message posted to a public message
+		  forum.&nbsp; We cannot be responsible for personally-identifiable information
+		  that you choose to post or disclose on Our Sites, and encourage you to use
+		  discretion in sharing any information on Our Sites.</p><br>
+		<p class="sectionhd"><b>IV. Collection
+		  of Information by Third-Party Sites, Sponsors and Ad Servers</b>
+		</p><p>Our site contains links to other sites, including those of sponsors, licensees,
+		  partners, vendors and advertisers (collectively Third Party Sites), whose
+		  information practices may be different from ours. Sometimes these sites might
+		  conduct contests or sweepstakes that are promoted by us or on Our Sites. <strong>VISITORS
+		  SHOULD CONSULT THESE THIRD PARTY SITES' PRIVACY NOTICES AND POLICIES, SINCE
+		  THESE SITES ARE NOT COVERED BY OUR PRIVACY POLICY AND MAY FOLLOW DIFFERENT
+		  PROCEDURES.</strong></p>
+		<p>Additionally, we and Third Party Sites may use third parties to serve or
+		  to present the ads that appear on our site and to conduct research about
+		  the advertisements. These third party ad servers may use cookies, web beacons,
+		  clear .gifs or similar technologies to help present such advertisements,
+		  and to help measure and research the effectiveness of advertisements or other
+		  material. The use of these technologies by these third party ad servers is
+		  subject to their own privacy policies and is not covered by our privacy policy. </p><br>
+
+		<p class="sectionhd"><b>V. Security</b>
+		</p><p>We have put in place reasonably appropriate physical, electronic, and managerial
+		  procedures in an effort to safeguard and help prevent unauthorized access,
+		  maintain data security, and correctly use the information we collect online.</p>
+		<p>We are particularly sensitive to visitors' security concerns regarding the
+		  use of credit cards to purchase products over the Internet. For orders placed
+		  on or through our e-commerce sites, a technology is used that automatically
+		  encrypts credit card data while information is being transmitted over the
+		  Internet, provided that the visitor's browser supports the Secure Socket
+		  Layer protocol (SSL).</p>
+		<p>To verify the security of your connection, check the outside corners of
+		  your browser window or the page where personally identifiable information
+		  is provided for e-commerce (such as the check-out or shopping cart pages).
+		  If you see an unbroken or a closed lock, then SSL is active and the server
+		  is secured by SSL. You may also check by looking at the URL line of your
+		  browser. </p><br>
+		<p class="sectionhd"><b>VI. Privacy
+		  Practices Concerning Information About Children</b>
+		</p><p>If a child under thirteen seeks to participate in an activity on Our Sites
+		  that requires the collection, retention, and/or use of personally identifiable
+		  information, the terms of Sections I-V of the Privacy Policy regarding the
+		  categories of personally identifiable information, how personally identifiable
+		  information may be used, the types of third parties may receive data and
+		  the purposes of that sharing, apply to this Section VI, however, we will
+		  ask for a parent's e-mail address prior to collecting such personally identifiable
+		  information from the child.&nbsp; We will use the parent’s e-mail address
+		  to request consent for the child’s participation in that activity.&nbsp; The
+		  parent may consent to the collection and use of the child’s personally
+		  identifiable information without also consenting the disclosure of that personal
+		  information to third parties.&nbsp; We do not ask children to disclose more
+		  personally identifiable information than is necessary for them to participate
+		  in a particular activity, and we take steps to prevent children from posting
+		  contact information on Our Sites.</p>
+
+		<p>The information described in this Section VI is collected by VIZ Media,
+		  LLC, 295 Bay Street, San Francisco, CA 94133; (415) 546-7073 or <a href="mailto:privacypolicy@viz.com">privacypolicy@viz.com.</a></p>
+		<p>As a parent, you have the right to access, modify, or request the deletion
+		  of any of the personally-identifiable information that any of Our Sites has
+		  collected from your child.&nbsp; Please send a letter or postcard to our
+		  VIZ Media Privacy Manager at the mailing address provided below if you would
+		  like to do any of the following: access personally identifiable information
+		  that any of Our Sites has collected online from your child, correct factual
+		  errors in such information, request to have this information deleted, request
+		  that we cease to share your child’s personal information with third
+		  parties, or request that we no longer collect or maintain such information.&nbsp; Please
+		  be sure to include your e-mail address and a telephone number where we can
+		  reach you. To protect your child's privacy and security, we will take reasonable
+		  steps to verify your identity before granting you access to the personally
+		  identifiable information that we collect and maintain about your child.</p>
+		<p>The Internet offers a world of opportunity for children. As a parent, your
+		  guidance and involvement are essential to help ensure that children have
+		  a safe and rewarding online experience. Your efforts to instill responsible
+		  information practices will help steer your children to age-appropriate sites,
+		  and will go a long way toward ensuring that your children have enriching
+		  online experiences.</p><br>
+		<p class="sectionhd"><b>VII. Contact
+		  Us</b>
+
+		</p><p>If you have any questions, comments or concerns regarding our privacy policy
+		  and/or practices, please contact us at the following e-mail address, mailing
+		  address and telephone number:</p>
+		<p>If email: <a href="mailto:privacypolicy@viz.com">privacypolicy@viz.com</a></p>
+		<p>Mailing Address (Postcards only, please):<br>
+		Online Manager (Privacy Issue) VIZ Media<br>
+		295 Bay Street<br>
+		San Francisco, CA 94133<br>
+
+		(415) 546-7073</p><br>
+		<p class="sectionhd"><b>VIII. Updates</b>
+		</p><p>From time to time, we may update this privacy notice, you can always tell
+		  the last date this privacy policy was updated by checking the data at the
+		  top of the privacy policy. We will notify you about material changes in the
+		  way we treat personally identifiable information by posting a revised policy
+		  on our Site. We encourage you to periodically check back and review this
+		  policy so that you always will know what information we collect, how we use
+		  it, and to whom we disclose it.</p>
+		<p>Our sites ©2006 VIZ Media, LLC: All Rights Reserved.</p>
+
+
+    </div>
+    </div></div>
+    <script>
+  //<![CDATA[
+    Cufon.replace(".top", { fontFamily: 'Myriad Pro' });
+    Cufon.replace("#footerlinks .headers a", { hover: true, fontFamily: 'Myriad Pro' });
+  //]]>
+</script>
+<div id="footer_bg">
+  <div id="footer" class="container">
+
+    <table id="footerlinks">
+  <tbody><tr>
+        <td style="padding-left:15px;"><img src="/images/vizlogo-black.png" height="25"></td>
+        <td class="headers"><img src="/images/sj_small.jpg" height="21">&nbsp;&nbsp;<a class="track" path="footer/shonen-jump" href="/shonen-jump">SHONEN JUMP</a></td>
+    <td class="headers"><img src="/images/sb_small.jpg" height="21">&nbsp;&nbsp;<a class="track" path="footer/shojo-beat" href="/shojo-beat">SHOJO BEAT</a></td>
+    <td class="headers" style="padding-bottom:5px;"><img src="/images/ss_small.jpg" height="21">&nbsp;&nbsp;<a class="track" path="footer/shonen-sunday" href="/shonen-sunday">SHONEN SUNDAY</a></td>
+  </tr>
+  <tr>
+        <td style="padding-left:15px;">
+      <ol class="footer_link_list">
+        <li><a class="footlinkLast track" href="/" path="footer/home">Home</a></li>
+        <li><a class="footlinkLast track" href="http://store.viz.com" path="footer/store">Store</a></li>
+        <li><a class="footlink track" href="/news" path="footer/news">News/Blog</a></li>
+        <li><a class="footlink track" href="/about" path="footer/about">About</a></li>
+      </ol>
+    </td>
+        <td>
+      <ol class="footer_link_list">
+      <li><a class="track " href="/bleach" path="footer/bleach">Bleach</a></li>
+      <li><a class="track " href="/buso-renkin" path="footer/buso-renkin">Buso Renkin</a></li>
+      <li><a class="track " href="/deathnote" path="footer/deathnote">Death Note</a></li>
+      <li><a class="track " href="/hikaru-no-go" path="footer/hikaru-no-go">Hikaru No Go</a></li>
+      <li><a class="track " href="/naruto" path="footer/naruto">Naruto</a></li>
+      <li><a class="track " href="/naruto-shippuden" path="footer/naruto-shippuden">Naruto Shippuden</a></li>
+      <li><a class="track " href="/the-prince-of-tennis" path="footer/the-prince-of-tennis">Prince of Tennis</a></li>
+      </ol>
+    </td><td>
+      <ol class="footer_link_list">
+        <li><a class="track " href="/honey-and-clover" path="footer/honey-and-clover">Honey and Clover</a></li>
+        <li><a class="track " href="/honey-and-clover-2" path="header/honey-and-clover-2">Honey and Clover II</a></li>
+        <li><a class="track " href="/nana" path="footer/nana">Nana</a></li>
+      </ol>
+    </td><td>
+      <ol class="footer_link_list">
+        <li><a class="track" href="/inuyasha" path="footer/inuyasha">Inuyasha</a></li>
+        <li><a class="track" href="/inuyasha-the-final-act" path="footer/inuyasha-the-final-act">Inuyasha - The Final Act</a></li>
+        <li><a class="track" href="/kekkaishi" path="footer/kekkaishi">Kekkaishi</a></li>
+      </ol>
+    </td>
+  </tr>
+</tbody></table>
+
+
+    <div class="clearBoth"></div>
+    <div id="footer_bottom_links">
+      <div id="footer_bottom_links_site">
+        <a class="track" href="/copyright" path="footer/copyright">Copyrights</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a class="track" href="/terms-of-use" path="footer/terms-of-use">Terms Of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a class="track" href="/privacy" path="footer/privacy">Privacy Policy</a> 
+      </div>
+  
+      <span id="footer_copyright">© 2009 VIZ Media, LLC</span>
+      <a class="follow track" href="http://www.facebook.com/pages/VizMedia/281874918551" path="footer/facebook"><img src="/images/icon-fb.png"></a>
+      <a class="follow track" href="http://twitter.com/viz_media" path="footer/twitter"><img src="/images/icon-twitter.png"></a>
+      <div id="footer_follow">Follow us here as well: </div>
+      <div id="footer_account"></div>
+    </div>
+
+    <div id="msgbox">
+      <div id="msgbox_title"></div>
+      <div id="msgbox_msg"></div>
+      <div id="msgbox_alert" class="msgbox_ctl">
+        <button class="simplemodal-close red_btn_24" style="float:right;"><span>Close</span></button>
+      </div>
+      <div id="msgbox_confirm" class="msgbox_ctl">
+        <button id="msgbox_OK" class="simplemodal-close red_btn_24"><span>OK</span></button>
+        <button class="simplemodal-close red_btn_24" style="float:right;"><span>Cancel</span></button>
+      </div>
+      <div class="clearBoth"><img src="/images/1px.gif"></div>    
+    </div>
+
+    <div class="clearBoth"></div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  Cufon.now();
+  // For some reason FF2 adds a large bottom border to the callout H1 elements,
+  // which we need to remove.  (Doesn't appear to affect other browsers...)
+  $(".callout>h1>cufon, .gray_outer>h1>cufon, .range_title>cufon").css("padding-bottom","0");
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12033468-1");
+pageTracker._setDomainName("auto")
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<script type="text/javascript">
+// Attach Google Analytics tracking to elements of class "track"
+function handleInternalLink(trackPath) {
+  // Mostly called from footer directly (see below), but sometimes necessary to call separately
+  // (e.g. when generating links on-demand, such as in the autocomplete drop-down).
+  var link = 'static/' + trackPath.replace(/^\//,'');
+  //console.log("Clicked internal link: " + link);
+  trackInternalLink(link);
+}
+$(document).ready(function() {
+  $('.track').live("click", function() {
+    var trackPath = $(this).attr('path');
+    if (!trackPath) trackPath = $(this).attr('id');
+    if (!trackPath) trackPath = $(this).attr('name');
+    if (!trackPath) trackPath = 'unspecified';
+    handleInternalLink(trackPath);
+  });
+});
+</script>
+
+    <a class="feedback" href="#" title="Feedback"></a>
+
+<div class="popup_modal" id="feedback_form">
+<div id="feedback_form_comments">
+<!-- <form action="/mailer/feedback_send?method=post" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="zH6ox0Uj8Iz7sMxTKt3AL3NPEgQVo+uRrwLrE7vSJa0=" /></div> -->
+  <h1>Feedback</h1>
+  <p style="padding:5px 0 5px 5px">Please submit a suggestion or a comment - we would love to hear from you!</p>
+  
+    <div class="modal_form_field" style="margin-top: 20px;">
+      <label for="email">Your Email</label>
+      <input type="text" name="email" value="" id="email"><br>
+      <i>Optional</i>
+    </div>
+    <div class="modal_form_field" style="margin-top: 20px;">
+      <label for="comments">Comments</label>
+      <textarea rows="5" cols="50" name="comments" id="comments"></textarea>
+    </div>
+
+    <div class="modal_form_button">
+      <img src="/images/btn-send.png" id="send_feedback" alt="Send Feedback" style="cursor: pointer;">
+      <img src="/images/btn-cancel.png" class="simplemodal-close" alt="Cancel" style="cursor: pointer;">
+    </div>
+  
+<!-- </form> -->
+</div>
+
+<div id="feedback_sending">
+  <img src="/images/ajax-loader.gif"> Your comments are being sent...
+</div>
+
+<div id="feedback_form_result">
+  <h1>Thank you!</h1>
+  <h2>Your comments have been received.</h2>
+  <div class="modal_form_button">
+    <img src="/images/btn-close.png" alt="Close" class="simplemodal-close">
+  </div>
+</div>
+</div>
+
+<script language="javascript">
+  $(".feedback").click(function() {
+    $("#feedback_form").modal({
+      minHeight : 225,
+      onShow: function() {
+        setFieldLabels();
+      },
+      onClose: function(){
+        $("#feedback_form_comments").show(); 
+        $("#feedback_form_result").hide();
+        $.modal.close();
+      }
+    });
+  });
+
+  $("#send_feedback").click(function() {
+    if ($("#comments").val().length > 0) {
+      //Show loading animation...
+      $("#feedback_sending").show();
+      $("#feedback_form_comments").hide();
+
+      $.post("/mailer/feedback_send", { email: $("#email").val(), comments: $("#comments").val() },
+      function(data, textStatus) {
+        $("#feedback_form_comments").hide(); 
+        $("#feedback_sending").hide(); 
+        $("#feedback_form_result").show();
+        return false;
+      }, "json")  
+    } else {
+      alert("Please enter a message to send");
+      return false;
+    }
+  });
+</script>
+	
+
+    <div class="popup_modal" id="sign_in_form">
+  <h1 id="login_box_label">Login to your account</h1>
+  <h2>Don't have an account? <a id="login_form_sign_up_now_link track" path="login/signup" href="javascript:hideLoginShowSignup()">Sign Up Now!</a></h2>
+  <div id="sign_in_form_body">
+    <div style="display: none;" id="sign_in_form_body_error"><font color="#bd0026">There was an error with your login/password, or your account is not yet active.</font></div>
+
+    <div class="modal_form_field" style="margin-top: 20px;">
+      <label for="try_login">Login/Email</label>
+      <input style="width:220px;" type="text" name="try_login" value="" id="try_login">
+    </div>
+    <div class="modal_form_field">
+      <label for="try_pass">Password</label>
+      <input style="width:220px;" type="password" name="try_pass" value="" id="try_pass" onkeydown="if (event.keyCode == 13){tryLogin()}">
+    </div>
+
+    <div class="modal_form_button">
+      <a class="track" href="javascript:tryLogin()" path="login"><img src="/images/btn-login.png" alt="Login"></a>
+    </div>
+
+    <div class="login_forgot_password_link">
+      <a class="track" path="login/forgot_pwd" href="javascript:loginForgotPassword()" style="float: left;">Forgot Your Password?</a>
+      <a class="track" path="login/send_welcome" href="javascript:resendWelcomeEmail()" style="float: right;">Re-Send Welcome Email</a>
+    </div>
+  </div>
+  <div id="forgot_password" style="display:none;">
+    <div id="forgot_password_sent" style="display: none;">You have been sent an email with instructions on how to reset your password.</div>
+    <p id="forgot_pass_body"></p>
+    Email Address: <input type="text" id="forgot_pass_email" name="forgot_pass_email" size="20">
+    <div id="forgot_pass_ctl">
+      <button class="red_btn_24 track" path="login/forgot_pwd/reset" id="reset_pass_btn" onclick="javascript:send_forgot_pass()"><span>Reset Password</span></button>
+    </div>
+    <div id="forgot_pass_done">
+      <button id="forgot_pass_cancel" class="red_btn_24 track" path="login/forgot_pwd/cancel" onclick="javascript:cancelLoginForgotPassword()"><span>Cancel</span></button>
+      <button id="forgot_pass_close" class="simplemodal-close red_btn_24 track" path="login/forgot_pwd/close"><span>Close</span></button>
+    </div>
+    <div class="clearBoth"><img src="/images/1px.gif"></div>
+  </div>
+  <div style="display:none;" id="sign_in_form_loading"></div>
+</div>
+
+<div class="popup_modal" id="create_account_form">
+  <h1>Create An Account</h1>
+  <h2>Already have an account? <a class="track" path="signup/login" href="javascript:hideSignupShowLogin()">Sign In Now</a></h2>
+
+  <div style="display:none;" id="create_account_submitting"> <!-- When we are submitting the "create account" form -->
+    <img style="float:left;margin-top:3px;" src="/images/ajax-loader.gif">
+    <div style="float:left;padding:4px 0 0 10px;">Please wait while your account is created...</div>
+    <div class="clearBoth"><img src="/images/1px.gif"></div>
+  </div>
+  <div style="display:none;" id="create_account_success">
+    <p>Your account was successfully created! We are sending you a welcome email that describes how to log in to your account. Before you can log in, you must click a link in the welcome email that will activate your account.</p>
+    <div class="modal_form_button">
+      <img src="/images/btn-close.png" class="simplemodal-close" alt="Close">
+    </div>
+  </div>
+
+  <div id="create_account_details">
+    <!-- <form method="post"> -->
+    <div id="create_msg">
+      <div id="create_msg_error">Note: All fields are required</div>
+      <div style="display:none;" id="create_msg_password_match"><font color="#bd0000">Error:</font> Your passwords do not match.</div>
+      <div style="display:none;" id="create_msg_password_short"><font color="#bd0000">Error:</font> Your password is too short.</div>
+      <div style="display:none;" id="login_bad_chars"><font color="#bd0000">Error:</font> Your login contains invalid characters - only letters and numbers can be used.</div>
+    </div>
+
+    <table class="sign_up_table" cellspacing="6">
+      <tbody><tr><td colspan="2">
+        <div class="modal_form_field">
+          <label for="new_email">Email</label>
+          <input style="width: 400px;" type="text" name="email" value="" id="new_email"><br>
+          <i>Your email address will be verified, but will not be visible to other visitors</i>
+        </div>
+      </td></tr>
+      <tr><td colspan="2">
+        <div class="modal_form_field">
+          <label for="pass">Password</label>
+          <input type="password" name="pass" value="" id="pass" style="width: 400px;">
+        </div>
+      </td></tr>
+      <tr><td colspan="2">
+        <div class="modal_form_field">
+          <label for="pass2">Re-Type Password</label>
+          <input type="password" name="pass2" value="" id="pass2" style="width: 400px;">
+        </div>
+      </td></tr>
+      <tr><td>
+        <div class="modal_form_field">
+          <label for="fname">First Name</label>
+          <input type="text" name="fname" value="" id="fname" style="width: 186px;">
+        </div>
+      </td><td>
+        <div class="modal_form_field">
+          <label for="lname">Last Name</label>
+          <input type="text" name="lname" value="" id="lname" style="width: 186px;">
+        </div>
+      </td></tr>
+      <tr><td style="vertical-align:top;">
+        <div id="profile_label_container">
+          <div id="profile_label">http://www.vizanime.com/profiles/</div>
+        </div>
+      </td><td>
+        <div class="modal_form_field">
+          <label for="login">Login Name (Profile URL)</label>
+          <input type="text" name="login" value="" id="login" style="width: 186px;"><br>
+          <div id="check_login">
+            <a class="track" path="signup/check" href="javascript:checkLogin()">Check</a>
+            <div id="profile_url_avail" style="display:none;float:right;">
+          </div>
+        </div>
+      </div></td></tr>
+    </tbody></table>
+    <table class="sign_up_table" cellspacing="5" style="margin-top:-18px;">
+      <tbody><tr><td colspan="2" class="sign_up_radio" style="padding-left:10px;"><font style="color: #8e8e8e;">Gender:</font>&nbsp;&nbsp;
+        <input type="radio" name="gender" value="male"> Male <input type="radio" name="gender" value="female"> Female
+      </td></tr>
+      <tr><td colspan="2" class="sign_up_radio" style="padding-left:10px;"><font style="color: #8e8e8e;">Date Of Birth:</font>
+        <select id="date_month" name="date[month]">
+<option value="1">Jan</option>
+<option value="2">Feb</option>
+<option selected="selected" value="3">Mar</option>
+<option value="4">Apr</option>
+<option value="5">May</option>
+<option value="6">Jun</option>
+<option value="7">Jul</option>
+<option value="8">Aug</option>
+<option value="9">Sep</option>
+<option value="10">Oct</option>
+<option value="11">Nov</option>
+<option value="12">Dec</option>
+</select>
+
+        <select id="date_day" name="date[day]">
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option selected="selected" value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+</select>
+
+        <select id="date_year" name="date[year]">
+<option value="1920">1920</option>
+<option value="1921">1921</option>
+<option value="1922">1922</option>
+<option value="1923">1923</option>
+<option value="1924">1924</option>
+<option value="1925">1925</option>
+<option value="1926">1926</option>
+<option value="1927">1927</option>
+<option value="1928">1928</option>
+<option value="1929">1929</option>
+<option value="1930">1930</option>
+<option value="1931">1931</option>
+<option value="1932">1932</option>
+<option value="1933">1933</option>
+<option value="1934">1934</option>
+<option value="1935">1935</option>
+<option value="1936">1936</option>
+<option value="1937">1937</option>
+<option value="1938">1938</option>
+<option value="1939">1939</option>
+<option value="1940">1940</option>
+<option value="1941">1941</option>
+<option value="1942">1942</option>
+<option value="1943">1943</option>
+<option value="1944">1944</option>
+<option value="1945">1945</option>
+<option value="1946">1946</option>
+<option value="1947">1947</option>
+<option value="1948">1948</option>
+<option value="1949">1949</option>
+<option value="1950">1950</option>
+<option value="1951">1951</option>
+<option value="1952">1952</option>
+<option value="1953">1953</option>
+<option value="1954">1954</option>
+<option value="1955">1955</option>
+<option value="1956">1956</option>
+<option value="1957">1957</option>
+<option value="1958">1958</option>
+<option value="1959">1959</option>
+<option value="1960">1960</option>
+<option value="1961">1961</option>
+<option value="1962">1962</option>
+<option value="1963">1963</option>
+<option value="1964">1964</option>
+<option value="1965">1965</option>
+<option value="1966">1966</option>
+<option value="1967">1967</option>
+<option value="1968">1968</option>
+<option value="1969">1969</option>
+<option value="1970">1970</option>
+<option value="1971">1971</option>
+<option value="1972">1972</option>
+<option value="1973">1973</option>
+<option value="1974">1974</option>
+<option value="1975">1975</option>
+<option value="1976">1976</option>
+<option value="1977">1977</option>
+<option value="1978">1978</option>
+<option value="1979">1979</option>
+<option value="1980">1980</option>
+<option value="1981">1981</option>
+<option value="1982">1982</option>
+<option value="1983">1983</option>
+<option value="1984">1984</option>
+<option value="1985">1985</option>
+<option value="1986">1986</option>
+<option value="1987">1987</option>
+<option value="1988">1988</option>
+<option value="1989">1989</option>
+<option value="1990">1990</option>
+<option value="1991">1991</option>
+<option value="1992">1992</option>
+<option value="1993">1993</option>
+<option value="1994">1994</option>
+<option value="1995">1995</option>
+<option value="1996">1996</option>
+<option value="1997">1997</option>
+<option value="1998">1998</option>
+<option value="1999">1999</option>
+<option value="2000">2000</option>
+<option value="2001">2001</option>
+<option value="2002">2002</option>
+<option value="2003">2003</option>
+<option value="2004">2004</option>
+<option value="2005">2005</option>
+<option value="2006">2006</option>
+<option value="2007">2007</option>
+<option value="2008">2008</option>
+<option value="2009">2009</option>
+<option selected="selected" value="2010">2010</option>
+<option value="2011">2011</option>
+<option value="2012">2012</option>
+<option value="2013">2013</option>
+<option value="2014">2014</option>
+<option value="2015">2015</option>
+</select>
+
+      </td></tr>
+      <tr>
+        <td colspan="2" class="sign_up_radio">
+          <input type="checkbox" id="terms" name="terms" value="terms">&nbsp;&nbsp;
+          I agree to the <a class="track" path="signup/terms" href="/terms-of-use" target="_blank">Terms of Use</a>
+          and <a class="track" path="signup/privacy" href="/privacy" target="_blank">Privacy Policy</a>.
+        </td>
+      </tr>
+    </tbody></table>
+    <div id="recaptcha_div"></div>
+    <br>
+    <div class="modal_form_button" style="margin-top: 0px;">
+      <a class="track" href="javascript:createAccount()" path="signup/create_account"><img src="/images/btn-create-account.png" alt="Create"></a>
+      <a class="track simplemodal-close" href="#" path="signup/close"><img src="/images/btn-close.png" alt="Close"></a>
+    </div>
+    <!-- </form> -->
+  </div>
+</div>
+
+<script type="text/javascript" src="http://api.recaptcha.net/js/recaptcha_ajax.js"></script>
+
+<script language="javascript">
+  function showSignUpForm() {
+    Recaptcha.create("6LeUgwsAAAAAALYSpmZtIIyuGbr8kpFNTVX7d6sD", 
+      "recaptcha_div", {
+      theme: "blackglass"
+    });
+    $("#create_account_form").modal({
+      minHeight: 640,
+      minWidth: 435,
+      overflow: "auto",
+      onShow: function() {setFieldLabels()},
+      onClose: function() {
+        Recaptcha.destroy(); 
+        $.modal.close();
+      }
+    });
+  }
+</script>
+
+
+    
+  
+
+</body></html>
