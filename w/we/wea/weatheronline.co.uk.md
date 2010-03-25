@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weatheronline.co.uk privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225171711id_/http%3A//www.weatheronline.co.uk/about/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatheronline.co.uk privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325235530id_/http%3A//www.weatheronline.co.uk/about/Privacy.htm) for the most accurate reproduction.*
 
 # WeatherOnline Ltd. : Privacy Weather UK weatheronline.co.uk
 
@@ -65,10 +65,6 @@ Our Web site may contain links to third party Web sites geared to children. The 
 **Making Changes/Opt-Out**
 
 To make changes to your preferences, update your personally identifiable information, unsubscribe to any e-mail subscriptions or to opt-out of any services, please contact us directly. 
-
-**Special Relationships**
-
-WeatherOnline Ltd is a associated with WetterOnline, Meteorology Services GmbH, registered in Bonn, Germany. Information collected, as outlined above, may be shared between WeatherOnline Ltd and WetterOnline GmbH, but is not shared or sold to other companies and organisations, other than as outlined above. 
 
 **Additional Information**
 
