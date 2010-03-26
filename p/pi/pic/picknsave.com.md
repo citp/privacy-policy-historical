@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the picknsave.com privacy policy that was archived on 2008-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081028045033id_/http%3A//www.picknsave.com/Privacy/Privacy_S.las%3F-token.S%3DD1ET9RAAB251908P7d008034YghN6L5ICF14EE%7C17137%7C0810260328%7C%7C%7C) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picknsave.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326215648id_/http%3A//www.picknsave.com/Privacy/Privacy_S.las%3F-token.S%3DAE8T9R1E44307e8P7fe2A19FWPPN6L53DE6D74%7C22867%7C1003251724%7C%7C%7C) for the most accurate reproduction.*
 
 # Pick 'n Save - Privacy
 
-| [ Privacy Statement](https://web.archive.org/web/20081028045033id_/http%3A//www.picknsave.com/Privacy/Privacy_S.las?-token.S=D1ET9RAAB251918P734395C0hYwN6L52652E02|17137|0810280050|||) | [ Security Information](https://web.archive.org/web/20081028045033id_/http%3A//www.picknsave.com/Privacy/Privacy_SecureServer_S.las?-token.S=D1ET9RAAB251918P734395C0hYwN6L52652E02|17137|0810280050|||) | 
+| [ Privacy Statement](https://web.archive.org/web/20100326215648id_/http%3A//www.picknsave.com/Privacy/Privacy_S.las?-token.S=AE8T9R1E44307e8P7fe2A19FWPPN6L53DE6D74|22867|1003261756|||) | [ Security Information](https://web.archive.org/web/20100326215648id_/http%3A//www.picknsave.com/Privacy/Privacy_SecureServer_S.las?-token.S=AE8T9R1E44307e8P7fe2A19FWPPN6L53DE6D74|22867|1003261756|||) | 
 
-Roundy's Supermarkets, Inc. (“Roundy's”) understands your concern for on-line privacy and has adopted the following On-Line Privacy Statement. This Statement explains the online data collection and disclosure policies and practices of Roundy's websites including: [picknsave.com](http://www.picknsave.com/home/home_s.las?-token.s=D1ET9RAAB251918P734395C0hYwN6L52652E02|17137|0810280050|||), [copps.com](http://test.copps.com/home/home_s.las?-token.s=D1ET9RAAB251918P734395C0hYwN6L52652E02|17137|0810280050|||), [rainbowfoods.com](http://test.rainbowfoods.com/home/home_s.las?-token.s=D1ET9RAAB251918P734395C0hYwN6L52652E02|17137|0810280050|||), [metromarket.com](http://www.metromarket.com/home/home_s.las?-token.s=D1ET9RAAB251918P734395C0hYwN6L52652E02|17137|0810280050|||), and [roundys.com ](http://test.roundys.com/home/home_s.las?-token.s=D1ET9RAAB251918P734395C0hYwN6L52652E02|17137|0810280050|||) (collectively, the “Roundy's Sites”). Your use of the Roundy's Sites indicates your acceptance of this Statement. If you do not consent to this Statement, please immediately cease using any of the Roundy's Sites. 
+Roundy's Supermarkets, Inc. (“Roundy's”) understands your concern for on-line privacy and has adopted the following On-Line Privacy Statement. This Statement explains the online data collection and disclosure policies and practices of Roundy's websites including: [picknsave.com](http://www.picknsave.com/home/home_s.las?-token.s=AE8T9R1E44307e8P7fe2A19FWPPN6L53DE6D74|22867|1003261756|||), [copps.com](http://test.copps.com/home/home_s.las?-token.s=AE8T9R1E44307e8P7fe2A19FWPPN6L53DE6D74|22867|1003261756|||), [rainbowfoods.com](http://test.rainbowfoods.com/home/home_s.las?-token.s=AE8T9R1E44307e8P7fe2A19FWPPN6L53DE6D74|22867|1003261756|||), [metromarket.com](http://www.metromarket.com/home/home_s.las?-token.s=AE8T9R1E44307e8P7fe2A19FWPPN6L53DE6D74|22867|1003261756|||), and [roundys.com ](http://test.roundys.com/home/home_s.las?-token.s=AE8T9R1E44307e8P7fe2A19FWPPN6L53DE6D74|22867|1003261756|||) (collectively, the “Roundy's Sites”). Your use of the Roundy's Sites indicates your acceptance of this Statement. If you do not consent to this Statement, please immediately cease using any of the Roundy's Sites. 
 
 This Statement, along with the Roundy's Sites and their contents are subject to change. Your continued use of the Roundy's Sites indicates your acceptance of this Statement following any changes. Roundy's makes no representations or warranties of any kind relating to the contents of the Roundy's Sites and Roundy's disclaims any such representations or warranties, including but not limited to warranties of merchantability and fitness for a particular purpose. Additionally, Roundy's does not represent or warrant that any of the information contained in the Roundy's Sites is accurate, complete or current, including price or availability of products listed. 
 
@@ -24,7 +24,7 @@ In addition, Roundy's Sites collect personal information when you apply for a jo
 
 ## Email
 
-When an email address is given by a visitor indicating inclusion in a Roundy's subscription list, we will send notices to the visitor in the form of an email. You may opt-out of this subscription at any time by [updating your profile.](http://www.picknsave.com/card_mod/card_stub.las?-token.s=D1ET9RAAB251918P734395C0hYwN6L52652E02|17137|0810280050|||)
+When an email address is given by a visitor indicating inclusion in a Roundy's subscription list, we will send notices to the visitor in the form of an email. You may opt-out of this subscription at any time by [updating your profile.](http://www.picknsave.com/card_mod/card_stub.las?-token.s=AE8T9R1E44307e8P7fe2A19FWPPN6L53DE6D74|22867|1003261756|||)
 
 ## Third Party Websites
 
@@ -32,7 +32,7 @@ The Roundy's Sites may contain links to other web sites over which we have no co
 
 ## How to Change or Delete Your Information
 
-If you have submitted personally identifiable information through a Roundy's Site and would like to change or delete that information, please [updating your profile.](http://www.picknsave.com/card_mod/card_stub.las?-token.s=D1ET9RAAB251918P734395C0hYwN6L52652E02|17137|0810280050|||)
+If you have submitted personally identifiable information through a Roundy's Site and would like to change or delete that information, please [updating your profile.](http://www.picknsave.com/card_mod/card_stub.las?-token.s=AE8T9R1E44307e8P7fe2A19FWPPN6L53DE6D74|22867|1003261756|||)
 
 ## Security Measures
 
@@ -44,8 +44,8 @@ Roundy's has instituted various procedures to prevent unauthorized access, maint
 
 ## How to Contact Us
 
-Should you have other questions or concerns about this Statement or our data collection practices, please call Roundy's Customer Service at 866-742-6728 or [Contact Us](http://www.picknsave.com/ContactUs/ContactUs_S.las?-token.s=D1ET9RAAB251918P734395C0hYwN6L52652E02|17137|0810280050|||)
+Should you have other questions or concerns about this Statement or our data collection practices, please call Roundy's Customer Service at 866-742-6728 or [Contact Us](http://www.picknsave.com/ContactUs/ContactUs_S.las?-token.s=AE8T9R1E44307e8P7fe2A19FWPPN6L53DE6D74|22867|1003261756|||)
 
 © 2006 Pick 'n Save. All Rights Reserved.
 
-| [ Privacy Statement](https://web.archive.org/web/20081028045033id_/http%3A//www.picknsave.com/Privacy/Privacy_S.las?-token.S=D1ET9RAAB251918P734395C0hYwN6L52652E02|17137|0810280050|||) | [ Security Information](https://web.archive.org/web/20081028045033id_/http%3A//www.picknsave.com/Privacy/Privacy_SecureServer_S.las?-token.S=D1ET9RAAB251918P734395C0hYwN6L52652E02|17137|0810280050|||) | 
+| [ Privacy Statement](https://web.archive.org/web/20100326215648id_/http%3A//www.picknsave.com/Privacy/Privacy_S.las?-token.S=AE8T9R1E44307e8P7fe2A19FWPPN6L53DE6D74|22867|1003261756|||) | [ Security Information](https://web.archive.org/web/20100326215648id_/http%3A//www.picknsave.com/Privacy/Privacy_SecureServer_S.las?-token.S=AE8T9R1E44307e8P7fe2A19FWPPN6L53DE6D74|22867|1003261756|||) | 
