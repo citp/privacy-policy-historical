@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the activetrail.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627163155id_/http%3A//www.activetrail.com/About_Us/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activetrail.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327005810id_/http%3A//www.activetrail.com/About_Us/Privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy policy | about Activetrail email marketing
+# Privacy policy | Activetrail email marketing solutions
 
-## ActiveTrail is committed to personal privacy and the ethical use of email business and marketing communications.
+## ActiveTrail email marketing solutions is committed to personal privacy and the ethical use of email business and marketing communications.
 
 This statement discloses the privacy practices of ActiveTrail™ under the auspices of The CommerceAge Group.
 
@@ -30,4 +30,4 @@ The name "ActiveTrail" is a registered trademark owned by ActiveTrail™ and The
 
 ## General
 
-We may change our privacy policy in the future. Any changes to our privacy policy will be made available online. If you have any questions about our privacy policy, the practices of this website, or your dealings with our company, please [click here](https://web.archive.org/web/20090627163155id_/http%3A//www.activetrail.com/contact_us/contact.html?to=Info) to email us. Please see our [Spam Policy](https://web.archive.org/web/20090627163155id_/http%3A//www.activetrail.com/about_us/anti_spam.html). 
+We may change our privacy policy in the future. Any changes to our privacy policy will be made available online. If you have any questions about our privacy policy, the practices of this website, or your dealings with our company, please [click here](https://web.archive.org/web/20100327005810id_/http%3A//www.activetrail.com/contact_us/contact.html?to=Info) to email us. Please see our [Spam Policy](https://web.archive.org/web/20100327005810id_/http%3A//www.activetrail.com/about_us/anti_spam.html). 
