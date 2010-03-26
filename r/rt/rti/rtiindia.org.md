@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtiindia.org privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103034940id_/http%3A//www.rtiindia.org/forum/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtiindia.org privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326052716id_/http%3A//www.rtiindia.org/forum/Privacy.html) for the most accurate reproduction.*
 
 # RTI India - Privacy Policy
 
@@ -39,6 +39,8 @@ Upon request we offer visitors the ability to have inaccuracies corrected in com
 Members can have this information corrected by sending us e-mail at the above address, by visiting the contact form. 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+We have RTI INDIA Shoutbox here http://shoutbox.rtiindia.org/ and email sent to us directly at admin@rtiindia.org are selected and posted at shoutbox as email by use of Posterous web technology. We generally make sure that only selected content which may of be of public interest to others are only posted at shoutbox. However, we actively pursue any objections, limitations and other such request in case it violates individual privacy. Such request for editing, removal should be sent to us at admin@rtiindia.org exclusively on posts made at Shoutbox. 
 
 Regards,
 
