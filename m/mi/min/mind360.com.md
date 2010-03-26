@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mind360.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621061758id_/http%3A//www.mind360.com/infopages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mind360.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326143656id_/http%3A//www.mind360.com/infopages/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Mind 360 - Play Smart
+# Privacy Policy - Mind360 Scientifically Proven Brain Training Games
 
   
 
@@ -53,7 +53,7 @@ You can terminate your website account at any time by sending a request by way o
 
 ### How to unsubscribe from Mind360's email list?
 
-To unsubscribe from your mailing list, please click here.
+To unsubscribe from our mailing list, please go to [My Details](http://www.mind360.com/nodespages/misc/userpages.aspx?page=mydetails) and uncheck the 'I agree to receive MIND360 notifications'. if you are not a MIND360 user, please click here.
 
 ### Changes to This Privacy Policy
 
