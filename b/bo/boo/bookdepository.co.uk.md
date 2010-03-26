@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookdepository.co.uk privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423105250id_/http%3A//www.bookdepository.co.uk/help/topic/HelpId/20/Our-privacy-policy%23helpContent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookdepository.co.uk privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326152201id_/http%3A//www.bookdepository.co.uk/help/topic/HelpId/20/Our-privacy-policy%23helpContent) for the most accurate reproduction.*
 
 # Help at The Book Depository
 
@@ -41,6 +41,7 @@ We require this information to understand your needs and provide you with a bett
   * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
   * From time to time, and if you've opted-in, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or post.
   * We may use the information to customise the website according to your interests.
+  * We will use sales data to populate our 'live sales' map. This is completely anonymous and is only ever displayed at a country level. No correlation could be made between a specific customerâ€™s purchase and the book displayed on screen and is not dissimilar to other 'recently sold' displays on many websites.
 
 
 
@@ -52,7 +53,7 @@ Please note that there may be instances where it may be necessary for us to comm
 For e-mail notifications of out of stock titles we will only use your e-mail address for this purpose and not for additional marketing. 
 
 **Your interactions**  
-If you decide to delete your account/leave The Book Depository your personal account details will be deleted. Any reviews you have written will not be deleted but default to ‘anonymous’.
+If you decide to delete your account/leave The Book Depository your personal account details will be deleted. Any reviews you have written will not be deleted but default to 'anonymous'.
 
 **Security**  
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
