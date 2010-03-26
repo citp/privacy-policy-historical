@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the vonage.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124022755id_/http%3A//www.vonage.com/support.php%3Farticle%3D399%26lid%3Dfooter_privacy%26refer_id%3DWEBPV0706010001W1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vonage.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326110427id_/http%3A//www.vonage.com/support.php%3Farticle%3D399%26lid%3Dfooter_privacy%26refer_id%3DWEBPV0706010001W1) for the most accurate reproduction.*
 
 # Vonage - Support - Privacy Policy
 
+  
 | **Learn More About Vonage**  
 ---  
 [What is Vonage?](https://web.archive.org/support.php?subtopic=10&topic=4)  
@@ -13,7 +14,7 @@
 [Service Requirements](https://web.archive.org/support.php?subtopic=54&topic=4)  
   
  **Learn More About Vonage Mobile**  
-[](https://web.archive.org/support.php?subtopic=65&topic=24)[What is Vonage Mobile?](https://web.archive.org/web/20091124022755id_/http%3A//www.vonage.com/support.php?article=1413)  
+[](https://web.archive.org/support.php?subtopic=65&topic=24)[What is Vonage Mobile?](https://web.archive.org/web/20100326110427id_/http%3A//www.vonage.com/support.php?article=1413)  
 [Vonage Mobile FAQs](https://web.archive.org/support.php?subtopic=66&topic=24)  
   
  **Getting Started with Vonage**  
@@ -36,12 +37,10 @@
 [Installation](https://web.archive.org/support.php?subtopic=56&topic=20)  
 [Product Support](https://web.archive.org/support.php?subtopic=34&topic=20)  
 [Features Support](https://web.archive.org/support.php?subtopic=50&topic=20)  
-[Troubleshooting](https://web.archive.org/support.php?subtopic=57&topic=20)  
+[Troubleshooting Service Issues](https://web.archive.org/support.php?subtopic=57&topic=20)  
   
   
-
-
-[](https://web.archive.org/web/20091124022755id_/http%3A//www.vonage.com/support.php?article=399&print)
+[](https://web.archive.org/web/20100326110427id_/http%3A//www.vonage.com/support.php?article=399&print)
 
 |  Email Address     |   
 ---|---  
@@ -92,7 +91,7 @@ Subject to certain security requirements, Vonage will do its best to honor reque
 
 ### Children's Privacy Policy
 
-Vonage does not sell products or services for purchase by children. Vonage does not knowingly solicit or collect PII from children or teenagers under the age of eighteen. If you believe that a minor has disclosed PII to Vonage, please [click here to report this to us](https://web.archive.org/web/20091124022755id_/http%3A//www.vonage.com/support.php%3Farticle%3D399%26lid%3Dfooter_privacy%26refer_id%3DWEBPV0706010001W1?article=1217).
+Vonage does not sell products or services for purchase by children. Vonage does not knowingly solicit or collect PII from children or teenagers under the age of eighteen. If you believe that a minor has disclosed PII to Vonage, please [click here to report this to us](https://web.archive.org/web/20100326110427id_/http%3A//www.vonage.com/support.php%3Farticle%3D399%26lid%3Dfooter_privacy%26refer_id%3DWEBPV0706010001W1?article=1217).
 
 ### Vonage Spam Policy
 
@@ -124,7 +123,7 @@ Our service is maintained in the United States of America. By using our services
 
 ### Questions
 
-For common questions and answers regarding our privacy policy or to contact us, [click here ](https://web.archive.org/web/20091124022755id_/http%3A//www.vonage.com/support.php%3Farticle%3D399%26lid%3Dfooter_privacy%26refer_id%3DWEBPV0706010001W1?article=1217)
+For common questions and answers regarding our privacy policy or to contact us, [click here ](https://web.archive.org/web/20100326110427id_/http%3A//www.vonage.com/support.php%3Farticle%3D399%26lid%3Dfooter_privacy%26refer_id%3DWEBPV0706010001W1?article=1217)
 
 ### Effective Date
 
@@ -132,6 +131,6 @@ This Privacy Policy was last updated on November 8, 2006.
 
 * * *
 
-  * did this article answer your question todayYes No
+  * Did this article answer your question today?Yes No
 
 
