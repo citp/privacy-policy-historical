@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaplacementcash.com privacy policy that was archived on 2009-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091005212046id_/http%3A//mediaplacementcash.com/static/legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaplacementcash.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327002511id_/http%3A//mediaplacementcash.com/static/legal/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
