@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ceruleanstudios.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218043321id_/http%3A//www.ceruleanstudios.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceruleanstudios.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326022356id_/http%3A//www.trillian.im/privacy) for the most accurate reproduction.*
 
 # Cerulean Studios' Privacy Policy
 
-Cerulean Studios is committed to protecting your privacy. This privacy policy applies to data collected by Cerulean Studios through its websites that link to this privacy policy, the Trillian™ software (including Trillian™ Basic, Trillian™ Pro (together with Trillian™ Basic, "Trillian™ Trillian™ for Web, and Trillian™ for iPhone), and other software and services that may be provided by Cerulean Studios from time to time (the "Cerulean Services"). This privacy policy does not apply to information collected by websites, software, services, plugins, or features provided by third parties (the "Third Party Services") and accessible through the Cerulean Services or otherwise. Please contact the providers of the Third Party Services if you have questions about their privacy policies.
+Cerulean Studios is committed to protecting your privacy. This privacy policy applies to data collected by Cerulean Studios through its websites that link to this privacy policy, the Trillian™ software (including Trillian™ Basic, Trillian™ Pro (together with Trillian™ Basic, "Trillian™"), Trillian™ for Web, and Trillian™ for iPhone), and other software and services that may be provided by Cerulean Studios from time to time (the "Cerulean Services"). This privacy policy does not apply to information collected by websites, software, services, plugins, or features provided by third parties (the "Third Party Services") and accessible through the Cerulean Services or otherwise. Please contact the providers of the Third Party Services if you have questions about their privacy policies.
 
 * * *
 
@@ -16,7 +16,7 @@ Cerulean Studios may ask you to provide personally identifiable information (for
 
 #### Usage Statistics
 
-Cerulean Studios may collect information that you make available when you interact with the Cerulean Services. This information may include the pages you view on Cerulean Studios' websites, traffic analysis data used to optimize the Cerulean Services, and technical information such as your browser's window dimensions, your operating system, and the time you spend viewing a web page. Cerulean Studios may also collect certain commonly available information that your browser provides to every website that you visit. This information includes your Internet Protocol (IP) address, the web page you have requested, the referring website (including search engines), your browser software, your browser's language settings, and access time and date. Cerulean Studios may also use "cookies" and other similar technology in connection with the Cerulean Services, as discussed in the cookie section below.
+Cerulean Studios may collect information that you make available when you interact with the Cerulean Services. This information may include the pages you view on Cerulean Studios' websites, website and instant messenger traffic analysis data used to optimize the Cerulean Services, crash reports from the Trillian™ software, and technical information such as your browser's window dimensions, your operating system, and the time you spend viewing a web page. Cerulean Studios may also collect certain commonly available information that your browser provides to every website that you visit. This information includes your Internet Protocol (IP) address, the web page you have requested, the referring website (including search engines), your browser software, your browser's language settings, and access time and date. Cerulean Studios may also use "cookies" and other similar technology in connection with the Cerulean Services, as discussed in the cookie section below.
 
 #### User Account Information
 
@@ -128,7 +128,7 @@ Cerulean Studios welcomes your comments and questions regarding this privacy pol
 
 ### CHANGES TO THIS PRIVACY POLICY
 
-Cerulean studios may update this privacy policy from time to time to reflect changes in the Cerulean Services and customer feedback. When we post changes to this privacy policy, we will revise the "last updated" date at the top of this privacy policy. If there are material changes to this privacy policy or in how Cerulean Studios will use your personal information, we will notify you either by prominently posting a notice of such changes on our website prior to implementing the change or by directly sending you a notification. We encourage you to periodically review this privacy policy to stay informed of how Cerulean Studios is protecting your information. If you disagree with the changes to this privacy policy, you may choose to opt out by sending written notice to customer-service@ceruleanstudios.com requesting termination of your account.
+Cerulean studios may update this privacy policy from time to time to reflect changes in the Cerulean Services and customer feedback. When we post changes to this privacy policy, we will revise the "last updated" date at the bottom of this privacy policy. If there are material changes to this privacy policy or in how Cerulean Studios will use your personal information, we will notify you either by prominently posting a notice of such changes on our website prior to implementing the change or by directly sending you a notification. We encourage you to periodically review this privacy policy to stay informed of how Cerulean Studios is protecting your information. If you disagree with the changes to this privacy policy, you may choose to opt out by sending written notice to customer-service@ceruleanstudios.com requesting termination of your account.
 
 * * *
 
@@ -138,4 +138,4 @@ In the event that Cerulean Studios is acquired by or merges with another company
 
 * * *
 
-_Last Updated: July 10th, 2009_
+_Last Updated: January 6th, 2010_
