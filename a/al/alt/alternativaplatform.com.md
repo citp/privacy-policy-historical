@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alternativaplatform.com privacy policy that was archived on 2009-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090412054719id_/http%3A//alternativaplatform.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternativaplatform.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326015040id_/http%3A//alternativaplatform.com/en/privacy_policy) for the most accurate reproduction.*
 
 # AlternativaPlatform - Privacy Policy
 
