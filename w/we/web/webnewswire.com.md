@@ -1,32 +1,30 @@
-> *The following text is extracted and transformed from the webnewswire.com privacy policy that was archived on 2006-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060321230217id_/http%3A//www.webnewswire.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webnewswire.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326075040id_/http%3A//www.webnewswire.com/node/450918) for the most accurate reproduction.*
 
-# webnewswire.com - Privacy Policy
+# Privacy Policy | webnewswire.com
 
-Our site respects and protects the privacy of the individuals that use it. Individually identifiable information about you is not willfully disclosed to any third party without first receiving your permission, as explained in this privacy policy ("Privacy Policy"). 
+You are here: Privacy Policy
 
-**Posting stories**  
-When you send us stories and inputs, you agree to give us non-exclusive copyright to the material without any royalty or necessity of accrediting you with any byline. You also agree that you are the original author of the material and you are not infringing on anyone else's intellectual property. In case of any violation, we will be free to share your contact and ISP information for any such claims. You also agree to bear all legal complications that may originate due to your posting, and hold us harmless. In case you disagree with any of these clauses then kindly do not submit any stories. 
+This is the web site of Global Web Properties. Our postal address is 2 Amit Apartments, Old Padra Road, Vadodara, Gujarat, India. 
 
-If you think that your story has been posted by someone in error then please contact us through the feedback form, and we will delete the story immediately. Please note that there are sometimes hundreds of stories published each day and most of them originate from submissions by users. 
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
-**Our site and Cookies**  
-Upon your first visit to Our site, Our site sends a "cookie" to your computer. A cookie is a piece of data that identifies you as a unique user. Our site uses cookies to improve the quality of our service and to understand our user base more. Our site does this by storing user preferences in cookies and by tracking user trends and patterns of how people search. Our site will not disclose its cookies to third parties except as required by a valid legal process such as a search warrant, subpoena, statute, or court order.
+We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas.
 
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Be aware, however, that some parts of the site may not function properly if you refuse cookies. 
+The information we collect is used for internal review and is then discarded, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
 
-**What Information Do We Collect?**  
-Our site does not collect any unique information about you (such as your name, email address, etc.) except when you specifically and knowingly provide such information. Our site notes and saves information such as time of day, browser type, browser language, and IP address with each query. That information is used to verify our records and to provide more relevant services to users. For example, we may use your IP address or browser language to determine which language to use when showing search results or advertisements. 
+With respect to cookies: We use cookies to store visitors preferences, ensure that visitors are not repeatedly sent the same banner ads.
 
-**Links to Other Sites**  
-The sites displayed or linked to our site are developed by people over whom we exercise no control. These other sites may send their own cookies to users, collect data, or solicit personal information. 
+If you do not want to receive e-mail from us in the future, please let us know by writing to us at the above address.
 
-**With Whom Does Our site Share Information?**  
-Our site may share information about you with advertisers, business partners, sponsors, and other third parties. However, we only divulge aggregate information about our users and will not share personally identifiable information with any third party without your express consent. Please be aware, however, that we will release specific personal information about you if required to do so in order to comply with any valid legal process such as a search warrant, subpoena, statute, or court order. 
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of individual networks. 
 
-**Your consent and changes to the Privacy Policy**  
-We may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. 
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our web site periodically.
 
-For any questions, please fill in the feedback form.
+Upon request we provide site visitors with access to information that we have collected and that we maintain about them. Upon request we offer visitors the ability to have inaccuracies corrected in contact information. Consumers can have this information corrected by writing to us at the above address.
+
+With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+
+If you feel that this site is not following its stated information policy, you may contact us by using the Contact Us page.
 
   
 
