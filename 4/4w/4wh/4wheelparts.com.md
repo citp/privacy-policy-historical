@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4wheelparts.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220092818id_/http%3A//www.4wheelparts.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4wheelparts.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326043057id_/http%3A//www.4wheelparts.com/info/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy and Site Security Policies
 
@@ -35,7 +35,7 @@ While doing business with you, we may have to gather certain information, such a
 If you do not wish to receive further material from 4 Wheel Parts, you can simply respond to our email or otherwise tell us that you do not want to receive future communications.
 
   * **Online Orders**  
-4 Wheel Parts also collects credit card information from you to process purchases from the site. VeriSign, a leader in online credit card transactions and security, is used for credit card processing. Whenever you transmit credit card information and other personal information through our site, the numbers and letters are scrambled using encryption technology, making it nearly impossible for the information to be stolen or intercepted. To protect your security, we do not allow you to store your credit card number from session to session.
+4 Wheel Parts also collects credit card information from you to process purchases from the site. Network Solutions, a leader in online credit card transactions and security, is used for credit card processing. Whenever you transmit credit card information and other personal information through our site, the numbers and letters are scrambled using encryption technology, making it nearly impossible for the information to be stolen or intercepted. To protect your security, we do not allow you to store your credit card number from session to session.
   * **Cookies**  
 4 Wheel Parts, like most Web sites, uses a feature of your browser to set a "cookie" on your computer. We cannot tell your name or any personal information about you based solely on the cookie. 
 
@@ -61,14 +61,14 @@ For this reason, Payment Card Industry (PCI) compliance was created by credit ca
 
 4WheelParts.com fully complies with the set of PCI data security standards to ensure a safe shopping experience for our customers and also help promote internet safety throughout the internet.
 
-  * **VeriSign™ Secure Socket Layer (SSL) Certificate Authentication**  
-Every order is processed using the VeriSign encryption technology to secure your identity. 
+  * **Network Solutions Secure Socket Layer (SSL) Certificate Authentication**  
+Every order is processed using the Network Solutions encryption technology to secure your identity. 
 
 4WheelParts.com utilizes an intensely elaborate data encryption system using 128-bit Secure Socket Layer (SSL) technology. All browsers that shop at 4WheelParts.com are required to enable 128-bit encryption to ensure a safe shopping experience.
 
 [ ](https://www.scanalert.com/RatingVerify?ref=4wheelparts.com)
 
-As a constant reminder that your shopping experience on either 4WheelParts.com or any other e-commerce website is safe, look for the VeriSign logo indicating a valid SSL certification. Click on the VeriSign icon to confirm complete data encryption and verification of the seller’s identity.
+As a constant reminder that your shopping experience on either 4WheelParts.com or any other e-commerce website is safe, look for the Network Solutions logo indicating a valid SSL certification. Click on the Network Solutions icon to confirm complete data encryption and verification of the seller’s identity.
 
   * **ScanAlert's Hacker Safe™ Certification Service**  
 ScanAlert security technology is used to protect us from hackers and shows you proof of our ability to protect you. 
@@ -120,7 +120,7 @@ Criminals exercise considerable creativity for website fraud. On one hand, they 
 Here are some tips on what to look out for, and how to deal with them accordingly:
 
   * Many phishing websites operate under the guise of a well-reputed company or seller. Other times, the design and function of the site are convincing enough to lure you into a false sense of security.
-  * For e-commerce sites, make sure that you are shopping with a trusted seller who is certified with some form of data encryption os Secure Socket Layer (SSL) system to protect your information. Most legitimate sites will display an authentic seal from VeriSign or another internet security company indicating that a site is protected.
+  * For e-commerce sites, make sure that you are shopping with a trusted seller who is certified with some form of data encryption os Secure Socket Layer (SSL) system to protect your information. Most legitimate sites will display an authentic seal from Network Solutions or another internet security company indicating that a site is protected.
   * An easy way to check for SSL encryption is to look for the web address that begins with "https" as opposed to just "http" on billing entry pages. This signifies that the website employs SSL protection and your purchase is secure.
   * Also look for the padlock icon in the far right side of the address bar, which indicates that you are operating in a secure website.
   * If you are uncertain about the reputability of a website, check site reviews from places like resellerratings.com, or even conduct a background check at the Better Business Bureau website to confirm legitimacy.
