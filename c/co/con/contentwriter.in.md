@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentwriter.in privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122113249id_/http%3A//www.contentwriter.in/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentwriter.in privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326132652id_/http%3A//www.contentwriter.in/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Content Writer . India - Online Writing Services | Outsource Content Writing To India
 
@@ -35,6 +35,6 @@ Kindly make use of the services and information on the website at your own risk.
 
 Contacting contentwriter.in   We welcome any questions or comments you have about contentwriter.in. Please direct them to [ contact@contentwriter.in](mailto:contact@contentwriter.in)
 
-Copyright © 2005 - 2009, contentwriter.in ,  [ contact@contentwriter.in](mailto:contact@contentwriter.in)
+Copyright © 2005 - 2010, contentwriter.in ,  [ contact@contentwriter.in](mailto:contact@contentwriter.in)
 
 |    |  
