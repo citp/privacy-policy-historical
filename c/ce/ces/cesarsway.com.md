@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cesarsway.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104220332id_/http%3A//www.cesarsway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesarsway.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326012348id_/http%3A//www.cesarsway.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cesar Millan
 
@@ -66,3 +66,7 @@ Your online security can be jeopardized as a result of tactics employed by third
 If you suspect that you have been subjected to any of these kinds of activities, you also should contact the Federal Trade Commission at [**www.ftc.gov**](http://www.ftc.gov/) or phone 1-877-FTC-HELP.
 
 Bookmark/Search this post with: 
+
+Average: 
+
+Your rating: None Average: 5 (1 vote)
