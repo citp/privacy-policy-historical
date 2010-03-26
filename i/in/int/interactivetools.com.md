@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421143439id_/http%3A//www.interactivetools.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326193859id_/http%3A//www.interactivetools.com/about/privacy.php) for the most accurate reproduction.*
 
-# interactivetools.com - Privacy Policy
+# About - Privacy | interactivetools.com
 
-|     |    
+| 
 
+### Privacy Policy
 
 We take your privacy very seriously. In order for you to better understand our data collection methods, we have compiled the following list:
 
@@ -13,7 +14,7 @@ We take your privacy very seriously. In order for you to better understand our d
 
 **2\. Newsletter**
 
-> If you elect to join our newsletter we will send you a notification once a month about new software releases, updates and special offers. For your convenience, each announcement contains instructions on how to be removed from all future mailings. You may unsubscribe from our newsletter at any time and we do not make email addresses available to any third parties. [Click here](http://www.interactivetools.com/iforum/General_C1/Announcements_F10/) if you'd like to see some example newsletters. 
+> If you elect to join our newsletter we will send you a notification once a month about new software releases, updates and special offers. For your convenience, each announcement contains instructions on how to be removed from all future mailings. You may unsubscribe from our newsletter at any time and we do not make email addresses available to any third parties. Here are some [example newsletters](https://web.archive.org/news/). 
 
 **3\. During Software Purchase**
 
@@ -26,44 +27,3 @@ We take your privacy very seriously. In order for you to better understand our d
 **5\. Cookies**
 
 > Our site uses "cookies" which are small pieces of information that your browser stores on your computer's hard drive. These cookies allow you to store items in your shopping cart while browsing our web site and store the name and address that you enter on our page. The cookies are also used to identify our customers who are referred to us by one of our partners in order to compensate our partner for the referral. Most browsers automatically accept cookies, but you can usually set your browser to refuse cookies. If you refuse or disable our cookie, you will still be able to order from our web site. We do not make any information collected by our cookies available to third parties. 
-
-|     | 
-
-  
-**"Business schools should use you guys as a case study showing how to get it right - great products backed with superb support."**
-
-Paul Forman  
-following-seas.com  
-
-
-  
-
-
-* * *
-
-  
-**"A superior product at a great price."**
-
-Douglas Helmer  
-combatsim.com  
-
-
-  
-
-
-* * *
-
-  
-**"Short and sweet, your installation was a godsend and handled both quickly and professionally. It was all up and working within 24 hours. No problems at all."**
-
-Lili Crawford  
-mauidesign.com  
-
-
-  
-
-
-* * *
-
-  
-
