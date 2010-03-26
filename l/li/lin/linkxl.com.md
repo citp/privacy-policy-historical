@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkxl.com privacy policy that was archived on 2009-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090819033839id_/http%3A//www.linkxl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkxl.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326134052id_/http%3A//www.linkxl.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - LinkXL Contextual Text Link Ads
 
