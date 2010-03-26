@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realvnc.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230230309id_/http%3A//www.realvnc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realvnc.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326073920id_/http%3A//www.realvnc.com/privacy.html) for the most accurate reproduction.*
 
 # RealVNC - Privacy statement
 
@@ -10,7 +10,7 @@ RealVNC is committed to protecting the privacy of our users. We will use our bes
 
 ### Use of Cookies
 
-A cookie is a small text file which is automatically issued to your computer when you visit our website. RealVNC do not use cookies on this website.
+A cookie is a small text file which is automatically issued to your computer when you visit our website. We use cookies to improve the quality of service we provide but we do not personally identify you.
 
 ### Collection of personal information
 
