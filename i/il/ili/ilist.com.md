@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ilist.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606055349id_/http%3A//ilist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilist.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327005339id_/http%3A//ilist.com/privacy) for the most accurate reproduction.*
 
-# iList Classifieds - Post and Search Free Classified Ads
+# iList Micro - About
+
+## (Yeah, we’re all dudes. Welcome to Silicon Valley.)
 
 iList, Inc. (“Company”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the [ilist.com](http://ilist.com/) website and domain name, or otherwise accessing or using any other linked pages, features, content, products, applications, or services offered from time to time by Company in connection therewith (collectively, the “Website”), you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
