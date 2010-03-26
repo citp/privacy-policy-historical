@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salmat.com.au privacy policy that was archived on 2009-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091030025843id_/http%3A//www.salmat.com.au/index.php%3FpageID%3D3245) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salmat.com.au privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326132414id_/http%3A//www.salmat.com.au/index.php%3FpageID%3D3245) for the most accurate reproduction.*
 
 # Salmat - Salmat’s privacy policy. Guidelines pertaining to how Salmat adheres to the Privacy Act 1988 (Australia).
 
@@ -70,21 +70,26 @@ As Australia's leading customer communications company, Salmat will be engaged b
 
 Salmat requires strict compliance with the National Privacy Principles by all of its subcontractors. 
 
-## Contacting Salmat 
+## Contacting Salmat regarding privacy issues 
 
 Any questions or comments concerning Salmat’s privacy policies and practices, any requests for access to an individual’s personal information held by Salmat and any general privacy inquiries can be addressed to: 
 
-Contact:
+Contact: 
 
 Att: Privacy Officer   
-Salmat Limited  
-Level 17, 100 Arthur Street  
-North Sydney NSW 2060  
+Salmat Limited   
+Innovation Place   
+Level 17, 100 Arthur Street   
+North Sydney NSW 2060   
 Australia   
 Phone: (02) 9928 6500   
 Fax: (02) 9928 6652   
 E-mail: [privacy@salmat.com.au](mailto:privacy@salmat.com.au "email privacy at salmat")
 
-This Privacy Statement was last updated on 1 July 2009
+## General enquiries 
+
+For all other enquiries not relating to privacy matters, please email [info@salmat.com.au](mailto:info@salmat.com.au)
+
+This Privacy Statement was last updated on 2 November 2009 
 
 ­­­­ 
