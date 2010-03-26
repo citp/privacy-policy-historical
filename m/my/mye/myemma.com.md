@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myemma.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602082403id_/http%3A//www.myemma.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myemma.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326144307id_/http%3A//www.myemma.com/privacy.php) for the most accurate reproduction.*
 
 # Emma Email Marketing | Send Stylish HTML Emails | Design Email Newsletters | Communicate in Style
 
