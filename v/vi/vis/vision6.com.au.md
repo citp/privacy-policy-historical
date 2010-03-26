@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vision6.com.au privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119134516id_/http%3A//www.vision6.com.au/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vision6.com.au privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326144856id_/http%3A//www.vision6.com.au/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy — Vision 6 — SMS and Email Marketing Software
 
@@ -36,4 +36,4 @@ We consider it is the responsibility of parents to monitor their children's use 
 
 You are entitled to have access to any personal information relating to you which you have previously supplied to us over this web site. You are entitled to edit or delete such information unless we are required by law to retain it.
 
-If you wish to comment on or query our privacy policy, or if you wish to make an enquiry regarding any personal information relating to you which may be in our possession, please [contact_us@vision6.com.au](mailto:contact_us@vision6.com.au) or phone +61 7 3257 3906 
+If you wish to comment on or query our privacy policy, or if you wish to make an enquiry regarding any personal information relating to you which may be in our possession, please [contact us](https://web.archive.org/web/20100326144856id_/http%3A//www.vision6.com.au/enquiries.html) or phone +61 7 3257 3906 
