@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpmydirectory.com privacy policy that was archived on 2009-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090718111556id_/http%3A//www.phpmydirectory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpmydirectory.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326034534id_/http%3A//www.phpmydirectory.com/privacy.html) for the most accurate reproduction.*
 
 # phpMyDirectory - Web Portal, Business Directory, Classifieds, Link Indexing
 
