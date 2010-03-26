@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the culvers.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221024553id_/http%3A//www.culvers.com/legal.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culvers.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326070528id_/http%3A//www.culvers.com/legal.aspx) for the most accurate reproduction.*
 
 # Culvers: Experience fresh, delicious food served with a great big side of friendly smiles and warm hospitality.
 
