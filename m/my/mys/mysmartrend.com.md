@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mysmartrend.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426145712id_/http%3A//www.mysmartrend.com/legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysmartrend.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326143226id_/http%3A//www.mysmartrend.com/legal) for the most accurate reproduction.*
 
-# Legal - Comtex SmarTrend Alert
+# Stock Trend | Stock Alerts and Market Technical Analysis | Comtex SmarTrend
 
 Web Site Privacy Statement
 
@@ -110,4 +110,4 @@ You may choose to terminate the SmarTrend Service, with 24 hours prior notice, b
 
 * * *
 
-[](https://web.archive.org/web/20090426145712id_/http%3A//www.mysmartrend.com/shop.asp)
+[](https://web.archive.org/web/20100326143226id_/http%3A//www.mysmartrend.com/shop)
