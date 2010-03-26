@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revou.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211213936id_/http%3A//www.revou.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revou.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326074501id_/http%3A//www.revou.com/privacy.php) for the most accurate reproduction.*
 
 # Twitter clone PHP social networking script. Micro blogging social network software - IM/SMS/Web. Start your own site just like twitter and jaiku.
 
@@ -25,6 +25,10 @@ Similar to other commercial web sites, our web site utilizes a standard technolo
   
 Contacting REVOU  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can us at:
+
+Feb 19, 2010
+
+[ StockTwits: Twitter for stocks trader](http://blog.revou.com/2010/02/19/stocktwits-twitter-for-stocks-trader/)
 
 Aug 20, 2009
 
