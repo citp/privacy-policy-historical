@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linuxjournal.com privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225101841id_/http%3A//www.linuxjournal.com/content/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxjournal.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326162510id_/http%3A//www.linuxjournal.com/content/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Linux Journal
 
@@ -30,4 +30,4 @@ Linux Journal is not responsible for the content or the privacy polices of websi
 
 ## Questions or Comments?
 
-If you have questions about this privacy statement or your dealings with Linux Journal, please do not hesitate to [contact us](mailto:subs@linuxjournal.com). 
+If you have questions about this privacy statement or your dealings with Linux Journal, please do not hesitate to [contact us](mailto:subs@linuxjournal.com).
