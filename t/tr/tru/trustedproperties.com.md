@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustedproperties.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428154912id_/http%3A//www.trustedproperties.com/company-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedproperties.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327185712id_/http%3A//www.trustedproperties.com/company-information/privacy-policy) for the most accurate reproduction.*
 
 # Trusted Properties
 
