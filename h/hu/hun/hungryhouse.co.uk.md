@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hungryhouse.co.uk privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220165213id_/http%3A//hungryhouse.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungryhouse.co.uk privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327183000id_/http%3A//hungryhouse.co.uk/privacy) for the most accurate reproduction.*
 
-# hungryhouse privacy policy
+# Takeaway Food Delivery
 
   1. Introduction
 
-Last updated 3 August, 2005.
+Last updated 27 February, 2009.
 
 We are dedicated to protecting the privacy of people using this website. We take the confidentiality of personal data seriously. By accessing and using this website, you agree to the terms of this Privacy Policy and consent to the processing of your data as described in this Privacy Policy.
 
@@ -19,25 +19,25 @@ We only collect personal information from our visitors on a voluntary basis. Per
 
 You can access the Welcome page and browse our site without disclosing your personal information.
 
- _Orders_
+Orders
 
 Personal information required during the order process includes name, address, phone number, email address and other similar information used to identify you and complete an order.
 
-Personal information collected at our site will be shared with a restaurant when processing your order. We have a written agreement with all member restaurants, restricting disclosure or further processing of personal information provided to them by us.
+Personal information collected at our site will be shared with a restaurant when processing your order. We have an agreement with all member restaurants, restricting disclosure or further processing of personal information provided to them by us.
 
 Your personal information will be used to notify you of your order status.
 
 Personal information will not be shared with any of our business partners or affiliates without your permission. It is treated as confidential, and will not be disclosed to outside parties, unless compelled by applicable legislation.
 
-We only send marketing emails to those people who have specifically requested to receive this information, and they are sent no more than once per week.
+We only send marketing emails to those people who have specifically requested to receive this information.
 
- _Introductions_
+Introductions
 
 When a member introduces a friend, we store the friend's email address so the member can track the status of their introductions. This also allows reminders to be sent if necessary. The person receiving the introduction can remove their email address from our system at any time via a link in the introduction email, or by sending an email directly to us at [help@hungryhouse.com](mailto:%20help@hungryhouse.com).
 
   3. Verifying, updating and amending personal information
 
-_Members_
+Members
 
 Should your personal information change, you can correct or update this information instantly by editing your member profile at any time.
 
@@ -45,9 +45,9 @@ When editing your member profile or submitting an order, we only ever reveal the
 
 To remove your personal information and cancel your membership, send an email from your registered email address to [help@hungryhouse.com](mailto:%20help@hungryhouse.com). Your membership and personal details will be removed within 5 days.
 
- _Guests_
+Guests
 
-Users who order as guests cannot view or change their details on the website once an order has been submitted. Any changes which affect the fulfilment of an order should be communicated directly to the applicable restaurant. Personal information is automatically removed from our system once the order process is complete.
+Users who order as guests cannot view or change their details on the website once an order has been submitted. Any changes which affect the fulfilment of an order should be communicated directly to the applicable restaurant.
 
   4. Cookies
 
