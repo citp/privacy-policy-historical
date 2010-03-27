@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianscreens.com privacy policy that was archived on 2009-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090314043748id_/http%3A//shop.asianscreens.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianscreens.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327224155id_/http%3A//www.asianscreens.com/docs/privacy.asp) for the most accurate reproduction.*
 
 # AsianScreens - Privacy Policy
 
@@ -23,4 +23,4 @@ We do our utmost to ensure that proper electronic and managerial safeguards are 
 
 **Still Have Questions/Concerns about AsianScreens' (UpNext's) Privacy Policy?**
 
-Should you have any questions or concerns about AsianScreens' Privacy Policy or the manner in which we implement it, please feel free to contact us via our [contact us](https://web.archive.org/contact/) page.. 
+Should you have any questions or concerns about AsianScreens' Privacy Policy or the manner in which we implement it, please feel free to contact us via our [contact us](https://web.archive.org/docs/contact_us.asp) page.. 
