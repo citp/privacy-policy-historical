@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the afternic.com privacy policy that was archived on 2009-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091227135028id_/http%3A//www.afternic.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the afternic.com privacy policy that was archived on 2010-03-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100327135841id_/http%3A//www.afternic.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Afternic Privacy Statement </title>
@@ -53,6 +53,44 @@
 		<a href="http://www.buydomains.com" id="top_ad"><img border="0" id="top_ad_img" src="http://gfx.afternic.com/images/partner-250x52-top-logo-buydomains.gif"></a>
 		</div>
 		<script src="js/bdMenu.js" type="text/javascript"></script>
+<script type="text/javascript">
+var clearbox = 0;
+// global variable
+function clearit() {
+    if (clearbox == 0) {
+        $('skeyword').value = "";
+        $('skeyword').style.color = "#333333";
+        clearbox = 1;
+    }
+}	
+	
+function submitSearchHeaderForm(){
+			if(validateSearchForm(document.forms.searchKeywordForm)) {
+			document.forms.searchKeywordForm.submit();
+			}
+		}
+
+function validateSearchForm(form){
+		var kw = $('skeyword').value;
+		if(kw == '' || kw == 'ENTER A DOMAIN NAME, KEYWORD OR PHRASE'){
+			alert('Keywords field is required.');
+			clearbox = 0;
+			clearit();
+			$('skeyword').focus();
+			return false;
+		}	
+		if(kw !== '' || kw !== 'ENTER A DOMAIN NAME, KEYWORD OR PHRASE'){
+			kw = kw.replace(/[-,.a-zA-Z 0-9]+/, '');
+			if (kw !== '') {
+			alert('Please use correct search format.');
+			clearbox = 1;
+			$('skeyword').focus();
+			return false;
+			}
+		}	
+		return true;
+	}	
+</script>
 <!-- Begin Main Navigation -->
   <div id="navigation" class="mainNav">
 	<ul class="menu" id="menu">
@@ -61,9 +99,9 @@
 		<li id="nav_buy" class="navDown"><a href="buy.php">Buyers</a>
 			<ul>
 				<li class="navTop"><a href="buy.php">Buyer's Home</a></li>
-				<li><a href="search.php?inventory=auctions">All Auctions</a></li>
-				<li><a href="names.php?cls=1">Closing Soon Auctions</a></li>
+				<li><a href="uoffer.php">Afternic Agent</a></li>
 				<li><a href="search.php">Advanced Search</a></li>
+				<li><a href="names.php?cls=1">Closing Soon Auctions</a></li>
 			</ul>
 		</li>
 		<li id="nav_sell" class="navDown"><a href="sell.php">Sellers</a>
@@ -111,12 +149,12 @@
   <!--End Main Navigation -->
   <!-- BEGIN Sub Navigation -->
   <div id="subNavigation">
-  	<div class="subNav" id="subDefault">The largest business oriented domain marketplace in the world </div>
-	<div class="subNav" id="subHome">The largest business oriented domain marketplace in the world </div>
-	<div class="subNav" id="subBuy">The largest business oriented domain marketplace in the world </div>
-	<div class="subNav" id="subSell">The largest business oriented domain marketplace in the world </div>
-	<div class="subNav" id="subMy">The largest business oriented domain marketplace in the world </div>
-	<div class="subNav" id="subTools">The largest business oriented domain marketplace in the world </div>
+  	<div class="subNav" id="subDefault">The largest business oriented domain name marketplace in the world </div>
+	<div class="subNav" id="subHome">The largest business oriented domain name marketplace in the world </div>
+	<div class="subNav" id="subBuy">The largest business oriented domain name marketplace in the world </div>
+	<div class="subNav" id="subSell">The largest business oriented domain name marketplace in the world </div>
+	<div class="subNav" id="subMy">The largest business oriented domain name marketplace in the world </div>
+	<div class="subNav" id="subTools">The largest business oriented domain name marketplace in the world </div>
 	
 	
 <!-- BEGIN simplesearch -->
@@ -129,10 +167,10 @@
 		<h4>+1 781-839-7990 (Worldwide)</h4>
 	</div>
 	<div class="searchBox" style="width:500px;">
-	<form action="names.php" method="GET">
-		<div class="smInput"><input name="skeyword" type="text" value="ENTER A DOMAIN NAME, KEYWORD OR PHRASE" id="skeyword" onclick="$('skeyword').value='';"></div>
+	<form name="searchKeywordForm" action="names.php" method="GET">
+		<div class="smInput"><input name="skeyword" type="text" value="ENTER A DOMAIN NAME, KEYWORD OR PHRASE" id="skeyword" onkeydown="javascript:clearit()" onclick="javascript:clearit()"></div>
 		<div class="smButton">
-		<input name="Search" type="submit" id="Search" value="SEARCH">
+		<input name="Search" type="submit" id="Search" value="SEARCH" onclick="javascript:submitSearchHeaderForm();return false;">
 		</div>
 	</form>
 	</div>
@@ -377,7 +415,7 @@ id=''
 	</div>
 	<div class="bBorderDarkBlue left w1000 lPadBottom ssMargBottom">
 		<div class="left">
-		<h3>Search By Category</h3>
+		<h3>Search Domain Names by Category</h3>
 		<ul class="left" style="width:100px;">
 			<li><a href="/namesbyc.php?c=1001&amp;category=Acronyms">Acronyms</a></li>
 			<li><a href="/namesbyc.php?c=1&amp;category=Business">Business</a></li>
@@ -409,7 +447,7 @@ id=''
 		</ul>
 		</div>
 		<div class="left">
-		<h3>Search By Domain Length</h3>
+		<h3>Search by Domain Name Length</h3>
 		<ul class="left" style="width:200px;">
 			<li><a href="/names.php?adv_options=1002&amp;category=One and two characters">One &amp; Two characters</a></li>
 			<li><a href="/names.php?adv_options=1003&amp;category=Three characters">Three characters</a></li>
@@ -440,7 +478,6 @@ id=''
 	<h3>Buyer Services</h3>
 	<ul class="left" style="width:140px;">
 		<li><a href="/buy.php">Buyer Options</a></li>
-		<li><a href="/search.php?inventory=auctions">Current Auctions</a></li>
 		<li><a href="/names.php?cls=1">Closing Soon Auctions</a></li>
 		<li><a href="/names.php?feat=1">Featured Domain Names</a></li>		
 	</ul>
@@ -484,12 +521,12 @@ id=''
 	</div>
 	<div class="left w1000 xlPadBottom ssMargBottom">
 		<div class="left lMargRight">
-			<a href="http://www.domaining.com/" onfocus="if(this.getAttribute('replaced')==null){this.setAttribute('replaced', 1); this.href='http://partner.domaining.com/link/?id=3669';} return(true);"><img src="/images/partners/domaining-120x31.gif" border="0" width="120" height="31" alt="Domain name broker recommended by Domaining.com"></a>
-			<a class="mMargLeft" target="_blank" href="http://www.bbb.org/boston/business-reviews/internet-services/afternic-in-waltham-ma-116161/#bbbonlineclick"><img title="Click here for BBB Business Review" border="0" src="https://ourbbbonline.bbb.org/Shared/Public/BBBOnline/img/BBBSealH2.gif" width="90" height="34" alt="Click here for BBB Business Review"></a>
+			<a href="http://www.domaining.com/" onfocus="if(this.getAttribute('replaced')==null){this.setAttribute('replaced', 1); this.href='http://partner.domaining.com/link/?id=3669';} return(true);"><img src="/images/partners/domaining-120x31.gif" border="0" width="120" height="31" alt="Domain name broker recommended by Domaining.com"></a>			
 			<span class="mPadLeft"><img border="0" src="/images/partners/rapidssl_ssl_certificate.gif" width="90" height="50" alt="Rapid SSL"></span>
-			<span class="mPadLeft"><img border="0" src="/images/partners/nameIntelligence.jpg" width="62" height="50" alt="2007 &amp; 2008 Outstanding Secondary Market Winner"></span>
+			<span class="mPadLeft mPadRight"><img border="0" src="/images/partners/nameIntelligence.jpg" width="62" height="50" alt="2007 &amp; 2008 Outstanding Secondary Market Winner"></span>
+			<a target="_blank" title="Click here for BBB Business Review" href="http://www.bbb.org/boston/business-reviews/internet-services/afternic-in-waltham-ma-116161/#bbbonlineclick"><img alt="Click here for BBB Business Review" border="0" src="https://ourbbbonline2.bbb.org/Boston/BBBOnlineSeal/116161/H2/0/seal.png"></a>
 		</div>
-		<div class="dottedLeft left blue" style="width:400px;">Services Provided By NameMedia<!--&#8480;--><sup style="font-size:7px;">SM</sup><br>Copyright ©2010 NameMedia, Inc. All Rights Reserved.<br>NAMEMEDIA is a service mark of NameMedia, Inc.</div>
+		<div class="dottedLeft left blue" style="width:400px;padding:8px 15px;">Services Provided By NameMedia<!--&#8480;--><sup style="font-size:7px;">SM</sup><br>Copyright ©2010 NameMedia, Inc. All Rights Reserved.<br>NAMEMEDIA is a service mark of NameMedia, Inc.</div>
 	</div>
   </div>
   <!-- footer -->
@@ -500,7 +537,7 @@ id=''
 <script type="text/javascript">
 	setFooter();
 </script>
-<!-- 0.088915109634399 ap: www.afternic.com ro:  rw: andb1.buydomains.com -->
+<!-- 0.084812879562378 ap: www.afternic.com ro:  rw: andb1.buydomains.com -->
 <!-- BEGIN gaStatsBlk -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
