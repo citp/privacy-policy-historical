@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextgenlinks.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323041509id_/http%3A//www.nextgenlinks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextgenlinks.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327083224id_/http%3A//www.nextgenlinks.com/privacy.php) for the most accurate reproduction.*
 
 # NextGen Links - Privacy Policy. Link Exchanges, Linking, Link Exchange Service and Link Partnerships.
 
