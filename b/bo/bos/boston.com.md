@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2009-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090701105845id_/http%3A//www.boston.com/help/privacy_policy/%3Fp1%3DFoot_ContactBostonCom_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327011924id_/http%3A//www.boston.com/help/privacy_policy/%3Fp1%3DFoot_ContactBostonCom_PrivacyPolicy) for the most accurate reproduction.*
 
 # Boston.com's Privacy Policy - Boston.com
 
-This policy was last updated on **June 25, 2009**.
+This policy was last updated on **July 22, 2009**.
 
 This policy discloses the online privacy practices for members of the New England Media Group (defined in this case as Boston.com and The Boston Globe). For the purposes of this Privacy Policy, unless otherwise noted, all references to “New England Media Group” will include Boston.com and The Boston Globe (including the Boston Globe Services website). New England Media Group is a wholly owned subsidiary of the New York Times Company. 
 
@@ -10,7 +10,7 @@ This policy discloses the online privacy practices for members of the New Englan
 
 If you have questions or concerns regarding this statement, you should first contact Customer Support by e-mailing [feedback@boston.com](mailto:feedback@boston.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the New England Media Group to resolve your concerns. 
 
-The TRUSTe program covers only information that is collected through the aforementioned websites, and does not cover information that may be collected through software downloaded from this site. 
+The TRUSTe program covers only information that is collected through the aforementioned websites, and does not cover information that may be collected through software downloaded from this site. For example, TRUSTe has not certified the disclosures in this Privacy Policy that relate to the Globe Reader software. 
 
 We have adopted a set of information management guidelines that serve as the basis for our customer and advertiser relationships. These guidelines have been developed with the recognition that Internet technologies are rapidly evolving, and that underlying business models are still not established. Accordingly, guidelines are subject to change. Any such changes will be posted on this page. If the changes represent a material departure from our current practices with respect to the use of personal information, the changes will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail. 
 
@@ -69,7 +69,7 @@ For a list of these commercial and advertising agencies and their privacy polici
 
 Boston Globe Services is currently contracted with Web Trends, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors. We use this information to track the site's traffic, usability, performance, and effectiveness. All data collected by Web Trends on behalf of our websites is owned and used by the New England Media Group. We reserve the right to publish non-personally identifiable, summary information regarding our online visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers in aggregate. For more information about Web Trends’ privacy policy, including how to opt out, go to [ http://www.webtrends.com/AboutWebTrends/PrivacyPolicy.aspx](http://www.webtrends.com/AboutWebTrends/PrivacyPolicy.aspx)
 
-The Boston Globe is currently contracted with Google Analytics, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our GlobeReader users. We use this information to track the application's traffic, usability, performance, and effectiveness. All data collected by Google Analytics on behalf of our product is owned and used by the New England Media Group. We reserve the right to publish non-personally identifiable, summary information regarding our online visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers in aggregate. For more information about Google Analytics’ privacy policy, including how to opt out, go to <http://www.google.com/privacy_ads.html#toc-faq> or <http://www.google.com/privacypolicy.html>. 
+The Boston Globe currently uses Google Analytics, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our GlobeReader users. We use this information to track the application's traffic, usability, performance, and effectiveness. We reserve the right to publish non-personally identifiable, summary information regarding our online visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers in aggregate. 
 
 Our websites are currently contracted with Tacoda Systems, a third party, to track and analyze anonymous usage and browsing patterns from our visitors and customers. All data collected by Tacoda on behalf of our websites is owned and used by the New England Media Group alone. We use this information to help provide our advertisers with more targeted advertising opportunities, which means that users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. For more information about Tacoda’s privacy policy, including how to opt out, go to <http://www.tacoda.com/notice/privacy_policy.html>. 
 
@@ -77,7 +77,7 @@ We reserve the right to change the vendors who provide us with usage data. If su
 
 **IP Addresses:** Our websites log IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We use IP address logs in an aggregate fashion to track access to our site (by domain type, for example), but we do not use IP address logs to track your session or your behavior on our site. 
 
-**Log Files:** Log data is only used in aggregate to analyze usage of our websites. 
+**Log Files:** Log data is only used in aggregate to analyze usage of our websites. If you download and install the Globe Reader software application, the log files will be collected by the application and sent to our servers when your computer syncs up for the latest news. 
 
 **What do we do with the information we track?**
 
