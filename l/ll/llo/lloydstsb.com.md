@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lloydstsb.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228192607id_/http%3A//www.lloydstsb.com/privacy2.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lloydstsb.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327185221id_/http%3A//www.lloydstsb.com/privacy2.asp) for the most accurate reproduction.*
 
 # Lloyds TSB - Privacy
 
 **How your personal information is used by Lloyds  Banking Group companies**  
- **Last updated July 2007** **1.  Introduction**  
-1.1  The Lloyds Banking Group companies (“us” or “we”) includes all companies with the Lloyds TSB name, Cheltenham & Gloucester plc and Scottish Widows plc, and their associated companies. For more information about the Lloyds Banking Group please visit Information about us.  
+ **Last updated May 2009** **1.  Introduction**  
+1.1 The Lloyds Banking Group includes “us” or “we” and a number of other companies using brands including Lloyds TSB, Halifax and Bank of Scotland, and their associated companies. More information on the Lloyds Banking Group can be found at [www.lloydsbankinggroup.com](http://www.lloydsbankinggroup.com/).  
 1.2 Please read this Privacy Policy to understand how we use and protect the information that you provide to us through the “Website”.  
 1.3 By accessing any part of this Website or providing any information to us you consent to the use and transfer of your information on the terms set out in this Privacy Policy.  
 1.4 We reserve the right to revise or supplement this Privacy Policy from time to time at our sole discretion and you agree to revisit this page regularly to ensure that you are familiar with the most current version. By continuing to access or use the Website you will be agreeing to any such changes.  
@@ -53,4 +53,4 @@
  **6.  Accessing and updating your information  
 **6.1 Under the Data Protection Act 1998 you may be entitled to see certain personal information we hold about you and may ask us to make changes to ensure that it is accurate and up-to-date. If you wish to access information which we hold about you or if you would like to contact us about a related data protection matter please write to us at DSAR Unit, Lloyds TSB, Customer Service Recovery, Charlton Place, C57, Andover, SP10 1RE. We are entitled to charge a small administrative fee to meet our costs in providing you with the information which we hold about you (currently £10).  
 6.2 You are responsible for informing us that your personal details have changed: for example, a change of address or to your title. You can do this by visiting a branch or completing and returning a change of name/address form. These can be obtained in branch or downloaded through Internet Banking.  
-© Lloyds TSB 2007
+© Lloyds TSB 2009
