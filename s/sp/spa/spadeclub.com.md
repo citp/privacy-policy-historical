@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the spadeclub.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520081251id_/http%3A//www.spadeclub.com/nl/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spadeclub.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327123317id_/http%3A//www.spadeclub.com/nl/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SpadeClub.com
-
-## Ready to get in on all the SpadeClub action?
-
-Just enter your E-mail Address to get started!
+# The New Way to Win! Play for FREE win thousands. - SpadeClub.com
 
 **Your online safety is of utmost importance to us.  
 Click Here to print this page.**
