@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitched.co.uk privacy policy that was archived on 2009-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090405124301id_/http%3A//www.hitched.co.uk/admin/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitched.co.uk privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327175515id_/http%3A//www.hitched.co.uk/admin/privacy.aspx) for the most accurate reproduction.*
 
 # hitched.co.uk - privacy policy
 
@@ -7,6 +7,8 @@ Hitched has created this privacy statement in order to demonstrate our firm comm
 Information automatically logged 
 
 We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to help identify you and your shopping cart. 
+
+Occasionally we monitor site usage including mouse movements in order to improve the usability of the site. This information is not linked to an individual and is deleted after 30 days.
 
 Cookies
 
@@ -71,4 +73,4 @@ This site gives users the following options for changing and modifying informati
 
 Contacting hitched.co.uk
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: [feedback@hitched.co.uk](mailto:feedback@hitched.co.uk) or call us on 08700 112545. Our policy is to endeavour to answer any questions within 3 working days. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: [feedback@hitched.co.uk](mailto:feedback@hitched.co.uk) or call us on 08448800011. Our policy is to endeavour to answer any questions within 3 working days. 
