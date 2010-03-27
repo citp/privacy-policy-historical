@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pluck.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108171151id_/http%3A//www.pluck.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluck.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327192414id_/http%3A//www.pluck.com/site/privacy.html) for the most accurate reproduction.*
 
 # Pluck: Privacy Policy
 
