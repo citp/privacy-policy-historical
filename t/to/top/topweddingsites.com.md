@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topweddingsites.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429160417id_/http%3A//www.topweddingsites.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topweddingsites.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327163217id_/http%3A//www.topweddingsites.com/privacy.php) for the most accurate reproduction.*
 
-# TeamWedding.Com
+# TeamWedding.Com Privacy Policy
 
 When you use Team Wedding, Home of Top Wedding Sites, you agree to the terms and conditions listed below, without modification. We may update the terms and conditions of use from time to time.
 
