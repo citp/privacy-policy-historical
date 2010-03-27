@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the espares.co.uk privacy policy that was archived on 2009-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091013200728id_/http%3A//www.espares.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the espares.co.uk privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327073253id_/http%3A//www.espares.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | eSpares
 
@@ -6,10 +6,10 @@
 
 The type of information we will collect about you when you place an order or register on our web site includes:
 
-  * » Address
-  * » Phone number
-  * » Email address
-  * » Credit/debit card details
+  * Address
+  * Phone number
+  * Email address
+  * Credit/debit card details
 
 
 
@@ -17,11 +17,11 @@ This information is already stored on our internal systems and our website simpl
 
 We use the information you provide for the following purposes:
 
-  * » To send updates regarding the status of your enquiry or order
-  * » To send newsletters and details of offers and promotions in which we believe you will be interested
-  * » To improve the design and content of the espares.co.uk website
-  * » To understand the buying behaviour of our registered users
-  * » To perform other general marketing and promotional activities focused on our products and services.
+  * To send updates regarding the status of your enquiry or order
+  * To send newsletters and details of offers and promotions in which we believe you will be interested
+  * To improve the design and content of the espares.co.uk website
+  * To understand the buying behaviour of our registered users
+  * To perform other general marketing and promotional activities focused on our products and services.
 
 
 
