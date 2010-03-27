@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneybird.com privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120090454id_/http%3A//www.moneybird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneybird.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327033340id_/http%3A//www.moneybird.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | MoneyBird
 
