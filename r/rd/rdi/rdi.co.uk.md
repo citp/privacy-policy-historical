@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rdi.co.uk privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212121744id_/http%3A//www.rdi.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rdi.co.uk privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327114453id_/http%3A//www.rdi.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - UK University distance learning MBA courses, online study and degrees from RDI
 
