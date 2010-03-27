@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the geoffshawmarketing.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218145857id_/http%3A//www.geoffshawmarketing.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geoffshawmarketing.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327183604id_/http%3A//www.geoffshawmarketing.com/Privacy.html) for the most accurate reproduction.*
 
-# Geoff Shaw Marketing - Privacy
+# GeoffShawMarketing - Privacy
 
-    
 Privacy  
-   
-We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. 
+We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
 We recognize the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs.
 
@@ -18,7 +16,7 @@ When you visit this web site you may provide us with two types of information: p
 _Registration Information  
 _ When you register for any of our products, services or newsletters you will provide us information about yourself.
 
-_ Credit Card Information_  
+_Credit Card Information_  
 If you choose to avail of our services, you may need to give personal information and authorization to obtain information from various credit services. For example, you may need to provide the following information:  
 -Name  
 -Mailing address  
@@ -28,7 +26,7 @@ If you choose to avail of our services, you may need to give personal informatio
 -Credit card billing address  
 -Business and home phone number
 
-_ Email Information_  
+_Email Information_  
 If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
 
 **2\. Web Site Use Information**
@@ -99,8 +97,4 @@ In the event that the web site (or a substantial portion of its assets) is acqui
 
 **Policy Modifications**
 
-We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent[http://leftsideneckpain.blogspot.com/](http://leftsideneckpain.blogspot.com/) [http://rightneckpain.blogspot.com/](http://rightneckpain.blogspot.com/) [http://sideneckpain.blogspot.com/](http://sideneckpain.blogspot.com/)    
- **_  
-Last Updated: June 08_**
-
-Back to top 
+We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent
