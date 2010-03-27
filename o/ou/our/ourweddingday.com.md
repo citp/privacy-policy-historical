@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ourweddingday.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307053617id_/http%3A//www.ourweddingday.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourweddingday.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327020351id_/http%3A//www.ourweddingday.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # OurWeddingDay: Privacy Policy
 
 Privacy Policy
 
-This privacy policy sets out the type of personal information that we - OurWeddingDay.com, operated by Library of Life (USA) Inc., a Delaware corporation - collect, what we use it for and the rights that you have in relation to this information. By using this Website and Wedding Websites, you accept the terms of this privacy policy.
+This privacy policy sets out the type of personal information that we - OurWeddingDay.com, operated by OurWeddingDay.com LLC, which is a Limited Liability Company registered in Delaware - collect, what we use it for and the rights that you have in relation to this information. By using this Website and Wedding Websites, you accept the terms of this privacy policy.
 
 1\. Collection of Personal Information
 
@@ -44,4 +44,4 @@ In order to provide you with certain services and/or products we may need to tra
 
 This policy forms part of our Terms of Use which governs your use of this Website and Wedding Websites we provide (both of which may be changed or updated from time to time without notice). By using the Website and Wedding Websites you are deemed to accept the Terms of Use and the terms and conditions of this policy. Our use of your personal information is subject to the terms and conditions of our policy in force at the time when we use the information in question. 
 
-Last Updated on November 6, 2006
+Last Updated on November 19, 2009
