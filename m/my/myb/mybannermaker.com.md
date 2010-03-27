@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybannermaker.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514031429id_/http%3A//www.mybannermaker.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybannermaker.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327010033id_/http%3A//mybannermaker.com/privacy.php) for the most accurate reproduction.*
 
 # Banner Maker - Privacy Policy
 
