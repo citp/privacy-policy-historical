@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demandforce.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628133837id_/http%3A//demandforce.com/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandforce.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327121106id_/http%3A//www.demandforce.com/privacy/index.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -112,13 +112,3 @@ Demandforce will update this policy from time to time. A "last revised" date wil
 Contact Information
 
 If you have any questions about this privacy policy or if you feel that Demandforce is not abiding by its posted privacy policy, you can contact us by e-mailing your questions or concerns to [privacy@Demandforce.com](mailto:privacy@Demandforce.com) or mail us at 425 Second Street, Suite 600, San Francisco, CA 94107.
-
-Rick Berry  
-President, Demandforce
-
-| 
-
-Sam Osman  
-Vice-President, Demandforce  
-  
----|---
