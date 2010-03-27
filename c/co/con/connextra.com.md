@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the connextra.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609090819id_/http%3A//www.connextra.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connextra.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327131428id_/http%3A//connextra.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Connextra | Privacy Policy
-
-### ****
-
-#### Privacy Policy 
 
 This is a privacy policy for Connextra Limited . Our homepage on the Web is located at [ http://www.connextra.com](http://www.connextra.com/).
 
@@ -124,4 +120,4 @@ Cookies are used for the following purposes:
 
 top^
 
-Whatever you need your online marketing system to do, we can build it [more](https://web.archive.org/web/20080609090819id_/http%3A//www.connextra.com/services/builds.htm)
+Whatever you need your online marketing system to do, we can build it [more](https://web.archive.org/web/20100327131428id_/http%3A//connextra.com/services/builds.htm)
