@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makewords.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125104735id_/http%3A//www.makewords.com/popups/privacy.aspx%3Ftb_iframe%23TB_iframe%3Fwidth%3D600%26height%3D500%26modal%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makewords.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327042228id_/http%3A//www.makewords.com/popups/privacy.aspx%3Ftb_iframe%23TB_iframe%3Fwidth%3D600%26height%3D500%26modal%3Dtrue) for the most accurate reproduction.*
 
 # MakeWords.com - Privacy Policy
 
