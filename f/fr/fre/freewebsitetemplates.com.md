@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewebsitetemplates.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609210802id_/http%3A//www.freewebsitetemplates.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebsitetemplates.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327232604id_/http%3A//www.freewebsitetemplates.com/privacy) for the most accurate reproduction.*
 
 # Free Website Templates - Privacy Policy
 
@@ -23,3 +23,5 @@ We also use third party advertisements on freewebsitetemplates.com to support ou
 
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+[](http://www.wix.com/start/wfree/?utm_campaign=ma_freewebsitetemplates.com&experiment_id=ma_freewebsitetemplates.com2)
