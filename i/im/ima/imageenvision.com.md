@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imageenvision.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212192059id_/http%3A//www.imageenvision.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imageenvision.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327043256id_/http%3A//www.imageenvision.com/privacy) for the most accurate reproduction.*
 
-# ImageEnvision.com Privacy Policy
+# Privacy Policy
 
 This privacy notice discloses the privacy practices for ImageEnvision.com. This privacy notice applies solely to information collected by this Web site. It will notify you of the following:  
 
