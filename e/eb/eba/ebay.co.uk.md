@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.co.uk privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222194419id_/http%3A//pages.ebay.co.uk/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.co.uk privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327113849id_/http%3A//pages.ebay.co.uk/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # eBay Privacy Policy
 
@@ -8,37 +8,7 @@ This policy tells you about how we use and protect your personal information. To
 
 **Contents**
 
-  * [Scope](http://pages.ebay.co.uk/help/policies/privacy-policy.html#scope_new)
-
-  * [Controlling and Processing Parties](http://pages.ebay.co.uk/help/policies/privacy-policy.html#controller_new)
-
-  * [Collection](http://pages.ebay.co.uk/help/policies/privacy-policy.html#collection_new)
-
-  * [Marketing](http://pages.ebay.co.uk/help/policies/privacy-policy.html#marketing_new)
-
-  * [Use](http://pages.ebay.co.uk/help/policies/privacy-policy.html#use_new)
-
-  * [Our Disclosure of Your Information](http://pages.ebay.co.uk/help/policies/privacy-policy.html#disclosure_new)
-
-  * [Information You Share on eBay](http://pages.ebay.co.uk/help/policies/privacy-policy.html#share_new)
-
-  * [Using Information on eBay](http://pages.ebay.co.uk/help/policies/privacy-policy.html#information_new)
-
-  * [Cookies](http://pages.ebay.co.uk/help/policies/privacy-policy.html#cookies_new)
-
-  * [No Spam, Spyware or Spoofing](http://pages.ebay.co.uk/help/policies/privacy-policy.html#spam_new)
-
-  * [Account Protection](http://pages.ebay.co.uk/help/policies/privacy-policy.html#account_new)
-
-  * [Accessing, Reviewing and Changing Your Personal Information](http://pages.ebay.co.uk/help/policies/privacy-policy.html#personal_new)
-
-  * [Security](http://pages.ebay.co.uk/help/policies/privacy-policy.html#security_new)
-
-  * [Third Parties](http://pages.ebay.co.uk/help/policies/privacy-policy.html#thirdparties_new)
-
-  * [General](http://pages.ebay.co.uk/help/policies/privacy-policy.html#general_new)
-
-
+  *   *   *   *   *   *   *   *   *   *   *   *   *   *   * 
 
 
 ### Scope
@@ -145,7 +115,7 @@ You agree to use user information only for:
 
   * eBay transaction-related purposes that are not unsolicited commercial messages;
 
-  * using services offered through eBay (e.g. escrow, insurance, shipping and fraud complaints), or
+  * using services offered through eBay (e.g. escrow, postage and fraud complaints), or
 
   * other purposes that a user expressly chooses. 
 
@@ -173,7 +143,7 @@ A few important things you should know about cookies are that:
 
 ### No Spam, Spyware or Spoofing
 
-We and our users do not tolerate spam. Make sure to set your eBay notification preferences so we communicate to you as you prefer. You are not licensed to add other eBay users, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. To report eBay-related spam or spoof emails to eBay, please [report it to us.](http://contact.ebay.co.uk/ws/eBayISAPI.dll?ContactUs&wftype=2023&rcode=IV%25N00114&subject=Cookies%20and%20Web%20Beacons%20%20&bcrumb=+Home+%3E+Help+%3E%A0Online+Security%A0%3E%A0Cookies%2C+Web+Beacons%2C+and+Your+Privacy&instruction=&expirationDate=) You may not use our communication tools to send spam or otherwise send content that would breach our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools. If you send an email to an email address that is not registered in our community (via Refer-a-Friend or other tools), we do not permanently store that email or use that email address for any marketing purpose. We do not rent or sell these email addresses. 
+We and our users do not tolerate spam. Make sure to set your eBay communication preferences so we communicate to you as you prefer. You are not licensed to add other eBay users, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. To report eBay-related spam or spoof emails to eBay, please [report it to us.](http://contact.ebay.co.uk/ws/eBayISAPI.dll?ContactUs&wftype=2023&rcode=IV%25N00114&subject=Cookies%20and%20Web%20Beacons%20%20&bcrumb=+Home+%3E+Help+%3E%A0Online+Security%A0%3E%A0Cookies%2C+Web+Beacons%2C+and+Your+Privacy&instruction=&expirationDate=) You may not use our communication tools to send spam or otherwise send content that would breach our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools. If you send an email to an email address that is not registered in our community (via Refer-a-Friend or other tools), we do not permanently store that email or use that email address for any marketing purpose. We do not rent or sell these email addresses. 
 
 ### Account Protection
 
@@ -201,33 +171,7 @@ Welcome to the privacy policy (the " **Privacy Policy** ") for the [http://www.e
 
 **Contents**
 
-  * [ Scope](http://pages.ebay.co.uk/help/policies/privacy-policy.html#Scope)
-
-  * [ Collection and Storage](http://pages.ebay.co.uk/help/policies/privacy-policy.html#Collection)
-
-  * [Marketing by Third Parties](http://pages.ebay.co.uk/help/policies/privacy-policy.html#Marketing)
-
-  * [Use by eBay](http://pages.ebay.co.uk/help/policies/privacy-policy.html#Use)
-
-  * [Our Disclosure of Your Information ](http://pages.ebay.co.uk/help/policies/privacy-policy.html#Disclosure)
-
-  * [Data Controller](http://pages.ebay.co.uk/help/policies/privacy-policy.html#Controller)
-
-  * [User IDs and eBay Activities ](http://pages.ebay.co.uk/help/policies/privacy-policy.html#Activity)
-
-  * [Cookies](http://pages.ebay.co.uk/help/policies/privacy-policy.html#Cookies)
-
-  * [Account Protection ](http://pages.ebay.co.uk/help/policies/privacy-policy.html#Protection)
-
-  * [Accessing, Reviewing and Changing Your Personal Information](http://pages.ebay.co.uk/help/policies/privacy-policy.html#Accessing)
-
-  * [Security](http://pages.ebay.co.uk/help/policies/privacy-policy.html#Security)
-
-  * [Third Parties](http://pages.ebay.co.uk/help/policies/privacy-policy.html#Third)
-
-  * [General](http://pages.ebay.co.uk/help/policies/privacy-policy.html#General)
-
-
+  *   *   *   *   *   *   *   *   *   *   *   *   * 
 
 
 ### Scope 
@@ -366,4 +310,4 @@ Except as otherwise expressly included in this Privacy Policy, this document add
 
 We may amend this Privacy Policy at any time by posting the amended terms on the Site. All amended terms shall take effect automatically 30 days after they are initially posted on the Site. In addition, we will notify you in accordance with your notification preferences or by posting an announcement on our [General Announcement Board](http://www2.ebay.com/aw/marketing-uk.shtml).
 
-To see a summary of this Privacy Policy, please go to the [Privacy Overview](http://pages.ebay.co.uk/help/newtoebay/privacy_summary.html) page. If you have any questions about this Privacy Policy, please contact [eBay Customer Support](http://pages.ebay.co.uk/help/contact_us/_base/index.html).
+To see a summary of this Privacy Policy, please go to the [Privacy Overview](http://pages.ebay.co.uk/help/newtoebay/privacy_summary.html) page. If you have any questions about this Privacy Policy, please contact [eBay Customer Support](http://contact.ebay.co.uk/ws/eBayISAPI.dll?ContactUsNextGen&domain=Help&query=Privacy%20policy&from=1003146).
