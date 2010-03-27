@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitepen.com privacy policy that was archived on 2009-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091024062236id_/http%3A//sitepen.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepen.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327092835id_/http%3A//www.sitepen.com/about/privacy.php) for the most accurate reproduction.*
 
 # SitePen - Privacy Policy
 
