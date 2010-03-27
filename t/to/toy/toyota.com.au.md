@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the toyota.com.au privacy policy that was archived on 2009-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090918043514id_/http%3A//www.toyota.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota.com.au privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327182041id_/http%3A//www.toyota.com.au/privacy) for the most accurate reproduction.*
 
 # Toyota Australia: Privacy Policy
 
-## Toyota Website Privacy Policy
+## Privacy policy december 09
 
 Toyota Motor Corporation Australia Limited (‘Toyota’) aims to provide its customers with the best possible products and service. To achieve this, we aim to make efficient use of the personal information we collect from our customers.
 
@@ -54,12 +54,13 @@ In providing you with a product or service, we may sometimes need to disclose yo
 Some examples of the kinds of organisations with which we contract are
 
   * mailing houses for bulk mailing of letters and notices;
-  * printers for marketing material; and
+  * printers for marketing material;
+  * information technology service providers; and
   * accountants, lawyers and other service providers.
 
 
 
-Those contracted parties are not authorised by us to use personal information for anything other than the purpose for which we supplied that information to them.
+Those contracted parties are not authorised by us to use personal information for anything other than the purpose for which we supplied that information to them. Some of our information technology service providers are located overseas and, as a result, personal information collected and held by Toyota may be transferred overseas.
 
 Sometimes, the law requires us to disclose personal information. For example, information may be disclosed to a court in response to a subpoena or to a Government agency such as a vehicle licensing authority or the Australian Taxation Office.
 
