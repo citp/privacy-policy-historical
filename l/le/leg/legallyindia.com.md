@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the legallyindia.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924191846id_/http%3A//www.legallyindia.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legallyindia.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327182125id_/http%3A//www.legallyindia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Legally India | News for Lawyers | Indian law firm and legal market news, analysis and more
-
-##  Privacy policy 
-
-by KG 
-
-[](http://www.legallyindia.com/index.php/privacy-policy/Print "Print") [](http://www.legallyindia.com/index.php/pdf/privacy-policy.pdf "PDF")
+# Privacy policy | Legally India - News for lawyers | Indian law firm, law school & student news and community |
 
 We are committed to protecting your privacy and we will do what we reasonably can to protect the identity and private details of all users on this site.
 
@@ -29,18 +23,4 @@ We are committed to protecting your privacy and we will do what we reasonably ca
   13. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
   14. We can change this privacy policy at any time but we will always notify you or give you the option of opting out if the new policy results in a fundamentally different use of the information from its use under the current policy.
 
-
-
-  
-
-
-### Latest features
-
-[Miles to go: Prof Madhava Menon interview](http://www.legallyindia.com/index.php/20090918202/Interviews/Miles-to-go-Prof-Madhava-Menon-interview)  
-He has been called a "living legend of law" by the International Bar Association and is nothing less than the father of modern Indian legal education. But even...
-
-  
-
-
-  
 
