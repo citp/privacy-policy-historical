@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theworkfromhomemother.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111140053id_/http%3A//coloradoathome.blogspot.com/2008/09/i-respect-your-privacy-and-i-am.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theworkfromhomemother.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327123912id_/http%3A//coloradoathome.blogspot.com/2008/09/i-respect-your-privacy-and-i-am.html) for the most accurate reproduction.*
 
 # My Life In Colorado: Privacy Policy
 
