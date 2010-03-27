@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diamondrewards.net privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226105451id_/http%3A//www.diamondrewards.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diamondrewards.net privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327135601id_/http%3A//www.diamondrewards.net/privacy) for the most accurate reproduction.*
 
-# Diamond Rewards - The rewards program that pays in Diamonds and Cash
+# - The rewards program that pays in Diamonds and Cash
 
 ## Diamond Rewards’s Privacy Policy
 
@@ -117,5 +117,5 @@ Diamond Rewards Limited
 3908 Two Exchange Square,   
 8 Connaught Place, Central,   
 Hong Kong   
-Email: privacy@diamondrewards.net  
+Email: support@diamondrewards.net  
 
