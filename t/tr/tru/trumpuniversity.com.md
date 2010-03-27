@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trumpuniversity.com privacy policy that was archived on 2008-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080810000414id_/http%3A//www.trumpuniversity.com/join/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trumpuniversity.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327143636id_/http%3A//www.trumpuniversity.com/join/privacypolicy.cfm) for the most accurate reproduction.*
 
-# Privacy - Trump University
+# Privacy - Trump U
 
 Protecting your privacy and your information is a top priority. We have taken careful measures to secure any information that you provide. Additionally, we exercise great care in providing safe transmission of your information from your PC to our servers (unless sent by a means outside of our control, such as e-mail).
 
@@ -16,7 +16,7 @@ If you do provide us with personal information for any of these activities, we m
 
 We may use your personal data in the following ways:  
 \--For the purpose for which you specifically provided the personal data, for example to enroll you in one of our courses, to process your order of one of our books or other materials, or to respond to a specific inquiry;   
-\--To send surveys or questionnaires so that we can learn more about our customers' needs and interests; --Unless you opt out, to send you our online newsletter, "Inside Trump Tower."   
+\--To send surveys or questionnaires so that we can learn more about our customers' needs and interests; --Unless you opt out, to send you our online newsletter, "Inside Trump University."   
 \--Unless you opt out, to send you information about new products or services that we think might interest you.
 
 If you do not want us to send you surveys and questionnaires, or to provide you with information about our other products and services, you can opt out of receiving this information at any time.
