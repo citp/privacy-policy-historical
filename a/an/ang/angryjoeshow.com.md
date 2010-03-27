@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angryjoeshow.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123105709id_/http%3A//angryjoeshow.com/%3Fpage_id%3D2469) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angryjoeshow.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328004527id_/http%3A//angryjoeshow.com/%3Fpage_id%3D2469) for the most accurate reproduction.*
 
 # Privacy Policy | AngryJoeShow
 
