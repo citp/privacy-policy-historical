@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dizzler.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221073734id_/http%3A//www.dizzler.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dizzler.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327083803id_/http%3A//www.dizzler.com/public/privacy) for the most accurate reproduction.*
 
 # Free Music & Videos, Music Lyrics, Free music without download
 
