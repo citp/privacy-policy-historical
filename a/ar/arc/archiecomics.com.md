@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the archiecomics.com privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727082325id_/http%3A//www.archiecomics.com/townhall/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archiecomics.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327091007id_/http%3A//www.archiecomics.com/website/privacy_policy/index.html) for the most accurate reproduction.*
 
-# Archie Comics Privacy Policy
+# Privacy Policy
 
-**PRIVACY POLICY OF Archie Comics Entertainment**
+**PRIVACY POLICY OF Archie Comics**
 
 **Our Privacy Philosophy.**
 
-We at Archie Comics Entertainment are determined to ensure that our visitors, customers and friends will have a fun experience while visiting this Website, without sacrificing their peace of mind as to the protection of their identity and other personal information. This policy statement tells you how we collect information on you, how it's used, and the steps we are taking to protect it from any unauthorized use.
+We at Archie Comics are determined to ensure that our visitors, customers and friends will have a fun experience while visiting this Website, without sacrificing their peace of mind as to the protection of their identity and other personal information. This policy statement tells you how we collect information on you, how it's used, and the steps we are taking to protect it from any unauthorized use.
 
 **Children's Online Privacy.**
 
-Because many visitors to this site are children, we take the utmost care to make certain that our content is appropriate for kids of all ages. We do not ask children to disclose more personal information than is necessary for them to participate in a particular activity (eg: normally just their e-mail address), and we take steps to prevent children from posting contact information. Children should obtain permission from a parent or guardian before contacting Archie Comics Entertainment in any regard, especially before entering any personal information (which we expressly discourage) or requesting information. Archie Comics Entertainment does not permit children under the age of 13 to place any orders at the Stuff Shop, or communicate with us through this Website without the express written permission of their Parent or Legal Guardian. If Archie Comics Entertainment has any reason to believe that a visitor under the age of 13 is posting information, or attempting to purchase merchandise from our Stuff Shop, they will be asked to have their Parent or Legal Guardian send an e-mail or fax to us to confirm authorization.
+Because many visitors to this site are children, we take the utmost care to make certain that our content is appropriate for kids of all ages. We do not ask children to disclose more personal information than is necessary for them to participate in a particular activity (eg: normally just their e-mail address), and we take steps to prevent children from posting contact information. Children should obtain permission from a parent or guardian before contacting Archie Comics in any regard, especially before entering any personal information (which we expressly discourage) or requesting information. Archie Comics does not permit children under the age of 13 to place any orders at the Stuff Shop, or communicate with us through this Website without the express written permission of their Parent or Legal Guardian. If Archie Comics has any reason to believe that a visitor under the age of 13 is posting information, or attempting to purchase merchandise from our Stuff Shop, they will be asked to have their Parent or Legal Guardian send an e-mail or fax to us to confirm authorization.
 
 Archie does not solicit personally identifiable information from children. The Children's Online Privacy Protection Act ("COPPA") requires Websites that cater to children \- or know that a visitor to their site is a child under the age of 13 - to follow specific Federal Trade Commission rules. In our attempt to fully comply with these rules, we would like you to know that:
 
@@ -20,29 +20,29 @@ Archie does not solicit personally identifiable information from children. The C
 
 ** Without prior parental consent, online information will only be used to respond directly to the child's request for information and will not be used for other purposes.
 
-** Archie Comics Entertainment will not entice any child or adult, regardless of their age, to divulge more personal information than is needed to use the site or participate in any online activity by offering any special game, prize, incentive or other similar activity.
+** Archie Comics will not entice any child or adult, regardless of their age, to divulge more personal information than is needed to use the site or participate in any online activity by offering any special game, prize, incentive or other similar activity.
 
-** In no case will any personally identifiable information be distributed to third parties or otherwise posted, EXCEPT in the event of a Business Transfer, Merger, or Buyout of Archie Comics Entertainment (see below for more details).
+** In no case will any personally identifiable information be distributed to third parties or otherwise posted, EXCEPT in the event of a Business Transfer, Merger, or Buyout of Archie Comics (see below for more details).
 
 **Information Collection and Use.**
 
-** Archie Comics Entertainment uses the limited information it collects from visitors, if any, for internal research, and may use this information to customize the advertising and content seen on our pages. 
+** Archie Comics uses the limited information it collects from visitors, if any, for internal research, and may use this information to customize the advertising and content seen on our pages. 
 
 **Information Sharing and Disclosure**.
 
-** Archie Comics Entertainment will not contact children under 13 about special offers or for marketing purposes without parental consent.
+** Archie Comics will not contact children under 13 about special offers or for marketing purposes without parental consent.
 
-**Archie Comics Entertainment will not send personally identifiable information about a child to other companies or people, UNLESS we are required to respond to subpoenas, court orders or legal process - to the extent permitted by law.
+**Archie Comics will not send personally identifiable information about a child to other companies or people, UNLESS we are required to respond to subpoenas, court orders or legal process - to the extent permitted by law.
 
 **Ability to Update or Delete Information.**
 
-** Parents or Legal Guardians are welcome to request deletion of any information we may have on their child. [(Click Here) ](https://web.archive.org/web/20090727082325id_/http%3A//www.archiecomics.com/talkback.html)
+** Parents or Legal Guardians are welcome to request deletion of any information we may have on their child. [(Click Here) ](https://web.archive.org/web/20100327091007id_/http%3A//www.archiecomics.com/website/talkback.html)
 
 ** Please note that information about a child may remain in back-up storage for some period of time after a request for deletion of that child's account. This may be the case even though no information about that account remains in our active user databases.
 
-**Archie Comics Entertainment's Use of 'Cookies'.**
+**Archie Comics's Use of 'Cookies'.**
 
-To enable many of the features available on our Website, we may assign cookies to your Internet browser. This unique identification number automatically identifies your browser (but not you) to our computers whenever you interact with one of our Internet domain names. When you visit our site, a cookie in effect says to our server computers "Hello, I'm browser #6426, what do you do just for me?" Only if you agree to provide information on yourself, which we normally discourage, would we be able to know anything about you other than the random number that our server computers assign to your browser in the first place. Cookies assist you, by assisting us in creating a record of your unique preferences. Archie Comics Entertainment would only use cookies to determine how many visitors we have and how often they have visited particular pages on this site. We would not use cookies to indirectly obtain a personal profile on individual visitors, as some Website Operators choose to do through the assistance of profiling software.
+To enable many of the features available on our Website, we may assign cookies to your Internet browser. This unique identification number automatically identifies your browser (but not you) to our computers whenever you interact with one of our Internet domain names. When you visit our site, a cookie in effect says to our server computers "Hello, I'm browser #6426, what do you do just for me?" Only if you agree to provide information on yourself, which we normally discourage, would we be able to know anything about you other than the random number that our server computers assign to your browser in the first place. Cookies assist you, by assisting us in creating a record of your unique preferences. Archie Comics would only use cookies to determine how many visitors we have and how often they have visited particular pages on this site. We would not use cookies to indirectly obtain a personal profile on individual visitors, as some Website Operators choose to do through the assistance of profiling software.
 
 Many people are confused about cookies, how they are used, and what they can do. Cookies are very small text files written by an Internet server to a customer's browser when information is exchanged. Cookies only contain information that the server computer "knew" in the first place and can only be read by the serving domain that placed them. Cookies are an essential part of how the Internet works today and allow servers to recognize your computer's browser when you return. If you have ever gone to a web page that automatically provides personalized content to you without requiring that you "log in," this is accomplished through the use of cookies. Since cookies are only text files, they cannot "run" on your computer and have no ability to search your computer for other information or transmit it to anyone. Cookies are implemented as part of the technology implemented by your web browser. 
 
@@ -62,5 +62,4 @@ If you have questions or concerns about this privacy policy, you can contact us 
 325 Fayette Ave.  
 Mamaroneck, New York 10543  
 Fax: 914-381-2335  
-[ Talkback](https://web.archive.org/web/20090727082325id_/http%3A//www.archiecomics.com/talkback.html)  
 
