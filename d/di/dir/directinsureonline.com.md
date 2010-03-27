@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directinsureonline.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230064327id_/http%3A//directinsureonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directinsureonline.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327100318id_/http%3A//directinsureonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Direct Insure Online – Buy Smart
 
