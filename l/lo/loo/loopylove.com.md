@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loopylove.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213085420id_/http%3A//www.loopylove.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopylove.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327222054id_/http%3A//www.loopylove.com/privacy.cfm) for the most accurate reproduction.*
 
-# Online Dating - Free to Join UK Singles Dating Site - Loopylove Dating Services
+# Your privacy and safety on Loopylove online dating
 
 We want you to know that we value your privacy, accordingly we have set out in this Privacy Policy how we use and store personal information. 
 
