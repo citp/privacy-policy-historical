@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linccweb.org privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111094313id_/http%3A//www.linccweb.org/cmn/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linccweb.org privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327230126id_/http%3A//www.linccweb.org/cmn/privacy.asp) for the most accurate reproduction.*
 
 # College Center for Library Automation - Privacy Statement
 
