@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duramerica.com privacy policy that was archived on 2009-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091026013403id_/http%3A//www.duramerica.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D62) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duramerica.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327071643id_/http%3A//www.duramerica.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D62) for the most accurate reproduction.*
 
 # Privacy
 
