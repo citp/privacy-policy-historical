@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directoryofglendale.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213141419id_/http%3A//www.directoryofglendale.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryofglendale.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328001517id_/http%3A//www.directoryofglendale.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Directory of Glendale - Privacy Policy
 
