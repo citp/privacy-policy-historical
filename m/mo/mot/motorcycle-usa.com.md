@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorcycle-usa.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608195153id_/http%3A//www.motorcycle-usa.com/167/Motorcycles/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorcycle-usa.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327030722id_/http%3A//www.motorcycle-usa.com/167/Motorcycles/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Motorcycle USA
 
@@ -41,5 +41,3 @@ Motorcycle USA reserves the right at its discretion to make changes to this Priv
 If you at any time have questions about this Privacy Policy, please send your question via email to [editor@motorcycle-usa.com.](mailto:editor@motorcycle-usa.com) or send via first class mail to Motorcycle USA, LLC.
 
 **LAST UPDATED: 09/14/2006**
-
-Copyright 2006 – Motorcycle USA, LLC. All rights reserved. 
