@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epson.co.uk privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108234733id_/http%3A//www.epson.co.uk/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epson.co.uk privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327142831id_/http%3A//www.epson.co.uk/Privacy-Policy) for the most accurate reproduction.*
 
 # Epson - Privacy Policy.
 
@@ -22,8 +22,8 @@ If you have any questions/comments about privacy, you should contact the person 
 
 The Company Secretary   
 Epson UK Limited  
-Campus 100   
-Maylands Avenue   
-Hemel Hempstead   
-Hertfordshire   
-HP2 7TJ 
+Westside, London Road  
+Apsley  
+Hemel Hempstead  
+Hertfordshire  
+HP3 9TD
