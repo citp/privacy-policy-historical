@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surefirewealth.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616091602id_/http%3A//www.surefirewealth.com/contents/%3Fpg%3Dprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surefirewealth.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327181959id_/http%3A//www.surefirewealth.com/goto/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
