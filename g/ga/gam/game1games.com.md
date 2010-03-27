@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game1games.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103223233id_/http%3A//www.game1games.com/index.php%3Fpageid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game1games.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327164156id_/http%3A//www.game1games.com/index.php%3Fpageid%3D3) for the most accurate reproduction.*
 
 # Privacy Policy // Game1Games.com
 
