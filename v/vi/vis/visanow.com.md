@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visanow.com privacy policy that was archived on 2009-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091005222144id_/http%3A//www.visanow.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visanow.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327064153id_/http%3A//visanow.com/privacy.asp) for the most accurate reproduction.*
 
 # VISANOW - Online Global Immigration and Visa Processing
 
@@ -9,7 +9,7 @@
 ---  
 |  |  |  |  | [](https://web.archive.org/index.asp)  
 ---  
-**Destination Country** |  | **Visa Required** |  [Login](https://web.archive.org/client/login.aspx)   |   1-888-4VISANW   
+|  |  [Login](https://web.archive.org/client/login.aspx)   |   1-888-4VISANW   
 |  |   
 |   
 ---  
