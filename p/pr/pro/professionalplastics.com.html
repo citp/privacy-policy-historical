@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the professionalplastics.com privacy policy that was archived on 2009-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091210094544id_/http%3A//www.professionalplastics.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the professionalplastics.com privacy policy that was archived on 2010-03-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100327222427id_/http%3A//www.professionalplastics.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
 
@@ -170,18 +170,41 @@ t.value = '';
 <tbody><tr><td class="hdr_trans"><img src="/professionalplastics/content/templates/main/main/hdr_newslettersignup.gif"></td></tr>
 <tr>
 <td class="side_body">
-	<script language="JavaScript">
-function validemailForm(NewsletterSignup){
-		if (NewsletterSignup.a11.value == "") {
-			alert ("You Must enter your email address.")
-			NewsletterSignup.a11.focus()
-			return false
-		}
+<script language="JavaScript">
+				function validemailForm(NewsletterSignup){
+					if(!check_email2(NewsletterSignup.a11.value)){
+							alert("You have entered an invalid email.");
+							NewsletterSignup.a11.focus(); 
+							if(document.all || document.getElementByID){
+							NewsletterSignup.a11.style.background = "yellow";
+							return false;
+							}
+							return false;
+					}
+					
+				return true
+				}
+				function check_email2(e) {
+							ok = "1234567890qwertyuiop[]asdfghjklzxcvbnm.@-_QWERTYUIOPASDFGHJKLZXCVBNM";
 
-		return true
-	}
+							for(i=0; i < e.length ;i++){
+							if(ok.indexOf(e.charAt(i))<0){ 
+							return (false);
+							}	
+							} 
 
-</script>
+							if (document.images) {
+							re = /(@.*@)|(\.\.)|(^\.)|(^@)|(@$)|(\.$)|(@\.)/;
+							re_two = /^.+\@(\[?)[a-zA-Z0-9\-\.]+\.([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;
+							if (!e.match(re) && e.match(re_two)) {
+							return (-1);		
+							} 
+
+							}
+
+						}
+								
+				</script>
 				
 <br>
 <form onsubmit="return validemailForm(this);" id="NewsletterSignup" name="NewsletterSignup" method="post" action="http://www.professionalplastics.com/cgi-bin/pp.pl">
@@ -211,9 +234,11 @@ function validemailForm(NewsletterSignup){
 </tr>
 </tbody></table>
 <br>
+<div style="text-align:center;">
 <img src="/professionalplastics/content/templates/main/main/cc_icon.gif" width="133" height="92" border="0" alt="">
-<div style="padding-left:20px">
-<br>
+<!-- START SCANALERT CODE -->
+<br><br><br><a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.professionalplastics.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.professionalplastics.com/31.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+<!-- END SCANALERT CODE -->
 </div>
 </td>
 </tr>
@@ -235,10 +260,12 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/ABSFORMINGGRADE-FR">ABS - Forming Grade (Flame Retardant)</a><br>
 <a class="hzl" href="/ABSSHEETFORMINGGRADE">ABS - Forming Grade (General Purpose)</a><br>
 <a class="hzl" href="/ACETAL-POMSHEET-RODS">Acetal Copolymer (POM)</a><br>
+<a class="hzl" href="/PLEXIGLASS-ACRYLICSHEET-EXTRUDED">ACRYLIC - <b>PLEXIGLASS SHEETS</b> - EXTRUDED</a><br>
 <a class="hzl" href="/Acrylic_PlexiglassProducts">ACRYLIC - <b>PLEXIGLASS Sheets, Rods &amp; Tubes</b> - Page Links</a><br>
 <a class="hzl" href="/DP-32">Acrylic DP-32 (FFV) Patterned Acrylic Sheet</a><br>
 <a class="hzl" href="/ACRYLICMIRROR">Acrylic Mirror - FABBACK acrylic mirror </a><br>
 <a class="hzl" href="/ACRYLITEP-99">Acrylic - Non-Glare Sheet (Acrylite® P-99)</a><br>
+<a class="hzl" href="/PLEXIGLASS-ACRYLICSHEET-CAST">ACRYLIC - PLEXIGLASS SHEETS - CAST</a><br>
 <a class="hzl" href="/ACRYLICSHEET-DECO">Acrylic Sheet - Decorative Styles</a><br>
 <a class="hzl" href="/ACRYLITEBR">Acrylite® BR acrylic sheet (Bullet-Resistant)</a><br>
 <a class="hzl" href="/ACRYLICOP-3SHEET">Acrylite® OP-3 &amp; OP-3 P-99 Sheet</a><br>
@@ -252,9 +279,12 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/ACRYLITERINKSHEILD">Acrylite® RinkShield™ acrylic sheet </a><br>
 <a class="hzl" href="/ACRYLICSIGNGRADESHEET">Acrylite® SG Sign Grade Acrylic</a><br>
 <a class="hzl" href="/ACRYLITESTERLING">Acrylite® Sterling - Metallic Acrylic Sheet</a><br>
+<a class="hzl" href="/AcryliteResist">ACRYLITE® Resist</a><br>
 <a class="hzl" href="/ACRYLICMIL-P-5425">Aircraft Grade Acrylic  -  Mil-P-5425 Sheet</a><br>
 <a class="hzl" href="/ARBORONSHEET">Arboron® Phenolic Laminate</a><br>
 <a class="hzl" href="/BOLTARON4125CPVC">Boltaron 4125 CPVC Sheet</a><br>
+<a class="hzl" href="/BOLTARON4225BRITEWHITECPVC">Boltaron 4225 Bright White CPVC</a><br>
+<a class="hzl" href="/Boltaron4325CPVCSheet">Boltaron 4325 Clear CPVC Sheet</a><br>
 <a class="hzl" href="/BOLATARON4330">Boltaron 4330 Sheet</a><br>
 <a class="hzl" href="/BOLTARON6800SHEET">Boltaron 6800® ABS/PVCSheet</a><br>
 <a class="hzl" href="/BOLTARON9815">Boltaron 9815 Sheet</a><br>
@@ -273,6 +303,7 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/CPVCSHEET-ROD">CPVC Sheet &amp; Rod</a><br>
 <a class="hzl" href="/HDPECUTTINGBOARD">Cutting Boards HDPE (Generic)</a><br>
 <a class="hzl" href="/DELRIN100AFSHEETROD">Delrin®  100AF - 20% PTFE (Custom Order)</a><br>
+<a class="hzl" href="/DELRINDE588">Delrin® AF- DE588</a><br>
 <a class="hzl" href="/DELRINAF">Delrin® AF Blend - 13% PTFE (Standard) </a><br>
 <a class="hzl" href="/DELRINSHEET-ROD">Delrin® Sheets &amp; Rods</a><br>
 <a class="hzl" href="/DENSETEC_HDPE_BORATED_POLYETHYLENE_SHEET">Densetec Borated HDPE SHEET</a><br>
@@ -281,6 +312,7 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/DENSETEC-HDPE-PLAYBOARD">Densetec HDPE Playground Board</a><br>
 <a class="hzl" href="/DENSETECMARINEBOARD">Densetec Marine Board</a><br>
 <a class="hzl" href="/DensetecPost-ConsumerHDPE-Sheet">Densetec ® Post-Consumer HDPE Sheet</a><br>
+<a class="hzl" href="/Densetec_TredSafe">Densetec® TredSafe</a><br>
 <a class="hzl" href="/DocumentCenter">Document Center - Library</a><br>
 <a class="hzl" href="/DURAPLEX">Duraplex® - Impact Modified Acrylic Reels</a><br>
 <a class="hzl" href="/DURAPLEXFLATSHEET">Duraplex® Impact Modified Flat Sheet</a><br>
@@ -320,6 +352,7 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/HYPALON">Hypalon®</a><br>
 <a class="hzl" href="/ISO9001-14001">ISO 9001 &amp; ISO 14001 Registration</a><br>
 <a class="hzl" href="/KAPA-BLOCSHEET">Kapa-Bloc® Sheet</a><br>
+<a class="hzl" href="/KaptolamPro">Kaptolam® Pro - Laminated Kapton®</a><br>
 <a class="hzl" href="/KELF-PCTFERODSHEETTUBE">Kel-F® - PCTFE</a><br>
 <a class="hzl" href="/KetronPEEK-Quadrant">Ketron® PEEK </a><br>
 <a class="hzl" href="/KETRONPEEK-CA30LSG">Ketron ® PEEK-CA30 LSG</a><br>
@@ -346,7 +379,7 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/KYNAR1000HD">Kynar® 1000HD PVDF Homopolymer</a><br>
 <a class="hzl" href="/KYNAR740">Kynar® 740 PVDF Sheet &amp; Rod</a><br>
 <a class="hzl" href="/Kytec-PVDF_Sheet">Kytec® PVDF </a><br>
-<a class="hzl" href="/LAST-A-FOAM-FR-7100">LAST-A-FOAM® FR-7100 Modeling Foam</a><br>
+<a class="hzl" href="/LASERFILTER">Laser Viewing Acrylic</a><br>
 <a class="hzl" href="/LATEXSHEETING">Latex Sheeting</a><br>
 <a class="hzl" href="/LDPEPOLYETHYLENE">LDPE - Low Density Polyethylene</a><br>
 <a class="hzl" href="/LEADEDACRYLIC">Leaded Acrylic Sheet - Radiation Shielding</a><br>
@@ -379,6 +412,8 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/Nomex_Honeycomb">Nomex Honeycomb</a><br>
 <a class="hzl" href="/NOMEXPAPER">Nomex® Aramid Paper</a><br>
 <a class="hzl" href="/NORYLEN265GFN3PPO">Noryl® EN265 &amp; GFN3  - PPO</a><br>
+<a class="hzl" href="/NYCAST-RX_GX">NYCAST® RX (Red) &amp; GX (Gray)</a><br>
+<a class="hzl" href="/NYCAST_XHA-BLUE">NYCAST® XHA-BLUE - Heat Stabilized</a><br>
 <a class="hzl" href="/Nylapro8000">Nylapro® 8000</a><br>
 <a class="hzl" href="/Nylapro6000">Nylapro® 6000</a><br>
 <a class="hzl" href="/NylatronMC501R6R2R9">Nylatron MC501 R6 R2, R9 &amp; AS R11</a><br>
@@ -387,10 +422,13 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/NYLATRONGSM">Nylatron® GSM Nylon</a><br>
 <a class="hzl" href="/NYLATRONGS">Nylatron® GS Nylon - Extruded</a><br>
 <a class="hzl" href="/NYLATRONNSM">Nylatron® NSM</a><br>
+<a class="hzl" href="/Nyloil_CastNylon">NYLOIL® - oil-filled cast nylon</a><br>
 <a class="hzl" href="/NYLONRODSHEETTUBE">Nylon® 6/6 Extruded, Unfilled</a><br>
 <a class="hzl" href="/NYLON6CASTRODSHEETTUBE">Nylon® - Cast, Unfilled</a><br>
 <a class="hzl" href="/NYLONMD">Nylon® - MD Filled</a><br>
 <a class="hzl" href="/Optix_AcrylicSheet">Optix® Acrylic Sheet</a><br>
+<a class="hzl" href="/PEEKGLASSFILLED30GF">PEEK - 30% Glass Filled</a><br>
+<a class="hzl" href="/VESTAKEEP-PEEK">PEEK Resin - Vestakeep® PEEK Resin &amp; Shapes</a><br>
 <a class="hzl" href="/PEEK_SHEET-ROD-BAR">PEEK - Sheets &amp; Rods</a><br>
 <a class="hzl" href="/PETG_Mirror">PETG Mirror</a><br>
 <a class="hzl" href="/PETGSHEET">PETG Sheet</a><br>
@@ -406,8 +444,6 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/Plavis-E-ConductivePolyimide">Plavis-E® Conductive Polyimide</a><br>
 <a class="hzl" href="/Plavis-ESd_ESd-Polyimide">Plavis ESd® - ESd Polyimide</a><br>
 <a class="hzl" href="/PLAVIS">Plavis® Polyimide Shapes</a><br>
-<a class="hzl" href="/PLEXIGLASS-ACRYLICSHEET-CAST">PLEXIGLASS - ACRYLIC SHEETS - CAST</a><br>
-<a class="hzl" href="/PLEXIGLASS-ACRYLICSHEET-EXTRUDED">PLEXIGLASS - ACRYLIC SHEETS - EXTRUDED</a><br>
 <a class="hzl" href="/PlexiglassPatioTableTops">Plexiglass Patio Table Tops - PatioGlass® Replacement Glass</a><br>
 <a class="hzl" href="/PLEXIGLASS">Plexiglass Sheet (also see Acrylic Sheet)</a><br>
 <a class="hzl" href="/POLYCARBONATESHEET">Polycarbonate GP Sheet - Glazing Grade</a><br>
@@ -417,6 +453,7 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/PolycarbonateSheetFlameRetardant">Polycarbonate Sheet - Flame Retardent - Makrolon® FI   </a><br>
 <a class="hzl" href="/POLYCARBONATETWINWALLSHEET">Polycarbonate Twin Wall Sheet</a><br>
 <a class="hzl" href="/POLYIMIDEFOAM">Polyimide Foam - Solimide</a><br>
+<a class="hzl" href="/Poly-MetalXPN_AluminumCompositePanel">Poly-Metal® XPN Aluminum Composite Panel</a><br>
 <a class="hzl" href="/POLYPROFR-CP5">Polypropylene FR - Flametec™ CP5 (FRPP)</a><br>
 <a class="hzl" href="/POLYPROFRCP7D">Polypropylene FR - Flametec™ CP7-D -FM 4910</a><br>
 <a class="hzl" href="/POLYPROPERF">Polypropylene - Perforated Sheet</a><br>
@@ -432,6 +469,7 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/POMALLOY_ESD_Acetal">Pomalloy® ESd - ESd Acetal</a><br>
 <a class="hzl" href="/PPS-POLYPHENYLENESULFIDE">PPS (Polyphylene Sulfide) Virgin &amp; GF 40% </a><br>
 <a class="hzl" href="/PrimoSpire">PrimoSpire® self-reinforced polyphenylene (SRP)</a><br>
+<a class="hzl" href="/Profine_R8000">Profine® R8000 Rigid PEI Socket Plate</a><br>
 <a class="hzl" href="/ProtoPEEK_5025-BearingGradePEEK">ProtoPEEK® 5025 Bearing Grade PEEK</a><br>
 <a class="hzl" href="/PVCEXPANDEDSHEET">PVC - Expanded Sheet</a><br>
 <a class="hzl" href="/PVCSheet-Clear">PVC Sheets - Clear</a><br>
@@ -472,6 +510,9 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/STATNOTESDG-10">StatNot™ MC511SN ESd G-10 Sheet</a><br>
 <a class="hzl" href="/SUMIKA-SUPER">Sumika Super S1000 - New !!</a><br>
 <a class="hzl" href="/Sustamid_6G_HS_BlueCastNylon">Sustamid 6G HS Blue Cast Nylon</a><br>
+<a class="hzl" href="/SustaPPO_Medical">Susta PPO MG (Noryl®)</a><br>
+<a class="hzl" href="/SustarinC_AcetalRochling">Sustarin® C MG Acetal Colors</a><br>
+<a class="hzl" href="/SustasonPPSU_RadelR">Sustason PPSU MG (Radel® R)</a><br>
 <a class="hzl" href="/SYMALITECTFEHALAR">Symalit® ECTFE Halar® Sheet</a><br>
 <a class="hzl" href="/TAKIRON_FMET4735">Takiron FMET 4735 FM New White PVC Sheet</a><br>
 <a class="hzl" href="/TakironFMET4315PVCSheet">Takiron FM Plate FMET 4315 (PVC) </a><br>
@@ -483,6 +524,8 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/TEFLONSHEETRODMECHANICALPTFE">Teflon ® PTFE Sheet &amp; Rod (Mechanical)</a><br>
 <a class="hzl" href="/TEFLONSHEETRODVIRGINPTFE">Teflon® PTFE Sheets &amp; Rods (VIRGIN Grade)</a><br>
 <a class="hzl" href="/TEFZEL-ETFESHEETSRODS">Tefzel® - ETFE Sheets &amp; Rods</a><br>
+<a class="hzl" href="/TIVAR_DockGuard">TIVAR® DockGuard</a><br>
+<a class="hzl" href="/TIVAR_OilFilledUHMW">TIVAR® Oil Filled UHMW-PE</a><br>
 <a class="hzl" href="/TIVAR">Tivar® 1000 UHMW </a><br>
 <a class="hzl" href="/TIVAR88">Tivar® 88</a><br>
 <a class="hzl" href="/TIVARANTISTAT">Tivar®  Anti Static UHMW</a><br>
@@ -491,6 +534,7 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/TIVARDRYSLIDE">Tivar® Dry Slide UHMW</a><br>
 <a class="hzl" href="/TIVARHOT">Tivar® H.O.T.</a><br>
 <a class="hzl" href="/T-Kore_Sheet">T-Kore Structural Composite Sheet</a><br>
+<a class="hzl" href="/Toralloy_MR502">Toralloy® MR-502 (low-moisture PAI)</a><br>
 <a class="hzl" href="/Torlon">Torlon® Overview</a><br>
 <a class="hzl" href="/TORLON4203">Torlon® 4203</a><br>
 <a class="hzl" href="/TORLON4301">Torlon® 4301</a><br>
@@ -507,8 +551,10 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/VESPEL-SP3-DUPONT">Vespel® SP-3</a><br>
 <a class="hzl" href="/Vespel-Meldin_TestSamples">Vespel® vs Meldin® Test Blanks</a><br>
 <a class="hzl" href="/Vespro6200-CR6200">Vespro® 6200</a><br>
+<a class="hzl" href="/VestakeepPEEK_ImplantGrade">VESTAKEEP® Implant I-Grades - Long-Term</a><br>
+<a class="hzl" href="/Vestakeep_PEEKMedicalGrade">VESTAKEEP® M2G, M4G, M4P Medical Grades </a><br>
 <a class="hzl" href="/VINYLSTRIPCURTAIN">Vinyl Strip Curtain</a><br>
-<a class="hzl" href="/VITON">Viton® fluoroelastomer</a><br>
+<a class="hzl" href="/VITON">Viton® fluoroelastomer Sheet</a><br>
 <a class="hzl" href="/VIVAKPETGSHEET">Vivak® PETG Sheet</a><br>
 <a class="hzl" href="/ZELUXWPOLYCARBONATE">Zelux® W - Polycarbonate Sheet</a><br>
 </ul>
@@ -525,6 +571,7 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/CPVCSHEET-ROD">CPVC Sheet &amp; Rod</a><br>
 <a class="hzl" href="/CPVC_WeldingRod">CPVC Welding Rod</a><br>
 <a class="hzl" href="/DELRIN100AFSHEETROD">Delrin®  100AF - 20% PTFE (Custom Order)</a><br>
+<a class="hzl" href="/DELRINDE588">Delrin® AF- DE588</a><br>
 <a class="hzl" href="/DELRINAF">Delrin® AF Blend - 13% PTFE (Standard) </a><br>
 <a class="hzl" href="/DELRINSHEET-ROD">Delrin® Sheets &amp; Rods</a><br>
 <a class="hzl" href="/DocumentCenter">Document Center - Library</a><br>
@@ -565,15 +612,20 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/MELDIN7211">Meldin® 7211 15% Graphite + 10% PTFE</a><br>
 <a class="hzl" href="/MYCALEXMYCROYMICA">Mycalex® Mica-filled ceramic</a><br>
 <a class="hzl" href="/NORYLEN265GFN3PPO">Noryl® EN265 &amp; GFN3  - PPO</a><br>
+<a class="hzl" href="/NYCAST-RX_GX">NYCAST® RX (Red) &amp; GX (Gray)</a><br>
+<a class="hzl" href="/NYCAST_XHA-BLUE">NYCAST® XHA-BLUE - Heat Stabilized</a><br>
 <a class="hzl" href="/Nylapro8000">Nylapro® 8000</a><br>
 <a class="hzl" href="/Nylapro6000">Nylapro® 6000</a><br>
 <a class="hzl" href="/NYLATRONGSMBLUE">Nylatron® GSM Blue Nylon</a><br>
 <a class="hzl" href="/NYLATRONGSM">Nylatron® GSM Nylon</a><br>
 <a class="hzl" href="/NYLATRONGS">Nylatron® GS Nylon - Extruded</a><br>
 <a class="hzl" href="/NYLATRONNSM">Nylatron® NSM</a><br>
+<a class="hzl" href="/Nyloil_CastNylon">NYLOIL® - oil-filled cast nylon</a><br>
 <a class="hzl" href="/NYLONRODSHEETTUBE">Nylon® 6/6 Extruded, Unfilled</a><br>
 <a class="hzl" href="/NYLON6CASTRODSHEETTUBE">Nylon® - Cast, Unfilled</a><br>
 <a class="hzl" href="/NYLONMD">Nylon® - MD Filled</a><br>
+<a class="hzl" href="/PEEKGLASSFILLED30GF">PEEK - 30% Glass Filled</a><br>
+<a class="hzl" href="/VESTAKEEP-PEEK">PEEK Resin - Vestakeep® PEEK Resin &amp; Shapes</a><br>
 <a class="hzl" href="/PEEK_SHEET-ROD-BAR">PEEK - Sheets &amp; Rods</a><br>
 <a class="hzl" href="/PFA-RODSHEETBAR">PFA Rods &amp; Sheets</a><br>
 <a class="hzl" href="/PHENOLICCANVASCEROD">Phenolic - Grade CE Canvas Rod</a><br>
@@ -604,6 +656,9 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/semi-produits_plastique">Semi-Produits Plastique</a><br>
 <a class="hzl" href="/SEMITRONESD225ACETAL">Semitron® ESd 225 - Acetal</a><br>
 <a class="hzl" href="/Sustamid_6G_HS_BlueCastNylon">Sustamid 6G HS Blue Cast Nylon</a><br>
+<a class="hzl" href="/SustaPPO_Medical">Susta PPO MG (Noryl®)</a><br>
+<a class="hzl" href="/SustarinC_AcetalRochling">Sustarin® C MG Acetal Colors</a><br>
+<a class="hzl" href="/SustasonPPSU_RadelR">Sustason PPSU MG (Radel® R)</a><br>
 <a class="hzl" href="/TECHTRONHPVLSG">Techtron ® HPV LSG</a><br>
 <a class="hzl" href="/TECHTRONHPV">Techtron®  HPV - Bearing Grade PPS</a><br>
 <a class="hzl" href="/TECHTRON-PPS">Techtron® PPS</a><br>
@@ -612,10 +667,12 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/TEFLONSHEETRODMECHANICALPTFE">Teflon ® PTFE Sheet &amp; Rod (Mechanical)</a><br>
 <a class="hzl" href="/TEFLONSHEETRODVIRGINPTFE">Teflon® PTFE Sheets &amp; Rods (VIRGIN Grade)</a><br>
 <a class="hzl" href="/TEFZEL-ETFESHEETSRODS">Tefzel® - ETFE Sheets &amp; Rods</a><br>
+<a class="hzl" href="/TIVAR_OilFilledUHMW">TIVAR® Oil Filled UHMW-PE</a><br>
 <a class="hzl" href="/TIVAR">Tivar® 1000 UHMW </a><br>
 <a class="hzl" href="/TIVARANTISTAT">Tivar®  Anti Static UHMW</a><br>
 <a class="hzl" href="/TIVARCERAMP">Tivar® Ceram P® </a><br>
 <a class="hzl" href="/TIVARCLEANSTAT">Tivar® CleanStat®</a><br>
+<a class="hzl" href="/Toralloy_MR502">Toralloy® MR-502 (low-moisture PAI)</a><br>
 <a class="hzl" href="/Torlon">Torlon® Overview</a><br>
 <a class="hzl" href="/TORLON4203">Torlon® 4203</a><br>
 <a class="hzl" href="/TORLON4301">Torlon® 4301</a><br>
@@ -632,6 +689,8 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/VESPEL-SP3-DUPONT">Vespel® SP-3</a><br>
 <a class="hzl" href="/Vespel-Meldin_TestSamples">Vespel® vs Meldin® Test Blanks</a><br>
 <a class="hzl" href="/Vespro6200-CR6200">Vespro® 6200</a><br>
+<a class="hzl" href="/VestakeepPEEK_ImplantGrade">VESTAKEEP® Implant I-Grades - Long-Term</a><br>
+<a class="hzl" href="/Vestakeep_PEEKMedicalGrade">VESTAKEEP® M2G, M4G, M4P Medical Grades </a><br>
 <a class="hzl" href="/WELDROD">Welding Rods - Plastic</a><br>
 </ul>
 </li>
@@ -642,6 +701,7 @@ function validemailForm(NewsletterSignup){
 <ul id="ulid3a"><a class="hzl" href="/ABSPIPE">ABS Pipe</a><br>
 <a class="hzl" href="/ACRYLICTUBES-CASTPLEXIGLASS">Acrylic Tubes - Cast</a><br>
 <a class="hzl" href="/ACRYLICTUBE-EXTRUDED">Acrylic Tubes - Extruded</a><br>
+<a class="hzl" href="/AcrylicTubeSquare">Acrylic Tubes - Square</a><br>
 <a class="hzl" href="/Air-Hose-Coupled-Air-Tak">Air-Tak Coupled Air Hose</a><br>
 <a class="hzl" href="/AMETEK_FluoropolymerTubing">AMETEK Fluoropolymer Tubing </a><br>
 <a class="hzl" href="/AquaKing-self-sinking-tubing">AquaKing self-sinking tubing</a><br>
@@ -663,6 +723,7 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/HEATSHRINKMYLAR">Heat Shrik Mylar&amp;Reg Tubing</a><br>
 <a class="hzl" href="/NEOPRENESHRINKTUBE">Heat Shrink Neoprene Tubing</a><br>
 <a class="hzl" href="/HeatTreatedFiberglassSleeving">Heat Treated Fiberglass Sleeving - 210 C</a><br>
+<a class="hzl" href="/HolograPEEK_XL">HolograPEEK XL ® - Holography Embossing Rollers</a><br>
 <a class="hzl" href="/HYPALON">Hypalon®</a><br>
 <a class="hzl" href="/ISO9001-14001">ISO 9001 &amp; ISO 14001 Registration</a><br>
 <a class="hzl" href="/KynarTubing_PVDFTubing">Kynar / PVDF Tubing - Semi-rigid</a><br>
@@ -748,6 +809,7 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/VINYLTUBING">Vinyl Tubing</a><br>
 <a class="hzl" href="/BRAIDEDVINYLTUBE">Vinyl Tubing - Braided - Reinforced</a><br>
 <a class="hzl" href="/VITON-HeatShrinkTubing">Viton® Heat Shrink Tubing</a><br>
+<a class="hzl" href="/VITON_Tubing">Viton® Tubing</a><br>
 <a class="hzl" href="/W3B2SHRINKTUBING">W3B2 (4X) 4:1 Shrink Tube</a><br>
 </ul>
 </li>
@@ -771,6 +833,7 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/EF-GRAV">Gravofoil® Labeling Film</a><br>
 <a class="hzl" href="/ISO9001-14001">ISO 9001 &amp; ISO 14001 Registration</a><br>
 <a class="hzl" href="/KALADEXPENFILM">Kaladex® PEN Film </a><br>
+<a class="hzl" href="/KaptolamPro">Kaptolam® Pro - Laminated Kapton®</a><br>
 <a class="hzl" href="/KAPTONFILMPOLYIMIDE">Kapton® Polyimide Film</a><br>
 <a class="hzl" href="/KAPTREXFN">Kaptrex® FN - Polyimide-FEP Film</a><br>
 <a class="hzl" href="/KAPTREX-POLYIMIDEFILM">Kaptrex® Polyimide Film</a><br>
@@ -821,6 +884,7 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/ACRYLICSQUARE">Acrylic Square Bar</a><br>
 <a class="hzl" href="/ACRYLICSTEPSTRIP">Acrylic Step Strip</a><br>
 <a class="hzl" href="/ACRYLICTRIANGULARBAR">Acrylic Triangular Bar</a><br>
+<a class="hzl" href="/AcrylicTubeSquare">Acrylic Tubes - Square</a><br>
 <a class="hzl" href="/ACRYLICUBAR">Acrylic U-Bar</a><br>
 <a class="hzl" href="/ACRYLICWBAR">Acrylic W-Bar</a><br>
 <a class="hzl" href="/ACRYLICZBAR">Acrylic Z-Bar</a><br>
@@ -846,6 +910,7 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/PVCANGLE">PVC Angle</a><br>
 <a class="hzl" href="/PVCHEXBAR">PVC Hexagonal Bar</a><br>
 <a class="hzl" href="/PVCSQUAREBAR">PVC Square Bar</a><br>
+<a class="hzl" href="/PVC_UChannel">PVC U-Channel</a><br>
 <a class="hzl" href="/FEEDERTUBINGT">Special T® - Automated Feeder Tubing</a><br>
 <a class="hzl" href="/TIVARSOLIDTRACK">Tivar® SolidTrack™</a><br>
 <a class="hzl" href="/UHMWPROFILES">UHMW Profiles- Guide Rails</a><br>
@@ -890,10 +955,10 @@ function validemailForm(NewsletterSignup){
 <div id="MAX_hzdiv2" class="MAX_hzdiva" onmouseover="roll_over('but7', '/professionalplastics/content/templates/main/main/hzm_manufacturers_h.jpg',7); hzm_over('ulid7a', 'ulid7b',7)" onmouseout="roll_over('but7', '/professionalplastics/content/templates/main/main/hzm_manufacturers.jpg',0); hzm_out('ulid7a', 'ulid7b')" onmouseenter="roll_over_ie('but7', '/professionalplastics/content/templates/main/main/hzm_manufacturers_h.jpg',7); hzm_over_ie('ulid7a', 'ulid7b',7)" onmouseleave="roll_over_ie('but7', '/professionalplastics/content/templates/main/main/hzm_manufacturers.jpg',0); hzm_out_ie('ulid7a', 'ulid7b')">
 <li><a href="/Featured-Manufacturer"><img src="/professionalplastics/content/templates/main/main/hzm_manufacturers.jpg" name="but7" border="0"></a>
 <div class="MAX_hzdivb" id="ulid7b"></div>
-<ul id="ulid7a"><a class="hzl" href="/Ametek_Fluoropolymer_Products">Ametek Fluoropolymer Products</a><br>
+<ul id="ulid7a"><a class="hzl" href="/AdvancedPolymerTechnologiesAPT">Advanced Polymer Technologies</a><br>
+<a class="hzl" href="/Ametek_Fluoropolymer_Products">Ametek Fluoropolymer Products</a><br>
 <a class="hzl" href="/BayerFilmsAmericas">Bayer Films Americas</a><br>
 <a class="hzl" href="/BoltaronPerformancePlastics">Boltaron Performance Plastics</a><br>
-<a class="hzl" href="/BusakShambanTrelleborgTurcite">Busak &amp; Shamban - Trelleborg Sealing Solutions</a><br>
 <a class="hzl" href="/CastNylonsLtd">Cast Nylons Ltd.</a><br>
 <a class="hzl" href="/CompressionPolymersCPG-Vycom">CPG-Vycom Scranton Products</a><br>
 <a class="hzl" href="/CyroIndustriesAcrylite">Cyro Industries</a><br>
@@ -914,7 +979,7 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/Polymer_Industries">Polymer Industries</a><br>
 <a class="hzl" href="/ProfessionalPlasticsInc">Professional Plastics, Inc.</a><br>
 <a class="hzl" href="/QuadrantEPPPlastics">Quadrant Engineering Plastic Products</a><br>
-<a class="hzl" href="/RochlingEngineeredPlastics">Rochling Engineered Plastics</a><br>
+<a class="hzl" href="/RochlingEngineeredPlastics">Rochling Engineering Plastics</a><br>
 <a class="hzl" href="/Meldin7000PolyimideShapes">Saint Gobain Meldin Division</a><br>
 <a class="hzl" href="/SaintGobainPerformancePlastics">Saint Gobain Performance Plastics</a><br>
 <a class="hzl" href="/SheffieldPlastics">Sheffield Plastics</a><br>
@@ -922,6 +987,8 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/SolvayAdvancedPolymers">Solvay Advanced Polymers</a><br>
 <a class="hzl" href="/Spartech-Royalite-PolycastPlastics">Spartech-Royalite - Polycast Plastics</a><br>
 <a class="hzl" href="/TakironCoLtd">Takiron Co. Ltd.</a><br>
+<a class="hzl" href="/BusakShambanTrelleborgTurcite">Trelleborg Sealing Solutions</a><br>
+<a class="hzl" href="/ZL_EngineeringPlastics">ZL Engineering Plastics</a><br>
 </ul>
 </li>
 </div>
@@ -931,7 +998,7 @@ function validemailForm(NewsletterSignup){
 <ul id="ulid8a"><a class="hzl" href="/Agriculture-Plastic">Agricultural</a><br>
 <a class="hzl" href="/PlasticAerospaceDefense">Aircraft - Aerospace &amp; Defense</a><br>
 <a class="hzl" href="/ConstructionGlazingPlastics">Construction &amp; Glazing</a><br>
-<a class="hzl" href="/ElectricalInsulating_WiringSleevingSheilding">Electrical Insulation - Wiring, Sleeving, Sheilding</a><br>
+<a class="hzl" href="/ElectricalInsulating_WiringSleevingSheilding">Electrical Insulation - Wiring, Sleeving</a><br>
 <a class="hzl" href="/PlasticElectronicsPrintedCircuits">Electronics &amp; Printed Circuits</a><br>
 <a class="hzl" href="/FoodHandlingEquipmentPlastics">Food Handling &amp; Equipment</a><br>
 <a class="hzl" href="/GlassManufacturingMaterials">Glass Manufacturing &amp; Handling</a><br>
@@ -1003,6 +1070,7 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/SchoolGlazingMRO_Supplies">MRO Supplies &amp; Glazing For Schools</a><br>
 <a class="hzl" href="/PackagingProductsPlastics">Packaging Products</a><br>
 <a class="hzl" href="/Phenolic-LaminatedProducts">Phenolic - Laminated Products</a><br>
+<a class="hzl" href="/PhotographySupplies_LightBoxStagingDiffusers">Photographic Supplies</a><br>
 <a class="hzl" href="/PlasticPipe-Industrial">Pipe - Industrial</a><br>
 <a class="hzl" href="/PipeValveFittingProductsPlastics">Pipe, Valve &amp; Fitting Products</a><br>
 <a class="hzl" href="/PlasticFabricatingToolsAccessories">Plastic Fabricating Tools &amp; Accessories</a><br>
@@ -1024,6 +1092,7 @@ function validemailForm(NewsletterSignup){
 <a class="hzl" href="/Vacuum-FormingMaterialsPlastics">Vacuum-Forming Materials</a><br>
 <a class="hzl" href="/WaveSolderPalletMaterials">Wave Solder Pallet Materials</a><br>
 <a class="hzl" href="/WeatherableFilmsPlastics">Weatherable Films</a><br>
+<a class="hzl" href="/WetBenchPlastics">Wet Bench Materials - Plastic</a><br>
 <a class="hzl" href="/WorkSurfaces-Countertop">Work Surfaces - Countertop</a><br>
 </ul>
 </li>
@@ -1092,7 +1161,7 @@ function validemailForm(NewsletterSignup){
 <td>&nbsp;</td>
 <td align="center" style="padding-top:20px;">
 <span class="footer"><a href="http://www.professionalplastics.com/privacy">Privacy Policy</a> | <a href="http://www.professionalplastics.com/terms-condition">Terms and Conditions</a> | <a href="http://www.professionalplastics.com/browser-requirement">Browser Requirements</a> | <a href="http://www.professionalplastics.com/site-map">Site Map</a></span>
-<br><br>©Copyright 2009, Professional Plastics  All Rights Reserved
+<br><br>©Copyright 2010, Professional Plastics  All Rights Reserved
 <br><br><a href="http://www.sandiegomedia.com" style="font-size:10px;color:#ccc;text-decoration: none" target="_blank" rel="nofollow">Powered by  <img src="/professionalplastics/content/templates/main/main/power_logo-75px.gif" width="75" height="19" border="0" alt="San Diego Media MaxEXP" align="absmiddle"></a>
 </td>
 </tr>
@@ -1144,7 +1213,9 @@ display: none;
 <center><img src="/professionalplastics/content/templates/main/main/noscript.gif" alt="noscript"></center>
 </noscript>
 
-
+<!-- START Net-Results Capture Code -->
+<script src="https://nr7.us/apps/?p=2176"></script>
+<!-- END Net-Results Capture Code --> 
 
 
 </body></html>
