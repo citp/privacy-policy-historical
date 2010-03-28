@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlanticdrugs.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526051121id_/http%3A//www.atlanticdrugs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlanticdrugs.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329012633id_/http%3A//www.atlanticdrugs.com/privacy.html) for the most accurate reproduction.*
 
 # AtlanticDrugs - Privacy Policy
 
