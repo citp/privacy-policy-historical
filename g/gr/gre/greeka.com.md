@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greeka.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417081106id_/http%3A//www.greeka.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greeka.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328205207id_/http%3A//www.greeka.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Greeka.com: Privacy Policy
 
