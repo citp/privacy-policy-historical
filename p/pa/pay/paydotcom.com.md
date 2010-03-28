@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the paydotcom.com privacy policy that was archived on 2009-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090122073453id_/http%3A//paydotcom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydotcom.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328162825id_/http%3A//www.paydotcom.com/privacy.php) for the most accurate reproduction.*
 
 # Sell Products Online, Sell Online, Affiliate Marketplace, Sell Products Online With Paypal, Affiliate Marketing, Merchant Accounts, Free Product Listing, Digital Products, Affiliate Network, Promote Products, Sell eBooks Online, Sell Software Online, Sell Digital Products Online, Merchant Account, Affiliates, Sell Books Online, Start your homebased business today. Paydotcom.com
 
 | 
 
-[ ](https://web.archive.org/web/20090122073453id_/http%3A//paydotcom.com/widgetlp.php)  
+[ ](https://web.archive.org/web/20100328162825id_/http%3A//www.paydotcom.com/widgetlp.php)  
 
 
   
@@ -14,33 +14,9 @@ Sponsored Links
 |   
 ---  
   
-Make Up To $2,000 Per Day With Your FREE Affiliate Website. Only 17 Left  
+Doing simple data entry will earn you a very nice income.  
   
-http://www.freesitesignup.com/a/coupon.php?id=4952  
-  
-* * *  
-  
----  
-  
-Free report reveals how to flood your account with $900 payments easily!  
-  
-www.hiddenpassiveincome.com  
-  
-* * *  
-  
----  
-  
-Complete Kit Sell Your Home even in a down market at the price you want  
-  
-www.optionstocash.com/leaseoption.html?id=maxeyv  
-  
-* * *  
-  
----  
-  
-And Make Money TODAY! Get $375 In Free Advertising And $100 Sign Up Bonus  
-  
-http://www.freesitesignup.com/a/coupon.php?id=639  
+http://is.gd/5vE0D  
   
 * * *  
   
@@ -50,7 +26,7 @@ PAYDOTCOM
 
 **PRIVACY POLICY**
 
-[For addition legal information, please see Our Terms page.](https://web.archive.org/web/20090122073453id_/http%3A//paydotcom.com/terms.php)
+[For addition legal information, please see Our Terms page.](https://web.archive.org/web/20100328162825id_/http%3A//www.paydotcom.com/terms.php)
 
 **_Definitions_**
 
