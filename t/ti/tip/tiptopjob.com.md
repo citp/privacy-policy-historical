@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiptopjob.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214231359id_/http%3A//www.tiptopjob.com/displaycontent/sectionid/16/contentid/331_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiptopjob.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328012134id_/http%3A//www.tiptopjob.com/displaycontent/sectionid/16/contentid/331_privacy) for the most accurate reproduction.*
 
 # Privacy
 
