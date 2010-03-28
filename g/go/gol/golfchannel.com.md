@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the golfchannel.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608173814id_/http%3A//www.thegolfchannel.com/core.aspx%3Fpage%3D15100%26select%3D1297) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfchannel.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328142351id_/http%3A//www.thegolfchannel.com/privacy) for the most accurate reproduction.*
 
-# TGC - Privacy Policy - December 20, 2000
+# TGC - Privacy Policy - TGC - Golf News & Articles | Golf Channel
 
 TheGolfChannel.com's PRIVACY POLICY
 
