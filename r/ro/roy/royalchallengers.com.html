@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the royalchallengers.com privacy policy that was archived on 2009-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091210174907id_/http%3A//www.royalchallengers.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the royalchallengers.com privacy policy that was archived on 2010-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100328043223id_/http%3A//www.royalchallengers.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <!-- rcb header include -->
@@ -22,11 +22,11 @@ Royal Challengers Bangalore Official Website
 
 <!-- /rcb header include -->
 
-<link rel="stylesheet" type="text/css" href="http://www.royalchallengers.com/ee/index.php?css=rcb_css/home_new.v.1260290987">
-<link rel="stylesheet" type="text/css" href="http://www.royalchallengers.com/ee/index.php?css=rcb_css/team.v.1260474551">
-<link rel="stylesheet" type="text/css" href="http://www.royalchallengers.com/ee/index.php?css=rcb_css/global.v.1260471996">
-<link rel="stylesheet" type="text/css" href="http://www.royalchallengers.com/ee/index.php?css=rcb_css/liquid_box.v.1253636809">
-<link rel="stylesheet" type="text/css" href="http://www.royalchallengers.com/ee/index.php?css=rcb_css/gallery.v.1260452749">
+<link rel="stylesheet" type="text/css" href="http://www.royalchallengers.com/ee/index.php?css=rcb_css/home_new.v.1269543046">
+<link rel="stylesheet" type="text/css" href="http://www.royalchallengers.com/ee/index.php?css=rcb_css/team.v.1261061831">
+<link rel="stylesheet" type="text/css" href="http://www.royalchallengers.com/ee/index.php?css=rcb_css/global.v.1267713191">
+<link rel="stylesheet" type="text/css" href="http://www.royalchallengers.com/ee/index.php?css=rcb_css/liquid_box.v.1260992154">
+<link rel="stylesheet" type="text/css" href="http://www.royalchallengers.com/ee/index.php?css=rcb_css/gallery.v.1262625843">
 
 <script type="text/javascript" src="http://www.royalchallengers.com/js/ajax.js"></script>
 <script type="text/javascript" src="http://www.royalchallengers.com/js/imagegallery.js"></script>
@@ -36,14 +36,177 @@ Royal Challengers Bangalore Official Website
 <!--[if lte IE 6]>
 <script type="text/javascript" src="http://www.royalchallengers.com/js/unitpngfix.js"></script>
 <![endif]-->
+<script type="text/javascript"> 
+//Floating stuff
+var ns = (navigator.appName.indexOf("Netscape") != -1);
+var d = document;
+var px = document.layers ? "" : "px";
+function JSFX_FloatDiv(id, sx, sy)
+{
+	var el=d.getElementById?d.getElementById(id):d.all?d.all[id]:d.layers[id];
+	window[id + "_obj"] = el;
+	if(d.layers)el.style=el;
+	el.cx = el.sx = sx;el.cy = el.sy = sy;
+	el.sP=function(x,y){this.style.left=x+px;this.style.top=y+px;};
+	el.flt=function()
+	{              var pX, pY;
+		pX = (this.sx >= 0) ? 0 : ns ? innerWidth : 
+		document.documentElement && document.documentElement.clientWidth ? 
+		document.documentElement.clientWidth : document.body.clientWidth;
+		pY = ns ? pageYOffset : document.documentElement && document.documentElement.scrollTop ? 
+		document.documentElement.scrollTop : document.body.scrollTop;
+		if(this.sy<0) 
+		pY += ns ? innerHeight : document.documentElement && document.documentElement.clientHeight ? 
+		document.documentElement.clientHeight : document.body.clientHeight;
+		this.cx += (pX + this.sx - this.cx)/8;this.cy += (pY + this.sy - this.cy)/8;
+		this.sP(this.cx, this.cy);
+		setTimeout(this.id + "_obj.flt()", 40);
+	}
+	return el;
+}
+
+</script>
+<script src="http://www.royalchallengers.com/js/common.js" language="javascript"></script>
+<script src="http://www.royalchallengers.com/js/ajax.js" language="javascript"></script>
+<script>
+//Preload ajax image
+pic1= new Image(16,11); 
+pic1.src="http://www.royalchallengers.com/images/misc/ajax-loader-homechat.gif"; 
+
+var awaiting_mod = 0;
+function showAjaxGif(pId){
+   document.getElementById("ajaxgif_"+pId).innerHTML="<img src='http://www.royalchallengers.com/images/misc/admin-ajax-loader1.gif'/>";
+}
+function postDataCb(pResponse){
+    document.getElementById("div_"+pResponse).style.display="none";
+    awaiting_mod -= 1;
+//    document.getElementById('tc_awaitmod').innerHTML = '<span style="background-color:#FFE303">'+awaiting_mod+'</span>';
+}
+</script>
+<style>
+.dvAppRp  {padding: 10px; background-color: rgb(204, 204, 204); width: 620px; margin:20px auto; font-family:Arial, Helvetica, sans-serif; font-size:11px;}
+.dvAppRp .btn {padding:2px; font-weight:bold; color:#fff; background-color:#b41117; font-size:11px;width:100px; float:left; margin-right:10px;}
+.dvAppRp .btn2 {padding:2px; font-weight:bold; color:#fff; background-color:#b41117; font-size:11px;width:100px; float:left; margin-right:3px; }
+.dvAppRp .btn3 {padding:8px; font-weight:bold; color:#fff; background-color:#b41117; font-size:11px;width:100px; float:left; margin-right:10px; }
+.dvAppRp .ajaxgif {padding:2px; width:100px; float:left; margin:8px 4px 4px 4px}
+.dvAppRp .btn3 {padding:2px; font-weight:bold; color:#fff; background-color:#b41117; font-size:11px;width:auto; float:left; margin:25px 0 0 0; }
+.dvAppRp .bdr {border:2px solid #666666}
+.dvAppRp .dvLft {float:left; width:290px; }
+.dvAppRp .dvLft .profiledet {font-weight: bold; font-size: 14px; float:left; padding-right:25px;  width:180px;}
+.dvAppRp .dvLft .profiledet .belowtxt {padding:10px 0; font-size:11px; font-weight:normal;}
+.dvAppRp .dvLft .profiledph  {float:left;}
+.dvAppRp .dvRht {float:right; width:290px; }
+</style>
 </head>
 <body>
+<div id="feedbackdiv" style="position: absolute; left: 0px; top: 200px;"><a href="http://www.royalchallengers.com/forums/viewforum/17/"><img src="http://www.royalchallengers.com/images/feedback_tab_white.gif"></a></div>
+ <script>
+JSFX_FloatDiv("feedbackdiv", 0,   200).flt();
+</script>
   <div class="headerTile">
 <div class="main_bg"> 
 <div class="mainContainer">
   <div class="main_wrapper">
     <!-- rcb header include -->
-        <script src="http://www.royalchallengers.com/js/cookie.js"></script>
+    <style>
+.dvBgLoginHd {
+	height:21px;
+	width:100%;
+	border-bottom:1px solid #a54409
+}
+.dvBgLoginHd .inner {
+	font-size:11px;
+	font-family:"Trebuchet MS"
+}
+html* .dvBgLoginHd .inner { margin:-1px 0 0 0; }
+
+.dvBgLoginHd .wd {
+	width:969px;
+	color:#f1ac2b;
+	margin:auto
+}
+.dvBgLoginHd .wd a {
+	color:#f1ac2b;
+	text-decoration:none;
+	font-size:12px;
+}
+.dvBgLoginHd .wd a:hover {
+	color:#f1ac2b;
+	text-decoration:underline
+}
+.dvBgLoginHd .wd .lft {
+	float:left;
+	padding:1px 0 0 0
+}
+.dvBgLoginHd .wd .rht {
+	float:right;
+	padding:1px 0 0 0; color:#FFFFFF
+}
+body {
+	background:url(http://www.royalchallengers.com/images/green/bghome04.jpg) 0 22px #520105 repeat-x!important;
+	font-size:13px;
+	margin:0;
+	padding:0;
+	text-align:center;
+	background-position: top center!important;
+
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {  .dvgifanimation { margin:-20px -155px 0 -50px!important; position:absolute; -index:10; } }
+.dvgifanimation {margin:-16px 0 0 -78px; position:absolute }
+
+.gogreen {margin:-51px 0 0 -0px; position:absolute }
+
+.dvtable {width: 910px; }
+html* .dvtable {width: 960px; }
+.dvPosition {margin:5px 0 0 -425px; position:absolute;}
+*html .dvPosition {margin:0px 0 0 -420px; position:absolute; }
+</style>
+<div class="dvBgLoginHd">
+  <div class="inner">
+    <div class="wd">
+      <div class="lft">
+<a href="http://www.royalchallengers.com/blog/rcb-game-for-green.-pledge-your-support-too" target="_blank">Click here to pledge your support for the Go Green Sapling Project</a>
+</div>
+      <div class="rht">                <script>
+var interval1;
+
+function setMusicCookie()
+{
+setCookie('ismusicstopped',1,1000);
+document.getElementById("musicoffspan").style.display="";
+interval1 = setInterval("showmessage()",3000);
+}
+
+function unsetMusicCookie()
+{
+setCookie('ismusicstopped',0,1000);
+}
+
+function showmessage()
+{
+
+clearInterval(interval1);
+document.getElementById("musicoffspan").style.display="none";
+
+}
+
+
+//setMusicCookie();
+          </script>
+                <script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"></script>
+        <script type="text/javascript">
+   FB.init("4ada9b0aaa997542762d3495437ad662","http://www.royalchallengers.com/xd_receiver.htm");
+          </script>
+        <div style="padding:2px 0 0 0;  float:left"><span id="loginbutton">
+          <fb:login-button onlogin="loginDone();"></fb:login-button>
+          </span> &nbsp;</div>
+      <a href="http://www.royalchallengers.com/login">Login</a> | <a href="http://www.royalchallengers.com/signup">Join Now</a> </div>
+      <div style="clear:both"></div>
+    </div>
+    <div style="clear:both"></div>
+  </div>
+</div>
+<script src="http://www.royalchallengers.com/js/cookie.js"></script>
 <script>
 function refresh_page(){
 //alert('hello');
@@ -60,7 +223,7 @@ setCookie("token",api.get_session().uid,1);
 window.location = "http://www.royalchallengers.com/ee/index.php/fbconnect/fbconn_login/"+api.get_session().uid;
 }
 </script>
- <style>
+<style>
 
 
  
@@ -69,73 +232,68 @@ window.location = "http://www.royalchallengers.com/ee/index.php/fbconnect/fbconn
 
 
 </style>
-  
 
-<link rel="shortcut icon" href="http://www.royalchallengers.com/images/favicon.ico">
+<link rel="shortcut icon" href="http://cdn.royalchallengers.com/images/favicon.ico">
+<style>
+
+
+
+.dvBgLoginHd { height:21px; width:100%;  }
+.dvBgLoginHd .inner { font-size:11px; font-family:"Trebuchet MS"   }
+.dvBgLoginHd .wd { width:969px; color:#f1ac2b; margin:auto  }
+.dvBgLoginHd .wd a { color:#ffffff; text-decoration:none ; font-size:12px; }
+.dvBgLoginHd .wd a:hover { color:#ffffff; text-decoration:underline  }
+.dvBgLoginHd .wd .lft { float:left; padding:2px 0 0 0  }
+.dvBgLoginHd .wd .rht { float:right; padding:2px 0 0 0   }
+
+</style>
 <div class="dvHdNew" style="height:200px;">
-  <div class="dvHdNewLogo"><a href="http://www.royalchallengers.com/"><img src="http://cdn.royalchallengers.com/images/logo.gif" border="0" alt="Royal Challengers - Bangalore "></a></div>
-  <div class="dvHdNewMid">
-    <div class="Midbg"><a href="http://www.royalchallengers.com/"><img src="http://cdn.royalchallengers.com/images/headertitle02.jpg" border="0" alt="Royal Challengers - Bangalore "></a></div>
-    <table width="242">
+<div class="dvHdNewLogo"><a href="http://www.royalchallengers.com/"><img src="http://www.royalchallengers.com/images/royal-challengers-bangalore2.gif" border="0" alt="Royal Challengers - Bangalore "></a></div>
+<div class="dvHdNewMid">
+  <div class="Midbg"><a href="http://www.royalchallengers.com/"><img src="http://cdn.royalchallengers.com/images/headertitle02.jpg" border="0" alt="Royal Challengers - Bangalore "></a></div>
+  <table width="302">
+    <tbody><tr>
+      <td align="left" valign="middle">
+        <div style="float:left; padding:12px 0 0 0 ">
+          <object width="40" height="20">
+             <param name="movie" value="http://www.royalchallengers.com/flash/anthem/anthem_play4.swf" wmode="transparent"> <param name="allowScriptAccess" value="always">
+                  <embed src="http://www.royalchallengers.com/flash/anthem/anthem_play4.swf" width="40" height="20" allowscriptaccess="always" wmode="transparent">            </object>
+          <span id="musicoffspan" style="display:none;color: rgb(241, 172, 43); font-size: 12px;">Music will remain off until you turn it back on</span>
+        </div></td>
+    </tr>
+  </tbody></table>
+  <div style="clear:both;"></div>
+</div>
+<div class="dvHdNewRht"> <a href="http://www.royalchallengers.com/player/rahul-dravid" style="border:0px solid #ccc; display:block; padding:0px; position:absolute; margin:25px 0 0 68px;" alt="Rahul Dravid" title="Rahul Dravid"> <img src="http://www.royalchallengers.com/images/clear.gif" width="90" height="90"> </a> <a href="http://www.royalchallengers.com/player/anil-kumble" style="border:0px solid #ccc; display:block; padding:0px; position:absolute; margin:25px 0 0 185px; " alt="Anil Kumble" title="Anil Kumble"> <img src="http://www.royalchallengers.com/images/clear.gif" width="90" height="90"> </a> <a href="http://www.royalchallengers.com/player/virat-kohli" style="border:0px solid #ccc; display:block; padding:0px; position:absolute; margin:25px 0 0 310px; " alt="Virat Kohli" title="Virat Kohli"> <img src="http://www.royalchallengers.com/images/clear.gif" width="90" height="90"> </a>
+  <div><img src="http://cdn.royalchallengers.com/images/rollingImg02.jpg?1345667788762323223232" alt="Royal Challengers - Bangalore "></div>
+  <div style="" class="dvPosition">
+    <table width="" class="dvtable">
       <tbody><tr>
-        <td align="left" valign="middle"><div class="dvloginedit" style="float:left; padding-right:3px;">
-            <div class="dvlftcrv"><img src="http://cdn.royalchallengers.com/images/lftcrv.gif"></div>
-            <div class="dvrhtcrv">
-            <div class="inner">     
-                
-                 
-<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"></script>
-<script type="text/javascript">
-   FB.init("4ada9b0aaa997542762d3495437ad662","http://www.royalchallengers.com/xd_receiver.htm");
-</script>
-<div style="padding:2px 0 0 0;  float:left"><span id="loginbutton"><fb:login-button onlogin="loginDone();"></fb:login-button></span> &nbsp;</div>
-<a href="http://www.royalchallengers.com/login">Login</a> | <a href="http://www.royalchallengers.com/signup">Join Now</a> 
-                </div>
-            </div>
-          </div>      
-              <div style="float:left; padding:12px 0 0 0 ">
-                <object width="40" height="20">
-                    
-                  
-                  <param name="movie" value="http://cdn.royalchallengers.com/flash/anthem/anthem_play1.swf" wmode="transparent">
-                  <embed src="http://cdn.royalchallengers.com/flash/anthem/anthem_play1.swf" width="40" height="20" wmode="transparent"> 
-                  
-                </object>      
-              </div></td>
+        <td><ul>
+            <li class="unSel"><a href="http://www.royalchallengers.com/" class="homeSel">HOME</a></li>
+            <li class="unSel"><a href="http://www.royalchallengers.com/fan-club" class="fanclub">FAN&nbsp;CLUB</a></li>
+            <li class="unSel"><a href="http://www.royalchallengers.com/dlf-ipl-2010" class="FC">DLF&nbsp;IPL&nbsp;2010</a><!--<img src="http://www.royalchallengers.com/images/new-iconanimate.gif" style="" class="dvgifanimation"/>--></li>
+            <li class="unSel"><a href="http://www.royalchallengers.com/team" class="team">TEAM</a><img src="http://www.royalchallengers.com/images/newscores.gif" style="" class="dvgifanimation"></li>
+            <li class="unSel"><a href="http://www.royalchallengers.com/news" class="news">NEWS</a></li>
+            <li class="unSel"><a href="http://www.royalchallengers.com/mischief-gals" class="MG">MISCHIEF&nbsp;GALS</a><!--<img src="http://www.royalchallengers.com/images/animationgif.gif" style="" class="dvgifanimation"/>--></li>
+            <li class="unSel"><a href="http://kingclub.flykingfisher.com/rcbjsps/login.jsp" class="" target="_blank">KING&nbsp;CLUB</a></li>
+            <li class="unSel"><a href="http://www.royalchallengers.com/photos" class="PH">PHOTOS</a></li>
+            <li class="unSel"><a href="http://www.royalchallengers.com/blogs" class="Blog">ALL&nbsp;BLOGS</a></li>
+            <li class="unSel"><a href="http://www.royalchallengers.com/cricket-games" class="FM">GAMES</a></li>
+          <li class="unSel"><a href="http://www.royalchallengers.com/m14updates" class="FCC">MIGHTY&nbsp;14</a></li>
+ <li class="unSel"><a href="http://www.royalchallengers.com/go-green"><img src="http://www.royalchallengers.com/images/gogreen/gogreentab02.gif" style="margin:-13px 0 0 0; position:relative" class=" " alt="Go Green"></a></li>  
+             
+            
+            <!-- <li class="unSel"><a href="http://www.royalchallengers.com/cricket-online-contests/ffc2/featured-applications" class="FCC">FFC 2</a><img src="http://cdn.royalchallengers.com/images/new-iconanimate.gif" style="margin:-16px 0 0 -27px; position:absolute"/></li> -->
+            
+          </ul></td>
       </tr>
     </tbody></table>
-    <div style="clear:both;"></div>
   </div>
-  <div class="dvHdNewRht">
-    <div><img src="http://cdn.royalchallengers.com/images/rollingImg02.jpg" alt="Royal Challengers - Bangalore "></div>
-    <div style="" class="dvPosition">
-      <table width="" class="dvtable">
-        <tbody><tr>
-          <td><ul>
-              <li class="unSel"><a href="http://www.royalchallengers.com/" class="homeSel">HOME</a></li>
-              <li class="unSel"><a href="http://www.royalchallengers.com/fan-club" class="fanclub">FAN&nbsp;CLUB</a></li>
-              <li class="unSel"><a href="http://www.royalchallengers.com/team" class="team">TEAM</a></li>
-              <li class="unSel"><a href="http://www.royalchallengers.com/news" class="news">NEWS</a></li>
-              <li class="unSel"><a href="http://www.royalchallengers.com/mischief-gals" class="MG">MISCHIEF&nbsp;GALS</a></li>
-              <li class="unSel"><a href="http://kingclub.flykingfisher.com/rcbjsps/login.jsp" class="">KING&nbsp;CLUB</a></li>
-              <li class="unSel"><a href="http://www.royalchallengers.com/photos" class="PH">PHOTOS</a></li>
-              <li class="unSel"><a href="http://www.royalchallengers.com/blogs" class="Blog">BLOG</a></li>
-              <li class="unSel"><a href="http://www.royalchallengers.com/forums" class="FM">FORUM</a></li>
-              <li class="unSel"><a href="http://www.royalchallengers.com/future-challengers" class="FC">FUTURE&nbsp;CHALLENGERS</a><img src="http://cdn.royalchallengers.com/images/new-icon.gif" style="margin:-16px 0 0 -27px; position:absolute"></li>
-            </ul></td>
-        </tr>
-      </tbody></table>
-    </div>
-  </div>
-
- <div style="clear:both"></div>
-  <div class="dvPositionbtm"><img src="http://cdn.royalchallengers.com/images/btmline.jpg"></div>
-  <div style="clear:both"></div>
- 
-
-
-
-
+</div>
+<div style="clear:both"></div>
+<div class="dvPositionbtm"><img src="http://cdn.royalchallengers.com/images/btmline.jpg"></div>
+<div style="clear:both"></div>
 </div>
 
     <!-- /rcb header include -->
@@ -231,7 +389,7 @@ window.location = "http://www.royalchallengers.com/ee/index.php/fbconnect/fbconn
     <div class="divider"></div>
     <h3>Children's Privacy</h3>
     <p><a href="http://www.royalchallengers.com/" target="_self">www.royalchallengers.com</a> does not knowingly intend to collect personal information from children under 13 years of age.<br>
-      If a child has provided us with personal information a parent or guardian of that child may contact us at <span id="eeEncEmail_9eeVlVQTg7"><a href="mailto:rcbsupport@royalchallengers.com">rcbsupport@royalchallengers.com</a></span><script type="text/javascript">
+      If a child has provided us with personal information a parent or guardian of that child may contact us at <span id="eeEncEmail_fVBFekddqF"><a href="mailto:rcbsupport@royalchallengers.com">rcbsupport@royalchallengers.com</a></span><script type="text/javascript">
 //<![CDATA[
 var l=new Array();
 var output = '';
@@ -240,13 +398,13 @@ for (var i = l.length-1; i >= 0; i=i-1){
 if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; 
 else output += unescape(l[i]);
 }
-document.getElementById('eeEncEmail_9eeVlVQTg7').innerHTML = output;
+document.getElementById('eeEncEmail_fVBFekddqF').innerHTML = output;
 //]]>
 </script> if they want this information deleted from our records. We will then make reasonable efforts to delete the child's information from the database that stores information for <a href="http://www.royalchallengers.com/" target="_self">www.royalchallengers.com</a>.</p>
     <p>&nbsp;</p>
     <div class="divider"></div>
     <h3>Contacting Us</h3>
-    <p>If you have any questions, comments or concerns about this online privacy statement for <a href="http://www.royalchallengers.com/" target="_self">www.royalchallengers.com</a>, <a href="http://www.royalchallengers.com/" target="_self">www.royalchallengers.com</a> privacy practices, or have any questions regarding the contents of this website please contact us at <span id="eeEncEmail_60flTurA2q"><a href="mailto:rcbsupport@royalchallengers.com">rcbsupport@royalchallengers.com</a></span><script type="text/javascript">
+    <p>If you have any questions, comments or concerns about this online privacy statement for <a href="http://www.royalchallengers.com/" target="_self">www.royalchallengers.com</a>, <a href="http://www.royalchallengers.com/" target="_self">www.royalchallengers.com</a> privacy practices, or have any questions regarding the contents of this website please contact us at <span id="eeEncEmail_Dp3o6ZXC9A"><a href="mailto:rcbsupport@royalchallengers.com">rcbsupport@royalchallengers.com</a></span><script type="text/javascript">
 //<![CDATA[
 var l=new Array();
 var output = '';
@@ -255,7 +413,7 @@ for (var i = l.length-1; i >= 0; i=i-1){
 if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; 
 else output += unescape(l[i]);
 }
-document.getElementById('eeEncEmail_60flTurA2q').innerHTML = output;
+document.getElementById('eeEncEmail_Dp3o6ZXC9A').innerHTML = output;
 //]]>
 </script>. <a href="http://www.royalchallengers.com/" target="_self">www.royalchallengers.com</a> is committed to working with consumers to obtain a fair and rapid resolution of any complaints or disputes about privacy and the handling of your data. <a href="http://www.royalchallengers.com/" target="_self">www.royalchallengers.com</a> will be happy to respond to your questions and comments.</p>
     <p>&nbsp;</p>
@@ -307,7 +465,7 @@ document.getElementById('eeEncEmail_60flTurA2q').innerHTML = output;
       <tbody><tr>
         <td width="235" height="26" align="left" valign="middle" class="hdtxt Padl10"><div class="floatLtxt"><a href="http://www.royalchallengers.com/forums">Discussion Forum</a></div>
           <div class="rssIcon"><a href="http://www.royalchallengers.com/ee/index.php/forum/rss/" target="_blank"><img src="http://cdn.royalchallengers.com/images/blog/rssIcon.gif" alt="Click to Visit RCB Discussion Forum's RSS" border="0"></a></div></td>
-        <td width="236" align="left" valign="middle" class="hdtxt Padl10"><div class="floatLtxt"><a href="http://www.royalchallengers.com/blog/">Blog</a></div>
+        <td width="236" align="left" valign="middle" class="hdtxt Padl10"><div class="floatLtxt"><a href="http://www.royalchallengers.com/blog/">Community Manager Blog</a></div>
           <div class="rssIcon"><a href="http://feeds.feedburner.com/royalchallengers/yAwK" target="_blank"><img src="http://cdn.royalchallengers.com/images/blog/rssIcon.gif" alt="Click to Visit RCB News's RSS" border="0"></a></div></td>
         <td width="236" align="left" valign="middle" class="hdtxt Padl10"><div class="floatLtxt"><a href="http://www.royalchallengers.com/news/">RCB News</a></div>
           <div class="rssIcon"><a href="http://feeds.feedburner.com/RoyalChallengersBangaloreLatestNews" target="_blank"><img src="http://cdn.royalchallengers.com/images/blog/rssIcon.gif" alt="Click to Visit RCB News's RSS" border="0"></a></div></td>
@@ -318,50 +476,57 @@ document.getElementById('eeEncEmail_60flTurA2q').innerHTML = output;
       <tr>
         
 		<td width="236" align="left" valign="top" class="hdtxtBelow"> 
-          <div class="dvRowTxt"><a href="http://www.royalchallengers.com/forums/viewthread/95/">1st T20I 09-12-09 - <span style="text-align:right; font-style:italic; font-size:11px; text-transform:capitalize; color:#FFAD1E;">mahesh-sharma</span></a></div>
-          
-          <div class="dvRowTxt"><a href="http://www.royalchallengers.com/forums/viewthread/94/">Most Memorable moment thing you remember of manish Pandey!! - <span style="text-align:right; font-style:italic; font-size:11px; text-transform:capitalize; color:#FFAD1E;">sandesh-bellurshashidhara</span></a></div>
-          
-          <div class="dvRowTxt"><a href="http://www.royalchallengers.com/forums/viewthread/93/">Your Favourite Player in the Current Ranji Trophy - <span style="text-align:right; font-style:italic; font-size:11px; text-transform:capitalize; color:#FFAD1E;">sandesh-bellurshashidhara</span></a></div>
-          
-          <div class="dvRowTxt"><a href="http://www.royalchallengers.com/forums/viewthread/92/">Karnataka the League table Toppers !! - <span style="text-align:right; font-style:italic; font-size:11px; text-transform:capitalize; color:#FFAD1E;">sandesh-bellurshashidhara</span></a></div>
-           <br>
+
+          <div class="dvRowTxt"><a href="http://www.royalchallengers.com/forums/viewthread/368/">RCB leading the way on and off the field - <span style="text-align:right; font-style:italic; font-size:11px; text-transform:capitalize; color:#FFAD1E;">arunrc</span></a></div>
+
+          <div class="dvRowTxt"><a href="http://www.royalchallengers.com/forums/viewthread/367/">COOL RCB PLAYER - <span style="text-align:right; font-style:italic; font-size:11px; text-transform:capitalize; color:#FFAD1E;">jainsl000</span></a></div>
+
+          <div class="dvRowTxt"><a href="http://www.royalchallengers.com/forums/viewthread/366/">ROSCO’s in great form.Scores the fastest hundred for NZ in tests.Seems like he’s already preparing for IPL - <span style="text-align:right; font-style:italic; font-size:11px; text-transform:capitalize; color:#FFAD1E;">pavan-devaraj</span></a></div>
+
+          <div class="dvRowTxt"><a href="http://www.royalchallengers.com/forums/viewthread/365/">ROSCO's in great form.Scores the fastest hundred for NZ in tests.Seems like he's already preparing for IPL - <span style="text-align:right; font-style:italic; font-size:11px; text-transform:capitalize; color:#FFAD1E;">pavan-devaraj</span></a></div>
+
+<br>
         </td>
 
         <td width="236" align="left" valign="top" class="hdtxtBelow"> 
-          <div class="dvRowTxt"><a href="http://www.royalchallengers.com/blog/hyderabad_meetup_dec_12_6pm_city_center">Hyderabad Meetup Dec 12, 6pm, City Center - <span style="text-align:right; font-style:italic; font-size:11px; text-transform:capitalize; color:#FFAD1E;">nidhi@RCB</span></a></div>
+          <div class="dvRowTxt"><a href="http://www.royalchallengers.com/blog/look-what-i-found-in-the-discussion-forum">Look what I found in the discussion forum! - <span style="text-align:right; font-style:italic; font-size:11px; text-transform:capitalize; color:#FFAD1E;">anisha@RCB</span></a></div>
           
-          <div class="dvRowTxt"><a href="http://www.royalchallengers.com/blog/rcb_friday_trivia_answers_winners_to_be_announced_tomorrow">RCB Friday Trivia answers &amp; winners to be announced tomorrow. - <span style="text-align:right; font-style:italic; font-size:11px; text-transform:capitalize; color:#FFAD1E;">nidhi@RCB</span></a></div>
+          <div class="dvRowTxt"><a href="http://www.royalchallengers.com/blog/deepika-padukone-signed-jersey-winner-to-be-declared-on-monday">Deepika Padukone signed jersey winner to be declared on Monday! - <span style="text-align:right; font-style:italic; font-size:11px; text-transform:capitalize; color:#FFAD1E;">anisha@RCB</span></a></div>
           
-          <div class="dvRowTxt"><a href="http://www.royalchallengers.com/blog/rcb_friday_trivia_prizes_announced">Last day to enter RCB Friday Trivia (and prizes announced) - <span style="text-align:right; font-style:italic; font-size:11px; text-transform:capitalize; color:#FFAD1E;">nidhi@RCB</span></a></div>
+          <div class="dvRowTxt"><a href="http://www.royalchallengers.com/blog/23rd-contest-jersey-winner">23rd contest jersey winner - <span style="text-align:right; font-style:italic; font-size:11px; text-transform:capitalize; color:#FFAD1E;">anisha@RCB</span></a></div>
           
-          <div class="dvRowTxt"><a href="http://www.royalchallengers.com/blog/changed_twitter_name_to_rcbtweets">Changed twitter name to @RCBTweets - <span style="text-align:right; font-style:italic; font-size:11px; text-transform:capitalize; color:#FFAD1E;">nidhi@RCB</span></a></div>
+          <div class="dvRowTxt"><a href="http://www.royalchallengers.com/blog/lets-join-our-hands-to-welcome-2-new-lady-fanatic-fans">Lets join our hands to welcome 2 new Lady Fanatic Fans! - <span style="text-align:right; font-style:italic; font-size:11px; text-transform:capitalize; color:#FFAD1E;">anisha@RCB</span></a></div>
            <br>
         </td>
         <td width="236" align="left" valign="top" class="hdtxtBelow"><!-- news -->
            
-          <div class="dvRowTxt"> <a href="http://www.royalchallengers.com/news/was_india_prepared_for_a_t20/">Was India prepared for a T20?</a> </div>
+          <div class="dvRowTxt"> <a href="http://www.royalchallengers.com/news/vinay-in-india-t20-world-cup-team/">Vinay in India T20 World Cup team</a>
+</div>
           
-          <div class="dvRowTxt"> <a href="http://www.royalchallengers.com/news/india_numero_uno_in_test_cricket_lets_enjoy_our_stay/">India numero uno in Test cricket: Let’s enjoy our stay</a> </div>
+          <div class="dvRowTxt"> <a href="http://www.royalchallengers.com/news/white-checks-in-rossy-on-april-2/">White checks in, Rossy on April 2</a>
+</div>
           
-          <div class="dvRowTxt"> <a href="http://www.royalchallengers.com/news/who_will_be_the_man_of_series/">Sehwag - the  Man of Series</a> </div>
+          <div class="dvRowTxt"> <a href="http://www.royalchallengers.com/news/rc-tastes-first-defeat-at-home/">RC tastes first defeat at home</a>
+</div>
           
-          <div class="dvRowTxt"> <a href="http://www.royalchallengers.com/news/can_india_make_it_2-0/">Can India make it 2-0?</a> </div>
+          <div class="dvRowTxt"> <a href="http://www.royalchallengers.com/news/just-an-ordinary-hardworking-cricketer-uthappa/">Just an ordinary hardworking cricketer: Uthappa</a>
+</div>
             
           <!-- /news -->
           <br>
         </td>
         <td width="237" align="left" valign="top" class="hdtxtBelow">
                                 
-          <div class="dvRowTxt"><a href="http://www.royalchallengers.com/fan-club/ray_jennings_spectacular_catches_-_must_watch_video/">Ray Jennings’ Spectacular Catches - Must watch video - <span style="text-align:right; font-style:italic; font-size:11px; text-transform:capitalize; color:#FFAD1E;">SivaAN</span></a></div>
+          <div class="dvRowTxt"><a href="http://www.royalchallengers.com/fan-club/bangalore-ipl-nights-party/">Bangalore IPL Nights Party - <span style="text-align:right; font-style:italic; font-size:11px; text-transform:capitalize; color:#FFAD1E;">radiosandeep</span></a></div>
           
-          <div class="dvRowTxt"><a href="http://www.royalchallengers.com/fan-club/is_this_the_best_indian_batting_line-up_ever/">Is This The Best Indian Batting Line-up Ever? - <span style="text-align:right; font-style:italic; font-size:11px; text-transform:capitalize; color:#FFAD1E;">YogaN</span></a></div>
+          <div class="dvRowTxt"><a href="http://www.royalchallengers.com/fan-club/namma-huduga-vinay-kumar/">Namma Huduga Vinay Kumar - <span style="text-align:right; font-style:italic; font-size:11px; text-transform:capitalize; color:#FFAD1E;">Aak</span></a></div>
                    
                   <div class="dvRowTxt"> <a href="http://www.royalchallengers.com/signup/" style="color:#FFAD1E;">Become an RCB fan</a></div>
                     <div class="dvRowTxt"><a href="http://www.royalchallengers.com/shopping-bay/" style="color:#FFAD1E;">RCB Merchandise</a>
           <p><a href="http://www.royalchallengers.com/shopping-bay/">Silicon wrist band, Glow badge, Stadium Flag, Non toxic tattoos, Bandana, RCB tee-shirt</a></p></div>
 		  <div class="dvRowTxt" style="margin-bottom:5px"><a href="http://www.royalchallengers.com/downloads/">Cricket downloads</a></div>
-		  <div class="dvRowTxt"><a href="http://www.royalchallengers.com/ipl3-schedule">IPL 3 schedule</a></div>
+		  <div class="dvRowTxt"><a href="http://www.royalchallengers.com/iplt20-2010-schedule">DLF IPL 2010 schedule</a></div>
+                  <div class="dvRowTxt"><a href="http://www.royalchallengers.com/ipl-points-table">DLF IPL 2010 standings</a></div>
         </td>
       </tr>
     </tbody></table>
@@ -378,6 +543,12 @@ document.getElementById('eeEncEmail_60flTurA2q').innerHTML = output;
           </div>
           <div class="dvRowTxt02 ">
             <div class="dvRowTxt02Inner"> <a href="http://www.royalchallengers.com/player/anil-kumble">Anil Kumble</a> </div>
+          </div>
+<div class="dvRowTxt02 ">
+            <div class="dvRowTxt02Inner"> <a href="http://www.royalchallengers.com/player/eoin-morgan">Eoin Morgan</a> </div>
+          </div>
+<div class="dvRowTxt02 ">
+            <div class="dvRowTxt02Inner"> <a href="http://www.royalchallengers.com/player/ashok-menaria">Ashok Menaria</a> </div>
           </div>
           <div class="dvRowTxt02 ">
             <div class="dvRowTxt02Inner"> <a href="http://www.royalchallengers.com/player/manish-pandey">Manish Pandey</a> </div>
@@ -415,8 +586,8 @@ document.getElementById('eeEncEmail_60flTurA2q').innerHTML = output;
           <div class="dvRowTxt02 ">
             <div class="dvRowTxt02Inner"> <a href="http://www.royalchallengers.com/player/rajesh-bishnoi">Rajesh Bishnoi</a> </div>
           </div>
-         <!-- player Inside-->
-         <div class="dvRowTxt02 ">
+         <!-- /player Inside -->
+          <div class="dvRowTxt02 ">
            <div class="dvRowTxt02Inner"> <a href="http://www.royalchallengers.com/player/pankaj-singh">Pankaj Singh</a> </div>
           </div>
 		  <!-- /player Inside -->
@@ -471,9 +642,9 @@ document.getElementById('eeEncEmail_60flTurA2q').innerHTML = output;
 		  <!-- /player Inside -->
 
 		     <!-- player Inside-->
-         <div class="dvRowTxt02 ">
+    <!--     <div class="dvRowTxt02 ">
            <div class="dvRowTxt02Inner"> <a href="http://www.royalchallengers.com/player/sreesanth-aravind">Sreesanth Aravind</a> </div>
-          </div>
+          </div>  -->
 		  <!-- /player Inside -->
 
 		    <!-- player Inside-->
@@ -500,6 +671,75 @@ document.getElementById('eeEncEmail_60flTurA2q').innerHTML = output;
 		  <!-- /player Inside -->
 
 
+
+
+
+		  <!-- player Inside-->
+          <div class="dvRowTxt02 ">
+           <div class="dvRowTxt02Inner"> <a href="http://www.royalchallengers.com/player/bharat-chipli">Bharat Chipli</a> </div>
+          </div>
+		  <!-- /player Inside -->
+
+		 <!-- player Inside-->
+          <div class="dvRowTxt02 ">
+           <div class="dvRowTxt02Inner"> <a href="http://www.royalchallengers.com/player/cameron-leon-white">Cameron Leon White</a> </div>
+          </div>
+		  <!-- /player Inside -->
+
+
+		  <!-- player Inside-->
+          <div class="dvRowTxt02 ">
+           <div class="dvRowTxt02Inner"> <a href="http://www.royalchallengers.com/player/saurabh-sushant-bandekar">Saurabh Sushant Bandekar</a> </div>
+          </div>
+		  <!-- /player Inside -->
+
+
+		  <!-- player Inside-->
+          <div class="dvRowTxt02 ">
+           <div class="dvRowTxt02Inner"> <a href="http://www.royalchallengers.com/player/sridharan-sriram">Sridharan Sriram</a> </div>
+          </div>
+		  <!-- /player Inside -->
+
+		   <!-- player Inside-->
+          <div class="dvRowTxt02 ">
+           <div class="dvRowTxt02Inner"> <a href="http://www.royalchallengers.com/player/karan-vinod-sharma">Karan Vinod Sharma</a> </div>
+          </div>
+		  <!-- /player Inside -->
+
+		 <!-- player Inside-->
+          <div class="dvRowTxt02 ">
+           <div class="dvRowTxt02Inner"> <a href="http://www.royalchallengers.com/player/jitendra-patil">Jitendra Patil</a> </div>
+          </div>
+		  <!-- /player Inside -->
+
+
+		<!-- player Inside-->
+          <div class="dvRowTxt02 ">
+           <div class="dvRowTxt02Inner"> <a href="http://www.royalchallengers.com/player/c-muralidharen-gautam">C Muralidharen Gautam</a> </div>
+          </div>
+		  <!-- /player Inside -->
+
+		  <!-- player Inside-->
+          <div class="dvRowTxt02 ">
+           <div class="dvRowTxt02Inner"> <a href="http://www.royalchallengers.com/player/devraj-thyagaraj-patil">Devraj Thyagaraj Patil</a> </div>
+          </div>
+		  <!-- /player Inside -->
+
+  <!-- player Inside-->
+          <div class="dvRowTxt02 ">
+           <div class="dvRowTxt02Inner"> <a href="http://www.royalchallengers.com/player/rangaraj-suthesh">Rangaraj Suthesh</a> </div>
+          </div>
+		  <!-- /player Inside -->
+
+<!-- player Inside-->
+          <div class="dvRowTxt02 ">
+           <div class="dvRowTxt02Inner"> <a href="http://www.royalchallengers.com/player/steven-smith">Steven Smith</a> </div>
+          </div>
+		  <!-- /player Inside -->
+
+
+
+
           <!-- /player -->
         </td>
       </tr>
@@ -508,11 +748,28 @@ document.getElementById('eeEncEmail_60flTurA2q').innerHTML = output;
 </div>
 <!--footer top navigation end -->
 <div class="dvFooter02">
-  <div class="Dvsponsored"> <span style="color:#fff;">OUR SPONSORS &nbsp;</span> <a href="http://game4life.in" target="_blank"><img src="http://cdn.royalchallengers.com/images/footer_logos/royal_challenge.gif" alt="Royal Challenge" border="0"></a> <a href="http://www.happyhourswithfriends.com" target="_blank"><img src="http://cdn.royalchallengers.com/images/home/mcdowells02.gif" alt="McDowells" border="0"></a> <a href="http://www.whyteandmackay.co.uk" target="_blank"><img src="http://cdn.royalchallengers.com/images/footer_logos/whyte&amp;mackay.gif" alt="Whyte &amp; Mackay" border="0"></a> <a href="http://www.kingfisherworld.com" target="_blank"><img src="http://cdn.royalchallengers.com/images/footer_logos/kingfisher.gif" alt="Kingfisher" border="0"></a> <a href="http://www.shop4reebok.com" target="_blank"><img src="http://cdn.royalchallengers.com/images/footer_logos/reebok.gif" alt="Reebok" border="0"></a>
+  <div class="Dvsponsored"> <span style="color:#fff;">OUR SPONSORS &nbsp;</span> <a href="http://game4life.in" target="_blank"><img src="http://cdn.royalchallengers.com/images/footer_logos/royal_challenge.gif" alt="Royal Challenge" border="0"></a> <a href="http://www.happyhourswithfriends.com" target="_blank"><img src="http://cdn.royalchallengers.com/images/home/mcdowells02.gif" alt="McDowells" border="0"></a> <a href="http://www.whyteandmackay.co.uk" target="_blank"><img src="http://cdn.royalchallengers.com/images/footer_logos/whyte&amp;mackay.gif" alt="Whyte &amp; Mackay" border="0"></a> <a href="http://www.kingfisherworld.com" target="_blank"><img src="http://cdn.royalchallengers.com/images/footer_logos/kingfisher.gif" alt="Kingfisher" border="0"></a> 
+<a href="http://www.shop4reebok.com" target="_blank"><img src="http://cdn.royalchallengers.com/images/footer_logos/reebok.gif" alt="Reebok" border="0"></a>
+
+
+<a href="http://www.indigonation.com/index_new.html" target="_blank">
+<img src="http://cdn.royalchallengers.com/images/footer_logos/indigo_nation4.gif" alt="indigo nation" border="0">
+</a>
+
+
     <!--      <a href="http://www.gitanjaligroup.com" target="_blank"><img src="http://cdn.royalchallengers.com/images/footer_logos/geetanjali.gif" alt="Gitanjali Jewels" border="0" /></a> -->
   </div>
   <div style="text-align:center; color:#fff;"> Copyright © Royal Challengers Sports Pvt. Ltd. <br>
-    <a href="http://www.royalchallengers.com/privacy">Privacy Policy</a> | <a href="http://www.royalchallengers.com/terms">Terms &amp; Conditions</a>  <!--| <a href="http://www.royalchallengers.com/about-the-challenge">About the Challenge</a>--> | <a href="mailto:rcbsupport@royalchallengers.com">Contact Us</a> | <a href="http://www.royalchallengers.com/ee/index.php/misc/sitemap/">Sitemap</a> </div>
+  <a href="http://www.royalchallengers.com/privacy">Privacy Policy</a> | <a href="http://www.royalchallengers.com/terms">Terms &amp; Conditions</a>  <!--| <a href="http://www.royalchallengers.com/about-the-challenge">About the Challenge</a>--> | <a href="mailto:rcbsupport@royalchallengers.com">Contact Us</a> | <a href="http://www.royalchallengers.com/ee/index.php/misc/sitemap/">Sitemap</a>
+  
+  </div>
+  <div style=" text-align:center; padding:10px 0 10px 0; "> <a href="http://www.experiencecommerce.com/" target="_blank" style="color:#e3dfdf">Digital Agency</a> - <a href="http://www.experiencecommerce.com/" target="_blank" style="color:#e3dfdf">experience commerce</a></div>  
+    <style>
+.greylink { color:#c8c3c3; text-decoration:none }
+.greylink a { color:#c8c3c3; text-decoration:none }
+
+</style>
+
   <!-- 
  <table width="" border="0" align="center" cellpadding="0" cellspacing="0" style="color:#FFFFFF; font-size:13px;" style="display:none;">
     <tr>
@@ -571,7 +828,11 @@ var pageTracker = _gat._getTracker("UA-10618185-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
+
 <!-- / google analytics script for tracking -->
+<!-- Facebook Js -->
+
+<!-- / Facebook Js -->
 
     <!-- /rcb footer include -->
 
