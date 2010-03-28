@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lek.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223051730id_/http%3A//www.lek.com/info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lek.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328221542id_/http%3A//www.lek.com/info/privacy.cfm) for the most accurate reproduction.*
 
 # L.E.K Consulting
 
