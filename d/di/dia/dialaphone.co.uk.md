@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dialaphone.co.uk privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215091628id_/http%3A//www.dialaphone.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialaphone.co.uk privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328045640id_/http%3A//www.dialaphone.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Mobile Phone Shop - Dial-a-Phone
 
