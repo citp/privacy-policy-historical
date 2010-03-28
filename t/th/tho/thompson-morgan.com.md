@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413024725id_/http%3A//www.thompson-morgan.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328070802id_/http%3A//www.thompson-morgan.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Security & Privacy Policy
 
@@ -17,7 +17,7 @@ Thompson & Morgan truly believes in keeping your confidential information just t
 
 ### Order Information
 
-Thompson & Morgan uses an order form for customers when they request information, products, and services. When you place an order, we collect contact information (like your shipping and email address) and financial information (like your account or credit card numbers). Contact information from the order form is used to send orders and information about our company to our customers, and to get in touch with the customer when necessary. Financial information that is collected is used to bill the user for products and services. Customers also have the option of ordering products over the telephone or fax, and may elect to pay by check. 
+Thompson & Morgan uses an order form for customers when they request information, products, and services. When you place an order, we collect contact information (like your billing and email address) and financial information (like your account or credit card numbers). Contact information from the order form is used to send orders and information about our company to our customers, and to get in touch with the customer when necessary. Financial information that is collected is used to bill the user for products and services. Customers also have the option of ordering products over the telephone or fax, and may elect to pay by check. 
 
 ### Use of Information
 
@@ -33,7 +33,7 @@ Thompson & Morgan may occasionally conduct online surveys asking visitors for de
 
 ### Contests
 
-Thompson & Morgan may occasionally run contests on our site in which we ask visitors for contact information (such as email address or telephone number). Participation in our contests is not mandatory. However, if you choose to participate, we may use this contact data from our contests to send users, when necessary, information about the contest and our company. If you have participated in a past contest but no longer prefer to receive information or be contacted by Thompson & Morgan, please contact Customer Care or +44 (0)1473 688 821. 
+Thompson & Morgan may occasionally run contests on our site in which we ask visitors for contact information (such as email address or telephone number). Participation in our contests is not mandatory. However, if you choose to participate, we may use this contact data from our contests to send users, when necessary, information about the contest and our company. If you have participated in a past contest but no longer prefer to receive information or be contacted by Thompson & Morgan, please contact Customer Care or +44 (0)1473 688 821. Please note, some calls may be recorded for training purposes. 
 
 ### Choice / Opt-out
 
@@ -43,5 +43,6 @@ Thompson & Morgan provides users the opportunity to opt-out of receiving communi
   2. You can call Customer Care on +44 (0)1473 688 821 
   3. You can click on the "Unsubscribe" link included at the bottom of each of our emails and follow the instructions 
   4. You can send mail to the following postal address: 
+  
 Customer Care Poplar Lane Ipswich Suffolk IP8 3BU United Kingdom 
 
