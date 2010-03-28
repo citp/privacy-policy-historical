@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teambox.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216132022id_/http%3A//www.teambox.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teambox.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328100542id_/http%3A//www.teambox.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Teambox
+# Privacy
 
 We respects each individual’s right to personal privacy. We will collect and use information only in the ways disclosed in this statement. This statement applies solely to information collected at Teambox website and application. We collects information from registered users such as: email, name, company name and address. We never share your information with a third-part.
 
