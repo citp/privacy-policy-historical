@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfamily.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226000255id_/https%3A//www.myfamily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfamily.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328224811id_/https%3A//www.myfamily.com/privacy) for the most accurate reproduction.*
 
 # myfamily.com • Privacy
 
