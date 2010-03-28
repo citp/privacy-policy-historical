@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steamgames.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227002353id_/http%3A//www.valvesoftware.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steamgames.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328083805id_/http%3A//www.valvesoftware.com/privacy.htm) for the most accurate reproduction.*
 
 # Valve
 
