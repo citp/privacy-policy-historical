@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the bchydro.com privacy policy that was archived on 2009-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090418144239id_/http%3A//www.bchydro.com/siteinfo/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bchydro.com privacy policy that was archived on 2010-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100328135738id_/http%3A//www.bchydro.com/siteinfo/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     
+
 
         <!-- BEGINNING OF META DATA TEMPLATE -->
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -10,19 +11,24 @@
 	<meta http-equiv="imagetoolbar" content="false">
 	<meta name="MSSmartTagsPreventParsing" content="true">
 	<meta name="robots" content="all">
-	<meta name="copyright" content="Copyright (c) 2009 BC Hydro">
+	<meta name="copyright" content="Copyright (c) 2010 BC Hydro">
     	<meta name="keywords" content="">
     	<meta name="description" content="">
     	<title>BC Hydro - Privacy Statement</title>
 
-
+    <!-- Begin Meta Tagging for Webtrends-->
 	
-	<!-- Begin Meta Tagging for Webtrends-->
 	<meta name="WT.cg_n" content="Site Tools">
-	<meta name="WT.cg_s" content="Privacy Statement">
-	<!-- End Meta Tagging for Webtrends-->
 	
+	<meta name="WT.cg_s" content="Privacy Statement">
+	
+	<meta name="SmartView_Page" content="0">
+	
+    
+    <!-- End Meta Tagging for Webtrends-->
 
+
+	<!--Add meta if current page is homepage. CK-->
 	
 
 	<link rel="shortcut icon" href="/images/icons/bchydro.ico">
@@ -87,11 +93,33 @@
 
 
 
+
+<link rel="apple-touch-icon" href="/images/icons/apple-touch-icon.png" type="image/png">
+
 <div id="header">
 
-    <div id="headerLogo">
-        <a href="/index.html"><img src="/images/BC_Hydro_logo.gif" alt="BChydro"></a>
-    </div>
+    
+
+
+
+
+<div id="headerLogo">
+
+
+
+<a href="http://www.bchydro.com/" title="BC Hydro">
+
+
+	<img src="/etc/medialib/internet/images/graphics/logos/bc_hydro_logo.Par.0001.Image.gif" alt="BC Hydro">
+
+
+</a>
+
+
+
+</div>
+
+
     <!-- /end #headerLogo -->
 
     <div id="headerNavigation">
@@ -125,7 +153,7 @@
             <li id="nav-tips"><a href="/guides_tips.html"><img src="/images/nav/guides-and-tips.png" alt="Guides &amp; Tips"></a></li>
             <li id="nav-buyerguide"><a href="/buyersguide.html"><img src="/images/nav/buyers-guide.png" alt="Buyer's Guide"></a></li>
             <li id="nav-rebates"><a href="/rebates_savings.html"><img src="/images/nav/rebates-savings.png" alt="Rebates &amp; Savings"></a></li>
-            <li id="nav-youraccount"><a href="https://www.bchydro.com/youraccount"><img src="/images/nav/yout-account.png" alt="Your Account"></a></li>
+            <li id="nav-youraccount"><a href="https://www.bchydro.com/youraccount/"><img src="/images/nav/yout-account.png" alt="Your Account"></a></li>
         </ul>
     </div>
 <script type="text/javascript">highlightHeaderNav("");highlightTopNav("");</script>
@@ -153,8 +181,8 @@
 	var user_firstname_cookie_name = 'c_ya_user_firstname';
 	var user_lastname_cookie_name = 'c_ya_user_lastname';
 
-	$.json = {callbacks: {}};
-	$.fn.json = function(url, callback) {
+	jQuery.json = {callbacks: {}};
+	jQuery.fn.json = function(url, callback) {
 		var _$_ = this;
 		load(url.replace(/{callback}/, name(callback)));
 		return this;
@@ -162,8 +190,8 @@
 		function name(callback) {
 			var id = (new Date).getTime();
 			var name = 'json_' + id;
-			var cb = $.json.callbacks[id] = function(json) {
-				delete $.json.callbacks[id];
+			var cb = jQuery.json.callbacks[id] = function(json) {
+				delete jQuery.json.callbacks[id];
 				eval('delete ' + name );
 				_$_.each(function() {callback(json);});
 			};
@@ -175,7 +203,7 @@
 			var script = document.createElement('script');
 			script.type = 'text/javascript';
 			script.src = url;
-			$('head',document).append(script);
+			jQuery('head',document).append(script);
 		}
 	};
 	function showFullForm() {
@@ -224,8 +252,8 @@
             '<div id="loginbox_content" class="short">' +
             '  <p>You are logged in as:</p>' +
             '  <h3> ' + firstName + ' ' + lastName + ' </h3>' +
-            '  <a href="https://wwwa1.bchydro.com/emcweb/ShowHomePage.do" class="bcViewAccount">View Your Account</a>' +
-            '  <a href="https://wwwa1.bchydro.com/emcweb/LogoutSubmit.do" class="mainButton bcLogout"><span><img src="/images/icons/log-out.gif" alt="LOG OUT"/></span></a>' +
+            '  <a href="https://www.bchydro.com/youraccount/main/ShowHomePage.do" class="bcViewAccount">View Your Account</a>' +
+            '  <a href="https://www.bchydro.com/youraccount/main/LogoutSubmit.do" class="mainButton bcLogout"><span><img src="/images/icons/log-out.gif" alt="LOG OUT"/></span></a>' +
             '</div><!-- /end LOGINBOX_CONTENT -->';
     }
     function loggedin(obj) {
@@ -233,8 +261,8 @@
             '<div id="loginbox_content" class="short">' +
             '  <p>You are logged in as:</p>' +
             '  <h3> ' + obj.user.firstName + ' ' + obj.user.lastName + ' </h3>' +
-            '  <a href="https://wwwa1.bchydro.com/emcweb/ShowHomePage.do" class="bcViewAccount">View Your Account</a>' +
-            '  <a href="https://wwwa1.bchydro.com/emcweb/LogoutSubmit.do" class="mainButton bcLogout"><span><img src="/images/icons/log-out.gif" alt="LOG OUT"/></span></a>' +
+            '  <a href="https://www.bchydro.com/youraccount/main/ShowHomePage.do" class="bcViewAccount">View Your Account</a>' +
+            '  <a href="https://www.bchydro.com/youraccount/main/LogoutSubmit.do" class="mainButton bcLogout"><span><img src="/images/icons/log-out.gif" alt="LOG OUT"/></span></a>' +
             '</div><!-- /end LOGINBOX_CONTENT -->';
     }
     function fullform() {
@@ -243,7 +271,7 @@
 	        '    <img src="/images/headers/login-header.png" alt="Log in" />' +
 			'	 <img src="/images/backgrounds/login_progress_dots.gif" style="display: none" />' +
 			' 	 <div class="loginbox_separatorline"></div>' +
-	        '    <form id="login" method="post" name="loginform" action="https://wwwa1.bchydro.com/emcweb/LoginSubmit.do" style="background: #fff;">' +
+	        '    <form id="login" method="post" name="loginform" action="https://www.bchydro.com/youraccount/main/LoginSubmit.do" style="background: #fff;">' +
 	        '        <fieldset>' +
 	        '            <label for="email">Email:</label>' +
 	        '            <input id="emailuserId" name="emailuserId" type="text" onkeypress="submitOnEnter(this, event);"/> <br />' +
@@ -261,8 +289,8 @@
 	        '        </fieldset>' +
 	        '    </form>' +
 		    '    <div class="loginbox_separatorline"></div>' +
-	        '    <p><a href="https://wwwa1.bchydro.com/emcweb/ShowLoginRetrieveIDPasswordPage.do" class="bcViewAccountStacked">Forgot Your Password?</a></p>' +
-	        '    <p><a href="https://wwwa1.bchydro.com/register/BCHCOMRegisterExternal.do" class="bcViewAccountStacked">Register</a></p>' +
+	        '    <p><a href="https://www.bchydro.com/youraccount/main/ShowLoginRetrieveIDPasswordPage.do" class="bcViewAccountStacked">Forgot Your Password?</a></p>' +
+	        '    <p><a href="https://www.bchydro.com/youraccount/register/BCHCOMRegisterExternal.do" class="bcViewAccountStacked">Register</a></p>' +
 			'</div><!-- /end LOGINBOX_CONTENT -->';
 
 		if (document.cookie.length > 0) {
@@ -285,8 +313,8 @@
 			'<div id="loginbox_content" class="short">' +
 			'    <img src="/images/headers/login-header.png" alt="Login to Your Account" />' +
 			'    <div style="margin: 10px 0px;"></div>' +
-	        '    <p><a href="https://wwwa1.bchydro.com/emcweb/LoginPage.do" class="bcViewAccountStacked">Log In</a></p>' +
-	        '    <p><a href="https://wwwa1.bchydro.com/register/BCHCOMRegisterExternal.do" class="bcViewAccountStacked">Register</a></p>' +
+	        '    <p><a href="https://www.bchydro.com/youraccount/main/LoginPage.do" class="bcViewAccountStacked">Log In</a></p>' +
+	        '    <p><a href="https://www.bchydro.com/youraccount/register/BCHCOMRegisterExternal.do" class="bcViewAccountStacked">Register</a></p>' +
 			'</div><!-- /end LOGINBOX_CONTENT -->';
     }
     function notavail() {
@@ -304,8 +332,8 @@
         }  
     }
     function showProgressMsg() {
-        document.getElementById("replace").innerHTML =
-            '<div id="loginbox_content" class="tall">' +
+		document.getElementById("replace").innerHTML =
+			'<div id="loginbox_content" class="tall">' +
 			'    <h3 style="text-align: center; padding: 40px 0px 0px 0px;">Logging In' +
 			'	<img src="/images/backgrounds/login_progress_dots.gif" alt="Logging In" width="106" height="18" style="margin: 15px auto 0px auto; display:block;" /></h3>' +
 			'</div><!-- /end LOGINBOX_CONTENT -->';
@@ -313,9 +341,9 @@
 </script>
 
 <script>
-$(document).ready(function() {
+jQuery(document).ready(function($) {
     timedCookieRemoval();
-	var url = 'https://wwwa1.bchydro.com/emcweb/LoginServiceStatusExternal.do?callback={callback}';
+	var url = 'https://www.bchydro.com/youraccount/main/LoginServiceStatusExternal.do?callback={callback}';
 	
 	// Check if cookies exist
 	if (document.cookie.length > 0) {
@@ -354,7 +382,7 @@ $(document).ready(function() {
 			}
 		}
 		else {
-			$().json(url, function(json) {
+			jQuery().json(url, function(json) {
 				var jsonResponse = eval(json);
 		
 				if (jsonResponse.user.appOnline == 'true') {
@@ -400,7 +428,7 @@ $(document).ready(function() {
 		<div id="loginbox_content" class="short">
 			<p>You have Javascript disabled in your browser. </p>
 			<p>&nbsp;</p>
-			<p>Please enable Javascript to login <a href="https://wwwa1.bchydro.com/emcweb/LoginPage.do">here</a>.</p>
+			<p>Please enable Javascript to login <a href="https://www.bchydro.com/youraccount/main/LoginPage.do">here</a>.</p>
 		</div><!-- /end LOGINBOX_CONTENT -->
 	</div><!-- /end REPLACE -->
 </div><!-- /end LOGINBOX -->
@@ -415,11 +443,12 @@ $(document).ready(function() {
 
 
 
+
 	<div id="sideNav" class="bcAddMargin3">
 
 
   <h4><a class="bcBold" href="/siteinfo.html">Site Tools</a></h4>
-<ul><li><a href="/siteinfo/search.html">Search</a></li><li><a href="/siteinfo/site_index.html">Site Index</a></li><li class="highlighted"><a class="bcBold" href="/siteinfo/privacy.html">Privacy Statement</a></li><li><a href="/siteinfo/legal.html">Legal</a></li><li><a href="/siteinfo/browsers.html">Browsers</a></li></ul>
+<ul><li><a href="/siteinfo/search.html">Search</a></li><li><a href="/siteinfo/site_index.html">Site Index</a></li><li class="highlighted"><a class="bcBold" href="/siteinfo/privacy.html">Privacy Statement</a></li><li><a href="/siteinfo/legal.html">Legal</a></li><li><a href="/siteinfo/browsers.html">Browsers</a></li><li><a href="/siteinfo/mobile_features.html">Mobile Features</a></li></ul>
 </div>
 
                 </div>
@@ -440,6 +469,8 @@ $(document).ready(function() {
 
 
 
+
+
 			Privacy Statement
 
  
@@ -448,19 +479,62 @@ $(document).ready(function() {
 								
 
 
+
+
+
+
 <script src="/includes/js/core/fontsizer.js" type="text/javascript">
 </script>
 
-    <div style="display: none">
-        <a href="/siteinfo/privacy.printerview.html" title="Print This Page">Print This Page</a>
-        <a href="https://wwwa1.bchydro.com/sendtofriend/index.jsp" title="Email This Page">Email This Page</a>
-        
-    </div>
+
+
+
+	<div style="display: none">
+		<a href="/siteinfo/privacy.printerview.html" title="Print This Page">Print This Page</a>
+	</div>
+
+	
+	
+	
+	
+			     
+	<span id="iconrow">
+
 	
 	<a href="#" title="Make Text Larger" onclick="upfont('bcMain', .1, 1.25);return false;"><img src="/images/icons/font-bigger.png" alt="Make Text Larger"></a>
 	<a href="#" title="Make Text Smaller" onclick="downfont('bcMain', .1, .85);return false;"><img src="/images/icons/font-smaller.png" alt="Make Text Smaller"></a>
 	<a href="javascript:void(0)" onclick="window.open('/siteinfo/privacy.printerview.html')" title="Print This Page"><img src="/images/icons/printer.png" alt="Print This Page"></a>
-	<!--<a href="javascript:void(0)" onclick="window.open('https://wwwa1.bchydro.com/sendtofriend/index.jsp?url=http://www.bchydro.com/siteinfo/privacy.html')"title="Email This Page" ><img src="/images/icons/email.png" alt="Email This Page" ></a>-->
+	
+	
+	
+		
+
+	
+			
+		<!-- AddThis Button BEGIN -->
+		<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=bchydro">
+		<img src="/images/buttons/addthis.gif" alt="Bookmark and Share" style="border:0"></a>
+		
+		
+		
+			<script type="text/javascript" src="/addthis/addthis_widget.js?pub=bchydro">
+		
+		
+		</script>
+	
+		<script type="text/javascript">
+			var addthis_config = {
+			        ui_cobrand: '<a href="/siteinfo/privacy.html" target="_blank">BC&nbsp;Hydro&nbsp;Privacy</a>',
+				services_compact: 'delicious, digg, facebook, linkedin, myspace, stumbleupon, favorites, google, blogger, twitter, wordpress, more',
+        		  	services_exclude: 'email',
+				ui_click: true
+			}	
+		</script>				
+		<!-- AddThis Button END -->
+	
+	
+	
+	</span>
 	
 
 							</span>
@@ -488,7 +562,7 @@ $(document).ready(function() {
 
 
 					
-					Protecting your personal information is an obligation BC Hydro takes seriously. Any personal information we collect is handled in accordance with the British Columbia Freedom of Information and Protection of Privacy Act.<br><br>BC Hydro only discloses customer personal information to third parties in accordance with applicable laws. BC Hydro serves customers in accordance with the Electric Tariff regulated by the British Columbia Utilities Commission and in compliance with the Hydro and Power Authority Act. If you have any questions regarding the collection of personal information, please contact us.<br><br><h3>What is considered personal information</h3><br>Under the Freedom of Information and Protection of Privacy Act, personal information includes recorded information about an identifiable individual, such as name, address, phone number, email address and credit card information. Business contact information is not considered “personal” information.<br><br><h3>What information we collect from you</h3><br>In order to use this website, a user may be asked to first complete a registration and/or login form. During registration/login, a user is required to provide contact information (such as a name and email address). This information is used only to contact the user about the services on our site for which he/she has expressed an interest. It is optional for the user to provide demographic information and unique identifiers, but encouraged so we can provide a more personalized experience on our site.<br><br>Keep your user ID and password confidential. Be wary of emails that ask for personal information. Never provide your password, personal information numbers or login information via email. We will not ask you for personal information via email except in response to an email you have sent to us. If you receive an unsolicited email asking for personal information please call customer service.<br><br><h3>Cookies</h3><br>bchydro.com uses both persistent and session cookies. These are files that your web browser stores on your computer. The persistent cookie remains on your computer after your session is completed. It does not store any personally identifiable information. It stores a unique identifier so we may track our website visitors at an aggregate level; a persistent cookie is also used to remember you next time you visit but only if you choose “remember me” on the log in form (and this is completely optional). You may delete the cookie by clearing if from your browser. The session cookie remains only when you are logged into bchydro.com. It enables the website to know who you are when moving from one web page to the next. This cookie automatically gets erased when you log out or close your browser.<br><br><h3>Contests &amp; Surveys</h3><br>From time-to-time our site may have a contest or request information from users via surveys. Participation in these surveys or contests is voluntary and you have a choice whether or not to disclose any information. Information requested may include contact information, such as name and shipping address, and demographic information. Contact information will be used only to notify the winners and award prizes. Survey information will be used on an aggregated (not individually identifiable) basis only, for purposes of monitoring and/or improving the use and satisfaction of this site.<br><br><h3>Children</h3><br>We occasionally run contests that are open to minors (under 18 years old). Minors will require consent from their guardians or parents to participate in these contests.<br><br><h3>Testimonials and user feedback</h3><br>We often receive feedback from users who want to share their experiences or stories with us. We occasionally publish this content. We will only identify users who consent to publication of their stories.<br><br><h3>Event Registration &amp; Order Forms</h3><br>We request information from you on our event registration or order forms. Here you must provide contact information (such as name and shipping address) and financial information (such as credit card number and expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing your order, this contact information is used to get in touch with you. We may use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.<br><br><h3>Security</h3><br>For your account on bchydro.com, we use industry standard Secure Socket Layer (SSL) encryption technology (128-bit), to protect your personal information. All of our online services go through a vigorous security review to ensure you stay protected.<br><br><h3>Links to other websites</h3><br>bchydro.com contains links to other websites. Please be aware that the privacy policies of the other websites differ from BC Hydro’s. BC Hydro is in no way responsible for content that appears on those sites, or your privacy once you have clicked through to other sites.<br><br><h3>What choices are available to you</h3><br>Registration to access additional features on this website is optional. If you choose not to register, certain sections of the website will not be accessible. Registration and login are required to access your online account. If you have chosen to access your BC Hydro account online, you may, at any time, permanently delete your account from online access.<br><br><h3>Email communication you choose to receive from us</h3><br>With the exception of transactional emails (e.g. confirmation of online registration, notification of online bill, emails directly related to your business account), we will not send you any email unless you opt-in to receive communications from us. If you opt-in, you will receive information we believe will be of interest to you. If you decide that you are no longer interested in receiving email from us, simply unsubscribe by clicking the unsubscribe link in every email and following the simple instructions. <br><br><h3>Changes to our privacy policy</h3><br>From time to time, we review and revise our privacy policy to better reflect the changing nature of the web and ensure your personal information remains fully protected.<br><br><h3>Contact Us</h3><br>If you have any questions or concerns regarding your privacy, please <a href="/contact.html" class="contentText" id="/content/internet/en/contact">Contact Us</a> by email, phone or mail.
+					<p>Protecting your personal information is an obligation BC&nbsp;Hydro takes seriously. Any personal information we collect is handled in accordance with the British Columbia Freedom of Information and Protection of Privacy Act.</p><p>BC Hydro only discloses customer personal information to third parties in accordance with applicable laws. BC&nbsp;Hydro serves customers in accordance with the Electric Tariff regulated by the British Columbia Utilities Commission and in compliance with the Hydro and Power Authority Act. If you have any questions regarding the collection of personal information, please contact us.</p><h3>What is considered personal information</h3><p>Under the Freedom of Information and Protection of Privacy Act, personal information includes recorded information about an identifiable individual, such as name, address, phone number, email address and credit card information. Business contact information is not considered “personal” information.</p><h3>What information we collect from you</h3><p>In order to use this website, a user may be asked to first complete a registration and/or login form. During registration/login, a user is required to provide contact information (such as a name and email address). This information is used only to contact the user about the services on our site for which he/she has expressed an interest. It is optional for the user to provide demographic information and unique identifiers, but encouraged so we can provide a more personalized experience on our site.</p><p>Keep your user ID and password confidential. Be wary of emails that ask for personal information. Never provide your password, personal information numbers or login information via email. We will not ask you for personal information via email except in response to an email you have sent to us. If you receive an unsolicited email asking for personal information please call customer service.</p><h3>Cookies</h3><p>bchydro.com uses both persistent and session cookies. These are files that your web browser stores on your computer. The persistent cookie remains on your computer after your session is completed. It does not store any personally identifiable information. It stores a unique identifier so we may track our website visitors at an aggregate level; a persistent cookie is also used to remember you next time you visit but only if you choose “remember me” on the log in form (and this is completely optional). You may delete the cookie by clearing if from your browser. The session cookie remains only when you are logged into bchydro.com. It enables the website to know who you are when moving from one web page to the next. This cookie automatically gets erased when you log out or close your browser.</p><h3>Contests &amp; Surveys</h3><p>From time-to-time our site may have a contest or request information from users via surveys. Participation in these surveys or contests is voluntary and you have a choice whether or not to disclose any information. Information requested may include contact information, such as name and shipping address, and demographic information. Contact information will be used only to notify the winners and award prizes. Survey information will be used on an aggregated (not individually identifiable) basis only, for purposes of monitoring and/or improving the use and satisfaction of this site.</p><h3>4Q Surveys</h3><p>We use 4Q surveys to better understand the customer experience on bchydro.com. Survey results are collected by 4Q via web form and aggregated into general reports to determine customer experience. The survey does not save personal information such as names or email addresses and IP addresses are not logged. Please do not provide your personal information or the personal information of any third party in response to any open-ended questions. The collected data is stored by <a href="http://www.iperceptions.com/">iPerceptions</a>, the host company, on servers in Canada.</p><h3>AddThis</h3><p><em>AddThis</em> is an independent third-party application that allows you to bookmark and share web pages. Personal information collected, used, and disclosed by AddThis (i.e.your IP address) is governed by AddThis LLC's <em>Terms of Use</em> and <em>Privacy Policy</em>. This data is stored by AddThis on servers outside Canada. Please note that BC&nbsp;Hydro does not collect or receive any personal information submitted to an AddThis application.</p><h3>Children</h3><p>We occasionally run contests that are open to minors (under 18 years old). Minors will require consent from their guardians or parents to participate in these contests.</p><h3>Testimonials and user feedback</h3><p>We often receive feedback from users who want to share their experiences or stories with us. We occasionally publish this content. We will only identify users who consent to publication of their stories.</p><h3>Event Registration &amp; Order Forms</h3><p>We request information from you on our event registration or order forms. Here you must provide contact information (such as name and shipping address) and financial information (such as credit card number and expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing your order, this contact information is used to get in touch with you. We may use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.</p><h3>Security</h3><p>For your account on bchydro.com, we use industry standard Secure Socket Layer (SSL) encryption technology (128-bit), to protect your personal information. All of our online services go through a vigorous security review to ensure you stay protected.</p><h3>Links to other websites</h3><p>bchydro.com contains links to other websites. Please be aware that the privacy policies of the other websites differ from BC&nbsp;Hydro’s. BC&nbsp;Hydro is in no way responsible for content that appears on those sites, or your privacy once you have clicked through to other sites.</p><h3>What choices are available to you</h3><p>Registration to access additional features on this website is optional. If you choose not to register, certain sections of the website will not be accessible. Registration and login are required to access your online account. If you have chosen to access your BC&nbsp;Hydro account online, you may, at any time, permanently delete your account from online access.</p><h3>Email communication you choose to receive from us</h3><p>With the exception of transactional emails (e.g. confirmation of online registration, notification of online bill, emails directly related to your business account), we will not send you any email unless you opt-in to receive communications from us. If you opt-in, you will receive information we believe will be of interest to you. If you decide that you are no longer interested in receiving email from us, simply unsubscribe by clicking the unsubscribe link in every email and following the simple instructions. </p><h3>Text Message or Short Message Service (SMS)</h3><p>BC Hydro is collecting your personal information (mobile number and email address) in support of its mandate under the Utilities Commission Act. Your information will only be used to send you messages about energy conservation and related promotions. No data will be stored outside of Canada. If you have any questions about how your personal information is handled, please call BC&nbsp;Hydro at 604&nbsp;224&nbsp;9376 (Greater Vancouver), 1&nbsp;800&nbsp;224&nbsp;9376 (Other Areas). If you decide that you are no longer interested in receiving mobile alerts from us, simply text “STOP” to “POWER” (76397) to unsubscribe.</p><h3>Changes to our privacy policy</h3><p>From time to time, we review and revise our privacy policy to better reflect the changing nature of the web and ensure your personal information remains fully protected.</p><h3>Contact Us</h3><p>If you have any questions or concerns regarding your privacy, please <a href="/contact.html" class="contentText" id="/content/internet/en/contact">Contact Us</a> by email, phone or mail.</p>
 
 
 		 	<!-- end No style Frame Style -->
@@ -502,7 +576,7 @@ $(document).ready(function() {
 	 
 
                        <div style="clear:both;"></div>
-                        <p class="lastModified">Last Modified: Sep 20, 2008</p>
+                        <p class="lastModified">Last Modified: Mar 1, 2010</p>
 
                     </div><!-- close #bodyContent -->
                 </div><!-- close #bcMain -->
@@ -521,7 +595,7 @@ $(document).ready(function() {
 
 
 
-	<div id="footer">   <div id="footerLinks">     <ul>       <li><a href="/about.html" class="footerLinksHeader" id="/content/internet/en/about">Who           We Are</a>         <ul>           <li><a href="/about/our_commitment.html" class="contentText" id="/content/internet/en/about/our_commitment">Our               Commitment</a> </li>           <li><a href="/about/three_bottom_lines.html">Three               Bottom Lines</a> </li>           <li><a href="/about/company_information.html" class="contentText" id="/content/internet/en/about/company_information">Company               Information</a> </li>           <li><a href="/about/our_system.html">Our System</a> </li>         </ul>       </li>       <li class="footerPlanning"><a href="/planning_regulatory.html" class="footerLinksHeader" id="/content/internet/en/planning_regulatory">Planning &amp; Regulatory</a>         <ul>           <li><a href="/planning_regulatory/meeting_demand_growth.html">Meeting               Demand Growth</a> </li>           <li><a href="/planning_regulatory/regulatory.html">Regulatory</a> </li>           <li><a href="/planning_regulatory/acquiring_power.html" class="contentText" id="/content/internet/en/planning_regulatory/acquiring_power">Acquiring               Power</a> </li>           <li><a href="/planning_regulatory/site_c.html">Site               C</a> </li>         </ul>       </li>       <li class="footerAccounts"><a class="footerLinksHeader" href="https://wwwa1.bchydro.com/emcweb/">Accounts &amp; Rates</a>         <ul>           <li><a href="http://www.bchydro.com/services/applymodify/app1.jsp">New               Account</a> </li>           <li><a href="http://www.bchydro.com/services/applymodify/mod1.jsp">Moving</a> </li>           <li><a href="https://wwwa1.bchydro.com/emcweb/content/residential_rates.jsp">Residential               Rates</a> </li>           <li><a href="https://wwwa1.bchydro.com/emcweb/content/business_rates.jsp">Business               Rates</a> </li>         </ul>       </li>       <li class="footerNews"><a href="/news.html" class="footerLinksHeader" id="/content/internet/en/news">News</a>         <ul>           <li><a href="/news/press_centre.html" class="contentText" id="/content/internet/en/news/press_centre">Press               Centre</a> </li>           <li><a href="/news.html" class="contentText" id="/content/internet/en/news">BC               Hydro News</a> </li>           <li><a href="/news.html" class="contentText" id="/content/internet/en/news">Conservation               News</a> </li>           <li><a href="/news/power_outages.html" class="contentText" id="/content/internet/en/news/power_outages">Power               Outages</a> </li>         </ul>       </li>     </ul>     <div id="imageLinks"><a href="/news/community_events/2010_winter_games.html" class="contentText" id="/content/internet/en/news/community_events/2010_winter_games"><img width="125" height="77" alt="Vancouver 2010" src="/images/footer/vancouver-2010.png"></a> <a href="/index.html"><img width="84" height="77" alt="BC Hydro Footer" src="/images/footer/bchydro-footer.png"></a> </div>   </div>   <!-- /end #footerLinks --> </div> <!-- /end #footer -->
+	<div id="footer" style="HEIGHT: 135px"><div id="footerLinks"><img style="MARGIN: -3px 0px" height="77" alt="Best Place on Earth" width="125" align="left" src="/images/footer/best_place_footer_125x77px.gif"> <img style="MARGIN: -3px 0px" height="77" alt="" width="30" align="left" src="/images/footer/grey_footer_spacer_125x2px.jpg"> <ul><li><a href="/about.html" class="footerLinksHeader" style="MARGIN: 0px 1px">Who We Are</a> <ul><li><a href="/about/our_commitment.html">Our Commitment</a> </li><li><a href="/about/three_bottom_lines.html">Three Bottom Lines</a> </li><li><a href="/about/company_information.html">Company Information</a> </li><li><a href="/about/our_system.html">Our System</a> </li></ul></li><li class="footerPlanning"><a href="/planning_regulatory.html" class="footerLinksHeader">Planning &amp; Regulatory</a> <ul><li><a href="/planning_regulatory/meeting_demand_growth.html">Meeting Demand Growth</a> </li><li><a href="/planning_regulatory/regulatory.html">Regulatory</a> </li><li><a href="/planning_regulatory/acquiring_power.html">Acquiring Power</a> </li><li><a href="/planning_regulatory/site_c.html">Site C</a> </li></ul></li><li class="footerAccounts"><a class="footerLinksHeader" href="http://www.bchydro.com/youraccount">Your Account</a> <ul><li><a href="http://www.bchydro.com/services/applymodify/app1.jsp">New Account</a> </li><li><a href="http://www.bchydro.com/services/applymodify/mod1.jsp">Moving</a> </li><li><a href="http://www.bchydro.com/youraccount/content/electricity_rates.jsp">Rates</a> </li><li><a href="/news/power_outages.html">Outages</a> </li><li><a href="/news/rss_feeds.html">RSS Feeds</a> </li></ul></li></ul><a href="/news/community_events/2010_winter_games.html"><img style="MARGIN: -12px 0px" alt="Vancouver 2010" src="/images/footer/vanoc_footer_138x120px.jpg"></a><a href="/index.html"><img style="MARGIN: -12px -1px" alt="BC Hydro" src="/images/footer/bchydro_footer_114x120px.jpg"></a> </div></div>
 
 
 
@@ -545,7 +619,7 @@ $(document).ready(function() {
 
 
 <div id="copyright">
-            <span>Copyright © 2009 BC Hydro. All Rights Reserved</span>
+            <span>Copyright © 2010 BC Hydro. All Rights Reserved</span>
             <div align="right">
                 <ul><li class="noBackground"><a href="/siteinfo/legal.html">Legal</a> </li><li><a href="/siteinfo/privacy.html">Privacy Statement</a> </li><li><a href="/siteinfo/site_index.html">Site Index</a> </li></ul>
             </div>
@@ -559,7 +633,7 @@ $(document).ready(function() {
 				<div class="tooltipright"></div>
 			</div>
 
-<!-- total page load time = 312 milliseconds -->
+<!-- total page load time = 614 milliseconds -->
 
 
 
