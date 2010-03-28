@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ad-line.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213085925id_/http%3A//www.ad-line.com/ad-lineprivacypolicy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad-line.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328015628id_/http%3A//ad-line.com/ad-lineprivacypolicy.txt) for the most accurate reproduction.*
 
 # 
 
