@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cakemail.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210135921id_/http%3A//www.cakemail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakemail.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328195410id_/http%3A//www.cakemail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CakeMail | Email Marketing Software
 
