@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordstream.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221094236id_/http%3A//www.wordstream.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordstream.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329014255id_/http%3A//www.wordstream.com/privacy-policy) for the most accurate reproduction.*
 
 # WordStream Privacy Policy | WordStream
 
