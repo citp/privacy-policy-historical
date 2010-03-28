@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mugglenet.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210163059id_/http%3A//www.mugglenet.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mugglenet.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328022827id_/http%3A//www.mugglenet.com/privacy.shtml) for the most accurate reproduction.*
 
 # MuggleNet | Privacy Policy
 
@@ -24,20 +24,3 @@ In the course of serving advertisements to this site, our third-party ad server,
 
 **MuggleNet Layout Cookie**  
 By utilizing the layout-changing feature on MuggleNet, you agree to accept a "cookie" into your browser. This cookie contains _only_ information that is used to set the layout correctly for you and no other personal information or any information which can be used to identify you personally. 
-
-  
-
-
-* * *
-
-MuggleNet is an unofficial Harry Potter fan site. Please [email us](https://web.archive.org/feedback/) if you have any questions or concerns. MuggleNet's original layouts were designed and created by [Navy](mailto:navy_o@hotmail.com). All subsequent layouts by Dylan Spartz.
-
-© 1999-2009 MuggleNet.com. All rights reserved.
-
-[Privacy Policy](https://web.archive.org/privacy.shtml) | [COPPA Policy](http://www.mugglenet.com/coppa.shtml) | [Feedback](http://www.mugglenet.com/feedback/) | [Credits](http://www.mugglenet.com/credits.shtml)  
-[Random Addresses](http://www.mugglenet.com/junk.php)
-
-939 muggles currently online
-
-  
-
