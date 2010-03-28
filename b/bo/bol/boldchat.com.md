@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the boldchat.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830035902id_/http%3A//www.boldchat.com/v5/company/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boldchat.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329013838id_/http%3A//www.boldchat.com/live_chat_software/company/privacy.jsp) for the most accurate reproduction.*
 
-# BoldChat - Privacy
-
-## **PRIVACY STATEMENT**
+# BoldChat - Privacy Statement | BoldChat
 
 We are committed to protecting your privacy. This Privacy Policy details how we use your personal identifying information. This Privacy Policy may be modified at any time without notice to you. Please review this document each time you visit us or use any of our tools or services.
 
@@ -11,15 +9,13 @@ We will never reveal your personal information to any third party or entity exce
   * If a governmental agency, or an attorney, subpoenas your private information, or makes a formal request for discovery pursuant to any legal action, or pending legal action.
   * If our attorney requests such information relevant to a current or pending legal matter in which you are a potential or actual party or otherwise contributed in some way to the causation of the legal matter.
 
+Please note that we employ the use of "Cookies." Currently we employ "Cookies" when users create BoldChat accounts, but we may further employ "Cookies" to assist the functionality of other tools, services and functions in the future. "Cookies" are small programs that enhance your use of the Internet, in general, and specifically we use "Cookies" to enhance your usage of the BoldChat functions.
 
-
-Please note that we employ the use of "Cookies." Currently we employ "Cookies" when users create Boldchat accounts, but we may further employ "Cookies" to assist the functionality of other tools, services and functions in the future. "Cookies" are small programs that enhance your use of the Internet, in general, and specifically we use "Cookies" to enhance your usage of the Boldchat functions.
-
-As you employ Boldchat functions, your user name, password and email address are recorded in a Boldchat database. A session "Cookie" is written to your browser for the purpose of maintaining an authenticated session with you, the user. The information gathered is not shared with third parties. You may turn off your "Cookies" by adjusting the appropriate setting on your browser. Please consult the HELP menu of your browser to learn how to turn your "Cookies" off. "Cookies" do not reveal personal information and if you turn off your "Cookies" you may find your enjoyment of the Internet, and Boldchat, to be reduced or impaired.
+As you employ BoldChat functions, your user name, password and email address are recorded in a BoldChat database. A session "Cookie" is written to your browser for the purpose of maintaining an authenticated session with you, the user. The information gathered is not shared with third parties. You may turn off your "Cookies" by adjusting the appropriate setting on your browser. Please consult the HELP menu of your browser to learn how to turn your "Cookies" off. "Cookies" do not reveal personal information and if you turn off your "Cookies" you may find your enjoyment of the Internet, and BoldChat, to be reduced or impaired.
 
 "Cookies" and IP addresses help us track visitors to our site and to the sites owned and maintained by our various customers. Providing such data to our customers is an inherent part of an important service we provide our contractees. In addition to visit related information, we also provide chat, email, trouble ticket and contact information to our customers so that they may be able to better provide visitors with the services that they offer.
 
-Users who visit our web sites will have their IP address, user agent, and Internet based referrer automatically recorded in a Boldchat log file.
+Users who visit our web sites will have their IP address, user agent, and Internet based referrer automatically recorded in a BoldChat log file.
 
 In order to seek out and repair functionality issues with our servers and related programming, we may use your email and IP addresses for evaluation and diagnostic purposes. We may also use your email and IP address to automatically recognize you should you contact us or use our tools and services. Groups of email and IP addresses are also gathered so that we may have broad demographic information.
 
@@ -31,12 +27,13 @@ Naturally, should you purchase a product or service from us; we will require suf
 
 Please contact us here if you should have any questions, comments or concerns about this privacy policy.
 
-You may write us via surface mail:
+**You may write us via surface mail:**
 
 > Bold Software, LLC  
 >  1938 N Woodlawn, Suite 410  
 >  Wichita, Kansas 67208 
 
-You may phone us:
+**You may phone us:**  
+
 
 > 316-630-9933 
