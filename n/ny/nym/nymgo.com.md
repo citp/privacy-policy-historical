@@ -1,35 +1,33 @@
-> *The following text is extracted and transformed from the nymgo.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417065436id_/http%3A//www.nymgo.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nymgo.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328143608id_/http%3A//www.nymgo.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Nymgo
 
-This privacy policy sets out how NYMGO uses and protects any information that you give NYMGO when you use [www.nymgo.com](http://www.nymgo.com/) or NYMGO's software.
+This privacy policy sets out how NYMGO uses and protects any information that you give NYMGO when you use [www.nymgo.com](http://www.nymgo.com/) or NYMGO's software. 
 
-NYMGO is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using [www.nymgo.com](http://www.nymgo.com/) or NYMGO's software, then you can be assured that it will only be used in accordance with this privacy statement.
+NYMGO is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using [www.nymgo.com](http://www.nymgo.com/) or NYMGO's software, then you can be assured that it will only be used in accordance with this privacy statement. 
 
-NYMGO may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from October, 2008.
+NYMGO may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from October, 2008. 
 
 **What we collect**
 
 We may collect the following information:
 
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
-
-
+name and job title  
+contact information including email address  
+demographic information such as postcode, preferences and interests  
+other information relevant to customer surveys and/or offers
 
 **What we do with the information we gather**
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services. 
-  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. 
-  * We may use the information to customise the website according to your interests.
-
-
+Internal record keeping.  
+We may use the information to improve our products and services.  
+We may periodically send promotional email about new products, special offers or other information which   
+   we think you may find interesting using the email address which you have provided.  
+From time to time, we may also use your information to contact you for market research purposes. We may   
+   contact you by email, phone, fax or mail.  
+We may use the information to customise the website according to your interests.
 
 **Security**
 
@@ -43,27 +41,31 @@ We use traffic log cookies to identify which pages are being used. This helps us
 
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
 
 **Links to other websites**
 
-Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
 
 **Controlling your personal information**
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the below address. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the below address. We will promptly correct any information found to be incorrect. 
 
 **Contact Us**
 
-Please submit any complaints related to privacy issues to the following address
+Please submit any complaints related to privacy issues to the following address 
 
 **Mailing Address:**
 
-Splendor Telecom UK LTD   
-204 Winsford Avenue, Allesley Park, Coventry, CV5 9NB   
-United Kingdom   
-Attn: NYMGO - Legal Department
+Splendor Telecom UK LTD  
+Suite 328, Linen Hall, 162-168 Regent Street, London W1B 5TD  
+United Kingdom  
+Attn: NYMGO - Legal Department  
+Telephone: +44 203 3553209  
+Fax: +44 20 7038 3707 
+
+E-mail: support@nymgo.com 
 
 You may also contact NYMGO directly through its website at [www.nymgo.com](http://www.nymgo.com/). 
