@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wink.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211173356id_/http%3A//wink.com/wink/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wink.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328100447id_/http%3A//wink.com/wink/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Wink
 
