@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acquia.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213070632id_/http%3A//acquia.com/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acquia.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328014032id_/http%3A//acquia.com/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Acquia
 
