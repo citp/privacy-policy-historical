@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eworldtradefair.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127052115id_/http%3A//www.eworldtradefair.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eworldtradefair.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328205252id_/http%3A//www.eworldtradefair.com/privacy) for the most accurate reproduction.*
 
 # B2B Privacy Policy: Manufacturers Exporters Suppliers and Wholesale Distributors Online at Eworldtradefair.com
 
