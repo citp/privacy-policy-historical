@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imreportcard.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209064157id_/http%3A//www.imreportcard.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imreportcard.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328014418id_/http%3A//www.imreportcard.com/privacy.cgi) for the most accurate reproduction.*
 
 # IM Report Card Privacy Policy
 
