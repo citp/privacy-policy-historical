@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toppstiles.co.uk privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203082840id_/http%3A//toppstiles.co.uk/page62/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toppstiles.co.uk privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328215840id_/http%3A//www.toppstiles.co.uk/page62/privacy.html) for the most accurate reproduction.*
 
 # Topps Tiles Plc | Britain's biggest tile and wood flooring specialist
 
@@ -90,3 +90,6 @@ If you have any questions about security please contact the TOPPS TILES on 0800 
 TOPPS TILES will notify all members of any changes it makes to its Privacy Policy. If TOPPS TILES decides to change its Privacy Policy, it will post such changes on this page so that you are always aware of how TOPPS TILES uses your personal data.
 
 Users have the right to ask TOPPS TILES, in writing, for a copy of all the personal data held about them upon payment of a fee ("subject access request") and to request that TOPPS TILES correct any inaccuracies in that information.
+
+[](https://web.archive.org/e360/s_basket_view_basket.asp)  
+
