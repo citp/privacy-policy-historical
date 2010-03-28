@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yogaglo.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212010746id_/http%3A//www.yogaglo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogaglo.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328062443id_/http%3A//www.yogaglo.com/privacy.php) for the most accurate reproduction.*
 
 # yogaglo
 
@@ -115,7 +115,7 @@ We also may make chat rooms, forums and message boards available to you on the W
 
 **Yogaglo Terms and Conditions of Use**
 
-A complete statement of our Terms and Conditions of Use can be found [here](https://web.archive.org/web/20091212010746id_/http%3A//www.yogaglo.com/termsandconditions.php). Yogaglo's Terms and Conditions of Use are expressly incorporated into this Policy by this reference.
+A complete statement of our Terms and Conditions of Use can be found [here](https://web.archive.org/web/20100328062443id_/http%3A//www.yogaglo.com/termsandconditions.php). Yogaglo's Terms and Conditions of Use are expressly incorporated into this Policy by this reference.
 
 **Your consent**
 
