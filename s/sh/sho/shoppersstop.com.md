@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoppersstop.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619043358id_/http%3A//www.shoppersstop.com/privacyPolicy.jsp.vr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppersstop.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328032932id_/http%3A//www.shoppersstop.com/privacyPolicy.jsp.vr) for the most accurate reproduction.*
 
 # ShoppersStop.com - Privacy Policy
 
