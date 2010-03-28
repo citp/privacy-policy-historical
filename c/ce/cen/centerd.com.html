@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the centerd.com privacy policy that was archived on 2009-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091211213140id_/http%3A//www.centerd.com/content/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the centerd.com privacy policy that was archived on 2010-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100328014033id_/http%3A//www.centerd.com/content/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		<title>Privacy - Centerd.com (first draft)</title>
@@ -20,39 +20,6 @@
 	<meta name="geo.region" content="">
 	
 	<link rel="shortcut icon" href="http://www.centerd.com/favicon.ico" type="image/x-icon">
-	
-	
-	<script type="text/javascript">
-    function OpenBusinessReferralLinks(Category, Action, Label, Value, isHeaderShowModalDialog, url, track, h, w, scrollOn)
-    {
-        trackEvent(Category, Action, Label, Value, isHeaderShowModalDialog, url, track, h, w, scrollOn);
-    }
-    </script>
-
-    <script type="text/javascript">
-    function trackEvent(Category, Action, Label, Value, isHeaderShowModalDialog, url, track, h, w, scrollOn)
-    {
-        if(track == "true")
-        { 
-    	    
-                pageTracker._trackEvent(Category, Action, Label, Value);
-            
-        } 
-        if(url)
-        {
-            if(isHeaderShowModalDialog)
-            {
-                headerShowModalDialog(url, h, w, scrollOn);
-            }
-            else
-            {
-                window.open (url, 'newwindow');
-            }
-        }
-    }
-    </script>
-
-	
 	
 
     <!-- Start GA Tracking -->
@@ -81,6 +48,13 @@
     </noscript>
     <!-- End Quantcast tag -->
 	
+	
+	<script type="text/javascript" src="http://www.centerd.com/js/core.js?v=03232010.01"></script>
+	<script type="text/javascript" src="http://www.centerd.com/js/scriptaculous.js?v=03232010.01"></script>
+	<script type="text/javascript" src="http://www.centerd.com/js/header.js?v=03232010.01"></script>
+	
+		<link rel="stylesheet" href="http://www.centerd.com/css/style.css" type="text/css">	
+	
 	<script type="text/javascript">
 		var rootPath = "http://www.centerd.com/";
 		var authRootDomain = "http://www.centerd.com/";
@@ -95,47 +69,135 @@
 		var headerCurrentUserName = ""; 
 		var headerCurrentUserMapSettings = "0";
 		
+		//Do not move this script / depended on 'errorMessage' div
+			window.onscroll = onScrollHeaderElementPosition; 
+			var mems;
+			var id = "header";
+			var type = ""
+			var searchLocation = "";
+			var showDropDown = false;
+			var carrotClickedClass = "";
+			var currentHoverClass='';
+		    var hideSearch = true;
+			function onScrollHeaderElementPosition(elID, pxPos){
+				if(!elID)
+					return;
+				if(!pxPos)
+					pxPos = 98;
+				
+				var scrollTop = document.documentElement.scrollTop;
+				if(Prototype.Browser.WebKit){scrollTop=window.pageYOffset}
+				if(scrollTop > pxPos){
+					if(document.all){
+						$(elID).style.position = "absolute";
+						if($(elID).id =="errorMessage"){
+						    $(elID).style.top = document.documentElement.scrollTop + "px";
+						    var pad = (GetWindowWidth()-960)/2
+						    if(pad<0)
+						        pad =0;
+				            $(elID).style.left = pad+ "px";
+						}
+						else{
+						    $(elID).style.top = (document.documentElement.scrollTop+150) + "px";
+						}
+						
+					}else{
+						if($(elID) && $(elID).style)
+						{
+						     $(elID).style.position = 'absolute';
+						     
+						     
+						     if($(elID).id =="errorMessage"){
+						        $(elID).style.top = scrollTop + "px";
+						    }
+						     else{
+						        $(elID).style.top = scrollTop + "px";
+						     }
+						}
+					}
+				}else{
+					if($(elID).style)
+					{
+						$(elID).style.top = 80 + "px";
+						$(elID).style.position = 'absolute';
+					}
+					if(document.all)
+					{
+				        $(elID).style.position = "absolute";
+						var pad = (GetWindowWidth()-960)/2
+						if(pad<0)
+						    pad =0;
+				        $(elID).style.left = pad+ "px";
+						if($(elID).id =="errorMessage"){
+						    $(elID).style.top = document.documentElement.scrollTop+70 +"px";
+						}
+						else{}
+				    }
+				}
+			}
+			function submitOnEnter(e)
+			{
+				 if(e && e.keyCode && e.keyCode == 13)
+				 {
+					var sourceID ="";
+					try{
+						if(e.srcElement)
+							sourceID = e.srcElement.id;//IE
+						else{
+							sourceID = e.target.id;//FF and others
+						}
+							
+					}
+					catch(exception){
+						return;
+					}
+					headerSubmitSearch('p');
+					return false;
+				} 
+				 else 
+					return true;
+			}
+			
+			function CheckCampainCookies()
+            {
+		        var allcookies = document.cookie; 
+		        if(allcookies.indexOf("campaignCookie_Iphoneapp=")==-1)
+		        try{
+                    $$('.HeaderSiteWideHeaderMessage')[0].show();
+                }
+                catch(err){}
+		    }
+		    function setCampaignCookie(){
+		        /*document.cookie = "campaignCookie_Iphoneapp=noshow; max-age=" + (60*60*24*364);*/
+		        createCookie("campaignCookie_Iphoneapp","noshow",365);
+		        $$('.HeaderSiteWideHeaderMessage')[0].style.display = "none";
+		    }
+		    function createCookie(name,value,days) {
+	            if (days) {
+		            var date = new Date();
+		            date.setTime(date.getTime()+(days*24*60*60*1000));
+		            var expires = "; expires="+date.toGMTString();
+	            }
+	            else var expires = "";
+	            document.cookie = name+"="+value+expires+"; path=/";
+            }
+
+            function readCookie(name) {
+	            var nameEQ = name + "=";
+	            var ca = document.cookie.split(';');
+	            for(var i=0;i < ca.length;i++) {
+		            var c = ca[i];
+		            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	            }
+	            return null;
+            }
+
+
+		    CheckCampainCookies();
 	 </script>
-	
-	
-	<link rel="stylesheet" href="http://www.centerd.com/css/style.css" type="text/css">	
     
-    <style>
-        .HeaderSiteWideHeaderMessage{
-            background:url(http://www.centerd.com/images/marketing/iphone-message-bg.jpg) no-repeat top left; 
-            margin-bottom:20px;
-            display:block;
-            width:955px;
-            height:47px;
-        }
-        .HeaderSiteWideHeaderMessage div{
-            padding-top:18px;
-            margin-left:145px;
-            font-weight:bold;
-        }
-        .HeaderSiteWideHeaderMessage a{
-            text-decoration:underline;
-            font-weight:bold;
-            margin-left:10px;
-            color:#004983;
-        }
-        a.closeLink{
-            display:block;
-            background:url(http://www.centerd.com/images/marketing/close.jpg) no-repeat 0 0;
-            height:13px;
-            width:13px;
-            margin:0;
-            float:right;
-            margin:10px 5px 0 0;
-        }
-        .HeaderSiteWideMessageClickableImage{
-            display:block;
-            height:45px;
-            float:left;
-            margin-left:34px;
-            width:100px;
-        }
-    </style>
+    
 	<!--[if IE 7]>
 		<style type="text/css">
 			form#editProfile .textarea,
@@ -157,10 +219,6 @@
 	<!--[if lt IE 7]>
     <script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7.js" type="text/javascript"></script>
     <![endif]-->
-
-	<script type="text/javascript" src="http://www.centerd.com/js/core.js?v=12042009.01"></script>
-	<script type="text/javascript" src="http://www.centerd.com/js/scriptaculous.js?v=12042009.01"></script>
-	<script type="text/javascript" src="http://www.centerd.com/js/header.js?v=12042009.01"></script>
 	
     
 	<div class="container" id="container2"> <!-- Container END is in the footer -->
@@ -244,9 +302,9 @@
 						</span>
 						<ul class="submenu" id="nav-explore" style="display: none;">
 							<div class="submenu-wrap">
-								<li><a rel="nofollow" href="http://www.centerd.com/explore/San Francisco, CA" title="Explore places">Places</a></li>
-							    <li><a rel="nofollow" href="http://www.centerd.com/places/" title="Explore cities">Cities</a></li>								
-								<li><a rel="nofollow" href="http://www.centerd.com/explore/San Francisco, CA/events" title="Explore events">Events</a></li>
+								<li><a rel="nofollow" href="http://www.centerd.com/explore/san-francisco-ca" title="Explore places">Places</a></li>
+							    <li><a rel="nofollow" href="http://www.centerd.com/city-guides" title="Explore cities">Cities</a></li>								
+								<li><a rel="nofollow" href="http://www.centerd.com/events/san-francisco-ca/all-events" title="Explore events">Events</a></li>
 							</div>
 						</ul>
 					</div>
@@ -290,139 +348,6 @@
             <div>Now you can get ideas for things to do and search for places with the Center'd iPhone app <a href="http://www.centerd.com/content/iphoneapp.aspx">Learn More</a></div>
             <span class="clear"></span>
         </div>
-		<script type="text/javascript">
-			//Do not move this script / depended on 'errorMessage' div
-			window.onscroll = onScrollHeaderElementPosition; 
-			var mems;
-			var id = "header";
-			var type = ""
-			var searchLocation = "";
-			var showDropDown = false;
-			var carrotClickedClass = "";
-			var currentHoverClass='';
-		    var hideSearch = true;
-			function onScrollHeaderElementPosition(elID, pxPos){
-				if(!elID)
-					return;
-				if(!pxPos)
-					pxPos = 98;
-				
-				var scrollTop = document.documentElement.scrollTop;
-				if(Prototype.Browser.WebKit){scrollTop=window.pageYOffset}
-				if(scrollTop > pxPos){
-					if(document.all){
-						$(elID).style.position = "absolute";
-						if($(elID).id =="errorMessage"){
-						    $(elID).style.top = document.documentElement.scrollTop + "px";
-						    var pad = (GetWindowWidth()-960)/2
-						    if(pad<0)
-						        pad =0;
-				            $(elID).style.left = pad+ "px";
-						}
-						else{
-						    $(elID).style.top = (document.documentElement.scrollTop+150) + "px";
-						}
-						
-					}else{
-						if($(elID) && $(elID).style)
-						{
-						     $(elID).style.position = 'absolute';
-						     
-						     
-						     if($(elID).id =="errorMessage"){
-						        $(elID).style.top = scrollTop + "px";
-						    }
-						     else{
-						        $(elID).style.top = scrollTop + "px";
-						     }
-						}
-					}
-				}else{
-					if($(elID).style)
-					{
-						$(elID).style.top = 80 + "px";
-						$(elID).style.position = 'absolute';
-					}
-					if(document.all)
-					{
-				        $(elID).style.position = "absolute";
-						var pad = (GetWindowWidth()-960)/2
-						if(pad<0)
-						    pad =0;
-				        $(elID).style.left = pad+ "px";
-						if($(elID).id =="errorMessage"){
-						    $(elID).style.top = document.documentElement.scrollTop+70 +"px";
-						}
-						else{
-						    //$(elID).style.top = 150 +"px";
-						}
-				    }
-				}
-                /*
-				if($(elID) && $(elID).id !="errorMessage"  && $(elID).style){
-				        var pad = (GetWindowWidth()-pxPos)/2
-				        $(elID).style.left = pad+ "px";
-				    }
-			    */
-			}
-			function submitOnEnter(e)
-			{
-				 if(e && e.keyCode && e.keyCode == 13)
-				 {
-					var sourceID ="";
-					try{
-						if(e.srcElement)
-							sourceID = e.srcElement.id;//IE
-						else{
-							sourceID = e.target.id;//FF and others
-						}
-							
-					}
-					catch(exception){
-						return;
-					}
-					headerSubmitSearch('p');
-					return false;
-				} 
-				 else 
-					return true;
-			}
-			
-			function CheckCampainCookies()
-            {
-		        var allcookies = document.cookie; 
-		        if(allcookies.indexOf("campaignCookie_Iphoneapp=")==-1)
-                    $$('.HeaderSiteWideHeaderMessage')[0].show();
-		    }
-		    function setCampaignCookie(){
-		        /*document.cookie = "campaignCookie_Iphoneapp=noshow; max-age=" + (60*60*24*364);*/
-		        createCookie("campaignCookie_Iphoneapp","noshow",365);
-		        $$('.HeaderSiteWideHeaderMessage')[0].style.display = "none";
-		    }
-		    function createCookie(name,value,days) {
-	            if (days) {
-		            var date = new Date();
-		            date.setTime(date.getTime()+(days*24*60*60*1000));
-		            var expires = "; expires="+date.toGMTString();
-	            }
-	            else var expires = "";
-	            document.cookie = name+"="+value+expires+"; path=/";
-            }
-
-            function readCookie(name) {
-	            var nameEQ = name + "=";
-	            var ca = document.cookie.split(';');
-	            for(var i=0;i < ca.length;i++) {
-		            var c = ca[i];
-		            while (c.charAt(0)==' ') c = c.substring(1,c.length);
-		            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-	            }
-	            return null;
-            }
-
-
-		    CheckCampainCookies();
-		</script>
 	    <div id="errorMessage" style="display:none">
 	        <a onclick="headerHideErrorMessage();" title="Close this message" class="close-msg">Close</a>
 	        <p id="errorMessageInner"></p>
@@ -580,7 +505,7 @@
 			<!-- End Content -->									
 		</form>
 		
-<link rel="stylesheet" href="http://www.centerd.com/css/footer/footer.css" type="text/css">
+
 <div id="footer">	
     
         <!-- global nav links here -->
@@ -611,7 +536,7 @@
 			    <h5>Explore</h5>
 			    <ul>
 				    <li><a rel="nofollow" href="http://www.centerd.com/explore/" title="Center'd Maps">Maps</a></li>
-				    <li><a rel="nofollow" href="http://www.centerd.com/explore/?etype=events" title="Center'd Events">Events</a></li>
+				    <li><a rel="nofollow" href="http://www.centerd.com/events" title="Center'd Events">Events</a></li>
 			        <li><a href="http://www.centerd.com/city-guides" title="Center'd City Guides">City Guides</a></li>				
 			    </ul>
 		    </li>
@@ -649,7 +574,7 @@
 			    <ul>
 				    <li><a rel="nofollow" href="http://www.centerd.com/search/widgets/create.aspx" title="Center'd Widgets">Widgets</a></li>
 				    <li><a rel="nofollow" href="http://www.centerd.com/content/iphoneapp.aspx" title="Center'd Iphone App">iPhone App</a></li>
-				    <li><a title="Center'd Driving Directions" href="http://www.centerd.com/directions/">Driving Directions</a></li>
+				    <li><a title="Center'd Driving Directions" href="http://www.centerd.com/driving-directions/">Driving Directions</a></li>
 			    </ul>
 		    </li>
     	
@@ -692,20 +617,10 @@
 </div> <!-- Close Footer -->
 
 </div> <!-- Close the Container -->
-<script>
-try
-{
-    if(GUnload){Event.observe(window, 'unload', GUnload, false);}
-}
-catch(evrthng){}
-try{
-new Draggable('errorMessage');
-new Draggable('modalDialog', {'ghosting':false, 'starteffect':null, 'endeffect':null, 'reverteffect':null, 'endeffect':null});
-}
-catch(e){}
-</script>
+<script type="text/javascript" src="http://www.centerd.com/js/footer.js?v=03232010.01"></script>			
+		    
 
-<!--Generated at 12/11/2009 1:31:38 PM -->	
+<!--Generated at 3/27/2010 6:40:29 PM -->	
 	
 
 </body></html>
