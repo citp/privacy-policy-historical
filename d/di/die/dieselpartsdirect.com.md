@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dieselpartsdirect.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219125141id_/http%3A//www.dieselpartsdirect.com/Privacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dieselpartsdirect.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328165028id_/http%3A//www.dieselpartsdirect.com/Privacy%2520Policy.htm) for the most accurate reproduction.*
 
 # Diesel Parts Direct Privacy Policy
 
