@@ -1,24 +1,19 @@
-> *The following text is extracted and transformed from the gaspowered.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209212844id_/http%3A//gaspowered.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaspowered.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328140003id_/http%3A//gaspowered.com/privacy.php) for the most accurate reproduction.*
 
 # Gas Powered Games: Privacy Policy
 
 | 
 
+|  | | 
+
 | |   
 
 
-Last updated: September 2nd, 2008
+Last updated: October 6th, 2009
 
 **OUR PRIVACY COMMITMENT**
 
-[](http://www.esrb.org/confirm/gaspowerg-confirmation.jsp)
-
 Gas Powered Games respects the privacy rights of our online visitors and recognizes the importance of protecting all information that you may choose to share with us.
-
-This Privacy Statement and the certification seal shown on this page confirms that Gas Powered Games is a valid member in [ESRB's Privacy Online Program](http://www.esrb.org/privacy.asp). ESRB's Privacy Online Program is designed to alleviate consumers' privacy concerns by ensuring a website's information disclosure practices are responsible and appropriate.
-
-  
-
 
 ### TABLE OF CONTENTS
 
@@ -27,9 +22,8 @@ This Privacy Statement and the certification seal shown on this page confirms th
   3. How is your personally identifiable information used and shared?
   4. What choices do you have about the collection, use, and sharing of your personally identifiable information?
   5. What kinds of security measures do we take to safeguard your personally identifiable information?
-  6. How can you update your personal information and profile?
-  7. How can you ask questions, or send us comments, about this Privacy Policy?
-  8. How will you know if we amend this Privacy Policy?
+  6. How can you ask questions, or send us comments, about this Privacy Policy?
+  7. How will you know if we amend this Privacy Policy?
 
 | 
 
@@ -192,29 +186,11 @@ top
 
 | 
 
-**How can you update your personal information and profile?**  
-  
----|---  
-  
-### A6
-
-| 
-
-You can access and update the contact information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), by going to our profile section. Simply click on this link - <http://www.gaspowered.com/subscribe.php>. 
-
-If you forget your password, read the instructions on the start page of the link above to help you recover it. If you need to recover your password, you can also contact us via e-mail at garage@gaspowered.com. Please include information in the e-mail that will help us identify your account so we can assist you with your request. We may also provide you an opportunity to update your contact information by sending you an e-mail or other communication that invites your response.
-
-top  
-  
-### Q7
-
-| 
-
 **How can you ask questions, or send us comments, about this Privacy Policy?**  
   
 ---|---  
   
-### A7
+### A6
 
 | 
 
@@ -229,18 +205,9 @@ Redmond, WA 98052-5118
 
 Please be assured that any personal information that you provide in communications to the above email and postal mail addresses will not be used to send you promotional materials, unless you request it.
 
-Gas Powered Games is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>
-
-ESRB  
-Attn.: Privacy Online Program  
-317 Madison Avenue, 22nd Floor  
-New York, NY 10017
-
-privacy@esrb.org
-
 top  
   
-### Q8
+### Q7
 
 | 
 
@@ -248,7 +215,7 @@ top
   
 ---|---  
   
-### A8
+### A7
 
 | 
 
@@ -261,4 +228,6 @@ top
  
 
   
-
+  
+  
+| 
