@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the boliviabella.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211182905id_/http%3A//www.boliviabella.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boliviabella.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328072348id_/http%3A//www.boliviabella.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy BoliviaBella.com
 
 ## BoliviaBella.com Privacy Policy  
 Effective 4/8/09
 
-[How it Works](http://www.boliviabella.com/bolivia-travel-stories.html) • [Existing Topics](http://www.boliviabella.com/travel-forum-topics.html) • [Start a New Topic](http://www.boliviabella.com/bolivia-travel-forum.html) • [Privacy Policy](http://www.boliviabella.com/privacy-policy.html) • [Chat Room](http://www.boliviabella.com/chat.html)
+[Pando](http://www.boliviabella.com/pando-bolivia.html)    [Beni](http://www.boliviabella.com/beni-bolivia.html)    [Santa Cruz](http://www.boliviabella.com/santa-cruz-bolivia.html)    [Tarija](http://www.boliviabella.com/tarija-bolivia.html)    [Sucre](http://www.boliviabella.com/sucre-bolivia.html)    [Cochabamba](http://www.boliviabella.com/cochabamba-bolivia.html)    [Potosi](http://www.boliviabella.com/potosi-bolivia.html)    [Oruro](http://www.boliviabella.com/oruro-bolivia.html)    [La Paz](http://www.boliviabella.com/la-paz-bolivia.html)
+
+[](http://www.boliviabella.com/bolivia-gifts.html)
 
 * * *
 
