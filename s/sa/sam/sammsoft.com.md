@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sammsoft.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203071531id_/http%3A//www.sammsoft.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sammsoft.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328123827id_/http%3A//sammsoft.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Sammsoft - Privacy, Utility and Security Software for the PC
 
@@ -6,11 +6,13 @@ Sammsoft Privacy Policy
 
 Sammsoft takes your privacy as seriously as you do. Respecting your privacy is our lifeblood because without customers like you we have no business. This Privacy Policy is designed to assist you in understanding how we collect and use personal information such as your name and email address. We hope that this will help you to make informed decisions when visiting our web sites, buying from us, or otherwise using our services.
 
+Sammsoft voluntarily adheres to the Safe Harbor Agreement concerning the transfer of personal data from the European Union to the United States. Accordingly, we follow the Safe Harbor Principles published by the U.S. Department of Commerce ("Principles") with respect to all such data. The Principles can be found at <http://www.export.gov/safeharbor/SHPRINCIPLESFINAL.htm>. If there is any conflict between this Privacy Policy ("Policy") and the Principles, the Principles will govern. 
+
 What This Privacy Policy Covers and Applies To
 
 * * *
 
-This Privacy Policy covers how Sammsoft treats personal information that we collect and receive. Personal information is information about you that is personally identifiable like your name or email address. This Privacy Policy applies to all of the products, services, and websites offered by Sammsoft. In this Privacy Policy, references to “we,” “our” and “us” refer to Sammsoft while “you” and “your” refer to you, the customer or user. This Privacy Policy does not apply to the practices of companies that Sammsoft does not own or control or to people that Sammsoft does not employ or manage.
+This Privacy Policy covers how Sammsoft treats personal information that we collect and receive. Personal information is information about you that is personally identifiable like your name or email address. This Privacy Policy applies to all of the products, services, and websites offered by Sammsoft. In this Privacy Policy, references to "we," "our" and "us" refer to Sammsoft while "you" and "your" refer to you, the customer or user. This Privacy Policy does not apply to the practices of companies that Sammsoft does not own or control or to people that Sammsoft does not employ or manage.
 
 Information We Collect
 
@@ -23,6 +25,13 @@ How We Use Collected Information
 * * *
 
 Sammsoft uses information for the following general purposes: to customize the advertising and content you see, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
+
+CONSENT
+
+* * *
+
+BY USING OUR SITE, YOU CONSENT TO THE COLLECTION, USE AND DISCLOSURE OF YOUR PERSONAL INFORMATION IN ACCORDANCE WITH THE PRIVACY POLICY. BECAUSE WE OPERATE GLOBALLY, WE MAKE INFORMATION WE GATHER AVAILABLE TO OUR WORLDWIDE BUSINESS UNITS.  
+FOR THOSE OF YOU VISITING US FROM THE EUROPEAN UNION, CANADA, OR OTHER JURISDICTIONS OUTSIDE OF THE UNITED STATES, PLEASE NOTE THAT THE PERSONAL INFORMATION YOU ENTER WILL BE TRANSFERRED OUTSIDE THE EUROPEAN UNION OR YOUR HOME COUNTRY FOR USE BY US AND OUR AFFILIATES FOR ONE OR MORE OF THE PURPOSES DESCRIBED IN THIS POLICY. YOUR INFORMATION MAY BE PROCESSED AND STORED IN THE UNITED STATES, AND AS A RESULT, GOVERNMENTS, COURTS, OR LAW ENFORCEMENT OR REGULATORY AGENCIES MAY BE ABLE TO OBTAIN DISCLOSURE OF YOUR INFORMATION THROUGH LAWS APPLICABLE IN THE UNITED STATES. BY USING OUR SITE AND PROVIDING US WITH YOUR PERSONAL INFORMATION, YOU CONSENT TO THIS TRANSFER OF YOUR PERSONAL INFORMATION. 
 
 Children
 
@@ -55,7 +64,9 @@ General
 
 * * *
 
-You can edit your personal information stored by us at any time by utilizing web services, if available, or by contacting us via one of the methods listed at the end of this policy. We reserve the right to send you certain communications relating to Sammsoft, such as service announcements and administrative messages that are considered part an established business relationship, without offering you the opportunity to opt-out of receiving them. Sammsoft is a trade name for certain software products developed by or for Xeriton Corporation. As used in this agreement, Xeriton Corporation, its divisions, trade names, subsidiaries, and affiliated companies and entities are collectively referred to as “Sammsoft” or “Xeriton.” We reserve the right to use information about you in accordance with this policy for all Xeriton divisions and under all Xeriton trade names.
+You can edit your personal information stored by us at any time by utilizing web services, if available, or by contacting us via one of the methods listed at the end of this policy. 
+
+We reserve the right to send you certain communications relating to Sammsoft, such as service announcements and administrative messages that are considered part an established business relationship, without offering you the opportunity to opt-out of receiving them. Sammsoft is a trade name for certain software products developed by or for support.com, Inc. or its subsidiary, SDC Software, Inc. As used in this agreement, support.com, Inc., its divisions, trade names, subsidiaries, and affiliated companies and entities are collectively referred to as "Sammsoft" or "support.com." We reserve the right to use information about you in accordance with this policy for all support.com subsidiaries and divisions and under all support.com trade names. 
 
 Confidentiality and Security
 
@@ -69,4 +80,4 @@ Contact Us
 
 Sammsoft may update this policy at any time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address in our file for you or by placing a prominent notice on our site. If you have any questions about this Privacy Policy, please email us at support@ Sammsoft.com or write to us at Privacy Concerns, c/o Sammsoft, 23316 NE Redmond-Fall City Road, #667, Redmond, WA 98053.
 
-Last Updated October 23, 2006
+Last Updated December 21, 2009
