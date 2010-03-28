@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designtoscano.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212070334id_/http%3A//www.designtoscano.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designtoscano.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328023948id_/http%3A//www.designtoscano.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy and Security - Customer Service - Design Toscano
 
@@ -7,8 +7,6 @@ Privacy refers to the information we obtain about you and the use we make of it 
 Your privacy issue is our concern. We understand that we have to gain your trust first before you participate in our site offerings. That is why we go to great lengths to keep your sensitive information safe and secure. If you don't find your concerns addressed here, feel free to contact us by email at [customerservice@designtoscano.com](mailto:customerservice@designtoscano.com) or call 
 
 1-800-525-5141.
-
-"Secure transactions for this website are done via (www.designtoscano.com) who use a Verisign certificate to ensure secure transmission of your information." 
 
   
 When you purchase from Design Toscano, Inc., order a catalog or register to be a preferred customer, we only collect the information that you provide us: name, address, email, credit card and any other data we need to complete your order or catalog request and ensure that any marketing communications are tailored to your particular interests and lifestyle. Registration is optional, so you choose whether or not we store your information to make future shopping experiences more convenient. 
@@ -19,7 +17,7 @@ When you order from our catalog or online store, your name becomes part of our c
 "Cookies" are small pieces of data that your browser holds in memory or stores in a special file on your hard drive. These small pieces of data are used to help our server remember you while you browse our site from one link to the next and allow us to improve the quality of your experience when you visit our site. Cookies also allow you to place items in your shopping cart, continue browsing, and come back to check out at a later time. We do not use cookies to store any of your personal or financial information on your computer or on our servers. 
 
   
-We have taken many steps to ensure the security of your transactions. At Design Toscano, Inc. all orders are transmitted over secure Internet connections using SSL (Secure Sockets Layer) encryption technology. We use Verisign SSL Web Server Certificate, to ensure that your information sent to our web server is encrypted and scrambled, making it secure. All of your personal information including your credit card information and sign-in password are stored in an unreadable, encrypted format at all times. To learn more about the Verisign SSL technology please visit their web site at: [ https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.DESIGNTOSCANO.COM&lang=en](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.DESIGNTOSCANO.COM&lang=en)
+We have taken many steps to ensure the security of your transactions. At Design Toscano, Inc. all orders are transmitted over secure Internet connections using SSL (Secure Sockets Layer) encryption technology. We use GoDaddy SSL Web Server Certificate, to ensure that your information sent to our web server is encrypted and scrambled, making it secure. All of your personal information including your credit card information and sign-in password are stored in an unreadable, encrypted format at all times. 
 
   
 Design Toscano and its agents does not rent or exchange your email address(es) with any third party marketer. 
@@ -46,4 +44,4 @@ Elk Grove Village, IL. 60007
 Or call 1-800-525-5141, Monday through Friday, between the hours of 8:00 a.m. - 6:00 p.m. (CST).  
 Or email us at [customerservice@designtoscano.com](mailto:customerservice@designtoscano.com)
 
-Last Updated: October 4th, 2007 
+Last Updated: February 2010 
