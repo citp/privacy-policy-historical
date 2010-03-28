@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 1888pressrelease.com privacy policy that was archived on 2009-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091215081512id_/http%3A//www.1888pressrelease.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 1888pressrelease.com privacy policy that was archived on 2010-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100328074122id_/http%3A//www.1888pressrelease.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Privacy Policy - 1888 PressRelease</title>
@@ -34,7 +34,7 @@
 							</tbody></table>
 						</td>				
 						
-						<td class="main_text" colspan="2" align="right" valign="top">December 15, 2009						</td>
+						<td class="main_text" colspan="2" align="right" valign="top">March 28, 2010						</td>
 					</tr>
 					<tr>
 						<td class="main_text" colspan="5" align="right" valign="top" height="30">
@@ -154,6 +154,53 @@
 	</tbody></table>
 	<table width="100%" cellpadding="0" cellspacing="0" border="0" class="left_table_bg">
 		<tbody><tr>
+			<td class="left_heading">Newsletter</td>
+		</tr>
+		<script language="JavaScript" type="text/javascript" src="includejs/common-js-functions.js"></script>
+		<script type="text/javascript"> 
+			function validate_email_address()
+			{
+				if(Trim(document.frmnewsslatter.txtemail.value) == '')	
+				{
+					alert("Please enter your email address.");
+					document.frmnewsslatter.txtemail.focus();
+					return false;			
+				}	
+				if(!isValidEmail(document.frmnewsslatter.txtemail.value))
+				{
+					document.frmnewsslatter.txtemail.focus();
+					document.frmnewsslatter.txtemail.select();		
+					return false;
+				}
+				return true;
+			}
+		</script>
+		<form name="frmnewsslatter" action="/news_latter_success.php" method="post"></form>
+		<tr>
+			<td class="left_text">Email Address:</td>
+		</tr>										
+		<tr>
+			<td class="left_text" align="right"><input type="text" class="textbox" size="25" name="txtemail"></td>
+		</tr>
+		<tr>
+			<td class="left_samll_text">
+				<input type="submit" name="sbmt1" class="submitbutton" value="Subscribe" onclick="return validate_email_address();">
+			</td>
+		</tr>
+		<tr>
+			<td height="30"></td>
+		</tr>
+		
+	</tbody></table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td width="12" height="13" class="curve_l"></td>
+			<td width="176" bgcolor="#f1f1f1"></td>
+			<td width="12" height="13" class="curve_r"></td>
+		</tr>
+	</tbody></table>
+	<table width="100%" cellpadding="0" cellspacing="0" border="0" class="left_table_bg">
+		<tbody><tr>
 			<td class="left_heading">Navigation</td>
 		</tr>
 		<tr>
@@ -175,8 +222,8 @@
 			<td class="left_text"><a href="/company-list-a.html">Company List</a></td>
 		</tr>
 		<tr>
-			<td class="left_text"><a href="/email-newsletter.php">Weekly Newsletter</a></td>
-		</tr>
+			<td class="left_text"><a href="/journalist1/">Journalist Section</a></td>
+		</tr>		
 		<tr>
 			<td height="30"></td>
 		</tr>
@@ -274,7 +321,8 @@
 				<a href="/privacy-policy.html" class="footer_menu_text">Privacy Policy</a><br>
 				<a href="/terms-of-use.html" class="footer_menu_text">Terms of Use</a>|
 				<a href="/contactus.html" class="footer_menu_text">Contact Us</a>|
-				<a href="/affiliates.php" class="footer_menu_text">Affiliate Program</a>
+				<a href="/affiliates.php" class="footer_menu_text">Affiliate Program</a>|
+				<a href="/news_latter_success.php" class="footer_menu_text">Newsletter</a>
 			</td>
 		</tr>
 		<tr>
