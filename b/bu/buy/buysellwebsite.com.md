@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buysellwebsite.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230225733id_/http%3A//www.buysellwebsite.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buysellwebsite.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329083606id_/http%3A//www.buysellwebsite.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for BuySellWebsite a Web Business Properties Inc Company
 
