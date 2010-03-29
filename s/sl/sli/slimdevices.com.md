@@ -1,111 +1,126 @@
-> *The following text is extracted and transformed from the slimdevices.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218122919id_/http%3A//www.slimdevices.com/au_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slimdevices.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329123740id_/http%3A//www.logitech.com/index.cfm/footer/privacy/%26cl%3Dus%2Cen) for the most accurate reproduction.*
 
-# Slim Devices : Privacy Policy
+# YOUR PRIVACY & SECURITY
 
-As your privacy is important to us, Logitech has prepared this privacy web page so that you may better understand how your personal information is used in connection with Logitech´s online services. Please take the time to review this page and contact us at privacy@logitech.com with any questions or concerns.
+#### YOUR PRIVACY & SECURITY
 
-This Statement of Privacy & Security applies to Logitech´s family of Web sites, customer telephone surveys, product registration cards and customer support helpdesk communications and governs data collection and usage at all of these Logitech sites and services. Logitech provides a general audience web site. Personal information of all users is collected, used and disclosed as described in this Statement of Privacy & Security. 
+As your privacy is important to us, Logitech has prepared this Statement of Privacy and Security (“Statement”) so that you may better understand how Logitech uses and protects your personal information. Please take the time to review this page and contact us at [privacy@logitech.com](mailto:privacy@logitech.com) with any questions or concerns. 
 
-Collection of your Personal Information 
+COLLECTION OF INFORMATION  
+HOW WE USE YOUR INFORMATION   
+CONTROL & REVIEW OF YOUR PERSONAL INFORMATION  
+SAFE HARBOR   
+PROTECTION OF INFORMATION  
+CHANGES TO THIS STATEMENT  
 
-Logitech may ask you to register and provide personal information in certain instances, such as when you purchase products from the Specialty Store, download free software, register new products, enter a contest or sweepstakes or sign into a page that requires authorization. Logitech may also collect financial information to bill you for products and services that you purchased online. 
 
-This personal information may include your name, e-mail address, user ID, address and telephone number. Logitech may also collect demographic information, such as your age, gender, zip code/postal code, education level, household income, preferences, interests, favorites and whether you are a personal or business user. 
+COLLECTION OF INFORMATION 
 
-Collection of Other Information 
+_Personal Information_
 
-System Configuration Information: 
+Logitech may ask you to register and provide personal information, such as when you purchase products from our online store, download software, register new products, access product information, features or programs, enter a contest or sweepstakes, or sign into a page that requires authorization. Logitech may also collect credit card information to bill you for products and services that you purchased. 
 
-Logitech automatically collects on our server logs certain information about your computer hardware and software when you visit our Web site or use Logitech´s online services, such as Logitech Desktop Messenger (“LDM”). This information may include: your IP address, cookie information, globally unique identifier system, operating system, description of any Logitech products connected and how such products are used, browser type, domain names, access times, service provider and referring Web site addresses. This information is used by Logitech to monitor the operation of our Web site and online services and the use of its products, to maintain quality of the service, and to provide general statistics regarding use of our products and our Web site. 
+This personal information may include your name, e-mail address, user ID, domain name, URL, mailing address, and telephone number. Logitech may also collect demographic information such as your age, gender, zip code/postal code, education level, household income, operating system, preferences, interests, favorites, and whether you are a personal or business user. If you choose not to register and provide this information, you can still use most of Logitech’s Web site. Unfortunately, you will not be able to access areas that require registration. 
 
-Tracking of Web Site Usage: 
+In addition, when you choose to use our referral service to tell a friend about our site, we will be asking for your friend’s name and e-mail address. Logitech will automatically send your friend a one-time e-mail inviting him or her to visit the site. Logitech does not store this information and only uses it for the sole purpose of sending this one-time e-mail. 
 
-Logitech also tracks the usage of visitors to our Web site, including the URL of the visitor´s previous Web site and when they exit our Web site. Logitech also keeps track of the pages our customers visit within our Web site and any transaction details (downloads, orders, requests or referrals) in order to determine what Logitech products, information and services are the most popular. This data is also used by Logitech to deliver customized content and advertising to customers whose behavior indicates that they are interested in a particular subject area. Logitech uses various technologies to track trends in the use of our website or online services, including session cookies and GUIDs. These allow us to track how consumers interact with Logitech online and with your permission this information can be tied to your personal information to help us tailor communication to you. 
+_Children's Personal Information_
 
-Information for Using Harmony Remote Controls: 
+We do not knowingly collect personally identifiable information from users under the age of 13. If we are made aware that we have such personal information, we will take reasonable steps to delete that information. 
 
-If you use a Harmony Remote control or if you visit the harmonyremote.com site, Logitech may also collect certain information about your consumer electronic devices, as well as your device and/or TV channel configurations in order to help you program your remote control. 
+_System Configuration Information_
 
-Harmony Remote Control Users: In order to program your Harmony Remote control, you will need to supply Logitech with complete information on the Consumer Electronic Components that you wish to operate with your Harmony Remote control. Such information may include the make, model number, and set up of your Consumer Electronic Components. For example, Logitech will need to know that your VCR is connected to your Stereo Receiver and the video output is connected to Input 1 on your TV. If you choose to withhold this information, then Logitech will not be able to help you program your remote control. 
+Logitech automatically collects on our server logs certain information about your computer hardware and software when you visit our Web site or use Logitech’s online services, such as Logitech Desktop Messenger. This information may include such things as your IP address, cookie information, globally unique identifier, system, operating system, a description of any Logitech products connected and how such products are used, browser type, domain names, access times, service provider and referring Web site addresses. 
 
-In the event that you are not able to locate a Consumer Electronic Component´s make and model within Logitech´s existing database, you will have two options to provide information for setting up your Consumer Electronic Component. You may choose to match a similar make and model from our existing database to check to see if such remote control commands will work with your Consumer Electronic Component. Alternatively, you may use the learning functions on the Harmony Remote control to teach it your Consumer Electronic Component´s remote control commands. In both situations, the set up information and the remote control commands are transferred to the Harmony Remote database -- these remote control commands then become available to other customers of Harmony Remote. 
+_Web Site Usage Information_
 
-In order to use your Harmony Remote control with your TV, you also need to disclose to Logitech certain information related to what TV channels are received at your location in order to properly program the remote control with the available TV channels. You may also optionally indicate your favourite TV channels, which may be programmed onto your remote control. 
+Logitech and its third party service providers track non-personally identifiable information about how you use our website through cookies, globally unique identifiers, Internet tags or web beacons in the aggregate, and track navigational data (log files, server logs, click stream). These allow us to track how you interact with Logitech online, and, with your permission, we can tie this information to your personal information to help us tailor communication to you. We also collect information such as the URL of the Web site you previously visited, and when you use our Web site. Logitech also keeps track of the pages you visit within our Web site and any transaction details (downloads, orders, requests, or referrals). You can set your browser to notify you when a cookie is sent or to refuse or delete cookies altogether, but certain features of our Web site might not work.
 
-In order to provide you with support services for your Harmony Remote control, Logitech will store your device set up information in its database, as part of your account. This information is maintained to enable you to download future TV listings, complete changes to your account, complete updates with new versions of Harmony software, and to assist Logitech with providing future customer support. This information is also used for analytical purposes to help Logitech improve its customer support. Further, Logitech may from time to time use this information to contact you, conduct research, and offer additional products and services to you. 
+_Information for Using Harmony Remote Controls:_
 
-Test Drive on the harmonyremote.com Site: If you visit the harmonyremote.com site and elect to take a test drive of a Harmony Remote control, you will be asked to supply the make and model number, as well as the product configuration or set up, of the various Consumer Electronic Components that you wish to "test drive" with a Harmony Remote control. Logitech will maintain your test drive account so that if you later purchase a Harmony Remote Control, you can program it with your test drive set up information. 
+If you use a Harmony Remote control or if you visit [www.harmonyremote.com](http://www.harmonyremote.com/) , Logitech may also collect certain information about your consumer electronic devices and/or TV channel configurations in order to help you program your remote control. 
 
-Use of Your Information 
+_Information for Using SqueezeNetwork:_
 
-With your express permission, Logitech collects, integrates and uses this personal and other information to help you quickly find software, services or information on logitech.com, to help us create Web site content and other services most relevant to you and to alert you to product upgrades, special offers, newsletters, updated information and other new services from Logitech. When Logitech receives information about your session or about you, we may use it for research or to improve our site and the services we offer you. We may also use this information from time to time to monitor the technical functions of our servers and site. Logitech uses this information to communicate with you only after you give your express permission for such communication. Logitech does not share this information with any third parties, except with your consent or as described below.   
-If you choose not to register and provide this information, you can still use most of Logitech´s services. Unfortunately, you will not be able to access areas that require registration. 
+If you use SqueezeNetwork to obtain Internet music streams, RSS, news feeds and podcasts or if you visit [www.squeezenetwork.com](http://www.squeezenetwork.com/), Logitech collects your player’s IP and MAC addresses, e-mail address, zip/postal code, and your user names and passwords in order to help you connect to third party Internet radio or music services for your Squeezebox or Transporter players. 
 
-If you do not want logitech.com to send you e-mail or postal mail regarding Logitech products or services, you may opt out when you register by selecting the option stating that you do not wish to receive such marketing materials from logitech.com by selecting the option stating "Check here if you do not wish to receive Logitech mailings". 
+_Personal Information_
 
-We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose. 
+With your express permission, Logitech collects, integrates, and uses your personal information to help enhance and personalize your use of our Web site, products and services. This will enable the following: (1) you to quickly find software, services or information on [www.logitech.com](http://www.logitech.com/), (2) Logitech to create Web site content and other services most relevant or customized to you, (3) for you to be alerted about product and Web site upgrades and updates, special offers, promotions, newsletters, latest product announcements, upcoming events, programs and other new services from Logitech; and (4) to invite you to participate in product and service surveys or programs. Logitech uses this information to communicate with you either via the Internet, e-mail, mail or telephone only after you give your express permission for such communication. (The only exception to this Statement are “service e-mails” that may notify you about system downtimes, product problems or recalls, password reminder e-mails, etc.) 
 
-We from time to time supplement the information we collect from the site with information from offline or third party sources. We use this information to enhance or overlay the ‘profile´ of customers and business contact information. This supplementary data is therefore tied to corporate contact information and in some cases personally identifiable information. 
+We also use anonymous and aggregated data to create statistics and reports for various business purposes. We may aggregate anonymous data and share the anonymous data with our co-marketing partners in order to offer all our customers potentially desirable products and services as well as to improve our content and services. 
 
-We also may internally compare lists collected from our other sites or within our family of companies to remove duplicate entries. 
+We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, processing transactions or performing statistical analysis of our services. We will only provide those companies the personal information (such as e-mail address) that they need to deliver the service. Our service providers are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose. 
 
-Personal information collected on this site may be stored and processed in the United States or any other country in which Logitech or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. Logitech abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. 
+From time to time we supplement the information we collect from the site with information from offline or third party sources. We use this information to enhance or overlay the “profile” of customers and business contact information. This supplementary data is therefore tied to corporate contact information and in some cases personally identifiable information. We also may internally compare lists collected from our other sites or within our family of companies to remove duplicate entries. 
 
-Logitech will not disclose your personal information to any third party without your approval, except that we reserve the right to disclose your personal information: (a) to any of our affiliates, subsidiaries, third party service providers or advisers that we deem appropriate; (b) if such disclosure is made pursuant to a legal proceeding or as required by law; (c) if necessary, to protect the personal safety of users of Logitech´s web sites, or the public; (d) to protect and defend the rights or property of Logitech, including its Web site; (e) to another business entity should we plan to merge with, or be acquired by that business entity; or (f) organizations involved in a merger, transfer or sale of our assets or business. 
+_E-Mail Messaging_
 
-In the event that we disclose your personal information as set out of above, we will require third party organizations who have access to your personal information to protect and maintain your personal information in compliance with the terms and conditions of this Statement of Privacy & Security. 
+Logitech will periodically send our registered users e-mail messages about our products and services. When sending you e-mail, we may use an image called a single pixel GIF that allows us to format messages tailored to your computer’s capabilities. We also use this technology to determine, in the aggregate, how many people open our e-mails. When you initiate a response by clicking on a link within an e-mail, you are redirected onto the Internet. We then record your individual response to help us deliver information that is more relevant to your interests. 
 
-Control of Your Personal Information
+_Disclosure of Information_
 
-Logitech offers its customers choices for the collection, use and sharing of personal information at the time the customer decides to register. In addition, you may also stop the delivery of future communication from Logitech by unsubscribing at any time. For instance, each email you receive contains instructions explaining how to stop receiving such e-mails. 
+Logitech keeps your personally identifiable information confidential. We do not disclose it to third parties or others that do not have a need to know such information except under certain circumstances. Set forth below are additional circumstances where Logitech may share your personal information: 
 
-Correcting/Updating/Deleting/Deactivating Personal Information 
+* Certain of our employees, independent contractors and service providers may have access to your personally identifiable information necessary for the sole purpose of helping us run our business. These employees and contractors have confidentiality and security obligations. 
+* Our affiliates, subsidiaries and third party service providers as we deem appropriate. 
+* We may disclose your personally identifiable information to another business entity should we plan to merge with or be acquired by that business entity; or to any organization involved in a merger, transfer, or sale of our assets or business. 
+* Before we disclose your personally identifiable data for other reasons, we will first obtain your consent, for example via e-mail, click-through, an online opportunity to opt-out, or otherwise. 
+* If you post any information in public areas of our Web site, such as chat rooms and message boards, it will be available to the public and we may reuse and republish such information at our discretion and in accordance with our [Terms of Use](https://web.archive.org/index.cfm/footer/terms_of_use/&cl=us,en). 
+* To protect and defend the rights or property of Logitech, including its Web sites. 
+* We may also share your personally identifiable information to respond to law enforcement requests, court orders or other legal processes or if we believe that such disclosure is necessary to investigate, prevent or respond to illegal activities, fraud, physical threats to you or others, national security threats or as otherwise required by any applicable law or regulation. 
 
-If a user´s personally identifiable information changes (such as zip code/postal code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users´ personally identifiable information. This can be done by emailing our Customer Support at registration_requests@logitech.com. 
+In the event that we disclose your personally identifiable information as set out above, we will require third party organizations that have access to your personally identifiable information to protect and maintain your personally identifiable information in compliance with the terms and conditions of this Statement. 
 
-Security of your Personal Information 
+_Prohibited Disclosures_
 
-Logitech is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities. When we transmit highly confidential information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
+Except as set forth above, Logitech will not disclose your personally identifiable information to any third party, including advertisers, without your explicit consent. In addition, Logitech will not share, trade, rent, or otherwise disclose your personal information, Logitech’s e-mail list or address list to third parties for their promotional purposes. 
 
-Collection and Use of Children's Personal Information
+Back to top
 
-We do not knowingly collect personally identifiable information from users under the age of 13. If for some reason we are made aware we have such personal information we will take reasonable steps to delete that information. 
+CONTROL & REVIEW OF YOUR PERSONAL INFORMATION 
 
-USE OF COOKIES 
+When you register, Logitech offers choices for the collection, use and sharing of personal information. In addition, you may also stop the delivery of future communications including newsletters, special offers and updates from Logitech by unsubscribing at any time. For instance, each email you receive contains instructions explaining how to stop receiving such e-mails. You may also contact us using any of the vehicles listed below to opt-out.
 
-Like many other companies, Logitech uses cookies to help you personalize your online experience. We use both session and persistent cookies. A cookie is a very small text file placed on your hard drive (with your permission) by a web page server. It is essentially your identification card, and cannot be executed as code or deliver viruses. It is uniquely yours and can only be read by the server that gave it to you. Cookies are used by Logitech to tailor content to your interests. For example, when you initiate a response by clicking on a link within an e-mail message, you are re-directed onto the Internet. We then record your individual response to help us deliver information that is more relevant to your interests. This saves you time as it helps Logitech remember who you are. It makes your subsequent visits to logitech.com simpler and more seamless. You can set your browser to notify you when you receive a cookie, giving you the opportunity to decide whether or not to accept it. However, on some pages which require authorization, cookies are not optional. If you choose not to accept cookies, you will likely not be able to access these pages. 
+Phone: +1 510-795-8500  
+Email: [privacy@logitech.com](mailto:privacy@logitech.com)   
+Postal Mail: Logitech Privacy Officer, 6505 Kaiser Drive, Fremont, CA 94555 USA 
 
-USE OF GLOBALLY UNIQUE IDENTIFIERS 
+Web site: <http://www.logitech.com/subscribe>
 
-What is a GUID? 
+If your personal information changes (such as zip/postal code, phone, or e-mail or postal address), or if you no longer desire our products or services, we provide a way for you to change or delete/deactivate it. This can be done by visiting the [subscription management](https://web.archive.org/index.cfm/footer/subscription_management/&cl=us,en) page on our Web site or by e-mailing us at [privacy@logitech.com](mailto:privacy@logitech.com). Logitech will respond to your request to review the information we have on file for you within 30 days from receiving such request. 
 
-A Globally Unique Identifier (GUID) is an alphanumeric identifier used to indicate a unique installation of a product, and is found in many popular software applications such as web browsers and media players. Logitech may use GUIDs for aggregate statistical analysis, to personalize products and services. 
+We provide you the opportunity to “opt-out” of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product and/or service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. 
 
-Logitech´s Use of GUIDS in LDM products and in future products 
+Back to top
 
-LDM randomly generates a GUID during installation. Logitech uses publicly documented standards to generate GUIDs. From time to time, Logitech may use a GUID with a unique set of numbers in order to gather and aggregate information about traffic patterns, such as how many times a user attempts to access content from a server. These statistics help us improve our services. 
+SAFE HARBOR 
 
-We may collect data marked by Logitech GUIDs in order to understand aggregated traffic patterns and other Logitech usage patterns. We use this data in order to measure product performance, better understand types of content that are popular with our users and how our products are used and to conduct user surveys. We may relate GUID marked system data to other personal information supplied by users. The system information that is linked to your personal information is limited to information about the types of Logitech products you have connected to your computer. Further, consistent with our privacy principles, Logitech does not sell or share such information with any third party unless we obtain a user´s advance informed consent.   
-  
-USE OF E-MAIL MESSAGING 
+Personal information collected on this site may be stored and processed in the United States or any other country in which Logitech or its affiliates, subsidiaries or agents maintain facilities. By using this site, you consent to any such transfer of information outside of your country. Logitech complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. For more information about Safe Harbor, visit the U.S. Department of Commerce’s Safe Harbor Web site regarding the collection, use, and retention of data from the European Union. 
 
-Logitech will periodically send our registered users e-mail messages about our products and services. When sending you e-mail, we may use an image called a single pixel GIF that allows us to format messages tailored to your computer´s capabilities. We also use this technology to determine, in the aggregate, how many people open our e-mails. When you initiate a response by clicking on a link within an e-mail, you are redirected on to the Internet. We then record your individual response to help us deliver information that is more relevant to your interests.   
-  
-ENFORCEMENT OF THIS STATEMENT OF PRIVACY 
+PROTECTION OF INFORMATION 
 
-Logitech, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.logitech.com. Because we want to demonstrate our commitment to our users´ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. 
+Logitech is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store personal information you provide on computer systems with limited access. These systems are located in controlled facilities. When we transmit highly confidential information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
 
-If you have questions or complaints regarding this statement, you should first contact us at privacy@logitech.com with any questions or concerns. All customer complaints will be formally reviewed by Logitech. 
+Logitech, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This Statement covers the site www.logitech.com. Because we want to demonstrate our commitment to our users´ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. 
 
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at www.truste.org/users/users_watchdog.html in the US. TRUSTe will serve as a liaison with Logitech to resolve your concerns. However, please understand the TRUSTe program covers only information that is collected through this Web site www.logitech.com, and does not cover information that may be collected through software downloaded from the site. 
+If you have questions or complaints regarding this Statement, you should first contact us at [privacy@logitech.com](mailto:privacy@logitech.com) with any questions or concerns. All customer complaints will be formally reviewed by Logitech. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> in the United States. TRUSTe will serve as a liaison with Logitech to resolve your concerns. Please understand, however, that the TRUSTe program covers only information that is collected through this Web site ([www.logitech.com](http://www.logitech.com/)) and does not cover information that may be collected through software downloaded from the site. 
+
+Back to top
 
 CHANGES TO THIS STATEMENT 
 
-Logitech will occasionally update this Statement of Privacy & Security. When Logitech posts changes to this Statement, you will see the word "updated" next to the Privacy Statement link on the front page of logitech.com. If there are material changes to this Statement or in how Logitech will use your personal information, Logitech will prominently post such changes prior to implementing the change; however, we will not make any changes that are less protective of your personal information collected in the past, without your consent. Logitech encourages you to periodically review this Statement to be informed of how Logitech is protecting your information. 
+Logitech will occasionally update this Statement. When Logitech posts changes to this Statement, you will see the word "updated" next to the Statement link on the front page of [www.logitech.com](http://www.logitech.com/). If there are material changes to this Statement or in how Logitech will use your personal information, Logitech will prominently post such changes prior to implementing the change. In any case we will not make any changes that are less protective of your personal information collected in the past without your consent. 
 
-Thank you for your interest in Logitech and our products. 
+Logitech encourages you to periodically review this Statement to be informed of how Logitech is protecting your information. 
 
-Ron Barr   
-Logitech Privacy Officer 
+Thank you for your interest in Logitech and our products.  
+Logitech Privacy Officer   
+[privacy@logitech.com](mailto:privacy@logitech.com)  
+Logitech Inc.  
+6505 Kaiser Drive  
+Fremont, California 94555 USA  
 
-Effective September 9, 2004. 
+
+Revised September 9, 2009  
+
