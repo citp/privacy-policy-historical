@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectedinternet.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617044702id_/http%3A//www.connectedinternet.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectedinternet.co.uk privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329134346id_/http%3A//www.connectedinternet.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Connected Internet
 
