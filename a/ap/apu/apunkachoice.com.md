@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apunkachoice.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401145113id_/http%3A//www.apunkachoice.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apunkachoice.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329162054id_/http%3A//www.apunkachoice.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : ApunKaChoice.Com
 
@@ -16,7 +16,7 @@ In particular, when purchasing a subscription, you must provide contact informat
 
 We do collect anonymous, aggregated data and provide it to our advertisers and other companies that we do business with for market research and statistical purposes. ApunKaChoice.Com may use such information to help determine ways to improve our site. 
 
-We do not provide, sell or lease personally identifiable information to any third parties. As an exception, to protect site visitors and the general welfare, the site will release personal information when necessary in order to comply with the law or regulatory authorities. If you have any questions or concerns regarding what is done with your information on any part of ApunKaChoice.Com, or would like such information deleted from our records, please e-mail us at support@apunkachoice.com. 
+We do not provide, sell or lease personally identifiable information to any third parties. As an exception, to protect site visitors and the general welfare, the site will release personal information when necessary in order to comply with the law or regulatory authorities. If you have any questions or concerns regarding what is done with your information on any part of ApunKaChoice.Com, or would like such information deleted from our records, please e-mail us at support@indiaexpress.com. 
 
 **What are cookies? How do you use them?**
 
@@ -49,6 +49,10 @@ Finally, parents should be aware that if a child voluntarily discloses his or he
 **What about my privacy on linked sites?**
 
 This website contains links to other sites. Please be aware that ApunKaChoice.Com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by this website. 
+
+**Online behavioral advertising (.OBA.) and/or multi-site advertising is occurring**
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
 
 By using this website, you consent to the collection of information as described in this policy. 
 
