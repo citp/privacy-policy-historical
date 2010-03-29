@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epocrates.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225044506id_/http%3A//www.epocrates.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epocrates.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330005551id_/http%3A//www.epocrates.com/company/privacy.html) for the most accurate reproduction.*
 
 # Epocrates Privacy Policy
 
@@ -46,11 +46,11 @@ top
 
 **We use the information we collect to improve our products and services and provide you with the best possible customer experience.**
 
-One of Epocrates' strengths is its community of subscribers. At Epocrates, we strive to extend beyond our applications and provide other services that bring additional value to our subscribers. This includes services such as our Epocrates Honors and Advocate programs, and, in particular, DocAlert messages. DocAlert messages are brief, timely messages that are sent to the entire subscriber base, if warranted (such as safety alerts from the FDA), but more often are delivered to select groups of subscribers, for example, a particular sub-specialty. In order to make sure we are targeting the most relevant content to our subscribers, we need to understand who our subscribers are and collect information that will assist us in tailoring subscribers' experiences.
+One of Epocrates' strengths is its community of subscribers. At Epocrates, we strive to extend beyond our applications and provide other services that bring additional value to our subscribers. This includes services such as our Epocrates Honors and Advocate programs, and, in particular, DocAlert messages. DocAlert messages are brief, timely messages that are sent to the entire subscriber base, if warranted (such as safety alerts from the FDA), but more often are delivered to select groups of subscribers, for example, a particular sub-specialty. These messages may include information from Epocrates and/or information or other content from third parties that have associated themselves with Epocrates ("Partners"), including commercial, non-commercial, sponsored and clinical information. In order to make sure we are targeting the most relevant content to our subscribers, we need to understand who our subscribers are and collect information that will assist us in tailoring subscribers' experiences.
 
 Your satisfaction with our services is essential to our success, and so we use the information we collect carefully. Epocrates uses your personal information to operate our website and/or complete your transactions, and to assist with the continual improvement of the content and functionality of Epocrates products. For this reason, we monitor customer traffic patterns and usage to help us improve the design, layout, and usability of our products and to provide content and product features of interest to you.
 
-We use contact and demographic information to alert you to developments in the use of pharmaceuticals, from new approved drugs to new studies on existing drugs. We also use this information to contact you regarding relevant Epocrates services and products. For instance, we may contact you (for example, by email or through PDA-based or desktop messaging products) to let you know that we have released a new product or service or a new version of an existing product, that there are new drug interactions of which you should be aware, or that we are modifying one of our policies. We may also use contact and demographic information to send you materials from some of our partners, to invite you to provide us with feedback or to participate in a survey being conducted by one of our partners. If you do not wish to receive these kinds of emails, you may choose to opt out by updating your profile. See "What access does Epocrates give you to your personal information?"
+We use contact and demographic information to alert you to developments in the use of pharmaceuticals, from new approved drugs to new studies on existing drugs. We also use this information to contact you regarding relevant Epocrates services and products. For instance, we may contact you (for example, by email or through PDA-based or desktop messaging products) to let you know that we have released a new product or service or a new version of an existing product, that there are new drug interactions of which you should be aware, or that we are modifying one of our policies. We may also use contact and demographic information to send you materials from some of our Partners, to invite you to provide us with feedback or to participate in a survey being conducted by one of our Partners. If you do not wish to receive these kinds of emails, you may choose to opt out by updating your profile. See "What access does Epocrates give you to your personal information?"
 
 top
 
@@ -102,7 +102,7 @@ Epocrates also aims to provide you with relevant information on a variety of top
 
 How to update your profile:
 
-Please visit the home page of our website at [www.epocrates.com](https://web.archive.org/web/20091225044506id_/http%3A//www.epocrates.com/), click on "My Account", and then sign in using your email address and password. To opt in or out of email communications, go to the bottom of the form and make the selection of your choices. If you select a box, you will **NOT** receive emails of the type listed. You may also request profile changes by sending an email to [support@epocrates.com](mailto:support@epocrates.com).
+Please visit the home page of our website at [www.epocrates.com](https://web.archive.org/web/20100330005551id_/http%3A//www.epocrates.com/), click on "My Account", and then sign in using your email address and password. To opt in or out of email communications, go to the bottom of the form and make the selection of your choices. If you select a box, you will **NOT** receive emails of the type listed. You may also request profile changes by sending an email to [support@epocrates.com](mailto:support@epocrates.com).
 
 top
 
@@ -161,8 +161,7 @@ top
 Our goal is to respect your privacy and we encourage user feedback to help us improve our privacy policies. If you have any questions or suggestions about this privacy statement, please contact us at: [suggestionbox@epocrates.com](mailto:suggestionbox@epocrates.com?subject=Epocrates%20Privacy%20Statement).
 
 Epocrates, Inc.   
-1100 Park Place   
-Suite 300   
-San Mateo, CA. 94403
+1100 Park Place, Suite 300,   
+San Mateo, CA 94403 
 
-_Privacy policy last updated June 12, 2007_
+_Privacy policy last updated March 4, 2010_
