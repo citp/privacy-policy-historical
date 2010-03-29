@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealofday.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924210058id_/http%3A//www.dealofday.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealofday.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329155024id_/http%3A//dealofday.com/privacy.php) for the most accurate reproduction.*
 
-# Deals Expiring Soon : DealofDay
+# DealofDay.com - Deal of the Day, Deals, Coupons, Sales & Discounts
 
 Our postal address is: 1151 Eagle Drive, Suite 325, Loveland, CO 80537-8020. We can be reached via our Support Desk. Or you can reach us by telephone at (970) 278-0011.
 
