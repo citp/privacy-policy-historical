@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abacin.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114093025id_/http%3A//www.abacin.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abacin.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329125658id_/http%3A//www.abacin.com/site/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -25,49 +25,49 @@ If we decide to change our privacy policy, we will post these changes on this pa
 ---  
 Password:   
   [ Not a member, register now! ](http://member.abacin.com/register.php)  
-|  [](http://click.linksynergy.com/fs-bin/click?id=jyA1UGz0lAI&offerid=102327.10000022&type=4&subid=0) |   
+|  [](http://click.linksynergy.com/fs-bin/click?id=jyA1UGz0lAI&offerid=166833.10000434&subid=0&type=4) |   
 ---|---  
 | [Freebies, Coupons & Hot Deals](http://deals.abacin.com/category/0/All-Deals)  
 ---  
   
-  * [ Get $100 by Opening Bank of America Checking Account](http://deals.abacin.com/deal/19196/Get-100-by-Opening-Bank-of-America-Checking-Account)
-  * [ Free Up in the Air movie screening tickets](http://deals.abacin.com/deal/19195/Free-Up-in-the-Air-movie-screening-tickets)
-  * [ Free Fake for the Animalsâ€™ Sake stickers from Peta](http://deals.abacin.com/deal/19193/Free-Fake-for-the-Animals--Sake-stickers-from-Peta)
-  * [ Free Sample Prilosec - New Link Walmart ](http://deals.abacin.com/deal/19190/Free-Sample-Prilosec--New-Link-Walmart-)
-  * [ Boston Knucklehead Stickers (e-mail)](http://deals.abacin.com/deal/19189/Boston-Knucklehead-Stickers-e-mail-)
-  * [ Notepad/Memo Cube from Sandy Paper](http://deals.abacin.com/deal/19187/Notepad-Memo-Cube-from-Sandy-Paper)
+  * [ free Avoid Foreclosure With An Expert? ](http://deals.abacin.com/deal/48663/free-Avoid-Foreclosure-With-An-Expert--)
+  * [ Sears-Save 50% off Eclipse Suede Thermaback Window Collection 3/28-4/1](http://deals.abacin.com/deal/48652/Sears-Save-50-off-Eclipse-Suede-Thermaback-Window-Collection-3-28-4-1)
+  * [ Kmart-Buy One, Get One on Women's Joe Boxer Intimate Apparel 3/28-4/3](http://deals.abacin.com/deal/48651/Kmart-Buy-One-Get-One-on-Women-s-Joe-Boxer-Intimate-Apparel-3-28-4-3)
+  * [ Sears-Online Only! 50% off ALL Vsmile & Vsmile Motion Software 3/28-4/3](http://deals.abacin.com/deal/48634/Sears-Online-Only-50-off-ALL-Vsmile--Vsmile-Motion-Software-3-28-4-3)
+  * [ Kmart-Buy 5 Pairs of Prot�g� Shoes, save an EXTRA 10% off 3/28-4/3](http://deals.abacin.com/deal/48633/Kmart-Buy-5-Pairs-of-Prot-g-Shoes-save-an-EXTRA-10-off-3-28-4-3)
+  * [ Sears-Online Only! 50% off Toy Story Sheriff Woody $14.99 on sale 3/28-4/3](http://deals.abacin.com/deal/48627/Sears-Online-Only-50-off-Toy-Story-Sheriff-Woody-14-99-on-sale-3-28-4-3)
 
   
 | [Best Resources](http://directory.abacin.com/)  
 ---  
   
-  * [Finance and Money ](http://directory.abacin.com/category/3/Finance-and-Money) 108
-  * [Shopping ](http://directory.abacin.com/category/8/Shopping) 145
-  * [Internet Marketing ](http://directory.abacin.com/category/15/Internet-Marketing) 279
-  * [Home and Real Estate ](http://directory.abacin.com/category/20/Home-and-Real-Estate) 59
-  * [Health and Lifestyle ](http://directory.abacin.com/category/26/Health-and-Lifestyle) 139
-  * [Arts and Sciences ](http://directory.abacin.com/category/34/Arts-and-Sciences) 64
+  * [Finance and Money ](http://directory.abacin.com/category/3/Finance-and-Money) 113
+  * [Shopping ](http://directory.abacin.com/category/8/Shopping) 162
+  * [Internet Marketing ](http://directory.abacin.com/category/15/Internet-Marketing) 242
+  * [Home and Family ](http://directory.abacin.com/category/20/Home-and-Family) 76
+  * [Beauty and Health ](http://directory.abacin.com/category/26/Beauty-and-Health) 137
+  * [Arts and Sciences ](http://directory.abacin.com/category/34/Arts-and-Sciences) 52
 
   
 | [ Related Ads](http://classifieds.abacin.com/category/0/All)  
 ---  
   
-  * [Unsecured Loans, Instant Unsecured Personal Loans, Bad Credit Loans ](http://classifieds.abacin.com/ad/29750/Unsecured-Loans-Instant-Unsecured-Personal-Loans-Bad-Credit-Loans)
-  * [Buy Crescent’s Power Saver and Line Tester Online ](http://classifieds.abacin.com/ad/29749/Buy-Crescent-s-Power-Saver-and-Line-Tester-Online)
-  * [Home Based Job Home Based Job ](http://classifieds.abacin.com/ad/29748/Home-Based-Job-Home-Based-Job)
-  * [Totally Free Hits ](http://classifieds.abacin.com/ad/29747/Totally--Free--Hits)
-  * [ATTENTION AFFILIATE MARKETERS (2910) ](http://classifieds.abacin.com/ad/29746/ATTENTION-AFFILIATE-MARKETERS-2910-)
-  * [HR GENERALIST INDUSTRIAL TRAINING PROGRAM ](http://classifieds.abacin.com/ad/29745/HR-GENERALIST-INDUSTRIAL-TRAINING-PROGRAM-)
+  * [Government Supported Free Cell Phone - No Bills, No Contract ](http://classifieds.abacin.com/ad/25614/Government-Supported-Free-Cell-Phone--No-Bills-No-Contract)
+  * [Earn minimum Rs 20,000 PM through simple online copy/paste work. ](http://classifieds.abacin.com/ad/37584/Earn-minimum-Rs-20-000-PM-through-simple-online-copy-paste-work-)
+  * [Let us get you financed for your next car ](http://classifieds.abacin.com/ad/37582/Let-us-get-you-financed-for-your-next-car)
+  * [ Earn minimum Rs 20,000 PM through simple online copy/paste work. ](http://classifieds.abacin.com/ad/37581/-Earn-minimum-Rs-20-000-PM-through-simple-online-copy-paste-work-)
+  * [Ashwaganda Herbal Extract at Herbs-wholesale ](http://classifieds.abacin.com/ad/37579/Ashwaganda-Herbal-Extract-at-Herbs-wholesale)
+  * [Packaging Machines Manufacturers, Packaging Machines Exporters ](http://classifieds.abacin.com/ad/37547/Packaging-Machines-Manufacturers-Packaging-Machines-Exporters)
 
   
-| [ Related Articles](http://blog.abacin.com/category/0/All)  
+| [ Related Articles](http://article.abacin.com/category/0/All)  
 ---  
   
-  * [heart rate variability, health assessment - Biocomtech ](http://blog.abacin.com/article/11673/heart-rate-variability-health-assessment--Biocomtech)
-  * [Guaranteed Income, Free Groceries, Free Holidays and more ](http://blog.abacin.com/article/11671/Guaranteed-Income-Free-Groceries-Free-Holidays-and-more)
-  * [physical fitness test ](http://blog.abacin.com/article/11667/physical-fitness-test)
-  * [Colombian Women ](http://blog.abacin.com/article/11664/Colombian-Women)
-  * [Web information online hub ](http://blog.abacin.com/article/4015/Web-information-online-hub)
-  * [heart rate variability ](http://blog.abacin.com/article/11653/heart-rate-variability)
+  * [Cheap Lacoste Shoes On Big Sale - -Biaobiao ](http://article.abacin.com/article/13291/Cheap-Lacoste-Shoes-On-Big-Sale--Biaobiao)
+  * [Love Your Feet,Love Lacoste Shoes - Biaobiao ](http://article.abacin.com/article/13290/Love-Your-Feet-Love-Lacoste-Shoes--Biaobiao)
+  * [ Eyes On The GHD Hair Styler - - Mixiu ](http://article.abacin.com/article/13289/-Eyes-On-The-GHD-Hair-Styler-Mixiu)
+  * [Perfect GHD Hair Straighteners - Aguilera ](http://article.abacin.com/article/13288/Perfect-GHD-Hair-Straighteners--Aguilera)
+  * [Choose The Reliable GHD Straighteners Cheap - Mixiu ](http://article.abacin.com/article/13287/Choose-The-Reliable-GHD-Straighteners-Cheap--Mixiu)
+  * [Super GHD IV Styler With Superior Quality - Wubiao ](http://article.abacin.com/article/13286/Super-GHD-IV-Styler-With-Superior-Quality--Wubiao)
 
 
