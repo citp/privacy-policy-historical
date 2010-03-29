@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awesomepennystocks.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219112125id_/http%3A//www.awesomepennystocks.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomepennystocks.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329121830id_/http%3A//www.awesomepennystocks.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
