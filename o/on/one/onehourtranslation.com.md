@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onehourtranslation.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627020500id_/http%3A//www.onehourtranslation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onehourtranslation.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329154431id_/http%3A//www.onehourtranslation.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - OneHourTranslation.com
+# Privacy Policy - One Hour Translation
 
 Privacy Policy
 
@@ -32,6 +32,4 @@ d. We may share with, or disclose or sell to, third parties aggregated informati
 
 10\. This Website may contain links to other websites. The Owner is not responsible for the Terms and Conditions including the privacy practices of other Websites. We encourage our Users to be aware when they leave our Website and to read the statements of each and every Website that collects personally identifiable information.
 
-11\. One Hour Translation Users may modify or remove any of their personal information at any time by logging into their account. For technical reasons, any modifications or deletions which you request may take a short period of time to take effect. If you change or delete any of your personal information, One Hour Translation will remove the old or deleted information from public view; however, as noted in Section 6 above, we may keep such information archived indefinitely.
-
-One Hour Translation provides fast, affordable high quality human translations, making it easy for you to communicate in a foreign language. Our network of over 8000 translators around the world ensures the translation you need is within your budget and your deadline.
+11\. One Hour Translation Users may modify or remove any of their personal information at any time by logging into their account. For technical reasons, any modifications or deletions which you request may take a short period of time to take effect. If you change or delete any of your personal information, One Hour Translation will remove the old or deleted information from public view; however, as noted in Section 6 above, we may keep such information archived indefinitely. 
