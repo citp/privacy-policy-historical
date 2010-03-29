@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the aeglive.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127064903id_/http%3A//aeglive.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeglive.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329160907id_/http%3A//www.aeglive.com/privacy.php) for the most accurate reproduction.*
 
 # AEG Live - Privacy Policy
+
+Showing all events worldwide. 
 
 The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
 
