@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the newrichreport.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418003718id_/http%3A//newrichreport.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newrichreport.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329073908id_/http%3A//newrichreport.com/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy**
+**Privacy Policy**  
+New Rich Report believes that your privacy is very important and we intend to make your experience with us on the Internet to be reliable, safe and secure and we want you to have complete confidence in using our website and services.
 
-iMarketing Leader believes that your privacy is very important and we intend to make your experience with us on the Internet to be reliable, safe and secure and we want you to have complete confidence in using our website and services.
-
-Personal Information
-
-iMarketing Leader collects information in several different ways from visitors and marmbers who access the various parts of our services and the network of websites accessible through our company.
+Personal Information  
+New Rich Report collects information in several different ways from visitors and members who access the various parts of our services and the network of websites accessible through our company.
 
 Members and visitors may be asked to provide personal information when they register for our products or services, including name, address, phone number, billing information (such as credit card information), and the type of personal computer being used to access the services we provide. The personal information collected from visitors and members during their visits to our websites are used to manage the visitor's requests for information and the member's accounts. This information may be shared with third parties, as stated herein, or in special circumstances.
 
@@ -24,4 +22,4 @@ Websites and services that we own have measures in place to protect against the 
 
 Our company reserves the right to revise, amend, or modify this policy, our Terms of Service, our Policies and Procedures and our other policies and agreements at any time in any manner, by updating this or other postings. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes.
 
-Last updated: April 16, 2008
+Last updated: September 9, 2009
