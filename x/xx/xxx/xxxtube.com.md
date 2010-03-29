@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xxxtube.com privacy policy that was archived on 2008-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081119152027id_/http%3A//www.join4free.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxtube.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329165816id_/http%3A//cs.securegatewayaccess.com/privacy.html) for the most accurate reproduction.*
 
-# 
+# Privacy
 
 The following is our privacy statement regarding our gathering and dissemination of information practices for this website.
 
@@ -10,7 +10,7 @@ In our site's subscription you are required to give us contact information (to i
 
 We may use customer contact information from the subscription form to send the user information about our company, a free E-mail newsletter and promotional material from some of our partners and affiliates. Occasionally contact information is used to contact you when necessary. Before you actually receive any promotional materials or other communications from us, you will be sent a confirmation email including headers, footers and unsubscribe links in compliance with Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003" or the "CAN-SPAM Act of 2003" (the "Act") requiring you to reply and confirm that you wish to be added to the mailing list. If you do not respond, you will not be added to the subscriber list.
 
-You may always opt-out of receiving future e-mailings which are also in compliance with the Act. All of our communications contain 'opt-out' sections. We do not sell, rent or share your email address and/or demographic data with unaffiliated third parties.
+You may always opt-out of receiving future e-mailings which are also in compliance with the Act. All of our communications contain 'opt-out' sections. Periodically we may choose to sell, rent or share your email address and/or demographic data with unaffiliated third parties.
 
 Our online surveys ask visitors for contact information (like their e-mail address) and demographic information (like their zip code, age, or income level). We use data from our surveys to send the user information about our company and promotional material from some of our partners and affiliates. Demographic and profile data are also collected at our site. We may use this data to tailor our visitors' experience at our site showing them content according to their preferences. Anonymous demographic information is shared with advertisers and market researchers on an aggregate basis. As indicate above, any e-mail from us will always include specific instructions on how to unsubscribe.
 
@@ -28,10 +28,16 @@ You can send E-mail to us: privacy@securegatewayaccess.com
 
 You can send mail to the following postal address:
 
-Gattster Media Ventures LTD
+Wabash Systems Ltd
 
 Attn: Privacy Statement
 
-Amory Building, Victoria Road
+88 The Poplars,
 
-Basseterre, St. Kitts & Nevis, East Caribbean
+De Grey Street
+
+Newcastle
+
+NE4 7HB
+
+UK
