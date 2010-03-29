@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlgames.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909035217id_/http%3A//www.girlgames.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlgames.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329164749id_/http%3A//www.girlgames.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Girl Games - Privacy Policy
 
@@ -36,10 +36,13 @@ Some of the aggregate user data we collect may be shared with Advertisers, our A
 
 If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information, you may contact us directly by sending an email to [info@girlgames.com](mailto:info@girlgames.com)
 
-By using this site, you signify your assent to the Girl Games Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance of these changes. 
-
+By using this site, you signify your assent to the Girl Games Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance of these changes.   
 This document is the sole statement of the Site's Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid. 
 
 This Privacy Policy was last modified on December 1 2008 and is effective immediately. 
 
 Check out the [COPPA - Children's Online Privacy Protection Act](http://www.coppa.org/coppa.htm)
+
+Third Party Advertising
+
+We use third-party advertising companies to serve advertisements to you on our website. These companies (1) use information obtained from your visits to this website and other sites to serve ads to you and (2) place unique third-party cookies on your computer through your browser. Also, we use Web beacons provided by third-party advertising companies to help optimize our advertising. Web beacons enable us to recognize your browser when a cookie has been placed on your computer. For more information on the privacy policy and data collection of our third party advertisers, please visit their website and privacy policy here [Betawave Privacy Policy](http://www.betawave.com/privacy.html). Some but not all third party advertising companies provide a mechanism to opt-out of their technology. For more information and to opt out of advertisers that provide an opt-out mechanism, [please click here](http://www.networkadvertising.org/consumer/opt_out.asp). 
