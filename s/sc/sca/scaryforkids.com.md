@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scaryforkids.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221003411id_/http%3A//www.scaryforkids.com/pics/privacy-policy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scaryforkids.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329215136id_/http%3A//www.scaryforkids.com/pics/privacy-policy.txt) for the most accurate reproduction.*
 
 # 
 
