@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aeglive.com privacy policy that was archived on 2009-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091127064903id_/http%3A//aeglive.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aeglive.com privacy policy that was archived on 2010-03-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100329160907id_/http%3A//www.aeglive.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -12,10 +12,22 @@
 </head>
 <body>
 <div id="wrapper">
-	<h1 class="logo"><a href="/index.php"><img src="/images/logo.png" alt="AEG Live"></a></h1>
+
+	<!-- geo -->
+	<script type="text/javascript" src="js/jquery/jquery-1.3.2.min.js"></script>
+	<script type="text/javascript" src="js/jquery/jquery.blockUI.js"></script>
+	<script type="text/javascript" src="js/jquery/jquery.json-2.2.min.js"></script>
+	<script type="text/javascript" src="js/geolocation.js"></script>
 	
+
+
+	<h1 class="logo"><a href="/index.php"><img src="/images/logo.png" alt="AEG Live"></a></h1>
+
 	<div class="registration">
 		<br><a href="/register.php">Register</a> to participate in some cool stuff that we've got going on!	</div>
+
+	<div class="location">
+				Showing all events worldwide.&nbsp;<input type="button" id="change_location" value="Change">	</div>
 
 	<ul class="nav">
 		<li id="firstlistitem"><a href="/events.php"><img src="/images/btn_navEvents.png" alt="Events"></a></li>
@@ -263,7 +275,7 @@
 			<a href="http://www.aegworldwide.com" target="_blank">AEG Worldwide</a> | <a href="http://www.goldenvoice.com/" target="_blank">Goldenvoice</a> | <a href="http://aegworldwide.teamworkonline.com/" target="_blank">Careers</a> | <!-- <a href="/contactus.php">Contact</a> | --><a href="/faq.php">FAQ</a> | <a href="/privacy.php">Privacy Policy</a> | <a href="/mobile.php">Mobile</a> | <a href="/terms.php">Terms of Use</a>
 	| <a href="/aboutus.php#supplierOpps">Supplier Portal</a>
 	| <a href="http://www.reachourfans.com/" target="_blank">Sponsorships</a>
-  <p>© 2009 AEG Live. All Rights Reserved.</p>
+  <p>© 2010 AEG Live. All Rights Reserved.</p>
 </div>
 
 
@@ -286,4 +298,20 @@ alt=""/></div>
 
 
 
-</body></html>
+<div class="blockUI" style="display:none"></div><div class="blockUI blockOverlay" style="z-index: 1000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.390911; cursor: wait; position: fixed;"></div><div class="blockUI blockMsg blockPage" style="z-index: 1001; position: fixed; padding: 0px; margin: 0px; width: 30%; top: 40%; left: 35%; text-align: center; color: rgb(0, 0, 0); border: 0px; cursor: wait; opacity: 0.653014;"><div id="geoSelect" style="">
+	<form name="geo_select" id="geo_select" action="" onsubmit="return false;">
+		<ul>
+			<li>
+				<h3>Enter Your City and/or Postal Code:</h3>
+				<input type="text" id="geo_text" name="geo_text" value="Seattle, WA, US">
+				<input type="submit" id="set_location" value="Set Location">
+			</li>
+			<li id="geoOptions">
+			</li>
+			<li>
+				<input type="submit" id="show_all" value="Show All Events">
+				<input type="submit" id="ask_later" value="Ask Me Later">
+			</li>
+		</ul>
+	</form>
+</div></div></body></html>
