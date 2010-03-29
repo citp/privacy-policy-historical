@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrrebates.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230232041id_/http%3A//www.mrrebates.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrrebates.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329125950id_/http%3A//www.mrrebates.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Mr. Rebates - Privacy Policy
 
@@ -8,6 +8,8 @@ Only a user's email address and postal address is collected when users provide r
 Mr. Rebates has an "opt-in" email newsletter that contains coupons and specials from the Mr. Rebates merchant base that may be of interest to you. All Mr. Rebates email newsletters can be opted out of by simply clicking on a link within each email to remove your email address from the list.  **Email addresses and postal address information are never shared or sold to third-party marketers or third-party agencies.**
 
 When a rebate check is sent to a Mr. Rebates member, it is necessary for the member to supply his/her postal address.  All postal address information is kept in the strictest confidence in our secure database system.  Postal address information is not shared or sold to third parties.
+
+As part of the registration process, postal address information is collected which may be be used to send periodic mailings, postcards or other promotions solely from Mr. Rebates and no other third parties.
 
 #### Aggregated Information  
 Aggregated information, such as which page users access or visit and information volunteered by users, is collected through various methods. For example, Mr. Rebates collects IP addresses. An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web. Web servers (the computers that "serve up" Web pages) automatically identify your computer by its IP address, and when you request a page from Mr. Rebates, our servers log your IP address. Mr. Rebates only uses IP addresses for the purposes of web traffic analysis and trends.
