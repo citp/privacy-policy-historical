@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaxtr.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401003846id_/http%3A//www.jaxtr.com/user/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaxtr.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329152225id_/http%3A//www.jaxtr.com/user/privacypolicy.jsp) for the most accurate reproduction.*
 
 # jaxtr - privacy policy
 
@@ -8,7 +8,7 @@ Recent updates to this Privacy Policy
 
 ## About jaxtr
 
-Jaxtr is a social communications service provided at [www.jaxtr.com](https://web.archive.org/web/20090401003846id_/http%3A//www.jaxtr.com/user/www.jaxtr.com) and its directly associated domains and widgets (collectively, "jaxtr" or "Service"). This Privacy Policy explains what information of yours will be collected by jaxtr and how such information will be used. By using or accessing jaxtr, you are accepting the practices described in this Privacy Policy. 
+Jaxtr is a social communications service provided at [www.jaxtr.com](https://web.archive.org/web/20100329152225id_/http%3A//www.jaxtr.com/user/www.jaxtr.com) and its directly associated domains and widgets (collectively, "jaxtr" or "Service"). This Privacy Policy explains what information of yours will be collected by jaxtr and how such information will be used. By using or accessing jaxtr, you are accepting the practices described in this Privacy Policy. 
 
 Jaxtr cares deeply about online privacy. If you have any questions concerning this privacy policy, please contact us in writing by visiting our [Support site](http://support.jaxtr.com/index.php?departmentid=5&_m=tickets&step=1&_a=submit&subject=Privacy_Issue).
 
@@ -90,7 +90,7 @@ From time to time we may make changes to our privacy policy. If we make changes,
 
 ## Contacting jaxtr
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us by visiting our [Support site](http://support.jaxtr.com/index.php?departmentid=5&_m=tickets&step=1&_a=submit&subject=Privacy_Issue) or writing us at jaxtr, 855 Oak Grove, Suite 100, Menlo Park, CA 94025, USA.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us by visiting our [Support site](http://support.jaxtr.com/index.php?departmentid=5&_m=tickets&step=1&_a=submit&subject=Privacy_Issue) or writing us at jaxtr, 82 Pioneer Way, Suite 109, Mountain View, CA 94041, USA.
 
 Last modified: February 25, 2008 
 
@@ -100,3 +100,5 @@ January 16, 2008:
      We added the section “Notification Procedures,” and revised the section “Changes in Our Privacy Policy” to state that changes to this Privacy Policy are effective when they are posted on this page. 
 February 25, 2008:
      We made revisions throughout the Privacy Policy to reflect jaxtr’s evolving services. 
+June 18, 2009:
+     We made revisions throughout the Privacy Policy to reflect jaxtr’s address. 
