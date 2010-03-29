@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the leadscon.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218022232id_/http%3A//www.leadscon.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadscon.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329021825id_/http%3A//www.leadscon.com/privacy-policy.html) for the most accurate reproduction.*
 
 # LeadsCon » Privacy Policy
 
 ### Privacy Policy
 
-The following sets forth the policies for the collection and use of personally identifiable information (”Information”) by LeadsConference, LLC (together with its affiliated entities, “LeadsCon”) in connection with its operation of the Web site located at www.leadscon.com (the “Site”). LeadsCon takes its obligations regarding privacy very seriously, and it wants to ensure users are fully informed about the Information they are providing to it.
+The following sets forth the policies for the collection and use of personally identifiable information (“Information”) by LeadsConference, LLC (together with its affiliated entities, “LeadsCon”) in connection with its operation of the Web site located at www.leadscon.com (the “Site”). LeadsCon takes its obligations regarding privacy very seriously, and it wants to ensure users are fully informed about the Information they are providing to it.
 
 ### Information Collection
 
