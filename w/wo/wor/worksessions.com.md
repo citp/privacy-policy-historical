@@ -1,26 +1,31 @@
-> *The following text is extracted and transformed from the worksessions.com privacy policy that was archived on 2009-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090726135927id_/http%3A//www.worksessions.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worksessions.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329174907id_/http%3A//www.worksessions.com/privacy_policy.html) for the most accurate reproduction.*
 
 # WorkSessions - Privacy Policy
 
 |  |  [H   O   M   E](http://www.worksessions.com/)  
 ---  
   
+## [**Songs**](http://www.worksessions.com/songs/)
+
+  
+Browse new music being promoted in real-time.   
+  
 ## [**DJs**](http://www.worksessions.com/djs.html)
 
   
 Apply now to download new and exclusive songs.   
   
-## [**Record Labels**](http://www.worksessions.com/record_labels.cgi)
+## [**Record Labels**](http://www.worksessions.com/record_labels/upload.cgi)
 
   
 Upload songs and instantly achieve worldwide airplay.   
   
-## [**Charts**](http://www.worksessions.com/songs/)
+## [**Search**](http://www.worksessions.com/search/)
 
   
-View the top ten promoted songs updated in realtime.   
+Find songs by artist, title, genre, BPM and more.   
   
-## [**Contact Us**](http://www.worksessions.com/contact_us.html)
+## [**Contact Us**](http://www.worksessions.com/contact/)
 
   
 Submit questions, comments and feedback.   
@@ -59,3 +64,5 @@ We always use industry-standard encryption technologies when transferring and re
 **Conclusion**
 
 Thank you for taking the time to read this privacy policy. We intend to abide by this policy at all times. 
+
+|  | 
