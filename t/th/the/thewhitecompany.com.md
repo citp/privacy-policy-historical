@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the thewhitecompany.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416190403id_/http%3A//www.thewhitecompany.com/content.aspx%3FDepGrpCode%3DHOM%26CntCode%3Dhelp_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewhitecompany.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329154145id_/http%3A//www.thewhitecompany.com/content.aspx%3Fcntcode%3Dhelp_privacy) for the most accurate reproduction.*
 
-# HELP_PRIVACY
+# The White Company - Privacy & Data Protection
 
 [  
-Help](https://web.archive.org/web/20090416190403id_/http%3A//www.thewhitecompany.com/content.aspx?DepGrpCode=HOM&CntCode=help) > [About The White Company](https://web.archive.org/web/20090416190403id_/http%3A//www.thewhitecompany.com/content.aspx?DepGrpCode=HOM&CntCode=help) > Privacy & Data Protection
+Help](http://www.thewhitecompany.com/content.aspx?DepGrpCode=HOM&CntCode=help) > [About The White Company](http://www.thewhitecompany.com/content.aspx?DepGrpCode=HOM&CntCode=help) > Privacy & Data Protection
 
 The Information We Need and How We Use It   
 When you order with us, we ask for information such as your name, e-mail address and credit and debit card details. A contact telephone number may also be required so that we may contact you urgently if there is a problem with your order. All this is necessary to process your request or notify you of acceptance of your order.
