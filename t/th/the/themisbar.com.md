@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themisbar.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101191422id_/http%3A//www.themisbar.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themisbar.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329093851id_/http%3A//www.themisbar.com/privacy.htm) for the most accurate reproduction.*
 
 # Themis Bar Review
 
