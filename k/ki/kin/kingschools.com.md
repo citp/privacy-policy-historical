@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingschools.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126034443id_/http%3A//www.kingschools.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingschools.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329025445id_/http%3A//www.kingschools.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # King Schools - FAA Exam Prep Software, Pilot Training DVDs, and Pilot Gear
 
