@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamekiller.net privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211201311id_/http%3A//www.gamekiller.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamekiller.net privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329141837id_/http%3A//www.gamekiller.net/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - GameKiller - Game Hacking, Maple Story Hacks, Combat Arms Hacks & more
+# Privacy Policy - GameKiller - Maple Story Hacks, Combat Arms Hacks & WonderKing Hacks
 
   
 _**My Personal Information**_
