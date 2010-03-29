@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the moxsie.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221152934id_/http%3A//shop.moxsie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moxsie.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329125930id_/http%3A//shop.moxsie.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Product request submitted.
+# Moxsie.com - Privacy Policy
 
 This privacy statement ("Privacy Policy") covers the website [shop.moxsie.com](http://shop.moxsie.com/ "shop.moxsie.com"), owned and operated by Moxsie, Inc. ("Moxsie", "we", "us", "our"). Moxsie knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Moxsie website, submitting information or using any of our products or services, you are accepting the practices outlined in this Privacy Policy. You are also consenting to have your data transferred to and processed in the United States.
 
