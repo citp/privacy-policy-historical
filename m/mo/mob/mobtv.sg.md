@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobtv.sg privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515173249id_/http%3A//www.mobtv.sg/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobtv.sg privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329110204id_/http%3A//www.mobtv.sg/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # MOBTV
 
