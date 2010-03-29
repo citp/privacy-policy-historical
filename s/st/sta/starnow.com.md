@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starnow.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124070231id_/http%3A//www.starnow.com/help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starnow.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329050111id_/http%3A//www.starnow.com/help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - StarNow.com
 
