@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendscraps.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219113246id_/http%3A//www.sendscraps.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendscraps.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329114846id_/http%3A//www.sendscraps.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SendScraps.com
 
