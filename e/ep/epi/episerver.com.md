@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127130122id_/http%3A//www.episerver.com/en/System/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329121052id_/http%3A//www.episerver.com/en/System/Privacy_Statement) for the most accurate reproduction.*
 
-# Privacy - The official Web Site of EPiServer Products for web content management and online communities
+# EPiServer AB is committed to protecting your integrity. Th... | EPiServer
 
 EPiServer AB is committed to protecting your integrity. This privacy statement describes how data is collected and used on the Web site [www.episerver.com](http://www.episerver.com/). This policy does not apply to other online or offline EPiServer AB sites, products or services. By visiting this Web site, you consent to the principles for collection and usage of information described in this privacy statement.
 
@@ -16,20 +16,6 @@ By filling in Web forms, providing registration details or, in any other way, p
 
 EPiServer AB handles suitable personal information, e.g. name, address, e-mail address, telephone number, to be able to provide any services without specific permission.
 
-### Access to Your Personal Information
-
-You can review and edit the personal information you provided at registration by logging on to Knowledge Center and selecting My Settings.
-
-In My Settings you can:
-
-  * Display and edit the personal information you provided at registration.
-  * Tell us whether you want to receive marketing information from EPiServer AB.
-  * Subscribe, or cancel subscriptions, to newsletters about our services and products.
-
-
-
-From the Knowledge Center you can also choose to subscribe to public information and information from the different forums in the Knowledge Center.
-
 ## Cookies
 
 According to the law for electronic communication, which came into force 25 July 2003, visitors to a Web site with cookies will receive information that the Web site contains cookies, what the cookies are used for and how to avoid cookies.
@@ -37,8 +23,8 @@ According to the law for electronic communication, which came into force 25 July
 ## Cookies are used in the following situations on this Web site:
 
   * If you choose to show the website in swedish or norwegian, a cookie will be sent to remember your choise of language. The next time you visit the web site, the language will be based on your last visit. If the cookie is rejected, the web site will always be shown in english. 
-  * If you are not logged on and you answer/send in a form, a cookie will be sent to remember that you have sent a form.
-  * When you log on, cookies are used to store your logon information. If cookies are denied at logon, the logon dialog will be displayed for each page requiring logon.
+  * If you are not logged on and you answer/send in a form, a cookie will be sent to remember that you have sent a form. 
+  * When you log on, cookies are used to store your logon information. If cookies are denied at logon, the logon dialog will be displayed for each page requiring logon. 
   * The web site uses cookies in order to collect information about how the pages are used. Information about what server your PC is connected to, what type of browser, how often you have been visiting our web site etc is stored. The information is used for the purpose of analyzing statistics regarding the use of the web site. 
 
 
@@ -47,7 +33,7 @@ In your web browser you can choose not to accept cookies, but then the web site 
 
 ### To avoid cookies at the web site, you can as a visitor:
 
-  * Avoid to answer forms.
+  * Avoid to answer forms. 
   * Avoid to log on to the web site. 
   * End your visit at the web site. 
 
@@ -61,4 +47,4 @@ We may occasionally update this privacy statement. When we do, we will also upda
 
 ## Contact Information
 
-If you require further information about EPiServer AB's privacy statement, contact our Personal Data Act via e-mail: nospam@localhostpulnospam@localhost@nospam@localhostep.senospam@localhost.
+If you require further information about EPiServer AB's privacy statement, contact our Personal Data Act via e-mail:nospam@localhostpulnospam@localhost@nospam@localhostep.senospam@localhost.
