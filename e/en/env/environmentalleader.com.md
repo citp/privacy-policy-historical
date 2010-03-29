@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the environmentalleader.com privacy policy that was archived on 2009-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091025155308id_/http%3A//www.environmentalleader.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environmentalleader.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329081958id_/http%3A//www.environmentalleader.com/privacy) for the most accurate reproduction.*
 
 # Privacy · Environmental Leader · Green Business, Sustainable Business, and Green Strategy News for Corporate Sustainability Executives
 
-Our privacy policy is quite simple: we won’t use your email address for any other purpose than sending you our newsletter and (for subscribers who joined since November 2008) occasional, carefully selected sponsorship content.
+## Privacy
+
+Our privacy policy is quite simple: we won’t use your email address for any other purpose than sending you our newsletter and occasional, carefully selected sponsorship content.
 
 We may also contact subscribers to update information once in a while, and, from time to time, invite some readers to participate in a readership survey.
 
