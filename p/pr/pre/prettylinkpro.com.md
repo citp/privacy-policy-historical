@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prettylinkpro.com privacy policy that was archived on 2009-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090902112305id_/http%3A//prettylinkpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettylinkpro.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330111927id_/http%3A//prettylinkpro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -69,3 +69,6 @@ Phone: (801) 921-6928
 BCW Enterprises  
 1953 S 1100 E #521311  
 Salt Lake City, UT 84106
+
+  
+
