@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lightspeedresearch.com privacy policy that was archived on 2009-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090921172105id_/http%3A//www.lightspeedresearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightspeedresearch.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330125533id_/http%3A//www.lightspeedresearch.com/privacy-policy) for the most accurate reproduction.*
 
-# Lightspeed Research » Privacy Policy
+# Lightspeed Research Privacy Policy
 
 We have created this privacy policy in order to demonstrate our commitment to your privacy. The following discloses our practices for the collection and use of information solely in connection with the web site and service located at [www.lightspeedresearch.com](http://www.lightspeedresearch.com/) (the “Service”). By using or accessing the Service, you signify your assent to our Privacy Policy.
 
