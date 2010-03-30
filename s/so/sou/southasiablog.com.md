@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southasiablog.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231081717id_/http%3A//www.southasiablog.com/2009/06/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southasiablog.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330061659id_/http%3A//www.southasiablog.com/2009/06/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
