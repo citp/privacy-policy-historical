@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 11points.com privacy policy that was archived on 2009-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090708220939id_/http%3A//www.11points.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 11points.com privacy policy that was archived on 2010-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100331001926id_/http%3A//www.11points.com/privacypolicy.php) for the most accurate reproduction.*
 
 # 11Points Privacy Policy
 
