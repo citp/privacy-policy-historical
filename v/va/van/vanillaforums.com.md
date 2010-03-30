@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vanillaforums.com privacy policy that was archived on 2009-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091009022944id_/http%3A//www.vanillaforums.com/privacy/%3Fiframe%3Dtrue%26width%3D600%26height%3D300) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanillaforums.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330120141id_/http%3A//vanillaforums.com/info/privacy) for the most accurate reproduction.*
 
-# Vanilla - Free Forum Hosting
+# VanillaForums.com Privacy Policy
 
 ## Website Visitors
 
