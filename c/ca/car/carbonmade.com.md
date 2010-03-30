@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the carbonmade.com privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001061610id_/http%3A//www.carbonmade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonmade.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330123534id_/http%3A//carbonmade.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : Carbonmade
+# Privacy policy : Carbonmade
 
-Effective August 20th, 2009
+Effective February 25th, 2010
 
 ## 1\. Introduction
 
@@ -20,11 +20,11 @@ Our Services are intended for general audiences and commercial use. We do not kn
 
 We automatically collect and temporarily store information about Your visit. The information We collect enables Us to refine and offer better services to You. We may share the information We collect about You with Our business partners. The types of information we collect include, but are not limited to:
 
-  * the date and time of Your visit;
-  * IP addresses;
-  * browser type, operating system, and language;
-  * the pages you visited; and
-  * the address of the Web site from which You came.
+  1. the date and time of Your visit;
+  2. IP addresses;
+  3. browser type, operating system, and language;
+  4. the pages you visited; and
+  5. the address of the Web site from which You came.
 
 
 
