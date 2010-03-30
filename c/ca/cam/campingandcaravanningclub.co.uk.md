@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campingandcaravanningclub.co.uk privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221025533id_/http%3A//www.campingandcaravanningclub.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campingandcaravanningclub.co.uk privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330230047id_/http%3A//www.campingandcaravanningclub.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # The Camping and Caravanning Club - Privacy Policy
 
