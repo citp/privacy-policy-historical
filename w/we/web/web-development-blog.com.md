@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web-development-blog.com privacy policy that was archived on 2009-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090316075051id_/http%3A//www.finalwebsites.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-development-blog.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330160631id_/http%3A//www.finalwebsites.com/privacy.php) for the most accurate reproduction.*
 
 # finalwebsites.com - privacy statement
 
@@ -27,7 +27,15 @@ While we do not sell information to third parties, we do pass information on to 
 
 Some of our sites are supported through sponsorship and contextual advertising our current advertising partners are:
 
-> Google Adsense (USA) contextual, Kontera (USA) contextual
+> **Google Adsense (USA) contextual**
+> 
+> Google, as a third party vendor, uses cookies to serve ads on your site.
+> 
+> Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+> 
+> Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+> 
+> **Kontera (USA) contextual**
 
 Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information including your IP address, your ISP , the browser you used to visit our site, and in some cases conditions of your browser such as the inclusion of Flash. Many Advertisers use Geo-targeting technology (using your IP address to provide a location) to allow them to provide targeted offers as well as providing adverts tailored to the content this is referred to as contextual advertising.
 
@@ -39,4 +47,4 @@ We take your privacy seriously and do not sell or use your data in a way that co
 
 We reserve us the right to change this policy from time to time.
 
-_The Netherlands 2008_
+_The Netherlands 2009_
