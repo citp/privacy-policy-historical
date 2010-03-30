@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stacksandstacks.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211220546id_/http%3A//www.stacksandstacks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stacksandstacks.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330104105id_/http%3A//www.stacksandstacks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -26,17 +26,11 @@ Stacks and Stacks, in attempting to reduce fraudulent use of credit card numbers
 
 **Ads**
 
-We use third-party service providers to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service providers, please visit the [Acerno privacy policy page](http://acerno.com/privacy.html) and the [FetchBack opt-out and info page](http://www.fetchback.com/optout.html).  
+We use third-party service providers to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service providers, please visit the [mediaFORGE privacy policy page](http://mediaforge.com/policy/Privacy_Policy_2.html).
 
 You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative’s website by clicking [here](http://www.networkadvertising.org/). 
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact:
-
-Mel Ronick  
-President  
-Stacks and Stacks  
-mel@stacksandstacks.com
-
-Return to Stacks & Stacks Home Page 
+  
+[Return to Stacks & Stacks Home Page](https://web.archive.org/)
