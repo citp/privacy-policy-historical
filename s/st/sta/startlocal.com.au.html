@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the startlocal.com.au privacy policy that was archived on 2009-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091226235220id_/http%3A//www.startlocal.com.au/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the startlocal.com.au privacy policy that was archived on 2010-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100330181705id_/http%3A//www.startlocal.com.au/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Privacy: Start Local - Your Local Australian Business Directory</title>
@@ -17,6 +17,13 @@
 <script type="text/javascript" src="http://www.locstats.com/tagfire.js"></script>
 <script type="text/javascript">
  //<![CDATA[
+function list_to_select ( selector, blank_prompt ) {
+ $(selector).each(function(){
+ var buf = "<option>"+blank_prompt+"<\/option>";
+ $(this).find("li a").each(function(){buf += "<option value='"+encodeURI($(this).attr("href"))+"'>"+$(this).html()+"<\/option>"})
+ $(this).hide().after("<select name='ignore-me' onchange='$(this).val()?window.location=$(this).val():false'>"+buf+"<\/select>");
+ });
+}
 $(document).ready(function() {
  /* check form before submit */
  $('.search-form form').each(function() {
@@ -71,7 +78,7 @@ $(document).ready(function() {
 <a class="logo" href="http://www.startlocal.com.au" title="Startlocal.com.au">
 <img src="http://www.startlocal.com.au/static/images/logo-header.jpg" alt="STARTLOCAL">
 </a>
-<p class="descr">YOUR LOCAL AUSTRALIAN BUSINESS DIRECTORY &amp; BUSINESS SEARCH ENGINE</p>
+<p class="descr" style="margin-top:1px;">Search Smarter, Not Harder. <br> Start Local will intelligently provide you with accurate local business results...fast.</p>
 <div class="right-links">
 <div class="add-business">
 <a href="/get-listed.html">Add your business free</a>
@@ -104,7 +111,7 @@ $(document).ready(function() {
 <div class="search">
 <div class="left">
 <img src="http://www.startlocal.com.au/static/images/titles/search.png" alt="SEARCH" class="search-inscr">
-<p class="tip"><b>Tip:</b> To search by keyword or business name, click on the tabs above the search form to change fields.</p>
+<p class="tip">Your Australian Business Directory &amp; Local Business Search Engine</p>
 </div>
 <div class="right">
 <h4>I am looking for:</h4>
@@ -191,7 +198,9 @@ $(document).ready(function() {
 </div>
 <div class="footer">
 <div class="cont">
-<a href="#" class="logo"><img src="http://www.startlocal.com.au/static/images/logo-footer.gif" alt="STARTLOCAL"></a>
+<a class="logo" href="http://www.startlocal.com.au" title="Startlocal.com.au">
+<img src="http://www.startlocal.com.au/static/images/logo-footer.gif" alt="STARTLOCAL">
+</a>
 <div class="separator">
 <ul>
 <li><a href="http://www.startlocal.com.au">Home</a></li>
@@ -215,7 +224,7 @@ $(document).ready(function() {
 <li class="last"><a href="http://www.startlocal.com.au/canberra.html">Canberra </a></li>
 </ul>
 <div class="relax"></div>
-<p>Copyright © 2006-2009 Start Local Pty Ltd - Your Local Search Engine and Australian Business Directory. All rights reserved.</p>
+<p>Copyright © 2006-2010 Start Local Pty Ltd - Your Local Search Engine and Australian Business Directory. All rights reserved.</p>
 </div>
 </div>
 </div>
@@ -236,20 +245,5 @@ $(document).ready(function() {
 </script>
 <script type="text/javascript" src="http://www.startlocal.com.au/static/js/at.js"></script>
 <script type="text/javascript" src="//static.woopra.com/js/woopra.js"></script>
-<script type="text/javascript">
- $(document).ready(function(){
-<!--  start Xmas Image-->
- $("body").css({
- 'background': '#D4F1F6 url(http://www.startlocal.com.au/static/images/bg/tree1.jpg) top center no-repeat '
- });
- $("#bot_footer").css({
- 'margin-top': '-205px',
- display: 'block',
- background: 'transparent url(http://www.startlocal.com.au/static/images/bg/tree1_footer_trans.gif) bottom center no-repeat',
- height: '351px'
- });
-<!--  end Xmas Image-->
- });
-</script>
 </div>
 </body></html>
