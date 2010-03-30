@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appolicious.com privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003021649id_/http%3A//www.appolicious.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appolicious.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330130129id_/http%3A//www.appolicious.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Appolicious ™
+# Privacy Policy | Appolicious ™ iPhone App Directory
 
 Appolicious Inc. (“us” or “we”) is committed to protecting your online privacy.  This Privacy Policy discloses the privacy practices for the [www.appolicious.com](http://www.appolicious.com/) website (our “Site”). We encourage you to read this Privacy Policy carefully to learn what information we collect from you and how we use that information.
 
