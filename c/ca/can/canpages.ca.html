@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the canpages.ca privacy policy that was archived on 2009-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091212054235id_/http%3A//www.canpages.ca/hm/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the canpages.ca privacy policy that was archived on 2010-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100330143645id_/http%3A//www.canpages.ca/hm/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -345,8 +345,26 @@ html #navigation ul li a {
 
 
 <script type="text/javascript">
+function repositionIcons() {
+	var txtLeft = 0;
+	//var minWidth = 500;
+	//var newWidth = 0;
+	//var clWidth = document.body.clientWidth;
+		
+	
+		//txtLeft = document.body.clientWidth-30;
+		//txtLeft = Math.max(minWidth, clWidth - 70);	
+		txtLeft = jQuery("#inputMobile").position().left + 4;
+	 	
+	
+	//alert(document.getElementById("msgDiv"));
+	//document.getElementById("msgDiv").left = txtLeft;
+	jQuery("#msgDiv").css({ position: "absolute", left: txtLeft });
+}
+
 jQuery(document).ready(function($){
 	var blurFlag2 = true;
+
 	$("#inputMobile")
 	.click(function(event){
 		$(this).val('');
@@ -403,15 +421,9 @@ jQuery(document).ready(function($){
 			$("#inputMobile").val('');
 			$("#inputMobile").focus();
 		}			
-	});
+	});	
 	
-	var txtLeft = 0;
-	
-	
-		txtLeft = $("#inputMobile").position().left + 4;
-	 	
-	$("#msgDiv").css({ position: "absolute", 
-            		   left: txtLeft });
+	repositionIcons();
 });
 </script>
 <style>
@@ -457,20 +469,31 @@ jQuery(document).ready(function($){
 	          </div> 
          	     
                <div class="bottom_links"> 
-                <ul class="rs_links2"> 
-                © 2009 Canpages Inc. All rights reserved&nbsp;&nbsp;&nbsp;|
-				      	
-        			<li><a href="/hm/feedback.jsp">Feedback</a> |</li> 
-        			<li><a href="/hm/privacy.jsp">Privacy Policy</a> |</li>
-        			<li><a href="/hm/terms.jsp">Terms</a> |</li>
-					<li><a href="http://www.canpages.ca/blog/">Blog</a> |</li>
-					<li><a href="http://corporate.canpages.ca/">Corporate</a> |</li>
-					<li><a href="/olc/">Add or Update a Free Listing</a></li>  
+                <ul class="rs_links2" style="width:100%"> 
 				
+					<table cellpadding="0" cellspacing="0" width="100%">     	
+					<tbody><tr>				 
+					<td>
+					© 2010 Canpages Inc. All rights reserved&nbsp;&nbsp;&nbsp;|
+					<li><a href="http://www.canpages.ca/">Home</a> |</li>
+					<li><a href="http://corporate.canpages.ca/">Corporate</a> |</li>
+        			<li><a href="/hm/feedback.jsp">Feedback</a> |</li> 
+        			<li><a href="/hm/privacy.jsp">Privacy</a> |</li>
+        			<li><a href="/hm/terms.jsp">Terms</a> |</li>
+        			<li><a href="/directory">Business Directory</a> |</li>
+					<li><a href="http://www.canpages.ca/blog/">Blog</a> |</li>
+					<li><a href="/olc/">Add or Update a Free Listing</a> |</li>  
+					<li><a href="http://code.canpages.ca">API</a></li>  
+					</td>
+					<td>
+						<div style="float:right">
+							Follow us on&nbsp;<img src="/images/share/cpFooterIcon_fbook.jpg" onclick="location.href='http://www.facebook.com/Canpages'" onmouseover="this.style.cursor='pointer'">&nbsp;<img src="/images/share/cpFooterIcon_twitter.jpg" onclick="location.href='http://twitter.com/canpages_ca'" onmouseover="this.style.cursor='pointer'">
+						</div>
+					</td>
+					</tr>
+					</tbody></table>
 				
                 </ul> 
-
-
                </div> 
  
  
@@ -539,7 +562,7 @@ pageTracker._trackPageview('/hm/privacy.jsp');
 <script type="text/javascript">
 document.write("<img id='img1' height='1' width='1'>");document.getElementById("img1").src="http://beacon.scorecardresearch.com/scripts/beacon.dll?C1=2&C2=3005681&C3=3005681&C4=" + escape(window.location.href) + "&C5=&C6=&C7=" + escape(window.location.href) + "&C8=" + escape(document.title) + "&C9=" + escape(document.referrer) + "&rn=" + Math.floor(Math.random()*99999999);
 								
-</script><img id="img1" height="1" width="1" src="http://beacon.scorecardresearch.com/scripts/beacon.dll?C1=2&amp;C2=3005681&amp;C3=3005681&amp;C4=https%3A//web.archive.org/web/20091212054235id_/http%253A//www.canpages.ca/hm/privacy.jsp&amp;C5=&amp;C6=&amp;C7=https%3A//web.archive.org/web/20091212054235id_/http%253A//www.canpages.ca/hm/privacy.jsp&amp;C8=Canpages&amp;C9=&amp;rn=71991728">
+</script><img id="img1" height="1" width="1" src="http://beacon.scorecardresearch.com/scripts/beacon.dll?C1=2&amp;C2=3005681&amp;C3=3005681&amp;C4=https%3A//web.archive.org/web/20100330143645id_/http%253A//www.canpages.ca/hm/privacy.jsp&amp;C5=&amp;C6=&amp;C7=https%3A//web.archive.org/web/20100330143645id_/http%253A//www.canpages.ca/hm/privacy.jsp&amp;C8=Canpages&amp;C9=&amp;rn=26051144">
 <!-- End comScore Tag -->
 
 <img src="/tracker.jsp" width="1" height="1/">
