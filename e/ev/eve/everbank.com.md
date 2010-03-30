@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everbank.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225055842id_/https%3A//www.everbank.com/004Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everbank.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330145336id_/https%3A//www.everbank.com/004Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy and Security | EverBank
 
