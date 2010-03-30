@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oilprice.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203070403id_/http%3A//www.oilprice.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oilprice.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330082315id_/http%3A//www.oilprice.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | OilPrice.com
 
@@ -71,70 +71,66 @@ If you have questions or suggestions please use you the feedback form or you can
 |   
 |  |   
 |    
+  
 |   
 ---  
 Symbol| Price| Chg| % Chg  
-Exxon Mobil| 75.79|  -0.25| -0.33     
-BP| 585.60|  -1.10| -0.19     
-Royal Dutch Shell| 1829.50|  -8.00| -0.44     
-ConocoPhilips| 51.84|  -0.42| -0.80     
-Chevron| 78.73|  -0.33| -0.42     
-Total| 63.75|  0.21| 0.33     
-Eni| 19.71|  -0.12| -0.61     
-Repsol| 28.08|  -0.09| -0.32     
-Marathon| 32.38|  -0.48| -1.46     
-Apache| 96.37|  -1.35| -1.39     
-Devon Energy| 67.58|  -1.01| -1.48     
+Exxon Mobil| 67.30|  0.00| 0.00     
+BP| 627.30|  -0.05| -0.01     
+Royal Dutch Shell| 1917.50|  5.50| 0.29     
+ConocoPhilips| 51.15|  0.00| 0.00     
+Chevron| 75.23|  0.00| 0.00     
+Total| 57.53|  0.00| 0.00     
+Eni| 19.89|  0.00| 0.00     
+Repsol| 24.04|  0.00| 0.00     
+Marathon| 31.46|  0.00| 0.00     
+Apache| 99.80|  0.00| 0.00     
+Devon Energy| 64.57|  0.00| 0.00     
 All data delayed by 15 minutes approx.  
   
   
 ---  
 Name| Price| Chg| % Chg  
-Crude Oil| 78.44|  0.56| 0.72     
-Heating Oil| 2.04|  0.88| 0.43     
-Natural Gas| 4.56|  0.03| 0.71     
-Gasoline| 199.90|  1.07| 0.54     
-Gold| 1,214.40|  6.30| 0.52     
-Silver| 19.21|  -0.05| -0.23     
-Copper| 3.25|  -1.25| -0.38     
+Crude Oil| 81.57|  0.40| 0.49     
+Heating Oil| 2.13|  0.97| 0.46     
+Natural Gas| 3.91|  -0.01| -0.26     
+Gasoline| 227.20|  1.07| 0.47     
+Gold| 1,112.80|  1.30| 0.12     
+Silver| 17.44|  0.05| 0.28     
+Copper| 3.51|  -2.30| -0.65     
 All data delayed by 15 minutes approx.  
   
   
 ---  
 Name| Price| Chg| % Chg  
-Copper 1m| 0.00|  0.00| 0.00     
+Heating Oil 1m| 2.13|  0.01| 0.41     
+Natural Gas 1m| 3.84|  0.00| 0.00     
+Gasoline 1m| 2.27|  0.01| 0.63     
+Gold 1m| 1.00|  0.40| 0.04     
+Silver 1m| 17.37|  0.00| 0.00     
+Copper 1m| 3.51|  -0.01| -0.41     
 All data delayed by 15 minutes approx.  
   
   
 ---  
 Symbol| Price| Change| % Chg  
-NASDAQ| 2,185.03|  9.22| 0.42     
-NYSE| 7,222.42|  10.34| 0.14     
-Dow Jones| 10,452.68|  -18.90| -0.18     
-S&P 500| 1,109.24|  0.00| 0.00     
-AMEX| 1,806.68|  0.58| 0.03     
-FTSE| 5,327.39|  15.22| 0.29     
-DAX| 5,781.68|  5.07| 0.09     
-Heng Seng| 22,464.24|  174.67| 0.78     
-Nikkei 225| 9,977.67|  368.73| 3.80     
-All data delayed by 15 minutes approx.  
-  
-  
----  
-From| To| Last Trade    
-AUD| USD| 0.9307      
-EUR| USD| 1.5105      
-JPY| USD| 0.0114      
-GBP| USD| 1.6692      
-CAD| USD| 0.9543      
+NASDAQ| 2,404.36|  0.00| 0.00     
+NYSE| 7,464.90|  0.00| 0.00     
+Dow Jones| 10,895.86|  45.50| 0.42     
+S&P 500| 1,173.32|  0.00| 0.00     
+AMEX| 1,891.91|  0.00| 0.00     
+FTSE| 5,717.51|  6.85| 0.12     
+DAX| 6,183.98|  27.13| 0.44     
+Heng Seng| 21,374.79|  137.36| 0.65     
+Nikkei 225| 11,097.14|  110.67| 1.00     
 All data delayed by 15 minutes approx.  
   
   
 | [](http://www.oilprice.com/)  
 No. 1 Oil Resource Site | General Section | Misc Section | Help Section | Legal Section  
 ---|---|---|---|---  
-\- [What is OilPrice?](https://web.archive.org/web/20091203070403id_/http%3A//www.oilprice.com/what.php) |  \- [Data](https://web.archive.org/web/20091203070403id_/http%3A//www.oilprice.com/data.php) |  \- [Site Contributors](https://web.archive.org/web/20091203070403id_/http%3A//www.oilprice.com/authors.php) |  \- [Terms and Conditions](https://web.archive.org/web/20091203070403id_/http%3A//www.oilprice.com/terms.php)  
-\- [About Us](https://web.archive.org/web/20091203070403id_/http%3A//www.oilprice.com/about.php) |  \- [Stats](https://web.archive.org/web/20091203070403id_/http%3A//www.oilprice.com/stats.php) |  \- [Advertise with us](https://web.archive.org/web/20091203070403id_/http%3A//www.oilprice.com/advertise.php) |  \- [Disclaimer](https://web.archive.org/web/20091203070403id_/http%3A//www.oilprice.com/disclaimer.php)  
-\- [Sitemap](https://web.archive.org/web/20091203070403id_/http%3A//www.oilprice.com/sitemap.xml) |  \- [RSS Feeds](https://web.archive.org/web/20091203070403id_/http%3A//www.oilprice.com/rss.xml) |  \- [Contact Us](https://web.archive.org/web/20091203070403id_/http%3A//www.oilprice.com/contact.php) |  \- [Privacy Policy](https://web.archive.org/web/20091203070403id_/http%3A//www.oilprice.com/privacy.php)  
-© 2009 [OilPrice.com](http://www.oilprice.com/)  
+\- [What is OilPrice?](https://web.archive.org/web/20100330082315id_/http%3A//www.oilprice.com/what.php) |  \- [Data](https://web.archive.org/web/20100330082315id_/http%3A//www.oilprice.com/data.php) |  \- [Site Contributors](https://web.archive.org/web/20100330082315id_/http%3A//www.oilprice.com/authors.php) |  \- [Terms and Conditions](https://web.archive.org/web/20100330082315id_/http%3A//www.oilprice.com/terms.php)  
+\- [About Us](https://web.archive.org/web/20100330082315id_/http%3A//www.oilprice.com/about.php) |  \- [Stats](https://web.archive.org/web/20100330082315id_/http%3A//www.oilprice.com/stats.php) |  \- [Advertise with us](https://web.archive.org/web/20100330082315id_/http%3A//www.oilprice.com/advertise.php) |  \- [Disclaimer](https://web.archive.org/web/20100330082315id_/http%3A//www.oilprice.com/disclaimer.php)  
+\- [Sitemap](https://web.archive.org/web/20100330082315id_/http%3A//www.oilprice.com/sitemap.xml) |  \- [RSS Feeds](https://web.archive.org/web/20100330082315id_/http%3A//www.oilprice.com/rss.xml) |  \- [Contact Us](https://web.archive.org/web/20100330082315id_/http%3A//www.oilprice.com/contact.php) |  \- [Privacy Policy](https://web.archive.org/web/20100330082315id_/http%3A//www.oilprice.com/privacy.php)  
+© 2010 [OilPrice.com](http://www.oilprice.com/)  
 The materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice. Nothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.
