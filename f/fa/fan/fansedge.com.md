@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fansedge.com privacy policy that was archived on 2009-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090905142906id_/http%3A//www.fansedge.com/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fansedge.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330032852id_/http%3A//www.fansedge.com/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # Security and Privacy
 
@@ -82,8 +82,8 @@ You may receive mailings from other reputable companies. You can, however, have 
 
 FansEdge, Inc.  
 Attn: Security Department  
-725 Landwehr Rd.  
-Northbrook, IL 60062 
+725 Landwehr Road  
+Northbrook IL 60062 
 
 We will share required information to the necessary government law enforcement agencies in the course of an investigation, as required by law. When permissible, we will inform you that we are providing this information.
 
@@ -121,6 +121,6 @@ For direct mail opt-out requests, please send a request by mail to:
 
 FansEdge, Inc.  
 Attn: Security Department  
-725 Landwehr Rd.  
-Northbrook, IL 60062   
+725 Landwehr Road  
+Northbrook IL 60062   
 
