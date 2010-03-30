@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedingamerica.org privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224011319id_/http%3A//feedingamerica.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedingamerica.org privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330135510id_/http%3A//feedingamerica.org/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
