@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuteonly.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224074147id_/http%3A//www.cuteonly.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuteonly.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330214459id_/http%3A//www.cuteonly.com/privacy.html) for the most accurate reproduction.*
 
 # CuteOnly Privacy Policy
 
@@ -48,7 +48,9 @@ To access or manage your subscriptions, please visit [www.cuteonly.com/manage_su
 
 The instructions to unsubscribe from our mailings are located in the bottom of the messages we send. Usually, these are both a link to unsubscribe with a single click and the email address to send an empty message to.
 
-If you have any further questions or concerns about our privacy policy contact us at [legal@cuteonly.com](mailto:legal@cuteonly.com.).
+If you have any further questions or concerns about our privacy policy contact us at or  
+B. Novodmitrovskaya 14/2, office 226  
+127015 Moscow, Russia.
 
   
 **What's Next:**
