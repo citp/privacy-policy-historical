@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scholarships4moms.net privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028085807id_/http%3A//www.scholarships4moms.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarships4moms.net privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330025341id_/http%3A//www.scholarships4moms.net/privacy.htm) for the most accurate reproduction.*
 
-# Scholarships4moms.net
+# Privacy Policy
 
 ##### PRIVACY & SECURITY:
 
@@ -36,6 +36,10 @@ By submitting your personal and/or financial information on our site, you are he
 ##### Third Party Offers
 
 In addition to the information collected by us and registration information submitted by you, we may employ both first-party and third-party cookies.  A cookie is a piece of data stored on your hard drive containing activity-based information about you, and it is designed to facilitate the receipt of targeted and relevant advertisements.  The cookie is not associated with your personally identifiable information. To opt out of our third party cookie-based marketing program, click here: <http://rt.displaymarketplace.com/optout.html>
+
+##### SMS Messaging:
+
+This website, scholarships4moms.net, websites linking to scholarships4moms.net, and websites linked from this website (collectively "We") may make available a service either directly or through third parties by which you can receive messages on your wireless device via short message service ("SMS Service"). Your provider's standard data and messaging rates apply to all SMS correspondence. All charges are billed by and payable to your mobile service provider. You represent that you are 18 years of age and the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges. Data obtained from you in connection with this SMS Service may include your name, address, cell phone number, your provider's name, and the date, time, and content of your messages. The use of this information will be in accordance with this Mobile Policy. If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies. You acknowledge and agree that the SMS Service is provided via wireless systems which use radios (and other means) to transmit communications over complex networks. We will not be liable for any delays in the receipt of any SMS messages, as delivery is subject to effective transmission from your network operator. SMS message services are provided on an AS IS basis. We do not guarantee that your use of the SMS Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS Service. You may opt out of the SMS Service at any time by replying "STOP", "END", or "QUIT" to the SMS text message you have received. This process impacts only the future delivery of the particular SMS message offering, so you must send that message for each offering. 
 
 ##### We do not collect Information from Children:
 
