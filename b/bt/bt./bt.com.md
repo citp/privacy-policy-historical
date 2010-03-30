@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bt.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212035242id_/http%3A//www2.bt.com/btPortal/application%3Fpageid%3Dpan_privacy_policy%26siteArea%3Dpan) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bt.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330160315id_/http%3A//www2.bt.com/btPortal/application%3Fpageid%3Dpan_privacy_policy%26siteArea%3Dpan) for the most accurate reproduction.*
 
 # BT.com | Privacy Policy
 
@@ -24,7 +24,7 @@ When do we use cookies?
 How do you disable cookies?   
 Are third party sites covered by this policy?   
    
-[ ](http://www.bt.com/index.jsp "back")  
+[ ](https://web.archive.org/btPortal/?pageid=my_account&tabId=2&siteArea=pan&pageid=pan_privacy_policy "back")  
    
 BT Websites Privacy and Security Policy   
    
@@ -262,9 +262,7 @@ Over and above what BT does to safeguard your privacy and security on-line, ther
   * We also recommend you then close your browser so any history of the session is cleared. As an extra precaution, your session on bt.com will time out if you have not used the site for 30 minutes.
   * We collect information from visitors to our websites to help us to make improvements to the websites and to the services we make available. We know, for instance, how many visitors there are to each website, when they visited, for how long and to which areas of our website they went. We may share this information with our advertisers and to other companies which offer their goods or services on our websites. It helps to show these organisations how effective our websites are as sales channels for their products. You or any other individual cannot be identified from the information we share as the data is aggregated and anonymised.
   * We do not use this information to:
-  * identify individuals visiting our website; or
   * analyse your visits to any other websites (except that we do track you if you go to websites carrying our banner, but we do not identify personal details while we do this); or
-  * track any Internet searches which you may make while on our website.
 
   
 Return to top  
@@ -289,7 +287,7 @@ This cookie allows us to:
 
   
    
-We do not store information regarding your telephone number, account or payment details in the cookie, and this information cannot be accessed using it. BT´s cookies do not collect any information regarding the use of your PC or your Internet browsing in any way.  
+We do not store information regarding your telephone number, account or payment details in the cookie, and this information cannot be accessed using it.   
 Please note that as the cookie is based on your PC, we will not find it if you visit our websites using a different PC to the one you registered on.   
    
 Return to top  
