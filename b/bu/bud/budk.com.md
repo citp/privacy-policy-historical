@@ -1,44 +1,92 @@
-> *The following text is extracted and transformed from the budk.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514150928id_/http%3A//budk.com/privacy-policy/a/3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budk.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330065737id_/http%3A//budk.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - The BudK Catalog
+# Swords, Collectible Knives and Swords, Bowie Knives, Fantasy Swords and More from BUDK.com
 
-Privacy Policy
+* * *
 
-Updated: March 22, 2005
+**Scope of this Online Privacy Statement**  
+This Online Privacy Statement describes how BUDK uses, shares and protects the personal information we collect through BUDK.com. “Personal information” is information that identifies you personally, either alone or in combination with other information. Personal information may include, for example, your name, address, email address, credit card information, and transaction history.
 
-Mailing Address: The Bud K Catalog PO Box 2768 Moultrie, GA 31776 Shipping Address: The Bud K Catalog 475 US Hwy 319 South Moultrie, GA 31768 Email Address: Customerservice@budkww.com Telephone & Fax: Phone: 800-630-2835 Fax: 800-246-7326 or 229-985-4861 Data Handling Policies: For each visitor to our web site, our web server, where possible, automatically recognizes the consumer's domain name and e-mail address.
+**Your Consent to This Online Privacy Statement**  
+By browsing or using BUDK.com, you are agreeing to the collection, use, and disclosure of your personal information as described in this Online Privacy Statement. If you do not consent to the collection, use, and disclosure of your personal information as described in this Online Privacy Statement, you should not use this site.
 
-We collect the domain name and e-mail address, where possible, of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit and information volunteered by the consumer, such as survey information and/or site registrations.
+**Questions Concerning Our Online Privacy Practices**  
+If you have any questions or concerns regarding this Online Privacy Statement or our privacy practices, please email us at [webcs@budk.com](mailto:webcs@budk.com) or write to us at BUDK Worldwide, PO Box 2768, Moultrie, GA 31776.
 
-The information we collect is used to both improve the content of our Web page and as well as used by us to contact consumers for marketing purposes. On a very selective basis, we may share this information with Marketing Partners for co-promotion of products of interest. We may also receive similar consumer contact information from those Marketing Partners.
+**Privacy Notices**  
+This Online Privacy Statement may be supplemented or amended from time to time by “privacy notices” posted on this site. For example, certain pages of this site contain privacy notices providing details about the ways we use or share the personal information we collect on those pages.
 
-With Respect To Cookies: A cookie is a block of text placed in a file on the user’s hard drive by a Web site you have visited. These types of cookies cannot identify an individual user specifically, such as by name or address, unless the cookie data is attached to personally identifiable information such as online registration. Bud K uses cookies to observe our site visitor’s navigation throughout the. This helps us identify ways to improve the shopping experience. 
+**This Online Privacy Statement May Change**  
+We reserve the right to update or modify this Online Privacy Statement, at any time and without prior notice, by posting the revised version on this site. These changes will only apply to personal information we collect after we have posted the revised Online Privacy Statement on this site. Your use of this site following any such change constitutes your agreement that all personal information collected from or about you through BUDK.com after the revised Online Privacy Statement is posted will be subject to the terms of the revised Online Privacy Statement.
 
-Mailing Address Opt Out: If you supply us with your postal address you may receive periodic mailings from us including catalogs or information on new products. If you do not wish to receive such mailings, please let us know by sending email, calling us, or writing to us at the above address.
+To alert you to changes to this Online Privacy Statement, we will provide a notice at the top of this Online Privacy Statement for at least 30 days after the new effective date of such changes and highlight the changes so that you can locate them easily.
 
-You may receive mailings from our carefully-selected Marketing Partners. You can, however, have your name put on our do-not-share list by sending email, calling us, or writing to us at the above address.
+You may access the current version of this Online Privacy Statement at any time by clicking on the link marked "Privacy Statement" at the bottom of each page of this site.
 
-If you receive a mailing from us in error please contact us by phone at 1-966-246-7164 or email us at customerservice@budkww.com. 
+## What Personal Information Do We Collect on BUDK.com?
 
-Any credit card information entered on our site is strongly encrypted by industry-standard protocol, SSL (Secure Sockets Layer). Bud K’s website uses SSL to communicate with secure browsers like Netscape and Internet Explorer. These browsers encrypt your credit card and personal information in a way that makes it extremely difficult for anyone to intercept and misuse while being transmitted between your computer and our server. 
+**Information You Give Us**  
+We collect the personal information you knowingly and voluntarily provide when you use BUDK.com, for example, the information you provide when you register, sign-in, search, purchase products, submit product reviews, sign up for our e-mail newsletters, or communicate with customer service. Depending on how you use this site, you may supply us with information such as your name, address, phone number, email address, or credit card information, or information about people to whom purchases will be shipped (for example, a gift recipient).
 
-Once you have completed your order online, our security procedures do not end. We take appropriate precautions to protect the security and privacy of the information stored on our computer networks. Many of the systems which store your personal information are not connected to the Internet, reducing the likelihood of security breaches. Our systems are also house in secure facilities, and access to your data by our employees is controlled by password protected systems and strictly monitored to prevent abuse. 
+**Information Sent to Us by Your Web Browser**  
+We collect information that is sent to us by your Web browser, such as your IP address, the address of the Web page you were visiting when you accessed Shop BUDK.com, the date and time of your visit, and information about your computer’s operating system. Please check your browser if you want to learn what information your browser sends or how to change your settings. The information provided by your browser does not identify you personally. We use this non-personal information primarily to create statistics that help us improve this site and make it more compatible with the technology used by our visitors. However, if you have created a user identity on one of your visits to this site or if you access this site by clicking on a link in an email we have sent you, we may combine the information provided by your browser to information that identifies you personally.
 
-If you are still unsure about giving your credit card information on the Internet, please feel free to phone, fax, or mail your order to us. For telephone ordering or assistance can 1-966-246-7164. Our fax number for order is 800-246-7326. Or, send your order to: 
+**Information We Collect Using Cookies and Other Web Technologies**  
+We use "cookies" and other Web technologies to collect information and support certain features of this site. For example, we use these technologies to collect information about the ways visitors use our site – which pages they visit, which links they use, and how long they stay on each page. Cookies and other Web technologies are also used to support the features and functionality of our site — for example, to track the contents of your shopping cart as you move from page to page. These technologies also permit us to keep a record of your previous choices and preferences so that we can personalize your shopping experience and save you the trouble of reentering information already in our database. Generally, the information we collect using these Web technologies does not identify you personally, however, it may be linked to information that does identify you personally, such as the information you provide when you make a purchase or register to use a special feature of our site. If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. You may also delete our cookies as soon as you leave BUDK.com. Although you are not required to accept our cookies when you visit BUDK.com, if you set your browser to reject cookies, you will not be able to use all of the features and functionality of this site.
 
-The Bud K Catalog   
-PO Box 2768  
-Moultrie, GA 31776
+**Information We Collect From Other Sources**  
+We may supplement the information collected through this site with information we collect in other ways. For example, if you call our toll-free number, we may collect your telephone number and add it to our database. We may also supplement the information collected through this site with information from third parties, including data brokers. By supplementing your profile with information from other sources, we are better able to provide product recommendations and special offers that will be of genuine interest to you. We may also use this additional information to further personalize our site and improve your shopping experience.
 
-If you have any further questions regarding your online security please contact 1-800-956-1667 or email Customer Service at customerservice@budkww.com. 
+## Use of Cookies and Similar Technologies by Our Advertising Agents
 
-Rented Mailing Lists: Occasionally we rent lists from professional journals or other sources and your name might appear slightly differently on that list so that we do not recognize the name as one which should not receive mail. Please excuse us if we mail to you in error. 
+BUDK uses third-party advertising companies to place online advertisements on our behalf at websites other than BUDK.com. These advertising companies may use cookies and Web beacons (also known as “pixel tags”) to target and measure the effectiveness of their advertisements. For example, our advertising companies may place Web beacons on their clients’ Web sites. When you visit these Web sites, the Web beacon “tags” your computer with a “cookie” that collects and stores information about your visit to their client’s Web site. This information does not identify you personally. Our advertising companies use the information they collect about your use of their clients’ Web sites to customize the advertisements you see when you visit their clients’ Web sites. Our advertising companies’ use of cookies and Web beacons is covered by their privacy policies, not by this Online Privacy Statement.
 
-Telephone Contact Policy: Consumers who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding orders they have placed on-line. BudKww.com uses customer telephone numbers only in the event that the need arises to communicate directly with a customer to process an order. Phone numbers are never shared with third parties. 
+## How Do We Use Your Personal Information?
 
-If you do not wish to receive such telephone calls, please let us know by sending email, calling us, or writing to us at the above addresses. 
+We may use the personal information we collect through BUDK.com:
 
-To Each Customer:   
-Due to the nature of the products we sell, you MUST be 21 years of age to order from The Bud K Catalog. When you purchase any merchandise from The Bud K Catalog you represent that you are of legal age and that the merchandise can be purcahsed and owned in your state, county, and/or city of residence. By offering merchandise for sale, Bud K does not represent or warrant that any specific purchaser may legally purchase, own, or possess the merchandise ordered. CHECK YOUR LOCAL LAWS! 
+  * to fulfill your order for BUDK products or services;
+  * to provide you with the information, products and services you request or purchase;
+  * for security, credit or fraud prevention purposes;
+  * to provide you with effective customer service;
+  * to provide you with a personalized shopping experience;
+  * to display personalized advertising when you visit this site;
+  * to contact you with special offers and other information we believe will be of interest to you;
+  * to contact you with information and notices related to your use of this site or your purchases;
+  * to invite you to participate in surveys and provide feedback to us;
+  * to better understand the your needs and interests;
+  * to improve the content, functionality and usability of this site;
+  * to improve our products and services;
+  * to improve our marketing and promotional efforts; and
+  * for any other purpose we identify in a specific privacy notice.
 
-We are sensitive to the private nature of information you provide to us over the Internet. Our Privacy Policy maximizes your ability to protect personal or private information while at the same time giving you the opportunity to obtain interesting and useful information about our products. This Privacy Policy describes how we treat information received about you when you place an order, register with the web site, request a catalog, or register to receive email promotions. Please read it carefully. Also, please be aware that our Company may change this Policy from time to time. If we do, we will post any changes, so be sure to check back here periodically.
+
+
+## With Whom Do We Share the Personal Information We Collect Through BUDK.com?
+
+We may share the personal information we collect through this site as described below and in any applicable privacy notices.
+
+**Our Corporate Affiliates**  
+We may share your personal information with our subsidiaries and parent and sister corporations (our “corporate affiliates”), who may use this information to contact you with information and offers they believe will be of interest to you. The corporate affiliates’ use of your personal information shall be subject to this Online Privacy Statement.
+
+**Other Business Partners and Selected Vendors**  
+We work closely with certain business partners and carefully selected vendors to provide you with access to their product offerings. We may share personally identifiable information about you with these business partners or selected vendors, and they may use this information to offer you products and/or services that they believe will be of interest to you.
+
+**Government and Legal Disclosures**  
+We may disclose the personal information we collect through BUDK.com when we, in good faith, believe disclosure is appropriate to comply with the law (or a court order or subpoena); to prevent or investigate a possible crime, such as fraud or identity theft; to enforce the Terms of Use or other agreements that govern your use of this site; to protect the rights, property or safety of BUDK, our users or others; or to protect your vital interests.
+
+## What Choices Do You Have?
+
+BUDK respects your right to make choices about the ways we collect, use and disclose your personal information. We generally ask you to indicate your choices at the time that you register as a user of BUDK.com or the time and on the page where you provide your personal information. You may browse BUDK.com without providing any information that identifies you personally and may choose not to provide the information we request, although this may mean that you can not make a purchase or take advantage of otherBUDK.com features. We may periodically send you information and product promotions via e-mail. You may “opt-out” of receiving our promotional e-mails at any time by following the instructions contained at the end of the particular newsletter or e-mail. You may also manage your subscription and email preferences by clicking on “My Account” on BUDK.com or by sending us an email at [webcs@budk.com](mailto:webcs@budk.com).
+
+## How Can You Update or Correct Your Personal Information?
+
+You may update your “account settings” information, including your name, contact information, credit card information, shipping and billing addresses, and subscription and email preferences at any time by clicking on “My Account” at BUDK.com. Instructions for updating your information are provided under "My Account Settings." You can change your account settings at any time and as often as necessary. When you update your account settings, we usually keep a copy of the prior version for our records.
+
+## Security
+
+BUDK has industry standard measures in place to protect the security of the personal information we collect through BUDK.com. For example, we use Secure Socket Layers (“SSL”) to encrypt your credit card information as it travels over the Internet. It is important that you understand, however, that no Web site or database is completely secure or “hacker proof.” You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse, for example, by protecting your passwords.
+
+## Children and Minors
+
+BUDK.com is not directed at nor targeted to children We do not use this site to knowingly solicit personal information from or market to children. If you are under 18 years of age, you should not submit any personal information to us.
