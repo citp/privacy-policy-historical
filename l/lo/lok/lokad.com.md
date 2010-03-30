@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lokad.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219110938id_/http%3A//www.lokad.com/Privacy.ashx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lokad.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330100043id_/http%3A//www.lokad.com/Privacy.ashx) for the most accurate reproduction.*
 
 # Privacy Policy - Lokad
 
@@ -14,7 +14,7 @@ Lokad will not sell, rent or share any user data in a personally identifiable fo
 
 ### Qualified partners
 
-At registration, we ask if the contact information can be transferred to a _single_ qualified partner. This purpose of this transfer is to facilitate the start with Lokad, in particular for data integration which is usually the most difficult step. The option can be _unchecked_. The partner is bound by a Non Disclosure Agreement. The information can only be used by the partner for the purpose outlined here above. The partner agrees not to sell, rent or share any user data in a personally identifiable form with any third party without your express permission.
+At registration, we ask if the contact information can be transferred to a _single_ qualified partner. The purpose of this transfer is to facilitate getting started with Lokad, in particular for data integration which is usually the most difficult step. The option can be _unchecked_. The partner is bound by a Non Disclosure Agreement. The information can only be used by the partner for the purpose outlined here above. The partner agrees not to sell, rent or share any user data in a personally identifiable form with any third party without your express permission.
 
 ## Accessing and revising your contact information
 
@@ -26,4 +26,14 @@ Each Lokad customer can store time-series data in their Lokad account. We consid
 
 However, you should be aware that your data may be anonymously used to improve the forecasts of other Lokad customers. **This process is entirely secure** , as this forecast refinement is a very indirect process that cannot be reverse engineered. No other Lokad customer can access your data, not even an obfuscated version of your data.
 
-If you believe that your data are too sensitive to be entrusted to Lokad's care, then we suggest that you [obfuscate](https://web.archive.org/web/20091219110938id_/http%3A//www.lokad.com/Obfuscation.ashx "Obfuscation - Protecting your data") your data before sending it to us. 
+If you believe that your data are too sensitive to be entrusted to Lokad's care, then we suggest that you [obfuscate](https://web.archive.org/web/20100330100043id_/http%3A//www.lokad.com/Obfuscation.ashx "Obfuscation - Protecting your data") your data before sending it to us. 
+
+### Overview
+
+### What people say
+
+In the past we had to take the time to calculate by hand or using excel, which is very inaccurate. We now can do it very quickly with Lokad. **Patrick Lamastus, owner of Geisha Coffee Roaster**
+
+Lokad can help us by seeing our seasonal changes and helping to predict required stock levels. We have run dry of certain products at a crucial time and then found our suppliers have done the same - we lost sales. **Chris Cooper, Director of Busy Outdoors Ltd**
+
+More [success stories](https://web.archive.org/web/20100330100043id_/http%3A//www.lokad.com/customer-references.ashx "Who is using Lokad - Customer References").
