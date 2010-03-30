@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the santiventures.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129010015id_/http%3A//santiventures.com/%3Fa%3Dcust%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santiventures.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330062507id_/http%3A//santiventures.com/%3Fa%3Dcust%26page%3Dprivacy) for the most accurate reproduction.*
 
 # Santiventures.com. Profitable ventures that do work 24/7
 
@@ -28,16 +28,23 @@ By making your deposit with Santiventures, you declare that you have read, under
 |    
 |   
 ---  
-[](https://web.archive.org/web/20091129010015id_/http%3A//santiventures.com/%3Fa%3Dcust%26page%3Dprivacy?a=signup)  
+[](https://web.archive.org/web/20100330062507id_/http%3A//santiventures.com/%3Fa%3Dcust%26page%3Dprivacy?a=signup)  
 
 
   
 
 
-###  Members quotes 
+###  _Secure SSL version_
+
+[ ](https://www.santiventures.com/)   
+
+
+### _Members quotes_
 
 _"I was searching for a profitable way to invest money and I found it with Santi Ventures. They fulfilled my expectations and helped to earn extra money I just needed badly to pay off my mortgage. Thanks " , Chris J._
 
+  
+[](http://www.makemoneystuff.com/reviews/santiventures-review/)  
   
 
 
