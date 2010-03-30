@@ -1,15 +1,48 @@
-> *The following text is extracted and transformed from the superaffiliateclub.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208023312id_/http%3A//www.superaffiliateclub.com/templates/elements/almondnet.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superaffiliateclub.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330160357id_/http%3A//www.superaffiliateclub.com/public/department64.cfm) for the most accurate reproduction.*
 
-# Our Use of Your Information
+# Our Privacy Policy
 
-In general, you can browse a large portion of this site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. You will be notified when your personal information is collected by any third party that is not our agent/service provider so that you can make an informed choice as to whether or not to share your information with that party.
+[home](http://www.superaffiliateclub.com/public/main.cfm "home") | Our Privacy Policy  |   
+---|---  
+  
+**Overview**
 
-We may automatically collect certain information based upon your behavior on the site. We use this information to do internal research on our users' demographics, interests, and behavior in order to serve our users better. This information may include the URL that you come from or go to (whether this URL is on the site or not), your computer browser information, and your IP address.
+We are strongly committed to safeguarding consumer privacy on our Web site. We operate under the following set of strict privacy principles: 
 
-We allow advertisers and other business partners to place "cookies" onto your computer when you visit this website. These "cookies" are placed to keep track of the web searches you make while visiting this website, as well as your web surfing behavior on this website and other websites you may visit. That information is used to show you advertisements tailored to your interests on this and other websites, and/or to keep track of your response to each ad. If you would like more information about this practice and would like to know your choices about not having this information used to target ads to you, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+The only information we obtain about our members, is information we need to process credit card charges of membership fees. 
 
-Please be advised that we have no access to or control over our business partner's "cookies". This privacy statement covers the use of "cookies" by this site only and does not cover the use of "cookies" by any advertisers.
+That information is never revealed, resold, or made public for any reason. Personally identifiable information provided by members (name, e-mail or home address, etc.) is never disclosed to anyone. 
 
-If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities on the site, we may collect such information into a file specific to you.
+**Cookies**
 
-You agree that we may use your information to contact you and deliver information to you that, in some cases, is targeted to your perceived interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the site. Through your access and use of this site, you hereby expressly agree to receive this information.
+Each time a member logs into our site, we store a temporary "cookie" in the browser files of the member computer. This cookie is used during your online session to allow you free access to the member's area, without repeatedly requiring you to re-enter your user name and password. 
+
+When ever you log off or leave the site, the cookies file is automatically removed. 
+
+**External Links**
+
+In order to provide visitors with greater value, some of our pages may provide links to various third party Web sites. In no case, is member information or 'cookies' provided to the third party sites. 
+
+However, keep in mind that many sites do attempt to capture visitor information when you browse those sites. Once you leave our site, we are not able to alert you should another site attempt to gather information from your browser. 
+
+**Private Forums**
+
+ We provide our members with with a multi-tiered message board that makes sharing information with other members easy. 
+
+To protect your privacy when posting or replying to messages in the message board, your personal information and email is not revealed. However, remember that any information that you disclose in the message board areas can be read by all other members, so exercise caution when deciding to disclose your personal information. 
+
+**Security**
+
+ Our Web site has security measures in place to protect the loss, misuse and alteration of the information under our control. We employ strict security measures to safeguard online transactions; personal information is stored in a secured database and always sent via an encrypted Internet channel. 
+
+**Choice/Opt-In**
+
+Our site gives users the opportunity to opt-in to receive communications from us. You can be assured that we never reveal, sell, or make available your email address to anyone for any purpose. 
+
+This site also gives users the following options for removing their information from our database in order to stop receiving communications or our service. 
+
+**Other**
+
+If you have questions regarding our privacy policy, feel free to let us know, using our [Contact Page](https://web.archive.org/web/20100330160357id_/http%3A//www.superaffiliateclub.com/public/7.cfm)
+
+Thanks 
