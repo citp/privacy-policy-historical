@@ -1,0 +1,117 @@
+> *The following text is extracted and transformed from the usingmiles.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330064105id_/http%3A//www.usingmiles.com/pages/privacy_security) for the most accurate reproduction.*
+
+# Privacy Security
+
+## Privacy & Security
+
+UsingMiles is committed to the protection of your privacy. This UsingMiles Privacy Statement applies to data collected by UsingMiles through its Website and Services, as well as its offline product support services.
+
+Inorder to fully understand your rights related to privacy issues, we encourage you to read this Privacy Statement and to consult our Service Agreement. As our services evolve, we may from time to time amend this Privacy Statement. Please revisit it periodically and, if you have questions regarding either this Privacy Statement or our Service Agreement, contact us at [privacy@usingmiles.com](mailto:privacy@usingmiles.com).
+
+### Section 1: Collecting Personal Information
+
+  1. At UsingMiles.com, we ask you to provide personal information, such as your e-mail address, name, home or work address, or telephone number. We may also collect demographic information, such as your ZIP code, age, gender, preferences, interests and favorites. If you choose to make a purchase or sign up for a paid subscription service, we will ask for additional information, such as your credit card number and billing address, which is used to create a UsingMiles billing account.
+
+  2. In order to access some UsingMiles Services, you will be asked to sign in with an e-mail address and password. In order to access the Services, you will be asked to sign in with an e-mail address and password, which we refer to as your credentials. If you access our Services via a mobile phone, you may also use your telephone number and a PIN as an alternative credential to your username and password. As part of creating your credentials, you may also be requested to provide questions and secret answers, which we use to help verify your identity and assist in resetting your password, as well as an alternate e-mail address.
+
+  3. We may collect information about your interaction with UsingMiles' Website and Services. For example, we may use website analytics tools on our Website to retrieve information from your browser, including the site you came from, the search engine(s) and the keywords you used to find our site, the pages you view within our site, your browser add-ons, and your browser's width and height. We may also use technologies, such as cookies and web beacons (described below), to collect information about the pages you view, the links you click and other actions you take on our sites and Services. Additionally, we collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses. We also deliver advertisements (see the Display of Advertising section below) and provide Web site analytics tools on non-UsingMiles sites and Services, and we may collect information about page views on these third party sites as well. (An IP address is a number assigned to your computer when you connect to the Internet. As part of the protocol of the Internet, Web servers can identify your computer by its IP address. In addition, Web servers may be able to identify the type of browser you are using or even the type of computer. We collect IP addresses and related information for the purposes of system administration, to assess the traffic to our Website and to maintain and improve our Website.
+
+  4. If you receive newsletters or promotional e-mail from UsingMiles, we may use web beacons (described below), customized links or similar technologies to determine whether the e-mail has been opened and which links you click in order to provide you more focused e-mail communications or other information.
+
+  5. In order to offer you a more consistent and personalized experience in your interactions with UsingMiles, information collected through one UsingMiles Service may be combined with information obtained through other UsingMiles Services. We may also supplement the information we collect with information obtained from other companies. For example, we may use services from other companies that enable us to derive a general geographic area based on your IP address in order to customize certain Services to your geographic area.
+
+
+
+
+### Section 2: Use of Your Personal Information
+
+UsingMiles collects and uses your personal information to operate and improve its sites and Services. These uses may include providing you with more effective customer service; making the sites or Services easier to use by eliminating the need for you to repeatedly enter the same information; performing research and analysis aimed at improving our products, services and technologies; and displaying content and advertising that are customized to your interests and preferences. For more information about the use of information for advertising, see the "Display of Advertising" section below.
+
+We also use your personal information to communicate with you. We may send certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and security announcements. Some UsingMiles Services may send periodic member letters that are considered part of the Service. Additionally, with your permission, we may send you information about other UsingMiles products and Services, and/or share your personal information with UsingMiles partners so they may send you information about their products and services.
+
+Personal information collected on UsingMiles sites and Services may be stored and processed in the United States or any other country in which UsingMiles or its affiliates, subsidiaries, or service providers maintain facilities.
+
+### Section 3: Use of Cookies
+
+We use "cookies" to track and store your preferences in order to personalize our site for you, estimate our audience size, and generally improve your UsingMiles experience. A cookie is a data file that is sent to your browser and is stored on your computer's hard drive when you visit a website. A cookie assigns a random, unique number to your computer. Cookies allow us to recognize members and guides when they come to our Web-site after they initially register. Cookies also make your experience easier by saving your preferences and passwords. For example, if you choose "Remember Me" during sign in, we will store a scrambled version of your member ID in a permanent cookie file on your hard drive so that we can track your personalized services and preferences from one visit to the next. UsingMiles does not use cookies to retrieve any information from your hard drive. You can reject cookies by turning them off in your browser. However, if you choose to disable this function, your UsingMiles experience may be diminished and some features may not work as they were intended.
+
+One of the primary purposes of cookies is to store your preferences and other information on your computer in order to save you time by eliminating the need to repeatedly enter the same information and to display your personalized content and appropriate advertising on your later visits to these sites.
+
+When you sign in to our Website using your UsingMiles credentials, we store your unique ID number, and the time you signed in, in an encrypted cookie on your hard disk. This cookie allows you to move from page to page at the site without having to sign in again on each page.
+
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of UsingMiles.com and Services that depend on cookies, and some advertising preferences that are dependent on cookies may not be able to be respected.
+
+If you choose to accept cookies, you also have the ability to later delete cookies that you have accepted. If you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, will be deleted and may need to be recreated.
+
+### Section 4: Third Party Links and Ad Servers
+
+We provide links to services provided by third party websites, which may, or may not, use cookies, pixel tags and web tags. We also allow other companies, called third-party ad servers, to display advertisements on UsingMiles. Ad servers may compile information about you, including but not limited to where you saw their advertisements and which ads you clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to members and visitors. It is important to emphasize that we are not responsible for, or have any control over, the privacy policies of those third party websites and ad servers. If you click through an advertisement or link to a third party's website, you will be subject to that advertiser's or third party's privacy policy, which you should review. The UsingMiles Privacy Policy only governs information collected on the website and/or through the Service. UsingMiles does not assume responsibility or liability for any third party's policies or actions.
+
+### Section 5: Sharing Your Personal Information
+
+  1. Except as described in this statement, we do not rent, sell, or share personal information about you with other people or nonaffiliated companies, except when we have your consent to do so, is as necessary to complete a transaction you have requested, when required by law, or when permitted to protect our rights or property. We will use, or supply to others, aggregated data (independent of any personal identifiers) for research and commercial purposes, such as describing our Services, members and guides to prospective partners, advertisers and other third parties. These data are pooled and stripped of personal identifying information and cannot be traced to you specifically. Specific uses of personal information that vary from this Privacy Statement may be found in the privacy statement applicable to a specific Service provided by our website. For instance, if you opt into our survey service, you give us permission to share personal and aggregate information with our partners. This information will be used to improve their services and products to you and you will be rewarded for your time. Please look for privacy statements and terms of use that apply to the Services in which you participate.
+
+  2. We allow you to choose to share your personal information with select UsingMiles partners so that they can contact you about their products, services or offers. We do not share your contact information with third parties for marketing purposes, but instead may give you a choice as to whether you wish to receive communications from UsingMiles on behalf of external business partners about a partner's particular offering (without transferring your personal information to the third party). See the Communication Preferences section below for more information.
+
+  3. Some UsingMiles Services may be co-branded and offered in conjunction with another company. If you register for or use such Services, both UsingMiles and the other company may receive information collected in conjunction with the co-branded services.
+
+  4. We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, hosting websites, processing transactions, or performing statistical analysis of our services. Those service providers will be permitted to obtain only the personal information they need to deliver the Service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose. However, for credit card processing, our fraud detection vendors may use aggregate data to help improve their service. This helps them more accurately detect fraudulent uses of credit cards. We may access or disclose information about you, including the content of your communications, in order to: (a) comply with the law or respond to lawful requests or legal process; (b) protect the rights or property of UsingMiles or our customers, including the enforcement of our agreements or policies governing your use of the Services; or (c) act on a good faith belief that such access or disclosure is necessary to protect the personal safety of UsingMiles employees, customers or the public. We may also disclose personal information as part of a corporate transaction such as a merger or sale of assets.
+
+  5. We will transfer information about you if UsingMiles is acquired by or merged with another company. In such event, UsingMiles will notify you before your information is transferred and becomes subject to a different Privacy Policy.
+
+
+
+
+### Section 6: Accessing Your Personal Information
+
+You may have the ability to view or edit your personal information online. In order to help prevent your personal information from being viewed by others, you will be required to sign in with your credentials (e-mail address and password).
+
+UsingMiles.com - You can access and update your profile on UsingMiles.com by clicking on "Edit Profile" by your photo on the account page. 
+
+### Section 7: Communication Preferences
+
+You can stop the delivery of future promotional e-mail from UsingMiles by following the specific instructions in the e-mail you receive. These choices do not apply to the display of online advertising. Nor do they apply to the receipt of mandatory service communications that are considered part of certain UsingMiles Services, which you may receive periodically unless you cancel the Service.
+
+### Section 8: Display of Advertising
+
+We may display ads on our Website and the sites of our advertising partners. When we display online advertisements to you, we will place a one or more persistent cookies on your computer in order to recognize your computer each time we display an ad to you. We are able to compile information over time about where you, or others who are using your computer, saw and/or clicked on the advertisements we display. We use this information to make predictions about your characteristics, interests or preferences and to display targeted advertisements that we believe may be of interest to you. We may also associate this information with your subsequent visit, purchase or other activity on participating advertisers' Web sites in order to determine the effectiveness of the advertisements.
+
+While we may use some of the information we collect in order to personalize the ads we show you, we designed our systems to select ads based only on data that does not personally and directly identify you. For example, we may select the ads we display according to certain general interest categories or segments that we have inferred based on (a) demographic or interest data, including any you may have provided when creating an account (e.g. age, zip or postal code, gender), demographic or interest data acquired from other companies, and a general geographic location derived from your IP address, (b) the pages you view and links you click when using UsingMiles's and its advertising partners' Web sites and Services, and (c) information about the users you most frequently interact with through UsingMiles's communications or social networking services.
+
+When we display personalized targeted ads, we take a number of steps designed to protect your privacy. For example, we store page views, clicks and search terms used for ad personalization targeting separately from your contact information or other data that directly identifies you (such as your name, e-mail address, etc.). Further, we have built in technological and process safeguards designed to prevent the unauthorized correlation of this data.
+
+We may also allow third-party ad serving companies, including other ad networks, to display advertisements on our Website. These companies may offer you a way to opt-out of ad targeting based on their cookies. 
+
+### Section 9: Security of Your Personal Information
+
+UsingMiles is committed to protecting the security of your personal information and information collected for advertising purposes. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities. When we transmit highly confidential information (such as a credit card number or password) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+
+If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer with anyone you should always log out before leaving a site or service to protect access to your information from subsequent users.
+
+### Section 10: Use of Web Beacons
+
+UsingMiles Web pages may contain electronic images known as Web beacons - sometimes called single-pixel gifs - that may be used to assist in delivering cookies on our sites and allow us to count users who have visited those pages and to deliver co-branded services. We may include Web beacons in promotional e-mail messages or our newsletters in order to determine whether messages have been opened and acted upon.
+
+UsingMiles may also employ Web beacons from third parties in order to help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other operations of our sites. We prohibit Web beacons on our sites from being used by third parties to collect or access your personal information.
+
+Finally, we may work with other companies that advertise on UsingMiles.com to place Web beacons on their sites in order to allow us to develop statistics on how often clicking on an advertisement on our Website results in a purchase or other action on the advertiser's site.
+
+### Section 11: VeriSign Certification
+
+UsingMiles is authenticated with the VeriSign Seal, which is the web's most trusted security provider. VeriSign Extended Validation (EV) SSL Certificates meet the highest standard in the Internet security industry for Web site authentication as required by CA/Browser Forum. EV SSL Certificates give high-security Web browsers information to clearly display a Web site's organizational identity. The high-security Web browser's address bar turns green and reveals the name of the organization that owns the SSL Certificate and the SSL Certificate Authority that issued it.
+
+### Section 12: Enforcement of This Privacy Statement
+
+If you have questions regarding this statement, you should first contact us at the address below. 
+
+### Section 13: Changes to This Privacy Statement
+
+We will occasionally update this privacy statement to reflect changes in our Services and customer feedback. When we post changes to this Statement, we will revise the "last updated" date at the top of this statement. If there are material changes to this statement or in how UsingMiles will use your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification. We encourage you to periodically review this statement to be informed of how UsingMiles is protecting your information.
+
+### Section 14: Contacting Us
+
+UsingMiles welcomes your comments regarding this privacy statement. If you have any questions or concerns regarding this Privacy Statement, or if you would like to request us to delete, correct or show you your personal information as provided above, please contact us at [privacy@usingmiles.com](mailto:privacy@usingmiles.com).
+
+UsingMiles, Inc., 1221 Pennsylvania Ave. Suite 200. Boulder, CO 80302 
+
+© 2010 UsingMiles, Inc. All rights reserved. 
