@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the carbonite.com privacy policy that was archived on 2009-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090716014444id_/http%3A//www.carbonite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonite.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330042238id_/http%3A//www.carbonite.com/privacy) for the most accurate reproduction.*
 
 # Full Data Backup Services: Desktop, Email Backup
 
-##  Updated and Effective as of March 16, 2009
+##  Updated and Effective as of November 16, 2009
 
 This Privacy Policy applies to Carbonite, Inc.'s collection and use of personally identifying information ("Personal Information") that we may gather when you visit our Website, purchase, license, or Use Carbonite Products or Services, or contact us. By Using Carbonite Products or Services, you expressly consent to the collection, processing, and use of your Personal Information according to this Privacy Policy.
 
-Our Terms and Conditions of Use discuss how we handle, encrypt, and protect the data you choose to store on our servers (and any related data) ("Backup Data"), as well as other matters. All provisions of the [Terms and Conditions of Use](http://www.carbonite.com/terms/) are incorporated into this document by reference.
+Our Terms and Conditions of Use discuss how we handle, encrypt, and protect the data you choose to store on our servers (and any related data) ("Backup Data"), as well as other matters. All provisions of the [Terms and Conditions of Use](https://web.archive.org/terms/) are incorporated into this document by reference.
 
 #####  Definitions
 
-All of the terms used in this Privacy Policy have the same meanings as are defined in our [Terms and Conditions of Use](http://www.carbonite.com/terms/)
+All of the terms used in this Privacy Policy have the same meanings as are defined in our [Terms and Conditions of Use](https://web.archive.org/terms/)
 
 ##### Why Carbonite Collects Personal Information
 
@@ -30,7 +30,7 @@ To install Carbonite Products or Services on your computer, you must be an "Auth
 
 ##### Sharing Your Personal Information
 
-Carbonite will not provide unaffiliated third parties with access to your email address or other contact information. Carbonite or the Carbonite Affiliates may, from time to time, share with you information about other products and services that we think you may find to be of interest. If you wish to change the types of communications you receive from us, you may do so by modifying your profile at [www.carbonite.com](http://www.carbonite.com/), by emailing your request to us at [customersupport@carbonite.com](mailto:customersupport@carbonite.com?subject=Privacy%20Policy%20Inquiry "customersupport@carbonite.com"), or by clicking on an appropriate link in any Carbonite email communication to you.
+Carbonite will not provide unaffiliated third parties with access to your email address or other contact information. Carbonite or the Carbonite Affiliates may, from time to time, share with you information about other products and services that we think you may find to be of interest. If you wish to change the types of communications you receive from us, you may do so by modifying your profile at [www.carbonite.com](https://web.archive.org/), by emailing your request to us at [customersupport@carbonite.com](mailto:customersupport@carbonite.com?subject=Privacy%20Policy%20Inquiry "customersupport@carbonite.com"), or by clicking on an appropriate link in any Carbonite email communication to you.
 
 Carbonite may disclose your Personal Information to third parties if we believe that such action is necessary to (1) comply with a law, regulation, or governmental or judicial warrant, rule, or order; (2) protect and defend the rights or property of Carbonite; (3) enforce the Carbonite Terms and Conditions of Use and/or this Privacy Policy. Carbonite may also provide access to your Backup Data to government authorities if Carbonite suspects or believes that the data contain child pornography or other prohibited data, or that the data or the Carbonite Products or Services are being used for illegal purposes. Carbonite will provide access to your Backup Data to your surviving spouse and/or your executor upon presentation of a death certificate and identification which Carbonite reasonably believes to be valid and sufficient, or in response to a court order, warrant, subpoena or other judicial or administrative legal process.
 
@@ -92,7 +92,18 @@ Carbonite will process European Personal Information in accordance with the foll
 
 ##### Dispute Resolution
 
-Any questions or concerns regarding the use or disclosure of Personal Information should be directed to Carbonite at the address given below. Carbonite will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with the principles contained in this Privacy Policy. For complaints relating to transfers of data from the European Union that cannot be resolved between Carbonite and the complainant, Carbonite has agreed to adopt the procedures established by [BBB Online](http://www.bbbonline.org/privacy/dr.asp) to resolve disputes pursuant to the Safe Harbor Principles. 
+Any questions or concerns regarding the use or disclosure of Personal Information should be directed to Carbonite at the address given below. Carbonite will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with the principles contained in this Privacy Policy. In order to comply with the European Union’s Safe Harbor Principles, Carbonite commits to the resolution of complaints about your privacy and our collection or use of your personal information. We have committed to resolve any complaints by European Union citizens relating to this policy, which cannot be resolved directly with our company, through BBB EU Safe Harbor, a dispute resolution procedure administered by the Council of Better Business Bureaus, Inc. 
+
+If you have any questions regarding this policy, please contact Carbonite at the address given below.
+
+If you do not receive acknowledgment of your complaint or your complaint is not satisfactorily addressed by Carbonite, you should then contact:  
+Council of Better Business Bureaus, Inc.  
+BBB EU Safe Harbor  
+4200 Wilson Boulevard, Suite 800  
+Arlington, VA 22203  
+Phone: 703-276-0100  
+Web: www.bbb.org  
+Email: eusafeharbor@council.bbb.org 
 
 ##### Severability
 
@@ -104,5 +115,5 @@ If you have any questions or comments, please contact us at [customersupport@car
 
 Carbonite
 
-334 Boylston St \-  3rd floor  
-Boston, MA 02116
+177 Huntington Ave   
+Boston, MA 02115
