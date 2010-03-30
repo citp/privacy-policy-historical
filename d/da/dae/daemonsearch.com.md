@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daemonsearch.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925102100id_/http%3A//www.daemon-search.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daemonsearch.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330222624id_/http%3A//www.daemon-search.com/eng/privacy) for the most accurate reproduction.*
 
 # PRIVACY :: DAEMON-Search.com
 
