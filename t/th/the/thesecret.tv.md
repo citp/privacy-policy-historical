@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the thesecret.tv privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410064941id_/http%3A//www.thesecret.tv/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesecret.tv privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330151940id_/http%3A//www.thesecret.tv/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ::: The Secret ::: Official Web Site of The Secret Movie
 
 |  |   
 ---  
-[ ](https://web.archive.org/web/20090410064941id_/http%3A//www.thesecret.tv/movie/trailer.html)  
-[ ](https://web.archive.org/web/20090410064941id_/http%3A//www.thesecret.tv/movie/techcheck.html)  
-[ ](http://shop.thesecret.tv/Shops)  
-[ ](http://shop.thesecret.tv/Shops/OtherLanguages.php)  
-[ ](https://web.archive.org/web/20090410064941id_/http%3A//www.thesecret.tv/latest-news.html)  
-[ ](http://whatisthesecret.tv/link-to-us.html)  
+[ ](https://web.archive.org/web/20100330151940id_/http%3A//www.thesecret.tv/movie/trailer.html)  
+[ ](http://store.thesecret.tv/category/29179502781/1/The-Secret-Film.htm)  
+[ ](http://store.thesecret.tv/)  
+[ ](http://store.thesecret.tv/category/29179646401/1/World-Languages.htm)  
+[ ](https://web.archive.org/web/20100330151940id_/http%3A//www.thesecret.tv/latest-news.html)  
+[ ](https://web.archive.org/web/20100330151940id_/http%3A//www.thesecret.tv/link-to-us.html)  
 [ ](https://web.archive.org/living-the-secret.html#SCROLLS)  
 | 
 
