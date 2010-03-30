@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startlocal.com.au privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226235220id_/http%3A//www.startlocal.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startlocal.com.au privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330181705id_/http%3A//www.startlocal.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy: Start Local - Your Local Australian Business Directory
 
