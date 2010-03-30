@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iacquire.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218085019id_/http%3A//www.iacquire.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iacquire.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330223536id_/http%3A//www.iacquire.com/privacy-policy.php) for the most accurate reproduction.*
 
 # iAcquire
 
