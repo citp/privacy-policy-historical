@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twenga.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225161912id_/http%3A//www.twenga.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twenga.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330034055id_/http%3A//www.twenga.com/privacy.php) for the most accurate reproduction.*
 
-# Twenga privacy policy
+# Twenga.com privacy policy
 
 ## Last modified: February 20, 2009
 
