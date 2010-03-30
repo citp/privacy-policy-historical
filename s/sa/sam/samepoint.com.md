@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samepoint.com privacy policy that was archived on 2009-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091030183133id_/http%3A//www.samepoint.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samepoint.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330181908id_/http%3A//www.samepoint.biz/privacy-policy.html) for the most accurate reproduction.*
 
 # Samepoint Social Conversation Search Privacy Policy
 
