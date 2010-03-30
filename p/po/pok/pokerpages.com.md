@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerpages.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212033317id_/http%3A//www.pokerpages.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerpages.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330135534id_/http%3A//www.pokerpages.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Poker Pages - Poker Articles, Tournaments, & Directory
 
@@ -62,23 +62,22 @@ PokerPages is committed to respecting your choices regarding privacy.
 
 **Questions or Suggestions**
 
-  * We welcome your feedback. If you have questions or suggestions, please email [support@pokerpages.com](mailto:support@pokerpages.com). 
+  * We welcome your feedback. If you have questions or suggestions, please email [support@PokerPages.com](mailto:support@PokerPages.com). 
 
 
 
 |  | 
 
-[](https://web.archive.org/download/)
-
-  
-
+[](http://www.pokerpages.com/ballyhoo/adclick.php?bannerid=5904&zoneid=0&source=&dest=http%3A%2F%2Fwww.pokerstars.com%2Fsites%2Fpp%2F%3Fsource%3D10304723)
 
 Blog Coverage
 
-[ ](https://web.archive.org/blog-players/daniel-negreanu.htm)
+[ ](https://web.archive.org/blog-players/daniel-negreanu.htm)   
+Sun, Mar 28, 2010 - 12:00am EDT  
 
-Tue, Dec 08, 2009 - 04:34pm CST
 
 Top News
 
-Top Tournaments
+Top Tournaments  
+  
+---|---|---|---|---
