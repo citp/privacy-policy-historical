@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hotlib.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226042139id_/http%3A//www.hotlib.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotlib.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330170243id_/http%3A//www.hotlib.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy statement at hotlib.com Download freeware shareware software center
 
-[](http://www.amarasoftware.com/flash-slide-show.htm)
+[](http://www.liutilities.com/affcb/?id=RBgen&aff=9327&xat=gen)
 
 **Information collection and use**
 
@@ -24,7 +24,7 @@ We use third-party advertising companies to serve ads when you visit our website
 
 hotlib.com web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
 
-If you have any questions or concerns, please contact us via [contact form](https://web.archive.org/web/20091226042139id_/http%3A//www.hotlib.com/contact.php).
+If you have any questions or concerns, please contact us via [contact form](https://web.archive.org/web/20100330170243id_/http%3A//www.hotlib.com/contact.php).
 
   
   
