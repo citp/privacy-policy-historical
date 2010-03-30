@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the manta.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617205338id_/http%3A//www.manta.com/coms2/page_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manta.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330022903id_/http%3A//www.manta.com/coms2/page_privacy) for the most accurate reproduction.*
 
-# Manta: Privacy Policy
+# Manta: About Us
 
 Manta.com Privacy Policy
 
-Manta.com is a service provided by ECNext, Inc. (“we or us”). We respect your privacy and we are committed to protecting the information that you provide us when you use Manta.com and when you make purchases from us. 
+Manta.com is a service provided by Manta Media Inc. (Â“we or usÂ”). We respect your privacy and we are committed to protecting the information that you provide us when you use Manta.com and when you make purchases from us. 
 
 Your Manta.com Information
 
@@ -14,7 +14,7 @@ How Manta.com Information is Used
 
 Your Manta.com information is used to operate and improve the features, offerings and content presented to you by us; to personalize the content and advertisements provided to you; to fulfill your requests for products, programs, and services; to communicate with you and respond to your inquiries; to conduct research about your use of our products; and to help offer you other products, programs, or services that may be of interest. 
 
-Your Manta.com information may be shared within ECNext, Inc. and its business divisions. Your Manta.com information will not be shared with third parties unless it is necessary to fulfill a transaction you have requested, or in other circumstances in which you have consented to the sharing of your Manta.com information. We may use your Manta.com information to present offers to you on behalf of business partners and advertisers. 
+Your Manta.com information may be shared within Manta Media Inc. and its business divisions. Your Manta.com information will not be shared with third parties unless it is necessary to fulfill a transaction you have requested, or in other circumstances in which you have consented to the sharing of your Manta.com information. We may use your Manta.com information to present offers to you on behalf of business partners and advertisers. 
 
 In the event that our ownership was to change as a result of a merger or acquisition by another company, your Manta.com information may be transferred. We will provide you notice prior to any such transfer of your Manta.com information.
 
@@ -43,10 +43,10 @@ Questions
 If you have further questions or concerns that have not been addressed in this statement, please send your inquires to:
 
 Manta.com Privacy Policy  
-c/o ECNext, Inc.  
-9200 Worthington Road  
-Suite 301  
-Westerville, Ohio 43082 
+c/o Manta Media Inc.  
+8760 Orion Place   
+Suite 200   
+Columbus, Ohio 43240 
 
 Please be sure to include your name, address and daytime phone number so we can contact you.
 
