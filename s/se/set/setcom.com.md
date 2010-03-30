@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the setcom.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123171357id_/http%3A//www.setcom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setcom.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330132411id_/http%3A//www.setcom.com/privacy.html) for the most accurate reproduction.*
 
-# Setcom - Privacy Policy
+# Privacy Policy - Setcom.com
 
 This Policy was last modified on February 01, 2005.
 
