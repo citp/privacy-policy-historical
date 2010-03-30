@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostway.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225055045id_/http%3A//www.hostway.com/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostway.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330025421id_/http%3A//www.hostway.com/legal/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement | Hostway Web Solutions
 
@@ -6,7 +6,7 @@
 
 ## Last updated December 21, 2007
 
-Hostway Corporation (“Hostway”) respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy covers the site [www.hostway.com](https://web.archive.org/index.html). We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us or as specifically outlined in this Policy. This Policy is incorporated into and subject to the Terms of Use (“TOU”) Agreement found at [www.hostway.com/legal/terms_of_use.html](https://web.archive.org/legal/terms_of_use.html).
+Hostway Corporation (“Hostway”) respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy covers the site [www.hostway.com](https://web.archive.org/). We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us or as specifically outlined in this Policy. This Policy is incorporated into and subject to the Terms of Use (“TOU”) Agreement found at [www.hostway.com/legal/terms_of_use.html](https://web.archive.org/legal/terms_of_use.html).
 
 Hostway is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
