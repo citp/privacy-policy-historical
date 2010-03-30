@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desertusa.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226030855id_/http%3A//www.desertusa.com/who/du_who.html%23anchor1141274) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desertusa.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330161908id_/http%3A//www.desertusa.com/who/du_who.html%23anchor1141274) for the most accurate reproduction.*
 
 # DesertUSA General Information
 
@@ -24,11 +24,11 @@ DesertUSA offers advertising opportunities to businesses that would like to prom
 
   * A link from DesertUSA to your existing Web site 
   * Your own DesertUSA Web Page
-  * A [Banner Ad ](https://web.archive.org/web/20091226030855id_/http%3A//www.desertusa.com/ads/du_adrates.html)strategically placed within the DesertUSA Web site
+  * A [Banner Ad ](https://web.archive.org/web/20100330161908id_/http%3A//www.desertusa.com/ads/du_adrates.html)strategically placed within the DesertUSA Web site
 
 
 
-[**Advertising rates and general site information**](https://web.archive.org/web/20091226030855id_/http%3A//www.desertusa.com/ads/du_adrates.html)
+[**Advertising rates and general site information**](https://web.archive.org/web/20100330161908id_/http%3A//www.desertusa.com/ads/du_adrates.html)
 
 ### 
 
@@ -57,11 +57,11 @@ If you would like information about licensing materials from DesertUSA, please c
   
 Submitting Content To DesertUSA.com
 
-If you would like to [submit an article, story or personal adventure ](https://web.archive.org/web/20091226030855id_/http%3A//www.desertusa.com/who/du_submissions.html)to DesertUSA for possible publication, you can do so by following the guidelines listed on the [Content Submission page.](https://web.archive.org/web/20091226030855id_/http%3A//www.desertusa.com/who/du_submissions.html) DesertUSA reserves the right to refuse any content submitted. Manuscripts and content are not acknowledged or returned unless accompanied by self-addressed return envelope with proper postage attached. No responsibility is assumed for unsolicited contributions.
+If you would like to [submit an article, story or personal adventure ](https://web.archive.org/web/20100330161908id_/http%3A//www.desertusa.com/who/du_submissions.html)to DesertUSA for possible publication, you can do so by following the guidelines listed on the [Content Submission page.](https://web.archive.org/web/20100330161908id_/http%3A//www.desertusa.com/who/du_submissions.html) DesertUSA reserves the right to refuse any content submitted. Manuscripts and content are not acknowledged or returned unless accompanied by self-addressed return envelope with proper postage attached. No responsibility is assumed for unsolicited contributions.
 
-If you would like to submit a news item for the news blog, [DesertUSAblog.com](http://www.desertusa.com/desertblog), please [click here](https://web.archive.org/web/20091226030855id_/http%3A//www.desertusa.com/who/du_talk.html#news) for more information.
+If you would like to submit a news item for the news blog, [DesertUSAblog.com](http://www.desertusa.com/desertblog), please [click here](https://web.archive.org/web/20100330161908id_/http%3A//www.desertusa.com/who/du_talk.html#news) for more information.
 
-If you would like to submit and essay or photos for our [Desert Talk](https://web.archive.org/web/20091226030855id_/http%3A//www.desertusa.com/who/du_talk.html) area, please [click here](https://web.archive.org/web/20091226030855id_/http%3A//www.desertusa.com/who/du_talk.html#essay) for more information.
+If you would like to submit and essay or photos for our [Desert Talk](https://web.archive.org/web/20100330161908id_/http%3A//www.desertusa.com/who/du_talk.html) area, please [click here](https://web.archive.org/web/20100330161908id_/http%3A//www.desertusa.com/who/du_talk.html#essay) for more information.
 
 ### 
 
@@ -74,7 +74,7 @@ DesertUSA makes every effort to provide accurate, error-free, up-to-date informa
 
 ### Copyright
 
-All photographs, text, illustrations, maps, video, audio and other content in DesertUSA are for personal use only. Do not upload any DesertUSA.com content to any online service or FTP site. All content on the DesertUSA Web site is Copyright 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008 by Digital West Media, Inc and/or **DesertUSA** contributors.
+All photographs, text, illustrations, maps, video, audio and other content in DesertUSA are for personal use only. Do not upload any DesertUSA.com content to any online service or FTP site. All content on the DesertUSA Web site is Copyright 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010 by Digital West Media, Inc and/or **DesertUSA** contributors.
 
 ### DesertUSA.com Privacy Policy
 
@@ -102,7 +102,7 @@ If you have any additional questions about DesertUSAcom's dedication to consumer
 
 #### DesertUSA.Com Staff  
   
-| **Publisher:**  
+**Publisher:**  
 [Digital West Media Inc.](mailto:dusa_feedback@desertusa.com?subject=DesertUSA) | **Sales/Marketing Director:  
 **Lynn Bremner  
 ---|---  
@@ -112,30 +112,4 @@ If you have any additional questions about DesertUSAcom's dedication to consumer
 **Production/Programming:**  
 Kristine Bonner | **Webmaster/Programmer:  
 **[Jim F. Bremner](mailto:webmaster@desertusa.com)  
-|   
-  
-#### 
-
-**Mailing Address**
-
-DesertUSA.  
-P.O. Box 270219  
-San Diego, CA 92198-0219
-
 | 
-
-**Shipping Address**
-
-DesertUSA  
-15011 Highland Valley Rd  
-Escondido, CA 92025  
-  
----|---  
-  
-#### 
-
-Voice 760 740 1787 Ext 1#  
-Fax 760 546 0321  
-
-
-#### 
