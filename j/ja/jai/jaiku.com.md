@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaiku.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226223219id_/http%3A//www.jaiku.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaiku.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330172827id_/http%3A//www.jaiku.com/privacy) for the most accurate reproduction.*
 
 # Jaiku | Privacy Statement
 
