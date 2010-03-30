@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jorge-delgado.com privacy policy that was archived on 2009-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090726120836id_/http%3A//www.affiliatemarketingsecretsvault.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jorge-delgado.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330102047id_/http%3A//jorge-delgado.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**AffiliateMarketingSecretsVault.com Privacy Policy**
+**Jorge-Delgado.com Privacy Policy**
 
 (’I’ and ‘we’ refers to Jorge, owner of this website) 
 
@@ -20,7 +20,7 @@ Your postal address
 
 Generally, this information is requested when you are either downloading free products, when you purchase any of my products (eBooks, software etc.), or when you subscribe to my newsletters. I will never collect sensitive information about you without your explicit consent. 
 
-The information I hold will be accurate and up to date. You can check the information that I hold about you by e-mailing support@jorge-delgado.com. If you find any inaccuracies we will delete or correct it promptly.
+The information I hold will be accurate and up to date. You can check the information that I hold about you by e-mailing support at jorge-delgado.com. If you find any inaccuracies we will delete or correct it promptly.
 
 **How I Control Your Personal Information**
 
@@ -40,14 +40,14 @@ Your personal information is used for four main purposes and they are as follows
 
 I will only disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: 
 
-(a) Conform to the edicts of the law or comply with legal process served on  AffiliateMarketingSecretsVault
+(a) Conform to the edicts of the law or comply with legal process served on  Jorge-Delgado
 
 .com
 
-(b) Protect and defend the rights or property of  AffiliateMarketingSecretsVault.com
+(b) Protect and defend the rights or property of  Jorge-Delgado.com
 
-(c) Act in urgent circumstances to protect the personal safety of users of AffiliateMarketingSecretsVault.com
+(c) Act in urgent circumstances to protect the personal safety of users of Jorge-Delgado.com
 
-** Jorge** **, AffiliateMarketingSecretsVault.com**
+** Jorge** **, Jorge-Delgado.com**
 
-© Copyright  –   AffiliateMarketingSecretsVault.com All Rights Reserved Worldwide.
+© Copyright  –   Jorge-Delgado.Com All Rights Reserved Worldwide.
