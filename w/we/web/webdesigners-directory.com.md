@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdesigners-directory.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527090542id_/http%3A//www.webdesigners-directory.com/html/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesigners-directory.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330034600id_/http%3A//www.webdesigners-directory.com/html/privacy_policy.cfm) for the most accurate reproduction.*
 
 # WEBDESIGNERS-DIRECTORY.COM Privacy Policy
 
@@ -27,6 +27,14 @@ We may use Data to customize and improve your user experience on this site. Your
 **3\. Cookies.**
 
 Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings. Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement. However, the companies serving the advertising do not have access to our cookies. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+
+  * Google, as a third party vendor, uses cookies to serve ads on this site. 
+  * Google's use of the DART cookie enables it and its partners to serve ads to you based on visits to our sites and/or other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
 
 **4\. Children.**
 
