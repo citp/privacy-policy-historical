@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popsci.com privacy policy that was archived on 2009-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090903103421id_/http%3A//www.popsci.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popsci.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330103159id_/http%3A//www.popsci.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Popular Science
 
