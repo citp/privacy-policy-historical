@@ -1,13 +1,30 @@
-> *The following text is extracted and transformed from the enotalone.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305031800id_/http%3A//www.enotalone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enotalone.com privacy policy that was archived on 2010-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100331081242id_/http%3A//www.enotalone.com/privacy-policy.php) for the most accurate reproduction.*
 
-# eNotalone > Privacy Policy
+# Privacy Policy
 
-At eNotalone.com we understands that you care how information about you is used and shared. We appreciate your trust. We assure you, we will protect your privacy and will not share information submitted through our web site with anyone. This notice describes our privacy policy. 
+**Privacy Policy for enotalone.com**
 
-All of the data we migh ask you to provide such as you email address, name, nickname etc. is protected against unauthorized access.
+The privacy of our visitors to enotalone.com is important to us. 
 
-Beside being an relationships advice portal eNotalone.com is also a research environment where we observe the way people use the site as a group, what kind of information they request most, the way they associate various psychological topics to each other etc. We study all these materials in order to better serve you and meet your needs, conduct and independent studies as well as share it with our selected partners such as psychological institutions, organizations, credited individuals etc. Again, this date does not include anything associated with your personal confidential data; your email, ip, name etc. as an individual. This data will include the way you use the site and will automatically associate and merge your navigational paths into existing groups being studied. We strongly believe that this data is an intellectual treasure, which can be very helpful to conduct studies and research in the fields of psychology, sociology, psychiatry etc.
+At enotalone.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit enotalone.com, and how we safeguard your information. We never sell your personal information to third parties. 
 
-By using this web site, you consent to the collection and use of this information by the eNotalone.com. If we ever change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+**Log Files**
 
-© Copyright 2000-2004 [eNotAlone.com](http://www.enotalone.com/). All rights reserved.
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
+
+**Cookies and Web Beacons**
+
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. 
+
+We also use third party advertisements on enotalone.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
+
+**DoubleClick DART cookies**
+
+We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting [this link](http://www.doubleclick.com/privacy/dart_adserving.aspx). 
+
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
+
+Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
+
+  
+
