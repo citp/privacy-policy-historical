@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mojohelpdesk.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231145215id_/http%3A//www.mojohelpdesk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojohelpdesk.com privacy policy that was archived on 2010-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100331022758id_/http%3A//www.mojohelpdesk.com/privacy.php) for the most accurate reproduction.*
 
 # Mojo Helpdesk — hosted ticket tracking for tech and customer support
 
@@ -23,6 +23,6 @@ Your personally identifiable information is kept secure. Only authorized employe
 
 ## Privacy Contact Information
 
-If you have any questions, concerns, or comments about our privacy policy [you may contact us](https://web.archive.org/web/20091231145215id_/http%3A//www.mojohelpdesk.com/contact.php). 
+If you have any questions, concerns, or comments about our privacy policy [you may contact us](https://web.archive.org/web/20100331022758id_/http%3A//www.mojohelpdesk.com/contact.php). 
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
