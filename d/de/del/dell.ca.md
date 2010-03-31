@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dell.ca privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129021231id_/http%3A//www.dell.ca/content/topics/reftopic.aspx/gen/en/policy%3Fc%3Dca%26l%3Den%26s%3Dgen%26%7Esection%3D000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.ca privacy policy that was archived on 2010-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100331042757id_/http%3A//www.dell.ca/content/topics/reftopic.aspx/gen/en/policy%3Fc%3Dca%26l%3Den%26s%3Dgen%26%7Esection%3D000) for the most accurate reproduction.*
 
 # Dell's Policies + Processes | Dell Canada
+
+[**Dell has updated its Privacy Policy. Changes will go into effect on April 12. Read a Summary of the Changes** ](https://web.archive.org/content/topics/segtopic.aspx/summary_changes?c=ca&l=en&s=gen&~section=000)
 
 Dell respects your privacy. Across our business, around the world, we will only collect, store and use your personal information for defined purposes. We use your information to support and enhance our relationship with you, for example, to process your purchase, provide service and support, and share product, service and company news and offerings with you. We do not sell your personal information. We only share your personal data outside the Dell family of companies with your consent, as required by law or to protect Dell, its customers, or the public, or with companies that help Dell fulfill its obligations with you, and then only with partners who share Dell's commitment to protecting your privacy and data. At any time you may contact Dell with any privacy questions or concerns you may have. You also may ask at any time to see the data you have given us and request correction or deletion. We strive to ensure a high level of security and confidentiality.
 
@@ -113,13 +115,11 @@ You are solely responsible for maintaining the secrecy of your passwords or any 
 
 How to Contact Dell
 
-Dell takes its responsibility to protect your privacy and the confidentiality of your personal information very seriously. There may be questions that you may have about this Privacy Policy, or you may feel that you have privacy concerns relating to Dell's use of your personal information. In order to address your privacy concerns, Dell has a team of Privacy Compliance Representatives who can assist with respect to privacy matters. They can be contacted through our toll free number at 1-800-387-5759 x5433, local number at 416-773-5433 or online at [Privacy@Dell.com](mailto:Privacy@Dell.com) or they can be written to at the following address: 
+Dell takes its responsibility to protect your privacy and the confidentiality of your personal information very seriously. There may be questions that you may have about this Privacy Policy, or you may feel that you have privacy concerns relating to Dell's use of your personal information. Dell has a team of Privacy Compliance Representatives who can help you address any privacy concerns that you may have. They can be contacted online at [Privacy@Dell.com](mailto:Privacy@Dell.com) or they can be written to at the following address: 
 
 Dell Canada Inc.
 
-155 Gordon Baker Road
-
-Suite 501
+155 Gordon Baker Road, Suite 501
 
 North York, Ontario
 
@@ -127,7 +127,7 @@ M2H 3N5
 
 Attention: Privacy Compliance Representative
 
-In addition, if your question or concern is not resolved to your satisfaction, you can contact Dell's Privacy Compliance Officer who has been appointed to oversee privacy compliance matters. He can be contacted at the e-mail address or the mailing address provided above,. All correspondence should be sent addressed to the attention of Privacy Compliance Officer. If you would prefer that he contact you via telephone, please indicate this in your correspondence with the number at which you wish to be reached.
+In addition, if your question or concern is not resolved to your satisfaction, you can contact Dell's Privacy Compliance Officer who has been appointed to oversee privacy compliance matters. He can be contacted at the email address or the mailing address provided above. All correspondence should be sent addressed to the attention of the Privacy Compliance Officer. If you would prefer that he contact you via telephone, please indicate this in your correspondence with the number at which you wish to be reached.
 
 Changes to Privacy Policy 
 
