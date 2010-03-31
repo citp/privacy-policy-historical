@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcentral.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224181956id_/http%3A//www.healthcentral.com/contents/408/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcentral.com privacy policy that was archived on 2010-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100331023530id_/http%3A//www.healthcentral.com/contents/408/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
