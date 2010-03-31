@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the worldprofitassociates.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125092450id_/http%3A//www.worldprofit.com/policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldprofitassociates.com privacy policy that was archived on 2010-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100331112407id_/http%3A//www.worldprofit.com/policy.cfm) for the most accurate reproduction.*
 
-# Worldprofit - Home Business and Work at Home Resources
+# Privacy Policy | Worldprofit.com
 
-  
-**Our Commitment to Protect Your Personal Information** Worldprofit has been helping businesses online since 1994, longer than any other online business support company. The reason we're still here is clear: people like what we do for their business and bottom line!
+**Our Commitment to Protect Your Personal Information** Worldprofit has been helping  
+businesses online since 1994, longer than any other online business support company. The reason we’re still here is clear: people like what we do for their business and bottom line!
 
 This page summarizes the privacy policy and practices on the Worldprofit Inc., website at Worldprofit.com. Worldprofit Inc., is committed to providing our visitors with a website that respects their privacy. We do not automatically gather any personal information from you, such as your name, address, phone number or e-mail address. This information is only obtained if you supply it voluntarily, usually through contacting us by e-mail or registering in a secure portion of the site. 
 
@@ -16,7 +16,11 @@ When you visit Worldprofit.com, our web server automatically collects a limited 
   * the type and version of your browser 
   * the page from which you arrived at our site 
 
-This information helps us assess our information services and is used only for this purpose. This information is not used to identify individuals who come to the web site. 
+
+
+This information helps us assess our information services and is  
+used only for this purpose. This information is not used to identify  
+individuals who come to the web site. 
 
 If you choose to provide your personal information in an e-mail to someone else, or by filling out a form with your personal information included and submitting it through our website, Worldprofit Inc., will use that information to respond to your message and to help provide you with the information you have requested.
 
@@ -42,7 +46,7 @@ For site security purposes and to ensure that this service remains available to 
 
 **Links to Other Sites**
 
-This website contains links to external sites. Worldprofit Inc., is not responsible for the content and the privacy practices of other websites, and we encourage you to examine each site's privacy policy and disclaimers in order to make your own decisions regarding the accuracy, reliability and correctness of material and information found there. 
+This website contains links to external sites. Worldprofit Inc., is not responsible for the content and the privacy practices of other websites, and we encourage you to examine each site’s privacy policy and disclaimers in order to make your own decisions regarding the accuracy, reliability and correctness of material and information found there. 
 
 **Retention of Your Information**
 
@@ -54,5 +58,5 @@ For more information about the collection of your personal information, any of t
 
 Worldprofit Inc.  
 Telephone: (617) 800-0637.   
-Mon - Fri: 9:00 AM - 4:00 pm MT.  
+Mon – Fri: 9:00 AM – 4:00 pm MT.  
 Edmonton, Alberta, Canada 
