@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heroesofnewerth.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231062448id_/http%3A//heroesofnewerth.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heroesofnewerth.com privacy policy that was archived on 2010-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100331224833id_/http%3A//www.heroesofnewerth.com/privacy.php) for the most accurate reproduction.*
 
 # Heroes of Newerth - Privacy Policy
 
