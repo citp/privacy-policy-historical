@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchnext.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130183027id_/http%3A//searchnext.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchnext.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401103023id_/http%3A//www.searchnext.com/privacy.html) for the most accurate reproduction.*
 
 # SearchNext - Money Saving Tips
 
