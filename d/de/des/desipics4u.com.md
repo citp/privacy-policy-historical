@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desipics4u.com privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003101530id_/http%3A//www.desipics4u.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desipics4u.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401133252id_/http%3A//www.desipics4u.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Desi Pics 4 U » More Information » Privacy Policy
 
