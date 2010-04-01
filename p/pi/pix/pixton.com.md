@@ -1,173 +1,185 @@
-> *The following text is extracted and transformed from the pixton.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217002223id_/http%3A//pixton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixton.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401162439id_/http%3A//pixton.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Pixton™ - Create web comic strips online
+# Privacy Policy - Pixton™ - Create web comics online
 
-* ### Introduction
+## Privacy Policy
 
-This Privacy Policy statement applies only to information collected at the Pixton Comics Inc. ("Pixton" or "the Company") Website located at http://www.pixton.com ("the Website") and through its software and applications and other functionality (collectively, "Software"). The Company is incorporated in British Columbia, Canada, and is located at #304–2515 Ontario Street, Vancouver, BC, Canada. The Company respects each individual's right to personal privacy. The Company collects and uses certain types of information in order to provide products and services to users, through use of the Website and its Software. This Privacy Policy is to inform you how we collect, use and protect the information you provide us when using the Website and Software. 
+Last updated on January 1, 2010.
 
-* ### Information Collection and Use by the Website
+### Our Commitment to Privacy
 
-The Website collects the following kinds of information:
+Pixton Comics Inc. is committed to maintaining the security, confidentiality and privacy of your personal information.
 
-  1. Personally identifiable account and identification information including your name, email address, screen name and password, collected when you sign up for, verify or use your account. Account and identification information is used as permitted or necessary to: 
+This is our Privacy Policy. It documents our on-going commitment to you and has been developed in compliance with the British Columbia Personal Information Protection Act ("PIPA").
 
-    1. identify you as a registered user of the Website and authenticate your identity when you login to your account;
-    2. determine your eligibility for products and services or provide you with customer or technical support; and
-    3. customize content, advertising or marketing information delivered to you through the Website.
+### Scope of Policy
 
-Your personally identifiable account and identification information will not be shared with third parties.
+This Policy applies to our collection, use and disclosure of your personal information in connection with our website and services. This Policy does not impose any limits on our collection, use or disclosure of the following information: 
 
-  2. Personally identifiable payment information including your name, physical address, email address, contact phone number, and credit card information, collected through your payment for Pixton products and services. This payment information is used as permitted or necessary to: 
+  * business contact information; and
+  * certain publicly available information.
 
-    1. process payment for your use of Pixton products and services; and
-    2. provide confirmation or contact you regarding your payment for Pixton products and services.
 
-Your payment information will only be provided to secure payment service providers for the purposes of processing your creditcard payments, including PayPal Inc., located at eBay Park North, 2211 North First Street, San Jose, CA, USA, 95131. After payments have been processed, the Company maintains records of transactions as required to comply with applicable laws and regulations, but does not store your credit card information.
 
-  3. Non-personally identifiable demographic information, specifically collected for the creation of demographic profiles containing population characteristics including age, income, gender, occupation, marital or parental status, education, or areas of interest, and used as permitted or necessary to:
+### Accountability
 
-    1. customize content and advertising delivered through the Website;
-    2. understand your needs;
-    3. determine the suitability of our products and services for you; and
-    4. determine your eligibility for our products and services.
+We have designated a Privacy Officer who is responsible for our compliance with this Policy. The Privacy Officer may be contacted as described below.
 
-Aggregate demographic information may also be shared with advertisers and/or other third parties for the purpose of providing you with targeted advertising. 
+### What Do We Collect?
 
-  4. Non-personally identifiable usage information, including IP address (anonymized to identify only your city or town), internet service provider, browser type, operating system, the URL of the previous website you visited, and other information that relates to your use of the Website. This information is collected through registration forms, clickstream tracking, and automatic logging files, and used as permitted or necessary to: 
+We collect the following types of personal information: 
 
-    1. examine our traffic in aggregate to optimize your experience with the Website; and
-    2. investigate use and misuse of the Website.
+  * the screen name, email address, password, birth date, country and gender of all Pixton members;
+  * the first name, last name, phone number, company name, address, city, province/state, postal/zip code of all Pixton for Business members and their representatives;
+  * the institution name, address, city, province/state, postal/zip code, phone number, first name, last name and title of all Pixton for Schools members and their representatives;
+  * the Facebook user ID and primary network ID of all members who use Facebook Connect or the Facebook Application;
+  * the IP address, browser & operating system descriptor and URL of referring web page of all Pixton members and non-members;
+  * the approximate coordinates of users' locations, if users indicate that location using the Google interactive map feature on our website; and
+  * information provided to us such as the occupation, likes, dislikes, biographies, responses to interview questions, friends' email addresses, and other information of Pixton members and Pixton for Schools members and their representatives.
 
-Aggregate information derived from non-personally identifiable usage information may also be shared with advertisers and/or other third parties for the purpose of providing you with targeted advertising.
 
-The Company currently uses both non-personally identifiable usage and demographic information with Google AdSense and Google Analytics, located in the state of California, in the United States. Their privacy policies are available here: <http://www.google.com/privacy.html> <http://www.google.com/intl/en_ALL/privacypolicy.html>
 
-In the future, the Company may use such non-personally identifiable usage and demographic information with other comparable services providers and you consent to the Company so doing. 
+### How Do We Collect Information?
 
+We collect information from you in a variety of ways, including the following: 
 
+  * sign-up forms;
+  * our "contact us" form;
+  * comments you provide to us;
+  * comics you create;
+  * private messages you send and receive;
+  * profile fields (freeform text fields);
+  * third-party services such as Google API (which includes Google Translate and Google Maps);
+  * send-to-a-friend and invite-your-friends forms you fill out;
+  * the Google Interactive map (if you indicate your approximate location on it); and
+  * email messages which may contain code that allows us to track whether the message was opened and/or links clicked.
 
-* ### Additional Usage of Information
 
-We may also use any of the above-described information collected through Pixton as permitted or necessary to: 
 
-  1. communicate with you by email, phone or other means, including, without limitation, with regard to the Website, Pixton Software, this Privacy Policy, or any other communication deemed important, at our sole discretion, to your usage of Pixton Software or for account maintenance;
-  2. resolve any disputes that may occur through your use of the Website; and
-  3. for other purposes which will be disclosed when you provide your information; 
+### Purposes
 
+We collect, use and disclose your personal information for the following purposes: 
 
+  * to respond to or follow-up regarding any comments you submit to us;
+  * to open your membership account;
+  * to authenticate your identity;
+  * to apply our policies, such as minimum age policies;
+  * to process your payments through our third party payment processors;
+  * to facilitate communication and sharing among our members;
+  * to allow members to share comics with their friends and tell their friends about our site;
+  * to track email and site usage statistics;
+  * to link members' Pixton accounts to third party accounts such as Facebook, and to integrate third-party authentication, such as Facebook authentication;
+  * to protect us, you and others from fraud and error and to safeguard our business interests;
+  * to comply with legal and regulatory requirements; and
+  * as part of a sale of any or all of our business.
 
-Information we collect on the Website may also be used to create customer profiles based on browsing or purchasing history. This information may be supplemented by information collected by Pixton Software and shared with third parties in a non-personally identifying and anonymous form.
 
-In general, you can choose not to provide us with some or all of your personal information at any time. However, you must understand that if you make this choice, we may not be able to provide you with the product, service, promotion or information that you requested.
 
-* ### User Profiles and User Interactivity
+The above collections, uses and disclosures are a reasonably necessary part of your relationship with us. We might also collect, use and disclose your personal information for the following purposes: 
 
-#### Publicly Available Profile
+  * to personalize your experience with us through our website and through our customer service representatives;
+  * to communicate to members news about us and our services;
+  * to allow us and third parties to offer additional or alternate products and services to you;
+  * to evaluate and improve our products and services; and
+  * to invite you to participate in surveys, contests or special events.
 
-In addition to the information addressed above, the Website also creates user profiles that may or may not contain personal information, depending on what you choose to input in your profile. User profiles that are automatically displayed to the public contain the following information: 1) screen name; 2) profile picture; 3) the date you joined; 4) time since last log in; and 5) number of comics published. IF YOU WISH TO AVOID REVEALING PERSONALLY IDENTIFYING INFORMATION, YOU SHOULD NOT POST A PROFILE PICTURE, OR PROVIDE ANY OTHER PERSONAL INFORMATION, THAT CAN IDENTIFY YOU.
 
-#### Optional Detailed Profile Information
 
-You may, but are not required to, choose to share additional profile data ("Profile Data") with: i) fellow Website users (denoted on the Website as "Friends"); ii) Friends and fellow Website users who are also your fans (denoted on the Website as "Faves"); iii) account holders only; or iv) to the public generally (e.g. anyone visiting the website), if you are 18 years of age or older. This Profile Data, should you choose to provide same, currently includes the following information: name, country, occupation, date of birth, gender, likes and dislikes. IF YOU WISH TO AVOID REVEALING PERSONALLY IDENTIFYING INFORMATION, YOU SHOULD NOT POST ADDITIONAL PROFILE DATA. Profile Data is not personal information collected or retained by Pixton.
+You may instruct us to refrain from using or sharing your personal information in any or all of the five ways described above at any time by providing written notification to our Privacy Officer. We acknowledge that the sharing of your personal information in any or all of the five ways described above is at your option and we will not refuse you access to any product or service merely because you have advised us to stop using or sharing your personal information in any or all of the five ways shown. You may also opt out of certain disclosures by logging into your Pixton account, navigating to your Account Settings page, and changing your privacy settings.
 
-You may change or remove your Profile Data at any time by logging into your account and deleting or amending the information, except for the basic publicly available profile information as described above. 
+If we want to use your personal information for a new purpose, we will disclose this to you and ask for your consent unless the new use is already authorized or required by law.
 
-#### Featured Authors
+### Cookies
 
-Users that may be identified by Pixton as "Featured Authors" are invited, but not required to, answer the following questions, which may contain personal information: i) Where do you get ideas for your comics? ii) What's unique about the place where you live? iii) What do you really enjoy doing, and why? iv) Where in the world would you most want to live? v) What 3 possessions would you take to a desert island? vi) What props or attributes would you like to see in Pixton™? and vii) How can we make Pixton™ better? Questions may be changed, deleted or added from time to time. The answers provided by Featured Author users are made available on their profile in accordance with the Profile Data sharing setting as described above. The information provided in these answers is not collected or used by the Company beyond profile posting, EXCEPT FOR THE ANSWERS TO vi) and vii) which the Company may use to improve its service. IF YOU WISH TO AVOID REVEALING PERSONALLY IDENTIFYING INFORMATION, YOU SHOULD NOT PROVIDE ANSWERS THAT ARE PERSONALLY IDENTIFYING.
+Cookies are small pieces of data which are stored on your computer to allow your web browser to remember something about our web site. We use cookies to improve functionality and to provide a customized online experience, for example, to list the contents of a virtual shopping cart or to remember other information so that you do not need to enter it every time you log onto our site. Cookies may also enable us to track and target your interests to enhance your experience on our site. If you don't allow your web browser to use cookies, our site might not function correctly.
 
-#### User Interaction
+### Storage in the United States
 
-Account holders may communicate on the Website by posting a comment or a user submission or by sending a private message to a fellow account holder. As an account holder, you may choose to permit or prohibit the receiving of private messages entirely, or to limit your acceptance of them to Friends only, or Friends and Faves collectively. These communications may contain personal information but the Company does not collect or use any of the personal information that may be included in these materials.
+Some of or all of your personal information may be provided to our service providers in the United States for the purposes described above. Those service providers may store your information on servers located in the United States. Foreign law may require those service providers to disclose your information to governments, courts, law enforcement or regulatory agencies.
 
-* ### Cookies
+### Consent
 
-The Website employs the use of cookies. Cookies are small text files that your Web browser stores on your hard drive to recognize you as a repeat user of our Website, track your use of our Website, target advertising, and personalize certain aspects of your visit. If you do not want a cookie or stored on your computer, the Company recommends that you consult with your internet browser instructions to remove or prevent the storage of such cookies. Please note that if you choose to disable the use of cookies on your browser, some of the Company's products or services may not be available to you. 
+We will obtain your consent to collect, use or disclose personal information except where we are authorized or required by law to do so without consent. For example, we may collect, use or disclose personal information without your knowledge or consent where: 
 
-The Website may also from time to time use cookies from a third party. These cookies may be used to track and analyze usage and volume statistical information from visitors to the Website to help us continue to improve its quality and service to users. These third party cookies do not collect statistical information that may be unique to the individual, but is not personally identifying. 
+  * the information is publicly available, as defined by statute or regulation;
+  * we are obtaining legal advice; or
+  * we reasonably expect that obtaining consent would compromise an investigation or proceeding.
 
-* ### Transfer, Storage and Processing of your Personal Information
 
-The Company may transfer your personally identifiable information for the purposes of and as necessary to:
 
-  1. allow our subsidiaries and related companies, agents and/or contractors to provide you with the Company's products and services;
-  2. in the event the Company goes through a business transition such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personal information will likely be among the assets transferred. You acknowledge that such transfers may occur, and that any acquirer of the Company or its assets may continue to use your personal information as set forth in this Privacy Policy; and/or
-  3. in the case of your user profile information, to transfer such information to our marketing and advertising partners in order to provide you with the Company's services and products;
+Other exceptions may apply.
 
+Your consent can be express, implied or given through an authorized representative such as a lawyer, agent or parent.
 
+Consent may be provided orally, in writing, electronically, through inaction (such as when you fail to notify us that you do not wish your personal information collected/used/disclosed for various purposes after you have received notice of those purposes) or otherwise.
 
-Your personally and non-personally identifiable information may be stored and processed by third parties, including contractors and service providers in the United States and other countries. By using the Company's products, services (including Pixton Software) or Website, you consent to any such transfer of personal information outside of your country. You also understand that the governments, courts, or law enforcement or regulatory agencies of those countries may be able to obtain disclosure of your information through their applicable laws. 
+You may withdraw consent at any time, subject to legal, contractual and other restrictions, provided that you give reasonable notice of withdrawal of consent to us. On receipt of notice of withdrawal of consent, we will inform you of the likely consequences of the withdrawal of consent, which may include the inability of us to provide certain services for which that information is necessary.
 
-The Company is committed to require that all of its marketing and advertising partners, related companies, agents and contractors who receive any of your personal information will take appropriate technical and organizational measures to ensure the security of your personally identifiable information. 
+### Limites on Collection of Personal Information
 
-* ### Public Forums and User Submissions
+We will not collect personal information indiscriminately but will limit collection of personal information to that which is reasonable and necessary. We will also collect personal information as authorized by law.
 
-The Company is not responsible for any material submitted by users to the public areas of the Website, including any "Submissions" as defined by the "[Terms and Conditions](http://pixton.com/terms-and-conditions)". User-submitted materials are not endorsed, reviewed or approved by the Company, and the Company does not collect or use any personal information that may be included in these materials. The Company reserves the right to remove any material submitted or posted by users in the public areas, without notice to users, if it becomes aware and determines, in its sole and absolute discretion, that users have, or there is the likelihood that users may, do any of the following:
+### Limits for Using, Disclosing and Retaining Personal Information
 
-  1. defame, abuse, harass, stalk, threaten or otherwise violate the rights of other users or any third parties;
-  2. publish, post, distribute or disseminate any defamatory, obscene, indecent or unlawful material or information;
-  3. post or upload files that contain viruses, corrupted files or any other similar software or programs that may damage the operation of the Company's and/or a third party's computer system and/or network;
-  4. violate any copyright, trademark, other applicable North American or international laws or intellectual property rights of the Company or any other third party; or
-  5. submit content containing marketing or promotional material which is intended to solicit business.
+Your personal information will only be used or disclosed for the purposes set out above and as authorized by law.
 
+We will keep personal information used to make a decision affecting you for at least one year after using it to make the decision, except to the extent that you delete or remove that information yourself. If you choose to end your membership with us, it is your responsibility to delete your information if you do not want us to retain it for this one-year period.
 
+We will destroy, erase or make anonymous documents or other records containing personal information as soon as it is reasonable to assume that the original purpose is no longer being served by retention of the information and retention is no longer necessary for a legal or business purpose. Please note, however, it is sometimes not possible or practical to delete information from all backup media, especially if that media is stored offsite or contains co-mingled data.
 
-The above list is not exhaustive and the Company reserves the right to remove any material that it deems, in its sole and absolute discretion, is comparably harmful. If you are the owner of any material submitted inappropriately to the public areas of the website and wish to have it removed, or wish to notify the Company of any user-submitted material in violation of the above guidelines, please [contact us](http://pixton.com/contact).
+We will take due care when destroying personal information to prevent unauthorized access to the information.
 
-* ### Access and Rights to Information
+### Accuracy
 
-Users may access their own personal information and contact us about inaccuracies they may find. If you wish to review, revise, verify or delete your personal information, revoke, at any time, your consent that your personal information be used by the Company for a certain purpose, submit complaints about the collection and use by the Company of your personal information, or have questions regarding to whom we may have disclosed your information as permitted by this Privacy Policy, please [contact us](http://pixton.com/contact). You may be asked to provide information that verifies your identity. 
+We will make a reasonable effort to ensure that personal information we are using or disclosing is accurate and complete.
 
-You may also or object to or oppose the collection, processing and use of your personal information by the Company by [contacting](http://pixton.com/contact) the Privacy Officer. However, in this case, you understand that the Company may not be able to provide you with certain products, services, promotions or information you may have requested.
+If you demonstrate the inaccuracy or incompleteness of personal information, we will amend the information as required. If appropriate, we will send the amended information to third parties to whom the information has been disclosed.
 
-In general, you can choose not to provide us with some or all of your personal information at any time. However, you must understand that if you make this choice, we may not be able to provide you with the product, service, promotion or information that you requested.
+When a challenge regarding the accuracy of personal information is not resolved to your satisfaction, we will annotate the personal information under our control with a note that the correction was requested but not made.
 
-In certain instances, we will not be able to provide the personal information we hold about you that you request. Some of these instances include:
+### Safeguarding Personal Information
 
-  1. information that contains references to other persons, or that may be shared by multiple individuals and is not specific to you.
-  2. information that is subject to solicitor-client or litigation privilege.
-  3. information that contains proprietary information that is confidential to the Company.
-  4. information that has been destroyed due to legal requirements or because we no longer needed it for the purposes set out in this Policy.
-  5. information that cannot be disclosed for legal reasons.
+We protect the personal information in our custody or control by making reasonable security arrangements to prevent unauthorized access, collection, use, disclosure, copying, modification, disposal or similar risks.
 
+We will take reasonable steps, through contractual or other reasonable means, to ensure that a comparable level of personal information protection is implemented by the suppliers and agents who assist in providing services to us. Some specific safeguards may include: 
 
+  * physical measures such as locked filing cabinets;
+  * organizational measures such as restricting employee access to files and databases as appropriate;
+  * electronic measures such as passwords and firewalls; and
+  * investigative measures where we have reasonable grounds to believe that personal information is being inappropriately collected, used or disclosed.
 
-In all cases we will provide access to your information, except on certain reserved grounds detailed above, and/or if and to the extent permitted by applicable law or statute. The Company will comply with the laws and lawful, suitably authorized orders of the courts or governments in the jurisdictions in which it operates. The Company may be required to retain and/or disclose personal information, usage information or payment information of users in order to comply with applicable laws or lawful, suitably authorized court orders in such jurisdictions. 
 
-* ### Retention of Information
 
-The Company will maintain records of information collected as described above for as long as is necessary to provide you with the products, services and information you request from time to time (including the use of the collected information as described in this Privacy Policy), and as required to comply with relevant laws and regulations.
+However, absolute privacy cannot be guaranteed for any comic, private message or other content posted on or shared through Pixton, so we strongly recommend that you do not include sensitive personal information in any online content on or through Pixton.
 
-* ### How We Protect Your Personal Information 
+Also, you might receive messages from third parties. We cannot ensure that these third parties will respect your privacy, so you should be very cautious about sharing any personal information with them.
 
-The Company takes appropriate measures to protect personal information collected through the Website and Pixton Software from any disclosure or use except as authorized by this Privacy Policy, and to keep all personal information accurate and up-to-date. Our security measures include: 
+### Providing Access
 
-  1. technological measures, including encryption of certain personal information such as Payment information collected through the Website or Pixton Software, and the use of user account authentication by means of unique usernames and non-obvious passwords or other identifiers; 
-  2. physical measures, such as storing your personal information in restricted access facilities; and
-  3. organizational measures, such as appointing a Privacy Officer to respond to questions and requests regarding personal information and privacy.
+You have a right to access your personal information held by us.
 
+Upon written request and authentication of identity, we will provide you your personal information under our control. We will also give you information about the ways in which that information is being used and a description of the individuals and organizations to whom that information has been disclosed. We may charge you a reasonable fee for doing so.
 
-* ### Jurisdiction
+We will make the information available within 30 days of receiving a written request or provide written notice where additional time is required to fulfil the request.
 
-The terms and conditions under which you use the Website and Pixton Software (including as it relates to this privacy policy) are governed by and interpreted solely in accordance with the laws of the Province of British Columbia and Canada, as it applies. You are responsible for informing yourself of the laws of the jurisdiction and complying with those laws. Any claims, action, complaints, or litigation relating to the terms and conditions of use of this Website (including as it relates to this privacy policy) shall be brought solely within the Province of British Columbia and shall be within the exclusive jurisdiction of the Courts within the Province of British Columbia. 
+In some situations, we may not be able to provide access to certain personal information (e.g., if disclosure would reveal personal information about another individual, the personal information is protected by solicitor/client privilege, the information was collected for the purposes of an investigation or where disclosure of the information would reveal confidential commercial information that could harm the competitive position of us). We may also be prevented by law from providing access to certain personal information.
 
-* ### Notification of Changes
+Where an access request is refused, we will notify you in writing, document the reasons for refusal and outline further steps which are available to you.
 
-The Company reserves the right to modify or supplement this Privacy Policy at any time. If we change this Privacy Policy, we will post notice of the changes on the Website. Changes will be effective 30 days from posting. 
+### Complaints
 
-* ### Questions or Concerns
+We will, on request, provide information regarding our complaint procedure.
 
-If you have any questions, comments or concerns arising from the Website, Pixton Software, the Privacy Policy or any other relevant terms and conditions, policies and notices or the way in which we are handling your personal information, submit an [information request](http://pixton.com/contact) to the Privacy Officer or contact us by mail at:
+Any inquiries, complaints or questions regarding this Policy should be directed in writing to our Privacy Officer as follows:
 
-Attn: Privacy Officer  
-Pixton Comics Inc.  
 Clive Goodinson  
-[privacy@pixton.com](mailto:privacy@pixton.com)
+Privacy Officer  
+Pixton Comics Inc.  
+P.O. Box 238  
+Parksville, BC, Canada V9P 2G4  
+1-888-774-9866  
+privacy_at_pixton.com
 
-304-2515 Ontario Street  
-Vancouver, British Columbia  
-Canada V5T 4V4
+### Changes
 
-Telephone: +1 (888) 7-PIXTON  
-Last update: September 9, 2008 
+We may change this policy from time to time. Please check our website frequently for updates to this.
