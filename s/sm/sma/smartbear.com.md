@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartbear.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212101424id_/http%3A//smartbear.com/about-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartbear.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401075410id_/http%3A//smartbear.com/about-privacy.php) for the most accurate reproduction.*
 
 # Smart Bear Software - Privacy Policy
 
