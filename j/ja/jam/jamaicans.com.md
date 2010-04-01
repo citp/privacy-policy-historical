@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamaicans.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221063239id_/http%3A//www.jamaicans.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamaicans.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401104541id_/http%3A//www.jamaicans.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Jamaicans.com Privacy Policy, Copyright and Disclaimer (Jamaica)
 
@@ -18,7 +18,7 @@ Personal information will not be released to third parties except to further the
 
 Jamaicans.com works with a third party that serves ads to this site.
 
-If you have any additional questions about Jamaicans.com's dedication to consumer privacy, please [contact us](https://web.archive.org/web/20091221063239id_/http%3A//www.jamaicans.com/about/contact.shtml).
+If you have any additional questions about Jamaicans.com's dedication to consumer privacy, please [contact us](https://web.archive.org/web/20100401104541id_/http%3A//www.jamaicans.com/about/contact.shtml).
 
   
 ******Copyright******
@@ -59,3 +59,5 @@ Jamaicans.com displays third party advertisements. Below are links to their Priv
   * [Value Click Media privacy policy](http://www.valueclickmedia.com/privacy.shtml)
 
 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
