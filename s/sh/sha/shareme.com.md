@@ -1,6 +1,124 @@
-> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207073211id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401065856id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
 
 # Our Privacy Policy - Shareme.com respects your right to privacy - Windows Shareware, Freeware, MP3, Games, DVD, Audio, Video Software
+
+| [](http://shareme.com/) |   
+---|---  
+| 
+
+  * [Business & Productivity Tools](https://web.archive.org/category/Business---Productivity-Tools1.html)
+  * [Communications](https://web.archive.org/category/Communications1.html)
+  * [Desktop Enhancements](https://web.archive.org/category/Desktop-Enhancements1.html)
+  * [Drivers](https://web.archive.org/category/Drivers1.html)
+  * [Educational](https://web.archive.org/category/Educational1.html)
+  * [Games](https://web.archive.org/category/Games1.html)
+  * [Home & Personal](https://web.archive.org/category/Home---Personal1.html)
+  * [Internet](https://web.archive.org/category/Internet1.html)
+  * [Multimedia & Design](https://web.archive.org/category/Multimedia---Design1.html)
+  * [Network Tools](https://web.archive.org/category/Network-Tools1.html)
+  * [Programming](https://web.archive.org/category/Programming1.html)
+  * [Security](https://web.archive.org/category/Security1.html)
+  * [Utilities](https://web.archive.org/category/Utilities1.html)
+  * [Web Authoring](https://web.archive.org/category/Web-Authoring1.html)
+
+
+
+####  Top Downloads
+
+  * [HDDlife 2.8.99](https://web.archive.org/details/hddlife.html)
+
+Worried about a hard drive failure? Get HDDLife...
+
+  * [AllMedia Grabber 2.2](https://web.archive.org/details/allmedia-grabber.html)
+
+Extract Thousands Pictures, Videos, Music,...
+
+  * [Internet Download Manager 5.17.5](https://web.archive.org/details/internet-download-manager.html)
+
+Accelerate downloads by up to 5 times with this...
+
+  * [Quick Slideshow 2.01](https://web.archive.org/details/quick-slideshow.html)
+
+Create brilliant multimedia presentations from...
+
+  * [AV Music Morpher Gold 2.0.105](https://web.archive.org/details/av-music-morpher-gold.html)
+
+AV Music Morpher Gold is an advanced music...
+
+  * [Photo to Cartoon 2.0](https://web.archive.org/details/photo-to-cartoon.html)
+
+Converts photographs into cartoons and...
+
+  * [Word Viewer 5.4](https://web.archive.org/details/word-viewer.html)
+
+Word Viewer is an easy-to-use Free Word...
+
+  * [SpeedItUp Extreme - Free Speed Booster 3.75b](https://web.archive.org/details/speeditup-extreme---free-speed-booster.html)
+
+Speed It Up Extreme is an all in one Speed...
+
+  * [Speed Test 1.0.6](https://web.archive.org/details/speed-test.html)
+
+FREE speed test. The only software that does an...
+
+  * [Free IP Scanner 1.0](https://web.archive.org/details/free-ip-scanner.html)
+
+Free IP scanner is a very fast IP scanner and...
+
+
+
+
+####  New Downloads
+
+  * [Aiseesoft DVD to AMV Converter for Mac 3.2.08](https://web.archive.org/details/aiseesoft-dvd-to-amv-converter-for-mac.html)
+
+Aiseesoft DVD to AMV Converter for Mac is the...
+
+  * [Repair Word 3.0](https://web.archive.org/details/repair-word.html)
+
+SysTools Word Recovery Tool performs complete...
+
+  * [Video to Gif Converter 1.025](https://web.archive.org/details/video-to-gif-converter.html)
+
+Video to Gif Converter is a easy to use video...
+
+  * [Total Video Converter For Mac 2.1.8](https://web.archive.org/details/total-video-converter-for-mac.html)
+
+Convert all video files to AVCHD, psp, iPod,...
+
+  * [Unite PBX 2.0](https://web.archive.org/details/unite-pbx.html)
+
+Unite Call Center and Unite PBX products for...
+
+  * [Dmailer Backup 3.0](https://web.archive.org/details/dmailer-backup.html)
+
+Dmailer Backup is the easiest way to backup...
+
+  * [SnowFox DVD to iPad Converter 1.8.0.1](https://web.archive.org/details/snowfox-dvd-to-ipad-converter.html)
+
+SnowFox DVD to iPad Converter is a professional...
+
+  * [Email2Task 1.00.0007](https://web.archive.org/details/email2task.html)
+
+Create task from email message. Convert email...
+
+  * [DexterWire 4.2.0](https://web.archive.org/details/dexterwire.html)
+
+DexterWire is a fork of the very popular...
+
+  * [Outlook to vCard 4.0](https://web.archive.org/details/outlook-to-vcard.html)
+
+Using Outlook to vCard converter software you...
+
+
+
+
+####  Popular Searches
+
+[Phonerotica Com](https://web.archive.org/programs/phonerotica/com), [Foto Julia Peres Bugil](https://web.archive.org/programs/foto/julia-peres-bugil), [Gambar Artis Indonesia Bugil](https://web.archive.org/programs/gambar/artis-indonesia-bugil), [Serial Number Internet Download Manager](https://web.archive.org/programs/serial/number-internet-download-manager), [Foto Bugil Dewi Persik](https://web.archive.org/programs/foto/bugil-dewi-persik), [Phonerotica Indonesia](https://web.archive.org/programs/phonerotica/indonesia), [Age Of Empires 2 Full Version Download Free Games](https://web.archive.org/programs/age/of-empires-2-full-version-download-free-games), [Autocad 2007 Free Download](https://web.archive.org/programs/autocad/2007-free-download), [Naruto Games For Pc](https://web.archive.org/programs/naruto/games-for-pc), [Fraps Full Download Full Version](https://web.archive.org/programs/fraps/full-download-full-version), [Megaupload Premium Account Generator](https://web.archive.org/programs/megaupload/premium-account-generator), [Anti Proxy](https://web.archive.org/programs/anti/proxy), [Sorority Life Cheats Codes](https://web.archive.org/programs/sorority/life-cheats-codes), [Watch Free Hindi Movies Online](https://web.archive.org/programs/watch/free-hindi-movies-online), [Wpe Pro](https://web.archive.org/programs/wpe/pro)
+
+  
+| 
 
 **Our Privacy Policy**
 
@@ -26,4 +144,7 @@ This site contains links to other sites. shareme.com is not responsible for the 
 If you have any questions about this privacy statement, the practices of this site, you can [contact us](https://web.archive.org/contact.html)
 
   
-
+  
+---|---  
+  
+Welcome to the ShareMe. Here you can free download windows shareware, freeware and demo versions of commercial software, games, mp3, dvd, audio, video programs. We do not share, host any crack, warez files either from mirrors or file hosting website rapidshare, depositfile, megaupload, youtube. All software have posted by genuine software authors and we publish them, if you like it, buy the licensed full version or serial keys. Any questions, complaints or claims related to the software should be directed to the appropriate author or company responsible for developing the software, not the staff working for shareme.com 
