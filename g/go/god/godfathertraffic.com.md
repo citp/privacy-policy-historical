@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godfathertraffic.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620002843id_/http%3A//www.godfathertraffic.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godfathertraffic.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401184728id_/http%3A//godfathertraffic.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # Unlimited Free Traffic from GodfatherTraffic.com
 
