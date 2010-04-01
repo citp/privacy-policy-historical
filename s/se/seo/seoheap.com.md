@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoheap.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228010535id_/http%3A//www.seoheap.com/inc/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoheap.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401191346id_/http%3A//www.seoheap.com/inc/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
