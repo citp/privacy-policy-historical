@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentsentinel.com privacy policy that was archived on 2009-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091025063245id_/http%3A//www.rentsentinel.com/Default.aspx%3Ftabid%3D78) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentsentinel.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401105152id_/http%3A//www.rentsentinel.com/Default.aspx%3Ftabid%3D78) for the most accurate reproduction.*
 
 # RentSentinel
 
