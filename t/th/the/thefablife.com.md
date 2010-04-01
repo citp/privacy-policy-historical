@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefablife.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114065641id_/http%3A//www.thefablife.com/privacy-policy-and-your-california-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefablife.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401062855id_/http%3A//www.thefablife.com/privacy-policy-and-your-california-privacy-rights) for the most accurate reproduction.*
 
-# Privacy Policy and Your California Privacy Rights | The Fab Life - Celebrity Gossip, Fashion & Style | TFL Main
+# Privacy Policy and Your California Privacy Rights | TheFABlife
 
 Go to [Terms of Use Agreement](http://www.scandalist.com/terms-of-use-agreement/)
 
