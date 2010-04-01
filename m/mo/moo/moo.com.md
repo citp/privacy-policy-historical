@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moo.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130163217id_/http%3A//us.moo.com/en/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moo.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401132536id_/http%3A//us.moo.com/en/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | moo.com USA
 
