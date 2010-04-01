@@ -1,39 +1,101 @@
-> *The following text is extracted and transformed from the fastcupid.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406110411id_/http%3A//www.springstreetnetworks.com/tos/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastcupid.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401024541id_/http%3A//fastcupid.com/go/page/privacy.html%3Fm%3D%26site%3Dss%26dcb%3Dfastcupid.com%26who%3Dr%2CMRCDUmQWd8MSGhVN9RCngqOL37qxmQB6dbEgyAdRfq9kSmIfmvMZuXswQSIcKFo0cOulLt81/BeFeqqndHbISQy0gvSndc7W9XiqWAPPcJvhmE3EgelHQ0SPqSR9SCiwfaNQNuGFZozFd5TBF_saTg--%26who%3Dr%2CMRCDUmQWd8MSGhVN9RCngqOL37qxmQB6dbEgyAdRfq9kSmIfmvMZuXswQSIcKFo0cOulLt81/BeFeqqndHbISQy0gvSndc7W9XiqWAPPcJvhmE3EgelHQ0SPqSR9SCiwfaNQNuGFZozFd5TBF_saTg--) for the most accurate reproduction.*
 
-# Spring Street Networks
+# FastCupid PRIVACY POLICY
 
-SSN or the applicable Partner will use reasonable efforts to notify all registered users via email (i.e., the email address you supplied SSN and each respective Partner at the time of registration) of any material changes to this Privacy Policy, unless such users have opted-out of receiving all email from SSN or such Partner(s) (see "Personal Information We Collect and Its Use," below, for more details). In the event you’ve opted-out from receiving such email updates, it is your responsibility to periodically review this Privacy Policy for any changes or updates. Additionally, material changes to this Privacy Policy will also be communicated in the appropriate Partner Personals Area. 
+### FRIENDFINDER NETWORKS INC. PRIVACY POLICY
 
-**Information Automatically Captured from Visitors**
+* **1\. A Special Note About Children**
 
-SSN and the Partners use your IP address (the series of numbers associated with your individual computer) to help maintain the Personals Service and each Partner Personals Area, SSN and the Partners also use your IP address to identify problems with the Personals Service or a given Partner Personals Area. Essentially, your IP address is a numerical address that is used by computers connected to the Internet to identify your computer so that data (such as web pages you want to view) can be transmitted to you. Your IP address does not tell us who you are. 
+Children under eighteen years of age are prohibited from using Our Websites or any of our services. We ask that children not submit information to us.
 
-Both SSN and Partners use cookies to identify traffic that comes through advertising and to facilitate a more user-friendly experience. SSN and Partners also use cookies to keep you logged in across the different services SSN and the Partners make available to you (for example, logging into one Partner Personals Area will allow you to access information maintained on other Partner Personals Areas). Cookies are small pieces of information that a website places on your computer's hard drive so SSN and Partners know it's you when you visit. This helps us to create a personalized experience for you when you visit a Partner Personals Area. The use of cookies is a very common practice on the Internet. The only personal information a cookie can contain is information you supply. A cookie cannot read unrelated data off your hard drive. Partner’s advertisers and third parties that provide products or services through a Partner Personals Area may also assign their own cookies to your hard drive, a process SSN and its Partners do not control. 
+* **2\. About Information FFN Collects**
 
-SSN may use third-party advertising companies to serve ads when you visit the personals site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
+During the registration process for any of the FFN Websites, you may provide us with certain Personally Identifiable Information (" _PII_ ") including, but not limited to, your name, address, email address, and credit card and bank information.
 
-**Personal Information We Collect and Its Use**
+FFN Websites also use "cookies" to store and sometimes track information to make your online experience easier and more personalized. Cookies are small pieces of data that are stored by a user's web browser on the user's hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user's transactions on related webpages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet.
 
-During the course of the Personals registration process, you will be asked to provide some general identifying information which will enable SSN and the appropriate Partner to provide you with individualized service. SSN, for itself and the appropriate Partner, gathers from you contact information (like your email address), demographic information (like your gender and age), and other relevant information each believes is necessary to deliver the Personals Services via each Partner Personals Area. 
+Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer's preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you. If you choose to reject all cookies, there are areas of FFN Websites that may not function properly. You may obtain further information about cookies and how they function at: [http://en.wikipedia.org/wiki/HTTP_cookie](http://dev8.adultfriendfinder.com/p/offsite.cgi?http://en.wikipedia.org/wiki/HTTP_cookie).
 
-Registered users (e.g., members) that choose to purchase products or services made available on a Partner Personals Area (for example, the purchase of credits enabling a member to communicate through the Personals Service with other members) will be asked to provide certain information, including certain contact information (such as your name, address, telephone and email), as well as their billing information (such as their credit card number and the date that their card expires). SSN or a Partner may also ask members to provide additional information such as unique identifiers (such as your date of birth), and registration information (that is, login name and password). 
+We may also use standard Internet technology, such as web beacons or 1x1 "gifs" and other similar technologies (collectively "Pixel Tags"), to track your use of Our Websites. A Pixel Tag is an electronic image, often a single pixel (1x1), that is ordinarily not visible to Site visitors and may be associated with cookies on the visitors' hard drives. We also may include Pixel Tags in advertisements or promotional or other e-mail messages, or to determine whether messages have been opened and acted upon. The information enables us to customize the services we offer. 
 
-The billing information that you supply will be encrypted and sent to a third party intermediary for processing. Such billing information is used only to bill you for those products or services you choose to purchase through a given Partner Personals Area. The process of encryption scrambles your billing information and serves to protect your billing information from being read by unauthorized individuals. You will know you are in secure mode when the tiny padlock icon — located at the bottom of your browser — appears "locked" or the address that appears in your browser begins with “https”. Despite the security encryption technology provides, no security system is impenetrable. Neither SSN nor any Partner guarantees the security of their respective databases, nor can either party guarantee that the information you supply won’t be intercepted while being transmitted to SSN or the Partners over the Internet. With your acceptance, through your agreement with the terms of an offer, SSN may also share your billing information with the providers of those products and services for the purpose of fulfilling your orders. 
+If you send us personal correspondence, such as emails or letters, or if other FFN Website users or third parties send us correspondence about your activities or postings on any FFN Website, we may collect such information into a file that is accessed only by authorized FFN personnel or representatives. We may also collect other Members' comments about you.
 
-Your demographic (non-identifying) information is used to personalize your experience while accessing a Partner Personals Area, to allow other members to find you through a search result, and is used to enable you to compose personal profiles. 
+On some of Our Websites, you may choose to use our referral service to tell a friend or friends about us. In this case, we will ask you for your friend's name and email address and email your friend a invite to him or her to visit Our Website. We maintain this information for the sole purpose of sending email and tracking the status of the referral. Your friend or friends may contact us by email at [privacy@ffn.com](mailto:privacy@ffn.com) to request that we remove their email address from our records.
 
-If you subscribe to receive a newsletter or other service from any Partner, the terms of use will be governed by that Partner’s privacy policy statement and visitor agreement – not by this Privacy Policy or Terms of Use associated with this Partner Personals Area. If you subscribe to receive a newsletters) associated with the Personals Service from any Partner, such Partner may distribute such newsletter(s) directly to you, use a third party service provider to distribute such newsletter(s), or utilize SSN to deliver such newsletter(s). In the event SSN is utilized to provide such newsletters on behalf of a Partner, the terms of this Privacy Policy and the Terms of Use will govern SSN’s and such Partner’s use of any such subscription information you provide to such Partners. In the event a Partner directly distributes such newsletter(s) or uses a third party service provider, the terms of such Partner’s privacy policy statement and visitor agreement will govern. Likewise, if you submit personal information on a page provided in conjunction with an SSN partner, other than the Partner associated with this particular Personals area, the information you submit may be jointly maintained by such Partner. 
+* **3\. Our Use of Your Personally Identifiable Information**
 
-Once you become a registered member, you will be given the opportunity to create a personal profile. During such process, you will be asked for some personal, but non-identifying, information to complete your personal profile (e.g. your occupation, your favorite book, etc). This information will be viewable by other members and possibly non-members, but it will not enable them to access and view the personally identifiable contact information you supplied SSN or Partner during your registration process; unless you provide a member with your personally identifiable contact information, registered members may contact you only via your Personals nickname you established, using the Personals’ integrated messaging system that assists in maintaining your anonymity. 
+We use your PII internally to improve our marketing efforts, analyze FFN Website usage, improve our content and product offerings and customize Our Websites' content and layout. We believe these uses allow us to improve Our Websites and better tailor your online experience.
 
-You agree that SSN, the applicable Partner, or both may use your information to contact you for customer service, to inform you of important changes or additions to the Personals Service or a Partner Personals Area, and to send you administrative notices or any communications relevant to your use of this Partner Personals Area. However, if you don't want to receive such notices, please email nomailings@springstreetnetworks.com from the email account that you used when you registered with this particular Partner’s Personals Service. 
+We may also use your PII to deliver information that, in some cases, is targeted to your interests, such as banners and promotions.
 
-**Changing Profile and Account Information**
+We also send you periodic informational updates via email.
 
-Once you’ve become registered member of a Partner’s Personals Service, you will have the opportunity to review, update or delete the registration information you have provided to SSN and such Partner at any time (except, of course, any information SSN or such Partner does not store). You may do so by clicking on the "my account" link in any page in appropriate Partner’s Personals area and follow the instructions there. 
+We may use PII to resolve disputes, troubleshoot problems and enforce any agreements, policies and rules governing the use of FFN Websites.
 
-**Online Behavior**
+* **4\. Our Disclosure of Your Information**
 
-Registered members communicate with each other through personal profiles, the Instant chat and other services SSN makes available through the Personals Service. While neither SSN nor Partners moderate or monitor members' private exchanges through the Personals Service, each reserves the right, but does not assume the obligation, to do so if either suspects a member of being under the age of 18 at the time they registered, or if a either believes that a member has violated the Terms of Use governing the use of the Personals Service and each Partner Personals Area. 
+We DO NOT sell or rent any of your PII to third parties for marketing purposes without your permission. We do, however, provide your PII to our service providers (e.g., credit card processing companies, billing services) as reasonably necessary or appropriate to provide services on the FFN Websites.
 
-If you have any further questions about our privacy policy, send an email to [privacy@springstreetnetworks.com](mailto:privacy@springstreetnetworks.com). 
+We do disclose information in the aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we DO NOT disclose information in any form that could be used to identify you personally such as your FFN Website password, credit card number, and bank account number.
+
+In response to compulsory (required) governmental and/or third party inquiries, we may disclose PII to comply with a court order, subpoena, and search warrant. We expressly reserve the right to disclose your PII when we have a good faith belief that disclosure is necessary to protect our rights, or to enforce our agreements, policies, and rules governing your use of the FFN website, or to cooperate voluntarily with law enforcement inquiries.
+
+We may share or transfer some or all of your PII among our FFN family of companies, or to one or more non-FFN family entities that acquire some or all of the business in which that PII is used or maintained.
+
+* **5\. Your Use of FFN Websites' Members' Information**
+
+You may not use another FFN Websites' Members' information, whether private or not, for commercial purposes, to spam, to harass, or to make unlawful threats. We reserve the right to terminate those who misuse other Members' information or who otherwise violate any user agreements, policies, or rules governing the use of any FFN Website.
+
+* **6\. Do Not Disclose Your PII or Password**
+
+Please DO NOT post, share or disclose in public forums, e.g., chat rooms, blogs, any PII that you do not wish other Members to know. We encourage you to ask questions before you disclose your PII to others. Similarly, you should never disclose or share your password with anyone else. If you lose control of your password, you may lose substantial control over your PII and may be subject to legally binding actions taken on your behalf. If your password has been compromised for any reason, you should immediately change your password and/or contact us at [privacy@ffn.com](mailto:privacy@ffn.com).
+
+* **7\. Reviewing, Changing or Removing Your Personally Identifiable Information**
+
+Once you register, you will be able to review and change much of your PII including, but not limited to:
+
+  * Your email address
+  * Your city, state, ZIP or other postal code, country
+  * Your password
+  * Your profile
+
+
+
+Please promptly update your information by logging in to your account and following the screen prompts. We strongly urge you to change your password periodically to help reduce the risk of unauthorized access to your account information.
+
+Upon your request, we will remove your credit card number and credit card expiration date from our main databases. To make this request, email us at [privacy@ffn.com](mailto:privacy@ffn.com). Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as credit card information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of FFN Websites. Removed information also may persist in backup copies and/or other users' caches. For example, any information exchange with other Members may remain in their e-mail boxes, computer caches, or instant message archive. Whether your exchanged information is kept by another Member is beyond the control of any FFN Websites. Any such information retained by FFN or under its control is not available to third parties except as provided in this Policy.
+
+* **8\. Third Party Collections of Information; Ad Tracking**
+
+This Policy only addresses the use and disclosure of information we collect from you. To the extent that you disclose your PII to others while using Our Websites or other sites throughout the internet, different rules may apply to its use, maintenance, or disclosure. FFN does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable.
+
+We may use third party companies to serve ads on our behalf. These companies may employ cookies or Pixel Tags to measure advertising effectiveness.
+
+* **9\. Security**
+
+FFN Websites use reasonable security measures to help protect and prevent the loss, misuse, and alteration of the information under our control. We use industry standard efforts, such as firewalls, to safeguard your PII information. While "perfect security" does not exist on the Internet, or elsewhere, our technical staff works hard to help ensure your secure use of our services.
+
+* **10\. EU Safe Harbor Privacy Framework Participation**
+
+(Please note: this section applies to European Union residents only.) We participate in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of such participation, we have agreed to Better Business Bureau (" _BBB EU Safe Harbor_ ") dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have complaints regarding our compliance with the Safe Harbor, you should contact us by email at [privacy@ffn.com](mailto:privacy@ffn.com). If contacting us does not resolve your complaint, you may raise your complaint by emailing BBB EU Safe Harbor at [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org).
+
+* **11\. Location**
+
+FFN Websites are located in the United States. If you are visiting Our Websites from outside the United States, you are on notice that your information may be transferred to, stored, and processed in the United States. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country.
+
+* **12\. Update/Delete/Opt-Out**
+
+You have the following choices to modify or delete your PII from our database:
+
+* Send an email to [privacy@ffn.com](mailto:privacy@ffn.com)  
+* Log in with your password and modify/delete your profile  
+* Send a snail mail to Friendfinder Networks Inc. at 220 Humboldt Ct, Sunnyvale, CA 94089, United States, Attn: Privacy  
+* Call us at (610) 757-1920 
+
+By using the above contact information, you may also receive emails from third party advertisers.
+
+* **13\. Revisions to this Privacy Policy**
+
+FFN reserves its right, in their sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the FFN Websites.
+
+FRIENDFINDER NETWORKS INC. PRIVACY POLICY Effective on: 8/27/09
