@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promotingtips.com privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321090427id_/http%3A//www.promotingtips.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promotingtips.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402082405id_/http%3A//www.promotingtips.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -59,14 +59,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-www.promotingtips.com  
-1140 Old Peachtree Rd Suite D  
-Duluth, GA 30097  
-United States  
-mattbacakretires@gmail.com  
-770-271-1536
+If there are any questions regarding this privacy policy you may   
+contact us by emailing ->> mattbacakretires@gmail.com
 
 We make no suggestions, implications, warranties, or guarantees that by joining this website, or that by following or adhering to any program or information featured anywhere inside this web site or elsewhere, that users will make money. We are not responsible for any losses or damages resulting from the use of any product, link, information, or opportunity contained within this web site. Users realize any business has potential risk for loss of capital. 
 
