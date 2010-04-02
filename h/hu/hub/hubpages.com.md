@@ -1,77 +1,79 @@
-> *The following text is extracted and transformed from the hubpages.com privacy policy that was archived on 2009-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090829005802id_/http%3A//hubpages.com/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubpages.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402094028id_/http%3A//hubpages.com/help/privacy_policy) for the most accurate reproduction.*
 
 # HubPages Privacy Policy
 
-The effective date of this Privacy Policy is July 27, 2007. 
+The effective date of this Privacy Policy is December 10, 2009. Click here for recent changes to this Privacy Policy.
 
-The following information is to help users and visitors (collectively "Users" or "You") understand how we collect, use, disseminate and safeguard the information You provide to us while accessing and using our HubPages software, services, the website at www.HubPages.com (the "Website"), and any other websites and services as may be added from time to time (collectively, "Service"). 
+The following information is to help users and visitors (collectively "Users" or "You") understand how we collect, use, disseminate and safeguard the information You provide to us while accessing and using our HubPages software, services, the website at HubPages.com (the "Website"), and any other websites and services as may be added from time to time (collectively, "Service"). We will not use or share Your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Use.
 
-This Privacy Policy is incorporated into the HubPages End User License Agreement ("License Agreement"). Your use of the Service and any personal information You provide on or through the Service remain subject to the terms of this Privacy Policy and our License Agreement, available at www.HubPages.com/help/privacy_policy. 
+## 1\. Information We Collect
 
-1\. Information We Collect 
+We collect the following information:
 
-We collect the following information: 
+a. User Provided Information. You may provide certain personally identifiable information to HubPages directly, such as Your first and last name, telephone number, address, credit card or PayPal® information, and email address (collectively, "Personally Identifiable Information") when choosing to register, to purchase through the Service, to participate in promotions or surveys, or to subscribe to any newsletters or other distribution lists.
 
-a. User Provided Information. You may provide certain personally identifiable information to HubPages directly, such as your first and last name, telephone number, address, credit card or PayPal® information, and email address (collectively, "Personally Identifiable Information") when choosing to register, purchase or using the Service, participating in promotions or surveys, or subscribing to any newsletters or other distribution lists. 
+Any User Content submitted, transmitted, or uploaded to the public areas of the Service becomes published and public information. Be aware that if Your User Content includes personal information, such as your name and email address, other Users will have access to it.
 
-Any graphics, text, files, or any other content submitted, transmitted, or uploaded to the public areas of the Website or through the Website by Users ("User Submissions"), or other material that You make accessible to others directly, becomes published and public information that is not protected as "Personally Identifiable Information." Be aware that if your User Submissions includes personal information, such as your name and email address, other Users will have access to it and it will not be protected Personally Identifiable Information. 
+When You use our Service, we may collect and store information about Your use, including the following:
 
-When You surf our Website and use our Service, we may collect and store that information, including the following: 
+b. Cookies. When You visit the Website, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that identifies your web browser. You can set your web browser to refuse cookies; however, this may limit the functionality our Website can provide to You.
 
-b. Cookies. When You visit the Website, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that identifies your web browser. You can set your web browser to refuse cookies; however, this may limit the functionality our Website can provide to You. 
+c. Log Files. Log file information is automatically reported by your web browser each time You view a web page. When You register with or use the Service, our servers automatically record certain information that your web browser sends whenever You visit a website. These server logs may include information such as your IP address, browser type and language, number of clicks, domain names of websites visited, pages viewed, and the order of those pages, the amount of time spent on particular pages, the date and time.
 
-c. Log Files. Log file information is automatically reported by your web browser each time You view a web page. When You register with or use the Service, our servers automatically record certain information that your web browser sends whenever You visit a website. These server logs may include information such as your IP address, browser type and language, number of clicks, domain names of websites visited, pages viewed, and the order of those pages, the amount of time spent on particular pages, the date and time. 
+d. Clear Gifs. When You use the Service, we may use clear gifs (a.k.a. web beacons) to collect information.
 
-d. Clear Gifs. When You use the Service, we may use clear gifs (a.k.a. web beacons) to collect information. 
+Information collected through clear gifs and cookies, and log file information is largely non-personally identifiable information because such information is not collected or used in such a way that an individual User can be identified, for example, by name or email address (collectively, "Non-Personally Identifiable Information"). Collected information may be Personally Identifiable Information or Non-Personally Identifiable Information.
 
-Information collected through clear gifs and cookies, and log file information is largely non-personally identifiable information because such information is not collected or used in such a way that an individual User can be identified, for example, by name or email address (collectively, "Non-Personally Identifiable Information"). Collected information may be Personally Identifiable Information or Non-Personally Identifiable Information. 
+Other third-party supported services, such as Google Analytics, that You might use on the Service may collect information through similar methods. Such information is not shared with us and is subject to the privacy policy of each such third-party service.
 
-2\. Use of Information 
+## 2\. Use of Information
 
-Collected information is used to operate, maintain, and provide to You the features and functionality of the Service. Any information or User Submissions that You submit to the Website (including on discussion boards or forums, in blogs, messages and chat areas, etc.) becomes publicly available and can be collected and used by other Users, who may forward this information or User Submissions to other websites or people, making it available to the general public and, therefore, it will not be protected Personally Identifiable Information. 
+Collected information is used to operate, maintain, and provide to You the features and functionality of the Service. Any information or User Submissions that You submit to the Service (including on discussion boards or forums, questions and answers, comments, etc.) becomes publicly available and can be collected and used by other Users, who may forward this information or User Submissions to other websites or people.
 
-We may use your Personally Identifiable Information for billing, administrative purposes, such as notifying You of major changes in Service, news, and for other customer service purposes. You hereby consent to our use of your email address to send you such information. Also, we may provide credit card and ordering information to payment processors, including Paypal®, but we do not retain such information. 
+We may use your Personally Identifiable Information for billing purposes, administrative purposes, such as notifying You of major changes in Service, news, and for other customer service purposes. You hereby consent to our use of your email address to send you such information. Also, we may provide credit card and ordering information to payment processors, including Paypal®, but we do not retain such information.
 
-We may use collected information to: (a) remember information so that You will not have to re-enter it during your current or subsequent visits to the Website; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) track User Submissions, and status in any promotions, sweepstakes, and contests; (f) diagnose or fix technology problems; (g) access your information after You sign in; (h) market our Service to advertisers and other third parties; and (i) to improve the quality and design of the Service and to create new features by storing, tracking, and analyzing your preferences and trends. 
+We may use collected information to: (a) remember information so that You will not have to re-enter it during your current or subsequent visits to the Website; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) track User Submissions, and status in any promotions, sweepstakes, and contests; (f) diagnose or fix technology problems; (g) access your information after You sign in; (h) market our Service to advertisers and other third parties; and (i) to improve the quality and design of the Service and to create new features by storing, tracking, and analyzing your preferences and trends.
 
-3\. When We Disclose Information 
+## 3\. When We Disclose Information
 
-We may provide Non-Personally Identifiable Information to our subsidiaries, affiliated companies, or others, including to service providers for the purposes identified in the preceding Section 2. If we provide Non-Personally Identifiable Information to such third party, their use of that Non-Personally Identifiable Information shall be governed by their privacy policy, not HubPages's Privacy Policy. 
+We may share your Personally Identifiable Information with third parties solely for the purpose of providing the Service to you. If we do this, such third parties’ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of HubPages (for instance, on servers or databases co-located with hosting providers).
 
-In order to describe our Service to prospective partners, advertisers and other third parties we may disclose aggregate user information. We share Non-Personally Identifiable Information (such as anonymous use data) with third parties to assist them in understanding our Service, including Users' use of our Service and the success of promotions. 
+In order to describe our Service to prospective partners, advertisers and other third parties we may disclose aggregate user information. We share Non-Personally Identifiable Information (such as anonymous use data) with third parties to assist them in understanding our Service, including Users' use of our Service and the success of promotions.
 
-We may release collected information if required to do so by law, or if we believe that such action is appropriate to comply with state and federal laws or respond to a court order, law enforcement request or demand, subpoena, or search warrant. We may share collected information in order to investigate, prevent, or take action regarding suspected or actual illegal activities, including but not limited to, fraud, potential threats to public safety or the physical safety of any person, violations of our License Agreement or Privacy Policy, or as otherwise permitted by law. 
+We may release collected information if required to do so by law, or if we believe that such action is appropriate to comply with state and federal laws or respond to a court order, law enforcement request or demand, subpoena, or search warrant. We may also share collected information in order to investigate, prevent, or take action regarding suspected or actual illegal activities, including but not limited to, fraud; potential threats to public safety or the physical safety, property, or rights of any person; or violations of our Terms of Use.
 
-We also reserve the right to disclose collected information that HubPages believes is appropriate or necessary to enforce our License Agreement or Privacy Policy, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our Service, and to exercise or protect the rights, property, or personal safety of HubPages, our Users or others. 
+## 4\. Third-Party Service Providers
 
-4\. Service Providers 
+The Service may be used in conjunction with services provided through a variety of third parties, such as Google. The use of User Content and other information provided by You to such third parties is governed by their privacy policies, not our Privacy Policy. HubPages is not responsible for such third party privacy policies or their compliance with such policies.
 
-Service may be used in conjunction with services provided through a variety of third parties, such as Google; and HubPages may allow other third parties to serve advertisements through the Website or Service. The use of User Submissions and other information provided by You to such third parties is governed by their privacy policies, not our Privacy Policy. HubPages is not responsible for third party privacy policies or their compliance with such policies. 
+HubPages may allow third-party ad servers or ad networks to serve advertisements and/or collect information on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on HubPages. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. HubPages does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks HubPages to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. In addition, third-party advertisers may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements on this website, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click **[here](http://networkadvertising.org/managing/opt_out.asp)**. The HubPages Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
 
-5\. Choices 
+## 5\. Choices
 
-You may update or correct your Personally Identifiable Information at any time using the Software or by sending us an email at team@HubPages.com. If You or HubPages intend to delete any User Submissions provided by You, we cannot guarantee that your User Submissions will be completely removed from all User devices or from their web pages, nor that other Users will not misuse any content that You supply. In addition the other Users may have already copies and forwarded your User Submissions to others, making recovery impossible. 
+You may update or correct your Personally Identifiable Information at any time as indicated on the Service or by sending us an email at team@HubPages.com. If You or HubPages intend to delete any User Submissions provided by You, we cannot guarantee that your User Submissions will be completely removed from all User devices or from their web pages, nor that other Users will not misuse any content that You supply. In addition the other Users may have already copied and forwarded your User Submissions to others, making recovery impossible.
 
-6\. Data Security 
+## 6\. Data Security
 
-We have put in place procedures to provide data security of our servers. We take precautions to protect your Personally Identifiable Information and other data from loss, misuse or alteration and to safeguard and secure the data You provide. While we strive to protect such information after it arrives at our servers, we cannot guarantee the security of any information that is being transmitted over the Internet. As a result, You provide such information at your own risk. 
+We have put in place commercially reasonable physical, managerial, and technical procedures to protect your Personally Identifiable Information and other data from loss, misuse or alteration and to safeguard and secure the data You provide. While we strive to protect such information after it arrives at our servers, we cannot guarantee the security of any information that is being transmitted over the Internet, or guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. As a result, You provide such information at your own risk.
 
-7\. Children's Privacy 
+## 7\. Children's Privacy
 
-Protecting the privacy of children is especially important. For that reason, we do not knowingly collect Personally Identifiable Information submitted by persons under 18 years of age. If You are under 18 years of age, then please do not submit any information to the Website at any time or in any manner. 
+Protecting the privacy of children is especially important. For that reason, we do not knowingly collect Personally Identifiable Information submitted by persons under 18 years of age. If You are under 18 years of age, then please do not submit any information to the Website at any time or in any manner.
 
-8\. International Users 
+## 8\. Merger or Bankruptcy
 
-Our Service servers are hosted in the United States and our Service is intended for and directed to Users in the United States. If You are accessing the servers from outside the United States, the laws or regulations governing personal data collection, use, and disclosure may differ from United States laws. Be advised that through your continued use of the Service, which is governed by U.S. law, this Privacy Policy and our License Agreement, You are transferring your personal information to the United States and You hereby consent to that transfer. 
+In the event that we acquire, are acquired by, or merge with a third party entity, we reserve the right to transfer or assign all collected information as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy or similar situation, we may not be able to control how your information is treated, transferred, or used.
 
-9\. Merger or Bankruptcy 
+## 9\. Changes and Updates
 
-In the event that we acquire, are acquired by, or merge with a third party entity, we reserve the right to transfer or assign all collected information as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy or similar situation, we may not be able to control how your information is treated, transferred, or used. 
+We reserve the right, at our sole discretion, to change, add or remove portions of this policy at any time by posting such changes to this page. Such changes will be effective upon posting. Any changes will be reflected by the effective date at the beginning of the Privacy Policy. Your continued use of the Service constitutes your agreement to this Privacy Policy and any current revisions.
 
-10\. Changes and Updates 
+## 10\. Contact Information
 
-We reserve the right, at our sole discretion, to change, add or remove portions of this policy at any time by posting such changes to this page. Such changes will be effective upon posting. Any changes will be reflected by the effective date at the beginning of the Privacy Policy. Your continued use of the Service constitutes your agreement to this Privacy Policy and any current revisions. 
+Please contact us with any questions or comments about this Privacy Policy by email at team@hubpages.com, or by sending postal mail to 95 Minna St, San Francisco, CA 94105, USA.
 
-11\. Contact Information 
+## RECENT CHANGES TO THIS PRIVACY POLICY
 
-Please contact us with any questions or comments about this Privacy Policy by email at team@hubpages.com. 
+December 10, 2009: We revised Section 4 to clarify the information that third-party advertisers may collect on the Service.
+
+November 19, 2009: We made changes throughout the Privacy Policy. Please review the amended Privacy Policy carefully. Among other things, we added a provision to Section 3 explaining how we may share your Personally Identifiable Information with our service providers; explained how third-party advertisers use your information in Section 4; clarified our security policy in Section 6; and deleted a provision about international users that is covered in our Terms of Use.
