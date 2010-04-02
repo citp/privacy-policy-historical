@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the drivers-applications.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509181734id_/http%3A//www.drivers-applications.com/2008/02/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivers-applications.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402093550id_/http%3A//www.drivers-applications.com/2008/02/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Drivers Applications
+# Privacy Policy
 
-Drivers-Applications.blogspot.com Privacy Policy
+Drivers-Applications.com Privacy Policy
 
 Last updated: 10th April 2009
 
@@ -20,7 +20,8 @@ Web cookies (also known as HTTP cookies, or just cookies) are parcels of text th
 
   *  **Google, as a third party vendor, uses cookies to serve ads on our site.**
   *  **Google's use of the DART cookie enables it to serve ads to our users based on their visit to your sites and other sites on the Internet.**
-  *  **Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy**
+  *  **Users may opt out of the use of the DART cookie by visiting the**[Google ad and content network privacy policy](http://www.google.com.pk/url?q=http://www.google.com/privacy_ads.html&ei=BwFaS97oEtjPjAe62KigAg&sa=X&oi=nshc&resnum=1&ct=result&cd=1&ved=0CAsQzgQoAA&usg=AFQjCNErzzQyCWbNaGZNGinPFOa1jyNkiQ).  
+
 
 
 
@@ -36,7 +37,4 @@ I currently work with Google Adsense. If you have any questions, please check [G
 
 Webmaster Contact Information
 
-If you have any questions or suggestions regarding the[ ](http://drivers-applications.blogspot.com/)[drivers-applications.blogspot.com](http://drivers-applications.blogspot.com/)[ ](http://drivers-applications.blogspot.com/), please feel free to contact me at [synx.cash@gmail.com](mailto:synx.cash@gmail.com)
-
-  
-
+If you have any questions or suggestions regarding the Drivers-Applications.com, Please [contact us](http://www.drivers-applications.com/2009/01/contact-us.html).[ ](http://drivers-applications.blogspot.com/)
