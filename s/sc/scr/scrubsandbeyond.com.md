@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scrubsandbeyond.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525050151id_/http%3A//www.scrubsandbeyond.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrubsandbeyond.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402182329id_/http%3A//www.scrubsandbeyond.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
-# Privacy and Security - Customer Service Scrubs and Beyond
+# Privacy and Security at Scrubs and Beyond
 
 This web site is owned and operated by Scrubs & Beyond, LLC. Here at Scrubs & Beyond®, we understand that many visitors to our web site are concerned about the information they provide and how we treat that information. We hope this Privacy Statement addresses those concerns, but please contact us if you have any questions. We may update or change this Privacy Statement from time to time, so if you are concerned about how your information is used, you should check back at our web site periodically. 
 
