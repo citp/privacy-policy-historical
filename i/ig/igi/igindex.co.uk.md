@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igindex.co.uk privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202113312id_/http%3A//www.igindex.co.uk/spread-betting/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igindex.co.uk privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402083532id_/http%3A//www.igindex.co.uk/spread-betting/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -90,7 +90,7 @@ London
 SE1 8EZ 
 
 **Issue 1, September 2002  
-IG Index plc**
+IG Index Ltd**
 
 ## Privacy: Web supplement
 
