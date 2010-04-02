@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campingsurvival.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231151725id_/http%3A//www.campingsurvival.com//privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campingsurvival.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402220000id_/http%3A//www.campingsurvival.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,4 +9,4 @@ _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering sys
 
 It is in our best interest as well as yours to not share your information. In fact, we consider you and your information to be one of our most valuable assets and we protect it as such. We will not share your information with anyone outside our company for any reason. No one needs to know what or when you ordered from us.
 
-Thank you so much for the follow up. The date is perfect! **-Renee**
+I have ordered twice now. We have been trying the food as it comes in. The butter is so fantastic. The cheese is wonderful. Shipping was fast in both orders. I recommend this company. Thanks, **-Greg**
