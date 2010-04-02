@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a-love-of-rottweilers.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228024620id_/http%3A//www.a-love-of-rottweilers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-love-of-rottweilers.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402190748id_/http%3A//www.a-love-of-rottweilers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for a-love-of-rottweilers.com Website
 
