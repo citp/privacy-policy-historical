@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the antonline.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623181403id_/http%3A//www.antonline.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antonline.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402095616id_/http%3A//www.antonline.com/privacy.htm) for the most accurate reproduction.*
 
-# Atlanta Network Technologies - Privacy Policy
+# ANTOnline.com
 
-Atlanta Network Technologies is committed to protecting your privacy. That is because we base our business on the trust you place in us. This policy describes our practices regarding personal and account information collected through our Web site. In this policy, “personal and account information” means your name, company name, account number, address, telephone number, and e-mail address plus other information that personally identifies you, including your industry, the number of employees at your company, and purchase history, and “we” and “us” means Atlanta Network Technologies as well as its affiliated companies.
-
-We reserve the right to modify this privacy policy from time to time. You should visit our Web site periodically to review any changes. 
-
+Atlanta Network Technologies is committed to protecting your privacy. That is because we base our business on the trust you place in us. This policy describes our practices regarding personal and account information collected through our Web site. In this policy, �personal and account information� means your name, company name, account number, address, telephone number, and e-mail address plus other information that personally identifies you, including your industry, the number of employees at your company, and purchase history, and �we� and �us� means Atlanta Network Technologies as well as its affiliated companies.  
+We reserve the right to modify this privacy policy from time to time. You should visit our Web site periodically to review any changes.   
 How much information must I share?  
 The amount and type of information we collect from you depends on your activities and use of our Web site. Below, we explain what information we collect.
 
@@ -20,7 +18,7 @@ When you browse our Web site
 When you make purchases through our Web site 
 
   * We collect your name, address and payment information to process your order. However, you may provide credit card and purchase order numbers by telephone. 
-  * We collect information contained in “cookies,” such as your purchases and log in data, to personalize your shopping experience. Your browser must be set to accept cookies if you wish to add items to a shopping cart.
+  * We collect information contained in �cookies,� such as your purchases and log in data, to personalize your shopping experience. Your browser must be set to accept cookies if you wish to add items to a shopping cart.
 
   
 When you create an [E-Account](http://www.atlanta%20network%20technologies.com/shop/eaccount/signup.asp?target=/inside/inside/privacy.asp) on our Web site
@@ -66,6 +64,6 @@ Will my personal and account information be provided to any other party?
 Your personal and account information WILL NOT be disclosed to third parties. However, we may disclose your personal and account information to respond to subpoenas, court orders, or other legal process, as required by law, or to establish or exercise our legal rights or defend against legal claims. Your personal and account information may also be disclosed in connection with a sale of some or all of our business or a merger with another company.
 
 How do you protect my personal and account information?  
-We use 128-bit encryption technology and Secure Socket Layers (“SSL”) in all areas where your personal and account information is required. Our Web site is certified by [VeriSign](http://www.verisign.com/), which verifies that our Web site is authentic and that we use SSL security. To view our VeriSign certificate, click on the image of the closed lock or the solid key at the bottom of your browser window. Our Web site security information will appear.
+We use 128-bit encryption technology and Secure Socket Layers (�SSL�) in all areas where your personal and account information is required. Our Web site is certified by [VeriSign](http://www.verisign.com/), which verifies that our Web site is authentic and that we use SSL security. To view our VeriSign certificate, click on the image of the closed lock or the solid key at the bottom of your browser window. Our Web site security information will appear.
 
 In addition, your personal and account information and transaction history are kept behind our firewall on separate servers. All transaction information is processed under encrypted channels, although you may choose unencrypted processing. 
