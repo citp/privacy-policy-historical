@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamglue.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831042531id_/http%3A//www.jamglue.com/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamglue.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402163625id_/http%3A//www.jamglue.com/help/privacy_policy) for the most accurate reproduction.*
 
 # Jamglue - Privacy Policy
 
