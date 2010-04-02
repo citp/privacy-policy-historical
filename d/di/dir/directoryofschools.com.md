@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directoryofschools.com privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003050124id_/http%3A//www.directoryofschools.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryofschools.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402160143id_/http%3A//www.directoryofschools.com/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Directory of Schools
 
@@ -11,6 +11,9 @@ Directoryofschools.com is a media property owned by Directory of Schools, LLC, a
 **WHAT INFORMATION IS COLLECTED?**
 
 Generally, We gather two types of information. The first type of information is the Personally Identifiable Information ("Personal Information") that you expressly provide when you enroll via the online registration forms on Our website or via telephone or chat conversations with Us. This Personal Information includes, but is not limited to, your name, mailing address, email address, date of birth, gender and telephone. In addition to the Personal Information you provide to Us, We will also collect certain information online and offline arising out of your use of Directoryofschools.com, including but not limited to the number and type of offers you have responded to and completed.
+
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to convert and identify site issues.  
+You can choose to disable the Service at <http://www.clicktale.net/disable.html>
 
 **CALIFORNIA RESIDENTS PRIVACY RIGHTS**
 
