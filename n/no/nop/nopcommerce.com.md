@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nopcommerce.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203054444id_/http%3A//www.nopcommerce.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nopcommerce.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402224408id_/http%3A//www.nopcommerce.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# nopCommerce - open source shopping cart. Privacy policy.
+# nopCommerce. Privacy Policy
 
 The policy of the nopCommerce.com is to respect the privacy of all web site visitors to the extent permitted by law. This online privacy statement is intended to inform you of the ways in which this web site collects information, the uses to which that information will be put, and the ways in which we will protect any information you choose to provide us. There are several types of information that this site may collect during your visit: cookies, and information voluntarily provided by you.
 
