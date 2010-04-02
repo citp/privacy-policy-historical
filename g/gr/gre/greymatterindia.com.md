@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greymatterindia.com privacy policy that was archived on 2008-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081104195106id_/http%3A//www.greymatterindia.com/it-company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greymatterindia.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402090046id_/http%3A//www.greymatterindia.com/it-company/privacy.asp) for the most accurate reproduction.*
 
 # GMI It Company-Privacy
 
