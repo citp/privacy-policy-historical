@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calloptionputoption.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228083740id_/http%3A//www.calloptionputoption.com/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calloptionputoption.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402061155id_/http%3A//www.calloptionputoption.com/Privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy_policy
 
@@ -47,8 +47,11 @@ Ultimately, you are solely responsible for maintaining the secrecy of your passw
 
 **Trade In Call and Put Option**
 
-**[Home](https://web.archive.org/web/20090228083740id_/http%3A//www.calloptionputoption.com/index.htm)  ||  [NSE](http://www.nseindia.com/)  || [ BSE](http://bseindia.com/)  ||  [SEBI](http://www.sebi.gov.in/)  || [ Contact Us](https://web.archive.org/web/20090228083740id_/http%3A//www.calloptionputoption.com/Contact_Us.html)  ||  [Disclaimer](https://web.archive.org/web/20090228083740id_/http%3A//www.calloptionputoption.com/Disclaimer.html)  ||  [Privacy Policy](https://web.archive.org/web/20090228083740id_/http%3A//www.calloptionputoption.com/Privacy_policy.html)  ||  [Subscribe Us](https://web.archive.org/web/20090228083740id_/http%3A//www.calloptionputoption.com/Subscription_Plan.html)  ||
+**[Home](https://web.archive.org/web/20100402061155id_/http%3A//www.calloptionputoption.com/index.html)  ||  [NSE](http://www.nseindia.com/)  || [ BSE](http://bseindia.com/)  ||  [SEBI](http://www.sebi.gov.in/)  || [ Contact Us](https://web.archive.org/web/20100402061155id_/http%3A//www.calloptionputoption.com/Contact_Us.html)  ||  [Disclaimer](https://web.archive.org/web/20100402061155id_/http%3A//www.calloptionputoption.com/Disclaimer.html)  ||  [Privacy Policy](https://web.archive.org/web/20100402061155id_/http%3A//www.calloptionputoption.com/Privacy_policy.html)  ||  [Subscribe Us](https://web.archive.org/web/20100402061155id_/http%3A//www.calloptionputoption.com/Subscription_Plan.html)  ||  [Help](https://web.archive.org/web/20100402061155id_/http%3A//www.calloptionputoption.com/help.html)
 
 Copyright © 2008 calloptionputoption.com  All rights reserved. 
 
+****Rights of Subscription Reserved.** **  
 **This site can be best viewed in IE 5.0 or above, 1024 x 768 Resolution.
+
+[](http://www.copyscape.com/dmca-takedown-notice-search/)
