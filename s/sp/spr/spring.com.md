@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spring.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207120104id_/http%3A//www.spring.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spring.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402074553id_/http%3A//www.spring.com/privacy.aspx) for the most accurate reproduction.*
 
 # Spring Group - Privacy policy
 
