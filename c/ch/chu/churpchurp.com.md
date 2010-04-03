@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the churpchurp.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227030448id_/http%3A//www.churpchurp.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churpchurp.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404014936id_/http%3A//www.churpchurp.com/policy) for the most accurate reproduction.*
 
 # ChurpChurp | Twitter Advertising Network » Policy
 
