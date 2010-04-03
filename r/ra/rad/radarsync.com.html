@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the radarsync.com privacy policy that was archived on 2009-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090524185351id_/http%3A//www.radarsync.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the radarsync.com privacy policy that was archived on 2010-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100403052318id_/http%3A//www.radarsync.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <script type="text/javascript" src="http://www.radarsync.com/assets/jquery.js"></script>
 <script type="text/javascript" src="http://www.radarsync.com/assets/jquery.livequery.js"></script>
 <script type="text/javascript" src="http://www.radarsync.com/assets/radarsync.js"></script>
@@ -17,19 +17,93 @@
 <![endif]--><title>
 	Driver Updater Privacy Policy by Radar-Sync
 </title>
+<script type="text/javascript">
+    $j(document).ready(function() {
+        $j("#register_submit").click(function() {
+            submit_register();
+        });
+    });
+
+    function submit_register() {
+        $j.ajax({
+            type: 'POST',
+            url: window.location.href,
+            data: $j('#register_form').get_form_data(),
+            dataType: 'json',
+            beforeSend: function() {
+                toggle_spinner(Flash.register);
+            },
+            success: function(results) {
+                if (results.Errors.length == 0) {
+                    var usr = '0';
+                    if (usr == '0') {
+                        $j('#register_div').css("display", "none");
+                        $j('#comfirm_register_div').css("display", "");
+                        hide_flash_message(Flash.register);
+                    }
+                    else
+                        display_flash_message('Your profile has been successfully updated.', Flash.register);        
+                }
+                else {
+                    var err = '';
+                    for (var i = 0; i < results.Errors.length; i++) {
+                        err += '<li>' + results.Errors[i].ErrorText + '</li>';
+                    }
+
+                    submitErrorBox = $j("#submitErrors");
+                    display_flash_message(null, Flash.register);
+                    display_flash_message('Please correct the following:<ul>&nbsp;</ul><ul style="font-weight:normal">' + err + '</ul>', Flash.register);
+                }
+            },
+            error: function(XMLHttpRequest, textStatus, errorThrown) {
+                // show error message
+                display_flash_message('Error: ' + textStatus, Flash.register);
+            },
+            complete: function() {
+            }
+        });
+    }
+</script>
+
 </head>
 
 <body>
 <div id="top">
+
+
+
+
 	<div class="ad">
 	    <script type="text/javascript">e9 = new Object(); e9.size = "728x90"; e9.noAd = 1;</script>
+	    <script type="text/javascript" lang="javascript" src="http://cdn.gigya.com/JS/gigya.js?services=socialize"></script>
 	    <!-- begin ad tag (tile=1) -->
-        <script language="JavaScript" src="http://a.collective-media.net/adj/idgt.radarsync/top;tile=1;sz=728x90;ord=[timestamp]?" type="text/javascript"></script>
-        <noscript><a href="http://a.collective-media.net/jump/idgt.radarsync/top;tile=1;sz=728x90;ord=[timestamp]?" target="_blank"><img src="http://a.collective-media.net/ad/idgt.radarsync/top;tile=1;sz=728x90;ord=[timestamp]?" width="728" height="90" border="0" alt=""></a></noscript>
+
+
+
+
+
+
+<div id="s_a1" style="text-align:center">
+<div id="ztm_" style="text-align:center">
+<a href="http://www.radarsync.com/driverupdater.html" id="orls" title="RadarSync PC Updater 2010">
+<img src="http://www.radarsync.com/imagesng/banner-indipage-Top.jpg" style="height:82.169072px;width:648px">
+</a>
+</div>
+</div>
+
+
+
+
+
+
+
         <!-- End ad tag -->
+
+
+
 		<div class="remove_ad">
 			<a class="tooltip" href="https://www.plimus.com/jsp/buynow.jsp?contractId=2037866" onmouseover="show_ddrive_tip(Helptext.remove_ad.message);" onmouseout="hide_ddrive_tip();">
-				Remove ad 			</a>
+							</a>
 		</div>
 		<div id="ie6warning" style="display: none; color: #CC0099;">
 	        RadarSync.com is best viewed with Firefox, Chrome, or Internet Explorer 7 or later browsers
@@ -50,26 +124,40 @@
 		<div class="clear"></div>
 		
 		    <a id="login_open" class="account_link" href="javascript:void(0);">Login</a>
-		    <a class="account_link" href="http://www.radarsync.com/register">Register</a>
+		    <a id="register_open" class="account_link" href="javascript:void(0);">Register</a>   
 		
 		
 	</div>
 	<!-- END HEADER -->
 
+	
 	<!-- BEGIN NAV -->
 	<div id="nav">
 		<ul>
 			<li><a href="http://www.radarsync.com/">Home</a></li>
-			<li><a href="https://www.plimus.com/jsp/buynow.jsp?contractId=1689507&amp;showAlternativePrices=N">Paid Version</a></li>
-			<li><a href="http://www.radarsync.com/software">Software</a></li>
+			<li><a href="https://www.plimus.com/jsp/buynow.jsp?contractId=1689517">BUY</a></li>
 			<li><a href="http://www.radarsync.com/drivers">Drivers</a></li>
 			<li><a href="http://www.radarsync.com/vista">Vista Drivers</a></li>
-			<li><a href="http://www.radarsync.com/windows7">Windows 7 Drivers</a></li>
-			<li><a href="http://www.radarsync.com/help">Help</a></li>
-			<li><a style="color:#2673E2;" href="http://www.radarsync.com/packzoola">Pack<span style="color:#5CE205">Zoola</span></a></li>
+			<li><a href="http://www.radarsync.com/windows7">Windows7 Drivers</a></li>
+            <li><a href="http://www.radarsync.com/driveralerts">Driver Alerts</a></li>
+			<li><a href="http://www.radarsync.com/software">Apps</a></li>
+            <li><a href="http://www.radarsync.com/help">Help</a></li>
+            <li><a href="http://www.radarsync.com/sitemap">Site Map</a></li>
 		</ul>
 	</div>
 	<!-- END NAV -->
+
+	
+	<!-- BEGIN NAVIGATION -->
+	<div id="NavigationBar" class="nav_bar">
+	    
+	            <span class="nav_bar_separator"></span><a class="nav_bar_link" href="http://www.radarsync.com/">Home</a>    
+	        
+	            <span class="nav_bar_separator">&gt;&gt;</span><a class="nav_bar_link" href="http://www.radarsync.com/privacy">Privacy</a>    
+	        
+	</div>
+	<!-- END NAVIGATION -->	
+
 		
 	<div id="main">
 	    <div class="message">Flash Message</div>
@@ -152,7 +240,7 @@ PageMethods.Login= function(username,password,remember,onSuccess,onFailed,userCo
 //]]>
 </script>
 
-            
+                
             
 
 <script type="text/javascript">
@@ -165,6 +253,7 @@ Sys.Application.initialize();
 			</div></div>
 		</div> <!-- LITEBOX -->
 		<div id="bottom">
+	    
 			<div id="links">
 				<ul>
 					<li><a href="http://www.radarsync.com/about">About</a></li>
@@ -174,15 +263,29 @@ Sys.Application.initialize();
 					<li><a href="http://www.radarsync.com/affiliates">Partnerships</a></li>
 					<li><a href="http://www.radarsync.com/privacy">Privacy</a></li>
 					<li><a href="http://www.radarsync.com/faq">FAQ</a></li>
+
+<br><br><br>
+					Drivers of AnalogDevices (ADI), Alps, Atheros Communications, ATI Technologies, ATK, nvidia, Broadcom, C-Media, Conexant, EnTech, Gigabyte, ECS, JMicron, Logitech, O2Micro, Ralink, Realtek, Silicon Integrated Systems Corporation (SiS), VIA Technologies, Wacom, Widcomm and other device drivers - see: <a href="http://www.radarsync.com/software">http://www.radarsync.com/drivers</a>
+
+
 				</ul>
 				<div class="clear"></div>
 			</div>
+		
 			<div class="ad">
 				<script type="text/javascript">				    e9 = new Object(); e9.size = "728x90"; e9.noAd = 1;</script>
-				<!-- begin ad tag (tile=1) -->
+				
+
+
+
+            <!-- begin ad tag (tile=1) -->
                 <script language="JavaScript" src="http://a.collective-media.net/adj/idgt.radarsync/bottom;tile=1;sz=728x90;ord=[timestamp]?" type="text/javascript"></script>
                 <noscript><a href="http://a.collective-media.net/jump/idgt.radarsync/bottom;tile=1;sz=728x90;ord=[timestamp]?" target="_blank"><img src="http://a.collective-media.net/ad/idgt.radarsync/bottom;tile=1;sz=728x90;ord=[timestamp]?" width="728" height="90" border="0" alt=""></a></noscript>
+
                 <!-- End ad tag -->
+
+
+
 				<div class="remove_ad">
 					<a class="tooltip" href="https://www.plimus.com/jsp/buynow.jsp?contractId=2037866" onmouseover="show_ddrive_tip(Helptext.remove_ad.message);" onmouseout="hide_ddrive_tip();">
 						Remove ad
@@ -195,23 +298,42 @@ Sys.Application.initialize();
 	<div id="sidebar">
 		<div class="ad">
 			<script type="text/javascript">	e9 = new Object(); e9.size = "160x600,120x600"; e9.noAd = 1;</script>
-			<!-- begin ad tag (tile=1) -->
-            <script language="JavaScript" src="http://a.collective-media.net/adj/idgt.radarsync/top;tile=1;sz=160x600;ord=[timestamp]?" type="text/javascript"></script>
-            <noscript><a href="http://a.collective-media.net/jump/idgt.radarsync/top;tile=1;sz=160x600;ord=[timestamp]?" target="_blank"><img src="http://a.collective-media.net/ad/idgt.radarsync/top;tile=1;sz=160x600;ord=[timestamp]?" width="160" height="600" border="0" alt=""></a></noscript>
-            <!-- End ad tag -->
+			
+
+
+
+
+
+
+<div id="s_a1" style="text-align:center">
+<div id="Div1" style="text-align:center">
+<a href="http://www.radarsync.com/driverupdater.html" id="A1" title="RadarSync PC Updater 2010">
+<img src="http://www.radarsync.com/imagesng/banner-indipage-rightSide.jpg" style="height:684;width:160px">
+</a>
+</div>
+</div>
+
+
+
+
+
+
+
+
 			<div class="remove_ad">
 				<a class="tooltip" href="https://www.plimus.com/jsp/buynow.jsp?contractId=2037866" onmouseover="show_ddrive_tip(Helptext.remove_ad.message);" onmouseout="hide_ddrive_tip();">
 					Remove ad
 				</a>
 			</div>
 		</div>
-		<div class="ad">
-			<a href="http://www.radarsync.com//installers/radarsync.exe"><img src="http://www.radarsync.com/assets/images/ad_pc_updater.png" alt="RadarSync PC Updater"></a>
+		<!--<div class="ad">
+			<a href="http://www.radarsync.com//installers/radarsync.exe"><img src="http://www.radarsync.com/assets/images/ad_pc_updater.png" alt="RadarSync PC Updater"/></a>
 		</div>
+		-->
 	</div>
 	<div class="clear"></div>
 </div>
-<div id="footer">© 2001–2009 RadarSync Ltd. All rights reserved.</div>
+<div id="footer">© 2001–2010 RadarSync Ltd. All rights reserved.</div>
 
 
 
@@ -245,7 +367,7 @@ Sys.Application.initialize();
     }
  
     function site_search() {
-        var text = $j('#site_search_field').val().replace(' ', '_');
+        var text = escape(($j('#site_search_field').val().replace(' ', '_')));
         if (text.toLowerCase() == 'search')
             text = '';
 
@@ -254,10 +376,6 @@ Sys.Application.initialize();
             document.location.href = search;
         }
     }
-</script>
-
-<script type="text/javascript">
-    FB.init("49079a0a3e3c6981fd143d57a85a467f", "xd_receiver.htm");
 </script>
 
 <script type="text/javascript">
@@ -274,12 +392,12 @@ Sys.Application.initialize();
 <!-- BEGIN LOGIN MODAL -->
 		<div id="login" class="modal litebox">
 			<div class="banner">RadarSync Login</div>
-			<div class="login_form lb_outer lb_form"><div class="lb_inner">
+			<div class="login_form lb_outer lb_form"><div class="lb_inner"> 
 				<form id="login_form" action="">
 					<table>
 						<tbody><tr>
 							<td>
-							</td><td><a href="http://www.radarsync.com/register">Not Registered?</a></td>
+							</td><td><a id="login_register_open" href="javascript:void(0);">Not Registered?</a></td>
 							<td><img class="help" src="http://www.radarsync.com/assets/images/help.png" onmouseover="show_ddrive_tip(Helptext.login.message);" onmouseout="hide_ddrive_tip();"></td>
 						</tr>
 						<tr>
@@ -305,14 +423,219 @@ Sys.Application.initialize();
 						</tr>
 						<tr id="external_logins">
 							<td>
-							</td><td colspan="2"><fb:login-button length="long" onlogin="fb_login();"></fb:login-button></td>
+							</td><td colspan="2"><!--<fb:login-button length="long" onlogin="fb_login();" style="display:inline;"></fb:login-button>--></td>
 						</tr>
 					</tbody></table>
 				</form>
 			</div></div>
 		</div>
-		<!-- END LOGIN MODAL -->
+<!-- END LOGIN MODAL -->
+<!-- BEGIN REGISTER MODAL -->
+		<div id="register" class="modal litebox">
+		<div class="banner">RadarSync Registration</div>
+		<div class="register_form lb_outer lb_form">
+		<div class="lb_inner">
+		<div class="fillbox lb_form">
+		<div id="register_div">
+		<form id="register_form" action="javascript:void(0);" method="post">
+			<table>
+				<tbody><tr>
+					<td class="label"><label for="email">Email<span class="required">*</span></label></td>
+					<td><input id="email" name="email" type="text" value="">
+					<input id="Checkbox1" name="remesmber" type="checkbox">
+						<label class="checkbox" for="remember">Remember me</label>
+					</td>
+				</tr>
+				<tr>
+					<td class="label"><label for="screen_name">Screen Name</label></td>
+					<td><input id="screen_name" name="screen_name" type="text" value=""></td>
+				</tr>
+				<tr class="newGroup">
+					<td class="label"><label for="password">Password<span class="required">*</span></label></td>
+					<td><input id="password" name="password" type="password" value=""></td>
+				</tr>
+				<tr>
+					<td class="label"><label for="password_confirm">Retype Password<span class="required">*</span></label></td>
+					<td><input id="password_confirm" name="password_confirm" type="password" value=""></td>
+				</tr>
+					
+				<tr>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td>
+						<input id="notify" name="notify" type="checkbox">
+						<label class="checkbox" for="notify">Send Update Notifications</label>
+					</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td>
+						<input id="accept" name="accept" type="checkbox">
+						<label class="checkbox" for="accept">Accept <a id="accept" href="javascript:void(0)">End User License</a></label>
+					</td>
+				</tr>
+				
+            
+				<tr class="newGroup">
+					<td></td>
+					<td colspan="3">
+						<img src="http://www.radarsync.com//CaptchaImage.aspx" alt="">
+					</td>
+				</tr>
+				<tr>
+					<td class="label"><label for="captcha_code">Code<span class="required">*</span></label></td>
+					<td colspan="3"><input id="captcha_code" name="captcha_code" type="text"></td>
+					<td></td>
+				</tr>
+                    
+				<tr class="newGroup">
+					<td></td>
+					<td>
+						<input class="button red" type="button" id="register_submit" name="register_submit" value="Register">
+						<input class="button" type="button" onclick="$j('#register_form').clear_form();" name="register_clear" value="Clear">
+						<input class="button" type="button" id="register_cancel" name="register_cancel" value="Cancel">
+					</td>
+				</tr>
+			</tbody></table>
+		</form>
+		</div>
+		<div id="comfirm_register_div" style="display: none; font-weight: normal;">
+		    <h3>Registration complete</h3>
+<br>
+Thank you for registering!
+<br><br>
+You're ready to begin creating software Packs to save and download your favorite software!<br><br>
+<ul>
 
+– To find items to add to your Packs - search, or go to the <a href="http://www.radarsync.com/software" target="frame2"><strong>Software</strong></a> or <a href="http://www.radarsync.com/drivers" target="frame2"><strong>Drivers</strong></a> sections<br>
+– Check out the Packs of the Day at <a href="http://www.radarsync.com/packzoola" target="frame2"><strong>Packzoola Central</strong></a><br>
+– View and manage your Packs in <a href="http://www.radarsync.com/packs" target="frame2"><strong>My Packs</strong></a><br>
+</ul><br>
+And when you're ready to download a Pack, just open the My Packs folder in your <a href="http://www.radarsync.com/installers/radarsync.exe"><strong>PC Updater</strong></a> software.
+<br><br>
+<a href="http://docs.google.com/Doc?id=dhkb68zp_220gd6v7hfn" target="frame2"><strong>Learn more</strong></a> about Packs and Packzoola.
+<br><br>
+		    <input class="button" type="button" id="register_finish" name="register_finish" value="Close">
+		</div>
+	</div>
+    <div class="clear"></div>
+    <br>
+    <div class="message" id="submitErrors"></div>
+ 
+			</div>
+			</div>
+	</div>
+<!-- END REGISTER MODAL -->
+
+<!-- BEGIN SOCIAL MODAL -->
+		<div id="social" class="modal litebox">
+			<div class="banner">Tell your friends</div>
+			<div class="login_form lb_outer lb_form">
+			<div class="lb_inner">
+			    <table>
+			        <tbody><tr><td align="center">Select services from the list:   </td></tr>
+			        <tr><td align="center"><div id="divConnect">           </div></td></tr>
+			        <tr><td align="center"><textarea cols="70" rows="4" disabled="disabled" id="social_pack_status_text" style="text-align:left; border-style:solid; border-width:1px; overflow:hidden"></textarea></td></tr>
+			        <tr>
+			            <td align="center">
+			                <input id="social_pack" type="hidden" name="social_pack" value="">
+			                <input id="social_item" type="hidden" name="social_item" value="">
+							<input id="social_submit" class="button red" type="button" name="social_submit" value="Set status">
+							<input id="social_cancel" class="button" type="button" name="social_cancel" value="Cancel">
+						</td>
+					</tr>
+					<tr><td class="message"></td></tr>
+			    </tbody></table>
+			</div>
+			<script type="text/javascript">
+                function submit_social_internal() {
+                    close_social();
+                    if ($j('#social_item').val())
+                    {
+                        statusText =  "I'm fine tuning my Pack of software recs: I just added {0} to it.  It's here: {1}. What do you think?"
+                                     .replace(/\{0\}/g, $j('#social_item').val())
+                                     .replace(/\{1\}/g, "http://www.radarsync.com/packs/p" + $j('#social_pack').val() + "-1");
+                    }
+                    else
+                    {
+                        statusText =  "Just made my very own Pack of my most recom apps. Go here {0} to download it or leave me a comment"
+                                     .replace(/\{0\}/g, "http://www.radarsync.com/packs/p" + $j('#social_pack').val() + "-1");
+                    }
+                    
+                    var params =
+                    {
+                        status: statusText
+                    };
+                    gigya.services.socialize.setStatus(conf, params);
+                }
+                
+                function social_set_status_text(pack_social, item)
+                {
+                    if (item)
+                    {
+                        $j('#social_pack_status_text').text(
+                            "I'm fine tuning my Pack of software recs: I just added {0} to it.  It's here: {1}. What do you think?"
+                            .replace(/\{0\}/g, item)
+                            .replace(/\{1\}/g, "http://www.radarsync.com/packs/p" + pack_social + "-1")
+                        );
+                    }
+                    else
+                    {
+                        $j('#social_pack_status_text').text(
+                            "Just made my very own Pack of my most recom apps. Go here {0} to download it or leave me a comment"
+                            .replace(/\{0\}/g, "http://www.radarsync.com/packs/p" + pack_social + "-1")
+                        );
+                    }
+                }
+                // show connect UI in "divConnect"   
+                gigya.services.socialize.showConnectUI(conf,{containerID:"divConnect"});   
+            </script>
+		</div>
+		<!-- END SOCIAL MODAL -->
+		
+        <!-- BEGIN DOWNLOAD TIP MODAL -->
+		<div id="download_tip" class="modal litebox">
+			<script type="text/javascript">
+			    function downloadRS() {
+			        closeDownloadTip();
+			        location.href = "http://www.radarsync.com/installers/radarsync.exe";
+                }
+			    function closeDownloadTip() {
+			        $j('#download_tip').animate({ top: css_to_hide_modal($j('#download_tip')) }, DRAWER_SPEED, function() {
+                     hide_shadowbox();
+                    });
+                }
+			</script>
+			<div class="banner">Download</div>
+			<div class="login_form lb_outer lb_form">
+			<div class="lb_inner">
+			
+			    <table style="font-size:12px">
+			        <tbody><tr><td align="left">The <b id="download_tip_driver_name"></b> driver is available for download using <a href="http://www.radarsync.com/installers/radarsync.exe">RadarSync PC Updater 2010</a>. This tool gives you access to over 1 million drivers and updates in 2 minutes. <a href="http://www.radarsync.com/installers/radarsync.exe">RadarSync PC Updater</a> is recommended by the leading PC magazines.
+
+
+</td></tr>		          
+
+
+
+			        <tr><td align="left"></td></tr>			       
+			        <tr><td align="center">&nbsp;</td></tr>
+			        <tr>
+			            <td align="center">
+							<input id="Button1" class="button red" type="button" value="Download Now" onclick="downloadRS()" style="width:300px; font-weight:bold">
+    						<input id="Button2" class="button" type="button" value="Cancel" onclick="closeDownloadTip()">					
+						</td>
+					</tr>
+			    </tbody></table>
+			</div>
+
+		</div>
+        <!-- END DOWNLOAD TIP MODAL -->
+<script type="text/javascript">
+    FB.init("2204877eef5f381ba2bf4ac18b3fca8d", "xd_receiver.htm");
+</script>
     
 
 <!-- start Vibrant Media IntelliTXT script section -->
@@ -320,4 +643,4 @@ Sys.Application.initialize();
 <!-- end Vibrant Media IntelliTXT script section -->
 
 
-</body></html>
+</div></div></body></html>
