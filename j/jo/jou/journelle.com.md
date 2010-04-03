@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journelle.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909154137id_/http%3A//www.journelle.com/privacy-policy/%29) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journelle.com privacy policy that was archived on 2010-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100403074401id_/http%3A//www.journelle.com/privacy-policy/%29) for the most accurate reproduction.*
 
 # Privacy Policy - ) - Elle Macpherson, Chantelle, La Perla, Huit, Princesse tam tam at Journelle
 
