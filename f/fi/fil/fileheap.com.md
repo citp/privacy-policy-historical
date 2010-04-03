@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileheap.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624164505id_/http%3A//www.fileheap.com/software/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileheap.com privacy policy that was archived on 2010-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100403080436id_/http%3A//www.fileheap.com/privacy.html) for the most accurate reproduction.*
 
 # FileHeap Privacy Policy - Download Freeware, Shareware, Demo, Game Software Files for Windows, Mac, Palm and Linux
 
