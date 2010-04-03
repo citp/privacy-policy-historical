@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the silvaco.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623202314id_/http%3A//www.silvaco.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silvaco.com privacy policy that was archived on 2010-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100403225612id_/http%3A//www.silvaco.com/privacy.html) for the most accurate reproduction.*
 
-# Silvaco - Privacy Statement
+# SILVACO - Privacy Statement
 
 **Privacy Statement**
 
