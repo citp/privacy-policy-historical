@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imagespacemedia.com privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031112705id_/http%3A//www.imagespacemedia.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagespacemedia.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404012751id_/http%3A//www.imagespacemedia.com/privacy.php) for the most accurate reproduction.*
 
-# Image Space Media | In-Picture Advertising
+# Image Space Media - Privacy Policy
 
 Image Space Media, Inc. ("Image Space Media") respects the privacy concerns of the users of its Website, www.imagespacemedia.com (the "Website"). Image Space Media thus provides this privacy statement to explain what information is gathered during a visit to the Website and how such information may be used. 
 
