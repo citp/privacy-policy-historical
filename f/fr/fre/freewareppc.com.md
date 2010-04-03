@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewareppc.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228175911id_/http%3A//www.freewareppc.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewareppc.com privacy policy that was archived on 2010-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100403082324id_/http%3A//www.freewareppc.com/privacy.shtml) for the most accurate reproduction.*
 
 # FreewarePPC.com - Freeware Pocket PC / Freeware Windows Mobile: Privacy Statement
 
