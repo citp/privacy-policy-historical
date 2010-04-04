@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krystal.co.uk privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203172156id_/http%3A//www.krystal.co.uk/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krystal.co.uk privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404081637id_/http%3A//www.krystal.co.uk/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for www.krystal.co.uk
 
@@ -16,16 +16,5 @@ Krystal Hosting is committed to protecting the privacy of our customers and visi
 
   * **Traditional Communication** We keep your postal address and telephone number on file that you provided on signup for personal verification and to pass onto our domain registrars should you register a new domain or transfer an existing domain to your account. 
 
-
-
-
-## Important Points
-
-  * Accordance with DPA
-  * Your Information is protected
-  * Data is never passed on to 3rd parties
-  * SSL encryption for data protection
-  * Visitors to the web site are logged
-  * Personal details used for verification
 
 
