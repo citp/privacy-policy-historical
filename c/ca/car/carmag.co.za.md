@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carmag.co.za privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115062532id_/http%3A//www.carmag.co.za/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carmag.co.za privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404053422id_/http%3A//www.carmag.co.za/page/privacy-policy) for the most accurate reproduction.*
 
 # CARmag.co.za - Privacy Policy
 
