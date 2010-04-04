@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2checkout.com privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112175730id_/https%3A//www.2checkout.com/documentation/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2checkout.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404075235id_/http%3A//www.2checkout.com/documentation/privacy.htm) for the most accurate reproduction.*
 
-# PRIVACY STATEMENT
+# 
 
 **PRIVACY STATEMENT**
 
@@ -16,7 +16,7 @@ The amount, type, and use of information we collect depends on how you use this 
 
 “Prospect Information” includes the same information as Personal Information except that Prospect Information is information that is submitted by an individual who is not the subject of the data submitted.
 
-“Non-Identifying Personal Information” includes information about you, including, without limitation, your Internet service provider, browser type, domain name, the Web Site that referred you to us, the web pages you request, the date and time of those requests, and entry and exit points.
+“Non-Identifying Personal Information”  includes information about you, including, without limitation, your Internet service provider, browser type, domain name, the Web Site that referred you to us, the web pages you request, the date and time of those requests, and entry and exit points.
 
 “Business Contact Information” includes the name, title, business address, or telephone number of an employee in an organization.  It also includes departmental e-mail addresses that contain no individually identifiable information.  Business Contact Information is not Personal Information.
 
@@ -42,7 +42,7 @@ We only collect, use, and disclose Personal Information or Prospect Information 
 
 We reserve the right to use or disclose Aggregated Information and Business Contact Information in ways that we think are appropriate.
 
-Periodically, we may send you information about our various products and services, or other products and services we feel may be of interest to you.  Only 2Checkout (or agents working on behalf of 2Checkout and under confidentiality agreements) will send you these direct mailings.  If you do not want receive such mailings, simply tell us when you give us your personal information.  Or, at any time you can easily opt-out of 2Checkout's marketing list or update your information by notifying us at [privacy@2co.com](mailto:privacy@2co.com). 
+Periodically, we may send you information about our various products and services, or other products and services we feel may be of interest to you.  Only 2Checkout (or agents working on behalf of 2Checkout and under confidentiality agreements) will send you these direct mailings.  If you do not want receive such mailings, simply tell us when you give us your personal information.  Or, at any time you can easily opt-out of 2Checkout's marketing list or update your information by notifying us at [ privacy@2co.com](mailto:privacy@2co.com). 
 
 _Agents_
 
@@ -60,21 +60,21 @@ _Protection of 2Checkout and Others_
 
 We may use or disclose Personal Information or Prospect Information _without_ your consent in certain circumstances:
 
-  * If we are required by law or by an order or requirement of a court, administrative agency, or other government entity, or by court rules concerning the production of records;
-  * If we have reasonable grounds to believe that use or disclosure is necessary to protect the 
+·         If we are required by law or by an order or requirement of a court, administrative agency, or other government entity, or by court rules concerning the production of records;
 
-
+·         If we have reasonable grounds to believe that use or disclosure is necessary to protect the 
 
 rights, privacy, property, or safety of our users or others;
 
 ·         If we have reasonable grounds to believe that the information relates to breach of an agreement or violation of the law that has been, is being, or is about to be committed;
 
-  * If it is necessary for fraud protection, risk reduction, or the establishment or collection of funds owed to us;
-  * If it is necessary to enforce or apply our Terms of Use and other agreements, to pursue remedies, or to limit damages to 2Checkout;
-  * If the information is public;
-  * For other reasons allowed or required by law.
+·         If it is necessary for fraud protection, risk reduction, or the establishment or collection of funds owed to us;
 
+·         If it is necessary to enforce or apply our Terms of Use and other agreements, to pursue remedies, or to limit damages to 2Checkout;
 
+·         If the information is public;
+
+·         For other reasons allowed or required by law.
 
 When we are required or permitted to disclose information without consent, we will not disclose more information than is necessary to fulfill the disclosure purpose. 
 
@@ -84,13 +84,13 @@ We will obtain your consent to the collection, use, and disclosure of that infor
 
 You may withdraw your consent at any time, subject to reasonable notice and legal or contractual obligations.  To withdraw your consent, simply tell us of the Personal Information that you no longer wish us to collect, use, or disclose through the Contact Information listed below.  However, we are unable to offer some services, like processing purchases, without Personal Information.   
 
-There are limited situations in which applicable laws require or allow us to collect, use, or disclose Personal Information without your consent or after you withdraw your consent.  We describe these situations under “Protection of 2Checkout and Others” in the section on Use of Personal Information or Prospect Information in this Privacy Statement.
+There are limited situations in which applicable laws require or allow us to collect, use, or disclose Personal Information without your consent or after you withdraw your consent.  We describe these situations under “Protection of 2Checkout and  Others” in the section on Use of Personal Information or Prospect Information in this Privacy Statement.
 
 **Retention and Access**
 
 We will take reasonable steps to keep Personal Information or Prospect Information accurate, complete, current, and relevant to its intended use.  We keep Personal Information or Prospect Information only as long as we need it for the reasons it was collected.  When Personal Information or Prospect Information is no longer required for our purposes, we have procedures to destroy, delete, or erase it or to convert it to an anonymous form.
 
-Any information that 2Checkout collects from visitors to this Web Site will be used, stored, or processed, in whole or in part, in the United States.  The principal place in which we hold Personal Information or Prospect Information is Hilliard, Ohio, U.S.A.  All purchases from this Web Site are made in the United States.    
+Any information that 2Checkout collects from visitors to this Web Site will be used, stored, or processed, in whole or in part, in the United States.  The principal place in which we hold Personal Information or Prospect Information is Hilliard, Ohio, U.S.A.  All purchases from this Web Site are made in the United States.   
 
 At your request, we will provide you with reasonable access to your Personal Information, so that you can review what we have stored and, if you choose, request corrections to it.  You may request access by writing to us at the address listed in the Contact Information below.  After you request access, we will provide the Personal Information that you request as soon as practically possible and generally no later than thirty days following the request.  If you wish to correct your Personal Information, please send us a written explanation of the particular information that you believe should be corrected.  Where information will not or cannot be disclosed, we will tell you the reasons for non-disclosure. 
 
@@ -106,17 +106,17 @@ When you click on a link on this Web Site that takes you to a web site operated 
 
 **Dispute Resolution**
 
-Please direct any questions or concerns regarding the use or disclosure of Personal Information or Prospect Information to us by using the Contact Information given below.  We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Privacy Statement.  For complaints that cannot be resolved, please use the BBB _OnLine_ Privacy Program’s dispute resolution process as described below.
+Please direct any questions or concerns regarding the use or disclosure of Personal Information or Prospect Information to us by using the Contact Information given below.  We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Privacy Statement.  For complaints that cannot be resolved, please use the  BBB _OnLine_ Privacy Program’s dispute resolution process as described below.
 
-**BBB _OnLine_ Privacy Program**
+**BBB _OnLine_** **Privacy Program**
 
-Your privacy is important to us.  By participating in the Council of Better Business Bureau’s BBB _OnLine_ Privacy Program we have made a commitment to meet the program’s strict requirements regarding how we treat your information and have it verified by BBB _OnLine_.  Further information about this program is available at [www.bbbonline.org](http://www.bbbonline.org/privacy/dr.asp "http://www.bbbonline.org/privacy/dr.asp").
+Your privacy is important to us.  By participating in the Council of Better Business Bureau’s  BBB _OnLine_ Privacy Program we have made a commitment to meet the program’s strict requirements regarding how we treat your information and have it verified by BBB _OnLine_.  Further information about this program is available at [ www.bbbonline.org](http://www.bbbonline.org/privacy/dr.asp "http://www.bbbonline.org/privacy/dr.asp").
 
-All BBB _OnLine_ Privacy Program participants are required to work with the program's dispute resolution process.  The Privacy Program will only accept complaints regarding the misuse of personally identifiable information by a website operator.  For more information about the Privacy Program dispute resolution process visit [www.bbbonline.org/privacy/dr.asp](http://www.bbbonline.org/privacy/dr.asp "http://www.bbbonline.org/privacy/dr.asp").
+All BBB _OnLine_ Privacy Program participants are required to work with the program's dispute resolution process.  The Privacy Program will only accept complaints regarding the misuse of personally identifiable information by a website operator.  For more information about the Privacy Program dispute resolution process visit [ www.bbbonline.org/privacy/dr.asp](http://www.bbbonline.org/privacy/dr.asp "http://www.bbbonline.org/privacy/dr.asp").
 
 **Contact Information**
 
-In the event of questions about access to your Personal Information or Prospect Information; our collection, use, management, or disclosure of Personal Information or Prospect Information; or this Privacy Statement, contact us at: 
+In the event of questions about access to your Personal Information or Prospect Information; our collection, use, management, or disclosure of Personal Information or Prospect Information; or this Privacy Statement,  contact us at: 
 
 Privacy@2co.com
 
@@ -124,7 +124,7 @@ Privacy Officer
 
 2Checkout.com, Inc.   
 1785 O'Brien Road   
-Columbus, OH 43228
+Columbus, OH 43228 
 
 USA
 
@@ -132,6 +132,4 @@ USA
 
 **Effective Date**
 
-This Privacy Statement is effective as of April 11, 2007. 
-
-_VERSION 1.2_
+This Privacy Statement is effective as of August 19, 2009. 
