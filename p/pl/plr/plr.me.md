@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plr.me privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522213230id_/http%3A//www.plr.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plr.me privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404082704id_/http%3A//www.plr.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PLR.me: Professional PLR Content - "Private Label Rights"
 
