@@ -1,72 +1,130 @@
-> *The following text is extracted and transformed from the bobevans.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110163508id_/https%3A//kids.bobevans.com/policies/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobevans.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404142420id_/http%3A//www.bobevans.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Welcome to BobEvans.com
+# Bob Evans - The home of homestyle | Privacy Policy
 
-|  | 
+BobEvans.com knows that you care about how your information is used and shared, which is why we have posted this Privacy Policy. Simply stated, the following Privacy Policy statement explains what information we collect from you, how we use that information and what choices you have with respect to that information.
 
-This privacy policy outlines the steps BobEvans.com has taken to protect the privacy of all our Kid Times visitors and to answer any questions you may have in regard to the privacy of your children while they are visiting the Kid Times portions of the BobEvans.com Web site.
+This Privacy Policy statement applies only to the information collected online in the general portions of the BobEvans.com Web site and any affiliated microsites that reference this policy. If you would like to review the privacy policy for the Kid Times portion of our Web site ([kids.bobevans.com](https://kids.bobevans.com/)) please [click here](https://kids.bobevans.com/).
 
-This privacy policy only applies to the information collected online at the Kid Times portions of the BobEvans.com Web site. If you would like to review the privacy policy for the general portions of the BobEvans.com Web site, please [click here](http://www.bobevans.com/website/homepage.nsf/ContentWrapper?ReadForm&DB=homepage.nsf/Pages/Legal+Statement+and+Privacy+Policy?OpenDocument).
+### TABLE OF CONTENTS
 
-**A Note to Parents:**
-
-Because many visitors to the Kid Times portion of our Web site may be children, we take care that our content is appropriate for children. In addition, we employ special measures to help children protect their privacy while online.
-
-**General Browsing:**
-
-BobEvans.com gathers navigational information about where you go on Kid Times. Additional non-personally identifiable information (for example, domain type, browser version, service provider, IP address) may also be collected, which will provide us with information about the use of Kid Times. For example, this information allows us to see which areas of Kid Times are most visited and helps us improve the quality of your online experience (i.e., by allowing us to deliver more of the most desired features and services).
-
-**Collection of Personally Identifiable Information:**
-
-The Birthday Club sign-up is the only place on the Kid Times portions of the BobEvans.com Web site where we collect personally identifiable information. When a parent signs their child(ren) up for the Bob Evans Kid Times Birthday Club, we collect the child's name, parent's name, parent's e-mail address, street address and relevant birth dates.
-
-If a visitor under the age of 13 attempts to sign up for the Bob Evans Kid Times Birthday Club, they will only be asked to provide their birth date and a parent's/guardian's e-mail address. BobEvans.com will then send the parent/guardian an e-mail notice and request that the parent/guardian complete a sign-up for their child. Before the child is registered and can receive the benefits of the Bob Evans Kid Times Birthday Club, the child's parent/guardian must consent to their child's registration by completing a Birthday Club registration form for their child. Whenever a parent/guardian completes the Birthday Club registration for their child, BobEvans.com will send the parent/guardian a confirmation e-mail notification.
-
-We respect the privacy of children, and do not and cannot collect any more personal information about children under 13 than is reasonably necessary to enable them to participate in the activities that we offer at the Kid Times portion of our Web site.
-
-The information provided by children under the age of 13 (birth date and parent's/guardian's e-mail address) is used only to send their parent/guardian an e-mail requesting the parent/guardian to consent to their child's registration by completing a Birthday Club registration form for their child. We do not retain any of the information (birth date and parent's/guardian's e-mail address) provided by children under the age of 13 after that e-mail is sent. In addition, if a parent signs their child up for the Kid Times Birthday Club, we respect a parent's right to have a child's information removed from the Birthday Club at any time. To do so, please send an e-mail to [birthdayclub@bobevans.com](mailto:birthdayclub@bobevans.com) with the child's name and address and your request for removal.
-
-For parents/guardians who have completed their child's Birthday Club registration, they can review the personally identifiable information that they provided about their child online by completing and mailing an Information Release Request, which can be downloaded and printed here (Information Release Request in PDF format) [infoRequest.pdf](https://web.archive.org/contact/dl.asp?option=request). Or, you may request that an Information Release Request form be mailed to you by e-mailing your request and address to [birthdayclub@bobevans.com](mailto:birthdayclub@bobevans.com). Please send your completed and signed Information Release Request form to:
-
-Bob Evans Kid Times   
-Marketing Department  
-3776 South High Street  
-Columbus, OH 43207  
+  * What Type of Information do we Collect?
+  * How do we use Personal Information Collected Online?
+  * What Information do we Share with or Disclose to Third Parties?
+  * Public Forums
+  * Update your Personal Information
+  * Opting Out of Bob Evans Email
+  * Cookies
+  * Privacy of Children on our Web Site
+  * Links to other Web Sites and Services
+  * Updates to this Privacy Policy
+  * Security
+  * Questions or Concerns
 
 
-**Use and Disclosure of Personal Information Collected Online:**
 
-The personal information collected on the Kid Times portions of the BobEvans.com Web site is used to administer the Bob Evans Kid Times Birthday Club. For example, we collect birth dates to insure that no one under 13 is attempting to register without parental consent and to confirm eligibility for the Kid Times Birthday Club. Only children 12 and younger can participate in the Birthday Club. Once a child reaches the age of 13, their account is inactivated. Street address is collected so Bob Evans can send a birthday card to the child each year until they reach 12 years of age, and a coupon for a free kids' meal at Bob Evans. During the process of signing up, the city, state, and zip code information will be checked to be sure they correspond with one another to help ensure accuracy.
+### What Type of Information do we Collect?
 
-During the registration process, parents may uncheck the box that would result in adding their e-mail address to the BobEvans.com e-mail list. Unless a parent elects not to have their e-mail address added to this list, BobEvans.com will use this information to send the parents messages about future special Bob Evans offers. If a parent later decides that they no longer wish to receive Bob Evans marketing materials, they can use the unsubscribe feature located on the Bob Evans e-mails or send an e-mail to [birthdayclub@bobevans.com](mailto:birthdayclub@bobevans.com) with their e-mail address and request for removal.
+We gather information through two means – navigational information gathered when you visit our Web site and personal information that you provide to us. Generally, the information we collect online helps us respond to your requests, deliver requested services to or for you, and personalize and continually improve your experience at BobEvans.com.
 
-We may use third parties to help us provide services to you and your children, such as administering e-mails and processing the Birthday Club mailings. If personally identifiable information (i.e. name, address, e-mail address) is provided to any of these third parties, we will require that such information be maintained by them in confidence and used only for the purpose it is provided.
+   1\. Navigational Information:  
+      When visiting our Web site, BobEvans.com gathers navigational information about where visitors go on our Web site and how our site is working. This information allows us to see which areas of our Web site are most visited and the efficiencies of our site for our visitors. We can thus improve the quality of our visitors’ experience by recognizing and delivering more of the features, services and products our visitors prefer. Additional non-personally identifiable information (for example, domain type, browser version, service provider, and IP address) may be collected, which provides additional information regarding a visitor’s use of our Web site. BobEvans.com uses this information on an aggregate basis to evaluate the effectiveness of our Web site, to analyze trends and to administer the Web site.
 
-You should be aware that we may disclose specific information about you if necessary to do so by law or based on our good faith belief that it is necessary to conform or comply with the law or is necessary to protect the users of our Web site, the site, or the public.
+   2\. Personal Information:  
+      BobEvans.com may ask you to provide personal information when you establish or update an e-mail account, sign up to receive e-mails or other marketing materials from BobEvans.com, make a gift card purchase, submit a video or a photograph, submit a corporate giving request, send a recipe to a friend, submit a real estate inquiry, request investor information or create a stockholder account, contact us, participate in a contest, complete an employment application, or utilize any other feature where BobEvans.com may need to reply to your activity. 
 
-**Cookies:**
+      The personal information we collect may include name, postal address, e-mail address, telephone number, recipient’s name and address, order information, credit card information, and any other information you choose to provide. If you submit an employment application the information you submit may also include a resume, the type of position you are seeking, your educational background, work experience, salary requirements, and any other information you choose to provide.
 
-BobEvans.com uses a browser feature known as a cookie, which assigns a unique identification to your computer. The cookies are typically stored on your computer's hard drive and used by BobEvans.com to help track your clicks as you navigate through the pages within the Kid Times portion of our Web site. 
+Back to Top
 
-**Links:**
+### How do we use Personal Information Collected Online?
 
-For your convenience and enjoyment, the Kid Times portions of the BobEvans.com Web site may contain links to other Web sites. BobEvans.com does not disclose any information received by BobEvans.com to these other Web sites. We do not evaluate and are not responsible for the privacy practices or content of such Web sites. We would urge you to review the privacy policies on each link to ensure you are comfortable with their policies and practices. In addition, none of the links that appear on the Kid Times portion of the BobEvans.com Web site should be deemed to imply that BobEvans.com endorses or has any affiliation with the linked Web sites.
+BobEvans.com may use the personal information we collect from you for the following purposes:
 
-**Changes in Policy:**
+  * to send information about our products, events, promotions, contests, and recipes;
+  * to respond to your inquiries;
+  * to develop our products, services, Web site and affiliated microsites;
+  * to tailor your experience on our Web site or affiliated microsites and the information sent through e-mail to your interests;
+  * to deliver gift cards that you have ordered, fulfill requests that you have submitted, and respond to a request for a corporate gift;
+  * to fulfill your request to send recipes or other information to another party. Recipient information will only be used for purposes of fulfilling your request. BobEvans.com does not retain or review any personally identifiable information that you may provide when submitting such a request, but in the event of delivery failure we may contact you or the recipient;
+  * to post photographs and videos you submit to the Web site;
+  * to provide you with the location information you request. BobEvans.com also uses the information provided through locator services on an aggregate basis to analyze trends and help us determine what store or product information is most frequently accessed by our visitors; and
+  * to evaluate your employment application. If you elect to complete an employment application through our Web site, any information that you provide to us is only used to enable Bob Evans Farms, Inc. to consider your interest in employment with Bob Evans and, if hired, for employment and business-related purposes.
 
-For children under the age of 13 for whom parents have given consent, BobEvans.com will send a new notice and request for parental consent if there are material changes in the collection, use or disclosure practices affecting children under the age of 13. Otherwise, if elements of our Privacy Policy materially change, we will post the policy changes in our Kid Times Privacy Policy on this Web site. If you are concerned about how your personal information is used, please visit our Web site often for this and other important announcements from BobEvans.com.
 
-**Questions:**
 
-If you have any questions or concerns with respect to our Kid Times Privacy Policy, please contact us at:
+Back to Top
 
-Bob Evans Kid Times   
-Marketing Department  
-3776 South High Street  
-Columbus, OH 43207
+### What Information do we Share with or Disclose to Third Parties
 
-[birthdayclub@bobevans.com](mailto:birthdayclub@bobevans.com)
+We use third parties to help us provide services to you, such as fulfilling online gift card orders, providing electronic online investor information, processing payments, monitoring site activity, conducting surveys, providing location information, and administering e-mails or contests that may occasionally be offered at this Web site or affiliated microsites. If personally identifiable information (i.e., name, address, e-mail address, telephone number) is provided by us or by you directly to any of these third parties, we will require that such information be maintained by them in confidence. Information you provide directly to our third party service provider for electronic online investor information may be shared with us. In the future we may share information with companies in whom we own an interest, for example, Mimi’s Café and Owens Foods.
 
-1-800-272-7675 (Ext. 4413) 
+As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any preexisting Privacy Policy (unless, of course, the customer consents otherwise). If Bob Evans Farms, Inc., or substantially all of its assets were ever acquired, customer information will of course be one of the transferred assets. Otherwise, BobEvans.com does not sell, rent, or trade the information that you provide to us at this Web site.
 
-|  | 
+You should also be aware that we may disclose specific information about you if necessary to do so by law or based on our good faith belief that it is necessary to conform or comply with the law or is necessary to protect the users of our Web site, the site or the public.
+
+Back to Top
+
+### Public Forums
+
+BobEvans.com or microsites operated or provided by Bob Evans Farms, Inc. or any of its affiliates may make forums available to its users at various times or the ability for users of the website or microsite to upload photographs or videos. Please remember that, unless otherwise stated, any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information in these areas (including uploading photos and videos into these areas that contain your image). Bob Evans has specific terms in its Site Use Terms and Conditions and may also have specific Requirements and Terms for these features and you must agree to comply with all of these terms and requirements prior to your initial use of and uploading to these public forums.
+
+Back to Top
+
+### Update your Personal Information
+
+We prefer to keep your personal information accurate and up to date. To do this, we provide you with the opportunity to update or modify your BE-mail account by logging in to your account using your password via <http://www.bobevans.com/bemail>.
+
+Back to Top
+
+### Opting Out of Bob Evans Email
+
+If you previously signed up to receive Bob Evans marketing materials via e-mail but would now like to be removed from the Bob Evans e-mail marketing list, you can use the “unsubscribe” feature on our e-mails, send your request to [customer_support@bobevans.com](mailto:customer_support@bobevans.com), or change your e-mail account preferences by visiting http://www.bobevans.com/bemail. Please be aware, even if you do not “opt-in” to, or subsequently ask to be removed from, the BobEvans.com e-mail marketing list, you may still receive e-mail confirmations for any gift card purchases made on our Web site. In addition, please be aware that if you sign up to receive Bob Evans Kid Times e-mails on the Kid Times portion of our Web site ([kids.bobevans.com](https://kids.bobevans.com/)), asking to be removed from the BobEvans.com e-mail marketing list will not remove you from the Bob Evans Kid Times e-mail list. For information on how to remove yourself from that list, please visit the privacy policy for the Kid Times portion of our Web site by [clicking here](https://kids.bobevans.com/).
+
+Back to Top
+
+### Cookies
+
+BobEvans.com does not currently, but may in the future, use a browser feature known as a cookie, which assigns a unique identification to your computer. Cookies are typically stored on your computer’s hard drive and allow a Web site to be more responsive to your needs, while delivering a better and more personalized experience to you. Please also be aware that some of the third party service providers that we use on this Web site to help us provide services to you (for example, the store locator) may use cookies.
+
+Most browsers allow the user to limit the use of cookies. However, if you block the use of cookies from our Web site you may not be able to utilize certain features of our Web site.
+
+Back to Top
+
+### Privacy of Children on our Web Site
+
+To ensure compliance with federal law, the general portions of BobEvans.com and any microsites operated or provided by Bob Evans Farms, Inc. or any of its affiliates that reference this policy do not knowingly collect or maintain information provided by children under the age of 13. If you would like to review the privacy policy for the Kid Times portion of our Web site ([kids.bobevans.com](https://kids.bobevans.com/)), please [click here](https://kids.bobevans.com/).
+
+Back to Top
+
+### Links to other Web Sites and Services
+
+For your convenience, our Web site may contain links to other Web sites. BobEvans.com is not responsible for the privacy practices, advertising, products, or the content of such Web sites. We urge you to review the privacy policies on each link to ensure that you are comfortable with their privacy policies and practices. In addition, none of the linked Web sites that appear on the BobEvans.com Web site should be deemed to imply that BobEvans.com endorses or has any affiliation with such Web sites.
+
+Back to Top
+
+### Updates to this Privacy Policy
+
+As we continue to offer you new and different types of content and services, BobEvans.com may modify our information collection and use practices. Should there be a material change to our information practices, it will be applied only to information collected on a going forward basis, and we will update this Privacy Policy statement. If you are concerned about how your personal information is used, please visit our Web site for this and other important announcements from BobEvans.com.
+
+Back to Top
+
+### Security
+
+We accept online applications, resumes and gift card orders only from Web browsers that permit communication through Secure Socket Layer (SSL) technology. For example, 3.0 versions or higher of Netscape Navigator and versions of 3.02 or higher of Internet Explorer. This means you’ll be unable to inadvertently submit an online application or resume or place an order through an unsecured connection. Please be aware, however, that any information sent through the Contact Us feature on this Web site is not sent through an encrypted or secured connection.
+
+As an additional security measure, it is our policy to never send credit card information via e-mail. In addition, BobEvans.com limits the number of employees that have access to the databases that contain personal information, and all BobEvans.com employees are advised of the importance of confidentiality.
+
+Back to Top
+
+### Questions or Concerns
+
+If you have any questions or concerns regarding our privacy practices, please contact us at [customer_support@bobevans.com](mailto:customer_support@bobevans.com).
+
+3776 S. High Street  
+Columbus, Ohio 43207  
+(800) 272-7675
+
+Policy Effective: January 8, 2009.
+
+Back to Top
