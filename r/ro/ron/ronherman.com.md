@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ronherman.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101135026id_/http%3A//www.ronherman.com/content/4/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ronherman.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404082814id_/https%3A//www.ronherman.com/content/4/privacy-security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
