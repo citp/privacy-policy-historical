@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the westfield.com privacy policy that was archived on 2009-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091029121453id_/http%3A//westfield.com/uscentres/site/yourprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westfield.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404033953id_/http%3A//westfield.com/uscentres/site/yourprivacy) for the most accurate reproduction.*
 
-# Westfield - Your Privacy
+# Westfield Shopping Centers - United States - Your Privacy
 
  
 
