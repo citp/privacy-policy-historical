@@ -1,0 +1,1377 @@
+<!--The following is the downloaded HTML source of the tennisearth.com privacy policy that was archived on 2010-04-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100404171500id_/http%3A//www.tennisearth.com/privacyPolicy.htm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class=" webkit chrome linux js"><head>
+		<title>Welcome to TennisEarth.com - Privacy Policy</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta http-equiv="Date" content="Tue, 16 Feb 2010 17:01:36 GMT">
+		<meta content="Copyright 2009 TennisEarth.com" name="copyright">
+		<meta content="TennisEarth.com - TennisEarth.com takes your privacy seriously. Read our Privacy Policy." name="description">
+		<meta content="privacy policy" name="keywords">
+		
+		 
+
+		<link href="/includes_new/common.css?v=4" rel="stylesheet" type="text/css">
+		<script>
+			// To have global access to some config params in JS
+			var TE_HOME = 'http://www.tennisearth.com';
+			var TE_HOME_HTTPS = 'https://www.tennisearth.com';
+			var FB_APP_KEY = '0485ae38b4d276f72bd14cd1a16dd3d0';
+			var LOGIN_MODAL_MAX_CLICKS = '5'; 
+
+				var fbHTTP = true;
+
+			
+			function facebook_onlogin() {
+				FB.Connect.ifUserConnected("/facebookLogin.htm?destination=" + encodeURIComponent(getLoginDestination()), null);
+			}
+		</script>
+		<script type="text/javascript" language="javascript" src="/scripts_new/jquery.min.js"></script>
+		<script type="text/javascript" language="javascript" src="/scripts_new/jquery.tabs.pack.js"></script>
+		<script type="text/javascript" language="javascript" src="/scripts_new/jquery.newsScroll.js"></script>
+		<script type="text/javascript" language="javascript" src="/scripts_new/thickbox.js?v=2"></script>
+		<script type="text/javascript" language="javascript" src="/scripts_new/jquery-main.js?v=2"></script>
+		<script type="text/javascript" language="javascript" src="/user_new/scripts/register.js?v=2"></script>
+		
+		
+		
+		
+		
+	</head>
+	<body>
+	 
+	
+	
+
+	<!-- Main PART OF BODY CONTENT -->
+	
+		
+		
+			<script language="JavaScript">
+				<!--
+				if(screen.width <= 1200) {
+					document.write('<div id="ciMainContainer">');
+				} else {
+
+			document.write('<div id="wrapper-highres">');
+			document.write('<div id="ciMainContainer-highres">');
+
+				}
+				//-->
+			</script><div id="ciMainContainer">
+		
+	
+	<div id="ciHomeMastContainer">
+		
+			<!-- top logo -->
+			<div id="ciHomeLogoholder">
+				<a id="link" href="http://www.tennisearth.com" title="TennisEarth"></a>
+				<!-- Top Right Menus start -->
+				<div id="dock">
+					<ul class="dock">
+						<li id="logout" style="display:none;"><a href="javascript:signOut()" title="Log Out">LOG OUT</a></li>
+						<li id="login" style="display: inline;">
+							<a href="#" class="signin" title="Sign In">LOG IN&nbsp;<span id="menudropArrow">&nbsp;&nbsp;&nbsp;</span></a>
+							<!-- Sign In Form div start -->
+							<fieldset id="signinform">
+								<a href="#" class="signin" alt="Close" title="Close" id="signinform-close"><span style="font-size: 10px; color: #000; font-weight: bold; text-align:right;">X</span></a>
+								<form method="post" id="signin" action="https://www.tennisearth.com/user/login.htm" onsubmit="return validateLoginForm(this);">
+									<input type="hidden" name="headerLogin" value="true">
+									<input type="hidden" name="showLoginFromLink" value="false">
+									<label for="loginEmail">Email Id</label>
+									<input id="loginEmail" name="loginEmail" title="Email" tabindex="4" type="text">
+									<div id="loginEmailError" style="color:#f8081e;"></div>
+									<label for="loginPassword">Password</label>
+									<input id="loginPassword" name="loginPassword" title="Password" tabindex="5" type="password">
+									<div id="loginPasswordError" style="color:#f8081e;"></div>
+									<div style="font-size:9px;color:#666;text-align:justify;padding:2px;margin-bottom:5px;">
+										<input id="keepMeSignedIn" name="keepMeSignedIn" tabindex="7" type="checkbox" value="true" onclick="setRMPref()">
+										<label for="keepMeSignedIn" style="font-weight:bold;">Remember Me</label>
+										<span style="display:block;font-weight:normal;">Do not check this box on public/shared computer.</span>
+									</div>
+									<table width="200" border="0" cellspacing="2" cellpadding="0">
+									<tbody><tr>
+										<td align="left"><input id="signin_submit" value="Sign in" tabindex="6" type="submit"></td>
+										<td align="left"><input id="signin_submit" value="Cancel" tabindex="6" type="button" class="signin"></td>
+										<td align="left"><fb:login-button size="medium" onlogin="facebook_onlogin()" style="vertical-align:top;">Connect</fb:login-button></td>
+									</tr>
+									</tbody></table>
+									<p class="forgot" style="font-size:9px;margin-top:2px;"><a style="cursor:pointer;" id="resend_password_link"><strong>Forgot your password?</strong></a></p>
+									  
+      								<hr style="color:#209dec;">
+									<label>Don’t have an account yet? Create one now! Its <b>FREE</b> and takes less than 30 seconds to create.</label>&nbsp;&nbsp;
+									<center><input id="signup_submit" value="CREATE FREE ACCOUNT" tabindex="9" type="button" style="margin-top:5px;display:block;"></center>
+									<script>
+										$('#resend_password_link').live('click', function() {
+											location.href = 'https://www.tennisearth.com/user/forgotPassword.htm?destination=' + encodeURIComponent(getLogoutDestination());
+										});
+										
+										$('#signup_submit').live('click', function() {
+											location.href = 'https://www.tennisearth.com/user/registration.htm?destination=' + encodeURIComponent(getLoginDestination());
+										});
+									</script>
+      							</form>
+	 						</fieldset>
+							<!-- Sign In Form div end -->
+						</li>
+						<li id="signup" style="display: inline;"><a id="signin_registration" title="Sign Up" style="cursor:pointer;color:#fff">SIGN UP</a></li>
+						<script>
+							$('#signin_registration').live('click', function() {
+								location.href = 'https://www.tennisearth.com/user/registration.htm?destination=' + encodeURIComponent(getLoginDestination());
+							});
+						</script>
+						<li>
+							<a href="#" class="dropdown addwidget">ADD WIDGETS&nbsp;<span id="menudropArrow">&nbsp;&nbsp;&nbsp;</span></a>
+							<!-- Add Widget div -->
+							<fieldset id="addwidgetform">
+								<div id="wlpeReminder"><a href="#" class="addwidget" alt="Close" title="Close" id="addwidgetform-close"><span style="font-size:10px;color:#000;font-weight:bold;">X</span></a></div><br>
+								<span>&nbsp;&nbsp;&nbsp;</span>
+								<a href="http://apps.facebook.com/tennislive/">
+								<span class="facebook">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a>
+								<a href="http://www.google.com/ig/adde?moduleurl=www.tennisearth.com/publicWidgets/TennisScoresGG.xml&amp;source=imag"><span class="igoogle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a><a href="http://www.orkut.co.in/Main#Application.aspx?appId=624046689593"><span class="orkut">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a>
+								<a href="#" class="dropdown addmewidget"><span class="addme">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a>
+								<fieldset id="addmewidgetform" style="display:none;">
+									<a href="#" class="addmewidget" alt="Close" title="Close" id="addmewidgetform-close"><span style="font-size: 10px; color: #000; font-weight: bold;">X</span></a>
+									<span style="font:bold 10px verdana; color:#990033;padding-left:0;">Copy &amp; Paste below code to add this Widget:<br>
+										<textarea name="addcode" rows="4" style="width:95%;border:1px dotted #990000;background-color:lightyellow;font:bold 10px verdana; color:#000000;">&lt;iframe frameborder="0" height="500" id="3" width="370" name="3" src='http://www.tennisearth.com/publicWidgets/index.htm'&gt;&lt;/iframe&gt;</textarea>
+									</span>
+	    						</fieldset>
+    						</fieldset>
+							<!-- Add Widget div end -->
+						</li>
+						<li>
+							<a href="#" class="dropdown newsletter" title="Newsletter Subscription">NEWSLETTER&nbsp;<span id="menudropArrow">&nbsp;&nbsp;&nbsp;</span>&nbsp;&nbsp;</a>
+							<!-- Newsletter Subscribe div -->
+    						<fieldset id="newsletterform">
+								<a href="#" class="newsletter" alt="Close" title="Close" id="newsletterform-close"><span style="font-size: 11px; color: #000; font-weight: bold;">X</span></a>
+    							<form method="post" id="newsletter" action="/newsletter/registration.htm" onsubmit="validateNewsletterForm();return false;">
+	      							<label for="newsletterEmail">Your Email</label>
+	      							<input id="newsletterEmail" name="newsletterEmail" value="" title="Email" tabindex="4" type="text">
+	      							<div id="newsletterEmailError" style="color:#f8081e;"></div>
+									<input id="newsletter_submit" value="Subscribe" tabindex="6" type="submit"><br>
+		  							<input type="checkbox" id="policyAccept" name="policyAccept"><span style="font-size: 11px; color: #666; font-weight: normal;">I accept Tennisearth.com's </span>
+		  							<p class="forgot" style="margin-left:-4px;"> <a href="http://www.tennisearth.com/privacyPolicy.htm">Privacy Policy</a></p>
+									<div id="newsletterPolicyError" style="color:#f8081e;"></div>
+									<div id="newsletterMessage" style="color:#f8081e;"></div>
+      							</form>
+							</fieldset>
+							<!-- Newsletter Subscribe div end -->
+						</li>
+					</ul>
+				</div>
+				<!-- Clock div start -->
+				<div class="clockbox" style="display:none;">
+					<span id="clock" class="clock"></span>&nbsp;<span id="timeZone" class="clock"><span style="font-family:Tahoma;font-size:10px;color:#fff">CUT</span></span>
+				</div>
+				<script>
+					$('#timeZone').html('<span style="font-family:Tahoma;font-size:10px;color:#fff">'+getTimeZoneAbbreviation('1270401299877')+'</span>');
+				</script>
+				<!-- Clock div end -->
+				<div class="welcomemsg" style="display: none;">
+					<div id="welcome" style="width:auto;height:10px;float:right;display:none;padding-right:5px;"></div>
+				</div>
+				<div class="searchbox" style="float:right;">
+					<form action="http://www.tennisearth.com/search.htm" id="cse-search-box">
+						<div>
+							<input type="hidden" name="cx" value="001778508179079625375:qbrpoobrcza">
+							<input type="hidden" name="cof" value="FORID:11">
+							<input type="hidden" name="ie" value="UTF-8">
+							<input type="text" name="q" size="30" class="inputsearch">
+            				<img src="/images_new/magnifier.png" alt="Search" border="0" onclick="javascript:$('#cse-search-box').submit();" class="buttonsearch">
+						</div>
+					</form>
+					<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+				</div>
+			</div>
+			<!-- top navigation start--> 
+			<div class="topnavlinks">
+				<a href="http://www.tennisearth.com" style="float:left;margin-left:8px;margin-top:3px;" class="tooltip"><img src="/images_new/home-ico.png" alt="" border="0" class="tooltip"></a>
+				<ul class="dropdown">
+					<li id="news">
+						<a href="http://www.tennisearth.com/news/tennisLatestNews.htm" style="color:#fff">NEWS&nbsp;<span id="menudropArrow">&nbsp;&nbsp;&nbsp;</span></a>
+		        		<ul class="sub_menu" id="news_sub">
+		        			<li><a href="http://www.tennisearth.com/news/tennisLatestNews.htm">Latest</a></li>
+		        			<li><a href="http://www.tennisearth.com/news/tennisMostReadNews.htm">Most Read</a></li>
+							<li><a href="http://www.tennisearth.com/twitter/tweets.htm">Tweets</a></li>
+		        			<li><a href="http://www.tennisearth.com/quote/quote.htm">Quotes</a></li>
+		        		</ul>
+		        	</li>
+					<li id="miamiOpen">
+						<a href="http://www.tennisearth.com/tournament/Sony-Ericsson-Open-103.htm" style="color:#fff">MIAMI OPEN&nbsp;</a>
+		        	 
+		        	</li>
+		        	<!-- li id="ausOpen">
+		        		<a href="http://www.tennisearth.com/Australian-Open-2010.htm" style="color:#fff">AUS OPEN&nbsp;</a>
+		        	</li-->
+					<li id="commentary">
+						
+						
+							
+								
+							
+							
+						
+						<a href="http://www.tennisearth.com/liveCommentary/liveMatch.htm" style="color:#fff">LIVE COMMENTARY&nbsp;<span id="menudropArrow">&nbsp;&nbsp;&nbsp;</span></a>
+						<ul class="sub_menu" id="commentary_sub">
+							<li><a href="http://www.tennisearth.com/liveCommentary/liveMatch.htm">Latest</a></li>
+							
+								
+									<li><a href="http://www.tennisearth.com/liveCommentary/tournaments/2010-Sony-Ericsson-Open-1227.htm">Miami FL</a></li>
+								
+							
+							<li><a href="http://www.tennisearth.com/liveCommentary/allMatches.htm">Last 10 Days</a></li>
+						</ul>
+					</li>
+					<li id="scores">
+						<a href="http://www.tennisearth.com/liveScores/todaysAllMatches.htm" style="color:#fff">SCORES&nbsp;<span id="menudropArrow">&nbsp;&nbsp;&nbsp;</span></a>
+						<ul class="sub_menu" id="scores_sub">
+							<li><a href="http://www.tennisearth.com/liveScores/todaysAllMatches.htm">All</a></li>
+							<li><a href="http://www.tennisearth.com/liveScores/todaysFinishedMatches.htm">Finished</a></li>
+							<li><a href="http://www.tennisearth.com/liveScores/todaysLiveMatches.htm">Live</a></li>
+							<li><a href="http://www.tennisearth.com/liveScores/todaysScheduledMatches.htm">Scheduled</a></li>
+							
+								
+									<li><a href="http://www.tennisearth.com/liveScores/tournaments/2010-Sony-Ericsson-Open-1227.htm">Miami FL</a></li>
+								
+							
+						</ul> 
+					</li>
+					<li id="tournaments">
+						<a href="http://www.tennisearth.com/tournaments/eventCalendar.htm" style="color:#fff">TOURNAMENTS&nbsp;<span id="menudropArrow">&nbsp;&nbsp;&nbsp;</span></a>
+		        		<ul class="sub_menu" id="tournaments_sub">
+		        			<li><a href="http://www.tennisearth.com/tournaments/eventCalendar.htm">Latest</a></li>
+		        			<li><a href="http://www.tennisearth.com/tournaments/search/year/2010/type/male">Men's Calendar</a></li>
+		        			<li><a href="http://www.tennisearth.com/tournaments/search/year/2010/type/female">Women's Calendar</a></li>
+		        		</ul>
+		        	</li>
+					<li id="rankings">
+						<a href="http://www.tennisearth.com/rankings/tennisAllRankings.htm" style="color:#fff">RANKINGS&nbsp;<span id="menudropArrow">&nbsp;&nbsp;&nbsp;</span></a>
+						<ul class="sub_menu" id="rankings_sub">
+							<li>
+								<a href="http://www.tennisearth.com/rankings/tennisAllRankings.htm">All</a>
+								<!-- ul>
+		        					<li><a href="#">Batter's Box Templates</a></li>
+		        					<li><a href="#">Dryline Markers</a></li>
+		        					<li><a href="#">Field Paint</a></li>
+		        					<li><a href="#">Field Sprayers</a></li>
+		        					<li><a href="#">Stencils</a></li>
+	        					</ul-->
+							</li>
+		        			<li><a href="http://www.tennisearth.com/rankings/tennisRankings/atp.htm">ATP</a></li>
+		        			<li><a href="http://www.tennisearth.com/rankings/tennisRankings/wta.htm">WTA</a></li>
+		        		</ul>
+        			</li>
+					<li id="ratings">
+						<a href="http://www.tennisearth.com/teratings/leaderBoard.htm" style="color:#fff">TE RATING&nbsp;<span id="menudropArrow">&nbsp;&nbsp;&nbsp;</span></a>
+        				<ul class="sub_menu" id="ratings_sub">
+		        			<li><a href="http://www.tennisearth.com/teratings/leaderBoard.htm">Leader Board</a></li>
+		        			<li><a href="http://www.tennisearth.com/teratings/myRanking.htm" class="requireLogin">My Ranking</a></li>
+		        			<li><a href="http://www.tennisearth.com/teratings/myPoints.htm" class="requireLogin">My Points</a></li>
+							<li><a href="http://www.tennisearth.com/teratings/submitMatchScores.htm" class="requireLogin">Submit Scores</a></li>
+							<li><a href="http://www.tennisearth.com/teratings/unverifiedMatches.htm" class="requireLogin">Unverified Matches</a></li>
+							<li><a href="http://www.tennisearth.com/teratings/groupRanking.htm" class="requireLogin">Group Ranking</a></li>
+							<li><a href="http://www.tennisearth.com/teratings/myDetails.htm">Details</a></li>
+		        		</ul>
+		        	</li>
+		        	<li id="clubs">
+						<a href="http://www.tennisearth.com/clubs/search.htm" style="color:#fff">CLUBS&nbsp;<span class="newArrivalico">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span id="menudropArrow">&nbsp;&nbsp;&nbsp;</span></a>
+		        		<ul class="sub_menu" id="clubs_sub">
+		        			<li><a href="http://www.tennisearth.com/clubs/search.htm">Search</a></li>
+		        			<li><a href="http://www.tennisearth.com/clubs/suggest.htm" class="requireLogin">Suggest</a></li>
+		        			<li><a href="http://www.tennisearth.com/clubs/myClubs.htm" class="requireLogin">My Clubs</a></li>
+		        		</ul>
+		        	</li>
+		        	<li id="forum">
+		        		<a href="http://www.tennisearth.com/teforum/forums/list.htm" style="color:#fff">FORUM&nbsp;<span id="menudropArrow">&nbsp;&nbsp;&nbsp;</span></a>
+		        		<ul class="sub_menu" id="forum_sub">
+		        			<li><a href="http://www.tennisearth.com/teforum/forums/show/3.htm">Tennis Discussion</a></li>
+		        			<li><a href="http://www.tennisearth.com/teforum/forums/show/4.htm">Non-Tennis Discussion</a></li>
+		        		</ul>
+		        	</li>
+		        	<li id="funZone">
+						<a href="http://www.tennisearth.com/games/gamesList.htm" style="color:#fff">FUN ZONE&nbsp;<span id="menudropArrow">&nbsp;&nbsp;&nbsp;</span></a>
+		        		<ul class="sub_menu" id="funZone_sub">
+		        			<li><a href="http://www.tennisearth.com/games/gamesList.htm">Tennis Games</a></li>
+		        		</ul>
+		        	</li>
+					<li id="profile" style="display:none;">
+						<a href="https://www.tennisearth.com/user/myProfile.htm" style="color:#fff" class="last_link">MY PROFILE&nbsp;<span id="menudropArrow" class="tooltip">&nbsp;&nbsp;&nbsp;</span></a>
+						<ul class="sub_menu" id="profile_sub">
+		        			<li><a href="https://www.tennisearth.com/user/myProfile.htm">Profile</a></li>
+		        			<li><a href="http://www.tennisearth.com/comments/getUserComments.htm?viewType=1">My Posts</a></li>
+		        			
+		        		</ul>
+					</li>
+    			</ul>
+				<a href="http://www.tennisearth.com/tennisStore.htm" id="storeicon" class="tooltip"><img src="/images_new/store-ico.png" alt="" border="0" class="tooltip"></a>
+			</div>
+		</div>
+		
+		<script>
+			showUserLoggedIn(15);
+		</script>
+		
+
+<div id="ciHomeContent">
+<!-- START 650 AREA -->
+<div id="ciHomeContentlhs">
+<!-- START 650 AREA -->
+
+<div class="pnl650T"></div>
+<div class="pnl650M">
+	<div style="FLOAT: left; WIDTH: 640px; _width: 640px; padding-left:7px;">
+		<h1 class="ciGblSectionHead">TennisEarth.com Privacy Policy</h1>
+  </div>
+	<div class="divSeparator-blue"></div>
+  
+  <p class="paragraph">
+  TennisEarth.com takes your privacy seriously. Please read the following to learn more about our privacy policy.
+<br><br>
+<span class="mainhead">1. Our Policy</span><br>
+We are committed to safeguarding and protecting the private information of every person who visits our website. Our Privacy Policy has been set out to let you know exactly what type of information we collect when you make use of the services on our website and why we collect it. We will also let you know what we do with that information once it has been collected.<br><br>
+<span class="mainhead">2. The type of information collected</span><br>
+Any information which can be used to identify an individual is considered by us to be Personal Information. This data will include, but is not limited to:<br><br>
+2.1 Personal information about yourself such as - first and last names, date of birth, physical and email addresses, contact telephone numbers, shipping addresses, billing addresses, credit and/or debit card information.<br>
+<br>
+2.2 Information relating to your transaction history with us such any purchases you may make or our goods or services.<br>
+<br>
+2.3 Information about your computer which is held by us on our servers which are based in the UK and occasionally elsewhere. This information will include details about your visits to and use of this website such as your IP address, geographical location, browser type, referral source, time and date of access, length and visit and number of pages viewed.<br>
+<br>
+<span class="mainhead">3. Cookies</span><br>
+Cookies are small text files of information sent by a web server to a web browser that are stored on your computer or equipment when you visit certain online pages. The information is sent back to the server every time a browser requests a page from the server. We use cookies to track use of our website. We also may use cookies to monitor traffic to the site, improve our service and make it easier and/or more relevant for your use.
+<br><br>
+We may use different types of cookies on the website.
+<br>
+A <strong>'session-based'</strong> cookie: This type of cookie is only allocated to your computer for the duration of your visit to our website. A session-based cookie helps you move around the website faster and, if you're a registered customer, it may allow us to give you information that is more relevant to you. This cookie automatically expires when you close your browser.
+<br><br>
+A <strong>'persistent'</strong> cookie: This type of cookie will remain on your computer for a period of time set for each cookie. 
+<br><br>
+Please note that our advertisers and payment services providers may also send you cookies.<br><br>
+<span class="mainhead">4. Why we use cookies?</span><br>
+We use cookies so that we can gather information which allows us to understand your preferences and provide you with more relevant information. They also allow us to confirm that you are a registered user and save your login details when accessing certain services on the website. In addition, we may use cookies to collect statistics on the use of our web-based services and also, in conjunction with web beacons (images that originate from a third part website to track visitor activity) , to ensure that our mailing tools are all working satisfactorily. <br><br>
+Session cookies are deleted from your computer when you close your browser but persistent cookies will remain on your computer until they expire or until they are permanently deleted. If you want to refuse or opt out of using cookies, you can usually modify your browser settings to decline them. The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. However, if you choose to decline cookies, you may not be able to experience all of the interactive features on our website.<br><br>
+<span class="mainhead">5. How we use personal information</span><br>
+Personal information and data submitted to the website will be used for the purposes specified in this privacy policy. We may, therefore, use your personal information and data in the following ways:<br><br>
+5.1 To administer the website<br>
+<br>
+5.2 To improve your experience when browsing the website<br>
+<br>
+5.3 To supply you with any goods and/or services purchased via the website.<br>
+<br>
+5.4 To collect payments from you for any goods/services supplied<br>
+<br>
+5.5 To send you things such as newsletters or marketing communications relating to our website which we feel may be of interest to you<br>
+<br>
+5.6 To provide third parties with statistical information about our users. However, this information will not be used to identify any individual user.<br>
+<br>
+<span class="mainhead">6. Internet-based advertising</span><br>
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please refer their respective websites.<br><br>
+<span class="mainhead">7. Disclosure</span><br>
+We will disclose personal information about you to any of our employees, officers, agents, payment processors, suppliers or subcontractors insofar as it is necessary for the purposes as set out in this privacy policy. However, we may disclose your Personal Information if required to do so by law, or if We believe in good faith that such action is necessary to: 
+<br><br>
+7.1 comply with any legal process served on us, any of our sites or the service or in circumstances where We are under a substantially similar legal obligation. <br>
+<br>
+7.2 protect and defend our rights or property.<br>
+<br>
+7.3 act to protect the personal safety of users of the service or the public. If we suspect you of fraudulent payment, including use of stolen credit cards, or any other fraudulent activity (including any chargeback or other reversal of a payment) or prohibited transaction (including money laundering), we reserve the right to share this information (together with your identity) with banks, credit card companies, and appropriate agencies.<br>
+<br>
+<span class="mainhead">8. International transfers of data and information</span><br>
+Personal information collected by ourselves via the website may be stored and processed in any country in which we or our affiliates, suppliers, ESPs or agents maintain facilities. By using our Service, you expressly consent to any transfer of information outside of your country (including other countries which do not have data protection laws equivalent to those in force in the European Economic Areas).
+<br><br>
+<span class="mainhead">9. Security of your personal information and data</span>
+<br>
+We will ensure that we take all reasonable precautions to prevent the loss or misuse of your personal information and data. All personal information provided by you will be stored on our secure password and firewall protected servers. However, due to the inherent insecurity of data transmission over the internet, we are unable to guarantee the security of data in transmission over the internet. In certain areas of our websites, as identified on the site, we use industry-standard SSL-encryption to protect data transmissions.
+<br><br>
+<span class="mainhead">10. Children Under Age 13</span>
+<br>
+We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to us. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at <a href="mailto:underage@tennisearth.com" class="mainlink-terms">underage@tennisearth.com</a>
+<br><br>
+<span class="mainhead">11. Consent to the Privacy Policy and policy amendments</span>
+<br>
+By clicking 'Submit' or 'I agree' during the registration process or by your continued use of the Service following the posting of this Privacy Policy (as applicable), you agree to this Privacy Policy. This policy supersedes any earlier version previously posted on our website. This Privacy Policy should be read in conjunction with our Terms and Conditions and any additional applicable terms posted on our website. We reserve the right to make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on our website. We recommend that you revisit this Privacy Policy regularly. <br><br></p>
+<span class="version">Version 1.0,&nbsp;&nbsp;Posted on: 01-January-2009</span><br><br>
+  </div>
+<div class="pnl650B"></div>
+ </div>
+<!-- END 650 AREA -->
+
+<!-- Right content area -->
+<div id="ciHomeContentrhs">
+<!-- Widget1 start-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+		
+		
+	
+
+	
+
+
+
+
+
+
+	
+		
+			<div class="pnl320T"></div>
+			<div class="pnl320M" style="float:left;height:300px;;">
+		
+		
+	
+	
+  			
+  			
+  			
+  			
+  				
+  				
+  			
+			
+  			
+  			
+  			
+  			
+  			
+  			
+  			
+  			
+  			
+   	
+	
+		<div id="container-1">
+         	<ul class="tabs-nav">
+          		
+          		
+          			
+          			
+	          			
+	          			
+	          			
+	          			
+							
+							
+	          				<li class="tabs-selected"><a href="#fragment-1" onclick="javascript:createCookie('SELECTED_COMPOSITE_TAB', 'news');"><span id="newsTab">News</span></a></li>
+	          			
+						
+	          			
+	          			
+	          			
+	          			
+	          			
+	          			
+	          			
+	          			
+	          			
+          			
+          		
+          			
+          			
+	          			
+							
+							
+	          				<li><a href="#fragment-2" onclick="javascript:createCookie('SELECTED_COMPOSITE_TAB', 'score');"><span id="scoreTab">Scores</span></a></li>
+	          			
+	          			
+	          			
+	          			
+						
+	          			
+	          			
+	          			
+	          			
+	          			
+	          			
+	          			
+	          			
+	          			
+          			
+          		
+          			
+          			
+	          			
+	          			
+							
+							
+	          				<li><a href="#fragment-3" onclick="javascript:createCookie('SELECTED_COMPOSITE_TAB', 'ranking');"><span id="rankingTab">Rankings</span></a></li>
+	          			
+	          			
+	          			
+						
+	          			
+	          			
+	          			
+	          			
+	          			
+	          			
+	          			
+	          			
+	          			
+          			
+          		
+          			
+          			
+	          			
+	          			
+	          			
+							
+							
+	          				<li><a href="#fragment-4" onclick="javascript:createCookie('SELECTED_COMPOSITE_TAB', 'rating');"><span id="ratingTab">TE Ratings</span></a></li>
+	          			
+	          			
+						
+	          			
+	          			
+	          			
+	          			
+	          			
+	          			
+	          			
+	          			
+	          			
+          			
+          		
+			</ul>
+         		
+         		
+         			
+         			
+          			
+          			
+          			
+          			
+          				<div id="fragment-1" class="tabs-container">
+	          				
+
+
+
+<script type="text/javascript" language="javascript">
+$(document).ready(function() {
+	
+	$("#newsTab").click(function() {
+		$("#fragment-1").empty().html('<img src=/images_new/ajax-loader.gif />');
+		$.getJSON("/widgets/news.htm?tournamentId=", function(data) {
+			var text = '';
+			var serial = 0;
+			var news = data.news;
+			text = '<DIV class="newsbox" style="height:240px;overflow:hidden">';
+			text = text + '<div id="firstpane" class="menu_list">';
+			for(var i = 0; i < news.length; i++) {				
+				serial = serial + 1;				
+				text = text + '<p id="menu_head_' + serial + '" class="menu_head"><span class="newsplus">&nbsp;&nbsp;&nbsp;</span><a  href="http://www.tennisearth.com/news/tennisNews/' + news[i].newsId + '.htm" class="mainlink-black" >'+news[i].title+'</a></p>';
+				
+				if(news[i].thumbnailImage.length > 0) {
+					text = text + '<div class="menu_body" style="height:64px;">';
+					text = text + '<a  href="http://www.tennisearth.com/news/tennisNews/' + news[i].newsId + '.htm" >';
+					text = text + '<img src="' +news[i].thumbnailImage+ '" alt="" style="float:left;border:1px solid #787878;margin-right:5px;" height="60" width="80" />';
+					text = text + '<div style="display:block;height:64px; text-align:justify">' + news[i].briefNews + '</div></a>';
+					text = text + '</div>';
+				} else {
+					text = text + '<div class="menu_body" style="height:auto;">';
+					text = text + '<a  href="http://www.tennisearth.com/news/tennisNews/' + news[i].newsId + '.htm">';					
+					text = text + '<div style="display:block;height:auto;text-align:justify">' + news[i].briefNews + '</div></a>';
+					text = text + '</div>';
+				}
+			}
+			text = text + '</div></div>';	
+			text = text + ' <table width="300" border="0" cellpadding="0" cellspacing="0">';
+			text = text + ' <tbody><tr><td width="150" style="padding-left:3px;">';
+			text = text + ' <span style="padding-left:6px;padding-bottom:0"><a  href="http://www.tennisearth.com/news/tennisLatestNews.htm" >More News »</a></span>';
+			text = text + ' </td>';
+			text = text + ' <td width="150" align="right" style="padding-right:3px;">';
+			text = text + ' <A style="CURSOR:pointer" href="http://www.tennisearth.com/news/tennisearthfeed.xml" class="tooltip">';
+			text = text + ' <span id="twitterIcon" alt="rss feed" title="rss feed" class="tooltip">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></A>';
+	        text = text + ' <A style="CURSOR:pointer" href="http://twitter.com/tennisearth" class="tooltip">';
+			text = text + ' <span id="rssIcon" alt="Follow Me on Twitter" title="Follow Me on Twitter" class="tooltip">&nbsp;&nbsp;&nbsp;&nbsp;</span></A>';	
+			text = text + ' </td></tr></tbody>';
+			text = text + ' </table>';
+			$('#fragment-1').html(text);
+			$('#firstpane p#menu_head_1').click();
+		});
+	});
+
+	$('#firstpane p#menu_head_1').click();
+});
+</script>
+
+
+	<div class="newsbox" style="height:240px;overflow:hidden">
+		<div id="firstpane" class="menu_list"> <!--Code for menu starts here-->
+			
+			
+			
+			
+				
+				<p id="menu_head_1" class="menu_head"><span class="newsminus">&nbsp;&nbsp;&nbsp;</span><a href="http://www.tennisearth.com/news/tennisNews/Sony-Ericsson-Open-Final-Preview---Roddick-vs-Berdych-493049.htm">Sony Ericsson Open Final Preview - Roddick vs. Berdych</a></p>
+					
+				<div class="menu_body" style="height: 64px; display: block;">
+					<a href="http://www.tennisearth.com/news/tennisNews/Sony-Ericsson-Open-Final-Preview---Roddick-vs-Berdych-493049.htm">
+			 			<img src="/photos/Miami/t_Andy_Roddick11.jpg" alt="" style="float:left;border:1px solid #787878;margin-right:5px;" height="60" width="80">					
+			 			<div style="display:block;height:64px; text-align:justify">With his recent superb performance, American Andy Roddick has announced his full-fledged return to top form. Czech Tomas Berdych, a giant killer in the draw, too is looking determined to end up with the crystalware. Who will walk away with the big prize? Find out with us...!</div>
+			 		</a>
+				</div>
+			 		
+				
+			
+				
+				<p id="menu_head_2" class="menu_head"><span class="newsplus">&nbsp;&nbsp;&nbsp;</span><a href="http://www.tennisearth.com/news/tennisNews/Clijsters-outperforms-Venus-to-win-Miami-Open-title-951331.htm">Clijsters outperforms Venus to win Miami Open title</a></p>
+					
+				<div class="menu_body" style="height:64px;">
+					<a href="http://www.tennisearth.com/news/tennisNews/Clijsters-outperforms-Venus-to-win-Miami-Open-title-951331.htm">
+			 			<img src="/photos/Miami/t_Kim_Clijsters6.jpg" alt="" style="float:left;border:1px solid #787878;margin-right:5px;" height="60" width="80">					
+			 			<div style="display:block;height:64px; text-align:justify">Belgian Kim Clijsters won the Miami Open by thrashing the American Venus Williams with a 6-2 6-1 score line.  Venus did not even come near to her usual form in this one-sided match!</div>
+			 		</a>
+				</div>
+			 		
+				
+			
+				
+				<p id="menu_head_3" class="menu_head"><span class="newsplus">&nbsp;&nbsp;&nbsp;</span><a href="http://www.tennisearth.com/news/tennisNews/Sony-Ericson-Open-Final-Preview---Venus-vs-Kim-678837.htm">Sony Ericsson Open Final Preview - Venus vs. Kim</a></p>
+					
+				<div class="menu_body" style="height:64px;">
+					<a href="http://www.tennisearth.com/news/tennisNews/Sony-Ericson-Open-Final-Preview---Venus-vs-Kim-678837.htm">
+			 			<img src="/photos/Miami/t_Venus_Williams1.jpg" alt="" style="float:left;border:1px solid #787878;margin-right:5px;" height="60" width="80">					
+			 			<div style="display:block;height:64px; text-align:justify">As predicted by almost all the tennis pundits, Venus Williams is in the finals of the Sony Ericsson Open, once again. Her opponent Kim Clijsters too , isn't unaware of the feeling of holding the crystalware in Crandon Park. Who will win, Venus or Kim? Let's find out..!</div>
+			 		</a>
+				</div>
+			 		
+				
+			
+				
+				<p id="menu_head_4" class="menu_head"><span class="newsplus">&nbsp;&nbsp;&nbsp;</span><a href="http://www.tennisearth.com/news/tennisNews/Berdych-humbles-Soderling-to-reach-Sony-Ericsson-Open-Final-437193.htm">Berdych humbles Soderling to reach Sony Ericsson Open Final</a></p>
+					
+				<div class="menu_body" style="height:64px;">
+					<a href="http://www.tennisearth.com/news/tennisNews/Berdych-humbles-Soderling-to-reach-Sony-Ericsson-Open-Final-437193.htm">
+			 			<img src="/photos/Miami/t_Tomas_Berdych4.jpg" alt="" style="float:left;border:1px solid #787878;margin-right:5px;" height="60" width="80">					
+			 			<div style="display:block;height:64px; text-align:justify">Czech Giant-killer Tomas Berdych continued his dream run at the Miami Masters with a straight sets win over Swede Robin Soderling and reached the final.</div>
+			 		</a>
+				</div>
+			 		
+				
+			
+	  	</div>
+	</div>
+	<table width="300" border="0" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td width="150" style="padding-left:3px;">
+				<span style="padding-left:6px;padding-bottom:0"><a href="http://www.tennisearth.com/news/tennisLatestNews.htm">More News »</a></span>
+			</td>
+			<td width="150" align="right" style="padding-right:3px;">
+				<a style="CURSOR:pointer" href="http://www.tennisearth.com/news/tennisearthfeed.xml" class="tooltip">
+					<span id="twitterIcon" alt="rss feed" class="tooltip">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+				</a>
+	        	<a style="CURSOR:pointer" href="http://twitter.com/tennisearth" class="tooltip">
+					<span id="rssIcon" alt="Follow Me on Twitter" class="tooltip">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+				</a>
+			</td>
+		</tr>
+	</tbody>
+	</table>
+
+
+	          			</div>
+          			
+					
+          			
+          			
+          			
+          			
+          			
+          			
+          			
+          			
+          			
+          		
+          	
+         			
+         			
+          			
+          				<div id="fragment-2" class="tabs-container tabs-hide">
+	          				
+
+
+
+<script type="text/javascript" language="javascript">
+
+	var isInFocus = true;
+	function enableFocus() {
+		isInFocus = true;
+	}
+	function disableFocus() {
+		isInFocus = false;
+	}
+	if (/*@cc_on!@*/false) { // check for Internet Explorer			
+		document.onfocusin = enableFocus;
+		document.onfocusout = disableFocus;
+	} else {
+		window.onfocus = enableFocus;
+		window.onblur = disableFocus;
+		document.onfocus = enableFocus;
+		document.onblur = disableFocus;
+	}
+	var refreshTimeLiveScoreWidget=15000;
+	
+	function refreshLiveScoresWidget() {		
+		getScoresWidgetData();
+		setTimeout("refreshLiveScoresWidget()",refreshTimeLiveScoreWidget);
+	}
+	
+//$(document).ready(function() { // this is commented because with this refresh live scores is not working. 
+	$("#scoreTab").click(function() {
+		$("#fragment-2").empty().html('<img src=/images_new/ajax-loader.gif />');
+		getScoresWidgetData();	
+	});
+	
+	function getScoresWidgetData() {			
+		var timeId = Math.random()*100000;			
+			$.getJSON("/widgets/score.htm?widgetType=&tournamentId=", function(data) {					
+				var text = '';
+				var tournament = data.tournament;
+				if(isInFocus) {
+				  refreshTimeLiveScoreWidget=data.time.default_refresh_time;
+			  	} else {
+				  refreshTimeLiveScoreWidget=data.time.default_refresh_time_onblur;
+			  	}	
+				text = text + '<div class="liveScoresBox" id="scoresContainer" style="height:240px;overflow:hidden">';
+				text = text + '	<table cellspacing="0" cellpadding="1" width="98%" border="0">';
+				text = text + '		<tbody>';
+									for(var i = 0; i < tournament.length; i++) {
+										var t = tournament[i];	
+
+									  	var title = "";
+									  	title = title + "<span>";
+									  	title = title + "Tournament : " + t.tournament_full_name + "<br/>";
+									  	title = title + "Team 1 : " + t.team1.player1a_full;
+													  	if(t.double_flag == 1) {
+													  		title = title + '&nbsp;/&nbsp;';
+														}
+									  	title = title + t.team1.player1b_full + '<br/>';
+									  	title = title + "Team 2 : " + t.team2.player2a_full;
+													  	if(t.double_flag == 1) {
+													  		title = title + '&nbsp;/&nbsp;';
+														}
+										title = title + t.team2.player2b_full + '<br/>';
+									  	title = title + "</span>";																	
+										text = text + '<tr class="trnorm">';
+										text = text + '	<td colspan="9" class="tdnorm3">';
+													if(t.commentary_flag == 1) {
+														text = text + '<a  style="font-family:Georgia,Times,serif" href="http://www.tennisearth.com/commentary/' + t.seo_commentary_url + '" class="tooltip" title="' +title+ '">' + t.tournament_name  + ' - ' + t.round + '&nbsp;&nbsp;<span style="font-family:Tahoma;color:#313131;font-size:11px;">(' + getCurrentZoneTime(t.match_timestamp, "dmmmyy", false)  +  ')</span></a>';
+													} else {
+														text = text + '<span class="tooltip"  style="color: #004bad" title="' + title + '">' + t.tournament_name + ' - ' + t.round + '</span>&nbsp;&nbsp;<span style="font-family:Tahoma;color:#313131;font-size:11px;">(' + getCurrentZoneTime(t.match_timestamp, "dmmmyy", false)  +  ')</span>';
+													}										
+										text = text + '	</td>';
+										text = text + '</tr>';									
+													if(t.commentary_flag == 1) {
+														text = text + '<tr class="trnorm" onclick="rowNav(\'http://www.tennisearth.com/commentary/' + t.seo_commentary_url + '\', \'false\');" style="cursor:pointer;">';
+													} else  {
+														text = text + '<tr class="trnorm">';
+													}
+													
+										text = text + '	<td width="52%" class="tdnormplayer">';
+										text = text + '		<font class="green">' + t.team1.player1a;
+															if(t.double_flag == 1) {
+																text = text + '&nbsp;/';
+															}
+															if(t.commentary_flag == 1 && t.server_id.length > 0 && t.team1.player1a_id == t.server_id && t.winner_team_id.length <= 0) {
+																text = text + '&nbsp;<span id="ciLiveMatchBall" alt="Server" title="Server" class="tooltip">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>';
+															}
+										text = text + '		<font class="green">' + t.team1.player1b;													
+															if(t.commentary_flag == 1 && t.server_id.length > 0 && t.team1.player1b_id == t.server_id && t.winner_team_id.length <= 0) {
+																text = text + '&nbsp;<span id="ciLiveMatchBall" alt="Server" title="Server" class="tooltip">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>';
+															}
+															if(t.winner_team_id.length > 0 && t.winner_team_id == t.team1.team1_id) {
+																text = text + '&nbsp;<span id="ciLiveMatchWinner" alt="Winner" title="Winner" class="tooltip">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>';						
+															}
+										text = text + '		</font>';
+										text = text + '	</td>';
+														if(t.team1_set_scores.set1 == 0 && t.team2_set_scores.set1 == 0) {
+															text = text + '<td width="9%" class="tdnorm2"></td>';
+														} else {
+															text = text + '<td width="9%" class="tdnorm2">' + t.team1_set_scores.set1 + '</td>';
+														}
+														if(t.team1_set_scores.set2 == 0 && t.team2_set_scores.set2 == 0) {
+															text = text + '<td width="9%" class="tdnorm2"></td>';
+														} else {
+															text = text + '<td width="9%" class="tdnorm2">' + t.team1_set_scores.set2 + '</td>';
+														}
+														if(t.team1_set_scores.set3 == 0 && t.team2_set_scores.set3 == 0) {
+															text = text + '<td width="9%" class="tdnorm2"></td>';
+														} else {
+															text = text + '<td width="9%" class="tdnorm2">' + t.team1_set_scores.set3 + '</td>';
+														}
+														if(t.team1_set_scores.set4 == 0 && t.team2_set_scores.set4 == 0) {
+															text = text + '<td width="9%" class="tdnorm2"></td>';
+														} else {
+															text = text + '<td width="9%" class="tdnorm2">' + t.team1_set_scores.set4 + '</td>';
+														}
+														if(t.team1_set_scores.set5 == 0 && t.team2_set_scores.set5 == 0) {
+															text = text + '<td width="9%" class="tdnorm2"></td>';
+														} else {
+															text = text + '<td width="9%" class="tdnorm2">' + t.team1_set_scores.set5 + '</td>';
+														}
+		
+														if(t.team1_game_scores == 0 && t.team2_game_scores ==0 || (t.team1_game_scores == 1000 || t.team2_game_scores == 1000)) {
+															text = text + '<td width="5%" class="tdnorm4"></td>';
+														} else {
+															text = text + '<td width="6%" class="tdnorm4">';
+															if(t.team1_game_scores == 500) {
+																text = text + '<font class="green">A</font>';
+															} else  {
+																text = text + '<font class="green">' + t.team1_game_scores + '</font>';
+															}
+															text = text + '</td>';
+														}
+														if(t.commentary_flag == 1) {
+															text = text + '<td width="9%"  align="center">';														
+															text = text + '	<span id=livecomm style="float:right;cursor:pointer;" alt="Full Match Commentary" title="Full Match Commentary" class="tooltip">&nbsp;</span>';
+															text = text + '</td>';
+														} else {
+															text = text + '<td width="9%" rowspan="2" align="center"></td>';
+														}								
+										text = text + '</tr>';
+														if(t.commentary_flag == 1) {
+															text = text + '<tr class="trnorm" onclick="rowNav(\'http://www.tennisearth.com/commentary/' + t.seo_commentary_url + '\', \'false\');" style="cursor:pointer;">';
+														} else  {
+															text = text + '<tr class="trnorm">';
+														}										
+										text = text + '	<td class="tdnormplayer">';
+										text = text + '		<font class="green">' + t.team2.player2a;
+															if(t.double_flag == 1) {
+																text = text + '&nbsp;/';
+															}
+															if(t.commentary_flag == 1 && t.server_id.length > 0 && t.team2.player2a_id == t.server_id && t.winner_team_id.length <= 0) {
+																text = text + '&nbsp;<span id="ciLiveMatchBall" alt="Server" title="Server" class="tooltip">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>';
+															}
+										text = text + '		<font class="green">' + t.team2.player2b;													
+															if(t.commentary_flag == 1 && t.server_id.length > 0 && t.team2.player2b_id == t.server_id && t.winner_team_id.length <= 0) {
+																text = text + '&nbsp;<span id="ciLiveMatchBall" alt="Server" title="Server" class="tooltip">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>';
+															}
+															if(t.winner_team_id.length > 0 && t.winner_team_id == t.team2.team2_id) {
+																text = text + '&nbsp;<span id="ciLiveMatchWinner" alt="Winner" title="Winner" class="tooltip">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>';						
+															}
+										text = text + '		</font>';
+										text = text + '	</td>';
+														if(t.team1_set_scores.set1 == 0 && t.team2_set_scores.set1 == 0) {
+															text = text + '<td width="9%" class="tdnorm2"></td>';
+														} else {
+															text = text + '<td width="9%" class="tdnorm2">' + t.team2_set_scores.set1 + '</td>';
+														}
+														if(t.team1_set_scores.set2 == 0 && t.team2_set_scores.set2 == 0) {
+															text = text + '<td width="9%" class="tdnorm2"></td>';
+														} else {
+															text = text + '<td width="9%" class="tdnorm2">' + t.team2_set_scores.set2 + '</td>';
+														}
+														if(t.team1_set_scores.set3 == 0 && t.team2_set_scores.set3 == 0) {
+															text = text + '<td width="9%" class="tdnorm2"></td>';
+														} else {
+															text = text + '<td width="9%" class="tdnorm2">' + t.team2_set_scores.set3 + '</td>';
+														}
+														if(t.team1_set_scores.set4 == 0 && t.team2_set_scores.set4 == 0) {
+															text = text + '<td width="9%" class="tdnorm2"></td>';
+														} else {
+															text = text + '<td width="9%" class="tdnorm2">' + t.team2_set_scores.set4 + '</td>';
+														}
+														if(t.team1_set_scores.set5 == 0 && t.team2_set_scores.set5 == 0) {
+															text = text + '<td width="9%" class="tdnorm2"></td>';
+														} else {
+															text = text + '<td width="9%" class="tdnorm2">' + t.team2_set_scores.set5 + '</td>';
+														}
+		
+														if(t.team1_game_scores == 0 && t.team2_game_scores ==0 || (t.team1_game_scores == 1000 || t.team2_game_scores == 1000)) {
+															text = text + '<td width="5%" class="tdnorm4"></td>';
+														} else {
+															text = text + '<td width="6%" class="tdnorm4">';
+															if(t.team2_game_scores == 500) {
+																text = text + '<font class="green">A</font>';
+															} else  {
+																text = text + '<font class="green">' + t.team2_game_scores + '</font>';
+															}
+															text = text + '</td>';
+														}
+										text = text + '</tr>';
+										text = text + '<tr><td colspan="9" style="border-bottom:1px dotted #c6c6c6; height:1px;"><img src="/images_new/spacer.gif" alt="blank" /></td></tr>';
+									}
+				text = text + '		</tbody>';
+				text = text + '	</table>';
+				text = text + '	</Div>';
+				text = text + '	<table width="300" border="0" cellpadding="0" cellspacing="0">';
+				text = text + ' <tbody><tr><td width="95%" style="padding-left:8px;">';
+				text = text + '			<a  href="http://www.tennisearth.com/liveScores/tennisScore.htm" class="ciSectionFooterlink">More Live Scores »</a> |';
+				text = text + '			<a  href="http://www.tennisearth.com/liveCommentary/tennisCommentary.htm" class="ciSectionFooterlink">Other Match Commentaries »</a>';
+				text = text + '		</td></tr></tbody>';
+				text = text + '	</table>';
+
+				$("#fragment-2").html(text);
+			});
+	}
+	refreshLiveScoresWidget();
+//});
+</script>
+
+<div class="widgetcontainer">
+
+</div>
+	          			</div>
+          			
+          			
+          			
+          			
+					
+          			
+          			
+          			
+          			
+          			
+          			
+          			
+          			
+          			
+          		
+          	
+         			
+         			
+          			
+          			
+          				<div id="fragment-3" class="tabs-container tabs-hide">
+				          	
+
+
+
+<script type="text/javascript" language="javascript">
+	$(document).ready(function() {
+		$("#rankingTab").click(function() {	
+				$("#fragment-3").empty().html('<img src=/images_new/ajax-loader.gif />');		
+				$.getJSON("/widgets/ranking.htm", function(data) {
+					var text = '';
+					var atp = data.atp;
+					var wta = data.wta;				
+					text = text + '<DIV class="widgetcontainer" style="height:240px;overflow:hidden">';			
+					text = text + '<table class="engineTable">';
+					text = text + '	<thead>';
+					text = text + '		<tr class="head">';
+					text = text + '			<th class="left">&nbsp;&nbsp;<strong>ATP Tour</strong></th>';
+					text = text + '			<th class="left"><strong>WTA Tour</strong></th>';
+					text = text + '		</tr>';
+					text = text + '	</thead>';
+					text = text + '	<tbody>';
+					text = text + '		<tr>';
+					text = text + '			<td valign="top">';
+					text = text + '				<table class="engineTable">';
+												for(var i = 0; i < atp.length; i++) {
+													text = text + '<tr class="data1">';	
+													text = text + '	<td class="left">'+atp[i].position+'</td>';
+													text = text + '	<td class="left">'+atp[i].playerA+'</td>';
+													text = text + '	<td class="left">'+atp[i].points+'</td>';
+												}		
+					text = text + '				</table>';
+					text = text + '			</td>';
+					text = text + '			<td valign="top">';
+					text = text + '				<table class="engineTable">';
+												for(var i = 0; i < wta.length; i++) {
+													text = text + '<tr class="data1">';	
+													text = text + '	<td class="left">'+wta[i].position+'</td>';
+													text = text + '	<td class="left">'+wta[i].playerA+'</td>';
+													text = text + '	<td class="left">'+wta[i].points+'</td>';
+												}
+					text = text + '				</table>';
+					text = text + '			</td>';
+					text = text + '		</tr>';
+					text = text + '	</tbody>';
+					text = text + '</table>';
+					text = text + '	</Div>';
+					text = text + ' <table width="300" border="0" cellpadding="0" cellspacing="0">';
+					text = text + ' <tbody>';
+					text = text + '	<tr>';
+					text = text + '		<td style="padding-left:13px;"><a  href="http://www.tennisearth.com/rankings/tennisRankings/atp.htm">Full ATP Rankings »</a></td>';
+					text = text + '		<td style="padding-left:20px;"><a  href="http://www.tennisearth.com/rankings/tennisRankings/wta.htm">Full WTA Rankings »</a></td>';
+					text = text + '	</tr>';
+					text = text + '	</tbody>';
+					text = text + '</table>';
+					$("#fragment-3").html(text);				
+				});		
+			});
+	});
+</script>
+
+
+				        </div>
+          			
+          			
+          			
+					
+          			
+          			
+          			
+          			
+          			
+          			
+          			
+          			
+          			
+          		
+          	
+         			
+         			
+          			
+          			
+          			
+          				<div id="fragment-4" class="tabs-container tabs-hide">
+	          				
+
+
+
+<script type="text/javascript" language="javascript">
+	$(document).ready(function() {		
+		$("#ratingTab").click(function() {
+			$("#fragment-4").empty().html('<img src=/images_new/ajax-loader.gif />');			
+			$.getJSON("/widgets/rating.htm", function(data) {									
+				var text = '';
+				var mensSingles = data.amateurMensSingles;
+				var mensDoubles = data.amateurMensDoubles;
+				var womensSingles = data.amateurWomensSingles;
+				var womensDoubles = data.amateurWomensDoubles;				
+				text = text + '<table width="100%" border="0" cellspacing="0" cellpadding="0">';
+				text = text + '	<tr>';
+				text = text + '		<td valign="top">';
+				text = text + '			<table width="100%" border="0" cellspacing="0" cellpadding="0">';
+				text = text + '				<tr>';
+				text = text + '					<td width="1"><img src="/images_new/spacer.gif" alt="blank" /></td>';
+				text = text + '					<td valign="top" align="left">';
+				text = text + '						<table class="engineTable">';
+				text = text + '							<thead>';
+				text = text + '								<tr class="head">';
+				text = text + '									<th nowrap="nowrap" class="left"><strong>&nbsp;Men\'s Singles</strong></th>';
+				text = text + '									<th nowrap="nowrap" class="left"><strong>&nbsp;Men\'s Doubles</strong></th>';
+				text = text + '								</tr>';
+				text = text + '							</thead>';
+				text = text + '							<tbody>';
+				text = text + '								<tr>';
+				text = text + '									<td valign="top">';
+				text = text + '										<table class="engineTable">';
+																	for(var i = 0; i < mensSingles.length; i++) {
+																		text = text + '<tr class="data1">';	
+																		text = text + '	<td class="left">'+mensSingles[i].position+'</td>';
+																		text = text + '	<td class="left">'+mensSingles[i].playerA+'</td>';
+																		text = text + '	<td class="left">'+mensSingles[i].points+'</td>';
+																	}		
+				text = text + '										</table>';
+				text = text + '									</td>';
+				text = text + '									<td valign="top">';
+				text = text + '										<table class="engineTable">';
+																	for(var i = 0; i < mensDoubles.length; i++) {
+																		text = text + '<tr class="data1">';	
+																		text = text + '	<td class="left">'+mensDoubles[i].position+'</td>';
+																		text = text + '	<td class="left">'+mensDoubles[i].playerA+'</td>';
+																		text = text + '	<td class="left">'+mensDoubles[i].points+'</td>';
+																	}
+				text = text + '										</table>';
+				text = text + '									</td>';
+				text = text + '								</tr>';
+				text = text + '							</tbody>';				
+				text = text + '							<tbody>';
+				text = text + '								<tr class="data">';
+				text = text + '									<td class="left"><a  href="http://www.tennisearth.com/teratings/groupRanking.htm?professional=0&doubles=0&gender=M&submit=submit" class="mainlink">&nbsp;More</a>&raquo;</td>';
+				text = text + '									<td class="left"><a  href="http://www.tennisearth.com/teratings/groupRanking.htm?professional=0&doubles=1&gender=M&submit=submit" class="mainlink">&nbsp;More</a>&raquo;</td>';
+				text = text + '								</tr>';
+				text = text + '							</tbody>';				
+				text = text + '							<thead>';
+				text = text + '								<tr class="head">';
+				text = text + '									<th nowrap="nowrap" class="left"><strong>&nbsp;Women\'s Singles</strong></th>';
+				text = text + '									<th nowrap="nowrap" class="left"><strong>&nbsp;Women\'s Doubles</strong></th>';
+				text = text + '								</tr>';
+				text = text + '							</thead>';
+				text = text + '							<tbody>';
+				text = text + '								<tr>';
+				text = text + '									<td valign="top">';
+				text = text + '										<table class="engineTable">';
+																	for(var i = 0; i < womensSingles.length; i++) {
+																		text = text + '<tr class="data1">';	
+																		text = text + '	<td class="left">'+womensSingles[i].position+'</td>';
+																		text = text + '	<td class="left">'+womensSingles[i].playerA+'</td>';
+																		text = text + '	<td class="left">'+womensSingles[i].points+'</td>';
+																	}		
+				text = text + '										</table>';
+				text = text + '									</td>';
+				text = text + '									<td valign="top">';
+				text = text + '										<table class="engineTable">';
+																	for(var i = 0; i < womensDoubles.length; i++) {
+																		text = text + '<tr class="data1">';	
+																		text = text + '	<td class="left">'+womensDoubles[i].position+'</td>';
+																		text = text + '	<td class="left">'+womensDoubles[i].playerA+'</td>';
+																		text = text + '	<td class="left">'+womensDoubles[i].points+'</td>';
+																	}
+				text = text + '										</table>';
+				text = text + '									</td>';
+				text = text + '								</tr>';
+				text = text + '							</tbody>';
+				text = text + '							<tbody>';
+				text = text + '								<tr class="data">';
+				text = text + '									<td class="left"><a  href="/teratings/groupRanking.htm?professional=0&doubles=0&gender=F&submit=submit" class="mainlink">&nbsp;More</a>&raquo;</td>';
+				text = text + '									<td class="left"><a  href="/teratings/groupRanking.htm?professional=0&doubles=1&gender=F&submit=submit" class="mainlink">&nbsp;More</a>&raquo;</td>';
+				text = text + '								</tr>';
+				text = text + '							</tbody>';
+				text = text + '						</table>';
+				text = text + '					</td>';
+				text = text + '				</tr>';
+				text = text + '			</table>';
+				text = text + '		</td>';
+				text = text + '	</tr>';
+				text = text + '</table>';			
+				$("#fragment-4").html(text);				
+			});		
+		});
+	});
+</script>
+<div class="widgetcontainer">
+
+</div>
+	          			</div>
+          			
+          			
+					
+          			
+          			
+          			
+          			
+          			
+          			
+          			
+          			
+          			
+          		
+          	 
+		</div>
+	       
+	
+	
+		
+			</div>
+			<div class="pnl320B"></div>
+		
+		
+	
+
+
+<script>
+	$('#container-1').tabs();
+</script>
+	
+<!-- widget1 end-->
+	<!-- widget2 start-->
+	<div class="pnl320T"></div>
+	<div class="pnl320M" style="text-align:center;height:auto;">
+		
+
+
+
+		
+			
+				<script type="text/javascript"><!--
+					google_ad_client = "pub-6574131737698040";
+					/* 300x250, created 3/12/09 */
+					google_ad_slot = "9575874580";
+					google_ad_width = 300;
+					google_ad_height = 250;
+					//-->
+				</script>
+			
+			
+			
+		
+		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+
+	</div>
+	<div class="pnl320B"></div>
+	<!-- Widget2 End-->
+</div>
+<!-- Right content area End -->
+
+<!-- Footer Part Start -->
+
+
+  
+
+	
+		
+		
+			<script language="JavaScript">
+				<!--
+
+				if(screen.width <= 1200) {
+					document.write('<div id="footer2Container">');
+				} else {
+					document.write('<div id="footer2Container1024">');
+				}
+
+				//-->
+			</script><div id="footer2Container">
+		
+	
+		<div class="footercurveleft"></div>
+		
+			
+			
+				<script language="JavaScript">
+					
+
+					if(screen.width <= 1200) {
+						document.write('<div class="footerContentHolder">');
+					} else {
+						document.write('<div class="footerContentHolder1024">');
+					}
+
+				</script><div class="footerContentHolder">
+			
+		
+			<div id="cifooternav">
+				<ul>
+					<li>
+						<a href="http://www.tennisearth.com" class="maintabs">Home</a><span class="maintabseperator">|</span>
+						<a href="http://www.tennisearth.com/aboutus.htm" class="maintabs">About Us</a><span class="maintabseperator">|</span>
+						<a href="mailto:feedback@tennisearth.com" class="maintabs">Feedback</a><span class="maintabseperator">|</span>
+						<a href="http://www.tennisearth.com/privacyPolicy.htm" class="maintabs">Privacy Policy</a><span class="maintabseperator">|</span>
+						<a href="http://www.tennisearth.com/termsAndConditions.htm" class="maintabs">Terms &amp; Conditions</a><span class="maintabseperator">|</span>
+						<a href="http://www.tennisearth.com/recommendedLinks.htm" class="maintabs">Recommended Links</a><span class="maintabseperator">|</span> 	
+						Copyright © 2010 TennisEarth.com
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="footercurveright"></div>
+	</div>
+</div>
+</div>
+
+
+			<div id="ciMainContainerrhs" style="display:none;">
+				<script type="text/javascript">
+					google_ad_client = "pub-6574131737698040";
+					/* 120x600, created 10/15/09 */
+					google_ad_slot = "8690152553";
+					google_ad_width = 120;
+					google_ad_height = 600;
+				</script>
+				<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+			</div>
+			<script>
+				if(screen.width >= 1200) {
+					$('#ciMainContainerrhs').show();
+				}
+			</script>
+
+	
+
+
+<!-- google analytics script -->
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+	try {
+		var pageTracker = '';
+
+		pageTracker = _gat._getTracker("UA-6545025-1");
+
+		pageTracker._trackPageview();
+	} catch(err) {}
+</script>
+
+
+
+
+
+<div id="signInModal" style="display:none;">
+	<!-- Sign In Form div start -->
+	<fieldset id="signInFieldset" style="border:0px;">
+		<form method="post" id="signInForm" style="width:235px;" action="https://www.tennisearth.com/user/login.htm" onsubmit="return validateLoginForm(this, params['destination']);">
+			<input type="hidden" name="headerLogin" value="true">
+			<input type="hidden" name="showLoginFromLink" value="false">
+			<label for="loginEmail">Email Id</label>&nbsp;&nbsp;
+			<input id="loginEmail" name="loginEmail" title="Email" tabindex="4" type="text">
+			<div id="loginEmailError" class="textred" style="font-weight:bold;"></div>
+			<label for="loginPassword">Password</label>
+			<input id="loginPassword" name="loginPassword" title="Password" tabindex="5" type="password">
+			<div id="loginPasswordError" class="textred" style="font-weight:bold;"></div>
+			<div style="font-size:9px;color:#666;text-align:justify;padding:2px;margin-bottom:5px;">
+				<input id="keepMeSignedIn" name="keepMeSignedIn" tabindex="7" type="checkbox" value="true" onclick="setRMPref('http://www.tennisearth.com')">
+				<label for="keepMeSignedIn" style="font-weight:bold;">Remember Me</label>
+				<span style="display:block;">Do not check this box on public/shared computer.</span>
+			</div>
+			<table width="200" border="0" cellspacing="2" cellpadding="0">
+			<tbody><tr>
+				<td align="left"><input id="signin_submit" value="Sign in" tabindex="6" type="submit"></td>
+				<td align="left"><input id="signin_submit" value="Cancel" tabindex="6" type="button" onclick="tb_remove()"></td>
+				<td align="left"><fb:login-button size="medium" onlogin="facebook_onlogin()" style="vertical-align:top;">Connect</fb:login-button></td>
+			</tr>
+			</tbody></table>
+			<!--<input id="signin_submit" value="Sign in" tabindex="6" type="submit" />&nbsp;&nbsp;<input id="signin_submit" value="Cancel" tabindex="6" type="button" onclick="tb_remove()" />-->
+			
+			<p class="forgot" style="font-size:9px;margin-top:2px;"><a style="cursor:pointer;" id="resend_password_link_modal"><strong>Forgot your password?</strong></a></p>
+			<hr style="color:#209dec;">
+			<label>Don't have an account yet? Create one now! Its <b>FREE</b> and takes less than 30 seconds to create.</label>&nbsp;&nbsp;
+			<center><input id="signup_submit" value="CREATE FREE ACCOUNT" tabindex="9" type="button" style="margin-top:5px;display:block;"></center>
+			<script>
+				$('#resend_password_link_modal').live('click', function() {
+					var destination = params['destination'];
+					if(!destination || destination.length == 0) {
+			    		destination = getLogoutDestination();
+			    	}
+					location.href = 'https://www.tennisearth.com/user/forgotPassword.htm?destination=' + encodeURIComponent(destination);
+				});
+				
+				$('#signup_submit_modal').live('click', function() {
+					var destination = params['destination'];
+					if(!destination || destination.length == 0) {
+			    		destination = getLoginDestination();
+			    	}
+					location.href = 'https://www.tennisearth.com/user/registration.htm?destination=' + encodeURIComponent(destination);
+				});
+			</script>
+		</form>
+	</fieldset>
+	<!-- Sign In Form div end -->
+</div>
+<!-- Facebook Integration Form div start -->
+
+
+
+<iframe src="http://www.tennisearth.com/ping_session.html" height="0" width="0" frameborder="0" scrolling="no"></iframe>
+<!-- following line added to avoid javascript error on IE.. ( fb.hiddencontainer.get() is null or not an object)          -->
+<div id="FB_HiddenContainer" style="position:absolute; top:-10000px; width:0px; height:0px;"></div>
+
+<script>
+if(document.getElementById('hid_dest')){
+document.getElementById('hid_dest').value = getDestinationURL();
+}
+if(document.getElementById('hid_dest1')){
+document.getElementById('hid_dest1').value = getDestinationURL();
+}
+</script>  
+
+
+
+<!-- Footer Part End -->
+<div id="tooltip" style="display: none;"><span></span><div class="body"></div><div class="url"></div></div></body></html>
