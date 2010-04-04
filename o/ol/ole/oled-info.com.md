@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oled-info.com privacy policy that was archived on 2009-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090705100755id_/http%3A//www.oled-info.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oled-info.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404053033id_/http%3A//www.oled-info.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,6 +6,9 @@ At OLED-Info.com, we recognize that privacy of your personal information is impo
 
 
 **Log Files**
+
+  
+
 
 As with most other websites, we collect and use the data contained in log files. The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
 
