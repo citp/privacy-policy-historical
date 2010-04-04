@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the screenjunkies.com privacy policy that was archived on 2009-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090326072449id_/http%3A//www.screenjunkies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenjunkies.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404084151id_/http%3A//www.screenjunkies.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Screen Junkies
+# Privacy Policy
 
 **ScreenJunkies  Privacy Policy**
 
-**Effective as of February 20, 2009**
+ **Effective as of February 20, 2009**
 
 At ScreenJunkies.com, a website operated by ChickiP, LLC (“ChickiP”), we are committed to respecting people’s privacy online. We are also committed to providing you with the very best experience we can on our website. In order to do so, we may gather certain personal information about you. Please read the following policy to understand how your personal information will be treated as you make full use of our website. By using ScreenJunkies.com, you consent to the collection and use of your information by ChickiP as described in this Policy, and you signify your agreement to the ScreenJunkies  Privacy Policy.
 
@@ -28,6 +28,7 @@ Upon cancelling your ScreenJunkies account, you have the right to request deleti
 
 1.      It is used to set up and maintain your ScreenJunkies.com account.  If you provide us with your mobile phone information, we may use such information to communicate with you regarding ScreenJunkies.com by SMS, MMS, text message or other electronic means to a mobile device.
 
+  
 2.  Your phone number may be used in the event that our customer service representatives need to contact you and cannot reach you by email.
 
 3.  Your personal information will never be sold to any other website owner or merchant. We hate junk mail as much as you. This is why we will only send you email about items that we feel you should know about. This includes special promotional items that ChickiP endorses, membership changes, terms and conditions changes, Holiday cards, and the latest happenings on ScreenJunkies.com.  When we send you emails that include a link to the website, that link may contain an alphanumeric identifier that allows us to identify the person to whom we sent the message so that we can personalize our content for that individual. 
@@ -76,4 +77,4 @@ ChickiP fully cooperates with law enforcement agencies in identifying those who 
 
 Use of information we collect is subject to the Privacy Policy in effect at the time such information is used or collected. From time to time, we may change our Privacy Policy and will notify you of those changes by email or post a notice on the ScreenJunkies.com website.  Users are bound by any changes to the Privacy Policy when they use ScreenJunkies.com after such changes have been first posted.  Please note that if you opt out of receiving legal notices from us, those legal notices will still govern your use of ScreenJunkies.com, and you are responsible for reviewing such legal notices for changes.
 
-Any questions regarding our Privacy Policy should be directed to [support@screenjunkies.com](mailto:support@screenjunkies.com?subject=Privacy%20Policy%20Question)
+Any questions regarding our Privacy Policy should be directed to [Screen Junkies Support](http://breakmedia.zendesk.com/requests/anonymous/new)
