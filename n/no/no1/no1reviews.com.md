@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the no1reviews.com privacy policy that was archived on 2009-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090222235317id_/http%3A//www.no1reviews.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the no1reviews.com privacy policy that was archived on 2010-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100405001116id_/http%3A//www.no1reviews.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # No1Reviews.com Privacy Policy
 
@@ -51,7 +51,7 @@ How to Contact Us
 
 Please use the Contact Us link at the bottom of this page to contact us. 
 
-[No1Reviews.com](http://www.no1reviews.com/) | [About Us ](http://www.no1reviews.com/AboutUs.html) | [Privacy Policy](http://www.no1reviews.com/Privacy-Policy.html) | [Spot a Mistake? ](http://www.no1reviews.com/Feedback.html)  
+[No1Reviews.com](http://www.no1reviews.com/) | [About Us ](http://www.no1reviews.com/AboutUs.html) | [Privacy Policy](http://www.no1reviews.com/Privacy-Policy.html) | [Disclosure ](http://www.no1reviews.com/Disclosure.html)  
 [FAQ](http://www.no1reviews.com/faq.html) | [Useful Links](https://web.archive.org/links.html) | [Site Map](https://web.archive.org/sitemap.html) | [Terms & Conditions](http://www.no1reviews.com/TC.html) | [Webmasters](http://www.no1reviews.com/webmasters.html) | [Contact Us](http://www.no1reviews.com/Contact.html)
 
 [](http://www.no1reviews.com/)
