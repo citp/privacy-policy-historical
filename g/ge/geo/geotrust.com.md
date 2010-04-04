@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the geotrust.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424210831id_/http%3A//www.geotrust.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geotrust.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404121811id_/http%3A//www.geotrust.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # GeoTrust Privacy Policy
 
-##### Versin 2.0 - Effective January 22, 2009
+##### Version 2.1 - Effective October 9, 2009 
 
 GeoTrust is committed to providing you with excellent service for all of our products and services. Because we respect your right to privacy, we have developed this Privacy Statement to inform you about our privacy practices for the entire GeoTrust.com and RapidSSL.com web sites and the GeoTrust services that are provided via these web sites. This Privacy Statement is not applicable to GeoTrust's corporate parent or affiliates or to any information collected offline or through other web sites which do not display this Privacy Statement. GeoTrust services may be hosted on partner sites on behalf of GeoTrust, and if this GeoTrust Privacy Statement is listed on that site, then it will also apply
 
@@ -123,5 +123,7 @@ Our mailing address is:
 Attention: Support  
 487 East Middlefield Road  
 Mountain View, California 94043
+
+You have the right to review your personal information and have inaccurate information about you corrected. If you wish to do so, or to notify a change in your details, please contact [**support@geotrust.com**](mailto:support@geotrust.com), or you may contact Daniel Blättler, Vice President Legal, VeriSign Switzerland SA, chemin de Blandonnet 8, 1214 Vernier, Genève, Switzerland.
 
 Additional contact information is available on our [contact page](http://www.geotrust.com/about/contact/index.html). 
