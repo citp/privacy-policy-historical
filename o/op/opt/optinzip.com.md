@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the optinzip.com privacy policy that was archived on 2009-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090402031013id_/http%3A//www.optinzip.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optinzip.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404023242id_/http%3A//www.optinzip.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - ProfitInfo.com
+# Privacy Policy - OptinZip
 
-[Home](https://web.archive.org/web/20090402031013id_/http%3A//www.optinzip.com/index.htm) > [About Us](https://web.archive.org/web/20090402031013id_/http%3A//www.optinzip.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20090402031013id_/http%3A//www.optinzip.com/privacy-policy.htm)
+[Home](https://web.archive.org/web/20100404023242id_/http%3A//www.optinzip.com/index.htm) > [About Us](https://web.archive.org/web/20100404023242id_/http%3A//www.optinzip.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20100404023242id_/http%3A//www.optinzip.com/privacy-policy.htm)
 
 **This statement discloses the privacy practices of ProfitInfo.com/AWeber Systems, Inc.**
 
-Please direct questions regarding this statement to OptinZip/AWeber's excellent [Customer Support team](https://web.archive.org/support.htm). 
+Please direct questions regarding this statement to OptinZip/AWeber's excellent [Customer Support team](https://web.archive.org/contact-us.htm). 
 
 **Customer Information:** All ProfitInfo.com/AWeber Systems, Inc. customer account information is held in strict confidence. We do not sell or share our customer list with any other entities. Customer information such as name, e-mail address, mailing address, phone number, and billing information is collected for the sole purpose of providing services described on this web site. 
 
