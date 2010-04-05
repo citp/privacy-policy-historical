@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vanquis.co.uk privacy policy that was archived on 2009-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090205051601id_/http%3A//www.vanquis.co.uk/home/About_us/Privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanquis.co.uk privacy policy that was archived on 2010-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100405234719id_/http%3A//www.vanquis.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Vanquis
+# Privacy statement - Vanquis
 
-**4  June 2006**
+**1 st February 2010**
 
-This policy sets out how we use and protect any personal information that you give us when you use this website. If you have any questions about this policy or do not agree with it, please contact our customer services department at Vanquis Card, Customer Services, PO Box 399, Chatham, ME4 4WQ or on 0870 850 7755 before using this website. Full details are available when you apply and in the Vanquis Card terms and conditions.
+This policy sets out how we use and protect any personal information that you give us when you use this website. If you have any questions about this policy or do not agree with it, please contact our customer services department at Vanquis Card, Customer Services, PO Box 399, Chatham, ME4 4WQ or on 0871 770 5555 (calls to this number will be charged at 7p per minute from a BT landline. Calls from mobiles and other networks may vary) before using this website. Full details are available when you apply and in the Vanquis Card terms and conditions.
 
 We may change this policy from time to time by updating this page. You should check this page from time to time to ensure you are happy with any changes. “We/our/us” refer to Vanquis Bank Limited (Company number 02558509) whose registered office is at Colonnade, Sunbridge Road, Bradford, West Yorkshire is a member of the Provident Financial group (the Group).
 
@@ -67,7 +67,7 @@ Managing your account and processing your application
 
 We will process, by computer or otherwise, personal information about you whilst we are assessing your application and/or managing your Account. We may search your credit record at credit reference agencies in relation to your application or for managing your Account, and they will supply us with credit and/or identification information.
 
-Details of our search will be added to their records whether or not your application is successful. Credit and identification information about you and those with whom you are financially linked, which is provided to us and credit reference agencies, may be used by us and other companies to make credit decisions about you and other members of your household. Any of this information may also be used for identification purposes, debt tracing and prevention of money laundering, as well as the management of your Account. 
+Details of our search will be added to their records whether or not your application is successful. Credit and identification information about you and those with whom you are financially linked, which is provided to us and credit reference agencies, may be used by us and other companies to make credit decisions about you and other members of your household. Any of this information may also be used for identification purposes, debt tracing and prevention of money laundering, as well as the management of your Account.
 
 When assessing your application, we may use credit scoring or other automated decision making facilities. We will, on a regular monthly basis, provide details of the performance of your Account to credit reference agencies. This information may be used by other companies to make decisions about credit and credit-related services for you and other members of your household. It is important that you give us accurate information. We will check your details with fraud prevention agencies and if you give us false or inaccurate information and we suspect fraud, we will record this.
 
@@ -113,13 +113,13 @@ Back to top
 
 Security
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. However, we cannot guarantee the security of any data you disclose online. You should be aware of the inherent security risks of providing information and dealing online over the internet. You do not hold us responsible for any breach of security unless this is due to our negligence or wilful default. 
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. However, we cannot guarantee the security of any data you disclose online. You should be aware of the inherent security risks of providing information and dealing online over the internet. You do not hold us responsible for any breach of security unless this is due to our negligence or wilful default.
 
 Back to top
 
 Linking
 
-We may link to other websites which are not within our control. Once you have left our website, we cannot be responsible for the protection and privacy of any information which you provide. You should exercise caution and look at the privacy statement applicable to the website in question. 
+We may link to other websites which are not within our control. Once you have left our website, we cannot be responsible for the protection and privacy of any information which you provide. You should exercise caution and look at the privacy statement applicable to the website in question.
 
 Back to top
 
