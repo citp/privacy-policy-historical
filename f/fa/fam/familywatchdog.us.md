@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familywatchdog.us privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614055604id_/http%3A//familywatchdog.us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familywatchdog.us privacy policy that was archived on 2010-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100405083707id_/http%3A//www.familywatchdog.us/privacy.asp) for the most accurate reproduction.*
 
 # Family WatchdogTerms of Service
 
