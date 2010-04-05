@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pointsincase.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121011412id_/http%3A//www.pointsincase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointsincase.com privacy policy that was archived on 2010-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100405171743id_/http%3A//www.pointsincase.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Points in Case
 
