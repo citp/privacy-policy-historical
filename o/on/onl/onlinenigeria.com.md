@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinenigeria.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202075149id_/http%3A//www.onlinenigeria.com/disclaimer.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinenigeria.com privacy policy that was archived on 2010-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100406005235id_/http%3A//onlinenigeria.com/disclaimer.asp) for the most accurate reproduction.*
 
 # Nigeria - Privacy Policy
 
@@ -33,17 +33,7 @@ Since we do not collect any personal information on this Web site, we do not sha
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
 
-OnlineNigeria.com works with third parties that serves ads to this site. They include: 
-
-  * **FastClick**
-  * **Casalemedia**
-
-
-
-To find out more about how FastClick manages the privacy of information in conjunction with serving ads on this site, please go to [http://www.fastclick.com/about/privacy.html](http://www.fastclick.com/about/privacy.html%20)
-
-  
-To find out more about how Casalemedia manages the privacy of information in conjunction with serving ads on this site, please go to [http://www.Casalemedia.com/release/privacy.asp](http://www.casalemedia.com/release/privacy.asp)
+OnlineNigeria.com works with third parties that serves ads to this site. 
 
 Send mail to [info@onlinenigeria.com](mailto:info@onlinenigeria.com) with questions or comments about this web site.   
 
