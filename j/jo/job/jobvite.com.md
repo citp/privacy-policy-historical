@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobvite.com privacy policy that was archived on 2009-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090716164515id_/http%3A//www.jobvite.com/Recruiting/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobvite.com privacy policy that was archived on 2010-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100405072435id_/http%3A//www.jobvite.com/recruit/privacy-policy.html) for the most accurate reproduction.*
 
-# Jobvite - Privacy Policy
+# Jobvite
 
 _This Privacy Policy was created on May 4, 2004_
 
@@ -10,7 +10,7 @@ This Privacy Policy (“Privacy Policy”) explains how Jobvite, Inc. (“Jobvit
 
 Jobvite reserves the right to change this Privacy Policy from time to time. Jobvite will post the revised Privacy Policy on this Site located at <http://www.jobvite.com/Recruiting/PrivacyPolicy.aspx> and will either send a notice to the e-mail address that you specified in your registration and/or post notice of the change so it is visible when users log-on for the first time after the change is posted so that you are always aware of what personal information Jobvite may collect and how Jobvite may use this information. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of the Site and/or Services will be subject to the then-current Privacy Policy. 
 
-**What We Collect and How We Use It.**
+#### What We Collect and How We Use It.
 
 You can generally visit the Site without revealing any personally identifiable information about yourself. We do not collect personal information from our Site visitors without the Site visitor providing us with this information as set forth in this Privacy Policy. 
 
@@ -54,12 +54,11 @@ Jobvite engages vendors and service agencies to assist us in providing the Servi
 
 **Updating, Correcting and Deleting Your Information.** Jobvite provides you with the ability to review, correct and request the deletion of any of the personally identifiable information that you have entered into your profile on the Site or that is contained in a posted resume. If you wish to correct or delete any information provided in your profile or resume, you may update your profile or resume [through your account page] or you may contact Jobvite by e-mailing our customer support at [support@jobvite.com](mailto:support@jobvite.com). Alternatively, you may send a letter with your requested changes, corrections or deletions to the following address:
 
-By mail:  
-Jobvite, Inc.  
-Attn: Privacy Policy  
-2 Shaw Alley  
-San Francisco, CA 94105  
-
+By mail:   
+Jobvite, Inc.   
+Attn: Privacy Policy   
+270 East Lane, Suite 3   
+Burlingame, CA 94010 
 
 In the event you terminate your account, we will remove all copies of your resume and your profile from the Site, however, Jobvite may retain a copy in its files of all personally identifiable information, even if removed, in order to resolve disputes or enforce its Terms of Use. 
 
