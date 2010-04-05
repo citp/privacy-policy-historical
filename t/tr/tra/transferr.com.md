@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the transferr.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230222801id_/http%3A//www.transferr.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transferr.com privacy policy that was archived on 2010-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100405072414id_/http%3A//transferr.com/privacypolicy.php) for the most accurate reproduction.*
 
-# - Transferr - Privacy Policy
+# Transferr - Privacy Policy -
 
-TRANSFERR PRIVACY POLICY, UPDATED  2/03/2008. expires 2010.  
+TRANSFERR PRIVACY POLICY, UPDATED  01/01/2010. Expires 01/12/2015.  
 
 Transferr is committed to providing our users with a seamless and comfortable experience with the site. For this reason we are serious about your Privacy and the safety of your personal information, preferences and links that you provide in order for the site to operate. This Privacy Policy outlines the ways in which we deal with your information and our policy regarding its management. This policy also advises users about their interaction and safety regarding personal activity online. If you wish to contact us about what information we have collected on you, please [email us](mailto:support@transferr.com) and we'll be more than happy to assist. 
 
@@ -62,4 +62,4 @@ Transferr is committed to providing our users with a seamless and comfortable ex
 
 **Effective date of this Privacy Policy:**
 
-**1.**  This Privacy Policy is effective of 1 January 2008 and was last updated 22 June 2008. In Compliance with the Privacy Act 1988. 
+**1.**  This Privacy Policy is effective of 1 January 2010 and was last updated 1 January 2010. In Compliance with the Privacy Act 1988. 
