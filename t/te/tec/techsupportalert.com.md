@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529012536id_/http%3A//www.techsupportalert.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2010-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100406015133id_/http%3A//www.techsupportalert.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# This Site's Privacy Policy | Gizmo's Freeware
+# This Site's Privacy Policy
 
 This is the Privacy Policy that applies to this site. It explains how we handle personal information and comply with the requirements of the privacy laws. If you have further questions relating to this policy, please contact us.
 
@@ -10,7 +10,7 @@ The term "[www.techsupportalert.com](http://www.techsupportalert.com%22/ "www.te
 
 We collect personal information from users who register at our site as well as  subscribers to our RSS feeds. The main types of information we collect are contact details, such as email addresses and names. We collect most of this information directly from individuals when they voluntarily register at our web site or subscribe to our RSS feeds.
 
-We also collect statistical information from site visitors through the Google Analytics web statistics service. This information includes details of the browser you use, the operating system you are using and other similar information. Full details can be found on the [Google Analytics website](http://www.google.com/analytics/) .
+We also collect statistical information from site visitors through the Google Analytics web statistics service and the Logaholic web service. This information includes details of the browser you use, the operating system you are using and other similar information. Full details can be found on the [Google Analytics website](http://www.google.com/analytics/) and on the [Logaholic site](http://www.logaholic.com/wp/).  You can disable the collection of this statistical information by turning off JavaScript in your web browser though this may create possible navigation problems for you on this site.
 
 **Using and disclosing your personal information**
 
@@ -58,6 +58,4 @@ By providing your email address and other personal information, you consent to t
 
 Our Privacy Policy may be reviewed periodically and we reserve the right to change it at any time.  We recommend you periodically check this privacy policy on the website for any possible changes.
 
-This Privacy Policy was last updated on Monday, the 23rd of March 2009.
-
-Bookmark/Search this post with: 
+This Privacy Policy was last updated on Friday, the 8th of January 2010.
