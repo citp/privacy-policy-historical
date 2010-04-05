@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aemelectronics.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224134910id_/http%3A//www.aemelectronics.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aemelectronics.com privacy policy that was archived on 2010-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100405224535id_/http%3A//www.aemelectronics.com/viewinfo/privacy-3) for the most accurate reproduction.*
 
-# AEM Electronics
+# AEM Electronics - Wideband O2 UEGO, X-WiFi, EMS Series 2, Engine Management, F/IC, Tru Boost, Gauges, and more Automotive Performance Electronics
 
 AEM respects the privacy of our customers. Any and all information captured on this web site is for internal use by AEM only. AEM does not sell mailing lists, email lists, or give out any of your personal information in any way.
 
