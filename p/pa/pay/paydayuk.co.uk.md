@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paydayuk.co.uk privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227063739id_/http%3A//www.paydayuk.co.uk/pages/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydayuk.co.uk privacy policy that was archived on 2010-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100406090042id_/http%3A//www.paydayuk.co.uk/pages/privacy-policy.php) for the most accurate reproduction.*
 
 # PaydayUK – Privacy policy
 
@@ -7,7 +7,7 @@
 We will use your information to manage your account(s), give you statements and provide our services, for research, assessment and analysis (including credit and/or behaviour scoring, market and product analysis) and to develop and improve our services to you and other customers and protect our interests.
 
   2. We, and other carefully selected third parties, will use your information to inform you by post, fax, telephone or other electronic means, about other products and services (including those of others) which we believe may be of interest to you.
-  3. If you are not eligible for a Pay Day loan at this time, unless you write to the address below, you agree that we may offer you an alternative product (including those of others) and that we may pass your details to another financial services company for them to send you details of their products.
+  3. If you are not eligible for a Payday loan at this time, unless you write to the address below, you agree that we may offer you an alternative product (including those of others) and that we may pass your details to another financial services company for them to send you details of their products.
   4. If you do not want to receive information about other products and services please contact our Customer Relations Department, MEM Consumer Finance Limited, PO BOX 255, Bicester, Oxon, OX26 4ZY.
   5. You can ask us in writing from the same address for a copy of the information we keep about you. A fee will be charged for this service.
   6. If you were introduced to us by a third party, we will give them your contact details and sufficient information about you for their accounting and administration purposes.
