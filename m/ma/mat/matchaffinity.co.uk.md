@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the matchaffinity.co.uk privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209053259id_/http%3A//www.matchaffinity.co.uk/misc/privacy_g.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matchaffinity.co.uk privacy policy that was archived on 2010-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100406154258id_/http%3A//www.matchaffinity.co.uk/misc/privacy_g.php) for the most accurate reproduction.*
 
 # MatchAffinity Privacy Policy.
 
-(Limited Privacy Policy: MatchAffinity, 09/10/2008.)
+(Limited Privacy Policy: MatchAffinity, revised on 15/06/2009.)
 
 **1\. Who are we?**
 
-1.1 We are DatingDirect.com Limited. We are registered in the UK (technically "England & Wales") under number 03850701. Our registered office is at: DATING DIRECT BCM DATING DIRECT, LONDON, WC1N 3XX. You can contact us at the following postal address: DATING DIRECT BCM DATING DIRECT, LONDON, WC1N 3XX.
+1.1 We are DatingDirect.com Limited. We are registered in the UK (technically "England & Wales") under number 03850701. You can contact us at our registered office address: The Communications Building, 48 Leicester Square, London, WC2H 7LT.
 
 1.2 We own and operate this site.
 
@@ -16,7 +16,7 @@
 
 2.1 The idea is that we tell you how we deal with your "personal data". (This is the technical term for information about any identified or identifiable living person). Please read on to find out what kinds personal data we collect, how we use and protect it, to whom we disclose it and how you can access and rectify it.
 
-2.2 We want you to feel comfortable with what we do. So much so that we don't agree to you using our site or registering as a member unless you are completely happy with this policy. If you do, we'll assume that you do accept the policy. 
+2.2 We want you to feel comfortable with what we do. So much so that we don't agree to you using our site or registering as a member unless you are completely happy with this policy. If you do, we'll assume that you do accept the policy.
 
 **3\. Might the policy change?**
 
@@ -24,25 +24,25 @@
 
 **4\. What personal or other data do we collect?**
 
-4.1 We collect and store the information which you enter into forms on our site, for example when you register as a member or apply for a Pass on our site (eg your name, address, contact details and payment information), post a profile or personal ad, enter search criteria, upload photos or video, participate in surveys or contests or the like, or communicate with other members via our site including chat, video etc. You may opt out of providing any such information by simply choosing not to complete the relevant form but certain information is compulsory if you want to use a particular part of our services. 
+4.1 We collect and store the information which you enter into forms on our site, for example when you register as a member or apply for a Pass on our site (eg your name, address, contact details and payment information), post a profile or personal ad, enter search criteria, upload photos or video, participate in surveys or contests or the like, or communicate with other members via our site including chat, video etc. You may opt out of providing any such information by simply choosing not to complete the relevant form but certain information is compulsory if you want to use a particular part of our services.
 
-4.2 Certain of the information which you voluntarily provide (eg photos or video) may constitute "sensitive data" eg by revealing your ethnic origin, religion and/or sexual orientation. By providing such data you specifically consent to our processing it in accordance with the policy. 
+4.2 Certain of the information which you voluntarily provide (eg photos or video) may constitute "sensitive data" eg by revealing your ethnic origin, religion and/or sexual orientation. By providing such data you specifically consent to our processing it in accordance with the policy.
 
 4.3 We may also collect personal information which you provide us when communicating with us in some other way eg by email.
 
-4.4 We may receive and store certain information automatically when you interact with us. Examples include the internet protocol (IP) address used to connect your computer to the internet, connection information such as browser type and version, your operating system and platform, a unique reference number linked to the data you enter on our system, login details, the full URL clickstream to, through and from our site (including date and time), cookie number, activity on our website including the pages you visited and searches you made. 
+4.4 We may receive and store certain information automatically when you interact with us. Examples include the internet protocol (IP) address used to connect your computer to the internet, connection information such as browser type and version, your operating system and platform, a unique reference number linked to the data you enter on our system, login details, the full URL clickstream to, through and from our site (including date and time), cookie number, activity on our website including the pages you visited and searches you made.
 
 **5\. What about cookies?**
 
 5.1 Like many websites we use cookies (or may do so in future). A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive so that the site can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. Cookies cannot read your hard drive.
 
-5.2 Session cookies are temporary cookies that remain in the cookie file of your browser until you leave the site. 
+5.2 Session cookies are temporary cookies that remain in the cookie file of your browser until you leave the site.
 
 5.3 Persistent cookies stay in the cookie file of your browser for longer (though how long will depend on the lifetime of the specific cookie). We use persistent cookies to track whether you entered our site from a link on a site of one of our business partners, avoid showing you the same ad one repeatedly, to display ads or other content tailored to your preferences.
 
 5.4 Usually you can modify the settings of your browser to accept or reject all cookies or be notified when a cookie is set. To view your security settings in Internet Explorer, access the Internet Options within the tools menu in your browser and select the Privacy tab to choose a privacy setting for the internet zone you are in. For further information on cookies and cookie settings, including how to delete cookies, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-5.5 As do many other sites, we use third party advertisers and/or internet advertising companies working for them to fill ad space on our site. These third parties may use cookies and other similar technologies (known as action tags, single pixel gifs and web beacons) to assess information about your visits to this and other sites. This is so they can track the effectiveness of their campaigns (including whether these ads are clicked on or viewed by users and later purchases by such users), avoid showing you the same ad repeatedly and display ads on this and other sites tailored to your preferences. We don't have any access to or control over these third party technologies as these aren't covered by this policy. Also, if you would like more information about this practice and to know your choices about not having this information used by certain of these companies, please click here. Please contact the third parties directly for more information about their privacy practices.
+5.5 As do many other sites, we use third party advertisers and/or internet advertising companies working for them to fill ad space on our site. These third parties may use cookies and other similar technologies (known as action tags, single pixel gifs and web beacons) to assess information about your visits to this and other sites. This is so they can track the effectiveness of their campaigns (including whether these ads are clicked on or viewed by users and later purchases by such users), avoid showing you the same ad repeatedly and display ads on this and other sites tailored to your preferences. We don't have any access to or control over these third party technologies as these aren't covered by this policy. Also, if you would like more information about this practice and to know your choices about not having this information used by certain of these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). Please contact the third parties directly for more information about their privacy practices.
 
 **6\. How do we use your personal data?**
 
