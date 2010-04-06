@@ -1,15 +1,9 @@
-> *The following text is extracted and transformed from the wajas.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621105827id_/http%3A//www.wajas.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wajas.com privacy policy that was archived on 2010-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100407010736id_/http%3A//www.wajas.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy :: Waja Madness!
+# Privacy Policy | Wajas | Wolf Breeding Sim | Online Pet Site | Dog Breeding Game
 
 ###### Wajas.com » Privacy Policy
 
-**ERROR:** You must login to view the page you are trying to access. 
-
-If you were logged in and have been inactive for a while - you have been automatically logged out for your security and you will need to login again. Thank you.  
-  
----  
-  
 This privacy policy sets out how Wajas uses and protects any information that you provide upon registration and use of this site.
 
 Wajas guarantees that your privacy will be protected and should we ask that you provide any information it will be used for this site and only this site. Your information will not be distributed, leased, or sold to third parties unless required by law.
