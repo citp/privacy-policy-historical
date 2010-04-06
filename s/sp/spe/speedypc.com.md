@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedypc.com privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003120800id_/http%3A//www.speedypc.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedypc.com privacy policy that was archived on 2010-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100406060449id_/http%3A//www.speedypc.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # SpeedyPC – Legal - Privacy Policy
 
@@ -61,7 +61,7 @@ We are in compliance with the requirements of COPPA (Children's Online Privacy P
 
 ## Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20091003120800id_/http%3A//www.speedypc.com/legal/terms.aspx "Terms of Use Documentation") documentation establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20100406060449id_/http%3A//www.speedypc.com/legal/terms.aspx "Terms of Use Documentation") documentation establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 ## Your Consent
 
