@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handbagcom.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205224413id_/http%3A//www.handbagcom.com/pages.php%3FpID%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handbagcom.com privacy policy that was archived on 2010-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100406085433id_/http%3A//www.handbagcom.com/pages.php%3FpID%3D2) for the most accurate reproduction.*
 
 # - replica handbags store - Handbagcom.com's Privacy Policy
 
