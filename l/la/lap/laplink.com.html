@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the laplink.com privacy policy that was archived on 2009-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091219131300id_/http%3A//www.laplink.com/siteinfo/default.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the laplink.com privacy policy that was archived on 2010-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100406055504id_/http%3A//www.laplink.com/siteinfo/default.asp) for the most accurate reproduction.-->
 
 <html><head></head><body><a name="TOP"></a>
 
@@ -145,7 +145,7 @@
 <a href="/siteinfo/salespolicies.asp">Sales &amp; Refunds</a>
 </div>
 
-Copyright © 1983 - 2009, Laplink Software, Inc. All rights reserved.
+Copyright © 1983 - 2010, Laplink Software, Inc. All rights reserved.
 </div><!-- footer -->
 
 
@@ -242,25 +242,23 @@ function elementFromId (elementId) {
 	}
 </script>
 
-
-
-
 <script type="text/javascript">
 // Menu Configuration
 
 // the number you pass to initLeft doesn't matter since it will get changed onactivate
 // ypSlideOutMenu(id, dir, left, top, width, height, parentid, degrade, debug)
-	var myMenu1 = new ypSlideOutMenu("menu1", "down", -1000, 87, 150, 263, null) // add 20 to the last number for every new product
+	var myMenu1 = new ypSlideOutMenu("menu1", "down", -1000, 87, 150, 282, null) // add 20 to the last number for every new product
 	var myMenu2 = new ypSlideOutMenu("menu2", "down", -1000, 87, 150, 107)
-	var myMenu3 = new ypSlideOutMenu("menu3", "down", -1000, 87, 150, 43)
-	var myMenu4 = new ypSlideOutMenu("menu4", "down", -1000, 87, 150, 65)
-	var myMenu5 = new ypSlideOutMenu("menu5", "right", -1000, 87, 150, 45, "menu1")
+	var myMenu3 = new ypSlideOutMenu("menu3", "down", -1000, 87, 150, 65)
+	var myMenu4 = new ypSlideOutMenu("menu4", "down", -1000, 87, 160, 108)
+	var myMenu5 = new ypSlideOutMenu("menu5", "right", -1000, 110, 150, 45, "menu1")
 	var myMenu6 = new ypSlideOutMenu("menu6", "right", -1000, 87, 150, 45, "menu3")
 	var myMenu7 = new ypSlideOutMenu("menu7", "right", -1000, 87, 150, 45, "menu3")
-    var myMenu11 = new ypSlideOutMenu("menu11", "down", -1000, 87, 150, 87)
-    var myMenu13 = new ypSlideOutMenu("menu13", "down", -1000, 87, 150, 87)
- 
-// for each menu, we set up the onactivate event to call repositionMenu with the amount offset from center, in pixels
+	var myMenu8 = new ypSlideOutMenu("menu8", "right", -1000, 198, 150, 65, "menu5")
+	var myMenu11 = new ypSlideOutMenu("menu11", "down", -1000, 87, 150, 110)
+	var myMenu13 = new ypSlideOutMenu("menu13", "down", -1000, 87, 150, 110)
+	
+	// for each menu, we set up the onactivate event to call repositionMenu with the amount offset from center, in pixels
 	myMenu1.onactivate = function() { repositionMenu(myMenu1, -380); }
 	myMenu2.onactivate = function() { repositionMenu(myMenu2, -285); } 
 	myMenu3.onactivate = function() { repositionMenu(myMenu3, -135); } // was 192
@@ -268,27 +266,31 @@ function elementFromId (elementId) {
 	myMenu5.onactivate = function() { repositionMenu(myMenu5, -230); }
 	myMenu6.onactivate = function() { repositionMenu(myMenu6, 15); }
 	myMenu7.onactivate = function() { repositionMenu(myMenu7, 15); }
-    myMenu11.onactivate = function() { repositionMenu(myMenu11, 50); } //
-    myMenu13.onactivate = function() { repositionMenu(myMenu13, 147); }
+	myMenu8.onactivate = function() { repositionMenu(myMenu8, -230); }
+	myMenu11.onactivate = function() { repositionMenu(myMenu11, 50); }
+	myMenu13.onactivate = function() { repositionMenu(myMenu13, 147); }
 
 </script>
-
 <!-- hidden divs that are displayed through the DOM using the JScript file ypslideout -->
 <div id="menuContainers">
 <div id="menu1Container"><!-- products -->
   <div id="menu1Content" class="menu">
     <a href="/pcmover/" title="PCmover">PCmover</a>
+    <a href="/business_solutions/pcmover" title="PCmover Enterprise">PCmover Enterprise</a>
     <a href="/llgold/" title="Laplink Gold">Laplink Gold</a>
+    <!-- <a href="/llgold/" onmouseover="ypSlideOutMenu.showMenu('menu5')" onmouseout="ypSlideOutMenu.hideMenu('menu5')" title="Laplink Gold">Laplink Gold 12 &raquo;</a> -->
     <a href="/pcsync/" title="PCsync">PCsync</a>
     <a href="/pdasync/" title="PDAsync">PDAsync</a>
     <a href="/lle5/" title="Laplink Everywhere">Laplink Everywhere</a>
-    <a href="/remoteassist/" title="Laplink RemoteAssist">Laplink RemoteAssist</a>
-    <a href="/doubleview/" title="DoubleView">DoubleView</a>
-    <a href="/filemover/" title="FileMover">FileMover</a>
-    <a href="/sharedirect/" title="ShareDirect">ShareDirect</a>
-    <a href="/llv/" title="Laplink V for DOS">Laplink V for DOS</a>
-    <a href="/cables/" title="Laplink Cables">Laplink Cables</a>
-    <a href="/extras/" title="Extras">Extras</a>
+    <a href="/defrag/" title="Laplink Defrag">Laplink Defrag</a>
+    <a href="/diskimage/" title="Laplink DiskImage">Laplink DiskImage</a>
+    <!-- <a href="/diskimage/" title="Laplink DiskImage">Laplink DiskImage</a> -->
+    <a href="/safeerase/" title="Laplink SafeErase">Laplink SafeErase</a>
+    <a href="/remoteassist/">Laplink RemoteAssist</a>
+    <a href="/llv/">Laplink V for DOS</a>
+    <a href="/cables/">Laplink Cables</a>
+    <a href="/extras/">Extras</a>
+    <!-- <a href="/compare/">Compare Products</a> -->
     </div>
 </div>
 <div id="menu2Container"><!-- corporate -->
@@ -303,6 +305,7 @@ function elementFromId (elementId) {
 </div>
 <div id="menu3Container"><!-- support -->
   <div id="menu3Content" class="menu">
+    <a href="http://validate.laplink.com/" title="Register">Register</a>
     <a href="/help/" title="Technical Support">Technical Support</a>
     <a href="/mysupport/mysupport.asp" title="My Account">My Account</a>
   </div>
@@ -310,14 +313,16 @@ function elementFromId (elementId) {
 <div id="menu4Container"><!-- partners -->
   <div id="menu4Content" class="menu">
     <a href="/partners/" title="Overview">Overview</a>
+    <a href="/partners/pcmover/" title="PCmover Partner Program">PCmover Partner Program</a>
     <a href="/partners/partners_list.jsp" title="Find a Partner">Find a Partner</a>
-    <a href="https://cp.element5.com/esales/reseller/signup.html?publisherid=50642&amp;md5=e3b9cacb3b5940371ef7150597cfbf59" title="Become a Partner">Become a Partner</a>
+    <a href="https://laplink.cleverbridge.com/59/?scope=partnersignup" title="Sign Up to Become a Partner" target="_blank">Become a Partner</a>
+    <a href="/affiliate/" title="PCmover Affiliate Program">Become an Affiliate</a>
   </div>
 </div>
 <div id="menu5Container"><!-- gold 12 types -->
   <div id="menu5Content" class="menu">
-    <a href="/llgold/" title="Individual">Individual</a>
-    <a href="/products/corporate/overview.asp" title="Enterprise">Enterprise</a>
+    <a href="/llgold/">Individual</a>
+    <a href="/products/corporate/overview.asp">Enterprise</a>
   </div>
 </div>
 <div id="menu6Container"><!-- technical support -->
@@ -328,8 +333,15 @@ function elementFromId (elementId) {
 </div>
 <div id="menu7Container"><!-- my account -->
   <div id="menu7Content" class="menu">
-    <a href="/mysupport/mysupport.asp" title="My Support Home">Home</a>
-    <a href="" title="My Registered Products">My Registered Products</a>
+    <a href="/mysupport/mysupport.asp">Home</a>
+    <a href="">My Registered Products</a>
+  </div>
+</div>
+<div id="menu8Container"><!-- Laplink Defrag types -->
+  <div id="menu8Content" class="menu">
+    <a href="/defrag/pro/" title="Defrag Professional">Professional</a>
+    <a href="/defrag/server/" title="Defrag Server">Server</a>
+    <a href="/defrag/workstation/" title="Defrag Workstation">Workstation</a>
   </div>
 </div>
 <div id="menu11Container"><!-- company -->
@@ -338,12 +350,14 @@ function elementFromId (elementId) {
     <a href="/aboutus/management.html" title="Management">Management</a>
     <a href="/aboutus/careers.html" title="Careers">Careers</a>
     <a href="/contact/" title="Contact Us">Contact Us</a>
+    <a href="http://blog.laplink.com" title="Laplink Blog">Laplink Blog</a>
   </div>
 </div>
 <div id="menu13Container"><!-- company -->
   <div id="menu13Content" class="menu">
     <a href="/media/" title="Overview">Overview</a>
     <a href="/media/pressreleases.html" title="Press Releases">Press Releases</a>
+    <a href="/media/index.html#resources" title="Press Resources">Press Resources</a>
     <a href="/media/articles.html" title="Articles and Reviews">Articles and Reviews</a>
     <a href="/media/request.html" title="Media Request">Media Request</a>
     </div>
