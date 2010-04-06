@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the99percent.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206154825id_/http%3A//www.behance.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the99percent.com privacy policy that was archived on 2010-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100406082450id_/http%3A//www.behance.com/legal/privacy) for the most accurate reproduction.*
 
 # Behance.com :: Privacy
 
