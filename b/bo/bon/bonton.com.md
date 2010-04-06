@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonton.com privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001190320id_/http%3A//www.bonton.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonton.com privacy policy that was archived on 2010-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100406025451id_/http%3A//www.bonton.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
 
 # Bon-Ton
 
@@ -65,6 +65,6 @@ _Corporate Office_
 York, PA 17405
 
 Or call the following toll-free number:   
-1-800-233-7626
+1-800-945-4438, 6am-12am (CST) Monday -Sunday
 
 If you have a joint account, a request by one party will apply to the entire account. Please allow approximately 10 weeks for your request to take effect.
