@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextarticles.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601222215id_/http%3A//www.nextarticles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextarticles.com privacy policy that was archived on 2010-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100406062345id_/http%3A//www.nextarticles.com/privacy) for the most accurate reproduction.*
 
 # NextArticles.com
 
@@ -62,6 +62,15 @@ This web site contains links to other sites. We encourage our users to be aware 
 **NextArticles.com** does not endorse any statements or claims made in any article on this site and does not accept any responsibility or liability for the use or misuse of the article content on this site or reliance by any person on the site's contents. By using this web site, you agree not to hold **NextArticles.com** , its owner, it's partner sites and/or any other affiliated sites or persons, liable for any damages that may occur from use of this web site.
 
 **All terms and conditions are subject to change without prior notice.**
+
+### Categories
+
+  
+
+
+[](http://www.aweber.com/?320524 "AWeber Email Marketing")
+
+[ ](http://www.sedo.com/search/showdetails.php4?partnerid=25483&language=e&keyword=nextarticles.com)
 
   
 
