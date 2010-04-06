@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hautelook.com privacy policy that was archived on 2009-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091230100525id_/http%3A//www.hautelook.com/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hautelook.com privacy policy that was archived on 2010-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100406083846id_/http%3A//www.hautelook.com/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     
@@ -19,7 +19,8 @@ function getPublisherCookie(c_name)
 {
 if (document.cookie.length>0)
   {
-  c_start=document.cookie.indexOf(c_name + "=");
+  var c_start=document.cookie.indexOf(c_name + "=");
+  var c_end;
   if (c_start!=-1)
     {
     c_start=c_start + c_name.length+1;
@@ -35,10 +36,16 @@ return " ";
 var loc = window.location.toString(); 
 var queryString = loc.substr(parseInt(loc.indexOf("hautelook.com") + 14));
 var nextSlash = queryString.indexOf('/');
-var publisher = queryString.substr(0, nextSlash);
+
+if(nextSlash != '-1'){
+    var publisher = queryString.substr(0, nextSlash);
+}else{
+    var publisher = queryString.substr(0);
+}
 
 
-var whitelist = {"anewmode":"5","bagbliss":"4","blingware":"1","denimology":"3","fashionablemedia":"8","hautelookandy":"2","JediTemple":"10","sobieblog":"9","temptalia":"7","thebudgetbabe":"6","vitaljuice":"11"};
+
+var whitelist = {"anewmode":"5","bagbliss":"4","blingware":"1","denimology":"3","fashionablemedia":"8","hautelookandy":"2","JediTemple":"10","peoplestylewatch":"13","psw0402":"14","sobieblog":"9","styehive":"12","temptalia":"7","thebudgetbabe":"6","vitaljuice":"11"};
 
 var validPublisher = false;
 for(var i in whitelist){
@@ -66,223 +73,29 @@ if(hl_publisher != ' ' && loc.indexOf(hl_publisher) == -1){
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 	<meta http-equiv="Pragma" content="no-cache">
 	<meta http-equiv="Cache-control" content="no-cache">
-	    <meta name="server-farm" content="nitro16.hautelook.local">
+	    <meta name="server-farm" content="nitro89.hautelook.local">
 	<meta name="description" content="HauteLook hosts private, limited-time sale events with today's top brands for women, men, kids, home, and beauty.  Lasting between 48-72 hours, these events offer a wider selection of the best merchandise at exclusive prices of 50-75% off retail. HauteLook is free to join, so register now to gain members-only access and start shopping right away!">
 	<meta name="keywords" content="Catherine Malandrino, Sample Sale, Trunk Show, discount fashion, Habitual, Development, Genetic Denim, Citizens of Humanity, Diane von Furstenburg, Marc Jacobs, EllaMoss, Gold Sign, Harajuku Lovers, James Perse, J Brand, Joe's Jeans, Joie, Juicy Couture, Lacoste, Paul Smith, Robert Rodriguez, Rock &amp; Republic, Seven for All Mankind, Splendid, Vince, True Religion, Twelfth Street by Cynthia Vincent, Ya-Ya">
 	<meta name="robots" content="index,follow">
 	<meta name="robots" content="noodp">
 	<meta name="robots" content="noydir">
     
+	<link rel="image_src" href="http://www2.hautelookcdn.com/images/fb/hl_logo.jpg">
 	
 	
 	
         
         
-    <link href="/css/messaging/messaging.css?2.2.3.153" media="all" rel="stylesheet" type="text/css">
-<link href="/css/reset-min.css?2.2.3.153" media="all" rel="stylesheet" type="text/css">
-<link href="/css/global.css?2.2.3.153" media="all" rel="stylesheet" type="text/css">
-<link href="/dynamics/css/december_promo.css?2.2.3.153" media="all" rel="stylesheet" type="text/css">
-<link href="/css/my_cart.css?2.2.3.153" media="all" rel="stylesheet" type="text/css">
-<link href="/css/agreement.css?2.2.3.153" media="all" rel="stylesheet" type="text/css">
+    <link href="/css/messaging/messaging.css?2.3.7.24" media="all" rel="stylesheet" type="text/css">
+<link href="/css/reset-min.css?2.3.7.24" media="all" rel="stylesheet" type="text/css">
+<link href="/css/global.css?2.3.7.24" media="all" rel="stylesheet" type="text/css">
+<link href="/css/my_cart.css?2.3.7.24" media="all" rel="stylesheet" type="text/css">
+<link href="/css/agreement.css?2.3.7.24" media="all" rel="stylesheet" type="text/css">
 
-	<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
-    <script type="text/javascript" src="/js/jquery-ui-1.7.1.custom.min.js"></script>
-    <script type="text/javascript" src="/js/jquery-plugins-json.js"></script>
-	<script type="text/javascript" src="/js/jquery.colorbox-min.js"></script>
-    <script type="text/javascript" src="/js/jquery.countdown.min.js"></script>
-    <script type="text/javascript" src="/js/ui-misc.js"></script>
-    <script type="text/javascript" src="/js/swfobject.js"></script>
-
-    
-    
-    
-    <script type="text/javascript" src="/js/messaging/messaging.js?2.2.3.153"></script>
-<script type="text/javascript" src="/js/my_cart.js?2.2.3.153"></script>
-<script type="text/javascript" src="/js/global.js?2.2.3.153"></script>
-<script type="text/javascript" src="/js/agreement.js?2.2.3.153"></script>
-    
-    <!--[if IE 6]>
-        <link href="/css/ie6.css" rel="stylesheet" type="text/css" media="screen" />  
-    <![endif]-->
-
-    <!--[if IE 7]>
-        <link href="/css/ie7.css" rel="stylesheet" type="text/css" media="screen" />  
-    <![endif]-->
-    
-	 
-	    <!--[if lt IE 7]>
-         <script type="text/javascript" src="/js/DD_belatedPNG_0.0.7a.js"></script>
-	     <script type="text/javascript">
-	        $(function () {
-	            DD_belatedPNG.fix('.pngfix');
-	        });
-	     </script>        
-	    <![endif]-->  
-    
-</head>
-<body>
-<a name="topofpage" class="anchor" style="display: block; height: 0; font-size: 0; line-height: 0;">&nbsp;</a>  
-		<div id="outerwrapper">
-		<div id="innerwrapper">
-			<div id="header">
-				<div id="head_logo"><a href="/login"><img src="/image/topnav_title1.png" alt="Haute Look"></a></div>
-				
-				<div id="head_nav">
-					<ul> <!-- header links should be text for SEO, and because credits will be dynamic.  We want the font to be consistant across the whole header -->
-						<li><a href="/account" onclick="checkLogin(&quot;member&quot;,&quot;account&quot;,&quot;/account&quot;);return false;">MY ACCOUNT</a></li>
-						<li><a href="/invites" onclick="checkLogin(&quot;member&quot;,&quot;invites&quot;,&quot;/invites&quot;);return false;">MY INVITES</a></li>
-                        <li><a href='javascript: document.cookie="RETURN_URL=0; path=/ ; domain=.hautelook.com"; window.location = "/login/logout";'>SIGN OUT</a></li>
-						<li><a href="/support">HELP</a></li>
-						<li class="last"><a id="feedback_link" href="/support#feedback_tab">FEEDBACK</a></li>
-					</ul>
-				</div>
-				
-			</div>
-				<!-- primary navigation -->
-							<div id="body_header" class="clearall">
-                    
-                                            <div class="body_header_allsales main_menu_item"><a href="/events/all"><img src="/image/nav/body_header_allevents_off.jpg" alt="View All Sales" title=""></a></div>
-                                        <div class="hiddenobj"><img src="/image/nav/body_header_allevents_over.jpg" alt="View All Sales" title=""></div>
-                    
-                                            <div class="body_header_women main_menu_item"><a href="/events/women"><img src="/image/nav/body_header_women_off.jpg" alt="Women" title=""></a></div>
-                                        <div class="hiddenobj"><img src="/image/nav/body_header_women_over.jpg" alt="Women" title=""></div>
-                    
-                                            <div class="body_header_men main_menu_item"><a href="/events/men"><img src="/image/nav/body_header_men_off.jpg" alt="Men" title=""></a></div>
-                                        <div class="hiddenobj"><img src="/image/nav/body_header_men_over.jpg" alt="Men" title=""></div>
-                    
-                                            <div class="body_header_kids main_menu_item"><a href="/events/kids"><img src="/image/nav/body_header_kids_off.jpg" alt="Kids" title=""></a></div>
-                                        <div class="hiddenobj"><img src="/image/nav/body_header_kids_over.jpg" alt="Kids" title=""></div>
-                    
-                                            <div class="body_header_home main_menu_item"><a href="/events/home"><img src="/image/nav/body_header_home_off.jpg" alt="Home" title=""></a></div>
-                                        <div class="hiddenobj"><img src="/image/nav/body_header_home_over.jpg" alt="Home" title=""></div>
-
-                                            <div class="body_header_beauty main_menu_item"><a href="/events/beauty"><img src="/image/nav/body_header_beauty_off.jpg" alt="Beauty" title=""></a></div>
-                                        <div class="hiddenobj"><img src="/image/nav/body_header_beauty_over.jpg" alt="Home" title=""></div>
-
-					<div id="body_header_refer">
-						<a href="/invites" onclick="checkLogin(&quot;member&quot;,&quot;invites&quot;,&quot;/invites&quot;);return false;"><img src="/dynamics/december_promo/image/nav/refer_a_friend.jpg" alt="Invite A Friend, Get $10.  Invite Multiple People."></a>
-						<form id="referral_step_two" name="referral_step_two" action="" method="post">
-							<fieldset>
-								<div>
-									<input type="text" class="text_input" title="email" name="referral_data[friend_emails]" value="email">
-								</div>
-								<a id="send_single_invite_button" class="image_input">
-                                    <img src="/dynamics/december_promo/image/refer_add_button.png" alt="Add">
-                                </a> 
-                                <!--<input style="display:none;" id="send_single_invite_button" type="image" src="/image/refer_add_button.png" alt="Add" class="image_input" />-->
-							</fieldset>
-						</form>
-					</div>
-				</div>
-				
-				<div id="pagebody" class="clearall">
-				<!-- end primary navigation -->
-				
-
-
-
- <div id="body_content" class="clearall">
-    <div id="body_wrapper">
-      <div id="body_innerwrapper">
-        <div class="agreement_text">
-          <h1>PRIVACY POLICY</h1>
-
-        <h2>Secure ordering</h2>
-        
-        <p>Protecting your online order information on HauteLook.com is very important to us. In our shopping checkout process, we use Secure Socket Layering (SSL), the industry-standard encryption technology that ensures the safety and security of your online order. When the letters "http" in the URL address change to "https," the "s" indicates you are in a secure area employing SSL.</p>
-        
-        <p>Making a credit card purchase is just as safe on our web site as it is by telephone. But if you prefer to order merchandise from the website by phone, call toll-free 1 (888) 547-8438. Our customer service associates are available, Monday - Friday, 8.00am - 6.00pm PT.</p>
-        
-        <h2>Privacy Policy</h2>
-        
-        <p>At HauteLook.com, we are committed to providing you the finest merchandise along with excellent service. In order to accomplish this, we gather, use and share certain personal information. Our online privacy policy describes what we gather, with whom we share it, and how you may direct us not to share certain information with certain parties. Because the security of your personal information is very important to us, we restrict access to your nonpublic personal information to those employees who need to know that information to provide products or services to you. We also maintain physical, electronic and procedural safeguards that comply with federal regulations to protect your nonpublic personal information.</p>
-        
-        <h2>Information collection</h2>
-        
-        <p>Whenever you shop with HauteLook.com (online, or by phone) we obtain from you the information we need to complete your transaction. This may include your name, address, telephone number, e-mail address, and credit card number. We also retain details of your specific product purchases and transactions with us. If you register with us online, we may ask for additional information, such as your age, interests or product preferences. To improve our web site, we may collect non-personal information about how users navigate through the site.</p>
-        
-        <h2>Use and disclosure of information</h2>
-        
-        <p>We use the information we collect to process your purchase transactions, to send you marketing and promotional materials by mail or e-mail, and to help us improve our store and online product assortments and services for you.</p>
-        
-        <p>We may provide information we collect to third party service providers that help us bring you our products and services, for example, a company that distributes our catalogs.</p>
-        
-        <p>We may provide information we collect to carefully selected third parties when we believe their products or services may be of interest to you.</p>
-        
-        <h2>Opt Out Procedures</h2>
-        
-        <p>If you prefer that we not disclose non-public personal information about you to nonaffiliated third parties, you may opt out of those disclosures, that is, you may direct us not to make those disclosures. If you wish to opt out of disclosures to nonaffiliated parties, you may do so by contacting Member Care via <a href="mailto: membercare@hautelook.com">email</a> or phone at 1-888-547-8438.  You may also write to us at: <br>
-        <br>
-        HauteLook.com<br>
-        1212 S. Flower Street, Suite #300<br>
-        Los Angeles, CA 90015<br>
-        </p>
-        <h2>Changes to this Policy</h2>
-        
-        <p>We may make changes to this Privacy Policy at any time. We will communicate any such changes by updating this page, notifying you by email if you have registered your email address with us, or in writing, as required by law</p>
-        
-        <h2>Children's privacy</h2>
-        
-        <p>The Children's Online Privacy Protection Act imposes certain requirements on web sites directed at children under 13 that collect information on those children, and on web sites that knowingly collect information on children under 13. HauteLook.com is not directed at children under 13, and does not knowingly collect any personal information from children under 13.</p>
-        
-        <h2>Links to other sites</h2>
-        
-        <p>HauteLook.com may contain links to web sites operated by other third parties. HauteLook.com has no control over, or responsibility for, their content, information or activities, including security and use of personal information. We encourage you to read the privacy policies and terms of use of any third-party site before submitting any personal information.</p>
-        
-        <h2>Online account registration</h2>
-        
-        <p>Registering with HauteLook.com will make your online shopping faster and easier. We can store your shipping addresses and billing information so that you don't have to enter them each time you shop. You will also be able to save your shopping basket, check your order status, and review your order history. Your registered information will be securely stored with us, and you can add, delete, or change your registered information at any time using your password.</p>
-        
-        <h2>E-mails</h2>
-        
-        <p>We may send promotional e-mails to you only if you have asked to receive them. Each time you receive an e-mail from us, you will be given the opportunity to "opt-out" or stop receiving them.</p>
-        </div>
-                <div class="clearall_flat"></div>
-      </div>
-    </div>
-      </div>
-				
-			</div> <!-- pagebody --> 
-			<div id="footer"><!-- set bg to light gray, footer should have specified width and height -->
-				<div class="foot_col1">
-										<p>© 2009 HauteLook</p>
-				</div>
-				<div class="foot_nav">
-					<ul> 
-						<li><a href="/">Home</a></li>
-                        <li><a href="/about">About</a></li>
-                        <li><a href="/careers">Careers</a></li>
-						<li><a href="/affiliate">Affiliate</a></li>
-												<li><a href="/support#member_care_tab">Contact</a></li>
-						<li><a href="/help/terms">Terms &amp; Conditions</a></li>
-						<li class="last"><a href="/help/privacy">Privacy Policy</a></li>
-					</ul>
-				</div>
-				<div class="foot_copy"> <!-- pos absolute, bottom: pos from bottom, right: pos from right, NEED to specify width and height on this div -->
-					
-				</div>
-			</div>
-		</div> <!-- innerwrapper -->
-		<div id="head_cart">
-			<div id="head_cart_inner">
-				<a href="javascript: my_cart.show_full_cart();"><img src="/image/my_cart.png"></a><span id="items_in_cart">(0)</span><a href="/checkout/billing" id="checkout_link" onclick="checkLogin(&quot;checkout&quot;,&quot;billing&quot;,&quot;/checkout/billing&quot;);return false;" class="hidden"><img src="/image/cart_checkout.png"></a>
-			</div>
-		</div>
-	</div> <!-- outerwrapper -->
+	<script type="text/javascript" src="/js/jquery-1.4.1.min.js?2.3.7.24"></script>
 	
-				<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-415580-3");
-}catch(err){}
-pageTracker._setCampSourceKey("sid"); pageTracker._setCampMediumKey("mid"); pageTracker._setCampNameKey("cid"); pageTracker._setCampTermKey("aid"); 
-pageTracker._trackPageview();
-</script>		
-	<script type="text/javascript" src="/dynamics/omniture/memberTrack.js"></script>
-<script type="text/javascript" src="/dynamics/omniture/clicks/layout.js"></script>
+	<script type="text/javascript" src="/dynamics/omniture/memberTrack.js?2.3.7.24"></script>
+<script type="text/javascript" src="/dynamics/omniture/clicks/layout.js?2.3.7.24"></script>
  <script language="JavaScript" type="text/javascript">
 function getOmnitureEnvironment()
 
@@ -302,49 +115,250 @@ function getOmnitureEnvironment()
 Copyright 1997-2008 Omniture, Inc. More info available at
 http://www.omniture.com -->
 <script language="JavaScript" type="text/javascript" src="/dynamics/omniture/s_code.js"></script>
-<script language="JavaScript" type="text/javascript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-s.pageName="Privacy"
-s.server="HauteLook.com"
-s.channel="Help"
-/*s.pageType="errorPage" //for 404 errorPage only*/
-s.prop1="Help"
-s.prop2="Privacy"
-s.prop3=""
-s.prop4=""
-s.prop5=""
-s.prop6=""
-/* Member Traffic Variables*/
-/* Conversion Variables */
-s.campaign=getOmnitureCookie('hlo[camp]')
-s.state=""
-s.zip=""
-s.events=""+(getOmnitureCookie('hlo[events]').toString());
-s.products=""
-s.purchaseID=""
-s.eVar1=getOmnitureCookie('hlo[mType]')
-s.eVar2=""
-s.eVar3=navigator.userAgent
-s.eVar4=""
-s.eVar5=""
-s.eVar6=""
-s.eVar8="www"
-s.eVar12=""
-s.eVar13=""
-s.eVar14=""
-s.eVar15=""
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.20.3 -->
-
+<script language="JavaScript" type="text/javascript">
+    <!--
+    /* You may give each page an identifying name, server, and channel on
+    the next lines. */
+    s.pageName="Privacy"
+    s.server="HauteLook.com"
+    s.channel="Help"
+    /*s.pageType="errorPage" //for 404 errorPage only*/
+    s.prop1="Help"
+    s.prop2="Privacy"
+    s.prop3=""
+    s.prop4=""
+    s.prop5=""
+    s.prop6=""
+    /* Member Traffic Variables*/
+        /* Conversion Variables */
+    s.campaign=getOmnitureCookie('hlo[camp]')
+    s.state=""
+    s.zip=""
+    s.events=""+(getOmnitureCookie('hlo[events]').toString());
+    s.products=""
+    s.purchaseID=""
+    s.eVar1=getOmnitureCookie('hlo[mType]')
+    s.eVar2=""
+    s.eVar3=navigator.userAgent
+    s.eVar4=""
+    s.eVar5=""
+    s.eVar6=""
+    s.eVar7=""
+    s.eVar8="www"
+    s.eVar9=""
+    s.eVar10=""
+    s.eVar11=""
+    s.eVar12=""
+    s.eVar13=""
+    s.eVar14=""
+    s.eVar15=""
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code=s.t();if(s_code) document.write(s_code);//-->
+</script>
+    <!--/DO NOT REMOVE/-->
+    <!-- End SiteCatalyst code version: H.20.3 -->
 
 	
+    <script type="text/javascript" src="/js/jquery-ui-1.7.1.custom.min.js?2.3.7.24"></script>
+    <script type="text/javascript" src="/js/jquery-plugins-json.js?2.3.7.24"></script>
+	<script type="text/javascript" src="/js/jquery.colorbox-min.js?2.3.7.24"></script>
+    <script type="text/javascript" src="/js/jquery.countdown.min.js?2.3.7.24"></script>
+    <script type="text/javascript" src="/js/ui-misc.js?2.3.7.24"></script>
+    <script type="text/javascript" src="/js/swfobject.js?2.3.7.24"></script>
+
+    
+    
+    
+    
+    <script type="text/javascript" src="/js/messaging/messaging.js?2.3.7.24"></script>
+<script type="text/javascript" src="/js/my_cart.js?2.3.7.24"></script>
+<script type="text/javascript" src="/js/global.js?2.3.7.24"></script>
+<script type="text/javascript" src="/js/halo.js?2.3.7.24"></script>
+<script type="text/javascript" src="/js/footer.js?2.3.7.24"></script>
+    
+	 
+    <!--[if IE 6]>
+         <link href="/css/ie6.css?{$build_version}" rel="stylesheet" type="text/css" media="screen" />  
+
+         <script type="text/javascript" src="/js/DD_belatedPNG_0.0.7a.js"></script>
+	     <script type="text/javascript">
+	        $(function () {
+	            DD_belatedPNG.fix('.pngfix');
+	        });
+	     </script>        
+    <![endif]-->
+    
+
+    <!--[if IE 7]>
+        <link href="/css/ie7.css?2.3.7.24" rel="stylesheet" type="text/css" media="screen" />  
+    <![endif]-->
+    
 	
-				
 		
+</head>
+<body>
+<a name="topofpage" class="anchor" style="display: block; height: 0; font-size: 0; line-height: 0;">&nbsp;</a>  
+		<div id="outerwrapper">
+		<div id="innerwrapper">
+			<div id="header">
+				<div id="head_logo"><a rel="HauteLook Logo" href="/login"><img src="http://www2.hautelookcdn.com/images/topnav_title1.png" alt="Haute Look"></a></div>
+				
+				<div id="head_nav">
+					<ul>
+						<li><a rel="Topnav: My Account" href="/account" onclick="checkLogin(&quot;member&quot;,&quot;account&quot;,&quot;/account&quot;);return false;">MY ACCOUNT</a></li>
+						<li><a rel="Topnav: My Invites" href="/invites" onclick="checkLogin(&quot;member&quot;,&quot;invites&quot;,&quot;/invites&quot;);return false;">MY INVITES</a></li>
+                        <li><a rel="Topnav: Sign Out" href='javascript: document.cookie="RETURN_URL=0; path=/ ; domain=.hautelook.com"; window.location = "/login/logout";'>SIGN OUT</a></li>
+						<li><a rel="Topnav: Help" href="/support">HELP</a></li>
+						<li class="last"><a rel="Topnav: Feedback" id="feedback_link" href="/support#feedback_tab">FEEDBACK</a></li>
+					</ul>
+				</div>
+				
+			</div>
+				<!-- primary navigation -->
+							<div id="body_header" class="clearall">
 
+																		<div class="body_header_all main_menu_item"><a rel="Header: all" href="/events/all"><img src="http://www3.hautelookcdn.com/images/nav/body_header_allevents_off.jpg" alt="all" title=""></a></div>
+												<div class="hiddenobj"><img src="http://www4.hautelookcdn.com/images/nav/body_header_allevents_over.jpg" alt="all" title=""></div>
+																		<div class="body_header_women main_menu_item"><a rel="Header: women" href="/events/women"><img src="http://www5.hautelookcdn.com/images/nav/body_header_women_off.jpg" alt="women" title=""></a></div>
+												<div class="hiddenobj"><img src="http://www1.hautelookcdn.com/images/nav/body_header_women_over.jpg" alt="women" title=""></div>
+																		<div class="body_header_beauty main_menu_item"><a rel="Header: beauty" href="/events/beauty"><img src="http://www2.hautelookcdn.com/images/nav/body_header_beauty_off.jpg" alt="beauty" title=""></a></div>
+												<div class="hiddenobj"><img src="http://www3.hautelookcdn.com/images/nav/body_header_beauty_over.jpg" alt="beauty" title=""></div>
+																		<div class="body_header_home main_menu_item"><a rel="Header: home" href="/events/home"><img src="http://www4.hautelookcdn.com/images/nav/body_header_home_off.jpg" alt="home" title=""></a></div>
+												<div class="hiddenobj"><img src="http://www5.hautelookcdn.com/images/nav/body_header_home_over.jpg" alt="home" title=""></div>
+																		<div class="body_header_kids main_menu_item"><a rel="Header: kids" href="/events/kids"><img src="http://www1.hautelookcdn.com/images/nav/body_header_kids_off.jpg" alt="kids" title=""></a></div>
+												<div class="hiddenobj"><img src="http://www2.hautelookcdn.com/images/nav/body_header_kids_over.jpg" alt="kids" title=""></div>
+																		<div class="body_header_men main_menu_item"><a rel="Header: men" href="/events/men"><img src="http://www3.hautelookcdn.com/images/nav/body_header_men_off.jpg" alt="men" title=""></a></div>
+												<div class="hiddenobj"><img src="http://www4.hautelookcdn.com/images/nav/body_header_men_over.jpg" alt="men" title=""></div>
+					
+					<div id="body_header_refer">
+						<a rel="Nav: Refer multiple friends" href="/invites" onclick="checkLogin(&quot;member&quot;,&quot;invites&quot;,&quot;/invites&quot;);return false;"><img src="http://www5.hautelookcdn.com/images/nav/refer_a_friend.jpg" alt="Invite A Friend, Get $10.  Invite Multiple People."></a>
+						<form id="referral_step_two" name="referral_step_two" action="" method="post">
+							<fieldset>
+								<div>
+									<input type="text" class="text_input" rel="email" name="referral_data[friend_emails]" value="email">
+								</div>
+								<a rel="Nav: Refer single friend" id="send_single_invite_button" class="image_input">
+                                    <img src="http://www1.hautelookcdn.com/images/refer_add_button.png" alt="Add">
+                                </a> 
+							</fieldset>
+						</form>
+					</div>
+				</div>
+				
+				<div id="pagebody" class="clearall">
+				<!-- end primary navigation -->
+				
+
+
+
+ <div id="body_content" class="clearall">
+    <div id="body_wrapper">
+      <div id="body_innerwrapper">
+        <div class="agreement_text">
+          <h1>PRIVACY POLICY</h1>
+
+        <h2>Secure ordering</h2>
+        
+        <p>Protecting your online order information on Hautelook.com is very important to us. In our shopping checkout process, we use Secure Socket Layering (SSL), the industry-standard encryption technology that ensures the safety and security of your online order. When the letters "http" in the URL address change to "https," the "s" indicates you are in a secure area employing SSL.</p>
+        
+        <p>Making a credit card purchase is just as safe on our web site as it is by telephone. But if you prefer to order merchandise from the website by phone, call toll-free 1 (888) 547-8438. Our customer service associates are available, Monday - Friday, 8.00am - 6.00pm PT.</p>
+        
+        <h2>Privacy Policy</h2>
+        
+        <p>At Hautelook.com, we are committed to providing you the finest merchandise along with excellent service. In order to accomplish this, we gather, use and share certain personal information. Our online privacy policy describes what we gather, with whom we share it, and how you may direct us not to share certain information with certain parties. Because the security of your personal information is very important to us, we restrict access to your nonpublic personal information to those employees who need to know that information to provide products or services to you. We also maintain physical, electronic and procedural safeguards that comply with federal regulations to protect your nonpublic personal information.</p>
+        
+        <h2>Information collection</h2>
+        
+        <p>Whenever you shop with Hautelook.com (online, or by phone) we obtain from you the information we need to complete your transaction. This may include your name, address, telephone number, e-mail address, and credit card number. We also retain details of your specific product purchases and transactions with us. If you register with us online, we may ask for additional information, such as your age, interests or product preferences. To improve our web site, we may collect non-personal information about how users navigate through the site.</p>
+        
+        <h2>Use and disclosure of information</h2>
+        
+        <p>We use the information we collect to process your purchase transactions, to send you marketing and promotional materials by mail or e-mail, and to help us improve our store and online product assortments and services for you.</p>
+        
+        <p>We may provide information we collect to third party service providers that help us bring you our products and services, for example, a company that distributes our catalogs.</p>
+        
+        <p>We may provide information we collect to carefully selected third parties when we believe their products or services may be of interest to you.</p>
+        
+        <h2>Opt Out Procedures</h2>
+        
+        <p>If you prefer that we not disclose non-public personal information about you to nonaffiliated third parties, you may opt out of those disclosures, that is, you may direct us not to make those disclosures. If you wish to opt out of disclosures to nonaffiliated parties, you may do so by contacting Member Care via <a rel="Privacy: Email member care" href="mailto: membercare@hautelook.com">email</a> or phone at 1-888-547-8438.  You may also write to us at: <br>
+        <br>
+        Hautelook.com<br>
+        1212 S. Flower Street, Suite #300<br>
+        Los Angeles, CA 90015<br>
+        </p>
+        <h2>Changes to this Policy</h2>
+        
+        <p>We may make changes to this Privacy Policy at any time. We will communicate any such changes by updating this page, notifying you by email if you have registered your email address with us, or in writing, as required by law</p>
+        
+        <h2>Children's privacy</h2>
+        
+        <p>The Children's Online Privacy Protection Act imposes certain requirements on web sites directed at children under 13 that collect information on those children, and on web sites that knowingly collect information on children under 13. Hautelook.com is not directed at children under 13, and does not knowingly collect any personal information from children under 13.</p>
+        
+        <h2>Links to other sites</h2>
+        
+        <p>Hautelook.com may contain links to web sites operated by other third parties. Hautelook.com has no control over, or responsibility for, their content, information or activities, including security and use of personal information. We encourage you to read the privacy policies and terms of use of any third-party site before submitting any personal information.</p>
+        
+        <h2>Online account registration</h2>
+        
+        <p>Registering with Hautelook.com will make your online shopping faster and easier. We can store your shipping addresses and billing information so that you don't have to enter them each time you shop. You will also be able to save your shopping basket, check your order status, and review your order history. Your registered information will be securely stored with us, and you can add, delete, or change your registered information at any time using your password.</p>
+        
+        <h2>E-mails</h2>
+        
+        <p>We may send promotional e-mails to you on if you have asked to receive them. Each time you receive an e-mail from us, you will be given the opportunity to "opt-out" or stop receiving them. In addition, you can opt-out of receiving emails at any time, by updating your preferences at: <a href="http://www.hautelook.com/unsubscribe">http://www.hautelook.com/unsubscribe</a></p>
+        </div>
+        
+        <div class="clearall_flat"></div>
+      </div>
+    </div>
+      </div>
+				
+			</div> <!-- pagebody --> 
+						<div id="footer">
+				<ul id="footer_links"> 
+					<li class="logged_in footer_hidden"><a rel="Footer: Invite Friends" href="/invites">Invite</a></li>
+					<li class="logged_out"><a rel="Footer: Become a Member" href="/index/clearmembercookie">Become a Member</a></li>
+					<li><a rel="Footer: Home" href="/">Home</a></li>
+					<li><a rel="Footer: About Us" href="/about">About</a></li>
+					<li><a rel="Footer: Help" href="/support">Help</a></li>
+					<li><a rel="Footer: Careers" href="/careers">Careers</a></li>
+					<li><a rel="Footer: Affiliate" href="/affiliate">Affiliate</a></li>
+					<li><a rel="Footer: Contact" href="/support#member_care_tab">Contact</a></li>
+					<li><a rel="Footer: Terms and Conditions" href="/help/terms">Terms</a></li>
+					<li class="last"><a rel="Footer: Privacy Policy" href="/help/privacy">Privacy</a></li>
+					<li class="next_line">Follow us on &nbsp;<a rel="Footer: Follow us on Facebook" href="http://www.facebook.com/hautelook?v=wall"><img src="/images/footer_facebook.png" class="pngfix" height="20" width="20" border="0"></a> <a rel="Footer: Follow us on Twitter" href="http://twitter.com/hautelook"><img src="/images/footer_twitter.png" class="pngfix" height="20" width="20" border="0"></a></li>
+				</ul>
+				<p>
+					© 2010 HauteLook				</p>
+			</div>
+		</div> <!-- innerwrapper -->
+		<div id="head_cart">
+			<div id="head_cart_inner">
+				<a rel="Topnav: View My Cart" href="javascript: my_cart.show_full_cart();"><img src="/images/my_cart.png"></a><span id="items_in_cart">(0)</span><a rel="Topnav: Checkout" href="/checkout/billing" id="checkout_link" onclick="checkLogin(&quot;checkout&quot;,&quot;billing&quot;,&quot;/checkout/billing&quot;);return false;" class="hidden"><img src="http://www2.hautelookcdn.com/images/cart_checkout.png"></a>
+			</div>
+		</div>
+	</div> <!-- outerwrapper -->
+	
+			<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-415580-3");
+}catch(err){}
+pageTracker._setCampSourceKey("sid"); pageTracker._setCampMediumKey("mid"); pageTracker._setCampNameKey("cid"); pageTracker._setCampTermKey("aid"); 
+pageTracker._trackPageview();
+</script>		
+	<!-- PIXELS--> 
+
+<!--END PIXELS-->
+
+ 
+	
+	
+			
+	
 
 
 </body></html>
