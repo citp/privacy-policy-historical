@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetruevoyeur.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417055528id_/http%3A//www.thetruevoyeur.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruevoyeur.com privacy policy that was archived on 2010-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100406022428id_/http%3A//www.thetruevoyeur.com/privacy.php) for the most accurate reproduction.*
 
 # The True Voyeur.Com - Free Voyeur, Real Amateur & Exhibitionist Nude Photos. We Update Daily!
 
