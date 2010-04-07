@@ -1,70 +1,62 @@
-> *The following text is extracted and transformed from the financeyourfreedom.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010164003id_/http%3A//www.financeyourfreedom.com/private_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financeyourfreedom.com privacy policy that was archived on 2010-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100407160242id_/http%3A//www.projectmojavesite.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
-# Private Policy
+# Privacy Policy
 
-Your privacy is important to us. Finance Your Freedom is committed to earning your trust and confidence. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. In order to participate in Finance Your Freedom opportunities a certain amount of personal information, provided willingly by you, is necessary to continue. The technology and practices employed by Finance Your Freedom in the collection and use of your personal information are explained in this Privacy Statement. Please read the complete Finance Your Freedom Privacy Statement.
+**PRIVACY POLICY**
 
-  
-**Technology**  
-Finance Your Freedom uses a feature of your Internet browser called a "cookie". Cookies are files that your Web browser places on your computer's hard drive. Finance Your Freedom also uses "web beacons", also known as clear gif technology, or action tags. Web beacons are tiny colorless image files placed in a web page that are served by Finance Your Freedom and counted when served. Web beacons are used to track the completion and submittal of applications. There are many misconceptions about cookies and web beacons, some of which we will try to clarify here for you.
+Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence. 
 
-Cookies and web beacons, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, submitting a Lender referral request. Finance Your Freedom does not and cannot use cookies or web beacons to retrieve personal information about you from your computer unless you knowingly and willingly provided such information. However, once you choose to furnish Finance Your Freedom with personally identifiable information, this information may be linked to the data stored in the cookie and recorded at Finance Your Freedom after a web beacon is counted.
+We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the "Services")-those who access some of our Services but do not have accounts ("Visitors") as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service ("Members")-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully. 
 
-Cookies and web beacons also help ensure that you don't see an offer that you have already completed. If you choose not to have your browser accept cookies and web beacons from Finance Your Freedom you will not be able to participate in the free gift and service opportunities, and will likely experience the same ads and offers repeatedly, because Finance Your Freedom will have no way of knowing if you have already seen them.
+**Personal Information Our Company Collects and How It Is Used**
 
-**What information is collected automatically?**  
-As part of our on-going efforts to ensure the best possible experience for all visitors to Finance Your Freedom, we use cookies and web beacons to collect data from browsers to aggregate statistical information. This includes your IP address, browser type, operating system, domain name, access times and referring Web site addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of Finance Your Freedom. Finance Your Freedom does not, and cannot collect personal information automatically.
+Introduction. Our company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service. 
 
-  
-**What information is collected voluntarily?**  
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. To process your Lender referral request, we require your name, phone number, email address, mortgage balance (if any) and estimated financial information such as debts, salary, credit, etc. In select cases a social security number may be requested from particular lenders. This information is used by the lenders in our network to provide accurate quotes and to contact you with rates and terms. Our website uses an order form for visitors to request information, products, and services. We collect visitor's contact information (like their email address). The information we collect may be used to improve the content of our web pages, used to customize the content and/or layout of our web pages for each individual visitor, shared with some of our partners or reputable third parties to help them contact visitors for marketing purposes, used by us to contact visitors for marketing purposes, used by us to get in touch with visitors when necessary. Personal information, other than contact information, will never be released to any third party at any time.
+Registration:  Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). This information may be shared with third parties, as stated herein, or in special circumstances. 
 
-Visitors may opt-out of receiving future mailings by following one of the options described in the Opt-Out/Choice section below.
+ However, in instances where our company and a partner jointly promote our Services, we may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the purpose of offering you other products and services. 
 
-**What information is collected by advertisers and links?**  
-Advertisements and other links on Finance Your Freedom will let you leave Finance Your Freedom and gain access to other sites. The linked sites are not under the control of Finance Your Freedomy, and Finance Your Freedom is not responsible for examining or evaluating the contents of any linked site. Finance Your Freedom does not assume any responsibility or liability for the actions, products, services and content of linked sites. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. Finance Your Freedom is providing these links to you only as a convenience, and the inclusion of any link does not imply endorsement or sponsorship by Finance Your Freedom.
+In this instance, personal information may not be used by the partner for any other purpose. We may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services. 
 
-Our website uses an order form for visitors to request information, products, and services. We collect visitor's contact information (like their email address). The information we collect may be used to improve the content of our web pages, used to customize the content and/or layout of our web pages for each individual visitor, shared with some of our partners or reputable third parties to help them contact visitors for marketing purposes, used by us to contact visitors for marketing purposes, used by us to get in touch with visitors when necessary. Personal information, other than contact information, will never be released to any third party at any time.
+Also, with purchases, we supply our member's contact information, to our business partners, who then may contact the member by telephone after the member purchase. Sales proceeds are collected by the that business partner company.  We also may supply other companies with contact information, for mail offers we believe would be of interest to our members, with or without compensation from those companies.  At times we may send an advertisement for a third party product, where we collect the sales proceeds, and forward the purchaser's information to that third party. 
 
-Visitors may opt-out of receiving future mailings by following one of the options described in the Opt-Out/Choice section below.
+Our Company Partners and Sponsors:  Some products and services may be offered to Visitors and Members in conjunction with an affiliate, independent contractor seller or non-affiliated partner. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information. 
 
-**How is my information used?**  
-We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. By supplying personal information to Finance Your Freedom, you grant Finance Your Freedom the right to use that information for additional marketing purposes, which includes providing individual user information to our advertising and marketing partners.
+Online Shopping:  At some Web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information. 
 
-We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing applications. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. Our company has no control over the third parties' use of any personal information you provide when placing such an order. Please exercise care when doing so. 
 
-We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot guarantee that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Statement.
+If you order services or products directly from our company, we use the personal information you provide to process that order.  We do share this information with outside parties that we do business with. 
 
-**Is my information secure?**  
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. All forms submitted through Finance Your Freedom are done so using a Secure Socket Layer (SSL) to encrypt the data. However, no data transmitted over the Internet can be 100% secure. As a result, while we strive to protect your personal information, Finance Your Freedom cannot guarantee the security of any information that you transmit to us and you do so at your own risk.
+Online Advertisements:  Our company may display our online advertisements. In those cases we share information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers. 
 
-**Third-Party Advertising**   
-We use third-party advertising companies to serve our ads on our website. These third-party advertising companies employ cookies and 1x1 pixel .gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes.
+Additionally, in some instances, we use this information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the information we have collected, we may then display or send the advertisement to the intended audience. Our company does share personal information about its Visitors or Members with these advertisers or joint venture companies.
 
-**Opt-Out/Choice**  
-This website gives the users the following options for removing their information from our database to not receive future communications:   
-You can send an email to: info@financeyourfreedom.com
+Responses to Email Inquiries: When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. 
 
-**Children's Guidelines**  
-Children under the age of 18 may not participate. Finance Your Freedom is a general audience site and does not knowingly collect any personal information from children.
+Voluntary Customer Surveys:  We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you. 
 
-**How may I get more information about the Finance Your Freedom Privacy Statement?**  
-If you would like any additional information about Finance Your Freedom privacy policies, or have any questions or comments, please email us at info@financeyourfreedom.com.
+We may take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
 
-**Legal Statement**  
-(Revised February 2003)
+Special Cases:  It is our company's policy to use or share the personal information about Visitors or Members in ways described herein without additional notice or means to opt out or otherwise prohibit such unrelated uses. 
 
-**Warranty Disclaimer**  
-Finance Your Freedom does not make and hereby expressly disclaims, to the extent permissible by law, all representations or warranties, express or implied, with respect to any matter whatsoever, including, without limitation, the performance of any product or service provided by Finance Your Freedom. Finance Your Freedom specifically disclaims any implied warranty of merchantability or fitness for a particular purpose.
+Also, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or Terms Of Service, or other user policies; to operate the Services properly; or to protect our company and our Members. 
 
-**Indemnification**  
-User agrees to indemnify, defend and hold harmless Finance Your Freedom, its affiliates, directors, officers, employees and agents from and against all claims and expenses, including attorneys' fees, arising out of the use of Consumer Equity by User.
+"Cookies" and How Our Company Uses Them. A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for purposes stated herein as well as for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.  Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them. 
 
-**Changes to this Document**  
-Finance Your Freedom will occasionally update the Terms of Use. By participating in the Finance Your Freedom service, you agree to accept the Terms of Use and are aware that the Consumer Equity Terms of Use may change from time to time.
+Our Company Commitment to Children's Privacy. Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our Web site to persons eighteen years or older.
 
-**Copyright Notice**  
-Copyright © 2003 Finance Your Freedom, All rights reserved.
+YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILD ONLINE PRIVACY ACT (COPA) AND IS NOT MONITORED AS DOING SO. 
 
-**General**  
-This Agreement constitutes the entire agreement of the parties with respect to the subject matter hereof. This Agreement shall be construed in accordance with the laws of the State of California, without regard to its conflict of laws rules. Any rights not expressly granted herein are reserved.
+Public Forums:  Please remember that any information you may disclose in any Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. 
+
+Our Company's Commitment to Data Security:  Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. 
+
+Where to Direct Questions About Our Privacy Policy:  If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site. 
+
+Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
+
+Last updated: June 29, 2006 
+
+Copyright © 2003-2020  
+
