@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thereadingroom.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105062146id_/http%3A//www.thereadingroom.com/helps/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thereadingroom.com privacy policy that was archived on 2010-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100407145126id_/http%3A//www.thereadingroom.com/helps/policy) for the most accurate reproduction.*
 
 # The Reading Room Privacy Policy
 
 ## Introduction
 
-thereadingroom.com (Site) is owned by BdB Soti Pty Ltd (referred to as "We", "us" and "our"). This statement sets out thereadingroom.com's policies relating to the collection and use of information about you ("personal information"). These policies are in addition to The Reading Room's Terms & Conditions governing The Reading Room and should be read in conjunction with the [Terms & Conditions.](https://web.archive.org/web/20091105062146id_/http%3A//www.thereadingroom.com/helps/terms_conditions)
+thereadingroom.com (Site) is owned by BdB Soti Pty Ltd (referred to as "We", "us" and "our"). This statement sets out thereadingroom.com's policies relating to the collection and use of information about you ("personal information"). These policies are in addition to The Reading Room's Terms & Conditions governing The Reading Room and should be read in conjunction with the [Terms & Conditions.](https://web.archive.org/web/20100407145126id_/http%3A//www.thereadingroom.com/helps/terms_conditions)
 
 The following policies set out how we protect your personal information and safeguard your privacy. 
 
