@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benefits.gov privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923203438id_/http%3A//www.govbenefits.gov/govbenefits_en.portal%3Bjsessionid%3DSbnrK6DLnbCywnr3H2llLvvN84DLnHXJlyJJx4FZJzG0RJC0VhTV%21-2133334407%3F_nfpb%3Dtrue%26_pageLabel%3Dgbcc_page_disclosures%26_nfls%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefits.gov privacy policy that was archived on 2010-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100407151617id_/http%3A//www.govbenefits.gov/govbenefits_en.portal%3Bjsessionid%3DP5yqL8dLnHddBGrC6y6ynhc4LnPlTnBK1lGGxRvR85gpvsv91JLG%211729083412%3F_nfpb%3Dtrue%26_pageLabel%3Dgbcc_page_disclosures%26_nfls%3Dfalse) for the most accurate reproduction.*
 
 # GovBenefits.gov - Privacy & Terms of Use
 
