@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rfidjournallive.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621114208id_/http%3A//www.rfidjournal.com/article/articleview/213) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rfidjournallive.com privacy policy that was archived on 2010-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100407224602id_/http%3A//www.rfidjournal.com/article/articleview/213) for the most accurate reproduction.*
 
-# RFID Journal - RFID Journal Privacy Statement - RFID (Radio Frequency Identification) Technology News & Features
+# RFID Journal Privacy Statement - RFID Journal
 
 RFID Journal LLC. ("RFID Journal") recognizes the importance of protecting the privacy of all information provided by users of our Web site and recipients of our e-mail newsletters. We created this policy with a fundamental respect for our users’ right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by RFID Journal, including but not limited to Web sites and newsletters. 
 
@@ -30,6 +30,9 @@ Some of our business affiliates use cookies on our sites in ads or promotions. H
 For our internal purposes, we gather date, time, browser type, navigation history and IP address of all visitors to our site. This information does not contain anything that can identify users personally. We use this information for our internal security audit log, trend analysis and system administration, and to gather broad demographic information about our user base for aggregate use. 
 
 We may combine demographic information supplied by a subscriber at registration with site usage data to provide general profiles, in aggregate non-personally identifiable form, about our users and their preferences in the content of the site and advertising. We may share this composite information with our advertisers and business affiliates to help them better understand our services. 
+
+Google, as a third party vendor, uses cookies to serve ads on our site.   
+Google's use of the DART cookie enables it to serve ads based on a visitor's behavior on our site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 **Interactive Features**   
 At some of our sites, we offer interactive and community features such as discussion boards. Note that all personal information sent or posted via such features becomes public information for which we are not responsible. 
