@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the trugreen.com privacy policy that was archived on 2009-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090708135018id_/http%3A//www.trugreen.com/tg/Privacy.dsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trugreen.com privacy policy that was archived on 2010-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100407205753id_/http%3A//www.trugreen.com/About/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy - TruGreen Lawn Care & Landscaping - TruGreen
+# TruGreen | Privacy Policy
+
+##  Privacy Policy
 
 The TruGreen Companies is committed to protecting the privacy of our users' personal information. To better protect your privacy, we have instituted the security and privacy practices outlined in this policy. We provide this notice explaining our information practices and the choices you can make about the way your information is used. Our privacy policy contains the following information:
 
@@ -71,7 +73,7 @@ When you place orders or access your account information, we use a secure server
 
 ## How to update/change your preferences
 
-The TruGreen Companies may send communications, promotional information, and/or newsletters to our registrants. You can choose to not receive communications from us. We provide the following options for reviewing and updating the personally identifiable information that we collect and maintain, including options for communications, news, and special offers. To review and update your choices, please [ send us an e-mail](mailto:customerservice@trugreenmail.com?subject=Profile%20Update) with your changes, titled "Profile Update". You may also call a customer care specialist at 1-800-TRUGREEN. You may also [ unsubscribe from our e-mail list](http://lawn-care.trugreen.com/cgi-bin/trucare.cfg/php/enduser/std_adp.php?p_faqid=529) at any time.  
+The TruGreen Companies may send communications, promotional information, and/or newsletters to our registrants. You can choose to not receive communications from us. We provide the following options for reviewing and updating the personally identifiable information that we collect and maintain, including options for communications, news, and special offers. To review and update your choices, please [send us an e-mail](mailto:customerservice@trugreenmail.com?subject=Profile%20Update) with your changes, titled "Profile Update". You may also call a customer care specialist at 1-800-TRUGREEN. You may also [unsubscribe from our e-mail list](http://info.trugreen.com/cgi-bin/trucare.cfg/php/enduser/std_adp.php?p_faqid=529) at any time.  
 
 
 ## Changes to our privacy policy
