@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourezads.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615063921id_/http%3A//yourezads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourezads.com privacy policy that was archived on 2010-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100407205038id_/http%3A//yourezads.com/privacy.php) for the most accurate reproduction.*
 
-# Your EZ Ads
+# Guaranteed Web Traffic, Text Ads, Banner Ads, Solo Ads & Login Ads - Free Guaranteed Traffic!
 
 Your EZ Ads Privacy Policy
 
@@ -34,4 +34,5 @@ Links: This web site contains links to other web sites. Please note that when yo
   
 Copyright (c) 2009 Your EZ Ads All Rights Reserved 
 
-[Member Login](http://yourezads.com/memberlogin.php)|  [How It Works](http://yourezads.com/members/how.php)|  [Terms and Conditions](https://web.archive.org/terms.php)| [Earnings Disclaimer](https://web.archive.org/earnings.php)|  [ Spam Policy](https://web.archive.org/spam.php)|  [ Privacy Policy](https://web.archive.org/privacy.php)|  [ JV With Your EZ Ads](http://yourezads.com/jv.php)
+[Member Login](http://yourezads.com/memberlogin.php)|  [How It Works](http://yourezads.com/members/how.php)|  [Terms and Conditions](https://web.archive.org/terms.php)| [Earnings Disclaimer](https://web.archive.org/earnings.php)|  [ Spam Policy](https://web.archive.org/spam.php)|  [ Privacy Policy](https://web.archive.org/privacy.php)|  [ JV With Your EZ Ads](http://yourezads.com/jv.php) |  [Recommended](http://yourezads.com/vip.php)   
+
