@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startpagey.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227151230id_/http%3A//www.startpagey.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startpagey.com privacy policy that was archived on 2010-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100407171712id_/http%3A//www.startpagey.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # startpagey.com Privacy Policy
 
@@ -26,3 +26,5 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 April 2009
 
 startpagey Team
+
+Contact: support@startpagey.com
