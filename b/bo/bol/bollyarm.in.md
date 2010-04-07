@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollyarm.in privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206105459id_/http%3A//www.bollyarm.in/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollyarm.in privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408003638id_/http%3A//www.bollyarm.in/privacy.htm) for the most accurate reproduction.*
 
 # bollyarm forum privacy policy
 
