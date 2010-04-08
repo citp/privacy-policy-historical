@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsb.org.uk privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212075031id_/http%3A//www.fsb.org.uk/default.aspx%3Fid%3D27%26loc%3Dgeneral) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsb.org.uk privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408121157id_/http%3A//www.fsb.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -10,19 +10,19 @@ We have two associated companies, FSB (Member Services) Limited (company number 
 
 #### Contacting the FSB
 
-Questions about our Privacy Statement can be addressed to the “Data Protection Controller” at the above address. 
+Questions about our Privacy Statement can be addressed to the "Data Protection Controller" at the above address. 
 
 #### What we do
 
-The FSB exists to serve the interests of its Members and our core objectives are set out in our Memorandum and Articles of Association. FSB Member Services Ltd is party to a contract with Warren Hill (Insurance Brokers) and NFSE Sales Limited produces the FSB’s journal, First Voice. NFSE Sales Limited also acts as a reseller of selected merchandise and products.
+The FSB exists to serve the interests of its Members and our core objectives are set out in our Memorandum and Articles of Association. FSB Member Services Ltd is party to a contract with Warren Hill (Insurance Brokers) and NFSE Sales Limited produces the FSB's journal, First Voice. NFSE Sales Limited also acts as a reseller of selected merchandise and products.
 
 #### The Data Protection Act 1998
 
 The Data Protection Act 1998 regulates the processing of personal data. Organisations like the FSB process personal data on a daily basis. The Act requires us to give information about our data processing activities and how we deal with the information that we hold.
 
-Personal data are defined as any information relating to a living individual from which he or she can be identified (such as a person’s name, address or date of birth).
+Personal data are defined as any information relating to a living individual from which he or she can be identified (such as a person's name, address or date of birth).
 
-The personal data that we collect consists mainly of Members’ names, addresses and contact details and any other information necessary for us to be of service to our Members, including the necessary financial information required to maintain subscriptions and provide the facilities that our Members require.
+The personal data that we collect consists mainly of Members' names, addresses and contact details and any other information necessary for us to be of service to our Members, including the necessary financial information required to maintain subscriptions and provide the facilities that our Members require.
 
 #### Data processing
 
@@ -34,9 +34,9 @@ Membership data is shared between FSB Regions and the subsidiary companies and o
 
 Information may be disclosed to approved third parties for marketing purposes. If you would prefer not to receive marketing information please contact us.
 
-We will maintain confidentiality in your information even after your Membership has ceased and aside from the categories already mentioned your information will not be disclosed to anyone else except where we are legally compelled to do so, where there is a duty to the public to disclose, where disclosure is necessary to protect the FSB’s interests or where the disclosure is made with your consent or at your request.
+We will maintain confidentiality in your information even after your Membership has ceased and aside from the categories already mentioned your information will not be disclosed to anyone else except where we are legally compelled to do so, where there is a duty to the public to disclose, where disclosure is necessary to protect the FSB's interests or where the disclosure is made with your consent or at your request.
 
 #### Access Rights
 
-On payment of a statutory fee of 10 pounds, you have the right to be informed of the information that we hold on you within 40 days. You also have the right to request that all inaccuracies be amended. All enquiries should be addressed to the “Data Protection Controller” at our Blackpool address.  
+On payment of a statutory fee of 10 pounds, you have the right to be informed of the information that we hold on you within 40 days. You also have the right to request that all inaccuracies be amended. All enquiries should be addressed to the "Data Protection Controller" at our Blackpool address.  
 
