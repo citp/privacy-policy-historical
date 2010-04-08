@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tvgorge.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104111310id_/http%3A//tvgorge.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvgorge.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408044720id_/http%3A//www.tvgorge.com/privacy.php) for the most accurate reproduction.*
 
-# Watch TV Online - TVGorge.com - Privacy Policy
+# Privacy Policy - TVGorge.com
 
 ## TVGorge Privacy Policy
 
