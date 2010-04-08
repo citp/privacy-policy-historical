@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratemydrawings.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130122236id_/http%3A//www.ratemydrawings.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemydrawings.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408123907id_/http%3A//www.ratemydrawings.com/pages/privacy.php) for the most accurate reproduction.*
 
 # RateMyDrawings - Privacy
 
@@ -90,10 +90,10 @@
 >  3) Remove yourself from our system; or   
 >  4) Provide verification of parental consent for users under 13 years of age. To protect your security, we may take reasonable steps to verify your identity before granting access to your personal information. 
 > 
-> You may contact us via U.S. Postal Service:   
+> You may contact us via mail:   
 >  RateMyDrawings Privacy Administrator  
 >  c/o Mixart New Media, LLC  
->  PO Box 50752  
->  Bellevue, WA, 98004
+>  PO Box 3302  
+>  Redmond, WA, 98073
 > 
 > or Fax: +1(425) 502-6612, or Email: [[Click to reveal]](http://mailhide.recaptcha.net/d?k=01z2_4gSbB2BXHnzhm27hR4Q==&c=EqGyBmJQmlgy7rHLD8-wEwdRHjj8wi_dB0v7wRc6J_4= "Reveal this e-mail address")
