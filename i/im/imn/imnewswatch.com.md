@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imnewswatch.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230225924id_/http%3A//www.imnewswatch.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imnewswatch.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408121227id_/http%3A//www.imnewswatch.com/Privacy.html) for the most accurate reproduction.*
 
 # Internet Marketing NewsWatch - PRIVACY POLICY
 
