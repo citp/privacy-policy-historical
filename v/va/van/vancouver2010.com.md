@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vancouver2010.com privacy policy that was archived on 2009-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091117013444id_/http%3A//www.vancouver2010.com/more-2010-information/about-vanoc/organizing-committee/terms-and-policies/privacy/vanoc-web-site-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vancouver2010.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408195607id_/http%3A//www.vancouver2010.com/more-2010-information/about-vanoc/organizing-committee/terms-and-policies/privacy/vanoc-web-site-privacy-policy) for the most accurate reproduction.*
 
 # VANOC Web Site Privacy Policy : Vancouver 2010 Winter Olympics
 
