@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chipin.com privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224204651id_/http%3A//blog.chipin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chipin.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409015518id_/http%3A//blog.chipin.com/privacy) for the most accurate reproduction.*
 
 # ChipIn News » Privacy Policy
 
-Last Updated 10/26/06
+Last Updated 7/9/09
 
 ## Registration
 
@@ -18,7 +18,7 @@ We use this information for billing purposes and to fill your orders. If we have
 
 ## Your personally identifiable information collected by ChipIn
 
-When you register with the ChipIn service, our registration form may require you to give us certain information such as your name, email address, and zip code. ChipIn will also collect other information that you volunteer to us through use of our service. We refer to this information as “Personally Identifiable Information.” You may always choose not to provide such personally identifiable information. However, this may limit our ability to provide you with a specific features and content. We may also collect demographic and other data - which may include personally identifiable information - through surveys and forms that you may or may not choose to participate in. If you contribute funds to a ChipIn event or place an order for goods on ChipIn, you may be required to enter your credit card number and information, as well as your shipping address and/or other contact information.
+When you register with the ChipIn service, our registration form may require you to give us certain information such as your name, email address, and zip code. ChipIn will also collect other information that you volunteer to us through use of our service. We refer to this information as “Personally Identifiable Information.” You may always choose not to provide such personally identifiable information. However, this may limit our ability to provide you with a specific features and content. We may also collect demographic and other data – which may include personally identifiable information – through surveys and forms that you may or may not choose to participate in. If you contribute funds to a ChipIn event or place an order for goods on ChipIn, you may be required to enter your credit card number and information, as well as your shipping address and/or other contact information.
 
 ## Participant contact information
 
@@ -26,15 +26,15 @@ In order to send messages to your participants through the ChipIn service, we re
 
 **Cookies:** ChipIn wants to optimize your experience by ensuring that the most relevant information, promotions and offers are displayed to you while using the ChipIn web site. A common manner in which to do this is by placing cookies on your computer. Cookies are strings of text and numbers that can identify your computer to us when you visit our site. We will not store any information in cookies that can be used to identify you personally unless you request us to do so (such as by allowing us to remember your email address when you visit our site). In the event that a location such as a ZIP code is not available in your profile, or you have not searched a location on ChipIn, we will cookie your location from your last ChipIn invitation.
 
-**IP Address:** When you visit our site, we log standard information such as your IP address - which is a number that can be used to identify your location and Internet Service Provider - along with the URL from which you came to our site and the URLs visited on our site. A URL is the full address of a Web site page, which may or may not contain personally identifiable information about the person who is viewing it.
+**IP Address:** When you visit our site, we log standard information such as your IP address – which is a number that can be used to identify your location and Internet Service Provider – along with the URL from which you came to our site and the URLs visited on our site. A URL is the full address of a Web site page, which may or may not contain personally identifiable information about the person who is viewing it.
 
 When we send messages to you or others, we may provide a URL link to the ChipIn site that contains an alphanumeric identifier, which allows us to identify the email recipient so that we can personalize our content for that individual.
 
 ## Transactional Information
 
-**Information obtained from third parties** \- In order to protect you from fraud or other misconduct, we may obtain information about you from third parties to verify the information you provide. For example, we may use card authorization and fraud screening services to verify that your credit or debit card information and address match the information that you provided to us.
+**Information obtained from third parties** – In order to protect you from fraud or other misconduct, we may obtain information about you from third parties to verify the information you provide. For example, we may use card authorization and fraud screening services to verify that your credit or debit card information and address match the information that you provided to us.
 
-**Transaction information** \- When you use our ChipIn collaborative payment service to conduct a transaction, we collect information about each transaction, including the transaction amount, a description provided by the organizer of the event, goods or services being purchased, the names of the participants and beneficiaries, and the payment method and instrument used.
+**Transaction information** – When you use our ChipIn collaborative payment service to conduct a transaction, we collect information about each transaction, including the transaction amount, a description provided by the organizer of the event, goods or services being purchased, the names of the participants and beneficiaries, and the payment method and instrument used.
 
 ## Agents
 
@@ -47,17 +47,17 @@ These third parties are prohibited from using your personally identifiable infor
 
 ## Communications from the site
 
-**Special Offers and Updates** \- We will occasionally send you information on new products and services, special deals, and promotions. You can sign up for these emails from us on our registration page. Out of respect for your privacy, we provide all users with the option to not receive these types of notifications. Please see the “Choice and Opt-out” section for more details.
+**Special Offers and Updates** – We will occasionally send you information on new products and services, special deals, and promotions. You can sign up for these emails from us on our registration page. Out of respect for your privacy, we provide all users with the option to not receive these types of notifications. Please see the “Choice and Opt-out” section for more details.
 
-**Newsletters** \- If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide an easy way for you to unsubscribe if needed. Please see the “Choice and Opt-out” section for futher details.
+**Newsletters** – If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide an easy way for you to unsubscribe if needed. Please see the “Choice and Opt-out” section for futher details.
 
-**Service-related Announcements** \- We will send you service-related announcements on rare occasions, and only when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you a notification email.
+**Service-related Announcements** – We will send you service-related announcements on rare occasions, and only when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you a notification email.
 
 Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
 
-**Customer Service** \- Based upon the personally identifiable information you provide us, we will send you a welcome email to verify your username and password. We will also communicate with you in response to your inquiries to provide the services you request and to manage your account. We will communicate with you by email or telephone in accordance with your wishes.
+**Customer Service** – Based upon the personally identifiable information you provide us, we will send you a welcome email to verify your username and password. We will also communicate with you in response to your inquiries to provide the services you request and to manage your account. We will communicate with you by email or telephone in accordance with your wishes.
 
-**Profile** \- We store information that we collect through cookies, log files, clear gifs, and/or third party sources to create a “profile” of your preferences. We tie your personally identifiable information and your participation and purchase history to information in your profile in order to provide tailored promotions and marketing offers, and to improve the content of the site for you.
+**Profile** – We store information that we collect through cookies, log files, clear gifs, and/or third party sources to create a “profile” of your preferences. We tie your personally identifiable information and your participation and purchase history to information in your profile in order to provide tailored promotions and marketing offers, and to improve the content of the site for you.
 
 We do share your profile (in aggregate form only) with other third parties.
 
@@ -163,9 +163,3 @@ ChipIn Inc.
 2800 Woodlawn Drive, Suite 138  
 Honolulu, HI 96822  
 (415) 644.5827
-
-## TRUSTe
-
-ChipIn Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site **www.chipin.com**. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact ChipIn Support via our [contact form](http://contact.chipin.com/). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
