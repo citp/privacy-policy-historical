@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the licensepal.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227032622id_/http%3A//www.licensepal.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the licensepal.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408201326id_/http%3A//licensepal.com/pp.php) for the most accurate reproduction.*
 
-# LicensePal - WHMCS, Kayako and ClientExec License Reseller
+# LicensePal - Web Hosting Software License Reseller - Company
 
-## Privacy Policy - LicensePal
+## Privacy Policy
 
-When you visit the LicensePal web site ("[http://www.licensepal.com](http://www.licensepal.com/)"), we want you to be assured that we make every effort to respect your personal privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
+When you visit the LicensePal web site ("[http://www.licensepal.com](http://www.licensepal.com/)"), we want you to be assured that we make every effort to respect your personal and financial privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
 
-The purpose of this policy is to inform you on every aspect of data gathering, from why we do it, how we do it and then what we do with it.
+The purpose of this policy is to inform you on every aspect of data gathering, why we do it, how we do it and then what we do with it.
 
 ### Data Gathering Key Points
 
 ### 1\. Ownership of Information
 
-WHMCS Licenses is the sole owner of any information collected. We will not sell, share, or rent this information to others in ways different from that disclosed in this statement. The offical WHMCS Website (WHMCS.com) will require clients details for license information. Please contact WHMCS if you wish to review their privacy policy.
+LicensePal is the sole owner of any information collected. We will not sell, share, or rent this information to others in ways different from that disclosed in this statement. The products we sell will require clients details for license information. Please contact the respective software producer if you wish to review their privacy policy.
 
 ### 2\. Users 16 and under
 
-If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to the WHMCS Licenses's website. Users without this consent are not allowed to provide us with personal information.
+If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to the LicensePal website. Users without this consent are not allowed to provide us with personal information.
 
 ### 3\. Use of Cookies
 
@@ -32,11 +32,11 @@ IP addresses are not linked to personally identifiable information. We shall als
 
 ### 6\. Links to Other Sites
 
-This web site may contain links to other sites. WHMCS Licenses cannot be held responsible for the privacy practices of other such sites. Please do not assume that other sites abide by our privacy standards.
+This web site may contain links to other sites. LicensePal cannot be held responsible for the privacy practices of other such sites. Please do not assume that other sites abide by our privacy standards.
 
 ### 7\. Security of Collected Data
 
-WHMCS Licenses takes every sensible precaution to protect the information we collect from our users. Access to this information is protected both online and off-line.
+LicensePal takes every sensible precaution to protect the information we collect from our users. Access to this information is protected both online and off-line. LicensePal does not store any financial information of customers and any off-line transactions.
 
 ### 8\. Site and Service Updates
 
