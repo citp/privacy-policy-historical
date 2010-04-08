@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allegromedical.com privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821190514id_/http%3A//www.allegromedical.com/support/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allegromedical.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409002457id_/http%3A//www.allegromedical.com/support/privacyPolicy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,6 +35,5 @@ Keeping your personal information confidential is a top priority for all Allegro
   7. To help us keep your customer information up-to-date and accurate, please contact Allegro Medical if there is any change in your personal information. 
   8. When necessary, we will review and revise our Privacy Policies to protect customer information. 
   9. You can decide if you want to limit how we share personal information about you with unaffiliated third parties. If you do not want us to share your personal information or you would like to amend your personal information, telephone us at 1-800-861-3211 , or 480-990-8881 if you are located in the Phoenix Metro Area. 
-  10. If you feel your privacy rights have been violated, call 1-866-282-0659.
 
 
