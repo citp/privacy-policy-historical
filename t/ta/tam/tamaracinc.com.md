@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamaracinc.com privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301181651id_/http%3A//www.tamaracinc.com/Privacy-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamaracinc.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408021550id_/http%3A//www.tamaracinc.com/Privacy-Policy.asp) for the most accurate reproduction.*
 
 # Tamarac Inc. | Privacy Policy
 
