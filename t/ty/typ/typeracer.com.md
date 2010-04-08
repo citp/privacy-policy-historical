@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typeracer.com privacy policy that was archived on 2009-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090908232835id_/http%3A//www.typeracer.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typeracer.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408080017id_/http%3A//www.typeracer.com/docs/privacy.html) for the most accurate reproduction.*
 
 # TypeRacer Privacy Policy
 
@@ -161,4 +161,5 @@ Microsoft Internet Explorer 6 will evaluate this policy's compact policy wheneve
 
 **Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
 
-**Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
+**Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings.   
+[www.typeracer.com](http://www.typeracer.com/)
