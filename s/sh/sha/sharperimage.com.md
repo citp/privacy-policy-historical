@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharperimage.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207201153id_/http%3A//www.sharperimage.com/Pages/Privacy%2Band%2BSecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharperimage.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409012616id_/http%3A//www.sharperimage.com/Pages/Privacy%2Band%2BSecurity) for the most accurate reproduction.*
 
 # Privacy and Security | Sharper Image Online
 
@@ -37,9 +37,9 @@ The information we collect is used to improve our Website, to notify consumers a
 We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us, either through email or by phone, please let us know by sending us an email or calling us at 1-877-714-7444.
 
  **Mailing Lists**  
-We occasionally share our customer postal mailing lists with select companies that might interest you. If you prefer that we not share your name, please click here to send us an email to be removed from the list. 
+We occasionally share our customer postal mailing lists with select companies that might interest you. If you prefer that we not share your name, please call customer service at 1-877-714-7444 to be removed from the list. 
 
-Additionally, if you do not want to receive our catalog, please click here to send us an email to be removed from the list.   
+Additionally, if you do not want to receive our catalog, please [click here](mailto:customerservice@sharperimageonline.com) to send us an email to be removed from the list.   
 When emailing to be removed from a list, please include the following information in the email:  
 -FIRST AND LAST NAME  
 -STREET, CITY, STATE AND ZIP  
