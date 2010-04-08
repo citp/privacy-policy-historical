@@ -1,24 +1,23 @@
-> *The following text is extracted and transformed from the easybib.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605050927id_/http%3A//www.easybib.com/main.php%3FID%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easybib.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408193211id_/http%3A//www.easybib.com/company/privacy) for the most accurate reproduction.*
 
-# EasyBib.com - Free, Automatic Bibliography Formatting, Alphabetizing, and Printing.
+# EasyBib: Privacy policy
 
-privacy policy
+EasyBib is committed to providing the utmost is privacy security. We do not sell nor trade any personal information obtained from the site. 
 
-EasyBib.com is committed to providing the utmost is privacy security. We do not sell nor barter any specific personal information obtained from the site. 
+EasyBib does not collect personally identifiable information from anyone without his or her request. All e-mail correspondence is kept in strict privacy and will not be disclosed to parties other than EasyBib. 
 
-Some personal information, such as name, is collected when you register for the newsletter. However, once again, EasyBib.com does not sell names on the newsletter. The newsletter is part of the eGroups network. EasyBib.com is not responsible for any action taken by eGroups. The privacy statement for eGroups can be found here. 
+EasyBib collects user registration upon sign up. EasyBib does not disclose user information to third parties without the express consent of the user. 
 
-Once signed up for the newsletter, you always have the ability to unsubscribe. EasyBib.com only sends the newsletter out to those who request it. 
-
-EasyBib.com does not collect information from anyone without his request. All e-mail correspondence is kept in strict privacy and will not be disclosed to parties other than EasyBib.com. 
-
-EasyBib.com does not obtain information that can be directly linked to any specific individual. However, when advertisers request, EasyBib.com will provide aggregate information on the general makeup of the site's viewers. Such aggregate information includes the number of pageviews, times of pageviews, continental locations (if applicable), most hit URLs, and browser types. EasyBib.com will not disclose any information that can be traced to a specific individual. 
+When advertisers request, EasyBib will provide aggregate information on the general makeup of the site's viewers. Such aggregate information includes the number of pageviews, times of pageviews, continental locations (if applicable), most hit URLs, and browser types. EasyBib will not disclose any information that can be traced to a specific individual. 
 
 These policies are subject to change, so please make sure to check back periodically. 
 
-Although EasyBib.com has a strict privacy policy, all interactions with the Internet pose some inherent dangers. Please be aware of these and conduct all your transactions with caution. Please be careful and responsible when you are surfing online. 
+Although EasyBib has a strict privacy policy, all interactions with the Internet pose some inherent dangers. Please be aware of these and conduct all your transactions with caution. Please be careful and responsible when you are surfing online. 
+
+Third Party Cookies 
+
+EasyBib serves advertising, and ad networks may serve third party cookies that do their own tracking. You can opt out of third-party cookies either by blocking them from your browser or by visiting [Network Advertising Initiative](http://networkadvertising.org/) and [opting out from the networks directly](http://networkadvertising.org/managing/opt_out.asp). 
 
 Thank you for surfing with us,  
-[Darshan and Neal](http://www.easybib.com/main.php?ID=6)  
-EasyBib.com  
-
+[Darshan and Neal](https://web.archive.org/company/contact)  
+Imagine Easy Solutions LLC 
