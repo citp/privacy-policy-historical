@@ -1,270 +1,155 @@
-<!--The following is the downloaded HTML source of the cpanel.com privacy policy that was archived on 2007-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071208170723id_/http%3A//www.cpanel.net/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cpanel.com privacy policy that was archived on 2010-04-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100409055129id_/http%3A//www.cpanel.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>cPanel - The Leading Control Panel</title>
-<link href="http://www.cpanel.net/css/styles.css" rel="stylesheet" type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=8">
+<meta http-equiv="imagetoolbar" content="no">
+<title>Privacy Policy - cPanel Inc.</title>
+<link rel="stylesheet" href="/css/global.css" type="text/css" media="screen,projection">
 
 
-       
-	    <!--[if lt IE 7]>
-		<style type="text/css">
-		#logo {
-			margin-left: -12px;
-			}
-		</style>
-		<![endif]-->
-		 <!--[if lte IE 7]>
-			<style type="text/css">
-					#forum-posts li {
-					background: none;border-bottom: solid 1px #CCC;padding: 10px 0 3px 0;}
-					#news-posts li {
-						background: none;border-bottom: solid 1px #CCC;padding: 10px 0 3px 0;}
-			</style>
-			<![endif]-->
-        <!-- Page-specific styles -->
-        <style type="text/css">
 
-                      
-            div.yuimenu {
-                position:absolute;
-            }
-			
-            #yuimenu li {
-			padding: 0px;
-			}
 
-        </style>
-        <script type="text/javascript" src="http://www.cpanel.net/js/utilities_container_menu.js"></script>
+<!--[if IE]>
+<link rel="stylesheet" href="/css/ie.css" type="text/css" media="screen,projection" />
+<![endif]-->
+<!--[if IE 6]>
+<script src="/js/png-fix.js"></script>
+<script>
  
-        <!-- Page-specific script -->
-<script type="text/javascript">
-var eventlist = [];
-
-             var buildMenu = function(p_oEvent) {
-                // Instantiate and render the menu bar
-                var oMenuBar = new YAHOO.widget.MenuBar("productsandservices", { autosubmenudisplay:true, hidedelay:750, lazyload:true });
-                oMenuBar.render();
-            };
-
-
-eventlist.push(buildMenu);
-// Initialize and render the menu bar when it is available in the DOM
-
-
-
-function callEvents() {
-   for(var i=eventlist.length-1;i>=0;i--) {
-      eventlist[i]();
-   }
-}
-YAHOO.util.Event.onDOMReady(callEvents);
-var helppanel;
-var inited_help = 0;
-var help_off=1;
-// Define various event handlers for Dialog
-var handleSubmit = function() {
-   this.submit();
-};
-var handleCancel = function() {
-   this.cancel();
-};
-function help_init() {
-   helppanel = new YAHOO.widget.Dialog("win", { buttons : [ { text:"Submit", handler:handleSubmit, isDefault:true }, 
-                                                                                     { text:"Cancel", handler:handleCancel } ], effect:{effect:YAHOO.widget.ContainerEffect.FADE,duration:0.25}, fixedcenter: true, constraintoviewport: true, underlay:"none", width:'500px', close:true, visible:false, draggable:true, modal:false} );
-
-   var handleSuccess = function(o) {
-      var response = o.responseText;
-      alert(response);
-      if (response.match('resubmit')) {
-         setTimeout(show_help,2);
-      }
-   };
-
-   var handleFailure = function(o) {
-      alert("Submission failed: " + o.status);
-      alert(o.responseText);
-   };
-
-   helppanel.callback = { success: handleSuccess,
-      failure: handleFailure };
-
-      // Validate the entries in the form to require that both first and last name are entered
-   helppanel.validate = function() {
-      var data = this.getData();
-      if (data.comments == "") {
-         alert("Please provide some comments.");
-         return false;
-      } else {
-         return true;
-      }
-   };
-
-   helppanel.render();
-
-   helppanel.beforeHideEvent.subscribe(handle_hide_help, helppanel, true);
-   inited_help=1;
-
-}
-function handle_hide_help(el) {
-   var helpc = document.getElementById('help-content');
-   if (!helpc) { alert("The 'help-content' id is missing"); }
-   var winc = document.getElementById('win');
-   helpc.style.display='none';
-   winc.style.display='none';
-}
-function show_help() {
-   var helpc = document.getElementById('help-content');
-   if (!helpc) { alert("The 'help-content' id is missing"); }
-
-   var winc = document.getElementById('win');
-   winc.style.display='block';
-   helpc.style.display='block';
-
-   if (inited_help != 1) {
-      help_init();
-   }
-
-   helppanel.show();
-}
-function enable_help() {
-       help_on = 1;
-}
-
-function hide_help_content() {
-var elem = document.getElementById("help-content");
-elem.style.display = 'none';
-}
-
-
-
-YAHOO.util.Event.addListener(window, "load", help_init);
+  DD_belatedPNG.fix('#content');
+  
 </script>
-<noscript>
-<style  TYPE="text/css">
-.noscript {
-	position:absolute;
-	z-index:-1;
-}
-</style>
-</noscript>
-
-<!-- Flash Movie Source Files 
---><script type="text/javascript" src="http://www.cpanel.net/js/swfobject_source.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-// -----------------------------------------------------------------------------
-// Globals
-// Major version of Flash required
-var requiredMajorVersion = 8;
-// Minor version of Flash required
-var requiredMinorVersion = 0;
-// Minor version of Flash required
-var requiredRevision = 0;
-// -----------------------------------------------------------------------------
-// -->
-</script></head>
-
+<![endif]--> 
+<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=55720005"></script></head>
 <body>
-<div id="page">		
-
- <div class="yui-t1">
-            
-            <div id="bd">
-
-                <!-- start: primary column from outer template -->
-                <div id="yui-main">
-                    <div class="yui-b">
-                        <!-- start: stack grids here -->
-						<div id="contactlink"><img src="http://www.cpanel.net/images/contact.gif" alt="contact us">  <a href="http://www.cpanel.net/company/contact/contact.html">contact us</a></div>	
-					<div id="logo"><a href="http://www.cpanel.net"><img src="http://www.cpanel.net/images/logo.jpg" alt="cPanel" border="0"></a></div>
-<!--					
-	<span id="contactlink"><a href="http://www.cpanel.net/company/contact/contact.html">Contact Us</a></span>
--->                       
 
 
-			<div id="productsandservices" class="yuimenubar" style="float:right;">
-                            <div class="bd">
-                                <ul class="first-of-type">
-									      <li class="yuimenubaritem"><a href="http://www.cpanel.net">Home</a></li>
-                	               <li class="yuimenubaritem first-of-type"><a href="http://www.cpanel.net/products/index.htm">Products</a>
+<div id="container">
+
+	<div class="clear" id="header">
+		
+		<div id="logo">
+			<a href="/"><img src="/images/logo.jpg" width="130" height="31" alt="cPanel"></a>
+		</div>
+		
+		<div id="top_nav">
+			<ul>
+				<li><a href="/company.html">Company</a></li>
+				<li><a href="http://forums.cpanel.net/">Forums</a></li>
+				<li><a href="/jobs.html">Jobs</a></li>
+				<li><a href="/contact.html">Contact</a></li>
+				<!-- BEGIN LivePerson Button Code --><li><a id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/55720005/?cmd=file&amp;file=visitorWantsToChat&amp;offlineURL=http://www.cpanel.net/offline-chat.html&amp;site=55720005&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" target="chat55720005" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/55720005/?cmd=file&amp;file=visitorWantsToChat&amp;offlineURL=http://www.cpanel.net/offline-chat.html&amp;site=55720005&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat55720005','width=475,height=400,resizable=yes');return false;">Live Chat</a></li><!-- END LivePerson Button code -->
+				<li class="last"><a href="/press">Press</a></li>
+
+			</ul>
+			
+<div id="site_search">
+				<form class="ti" name="search" action="http://www.cpanel.net/g-results.html" id="cse-search-box site_text">
+
+    <input type="hidden" name="cx" value="006465675246766134745:dthkmrlvrug">
+    <input type="hidden" name="cof" value="FORID:10">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input id="site_text" type="text" name="q">
+    <input id="site_btn" type="submit" name="sa" value="Search">
+
+</form>
+			</div>	
+	</div>
+
+		
+	</div>
+	<!-- END #header -->
+	
+	<div class="clear" id="main_nav">
+	<ul id="main_nav_list">
+		<li><a href="/">Home</a></li>
+		<li class="dropdown">
+			<a href="/products">Products</a>
+			<div class="pop" id="productdrop" style="display:none;">
+				<ul>
+					<li>
+						<a href="/products/cpanelwhm/">
+							<span class="title">cPanel / WHM</span>
+							<span class="desc">Linux Web Hosting control panel system</span>
+						</a>
+					</li>
+					<li>
+						<a href="/windows/overview.html">
+							<span class="title">Enkompass</span>
+							<span class="desc">Windows Web Hosting control panel system</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</li>
+		<li><a href="/news.html">News</a></li>
+		<li><a href="/support.html">Support</a></li>
+        <li><a href="/developer">Developer Center</a></li>
+	</ul>
+	<ul id="main_nav_actions">
+		<li><a href="/products/cpanelwhm/purchase-cpanel-products.html" id="btn_buy_now">Buy Now</a></li>
+		<li><a href="/products/cpanelwhm/try-demo.html" id="btn_try_demo">Try Demo</a></li>
+	</ul>
+</div>
+<!-- END #main_nav -->
+
+	
+	<div id="content">
+                									
+										
+											
+												
+													
+													
+
+
+														<div class="clear" id="content_holder">
+
+
+													
+														
+											
+										
 									
-									 	      <div id="products" class="yuimenu">
-                                            <div class="bd">
-                                                <ul>
-                                                    <li class="yuimenuitem"><a href="http://www.cpanel.net/products/cPanelandWHM/linux/cPWHMov.htm">cPanel and WHM/Linux</a></li>
-<li class="yuimenuitem"><a href="http://www.cpanel.net/products/cPanelandWHM/windows/index.html">cPanel Server Suite/Windows</a></li>
-                                                    <li class="yuimenuitem"><a href="http://www.cpanel.net/products/modules.htm">Software Modules</a></li>
-                                                    <li class="yuimenuitem"><a href="http://www.cpanel.net/products/partnerproducts.htm">Partner Products</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>  
-                                   </li>
-					<li class="yuimenubaritem"><a href="http://www.cpanel.net/partners/index.html">Purchase</a>
-                		<div id="purchase" class="yuimenu">
-                        	<div class="bd">                    
-                            	<ul>
-                              <li class="yuimenuitem"><a href="http://www.cpanel.net/purchase/cPanelandWHM/linux/cPanel_WHM.htm">from cPanel</a></li>
-                              <li class="yuimenuitem"><a href="http://www.cpanel.net/partners/index.html">from a Partner</a></li>
-                             </ul>
-                            </div>
-                       </div>                    
- 					</li>
-                    <li class="yuimenubaritem"><a href="http://www.cpanel.net/support/support.htm">Support</a>
- 						<div id="support" class="yuimenu">
-                        	<div class="bd">                    
-                            	<ul>
-                                	<li class="yuimenuitem"><a href="http://changelog.cpanel.net/">Change Log</a></li>
-									<li class="yuimenuitem"><a href="http://www.cpanel.net/support/support.htm">Contact</a></li>									
-									<li class="yuimenuitem"><a href="http://www.cpanel.net/support/downloads/downloads.htm">Downloads</a></li>
-									<li class="yuimenuitem"><a href="http://www.cpanel.net/support/docs/index.htm">Documentation</a></li>
-									<li class="yuimenuitem"><a href="http://faq.cpanel.net/">FAQ</a></li>
-								</ul>                    
-                           	</div>
-                    	</div>                                        
-                    </li>
-                    <li class="yuimenubaritem"><a href="http://forums.cpanel.net/">Community</a>
-                		<div id="Community" class="yuimenu">
-                        	<div class="bd">                                        
-                            	<ul>
-					<li class="yuimenuitem"><a href="http://forums.cpanel.net/">Forums</a></li>
-					<li class="yuimenuitem"><a href="http://www.cpanel.net/company/news/maillists.htm">Mailing Lists</a></li>
-                                	<li class="yuimenuitem"><a href="http://blog.cpanel.net">News</a></li>
-					<li class="yuimenuitem"><a href="http://www.cpanel.net/security">Security Center</a></li>
-                                	<li class="yuimenuitem"><a href="http://www.cpanel.net/plugins">Third Party / <br>Developers</a></li>
-                             	</ul>                    
-                       		</div>
-                   		</div>                                        
-                    </li>
-					<li class="yuimenubaritem" style="background-image:none;"><a href="http://www.cpanel.net/company/index.htm">Company</a>
-					<div id="Company" class="yuimenu">
-                        	<div class="bd">                                        
-                            	<ul>
-                                	<li class="yuimenuitem"><a href="http://www.cpanel.net/company/index.htm">About</a></li>
-									<li class="yuimenuitem"><a href="http://www.cpanel.net/company/contact/contact.html">Contact</a></li>
-									<li class="yuimenuitem"><a href="http://www.cpanel.net/company/employment.htm">Employment</a></li>
-									<li class="yuimenuitem"><a href="http://www.cpanel.net/company/testimonials.htm">Testimonials</a></li>
-                             	</ul>                    
-                       		</div>
-					</div></li>
-			</ul>            
-       </div>
-    </div>     
-    <!-- end: stack grids here -->
-                    </div>
-                </div>
-                <!-- end: primary column from outer template -->
-            </div>
-        </div>
+									
+			<div id="subpage_banner">
+				<h1>Privacy Policy</h1>
+			</div>
+			<!-- END #subpage_banner -->
+			
+			
+			
+			
+			
+			
+
+
+			
+
+
+			
+                       
+                       
+			
+
+
+			
+
+			
+			
 
 
 
-<div id="subcontent">
-<h1>Privacy Policy</h1>
-<p>&nbsp;</p>
-<h2>Corporate</h2>
+
+			
+			<div id="content_main">
+				
+                	         <div class="" id="parent-fieldname-text">
+            <h2>Corporate</h2>
 <p>This Privacy Policy applies to cpanel.net hosted Web sites.</p>
+
 <p>&nbsp;</p>
 <h2>1.0 cPanel Privacy Practices</h2>
 
@@ -276,10 +161,12 @@ var requiredRevision = 0;
 
 <p>We request personal information when you place an order, request a service, answer a survey, correspond with us or engage in certain other activities on our Web site. </p>
 <p>For example:  </p>
+
 <p>1. If you submit an order on-line with us, we will ask you for information necessary to complete the transaction - such as your name, address, and credit card number.  </p>
 <p>2. If you request technical support online, we will ask you for information necessary to complete the transaction - such as your name, email address, and information about your computer hardware, software and the nature of the problem you are experiencing.
   
   You make the decision whether to proceed with any activity that requests personal information. If you do not wish to provide the requested information, however, you may not be able to complete the transaction.</p>
+
 <p>&nbsp;</p>
 <b>How We Use the Information We Gather and Track
 </b>
@@ -288,8 +175,10 @@ var requiredRevision = 0;
 <p>2. To assist us in creating content that is relevant to you;  </p>
 <p>3. To provide you with special offers that may be of interest to you and to improve your experience on our Web site;  </p>
 <p>4. To assist us in creating better products and services to meet your needs;  </p>
+
 <p>5. To allow you to purchase and download products, obtain access to services or otherwise engage in activities you select;  </p>
 <p>6. To help you quickly find software, services or product information important to you.</p>
+
 <p>&nbsp;</p>
 <b>With Whom We May Share Your Information</b>
 
@@ -302,10 +191,11 @@ var requiredRevision = 0;
 <p>We have taken rigorous security measure to protect your personal information. These measures include technical and procedural steps to protect your data from misuse, unauthorized access or disclosure, loss, alteration, or destruction. Credit card information is transmitted using secure socket layer (SSL) encryption.
 </p>
 <p>We make a sincere effort to respond to your requests to update or correct your personal information. If you believe that cPanel does not have your current personal information, you can update it at <a href="http://www.cpanel.net/store/">http://www.cpanel.net/store/</a>.</p>
+
 <p>&nbsp;</p>
 <h2>1.3 Web Site Traffic</h2>
 
-<p>Through our various tracking methods discussed above, we may track domain names, IP addresses, and browser types from people who visit our site. We use this information to track aggregate traffic patterns throughout cPanel’s Web site. Such information is not correlated with any personal information.</p>
+<p>Through our various tracking methods discussed above, we may track domain names, IP addresses, and browser types from people who visit our site. We use this information to track aggregate traffic patterns throughout cPanel�s Web site. Such information is not correlated with any personal information.</p>
 <p>&nbsp;</p>
 <h2>1.4 Links to Business Partner Sites</h2>
 
@@ -314,82 +204,87 @@ var requiredRevision = 0;
 <h2>1.5 Other Privacy Considerations</h2>
 
 <p>Please remember that information you submit in a discussion group or forum, like the "cPanel Forums", will be deemed public information and is not confidential. There is a risk in such communication venues that information can be collected and used by others. Please be careful and responsible when you are online.</p>
+
 <p>&nbsp;</p>
 <h2>1.6 cPanel Contact Information</h2>
 
 <p>If you have any questions or comments concerning this policy, or if you would like update or review the personal information we have about you, or withdraw your consent for the collection, use or disclosure of your personal information, please contact us using one of the options below:</p>
 
-<p>Billing / Accounts Contact:</p> 
-<p><a href="https://tickets.cpanel.net/submit/index.cgi?reqtype=billing">https://tickets.cpanel.net/submit/index.cgi?reqtype=billing</a></p>
+<p>Customer Service Contact:</p> 
+<p><a href="https://tickets.cpanel.net/submit/index.cgi?reqtype=cs">https://tickets.cpanel.net/submit/index.cgi?reqtype=cs</a></p>
 
 
 <p>Postal Mail:<br>
 cPanel Inc.<br>
+
 ATTN: Privacy<br> 
 3701 Kirby Dr
 #428<br>
 Houston, TX 77098 <br>
+
 Telephone 713-529-0800<br>
 </p>
-  
-  
-  
-  
-  
-  
-<div id="win">
-  <div class="hd">
-    <div class="lt"></div>
-    <span>cPanel Web Site Feedback Form</span>
-    <div class="rt"></div>
-  </div>
-  <div class="bd">
-    <form method="post" action="/feedback/submit.cgi">
-      <div class="content" id="help-content">
-	    <p>Find everything you were looking for?
-          <input type="radio" name="find" value="1">Yes
-	      <input type="radio" name="find" value="2">No
-		  <input type="text" name="address" class="noshow" width="55px">
-	    </p>
-	    <p>If no, what were you looking for?<br>
-	      <textarea name="look_for" cols="50" rows="3" wrap="physical" class="feedbackTA"></textarea>
-	    </p>
-	    <p>Is there anything we can do to improve your experience?<br>
-	      <textarea name="experience" cols="50" rows="3" wrap="physical" class="feedbackTA"></textarea>
-	    </p>
-	    <p>Comments:<br>
-	      <textarea name="comments" cols="50" rows="3" wrap="physical" class="feedbackTA"></textarea>
-	    </p>
-	    <p>Contact Email (optional): <input type="text" name="contact" size="30" width="200px">
-          <input type="hidden" name="magicaction" value="1">
-	    </p>
-		<input type="text" name="captcha" class="noshow" width="55px">
-      </div>
-    </form>
- </div>
-</div> 
-<div id="clearer">&nbsp;</div>
-</div>
-<div id="footer">
-  <p><a href="http://www.cpanel.net/sitemap.htm">Sitemap</a> | 
-	 <a href="http://www.cpanel.net/trademarkup.htm">Trademark</a> | 
-	 <a href="http://www.cpanel.net/privacy.html">Privacy Policy</a> | 
-	 <a href="http://www.cpanel.net/legal.html">Legal Notices</a> | 
-	 <a onclick="show_help()" style="cursor:pointer;cursor:hand"><u>Site Feedback</u></a> | 
-	 <a href="http://www.cpanel.net/eula.html">License Agreements</a> | 
-	 <a href="http://www.cpanel.net/media.htm">Press</a> | 
-	 <a href="http://www.cpanel.net/company/contact/contact.html">Contact</a>
-  </p>
-  <p align="center">© Copyright 2001-2007 cPanel, Inc. All Rights Reserved.
-  </p>
-</div>
-</div>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
-_uacct = "UA-2411239-1";
-urchinTracker();
-</script>
+            
+        </div>
 
-<!-- InstanceEnd -->
+				
+				
+			</div>
+			
+		</div>
+		<!-- END #content_holder -->
+		
+	</div>
+	<!-- END #content -->
+	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+	<script type="text/javascript" src="/script/js/jquery.pop.combine.easing.1.3.js"></script>
+
+
+
+
+<div id="footer">
+		<ul class="clear">
+<!-- <li><a href="/sitemap.html">Sitemap</a></li> -->
+<li><a href="/trademark.html">Trademark</a></li>
+<li><a href="/privacy-policy.html">Privacy Policy</a></li>
+<li><a href="/legal-notices.html">Legal Notices</a></li>
+<li><a href="/apps/feedback/site-feedback.html">Site Feedback</a></li>
+<!-- <li><a href="/license-agreements.html">License Agreements</a></li> -->
+<li><a href="/press">Press</a></li>
+<li><a href="/contact.html">Contact</a></li>
+</ul>
+
+<p class="sm_icons"><a href="http://www.linkedin.com/groups?gid=2124565&amp;trk=anetsrch_name&amp;goback=.gdr_1255649569774_1" target="_blank"><img src="/images/linkedin_mini.png" alt="Linkedin"></a> <a href="http://www.facebook.com/cpanelinc" target="_blank"><img src="/images/facebook_mini.png" alt="Facebook"></a> <a href="http://www.twitter.com/cpanel" target="_blank"><img src="/images/twitter_mini.png" alt="Twitter"></a> <a href="http://mt.cpanel.net/atom.xml" target="_blank"><img src="/images/feed_mini.png" alt="RSS"></a> <a href="http://www.flickr.com/photos/cpaneltv" target="_blank"><img src="/images/flickr_mini.png" alt="Flickr"></a> <a href="http://www.youtube.com/user/cpaneltv" target="_blank"><img src="/images/youtube_mini.png" alt="Flickr"></a></p>
+<p>Copyright © cPanel 2000-2010.</p>
+<script type="text/javascript">
+ $(document).ready(function(){
+	document.getElementById('productdrop').style.display='';
+   $.pop();
+ });
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2411239-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+ <script type="text/javascript" language="javascript">llactid=15073</script>
+    <script type="text/javascript" language="javascript" src="http://t4.trackalyzer.com/trackalyze.js"></script>
+<script type="text/javascript" src="http://cetrk.com/pages/scripts/0010/4046.js"> </script>
+
+	</div>
+<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "55720005",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
+	<!-- END #footer -->
+
+</div>
+
+
+<!-- END #container -->
+
+
 
 </body></html>
