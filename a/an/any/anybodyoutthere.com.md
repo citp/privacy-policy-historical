@@ -1,37 +1,35 @@
-> *The following text is extracted and transformed from the anybodyoutthere.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205053518id_/http%3A//registerfly.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anybodyoutthere.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409060848id_/http%3A//www.anybodyoutthere.com/privacy) for the most accurate reproduction.*
 
-# RegisterFly.com | PRIVACY POLICY
+# AnybodyOutThere | Privacy Policy
 
-  
-|  |    
-|  |  |  |   
----|---|---|---  
-| 
+Information collected for Registration purposes: 
 
-**This statement discloses the privacy practices for the entire website.**
+In the course of registration to the Service, we will ask you to provide us with certain information that can be used to contact or identify you and administer your account, as well as enabling you to access certain parts of the Site and the Service ( **"Membership Information"** ). Such Membership Information may include, but is not limited to, your name, your address, your gender, your date of birth, your email address and such other related details. In an effort to maximize your privacy we currently only ask for your email address, nick name, date of birth and gender. Currently we are not interested in your name or geographical address. However, this may change in the future. 
 
-  * Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won’t knowingly allow anyone under 13 to register with our site or to access those features that require registration.
+How We Use Information: 
 
+Membership Information including in combination with Use Information, Log Data or other information is/are used by us or by our service providers for the following purposes: (i) to provide the Service, (ii) to administer your use of the Service and any accounts you may have with us, (iii) to personalize your experience, (iv) to provide to you service announcements, (v) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, such as newsletters, marketing or promotional materials, and (vi) , (vii) to enforce our Terms and Conditions, and (viii) to conduct against you or to defend from any legal proceedings by you; (ix) to resolve any disputes between users of the Site or between such users and us.
 
-  * Because this site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed.
+We also use information (including for example Membership Information, Log Data and Use Information) in order to (i) monitor and analyze use of the Service and for the technical administration of the Site, (ii) improve the Site and the Service, (iii) generate and derive useful data and information including statistical data and analysis concerning the interests, characteristics and website use behavior of our users, (iv) verify that users of the Service meet the criteria required to process their requests; (v) sell, license or enable others to use aggregated data and information to third parties provided that aggregated information will not contain any information by which you may be directly identified. 
 
+Information Sharing and Disclosure: 
 
-  * The information gathered by RegisterFly.com (1) information supplied by visitors to the site and (2) Information relative to registering domain names, and using Registerfly.com products and services.
+_Aggregate Information:_
 
+We may share aggregated information, with third parties for industry analysis, demographic profiling, to deliver targeted advertising about other products and services, in the course of selling aggregated information services and products to third parties, and for other commercial purposes. Any aggregated information shared in these contexts will not contain any information by which you may be directly identified.
 
-  * 1\. To help us tailor our site to the needs and interests of our visitors, we keep track of the pages visited by our users by placing a small entry in text file, called a cookie, on your hard drive. The cookie contains an ID number that allows us to track the pages you've visited. We aggregate this data with data on the pages visited by other users to track overall visitor traffic patterns. We use this information to improve our site by making it more responsive to the needs of our users. We also use cookies to make sure you don't see that same ad repeatedly when you visit our site. Cookies don't reveal personal information; the only personal information a cookie can contain is information you supply yourself. Cookies can't read data off your hard disk.
+ _Service Providers:_
 
+We may employ third party companies, subcontractors and individuals to facilitate the Service, to provide the Service on our behalf and to perform services related to administration of the Service or the Site (including, without limitation, bill and credit card payment processing, maintenance, hosting and database management services, web analytics and administration. These third parties may have access to your information only to perform these tasks on our behalf and will be obligated to comply with this Policy.
 
-  * Our webserver automatically collects some information about you when you request pages from our server, including your IP address. Your IP address is a number that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you request) can be sent to you. This information does not identify you personally.
+ _Compliance with Laws and Law Enforcement:_
 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect our or a third party's property and rights, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable.
 
-  * Any information gathered from this site is held in the strictest confidence and are not shared with ANY outside parties or interest. **
+ _Business Transfers:_
 
-   **By using this service, you accept the terms of our Agreement.**
+We may sell, transfer or otherwise share some or all of our assets, including among others your Membership information and Log Data, in connection with a merger, acquisition, reorganization or sale of all or substantially all of our shares or assets, or in the event of our bankruptcy.
 
-**
- ****
-****
+ _Feedback:_
 
-|  |    
-|  |  | 
+We may publish any request or feedback that you submit through email or other feedback mechanisms, in order to help us clarify or respond to your request or to help us support other users of the Site. 
