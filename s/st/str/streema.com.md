@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the streema.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219094033id_/http%3A//www.streema.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streema.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409074036id_/http%3A//streema.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Streema - Free Online Radio Stations
 
 Radio station streams and logos are the copyright of each respective radio station.
 
-Streema respects your privacy. Our Policy applies to our web sites, including http://www.Streema.com. This Privacy Policy explains what information we collect through the Sites, how we use that information, and how your rights are respected by us. The Streema Site contains links to other web sites. This Privacy Policy does not apply to the practices of any other companies or individuals that Streema does not control, or any web sites that you link to from the Streema Site. You should use caution and review the privacy policies of any sites that you visit from ours to learn more about their information practices. Please take a few moments to read this agreement. By accessing the Streema Site, you agree to accept the terms and conditions of this Privacy Policy and are aware that our policies may change in the future as indicated below.
+Streema respects your privacy. Our Policy applies to our web sites, including http://Streema.com. This Privacy Policy explains what information we collect through the Sites, how we use that information, and how your rights are respected by us. The Streema Site contains links to other web sites. This Privacy Policy does not apply to the practices of any other companies or individuals that Streema does not control, or any web sites that you link to from the Streema Site. You should use caution and review the privacy policies of any sites that you visit from ours to learn more about their information practices. Please take a few moments to read this agreement. By accessing the Streema Site, you agree to accept the terms and conditions of this Privacy Policy and are aware that our policies may change in the future as indicated below.
 
 ## Streema.com Links
 
