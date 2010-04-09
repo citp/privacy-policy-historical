@@ -1,0 +1,567 @@
+<!--The following is the downloaded HTML source of the gurumaa.com privacy policy that was archived on 2010-04-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100409082041id_/http%3A//www.gurumaa.com/privacy-policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Privacy Policy</title>
+<link rel="stylesheet" href="css/terms-of-use.css">
+<link rel="stylesheet" href="/css/header.css">
+</head>
+
+<body>
+
+
+<div class="fldi privacy-policy-main">
+
+	<link rel="stylesheet" href="/css/footer.css">
+
+					
+	
+	
+
+
+<div id="light-top" class="white_content-top">	
+<div class="main-form" id="htmlElement">
+	<div class="fldi">
+		<div class="gg-top-login-box fldi">
+			<div style="background-image:url(/images/layout/gg-login-head.gif); width:350px; height:45px; float:left; display:inline;">	<a href="javascript:void(0)" onclick="close_subscribe_now_top();" style="text-align:right; float:right;">
+			<img src="/images/layout/window_close.png" style="border:none; float:right; margin-right:-4px;margin-top:0px;">
+			</a>
+			</div>
+			<form name="login_form" id="login_form" method="post" action="#" onsubmit="return login_check('/privacy-policy.php');">
+				
+				<table class="gg-login fldi" align="left">
+				<tbody>
+				<tr>
+				<td class="label">Email ID &nbsp; :</td>
+				<td class="field">
+				<input class="textbox" type="text" id="username" name="username" value="" onkeyup="if(document.getElementById('ajaxmessage').innerHTML!='') document.getElementById('ajaxmessage').innerHTML=''">
+				</td>
+				</tr>
+				<tr>
+				<td class="label">Password &nbsp; :</td>
+				<td class="field">
+				<input class="textbox" type="password" id="passwd" name="passwd" value="" onkeyup="if(document.getElementById('ajaxmessage').innerHTML!='') document.getElementById('ajaxmessage').innerHTML=''">
+				</td>
+				</tr>
+				<tr style="margin:0px;">
+				<td class="label">&nbsp;</td>
+				<td class="field"><p class="note" id="ajaxmessage"></p></td>
+				</tr>
+				</tbody>
+				</table>
+				<input type="submit" name="login" value="Login" class="login-btn">
+				<h4>
+				<a href="/my-account/forgot-password.php">Forgot Password</a>
+				&nbsp;
+				<a href="/new-user-registeration.php">New User</a>
+				</h4>
+				</form>	
+		</div>
+	</div>
+</div>
+</div>
+<div id="fade-top" class="black_overlay-top">
+</div>
+
+<div class="fldi" style="width:0px; height:0px; overflow:hidden;">
+<link href="/css/top-sign-in.css" rel="stylesheet">
+<script language="javascript">
+/*function open_subscribe_now(seq_id)
+{
+	 var win_width= getwindowwidth();
+	// var win_height = getwindowheight();
+	 var left = (win_width/2)-(382/2); // 350+32=382 margin32 padding 32 width355
+	 left = Math.floor(left);
+	 if(left<0) {left=0}
+	 
+	 //var top = win_height-384; //320+64=384
+	// var height = getheight();
+	// alert(height);
+
+	//top = Math.floor(top);
+	//if(top<0) {top=0}
+	document.getElementById('light').style.left = left+'px';
+	document.getElementById('light').style.top = '490px';
+	document.getElementById('light').style.display='block';
+	document.getElementById('fade').style.display='block'
+	document.login_form.action='login-process.php?option=login&return_url=gita-gyan.php?episode='+seq_id;
+}*/
+function close_subscribe_now_top()
+{
+	document.getElementById('light-top').style.display='none';
+	document.getElementById('fade-top').style.display='none';
+	document.getElementById('username').value = "";
+	document.getElementById('passwd').value = "";
+	document.getElementById('ajaxmessage').innerHTML = "";
+}
+
+function getwindowwidth() {
+  var myWidth = 0, myHeight = 0;
+  if( typeof( window.innerWidth ) == 'number' ) {
+    //Non-IE
+    myWidth = window.innerWidth;
+    myHeight = window.innerHeight;
+  } else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+    //IE 6+ in 'standards compliant mode'
+    myWidth = document.documentElement.clientWidth;
+    myHeight = document.documentElement.clientHeight;
+  } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+    //IE 4 compatible
+    myWidth = document.body.clientWidth;
+    myHeight = document.body.clientHeight;
+  }
+  //window.alert( 'Width = ' + myWidth );
+  //window.alert( 'Height = ' + myHeight );
+  return myWidth;
+}
+
+function getwindowheight() {
+  var myWidth = 0, myHeight = 0;
+  if( typeof( window.innerWidth ) == 'number' ) {
+    //Non-IE
+    myWidth = window.innerWidth;
+    myHeight = window.innerHeight;
+  } else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+    //IE 6+ in 'standards compliant mode'
+    myWidth = document.documentElement.clientWidth;
+    myHeight = document.documentElement.clientHeight;
+  } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+    //IE 4 compatible
+    myWidth = document.body.clientWidth;
+    myHeight = document.body.clientHeight;
+  }
+  //window.alert( 'Width = ' + myWidth );
+  //window.alert( 'Height = ' + myHeight );
+  return myHeight;
+}
+
+function getheight(){
+	var d= document.documentElement;
+	var b= document.body;
+	
+	var who= d.offsetHeight? d: b ;
+	return Math.max(who.scrollHeight,who.offsetHeight);
+}
+
+</script>
+<script src="/js/login-validations-ajax.js" type="text/javascript"></script>
+</div>
+	
+
+	
+	
+	<div id="header" class="fldi">
+		
+		<div class="top-links fldi">
+			<div class="fldi top-logo-tab-holder">
+							
+					<a class="fldi" href="/"><div class="fldi blank-logo"></div></a>
+					<div class="top-links1-search frdi">
+						<form class="search-form frdi" id="searchbox_011324996325061196822:q3wxjavp9ey" action="/gm-search.php">
+							<input type="hidden" name="cx" value="011324996325061196822:q3wxjavp9ey">
+							<input name="q" type="text" maxlength="255" size="20" class="searchtext fldi" value="Site Search..." onclick="if(value=='Site Search...') value=''" onblur="if(value=='') value='Site Search...'">
+							<input type="hidden" name="cof" value="FORID:11">
+							<input type="image" src="/images/header/layout/search-go-top.gif" class="fldi" style="margin:1px 15px 0px 5px;">
+						</form>
+						<span class="top-links1 frdi">
+						
+							
+							
+														
+														
+							<h3 class="headerh3">
+																					<a href="javascript:void(0)" onclick="document.getElementById('light-top').style.display='block';document.getElementById('fade-top').style.display='block'; document.login_form.action='/login-process.php?option=login&amp;return_url=/privacy-policy.php';">sign in</a>&nbsp;|&nbsp;
+														</h3>
+							
+														<h3 class="headerh3"><a href="/new-user-registeration.php">register</a>&nbsp;|&nbsp;</h3>
+														
+							<h3 class="headerh3"><a href="/support">support</a>&nbsp;|&nbsp;</h3>
+							<h3 class="headerh3"><a href="/contact-us.php">contact us</a>&nbsp;|&nbsp;</h3>
+							<h3 class="headerh3"><a href="/store/shopping-cart.php">view cart</a></h3>
+						</span>
+					</div>
+					
+				</div>
+			
+			<div class="top-links2 fldi">
+				<a href="/">
+				<img alt="home" title="home" src="/images/header/layout/new-tab-home-p.gif" class="top-tab fldi">
+				</a>
+				<a href="/anandmurti-gurumaa.php">
+				<img alt="Anandmurti Gurumaa" title="Anandmurti Gurumaa" src="/images/header/layout/new-tab-master-p.gif" class="top-tab fldi">
+				</a>
+				<a href="/meditation.php">
+				<img alt="Meditation" title="Meditation" src="/images/header/layout/new-tab-meditation-p.gif" class="top-tab fldi">
+				</a>
+				<a href="/gurumaa-ashram.php">
+				<img alt="Gurumaa Ashram" title="Gurumaa Ashram" src="/images/header/layout/new-tab-ashram-p.gif" class="top-tab fldi">
+				</a>
+				<a href="/videos/">
+				<img alt="Meditation Videos" title="Meditation Videos" src="/images/header/layout/new-tab-videos-p.gif" class="top-tab fldi">
+				</a>
+				<a href="/store/">
+				<img alt="G-Store" title="G-Store" src="/images/header/layout/new-tab-store-p.gif" class="top-tab fldi">
+				</a>
+				<a href="/gsandesh.php">
+				<img alt="G-Sandesh" title="G-Sandesh" src="/images/header/layout/new-tab-sandesh-p.gif" class="top-tab fldi">
+				</a>
+				<a href="/spiritual-question-answers/">
+				<img alt="G-Answers" title="G-Answers" src="/images/header/layout/new-tab-answers-p.gif" class="top-tab fldi">
+				</a>
+				<a href="/shakti-education-for-girls.php">
+				<img alt="Shakti Education for Girls" title="Shakti Education for Girls" src="/images/header/layout/new-tab-shakti-p.gif" class="top-tab fldi">
+				</a>
+				<a href="/contribution.php">
+				<img alt="Contribution Rishi Chaitanya Trust" title="Contribution Rishi Chaitanya Trust" src="/images/header/layout/new-tab-contribution-p.gif" class="top-tab fldi">
+				</a>
+				
+			</div>
+		</div>
+		
+	</div>
+	<link rel="stylesheet" href="/css/footer.css">
+		
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+
+	
+	
+	
+	
+	
+		<h2 class="fldi  pp-main-head">Privacy Policy</h2>
+		
+		<h4 class="fldi  pp-text">We recognize your right to confidentiality and are committed to protecting your privacy. We pride ourselves on our commitment to our customers and we feel it is important that we publicize our privacy policy. This page summarizes our privacy policy/practices for gurumaa.com. Personal information is only collected, used and disclosed in accordance with this policy.</h4>
+		
+		<h4 class="fldi  pp-sub-head">COLLECTION OF PERSONAL INFORMATION</h4>
+		
+		<h4 class="fldi  pp-text">Personal information about users of this website is obtained if supplied voluntarily, usually through contacting us via e-mail, purchasing of products or registering a user account with us. When you place an order, we will ask you to set up "Your account," which includes your name, e-mail address, mailing address, date of birth, company details, contact information, credit card number and expiration date. </h4>
+				
+		
+		<h4 class="fldi  pp-text">We collect technical information from your computer's web browser or internet device when you visit gurumaa.com on the internet. This information includes the amount of time spent on the site by a visitor with a unique internet identifier, the pages visited, the operating system, choice of web browser, referring web site and any keywords used to find our site on a search engine web site. These server logs contain no personal information and can only be accessed by gurumaa.com. Server log files are used solely to track visits to our web site and improve the experience, content and layout of our web site. gurumaa.com makes no attempt to link this site traffic information with the identity of individuals visiting our web site. </h4>
+		
+		
+		<h4 class="fldi  pp-sub-head">USE OF PERSONAL INFORMATION</h4>
+		
+		<h4 class="fldi  pp-text">We will process your personal data in an ethical manner. It will be used for the following purposes: </h4>
+		
+		<h4 class="fldi  pp-text">1. To process your order</h4>
+		<h4 class="fldi  pp-text">2. To administer your membership of the Web Site.</h4>
+		<h4 class="fldi  pp-text">3. To administer our Web Site services which may involve sharing information with our services providers.</h4>
+		<h4 class="fldi  pp-text">4. To administer our business.</h4>
+		<h4 class="fldi  pp-text">5. To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested. </h4>
+		<h4 class="fldi  pp-text">6. To allow us to better service you in responding to your customer service requests.</h4>
+		<h4 class="fldi  pp-text">7. To notify you of any Products that we think may be of interest to you unless you inform us that you do not wish to receive such information.</h4>
+		<h4 class="fldi  pp-text">8. If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. If you would no longer like to receive promotional e-mail from us, please write to us at the address set out in the section headed “Contact Us”.</h4>
+		
+		
+		<h4 class="fldi pp-text">We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include gurumaa.com. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. Examples of such companies include shippers/couriers, credit card companies, banks, and distributors. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.</h4>
+				
+		<h4 class="pp-text">However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses </h4>
+		
+		<h4 class="fldi pp-sub-head">SECURITY MEASURES</h4>
+		
+		<h4 class="pp-text">We implement a variety of security measures to maintain the safety of your personal information. When you place orders, you get redirected to payment gateways or the third party. For your privacy and safety, all sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into their databases. After the third party has approved your payment, we proceed to the next step of processing your order. </h4>
+		
+		<h4 class="fldi  pp-sub-head">EXTERNAL WEBSITES </h4>
+		
+		<h4 class="fldi  pp-text">This web site contains links to external sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage visitors to be aware when they leave our site and to read the privacy statements of every web site that collects personally identifiable information. This privacy statement applies solely to information collected by gurumaa.com on this web site. </h4>
+		
+		<h4 class="fldi  pp-sub-head">MODIFICATIONS</h4>
+		
+		<h4 class="fldi  pp-text">To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production. </h4>
+		
+		<h4 class="fldi  pp-text">To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses &amp; payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping. </h4>
+
+		<h4 class="fldi  pp-sub-head">SPAM</h4>
+		<h4 class="fldi  pp-text">Your privacy is very important to us. Be assured that, in accordance with this privacy policy, we do not sell or distribute our customer list to third parties. You should be aware, however, that unscrupulous marketers can sometimes "harvest" Your e-mail address directly from your computer or another person's address book or even obtain your e-mail address through programs that automatically search web pages and e-mail traffic for e-mail addresses. </h4>
+		
+		<h4 class="fldi  pp-sub-head">ONLINE POLICY ONLY</h4>
+		<h4 class="fldi  pp-text">This online privacy policy applies only to information collected through our website and not to information collected offline.</h4> 
+		
+		<h4 class="fldi  pp-sub-head">TERMS AND CONDITIONS</h4>	
+	
+		<h4 class="fldi  pp-text">Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website. </h4>
+		
+		
+		<h4 class="fldi  pp-sub-head">YOUR CONSENT</h4>
+		
+		<h4 class="fldi  pp-text">By using our site, you consent to our privacy policy. gurumaa.com reserves the right to amend this policy at any time and for any reason. An up-to-date policy will always appear on this web site for our visitors. Policy changes will apply only to information collected after the date of the change. This ensures that our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. </h4>
+		
+		<h4 class="fldi  pp-sub-head">QUESTIONS AND FEEDBACK</h4>
+		
+		<h4 class="fldi  pp-text">We welcome your questions, comments, and concerns about privacy. Please send us your feedback pertaining to privacy, or any other issue at info@gurumaa.com.</h4> 
+
+	<script language="javascript" type="text/javascript" src="/js/ajax-bookmarks-log.js"></script>
+
+<div class="fldi page-footer">
+	
+	<div class="fldi share-it">
+		<h3 class=" fldi bs-head">Bookmark And Share</h3>
+				
+		<div class=" fldi bs-inner">
+		
+			<a rel="nofollow external" href="http://digg.com/submit?phase=2&amp;url=http://www.gurumaa.com/privacy-policy.php&amp;title=" target="_blank" onclick="ajax_Bookmark('digg', 'http://www.gurumaa.com/privacy-policy.php');">
+			<img src="/images/layout/digg.jpg" class="fldi share-img" border="none">
+			</a>
+			
+			<a rel="nofollow external" href="http://www.facebook.com/share.php?u=http://www.gurumaa.com/privacy-policy.php" target="_blank" onclick="ajax_Bookmark('facebook', 'http://www.gurumaa.com/privacy-policy.php');">
+			<img src="/images/layout/facebook.jpg" class="fldi share-img" border="none">
+			</a>
+			
+			<a rel="nofollow external" href="http://twitter.com/home?status=http://www.gurumaa.com/privacy-policy.php" target="_blank" onclick="ajax_Bookmark('twitter', 'http://www.gurumaa.com/privacy-policy.php');">
+			<img src="/images/layout/twitter.jpg" class="fldi share-img" border="none">
+			</a>
+			
+			<a rel="nofollow external" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http://www.gurumaa.com/privacy-policy.php" target="_blank" onclick="ajax_Bookmark('myspace', 'http://www.gurumaa.com/privacy-policy.php');">
+			<img src="/images/layout/myspace.jpg" class="fldi share-img" border="none">
+			</a>
+			
+			<a rel="nofollow external" href="http://www.stumbleupon.com/submit?url=http://www.gurumaa.com/privacy-policy.php" target="_blank" onclick="ajax_Bookmark('stumbleupon', 'http://www.gurumaa.com/privacy-policy.php');">
+			<img src="/images/layout/sb.jpg" class="fldi share-img" border="none">
+			</a>
+			
+			<a rel="nofollow external" href="http://del.icio.us/post?url=http://www.gurumaa.com/privacy-policy.php&amp;title=" target="_blank" onclick="ajax_Bookmark('delicious', 'http://www.gurumaa.com/privacy-policy.php');">
+			<img src="/images/layout/delicious.jpg" class="fldi share-img" border="none">
+			</a>
+			
+			<a rel="nofollow external" href="http://reddit.com/submit?url=http://www.gurumaa.com/privacy-policy.php" target="_blank" onclick="ajax_Bookmark('reddit', 'http://www.gurumaa.com/privacy-policy.php');">
+			<img src="/images/layout/redit.jpg" class="fldi share-img" border="none">
+			</a>
+			
+			<a rel="nofollow external" href="http://in.buzz.yahoo.com/buzz?targetUrl=http://www.gurumaa.com/privacy-policy.php" target="_blank" onclick="ajax_Bookmark('buzz up', 'http://www.gurumaa.com/privacy-policy.php');">
+			<img src="/images/layout/buzzup.jpg" class="fldi share-img" border="none">
+			</a>
+			
+			<a rel="nofollow external" href="http://friendfeed.com?url=http://www.gurumaa.com/privacy-policy.php" target="_blank" onclick="ajax_Bookmark('friend feed', 'http://www.gurumaa.com/privacy-policy.php');">
+			<img src="/images/layout/ff.jpg" class="fldi share-img" border="none">
+			</a>
+			
+			<a rel="nofollow external" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http://www.gurumaa.com/privacy-policy.php" target="_blank" onclick="ajax_Bookmark('google', 'http://www.gurumaa.com/privacy-policy.php');">
+			<img src="/images/layout/google.jpg" class="fldi share-img" border="none">
+			</a>
+			
+			<a rel="nofollow external" href="http://www.tumblr.com/login?s=&amp;t=&amp;u=http://www.gurumaa.com/privacy-policy.php" target="_blank" onclick="ajax_Bookmark('tumblr', 'http://www.gurumaa.com/privacy-policy.php');">
+			<img src="/images/layout/tumblr.jpg" class="fldi share-img" border="none">
+			</a>
+			
+			<a rel="nofollow external" href="http://www.blogger.com/blog_this.pyra?n=&amp;u=http://www.gurumaa.com/privacy-policy.php" target="_blank" onclick="ajax_Bookmark('blogger', 'http://www.gurumaa.com/privacy-policy.php');">
+			<img src="/images/layout/blogger.jpg" class="fldi share-img" border="none" style="margin-right:138px;">
+			</a>
+			
+			<a href="javascript:void(0);" onclick="javascript:window.open('https://www.gurumaa.com/tell-a-friend/index.php?nlid=footer_email_content&amp;url=http://www.gurumaa.com/privacy-policy.php','','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,width=680,height=650'); " style="visibility:hidden">
+			<img src="/images/layout/mail-btn.jpg" class="fldi share-img" border="none">
+			</a>
+			
+				
+			<a href="javascript:void(0);" onclick="javascript:window.open('https://www.gurumaa.com/tell-a-friend/index.php?nlid=footer&amp;url=http://www.gurumaa.com/privacy-policy.php','','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,width=680,height=650'); ">
+			<img src="/images/layout/taf.jpg" class="fldi share-img" border="none">
+			</a>
+		
+
+		</div>
+			
+	</div>	
+
+	<div class="fldi page-footer-top">
+		
+		<div class="fldi more-inside">
+			
+				
+		</div>
+		
+				
+	<div class="quick-link-main-box">
+	
+		<div class="quick-link-heading">
+		
+		</div>
+		<div class="fldi equal-link-boxs-1">
+			<h2 class="fldi footer-site-links"><a href="/content/category/anandmurti-gurumaa/gurumaa-speaks" class="deco-footer">Gurumaa Speaks</a></h2>
+			<h2 class="fldi footer-site-links"><a href="/content/category/anandmurti-gurumaa/dialogues" class="deco-footer">Dialogues with Gurumaa</a></h2>
+			<h2 class="fldi footer-site-links"><a href="/content/category/meditation/a2z-of-meditation" class="deco-footer">A to Z of Meditation</a></h2>
+			<h2 class="fldi footer-site-links"><a href="/content/meditation-retreats-with-the-master.html" class="deco-footer">Meditation Retreats</a></h2>
+			<h2 class="fldi footer-site-links"><a href="/content/meditation-centres-list" class="deco-footer">Meditation Centers List </a></h2>
+			<h2 class="fldi footer-site-links"><a href="/media/" class="deco-footer">Media Vibes</a></h2>
+			<h2 class="fldi footer-site-links"><a href="/content/category/health" class="deco-footer">Health Articles</a></h2>
+		</div>
+				
+		<div class="fldi equal-link-boxs">
+			<h2 class="fldi footer-site-links"><a href="/bhagavad-gita.php" class="deco-footer">Shrimad Bhagavad Gita Episodes</a></h2>
+			<h2 class="fldi footer-site-links"><a href="/shakti-girls.php" class="deco-footer">Shakti Girls</a></h2>
+			<h2 class="fldi footer-site-links"><a href="/rishi-amrit.php" class="deco-footer">Rishi Amrit Patrika</a></h2>
+			<h2 class="fldi footer-site-links"><a href="/ashram-mystics-club.php" class="deco-footer">Mystics Club</a></h2>
+			<h2 class="fldi footer-site-links"><a href="/gsandesh.php" class="deco-footer">G-Sandesh</a></h2>
+			<h2 class="fldi footer-site-links"><a href="/content/relationships-you-and-i-joy-of-togetherness.html" class="deco-footer">Love Relationships &amp; Marriage</a></h2>
+			<h2 class="fldi footer-site-links"><a href="/content/from-sex-to-divinity.html" class="deco-footer">Understanding Sex</a></h2>
+		</div>
+		
+		<div class="fldi equal-link-boxs">
+			<h2 class="fldi footer-site-links"><a href="/store/digital-gallery.php" class="deco-footer">Download MP3 Tracks</a></h2>
+			<h2 class="fldi footer-site-links"><a href="/store/guided-meditation-cds.php" class="deco-footer">Guided Meditation CDs</a></h2>
+			<h2 class="fldi footer-site-links"><a href="/store/listen-download-devotional-music.php" class="deco-footer">Music - Kirtan, Bhajans &amp; Shabads</a></h2>
+			<h2 class="fldi footer-site-links"><a href="/store/books-of-wisdom-and-divine-talks.php" class="deco-footer">Spiritual Books</a></h2>
+			<h2 class="fldi footer-site-links"><a href="/store/essential-spiritual-teachings-discourses.php" class="deco-footer">Spiritual Discourses CDs/MP3s</a></h2>
+			<h2 class="fldi footer-site-links"><a href="/store/amrit-varsha-discourses.php" class="deco-footer">Discourse CDs on Demand</a></h2>
+			<h2 class="fldi footer-site-links"><a href="/store/souvenirs-and-spiritual-accessories.php" class="deco-footer">Souvenirs, Rudraksha &amp; Yoga Mats</a></h2>
+		</div>
+		
+		</div>
+		<div class="we-are-also-at">
+		
+			<div class="we-are-also-at-heading">
+			</div>
+				<div class="we-are-also-at-links-main">
+					<div class="we-are-also-at-links">
+						<a href="http://www.youtube.com/user/gurumaaashram" class="deco-footer">
+						<img src="/images/layout/footer-you-tube.jpg" class="link-img" border="none"></a>
+						<h2 class="footer-img-link"><a href="http://www.youtube.com/user/gurumaaashram" class="deco-footer">YouTube</a></h2>
+					</div>
+					<div class="we-are-also-at-links">
+						<a href="http://twitter.com/GurumaaAshram" class="deco-footer">
+						<img src="/images/layout/footer-twitter.jpg" class="link-img" border="none"></a>
+						<h2 class="footer-img-link"><a href="http://twitter.com/GurumaaAshram" class="deco-footer">Twitter</a></h2>
+					</div>
+					<div class="we-are-also-at-links">
+						<a href="http://www.facebook.com/pages/Sonepat-India/GurumaaAshram/312401892069" class="deco-footer">
+						<img src="/images/layout/footer-face-book.jpg" class="link-img" border="none"></a>
+						<h2 class="footer-img-link"><a href="http://www.facebook.com/pages/Sonepat-India/GurumaaAshram/312401892069" class="deco-footer">Facebook</a></h2>
+					</div>
+					<div class="we-are-also-at-links">
+						<a href="http://www.orkut.co.in/Main#Community?cmm=3716103" class="deco-footer">
+						<img src="/images/layout/footer-orkut.jpg" class="link-img" border="none"></a>
+						<h2 class="footer-img-link"><a href="http://www.orkut.co.in/Main#Community?cmm=3716103" class="deco-footer">Orkut</a></h2>
+					</div>
+					<div class="we-are-also-at-links">
+						<a href="http://gurumaa.ning.com/" class="deco-footer">
+						<img src="/images/layout/footer-ng.jpg" class="link-img" border="none"></a>
+						<h2 class="footer-img-link"><a href="http://gurumaa.ning.com/" class="deco-footer">Ning</a></h2>
+					</div>
+					
+					<div class="we-are-also-at-links">
+						<a href="http://gurumaa-shakti.blogspot.com/" class="deco-footer">
+						<img src="/images/layout/footer-blogger.jpg" class="link-img" border="none"></a>
+						<h2 class="footer-img-link"><a href="http://gurumaa-shakti.blogspot.com/" class="deco-footer">Blogger</a></h2>
+					</div>
+				
+					<div class="we-are-also-at-links">
+						<a href="http://en.wikipedia.org/wiki/Anandmurti_Gurumaa" class="deco-footer">
+						<img src="/images/layout/footer-wiki.jpg" class="link-img" border="none"></a>
+						<h2 class="footer-img-link"><a href="http://en.wikipedia.org/wiki/Anandmurti_Gurumaa" class="deco-footer">Wikipedia</a></h2>
+					</div>
+				
+				
+				
+				</div>
+			
+		</div>
+		
+	</div>
+
+	
+	<div class="fldi page-footer-bottom">
+		<div class="fldi footer-bottom-links">
+			<div class="bottom-nav-links">
+				<h2 class="ind-footer-links">
+				<a href="/content/update-timeline">Update Timeline</a>&nbsp;|&nbsp;
+				<a href="/content/coming-events">Upcoming Events</a>&nbsp;|&nbsp;
+				<a href="/newsletter.php">Subscribe to Newsletters</a>&nbsp;|&nbsp;
+				<a href="/rss-feeds.php" style="margin-right:0px;"><img src="/images/layout/rss-footer.gif" style="margin:0px; line-height:25px; vertical-align:middle; border:none;"></a>
+				<a href="/rss-feeds.php">Subscribe RSS Feeds</a>&nbsp;|&nbsp;
+				<a href="/sitemap.php">Sitemap</a>&nbsp;|&nbsp;
+				<a href="/support">Support Center</a>&nbsp;|&nbsp;
+				<a href="/content/about-us.html">About Us</a>&nbsp;|&nbsp;
+				<a href="/contact-us.php" rel="nofollow">Contact Us</a>
+				</h2>
+			</div>
+		</div>
+		<div class="fldi footer-bottom-end">
+			<img class="fldi" src="/images/layout/gm-logo.gif">
+			
+			<div class="bottom-nav-links-end" style="margin-top:15px;">
+				
+				<h2 class="ind-footer-links" style="color:#ffffff;">
+				©  2009 www.gurumaa.com. All rights reserved&nbsp;|&nbsp;
+				
+				<a href="/terms-of-service.php" rel="nofollow">Terms of Service</a>&nbsp;|&nbsp;
+				
+				<a href="/privacy-policy.php" rel="nofollow">Privacy Policy</a>
+				</h2>
+			</div>
+			
+			<div class="bottom-nav-links-end">
+				<h2 class="ind-footer-links">
+			
+				<a href="/link-gurumaadotcom.php" rel="nofollow">Link to Gurumaa.com</a>&nbsp;|&nbsp;
+
+				<a href="/friendly-sites.php">Friendly Sites</a>&nbsp;|&nbsp;
+				
+				<a href="/links1.php" rel="nofollow">Other Links</a>
+				
+				</h2>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1330959-1");
+pageTracker._addIgnoredOrganic("gurumaa");
+pageTracker._addIgnoredOrganic("anandmurti gurumaa");
+pageTracker._addIgnoredOrganic("guru maa");
+pageTracker._addIgnoredOrganic("www.gurumaa.com");
+pageTracker._addIgnoredOrganic("guruma");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+
+	
+<div style="height:0px;width:0px;overflow:hidden;">
+
+<img src="/images/header/layout/new-tab-contribution-p.gif">
+<img src="/images/header/layout/new-tab-contribution-a.gif">
+<img src="/images/header/layout/new-tab-shakti-p.gif">
+<img src="/images/header/layout/new-tab-shakti-a.gif">
+<img src="/images/header/layout/new-tab-answers-p.gif">
+<img src="/images/header/layout/new-tab-answers-a.gif">
+<img src="/images/header/layout/new-tab-sandesh-p.gif">
+<img src="/images/header/layout/new-tab-sandesh-a.gif">
+<img src="/images/header/layout/new-tab-store-p.gif">
+<img src="/images/header/layout/new-tab-store-a.gif">
+<img src="/images/header/layout/new-tab-videos-p.gif">
+<img src="/images/header/layout/new-tab-videos-a.gif">
+<img src="/images/header/layout/new-tab-ashram-p.gif">
+<img src="/images/header/layout/new-tab-ashram-a.gif">
+<img src="/images/header/layout/new-tab-meditation-p.gif">
+<img src="/images/header/layout/new-tab-meditation-a.gif">
+<img src="/images/header/layout/new-tab-master-p.gif">
+<img src="/images/header/layout/new-tab-master-a.gif">
+<img src="/images/header/layout/new-tab-home-p.gif">
+<img src="/images/header/layout/new-tab-home-a.gif">
+				
+
+
+</div>
+</div>
+
+
+
+
+
+</body></html>
