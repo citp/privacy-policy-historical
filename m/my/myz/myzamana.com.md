@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myzamana.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214184538id_/http%3A//myzamana.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myzamana.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409151736id_/http%3A//myzamana.com/privacy) for the most accurate reproduction.*
 
-# Indian Dating at myZamana
+# Modern South Asian Dating | myZamana
 
 Hello,
 
