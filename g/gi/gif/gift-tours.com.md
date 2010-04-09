@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gift-tours.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231020835id_/http%3A//www.gift-tours.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gift-tours.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409035912id_/http%3A//www.gift-tours.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Gift-tours - Privacy Policy
 
