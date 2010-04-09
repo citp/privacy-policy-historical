@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehow.co.uk privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205063005id_/http%3A//www.ehow.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehow.co.uk privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409094629id_/http%3A//www.ehow.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | eHow.co.uk
 
