@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the waypointoutcomes.com privacy policy that was archived on 2009-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091020052826id_/http%3A//waypointoutcomes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waypointoutcomes.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409050407id_/http%3A//waypointoutcomes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ##  Privacy Policy 
 
-**_  Effective November 2007 _**  
+Waypoint® Privacy Policy
+
+ ** _  Effective November 2007 _**  
 
 
  
