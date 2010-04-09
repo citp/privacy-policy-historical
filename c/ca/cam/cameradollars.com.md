@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cameradollars.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505114413id_/http%3A//www.cameradollars.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cameradollars.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409080932id_/http%3A//www.cameradollars.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
