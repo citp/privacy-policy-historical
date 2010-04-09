@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the losingweightintentionally.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228131735id_/http%3A//losingweightintentionally.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the losingweightintentionally.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409051300id_/http%3A//losingweightintentionally.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Losing Weight Intentionally - - Losing Weight Intentionally
+# Losing Weight Intentionally | Privacy Policy
 
 **Our Commitment To Your Privacy**
 
@@ -10,13 +10,13 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-**Our Commitment To Childrens Privacy**
+**Our Commitment To Children’s Privacy**
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18. Under our Terms of Service, children under 18 are not allowed to access our service.
 
 **Collection of Personal Information**
 
-On visiting this site, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyse trends, administer the site, track users movement, and gather broad demographic information for aggregate use. Importantly, IP addresses are not linked to personally identifiable information.
+On visiting this site, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyse trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. Importantly, IP addresses are not linked to personally identifiable information.
 
 **Links to third party websites**
 
@@ -39,15 +39,3 @@ Because publisher sites and laws across countries vary, we’re unable to sugges
 The content of this statement may be altered at any time.
 
 Have a question? Just contact [me](mailto:spiritwarrior@gmail.com)
-
- Mail this post
-
-Popularity: 2% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
-
-Technorati Tags: [diet](http://technorati.com/tag/diet), [dieting](http://technorati.com/tag/dieting), [losing weight](http://technorati.com/tag/losing+weight), [Weight Loss](http://technorati.com/tag/Weight+Loss)
-
-Posted by [Rhea](http://losingweightintentionally.com/author/admin/ "Posts by Rhea")    Date: Sunday, September 28, 2008 
-
-Categories: [General](http://losingweightintentionally.com/category/uncategorized "View all posts in General")
-
-Tags: [diet](http://losingweightintentionally.com/tag/diet), [dieting](http://losingweightintentionally.com/tag/dieting), [losing weight](http://losingweightintentionally.com/tag/losing-weight), [Weight Loss](http://losingweightintentionally.com/tag/weight-loss)
