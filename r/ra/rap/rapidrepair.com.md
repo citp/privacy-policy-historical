@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidrepair.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503132120id_/http%3A//rapidrepair.com/Privacy/PP.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidrepair.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409070130id_/http%3A//rapidrepair.com/Privacy/PP.htm) for the most accurate reproduction.*
 
 # Rapid Repair - Links | iPod Repair, iPhone Repair, Batteries, LCD Screens and more | Fast iPod Repair, iPhone Repair and Zune Repair | Fast iPod Repair, iPhone Repair and Zune Repair
 
@@ -49,8 +49,8 @@ Based upon the personally identifiable information you provide us, we will send 
 Our Address info: 
 
 Rapid Repair  
-1825 W. Main St.  
-Kalamazoo, MI 49006  
+2328 Winters Dr.  
+Portage, MI 49002  
 (Please do NOT mail in an iPod without placing an order online first.)
 
 _Rush Processing_
@@ -102,7 +102,7 @@ If you have any questions about security on our Web site, you can send email us 
 
 **Choice/Opt-out**
 
- If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication, clicking this [ link](http://www.rapidrepair.com/scotmail/scotmail.mvc?unsubscribe&group=1135632445) and entering your email address, or by emailing us at .
+ If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at 
 
 **Log Files**
 
