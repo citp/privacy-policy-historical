@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jabcomix.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423152129id_/http%3A//www.jabcomix.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jabcomix.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409071852id_/http%3A//www.jabcomix.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # JABcomix :: Privacy Policy
 
@@ -30,8 +30,13 @@ We will not share your email address or other contact related information with a
 Chat and Member Polls**  
 We may occassionally monitor our chat rooms for abusive practices. Your ip address is logged in our chat to prevent abuse. Your ip address and cookies are utilized to prevent cheating and abuse in our Member Polls.
 
+**  
+Exceptions**  
+If you distribute our copyrighted content without our permission you waive ALL rights listed in this privacy policy.
+
   
-**Other Disclosuers  
+**  
+Other Disclosures  
 **In addition to the disclosures reasonably necessary for the purposes identified elsewhere in this privacy policy, we may disclose information about you: 
 
 (a) to the extent that we are required to do so by law;
