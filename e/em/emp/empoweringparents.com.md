@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empoweringparents.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608160230id_/http%3A//www.empoweringparents.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empoweringparents.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409064134id_/http%3A//www.empoweringparents.com/privacypolicy.php) for the most accurate reproduction.*
 
 # About the Empowering Parents Ezine | Child Behavior and Parenting | Empowering Parents | James Lehman and The Total Transformation® Program
 
