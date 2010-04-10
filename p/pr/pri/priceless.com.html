@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the priceless.com privacy policy that was archived on 2007-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071223185905id_/http%3A//www.priceless.com/us/personal/en/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the priceless.com privacy policy that was archived on 2010-04-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100410233134id_/http%3A//www.priceless.com/us/personal/en/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
   		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
-		<title>Privacy Policy | priceless.com</title>
-		<meta name="keywords" content="Privacy Policy">
-		<meta name="description" content="This Privacy Policy provides an overview of what you can expect when you enroll in one of MasterCard's programs or simply browse the priceless.com Web site.">
+		<title>Privacy Notice | priceless.com</title>
+		<meta name="keywords" content="mastercard, priceless, privacy notice">
+		<meta name="description" content="This Privacy Notice provides an overview of what you can expect when you enroll in one of MasterCard's programs or simply browse the priceless.com Web site.">
 		<script type="text/javascript">
 			var glbBaseURL = '/us/personal/en/privacy.html';
 		</script>
@@ -28,8 +28,9 @@
 	<script type="text/javascript">
 	 	var imgBrandMark = relative("/wce/GIF/18869_priceless_logo.gif",glbBaseURL);
 		var imgBrandMarkAlt = 'priceless.com';
-		var imgBrandMarkURL  = relative("/",glbBaseURL);
-		var imgBM = '<img  src="../../wce/GIF/18869_priceless_logo.gif"  width="184"  height="100"  border="0"  alt="priceless.com" >';
+		var imgBrandMarkURL  = relative("/us/personal/en/index.html",glbBaseURL);
+		var BrandMarkName  = "pcom_logo_home";
+		var imgBM = '<img  src="../../wce/GIF/18869_priceless_logo.gif"  width="184"  height="100"  border="0"  alt="priceless.com"  title="priceless.com" />';
 			function getCookieVal(cookieName) {
 				for(var i = 0; i < allCookiesArray.length; i++) {
 					var thisCookieName = allCookiesArray[i].split('=')[0];
@@ -42,25 +43,49 @@
 			
 
 	</script>
-	<script type="text/javascript" src="/us/js/i2a.js"></script>
         <div id="header">
-          <div id="headerLeft"><script type="text/javascript">document.write("<a href='" + imgBrandMarkURL + "'>" + getImgSrc(imgBM, imgBrandMark) + "</a>");</script><a href="../../../"><img src="../../../wce/GIF/18869_priceless_logo.gif" width="184" height="100" border="0" alt="priceless.com"> </a></div>
+          <div id="headerLeft"><script type="text/javascript">document.write("<a href='" + imgBrandMarkURL + "' name='&lid="+ BrandMarkName +"&lpos=headerNav'>" + getImgSrc(imgBM, imgBrandMark) + "</a>");</script><a href="index.html" name="&amp;lid=pcom_logo_home&amp;lpos=headerNav"><img src="../../../wce/GIF/18869_priceless_logo.gif" width="184" height="100" border="0" alt="priceless.com" title="priceless.com"> </a></div>
           <div id="topNavBar">
             <ul>
             	<script type="text/javascript">
-        //document.cookie="mpcom=s";
+        	//document.cookie="mpcom=s";
 		var image, image_rel, image_url, text, url, cnt=1, classid="first", linkClass="pricelessPks" ;
 		var allCookiesArray = document.cookie.split( ';' );
 		var thisCookieVal = getCookieVal("mpcom");
-		//alert(thisCookieVal);
+
+		var regText = "";
+		var regUrl = "";
 		
 		
-						
-			image = '<img  src="../../wce/GIF/18158_telluspick.gif"  width="212"  height="16"  border="0"  alt="TELL US YOUR PRICELESS PICK" >'; 
-			image_rel = relative("/wce/GIF/18158_telluspick.gif",glbBaseURL);
-			image_url = relative("http://submit.priceless.com", glbBaseURL);
-			text = "Submit"; 			
-			url = relative("http://submit.priceless.com", glbBaseURL);
+		
+		
+			regText = " ";
+			regUrl = relative(" ", glbBaseURL);
+		
+		
+		
+			regText = "RSS Feeds";
+			regUrl = relative("/us/personal/en/rss/index.html", glbBaseURL);
+		
+		
+		
+			regText = "World Elite Access";
+			regUrl = relative("/us/personal/en/cards/worldelite/featured_credit_card_benefits_and_services.html", glbBaseURL);
+		
+		
+		
+			regText = "Find a MasterCard";
+			regUrl = relative("http://www.mastercard.com/us/personal/en/findacard/home.html?GP=ILC-PricelessFAC", glbBaseURL);
+		
+		
+		
+			
+			image = '<img  src="../../wce/GIF/26079_checkoutiphone.gif"  width="233"  height="16"  border="0"  alt="Check out the Priceless Picks iPhone App"  title="Check out the Priceless Picks iPhone App" />'; 
+			image_rel = relative("/wce/GIF/26079_checkoutiphone.gif",glbBaseURL);
+			image_url = relative("/us/personal/en/mobileapps/picks/index.html", glbBaseURL);
+			text = " "; 			
+			url = relative(" ", glbBaseURL);
+var actionname="iPhone App";
 			if(cnt == 2) {
 			  classid="second"; 
 			  linkClass="rss";
@@ -82,22 +107,14 @@
 					image_rel = '';
 					image_url = '';
 					text = "Logout"; 			
-					url = "https://dev.my.priceless.com/account/secure/logout.do ";
-					document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+image_url+'" style="text-decoration:none">'+getImgSrc(image,image_rel)+'</a><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline">'+text+'</a></div></div></li>');
-				} else if (thisCookieVal == "p") {
-					image = ''; 
-					image_rel = '';
-					image_url = '';
-					text = ''; 			
-					url = '';
-					document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+image_url+'" style="text-decoration:none">'+getImgSrc(image,image_rel)+'</a><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline">'+text+'</a></div></div></li>');
+					url = "https://dev.my.priceless.com/account/secure/logout.do";
+					document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline" >'+text+'</a> <a class="' + linkClass + '">|</a> <a class="' + linkClass + '" href="https://dev.my.priceless.com/account/secure/updprofile.do">My Account</a></div></div></li>');
 				} else {
-				document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+image_url+'" style="text-decoration:none">'+getImgSrc(image,image_rel)+'</a><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline">'+text+'</a></div></div></li>');
-				
+				document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline">'+text+'</a> <a class="' + linkClass + '">|</a> <a href="'+regUrl+'" class="' + linkClass + '" style="text-decoration:underline">'+regText+'</a></div></div></li>');				
 				}
 			
-			} else {
-				document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+image_url+'" style="text-decoration:none">'+getImgSrc(image,image_rel)+'</a><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline">'+text+'</a></div></div></li>');
+			} else if(url.indexOf('https://dev.my.priceless.com/account/showemaildob.do') == -1) {
+				document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+image_url+'" style="text-decoration:none" name="&lid='+ actionname +'&lpos=headerNav">'+getImgSrc(image,image_rel)+'</a><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline" name="&lid='+ actionname +'&lpos=headerNav">'+text+'</a></div></div></li>');
 			
 			}
 			cnt = cnt + 1;
@@ -105,12 +122,13 @@
 			
 		
 		
-						
-			image = '<img  src="../images/navigation/rssFeed.gif"  width="16"  height="16"  border="0"  alt="RSS Feeds" >'; 
+			
+			image = '<img  src="../images/navigation/rssFeed.gif"  width="16"  height="16"  border="0"  alt="RSS Feeds"  title="RSS Feeds" />'; 
 			image_rel = relative("/us/images/navigation/rssFeed.gif",glbBaseURL);
 			image_url = relative("/us/personal/en/rss/index.html", glbBaseURL);
 			text = "RSS Feeds"; 			
 			url = relative("/us/personal/en/rss/index.html", glbBaseURL);
+var actionname="RSS Feeds";
 			if(cnt == 2) {
 			  classid="second"; 
 			  linkClass="rss";
@@ -132,22 +150,18 @@
 					image_rel = '';
 					image_url = '';
 					text = "Logout"; 			
-					url = "https://dev.my.priceless.com/account/secure/logout.do ";
-					document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+image_url+'" style="text-decoration:none">'+getImgSrc(image,image_rel)+'</a><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline">'+text+'</a></div></div></li>');
-				} else if (thisCookieVal == "p") {
-					image = ''; 
-					image_rel = '';
-					image_url = '';
-					text = ''; 			
-					url = '';
-					document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+image_url+'" style="text-decoration:none">'+getImgSrc(image,image_rel)+'</a><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline">'+text+'</a></div></div></li>');
+					url = "https://dev.my.priceless.com/account/secure/logout.do";
+					document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline" >'+text+'</a> <a class="' + linkClass + '">|</a> <a class="' + linkClass + '" href="https://dev.my.priceless.com/account/secure/updprofile.do">My Account</a></div></div></li>');
 				} else {
-				document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+image_url+'" style="text-decoration:none">'+getImgSrc(image,image_rel)+'</a><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline">'+text+'</a></div></div></li>');
-				
+				document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline">'+text+'</a> <a class="' + linkClass + '">|</a> <a href="'+regUrl+'" class="' + linkClass + '" style="text-decoration:underline">'+regText+'</a></div></div></li>');				
 				}
 			
-			} else {
-				document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+image_url+'" style="text-decoration:none">'+getImgSrc(image,image_rel)+'</a><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline">'+text+'</a></div></div></li>');
+			} else if(url.indexOf('https://dev.my.priceless.com/account/showemaildob.do') == -1) {
+			var timage = '<img src="../wce/GIF/follow_us.gif" width="150px" height="24px" border="0" usemap="#Map"/>'; 
+			var timage_rel = relative("/us/wce/GIF/follow_us.gif",glbBaseURL);
+			
+
+				document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '">'+getImgSrc(timage,timage_rel)+'<map name="Map" id="Map"><area shape="rect" coords="126,2,146,20" href="http://www.youtube.com/mastercard" target="_blank" title="YouTube"/><area shape="rect" coords="80,2,100,20" title="Twitter" target="_blank" href="http://twitter.com/MCPriceless" /></map></div></div></li>');
 			
 			}
 			cnt = cnt + 1;
@@ -155,62 +169,13 @@
 			
 		
 		
-						
+			
 			image = ''; 
 			image_rel = relative("",glbBaseURL);
-			image_url = relative("", glbBaseURL);
-			text = "Find a MasterCard"; 			
-			url = relative("http://www.mastercard.com/us/personal/en/findacard/home.html?GP=ILC-PricelessFAC", glbBaseURL);
-			if(cnt == 2) {
-			  classid="second"; 
-			  linkClass="rss";
-			}
-			else if(cnt == 3) {
-			  classid="third"; 
-			  linkClass="subscribe";
-			}
-			else if(cnt == 4) {
-			  classid="fourth"; 
-			  linkClass="elite";
-			}
-			
-			
-			if(url.indexOf('https://dev.my.priceless.com/account/signin.do') != -1) {
-
-				if(thisCookieVal == "s") {	
-					image = ''; 
-					image_rel = '';
-					image_url = '';
-					text = "Logout"; 			
-					url = "https://dev.my.priceless.com/account/secure/logout.do ";
-					document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+image_url+'" style="text-decoration:none">'+getImgSrc(image,image_rel)+'</a><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline">'+text+'</a></div></div></li>');
-				} else if (thisCookieVal == "p") {
-					image = ''; 
-					image_rel = '';
-					image_url = '';
-					text = ''; 			
-					url = '';
-					document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+image_url+'" style="text-decoration:none">'+getImgSrc(image,image_rel)+'</a><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline">'+text+'</a></div></div></li>');
-				} else {
-				document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+image_url+'" style="text-decoration:none">'+getImgSrc(image,image_rel)+'</a><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline">'+text+'</a></div></div></li>');
-				
-				}
-			
-			} else {
-				document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+image_url+'" style="text-decoration:none">'+getImgSrc(image,image_rel)+'</a><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline">'+text+'</a></div></div></li>');
-			
-			}
-			cnt = cnt + 1;
-			
-			
-		
-		
-						
-			image = '<img  src="../../wce/GIF/18157_worldcard_logo.gif"  width="43"  height="30"  border="0"  alt="World Elite Access" >'; 
-			image_rel = relative("/wce/GIF/18157_worldcard_logo.gif",glbBaseURL);
-			image_url = relative("/us/personal/en/cards/worldelite/featured_credit_card_benefits_and_services.html", glbBaseURL);
+			image_url = relative("World Elite Access", glbBaseURL);
 			text = "World Elite Access"; 			
 			url = relative("/us/personal/en/cards/worldelite/featured_credit_card_benefits_and_services.html", glbBaseURL);
+var actionname="World Elite Access";
 			if(cnt == 2) {
 			  classid="second"; 
 			  linkClass="rss";
@@ -232,22 +197,57 @@
 					image_rel = '';
 					image_url = '';
 					text = "Logout"; 			
-					url = "https://dev.my.priceless.com/account/secure/logout.do ";
-					document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+image_url+'" style="text-decoration:none">'+getImgSrc(image,image_rel)+'</a><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline">'+text+'</a></div></div></li>');
-				} else if (thisCookieVal == "p") {
+					url = "https://dev.my.priceless.com/account/secure/logout.do";
+					document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline" >'+text+'</a> <a class="' + linkClass + '">|</a> <a class="' + linkClass + '" href="https://dev.my.priceless.com/account/secure/updprofile.do">My Account</a></div></div></li>');
+				} else {
+				document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline">'+text+'</a> <a class="' + linkClass + '">|</a> <a href="'+regUrl+'" class="' + linkClass + '" style="text-decoration:underline">'+regText+'</a></div></div></li>');				
+				}
+			
+			} else if(url.indexOf('https://dev.my.priceless.com/account/showemaildob.do') == -1) {
+				document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+image_url+'" style="text-decoration:none" name="&lid='+ actionname +'&lpos=headerNav">'+getImgSrc(image,image_rel)+'</a><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline" name="&lid='+ actionname +'&lpos=headerNav">'+text+'</a></div></div></li>');
+			
+			}
+			cnt = cnt + 1;
+			
+			
+		
+		
+			
+			image = '<img  src="../wce/JPG/mc_card_plat.jpg"  width="42"  height="27"  border="0"  alt="Find a MasterCard"  title="Find a MasterCard" />'; 
+			image_rel = relative("/us/wce/JPG/mc_card_plat.jpg",glbBaseURL);
+			image_url = relative("http://www.mastercard.com/us/personal/en/findacard/home.html?GP=ILC-PricelessFAC", glbBaseURL);
+			text = "Find a MasterCard"; 			
+			url = relative("http://www.mastercard.com/us/personal/en/findacard/home.html?GP=ILC-PricelessFAC", glbBaseURL);
+var actionname="Find A MasterCard";
+			if(cnt == 2) {
+			  classid="second"; 
+			  linkClass="rss";
+			}
+			else if(cnt == 3) {
+			  classid="third"; 
+			  linkClass="subscribe";
+			}
+			else if(cnt == 4) {
+			  classid="fourth"; 
+			  linkClass="elite";
+			}
+			
+			
+			if(url.indexOf('https://dev.my.priceless.com/account/signin.do') != -1) {
+
+				if(thisCookieVal == "s") {	
 					image = ''; 
 					image_rel = '';
 					image_url = '';
-					text = ''; 			
-					url = '';
-					document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+image_url+'" style="text-decoration:none">'+getImgSrc(image,image_rel)+'</a><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline">'+text+'</a></div></div></li>');
+					text = "Logout"; 			
+					url = "https://dev.my.priceless.com/account/secure/logout.do";
+					document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline" >'+text+'</a> <a class="' + linkClass + '">|</a> <a class="' + linkClass + '" href="https://dev.my.priceless.com/account/secure/updprofile.do">My Account</a></div></div></li>');
 				} else {
-				document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+image_url+'" style="text-decoration:none">'+getImgSrc(image,image_rel)+'</a><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline">'+text+'</a></div></div></li>');
-				
+				document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline">'+text+'</a> <a class="' + linkClass + '">|</a> <a href="'+regUrl+'" class="' + linkClass + '" style="text-decoration:underline">'+regText+'</a></div></div></li>');				
 				}
 			
-			} else {
-				document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+image_url+'" style="text-decoration:none">'+getImgSrc(image,image_rel)+'</a><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline">'+text+'</a></div></div></li>');
+			} else if(url.indexOf('https://dev.my.priceless.com/account/showemaildob.do') == -1) {
+				document.write('<li class="'+classid+'"><div align="center"><div class="topNavText' + cnt + '"><a href="'+image_url+'" style="text-decoration:none" name="&lid='+ actionname +'&lpos=headerNav">'+getImgSrc(image,image_rel)+'</a><a href="'+url+'" class="' + linkClass + '" style="text-decoration:underline" name="&lid='+ actionname +'&lpos=headerNav">'+text+'</a></div></div></li>');
 			
 			}
 			cnt = cnt + 1;
@@ -257,12 +257,12 @@
 		
 		
 
-		</script><li class="first"><div align="center"><div class="topNavText1"><a href="http://submit.priceless.com" style="text-decoration:none"><img src="../../../wce/GIF/18158_telluspick.gif" width="212" height="16" border="0" alt="TELL US YOUR PRICELESS PICK"> </a><a href="http://submit.priceless.com" class="pricelessPks" style="text-decoration:underline">Submit</a></div></div></li><li class="second"><div align="center"><div class="topNavText2"><a href="rss/index.html" style="text-decoration:none"><img src="../../images/navigation/rssFeed.gif" width="16" height="16" border="0" alt="RSS Feeds"> </a><a href="rss/index.html" class="rss" style="text-decoration:underline">RSS Feeds</a></div></div></li><li class="third"><div align="center"><div class="topNavText3"><a href="../../../" style="text-decoration:none"> </a><a href="http://www.mastercard.com/us/personal/en/findacard/home.html?GP=ILC-PricelessFAC" class="subscribe" style="text-decoration:underline">Find a MasterCard</a></div></div></li><li class="fourth"><div align="center"><div class="topNavText4"><a href="cards/worldelite/featured_credit_card_benefits_and_services.html" style="text-decoration:none"><img src="../../../wce/GIF/18157_worldcard_logo.gif" width="43" height="30" border="0" alt="World Elite Access"> </a><a href="cards/worldelite/featured_credit_card_benefits_and_services.html" class="elite" style="text-decoration:underline">World Elite Access</a></div></div></li>
+		</script><li class="first"><div align="center"><div class="topNavText1"><a href="mobileapps/picks/index.html" style="text-decoration:none" name="&amp;lid=iPhone App&amp;lpos=headerNav"><img src="../../../wce/GIF/26079_checkoutiphone.gif" width="233" height="16" border="0" alt="Check out the Priceless Picks iPhone App" title="Check out the Priceless Picks iPhone App"> </a><a href="../../../" class="pricelessPks" style="text-decoration:underline" name="&amp;lid=iPhone App&amp;lpos=headerNav"> </a></div></div></li><li class="second"><div align="center"><div class="topNavText2"><img src="../../wce/GIF/follow_us.gif" width="150px" height="24px" border="0" usemap="#Map"> <map name="Map" id="Map"><area shape="rect" coords="126,2,146,20" href="http://www.youtube.com/mastercard" target="_blank" title="YouTube"><area shape="rect" coords="80,2,100,20" title="Twitter" target="_blank" href="http://twitter.com/MCPriceless"></map></div></div></li><li class="third"><div align="center"><div class="topNavText3"><a href="../../../orld Elite Access" style="text-decoration:none" name="&amp;lid=World Elite Access&amp;lpos=headerNav"> </a><a href="cards/worldelite/featured_credit_card_benefits_and_services.html" class="subscribe" style="text-decoration:underline" name="&amp;lid=World Elite Access&amp;lpos=headerNav">World Elite Access</a></div></div></li><li class="fourth"><div align="center"><div class="topNavText4"><a href="http://www.mastercard.com/us/personal/en/findacard/home.html?GP=ILC-PricelessFAC" style="text-decoration:none" name="&amp;lid=Find A MasterCard&amp;lpos=headerNav"><img src="../../wce/JPG/mc_card_plat.jpg" width="42" height="27" border="0" alt="Find a MasterCard" title="Find a MasterCard"> </a><a href="http://www.mastercard.com/us/personal/en/findacard/home.html?GP=ILC-PricelessFAC" class="elite" style="text-decoration:underline" name="&amp;lid=Find A MasterCard&amp;lpos=headerNav">Find a MasterCard</a></div></div></li>
             </ul>
           </div>
 	  <script type="text/javascript">
 	 	document.write(glbNavigationPrimaryTab);
-	  </script><div id="mainNav"><ul><li><a href="picks/index.html"><img src="../../images/navigation/navMnPicks.gif" alt="PRICELESS PICKS" border="0" onmouseover="Rollover(this, '../../images/navigation/navMnPicks_over.gif')" onmouseout="Rollover(this,'../../images/navigation/navMnPicks.gif')"></a></li><li><a href="pricelesstv/index.html"><img src="../../images/navigation/navMnTV.gif" alt="PRICELESS TV" border="0" onmouseover="Rollover(this, '../../images/navigation/navMnTV_over.gif')" onmouseout="Rollover(this,'../../images/navigation/navMnTV.gif')"></a></li><li><a href="promos/index.html"><img src="../../images/navigation/navMnPromos.gif" alt="PROMOTIONS &amp; OFFERS" border="0" onmouseover="Rollover(this, '../../images/navigation/navMnPromos_over.gif')" onmouseout="Rollover(this,'../../images/navigation/navMnPromos.gif')"></a></li><li><a href="cards/index.html"><img src="../../images/navigation/navMnCards.gif " alt="CARDS &amp; SERVICES" border="0" onmouseover="Rollover(this, '../../images/navigation/navMnCards_over.gif')" onmouseout="Rollover(this,'../../images/navigation/navMnCards.gif ')"></a></li><li><a href="extras/index.html"><img src="../../images/navigation/navMnExtras.gif" alt="EXTRAS" border="0" onmouseover="Rollover(this, '../../images/navigation/navMnExtras_over.gif')" onmouseout="Rollover(this,'../../images/navigation/navMnExtras.gif')"></a></li></ul></div><div id="subNav"><ul></ul></div>          
+	  </script><div id="mainNav"><ul><li><a href="picks/30/index.html" name="&amp;lid=Priceless Picks&amp;lpos=mainNav"><img src="../../images/navigation/navMnPicks.gif" alt="PRICELESS PICKS" border="0" onmouseover="Rollover(this, '../../images/navigation/navMnPicks_over.gif')" onmouseout="Rollover(this,'../../images/navigation/navMnPicks.gif')"></a></li><li><a href="pricelesstv/index.html" name="&amp;lid=Priceless TV&amp;lpos=mainNav"><img src="../../images/navigation/navMnTV.gif" alt="PRICELESS TV" border="0" onmouseover="Rollover(this, '../../images/navigation/navMnTV_over.gif')" onmouseout="Rollover(this,'../../images/navigation/navMnTV.gif')"></a></li><li><a href="promos/index.html" name="&amp;lid=Promotions and Offers&amp;lpos=mainNav"><img src="../../images/navigation/navMnPromos.gif" alt="PROMOTIONS &amp; OFFERS" border="0" onmouseover="Rollover(this, '../../images/navigation/navMnPromos_over.gif')" onmouseout="Rollover(this,'../../images/navigation/navMnPromos.gif')"></a></li><li><a href="cards/index.html" name="&amp;lid=Cards and Services&amp;lpos=mainNav"><img src="../../images/navigation/navMnCards.gif " alt="CARDS &amp; SERVICES" border="0" onmouseover="Rollover(this, '../../images/navigation/navMnCards_over.gif')" onmouseout="Rollover(this,'../../images/navigation/navMnCards.gif ')"></a></li><li><a href="mobileapps/index.html" name="&amp;lid=Mobile Apps&amp;lpos=mainNav"><img src="../../images/navigation/navMnMobile.gif" alt="Mobile Apps" border="0" onmouseover="Rollover(this, '../../images/navigation/navMnMobile_over.gif')" onmouseout="Rollover(this,'../../images/navigation/navMnMobile.gif')"></a></li></ul></div><div id="subNav"><ul></ul></div>          
         </div>
 
 
@@ -270,55 +270,160 @@
 	<div id="promoFull">
 		<div id="contTopFullC">
 			<div class="topSp2C">
-				<img src="../../images/picks/18831_privacy_header.gif" alt="Privacy Policy">
+				<img src="../../images/picks/18831_privacy_header.gif" alt="priceless.com/us Privacy Notice">
 			</div>
 		</div>
 		<div class="contCntr2">
 			<div class="offersRule"></div><div id="contentBox"><br>
 			
+				      <strong><br>Privacy Notice</strong><br>
+				      We at MasterCard International Incorporated (“we” or “us” or “MasterCard”) respect your privacy and value the relationship we have with you. This Privacy Notice describes the types of information we collect on <a href="http://www.priceless.com">www.priceless.com/us</a> (the “Site”) how we may use that information, and with whom we may share it. This Privacy Notice does not include information collection and use practices on other MasterCard Web sites. Please see the respective privacy notices for descriptions of those practices.<br><br><br>
+	      
 				      
-				      MasterCard International Incorporated ("we" or "us") recognizes the importance of respecting the privacy of those who visit www.priceless.com (the "Site") and choose to take advantage of the programs we offer at this Site. We believe it is important for you to know how we treat the information about you that we receive during your visits to the Site. This policy ("Privacy Policy") is designed to assist you in understanding how we collect, disclose, and safeguard the aggregate information about your use of the Site we collect when you visit and browse our Site ("Site Use Information") and the personally identifiable information ("Personal Information") you provide to us via the Site. Please note that when you link from our Site to other web sites, this Privacy Policy no longer applies. We encourage you to take the time to read this Privacy Policy and also those of any other sites you visit, whether through a link on this Site or otherwise.<br><br>
-THIS PRIVACY POLICY APPLIES ONLY TO THIS SITE, ONLINE PRACTICES, AND DATA ACQUIRED ONLINE. THIS PRIVACY POLICY IS A PART OF THE www.priceless.com <a href="termsofuse.html">TERMS OF USE</a>.<br><br><br>
+				      This Privacy Notice also describes the measures we take to protect your personal information.  We also describe the choices you can make about how we collect and use the personal information you provide to us, as well as personal information that we may share with third parties.  We also discuss how you can update your personal information, contact us with questions or comments, inquire about our company and its products and services, or answer any questions you may have about our privacy practices or this Web site.<br><br><br>
 	      
-				      <strong>Your Consent to the Privacy Policy and Revisions:</strong><br>
-				      We may revise the terms of this Privacy Policy from time to time. Additionally, we may in the future add new programs to the Site that are subject to new or different privacy terms. You are responsible for checking this Privacy Policy when you visit our Site to review the current policy in effect at that time. Any changes to this Privacy Policy are effective when posted to the Site. By using this Site, you agree to the terms set forth in this Privacy Policy.<br><br>
-Last updated: August 2006<br><br><br>
+				      
+				      <table cellpadding="0" cellspacing="0" width="520" style="font-size:10px;">
+<tbody><tr>
+	<td width="270"><b>Table of Contents</b></td>
+	<td width="250"><b>Programs</b></td>
+</tr><tr>
+	<td><a href="#link01">Information We Collect</a></td>
+	<td><a href="#link02">Newsletters and Subscriptions</a></td>
+</tr><tr>
+</tr><tr>
+	<td><a href="#link19">Active Collection of Information</a></td>
+	<td><a href="#link03">Other Content and Functionality</a></td>
+</tr><tr>
+	<td><a href="#link11">Passive Collection of Information</a></td>
+	<td><a href="#link04">Tell a Friend</a></td>
+</tr><tr>
+	<td><a href="#link12">How We Use the Information We Collect</a></td>
+	<td><a href="#link05">Text Messaging</a></td>
+</tr><tr>
+	<td><a href="#link13">How We Share the Information We Collect</a></td>
+	<td><a href="#link06">MasterCard Unique Experiences</a></td>
+</tr><tr>
+	<td><a href="#link15">Children’s Privacy</a></td>
+	<td><a href="#link08">Surveys and Questionnaires</a></td>
+</tr><tr>
+	<td><a href="#link16">Security</a></td>
+	<td><a href="#link09">User Generated Content</a></td>
+</tr><tr>
+	<td><a href="#link17">Your Choices</a></td>
+	<td><a href="#link10">Contact Us</a></td>
+</tr><tr>
+	<td><a href="#link18">Updates to the Privacy Notice</a></td>
+	<td><a href="#link07">Sweepstakes and Contests</a></td>
+</tr>
+</tbody></table><br><br><br>
 	      
-				      <strong>What Information We Collect And How We Disclose It:</strong><br>
-				      When you visit our Site, we may collect two types of information: (1) Site Use Information and Cookies, and (2) Personal Information you knowingly choose to disclose that is collected on an individual basis.<br><br><br>
+				      <strong><a name="link01" id="link01"></a><u>Information We Collect:</u></strong><br>
+				      Generally, we collect personal information on this Site to provide you the information, product or services you request.  This information will consist of your name and contact details.  We do not collect full credit card numbers on this Site.  Please see the discussion below regarding specific programs.<br><br>
+Moreover, given that this Site is intended for residents of the United States, we generally collect all of our information on servers located in the United States.<br><br><br>
 	      
-				      <strong>Site Use Information:</strong><br>
-				      Our servers automatically collect Site Use Information each time you visit the Site. The Site Use Information includes but is not limited to the following: the domain names, operating system in use (e.g., Macintosh, Windows), browser (e.g., Netscape, Internet Explorer) and version, the web site that referred you to us, and other similar information. This information may be aggregated to measure the number of visits, average time spent on the Site, pages viewed, time and date of visits, and other similar information. We may use and disclose Site Use Information, for example, to measure the use of our Site, explain the utility of our Site, and to improve the content of our Site.<br><br><br>
-	      
-				      <strong>Cookies:</strong><br>
-				      Similar to other commercial web sites, a technology called "cookies" may be used to provide you with tailored information. A cookie is a small piece of data that a web site can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. You may be able to set your browser to notify you when you receive a cookie. Our cookies collect general information that enhances our ability to serve you and measure the utility of our Site.<br><br><br>
-	      
-				      <strong>Personal Information:</strong><br>
-				      In addition to Site Use Information and Cookies, MasterCard may collect Personal Information at this Site only when you provide the information to us in connection with your participation in online sweepstakes or contests offered by us at this Site and your contacting us by e-mail with inquiries. Personal Information includes information such as your e-mail address, first and last name, home or other physical address, telephone numbers, and other similar information that is personally identifiable to you. 
+				      <strong><a name="link19" id="link19"></a><u>Active Collection of Information</u></strong><br>
+				      <a name="link02" id="link02"></a><i>Newsletters and Subscriptions</i><br><br>
 
-We may disclose Personal Information to our affiliates. We may also disclose Personal Information to third parties that provide services for us and to other third parties as permitted by law. Currently, our disclosure of Personal Information is limited to the following purposes:
+You may sign up on the Site to receive our newsletters or subscriptions.  In order to fulfill your requests, we may ask you for your information, such as name, zip code, type of MasterCard you have, and e-mail address.  For certain programs we may ask you to provide the first six digits of your MasterCard account number so that we can verify that you are a cardholder or what type of MasterCard card you have. <br><br>
+You may unsubscribe to our newsletters and other e-mail based services at anytime by clicking on the applicable unsubscribe link included in our e-mails to you.<br><br><br>
+	      
+				      
+				      <a name="link03" id="link03"></a><i>Other Content and Functionality</i><br><br>
 
-<ul>
-<li>understanding the use of our Site and making improvements;</li>
-<li>administering sweepstakes, contests, and other promotions (see "Official Rules" governing the sweepstakes, contest, or promotion for additional privacy disclosures);</li><li>sweepstakes, contest, or promotion for additional privacy disclosures);</li>
-<li>responding to requests from or providing any necessary notices to you;</li>
-<li>protecting the security or integrity of our Site; and</li>
-<li>otherwise administering or managing the Site software.</li>
-</ul><br><br><br>
+You may sign up on the Site to receive music downloads, video downloads and other information, functionality or content.  In order to fulfill your requests, we may ask you for your personal information, such as name, and postal and e-mail addresses.  For certain programs we may ask you to provide the first six digits of your MasterCard account number so that we can verify that you are a cardholder.  Additionally, in order for you to obtain some of this content and functionality we may ask you to register on the Site and create a user name and password, as well as potentially, a security question, which may contain personal information.<br><br><br>
 	      
-				      <strong>Information Security:</strong><br>
-				      We believe that keeping Personal Information secure is one of our most significant responsibilities. We restrict access to Personal Information about you to those employees and others who need to know that information to assist us in our business or to provide products or services to you. We safeguard Personal Information according to established security standards and procedures, by maintaining physical, electronic, and procedural safeguards for the information.<br><br><br>
+				      
+				      <a name="link04" id="link04"></a><i>Tell A Friend</i><br><br>
+
+You may use a Tell a Friend functionality on this Site to send your friends information from MasterCard and its marketing partners.  In order to fulfill this request, we will ask you for your and your friends’ names and e-mail addresses.  We do not retain this data after the e-mail is sent.<br><br><br>
 	      
-				      <strong>E-mail Information:</strong><br>
-				      If you choose to correspond with us through e-mail, we may retain the content of your e-mail messages together with your e-mail address and our responses.<br><br><br>
+				      
+				      <a name="link05" id="link05"></a><i>Text Messaging</i><br><br>
+
+You may sign up to receive information or offers from us and our merchant partners via text messaging (SMS).  In order to fulfill these requests, we or our service provider will ask you for your mobile phone number.  We will not retain your mobile phone number after we send you your requested information.<br><br><br>
 	      
-				      <strong>Users Under Age 13:</strong><br>
-				      We do not collect or maintain information at our Site from those we know are under 13 years old, and no part of our web site is designed to attract anyone under 13 years old.<br><br><br>
+				      
+				      <a name="link06" id="link06"></a><i>MasterCard Unique Experiences</i><br><br>
+
+You may use this Site as a gateway to make reservations or purchase unique MasterCard® experiences, including, purchasing Broadway show and airline tickets or making restaurant reservations.  If you choose to make a reservation, our vendor may ask for your name, phone number, postal and e-mail addresses and other information about you.  If you are purchasing an experience (including theater or airline tickets), our service provider also separately will ask you for your MasterCard account information to pay for the purchase. We do not collect and do not receive full credit card details.<br><br><br>
 	      
-				      <strong>Links to Web Sites Operated by Others:</strong><br>
-				      When you use a link to go from this Site to a web site operated by a third party, this Privacy Policy is no longer in effect. We are not responsible for the privacy practices employed by third party web sites linked to or from our Site, nor for the information or content contained therein. <br><br>
-Questions regarding this Privacy Policy, our practices, or your dealings with this Site should be directed to our <a href="http://www.mastercard.com/us/personal/en/faqs/index.html">Customer Service team</a>. <br><br><br><br>
-Last Updated: August 2006<br><br><br>
+				      
+				      <a name="link07" id="link07"></a><i>Sweepstakes and Contests</i><br><br>
+
+From time to time we run sweepstakes or contests.  When you enter a sweepstake or contest online, we may collect your first and last name, and e-mail addresses.  We also may ask you for additional information, such as your interests, product preferences or zip code.  If you win a sweepstakes or contest, we may ask you for additional information.<br><br>
+If you enter a sweepstakes by using your MasterCard card, but not by providing us your personal information, and you win that sweepstakes, our fulfillment service provider may obtain your name and contact information from the financial institution (bank) that issued your MasterCard card in order to contact you regarding your prize, but our service provider does not provide us that information.<br><br><br>
+	      
+				      
+				      <a name="link08" id="link08"></a><i>Surveys and Questionnaires</i><br><br>
+
+We may ask you to complete online surveys and opinion polls on a variety of topics, including your activities, attitudes, and interests as they relate to our products and services.  When you complete a survey we or our service provider usually collect your name, zip code, and e-mail addresses.  We also may ask you for additional information, such as your age, interests, or product preferences.<br><br><br>
+	      
+				      
+				      <a name="link09" id="link09"></a><i>User Generated Content</i><br><br>
+
+We provide tools by which you may share publicly information about yourself, content you have created (such as photographs and essays) and your interests.  If you choose to share such information and content, we may ask for your name and contact information, as well as for personal comments, videos and photographs, all of which may be posted publicly. So please consider the items you provide to us before they are published for the world to see.<br><br><br>
+	      
+				      
+				      <a name="link10" id="link10"></a><i>"Contact Us"</i><br><br>
+
+If you contact us with comments or questions, we will have any information you choose to provide.<br><br><br>
+	      
+				      <strong><a name="link11" id="link11"></a>Passive Collection of Information</strong><br>
+				      <i>Site</i><br><br>
+When you visit our Site, your browser automatically may send us certain non-personal information, such as a referring Web site, IP address, operating system in use, information about your computer, browser and browser version.  <br><br>
+We contract with service providers to provide us with online data collection, reporting and analytical services.  This Site’s HTML-formatted Web pages may include electronic image requests (called a "single-pixel gif", “clear-gifs” or "Web beacon" request) to our service providers’ servers. These Web beacons do not collect any personal information. These are just the technique by which our service providers compile anonymous information about your browsing activity on the Site.  In connection with the Web beacons our service providers also may use cookies to collect such anonymous information. Our service providers are contractually prohibited from using any of the information obtained in the course of providing these services except on our behalf. <br><br>
+By our collecting this information, we learn how to best tailor our Site to our visitors. While generally we examine such anonymous information only in the aggregate, such aggregated information could be linked back to an individual IP addresses or machine access codes (MACs). To find out more about how this information is used, please go to <a href="http://www.networkadvertising.org" target="new">www.networkadvertising.org</a> or <a href="http://www.omniture.com/en/privacy/product" target="new">www.omniture.com/en/privacy/product</a>.<br><br>
+A cookie is a small piece of information sent by a Web site that is saved on your hard disk by your computer's browser. It holds information a site may need to interact with you and personalize your experience, such as a unique identifier, but the cookies set by our service providers do not contain personally identifiable information<br><br>
+You can set your browser to notify you when you receive a cookie, which gives you the opportunity to decide whether you want to accept it or not. In many instances, the Help button on your browser toolbar will tell you how you can take these steps; however, if you do take such steps, it may impact your ability to interact with this Site and to access information and functionality.  Additionally, you may choose to receive an opt-out cookie from some of our service providers, which will allow you to be anonymous relative to them.  See <a href="http://networkadvertising.org/managing/opt_out.asp" target="new">networkadvertising.org/managing/opt_out.asp</a> and <a href="http://www.omniture.com/en/privacy/product#optout" target="new">www.omniture.com/en/privacy/product#optout</a> for more information on opt-out cookies.<br><br>
+<i>E-mail</i><br><br>
+If your e-mail software is capable of receiving HTML coded e-mails, when we send you e-mails we and our e-mail service provider may collect information via Web beacons regarding the delivery of the e-mail, including, whether the e-mail was delivered, whether it was opened, whether it was opened with HTML capable e-mail software, when it was opened, and which links you click on. This data may be associated with your e-mail address.
+Our e-mail service provider is contractually prohibited from using the information obtained in the course of providing these services to us except on our behalf. <br><br>
+
+<i>Text Messaging</i><br><br>
+When our vendor sends you text messages our vendor collects information regarding the delivery of the message, including, that a message was delivered, and the time of delivery. Our text messaging service provider is prohibited contractually from using the information obtained in the course of providing these services to us, except as necessary to process your request.<br><br><br>
+	      
+				      <strong><a name="link12" id="link12"></a><u>How We Use Personal Information</u></strong><br>
+				      Personal information collected through or in connection with our interactive services is used in connection with the purpose for which it was submitted, including:  to contact you to answer a question, to send you a newsletter or other information you have requested, for the administration of any contests or sweepstakes, and to arrange for any other services you have requested.  <br><br>
+We also may use the information we collect to enhance your interactive experience while using our Site or viewing our electronic communications, to improve the content of the Site or to improve the quality or variety of the products, services and promotions we offer.<br><br>
+We may use the information you provide to us to contact you regarding other promotions, offers, information and items that may interest you.  See the discussion of choices if you do not wish to receive such information.<br><br><br>
+	      
+				      <strong><a name="link13" id="link13"></a>How We Share Personal Information</strong><br>
+				      We do not share personal information about you gathered through your interaction with the Site, except as described here. We may share information you provided with service providers we have retained to perform services on our behalf, including Web hosting service providers, e-mail service providers, SMS service providers, advertising agencies and fulfillment houses.  <br><br>
+In those situations, the service provider is performing work for us, and we take the appropriate steps designed to ensure your information is used only to provide the services specified, and that it is maintained in a confidential manner.<br><br>
+We also may transfer and disclose personal information in accordance with the terms and conditions of any sweepstakes and contests and any publicity release you may sign in accordance with that sweepstake or contest.  We also may obtain information about you, such as from your issuing bank, in accordance with such terms and conditions.  Any information you provide in a user generated content context, such as Priceless Picks, may be publicly disclosed and shared accordingly.<br><br>
+If you answer surveys or questionnaires, we do not share your personal information from such surveys or questionnaires other than with our service providers, but we may share such data on an anonymized basis, without your personal information.<br><br>
+In addition, we may disclose information about you to others (i) if we are required to do so by law, (ii) in response to legal process, (iii) to law enforcement authorities or other government officials, or (iv) when we believe disclosure is necessary or appropriate to prevent harm or loss or in connection with an investigation of suspected or actual fraud or illegal activity.<br><br>
+We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to try to ensure that the transferee uses personal information you have provided through this Site in a manner that is consistent with this Privacy Notice.<br><br><br>
+	      
+				      <strong><a name="link14" id="link14"></a>Links to Other Web sites</strong><br>
+				      We provide links to other Web sites for your convenience and information, including Web sites of merchants offering a discount or premium offer.  These sites operate independently from www.priceless.com, and are not under our control. These sites may have their own privacy notices in place, which we strongly suggest you review if you visit any linked Web site. We are not responsible for the content of these sites, any products or services that may be offered through these Web sites, or the privacy practices of these Web sites.<br><br><br>
+	      
+				      <strong><a name="link15" id="link15"></a>Children’s Privacy</strong><br>
+				      This Site is intended for an adult audience and is not meant for children. We do not knowingly collect information from children under 13. We want to let you know that it is MasterCard policy not to collect personal information of any person under 13. If we knowingly obtain personally identifiable information in error on a child under the age of 13, we will delete that information from our systems.  For this reason, our online sweepstakes are restricted to entrants who, at a minimum, are at least 13 years of age.<br><br><br>
+	      
+				      <strong><a name="link16" id="link16"></a>Security</strong><br>
+				      MasterCard is committed to using industry practices to maintain the security of personal information collected on our Site.  To try to prevent unauthorized access, maintain data accuracy, and ensure the correct use of personal information, we have put in place technical, physical and administrative methods designed to safeguard the personal information we collect online.  We store personal information on a secured server behind a firewall that is not directly connected to the Internet.<br><br>
+Please remember that no data transmission over the Internet, or by other means, can be guaranteed to be 100% secure. Thus, while we strive to protect your personal information, MasterCard cannot ensure or warrant the security of any information you transmit to us.  Therefore, you understand, acknowledge, and agree that you transmit your Personal Information over the Internet and through this Site at your own risk. <br><br>
+If you registered to access a portion of this Site, you should maintain the confidentiality of your user name and password.  You should use a password that is not easily guessed.  We use secure socket layer (SSL) or secure HTTP (HTTPS) technology to protect your user name and password when you enter that information on the Site.  If you believe your user name and password have been compromised, please contact us per the "How To Contact Us" section below.<br><br><br>
+	      
+				      <strong><a name="link17" id="link17"></a>Your Choices</strong><br>
+				      To subscribe or unsubscribe to any of our programs, newsletters or alerts, you should follow the specific directions provided for that specific program, newsletter or alert on the Site.  You can "opt-out" of receiving promotional e-mail from us by following the opt-out instructions in our e-mails. To ensure that your opt-out request is honored, you must use the method designated in the e-mails to notify us of your opt-out request, since we cannot guarantee that other methods of notification will be effective or timely.<br><br>
+You can opt-out of receiving text messages by replying to any message with a “STOP” code or as otherwise specified for that particular program.<br><br>
+Please be aware that we are able to effectuate an opt-out only for a specific e-mail address or mobile phone number respectively.  So, if you have more than one e-mail address or mobile phone number or if you have changed your e-mail address or mobile phone number, your opt-out request may not be effectuated properly. If you believe you have opted out, but continue to receive e-mails or text messages from us, please contact us by one of the means listed under “How to Contact Us”, below, and we will try to resolve the issue.<br><br>
+Please note that even if you chose to opt-out of MasterCard marketing communications, we will continue to send you important service related communications, including follow-up messages regarding sweepstakes or contests you have entered.<br><br>
+You also have choices with respect to the non-personal information we collect as discussed above in the Passive Collection of Information section.<br><br>
+If you cannot determine how to opt-out of a particular program, please contact us as specified in the "How To Contact Us" section below.<br><br><br>
+	      
+				      <strong><a name="link18" id="link18"></a>Updates to this Privacy Notice</strong><br>
+				      Note that by using the Site and any related interactive services you signify your agreement to this Privacy Notice. This Privacy Notice may change from time to time. Changes to this Privacy Notice will become effective when those changes are posted to the Site. Your continued use of the services and the Site subsequent to any changes to this Privacy Notice constitutes your acceptance of the changes. Please review this Notice periodically to ensure continuing familiarity with its most current provisions, and so you are aware of any changes or updates to this Notice.  We indicate above the effective date of the Notice.<br><br><br>
+	      
+				      <strong><a name="link19" id="link19"></a>How to Contact Us and Update Information</strong><br>
+				      We regret that we cannot answer any inquiries related to your financial account for which you should contact your financial institution (bank) directly.  If you would like to contact us regarding this Notice, your privacy or update or correct your personal information, please write to:<br>
+MasterCard Worldwide<br>
+c/o priceless.com Webmaster<br>
+2000 Purchase Street<br>
+Purchase, NY 10577<br><br><br>
 	      
   			</div>
   		</div>
@@ -339,139 +444,69 @@ Last Updated: August 2006<br><br><br>
 	<script type="text/javascript">
 		var footerLinkURL = "";
 		var footerLinkText = "";
+		var virtuosoText = "";
 		var termsLinkURL = relative("/us/personal/en/index.html",glbBaseURL);
+var termsLinkName ="Home";
 		var termsLinkText = 'Home';		
 	</script>	
-	<script type="text/javascript">document.write("<a href='"+ termsLinkURL +"'>" + termsLinkText + "</a>");</script><a href="index.html">Home</a>
-	
-	 |  
-	  <script type="text/javascript">
-		footerLinkURL = relative("/us/personal/en/picks/guidelines.html",glbBaseURL);
-		footerLinkText = "Priceless Picks Guidelines";
-		document.write("<a href='"+ footerLinkURL +"'>" + footerLinkText + "</a>");
-	  </script><a href="picks/guidelines.html">Priceless Picks Guidelines</a>
-	  
+	<script type="text/javascript">
+                 document.write("<div>"+virtuosoText+"</div>");
+		 document.write("<br/><br/>");
+		 document.write("<br/>");
+
+                 document.write("<a href='"+ termsLinkURL +"' name='&lid="+ termsLinkName +"&lpos=FooterNav'>" + termsLinkText + "</a>");</script><div></div><br><br><br><a href="index.html" name="&amp;lid=Home&amp;lpos=FooterNav">Home</a>
 	
 	 |  
 	  <script type="text/javascript">
 		footerLinkURL = relative("http://www.mastercard.com",glbBaseURL);
 		footerLinkText = "mastercard.com";
-		document.write("<a href='"+ footerLinkURL +"'>" + footerLinkText + "</a>");
-	  </script><a href="http://www.mastercard.com">mastercard.com</a>
+		footerLinkTextName = "MCcom_L";
+		document.write("<a href='"+ footerLinkURL +"' name='&lid="+ footerLinkTextName +"&lpos=FooterNav'>" + footerLinkText + "</a>");
+	  </script><a href="http://www.mastercard.com" name="&amp;lid=MCcom_L&amp;lpos=FooterNav">mastercard.com</a>
 	  
 	
 	 |  
 	  <script type="text/javascript">
 		footerLinkURL = relative("/us/personal/en/privacy.html",glbBaseURL);
 		footerLinkText = "priceless.com Privacy Policy";
-		document.write("<a href='"+ footerLinkURL +"'>" + footerLinkText + "</a>");
-	  </script><a href="../../../us/personal/en/privacy.html">priceless.com Privacy Policy</a>
+		footerLinkTextName = "Privacy";
+		document.write("<a href='"+ footerLinkURL +"' name='&lid="+ footerLinkTextName +"&lpos=FooterNav'>" + footerLinkText + "</a>");
+	  </script><a href="../../../us/personal/en/privacy.html" name="&amp;lid=Privacy&amp;lpos=FooterNav">priceless.com Privacy Policy</a>
 	  
 	
 	 |  
 	  <script type="text/javascript">
 		footerLinkURL = relative("/us/personal/en/termsofuse.html",glbBaseURL);
 		footerLinkText = "Terms of Use";
-		document.write("<a href='"+ footerLinkURL +"'>" + footerLinkText + "</a>");
-	  </script><a href="termsofuse.html">Terms of Use</a>
+		footerLinkTextName = "Terms of Use";
+		document.write("<a href='"+ footerLinkURL +"' name='&lid="+ footerLinkTextName +"&lpos=FooterNav'>" + footerLinkText + "</a>");
+	  </script><a href="termsofuse.html" name="&amp;lid=Terms of Use&amp;lpos=FooterNav">Terms of Use</a>
 	  
 	
 	 |  
 	  <script type="text/javascript">
 		footerLinkURL = relative("/us/personal/en/sitemap/",glbBaseURL);
 		footerLinkText = "Site Map";
-		document.write("<a href='"+ footerLinkURL +"'>" + footerLinkText + "</a>");
-	  </script><a href="sitemap/">Site Map</a>
+		footerLinkTextName = "Site Map";
+		document.write("<a href='"+ footerLinkURL +"' name='&lid="+ footerLinkTextName +"&lpos=FooterNav'>" + footerLinkText + "</a>");
+	  </script><a href="sitemap/" name="&amp;lid=Site Map&amp;lpos=FooterNav">Site Map</a>
 	  
 	
 	<br>
 	©2006-<script type="text/javascript">document.write(glbCurrentYear);</script>2020 
 			      MasterCard. All rights reserved.
 	<!-- end footer area -->
-	<!-- CMS Default HBX tagging variable set up -->
-	<script type="text/javascript">	
-		// *************************************************************************************************************************
-		// *** IF using default CMS HBX Tag the following variables will be passed to /common/inc/wss_cms_default_hbx_include.ssi *** 
-		// *************************************************************************************************************************	
-		/*
-		var defwss_region      = "";		
-		var defwss_jsConfigURL = relative("//js/wss_cms_config.js", glbBaseURL); 
-		*/
-	</script>
-	<!-- end CMS Default HBX tagging variable set up -->
+
+	<script language="javascript">
+var dynamicTagURL= document.location.protocol + "//www.mastercard.com/common/inc/loader.js";
+document.write("<scr"+"ipt language='javascript' src='"+dynamicTagURL+"'></scr"+"ipt>");
+</script><script language="javascript" src="https://www.mastercard.com/common/inc/loader.js"></script>
+<noscript><img src=https://smetrics.priceless.com/b/ss/mastercpriceless/5/20551 width="5" height="5" border="0" alt="" /></noscript>
 
 
 				<!-- footer ends here -->
 				<!-- HBX Tagging Call -->
-				<script language="javascript">
-// *************************
-// The purpose of this file is to:
-// 1) set confuration and HBX javascript file locations
-// 2) determine and set the current environment
-//    - test or production
-// 3) determine whether or not to run HBX
-//    - based on flag and/or environment
-// Last Updated 05-04-07
-// *************************
-
-// setup paths to js files
-// - use relative path starting from domain name to keep the protocol intact
-var wsstag_jsConfigURL = "/common/js/wss_priceless_config.js";
-var wsstag_jsImplURL = "/common/js/hbx.js";
-
-// set ON/OFF flag
-if (typeof(wsstag_enabled) == 'undefined')
-var wsstag_enabled = "true";
-var wsstag_batch = "false";
-var wsstag_location = document.location;
-var wsstag_doctitle = document.title;
-
-// set prod env value
-var wsstag_prodEnv = "prod";  // used to compare against environment result
-var wsstag_testEnv = "test";
-
-// determine current environment
-// - used by config js
-var wsstag_envResult = "test";
-
-   if (location.href.indexOf('www.mastercard.com') != -1) {
-      wsstag_envResult = "prod";
-   }
-
-   if (location.href.indexOf('www.priceless.com') != -1) {
-      wsstag_envResult = "prod";
-   }
-   if (location.href.indexOf('10.154.244.220') != -1) {
-      wsstag_envResult = "prod";   	
-   }
-   if (location.href.indexOf('10.154.244.221') != -1) {
-      wsstag_envResult = "prod";   	
-   }
-   if (location.href.indexOf('http://priceless.com') != -1) {
-      wsstag_envResult = "prod";   	
-   }
-   if (location.href.indexOf('https://priceless.com') != -1) {
-      wsstag_envResult = "prod";   	
-   }
-   if (location.href.indexOf('submit.priceless.com') != -1) {
-      wsstag_envResult = "prod";   	
-   }
-	if (location.href.indexOf('adventure.priceless.com') != -1) {
-      wsstag_envResult = "prod";   	
-   }
-   if (location.href.indexOf('golf.priceless.com') != -1) {
-      wsstag_envResult = "prod";   	
-   }
-   if (location.href.indexOf('mastercardwinahome.com') != -1) {
-      wsstag_envResult = "prod";   	
-   }
-
-// include js files
-if (wsstag_enabled == "true") {
-   document.write("<scr"+"ipt src=\""+wsstag_jsConfigURL+"\"></scr"+"ipt>");
-   document.write("<scr"+"ipt defer src=\""+wsstag_jsImplURL+"\"></scr"+"ipt>");
-}
-</script><script src="/common/js/wss_priceless_config.js"></script><script defer="" src="/common/js/hbx.js"></script>
+				
 				<!-- HBX Tagging End Call -->
 				</div>
 
