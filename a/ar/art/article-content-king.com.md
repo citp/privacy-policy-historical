@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the article-content-king.com privacy policy that was archived on 2007-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070730081251id_/http%3A//www.article-content-king.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-content-king.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410180936id_/http%3A//www.article-content-king.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
-# privacy Article-Content-King.com
-
-  
-
+# privacy Quality Website Articles | Submit Articles Here
 
 Article-Content-King.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
@@ -27,11 +24,17 @@ Article-Content-King.com expects its partners, advertisers and affiliates to res
 
 While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. Article-Content-King.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Article-Content-King.com and this policy. 
+You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Article-Content-King.com and this policy.
+
+Special Note About Google Advertising
+
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google's cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. Any advertisements served by Google, Inc., And affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google's cookie usage . As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies.
+
+About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site (s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. Google ad and content network privacy policy.
 
 Children
 
-AArticle-Content-King.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Article-Content-King.com has any information from or about anyone under 13, please contact us at the address listed below.
+Article-Content-King.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Article-Content-King.com has any information from or about anyone under 13, please contact us at the address listed below.
 
 Contacting Us
 
@@ -47,5 +50,4 @@ This policy and the use of this Site are governed by The laws of the United King
 
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Sheffield. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.  
-
+This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
