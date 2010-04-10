@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pensketruckrental.com privacy policy that was archived on 2009-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090815180620id_/http%3A//www.pensketruckrental.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pensketruckrental.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410050527id_/http%3A//www.pensketruckrental.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
