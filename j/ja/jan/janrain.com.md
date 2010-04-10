@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the janrain.com privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923153631id_/http%3A//www.janrain.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janrain.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410180534id_/http%3A//www.janrain.com/privacy) for the most accurate reproduction.*
 
 # JanRain.com - Site - Privacy
+
+**Originally Posted:** _November 2008_ | **Last Reviewed:** _March, 2010_
 
 Welcome to JanRain.com. We take your privacy seriously, and want you to have the information you need to make your own decisions about your privacy. Below is the JanRain Privacy Policy. 
 
 ### Here are our commitments
 
   * Your privacy remains strictly under your control
-  * We will never disclose your information to any third party for marketing purposes unless you expressly tell us to 
+  * We will never disclose your information to any third party for marketing purposes unless you expressly tell us to
   * You can decide whether you want to receive any offers from us that may be of interest to you
 
 
@@ -36,9 +38,15 @@ We do not sell customer lists. We will not share any information that identifies
 
 Children under the age of thirteen (13) are not eligible to use our service and must not submit any personal information to us. 
 
-### Use of Cookies
+### Use of Cookies and Log File Technologies
 
 Cookies are a standard Internet technology, and many major web sites use them to provide useful features for their members. Cookies allow us to store and retrieve login information on a user's system. They provide us with data that we can use to improve the quality of our service and make it easier to use. Most browsers are initially set up to accept cookies. If you'd prefer, you can set yours to refuse cookies. However, you may not be able to take full advantage of JanRain.com if you do so. 
+
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
+
+We use this information, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. 
+
+We do not link automatically-collected data through the use of cookies and log files to personally identifiable information. 
 
 ### Third Party Advertising
 
@@ -54,6 +62,10 @@ We reserve the right to transfer your personal information in the event of a tra
 
 The security of your personal information depends on your protection of your account. Please do not disclose your login credentials to unauthorized people. We use industry standard technology designed to help keep your personal information safe. If you have any other questions about the security of our website, please contact us at privacy@janrain.com. 
 
+### _Safe Harbor Policy_
+
+The company complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company's certification, please visit <http://www.export.gov/safeharbor/> or our [Safe Harbor Information page](https://web.archive.org/safe-harbor) for more information regarding Safe Harbor and what types of data we collect and how we use the data. 
+
 ### Changes in Privacy Policy
 
 From time to time we may update this Privacy Policy and will post a notice of any significant changes on our website. You should visit this page periodically to review any such changes to the privacy policy. Your continued use of this website or our service and/or continued provision of personally identifiable information to us will be subject to the terms of the then-current Privacy Policy. 
@@ -64,4 +76,4 @@ You always have the option to cancel using the service at any time.
 
 ### How to Contact Us
 
-If you have any questions or concerns about JanRain.com's Privacy Policy or its implementation, you may contact us at this email address: privacy@janrain.com 
+If you have any questions or concerns about JanRain.com's Privacy Policy or its implementation, you may contact us at this email address: [privacy@janrain.com](mailto:privacy@janrain.com)
