@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playerspalacecasino.eu privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027214753id_/http%3A//www.playerspalacecasino.eu/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playerspalacecasino.eu privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410145116id_/http%3A//www.playerspalacecasino.eu/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Players Palace | Privacy Policy
 
@@ -14,7 +14,7 @@ It is very important that you complete the account details correctly, since they
 
 To play for real money, Players will need to make a deposit. In the course of making a deposit, Players will need to provide deposit method information (example: credit card number). This information in conjunction with your other personal information might be used to clear financial transactions executed by you.
 
-Naden Inc, the owners of the Casino, promises not to use this information for any other purpose or to share your personal information with any third parties without your express written permission.
+HMAM Inc, the owners of the Casino, promises not to use this information for any other purpose or to share your personal information with any third parties without your express written permission.
 
 ### Confidentiality
 
@@ -26,15 +26,15 @@ All our employees are required to keep player information strictly confidential.
 
 Due to the existing legal, regulatory and security environment, we may be required, under certain circumstances, to disclose personally identifiable information about our players to government and other regulatory authorities. Rest assured we will use our best reasonable efforts to limit such disclosure to the following:
 
-  1. Where we believe in good faith that it is required to do so in response to a subpoena, warrant or other legal process
-  2. Where reasonably necessary to identify, contact or bring legal action against persons or entities to preserve and/or enforce the Casino's rights.
-  3. In connection with an investigation of fraud, intellectual property infringement, piracy or other unlawful activity or activity that may expose us to legal liability.
+  1. Where we believe in good faith that it is required to do so in response to a subpoena, warrant or other legal process 
+  2. Where reasonably necessary to identify, contact or bring legal action against persons or entities to preserve and/or enforce the Casino's rights. 
+  3. In connection with an investigation of fraud, intellectual property infringement, piracy or other unlawful activity or activity that may expose us to legal liability. 
 
 
 
 ### Your rights in relation to your information
 
-You can write to us at any time to obtain a copy of your information and to have any inaccuracies corrected. Where appropriate, you may have your personal information erased, rectified, amended or completed. In order to contact us regarding your information please e-mail web.archive.org@casinoemailsupport.com. We may levy a small charge to cover the cost of administration regarding any request made by you in this regard.
+You can write to us at any time to obtain a copy of your information and to have any inaccuracies corrected. Where appropriate, you may have your personal information erased, rectified, amended or completed. In order to contact us regarding your information please e-mail web.archive.org @casinoemailsupport.com. We may levy a small charge to cover the cost of administration regarding any request made by you in this regard.
 
 ### Consent
 
