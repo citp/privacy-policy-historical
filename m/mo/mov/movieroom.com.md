@@ -1,64 +1,27 @@
-> *The following text is extracted and transformed from the movieroom.com privacy policy that was archived on 2009-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090713090618id_/http%3A//www.movieroom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieroom.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410175336id_/http%3A//movieroom.com/privacy.php) for the most accurate reproduction.*
 
-# MovieRoom: Privacy Policy
+# Movie Room - Porn Scenes DVD
 
-Should you have any questions regarding our privacy policy or any other matter, please use our [Support Center Contact Form](http://help.movieroom.com/)
+This policy explains what kind of information we may gather from any user and/or members on our sites. This site is an adult site and its purposes should only be used by persons that are 18 or older. All persons under that age are not allowed to view the content of this site and should leave immediately. 
 
-  
-This website (the "Site") is owned by **FlickyMedia**
+### The Information We Collect
 
-Our postal address is  
-**249 S. Highway 101 #476  
-Solana Beach, CA 92075**
+This notice applies to all information collected or submitted on movieroom.com.com's website. On some pages, you can order products/subscriptions, make requests or register to receive materials and on some other pages, we will automatically gather and collect some information from the subscriber. The types of personal information collected at these pages could be, but are not limited too, name, email address, IP address etc. 
 
-This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this Site. This is an adult Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site. 
+### The Way We Use Information
 
-This Site does not knowingly seek or collect any personal information or data from persons under the age of 18. 
+The user has to note that some personal information, such as but not limited to credit card number, may be collected by a third-party web service provider from whom movieroom.com purchases services or that has an advertising banner or link on the Site. Users should read the privacy policy of those third parties whenever possible to look for modifications. 
 
-Notice - Use of Website by the Subscriber Constitutes the Subscriber's Express Assent to the Use of Personal Information Collected by Site. 
+As soon as the subscriber uses the website, the subscriber agrees that movieroom.com may use any personal information that has been provided or collected by the website about the subscriber for any purpose, including without limitation age verification, administration, customer administration, marketing, promotional and advertising use by the website or third parties authorized to use the information by the site. The user hereby agrees that the website may, in its sole discretion, sell, share, rent, or license any of the personal information about users that was provided or that was collected with affiliated or unaffiliated third parties. 
 
-CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS POLICY STATEMENT. 
+### Email Marketing
 
-IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE. 
+The subscriber’s e-mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials. The subscriber may opt-out of a mailing list by clicking on the remove link located at the bottom of the email promotions, or by visiting the site <http://www.td3x.com/>
 
-**What Information About Subscribers is Collected?**
+### Our Commitment To Data Security 
 
-When any adult consumer signs-on as a member or subscriber of this Site that consumer will be required to provide certain personal as well as demographic information which may include, but is not necessarily limited to, the subscriber's name, address, e-mail address, username and password, and special interests or affiliations. This Site collects any and all such information and includes it in its customer database. 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place reasonable and appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-If the Site features or conducts any special events, special promotions or offers, contests or polls, a subscriber of the Site may be asked to provide information in order to participate, if the subscriber voluntarily provides that information, all such information may be collected by the Site and included in its customer database. 
+### How To Contact Us
 
-When a subscriber of this Site requests webpages from the Site's server or clicks on banners or other hypertext links, the Site will automatically collect some information or data about the subscriber, including the subscriber's IP address, the information that is collected may also indicate any special preferences or requests of the subscriber; all that information and data will be collected by the Site and included in its customer database. 
-
-If a subscriber sends any personal communication or correspondence, by any means, to the Site, or any of its employees, agents or representatives, the Site may collect any information regarding that communication and include that information in its customer database. 
-
-The Site may also automatically collect traffic and click-through data as well as information regarding the online behavior of subscribers by the use of "cookies"or other programming means - any information about subscribers collected by the Site through the use of cookies or other programming means may be included in its customer database. 
-
-You may obtain further information about "cookies" and how they function at: <http://www.cookiecentral.com/>. 
-
-**Use of Personal Subscriber Information.**
-
-By the subscriber's use of the Site, the subscriber expressly agrees that the Site may use any personal information that has been provided by the subscriber or that has been collected by the Site about the subscriber for any purpose, including without limitation, technical, administration, research and development, customer administration, marketing, age verification, promotional and advertising use by the Site. 
-
-**We will never sell or trade your personal information to any 3rd party.**
-
-Your personal information is to be used by the Site only for marketing and promotional purposes. 
-
-**Security of Personal Information Collected by the Site.**
-
-Consistent with the Policies set forth in this Privacy Statement, the Site has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the Site. 
-
-All subscribers should consider any information provided to or collected by the Site as non-confidential, and consequently the Site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient. 
-
-**"OPT-IN" and "OPT-OUT" Provisions.**
-
-There may be occasions when a subscriber will be presented with special offers from the operators of the Site, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers"). 
-
-"OPT-IN" -- Some Offers may be presented to the subscriber with the option to express the subsciber's preference by either clicking or entering "accept"(alternatively"yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes" the subscriber indicates that the subscriber"OPTS-IN" to that Offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties. 
-
-"OPT-OUT" -- Other Offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the Offer) then the Site may transfer the subscriber's personal profile information to the third-party service or content provider making the Offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider. 
-
-**Terms and Conditions of Membership.**
-
-Each subscriber should carefully read each of the [terms and conditions](https://web.archive.org/terms.html) of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers. 
-
-In the event of any conflicts between the Membership Terms and Conditions and this Privacy Policy Statement, the provisions of this Privacy Policy shall control. 
+Should you have other questions or concerns about these privacy policies, please send us an email at [support@support-websites.com](mailto:support@support-websites.com) or write us at 3300 Cote-Vertu, Suite 406, Montreal, Quebec, H4R 2B7, Canada. 
