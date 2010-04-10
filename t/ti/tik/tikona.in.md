@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tikona.in privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523092432id_/http%3A//www.tikona.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tikona.in privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410065447id_/http%3A//www.tikona.in/privacy.html) for the most accurate reproduction.*
 
 # Tikona Digital Networks
 
-[Home](https://web.archive.org/web/20090523092432id_/http%3A//www.tikona.in/index.html) Privacy Statement
+[Home](https://web.archive.org/web/20100410065447id_/http%3A//www.tikona.in/index.html) Privacy Statement
 
 In the course of using this website or availing the products and services vide the online application forms and questionnaires, Tikona Digital Networks (TDN) may become privy to the personal information of its customers, including information that is of a confidential nature. We at TDN respect and give high priority to the privacy of all customers and are committed to maintaining the privacy and security of the personal information which is provided by its customers. TDN has taken all necessary and reasonable measures to protect the confidentiality of the customer information and its transmission through the web. While no data transmission over the Internet is 100% secure from intrusion, we have used and will continue to use commercially reasonable efforts to ensure the protection of your information.
 
