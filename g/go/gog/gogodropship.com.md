@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gogodropship.com privacy policy that was archived on 2009-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091005002710id_/http%3A//www.gogodropship.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogodropship.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410075620id_/http%3A//www.gogodropship.com/privacy.html) for the most accurate reproduction.*
 
 # GoGo Dropship - Privacy policy
 
@@ -41,4 +41,4 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 How to Contact Us  
-Should you have other questions or concerns about these privacy policies, send us an email at [Support@gogodropship.com](https://web.archive.org/web/20091005002710id_/http%3A//www.gogodropship.com/contact.htm)
+Should you have other questions or concerns about these privacy policies, send us an email at [Support@gogodropship.com](http://www.gogodropship.com/contact.htm)
