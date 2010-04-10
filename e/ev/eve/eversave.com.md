@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the eversave.com privacy policy that was archived on 2009-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091020134951id_/http%3A//www.eversave.com/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eversave.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410205320id_/http%3A//www.eversave.com/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Eversave.com
 
   
 Effective on 10/1/2000 
 
-Prospectiv Direct, Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://www.eversave.com. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Eversave has chosen to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. Because we want to demonstrate our commitment to your privacy, by displaying the TRUSTe trustmark, we have agreed to notify you of: 
+Prospectiv Direct, Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://www.eversave.com. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Eversave has chosen to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. Because we want to demonstrate our commitment to your privacy, by displaying the TRUSTe trustmark, we have agreed to notify you of: 
 
   1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the web site 
   2. The organization collecting the information 
@@ -96,7 +96,7 @@ Eversave does not knowingly collect information from children under the age of 1
 **_Limits of Confidentiality_**   
 Notwithstanding the foregoing, Eversave may disclose member information to third parties when Eversave determines in its sole discretion that it is reasonably necessary to do so for regulatory, legal or systems and data maintenance purposes. 
 
-**_legal Disclaimer_**   
+**_Legal Disclaimer_**   
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our web site. 
 
 **_Sale of Assets, Merger or Acquisition_**   
