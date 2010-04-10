@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gratitudelog.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109114746id_/http%3A//www.gratitudelog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gratitudelog.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410142923id_/http%3A//www.gratitudelog.com/privacy-policy) for the most accurate reproduction.*
 
-# GratitudeLog - The Happiest Place on the Internet!
+# Privacy Policy - GratitudeLog
 
 This Privacy Policy is effective as of August 20, 2009.
 
