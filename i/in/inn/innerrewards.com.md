@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innerrewards.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208224403id_/http%3A//www.innerrewards.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innerrewards.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410101515id_/http%3A//www.innerrewards.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - InnerRewards - Your Guide to Living Well
 
