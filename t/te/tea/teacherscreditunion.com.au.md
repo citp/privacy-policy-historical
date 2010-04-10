@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teacherscreditunion.com.au privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107162045id_/http%3A//www.teacherscreditunion.com.au/LandingPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacherscreditunion.com.au privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410195747id_/http%3A//www.teacherscreditunion.com.au/LandingPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
