@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videospin.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419161405id_/http%3A//apps.pinnaclesys.com/cdb/register/privacy_policy.aspx%3FLangue_ID%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videospin.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411204543id_/http%3A//apps.pinnaclesys.com/cdb/register/privacy_policy.aspx%3FLangue_ID%3D7) for the most accurate reproduction.*
 
 # Pinnacle Systems is the Leader in Digital Video
 
