@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogs.mu privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515113319id_/http%3A//blogs.mu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogs.mu privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411193446id_/http%3A//blogs.mu/privacy-policy) for the most accurate reproduction.*
 
 # Blogs.mu - Privacy Policy
 
