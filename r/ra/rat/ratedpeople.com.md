@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the ratedpeople.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605032541id_/http%3A//www.ratedpeople.com/privacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratedpeople.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411062244id_/http%3A//www.ratedpeople.com/m/legal/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy - Rated People
 
-We absolutely respect your privacy. Rated People Ltd is registered with the Data Protection Agency (number: Z931442X) and we do not sell, trade or share personal information with organisations or individuals not connected with the Service. This section explains what information is stored and how it is used. It should be read in conjunction with our [User Agreement](https://web.archive.org/userAgreement "user agreement") and [Payment Terms](https://web.archive.org/howItWorks/paymentTerms "payment terms").
+## 
+
+We absolutely respect your privacy. Rated People Ltd is registered with the Data Protection Agency (number: Z931442X) and we do not sell, trade or share personal information with organisations or individuals not connected with the Service. This section explains what information is stored and how it is used. It should be read in conjunction with our [User Agreement](https://web.archive.org/m/legal/user-agreement.html) and [Payment Terms](https://web.archive.org/m/legal/payment-terms.html).
 
   1. Information that we collect and store
   2. How we use this information
@@ -21,15 +23,17 @@ Customers who wish to find a Trade Professional must register and provide us wit
 
 We also hold all information related to specific Job requirements, including the Job description, skills required, start date, any quotes provided and all updates, communications and ratings in connection with the Work.
 
+For quality control and training purposes, we may monitor or record your communication with our support team.
+
 back to top
 
 ## 2\. How we use this information
 
-We check the accuracy of the information that you provide on registration and remind you of your obligations to provide accurate information to us as set out in clause 5 of our [User Agreement](https://web.archive.org/userAgreement). We may use the contact information you provide to contact you via email, fax, post or telephone regarding your registration, or any other matter that we consider relevant to your use of our Service.
+We check the accuracy of the information that you provide on registration and remind you of your obligations to provide accurate information to us as set out in clause 5 of our [User Agreement](https://web.archive.org/m/legal/user-agreement.html). We may use the contact information you provide to contact you via email, fax, post or telephone regarding your registration, or any other matter that we consider relevant to your use of our Service.
 
 We forward anonymous details of a Job request to a limited number of suitable Trade Professionals. In the event that a Trade Professional agrees to quote then contact information is forwarded to the Customer and Trade Professional concerned. In addition any ratings and comments from Members in relation to historic jobs are available for all Members and non-Members to see at any stage in the Work process.
 
-We may use any information we collect about you, including any information we may have obtained from your use of the Service, to resolve disputes, provide customer support, troubleshoot problems and enforce our [User Agreement](https://web.archive.org/userAgreement) and policies. We may look across multiple users to identify problems or resolve disputes. In the unlikely event that fees remain unpaid on a Member's account, we may pass your business information to a credit recovery company.
+We may use any information we collect about you, including any information we may have obtained from your use of the Service, to resolve disputes, provide customer support, troubleshoot problems and enforce our [User Agreement](https://web.archive.org/m/legal/user-agreement.html) and policies. We may look across multiple users to identify problems or resolve disputes. In the unlikely event that fees remain unpaid on a Member's account, we may pass your business information to a credit recovery company.
 
 We may disclose your personal data if we are compelled to do so by law, or in response to a valid, legally compliant request by a law enforcement or governmental authority. We may also disclose aggregated demographic and profile data (in which neither you nor any other individual is identified) to our commercial and marketing partners.
 
@@ -57,10 +61,10 @@ back to top
 
 ## 6\. Access to information
 
-Please [contact us](https://web.archive.org/contact) if you would like to know what information we are storing about you. We may ask for proof of identity before providing you with any information requested and reserve the right to refuse to provide information if identity is not established.
+Please [contact us](https://web.archive.org/m/help/contact-us.html) if you would like to know what information we are storing about you. We may ask for proof of identity before providing you with any information requested and reserve the right to refuse to provide information if identity is not established.
 
 Any changes to this policy will be posted on this Website
 
-If you have any further comments or questions regarding our [User Agreement](https://web.archive.org/userAgreement), [Payment Terms](https://web.archive.org/howItWorks/paymentTerms) or [Ratings Guide](https://web.archive.org/ratingsGuide) then please [contact us](https://web.archive.org/contact) \- we're ready to help.
+If you have any further comments or questions regarding our [User Agreement](https://web.archive.org/m/legal/user-agreement.html), [Payment Terms](https://web.archive.org/m/legal/payment-terms.html) or [Ratings Guide](https://web.archive.org/m/help/faqs/ratings-guide.html) then please [contact us](https://web.archive.org/m/help/contact-us.html) \- we're ready to help.
 
 back to top
