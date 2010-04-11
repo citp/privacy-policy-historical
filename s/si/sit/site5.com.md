@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the site5.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115210627id_/http%3A//www.site5.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site5.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411051634id_/http%3A//www.site5.com/support/privacy) for the most accurate reproduction.*
 
 # Site5 - Privacy Policy
 
@@ -80,6 +80,6 @@ You are responsible for the security of the login information, such as usernames
 
 Note that key-loggers, viruses, or other surveillance devices can intercept login information on the computers from which you access our Services, so you should take precautions regarding such devices, especially from public computers. In addition, you should always log out from any relevant Services when you are not actively using them.
 
-## 12\. Questions
+## 13\. Questions
 
 Any questions concerning this Privacy Policy may be directed to .
