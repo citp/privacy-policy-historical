@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetasianbabes.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619050009id_/http%3A//meetasianbabes.com/info.php%3Fsel%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetasianbabes.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411055203id_/http%3A//meetasianbabes.com/info.php%3Fsel%3D3) for the most accurate reproduction.*
 
 # Terms of Use
 
@@ -72,7 +72,7 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please contact us at the [Contact Us](http://www.meetasianbabes.com/contact.php "Contact Us") link. 
+Should you have other questions or concerns about these privacy policies, please contact us at the CONTACT US link below. 
 
   
 
