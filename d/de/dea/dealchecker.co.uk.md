@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealchecker.co.uk privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513042913id_/http%3A//www.dealchecker.co.uk/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealchecker.co.uk privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411023656id_/http%3A//www.dealchecker.co.uk/site/privacy.html) for the most accurate reproduction.*
 
 # dealchecker.co.uk - Privacy Policy
 
@@ -24,12 +24,12 @@ The information that may be collected from your computer is not linked by us in 
   * **Cookies**  
 We do use cookies on the dealchecker.co.uk website. We do this to help us understand how our customers use our site. We use this information to recognise you so that we can ease your journey throughout the site and to help us improve your website experience. Most web browsers allow an individual to disable cookies, if you choose to do this you can still use our site. 
   * **Banner Advertising**  
-Our advertising is served for us by Sonic Networks. They may also use cookie data to help serve more relevant advertising to you and to ensure that you do not see ads too repetitively. No personal data is collected by Sonic Networks. 
+Our advertising is served for us by a variety of third party companies. They may also use cookie data to help serve more relevant advertising to you and to ensure that you do not see ads too repetitively. No personal data is collected by these companies. 
   * **Validity**  
 DMC Digital Ltd has the right to alter this privacy policy for any reason without prior notice.
 
 If you have any questions about this privacy policy please write to us at:   
-DMC Digital Ltd Ludgate House 107-111 Fleet St London EC4A 2AB 
+DMC Digital Ltd 20-28a Hatton Wall London EC1N 8JH 
 
 Or email us at [enquiries@dealchecker.co.uk](mailto:enquiries@dealchecker.co.uk)
 
