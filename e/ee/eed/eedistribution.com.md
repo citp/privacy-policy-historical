@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eedistribution.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529065143id_/http%3A//www.entertainmentearth.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eedistribution.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411074308id_/http%3A//www.entertainmentearth.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Action Figures, Toys, Bobble Heads, and Collectibles at Entertainment Earth
 
@@ -14,8 +14,7 @@ Order by Phone:
 
 Monday - Friday:  
 7:30am - 5:00pm   
-Pacific Time
-
+Pacific Time  
 Client Services:  
 1-818-255-0095  
 Fax: 1-818-255-0091
@@ -63,7 +62,7 @@ You can access a variety of your personally identifiable information that we col
 Entertainment Earth is linked to the following sites - 
 
   * **www.bizrate.com** \- In order to allow our customers to provide feedback on our services and on their satisfaction, Entertainment Earth makes use of the Bizrate.com service. Bizrate.com operates under its own privacy and security policies which can be further evaluated at [www.bizrate.com](http://www.bizrate.com/). 
-  * **www.verisign.com** \- Entertainment Earth runs its SSL server through verisign.com. A banner link to verisign.com on the Entertainment Earth website allows confirmation of Entertainment Earth's SSL status. Verisign.com operates under its own privacy and security policies that can be further evaluated at [www.verisign.com](http://www.verisign.com/)
+  * **www.networksolutions.com** \- Entertainment Earth uses an extended validation (EV) SSL certificate provided by Network Solutions. A banner link to NetworkSolutions.com on the Entertainment Earth website allows confirmation of Entertainment Earth's SSL status. NetworkSolutions.com operates under its own privacy and security policies that can be further evaluated at [www.networksolutions.com](http://www.networksolutions.com/)
   * **www.freeshipping.com** \- This site is not owned, operated or associated with Entertainment Earth, Inc. Entertainment Earth, Inc. is not responsible for any products, services or claims made by www.freeshipping.com. Entertainment Earth provides a link to www.freeshipping.com so that clients may purchase their goods and services. www.freeshipping.com operates under its own privacy and security policies that can be further evaluated at [www.freeshipping.com](http://www.freeshipping.com/). 
   * **www.fbillgates.com** \- This site is owned by Entertainment Earth, but is not covered by this privacy policy. 
   * **www.applewatches.com** \- This site is owned by Entertainment Earth, but is not covered by this privacy policy. 
