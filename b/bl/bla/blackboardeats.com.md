@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackboardeats.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231060225id_/http%3A//www.blackboardeats.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackboardeats.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411143721id_/http%3A//blackboardeats.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,17 +6,17 @@ BlackboardEats.com (the "Site" or "we") has adopted this Privacy Policy because 
 
 This Privacy Policy is effective as of June 30, 2009.
 
-If you choose to visit the Site, your visit and any dispute over privacy is subject to this Privacy Policy and the Site's Terms and Conditions, including limitations on damages, jurisdiction of disputes and application of the law of the State of California.
+If you choose to visit the Site, your visit and any dispute over privacy is subject to this Privacy Policy and the Site's Terms and Conditions, including limitations on damages, jurisdiction of disputes and application of the law of the State of California and the State of New York.
 
 If you have any questions about this Privacy Policy, please feel free to contact us at privacy@blackboardeats.com or write to us at: 
 
 BlackboardEats, LLC  
-2554 Lincoln Blvd., # 352  
+2554 Lincoln Blvd., #352  
 Venice, CA 90291 
 
-The Information You Provide To Us. In order for you to access certain services that we offer via the Site, such as restaurant reviews, we may require you to provide us with certain information that personally identifies you, such as your name, email address and zip code ("Your Personally Identifiable Information"). We will use this information to verify your identity or provide you with emails of exciting offers. WE WILL NOT RENT OR SELL YOUR PERSONALLY IDENTIFIABLE INFORMATION.
+The Information You Provide To Us. In order for you to access certain services that we offer via the Site, such as restaurant reviews, we may require you to provide us with certain information that personally identifies you, such as your name, e-mail address and zip code ("Your Personally Identifiable Information"). We will use this information to verify your identity or provide you with e-mails of exciting offers. WE WILL NOT RENT OR SELL YOUR PERSONALLY IDENTIFIABLE INFORMATION.
 
-You can unsubscribe from receiving our emails at any time. You can unsubscribe by clicking on the "Unsubscribe" link in the footer of any email and following the instructions. You can also unsubscribe by clicking on the "Unsubscribe" link on the bottom of the Site and following the instructions. 
+You can unsubscribe from receiving our e-mails at any time. You can unsubscribe by clicking on the "Unsubscribe" link in the footer of any e-mail and following the instructions. You can also unsubscribe by clicking on the "Unsubscribe" link on the bottom of the Site and following the instructions. 
 
 Accessing the Site. When you request a page within the Site, our web servers automatically recognize your domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed the Site. We may provide this information to other companies and individuals to perform functions on behalf the Site. This information may be used to examine our traffic in aggregate and to investigate misuse of the Site or to cooperate with law enforcement.
 
@@ -50,36 +50,4 @@ The Site serves general users of the World Wide Web. We support and comply with 
 
 We make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We will ask that you identify yourself and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. To access, correct or delete your personal information, contact: [privacy@blackboardeats.com](mailto:privacy@blackboardeats.com). 
 
-If we decide to change this Privacy Policy, we will post these changes on our Homepage or provide other notification of our revised Privacy Policy so you are always aware of what information we collect, how we use it, and when we disclose it. We may amend this Privacy Policy from time to time. If we decide to materially or substantively change this Privacy Policy (i.e, change our treatment of Your Personally Identifiable Information), we will notify you by posting a clear and conspicuous notice of these changes on our website and in this Privacy Policy. If you would like to be notified by email if and when material changes are made to this Privacy Policy, please opt in to receiving such email notifications by contacting us at [privacy@blackboardeats.com](mailto:privacy@blackboardeats.com). 
-
-## [New Year's Eve Dinner at Third and Olive ](http://www.thirdandolive.com/)
-
-_Thursday, December 31st, starting at 6 PM_
-
-250 E. Olive Ave., Burbank; 818-846-3900 
-
-$48 four-course tasting menu; featuring The Andy Duncan Jazz Combo 
-
-## [New Year’s Day brunch at Huckleberry ](http://www.huckleberrycafe.com/index.html)
-
-_Friday, January 1st, 10 AM-4 PM_
-
-1014 Wilshire Blvd., Santa Monica; 310-451-1322
-
-breakfast and lunch dishes, $9.50-$13.50 
-
-## [Shanghai Nights NYE 2010 at Chaya ](https://web.archive.org/web/20091231060225id_/http%3A//www.blackboardeats.com/www.thechaya.com/downtownLosAngeles/index.html)
-
-_Thursday, December 31st, 1st seating: 5 PM-7 PM, 2nd seating: 9 PM-10 PM_
-
-525 S. Flower St., Los Angeles; 213-236-9577 
-
-1st seating: $75 four-course prix fixe, 2nd seating: $135 five-course prix fixe; $75 for sushi lovers’ omakase; lion dancers, party favors, champagne toast at midnight 
-
-## [Brunch at Hungry Cat ](http://www.thehungrycat.com/#hollywood)
-
-_Friday, January 1st, 11 AM-3 PM_
-
-1535 N. Vine, Hollywood; 323-462-2155 
-
-brunch dishes, $10-$23, and Bloody Marys 
+If we decide to change this Privacy Policy, we will post these changes on our Homepage or provide other notification of our revised Privacy Policy so you are always aware of what information we collect, how we use it, and when we disclose it. We may amend this Privacy Policy from time to time. If we decide to materially or substantively change this Privacy Policy (i.e, change our treatment of Your Personally Identifiable Information), we will notify you by posting a clear and conspicuous notice of these changes on our website and in this Privacy Policy. If you would like to be notified by e-mail if and when material changes are made to this Privacy Policy, please opt in to receiving such e-mail notifications by contacting us at [privacy@blackboardeats.com](mailto:privacy@blackboardeats.com). 
