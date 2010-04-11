@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlmrehab.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204125030id_/http%3A//mlmrehab.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmrehab.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411235448id_/http%3A//mlmrehab.com/privacy.cfm) for the most accurate reproduction.*
 
 # MLM Rehab.com - Real-time T1 Price Software
 
