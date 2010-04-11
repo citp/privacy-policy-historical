@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the diggstars.com privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321083026id_/http%3A//www.diggstars.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diggstars.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411062407id_/http%3A//www.diggstars.com/privacy/privacy.html) for the most accurate reproduction.*
 
-# Celebrities news, wallpapers, pictures, videos
+# DiggStars Terms and Conditions
 
-Privacy Policy
+**PRIVACY POLICY**
 
 DiggStars we may collect personal information such as; email addresses when individuals register to use our web sites, submit information to the web site or submit questions via the website. Any interaction a user has with the DiggStars web site, web sites and associated services may result in the capture of some information necessary to process and complete the request and ensure the development and enhancement of future services. 
 
@@ -18,7 +18,7 @@ Our services are intended only for persons of the age of 13 years and above. If 
 
 ScarlettPress is the DiggStars adult channel and is intended solely for person 18 years of age and oldder. If you are under the age of 18 you may not access or use our service. By using our service you represent and warrant to us that you are 18 years of age or older. 
 
-DiggStars website, associated websites and services may send emails to you if you have indicated a preference to receive offers, news, updates and other information from us. You can unsubscribe from these services at any time by editing your details on your account profile page found at, users.diggstars.com/userid? 
+DiggStars website, associated websites and services may send emails to you if you have indicated a preference to receive offers, news, updates and other information from us. You can unsubscribe from these services at any time by editing your details on your account profile page found at, users.DiggStars.com/userid? 
 
 DiggStars privacy policy is subject to change without notice. Should our privacy policy change we will post a notice on our webster in our to make our users aware of what information we collect, how we use it and under what circumstances it will be disclosed to third parties. 
 
