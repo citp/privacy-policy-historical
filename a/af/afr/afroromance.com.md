@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the afroromance.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421061019id_/http%3A//www.afroromance.com/interracial_dating/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afroromance.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411030604id_/http%3A//www.afroromance.com/interracial_dating/privacyPolicy.html) for the most accurate reproduction.*
 
-# BLACK WOMEN WHITE MEN - Specialists in Interracial Dating
+# BLACK WHITE DATING - Specialists in Interracial Dating
 
 ## Your Privacy Rights
 
@@ -131,7 +131,7 @@ Suite 209
 Reno, NV, 89502   
 USA 
 
-(C) 2009 Chellaul Corporation. All rights reserved. 
+(C) 2010 Chellaul Corporation. All rights reserved. 
 
 ## Linked information:
 
