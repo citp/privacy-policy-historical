@@ -1,99 +1,84 @@
-> *The following text is extracted and transformed from the netobjects.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505105548id_/http%3A//www.netobjects.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netobjects.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411051849id_/http%3A//netobjects.com/html/privacy.html) for the most accurate reproduction.*
 
 # NetObjects Privacy Policy
 
-**Web.com Privacy Statement**
+**NetObjects Privacy Policy**   
+The following is the privacy policy for the www.netobjects.com Site. In this policy, NetObjects Incorporated ("NetObjects") describes what personal information NetObjects collects on our site, how NetObjects uses it, and your options regarding information NetObjects may collect about you. Where more details are needed to explain our privacy practices as to a particular NetObjects product or service, we may post separate privacy notices to describe how a particular NetObjects product or service processes personal information which is accessible from the topic index to the right of this Policy and/or links to the same. NetObjects strives to adhere to U.S. privacy laws and internationally accepted privacy principles established by the European Union Data Protection Directive, and the U.S. Department of Commerce and the European Union Safe Harbor Privacy Principles and this Policy is registered and certified by the U.S. Department of Commerce Safe Harbor program to ensure that your personal information is protected adequately. Should you desire more information on the safe harbor principles, please go to www.export.gov/safeharbor. 
 
-Web.com respects the privacy of the visitors of its website, the home page of which is located at http://www.netobjects.com.
+If you have questions about this policy, please feel free to contact us at:  
+NetObjects Corporation   
+ 4295 Point Pleasant Pike  
+P.O. Box 367  
+Danboro, PA 18916
 
-This Privacy Statement is intended to inform you of our policies and practices regarding the collection, use and disclosure of any personal information you submit to us through our website. “Personal Information” is information about you that is personally identifiable to you like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing.
+ **NetObjects's Use of Cookies and E-mail**  
+NetObjects collects cookies on our Web site to capture information about page visits. This information is anonymous and NetObjects uses this information only internally - to deliver the most effective content to our visitors. Information from the cookies is used to gauge page popularity, analyze traffic patterns on our site and guide development of other improvements to our site. NetObjects does not require that you accept cookies, however, some functionality on our Web site, our product or service check-out process, and products and services may be disabled if you decline to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. You may also change your cookie settings through preferences options in our products and/or services, where applicable. NetObjects never gives away information about our users. If you choose to e-mail us and provide personally identifiable information about yourself, NetObjects will use this information only to respond to your inquiry. NetObjects will not sell, rent or otherwise disclose that information to third parties unless such disclosure is necessary for the purposes set forth in this Policy, by law or a policy or notice contained or associated with a specific NetObjects product or service. If you have any questions about our privacy practices, please contact our webmaster. 
 
-We pay close attention to how Personal Information about our visitors is used and shared, and we use Personal Information sensibly.
+  **Volunteered Information and Use of Information**  
+When you license or subscribe to a product or service or open an account or complete an online registration on our site, NetObjects collects personal information from you which may include:
 
-We act as a service provider to our customers and may process and store on behalf of our customers Personal Information that our customers collect under the privacy policy they have posted on their website from the users of this website. We do not own this Personal Information.
+name and email address; 
 
-User Consent  
-By submitting Personal Information through our website, you agree to the terms of this Privacy Statement.
+billing information, including credit card information and your shipping address; 
 
-You expressly consent to the processing of your Personal Information according to this Privacy Statement. Personal Information may be processed by Web.com, Developer(s), or User(s) in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent.
+information concerning software programs downloaded, products and content licensed, accessed, or downloaded through NetObjects products or services;   
+location information (such as zip code or postal code and country); 
 
-Collection of Personal Information  
-The Personal Information we gather from you helps us learn about our customers and potential customers. We use this information to better tailor the features, performance and support of our solutions, products and services, and to offer you additional information and opportunities.
+computer configuration (such as operating system, connection speed, and peripherals); 
 
-Personal Information You Provide to Us  
-We collect Personal Information that you submit to us voluntarily through our website. The types of Personal Information we collect are:
+the IP Internet (IP) address and URL of the Web site that sent you to the NetObjects registration page;   
+demographic information provided by you (such as language, gender and age, and, if applicable, software program and content preferences and personalization information); and 
 
-For receiving information material:  
-·If you contact us to receive information material (such as one of our whitepapers), we will collect your name, e-mail address and the information when you plan on purchasing a website.
+whether you logged into or out of a NetObjects service, or changed your password or billing information.   
+This information is collected on Web pages using encryption technology to help prevent any third party from intercepting the information. Your credit card information is only used for completing the transaction and is retained only as necessary for administration purposes. NetObjects uses the information provided by our customers to analyze product trends based on, for example, geographic and demographic factors. This analysis helps us improve the quality of our Web site and product and service mix. 
 
-For receiving our Business Builder newsletter:  
-·If you contact us to receive our Business Builder newsletter, we will  
-collect your name, e-mail address, mailing address and the address of your website.
+ 
 
- For getting a quote:  
-·In order to receive a quote from us, we will collect your name, phone number, e-mail address, mailing address and your Web address.
 
-For employment applications:  
-·If you apply for an employment opportunity via e-mail, we will collect your e-mail address and any information contained in the e-mail you send us.
 
-For general information:  
-·If you contact us via e-mail to get general information, we will collect your e-mail address and any information contained in the e-mail you send us.
 
-For technical support:  
-·If you contact us via e-mail to get technical support, we will collect your e-mail address and any information contained in the e-mail you send us.
+**Information Collected in Contests**  
+If you enter one of our contests, the data we collect will be handled according to the rules of that particular contest and those rules may differ based on where you live. We provide a privacy policy specific to each contest that you should review prior to entering the contest.
 
-For Strategic Distribution Partners Information:  
-·If you contact us via e-mail to receive Strategic Distribution Partners Information, we will collect your e-mail address and any information contained in the e-mail you send us.
+  **Downloading Software**  
+When you download a NetObjects product, NetObjects asks you to provide your e-mail address in order to guide you through the 30-day trial period of using the software. We do not verify the validity of the e-mail address. You may unsubscribe from the follow up e-mails by contacting our webmaster at any time.
 
-For Enterprise Distribution Partner Information:  
-·If you contact us via e-mail to receive Enterprise Distribution Partner Information, we will collect your e-mail address and any information contained in the e-mail you send us.
+  **NOTICE**  
+NetObjects informs its customers what information it collects, how it is used, whether it may be temporarily transferred to others to provide the products or services requested and how to contact NetObjects with privacy inquiries. NetObjects provides a link to NetObjects's privacy notice on its sites, and in e-mails.
 
-Personal Information Collected via Technology  
-As you navigate our website, certain passive information may also be collected, including your Internet Protocol address, browser type, and operating system. We also use cookies and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the solutions and information for which you searched and viewed. This type of information is collected to make our solutions and services more useful to you.
+  **CHOICE**  
+NetObjects offers customers and individuals who provide us information choices about receiving further communications from us; for example, our e-mail newsletters have a link to use to opt out of receiving future messages. NetObjects may ask individuals if they wish to participate in market research, and then contact them if they give us their permission. NetObjects does not contact customers or individuals for marketing purposes for those persons who have contacted NetObjects directly to opt out of our direct marketing programs.
 
-Personal Information We Receive from Other Sources  
-We may receive Personal Information about you from other sources like telephone or telefax. We may add this information to the information we have already collected from you via our website in order to improve the solutions and services we provide.
+  **TECHNOLOGY**  
+NetObjects uses technology in order to better serve its customers and others. NetObjects informs customers or individuals when NetObjects use technologies that are privacy related. 
 
-Use of Information  
-In general, Personal Information you submit to us is used either to set up solutions or purchase website packages or respond to requests that you make, to process transactions, or to aid us in serving you better. We may also use your Personal Information to provide you with electronic newsletters or promotional  
-e-mails regarding changes and upgrades to our solutions and services, should you request to receive such communications from us.
+  **DATA INTEGRITY & ACCESS**  
+NetObjects takes steps to make sure that the personal information NetObjects uses is correct. NetObjects provides customers and individuals with reasonable access to the personal information they may have provided us so that they can review and correct it, or ask us not to use it. For example, customers or individuals may obtain a copy of the data they have provided, or update their information by contacting NetObjects' webmaster.
 
-Disclosure of Personal Information  
-We are not in the business of selling information about our customers or visitors to our website. Except as otherwise stated in this Privacy Statement: we do not generally trade, rent, or share your Personal Information with third parties, we will not disclose any information that you ask us to keep confidential, and we will not disclose financial information unless you ask us to do so. In order to build the solutions for you, we may engage third parties to assist us, and, in connection with such assistance, we may provide them with Personal Information that you have provided and that is necessary for them to assist us.
+  **SECURITY**  
+NetObjects protects personal information under its control by industry standard security practices and measures, in order to prevent loss, misuse, unauthorized access, disclosure, alteration, or destruction. NetObjects limits access to personal information to those who have a business need. NetObjects does not keep personal information any longer than necessary to meet the business purpose for which it was collected, though in some cases, legal or regulatory reasons require that personal information not be deleted. NetObjects shall use its best efforts to quickly work to remedy any vulnerabilities found in our or software and to alert our customers about any potentially dangerous vulnerabilities. 
 
-To drive traffic to your website and to make your website easier to find, we will disclose keywords about your business, your business name, general and specific description about your business, information about your location, and information about your products and services to third-party services and to the general public.
+  **DATA TRANSFER**  
+NetObjects may transfer personal information to NetObjects databases in countries other than where it was provided. NetObjects' privacy program requires the same high level of security and protection of personal information in all geographies with procedures and contracts in place to help ensure this is so. Data may be temporarily transferred to a vendor or business partner to provide services for NetObjects, such as mailing information or processing credit card transactions. These vendors and business partners are required to protect and manage the personal information to the same high standards NetObjects uses, and they cannot use the information for purposes other than to provide the services NetObjects has requested. Also, NetObjects may disclose or transfer your personal information, including, without limitation, personal information regarding customers under 13, if required to do so by law or in the good faith belief that such action is necessary to: (a) satisfy an applicable law, regulation, legal process or enforceable governmental request; (b) enforce applicable NetObjects' Terms of Use, License or Service Agreements; (c) detect, prevent, or otherwise address fraud, security or technical issues; (d) to protect against imminent harm to rights, property or safety of NetObjects, its users, or the public at large as required or permitted by law. 
 
-We also use third parties to maintain and store your Personal Information and to process any payment you make to us. These third parties are required not to use your Personal Information other than to provide the services requested by Web.com.
+  **INFORMATION PRACTICES FOR CHILDREN**  
+NetObjects does not intentionally collect information from children under the age of 13. If in the future we choose to collect personal information from children, we will comply with the Children's Online Privacy Protection Act (COPPA). 
 
-Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “affiliates”), we may in the future. We may share some or all of your Personal Information with these affiliates, in which case we will require our affiliates to honor this Privacy Statement.
+  **NOTIFICATION OF POLICY CHANGES**  
+If major content changes are made to NetObjects' Privacy Policy, NetObjects will outline and post the changes along with the new version on this NetObjects site.
 
-If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Statement.
+  **LINKS**  
+NetObjects may create links to the sites of other parties. Independently operated sites are not associated with NetObjects or authorized by us and may also have links leading to this NetObjects site. NetObjects cannot control any of these links and are not responsible for any content appearing on the sites linked to or from NetObjects' site, or for any personal information gathered at those independently operated sites. 
 
-We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on Web.com; or (b) to protect and defend the rights or property of Web.com or users of our website.
+  **DATA NOT COLLECTED ON THIS SITE**  
+Personal information that is not collected on the site is not generally subject to this Privacy Policy. 
 
-Your Choices Regarding Your Personal Information  
-Should you decide to stop receiving further communications or newsletters from us, you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail. If at any time you wish to subscribe to any communications from us, you may do so by contacting us at info@websitepros.com.  Despite your indicated e-mail preferences, we may send you notices of any updates of our legal Notices, Terms of Use, Privacy Statement, on the account you created with us.
+  **NON-U.S. CUSTOMER INFORMATION**  
+If you are a customer or individual who is logging on from outside the United States, the personal information you submit to NetObjects will be sent to and stored in servers in our U.S. headquarters in Okemos, Michigan, U.S.A. The personal information practices set out in this Privacy Policy apply to all NetObjects products, services, and customers worldwide. You have a right of access and to correct such data and/or personal information. To exercise these rights, or for other data privacy questions, please contact/send an email to support@netobjects.com. 
 
-Regarding Minors  
-Our website is not designed for minors under the age of 18. We do not intentionally gather Personal Information about visitors who are under the age of 18.
+  **ENFORCEMENT**  
+NetObjects regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Policy or NetObjects' treatment of personal information by contacting us through this Site at support@netObjects.com or by writing to us at Customer Relations, c/o NetObjects Incorporated, 4295 Point Pleasant Pike P.O. Box 367 Danboro, PA 18916, USA. When NetObjects receives a formal written complaint at this address, it is NetObjects' policy to contact the complaining party regarding his or her concerns. NetObjects will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved by NetObjects and an individual. 
 
-Links to Other Sites  
-Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. We have no control over, do not review, and cannot be responsible for these outside websites or their content. Please be aware that the terms of our Privacy Statement do not apply to these outside websites.
-
-Security  
-We use reasonable measures to maintain the security of your Personal Information. Even so, technical mistakes are possible.  No company, including Web.com, can fully eliminate security risks associated with Personal Information.
-
-Contact Us  
-Should you have any questions or concerns regarding this Privacy Statement, please contact us:  
-12735 Gran Bay Parkway West  
-Building 200  
-Jacksonville, Florida 32258  
-Phone: 904-680-6600
-
-Privacy Statement Updates  
-This Privacy Statement is subject to occasional revision, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this page. If you object to any such changes, you must cease using our website. Continued use of our website following notice of any such changes shall indicate your acknowledgment of such changes and agreement to be bound by the terms and conditions of such changes.
-
-This statement was last updated on October 31, 2005.
-
-Conditions of Use and Revisions  
-If you choose to visit Web.com’ website, your visit and any dispute over privacy is subject to this Privacy Notice, as governed by the laws of the State of Florida.
+  **NO ERROR FREE PERFORMANCE**  
+NetObjects does not guarantee error-free performance under this Privacy Policy. NetObjects will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when NetObjects learns of any failure to comply with our Privacy Policy. NetObjects shall not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy. This Privacy Policy shall be governed by the laws of the Commonwealth of Pennsylvania and the United States to the extent applicable.   
+Last Updated: 12/10/2009 07:56:52
