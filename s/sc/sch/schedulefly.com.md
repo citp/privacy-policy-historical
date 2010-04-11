@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the schedulefly.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625215725id_/http%3A//www.schedulefly.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schedulefly.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411203037id_/http%3A//www.schedulefly.com/privacy.htm) for the most accurate reproduction.*
 
 # Schedulefly Privacy Policy
 
+| 
+
 Schedulefly, Inc. (“Schedulefly”) is committed to protecting the personal information of the visitors and users (“Users”) of its website www.schedulefly.com (the “Site”). Schedulefly will not sell, rent or lease your personally identifiable information to others. This Privacy Policy describes how Schedulefly may use and disclose User information collected on the Site. 
+
+|   
+---|---  
+  
+
 
 _The Information Schedulefly Collects_
 
