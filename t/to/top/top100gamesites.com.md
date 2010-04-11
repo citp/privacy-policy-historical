@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top100gamesites.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417030202id_/http%3A//www.top100gamesites.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top100gamesites.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411224007id_/http%3A//www.top100gamesites.com/privacy.htm) for the most accurate reproduction.*
 
 # Game - Top 100 Sites
 
@@ -27,4 +27,4 @@ Our Web Site meets the guidelines of TRUSTe's Children's program. We do:
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.  
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: biz_infoATcksinfo.com (change "AT" to @) 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: bizATckscomputerserviceltd.com (change "AT" to @) 
