@@ -1,40 +1,44 @@
-> *The following text is extracted and transformed from the xooarticles.com privacy policy that was archived on 2008-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080110194639id_/http%3A//www.xooarticles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xooarticles.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411074639id_/http%3A//www.xooarticles.com/pages/1.html) for the most accurate reproduction.*
 
-# Privacy Policy Statement :: xooArticles Article Script
+# Privacy Policy
 
-## This is the web site of Intelliants LLC
+Your privacy is very important to Xooarticles.com. We want to make your experience online satisfying and safe and we take our responsibility seriously to protect the data that you provide us in the normal course of interacting with our site. Therefore, we have developed the comprehensive privacy policy below to help you better understand the manner in which Xooarticles collects , uses, and discloses the personal information provided by you as a result of the use of Xooarticles.com and the content, information and services provided through the website Xooarticles.com.
 
-Our postal address is   
-**1903 60th Place E.  
-Bradenton, FL 34203  
-USA**
+What Information We Collect
 
-We can be reached via e-mail at [info@intelliants.com](mailto:info@intelliants.com)
+We collect two types of information about users as following: 
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
+  * Information that you, users provide through optional, voluntary submissions such as your name, email address, postal address, phone numbers, etc. when you register for various services we provide (example: Creating a membership account). These are voluntary submissions to contact an article author, to receive our electronic newsletters, to email a friend, etc.
+  * Information that we collect through aggregated tracking information derived mainly by tallying page views throughout our site. This information allows us to better tailor our content to readers' needs. Under no circumstances do we divulge any information about an individual user to a third party.
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page.
 
-The information we collect is used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes.
 
-With respect to cookies: We use cookies to store visitors preferences, record user-specific information on what pages users access or visit.
+How we collect and use information
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+Xooarticles collects personal information such as your name, email address, postal address, phone numbers, etc. when you register for various services we provide (example: Creating a membership account). We may combine this data with other Xooarticles services or 3rd party data to provide a better user experience for you.
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by sending us e-mail at the above address.
+We use this information in order to contact you and provide you with further information about our company and services, as well as for other commercial and/or internal purposes such as market research in order to better understand the demographics of our site visitors and potential customers and partners. We may share this information with our authorized partners and/or with third parties who act for or on behalf of us, but we do not otherwise provide or sell any information gathered on this Site to outside vendors.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.
+User Tracking
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+We track user traffic patterns throughout all of our sites to monitor the activities of each unique visitor to Xooarticles. This is done regardless of whether the visitor has registered on the Site or is visiting the Site anonymously, but if you do not register on this Site or fill in your personal details on any forms, you do remain anonymous and we do not discover your identity. If you do register on this Site, our use of user tracking enables us to identify your future and prior activity on the Site, including your activity before you registered. This includes pages on our Site that you visited. User tracking also allows us to determine through which means you have reached our Site (i.e. which search engines or links) up to one web page back. The purpose of our user tracking is to analyze our visitors' actions in order to improve the user experience of visitors to our Site, as well as to better understand the priorities and interests of our potential customers and partners in order to better suit their needs and increase the efficiency of our sales and marketing processes.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
+Cookies
 
-Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, a description of information that we maintain about them.
+Xooarrticles uses cookies that are small text files transferred by a Web Site to a computer that is browsing the Web Site. Even if you do not register on this Site, upon your first visit to this Site (or subsequent visits if you delete the cookie), a cookie is stored on your computer, which automatically identifies you to the Site. We also use other technologies to provide you with a quality experience and to learn how you use our services so that we can continually innovate to improve our services. If you would prefer not to receive cookies, you can change the configuration of your browser to refuse cookies. In addition, you can delete any cookies that have already been placed on your computer.
 
-Consumers can access this information by e-mail us at the above address.
+Internet Protocol Addresses. Xooarticelses collects the IP addresses of all visitors to our Site in order to administer the Site, help diagnose problems with our server, to gather broad demographic information, and for the "User Tracking" described above.
 
-Consumers can have this information corrected by sending us e-mail at the above address.
+Hyperlinks. Xooarticles consists of hyperlinks to other web sites. And this privacy policy applies only to this Site and not to any other sites, including sites accessed by hyperlink from this Site. So Xooarticels has no responsibility, liability for, or control over those other web sites or Internet resources or their collection, use and disclosure of your personal information, nor has it any control over, the privacy policies of any of these sites.
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+Your Consent By using the website Xooarticles.com, you are signifying, expressing and providing your consent to the collection and use of the information and other procedures described in the privacy policy above. Xooarticles.com reserves the right to change this policy at any time, without notice, by posting a new privacy policy at this location so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above address.
+Opt-OutPolicy  
+You can decline to submit personal information for any of our services, in which case Xooarticles.com may not be able to provide services to you.
+
+Legal Disclaimer  
+Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our web site or to establish or exercise our legal rights or defend against legal claims.
+
+Contact   
+If you have any questions about this privacy policy, the practices of this site, or your dealings with this web site, don't hesitate to contact us at contact@xooarticles.com  
+
