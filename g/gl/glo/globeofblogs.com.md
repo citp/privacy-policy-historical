@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115222810id_/http%3A//www.globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411021758id_/http%3A//www.globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
 
 # Globe of Blogs
 
 ### Random Weblog
 
-[One Player](http://one-player.blogspot.com/) ::: Just a player playing games!  
+[Dragyn Prattle](http://dragynwyrlld.blogspot.com/) ::: The only reason I did this was to be able to comment on things of interest and to just vent as well.  
 
 
 ## Statement of Policy
@@ -68,5 +68,5 @@ If Globe of Blogs should at some point in the future become a directory where us
 
 
 
-Copyright © 2001-2009 H.R., Globe of Blogs. All rights reserved.  
+Copyright © 2001-2010 H.R., Globe of Blogs. All rights reserved.  
 
