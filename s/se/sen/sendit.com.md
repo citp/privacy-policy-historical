@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendit.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421102929id_/http%3A//www.sendit.com/sendit/privacy-policy.info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendit.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411082031id_/http%3A//www.sendit.com/privacy-policy.info) for the most accurate reproduction.*
 
 # Privacy Policy - Sendit.com
 
@@ -17,6 +17,8 @@ We may use technology to track the patterns of behaviour of visitors to our site
 ## Protecting Your Security
 
 To ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases.
+
+“sendit.com takes the risk of internet fraud very seriously. With the volume of fraudulent credit card transactions increasing, sendit.com make every effort to ensure all orders are thoroughly checked using the information already supplied. There is a possibility we may contact you to make additional security checks and we ask for your co-operation to enable us to complete them. Fraudulent transactions will not be tolerated by sendit.com and such transactions will be reported to the relevant authorities.” 
 
 By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection Act 1998.
 
