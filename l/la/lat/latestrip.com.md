@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the latestrip.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531195610id_/http%3A//www.latestrip.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latestrip.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411063723id_/http%3A//www.latestrip.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Live Sex Web Cam Video Chat - latestrip.com
+# Live Sex Web Cam Video Chat
 
 ## privacy policy
 
