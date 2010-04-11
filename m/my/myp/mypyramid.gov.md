@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypyramid.gov privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228150154id_/http%3A//www.usda.gov/wps/portal/%21ut/p/_s.7_0_A/7_0_1OB%3Fnavtype%3DFT%26navid%3DPRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypyramid.gov privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411222934id_/http%3A//www.usda.gov/wps/portal/%21ut/p/_s.7_0_A/7_0_1OB%3Fnavtype%3DFT%26navid%3DPRIVACY_POLICY) for the most accurate reproduction.*
 
 # FOIA Privacy Policy
 
@@ -99,10 +99,20 @@ The Privacy Provisions of the E-Government Act of 2002 require agencies to have 
 
   
   
+| Comment Policies  
+  
+| 
+
+The purpose of the USDA's new media communication forums, including the USDA blog, collaborative tools and other sites, is to share news and information regarding the activities, policies and programs of the Department of Agriculture and its employees. We encourage discussion and comments on posts. Your insights are important to ensure Americans nationwide are informed and can be a part of the USDA's work, every day. 
+
+  * [Learn more here:](https://web.archive.org/web/20100411222934id_/http%3A//www.usda.gov/wps/portal/%21ut/p/_s.7_0_A/Official_Comment_Policy20110.pdf "Link opens in new window")
+
+  
+  
 | Comments or Questions  
   
 | 
 
-If you have any comments or questions about the information presented here please forward them to Wilbur Crawley - Office of the Chief Information Officer - 301-504-4154 - Wilbur.Crawley@usda.gov.   
+If you have any comments or questions about the information presented here please forward them to Ray Payton - Office of the Chief Information Officer, Privacy Office - at Ravoyne.Payton@usda.gov or Privacy@usda.gov.   
   
  
