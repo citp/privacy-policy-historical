@@ -1,25 +1,7 @@
-> *The following text is extracted and transformed from the avadirect.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229014858id_/http%3A//www.avadirect.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avadirect.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411025107id_/http%3A//www.avadirect.com/privacy.asp) for the most accurate reproduction.*
 
 # AVADirect Custom Computers - Privacy and Security
 
-|  Customer Login  
----  
-Dear Customer,
-
-We highly recommend to login into your Customer Account when you place orders on our website. Click on the link below to create an account; it will take just one easy step. 
-
-[ CREATE ACCOUNT ](https://www.avadirect.com/account_create.asp) [**Tell me more ...** ]()  
-  
-  
-
-
-[](https://www.bbb.org/online/consumer/cks.aspx?id=1090717141758 "Click to verify BBB accreditation and to see a BBB report.")
-
-| 
-
-| Privacy and Security Policies  
----  
-  
 **Transaction Security**
 
 AVADirect recognizes your right for privacy and full confidentiality while shopping online. All sensitive data such as billing and shipping information are securely encrypted using Secure Socket Layers (SSL) encryption protocol. That is why you maintain control over your personal data at avadirect.com. AVADirect is commited to provide up-to-date secure environment for online shoppers. The avadirect.com web site is registered with independent site identification authorities such as [Trustwave](http://www.trustwave.com/) global certificate authority (CA) to confirm identity of our online store before any transmission is sent. Trustwave SSL Certificate gives all parties the confidence that information is being sent securely and to the right place. 
