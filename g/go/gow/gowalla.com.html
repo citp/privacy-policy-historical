@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gowalla.com privacy policy that was archived on 2009-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091225144459id_/http%3A//gowalla.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gowalla.com privacy policy that was archived on 2010-04-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100411061151id_/http%3A//gowalla.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><!--
 		                                   /\_ \  /\_ \              
@@ -14,7 +14,7 @@
 	--><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<meta http-equiv="imagetoolbar" content="no">
-		<meta name="copyright" content="Copyright (c) 2008-2009 Alamofire Inc.">
+		<meta name="copyright" content="Copyright (c) 2008-2010 Alamofire Inc.">
 		<meta name="revisit-after" content="3 days">
 
 		
@@ -23,61 +23,144 @@
 	
 		<title>Privacy Policy on Gowalla</title>
 		<link rel="stylesheet" type="text/css" media="screen, projection" href="/stylesheets/screen/styles.css">
-		<!--[if IE]><link rel="stylesheet" type="text/css" media="screen, projection" href="../stylesheets/screen/patch/ie.css" /><![endif]-->
+		<!--[if IE]><link rel="stylesheet" type="text/css" media="screen, projection" href="/stylesheets/screen/patch/ie.css" /><![endif]-->
 		
 		<script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAADHJ5HNCptL51yr_DS1fQThRX9Od5DxCcRxlVfWspcT3oqROdIRRf9BLAA_yZys8ohevG-3lPQEtWEQ"></script>
 		<script type="text/javascript">
 			google.load("maps", "2", { other_params:"sensor=false" });
-			google.load("jquery", "1.2.6");
 		</script>
-		<script type="text/javascript" src="/javascripts/application.js?5db64757799a60478b1a7dbd4acd3d32b9f61e3d"></script>
-		<script type="text/javascript" src="/javascripts/jquery.json-1.3.min.js"></script>
+		<script type="text/javascript" src="/javascripts/jquery.1.4.2.min.js"></script>
+		<script type="text/javascript" src="/javascripts/jquery.json-2.2.min.js"></script>
 		<script type="text/javascript" src="/javascripts/jquery.phpdate.js"></script>
 		<script type="text/javascript" src="/javascripts/jquery.history.js"></script>
 		<script type="text/javascript" src="/javascripts/templating.js"></script>
+		<script type="text/javascript" src="/javascripts/jaml.js"></script>
+
+		<script type="text/javascript" src="/javascripts/application.js"></script>
+
+
 		
 	</head>
 
 	<body id="legal" class="">
 
-		<div class="overlay" id="overlay_signin" style="display: none;">
-			<div id="signin">
-				<div class="overlay-content">
-					<form id="form_signin" action="/sessions" method="post">
-						<h1>Sign In</h1>
-						<a href="#" onclick="$('.overlay').hide(); $('#form_signin').show(); $('#form_forgot').hide(); return false;" class="overlay-close" title="Close"></a>
-						<div class="overlay-group">
-							<fieldset>
-								<label>Username</label>
-								<input type="text" class="username" name="email" id="username" autocomplete="on">
-							</fieldset>
-							<fieldset>
-								<label>Password</label>
-								<input type="password" class="password" name="password" autocomplete="on">
-								<a href="#" onclick="$('#form_signin').hide(); $('#form_forgot').show(); return false;" class="forgot">Forgot Password</a>
-							</fieldset>
-							<input type="image" class="submit" src="/images/buttons/submit.png">
-						</div>
-						<p class="login-with-facebook">Or sign in with Facebook: <a name="fb"><fb:login-button size="large" background="dark" length="long" onlogin="window.location.href = '/fb_callback?url=';"></fb:login-button></a></p>
-					</form>
-					<form id="form_forgot" action="/users/reset_pw_request" method="post" style="display: none;">
-						<h1 class="forgot-password">Forgot Password</h1>
-						<a href="#" onclick="$('.overlay').hide(); $('#form_signin').show(); $('#form_forgot').hide(); return false;" class="overlay-close" title="Close"></a>
-						<p>Enter your email address and we'll send you a link to reset your password.</p>
-						<div class="overlay-group">	
-							
-								<fieldset>
-									<label>Email</label>
-									<input type="text" class="username" name="reset_email">
-								</fieldset>
-								<input type="image" class="submit" src="/images/buttons/submit.png">
-							
-						</div></form>
-					
+		<script type="text/html" id="add_to_trip_overlay_tmpl">
+	<div class="overlay">
+		<div class="overlay-content"><div class="overlay-inner">
+			<div id="add-spot-to-trip">
+				<h1>Add <span><#= Gowalla.spot.name #></span> to a trip</h1>
+				<a href="#" onclick="$('.overlay').hide(); return false;" class="overlay-close" title="Close"></a>
+				<div class="overlay-group">
+					<p>Choose a trip or <a href="#" onclick="Gowalla.createTripOverlay(); return false;">create a new trip</a></p>
+					<select>
+						<option>Choose one...</option>
+						<# $.each(trips, function(i, trip) { #>
+							<option value="<#= trip.url #>"><#= trip.name #> (<#= trip.spots.length #>)</option>
+						<# }); #>
+						<option>--</option>
+						<option value="create">Create New Trip</option>
+					</select>
+				</div>
+				<div class="overlay-action">
+					<a href="#" onclick="Gowalla.addSpotToTrip(); return false;" class="button">Add to Trip</a>
 				</div>
 			</div>
-			<div class="overlay-screen"></div>
+		</div></div>
+		<div class="overlay-screen"></div>
+	</div>
+</script>
+
+<script type="text/html" id="create_trip_overlay_tmpl">
+	<div class="overlay">
+		<div class="overlay-content"><div class="overlay-inner">
+			<div id="create-trip">
+				<h1><span>Create a Trip</span></h1>
+				<a href="#" onclick="$('.overlay').hide(); return false;" class="overlay-close" title="Close"></a>
+				<form onsubmit="Gowalla.createTrip(); return false;">
+					<div class="overlay-group">
+						<label>Name</label>
+						<input type="text" class="name" name="trip[name]" />
+						<label>Description</label>
+						<textarea name="trip[description]"></textarea>
+					</div>
+					<div class="overlay-action">
+						<a href="#" onclick="Gowalla.createTrip(); return false;" class="button">Create Trip</a><span class="cancel"><a href="#" onclick="Gowalla.addSpotToTripOverlay(); return false;">Cancel</a> or</span>
+					</div>
+				</form>
+			</div>
+		</div></div>
+		<div class="overlay-screen"></div>
+	</div>
+</script>
+
+<script type="text/html" id="download_android_app">
+	<div class="overlay">
+		<div class="overlay-content"><div class="overlay-inner">
+			<a href="#" onclick="$('.overlay').hide(); return false;" class="overlay-close" title="Close"></a>
+			<div id="download_android_app" style="overflow: hidden;">
+				<h1><span style="display: block; color: #37451e; margin-bottom: 8px;">Download Gowalla for Android</span></h1>
+				<img src="/images/qrcode.png" style="display: block; float: left; margin: 0 0 8px -3px;"/>
+				<p style="display: block; width: 250px; padding: 8px 0 8px 8px; float: left;">To download, search for Gowalla in the Android Market, follow <a href="market://details?id=com.gowalla">this download link</a> from your handset, or scan the QR code.</p>
+			</div>
+		</div></div>
+		<div class="overlay-screen"></div>
+	</div>
+</script>
+
+<script type="text/html" id="download_palm_app">
+	<div class="overlay">
+		<div class="overlay-content"><div class="overlay-inner">
+			<a href="#" onclick="$('.overlay').hide(); return false;" class="overlay-close" title="Close"></a>
+			<div id="download_android_app" style="overflow: hidden;">
+				<h1><span style="display: block; color: #37451e; margin-bottom: 8px;">Download Gowalla for Palm</span></h1>
+				<p style="display: block; width: 430px; padding: 8px 0 20px 0;">To download, search for Gowalla in the Palm App Catalog, or follow <a href="http://developer.palm.com/webChannel/index.php?packageid=com.alamofire.gowalla">this download link</a> from your handset.</p>
+			</div>
+		</div></div>
+		<div class="overlay-screen"></div>
+	</div>
+</script>
+
+<div id="overlay-wrapper"></div>
+
+<div class="overlay" id="overlay_signin" style="display: none;">
+	<div id="signin-popup">
+		<div class="overlay-content clearfix"><div class="overlay-inner">
+			<form id="form_signin" action="/sessions" method="post">
+				<h1><span>Sign In</span></h1>
+				<a href="#" onclick="$('.overlay').hide(); $('#form_signin').show(); $('#form_forgot').hide(); return false;" class="overlay-close" title="Close"></a>
+				<div class="overlay-group">
+					<fieldset>
+						<label>Username</label>
+						<input type="text" class="username" name="email" id="username" autocomplete="on">
+					</fieldset>
+					<fieldset>
+						<label>Password</label>
+						<input type="password" class="password" name="password" autocomplete="on">
+						<a href="#" onclick="$('#form_signin').hide(); $('#form_forgot').show(); return false;" class="forgot">Forgot</a>
+					</fieldset>
+					<input type="submit" class="signin-btn" style="width: 100px;" value="Sign In">
+				</div>
+				<p class="login-with-facebook">Or sign in with Facebook: <a class="fb-connect-btn" name="fb"><fb:login-button size="large" background="dark" length="long" onlogin="window.location.href = '/fb_callback?url=';"></fb:login-button></a></p>
+			</form>
+			<form id="form_forgot" action="/users/reset_pw_request" method="post" style="display: none;">
+				<h1><span>Forgot Password</span></h1>
+				<a href="#" onclick="$('.overlay').hide(); $('#form_signin').show(); $('#form_forgot').hide(); return false;" class="overlay-close" title="Close"></a>
+				<p>Enter your email address and we'll send you a link to reset your password.</p>
+				<div class="overlay-group">	
+					
+						<fieldset>
+							<label>Email</label>
+							<input type="text" class="username" name="reset_email">
+						</fieldset>
+						<input type="submit" class="signin-btn" style="width: 170px;" value="Recover Password">
+					
+				</div></form>
+			
 		</div>
+	</div></div>
+	<div class="overlay-screen"></div>
+</div>
+
 
 		<!-- <div id="ie-warning">Oops. Your browser is not supported by Gowalla. Upgrade for free to <a href="http://www.microsoft.com/windows/downloads/ie/getitnow.mspx">Internet Explorer 7</a> or <a href="http://www.firefox.com">Firefox</a>.</div> -->
 		<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"></script>
@@ -88,39 +171,37 @@
 		<div id="nav-wrapper" class="clearfix">
 	<div id="nav">
 		<h1 id="logo"><a href="/"><img src="/images/logo.png"></a></h1>
-		<div id="links">
-			<p>Go out. Go discover. Go share. Gowalla.</p>
-			<ul>
-				
-				<li><a href="/blog">Blog</a></li>
-				<li><a href="http://www.itunes.com/app/Gowalla">Download</a></li>
-				
-					<li><a href="#" onclick="$('#overlay_signin').show(); $('#username').focus(); return false;">Sign In</a></li>
-			</ul>
-		</div>
+
 		<ul id="tabs">
-			<li><a href="/">Welcome</a></li>
-			<li><a href="/spots">Spots</a></li>
-			<li><a href="/trips">Trips</a></li>
-			<li><a href="/friends">Friends</a></li>
+			<li class="first"><a href="/"><span>Welcome</span></a></li>
+			<li><a href="/spots"><span>Spots</span></a></li>
+			<li><a href="/trips"><span>Trips</span></a></li>
+			<li class="last">
+			  <a href="/friends">
+			    <span>Friends </span>
+			  </a>
+			</li>
+		</ul>
+		<ul id="links">
+			<li class="blog first"><a href="/blog">Blog</a></li>
+			<li class="download"><a href="http://www.itunes.com/app/Gowalla">Download</a></li>
+				<li class="signin last"><a href="#" onclick="$('#overlay_signin').show(); $('#username').focus(); return false;">Sign In</a></li>
 		</ul>
 	</div>
 </div>
 
 		<div id="wrapper" class="clearfix">
 			<div id="content" class="clearfix">
+				
+
 					<div id="join-gowalla-banner">
-						<a href="/users/new"><img src="/images/buttons/join-gowalla.png"></a>
+						<a href="/join" class="join-btn">Sign Up</a>
 					</div>
 				
 				<div id="main">
 					
     
-<div id="header" class="clearfix">
-	<div class="info">
-		<p class="l">Privacy Policy</p>
-	</div>
-</div>
+<h2>Privacy Policy</h2>
 
 <div class="legal-wrapper">
 
@@ -155,7 +236,7 @@
 
 <p>By providing Gowalla your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail.  We may also use your email address or mobile phone number to send you other messages, such as newsletters, changes to features of the Service, or special offers.  If you do not want to receive such messages, you may opt out or change your preferences in your [name settings page].  Opting out may prevent you from receiving messages regarding updates, improvements, or offers.  You may not opt out of Service-related e-mails.  If you correspond with us by email, we may retain the content of your email messages and our responses.</p>
 
-<p>[Applicable?]If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's email address and automatically send an email invitation.  Gowalla stores this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service. Your friend may contact us to request that we remove this information from our database at info [at] Gowalla.com.</p>
+<p>If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's email address and automatically send an email invitation.  Gowalla stores this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service. Your friend may contact us to request that we remove this information from our database at terms [at] Gowalla.com.</p>
 
 <p>Gowalla may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing content.  </p>
 
@@ -185,10 +266,10 @@ As we develop our business, we may buy or sell assets or business offerings. Cus
 <p>In the event that personal information is compromised as a result of a breach of security, Gowalla will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.</p>
 
 <h3>Your Choices About Your Information</h3>
-<p>You may, of course, decline to submit personally identifiable information through the Service, in which case Gowalla may not be able to provide certain services to you. You may update or correct your account information [and email preferences] at any time by logging in to your account.   You can review and correct the information about you that Gowalla keeps on file by contacting us directly at support [at] Gowalla.com.</p>
+<p>You may, of course, decline to submit personally identifiable information through the Service, in which case Gowalla may not be able to provide certain services to you. You may update or correct your account information [and email preferences] at any time by logging in to your account.   You can review and correct the information about you that Gowalla keeps on file by contacting us directly at terms [at] Gowalla.com.</p>
 
 <h3>Children's Privacy</h3>
-<p>Protecting the privacy of young children is especially important.  For that reason, Gowalla does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register as Members. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Gowalla. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at privacy [at] Gowalla.com. </p>
+<p>Protecting the privacy of young children is especially important.  For that reason, Gowalla does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register as Members. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Gowalla. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at terms [at] Gowalla.com. </p>
 
 <h3>Links to Other Web Sites</h3>
 <p>We are not responsible for the practices employed by websites linked to or from our website, nor the information or content contained therein.  Please remember that when you use a link to go from our website to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding.</p>
@@ -200,14 +281,14 @@ As we develop our business, we may buy or sell assets or business offerings. Cus
 
 <p>If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.  Changes to this Privacy Policy are effective when they are posted on this page. </p>  
 
-<p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at privacy [at] Gowalla.com, or send mail to:</p>
+<p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at terms [at] Gowalla.com, or send mail to:</p>
 
 <p>Alamofire, Inc.<br>
 1460 Main Street<br>
 Suite 235<br>
 Southlake, TX  76092<br>
 (817) 428-4248<br>
-help [at] gowalla.com<br></p>
+live [at] gowalla.com<br></p>
  
 <a name="updates"></a>
 <p>No updates have been made at this time.</p>
@@ -222,11 +303,19 @@ help [at] gowalla.com<br></p>
 
 		<div id="footer-wrapper">
 	<div id="footer">
-		<div id="logo-footer"><a href="/"><img src="/images/logo-footer.png"></a></div>
-		<p class="m"><b>Gowalla is lovingly made by guys and girls going places in <a href="/spots?l=Austin%2C+TX">Austin, Texas</a></b>.</p>
-		<p class="m">You should follow us on Twitter <a href="http://twitter.com/gowalla">here</a>.
-		</p><p class="s">© 2009 <a href="http://alamofire.com">Alamofire, Inc</a> — Read our <a href="/terms" class="terms">Terms of Service</a> and <a href="/privacy" class="terms">Privacy Policy</a> when you’re bored.
-		</p><p class="s" style="display:none" id="townme-attribution">Some listing data provided by <a href="http://townme.com/"><img src="/images/townme-apilogo63x24.png" alt="TownMe" width="63" height="24" style="padding-bottom: 10px; vertical-align: middle;"></a> <a href="http://townme.com/" id="townme-listing-link">Read more.</a></p>
+		<div id="logo-footer"><a href="/"><img src="/images/footer-logo.png"></a></div>
+		<p class="texas">Gowalla is lovingly made by guys and girls going places in Austin, Texas.</p>
+		<a href="/spots#l=Austin,%20TX" class="heart-of-texas"></a>
+		<ul>
+			<!-- <li><a href="http://www.alamofire.com" title="about">About</a></li> -->
+			<li class="first"><a href="/blog" title="Blog">Blog</a></li>
+			<li><a href="http://www.twitter.com/gowalla" title="Follow us on Twitter">Twitter</a></li>
+			<li><a href="/api/explorer" title="Developers">Developers</a></li>
+			<li><a href="http://m.gowalla.com/" title="Mobile">Mobile</a></li>
+			<li><a href="/terms" title="Terms of Service">Terms</a></li>
+			<li class="last"><a href="/privacy" title="Privacy Policy">Privacy</a></li>
+		</ul>
+		<p class="copywrite">© 2010 Gowalla Incorporated</p>
 	</div>
 </div>
 
@@ -239,6 +328,7 @@ help [at] gowalla.com<br></p>
 			$(function(){
 				Gowalla.onready();
 				Gowalla.setOverlayPosition();
+				
 				
 			});
 		</script>
