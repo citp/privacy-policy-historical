@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gizmodiva.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206202645id_/http%3A//www.gizmodiva.com/other_stuff/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gizmodiva.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411202926id_/http%3A//www.gizmodiva.com/other_stuff/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,7 +68,8 @@ If you have any questions about this Privacy Policy, the privacy practices of th
 
 by [dhiram](https://web.archive.org/dhiram/index.php), posted July 19, 2008 - 9:19 AM in [Other Stuff](http://www.gizmodiva.com/other_stuff/) | [**Comments** ()](http://www.gizmodiva.com/other_stuff/privacy_policy.php#comments)
 
-[](http://www.linkwithin.com/)
+  
+
 
 ## Reader Comments
 
@@ -76,12 +77,12 @@ by [dhiram](https://web.archive.org/dhiram/index.php), posted July 19, 2008 - 9:
 
 ## Recent Entries
 
-  * [Foosball Coffee Table keeps boredom at bay](http://www.gizmodiva.com/home_improvement/foosball_coffee_table_keeps_boredom_at_bay.php)
-  * [Keyboard Sleeve turns your iPhone into a Blackberry](http://www.gizmodiva.com/mobile_phones/keyboard_sleeve_turns_your_iphone_into_a_blackberry.php)
-  * [Sony Walkman S Series pretty in pink](http://www.gizmodiva.com/music/sony_walkman_s_series_pretty_in_pink.php)
-  * [Concrete Clock with shiny goodness](http://www.gizmodiva.com/home_improvement/concrete_clock_with_shiny_goodness.php)
-  * [Roll of film camera makes you nostalgic](http://www.gizmodiva.com/home_gadgets/roll_of_film_camera_makes_you_nostalgic.php)
-  * [Hello Kitty Steering Wheels adds some cuteness to your car](http://www.gizmodiva.com/wheels/hello_kitty_steering_wheels_adds_some_cuteness_to_your_car.php)
-  * [Flameless color changing candles to set the mood right](http://www.gizmodiva.com/home_improvement/flameless_color_changing_candles_to_set_the_mood_right.php)
+  * [Gizmodiva asks…how true are you to yourself? ](http://www.gizmodiva.com/other_stuff/gizmodiva_askshow_true_are_you_to_yourself.php)
+  * [Rawlings Recordable Autograph Ball gets you autographs and voice messages](http://www.gizmodiva.com/home_gadgets/rawlings_recordable_autograph_ball_gets_you_autographs_and_voice_messages.php)
+  * [USB Karaoke Mute-Mic absorbs horrible singing](http://www.gizmodiva.com/home_gadgets/usb_karaoke_mutemic_absorbs_horrible_singing.php)
+  * [The Book Belt eliminates the need for bags](http://www.gizmodiva.com/other_stuff/the_book_belt_eliminates_the_need_for_bags.php)
+  * [Bandai is out with iPad version of Pac-Man](http://www.gizmodiva.com/home_gadgets/bandai_is_out_with_ipad_version_of_pacman.php)
+  * [Sleep Scan by Tanita evaluates your sleep](http://www.gizmodiva.com/home_gadgets/sleep_scan_by_tanita_evaluates_your_sleep.php)
+  * [Samsung announces funky and colorful accessories for its N150 and X170 Notebooks](http://www.gizmodiva.com/home_gadgets/samsung_announces_funky_and_colorful_accessories_for_its_n150_and_x170_notebooks.php)
 
 
