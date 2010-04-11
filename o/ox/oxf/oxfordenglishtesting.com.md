@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the oxfordenglishtesting.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426214821id_/http%3A//www.oxfordenglishtesting.com/showContent.aspx%3FmenuId%3D2%26id%3D116) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordenglishtesting.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411224015id_/http%3A//www.oxfordenglishtesting.com/showContent.aspx%3FmenuId%3D5%26id%3D116) for the most accurate reproduction.*
 
-# www.oxfordenglishtesting.com
+# Oxford Online Placement Test | Exam Practice Tests for KET, PET, FCE, CAE, IELTS, TOEIC, TOEFL iBT
 
 ## Privacy Policy and Legal Notice for Oxford English Testing
 
-This privacy policy and legal notice is specific to the Oxford English Testing web site and in the vent of any conflict arising overrides any other privacy policy or legal notice appearing elsewhere on Oxford University Press web sites.  
+This privacy policy and legal notice is specific to the Oxford English Testing web site and in the event of any conflict arising overrides any other privacy policy or legal notice appearing elsewhere on Oxford University Press web sites.
 
 **Privacy Policy**
 
@@ -40,20 +40,13 @@ If we believe that your use of the web site is unlawful or damaging to others, w
 
 Cookies are small files that we create to store information on your computer.
 
-• we do not use cookies to track what other sites you have visited.
+  * we do not use cookies to track what other sites you have visited.
+  * we do not look at or track any personal or confidential information about you.
+  * we do make use of cookies to enable authorization control for online products.
 
-• we do not look at or track any personal or confidential information about you.
 
-• we do make use of cookies to enable authorization control for online products.
 
-• we delete all our cookies when you click “Sign Out” or quit your browser.
-
-There are two cookies used in our system:
-
-1: identifies you to our system (and only to our system) as a valid user  
-2: identifies your session to our computer]
-
-**Security**
+ **Security**
 
 Your personal information is stored at a data centre controlled by our third party hosting company and on the customer databases at OUP and OUP, Inc.  The data centre controlled by our third party hosting company is specifically designed to be physically secure and to admit authorized personnel only, who are contractually bound to keep all of our data confidential.
 
