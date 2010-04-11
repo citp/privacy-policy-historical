@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the florensia-online.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422072733id_/http%3A//en.florensia-online.com/pages/legal-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the florensia-online.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411053955id_/http%3A//en.florensia-online.com/pages/legal-policy) for the most accurate reproduction.*
 
-# Florensia Western Global | F2P next-gen MMOG from Japan | afloat and ashore | www.florensia-online.com
+# Florensia Western Global | Free to Play next-gen MMOG | Play for free! florensia-online.com
 
-**BURDA interactive communities (BURDA:ic) Privacy Policy**
+**Burda interactive communities (Burda:ic GmbH) Privacy Policy**
 
 We are deeply concerned with the protection of personal data. We would like you to know when we are saving which data and how we use them. As a company of civil law, we are subject to the Federal Data Protection Act (BDSG) and the Treaty for Telemedia (TMG) of the Federal Republic of Germany. We took technical and organisational measures to ensure that the regulations on data protection are followed by us, as well as external service providers who are working for us.
 
@@ -25,11 +25,11 @@ When you access our services, data which allows an identification (for example t
 
 IP addresses will be saved for a period of 28 days when using our service as anonymous users. They are saved for data security purposes and to ensure the stability and the operational safety of our system. Data that is necessary for accounting is excepted from this limited saving procedure.
 
-In case we provide third parties with information, they gain no access to the saved personal data. The administration of those is exclusive subject to BURDA:ic.  
+In case we provide third parties with information, they gain no access to the saved personal data. The administration of those is exclusive subject to Burda:ic.  
   
  **Passing of Personal Data to Third Parties**
 
-Your data will not be passed to third parties without your explicit approval. If your data is passed to other service providers due to the processing of data, these providers are bound to the BDSG, other statutory provisions and contractually to the Privacy Policy of BURDA:ic. As far as we are obliged via laws or judicial decree, your data can be passed to units entitled to receive information.
+Your data will not be passed to third parties without your explicit approval. If your data is passed to other service providers due to the processing of data, these providers are bound to the BDSG, other statutory provisions and contractually to the Privacy Policy of Burda:ic. As far as we are obliged via laws or judicial decree, your data can be passed to units entitled to receive information.
 
 Articles posted in our forums are open to the public. Before posting you should check your posts whether they contain information not intended for the public. You need to face the possibility that your posts will be collected by search engines and thus become accessible worldwide without our service being used. Foreign service providers oftentimes cannot be ordered to erase or revise these kinds of entries.  
  **  
@@ -52,8 +52,7 @@ The following information is saved within the cookies set by us:
 
 
 
-**  
-Children**
+**Children**
 
 People of an age below 18 should not transmit personal data to us without their parents' agreement. However, you need to specify your date of birth during the registration process. Some functions are not enabled for people below the age of 18, for example credit card payment in Germany.
 
@@ -63,4 +62,4 @@ Our online service contains links to other websites. We have no influence on the
 
  **Questions and Comments**
 
-For questions, suggestions or comments concerning privacy protection, please refer to BURDA:ic's man in charge of privacy protection: datenschutz@burda-ic.com. Due to the rapid development of the internet, an adjustment of our privacy policy may be required at any one time. At this point, you will be informed about the alterations. 
+For questions, suggestions or comments concerning privacy protection, please refer to Burda:ic's man in charge of privacy protection: datenschutz@burda-ic.com. Due to the rapid development of the internet, an adjustment of our privacy policy may be required at any one time. At this point, you will be informed about the alterations. 
