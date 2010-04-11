@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apl.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617050448id_/http%3A//www.apl.com/help_center/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apl.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411081221id_/http%3A//www.apl.com/help_center/html/privacy_policy.html) for the most accurate reproduction.*
 
 # APL: Privacy Policy
 
@@ -52,8 +52,10 @@ not complied with this Privacy Policy with respect to your personal information 
 
 APL Limited  
 General Counsel  
-1111 Broadway  
-Oakland, CA  94607.
+16220 North Scottsdale Road  
+Suite 300  
+Scottsdale, AZ 85254  
+Tel: (602) 586-4800
 
 In your letter, please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that the Privacy Policy has not been complied with so that we may investigate your inquiry. 
 
