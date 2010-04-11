@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engineerjobs.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416092015id_/http%3A//www.engineerjobs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineerjobs.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411075353id_/http%3A//www.engineerjobs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Engineer Jobs.com
 
@@ -11,7 +11,9 @@
   * [Advertising Information](https://web.archive.org/companies/advertise.php)
   * [Submit A Job](https://web.archive.org/submit_secure.php)
   * [Search Engineer Resumes](https://web.archive.org/resumes/)
-  * [My Recruiting Center](https://web.archive.org/recruiting-center/)
+  *  
+  * [My Jobs](https://web.archive.org/recruiting-center/my-jobs.php)
+  * [My Invoices](https://web.archive.org/recruiting-center/my-invoices.php)
 
 
 
