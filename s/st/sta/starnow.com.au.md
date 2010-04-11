@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the starnow.com.au privacy policy that was archived on 2009-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091014112733id_/http%3A//www.starnow.com.au/help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starnow.com.au privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411211011id_/http%3A//www.starnow.com.au/help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - StarNow.com.au
 
 **Privacy of your information**  
 StarNow.com.au (owned and operated by SMH Interactive Limited) collects personal information about you through your use of the services and the web site, including your registration details; and information relating to your use of the web site and the content you access.
 
-You agree that StarNow.com.au may use this personal information to assist us to provide the services to you, for internal research purposes, to verify your identity, for promoting and marketing other StarNow.com.au products and services to you, and for any other use that you authorise.
+You agree that StarNow.com.au may use this personal information to assist us to provide the services to you, for internal research purposes, to verify your identity, for promoting and marketing other StarNow.com.au products and services to you, and for any other use that you authorize.
 
 We will not sell or allow third parties to access your personal information without your consent, however you agree that StarNow.com.au may disclose your personal information, including your name and contact details, to the relevant authorities, parties and/or the applicable intellectual property right holders (or their representatives) as we see fit.
 
