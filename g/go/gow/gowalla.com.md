@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gowalla.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225144459id_/http%3A//gowalla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowalla.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411061151id_/http%3A//gowalla.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on Gowalla
 
@@ -36,7 +36,7 @@ When you have the Gowalla Software running on your mobile phone, Gowalla shows y
 
 By providing Gowalla your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address or mobile phone number to send you other messages, such as newsletters, changes to features of the Service, or special offers. If you do not want to receive such messages, you may opt out or change your preferences in your [name settings page]. Opting out may prevent you from receiving messages regarding updates, improvements, or offers. You may not opt out of Service-related e-mails. If you correspond with us by email, we may retain the content of your email messages and our responses.
 
-[Applicable?]If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's email address and automatically send an email invitation. Gowalla stores this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service. Your friend may contact us to request that we remove this information from our database at info [at] Gowalla.com.
+If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's email address and automatically send an email invitation. Gowalla stores this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service. Your friend may contact us to request that we remove this information from our database at terms [at] Gowalla.com.
 
 Gowalla may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing content. 
 
@@ -68,11 +68,11 @@ In the event that personal information is compromised as a result of a breach of
 
 ### Your Choices About Your Information
 
-You may, of course, decline to submit personally identifiable information through the Service, in which case Gowalla may not be able to provide certain services to you. You may update or correct your account information [and email preferences] at any time by logging in to your account. You can review and correct the information about you that Gowalla keeps on file by contacting us directly at support [at] Gowalla.com.
+You may, of course, decline to submit personally identifiable information through the Service, in which case Gowalla may not be able to provide certain services to you. You may update or correct your account information [and email preferences] at any time by logging in to your account. You can review and correct the information about you that Gowalla keeps on file by contacting us directly at terms [at] Gowalla.com.
 
 ### Children's Privacy
 
-Protecting the privacy of young children is especially important. For that reason, Gowalla does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register as Members. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Gowalla. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at privacy [at] Gowalla.com. 
+Protecting the privacy of young children is especially important. For that reason, Gowalla does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register as Members. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Gowalla. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at terms [at] Gowalla.com. 
 
 ### Links to Other Web Sites
 
@@ -86,14 +86,14 @@ It is our policy to provide notifications, whether such notifications are requir
 
 If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page. 
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at privacy [at] Gowalla.com, or send mail to:
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at terms [at] Gowalla.com, or send mail to:
 
 Alamofire, Inc.  
 1460 Main Street  
 Suite 235  
 Southlake, TX 76092  
 (817) 428-4248  
-help [at] gowalla.com  
+live [at] gowalla.com  
 
 
 No updates have been made at this time.
