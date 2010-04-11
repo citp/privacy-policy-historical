@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newscom.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417061639id_/http%3A//www.newscom.com/nc/n/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscom.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411232549id_/http%3A//www.newscom.com/nc/n/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
