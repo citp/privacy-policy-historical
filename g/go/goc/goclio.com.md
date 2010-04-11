@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goclio.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430105148id_/http%3A//www.goclio.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goclio.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411083357id_/http%3A//www.goclio.com/privacy.html) for the most accurate reproduction.*
 
 # Clio Privacy Policy
 
@@ -163,8 +163,8 @@ By email: support@goclio.com
 
 Address:   
 Themis Software Inc.,   
-Suite 319, 332 Lonsdale Ave.   
-North Vancouver, BC  
-Canada V7M 3M5
+Suite 404, 999 Canada Place  
+Vancouver, BC  
+Canada V6C 3E2
 
 Phone: 1-888-858-CLIO
