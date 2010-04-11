@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaai.org privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217235619id_/http%3A//www.aaai.org/Organization/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaai.org privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411213648id_/http%3A//www.aaai.org/Organization/privacy.php) for the most accurate reproduction.*
 
 # AAAI Privacy Policy
 
