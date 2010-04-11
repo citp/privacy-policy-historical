@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stanjames.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623065848id_/http%3A//www.stanjames.com/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanjames.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411221949id_/http%3A//www.stanjames.com/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # Stan James :: Help: Privacy Policy
 
@@ -18,13 +18,14 @@ We may collect and process the following Information about you:
 
 (iii) Details of transactions you carry out in respect of our services and of the fulfilment of your orders.
 
-(iv) Details of your visits to our website (including, but not limited to, traffic data, location data, cookies, weblogs, IP Addresses and other communication data) and any other resources that you access.
+(iv) Details of your visits to our website (including, but not limited to, traffic data, location data, cookies, weblogs, IP Addresses and other communication data) and any other resources that you access.  
+
 
 ### How Information is Used
 
 We may use your Information together with other information for the purposes of:
 
-(i) Setting up and managing your accounts. 
+(i) Setting up and managing your accounts.
 
 (ii) Improving and individualising the services that we offer.
 
@@ -36,7 +37,7 @@ We may use your Information together with other information for the purposes of:
 
 (vi) Providing you with marketing information and information concerning promotional offers by post, email, telephone and other means. Please adjust your account settings in "My Account" if you do not wish to receive this service.
 
-(vii) Providing you with access to our mobile telephone application when you register an account. 
+(vii) Providing you with access to our mobile telephone application when you register an account.
 
 (viii) To help us make credit decisions about you, to prevent fraud, to check your age and identity and to prevent money laundering (we may use third parties for these purposes and these third parties may keep a record of the information).
 
@@ -54,4 +55,5 @@ Given that the Internet is a global environment, using the Internet to collect a
 
 ### Disclosure of Information
 
+  
 We are entitled to share the information we hold on you which includes Information and betting history with the regulator and licensing authority sporting bodies and other bodies, including the police, in order to investigate fraud, money laundering or sports integrity issues and to comply with our regulatory duties under Gibraltar law.
