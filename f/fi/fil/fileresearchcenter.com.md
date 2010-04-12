@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileresearchcenter.com privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403014200id_/http%3A//www.fileresearchcenter.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileresearchcenter.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412162020id_/http%3A//www.fileresearchcenter.com/privacy_policy.html) for the most accurate reproduction.*
 
 # FileResearchCenter.com - Privacy Policy
 
