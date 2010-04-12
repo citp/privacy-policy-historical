@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weemi.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116191352id_/http%3A//www.weemi.com%3Ftmp%3Dweemi_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weemi.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413005052id_/http%3A//www.weemi.com%3Ftmp%3Dweemi_privacy) for the most accurate reproduction.*
 
 # Weemi - Privacy Policy
 
