@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vertica.com privacy policy that was archived on 2009-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090720210444id_/http%3A//www.vertica.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertica.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412202534id_/http%3A//www.vertica.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Vertica
 
