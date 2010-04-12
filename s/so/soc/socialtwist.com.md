@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the socialtwist.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210075238id_/http%3A//tellafriend.socialtwist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialtwist.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412125830id_/http%3A//tellafriend.socialtwist.com/privacy-policy) for the most accurate reproduction.*
 
 # Tell-a-Friend Privacy Policy
 
 Privacy Policy
 
-About TRUSTe Privacy Certification[](http://www.truste.org/ivalidate.php?url=www.socialtwist.com&sealid=101)SocialTwist is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of information practices. This privacy statement covers the Web site [www.socialtwist.com](http://tellafriend.socialtwist.com/www.socialtwist.com). Because this Web site wants to demonstrate its commitment to your privacy it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+About TRUSTe Privacy Certification[](http://www.truste.org/ivalidate.php?url=www.socialtwist.com&sealid=101)SocialTwist is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of information practices. This privacy statement covers the Web site [www.socialtwist.com](http://www.socialtwist.com/). Because this Web site wants to demonstrate its commitment to your privacy it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact Mark Schreiber at [mark@socialtwist.com](mailto:mark@socialtwist.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will serve as a liaison with us to resolve your concerns.
 
@@ -22,7 +22,7 @@ Our privacy policy in short:
 
 
 
-Use of Personal Information for Users of Service If you choose to use Our email word of mouth service to share content or information found at a site where you are accessing the Service you will be required to enter your name and email address so that the email can be personalized to reflect that it is you who is sending the email. You are required to enter a person’s email address to complete the email service. A one time email will then be sent to your friend inviting them to visit the site. We do not collect this information nor do we store it. You may also access your email address book using the service by selecting your address book service provider and accessing it by entering in your user name and password. Only those friends that you select will be sent an email.
+Use of Personal Information for Users of Service If you choose to use Our email word of mouth service to share content or information found at a site where you are accessing the Service you will be required to enter your name and email address so that the email can be personalized to reflect that it is you who is sending the email. You are required to enter a person's email address to complete the email service. A one time email will then be sent to your friend inviting them to visit the site. We do not collect this information nor do we store it. You may also access your email address book using the service by selecting your address book service provider and accessing it by entering in your user name and password. Only those friends that you select will be sent an email.
 
 We do not store, market or sell your email and password nor do we import or store your contacts.
 
@@ -30,7 +30,7 @@ To Post to a Social Network, Blog or Bookmarking site you will be asked to enter
 
 If you use a bulletin board, blog, or chat room on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-To participate in a TAF4 Rewards contest we do collect, store and forward your name and email address to the contest sponsor. This is 100% opt-in as you do not have to participate in a TAF4 Rewards contest. If you do opt-in and elect to enter the sponsored TAF4 Rewards contest SocialTwist will provide to the sponsor your name and email address so that they can track, issue and contact you for any prizes that you might win.
+To participate in a TAF4Rewards contest we do collect, store and forward your name and email address to the contest sponsor. This is 100% opt-in as you do not have to participate in a TAF4Rewards contest. If you do opt-in and elect to enter the sponsored TAF4Rewards contest SocialTwist will provide to the sponsor your name and email address so that they can track, issue and contact you for any prizes that you might win.
 
 In order to sign up for our affiliate program we collect your name, job title, company name, email address, website and country. We use this information to provide you information regarding our affiliate program and/or to create your affiliate account.
 
@@ -38,9 +38,9 @@ Use of Personal Information for Widget Subscription and RegistrationDuring regis
 
 If you purchase a product or service from Us, you are required to provide personal contact information (such as name and email address) and financial information (such as credit card number, expiration date). We use this information for billing purposes. We do not market, share or sell this data with other third parties.
 
-We use a PayPal to process your credit card order information. PayPal’s privacy policy can be viewed at [ https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside](https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside). The information collected is name , billing address and email address. This information is then shared back with SocialTwist for the the purpose of fulfilling your request.
+We use a PayPal to process your credit card order information. PayPal's privacy policy can be viewed at [ https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside](https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside). The information collected is name , billing address and email address. This information is then shared back with SocialTwist for the the purpose of fulfilling your request.
 
-We use Zuora’s software as a service to manage our subscription services. Your subscription information such as your name, address, email address is stored using Zuora’s Payment and Subscription services. Zuora’s privacy policy can be viewed at <http://zuora.com/privacy.html>
+We use Zuora's software as a service to manage our subscription services. Your subscription information such as your name, address, email address is stored using Zuora's Payment and Subscription services. Zuora's privacy policy can be viewed at <http://zuora.com/privacy.html>
 
 Personal Information Sharing We do not sell customer lists. We will not share any information that identifies you personally with any third party for marketing purposes. We will disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority or to protect our rights and property or the rights and property of the public. We may also cooperate with law enforcement agencies in any official investigation and we may disclose your personally identifiable information to the relevant agency in doing so.
 
@@ -54,7 +54,7 @@ MinorsChildren under the age of thirteen (13) are not eligible to use our servic
 
 Cookies and Other Sites When you access our website, we, or companies we hire to track how our website is used, may place small data files called "cookies" on your computer.
 
-We send a "session cookie" to your computer when you log in to your account. This type of cookie helps us to recognize you if you visit multiple pages on our site during the same session, so that we don’t need to ask you for your password on each page. Once you log out or close your browser, this cookie expires and no longer has any effect.
+We send a "session cookie" to your computer when you log in to your account. This type of cookie helps us to recognize you if you visit multiple pages on our site during the same session, so that we don't need to ask you for your password on each page. Once you log out or close your browser, this cookie expires and no longer has any effect.
 
 We also use longer-lasting cookies for other purposes such as to display your e-mail address on our sign-in form, so that you don't need to retype the e-mail address each time you log in to your account.
 
@@ -72,7 +72,7 @@ We follow generally accepted industry standards to protect the personally identi
 
 If you have any questions about security on our Web site, you can email us at [support@web.socialtwist.com](mailto:support@web.socialtwist.com)
 
-How to Cancel Your Registered Widget You always have the option to cancel your account with us at any time. Simply sign in to the site and click on the 'Details” on the side navigation; then select ‘delete’ and your account will be deactivated. You may request to have your registration account information removed by submitting a request to [support@web.socialtwist.com](mailto:support@web.socialtwist.com). We will act on your request as promptly as possible.
+How to Cancel Your Registered Widget You always have the option to cancel your account with us at any time. Simply sign in to the site and click on the 'Details” on the side navigation; then select ‘delete' and your account will be deactivated. You may request to have your registration account information removed by submitting a request to [support@web.socialtwist.com](mailto:support@web.socialtwist.com). We will act on your request as promptly as possible.
 
 Changes in this Privacy StatementIf we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
