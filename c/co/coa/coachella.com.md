@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coachella.com privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308000725id_/http%3A//www.coachella.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachella.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412142256id_/http%3A//www.coachella.com/privacy) for the most accurate reproduction.*
 
 # Coachella - Privacy Policy
 
