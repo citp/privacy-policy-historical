@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comfi.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124090810id_/http%3A//www.comfi.com/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comfi.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412154849id_/http%3A//www.comfi.com/Privacy_Policy.php) for the most accurate reproduction.*
 
 # Comfi.com - Privacy Policy
 
