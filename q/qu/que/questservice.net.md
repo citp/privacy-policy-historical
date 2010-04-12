@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the questservice.net privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212130711id_/http%3A//www.questservice.net%3Ftmp%3Dquestservice_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questservice.net privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413004141id_/http%3A//www.questservice.net%3Ftmp%3Dquestservice_privacy) for the most accurate reproduction.*
 
 # QuestService - Privacy Policy
 
