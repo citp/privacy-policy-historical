@@ -1,43 +1,50 @@
-> *The following text is extracted and transformed from the icicilombard.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629063808id_/http%3A//www.icicilombard.com/app/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icicilombard.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412143918id_/http%3A//www.icicilombard.com/app/ilom-en/privacy-policy.aspx) for the most accurate reproduction.*
 
 # ICICI Lombard India’s No. 1 private general insurance company - Health Insurance, Travel Insurance, Home Insurance, Motor Insurance
 
 |  | 
 
-| This statement is effective as on: 6th November 2004| [](http://www.truste.org/ivalidate.php?url=www.icicilombard.com&sealid=101)  
----|---  
+| **Home Privacy Policy**  
+---  
   
-TRUSTe Privacy Program   
-  
-ICICI Lombard General Insurance Company is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the Web site www.icicilombard.com. Because this Web site wants to show you its commitment towards your privacy, it has agreed to disclose its privacy practices. It also has agreed to have TRUSTe review its privacy practices for compliance. 
-
-If you have questions or concerns regarding this statement, you should first contact The Website team by e-mail at the following address: [insuranceonline@icicilombard.com ](mailto:insuranceonline@icicilombard.com)or you can also send a postal query to ICICI Lombard General Insurance Company Limited, 2nd Floor, Zenith House, Keshavrao Khadye Marg, Mahalaxmi, Mumbai-400 034, Tel No.+91 22 2490 6999. 
-
-If you do not receive a response from your inquiry or the inquiry is not addressed to your satisfaction, then you should contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (<http://www.truste.org/consumers/watchdog_complaint.php>). TRUSTe will serve as a liaison to resolve your concerns with the Web site. 
-
-We value you as a customer and respect your right to privacy. In the process of operating the Web Site, we may become aware of information relating to you, including information that is of a confidential nature. We are strongly committed to protecting your privacy online and have taken steps to protect such information. To aid us in protecting your privacy, you should maintain secrecy of your login ID and password, if any, provided to you in connection with your account with www.icicilombard.com 
-
-  
-  
-
-
 Log Files  
   
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
 
-We do not link this automatically collected data to personally identifiable information. IP addresses are tied to personally identifiable information to help us customize your visit to our website so that you like the experience. However, we would like to reiterate that this information is not shared with third parties, except as provided under “ **Disclosure of Information** ” clause. 
+IP addresses are tied to personally identifiable information to help us customize your visit to our website so that you like the experience. However, we would like to reiterate that this information is not shared with third parties, for their promotional purposes, except as provided under “ **Disclosure of Information** ” clause.
 
   
   
 
 
-Use of   
+Use of Cookies  
   
-We store a cookie on your computer when you visit our Web site. A cookie is a tiny piece of information that is required to create and maintain a secure session. Our cookies let you view customized pages while transacting with us. Our cookies do not have confidential or personal information. Since, we use session ID cookies, they do not track a user after leaving our Web site. A session ID cookie expires when you close the browser. It is required if you want to buy a policy online from us. 
+We store a cookie on your computer when you visit our Web site. A cookie is a small text file that is stored on a users computer for record-keeping purposes. The primary purpose of these cookies is to analyze how users move within our Web site. Our cookies let you view customized pages while transacting with us. Our cookies do not have confidential or personally identifiable information. Since, we use session ID cookies, they do not track a user after leaving our Web site. A session ID cookie expires when you close the browser. It is required if you want to buy a policy online from us. We also use analytic tools to track visitor traffic on website. 
 
-The primary purpose of these cookies is to analyze how users move within our Web site. 
+Some of our business partners such as chat support use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by www.icicilombard.com only and does not cover the use of cookies by any third parties. 
+
+  
+  
+
+
+Disclosure of Information  
+  
+Subject to the other terms contained herein, we will not disclose your information to any third parties or affiliates for their promotional purposes, unless acting under a good faith belief that such action is necessary to: | Conform to any statutory or legal requirements or comply with legal process or judicial orders  
+---|---  
+| Protect, enforce and defend our rights or property  
+---|---  
+| Protect our interests or interests of ICICI Bank Group Companies.   
+---|---  
+  
+We may also use your personal information for the purposes of providing you with any services and service-related activities. In this regard, it may be necessary to disclose your personal information to one or more service providers (eg. Third Party Administrators for Cashless Hospitalisation, National Do Not Call Registry for filtering before Call related activities) of ICICI Lombard providing services linked to Insurance sector to fulfill your requests. 
+
+We reserve the right to exchange, share or provide the information relating to your personal and financial details and information with other ICICI Bank Group Companies or Statutory Bodies as required and you will not hold us and/or any other group companies of ICICI Bank Group and their agents liable for use or sharing of the information. 
+
+We obtain your permission to post testimonials which may include your personal information prior to posting on this website. If you would like your testimonial removed, please contact us at: [insuranceonline@icicilombard.com](mailto:insuranceonline@icicilombard.com)
+
+We use service providers to fulfill some of the service requests on this site including live chat, third party administrators for cashless claims and health checkup and motor surveyors for vehicle inspection. We do not share, or sell your personal information to third parties. These service providers are not allowed to use your information for their promotional purposes.
 
   
   
@@ -45,7 +52,7 @@ The primary purpose of these cookies is to analyze how users move within our Web
 
 Security  
   
-The security of your personal information is important to us. When you enter sensitive information such as credit card number on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link [http://wp.netscape.com/security/techbriefs/ssl.html ](http://wp.netscape.com/security/techbriefs/ssl.html)
+The security of your personal information is important to us. When you enter sensitive information such as credit card number on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link <http://wp.netscape.com/eng/ssl3/>
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we do not guarantee its absolute security. 
 
@@ -57,7 +64,18 @@ Links to other sites
   
 The Web Site may contain links to other sites and/or portals on the Internet. While we intend to link only to such sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by such other sites. 
 
-Please be aware that websites that have links from our site may collect personally identifiable information about you. This privacy statement does not cover the information and disclosure practices of those web sites. 
+Please be aware that websites that have links from our site may collect personally identifiable information about you. This privacy statement does not cover the information and disclosure practices of those web sites. When you leave our site, please read the privacy statements of each and every Web site that collects personally identifiable information.
+
+  
+  
+
+
+Changes in this Privacy Statement  
+  
+We reserve the right to modify this privacy statement at any time by posting the same on the Website, so please review it frequently on the Website. If we materially change our privacy practices we will notify you by sending an email or by posting a notice on our web site.
+
+Business transitions  
+In the event ICICI Lombard General Insurance Company Ltd. goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via [email] [prominent notice on our Web site for 30 days] of any such change in ownership or control of your personal information.
 
   
   
@@ -84,21 +102,15 @@ Email: [insuranceonline@icicilombard.com](mailto:insuranceonline@icicilombard.co
 |  |  | Buy Online  
 ---  
 Log in to buy, view, print, and renew your online policies.  
-[New User Click here](http://onlinemanager.icicilombard.com/icici/netproducts/registration.asp?policyno=Deal-079626)  
-Returning User Login here  
-[](http://server.iad.liveperson.net/hc/32440297/?cmd=file&file=visitorWantsToChat&site=32440297&byhref=1&imageUrl=http://www.icicilombard.com/content/images)  
+New User Click here  
+Existing User Login here  
 Contact Us  
-[Meet us in person](https://web.archive.org/app/selfhelp/Meetus.asp)  
-[All India Branches](https://web.archive.org/app/Contact_Us/Branches.asp)  
-[24x7 Call Centers](https://web.archive.org/app/Contact_Us/Call-Centre.asp)  
-[E-mail Us](https://web.archive.org/app/Contact_Us/Email-Us.asp)  
-[Customer Support](https://web.archive.org/app/selfhelp.asp)  
-[](https://web.archive.org/app/PersonalProducts/Motor/Four_wheeler.asp)  
-Insurance Accessories  
+[All India Branches](https://web.archive.org/app/ilom-en/Contact_Us/headoffice.aspx)  
+[24x7 Insurance Helpline](https://web.archive.org/app/ilom-en/Insurance-helpline.aspx)  
+[Customer Support](https://web.archive.org/app/ilom-en/selfhelp.aspx)  
+[](https://web.archive.org/app/ilom-en/personalproducts/Travel/Individual_Overseas/Gold_Plan.aspx)  
+[](https://web.archive.org/app/ilom-en/personalproducts/Health/floater.aspx)  
+Learning Center  
 Enabling better understanding and greater interactivity.  
-[Insurance Classroom](https://web.archive.org/app/Learning.asp)  
-[Know your insurance needs](https://web.archive.org/app/insurance_needs.asp)  
-[Rate our site](https://web.archive.org/app/customer_feedback.asp)  
-Tips Alert   
-Subscribe for free Smart Tips e-mailers and mobile alerts.   
-[](https://web.archive.org/app/Newsletter.asp)
+[Insurance Classroom](https://web.archive.org/app/ilom-en/Learning.aspx)  
+[Rate our site](https://web.archive.org/app/ilom-en/customer_feedback.aspx)
