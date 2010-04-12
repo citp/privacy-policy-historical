@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myoffers.co.uk privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202060248id_/http%3A//www.myoffers.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myoffers.co.uk privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412103135id_/http%3A//www.myoffers.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Competitions: car competition | Daily prize draws | iPod competition | win online today
 
