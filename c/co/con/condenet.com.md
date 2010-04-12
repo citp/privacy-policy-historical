@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the condenet.com privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321085129id_/http%3A//condenet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the condenet.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412154644id_/http%3A//www.condenet.com/privacy.html) for the most accurate reproduction.*
 
-# Condé Nast Digital and Condé Nast Magazines
-
-**Privacy Policy **
+# CondéNet and Condé Nast Magazines
 
 Last revised: December 16, 2008.
 
@@ -10,7 +8,7 @@ Kids and parents click here!
 
 The following Privacy Policy summarizes the various ways that **Condé Nast Digital** ("Service Provider," "we" or "our") treats the information you provide while using **www.condenastdigital.com** ("Website"). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
-Please read this Privacy Policy carefully. You can access the Privacy Policy any time at **[http://www.condenet.com/privacy.html](https://web.archive.org/privacy.html). Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.** If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
+Please read this Privacy Policy carefully. You can access the Privacy Policy any time at **[http://www.condenastdigital.com/privacy.html](https://web.archive.org/privacy.html). Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.** If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
 
 In addition to reviewing this Privacy Policy, please read our [User Agreement](https://web.archive.org/useragreement.html). Your use of the Website constitutes agreement to its terms and conditions as well. 
 
@@ -65,6 +63,6 @@ To be removed from all Condé Nast Digital email lists, [click here](http://www.
 If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows:
 
 > **Privacy Policy Coordinator  
->  CondeNet  
+>  Condé Nast Digital  
 >  1166 Avenue of the Americas, 15th Floor  
 >  New York, NY 10036**
