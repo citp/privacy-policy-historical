@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the screwfix.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410052046id_/http%3A//www.screwfix.com/app/sfd/hlp/main.jsp%3Bjsessionid%3DOMIUE0WLYDGJYCSTHZOCFGA%3Fid%3D/content/help/sfd/privacy.html%26ts%3D72810) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screwfix.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412090518id_/http%3A//www.screwfix.com/app/sfd/hlp/main.jsp%3Bjsessionid%3D052MMDAXCB1HWCSTHZOSFFY%3Fid%3D/content/help/sfd/privacy.html%26ts%3D49748) for the most accurate reproduction.*
 
 # Screwfix.com
+
+### Protecting Your Security
+
+To ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection Act 1998.
+
+Back to the top
 
 ### Information We Collect & How We Use It
 
