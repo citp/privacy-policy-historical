@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkbidscript.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418174932id_/http%3A//www.linkbidscript.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkbidscript.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412165342id_/http%3A//www.linkbidscript.com/privacy.php) for the most accurate reproduction.*
 
 # Link Bid Script – Skin and Templates for LBS
 
