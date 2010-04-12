@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revenews.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619160610id_/http%3A//revenews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenews.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412075425id_/http%3A//www.revenews.com/privacy) for the most accurate reproduction.*
 
 # ReveNews Privacy Policy | ReveNews
 
