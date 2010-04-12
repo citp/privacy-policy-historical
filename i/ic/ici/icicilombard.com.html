@@ -1,186 +1,406 @@
-<!--The following is the downloaded HTML source of the icicilombard.com privacy policy that was archived on 2006-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060629063808id_/http%3A//www.icicilombard.com/app/privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the icicilombard.com privacy policy that was archived on 2010-04-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100412143918id_/http%3A//www.icicilombard.com/app/ilom-en/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html><html><head>
 <title>ICICI Lombard India’s No. 1 private general insurance company - Health Insurance, Travel Insurance, Home Insurance, Motor Insurance</title>
-<meta name="keywords" content="General insurance India, overseas insurance india, health mediclaim india, group mediclaim india, health insurance india, home insurance india, overseas insurance india, students insurance india, motor insurance india, travel insurance india, overseas travel insurance india, NRI insurance india, insurance india, four wheeler insurance, health mediclaim, buy insurance online">
-<meta name="description" content="ICICI Lombard.com - India’s no 1 general insurance company that offers health insurance, travel insurance, home insurance, overseas insurance, students insurance, motor insurance, four wheeler insurance, health mediclaim, shop insurance, Book your insurance online.">
-<meta name="robots">
-<meta name="Googlebot" content="index, follow">
-<link href="/content/common/stylesheet.css" rel="stylesheet" type="text/css">
-<script language="JavaScript" type="text/JavaScript">
-function MM_jumpMenu(targ,selObj,restore){eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");if (restore) selObj.selectedIndex=0;}
+<meta name="keywords" content="General insurance India, overseas insurance india, health mediclaim india, group mediclaim india, health insurance india, home insurance india, overseas insurance india, students insurance india, motor insurance india, travel insurance india, overseas travel insurance india, NRI insurance india, insurance india, four wheeler insurance, health mediclaim, buy insurance online"><meta name="description" content="ICICI Lombard.com - India’s no 1 general insurance company that offers health insurance, travel insurance, home insurance, overseas insurance, students insurance, motor insurance, four wheeler insurance, health mediclaim, shop insurance, Book your insurance online.">
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="verify-v1" content="QWDVpeQCk/f1q/wwOO6XBxzr+Wi8hNGmO4IdEMe8nvA=">
+<!-- *****************************************************
+  Start Analytics Tracking Code
+****************************************************** -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+/*********************************************************
+  Reads cookie.
+*********************************************************/
+function readCookie(cookieName) {
+  var theCookie=""+document.cookie;
+  var ind=theCookie.indexOf(cookieName);
+  if (ind==-1 || cookieName=="") return "";
+  var ind1=theCookie.indexOf(';',ind);
+  if (ind1==-1) ind1=theCookie.length;
+  return unescape(theCookie.substring(ind+cookieName.length+1,ind1));
+}
+
+/*********************************************************
+  Writes cookie.
+  days param, if set to 0, creates session cookie
+*********************************************************/
+function writeCookie(name,value,days) {
+  if (days) {
+    var date = new Date();
+    date.setTime(date.getTime()+(days*24*60*60*1000));
+    var expires = "; expires="+date.toGMTString();
+  }
+  else var expires = "";
+  var c = name+"="+value+expires+"; path=/";
+  if ( DOMAIN_NAME ) c = c + "; domain=" + DOMAIN_NAME;
+  document.cookie = c;
+}
+
+
+/*********************************************************
+  Saves user defined variable to analytics, which can be used in profiles for furthur classification
+  Format: "TransactionType|Source|Medium"
+  E.g: "Health|google|cpc"
+  Also saves value in session cookie.
+  Avoids overwrite pre-existing value - so only set once in session.
+*********************************************************/
+function saveUserDefinedVar() {
+  var savedVal = readCookie("userDefinedVar");
+  var transType = '<%=Session["transType"]%>';
+  //  What-if dynamic value didnt execute?
+  if ( transType.indexOf('Session["transType"]') > 0 ) transType = "";
+  var orgSrc = readCookie("orgSrc");
+  var orgMed = readCookie("orgMed");
+  var newVal = (transType ? transType : "") + "|" +
+               (orgSrc ? orgSrc : "") + "|" +
+               (orgMed ? orgMed : "");
+  if ( newVal != savedVal ) {
+      writeCookie("userDefinedVar", newVal, 0);
+      pageTracker._setVar(newVal);
+  }
+}
+
+
+/*********************************************************
+  Saves original source and medium in cookie
+  If Adwords user - updates source to google and medium to cpc
+*********************************************************/
+function saveOriginalSource() {
+  var orgSrc = readCookie("orgSrc");
+  var orgMed = readCookie("orgMed");
+  var src='', med='';
+  if ( orgSrc == "google" && orgMed == "cpc" ) {
+    //  Dont update google/cpc
+  } else {
+    var url = window.location.href;
+    var arr;
+    //  gclid indicates google/cpc
+    if ( arr = url.match("gclid=([^&]+)") ) {
+      src = "google";
+      med = "cpc";
+    } else {
+      //Checking for utm_souce in url. Also check for utmcsr used in _Link()
+      if (    ( arr = url.match("utm_source=([^&]+)") )  ||
+          ( arr = url.match("utmcsr=([^&\|]+)")   )          ) {
+      src = arr[1];
+    }
+    if (    ( arr = url.match("utm_medium=([^&]+)") )  ||
+        ( arr = url.match("utmcmd=([^&\|]+)")   )          ) {
+      med = arr[1];
+    }
+    }
+    if ( ! src ) {
+      //  Parse source from referring url
+      if ( window.document.referrer ) {
+        var ref = window.document.referrer.toLowerCase();
+        if ( arr = ref.match("//(.+?)/") ) {
+          var domain = arr[1];
+          src = domain;
+          med = "referral";
+          if ( src.indexOf("google") > -1    &&    ref.match("/search\?") ) {
+            src = "google"; med = "organic";
+          }
+        }
+      } else {
+        src = "Direct";
+      }
+    }
+    if ( ! med && src != "Direct") med = "referral";
+
+    //Save cookies
+    if ( src && ( !orgSrc || (src=='google' && med=='cpc') ) ) writeCookie("orgSrc", src, 365*100);
+    if ( med && ( !orgMed || (src=='google' && med=='cpc') ) ) writeCookie("orgMed", med, 365*100);
+  }
+}
+
+try {
+  var DOMAIN_NAME = ".icicilombard.com";
+  var pageTracker = _gat._getTracker("UA-129630-3");
+  pageTracker._setDomainName( DOMAIN_NAME );
+  pageTracker._setAllowHash(false);
+  pageTracker._setAllowLinker(true);
+  saveOriginalSource();
+  pageTracker._trackPageview();
+  saveUserDefinedVar()
+}
+catch(err) {
+  //alert(err)
+}
 </script>
+<!-- *****************************************************
+  End Analytics Tracking Code
+****************************************************** -->
+<link href="/content/ilom-en/favicon.ico" rel="SHORTCUT ICON">
+<link href="/content/ilom-en/common/stylesheet.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/content/ilom-en/common/menu.js"></script>
 <script language="javascript" type="text/JavaScript">
-function CloseWindow(patid,Type){
-if ((window.event.clientX<0) && (window.event.clientY<0)) 
-{	
-wtop = (screen.height - 600)/2
-wleft = (screen.width - 700)/2
-str = "scrollbars=no,width=750,height=420,top=" + wtop + ",left=" + wleft + ",center=yes"
-path = "http://www.icicilombard.com/Content/Policy-Reminder/popUpPolicyReminder.asp"
-win = window.open( path ,"popup", str)		
-}
-}
+function deal(type,product,npdealno){var url;if (document.getDeal.txtDealNo.value =='') {dealno = npdealno;}else {dealno = document.getDeal.txtDealNo.value;} 
+if(type == "CALCULATE") {url = 'https://24x7.icicilombard.com/icici/netproducts/validatedeal.asp?policyno=' + dealno + '&parttype=NP&productcode=' + product + '&viewmode=CALCULATE';}
+if(type == "BUYNOW") {url = 'https://24x7.icicilombard.com/icici/netproducts/validatedeal.asp?policyno=' + dealno + '&parttype=NP&productcode=' + product + '&viewmode=BUY';}
+if(type == "HOMEBUY") {url = 'https://24x7.icicilombard.com/icici/netproducts/validatedeal.asp?policyno=' + dealno + '&parttype=NP&viewmode=BUY';}
+if(type == "EXISTUSER") {url = 'https://24x7.icicilombard.com/icici/netproducts/validatedeal.asp?policyno=' + dealno + '&parttype=NP&type=EXISTUSER';}
+if(type == "NEWUSER") {url = 'https://24x7.icicilombard.com/icici/netproducts/registration.asp?policyno=' + dealno + '&type=NEWUSER';}
+window.open(url,'transaction','toolbar=yes,location=yes,menubar=yes,scrollbars=yes,status=yes,resizable=yes');}
+function CloseWindow(patid,Type){strExist = window.location.search.substring(1).toLowerCase().match("viewtype=hfr");if(strExist==null){if ((window.event.clientX<0) && (window.event.clientY<0)){wtop = (screen.height - 600)/2;wleft =0;str="scrollbars=yes,width=650,height=500,top=" + wtop + ",left=" + wleft + ",center=yes"; path="/app/ilom-en/survey/radio_survey.aspx?viewtype=hrf";win = window.open( path ,"popup", str);}}}
 </script>
-</head>
+<script type="text/javascript" src="/Content/ilom-en/PersonalProducts/Travel/travel-insurance/jquery.min.js"></script>
+<style>.context{font-family:tahoma; font-size:11px; cursor:hand; border-right: 1px solid #CCCCCC; border-bottom: 1px solid #BBBBBB; padding:4px 6px 4px 6px; float:left; background-color:#F1F1F1}</style>
+<script>function hl(o,c) {o.style.backgroundColor = c;}function ItemEdit1(frmObj,frmHeight,id){window.open('/admin/selector_properties.aspx?act='+frmObj+'&id='+id,'','height='+frmHeight+',width=562,top=60,left=100,status=1')}</script><script type="text/javascript" charset="iso-8859-1" src="http://server.iad.liveperson.net/hcp/html/mTag.js?site=32440297"></script></head>
+<body topmargin="0" leftmargin="0" bottommargin="0">
+<script type="text/javascript" src="/Content/ilom-en/website_feedback/modalsalesdemo_adplib.js"></script>
+<div class="U2" id="healthTable" onmouseover="MCH(event, healthMenu);" onclick="MCH(event,healthMenu,true)" border="0" cellspacing="0" cellpadding="3" width="160">
+<div class="copymenu" onmouseover="hl(this,'#FFF');" onmouseout="hl(this,'');" onclick="javascript:document.location.href='/app/ilom-en/PersonalProducts/Health/floater.aspx'">Comprehensive Health Insurance (Family Floater)</div>
+<div class="copymenu" onmouseover="hl(this,'#FFF');" onmouseout="hl(this,'');" onclick="javascript:document.location.href='/app/ilom-en/PersonalProducts/Health/Health-Advantage.aspx'">Health Advantage Plus</div>
+<div class="copymenu" onmouseover="hl(this,'#FFF');" onmouseout="hl(this,'');" onclick="javascript:document.location.href='/app/ilom-en/PersonalProducts/Health/PersonalAccident.aspx'">Personal Accident</div>
+<div class="copymenu" onmouseover="hl(this,'#FFF');" onmouseout="hl(this,'');" onclick="javascript:document.location.href='/app/ilom-en/PersonalProducts/Health/compareplan.aspx'">Compare Plans</div>
+<div class="copymenu" onmouseover="hl(this,'#FFF');" onmouseout="hl(this,'');" onclick="window.open('http://onlinemanager.icicilombard.com/ICICI_Lombard/P10WebAppln/Pages/Products/Main/Health/FF10K/HealthOfflinePolicyRenewelSearch.aspx?DealNo=Deal-081451')">Health Renewal</div>
+<div class="copymenu" onmouseover="hl(this,'#FFF');" onmouseout="hl(this,'');" onclick="javascript:document.location.href='/app/ilom-en/PersonalProducts/Health/Health_Claim.aspx'">Health Claims</div>
+</div><script language="javascript">var healthMenu = new MenuObj("healthMenu", "healthTable", "healthTD", "NewDdtd", "T", "P", "Q","layers","");</script>
 
-<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" onunload="javascript:CloseWindow()">
+<div class="U2" id="motorTable" onmouseover="MCH(event, motorMenu);" onclick="MCH(event,motorMenu,true)" border="0" cellspacing="0" cellpadding="3" width="160">
+<div class="copymenu" onmouseover="hl(this,'#FFF');" onmouseout="hl(this,'');" onclick="javascript:document.location.href='/app/ilom-en/PersonalProducts/Motor/Four_wheeler.aspx'">Car Insurance</div>
+<div class="copymenu" onmouseover="hl(this,'#FFF');" onmouseout="hl(this,'');" onclick="javascript:document.location.href='/app/ilom-en/PersonalProducts/Motor/Two_wheeler.aspx'">Two Wheeler Insurance</div>
+<div class="copymenu" onmouseover="hl(this,'#FFF');" onmouseout="hl(this,'');" onclick="window.open('https://onlinemanager.icicilombard.com/ICICI_Lombard/P10WebAppln/Pages/Products/Main/Motor/FourWheeler/MotorOfflineProductList.aspx')">Motor Renewal</div>
+</div><script language="javascript">var motorMenu = new MenuObj("motorMenu", "motorTable", "motorTD", "NewDdtd", "T", "P", "Q","layers","");</script>
 
-<a name="top"></a>
-<table border="0" width="778" cellspacing="0" cellpadding="0">
-<tbody><tr><td width="311" height="60" bgcolor="#E75910" background="/content/images/common/header_bg.jpg"><a href="/app/default.asp"><img src="/Content/images/insurance_online.gif" alt="ICICI Lombard General Insurance" border="0"></a></td><td width="463" height="60" bgcolor="#E75910" background="/content/images/common/header_bg.jpg">
-<table border="0" width="99%" cellspacing="0" cellpadding="0">
-<tbody><tr><td width="100%" align="right" class="white"><form method="GET" action="/app/search.asp" style="display:inline">Search ICICILombard.com <input type="text" name="srch" size="20" class="formField2"><input type="image" src="/content/images/common/arrow1.gif" align="absmiddle"></form></td></tr>
-<tr><td width="100%" height="2"><img src="/content/common/spacer.gif" width="1" height="6"></td></tr>
-<tr><td width="100%" height="18" align="right" valign="bottom" class="white"><a href="#&quot;" onclick="javascript:window.open('http://onlinemanager.icicilombard.com/icici/netproducts/view_policy.asp?Policyno=Deal-079626&amp;ViewMode=BUY&amp;PartType=NP','','menu=no,scroll=yes,status=yes,resizable=yes,class=blue-text')" class="white">Buy Online</a> | <a href="#&quot;" onclick="javascript:window.open('http://onlinemanager.icicilombard.com/icici/netproducts/view_policy.asp?Policyno=Deal-079626&amp;PartType=NP','','menu=no,scroll=yes,status=yes,resizable=yes,class=blue-text')" class="white">Login</a> | <a href="/app/about_us/why_icici.asp" class="white">About Us</a> | <a href="/app/Contact_Us/Email-Us.asp" class="white">Contact Us</a> | <a href="/app/default.asp" class="white">Home</a></td></tr>
-</tbody></table></td></tr></tbody></table>
-<table border="0" width="778" cellspacing="0" cellpadding="0"><tbody><tr><td height="20" bgcolor="#A11021" width="20%" nowrap=""><a href="/app/default.asp"><img src="/Content/images/header/personal_on.gif" alt="Personal Products" border="0"></a><a href="/app/Businessproducts.asp"><img src="/Content/images/header/business_off.gif" alt="Business Products" border="0"></a><a href="/app/NRIs.asp"><img src="/Content/images/header/nri_off.gif" alt="NRI Services" border="0"></a><a href="/app/Customer-segments/Rural-Insurance.asp"><img src="/Content/images/header/rural_off.gif" alt="RuralInsurance" border="0"></a><a href="/app/selfhelp.asp"><img src="/Content/images/header/customer_sup_off.gif" alt="Customer Support" border="0"></a></td>
-<td height="20" bgcolor="#A11021" width="80%"><table border="0" width="97%" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td class="white">
-<script>var browser = navigator.appName;
-if (browser == "Netscape"){marqueecontents=""; var marqueewidth=640; var marqueeheight=20; var speed=6;
-if (document.all)	document.write('<marquee scrollAmount='+speed+' style="width:'+marqueewidth+'">'+marqueecontents+'</marquee>')
-function regenerate(){window.location.reload();}
-function regenerate2(){if (document.layers){setTimeout("window.onresize=regenerate",450); intializemarquee();}}
-function intializemarquee(){document.cmarquee01.document.cmarquee02.document.write('<nobr>'+marqueecontents+'</nobr>'); document.cmarquee01.document.cmarquee02.document.close(); thelength=document.cmarquee01.document.cmarquee02.document.width; scrollit();}
-function scrollit(){if (document.cmarquee01.document.cmarquee02.left>=thelength*(-1)){document.cmarquee01.document.cmarquee02.left-=speed; setTimeout("scrollit()",100);} else{document.cmarquee01.document.cmarquee02.left=marqueewidth; scrollit(); }}window.onload=regenerate2;} else{document.write("<marquee id=marquee onMouseover='marquee.stop();' onMouseout='marquee.start();' truespeed=1 scrolldelay='30' scrollamount=1></marquee>");}
-</script>
-</td></tr></tbody></table>
-</td></tr><tr><td width="776" height="1" bgcolor="#FFFFFF" colspan="2"></td></tr></tbody></table>
-<table border="0" width="778" cellspacing="0" cellpadding="0">
-<tbody><tr><td width="777" height="27" bgcolor="#ffffff" background="/content/Images/common/tab_back.gif"></td><!--<td bgcolor="#A51021" width="1"><img src="" width="1" height="1"><img src="/content/common/spacer.gif" width="1" height="1"></td>--> </tr>
+<div class="U2" id="overseastravelTable" onmouseover="MCH(event, overseastravelMenu);" onclick="MCH(event,overseastravelMenu,true)" border="0" cellspacing="0" cellpadding="3" width="160">
+<div class="copymenu" onmouseover="hl(this,'#FFF');" onmouseout="hl(this,'');" onclick="javascript:document.location.href='/app/ilom-en/PersonalProducts/Travel/Individual_Overseas/Gold_Plan.aspx'">Individual Overseas Travel</div>
+<div class="copymenu" onmouseover="hl(this,'#FFF');" onmouseout="hl(this,'');" onclick="javascript:document.location.href='/app/ilom-en/PersonalProducts/Travel/Individual_Overseas/SeniorCitizen-Plan.aspx'">Senior Citizen Plan</div>
+<div class="copymenu" onmouseover="hl(this,'#FFF');" onmouseout="hl(this,'');" onclick="javascript:document.location.href='/app/ilom-en/PersonalProducts/Travel/Individual_Overseas/Multi-Trip.aspx'">Annual Multi Trip Insurance</div>
+<div class="copymenu" onmouseover="hl(this,'#FFF');" onmouseout="hl(this,'');" onclick="javascript:document.location.href='/app/ilom-en/PersonalProducts/Travel/Individual_Overseas/Compare_Plans.aspx'">Compare Plans</div>
+<div class="copymenu" onmouseover="hl(this,'#FFF');" onmouseout="hl(this,'');" onclick="javascript:document.location.href='/app/ilom-en/personalproducts/Travel/Guide.aspx'">Travel Guide</div>
+</div><script language="javascript">var overseastravelMenu = new MenuObj("overseastravelMenu", "overseastravelTable", "overseastravelTD", "NewDdtd", "T", "P", "Q","layers","");</script>
 
-<!--<tr><td width="100%" bgcolor="#A51021" height="1" colspan="2"><img src="/content/common/spacer.gif" width="1" height="1"></td></tr>--><tr><td width="100%" height="5" colspan="2"></td></tr></tbody></table>
+<div class="U2" id="studentTable" onmouseover="MCH(event, studentMenu);" onclick="MCH(event,studentMenu,true)" border="0" cellspacing="0" cellpadding="3" width="160">
+<div class="copymenu" onmouseover="hl(this,'#FFF');" onmouseout="hl(this,'');" onclick="javascript:document.location.href='/app/ilom-en/PersonalProducts/Travel/Student/Plus_Plan.aspx'">Plus Plan</div>
+<div class="copymenu" onmouseover="hl(this,'#FFF');" onmouseout="hl(this,'');" onclick="javascript:document.location.href='/app/ilom-en/PersonalProducts/Travel/Student/Gold_Plan.aspx'">Gold Plan</div>
+<div class="copymenu" onmouseover="hl(this,'#FFF');" onmouseout="hl(this,'');" onclick="javascript:document.location.href='/app/ilom-en/PersonalProducts/Travel/Student/Bronze_Plan.aspx'">Bronze Plan</div>
+<div class="copymenu" onmouseover="hl(this,'#FFF');" onmouseout="hl(this,'');" onclick="javascript:document.location.href='/app/ilom-en/PersonalProducts/Travel/student/Student-travel.aspx'">Find Your University</div>
+<div class="copymenu" onmouseover="hl(this,'#FFF');" onmouseout="hl(this,'');" onclick="javascript:document.location.href='/app/ilom-en/PersonalProducts/Travel/Student/comparePlan.aspx'">Compare Plans</div>
+</div><script language="javascript">var studentMenu = new MenuObj("studentMenu", "studentTable", "studentTD", "NewDdtd", "T", "P", "Q","layers","");</script>
 
-<script language="JavaScript" src="/common/menuover.js" type="text/javascript"></script>
-<span id="headerJavaScript"><script language="javascript">
-function ShowDiv(){ for(i=0;i<5;i++) {eval("document.getElementById('hel" + i + "').style.visibility='visible'"); } } 
-addmenu(menu=["mainmenu",Dhtmltoppos,5,,,,mainmenu_style,1,,,,1,,,,,,,,,,,"<nobr>Health Insurance</nobr>&nbsp;","show-menu=40","/app/Personalproducts/Health.asp",,1,"&nbsp;<nobr>Home Insurance</nobr>&nbsp;","/app/PersonalProducts/Home/Silver_plan.asp",,,1,"&nbsp;<nobr>Motor Insurance</nobr>&nbsp;","show-menu=21854","/app/Personalproducts/Motor.asp",,1,"&nbsp;<nobr>Overseas Travel Insurance</nobr>&nbsp;","show-menu=21856","/app/PersonalProducts/Travel/Individual_Overseas.asp",,1,"&nbsp;<nobr>Student Medical Insurance</nobr>&nbsp;","show-menu=42","/app/PersonalProducts/Travel/Student.asp",,1]);
-addmenu(menu=["40",,,150,1,,submenu_style,,,effect,,,,,,,,,,,, ,"10K Tax Saver Plan","/app/Personalproducts/Health/10KTax.asp",,,1,"Family Floater Plan","/app/PersonalProducts/Health/floater.asp",,,1]);
-addmenu(menu=["21854",,,150,1,,submenu_style,,,effect,,,,,,,,,,,, ,"Car Insurance","/app/PersonalProducts/Motor/Four_wheeler.asp",,,1,"Two Wheeler Insurance","/app/PersonalProducts/Motor/Two_wheeler.asp",,,1]);
-addmenu(menu=["21856",,,150,1,,submenu_style,,,effect,,,,,,,,,,,, ,"Platinum Plan","/app/PersonalProducts/Travel/Individual_Overseas/Platinum_Plan.asp",,,1,"Gold Plan","/app/PersonalProducts/Travel/Individual_Overseas/Gold_Plan.asp",,,1,"Silver Plan ","/app/PersonalProducts/Travel/Individual_Overseas/Silver_Plan.asp",,,1,"Senior Citizen Plan","/app/PersonalProducts/Travel/Individual_Overseas/SeniorCitizen-Plan.asp",,,1,"Compare Plans","/app/PersonalProducts/Travel/Individual_Overseas/Compare_Plans.asp",,,1]);
-addmenu(menu=["42",,,150,1,,submenu_style,,,effect,,,,,,,,,,,, ,"Plus Plan","/app/PersonalProducts/Travel/Student/Plus_Plan.asp",,,1,"Gold Plan","/app/PersonalProducts/Travel/Student/Gold_Plan.asp",,,1,"Silver Plan","/app/PersonalProducts/Travel/Student/Silver_Plan.asp",,,1,"Bronze Plan","/app/PersonalProducts/Travel/Student/Bronze_Plan.asp",,,1,"Compare Plans","/app/PersonalProducts/Travel/Student/comparePlan.asp",,,1]);
-dumpmenus(); var currentElementId='el';
-</script><script language="javascript"> menu1=menus[1]; menu2=menus[2]; menu3=menus[3]; menu4=menus[4]; menu5=menus[5];</script></span>
-<script language="JavaScript" src="/common/menu.js"></script><div tabindex="1" id="menu1" style="z-index: 21; visibility: visible; border: 0px solid rgb(164, 28, 43); position: absolute; left: 5px; top: 82px; width: 590px; height: 26px;"><div id="hel0" style="visibility: visible; text-align: left; position: absolute; top: 0px; left: 0px; width: 98px; height: 26px;"><a id="lnk0" href="/app/Personalproducts/Health.asp" style="text-decoration:none;"><div id="el0" style="margin:0px;text-align:left;;padding:7px 7px 7px 7px ;font-weight:bold;font-style:normal;font-family:Tahoma;font-size:11px;color:#AF2A21;background:;" onmouseover=";this.style.background='#FFF7EB';style.color='#AF2A21';this.style.cursor='pointer';ShM=1;; popi('show-menu=40','menu1',0);;;return stch('/app/Personalproducts/Health.asp');" onmouseout="rep_img(); popdn(this,0, 'menu1', 'show-menu=40', '', '#AF2A21', '');;; return stch('');"><nobr>Health Insurance</nobr>&nbsp;</div></a><div style=";top:0;position:absolute;"><div onmouseover="clearTimeout(Mtimer)" id="hsep0" style="position: absolute; background: rgb(164, 28, 43); width: 1px; height: 26px; left: 98px;">
-</div>
-</div></div><div id="hel1" style="visibility: visible; text-align: left; position: absolute; top: 0px; width: 97px; height: 26px; left: 99px;"><a id="lnk1" href="/app/PersonalProducts/Home/Silver_plan.asp" style="text-decoration:none;"><div id="el1" style="margin:0px;text-align:left;;padding:7px 7px 7px 7px ;font-weight:bold;font-style:normal;font-family:Tahoma;font-size:11px;color:#AF2A21;background:;" onmouseover=";this.style.background='#FFF7EB';style.color='#AF2A21';this.style.cursor='pointer';ShM=1;; popi('/app/PersonalProducts/Home/Silver_plan.asp','menu1',1);;;return stch('/app/PersonalProducts/Home/Silver_plan.asp');" onmouseout="rep_img(); popdn(this,1, 'menu1', '/app/PersonalProducts/Home/Silver_plan.asp', '', '#AF2A21', '');;; return stch('');">&nbsp;<nobr>Home Insurance</nobr>&nbsp;</div></a><div style=";top:0;position:absolute;"><div onmouseover="clearTimeout(Mtimer)" id="hsep1" style="position: absolute; background: rgb(164, 28, 43); width: 1px; height: 26px; left: 97px;">
-</div>
-</div></div><div id="hel2" style="visibility: visible; text-align: left; position: absolute; top: 0px; width: 99px; height: 26px; left: 197px;"><a id="lnk2" href="/app/Personalproducts/Motor.asp" style="text-decoration:none;"><div id="el2" style="margin:0px;text-align:left;;padding:7px 7px 7px 7px ;font-weight:bold;font-style:normal;font-family:Tahoma;font-size:11px;color:#AF2A21;background:;" onmouseover=";this.style.background='#FFF7EB';style.color='#AF2A21';this.style.cursor='pointer';ShM=1;; popi('show-menu=21854','menu1',2);;;return stch('/app/Personalproducts/Motor.asp');" onmouseout="rep_img(); popdn(this,2, 'menu1', 'show-menu=21854', '', '#AF2A21', '');;; return stch('');">&nbsp;<nobr>Motor Insurance</nobr>&nbsp;</div></a><div style=";top:0;position:absolute;"><div onmouseover="clearTimeout(Mtimer)" id="hsep2" style="position: absolute; background: rgb(164, 28, 43); width: 1px; height: 26px; left: 99px;">
-</div>
-</div></div><div id="hel3" style="visibility: visible; text-align: left; position: absolute; top: 0px; width: 145px; height: 26px; left: 297px;"><a id="lnk3" href="/app/PersonalProducts/Travel/Individual_Overseas.asp" style="text-decoration:none;"><div id="el3" style="margin:0px;text-align:left;;padding:7px 7px 7px 7px ;font-weight:bold;font-style:normal;font-family:Tahoma;font-size:11px;color:#AF2A21;background:;" onmouseover=";this.style.background='#FFF7EB';style.color='#AF2A21';this.style.cursor='pointer';ShM=1;; popi('show-menu=21856','menu1',3);;;return stch('/app/PersonalProducts/Travel/Individual_Overseas.asp');" onmouseout="rep_img(); popdn(this,3, 'menu1', 'show-menu=21856', '', '#AF2A21', '');;; return stch('');">&nbsp;<nobr>Overseas Travel Insurance</nobr>&nbsp;</div></a><div style=";top:0;position:absolute;"><div onmouseover="clearTimeout(Mtimer)" id="hsep3" style="position: absolute; background: rgb(164, 28, 43); width: 1px; height: 26px; left: 145px;">
-</div>
-</div></div><div id="hel4" style="visibility: visible; text-align: left; position: absolute; top: 0px; width: 147px; height: 26px; left: 443px;"><a id="lnk4" href="/app/PersonalProducts/Travel/Student.asp" style="text-decoration:none;"><div id="el4" style="margin:0px;text-align:left;;padding:7px 7px 7px 7px ;font-weight:bold;font-style:normal;font-family:Tahoma;font-size:11px;color:#AF2A21;background:;" onmouseover=";this.style.background='#FFF7EB';style.color='#AF2A21';this.style.cursor='pointer';ShM=1;; popi('show-menu=42','menu1',4);;;return stch('/app/PersonalProducts/Travel/Student.asp');" onmouseout="rep_img(); popdn(this,4, 'menu1', 'show-menu=42', '', '#AF2A21', '');;; return stch('');">&nbsp;<nobr>Student Medical Insurance</nobr>&nbsp;</div></a><div style=";top:0;position:absolute;"><div onmouseover="clearTimeout(Mtimer)" id="hsep4" style="position: absolute; background: rgb(164, 28, 43); width: 0px; height: 0px; left: 0px;">
-</div>
-</div></div></div>
-<div tabindex="1" id="menu2" style=";z-index:19;visibility:hidden; border:solid 1px #CCCCCC;position:absolute;background:#FFF7EB;width:150px;left:0px;top:undefinedpx;"><a id="lnk5" href="/app/Personalproducts/Health/10KTax.asp" style="text-decoration:none;"><div id="el5" style="margin:0px;text-align:left;width:136px;padding:6px 6px 6px 6px ;font-weight:normal;font-style:normal;font-family:Tahoma,Arial;font-size:11px;color:#AF2A21;background:#FFF7EB;" onmouseover=";this.style.background='#ffffff';style.color='#AF2A21';this.style.cursor='pointer';ShM=1;; popi('/app/Personalproducts/Health/10KTax.asp','menu2',5);;;return stch('/app/Personalproducts/Health/10KTax.asp');" onmouseout="rep_img(); popdn(this,5, 'menu2', '/app/Personalproducts/Health/10KTax.asp', '#FFF7EB', '#AF2A21', '');;; return stch('');">10K Tax Saver Plan</div></a><div style="text-align:left;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="left:0;background:#CCCCCC;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a id="lnk6" href="/app/PersonalProducts/Health/floater.asp" style="text-decoration:none;"><div id="el6" style="margin:0px;text-align:left;width:136px;padding:6px 6px 6px 6px ;font-weight:normal;font-style:normal;font-family:Tahoma,Arial;font-size:11px;color:#AF2A21;background:#FFF7EB;" onmouseover=";this.style.background='#ffffff';style.color='#AF2A21';this.style.cursor='pointer';ShM=1;; popi('/app/PersonalProducts/Health/floater.asp','menu2',6);;;return stch('/app/PersonalProducts/Health/floater.asp');" onmouseout="rep_img(); popdn(this,6, 'menu2', '/app/PersonalProducts/Health/floater.asp', '#FFF7EB', '#AF2A21', '');;; return stch('');">Family Floater Plan</div></a></div>
-<div tabindex="1" id="menu3" style=";z-index:19;visibility:hidden; border:solid 1px #CCCCCC;position:absolute;background:#FFF7EB;width:150px;left:0px;top:undefinedpx;"><a id="lnk7" href="/app/PersonalProducts/Motor/Four_wheeler.asp" style="text-decoration:none;"><div id="el7" style="margin:0px;text-align:left;width:136px;padding:6px 6px 6px 6px ;font-weight:normal;font-style:normal;font-family:Tahoma,Arial;font-size:11px;color:#AF2A21;background:#FFF7EB;" onmouseover=";this.style.background='#ffffff';style.color='#AF2A21';this.style.cursor='pointer';ShM=1;; popi('/app/PersonalProducts/Motor/Four_wheeler.asp','menu3',7);;;return stch('/app/PersonalProducts/Motor/Four_wheeler.asp');" onmouseout="rep_img(); popdn(this,7, 'menu3', '/app/PersonalProducts/Motor/Four_wheeler.asp', '#FFF7EB', '#AF2A21', '');;; return stch('');">Car Insurance</div></a><div style="text-align:left;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="left:0;background:#CCCCCC;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a id="lnk8" href="/app/PersonalProducts/Motor/Two_wheeler.asp" style="text-decoration:none;"><div id="el8" style="margin:0px;text-align:left;width:136px;padding:6px 6px 6px 6px ;font-weight:normal;font-style:normal;font-family:Tahoma,Arial;font-size:11px;color:#AF2A21;background:#FFF7EB;" onmouseover=";this.style.background='#ffffff';style.color='#AF2A21';this.style.cursor='pointer';ShM=1;; popi('/app/PersonalProducts/Motor/Two_wheeler.asp','menu3',8);;;return stch('/app/PersonalProducts/Motor/Two_wheeler.asp');" onmouseout="rep_img(); popdn(this,8, 'menu3', '/app/PersonalProducts/Motor/Two_wheeler.asp', '#FFF7EB', '#AF2A21', '');;; return stch('');">Two Wheeler Insurance</div></a></div>
-<div tabindex="1" id="menu4" style=";z-index:19;visibility:hidden; border:solid 1px #CCCCCC;position:absolute;background:#FFF7EB;width:150px;left:0px;top:undefinedpx;"><a id="lnk9" href="/app/PersonalProducts/Travel/Individual_Overseas/Platinum_Plan.asp" style="text-decoration:none;"><div id="el9" style="margin:0px;text-align:left;width:136px;padding:6px 6px 6px 6px ;font-weight:normal;font-style:normal;font-family:Tahoma,Arial;font-size:11px;color:#AF2A21;background:#FFF7EB;" onmouseover=";this.style.background='#ffffff';style.color='#AF2A21';this.style.cursor='pointer';ShM=1;; popi('/app/PersonalProducts/Travel/Individual_Overseas/Platinum_Plan.asp','menu4',9);;;return stch('/app/PersonalProducts/Travel/Individual_Overseas/Platinum_Plan.asp');" onmouseout="rep_img(); popdn(this,9, 'menu4', '/app/PersonalProducts/Travel/Individual_Overseas/Platinum_Plan.asp', '#FFF7EB', '#AF2A21', '');;; return stch('');">Platinum Plan</div></a><div style="text-align:left;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="left:0;background:#CCCCCC;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a id="lnk10" href="/app/PersonalProducts/Travel/Individual_Overseas/Gold_Plan.asp" style="text-decoration:none;"><div id="el10" style="margin:0px;text-align:left;width:136px;padding:6px 6px 6px 6px ;font-weight:normal;font-style:normal;font-family:Tahoma,Arial;font-size:11px;color:#AF2A21;background:#FFF7EB;" onmouseover=";this.style.background='#ffffff';style.color='#AF2A21';this.style.cursor='pointer';ShM=1;; popi('/app/PersonalProducts/Travel/Individual_Overseas/Gold_Plan.asp','menu4',10);;;return stch('/app/PersonalProducts/Travel/Individual_Overseas/Gold_Plan.asp');" onmouseout="rep_img(); popdn(this,10, 'menu4', '/app/PersonalProducts/Travel/Individual_Overseas/Gold_Plan.asp', '#FFF7EB', '#AF2A21', '');;; return stch('');">Gold Plan</div></a><div style="text-align:left;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="left:0;background:#CCCCCC;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a id="lnk11" href="/app/PersonalProducts/Travel/Individual_Overseas/Silver_Plan.asp" style="text-decoration:none;"><div id="el11" style="margin:0px;text-align:left;width:136px;padding:6px 6px 6px 6px ;font-weight:normal;font-style:normal;font-family:Tahoma,Arial;font-size:11px;color:#AF2A21;background:#FFF7EB;" onmouseover=";this.style.background='#ffffff';style.color='#AF2A21';this.style.cursor='pointer';ShM=1;; popi('/app/PersonalProducts/Travel/Individual_Overseas/Silver_Plan.asp','menu4',11);;;return stch('/app/PersonalProducts/Travel/Individual_Overseas/Silver_Plan.asp');" onmouseout="rep_img(); popdn(this,11, 'menu4', '/app/PersonalProducts/Travel/Individual_Overseas/Silver_Plan.asp', '#FFF7EB', '#AF2A21', '');;; return stch('');">Silver Plan </div></a><div style="text-align:left;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="left:0;background:#CCCCCC;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a id="lnk12" href="/app/PersonalProducts/Travel/Individual_Overseas/SeniorCitizen-Plan.asp" style="text-decoration:none;"><div id="el12" style="margin:0px;text-align:left;width:136px;padding:6px 6px 6px 6px ;font-weight:normal;font-style:normal;font-family:Tahoma,Arial;font-size:11px;color:#AF2A21;background:#FFF7EB;" onmouseover=";this.style.background='#ffffff';style.color='#AF2A21';this.style.cursor='pointer';ShM=1;; popi('/app/PersonalProducts/Travel/Individual_Overseas/SeniorCitizen-Plan.asp','menu4',12);;;return stch('/app/PersonalProducts/Travel/Individual_Overseas/SeniorCitizen-Plan.asp');" onmouseout="rep_img(); popdn(this,12, 'menu4', '/app/PersonalProducts/Travel/Individual_Overseas/SeniorCitizen-Plan.asp', '#FFF7EB', '#AF2A21', '');;; return stch('');">Senior Citizen Plan</div></a><div style="text-align:left;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="left:0;background:#CCCCCC;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a id="lnk13" href="/app/PersonalProducts/Travel/Individual_Overseas/Compare_Plans.asp" style="text-decoration:none;"><div id="el13" style="margin:0px;text-align:left;width:136px;padding:6px 6px 6px 6px ;font-weight:normal;font-style:normal;font-family:Tahoma,Arial;font-size:11px;color:#AF2A21;background:#FFF7EB;" onmouseover=";this.style.background='#ffffff';style.color='#AF2A21';this.style.cursor='pointer';ShM=1;; popi('/app/PersonalProducts/Travel/Individual_Overseas/Compare_Plans.asp','menu4',13);;;return stch('/app/PersonalProducts/Travel/Individual_Overseas/Compare_Plans.asp');" onmouseout="rep_img(); popdn(this,13, 'menu4', '/app/PersonalProducts/Travel/Individual_Overseas/Compare_Plans.asp', '#FFF7EB', '#AF2A21', '');;; return stch('');">Compare Plans</div></a></div>
-<div tabindex="1" id="menu5" style=";z-index:19;visibility:hidden; border:solid 1px #CCCCCC;position:absolute;background:#FFF7EB;width:150px;left:0px;top:undefinedpx;"><a id="lnk14" href="/app/PersonalProducts/Travel/Student/Plus_Plan.asp" style="text-decoration:none;"><div id="el14" style="margin:0px;text-align:left;width:136px;padding:6px 6px 6px 6px ;font-weight:normal;font-style:normal;font-family:Tahoma,Arial;font-size:11px;color:#AF2A21;background:#FFF7EB;" onmouseover=";this.style.background='#ffffff';style.color='#AF2A21';this.style.cursor='pointer';ShM=1;; popi('/app/PersonalProducts/Travel/Student/Plus_Plan.asp','menu5',14);;;return stch('/app/PersonalProducts/Travel/Student/Plus_Plan.asp');" onmouseout="rep_img(); popdn(this,14, 'menu5', '/app/PersonalProducts/Travel/Student/Plus_Plan.asp', '#FFF7EB', '#AF2A21', '');;; return stch('');">Plus Plan</div></a><div style="text-align:left;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="left:0;background:#CCCCCC;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a id="lnk15" href="/app/PersonalProducts/Travel/Student/Gold_Plan.asp" style="text-decoration:none;"><div id="el15" style="margin:0px;text-align:left;width:136px;padding:6px 6px 6px 6px ;font-weight:normal;font-style:normal;font-family:Tahoma,Arial;font-size:11px;color:#AF2A21;background:#FFF7EB;" onmouseover=";this.style.background='#ffffff';style.color='#AF2A21';this.style.cursor='pointer';ShM=1;; popi('/app/PersonalProducts/Travel/Student/Gold_Plan.asp','menu5',15);;;return stch('/app/PersonalProducts/Travel/Student/Gold_Plan.asp');" onmouseout="rep_img(); popdn(this,15, 'menu5', '/app/PersonalProducts/Travel/Student/Gold_Plan.asp', '#FFF7EB', '#AF2A21', '');;; return stch('');">Gold Plan</div></a><div style="text-align:left;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="left:0;background:#CCCCCC;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a id="lnk16" href="/app/PersonalProducts/Travel/Student/Silver_Plan.asp" style="text-decoration:none;"><div id="el16" style="margin:0px;text-align:left;width:136px;padding:6px 6px 6px 6px ;font-weight:normal;font-style:normal;font-family:Tahoma,Arial;font-size:11px;color:#AF2A21;background:#FFF7EB;" onmouseover=";this.style.background='#ffffff';style.color='#AF2A21';this.style.cursor='pointer';ShM=1;; popi('/app/PersonalProducts/Travel/Student/Silver_Plan.asp','menu5',16);;;return stch('/app/PersonalProducts/Travel/Student/Silver_Plan.asp');" onmouseout="rep_img(); popdn(this,16, 'menu5', '/app/PersonalProducts/Travel/Student/Silver_Plan.asp', '#FFF7EB', '#AF2A21', '');;; return stch('');">Silver Plan</div></a><div style="text-align:left;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="left:0;background:#CCCCCC;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a id="lnk17" href="/app/PersonalProducts/Travel/Student/Bronze_Plan.asp" style="text-decoration:none;"><div id="el17" style="margin:0px;text-align:left;width:136px;padding:6px 6px 6px 6px ;font-weight:normal;font-style:normal;font-family:Tahoma,Arial;font-size:11px;color:#AF2A21;background:#FFF7EB;" onmouseover=";this.style.background='#ffffff';style.color='#AF2A21';this.style.cursor='pointer';ShM=1;; popi('/app/PersonalProducts/Travel/Student/Bronze_Plan.asp','menu5',17);;;return stch('/app/PersonalProducts/Travel/Student/Bronze_Plan.asp');" onmouseout="rep_img(); popdn(this,17, 'menu5', '/app/PersonalProducts/Travel/Student/Bronze_Plan.asp', '#FFF7EB', '#AF2A21', '');;; return stch('');">Bronze Plan</div></a><div style="text-align:left;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="left:0;background:#CCCCCC;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a id="lnk18" href="/app/PersonalProducts/Travel/Student/comparePlan.asp" style="text-decoration:none;"><div id="el18" style="margin:0px;text-align:left;width:136px;padding:6px 6px 6px 6px ;font-weight:normal;font-style:normal;font-family:Tahoma,Arial;font-size:11px;color:#AF2A21;background:#FFF7EB;" onmouseover=";this.style.background='#ffffff';style.color='#AF2A21';this.style.cursor='pointer';ShM=1;; popi('/app/PersonalProducts/Travel/Student/comparePlan.asp','menu5',18);;;return stch('/app/PersonalProducts/Travel/Student/comparePlan.asp');" onmouseout="rep_img(); popdn(this,18, 'menu5', '/app/PersonalProducts/Travel/Student/comparePlan.asp', '#FFF7EB', '#AF2A21', '');;; return stch('');">Compare Plans</div></a></div>
-    
-<script language="JavaScript">ShowDiv();</script>
+<div class="U2" id="domesticTable" onmouseover="MCH(event, domesticMenu);" onclick="MCH(event,domesticMenu,true)" border="0" cellspacing="0" cellpadding="3" width="160">
+<div class="copymenu" onmouseover="hl(this,'#FFF');" onmouseout="hl(this,'');" onclick="javascript:document.location.href='/app/ilom-en/ezeego.aspx'">Ezeego 1 Customers</div>
+<div class="copymenu" onmouseover="hl(this,'#FFF');" onmouseout="hl(this,'');" onclick="javascript:document.location.href='/app/ilom-en/JetAirways.aspx'">Jet Airways Customers</div>
+<div class="copymenu" onmouseover="hl(this,'#FFF');" onmouseout="hl(this,'');" onclick="javascript:document.location.href='/app/ilom-en/kingfisher.aspx'">Kingfisher Customers</div>
+</div><script language="javascript">var domesticMenu = new MenuObj("domesticMenu", "domesticTable", "domesticTD", "NewDdtd", "T", "P", "Q","layers","");</script><script type="text/javascript">var addthis_pub = 'rnelsonf';</script><script type="text/javascript" src="http://s9.addthis.com/js/widget.php?v=10"></script>  <style type="text/css">
+<!--
+body {margin-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;}
+.separator{width:1px;background-color:#eb922c;}
+.menuItems{padding:3px 10px 3px 10px;}
+.menuLinks{color:#FFFFFF;text-decoration:none;}
+.subMenu{background-color:#FDF1D1;}
+.subMenuLinks{font-family:arial;font-size:11px;text-decoration:none;color:#000000;}
+.menuItemSelected{padding:3px 3px 0px 3px; color:#000000;}
+-->
+</style>
+<link rel="stylesheet" type="text/css" href="/Content/ilom-en/images/header/anylinkcssmenu.css">
+<script type="text/javascript" src="/Content/ilom-en/images/header/anylinkcssmenu.js"></script>
+<script type="text/javascript">anylinkcssmenu.init("anchorclass")</script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr><td colspan="2" style="background-image:url(/Content/ilom-en/images/header/topbg.jpg);height:100px;vertical-align:top;"><a href="/app/ilom-en/default.aspx"><img src="/Content/ilom-en/images/header/insurance_online.gif" alt="ICICI Lombard General Insurance Company Limited" border="0"></a>
+	<div style="position:absolute; width:397px; left: 332px; top: 0px;text-align:center;">
+		<div style="background-image:url(/Content/ilom-en/images/header/mnbtL.gif);width:7px;height:22px;float:left;margin-left:2px;"> </div><div style="background-image:url(/Content/ilom-en/images/header/mnbtM.gif);height:22px;float:left;text-align:center;vertical-align:middle;padding:0px 3px 0px 3px;"><a href="/app/ilom-en/NRIs.aspx" style="font-family:arial;font-size:11px;color:#FFFFFF;text-decoration:none;font-weight:bold;">NRI Services</a></div><div style="background-image:url(/Content/ilom-en/images/header/mnbtR.gif);width:7px;height:22px;float:left;"> </div>
+		<div style="background-image:url(/Content/ilom-en/images/header/mnbtL.gif);width:7px;height:22px;float:left;margin-left:2px;"> </div><div style="background-image:url(/Content/ilom-en/images/header/mnbtM.gif);height:22px;float:left;text-align:center;vertical-align:middle;padding:0px 3px 0px 3px;"><a href="/app/ilom-en/Businessproducts.aspx" style="font-family:arial;font-size:11px;color:#FFFFFF;text-decoration:none;font-weight:bold;">Business  Insurance</a></div><div style="background-image:url(/Content/ilom-en/images/header/mnbtR.gif);width:7px;height:22px;float:left;"> </div>
+		<div style="background-image:url(/Content/ilom-en/images/header/mnbtL.gif);width:7px;height:22px;float:left;margin-left:2px;"> </div><div style="background-image:url(/Content/ilom-en/images/header/mnbtM.gif);height:22px;float:left;text-align:center;vertical-align:middle;"><a href="/app/ilom-en/Customer-segments/Rural-Insurance.aspx" style="font-family:arial;font-size:11px;color:#FFFFFF;text-decoration:none;font-weight:bold;padding:0px 3px 0px 3px;">Rural Insurance</a></div><div style="background-image:url(/Content/ilom-en/images/header/mnbtR.gif);width:7px;height:22px;float:left;"> </div> 
+		<div style="background-image:url(/Content/ilom-en/images/header/mnbtL.gif);width:7px;height:22px;float:left;margin-left:2px;"> </div><div style="background-image:url(/Content/ilom-en/images/header/mnbtM.gif);height:22px;float:left;text-align:center;vertical-align:middle;padding:0px 3px 0px 3px;"><a href="/app/ilom-en/agents-insurance.aspx" style="font-family:arial;font-size:11px;color:#FFFFFF;text-decoration:none;font-weight:bold;">Agents</a></div><div style="background-image:url(/Content/ilom-en/images/header/mnbtR.gif);width:7px;height:22px;float:left;"> </div>
+	</div>
+</td></tr>
+  <tr>
+    <td width="77%" style="background-image:url(/Content/ilom-en/images/header/topnavbg.jpg);height:30px;vertical-align:top;"><table border="0" cellspacing="0" cellpadding="0" style="font-family:arial;font-size:12px;color:#ffffff;font-weight:bold;">
+      <tbody><tr>
+        <td valign="top" class="menuItems"> </td>
+        <td class="menuItems"><a href="/app/ilom-en/default.aspx" style="color:#FFFFFF;text-decoration:none;">Home</a></td>
+        <td class="separator"></td>
+        <td class="menuItems"><a href="/app/ilom-en/PersonalProducts/Health/floater.aspx" class="anchorclass myownclass" rel="submenu1" style="color:#FFFFFF;text-decoration:none;">Health<br>
+          Insurance <img src="/Content/ilom-en/images/header/drop.gif" width="7" height="5" border="0"></a></td>
+        <td class="separator"></td>
+        <td class="menuItems"><a href="/app/ilom-en/PersonalProducts/Travel/Individual_Overseas/Gold_Plan.aspx" class="anchorclass myownclass" rel="submenu2" style="color:#FFFFFF;text-decoration:none;">Travel<br>
+          Insurance <img src="/Content/ilom-en/images/header/drop.gif" width="7" height="5" border="0"></a></td>
+        <td class="separator"></td>
+        <td class="menuItems"><a href="/app/ilom-en/PersonalProducts/Motor/Four_wheeler.aspx" class="anchorclass myownclass" rel="submenu3" style="color:#FFFFFF;text-decoration:none;">Motor<br>
+          Insurance <img src="/Content/ilom-en/images/header/drop.gif" width="7" height="5" border="0"></a></td>
+         <td class="separator"></td>
+        <td class="menuItems"><a href="/app/ilom-en/PersonalProducts/Travel/Student/Gold_Plan.aspx" class="anchorclass myownclass" rel="submenu4" style="color:#FFFFFF;text-decoration:none;">Student Medical<br>
+          Insurance <img src="/Content/ilom-en/images/header/drop.gif" width="7" height="5" border="0"></a></td>
+        <td class="separator"></td>
+        <td class="menuItems"><a href="/app/ilom-en/PersonalProducts/Home/Silver_plan.aspx" style="color:#FFFFFF;text-decoration:none;">Home<br>
+          Insurance</a></td>
+        <td class="separator"></td>
+        <td class="menuItems"> </td>
+      </tr>
+    </tbody></table></td>
+    <td width="23%" style="background-image:url(/Content/ilom-en/images/header/rmnuBg.gif);height:30px;vertical-align:top;"><table border="0" align="right" cellpadding="0" cellspacing="0" style="font-family:arial;font-size:12px;color:#ffffff;font-weight:bold;">
+      <tbody><tr>
+        <td class="menuItems"><a href="/app/ilom-en/selfhelp.aspx" style="color:#FFFFFF;text-decoration:none;">Customer<br>Support</a></td>
+        <td class="separator"></td>
+        <td class="menuItems"><a href="#" style="color:#FFFFFF;text-decoration:none;" class="anchorclass myownclass" rel="submenu5">Renew<br>Online <img src="/Content/ilom-en/images/header/drop.gif" width="7" height="5" border="0"></a></td>
+        <td class="separator"></td>
+        <td valign="top" class="menuItems"><a href="#" style="color:#FFFFFF;text-decoration:none;" class="anchorclass myownclass" rel="submenu6">Claims <br>Corner <img src="/Content/ilom-en/images/header/drop.gif" width="7" height="5" border="0"><br></a></td>
+        <td class="separator"></td>
+        </tr>
+<!-- menu items-->
+<!-- health-->
 
-<table border="0" width="778" cellspacing="0" cellpadding="0">
+<!-- travel-->
+
+<!-- motor-->
+
+<!-- student-->
+	 
+<!-- Renew online-->
+
+<!-- Renew online-->
+
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+<div style="width:210px; position:absolute; left: 789px; top: 7px;font-family:arial;font-size:11px;color:#FFFFFF;"><a href="/app/ilom-en/about_us/why_icici.aspx" style="font-family:arial;font-size:11px;color:#FFFFFF;text-decoration:none;">About Us</a> | <a href="/app/ilom-en/selfhelp.aspx" style="font-family:arial;font-size:11px;color:#FFFFFF;text-decoration:none;">Contact Us</a> | <a href="/app/ilom-en/Company-Info/Careers.aspx" style="font-family:arial;font-size:11px;color:#FFFFFF;text-decoration:none;">Careers</a> | <a href="http://www.addthis.com/bookmark.php" style="font-family:arial;font-size:11px;color:#FFFFFF;text-decoration:none;"> Bookmark</a></div>
+<div style="position:absolute; left: 397px; top: 46px;"><a href="/app/ilom-en/insurance-helpline.aspx"><img src="/Content/ilom-en/images/header/tollfreebt.jpg" alt="ICICI Lombard Toll Free number 1800 209 8888" width="167" height="27" border="0"></a><a href="javascript:;" onclick="window.open('/content/ilom-en/default/images/chat.asp','chat','width=472,height=320')"><img src="/Content/ilom-en/images/header/livechatbt.jpg" alt="Live Chat" width="105" height="27" border="0"></a></div>
+<div style="position:absolute; width:100px; left: 831px; top: 33px;"><img src="/Content/ilom-en/images/header/giLogo.gif" alt="ICICI Lombard General Insurance Company Limited" width="163" height="57"></div>
+<img src="/content/images/b3b3b3.gif" border="0" height="5" width="1"><br>
+
+<table border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td width="5"><img src="/content/common/b3b3b3.gif" width="5" height="1"></td><td width="1" bgcolor="#CCCCCC"><img src="/content/common/b3b3b3.gif" width="1" height="1"></td>
 <td width="584" valign="top" height="100%">
 <table border="0" width="100%" cellspacing="0" cellpadding="0"><tbody><tr height="1"><td width="100%" bgcolor="#CCCCCC"><img src="/content/common/b3b3b3.gif" width="1" height="1"></td></tr></tbody></table>
-<table border="0" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="100%" height="20" bgcolor="#FFFFFF" class="black-text"><b><a href="/app" class="black-text"><b>Home</b></a> <img src="/common/arrow.gif"> Privacy Policy</b></td></tr><tr><td height="1" bgcolor="#CCCCCC"></td></tr><tr><td height="6"></td></tr></tbody></table>
-<table cellpadding="0" cellspacing="0" border="0" width="97%" align="center"></table><table cellpadding="4" cellspacing="0" border="0"><tbody><tr><td valign="top" class="black-text"><br><br><center>This statement is effective as on: 6th November 2004</center></td><td valign="top"><a href="http://www.truste.org/ivalidate.php?url=www.icicilombard.com&amp;sealid=101"><img src="/content/images/clickseal-nobox-aliased2white.gif" alt="Truste Logo" border="0"></a></td></tr></tbody></table>
-<table cellpadding="4" cellspacing="0" border="0"><tbody><tr><td valign="top" class="orange-bold">TRUSTe Privacy Program <br><img src="/content/common/b3b3b3.gif" height="5" width="1"><br><span class="black-text1">ICICI Lombard General Insurance Company is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the Web site www.icicilombard.com. Because this Web site wants to show you its commitment towards your privacy, it has agreed to disclose its privacy practices. It also has agreed to have TRUSTe review its privacy practices for compliance. <br><br>If you have questions or concerns regarding this statement, you should first contact The Website team by e-mail at the following address: <a href="mailto:insuranceonline@icicilombard.com" class="blue-text">insuranceonline@icicilombard.com </a>or you can also send a postal query to ICICI Lombard General Insurance Company Limited, 2nd Floor, Zenith House, Keshavrao Khadye Marg, Mahalaxmi, Mumbai-400 034, Tel No.+91 22 2490 6999. <br><br>If you do not receive a response from your inquiry or the inquiry is not addressed to your satisfaction, then you should contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (<a href="http://www.truste.org/consumers/watchdog_complaint.php" target="_blank" class="blue-text">http://www.truste.org/consumers/watchdog_complaint.php</a>). TRUSTe will serve as a liaison to resolve your concerns with the Web site. <br><br>We value you as a customer and respect your right to privacy. In the process of operating the Web Site, we may become aware of information relating to you, including information that is of a confidential nature. We are strongly committed to protecting your privacy online and have taken steps to protect such information. To aid us in protecting your privacy, you should maintain secrecy of your login ID and password, if any, provided to you in connection with your account with www.icicilombard.com </span><br><img src="/content/common/b3b3b3.gif" height="10" width="1"><br></td></tr></tbody></table>
-<table cellpadding="4" cellspacing="0" border="0"><tbody><tr><td valign="top" class="orange-bold">Collecting your personal information<br><img src="/content/common/b3b3b3.gif" height="5" width="1"><br><span class="black-text1">ICICI Lombard may collect the information you provide when you: <br><br><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/common/bullet_grey.gif" border="0"></td><td class="black-text">Request information from ICICI Lombard's Web site. </td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/common/bullet_grey.gif" border="0"></td><td class="black-text">Use online tools and calculators. </td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/common/bullet_grey.gif" border="0"></td><td class="black-text">Apply online for products. </td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/common/bullet_grey.gif" border="0"></td><td class="black-text">Subscribe to online services. </td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/common/bullet_grey.gif" border="0"></td><td class="black-text">Complete an online form. </td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/common/bullet_grey.gif" border="0"></td><td class="black-text">Conduct transactions online. </td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/common/bullet_grey.gif" border="0"></td><td class="black-text">Apply for a job online. </td></tr></tbody></table><br>We collect contact information such as your name, address, and email address and other details as given in the registration page of our website. If you purchase a policy from us we will collect financial information such as credit card number and expiration date through the payment gateway of the credit card company or the Internet banking service of your bank. We store this information for our records and in order to verify authenticity of the same. We also collect information such as beneficiary name, address and your relationship to the beneficiary when you buy a policy from us. This is required to maintain a record of your beneficiary details for your insurance with us.</span><br><img src="/content/common/b3b3b3.gif" height="10" width="1"><br></td></tr></tbody></table>
-<table cellpadding="4" cellspacing="0" border="0"><tbody><tr><td valign="top" class="orange-bold">Use of your personal information<br><img src="/content/common/b3b3b3.gif" height="5" width="1"><br><span class="black-text1">We will use the information primarily for the following purposes: <br><br><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/common/bullet_grey.gif" border="0"></td><td class="black-text">Allow you to access specific account information</td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/common/bullet_grey.gif" border="0"></td><td class="black-text">Providing customization: We may use the information provided by you to customize your visit to the Web Site by displaying appropriate content at our judgment and discretion</td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/common/bullet_grey.gif" border="0"></td><td class="black-text">To send you information about products and services offered by ICICI Lombard and its Affiliates In event you do not wish to receive such information, you may unsubscribe to the facility in the email message received by you. </td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/common/bullet_grey.gif" border="0"></td><td class="black-text">To contact you for policy reminder notices, claims processing and to keep you updated on the insurance sector and ICICI Lombard through our newsletters. </td></tr></tbody></table></span><br><img src="/content/common/b3b3b3.gif" height="10" width="1"><br></td></tr></tbody></table>
-<table cellpadding="4" cellspacing="0" border="0"><tbody><tr><td valign="top" class="orange-bold">Log Files<br><img src="/content/common/b3b3b3.gif" height="5" width="1"><br><span class="black-text1">As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. <br><br>We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. <br><br>We do not link this automatically collected data to personally identifiable information. IP addresses are tied to personally identifiable information to help us customize your visit to our website so that you like the experience. However, we would like to reiterate that this information is not shared with third parties, except as provided under “<b>Disclosure of Information</b>” clause. </span><br><img src="/content/common/b3b3b3.gif" height="10" width="1"><br></td></tr></tbody></table>
-<table cellpadding="4" cellspacing="0" border="0"><tbody><tr><td valign="top" class="orange-bold">Use of <br><img src="/content/common/b3b3b3.gif" height="5" width="1"><br><span class="black-text1">We store a cookie on your computer when you visit our Web site. A cookie is a tiny piece of information that is required to create and maintain a secure session. Our cookies let you view customized pages while transacting with us. Our cookies do not have confidential or personal information. Since, we use session ID cookies, they do not track a user after leaving our Web site. A session ID cookie expires when you close the browser. It is required if you want to buy a policy online from us. <br><br>The primary purpose of these cookies is to analyze how users move within our Web site. </span><br><img src="/content/common/b3b3b3.gif" height="10" width="1"><br></td></tr></tbody></table>
-<table cellpadding="4" cellspacing="0" border="0"><tbody><tr><td valign="top" class="orange-bold">Disclosure of Information<br><img src="/content/common/b3b3b3.gif" height="5" width="1"><br><span class="black-text1">Subject to the other terms contained herein, , we will not disclose your information to any person, unless acting under a good faith belief that such action is necessary to: <br><br><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/common/bullet_grey.gif" border="0"></td><td class="black-text">Conform to any statutory or legal requirements or comply with legal process</td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/common/bullet_grey.gif" border="0"></td><td class="black-text">Protect, enforce and defend our rights or property</td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/common/bullet_grey.gif" border="0"></td><td class="black-text">Protect our interests or interests of ICICI Bank Group Companies. </td></tr></tbody></table><br>We may also use your personal information for the purposes of providing you with any services and service-related activities. In this regard, it may be necessary to disclose your personal information to one or more service providers of ICICI Lombard providing services linked to Insurance sector. <br><br>We reserve the right to exchange, share or provide the information relating to your personal and financial details and information with other ICICI Bank Group Companies or Statutory Bodies as required and you will not hold us and/or any other group companies of ICICI Bank Group and their agents liable for use or sharing of the information. </span><br><img src="/content/common/b3b3b3.gif" height="10" width="1"><br></td></tr></tbody></table>
-<table cellpadding="4" cellspacing="0" border="0"><tbody><tr><td valign="top" class="orange-bold">Updating your personal information<br><img src="/content/common/b3b3b3.gif" height="5" width="1"><br><span class="black-text1">If you need to update your personal information or there is any change in the personal information, or if you no longer desire our service, you may update or delete it by making the change on our registration page or by emailing our Website team at <a href="mailto:insuranceonline@icicilombard.com">insuranceonline@icicilombard.com</a> or by contacting us by telephone or postal mail at the contact information listed below.</span><br><img src="/content/common/b3b3b3.gif" height="10" width="1"><br></td></tr></tbody></table>
-<table cellpadding="4" cellspacing="0" border="0"><tbody><tr><td valign="top" class="orange-bold">Security<br><img src="/content/common/b3b3b3.gif" height="5" width="1"><br><span class="black-text1">The security of your personal information is important to us. When you enter sensitive information such as credit card number on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link <a href="http://wp.netscape.com/security/techbriefs/ssl.html" target="_blank">http://wp.netscape.com/security/techbriefs/ssl.html </a><br><br>We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we do not guarantee its absolute security. </span><br><img src="/content/common/b3b3b3.gif" height="10" width="1"><br></td></tr></tbody></table>
-<table cellpadding="4" cellspacing="0" border="0"><tbody><tr><td valign="top" class="orange-bold">Links to other sites<br><img src="/content/common/b3b3b3.gif" height="5" width="1"><br><span class="black-text1">The Web Site may contain links to other sites and/or portals on the Internet. While we intend to link only to such sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by such other sites. <br><br>Please be aware that websites that have links from our site may collect personally identifiable information about you. This privacy statement does not cover the information and disclosure practices of those web sites. </span><br><img src="/content/common/b3b3b3.gif" height="10" width="1"><br></td></tr></tbody></table>
-<table cellpadding="4" cellspacing="0" border="0"><tbody><tr><td valign="top" class="orange-bold">Changes in this Privacy Statement<br><img src="/content/common/b3b3b3.gif" height="5" width="1"><br><span class="black-text1">We reserve the right to modify this privacy statement at any time by posting the same on the Website, so please review it frequently on the Website. If we materially change our privacy practices we will notify you by sending an email or by posting a notice on our web site.</span><br><img src="/content/common/b3b3b3.gif" height="10" width="1"><br></td></tr></tbody></table>
-<table cellpadding="4" cellspacing="0" border="0"><tbody><tr><td valign="top" class="orange-bold">Contact Us<br><img src="/content/common/b3b3b3.gif" height="5" width="1"><br><span class="black-text1">If you have any questions or suggestions regarding our privacy policy, please contact us at: <br><br>The Website team<br>ICICI Lombard General Insurance Company, <br>2nd Floor, Zenith House, <br>Keshavrao Khadye marg, <br>Mahalaxmi <br>Mumbai-400 034. <br><br>Tel No.+91 22 2490 6999.<br>Email: <a href="mailto:insuranceonline@icicilombard.com">insuranceonline@icicilombard.com</a></span><br><img src="/content/common/b3b3b3.gif" height="10" width="1"><br></td></tr></tbody></table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="100%" height="20" bgcolor="#FFFFFF" class="black-text"><b>Home   <img src="/content/ilom-en/common/arrow.gif"> Privacy Policy</b></td></tr><tr><td height="1" bgcolor="#CCCCCC"></td></tr><tr><td height="6"></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" width="97%" align="center"></table><table cellpadding="4" cellspacing="0" border="0" width="100%"><tbody><tr><td valign="top" class="orange-bold">ICICI Lombard Privacy Policy<br><img src="/content/ilom-en/common/b3b3b3.gif" height="5" width="1"><br><span class="black-text1">We value you as a customer and respect your right to privacy. In the process of operating the Web Site, we may become aware of information relating to you, including information that is of a confidential nature. We are strongly committed to protecting your privacy online and have taken steps to protect such information. To aid us in protecting your privacy, you should maintain secrecy of your login ID and password, if any, provided to you in connection with your account with www.icicilombard.com </span><br><img src="/content/common/b3b3b3.gif" height="10" width="1"><br></td></tr></tbody></table>
+<table cellpadding="4" cellspacing="0" border="0" width="100%"><tbody><tr><td valign="top" class="orange-bold">Collecting your personal information<br><img src="/content/ilom-en/common/b3b3b3.gif" height="5" width="1"><br><span class="black-text1">ICICI Lombard may collect the information you provide when you: <br><br><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/ilom-en/common/bullet_grey.gif" border="0"></td><td class="black-text">Request information from ICICI Lombard's Web site. </td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/ilom-en/common/bullet_grey.gif" border="0"></td><td class="black-text">Use online tools and calculators. </td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/ilom-en/common/bullet_grey.gif" border="0"></td><td class="black-text">Apply online for products. </td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/ilom-en/common/bullet_grey.gif" border="0"></td><td class="black-text">Subscribe to online services. </td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/ilom-en/common/bullet_grey.gif" border="0"></td><td class="black-text">Complete an online form. </td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/ilom-en/common/bullet_grey.gif" border="0"></td><td class="black-text">Conduct transactions online. </td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/ilom-en/common/bullet_grey.gif" border="0"></td><td class="black-text">Apply for a job online. </td></tr></tbody></table><br>We collect contact information such as your name, address, and email address and other details as given in the registration page of our website. If you purchase a policy from us we will collect financial information such as credit card number and expiration date through the payment gateway of the credit card company or the Internet banking service of your bank. We store this information for our records and in order to verify authenticity of the same. We also collect information such as beneficiary name, address and your relationship to the beneficiary when you buy a policy from us. This is required to maintain a record of your beneficiary details for your insurance with us.<br><br>If you choose to use our referral service to tell a friend about our site, we will ask you for your friends name and e-mail address. Your friend will automatically be sent a one-time e-mail inviting him or her to visit the website.</span><br><img src="/content/common/b3b3b3.gif" height="10" width="1"><br></td></tr></tbody></table>
+<table cellpadding="4" cellspacing="0" border="0" width="100%"><tbody><tr><td valign="top" class="orange-bold">Use of your personal information<br><img src="/content/ilom-en/common/b3b3b3.gif" height="5" width="1"><br><span class="black-text1">We will use the information primarily for the following purposes: <br><br><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/ilom-en/common/bullet_grey.gif" border="0"></td><td class="black-text">Allow you to access specific account information</td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/ilom-en/common/bullet_grey.gif" border="0"></td><td class="black-text">Providing customization: We may use the information provided by you to customize your visit to the Web Site by displaying appropriate content at our judgment and discretion.</td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/ilom-en/common/bullet_grey.gif" border="0"></td><td class="black-text">To send you information about products and services offered by ICICI Lombard and its Affiliates, to contact you for policy reminder notices, claims processing and to keep you updated on the insurance sector and ICICI Lombard through our newsletters. In event you do not wish to receive such information, you may unsubscribe through the facility in the email message you receive. </td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/ilom-en/common/bullet_grey.gif" border="0"></td><td class="black-text">To contact you for policy reminder notices, claims processing and to keep you updated on the insurance sector and ICICI Lombard through our newsletters. </td></tr></tbody></table></span><br><img src="/content/common/b3b3b3.gif" height="10" width="1"><br></td></tr></tbody></table>
+<table cellpadding="4" cellspacing="0" border="0" width="100%"><tbody><tr><td valign="top" class="orange-bold">Log Files<br><img src="/content/ilom-en/common/b3b3b3.gif" height="5" width="1"><br><span class="black-text1">As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. <br><br>We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. <br><br>IP addresses are tied to personally identifiable information to help us customize your visit to our website so that you like the experience. However, we would like to reiterate that this information is not shared with third parties, for their promotional purposes, except as provided under “<b>Disclosure of Information</b>” clause.</span><br><img src="/content/common/b3b3b3.gif" height="10" width="1"><br></td></tr></tbody></table>
+<table cellpadding="4" cellspacing="0" border="0" width="100%"><tbody><tr><td valign="top" class="orange-bold">Use of Cookies<br><img src="/content/ilom-en/common/b3b3b3.gif" height="5" width="1"><br><span class="black-text1">We store a cookie on your computer when you visit our Web site. A cookie is a small text file that is stored on a users computer for record-keeping purposes. The primary purpose of these cookies is to analyze how users move within our Web site. Our cookies let you view customized pages while transacting with us. Our cookies do not have confidential or personally identifiable information. Since, we use session ID cookies, they do not track a user after leaving our Web site. A session ID cookie expires when you close the browser. It is required if you want to buy a policy online from us. We also use analytic tools to track visitor traffic on website. <br><br>Some of our business partners such as chat support use cookies on our site.  We have no access to or control over these cookies. This privacy statement covers the use of cookies by www.icicilombard.com only and does not cover the use of cookies by any third parties. </span><br><img src="/content/common/b3b3b3.gif" height="10" width="1"><br></td></tr></tbody></table>
+<table cellpadding="4" cellspacing="0" border="0" width="100%"><tbody><tr><td valign="top" class="orange-bold">Disclosure of Information<br><img src="/content/ilom-en/common/b3b3b3.gif" height="5" width="1"><br><span class="black-text1">Subject to the other terms contained herein, we will not disclose your information to any third parties or affiliates for their promotional purposes, unless acting under a good faith belief that such action is necessary to: <br><br><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/ilom-en/common/bullet_grey.gif" border="0"></td><td class="black-text">Conform to any statutory or legal requirements or comply with legal process or judicial orders</td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/ilom-en/common/bullet_grey.gif" border="0"></td><td class="black-text">Protect, enforce and defend our rights or property</td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="10" align="center" valign="top"><img src="/content/ilom-en/common/bullet_grey.gif" border="0"></td><td class="black-text">Protect our interests or interests of ICICI Bank Group Companies. </td></tr></tbody></table><br>We may also use your personal information for the purposes of providing you with any services and service-related activities. In this regard, it may be necessary to disclose your personal information to one or more service providers (eg. Third Party Administrators for Cashless Hospitalisation, National Do Not Call Registry for filtering before Call related activities) of ICICI Lombard providing services linked to Insurance sector to fulfill your requests. <br><br>We reserve the right to exchange, share or provide the information relating to your personal and financial details and information with other ICICI Bank Group Companies or Statutory Bodies as required and you will not hold us and/or any other group companies of ICICI Bank Group and their agents liable for use or sharing of the information. <br><br>We obtain your permission to post testimonials which may include your personal information prior to posting on this website. If you would like your testimonial removed, please contact us at: <a href="mailto:insuranceonline@icicilombard.com">insuranceonline@icicilombard.com</a><br><br>We use service providers to fulfill some of the service requests on this site including live chat, third party administrators for cashless claims and health checkup and motor surveyors for vehicle inspection. We do not share, or sell your personal information to third parties. These service providers are not allowed to use your information for their promotional purposes.</span><br><img src="/content/common/b3b3b3.gif" height="10" width="1"><br></td></tr></tbody></table>
+<table cellpadding="4" cellspacing="0" border="0" width="100%"><tbody><tr><td valign="top" class="orange-bold">Updating your personal information<br><img src="/content/ilom-en/common/b3b3b3.gif" height="5" width="1"><br><span class="black-text1">If you need to update your personal information or there is any change in the personal information, or if you no longer desire our service, you may update or delete it by making the change on our registration page or by emailing our Website team at <a href="mailto:insuranceonline@icicilombard.com">insuranceonline@icicilombard.com</a> or by contacting us by telephone or postal mail at the contact information listed below.</span><br><img src="/content/common/b3b3b3.gif" height="10" width="1"><br></td></tr></tbody></table>
+<table cellpadding="4" cellspacing="0" border="0" width="100%"><tbody><tr><td valign="top" class="orange-bold">Security<br><img src="/content/ilom-en/common/b3b3b3.gif" height="5" width="1"><br><span class="black-text1">The security of your personal information is important to us. When you enter sensitive information such as credit card number on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link <a href="http://wp.netscape.com/eng/ssl3/" target="_blank">http://wp.netscape.com/eng/ssl3/</a><br><br>We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we do not guarantee its absolute security. </span><br><img src="/content/common/b3b3b3.gif" height="10" width="1"><br></td></tr></tbody></table>
+<table cellpadding="4" cellspacing="0" border="0" width="100%"><tbody><tr><td valign="top" class="orange-bold">Links to other sites<br><img src="/content/ilom-en/common/b3b3b3.gif" height="5" width="1"><br><span class="black-text1">The Web Site may contain links to other sites and/or portals on the Internet. While we intend to link only to such sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by such other sites. <br><br>Please be aware that websites that have links from our site may collect personally identifiable information about you. This privacy statement does not cover the information and disclosure practices of those web sites. When you leave our site, please read the privacy statements of each and every Web site that collects personally identifiable information.</span><br><img src="/content/common/b3b3b3.gif" height="10" width="1"><br></td></tr></tbody></table>
+<table cellpadding="4" cellspacing="0" border="0" width="100%"><tbody><tr><td valign="top" class="orange-bold">Changes in this Privacy Statement<br><img src="/content/ilom-en/common/b3b3b3.gif" height="5" width="1"><br><span class="black-text1">We reserve the right to modify this privacy statement at any time by posting the same on the Website, so please review it frequently on the Website. If we materially change our privacy practices we will notify you by sending an email or by posting a notice on our web site.<br><br><span class="orange-bold">Business transitions</span><br>In the event ICICI Lombard General Insurance Company Ltd. goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred.  You will be notified via [email] [prominent notice on our Web site for 30 days] of any such change in ownership or control of your personal information.<br></span><br><img src="/content/common/b3b3b3.gif" height="10" width="1"><br></td></tr></tbody></table>
+<table cellpadding="4" cellspacing="0" border="0" width="100%"><tbody><tr><td valign="top" class="orange-bold">Contact Us<br><img src="/content/ilom-en/common/b3b3b3.gif" height="5" width="1"><br><span class="black-text1">If you have any questions or suggestions regarding our privacy policy, please contact us at: <br><br>The Website team<br>ICICI Lombard General Insurance Company, <br>2nd Floor, Zenith House, <br>Keshavrao Khadye marg, <br>Mahalaxmi <br>Mumbai-400 034. <br><br>Tel No.+91 22 2490 6999.<br>Email: <a href="mailto:insuranceonline@icicilombard.com">insuranceonline@icicilombard.com</a></span><br><img src="/content/common/b3b3b3.gif" height="10" width="1"><br></td></tr></tbody></table>
 
 </td>
+
 <td width="1" bgcolor="#CCCCCC"><img src="/content/common/b3b3b3.gif" width="1" height="1"></td><td width="5"><img src="/content/common/b3b3b3.gif" width="5" height="1"></td>
-<td width="182" valign="top" height="800">
-<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="rtnav-white-bold" bgcolor="#AA211B" background="/content/images/common/right_header.gif">Buy Online</td></tr><tr><td bgcolor="#FFFFFF" class="rtnav-black-text">Log in to buy, view, print, and renew your online policies.</td></tr>
-<tr><td class="rtnav-bullet-list" width="95%"><img src="/content/images/common/bullet_square.gif" align="top"><a href="http://onlinemanager.icicilombard.com/icici/netproducts/registration.asp?policyno=Deal-079626" class="href-text1">New User Click here</a></td></tr>
-<tr><td class="rtnav-bullet-list" width="95%"><img src="/content/images/common/bullet_square.gif" align="top"><a href="#&quot;" onclick="javascript:window.open('http://onlinemanager.icicilombard.com/icici/netproducts/view_policy.asp?Policyno=Deal-079626&amp;PartType=NP','','menu=no,scroll=yes,status=yes,resizable=yes,class=blue-text')" class="href-text1">Returning User Login here</a></td></tr>
+<td width="182" valign="top" height="800"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr><td class="rtnav-white-bold" bgcolor="#AA211B" background="/content/ilom-en/images/common/right_header.gif">Buy Online</td></tr><tr><td bgcolor="#FFFFFF" class="rtnav-black-text">Log in to buy, view, print, and renew your online policies.</td></tr>
+<tr><td class="rtnav-bullet-list" width="95%"><img src="/content/ilom-en/images/common/bullet_square.gif" align="top"><a href="#" onclick="window.open('https://24x7.icicilombard.com/icici_Lombard/P10WebAppln/Pages/Common/Login.Aspx?DealNo=Deal-172567')" class="href-text1">New User Click here</a></td></tr>
+<tr><td class="rtnav-bullet-list" width="95%"><img src="/content/ilom-en/images/common/bullet_square.gif" align="top"><a href="#" onclick="return deal('EXISTUSER','','Deal-079626');" class="href-text1">Existing User Login here</a></td></tr>
 <tr><td class="rtnav-line" height="8" bgcolor="#FFFFFF"><img src="" height="1" width="1"></td></tr>
-<tr><td><img src="/Content/images/common/nav_bot.gif" alt=" "></td></tr>
+<tr><td><img src="/content/ilom-en/images/common/nav_bot.gif" alt=" "></td></tr>
+<tr><td class="rtnav-white-bold" bgcolor="#AA211B" background="/content/ilom-en/images/common/right_header.gif">Contact Us</td></tr><tr><td bgcolor="#FFFFFF" class="rtnav-black-text"> </td></tr>
+<tr><td class="rtnav-bullet-list" width="95%"><img src="/content/ilom-en/images/common/bullet_square.gif" align="top"><a href="/app/ilom-en/Contact_Us/headoffice.aspx" class="href-text1">All India Branches</a></td></tr>
+<tr><td class="rtnav-bullet-list" width="95%"><img src="/content/ilom-en/images/common/bullet_square.gif" align="top"><a href="/app/ilom-en/Insurance-helpline.aspx" class="href-text1">24x7 Insurance Helpline</a></td></tr>
+<tr><td class="rtnav-bullet-list" width="95%"><img src="/content/ilom-en/images/common/bullet_square.gif" align="top"><a href="/app/ilom-en/selfhelp.aspx" class="href-text1">Customer Support</a></td></tr>
+<tr><td class="rtnav-line" height="8" bgcolor="#FFFFFF"><img src="" height="1" width="1"></td></tr>
+<tr><td><img src="/content/ilom-en/images/common/nav_bot.gif" alt=""></td></tr>
+<tr><td class="rtnav-images"><a href="/app/ilom-en/personalproducts/Travel/Individual_Overseas/Gold_Plan.aspx"><img src="/Content/ilom-en/images/PersonalProducts/Travel/travel.gif" alt="Instant travel insurance" border="0"></a></td></tr>
+<tr><td><img src="/content/ilom-en/images/common/nav_bot.gif" alt=" "></td></tr>
+<tr><td class="rtnav-images"><a href="#" onclick=""><img src="/Content/ilom-en/images/banners/smarttip_rghtnav.gif" alt="Smart Tip" border="0"></a></td></tr>
+<tr><td><img src="/content/ilom-en/images/common/nav_bot.gif" alt="smart tip bot"></td></tr>
 <tr><td class="rtnav-line" height="1" bgcolor="cccccc"><img src="" height="1" width="1"></td></tr>
-<tr><td class="rtnav-black-text"><a href="http://server.iad.liveperson.net/hc/32440297/?cmd=file&amp;file=visitorWantsToChat&amp;site=32440297&amp;byhref=1&amp;imageUrl=http://www.icicilombard.com/content/images" target="chat32440297" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/32440297/?cmd=file&amp;file=visitorWantsToChat&amp;site=32440297&amp;imageUrl=http://www.icicilombard.com/content/images&amp;referrer='+escape(document.location),'chat32440297','width=472,height=320');return false;"><img src="http://server.iad.liveperson.net/hc/32440297/?cmd=repstate&amp;site=32440297&amp;&amp;ver=1&amp;imageUrl=http://www.icicilombard.com/content/images" name="hcIcon" width="168" height="68" border="0"></a></td></tr>
-<tr><td><img src="/Content/images/common/nav_bot.gif" alt="chat"></td></tr>
-<tr><td class="rtnav-white-bold" bgcolor="#AA211B" background="/content/images/common/right_header.gif">Contact Us</td></tr><tr><td bgcolor="#FFFFFF" class="rtnav-black-text"> </td></tr>
-<tr><td class="rtnav-bullet-list" width="95%"><img src="/content/images/common/bullet_square.gif" align="top"><a href="/app/selfhelp/Meetus.asp" class="href-text1">Meet us in person</a></td></tr>
-<tr><td class="rtnav-bullet-list" width="95%"><img src="/content/images/common/bullet_square.gif" align="top"><a href="/app/Contact_Us/Branches.asp" class="href-text1">All India Branches</a></td></tr>
-<tr><td class="rtnav-bullet-list" width="95%"><img src="/content/images/common/bullet_square.gif" align="top"><a href="/app/Contact_Us/Call-Centre.asp" class="href-text1">24x7 Call Centers</a></td></tr>
-<tr><td class="rtnav-bullet-list" width="95%"><img src="/content/images/common/bullet_square.gif" align="top"><a href="/app/Contact_Us/Email-Us.asp" class="href-text1">E-mail Us</a></td></tr>
-<tr><td class="rtnav-bullet-list" width="95%"><img src="/content/images/common/bullet_square.gif" align="top"><a href="/app/selfhelp.asp" class="href-text1">Customer Support</a></td></tr>
+<tr><td class="rtnav-images"><a href="/app/ilom-en/personalproducts/Health/floater.aspx"><img src="/content/ilom-en/PersonalProducts/Health/Floater/nav_right/familyfloater.gif" alt="Family Floater" border="0"></a></td></tr>
+<tr><td><img src="/content/ilom-en/images/common/nav_bot.gif" alt="car insurance"></td></tr>
+<tr><td class="rtnav-white-bold" bgcolor="#AA211B" background="/content/ilom-en/images/common/right_header.gif">Learning Center</td></tr><tr><td bgcolor="#FFFFFF" class="rtnav-black-text">Enabling better understanding and greater interactivity.</td></tr>
+<tr><td class="rtnav-bullet-list" width="95%"><img src="/content/ilom-en/images/common/bullet_square.gif" align="top"><a href="/app/ilom-en/Learning.aspx" class="href-text1">Insurance Classroom</a></td></tr>
+<tr><td class="rtnav-bullet-list" width="95%"><img src="/content/ilom-en/images/common/bullet_square.gif" align="top"><a href="/app/ilom-en/customer_feedback.aspx" class="href-text1">Rate our site</a></td></tr>
 <tr><td class="rtnav-line" height="8" bgcolor="#FFFFFF"><img src="" height="1" width="1"></td></tr>
-<tr><td><img src="/Content/images/common/nav_bot.gif" alt=" "></td></tr>
-<tr><td class="rtnav-line" height="1" bgcolor="cccccc"><img src="" height="1" width="1"></td></tr>
-<tr><td class="rtnav-images"><a href="/app/PersonalProducts/Motor/Four_wheeler.asp"><img src="/Content/images/banners/insureCarOnline.gif" alt="Car Insurance" border="0"></a></td></tr>
-<tr><td><img src="/Content/images/common/nav_bot.gif" alt="car insurance"></td></tr>
-<tr><td class="rtnav-white-bold" bgcolor="#AA211B" background="/content/images/common/right_header.gif">Insurance Accessories</td></tr><tr><td bgcolor="#FFFFFF" class="rtnav-black-text">Enabling better understanding and greater interactivity.</td></tr>
-<tr><td class="rtnav-bullet-list" width="95%"><img src="/content/images/common/bullet_square.gif" align="top"><a href="/app/Learning.asp" class="href-text1">Insurance Classroom</a></td></tr>
-<tr><td class="rtnav-bullet-list" width="95%"><img src="/content/images/common/bullet_square.gif" align="top"><a href="/app/insurance_needs.asp" class="href-text1">Know your insurance needs</a></td></tr>
-<tr><td class="rtnav-bullet-list" width="95%"><img src="/content/images/common/bullet_square.gif" align="top"><a href="/app/customer_feedback.asp" class="href-text1">Rate our site</a></td></tr>
-<tr><td class="rtnav-line" height="8" bgcolor="#FFFFFF"><img src="" height="1" width="1"></td></tr>
-<tr><td><img src="/Content/images/common/nav_bot.gif" alt=" "></td></tr>
-<tr><td class="rtnav-white-bold" bgcolor="#AA211B" background="/content/images/common/right_header.gif">Tips Alert </td></tr><tr><td bgcolor="#FFFFFF" class="rtnav-black-text">Subscribe for free Smart Tips e-mailers and mobile alerts.  
-</td></tr>
-<tr><td class="rtnav-images"><a href="/app/Newsletter.asp"><img src="/Content/images/register.gif" alt=" " border="0"></a></td></tr>
-<tr><td class="rtnav-line" height="8" bgcolor="#FFFFFF"><img src="" height="1" width="1"></td></tr>
+<tr><td><img src="/content/ilom-en/images/common/nav_bot.gif" alt=" "></td></tr>
+<tr><td><img src="/Content/ilom-en/images/banners/gogreen_productpages.gif" alt="Go Green - Buy Online"></td></tr>
 <tr><td class="rtnav-line" height="1" bgcolor="#cccccc"><img src="" height="1" width="1"></td></tr>
-<tr><td><img src="/Content/images/common/nav_bot.gif" alt=" "></td></tr>
+<tr><td><img src="/content/ilom-en/images/common/nav_bot.gif" alt=" "></td></tr>
 </tbody></table></td>
 </tr>
+
 <tr>
 <td></td>
 <td colspan="3"><table border="0" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="100%" bgcolor="#CCCCCC"><img src="/content/common/b3b3b3.gif" width="1" height="1"></td></tr></tbody></table></td>
 </tr>
 </tbody></table>
+
 <table border="0" width="778" cellspacing="0" cellpadding="0"><tbody><tr><td width="100%" height="5"></td></tr></tbody></table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td bgcolor="#CCCCCC" colspan="2" height="1" width="773"><img width="1" height="1"></td></tr></tbody></table>
+<table width="100%" cellspacing="0" cellpadding="2" border="0"><tbody><tr><td class="grey-text1" width="100%" bgcolor="#FFFFFF" align="center"><a href="/app/ilom-en/Downloads.aspx" class="href-footer"><b>Downloads</b></a>&nbsp;|&nbsp; <a href="/app/ilom-en/FAQs/FAQ.aspx" class="href-footer"><b>FAQs</b></a>&nbsp;|&nbsp; <a href="/app/ilom-en/customer_feedback.aspx" class="href-footer"><b>Website Feedback</b></a>&nbsp;|&nbsp; <a href="/app/ilom-en/Customer-Speak.aspx" class="href-footer"><b>Testimonials </b></a>&nbsp;|&nbsp; <a href="#" onclick="javascript:window.open('https://onlinemanager.icicilombard.com/authenticateuser.asp', '', 'width=780, height=450,status=yes,menubar=yes,resizable=yes,toolbar=yes,location=yes,scrollbars=yes')" class="href-footer"><b>Login  to Online  Manager<b></b></b></a><b><b>&nbsp;|&nbsp; <a href="/app/ilom-en/CSR.aspx" class="href-footer"><b>Corporate Social Responsibility</b></a>&nbsp;|&nbsp; <a href="/app/ilom-en/PersonalProducts/Health/hap_Tax-Benefits.aspx" class="href-footer"><b>Tax Benefits</b></a></b></b></td></tr><tr><td class="grey-text1" width="100%" bgcolor="#FFFFFF" align="center"><a href="/app/ilom-en/Tools-Tests.aspx" class="href-footer">Tools &amp; Tests</a>&nbsp;|&nbsp; <a href="/app/ilom-en/glossary.aspx" class="href-footer">Glossary</a>&nbsp;|&nbsp; <a href="/app/ilom-en/Disclaimer.aspx" class="href-footer">Disclaimer</a>&nbsp;|&nbsp; <a href="/app/ilom-en/privacy-policy.aspx" class="href-footer">Privacy</a>&nbsp;|&nbsp; <a href="/app/ilom-en/terms-conditions.aspx" class="href-footer">Terms</a>&nbsp;|&nbsp; <a href="/app/ilom-en/insurance-resources.aspx" class="href-footer">Resources</a>&nbsp;|&nbsp; <a href="/app/ilom-en/insurancearticles.aspx" class="href-footer">Insurance Articles</a>&nbsp;|&nbsp; <a href="/app/ilom-en/DNC.aspx" class="href-footer">Do Not Call Registry</a>&nbsp;|&nbsp; <a href="/app/ilom-en/siteMap.aspx" class="href-footer">Sitemap</a>&nbsp;|&nbsp; <a href="/app/general-insurance.aspx" class="href-footer">Insurance Notes</a></td></tr></tbody></table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td bgcolor="#CCCCCC" colspan="2" height="1" width="773"><img width="1" height="1"></td></tr></tbody></table>
+<table width="100%" cellspacing="0" cellpadding="2" border="0"><tbody><tr><td class="grey-text1" width="100%" bgcolor="#FFFFFF" align="center"><a href="http://www.icicigroupcompanies.com" target="_blank" class="href-footer"><strong>ICICI Group</strong></a> <strong> . </strong> <a href="http://www.icicibank.com/" class="href-footer" target="_blank"><strong>ICICI Bank</strong></a> <strong> .</strong>  <a href="http://www.iciciprulife.com/index.jsp" target="_blank" class="href-footer"><strong>ICICI Prudential Life Insurance</strong></a> <strong> . </strong> <a href="http://www.icicipruamc.com/" target="_blank" class="href-footer"><strong>ICICI Prudential Mutual Fund</strong></a> <strong> . </strong> <a href="http://www.icicidirect.com" class="href-footer" target="_blank"><strong>ICICI Direct</strong></a> <strong> . </strong> <a href="http://www.icicihfc.com" class="href-footer" target="_blank"><strong>ICICI Home Finance</strong></a></td></tr></tbody></table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td bgcolor="#CCCCCC" colspan="2" height="1" width="773"><img width="1" height="1"></td></tr></tbody></table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td colspan="3" height="3"></td></tr><tr><td width="5"></td><td class="grey-footer" valign="top" width="50%"><img alt="ICICI Lombard – General Insurance Company Awards" src="/content/ilom-en/images/awards.gif" width="739" height="77" border="0" usemap="#Map">
+<map name="Map">
+  <area shape="rect" coords="2,2,120,72" href="/app/ilom-en/ICRA-rating-iAAA.aspx" alt="ICICI Lombard – General Insurance Company - ICRA-iAAA rating for highest claims paying ability">
+  <area shape="rect" coords="130,2,250,73" href="/app/ilom-en/awards/cra.aspx" alt="ICICI Lombard – General Insurance Company - Economic Times Avaya Global Connect Customer Responsiveness Awards, 2006 ">
+  <area shape="rect" coords="266,2,447,74" href="/app/ilom-en/awards/bhi.aspx" alt="ICICI Lombard – General Insurance Company - Best Housing Insurance in the Smart Living Awards, 2007">
+  <area shape="rect" coords="465,1,533,71" href="/app/ilom-en/ndtv-award.aspx" alt=" ICICI Lombard – General Insurance Company - NDTV Profit Business Leadership Awards, 2007">
+  <area shape="rect" coords="543,2,617,75" href="/app/ilom-en/InsuranceIndustry-Awards.aspx" alt=" ICICI Lombard – General Insurance Company - Asia Insurance Industry Awards, 2007">
+  <area shape="rect" coords="627,2,655,75" href="/app/ilom-en/AsiaBrandAward.aspx" alt="ICICI Lombard – General Insurance Company - Asia Brand Leadership Awards, 2007 ">
+  <area shape="rect" coords="668,8,732,72" href="/app/ilom-en/awards/JDPAP.aspx" alt="ICICI Lombard – General Insurance Company - JD Power Asia Pacific Award">
+</map></td><td class="grey" align="right" width="50%"><img src="/content/ilom-en/images/visa_cards.gif" alt=" ICICI Lombard – General Insurance Company Visa Cards" border="0"><a href="#" onclick="javascript:window.open('https://www.entrust.net/customer/profile.cfm?domain=www.icicilombard.com','entrust','width=500,height=360')"><img src="/content/ilom-en/images/entrust-digital-security.gif" alt=" ICICI Lombard – General Insurance Company - Digital Security by Entrust" border="0"></a></td></tr></tbody></table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td bgcolor="#CCCCCC" height="1" align="center"><img width="1" height="1"></td></tr></tbody></table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td height="5"></td></tr><tr><td class="grey-footer" valign="top" align="center">ICICI Lombard General Insurance Company Ltd. All rights reserved<br>Insurance is the subject matter of solicitation. IRDA Reg. No. 115</td></tr><tr><td height="5"></td></tr></tbody></table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="grey-footer" valign="default" align="center" style="font-family:arial;font-size:11px;color:#ffffff;background-color:#DD7B1A;">Best viewed with Internet Explorer 6 and above with a resolution of 1024x768</td></tr></tbody></table>
 
-<table width="778" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="5"><img src="/content/common/spacer.gif" width="1" height="1"></td><td bgcolor="#CCCCCC" colspan="2" height="1" width="773"><img src="/content/common/spacer.gif" width="1" height="1"></td></tr></tbody></table>
-<table width="778" cellspacing="0" cellpadding="2" border="0">
-<tbody><tr><td class="grey-text1" width="100%" bgcolor="#FFFFFF" align="center"><a href="/app/Downloads.asp" class="href-footer" onclick=""><b>Forms</b></a> | <a href="/app/Careers/Philosophy.asp" class="href-footer" onclick=""><b>Careers</b></a> | <a href="/app/FAQs/FAQ.asp" class="href-footer" onclick=""><b>FAQs</b></a> | <a href="/app/customer_feedback.asp" class="href-footer" onclick=""><b>Feedback</b></a> | <a href="/app/Customer-Speak.asp" class="href-footer" onclick=""><b>Customer Speak</b></a> | <a href="/app/Ask_an_expert.asp" class="href-footer" onclick=""><b>Ask Our Expert</b></a> | <a href="#" onclick="javascript:window.open('https://onlinemanager.icicilombard.com/authenticateuser.asp', '', 'width=780, height=450,status=yes,menubar=yes,resizable=yes,toolbar=yes,location=yes,scrollbars=yes')" class="href-footer"><b>Login  to Online  Manager<b></b></b></a></td></tr>
-<tr><td class="grey-text1" width="100%" bgcolor="#FFFFFF" align="center"><a href="/app/Channel/Advisors.asp" class="href-footer" onclick="">Agents</a> | <a href="/app/Tools-Tests.asp" class="href-footer" onclick="">Tools &amp; Tests</a> | <a href="/app/Tellafriend.asp" class="href-footer" onclick="">Tell a Friend</a> | <a href="/app/glossary.asp" class="href-footer" onclick="">Glossary</a> | <a href="/app/Disclaimer.asp" class="href-footer" onclick="">Disclaimer</a> | <a href="/app/privacy-policy.asp" class="href-footer" onclick="">Privacy</a> | <a href="/app/terms-conditions.asp" class="href-footer" onclick="">Terms</a> | <a href="/app/insurance-resources.asp" class="href-footer" onclick="">Resources</a> | <a href="/app/siteMap.asp" class="href-footer" onclick="">Sitemap</a></td></tr>
-</tbody></table>
-<table width="778" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="5"><img src="/content/common/spacer.gif" width="1" height="1"></td><td bgcolor="#CCCCCC" colspan="2" height="1" width="773"><img src="/content/common/spacer.gif" width="1" height="1"></td></tr></tbody></table>
+<!-- BEGIN LivePerson Monitor. -->
+<script language="javascript">strExist = window.location.search.substring(1).toLowerCase().match("viewtype=hfr");if(strExist==null){var lpPosY = 100;var lpPosX = 500;var lpMTagConfig = {'lpServer': "server.iad.liveperson.net",'lpNumber' : "32440297",'lpProtocol' : "http"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);}</script>
+<!-- END LivePerson Monitor. -->
 
-<table width="778" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr><td colspan="3" height="3"></td></tr>
-<tr><td width="5"></td><td class="grey-footer" valign="top" width="50%"><a href="/app/ICRA-rating-iAAA.asp"><img src="/Content/images/common/icraRating.gif" alt=" iAAA - Rating by ICRA" border="0"></a>
-<br>ICICI Lombard General Insurance Company Ltd. All rights reserved<br>Insurance is the subject matter of solicitation. IRDA Reg. No. 115</td><td class="grey" align="right" width="50%"><a href="#" onclick="javascript:window.open('http://www.truste.org/ivalidate.php?url=www.icicilombard.com&amp;sealid=101', '', '')" "=""><img src="/Content/images/truste.jpg" alt="Truste" border="0"></a>
-&nbsp;<img src="/content/images/visa_cards.jpg" alt="Visa Cards">
-&nbsp;<a href="#" onclick="javascript:window.open('https://digitalid.verisign.com/as2/2aa9cbbf01c4a0c59c8f6dac8b08d4cc', '', 'width=780, height=450,status=yes,menubar=yes,resizable=yes,toolbar=yes,location=yes,scrollbars=yes')" "=""><img src="/content/images/verisign.gif" alt="Verisign Logo" border="0"></a>
-</td></tr>
-<tr><td colspan="3" height="20"></td></tr>
-</tbody></table>
 
-<script defer="" src="http://server1.opentracker.net/?site=www.icicilombard.com"></script>
-<noscript><a href="http://www.opentracker.net" target="_blank"><img src="http://img.opentracker.net/?cmd=nojs&amp;site=www.icicilombard.com" alt="website statistics" border="0"></a></noscript>
-
-<script language="Javascript">
-img=new Image(1,1);
-img.src="http://analytics.pinstorm.com/trackic.php?pid=26&colors="+window.screen.colorDepth+"&width="+window.screen.width+"&height="+window.screen.height+"&referrer="+escape(document.referrer)+"&curr_page="+escape(location.href)+"&cpu_type="+navigator.cpuClass;
-</script>
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-341003-1";
-urchinTracker();
-</script>
-
-<!-- BEGIN Invitation Positioning  -->
-<script language="javascript">
-var lpPosY = 100;
-var lpPosX = 500;
-</script>
-<!-- END Invitation Positioning  -->
-
-<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script language="javascript" src="http://server.iad.liveperson.net/hc/32440297/x.js?cmd=file&amp;file=chatScript3&amp;site=32440297&amp;&amp;imageUrl=http://www.icicilombard.com/content/images"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
-
-</body></html>
+<form name="getDeal"><input type="hidden" name="txtDealNo" value=""></form>
+<div id="submenu1" class="anylinkcss">
+	<div class="column">
+		<ul>
+		<li><a href="/app/ilom-en/PersonalProducts/Health/floater.aspx">Family Floater</a></li>
+		<li><a href="/app/ilom-en/PersonalProducts/Health/Health-Advantage.aspx">Health Advantage Plus</a></li>
+		<li><a href="/app/ilom-en/PersonalProducts/Health/PersonalAccident.aspx">Personal Accident</a></li>
+		<li><a href="/app/ilom-en/PersonalProducts/Health/criticalcare.aspx">Critical Care</a></li>
+		<li><a href="/app/ilom-en/PersonalProducts/Health/compareplan.aspx">Compare Plans</a></li>
+		</ul>
+	</div>
+</div><div class="anylinkshadow" style="width: 147px; height: 106px; opacity: 0.3;"></div><div id="submenu2" class="anylinkcss">
+	<div class="column">
+		<ul>
+		<li><a href="/app/ilom-en/PersonalProducts/Travel/Individual_Overseas/Gold_Plan.aspx">Overseas Travel</a></li>
+		<li><a href="/app/ilom-en/PersonalProducts/Travel/Individual_Overseas/Multi-Trip.aspx">Annual Multi Trip</a></li>
+		<li><a href="/app/ilom-en/PersonalProducts/Travel/Individual_Overseas/SeniorCitizen-Plan.aspx">Senior Citizen Plan</a></li>
+		<li><a href="/app/ilom-en/personalproducts/Travel/Guide.aspx">Travel Guide</a></li>
+		</ul>
+	</div>
+</div><div class="anylinkshadow" style="width: 147px; height: 85px; opacity: 0.3;"></div><div id="submenu3" class="anylinkcss">
+	<div class="column">
+		<ul>
+		<li><a href="/app/ilom-en/PersonalProducts/Motor/Four_wheeler.aspx">Car Insurance</a></li>
+		<li><a href="/app/ilom-en/PersonalProducts/Motor/Two_wheeler.aspx">Two Wheeler Insurance</a></li>
+		</ul>
+	</div>
+</div><div class="anylinkshadow" style="width: 147px; height: 43px; opacity: 0.3;"></div><div id="submenu4" class="anylinkcss">
+	<div class="column">
+		<ul>
+		<li><a href="/app/ilom-en/PersonalProducts/Travel/Student/Gold_Plan.aspx">Student Medical</a></li>
+		<li><a href="/app/ilom-en/PersonalProducts/Travel/student/Student-travel.aspx">Find Your University</a></li>
+		</ul>
+	</div>
+</div><div class="anylinkshadow" style="width: 147px; height: 43px; opacity: 0.3;"></div><div id="submenu5" class="anylinkcss">
+	<div class="column">
+		<ul>
+		<li><a href="https://24x7.icicilombard.com/ICICI_Lombard/P10WebAppln/Pages/Products/Main/Motor/FourWheeler/MotorOfflineProductList.aspx" target="_blank">Motor Insurance</a></li>
+		<li><a href="https://24x7.icicilombard.com/ICICI_Lombard/P10WebAppln/Pages/Products/Main/Health/Renewal/wfrmHealthRenewalSearch.aspx?DealNo=Deal-081451" target="_blank">Health Insurance</a></li>
+		<li><a href="https://24x7.icicilombard.com/icici_lombard/P10WebAppln/Pages/Products/Main/Travel/Overseas/wfrmTravelExtension1.aspx?DealNo=Deal-079626" target="_blank">Travel Insurance</a></li>
+		<li><a href="https://24x7.icicilombard.com/icici_lombard/P10WebAppln/Pages/Products/Main/Travel/StudentMedical/wfrmStudentExtension1.aspx?DealNo=Deal-079626" target="_blank">Student Medical</a></li>
+		</ul>
+	</div>
+</div><div class="anylinkshadow" style="width: 147px; height: 85px; opacity: 0.3;"></div><div id="submenu6" class="anylinkcss">
+	<div class="column">
+		<ul>
+		<li><a href="/app/ilom-en/PersonalProducts/Health/Claims.aspx">Health Claims</a></li>
+		<li><a href="/app/ilom-en/PersonalProducts/Motor/Motor_claims.aspx">Motor Claims</a></li>
+		<li><a href="/app/ilom-en/PersonalProducts/Travel/claims.aspx">Travel Claims</a></li>
+		<li><a href="/app/ilom-en/PersonalProducts/Home/Home-Claims.aspx">Home Claims</a></li>
+		<li><a href="/app/ilom-en/icare.aspx">IL Health Care</a></li>
+		</ul>
+	</div>
+</div><div class="anylinkshadow" style="width: 147px; height: 106px; opacity: 0.3;"></div></body></html>
