@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iseecars.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127004957id_/http%3A//www.iseecars.com/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iseecars.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412174842id_/http%3A//www.iseecars.com/Privacy.jsp) for the most accurate reproduction.*
 
-# Used Cars for Sale
+# Used cars for sale - iSeeCars
 
 Thank you for visiting us at www.iseecars.com ("Site"). This privacy statement outlines the policies implemented throughout iseecars.com and governs the use of any personally identifiable information provided through this site. Earning and keeping your trust is the most important part of our service. iseecars.com takes every effort to protect your privacy and the confidentiality of your personal information to protect against any misuse or loss of the data under our control.
 
