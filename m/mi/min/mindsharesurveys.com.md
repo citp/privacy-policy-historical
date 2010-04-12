@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mindsharesurveys.com privacy policy that was archived on 2009-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090317051145id_/http%3A//mindsharesurveys.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindsharesurveys.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412152405id_/http%3A//mindsharesurveys.com/privacy) for the most accurate reproduction.*
 
-# MindShareSurveys.com
+# Mindshare Surveys >> Take Paid Surveys for Money and Get Cash!
 
 ## MindShareSurveys.com Privacy Policy
 
@@ -58,3 +58,11 @@ MindShareSurveys.com provides every user with the opportunity to opt-out of rece
 If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us via one of the methods above.
 
 This Privacy Policy was last updated December 1st, 2008.
+
+### Get Paid To Take Surveys
+
+So what's the deal with making money through online surveys? Is it really possible to do it? These are common questions a lot of people have when they first encounter the opportunity to get surveys for cash. I'm here to tell you that not only is it possible to make money, you can easily afford to pay off a lot of bills, gas, and groceries with the money you'll make for getting paid to do surveys. 
+
+You might ask how it's possible. That's a very good question. You see, companies will pay you for filling out consumer opinion surveys because it's a very cheap and effective way for them to do their market research. Rather than paying millions of dollars for a large outside firm to do a study, they simply poll their users. 
+
+So yes, you can definitely get paid for surveys. All it takes is signing up using our form, completely free of charge. In fact, you will never have to pay anything to do this. So go ahead and signup, and get started today! 
