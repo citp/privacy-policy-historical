@@ -1,10 +1,33 @@
-> *The following text is extracted and transformed from the pacifichost.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129132651id_/http%3A//www.pacifichost.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacifichost.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412051032id_/http%3A//www.pacifichost.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy Information by PacificHost
 
-PacificHost is committed to respecting our visitors’ information. We collect basic data from our visitors, such as IP addresses, browsers, time of access, etc. We use this information to analyze our traffic and to produce services that will be beneficial to our customers and us. We also apply cookies to all customers that visit our web site. "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. We use cookies for tracking purposes only. All information received upon our tracking devices, and any online form filled out by our visitors, will be kept strictly confidential, and will never be shared with a third party. 
+We PacificHost LLC. are committed to protecting any data that we collect concerning you.  By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy. 
 
-Once a visitor becomes a client of PacificHost by filling out our online order form, they are immediately affected by our privacy policy. We also collect personal information to process our customers’ service requests. Their personal information is only used to process the request, and for no other purpose. All information that is collected from our customers is kept strictly confidential, and will never be shared with a third party. All customers have their own unique account with PacificHost and it is kept completely secure at all times. **  
-**
+##### Committed to Protecting your Privacy
+
+We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information. 
+
+##### Information Collected
+
+We may collect any or all of the information that you give us depending on the type of transaction you enter into, including your name, address, telephone number, fax number and email address, together with data about your use of the website.  Other information that may be needed from time to time to process a request may also be collected as indicated on the website. 
+
+##### Cookies
+
+Your Internet browser has the in-built facility for storing small files - "cookies" - that hold information which allows a website to recognize your account.  Our website takes advantage of this facility to enhance your experience. You have the ability to prevent your computer from accepting cookies but, if you do, certain functionality on the website may be impaired.
+
+##### Disclosing Information
+
+We do not disclose any personal information obtained about you from this website to third parties.  We may use the information to keep in contact with you and inform you of developments associated with our business. You will be given the opportunity to remove yourself from any mailing list or similar device. If at any time in the future we should wish to disclose information collected on this website to any third party, it would only be with your knowledge and consent. 
+
+We may from time to time provide information of a general nature to third parties - for example, the number of individuals visiting our website or completing a registration form, but we will not use any information that could identify those individuals. 
+
+##### Disclosure to Law Enforcement
+
+PacificHost may disclose any subscriber information to law enforcement agencies without further consent or notification to the subscriber upon lawful request from such agencies. We will cooperate fully with law enforcement agencies.
+
+##### Changes to this Policy
+
+Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval. 
 
 |  | 
