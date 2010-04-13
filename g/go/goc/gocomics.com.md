@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gocomics.com privacy policy that was archived on 2009-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091010182343id_/http%3A//www.gocomics.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gocomics.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414003639id_/http%3A//www.gocomics.com/help/privacy) for the most accurate reproduction.*
 
 # Gocomics.com: Comics, editorial cartoons, email comics, comic strips
 
