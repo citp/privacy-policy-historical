@@ -1,34 +1,32 @@
-> *The following text is extracted and transformed from the etoro.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202032601id_/http%3A//www.etoro.com/about-us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etoro.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413130330id_/http%3A//www.etoro.com/about-us/privacy.aspx) for the most accurate reproduction.*
 
-# Forex Privacy Policy | eToro
+# Forex Privacy Policy - eToro's Forex Account Privacy | eToro
 
-This privacy policy explains the manner in which we collect and maintain non public information about our customers (such as your full name, mailing address, identification number, passports, driver's license etc, hence forth "Information"). **By providing us with Information, you are giving us your consent to collect, use and store the Information in the manner explained hereto**.
+This privacy policy explains the manner in which we collect and maintain non public information about our customers (such as your full name, mailing address, identification number, passports, driver's license etc, hence forth "Information").  
+**By providing us with Information, you are giving us your consent to collect, use and store the Information in the manner explained hereto.**
 
-  * When do we collect information from you?
-
-
+####  When do we collect information from you?
 
 We collect information from you when you (a) open an account and provide us with Information through electronic registration forms; (b) make a transaction with us including when you deposit and withdraw funds; Additionally, from time to time, we may collect Information about you from third party entities such as information about your credit history agencies. The Information we collect directly from you includes Information required to communicate with you such as your address, phone number, e-mail. Furthermore, we may collect other identifiable Information such as identification numbers and/or Passport/Tax registration numbers. We may also collect demographic information when you open an account, including your gender, birth date, etc. We may also need to evaluate your trading experience, average annual income, estimated net worth and make an assessment about your risk factor.
 
-  * How do we collect Information?
-
-
+####  How do we collect Information?
 
 You directly provide us with most of the Information we collect. You do this by filling out the electronic form that we post on our website and by voluntarily providing us with other required documents. Additionally, you provide us with Information by trading on our system, by contacting us or responding to a promotion. The information we indirectly collect may include logging your Internet Protocol (IP) address, software configuration, operating system and use of Cookies; Cookies are small files sent from us to your computer and sometimes back. Cookies ultimately help us improve your navigation and ease of use of our website. Cookies do not contain any personally identifiable information.
 
-  * ** How do we use the Information collected? **
-    * ** Use of Information **
+####  How do we use the Information collected?
+
+  * ** Use of Information **
 
 We use personal information only as appropriate to provide you quality service and security. For example, we may use the Information collected from you to verify your identity. We may also use this Information to establish and set up your trading account, issue an account number, issue a password, log your activity and contact you from time to time. The Information helps us improve our services to you, customize your browsing experience and inform you about additional products, services or promotions that may be of interest to you. Should you ever deactivate your account with us, we will keep your information on file, but only use it to comply with regulatory requirements and to contact you occasionally with the option to reactivate your account. Please note that you may opt out of our Information sharing policies at any time by notifying us of your desire to do so as explained below;
 
-    * ** Sharing Information **
+  * ** Sharing Information **
 
 We do not disclose or share Information about any of our users (whether active or inactive) to any affiliated third parties or non-affiliated third parties other than in the manner and entities set forth below:
 
-      * To service providers for the purpose of opening, operating and servicing your account. Such service providers may include attorneys, accountants, auditors, financial and other professionals; 
-      * To respond to a subpoena or court order, judicial process or to regulatory authorities; and 
-      * To protect against fraud, unauthorized transactions (such as money laundering), claims or other liabilities. 
-      * We do not share credit information, such as credit history, net worth, or other income information.
+    * To service providers for the purpose of opening, operating and servicing your account. Such service providers may include attorneys, accountants, auditors, financial and other professionals; 
+    * To respond to a subpoena or court order, judicial process or to regulatory authorities; and 
+    * To protect against fraud, unauthorized transactions (such as money laundering), claims or other liabilities. 
+    * We do not share credit information, such as credit history, net worth, or other income information.
 
 
   * Security and Integrity of Information. 
