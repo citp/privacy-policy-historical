@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youlookfab.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925103623id_/http%3A//youlookfab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youlookfab.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413161438id_/http%3A//youlookfab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
