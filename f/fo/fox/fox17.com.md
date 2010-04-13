@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox17.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212103748id_/http%3A//www.fox17.com/sections/station/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox17.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413185544id_/http%3A//www.fox17.com/sections/station/privacy_policy.shtml) for the most accurate reproduction.*
 
 # WZTV FOX 17/Nashville
 
