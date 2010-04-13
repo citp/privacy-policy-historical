@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebuddy.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211183847id_/http%3A//www.ebuddy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebuddy.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414012211id_/http%3A//www.ebuddy.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement | eBuddy
 
