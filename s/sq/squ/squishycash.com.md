@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the squishycash.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230223642id_/http%3A//www.squishycash.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squishycash.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413183414id_/http%3A//www.squishycash.com/privacy_policy.php) for the most accurate reproduction.*
 
 # SquishyCash - privacy_policy
+
+[](https://web.archive.org/VIP2)
 
 | 
 
@@ -24,5 +26,7 @@ We will not sell, disclose or lease our member's personal information to any oth
 Changes to this Policy  
 Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, members will be informed of all changes via a message to their squishycash.com inbox.
 
-|   
+[](http://squishycash.ourtoolbar.com/)
+
+[ ](http://squishycash.ourtoolbar.com/) |   
 ---|---|---
