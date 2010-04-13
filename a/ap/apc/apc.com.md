@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apc.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231191400id_/http%3A//www.apc.com/corporate/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apc.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413160622id_/http%3A//www.apc.com/corporate/legal/privacy.cfm) for the most accurate reproduction.*
 
-# APC - Online Privacy Policy
+# Online Privacy Policy
 
 The APC Online Privacy Policy provides information regarding accuracy, access, security and how APC controls client information acquired from its Website(s).
 
@@ -14,7 +14,7 @@ Handling of personal information
 
 APC requests information from clients if they choose to subscribe to email lists, place orders or if they choose to respond to advertising, promotions, sweepstakes or contests. This personal information is necessary in order for APC to fulfill the client's request.
 
-This information may also be used by APC to contact or update the client with periodic APC publications, product details or other special offers. APC does allow other reputable companies to offer special services or products of value to the client. The client may unsubscribe or request that their information not be shared by directing their request to [apccurrents@apcc.com](mailto:apccurrents@apcc.com). Please provide the exact name and address. In the case of email, only clients who have consented to receive email updates are included on email lists and instructions on how to "unsubscribe" from further solicitations is included in every such email they receive from APC. APC does not share email addresses with other companies. APC does not partner with or have any special relationships with any ad server companies.
+This information may also be used by APC to contact or update the client with periodic APC publications, product details or other special offers. APC does allow other reputable companies to offer special services or products of value to the client. The client may unsubscribe or request that their information not be shared by directing their request to [marketinglistupdate@apcc.com](mailto:marketinglistupdate@apcc.com). Please provide the exact name and address. In the case of email, only clients who have consented to receive email updates are included on email lists and instructions on how to "unsubscribe" from further solicitations is included in every such email they receive from APC. APC does not share email addresses with other companies. APC does not partner with or have any special relationships with any ad server companies.
 
 From time to time, APC may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If information practices change at some time in the future APC will post the policy changes to the APC Website to notify the client of these changes and provide instructions to opt-out of these new uses. Clients concerned with how information is used, should check back at the APC Website periodically.
 
