@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysmartlife.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231152220id_/http%3A//moneysmartlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysmartlife.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413215312id_/http%3A//moneysmartlife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Money Smart Life
 
