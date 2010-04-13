@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the mycanvas.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221201322id_/http%3A//www.mycanvas.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycanvas.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413113230id_/http%3A//www.mycanvas.com/Legal/Privacy.aspx) for the most accurate reproduction.*
 
-# MyCanvas - Freedom of Expression | Custom Photo Books, Posters, Calendars, and more...
+# Privacy Statement | MyCanvas.com | Freedom of Expression
 
 **Privacy Statement**
 
-This Privacy Statement was last updated on August 13, 2008. If you have not reviewed it since that date, please do so. You will not receive any other notice of changes to this statement. 
+This Privacy Statement was last updated on July 6, 2009.   
+If you have not reviewed it since that date, please do so.   
+You will not receive any other notice of changes to this statement.
 
 **Privacy Information for MyCanvas.com**
 
-The Generations Network, Inc., operator of this Website, recognizes the confidentiality of information that may be disclosed by members in registering or making purchases from our Website and we are committed to protecting your privacy. The following discloses our information gathering and dissemination practices for this Website. 
+Ancestry.com Operations Inc., ("Ancestry.com", "Ancestry", "we", "our" or "us") operator of this Website, recognizes the confidentiality of information that may be disclosed by members in registering or making purchases from our Website and we are committed to protecting your privacy. The following discloses our information gathering and dissemination practices for this Website. 
 
 The specifics of our use of personal information are best described in the answers to the following Frequently Asked Questions: 
 
@@ -38,7 +40,7 @@ We do reserve the right to disclose aggregated user statistics, such as "45 perc
 
 Under protection of confidentiality agreements, we use third party processors in some cases to help us provide services and manage our Websites and relationships with you. These may include purchase and order fulfillment, credit card processing, removing duplicate information from lists, providing marketing assistance and providing other customer services. Third-party processors and providers will be given access only to that information needed to perform their support functions, and are prohibited from using it for other purposes. 
 
-As our business continues to grow, we might buy or sell subsidiaries or business units. In these transactions, customer information is often one of the transferred assets, remaining subject to promises made in existing privacy statements. Also, in the event that The Generations Network, Inc., or substantially all of its assets are acquired, customer information will, as a matter of course, be one of the transferred assets. 
+As our business continues to grow, we might buy or sell subsidiaries or business units. In these transactions, customer information is often one of the transferred assets, remaining subject to promises made in existing privacy statements. Also, in the event that Ancestry, or substantially all of its assets are acquired, customer information will, as a matter of course, be one of the transferred assets. 
 
 **What about purchases from advertisers or other linked Websites?**
 
@@ -46,7 +48,7 @@ If you click away from MyCanvas.com to visit the Website of any third party adve
 
 **Will you use my information for direct mailings?**
 
-We will send electronic mail or other mail to you, for the purpose of informing you of changes or additions to MyCanvas.com, or of any MyCanvas.com or The Generations Network, Inc. related products and services. If you do not want to receive such mailings, you may opt out at any time by using the unsubscribe link listed in the e-mail or by amending your "newsletter and email preferences" in the "My Account" section of the site.
+We will send electronic mail or other mail to you, for the purpose of informing you of changes or additions to MyCanvas.com, or of any MyCanvas.com or Ancestry related products and services. If you do not want to receive such mailings, you may opt out at any time by using the unsubscribe link listed in the e-mail or by amending your "newsletter and email preferences" in the "My Account" section of the site.
 
 **May I refuse to provide personal information to you or to accept advertising?**
 
@@ -66,7 +68,7 @@ You can delete or block cookies from your computer if you want to (your browser 
 
 **Advertiser Cookies:**
 
-We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click here. TGN uses the Tacoda Audience Network (TAN) to serve targeted advertising. If you wish to opt-out from TAN and other offerings, click here.
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. [If you would like more information about this practice and your choices, click here](http://www.networkadvertising.org/optout_nonppii.asp). Ancestry uses the Tacoda Audience Network (TAN) to serve targeted advertising. [If you wish to opt-out from TAN and other offerings, click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
 **Contests & Promotions**
 
@@ -74,4 +76,8 @@ We may occasionally run contests or other special promotions on our Website in w
 
 **Contacting Us**
 
-If you have any questions about this Privacy Statement, the practices of or your dealings with this Website, you may contact us at the following address: The Generations Network, Inc., Attn: Customer Service, 360 W. 4800 N., Provo, UT 84604
+If you have any questions about this Privacy Statement, the practices of or your dealings with this Website, you may contact us at the following address:  
+     Ancestry.com   
+     Attn: Customer Solutions   
+     360 W. 4800 N.  
+     Provo, UT 84604
