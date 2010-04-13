@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the juicywin.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415172316id_/http%3A//www.juicywin.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicywin.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413102140id_/http%3A//www.juicywin.com/privacy_statement.php) for the most accurate reproduction.*
 
 # Juicy Win
 
-[](https://web.archive.org/web/20090415172316id_/http%3A//www.juicywin.com/index.php)  
-
+Privacy Statement
 
 This privacy policy sets out how "Juicy Win" uses and protects any information that you give "Juicy Win" when you use this website.  
 "Juicy Win" is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
