@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goalunited.org privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231232754id_/http%3A//www.goalunited.org/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goalunited.org privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413125413id_/http%3A//www.goalunited.org/index/privacy) for the most accurate reproduction.*
 
 # goalunited - The online football manager game!
 
@@ -64,6 +64,9 @@ The consent to collect, store and use the personal user data can be revoked at a
 
 Contact:   
 Questions about how the data are handled are to be directed to Mr. Klaus Klattenberg; E-mail: k (dot) klattenberg (at) northworks (dot) de
+
+Data Protection Officer:  
+Robin Houben, Email: privacy (at) northworks (dot) de
 
 Hamburg, January 19, 2009
 
