@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the opencandy.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231054731id_/http%3A//www.opencandy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opencandy.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413120240id_/http%3A//www.opencandy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Helping Software Developers and Users - OpenCandy
 
-We (OpenCandy, Inc.) know that you care about how your personal information is used and shared, and we take your privacy seriously. By visiting our website at http://www.OpenCandy.com (”OpenCandy.com”), or using any of our services or products, including the OpenCandy recommendation network, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+We (OpenCandy, Inc.) know that you care about how your personal information is used and shared, and we take your privacy seriously. By visiting our website at http://www.OpenCandy.com (“OpenCandy.com”), or using any of our services or products, including the OpenCandy recommendation network, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
-This Privacy Policy covers our treatment of personally identifiable information (”Personal Information”) and other information we gather when you are accessing OpenCandy.com or when you use our services. This policy does not apply to (and we are not responsible for) the practices of companies that we do not own or control or to individuals we do not employ or manage. When utilizing third party sites or software products, you should read the relevant privacy policies of those providers for information regarding their privacy practices.
+This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) and other information we gather when you are accessing OpenCandy.com or when you use our services. This policy does not apply to (and we are not responsible for) the practices of companies that we do not own or control or to individuals we do not employ or manage. When utilizing third party sites or software products, you should read the relevant privacy policies of those providers for information regarding their privacy practices.
 
 **THE INFORMATION WE COLLECT AND WHY:**
 
