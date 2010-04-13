@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegames14.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213143948id_/http%3A//www.freegames14.com/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegames14.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414001448id_/http%3A//www.freegames14.com/page/1.html) for the most accurate reproduction.*
 
 # Free games 14 - Privacy Policy
 
