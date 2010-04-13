@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hentaicable.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202033506id_/http%3A//www.hentaicable.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentaicable.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413173735id_/http%3A//www.hentaicable.com/privacy.php) for the most accurate reproduction.*
 
 # Hentai and Japanese Adult Videos at Hentai Cable :: Privacy Policy
 
