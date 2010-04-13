@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the teachershealth.com.au privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102154201id_/http%3A//www.teachershealth.com.au/Default.aspx%3Ftabid%3D103) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachershealth.com.au privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413131736id_/http%3A//www.teachershealth.com.au/Default.aspx%3Ftabid%3D103) for the most accurate reproduction.*
 
 # Privacy
 
 Our privacy policy
 
-Teachers Federation Health is committed to protecting the information about you which it holds and uses. The following information outlines how we manage your personal information in accordance with the National Privacy Principles that are set out in the Privacy Act (Cth) 1988 (as amended).
+Teachers Health Fund is committed to protecting the information about you which it holds and uses. The following information outlines how we manage your personal information in accordance with the National Privacy Principles that are set out in the Privacy Act (Cth) 1988 (as amended).
 
 _How we collect and use your personal information_
 
