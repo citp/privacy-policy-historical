@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seo-peace.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415224650id_/http%3A//www.seo-peace.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo-peace.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413123331id_/http%3A//www.seo-peace.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Affordable SEO Services By Expert SEO and Marketing Company
 
