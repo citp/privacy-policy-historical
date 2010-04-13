@@ -1,19 +1,10 @@
-> *The following text is extracted and transformed from the 4rx.com privacy policy that was archived on 2009-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090712025255id_/http%3A//www.4rx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4rx.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413025725id_/http%3A//www.4rx.com/privacy.html) for the most accurate reproduction.*
 
 # 4RX.com: Online Pharmacy - Privacy Policy
 
-| 
-
 [ ](https://www.securitymetrics.com/site_certificate.adp?s=174.142.47.58&i=122320)
 
-|   | 
-
-[](https://www.mcafeesecure.com/RatingVerify?ref=www.4rx.com)  
-  
----|---|---  
-  
-  
-
+| 
 
 [](http://server.iad.liveperson.net/hc/84678233/?cmd=file&file=visitorWantsToChat&site=84678233&byhref=1&imageUrl=http://www.4rx.com/image-files/livehelp)
 
@@ -33,3 +24,9 @@ Your privacy and credit card security is utmost important to us. The personal in
 Your privacy is very important to us. **We assure you that, in accordance with our Privacy Policy, 4RX.COM, will not distribute our customer list to third parties**. 
 
 We welcome your feedback. If you have questions or comments about our privacy policies, feel free to [contact us](https://web.archive.org/contact-us.html).
+
+Suite 501,  
+St James Court,   
+St Denis Street,  
+Port Louis.   
+Republic of Mauritius
