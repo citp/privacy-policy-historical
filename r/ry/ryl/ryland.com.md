@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryland.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616065119id_/http%3A//www.ryland.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryland.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413125452id_/http%3A//www.ryland.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@
 
 ####  Purpose of this Notice.
 
-The purpose of this Privacy Policy Notice (“Notice”) is to inform you of how The Ryland Group, Inc. and its affiliated companies, including but not limited to Ryland Mortgage Company, Ryland Title Company, Ryland Escrow Company and Ryland Insurance Services (“Affiliated Companies”), protect and use your non-public personal information during the course of your home buying experience with our family of companies. Please read this policy carefully. It gives you important information about how we handle your personal information.
+The purpose of this Privacy Policy Notice (“Notice”) is to inform you of how The Ryland Group, Inc. and its affiliated companies, including but not limited to Ryland Mortgage Company, RMC Mortgage Corporation, Ryland Title Company, Ryland Escrow Company and Ryland Insurance Services (“Affiliated Companies”), protect and use your non-public personal information during the course of your home buying experience with our family of companies. Please read this policy carefully. It gives you important information about how we handle your personal information. 
 
 ####  Compliance with the Law.
 
