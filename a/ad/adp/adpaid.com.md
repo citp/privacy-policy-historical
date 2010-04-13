@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adpaid.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230225913id_/http%3A//adpaid.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpaid.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413152625id_/http%3A//adpaid.com/pages/privacy.php) for the most accurate reproduction.*
 
 # AdPaid.com Pays You - Privacy Statement
 
@@ -29,5 +29,5 @@ AdPaid.com gives users the following options for changing and modifying informat
 
 ## **Sponsor Ads**
 
-[](http://adpaid.com/scripts/runner.php?BA=2683&hash=b004afd6eb2dc48cd2b36e6a97b09f62&url=http%3A%2F%2Fwww.gotsafelist.com%2Fuser%2F38622)  
+[](http://adpaid.com/scripts/runner.php?BA=2826&hash=3ffdce56e61d2e1e64cce07758532c40&url=http%3A%2F%2Fsecure.hostgator.com%2Fcgi-bin%2Faffiliates%2Fclickthru.cgi%3Fid%3Dadpaid-adpaidbanner)  
 
