@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htmart.com privacy policy that was archived on 2009-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090324105528id_/http%3A//www.htmart.com/pages.php%3Fpageid%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmart.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413231348id_/http%3A//www.htmart.com/pages.php%3Fpageid%3D5) for the most accurate reproduction.*
 
 # Home Theater Mart | Privacy Policy
 
