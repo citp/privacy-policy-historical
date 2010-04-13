@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmaster-directory.org privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212212024id_/http%3A//www.webmaster-directory.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmaster-directory.org privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413083206id_/http%3A//www.webmaster-directory.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Webmaster Directory
 
