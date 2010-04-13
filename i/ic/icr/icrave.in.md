@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icrave.in privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225071140id_/http%3A//icrave.in/PrivacyPolicy.php%3FIndex%3D-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icrave.in privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413165017id_/http%3A//icrave.in/policies/privacy) for the most accurate reproduction.*
 
 # Welcome to iCrave - Restaurants | Shopping | Clubs | Hotels | Recreation
 
