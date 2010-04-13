@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsweek.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203114519id_/http%3A//www.newsweek.com/id/30180) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsweek.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413071355id_/http%3A//www.newsweek.com/id/30180) for the most accurate reproduction.*
 
-# Privacy Policy | Newsweek.com
+# Privacy Policy - Newsweek.com
 
 Newsweek.com PRIVACY POLICY   
 (effective as of October 15, 2007) 
