@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asp-shareware.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050505id_/http%3A//www.asp-shareware.org/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asp-shareware.org privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413232611id_/http%3A//www.asp-shareware.org/policy.asp) for the most accurate reproduction.*
 
-# Association of Shareware Professionals - The World's #1 Trade Organization for Independent Software Developers and Vendors
+# privacy - Association of Shareware Professionals
 
 **The web sites and services covered by this Policy**  
 We currently operate the following web sites (the "Sites"): 
