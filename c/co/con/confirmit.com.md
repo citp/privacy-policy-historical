@@ -1,8 +1,19 @@
-> *The following text is extracted and transformed from the confirmit.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224170446id_/http%3A//www.confirmit.com/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confirmit.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413140342id_/http%3A//www.confirmit.com/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Confirmit - Software for Customer Feedback, Employee Feedback, Market Research Applications
 
 Your privacy is important to Confirmit. This statement discloses the information practices for Confirmit Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
+
+**PHISHING Emails That Reference Confirmit**  
+We have been informed that e-mails with the subject “Important Information Regarding Your XXXX Account” are being sent by parties not affiliated with Confirmit.
+
+These emails ask recipients to provide login information related to an account that might be held at the company referenced in the subject line. The emails point to this webpage, Confirmit’s Privacy Policy, for more information.
+
+Confirmit is not responsible for the content of these emails. If you believe that you have been asked to provide personal information, please approach the company with whom you hold the account for more information and instructions.
+
+Confirmit does not engage in such practices.
+
+Note that Confirmit, as a provider of online survey software, enables its customers to send emails to individuals asking them to participate in market research surveys, or to provide customer and employee feedback. Confirmit does not authorize, approve or in any other way bear responsibility for emails sent out by clients under the terms of their contract to license Confirmit.
 
 **Two main categories of Confirmit sites**  
 Confirmit runs two main categories of Internet sites:
