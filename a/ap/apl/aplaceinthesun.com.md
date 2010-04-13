@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplaceinthesun.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104032655id_/http%3A//www.aplaceinthesun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplaceinthesun.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413121929id_/http%3A//www.aplaceinthesun.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | A Place in the Sun
 
@@ -36,10 +36,9 @@ Pure ([www.pure360.com](http://www.pure360.com/)) hosts this website for APITS L
 Please direct all general questions to:
 
 **APITS Ltd  
-2nd Floor  
-60 - 62 Commercial Street  
+16 Winchester Walk   
 London  
-E1 6LT  
+SE1 9AQ  
 **  
 Registered address: c/o Grunberg + Co, 10 - 14 Accommodation St, London NW11 8ED  
 Registered in England & Wales.  
