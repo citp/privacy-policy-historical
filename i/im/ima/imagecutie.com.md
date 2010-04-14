@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imagecutie.com privacy policy that was archived on 2009-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090905175252id_/http%3A//imagecutie.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagecutie.com privacy policy that was archived on 2010-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100415003411id_/http%3A//www.imagecutie.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Imagecutie » More Information » Privacy Policy
 
