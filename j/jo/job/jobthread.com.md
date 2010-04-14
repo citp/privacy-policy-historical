@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobthread.com privacy policy that was archived on 2009-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090812143301id_/http%3A//www.jobthread.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobthread.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414022223id_/http%3A//www.jobthread.com/privacy) for the most accurate reproduction.*
 
 # JobThread | Privacy Policy
 
