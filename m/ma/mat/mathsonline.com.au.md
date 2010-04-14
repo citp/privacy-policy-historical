@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathsonline.com.au privacy policy that was archived on 2009-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091024190424id_/http%3A//www.mathsonline.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathsonline.com.au privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414021458id_/http%3A//www.mathsonline.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
