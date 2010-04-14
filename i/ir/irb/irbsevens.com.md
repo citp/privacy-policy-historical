@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irbsevens.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218181952id_/http%3A//www.irb.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irbsevens.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414171228id_/http%3A//www.irb.com/privacypolicy.html) for the most accurate reproduction.*
 
 # International Rugby Board - privacy
 
