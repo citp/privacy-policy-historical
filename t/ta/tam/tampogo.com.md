@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tampogo.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127213302id_/http%3A//www.tampogo.com/pdf/Privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tampogo.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414125230id_/http%3A//www.tampogo.com/pdf/Privacy.pdf) for the most accurate reproduction.*
 
 # TamPogo™ Privacy Policy
 
