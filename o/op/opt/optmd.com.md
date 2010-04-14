@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optmd.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213092020id_/http%3A//www.optmd.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optmd.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414040258id_/http%3A//optmd.com/privacy.html) for the most accurate reproduction.*
 
 # OptMD.com > Privacy Policy
 
