@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the love-sessions.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208181127id_/http%3A//www.love-sessions.com/policy_guidelines.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the love-sessions.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414111816id_/http%3A//www.love-sessions.com/policy_guidelines.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
