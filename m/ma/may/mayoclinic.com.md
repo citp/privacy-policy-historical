@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the mayoclinic.com privacy policy that was archived on 2009-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090306075310id_/http%3A//www.mayoclinic.com/health/privacy-policy/AM00005) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mayoclinic.com privacy policy that was archived on 2010-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100415010111id_/http%3A//www.mayoclinic.com/health/privacy-policy/AM00005) for the most accurate reproduction.*
 
 # Privacy policy - MayoClinic.com
 
-**Updated July 1, 2008.**
+[By Mayo Clinic staff](https://web.archive.org/health/AboutThisSite/AM00057)
+
+**Updated April 8, 2010.**
 
 MayoClinic.com is committed to protecting your online privacy. We feel it is important for you to know how we handle the information we receive from you via the Internet. You can visit www.MayoClinic.com without revealing any personal information. However, you are required to provide an e-mail address to subscribe to a newsletter. 
 
@@ -46,9 +48,27 @@ Except as noted above for surveys, MayoClinic.com does not provide any third par
 
 We may provide third parties with aggregate statistics about our visitors, traffic patterns and related site information. These data reflect site-usage patterns gathered during visits to our Web site each month, but they do not contain behavioral or identifying information about any individual member unless that member has given us permission to share that information. 
 
-Our sponsors and advertisers and their Ad Servers may use cookies when you view pages on our site. They use those cookies to collect nonpersonal information as a way of measuring the effectiveness of their advertising. We do not control these third parties' use of cookies or how they manage the nonpersonal information they gather through them. However, our sponsors and advertisers have agreed that they will not collect any personally identifiable information from our site visitors while they are on MayoClinic.com. If you click on an advertisement on MayoClinic.com and visit a site maintained by one of our sponsors or advertisers, please be aware that we are not responsible for the privacy practices of that site. You should read the privacy policies of each site you visit to determine what information that site may be collecting about you. 
+## Use of cookies by advertisers
 
-Some Ad Servers allow you to opt out of anonymous data collection through the use of cookies. To do so, you must opt out of such data collection with each individual site. You can opt out of cookies for several Ad Servers by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp) gateway opt-out site. At that site you can also review the privacy policies of those Ad Servers. 
+Our sponsors and advertisers and their Ad Servers may use cookies when you view pages on our site. They use those cookies to collect nonpersonal information as a way of measuring the effectiveness of their advertising, or to provide advertisements about goods and services that may be of interest to you or to avoid running the same ads to you over time. We do not control these third parties' use of cookies or how they manage the nonpersonal information they gather through them. However, our sponsors and advertisers have agreed that they will not collect any personally identifiable information from our site visitors while they are on MayoClinic.com. If you click on an advertisement on MayoClinic.com and visit a site maintained by one of our sponsors or advertisers, please be aware that we are not responsible for the privacy practices of that site. You should read the privacy policies of each site you visit to determine what information that site may be collecting about you. 
+
+## Ads by Google
+
+Note that Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of this DART cookie enables it to serve ads to our site users based on their visit to our site and other sites on the Internet. No personally identifiable information is collected as part of Google's process. Users may opt out of the use of this DART cookie by visiting the Google ad and content network [privacy policy](http://www.google.com/privacy_ads.html). 
+
+If you would like more information about these practices and to know your choices about not having this information used by these companies, visit the Network Advertising Initiative. Some Ad Servers allow you to opt out of anonymous data collection through the use of cookies. To do so, you must opt out of such data collection with each individual site. You can opt out of cookies for several Ad Servers by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp) gateway opt-out site. At that site you can also review the privacy policies of those Ad Servers. 
+
+## 24/7 Real Media
+
+MayoClinic.com uses technology provided by a third-party advertising company, 24/7 Real Media, to serve ads when you visit this Web site. This technology may use information from your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this Web site, such third-party advertising technology may place or recognize a unique cookie on your browser. Cookies delivered by our ad server, 24/7 Real Media, do not include your name, address, phone number, email address or other personally identifiable information. 24/7 Real Media creates usage/behavior/interest-based categories called "segments." Segments are unique groups of users that are created using criteria that enable 24/7 Real Media to selectively serve targeted advertisements and otherwise profile users of our site. In connection with providing these services, 24/7 Real Media employs cookies on MayoClinic.com in order to better define segments and determine which segments an online user belongs to for targeting advertisements. 
+
+If you would like to be opted-out (or opt in if you've previously opted out) of receiving 24/7 real media behavioral targeting advertising cookies, please click here. 
+
+If you buy a new computer, upgrade or change Web browsers or delete this "opt out" cookie, you will need to perform this opt-out process again. In order for the opt out to work, your browser must be set to accept 3rd party cookies. 
+
+## Everyday Health
+
+Everyday Health, may also use a third party ad network provider, Collective Media, to help present advertisements on this Web site. Third-party ad serving enables Everyday Health to target advertisements on MayoClinic.com to you for products and services you might be interested in. These third party network advertisers, along with other advertisers and sponsors on the Web site, may use cookies, web beacons (also called single pixel gifs or action tags) or similar technologies (and, in the case of cookies, access them on your computer if you choose to have cookies enabled in your browser) to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before, to avoid sending you duplicated advertisements and to serve you advertisements on other sites. In doing so, the provider collects non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed and other clickstream data. The use of third party cookies, web beacons and similar technologies by these ad network providers is governed by each third party's specific privacy policy, not this one. Please visit [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp) to learn more about the information collection practices and "opt-out" procedures of third party ad networks we may use. 
 
 ## Aggregate information
 
@@ -87,3 +107,5 @@ If you've contacted MayoClinic.com about a privacy-related concern and you do no
 ## Changes to our Privacy policy
 
 We will occasionally update this Privacy policy. You will see the word "updated" followed by the date next to the Privacy policy link near the bottom of all pages on the site. If the "updated" date has changed since you last visited, you're encouraged to review the policy to be informed of how this site is protecting your information. 
+
+[return to about this site](https://web.archive.org/health/aboutthissite/aboutthissite)
