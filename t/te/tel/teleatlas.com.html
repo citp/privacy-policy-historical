@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the teleatlas.com privacy policy that was archived on 2009-08-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090827030800id_/http%3A//www.teleatlas.com/PrivacyPolicy/index.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teleatlas.com privacy policy that was archived on 2010-04-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100414022225id_/http%3A//www.teleatlas.com/PrivacyPolicy/index.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html dir="LTR"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
@@ -63,7 +63,7 @@
 
 body
 	{
-	background-image:url(/stellent/fragments/cw3_header/CW_EarthBG2.jpg);
+	background-image:url(/stellent/fragments/cw3_header/CW_MapBG2.jpg);
 	background-position:center top;
 	background-repeat:no-repeat;
 	font-family:Verdana, Arial, Helvetica, sans-serif;
@@ -1703,24 +1703,10 @@ function makeRemote(mylink)
 				
 					
 					<td align="center">
-						<a class="TopNavText" href="http://partnerlink.teleatlas.com">
+						<a class="TopNavText" href="/PartnerPrograms/index.htm">
 							
 							
-								PartnerLink
-							
-						</a>
-					</td>
-					
-					<td width="5" align="center" class="TopNavText">|</td>
-					
-				
-				
-					
-					<td align="center">
-						<a class="TopNavText" href="http://developerlink.teleatlas.com">
-							
-							
-								DeveloperLink
+								Partners
 							
 						</a>
 					</td>
@@ -1731,24 +1717,10 @@ function makeRemote(mylink)
 				
 					
 					<td align="center">
-						<a class="TopNavText" href="/PartnerPrograms/ContentLink/index.htm">
+						<a class="TopNavText" href="/PartnerPrograms/DeveloperLink/index.htm">
 							
 							
-								ContentLink
-							
-						</a>
-					</td>
-					
-					<td width="5" align="center" class="TopNavText">|</td>
-					
-				
-				
-					
-					<td align="center">
-						<a class="TopNavText" href="/WhyTeleAtlas/Careers/index.htm">
-							
-							
-								Careers
+								Developers
 							
 						</a>
 					</td>
@@ -1767,26 +1739,12 @@ function makeRemote(mylink)
 						</a>
 					</td>
 					
-					<td width="5" align="center" class="TopNavText">|</td>
+				
+				
+				
+					<td class="LanguageSelector" style="width:50px;">&nbsp;&nbsp;</td> <!-- Language: -->
 					
-				
-				
-					
-					<td align="center">
-						<a class="TopNavText" href="/WhyTeleAtlas/ContactUs/index.htm">
-							
-							
-								Contact Us
-							
-						</a>
-					</td>
-					
-				
-				
-				
-					<td class="LanguageSelector" align="right" style="width:50px;">&nbsp;&nbsp;</td> <!-- Language: -->
-					
-					<td> <!-- onsubmit="return navigateForm(this.form.Lang)"-->
+					<td style="text-align:right;"> <!-- onsubmit="return navigateForm(this.form.Lang)"-->
 						<form name="LangChange" method="GET" style="display:inline;">
 							<select class="LanguageSelector" id="Lang" onchange="LangChange.submit();" name="Lang"> 
           						<option value="FL">België</option>
@@ -1896,7 +1854,8 @@ function makeRemote(mylink)
 			padding-left: 3px;
 			padding-right: 3px;
 			cursor: pointer;
-			background-color: #00607C;
+			background-color: #538f1e;
+			
 			background-image: url(/stellent/fragments/cw_dhtml_menu/menu_bg_off.gif);
 		}
 		
@@ -1910,7 +1869,7 @@ function makeRemote(mylink)
 			width: 150px;
 			color: black;
 			font-size:10pt;
-			background-color: #F0F0F0;
+			background-color: white;
 			border-left: 1px solid black;
 			border-right: 1px solid black;
 			border-top: 1px solid black;
@@ -1918,7 +1877,7 @@ function makeRemote(mylink)
 			position: absolute;	
 			top: 0px;
 			left: 0px;
-			
+			z-index:100;
 			display: none;
 		}
 				
@@ -2025,7 +1984,7 @@ function makeRemote(mylink)
 			
 			if (level == 0)
 			{	
-				curElement.getElementsByTagName("a")[0].style.color = "black";
+				//curElement.getElementsByTagName("a")[0].style.color = "black";
 				curElement.style.backgroundImage = "url(/stellent/fragments/cw_dhtml_menu/menu_bg_on.gif)";
 				
 				var subMenuEl = document.getElementById(curElement.id + "_sub");
@@ -2062,8 +2021,13 @@ function makeRemote(mylink)
 			}
 			else
 			{
+				/*
 				curElement.style.backgroundImage = "url(/stellent/fragments/cw_dhtml_menu/submenu_bg_on.gif)";
 				curElement.getElementsByTagName("a")[0].style.color = "#126B85";
+				*/
+				curElement.style.backgroundImage = "url(/stellent/fragments/cw_dhtml_menu/menu_bg_on.gif)";
+				curElement.getElementsByTagName("a")[0].style.color = "white";
+				
 				
 				var subMenuEl = document.getElementById(curElement.id + "_sub");
 				
@@ -2136,7 +2100,7 @@ function makeRemote(mylink)
 				}
 				else
 				{
-					menuEl.getElementsByTagName("a")[0].style.color = "white";
+					//menuEl.getElementsByTagName("a")[0].style.color = "white";
 					menuEl.style.backgroundImage = "url(/stellent/fragments/cw_dhtml_menu/menu_bg_off.gif)";
 				}
 			}
@@ -2229,7 +2193,7 @@ function makeRemote(mylink)
    					
  			
    					<td class="topLevelTd" id="menu_0" onmouseover="mOver(this, 0);" onmouseout="mOut(this, 0);" onclick="navPage('/WhyTeleAtlas/index.htm');">
- 						<a href="/WhyTeleAtlas/index.htm" class="menu">About Tele Atlas</a>
+ 						<a href="/WhyTeleAtlas/index.htm" class="menu">About Tele Atlas</a> <!--  -->
  					</td>
  					
  						<script type="text/javascript">
@@ -2245,7 +2209,7 @@ function makeRemote(mylink)
    					
  			
    					<td class="topLevelTd" id="menu_1" onmouseover="mOver(this, 0);" onmouseout="mOut(this, 0);" onclick="navPage('/Markets/index.htm');">
- 						<a href="/Markets/index.htm" class="menu">Markets</a>
+ 						<a href="/Markets/index.htm" class="menu">Markets</a> <!--  -->
  					</td>
  					
  						<script type="text/javascript">
@@ -2261,7 +2225,7 @@ function makeRemote(mylink)
    					
  			
    					<td class="topLevelTd" id="menu_2" onmouseover="mOver(this, 0);" onmouseout="mOut(this, 0);" onclick="navPage('/OurProducts/index.htm');">
- 						<a href="/OurProducts/index.htm" class="menu">Our Products</a>
+ 						<a href="/OurProducts/index.htm" class="menu">Our Products</a> <!--  -->
  					</td>
  					
  						<script type="text/javascript">
@@ -2277,7 +2241,7 @@ function makeRemote(mylink)
    					
  			
    					<td class="topLevelTd" id="menu_3" onmouseover="mOver(this, 0);" onmouseout="mOut(this, 0);" onclick="navPage('/PartnerPrograms/index.htm');">
- 						<a href="/PartnerPrograms/index.htm" class="menu">Partner Programs</a>
+ 						<a href="/PartnerPrograms/index.htm" class="menu">Partner Programs</a> <!--  -->
  					</td>
  					
  						<script type="text/javascript">
@@ -2293,7 +2257,7 @@ function makeRemote(mylink)
    					
  			
    					<td class="topLevelTd" id="menu_4" onmouseover="mOver(this, 0);" onmouseout="mOut(this, 0);" onclick="navPage('/Support/index.htm');">
- 						<a href="/Support/index.htm" class="menu">Support</a>
+ 						<a href="/Support/index.htm" class="menu">Professional Services</a> <!--  -->
  					</td>
  					
  						<script type="text/javascript">
@@ -2309,7 +2273,7 @@ function makeRemote(mylink)
    					
  			
    					<td class="topLevelTd" id="menu_5" onmouseover="mOver(this, 0);" onmouseout="mOut(this, 0);" onclick="navPage('/Reference/index.htm');">
- 						<a href="/Reference/index.htm" class="menu">Reference</a>
+ 						<a href="/Reference/index.htm" class="menu">Reference</a> <!--  -->
  					</td>
  					
  						<script type="text/javascript">
@@ -2325,7 +2289,7 @@ function makeRemote(mylink)
    					
  			
    					<td class="topLevelTd" id="menu_6" onmouseover="mOver(this, 0);" onmouseout="mOut(this, 0);" onclick="navPage('/ForConsumers/index.htm');">
- 						<a href="/ForConsumers/index.htm" class="menu">For Consumers</a>
+ 						<a href="/ForConsumers/index.htm" class="menu">For Map Users</a> <!--  -->
  					</td>
  					
  						<script type="text/javascript">
@@ -2341,52 +2305,38 @@ function makeRemote(mylink)
  	
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_0_sub" class="submenu">
- 				
  		
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_0_0" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/WhyTeleAtlas/TheTeleAtlasAdvantage/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/WhyTeleAtlas/TheTeleAtlasAdvantage/index.htm" class="menu">The Tele Atlas Advantage</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -2396,89 +2346,45 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_0_1" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/WhyTeleAtlas/Vision/index.htm');">
+ 			<div id="menu_0_1" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/WhyTeleAtlas/Innovation/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/Vision/index.htm" class="menu">Vision</a>
-						</td>
 						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_0_2" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/WhyTeleAtlas/Innovation/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/WhyTeleAtlas/Innovation/index.htm" class="menu">Innovation</a>
 						</td>
-						
- 						
- 						
+						 
  						<td class="menuItemDisplayTd"><img src="/stellent/fragments/cw_dhtml_menu/arrow.gif"></td>	
 					</tr>
 				</tbody></table>
 			</div>
 			
-				<div id="menu_0_2_sub" class="submenu">
+				<div id="menu_0_1_sub" class="submenu">
  			
  		
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_0_2_0" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/Innovation/Milestones/index.htm');">
+ 			<div id="menu_0_1_0" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/Innovation/Milestones/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/WhyTeleAtlas/Innovation/Milestones/index.htm" class="menu">Milestones</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -2488,27 +2394,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_0_2_1" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/Innovation/Patents/index.htm');">
+ 			<div id="menu_0_1_1" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/Innovation/Patents/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/WhyTeleAtlas/Innovation/Patents/index.htm" class="menu">Patents</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -2518,29 +2417,43 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
- 			</div>
-		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_0_3" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/WhyTeleAtlas/ManagementTeam/index.htm');">
+ 			<div id="menu_0_1_2" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/Innovation/GeospatialInnovationCenter/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/Innovation/GeospatialInnovationCenter/index.htm" class="menu">Geospatial Innovation Center</a>
+						</td>
+						 
+ 						
+					</tr>
+				</tbody></table>
+			</div>
+			
+ 		
+ 		
+ 	
+ 		
+ 		</div>		
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_0_2" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/WhyTeleAtlas/ManagementTeam/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/WhyTeleAtlas/ManagementTeam/index.htm" class="menu">Management Team</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -2550,27 +2463,137 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_0_4" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/WhyTeleAtlas/Pressroom/index.htm');">
+ 			<div id="menu_0_3" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/WhyTeleAtlas/Pressroom/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/WhyTeleAtlas/Pressroom/index.htm" class="menu">Press Room</a>
 						</td>
+						 
+ 						<td class="menuItemDisplayTd"><img src="/stellent/fragments/cw_dhtml_menu/arrow.gif"></td>	
+					</tr>
+				</tbody></table>
+			</div>
+			
+				<div id="menu_0_3_sub" class="submenu">
+ 			
+ 		
+ 		
+ 	
+ 		
+ 				
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_0_3_0" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/Pressroom/PressReleases/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
 						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/Pressroom/PressReleases/index.htm" class="menu">Press Releases</a>
+						</td>
+						 
  						
+					</tr>
+				</tbody></table>
+			</div>
+			
+ 		
+ 		
+ 	
+ 		
+ 				
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_0_3_1" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/Pressroom/Events/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/Pressroom/Events/index.htm" class="menu">Events</a>
+						</td>
+						 
  						
+					</tr>
+				</tbody></table>
+			</div>
+			
+ 		
+ 		
+ 	
+ 		
+ 				
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_0_3_2" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/Pressroom/PressKit/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/Pressroom/PressKit/index.htm" class="menu">Press Kit</a>
+						</td>
+						 
+ 						
+					</tr>
+				</tbody></table>
+			</div>
+			
+ 		
+ 		
+ 	
+ 		
+ 				
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_0_3_3" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/Pressroom/PressContacts/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/Pressroom/PressContacts/index.htm" class="menu">Press Contacts</a>
+						</td>
+						 
+ 						
+					</tr>
+				</tbody></table>
+			</div>
+			
+ 		
+ 		
+ 	
+ 		
+ 		</div>		
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_0_4" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/WhyTeleAtlas/Careers/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/Careers/index.htm" class="menu">Careers</a>
+						</td>
+						 
  						<td class="menuItemDisplayTd"><img src="/stellent/fragments/cw_dhtml_menu/arrow.gif"></td>	
 					</tr>
 				</tbody></table>
@@ -2582,27 +2605,45 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_0_4_0" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/Pressroom/PressReleases/index.htm');">
+ 			<div id="menu_0_4_0" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/Careers/JobOpenings/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/Pressroom/PressReleases/index.htm" class="menu">Press Releases</a>
-						</td>
 						
- 						
- 						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/Careers/JobOpenings/index.htm" class="menu">Job Openings</a>
+						</td>
+						 
+ 						<td class="menuItemDisplayTd"><img src="/stellent/fragments/cw_dhtml_menu/arrow.gif"></td>	
+					</tr>
+				</tbody></table>
+			</div>
+			
+				<div id="menu_0_4_0_sub" class="submenu">
+ 			
+ 		
+ 		
+ 	
+ 		
+ 				
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_0_4_0_0" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/Careers/JobOpenings/Europe/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/Careers/JobOpenings/Europe/index.htm" class="menu">EMEA</a>
+						</td>
+						 
  						
 					</tr>
 				</tbody></table>
@@ -2612,27 +2653,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_0_4_1" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/Pressroom/Events/index.htm');">
+ 			<div id="menu_0_4_0_1" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/Careers/JobOpenings/NorthAmerica/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/Pressroom/Events/index.htm" class="menu">Events</a>
-						</td>
 						
- 						
- 						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/Careers/JobOpenings/NorthAmerica/index.htm" class="menu">The Americas</a>
+						</td>
+						 
  						
 					</tr>
 				</tbody></table>
@@ -2642,89 +2676,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 		</div></div>		
 		
  		
  		
- 
  		
- 			<div id="menu_0_4_2" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/Pressroom/PressKit/index.htm');">
+ 			<div id="menu_0_5" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/WhyTeleAtlas/ContactUs/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/Pressroom/PressKit/index.htm" class="menu">Press Kit</a>
+							<a href="/WhyTeleAtlas/ContactUs/index.htm" class="menu">Contact Us</a>
 						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_0_4_3" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/Pressroom/PressContacts/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/Pressroom/PressContacts/index.htm" class="menu">Press Contacts</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
- 			</div>
-		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_0_5" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/WhyTeleAtlas/Careers/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/Careers/index.htm" class="menu">Careers</a>
-						</td>
-						
- 						
- 						
+						 
  						<td class="menuItemDisplayTd"><img src="/stellent/fragments/cw_dhtml_menu/arrow.gif"></td>	
 					</tr>
 				</tbody></table>
@@ -2736,27 +2701,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_0_5_0" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/Careers/JobOpenings/index.htm');">
+ 			<div id="menu_0_5_0" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/ContactUs/Africa/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/Careers/JobOpenings/index.htm" class="menu">Job Openings</a>
-						</td>
 						
- 						
- 						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/ContactUs/Africa/index.htm" class="menu">Africa</a>
+						</td>
+						 
  						<td class="menuItemDisplayTd"><img src="/stellent/fragments/cw_dhtml_menu/arrow.gif"></td>	
 					</tr>
 				</tbody></table>
@@ -2768,27 +2726,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_0_5_0_0" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/Careers/JobOpenings/Europe/index.htm');">
+ 			<div id="menu_0_5_0_0" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Africa/SouthAfrica/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/Careers/JobOpenings/Europe/index.htm" class="menu">EMEA</a>
-						</td>
 						
- 						
- 						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/ContactUs/Africa/SouthAfrica/index.htm" class="menu">South Africa</a>
+						</td>
+						 
  						
 					</tr>
 				</tbody></table>
@@ -2798,27 +2749,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 		</div>		
 		
  		
  		
- 
  		
- 			<div id="menu_0_5_0_1" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/Careers/JobOpenings/NorthAmerica/index.htm');">
+ 			<div id="menu_0_5_1" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/ContactUs/TheAmericas/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/Careers/JobOpenings/NorthAmerica/index.htm" class="menu">North America</a>
-						</td>
 						
- 						
- 						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/ContactUs/TheAmericas/index.htm" class="menu">Americas</a>
+						</td>
+						 
  						
 					</tr>
 				</tbody></table>
@@ -2828,577 +2772,45 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-			</div></div>
-		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_0_6" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/WhyTeleAtlas/ContactUs/index.htm');">
+ 			<div id="menu_0_5_2" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/ContactUs/AsiaPacific/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/ContactUs/index.htm" class="menu">Contact Us</a>
-						</td>
 						
- 						
- 						
- 						<td class="menuItemDisplayTd"><img src="/stellent/fragments/cw_dhtml_menu/arrow.gif"></td>	
-					</tr>
-				</tbody></table>
-			</div>
-			
-				<div id="menu_0_6_sub" class="submenu">
- 			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_0_6_0" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/ContactUs/Europe/index.htm" class="menu">Europe</a>
-						</td>
-						
- 						
- 						
- 						<td class="menuItemDisplayTd"><img src="/stellent/fragments/cw_dhtml_menu/arrow.gif"></td>	
-					</tr>
-				</tbody></table>
-			</div>
-			
-				<div id="menu_0_6_0_sub" class="submenu">
- 			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_0_6_0_0" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/EuropeanHeadquarters/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/ContactUs/Europe/EuropeanHeadquarters/index.htm" class="menu">European Headquarters</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_0_6_0_1" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/Austria/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/ContactUs/Europe/Austria/index.htm" class="menu">Austria</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_0_6_0_2" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/BelgiumLuxembourg/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/ContactUs/Europe/BelgiumLuxembourg/index.htm" class="menu">Belgium &amp; Luxembourg</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_0_6_0_3" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/CentralEurope/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/ContactUs/Europe/CentralEurope/index.htm" class="menu">Central Europe</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_0_6_0_4" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/France/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/ContactUs/Europe/France/index.htm" class="menu">France</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_0_6_0_5" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/Germany/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/ContactUs/Europe/Germany/index.htm" class="menu">Germany</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_0_6_0_6" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/Italy/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/ContactUs/Europe/Italy/index.htm" class="menu">Italy</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_0_6_0_7" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/TheNetherlands/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/ContactUs/Europe/TheNetherlands/index.htm" class="menu">The Netherlands</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_0_6_0_8" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/Poland/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/ContactUs/Europe/Poland/index.htm" class="menu">Poland</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_0_6_0_9" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/Russia/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/ContactUs/Europe/Russia/index.htm" class="menu">Russia</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_0_6_0_10" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/Scandinavia/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/ContactUs/Europe/Scandinavia/index.htm" class="menu">Scandinavia</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_0_6_0_11" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/Spain/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/ContactUs/Europe/Spain/index.htm" class="menu">Spain</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_0_6_0_12" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/Sweden/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/ContactUs/Europe/Sweden/index.htm" class="menu">Sweden</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_0_6_0_13" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/Switzerland/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/ContactUs/Europe/Switzerland/index.htm" class="menu">Switzerland</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_0_6_0_14" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/UnitedKingdom/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/ContactUs/Europe/UnitedKingdom/index.htm" class="menu">United Kingdom</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
- 			</div>
-		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_0_6_1" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/ContactUs/AsiaPacific/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/WhyTeleAtlas/ContactUs/AsiaPacific/index.htm" class="menu">Asia Pacific</a>
 						</td>
-						
- 						
- 						
+						 
  						<td class="menuItemDisplayTd"><img src="/stellent/fragments/cw_dhtml_menu/arrow.gif"></td>	
 					</tr>
 				</tbody></table>
 			</div>
 			
-				<div id="menu_0_6_1_sub" class="submenu">
+				<div id="menu_0_5_2_sub" class="submenu">
  			
  		
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_0_6_1_0" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/AsiaPacific/China/index.htm');">
+ 			<div id="menu_0_5_2_0" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/AsiaPacific/China/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/WhyTeleAtlas/ContactUs/AsiaPacific/China/index.htm" class="menu">China</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -3408,27 +2820,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_0_6_1_1" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/AsiaPacific/India/index.htm');">
+ 			<div id="menu_0_5_2_1" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/AsiaPacific/India/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/WhyTeleAtlas/ContactUs/AsiaPacific/India/index.htm" class="menu">India</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -3438,27 +2843,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_0_6_1_2" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/AsiaPacific/Indonesia/index.htm');">
+ 			<div id="menu_0_5_2_2" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/AsiaPacific/Indonesia/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/WhyTeleAtlas/ContactUs/AsiaPacific/Indonesia/index.htm" class="menu">Indonesia</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -3468,27 +2866,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_0_6_1_3" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/AsiaPacific/Japan/index.htm');">
+ 			<div id="menu_0_5_2_3" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/AsiaPacific/Japan/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/WhyTeleAtlas/ContactUs/AsiaPacific/Japan/index.htm" class="menu">Japan</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -3498,27 +2889,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_0_6_1_4" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/AsiaPacific/Korea/index.htm');">
+ 			<div id="menu_0_5_2_4" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/AsiaPacific/Korea/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/WhyTeleAtlas/ContactUs/AsiaPacific/Korea/index.htm" class="menu">Korea</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -3528,27 +2912,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_0_6_1_5" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/AsiaPacific/Malaysia/index.htm');">
+ 			<div id="menu_0_5_2_5" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/AsiaPacific/Malaysia/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/WhyTeleAtlas/ContactUs/AsiaPacific/Malaysia/index.htm" class="menu">Malaysia</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -3558,27 +2935,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_0_6_1_6" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/AsiaPacific/Singapore/index.htm');">
+ 			<div id="menu_0_5_2_6" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/AsiaPacific/Singapore/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/WhyTeleAtlas/ContactUs/AsiaPacific/Singapore/index.htm" class="menu">Singapore</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -3588,57 +2958,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_0_6_1_7" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/AsiaPacific/SouthAfrica/index.htm');">
+ 			<div id="menu_0_5_2_7" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/AsiaPacific/Taiwan/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/ContactUs/AsiaPacific/SouthAfrica/index.htm" class="menu">South Africa</a>
-						</td>
 						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_0_6_1_8" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/AsiaPacific/Taiwan/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/WhyTeleAtlas/ContactUs/AsiaPacific/Taiwan/index.htm" class="menu">Taiwan</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -3648,27 +2981,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_0_6_1_9" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/AsiaPacific/Thailand/index.htm');">
+ 			<div id="menu_0_5_2_8" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/AsiaPacific/Thailand/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/WhyTeleAtlas/ContactUs/AsiaPacific/Thailand/index.htm" class="menu">Thailand</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -3678,29 +3004,45 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
- 			</div>
-		
-		
+ 		</div>		
 		
  		
  		
- 
  		
- 			<div id="menu_0_6_2" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/ContactUs/TheAmericas/index.htm');">
+ 			<div id="menu_0_5_3" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/WhyTeleAtlas/ContactUs/TheAmericas/index.htm" class="menu">The Americas</a>
+							<a href="/WhyTeleAtlas/ContactUs/Europe/index.htm" class="menu">Europe</a>
 						</td>
+						 
+ 						<td class="menuItemDisplayTd"><img src="/stellent/fragments/cw_dhtml_menu/arrow.gif"></td>	
+					</tr>
+				</tbody></table>
+			</div>
+			
+				<div id="menu_0_5_3_sub" class="submenu">
+ 			
+ 		
+ 		
+ 	
+ 		
+ 				
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_0_5_3_0" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/Austria/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
 						
- 						
- 						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/ContactUs/Europe/Austria/index.htm" class="menu">Austria</a>
+						</td>
+						 
  						
 					</tr>
 				</tbody></table>
@@ -3710,27 +3052,319 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_0_6_3" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/ContactUs/MapFeedback/index.htm');">
+ 			<div id="menu_0_5_3_1" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/BelgiumLuxembourg/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/ContactUs/Europe/BelgiumLuxembourg/index.htm" class="menu">Belgium</a>
+						</td>
+						 
+ 						
+					</tr>
+				</tbody></table>
+			</div>
+			
+ 		
+ 		
+ 	
+ 		
+ 				
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_0_5_3_2" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/Scandinavia/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/ContactUs/Europe/Scandinavia/index.htm" class="menu">Denmark</a>
+						</td>
+						 
+ 						
+					</tr>
+				</tbody></table>
+			</div>
+			
+ 		
+ 		
+ 	
+ 		
+ 				
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_0_5_3_3" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/France/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/ContactUs/Europe/France/index.htm" class="menu">France</a>
+						</td>
+						 
+ 						
+					</tr>
+				</tbody></table>
+			</div>
+			
+ 		
+ 		
+ 	
+ 		
+ 				
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_0_5_3_4" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/Germany/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/ContactUs/Europe/Germany/index.htm" class="menu">Germany</a>
+						</td>
+						 
+ 						
+					</tr>
+				</tbody></table>
+			</div>
+			
+ 		
+ 		
+ 	
+ 		
+ 				
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_0_5_3_5" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/Hungary/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/ContactUs/Europe/Hungary/index.htm" class="menu">Hungary</a>
+						</td>
+						 
+ 						
+					</tr>
+				</tbody></table>
+			</div>
+			
+ 		
+ 		
+ 	
+ 		
+ 				
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_0_5_3_6" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/Italy/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/ContactUs/Europe/Italy/index.htm" class="menu">Italy</a>
+						</td>
+						 
+ 						
+					</tr>
+				</tbody></table>
+			</div>
+			
+ 		
+ 		
+ 	
+ 		
+ 				
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_0_5_3_7" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/TheNetherlands/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/ContactUs/Europe/TheNetherlands/index.htm" class="menu">The Netherlands</a>
+						</td>
+						 
+ 						
+					</tr>
+				</tbody></table>
+			</div>
+			
+ 		
+ 		
+ 	
+ 		
+ 				
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_0_5_3_8" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/Poland/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/ContactUs/Europe/Poland/index.htm" class="menu">Poland</a>
+						</td>
+						 
+ 						
+					</tr>
+				</tbody></table>
+			</div>
+			
+ 		
+ 		
+ 	
+ 		
+ 				
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_0_5_3_9" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/Russia/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/ContactUs/Europe/Russia/index.htm" class="menu">Russia</a>
+						</td>
+						 
+ 						
+					</tr>
+				</tbody></table>
+			</div>
+			
+ 		
+ 		
+ 	
+ 		
+ 				
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_0_5_3_10" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/Spain/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/ContactUs/Europe/Spain/index.htm" class="menu">Spain</a>
+						</td>
+						 
+ 						
+					</tr>
+				</tbody></table>
+			</div>
+			
+ 		
+ 		
+ 	
+ 		
+ 				
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_0_5_3_11" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/Sweden/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/ContactUs/Europe/Sweden/index.htm" class="menu">Sweden</a>
+						</td>
+						 
+ 						
+					</tr>
+				</tbody></table>
+			</div>
+			
+ 		
+ 		
+ 	
+ 		
+ 				
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_0_5_3_12" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/Switzerland/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/ContactUs/Europe/Switzerland/index.htm" class="menu">Switzerland</a>
+						</td>
+						 
+ 						
+					</tr>
+				</tbody></table>
+			</div>
+			
+ 		
+ 		
+ 	
+ 		
+ 				
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_0_5_3_13" class="submenuItem" onmouseover="mOver(this, 3);" onmouseout="mOut(this, 3)" onclick="navPage('/WhyTeleAtlas/ContactUs/Europe/UnitedKingdom/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/WhyTeleAtlas/ContactUs/Europe/UnitedKingdom/index.htm" class="menu">United Kingdom</a>
+						</td>
+						 
+ 						
+					</tr>
+				</tbody></table>
+			</div>
+			
+ 		
+ 		
+ 	
+ 		
+ 		</div>		
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_0_5_4" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/ContactUs/MapFeedback/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/WhyTeleAtlas/ContactUs/MapFeedback/index.htm" class="menu">Map Feedback</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -3740,27 +3374,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_0_6_4" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/ContactUs/MapUpdates/index.htm');">
+ 			<div id="menu_0_5_5" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/WhyTeleAtlas/ContactUs/MapUpdates/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/WhyTeleAtlas/ContactUs/MapUpdates/index.htm" class="menu">Map Updates Store</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -3770,43 +3397,30 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-			</div></div>
-		
-		
+ 		</div></div>		
 		
  		
  		
- 
  		
  			<div id="menu_1_sub" class="submenu">
- 				
  		
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_1_0" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/Markets/Market-Solutions-and-LBS/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/Markets/Market-Solutions-and-LBS/index.htm" class="menu">Market Solutions and LBS</a>
-						</td>
 						
- 						
- 						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/Markets/Market-Solutions-and-LBS/index.htm" class="menu">Market Overview</a>
+						</td>
+						 
  						
 					</tr>
 				</tbody></table>
@@ -3816,27 +3430,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_1_1" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/Markets/Portable-Navigation-Devices/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/Markets/Portable-Navigation-Devices/index.htm" class="menu">Portable Navigation Devices</a>
 						</td>
-						
- 						
- 						
+						 
  						<td class="menuItemDisplayTd"><img src="/stellent/fragments/cw_dhtml_menu/arrow.gif"></td>	
 					</tr>
 				</tbody></table>
@@ -3848,27 +3455,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_1_1_0" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/Markets/Portable-Navigation-Devices/Partners/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/Markets/Portable-Navigation-Devices/Partners/index.htm" class="menu">Partners</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -3878,27 +3478,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_1_1_1" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/Markets/Portable-Navigation-Devices/SuccessStories/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/Markets/Portable-Navigation-Devices/SuccessStories/index.htm" class="menu">Success Stories</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -3908,29 +3501,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
- 			</div>
-		
-		
+ 		</div>		
 		
  		
  		
- 
  		
  			<div id="menu_1_2" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/Markets/Wireless-and-LBS/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/Markets/Wireless-and-LBS/index.htm" class="menu">Wireless and LBS</a>
 						</td>
-						
- 						
- 						
+						 
  						<td class="menuItemDisplayTd"><img src="/stellent/fragments/cw_dhtml_menu/arrow.gif"></td>	
 					</tr>
 				</tbody></table>
@@ -3942,27 +3526,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_1_2_0" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/Markets/Wireless-and-LBS/Partners/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/Markets/Wireless-and-LBS/Partners/index.htm" class="menu">Partners</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -3972,27 +3549,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_1_2_1" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/Markets/Wireless-and-LBS/SuccessStories/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/Markets/Wireless-and-LBS/SuccessStories/index.htm" class="menu">Success Stories</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -4002,27 +3572,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_1_2_2" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/Markets/Wireless-and-LBS/LBSSeries/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/Markets/Wireless-and-LBS/LBSSeries/index.htm" class="menu">LBS Innovators Series</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -4032,29 +3595,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
- 			</div>
-		
-		
+ 		</div>		
 		
  		
  		
- 
  		
  			<div id="menu_1_3" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/Markets/Internet-Mapping/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/Markets/Internet-Mapping/index.htm" class="menu">Internet Mapping</a>
 						</td>
-						
- 						
- 						
+						 
  						<td class="menuItemDisplayTd"><img src="/stellent/fragments/cw_dhtml_menu/arrow.gif"></td>	
 					</tr>
 				</tbody></table>
@@ -4066,27 +3620,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_1_3_0" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/Markets/Internet-Mapping/Partners/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/Markets/Internet-Mapping/Partners/index.htm" class="menu">Partners</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -4096,27 +3643,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_1_3_1" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/Markets/Internet-Mapping/SuccessStories/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/Markets/Internet-Mapping/SuccessStories/index.htm" class="menu">Success Stories</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -4126,29 +3666,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
- 			</div>
-		
-		
+ 		</div>		
 		
  		
  		
- 
  		
  			<div id="menu_1_4" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/Markets/AutomotiveNavigation/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/Markets/AutomotiveNavigation/index.htm" class="menu">Automotive Navigation</a>
 						</td>
-						
- 						
- 						
+						 
  						<td class="menuItemDisplayTd"><img src="/stellent/fragments/cw_dhtml_menu/arrow.gif"></td>	
 					</tr>
 				</tbody></table>
@@ -4160,27 +3691,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_1_4_0" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/Markets/AutomotiveNavigation/Partners/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/Markets/AutomotiveNavigation/Partners/index.htm" class="menu">Partners</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -4190,27 +3714,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_1_4_1" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/Markets/AutomotiveNavigation/SuccessStories/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/Markets/AutomotiveNavigation/SuccessStories/index.htm" class="menu">Success Stories</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -4220,29 +3737,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
- 			</div>
-		
-		
+ 		</div>		
 		
  		
  		
- 
  		
  			<div id="menu_1_5" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/Markets/Enterprise/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/Markets/Enterprise/index.htm" class="menu">Enterprise</a>
 						</td>
-						
- 						
- 						
+						 
  						<td class="menuItemDisplayTd"><img src="/stellent/fragments/cw_dhtml_menu/arrow.gif"></td>	
 					</tr>
 				</tbody></table>
@@ -4254,27 +3762,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_1_5_0" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/Markets/Enterprise/Partners/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/Markets/Enterprise/Partners/index.htm" class="menu">Partners</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -4284,27 +3785,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_1_5_1" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/Markets/Enterprise/SuccessStories/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/Markets/Enterprise/SuccessStories/index.htm" class="menu">Success Stories</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -4314,29 +3808,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
- 			</div>
-		
-		
+ 		</div>		
 		
  		
  		
- 
  		
  			<div id="menu_1_6" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/Markets/Government/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/Markets/Government/index.htm" class="menu">Government</a>
 						</td>
-						
- 						
- 						
+						 
  						<td class="menuItemDisplayTd"><img src="/stellent/fragments/cw_dhtml_menu/arrow.gif"></td>	
 					</tr>
 				</tbody></table>
@@ -4348,27 +3833,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_1_6_0" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/Markets/Government/Partners/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/Markets/Government/Partners/index.htm" class="menu">Partners</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -4378,27 +3856,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_1_6_1" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/Markets/Government/SuccessStories/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/Markets/Government/SuccessStories/index.htm" class="menu">Success Stories</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -4408,43 +3879,30 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-			</div></div>
-		
-		
+ 		</div></div>		
 		
  		
  		
- 
  		
  			<div id="menu_2_sub" class="submenu">
- 				
  		
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_2_0" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/OurProducts/TechnologyOverview/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/OurProducts/TechnologyOverview/index.htm" class="menu">Technology Overview</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -4454,27 +3912,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_2_1" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/OurProducts/MapData/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/OurProducts/MapData/index.htm" class="menu">Map Data</a>
-						</td>
 						
- 						
- 						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/OurProducts/MapData/index.htm" class="menu">Map Products</a>
+						</td>
+						 
  						<td class="menuItemDisplayTd"><img src="/stellent/fragments/cw_dhtml_menu/arrow.gif"></td>	
 					</tr>
 				</tbody></table>
@@ -4486,27 +3937,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_2_1_0" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/OurProducts/MapData/Multinet/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/OurProducts/MapData/Multinet/index.htm" class="menu">MultiNet</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -4516,27 +3960,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_2_1_1" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/OurProducts/MapData/ConnectPlus/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/OurProducts/MapData/ConnectPlus/index.htm" class="menu">ConnectPlus</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -4546,27 +3983,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_2_1_2" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/OurProducts/MapData/Connect/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/OurProducts/MapData/Connect/index.htm" class="menu">Connect</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -4576,27 +4006,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_2_1_3" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/OurProducts/MapData/NavigationCDsDVDs/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/OurProducts/MapData/NavigationCDsDVDs/index.htm" class="menu">Navigation CDs &amp; DVDs</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -4606,29 +4029,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
- 			</div>
-		
-		
+ 		</div>		
 		
  		
  		
- 
  		
  			<div id="menu_2_2" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/OurProducts/MapEnhancementProducts/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/OurProducts/MapEnhancementProducts/index.htm" class="menu">Map Enhancement Products</a>
-						</td>
 						
- 						
- 						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/OurProducts/MapEnhancementProducts/index.htm" class="menu">Enhancement Products</a>
+						</td>
+						 
  						<td class="menuItemDisplayTd"><img src="/stellent/fragments/cw_dhtml_menu/arrow.gif"></td>	
 					</tr>
 				</tbody></table>
@@ -4640,27 +4054,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_2_2_0" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/OurProducts/MapEnhancementProducts/HDTraffic/index.htm');">
+ 			<div id="menu_2_2_0" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/OurProducts/MapEnhancementProducts/AddressPoints/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/OurProducts/MapEnhancementProducts/HDTraffic/index.htm" class="menu">HD Traffic</a>
-						</td>
 						
- 						
- 						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/OurProducts/MapEnhancementProducts/AddressPoints/index.htm" class="menu">Address Points and POIs</a>
+						</td>
+						 
  						
 					</tr>
 				</tbody></table>
@@ -4670,27 +4077,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_2_2_1" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/OurProducts/MapEnhancementProducts/advancedcitymodels/index.htm');">
+ 			<div id="menu_2_2_1" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/OurProducts/MapEnhancementProducts/CityMaps/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/OurProducts/MapEnhancementProducts/advancedcitymodels/index.htm" class="menu">Advanced City Models</a>
-						</td>
 						
- 						
- 						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/OurProducts/MapEnhancementProducts/CityMaps/index.htm" class="menu">Display Products</a>
+						</td>
+						 
  						
 					</tr>
 				</tbody></table>
@@ -4700,297 +4100,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_2_2_2" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/OurProducts/MapEnhancementProducts/SpeedProfiles/index.htm');">
+ 			<div id="menu_2_2_2" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/OurProducts/MapEnhancementProducts/Geocoding/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/OurProducts/MapEnhancementProducts/SpeedProfiles/index.htm" class="menu">Speed Profiles</a>
-						</td>
 						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_2_2_3" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/OurProducts/MapEnhancementProducts/UrbanMaps/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/OurProducts/MapEnhancementProducts/UrbanMaps/index.htm" class="menu">Urban Maps</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_2_2_4" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/OurProducts/MapEnhancementProducts/POIs/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/OurProducts/MapEnhancementProducts/POIs/index.htm" class="menu">POIs</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_2_2_5" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/OurProducts/MapEnhancementProducts/AddressPoints/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/OurProducts/MapEnhancementProducts/AddressPoints/index.htm" class="menu">Address Points</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_2_2_6" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/OurProducts/MapEnhancementProducts/Logistics/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/OurProducts/MapEnhancementProducts/Logistics/index.htm" class="menu">Logistics</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_2_2_7" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/OurProducts/MapEnhancementProducts/VoiceMaps/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/OurProducts/MapEnhancementProducts/VoiceMaps/index.htm" class="menu">Voice Maps</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_2_2_8" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/OurProducts/MapEnhancementProducts/CityMaps/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/OurProducts/MapEnhancementProducts/CityMaps/index.htm" class="menu">City Maps</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_2_2_9" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/OurProducts/MapEnhancementProducts/CityGuide/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/OurProducts/MapEnhancementProducts/CityGuide/index.htm" class="menu">CityGuide</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_2_2_10" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/OurProducts/MapEnhancementProducts/DynamicContent/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/OurProducts/MapEnhancementProducts/DynamicContent/index.htm" class="menu">Dynamic Content</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_2_2_11" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/OurProducts/MapEnhancementProducts/Geocoding/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/OurProducts/MapEnhancementProducts/Geocoding/index.htm" class="menu">Geocoding</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -5000,43 +4123,122 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-			</div></div>
-		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_3_sub" class="submenu">
  				
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_2_2_3" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/OurProducts/MapEnhancementProducts/HDTraffic/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/OurProducts/MapEnhancementProducts/HDTraffic/index.htm" class="menu">HD Traffic</a>
+						</td>
+						 
+ 						
+					</tr>
+				</tbody></table>
+			</div>
+			
  		
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
+ 		
+ 			<div id="menu_2_2_4" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/OurProducts/MapEnhancementProducts/Logistics/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/OurProducts/MapEnhancementProducts/Logistics/index.htm" class="menu">Logistics</a>
+						</td>
+						 
+ 						
+					</tr>
+				</tbody></table>
+			</div>
+			
+ 		
+ 		
+ 	
+ 		
+ 				
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_2_2_5" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/OurProducts/MapEnhancementProducts/SpeedProfiles/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/OurProducts/MapEnhancementProducts/SpeedProfiles/index.htm" class="menu">Speed Profiles</a>
+						</td>
+						 
+ 						
+					</tr>
+				</tbody></table>
+			</div>
+			
+ 		
+ 		
+ 	
+ 		
+ 				
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_2_2_6" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/OurProducts/MapEnhancementProducts/VoiceMaps/index.htm');">
+				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						
+						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/OurProducts/MapEnhancementProducts/VoiceMaps/index.htm" class="menu">Voice Maps</a>
+						</td>
+						 
+ 						
+					</tr>
+				</tbody></table>
+			</div>
+			
+ 		
+ 		
+ 	
+ 		
+ 		</div></div>		
+		
+ 		
+ 		
+ 		
+ 			<div id="menu_3_sub" class="submenu">
+ 		
+ 		
+ 	
+ 		
+ 				
+		
+ 		
+ 		
  		
  			<div id="menu_3_0" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/PartnerPrograms/PartnerLink/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/PartnerPrograms/PartnerLink/index.htm" class="menu">PartnerLink</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -5046,27 +4248,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_3_1" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/PartnerPrograms/DeveloperLink/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/PartnerPrograms/DeveloperLink/index.htm" class="menu">DeveloperLink</a>
 						</td>
-						
- 						
- 						
+						 
  						<td class="menuItemDisplayTd"><img src="/stellent/fragments/cw_dhtml_menu/arrow.gif"></td>	
 					</tr>
 				</tbody></table>
@@ -5078,27 +4273,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_3_1_0" class="submenuItem" onmouseover="mOver(this, 2);" onmouseout="mOut(this, 2)" onclick="navPage('/PartnerPrograms/DeveloperLink/WhitePapers/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/PartnerPrograms/DeveloperLink/WhitePapers/index.htm" class="menu">White Papers</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -5108,59 +4296,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
- 			</div>
-		
-		
+ 		</div>		
 		
  		
  		
- 
  		
- 			<div id="menu_3_2" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/PartnerPrograms/ContentLink/index.htm');">
+ 			<div id="menu_3_2" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/PartnerPrograms/MapInsight/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/PartnerPrograms/ContentLink/index.htm" class="menu">ContentLink</a>
-						</td>
 						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_3_3" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/PartnerPrograms/MapInsight/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/PartnerPrograms/MapInsight/index.htm" class="menu">Map Insight</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -5170,27 +4319,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
- 			<div id="menu_3_4" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/PartnerPrograms/Partners/index.htm');">
+ 			<div id="menu_3_3" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/PartnerPrograms/Partners/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/PartnerPrograms/Partners/index.htm" class="menu">Current Partners</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -5200,43 +4342,30 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
- 			</div>
-		
-		
+ 		</div>		
 		
  		
  		
- 
  		
  			<div id="menu_4_sub" class="submenu">
- 				
  		
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_4_0" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/Support/MultinetSupport/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/Support/MultinetSupport/index.htm" class="menu">MultiNet Support</a>
-						</td>
 						
- 						
- 						
+						<td style="width:90%;" class="menuItemDisplayTd">
+							<a href="/Support/MultinetSupport/index.htm" class="menu">Support/Services</a>
+						</td>
+						 
  						
 					</tr>
 				</tbody></table>
@@ -5246,103 +4375,30 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 		</div>		
 		
  		
  		
- 
- 		
- 			<div id="menu_4_1" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/Support/MapFeedback/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/Support/MapFeedback/index.htm" class="menu">Map Feedback</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_4_2" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/Support/MapUpdatesStore/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/Support/MapUpdatesStore/index.htm" class="menu">Map Updates Store</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
- 			</div>
-		
-		
-		
- 		
- 		
- 
  		
  			<div id="menu_5_sub" class="submenu">
- 				
  		
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_5_0" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/Reference/Demos/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/Reference/Demos/index.htm" class="menu">Demos</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -5352,27 +4408,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_5_1" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/Reference/Whitepapers/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/Reference/Whitepapers/index.htm" class="menu">White Papers</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -5382,103 +4431,30 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 		</div>		
 		
  		
  		
- 
- 		
- 			<div id="menu_5_2" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/Reference/Brochures/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/Reference/Brochures/index.htm" class="menu">Brochures</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
-		
-		
- 		
- 		
- 
- 		
- 			<div id="menu_5_3" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/Reference/SuccessStories/index.htm');">
-				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-   						
-   							
-   						
-						<td style="width:90%;" class="menuItemDisplayTd">
-							<a href="/Reference/SuccessStories/index.htm" class="menu">Success Stories</a>
-						</td>
-						
- 						
- 						
- 						
-					</tr>
-				</tbody></table>
-			</div>
-			
- 		
- 		
- 	
- 		
- 		
- 		
- 			</div>
-		
-		
-		
- 		
- 		
- 
  		
  			<div id="menu_6_sub" class="submenu">
- 				
  		
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_6_0" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/ForConsumers/OurStory/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/ForConsumers/OurStory/index.htm" class="menu">Our Story</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -5488,27 +4464,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_6_1" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/ForConsumers/MapFeedback/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/ForConsumers/MapFeedback/index.htm" class="menu">Map Feedback</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -5518,27 +4487,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_6_2" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/ForConsumers/MapUpdates/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/ForConsumers/MapUpdates/index.htm" class="menu">Map Updates Store</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -5548,27 +4510,20 @@ function makeRemote(mylink)
  		
  	
  		
- 		
- 		
-		
+ 				
 		
  		
  		
- 
  		
  			<div id="menu_6_3" class="submenuItem" onmouseover="mOver(this, 1);" onmouseout="mOut(this, 1)" onclick="navPage('/ForConsumers/GPSNavGuide/index.htm');">
 				<table class="menuItemDisplay" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						
-   						
-   							
-   						
+						
 						<td style="width:90%;" class="menuItemDisplayTd">
 							<a href="/ForConsumers/GPSNavGuide/index.htm" class="menu">GPS Nav Guide</a>
 						</td>
-						
- 						
- 						
+						 
  						
 					</tr>
 				</tbody></table>
@@ -5690,27 +4645,35 @@ function makeRemote(mylink)
 <font class="Subtitle">Tele Atlas BV, Incl. Web Site Privacy Policy</font>
 </p>
 <p>
-<font class="BodyText">Tele Atlas BV, PO box 420, Reitscheweg 7F, 5201 Ak ’s-Hertogenbosch, The Netherlands and its subsidiaries (“Tele Atlas”) respect your privacy. To demonstrate our commitment, we have adopted this web site privacy policy (“Policy”) which is designed to inform you about our online collection and use of personal information.</font>
+<font class="Subtitle">&nbsp;<a href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.teleatlas.com&amp;sealid=102" target="_blank"><img border="0" src="/stellent/groups/public/documents/content/ta_ct040586.gif"></a></font>
 </p>
 <p>
-<font class="BodyText">By using our web site (“Site”), you signify that you have consented to our collecting and using the personal information that you provide to us in accordance with this Policy. You will also be deemed to have read and accepted this Policy. Tele Atlas may change, update or modify this Policy from time to time. Any such change, update or modification will be effective immediately upon posting on the Site. We advise you to check this Policy on a regular basis and your continued use of the Site will constitute acceptance of the revised Policy. When using our Site, you may provide us information such as your email address, name, title and mailing address so that we can provide you with our products or services, fulfill your online requests and personalize your experience on our website.<br>
-</font><font class="BodyText">
-<br>This policy governs our Site, but does not govern web sites to which we may provide links, because we are not responsible, and can not control the privacy practices or content of those sites. We urge you at all times to use caution when providing information over the internet and suggest that you read the Federal Trade Commission’s suggested safety precautions for internet surfing or any equivalent information relevant for your country.</font>
-			<strong><font class="BodyText">
-<br>
-</font></strong>
+<font class="BodyText">Tele Atlas</font>
+			<font class="BodyText">BV, Luchthavenweg 48, 5657 EB, Eindhoven, Netherlands and its subsidiaries ("Tele</font>
+			<font class="BodyText">Atlas") respect your privacy. To demonstrate our commitment, we have adopted this web site privacy policy ("Policy") which is designed to inform you about our online collection and use of personal information.<br>By using our web site ("Site"), you signify that you have consented to our collecting and using the personal information that you provide to us in accordance with this Policy. You will also be deemed to have read and accepted this Policy. If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.&nbsp;</font>
+</p>
+<p>
+<font class="BodyText">We reserve the right to modify this privacy statement at any time, so please review it frequently.&nbsp; If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.<br>When using our Site, you may provide us information such as your email address, name, title, credit card number, expiration date and mailing address so that we can provide you with our products or services, fulfill your online requests and orders and personalize your experience on our website.<br>This policy governs our Site, but does not govern web sites to which we may provide links, because we are not responsible, and can not control the privacy practices or content of those sites. We urge you at all times to use caution when providing information over the internet and suggest that you read the Federal Trade Commission's suggested safety precautions for internet surfing or any equivalent information relevant for your country.</font>
 </p>
 <p>
 <font class="BodyText"><strong>1. Types of Information Collected<br>
-</strong></font><font class="BodyText">a. Internet Data Collected. We automatically track and collect the following information when you visit our Site: (i) your domain name; and (ii) the web pages on our Site that you view or visit (collectively “Internet Data”). Internet Data is anonymous and statistical information that does not personally identify you but is helpful for marketing purposes and for improving your experience on the Site.</font>
+</strong></font><font class="BodyText">a. Internet Data Collected. We automatically track and collect the following information when you visit our Site: (i) your domain name; and (ii) the web pages on our Site that you view or visit (collectively "Internet Data"). Internet Data is anonymous and statistical information that does not personally identify you but is helpful for marketing purposes and for improving your experience on the Site.<br>We may also use "cookies " or other tracking means to personalize your online experience, to ensure that you do not see temporary content (e.g. Flash content or banner notices) repeatedly and to store your password so you do not have to re-enter it each time you visit the Site. These "cookies" are designed to lapse when your visit to our Site ends or your web browser is closed. It is possible for you to disable cookies within your specific browser options, although it may impair your use of our Site.</font>
 </p>
 <p>
-<font class="BodyText">We may also use “cookies “ or other tracking means to personalize your online experience, to ensure that you do not see temporary content (e.g. Flash content or banner notices) repeatedly and to store your password so you do not have to re-enter it each time you visit the Site. These “cookies” are designed to lapse when your visit to our Site ends or your web browser is closed. It is possible for you to disable cookies within your specific browser options, although it may impair your use of our Site.</font>
+<font class="BodyText">A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any individual identifying information you submit while on our site.&nbsp;</font>
 </p>
 <p>
-<font class="BodyText">b. Individual Identifying Information Collected. In order for you to purchase products that we offer via the Site, we require you to provide us with information that personally identifies you to enable us to complete the transaction (“Identifying Information”). Identifying Information may include Contact Data (such as your name, title, company, mailing and e-mail addresses) and Financial Data (such as your account or credit card number).<br>&nbsp;<br>If you communicate with us by e-mail or complete online forms, surveys or contest entries, any information provided in such communication may be collected as Identifying Information.<br>
-<br>You may choose not to provide us with any Identifying Information. In such an event, you can still access and use much of the Site; however you will not be able to access and use those portions of the Site that require your Identifying Information.<br>
-</font>
+<font class="BodyText">We use both session ID cookies and persistent cookies.&nbsp; We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.</font>
+			<a href="http://www.microsoft.com/info/cookies.mspx" target="_blank"><font class="BodyText_Link">http://www.microsoft.com/info/cookies.mspx</font></a>
+</p>
+<p>
+<font class="BodyText">Cookies are used to keep track of user choice of language and other site specific settings. We set a persistent cookie to store your passwords, so you don't have to enter it more than once.&nbsp; Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.&nbsp;</font>
+</p>
+<p>
+<font class="BodyText">If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.</font>
+</p>
+<p>
+<font class="BodyText">The use of cookies by our partners, affiliates, and service providers is not covered by our privacy statement.&nbsp; We do not have access or control over these cookies.&nbsp; Our partners, affiliates, and service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.&nbsp;<br>b. Individual Identifying Information Collected. In order for you to purchase products that we offer via the Site, we require you to provide us with information that personally identifies you to enable us to complete the transaction ("Identifying Information"). Identifying Information may include Contact Data (such as your name, title, company, mailing and e-mail addresses) and Financial Data (such as your account or credit card number).<br>While using our Contentlink portion of the site, you are able to add users to the portal in order to allow them to have use of the Contentlink portal.&nbsp; The information we collect from you is a username, password, name and email address.&nbsp; We use this information for the sole purpose of setting up a user account in order to allow them to have individual access to this part of the site.<br>If you communicate with us by e-mail or complete online forms, surveys or contest entries, any information provided in such communication may be collected as Identifying Information.<br>You may choose not to provide us with any Identifying Information. In such an event, you can still access and use much of the Site; however you will not be able to access and use those portions of the Site that require your Identifying Information.</font>
 </p>
 
 	
@@ -5732,29 +4695,140 @@ function makeRemote(mylink)
 	
 		
 		<p>
-<font class="BodyText"><strong>2. Use of Information Collected<br>
-</strong></font><font class="BodyText">We may use Contact Data to e-mail, mail or call you via telephone to provide you with information about our company or our products or services. If you would like to receive such information from us, please click the relevant button [or tick the relevant box] when entering your contact details on our Site. We use your Financial Data to qualify and bill you for the products and services you have purchased on our Site. We may use your Contact Data to customize and tailor your experience on the Site; displaying content that we think may interest you according to your preferences.<br>
-</font><font class="BodyText"><strong>
-<br>3. Sharing of Identifying Information<br>
-</strong>We may share Identifying Information about you with other companies or people when: (a) We have your consent to share the information; (b) We need to share the information in order to provide the product or service you have requested; (c) We need to send the information to companies who work on behalf of us to provide you with a product or service that you requested. Unless we tell you differently, these companies do not have any right to use the Identifying Information we provide to them beyond what is necessary to assist us.<br>&nbsp;<br>Third parties that receive your Identifying Information may be based in other countries that do not have the same level of data protection as your country. By providing your Identifying Information on our Site, you consent to your Identifying Information being shared with third parties in this way.</font>
+<font class="BodyText"><strong>2. Use of Information Collected</strong></font>
 </p>
 <p>
-<font class="BodyText"><strong>4. Confidentiality and Security of Identifying Information<br>
-</strong></font><font class="BodyText">We will keep your Identifying Information private unless such disclosure is necessary to: (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce any agreement between us and you. We provide you with the capability to transmit your Identifying Information via secured and encrypted channels if you use a similarly equipped web browser, and your Identifying Information is stored on our servers that are not accessible by third parties.<br>
-</font><font class="BodyText"><strong>
-<br>5. User Ability to Access, Update and Correct Identifying Information</strong>
-<br>In order to ensure that all of your Identifying Information is correct and up-to-date, at any time you may email us at <a href="mailto:navshop_admin@teleatlas.com">navshop_admin@teleatlas.com</a> and request your Identifying Information. Please include your User name and Password in any request for your Identifying Information. You may then access, review and update your Identifying Information that we have already collected.</font>
+<font class="BodyText">We may use Contact Data to e-mail, mail or call you via telephone to provide you with information about our company or our products or services. If you would like to receive such information from us, please click the relevant button [or tick the relevant box] when entering your contact details on our Site. We use your Financial Data to qualify and bill you for the products and services you have purchased on our Site. We may use your Contact Data to customize and tailor your experience on the Site; displaying content that we think may interest you according to your preferences. We may use your Contact Data for shipping product.</font>
 </p>
 <p>
-<font class="BodyText"><strong>6. Lost or Stolen Information<br>
-</strong>You must promptly notify us if your credit card, User name or Password is lost, stolen or used without permission. Please contact us at <a href="mailto:navshop_admin@teleatlas.com">navshop_admin@teleatlas.com</a>. In such an event, we will cancel that credit card number, User Name or Password and update our records accordingly.<br>
+<font class="BodyText"><u>Newsletters</u>
+<br>If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you.&nbsp; Out of respect for your privacy, we provide you a way to unsubscribe.&nbsp; Please see the "Choice and Opt-out" section.</font>
+</p>
+<p>
+<font class="BodyText"><strong>3. Sharing of Identifying Information</strong></font>
+</p>
+<p>
+<font class="BodyText">We may share Identifying Information about you with other companies or people when: (a) We have your consent to share the information; (b) We need to share the information in order to provide the product or service you have requested; (c) We need to send the information to companies who work on behalf of us to provide you with a product or service that you requested. Unless we tell you differently, these companies do not have any right to use the Identifying Information we provide to them beyond what is necessary to assist us.&nbsp;<br>Third parties that receive your Identifying Information may be based in other countries that do not have the same level of data protection as your country. By providing your Identifying Information on our Site, you consent to your Identifying Information being shared with third parties in this way.</font>
+</p>
+<p>
+<font class="BodyText"><strong>4. Confidentiality and Security of Identifying Information</strong>
+<br>We reserve the right to disclose your Identifying information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.</font>
+</p>
+<p>
+<font class="BodyText">We will keep your Identifying Information private unless such disclosure is necessary to: (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce any agreement between us and you. We provide you with the capability to transmit your Identifying Information via secured and encrypted channels if you use a similarly equipped web browser, and your Identifying Information is stored on our servers that are not accessible by third parties.</font>
+</p>
+<p>
+<font class="BodyText"><strong>5. User Ability to Access, Update and Correct Identifying Information<br>
+</strong>Updating/Accessing/Amending/Correcting Personally Identifiable Information</font>
+</p>
+<p>
+<font class="BodyText">If your Identifying Information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change, or having your company's ContentLink administrator, make the change, on the administration tab of your Tele Atlas ContentLink account. If you do not know your company's ContentLink account administrator you may contact us emailing our Customer Support at</font>
+			<a href="mailto:TACLSupport@teleatlas.com"><font class="BodyText_Link">TACLSupport@teleatlas.com</font></a>
+			<font class="BodyText">or by contacting us by telephone or postal mail at the contact information listed below.<br>In order to ensure that all of your Identifying Information is correct and up-to-date, at any time you may email us at</font>
+			<a href="mailto:webmanager@teleatlas.com"><font class="BodyText_Link">webmanager@teleatlas.com</font></a>
+			<font class="BodyText">and request your Identifying Information. Please include your User name and Password in any request for your Identifying Information. You may then access, review and update your Identifying Information that we have already collected.</font>
+</p>
+<p>
+<font class="BodyText"><strong>6. Lost or Stolen Information</strong></font>
+</p>
+<p>
+<font class="BodyText">You must promptly notify us if your credit card, User name or Password is lost, stolen or used without permission. Please contact us at</font>
+			<a href="mailto:webmanager@teleatlas.com"><font class="BodyText_Link">webmanager@teleatlas.com</font></a><font class="BodyText">. In such an event, we will cancel that credit card number, User Name or Password and update our records accordingly.</font>
+</p>
+<p>
+<font class="BodyText"><strong>7. Contacting Us</strong></font>
+</p>
+<p>
+<font class="BodyText">If you have any questions about this Policy, the practices of this site, or your dealings with Tele Atlas, you can contact us at</font>
+			<a href="mailto:webmanager@teleatlas.com"><font class="BodyText_Link">webmanager@teleatlas.com</font></a><font class="BodyText">.<br>Choice/Opt-out</font>
+</p>
+<p>
+<font class="BodyText">We provide you the opportunity to ‘opt-out' of having your Identifying Information used for certain purposes, when we ask for this information.&nbsp; For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.</font>
+</p>
+<p>
+<font class="BodyText">If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at</font>
+			<a href="mailto:webmanager@teleatlas.com"><font class="BodyText_Link">webmanager@teleatlas.com</font></a><font class="BodyText">.&nbsp; We offer an opportunity to opt-out of certain communications on our newsletter and promotional communications, or you may contact us at 1-800-331-7881 or</font>
+			<a href="mailto:webmanager@teleatlas.com"><font class="BodyText_Link">webmanager@teleatlas.com</font></a>
+			<font class="BodyText">or postal mail to the address listed above to opt-out.</font>
+</p>
+<p>
+<font class="BodyText"><u>Email-A-Friend</u>
+<br>If you choose to use our referral service to email a page about our site, we will ask you for your friend's name and email address.&nbsp; We will automatically send your friend a one-time email inviting him or her to visit the site.&nbsp; Tele Atlas stores this information for the sole purpose of sending this one-time email</font>
+</p>
+<p>
+<font class="BodyText">Your friend may contact us at</font>
+			<a href="mailto:webmanager@teleatlas.com"><font class="BodyText_Link">webmanager@teleatlas.com</font></a>
+			<font class="BodyText">to request that we remove this information from our database.</font>
+</p>
+<p>
+<font class="BodyText"><u>AddToAny</u>:<br>We use the addtoany widget that allows you to email your friend about the site by sending them a one time email.&nbsp; Tele Atlas does not collect or store any of this information, please read the privacy policy of AddToAny as it governs the collection and use of this information.&nbsp; This widget also allows you to log into any of your social networking sites in order to share links to Tele Atlas.</font>
+</p>
+<p>
+<font class="BodyText"><u>Agents/Service Providers&nbsp;</u>
+<br>We use other third parties such as a shipping company to fulfill orders, and a credit card processing company to bill you for goods and services.<br>Jobdigtracker.com is a service provider and all information collected and used is governed by their privacy statement. Jobdigtracker does share the information back with Tele Atlas for the purpose of Tele Atlas deciding who is a good candidate to interview for a specific Job.&nbsp; Tele Atlas only uses that information for the purpose of determining who is qualified for the job and interviewing them.<br>Tele Atlas does not share, sell, rent or trade PII with third parties for their promotional purposes.</font>
+</p>
+<p>
+<font class="BodyText">We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it.&nbsp; No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.&nbsp; Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.</font>
+</p>
+<p>
+<font class="BodyText">If you have any questions about security on our Web site, you can send email us at</font>
+			<a href="mailto:webmanager@teleatlas.com"><font class="BodyText_Link">webmanager@teleatlas.com</font></a><font class="BodyText">.</font>
+</p>
+<p>
+<font class="BodyText">The security of your personal information is important to us.&nbsp; When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).</font>
+</p>
+<p>
+<font class="BodyText"><u>Third Party Cookies</u></font>
+</p>
+<p>
+<font class="BodyText">The use of cookies by our partners, affiliates, and service providers is covered by their privacy statement.&nbsp; We do not have access or control over these cookies.&nbsp; Our partners, affiliates, and service providers use session ID cookies to make it easier for you to navigate our site and/or the shopping cart, etc.</font>
+</p>
+<p>
 <br>
-</font>
+<font class="BodyText"><strong>Customer Success Stories<br>
+</strong>We post customer success stories on our web site which may contain personally identifiable information.&nbsp; We do obtain the customer's consent via email prior to posting the success story to post their name along with their testimonial.</font>
 </p>
 <p>
-<font class="BodyText"><strong>7. Contacting Us<br>
-</strong>If you have any questions about this Policy, the practices of this site, or your dealings with Tele Atlas, you can contact us at <a href="mailto:navshop_admin@teleatlas.com">navshop_admin@teleatlas.com</a>.<br>
-</font>
+<font class="BodyText">If you use a bulletin board, blog, or chat room on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.&nbsp; We are not responsible for the personally identifiable information you choose to submit in these forums.</font>
+</p>
+<p>
+<font class="BodyText">You have the ability to send private messages to users within the developerlinl.teleatlas.com portal.&nbsp; Please be aware that any personal information you choose to share within the private messages may be used by the recipient.&nbsp; Tele Atlas has no access or control over what you choose to share with other users. We highly recommend that you do not share more information than is reasonably necessary.</font>
+</p>
+<p>
+<font class="BodyText">Users of the developerlink.teleatlas.com portion of the site have the ability to create a profile of themselves.&nbsp; Please be aware that your profile may be viewed by others, please do not publish any information about yourself that you do not wish for other users of this forum to see. You must be rated before users are able to view your profile.&nbsp; Being rated on your forum posts determines whether or not your profile is viewable by others.</font>
+</p>
+<p>
+<font class="BodyText">The TRUSTe program only covers information that is collected through this Web site, and <strong>does not</strong> cover information that may be collected through any software downloaded from this Web site.<br>Tele Atlas is a licensee of the TRUSTe Privacy Program.&nbsp; TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.&nbsp; This privacy statement covers the Web site</font>
+			<a href="http://www.teleatlas.com"><font class="BodyText_Link">www.teleatlas.com</font></a>
+			<font class="BodyText">and</font>
+			<a href="http://www.geographic.com/contentlink"><font class="BodyText_Link">www.geographic.com/contentlink</font></a><font class="BodyText">&nbsp;&nbsp; Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.</font>
+</p>
+<p>
+<font class="BodyText">If you have questions or concerns regarding this statement, you should first contact Phil O'Donnell at 1-800-331-7881.&nbsp; If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at</font>
+			<a href="http://http://watchdog.truste.com/pvr.php?page=complaint&amp;url="><font class="BodyText_Link">http://watchdog.truste.com/pvr.php?page=complaint&amp;url</font></a><font class="BodyText_Link">=</font><font class="BodyText">.&nbsp; TRUSTe will then serve as a liaison with us to resolve your concerns.</font>
+</p>
+<p>
+<font class="BodyText">Tele Atlas complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union</font>
+</p>
+<p>
+<br>
+<font class="BodyText">Clear Gifs (Web Beacons/Web Bugs)</font>
+</p>
+<p>
+<font class="BodyText">Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective.&nbsp; Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.&nbsp; In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.</font>
+</p>
+<p>
+<font class="BodyText">To learn more about our advertising company's use of clear gifs, please go to</font>
+			<a href="http://www.doubleclick.com"><font class="BodyText_Link">www.doubleclick.com</font></a>
+</p>
+<p>&nbsp;</p>
+<p>
+<font class="BodyText"><strong>Tele Atlas North America, Inc.<br>11 Lafayette Street<br>Lebanon, New Hampshire 03766<br>1-800-331-7881<br>
+</strong></font><a href="http://www.teleatlas.com" target="_blank"><font class="BodyText_Link">www.teleatlas.com</font></a>
+</p>
+<p>
+<br>
+<font class="BodyText">Last Updated on 01/19/2010</font>
 </p>
 
 	
@@ -5772,7 +4846,7 @@ function makeRemote(mylink)
 								<!-- SS_BEGIN_SNIPPET(fragment3,SearchBox)-->
 				<div class="DIV_SearchBox">
 	<table width="190" height="30px" cellpadding="0" cellspacing="0" border="0" align="right">
-		<form name="SearchForm" action="/SearchResults/index.htm" method="GET"></form>
+		<form id="searchForm" name="SearchForm" action="/SearchResults/index.htm" method="GET"></form>
 		<tbody><tr>
 			<td class="SearchBoxText" valign="middle" align="center">
 				
@@ -5780,7 +4854,7 @@ function makeRemote(mylink)
 				
 			</td>
 			<td align="center"><input class="FindField" type="text" size="14" name="ssUserText" value=""></td>
-			<td width="25" align="left"><input type="image" name="submit" value="submit" src="/stellent/fragments/cw_searchbox/magnifier.gif"></td>
+			<td width="25" align="left"><img src="/stellent/fragments/cw_searchbox/magnifier.gif" onclick="document.getElementById('searchForm').submit();" style="cursor:pointer;" alt="Click to Search"></td>
 		</tr>
 		
 	</tbody></table>
@@ -5973,8 +5047,9 @@ function makeRemote(mylink)
 <!-- SS_END_OPENREGIONMARKER(region3)-->
 					<!-- SS_BEGIN_SNIPPET(region3_element1,presentation)-->
 				
-
-<div style="text-align:right; margin:12px 10px;"><a class="a2a_dd" href="http://www.addtoany.com/share_save?linkname=Tele%20Atlas%20Privacy Policy&amp;linkurl=http://www.teleatlas.com/PrivacyPolicy/index.htm"><img src="http://static.addtoany.com/buttons/share_save_106_16.gif" width="106" height="16" border="0" alt="Share/Save/Bookmark"></a><script type="text/javascript">a2a_linkname="Tele Atlas Privacy Policy";a2a_linkurl="http://www.teleatlas.com/PrivacyPolicy/index.htm";</script><script type="text/javascript" src="http://static.addtoany.com/menu/page.js"></script></div>
+	
+	
+	<div style="text-align:right; margin:12px 10px;"><a class="a2a_dd" href="http://www.addtoany.com/share_save?linkname=Tele%20Atlas%20Privacy Policy&amp;linkurl=http://www.teleatlas.com/PrivacyPolicy/index.htm"><img src="http://static.addtoany.com/buttons/share_save_106_16.gif" width="106" height="16" border="0" alt="Share/Save/Bookmark"></a><script type="text/javascript">a2a_linkname="Tele Atlas Privacy Policy";a2a_linkurl="http://www.teleatlas.com/PrivacyPolicy/index.htm";</script><script type="text/javascript" src="http://static.addtoany.com/menu/page.js"></script></div>
 
 
 
@@ -5986,7 +5061,7 @@ function makeRemote(mylink)
 	<table class="Footer" width="780" height="34" cellpadding="0" border="0">
 		<tbody><tr>
 			<td align="center">
-				<table cellpadding="0" cellspacing="0" border="0">
+				<table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
 					<tbody><tr>
 					
 						
@@ -6003,7 +5078,7 @@ function makeRemote(mylink)
 							
 						</td>
 						
-						<td width="20" align="center"><font style="color:#FFFFFF; font-size:.6em;">|</font></td>
+						<td style="text-align:center; padding-left:5px; padding-right:5px;"><font style="color:#FFFFFF; font-size:.6em;">|</font></td>
 						
 					
 					
@@ -6021,7 +5096,7 @@ function makeRemote(mylink)
 							
 						</td>
 						
-						<td width="20" align="center"><font style="color:#FFFFFF; font-size:.6em;">|</font></td>
+						<td style="text-align:center; padding-left:5px; padding-right:5px;"><font style="color:#FFFFFF; font-size:.6em;">|</font></td>
 						
 					
 					
@@ -6039,7 +5114,7 @@ function makeRemote(mylink)
 							
 						</td>
 						
-						<td width="20" align="center"><font style="color:#FFFFFF; font-size:.6em;">|</font></td>
+						<td style="text-align:center; padding-left:5px; padding-right:5px;"><font style="color:#FFFFFF; font-size:.6em;">|</font></td>
 						
 					
 					
@@ -6057,7 +5132,7 @@ function makeRemote(mylink)
 							
 						</td>
 						
-						<td width="20" align="center"><font style="color:#FFFFFF; font-size:.6em;">|</font></td>
+						<td style="text-align:center; padding-left:5px; padding-right:5px;"><font style="color:#FFFFFF; font-size:.6em;">|</font></td>
 						
 					
 					
@@ -6068,7 +5143,7 @@ function makeRemote(mylink)
 							
 								
 								
-									© Tele Atlas BV 2009. All Rights Reserved.
+									© Tele Atlas BV 2010. All Rights Reserved.
 								
 							
 								
@@ -6077,13 +5152,18 @@ function makeRemote(mylink)
 						
 					
 					
-    			</tr>
-			</tbody></table>
-		</td></tr>
+						<td style="text-align:right; padding-left:5px;">
+							<a href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.teleatlas.com&amp;sealid=102" target="_blank"><img src="/stellent/groups/public/documents/content/ta_ct040585.gif" alt="TRUSTe EU Safe Harbor Certified" style="border:0px;"></a>
+						</td>
+    				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		<!--
 		<tr>
 			<td align="center">
 				<table cellpadding="0" cellspacing="0" border="0">
-					<tbody><tr>
+					<tr>
 						<td style="text-align:center;">
 							<a class="FooterLink" href="?Lang=FL">België</a>
 						</td>
@@ -6123,14 +5203,15 @@ function makeRemote(mylink)
 						</td>
 						
 					</tr>
-				</tbody></table>
+				</table>
 			</td>
 		</tr>
+		
 					
 		<tr>
 			<td align="center">
 				<table cellpadding="0" cellspacing="0" border="0">
-					<tbody><tr>
+					<tr>
 						<td style="text-align:center;">
 							<a class="FooterLink" href="?Lang=DU">Nederland</a>
 						</td>
@@ -6143,12 +5224,6 @@ function makeRemote(mylink)
 						<td style="text-align:center;">
 							<a class="FooterLink" href="?Lang=POL">Polska</a>
 						</td>
-						<!--
-						<td style="width:20px; text-align:center;"><span style="color:#FFFFFF; font-size:.6em;">|</span></td>
-						<td style="text-align:center;">
-							<a class="FooterLink" href="?Lang=ZA">South Africa</a>
-						</td>
-						-->
 						<td style="width:20px; text-align:center;"><span style="color:#FFFFFF; font-size:.6em;">|</span></td>
 						<td style="text-align:center;">
 							<a class="FooterLink" href="?Lang=UAE">الإمارات العربية المتحدة</a>
@@ -6159,9 +5234,10 @@ function makeRemote(mylink)
 							<a class="FooterLink" href="#" onclick="document.location.href = '?Lang=EN'; return false;">United States/Canada</a>
 						</td>
 					</tr>
-				</tbody></table>
+				</table>
 			</td>
 		</tr>
+		-->
 		
 	</tbody></table>
 	
