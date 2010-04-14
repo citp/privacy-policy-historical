@@ -1,37 +1,31 @@
-> *The following text is extracted and transformed from the xm.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228195937id_/http%3A//www.xm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xm.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414172624id_/http%3A//www.xm.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy policy | XM.COM
+# 
 
-XM Hosting - Privacy Statement
+Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.  
+Note: the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.
 
-The following discloses our information gathering and dissemination practices  
-for XM Hosting.
+### Collection of Information
 
-We use your IP address to help diagnose problems with our server, and to administer our web site. Your IP address is used to help identify you and your ISP and to gather broad demographic information. We use cookies to save your password so you don't have to re-enter it each time you visit our site and for other purposes.
+We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
 
-This site contains links to other sites. XM Hosting is not responsible for the privacy practices or the content of such Web sites.
+### Cookie/Tracking Technology
 
-We collect visitor's contact information (like their email address), and demographic information. Contact information is used to send information about our company and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary and shared with other companies who may want to contact our visitors. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according  
-to their preferences. This information is shared with advertisers on an aggregate basis.
+The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
 
-We may use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Some customer data is shared with the advertising companies.
+### Distribution of Information
 
-ADVERTISING
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes. 
 
-We may use third-party advertising companies to serve ads when you use our service, this may change without prior notification being served. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in  
-order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies.
+### Commitment to Data Security
 
-PUBLIC FORUMS
+Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
 
-This site makes chat rooms, forums, message boards, and/or news groups availableto its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+### Privacy Contact Information
 
-SECURITY
+If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+By e-mail:  
+By Phone:
 
-CONTACTING THE WEBSITE
-
-If you have any questions please contact us
-
-  
-
+We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
