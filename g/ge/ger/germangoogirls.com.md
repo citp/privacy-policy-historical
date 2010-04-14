@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the germangoogirls.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011729id_/http%3A//docs.eurorevenue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the germangoogirls.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414185606id_/http%3A//docs.eurorevenue.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -6,7 +6,7 @@ Privacy Policy Statement
 
 This website (the "Site") is licensed to EuroRevenue.Com. 
 
-We can be reached via e-mail at [support@customersupport.ch](mailto:support@customersupport.ch)
+We can be reached via e-mail at [support@e-support24.com](mailto:support@e-support24.com)
 
 This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this Site. This is an adult Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site. 
 
@@ -30,7 +30,7 @@ If a subscriber sends any personal communication or correspondence, by any means
 
 The Site may also automatically collect traffic and click-through data as well as information regarding the online behavior of subscribers by the use of "cookies"or other programming means - any information about subscribers collected by the Site through the use of cookies or other programming means may be included in its customer database. 
 
-You may obtain further information about "cookies" and how they function at: [ http://www.cookiecentral.com](http://www.cookiecentral.com/). 
+You may obtain further information about "cookies" and how they function at: [ http://www.cookiecentral.com/](http://www.cookiecentral.com/). 
 
 **_Use of Personal Subscriber Information._**
 
@@ -60,11 +60,11 @@ There may be occasions when a subscriber will be presented with special offers e
 
 **_"OPT-OUT" Revocation Procedure._**
 
-The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by sending an e-mail to [support@customersupport.ch](mailto:support@customersupport.ch) , clearly stating that the subscriber has revoked consent to receive any future Offers. 
+The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by sending an e-mail to [support@e-support24.com](mailto:support@e-support24.com) , clearly stating that the subscriber has revoked consent to receive any future Offers. 
 
 **_Review of Personal Information by Subscriber/Means of Challenging Data._**
 
-A subscriber to this Site can review any personal information collected by the Site relating to that subscriber by sending an e-mail to the Site's DATA CONTROLLER at [http://customersupport.ch/](http://www.customersupport.ch/) , clearly stating that the subscriber wishes to review the subscriber's personal information which has been collected by the Site. 
+A subscriber to this Site can review any personal information collected by the Site relating to that subscriber by sending an e-mail to the Site's DATA CONTROLLER at <http://www.e-support24.com/> , clearly stating that the subscriber wishes to review the subscriber's personal information which has been collected by the Site. 
 
 The individual subscriber shall have the following rights with respect to any personal information gathered by the Site: 
 
