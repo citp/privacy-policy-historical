@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyspanish.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223102917id_/http%3A//www.studyspanish.com/aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyspanish.com privacy policy that was archived on 2010-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100415004206id_/http%3A//www.studyspanish.com/aboutus/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
