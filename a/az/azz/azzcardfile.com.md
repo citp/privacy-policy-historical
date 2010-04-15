@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azzcardfile.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221153816id_/http%3A//www.azzcardfile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azzcardfile.com privacy policy that was archived on 2010-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100415162651id_/http%3A//www.azzcardfile.com/privacy.html) for the most accurate reproduction.*
 
 # AZZ Cardfile : Privacy and Security
 
@@ -33,8 +33,6 @@ This site does not use cookies. However, cookies may be used by advertising comp
 AZZ Cardfile Web site contains outbound links that we deem beneficial to our users. We represent them here much like they represent themselves online. At the time of publishing they are checked for appropriateness for all ages, absence of subjects like warez, illegal, offensive, discriminating, promoting questionable business schemes and alike. Nevertheless, the contents of these web sites may change, over which we have no control, and it is up to the web surfer to evaluate the content and usefulness of information obtained from other sites.
 
 ### Resources for Online Privacy and Security
-
-[](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/)
 
 [Federal Trade Commission Privacy Inititives](http://www.ftc.gov/privacy/)
 
