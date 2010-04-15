@@ -1,19 +1,16 @@
-> *The following text is extracted and transformed from the edfringe.com privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821112033id_/http%3A//www.edfringe.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edfringe.com privacy policy that was archived on 2010-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100415033730id_/http%3A//www.edfringe.com/info/privacy) for the most accurate reproduction.*
 
-# edfringe.com : official site of the edinburgh festival fringe
+# Website Privacy Policy | Edinburgh Festival Fringe
 
-The Edinburgh Festival Fringe website is maintained by the Edinburgh Festival Fringe, 180 High Street, Edinburgh, EH1 1QS. You can e-mail us at [admin@edfringe.com](mailto:admin@edfringe.com)
+The Edinburgh Festival Fringe website is maintained by the Edinburgh Festival Fringe, 180 High Street, Edinburgh, EH1 1QS. You can email us at [admin@edfringe.com](mailto:admin@edfringe.com).
 
-edfringe.com is absolutely committed to protecting your privacy. Put simply, we will not share your information with others without your prior consent. 
+Edfringe.com is absolutely committed to protecting your privacy. Put simply, we will not share your information with others without your prior consent.
 
-**What information do we collect when a user registers?**  
-We collect some basic information from all of our registered users. This includes your name, e-mail address, postcode and age. We also ask some further, voluntary questions so we can get to know our users better and tailor our site and services to suit. If you do not wish to register, however, you can still access most of the site. 
+**What information does edfringe.com collect?**  
+At present, there is no facility to register as a user of edfringe.com. As such, you are not required to provide any personal information in order to access the majority of the content available on the site. We do, however, require you to supply certain personal details when you make a purchase from the Fringe Shop, in order to process your transaction and/or fulfil your order. This information may include, but is not limited to, details such as your name, address and payment details.
 
-**Will edfringe.com disclose the information it collects in this way to outside parties?**  
-edfringe.com will not sell, trade or rent your personal information to others unless you have given us your permission. With your permission we will only share the information with carefully chosen, reputable and trustworthy third parties. edfringe.com may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. 
+**Will edfringe.com disclose the information it collects to outside parties?**  
+Edfringe.com will not sell, trade or rent your personal information to others unless you have given us your permission. With your permission we will only share the information with carefully chosen, reputable and trustworthy third parties. Edfringe.com may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. 
 
-**What other information does edfringe.com collect?**  
-We get further information from you when you buy an item in the Fringe shop or a ticket at the on-line Fringe box office. In both cases, we need to collect this information from you to either process a transaction or fulfil your order. This information may include, but is not limited to, details such as your name, address and payment details. 
-
-**What happens when I opt-in to the Fringe mailing list?**  
-By subscribing for Fringe updates, you give us your consent to receive from us (but only us) e-mails detailing special offers, announcements and competitions. You can unsubscribe from this service easily, and at any time, by either using the link provided at the bottom of the e-mail you are sent, or by logging into the site, going to the 'myfringe' area and updating your details. 
+**What happens when I opt in to the Fringe mailing list?**  
+By subscribing for Fringe updates, you give us your consent to receive from us (but only us) emails detailing special offers, announcements and competitions. You can unsubscribe from this service easily, and at any time, by either using the link provided at the bottom of the email you are sent.
