@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dattz.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214181801id_/http%3A//dattz.com/privacy.php%3Fqt%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dattz.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416002108id_/http%3A//www.dattz.com/privacy.php%3Fqt%3D) for the most accurate reproduction.*
 
 # dattz.com
 
