@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the qsrmagazine.com privacy policy that was archived on 2009-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616141707id_/http%3A//www.qsrmagazine.com/privacy.phtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qsrmagazine.com privacy policy that was archived on 2010-04-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100415154359id_/http%3A//www.qsrmagazine.com/privacy.phtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- InstanceBegin template="/Templates/basic.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceBeginEditable name="doctitle" -->
@@ -33,7 +33,7 @@ pageTracker._trackPageview();
     var uri = document.location;
     var microsite;
     if ( uri ) {
-        var matches = uri.pathname.match( /articles\/by_topic\/(\w+)/ );
+        var matches = uri.href.match( /articles\/by_topic\/(?:get_more\.cgi\?topic=)?(\w+)/ );
         if ( matches && matches[1] ) {
             microsite = matches[1];
         } else {
@@ -77,11 +77,16 @@ pageTracker._trackPageview();
 </script>
         </div>
         <div id="todays_date">
-            June 16, 2009        </div>
-        <div id="top"> <a href="/index.phtml"><img id="qsr_web_logo" src="/graphics/qsr-lsup-top.gif" width="235" height="103" border="0" alt="Leader in quick-service and fast-casual news" title="Leader in quick-service and fast-casual news" style="position:absolute; top:0px; left:5px; width: 235px; height: 103px;"></a>        </div>
+            April 15, 2010        </div>
+        <div id="top"> <a href="/index.phtml"><img id="qsr_web_logo" src="/graphics/qsr-lsup-top.gif" width="235" height="103" border="0" alt="Leader in quick-service and fast-casual news" title="Leader in quick-service and fast-casual news" style="position:absolute; top:0px; left:5px; width: 235px; height: 103px;"></a> </div>
+        <div id="search" style="position:absolute; width:300px; right: 0; top:110px;">
+            <form method="get" action="/search/search.cgi" style="display: inline;">
+                <input id="search_terms" type="text" name="q" size="23" maxlength="200" style="position:absolute; right:70px; top:-1px">
+                <input type="image" id="search_button" name="image" src="/graphics/search.gif" alt="Search QSR Online" style="position:absolute; right:5px; top:2">
+            </form>
+        </div>
     </div>
 </div>
-
 <style type="text/css">
 @import"/stylesheets/nav-h.css";
 </style>
@@ -117,20 +122,20 @@ pageTracker._trackPageview();
     </li>
     <li> <a href="/resources">Resources</a>
         <ul>
-            <li> <a href="/resources/franchise-expo"> Franchise Expo <span style="text-align: right;">»</span> </a>
-                <ul>
+            <li> <a href="/resources/franchise-expo"> Franchise Expo<!-- <span style="text-align: right;">&raquo;</span>  --></a>
+               <!-- <ul>
                     <li><a href="/resources/franchise-expo">A - C</a></li>
                     <li><a href="/resources/franchise-expo/d-g.phtml">D - G</a></li>
                     <li><a href="/resources/franchise-expo/h-m.phtml">H - M</a></li>
                     <li><a href="/resources/franchise-expo/n-s.phtml">N - S</a></li>
                     <li><a href="/resources/franchise-expo/t-z.phtml">T - Z</a></li>
-                </ul>
+                </ul> -->
             </li>
             <li><a href="/resources/onesource">Find a Supplier</a></li>
             <li><a href="/resources/events">Industry Calendar</a></li>
             <li><a href="/resources/jobs">Restaurant Job Search</a></li>
             <li><a href="/resources/video">QSR Video Files</a></li>
-        </ul>
+         </ul>
     </li>
     <li> <a href="/reports">Industry Reports</a>
         <ul>
@@ -143,25 +148,18 @@ pageTracker._trackPageview();
     </li>
     <li> <a href="/awards">Awards</a>
         <ul>
-            <li><a href="/awards/packaging_awards">Packaging Awards</a></li>
             <li><a href="/awards/technology">Technology Awards</a></li>
         </ul>
     </li>
     <li> <a href="/subscribe">Subscribe</a>
         <ul>
             <li><a href="/subscribe">Subscribe to QSR</a></li>
+            <li><a href="/reports/interactive_reports/eletters.cgi">E-letters</a></li>
             <li><a href="/MyAccount">Renew Your Subscription</a></li>
             <li><a href="/reprints">Buy Reprints</a></li>
         </ul>
     </li>
-    <li><a href="/blog/">Blog</a></li>
 </ul>
-            <div id="search">
-                <form method="get" action="/search/search.cgi" style="display: inline;">
-                    <input id="search_terms" type="text" name="q" size="23" maxlength="200" style="position:absolute; top:107px; left:720px">
-                    <input type="image" id="search_button" name="image" src="/graphics/search.gif" alt="Search QSR Online" style="position:absolute; top:109px; left:900px">
-                </form>
-            </div>
             <!--[if gte IE 5.5]>
             <script type="text/javascript" src="/javascripts/nav-h.js"></script>
             <![endif]-->
@@ -233,17 +231,21 @@ div#tools * a:hover, div#tools * a:active {
 <img src="/graphics/cover.gif" alt="QSR Magazine - Current Issue Cover" width="120" height="154" border="0" style="float:left; margin-right:7px" title="QSR Magazine - Current Issue Cover">
 </a>
     <div style="margin-top:15px"><a href="/subscribe/"><b>»Subscribe</b></a></div>
+    <div style="margin-top:2px"><a href="/reports/interactive_reports/eletters.cgi">»E-letters</a></div>
     <div style="margin-top:2px"><a href="/MyAccount/">»Renew</a></div>
     <div style="margin-top:2px"><a href="/MyAccount/">»Update</a></div>
     <div style="margin-top:2px"><a href="/advertising/">»Advertise</a></div>
     <div style="margin-top:2px"><a href="/reprints">»Reprints</a></div>
     <div style="margin-top:2px"><a href="/contact/">»Contact Us</a></div>
+    <div style="margin-top:2px"><a href="http://twitter.com/qsrmagazine" target="_blank" rel="nofollow"><img src="/graphics/twitter.png" alt="Follow us on Twitter" title="Follow us on Twitter" border="0"></a></div>
+    <div style="margin-top:2px"><a href="http://www.facebook.com/QSRmagazine" target="_blank" rel="nofollow"><img src="/graphics/facebook.jpg" alt="Become a Facebook Fan" title="Become a Facebook Fan" border="0"></a></div>
     <div style="clear:both;"></div>
 </div>
 <div id="microsites">
     <div style="font-size:18px; margin-bottom:5px">More Topics</div>
     <div class="rightcolumn">
-        <div><b>Operations</b></div>
+        <div style="font-weight: bold;"><a style="color: #333333;" href="/articles/by_topic/fast_casual">Fast Casual</a></div>
+        <div style="margin-top: 6px;"><b>Operations</b></div>
         <div><a href="/articles/by_topic/charitable_giving">»Charitable Giving</a></div>
         <!--<div><a href="/articles/by_topic/design">&raquo;Construction/Design</a></div>-->
         <div><a href="/articles/by_topic/real_estate">»Expansion</a></div>
@@ -255,15 +257,13 @@ div#tools * a:hover, div#tools * a:active {
         <div><a href="/articles/by_topic/legal">»Legal</a></div>
         <div><a href="/articles/by_topic/marketing">»Marketing</a></div>
         <div><a href="/articles/by_topic/packaging">»Packaging</a></div>
-        <div style="margin-top:6px"><b>Technology</b></div>
-        <div><a href="/articles/by_topic/digital_signage">»Digital Signage</a></div>
-        <!--<div><a href="/articles/by_topic/loyalty">&raquo;Loyalty</a></div>-->
-        <div><a href="/articles/by_topic/online_ordering">»Online Ordering</a></div>
-        <!--<div><a href="/articles/by_topic/security">&raquo;Security</a></div>-->
-        <!--<div><a href="/articles/by_topic/training">&raquo;Training</a></div>-->
     </div>
     <div class="leftcolumn">
-        <div><b>Equipment</b></div>
+        <div><b>Menu</b></div>
+        <div><a href="/articles/by_topic/food_beverage">»Food &amp; Beverage</a></div>
+        <div><a href="/articles/by_topic/breakfast">»Breakfast</a></div>
+        <div><a href="/articles/by_topic/burger">»Burger</a></div>
+        <div style="margin-top:6px"><b>Equipment</b></div>
         <!--<div><a href="/articles/by_topic/back_office">&raquo;Back-of-House</a></div>-->
         <div><a href="/articles/by_topic/drive_thru">»Drive-Thru</a></div>
         <div><a href="/articles/by_topic/entertainment">»Entertainment</a></div>
@@ -271,20 +271,19 @@ div#tools * a:hover, div#tools * a:active {
         <div><a href="/articles/by_topic/kitchen">»Kitchen</a></div>
         <div><a href="/articles/by_topic/menuboards">»Menuboards</a></div>
         <div><a href="/articles/by_topic/POS">»POS</a></div>
-        <div style="margin-top:6px; font-weight: bold;"><a style="color: #333333;" href="/articles/by_topic/fast_casual">Fast Casual</a></div>
-        <div style="margin-top:6px"><b>Menu</b></div>
-        <div><a href="/articles/by_topic/beverage_trends">»Beverage</a></div>
-        <div><a href="/articles/by_topic/breakfast">»Breakfast</a></div>
-        <div><a href="/articles/by_topic/desserts">»Desserts</a></div>
-        <div><a href="/articles/by_topic/entrees">»Entrees</a></div>
-        <div><a href="/articles/by_topic/sides">»Sides</a></div>
+        <div style="margin-top: 6px;"><b>Technology</b></div>
+        <div><a href="/articles/by_topic/digital_signage">»Digital Signage</a></div>
+        <!--<div><a href="/articles/by_topic/loyalty">&raquo;Loyalty</a></div>-->
+        <div><a href="/articles/by_topic/online_ordering">»Online Ordering</a></div>
+        <!--<div><a href="/articles/by_topic/security">&raquo;Security</a></div>-->
+        <!--<div><a href="/articles/by_topic/training">&raquo;Training</a></div>-->
     </div>
     <br style="clear: right;">
 </div>
 <div class="chains">
     <form method="post" action="" name="restaurants" style="margin:0; padding:0">
         <select id="chain_selector" name="restaurants" onchange="top.location.href='/articles/news/bychain.phtml?id=' + this.options[selectedIndex].value;">
-                    <option value="">Please enable JavaScript</option>
+            <option value="">Please enable JavaScript</option>
         </select>
 <script type="text/javascript">
 var req = new Ajax.Request(
@@ -302,7 +301,7 @@ var req = new Ajax.Request(
 </script>
     </form>
 </div>
-<div style="margin-top:5px"><a href="/reports/webcasts/in-store_merchandising?utm_source=qsrwebsite&amp;utm_medium=banner&amp;utm_campaign=webcast"><img src="/reports/interactive_reports/graphics/zone_merchandising_blue-234x200.gif" alt="How Can You Raise Sales 5-15%?" width="234" height="200" border="0"></a></div>
+<div style="margin-top:5px"><a href="/downloads/report.cgi"><img src="/banners/house/FCbanner_234x200.jpg" alt="Thinking of Buying a Fast-Casual Franchise? Read this report first." title="Thinking of Buying a Fast-Casual Franchise? Read this report first." width="234" height="200" border="0"></a></div>
 <!-- InstanceBeginEditable name="left" --> <!-- InstanceEndEditable --></div>
             <div id="right"><!-- ads that go here are 180 x 150 and do not include a border-->
 <script type="text/javascript">
@@ -505,7 +504,7 @@ If you have any questions or suggestions regarding our privacy policy, please co
 <div id="footer_html">
      <div><span><a href="/articles/menu_development/">Culinary&nbsp;Research&nbsp;&amp;&nbsp;Development</a> | <a href="/articles/tools/">Restaurant&nbsp;Technology</a> | <a href="/articles/ones_to_watch/">Emerging&nbsp;Quick-Serve&nbsp;Concepts</a> | <a href="/articles/interview/">Foodservice&nbsp;Industry&nbsp;Leaders</a> </span></div>
      <div style="margin-top:3px"><span><a href="/index.phtml">QSR&nbsp;Magazine</a> | <a href="/subscribe/">Subscribe&nbsp;to&nbsp;<i>QSR</i></a> | <a href="/advertising/">Advertise</a> | <a href="/contact/">Contribute&nbsp;to&nbsp;<i>QSR</i></a> | <a href="/privacy.phtml">Privacy
-                    Policy</a> | <a href="/contact/terms.phtml">Terms of Service</a> | </span> Copyright © 2009
+                    Policy</a> | <a href="/contact/terms.phtml">Terms of Service</a> | </span> Copyright © 2010
                     Journalistic Inc. All Rights Reserved. </div>
 </div>
 
