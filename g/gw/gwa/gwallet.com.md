@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gwallet.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125040625id_/http%3A//www.gwallet.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gwallet.com privacy policy that was archived on 2010-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100415060133id_/http%3A//www.gwallet.com/privacy.html) for the most accurate reproduction.*
 
-# gWallet - Fueling Virtual Currency
+# gWallet - Connecting Brands in New Media
 
 gWallet, Inc. (“gWallet”) values the privacy of the users, subscribers, members, and others (collectively or individually, "you" or "Users") who visit and use gWallet Social Media Monetization Platform ("gWallet Platform).    
 
@@ -10,7 +10,7 @@ By using the gWallet Platform or visiting the gWallet web site (‘Site”) you 
 
 This Privacy Policy should be read in connection with the gWallet Terms of Use. Your use of the gWallet Platform and Site and any personal information you provide through the gWallet Platform or Site are subject at all times to this Privacy Policy and the Terms of Use.
 
-**The Information gWallet Collects**
+**1\. The Information gWallet Collects**
 
 gWallet collects information from you in connection with the Site and gWallet Platform in the following manner:   
 
@@ -70,7 +70,7 @@ We recommend you do not divulge your account password to anyone.  **gWallet wil
 gWallet uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personally identifiable information. We cannot, however, ensure or warrant the security of any information you transmit to gWallet, and you do so at your own risk. Once we receive your transmission of such information, gWallet makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.    
 
 
-If gWallet learns of a security systems breach, then we will attempt to notify you electronically through the information that you have provided to us so that you can take appropriate protective steps. gWallet may post a notice on the Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at [ _support@gwallet.com_](mailto:support@myofferpal.com)
+If gWallet learns of a security systems breach, then we will attempt to notify you electronically through the information that you have provided to us so that you can take appropriate protective steps. gWallet may post a notice on the Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at [support@gWallet.com](mailto:support@myofferpal.com)
 
 **6** **. Our Commitment to Children's Privacy**
 
@@ -80,18 +80,18 @@ IF YOU ARE UNDER 13 YEARS OF AGE, THEN PLEASE DO NOT USE OR ACCESS THE GWALLET P
 Protecting the privacy of young children is especially important. For that reason, gWallet does not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age. If gWallet learns that personally identifiable information of persons less than 13-years-of-age has been collected on or through the gWallet Platform or Site, then gWallet will take the appropriate steps to delete this information.    
 
 
-If you are the parent or legal guardian of a child under 13 who uses the gWallet Platform or Site, then please contact gWallet at [ _support@gwallet.com_](mailto:support@myofferpal.com) to have that child's information deleted.    
+If you are the parent or legal guardian of a child under 13 who uses the gWallet Platform or Site, then please contact gWallet at [support@gWallet.com](mailto:support@myofferpal.com) to have that child's information deleted.    
 
 
 The following are some resources that may help parents and legal guardians in monitoring and limiting your children's access to certain types of material on the Internet. While gWallet does not endorse these resources, we provide information about them as a public service to our community.
 
-  * "OnGuard Online," maintained by the [ _Federal Trade Commission_](http://onguardonline.gov/socialnetworking.html)
-  * [_WiredSafety_](http://www.wiredsafety.org/)
-  * [_Netsmartz.org_](http://offerpal.com/www.netsmartz.org)
-  * [_The Child Safety Network_](http://www.csn.org/index.jsp)
-  * [_Control Kids_](http://www.controlkids.com/)
-  * [_Cyber Sitter_](http://www.solidoak.com/)
-  * [_Net Nanny_](http://www.netnanny.com/)
+  * "OnGuard Online," maintained by the [Federal Trade Commission](http://onguardonline.gov/socialnetworking.html)
+  * [WiredSafety](http://www.wiredsafety.org/)
+  * [Netsmartz.org](http://offerpal.com/www.netsmartz.org)
+  * [The Child Safety Network](http://www.csn.org/index.jsp)
+  * [Control Kids](http://www.controlkids.com/)
+  * [Cyber Sitter](http://www.solidoak.com/)
+  * [Net Nanny](http://www.netnanny.com/)
 
 
 
@@ -119,7 +119,7 @@ gWallet does not send unsolicited e-mails to non-public addresses or to anyone w
 
 **1** **2** **. gWallet Contact Information**
 
-Please contact gWallet with any questions or comments about this Privacy Policy, your personal information, and our third-party disclosure practices or your consent choices by emailing [ _info@gwallet.com_](mailto:info@gwallet.com). We will respond to your inquiry within 30 days of its receipt.   
+Please contact gWallet with any questions or comments about this Privacy Policy, your personal information, and our third-party disclosure practices or your consent choices by emailing [ _info@gWallet.com_](mailto:info@gwallet.com). We will respond to your inquiry within 30 days of its receipt.   
 
 
 gWallet’s physical address is as follows:   
