@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the htmlremix.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228090236id_/http%3A//www.htmlremix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlremix.com privacy policy that was archived on 2010-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100415205133id_/http%3A//www.htmlremix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HTML Remix
-
-5 February 2009 - by Remiz
 
 #### HTMLRemix respects your privacy.
 
