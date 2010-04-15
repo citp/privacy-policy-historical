@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7art-screensavers.com privacy policy that was archived on 2009-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090304170602id_/http%3A//7art-screensavers.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7art-screensavers.com privacy policy that was archived on 2010-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100415154907id_/http%3A//7art-screensavers.com/privacy.shtml) for the most accurate reproduction.*
 
 # 7art-screensavers - 3D and free Clock screensavers to raise your spirits!
 
@@ -9,8 +9,11 @@ Any personal information that you provide to our web site shall stay absolutely 
 **Security of your Personal Information**   
 We have taken the appropriate steps and followed industry standards to secure any personal data stored by our systems. 
 
+**Bundled Software**   
+Free 7art screensavers (but not the commercial ones) usually come with bundled software from reliable respected companies. You can always uninstall this third party software easily after the installation. For details please read the disclosure text in the beginning of the installation of each free screensaver. Bundling with other software lets us to keep the majority of our screensavers free of charge. 
+
 **Cookies**   
-We may use cookies to store information about your visits to improve the use of our websites. In addition, during the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser. We do not use cookies to store personal information such as your name and do not retrieve any information from your computer that was not originally sent in a cookie. You can always disable cookies or set your browser to alert you when cookies are being sent to your computer. 
+We may use cookies to store information about your visits to improve the use of our websites. In addition, during the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here!](http://www.google.com/privacy_ads.html) We do not use cookies to store personal information such as your name and do not retrieve any information from your computer that was not originally sent in a cookie. You can always disable cookies or set your browser to alert you when cookies are being sent to your computer. 
 
 **IP Addresses**   
 We may also collect your IP address for safety and security purposes. An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet. 
