@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orbitz.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202162847id_/http%3A//www.orbitz.com/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orbitz.com privacy policy that was archived on 2010-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100415024805id_/http%3A//www.orbitz.com/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
 
 # Privacy Policy on Orbitz
 
@@ -54,7 +54,7 @@ The remainder of this policy describes our Personal Information handling practic
 > 
 > **"Personal Information"** means any information, recorded in any form, about an identified individual, or an individual whose identity may be inferred from the information. This includes, for example, name, e-mail and mailing address, telephone number, billing and account information and other information incidental to providing Products or Services (including information about individuals traveling with you).
 > 
-> **"Products or Services"** means the airline travel, hotel accommodation, car rental, ground transportation, tours, theater tickets, attractions, travel insurance, OrbitzTLCSM Alerts and other items available from the Site.
+> **"Products or Services"** means the airline travel, hotel accommodation, car rental, ground transportation, tours, theater tickets, attractions, travel insurance, Orbitz Care Alerts and other items available from the Site.
 > 
 > To **"Book"** means to reserve.
 > 
@@ -74,7 +74,7 @@ The remainder of this policy describes our Personal Information handling practic
 > 
 > **Other Travelers or Contacts**
 >
->> If you Book Products or Services for other travelers using your Member ID and password, or if you provide us with contact information of a third party for OrbitzTLC Alerts, you must make sure that you have the right to do so. By providing the Personal Information of another traveler, you represent that you have all necessary authority and/or have obtained all necessary consents from such person to enable us to collect, use and disclose his or her Personal Information as set forth in this Privacy Policy.
+>> If you Book Products or Services for other travelers using your Member ID and password, or if you provide us with contact information of a third party for Orbitz Care Alerts, you must make sure that you have the right to do so. By providing the Personal Information of another traveler, you represent that you have all necessary authority and/or have obtained all necessary consents from such person to enable us to collect, use and disclose his or her Personal Information as set forth in this Privacy Policy.
 
 3\. 
 
@@ -114,11 +114,11 @@ _What Personal Information we collect_
 >
 >> When you become a Subscriber, we collect your name and email address so that you may receive offers or promotions from Orbitz without becoming a Member or Guest.
 > 
-> **When you Book Air - OrbitzTLC Alert service**
+> **When you Book Air - Orbitz Care Alert service**
 >
->> Our OrbitzTLC Alert service provides timely updates about your air travel arrangements, for example, changes in gate assignment or delays in departure or arrival time. OrbitzTLC Alerts are automatically sent to the email address that you provide with the air itinerary. You can choose to have the OrbitzTLC Alerts sent to a voice mobile phone in the booking process or to an alternate device (telephone, pager or other wireless device) in My Stuff. We will collect the e-mail address or the telephone number of the device to which we should send the information, and store it in My Stuff.
+>> Our Orbitz Care Alert service provides timely updates about your air travel arrangements, for example, changes in gate assignment or delays in departure or arrival time. Orbitz Care Alerts are automatically sent to the email address that you provide with the air itinerary. You can choose to have the Orbitz Care Alerts sent to a voice mobile phone in the booking process or to an alternate device (telephone, pager or other wireless device) in My Stuff. We will collect the e-mail address or the telephone number of the device to which we should send the information, and store it in My Stuff.
 >> 
->> If you request that we direct an OrbitzTLC Alert to someone other than yourself, you need to provide in My Stuff Personal Information about that other person as necessary to send the requested OrbitzTLC Alert (e.g., that person's name and phone number or e-mail address).
+>> If you request that we direct an Orbitz Care Alert to someone other than yourself, you need to provide in My Stuff Personal Information about that other person as necessary to send the requested Orbitz Care Alert (e.g., that person's name and phone number or e-mail address).
 > 
 > **When you participate in contests, promotions, raffles, or sweepstakes**
 >
@@ -267,7 +267,7 @@ _How we retain and store Personal information_
 > 
 > **Third Parties' Personal Information**
 >
->> We will retain in your My Stuff folder the Personal Information of individuals for whom you have made reservations or to whom we have sent OrbitzTLC Alerts on your behalf. 
+>> We will retain in your My Stuff folder the Personal Information of individuals for whom you have made reservations or to whom we have sent Orbitz Care Alerts on your behalf. 
 >> 
 >> You can access, modify or delete these third parties' Personal Information at any time, as described in How to access, modify, or delete your Personal Information.
 >> 
@@ -343,7 +343,7 @@ _Changes to the Privacy Policy_
 > 
 > We may change or supplement this Privacy Policy from time to time. We may also undergo a change of ownership. Privacy Policy changes will apply to the information collected from the date we post the revised Privacy Policy to the Site, as well as to existing information held by us. 
 > 
-> If we decide to change this policy in a material way, we will obtain the necessary consents required under applicable privacy laws if we seek to collect, use or disclose Personal Information for purposes other than those to which consent has been obtained, unless otherwise required or permitted by law. If any proposed change is unacceptable to you, you may request that we remove your Personal Information (and/or that of other individuals for whom you made travel reservations or who have received your OrbitzTLC Alerts) from our records, as described in How to access, modify or delete your Personal Information.
+> If we decide to change this policy in a material way, we will obtain the necessary consents required under applicable privacy laws if we seek to collect, use or disclose Personal Information for purposes other than those to which consent has been obtained, unless otherwise required or permitted by law. If any proposed change is unacceptable to you, you may request that we remove your Personal Information (and/or that of other individuals for whom you made travel reservations or who have received your Orbitz Care Alerts) from our records, as described in How to access, modify or delete your Personal Information.
 
 > Orbitz is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because Orbitz wants to demonstrate its commitment to privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 > 
