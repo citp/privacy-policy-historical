@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wrestleandfuck.com privacy policy that was archived on 2009-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090812071542id_/http%3A//www.wrestleandfuck.com/index2.php%3Fact%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestleandfuck.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416014711id_/http%3A//www.wrestleandfuck.com/index2.php%3Finc%3Dpp) for the most accurate reproduction.*
 
-# WRESTLEANDFUCK.COM
+# WRESTLEHARD.COM - Gay wrestling adult videos
 
 I. Introduction 
 
-Your privacy is important to us. This privacy policy discloses the information practices for http://www.WrestleandFuck.com, including the types of information we gather and track, how we use that information, and with whom we share it. The purpose of this policy is to let you know how we use your personal information before we collect it. We have tried to include a link to this policy on every page on which personal information is collected. We have also provided a number of links at the bottom of this page for those interested in learning more about privacy issues in cyberspace.
+Your privacy is important to us. This privacy policy discloses the information practices for http://www.wrestlehard.com, including the types of information we gather and track, how we use that information, and with whom we share it. The purpose of this policy is to let you know how we use your personal information before we collect it. We have tried to include a link to this policy on every page on which personal information is collected. We have also provided a number of links at the bottom of this page for those interested in learning more about privacy issues in cyberspace.
 
 II. Information Collection and Management
 
