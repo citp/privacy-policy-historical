@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multiplestreammktg.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620014636id_/http%3A//www.multiplestreammktg.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiplestreammktg.com privacy policy that was archived on 2010-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100415161710id_/http%3A//www.multiplestreammktg.com/privacy.html) for the most accurate reproduction.*
 
 # Multiple Stream Media - Our Advertisers
 
@@ -41,9 +41,9 @@
 >   2. You can [email us](http://www.multiplestreammktg.com/helpdesk/index.html).
 >   3. You can send mail to the following postal address:  
 >  Multiple Stream Media LLC  
->  603 Old Stage Road, Main Bldg.  
->  Saugerties, NY 12477
->   4. You can call the following telephone number: 845.247.2565
+>  544 Sawmill Road.  
+>  Hurley NY 12443
+>   4. You can call the following telephone number: 845.383.1007
 > 
 
 > 
@@ -56,31 +56,17 @@
 > 
 > 
 > Multiple Stream Media LLC  
->  603 Old Stage Road, Main Bldg.  
->  Saugerties, NY 12477
+>  544 Sawmill Road.  
+>  Hurley NY 12443
 > 
 >   4. You can call the following telephone number:   
->  (845) 247 2565   
->  (845) 247 2567  
->  Fax: (845) 247 2569  
+>  (845) 383 1007  
 > 
 > 
 
 > 
 > **Policy Changes - This Privacy Policy is subject to change**    
 >  Modifications to this policy will be posted publicly on this page. 
-> 
-> **Contacting the Web Site**  
->  If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
-> 
-> Multiple Stream Media LLC  
->  603 Old Stage Road, Main Bldg.  
->  Saugerties, NY 12477
-> 
-> Telephone:  
->  (845) 247 2565   
->  (845) 247 2567  
->  Fax: (845) 247 2569
 > 
 > **DISCLAIMER OF WARRANTIES, LIMITATION OF LIABILITIES, INDEMNIFICATION**
 > 
