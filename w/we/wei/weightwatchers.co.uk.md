@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightwatchers.co.uk privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602223019id_/http%3A//www.weightwatchers.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightwatchers.co.uk privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417004738id_/http%3A//www.weightwatchers.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
 
 # WeightWatchers.co.uk: Privacy Policy
 
