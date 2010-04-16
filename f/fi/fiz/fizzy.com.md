@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fizzy.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219190054id_/http%3A//www.fizzy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fizzy.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416141324id_/http%3A//www.fizzy.com/privacy) for the most accurate reproduction.*
 
 # Fizzy Home :: Support :: Privacy
 
-## What Information Do We Collect?
+### Fizzy.com is owned and operated by 3RD sense Australia Pty Ltd (3RD sense).
 
-When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
+Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our customers, partners and visitors to our Web site. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs.
 
-## 1\. Personal Information You Choose to Provide
+### 1\. Personal Information You Choose to Provide
 
 ### Registration Information:
 
@@ -28,7 +28,7 @@ If you choose to purchase products or services from us or our partners, you may 
 
 If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
 
-## 2\. Web Site Use Information
+### 2\. Web Site Use Information
 
 Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site.
 
