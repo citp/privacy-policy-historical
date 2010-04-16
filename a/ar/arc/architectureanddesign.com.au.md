@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the architectureanddesign.com.au privacy policy that was archived on 2009-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090103031521id_/http%3A//architectureanddesign.com.au/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architectureanddesign.com.au privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416151703id_/http%3A//www.architectureanddesign.com.au/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Architecture & Design
+# Architecture & Design - Privacy Policy
 
 Reed Elsevier Australia Pty Limited and its related companies (“the Reed Group”) have a firm commitment to privacy in accordance with the Privacy Amendment (Private Sector) Act 2000, which takes effect in December 2001.
 
