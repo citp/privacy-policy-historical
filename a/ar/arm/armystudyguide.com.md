@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the armystudyguide.com privacy policy that was archived on 2009-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090902131417id_/http%3A//www.armystudyguide.com/content/admin_section/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armystudyguide.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417015313id_/http%3A//www.armystudyguide.com/content/admin_section/privacy-policy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy (ArmyStudyGuide.com)
+# Privacy Policy - ArmyStudyGuide.com
 
 ArmyStudyGuide.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this [ArmyStudyGuide.com](http://www.armystudyguide.com/) .
 
@@ -14,7 +14,7 @@ QuinStreet has established the following Online Privacy Policy so that you can u
 
 California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. 
 
-If you are a California resident you may request this information from QuinStreet or any of its affiliates by writing to us via email at [info@quinstreet.com](mailto:info@quinstreet.com) or you may send us correspondence at the following address: QuinStreet, Attn: Privacy, 1051 E. Hillsdale Blvd, 8th Floor, Foster City, CA 94404. QuinStreet is not obligated to respond to more than one such request from a customer per calendar year.
+If you are a California resident you may request this information from QuinStreet or any of its affiliates by writing to us via email at [info@armystudyguide.com](mailto:info@armystudyguide.com) or you may send us correspondence at the following address: QuinStreet, Attn: Privacy, 1051 E. Hillsdale Blvd, 8th Floor, Foster City, CA 94404. QuinStreet is not obligated to respond to more than one such request from a customer per calendar year.
 
 ## Information Collected by QuinStreet
 
@@ -62,11 +62,11 @@ You may set most browsers to notify you if you receive a cookie, or you may choo
 
 ### Personally Identifiable Consumer Information - Opting-Out
 
-You may choose whether or not to provide personally identifiable information to QuinStreet. If you choose to provide such information to QuinStreet, you have the right to tell us not to make some of the uses of such information described herein or may have such information deleted in its entirety. If you no longer wish to receive our newsletters, surveys or promotional communications via email, you may opt-out by clicking here and following the instructions to unsubscribe. To have your personal information completely removed from our databases, simply contact us at [info@quinstreet.com](mailto:info@quinstreet.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. Once we receive your instruction, we will promptly take corrective action.
+You may choose whether or not to provide personally identifiable information to QuinStreet. If you choose to provide such information to QuinStreet, you have the right to tell us not to make some of the uses of such information described herein or may have such information deleted in its entirety. If you no longer wish to receive our newsletters, surveys or promotional communications via email, you may opt-out by clicking here and following the instructions to unsubscribe. To have your personal information completely removed from our databases, simply contact us at [info@armystudyguide.com](mailto:info@armystudyguide.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. Once we receive your instruction, we will promptly take corrective action.
 
 ### Access/Accuracy
 
-To the extent that you do provide us with personally identifiable information, QuinStreet wishes to maintain the accuracy of this information. Where we collect personally identifiable information from you on the Web, our goal is to provide a means of contacting QuinStreet should you need to update or correct that information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your personally identifiable information to [info@quinstreet.com](mailto:info@quinstreet.com) and we will make reasonable efforts to incorporate the changes in the information that we hold as soon as practicable.
+To the extent that you do provide us with personally identifiable information, QuinStreet wishes to maintain the accuracy of this information. Where we collect personally identifiable information from you on the Web, our goal is to provide a means of contacting QuinStreet should you need to update or correct that information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your personally identifiable information to [info@armystudyguide.com](mailto:info@armystudyguide.com) and we will make reasonable efforts to incorporate the changes in the information that we hold as soon as practicable.
 
 ### Children's Privacy
 
@@ -76,13 +76,13 @@ In compliance with the Children's Online Privacy Protection Act (COPPA), QuinStr
 
 Some of QuinStreet's web sites offer you the opportunity to easily notify a friend of the offer or information promoted on the site. If you choose to use our referral service to tell a friend about a QuinStreet site, we will ask you for your friend's personally identifiable information, including name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. QuinStreet stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-Your friend may contact us at [info@quinstreet.com](mailto:info@quinstreet.com) to request that we remove this information from our database. Our one-time email to your friend will inform him or her of this fact.
+Your friend may contact us at [info@armystudyguide.com](mailto:info@armystudyguide.com) to request that we remove this information from our database. Our one-time email to your friend will inform him or her of this fact.
 
 ### Commitment
 
 Protecting your privacy online is an evolving area, and QuinStreet's web sites are constantly changing to meet these demands.
 
-If you have any comments or questions regarding our Online Privacy Policy, please contact us at [info@quinstreet.com](mailto:info@quinstreet.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as practicable after you bring it to our attention.
+If you have any comments or questions regarding our Online Privacy Policy, please contact us at [info@armystudyguide.com](mailto:info@armystudyguide.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as practicable after you bring it to our attention.
 
 ### Your Consent
 
@@ -90,7 +90,7 @@ By using this web site, you consent to the terms of our Online Privacy Policy an
 
 ### Contacting Us
 
-For more information, or if you have questions or concerns regarding QuinStreet's Privacy Policy, you may email us at [info@quinstreet.com](mailto:info@quinstreet.com) or you can send correspondence to the following address: 
+For more information, or if you have questions or concerns regarding QuinStreet's Privacy Policy, you may email us at [info@armystudyguide.com](mailto:info@armystudyguide.com) or you can send correspondence to the following address: 
 
 > Privacy  
 >  QuinStreet  
