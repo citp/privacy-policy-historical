@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berroco.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218043252id_/http%3A//www.berroco.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berroco.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416080421id_/http%3A//www.berroco.com/privacy.html) for the most accurate reproduction.*
 
 # Berroco® KnitBits®
 
