@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subbedanime.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620043307id_/http%3A//subbedanime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subbedanime.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416103318id_/http%3A//subbedanime.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of subbedanime.com
 
@@ -202,4 +202,4 @@ This Privacy Policy describes the terms of our commitment to your privacy.
 
 > 22.1 For any question, comment or report of incident, please use the contact page on the site.
 
-COPYRIGHT NOTICE: Copyright © 2009 [subbedanime.com](http://subbedanime.com/). All rights reserved worldwide. 
+COPYRIGHT NOTICE: Copyright © 2010 [subbedanime.com](http://subbedanime.com/). All rights reserved worldwide. 
