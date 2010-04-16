@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the health.vic.gov.au privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001233714id_/http%3A//www.dhs.vic.gov.au/privstat.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health.vic.gov.au privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417004821id_/http%3A//www.health.vic.gov.au/privstat.htm) for the most accurate reproduction.*
 
-# Privacy statement - Department of Human Services, Victoria, Australia
+# Privacy - Victorian Government Health Information, Australia
 
-page content: DHS Privacy Policy |General | Collection of your personal information | Web statistics data collection | Use and disclosure of your personal information | Security | Feedback form, information request form and email | Links to external websites | Clickstream data | Cookies | Access and correction
+### Privacy statement
 
-View the Department of Human Services complete [Privacy Policy](http://www.dhs.vic.gov.au/privacy/ "link to DHS Privacy website")
+page content: General | Collection of your personal information | Web statistics data collection | Use and disclosure of your personal information | Security | Feedback form, information request form and email | Links to external websites | Clickstream data | Cookies | Access and correction
 
 ## General
 
-Consistent with Victorian Government policy and legislation, the Department of Human Services endorses fair information handling practices and uses of information in compliance with its obligations under the _Information Privacy Act 2000 (Vic) and the Health Records Act 2001 (Vic)_. Any information provided, including identification of individuals, will be used only for the purpose/s intended and where the intention includes confidentiality, information will be treated as such unless otherwise required by law.
+Consistent with Victorian Government policy and legislation, the Department of Health endorses fair information handling practices and uses of information in compliance with its obligations under the _Information Privacy Act 2000 (Vic) and the Health Records Act 2001 (Vic)_. Any information provided, including identification of individuals, will be used only for the purpose/s intended and where the intention includes confidentiality, information will be treated as such unless otherwise required by law.
 
 This Website Privacy Statement explains how your personal information (being information capable of identifying you as an individual) will be treated as you access and interact with this website. The practices outlined in this Website Privacy Statement are subject to any rights DHS may have to handle personal information in accordance with law.
 
@@ -81,24 +81,8 @@ The default settings of browsers like Netscape and Internet Explorer may allow s
 
 ## Access and correction
 
-To request access to or correction of your personal information held by the Department of Human Services, please contact us to find out about access and correction procedures.
+To request access to or correction of your personal information held by the Department of Health, please contact us to find out about access and correction procedures.
 
-It is policy in the Department of Human Services that, where appropriate, you should be able to request access to your personal information directly, without the need to make a formal application under the _Freedom of Information Act 1982 (Vic)_. However, there are situations where it will not be appropriate to provide direct access to information, and you will be required to make an FOI application. (For example, where providing direct access would compromise the privacy of another person).
+It is policy in the Department of Health that, where appropriate, you should be able to request access to your personal information directly, without the need to make a formal application under the _Freedom of Information Act 1982 (Vic)_. However, there are situations where it will not be appropriate to provide direct access to information, and you will be required to make an FOI application. (For example, where providing direct access would compromise the privacy of another person).
 
-For information on making an FOI application please visit [www.foi.vic.gov.au](http://www.foi.vic.gov.au/ "link to Freedom of Information website") or contact;
-
-Department of Human Services  
-Freedom of Information Officer  
-Postal Address: GPO BOX 4057, MELBOURNE, VIC 3001  
-Street Address: 50 Lonsdale Street, MELBOURNE, VIC 3000  
-Tel: 03 9606 8449
-
-For information on how DHS manages privacy please contact
-
-Department of Human Services  
-Senior Privacy Advisor  
-Postal Address: GPO BOX 4057, MELBOURNE, VIC 3001  
-Street Address: 50 Lonsdale Street, MELBOURNE, VIC 3000 Tel: 03 9606 8534  
-Email: [privacy@dhs.vic.gov.au](mailto:privacy@dhs.vic.gov.au)
-
-The Department of Human Services gratefully acknowledges the Department of Justice’s contribution in developing this statement.
+For information on making an FOI application please visit [www.foi.vic.gov.au](http://www.foi.vic.gov.au/ "link to Freedom of Information website")
