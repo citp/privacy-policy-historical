@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the listingbook.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603031125id_/http%3A//www.listingbook.com/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listingbook.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416173956id_/http%3A//listingbook.com/home/privacy-policy) for the most accurate reproduction.*
 
-# Listingbook.com
-
-## LISTINGBOOK PRIVACY POLICY
+# Privacy Policy
 
 This website is owned and operated by Listingbook, LLC ("Listingbook"). Your privacy on the Internet is of the utmost importance to us. At Listingbook, we want to make your experience online both satisfying and safe.
 
