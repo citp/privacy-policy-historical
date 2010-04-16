@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ardhindie.com privacy policy that was archived on 2009-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091017222359id_/http%3A//www.ardhindie.com/sitemap/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ardhindie.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416080800id_/http%3A//www.ardhindie.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ardhindie Dot Com
+# Privacy Policy | Watch Movies Online - TV Shows - Tech and Gadgets Review
+
+[](http://www.consultsites.com/affiliate/members.php?csafftype=click&csaffbid=9&csaffrid=ndykmsxv "Websites For Sale http://www.consultsites.com/")
 
 Ardhi Indie’s Blog Privacy Statement
 
@@ -54,8 +56,3 @@ When Ardhi Indie’s Blog makes changes to this privacy policy we will post thos
 Contact Information
 
 If you have any questions regarding our privacy policy, please [contact us](http://www.ardhindie.com/contact).
-
-Take All TV SHOW with you everywhere:
-
-[ ](http://tvshowaddict.ourtoolbar.com/) |  [](http://tvshowaddict.ourtoolbar.com/)  
----|---
