@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiveknuckles.com privacy policy that was archived on 2009-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090714184713id_/http%3A//www.fiveknuckles.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiveknuckles.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416122119id_/http%3A//www.fiveknuckles.com/privacy-policy.html) for the most accurate reproduction.*
 
 # FiveKnuckles.com Privacy Policy
 
@@ -55,3 +55,17 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 United States  
 info@fiveknuckles.com
+
+**FiveKnuckles.com MMA Betting Advice:**
+
+FiveKnuckles.com and Benjamin Zeidler are not responsible for any decisions made, financial or otherwise, based on information or links provided by FiveKnuckles.com. We advise all viewers to use discretion when viewing our Professional MMA betting Advice page. Please bet within your means only. If you encounter gambling problems of any kind, please contact the gambling help authorities in your area.
+
+It is very important to check the laws and regulation in your own country regarding gambling betting, as it might differ from country to country. We do not promote underage or illegal gambling.
+
+We do not claim to have complete and reliable odds information at the present moment.
+
+Neither Benjamin Zeidler nor anyone associated with FiveKnuckles.com accepts any responsibility whatsoever for any loss that may be sustained as a result of the use (or misuse) of the opinions, odds or advertisements placed at the FiveKnuckles.com website.
+
+FiveKnuckles.com and its contributors do not guarantee winnings and cannot be held liable for losses resulting from the use of information obtained from here. FiveKnuckles.com and its contributors cannot be held responsible for any erroneous or incomplete on-line results. FiveKnuckles.com and its contributors do not accept any responsibility for any erroneous information presented here which can arise due to equipment errors, unforeseeable consequences, acts of God or any other reason whatsoever.
+
+Any questions regarding our disclaimer information, please submit your comments by e-mail to FiveKnuckles.com. Disclaimer information are subject to change at the discretion of FiveKnuckles.com, so please check back regularly. 
