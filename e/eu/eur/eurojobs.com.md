@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurojobs.com privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328123531id_/http%3A//www.eurojobs.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurojobs.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417002458id_/http%3A//www.eurojobs.com/en/main/privacy) for the most accurate reproduction.*
 
 # Homepage
 
@@ -50,13 +50,11 @@ Users can update, correct, or delete their personal information on Eurojobs.com 
 
 Privacy Coordinator   
 Eurojobs.com Ltd   
-Upton Fold   
-Bosley   
-Macclesfield   
-Cheshire SK11 0PX   
+80-83 Long Lane   
+London   
+EC1A 9ET   
 United Kingdom   
-Tel: +44 1260 223144   
-Fax: +44 1260 223145   
+Tel: +44 (0)20 33724781   
 [harmen.rijks@eurojobs.com](mailto:harmen.rijks@eurojobs.com)
 
 #### Information Security
