@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazinediscountcenter.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523111801id_/http%3A//www.magazinediscountcenter.com/privecypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazinediscountcenter.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417011827id_/http%3A//www.magazinediscountcenter.com/privecypolicy.html) for the most accurate reproduction.*
 
 # Discount Magazine Subscription | Cheap Magazines Subscriptions | Magazine Discounts: Magazine Discount Center
 
