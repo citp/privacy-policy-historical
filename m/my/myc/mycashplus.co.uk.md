@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycashplus.co.uk privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128084146id_/http%3A//www.mycashplus.co.uk/security-and-privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycashplus.co.uk privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416074906id_/http%3A//www.mycashplus.co.uk/security-and-privacy/default.aspx) for the most accurate reproduction.*
 
 # Security & privacy on the Cashplus prepaid card site. Contact us | Cashplus
 
