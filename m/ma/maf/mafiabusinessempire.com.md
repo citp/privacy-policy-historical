@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mafiabusinessempire.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213111746id_/http%3A//www.mafiabusinessempire.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mafiabusinessempire.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416080605id_/http%3A//www.mafiabusinessempire.com/privacy.htm) for the most accurate reproduction.*
 
-# index4
+# Mafia Business Empire - Privacy Policy
 
  
 
