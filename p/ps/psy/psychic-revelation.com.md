@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the psychic-revelation.com privacy policy that was archived on 2009-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090113232208id_/http%3A//www.psychic-revelation.com/home/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychic-revelation.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416063958id_/http%3A//www.psychic-revelation.com/home/privacy_policy.html) for the most accurate reproduction.*
 
 # Psychic Revelation Privacy Policy
+
+* * *
 
 We respect the privacy of our newsletter subscribers, customers, contacts, those who answer our surveys, and those who fill out our questionnaires. It is our policy: 
 
@@ -16,4 +18,4 @@ We respect the privacy of our newsletter subscribers, customers, contacts, those
 
 6\. To continue this policy beyond the termination of our company. If a majority portion of the assets of our company were to be acquired by another organization, that might include our subscriber and other lists, but only as part of a clear agreement binding that organization to abide by the spirit and letter of our privacy policy. 
 
-These policies apply to all the various web sites owned by [DPH Enterprises](http://www.dphenterprises.com/), including Psychic Revelation, [Adriana's Attic](http://www.adrianas-attic.com/), [Native American World](http://www.native-american-world.com/), [Sharing Circle](http://www.sharing-circle.com/) and [Triquetra Design](http://www.triquetra-design.com/). If you have any concerns or questions about our privacy policy or information collected on our sites, please contact [support@psychic-revelation.com](mailto:support@psychic-revelation.com?subject=PrivacyPolicy) and we will reply promptly.
+These policies apply to all the various web sites owned by DPH Enterprises. If you have any concerns or questions about our privacy policy or information collected on our sites, please [contact](https://web.archive.org/web/20100416063958id_/http%3A//www.psychic-revelation.com/home/contact.html) us and we will reply promptly.
