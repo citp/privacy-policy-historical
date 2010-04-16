@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925102232id_/http%3A//www.codeproject.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416053634id_/http%3A//www.codeproject.com/info/privacy.aspx) for the most accurate reproduction.*
 
-# CodeProject: Privacy Policy. Free source code and programming help
+# Privacy Policy - CodeProject
 
-Last updated: Sunday, July 01, 2007
+Last updated: Sunday, July 1, 2007
 
 The Code Project is committed to protecting your privacy and to developing technology that gives you the most powerful and secure online experience. 
 
@@ -173,5 +173,6 @@ This agreement, your use of the Web Site, and all related matters are governed s
 We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our web site or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are protecting the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
 
   
-  
 
+
+Last Updated 1 Jul 2007 | [Advertise](https://web.archive.org/info/MediaKit.aspx) | [Privacy](https://web.archive.org/info/privacy.aspx) | [Terms of Use](https://web.archive.org/info/TermsOfUse.aspx) | Copyright © [CodeProject](mailto:webmaster@codeproject.com), 1999-2010 
