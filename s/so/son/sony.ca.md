@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sony.ca privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225132957id_/http%3A//www.sony.ca/view/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony.ca privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416115224id_/http%3A//www.sony.ca/view/privacy.htm) for the most accurate reproduction.*
 
 # Sony.ca Privacy Code
 
@@ -8,7 +8,7 @@ This code describes our privacy practices. By purchasing a product or service, s
  **Why do we collect your personal information?**
 
 Our goal at Sony of Canada Ltd. is to provide our customers with the highest quality products and services. In order to process and record your purchases, and to ensure that you receive quality products and customer services, we collect certain Personal Information directly from our customers.  
-You can visit the Sony stores or our web sites without identifying yourself or providing any Personal Information. At certain times, however, we ask you to provide information that will enable us to complete a transaction, provide you with important product information, enhance your visit or follow up later. Your participation is completely optional.
+You can visit a **Sony  Style** retail location or our web sites without identifying yourself or providing any Personal Information. At certain times, however, we ask you to provide information that will enable us to complete a transaction, provide you with important product information, enhance your visit or follow up later. Your participation is completely optional.
 
 For example, we request information when you: 
 
@@ -30,12 +30,6 @@ In these instances, we may ask for your name, address, e-mail address, telephone
 For each visitor to a Sony of Canada website, Sony of Canada's web server automatically recognizes and stores information, such as the visitor's IP address/domain name combination and any referring websites. We use this information to understand visitor traffic patterns through our websites for purposes of enhancing their usability. Your computer provides this information automatically each time you log on, unless you have activated blocking technology available in some browsers.
 
 When you visit Sony of Canada's websites or advertisements appearing thereon, or use one or more of the Sony of Canada website services, we may use an industry-wide technology called "cookies' which store certain information on your computer and which allow us to customize your experience to better match your interests and preferences, or to simply facilitate your signing in to use the services. Most browsers will allow you to erase cookies from your computer hard drive, block acceptance of coolies, or receive a warning before a cookie is stored. However, if you block or erase cookies, we may not be able to restore any preferences or customize settings you previously specified, and our ability to personalize your online experience would be limited. Please refer to your browser instructions or "help" screen to learn more about these functions.
-
- **What do we do with your personal information?  
-**  
-The primary purpose of our collection of this information is to be able to provide products and services to you, to provide you with customer support services, to seek your opinion from time to time, and to compile marketing and other statistics for use by Sony. However, Sony may also use this information with data from third parties to provide information to you on Sony prod-ucts, services and promotions, and on complementary products and services offered by our affiliated companies and others. At times we collect Personal Information with third parties, who may also keep your Personal Information. When we do so, the identity of the third party will be made known to you. Personal History information is primarily used for customer support, sta-tistical and customer service purposes.
-
-Your Personal Information and Personal History will be kept con-fidential and used to enrich your customer relationship with Sony. For instance, we may inform you of product upgrades, spe-cial offers, updated information and other new Sony products and services we feel may be of interest to you. When you visit our company websites, we want to help you find information quickly and to personalize your visits.
 
  **What do we do with your personal information?  
 **  
