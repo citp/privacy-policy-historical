@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatesfordesign.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209165947id_/http%3A//templatesfordesign.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatesfordesign.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417095215id_/http%3A//templatesfordesign.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
