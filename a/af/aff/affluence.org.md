@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the affluence.org privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430080859id_/http%3A//affluence.org/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affluence.org privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417042426id_/http%3A//affluence.org/privacypolicy.php) for the most accurate reproduction.*
 
-# affluence.org
+# Affluence.org
 
 We built the Affluence website to make it easy to share information with other affluent people around the world. However, we understand you may not want others to have all the information you share on Affluence; that is why we give you control of your information. Our default privacy settings limit the information displayed in your profile to your networks and other reasonable community limitations that we tell you about.
 
