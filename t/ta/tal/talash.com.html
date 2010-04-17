@@ -1,33 +1,36 @@
-<!--The following is the downloaded HTML source of the talash.com privacy policy that was archived on 2009-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616180827id_/http%3A//eshop.talash.com/index.php%3Ffile%3Dst-static%26tpl%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the talash.com privacy policy that was archived on 2010-04-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100417104759id_/http%3A//eshop.talash.com/index.php%3Ffile%3Dst-static%26tpl%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><base href="http://eshop.talash.com/">
 
+<script type="text/javascript" src="javascripts/js/jquery.tools.min.js"></script>
 <script type="text/javascript">
     var GB_ROOT_DIR = "http://eshop.talash.com/javascripts/greybox/";
 </script>
 <script type="text/javascript" src="javascripts/greybox/AJS.js"></script>
 <script type="text/javascript" src="javascripts/greybox/AJS_fx.js"></script>
 <script type="text/javascript" src="javascripts/greybox/gb_scripts.js"></script>
+
+
 <link href="javascripts/greybox/gb_styles.css" rel="stylesheet" type="text/css">
 
-<title>Send Flowers, Cakes, Sweets, Salwar Kameez, Sarees, Gifts to India</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Online Gifts, Send Gifts flowers cakes chocolates sweets indian salwar kameez to your loved ones in India, Send Sweets Salwar Kammez Showpieces to US, Birthday gifts, Anniversary gifts, Wedding gifts, India Gifts, gifting ideas, personalized gifts, Gujarat Gifts, Gifting Sites, Shopping Mall, Global Gifts, Gifts US UK to India, Ahmedabad Gifts, Ahmedabad online shopping, Indian Portals, Ahmedabad, Express Gifts to India, Same day Delievery Gifts, Gifts to Gujarat Ahmedabad Baroda Surat Rajkot Bangalore Madras Hyderabad Mumbai Delhi Calcutta Pune Chennai">
-<meta name="keywords" content="Cake, Cakes, Shape Cakes, Birthday Cake, Wedding Cake, Chocolates, Flowers, Fresh Flowers, Wedding Flowers, Florist, Apparels, Salwar Kameez, Salwar Suit, Choli, Cholies, Short Tops, Long Kurtas, ladies suit, ladies salwar suit, stitch and unstitch salwar kameez, Sweets, Indian Sweets, Gujarati Sweets, Ice creams, Handicrafts Items, Sarees, Bandhni Sarees, mobile phones, Holi Gifts, Kitchen Appliances, Leather Bags, Pendants, Cameras, Kids Watches, Gents watches, Ladies Watches, Titan Watches, Colonge, Perfumes, enamelware, Dinner Sets, Gift Vouchers, Dinner Gifts, Showpieces, Fruits, Cosmetics, Soft Toys, Kids Store, Barbie accessories, Bedlines, Camcorder, Crockery, Gujarat Handicrafts, jewellery, jewelry">
+<title>Send Flowers to India with Express Delivery, Express Gifts India, Send Express Cakes to India</title>
+<meta name="description" content="Talash.com: Send Flowers to India with Express Delivery, Express Gifts to India, Send Express Cakes to India, Same Day Flower Delivery to India, Send Gifts to India in 24 Hours, Send Flowers &amp; Cakes Combo with Express Delivery in India.">
+<meta name="keywords" content="Send Flowers to India with Express Delivery, Express Gifts India, Send Express Cakes India, Same Day Flower Delivery India, Send Gifts to India in 24 Hours, Send Flowers &amp; Cakes Combo Gifts, Flower Delivery Express, Send Express Gifts India, Same Day Gift Delivery, Express Gifts Service India">
 <meta name="robots" content="index,follow">
 <meta name="revisit-after" content="2 days">
-	<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=16411207"></script></head><body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><include filename="lib/includecss.html">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=16411207"></script></head><body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><include filename="lib/includecss.html">
 
 <link href="css/defaultstyle.css" rel="stylesheet" type="text/css">
-<link href="http://eshop.talash.com/css/style2008-topmenu.css" rel="stylesheet" type="text/css">
+<link href="css/express_css.css" rel="stylesheet" type="text/css">
+<link href="http://eshop.talash.com/css/style-08.css" rel="stylesheet" type="text/css">
 
-<table width="990" border="0" cellpadding="0" cellspacing="0" align="center">
+
+<table width="975" border="0" cellpadding="0" cellspacing="0" align="center">
   <tbody><tr> 
-    <td> <!-- Start of Stuffed Tracker 3.0.3 code for http://talash.com -->
+    <td bgcolor="#FFFFFF"> <link href="css/defaultstyle.css" rel="stylesheet" type="text/css">
 <link href="css/menu_08.css" rel="stylesheet" type="text/css">
-<link href="css/style2008-topmenu.css" rel="stylesheet" type="text/css">
-<link href="css/defaultstyle.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" language="JavaScript" src="javascripts/mootools.js"></script>
 <script type="text/javascript" language="JavaScript" src="javascripts/menu.js"></script>
 
@@ -49,7 +52,6 @@ function checksearchdata(){
 		return false;
 	}	
 }
-
 </script>
 
 
@@ -59,12 +61,13 @@ flag=false;
 var cnt=-1;
 var prev='';
 var total_cnt;
+var browser_name;
 function checksearch(formobj)
 {
-	if(formobj.keyword.value == "")
+	if(document.getElementById('keyword').value == "")
 	{
 		alert("Please Enter the Search keyword");
-		formobj.keyword.focus();
+		document.getElementById('keyword').focus();
 		return false;
 	}
 }
@@ -74,12 +77,22 @@ function call(e){
 	var keychar;
 	var numcheck;
 	
+	keyword = document.getElementById('keyword').value;
+	if(keyword.length<=1){
+		if(document.getElementById('keywordupdate').style.display!='none'){
+			document.getElementById('keywordupdate').style.display='none';
+		}
+		return;
+	}
+	
 	if(window.event) // IE
 	  {
+	  	browser_name = 'IE';
 	  keynum = e.keyCode;
 	  }
 	else if(e.which) // Netscape/Firefox/Opera
 	  {
+	  browser_name = 'other';
 	  keynum = e.which;
 	  }
 	  //alert(keynum)
@@ -190,18 +203,17 @@ catch (e)
   
   function select_value(val){
   	document.getElementById('keyword').value=val;
-//	alert(val+":"+document.getElementById('keyword').value)
-	document.getElementById('keywordupdate').style.display="none";
+	if(document.getElementById('keywordupdate').style.display!='none'){
+		document.getElementById('keywordupdate').style.display="none";
+	}
   }
   
 document.onclick=function(e){
-	temp = new Array();
-	value = e.target;
-	temp = (value.id).split('_');
-	if(temp[0]!='td'){
+	
+	if(document.getElementById('keywordupdate').style.display!='none'){
 		document.getElementById('keywordupdate').style.display='none';
 	}
-}
+};
 </script>
 
 
@@ -210,41 +222,53 @@ document.onclick=function(e){
 
 
 <table width="990" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
+<tbody><tr><td>&nbsp;</td></tr>
+  <tr>
     <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
         <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td width="50%" height="30" align="right" nowrap="nowrap">&nbsp;</td>
-            <td width="50%" align="right"><table width="100%" border="0" cellspacing="1" cellpadding="1">
+            <td width="10%" align="left" nowrap="nowrap">&nbsp;</td>
+            <td width="25%" align="left" nowrap="nowrap">&nbsp;</td>
+            <td width="55%" height="30" align="left" valign="top" nowrap="nowrap">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                
                 <tbody><tr>
-                  <td width="10%" align="center" nowrap="nowrap"><a href="http://talash.com" class="top-nav">Home</a></td>
-                  <td width="0%" align="center" nowrap="nowrap">|</td>
-                  <td width="23%" align="center" nowrap="nowrap"><a href="index.php?file=s-specialitemrequest" class="top-nav">Special Item Request</a></td>
-                  <td width="1%" align="center" nowrap="nowrap">|</td>
-                  <td width="15%" align="center" nowrap="nowrap"><!-- BEGIN LivePerson Button Code -->
-                      <a id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/16411207/?cmd=file&amp;file=visitorWantsToChat&amp;site=16411207&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" target="chat16411207" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/16411207/?cmd=file&amp;file=visitorWantsToChat&amp;site=16411207&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat16411207','width=475,height=400,resizable=yes');return false;"><span style="font:normal 11px Verdana, Arial, Helvetica, sans-serif; color:#00709B">Live Chat </span></a>
-                    <!-- END LivePerson Button code --></td>
-                  <td width="1%" align="center" nowrap="nowrap">|</td>
-                  <td width="16%" align="center" nowrap="nowrap"><a href="index.php?file=u-userarea" class="top-nav">My Account</a></td>
-                  <td width="1%" align="center" nowrap="nowrap">|</td>
-                  <td width="17%" align="center" nowrap="nowrap"><a href="index.php?file=u-ordertrack" class="top-nav">Order Tracking</a></td>
-                  <td width="1%" align="center" nowrap="nowrap">|</td>
-                  <td width="15%" align="center" nowrap="nowrap"><span class="top-nav"><a href="index.php?file=c-cart_address&amp;user=direct" class="signin">SignIn</a></span></td>
+                  <td align="right" style="padding-top:10px;"><table width="100%" border="0" cellspacing="1" cellpadding="1">
+                    <tbody><tr>
+                      <td width="6%" align="center" nowrap="nowrap"><a href="http://talash.com" class="top-nav">Home</a></td>
+                      <td width="1%" align="center" nowrap="nowrap">|</td>
+					  <td width="6%" align="center" nowrap="nowrap"><a href="http://www.talash.com/blog" class="top-nav"><b>Blog</b></a></td>
+                      <td width="1%" align="center" nowrap="nowrap">|</td>
+                      <td width="20%" align="center" nowrap="nowrap"><a href="index.php?file=s-specialitemrequest" class="top-nav">Special Item Request</a></td>
+                      <td width="1%" align="center" nowrap="nowrap">|</td>
+                      <td width="13%" align="center" nowrap="nowrap"><a href="index.php?file=u-ordertrack" class="top-nav">Order Tracking</a></td>
+                      <td width="1%" align="center" nowrap="nowrap">|</td>
+                      <td width="13%" align="center" nowrap="nowrap"><a href="index.php?file=u-userarea" class="top-nav">My Account</a></td>
+                      <td width="1%" align="center" nowrap="nowrap">|</td>
+                      <td width="10%" align="center" nowrap="nowrap"><!-- BEGIN LivePerson Button Code -->
+                          <a id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/16411207/?cmd=file&amp;file=visitorWantsToChat&amp;site=16411207&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" target="chat16411207" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/16411207/?cmd=file&amp;file=visitorWantsToChat&amp;site=16411207&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat16411207','width=475,height=400,resizable=yes');return false;"><span style="font:bold 11px Verdana, Arial, Helvetica, sans-serif; color:#00709B">Live Chat </span></a>
+                          <!-- END LivePerson Button code --></td>
+                      <td width="1%" align="center" nowrap="nowrap">|</td>
+                      <td width="10%" align="center" nowrap="nowrap"><span class="top-nav"><a href="index.php?file=c-cart_address&amp;user=direct" class="signin">SignIn</a></span></td>
+					   <td width="1%" align="center" nowrap="nowrap">|</td>
+					  <td width="18%" align="center" nowrap="nowrap"><a href="shop/category/gifts_to_usa" class="top-nav" style="color:#FF3300; margin-right:3px;"><strong>Send Gifts To USA</strong></a></td>
+                    </tr>
+                  </tbody></table></td>
                 </tr>
-            </tbody></table></td>
+              </tbody></table>              
+              <a href="http://talash.com/secure/"></a></td>
+            <td width="19%" align="right" valign="top"><a href="index.php?file=st-static&amp;tpl=contactus">  <img src="gifs/support-centre.gif" alt="Customer Support" width="184" height="33" title="Customer Support" border="0"></a></td>
           </tr>
         </tbody></table></td>
       </tr>
-      <tr>
-        <td height="5" align="left" valign="top"></td>
-      </tr>
+      
       <tr>
         <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td width="13%" align="left" valign="top"><a href="http://eshop.talash.com" title="Gifts to India, Flowers India, Send Gifts to India, Buy Online Gifts"><img src="gifs/newhome-page/images/talash-logo.gif" alt="Gifts to India, Flowers India, Send Gifts to India, Buy Online Gifts" width="130" height="40" border="0"></a></td>
-            <td width="1%" align="left" valign="top">&nbsp;</td>
-            <td width="86%" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <td width="13%" align="left" valign="top"><h1><a href="http://eshop.talash.com" title="Gifts to India, Flowers India, Send Gifts to India, Buy Online Gifts"><img src="gifs/newhome-page/images/talash-logo.gif" alt="Gifts to India, Flowers India, Send Gifts to India, Buy Online Gifts" width="138" height="50" border="0"></a></h1></td>
+            <td width="2" align="left" valign="top">&nbsp;</td>
+            <td width="86%" align="left" valign="bottom"><table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr>
                 <td width="15" align="left" valign="top"><img src="gifs/newhome-page/images/search_round_left.gif" width="15" height="40"></td>
                 <td width="821" align="left" valign="top" style=" background:#146EB4;">
@@ -255,7 +279,7 @@ document.onclick=function(e){
                         <td width="11%" align="center" style="background:url(http://eshop.talash.com/gifs/newhome-page/images/top_btn_repeat.gif); font:bold 12px 'Tahoma'; color:#FFFFFF; ">Search</td>
                         <td width="31%" style="background:url(http://eshop.talash.com/gifs/newhome-page/images/top_btn_repeat.gif)">
 						<select name="pricelisttop" style="height:20px; width:130px;">
-           			<option value="0">Any Range</option>
+           			<option value="0" selected="">Any Range</option>
 
 						<option value="1">Below US $10</option>
 
@@ -266,11 +290,10 @@ document.onclick=function(e){
 						<option value="4">Us $50 to Us $100</option>
 
 						<option value="5">Above Us $100</option>
-                        </select>
-                        </td>
-                        <td width="47%" align="left" style="background:url(http://eshop.talash.com/gifs/newhome-page/images/top_btn_repeat.gif)"><input id="keyword" name="Query" type="text" autocomplete="off" class="input-text" size="50" onkeyup="return call(event)" style="height:20px; padding-top:3px; width:200px; display:block;">
-                        <div id="keywordupdate" style="margin-top:1px; display:none; border:1px solid #999999; background-color:white; z-index:1005; position:absolute; overflow:auto; height:auto; width:250px;" onkeyup="return call(event)" align="left"></div>
-						</td>
+                        </select>                        </td>
+                        <td width="47%" align="left" style="background:url(http://eshop.talash.com/gifs/newhome-page/images/top_btn_repeat.gif)"><input id="keyword" name="Query" value="" type="text" autocomplete="off" class="input-text" size="50" onkeyup="return call(event)" style="padding-top:3px; width:200px; display:block;">
+                      
+                        <div id="keywordupdate" style="margin-top:1px; display:none; border:1px solid #999999; background-color:white; z-index:1005; position:absolute; overflow:auto; height:auto; width:250px;" onkeyup="return call(event)" align="left"></div>						</td>
                         <td width="10%"><input name="image" type="image" class="go-btn" value="Go" src="gifs/newhome-page/images/circle_go.gif" alt="Go" style="width:44px; height:33px; border:none;" onclick="return checksearchdata()"></td>
                         <td width="1%">&nbsp;</td>
                       </tr>
@@ -289,7 +312,7 @@ document.onclick=function(e){
                     <td align="left" valign="top" style="padding-top:7px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
                       <tbody><tr>
                         <td width="10"><img src="gifs/newhome-page/images/search_round_left1.gif" width="10" height="33"></td>
-                        <td width="250" background="http://eshop.talash.com/gifs/newhome-page/images/top_btn_repeat.gif"><div align="center"><a href="index.php?file=s-cartbox" style="color:#FFFFFF;"><img src="gifs/newhome-page/images/cart_icon.gif" alt="" width="26" height="29" border="0" align="absmiddle"> Items (0)&nbsp;Total : $ 0.00</a></div></td>
+                        <td width="260" style="background:url(http://eshop.talash.com/gifs/newhome-page/images/top_btn_repeat.gif) repeat-x;"><div align="center"><a href="index.php?file=s-cartbox" style="color:#FFFFFF;"><img src="gifs/newhome-page/images/cart_icon.gif" alt="" width="26" height="29" border="0" align="absmiddle"> Items (0)&nbsp;Total : $ 0.00</a></div></td>
                         </tr>
                     </tbody></table></td>
                   </tr>
@@ -306,21 +329,22 @@ document.onclick=function(e){
             <td width="8" align="left" valign="top"><img src="gifs/newhome-page/images/nav_left_round.gif" width="8" height="37"></td>
             <td width="975" align="left" valign="top" bgcolor="#146EB4" style="padding-top:9px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr>
-                <td width="99%" align="left" valign="top" class="navlinks">
+                <td width="99%" align="left" valign="middle" class="navlinks">
 		<div id="navlinks">
         <ul>
-          <li><a href="#" title="Gift Shop">Gift Shop</a></li>
-          <li><a href="index.php?file=st-express&amp;tpl=express" title="Express Delivery">Express Delivery</a></li>
-          <li><a href="#" title="Electronics">Electronics</a></li>
-          <li><a href="#" title="Fashion">Fashion</a></li>
-          <li><a href="#" title="Books &amp; CDs">Books &amp; CDs</a></li>
-          <li><a href="#" title="Home Decor">Home Decor</a></li>
-          <li><a href="#" title="Global">Global</a></li>
-          <li><a href="#" title="All Categories">All Categories</a></li>
+          <li><a href="#" title="Gift Shop">Gift Shop<span><img src="gifs/images/arrow-down.gif" width="7" height="6" alt=""></span></a></li>
+          <li><a href="http://eshop.talash.com/shop/express-delivery-flowers-cakes.html" title="Express Delivery">Express Gifts Delivery<span><img src="gifs/images/arrow-down.gif" width="7" height="6" alt=""></span></a></li>
+          <li><a href="#" title="Electronics">Electronics<span><img src="gifs/images/arrow-down.gif" width="7" height="6" alt=""></span></a></li>
+          <li><a href="#" title="Fashion">Fashion<span><img src="gifs/images/arrow-down.gif" width="7" height="6" alt=""></span></a></li>
+          <li><a href="#" title="Books &amp; CDs">Books &amp; CDs<span><img src="gifs/images/arrow-down.gif" width="7" height="6" alt=""></span></a></li>
+          <li><a href="#" title="Home Decor">Home Decor<span><img src="gifs/images/arrow-down.gif" width="7" height="6" alt=""></span></a></li>
+          <li><a href="#" title="Global">Global<span><img src="gifs/images/arrow-down.gif" width="7" height="6" alt=""></span></a></li>
+          <li><a href="#" title="All Categories">All Categories<span><img src="gifs/images/arrow-down.gif" width="7" height="6" alt=""></span></a></li>
+          <li><a href="#" title="Shop by Brands">Shop by Brands<span><img src="gifs/images/arrow-down.gif" width="7" height="6" alt=""></span></a></li>
         </ul>
     </div>
         <div id="gift_shop" class="sn">
-          <div class="snleft"><a href="shop/category/food_&amp;_beverages"><span class="snhdr">Food &amp; Beverages</span></a>
+          <div class="snleft"><a href="shop/category/food_&amp;_beverages" class="snhdr"><span>Food &amp; Beverages</span></a>
     <ul>
       <li><a href="shop/category/food_&amp;_beverages/cakes_&amp;_chocolates" title="Cakes &amp; Chocolates">Cakes &amp; Chocolates</a></li>
       <li><a href="shop/category/indian_sweets" title="Indian Sweets">Indian Sweets</a></li>
@@ -334,6 +358,7 @@ document.onclick=function(e){
       <li><a href="shop/category/personal_care_&amp;_beauty/perfumes" title="Perfumes">Perfumes</a></li>
       <li><a href="shop/category/personal_care_&amp;_beauty/deodorants" title="Deo">Deo</a></li>
 	  <li><a href="shop/category/health_products/" title="Health Products">Health Products</a></li>
+	  <li><a href="shop/category/Organic_Health_&amp;_Wellness_Products" title="Organic Products">Organic Products</a></li>
     </ul>
   <a href="shop/category/health_products" title="Sports &amp; Fitness"><span class="snhdr">Sports &amp; Fitness</span></a>
     <ul>
@@ -344,20 +369,22 @@ document.onclick=function(e){
           <div class="snmidle"><span class="snhdr">Special Gifts</span>
               <ul>
                 <li><a href="shop/category/gift_certificates" title="Gift Certificates">Gift Certificates</a></li>
+				<li><a href="shop/category/gift_certificates/food_vouchers" title="Dinner Vouchers">Dinner Vouchers</a></li>
                 <li><a href="shop/category/personalized_gifts" title="Personalize gift">Personalized gift</a></li>
                 <li><a href="shop/category/combo_gift_hampers" title="Combo Gift">Combo Gift</a></li>
                 <li><a href="shop/category/unique_gifts" title="Unique Gift">Unique Gift</a></li>
               </ul>
-            <a href="shop/category/astrology" title="Astrology"><span class="snhdr">Astrology</span></a>
+            <a href="shop/category/astrology" title="Astrology" class="snhdr"><span>Astrology</span></a>
               <ul>
 			  	<li><a href="shop/category/astrology/good_luck_stones" title="Good Luck Stones">Good Luck Stones</a></li>
                 <li><a href="shop/category/astrology/rudraksha" title="Rudraksha &amp; Pendants">Rudraksha &amp; Pendants</a></li>
+
                 <li><a href="shop/category/astrology/planetary_gems" title="Planetary Gems">Planetary Gems</a></li>
                 <li><a href="shop/category/astrology/yantras" title="Yantras &amp; Mala">Yantras &amp; Mala</a></li>
                 <li><a href="shop/category/astrology/fengshui" title="Fengshui">Fengshui</a></li>
               </ul>
-			   <a href="shop/category/kids_store" title="Kids Store"><span class="snhdr">Kids Store</span></a>
-			  <a href="shop/category/leather_gift_items" title="Leather Products"><span class="snhdr">Leather Products</span></a>          </div>
+			   <a href="shop/category/kids_store" title="Kids Store" class="snhdr"><span>Kids Store</span></a>
+			  <a href="shop/category/leather_gift_items" title="Leather Products" class="snhdr"><span>Leather Products</span></a>          </div>
           <div class="snright"><span class="snhdr">Accessories</span>
               <ul>
                 <li><a href="shop/category/pooja_accessories" title="Pooja">Pooja</a></li>
@@ -373,19 +400,17 @@ document.onclick=function(e){
                 <li><a href="shop/category/congratulation_gifts" title="Congratulation Gifts">Congratulation Gifts</a></li>
                 <li><a href="shop/category/wedding_gifts" title="Wedding Gifts">Wedding Gifts</a></li>
               </ul>
-			   <a href="shop/category/baby_care" title="Baby Care"><span class="snhdr">Baby Care</span></a>
-			   <a href="shop/category/gifts_for_ahmedabad" title="Gifts for Ahmedabad"><span class="snhdr">Gifts for Ahmedabad</span></a></div>
+			   <a href="shop/category/baby_care" title="Baby Care" class="snhdr"><span>Baby Care</span></a>
+			 </div>
           <div class="snbtm">
-            <ul>
-              <li><a href="shop/category/summer_collection" title="Summer Collections">Summer Collections</a></li>
-			  <li><a href="shop/category/fathers_day_gifts" title="Father's Day Gifts">Father's Day Gifts</a></li>
+            <ul><li><a href="shop/category/mothers_day_gifts" title="Mother's Day Gifts">Mother's Day Gifts</a></li>
             </ul>
           </div>
         </div>
       <div id="express" class="sn">
-          <div class="snleft"><span class="snhdr"><a href="index.php?file=st-express&amp;tpl=express" title="Express Categories">Express Categories</a></span>
+          <div class="snleft"><span class="snhdr"><!--<a href="index.php?file=st-express&tpl=express" title="Express Categories">Express Categories</a>--></span>
               <ul>
-                <li><a href="index.php?file=s-productlist_express&amp;pid=90" title="Cakes">Cakes</a></li>
+                <li><a href="index.php?file=s-productlist_express&amp;pid=1454&amp;iCategoryId=1740" title="Cakes">Cakes</a></li>
                 <li><a href="index.php?file=s-productlist_express&amp;pid=408" title="Combo Gifts">Combo Gifts</a></li>
                 <li><a href="index.php?file=s-productlist_express&amp;pid=2&amp;iCategoryId=1093" title="Flower Vase">Flower Vase</a></li>
 				<li><a href="index.php?file=s-productlist_express&amp;pid=2&amp;iCategoryId=632" title="Flower Basket">Flower Basket</a></li>
@@ -394,18 +419,16 @@ document.onclick=function(e){
                 <li><a href="index.php?file=s-productlist_express&amp;pid=2&amp;iCategoryId=791" title="Flowers Every Hour &amp; Day">Flowers Every Hour &amp; Day</a></li>
                 <li><a href="index.php?file=s-productlist_express&amp;pid=408&amp;iCategoryId=427" title="Fresh Fruits">Fresh Fruits</a></li>
                 <li><a href="index.php?file=s-productlist_express&amp;pid=2&amp;iCategoryId=635" title="Midnight Deliveries">Midnight Deliveries</a></li>
-				<li><a href="shop/category/global_flower_shop" title="Global Flower Shop">Global Flower Shop</a></li>
+				<!--<li><a href="shop/category/global_flower_shop" title="Global Flower Shop">Global Flower Shop</a></li>-->
               </ul>
           </div>
         <div class="snbtm">
-            <ul>
-              <li><a href="shop/category/summer_collection" title="Summer Collections">Summer Collections</a></li>
-			  <li><a href="shop/category/fathers_day_gifts" title="Father's Day Gifts">Father's Day Gifts</a></li>
+            <ul><li><a href="shop/category/mothers_day_gifts" title="Mother's Day Gifts">Mother's Day Gifts</a></li>
             </ul>
         </div>
       </div>
       <div id="electronics" class="sn">
-          <div class="snleft"><a href="shop/category/electronics"><span class="snhdr">Electronics</span></a>
+          <div class="snleft"><a href="shop/category/electronics" class="snhdr"><span>Electronics</span></a>
               <ul>
                 <li><a href="shop/category/electronics/camera" title="Camera">Camera</a></li>
                 <li><a href="shop/category/electronics/car_tape_&amp;_accessories" title="Car tape &amp; Accessories">Car tape &amp; Accessories</a></li>
@@ -416,44 +439,40 @@ document.onclick=function(e){
                 <li><a href="shop/category/electronics/home_appliances" title="Home Appliances">Home Appliances</a></li>
                 <li><a href="shop/category/electronics/home_theater_&amp;_music_systems" title="Home Theater &amp; Music Systems">Home Theater &amp; Music Sys.</a></li>
                 <li><a href="shop/category/electronics/ipods" title="Ipods">Ipods</a></li>
-                <li><a href="shop/category/electronics/irons" title="Irons">Irons</a></li>
                 <li><a href="shop/category/electronics/mobile_phones" title="Mobile Phones">Mobile Phones</a></li>
                 <li><a href="shop/category/electronics/phones" title="Phones">Phones</a></li>
-                <li><a href="shop/category/electronics/portable" title="Portable Players">Portable Players</a></li>
+                <li><a href="shop/category/electronics/MP3_Players" title="MP3 Players">MP3 Players</a></li>
                 <li><a href="shop/category/electronics/home_appliances/Televisions" title="Televisions">Televisions</a></li>
                 <li><a href="shop/category/electronics/others" title="Others">Others</a></li>
               </ul>
           </div>
         <div class="snbtm">
-            <ul>
-              <li><a href="shop/category/summer_collection" title="Summer Collections">Summer Collections</a></li>
-			  <li><a href="shop/category/fathers_day_gifts" title="Father's Day Gifts">Father's Day Gifts</a></li>
+            <ul><li><a href="shop/category/mothers_day_gifts" title="Mother's Day Gifts">Mother's Day Gifts</a></li>
             </ul>
         </div>
       </div>
       <div id="fashion" class="sn">
-          <div class="snleft"><a href="shop/category/apparels_&amp;_accessories/mens_wear"><span class="snhdr">Men's Wear</span></a>
+          <div class="snleft"><a href="shop/category/apparels_&amp;_accessories/mens_wear" class="snhdr"><span>Men's Wear</span></a>
               <ul>
                 <li><a href="shop/category/apparels_&amp;_accessories/mens_wear/mens_kurta" title="Mens Kurta">Mens Kurta</a></li>
-                <li><a href="shop/category/apparels_&amp;_accessories/mens_wear/shirts" title="Shirts">Shirts</a></li>
-                <li><a href="shop/category/apparels_&amp;_accessories/mens_wear/sports_wear" title="Sports Wear">Sports Wear</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/mens_wear/shirts" title="Shirts">Shirts</a></li>                
                 <li><a href="shop/category/apparels_&amp;_accessories/mens_wear/t-shirts" title="T-Shirts">T-Shirts</a></li>
               </ul>
-            <a href="shop/category/apparels_&amp;_accessories/Mens_Accessories" title="Men's Accessories"><span class="snhdr">Men's Accessories</span></a>
+            <a href="shop/category/apparels_&amp;_accessories/Mens_Accessories" title="Men's Accessories" class="snhdr"><span>Men's Accessories</span></a>
               <ul>
                 <li><a href="shop/category/apparels_&amp;_accessories/Mens_Accessories/Eye_Wear" title="Eye Wear">Eye Wear</a></li>
                 <li><a href="shop/category/apparels_&amp;_accessories/Mens_Accessories/Leather_Items" title="Leather Items">Leather Items</a></li>
-                <li><a href="shop/category/watches/Gents_Watches" title="Watches">Watches</a></li>
-				<li><a href="shop/category/apparels_&amp;_accessories/Mens_Accessories/jewelry" title="Jewelry">Jewelry</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/Mens_Accessories/jewelry" title="Jewelry">Jewelry</a></li>
               </ul>
-            <a href="shop/category/apparels_&amp;_accessories/Womens_Accessories" title="Womens' Accessories"><span class="snhdr">Womens' Accessories</span></a>
-              <ul>
+			   <a href="shop/category/watches/Gents_Watches" title="Mens Watches" class="snhdr"><span>Men's Watches</span></a>
+			   <a href="shop/category/watches/Ladies_Watches" title="Womens Watches" class="snhdr"><span>Women's Watches</span></a>
+			   <a href="shop/category/apparels_&amp;_accessories/Womens_Accessories" title="Womens' Accessories" class="snhdr"><span>Women's Accessories</span></a>
+               <ul>
                 <li><a href="shop/category/apparels_&amp;_accessories/Womens_Accessories/Purses_&amp;_Handbags" title="Purses &amp; Handbags">Purses &amp; Handbags</a></li>
-                <li><a href="shop/category/watches/Ladies_Watches" title="Watches">Watches</a></li>
                 <li><a href="shop/category/jewelry" title="Jewelry">Jewelry</a></li>
 			  </ul>
           </div>
-        <div class="snright"><a href="shop/category/apparels_&amp;_accessories/womens_wear" title="Women's Wear"><span class="snhdr">Women's Wear</span></a>
+        <div class="snright"><a href="shop/category/apparels_&amp;_accessories/womens_wear" title="Women's Wear" class="snhdr"><span>Women's Wear</span></a>
               <ul>
                 <li><a href="shop/category/apparels_&amp;_accessories/womens_wear/chaniya_cholis" title="Chaniya Cholis">Chaniya Cholis</a></li>
                 <li><a href="shop/category/apparels_&amp;_accessories/womens_wear/churidar_kameez" title="Churidar Kameez">Churidar Kameez</a></li>
@@ -473,46 +492,44 @@ document.onclick=function(e){
               </ul>
         </div>
         <div class="snbtm">
-            <ul>
-              <li><a href="shop/category/summer_collection" title="Summer Collections">Summer Collections</a></li>
-			  <li><a href="shop/category/fathers_day_gifts" title="Father's Day Gifts">Father's Day Gifts</a></li>
+            <ul><li><a href="shop/category/mothers_day_gifts" title="Mother's Day Gifts">Mother's Day Gifts</a></li>
             </ul>
         </div>
       </div>
       <div id="books" class="sn">
           <div class="snleft">
             <ul>
-              <a href="shop/category/books_&amp;_magazines"><span class="snhdr">Books</span></a>
-              <li><a href="shop/category/books_&amp;_magazines/Gujarati" title="Gujarati Books">Gujarati Books</a></li>
-			  <li><a href="shop/category/books_&amp;_magazines/arts-_music-theatre" title="Art - Music - Theatre">Art - Music - Theatre</a></li>
-              <li><a href="shop/category/books_&amp;_magazines/business_books" title="Business Books">Business Books</a></li>
-              <li><a href="shop/category/books_&amp;_magazines/dictionary-encyclopedia" title="Dictionary - Encyclopedia">Dictionary - Encyclopedia</a></li>
-              <li><a href="shop/category/books_&amp;_magazines/historical_books" title="Historical Books">Historical Books</a></li>
-              <li><a href="shop/category/books_&amp;_magazines" title="View More Books...">View More Books...</a></li>
+              <a href="books/" class="snhdr"><span>Books</span></a>
+              <li><a href="books/category/books_&amp;_magazines/Fiction_&amp;_Literature" title="Fiction &amp; Literature">Fiction &amp; Literature</a></li>
+			  <li><a href="books/category/books_&amp;_magazines/Business_&amp;_Management" title="Business &amp; Management">Business &amp; Management</a></li>
+              <li><a href="books/category/books_&amp;_magazines/children_books" title="Children Books">Children Books</a></li>
+
+              <li><a href="books/category/books_&amp;_magazines/Biography_&amp;_Memoirs" title="Biography &amp; Memoirs">Biography &amp; Memoirs</a></li>
+              <li><a href="books/category/books_&amp;_magazines/Health_Mind_&amp;_Body" title="Health Mind &amp; Body">Health Mind &amp; Body</a></li>
+              <li><a href="books/" title="View More Books...">View More Books...</a></li>
             </ul>
           </div>
-        <div class="snright"> <a href="shop/category/cds_&amp;_dvds"><span class="snhdr">CDs</span></a>
+        <div class="snright"> <a href="shop/category/cds_&amp;_dvds" class="snhdr"><span>CDs</span></a>
               <ul>
-                <li><a href="shop/category/cds_&amp;_dvds/audio_cds" title="Audio CDs">Audio CDs</a></li>
+               <li><a href="/shop/category/cds_&amp;_dvds/educational_cds" title="Educational CDs">Educational CDs</a></li>
+			    <li><a href="shop/category/cds_&amp;_dvds/audio_cds" title="Audio CDs">Audio CDs</a></li>
                 <li><a href="shop/category/cds_&amp;_dvds/games_cds_&amp;_dvds" title="Games CDs &amp; DVDs">Games CDs &amp; DVDs</a></li>
                 <li><a href="shop/category/cds_&amp;_dvds/movie_cds_&amp;_dvds" title="Movie CDs &amp; DVDs">Movie CDs &amp; DVDs</a></li>
                 <li><a href="shop/category/cds_&amp;_dvds" title="View more CD's">View more CD's</a></li>
               </ul>
         </div>
         <div class="snbtm">
-            <ul>
-              <li><a href="shop/category/summer_collection" title="Summer Collections">Summer Collections</a></li>
-			  <li><a href="shop/category/fathers_day_gifts" title="Father's Day Gifts">Father's Day Gifts</a></li>
+            <ul><li><a href="shop/category/mothers_day_gifts" title="Mother's Day Gifts">Mother's Day Gifts</a></li>
             </ul>
         </div>
       </div>
       <div id="home_decor" class="sn">
           <div class="snleft">
             <ul>
-              <a href="shop/category/home_decor"><span class="snhdr">Home Decor</span></a>
+              <a href="shop/category/home_decor" class="snhdr"><span>Home Decor</span></a>
               <li><a href="shop/category/home_decor/24_carat_gold_photoframes" title="24 Carat Gold frames">24 Carat Gold Frames</a></li>
               <li><a href="shop/category/home_decor/Comforters_&amp;_Quilts" title="Comforters &amp; Quilts">Comforters &amp; Quilts</a></li>
-              <li><a href="shop/category/home_decor/crockery_&amp;_cookware" title="Crockery &amp; Cookware">Crockery &amp; Cookware</a></li>
+              <li><a href="shop/category/home_decor/Kitchen/Crockery" title="Crockery &amp; Cookware">Crockery</a></li>
               <li><a href="shop/category/home_decor/decoratives" title="Decoratives">Decoratives</a></li>
               <li><a href="shop/category/home_decor/handicrafts" title="Handicrafts">Handicrafts</a></li>
               <li><a href="shop/category/home_decor/house_hold_items" title="House hold Items">House hold Items</a></li>
@@ -522,54 +539,54 @@ document.onclick=function(e){
             </ul>
           </div>
         <div class="snbtm">
-            <ul>
-              <li><a href="shop/category/summer_collection" title="Summer Collections">Summer Collections</a></li>
-			  <li><a href="shop/category/fathers_day_gifts" title="Father's Day Gifts">Father's Day Gifts</a></li>
+            <ul><li><a href="shop/category/mothers_day_gifts" title="Mother's Day Gifts">Mother's Day Gifts</a></li>
             </ul>
         </div>
       </div>
-      <div id="global" class="sn">
-          <div class="snleft"><a href="shop/category/global_gifts"><span class="snhdr">Worldwide</span></a>
+      <div id="global-1" class="sn">
+          <div class="snleft"><span class="snhdr1">Worldwide</span>
+            <a href="shop/category/apparels_&amp;_accessories/womens_wear" title="Women's Apparels"><span class="snhdr">Women's Apparels</span></a>
               <ul>
-                <li><a href="shop/category/apparels_&amp;_accessories" title="Apparels &amp; Accessories">Apparels &amp; Accessories</a></li>
-                <li><a href="shop/category/global_gifts/jewelry" title="Jewelery">Jewelery</a></li>
-                <li><a href="shop/category/home_decor/handicrafts" title="Handicrafts">Handicrafts</a></li>
-                <li><a href="shop/category/global_gifts/sweets_to_USA" title="Sweets (For USA Only)">Sweets (For USA Only)</a></li>
-              </ul>
-            <a href="shop/category/apparels_&amp;_accessories" title="Apparels"><span class="snhdr">Apparels</span></a>
-              <ul>
-                <li><a href="shop/category/apparels_&amp;_accessories/Mens_Wear" title="Men's Apparels">Men's Apparels</a></li>
-                <li><a href="shop/category/apparels_&amp;_accessories/womens_wear" title="Women's Apparels">Women's Apparels</a></li>
-                <li><a href="shop/category/apparels_&amp;_accessories/kids_wear" title="Kid's Apparels">Kid's Apparels</a></li>
-              </ul>
-              <span class="snhdr">Handicrafts</span>
-              <ul>
-                <li><a href="shop/category/global_gifts/brass_&amp;_metal_items" title="Brass &amp; Metal items">Brass &amp; Metal items</a></li>
-                <li><a href="shop/category/global_gifts/door_garlands" title="Door Garlands">Door Garlands</a></li>
-                <li><a href="shop/category/global_gifts/wall_hangings" title="Wall Hangings">Wall Hangings</a></li>
-               </ul>
-          </div>
-        <div class="snright"><a href="shop/category/apparels_&amp;_accessories" title="Apparels &amp; Accessories"><span class="snhdr">Apparels &amp; Accessories</span></a>
-              <ul>
-                <li><a href="shop/category/apparels_&amp;_accessories/mens_wear/mens_kurta" title="Mens kurta">Mens Kurta</a></li>
-                <li><a href="shop/category/apparels_&amp;_accessories/mens_wear/t-shirts" title="Mens T-Shirts">Mens T-Shirts</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/womens_wear/chaniya_cholis" title="Chaniya Cholis">Chaniya Cholis</a></li>
                 <li><a href="shop/category/apparels_&amp;_accessories/womens_wear/sarees" title="Sarees">Sarees</a></li>
-                <li><a href="shop/category/apparels_&amp;_accessories/womens_wear/salwar_kameez" title="Salwar Kameez">Salwar Kameez</a></li>
-                <li><a href="shop/category/apparels_&amp;_accessories/kids_wear" title="Kids T-shirts">Kids T-shirts</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/womens_wear/churidar_kameez" title="Churidar Kameez">Churidar Kameez</a></li>
+				<li><a href="shop/category/apparels_&amp;_accessories/womens_wear/salwar_kameez" title="Salwar Kameez">Salwar Kameez</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/womens_wear/dress_materials" title="Dress Materials">Dress Materials</a></li>
+				<li><a href="shop/category/apparels_&amp;_accessories/womens_wear/kurtis" title="Kurtis">Kurtis</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/womens_wear/short_tops" title="Short Tops">Short Tops</a></li>
+				<li><a href="shop/category/apparels_&amp;_accessories/womens_wear/t-shirts" title="T-Shirts">T-Shirts</a></li>
+                <li><a href="shop/category/Apparels_&amp;_Accessories/womens_wear/Winter_Wear" title="Winter Wear">Winter Wear</a></li>
               </ul>
-          <a href="shop/category/global_gifts/jewelry" title="Jewelry"><span class="snhdr">Jewelry</span></a>
+			  <a href="shop/category/global_gifts/Handicrafts" title="Handicrafts"><span class="snhdr">Handicrafts</span></a>
+		<a href="shop/category/global_gifts/jewelry/" title="Jewelery"><span class="snhdr">Jewelery</span></a>
+		<a href="http://eshop.talash.com/shop/category/global_gifts" title="Global Gifts"><span class="snhdr1">Global Gifts</span></a>
+		</div>
+        <div class="snright">
+		<a href="shop/category/global_flower_shop" title="Global Flower Shop" class="snhdr"><span>Global Flower Shop</span></a>
+		  <a href="shop/category/apparels_&amp;_accessories/mens_wear" title="Men's Apparels" class="snhdr"><span>Men's Apparels</span></a>
               <ul>
-                <li><a href="shop/category/global_gifts/jewelry/paging/0" title="Womens Jewelry">Womens Jewelry</a></li>
+                <li><a href="shop/category/Apparels_&amp;_Accessories/Mens_Wear/Mens_Denim" title="Denim">Denim</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/mens_wear/mens_kurta" title="Kurtas">Kurtas</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/mens_wear/shirts" title="Shirts">Shirts</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/mens_wear/t-shirts" title="T-Shirts">T-Shirts</a></li>
+				<li><a href="shop/category/apparels_&amp;_accessories/mens_wear/trousers" title="Trousers">Trousers</a></li>
+				<li><a href="shop/category/apparels_&amp;_accessories/mens_wear/winter_wear" title="Winter Wear">Winter Wear</a></li>
               </ul>
-			  <a href="shop/category/global_flower_shop" title="Global Flower Shop"><span class="snhdr">Global Flower Shop</span></a>        </div>
+		<a href="shop/category/gifts_to_usa" title="Gifts to USA"><span class="snhdr1">Gifts to USA</span></a>
+              <ul>
+                <li><a href="shop/category/Gifts_to_USA/Gift_Cards_for_USA" title="Gift Cards">Gift Cards</a></li>
+                <li><a href="shop/category/Gifts_to_USA/cakes_to_USA" title="Cakes">Cakes</a></li>
+                <li><a href="shop/category/Gifts_to_USA/chocolates_and_cookies_to_USA" title="Chocolates &amp; Cookies">Chocolates &amp; Cookies</a></li>
+                <li><a href="shop/category/Gifts_to_USA/sweets_to_USA" title="Sweets">Sweets</a></li>
+                <li><a href="shop/category/Gifts_to_USA/CDs_&amp;_DVDs" title="Cds &amp; Dvds">Cds &amp; Dvds</a></li>
+              </ul> 
+			    <a href="shop/category/cakes_to_uk" title="Gifts to UK"><span class="snhdr1">Gifts to UK</span></a>    
+		        </div>
         <div class="snbtm">
-            <ul>
-              <li><a href="shop/category/summer_collection" title="Summer Collections">Summer Collections</a></li>
-			  <li><a href="shop/category/fathers_day_gifts" title="Father's Day Gifts">Father's Day Gifts</a></li>
+            <ul><li><a href="shop/category/mothers_day_gifts" title="Mother's Day Gifts">Mother's Day Gifts</a></li>
             </ul>
         </div>
       </div>
-      
 		<div id="All" class="sn">
           <div class="snleft">
   	   		<span class="snhdr">All</span>
@@ -578,7 +595,7 @@ document.onclick=function(e){
                 <li><a href="shop/category/baby_care" title="Baby Care">Baby Care</a></li>
                 <li><a href="shop/category/books_&amp;_magazines" title="Books &amp; Magazines">Books &amp; Magazines</a></li>
                 <li><a href="shop/category/cds_&amp;_dvds" title="CDs &amp; DVDs">CDs &amp; DVDs</a></li>
-				<li><a href="shop/category/cakes_&amp;_chocolates/chocolates" title="Delicious Chocolates">Delicious Chocolates</a></li>
+				<li><a href="shop/category/food_&amp;_beverages/cakes_&amp;_chocolates/chocolates/branded_chocolates" title="Branded Chocolates">Branded Chocolates</a></li>
 				<li><a href="shop/category/electronics" title="Electronics">Electronics</a></li>
 				<li><a href="shop/category/combo_gifts" title="Combo Gifts">Combo Gifts</a></li>
 				<li><a href="shop/category/fresh_flowers" title="Fresh Flowers">Fresh Flowers</a></li>
@@ -598,12 +615,130 @@ document.onclick=function(e){
 			<li><a href="shop/category/personal_care_&amp;_beauty" title="Personal Care &amp; Beauty">Personal Care &amp; Beauty</a></li>
 			<li><a href="shop/category/personalized_gifts" title="Personalized Gifts">Personalized Gifts</a></li>
 			<li><a href="shop/category/unique_gifts" title="Unique Gifts">Unique Gifts</a></li>
+			<li><a href="shop/category/jewelry" title="Jewelery">Jewelery</a></li>
           </ul>
         </div>
         <div class="snbtm">
-            <ul>
-             <li><a href="shop/category/summer_collection" title="Summer Collections">Summer Collections</a></li>
-			 <li><a href="shop/category/fathers_day_gifts" title="Father's Day Gifts">Father's Day Gifts</a></li>
+            <ul><li><a href="shop/category/mothers_day_gifts" title="Mother's Day Gifts">Mother's Day Gifts</a></li>
+            </ul>
+        </div>
+      </div>
+	  <div id="brand-shop" class="sn">
+          <div class="snleft">
+  	   		<span class="snhdr">Watches</span>
+              <ul> 
+			    <li><a href="shop/brand/Casio/Watches/258" title="Casio">Casio</a></li>
+			    <li><a href="shop/brand/Fastrack/Watches/374" title="Fastrack">Fastrack</a></li>
+                <li><a href="shop/brand/Golana_Swiss/watches/369" title="Golana Swiss">Golana Swiss</a></li>
+                <li><a href="shop/brand/Swatch/watches/417" title="Swatch">Swatch</a></li>
+                <li><a href="shop/brand/Timex/watches/99" title="Timex">Timex</a></li>
+                <li><a href="shop/brand/Titan/Watches/2" title="Titan">Titan</a></li>
+				<li><a href="shop/brand/Tommy_Hilfiger/410" title="Tommy Hilfiger">Tommy Hilfiger</a></li>
+			</ul>
+			<span class="snhdr">Mobiles</span>
+              <ul>
+			  	<!--<li><a href="shop/brand/Sony/Mobile_Phones/85" title="Sony Ericsson">Sony Ericsson</a></li>-->
+                <li><a href="shop/brand/Blackberry/Mobile_Phones/270" title="Blackberry">Blackberry</a></li>
+                <li><a href="shop/brand/Fly/Mobile_Phones/428" title="Fly">Fly</a></li>
+                <li><a href="shop/brand/LG/Mobile_Phones/262" title="LG">LG</a></li>
+                <li><a href="shop/brand/Motorola/Mobile_Phones/23" title="Motorola">Motorola</a></li>
+                <li><a href="shop/brand/Nokia/Mobile_Phones/15" title="Nokia">Nokia</a></li>
+				<li><a href="shop/brand/Samsung/Mobile Phones/24" title="Samsung">Samsung</a></li>
+			</ul>
+			<span class="snhdr">Washing Machine</span>
+              <ul>
+				<li><a href="shop/brand/whirlpool/1265197437" title="Whirlpool">Whirlpool</a></li>
+                <li><a href="shop/brand/Kenstar/Washing_Machines/48" title="Kenstar">Kenstar</a></li>
+                <li><a href="shop/brand/IFB/Washing_Machines/231" title="IFB">IFB</a></li>
+                <li><a href="shop/brand/Electrolux/Washing_Machines/249" title="Electrolux">Electrolux</a></li>
+                <li><a href="shop/brand/Kelvinator/Washing_Machines/326" title="Kelvinator">Kelvinator</a></li>
+				<li><a href="shop/brand/Videocon/Washing_Machines/349" title="Videocon">Videocon</a></li>
+			</ul>
+			 <span class="snhdr">Books &amp; CD's</span>
+          <ul>
+		  	<li><a href="shop/brand/iken_store/1269578119" title="Iken">Iken</a></li>
+		    <li><a href="books/Publisher/Harper_Collins_India" title="Harper Collins India">Harper Collins India</a></li>
+			<li><a href="books/Publisher/wiley_india " title="Wiley India">Wiley India</a></li>
+				<li><a href="books/Publisher/penguin_books_india" title="Penguin India">Penguin India</a></li>
+          </ul>
+			</div>
+		  <!-- Middle content-->
+		   <div class="snmidle">
+		   <span class="snhdr">Air Conditioners</span>
+              <ul>
+                <li><a href="shop/brand/Kenstar/Air_Conditioners/48" title="Kenstar">Kenstar</a></li>
+                <li><a href="shop/brand/Electrolux/Air_Conditioners/249" title="Electrolux">Electrolux</a></li>
+                <li><a href="shop/brand/Videocon/Air_Conditioners/349" title="Videocon">Videocon</a></li>
+
+			</ul>
+		   <span class="snhdr">Refrigerators</span>
+              <ul>
+                <li><a href="shop/brand/Electrolux/Refrigerators/249" title="Electrolux">Electrolux</a></li>
+                <li><a href="shop/brand/Kelvinator/Refrigerators/326" title="Kelvinator">Kelvinator</a></li>
+                <li><a href="shop/brand/Videocon/Refrigerators/349" title="Combo Gift">Videocon </a></li>
+              </ul>
+
+            <span class="snhdr">Televisions</span>
+              <ul>
+			  	<li><a href="shop/brand/Videocon/Televisions/349" title="Videocon">Videocon</a></li>
+                <li><a href="shop/brand/Sansui/Televisions/385" title="Sansui">Sansui</a></li>
+              </ul>
+			   <span class="snhdr">Camera</span>
+			   <ul>
+			  	<li><a href="shop/brand/Canon/Camera/35" title="Canon">Canon</a></li>
+				<li><a href="shop/brand/Kodak/36" title="Kodak">Kodak</a></li>
+				<!--<li><a href="shop/brand/Sony/85" title="Sony">Sony</a></li>-->
+				<li><a href="shop/brand/Panasonic/228" title="Panasonic">Panasonic</a></li>
+				<li><a href="shop/brand/Olympus/Camera/243" title="Olympus">Olympus</a></li>
+				<li><a href="shop/brand/Nikon/15" title="Nikon">Nikon</a></li>
+	           </ul>
+			   <span class="snhdr">Apparels</span>
+			   <ul>
+			  	<li><a href="shop/brand/Spykar/Apparels_&amp;_Accessories/311" title="Spykar">Spykar</a></li>
+				<li><a href="shop/brand/Wills_Lifestyle/Apparels_&amp;_Accessories/3436" title="Wills Life Style">Wills Life Style</a></li>
+				<li><a href="shop/brand/John_Players/Apparels_&amp;_Accessories/9909" title="John Players">John Players</a></li>
+				<li><a href="shop/brand/utsav_sarees" title="Utsav Sarees">Utsav Sarees</a></li>
+				<li><a href="shop/brand/sareeswarg" title="Sareeswarg">Sareeswarg</a></li>
+	           </ul>
+			 </div>
+			  <!-- right content-->
+        <div class="snright">
+		<span class="snhdr">Gift Vouchers</span>
+          <ul>
+		  	<li><a href="shop/brand/Dominos_Pizza/145" title="Dominos Pizza">Dominos Pizza</a></li>
+		  	<li><a href="shop/brand/Shoppers_Stop/148" title="Shoppers Stop">Shoppers Stop</a></li>
+		  	<li><a href="shop/brand/Raymonds/7" title="Raymonds">Raymonds</a></li>
+		  	<li><a href="shop/brand/Crossword/gift_vouchers/149" title="Crossword">Crossword</a></li>
+		  	<li><a href="shop/brand/Pantaloons/158" title="Pantaloons">Pantaloons</a></li>
+		  	<li><a href="shop/brand/Westside/212" title="Westside">Westside</a></li>
+		  	<!--<li><a href="shop/brand/Asmi/359" title="Asmi">Asmi</a></li>-->
+		    <li><a href="shop/brand/LifeStyle/366" title="LifeStyle">LifeStyle</a></li>
+			<li><a href="shop/brand/Sodexho_Gift_Vouchers/379" title="Sodexho Gift Vouchers">Sodexho Gift Vouchers</a></li>
+			<li><a href="shop/brand/Thyrocare_Technologies_Limited/415" title="Thyrocare Technologies Limited">Thyrocare Limited</a></li>
+			<li><a href="shop/brand/Baskin_Robbins/418" title="Baskin Robbins">Baskin Robbins</a></li>
+          </ul>
+		 <span class="snhdr">Jewelery</span>
+          <ul>
+
+		  	<li><a href="shop/brand/Ddamas/jewelry/219" title="D'damas">D'damas</a></li>
+		    <li><a href="shop/brand/AG_Diamond_Jewellery/jewelry/390" title="AG Diamond Jewellery">AG Diamond Jewellery</a></li>
+			<li><a href="shop/brand/Sparkles/jewelry/421" title="Sparkles">Sparkles</a></li>
+			<!--<li><a href="shop/brand/Asmi/jewelry/359" title="Asmi">Asmi</a></li>-->
+			<!--<li><a href="shop/brand/Nakshatra/jewelry/365" title="Nakshatra">Nakshatra</a></li>-->
+			<li><a href="shop/brand/Bling_Diamond_Accesories/jewelry/387" title="Bling Diamond Accesories">Bling Diamond Accesories</a></li>
+			<li><a href="shop/brand/Avsar_Diamond_Jewelry/jewelry/388" title="Avsar Diamond Jewelry">Avsar Diamond Jewelry</a></li>
+			<li><a href="shop/brand/Unique_Solitaire_Studio/jewelry/389" title="Unique Solitaire Studio">Unique Solitaire Studio</a></li>
+          </ul>
+		   <span class="snhdr">Office</span>
+          <ul>
+		  	<li><a href="shop/brand/Waterman/45" title="Waterman">Waterman</a></li>
+		    <li><a href="shop/brand/Parker/44" title="Parker">Parker</a></li>
+			<li><a href="shop/brand/Pilot/46" title="Pilot">Pilot</a></li>
+          </ul>
+		 
+        </div>
+        <div class="snbtm">
+            <ul><li><a href="shop/category/mothers_day_gifts" title="Mother's Day Gifts">Mother's Day Gifts</a></li>
             </ul>
         </div>
       </div>
@@ -630,7 +765,7 @@ document.getElementById('keyword').focus();
  </td>
   </tr>
   <tr> 
-    <td width="990" height="335" valign="top"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <td width="780" height="335" valign="top" bgcolor="#FFFFFF"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
           <td valign="top"><br>
 <table width="90%" border="0" align="center">
@@ -683,8 +818,131 @@ document.getElementById('keyword').focus();
     </td>
   </tr>
 <tr> 
-    <td colspan="3" class="topline" height="4" align="left"> <table width="990" border="0" align="left" cellpadding="0" cellspacing="0">
-  <tbody><tr>
+    <td colspan="3" class="topline" height="4" align="left" bgcolor="#FFFFFF"> 
+<script src="javascripts/tooltip.js" language="javascript" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
+function showtooltip(imgname,id){
+
+	var path="http://evyapar.com/eshop/admin/administrator/images/brandimg/"+imgname;
+	messages[id] = new Array('','');
+	doTooltip1(path,id);
+}
+function showtooltiplist(imgname,id){
+
+	var path="http://evyapar.com/eshop/"+imgname;
+	messages[id] = new Array('','');
+	doTooltip1(path,id);
+}
+</script>
+<link rel="stylesheet" type="text/css" href="css/imgtooltip/tooltip.css">
+
+
+<table border="0" width="990">
+</table>
+<table border="0" style="border: solid 1px #ADB9C2;" width="990" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td align="center" bgcolor="#f4f4f4" valign="middle" class="footer_main_title" style="font-size:13px">Popular Brand</td>
+</tr><tr><td><table border="0" style="border-bottom: solid 1px #ADB9C2; border-right: solid 1px #ADB9C2; border-left: solid 1px #ADB9C2;" width="990">
+<tbody><tr>
+<td>
+       	  			  <a href="shop/brand/Titan/1271501271" class="weight1 brand hintanchor" title="Titan" onmouseover="showtooltip('titan-logo[1].jpg',2)" onmouseout="hideToolTip()">Titan</a>
+	  
+	  	  				        	  			  <a href="shop/brand/Nokia/1271501271" class="weight1 brand hintanchor" title="Nokia" onmouseover="showtooltip('nokia-logo-1.jpg',15)" onmouseout="hideToolTip()">Nokia</a>
+	  
+	  	  				        							<a href="shop/brand/Motorola/1271501271" class="weight4 hintanchor" title="Motorola" style="font-size:11px;" onmouseover="showtooltip('motorola-logo(1).jpg',23)" onmouseout="hideToolTip()">Motorola</a>
+		  	        							<a href="shop/brand/Samsung/1271501271" class="weight4 hintanchor" title="Samsung" style="font-size:11px;" onmouseover="showtooltip('samsung.jpg',24)" onmouseout="hideToolTip()">Samsung</a>
+		  	        	  			  <a href="shop/brand/Softel/1271501271" class="weight1 brand hintanchor" title="Softel" onmouseover="showtooltip('Softel.jpg',36)" onmouseout="hideToolTip()">Softel</a>
+	  
+	  	  				        	  			  <a href="shop/brand/Fisher-Price/1271501271" class="weight1 brand hintanchor" title="Fisher-Price" onmouseover="showtooltip('Fp.jpg',46)" onmouseout="hideToolTip()">Fisher-Price</a>
+	  
+	  	  				        	  			  <a href="shop/brand/Kenstar/1271501271" class="weight1 brand hintanchor" title="Kenstar" onmouseover="showtooltip('logo_kenstar-1.jpg',48)" onmouseout="hideToolTip()">Kenstar</a>
+	  
+	  	  				        	  			  <a href="shop/brand/Aaneri/1271501271" class="weight1 brand hintanchor" title="Aaneri" onmouseover="showtooltip('aaneri.jpg',54)" onmouseout="hideToolTip()">Aaneri</a>
+	  
+	  	  				        							<a href="shop/brand/Archies/1271501271" class="weight4 hintanchor" title="Archies" style="font-size:11px;" onmouseover="showtooltip('Archies.jpg',237)" onmouseout="hideToolTip()">Archies</a>
+		  	        	  			  <a href="shop/brand/Ferns_N_Petals/1271501271" class="weight1 brand hintanchor" title="Ferns N Petals" onmouseover="showtooltip('Fnp.jpg',144)" onmouseout="hideToolTip()">Ferns N Petals</a>
+	  
+	  	  				        	  			  <a href="shop/brand/Mitashi/1271501271" class="weight1 brand hintanchor" title="Mitashi" onmouseover="showtooltip('Mitashi.jpg',166)" onmouseout="hideToolTip()">Mitashi</a>
+	  
+	  	  				        	  			  <a href="shop/brand/Citizen/1271501271" class="weight1 brand hintanchor" title="Citizen" onmouseover="showtooltip('Citizen.jpg',187)" onmouseout="hideToolTip()">Citizen</a>
+	  
+	  	  				        						<a href="shop/brand/Surat_Diamond/1271501271" class="weight3 hintanchor" title="Surat Diamond" onmouseover="showtooltip('Sd.jpg',190)" onmouseout="hideToolTip()">Surat Diamond</a>
+			
+	  		        	  			  <a href="shop/brand/Victorinox/1271501271" class="weight1 brand hintanchor" title="Victorinox" onmouseover="showtooltip('Victorinox.jpg',272)" onmouseout="hideToolTip()">Victorinox</a>
+	  
+	  	  				        	  			  <a href="shop/brand/Whirlpool/1271501271" class="weight1 brand hintanchor" title="Whirlpool" onmouseover="showtooltip('WHIRLPOOL_LOGO.jpg',193)" onmouseout="hideToolTip()">Whirlpool</a>
+	  
+	  	  				        							<a href="shop/brand/Apple/1271501271" class="weight4 hintanchor" title="Apple" style="font-size:11px;" onmouseover="showtooltip('Apple.jpg',195)" onmouseout="hideToolTip()">Apple</a>
+		  	        						<a href="shop/brand/Ddamas/1271501271" class="weight3 hintanchor" title="Ddamas" onmouseover="showtooltip('Ddamas.jpg',219)" onmouseout="hideToolTip()">Ddamas</a>
+			
+	  		        	  			  <a href="shop/brand/Wills_Lifestyle/1271501271" class="weight1 brand hintanchor" title="Wills Lifestyle" onmouseover="showtooltip('Wills.jpg',223)" onmouseout="hideToolTip()">Wills Lifestyle</a>
+	  
+	  	  				        	  			  <a href="shop/brand/John_Players/1271501271" class="weight1 brand hintanchor" title="John Players" onmouseover="showtooltip('John.jpg',224)" onmouseout="hideToolTip()">John Players</a>
+	  
+	  	  				        						<a href="shop/brand/Panasonic/1271501271" class="weight3 hintanchor" title="Panasonic" onmouseover="showtooltip('Panasonic.jpg',228)" onmouseout="hideToolTip()">Panasonic</a>
+			
+	  		        	  			  <a href="shop/brand/Monginis/1271501271" class="weight1 brand hintanchor" title="Monginis" onmouseover="showtooltip('Monginis.jpg',229)" onmouseout="hideToolTip()">Monginis</a>
+	  
+	  	  				        	  			  <a href="shop/brand/Glen/1271501271" class="weight1 brand hintanchor" title="Glen" onmouseover="showtooltip('Glen.jpg',251)" onmouseout="hideToolTip()">Glen</a>
+	  
+	  	  				        	  		   <a href="shop/brand/Boss/1271501271" class="weight1 hintanchor" title="Boss">Boss</a>
+	  	  				        	  			  <a href="shop/brand/Tissot/1271501271" class="weight1 brand hintanchor" title="Tissot" onmouseover="showtooltip('Tssot.jpg',247)" onmouseout="hideToolTip()">Tissot</a>
+	  
+	  	  				        						<a href="shop/brand/Electrolux/1271501271" class="weight3 hintanchor" title="Electrolux" onmouseover="showtooltip('Electrolux.jpg',249)" onmouseout="hideToolTip()">Electrolux</a>
+			
+	  		        	  			  <a href="shop/brand/Peora/1271501271" class="weight1 brand hintanchor" title="Peora" onmouseover="showtooltip('Peora.jpg',253)" onmouseout="hideToolTip()">Peora</a>
+	  
+	  	  				        	  			  <a href="shop/brand/Utsav_Sarees/1271501271" class="weight1 brand hintanchor" title="Utsav Sarees" onmouseover="showtooltip('Utsav.jpg',260)" onmouseout="hideToolTip()">Utsav Sarees</a>
+	  
+	  	  				        						<a href="shop/brand/LG/1271501271" class="weight3 hintanchor" title="LG" onmouseover="showtooltip('Lg.jpg',262)" onmouseout="hideToolTip()">LG</a>
+			
+	  		        	  			  <a href="shop/brand/Giorgio_Armani/1271501271" class="weight1 brand hintanchor" title="Giorgio Armani" onmouseover="showtooltip('Armani.jpg',277)" onmouseout="hideToolTip()">Giorgio Armani</a>
+	  
+	  	  				        	  		   <a href="shop/brand/Karbonn/1271501271" class="weight1 hintanchor" title="Karbonn">Karbonn</a>
+	  	  				        	  			  <a href="shop/brand/Swarovski/1271501271" class="weight1 brand hintanchor" title="Swarovski" onmouseover="showtooltip('Swarovski.jpg',289)" onmouseout="hideToolTip()">Swarovski</a>
+	  
+	  	  				        	  			  <a href="shop/brand/Matrix/1271501271" class="weight1 brand hintanchor" title="Matrix" onmouseover="showtooltip('Matrix.jpg',297)" onmouseout="hideToolTip()">Matrix</a>
+	  
+	  	  				        	  		   <a href="shop/brand/Esprit/1271501271" class="weight1 hintanchor" title="Esprit">Esprit</a>
+	  	  				        	  		   <a href="shop/brand/Burberry/1271501271" class="weight1 hintanchor" title="Burberry">Burberry</a>
+	  	  				        	  			  <a href="shop/brand/Prestige/1271501271" class="weight1 brand hintanchor" title="Prestige" onmouseover="showtooltip('Prestige.jpg',325)" onmouseout="hideToolTip()">Prestige</a>
+	  
+	  	  				        						<a href="shop/brand/Kelvinator/1271501271" class="weight3 hintanchor" title="Kelvinator" onmouseover="showtooltip('Kelvinator.jpg',326)" onmouseout="hideToolTip()">Kelvinator</a>
+			
+	  		        							<a href="shop/brand/Nikon/1271501271" class="weight4 hintanchor" title="Nikon" style="font-size:11px;">Nikon</a>
+	  	  	        	  			  <a href="shop/brand/Videocon/1271501271" class="weight1 brand hintanchor" title="Videocon" onmouseover="showtooltip('Videocon.jpg',349)" onmouseout="hideToolTip()">Videocon</a>
+	  
+	  	  				        	  			  <a href="shop/brand/Waterman/1271501271" class="weight1 brand hintanchor" title="Waterman" onmouseover="showtooltip('waterman.jpg',350)" onmouseout="hideToolTip()">Waterman</a>
+	  
+	  	  				        	  			  <a href="shop/brand/Goblin/1271501271" class="weight1 brand hintanchor" title="Goblin" onmouseover="showtooltip('Goblin.jpg',356)" onmouseout="hideToolTip()">Goblin</a>
+	  
+	  	  				        	  			  <a href="shop/brand/Fastrack/1271501271" class="weight1 brand hintanchor" title="Fastrack" onmouseover="showtooltip('Fastrack.jpg',374)" onmouseout="hideToolTip()">Fastrack</a>
+	  
+	  	  				        	  			  <a href="shop/brand/Kodak/1271501271" class="weight1 brand hintanchor" title="Kodak" onmouseover="showtooltip('Kodak.jpg',383)" onmouseout="hideToolTip()">Kodak</a>
+	  
+	  	  				        	  			  <a href="shop/brand/Sansui/1271501271" class="weight1 brand hintanchor" title="Sansui" onmouseover="showtooltip('sansui.jpg',385)" onmouseout="hideToolTip()">Sansui</a>
+	  
+	  	  				        	  			  <a href="shop/brand/HTC/1271501271" class="weight1 brand hintanchor" title="HTC" onmouseover="showtooltip('Htc.jpg',394)" onmouseout="hideToolTip()">HTC</a>
+	  
+	  	  				        	  			  <a href="shop/brand/Iken_Store/1271501271" class="weight1 brand hintanchor" title="Iken Store" onmouseover="showtooltip('iken.jpg',395)" onmouseout="hideToolTip()">Iken Store</a>
+	  
+	  	  				        	  			  <a href="shop/brand/Swatch/1271501271" class="weight1 brand hintanchor" title="Swatch" onmouseover="showtooltip('Swatch.jpg',417)" onmouseout="hideToolTip()">Swatch</a>
+	  
+	  	  				        	  			  <a href="shop/brand/Fly/1271501271" class="weight1 brand hintanchor" title="Fly" onmouseover="showtooltip('Fly.jpg',428)" onmouseout="hideToolTip()">Fly</a>
+	  
+	  	  				        	  			  <a href="shop/brand/Orosilber/1271501271" class="weight1 brand hintanchor" title="Orosilber" onmouseover="showtooltip('Oro.jpg',431)" onmouseout="hideToolTip()">Orosilber</a>
+	  
+	  	  				        	  		   <a href="shop/brand/Sun_Baby/1271501271" class="weight1 hintanchor" title="Sun Baby">Sun Baby</a>
+	  	  				  </td>
+</tr>	
+</tbody></table>				
+</td>
+</tr>
+</tbody></table>
+<table width="990" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+	<tbody><tr><td height="15px"></td></tr>
+  <tr>
     <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
         <td class="footer_main_title">Payment Options : Credit Card / Net Banking / ATM-CUM-DEBIT Card / Mobile Payment / ITZ CASH Cards </td>
@@ -700,22 +958,22 @@ document.getElementById('keyword').focus();
             <td align="left" valign="top">ICICI Bank | HDFC Bank | IDBI Bank | State Bank of India | Axis Bank |  Citi Bank |&nbsp; Centurian Bank | Kotak Mahindra Bank | Federal Bank | Bank  of Punjab | Oriental Bank of Commerce |&nbsp; Union Bank of India</td>
           </tr>
           <tr>
-            <td align="left" valign="top" class="footer_title">&nbsp;</td>
-            <td align="left" valign="top"><table width="100%" align="left" border="0" cellpadding="0" cellspacing="0">
+            <td colspan="2" align="left" valign="top" class="footer_title"><table width="100%" align="left" border="0" cellpadding="0" cellspacing="0">
               <tbody>
                 <tr>
-                  <td valign="middle" width="9%" align="left"><img src="gifs/paypal.gif" alt="paypal" title="paypal" width="76" height="23"></td>
-                  <td valign="middle" width="14%" align="center"><img src="gifs/net-bank.gif" alt="net-banking" title="net-banking" width="93" height="23"></td>
-                  <td valign="middle" width="10%" align="center"><img src="gifs/visa1.gif" alt="visa" title="visa" width="57" height="21"></td>
-                  <td valign="middle" width="10%" align="center"><img src="gifs/master1.gif" alt="master card" title="master card" width="55" height="36"></td>
-                  <td valign="middle" width="11%" align="center"><img src="gifs/secure_payment.gif" alt="Secure Payment Gateway" title="Secure Payment Gateway" width="79" height="35"></td>
-                  <td valign="middle" width="18%" align="center"><span style="font:normal 12px Arial, Helvetica, sans-serif; color:#990000; ">All Payment Gateways are </span></td>
-                  <td valign="middle" width="10%" align="center"><span style="font:normal 12px Arial, Helvetica, sans-serif; color:#990000; "><img src="gifs/verisign.gif" alt="VeriSign" title="VeriSign" width="76" height="26"></span></td>
-                  <td valign="middle" width="18%" align="left"><span style="font:normal 12px Arial, Helvetica, sans-serif; color:#990000; ">Certified</span></td>
+                  <td width="10%" align="center" valign="middle"><img src="gifs/paypal.gif" alt="paypal" title="paypal" width="76" height="23"></td>
+                  <td width="12%" align="center" valign="middle"><img src="gifs/net-bank.gif" alt="net-banking" title="net-banking" width="93" height="23"></td>
+                  <td width="8%" align="center" valign="middle"><img src="gifs/visa1.gif" alt="visa" title="visa" width="57" height="21"></td>
+                  <td width="7%" align="center" valign="middle"><img src="gifs/master1.gif" alt="master card" title="master card" width="55" height="36"></td>
+                  <td width="16%" align="center" valign="middle"><img src="gifs/secure_payment.gif" alt="Secure Payment Gateway" title="Secure Payment Gateway" width="79" height="35"></td>
+                  <td width="15%" align="center" valign="middle"><span style="font:normal 12px Arial, Helvetica, sans-serif; color:#990000; ">All Payment Gateways are </span></td>
+                  <td width="11%" align="center" valign="middle"><img src="gifs/verisign.jpg" alt="VeriSign" title="VeriSign" width="100" height="40"></td>
+                  <td width="5%" align="center" valign="middle"><span style="font:normal 12px Arial, Helvetica, sans-serif; color:#990000; ">Certified</span></td>
+                  <td width="16%" align="center" valign="middle"><img src="gifs/secured_tal.gif" width="90" height="63"></td>
                 </tr>
               </tbody>
             </table></td>
-          </tr>
+            </tr>
         </tbody></table></td>
       </tr>
       <tr>
@@ -730,8 +988,7 @@ document.getElementById('keyword').focus();
                 <td width="17%" align="left" valign="top" class="footer_title">Terms &amp; Policy</td>
                 <td width="17%" align="left" valign="top" class="footer_title">Inquiry</td>
                 <td width="17%" align="left" valign="top" class="footer_title">Others</td>
-                <td width="15%" align="left" valign="top" class="footer_title">&nbsp;</td>
-                <td width="17%" align="left" valign="top">&nbsp;</td>
+                <td width="15%" align="left" valign="top" class="footer_title">Follow us on </td>
               </tr>
               <tr>
                 <td align="left" valign="top" class="footer_title">
@@ -755,6 +1012,9 @@ document.getElementById('keyword').focus();
 					<li><a href="index.php?file=st-static&amp;tpl=return">•&nbsp;Return Policy</a></li>
 				</ul>
 			</div></td>
+
+
+
                 <td align="left" valign="top">
 				<div id="footer_links">
 				<ul>
@@ -762,8 +1022,7 @@ document.getElementById('keyword').focus();
 					<li><a href="index.php?file=s-feedback">•&nbsp;Customer Service</a></li>
 					<li><a href="index.php?file=s-specialitemrequest">•&nbsp;Special Item Request</a></li>
 					<li><a href="index.php?file=s-clubinquiry">•&nbsp;Bulk Order Inquiry</a></li>
-					<li><a href="http://www.evyapar.com/vendor.htm">•&nbsp;Become a Vendor</a></li>
-				</ul>
+	<li><a href="shop/corporate-gifting/">•&nbsp;Corporate Gifts</a></li>			</ul>
 			</div>				</td>
                 <td align="left" valign="top">
 				<div id="footer_links">
@@ -776,30 +1035,21 @@ document.getElementById('keyword').focus();
 					<li><a href="http://eshop.talash.com" title="Gifts to India">•&nbsp;Gifts to India</a></li>
 				</ul>
 			</div>				</td>
-                <td align="center" valign="middle"><a href="http://evyapar.com/"><img src="http://eshop.talash.com/gifs/poweredby.gif" alt="Talash.com Evyapar Services" width="82" height="23" border="0" title="Talash.com Evyapar Services"></a></td>
-                <td align="left" valign="bottom"><table width="100%" border="0" cellspacing="4" cellpadding="2">
-                  
+                <td align="left" valign="top"><table width="100%" border="0" align="left" cellpadding="2" cellspacing="2">
                   <tbody><tr>
-                    <td colspan="5" align="left" valign="top">&nbsp;</td>
-                  </tr>
-                  <tr>
-                    <td colspan="5" align="left" valign="top"><div align="right">
-                        <script type="text/javascript">addthis_pub  = 'talash';</script>
-                        <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-addthis.gif" width="125" height="16" border="0" alt=""></a>
-                        <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
-                    </div></td>
-                  </tr>
-                  <tr>
-                    <td colspan="5" align="left" valign="top">&nbsp;</td>
-                  </tr>
-                  <tr>
-                    <td width="19" align="left" valign="top">&nbsp;</td>
-                    <td width="50" align="left" valign="top">Resources</td>
-                    <td width="17" align="left" valign="top" class="resource_btn"><a href="http://talash.com/resources1.html">1</a></td>
-                    <td width="17" align="left" valign="top" class="resource_btn"><a href="http://talash.com/resources2.html">2</a></td>
-                    <td width="18" align="left" valign="top" class="resource_btn"><a href="http://talash.com/resources3.html">3</a></td>
-                  </tr>
-                </tbody></table></td>
+                    <td align="left" valign="top"><table width="85%" border="0" align="left" cellpadding="0" cellspacing="0">
+                      <tbody><tr>
+                        <td align="center" valign="top"><a href="http://www.facebook.com/talashgiftsonline" target="_blank"><img src="gifs/facebook.jpg" alt="Facebook" title="Facebook" width="32" height="32" border="0"></a></td>
+                        <td align="center" valign="top"><a href="https://twitter.com/talashgiftstore" target="_blank"><img src="gifs/twitter.jpg" width="32" height="32" border="0" alt="Twitter" title="Twitter"></a></td>
+						<td align="center" valign="top"><a class="tf_upfront_badge" href="http://www.thefind.com/store/about-talash" title="TheFind Upfront" style="text-decoration:none;"><img border="0" src="//upfront.thefind.com/images/badges/i/45/c0/45c0555ffc59f8c940b7d19f269f3756.png" alt="Talash.com is upfront"><b>Talash.com</b> is <u>UpFront</u></a>
+<script src="//upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js" type="text/javascript"></script>
+<script type="text/javascript">thefind.upfront.init('tf_upfront_badge', '45c0555ffc59f8c940b7d19f269f3756')</script></td>
+                      </tr>
+                    </tbody></table></td>
+                    </tr>
+                <tr align="left"><td height="85" valign="middle"><a href="http://evyapar.com/"><img src="http://eshop.talash.com/gifs/poweredby.gif" alt="Talash.com Evyapar Services" width="82" height="23" border="0" title="Talash.com Evyapar Services"></a></td>
+                </tr></tbody></table>                  
+                <a href="http://evyapar.com/"></a></td>
               </tr>
             </tbody></table></td>
       </tr>
@@ -810,21 +1060,19 @@ document.getElementById('keyword').focus();
     </tbody></table></td>
   </tr>
 </tbody></table>
+
+<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "16411207",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
+ </td>
+  </tr></tbody></table>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
 try {
-var pageTracker = _gat._getTracker("UA-117797-2");
-pageTracker._setDomainName(".eshop.talash.com");
+var pageTracker = _gat._getTracker("UA-15623211-1");
+pageTracker._setDomainName(".talash.com");
 pageTracker._trackPageview();
 } catch(err) {}</script>
-
-<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "16411207",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
-
- </td>
-  </tr></tbody></table>
-
 
 </include></body></html>
