@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tonedeaf.com.au privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227020523id_/http%3A//www.tonedeaf.com.au/%3Fpage_id%3D66) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonedeaf.com.au privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417075855id_/http%3A//www.tonedeaf.com.au/%3Fpage_id%3D66) for the most accurate reproduction.*
 
 # Privacy Policy « Tone Deaf
 
