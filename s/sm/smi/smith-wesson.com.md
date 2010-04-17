@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the smith-wesson.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217001713id_/http%3A//www.smith-wesson.com/webapp/wcs/stores/servlet/CustomContentDisplay%3FlangId%3D-1%26storeId%3D10001%26catalogId%3D10001%26content%3D12006) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smith-wesson.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418012325id_/http%3A//www.smith-wesson.com/webapp/wcs/stores/servlet/CustomContentDisplay%3FlangId%3D-1%26storeId%3D10001%26catalogId%3D10001%26content%3D12006) for the most accurate reproduction.*
 
 # Privacy - Smith & Wesson
 
-This Privacy Policy (“this Policy”), effective as of October 18, 2005, describes certain current policies of SMITH & WESSON CORP. and its corporate affiliates, (“we”, “us” or “S&W”) with respect to our collection and use of certain information. This Policy applies to information collected by us online through S&W websites. To the extent that we collect personal information through other means, our policies may be different from those described in this Policy. By using our website, you consent to our collection and use of your information as described in this Policy or as the same may be amended or modified from time to time as indicated herein below. 
+This Privacy Policy (“this Policy”), effective as of October 18, 2005, describes certain current policies of SMITH & WESSON CORP. and its corporate affiliates, (“we”, “us” or “S&W”) with respect to our collection and use of certain information. This Policy applies to information collected by us online through S&W websites. To the extent that we collect personal information through other means, our policies may be different from those described in this Policy. By using our website, you consent to our collection and use of your information as described in this Policy or as the same may be amended or modified from time to time as indicated herein below.   
 
-Collection and Use of Information.
+
+1\. Collection and Use of Information.
 
 When you access our website we may collect certain anonymous information relating to such access which allows us to provide a better website experience. This may include the use of cookies or similar files, however, our usage of cookies or the like is in no way tied to personally identifiable information. 
 
@@ -14,7 +15,7 @@ We will use Personally Identifiable Information to enhance the operation of our 
 
 We may also provide information, including Personally Identifiable Information, obtained from you to third parties who assist us to provide requested products and services such as shipping companies who deliver requested products. We may also use information that we obtain from you to provide you with information on other products and services that we believe you might be interested in. From time to time, we may provide certain information that we obtain from you to others who provide products and services that we believe you might be interested in. It is our intention to provide such information only to third parties who we believe are reputable but please note that such parties may have different privacy policies. We may also disclose information when we, in good faith, believe that the law requires it.
 
-A Special Note about Children.
+2\. A Special Note about Children.
 
 Children under the age of 13 are not eligible to use this website and we ask that children not submit any information, personal or otherwise, to us. We do not knowingly collect personal information about children under the age of 13. If we become aware that we have been provided information about a child under the age of 13, we will delete that personal information from our records.
 
@@ -36,4 +37,4 @@ From time to time we may use information in ways not previously described in thi
 
 Special Notification for California Residents.
 
-Individual customers who reside in California and have provided their personal information to S&W may request information about our disclosures of certain categories of personally identifiable information to third parties for their direct marketing purposes. Such requests must be submitted to us at the addressed or email address listed in paragraph 3 above. Within thirty (30) days of receiving such a request we will provide a list of the categories of personal information disclosed to third parties for third party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve the right to not fulfill your request should it be submitted to an address other than that which is listed in paragraph 3 above. 
+Individual customers who reside in California and have provided their personal information to S&W may request information about our disclosures of certain categories of personally identifiable information to third parties for their direct marketing purposes. Such requests must be submitted to us at the mailing address or email address listed in paragraph 3 above. Within thirty (30) days of receiving such a request we will provide a list of the categories of personal information disclosed to third parties for third party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve the right to not fulfill your request should it be submitted to an address other than that which is listed in paragraph 3 above.
