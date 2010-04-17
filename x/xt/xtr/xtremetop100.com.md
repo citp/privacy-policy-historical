@@ -1,25 +1,31 @@
-> *The following text is extracted and transformed from the xtremetop100.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217223635id_/http%3A//www.xtremetop100.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtremetop100.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417074324id_/http%3A//www.xtremetop100.com/privacypolicy.php) for the most accurate reproduction.*
 
 # XtremeTop100.com - Gaming top 100 list
 
-**Privacy Policy for XtremeTop100.com**
+**XtremeTop100.com** takes your privacy seriously, this privacy policy describes what personal information we collect and how we use it.
 
-The privacy of our visitors to XtremeTop100.com is important to us. 
+**Routine Information Collection**
 
-At XtremeTop100.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit XtremeTop100.com, and how we safeguard your information. We never sell your personal information to third parties.
+All web servers track basic information about their visitorsThis information includes, but is not limited to, IP addresses, browser details, timestamps and referring pagesNone of this information can personally identify specific visitors to this siteThe information is tracked for routine administration and maintenance purposes. 
 
-**Log Files**  
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
+**Cookies and Web Beacons**
 
-**Cookies and Web Beacons**  
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+Where necessary, XtremeTop100.com uses cookies to store information about a visitors preferences and history in order to better serve the visitor and/or present the visitor with customized content. 
 
-We also use third party advertisements on XtremeTop100.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies 
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+**Controlling Your Privacy**
 
-AdSense Privacy Policy Provided by [JenSense blog](http://www.jensense.com/)
+Note that you can change your browser settings to disable cookies if you have privacy concernsDisabling cookies for all sites is not recommended as it may interfere with your use of some sitesThe best option is to disable or enable cookies on a per-site basisConsult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://www.synclastic.com/privacy/browser-configuration/) links may also be useful. 
 
-© [XtremeTop100 .com](http://www.xtremetop100.com/) \- [privacy policy](https://web.archive.org/privacypolicy.php) \- Created by [SEOMinds.com](http://www.seominds.com/) 2004-2009
+**Special Note About Google Advertising**
+
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services Learn how to [opt out of Googles cookie usage](http://www.google.com/privacy_ads.html) As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Googles own privacy policies 
+
+**Contact Information**
+
+Concerns or questions about this privacy policy can be directed to XtremeTop100.com for further clarification. 
+
+© [XtremeTop100 .com](http://www.xtremetop100.com/) \- [privacy policy](https://web.archive.org/privacypolicy.php) \- Created by [SEOMinds.com](http://www.seominds.com/) 2004-2010
 
 [](http://t.extreme-dm.com/?login=alco84)
