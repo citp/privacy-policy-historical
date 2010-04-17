@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appscout.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215205526id_/http%3A//www.pcmagnetwork.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appscout.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417072500id_/http%3A//www.pcmagnetwork.com/about/privacy) for the most accurate reproduction.*
 
 # PCMag Digital Network : Privacy Policy
 
