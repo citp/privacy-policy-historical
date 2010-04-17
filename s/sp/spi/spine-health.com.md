@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the spine-health.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221235021id_/http%3A//www.spine-health.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spine-health.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417141014id_/http%3A//www.spine-health.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-(Updated June 2007)
+## Spine-health Privacy Policy
+
+(Updated July 2009)
 
 Spine-health.com is committed to maintaining the privacy of your online information, and Internet privacy is an issue that we take very seriously. We believe it is important for you to know what information is being collected about you, how that information is being used, with whom it is being shared, and how to contact us if you have additional questions or concerns.
 
@@ -45,5 +47,5 @@ In accordance with the Federal Children's Online Privacy Protection Act of 1998 
 If you have additional questions about our privacy policy, please contact us at [admin@spine-health.com](mailto:admin@spine-health.com) or write to us at:
 
 Spine-health.com  
-123 West Madison St. Suite 1450  
-Chicago, IL 60602
+790 Estate Drive, Suite 250  
+Deerfield, IL 60015
