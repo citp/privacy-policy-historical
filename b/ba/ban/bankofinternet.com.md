@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bankofinternet.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207030126id_/https%3A//www.bankofinternet.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofinternet.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417053247id_/http%3A//www.bankofinternet.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Bank of Internet
-
-as of January 2006
 
 We want you to know that we are totally committed to protecting and safeguarding your privacy. It is our policy to treat your personal and financial information with the utmost respect, and in accordance with your wishes. Since Bank of Internet USA utilizes traditional bank systems and the Internet to deliver products and services, certain Internet-related privacy issues may be of concern to you. For this reason, and because we want you to be a confident and informed customer, we have adopted the following Privacy Policy. 
 
@@ -128,3 +126,5 @@ Are there other special requirements for electronic records?
 You must provide us with your current e-mail address, and keep it current with us at all times. Otherwise, you may not receive electronic records in a timely manner.
 
 If you download or print any confidential materials, such as your monthly statements, be sure that you store them in a secure environment, just as you would paper-based bank records. 
+
+January 2006
