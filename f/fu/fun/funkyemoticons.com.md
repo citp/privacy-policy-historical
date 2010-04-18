@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funkyemoticons.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116070256id_/http%3A//www.funkyemoticons.com/US/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funkyemoticons.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418200508id_/http%3A//www.funkyemoticons.com/EN/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ## Free Messenger Emoticons with Funky Emoticons!
 
-[Download](http://download.funkyemoticons.com/FunkyEmoticons_setup.php?lg=US&browser=Unknown)
+[Download](http://download.funkyemoticons.com/FunkyEmoticons_setup.php?lg=EN&browser=Unknown)
 
 **Privacy Policy Funky Emoticons**
 
