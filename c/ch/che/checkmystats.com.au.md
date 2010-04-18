@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkmystats.com.au privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231050601id_/http%3A//www.checkmystats.com.au/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkmystats.com.au privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418020116id_/http%3A//www.checkmystats.com.au/privacy) for the most accurate reproduction.*
 
 # Checkmystats is an online provider of performance based marketing and sales solutions.
 
