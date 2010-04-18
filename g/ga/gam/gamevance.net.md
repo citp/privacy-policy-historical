@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the gamevance.net privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526073628id_/http%3A//www.gamevance.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamevance.net privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418173308id_/http%3A//www.gamevance.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Gamevance - Privacy Policy
+# Play free games and win prizes at Gamevance. Gamevance offers free tournament games, free online games, featured games and more!
 
-**GAMEVANCE PRIVACY POLICY**
-
+**GAMEVANCE PRIVACY POLICY** | [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.gamevance.com&sealid=101)  
+---|---  
+  
 Gamevance makes this Website (the "Site") available to registered members of the Site ("Members"), subject to this privacy policy (the "Policy") and the Gamevance Terms and Conditions (also referred to as the "End User License Agreement" or "EULA"). This Policy explains what information Gamevance collects about Members on the Site and how Gamevance uses and maintains the information. By becoming a Member of Gamevance and using the Site, you signify your acceptance of this Policy. IF YOU DO NOT AGREE TO THE TERMS OF THIS POLICY, IN WHOLE OR IN PART, YOU SHOULD NOT USE THIS SITE OR BECOME A MEMBER. IF YOU ARE A MEMBER AND DO NOT AGREE WITH THE TERMS OF THIS POLICY, YOU MUST IMMEDIATELY TERMINATE YOUR ACCOUNT. See the "Terminate Account" section below. 
 
 Throughout this Policy we refer to information that can identify you as a specific individual - such as your name, telephone number, email address, and social security number - as Personally Identifiable Information ("PII"). At Gamevance we take the privacy of our Members and the security of their PII very seriously. You have the right to know what PII we collect, how it is protected and used and the circumstances under which it may be disclosed, and this Policy is designed to provide you with that information. 
@@ -86,14 +87,14 @@ The Site, the Gamevance e-mails and the content available in connection therewit
 This Site is not open to children. Accordingly, we do not intend to collect PII from anyone we know to be under 13 years of age. 
 
 **Terminate Account**  
-Members of the Site who disagree with any provision of this Policy must immediately terminate their account with Gamevance. Accounts may be terminated by emailing [unsubscribe@gamevance.com](mailto:unsubscribe@gamevance.com), by going to [http://www.gamevance.com/deactivate.php](https://web.archive.org/web/20090526073628id_/http%3A//www.gamevance.com/deactivate.php), or by selecting the appropriate entry in your Control Panel using the "Add or Remove Programs" icon. Gamevance reserves the right to terminate any Member who violates its policies and rules. 
+Members of the Site who disagree with any provision of this Policy must immediately terminate their account with Gamevance. Accounts may be terminated by emailing [unsubscribe@gamevance.com](mailto:unsubscribe@gamevance.com), by going to [http://www.gamevance.com/deactivate.php](https://web.archive.org/web/20100418173308id_/http%3A//www.gamevance.com/deactivate.php), or by selecting the appropriate entry in your Control Panel using the "Add or Remove Programs" icon. Gamevance reserves the right to terminate any Member who violates its policies and rules. 
 
 **Changes to this Policy**  
 Gamevance may, from time to time, amend this Policy, in whole or part, in its sole discretion. Any changes to this Policy will be effective immediately upon the posting of the revised Policy on the Site. Changes will be reflected by the "Last Updated" reference below. Depending on the materiality of the change, Gamevance may announce the change (1) on the home page of the Site, or (2) provide such notice via e-mail to Members. By continuing to use the Site following any changes or by remaining a Member, you will be deemed to have agreed to such changes. 
 
 **QUESTIONS AND CONCERNS**
 
-If you have any questions or concerns about this Policy or its implementation, please email us at [privacy@gamevance.com](mailto:privacy@gamevance.com). For general questions about the Site, please email us at [support@gamevance.com](mailto:support@gamevance.com). Alternatively, you may call our Customer Service number, 1-866-719-9965.
+If you have any questions or concerns about this Policy or its implementation, please email us at [privacy@gamevance.com](mailto:privacy@gamevance.com). For general questions about the Site, please email us at [support@gamevance.com](mailto:support@gamevance.com). Alternatively, you may call our Customer Service number, 1-866-638-4441.
 
 Effective: July 21, 2008  
 Last Updated: July 21, 2008 
