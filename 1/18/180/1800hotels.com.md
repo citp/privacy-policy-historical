@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800hotels.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830192601id_/http%3A//www.1800hotels.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800hotels.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418163318id_/http%3A//www.1800hotels.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # 1800HOTELS - Privacy Policy
 
