@@ -1,8 +1,22 @@
-> *The following text is extracted and transformed from the turn.com privacy policy that was archived on 2009-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090122192646id_/http%3A//www.turn.com/corp/about/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turn.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418151448id_/http%3A//www.turn.com/corp/about/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Turn Inc.
 
 ### This Privacy Policy is effective as of October 15, 2008
+
+**Table of Contents**
+
+1\. Site Privacy Policy
+
+2\. Information Collection and Use
+
+3\. Information Storage and Security
+
+4\. Information Sharing and Disclosure
+
+5\. Opt-out of Information Collection
+
+6\. General Information
 
 Turn Inc. ("Turn") provides advertisers and publishers ("Business Partners") access to a set of technologies and processes designed to display advertisements to consumers viewing a publisher's website(s) (the "Turn Ads").
 
@@ -34,7 +48,7 @@ _Updating / Deleting your PII_
 
 If you'd like us to update, correct, delete, or deactivate any PII that you have provided to us on this Site, please send your request to us at [privacy@turn.com](mailto:privacy@turn.com) and we will process your request within a reasonable period of time after receipt.
 
-**2\. Technology Privacy Policy**
+**2\. Information Collection and Use**
 
 Turn is a member of the Network Advertising Initiative ("NAI") and is in compliance with the NAI's Self-Regulatory Principles.
 
@@ -60,21 +74,15 @@ _Third Party Links and Websites_
 
 Turn Ads may contain links to other websites, including those of our Business Partners. Such websites may use cookies and/or other data collection tools. Turn is not responsible for the privacy practices, policies or the content of such websites. Turn encourages everyone to read the posted privacy policies whenever interacting with any website to learn more about the privacy practices of that website. Turn has no control over the use of anyinformation by third party websites, and you should exercise caution when deciding to disclose any PII. Similarly, Turn does not have access to, or control of, the cookies and/or other data collection tools that may be placed on any advertisement by a third-party, including those of our Business Partners, and this Privacy Policy does not cover the use of cookies and/or other data collection tools by any third party.
 
+_Information Relating to Children_
+
+Our products and services are designed for those 13 years of age and older. We do not knowingly collect PII from anyone under the age of 13. If we are made aware that we have received PII from someone under 13, we will use reasonable efforts to remove that information from our records.
+
+**3\. Information Storage and Security**
+
 _Storage of Non-PII_
 
-We retain the Non-PII collected via our Technology for up to 90 days in order to ensure that our Technology is functioning properly. After 90 days, we render this information anonymous and store it for up to three years.
-
-**Controlling the use of your information**
-
-_Opting out_
-
-If you'd like to opt-out from having Turn collect your Non-PII in connection with our Technology, please [click here to opt out](https://web.archive.org/corp/about/opt-out.jsp). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to tailor Turn Ads to your interests. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
-
-_Deleting your PII_
-
-Although we don't collect PII via our Technology, if you'd like us to update, correct, delete or deactivate any PII that you have provided to us on the Website, please send your request to us at [privacy@turn.com](mailto:privacy@turn.com) and we will process your request within a reasonable period of time after receipt.
-
-**3\. General:**
+We retain the Non-PII collected via our Technology for up to 180 days in order to ensure that our Technology is functioning properly. After 180 days, we render this information anonymous and store it for up to three years.
 
 _Information Security_
 
@@ -82,9 +90,7 @@ The security of your information is important to us. We have implemented reasona
 
 If you have any questions about our security practices, please send an email to us at [privacy@turn.com](mailto:privacy@turn.com).
 
-_Information Relating to Children_
-
-Our products and services are designed for those 18 years of age and older. We do not knowingly collect PII from anyone under the age of 18. If we are made aware that we have received PII from someone under 18, we will use reasonable efforts to remove that information from our records.
+**4\. Information Sharing and Disclosure**
 
 _Disclosure of Information to Third Parties_
 
@@ -96,6 +102,18 @@ We may disclose your information to third parties when we reasonably believe we 
 
 Finally, we may transfer information, including any PII collected via the Site, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.
 
+**5\. Opt-out of Information Collection**
+
+_Opting out_
+
+If you'd like to opt-out from having Turn collect your Non-PII in connection with our Technology, please [click here to opt out](https://web.archive.org/corp/about/opt-out.jsp). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to tailor Turn Ads to your interests. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
+
+_Deleting your PII_
+
+Although we don't collect PII via our Technology, if you'd like us to update, correct, delete or deactivate any PII that you have provided to us on the Website, please send your request to us at [privacy@turn.com](mailto:privacy@turn.com) and we will process your request within a reasonable period of time after receipt.
+
+**6\. General Information**
+
 _Changes to this Privacy Policy_
 
 This privacy policy is subject to change. If we make any material or substantive changes in the way that we use the PII collected through this Website, we will post a clear and conspicuous notice of those changes on the Website and in this privacy policy.
@@ -104,6 +122,6 @@ _Contact Information_
 
 For questions or concerns relating to privacy, please send us an email at [privacy@turn.com](mailto:privacy@turn.com). Alternatively, you may contact us at: Privacy Officer, Turn Inc., 1600 Seaport Boulevard, Suite 300, Redwood City, CA 94063.
 
-Copyright © 2009 Turn Inc.
+Copyright © 2010 Turn Inc.
 
 back to top
