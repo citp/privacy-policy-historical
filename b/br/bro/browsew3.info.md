@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browsew3.info privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208091503id_/http%3A//browsew3.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browsew3.info privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418174516id_/http%3A//browsew3.info/privacy.php) for the most accurate reproduction.*
 
 # Browsew3
 
