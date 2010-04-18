@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americastestkitchentv.com privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121173823id_/http%3A//www.americastestkitchentv.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americastestkitchentv.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418134642id_/http%3A//www.americastestkitchentv.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # America's Test Kitchen
 
