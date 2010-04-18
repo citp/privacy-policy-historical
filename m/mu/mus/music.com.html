@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the music.com privacy policy that was archived on 2009-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091214085744id_/http%3A//www.music.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the music.com privacy policy that was archived on 2010-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100418173844id_/http%3A//www.music.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="ctl00_head">
     
@@ -20,21 +20,23 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	    <meta name="keywords" content="">
 	    <meta name="description" content="">
-	    <title>Music.com</title>
+		<title>Music.com</title>
 	    
         
         <!-- <title>
 
 </title>-->
     	
-        <!-- Load css files -->
+	    <link rel="icon" href="/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+		
+		<!-- Load css files -->
         <link href="/static/css/reset.css" type="text/css" rel="stylesheet">
-<link href="/static/css/base.css" type="text/css" rel="stylesheet">
+<link href="/static/css/base-refactor.css" type="text/css" rel="stylesheet">
 
         
 		<!-- every page loads the css above, each page will pull one of the following-->
         <link href="/static/css/footer.css" type="text/css" rel="stylesheet">
-<link href="/static/css/video.css" type="text/css" rel="stylesheet">
+<link href="/static/css/video-refactor.css" type="text/css" rel="stylesheet">
 <!--[if IE 7]><link href="/static/css/style_ie7.css" type="text/css" rel="stylesheet" />
 <![endif]--><!--[if IE 6]><link href="/static/css/style_ie6.css" type="text/css" rel="stylesheet" />
 <![endif]--><script language="javascript"> var DEBUG = false; </script>
@@ -98,13 +100,14 @@
 				</div>
                 <!-- show if logged out -->
                 <div id="ctl00_divJoinNow">
-				    <a href="/Register"><img src="static/images/joinnow.gif" id="ctl00_imgJoinNow"></a>
+				    <a href="/Register">Not Yet a Member?  <b>Join Now</b></a>
 				</div>				
 				<a href="/" id="ctl00_linkHomePage">
-					<img src="/static/images/mdclogo.gif" id="ctl00_imgHomePageLogo" class="logo" alt="music.com">
+					<img src="/static/images/logo.png" id="ctl00_imgHomePageLogo" class="logo" alt="music.com">
 				</a>
 			</div>
 			
+			<div id="searcharea">
 			<a href="/lyrics"><img id="lyricpromo" src="/static/images/kswiss_lyric_promo.gif" alt="visit our lyric channel"></a>
 			
             <div id="headersearch">
@@ -119,9 +122,9 @@
 	
 					
 		<fb:login-button id="facebooklogin" size="medium" background="light" length="short" onlogin="window.location.href = '/login/facebook?ReturnUrl=/privacypolicy';"></fb:login-button>
-		<img src="/static/images/or.gif" id="or" alt="or">
+		<span class="or">or</span>
 
-		<a href="" onclick="document.getElementById('loginform').style.display = 'block'; document.getElementById('chicklets').style.zIndex ='950';return false" id="memberlogin"><span>Member Login</span></a>
+		<a href="#" onclick="document.getElementById('loginform').style.display = 'block'; document.getElementById('chicklets').style.zIndex ='950';return false" id="memberlogin"><span>Member Login</span></a>
 
 		<div id="loginform">
             <form id="loginForm1" method="post" action="/login">
@@ -154,7 +157,50 @@
 	
 </div>     
              </div>
-            
+
+			
+<div id="chicklets">
+	<ul>
+		<li><a href="#" onclick="document.getElementById('rss').style.display='block'; return false"><img src="/static/images/rss.gif" alt=""></a></li>
+		<li><a href="http://www.twitter.com/musicdotcom" target="_blank"><img src="/static/images/twitter.gif" alt=""></a></li>
+		<li class="last"><a href="http://www.facebook.com/pages/Musiccom/62324003290" target="_blank"><img src="/static/images/facebook.gif" alt=""></a></li>
+	</ul>
+</div>
+
+<div id="rss" style="display: none">
+	<div id="rsswrap">
+		<div id="rssclose"><a href="#" onclick="document.getElementById('rss').style.display='none'; return false">X</a></div>
+		<div id="rssdesc">
+			<h4>Subscribe to our RSS video feed</h4> 
+			<h5>You'll get immediate updates on:</h5>
+			<ul>
+				<li>New video arrivals</li>
+				<li>Staff recommendations</li>
+				<li>Top videos each week</li>
+			</ul>
+		</div>
+		<div id="rssicons">
+			<ul>
+				<li><a href="http://www.google.com/ig/add?feedurl=http://music.com:80/rss/news"><img src="/static/images/rss_google.gif" alt=""></a></li>
+				<li><a href="http://add.my.yahoo.com/rss?url=http://music.com:80/rss/news"><img src="/static/images/rss_yahoo.gif" alt=""></a></li>
+				<li><a href="http://www.netvibes.com/subscribe.php?url=http://music.com:80/rss/news"><img src="/static/images/rss_netvibes.gif" alt=""></a></li>
+				<li><a href="http://www.bloglines.com/sub/http://music.com:80/rss/news"><img src="/static/images/rss_bloglines.gif" alt=""></a></li>
+				<li><a href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http://music.com:80/rss/news"><img src="/static/images/rss_newsgator.gif" alt=""></a></li>
+				<li><a href="http://www.live.com/?add=http://music.com:80/rss/news"><img src="/static/images/rss_windows.gif" alt=""></a></li>
+			</ul>
+			<div class="clear"></div>
+		</div>
+		<div id="rssfeed">
+			<h4>Feed URL:</h4>
+			<form>
+				<input type="text" id="rsslink" class="text" value="http://www.music.com/rss/news"> <input type="button" class="copy" value="Copy" alt="" onclick="RssCopyClipboard();">
+			</form>
+		</div>
+	</div>
+</div>
+
+
+			</div>
 			<div class="clear"></div>
 		<!--header above-->
 			
