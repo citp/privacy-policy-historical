@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the salemnews.com privacy policy that was archived on 2009-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091218023322id_/http%3A//www.salemnews.com/homepage/resources_privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the salemnews.com privacy policy that was archived on 2010-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100418021508id_/http%3A//www.salemnews.com/homepage/resources_privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- set no third rail to false --><!-- set no third rail to false --><!-- Get Submenu information --><head>
 				   
@@ -17,8 +17,13 @@
 
 
 
+<!-- chartbeat implementation -->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
 <!-- Google webmaster tools verification meta tag -->
 <meta name="verify-v1" content="uii0MmxxnUAKhB9fxn1cq34FMwXNDjzI5V5B40SXhPo=">
+<meta name="y_key" content="31b9b98afe1d2d9a">
+<meta name="msvalidate.01" content="323892DB43B0F42A552ABB2B7310D0CA">
 
 <!-- js data -->
 
@@ -382,7 +387,7 @@ height:42px;
 </ul>
 </div>
 	
-	<div id="date">Thu, Dec 17 2009</div>
+	<div id="date">Sat, Apr 17 2010</div>
 	<div id="flag"><a href="http://www.salemnews.com/headerlink"><!-- header img --><img src="http://plus.salemnews.com/ze/images/snmasthead.gif" width="705" height="75" border="0" usemap="#headermap"><!-- end header img --></a></div>
 
 		<div id="weather"> 
@@ -1215,9 +1220,30 @@ Check out the <a href="http://bizfinder.salemnews.com/pages/featured_businesses"
 </object>
 </p>
 </div>
+
+<!-- chartbeat implementation -->
+<script type="text/javascript">
+var _sf_async_config={uid:3854,domain:"salemnews.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
 <br><br>
 <a href="http://www.cnhi.com/newspapers/" target="_blank">Community Newspaper Holdings, Inc.</a> • <a href="http://www.cnhi-can.com" target="_blank">CNHI Classified Advertising Network</a> • <a href="http://cnhins.com" target="_blank">CNHI News Service</a> <br>
-Associated Press content © 2009. All rights reserved. AP content may not be published, broadcast, rewritten or redistributed.<br>
+Associated Press content © 2010. All rights reserved. AP content may not be published, broadcast, rewritten or redistributed.<br>
 Our site is powered by <a href="http://zope.com" target="_blank">Zope</a>.<br>
 Some parts of our site may require you to <a href="http://www.macromedia.com/go/getflashplayer">download the Flash Player Plugin</a>.
 <br>
@@ -1329,14 +1355,17 @@ qacct:"p-eb6rW8CarLDWY"
 <!-- evie says -->
 
 
-<script type="text/javascript">eviesays.baseURL = 'http://salemnews.eviesays.com';
+<!--
+<script type="text/javascript" tal:content="string:eviesays.baseURL = 'http://${localurl}.eviesays.com';
 	eviesays.styleURL = 'http://widget.eviesays.com/version/cnhi';
-	eviesays.version = 'salemnews';
-	eviesays.title = 'SalemNews.com, Salem, MA Calendar';
-	eviesays.where = 'Salem,MA';
-	eviesays.showWidget('evie_widget_content','salemnews');</script>
+	eviesays.version = '${portal_id}';
+	eviesays.title = '${siteName} Calendar';
+	eviesays.where = '${city},${state}';
+	eviesays.showWidget('evie_widget_content','${portal_id}');">
+</script>
+-->
 
 
 
 
-</body></html>
+<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
