@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the love-quotes-and-quotations.com privacy policy that was archived on 2009-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090130040609id_/http%3A//www.love-quotes-and-quotations.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the love-quotes-and-quotations.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418123032id_/http%3A//www.love-quotes-and-quotations.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Love Quotes and Quotations
 
@@ -31,6 +31,8 @@ We may serve third party advertisements that use cookies and web beacons in the 
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose.
 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html)
+
  **Children's Online Privacy Protection Act**
 
 This website is directed to adults; it is not directed to children under the age of 13. We operate our site in compliance with the Children's Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 13 years of age. 
@@ -55,11 +57,7 @@ Love Quotes & Quotations reserves the right to make changes in this policy. If t
 
 If you do not agree to Love Quotes & Quotations's Privacy Policy as posted here on this website, please do not use this site or any services offered by this site. 
 
-* * *
-
-**Share this page:  **  
-|  |  |  |   
----|---|---|---|---  
-|  |   
   
-* * *
+**Share this page:  **| | | |   
+---|---|---|---|---  
+| | | 
