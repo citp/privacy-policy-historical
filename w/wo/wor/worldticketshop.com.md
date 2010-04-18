@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldticketshop.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217193614id_/http%3A//www.worldticketshop.com/popup/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldticketshop.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418022820id_/http%3A//www.worldticketshop.com/popup/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
