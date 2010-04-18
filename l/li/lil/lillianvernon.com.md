@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lillianvernon.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230223335id_/http%3A//www.lillianvernon.com/custserv/customer.jsp%3FsectionId%3D144) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lillianvernon.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418212419id_/http%3A//www.lillianvernon.com/custserv/customer.jsp%3FsectionId%3D144) for the most accurate reproduction.*
 
 # Lillian Vernon :: Customer Service
 
