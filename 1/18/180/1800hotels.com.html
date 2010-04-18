@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 1800hotels.com privacy policy that was archived on 2009-08-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090830192601id_/http%3A//www.1800hotels.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 1800hotels.com privacy policy that was archived on 2010-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100418163318id_/http%3A//www.1800hotels.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -9,33 +9,64 @@
     <script type="text/javascript" src="/js/favourites.js.aspx"></script>
     <script type="text/javascript" src="/js/viewed.js.en-US.aspx"></script>
     <script type="text/javascript" src="/js/weather.js.aspx"></script>
-    <script type="text/javascript" src="/js/search.js.aspx?version=REL_20090820_182225"></script>
+    <script type="text/javascript" src="/js/search.js.aspx?version=REL_20100310_173418"></script>
+    <script type="text/javascript" src="/js/server.js.aspx"></script>
     <script type="text/javascript" src="/js/Calendar/calendar.js"></script>
     <script type="text/javascript" src="/js/Calendar/lang/calendar-en.js"></script>
     <script type="text/javascript" src="/js/Calendar/calendar-setup.js"></script>
     <script type="text/javascript" src="/js/animated.js"></script>
     <script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
-    <script type="text/javascript" src="/js/maps.js.aspx?version=REL_20090820_182225"></script>
+    <script type="text/javascript" src="/js/maps.js.aspx?version=REL_20100310_173418"></script>
     <script type="text/javascript" src="/js/thickbox.js.aspx"></script>
     <script type="text/javascript" src="/js/swfobject.js"></script>
-    <link rel="stylesheet" type="text/css" href="/s/en-US/hotelsV3.css?version=REL_20090820_182225">
-	<link rel="stylesheet" type="text/css" href="/s/en-US/hotelsV3print.css?version=REL_20090820_182225" media="print">
+    <script type="text/javascript" src="/js/jquery.jBreadCrumb.1.1.js"></script>
+    <script type="text/javascript" src="/js/jquery.cluetip.js"></script>
+    <link rel="stylesheet" type="text/css" href="/s/en-US/hotelsV3.css?version=REL_20100310_173418">
+    <link rel="stylesheet" type="text/css" href="/s/en-US/hotelsV3print.css?version=REL_20100310_173418" media="print">
     <link rel="stylesheet" type="text/css" href="/s/en-US/imagegallery.css">
+    <link rel="stylesheet" type="text/css" href="/s/en-US/BreadCrumb.css">
     <link rel="stylesheet" type="text/css" href="/s/common/thickbox.css">
-	<!--[if IE 7]>
-	<link rel="stylesheet" type="text/css" href="/s/en-US/IE7hotelsUS.css?version=REL_20090820_182225" />
+	<!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" href="/s/en-US/IE8hotelsUS.css?version=REL_20100310_173418" />
+    <![endif]--> 
+    <!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="/s/en-US/IE7hotelsUS.css?version=REL_20100310_173418" />
 	<![endif]-->
     <!--[if lt IE 7]>
-	<link rel="stylesheet" type="text/css" href="/s/en-US/IE6hotelsUS.css?version=REL_20090820_182225" />
+	<link rel="stylesheet" type="text/css" href="/s/en-US/IE6hotelsUS.css?version=REL_20100310_173418" />
+    <script defer type="text/javascript" src="/js/pngfix.js"></script>
 	<![endif]-->
     <script type="text/javascript">
+        $(document).ready(function() {
+            $('a.tips, span.tips').cluetip();
+            $('#houdini').cluetip({
+                splitTitle: '|',    // use the invoking element's title attribute to populate the clueTip...
+                                    // ...and split the contents into separate divs where there is a "|"
+                showTitle: false    // hide the clueTip's heading
+            });
+        
+        // US Public Master
+  
+  	    MemberLoggedOn();
+
+        });
+
+
+    </script>
+    <script type="text/javascript">
         animatedcollapse.addDiv('moresearchoptions', 'fade=1,height=40px')
-        animatedcollapse.ontoggle=function($, divobj, state){ //fires each time a DIV is expanded/contracted
-	        //$: Access to jQuery
-	        //divobj: DOM reference to DIV being expanded/ collapsed. Use "divobj.id" to get its ID
-	        //state: "block" or "none", depending on state
+        animatedcollapse.ontoggle=function($, divobj, state) { //fires each time a DIV is expanded/contracted
+            //$: Access to jQuery
+            //divobj: DOM reference to DIV being expanded/ collapsed. Use "divobj.id" to get its ID
+            //state: "block" or "none", depending on state
         }
         animatedcollapse.init()
+    </script>
+    <script type="text/javascript">
+        jQuery(document).ready(function()
+        {
+            jQuery("#breadCrumb4").jBreadCrumb();
+        })
     </script>
     
     <title>1800HOTELS - Privacy Policy</title>
@@ -47,49 +78,79 @@
     <body>
 
     <div id="searchWaitForIt">
-        <object id="loadingAnimation" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="288" height="156">
-		    <param name="movie" value="/i/LoadingAnimation.swf">
-		    <!--[if !IE]>-->
-		    <object type="application/x-shockwave-flash" data="/i/LoadingAnimation.swf" width="288" height="156">
-		    <!--<![endif]-->
-		    <div>
-		        <img src="/i/LoadingAnimation" alt="">
-		    </div>
-		    <!--[if !IE]>-->
-		    </object>
-		    <!--<![endif]-->
-        </object>
+        <div id="loadingAnimation">
+            <img src="/i/LoadingAnimation.gif" alt="">
+        </div>
     </div>
-    <div id="heading">
-	    <div id="headinginfo">
-		    <div class="phonenumber">
-		        <span>1.800.468.3573 USA</span><br>
-		        <span>0800 1690309 UK</span>
-		    </div>
-		    <div class="newmenu">
-                <ul>
-                    <li><a href="/" title="Home">Home</a></li>
-                    <li>|</li>
-                    <li><a href="/about-us/" title="About Us">About Us</a></li>
-                    <li>|</li>
-                    <li><a href="/contact-us/" title="Contact Us">Contact Us</a></li>
-                    <li>|</li>
-                    <li><a href="/hotel-gift-certificates/" title="Hotel gift cards">Hotel Gift Cards</a></li>
-                </ul>
-            </div>
-	    </div>
-	    <div class="logo">
-	        <script type="text/javascript">
-	        if(navigator.userAgent.indexOf("MSIE 6.") == -1)
-	            document.write('<' + 'a href="/"><img src="/i/logo_new2" alt="1800HOTELS.com" \/><\/a>');
-            else
-                document.write('<' + 'a href="/"><img src="/i/logoNoAlpha" alt="1800HOTELS.com" \/><\/a>');
-            </script><a href="/"><img src="/i/logo_new2" alt="1800HOTELS.com"></a>
-            <noscript><a href="/"><img src="/i/logo_new2" alt="1800HOTELS.com"/></a></noscript>
-	    </div>
+
+    <input type="hidden" name="loggedInMember" id="loggedInMember" value="notloggedon">
+
+     <div id="membersArea">
+    
+    
+    <div id="LoggedIn" name="LoggedIn" style="display:none">
+        <strong>Welcome</strong> 
+        <ul>
+        <li><span id="loggedinname" name="loggedinname"></span> <a href="/Members/doMemberLogoff.aspx">Sign Out</a></li>
+        <li>&nbsp;|</li>
+        <li><a href="/members/">My Bookings</a></li>
+        <li>&nbsp;|</li> 
+        <li><a href="/members/memberDetails.aspx">My Account</a></li>
+<!-- 
+
+        <li>&nbsp;|</li> 
+        <li><a href="/members/memberCustomerSupport.aspx">Customer Support</a></li>
+
+-->
+        </ul>
     </div>
-    <div class="searchformcontainer">
-        
+ 
+     <div id="NotLoggedIn" name="NotLoggedIn" style="display:none">
+        <strong>Welcome! </strong> 
+        <ul>
+        <li><a href="/Members/">Sign In</a> <a href="/Members/">My Bookings</a></li>
+        </ul>
+    </div>
+
+
+    </div>
+
+    <div id="container">
+        <div id="heading">
+	        <div id="headinginfo">
+	            <div class="phonenumber">
+                    <span class="callus">Call us! We're here to help</span> <span>1.800.853.9054 USA</span> <span>0800 1690309 UK</span>
+	            </div>
+                <div class="newmenu">
+                    <ul>
+                        <li><a href="/newsletter/" title="Sign up to our newsletter">Newsletter</a></li> 
+                        <li>|</li> 
+                        <li><a href="/hotel-deals/" title="Exclusive Hotel Deals">Exclusive Hotel Deals</a></li> 
+                        <li>|</li> 
+                        <li><a href="/budget-hotels-worldwide" title="Browse our thousands of destinations">Worldwide Destinations</a></li> 
+                        <li>|</li> 
+                        <li><a href="/group-hotel-reservations/">Group Travel</a></li>
+                        <li>|</li> 
+                        <li><a href="/hotel-gift-certificates/" title="Hotel gift cards">Gift Cards</a></li> 
+                        <li>|</li> 
+                        <li><a href="/testimonials.aspx" title="Testimonials">Testimonials</a></li> 
+                        <li>|</li>
+                        <li><a href="/about-us/" rel="nofollow">About Us</a></li>
+                    </ul>
+                </div>
+		    </div>
+            <div class="logo">
+	            <script type="text/javascript">
+	            if(navigator.userAgent.indexOf("MSIE 6.") == -1)
+	                document.write('<' + 'a href="/"><img src="/i/logo_new2" alt="1800HOTELS.com" \/><\/a>');
+                else
+                    document.write('<' + 'a href="/"><img src="/i/logoNoAlpha" alt="1800HOTELS.com" \/><\/a>');
+                </script><a href="/"><img src="/i/logo_new2" alt="1800HOTELS.com"></a>
+                <noscript><a href="/"><img src="/i/logo_new2" alt="1800HOTELS.com"/></a></noscript>
+	        </div>
+        </div>
+        <div class="searchformcontainer">
+            
     
 
 
@@ -98,28 +159,27 @@
                 
                 <div class="whereto">
                     <input type="hidden" id="occupancyEx" name="occupancyEx" value="">
-                    <h3>1. Change Your Search</h3>
+                   
                     <dl>
                         <dt><label for="destination">Enter your destination or city</label></dt>
 		                <dd class="destinationtypein">
 		                    <!--invalid autocomplete attribute used due to issues with other methods. Do not "fix" this to make it valid XHTML -->
-                            <input type="text" id="destination" name="destination" autocomplete="off" onclick="if(this.value=='        '){this.value=''}" onfocus="if(this.value=='        '){this.value=''};updateList(this)" onchange="updateList(this)" onblur="hideSearchBox()" onkeyup="updateListForKey(arguments[0], this)" value="        ">
+                            <input type="text" id="destination" name="destination" autocomplete="off" onclick="if(this.value=='        '){this.value=''}" onfocus="if(this.value=='        '){this.value=''};updateList(this)" onchange="updateList(this)" onblur="hideSearchBox()" onkeyup="updateListForKey(1, arguments[0], this)" value="        ">
                             <br>
                             <div id="destinationOptions"></div>
                         </dd>
                     </dl>
                 </div>
                 <div class="when">
-                    <h3>2. When?</h3>
                     <input type="hidden" name="searchType" value="simple">
                     <dl class="checkindl">
 		                <dt><label for="date_checkIn">Check in</label></dt>
 		                <dd>
 		                    <script type="text/javascript">
 		                    if(monthFirst())
-		                        document.write('<input type="text" id="date_checkIn" onchange="adjustChkOut()" name="date_checkInFull" value="09/13/2009" /><input type="hidden" name="mf" value="true" />');
+		                        document.write('<input type="text" id="date_checkIn" onchange="adjustChkOut()" name="date_checkInFull" value="05/02/2010" /><input type="hidden" name="mf" value="true" />');
                             else
-                                document.write('<input type="text" id="date_checkIn" onchange="adjustChkOut()" name="date_checkInFull" value="13/09/2009" /><input type="hidden" name="mf" value="false" />');
+                                document.write('<input type="text" id="date_checkIn" onchange="adjustChkOut()" name="date_checkInFull" value="02/05/2010" /><input type="hidden" name="mf" value="false" />');
 		                    document.write('<span class="calendaricon"><a href="#" id="calButton"><img src="/i/calendaricon" alt="calendar" border="0" /></a></span>');
                                 Calendar.setup({
                                     inputField     :    "date_checkIn",     // id of the input field
@@ -131,7 +191,7 @@
                                 });
                             </script>
                             <noscript>
-                                <input type="text" id="date_checkIn" onchange="adjustChkOut()" name="date_checkInFull" value="09/13/2009"/>
+                                <input type="text" id="date_checkIn" onchange="adjustChkOut()" name="date_checkInFull" value="05/02/2010"/>
                                 <input type="hidden" name="mf" value="true" />
                             </noscript>
                         </dd>
@@ -141,9 +201,9 @@
 		                <dd>
 		                    <script type="text/javascript">
 		                    if(monthFirst())
-		                        document.write('<input type="text" id="date_checkOut" onchange="readChkOutDiff()" name="date_checkOutFull" value="09/15/2009" />');
+		                        document.write('<input type="text" id="date_checkOut" onchange="readChkOutDiff()" name="date_checkOutFull" value="05/04/2010" />');
                             else
-                                document.write('<input type="text" id="date_checkOut" onchange="readChkOutDiff()" name="date_checkOutFull" value="15/09/2009" />');
+                                document.write('<input type="text" id="date_checkOut" onchange="readChkOutDiff()" name="date_checkOutFull" value="04/05/2010" />');
 		                    document.write('<span class="calendaricon"><a href="#" id="calButtonCheckOut"><img src="/i/calendaricon" alt="calendar" border="0" /></a></span>');
                                 Calendar.setup({
                                     inputField     :    "date_checkOut",     // id of the input field
@@ -157,9 +217,10 @@
                         </dd>
 		            </dl>
                 </div>
-                <div class="howmany">
-                    <h3>3. How Many? <span id="changeOccupancyLink" class="changeoccupancy" style="visibility: hidden;"><a class="thickbox" href="#TB_inline?height=380&amp;width=400&amp;inlineId=occupancy" onclick="submitOnSetOccupancy = false;">Change Occupancy</a></span></h3>
+                <div class="howmany"><span id="changeOccupancyLink" class="changeoccupancy" style="visibility: hidden;"><a class="thickbox" href="#TB_inline?height=380&amp;width=400&amp;inlineId=occupancy" onclick="submitOnSetOccupancy = false;">Change Occupancy</a></span>
+                   
 		            <div class="searchbutton">
+                    
 		                <input id="doSearch" type="image" src="/i/findhotel" alt="Find a hotel!" value="Find a hotel!">
 		            </div>
                     <dl class="adults">
@@ -223,7 +284,7 @@
                 </div>
 			<div id="occupancy">
 			</div>
-			<div id="moresearchoptions" style="display: none;">
+			<div id="moresearchoptions" style="display: block;">
 				<div class="whereto">
 				    <div id="destSubDestDiv">
 
@@ -244,8 +305,8 @@
 							<label for="hotelName">Hotel Name</label>
 						</dt>
 						<dd>
-
-							<input onkeyup="checkMoreCompulsory()" onchange="checkMoreCompulsory()" type="text" value="" name="hotelName" id="hotelName">
+							<input autocomplete="off" onchange="updateSearchHotelNameList(this)" onfocus="updateSearchHotelNameList(this)" onkeyup="updateSearchHotelNameListForKey(arguments[0], this)" onblur="hideSearchNameSearchBox()" type="text" value="" name="hotelName" id="hotelName">
+							<div id="searchHotelNameOptions"></div>
 						</dd>
 					</dl>
 					<dl class="sortby">
@@ -310,34 +371,36 @@
 			</div>
 			<div class="clearboth"></div>
 			<div class="moresearchoptionsbutton">
-			    <a id="moresearchoptionsLink" href="#" onclick="toggleMoreOptions()">Expanded Search Options &gt;</a>
+			    <a id="moresearchoptionsLink" href="#" onclick="toggleMoreOptions()"></a>
 			</div>
         </form>
         <div class="clearboth"></div>
     </div>
 <script type="text/javascript">
     addToOnload(rewriteOccupForm);
-    addToOnload(checkMoreCompulsory);
+    
     addToOnload(readChkOutDiff);
 </script>
 
 
-    </div>
-    
-<div class="breadcrumb">
+        </div>
+        <div id="white">
+            
+<div class="breadcrumb breadCrumbHolder module">
+<div id="breadCrumb4" class="breadCrumb module">
+     <ul>
 
-     <span>You are here:</span> <ul>
-
-        <li><a href="/">Home</a> &gt; </li>
+        <li><a href="/">Home</a></li>
 
         <li class="current">Privacy Policy</li>
     </ul>
+    </div>
+    </div>
 
-</div>
 
-    <div id="container">
-        <div id="lhs">
-            
+
+            <div id="lhs">
+                
 	
 
 <div class="lhsnav">
@@ -347,43 +410,59 @@
         <li><a href="/contact-us/" rel="nofollow">Contact Us</a></li>
         <li><a href="/hotel-deals/" rel="nofollow">Exclusive Hotel Deals</a></li>
         <li><a href="/testimonials.aspx" rel="nofollow">Testimonials</a></li>
+        <li><a href="/home/media.aspx" rel="nofollow">Media</a></li>
         <li><a href="/about-us/guarantee.aspx">Lowest Price Guarantee</a></li>
         <li><a href="/group-hotel-reservations/" rel="nofollow">Group Travel</a></li>
         <li><a href="/newsletter/" rel="nofollow">Newsletter</a></li>
         <li><a href="/hotel-gift-certificates/" rel="nofollow">Hotel Gift Cards</a></li>
         <li><a href="/terms.aspx" rel="nofollow">Terms &amp; Conditions</a></li>
         <li><a class="selected" href="/privacy-policy.aspx" rel="nofollow">Privacy</a></li>
-        <li><a href="/partner/hotels/" rel="nofollow">Partner With Us</a></li>
         <li><a href="/home/sitemap.aspx" rel="nofollow">Site Map</a></li>
     </ul>
 </div>
 
 
 <div class="aboutblurb">
-    <h2>We Love Hotels. It's All We Do.</h2>
-    <p><em>When you make a hotel reservation with 1800HOTELS, you can be sure you're receiving the best, discount rates and customer service in the business.
-</em></p>
+    <h2>Lowest Prices</h2>
+    <p><em>We buy blocks of rooms, and get deals that simply can't be beat. Lowest price guaranteed!</em></p>
 </div>
 
 <div class="aboutblurb">
-    <h2>Lowest Price, Guaranteed.</h2>
-    <p><em>We deal with more hotel suppliers which gives us cheaper rates. If you find a better hotel rate, we'll match it or refund the difference. <a href="/about-us/guarantee.aspx">Learn More...</a><br></em></p>
+    <h2>We Love Hotels, it's all we do.</h2>
+    <p><em>We offer advice and insight that you simply won't find anywhere else.</em></p>
+</div>
+
+<div class="aboutblurb">
+    <h2>Call Us, Talk to an Expert.</h2>
+    <p><em>We're all extensively trained hotel experts and love helping you find the perfect hotel.</em></p>
 </div>
 
 
 <div class="aboutblurb heretohelp">
-	<h2 class="specialoffer">Call us, talk to an expert</h2>
-	<img src="/i/staffFaces/Mark" alt="Mark" title="Mark"><img src="/i/staffFaces/Paddy" alt="Paddy" title="Paddy"><img src="/i/staffFaces/Jacklyn" alt="Jacklyn" title="Jacklyn"><img src="/i/staffFaces/Jessica" alt="Jessica" title="Jessica"><img src="/i/staffFaces/Stephany" alt="Stephany" title="Stephany">
+	
+<ul id="staffUL">
 
-	<div class="numbers">1.800.468.3573 USA</div>
+<li><img src="/i/staffFaces/Juliana" alt="Juliana" title="Juliana"></li>
+
+<li><img src="/i/staffFaces/Mark" alt="Mark" title="Mark"></li>
+
+<li><img src="/i/staffFaces/Molly" alt="Molly" title="Molly"></li>
+
+<li><img src="/i/staffFaces/Sarah" alt="Sarah" title="Sarah"></li>
+
+<li><img src="/i/staffFaces/Brittany" alt="Brittany" title="Brittany"></li>
+
+</ul>
+
+	<div class="numbers">1.800.853.9054 USA</div>
 	<div class="numbers">0800 1690309 UK</div>
 </div>
 
 
 
-        </div>
-        <div id="rhs">
-            
+            </div>
+            <div id="rhs">
+                
     
 
 <h1>1800HOTELS Privacy Policy</h1>
@@ -468,65 +547,65 @@ court order or legal process served on our Web site.</p>
 
 
 
+            </div>
+            <div class="clearboth"></div>
+            
         </div>
-        <div class="clearboth"></div>
-        
-    </div>
-	<div class="footer">
-	    <div class="footerlinks">
-	        <div class="footernavlinksright">
-	            <a href="/agents/search/">Agent Login</a> | 
-	            <a href="/partner/hotels/">Partner With Us</a> | 
-	            <a href="/home/sitemap.aspx">Site Map</a> | 
-	            <a href="/terms.aspx">Terms &amp; Conditions</a> | 
-	            <a href="/privacy-policy.aspx">Privacy</a>
-	        </div>
-		    <div class="footernavlinks"> 
-                <a href="/hotel-deals/" title="Special offers and exclusive deals">Exclusive Hotel Deals</a> | 
+	</div>
+    <div class="footer">
+        <div class="footerlinks">
+            <div class="socialmedialinks">
+                <ul>
+                    <li><a href="http://blog.1800hotels.com"><img src="/i/wordpress" alt="blog"><span>Blog</span></a></li>
+                    <li><a href="http://twitter.com/1800hotels"><img src="/i/twitter" alt="twitter"><span>Follow Us</span></a></li>
+                    <li><a href="http://www.facebook.com/1800hotels"><img src="/i/facebook" alt="facebook"><span>Become a Fan</span></a></li>
+                </ul>
+            </div>
+            <div class="footernavlinks">
+                <a href="/newsletter/" title="Sign up to our newsletter">Newsletter</a> | 
+                <a href="/hotel-deals/" title="Exclusive Hotel Deals">Exclusive Hotel Deals</a> | 
                 <a href="/budget-hotels-worldwide" title="Browse our thousands of destinations">Worldwide Destinations</a> | 
                 <a href="/group-hotel-reservations/">Group Travel</a> | 
-                <a href="/newsletter/" title="Sign up to our newsletter">Newsletter</a> |
-                <a href="/mailFriend/?link=%2fprivacy-policy.aspx" rel="nofollow">Mail a Friend</a> | 
-                <a href="/testimonials.aspx" title="Testimonials">Testimonials</a>
-		    </div>
-	    </div>
-        <div class="international">1800HOTELS International Sites Ireland: <a href="http://www.1800hotels.ie/activeI18N/" rel="nofollow">1800HOTELS.ie</a></div>
-        <div class="callusfooter">Call us! We're here to help</div>
-        <div class="phonenumber"><span>1.800.468.3573 USA</span><span>0800 1690309 UK</span></div>
-        <div class="socialmedialinks">
-		<ul>
-		<li><a href="http://www.facebook.com/1800hotels"><img src="/images/en-US/facebook.png" alt="facebook"><span>Become a Fan</span></a></li>
-        <li><a href="http://twitter.com/1800hotels"><img src="/images/en-US/twitter.png" alt="twitter"><span>Follow Us</span></a></li>
-        <li><a href="http://blog.1800hotels.com&#10;"><img src="/images/en-US/wordpress.png" alt="blog"><span>Blog</span></a></li>
-		</ul>
-	  </div>
-	    <div class="footerlinks">
-		    <div class="footerhotels">
-			    <table border="0" summary="alphabetical list of popular destinations with hotels" class="hotelslist">
-				    <tbody><tr>
+                <a href="/hotel-gift-certificates/" title="Hotel gift cards">Gift Cards</a> | 
+                <a href="/testimonials.aspx" title="Testimonials">Testimonials</a> |
+                <a href="/about-us/" rel="nofollow">About Us</a>
+            </div>
+            <div class="footernavlinksright">
+                <a href="/agents/search/">Agent Login</a> | 
+                <a href="/home/sitemap.aspx">Site Map</a> | 
+                <a href="/terms.aspx">Terms &amp; Conditions</a> | 
+                <a href="/privacy-policy.aspx">Privacy</a>
+            </div>
+            <div class="callusfooter">Call us! We're here to help <div class="phonenumber"><span>1.800.853.9054 USA</span><span>0800 1690309 UK</span></div></div>
+            <div class="international">1800HOTELS International Sites Ireland: <a href="http://www.1800hotels.ie/activeI18N/" rel="nofollow">1800HOTELS.ie</a></div>
+        </div>
+        <div class="footerlinks">
+            <div class="footerhotels">
+                <table border="0" summary="alphabetical list of popular destinations with hotels" class="hotelslist">
+                    <tbody><tr>
 
                         <td><a href="/budget-hotels-worldwide/Mexico/Beach-Area/Acapulco">Acapulco Hotels</a></td>
                         
 
-                        <td><a href="/budget-hotels-worldwide/USA/Illinois/Chicago">Chicago Hotels</a></td>
+                        <td><a href="/budget-hotels-worldwide/Mexico/Beach-Area/Cancun">Cancun Hotels</a></td>
                         
 
-                        <td><a href="/budget-hotels-worldwide/USA/Florida-East-Coast/Fort-Lauderdale">Fort Lauderdale Hotels</a></td>
+                        <td><a href="/budget-hotels-worldwide/USA/Florida/Fort-Lauderdale">Fort Lauderdale Hotels</a></td>
                         
 
                         <td><a href="/budget-hotels-worldwide/USA/Florida/Miami">Miami Hotels</a></td>
                         
 
-                        <td><a href="/budget-hotels-worldwide/USA/Pennsylvania/Philadelphia">Philadelphia Hotels</a></td>
+                        <td><a href="/budget-hotels-worldwide/USA/Arizona/Phoenix">Phoenix Hotels</a></td>
                         
 
-                        <td><a href="/budget-hotels-worldwide/USA/California/San-Francisco">San Francisco Hotels</a></td>
+                        <td><a href="/budget-hotels-worldwide/Caribbean/Puerto-Rico/San-Juan">San Juan Hotels</a></td>
                         </tr><tr>
 
                         <td><a href="/budget-hotels-worldwide/Holland/Amsterdam">Amsterdam Hotels</a></td>
                         
 
-                        <td><a href="/budget-hotels-worldwide/USA/Texas/Dallas">Dallas Hotels</a></td>
+                        <td><a href="/budget-hotels-worldwide/USA/Illinois/Chicago">Chicago Hotels</a></td>
                         
 
                         <td><a href="/budget-hotels-worldwide/United-Kingdom/Scotland/Glasgow">Glasgow Hotels</a></td>
@@ -535,16 +614,16 @@ court order or legal process served on our Web site.</p>
                         <td><a href="/budget-hotels-worldwide/Canada/Quebec-Province/Montreal">Montreal Hotels</a></td>
                         
 
-                        <td><a href="/budget-hotels-worldwide/USA/Arizona/Phoenix">Phoenix Hotels</a></td>
+                        <td><a href="/budget-hotels-worldwide/Czech-Republic/Prague">Prague Hotels</a></td>
                         
 
                         <td><a href="/budget-hotels-worldwide/USA/Washington/Seattle">Seattle Hotels</a></td>
                         </tr><tr>
 
-                        <td><a href="/budget-hotels-worldwide/Caribbean/Aruba">Aruba Hotels</a></td>
+                        <td><a href="/budget-hotels-worldwide/USA/California/Anaheim">Anaheim Hotels</a></td>
                         
 
-                        <td><a href="/budget-hotels-worldwide/USA/Colorado/Denver">Denver Hotels</a></td>
+                        <td><a href="/budget-hotels-worldwide/USA/Texas/Dallas">Dallas Hotels</a></td>
                         
 
                         <td><a href="/budget-hotels-worldwide/USA/Texas/Houston">Houston Hotels</a></td>
@@ -553,7 +632,25 @@ court order or legal process served on our Web site.</p>
                         <td><a href="/budget-hotels-worldwide/Caribbean/Bahamas/Nassau">Nassau Hotels</a></td>
                         
 
-                        <td><a href="/budget-hotels-worldwide/Czech-Republic/Prague">Prague Hotels</a></td>
+                        <td><a href="/budget-hotels-worldwide/USA/Nevada/Reno">Reno Hotels</a></td>
+                        
+
+                        <td><a href="/budget-hotels-worldwide/Egypt/Sharm-el-Sheikh">Sharm el Sheikh Hotels</a></td>
+                        </tr><tr>
+
+                        <td><a href="/budget-hotels-worldwide/Caribbean/Aruba">Aruba Hotels</a></td>
+                        
+
+                        <td><a href="/budget-hotels-worldwide/USA/Colorado/Denver">Denver Hotels</a></td>
+                        
+
+                        <td><a href="/budget-hotels-worldwide/Poland/Krakow">Krakow Hotels</a></td>
+                        
+
+                        <td><a href="/budget-hotels-worldwide/USA/Louisiana/New-Orleans">New Orleans Hotels</a></td>
+                        
+
+                        <td><a href="/budget-hotels-worldwide/Brazil/Beach-Resorts/Rio-de-Janeiro">Rio de Janeiro Hotels</a></td>
                         
 
                         <td><a href="/budget-hotels-worldwide/Australia/New-South-Wales/Sydney">Sydney Hotels</a></td>
@@ -565,40 +662,22 @@ court order or legal process served on our Web site.</p>
                         <td><a href="/budget-hotels-worldwide/UAE/Dubai">Dubai Hotels</a></td>
                         
 
-                        <td><a href="/budget-hotels-worldwide/Poland/Krakow">Krakow Hotels</a></td>
-                        
-
-                        <td><a href="/budget-hotels-worldwide/USA/Louisiana/New-Orleans">New Orleans Hotels</a></td>
-                        
-
-                        <td><a href="/budget-hotels-worldwide/Spain/Gran-Canaria/Puerto-Rico">Puerto Rico Hotels</a></td>
-                        
-
-                        <td><a href="/budget-hotels-worldwide/USA/Florida/Tampa">Tampa Hotels</a></td>
-                        </tr><tr>
-
-                        <td><a href="/budget-hotels-worldwide/Spain/Barcelona">Barcelona Hotels</a></td>
-                        
-
-                        <td><a href="/budget-hotels-worldwide/Ireland/Dublin">Dublin Hotels</a></td>
-                        
-
                         <td><a href="/budget-hotels-worldwide/USA/Nevada/Las-Vegas">Las Vegas Hotels</a></td>
                         
 
                         <td><a href="/budget-hotels-worldwide/USA/New-York-State/New-York">New York Hotels</a></td>
                         
 
-                        <td><a href="/budget-hotels-worldwide/USA/Nevada/Reno">Reno Hotels</a></td>
+                        <td><a href="/budget-hotels-worldwide/Italy/Lazio/Rome">Rome Hotels</a></td>
                         
 
-                        <td><a href="/budget-hotels-worldwide/Canada/Ontario/Toronto">Toronto Hotels</a></td>
+                        <td><a href="/budget-hotels-worldwide/USA/Florida/Tampa">Tampa Hotels</a></td>
                         </tr><tr>
 
-                        <td><a href="/budget-hotels-worldwide/USA/Massachusetts/Boston">Boston Hotels</a></td>
+                        <td><a href="/budget-hotels-worldwide/Thailand/Bangkok">Bangkok Hotels</a></td>
                         
 
-                        <td><a href="/budget-hotels-worldwide/United-Kingdom/Scotland/Edinburgh">Edinburgh Hotels</a></td>
+                        <td><a href="/budget-hotels-worldwide/Ireland/County-Dublin/Dublin">Dublin Hotels</a></td>
                         
 
                         <td><a href="/budget-hotels-worldwide/United-Kingdom/London">London Hotels</a></td>
@@ -607,16 +686,16 @@ court order or legal process served on our Web site.</p>
                         <td><a href="/budget-hotels-worldwide/USA/Florida/Orlando">Orlando Hotels</a></td>
                         
 
-                        <td><a href="/budget-hotels-worldwide/Italy/Lazio/Rome">Rome Hotels</a></td>
+                        <td><a href="/budget-hotels-worldwide/USA/Texas/San-Antonio">San Antonio Hotels</a></td>
                         
 
-                        <td><a href="/budget-hotels-worldwide/Canada/British-Columbia/Vancouver">Vancouver Hotels</a></td>
+                        <td><a href="/budget-hotels-worldwide/Canada/Ontario/Toronto">Toronto Hotels</a></td>
                         </tr><tr>
 
-                        <td><a href="/budget-hotels-worldwide/Mexico/Beach-Area/Cancun">Cancun Hotels</a></td>
+                        <td><a href="/budget-hotels-worldwide/Spain/Barcelona">Barcelona Hotels</a></td>
                         
 
-                        <td><a href="/budget-hotels-worldwide/Italy/Tuscany/Florence">Florence Hotels</a></td>
+                        <td><a href="/budget-hotels-worldwide/United-Kingdom/Scotland/Edinburgh">Edinburgh Hotels</a></td>
                         
 
                         <td><a href="/budget-hotels-worldwide/USA/California/Los-Angeles">Los Angeles Hotels</a></td>
@@ -628,12 +707,35 @@ court order or legal process served on our Web site.</p>
                         <td><a href="/budget-hotels-worldwide/USA/California/San-Diego">San Diego Hotels</a></td>
                         
 
+                        <td><a href="/budget-hotels-worldwide/Canada/British-Columbia/Vancouver">Vancouver Hotels</a></td>
+                        </tr><tr>
+
+                        <td><a href="/budget-hotels-worldwide/USA/Massachusetts/Boston">Boston Hotels</a></td>
+                        
+
+                        <td><a href="/budget-hotels-worldwide/Italy/Tuscany/Florence">Florence Hotels</a></td>
+                        
+
+                        <td><a href="/budget-hotels-worldwide/United-Kingdom/Manchester">Manchester Hotels</a></td>
+                        
+
+                        <td><a href="/budget-hotels-worldwide/USA/Pennsylvania/Philadelphia">Philadelphia Hotels</a></td>
+                        
+
+                        <td><a href="/budget-hotels-worldwide/USA/California/San-Francisco">San Francisco Hotels</a></td>
+                        
+
                         <td><a href="/budget-hotels-worldwide/USA/District-Of-Columbia/Washington-DC">Washington DC Hotels</a></td>
                         </tr>
 
-			    </tbody></table>
+                </tbody></table>
             </div>
-	    </div>
+            <div class="otherfooterinfo">
+                <p class="copyrightinfo"> © 2009 1800HOTELS4U,LLC. All rights reserved. Orbitz ® is a registered trademark of Orbitz, LLC. Travelocity.com is a registered trademark of Travelocity.com, LP. Hotels.com ® is a registered trademark 
+                of Hotels.com, LP. 1800HOTELS is not affiliated of connected with, or sponsored by, Orbitz, LLC, Travelocity.com, LP, of Hotels.com, LP. Expedia ® is a registered trademark of Expedia, Inc. 
+                Comparison pricing is frequently updated by 1800HOTELS by reviewing listed sites to determine posted prices.</p>
+            </div>
+        </div>
     </div>
     
 
