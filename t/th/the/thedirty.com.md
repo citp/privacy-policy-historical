@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thedirty.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107023739id_/http%3A//thedirty.com%3Fpage_id%3D229) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedirty.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418144859id_/http%3A//thedirty.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Nik Richie + Dirty Army intel, opinions, gossip, satire, and celebrities
+# Privacy Policy | Nik Richie + Dirty Army intel, opinions, gossip, satire, and celebrities
 
 The following **Privacy Policy** governs the online information collection practices of [thedirty.com](http://thedirty.com/). Specifically, it outlines the types of information that we gather about you while you are using thedirty.com website (the “Site”), and the ways in which we use and do not use this information.
 
-**What Information is Collected About Visitors?**
+ **What Information is Collected About Visitors?**
 
 The information that we collect about you while you are using the Site falls into two general categories:
 
@@ -15,7 +15,3 @@ The information that we collect about you while you are using the Site falls int
 **How is this Information Used?**
 
 We will not disclose to third parties any of the information that we collect online about you and other visitors in any way and for any purpose except where we are required to do so by law, or to protect the rights, property or safety of users of the site. The site may include links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third party products or services through the Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.  Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or the site is acquired by another company, information about our visitors may be among the transferred assets.
-
-  
-  
-
