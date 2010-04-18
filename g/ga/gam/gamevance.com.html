@@ -1,530 +1,556 @@
-<!--The following is the downloaded HTML source of the gamevance.com privacy policy that was archived on 2009-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091230034855id_/http%3A//www.gamevance.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gamevance.com privacy policy that was archived on 2010-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100418173308id_/http%3A//www.gamevance.com/privacy_policy.php) for the most accurate reproduction.-->
 
-<html><head>
-<title>Gamevance - Privacy Policy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" type="text/css" href="http://af.gv.facdn.com/gv/content/dynamic/e0361fcfe47a2462149b1b49dc6fa52c-13727e3f55c912f23e472f760f4f13a5.css">
 <meta name="description" content="This Policy explains what information Gamevance collects about Members on the Site.">
 <meta name="keywords" content="Gamevance, free online flash games, play online games, online games, free games, free games online, arcade games, play flash games, flash games, computer games, games, games to play, games play, games for free, internet games, free download, flash arcade game">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="shortcut icon" href="http://aa.gv.facdn.com/gv/images/favicon.ico">
-
-
+<link rel="shortcut icon" href="http://af.gv.facdn.com/gv/content/images/favicon.ico">
+<title>Play free games and win prizes at Gamevance. Gamevance offers free tournament games, free online games, featured games and more!</title>
 <script language="JavaScript" type="text/JavaScript">
 <!--
-var QueImages = new Object();
-var QueTimers = new Object();
+var QueImages=new Object();var QueTimers=new Object();
 function fixImg(obj, height){
-	obj.id=obj.src+microtime();
-	QueImages[obj.id] = obj;
-	setT(obj.id, 0);
-	// set dimensions
+	obj.id=obj.src+'-'+Math.random();
+	QueImages[obj.id]=obj;
+	setT(obj.id,0);
 	obj.style.height = 'auto';
-	if(obj.height > height){
-		obj.style.height = height+'px';
+	if(obj.height>height){
+		obj.style.height=height+'px';
 		obj.removeAttribute('width');
 	}
-
-	showObject(obj.id, 2);
-}
-
-function showObject(id, l){
-	QueTimers[id] = setTimeout("setT('"+id+"', "+l+")", 50);
-}
-function setT(elid, lvl){
-	el = QueImages[elid]
-	if(!lvl){
-		el.style.opacity = 0;
-		el.style.filter = 'alpha(opacity=0)';
-	}else{
-		el.style.opacity = lvl/10;
-		el.style.filter = 'alpha(opacity=' + lvl*10 + ')';
-		if(lvl == 10)
-			QueTimers[elid] = null;
-		else
-			showObject(elid, lvl+2);
-	}
-}
-function microtime(get_as_float) {
-    var now = new Date().getTime() / 1000;
-    var s = parseInt(now, 10);
-    return (get_as_float) ? now : (Math.round((now - s) * 1000) / 1000) + ' ' + s;
-}
-
-function MM_jumpMenu(targ,selObj,restore){ //v3.0
-  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
-  if (restore) selObj.selectedIndex=0;
-}
-
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-  var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-  if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-  if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-function LOGclearInput1() {
-   var form = this.document.login_form;
-   if (form.mem_u.value == "Username")
-      form.mem_u.value = "";
-}
-
-function LOGclearInput2() {
-   var form = this.document.login_form;
-
-   document.all["td_pas_temp"].style.display    = "none";
-   document.all["td_pas_temp"].style.visibility = "hidden";
-   document.all["td_pas_temp"].style.zIndex     = 0;
-   form.mem_p_temp.disabled                     = true;
-
-   visiblePassword(1);
-}
-
-function visiblePassword (n) {
-   var form = this.document.login_form;
-
-   form.mem_p.disabled                     = false;
-   document.all["mem_p"].style.position    = "relative";
-   document.all["mem_p"].style.visibility  = "visible";
-
-   if (n == 1)
-      form.mem_p.focus();
-
-   setTimeout("visiblePassword(0)", 1000);
-}
-
-function LOGcheckInput1() {
-   var form = this.document.login_form;
-   if (form.mem_u.value == "")
-      form.mem_u.value = "Username";
-}
+	showObject(obj.id, 2);}
+function showObject(id, l){QueTimers[id]=setTimeout("setT('"+id+"',"+l+")",50);}
+function setT(elid, lvl){el=QueImages[elid];if(!lvl){el.style.opacity=0;el.style.filter='alpha(opacity=0)';}else{el.style.opacity=lvl/10;el.style.filter='alpha(opacity=' +lvl*10+')';if(lvl == 10){QueTimers[elid]=null;try{el.parentNode.style.backgroundImage = 'none'; }catch(e){alert(e);};}else showObject(elid,lvl+2);}}
 //-->
+function checkLoginFormFields(formName)
+{
+if(document.forms[formName].mem_u.value=="" || document.forms[formName].mem_p.value=="")
+{alert("Username and passwords should not be blank");
+return false;
+}
+return true;
+}
+function checkLoginForm(formName, e){
+document.getElementById(formName).action='https://ssl.gamevance.com/members_login.php';
+document.getElementById(formName).method='POST';
+
+var keycode;
+var check;
+if (window.event)
+keycode = window.event.keyCode;
+else if (e)
+keycode = e.which;
+if(!e) 
+check = checkLoginFormFields(formName);
+else if (keycode == 13)
+check = checkLoginFormFields(formName);
+if(check) {
+         document.getElementById(formName).submit();
+         return false;
+}
+}
 </script>
-
-<script src="http://af.gv.facdn.com/gv/javascript/flash_go_1.js" type="text/javascript"></script>
-
-<link type="text/css" rel="stylesheet" href="http://af.gv.facdn.com/gv/style/gv_styles.css?5">
-
-<!--[if IE 7]>
-<STYLE>
-   textarea {
-      font-family: Tahoma, Verdana, Arial, Sans-serif !important;
-      background-image:url('http://aa.gv.facdn.com/gv/images/textarea_lines_ie7.gif') !important;
-      background-position: 0px 1px !important;
-      background-color: #FDFDFD !important;
-      color: #525542 !important;
-      font-size: 11px !important;
-      border:  solid 1px #999999 !important;
-   }
-</STYLE>
+<!--[if IE 6]>
+   <link rel="stylesheet" type="text/css" href="http://af.gv.facdn.com/gv/content/dynamic/47196124f741cc35386fe983549be7d4-2153c62838ead948eeed05304ba4e0a4.css" />
 <![endif]-->
-<!--[if lt IE 7.]>
-<script defer type="text/javascript" src="http://af.gv.facdn.com/gv/javascript/pngfix.js"></script>
-<![endif]-->
+<script src="http://cim.meebo.com/cim/cim.php?network=gamevance"></script></head>
+<body><div id="meebo" style="display: none;"><iframe id="meebo-iframe" frameborder="0"></iframe></div>
 
-</head>
-<body style="BACKGROUND-IMAGE:url(http://aa.gv.facdn.com/gv/images/top.gif); BACKGROUND-REPEAT:repeat-x;" bgcolor="#FFFFFF" marginwidth="0" leftmargin="0" marginheight="0" topmargin="0" onload="MM_preloadImages('http://aa.gv.facdn.com/gv/images/menu_02.gif','http://aa.gv.facdn.com/gv/images/menu_03.gif','http://aa.gv.facdn.com/gv/images/menu_04.gif','http://aa.gv.facdn.com/gv/images/menu_05.gif','http://aa.gv.facdn.com/gv/images/menu_06.gif','http://aa.gv.facdn.com/gv/images/menu_07.gif')">
-<script>
-	var Meebo = {exec:function(){Meebo._.push(arguments)},_:[]};
-	window.onload = function onLoad(){
-		var imgs = document.getElementsByTagName('IMG');
-		for(var x=0; x<imgs.length; x++){
-			if(imgs[x].parentNode.tagName == 'A'){
-				imgs[x].setAttribute('meebo:title', imgs[x].parentNode.title);
-				imgs[x].setAttribute('meebo:url', imgs[x].parentNode.href);
-				//Meebo.exec('makeSharable', imgs[x]);
-			}
-		}	
-		Meebo.exec('makeAllSharable', {minImageHeight:80});
-	}
-</script>
-<div id="meebo" style="display:none"><iframe id="meebo-iframe" src="/meebo.v8.html?network=gamevance"></iframe></div>
-<table width="966" cellspacing="0" cellpadding="0" align="center" border="0">
-  <tbody><tr>
-    <td width="0"></td>
-    <td><table class="borderTable" cellspacing="0" cellpadding="0" width="964" align="center" border="0" bgcolor="#ffffff">
-      <tbody>
-      <tr>
-        <td colspan="3" valign="top" align="left" bgcolor="#ffffff">
-          <table cellspacing="0" cellpadding="0" width="964" border="0">
-            <tbody>
+		<script type="text/javascript">
+  if (typeof Meebo == 'undefined') {
+    Meebo=function(){(Meebo._=Meebo._||[]).push(arguments)};
+    (function(q){
+      var d=document,b=d.body;
+      if(!b){var cb=arguments.callee;return setTimeout(function(){cb(q)},100);}
+      var m=b.insertBefore(d.createElement('div'), b.firstChild), s=d.createElement('script');
+      m.id='meebo'; m.style.display='none'; m.innerHTML='<iframe id="meebo-iframe" frameBorder="0"></iframe>';
+      s.src='http'+(q.https?'s':'')+'://'+(q.stage?'stage-':'')+'cim.meebo.com/cim/cim.php?network='+q.network;
+
+      d.getElementsByTagName('head')[0].appendChild(s);
+
+     })({network: 'gamevance', stage: false});
+  }
+		
+		  </script>       
+       <div id="pwrapper">
+	<div id="pcontent">
+<!-- <HEADER> -->
+		<table class="pheader">
+						<tbody><tr>
+							<td class="pheader-left">
+							</td>
+							<td class="pheader-middle">					<table width="100%" style="border-collapse: collapse;">
+						<tbody><tr>
+							<td class="pheader-logo" onclick="GV.goTo('http://www.gamevance.com/index.php');"><img src="http://af.gv.facdn.com/gv/content/images/t.gif" width="25" height="25" alt="Play Online Games and Win Prizes at Gamevance" border="0"></td>
+							<td align="right">
+	<!-- <Logo> -->
+								<table style="border-collapse: collapse;margin-top:6px;">
+									<tbody><tr>
+										<td class="gicon gmember">
+										</td><td class="pr20">Not A Member? <a href="http://www.gamevance.com/join.php" class="b">Join Free</a></td>
+                              <td class="gicon ghome">
+										</td><td onclick="return GV.makeHome(this);" class="hand">Make Gamevance My Homepage</td>
+									</tr>
+								</tbody></table>
+	<!-- </Logo> -->
+	<!-- <LoginForm> -->
+                        <form id="login_form" name="login_form" action="">
+                           <table class="pheader-login">
+                              <tbody><tr>
+                                 <td width="15"></td>
+                                 <td class="form-title b">
+                                    <div style="margin-top:7px;">
+													Username:<br>
+												  <input name="mem_u" maxlength="60" class="inputField" type="text">
+											  </div>
+                                 </td>
+                                 <td class="form-title b">
+                                     <div style="margin-top:7px;">
+													 Password:<br>
+													 <input name="mem_p" maxlength="60" class="inputField" type="password" onkeypress="return checkLoginForm('login_form',event);">
+												 </div>
+                                 </td>
+                                 <td align="right" valign="bottom">
+												<div style="margin-bottom:7px;">
+													<a href="#" class="btn btn-signin" onclick="return checkLoginForm('login_form');">
+														<img src="http://af.gv.facdn.com/gv/content/images/t.gif" width="10" height="5" border="0" alt="Sign In to Play Games">
+													</a>
+												</div>
+                                    <input type="hidden" name="mem_submit" value="1">
+                                    <input type="hidden" name="a" value="">
+                                 </td>
+                              </tr>
+                                                        </tbody></table>
+                        </form>
+	<!-- </LoginForm> -->
+							</td>
+						</tr>
+					</tbody></table>
+	<!-- <MainMenu> -->
+					<table id="menu" style="margin-top:10px;" border="0" cellspacing="0" cellpadding="0">
+						<tbody><tr>
+							<td class="menu-item-left">
+							</td><td class="menu-item pl30"><a href="http://www.gamevance.com/index.php" class="main-menu mmhome" title="Gamevance Home"><img src="http://af.gv.facdn.com/gv/content/images/t.gif" width="10" height="5" alt="Gamevance Home" border="0"></a></td>
+							<td class="menu-item"><a href="http://www.gamevance.com/tournament_games.php" class="main-menu mmtgames" title="Tournament Games"><img src="http://af.gv.facdn.com/gv/content/images/t.gif" width="5" height="5" alt="Tournament Games" border="0"></a></td>
+							<td class="menu-item"><a href="http://www.gamevance.com/free_gamevance_games.php" class="main-menu mmfgames" title="Free Games"><img src="http://af.gv.facdn.com/gv/content/images/t.gif" width="10" height="5" alt="Free Online Games" border="0"></a></td>
+							<td class="menu-item"><a href="http://www.gamevance.com/win_prizes.php" class="main-menu mmprizes" title="Win Prizes"><img src="http://af.gv.facdn.com/gv/content/images/t.gif" width="10" height="5" alt="Win Prizes" border="0"></a></td>
+							<td class="menu-item"><a href="http://www.gamevance.com/leaderboard_daily_tournament.php" class="main-menu mmscores" title="High Scores"><img src="http://af.gv.facdn.com/gv/content/images/t.gif" width="10" height="5" alt="High Scores - Leaderboard" border="0"></a></td>
+							<td class="menu-item"><a href="http://www.gamevance.com/winners.php" class="main-menu mmwinners" title="Our Winners - Hall Of Fame"><img src="http://af.gv.facdn.com/gv/content/images/t.gif" width="10" height="5" alt="Our Winners - Hall Of Fame" border="0"></a></td>
+							<td class="menu-item"><a href="http://www.gamevance.com/browse_player_profiles.php" class="main-menu mmplayers" title="Players"><img src="http://af.gv.facdn.com/gv/content/images/t.gif" width="10" height="5" alt="Players" border="0"></a></td>
+							<td class="menu-item-join"><a href="http://www.gamevance.com/join.php" class="main-menu mmjoin" title="Join Free"><img src="http://af.gv.facdn.com/gv/content/images/t.gif" width="10" height="5" alt="Join Free" border="0"></a></td>
+							<td class="menu-item-right">
+						</td></tr>
+					</tbody></table>
+	<!-- </MainMenu> -->
+				</td>
+							<td class="pheader-right">
+							</td>
+						</tr>
+				   </tbody></table><!-- </HEADER> -->
+<span id="ctl0_mainStatus_mainMessageBox" class="messagebox messagebox_info" style="display:none"></span><br class="lh10">
+<noscript>
+   <div align='center' class="style21">
+      <br />
+      <font color='#FF0000'>
+         Gamevance requires your browser to be JavaScript enabled.<br />
+         Click <a href='javascript.php'>HERE</a> for instructions.<br />
+      </font>
+      <br />
+   </div>
+</noscript>
+
+<!-- <CONTENT> -->
+
+<table class="main-page-background">
+						<tbody><tr>
+							<td class="main-top-left">
+							</td>
+							<td class="main-top-center">
+							</td>
+							<td class="main-top-right">
+							</td>
+						</tr>
+						<tr>
+							<td class="main-center-left">
+							</td>
+							<td class="main-center-center"> <table id="main-holder">
+     <tbody><tr>
+         <td colspan="2">
+
+                      <table style="border-collapse:collapse;width:100%;">
+                 <tbody><tr>
+                     <td align="left" width="200" valign="bottom" class="header-one-game">
+                         <table class="simple-table-wraper-transparent">
+						<tbody><tr>
+							<td class="simple-top-left">
+							</td>
+							<td class="simple-top-center">
+							</td>
+							<td class="simple-top-right">
+							</td>
+						</tr>
+						<tr>
+							<td class="simple-center-left">
+							</td>
+							<td class="simple-center-center">                             <table>
+                                 <tbody><tr>
+                                     <td>
+                                         <a href="play_ninja-rabbit_game.php"><img src="http://af.gv.facdn.com/gv/content/generated/images/games/game/176.gif" alt="Play Games Ninja Rabbit" border="0" class="boxLine"></a>
+                                     </td>
+                                     <td class="game-text-holder">
+                                         <span class="game-tittle">Ninja Rabbit</span>
+                                         <br>
+                                         <span class="game-text">Help Ninja Rabbit invade the Temple of Risu to collect stolen treasure...</span>
+                                     </td>
+                                 </tr>
+                             </tbody></table>
+                         		</td>
+							<td class="simple-center-right">
+							</td>
+						</tr>
+						<tr>
+							<td class="simple-bottom-left">
+							</td>
+							<td class="simple-bottom-center">
+							</td>
+							<td class="simple-bottom-right">
+							</td>
+						</tr>
+					</tbody></table>                     </td>
+                     <td valign="bottom" align="right" style="padding-bottom:2px;">
+                        <div>
+                           <img src="http://af.gv.facdn.com/gv/content/images/Advertisement.png" width="85" height="11" alt=""><br>
+                           <iframe class="add-iframe" xml:src="http://www.gamevance.com/banner.php?w=728&amp;h=90&amp;b=24" width="728" height="90" align="middle" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
+                         </div>
+                     </td>
+                 </tr>
+             </tbody></table>
+
+         </td>
+    </tr>
+
+    <tr>
+       <td height="10" colspan="2"></td>
+    </tr>
              <tr>
-              <td valign="top" align="left" width="5" background="http://aa.gv.facdn.com/gv/images/menubg.gif" height="25">
-                <img height="25" src="http://aa.gv.facdn.com/gv/images/menu1_01.jpg" width="5"></td>
-              <td valign="top" align="left" width="94" background="http://aa.gv.facdn.com/gv/images/menubg.gif" height="25">
-                <a onmouseover="MM_swapImage('homebtn','','http://aa.gv.facdn.com/gv/images/menu_02.gif',1)" onmouseout="MM_swapImgRestore()" href="index.php">
-                <img id="homebtn" height="25" title="Home" src="http://aa.gv.facdn.com/gv/images/menu1_02.gif" width="94" border="0" name="homebtn" meebo:title="" meebo:url="https://web.archive.org/web/20091230034855id_/http%3A//www.gamevance.com/index.php"></a></td>
-              <td valign="top" align="left" width="160" background="http://aa.gv.facdn.com/gv/images/menubg.gif" height="25">
-                <a onmouseover="MM_swapImage('Image3','','http://aa.gv.facdn.com/gv/images/menu_03.gif',1)" onmouseout="MM_swapImgRestore()" href="tournament_games.php">
-                <img id="Image3" height="25" title="Tournament Games" src="http://aa.gv.facdn.com/gv/images/menu1_03.gif" width="160" border="0" name="Image3" meebo:title="" meebo:url="https://web.archive.org/web/20091230034855id_/http%3A//www.gamevance.com/tournament_games.php"></a></td>
-              <td valign="top" align="left" width="160" background="http://aa.gv.facdn.com/gv/images/menubg.gif" height="25">
-                <a onmouseover="MM_swapImage('Image4','','http://aa.gv.facdn.com/gv/images/menu_04.gif',1)" onmouseout="MM_swapImgRestore()" href="free_gamevance_games.php">
-                <img id="Image4" height="25" title="Free Online Games" src="http://aa.gv.facdn.com/gv/images/menu1_04.gif" width="160" border="0" name="Image4" meebo:title="" meebo:url="https://web.archive.org/web/20091230034855id_/http%3A//www.gamevance.com/free_gamevance_games.php"></a></td>
-              <td valign="top" align="left" width="118" background="http://aa.gv.facdn.com/gv/images/menubg.gif" height="25">
-                <a onmouseover="MM_swapImage('Image5','','http://aa.gv.facdn.com/gv/images/menu_05.gif',1)" onmouseout="MM_swapImgRestore()" href="leaderboard_daily_tournament.php">
-                <img id="Image5" height="25" title="High Scores" src="http://aa.gv.facdn.com/gv/images/menu1_05.gif" width="118" border="0" name="Image5" meebo:title="" meebo:url="https://web.archive.org/web/20091230034855id_/http%3A//www.gamevance.com/leaderboard_daily_tournament.php"></a></td>
-              <td valign="top" align="left" width="118" background="http://aa.gv.facdn.com/gv/images/menubg.gif" height="25">
-                <a onmouseover="MM_swapImage('Image6','','http://aa.gv.facdn.com/gv/images/menu_06.gif',1)" onmouseout="MM_swapImgRestore()" href="winners_1.php">
-                <img id="Image6" height="25" title="Hall of Fame" src="http://aa.gv.facdn.com/gv/images/menu1_06.gif" width="118" border="0" name="Image6" meebo:title="" meebo:url="https://web.archive.org/web/20091230034855id_/http%3A//www.gamevance.com/winners_1.php"></a></td>
-              <td valign="top" align="left" width="94" background="http://aa.gv.facdn.com/gv/images/menubg.gif" height="25">
-                <a onmouseover="MM_swapImage('Image7','','http://aa.gv.facdn.com/gv/images/menu_07.gif',1)" onmouseout="MM_swapImgRestore()" href="browse_player_profiles.php">
-                <img id="Image7" height="25" title="Profiles" src="http://aa.gv.facdn.com/gv/images/menu1_07.gif" width="94" border="0" name="Image7" meebo:title="" meebo:url="https://web.archive.org/web/20091230034855id_/http%3A//www.gamevance.com/browse_player_profiles.php"></a></td>
-              <td valign="top" align="left" width="964" background="http://aa.gv.facdn.com/gv/images/menubg.gif">
-                <a href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.gamevance.com');">
-                <img height="25" title="" src="http://aa.gv.facdn.com/gv/images/menu_08.gif" width="213" border="0" meebo:title="" meebo:url="https://web.archive.org/web/20091230034855id_/http%3A//www.gamevance.com/privacy_policy.php#"></a></td>
-             </tr>
-            </tbody>
-          </table>
-          <table cellspacing="0" cellpadding="0" width="964" border="0">
-            <tbody>
-            <tr>
-              <td valign="top" align="left" width="964" background="http://aa.gv.facdn.com/gv/images/headerblubg.gif" height="112">
-                <table cellspacing="0" cellpadding="0" width="964" border="0">
-                  <tbody>
-                  <tr>
-                    <td valign="top" align="left" width="5">&nbsp;</td>
-                    <td width="219"><div id="logo"><a href="index.php" title="Gamevance :: Play free games and win prizes"><img src="http://aa.gv.facdn.com/gv/images/logo.png" width="219" height="112" border="0" meebo:title="Gamevance :: Play free games and win prizes" meebo:url="https://web.archive.org/web/20091230034855id_/http%3A//www.gamevance.com/index.php"></a></div></td>
-                    <td valign="top" align="left">&nbsp;</td>
-                    <td valign="top" align="left" width="728">
-                      <table cellspacing="0" cellpadding="0" width="728" border="0">
-                        <tbody>
-                        <tr>
-                          <td valign="bottom" height="16">
-                            <div class="style1" align="right">Ad</div></td>
-                        </tr>
-                        </tbody>
-                      </table>
-                      <table class="borderTable2" cellspacing="0" cellpadding="0" width="728" border="0">
-                        <tbody>
-                        <tr>
-                           <td valign="top" align="left" width="728" bgcolor="#ffffff" height="90">
-                              <iframe src="http://gamevance.com/banner.php?p=R&amp;w=728&amp;h=90" width="728" height="90" align="middle" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
-                           </td>
-                        </tr>
-                        </tbody>
-                      </table>
-                    </td>
-                    <td valign="top" align="left">&nbsp;</td>
-                  </tr>
-                  </tbody>
-                </table>
-              </td>
-            </tr>
-            </tbody>
-          </table>
-                    <table cellspacing="0" cellpadding="0" width="964" border="0">
-            <tbody>
-            <form name="login_form" method="POST" action="https://ssl.gamevance.com/members_login.php"></form>
-            <tr>
-              <td valign="top" align="left" width="20" height="30">&nbsp;</td>
-              <td valign="bottom" align="left" width="382" height="25">
-                <a href="member_register.php">
-                <img title="Sign Up" height="25" src="http://aa.gv.facdn.com/gv/images/signupslogan.gif" width="382" border="0" meebo:title="" meebo:url="https://web.archive.org/web/20091230034855id_/http%3A//www.gamevance.com/member_register.php"></a></td>
-              <td valign="bottom" align="left" width="93" height="25">
-                <a href="member_register.php">
-                <img title="Sign Up" height="25" src="http://aa.gv.facdn.com/gv/images/signup.gif" width="93" border="0" meebo:title="" meebo:url="https://web.archive.org/web/20091230034855id_/http%3A//www.gamevance.com/member_register.php"></a></td>
-              <td valign="middle" align="right"><table cellspacing="0" cellpadding="0" border="0">
-                   <tbody><tr>
-                      <td valign="top" align="right" nowrap=""><span class="style3"><a class="style3" href="member_forgot_password.php">Forgot Password?</a></span>&nbsp;&nbsp;&nbsp;</td>
-                      <td valign="top"><input name="mem_u" type="text" class="LOGTextField" maxlength="20" value="Username" onfocus="javascript:LOGclearInput1()" onblur="javascript:LOGcheckInput1()"></td>
-                      <td width="2"></td>
-                      <td valign="top" id="td_pas_temp"><input name="mem_p_temp" id="mem_p_temp" type="text" class="LOGTextField" maxlength="20" value="Password" readonly="" onfocus="javascript:LOGclearInput2()"></td>
+           <td class="main-holder-mastercol">
+           		<table class="general-table-wraper">
+						<tbody><tr>
+							<td class="general-top-left"></td>
+							<td class="general-top-center"><h4 style="width:100%;">We Respect Your Privacy</h4></td>
+							<td class="general-top-right"></td>
+						</tr>
+						<tr>
+							<td class="general-center-left">
+							</td>
+							<td class="general-center-center">                      
+                     <br class="lh10">
+                      <div align="center">
+                        <div style="width:95%">
+                           	<table align="center" class="copy">
+	<tbody><tr><td>
 
-                      <td valign="top" id="td_pas"><input name="mem_p" id="mem_p" type="password" class="LOGTextField" style="visibility:hidden;position:absolute" maxlength="20"></td>
-                      <td width="5"></td>
-                  </tr>
-                </tbody></table></td>
-              <td><input type="image" tabindex="3" src="http://aa.gv.facdn.com/gv/images/signin.gif" name="mem_submit" title="Sign In"></td>
-              <td width="20">&nbsp;</td>
-            </tr>
-            <tr colspan="7" height="5"><td></td></tr>
-            <input type="hidden" name="a" value="">
-				            
-            </tbody>
-          </table>
-          
-          <noscript>
-            <div align='center' class="style21">
-               <br />
-               <font color='#FF0000'>
-                  Gamevance requires your browser to be JavaScript enabled.<br>
-                  Click <a href='javascript.php'>HERE</a> for instructions.<br />
-               </font>
-               <br />
-            </div>
-          </noscript>
-        </td>
-      </tr>
-   
-   <tr>
-      <td><table width="964" height="10" border="0" cellspacing="0" cellpadding="0">
-            <tbody>
-            <tr>
-               <td width="11"></td>
-               <td width="471" align="left" class="style1 style13">&nbsp;</td>
-               <td width="471" align="right" class="style1 style13">Ad</td>
-               <td width="11"></td>
-            </tr>
-            </tbody>
-         </table></td>
-   </tr>
-   <tr>
-      <td><table width="964" border="0" cellspacing="0" cellpadding="0">
+         <table width="100%">
             <tbody><tr>
-               <td width="11"></td>
-               <td align="center" width="160" valign="top">
-                  <!-- Google Text Ads Code START -->
-                  <script type="text/javascript"><!--
-                     google_ad_client = "pub-9433843186460340";
-                     google_ad_width = 160;
-                     google_ad_height = 600;
-                     google_ad_format = "160x600_as";
-                     google_ad_type = "text_image";
-                     google_ad_channel = "";
-                     google_color_border = "FFFFFF";
-                     google_color_bg = "FFFFFF";
-                     google_color_link = "0000FF";
-                     google_color_text = "000000";
-                     google_color_url = "FF6FCF";
-                  //--></script>
-                  <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-                  </script>
-                  <!-- Google Text Ads Code END -->
-               </td>
-               <td width="11"></td>
-               <td width="600" align="center" valign="top">
-                  <table align="center" valign="top" class="modWide_tall">
-                     <tbody><tr>
-                        <td align="center" valign="top" class="modWide_top">
-
-   <div align="left" class="BigType">We Respect your Privacy</div><br>
-
-<div align="left"><table align="center" width="560" class="copy">
-<tbody><tr><td>
-
-<p align="center"><strong>GAMEVANCE PRIVACY POLICY</strong></p>
-
-<p align="justify">
-   Gamevance makes this Website (the "Site") available to registered members of the Site ("Members"), subject to this privacy policy (the "Policy") and the Gamevance Terms and Conditions (also referred to as the "End User License Agreement" or "EULA"). This Policy explains what information Gamevance collects about Members on the Site and how Gamevance uses and maintains the information. By becoming a Member of Gamevance and using the Site, you signify your acceptance of this Policy. IF YOU DO NOT AGREE TO THE TERMS OF THIS POLICY, IN WHOLE OR IN PART, YOU SHOULD NOT USE THIS SITE OR BECOME A MEMBER.  IF YOU ARE A MEMBER AND DO NOT AGREE WITH THE TERMS OF THIS POLICY, YOU MUST IMMEDIATELY TERMINATE YOUR ACCOUNT. See the "Terminate Account" section below.
-</p>
-<p align="justify">
-   Throughout this Policy we refer to information that can identify you as a specific individual - such as your name, telephone number, email address, and social security number - as Personally Identifiable Information ("PII").  At Gamevance we take the privacy of our Members and the security of their PII very seriously.  You have the right to know what PII we collect, how it is protected and used and the circumstances under which it may be disclosed, and this Policy is designed to provide you with that information.
-</p>
-<p align="justify">
-   This Policy applies only to information collected on the Site and not to information collected or obtained from other sources.
-</p>
-<p align="justify">
-   Gamevance offers games available on the Internet free of charge at the Site in exchange for your agreement to install Gamevance Software (the "Software"), which will display pop-up, pop-under and other types of advertisements on your computer based on the information we collect as stated in this Policy. <strong>However, no PII is collected through the Software, so the first part of this Policy relating to the collection and use of PII applies only to registering to set up an account with Gamevance, participating in tournaments and collecting prizes.</strong>  The remainder of the Policy is applicable to the Software as well as the Site.
-</p>
-<p align="justify">
-   <strong>Collection of Personally Identifiable Information</strong><br>
-   Gamevance collects PII in the following ways:<br>
-   <br>
-
-   </p><ul>
-      <li><p align="justify">In order to use the Site, you must register to set up an account, providing your email address and creating a user name (an alias that will be your player name) and a password.  You also need to provide a photo (or elect to use the default photo provided by the Site) and create a user profile.  Gamevance works with other companies to offer its content and services to users of their Web sites ("Partner Sites"). Even if you enter Gamevance from a Partner Site, you will need to register through Gamevance, and, therefore, this Policy applies to Gamevance's collection of your PII.</p>
-      </li><li><p align="justify">In order to have prizes awarded to your Gamevance account, you need to provide your first and last name, e-mail address, contact phone number and mailing address so that you can be notified and make arrangements for delivery of your prize.  You also are required, in order to collect a prize, to provide your age, date of birth, a photo and a photo id that matches your photo and address, so that Gamevance can verify your identity and maintain the integrity of its operations.  You are also requested, but not required, to provide additional demographic information, such as your geographic location, gender and ethnicity, for inclusion on the Gamevance "Winners' Page."</p>
-      </li><li><p align="justify">When you notify us of a problem with the operation of the Site or submit a suggestion, complaint, question, request, or any other e-mail correspondence, Gamevance asks for your e-mail address so that you can receive a response. This information will only be used to notify you of receipt of your submission and of a resolution to the inquiry.</p>
-      </li><li><p align="justify">By registering for an account, you agree that Gamevance may display your player name and competition results. You also give us the right to use your name and likeness in any publicity regarding prizes that you win, regardless of the cash amount or value of the prize.</p>
-      </li><li><p align="justify">In addition, Gamevance also reserves the right to use the PII collected to occasionally notify you about important functionality changes to our Site, as well as new services and special offers you may find valuable.  You can opt out of these emails during the registration process, by accessing the "Manage Profile" feature of  "Your Account" on the Member home page, by following the "unsubscribe" instructions in any email  or by terminating your account (see the "Opt Out of Gamevance Emails" section below).  See the "Terminate Account" section below.</p>
-      </li><li><p align="justify">If you are a USA taxpayer and your total winnings on Gamevance in any given calendar year reach a total of $600, Gamevance will request that you submit your social security number in order to send you a Form 1099, as required by Internal Revenue Service regulations. Failure to provide your social security number at that time will prevent you from participating in game tournaments.</p>
-      </li><li><p align="justify">If you choose to invite a friend to join Gamevance through our Tell A Friend feature, we will ask you for your friend's email address so that you can send a personal message inviting him or her to visit the Site.  Gamevance stores this information in a database so that we may in the future send a follow-up invitation to join the Site.</p>
-   </li></ul>
-<p></p>
-<p align="justify">
-   <strong>Updating Your Personally Identifiable Information.</strong><br>
-   You may review your PII at the Manage Profile and Account Settings pages. There you can modify PII that is no longer accurate.  If you wish to delete your PII you must terminate your account.  See the "Terminate Account" section below.
-</p>
-<p align="justify">
-   <strong>Use and Sharing of Personally Identifiable Information</strong><br>
-   Gamevance reserves the right to use PII: (1) for the specific purpose for which such information was provided; (2) as disclosed at the time such information is provided; or (3) as disclosed in this Policy. However, please note that Gamevance LLC may change this Policy at any time (See "Changes to this Policy" below), and that therefore Gamevance may in the future use PII for additional purposes not currently included in this Policy. Please check this Policy frequently for this important information.<br>
-   <br>
-   Gamevance may share PII (except for social security number and photo ID's, which are never shared with third parties unless required by law) with third parties, including its Partner Sites, parties who advertise on the Site ("Third Party Advertisers", search partners, sponsors, independent contractors, service providers and marketers, lookup and reference services, and any other entities that Gamevance believes are able to provide Members with special offers and opportunities. Note that although Gamevance advises everyone who receives PII from Gamevance to support this Policy and contractually requires its Third Party Advertisers to treat the PII in accordance with this Policy, Gamevance has no control over such party's information management practices and is not responsible for any failure of such party to adhere to this Policy. If you do not provide the required PII or do not agree that Gamevance may share your PII with such entities, you may not register as a Member, and if you are already a Member, you must immediately terminate your account, by following the instructions in the "Terminate Account" section below. Additionally, Gamevance may share Member PII in aggregate, non-personal form, with select companies that wish to reach a particular Member target audience. This information will allow these entities to provide relevant offers to a specific group of Members. In the event Gamevance goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your PII will likely be among the assets transferred.  You will be notified by a prominent notice on our Site for 30 days of any such change in ownership or control of your PII.<br>
-   <br>
-   Finally, Gamevance reserves the right to disclose PII as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Site.
-</p>
-<p align="justify">
-   <strong>Non-Personally Identifiable Information</strong><br>
-   Gamevance also collects certain non-personally identifiable information about your web surfing and computer usage, including the non-personally identifiable information more fully described below.
-</p>
-<p align="justify">
-   As is true of most websites, we gather certain information automatically and store it in log files.  This anonymous technical and statistical information is collected whenever you visit our Site, and we use this information to customize your experience on Gamevance, to help us improve the quality of the Site and make your visits to the Site easy, convenient and fun.  This type of information may include things such as your IP (Internet protocol) address, Internet service provider, operating system, type of browser, geographic location, pages viewed on Gamevance, player rating information, cash and prize winnings and game statistics. Although this information is related to your preferences and activity, it is not associated with your PII and cannot be linked to you personally.<br>
-   <br>
-   To deliver Gamevance ads, Gamevance associates the non-personally identifiable information that we collect to an anonymous, randomly-generated Member id to create a profile of the categories of products or services in which Members appear to be interested.  We may also use information we collect to infer certain Member demographic information, such as gender, age range and marital status. Gamevance collects your IP address to help diagnose problems with Gamevance's server, and to administer this Site.<br>
-   <br>
-   We also aggregate anonymous data regarding Members' online behavior to better understand how consumers use the Web.  To that end, we may use aggregated, anonymous online traffic behavior to report emerging Web usage trends to the press or to the public or to develop reports for our corporate clients so that they can better understand trends in online consumer behavior and how those trends relate to their businesses.<br>
-   <br>
-   We use cookies, web beacons clear GIFs, and other monitoring technologies to gather anonymous information, as described in more detail below.<br>
-   <br>
-   <u>Cookies.</u> Gamevance uses "cookies" on the Site. Cookies are small data files that Gamevance's server places on an individual's computer hard drive to enable the individual to more easily communicate and interact with the Site and Gamevance e-mails. For example, Gamevance will place a cookie on a Member's computer when he/she initially registers with the Site. The next time that Member visits the Site, Gamevance's server will recognize the cookie (and the Member) and allow the Member to play the game immediately without signing in.  Cookies also enable us, or our advertisers, to use anonymous behavioral profiles and demographic inferences to increase the relevance of online ads you receive.  Some Gamevance ads include "web beacons" and some of our advertisers may include web beacons on some of their web pages at our request.  These web beacons allow us to access the cookies we set and provide ad campaign analysis.  While some Web browsers allow a Member to automatically reject all cookies or be notified when a cookie is about to be placed on the Member's computer, disabling this feature may compromise the efficiency and added services that cookies provide.  In the event the Software is uninstalled, no cookies or tracking assets will remain.<br>
-   <br>
-   <u>Clear GIFs.</u> Gamevance uses a common technology known as a "Clear GIF" or "1-by-1 Pixel" on the Site and in e-mail communications with Members. A Clear GIF, or "graphic interface format" is a small graphic (in fact, truly a 1x1 pixel) that Gamevance (or a partner or agent of Gamevance) places on the Site or in an e-mail. GIFs, which do not contain any PII, provide Gamevance with important information about how Members use the Site and respond to e-mail messages. With this information, Gamevance is better able to track the performance of certain promotions and understand the effectiveness of particular creative e-mail presentations. Gamevance may also allow its advertisers and promotional partners the ability to use GIFs on the Site solely to track Members who link from their respective sites to this Site, but this ability to track such activity does not allow these entities access to Member PII. Although the information collected through the foregoing methods does not itself contain any PII, Gamevance may analyze and match such information with other information that you provide (including PII) as well as information that Gamevance may obtain elsewhere, and Gamevance may share all or some of such information with partners, prospective partners, and other affiliated or unaffiliated third parties. Gamevance may also disclose any of the non-personally identifiable information described above in order to (1) comply with applicable laws, (2) respond to governmental inquiries, (3) comply with valid legal process, or (4) protect the rights or property of Gamevance or its Members and users of the Site.
-</p>
-<p align="justify">
-   <strong>Linking of Information</strong><br>
-   Gamevance may combine information provided by a Member with information obtained from other sources. Enhancing Member files with this other information will allow Gamevance to provide Members with more relevant services, email promotional offers, and direct mail pieces. For example, a Member's user profile will automatically be updated with any information that the Member enters on any of the Network Sites. Likewise, any information provided to Gamevance will be used to update the Member's profile on the Network Sites.
-</p>
-<p align="justify">
-   <strong>Security</strong><br>
-   The security and confidentiality of your PII is extremely important to us.  We have implemented technical, administrative and physical security measures to protect PII from unauthorized access and improper use.  We keep PII on servers that are protected by firewalls and located in a physically secure facility, accessible only to authorized Gamevance employees. All PII is encrypted using SSL, and we use additional proprietary software to further increase security.  From time to time, we review our security procedures in order to consider appropriate new technology and methods.  Please be aware though, that, despite our reasonable efforts, no security measures are impenetrable and any connection or information transmitted to Gamevance will be at your own risk.
-</p>
-<p align="justify">
-   <strong>Opt-Out of Gamevance E-mails</strong><br>
-   When you register to become a Member on the Site, you will be provided with the opportunity to receive promotional offers via e-mail from partners of Gamevance. While some of these opportunities will only be sent to you if you expressly request them, others may be sent to you unless you elect not to receive them. Accordingly, when you register, please review these offers carefully. Members may, at any time, choose not to receive promotional e-mails from Gamevance, the Network Sites or partners of Gamevance by accessing the "Manage Profile" feature of  "Your Account" on the Member home page, by following the "unsubscribe" instructions in any e-mail, or by terminating their Gamevance account.  See the "Terminate Account" section below. Notwithstanding the foregoing, Gamevance may at any time contact Members for the purpose of communicating important information about Gamevance to Members. If we have shared your information with one of our partners, unsubscribing from our list will not prevent these third parties from emailing you.
-</p>
-<p align="justify">
-   <strong>Third Party Cookies</strong><br>
-   In the course of serving advertisements to this Site, Third Party Advertisers or ad servers may place or recognize a unique cookie on your browser. The use of cookies by such Third Party Advertisers or ad servers is not subject to this Policy, but is subject to their own respective privacy policies.
-</p>
-<p align="justify">
-   <strong>Links from the Site</strong><br>
-   Gamevance provides links to the websites of many of Gamevance's Third Party Advertisers and Partner Sites. If you link to any of these third party Web sites, this Policy will not apply to your use of, and activities on, those sites. We encourage you to read the legal notices posted on these sites, including their privacy policies. Gamevance shall have no responsibility or liability for your visitation to, and the data collection and use practices of, these sites. All inquiries concerning the use of Member PII by a third party must be communicated to that third party, and not to Gamevance.
-</p>
-<p align="justify">
-   <strong>International Law</strong><br>
-   Membership in the Site and participation in tournaments is available only to residents of the U.S.  Please note that should any law present in the nation where you conduct business be such that any product, service, or activity conducted by, on, or via our Site is banned, regulated, controlled or illegal then you are asked not to participate in any service, product or activity offered by, on or via this Site.
-</p>
-<p align="justify">
-   <strong>Note Concerning Users Under 18 Years of Age</strong><br>
-   The Site, the Gamevance e-mails and the content available in connection therewith, are neither intended for, nor directed to, persons under the age of 18.  If Gamevance learns that a person who registers on the Site is under the age of 18, Gamevance will promptly terminate that individual's membership.
-</p>
-<p align="justify">
-   <strong>Children's Privacy</strong><br>
-   This Site is not open to children. Accordingly, we do not intend to collect PII from anyone we know to be under 13 years of age.
-</p>
-<p align="justify">
-   <strong>Terminate Account</strong><br>
-   Members of the Site who disagree with any provision of this Policy must immediately terminate their account with Gamevance. Accounts may be terminated by emailing <a href="mailto:unsubscribe@gamevance.com">unsubscribe@gamevance.com</a>, by going to <a href="deactivate.php">http://www.gamevance.com/deactivate.php</a>, or by selecting the appropriate entry in your Control Panel using the "Add or Remove Programs" icon.  Gamevance reserves the right to terminate any Member who violates its policies and rules.
-</p>
-<p align="justify">
-   <strong>Changes to this Policy</strong><br>
-   Gamevance may, from time to time, amend this Policy, in whole or part, in its sole discretion. Any changes to this Policy will be effective immediately upon the posting of the revised Policy on the Site. Changes will be reflected by the "Last Updated" reference below.  Depending on the materiality of the change, Gamevance may announce the change (1) on the home page of the Site, or (2) provide such notice via e-mail to Members. By continuing to use the Site following any changes or by remaining a Member, you will be deemed to have agreed to such changes.
-</p>
-<p align="justify">
-   <strong>QUESTIONS AND CONCERNS</strong><br>
-   <br>
-   If you have any questions or concerns about this Policy or its implementation, please email us at <a href="mailto:privacy@gamevance.com">privacy@gamevance.com</a>.  For general questions about the Site, please email us at <a href="mailto:support@gamevance.com">support@gamevance.com</a>.  Alternatively, you may call our Customer Service number, 1-866-638-4441.<br>
-   <br>
-   <br>
-   Effective: July 21, 2008<br>
-   Last Updated:  July 21, 2008
-</p>
-</td></tr>
-</tbody></table>
-</div>
-
-   
-                           <br>
-                        </td>
-                     </tr>
-                     <tr class="modWide_bottom"><td></td></tr>
-                  </tbody></table>
-                  <br style="line-height:8px">
-               </td>
-               <td width="11"></td>
-               <td valign="top" width="160">
-                  <div align="center"><iframe src="banner.php?p=R&amp;w=160&amp;h=600" width="160" height="600" align="middle" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe></div>
-                  <br style="line-height:10px">
-               </td>
-               <td width="11"></td>
+               <td align="center" width="95%"><strong>GAMEVANCE PRIVACY POLICY</strong></td>
+               <td align="right"><a href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.gamevance.com&amp;sealid=101"><img src="http://af.gv.facdn.com/gv/content/images/truste_seal_ctv.gif" border="0"></a></td>
             </tr>
-            </tbody>
-         </table>
-      </td>
-   </tr>
-   
-   
-   </tbody>
-</table>
-      </td>
-      <td width="0"></td>
-   </tr>
-   </tbody>
-</table>
-<table width="966" cellspacing="0" cellpadding="0" align="center" border="0">
-   <tbody>
-   <tr>
-      <td width="191"></td>
-      <td valign="top" align="left" width="9" height="30"><img height="30" src="http://aa.gv.facdn.com/gv/images/Footer_lt.gif" width="9"></td>
-      <td valign="middle" align="left" background="http://aa.gv.facdn.com/gv/images/Footer_mid.gif">
-         <table cellspacing="0" cellpadding="0" width="948" border="0">
-            <tbody>
-            <tr>
-               <td class="GameMenu" valign="middle" align="left" width="300">© Gamevance 2007 - 2009. All Rights Reserved.</td>
-               <td width="5">&nbsp;</td>
-               <td class="style7" valign="middle" align="right">
-						<a href="about_gamevance.php">About Us</a> |
-                  <a href="http://support.gamevance.com/ics/support/default.asp?deptID=5688" target="_blank">Gamevance Support Center</a> |
-                  <a href="privacy_policy.php">Privacy Policy</a> |
-                  <a href="terms_of_use.php">Terms of Use</a> |
-                  <a href="deactivate.php">Uninstall Gamevance</a> |
-                  <a href="advertisers.php">Advertisers</a>
-               </td>
-            </tr>
-            </tbody>
-         </table>
-      </td>
-      <td valign="top" align="left" width="9" height="30"><img height="30" src="http://aa.gv.facdn.com/gv/images/Footer_rt.gif" width="9"></td>
-      <td width="191"></td>
-   </tr>
-   </tbody>
-</table>
+         </tbody></table>
+	<p class="pp" align="center"></p>
 
-<div align="center">
-   <br>
-   <!-- Google Text Ads Code START -->
-   <script type="text/javascript"><!--
-   google_ad_client = "pub-9433843186460340";
-   google_ad_width = 728;
-   google_ad_height = 90;
-   google_ad_format = "728x90_as";
-   google_ad_type = "text_image";
-   google_ad_channel = "";
-   google_color_border = "FFFFFF";
-   google_color_bg = "FFFFFF";
-   google_color_link = "0000FF";
-   google_color_text = "000000";
-   google_color_url = "FF6FCF";
-   //--></script>
-   <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-   <!-- Google Text Ads Code END -->
-   
+
+	<p class="pp" align="justify">
+	   Gamevance makes this Website (the "Site") available to registered members of the Site ("Members"), subject to this privacy policy (the "Policy") and the Gamevance Terms and Conditions (also referred to as the "End User License Agreement" or "EULA"). This Policy explains what information Gamevance collects about Members on the Site and how Gamevance uses and maintains the information. By becoming a Member of Gamevance and using the Site, you signify your acceptance of this Policy. IF YOU DO NOT AGREE TO THE TERMS OF THIS POLICY, IN WHOLE OR IN PART, YOU SHOULD NOT USE THIS SITE OR BECOME A MEMBER.  IF YOU ARE A MEMBER AND DO NOT AGREE WITH THE TERMS OF THIS POLICY, YOU MUST IMMEDIATELY TERMINATE YOUR ACCOUNT. See the "Terminate Account" section below.
+	</p>
+	<p class="pp" align="justify">
+	   Throughout this Policy we refer to information that can identify you as a specific individual - such as your name, telephone number, email address, and social security number - as Personally Identifiable Information ("PII").  At Gamevance we take the privacy of our Members and the security of their PII very seriously.  You have the right to know what PII we collect, how it is protected and used and the circumstances under which it may be disclosed, and this Policy is designed to provide you with that information.
+	</p>
+	<p class="pp" align="justify">
+	   This Policy applies only to information collected on the Site and not to information collected or obtained from other sources.
+	</p>
+	<p class="pp" align="justify">
+	   Gamevance offers games available on the Internet free of charge at the Site in exchange for your agreement to install Gamevance Software (the "Software"), which will display pop-up, pop-under and other types of advertisements on your computer based on the information we collect as stated in this Policy. <strong>However, no PII is collected through the Software, so the first part of this Policy relating to the collection and use of PII applies only to registering to set up an account with Gamevance, participating in tournaments and collecting prizes.</strong>  The remainder of the Policy is applicable to the Software as well as the Site.
+	</p>
+	<p class="pp" align="justify">
+	   <strong>Collection of Personally Identifiable Information</strong><br>
+	   Gamevance collects PII in the following ways:<br>
+	   <br>
+	
+	   </p><ul>
+	      <li><p class="pp" align="justify">In order to use the Site, you must register to set up an account, providing your email address and creating a user name (an alias that will be your player name) and a password.  You also need to provide a photo (or elect to use the default photo provided by the Site) and create a user profile.  Gamevance works with other companies to offer its content and services to users of their Web sites ("Partner Sites"). Even if you enter Gamevance from a Partner Site, you will need to register through Gamevance, and, therefore, this Policy applies to Gamevance's collection of your PII.</p>
+	      </li><li><p class="pp" align="justify">In order to have prizes awarded to your Gamevance account, you need to provide your first and last name, e-mail address, contact phone number and mailing address so that you can be notified and make arrangements for delivery of your prize.  You also are required, in order to collect a prize, to provide your age, date of birth, a photo and a photo id that matches your photo and address, so that Gamevance can verify your identity and maintain the integrity of its operations.  You are also requested, but not required, to provide additional demographic information, such as your geographic location, gender and ethnicity, for inclusion on the Gamevance "Winners' Page."</p>
+	      </li><li><p class="pp" align="justify">When you notify us of a problem with the operation of the Site or submit a suggestion, complaint, question, request, or any other e-mail correspondence, Gamevance asks for your e-mail address so that you can receive a response. This information will only be used to notify you of receipt of your submission and of a resolution to the inquiry.</p>
+	      </li><li><p class="pp" align="justify">By registering for an account, you agree that Gamevance may display your player name and competition results. You also give us the right to use your name and likeness in any publicity regarding prizes that you win, regardless of the cash amount or value of the prize.</p>
+	      </li><li><p class="pp" align="justify">In addition, Gamevance also reserves the right to use the PII collected to occasionally notify you about important functionality changes to our Site, as well as new services and special offers you may find valuable.  You can opt out of these emails during the registration process, by accessing the "Manage Profile" feature of  "Your Account" on the Member home page, by following the "unsubscribe" instructions in any email  or by terminating your account (see the "Opt Out of Gamevance Emails" section below).  See the "Terminate Account" section below.</p>
+	      </li><li><p class="pp" align="justify">If you are a USA taxpayer and your total winnings on Gamevance in any given calendar year reach a total of $600, Gamevance will request that you submit your social security number in order to send you a Form 1099, as required by Internal Revenue Service regulations. Failure to provide your social security number at that time will prevent you from participating in game tournaments.</p>
+	      </li><li><p class="pp" align="justify">If you choose to invite a friend to join Gamevance through our Tell A Friend feature, we will ask you for your friend's email address so that you can send a personal message inviting him or her to visit the Site.  Gamevance stores this information in a database so that we may in the future send a follow-up invitation to join the Site.</p>
+	   </li></ul>
+	<p></p>
+	<p class="pp" align="justify">
+	   <strong>Updating Your Personally Identifiable Information.</strong><br>
+	   You may review your PII at the Manage Profile and Account Settings pages. There you can modify PII that is no longer accurate.  If you wish to delete your PII you must terminate your account.  See the "Terminate Account" section below.
+	</p>
+	<p class="pp" align="justify">
+	   <strong>Use and Sharing of Personally Identifiable Information</strong><br>
+	   Gamevance reserves the right to use PII: (1) for the specific purpose for which such information was provided; (2) as disclosed at the time such information is provided; or (3) as disclosed in this Policy. However, please note that Gamevance LLC may change this Policy at any time (See "Changes to this Policy" below), and that therefore Gamevance may in the future use PII for additional purposes not currently included in this Policy. Please check this Policy frequently for this important information.<br>
+	   <br>
+	   Gamevance may share PII (except for social security number and photo ID's, which are never shared with third parties unless required by law) with third parties, including its Partner Sites, parties who advertise on the Site ("Third Party Advertisers", search partners, sponsors, independent contractors, service providers and marketers, lookup and reference services, and any other entities that Gamevance believes are able to provide Members with special offers and opportunities. Note that although Gamevance advises everyone who receives PII from Gamevance to support this Policy and contractually requires its Third Party Advertisers to treat the PII in accordance with this Policy, Gamevance has no control over such party's information management practices and is not responsible for any failure of such party to adhere to this Policy. If you do not provide the required PII or do not agree that Gamevance may share your PII with such entities, you may not register as a Member, and if you are already a Member, you must immediately terminate your account, by following the instructions in the "Terminate Account" section below. Additionally, Gamevance may share Member PII in aggregate, non-personal form, with select companies that wish to reach a particular Member target audience. This information will allow these entities to provide relevant offers to a specific group of Members. In the event Gamevance goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your PII will likely be among the assets transferred.  You will be notified by a prominent notice on our Site for 30 days of any such change in ownership or control of your PII.<br>
+	   <br>
+	   Finally, Gamevance reserves the right to disclose PII as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Site.
+	</p>
+	<p class="pp" align="justify">
+	   <strong>Non-Personally Identifiable Information</strong><br>
+	   Gamevance also collects certain non-personally identifiable information about your web surfing and computer usage, including the non-personally identifiable information more fully described below.
+	</p>
+	<p class="pp" align="justify">
+	   As is true of most websites, we gather certain information automatically and store it in log files.  This anonymous technical and statistical information is collected whenever you visit our Site, and we use this information to customize your experience on Gamevance, to help us improve the quality of the Site and make your visits to the Site easy, convenient and fun.  This type of information may include things such as your IP (Internet protocol) address, Internet service provider, operating system, type of browser, geographic location, pages viewed on Gamevance, player rating information, cash and prize winnings and game statistics. Although this information is related to your preferences and activity, it is not associated with your PII and cannot be linked to you personally.<br>
+	   <br>
+	   To deliver Gamevance ads, Gamevance associates the non-personally identifiable information that we collect to an anonymous, randomly-generated Member id to create a profile of the categories of products or services in which Members appear to be interested.  We may also use information we collect to infer certain Member demographic information, such as gender, age range and marital status. Gamevance collects your IP address to help diagnose problems with Gamevance's server, and to administer this Site.<br>
+	   <br>
+	   We also aggregate anonymous data regarding Members' online behavior to better understand how consumers use the Web.  To that end, we may use aggregated, anonymous online traffic behavior to report emerging Web usage trends to the press or to the public or to develop reports for our corporate clients so that they can better understand trends in online consumer behavior and how those trends relate to their businesses.<br>
+	   <br>
+	   We use cookies, web beacons clear GIFs, and other monitoring technologies to gather anonymous information, as described in more detail below.<br>
+	   <br>
+	   <u>Cookies.</u> Gamevance uses "cookies" on the Site. Cookies are small data files that Gamevance's server places on an individual's computer hard drive to enable the individual to more easily communicate and interact with the Site and Gamevance e-mails. For example, Gamevance will place a cookie on a Member's computer when he/she initially registers with the Site. The next time that Member visits the Site, Gamevance's server will recognize the cookie (and the Member) and allow the Member to play the game immediately without signing in.  Cookies also enable us, or our advertisers, to use anonymous behavioral profiles and demographic inferences to increase the relevance of online ads you receive.  Some Gamevance ads include "web beacons" and some of our advertisers may include web beacons on some of their web pages at our request.  These web beacons allow us to access the cookies we set and provide ad campaign analysis.  While some Web browsers allow a Member to automatically reject all cookies or be notified when a cookie is about to be placed on the Member's computer, disabling this feature may compromise the efficiency and added services that cookies provide.  In the event the Software is uninstalled, no cookies or tracking assets will remain.<br>
+	   <br>
+	   <u>Clear GIFs.</u> Gamevance uses a common technology known as a "Clear GIF" or "1-by-1 Pixel" on the Site and in e-mail communications with Members. A Clear GIF, or "graphic interface format" is a small graphic (in fact, truly a 1x1 pixel) that Gamevance (or a partner or agent of Gamevance) places on the Site or in an e-mail. GIFs, which do not contain any PII, provide Gamevance with important information about how Members use the Site and respond to e-mail messages. With this information, Gamevance is better able to track the performance of certain promotions and understand the effectiveness of particular creative e-mail presentations. Gamevance may also allow its advertisers and promotional partners the ability to use GIFs on the Site solely to track Members who link from their respective sites to this Site, but this ability to track such activity does not allow these entities access to Member PII. Although the information collected through the foregoing methods does not itself contain any PII, Gamevance may analyze and match such information with other information that you provide (including PII) as well as information that Gamevance may obtain elsewhere, and Gamevance may share all or some of such information with partners, prospective partners, and other affiliated or unaffiliated third parties. Gamevance may also disclose any of the non-personally identifiable information described above in order to (1) comply with applicable laws, (2) respond to governmental inquiries, (3) comply with valid legal process, or (4) protect the rights or property of Gamevance or its Members and users of the Site.
+	</p>
+	<p class="pp" align="justify">
+	   <strong>Linking of Information</strong><br>
+	   Gamevance may combine information provided by a Member with information obtained from other sources. Enhancing Member files with this other information will allow Gamevance to provide Members with more relevant services, email promotional offers, and direct mail pieces. For example, a Member's user profile will automatically be updated with any information that the Member enters on any of the Network Sites. Likewise, any information provided to Gamevance will be used to update the Member's profile on the Network Sites.
+	</p>
+	<p class="pp" align="justify">
+	   <strong>Security</strong><br>
+	   The security and confidentiality of your PII is extremely important to us.  We have implemented technical, administrative and physical security measures to protect PII from unauthorized access and improper use.  We keep PII on servers that are protected by firewalls and located in a physically secure facility, accessible only to authorized Gamevance employees. All PII is encrypted using SSL, and we use additional proprietary software to further increase security.  From time to time, we review our security procedures in order to consider appropriate new technology and methods.  Please be aware though, that, despite our reasonable efforts, no security measures are impenetrable and any connection or information transmitted to Gamevance will be at your own risk.
+	</p>
+	<p class="pp" align="justify">
+	   <strong>Opt-Out of Gamevance E-mails</strong><br>
+	   When you register to become a Member on the Site, you will be provided with the opportunity to receive promotional offers via e-mail from partners of Gamevance. While some of these opportunities will only be sent to you if you expressly request them, others may be sent to you unless you elect not to receive them. Accordingly, when you register, please review these offers carefully. Members may, at any time, choose not to receive promotional e-mails from Gamevance, the Network Sites or partners of Gamevance by accessing the "Manage Profile" feature of  "Your Account" on the Member home page, by following the "unsubscribe" instructions in any e-mail, or by terminating their Gamevance account.  See the "Terminate Account" section below. Notwithstanding the foregoing, Gamevance may at any time contact Members for the purpose of communicating important information about Gamevance to Members. If we have shared your information with one of our partners, unsubscribing from our list will not prevent these third parties from emailing you.
+	</p>
+	<p class="pp" align="justify">
+	   <strong>Third Party Cookies</strong><br>
+	   In the course of serving advertisements to this Site, Third Party Advertisers or ad servers may place or recognize a unique cookie on your browser. The use of cookies by such Third Party Advertisers or ad servers is not subject to this Policy, but is subject to their own respective privacy policies.
+	</p>
+	<p class="pp" align="justify">
+	   <strong>Links from the Site</strong><br>
+	   Gamevance provides links to the websites of many of Gamevance's Third Party Advertisers and Partner Sites. If you link to any of these third party Web sites, this Policy will not apply to your use of, and activities on, those sites. We encourage you to read the legal notices posted on these sites, including their privacy policies. Gamevance shall have no responsibility or liability for your visitation to, and the data collection and use practices of, these sites. All inquiries concerning the use of Member PII by a third party must be communicated to that third party, and not to Gamevance.
+	</p>
+	<p class="pp" align="justify">
+	   <strong>International Law</strong><br>
+	   Membership in the Site and participation in tournaments is available only to residents of the U.S.  Please note that should any law present in the nation where you conduct business be such that any product, service, or activity conducted by, on, or via our Site is banned, regulated, controlled or illegal then you are asked not to participate in any service, product or activity offered by, on or via this Site.
+	</p>
+	<p class="pp" align="justify">
+	   <strong>Note Concerning Users Under 18 Years of Age</strong><br>
+	   The Site, the Gamevance e-mails and the content available in connection therewith, are neither intended for, nor directed to, persons under the age of 18.  If Gamevance learns that a person who registers on the Site is under the age of 18, Gamevance will promptly terminate that individual's membership.
+	</p>
+	<p class="pp" align="justify">
+	   <strong>Children's Privacy</strong><br>
+	   This Site is not open to children. Accordingly, we do not intend to collect PII from anyone we know to be under 13 years of age.
+	</p>
+	<p class="pp" align="justify">
+	   <strong>Terminate Account</strong><br>
+	   Members of the Site who disagree with any provision of this Policy must immediately terminate their account with Gamevance. Accounts may be terminated by emailing <script type="text/javascript">/*<![CDATA[*/
+				var baseFunctions={Utf8:{encode:function(string){string=string.replace(/\r\n/g,"\n");var utftext="";for(var n=0;n<string.length;n++){var c=string.charCodeAt(n);if(c<128){utftext+=String.fromCharCode(c);}
+				else if((c>127)&&(c<2048)){utftext+=String.fromCharCode((c>>6)|192);utftext+=String.fromCharCode((c&63)|128);}
+				else{utftext+=String.fromCharCode((c>>12)|224);utftext+=String.fromCharCode(((c>>6)&63)|128);utftext+=String.fromCharCode((c&63)|128);}}
+				return utftext;},decode:function(utftext){var string="";var i=0;var c=c1=c2=0;while(i<utftext.length){c=utftext.charCodeAt(i);if(c<128){string+=String.fromCharCode(c);i++;}
+				else if((c>191)&&(c<224)){c2=utftext.charCodeAt(i+1);string+=String.fromCharCode(((c&31)<<6)|(c2&63));i+=2;}
+				else{c2=utftext.charCodeAt(i+1);c3=utftext.charCodeAt(i+2);string+=String.fromCharCode(((c&15)<<12)|((c2&63)<<6)|(c3&63));i+=3;}}
+				return string;}},Base64:{_keyStr:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",encode:function(input){var output="";var chr1,chr2,chr3,enc1,enc2,enc3,enc4;var i=0;input=baseFunctions.Utf8.encode(input);while(i<input.length){chr1=input.charCodeAt(i++);chr2=input.charCodeAt(i++);chr3=input.charCodeAt(i++);enc1=chr1>>2;enc2=((chr1&3)<<4)|(chr2>>4);enc3=((chr2&15)<<2)|(chr3>>6);enc4=chr3&63;if(isNaN(chr2)){enc3=enc4=64;}else if(isNaN(chr3)){enc4=64;}
+				output=output+
+				this._keyStr.charAt(enc1)+this._keyStr.charAt(enc2)+
+				this._keyStr.charAt(enc3)+this._keyStr.charAt(enc4);}
+				return output;},decode:function(input){var output="";var chr1,chr2,chr3;var enc1,enc2,enc3,enc4;var i=0;input=input.replace(/[^A-Za-z0-9\+\/\=]/g,"");while(i<input.length){enc1=this._keyStr.indexOf(input.charAt(i++));enc2=this._keyStr.indexOf(input.charAt(i++));enc3=this._keyStr.indexOf(input.charAt(i++));enc4=this._keyStr.indexOf(input.charAt(i++));chr1=(enc1<<2)|(enc2>>4);chr2=((enc2&15)<<4)|(enc3>>2);chr3=((enc3&3)<<6)|enc4;output=output+String.fromCharCode(chr1);if(enc3!=64){output=output+String.fromCharCode(chr2);}
+				if(enc4!=64){output=output+String.fromCharCode(chr3);}}
+				output=baseFunctions.Utf8.decode(output);return output;}}};/*]]>*/</script>    	  	
+      	  	
+<script type="text/javascript">
+/*<![CDATA[*/
+document.write(baseFunctions.Base64.decode("PGEgaHJlZj0nbWFpbHRvOnVuc3Vic2NyaWJlQGdhbWV2YW5jZS5jb20nPnVuc3Vic2NyaWJlQGdhbWV2YW5jZS5jb208L2E+"));
+/*]]>*/
+</script><a href="mailto:unsubscribe@gamevance.com">unsubscribe@gamevance.com</a>, by going to <a href="deactivate.php">http://www.gamevance.com/deactivate.php</a>, or by selecting the appropriate entry in your Control Panel using the "Add or Remove Programs" icon.  Gamevance reserves the right to terminate any Member who violates its policies and rules.
+	</p>
+	<p class="pp" align="justify">
+	   <strong>Changes to this Policy</strong><br>
+	   Gamevance may, from time to time, amend this Policy, in whole or part, in its sole discretion. Any changes to this Policy will be effective immediately upon the posting of the revised Policy on the Site. Changes will be reflected by the "Last Updated" reference below.  Depending on the materiality of the change, Gamevance may announce the change (1) on the home page of the Site, or (2) provide such notice via e-mail to Members. By continuing to use the Site following any changes or by remaining a Member, you will be deemed to have agreed to such changes.
+	</p>
+	<p class="pp" align="justify">
+	   <strong>QUESTIONS AND CONCERNS</strong><br>
+	   <br>
+	   If you have any questions or concerns about this Policy or its implementation, please email us at 
+<script type="text/javascript">
+/*<![CDATA[*/
+document.write(baseFunctions.Base64.decode("PGEgaHJlZj0nbWFpbHRvOnByaXZhY3lAZ2FtZXZhbmNlLmNvbSc+cHJpdmFjeUBnYW1ldmFuY2UuY29tPC9hPg=="));
+/*]]>*/
+</script><a href="mailto:privacy@gamevance.com">privacy@gamevance.com</a>.  For general questions about the Site, please email us at 
+<script type="text/javascript">
+/*<![CDATA[*/
+document.write(baseFunctions.Base64.decode("PGEgaHJlZj0nbWFpbHRvOnN1cHBvcnRAZ2FtZXZhbmNlLmNvbSc+c3VwcG9ydEBnYW1ldmFuY2UuY29tPC9hPg=="));
+/*]]>*/
+</script><a href="mailto:support@gamevance.com">support@gamevance.com</a>.  Alternatively, you may call our Customer Service number, 1-866-638-4441.<br>
+	   <br>
+	   <br>
+	   Effective: July 21, 2008<br>
+	   Last Updated:  July 21, 2008
+	</p>
+	</td></tr>
+	</tbody></table>
+	<style>
+	   .pp{margin-bottom:10px;}
+	</style>
+                        </div>
+                     </div>
+                  
+                		</td>
+							<td class="general-center-right">
+							</td>
+						</tr>
+						<tr>
+							<td class="general-bottom-left">
+							</td>
+							<td class="general-bottom-center">
+							</td>
+							<td class="general-bottom-right">
+							</td>
+						</tr>
+					</tbody></table>           </td>
+           <td class="main-holder-subcol">
+                <table style="border-collapse:collapse;width:100%;">
+	                    <tbody><tr>
+	                        <td valign="bottom" align="right"><img src="http://af.gv.facdn.com/gv/content/images/Advertisement.png" width="85" height="11" border="0" alt=""></td>
+	                    </tr>
+	                    <tr>
+                            <td valign="top" align="right"><iframe class="add-iframe" xml:src="/banner.php?w=300&amp;h=250&amp;b=20" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" width="300" height="250"></iframe></td>
+	                    </tr>
+	                 </tbody></table>                <br>
+           		<table class="general-table-wraper">
+						<tbody><tr>
+							<td class="general-top-left"></td>
+							<td class="general-top-center"><h4 style="width:100%;">
+									<table>
+                              <tbody><tr>
+                                 <td>
+                                    <img src="http://af.gv.facdn.com/gv/content/images/prizeIco.png" alt="Play Free Games and Win Free Prizes" width="27" height="23" border="0">
+                                 </td>
+                                 <td class="right-prize-title">
+                                    Gamevance Prizes
+                                 </td>
+                              </tr>
+                           </tbody></table></h4></td>
+							<td class="general-top-right"></td>
+						</tr>
+						<tr>
+							<td class="general-center-left">
+							</td>
+							<td class="general-center-center"><div align="center"><a href="win_prizes.php"><img src="http://af.gv.facdn.com/gv/content/images/NewPrizesGraphic1.jpg" alt="Play Free Games and Win Free Prizes" border="0"></a></div>		</td>
+							<td class="general-center-right">
+							</td>
+						</tr>
+						<tr>
+							<td class="general-bottom-left">
+							</td>
+							<td class="general-bottom-center">
+							</td>
+							<td class="general-bottom-right">
+							</td>
+						</tr>
+					</tbody></table>                <br>
+                <table style="border-collapse:collapse;width:100%;">
+	                    <tbody><tr>
+	                        <td valign="bottom" align="right"><img src="http://af.gv.facdn.com/gv/content/images/Advertisement.png" width="85" height="11" border="0" alt=""></td>
+	                    </tr>
+	                    <tr>
+                            <td valign="top" align="right"><iframe class="add-iframe" xml:src="/banner.php?w=300&amp;h=250&amp;b=20" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="300" height="250"></iframe></td>
+	                    </tr>
+                	</tbody></table>                <br>
+           		<table class="general-table-wraper">
+						<tbody><tr>
+							<td class="general-top-left"></td>
+							<td class="general-top-center"><h4 style="width:100%;" align="center">Featured Cash Games</h4></td>
+							<td class="general-top-right"></td>
+						</tr>
+						<tr>
+							<td class="general-center-left">
+							</td>
+							<td class="general-center-center"><iframe src="http://af.gv.facdn.com/gv/flash/konami/king/GVKing.html" width="290" height="215" align="middle" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>		</td>
+							<td class="general-center-right">
+							</td>
+						</tr>
+						<tr>
+							<td class="general-bottom-left">
+							</td>
+							<td class="general-bottom-center">
+							</td>
+							<td class="general-bottom-right">
+							</td>
+						</tr>
+					</tbody></table>           </td>
+       </tr>
+    </tbody></table>
+</td>
+							<td class="main-center-right">
+							</td>
+						</tr>
+						<tr>
+							<td class="main-bottom-left">
+							</td>
+							<td class="main-bottom-center">
+							</td>
+							<td class="main-bottom-right">
+							</td>
+						</tr>
+					</tbody></table>
+<!-- </CONTENT> -->
+<!-- <FOOTER> -->
+                  
+					<table id="pfooter">
+						<tbody><tr>
+							<td class="pr30">© Gamevance 2007 - 2010. All Rights Reserved.</td>
+							<td align="right">
+								<a href="http://www.gamevance.com/about.php">About Us</a> |
+								<a href="http://www.gamevance.com/SupportCenter.php">Gamevance Support Center</a> |
+								<a href="http://www.gamevance.com/privacy_policy.php">Privacy Policy</a> |
+								<a href="http://www.gamevance.com/terms_of_use.php">Terms of Use</a> |
+								<a href="http://www.gamevance.com/deactivate.php">Uninstall Gamevance</a> |
+								<a href="http://www.gamevance.com/advertisers.php">Advertisers</a>
+						</td></tr>
+                  <tr>
+                     <td colspan="2" align="right"><a href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.gamevance.com&amp;sealid=101"><img src="http://af.gv.facdn.com/gv/content/images/truste_seal_web.png" border="0"></a></td>
+                  </tr>
+					</tbody></table>
+<!-- </FOOTER> -->
+				
+			
+		
+	</div>
 </div>
+<!-- Result Links HEADER TEXT ADS CODE START -->
+            <script type="text/javascript"><!--
+            var RLGroupId = "10001";
+            var RLMaxPerPage = "6";
+            var RLOpenInNewWindow = "1";
+            var RLRepeatKeywords = "0";
+            var RLRepeatAdvertisers = "0";
+            var RLActiveLinkColor = "#2F4F4F";
+            var RLFontWeight = "normal";
+            var RLUnderlineStyle = "US_double";
+            //--></script>
+            <script type="text/javascript" src="http://data.resultlinks.com/javascript/loader.php"></script>
+            <!-- Result Links HEADER TEXT ADS CODE END -->
+            <!-- Result Links FOOTER TEXT ADS CODE START -->
+            <script type="text/javascript">window.onload = function(){try{RLInit();}catch(e){}}</script>
+            <!-- Result Links FOOTER TEXT ADS CODE END --><!--[if lt IE 7.]>
+<script defer type="text/javascript" src="http://af.gv.facdn.com/gv/content/dynamic/e1dec1c95649c2eb346ca71920c79264-fc010bf37d5adee95c8b68866ff695cb.js"></script>
+<![endif]-->
+<script type="text/javascript" src="http://af.gv.facdn.com/gv/content/dynamic/42b3984a2d800e6dc4ab0eeba58124d7-7b2506992a5dfbfb2054e509099aac4f.js"></script>
+<br>
+<br>
 
-   <!-- Result Links HEADER TEXT ADS CODE START -->
-   <script type="text/javascript"><!--
-   var RLGroupId = "10001";
-   var RLMaxPerPage = "6";
-   var RLOpenInNewWindow = "1";
-   var RLRepeatKeywords = "0";
-   var RLRepeatAdvertisers = "0";
-   var RLActiveLinkColor = "#55CB19";
-   var RLFontWeight = "normal";
-   var RLUnderlineStyle = "US_double";
-   //--></script>
-   <script type="text/javascript" src="http://data.resultlinks.com/javascript/loader.php"></script>
-   <!-- Result Links HEADER TEXT ADS CODE END -->
-   
-   <!-- Result Links FOOTER TEXT ADS CODE START -->
-   <script type="text/javascript">RLInit();</script>
-   <!-- Result Links FOOTER TEXT ADS CODE END -->
-   
-
-
+		  <script type="text/javascript">
+		    Meebo('domReady');
+		  </script>       
+       
 
 </body></html>
