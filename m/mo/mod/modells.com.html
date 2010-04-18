@@ -1,35 +1,1517 @@
-<!--The following is the downloaded HTML source of the modells.com privacy policy that was archived on 2007-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071219235835id_/http%3A//www.modells.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbody_privacy_txt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the modells.com privacy policy that was archived on 2010-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100418230210id_/http%3A//www.modells.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.-->
 
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Help Desk</title>
+<link href="http://MOD.imageg.net/css/twoColFixHdr.css" rel="stylesheet" type="text/css">
+<link href="http://MOD.imageg.net/css/helpdesk.css" rel="stylesheet" type="text/css">
+<!--[if IE]>
+<link href="http://MOD.imageg.net/css/ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 5]>
+<link href="http://MOD.imageg.net/css/ie-5.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 6]>
+<link href="http://MOD.imageg.net/css/ie-6.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<link href="http://MOD.imageg.net/css/modells.css" rel="stylesheet" type="text/css">
+<link href="http://MOD.imageg.net/css/footer.css" rel="stylesheet" type="text/css">
+<script src="http://MOD.imageg.net/js/prototype1_6_0_2.js" type="text/javascript"></script>
+<script src="http://MOD.imageg.net/js/v1.3/df/Df.js" type="text/javascript"></script>
+<script src="http://MOD.imageg.net/js/v1.3/df/Df.Navigation.js" type="text/javascript"></script>
+<script src="http://MOD.imageg.net/js/v1.3/df/Df.Scrollbar.js" type="text/javascript"></script>
+<script src="http://MOD.imageg.net/js/Df.Dropnav.js" type="text/javascript"></script>
+<script type="text/javascript">
+	//copied from /global/siteJS.jsp
+	function trimString(str) {
+		while (str.charAt(0) == ' ')
+			str = str.substring(1);
+		while (str.charAt(str.length - 1) == ' ')
+			str = str.substring(0, str.length - 1);
+		return str;
+	}
 
+	function showCustomPopUp(thisUrl, thisName, theseParams) {
+		remote = open(thisUrl, thisName, theseParams);
+	}
 
+	//	verisign POP-UP WINDOW
+	function popUp(url) {
+		sealWin = window
+				.open(
+						url,
+						"win",
+						'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450');
+		self.name = "mainWin";
+	}
 
-	<title>Modell's Helpdesk</title>
-	
-    
-    <link rel="stylesheet" type="text/css" href="../include/store.css">
+	function jump(url) {
+		if (url != "" && url != null) {
+			self.location.href = url;
+		}
+	}
+	//end copied from /global/siteJS.jsp
+	// For email signup drop down
+	var emailPopTimeout;
+	var sortBoxHide;
+	sortBoxHide = 0;
+	function emailSignUp(popState) {
+			sortBoxHide = 1;
+			//alert(sortBoxHide);
+			if (popState == 'open') {
+			$('emailSignUpPop').style.display = "block";
+			$('product-search-top').style.display = "none";
+
+		} else {
+			$('emailSignUpPop').style.display = "none";
+			$('product-search-top').style.display = "block";
+			clearTimeout(emailPopTimeout);
+			sortBoxHide = 0;
+		}
+	}
+
+	function emailCheck(formBlock) {
+		// Get the email address
+		var emailValue = $(formBlock).select('input[class="emailFormValue"]');
+		if (emailValue.length > 0) {
+			emailValue = emailValue[0].value;
+			// Get info on which form was used
+			var emailFormLoc = $(formBlock).select(
+					'input[class="emailSignUpFormLoc"]');
+			if (emailFormLoc.length > 0) {
+				emailFormLoc = emailFormLoc[0].value;
+			}
+
+			if (!validEmail(emailValue)) {
+				alert('Please enter a valid email.');
+			} else {
+				new Ajax.Request(
+						'/emailHandler/index.jsp',
+						{
+							method :'post',
+							parameters : {
+								emailPref :'Y',
+								emailAddress :emailValue,
+								contest :emailFormLoc,
+								targetPage :'/include/emailSignupThanks.html'
+							},
+							onSuccess : function(transport) {
+								var emailSignUpForms = $('container').select(
+										'form[class="emailSignUpForm"]');
+								var emailFormContent;
+								for ( var i = 0; i < emailSignUpForms.length; i++) {
+									emailFormContent = emailSignUpForms[i]
+											.select('div[class="formContent"]');
+									if (emailFormContent.length > 0) {
+										emailFormContent[0].innerHTML = '<p>Thanks for registering!</p><p>Your email will not be shared with anyone outside of Modells.com, and you can unsubscribe at any time.</p><img src="https://secure.ed4.net/GSI/dualpost/?c=11080&e='+emailValue+'&src='+emailFormLoc+'&la=Y" width="1" height="1">';
+									}
+								}
+								emailPopTimeout = setTimeout(
+										'emailSignUp("close")', 10000);
+							},
+							onFailure : function() {
+								alert("We're sorry, we could not sign you up at this time.\n\nPlease try again later.")
+							}
+						});
+
+			}
+
+		}
+		return false;
+	}
+
+	function validEmail(emailValue) {
+		var filter = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i
+		return filter.test(emailValue);
+	}
+
+	Event.observe(window, 'load', function() {
+		if ($('nav1') != null && $('nav1') != "") {
+			var nav1Item = $('nav1').select('li[class="nav1Item"]');
+			for ( var i = 0; i < nav1Item.length; i++) {
+				nav1Item[i].dropnav();
+			}
+		}
+	});
+</script>
 
 </head>
-<body bgcolor="#000066" topmargin="2" leftmargin="0" marginwidth="0" marginheight="2">
-<a name="pageTop()"><!-- --></a>
+<body class="twoColFixHdr help">
+<div id="helpdesk-article"><!-- id to be set dynamically. Will be used to drive display of selected primary/secondary navigation selected states. -->
+<div id="container">
 
-<style type="text/css">
-.vHidden{
-	display:none;
-	color:#000000;
-	font:Verdana, Arial, Helvetica, sans-serif;
-	font-size:12px;
+
+<!-- PlaceHolder for cmsTemplate: mod_header_include_1_1.jsp -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Preview TimeZone = 'null' --><!--Preview TimeZone = 'America/New_York' --><!-- Checking storemanPD --><!-- Checking productPreviewAllowed --><!--You are running on secprd1_ws_06_3-->
+
+
+
+
+
+
+
+
+<div id="header">
+	<div class="wrap">
+		<ul id="headerSocials">
+			<li>
+				<a class="social-facebook" href="javascript:void(0)" onclick="window.open('http://www.facebook.com/modells','win','width=800 ,height=900, menubar=yes, status=yes, location=yes, toolbar=yes, scrollbars=yes,resizable=1')" title="Facebook">Facebook</a>
+				<a class="social-twitter" href="javascript:void(0)" onclick="window.open('http://www.twitter.com/modellsSG','win','width=800 ,height=900, menubar=yes, status=yes, location=yes, toolbar=yes, scrollbars=yes,resizable=1')" title="Twitter">Twitter</a>
+				<a class="social-rss" href="javascript:void(0)" onclick="window.open('http://www.modellsblog.com','win','width=800 ,height=900, menubar=no, status=no, location=no,toolbar=no,scrollbars=yes,resizable=1')" title="Blog">Blog</a>
+			</li>
+		</ul>
+		<a href="/" id="modellsHomeLink" title="Modell's Sporting Goods">Modell's Sporting Goods - Gotta Go to Mo's</a>
+		<div id="util">
+			<ul id="utilLeftNav">
+				<li><a href="/helpdesk/index.jsp" id="customerService" title="Customer Service">Customer Service</a></li>
+				<li><a href="https://www.modells.com/giftCertificates/index.jsp" id="giftCertificates" title="Gift Cards">Gift Cards</a></li>
+				<li><a href="/cart/index.jsp?wlName=wl" id="wishList" title="Wish List">Wish List</a></li>
+			</ul>
+			<ul id="utilRightNav">
+				<li><a href="/coreg/index.jsp?step=register&amp;clickid=topnav_myacct_txt" id="myAccount" title="My Account">My Account</a></li>
+				
+				<li><a href="/cart/index.jsp" id="shoppingCart" title="Shopping Cart: 0 items">Shopping Cart:</a></li>
+				<li><a href="/cart/index.jsp" id="cartQty" title="Shopping Cart: 0 items">0</a></li>
+				<li><a href="/cart/index.jsp" id="items" title="Shopping Cart: 0 items">0 items</a></li>
+			</ul>
+		</div>
+		<form id="search" name="search" action="/search/controller.jsp" method="post" onsubmit="return validateSearch()">
+    		<img src="http://MOD.imageg.net/images/header/search.png" alt="Search" id="searchIcon">
+    		<input name="kw" type="text" id="search-box">
+			<input name="search-button" type="image" src="http://MOD.imageg.net/images/header/searchBtn.png" value="Search" id="searchBtn">
+		</form>
+<script type="text/javascript">
+function validateSearch(){
+if ($F($('search-box')).blank()){
+alert("Please enter a search term");
+return false;
 }	
-</style>
+}
+function showCustomPopUp(thisUrl,thisName,theseParams)
+{
+	remote = open(thisUrl, thisName, theseParams);
+}
+</script>
+<div id="leftEdgeFix" style="display:none;"></div>
 
-
-
-<div class="vHidden">
-Thank you for visiting Modell's.  If you need assistance with shopping on our site, please call us at 866-835-9129 and a customer care representative will be happy to assist you.  Please inform the Customer Service Representative that you require assistance.
-
+	
+        <ul id="nav1">
+        
+            
+            
+            <li id="nav1-3201685" class="nav1Item" title="category">
+                <a href="/category/index.jsp?categoryId=3201685" title="Fan Zone">Fan Zone</a>
+                <div id="hrLine"><img src="http://MOD.imageg.net/images/pixel.gif" width="132" height="2"></div>
+				<ul id="nav1sub-3201685" class="nav1SubItems">
+			
+			      
+				
+				<li id="nav1subitem-3202087" class="nav1SubItem">
+					<h3><a href="/category/index.jsp?categoryId=3202087&amp;cp=3201685" title="Events">Events</a></h3>
+					<ul>
+                    	
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=3925164&amp;cp=3201685.3202087" title="Shop by Metro Area">Shop by Metro Area</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/shop/index.jsp?categoryId=4106646&amp;cp=3201685.3202087" title="2010 Final Four - Duke">2010 Final Four - Duke</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=3925135&amp;cp=3201685.3202087" title="2009 WS New York Yankees">2009 WS New York Yankees</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=4019173&amp;cp=3201685.3202087" title="Saints Super Bowl XLIV Champs Gear">Saints Super Bowl XLIV Champs Gear</a>
+                        </li>
+                        
+                        
+                        
+						
+					</ul>
+				</li>
+				
+				<li id="nav1subitem-3202162" class="nav1SubItem">
+					<h3><a href="/category/index.jsp?categoryId=3202162&amp;cp=3201685" title="Leagues">Leagues</a></h3>
+					<ul>
+                    	
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=4065391&amp;cp=3201685.3202162" title="MLB">MLB</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=4065395&amp;cp=3201685.3202162" title="NHL">NHL</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=4065398&amp;cp=3201685.3202162" title="NBA">NBA</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/shop/index.jsp?categoryId=3020077&amp;cp=3201685.3202162" title="NCAA">NCAA</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=4065371&amp;cp=3201685.3202162" title="NFL">NFL</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+                        
+							<a href="/category/index.jsp?categoryId=3202162&amp;cp=3201685&amp;seeAll=1" title="See All..." class="seeAll">See All...</a>
+                            
+                        
+                        
+						
+					</ul>
+				</li>
+				
+				<li id="nav1subitem-3202206" class="nav1SubItem">
+					<h3><a href="/category/index.jsp?categoryId=3202206&amp;cp=3201685" title="Tailgating Essentials">Tailgating Essentials</a></h3>
+					<ul>
+                    	
+						
+                        
+                        
+						<li>
+							<a href="/family/index.jsp?categoryId=712680&amp;cp=3201685.3202206" title="Cooking Stations / Utensils">Cooking Stations / Utensils</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/family/index.jsp?categoryId=2282125&amp;cp=3201685.3202206" title="Binoculars">Binoculars</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/family/index.jsp?categoryId=2287811&amp;cp=3201685.3202206" title="Canopies">Canopies</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/family/index.jsp?categoryId=2287817&amp;cp=3201685.3202206" title="Cargo Storage">Cargo Storage</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2277846&amp;cp=3201685.3202206" title="Coolers">Coolers</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+                        
+							<a href="/category/index.jsp?categoryId=3202206&amp;cp=3201685&amp;seeAll=1" title="See All..." class="seeAll">See All...</a>
+                            
+                        
+                        
+						
+					</ul>
+				</li>
+				
+				<li id="nav1subitem-3202231" class="nav1SubItem">
+					<h3><a href="/category/index.jsp?categoryId=3202231&amp;cp=3201685" title="Collectibles">Collectibles</a></h3>
+					<ul>
+                    	
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=726958&amp;cp=3201685.3202231" title="Fan Shop Memorabilia">Fan Shop Memorabilia</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=764049&amp;cp=3201685.3202231" title="Trading Cards">Trading Cards</a>
+                        </li>
+                        
+                        
+                        
+						
+					</ul>
+				</li>
+				
+			
+			
+			
+			</ul>
+				
+            </li>            
+        
+            
+            
+            <li id="nav1-3201686" class="nav1Item" title="category">
+                <a href="/category/index.jsp?categoryId=3201686" title="Apparel">Apparel</a>
+                <div id="hrLine"><img src="http://MOD.imageg.net/images/pixel.gif" width="132" height="2"></div>
+				<ul id="nav1sub-3201686" class="nav1SubItems">
+			
+			      
+				
+				<li id="nav1subitem-3202304" class="nav1SubItem">
+					<h3><a href="/category/index.jsp?categoryId=3202304&amp;cp=3201686" title="Men's">Men's</a></h3>
+					<ul>
+                    	
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=3261623&amp;cp=3201686.3202304" title="Athletic">Athletic</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=3261624&amp;cp=3201686.3202304" title="Casual">Casual</a>
+                        </li>
+                        
+                        
+                        
+						
+					</ul>
+				</li>
+				
+				<li id="nav1subitem-3202305" class="nav1SubItem">
+					<h3><a href="/category/index.jsp?categoryId=3202305&amp;cp=3201686" title="Women's">Women's</a></h3>
+					<ul>
+                    	
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=3261626&amp;cp=3201686.3202305" title="Athletic">Athletic</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=3261627&amp;cp=3201686.3202305" title="Casual">Casual</a>
+                        </li>
+                        
+                        
+                        
+						
+					</ul>
+				</li>
+				
+				<li id="nav1subitem-3202306" class="nav1SubItem">
+					<h3><a href="/category/index.jsp?categoryId=3202306&amp;cp=3201686" title="Kids'">Kids'</a></h3>
+					<ul>
+                    	
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=3261629&amp;cp=3201686.3202306" title="Athletic">Athletic</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=3261630&amp;cp=3201686.3202306" title="Casual">Casual</a>
+                        </li>
+                        
+                        
+                        
+						
+					</ul>
+				</li>
+				
+				<li id="nav1subitem-3202307" class="nav1SubItem">
+					<h3><a href="/category/index.jsp?categoryId=3202307&amp;cp=3201686" title="Accessories">Accessories</a></h3>
+					<ul>
+                    	
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2765919&amp;cp=3201686.3202307" title="Backpacks">Backpacks</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=3566479&amp;cp=3201686.3202307" title="Hats">Hats</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2478205&amp;cp=3201686.3202307" title="Socks">Socks</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2762745&amp;cp=3201686.3202307" title="Sunglasses">Sunglasses</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+                        
+							<a href="/category/index.jsp?categoryId=3202307&amp;cp=3201686&amp;seeAll=1" title="See All..." class="seeAll">See All...</a>
+                            
+                        
+                        
+						
+					</ul>
+				</li>
+				
+			
+			
+			
+			</ul>
+				
+            </li>            
+        
+            
+            
+            <li id="nav1-3201688" class="nav1Item" title="category">
+                <a href="/category/index.jsp?categoryId=3201688" title="Footwear">Footwear</a>
+                <div id="hrLine"><img src="http://MOD.imageg.net/images/pixel.gif" width="132" height="2"></div>
+				<ul id="nav1sub-3201688" class="nav1SubItems">
+			
+			      
+				
+				<li id="nav1subitem-3202308" class="nav1SubItem">
+					<h3><a href="/category/index.jsp?categoryId=3202308&amp;cp=3201688" title="Men's">Men's</a></h3>
+					<ul>
+                    	
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=3261656&amp;cp=3201688.3202308" title="Athletic">Athletic</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=3261657&amp;cp=3201688.3202308" title="Casual">Casual</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=3261658&amp;cp=3201688.3202308" title="Work">Work</a>
+                        </li>
+                        
+                        
+                        
+						
+					</ul>
+				</li>
+				
+				<li id="nav1subitem-3202309" class="nav1SubItem">
+					<h3><a href="/category/index.jsp?categoryId=3202309&amp;cp=3201688" title="Women's">Women's</a></h3>
+					<ul>
+                    	
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=3261660&amp;cp=3201688.3202309" title="Athletic">Athletic</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=3261661&amp;cp=3201688.3202309" title="Casual">Casual</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=3261662&amp;cp=3201688.3202309" title="Work">Work</a>
+                        </li>
+                        
+                        
+                        
+						
+					</ul>
+				</li>
+				
+				<li id="nav1subitem-3202310" class="nav1SubItem">
+					<h3><a href="/category/index.jsp?categoryId=3202310&amp;cp=3201688" title="Kids'">Kids'</a></h3>
+					<ul>
+                    	
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=3261664&amp;cp=3201688.3202310" title="Athletic">Athletic</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=3261665&amp;cp=3201688.3202310" title="Casual">Casual</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2869594&amp;cp=3201688.3202310" title="Infants / Toddlers">Infants / Toddlers</a>
+                        </li>
+                        
+                        
+                        
+						
+					</ul>
+				</li>
+				
+			
+			
+			
+			</ul>
+				
+            </li>            
+        
+            
+            
+            <li id="nav1-3201689" class="nav1Item" title="category">
+                <a href="/category/index.jsp?categoryId=3201689" title="Equipment">Equipment</a>
+                <div id="hrLine"><img src="http://MOD.imageg.net/images/pixel.gif" width="132" height="2"></div>
+				<ul id="nav1sub-3201689" class="nav1SubItems">
+			
+			      
+				
+				<li id="nav1subitem-3202311" class="nav1SubItem">
+					<h3><a href="/category/index.jsp?categoryId=3202311&amp;cp=3201689" title="Team Sports">Team Sports</a></h3>
+					<ul>
+                    	
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=711608&amp;cp=3201689.3202311" title="Baseball / Softball">Baseball / Softball</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2363468&amp;cp=3201689.3202311" title="Basketball">Basketball</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2809720&amp;cp=3201689.3202311" title="Field Hockey">Field Hockey</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2356658&amp;cp=3201689.3202311" title="Football">Football</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2353048&amp;cp=3201689.3202311" title="Soccer">Soccer</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+                        
+							<a href="/category/index.jsp?categoryId=3202311&amp;cp=3201689&amp;seeAll=1" title="See All..." class="seeAll">See All...</a>
+                            
+                        
+                        
+						
+					</ul>
+				</li>
+				
+				<li id="nav1subitem-3202312" class="nav1SubItem">
+					<h3><a href="/category/index.jsp?categoryId=3202312&amp;cp=3201689" title="Individual Sports">Individual Sports</a></h3>
+					<ul>
+                    	
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2795145&amp;cp=3201689.3202312" title="Bowling">Bowling</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2669278&amp;cp=3201689.3202312" title="Boxing">Boxing</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/family/index.jsp?categoryId=2885975&amp;cp=3201689.3202312" title="Figure Skating">Figure Skating</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2890922&amp;cp=3201689.3202312" title="Gymnastics">Gymnastics</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2810668&amp;cp=3201689.3202312" title="Track and Field">Track and Field</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+                        
+							<a href="/category/index.jsp?categoryId=3202312&amp;cp=3201689&amp;seeAll=1" title="See All..." class="seeAll">See All...</a>
+                            
+                        
+                        
+						
+					</ul>
+				</li>
+				
+				<li id="nav1subitem-3202313" class="nav1SubItem">
+					<h3><a href="/category/index.jsp?categoryId=3202313&amp;cp=3201689" title="Golf / Racquet">Golf / Racquet</a></h3>
+					<ul>
+                    	
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=714773&amp;cp=3201689.3202313" title="Badminton">Badminton</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2273502&amp;cp=3201689.3202313" title="Golf Shop">Golf Shop</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/family/index.jsp?categoryId=714774&amp;cp=3201689.3202313" title="Platform Tennis">Platform Tennis</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2792639&amp;cp=3201689.3202313" title="Racquetball">Racquetball</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2792640&amp;cp=3201689.3202313" title="Squash">Squash</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2792638&amp;cp=3201689.3202313" title="Tennis">Tennis</a>
+                        </li>
+                        
+                        
+                        
+						
+					</ul>
+				</li>
+				
+				<li id="nav1subitem-3202314" class="nav1SubItem">
+					<h3><a href="/category/index.jsp?categoryId=3202314&amp;cp=3201689" title="Exercise">Exercise</a></h3>
+					<ul>
+                    	
+						
+                        
+                        
+						<li>
+							<a href="/family/index.jsp?categoryId=2623795&amp;cp=3201689.3202314" title="Dumbbells">Dumbbells</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/family/index.jsp?categoryId=693947&amp;cp=3201689.3202314" title="Elliptical Machines">Elliptical Machines</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/family/index.jsp?categoryId=2615895&amp;cp=3201689.3202314" title="Exercise Bikes">Exercise Bikes</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/family/index.jsp?categoryId=693945&amp;cp=3201689.3202314" title="Treadmills">Treadmills</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+                        
+							<a href="/category/index.jsp?categoryId=3202314&amp;cp=3201689&amp;seeAll=1" title="See All..." class="seeAll">See All...</a>
+                            
+                        
+                        
+						
+					</ul>
+				</li>
+				
+			
+			
+			
+			</ul>
+				
+            </li>            
+        
+            
+            
+            <li id="nav1-3201691" class="nav1Item" title="category">
+                <a href="/category/index.jsp?categoryId=3201691" title="Outdoor">Outdoor</a>
+                <div id="hrLine"><img src="http://MOD.imageg.net/images/pixel.gif" width="132" height="2"></div>
+				<ul id="nav1sub-3201691" class="nav1SubItems">
+			
+			      
+				
+				<li id="nav1subitem-3202319" class="nav1SubItem">
+					<h3><a href="/category/index.jsp?categoryId=3202319&amp;cp=3201691" title="Accessories">Accessories</a></h3>
+					<ul>
+                    	
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2368560&amp;cp=3201691.3202319" title="Backyard Living">Backyard Living</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2280790&amp;cp=3201691.3202319" title="GPS / Electronics">GPS / Electronics</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2282096&amp;cp=3201691.3202319" title="Optics">Optics</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=3388885&amp;cp=3201691.3202319" title="Pet Gear">Pet Gear</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2782295&amp;cp=3201691.3202319" title="Travel / Luggage">Travel / Luggage</a>
+                        </li>
+                        
+                        
+                        
+						
+					</ul>
+				</li>
+				
+				<li id="nav1subitem-3202315" class="nav1SubItem">
+					<h3><a href="/category/index.jsp?categoryId=3202315&amp;cp=3201691" title="Activities">Activities</a></h3>
+					<ul>
+                    	
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2293465&amp;cp=3201691.3202315" title="Archery">Archery</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2277089&amp;cp=3201691.3202315" title="Camping / Hiking">Camping / Hiking</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2292572&amp;cp=3201691.3202315" title="Hunting">Hunting</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2713633&amp;cp=3201691.3202315" title="In-Line Skating">In-Line Skating</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2713634&amp;cp=3201691.3202315" title="Skateboarding">Skateboarding</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+                        
+							<a href="/category/index.jsp?categoryId=3202315&amp;cp=3201691&amp;seeAll=1" title="See All..." class="seeAll">See All...</a>
+                            
+                        
+                        
+						
+					</ul>
+				</li>
+				
+				<li id="nav1subitem-3202318" class="nav1SubItem">
+					<h3><a href="/category/index.jsp?categoryId=3202318&amp;cp=3201691" title="Cycling">Cycling</a></h3>
+					<ul>
+                    	
+						
+                        
+                        
+						<li>
+							<a href="/family/index.jsp?categoryId=2712463&amp;cp=3201691.3202318" title="BMX Bikes">BMX Bikes</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/family/index.jsp?categoryId=2712462&amp;cp=3201691.3202318" title="Mountain Bikes">Mountain Bikes</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2712461&amp;cp=3201691.3202318" title="Cycling">Cycling</a>
+                        </li>
+                        
+                        
+                        
+						
+					</ul>
+				</li>
+				
+				<li id="nav1subitem-3202316" class="nav1SubItem">
+					<h3><a href="/category/index.jsp?categoryId=3202316&amp;cp=3201691" title="Water Sports">Water Sports</a></h3>
+					<ul>
+                    	
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2672651&amp;cp=3201691.3202316" title="Boating">Boating</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2291514&amp;cp=3201691.3202316" title="Fishing">Fishing</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2674217&amp;cp=3201691.3202316" title="Kneeboarding">Kneeboarding</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2672649&amp;cp=3201691.3202316" title="Snorkeling / SCUBA">Snorkeling / SCUBA</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2672648&amp;cp=3201691.3202316" title="Swimming/Aquatic Fitness">Swimming/Aquatic Fitness</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+                        
+							<a href="/category/index.jsp?categoryId=3202316&amp;cp=3201691&amp;seeAll=1" title="See All..." class="seeAll">See All...</a>
+                            
+                        
+                        
+						
+					</ul>
+				</li>
+				
+				<li id="nav1subitem-3202317" class="nav1SubItem">
+					<h3><a href="/category/index.jsp?categoryId=3202317&amp;cp=3201691" title="Winter Sports">Winter Sports</a></h3>
+					<ul>
+                    	
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2629184&amp;cp=3201691.3202317" title="Ice Skating">Ice Skating</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2629150&amp;cp=3201691.3202317" title="Skiing">Skiing</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2629192&amp;cp=3201691.3202317" title="Sleds / Snow Tubes">Sleds / Snow Tubes</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2623689&amp;cp=3201691.3202317" title="Snowboarding">Snowboarding</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+                        
+							<a href="/category/index.jsp?categoryId=3202317&amp;cp=3201691&amp;seeAll=1" title="See All..." class="seeAll">See All...</a>
+                            
+                        
+                        
+						
+					</ul>
+				</li>
+				
+			
+			
+			
+			</ul>
+				
+            </li>            
+        
+            
+            
+            <li id="nav1-3201765" class="nav1Item" title="category">
+                <a href="/category/index.jsp?categoryId=3201765" title="Game Room">Game Room</a>
+                <div id="hrLine"><img src="http://MOD.imageg.net/images/pixel.gif" width="132" height="2"></div>
+				<ul id="nav1sub-3201765" class="nav1SubItems">
+			
+			
+			
+				<li class="nav1SubItem">
+					<ul>
+						
+							<li><a href="/category/index.jsp?categoryId=2769324&amp;cp=3201765" title="Billiards">Billiards</a></li>
+							
+						
+							<li><a href="/category/index.jsp?categoryId=2885924&amp;cp=3201765" title="Darts">Darts</a></li>
+							
+						
+							<li><a href="/category/index.jsp?categoryId=2769340&amp;cp=3201765" title="Furniture">Furniture</a></li>
+							
+						
+							<li><a href="/category/index.jsp?categoryId=2795144&amp;cp=3201765" title="Indoor Games">Indoor Games</a></li>
+							
+						
+							<li><a href="/category/index.jsp?categoryId=1739883&amp;cp=3201765" title="Poker">Poker</a></li>
+							
+						
+							<li><a href="/category/index.jsp?categoryId=2769326&amp;cp=3201765" title="Table Games">Table Games</a></li>
+							
+						
+							<li><a href="/category/index.jsp?categoryId=2769325&amp;cp=3201765" title="Table Tennis">Table Tennis</a></li>
+							
+						
+					</ul>
+				</li>
+			
+			
+			</ul>
+				
+            </li>            
+        
+            
+            
+            <li id="nav1-3201793" class="nav1Item" title="category">
+                <a href="/category/index.jsp?categoryId=3201793" title="Training">Training</a>
+                <div id="hrLine"><img src="http://MOD.imageg.net/images/pixel.gif" width="132" height="2"></div>
+				<ul id="nav1sub-3201793" class="nav1SubItems">
+			
+			      
+				
+				<li id="nav1subitem-3202320" class="nav1SubItem">
+					<h3><a href="/category/index.jsp?categoryId=3202320&amp;cp=3201793" title="Home Gym">Home Gym</a></h3>
+					<ul>
+                    	
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=1983127&amp;cp=3201793.3202320" title="Bowflex Brand Shop">Bowflex Brand Shop</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/family/index.jsp?categoryId=2615895&amp;cp=3201793.3202320" title="Exercise Bikes">Exercise Bikes</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/family/index.jsp?categoryId=2623795&amp;cp=3201793.3202320" title="Dumbbells">Dumbbells</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/family/index.jsp?categoryId=693947&amp;cp=3201793.3202320" title="Elliptical Machines">Elliptical Machines</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/family/index.jsp?categoryId=693945&amp;cp=3201793.3202320" title="Treadmills">Treadmills</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+                        
+							<a href="/category/index.jsp?categoryId=3202320&amp;cp=3201793&amp;seeAll=1" title="See All..." class="seeAll">See All...</a>
+                            
+                        
+                        
+						
+					</ul>
+				</li>
+				
+				<li id="nav1subitem-3202321" class="nav1SubItem">
+					<h3><a href="/category/index.jsp?categoryId=3202321&amp;cp=3201793" title="Activities">Activities</a></h3>
+					<ul>
+                    	
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2669278&amp;cp=3201793.3202321" title="Boxing">Boxing</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=3116236&amp;cp=3201793.3202321" title="Mixed Martial Arts">Mixed Martial Arts</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/family/index.jsp?categoryId=2812913&amp;cp=3201793.3202321" title="Pilates">Pilates</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2651892&amp;cp=3201793.3202321" title="Running / Walking">Running / Walking</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=2812888&amp;cp=3201793.3202321" title="Yoga / Pilates / Toning">Yoga / Pilates / Toning</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+                        
+							<a href="/category/index.jsp?categoryId=3202321&amp;cp=3201793&amp;seeAll=1" title="See All..." class="seeAll">See All...</a>
+                            
+                        
+                        
+						
+					</ul>
+				</li>
+				
+				<li id="nav1subitem-3202322" class="nav1SubItem">
+					<h3><a href="/category/index.jsp?categoryId=3202322&amp;cp=3201793" title="Accessories">Accessories</a></h3>
+					<ul>
+                    	
+						
+                        
+                        
+						<li>
+							<a href="/family/index.jsp?categoryId=851740&amp;cp=3201793.3202322" title="Heart Rate Monitors">Heart Rate Monitors</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/family/index.jsp?categoryId=1328429&amp;cp=3201793.3202322" title="Portable Audio">Portable Audio</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/family/index.jsp?categoryId=693940&amp;cp=3201793.3202322" title="Resistance Training Tools">Resistance Training Tools</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/family/index.jsp?categoryId=693968&amp;cp=3201793.3202322" title="Scales &amp; Fat Monitors">Scales &amp; Fat Monitors</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+						<li>
+							<a href="/category/index.jsp?categoryId=710547&amp;cp=3201793.3202322" title="Sports Medicine">Sports Medicine</a>
+                        </li>
+                        
+                        
+                        
+						
+                        
+                        
+                        
+							<a href="/category/index.jsp?categoryId=3202322&amp;cp=3201793&amp;seeAll=1" title="See All..." class="seeAll">See All...</a>
+                            
+                        
+                        
+						
+					</ul>
+				</li>
+				
+			
+			
+			
+			</ul>
+				
+            </li>            
+        
+        </ul>
+		
+	</div>
+<br class="clearfloat">
+</div>
+<div id="underHeaderUtilNav">
+	<div id="welcome">
+		
+		 
+		
+			
+			
+			
+				 
+			
+		
+		
+		
+		
+		
+		
+			
+			
+				<span class="welcomeMsg">Welcome to Modells.com</span>&nbsp;&nbsp; <a href="https://www.modells.com/coreg/index.jsp?step=register">Sign in</a> |  <a href="https://www.modells.com/coreg/index.jsp?step=register">Create an Account</a>
+			
+		
+	</div>
+    <div id="dropDownMenus">
+        <a href="#" onclick="emailSignUp('open'); return false;" alt="Email Sign Up" id="emailSignUpLnk">Email Sign Up</a>
+        <a href="../storeLocator/index.jsp" alt="Store Locator" id="storeLocatorLnk">Store Locator</a>
+        <a href="../mvp/index.jsp?step=mvpWelcome" alt="MVP Program" id="mvpProgramLnk">MVP Program</a>
+        <a href="../teamweeks/index.jsp" alt="Team Weeks" id="teamWeeksLnk">Team Weeks</a>
+    </div>
+    <form id="emailSignUpPop" onsubmit="return emailCheck(this.id);" name="emailSignUpPop" class="emailSignUpForm">
+        <a href="#" onclick="emailSignUp('close'); return false;" class="closePop">close</a>
+        <div class="formContent">
+            <p>Sign up to receive special offers and promotions from Modell's. <br><strong>Sign Up Bonus: Receive 10% Off Your Next Online Order!*</strong></p>
+            <label for="email">Enter your email address :</label>
+            <input type="text" name="emailAddress" id="emailPop" class="emailFormValue">
+            <a href="#" onclick="return emailCheck(this.parentNode.parentNode.id); return false;" id="emailSignUpPopSubmit">Submit</a>
+            <a href="javascript:showCustomPopUp('../helpdesk/popup.jsp?display=safety&amp;subdisplay=privacy','getfile1','width=500,height=400,toolbar=no,status=no,menubar=no,scrollbars=yes,resizable=yes');" id="emailSignUpPrivacyLnk">Privacy Policy</a>
+			
+			<p class="disclaimer">*Offer valid for new subscribers only, and only valid online. Offer not valid in stores. Some restrictions apply.</p>
+            <input type="hidden" name="store" value="">
+            <input type="hidden" name="akURL" value="http://MOD.imageg.net">
+            <input type="hidden" name="emailSignUpFormLoc" value="header" class="emailSignUpFormLoc">
+        </div>
+    </form>
 </div>
 
+    
 
 
 
@@ -40,198 +1522,261 @@ Thank you for visiting Modell's.  If you need assistance with shopping on our si
 
 
 
-<table width="99%" align="center" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr bgcolor="#000066">
-	 <td rowspan="3" width="190"><a href="/home/index.jsp?clickid=topnav_home_img"><img src="http://MOD.imageg.net/images/header_logo_holiday.jpg" hspace="6" width="190" height="78" alt="" border="0"></a></td>
-	 <td rowspan="3" valign="bottom">
-<!-- START SCANALERT CODE -->
-<a target="_blank" href="//www.scanalert.com/RatingVerify?ref=www.modells.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.modells.com/22.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;" style="margin:0px 0px 3px 0px;"></a>
-<!-- END SCANALERT CODE -->
-	 </td>
-	 <td width="100%" align="right" class="topnavlink" style="padding:15px 0px;"><a href="/helpdesk/index.jsp?clickid=topnav_help_txt" class="topnavlink">HELP</a>&nbsp;|&nbsp;<a href="https://www.modells.com/coreg/index.jsp?step=register&amp;clickid=topnav_myacct_txt" class="topnavlink">MY ACCOUNT</a>&nbsp;|&nbsp;<a href="https://www.modells.com/coreg/index.jsp?step=ot&amp;clickid=topnav_track_txt" class="topnavlink">TRACK YOUR ORDER</a>&nbsp;|&nbsp;<a href="/corp/index.jsp?page=storeLocator&amp;clickid=topnav_locator_txt" class="topnavlink">FIND A STORE</a>&nbsp;|&nbsp;<a href="/corp/index.jsp?clickid=topnav_about_txt" class="topnavlink">ABOUT US</a>&nbsp;|&nbsp;<a href="/corp/index.jsp?page=jobs" class="topnavlink">CAREERS</a>&nbsp;&nbsp;</td>
-</tr>
-<tr>
-  <td style="color:#fff;text-align:right;"><a href="javascript:void(window.open('../helpdesk/popup.jsp?display=payment&amp;subdisplay=process','promo','width=500,height=600,scrollbars=yes,resizable=no'))"><img alt="Bill Me Later" src="http://MOD.imageg.net/images/MOD_BML.jpg" height="45" style="border:none;margin:0px 4px 0px 0px;" width="175"></a></td>
-</tr>
-<tr bgcolor="#000066">
-	 <td valign="bottom" align="right" style="padding:7px 0px 0px 0px;">
-
-<table width="470" border="0" cellpadding="0" cellspacing="0" align="right">
-<tbody><tr>
-		<td colspan="9" height="2" bgcolor="#6666CC"><img src="http://MOD.imageg.net/images/pixel.gif" width="1" height="2" border="0"></td>
-		<td height="2" bgcolor="#000066"><img src="http://MOD.imageg.net/images/pixel.gif" width="1" height="2" border="0"></td>
-</tr>
-<tr>
-		<td height="20" width="2" bgcolor="#6666CC"><img src="http://MOD.imageg.net/images/pixel.gif" width="2" height="20" border="0"></td>
-		<td width="90" bgcolor="black" align="center" onmouseout="this.bgColor='000000'" onmouseover="this.bgColor='FC1922'"><a href="/category/index.jsp?categoryId=715322&amp;clickid=topnav_fanshop_txt" style="font-size:11px;color:white;font-weight:bold;">FANSHOP</a></td>
-		<td width="2" bgcolor="#6666CC"><img src="http://MOD.imageg.net/images/pixel.gif" width="2" height="1" border="0"></td>
-		<td width="90" bgcolor="black" align="center" onmouseout="this.bgColor='000000'" onmouseover="this.bgColor='FC1922'"><a href="/category/index.jsp?categoryId=766034&amp;clickid=topnav_footwear_txt" style="font-size:11px;color:white;font-weight:bold;">FOOTWEAR</a></td>
-		<td width="2" bgcolor="#6666CC"><img src="http://MOD.imageg.net/images/pixel.gif" width="2" height="1" border="0"></td>
-		<td width="90" bgcolor="black" align="center" onmouseout="this.bgColor='000000'" onmouseover="this.bgColor='FC1922'"><a href="/category/index.jsp?categoryId=710956&amp;clickid=topnav_fitness_txt" style="font-size:11px;color:white;font-weight:bold;">FITNESS</a></td>
-		<td width="2" bgcolor="#6666CC"><img src="http://MOD.imageg.net/images/pixel.gif" width="2" height="1" border="0"></td>
-		<td width="90" bgcolor="black" align="center" onmouseout="this.bgColor='000000'" onmouseover="this.bgColor='FC1922'"><a href="/category/index.jsp?categoryId=792122&amp;clickid=topnav_outlet_txt" style="font-size:11px;color:white;font-weight:bold;">OUTLET</a></td>
-		<td width="2" bgcolor="#6666CC"><img src="http://MOD.imageg.net/images/pixel.gif" width="2" height="1" border="0"></td>
-		<td width="100" align="right" bgcolor="#000066"><a href="/cart/index.jsp?clickid=topnav_cart_img"><img src="http://MOD.imageg.net/images/header_carticon.gif" align="absmiddle" width="21" height="15" border="0"></a><a href="/cart/index.jsp?clickid=topnav_cart_txt" class="topnavlink" style="text-decoration:underline">CART</a>&nbsp;&nbsp;</td>
-</tr>
-</tbody></table>
-
-  </td>
-</tr><tr bgcolor="#6666CC"><form action="/searchHandler/index.jsp?clickid=topnav_search_img" method="post" name="search"></form>
-	 <td colspan="3" height="30">&nbsp;&nbsp;<font color="#ffffff"><b>SEARCH BY KEYWORD OR</b> <img src="http://MOD.imageg.net/images/header_onlineicon.gif" vspace="2" width="83" height="27" align="absmiddle" border="0"><font size="1"><input type="text" size="14" name="keywords" align="middle" style="font-size:11px;"></font>&nbsp;&nbsp;<a href="javascript: document.search.submit();" class="topnavlink" style="text-decoration:underline;">Find</a></font></td>
-</tr><tr bgcolor="#000066">
-	 <td height="3" colspan="3"><img src="http://MOD.imageg.net/images/pixel.gif" width="1" height="3" border="0"></td>
-</tr>
-</tbody></table>
-<table width="99%" border="0" cellspacing="0" cellpadding="0" align="center">
- 	<tbody><tr>
-     <td bgcolor="black" height="17" class="breadcrumb" colspan="2">
-	 <table cellpadding="6" border="0" width="100%">
-    <tbody><tr><td>
-        <a href="/home/index.jsp" class="breadcrumb">
-       Return to shopping</a>&nbsp;
-
-        <font color="#FFFFFF">|</font>&nbsp;
-
-    <a class="breadcrumb" href="/helpdesk/index.jsp">Help Desk</a>
-
-    </td></tr>
-</tbody></table>
-<br>
 
 
 
+<link href="http://MOD.imageg.net/css/myModellsBar.css" rel="stylesheet" type="text/css">
+<!--[if IE]>
+<link href="http://MOD.imageg.net/css/myModellsBarIE.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<script type="text/javascript" src="http://MOD.imageg.net/js/Df.Slider.js"></script>
+<script type="text/javascript" src="http://MOD.imageg.net/js/myModellsBar.js"></script>
 
-</td>
-	 </tr>
-	  <tr>
-     <td bgcolor="#6666CC" height="2" colspan="2"><img src="../images/pixel.gif" width="1" height="2" border="0"></td>
-    </tr>
-	 <tr>
-	 <td valign="top" bgcolor="#FFFFFF">
- <!-- *********************************** STOREMAN HELPDESK STARTS************************************** -->
-				 
+<div id="myModellsBar">
+    <ul id="mmbMenu">
+        <li class="lvl1Menu" id="myModellsTitle"><span id="myModellsText">My Modell's&nbsp;&nbsp;&nbsp;:</span></li>
+		
+		
+		
+            <li id="firstlast" class="lvl1Menu"><a href="javaScript:void(0);" id="recentCategories" class="lvl1MenuLink">Recently Viewed Categories
+            <img class="dropDownArrow" src="/images/drop_down_arrow.jpg"> </a>
+            <ul class="subMenu">
+                    <li>
+                        <div class="RVContainer">
+                        	<h2 class="RVTitle">CATEGORIES</h2>
+                            <div class="navbarContainer">
+                                <ul class="navbar">
+                                	
+                                    
+                                    
+                                	
+                                        <li><a href="/family/index.jsp?categoryId=714774" title="Platform Tennis">Platform Tennis</a></li>
+                                        
+                                    
+                                    
+                                	
+                                        <li><a href="/family/index.jsp?categoryId=693968" title="Scales &amp; Fat Monitors">Scales &amp; Fat Monitors</a></li>
+                                        
+                                    
+                                    
+                                	
+                                        <li><a href="/family/index.jsp?categoryId=693947" title="Elliptical Machines">Elliptical Machines</a></li>
+                                        
+                                    
+                                    
+                                	
+                                        <li><a href="/family/index.jsp?categoryId=693945" title="Treadmills">Treadmills</a></li>
+                                        
+                                            </ul>
+                                            <ul class="navbar">
+                                        
+                                    
+                                    
+                                	
+                                        <li><a href="/family/index.jsp?categoryId=2615895" title="Exercise Bikes">Exercise Bikes</a></li>
+                                        
+                                    
+                                    
+                                	
+                                        <li><a href="/category/index.jsp?categoryId=714773" title="Badminton">Badminton</a></li>
+                                        
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+            </ul>
+            </li>
+        
+    </ul>
+</div>
 
+    <div id="breadcrumbs">
+        <div class="wrap">
+        <ul>
+                <li class="first"><a href="/">Home</a></li>
+                <li><a href="/helpdesk/index.jsp">Help Desk</a></li>
+                
+                    
+                    
+                    
+                        <li class="current">Safety, Security and Privacy: Privacy Policy</li>
+                   	
+               	
+        </ul>
+        </div>
+    </div>
+<div id="sidebar1">
+<div class="wrap">
+<div id="help-topics">
+<div class="returnHome">
+<h3><a href="/helpdesk/index.jsp">Back to
+Help Desk Main</a></h3>
+</div>
+<h3>Safety, Security and Privacy</h3>
+<ul>
+		
 				
-							
-
-<table width="100%" border="0">
-	<tbody><tr>
-		<td width="200" valign="top">
-<!-- navigation -->
-			<table width="200" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td bgcolor="#000066" height="20" valign="middle" colspan="2" align="left">
-					<font class="subnavHeader">Safety, Security and Privacy</font></td>
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
-				
-				
-				<tr>
-					
-					
 						
-							<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td><td valign="top"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=secure" class="hd_pagelink">Secure Shopping Guarantee</a></td>
-						 
-					
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
-				
-				
-				<tr>
-					
-					
 						
-							<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td><td valign="top"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="hd_pagelink">Terms &amp; Conditions</a></td>
-						 
-					
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
-				
-				
-				<tr>
-					
-					
 						
-							<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td><td valign="top"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=warranty" class="hd_pagelink">Service Plan</a></td>
-						 
-					
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
-				
-				
-				<tr>
-					
-					
 						
-							<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td><td valign="top"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" class="hd_pagelink">Privacy Policy</a></td>
-						 
-					
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
-				
-				
-				<tr>
-					
-					
 						
-									<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td><td valign="top"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=mastercard&amp;topic=securecode" class="hd_pagelink">MasterCard SecureCode</a></td>
+						
+						
+						
+						
+						
+						
+						
 								
-					
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
-				
-				
-				<tr>
-					
-					
+								
 						
-									<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td><td valign="top"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=vbv&amp;topic=vbv" class="hd_pagelink">Verified by Visa</a></td>
-									
-					
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
 				
-			</tbody></table>
-		</td>
-		<td>
-			<img src="/images/pixel.gif" width="10" height="1">
-		</td>
-		<td valign="top">
-			<table border="0">
-				<tbody><tr>
-					<td><a href="/helpdesk/index.jsp"><img src="../images/hd/help_desk.gif" border="0"></a></td>	
-				</tr>
-				<tr>
-				<td>
-						<img src="/images/pixel.gif" height="3">
-				</td>
-				</tr>
-				<tr>
-					<td valign="top">
-					
-					
-					
-						<!-- panel -->
-						<!--here is panelId::1853503-->
-<!--here is pd::null-->
-<!--STOREMAN GENERATION - 1 panel(s) found for slot: HelpSlot entryId: 1853503 with pd:null-->
-<!--STOREMAN PANEL: helpdesk/MOD_safetySecurityAndPrivacy_9-3.21090.jsp-->
-
-								<!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
+				
+				
+				
+				<li><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=secure" title="Secure Shopping Guarantee">Secure Shopping Guarantee</a></li>
+				
+		
+				
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+								
+								
+						
+				
+				
+				
+				
+				<li><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+				
+		
+				
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+								
+								
+						
+				
+				
+				
+				
+				<li><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=warranty" title="Service Plan">Service Plan</a></li>
+				
+		
+				
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+								
+								
+						
+				
+				
+				
+				
+				<li><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" title="Privacy Policy">Privacy Policy</a></li>
+				
+		
+				
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+								
+								
+						
+				
+				
+				
+				
+				<li><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=mastercard" title="MasterCard SecureCode">MasterCard SecureCode</a></li>
+				
+		
+				
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+								
+								
+						
+				
+				
+				
+				
+				<li><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=vbv" title="Verified by Visa">Verified by Visa</a></li>
+				
+		
+		
+</ul>
+<br>
+<br>
+</div>
+</div>
+<!-- end #sidebar2 --></div>
+<div id="mainContent">
+    <div class="wrap">
+        <div id="groupSalesContent">
+        <h1>Help Desk</h1>
+        
+                
+                
+                
+                
+                	
+                    
+                    
+                    
+                        
+                                <!--Storeman panel: /panels/helpdesk/MOD_safetySecurityAndPrivacy_9-3.21090.jsp -->
+                                <!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
 
 <smpanel xmlns:sm="http://engineering.gspt.net/storeman/sm-DTDinfo.html">
 <table width="98%" border="0" cellpadding="0" cellspacing="0">
@@ -490,44 +2035,333 @@ If you send an on-line gift certificate or gift card to a third party you must p
 </tbody></table>
  </smpanel>
 
-<!--END STOREMAN PANEL helpdesk/MOD_safetySecurityAndPrivacy_9-3.21090.jsp-->
-<!--END STOREMAN GENERATION-->
 
-							
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
+                        
+                   	
+                    
+                
+        
+    </div>
+</div>
+<!-- end #mainContent -->
+</div>
+<!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats -->
 
-				
 
 
-				<!-- display is safety -->
-				<!-- section is privacy -->
-			 	<br><br>
-				</td>
 
-<!-- *********************************** STOREMAN HELPDESK ENDS************************************** --> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Preview TimeZone = 'null' --><!--Preview TimeZone = 'America/New_York' --><!-- Checking storemanPD --><!-- Checking productPreviewAllowed --><!--You are running on secprd1_ws_06_3-->
+
+
+
+
+
+
+
+<div id="footer">
+<div id="formDiv">
+<div id="emailSignUp">
+    <div class="formHeader">Email Signup</div>
+    <form name="emailForm" id="emailForm" onsubmit="return emailCheck(this.id);" class="emailSignUpForm">
+        <div class="formContent">
+            <p>Sign up to receive special offers and promotions from Modell’s, and get 10% off your next online purchase!:</p>
+            <input type="text" name="emailAddress" id="email" class="emailFormValue">
+            <input type="image" src="http://MOD.imageg.net/images/go_btn.jpg" onclick="return emailCheck(this.parentNode.parentNode.id); return false;" id="emailFooterSubmit">
+            <input type="hidden" name="store" value="">
+            <input type="hidden" name="akURL" value="http://MOD.imageg.net">
+            <input type="hidden" name="emailSignUpFormLoc" value="footer" class="emailSignUpFormLoc">
+        </div>
+    </form>
+</div>
+<div id="mvpProgram">
+<div class="formHeader">MVP Program</div>
+Earn rewards at Modell's. Learn more about becoming an MVP!
+<a href="../mvp/index.jsp?step=mvpWelcome"><img src="http://MOD.imageg.net/images/view_now_btn.jpg"></a>
+</div>
+<div id="teamWeeks">
+<div class="formHeader">Team Weeks</div>
+Outfit your team at Modell's and save big!
+<a href="../teamweeks/index.jsp"><img src="http://MOD.imageg.net/images/view_now_btn.jpg"></a>
+</div>
+<div id="storeLocator">
+<div class="formHeader">Store Locator</div>
+<form name="zipCodeForm" id="zipCodeForm" action="../storeLocator/results.jsp" method="post">
+    <p>Find a Modell's location near you. Enter your zip code below.</p>
+	http://MOD.imageg.net
+    <input type="hidden" name="radius" id="radius" value="50"> <input type="hidden" name="city" id="city" value="">
+    <input type="hidden" name="state" id="state" value="">
+    <input type="hidden" name="features" id="features" value="">
+    <input type="hidden" name="searchType" id="searchType" value="POSTAL_CODE">
+    <input type="hidden" name="action" id="action" value="SEARCH_FOR_STORES">
+    <input type="text" name="postalCode" id="zip">
+    <input type="image" src="http://MOD.imageg.net/images/go_btn.jpg">
+</form>
+</div>
+</div>
+<ul id="footerNav" class="horizontalULNav">
+
+
+
+
+
+
+
+
+
+
+
+
+	<li id="footerNavHelp"><a href="/helpdesk/index.jsp?clickid=botnav_help_txt" id="help">Help</a></li>
+	<li><a href="/coreg/index.jsp?step=ot&amp;clickid=topnav_track_txt" id="trackOrder">Track My Order</a></li>
+	<li><a href="/giftCertificates/index.jsp" id="giftCenter">Gift Center</a></li>
+	<li><a href="/category/index.jsp?categoryId=3294314&amp;clickid=botnav_privacy_txt" id="outlet">Outlet</a></li>
+	<li><a href="/corp/index.jsp?clickid=botnav_about_txt" id="aboutUs">About Us</a></li>
+	<li><a href="http://www.modellsjobs.com" target="_careers" id="careers">Careers</a></li>
+	<li><a href="/affiliate/index.jsp?clickid=botnav_affiliates_txt" id="affiliates">Affiliates</a></li>
+	<li><a href="/corp/index.jsp" id="modellsCorporate">Modell's Corporate</a></li>
+	<li><a href="/pwr/product-reviews/c/index.html" id="productReviews">Product Reviews</a></li>
+
+	<li><a href="/groupsales/index.jsp" id="groupSales">Group Sales</a></li>
+	<li><a href="/sitemap/index.jsp?clickid=botnav_about_txt" id="siteMap">Site Map</a></li>
+</ul>
+<div id="copyright">©1999-2010 * List price is for reference only. No sale may have occurred at this price. ** See product page for details. 
+	<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" id="termsConditions">Terms &amp; Conditions</a>	 | <a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" id="privacyPolicy">Privacy Policy</a></div>
+<!-- START SCANALERT CODE -->
+<a target="_blank" href="//www.scanalert.com/RatingVerify?ref=www.modells.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.modells.com/22.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;" style="margin:0px 0px 3px 0px;"></a>
+<!-- END SCANALERT CODE -->
+</div>
+
+ 
+
+
+
 	
-    </tr>
-</tbody></table>
 
-<table width="99%" align="center" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-	<td bgcolor="#000066" height="3" colspan="2"><img src="http://MOD.imageg.net/images/pixel.gif" width="1" height="3" border="0"></td>
-</tr><tr>
-	<td bgcolor="#6666CC" colspan="2" height="15"><font style="color:#f5f5f5;font-size:9.5px;">&nbsp;&nbsp;*LIST PRICE IS FOR REFERENCE ONLY. NO SALES MAY HAVE OCCURRED AT THIS PRICE.&nbsp;&nbsp;&nbsp;**SEE PRODUCT PAGE FOR DETAILS.</font></td>
-</tr><tr bgcolor="#000066"> 
-	<td width="80%" height="36" class="footerlink">&nbsp;&nbsp;<a href="/home/index.jsp?clickid=botnav_home_txt" class="footerlink">Home</a>&nbsp;|&nbsp;<a href="/helpdesk/index.jsp?clickid=botnav_help_txt" class="footerlink">Help</a>&nbsp;|&nbsp;<a href="/helpdesk/index.jsp?display=safety&amp;clickid=botnav_privacy_txt" class="footerlink">Security &amp; Privacy</a>&nbsp;|&nbsp;<a href="/corp/index.jsp?clickid=botnav_about_txt" class="footerlink">About Us</a>&nbsp;|&nbsp;<a href="/affiliate/index.jsp?clickid=botnav_affiliates_txt" class="footerlink">Affiliates</a>
+
+
+
+
+
+
+<!--You are running on secprd1_ws_06_3-->
+
+
+
+
+<script type="text/javascript">
+<!--
+
+
+-->
+</script>
+<script language="javascript" src="https://dsa.csdata1.com/data/js/11142510/csgather.js"></script>
+
+
 	
-	   &nbsp;|&nbsp;<a href="/pwr/product-reviews/c/index.html" class="footerlink">Product Reviews</a>						
-		
-	&nbsp;|&nbsp;Copyright © 2001-2007.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:void(window.open('../helpdesk/availabilityPop.jsp','promo','width=350,height=170,scrollbars=yes,resizable=no'))" class="footerlink">Product Availability and Price</a></td>
-	<td width="20%" height="36" align="right" class="footerlink"><img src="http://MOD.imageg.net/images/bizrate.gif" width="79" height="35" border="0" align="absmiddle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-</tr>
-</tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--You are running on secprd1_ws_06_3-->
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+<!--You are running on secprd1_ws_06_3-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--You are running on secprd1_ws_06_3-->
+
+
+
+
+
+
+
+
+
+
+
+
+		<script type="text/javascript">
+			var br_frequency = 30;
+			var br_percentage = 20;
+			var br_size = 0;
+			var br_pos_x = 50;
+			var br_pos_y = 50;   
+			var br_data = [];
+			br_data['Q165'] = '';			
+		</script>
+		<script type="text/javascript" src="https://eval.bizrate.com/js/survey_26729_1.js"></script>
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+<!--You are running on secprd1_ws_06_3-->
+
+
+
+
+<!-- // End of code of PMO 52759 -->
+
+
+
+         
+
+<script language="JavaScript">
+var s_account='gsicmodells';
+</script>
+<script language="JavaScript" src="http://MOD.imageg.net/include/omniture-h.js"></script>
+<script language="JavaScript">
+s.server='www.modells.com';
+s.hier1='';
+s.eVar19='95232100073';
+s.channel='Home';
+s.pageName='Help Desk - Privacy Policy';
+s.setLinkInternalFilters('modells.com,imageg.net,gspt.net,gsipartners.com');
+var s_code=s.t(); if (s_code)document.write(s_code);
+</script>
+<!-- End SiteCatalyst code version: H.0. -->
+
+
+       
+	
+
+
+
+
+
+
+
+
+
+
+ <!-- end #container --></div>
+</div>
+
+
 
 
 
