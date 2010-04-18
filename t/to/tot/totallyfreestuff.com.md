@@ -1,20 +1,23 @@
-> *The following text is extracted and transformed from the totallyfreestuff.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514081754id_/http%3A//www.linkclicks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallyfreestuff.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418031309id_/http%3A//www.totallyfreestuff.com/privacy.asp) for the most accurate reproduction.*
 
-# Link Clicks, Inc. Privacy Policy
+# Totally Free Stuff
 
-**Link Clicks, Inc. Privacy Policy**
+Privacy Policy 
 
-Link Clicks, Inc. is deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.
+Totally Free Stuff is committed to protecting your privacy when you visit our Web site. You can access Totally Free Stuff and browse our site without disclosing any of your personal data. Totally Free Stuff does not collect personal information about individuals, such as names and mailing or e-mail addresses, unless it is knowingly provided by the individual and he or she has agreed to the terms under which Totally Free Stuff will use it. 
 
-**Consumer Information**
+Disclosure of Information 
 
-During the process of delivering an ad to you, Link Clicks, Inc. does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, Link Clicks, Inc. does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by Link Clicks, Inc. is used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers. 
+Totally Free Stuff will not sell, trade, or rent your personal information to others. We do not automatically log personal data nor do we link information automatically logged by other means with personal data about specific individuals. We may use IP addresses to compile and provide aggregate statistics about our visitors, traffic patterns, and administer the site. This statistical information may also be related to third parties, but these statistics will not include any personally identifying information, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. We collect only the personal data that you may volunteer while using our services. We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations. 
 
-* In some cases, you may voluntarily provide personal information in response to a specific program, feature, promotion, or ad. If this does occur, Link Clicks, Inc. may collect this information on behalf of an advertiser. This information is used by an advertiser to respond to your request. In addition, Link Clicks, Inc. may combine this information with other users' information and review
-* In some cases, software publishers and vendors may ask you to voluntarily provide personal information in order to download their software. Link Clicks, Inc. does not collect, use, or have access to this information. This information is collected by the third party publisher or vendor. Users should be advised that they are giving information to a third party.
+If you do not want to have your information used in this way, send an e-mail message containing your name and email address to DONOTSHARE@totallyfreestuff.com . Totally Free Stuff may release account information when such release is reasonably necessary to comply with the law; enforce the terms of any of our user agreements; or protect the rights, property, and safety of Totally Free Stuff , the users of its site, or others. 
 
-**Advertising**
+Our Commitment to Children's Privacy 
 
-Link Clicks, Inc. works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>.
+Protecting the privacy of the very young is important to us. For that reason, we do not collect or maintain information at our sites from those we actually know are under 18, and no part of our site is structured to attract anyone under 18. 
 
-If you have any additional questions about Link Clicks, Inc.'s dedication to consumer privacy, please contact us at [advertise@linkclicks.com](mailto:advertise@linkclicks.com). 
+External Web Sites 
+
+Please note that Totally Free Stuff contains links to other web sites. Please be aware that we are not responsible for the privacy practices of these other sites. We encourage our users to be aware that when they leave our site that you read the privacy statements of each web site that might collect personally identifying information. 
+
+This privacy statement applies solely to information collected by Totally Free Stuff . If you have any questions or concerns about our privacy policy, please contact: PRIVACY@totallyfreestuff.com 
