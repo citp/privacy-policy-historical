@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realist.com privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822094440id_/http%3A//www.facorelogic.com/global/legalprivacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realist.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420015157id_/http%3A//www.facorelogic.com/global/legalprivacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - First American CoreLogic, Inc.
 
