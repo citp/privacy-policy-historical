@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the dotnetspider.com privacy policy that was archived on 2009-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090908015632id_/http%3A//www.dotnetspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotnetspider.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419143627id_/http%3A//www.dotnetspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# dotnetspider privacy policy
+# dotnetspider.com privacy policy
 
-  
-| [](https://web.archive.org/communities/) New Feature: [Community Sites](https://web.archive.org/communities/):  
-Create your own .NET community website and start earning from Google AdSense !It's Free !  
----|---  
-  
+[](http://www.discountasp.net/go/go.aspx?i=11011 "ASP.NET 4 Hosting is Here! Click Here for 50% Off – Only $5/month")
+
 At dotnetspider.com, we know that you care how information about you is stored, used and shared. We do our best to keep your trust by using the information about you carefully and sensibly. This privacy notice explains our privacy policy. By visiting dotnetspider.com, you are accepting this privacy policy and our terms & conditions.
 
  **How do we use the information we gather?**
@@ -25,12 +22,14 @@ For statistical purposes, we gather and store general visitor information like I
 
 Cookies are small pieces of information stored in your computer. When you login to dotnetspider.com, we store small cookies in your computer, to provide a better browsing experience for you.
 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use non personal about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+
  **Advertisements**
 
 We use advertisements from third party companies. We try to avoid any kind of offensive and harmfull advertisements in our site, but in many cases we do not have complete control of which advertisements appear in our site, due to the fact that many advertisements are automatically served by third party advertisers. We will not be responsible for any harms caused by such third party advertisements served in our site. However, if such issues are pointed to our notice, we will make all attempts to stop publishing such advertisements in our site.
 
  **Business Transfers**
 
-As we continue to develop and grow our web site, we may sell dotnetspider.com or part of it. In such transactions, member information generally is one of the transferred business assets.
+As we continue to develop and grow our web site, we may sell dotnetspider.com or part of it. In such transactions, member information generally is one of the transferred business assets. 
 
 * * *
