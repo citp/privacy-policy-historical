@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the screenseven.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231044728id_/http%3A//www.screenseven.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenseven.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419083400id_/http%3A//screenseven.com/about/privacy.php) for the most accurate reproduction.*
 
-# Imprint - Privacy Statement - free game downloads at SCREEN SEVEN
+# Download Games | Free & Safe PC Game Downloads at SCREENSEVEN
 
 Viva Media wants you to understand how we use the information you provide to us. We believe that you should have the right to approve the use of that information. As technology changes, it will become necessary for Viva Media to make changes to its privacy policy and procedures. All such changes will be posted to this site.
 
