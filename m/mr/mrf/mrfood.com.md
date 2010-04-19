@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mrfood.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607081517id_/http%3A//www.mrfood.com/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrfood.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419023637id_/http%3A//www.mrfood.com/info/privacy_policy.html) for the most accurate reproduction.*
 
-# Mr.Food - OOH IT'S SO GOOD!!
+# Mr.Food - Privacy Policy
 
 **PRIVACY NOTICE/SECURITY POLICY**
 
