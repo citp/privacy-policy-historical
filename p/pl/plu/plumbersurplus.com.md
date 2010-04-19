@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the plumbersurplus.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228152335id_/http%3A//www.plumbersurplus.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumbersurplus.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419145847id_/http%3A//www.plumbersurplus.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - PlumberSurplus.com
+# Privacy Policy at PlumberSurplus.com
 
-[Home](https://web.archive.org/) > Privacy Policy 
+[ ](https://web.archive.org/Brands/Alsons/9)
 
-[ ](https://web.archive.org/Promotions.aspx)
+[Home](https://web.archive.org/) > **Privacy Policy**
 
 #### Overview
 
