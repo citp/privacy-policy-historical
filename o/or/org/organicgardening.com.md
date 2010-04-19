@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organicgardening.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209211929id_/http%3A//www.rodale.com/corp/sub/0%2C%2C1-28%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicgardening.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419115703id_/http%3A//www.rodale.com/corp/sub/0%2C%2C1-28%2C00.html) for the most accurate reproduction.*
 
 # Your Privacy Policy | Rodale Inc
 
