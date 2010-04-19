@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221092238id_/http%3A//www.autoanything.com/help/policy.aspx%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419081516id_/http%3A//www.autoanything.com/help/policy.aspx%23privacypolicy) for the most accurate reproduction.*
 
 # AutoAnything Privacy Policy
 
@@ -17,23 +17,23 @@ Take a moment to check out AutoAnything's policies and related information
 
 ## AutoAnything's Lower Price Guarantee
 
-**You will never pay more for any product at AutoAnything-guaranteed!**
+**You will never pay more for any product at AutoAnything–guaranteed!**
 
-If you happen to find the same product at a lower price, we will refund the difference - plus $1 - promptly.
+If you happen to find the same product at a lower price, we will refund the difference - plus $1.00 - promptly.
 
 And, to show our commitment to you, you have 1 FULL Year of price protection from the date of your purchase.
 
 ### Price match for products you would like to purchase
 
-If you want to purchase a product from AutoAnything and you see it advertised at a lower price anywhere else, there are two ways to get that price for your order:
+If you would like to purchase a product from AutoAnything and you see it advertised at a lower price somewhere else, there are two ways to get that price for your order:
 
   * **Use our online checkout process***  
-Place your order online as you would normally order an item from AutoAnything. In the "Additional Information" area, located on the order and payment review page during checkout, note the lower price you found and where you found that price. We will adjust your order to reflect a credit for the difference.
+Place your order online as you would normally order an item from AutoAnything. In the "Additional Information" area, located on the order and payment review page during checkout, note the lower price and where you found. We will adjust your order to reflect a credit for the difference.
 
 *Please note: your online receipt will not reflect the price adjustment. A corrected receipt will be emailed to you once the adjustment has been processed.
 
-  * **Place your order by email**  
-Email us at [sales@autoanything.com](mailto:sales@autoanything.com), and we will gladly place your order at the lower price. Include the lower price and the location where it was found.
+  * **Place your order over the phone**  
+Contact one of our Auto Accessory Specialists toll-free at (800) 874-8888. We will review your request and place your order for the lower price.
 
 
 
@@ -41,15 +41,17 @@ Processing your order at the lower match price is done at the discretion of Auto
 
 ### Price match for products you have already purchased
 
-Email us at [customerservice@autoanything.com](mailto:customerservice@autoanything.com), providing the lower price, source and the date you purchased the item from us. We will then gladly look into your order and process your refund. You will receive confirmation of the refund by email.
+Email us at [customerservice@autoanything.com](mailto:customerservice@autoanything.com), providing the lower price, where you found it and the date you purchased the item from us. We will look into your order and process your refund. You will receive confirmation of the refund by email within 1-2 business days.
 
 Processing your order at the lower match price is done at the discretion of AutoAnything and is subject to evaluation using the terms and conditions below.
 
 ### Terms and conditions
 
-Price comparison includes merchandise selling price plus equivalent shipping method and handling charges. Expedited shipping offers may not be available for price matched orders. The item also needs to be the identical product available for purchase from an authorized dealer and not a pricing error. Excludes manufacturer restrictions, rebates, liquidations, auction sites such as Ebay, coupons, promotional offers, employee discounts and membership club stores. Price matches discounts cannot be combined with AutoAnything promotional offers. California residents – price matches do not include state sales tax.
+Price comparison includes merchandise selling price plus equivalent shipping method, handling charges, and sales tax. The item also needs to be the identical product and in new and unused condition. The item needs to be in stock and available for purchase from an authorized dealer and not a pricing error. Excludes rebates, liquidations, auction sites such as Ebay, and employee discounts. Price match discounts cannot be combined with AutoAnything promotional offers.
 
-On rare occasions, erroneous price or availability listings may appear on this site or independently operated affiliate sites. While we apologize for the inconvenience such an error may cause, AutoAnything reserves the right to correct inaccuracies at any time, with or without notice, and update any related orders. We also reserve the right not to price match against any erroneous price listing on this site or any other site. For more information on site errors and corrections, please see our full [terms and conditions](http://www.autoanything.com/help/policy.aspx#legalnotice).
+Expedited shipping offers and orders shipped outside of the Unites States or Territories may not be eligible for price matching. AutoAnything reserves the right to limit the amount of price match requests per customer.
+
+On rare occasions, erroneous price or availability listings may appear on this site or independently operated affiliate sites. While we apologize for the inconvenience such an error may cause, AutoAnything reserves the right to correct inaccuracies at any time, with or without notice, and update any related orders. We also reserve the right not to price match against any erroneous price listing on this site or any other site. For more information on site errors and corrections, please see our full terms and conditions.
 
 * * *
 
@@ -230,8 +232,6 @@ San Diego, CA 92123
 (All times PST) | Friday | 5:30am - 5:00pm  
 (800) 874-8888 | Saturday | 6:00am - 5:00pm  
   | Sunday | 6:00am - 7:00pm  
-|  Closed on Friday, 12/25/2009.  
-Closed on Friday, 1/1/2010.  
   
 
 
