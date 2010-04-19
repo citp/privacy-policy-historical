@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soccernews.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219032802id_/http%3A//www.soccernews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccernews.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419132817id_/http%3A//www.soccernews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
