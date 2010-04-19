@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnn.cn privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216123100id_/http%3A//cnn.cn/shop/privacy-notice-i-10.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnn.cn privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419113958id_/http%3A//cnn.cn/shop/privacy-notice-i-10.html) for the most accurate reproduction.*
 
 # Cellular Nationwide Network - Cellular Accessories - 3G, Sony, Panasonic, LG, SonyEricsson, Nokia,
 
