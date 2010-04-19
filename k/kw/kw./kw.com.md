@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kw.com privacy policy that was archived on 2009-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090518144002id_/http%3A//www.kw.com/kw/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kw.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419170118id_/http%3A//www.kw.com/kw/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Keller Williams Realty
 
