@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daddiesboardshop.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226154120id_/http%3A//www.daddiesboardshop.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daddiesboardshop.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419113907id_/http%3A//www.daddiesboardshop.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Longboard Skateboard & Snowboard Shop - Daddies Board Shop - Since 1995 - Privacy Policy
 
@@ -26,6 +26,8 @@ We reserve the right to monitor, and disclose to, government officials or law en
   
 [](https://web.archive.org/search.aspx?find=landyachtz)
 
+[](https://web.archive.org/search.aspx?find=sector+9)
+
 [](https://web.archive.org/search.aspx?find=rayne+longboards)
 
 [](https://web.archive.org/search.aspx?find=burton)
@@ -38,4 +40,6 @@ We reserve the right to monitor, and disclose to, government officials or law en
 
 [](https://web.archive.org/search.aspx?find=rome)
 
-[](https://web.archive.org/search.aspx?find=686) [](https://web.archive.org/nike60.aspx)
+[](https://web.archive.org/search.aspx?find=686)
+
+[](https://web.archive.org/nike60.aspx)
