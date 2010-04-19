@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camfrog.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231025517id_/http%3A//www.camfrog.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camfrog.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419061802id_/http%3A//www.camfrog.com/privacy.phtml) for the most accurate reproduction.*
 
 # Camfrog - Privacy Policy
 
