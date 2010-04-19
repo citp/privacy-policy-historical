@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baseballprospectus.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231002043id_/http%3A//www.baseballprospectus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseballprospectus.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419031128id_/http%3A//www.baseballprospectus.com/privacy) for the most accurate reproduction.*
 
 # Baseball Prospectus | Privacy Policy
 
