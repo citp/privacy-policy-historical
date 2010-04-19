@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the espnshop.com privacy policy that was archived on 2009-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091218024806id_/http%3A//www.espnshop.com/content/custserv/help--privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the espnshop.com privacy policy that was archived on 2010-04-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100419144110id_/http%3A//www.espnshop.com/content/custserv/help--privacyPolicy) for the most accurate reproduction.-->
 
 <html><head><script language="JavaScript">
 function openBMLWindow(url,height) {
@@ -28,17 +28,14 @@ function openInvestWin(url) {
 	<title>ESPN Shop: Real Gear For Real Fans</title>
 	<meta name="keywords" content="espn shop, espn shop shoes, espnshop, gift for him, adidas superstar, reeboks, gifts for him, adidas shoes, running, athletic shoes, running shoes, discount athletic shoes, fitness, nike airmax plus, slides, basketball shoes, nike, sneakers, footwear, boots, tuned air, sports apparel, air jordan, jumpman, soccer shoes, tennis shoes, cleats, spikes, jackets, pants, shorts, hats, shirts, t-shirts, jerseys, sandals, champion, timberland, asics, reebok, converse, vans, kswiss, fila, new balance, kappa, salomon, teva, saucony, birkenstock, fubu, lugz, skechers, fossil, clothing, large sizes, big &amp; tall, nike basketball shoes, nike running shoes, big and tall">
 	<meta name="description" content="ESPN Shop has athletic shoes, running shoes, basketball shoes and sports apparel from nike, adidas, reebok, new balance, asics, air jordan with large size shoes and wide width shoes available.">
-	<meta http-equiv="published" content="Thursday, December 17, 2009 8:48:06">
 	
+	<meta http-equiv="published" content="Monday, April 19, 2010 9:41:10">
 	
-	<link href="http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/css/typography.css" rel="stylesheet" type="text/css">
-	<link href="http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/css/style.css" rel="stylesheet" type="text/css">
     <script type="text/javascript" src="http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/shared/scripts/jquery-1.3.2.min.js"></script>
 	<script language="javascript" src="http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/shared/scripts/ajax.js"></script>
 	<script language="javascript" src="http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/shared/scripts/common.js"></script>
 	<script language="javascript" src="http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/shared/search/scripts/sizesearch.js"></script>
 	<script language="javascript" src="http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/shared/PDPZoom/PDPZoom.js"></script>
-	<link href="http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/shared/PDPZoom/PDPZoom.css" rel="stylesheet" type="text/css">
 	<script type="text/javascript">//<![CDATA[
 		function openJobWindow(url) {
 			popupWin = window.open(url,'jobsFootlocker','height=430,width=640,fullscreen=no,menubar=no,location=no,resizable=yes,scrollbars=yes,titlebar=yes,toolbar=no');
@@ -52,7 +49,7 @@ function openInvestWin(url) {
 		
 			var login_template_path = "http://www.espnshop.com/login/login.cfm?secured=false&bv_RR_enabled=false&bv_AA_enabled=false";
 		
-		var register_url = "https://www.espnshop.com/account/default.cfm?TID=5555-06170920463506201242258-0&action=accountCreate";
+		var register_url = "https://www.espnshop.com/account/default.cfm?action=accountCreate";
     </script> 
 	<script type="text/javascript" src="http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/shared/myAccount/login.js"></script>
     <link href="http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/shared/myAccount/login.css" rel="stylesheet" type="text/css">
@@ -89,31 +86,32 @@ function openInvestWin(url) {
 		function logout(coremetricsEventId, CoremetricsCategoryId, coreMetricsDo) {
 			if ((coremetricsEventId) && (CoremetricsCategoryId) && coreMetricsDo == 'true')
 				{ cmCreateConversionEventTag(coremetricsEventId, 1, CoremetricsCategoryId, 0);  }
-			eraseCookie('SESSION');
-			eraseCookie('USER_PROFILE');
-			eraseCookie('BAZAARVOICEUSER');
 			if ((coremetricsEventId) && (CoremetricsCategoryId) && coreMetricsDo == 'true')
 				{ cmCreateConversionEventTag(coremetricsEventId, 2, CoremetricsCategoryId, 0);	}
+		
+		var logoutPath = "http://www.espnshop.com/account/default/action--accountSignOut/";
 		
 			var thisurl = window.location.toString();
 			var regex = "/" + "bvdisplaycode--/[a-zA-Z0-9%._&=]*" + "/g";
 			if (thisurl.indexOf('bvdisplaycode--/') > 0 && thisurl.indexOf('submitReview') < 0) {
 				thisurl = thisurl.replace(eval(regex), '');
-				window.location=thisurl;
-			}
-			else {
-				window.location.reload();
 			}
 		
+			var ret_val= $.ajax({ type: "GET", url: logoutPath, data: {Next: escape(thisurl)}, async: false }).responseText;
+			eraseCookie('SESSION');
+			eraseCookie('USER_PROFILE');
+			eraseCookie('BAZAARVOICEUSER');
+			window.location=thisurl;
 		}
+		
 //-->
 </script>
 
 	<script type="text/javascript" src="http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/shared/wishlist/wl_sharedWishList.js"></script>
 	
 	<script>
-	var wishlistpostCardURL = 'http://www.espnshop.com/wishlist/wl_postcard.cfm';
-	var wishlistmailSender  = 'http://www.espnshop.com/wishlist/wl_mailSender.cfm';
+	var wishlistpostCardURL = 'https://www.espnshop.com/wishlist/wl_postcard.cfm';
+	var wishlistmailSender  = 'https://www.espnshop.com/wishlist/wl_mailSender.cfm';
 	var dsnname = 'pro-espn-lb-alt';
 	
 		var microsite = '';
@@ -128,8 +126,40 @@ function openInvestWin(url) {
 			}
 	</style>
 
+	<style type="text/css">
+	@import "http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/shared/catalogQuickOrder/catalogQuickOrder.css";
+	</style>
+	<script type="text/javascript" src="http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/shared/catalogQuickOrder/catalogQuickOrder.js"></script>
+	<script type="text/javascript">
+	var quickordersearchtemplate = 'http://www.espnshop.com/catalogQuickOrder/catalogQuickOrderSearchResult.cfm';
+	
+		var microsite = '';
+	
+		var doCoreMetrix = true;	
+	
+	</script>
 
 
+
+                <style type="text/css">
+					@import 'http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/css/typography.css'; @import 'http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/css/style.css'; @import 'http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/shared/PDPZoom/PDPZoom.css'; 
+                </style>
+            
+                <style type="text/css">
+					
+	.checkout_step {
+		height: 35px;
+		background-color: transparent;
+		background-position: top left;
+		background-repeat: no-repeat;
+	}
+	#checkout_step_shipping { background-image: url(http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/images/espn/checkout/header-shipping.gif); }
+	#checkout_step_payment { background-image: url(http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/images/espn/checkout/header-payment.gif); }
+	#checkout_step_review { background-image: url(http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/images/espn/checkout/header-review.gif); }
+	#checkout_step_receipt { background-image: url(http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/images/espn/checkout/header-receipt.gif); }
+
+                </style>
+            
 		<style type="text/css">
 			body {
 	margin:0 auto;
@@ -664,6 +694,13 @@ width:150px;
 	margin-right:2px;
 	margin-left:2px;
 }
+.flex-column-first {
+	float:left;
+	text-align:left;
+	width:160px;
+	margin-right:2px;
+	margin-left:2px;
+}
 .flex-column-keyevents {
 	float:left;
 	text-align:left;
@@ -1095,8 +1132,8 @@ cursor:pointer;
     <div id="header">
 <!-- customer greeting div -->
 	<div id="custgreet">
-	<div id="welcome_area"><span id="guest_welcome">Welcome, Guest, click here to <a href="javascript:openLoginDialogForID('guest_welcome_login', null, null, function() {updateWelcome()}, null,'Guest Message', 'Log In', 'true', 'true')" id="guest_welcome_login">log in</a> 
-								or <a href="https://www.espnshop.com/account/default/action--accountCreate/">register</a>.</span></div>
+	<div id="welcome_area"><span id="guest_welcome">Welcome, Guest, click here to <a href="javascript:openLoginDialogForID('guest_welcome_login', null, null, function() {updateWelcome()}, null,'Guest Message', 'Log In', 'true', 'true')" id="guest_welcome_login" rel="nofollow">log in</a> 
+								or <a href="https://www.espnshop.com/account/default/action--accountCreate/" rel="nofollow">register</a>.</span></div>
 	</div>
 	<!-- start header-left div -->
 	<div id="header-left">
@@ -1418,7 +1455,7 @@ function hideIt(theId, holderId, doWhat){
         </div>
 		<div class="cleardiv"></div>
 		<!-- start custserv div -->
-        <div id="custserv-links" class="navtoplink"><a href="https://www.espnshop.com/account/default/action--orderStatus/" title="Check the Status of Your Order">Order Status</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.espnshop.com/wishlist/">Wish List</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.espnshop.com/account/default/" title="View or Change Your Account Settings">My Account</a>&nbsp;&nbsp;|&nbsp;&nbsp;<span id="header_login_area"><a href="javascript:openLoginDialogForID('top_welcome_login', null, null, function() {updateWelcome()}, 'left', 'Global Header', 'Log In' , 'true', 'true')" id="top_welcome_login">Log In</a></span> 
+        <div id="custserv-links" class="navtoplink"><a href="https://www.espnshop.com/account/default/action--orderStatus/" title="Check the Status of Your Order">Order Status</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.espnshop.com/wishlist/">Wish List</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.espnshop.com/account/default/" title="View or Change Your Account Settings">My Account</a>&nbsp;&nbsp;|&nbsp;&nbsp;<span id="header_login_area"><a href="javascript:openLoginDialogForID('top_welcome_login', null, null, function() {updateWelcome()}, 'left', 'Global Header', 'Log In' , 'true', 'true')" id="top_welcome_login" rel="nofollow">Log In</a></span> 
 
           <!-- end custserv div -->
         </div>
@@ -1429,22 +1466,7 @@ function hideIt(theId, holderId, doWhat){
 	   <!-- end header div -->
     </div> 
 	  <!--- end header wrap --->
-  </div> <a href="http://ww2.espnshop.com/2009/espngb111609a_dis/espngb111609a.html" target="_new">
-		<img src="http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/images/espn/topbanners/espngb111609a.jpg" alt="Free Shipping >$50" border="0">
-		</a> 
-<style type="text/css">
-	.checkout_step {
-		height: 35px;
-		background-color: transparent;
-		background-position: top left;
-		background-repeat: no-repeat;
-	}
-	#checkout_step_shipping { background-image: url(http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/images/espn/checkout/header-shipping.gif); }
-	#checkout_step_payment { background-image: url(http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/images/espn/checkout/header-payment.gif); }
-	#checkout_step_review { background-image: url(http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/images/espn/checkout/header-review.gif); }
-	#checkout_step_receipt { background-image: url(http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/images/espn/checkout/header-receipt.gif); }
-</style>
-
+  </div> <!--cache_delete_after_here--> 
 
 <style type="text/css">
 	/*#helpheader {
@@ -1517,6 +1539,11 @@ function hideIt(theId, holderId, doWhat){
 	#itemchild {
 		padding-left: 17px;
 	}
+	.language {
+		float: right;
+		font-size: 10px;
+		color: orange;
+	}
 </style>
 
 
@@ -1556,7 +1583,10 @@ function hideIt(theId, holderId, doWhat){
 			
 			
 			
-			<div id="contenttitle">Privacy Policy<hr size="1"></div>
+			<div id="contenttitle">
+            	Privacy Policy
+                <hr size="1">
+            </div>
 			<ul></ul>
 			
 				
@@ -1657,9 +1687,17 @@ function hideIt(theId, holderId, doWhat){
 </tr>
 </tbody></table>
 <div class="footer-flex">
-		   <div id="flex-generic-1" class="flex-column-giftcards">
-		   <div class="flex-titlebar">Gift Cards</div>
-      <a href="http://www.espnshop.com/promo/default/promoid--5001261/" title="ESPNShop Gift Cards"><img src="http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/images/espn/promo/wide/art-giftcard1.gif" height="63" width="99" border="0" alt="ESPNShop Gift Cards"></a>      
+		   <div id="flex-generic-1" class="flex-column-first">
+            <div class="flex-titlebar">Top Sellers</div>
+            <div class="flex-links"> 
+			<ul>
+			<li><a href="http://www.espnshop.com/catalog/advancedSearch/search--k/keyword--nike+elite+hoody/" title="Nike College Elite Hoody">Nike Elite Hoody</a></li>
+			<li><a href="http://www.espnshop.com/catalog/advancedSearch/search--k/keyword--nfl+jersey+tee/" title="Reebok NFL Jersey T-shirt">NFL Jersey Tee</a></li>
+			<li><a href="http://www.espnshop.com/catalog/advancedSearch/search--k/keyword--college+classic+sale/" title="Nike College Classic Fan Gear Sale">College Classic Sale</a></li>
+			<li><a href="http://www.espnshop.com/catalog/advancedSearch/search--k/keyword--nba+court+series+hoody/" title="NBA Court Series Hoody">NBA Court Series Hoody</a></li>
+			
+			</ul>  
+         </div>
 	  </div>
 
 		  <div class="flex-vertline"><img src="http://a712.g.akamai.net/7/712/225/20090917e/www.espnshop.com/images/espn/bottomnav/Wide/art-divider.gif" width="1" height="110" alt="Divider Line"></div>	
