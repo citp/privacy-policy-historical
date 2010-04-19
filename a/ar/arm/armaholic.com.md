@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the armaholic.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218015138id_/http%3A//www.armaholic.com/page.php%3Fid%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armaholic.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419121521id_/http%3A//www.armaholic.com/page.php%3Fid%3D37) for the most accurate reproduction.*
 
 # Privacy Policy - Armaholic.com
 
  
 
-If you require any more information or have any questions about our privacy policy, please feel free to [url=http://www.armaholic.com/plug.php?e=contactus]contact us.
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.armaholic.com/plug.php?e=contactus).
 
 At [www.armaholic.com](http://www.armaholic.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [www.armaholic.com](http://www.armaholic.com/) and how it is used. 
 
