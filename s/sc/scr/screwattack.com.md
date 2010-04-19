@@ -1,32 +1,23 @@
-> *The following text is extracted and transformed from the screwattack.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520175941id_/http%3A//www.screwattack.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screwattack.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419071010id_/http%3A//screwattack.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ScrewAttack.com
+# Privacy Policy | ScrewAttack - Games. Community. Videos. Fun.
 
-**Privacy Policy**  
-ScrewAttack Entertainment LLC, producer of ScrewAttack.com and its related content and service sites, believes that electronic privacy is crucial for the ongoing success of the Internet as a service, commercial, and entertainment medium. We know you're concerned about protecting your privacy online. At ScrewAttack.com, we treat your personal information (especially payment information) with the highest standards of safety, security, and confidentiality.  
-Information Gathered
+**We are committed to protecting your privacy**  
+We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information. 
 
-We don't collect personal information without your knowledge. We don't sell, rent, or give your personal information to unrelated third parties without your prior permission.  
-This policy explains what information we collect about you and how we use that information. We also outline the choices you have.  
-ScrewAttack.com Store and ScrewAttack.com Subscriptions
+**Information Collected**  
+We may collect all of the information that you give us depending on the type of transaction you enter into, including your email address, together with data about your use of the website. Other information that may be needed from time to time to process a request may also be collected as indicated on the website. 
 
-By shopping at ScrewAttack.com/merch.html or ScrewAttack.com/join.html, you accept the practices outlined in this Privacy Policy.  
-In order to ship products to you, we need to collect information about you, including your name, billing address, shipping address, e-mail address, home phone number and credit card information. We use your e-mail address as a login for the store, as well as a way to send you a confirmation of your order. If we have a question about your order, we may contact you by e-mail. For example, we may call you to verify your credit card information on a large purchase. We do this for your protection.
+**Information Use**  
+We use the information collected primarily to process the task for which you visited the website. Data collected in the US is held in accordance with the Data Protection Act. All reasonable precautions are taken to prevent unauthorized access to this information. 
 
-**Security**
+**Cookies**  
+Your Internet browser has the in-built facility for storing small files- "cookies" - that hold information which allows a website to recognize your account. Our website takes advantage of this facility to enhance your experience. You have the ability to prevent your computer from accepting cookies but, if you do, certain functionality on the website may be impaired. 
 
-ScrewAttack pledges a safe and worry-free shopping experience. We use the industry standard for Internet security, Secure Sockets Layer (SSL 128-bit) encryption to protect your personal data and ensure that it is transmitted securely.
+**Disclosing Information**  
+We do not disclose any personal information obtained about you from this website to third parties. We may also use the information to keep in contact with you and inform you of developments associated with our business. If at any time in the future we should wish to disclose information collected on this website to any third party, it would only be with your knowledge and consent. 
 
-**Traffic Data**
+We may from time to time provide information of a general nature to third parties - for example, the number of individuals visiting our website or completing a registration form, but we will not use any information that could identify those individuals. 
 
-Each time a visitor comes to an ScrewAttack Entertainment LLC site, information is collected to improve the overall quality of ScrewAttack Entertainment LLC sites. ScrewAttack Entertainment LLC collects the visitor's domain name/IP Address (e.g., whether the user is logged on from netscape.com or yale.edu or 255.255.255.0), referral data (e.g., we record the address of the last URL a user visited prior to clicking through to an ScrewAttack Entertainment LLC site), and browser/platform type (e.g., a Netscape browser on a Macintosh platform).  
-In addition to collecting these types of information, ScrewAttack Entertainment LLC's advertisement delivery system collects aggregate search terms for internal reporting and targeted advertising. ScrewAttack Entertainment LLC's advertisement delivery system collects visitor information for purposes of product monitoring, product improvement, and targeted advertising.  
-ScrewAttack Entertainment LLC also counts, tracks, and aggregates the visitor's activity into our analysis of general traffic flow at ScrewAttack Entertainment LLC sites (e.g., tracking where traffic comes from and how traffic flows within the sites). ScrewAttack Entertainment LLC may merge this information into group data, which may then be shared on an aggregated basis with potential advertisers, research firms, and business partners. ScrewAttack Entertainment LLC will not disclose your individual identity or personal data. When ScrewAttack Entertainment LLC does present aggregated information to potential advertisers, research firms, and business partners, no one will be able to identify you or contact you.  
-E-mail Services
-
-Any/all e-mail addresses sent to us as the result of correspondence with the consumers of ScrewAttack Entertainment LLC will not be used or collected for the purposes of reselling to a third party and will not be added to a bulk e-mailing list.
-
-ScrewAttack Entertainment LLC provides users the opportunity to opt-in and opt-out of receiving e-mail communications from us. This is made available during sign-up for our e-mail lists and in e-mail messages delivered from ScrewAttack. For any list managed by ScrewAttack, users can use the link in the footer of most e-mail messages to unsubscribe.  
-User Submitted Content
-
-For all of your User Materials that you post or otherwise submit to the ScrewAttack.com, including feedback, bug reports, piracy reports or suggestions, you grant ScrewAttack Entertainment and the users of this ScrewAttack.com an unrestricted, irrevocable, non-exclusive, worldwide, royalty-free and fully paid up license under all Intellectual Property Rights to use, reproduce, publicly display, publicly perform, copy, edit, modify, translate, reformat, transmit and distribute such User Materials, with or without having your name attached to such Images, in any manner or form and for any purpose, with full rights to sublicense such rights through multiple tiers of distribution, and you also acknowledge and agree that ScrewAttack.com is free to use any ideas, concepts, know-how or techniques that you provide for any purpose without any compensation to you. You acknowledge and agree that ScrewAttack Entertainment LLC shall not be liable for any failure to store User Materials on the Site at any time.
+**Third Party Advertising**  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and the ability to opt-out of 3rd party data collection, please visit: <http://www.networkadvertising.org/managing/opt_out.asp>. 
