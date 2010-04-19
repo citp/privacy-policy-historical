@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taronga.org.au privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226151330id_/http%3A//www.taronga.org.au/tcsa/about/internet-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taronga.org.au privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419034703id_/http%3A//www.taronga.org.au/tcsa/about/internet-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Internet Privacy Policy - Taronga Conservation Society Australia
 
