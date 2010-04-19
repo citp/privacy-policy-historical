@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226231209id_/http%3A//www.classmarker.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419073340id_/http%3A//classmarker.com/privacy.php) for the most accurate reproduction.*
 
 # Online testing Privacy. Online testing ClassMarker
 
@@ -17,7 +17,7 @@ ClassMarker takes your privacy seriously. We are committed to protecting the pri
 
 **How we use this information**
 
-We collect this information as a means of personalisation and contact if required i.e. we can send you an email with a new password if you have forgotten your password.
+We collect this information as a means of personalization and contact if required i.e. we can send you an email with a new password if you have forgotten your password.
 
 We may monitor this website (including using 'cookies') in order to identify user trends, which will assist us in improving the site. If that occurs, the information will only be used in aggregate form and your individual details will not be identified or disclosed to any person.
 
@@ -37,7 +37,13 @@ Users taking external tests may be asked to submit personal information like Nam
 
 **Protection**
 
-Your information is protected by secure servers. Your information is also password-protected so only you will have access to your information unless you choose to share some of your online tests with other users.
+ClassMarker is hosted in a high security data center which is staffed 24/7.
+
+All passwords are stored fully encrypted and login and registration is communicated via HTTPS.
+
+Your data is completely private to you the account administrator and is protected by secure servers.
+
+Tests are only available to those who the account administrator gives access to. Sharing tests, for example, is allowed on ClassMarker but only if the account administrator chooses to do so, by default all your data in ClassMarker is private to your account.
 
 **Cookies**
 
@@ -53,6 +59,6 @@ New versions will be posted on this web site, so please check back periodically 
 
 If you have any queries on our privacy policy please send your query via our [contacts page](https://web.archive.org/contactus.php "contacts page"). 
 
-[Go to homepage](https://web.archive.org/ "Go to homepage")
+[](http://www.addthis.com/bookmark.php)
 
 [](http://www.globalsign.com/ssl/ "SSL")
