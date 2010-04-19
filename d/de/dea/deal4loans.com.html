@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the deal4loans.com privacy policy that was archived on 2009-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091226105436id_/http%3A//www.deal4loans.com/Privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the deal4loans.com privacy policy that was archived on 2010-04-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100419071307id_/http%3A//www.deal4loans.com/Privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -76,13 +76,14 @@
 
 <div id="dropmenu_cr" class="dropmenudiv_d" style="width: 241px; border-top:none;">
  <a href="/apply-car-loans.php">Apply Car Loan</a>
-  <a href="/Contents_Car_Loan_Eligibility.php">Car Loan  Eligibility</a> 
+  <a href="/car-loan-interest-rate.php">Car Loan Interest Rate</a>
+ <a href="/Contents_Car_Loan_Eligibility.php">Car Loan  Eligibility</a> 
  <a href="/Contents_Car_Loan_Mustread.php">Car Loan Must Read</a>
  <a href="/Contents_Car_Loan_Faqs.php">Car Loan FAQs</a></div>
  
 <div id="dropmenu_cc" class="dropmenudiv_d" style="width: 241px; border-top:none;">
  <a href="/apply-credit-card.php">Apply Credit Card</a>
-  <a href="/Contents_Credit_Card_Eligibility.php">Available Credit Card Products</a>
+  <a href="/request-credit-card.php">Available Credit Card Products</a>
  <a href="/Contents_Credit_Card_Mustread.php">Credit Cards Must Read</a>
  <a href="/Contents_Credit_Card_Faqs.php">Credit Cards FAQs</a></div>
  
@@ -143,7 +144,7 @@ We may use third-party advertising companies and/or ad agencies to serve ads whe
  <script type="text/javascript">
  function validmail(email1) 
 {
-	invalidChars = " /:,;";
+	invalidChars = " :,;/";
 	if (email1 == "")
 	{// cannot be empty
 		alert("Invalid E-mail ID.");
@@ -240,9 +241,9 @@ var iChars ="/@#$%^&*()+=-[]\\\';,.{}|\":<>?!";
 				 document.loan_form.mobile.focus();
 				return false;
         }
-        if (document.loan_form.mobile.value.charAt(0)!="9")
+        if ((document.loan_form.mobile.value.charAt(0)!="9") && (document.loan_form.mobile.value.charAt(0)!="8"))
 		{
-                alert("The number should start only with 9");
+                alert("The number should start only with 9 or 8");
 				 document.loan_form.mobile.focus();
                 return false;
 		}
@@ -292,7 +293,15 @@ var iChars ="/@#$%^&*()+=-[]\\\';,.{}|\":<>?!";
 		return false;
 	}
 	
+	if(!document.loan_form.accept.checked)
+	{
+		alert("Accept the Terms and Condition");
+		document.loan_form.accept.focus();
+		return false;
+	}
+		
 }
+
 function containsdigit(param)
 {
 mystrLen = param.length;
@@ -304,6 +313,43 @@ return true;
 }
 }
 return false;
+}
+
+
+function tataaig_comp()
+{
+	//alert("hello");
+	var ni = document.getElementById('tataaig_compaign');
+		
+		if(ni.innerHTML=="")
+		{
+			if(document.loan_form.city.value=="Delhi" || document.loan_form.city.value=='Delhi' || document.loan_form.city.value=='Noida'  ||  document.loan_form.city.value=='Gurgaon'  ||  document.loan_form.city.value=='Faridabad'  ||  document.loan_form.city.value=='Gaziabad'  ||  document.loan_form.city.value=='Faridabad'  ||  document.loan_form.city.value=='Greater Noida'  || document.loan_form.city.value=='Chennai'  ||  document.loan_form.city.value=='Mumbai'  ||  document.loan_form.city.value=='Thane'  ||  document.loan_form.city.value=='Navi mumbai'  ||  document.loan_form.city.value=='Kolkata'  ||  document.loan_form.city.value=='Kolkota'  ||  document.loan_form.city.value=='Hyderabad'  ||  document.loan_form.city.value=='Pune'  || document.loan_form.city.value=='Bangalore')
+			{
+				//alert(document.loan_form.CC_Holder.value);
+				ni.innerHTML = '<input type="checkbox"  style="border:none;" name="Accidental_Insurance" id="Accidental_Insurance" value="1" checked>&nbsp;<a href="tata-aig-personal-accident-cover.php" target="_blank" style="font-weight:normal; color: #1C50B0;">Get free personal accident insurance from TATA AIG</a>';
+			}
+			else 
+			{
+			//alert(document.loan_form.CC_Holder.value);
+				ni.innerHTML = '';
+			}
+			
+		}
+		else if(ni.innerHTML!="")
+		{
+			if(document.loan_form.city.value=="Delhi" || document.loan_form.city.value=='Delhi' || document.loan_form.city.value=='Noida'  ||  document.loan_form.city.value=='Gurgaon'  ||  document.loan_form.city.value=='Faridabad'  ||  document.loan_form.city.value=='Gaziabad'  ||  document.loan_form.city.value=='Faridabad'  ||  document.loan_form.city.value=='Greater Noida'  || document.loan_form.city.value=='Chennai'  ||  document.loan_form.city.value=='Mumbai'  ||  document.loan_form.city.value=='Thane'  ||  document.loan_form.city.value=='Navi mumbai'  ||  document.loan_form.city.value=='Kolkata'  ||  document.loan_form.city.value=='Kolkota'  ||  document.loan_form.city.value=='Hyderabad'  ||  document.loan_form.city.value=='Pune'  || document.loan_form.city.value=='Bangalore')
+			{
+				//alert(document.loan_form.CC_Holder.value);
+				ni.innerHTML = '<input type="checkbox"  class="NoBrdr" name="Accidental_Insurance" id="Accidental_Insurance" value="1" checked>&nbsp;<a href="tata-aig-personal-accident-cover.php" target="_blank" style="font-weight:normal; color: #1C50B0;" >Get free personal accident insurance from TATA AIG</a>';
+			}
+			else 
+			{
+			//alert(document.loan_form.CC_Holder.value);
+				ni.innerHTML = '';
+			}
+			
+		}
+		return true;
 }
 </script>
 <div style=" width:250px; float:right;">
@@ -349,14 +395,18 @@ return false;
 	 </tr>
 	 <tr>
 	 <td class="frmtxt">City</td>
-	 <td height="25" align="left"><select name="city" style="width:136px;">
+	 <td height="25" align="left"><select name="city" style="width:136px;" onchange="tataaig_comp();">
      <option value="Please Select">Please Select</option><option value="Ahmedabad">Ahmedabad</option><option value="Aurangabad">Aurangabad</option><option value="Bangalore">Bangalore</option><option value="Baroda">Baroda</option><option value="Bhiwadi">Bhiwadi</option><option value="Bhopal">Bhopal</option><option value="Bhubneshwar">Bhubneshwar</option><option value="Chandigarh">Chandigarh</option><option value="Chennai">Chennai</option><option value="Cochin">Cochin</option><option value="Coimbatore">Coimbatore</option><option value="Cuttack">Cuttack</option><option value="Dehradun">Dehradun</option><option value="Delhi">Delhi</option><option value="Faridabad">Faridabad</option><option value="Gaziabad">Gaziabad</option><option value="Gurgaon">Gurgaon</option><option value="Guwahati">Guwahati</option><option value="Hosur">Hosur</option><option value="Hyderabad">Hyderabad</option><option value="Indore">Indore</option><option value="Jabalpur">Jabalpur</option><option value="Jaipur">Jaipur</option><option value="Jamshedpur">Jamshedpur</option><option value="Kanpur">Kanpur</option><option value="Kochi">Kochi</option><option value="Kolkata">Kolkata</option><option value="Lucknow">Lucknow</option><option value="Ludhiana">Ludhiana</option><option value="Madurai">Madurai</option><option value="Mangalore">Mangalore</option><option value="Mysore">Mysore</option><option value="Mumbai">Mumbai</option><option value="Nagpur">Nagpur</option><option value="Nasik">Nasik</option><option value="Navi Mumbai">Navi Mumbai</option><option value="Noida">Noida</option><option value="Patna">Patna</option><option value="Pune">Pune</option><option value="Ranchi">Ranchi</option><option value="Raipur">Raipur</option><option value="Rewari">Rewari</option><option value="Sahibabad">Sahibabad</option><option value="Surat">Surat</option><option value="Thane">Thane</option><option value="Thiruvananthapuram">Thiruvananthapuram</option><option value="Trivandrum">Trivandrum</option><option value="Trichy">Trichy</option><option value="Vadodara">Vadodara</option><option value="Vishakapatanam">Vishakapatanam</option><option value="Vizag">Vizag</option><option value="Others">Others</option>	 </select></td>
 	 </tr>
 	  <tr>
 	 <td class="frmtxt">Net Salary (Yearly)</td>
 	 <td height="25" align="left"><input type="text" name="net_salary" onchange="intOnly(this);" onkeyup="intOnly(this);" onkeypress="intOnly(this);" style="width:133px;"></td>
-	 </tr>
-	 <tr><td colspan="2"></td></tr>
+	 </tr>	 <tr><td colspan="2"><div id="tataaig_compaign" name="tataaig_compaign"></div></td></tr>
+	 <tr align="left">
+	   <td height="45" colspan="2"> <input type="checkbox" name="accept" style="border:none;" checked="">
+I have read the <a href="Privacy.php" target="_blank">Privacy Policy</a> and
+              agree to the <a href="Privacy.php" target="_blank">Terms And Condition</a></td>
+	   </tr>
 	 <tr><td colspan="2" align="center"> <input type="submit" value="" class="qucksbtn"> </td></tr>
 	 </tbody></table>
 	 </form></td></tr>
@@ -367,7 +417,7 @@ return false;
 
 	</div>
 <div style="float:right; width:250px; margin-top:10px;">
-<div>
+<div style="float:right; width:250px; margin-top:10px;">
 <script type="text/javascript"><!--
 google_ad_client = "pub-6880092259094596";
 /* 250x250, created 10/26/09 */
@@ -389,7 +439,6 @@ google_ad_height = 250;
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 </div>
-		 
 		 
 </div>
 <div align="center" style=" float:left; width:960px; background-color:#f5f5f5; height: auto; margin-top:10px; ">
@@ -437,7 +486,7 @@ google_ad_height = 250;
 	<div class="blk-link" style="width:190px; text-align:left; float:left; margin-top:5px;">
 		<ul>
 		<li><a href="/apply-credit-card.php">Apply Credit Card</a></li>
-		<li><a href="/Contents_Credit_Card_Eligibility.php">Available Credit Card Products</a></li>
+		<li><a href="/request-credit-card.php">Available Credit Card Products</a></li>
 		<li><a href="/Contents_Credit_Card_Mustread.php">Credit Cards Must Read</a></li>
 		<li><a href="/Contents_Credit_Card_Faqs.php">Credit Cards FAQs</a></li>
 		<li><a href="/loans/category/credit-card/">Credit Cards Articles </a></li>
@@ -454,12 +503,12 @@ google_ad_height = 250;
 			
 	   		</ul>
   </div>
-	<div class="blklinks" style="clear:both; line-height:30px;"><a href="index.php">Home</a> | <a href="/About_Us.php">About Us</a> | <a href="/Contents_Articles.php">Product Articles</a> | <a href="/loans/">Help Articles</a> | <a href="/Contact_Us.php">Contact Us</a> | <a href="/SiteMap.php">Site Map</a> | <a href="/Contents_Blogs.php">Blogs</a> | <a href="/Contents_Feedback.php">Testimonials</a> | <a href="/viewnewsletter/newsletter/29">Newsletter</a> | <a href="/Privacy.php">Privacy Policy</a> | <a href="/Contents_Disclaimer.php">Disclaimer</a>	</div>	
+	<div class="blklinks" style="clear:both; line-height:30px;"><a href="/index.php">Home</a> | <a href="/About_Us.php">About Us</a> | <a href="/Contents_Articles.php">Product Articles</a> | <a href="/loans/">Help Articles</a> | <a href="/Contact_Us.php">Contact Us</a> | <a href="/SiteMap.php">Site Map</a> | <a href="/Contents_Blogs.php">Blogs</a> | <a href="/Contents_Feedback.php">Testimonials</a> | <a href="/viewnewsletter/newsletter/29">Newsletter</a> | <a href="/Privacy.php">Privacy Policy</a> | <a href="/Contents_Disclaimer.php">Disclaimer</a>	</div>	
 </div>
 
 <div>
 
-<div style=" width:250px; text-align:right; float:right;  color:#5b5b5b; line-height:35px;">©  Copyright 2009, Deal4loans, India.</div>
+<div style=" width:250px; text-align:right; float:right;  color:#5b5b5b; line-height:35px;">©  Copyright 2010, Deal4loans, India.</div>
 </div>
 
 
