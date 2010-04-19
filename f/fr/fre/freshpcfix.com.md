@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshpcfix.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422142008id_/http%3A//www.freshpcfix.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshpcfix.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419104413id_/http%3A//www.freshpcfix.com/Privacy.php) for the most accurate reproduction.*
 
 # FreshPCFix.com - Privacy
 
