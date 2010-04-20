@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the swordofthenewworld.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223174244id_/http%3A//www.k2network.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swordofthenewworld.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420084800id_/http%3A//www.gamersfirst.com/%3Fq%3Dprivacy) for the most accurate reproduction.*
 
-# K2 Network
+# GamersFirst – Free To Play Multiplayer Online Games, Free MMO, Fantasy MMO, Online FPS, Free Multiplayer Car Racing, Adventure, Shooting & Strategy Games Online
 
-Last updated November 30, 2007 
+  
+**K2 Network Online Privacy Policy**
+
+Last updated April 15, 2010 
 
 Welcome to K2 Network!
+
+**Our Privacy Commitment**
 
 K2 Network, and its subsidiaries and affiliates (collectively, “K2 Network”) respect the privacy rights of our online visitors and recognize the importance of protecting all information that you may choose to share with us.  To further this commitment, we adopted this Online Privacy Policy (“Privacy Policy”) to guide how we collect, store, and use the information you provide us. | 
 
@@ -12,29 +17,27 @@ K2 Network, and its subsidiaries and affiliates (collectively, “K2 Network”)
   
 ---|---  
   
+**ESRB’s Privacy Program**
+
 This certification seal shown on this page confirms that K2 Network is a member in good standing of [ESRB’s Privacy Online Program](http://www.esrb.org/privacy/index.jsp).  ESRB’s Privacy Online Program is designed to ensure that our website’s information disclosure practices are responsible and appropriate.  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices.  As part of this privacy program, ESRB independently audits our websites, and administers other enforcement and accountability mechanisms. 
 
-K2 Network adheres to the Safe Harbor Principles that were established by the U.S. Department of Commerce in consultation with the European Commission to comply with the European Commission's Directive on Data Protection that went into effect in October 1998. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's Website at <http://www.export.gov/safeharbor/sh_overview.html>. 
+K2 Network adheres to the Safe Harbor Principles that were established by the U.S. Department of Commerce in consultation with the European Commission to comply with the European Commission's Directive on Data Protection that went into effect in October 1998. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's Website at <http://www.export.gov/safeharbor/>.
 
-****  
-****  
-****  
-****  
-****  
-****  
-****  
-********  
+**TABLE OF CONTENTS**  
 ---  
-Q1. | **What information does this Privacy Statement cover?**  
-Q2. | **What types of personal information do we collect about our guests?**  
-Q3. | **How is your personal information used and shared?**  
-Q4. | **What choices do you have about the collection, use, and sharing of your personal information?**  
-Q5.  | **What kinds of security measures do we take to safeguard your personal information?**  
-Q6.  | **How can you update your personal information and profile?**  
-Q7. | **How can you ask questions, or send us comments, about this Privacy Policy?**  
-Q8. | **How will you know if we amend this Privacy Policy?**  
-Q9. | **What types of information do we collect about kids?**  
+   
+What information does this Privacy Statement cover?  
+What types of personal information do we collect about our guests?  
+How is your personal information used and shared?  
+What choices do you have about the collection, use, and sharing of your personal information?  
+What kinds of security measures do we take to safeguard your personal information?  
+How can you update your personal information and profile?  
+How can you ask questions, or send us comments, about this Privacy Policy?  
+How will you know if we amend this Privacy Policy?  
+What types of information do we collect about kids?  
   
+**What information does this Privacy Statement cover?**
+
 This Privacy Policy applies only to personal information collected on the websites where this Privacy Policy is posted, and does not apply to any other information collected by K2 Network through any other means.
 
 This Privacy Policy applies to the collection, use, and sharing of personal information collected as of the date that this Privacy Policy is posted.
@@ -45,32 +48,32 @@ Finally, the terms of this Privacy Policy are subject to all applicable laws.
 
 back to top
 
+**What types of personal information do we collect about our guests?**
+
 We don’t require personal information to access our website.  But if you prefer not to disclose personal information, you may not be able to enjoy certain features of our website.  Personal information is information that identifies you and may be used to contact you. 
 
 **INFORMATION YOU PROVIDE TO US**
 
 We will collect personal information from you when you use certain features on our website. For example, we collect personal information 
 
-  1. register for our website
-  2. subscribe to our newsletter
-  3. participate in polls, surveys, and questionnaires
-  4. participate in contests, sweepstakes, or other promotions
-  5. use e-cards, wish lists, and tell-a-friend features 
-  6. register a product that you have purchased, or 
-  7. receive customer or technical support
-
-
-
+1.  | register for our website  
+---|---  
+2.  | subscribe to our newsletter  
+3.  | participate in polls, surveys, and questionnaires  
+4.  | participate in contests, sweepstakes, or other promotions  
+5.  | use e-cards, wish lists, and tell-a-friend features   
+6.  | register a product that you have purchased, or  
+7.  | receive customer or technical support  
+  
 Typically, this information includes:
 
-  1. name
-  2. e-mail address
-  3. telephone number
-  4. shipping and billing address, and
-  5. for those purchasing products online, credit card information.
-
-
-
+1.  | name  
+---|---  
+2.  | e-mail address  
+3.  | telephone number  
+4.  | shipping and billing address, and  
+5.  | for those purchasing products online, credit card information.  
+  
 Additionally, we may also collect other types of information (known as demographic information) such as your age or date of birth, gender, hobbies, occupation, platform preferences, and other game ownership information.  This demographic information may be associated with your personal information.
 
 **If you are involved with our Merchant Center or Affiliate Center, we may request additional information to confirm the identity of you, your banking institution, or your business.**
@@ -95,21 +98,24 @@ Finally, once you've clicked on an advertisement or third party logo and have le
 
 back to top
 
+**How is your personal information used and shared?**
+
 Whatever the purpose may be, we will only collect information to the extent reasonably necessary to fulfill your requests and our legitimate business objectives. 
 
 **K2 ACTIVITES AND UPDATES**
 
 We use the personal information we collect to:
 
-  1. respond to your requests for information and newsletters, ****
-  2. provide you with product support and customer services, ****
-  3. determine if you are eligible to receive certain products or services, ****
-  4. provide you with additional information that may be of interest, including marketing materials, and
-  5. for other everyday business purposes, such as product development and website administration. 
-
-
-
+1.  | respond to your requests for information and newsletters,  
+---|---  
+2.  | provide you with product support and customer services,  
+3.  | determine if you are eligible to receive certain products or services,  
+4.  | provide you with additional information that may be of interest, including marketing materials, and  
+5.  | for other everyday business purposes, such as product development and website administration.  
+  
 We don’t share your personal information (e.g., e-mail address) with unaffiliated third parties to use for their direct marketing purposes.
+
+We will be sharing some of your personal information about you that you provide when registering for LaMB games with SPE Networks – Asia Pte. Ltd. (“SPE”) for their marketing and promotional purposes if you have opted-in. Use and disclosure of your personal information by SPE will be governed by SPE’s privacy policy (<http://www.animax-asia.com/privacy-policy>) and will not be governed by K2’s privacy policy." 
 
 **E-CARDS**
 
@@ -133,13 +139,15 @@ From time to time, we may purchase a business or sell one or more of our busines
 
 **DISCLOSURES REQUIRED BY LAW AND DISCLOSURES TO HELP PROTECT THE SECURITY AND SAFETY OF OUR WEBSITES AND OTHERS**
 
-Please note that we may disclose any information as permitted or required by law, when we believe in good faith it is necessary for safety purposes, required for legal reporting, or to protect our legal rights or enforce our Terms of Use or any contest rules.  We may also disclose information about you to our auditors or legal advisors, or in response to a subpoena. 
+Please note that we may disclose any information as permitted or required by law, when we believe in good faith it is necessary for safety purposes, required for legal reporting, or to protect our legal rights or enforce our [_Terms of Use_](http://gamersfirst.com/terms_of_use.php) or any contest rules.  We may also disclose information about you to our auditors or legal advisors, or in response to a subpoena. 
 
 **AGGREGATE INFORMATION**
 
 We may take your personal information and make it non-personally identifiable.  We do this either by combining it with information about other individuals (aggregating your information with information about other individuals), and by removing characteristics (e.g., your name) that make the information personally identifiable to you.  This process is known as de-personalizing your information.  We may use de-personalized information in any way and share it with third parties.  __
 
 back to top
+
+**What choices do you have about the collection, use, and sharing of your personal information?**
 
 If you signed up to receive newsletters or other emails from us, you can opt-out any time simply by clicking the unsubscribe link at the bottom of the message.
 
@@ -150,105 +158,106 @@ Since 2005, California Civil Code Section 1798.83 permits our customers who are 
 For inquires regarding our disclosure policy, please send us an e-mail to [privacy@k2network.net](mailto:privacy@k2network.net) or write us: 
 
 K2 Network, Inc.  
+---  
 Attn.: Privacy Policy Administrator  
 14252 Culver Dr #A355  
 Irvine, CA 92604  
-(949) 486-0400  
-[privacy@k2network.net](mailto:privacy@k2network.net)
-
+1-888-225-3448  
+[privacy@k2network.net](mailto:privacy@k2network.net)  
+  
 back to top
+
+**What kinds of security measures do we take to safeguard your personal information?**
 
 The security and confidentiality of your information is extremely important to us.  That’s why we have technical, administrative, and physical security measures in place to protect your personal information from unauthorized access and improper use.  We also review our security procedures periodically to consider appropriate new technology and updated methods.  But, despite our reasonable efforts, no security measure is ever perfect or impenetrable.
 
+GamersFirst .com uses 1024 bit Secure Sockets Layer (SSL) encryption technology to protect your personal information. SSL is also used when transferring or receiving all personal sensitive information. All forms on our site are secured with SSL technology to further protect your information. These systems work together to ensure your privacy and to assist in protecting your personal data.
+
 back to top
+
+**How can you update your personal information and profile?**
 
 You may update or delete your personal information or modify your account preferences by accessing the “My Account” area of our website.  If you wish to delete your e-mail address from our system, your account will also need to be deleted.  You may also contact us directly with questions about your account at [privacy@k2network.net](mailto:privacy@k2network.net).
 
-**For our Merchant Center and Affiliate Center, we may also have additional confirmatory requirements for changing your information.   More information regarding these two parts of our business can be found in the **[Merchant Center Terms of Service ](https://merchants.k2network.net/tos.php) **and the K2 Network Affiliate Terms and Conditions.**
+**For our Merchant Center and Affiliate Center, we may also have additional confirmatory requirements for changing your information.   More information regarding these two parts of our business can be found in the **[Merchant Center Terms of Service ](https://merchants.gamersfirst.com/tos.php) **and the K2 Network Affiliate Terms and Conditions.**
 
 back to top
+
+**How can you ask questions, or send us comments, about this Privacy Policy?**
 
 If you have questions or wish to send us comments about this Privacy Policy, please e-mail or contact us at:
 
 K2 Network, Inc.  
+---  
 Attn.: Privacy Policy Administrator  
 14252 Culver Dr #A355  
 Irvine, CA 92604  
-(949) 486-0400  
-[privacy@k2network.net](mailto:privacy@k2network.net)
-
+1-888-225-3448  
+[privacy@k2network.net](mailto:privacy@k2network.net)  
+  
 Any personal information you provide to the above e-mail and postal mail addresses will not be used to send you promotional materials, unless you request it.
 
 K2 Network is a licensee of the ESRB’s Privacy Online Program.  If you believe that we have not properly responded to your inquiry, please contact ESRB at:
 
 ESRB Privacy Online  
-Attn: Directir, Privacy Online  
+---  
+Attn: Director, Privacy Online  
 317 Madison Avenue, 22 Floor  
 New York, NY 10017  
-212-759-0700  
-[privacy@esrb.org](mailto:privacy@esrb.org)
-
+[privacy@esrb.org](mailto:privacy@esrb.org)  
+  
 back to top
+
+**How will you know if we amend this Privacy Policy?**
 
 We may amend this Privacy Policy at any time.  If we make any material changes in how we collect, use, or share your personal information, we will prominently post notice of the changes on the websites covered by this Privacy Policy.  Any material changes to this Privacy Policy will be effective 30 days following our posting of notice of the changes on the websites covered by this Privacy Policy.
 
 back to top
 
-Last updated August 13, 2007 
+**K2** **Network’s Kids Privacy Policy** ****
 
-K2 Network has developed its websites with the goal of creating an enjoyable experience for all users.  This Kids Privacy Policy is designed to answer your questions regarding our privacy policies concerning children under the age of 13. 
+Last updated April 15, 2010
 
-  
+K2 Network has developed its websites with the goal of creating an enjoyable experience for all users.  This Kids Privacy Policy is designed to answer your questions regarding our privacy policies concerning children under the age of 13.
+
 Building on our general Privacy Policy, we recognize the need to provide additional privacy protections when children visit sites on which we post this Kids Privacy Policy.  We explain those additional protections in this Kids Privacy Policy. 
 
-  
 The Children's Online Privacy Protection Act (“COPPA”) requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from kids under 13 years of age.  COPPA also requires us to obtain the consent of parents and guardians for children under 13 years of age to use certain features of our Web sites.  Below we explain how we do that for kids.  Also, when we use the term “parent” below, we mean to include legal guardians. 
 
-  
-This certification seal shown on this page confirms that K2 Network is a member in good standing of [ESRB’s Privacy Online Program](http://www.esrb.org/privacy/index.jsp).  ESRB’s Privacy Online Program is designed to ensure that our website’s information disclosure practices are responsible and appropriate.  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices.  As part of this privacy program, ESRB independently audits our websites, and administers other enforcement and accountability mechanisms.  
-  
----  
-**Q1.** | ****What types of information do we collect about kids**** **?**  
-**Q2.** | ****How do we use and share the personally identifiable information that we collect from kids**** **?**  
-**Q3.** | ****How do we notify and obtain consent from parents for the collection of personal information from their kids**** **?**  
-**Q4.** | ****How can parents access, change or delete personally identifiable information about their kids**** **?**  
-**Q5.** | ****What kinds of security measures do we take to safeguard kids’ personally identifiable information**** **?**  
-**Q6.** | ****How will we notify parents if our Kids Privacy Policy changes**** **?**  
-**Q7.** | ****Who do guests contact with questions or concerns about our Kids Privacy Policy**** **?**  
-  
+This certification seal shown on this page confirms that K2 Network is a member in good standing of [ESRB’s Privacy Online Program](http://www.esrb.org/privacy/index.jsp).  ESRB’s Privacy Online Program is designed to ensure that our website’s information disclosure practices are responsible and appropriate.  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices.  As part of this privacy program, ESRB independently audits our websites, and administers other enforcement and accountability mechanisms.
+
+**What types of information do we collect about kids?**
+
 Kids can surf K2 Network’s sites, view content, and enjoy many features without having to disclose any personal information.  We don’t collect personal information from kids while they use our sites unless they register on K2 Network’s sites’ Official Forums. 
 
-  
 For those who choose to register and participate in certain areas of our website, we collect personal information directly from kids to: 
 
-  1. register for our Official Forum
-  2. participate in polls, surveys, and questionnaires on the Official Forum
+1.  | register for our Official Forum  
+---|---  
+2.  | participate in polls, surveys, and questionnaires on the Official Forum  
+  
+We may collect personal information from parents to allow kids to participate in certain activities offered on our websites and within our kids' subscription products.  These activities may include purchasing product in one of our online stores, participating in games, reward programs, contests, sweepstakes, events or other promotions. 
 
-
-
-We may collect personal information from parents to allow kids to participate in certain activities offered on our websites and within our kids' subscription products.  These activities may include purchasing product in one of our online stores, participating in games, reward programs, contests, sweepstakes, events or other promotions.   
 Typically, this information includes:
 
-  1. name 
-  2. email address 
-  3. telephone number
-  4. shipping and billing address, and 
-  5. for those purchasing products online, credit card information. 
-
-
-
+1.  | name  
+---|---  
+2.  | email address  
+3.  | telephone number  
+4.  | shipping and billing address, and  
+5.  | for those purchasing products online, credit card information.  
+  
 We may collect demographic information (e.g., date of birth, gender, and game preferences) and combine it with the child’s personal information.  K2 Network will only collect this information if it is voluntarily and properly submitted to us by either the child or parent. 
 
-  
 Note that all commercial sites directed to children under 13 are prohibited by U.S. law from conditioning a kid’s participation in an online activity on the kid's providing more personal information than is reasonably necessary. 
 
-  
 Some areas of our website may offer features like electronic postcards that allow kids to submit personal information (e.g., email address) without first disclosing their age or obtaining verifiable parental consent.  These areas provide services in a way that doesn’t require prior verifiable parental consent. 
 
-  
 Finally, we may collect demographic information about kids.  For example, if a kid participates in a survey, we may collect those responses.  Among them, we may collect age, gender, hobbies, and interests or other demographic information about gaming and preferences.  We also use some passive technologies, including cookies and web beacons, to monitor traffic on our websites.  This demographic information may be associated with a child’s personal information. 
 
 back to top
+
+**How do we use and share the personally identifiable information that we collect from kids?**
 
 If a parent allows us to collect personal information about their kid, we may link certain information collected through technology (see the "Information Collected Through Technology" section of A2 of our General Privacy Policy) to that personal information. 
 
@@ -258,59 +267,71 @@ _K2 Network may share kids’ personal information with outside entities hired t
 
 We do not share any information about a child with any third parties unless the disclosure is reasonably necessary to: 
 
-  1. comply with law, including, for example, to comply with a court order or subpoena; 
-  2. enforce our Terms of Service, or site or game/promotion rules; 
-  3. in connection with the purchase or sale of assets, a merger, reorganization, bankruptcy, or similar corporate transaction; or
-  4. protect the safety and security of our Guests and our Web sites. 
-
-
-
+1.  | comply with law, including, for example, to comply with a court order or subpoena;  
+---|---  
+2.  | enforce our Terms of Service, or site or game/promotion rules;  
+3.  | in connection with the purchase or sale of assets, a merger, reorganization, bankruptcy, or similar corporate transaction; or  
+4.  | protect the safety and security of our Guests and our Web sites.  
+  
 back to top
+
+**How do we notify and obtain consent from parents for the collection of personal information from their kids?**
 
 When a child under 13 attempts to register at our website, the child can download and print a parental consent form.  Then, you, as the parent, can fill out and sign the parental consent form and mail or fax it back to us.  If the parent ignores or refuses to register the child, we will delete all contact information from our database.  If the parent permits the registration, the child will be granted access to the features described in the notification message. 
 
 back to top
 
+**How can parents access, change or delete personally identifiable information about their kids?**
+
 At any time, a parent can contact our customer service department to access, change, or delete personal information we collected from his or her child by contacting us at: 
 
-  
 K2 Network, Inc.  
+---  
 Attn.: Privacy Policy Administrator  
-14252 Culver Dr. #A355   
-Irvine, CA 92604   
-(949) 486-0400  
-[privacy@k2network.net](mailto:privacy@k2network.net)
-
+14252 Culver Dr. #A355  
+Irvine, CA 92604  
+1-888-225-3448  
+[privacy@k2network.net](mailto:privacy@k2network.net)  
+  
 Our representatives will take reasonable steps to verify your identity before disclosing your child’s information. 
 
 back to top
 
-We take the security and confidentiality of kids’ information very seriously.  We have implemented technical, administrative, and physical security measures to protect kids’ personal information from unauthorized access and improper use.  From time to time, we review our security procedures to consider appropriate new technology and methods.  But please understand that, despite our best efforts, no security measure is perfect or impenetrable. 
+**What kinds of security measures do we take to safeguard kid's personally identifiable information?**
+
+We take the security and confidentiality of kids’ information very seriously.  We have implemented technical, administrative, and physical security measures to protect kids’ personal information from unauthorized access and improper use.  From time to time, we review our security procedures to consider appropriate new technology and methods.  But please understand that, despite our best efforts, no security measure is perfect or impenetrable.
+
+GamersFirst .com uses 1024 bit Secure Sockets Layer (SSL) encryption technology to protect your personal information. SSL is also used when transferring or receiving all personal sensitive information. All forms on our site are secured with SSL technology to further protect your information. These systems work together to ensure your privacy and to assist in protecting your personal data.
 
 back to top
+
+**How will we notify parents if our Kids Privacy Policy changes?**
 
 At any time, we may amend our Kids Privacy Policy.  We will send e-mail notice to parents of any material changes in the way we intend to collect, use, or share kids' personal information.  At all times, parents should update their personal information to provide us current e-mail addresses.  We will apply material changes in our Kids Privacy Policy only in conformance with applicable law, including any applicable provisions of COPPA that require parental consent.
 
 back to top
 
+**Who do guests contact with questions or concerns about our Kids Privacy Policy?**
+
 If you have questions or wish to send us comments about this Privacy Policy, please e-mail or contact us at:
 
 K2 Network, Inc.  
+---  
 Attn.: Privacy Policy Administrator  
-14252 Culver Sr. #A355  
-Irvine, CA 92604   
-(949) 486-0400  
-[privacy@k2network.net](mailto:privacy@k2network.net)
-
+14252 Culver Dr. #A355  
+Irvine, CA 92604  
+1-888-225-3448  
+[privacy@k2network.net](mailto:privacy@k2network.net)  
+  
 Any personal information you provide to the above e-mail and postal mail addresses will not be used to send you promotional materials, unless you request it.
 
 K2 Network is a licensee of the ESRB’s Privacy Online Program.  If you believe that we have not properly responded to your inquiry, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>:
 
 Entertainment Software Rating Board  
+---  
 Attn.: Director, Privacy Online  
 317 Madison Avenue, 22nd Floor  
 New York, NY 10017   
-212-759-0700  
-[privacy@esrb.org](mailto:privacy@esrb.org)
-
+[privacy@esrb.org](mailto:privacy@esrb.org)  
+  
 back to top
