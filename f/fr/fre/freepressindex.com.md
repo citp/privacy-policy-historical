@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the freepressindex.com privacy policy that was archived on 2009-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090813135434id_/http%3A//freepressindex.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepressindex.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420080545id_/http%3A//www.freepressindex.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Free Online Press Release Distribution |
+# Privacy Policy - FreePressIndex.com
 
-  | 
-
-Privacy Policy 
-
-Updated on October 24, 2007
+Updated on October 24, 2007 
 
 Below is the Privacy Policy for Freepressindex.com, please read this carefully. We may change our privacy policy from time to time to address new issues and reflect changes on our sites, and as the need arises. All changes to this privacy policy will be posted here, please read this privacy policy every time you visit Freepressindex. If you have any questions or concerns about this privacy policy, please send us an e-mail at **info@freepressindex.com**
 
@@ -34,9 +30,3 @@ You may choose to accept or decline cookies by modifying your browser setting. A
 We log, access times, browser types and URLs. We do not sell or give out this information to any third parties. This information is not personally identifiable information, and it is used for statistical purposes only. 
 
 Thank you for reviewing our privacy policy!
-
-|   |  |  
-
-| 
-
-All press releases, news, information or content on this site, is solely based on what our users submit. Freepressindex.com does not represent or endorse the accuracy or reliability of any of the information, content or advertisements contained on, distributed through, or linked, downloaded or accessed from any of the services contained on this website nor the quality of any products, information or other materials displayed, or obtained by you as a result of an advertisement or any other information or offer in or in connection with the service. In case, some press release harms your benefits or violates your rights in any way, please do let us know our editorial team will remove it immediately. 
