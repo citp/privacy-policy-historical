@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convert2media.com privacy policy that was archived on 2009-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090917130449id_/http%3A//www.convert2media.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convert2media.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420032400id_/http%3A//www.convert2media.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Convert 2 Media
 
