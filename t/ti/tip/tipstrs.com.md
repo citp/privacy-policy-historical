@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tipstrs.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223012943id_/http%3A//www.tipstrs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipstrs.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420035355id_/http%3A//www.tipstrs.com/privacy) for the most accurate reproduction.*
 
 # tipstrs Privacy Policy
 
-This privacy policy is effective as of March 1, 2007.
+This privacy policy is effective as of March 13, 2009.
 
 ### Your Privacy
 
@@ -28,9 +28,7 @@ Information you provide to us through the tipstrs site is used by Snowbound to o
 
 We do not share your personal information with any third-parties.
 
-We may use third-party advertising companies to serve ads when you visit tipstrs. These companies may use information about your current and past visits to tipstrs in order to provide advertisements about goods and services of interest to you. When we do this, we do not provide any personally identifying information.
-
-We do not knowingly use third-party ad servers that place cookies (such as DoubleClick).
+We use third-party advertising companies to serve ads when you visit tipstrs. These companies may use information (not including your name, address, email address, or telephone number) about your visits to tipstrs and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 We may share information with our affiliates, consultants, vendors and service providers, who assist us in maintaining the tipstrs site.
 
