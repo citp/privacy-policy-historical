@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the extext.org privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125235325id_/http%3A//www.extext.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extext.org privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420104318id_/http%3A//www.extext.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Free Articles Directory - Extext.Org
+# Privacy Policy | Online Article Directory Site | Extext.Org
 
 **Free Articles Directory - Extext.Org** takes your privacy seriously. This [privacy policy](http://www.extext.org/privacy-policy "privacy policy") describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
@@ -8,7 +8,7 @@
 
 All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
 
-## Cookies and Web Beacons
+## [Cookies](http://www.extext.org/business/marketing/cookies.htm "Cookies") and Web Beacons
 
 Where necessary, Free Articles Directory - Extext.Org uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
