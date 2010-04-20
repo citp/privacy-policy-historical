@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalspy.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193202id_/http%3A//www.digitalspy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalspy.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420060450id_/http%3A//www.digitalspy.com/privacy.php) for the most accurate reproduction.*
 
 # About Us - Information - Privacy Policy - Digital Spy
 
