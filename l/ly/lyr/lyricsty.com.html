@@ -1,20 +1,20 @@
-<!--The following is the downloaded HTML source of the lyricsty.com privacy policy that was archived on 2009-07-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090722094336id_/http%3A//www.lyricsty.com/about/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lyricsty.com privacy policy that was archived on 2010-04-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100420021100id_/http%3A//www.lyricsty.com/about/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<title>Privacy Policy | Lyricsty.com</title>
-	<link href="/i/style.css" rel="stylesheet" type="text/css" media="screen">
+	<meta name="description" content="Privacy Policy | Lyricsty.com">
+	<meta name="keywords" content="Privacy Policy | Lyricsty.com">
+	<link href="/i/style.css?0330" rel="stylesheet" type="text/css" media="screen">
 	<link rel="shortcut icon" type="image/ico" href="/i/favico.png">
 	<link rel="alternate" type="application/rss+xml" title="Lyricsty - Last updates" href="http://www.lyricsty.com/rss/last_updates.xml">
 	<!--[if lte IE 6]><link rel="stylesheet" href="/i/ie6.css" type="text/css" media="screen" /><![endif]-->
 	<!--[if lte IE 6]><script defer type="text/javascript" src="/i/pngfix.js" /></script><![endif]-->
 	<!--[if IE 7]><link rel="stylesheet" href="/i/ie7.css" type="text/css" media="screen" /><![endif]-->
-	<meta name="description" content="Privacy Policy | Lyricsty.com">
-	<script language="javascript" type="text/javascript" src="/i/js/pt.js"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="/i/js/pt.js"></script>
 	<script language="javascript" type="text/javascript" src="/i/js/JsHttpRequest.js"></script>
-
-	<meta name="keywords" content="Privacy Policy | Lyricsty.com"></head>
+</head>
 
 <body>
 
@@ -31,8 +31,8 @@
 				function PopupMenu()
 				{
 					var menu = gE("popupSearchMenu");
-					if(gE('search-inp').value == 'Search in song names' || gE('search-inp').value == 'Search in band names')
-						gE('search-inp').value = 'Search in '+sSearch+' names';
+					if(gE('LabelTypeSearch').innerHTML == 'Search in song names' || gE('LabelTypeSearch').innerHTML == 'Search in band names')
+						gE('LabelTypeSearch').innerHTML = 'Search in '+sSearch+' names';
 					menu.className != 'hidden' ? menu.className = 'hidden' : menu.className = 'visible';
 					return false;
 				}
@@ -46,7 +46,11 @@
 			<input type="hidden" id="what" name="what" value="songs">
 			<table cellpadding="0" cellspacing="0">
 				<tbody><tr>
-					<td><div style="position:relative"><a href="#" id="HeaderSearchTypeButton" onclick="return PopupMenu()"></a></div><input name="s" type="text" id="search-inp" value="Search in song names" onfocus="if(this.value == 'Search in '+sSearch+' names') this.value = ''" onblur="if (this.value == '') this.value = 'Search in '+sSearch+' names'">&nbsp;</td>
+					<td>
+						<div style="position:relative"><a href="#" id="HeaderSearchTypeButton" onclick="return PopupMenu()"></a>
+						<div style="position: absolute;right:8px; top:5px; color: rgb(102, 102, 102); font-family: Arial; font-style: normal; font-variant: normal; font-size: 11px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; width: 130px; text-align: right;" id="LabelTypeSearch">Search in song names</div>
+						</div>
+					<input name="s" type="text" id="search-inp" value="">&nbsp;</td>
 					<td><input type="submit" value="" class="btmFind"></td>
 				</tr>
 			</tbody></table>
@@ -112,7 +116,7 @@
 	}
 -->
 </script>
-</div>		<a href="/" class="tab">Home</a>
+</div>		<a href="http://www.lyricsty.com/" class="tab">Lyrics</a>
 		<a href="/updates/" class="tab">Updates</a>
 		<a href="/top/" class="tab">Top 100</a>
 		<a href="/lyrics_submit.php" class="tab">Submit</a>
@@ -174,9 +178,7 @@
 	
 	<div id="gwarp">
 		<div id="footer">
-			<span class="f-right">© 2008 Lyricsty.com</span>
-			<!--<a href="/about/advertising.php">Advertising</a> | 
-			<a href="/about/about.php">About</a> | -->
+			<span class="f-right">© 2010 Lyricsty.com</span>
 			<a href="/about/contact.php">Contact</a> | 
 			<a href="/about/privacy_policy.php">Privacy Policy</a>
 		</div>
@@ -194,12 +196,15 @@
 </script>
 </div>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-5750196-1");
-pageTracker._trackPageview();
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5750196-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 </script>
 
 <!-- Overlay Ringtonematcher -->
