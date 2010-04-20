@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the truelocal.com.au privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202025320id_/http%3A//www.truelocal.com.au/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truelocal.com.au privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420050643id_/http%3A//www.truelocal.com.au/cms/privacy-policy) for the most accurate reproduction.*
 
-# TrueLocal - Search Australia's fastest growing business directory
+# Privacy Policy - Local Business Directory - TrueLocal.com.au
 
 ### What is TrueLocal’s privacy policy all about?
 
@@ -26,7 +26,7 @@ We usually collect personal information directly from you although sometimes we 
 
 ### How do you use the information I give you?
 
-We use your information to provide our services to you, to fulfill administrative functions associated with these services (for example, billing), to enter into contracts with you or third parties and for marketing and client relationship purposes.
+We use your information to provide our services (which may include the display of personalised content and advertising) to you, to fulfil administrative functions associated with these services (for example, billing), to enter into contracts with you or third parties and for marketing and client relationship purposes.
 
 Where your personal information is contained within an advertisement that we publish for you, we may also use your information for publication of that same advertisement in other media, in accordance with the terms and conditions of the initial publication.
 
@@ -38,7 +38,7 @@ Yes, TrueLocal may give your information to service providers and contractors to
 
 ### Do you capture information through my computer’s web browser?
 
-Our aim is to make using TrueLocal as easy to access and use as possible. One way to do this is to collect certain non-personal information from your computer that helps our web pages work better on your PC. For example the type of information we might collect would be the identity of your internet browser, the type of operating system you use, your IP address and the domain name of your internet service provider. This information would only be used for internal purposes.
+Our aim is to make using TrueLocal as easy to access and use as possible. One way to do this is to collect certain non-personal information from your computer that helps our web pages work better on your PC. For example the type of information we might collect would be the identity of your internet browser, the type of operating system you use, your IP address and the domain name of your internet service provider. This information would also be used to optimise our goods and services (which may include the display of personalised content and advertising) including our web pages.
 
 In addition, we may use personally identifiable information in aggregate form to improve our services. This statistical compilation and analysis of information may also be used by TrueLocal or provided to others as a summary report for marketing, advertising or research purposes.
 
