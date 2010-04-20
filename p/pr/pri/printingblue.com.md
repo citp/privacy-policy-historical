@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printingblue.com privacy policy that was archived on 2009-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090315132134id_/http%3A//www.printingblue.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printingblue.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420051524id_/http%3A//www.printingblue.com/privacy.asp) for the most accurate reproduction.*
 
 # PrintingBlue.com Privacy Policy.
 
