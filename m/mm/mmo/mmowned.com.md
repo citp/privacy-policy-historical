@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmowned.com privacy policy that was archived on 2009-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090730000535id_/http%3A//www.mmowned.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmowned.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420045513id_/http%3A//www.mmowned.com/privacy_policy.html) for the most accurate reproduction.*
 
 # MMOwned.com Privacy Policy.
 
