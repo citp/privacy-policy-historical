@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the phpmyrealty.com privacy policy that was archived on 2009-09-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090923170342id_/http%3A//www.phpmyrealty.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the phpmyrealty.com privacy policy that was archived on 2010-04-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100420042130id_/http%3A//www.phpmyrealty.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html dir="ltr"><head>
 
+<base href="http://www.phpmyrealty.com">
 <meta name="author" content="phpMyRealty.com">
 <meta name="copyright" content="Copyright phpMyRealty.com. All rights reserved.">
 <meta name="title" content="phpMyRealty.com - Privacy Policy - php/SQL Real Estate Classifieds Directory, php Real Estate Listings Directory, Realtors / Agents Directory Script">
@@ -14,7 +15,7 @@
 
 <script language="javascript" type="text/javascript" src="/includes/jquery-1.2.6.min.js"></script>
 <script language="javascript" type="text/javascript" src="/includes/jquery-carousel-lite.js"></script>
-<script language="javascript" type="text/javascript" src="/includes/jtip.js"></script>
+<script language="javascript" type="text/javascript" src="/includes/jquery.cluetip.js"></script>
 
 <meta name="verify-v1" content="ZRpFtDCGCqGZGR/UnIizWuupwFx79Xm8zr30ATgPEG4=">
 
@@ -23,7 +24,7 @@
 
 <title>phpMyRealty.com - Privacy Policy - php/SQL Real Estate Classifieds Directory, php Real Estate Listings Directory, Realtors / Agents Directory Script</title>
 
-<link rel="stylesheet" href="http://www.phpmyrealty.com/includes/style.css" type="text/css">
+<link rel="stylesheet" href="/includes/style.css" type="text/css">
 
 <script type="text/javascript">
 $(document).ready(function() {
@@ -35,9 +36,35 @@ $(document).ready(function() {
     	});
 	});
 
+	$('#version').change(function() {
+		var version = $('#version').val();
+
+		if (version == '1') {
+			$('#server_ip').fadeIn('slow');
+		} else {
+			$('#server_ip').fadeOut('slow');
+		}
+	});
+
+	$('#option').change(function() {
+		var option = $('#option').val();
+
+		if (option == '2') {
+			$('#license_key').fadeIn('slow');
+		} else {
+			$('#license_key').fadeOut('slow');
+		}
+	});
+
+	$('a.tips').cluetip();
+
 });
 </script>
 
+<link rel="stylesheet" href="/includes/jquery.cluetip.css" type="text/css">
+
+
+<meta name="verifyownership" content="73efc09c231ba90a6b80e8291c73804e">
 
 </head>
 
@@ -53,28 +80,27 @@ $(document).ready(function() {
 	<div id="logo_nav_new">
 		<a href="/">Home</a>
 		<a href="/news.html">News</a>
-		<a href="/requirements.html">Requirements</a>
+		<a href="/overview.html">Overview</a>
 		<a href="/features.html">Features</a>
-		<a href="/demo.html" style="border-bottom: 1px dotted #FFFFFF;">Demo</a>
-		<a href="/purchase.html" style="border-bottom: 1px dotted #FFFFFF;">Purchase</a>
-		<a href="/community">Community</a>
-		<a href="/mods">Addons</a>
-		<a href="/guide.html">Guide</a>
+		<a href="/demo.html">Demo</a>
+		<a href="/purchase.html">Purchase</a>
+		<a href="/support.html">Support</a>
+		<a href="/login.html">Client Access</a>
 		<a href="/contact.html">Contact</a>
 	</div>
 
 	
 	<div id="container_inner">
 
-		
+	
 	<br clear="both">
 
-	<table width="100%" cellpadding="5" cellspacing="0" border="0">
+		<table width="100%" cellpadding="5" cellspacing="0" border="0">
     <tbody><tr>
        <td width="160" align="center" valign="top" id="leftmenu">
 
 		<!-- Menu : start -->
-		
+
 		
 
    <table width="100%" cellpadding="0" cellspacing="0">
@@ -104,7 +130,7 @@ $(document).ready(function() {
        <tbody><tr>
         <td align="left" width="100%">
 
-     <div id="section_nav"><a href="/guide.html">Guide</a></div><div id="section_nav"><a href="/mods/">Addons</a></div><div id="section_nav"><a href="/community">Community</a></div><div id="section_nav"><a href="/contact.html"><b>Contact</b></a></div>
+     <div id="section_nav"><a href="/news.html">News</a></div><div id="section_nav"><a href="/guide.html">Guide</a></div><div id="section_nav"><a href="/mods/">Addons</a></div><div id="section_nav"><a href="/community">Community</a></div><div id="section_nav"><a href="/contact.html"><b>Contact</b></a></div>
         </td>
        </tr>
       </tbody></table>
@@ -117,7 +143,7 @@ $(document).ready(function() {
 			<!-- BBB SEAL -->
 			<a target="_blank" href="https://www.bbb.org/online/consumer/cks.aspx?id=1090806224852"><img title="Click to verify BBB accreditation and to see a BBB report." border="0" src="http://www.bbb.org/online/cimages/bbbsealh1.gif" alt="Click to verify BBB accreditation and to see a BBB report." oncontextmenu="alert('Use without permission is prohibited. The BBB Accreditation seal is a trademark of the Council of Better Business Bureaus, Inc.'); return false;"></a><br>
 			<!-- END BBB SEAL -->
-			
+
 			<br><center><script src="http://www.gmodules.com/ig/ifr?url=http://www.google.com/ig/modules/translatemypage.xml&amp;up_source_language=en&amp;w=150&amp;h=60&amp;title=&amp;border=&amp;output=js"></script></center><br>
 
    <table width="100%" cellpadding="0" cellspacing="0">
@@ -128,7 +154,7 @@ $(document).ready(function() {
        <tbody><tr>
         <td align="left" width="100%">
 
-     <strong>Testimonials</strong><br><div style="color: #6a6a6a; font-size : 10px;">Without a doubt, your service and response is next to none. You guy's are GREAT! I have answers for my clients within an hour usually. I don't have to wait  several day's like other programs I have had! I will recommend phpmyrealty.com to anyone thinking of putting up a real  estate web site! The ease I have been told by users is very simple...and that's  what most people look for..easy and friendly to use! I know once my site is catches on locally...there's nothing stopping  progress! Once again thanks! If I have future problems or questions...I  know I can count on your service.<div align="right">- Adolfo Cardenas</div></div><br><center><a href="/testimonials.html">Read More Testimonials</a></center>
+     <strong>Testimonials</strong><br><div style="color: #6a6a6a; font-size : 10px;">My wife and I are very pleased with your work, and the whole website has come up fine. It took more time than we thought, but I guess there were so many little modifications, so that is fair. THANKS for your good work, and we would heartily recommend you to anyone seeking a property website. Its come up looking fantastic. You are excellent at what you do.<div align="right">- Renato</div></div><br><center><a href="/testimonials.html">Read More Testimonials</a></center>
         </td>
        </tr>
       </tbody></table>
@@ -139,13 +165,13 @@ $(document).ready(function() {
   <br>
      
 		<br><br>
-		
+
 		<!-- BEGIN PHP Live! code, (c) OSI Codes Inc. -->
 		<!--<script language="JavaScript" src="http://trial1.phplivesource.com/js/status_image.php?base_url=http://trial1.phplivesource.com&l=wirke&x=9047&deptid=7376&"><a href="http://www.phplivesource.com"></a></script>-->
 		<!-- END PHP Live! code : (c) OSI Codes Inc. -->
-		
-		<br><br>	
-		
+
+		<br><br>
+
 		<!-- Menu : stop -->
 
      	</td>
@@ -182,7 +208,7 @@ We reserve the right to change our privacy policy at any time by posting revisio
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
        <tbody><tr>
         <td valign="top">
-        
+
 	</td></tr>
 <!-- Main Content table : start -->
 
@@ -208,7 +234,7 @@ We reserve the right to change our privacy policy at any time by posting revisio
 <p></p>
 
 <div id="logo_nav">
-	 <center>Copyright © 2002 - 2009, <a href="http://www.wirke.com">Wirke Web Solutions, LLC</a>. All Rights Reserved. <a href="/privacy.html">Privacy Policy</a>.</center>
+	 <center>Copyright © 2002 - 2010, <a href="http://www.wirke.com">Wirke Web Solutions, LLC</a>. All Rights Reserved. <a href="/privacy.html">Privacy Policy</a>.</center>
 </div><br>
 
 </div>
