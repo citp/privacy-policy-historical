@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the illicitencounters.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210042052id_/http%3A//www.illicitencounters.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illicitencounters.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420182415id_/http%3A//www.illicitencounters.com/about/privacy) for the most accurate reproduction.*
 
 # Recommended Site: Illicit Encounters® - About Us - Married Dating Site.
 
-Doing this has put some laughter and a spark back in me. Which does help make home more bearable.
+I'm probably like most men, they have a great wife who's become their very best friend, and those lustful, crazy moments are a thing of the past. There's no way I would ever want to leave her,or visa versa, but if I can have a few lustful liaisons, i'm sure it can only enhance our marriage going forward.
 
-Member 1**3**
+Member **952
 
 [More testimonials...](https://web.archive.org/about/testimonials)
 
@@ -35,4 +35,4 @@ Please be aware that whenever members voluntarily disclose personal information 
 
 [Up to 'About Illicit Encounters®'](https://web.archive.org/about/)
 
-There are 30 registered users online 
+There are 509 registered users online 
