@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805114037id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420105705id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
 
 # Our Policy in Summary - Tech for Less
 
-Your information is safe with us. We do not sell, rent or otherwise share your information with anyone. Tech for Less LLC is a member of the Better Business Bureau (BBB) and has the earned the Online Reliability Seal. |      
+Your information is safe with us. We do not sell, rent or otherwise share your information with anyone. Tech for Less LLC is a member of the Better Business Bureau (BBB) and has the earned the Online Reliability Seal.  |  [](https://www.bbb.org/online/consumer/cks.aspx?id=102021515342021162)     
 ---|---  
   
 ### What Personally Identifiable Information Is Collected When Making a Purchase?
@@ -24,7 +24,7 @@ Data integrity - keeps out vandals
 
 ### Personal Information:
 
-Personal information relating to you and your order history are only available to employees of Tech for Less LLC and cannot be modified by web visitors. We do not store your information nor your credit card number on our Web Site. 
+Personal information relating to you and your order history are only available to employees of Tech for Less LLC and cannot be modified by web visitors. We do not store your credit card number on our Web Site. 
 
 ### Navigational Information:
 
@@ -44,7 +44,7 @@ We also protect your purchase by preventing the shipment of merchandise to a fra
 
 ### Managing your account:
 
-Personal information relating to you and your order history are only available to authorized Tech for Less LLC employees. You cannot edit this information online. 
+Personal information relating to you and your order history are only available to authorized Tech for Less LLC employees. You cannot edit this information online, unless you have created an account on our Web site. 
 
 ### Opt-out:
 
