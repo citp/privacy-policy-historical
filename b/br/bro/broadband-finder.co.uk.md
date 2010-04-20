@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the broadband-finder.co.uk privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604035347id_/http%3A//www.broadband-finder.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadband-finder.co.uk privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420045316id_/http%3A//www.broadband-finder.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Broadband Finder Privacy Policy
+# Broadband Finder Privacy Policy - Broadband Finder
 
 The following privacy statement explains our policy regarding the personal information we collect about you.
 
@@ -40,10 +40,14 @@ By using our website you agree to accept this privacy policy and are aware that 
 
 This website is operated by UK Web Media LTD, and UK Web Media is a registered company in England & Wales No. 04388827. Registered Address:
 
-UK Web Media  
-Unit 8 The Fairground Industrial Estate,  
-Weyhill,  
-Hampshire,  
+UK Web Media
+
+Unit 8 The Fairground Industrial Estate,
+
+Weyhill,
+
+Hampshire,
+
 SP11 0QN
 
 [http://www.ukwebmedia.com](http://www.ukwebmedia.com/ "UK Web Media")
