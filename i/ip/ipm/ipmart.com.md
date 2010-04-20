@@ -1,6 +1,47 @@
-> *The following text is extracted and transformed from the ipmart.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925105042id_/http%3A//www.ipmart.com/main/text_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipmart.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420024805id_/http%3A//www.ipmart.com/main/text_privacy_policy.php) for the most accurate reproduction.*
 
 # IPmart.com - Privacy Policy
+
+  * [About Dealer Network](http://www.ipmart.com/main/text_join_dealer_network.php "About Dealer Network")
+  * [About IPmart.com](http://www.ipmart.com/main/text_about_us.php "About IPmart.com")
+  * [Customer Review](http://www.ipmart.com/main/text_customer_review_for_ipmart.php "Customer Review")
+  * [Submit Your Review](http://www.ipmart.com/main/text_submit_review_for_ipmart.php "Submit Your Review")
+  * [Custom Rights](http://www.ipmart.com/main/text_custom_rights.php "Custom Rights")
+  * [Delivery Destinations](http://www.ipmart.com/main/text_delivery_destinations.php "Delivery Destinations")
+  * [FAQs](http://www.ipmart.com/main/faqs.php "FAQs")
+  * [How to Order](http://www.ipmart.com/main/text_how_to_order.php "How to Order")
+  * [Links](http://www.ipmart.com/main/text_links.php "Links")
+  * [Payment Methods](http://www.ipmart.com/main/text_payment_methods.php "Payment Methods")
+  * [Order Cancellation](http://www.ipmart.com/main/text_order_cancellation.php "Order Cancellation")
+  * [Out of Stock Items](http://www.ipmart.com/main/text_out_of_stock_policy.php "Out of Stock Items")
+  * [Privacy Policy](http://www.ipmart.com/main/text_privacy_policy.php "Privacy Policy")
+  * [Reporting Infringements](http://www.ipmart.com/main/text_reporting_infringements.php "Reporting Infringements")
+  * [Safe And Secure Purchase](http://www.ipmart.com/main/text_safe_secure_purchase.php "Safe And Secure Purchase")
+  * [Terms and conditions](http://www.ipmart.com/main/text_terms_and_conditions.php "Terms and conditions")
+  * [Warranty Terms](http://www.ipmart.com/main/text_warranty_terms.php "Warranty Terms")
+
+
+
+[ ](http://www.ipmart.com/main/text_join_dealer_network.php "Buy in Bulk Quality? Get our Dealer Network Price")
+
+  
+[](http://www.ipmart.com/main/myaccount_send_message.php "Create a Support Ticket")
+
+Why Our Customers  
+Love Us?
+
+(Customers Testimonials)
+
+I was impressed with your service and looking forward to future orders.  
+\- Anderson Co (Philippines)  
+[read more](http://www.ipmart.com/main/text_customer_review_for_ipmart.php#reviewid124)   
+
+From: James FreckletonHi, i love this phone! that is why i bought it.I love the fact that it has Dual card dual standby, Java, Dual cameras,3.2 - inch touch screen,MP3 / MP4 multimedia player,Shake to change music/pic,FM radio, E-book,WiFi, Bluetooth,Flight mode and most of all, its Unlocked. The W995 Quad Band phone performs well.  
+\- James Freckleton (United States)  
+[read more](http://www.ipmart.com/main/text_customer_review_for_ipmart.php#reviewid162)     
+  
+---  
+More Info
 
 | 
 
