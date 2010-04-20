@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massagecreep.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111130450id_/http%3A//massagecreep.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagecreep.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420102403id_/http%3A//massagecreep.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
