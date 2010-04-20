@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpmyrealty.com privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923170342id_/http%3A//www.phpmyrealty.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpmyrealty.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420042130id_/http%3A//www.phpmyrealty.com/privacy.html) for the most accurate reproduction.*
 
 # phpMyRealty.com - Privacy Policy - php/SQL Real Estate Classifieds Directory, php Real Estate Listings Directory, Realtors / Agents Directory Script
 
@@ -11,12 +11,12 @@
 **Testimonials**  
 
 
-Without a doubt, your service and response is next to none. You guy's are GREAT! I have answers for my clients within an hour usually. I don't have to wait several day's like other programs I have had! I will recommend phpmyrealty.com to anyone thinking of putting up a real estate web site! The ease I have been told by users is very simple...and that's what most people look for..easy and friendly to use! I know once my site is catches on locally...there's nothing stopping progress! Once again thanks! If I have future problems or questions...I know I can count on your service.
+My wife and I are very pleased with your work, and the whole website has come up fine. It took more time than we thought, but I guess there were so many little modifications, so that is fair. THANKS for your good work, and we would heartily recommend you to anyone seeking a property website. Its come up looking fantastic. You are excellent at what you do.
 
-\- Adolfo Cardenas
+\- Renato
 
   
-[Read More Testimonials](https://web.archive.org/testimonials.html)
+[Read More Testimonials](http://www.phpmyrealty.com/testimonials.html)
 
 | 
 
