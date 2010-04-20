@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academicsnow.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215183522id_/http%3A//www.academicsnow.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicsnow.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420080551id_/http%3A//www.academicsnow.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Academicsnow.com
 
