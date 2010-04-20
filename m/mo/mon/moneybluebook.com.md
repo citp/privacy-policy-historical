@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneybluebook.com privacy policy that was archived on 2008-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081030095647id_/http%3A//www.moneybluebook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneybluebook.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420065303id_/http%3A//www.moneybluebook.com/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy
 
