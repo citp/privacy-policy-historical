@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the whistleout.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111195542id_/http%3A//www.whistleout.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whistleout.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420204139id_/http%3A//www.whistleout.com.au/Privacy) for the most accurate reproduction.*
 
-# Website Privacy Policy - WhistleOut.com, Australia
+# Website Privacy Policy - WhistleOut
 
 **Who are WhistleOut?**
 
-The website located at www.whistleout.com (this **Site** ) is operated under exclusive licence by WhistleOut Pty Ltd (ABN 14 130 446 267) ( **WhistleOut** ). You may have been referred to the Site from the website of one of our referral partners so it is important that you understand that the Site is controlled and operated by WhistleOut and not by the owner or controller of the website from which you have been referred. References in this Privacy Policy to the Site mean either the main website operated by WhistleOut currently located at www.WhistleOut.com or a sub domain carrying the comparison and ranking service in respect of various goods and services offered by WhistleOut to which you have been referred from the website of one of our referral partners, whichever is relevant in the context. WhistleOut is firmly committed to maintaining your privacy by dealing with personal information in accordance with all applicable laws.
+The website located at <http://www.whistleout.com.au/> (this **Site** ) is operated under exclusive licence by WhistleOut Pty Ltd (ABN 14 130 446 267) ( **WhistleOut** ). You may have been referred to the Site from the website of one of our referral partners so it is important that you understand that the Site is controlled and operated by WhistleOut and not by the owner or controller of the website from which you have been referred. References in this Privacy Policy to the Site mean either the main website operated by WhistleOut currently located at <http://www.whistleout.com.au/> or a sub domain carrying the comparison and ranking service in respect of various goods and services offered by WhistleOut to which you have been referred from the website of one of our referral partners, whichever is relevant in the context. WhistleOut is firmly committed to maintaining your privacy by dealing with personal information in accordance with all applicable laws.
 
 The following privacy policy ( **Privacy Policy** ) outlines the type of information we will collect from you, how we may use that information, whether we may disclose such information to a third party, and your ability to update or correct such information.
 
@@ -14,7 +14,7 @@ This Privacy Policy applies solely to this Site, and does not apply to third par
 
 **Your Consent to this Privacy Policy**
 
-This Privacy Policy is in addition to and to be read in conjunction with this Site’s Terms and Conditions of Use which can be found at [ http://www.whistleout.com/Terms-Of-Use](http://www.whistleout.com/Terms-Of-Use). If you do not agree with any of the terms of our Privacy Policy, please leave the Site immediately.
+This Privacy Policy is in addition to and to be read in conjunction with this Site’s Terms and Conditions of Use which can be found at <http://www.whistleout.com.au/Terms-Of-Use>. If you do not agree with any of the terms of our Privacy Policy, please leave the Site immediately.
 
 **Non-Personal Information**
 
@@ -90,7 +90,7 @@ If you:
 
 (c) no longer wish to have personal information relating to you held by WhistleOut,
 
-you will need to make a written request by email to [ privacy@whistleout.com](mailto:privacy@whistleout.com) with sufficient details for WhistleOut to identify you, and to contact you in the event that WhistleOut requires further confirmation of your identity.
+you will need to make a written request by email to [privacy@whistleout.com.au](mailto:privacy@whistleout.com.au) with sufficient details for WhistleOut to identify you, and to contact you in the event that WhistleOut requires further confirmation of your identity.
 
 By requesting that WhistleOut cease holding personal information relating to you, you acknowledge and agree that WhistleOut will cease the provision of all services to you requiring such information. WhistleOut will then take all reasonable steps to ensure that the personal information relating to you is destroyed or de-identified by secure means.
 
@@ -100,6 +100,6 @@ WhistleOut will review and update this Privacy Policy periodically to ensure tha
 
 **What to do if You Have a Problem or Question**
 
-If you have any questions, complaints or requests relating to online privacy issues on this Site, please email WhistleOut at [privacy@whistleout.com](mailto:privacy@whistleout.com).
+If you have any questions, complaints or requests relating to online privacy issues on this Site, please email WhistleOut at [privacy@whistleout.com.au](mailto:privacy@whistleout.com.au).
 
 For additional information with regard to online privacy issues, you can visit the Australian Federal Privacy Commissioner’s site at [www.privacy.gov.au](http://www.privacy.gov.au/).
