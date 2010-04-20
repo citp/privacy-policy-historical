@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overnightprints.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218053757id_/http%3A//www.overnightprints.com/main.php%3FA%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overnightprints.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421005111id_/http%3A//www.overnightprints.com/main.php%3FA%3Dprivacy) for the most accurate reproduction.*
 
 # Business Cards, Postcards, Flyers, Brochures, Letterhead , Greeting Cards & Envelopes Overnight ~ by OvernightPrints.com
 
