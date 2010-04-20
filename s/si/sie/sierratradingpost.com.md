@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212075832id_/http%3A//www.sierratradingpost.com/lp2/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420055258id_/http%3A//www.sierratradingpost.com/lp2/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Sierra Trading Post
 
@@ -14,7 +14,7 @@ We do not rent, share, or exchange our customers’ email addresses. Email addre
 
 We do not rent, share or exchange our customers’ cell phone numbers. Cell phone numbers voluntarily given to us are used for marketing purposes only, and only with your consent. Depending on the terms of your mobile cell phone calling plan, you may incur a cost to receive promotional text messages from Sierra Trading Post. Instructions on how to unsubscribe are included in every promotional text message. 
 
-To sign-up, unsubscribe, or [change your preferences for email and/or text message promotions](https://web.archive.org/EmailOnly/EmailOffers.aspx "change your preferences for email and/or text message promotions"): 
+To sign-up, unsubscribe, or [change your preferences for email and/or text message promotions](https://web.archive.org/EmailOnly/Unsubscribe.aspx "change your preferences for email and/or text message promotions"): 
 
 When you register, request a catalog, or place an order for the first time, your address will be automatically added to our paper catalog mailing list. From time to time this mailing list is shared and traded with other responsible businesses. You may request that we add your name to our catalog mailing list but not share this information with others. You may also request that your name be removed from our mailing list.
 
