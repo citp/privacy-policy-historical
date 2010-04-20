@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the panerabread.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224193637id_/http%3A//www.panerabread.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panerabread.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420042929id_/http%3A//www.panerabread.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Panera Bread® › Your Privacy
 
-LAST UPDATED AND EFFECTIVE DATE: October 30, 2009.
+LAST UPDATED AND EFFECTIVE DATE: March 24, 2010
 
 We at Panera Bread know that privacy is a major concern of visitors and users of this web site ([www.panerabread.com](http://www.panerabread.com/), [www.panera.com](http://www.panera.com/)). This policy describes the personal information we collect on our Site, how we use it, and when we share it with third parties. This policy applies only to personal information collected via this Site, and does not apply to personal information collected offline (such as information you may provide over the phone, via fax, or when visiting a PANERA BREAD bakery-cafe or any other website).
 
@@ -21,6 +21,7 @@ The PANERA BREAD name, design, logos and related marks are trademarks or registe
 You do not have to provide any personal information to us in order to use our Site, although this may limit your ability to take advantage of certain functionality. You control how much or how little personal information you submit to us. You can send us your personal information in a variety of ways. If you communicate with us by email or through an online form on this Site, we will collect your name, email address, and the additional information that you provide. Online forms permit you to, among other things, subscribe to Panera Bread e-newsletters, provide us feedback, and ask questions. Participating in some online services may require you to register. For example, we ask you to register before accessing our webcasts concerning quarterly earnings. We use the information you provide in the following ways:
 
   * To provide you with or otherwise respond to your requests for information and/or services, such as your request to receive Panera Bread e-newsletters, to identify a Panera Bread bakery-cafe near your home or to let you know if you qualify for an Operation Donation program. 
+  * To provide you with information about new products or services, events in our bakery-cafes and events that Panera sponsors.
   * To process your online job application and related information.
 
 
@@ -52,6 +53,10 @@ On the franchise inquiry form, we will collect your name, address, email address
 ### Contests/Sweepstakes
 
 On occasion, Panera Bread may conduct contests/sweepstakes with the opportunity to win prizes. Each contest/sweepstakes has its own terms and conditions ("Official Contest/Sweepstakes Rules"). As part of entering a contest on-line through this Site or through a third party provider site, certain personally identifiable information (such as name, address, phone number, etc.) may be required. This information will be used as described in the applicable Official Contest/Sweepstakes Rules.
+
+### Delicious Delights Text Program
+
+This paragraph contains terms applicable to the delicious delights text offer program which may allow you to receive certain offers by text for redemption at participating Panera Bread locations in limited geographic areas within the United States by texting a specific code. Panera Bread utilizes a third party vendor to provide this service, and the information collected about you when you respond (for example your cell phone number) will be maintained using industry standard security and used to send you text messages about the program and otherwise administer the program. All delicious delights offers are made available by text message only. Text offers may be redeemed only at participating Panera Bread® bakery cafes in Chicagoland (Lake county, IN, Will, McHenry, Lake, Kendall, Kane, DuPage and Cook counties, IL). Text offer items available only while supplies last. Purchase may be required to redeem some offers. No substitutions of offered items or required purchases allowed. Limit one text offer per person per visit per day. Must present text offer when ordering. Text offers not valid with any other coupon or offer. Text offers void if modified, copied, reproduced, transferred, purchased, traded or sold or received from anyone other than Panera Bread. Applicable taxes paid by offer recipient. The promotion and/or text offers may expire without notice due to error, fraud or other unforeseen circumstances. Must be 18 or older to participate. Text offer has no cash redemption value. Message and data rates may apply. Promotion is valid from 2/1/2010 to 2/14/2010. To stop participation in this promotion, text STOP to 46786. For questions/assistance, click on Contact Us at the bottom of this page or call 800-301-5566, ext. 5510.
 
 ### Surveys
 
