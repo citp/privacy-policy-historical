@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the cdjapan.co.jp privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202055930id_/http%3A//www.cdjapan.co.jp/help/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdjapan.co.jp privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420053421id_/http%3A//www.cdjapan.co.jp/help/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+  
+
 
 **Privacy Policy**
 
@@ -12,7 +15,7 @@ Personal information is defined in this Privacy Policy as any information, or an
 
 **How We Collect Your Information**
 
-We collect and store your personal information you enter on our website, including your name, gender (optional), date of birth (optional), shipping address, billing address, phone number, email address, and credit card details. Some other information may be collected and stored automatically, including records and details of your orders, IP (Internet protocol) address, and URL (Uniform Resource Locator) of the website from which our website is linked. We may be affiliated with third-party companies for jointly providing certain types of services, and such companies may provide us with personal information, but it will not be without your prior consent. As of April 1, 2005, we do not collect personal information from any third party for services we provide at cdjapan.co.jp. 
+We collect and store your personal information you enter on our website, including your name, gender (optional), date of birth (optional), shipping address, billing address, phone number, email address, and credit card details. Some other information may be collected and stored automatically, including records and details of your orders, IP (Internet protocol) address, and URL (Uniform Resource Locator) of the website from which our website is linked. We may be affiliated with third-party companies for jointly providing certain types of services, and such companies may provide us with personal information, but it will not be without your prior consent. As of April 1, 2005, we do not collect personal information from any third party for services we provide at cdjapan.co.jp.
 
 **How We Use Your Information**
 
@@ -26,15 +29,16 @@ We may release personal information in circumstances in which we reasonably beli
 
 To make certain aspects of our services possible, third-party companies may work on our behalf to perform certain functions. Also, some companies may extend their own membership programs through us. We share personal information with such third parties only to an extent that allows them to perform their functions for us, or to extend their membership programs as detailed below. In each case, the third party involved is contractually obligated to protect the confidentiality and the security of the personal information we share, and they are also contractually prevented to use personal information we share for any other purpose. 
 
-**Credit Card Companies**  
-Credit card companies and their vendors process credit card payments. We share credit card details, and other personal information necessary, in some cases, for processing credit card payments.  
+**Credit Card Companies**
 
+Credit card companies and their vendors process credit card payments. We share credit card details, and other personal information necessary, in some cases, for processing credit card payments.
 
-**Delivery Companies**  
-Delivery companies deliver packages we ship. Also, delivery companies collect payments in case Cash on Delivery is selected as the payment method (available only for orders to be delivered within Japan). We only share personal information necessary for delivery and collection of payments.  
+**Delivery Companies**
 
+Delivery companies deliver packages we ship. Also, delivery companies collect payments in case Cash on Delivery is selected as the payment method (available only for orders to be delivered within Japan). We only share personal information necessary for delivery and collection of payments.
 
-**Providers of Membership Programs**  
+**Providers of Membership Programs**
+
 In affiliation with cdjapan.co.jp, providers of membership programs may extend their own membership programs through our website. We share personal information with such providers only to an extent necessary for the administration of the membership programs. 
 
 **Protecting Your Personal Information**
