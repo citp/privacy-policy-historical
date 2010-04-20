@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibhat.net privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203065808id_/http%3A//www.ibhat.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibhat.net privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420060813id_/http%3A//www.ibhat.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy IBHAT.net
 
