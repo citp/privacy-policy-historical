@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workathomerecruiters.net privacy policy that was archived on 2009-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091009010922id_/http%3A//www.workathomerecruiters.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workathomerecruiters.net privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420060902id_/http%3A//www.workathomerecruiters.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Work At Home Recruiters
 
