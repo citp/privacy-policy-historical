@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outskirtspress.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213070830id_/http%3A//www.outskirtspress.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outskirtspress.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420041451id_/http%3A//www.outskirtspress.com/privacy.html) for the most accurate reproduction.*
 
 # Outskirts Press - Privacy Policy
 
