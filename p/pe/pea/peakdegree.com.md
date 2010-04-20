@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peakdegree.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206061139id_/http%3A//www.peakdegree.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peakdegree.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420033937id_/http%3A//www.peakdegree.com/privacy.asp) for the most accurate reproduction.*
 
 # PeakDegree.com
 
