@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the consumersunion.org privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209183243id_/http%3A//www.consumersunion.org/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumersunion.org privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420140848id_/http%3A//www.consumersunion.org/about/privacy.htm) for the most accurate reproduction.*
 
 # Consumers Union - Privacy Policy
 
-**Consumers Union Privacy Policy**
+**Consumers Union Advocacy Privacy Policy**
 
 Consumers Union does not sell or rent any information provided by you via this ConsumersUnion.org web site with any unaffiliated third party. Our affiliates are the Consumers Union Foundation and the Consumers Union Action Fund. No such information is shared with any unaffiliated third party except in limited circumstances to provide products and service to you or in response to a request from law enforcement ( _see here for more details_). For purposes of our User Agreement, which includes this Privacy Policy, the ConsumersUnion.org web site includes all of the Consumers Union advocacy campaign web sites accessible from ConsumersUnion.org except for Consumer Reports WebWatch and Greener Choices, which are governed by the ConsumerReports.org Privacy Policy. 
 
