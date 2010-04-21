@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmoregistry.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220064633id_/http%3A//www.gmo-registry.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmoregistry.com privacy policy that was archived on 2010-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100422010950id_/http%3A//www.gmo-registry.com/en/privacy) for the most accurate reproduction.*
 
 # GMO Registry, Inc.｜Privacy Policy
 
@@ -45,8 +45,8 @@ In this Privacy Policy, GMO Registry will provide detailed information on why we
     GMO Registry uses personal information to the extent necessary to achieve the following objectives. 
 
   1. (1) To provide assistance to companies applying for new top level domains
-  2. (2) To develop and operate the registry systeme and services
-  3. (3) To provide the sales promotion support, billing, authorization, and other services necessary
+  2. (2) To develop and operate registry system and services
+  3. (3) To provide sales promotion support, billing, authorization, and other services necessary
 
 
 2) Contracts
@@ -55,7 +55,7 @@ In this Privacy Policy, GMO Registry will provide detailed information on why we
   1. (1) To communicate in regard to a service agreement
   2. (2) To respond to a request for information
   3. (3) To send out announcements regarding seminars
-  4. (4) To send out announcements regarding the usage of contractors,, and to send out documents as required
+  4. (4) To send out announcements regarding the usage of contractors, and to send out documents as required
 
 
 3) Registry Business
@@ -65,7 +65,7 @@ In this Privacy Policy, GMO Registry will provide detailed information on why we
   2. (2) To manage domain name registration information
   3. (3) To use domain name registration services
   4. (4) To resolve network operation or domain registration technical issues
-  5. (5) To operate the domain name DNS(Domain Name System)
+  5. (5) To operate the domain name DNS (Domain Name System)
   6. (6) As domain registration information to be published on Whois in accordance with ICANN contract
   7. (7) To solicit feedback or alert our customers to new features in our products that we think may be of interest
 
@@ -88,15 +88,15 @@ In this Privacy Policy, GMO Registry will provide detailed information on why we
     
 
   1. (1) As data for business analysis, and usage in analysis results data
-  2. (2) Responding to the disclosure request in accordance with Personal Information Protection Laws, and the personal information handling audit
+  2. (2) Responding to disclosure request in accordance with Personal Information Protection Laws, and the personal information handling audit
 
 
 9) Others
     
 
-  1. (1) When will disclose information related to users of this service upon request from domestic or foreign public institutions.
+  1. (1) Will disclose information when related to users of this service upon request from domestic or foreign public institutions.
   2. (2) When a user makes a request for information, GMO Registry provides information after having confirmed the identity of the user.
-  3. (3) Usage purpose of personal information relating to recruitment candidate. 
+  3. (3) Usage purpose of personal information relating to recruitment candidats. 
     1. i ) For recruiting
     2. ii ) For employment management
     3. iii ) GMO Registry may use personal information for other purposes after having obtained prior consent from candidate.
