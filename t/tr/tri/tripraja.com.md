@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripraja.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214183217id_/http%3A//www.tripraja.com/global/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripraja.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421073220id_/http%3A//www.tripraja.com/global/privacy.html) for the most accurate reproduction.*
 
 # :: Tripraja :: Privacy Policy- Tripraja.com
 
