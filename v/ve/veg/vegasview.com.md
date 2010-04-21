@@ -1,12 +1,17 @@
-> *The following text is extracted and transformed from the vegasview.com privacy policy that was archived on 2009-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090714135047id_/http%3A//www.vegasview.com/information/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegasview.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421103644id_/http%3A//www.vegasview.com/information/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - VegasView.com
+
+START A  
+NEW SEARCH
 
 Select A Hotel:
 
 Check-In Date:
 
 Check-Out Date:
+
+more info 
 
   
 At VegasView.com, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized travel experience. Please read on for more details about our privacy policy. 
