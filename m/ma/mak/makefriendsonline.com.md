@@ -1,77 +1,86 @@
-> *The following text is extracted and transformed from the makefriendsonline.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422202401id_/http%3A//www.makefriendsonline.com/online-dating/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makefriendsonline.com privacy policy that was archived on 2010-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100422000844id_/http%3A//www.makefriendsonline.com/privacy.cfm) for the most accurate reproduction.*
 
-# Online Dating - Privacy Policy
+# Makefriendsonline.com - Privacy
 
-Your privacy is important to us. This Privacy Statement explains what information we collect about you and what we do with it. Please take a few minutes to read it. 
-
-1\. Who are we?  
-MakeFriendsOnline Limited (“We”) run this site for use by members (“you”). We are registered with the UK Information Commissioner as a data controller and we try our best to comply with the Data Protection Act 1998. 
-
-2\. What information do we collect about you and what do we use it for?   
-We collect the following types of information: 
-
-Contact information   
-MakeFriendsOnline's registration form requires you to give us contact information (like your user name and email address). We use this contact information from the registration form to send you information about our company and your account. You will be identified on the site by your user name. 
-
-Profile information   
-During registration on the site you will be asked to provide certain information about yourself describing things such as your physical appearance, your level of education, your star sign and attitudes towards certain things, like smoking, drinking, etc. We collect and use this information as part of the service so other users can decide if they would like to meet you. All of this information is optional and it is up to you to decide what you want to provide us with. 
-
-Sensitive information   
-We also ask for some information about you which is more “sensitive”, such as information about your sexuality, ethnic origin and your religion. You may also submit photographs of yourself. All such information you submit will be visible to all other users under “Your Profile”. Again, we ask you for this information to help other users find out about you and decide whether they want to meet you. 
-
-Cookie information   
-While you are using this site, we may store a text file called a “cookie” on your computer, or check for the existence of a cookie that we stored on your computer during a previous visit by you to our site. The information we store does not tell us anything about you personally, but tells us about your MakeFriendsOnline account, and the use of our site generally. For more information, see below (About Cookies). 
-
-3\. About Cookies   
-Cookies are text files that are stored on your computer by websites. Cookie files help to identify the computer that is accessing our server, but not the person that is viewing the site. Cookie files are extremely small and are not likely to use up much space on your computer. 
-
-We use cookies to record the following:
-
-  * * which of our pages are being visited
-  * * the date and time the site is being accessed
-  * * the IP address from which the site is accessed
-  * * the type of browser and operating system you use
-  * * preventing barred members from accessing our site
-  * * to identify members for security purposes
+Privacy Statement   
 
 
-
-We use this information for the following purposes:
-
-  * * to work out which parts of our site are most popular
-  * * to assist you in using certain aspects of the site – e.g. the payment page
-  * * to personalise some of the pages you visit
+**1\. We Protect Your Privacy**  
 
 
+At SkyStem Ltd we have created this privacy statement to demonstrate our commitment to protecting your privacy and to inform you about how we handle your personal information. 
 
-We cannot read cookies that other websites have stored on your computer. Our cookies do not tell us what you have been doing on other sites. 
+This Privacy Statement only applies to transactions and activities in which you engage, and data gathered on SkyStem Ltd websites and any other partner website to whom we may link, but does not apply to any other website or offline point of contact between SkyStem Ltd, or any other company, and consumers. 
 
-Some of our cookies remain on your computer only during your use of the site. Others will remain on your hard drive after your session has finished and until they automatically expire or until you delete them via your browser. 
+This is a legal document which sets out how SkyStem Ltd handles and stores data which identifies you. You should read it in conjunction with our Terms & Conditions and Safety Tips, of which this Privacy Statement forms part. Please review this Privacy Statement periodically as we will modify it from time to time. Each time you visit the Site and provide us with information, by doing so you are accepting the practices described in this Privacy Statement at that time. 
 
-You do not have to agree to the use of cookies. For information on how to reject cookies, see below (Removing and Disabling Cookies). 
+We confirm that all personal data collected and stored by us is held in accordance with the Data Protection Acts 1988 and 2003. 
 
-4\. Third-Party Cookies   
-We may use third-party advertising companies to display ads on our website. These third-party advertising companies may separately place or recognise a cookie file on your browser in the course of delivering advertisements to MakeFriendsOnline. We cannot see the information collected or stored in third party cookies. We do not provide personal data about you to these third party advertisers. 
+**2\. Your IP Address **  
+Like most E-commerce Websites, each time you visit the Site, we automatically collect your IP Address on the web page from which you came. In order to administer and optimise the Site for you and to diagnose problems with our Site, we use your IP Address to help identify you and to gather broad demographic information about you. 
 
-5\. Removing and Disabling Cookies   
-If you don’t want us to place cookies on your computer at all, you can set your browser to disable or reject cookies. This will mean that no websites will be able to place cookies on your computer. You can do this by adjusting the preferences within your browser. This may mean, however, that you will not be able to enjoy full use of our service. 
+**3\. Cookies **  
+We use small files called "Cookies" to enhance the user experience of the SkyStem Ltd service and to track some site activities. If you wish to disable these cookies, the "help" section of your browser will tell you how but this will affect your access to some sections of the Site as you will only be able to browse the Site but will be unable to log on. You can find out more about cookies at www.cookiecentral.com. 
 
-If you want to remove previously-stored cookies, you can manually delete the cookies at any time. This will not prevent websites from placing further cookies on your computer. 
+**4\. Information we collect from you **  
+SkyStem Ltd only requests information that it is necessary in order for us to fulfil our obligations to you in providing the service for which you have subscribed and providing introductions to other interested members. We require visitors to the Site to give us contact information (including their name and email address) and demographic information (like their age, occupation, height) to become a member. We then use this information to contact the visitor when necessary for support or to respond to member's emails. In this way, to protect your privacy, SkyStem Ltd acts as a gateway for all messages, so your email address is never revealed and other members can only see the Site user name you have chosen. Thus, this is a private email system which allows you to communicate without having to give your email address to others. The personal profiles that are posted on the Site are available to all visitors not just subscribers to the service. 
 
-To find out exactly how to disable/ remove, please go to <http://www.allaboutcookies.org/manage-cookies/index.html>
+We ask that you do not enter personal information or financial information in to your "Profile" (for example, don’t use your address as your user name, or include your name or address in your "about me" section) because if you do then it may be posted publicly on the Site and the information will then be treated as "demographic information" that is "Public Information". 
 
-6\. Transferring your data outside Europe   
-We have members in countries around the world. It’s likely that at some point your data will be transferred to a country outside the EU, such as, for example, if a member outside the EU wants to find out about you and looks up your details. Generally, most countries outside the EU have lower legal standards for protection of personal data than EU countries. However, we take reasonable precautions to safeguard your data in these circumstances by having a high level of security in place during transfer across the internet. 
+The Site has security measures in place to protect against the loss, misuse and alteration of the information under our control and in order to comply with the provisions of the Data Protection Acts 1988 and 2003. All data is stored on highly protected databases, which are amongst the best software available today for secure software transactions. However, visitors should note that while SkyStem Ltd makes all reasonable efforts to protect subscribers’ privacy, subscribers should be aware that information disclosed while connected to the Internet is transferred to the SkyStem Ltd servers over a publicly available telecommunications network. SkyStem Ltd cannot be held responsible, and accepts no liability, for unauthorised access to the public network beyond its reasonable control and all information provided by subscribers is done entirely at the subscribers’ own risk. 
 
-7\. How to access your information   
-You can access and update your personal information at any time by logging into the site, and clicking on “Edit Profile” in the menu. To change your email address, click on “Site Preferences” in the menu. 
+Personal data is collected and processed in accordance with the provisions of the Data Protection Acts 1988 and 2003 which is a piece of British legislation. SkyStem Limited processes personal and non-personal data on our servers in the United States of America and in other countries. In some cases, we may process personal and non-personal data on a server outside of your own country. We may process personal and non-personal data to provide the Services. Where personal data is collected in a third country but processed and held on our servers in United Kingdom in order for SkyStem Ltd to provide the service for which subscribers have subscribed, please note that any transfer of such data will only be such as is necessary for SkyStem Ltd to perform the contract to which the subscriber is party. All such transfers, when taking place within SkyStem Ltd, are governed by EU- approved Binding Corporate Rules for International Data Transfer. Where such transfers are to a United States affiliate or subsidiary, we shall use reasonable endeavours to procure that such affiliate or subsidiary subscribes to the US “Safe Harbor” principles or such data transfers are governed by the provisions of an EU-approved Standard Form Model Contract for international transfers of data. 
 
-8\. Changes to this Privacy Statement   
-We reserve the right to make changes to this Privacy Statement from time to time. Any changes to the Privacy Statement will appear on this page, which you should check from time to time. By continuing to use the site you are deemed to accept changes to this policy. 
+**5\. Information other Sites collect from you **  
+On this website, we may place links to other websites operated by other parties. When you click on these links and visit other websites, regardless of whether or not they contain our brand-name, or other references to us, you need to be aware that we do not control these websites or their businesses, and this Privacy Policy does not apply to these Websites. Hence, they may collect other information from you and we encourage you to review their individual Privacy Policies. 
 
-9\. Contacting us   
-If you have any questions about any aspect of this Privacy Statement or want to discuss how we handle your data, please 'Contact Us' link. 
+**6\. How do we use Information? **  
+Information we collect from you on registration and during your membership of the Site is used for administrative purposes and to provide you with the SkyStem Ltd dating service. By submitting this information you are expressly agreeing to us processing that information in accordance with this Privacy Statement. Please remember that due to the nature of the membership of the Site, any information that is disclosed to SkyStem Ltd can become public information except in the case of the guarantees of privacy set out below in relation to payment. 
 
-## Online Dating and Friendship at MakeFriendsOnline.com
+We use the information provided by you in order to offer you the service for which you have subscribed. We use your email information and other personal information to operate this Site efficiently and to contact you in relation to your transactions, to forward messages to/from you to/from other members, and to inform you of what is happening on the Site. These "Direct Communications" to you may also contain commercial messages e.g. banner ads, promotional offers etc. "Direct Communications" are an obligatory part of the functioning of this website and receipt of these is a function of Site membership. We use a third-party advertising company to serve ads when you receive “Direct Communications”. These companies may use information (not including your name, address, email address or telephone number) in order to provide advertisements about goods and services that may be of interest to you. In the course of providing you with “Direct Communications” our third party advertiser may recognise or place a unique “cookie” on your browser. Where third parties act as processors of information on our behalf we require that they comply with our Privacy Statement and the provisions of the Data Protection Acts 1988 and 2003.
 
-Dating and friendship at MakeFriendsOnline.com, the friendliest site on the net. For six years we've been providing dating services and a great place to find friends for people from all over the world. Whether you're looking for a great online dating agency or a place to hang out and chat with a few friends, you'll find everything you need at MFO. We have chat rooms, private chat, a comprehensive search, quick mails, message boards, even an agony aunt to listen to all your problems. In the last six years we've helped thousands of people make friends, brought more singles together in relationships than we can keep track of, we've had countless marriages of couples of all ages from 20 to 60+, and even had Make Friends Online babies. So don't wait around for a more exciting life to come to you, grab it with both hands at MakeFriendsOnline. You can find us at MakeFriendsOnline.com or MakeFriendsOnline.co.uk. Free to join. 
+SkyStem Ltd may as a secondary use of your information, send you "Direct Communications" from sister websites within our group of companies. We do not share your information with any third party except as you may decide to use that information as part of your “Profile”. 
+
+You may opt-out from receiving communications from SkyStem Ltd (other than those necessary for SkyStem Ltd to provide the service for which you have subscribed) or our sister websites at anytime by emailing us at support@makefriendsonline.com This will mean your account is no longer active and you will need to set up a new account with us to avail of our service. 
+
+Personal data   
+This is data that identifies you or can be used to identify or contact you and may include your name, address and email address, user IP addresses in circumstances where they have not been deleted, clipped or anonymised and telephone number. 
+
+We will process any personal data you provide to us to provide the service for which you have subscribed and to manage your membership of the Site and to respond to any communications you might send to us. Some of this personal data which you supply (i.e. information about your lifestyle and health) may be sensitive personal data within the meaning of the Data Protection Acts 1988 and 2003. We suggest that you do not supply any data which may fall into the category of sensitive personal data as all information which you submit for inclusion on your “Profile” will be publicly available on the Site. SkyStem Ltd will not disclose any personal data of a sensitive nature without your express consent, except in so far as you have included it on your “Profile”. 
+
+Non-personal data   
+Like most websites, we gather statistical and other analytical information collected on an aggregate basis of all visitors to the Site. This non-personal data comprises information that cannot be used to identify or contact you, such as demographic information regarding, i.e. user IP addresses where they have been clipped or anonymised, browser types and other anonymous statistical data involving the use of the Site. 
+
+Non personal data gathered from visitors to the Site in an aggregate form helps us get a better understanding of where our visitors come from and helps us to better design and organise our Site.   
+**  
+7\. Does SkyStem Ltd monitor online behaviour? **  
+Our users communicate with each other through email, chat and SMS. While we do not, as a rule, moderate or monitor users' private exchanges, we reserve the right to do so. Users’ submissions that appear on the public area of the Site can be moderated and, if necessary, we reserve the right to edit, delete/remove or not to use any communication on a public area of the Site. 
+
+**8\. Correct/Update your information **  
+You can access, change or update all your personal information online by logging in as a member, and clicking on "Edit Profile" (this is exclusive of your email address which cannot be amended). You can also unsubscribe to the service by clicking on “deactivate your account”. Upon deactivation, your account information will be retained on our database should you wish to reactivate it in the future. From time to time, we will send relevant “Direct Communications” to members with Deactivated Accounts. If you wish to receive no further communications from SkyStem Ltd you can permanently unsubscribe your account by emailing us at support@makefriendsonline.com In this case, all personal data held by SkyStem Ltd in relation to your account will be purged from our servers and disposed of securely in accordance with the requirements of the Data Protection Acts 1988 and 2003. 
+
+**9\. Protect yourself from Spam **  
+It is a good practice to refrain from disclosing your email address or any other personal information in chat rooms, public forums or any other place unless this is properly protected. Information disclosed may be used by other persons for any purpose, including spamming. 
+
+**10\. Payment Security **  
+All credit card numbers are secured as we use a third party, Realex Payments United Kingdom, to process your payment. No credit card details are stored on our servers. 
+
+**11\. Choice/Opt out **  
+SkyStem Ltd regularly sends emails to its members in order to inform them of new services, improvements, etc. Our members can opt out of receiving communications from us by permanently unsubscribing from their membership. To do this you can send an email to support@makefriendsonline.com 
+
+**12\. Contacting our Website **  
+If you have any questions about this privacy statement, the practices of our Site or your dealings with this website, you can contact SkyStem Ltd via post, or clicking on the contact us button or by emailing us at support@makefriendsonline.com 
+
+**13\. Who is SkyStem Ltd**  
+
+
+SkyStem Ltd is owned and operated by SkyStem Limited, 146 High Street, Tonbridge, Kent TN91BB, United Kingdom 
+
+**14\. Sale of business **  
+We reserve the right to transfer information (including your personal data) to a third party in the event of a sale, merger, liquidation, receivership or transfer of all or substantially all of the assets of our company provided that the third party agrees to adhere to the Site Privacy Statement and provided that the third party only uses your personal data for the purposes that you provided it to us. You will be notified in the event of any such transfer. You may inform us of any changes in your personal information and data and in accordance with our obligations under the Data Protection Acts 1988 and 2003 we will update or delete your personal data accordingly. To find out what personal data we hold on you or to have your personal data updated, amended or removed from our database, please unsubscribe from the service by logging on to your account and clicking on “permanently unsubscribe” or email your request to support@makefriendsonline.com as the case may be. 
+
+SkyStem Ltd  
+146 High Street  
+Tonbridge  
+Kent TN91BB  
+United Kingdom 
