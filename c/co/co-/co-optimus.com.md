@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the co-optimus.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210175218id_/http%3A//www.co-optimus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the co-optimus.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421084234id_/http%3A//www.co-optimus.com/privacy.php) for the most accurate reproduction.*
 
-# Co-Optimus - Privacy Policy
+# Co-Optimus - Co-Optimus Privacy Policy
 
 This privacy policy describes the Co-Optimus’s current policies and practices with regard to personal data collected by the Co-Optimus through this web site. This privacy policy does not apply to information collected offline or in any other way. The term "personal data" refers to personally identifiable information about you, such as your name, birth date, e-mail address or mailing address, and any other information that identifies you personally.
 
@@ -33,3 +33,9 @@ Questions About Our Privacy Policy. If you have any questions about this privacy
 Note: Our site uses GoogleAdsense technology to serve ads relevant to users. As of March 13th, 2009 Google has begun using DART technology, which tracks user visits on ALL websites using adsense to better serve relavant ads.
 
 Google, as a third party vendor, uses cookies to serve these ads on Co-Optimus.com. Users may opt out of the use of the DART cookie by visiting the Google ad and content [network privacy policy](http://www.google.com/privacy_ads.html).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>
+
+ADVERTISEMENT
+
+ADVERTISEMENT
