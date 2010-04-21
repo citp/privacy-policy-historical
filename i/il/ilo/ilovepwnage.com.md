@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilovepwnage.com privacy policy that was archived on 2009-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091007042344id_/http%3A//www.ilovepwnage.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovepwnage.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421063921id_/http%3A//www.ilovepwnage.com/privacypolicy.php) for the most accurate reproduction.*
 
 # iLP VideoTUBE - Daily Urban Entertainment [Beta]
 
