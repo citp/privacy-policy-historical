@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the friendsreunited.co.uk privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204090104id_/http%3A//www.friendsreunited.co.uk/static/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendsreunited.co.uk privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421154856id_/http%3A//www.friendsreunited.co.uk/static/Privacy.aspx) for the most accurate reproduction.*
 
 # Friends Reunited
 
-At Friends Reunited, we believe strongly in protecting the privacy of our Members' personal information. This is a legal document that sets out how Friends Reunited handles data which identifies you. You should read it in conjunction with the [Friends Reunited Terms and Conditions](https://web.archive.org/web/20091204090104id_/http%3A//www.friendsreunited.co.uk/static/termsUK.aspx), of which this Privacy Policy forms part. 
+At Friends Reunited, we believe strongly in protecting the privacy of our Members' personal information. This is a legal document that sets out how Friends Reunited handles data which identifies you. You should read it in conjunction with the [Friends Reunited Terms and Conditions](https://web.archive.org/web/20100421154856id_/http%3A//www.friendsreunited.co.uk/static/termsUK.aspx), of which this Privacy Policy forms part. 
 
 ## 1\. Emails and communications.
 
@@ -108,7 +108,7 @@ We reserve the right to communicate such of a Member's personal information as w
 
 ## 7\. Data retention period
 
-We will retain your personal data only as long as is necessary for the purposes to which you consent under the [Friends Reunited Terms and Conditions ](https://web.archive.org/web/20091204090104id_/http%3A//www.friendsreunited.co.uk/static/termsUK.aspx)and this Privacy Policy, or as is required by applicable law, and then we will delete it. 
+We will retain your personal data only as long as is necessary for the purposes to which you consent under the [Friends Reunited Terms and Conditions ](https://web.archive.org/web/20100421154856id_/http%3A//www.friendsreunited.co.uk/static/termsUK.aspx)and this Privacy Policy, or as is required by applicable law, and then we will delete it. 
 
 ## 8\. Contacting Friends Reunited 
 
