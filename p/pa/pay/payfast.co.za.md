@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the payfast.co.za privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227092009id_/http%3A//www.payfast.co.za/c/std/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payfast.co.za privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421233516id_/http%3A//www.payfast.co.za/c/std/privacy-policy) for the most accurate reproduction.*
 
 # PayFast - Privacy Policy
 
-**Last updated on: 30 May 2007**
+**Last updated on: 03 Aug 2009**
 
 ## 1\. Introduction
 
@@ -20,7 +20,8 @@ PayFast recognises the importance of protecting the personal information that yo
 
 In the course of service provision to the User we may collect certain forms of information. The types of information that we may collect are detailed below:
 
-  * **Information you provide** \- When you place a classified on PayFast by completing the appropriate form, we ask you for personal information (such as your name, email address and phone number). We may combine the information you submit under your account with information from other services or third parties in order to provide you with a better experience and to improve the quality of our service.
+  * **Information you provide** \- When you register for an account on PayFast by completing the appropriate form, we ask you for personal information (such as your name, email address and phone number). We may combine the information you submit under your account with information from other services or third parties in order to provide you with a better experience and to improve the quality of our service.
+  * **Financial Information** \- In the course of providing a service to you, PayFast may ask for financial information (Bank account details, credit card details etc.). Such information will be treated with the upmost privacy, will be stored encrypted on our systems, will only be communicated across a secure link and will not be provided to any third parties except where necessary to provide PayFast's service to you.
   * **Cookies** \- When you visit PayFast, we may send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences or storing session information. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, this is not advised as some features (and indeed our service itself) may not function correctly if your cookies are disabled.
   * **Log information** \- When you use PayFast, our server automatically records information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
   * **User communications** \- When you send email or other communication to PayFast, we may retain those communications in order to process your enquiries, respond to your requests and improve our services. 
@@ -48,7 +49,7 @@ In the course of service provision to the User we may collect certain forms of i
 
 5.1 PayFast may send the User, site and service announcement updates on an irregular basis. Users are not able to unsubscribe from service announcements, which contain important information about our service.
 
-5.2 On occasion PayFast will email newletters to provide the User with information that we think the User will find useful, including information about new products and services. We might also contact the User by email to see if the User is interested in participating in market research regarding PayFast. We may also contact the User by email to respond to customer-service complaints that the User has submitted, to address a problem affecting the User�s use of the service or to verify the User�s account information if the User submits a password request.
+5.2 On occasion PayFast will email newletters to provide the User with information that we think the User will find useful, including information about new products and services. We might also contact the User by email to see if the User is interested in participating in market research regarding PayFast. We may also contact the User by email to respond to customer-service complaints that the User has submitted, to address a problem affecting the User’s use of the service or to verify the User’s account information if the User submits a password request.
 
 ## 6\. Information sharing
 
