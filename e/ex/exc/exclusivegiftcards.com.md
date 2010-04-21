@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the exclusivegiftcards.com privacy policy that was archived on 2008-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080330014609id_/http%3A//www.exclusivegiftcards.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D848name) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclusivegiftcards.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421023726id_/http%3A//www.premiumproductsonline.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2384name%26catalog_id%3D13304%26gift%3D71) for the most accurate reproduction.*
 
-# Help Desk
+# Premiumproductsonline
 
-  
-
-
-**PRIVACY POLICY**
-
-**January 31, 2007**
+**December 11, 2009**
 
 **Our Commitment To Privacy**
 
@@ -29,13 +24,25 @@ We use your Information to administer our business activities, provide customer 
 
 **OPT-IN NOTICE: By Participating, You Expressly "Opt In" To Receive Information And Grant Us Permission To Share Your Information**
 
-By signing up for our Program you expressly opt in to receive future information about products and services from us and from a variety of advertisers to whom we may provide your Information. We will share your personal information with third parties, including our advertisers, for any reason we choose, including without limitation for the following purposes: (1) to operate our Program (including the transfer of the information to advertisers or to third parties who maintain on our behalf a list of persons having registered with our Program), (2) to permit advertisers or other third parties to use your Information for any purpose such as contacting you by email, phone, text message, U.S. mail or any other means of communication for any purpose, (3) to confirm you have completed all of the necessary steps to receive your gift, and (4) as we are required to do by law, including to notify the IRS that you received your gift. As a result, we will transfer your Information to third parties whose privacy policies and practices are beyond our control.
+By signing up for our Program you expressly opt in to receive future information about products and services from us and from a variety of advertisers to whom we may provide your Information. We will share your personal information with third parties, including but not limited to our advertisers, BigRewards.com, ShoppingBag.com and HotSurveys.com (collectively Media Network, Inc.) for any reason we choose, including without limitation for the following purposes: (1) to operate our Program (including the transfer of the information to advertisers or to third parties who maintain on our behalf a list of persons having registered with our Program), (2) to permit advertisers or other third parties to use your Information for any purpose such as contacting you by email, phone, text message, U.S. mail or any other means of communication for any purpose, (3) to confirm you have completed all of the necessary steps to receive your gift, and (4) as we are required to do by law, including to notify the IRS that you received your gift. As a result, we will transfer your Information to third parties whose privacy policies and practices are beyond our control.
 
 In addition, in the event we consider a transaction involving the purchase or sale of our assets or stock, other companies may review our records, including your Information, to make business decisions about the transaction. Likewise, your Information may be transferred to third parties in the event of the sale or acquisition of our company or any of its assets. The parties who perform services for us (credit card processors, merchant banks, our internet service provider, etc.) also may have access to your information in performing their services.
+
+**_Express Consent:_** By accepting the terms and conditions of this Site and providing your telephone number, you are subscribing to a service that transmits special offers to subscribers via pre-recorded voice messages. 
+
+By subscribing, you are expressly consenting to receive pre-recorded telephone messages from The Firebrand Group, LLC, a Nevada company doing business as Worldwide Commerce Associates (“WCA”) that include special or discounted sales offers. You are subscribing to receive offers only from WCA, and only at the specific numbers(s) you have provided to us. Your consent will be effective regardless of whether the number you have provided: (a) is a home, business, or cell phone line; and/or (b) is or will be registered on any state or federal Do-Not-Call (DNC) list, and shall remain in effect until you revoke your consent and cancel your subscription. 
+
+To unsubscribe: You may cancel your subscription and revoke your consent to receive pre-recorded telephone calls at any time by either (a) utilizing the opt-out procedure included in any message you receive; or (b) by calling 800-269-0281 
+
+NOTE: WCA does not send offers via email, and is unable to honor any unsubscribe requests sent by other companies. If you are receiving offers via email please follow the unsubscribe instructions included therein. 
 
 **Special Note About Information You Provide Directly To Our Advertisers.**
 
 You are able to access certain advertiser's sites through our site. When you opt to receive information or sign up for an offer from an advertiser, you may be doing so through third party sites and with other companies over which we have no control. You should read those sites' privacy policies to make sure you agree to them before using such sites. If you wish to opt out of those advertisers' mailings, you must do so directly with such advertisers or as otherwise provided on or through their sites.
+
+**Third Party Ad Servers.**
+
+We may serve advertisements within our Web Site either ourselves or by allowing other companies, called third-party ad servers or ad networks, to do so. In addition, some of our advertisers may use the services of third-party ad networks. Some of these third-party ad networks may place a persistent cookie on your computer. Doing this allows the third-party ad network to recognize your computer each time they send you an online advertisement. In this way, third-party ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows a third-party ad network to deliver targeted advertisements that they believe will be of most interest to you. We do not have access to or control of the cookies that may be placed by the third-party ad servers or third-party ad networks. Those third-party ad networks that use persistent cookies may offer you a way to opt-out of ad targeting. You may find more information at the web site of either the individual third-party ad network or the Network Advertising Initiative (http://www.networkadvertising.org). 
 
 **Security Of Your Information.**
 
@@ -43,7 +50,7 @@ We use reasonable technical efforts to prevent unauthorized access or disclosure
 
 **How You Can Choose To "Opt Out" Of Receiving Further Information About Products Or Services**
 
-If at any time you do not wish to receive further information about products or services from us and wish us to cease providing your Information to third parties, you may chose to "opt-out" through the Unsubscribe/"Opt-Out" page of our site or by written request sent by U.S. mail to our Customer Service Manager at the following address:
+If at any time you do not wish to receive further information about products or services from us and wish us to cease providing your Information to third parties, you may choose to "opt-out" through the Unsubscribe/"Opt-Out" page of our site or by written request sent by U.S. mail to our Customer Service Manager at the following address:
 
 Customer Service Department  
 13762 W. SR. 84, Suite 612   
@@ -60,3 +67,5 @@ If you wish to access, delete or correct the information you have provided to us
 If you are a California resident or another state with specific laws relating to the collection and use of Information, you may have specific rights not set forth in this policy. For example, California residents have the right to receive: a) information identifying any third party company(ies) to whom we may have disclosed, within the past calendar year, personal information pertaining to you and your family for the company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information you must make a request in writing. Your request must include your name registration (email address), the site name you visited and a return address or it will not be processed. We will not honor such requests more than once per calendar year. Requests made via email will not be accepted. Please mail your request to Customer Service Manager at the address listed in the footer of this site or the Contact Us page.
 
 PLEASE CHECK THIS PRIVACY POLICY PERIODICALLY FOR CHANGES AS WE RESERVE THE RIGHT TO REVISE THIS PRIVACY POLICY. SUCH REVISIONS TO THE PRIVACY POLICY SHALL TAKE EFFECT WHEN POSTED. YOUR CONTINUED USE OF OUR SERVICES THROUGH ANY COMMUNICATION CHANNEL FOLLOWING THE POSTING OF ANY CHANGES TO THE PRIVACY POLICY CONSTITUTES YOUR ACCEPTANCE OF SUCH CHANGES.
+
+**Customer Service Department :** 13762 W. SR. 84 • Suite 612 • Davie, FL 33325 • (954) 653-9350 
