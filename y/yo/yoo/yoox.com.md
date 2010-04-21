@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoox.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230223412id_/http%3A//www.yoox.com/cms/legal/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoox.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421171324id_/http%3A//www.yoox.com/cms/legal/privacypolicy.asp) for the most accurate reproduction.*
 
 # YOOX.COM - Legal area
 
@@ -9,7 +9,7 @@ We also invite you to read the YOOX.COM General Conditions, because they also co
 
  **Data controller**
 
-The data controller of the information collected through this website is Yoox S.p.A., with registered office in Italy at Via Nannetti 1, 40069, Zola Predosa (Bologna), business register number, tax code and VAT number 02050461207, fully paid share capital of EUR 504,037.56 (hereinafter "YOOX"): YOOX independently establishes the purposes and methods of data processing and the implementation of security procedures to guarantee the privacy, integrity and availability of such data.
+The data controller of the information collected through this website is Yoox S.p.A., with registered office in Italy at Via Nannetti 1, 40069, Zola Predosa (Bologna), business register number, tax code and VAT number 02050461207, fully paid share capital of EUR 509.679 (hereinafter "YOOX"): YOOX independently establishes the purposes and methods of data processing and the implementation of security procedures to guarantee the privacy, integrity and availability of such data.
 
  **Optional or compulsory communication of personal data**
 
