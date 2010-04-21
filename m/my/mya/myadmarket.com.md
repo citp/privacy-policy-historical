@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the myadmarket.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430124137id_/http%3A//www.myadmarket.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myadmarket.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421114349id_/http%3A//www.myadmarket.com/privacy-policy) for the most accurate reproduction.*
 
 # MyAdMarket: Privacy Policy
 
-At MyAdMarket.com, we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor's will. We do not and will not share any personal information with any third parties unless by governmental order.
+At MyAdMarket.com, we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor’s will. We do not and will not share any personal information with any third parties unless by governmental order.
 
 #### Cookies
 
-All browsers offer "cookies" and if you permit their use, they will store small amounts of data on your computer about your visit to the site that placed the cookie. A cookie is a small text file. It is not a program, or a plug-in. It could not be used as a virus, and it cannot access your hard drive. Cookies simply assist in tracking which features you like the most and allow content to be customized upon your return, according to prior preferences at that site. They would not gather or hold any personal information.
+All browsers offer “cookies” and if you permit their use, they will store small amounts of data on your computer about your visit to the site that placed the cookie. A cookie is a small text file. It is not a program, or a plug-in. It could not be used as a virus, and it cannot access your hard drive. Cookies simply assist in tracking which features you like the most and allow content to be customized upon your return, according to prior preferences at that site. They would not gather or hold any personal information.
 
 At MyAdMarket.com, We may use cookies to:
 
-Store your password so you don't have to re-enter it each time you visit our sites.
+Store your password so you don’t have to re-enter it each time you visit our sites.
 We will not use cookies to identify, monitor or track any personally identifiable information.
 Our cookies do not contain any personally identifiable information about you.
-We do not merge or associate our cookie information with any other visitor's confidential identifiable data obtained by us or from the 3rd parties.
+We do not merge or associate our cookie information with any other visitor’s confidential identifiable data obtained by us or from the 3rd parties.
 
 You also have flexible choices in respect to cookies. By simply modifying your browser preferences, you have the right to choose whether:
 
@@ -29,7 +29,7 @@ While we use cookies in other parts of our website, cookies received with the pa
 
 #### Registration Forms
 
-Our site's registration form requires users to provide contact information (such as their name, email, and postal address). This contact information is only used to get in touch with the customer when necessary and is never sold or shared.
+Our site’s registration form requires users to provide contact information (such as their name, email, and postal address). This contact information is only used to get in touch with the customer when necessary and is never sold or shared.
 
 #### External Links
 
