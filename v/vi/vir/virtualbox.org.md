@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualbox.org privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227014820id_/http%3A//www.virtualbox.org/wiki/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualbox.org privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421102244id_/http%3A//www.virtualbox.org/wiki/PrivacyPolicy) for the most accurate reproduction.*
 
 # PrivacyPolicy - VirtualBox
 
