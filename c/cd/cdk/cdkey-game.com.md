@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cdkey-game.com privacy policy that was archived on 2009-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090718130220id_/http%3A//www.cdkey-game.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdkey-game.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421164232id_/http%3A//www.cdkey-game.com/pp.php) for the most accurate reproduction.*
 
-# CDkey-Game.com - Trustworthy and Global Game Cd-key online Store
+# CDKEY-GAME.COM company of heroes cd key,opposing fronts cd key,coh cd key,coh key,opposing fronts cd code,opposing fronts cd key
 
 www.cdkey-game.com (together with its subsidiaries, "cdkey-game" or "we") considers the protection of personal privacy to be one of our most important values. This privacy policy ("Policy") gives you specific information on how we protect your privacy, how we treat personal information, and the choices you have. This privacy policy complies with the Safe Harbor framework under the E.U. Data Protection Directive. In addition, cdkey-game self-certifies compliance with the Safe Harbor framework to the U.S. Department of Commerce.
 
