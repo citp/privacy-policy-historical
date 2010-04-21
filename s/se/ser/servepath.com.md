@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servepath.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109134217id_/http%3A//www.servepath.com/legal/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servepath.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421090709id_/http%3A//www.servepath.com/legal/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # ServePath: Legal : Privacy Policy
 
