@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mommyland.com privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427031607id_/http%3A//www.mommyland.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommyland.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421234304id_/http%3A//www.mommyland.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | Mommyland
+# Privacy Policy- Mommyland
 
 Welcome to Mommyland It is great to have you here. I Invite you to Check out our [Forum](http://www.mommyland.com/forum) to meet other moms and share your tips and ideas.  
 If you're new here, you may want to subscribe to my [RSS feed](http://www.mommyland.com/feed/). Thanks for visiting!
