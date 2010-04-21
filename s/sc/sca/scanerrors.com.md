@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scanerrors.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208052415id_/http%3A//scanerrors.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanerrors.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421122016id_/http%3A//www.scanerrors.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,6 +11,7 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
   * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
   * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
   * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
+  * You can unsubscribe at any time via the unsubscribe link in every mailing or by contacting us. 
 
 
 
@@ -18,6 +19,6 @@ We are committed to conducting our business in accordance with these principles 
 
 **Contact Details**
 
-If you have any questions or concerns regarding this privacy policy, you can contact us via our [contact form](https://web.archive.org/web/20091208052415id_/http%3A//scanerrors.com/contact.php). 
+If you have any questions or concerns regarding this privacy policy, you can contact us via our [contact form](https://web.archive.org/web/20100421122016id_/http%3A//www.scanerrors.com/contact.php). 
 
 Copyright © ScanErrors.com. All Rights Reserved.
