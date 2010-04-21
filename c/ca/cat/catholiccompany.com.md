@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catholiccompany.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108123519id_/http%3A//www.catholiccompany.com/privacy.cfm%3FcheckoutUser%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholiccompany.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421090923id_/http%3A//www.catholiccompany.com/privacy.cfm) for the most accurate reproduction.*
 
 # Shop CatholicCompany.com Catholic Store for all your Catholic needs. First Communion Gifts, Catholic gifts, Catholic bibles, Catholic books, rosaries, Catholic Bibles and more.
 
