@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micron.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221005109id_/http%3A//www.micron.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micron.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421192800id_/http%3A//www.micron.com/privacy) for the most accurate reproduction.*
 
 # Micron Privacy Policy
 
@@ -55,6 +55,9 @@ Micron's site contains links to other sites. Micron is not responsible for the p
 **Agents**   
 We may employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. 
 
+**Anti-Fraud Checks**  
+We may use personal information provided to us to conduct anti-fraud checks that may help us detect and prevent fraud.  The personal information we receive may be disclosed to a credit reference agency, fraud prevention agency or other information provider, which may keep a record of that information. 
+
 **Contacting the Web site**  
 If you have any questions about Micron's privacy policy or the privacy practices of our site, you may use one of the specific choices below or you may contact us by email at [privacy@micron.com](mailto:privacy@micron.com). 
 
@@ -72,6 +75,6 @@ If you have questions or concerns regarding use of your privacy information, ple
 Micron adheres to the U.S. Commerce Department Safe Harbor Principles. Information about the U.S. Department of Commerce Safe Harbor certification can be found at [www.export.gov/safeharbor. ](http://www.export.gov/safeharbor)
 
 **Updates/Effective Date**  
-Micron reserves the right to amend this Privacy Policy from time to time. Changes to this Policy will apply to information we have received and information we receive after the revised Policy is effective. When we do amend this Policy, the revised Policy will be posted here so please visit this Web page to view the most current Policy. The effective date of this version of the Privacy Policy is: August 15, 2007. 
+Micron reserves the right to amend this Privacy Policy from time to time. Changes to this Policy will apply to information we have received and information we receive after the revised Policy is effective. When we do amend this Policy, the revised Policy will be posted here so please visit this Web page to view the most current Policy. The effective date of this version of the Privacy Policy is: February 25, 2010. 
 
 Some links on this page will take you from the Micron Web site. Micron does not control the content on these Web sites.
