@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the boltblue.com privacy policy that was archived on 2009-08-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090828103650id_/http%3A//boltblue.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boltblue.com privacy policy that was archived on 2010-04-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100421230714id_/http%3A//www.boltblue.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	
@@ -20,7 +20,7 @@
 	<meta name="revisit-after" content="5 days">
 	<meta name="robots" content="follow">
 		
-	<script id="com-boltblue-bluepages-pages-InternalErrorPage-0" language="JavaScript">
+	<script id="com-boltblue-frontend-pages-BoltblueInformationPage-0" language="JavaScript">
 		function setModalWindow() {
 			try { Wicket.Window.unloadConfirmation = false; } catch(e) {}
 		}
@@ -55,16 +55,24 @@ Wicket.Event.add(window, "load", function() { showMessages();});
  
   
  
+ <!-- Christmas logo --> 
+ <img title="Boltblue - Love your mobile" style="display:none" alt="Boltblue - Love your mobile" src="/images/template/trans.gif" border="0" wicket:id="logo"> 
+ <div style="margin: 0px 0 -2px 0.5%; border: 0; height: 94px;	padding: 0px 0 0 0px;width: 220px; float: left;">
  
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,65,0" width="220" height="94" align="middle">
+<param name="allowScriptAccess" value="sameDomain">
+<param name="movie" value="/images/template/logo.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><param name="bgcolor" value="#000066"><embed src="/images/template/logo.swf" quality="high" wmode="transparent" bgcolor="#000066" width="220" height="94" name="logo" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+</object>
+</div>
 
-
+<!-- regular logo
  <div id="logo">
    <a target="_top" href="/">
-     <img title="Boltblue - Love your mobile" alt="Boltblue - Love your mobile" src="/images/template/boltbluelogo_en_UK.png" border="0" wicket:id="logo">
+     <img border="0" wicket:id = "logo" src="/images/template/boltbluelogo.png" alt="Boltblue - Love your mobile" title="Boltblue - Love your mobile"/>
 </a>
  
    </div> 
-
+  -->
   
 
 </wicket:panel></div>
@@ -144,6 +152,7 @@ Wicket.Event.add(window, "load", function() { showMessages();});
 	    <div onmouseout="hM(this.id,3)" onmouseover="cT()" id="menuForhelp" class="navs">
 			<a href="javascript:openHelp()">Help/FAQ's</a>
 			<a href="/Customer-promise">Customer Promise</a>
+			<a href="/tips-for-parents">Tips for parents</a>
 	   </div>
 
    </div>  
@@ -182,10 +191,7 @@ Wicket.Event.add(window, "load", function() { showMessages();});
 	<div class="navbarcontainers">
 		<select name="headerPanel:country:selectCountry" onchange="window.location.href='frontpages/BoltblueInformationPage/wicket:interface/%3A0%3AheaderPanel%3Acountry%3AselectCountry%3A%3AIOnChangeListener%3A%3A/tab/3/?headerPanel:country:selectCountry=' + this.options[this.selectedIndex].value;" wicket:id="selectCountry">
 <option selected="selected" value="UK">United Kingdom</option>
-<option value="NL">Netherlands</option>
 <option value="IE">Ireland</option>
-<option value="DE">Germany</option>
-<option value="AT">Austria</option>
 <option value="AU">Australia</option>
 </select>
 	</div>
@@ -236,8 +242,10 @@ Wicket.Event.add(window, "load", function() { showMessages();});
 		<a href="/privacy-policy" wicket:id="link"><span wicket:id="title">Privacy</span></a>
 	</li><li class="tab4" wicket:id="tabs">
 		<a href="/terms-of-use" wicket:id="link"><span wicket:id="title">Terms of Use</span></a>
-	</li><li class="tab5 last" wicket:id="tabs">
+	</li><li class="tab5" wicket:id="tabs">
 		<a href="/customer-promise" wicket:id="link"><span wicket:id="title">Customer Promise</span></a>
+	</li><li class="tab6 last" wicket:id="tabs">
+		<a href="/tips-for-parents" wicket:id="link"><span wicket:id="title">Tips for parents</span></a>
 	</li>
 </ul>
 </div>
@@ -412,7 +420,6 @@ Wicket.Event.add(window, "load", function() { showMessages();});
 	<li><a href="/sitemap">Sitemap</a></li>
 	<li><a href="/about-us">About Us</a></li>
 	<li><a href="/contact-us">Contact Us</a></li>
-	<li><a href="/news-press">News</a></li>
 	<li><a href="/privacy-policy">Privacy</a></li>
 	<li><a href="/terms-of-use">Terms of Use</a></li>
 	<li><a href="/customer-promise">Customer Promise</a></li>
@@ -422,12 +429,9 @@ Wicket.Event.add(window, "load", function() { showMessages();});
 </ul>
 <ul class="international" style="margin-top:3px;">
 	<li><a href="http://www.boltblue.com.au/">Australia</a></li>
-	<li><a href="http://www.boltblue.nl">Netherlands</a></li>
 	<li><a href="http://www.boltblue.ie">Ireland</a></li>
-	<li><a href="http://www.boltblue.de">Germany</a></li>
-	<li><a href="http://www.boltblue.at">Austria</a></li>
 	<li><a href="http://www.boltblue.com">UK</a></li><br>
-	<li style="color:#4f66b5;">Copyright © 2009 Boltblue Communications Ltd. All rights reserved.</li>
+	<li style="color:#4f66b5;">Copyright © 2010 Boltblue Communications Ltd. All rights reserved.</li>
 </ul>    </div>
   </div>
 
