@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solidblogger.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220132759id_/http%3A//www.solidblogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidblogger.com privacy policy that was archived on 2010-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100422093904id_/http%3A//www.solidblogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Solid Blogger
 
