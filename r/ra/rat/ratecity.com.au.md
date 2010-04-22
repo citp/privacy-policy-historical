@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the ratecity.com.au privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220132510id_/http%3A//www.ratecity.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratecity.com.au privacy policy that was archived on 2010-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100422203801id_/http%3A//www.ratecity.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RateCity.com.au
 
 _Last updated: 13 September, 2007_
 
+|   
+---|---  
+  
 **Introduction  
 **
 
