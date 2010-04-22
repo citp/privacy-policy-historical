@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 701panduan.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206101215id_/http%3A//www.701panduan.com/disclaimer/disclaimer.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 701panduan.com privacy policy that was archived on 2010-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100422215602id_/http%3A//www.701panduan.com/disclaimer.html%23privacy) for the most accurate reproduction.*
 
 # 701Panduan- Disclaimer
 
