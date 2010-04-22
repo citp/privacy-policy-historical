@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klove.com privacy policy that was archived on 2009-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090717182008id_/http%3A//www.klove.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klove.com privacy policy that was archived on 2010-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100422212117id_/http%3A//www.klove.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: Positive & Encouraging K-LOVE
 
@@ -9,7 +9,7 @@
   * All identifiable information provided by members (name, email or home address) will not be disclosed to anyone outside of the K-LOVE family. 
   * K-LOVE employs strict security measures to safeguard online transactions; personal information is stored in a secured database and always sent via an encrypted channel. 
   * Users may unsubscribe at any time to any of our electronic communications by following the instructions contained within the email. 
-  * K-LOVE maintains a strict "no-spam" policy. Your information, including your email address will not be sold to any third party. If you sign up for email, you will receive only the email you have requested. 
+  * K-LOVE maintains a strict "no-spam" policy. Your information, including your email address will not be sold to any third party. 
   * Occasionally, K-LOVE conducts user surveys to better target the music we play. We never share any information about specific individuals with any third party. 
   * By using our website, you consent to the collection and use of information by K-LOVE only as specified above. If we change our privacy policy, we will post those changes on this page so that you are always aware of all changes in our privacy policy.
 
