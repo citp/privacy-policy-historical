@@ -1,9 +1,29 @@
-> *The following text is extracted and transformed from the articletap.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221020429id_/http%3A//www.articletap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articletap.com privacy policy that was archived on 2010-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100422121945id_/http%3A//www.articletap.com/privacy.php) for the most accurate reproduction.*
 
-# hacked By M0µ34d
+# HacKed By SkuLL-HacKeR
 
-H4ck3d By M0µ34d  
-!
+  
+HacKed By SkuLL-HacKeR
+
+Was Here 
+
+  
+We are NOT S0RrY Admin  
+  
+ 
+
+[ Contact M](mailto:my@hotmail.it)
+
+!Defaced By SKuLL-HacKeR !
+
+y0ur b0x 0w3nd by
+
+SkuLL-HacKeR
+
+your Security...Get DoWn!
+
+  
+#Contact : Wizard-skh(at)hotmail.com
 
 ArticleTap.com Privacy Policy
 
