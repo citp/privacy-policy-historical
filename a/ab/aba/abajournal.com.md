@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abajournal.com privacy policy that was archived on 2009-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090915192116id_/http%3A//www.abanet.org/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abajournal.com privacy policy that was archived on 2010-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100422222832id_/http%3A//www.abanet.org/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement for ABAnet.org - American Bar Association
 
@@ -8,7 +8,7 @@ Welcome to the American Bar Association web site. The American Bar Association h
 American Bar Association  
 Customer Service/Correspondence  
 321 North Clark Street  
-Chicago, IL 60610  
+Chicago, IL 60654  
 
 
   * We can be reached via e-mail at: [service@abanet.org](mailto:service@abanet.org)
