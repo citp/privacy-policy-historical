@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the optimizerx.com privacy policy that was archived on 2009-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090418014702id_/http%3A//www.optimizerx.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the optimizerx.com privacy policy that was archived on 2010-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100422180446id_/http%3A//www.optimizerx.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -15,11 +15,27 @@
 		<script type="text/javascript" src="/inc/script/src/effects.js"></script>
 		<script type="text/javascript" src="/inc/script/src/dragdrop.js"></script>
 		<script type="text/javascript" src="/inc/script/src/controls.js"></script>
-		<script type="text/javascript">
+	
+<script type="text/javascript" src="http://static.optimizerx.com/inc/js/swfobject.js"> </script>
+
+	<script type="text/javascript">
 					var logged_in = 0;
 		//	var semi_reg = 0;
 			var hypertension_video = 0;
 			
+
+var newwindow = 1;
+if (navigator.appName == 'Microsoft Internet Explorer') {
+        var ua = navigator.userAgent;
+    var re  = new RegExp("MSIE ([0-9]{1,}[\.0-9]{0,})");
+    if (re.exec(ua) != null)
+      rv = parseFloat( RegExp.$1 );
+//  alert(rv);
+  if (rv < 7 ) newwindow = 0;
+
+}
+//alert(parseFloat(navigator.appVersion) + " | " + navigator.appVersion);
+//alert(newwindow);
 
 			window.onload = function () {
 				if(!document.all){
@@ -27,8 +43,13 @@
 					set_user_text_size();
 				}
 				if (logged_in) {
-				setPopupOffers();					
-				}
+                                    setPopupOffers();
+				} else if (newwindow == 1) {
+
+                                 setLoggedOutPopupOffers();
+                       
+
+                                }
 			//setPopups();
 
 			}
@@ -46,34 +67,33 @@
 <!--[if lte IE 6]>
 <link rel="stylesheet" type="text/css" href="/inc/png_fix.css" />
 <![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="/inc/ie8.css" />
+<![endif]-->
 
 </head>
 	<body class="prescriptions" style="font-size: 10px;">
+
+    
+
 <div id="container">
 	<div id="top">
 		<div id="head">
         
                 	<div id="head-banners"><a href="http://www.optimizerx.com/"><img src="http://static.optimizerx.com/images/logo.jpg" alt="optimizerx - putting the patient first" style="float:left;"></a>
         
-        <img src="http://static.optimizerx.com/images/as-seen-on-placeholder.gif" alt="placeholder" id="as-seen-on">			
-			
-		<div id="sticky">
-		<a href="/special-offers/">
-			<img src="http://static.optimizerx.com/images/sticky2.jpg" class="sticky" id="s1" alt="s1">
-		</a>
-		<a href="/signup/">
-			<img src="http://static.optimizerx.com/images/sticky1.jpg" class="sticky" id="s2" alt="s2">
-		</a>
-		</div>
-	   
-			
+        <div id="header_title"><h1>Preferred by patients for Prescription Coupons, Savings and Support Offers</h1></div><img src="/images/as-seen-on.gif" alt="as seen on abc, nbc, cbs" id="as-seen-on">			
+				<div id="sticky">
+		<a href="http://www.healthvault.com" target="_blank" class="tooltip"><img style="width: 110px;" src="/images/Tile_HealthVaultWhite_h_rgb.png"><span>Microsoft® HealthVault™ lets you gather health data from many sources, store it in a single location, share it with those you trust, and re-use it with HealthVault-compatible applications to monitor, track and manage your health. </span></a>   
+	</div>
 			
 			<div id="login-details">
 				<div style="padding-bottom:6px; text-align:right">
-				<select onchange="document.location = this.options[this.selectedIndex].value;"><option value="">Top Drug Coupon Searches.</option><option value="http://www.optimizerx.com/save/cholesterol/lipitor/276/">Lipitor Coupon</option><option value="http://www.optimizerx.com/save/asthma-lung/advair/9/">Advair Coupon</option><option value="http://www.optimizerx.com/save/heartburn-reflux-disease/nexium/45/">Nexium Coupon</option><option value="http://www.optimizerx.com/save/high-blood-pressure/diovandiovanhct/25/">Diovan Coupon</option><option value="http://www.optimizerx.com/save/oral-diabetes-medicines/actos/34/">Actos Coupon</option><option value="http://www.optimizerx.com/save/asthma-lung/singulair/3/">Singulair Coupon</option><option value="http://www.optimizerx.com/save/high-blood-pressure/cozaar/320/">Cozaar Coupon</option><option value="http://www.optimizerx.com/save/heartburn-reflux-disease/aciphex/44/">AcipHex Coupon</option><option value="http://www.optimizerx.com/save/osteoporosis-bone/fosamax/282/">Fosamax Coupon</option><option value="http://www.optimizerx.com/save/cholesterol/crestor/19/">Crestor Coupon</option><option value="http://www.optimizerx.com/save/epilepsy-seizures/lamictal/176/">Lamictal Coupon</option><option value="http://www.optimizerx.com/save/depression/cymbalta/238/">Cymbalta Coupon</option></select></div>				<a style="color:#0F8278;font-weight:bold; font-size: 14px;" href="/signup/">Login / Signup</a>			</div>  
-            
+				<select onchange="document.location = this.options[this.selectedIndex].value;"><option value="">Top Drug Coupon Searches.</option><option value="http://www.optimizerx.com/save/cholesterol/lipitor/276/">Lipitor Coupon</option><option value="http://www.optimizerx.com/save/asthma-lung/advair/9/">Advair Coupon</option><option value="http://www.optimizerx.com/save/heartburn-reflux-disease/nexium/45/">Nexium Coupon</option><option value="http://www.optimizerx.com/save/high-blood-pressure/diovandiovanhct/25/">Diovan Coupon</option><option value="http://www.optimizerx.com/save/oral-diabetes-medicines/actos/34/">Actos Coupon</option><option value="http://www.optimizerx.com/save/asthma-lung/singulair/3/">Singulair Coupon</option><option value="http://www.optimizerx.com/save/high-blood-pressure/cozaar/320/">Cozaar Coupon</option><option value="http://www.optimizerx.com/save/heartburn-reflux-disease/aciphex/44/">AcipHex Coupon</option><option value="http://www.optimizerx.com/save/osteoporosis-bone/fosamax/282/">Fosamax Coupon</option><option value="http://www.optimizerx.com/save/cholesterol/crestor/19/">Crestor Coupon</option><option value="http://www.optimizerx.com/save/epilepsy-seizures/lamictal/176/">Lamictal Coupon</option><option value="http://www.optimizerx.com/save/depression/cymbalta/238/">Cymbalta Coupon</option></select></div>				<a style="color:#0F8278;font-weight:bold; font-size: 14px;" onclick="document.getElementById('shadowdiv').style.display='block'; return false;" href="/signup/">Login / Signup</a>			</div>  
+
          </div>      
 </div>
+<div style="clear:both"></div>
 	
 <!--	<ul id="nav">
 		<li>
@@ -129,7 +149,6 @@
 }
 </style>
 <![endif]-->
- 
 
 			<br>
         <div style="margin-right:10px;float:left;margin-bottom:10px;margin-top:30px;margin-left:20px;_margin-left:45px;width:520px;">
@@ -141,7 +160,7 @@
 		</div>
      
 <div id="searchbox" class="search">
-	<form class="search" action="/psearch/" method="post">
+	<form class="search" action="/psearch/" method="post" onsubmit="saveSearch(this.search.value); return true;">
 		<label style="margin-top: -2px;">Search for Savings &amp; Support:</label>
 		<br><input tabindex="3" id="search" name="search" size="30" type="text" value="" style="width: 280px;" autocomplete="off">
 		 
@@ -163,9 +182,16 @@
 							name = selected_li.id.split('|')[2];
 							
 							if(catname.length > 0) {
-								if (name) {
-									window.location = '/save/'+catname+'/'+name+'/'+id+'/';
+								if (name && selected_li.id.split('|').length>2) {
+									if(id == 558) {
+										saveSearch('/learn/'+catname+'/'+name+'/'+id+'/');
+										window.location = '/learn/'+catname+'/'+name+'/'+id+'/';									
+									} else {
+										saveSearch('/save/'+catname+'/'+name+'/'+id+'/');
+										window.location = '/save/'+catname+'/'+name+'/'+id+'/';
+									}
 								} else {	
+									saveSearch('/save/'+catname+'/'+id+'/');
 									window.location = '/save/'+catname+'/'+id+'/';
 								}
 							}
@@ -183,7 +209,7 @@
 </div>	
 		<!-- <div id="content"> -->
 
-<div id="content">
+<div id="content"> 
 
 <h1 class="header centered">Privacy Statement</h1>
 
@@ -330,7 +356,7 @@
 
 
 
- </div>
+</div>
 </div>
 <div id="footer">
 	<ul class="footer">
@@ -340,12 +366,12 @@
 		<li class="privacy"><a href="/privacy/">PRIVACY</a></li>
 		<li class="contact"><a href="/contact/">CONTACT US</a></li>
 	  	<li class="contact"><a href="/disclaimer/">DISCLAIMER</a></li>
-	<li class="contact"><a href="http://www.ir-site.com/optimizerx/index.asp">INVESTORS</a></li>
+	  	<li class="contact"><a href="http://www.ir-site.com/optimizerx/index.asp">INVESTORS</a></li>
 		<li class="last sponsors"><a href="/sponsors/">ADVERTISE WITH US</a></li>
 	    <li class="last sponsors"><a href="/site-map/">SITE MAP</a></li>
 	</ul>
 <p style="padding-bottom:4px;background-color:#5CABA5;color:white;text-align:center;">
-		©  2008-2009 OPTIMIZERx.com. All rights reserved.<br><br>
+		©  2008-2010 OPTIMIZERx.com. All rights reserved.<br><br>
 OPTIMIZERx.com content is not intended to be a substitute for professional medical advice, diagnosis, or treatment. <br>Always consult your doctor prior to any changes in treatment.
 	</p>
 <script type="text/javascript">
@@ -362,5 +388,2341 @@ pageTracker._trackPageview();
 //-->
 </script>
 </div>
+
+         <div id="shadowdiv">
+            <div id="shadowdiv_inside">
+
+                <table width="1000" border="0" id="firstchunk">
+  <tbody><tr>
+    <td width="450" valign="top"><table width="450" border="0">
+      <tbody><tr>
+        <td width="450">
+        	
+        	<div style="text-align:left;background-color:#ACD176;padding:5px;width:220px;height:285px;">
+
+            <table width="450" border="0">
+              <tbody><tr>
+                <td height="70" colspan="2"><img src="/RegLogo.jpg" alt=""><br><br></td>
+
+              </tr>
+              <tr>
+                <td><div style="color:#dbecca; text-align:left; background-color:#dbecca; padding:10px; width:200px; height:180px;">
+
+                    <h2 style="font-size: 18px; margin-left:0; color: #032b4a;">Need to Sign up?<br>
+                    <span style="font-size: 13px; margin-left:0; color: #032b4a;">It's Easy and Free!</span></h2>
+                  <br>
+                  
+                  <form id="step1" action="/signup/?pop=2" method="post" name="signuptop">
+					<input type="hidden" value="step1" name="form">
+                    
+                  <table border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="74"><label class="password confirm required" style="color:teal;font-weight:bold;text-align:center"><br>Email:</label></td>
+                      <td width="124"><input class="password confirm required" style="width:115px;height:17px" type="text" tabindex="4" name="ajaxregisteremail" size="17" id="ajaxregisteremail"></td>
+                      <!--<td width="10" rowspan="6" style="padding-right:4px;padding-top:15px;">&nbsp;</td>-->
+                    </tr>
+                    <tr>
+                      <td><label class="password required" style="color: teal;font-weight: bold"><br>Confirm&nbsp;Email:</label></td>
+                      <td><input class="password required" tabindex="5" style="width:115px;height:17px" type="text" name="confirm_email" size="17" id="ajaxregisterconfirm"></td>
+                    </tr>
+                    <tr>
+                      <td><label class="password required" style="color: teal;font-weight: bold"><br>Password:</label></td>
+                      <td><input class="password required" tabindex="6" style="width:115px;height:17px" type="password" name="ajaxregisterpass" size="17" id="ajaxregisterpass"></td>
+                    </tr>
+                    <tr>
+                      <td colspan="2" style="text-align:right;">
+                      <br><table width="170" border="0" align="right">
+                        <tbody><tr>
+                          <td width="120" align="right" valign="middle" style="text-align:right">
+                          <a style="font-size:12px;color: #032b4a;float: left;padding-top: 8px;padding-left: 40px" href="#" onclick="checklogin()">Signup &amp; Save &nbsp;</a>	
+                          </td>
+                          <td width="40" align="right" valign="top" style="align:right"><img src="http://static.optimizerx.com/images/greengo.gif" name="submit" class="submit" onclick="checklogin()" tabindex="7"></td>
+                          </tr>
+                      </tbody></table>
+                   </td>
+                      </tr>
+                    <tr>
+                        <td colspan="2" style="text-align:left ;"><table><tbody><tr><td>
+    <input class="password confirm required" style="color: teal;font-size:8px; float:left; margin-top: 2px" type="checkbox" id="amazing_offers" name="amazing_offers" checked="checked" value="1">
+                                    </td><td>
+    	<label style="color: teal;font-size:8px; float:left; margin-top: 4px">Signup for our Health Savings Newsletters.</label>
+                                    </td></tr></tbody></table>
+                     </td>
+                    </tr>
+                  </tbody></table> </form>
+                </div></td>
+                <td>
+                
+                
+                <div style="text-align:left;background-color:#68B54B;padding:10px;width:200px;height:180px;">
+                  <form id="login" action="" method="post" onsubmit="logmein();return false;">
+                  <input type="hidden" value="login" name="form">
+                  <input type="hidden" value="goto" name="input">
+                  <h2 style="font-size: 18px; margin-left:0; color: #ffffff;">Already a Member?<br>
+                    <span style="font-size: 13px; margin-left:0; color: #ffffff;">Login Here!</span><br><br>
+                  <span id="badajaxlogin" style="color:red;display:none;font-weight:bold;font-size:12px;">Invalid Login! Please try Again!</span> 
+                  <table width="196" border="0">
+                    <tbody><tr>
+                      <td width="74"><label class="email text" style="color:teal; font-size:10px; font-weight: bold">Email:</label></td>
+                      <td><input type="text" size="20" name="ajaxemail" tabindex="1" style="width:115px;height:17px;" id="ajaxemail"></td>
+                    </tr>
+                    <tr>
+                      <td width="74"><label class="password" style="color: teal;font-size:10px; font-weight: bold">Password:</label></td>
+                      <td><input class="password" type="password" tabindex="2" size="20" name="ajaxpwd" style="width:115px;height:17px" id="ajaxpwd"></td>
+                    </tr>
+                  </tbody></table>
+                  <br>
+                  <table>
+                    <tbody><tr>
+                      <td><a style="font-size:12px;color: #ffffff;float: left;padding-top: 3px;padding-left: 50px" href="#" onclick="logemin();return false;">Get Selected Offers</a></td>
+                      <td><img id="login-submit" class="submit" tabindex="3" style="margin-top:3px;margin-left:5px;" src="http://static.optimizerx.com/images/greengo.gif" onclick="logemin();return false;"></td>
+                      </tr>
+                    </tbody></table> 
+                </h2></form></div></td>
+                </tr>
+            </tbody></table>
+          
+        </div></td>
+      </tr>
+    </tbody></table></td>
+    <td width="524" valign="top">
+    
+    <div style="background-color:#45769c; padding:10px; width:400px; height:274px;">
+    <table>
+      <tbody><tr>
+        <td colspan="2" align="center" height="49">
+        <p></p><center style="font-size: 18px;color:#ffffff;font-face:arial">
+        As a FREE member of our community,<br>
+        you will have instant access to:
+		 <br></center><p></p>
+        </td>
+      </tr>
+      <tr>
+        <td valign="bottom"><span style="font-size: 18px;color:#ffffff;font-face:arial;align:center;valign:bottom">
+          <object type="application/x-shockwave-flash" width="237" height="168" data="http://static.optimizerx.com/flash/playerB-.swf" id="playerB">
+            <param name="movie" value="http://static.optimizerx.com/flash/playerB-.swf">
+            <param name="wmode" value="transparent">
+            <param name="quality" value="high">
+            <param name="height" value="200">
+            <param name="width" value="310">
+            <param name="allowScriptAccess" value="always">
+            <embed src="http://static.optimizerx.com/flash/playerB-.swf" width="237" height="168" wmode="transparent" quality="high" allowscriptaccess="always">
+          </object>
+          <br>
+          <p align="center"></p><center>
+            <span style="font-size:10px;color: #ffffff;font-face:arial;">
+            Click the Play Button to Learn More
+          </span>
+          </center><p></p>
+        </span></td>
+        <td align="right">
+          
+          <p>
+          <span style="font-size:12px;color: #cef4a5;font-face:arial; align:right;valign:top">
+          Free Rx coupons, trial vouchers, samples &amp; other special  savings<br>
+            <br>
+            Alerts on future savings &amp; support on selected meds &amp; health products<br>
+            <br>
+            Health Savings Newsletters<br>
+            <br>
+            Tips , videos &amp; Information to better manage your health  conditions<br>
+            <br>
+            Community Forums
+            </span>
+            </p></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+        	<p><a style="font-size:8px;color: #ffffff;float: right;padding-top: 10px;padding-left: 50px" href="#" onclick="if(linkylink.length>5) popOffer(linkylink+'&amp;bypass=2'); document.getElementById('shadowdiv').style.display='none'; return false;"><u><br>Close Window</u></a></p>
+        </td>
+        </tr>
+    </tbody></table>
+    </div>
+    
+    </td>
+  </tr>
+              </tbody></table>
+
+
+
+
+
+<div id="popupregdiv" style="background-color:white; font-size: 10px;display:none;">
+
+<div id="left_column" style="margin-left: 40px;margin-top: 10px;">
+<h1 style="font-size: 14px;" class="signup_large" id="start">Please take <span class="green">one more minute to complete your profile</span> to allow us to offer you &amp; your family additional savings &amp; support:</h1>
+
+<p><img src="http://static.optimizerx.com/images/reg_header_aboutyou.gif"></p>
+
+<div class="dots" style="margin-top:0;"><img src="http://static.optimizerx.com/images/dots_h.jpg" alt="dots"></div>
+<form id="signup" action="/signup/" method="post" name="signuppopup">
+<input type="hidden" name="form" value="step2">
+		<input class="email required" type="hidden" name="email" value="" id="newuseremail">
+
+
+					<input class="password required" type="hidden" name="password" value="test123" id="newuserpass">
+
+	<fieldset class="address">
+		<!--<label class="title">Email: <span class="blue" id="newuseremaillabel" > </span></label>
+<br /><br />-->
+		<table>
+			<tbody><tr>
+				<td><br>
+					<label class="first_name required">* First Name</label>
+					<input class="first_name required" type="text" name="first_name" value="">
+
+				</td>
+				<td><br>
+					<label class="last_name required">* Last Name</label>
+					<input class="last_name required" type="text" name="last_name" value="">
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<label class="address_1 t">* Street address</label>
+					<input class="address_1 t" type="text" name="address_1" value="">
+				</td>
+				<td>
+					<label class="address_2 t">* City</label><br>
+					<input class="city " type="text" name="city" value="">
+
+				</td>
+			</tr>
+	<tr><td>
+		<label class="state select">* State</label>
+		<br><select class="state" name="state">
+			<option value="" selected="selected">Please select one</option>
+				<option value="2">Alabama</option>
+			<option value="1">Alaska</option>
+			<option value="3">Arizona</option>
+			<option value="4">Arkansas</option>
+			<option value="5">California</option>
+			<option value="6">Colorado</option>
+			<option value="7">Connecticut</option>
+			<option value="8">Delaware</option>
+			<option value="9">District of Columbia</option>
+			<option value="10">Florida</option>
+			<option value="11">Georgia</option>
+			<option value="12">Hawaii</option>
+			<option value="13">Idaho</option>
+			<option value="14">Illinois</option>
+			<option value="15">Indiana</option>
+			<option value="16">Iowa</option>
+			<option value="17">Kansas</option>
+			<option value="18">Kentucky</option>
+			<option value="19">Louisiana</option>
+			<option value="20">Maine</option>
+			<option value="21">Maryland</option>
+			<option value="22">Massachusetts</option>
+			<option value="23">Michigan</option>
+			<option value="24">Minnesota</option>
+			<option value="25">Mississippi</option>
+			<option value="26">Missouri</option>
+			<option value="27">Montana</option>
+			<option value="28">Nebraska</option>
+			<option value="29">Nevada</option>
+			<option value="30">New Hampshire</option>
+			<option value="31">New Jersey</option>
+			<option value="32">New Mexico</option>
+			<option value="33">New York</option>
+			<option value="34">North Carolina</option>
+			<option value="35">North Dakota</option>
+			<option value="36">Ohio</option>
+			<option value="37">Oklahoma</option>
+			<option value="38">Oregon</option>
+			<option value="39">Pennsylvania</option>
+			<option value="40">Rhode Island</option>
+			<option value="41">South Carolina</option>
+			<option value="42">South Dakota</option>
+			<option value="43">Tennessee</option>
+			<option value="44">Texas</option>
+			<option value="45">Utah</option>
+			<option value="46">Vermont</option>
+			<option value="47">Virginia</option>
+			<option value="48">Washington</option>
+			<option value="49">West Virginia</option>
+			<option value="50">Wisconsin</option>
+			<option value="51">Wyoming</option>
+		</select>
+</td><td>
+		<label class="zip required">* Zip</label><br>
+		<input class="zip required" type="text" name="zip" value="">
+</td></tr>
+
+<tr>
+				<td><br>
+					<label class="first_name text required">* Forum Username</label>
+
+					<input class="first_name text required" type="text" name="username" value="">
+				</td>
+				<td>
+                <br>
+                <label class="title">* Gender</label>
+                        <br><select name="gender">
+                            <option value="" selected="selected">Please select one</option>
+                    			<option value="Male">Male</option>
+
+			<option value="Female">Female</option>
+
+                        </select>
+				</td>
+			</tr>
+
+<tr>
+	<td>
+
+
+		<label class="birthdate select required">* Please provide your date of birth</label><br>
+
+	<select class="month" name="month">
+			<option value="">Month</option>
+				<option value="1">January</option>
+			<option value="2">February</option>
+			<option value="3">March</option>
+			<option value="4">April</option>
+			<option value="5">May</option>
+			<option value="6">June</option>
+			<option value="7">July</option>
+			<option value="8">August</option>
+			<option value="9">September</option>
+			<option value="10">October</option>
+			<option value="11">November</option>
+			<option value="12">December</option>
+		</select>
+		<select class="year" name="year">
+		<option value="">Year</option>
+				<option value="1992">1992</option>
+			<option value="1991">1991</option>
+			<option value="1990">1990</option>
+			<option value="1989">1989</option>
+			<option value="1988">1988</option>
+			<option value="1987">1987</option>
+			<option value="1986">1986</option>
+			<option value="1985">1985</option>
+			<option value="1984">1984</option>
+			<option value="1983">1983</option>
+			<option value="1982">1982</option>
+			<option value="1981">1981</option>
+			<option value="1980">1980</option>
+			<option value="1979">1979</option>
+			<option value="1978">1978</option>
+			<option value="1977">1977</option>
+			<option value="1976">1976</option>
+			<option value="1975">1975</option>
+			<option value="1974">1974</option>
+			<option value="1973">1973</option>
+			<option value="1972">1972</option>
+			<option value="1971">1971</option>
+			<option value="1970">1970</option>
+			<option value="1969">1969</option>
+			<option value="1968">1968</option>
+			<option value="1967">1967</option>
+			<option value="1966">1966</option>
+			<option value="1965">1965</option>
+			<option value="1964">1964</option>
+			<option value="1963">1963</option>
+			<option value="1962">1962</option>
+			<option value="1961">1961</option>
+			<option value="1960">1960</option>
+			<option value="1959">1959</option>
+			<option value="1958">1958</option>
+			<option value="1957">1957</option>
+			<option value="1956">1956</option>
+			<option value="1955">1955</option>
+			<option value="1954">1954</option>
+			<option value="1953">1953</option>
+			<option value="1952">1952</option>
+			<option value="1951">1951</option>
+			<option value="1950">1950</option>
+			<option value="1949">1949</option>
+			<option value="1948">1948</option>
+			<option value="1947">1947</option>
+			<option value="1946">1946</option>
+			<option value="1945">1945</option>
+			<option value="1944">1944</option>
+			<option value="1943">1943</option>
+			<option value="1942">1942</option>
+			<option value="1941">1941</option>
+			<option value="1940">1940</option>
+			<option value="1939">1939</option>
+			<option value="1938">1938</option>
+			<option value="1937">1937</option>
+			<option value="1936">1936</option>
+			<option value="1935">1935</option>
+			<option value="1934">1934</option>
+			<option value="1933">1933</option>
+			<option value="1932">1932</option>
+			<option value="1931">1931</option>
+			<option value="1930">1930</option>
+			<option value="1929">1929</option>
+			<option value="1928">1928</option>
+			<option value="1927">1927</option>
+			<option value="1926">1926</option>
+			<option value="1925">1925</option>
+			<option value="1924">1924</option>
+			<option value="1923">1923</option>
+			<option value="1922">1922</option>
+			<option value="1921">1921</option>
+			<option value="1920">1920</option>
+			<option value="1919">1919</option>
+			<option value="1918">1918</option>
+			<option value="1917">1917</option>
+			<option value="1916">1916</option>
+			<option value="1915">1915</option>
+			<option value="1914">1914</option>
+			<option value="1913">1913</option>
+			<option value="1912">1912</option>
+			<option value="1911">1911</option>
+			<option value="1910">1910</option>
+			<option value="1909">1909</option>
+			<option value="1908">1908</option>
+			<option value="1907">1907</option>
+			<option value="1906">1906</option>
+			<option value="1905">1905</option>
+			<option value="1904">1904</option>
+			<option value="1903">1903</option>
+			<option value="1902">1902</option>
+			<option value="1901">1901</option>
+			<option value="1900">1900</option>
+		</select>
+		<p class="age-restriction">(Must be 18 or older)</p>
+</td>
+
+<td>
+
+		<table border="0">
+			<tbody><tr><td colspan="2"><p><label class="first_name text required">Do you have Rx Insurance?</label></p></td></tr>
+				<tr><td colspan="2"><input type="radio" name="RxInsurance" value="Private" style="background : #FFF; color : black; width:14px;height:10px;"><font color="#000000" size="12px">Private Health Insurance</font>
+				<br><font size="8px" color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(BCBS/HMO/PPO)</font><br></td></tr>
+		    <tr><td width="100"><input type="radio" name="RxInsurance" value="Medicare" style="background : #FFF; color : black; width:14px;height:10px;"> <font color="#000000" size="12px">Medicare Rx</font><br></td>
+		    <td><input type="radio" name="RxInsurance" value="Medicaid" style="background : #FFF; color : black; width:14px;height:10px;"> <font color="#000000" size="12px">Medicaid</font><br></td></tr>
+		    <tr><td colspan="2"><input type="radio" name="RxInsurance" value="No" style="background : #FFF; color : black; width:14px;height:10px;"> <font color="#000000" size="12px">No Rx Insurance/Cash Payer</font><br></td></tr>
+		</tbody></table>
+
+
+</td></tr>
+</tbody></table>
+
+	</fieldset>
+<script language="JavaScript" type="text/javascript">
+//<!--
+function updateMedicineDisplay()
+{
+  var txtSelectedValuesObj = document.getElementById('medicinedisplay');
+  var selectedArray = new Array();
+  var selObj = document.getElementById('medicinelist');
+  var i;
+  var count = 0;
+  for (i=0; i<selObj.options.length; i++) {
+    if (selObj.options[i].selected) {
+      selectedArray[count] = selObj.options[i].innerHTML;
+      count++;
+    }
+  }
+  txtSelectedValuesObj.innerHTML = selectedArray.join('<br />');
+}
+//-->
+</script>	<fieldset class="agreement">
+
+<p><img src="http://static.optimizerx.com/images/reg_header_helpyousave.gif"></p>
+
+	<p class="signup_large" style="margin-left:6px; "><span class="signup_large">Please notify me of savings &amp; support offers for these medicines my family takes:</span><br><span class="small10"> </span></p>
+
+<!-- START MEDICINE CABINET -->    
+<table>
+<tbody><tr><td width="500">
+
+
+ 
+<div style="width:205px; clear:left;text-align:center;">
+
+<br class="clear">
+
+	<div style="float:left;width:205px;border:#5CABA5 2px solid;margin-bottom: 10px;color:#000000;">
+	
+		 		<img src="http://static.optimizerx.com/images/case-48x48.png" alt="Add to your medicine cabinet" style="padding: 5px;float: left; margin-left: auto; margin-right: auto; text-align: middle;">
+ <label class="MyMedicineCabinet" style="margin-top:20px;float:left;">My Medicine Cabinet</label>
+<p style="clear: both;padding: 5px;padding-left:10px;">Adding the medications to this list that you currently take will allow us to more aptly tailor your experience to you!</p>
+<br class="clear">
+ 
+ <table width="175px;">
+ 	<tbody><tr><td id="medicinedisplay" style="font-size:11px;padding-left:10px;" colspan="2"></td></tr><tr>
+
+		<td><script language="JavaScript" type="text/javascript">
+//<!--
+function addMedicine()
+{
+ 
+  var selObj = document.getElementById('medicinelist');
+ var selVal = selObj.value;
+
+ document.getElementById('hidden_' + selVal).selected=true;
+ updateMedicineDisplay();
+}
+function delMedicine(a)
+{
+ 
+ document.getElementById('hidden_' +a).selected=false;
+ updateMedicineDisplay();
+}
+function updateMedicineDisplay() {
+     var display = document.getElementById('medicinedisplay');
+  var obj = document.getElementById('medicinelisthidden');
+  
+  var newhtml = '';
+  var count; 
+  for (count = 0; count < obj.length; count++) { 
+      if (obj.options[count].selected) {
+          var vv = obj.options[count].value;
+          var tt = obj.options[count].text;
+          newhtml += '<img src="http://static.optimizerx.com/images/medicine-delete.png" onclick="delMedicine(' + vv + ');" />&nbsp;&nbsp;' + tt +'<br />';
+      }
+  }
+    display.innerHTML = newhtml;
+}
+
+
+
+function addCondition()
+{
+
+  var sObj = document.getElementById('conditionlist');
+ var sVal = sObj.value;
+
+ document.getElementById('conditionhidden_' + sVal).selected=true;
+ document.getElementById('indication_' + sVal).checked=true;
+ updateConditionDisplay();
+}
+function delCondition(a)
+{
+
+ document.getElementById('conditionhidden_' +a).selected=false;
+ document.getElementById('indication_' + a).checked=false;
+ updateConditionDisplay();
+}
+function updateConditionDisplay() {
+     var displayc = document.getElementById('conditiondisplay');
+  var objc = document.getElementById('conditionlisthidden');
+
+  var newhtml = '';
+  var count;
+  for (count = 0; count < objc.length; count++) {
+      if (objc.options[count].selected) {
+          var vv = objc.options[count].value;
+          var tt = objc.options[count].text;
+          newhtml += '<img src="http://static.optimizerx.com/images/medicine-delete.png" onclick="delCondition(' + vv + ');" />&nbsp;&nbsp;' + tt +'<br />';
+      }
+  }
+    displayc.innerHTML = newhtml;
+}
+
+
+//-->
+</script>
+ 	<select id="medicinelist" name="medicineselect" style="width: 125px;margin-top: 7px;margin-left: 8px !important;">
+			echo "<option value="0">Add Medicine</option>\n";
+			<option id="visible_850" value="850">A + D Ointment</option>
+<option id="visible_278" value="278">Abilify</option>
+<option id="visible_486" value="486">Abraxane</option>
+<option id="visible_951" value="951">Acanya Gel</option>
+<option id="visible_697" value="697">Accolate</option>
+<option id="visible_978" value="978">Accuhist</option>
+<option id="visible_88" value="88">Accutane</option>
+<option id="visible_44" value="44">Aciphex</option>
+<option id="visible_550" value="550">Actiq</option>
+<option id="visible_514" value="514">Activase</option>
+<option id="visible_114" value="114">Actonel</option>
+<option id="visible_34" value="34">Actos</option>
+<option id="visible_629" value="629">Actovegin</option>
+<option id="visible_843" value="843">Acuvue</option>
+<option id="visible_929" value="929">Aczone</option>
+<option id="visible_406" value="406">Adalat</option>
+<option id="visible_986" value="986">Adequan</option>
+<option id="visible_9" value="9">Advair</option>
+<option id="visible_819" value="819">Advate</option>
+<option id="visible_854" value="854">Afrin</option>
+<option id="visible_527" value="527">Agenerase</option>
+<option id="visible_679" value="679">Aggrastat</option>
+<option id="visible_487" value="487">Aggrenox</option>
+<option id="visible_846" value="846">Alavert</option>
+<option id="visible_860" value="860">Alaway</option>
+<option id="visible_975" value="975">Alcortin A</option>
+<option id="visible_821" value="821">Aldara</option>
+<option id="visible_634" value="634">Aldurazyme</option>
+<option id="visible_636" value="636">Alfarol</option>
+<option id="visible_403" value="403">Alimta</option>
+<option id="visible_703" value="703">Alkeran</option>
+<option id="visible_237" value="237">Allegra</option>
+<option id="visible_245" value="245">Allegra Liquid</option>
+<option id="visible_557" value="557">Allelock</option>
+<option id="visible_296" value="296">Alli</option>
+<option id="visible_974" value="974">Aloquin Gel</option>
+<option id="visible_565" value="565">Aloxi</option>
+<option id="visible_246" value="246">Alphagan P</option>
+<option id="visible_822" value="822">Altabax</option>
+<option id="visible_427" value="427">Altace</option>
+<option id="visible_941" value="941">Alvesco</option>
+<option id="visible_442" value="442">Amaryl</option>
+<option id="visible_97" value="97">AmbienCR</option>
+<option id="visible_56" value="56">Amerge</option>
+<option id="visible_952" value="952">Amevive</option>
+<option id="visible_799" value="799">Amitiza</option>
+<option id="visible_429" value="429">Amlodin</option>
+<option id="visible_885" value="885">Amrix</option>
+<option id="visible_472" value="472">Androgel</option>
+<option id="visible_1011" value="1011">Angeliq</option>
+<option id="visible_546" value="546">Angiomax</option>
+<option id="visible_248" value="248">Animi-3</option>
+<option id="visible_587" value="587">Anplag</option>
+<option id="visible_739" value="739">Antara</option>
+<option id="visible_295" value="295">Apidex</option>
+<option id="visible_40" value="40">Apidra</option>
+<option id="visible_956" value="956">Aplenzin</option>
+<option id="visible_926" value="926">Apriso</option>
+<option id="visible_729" value="729">Aptivus</option>
+<option id="visible_325" value="325">Aranesp</option>
+<option id="visible_512" value="512">Arcoxia</option>
+<option id="visible_333" value="333">Aricept</option>
+<option id="visible_249" value="249">Arimidex</option>
+<option id="visible_578" value="578">Arixtra</option>
+<option id="visible_480" value="480">Aromasin</option>
+<option id="visible_869" value="869">Asacol</option>
+<option id="visible_264" value="264">Asmanex</option>
+<option id="visible_8" value="8">Astelin</option>
+<option id="visible_911" value="911">Astepro</option>
+<option id="visible_182" value="182">Atacand </option>
+<option id="visible_700" value="700">Atarax</option>
+<option id="visible_719" value="719">Atmadisc</option>
+<option id="visible_749" value="749">Atopiclair</option>
+<option id="visible_367" value="367">Atripla</option>
+<option id="visible_379" value="379">Augmentin</option>
+<option id="visible_436" value="436">Avandamet</option>
+<option id="visible_658" value="658">Avandaryl</option>
+<option id="visible_35" value="35">Avandia/Avandamet</option>
+<option id="visible_339" value="339">Avapro</option>
+<option id="visible_331" value="331">Avastin</option>
+<option id="visible_386" value="386">Avelox</option>
+<option id="visible_968" value="968">Avidoxy/Avidoxy DK</option>
+<option id="visible_628" value="628">Avinza</option>
+<option id="visible_90" value="90">Avita</option>
+<option id="visible_108" value="108">Avodart</option>
+<option id="visible_348" value="348">Avonex</option>
+<option id="visible_924" value="924">Axert</option>
+<option id="visible_982" value="982">Axona</option>
+<option id="visible_684" value="684">Azactam</option>
+<option id="visible_83" value="83">Azelex</option>
+<option id="visible_609" value="609">Azilect</option>
+<option id="visible_10" value="10">Azmacort</option>
+<option id="visible_960" value="960">Azor</option>
+<option id="visible_851" value="851">Balmex</option>
+<option id="visible_532" value="532">Baraclude</option>
+<option id="visible_870" value="870">Beano</option>
+<option id="visible_467" value="467">Benefix</option>
+<option id="visible_603" value="603">Benet</option>
+<option id="visible_345" value="345">Benicar</option>
+<option id="visible_93" value="93">Benzaclin</option>
+<option id="visible_89" value="89">Benzagel</option>
+<option id="visible_995" value="995">Benzefoam</option>
+<option id="visible_914" value="914">Betaseaon</option>
+<option id="visible_359" value="359">Betaseron</option>
+<option id="visible_667" value="667">Bezatol</option>
+<option id="visible_416" value="416">Biaxin</option>
+<option id="visible_737" value="737">Bicilin</option>
+<option id="visible_590" value="590">Bonalon</option>
+<option id="visible_115" value="115">Boniva</option>
+<option id="visible_84" value="84">Botox</option>
+<option id="visible_857" value="857">Breathe Right</option>
+<option id="visible_390" value="390">Byetta</option>
+<option id="visible_298" value="298">Bystolic </option>
+<option id="visible_738" value="738">Cabaser</option>
+<option id="visible_440" value="440">Caduet</option>
+<option id="visible_543" value="543">Caelyx</option>
+<option id="visible_655" value="655">Calblock</option>
+<option id="visible_596" value="596">Calcichew</option>
+<option id="visible_692" value="692">Campral</option>
+<option id="visible_389" value="389">Camptosar</option>
+<option id="visible_721" value="721">Canasa</option>
+<option id="visible_443" value="443">Cancidas</option>
+<option id="visible_751" value="751">Capex</option>
+<option id="visible_802" value="802">Carac</option>
+<option id="visible_706" value="706">Carbatrol</option>
+<option id="visible_580" value="580">Cardizem La</option>
+<option id="visible_110" value="110">Cardura</option>
+<option id="visible_813" value="813">Cardura XL</option>
+<option id="visible_363" value="363">Casodex</option>
+<option id="visible_81" value="81">Cataflam</option>
+<option id="visible_716" value="716">Cefamezin</option>
+<option id="visible_724" value="724">Cefspan</option>
+<option id="visible_579" value="579">Cefzon</option>
+<option id="visible_884" value="884">Celebrex</option>
+<option id="visible_299" value="299">Celexa</option>
+<option id="visible_351" value="351">CellCept</option>
+<option id="visible_67" value="67">Cenestin</option>
+<option id="visible_608" value="608">Ceredist</option>
+<option id="visible_372" value="372">Cerezyme</option>
+<option id="visible_275" value="275">Chantix</option>
+<option id="visible_103" value="103">Cialis</option>
+<option id="visible_211" value="211">Cigarest</option>
+<option id="visible_816" value="816">Cimzia</option>
+<option id="visible_448" value="448">Cipro</option>
+<option id="visible_962" value="962">Citra Natal</option>
+<option id="visible_871" value="871">Citrucel</option>
+<option id="visible_969" value="969">Clarifoam EF</option>
+<option id="visible_1" value="1">Clarinex</option>
+<option id="visible_545" value="545">Clarith</option>
+<option id="visible_847" value="847">Claritin</option>
+<option id="visible_752" value="752">Clenia</option>
+<option id="visible_985" value="985">Clinac</option>
+<option id="visible_753" value="753">Clindagel</option>
+<option id="visible_823" value="823">ClindaReach</option>
+<option id="visible_754" value="754">Clindesse</option>
+<option id="visible_755" value="755">Clobex</option>
+<option id="visible_669" value="669">Colazal</option>
+<option id="visible_1006" value="1006">Colcrys</option>
+<option id="visible_756" value="756">Combigan</option>
+<option id="visible_397" value="397">Combivent</option>
+<option id="visible_396" value="396">Combivir</option>
+<option id="visible_909" value="909">Commit</option>
+<option id="visible_419" value="419">Comtan</option>
+<option id="visible_383" value="383">Concerta</option>
+<option id="visible_893" value="893">Contac</option>
+<option id="visible_332" value="332">Copaxone</option>
+<option id="visible_85" value="85">Coreg CR</option>
+<option id="visible_987" value="987">Cosequin</option>
+<option id="visible_574" value="574">Coumadin</option>
+<option id="visible_320" value="320">Cozaar</option>
+<option id="visible_536" value="536">Creon</option>
+<option id="visible_19" value="19">Crestor</option>
+<option id="visible_518" value="518">Crixivan</option>
+<option id="visible_225" value="225">Crohn's Disease</option>
+<option id="visible_526" value="526">Cubicin</option>
+<option id="visible_104" value="104">Cutivate</option>
+<option id="visible_250" value="250">Cyclessa</option>
+<option id="visible_238" value="238">Cymbalta</option>
+<option id="visible_644" value="644">Dacogen</option>
+<option id="visible_694" value="694">Dasen</option>
+<option id="visible_725" value="725">Daytrana</option>
+<option id="visible_385" value="385">Delix</option>
+<option id="visible_227" value="227">Dental</option>
+<option id="visible_651" value="651">Depakene</option>
+<option id="visible_466" value="466">Depakine</option>
+<option id="visible_356" value="356">Depakote</option>
+<option id="visible_805" value="805">Depakote ER</option>
+<option id="visible_645" value="645">Depas</option>
+<option id="visible_760" value="760">Deramaxx</option>
+<option id="visible_988" value="988">Deramaxx</option>
+<option id="visible_852" value="852">Desitin</option>
+<option id="visible_758" value="758">Desonate</option>
+<option id="visible_101" value="101">Detrol LA</option>
+<option id="visible_901" value="901">Dexatrim</option>
+<option id="visible_551" value="551">Diane</option>
+<option id="visible_92" value="92">Differin</option>
+<option id="visible_473" value="473">Diflucan</option>
+<option id="visible_894" value="894">Dimetapp</option>
+<option id="visible_25" value="25">Diovan/DiovanHCT</option>
+<option id="visible_102" value="102">Ditropan</option>
+<option id="visible_759" value="759">Divigel</option>
+<option id="visible_710" value="710">Dogmatyl</option>
+<option id="visible_646" value="646">Doryx</option>
+<option id="visible_886" value="886">Duac</option>
+<option id="visible_835" value="835">Duet DHA</option>
+<option id="visible_542" value="542">DuoNeb</option>
+<option id="visible_370" value="370">Duragesic</option>
+<option id="visible_619" value="619">Durotep</option>
+<option id="visible_943" value="943">Easypod</option>
+<option id="visible_648" value="648">Ebastel</option>
+<option id="visible_520" value="520">Ebixa</option>
+<option id="visible_996" value="996">Edluar</option>
+<option id="visible_964" value="964">Edluar</option>
+<option id="visible_43" value="43">Effexor XR</option>
+<option id="visible_708" value="708">Efudex</option>
+<option id="visible_589" value="589">Elaprase</option>
+<option id="visible_746" value="746">Elaspol</option>
+<option id="visible_620" value="620">Elcitonin</option>
+<option id="visible_950" value="950">Eletone</option>
+<option id="visible_27" value="27">Elidel</option>
+<option id="visible_611" value="611">Eligard</option>
+<option id="visible_761" value="761">Elmiron</option>
+<option id="visible_963" value="963">Elmiron</option>
+<option id="visible_346" value="346">Eloxatin</option>
+<option id="visible_999" value="999">Embeda</option>
+<option id="visible_572" value="572">Emend</option>
+<option id="visible_105" value="105">Enablex</option>
+<option id="visible_321" value="321">Enbrel</option>
+<option id="visible_252" value="252">Encora</option>
+<option id="visible_230" value="230">EndoKnow</option>
+<option id="visible_800" value="800">Enjuvia</option>
+<option id="visible_300" value="300">Entex </option>
+<option id="visible_965" value="965">Epiceram</option>
+<option id="visible_913" value="913">Epiduo</option>
+<option id="visible_826" value="826">EpiPen</option>
+<option id="visible_762" value="762">EpiQuin</option>
+<option id="visible_516" value="516">Epivir</option>
+<option id="visible_341" value="341">Epogen</option>
+<option id="visible_426" value="426">Epzicom</option>
+<option id="visible_362" value="362">Erbitux</option>
+<option id="visible_763" value="763">Ertaczo</option>
+<option id="visible_705" value="705">Estrace Cream</option>
+<option id="visible_72" value="72">Estrasorb</option>
+<option id="visible_69" value="69">Estratest</option>
+<option id="visible_834" value="834">EstroGel</option>
+<option id="visible_865" value="865">Estroven</option>
+<option id="visible_586" value="586">Euthyrox</option>
+<option id="visible_830" value="830">Evamist</option>
+<option id="visible_301" value="301">Evista</option>
+<option id="visible_87" value="87">Evoclin</option>
+<option id="visible_922" value="922">Evolence</option>
+<option id="visible_291" value="291">Exelon</option>
+<option id="visible_318" value="318">Exforge</option>
+<option id="visible_500" value="500">Exjade</option>
+<option id="visible_764" value="764">Extina</option>
+<option id="visible_470" value="470">Fabrazyme</option>
+<option id="visible_77" value="77">FAMVIR</option>
+<option id="visible_1005" value="1005">Fanapt</option>
+<option id="visible_680" value="680">Farmorubicin</option>
+<option id="visible_568" value="568">Faslodex</option>
+<option id="visible_292" value="292">Femara</option>
+<option id="visible_253" value="253">Femcon Fe</option>
+<option id="visible_726" value="726">Femhrt</option>
+<option id="visible_1003" value="1003">Fenoglide</option>
+<option id="visible_623" value="623">Fentora</option>
+<option id="visible_392" value="392">Fermara</option>
+<option id="visible_872" value="872">Fibercon</option>
+<option id="visible_1002" value="1002">Fibricor</option>
+<option id="visible_930" value="930">Finacea</option>
+<option id="visible_722" value="722">Firstcin</option>
+<option id="visible_796" value="796">Flector</option>
+<option id="visible_109" value="109">Flomax</option>
+<option id="visible_2" value="2">Flonase</option>
+<option id="visible_11" value="11">Flovent</option>
+<option id="visible_638" value="638">Flumarin</option>
+<option id="visible_993" value="993">Focalin XR</option>
+<option id="visible_438" value="438">Follistim</option>
+<option id="visible_13" value="13">Foradil</option>
+<option id="visible_984" value="984">Forcalin XR</option>
+<option id="visible_417" value="417">Forteo</option>
+<option id="visible_917" value="917">Fortical</option>
+<option id="visible_282" value="282">Fosamax</option>
+<option id="visible_836" value="836">Fosomax</option>
+<option id="visible_656" value="656">Fosrenol</option>
+<option id="visible_641" value="641">Frandol</option>
+<option id="visible_493" value="493">Fraxiparine</option>
+<option id="visible_765" value="765">Frontline</option>
+<option id="visible_798" value="798">Frova</option>
+<option id="visible_537" value="537">Fuzeon</option>
+<option id="visible_742" value="742">Gabitril</option>
+<option id="visible_873" value="873">Gas X</option>
+<option id="visible_582" value="582">Gasmotin</option>
+<option id="visible_405" value="405">Genotropin</option>
+<option id="visible_402" value="402">Geodon</option>
+<option id="visible_907" value="907">Geritol</option>
+<option id="visible_908" value="908">Geritol</option>
+<option id="visible_335" value="335">Gleevec</option>
+<option id="visible_677" value="677">Glovenin</option>
+<option id="visible_766" value="766">GlucaGen</option>
+<option id="visible_476" value="476">Glucobay</option>
+<option id="visible_495" value="495">Glucophage</option>
+<option id="visible_37" value="37">Glyset</option>
+<option id="visible_435" value="435">Gonal</option>
+<option id="visible_767" value="767">Gynazole</option>
+<option id="visible_368" value="368">Harnal</option>
+<option id="visible_989" value="989">Heartgard</option>
+<option id="visible_768" value="768">Heartgard</option>
+<option id="visible_820" value="820">Helixate</option>
+<option id="visible_522" value="522">Hepsera</option>
+<option id="visible_280" value="280">Herceptin</option>
+<option id="visible_358" value="358">Humalog</option>
+<option id="visible_462" value="462">Humatrope</option>
+<option id="visible_334" value="334">Humira</option>
+<option id="visible_387" value="387">Humulin</option>
+<option id="visible_553" value="553">Hycamtin</option>
+<option id="visible_113" value="113">Hytrin</option>
+<option id="visible_906" value="906">I Caps</option>
+<option id="visible_418" value="418">Iidoderm</option>
+<option id="visible_57" value="57">Imitrex</option>
+<option id="visible_899" value="899">Imodium</option>
+<option id="visible_643" value="643">Imunace</option>
+<option id="visible_377" value="377">Infanrix</option>
+<option id="visible_599" value="599">Influvac</option>
+<option id="visible_688" value="688">Intal</option>
+<option id="visible_511" value="511">Integrilin</option>
+<option id="visible_990" value="990">INTERCEPTOR</option>
+<option id="visible_556" value="556">Intron A</option>
+<option id="visible_957" value="957">Intuniv</option>
+<option id="visible_584" value="584">Invanz</option>
+<option id="visible_552" value="552">Iressa</option>
+<option id="visible_631" value="631">Isovorin</option>
+<option id="visible_686" value="686">Janumet</option>
+<option id="visible_294" value="294">Januvia</option>
+<option id="visible_602" value="602">Kadian</option>
+<option id="visible_364" value="364">Kaletra</option>
+<option id="visible_875" value="875">Kapidex</option>
+<option id="visible_844" value="844">Keflex</option>
+<option id="visible_360" value="360">Keppra</option>
+<option id="visible_837" value="837">Keppra XR</option>
+<option id="visible_971" value="971">Kerafoam/Kerafoam42</option>
+<option id="visible_598" value="598">Kinedak</option>
+<option id="visible_877" value="877">Kogenate</option>
+<option id="visible_633" value="633">Kremezin</option>
+<option id="visible_502" value="502">Kytril</option>
+<option id="visible_176" value="176">Lamictal</option>
+<option id="visible_168" value="168">Lamictal Bipolar</option>
+<option id="visible_41" value="41">Lantus</option>
+<option id="visible_944" value="944">Lescol XL</option>
+<option id="visible_338" value="338">Levaquin</option>
+<option id="visible_858" value="858">Levemir</option>
+<option id="visible_54" value="54">Levitra</option>
+<option id="visible_74" value="74">Levothroid</option>
+<option id="visible_169" value="169">Levoxyl</option>
+<option id="visible_51" value="51">Levsin</option>
+<option id="visible_31" value="31">Lexapro</option>
+<option id="visible_281" value="281">Lialda</option>
+<option id="visible_939" value="939">Lidoderm</option>
+<option id="visible_946" value="946">Limbrel500</option>
+<option id="visible_276" value="276">Lipitor</option>
+<option id="visible_652" value="652">Liple</option>
+<option id="visible_770" value="770">Lipofen</option>
+<option id="visible_577" value="577">Livial</option>
+<option id="visible_771" value="771">Locoid Lipocream</option>
+<option id="visible_254" value="254">Loestrin 24 Fe</option>
+<option id="visible_524" value="524">Lopamiron</option>
+<option id="visible_772" value="772">Loprox</option>
+<option id="visible_414" value="414">Lotrel</option>
+<option id="visible_26" value="26">Lotrel</option>
+<option id="visible_814" value="814">Lovaza</option>
+<option id="visible_330" value="330">Lovenox</option>
+<option id="visible_940" value="940">Lovox CR</option>
+<option id="visible_507" value="507">Loxonin</option>
+<option id="visible_369" value="369">Lucentis</option>
+<option id="visible_255" value="255">Lumigan</option>
+<option id="visible_98" value="98">Lunesta</option>
+<option id="visible_317" value="317">Lupron Depot</option>
+<option id="visible_887" value="887">Lustra</option>
+<option id="visible_649" value="649">Luvox</option>
+<option id="visible_934" value="934">Luxiq</option>
+<option id="visible_78" value="78">Lyrica</option>
+<option id="visible_653" value="653">Maintate</option>
+<option id="visible_618" value="618">Marinol</option>
+<option id="visible_809" value="809">Maxair</option>
+<option id="visible_58" value="58">Maxalt</option>
+<option id="visible_635" value="635">Maxipime</option>
+<option id="visible_698" value="698">Mearubik</option>
+<option id="visible_888" value="888">Mederma</option>
+<option id="visible_938" value="938">Medicare Part D</option>
+<option id="visible_878" value="878">Megace ES</option>
+<option id="visible_681" value="681">Meptin</option>
+<option id="visible_773" value="773">Meridia</option>
+<option id="visible_614" value="614">Meropen</option>
+<option id="visible_900" value="900">Metamucil</option>
+<option id="visible_889" value="889">Metrogel</option>
+<option id="visible_528" value="528">Miacalcin</option>
+<option id="visible_344" value="344">Micardis</option>
+<option id="visible_273" value="273">Migranal</option>
+<option id="visible_935" value="935">Mimyx</option>
+<option id="visible_774" value="774">Minocin</option>
+<option id="visible_920" value="920">MiraLAX</option>
+<option id="visible_398" value="398">Mirapex</option>
+<option id="visible_453" value="453">Mirena</option>
+<option id="visible_469" value="469">Mobic</option>
+<option id="visible_1004" value="1004">Moxatag</option>
+<option id="visible_503" value="503">Mucosta</option>
+<option id="visible_881" value="881">Myfortic</option>
+<option id="visible_902" value="902">Mylanta</option>
+<option id="visible_575" value="575">Myozyme</option>
+<option id="visible_567" value="567">Myslee</option>
+<option id="visible_685" value="685">Naglazyme</option>
+<option id="visible_407" value="407">Namenda</option>
+<option id="visible_5" value="5">Nasacort</option>
+<option id="visible_6" value="6">Nasonex</option>
+<option id="visible_734" value="734">Nauzelin</option>
+<option id="visible_824" value="824">NeoBenz</option>
+<option id="visible_393" value="393">Neoral</option>
+<option id="visible_349" value="349">NeoRecormon</option>
+<option id="visible_838" value="838">Neosporin</option>
+<option id="visible_842" value="842">Neosporin</option>
+<option id="visible_841" value="841">Neosporin</option>
+<option id="visible_840" value="840">Neosporin</option>
+<option id="visible_839" value="839">Neosporin</option>
+<option id="visible_741" value="741">Neuart</option>
+<option id="visible_468" value="468">Neurontin</option>
+<option id="visible_366" value="366">Neutrogena</option>
+<option id="visible_890" value="890">Neutrogena</option>
+<option id="visible_491" value="491">Nexavar</option>
+<option id="visible_45" value="45">Nexium</option>
+<option id="visible_424" value="424">Niaspan</option>
+<option id="visible_910" value="910">Nicoderm</option>
+<option id="visible_776" value="776">Nicomide</option>
+<option id="visible_689" value="689">Nolvadex</option>
+<option id="visible_621" value="621">Nootropil</option>
+<option id="visible_428" value="428">Norditropin</option>
+<option id="visible_319" value="319">Norvasc</option>
+<option id="visible_976" value="976">Novacort Gel</option>
+<option id="visible_733" value="733">Novastan</option>
+<option id="visible_859" value="859">NovoFine</option>
+<option id="visible_42" value="42">Novolin</option>
+<option id="visible_378" value="378">Novoseven</option>
+<option id="visible_485" value="485">Nutropin</option>
+<option id="visible_64" value="64">NuvaRing</option>
+<option id="visible_931" value="931">Nuvigil</option>
+<option id="visible_777" value="777">Olux</option>
+<option id="visible_918" value="918">Omnaris</option>
+<option id="visible_555" value="555">Omnicef</option>
+<option id="visible_905" value="905">One-A-Day</option>
+<option id="visible_953" value="953">Onglyza</option>
+<option id="visible_534" value="534">Onon</option>
+<option id="visible_490" value="490">Opalmon</option>
+<option id="visible_994" value="994">Opana</option>
+<option id="visible_650" value="650">Opana</option>
+<option id="visible_861" value="861">Optifree</option>
+<option id="visible_122" value="122">Optivar</option>
+<option id="visible_862" value="862">Optive</option>
+<option id="visible_825" value="825">Oracea</option>
+<option id="visible_558" value="558">Orencia</option>
+<option id="visible_305" value="305">Ortho Cyclen</option>
+<option id="visible_306" value="306">Ortho Evra </option>
+<option id="visible_63" value="63">Ortho Tricyclen</option>
+<option id="visible_117" value="117">Ortho Tricyclin</option>
+<option id="visible_308" value="308">Ortho-Novum </option>
+<option id="visible_980" value="980">Ovace</option>
+<option id="visible_62" value="62">Ovcon 35</option>
+<option id="visible_879" value="879">Ovide</option>
+<option id="visible_702" value="702">Oxarol</option>
+<option id="visible_683" value="683">Oxis</option>
+<option id="visible_916" value="916">Oxistat</option>
+<option id="visible_714" value="714">OxyContin</option>
+<option id="visible_647" value="647">Palux</option>
+<option id="visible_711" value="711">Paragard</option>
+<option id="visible_256" value="256">Pataday</option>
+<option id="visible_807" value="807">Patanase</option>
+<option id="visible_257" value="257">Patanol</option>
+<option id="visible_32" value="32">Paxil Cr</option>
+<option id="visible_853" value="853">Pedialyte</option>
+<option id="visible_361" value="361">Pegasys</option>
+<option id="visible_395" value="395">Peglntron</option>
+<option id="visible_595" value="595">Pentasa</option>
+<option id="visible_730" value="730">Pentcillin</option>
+<option id="visible_903" value="903">Pepcid</option>
+<option id="visible_639" value="639">Percocet</option>
+<option id="visible_715" value="715">Perdipine</option>
+<option id="visible_272" value="272">Pexeva</option>
+<option id="visible_670" value="670">Plan B</option>
+<option id="visible_1010" value="1010">Plan B</option>
+<option id="visible_309" value="309">Plavix</option>
+<option id="visible_535" value="535">Plendil</option>
+<option id="visible_478" value="478">Pletal</option>
+<option id="visible_1007" value="1007">Pramosone</option>
+<option id="visible_482" value="482">Prandin</option>
+<option id="visible_21" value="21">Pravachol</option>
+<option id="visible_36" value="36">Precose</option>
+<option id="visible_70" value="70">Premarin</option>
+<option id="visible_73" value="73">Prempro</option>
+<option id="visible_932" value="932">PreNexa</option>
+<option id="visible_46" value="46">Prevacid</option>
+<option id="visible_671" value="671">Prexige</option>
+<option id="visible_50" value="50">Prilosec</option>
+<option id="visible_864" value="864">PrimaCare</option>
+<option id="visible_848" value="848">Primatene</option>
+<option id="visible_1000" value="1000">Primsol</option>
+<option id="visible_804" value="804">Pristiq</option>
+<option id="visible_981" value="981">Pro-Centra</option>
+<option id="visible_778" value="778">ProAir</option>
+<option id="visible_945" value="945">ProCentra</option>
+<option id="visible_337" value="337">Procrit</option>
+<option id="visible_347" value="347">Prograf</option>
+<option id="visible_812" value="812">Propecia</option>
+<option id="visible_111" value="111">Proscar</option>
+<option id="visible_99" value="99">Prosom</option>
+<option id="visible_48" value="48">Protonix</option>
+<option id="visible_604" value="604">Protopic</option>
+<option id="visible_267" value="267">Proventil HFA</option>
+<option id="visible_404" value="404">Provigil</option>
+<option id="visible_14" value="14">Pulmicort</option>
+<option id="visible_479" value="479">Pulmozyme</option>
+<option id="visible_863" value="863">PureVision</option>
+<option id="visible_958" value="958">Qvar</option>
+<option id="visible_713" value="713">Ranexa</option>
+<option id="visible_494" value="494">Rapamune</option>
+<option id="visible_94" value="94">Raptiva</option>
+<option id="visible_531" value="531">Rebetol</option>
+<option id="visible_352" value="352">Rebif</option>
+<option id="visible_509" value="509">ReFacto</option>
+<option id="visible_948" value="948">Refissa</option>
+<option id="visible_311" value="311">Reglan</option>
+<option id="visible_449" value="449">Relenza</option>
+<option id="visible_59" value="59">Relpax</option>
+<option id="visible_521" value="521">Remeron</option>
+<option id="visible_52" value="52">Remicade</option>
+<option id="visible_576" value="576">Remodulin</option>
+<option id="visible_421" value="421">Requip</option>
+<option id="visible_121" value="121">Restasis</option>
+<option id="visible_891" value="891">Restylane</option>
+<option id="visible_82" value="82">Retin A Micro</option>
+<option id="visible_410" value="410">Revlimid</option>
+<option id="visible_373" value="373">Reyataz</option>
+<option id="visible_695" value="695">Rheumatrex</option>
+<option id="visible_7" value="7">Rhinocort</option>
+<option id="visible_972" value="972">Rilutek</option>
+<option id="visible_781" value="781">Rimady</option>
+<option id="visible_991" value="991">RIMADYL</option>
+<option id="visible_660" value="660">Rinderon</option>
+<option id="visible_810" value="810">Riomet</option>
+<option id="visible_328" value="328">Risperdal</option>
+<option id="visible_322" value="322">Rituxan/MabThera</option>
+<option id="visible_895" value="895">Robitussin</option>
+<option id="visible_510" value="510">Rocephin</option>
+<option id="visible_849" value="849">Rogaine</option>
+<option id="visible_588" value="588">Rotarix</option>
+<option id="visible_100" value="100">Rozerem</option>
+<option id="visible_562" value="562">Saizen</option>
+<option id="visible_970" value="970">Salkera</option>
+<option id="visible_106" value="106">Sanctura</option>
+<option id="visible_384" value="384">Sandostatin</option>
+<option id="visible_977" value="977">Scalacort</option>
+<option id="visible_827" value="827">Seasonique</option>
+<option id="visible_457" value="457">Senipar</option>
+<option id="visible_904" value="904">Senokot</option>
+<option id="visible_998" value="998">Sensipar</option>
+<option id="visible_571" value="571">Serc</option>
+<option id="visible_16" value="16">Serevent</option>
+<option id="visible_662" value="662">Sermion</option>
+<option id="visible_329" value="329">Seroquel</option>
+<option id="visible_699" value="699">Serostim</option>
+<option id="visible_1008" value="1008">ShadRx</option>
+<option id="visible_607" value="607">Sigmart</option>
+<option id="visible_815" value="815">Simcor</option>
+<option id="visible_3" value="3">Singulair</option>
+<option id="visible_463" value="463">Skelaxin</option>
+<option id="visible_782" value="782">Skelazin</option>
+<option id="visible_915" value="915">Solaraze Gel</option>
+<option id="visible_718" value="718">Soliris</option>
+<option id="visible_783" value="783">Solodyn</option>
+<option id="visible_775" value="775">Soma 250</option>
+<option id="visible_693" value="693">Sonata</option>
+<option id="visible_15" value="15">Spiriva</option>
+<option id="visible_47" value="47">Sporanox</option>
+<option id="visible_605" value="605">Sprycel</option>
+<option id="visible_949" value="949">Stalevo</option>
+<option id="visible_38" value="38">Starlix</option>
+<option id="visible_817" value="817">Stavzor</option>
+<option id="visible_954" value="954">Stelara</option>
+<option id="visible_439" value="439">Strattera</option>
+<option id="visible_784" value="784">Striant</option>
+<option id="visible_563" value="563">Subutex</option>
+<option id="visible_896" value="896">Sudafed</option>
+<option id="visible_997" value="997">Sumavel</option>
+<option id="visible_983" value="983">Sumaxin</option>
+<option id="visible_735" value="735">Sumiferon</option>
+<option id="visible_640" value="640">Sunrythm</option>
+<option id="visible_666" value="666">Surenyl</option>
+<option id="visible_432" value="432">Sustiva</option>
+<option id="visible_437" value="437">Sutent</option>
+<option id="visible_170" value="170">Symbicort</option>
+<option id="visible_314" value="314">Symlin</option>
+<option id="visible_75" value="75">Synthroid</option>
+<option id="visible_549" value="549">Synvisc</option>
+<option id="visible_866" value="866">Systane</option>
+<option id="visible_627" value="627">Taclonex</option>
+<option id="visible_678" value="678">Talion</option>
+<option id="visible_315" value="315">Tamiflu</option>
+<option id="visible_616" value="616">Tanatril</option>
+<option id="visible_806" value="806">Tarceva</option>
+<option id="visible_727" value="727">Targocid</option>
+<option id="visible_892" value="892">Tarzorac</option>
+<option id="visible_316" value="316">Taxol</option>
+<option id="visible_340" value="340">Taxotere</option>
+<option id="visible_91" value="91">Tazorac</option>
+<option id="visible_474" value="474">Tegretol</option>
+<option id="visible_241" value="241">Tekturna</option>
+<option id="visible_400" value="400">Temodar</option>
+<option id="visible_519" value="519">Tenormin</option>
+<option id="visible_785" value="785">Testim</option>
+<option id="visible_923" value="923">Tetrix</option>
+<option id="visible_921" value="921">Textrix</option>
+<option id="visible_461" value="461">Thalomid</option>
+<option id="visible_736" value="736">Theo-Dur</option>
+<option id="visible_897" value="897">TheraFlu</option>
+<option id="visible_585" value="585">Timoptic</option>
+<option id="visible_533" value="533">Tobi/Tobramycin</option>
+<option id="visible_60" value="60">Topamax</option>
+<option id="visible_731" value="731">Topotecin</option>
+<option id="visible_28" value="28">Toprol XL- Hypertension</option>
+<option id="visible_1012" value="1012">Toviaz</option>
+<option id="visible_388" value="388">Tracleer</option>
+<option id="visible_867" value="867">Travanan Z</option>
+<option id="visible_818" value="818">Travatan</option>
+<option id="visible_942" value="942">Treanda</option>
+<option id="visible_786" value="786">Trentin-X</option>
+<option id="visible_803" value="803">Treximet</option>
+<option id="visible_789" value="789">Tri Heart</option>
+<option id="visible_1001" value="1001">Tri Luma Cream</option>
+<option id="visible_788" value="788">Tri-Cyclen Lo</option>
+<option id="visible_787" value="787">Triaz</option>
+<option id="visible_266" value="266">Tricor</option>
+<option id="visible_992" value="992">Triheartplus</option>
+<option id="visible_790" value="790">Trileptal</option>
+<option id="visible_420" value="420">Trileptal</option>
+<option id="visible_919" value="919">Trilipix</option>
+<option id="visible_456" value="456">Trizivir</option>
+<option id="visible_355" value="355">Truada</option>
+<option id="visible_409" value="409">Trusopt</option>
+<option id="visible_606" value="606">Tussionex</option>
+<option id="visible_791" value="791">Twinject</option>
+<option id="visible_622" value="622">Tygacil</option>
+<option id="visible_458" value="458">Tysabir</option>
+<option id="visible_226" value="226">Ulcerative Colitis</option>
+<option id="visible_413" value="413">Ultane</option>
+<option id="visible_80" value="80">Ultram ER</option>
+<option id="visible_874" value="874">Ultrase</option>
+<option id="visible_76" value="76">Unithroid</option>
+<option id="visible_967" value="967">Uramaxin</option>
+<option id="visible_663" value="663">Urief</option>
+<option id="visible_112" value="112">Uroxatral</option>
+<option id="visible_745" value="745">Utemerin</option>
+<option id="visible_120" value="120">Vagifem</option>
+<option id="visible_460" value="460">Valcyte</option>
+<option id="visible_258" value="258">Valtrex</option>
+<option id="visible_642" value="642">Vancomycin</option>
+<option id="visible_792" value="792">Vaniqa</option>
+<option id="visible_793" value="793">Vanos</option>
+<option id="visible_452" value="452">Vasotec</option>
+<option id="visible_601" value="601">Vectibix</option>
+<option id="visible_966" value="966">Vectical</option>
+<option id="visible_539" value="539">Velcade</option>
+<option id="visible_672" value="672">Venilon</option>
+<option id="visible_517" value="517">Venofer</option>
+<option id="visible_626" value="626">Venoglobulin</option>
+<option id="visible_720" value="720">Ventavis</option>
+<option id="visible_811" value="811">Ventolin</option>
+<option id="visible_274" value="274">Veramyst</option>
+<option id="visible_937" value="937">Verdeso</option>
+<option id="visible_107" value="107">Vesicare</option>
+<option id="visible_290" value="290">Viagra</option>
+<option id="visible_1009" value="1009">Victoza</option>
+<option id="visible_927" value="927">Vimpat</option>
+<option id="visible_433" value="433">Viread</option>
+<option id="visible_566" value="566">Visudyne</option>
+<option id="visible_192" value="192">Vitamin Profile</option>
+<option id="visible_961" value="961">Vivelle Dot</option>
+<option id="visible_973" value="973">Vivitrol</option>
+<option id="visible_415" value="415">Voltaren</option>
+<option id="visible_936" value="936">Vusion</option>
+<option id="visible_794" value="794">Vusion</option>
+<option id="visible_23" value="23">Vytorin</option>
+<option id="visible_880" value="880">Vyvance</option>
+<option id="visible_696" value="696">Vyvanse</option>
+<option id="visible_561" value="561">WelChol</option>
+<option id="visible_375" value="375">Wellbutrin</option>
+<option id="visible_959" value="959">Women's Rogain</option>
+<option id="visible_712" value="712">Xagrid</option>
+<option id="visible_354" value="354">Xalatan</option>
+<option id="visible_513" value="513">Xanax</option>
+<option id="visible_459" value="459">Xatral</option>
+<option id="visible_391" value="391">Xeloda</option>
+<option id="visible_446" value="446">Xenical</option>
+<option id="visible_723" value="723">Xifaxan</option>
+<option id="visible_17" value="17">Xolair</option>
+<option id="visible_933" value="933">Xolegel</option>
+<option id="visible_18" value="18">Xopenex</option>
+<option id="visible_882" value="882">XyliMelts</option>
+<option id="visible_559" value="559">Xyzal</option>
+<option id="visible_65" value="65">Yasmin</option>
+<option id="visible_259" value="259">Yaz</option>
+<option id="visible_868" value="868">Zaditor</option>
+<option id="visible_928" value="928">Zanaflex</option>
+<option id="visible_544" value="544">Zanidip</option>
+<option id="visible_506" value="506">Zeffix</option>
+<option id="visible_49" value="49">Zegerid</option>
+<option id="visible_780" value="780">Zelapar</option>
+<option id="visible_53" value="53">Zelnorm</option>
+<option id="visible_883" value="883">Zemaira</option>
+<option id="visible_979" value="979">Zenieva</option>
+<option id="visible_947" value="947">Zenpep</option>
+<option id="visible_523" value="523">Zestril</option>
+<option id="visible_22" value="22">Zetia</option>
+<option id="visible_564" value="564">Ziagen</option>
+<option id="visible_779" value="779">Ziana</option>
+<option id="visible_898" value="898">Zicam</option>
+<option id="visible_464" value="464">Zithromax</option>
+<option id="visible_845" value="845">Zmax</option>
+<option id="visible_24" value="24">Zocor</option>
+<option id="visible_483" value="483">Zofran</option>
+<option id="visible_376" value="376">Zoladex</option>
+<option id="visible_33" value="33">Zoloft</option>
+<option id="visible_365" value="365">Zometa</option>
+<option id="visible_61" value="61">Zomig</option>
+<option id="visible_743" value="743">Zonegran</option>
+<option id="visible_371" value="371">Zosyn</option>
+<option id="visible_668" value="668">Zoton</option>
+<option id="visible_497" value="497">Zovirax</option>
+<option id="visible_955" value="955">Zovirax</option>
+<option id="visible_327" value="327">Zyprexa</option>
+<option id="visible_343" value="343">Zyrtec</option>
+</select>
+<select id="medicinelisthidden" multiple="" name="medicines[]" style="display:none;">
+			<option id="hidden_850" value="850">A + D Ointment</option>
+<option id="hidden_278" value="278">Abilify</option>
+<option id="hidden_486" value="486">Abraxane</option>
+<option id="hidden_951" value="951">Acanya Gel</option>
+<option id="hidden_697" value="697">Accolate</option>
+<option id="hidden_978" value="978">Accuhist</option>
+<option id="hidden_88" value="88">Accutane</option>
+<option id="hidden_44" value="44">Aciphex</option>
+<option id="hidden_550" value="550">Actiq</option>
+<option id="hidden_514" value="514">Activase</option>
+<option id="hidden_114" value="114">Actonel</option>
+<option id="hidden_34" value="34">Actos</option>
+<option id="hidden_629" value="629">Actovegin</option>
+<option id="hidden_843" value="843">Acuvue</option>
+<option id="hidden_929" value="929">Aczone</option>
+<option id="hidden_406" value="406">Adalat</option>
+<option id="hidden_986" value="986">Adequan</option>
+<option id="hidden_9" value="9">Advair</option>
+<option id="hidden_819" value="819">Advate</option>
+<option id="hidden_854" value="854">Afrin</option>
+<option id="hidden_527" value="527">Agenerase</option>
+<option id="hidden_679" value="679">Aggrastat</option>
+<option id="hidden_487" value="487">Aggrenox</option>
+<option id="hidden_846" value="846">Alavert</option>
+<option id="hidden_860" value="860">Alaway</option>
+<option id="hidden_975" value="975">Alcortin A</option>
+<option id="hidden_821" value="821">Aldara</option>
+<option id="hidden_634" value="634">Aldurazyme</option>
+<option id="hidden_636" value="636">Alfarol</option>
+<option id="hidden_403" value="403">Alimta</option>
+<option id="hidden_703" value="703">Alkeran</option>
+<option id="hidden_237" value="237">Allegra</option>
+<option id="hidden_245" value="245">Allegra Liquid</option>
+<option id="hidden_557" value="557">Allelock</option>
+<option id="hidden_296" value="296">Alli</option>
+<option id="hidden_974" value="974">Aloquin Gel</option>
+<option id="hidden_565" value="565">Aloxi</option>
+<option id="hidden_246" value="246">Alphagan P</option>
+<option id="hidden_822" value="822">Altabax</option>
+<option id="hidden_427" value="427">Altace</option>
+<option id="hidden_941" value="941">Alvesco</option>
+<option id="hidden_442" value="442">Amaryl</option>
+<option id="hidden_97" value="97">AmbienCR</option>
+<option id="hidden_56" value="56">Amerge</option>
+<option id="hidden_952" value="952">Amevive</option>
+<option id="hidden_799" value="799">Amitiza</option>
+<option id="hidden_429" value="429">Amlodin</option>
+<option id="hidden_885" value="885">Amrix</option>
+<option id="hidden_472" value="472">Androgel</option>
+<option id="hidden_1011" value="1011">Angeliq</option>
+<option id="hidden_546" value="546">Angiomax</option>
+<option id="hidden_248" value="248">Animi-3</option>
+<option id="hidden_587" value="587">Anplag</option>
+<option id="hidden_739" value="739">Antara</option>
+<option id="hidden_295" value="295">Apidex</option>
+<option id="hidden_40" value="40">Apidra</option>
+<option id="hidden_956" value="956">Aplenzin</option>
+<option id="hidden_926" value="926">Apriso</option>
+<option id="hidden_729" value="729">Aptivus</option>
+<option id="hidden_325" value="325">Aranesp</option>
+<option id="hidden_512" value="512">Arcoxia</option>
+<option id="hidden_333" value="333">Aricept</option>
+<option id="hidden_249" value="249">Arimidex</option>
+<option id="hidden_578" value="578">Arixtra</option>
+<option id="hidden_480" value="480">Aromasin</option>
+<option id="hidden_869" value="869">Asacol</option>
+<option id="hidden_264" value="264">Asmanex</option>
+<option id="hidden_8" value="8">Astelin</option>
+<option id="hidden_911" value="911">Astepro</option>
+<option id="hidden_182" value="182">Atacand </option>
+<option id="hidden_700" value="700">Atarax</option>
+<option id="hidden_719" value="719">Atmadisc</option>
+<option id="hidden_749" value="749">Atopiclair</option>
+<option id="hidden_367" value="367">Atripla</option>
+<option id="hidden_379" value="379">Augmentin</option>
+<option id="hidden_436" value="436">Avandamet</option>
+<option id="hidden_658" value="658">Avandaryl</option>
+<option id="hidden_35" value="35">Avandia/Avandamet</option>
+<option id="hidden_339" value="339">Avapro</option>
+<option id="hidden_331" value="331">Avastin</option>
+<option id="hidden_386" value="386">Avelox</option>
+<option id="hidden_968" value="968">Avidoxy/Avidoxy DK</option>
+<option id="hidden_628" value="628">Avinza</option>
+<option id="hidden_90" value="90">Avita</option>
+<option id="hidden_108" value="108">Avodart</option>
+<option id="hidden_348" value="348">Avonex</option>
+<option id="hidden_924" value="924">Axert</option>
+<option id="hidden_982" value="982">Axona</option>
+<option id="hidden_684" value="684">Azactam</option>
+<option id="hidden_83" value="83">Azelex</option>
+<option id="hidden_609" value="609">Azilect</option>
+<option id="hidden_10" value="10">Azmacort</option>
+<option id="hidden_960" value="960">Azor</option>
+<option id="hidden_851" value="851">Balmex</option>
+<option id="hidden_532" value="532">Baraclude</option>
+<option id="hidden_870" value="870">Beano</option>
+<option id="hidden_467" value="467">Benefix</option>
+<option id="hidden_603" value="603">Benet</option>
+<option id="hidden_345" value="345">Benicar</option>
+<option id="hidden_93" value="93">Benzaclin</option>
+<option id="hidden_89" value="89">Benzagel</option>
+<option id="hidden_995" value="995">Benzefoam</option>
+<option id="hidden_914" value="914">Betaseaon</option>
+<option id="hidden_359" value="359">Betaseron</option>
+<option id="hidden_667" value="667">Bezatol</option>
+<option id="hidden_416" value="416">Biaxin</option>
+<option id="hidden_737" value="737">Bicilin</option>
+<option id="hidden_590" value="590">Bonalon</option>
+<option id="hidden_115" value="115">Boniva</option>
+<option id="hidden_84" value="84">Botox</option>
+<option id="hidden_857" value="857">Breathe Right</option>
+<option id="hidden_390" value="390">Byetta</option>
+<option id="hidden_298" value="298">Bystolic </option>
+<option id="hidden_738" value="738">Cabaser</option>
+<option id="hidden_440" value="440">Caduet</option>
+<option id="hidden_543" value="543">Caelyx</option>
+<option id="hidden_655" value="655">Calblock</option>
+<option id="hidden_596" value="596">Calcichew</option>
+<option id="hidden_692" value="692">Campral</option>
+<option id="hidden_389" value="389">Camptosar</option>
+<option id="hidden_721" value="721">Canasa</option>
+<option id="hidden_443" value="443">Cancidas</option>
+<option id="hidden_751" value="751">Capex</option>
+<option id="hidden_802" value="802">Carac</option>
+<option id="hidden_706" value="706">Carbatrol</option>
+<option id="hidden_580" value="580">Cardizem La</option>
+<option id="hidden_110" value="110">Cardura</option>
+<option id="hidden_813" value="813">Cardura XL</option>
+<option id="hidden_363" value="363">Casodex</option>
+<option id="hidden_81" value="81">Cataflam</option>
+<option id="hidden_716" value="716">Cefamezin</option>
+<option id="hidden_724" value="724">Cefspan</option>
+<option id="hidden_579" value="579">Cefzon</option>
+<option id="hidden_884" value="884">Celebrex</option>
+<option id="hidden_299" value="299">Celexa</option>
+<option id="hidden_351" value="351">CellCept</option>
+<option id="hidden_67" value="67">Cenestin</option>
+<option id="hidden_608" value="608">Ceredist</option>
+<option id="hidden_372" value="372">Cerezyme</option>
+<option id="hidden_275" value="275">Chantix</option>
+<option id="hidden_103" value="103">Cialis</option>
+<option id="hidden_211" value="211">Cigarest</option>
+<option id="hidden_816" value="816">Cimzia</option>
+<option id="hidden_448" value="448">Cipro</option>
+<option id="hidden_962" value="962">Citra Natal</option>
+<option id="hidden_871" value="871">Citrucel</option>
+<option id="hidden_969" value="969">Clarifoam EF</option>
+<option id="hidden_1" value="1">Clarinex</option>
+<option id="hidden_545" value="545">Clarith</option>
+<option id="hidden_847" value="847">Claritin</option>
+<option id="hidden_752" value="752">Clenia</option>
+<option id="hidden_985" value="985">Clinac</option>
+<option id="hidden_753" value="753">Clindagel</option>
+<option id="hidden_823" value="823">ClindaReach</option>
+<option id="hidden_754" value="754">Clindesse</option>
+<option id="hidden_755" value="755">Clobex</option>
+<option id="hidden_669" value="669">Colazal</option>
+<option id="hidden_1006" value="1006">Colcrys</option>
+<option id="hidden_756" value="756">Combigan</option>
+<option id="hidden_397" value="397">Combivent</option>
+<option id="hidden_396" value="396">Combivir</option>
+<option id="hidden_909" value="909">Commit</option>
+<option id="hidden_419" value="419">Comtan</option>
+<option id="hidden_383" value="383">Concerta</option>
+<option id="hidden_893" value="893">Contac</option>
+<option id="hidden_332" value="332">Copaxone</option>
+<option id="hidden_85" value="85">Coreg CR</option>
+<option id="hidden_987" value="987">Cosequin</option>
+<option id="hidden_574" value="574">Coumadin</option>
+<option id="hidden_320" value="320">Cozaar</option>
+<option id="hidden_536" value="536">Creon</option>
+<option id="hidden_19" value="19">Crestor</option>
+<option id="hidden_518" value="518">Crixivan</option>
+<option id="hidden_225" value="225">Crohn's Disease</option>
+<option id="hidden_526" value="526">Cubicin</option>
+<option id="hidden_104" value="104">Cutivate</option>
+<option id="hidden_250" value="250">Cyclessa</option>
+<option id="hidden_238" value="238">Cymbalta</option>
+<option id="hidden_644" value="644">Dacogen</option>
+<option id="hidden_694" value="694">Dasen</option>
+<option id="hidden_725" value="725">Daytrana</option>
+<option id="hidden_385" value="385">Delix</option>
+<option id="hidden_227" value="227">Dental</option>
+<option id="hidden_651" value="651">Depakene</option>
+<option id="hidden_466" value="466">Depakine</option>
+<option id="hidden_356" value="356">Depakote</option>
+<option id="hidden_805" value="805">Depakote ER</option>
+<option id="hidden_645" value="645">Depas</option>
+<option id="hidden_760" value="760">Deramaxx</option>
+<option id="hidden_988" value="988">Deramaxx</option>
+<option id="hidden_852" value="852">Desitin</option>
+<option id="hidden_758" value="758">Desonate</option>
+<option id="hidden_101" value="101">Detrol LA</option>
+<option id="hidden_901" value="901">Dexatrim</option>
+<option id="hidden_551" value="551">Diane</option>
+<option id="hidden_92" value="92">Differin</option>
+<option id="hidden_473" value="473">Diflucan</option>
+<option id="hidden_894" value="894">Dimetapp</option>
+<option id="hidden_25" value="25">Diovan/DiovanHCT</option>
+<option id="hidden_102" value="102">Ditropan</option>
+<option id="hidden_759" value="759">Divigel</option>
+<option id="hidden_710" value="710">Dogmatyl</option>
+<option id="hidden_646" value="646">Doryx</option>
+<option id="hidden_886" value="886">Duac</option>
+<option id="hidden_835" value="835">Duet DHA</option>
+<option id="hidden_542" value="542">DuoNeb</option>
+<option id="hidden_370" value="370">Duragesic</option>
+<option id="hidden_619" value="619">Durotep</option>
+<option id="hidden_943" value="943">Easypod</option>
+<option id="hidden_648" value="648">Ebastel</option>
+<option id="hidden_520" value="520">Ebixa</option>
+<option id="hidden_996" value="996">Edluar</option>
+<option id="hidden_964" value="964">Edluar</option>
+<option id="hidden_43" value="43">Effexor XR</option>
+<option id="hidden_708" value="708">Efudex</option>
+<option id="hidden_589" value="589">Elaprase</option>
+<option id="hidden_746" value="746">Elaspol</option>
+<option id="hidden_620" value="620">Elcitonin</option>
+<option id="hidden_950" value="950">Eletone</option>
+<option id="hidden_27" value="27">Elidel</option>
+<option id="hidden_611" value="611">Eligard</option>
+<option id="hidden_761" value="761">Elmiron</option>
+<option id="hidden_963" value="963">Elmiron</option>
+<option id="hidden_346" value="346">Eloxatin</option>
+<option id="hidden_999" value="999">Embeda</option>
+<option id="hidden_572" value="572">Emend</option>
+<option id="hidden_105" value="105">Enablex</option>
+<option id="hidden_321" value="321">Enbrel</option>
+<option id="hidden_252" value="252">Encora</option>
+<option id="hidden_230" value="230">EndoKnow</option>
+<option id="hidden_800" value="800">Enjuvia</option>
+<option id="hidden_300" value="300">Entex </option>
+<option id="hidden_965" value="965">Epiceram</option>
+<option id="hidden_913" value="913">Epiduo</option>
+<option id="hidden_826" value="826">EpiPen</option>
+<option id="hidden_762" value="762">EpiQuin</option>
+<option id="hidden_516" value="516">Epivir</option>
+<option id="hidden_341" value="341">Epogen</option>
+<option id="hidden_426" value="426">Epzicom</option>
+<option id="hidden_362" value="362">Erbitux</option>
+<option id="hidden_763" value="763">Ertaczo</option>
+<option id="hidden_705" value="705">Estrace Cream</option>
+<option id="hidden_72" value="72">Estrasorb</option>
+<option id="hidden_69" value="69">Estratest</option>
+<option id="hidden_834" value="834">EstroGel</option>
+<option id="hidden_865" value="865">Estroven</option>
+<option id="hidden_586" value="586">Euthyrox</option>
+<option id="hidden_830" value="830">Evamist</option>
+<option id="hidden_301" value="301">Evista</option>
+<option id="hidden_87" value="87">Evoclin</option>
+<option id="hidden_922" value="922">Evolence</option>
+<option id="hidden_291" value="291">Exelon</option>
+<option id="hidden_318" value="318">Exforge</option>
+<option id="hidden_500" value="500">Exjade</option>
+<option id="hidden_764" value="764">Extina</option>
+<option id="hidden_470" value="470">Fabrazyme</option>
+<option id="hidden_77" value="77">FAMVIR</option>
+<option id="hidden_1005" value="1005">Fanapt</option>
+<option id="hidden_680" value="680">Farmorubicin</option>
+<option id="hidden_568" value="568">Faslodex</option>
+<option id="hidden_292" value="292">Femara</option>
+<option id="hidden_253" value="253">Femcon Fe</option>
+<option id="hidden_726" value="726">Femhrt</option>
+<option id="hidden_1003" value="1003">Fenoglide</option>
+<option id="hidden_623" value="623">Fentora</option>
+<option id="hidden_392" value="392">Fermara</option>
+<option id="hidden_872" value="872">Fibercon</option>
+<option id="hidden_1002" value="1002">Fibricor</option>
+<option id="hidden_930" value="930">Finacea</option>
+<option id="hidden_722" value="722">Firstcin</option>
+<option id="hidden_796" value="796">Flector</option>
+<option id="hidden_109" value="109">Flomax</option>
+<option id="hidden_2" value="2">Flonase</option>
+<option id="hidden_11" value="11">Flovent</option>
+<option id="hidden_638" value="638">Flumarin</option>
+<option id="hidden_993" value="993">Focalin XR</option>
+<option id="hidden_438" value="438">Follistim</option>
+<option id="hidden_13" value="13">Foradil</option>
+<option id="hidden_984" value="984">Forcalin XR</option>
+<option id="hidden_417" value="417">Forteo</option>
+<option id="hidden_917" value="917">Fortical</option>
+<option id="hidden_282" value="282">Fosamax</option>
+<option id="hidden_836" value="836">Fosomax</option>
+<option id="hidden_656" value="656">Fosrenol</option>
+<option id="hidden_641" value="641">Frandol</option>
+<option id="hidden_493" value="493">Fraxiparine</option>
+<option id="hidden_765" value="765">Frontline</option>
+<option id="hidden_798" value="798">Frova</option>
+<option id="hidden_537" value="537">Fuzeon</option>
+<option id="hidden_742" value="742">Gabitril</option>
+<option id="hidden_873" value="873">Gas X</option>
+<option id="hidden_582" value="582">Gasmotin</option>
+<option id="hidden_405" value="405">Genotropin</option>
+<option id="hidden_402" value="402">Geodon</option>
+<option id="hidden_907" value="907">Geritol</option>
+<option id="hidden_908" value="908">Geritol</option>
+<option id="hidden_335" value="335">Gleevec</option>
+<option id="hidden_677" value="677">Glovenin</option>
+<option id="hidden_766" value="766">GlucaGen</option>
+<option id="hidden_476" value="476">Glucobay</option>
+<option id="hidden_495" value="495">Glucophage</option>
+<option id="hidden_37" value="37">Glyset</option>
+<option id="hidden_435" value="435">Gonal</option>
+<option id="hidden_767" value="767">Gynazole</option>
+<option id="hidden_368" value="368">Harnal</option>
+<option id="hidden_989" value="989">Heartgard</option>
+<option id="hidden_768" value="768">Heartgard</option>
+<option id="hidden_820" value="820">Helixate</option>
+<option id="hidden_522" value="522">Hepsera</option>
+<option id="hidden_280" value="280">Herceptin</option>
+<option id="hidden_358" value="358">Humalog</option>
+<option id="hidden_462" value="462">Humatrope</option>
+<option id="hidden_334" value="334">Humira</option>
+<option id="hidden_387" value="387">Humulin</option>
+<option id="hidden_553" value="553">Hycamtin</option>
+<option id="hidden_113" value="113">Hytrin</option>
+<option id="hidden_906" value="906">I Caps</option>
+<option id="hidden_418" value="418">Iidoderm</option>
+<option id="hidden_57" value="57">Imitrex</option>
+<option id="hidden_899" value="899">Imodium</option>
+<option id="hidden_643" value="643">Imunace</option>
+<option id="hidden_377" value="377">Infanrix</option>
+<option id="hidden_599" value="599">Influvac</option>
+<option id="hidden_688" value="688">Intal</option>
+<option id="hidden_511" value="511">Integrilin</option>
+<option id="hidden_990" value="990">INTERCEPTOR</option>
+<option id="hidden_556" value="556">Intron A</option>
+<option id="hidden_957" value="957">Intuniv</option>
+<option id="hidden_584" value="584">Invanz</option>
+<option id="hidden_552" value="552">Iressa</option>
+<option id="hidden_631" value="631">Isovorin</option>
+<option id="hidden_686" value="686">Janumet</option>
+<option id="hidden_294" value="294">Januvia</option>
+<option id="hidden_602" value="602">Kadian</option>
+<option id="hidden_364" value="364">Kaletra</option>
+<option id="hidden_875" value="875">Kapidex</option>
+<option id="hidden_844" value="844">Keflex</option>
+<option id="hidden_360" value="360">Keppra</option>
+<option id="hidden_837" value="837">Keppra XR</option>
+<option id="hidden_971" value="971">Kerafoam/Kerafoam42</option>
+<option id="hidden_598" value="598">Kinedak</option>
+<option id="hidden_877" value="877">Kogenate</option>
+<option id="hidden_633" value="633">Kremezin</option>
+<option id="hidden_502" value="502">Kytril</option>
+<option id="hidden_176" value="176">Lamictal</option>
+<option id="hidden_168" value="168">Lamictal Bipolar</option>
+<option id="hidden_41" value="41">Lantus</option>
+<option id="hidden_944" value="944">Lescol XL</option>
+<option id="hidden_338" value="338">Levaquin</option>
+<option id="hidden_858" value="858">Levemir</option>
+<option id="hidden_54" value="54">Levitra</option>
+<option id="hidden_74" value="74">Levothroid</option>
+<option id="hidden_169" value="169">Levoxyl</option>
+<option id="hidden_51" value="51">Levsin</option>
+<option id="hidden_31" value="31">Lexapro</option>
+<option id="hidden_281" value="281">Lialda</option>
+<option id="hidden_939" value="939">Lidoderm</option>
+<option id="hidden_946" value="946">Limbrel500</option>
+<option id="hidden_276" value="276">Lipitor</option>
+<option id="hidden_652" value="652">Liple</option>
+<option id="hidden_770" value="770">Lipofen</option>
+<option id="hidden_577" value="577">Livial</option>
+<option id="hidden_771" value="771">Locoid Lipocream</option>
+<option id="hidden_254" value="254">Loestrin 24 Fe</option>
+<option id="hidden_524" value="524">Lopamiron</option>
+<option id="hidden_772" value="772">Loprox</option>
+<option id="hidden_414" value="414">Lotrel</option>
+<option id="hidden_26" value="26">Lotrel</option>
+<option id="hidden_814" value="814">Lovaza</option>
+<option id="hidden_330" value="330">Lovenox</option>
+<option id="hidden_940" value="940">Lovox CR</option>
+<option id="hidden_507" value="507">Loxonin</option>
+<option id="hidden_369" value="369">Lucentis</option>
+<option id="hidden_255" value="255">Lumigan</option>
+<option id="hidden_98" value="98">Lunesta</option>
+<option id="hidden_317" value="317">Lupron Depot</option>
+<option id="hidden_887" value="887">Lustra</option>
+<option id="hidden_649" value="649">Luvox</option>
+<option id="hidden_934" value="934">Luxiq</option>
+<option id="hidden_78" value="78">Lyrica</option>
+<option id="hidden_653" value="653">Maintate</option>
+<option id="hidden_618" value="618">Marinol</option>
+<option id="hidden_809" value="809">Maxair</option>
+<option id="hidden_58" value="58">Maxalt</option>
+<option id="hidden_635" value="635">Maxipime</option>
+<option id="hidden_698" value="698">Mearubik</option>
+<option id="hidden_888" value="888">Mederma</option>
+<option id="hidden_938" value="938">Medicare Part D</option>
+<option id="hidden_878" value="878">Megace ES</option>
+<option id="hidden_681" value="681">Meptin</option>
+<option id="hidden_773" value="773">Meridia</option>
+<option id="hidden_614" value="614">Meropen</option>
+<option id="hidden_900" value="900">Metamucil</option>
+<option id="hidden_889" value="889">Metrogel</option>
+<option id="hidden_528" value="528">Miacalcin</option>
+<option id="hidden_344" value="344">Micardis</option>
+<option id="hidden_273" value="273">Migranal</option>
+<option id="hidden_935" value="935">Mimyx</option>
+<option id="hidden_774" value="774">Minocin</option>
+<option id="hidden_920" value="920">MiraLAX</option>
+<option id="hidden_398" value="398">Mirapex</option>
+<option id="hidden_453" value="453">Mirena</option>
+<option id="hidden_469" value="469">Mobic</option>
+<option id="hidden_1004" value="1004">Moxatag</option>
+<option id="hidden_503" value="503">Mucosta</option>
+<option id="hidden_881" value="881">Myfortic</option>
+<option id="hidden_902" value="902">Mylanta</option>
+<option id="hidden_575" value="575">Myozyme</option>
+<option id="hidden_567" value="567">Myslee</option>
+<option id="hidden_685" value="685">Naglazyme</option>
+<option id="hidden_407" value="407">Namenda</option>
+<option id="hidden_5" value="5">Nasacort</option>
+<option id="hidden_6" value="6">Nasonex</option>
+<option id="hidden_734" value="734">Nauzelin</option>
+<option id="hidden_824" value="824">NeoBenz</option>
+<option id="hidden_393" value="393">Neoral</option>
+<option id="hidden_349" value="349">NeoRecormon</option>
+<option id="hidden_838" value="838">Neosporin</option>
+<option id="hidden_842" value="842">Neosporin</option>
+<option id="hidden_841" value="841">Neosporin</option>
+<option id="hidden_840" value="840">Neosporin</option>
+<option id="hidden_839" value="839">Neosporin</option>
+<option id="hidden_741" value="741">Neuart</option>
+<option id="hidden_468" value="468">Neurontin</option>
+<option id="hidden_366" value="366">Neutrogena</option>
+<option id="hidden_890" value="890">Neutrogena</option>
+<option id="hidden_491" value="491">Nexavar</option>
+<option id="hidden_45" value="45">Nexium</option>
+<option id="hidden_424" value="424">Niaspan</option>
+<option id="hidden_910" value="910">Nicoderm</option>
+<option id="hidden_776" value="776">Nicomide</option>
+<option id="hidden_689" value="689">Nolvadex</option>
+<option id="hidden_621" value="621">Nootropil</option>
+<option id="hidden_428" value="428">Norditropin</option>
+<option id="hidden_319" value="319">Norvasc</option>
+<option id="hidden_976" value="976">Novacort Gel</option>
+<option id="hidden_733" value="733">Novastan</option>
+<option id="hidden_859" value="859">NovoFine</option>
+<option id="hidden_42" value="42">Novolin</option>
+<option id="hidden_378" value="378">Novoseven</option>
+<option id="hidden_485" value="485">Nutropin</option>
+<option id="hidden_64" value="64">NuvaRing</option>
+<option id="hidden_931" value="931">Nuvigil</option>
+<option id="hidden_777" value="777">Olux</option>
+<option id="hidden_918" value="918">Omnaris</option>
+<option id="hidden_555" value="555">Omnicef</option>
+<option id="hidden_905" value="905">One-A-Day</option>
+<option id="hidden_953" value="953">Onglyza</option>
+<option id="hidden_534" value="534">Onon</option>
+<option id="hidden_490" value="490">Opalmon</option>
+<option id="hidden_994" value="994">Opana</option>
+<option id="hidden_650" value="650">Opana</option>
+<option id="hidden_861" value="861">Optifree</option>
+<option id="hidden_122" value="122">Optivar</option>
+<option id="hidden_862" value="862">Optive</option>
+<option id="hidden_825" value="825">Oracea</option>
+<option id="hidden_558" value="558">Orencia</option>
+<option id="hidden_305" value="305">Ortho Cyclen</option>
+<option id="hidden_306" value="306">Ortho Evra </option>
+<option id="hidden_63" value="63">Ortho Tricyclen</option>
+<option id="hidden_117" value="117">Ortho Tricyclin</option>
+<option id="hidden_308" value="308">Ortho-Novum </option>
+<option id="hidden_980" value="980">Ovace</option>
+<option id="hidden_62" value="62">Ovcon 35</option>
+<option id="hidden_879" value="879">Ovide</option>
+<option id="hidden_702" value="702">Oxarol</option>
+<option id="hidden_683" value="683">Oxis</option>
+<option id="hidden_916" value="916">Oxistat</option>
+<option id="hidden_714" value="714">OxyContin</option>
+<option id="hidden_647" value="647">Palux</option>
+<option id="hidden_711" value="711">Paragard</option>
+<option id="hidden_256" value="256">Pataday</option>
+<option id="hidden_807" value="807">Patanase</option>
+<option id="hidden_257" value="257">Patanol</option>
+<option id="hidden_32" value="32">Paxil Cr</option>
+<option id="hidden_853" value="853">Pedialyte</option>
+<option id="hidden_361" value="361">Pegasys</option>
+<option id="hidden_395" value="395">Peglntron</option>
+<option id="hidden_595" value="595">Pentasa</option>
+<option id="hidden_730" value="730">Pentcillin</option>
+<option id="hidden_903" value="903">Pepcid</option>
+<option id="hidden_639" value="639">Percocet</option>
+<option id="hidden_715" value="715">Perdipine</option>
+<option id="hidden_272" value="272">Pexeva</option>
+<option id="hidden_670" value="670">Plan B</option>
+<option id="hidden_1010" value="1010">Plan B</option>
+<option id="hidden_309" value="309">Plavix</option>
+<option id="hidden_535" value="535">Plendil</option>
+<option id="hidden_478" value="478">Pletal</option>
+<option id="hidden_1007" value="1007">Pramosone</option>
+<option id="hidden_482" value="482">Prandin</option>
+<option id="hidden_21" value="21">Pravachol</option>
+<option id="hidden_36" value="36">Precose</option>
+<option id="hidden_70" value="70">Premarin</option>
+<option id="hidden_73" value="73">Prempro</option>
+<option id="hidden_932" value="932">PreNexa</option>
+<option id="hidden_46" value="46">Prevacid</option>
+<option id="hidden_671" value="671">Prexige</option>
+<option id="hidden_50" value="50">Prilosec</option>
+<option id="hidden_864" value="864">PrimaCare</option>
+<option id="hidden_848" value="848">Primatene</option>
+<option id="hidden_1000" value="1000">Primsol</option>
+<option id="hidden_804" value="804">Pristiq</option>
+<option id="hidden_981" value="981">Pro-Centra</option>
+<option id="hidden_778" value="778">ProAir</option>
+<option id="hidden_945" value="945">ProCentra</option>
+<option id="hidden_337" value="337">Procrit</option>
+<option id="hidden_347" value="347">Prograf</option>
+<option id="hidden_812" value="812">Propecia</option>
+<option id="hidden_111" value="111">Proscar</option>
+<option id="hidden_99" value="99">Prosom</option>
+<option id="hidden_48" value="48">Protonix</option>
+<option id="hidden_604" value="604">Protopic</option>
+<option id="hidden_267" value="267">Proventil HFA</option>
+<option id="hidden_404" value="404">Provigil</option>
+<option id="hidden_14" value="14">Pulmicort</option>
+<option id="hidden_479" value="479">Pulmozyme</option>
+<option id="hidden_863" value="863">PureVision</option>
+<option id="hidden_958" value="958">Qvar</option>
+<option id="hidden_713" value="713">Ranexa</option>
+<option id="hidden_494" value="494">Rapamune</option>
+<option id="hidden_94" value="94">Raptiva</option>
+<option id="hidden_531" value="531">Rebetol</option>
+<option id="hidden_352" value="352">Rebif</option>
+<option id="hidden_509" value="509">ReFacto</option>
+<option id="hidden_948" value="948">Refissa</option>
+<option id="hidden_311" value="311">Reglan</option>
+<option id="hidden_449" value="449">Relenza</option>
+<option id="hidden_59" value="59">Relpax</option>
+<option id="hidden_521" value="521">Remeron</option>
+<option id="hidden_52" value="52">Remicade</option>
+<option id="hidden_576" value="576">Remodulin</option>
+<option id="hidden_421" value="421">Requip</option>
+<option id="hidden_121" value="121">Restasis</option>
+<option id="hidden_891" value="891">Restylane</option>
+<option id="hidden_82" value="82">Retin A Micro</option>
+<option id="hidden_410" value="410">Revlimid</option>
+<option id="hidden_373" value="373">Reyataz</option>
+<option id="hidden_695" value="695">Rheumatrex</option>
+<option id="hidden_7" value="7">Rhinocort</option>
+<option id="hidden_972" value="972">Rilutek</option>
+<option id="hidden_781" value="781">Rimady</option>
+<option id="hidden_991" value="991">RIMADYL</option>
+<option id="hidden_660" value="660">Rinderon</option>
+<option id="hidden_810" value="810">Riomet</option>
+<option id="hidden_328" value="328">Risperdal</option>
+<option id="hidden_322" value="322">Rituxan/MabThera</option>
+<option id="hidden_895" value="895">Robitussin</option>
+<option id="hidden_510" value="510">Rocephin</option>
+<option id="hidden_849" value="849">Rogaine</option>
+<option id="hidden_588" value="588">Rotarix</option>
+<option id="hidden_100" value="100">Rozerem</option>
+<option id="hidden_562" value="562">Saizen</option>
+<option id="hidden_970" value="970">Salkera</option>
+<option id="hidden_106" value="106">Sanctura</option>
+<option id="hidden_384" value="384">Sandostatin</option>
+<option id="hidden_977" value="977">Scalacort</option>
+<option id="hidden_827" value="827">Seasonique</option>
+<option id="hidden_457" value="457">Senipar</option>
+<option id="hidden_904" value="904">Senokot</option>
+<option id="hidden_998" value="998">Sensipar</option>
+<option id="hidden_571" value="571">Serc</option>
+<option id="hidden_16" value="16">Serevent</option>
+<option id="hidden_662" value="662">Sermion</option>
+<option id="hidden_329" value="329">Seroquel</option>
+<option id="hidden_699" value="699">Serostim</option>
+<option id="hidden_1008" value="1008">ShadRx</option>
+<option id="hidden_607" value="607">Sigmart</option>
+<option id="hidden_815" value="815">Simcor</option>
+<option id="hidden_3" value="3">Singulair</option>
+<option id="hidden_463" value="463">Skelaxin</option>
+<option id="hidden_782" value="782">Skelazin</option>
+<option id="hidden_915" value="915">Solaraze Gel</option>
+<option id="hidden_718" value="718">Soliris</option>
+<option id="hidden_783" value="783">Solodyn</option>
+<option id="hidden_775" value="775">Soma 250</option>
+<option id="hidden_693" value="693">Sonata</option>
+<option id="hidden_15" value="15">Spiriva</option>
+<option id="hidden_47" value="47">Sporanox</option>
+<option id="hidden_605" value="605">Sprycel</option>
+<option id="hidden_949" value="949">Stalevo</option>
+<option id="hidden_38" value="38">Starlix</option>
+<option id="hidden_817" value="817">Stavzor</option>
+<option id="hidden_954" value="954">Stelara</option>
+<option id="hidden_439" value="439">Strattera</option>
+<option id="hidden_784" value="784">Striant</option>
+<option id="hidden_563" value="563">Subutex</option>
+<option id="hidden_896" value="896">Sudafed</option>
+<option id="hidden_997" value="997">Sumavel</option>
+<option id="hidden_983" value="983">Sumaxin</option>
+<option id="hidden_735" value="735">Sumiferon</option>
+<option id="hidden_640" value="640">Sunrythm</option>
+<option id="hidden_666" value="666">Surenyl</option>
+<option id="hidden_432" value="432">Sustiva</option>
+<option id="hidden_437" value="437">Sutent</option>
+<option id="hidden_170" value="170">Symbicort</option>
+<option id="hidden_314" value="314">Symlin</option>
+<option id="hidden_75" value="75">Synthroid</option>
+<option id="hidden_549" value="549">Synvisc</option>
+<option id="hidden_866" value="866">Systane</option>
+<option id="hidden_627" value="627">Taclonex</option>
+<option id="hidden_678" value="678">Talion</option>
+<option id="hidden_315" value="315">Tamiflu</option>
+<option id="hidden_616" value="616">Tanatril</option>
+<option id="hidden_806" value="806">Tarceva</option>
+<option id="hidden_727" value="727">Targocid</option>
+<option id="hidden_892" value="892">Tarzorac</option>
+<option id="hidden_316" value="316">Taxol</option>
+<option id="hidden_340" value="340">Taxotere</option>
+<option id="hidden_91" value="91">Tazorac</option>
+<option id="hidden_474" value="474">Tegretol</option>
+<option id="hidden_241" value="241">Tekturna</option>
+<option id="hidden_400" value="400">Temodar</option>
+<option id="hidden_519" value="519">Tenormin</option>
+<option id="hidden_785" value="785">Testim</option>
+<option id="hidden_923" value="923">Tetrix</option>
+<option id="hidden_921" value="921">Textrix</option>
+<option id="hidden_461" value="461">Thalomid</option>
+<option id="hidden_736" value="736">Theo-Dur</option>
+<option id="hidden_897" value="897">TheraFlu</option>
+<option id="hidden_585" value="585">Timoptic</option>
+<option id="hidden_533" value="533">Tobi/Tobramycin</option>
+<option id="hidden_60" value="60">Topamax</option>
+<option id="hidden_731" value="731">Topotecin</option>
+<option id="hidden_28" value="28">Toprol XL- Hypertension</option>
+<option id="hidden_1012" value="1012">Toviaz</option>
+<option id="hidden_388" value="388">Tracleer</option>
+<option id="hidden_867" value="867">Travanan Z</option>
+<option id="hidden_818" value="818">Travatan</option>
+<option id="hidden_942" value="942">Treanda</option>
+<option id="hidden_786" value="786">Trentin-X</option>
+<option id="hidden_803" value="803">Treximet</option>
+<option id="hidden_789" value="789">Tri Heart</option>
+<option id="hidden_1001" value="1001">Tri Luma Cream</option>
+<option id="hidden_788" value="788">Tri-Cyclen Lo</option>
+<option id="hidden_787" value="787">Triaz</option>
+<option id="hidden_266" value="266">Tricor</option>
+<option id="hidden_992" value="992">Triheartplus</option>
+<option id="hidden_790" value="790">Trileptal</option>
+<option id="hidden_420" value="420">Trileptal</option>
+<option id="hidden_919" value="919">Trilipix</option>
+<option id="hidden_456" value="456">Trizivir</option>
+<option id="hidden_355" value="355">Truada</option>
+<option id="hidden_409" value="409">Trusopt</option>
+<option id="hidden_606" value="606">Tussionex</option>
+<option id="hidden_791" value="791">Twinject</option>
+<option id="hidden_622" value="622">Tygacil</option>
+<option id="hidden_458" value="458">Tysabir</option>
+<option id="hidden_226" value="226">Ulcerative Colitis</option>
+<option id="hidden_413" value="413">Ultane</option>
+<option id="hidden_80" value="80">Ultram ER</option>
+<option id="hidden_874" value="874">Ultrase</option>
+<option id="hidden_76" value="76">Unithroid</option>
+<option id="hidden_967" value="967">Uramaxin</option>
+<option id="hidden_663" value="663">Urief</option>
+<option id="hidden_112" value="112">Uroxatral</option>
+<option id="hidden_745" value="745">Utemerin</option>
+<option id="hidden_120" value="120">Vagifem</option>
+<option id="hidden_460" value="460">Valcyte</option>
+<option id="hidden_258" value="258">Valtrex</option>
+<option id="hidden_642" value="642">Vancomycin</option>
+<option id="hidden_792" value="792">Vaniqa</option>
+<option id="hidden_793" value="793">Vanos</option>
+<option id="hidden_452" value="452">Vasotec</option>
+<option id="hidden_601" value="601">Vectibix</option>
+<option id="hidden_966" value="966">Vectical</option>
+<option id="hidden_539" value="539">Velcade</option>
+<option id="hidden_672" value="672">Venilon</option>
+<option id="hidden_517" value="517">Venofer</option>
+<option id="hidden_626" value="626">Venoglobulin</option>
+<option id="hidden_720" value="720">Ventavis</option>
+<option id="hidden_811" value="811">Ventolin</option>
+<option id="hidden_274" value="274">Veramyst</option>
+<option id="hidden_937" value="937">Verdeso</option>
+<option id="hidden_107" value="107">Vesicare</option>
+<option id="hidden_290" value="290">Viagra</option>
+<option id="hidden_1009" value="1009">Victoza</option>
+<option id="hidden_927" value="927">Vimpat</option>
+<option id="hidden_433" value="433">Viread</option>
+<option id="hidden_566" value="566">Visudyne</option>
+<option id="hidden_192" value="192">Vitamin Profile</option>
+<option id="hidden_961" value="961">Vivelle Dot</option>
+<option id="hidden_973" value="973">Vivitrol</option>
+<option id="hidden_415" value="415">Voltaren</option>
+<option id="hidden_936" value="936">Vusion</option>
+<option id="hidden_794" value="794">Vusion</option>
+<option id="hidden_23" value="23">Vytorin</option>
+<option id="hidden_880" value="880">Vyvance</option>
+<option id="hidden_696" value="696">Vyvanse</option>
+<option id="hidden_561" value="561">WelChol</option>
+<option id="hidden_375" value="375">Wellbutrin</option>
+<option id="hidden_959" value="959">Women's Rogain</option>
+<option id="hidden_712" value="712">Xagrid</option>
+<option id="hidden_354" value="354">Xalatan</option>
+<option id="hidden_513" value="513">Xanax</option>
+<option id="hidden_459" value="459">Xatral</option>
+<option id="hidden_391" value="391">Xeloda</option>
+<option id="hidden_446" value="446">Xenical</option>
+<option id="hidden_723" value="723">Xifaxan</option>
+<option id="hidden_17" value="17">Xolair</option>
+<option id="hidden_933" value="933">Xolegel</option>
+<option id="hidden_18" value="18">Xopenex</option>
+<option id="hidden_882" value="882">XyliMelts</option>
+<option id="hidden_559" value="559">Xyzal</option>
+<option id="hidden_65" value="65">Yasmin</option>
+<option id="hidden_259" value="259">Yaz</option>
+<option id="hidden_868" value="868">Zaditor</option>
+<option id="hidden_928" value="928">Zanaflex</option>
+<option id="hidden_544" value="544">Zanidip</option>
+<option id="hidden_506" value="506">Zeffix</option>
+<option id="hidden_49" value="49">Zegerid</option>
+<option id="hidden_780" value="780">Zelapar</option>
+<option id="hidden_53" value="53">Zelnorm</option>
+<option id="hidden_883" value="883">Zemaira</option>
+<option id="hidden_979" value="979">Zenieva</option>
+<option id="hidden_947" value="947">Zenpep</option>
+<option id="hidden_523" value="523">Zestril</option>
+<option id="hidden_22" value="22">Zetia</option>
+<option id="hidden_564" value="564">Ziagen</option>
+<option id="hidden_779" value="779">Ziana</option>
+<option id="hidden_898" value="898">Zicam</option>
+<option id="hidden_464" value="464">Zithromax</option>
+<option id="hidden_845" value="845">Zmax</option>
+<option id="hidden_24" value="24">Zocor</option>
+<option id="hidden_483" value="483">Zofran</option>
+<option id="hidden_376" value="376">Zoladex</option>
+<option id="hidden_33" value="33">Zoloft</option>
+<option id="hidden_365" value="365">Zometa</option>
+<option id="hidden_61" value="61">Zomig</option>
+<option id="hidden_743" value="743">Zonegran</option>
+<option id="hidden_371" value="371">Zosyn</option>
+<option id="hidden_668" value="668">Zoton</option>
+<option id="hidden_497" value="497">Zovirax</option>
+<option id="hidden_955" value="955">Zovirax</option>
+<option id="hidden_327" value="327">Zyprexa</option>
+<option id="hidden_343" value="343">Zyrtec</option>
+</select>
+</td>
+	<td>
+		<img src="http://static.optimizerx.com/images/medicine-add.png" onclick="addMedicine();" border="0" alt="Add to your cabinet!" style="background : #FFF; color : black; width:64px;height:47px;">
+	</td>
+</tr>
+</tbody></table>
+ </div>
+</div></td>
+
+
+<!--CONDITIONS -->
+<td width="500">
+	<br class="clear">
+		<div style="width:205px;_margin-top:10px;border:#5CABA5 2px solid;margin-bottom: 10px;color:#000000;">
+
+
+
+
+		<img src="http://static.optimizerx.com/images/symbol-48x48.png" alt="Interested Conditions" style="padding: 5px;padding-left:0;float: left; margin-left: auto; margin-right: auto; text-align: middle;">
+			<label class="InterestedConditions" style="margin-top:20px;float:left;">Interested Conditions</label>
+			
+<p style="clear: both;padding: 5px;padding-left:10px;">
+Adding the conditons to this list that you are interested in will allow us to more aptly tailor your experience to you! 
+</p><br class="clear">
+<table width="175px">
+
+ 	<tbody><tr><td id="conditiondisplay" style="font-size:11px;padding-left:10px;" colspan="2"></td></tr><tr>
+		<td>
+ 		<select id="conditionlist" name="condition" style="width: 125px;margin-top: 7px;margin-left: 8px !important;">
+			echo "<option value="0">Add Condition</option>\n";
+			                	<option value="1">Allergies</option>
+                              	<option value="2">Asthma-Lung</option>
+                              	<option value="3">Cholesterol</option>
+                              	<option value="4">High Blood Pressure</option>
+                              	<option value="5">Heart Failure (CHF)</option>
+                              	<option value="6">Depression</option>
+                              	<option value="8">Heartburn-Reflux Disease</option>
+                              	<option value="9">Erectile Dysfunction (ED)</option>
+                              	<option value="32">Overactive Bladder</option>
+                              	<option value="47">Diabetes</option>
+                              	<option value="88">Fibromyalgia</option>
+                              	<option value="89">Rheumatoid Arthritis</option>
+                              	<option value="59">Bipolar Disorder</option>
+                              	<option value="74">Smoking Cessation</option>
+                              	<option value="79">Cancer</option>
+                              	<option value="93">Low Testosterone (LT)</option>
+                              	<option value="94">ADD/ADHD</option>
+                              	<option value="95">Glaucoma</option>
+              </select>
+ 	<select id="conditionlisthidden" multiple="" name="conditionlisthidden" style="display:none;">
+			echo "<option value="0">Add Condition</option>\n";
+			                	<option id="conditionhidden_1" value="1">Allergies</option>
+                              	<option id="conditionhidden_2" value="2">Asthma-Lung</option>
+                              	<option id="conditionhidden_3" value="3">Cholesterol</option>
+                              	<option id="conditionhidden_4" value="4">High Blood Pressure</option>
+                              	<option id="conditionhidden_5" value="5">Heart Failure (CHF)</option>
+                              	<option id="conditionhidden_6" value="6">Depression</option>
+                              	<option id="conditionhidden_8" value="8">Heartburn-Reflux Disease</option>
+                              	<option id="conditionhidden_9" value="9">Erectile Dysfunction (ED)</option>
+                              	<option id="conditionhidden_32" value="32">Overactive Bladder</option>
+                              	<option id="conditionhidden_47" value="47">Diabetes</option>
+                              	<option id="conditionhidden_88" value="88">Fibromyalgia</option>
+                              	<option id="conditionhidden_89" value="89">Rheumatoid Arthritis</option>
+                              	<option id="conditionhidden_59" value="59">Bipolar Disorder</option>
+                              	<option id="conditionhidden_74" value="74">Smoking Cessation</option>
+                              	<option id="conditionhidden_79" value="79">Cancer</option>
+                              	<option id="conditionhidden_93" value="93">Low Testosterone (LT)</option>
+                              	<option id="conditionhidden_94" value="94">ADD/ADHD</option>
+                              	<option id="conditionhidden_95" value="95">Glaucoma</option>
+              </select>
+
+</td>
+ 		<td>
+ 		<img src="http://static.optimizerx.com/images/medicine-add.png" onclick="addCondition();" border="0" alt="Add to your conditions!" style="background : #FFF; color:black; width:64px;height:47px;">
+		</td>
+</tr>
+</tbody></table></div>
+</td></tr>
+</tbody></table>
+
+<p><input type="button" name="nothingneeded" id="proceed" onclick="checkstep1();" value="Get Started Now" style="background: #277498; color: #ffffff; float: right; margin-right:16px;"></p>
+	</fieldset>
+</form></div>
+
+
+ 
+
+
+
+<div id="right_column" style="height:800px; margin-top: 10px;">
+
+
+  	<table>
+    <tbody><tr><td>
+    <br><br><img src="http://static.optimizerx.com/images/reg_photos_senior.jpg" width="300">
+    </td></tr>
+    <tr><td align="bottom">
+    <br><br><br><br><br><br><br><br><br><br><br><br>
+    <img src="http://static.optimizerx.com/images/reg_photos_bottle.jpg" width="300">
+    </td></tr>
+    </tbody></table>
+    
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<!-- **************** DIV WINDOW 3 **************************** -->
+<div id="popupregdiv2" style="background-color:white; font-size: 10px;display:none;">
+<div id="left_column" style="margin-left: 40px;margin-top: 10px;">
+
+<fieldset class="agreement">
+	
+<p><img src="http://static.optimizerx.com/images/reg_header_savings.gif"><br>
+<img src="/images/reg_header_text.gif"></p>
+
+<div class="dots" style="margin-top:0;"><img src="http://static.optimizerx.com/images/dots_h.jpg" alt="dots"></div>
+
+<p class="signup_large" style="margin-left:0px;">
+	<span class="signup_large" style="margin-left:0px; font-size:14px;">Do you suffer from any of these diseases and would 
+		like more information on treatment savings and other helpful tips?</span>
+</p>
+
+
+    <table border="0" align="left">
+    	<tbody><tr>
+		                	<td align="left" width="200"><input style="background : #FFF; color : black; width:14px;height:10px;" type="checkbox" name="info[]" id="indication_1" value="1"><label class="radio color" for="indication_1">Allergies</label></td>
+                              	<td align="left" width="200"><input style="background : #FFF; color : black; width:14px;height:10px;" type="checkbox" name="info[]" id="indication_2" value="2"><label class="radio color" for="indication_2">Asthma-Lung</label></td>
+              </tr><tr>                	<td align="left" width="200"><input style="background : #FFF; color : black; width:14px;height:10px;" type="checkbox" name="info[]" id="indication_3" value="3"><label class="radio color" for="indication_3">Cholesterol</label></td>
+                              	<td align="left" width="200"><input style="background : #FFF; color : black; width:14px;height:10px;" type="checkbox" name="info[]" id="indication_4" value="4"><label class="radio color" for="indication_4">High Blood Pressure</label></td>
+              </tr><tr>                	<td align="left" width="200"><input style="background : #FFF; color : black; width:14px;height:10px;" type="checkbox" name="info[]" id="indication_5" value="5"><label class="radio color" for="indication_5">Heart Failure (CHF)</label></td>
+                              	<td align="left" width="200"><input style="background : #FFF; color : black; width:14px;height:10px;" type="checkbox" name="info[]" id="indication_6" value="6"><label class="radio color" for="indication_6">Depression</label></td>
+              </tr><tr>                	<td align="left" width="200"><input style="background : #FFF; color : black; width:14px;height:10px;" type="checkbox" name="info[]" id="indication_8" value="8"><label class="radio color" for="indication_8">Heartburn-Reflux Disease</label></td>
+                              	<td align="left" width="200"><input style="background : #FFF; color : black; width:14px;height:10px;" type="checkbox" name="info[]" id="indication_9" value="9"><label class="radio color" for="indication_9">Erectile Dysfunction (ED)</label></td>
+              </tr><tr>                	<td align="left" width="200"><input style="background : #FFF; color : black; width:14px;height:10px;" type="checkbox" name="info[]" id="indication_32" value="32"><label class="radio color" for="indication_32">Overactive Bladder</label></td>
+                              	<td align="left" width="200"><input style="background : #FFF; color : black; width:14px;height:10px;" type="checkbox" name="info[]" id="indication_47" value="47"><label class="radio color" for="indication_47">Diabetes</label></td>
+              </tr><tr>                	<td align="left" width="200"><input style="background : #FFF; color : black; width:14px;height:10px;" type="checkbox" name="info[]" id="indication_88" value="88"><label class="radio color" for="indication_88">Fibromyalgia</label></td>
+                              	<td align="left" width="200"><input style="background : #FFF; color : black; width:14px;height:10px;" type="checkbox" name="info[]" id="indication_89" value="89"><label class="radio color" for="indication_89">Rheumatoid Arthritis</label></td>
+              </tr><tr>                	<td align="left" width="200"><input style="background : #FFF; color : black; width:14px;height:10px;" type="checkbox" name="info[]" id="indication_59" value="59"><label class="radio color" for="indication_59">Bipolar Disorder</label></td>
+                              	<td align="left" width="200"><input style="background : #FFF; color : black; width:14px;height:10px;" type="checkbox" name="info[]" id="indication_74" value="74"><label class="radio color" for="indication_74">Smoking Cessation</label></td>
+              </tr><tr>                	<td align="left" width="200"><input style="background : #FFF; color : black; width:14px;height:10px;" type="checkbox" name="info[]" id="indication_79" value="79"><label class="radio color" for="indication_79">Cancer</label></td>
+                              	<td align="left" width="200"><input style="background : #FFF; color : black; width:14px;height:10px;" type="checkbox" name="info[]" id="indication_93" value="93"><label class="radio color" for="indication_93">Low Testosterone (LT)</label></td>
+              </tr><tr>                	<td align="left" width="200"><input style="background : #FFF; color : black; width:14px;height:10px;" type="checkbox" name="info[]" id="indication_94" value="94"><label class="radio color" for="indication_94">ADD/ADHD</label></td>
+                              	<td align="left" width="200"><input style="background : #FFF; color : black; width:14px;height:10px;" type="checkbox" name="info[]" id="indication_95" value="95"><label class="radio color" for="indication_95">Glaucoma</label></td>
+              </tr><tr>				<td><input style="background : #FFF; color : black; width:14px;height:10px;" type="checkbox" name="info[]" id="none" value="0"><label class="radio color" for="none">None of these</label></td>
+			</tr>
+			<tr><td>&nbsp;</td></tr>
+		</tbody></table>
+		
+
+
+<p class="signup_large" style="margin-top:20px; color: #9ae15b;">
+	<span class="signup_large" style="color: #9ae15b;">Better Manage your rising healthcare budget!</span>
+</p>
+<br><br>
+<p class="signup_large" style="margin-left:0px; ">
+	<span class="signup_large">Please sign me up for OPTIMIZERx periodic email newsletters
+		and other special offers that can further help me save on my healthcare products!</span><br>
+		<input style="background : #FFF; color : black; width:14px;height:10px;" type="radio" name="amazing_offers" value="yes" checked="checked">
+		<label class="color radio required  signup_large small10">Yes</label>
+		<input style="background : #FFF; color : black; width:14px;height:10px;" type="radio" name="amazing_offers" value="no">
+		<label class="color radio required  signup_large small10">No</label>
+		<input type="hidden" name="amazing_offers" id="regnewsletter">
+</p>
+
+<fieldset class="color radio required" style="margin-top:10px;">
+		<label class="color radio required signup_large" style="font-size:10px;">I agree and accept the OPTIMIZERx™ site <a class="offer_link green" target="_blank" href="/terms.php" style="text-decoration:underline;">Terms and Conditions</a> which incorporate the OPTIMIZERx™ <a class="offer_link green" target="_blank" href="/privacy.php" style="text-decoration:underline;">Privacy Policy</a>.</label><br>
+
+		<input style="background : #FFF; color : black; width:14px;height:10px;" type="radio" name="agreement" value="yes" checked="checked">
+		<label class="color radio required  signup_large small10">Yes</label>
+		<input style="background : #FFF; color : black; width:14px;height:10px;" type="radio" name="agreement" value="no">
+		<label class="color radio required  signup_large small10">No</label>
+		
+<br><br>
+<p><input style="background : #FFF; color : black; width:300px;height:50px;" type="image" name="submit" class="submit" value="Sign me up!" src="/images/sign_me_up_btn.gif"></p>
+<br><br>
+</fieldset>
+
+
+</fieldset>
+</div>
+
+
+
+
+
+
+<div id="right_column" style="height:800px; margin-top: 10px;">
+
+
+  	<table style="margin-top: 10px;">
+    <tbody><tr><td>
+    
+			 <table width="300" border="0" cellpadding="6" cellspacing="6" style="margin-top: 10px; border: 1px solid #25478c;padding: 2px 4px 2px 4px;">
+			  <tbody><tr>
+			    <td bgcolor="#25478c" style="color: #FFF; font-family: Arial, Helvetica, sans-serif; text-align: center; font-weight: bold; font-size: 14px;padding: 2px 4px 2px 4px;" "="">
+			    	You Qualified for these <span style="font-size: 16px">FREE Offers</span><br>
+			    </td>
+			  </tr>
+			  <tr>
+			    <td bgcolor="#a7b8f3">
+			    	<table width="290" border="0" align="left" cellpadding="6" cellspacing="6" style="margin-top: 10px; margin-left: 10px; padding: 2px 4px 2px 4px; spacing: 2px 4px 2px 4px;">
+			      <tbody><tr>
+			        <td><a href="http://www.jdoqocy.com/n765gv30v2ILKOPMONIKJNPJOMJ" target="_blank" onmouseover="window.status='http://www.sittercity.com';return true;" onmouseout="window.status=' ';return true;"><img src="http://www.awltovhc.com/eh102wquiom7A9DEBDC798CDH8EC" alt="Find local babysitters at Sittercity.com" border="0"></a></td><td style="vertical-align:middle;padding-left:5px;"><a href="http://www.jdoqocy.com/n765gv30v2ILKOPMONIKJNPJOMJ" target="_blank" onmouseover="window.status='http://www.sittercity.com';return true;" onmouseout="window.status=' ';return true;">Need a babysitter? Find the most qualified sitters at Sittercity.com.</a>
+<img src="http://www.ftjcfx.com/5366h48x20MPOSTQSRMONRTNSQN" width="1" height="1" border="0"></td>
+			      </tr>
+			    </tbody></table>
+			      <p>&nbsp;</p>
+			      <table width="290" border="0" align="left" cellpadding="6" cellspacing="6" style="margin-top: 10px; margin-left: 10px; padding: 2px 4px 2px 4px; spacing: 2px 4px 2px 4px;">
+			      <tbody><tr>
+			        <td><a href="http://www.anrdoezrs.net/8066zw41w3JMLPQNPOJLQOONNL" target="_blank" onmouseover="window.status='http://www.webvitamins.com';return true;" onmouseout="window.status=' ';return true;"><img src="http://www.ftjcfx.com/o2115fz2rxvGJIMNKMLGINLLKKM" alt="WebVitamins/More brands for less!" border="0"></a></td><td style="vertical-align:middle;padding-left:5px;"><a href="http://www.anrdoezrs.net/8066zw41w3JMLPQNPOJLQOONNL" target="_blank" onmouseover="window.status='http://www.webvitamins.com';return true;" onmouseout="window.status=' ';return true;">Brand Name Vitamins for Less</a>
+<img src="http://www.tqlkg.com/90103c37w1-LONRSPRQLNSQQPPN" width="1" height="1" border="0"></td>
+			      </tr>
+			    </tbody></table>
+			      <p>&nbsp;</p>
+			      <table width="290" border="0" align="left" cellpadding="6" cellspacing="6" style="margin-top: 10px; margin-left: 10px; padding: 2px 4px 2px 4px; spacing: 2px 4px 2px 4px;">
+			      <tbody><tr>
+			        <td><a href="http://www.kqzyfj.com/3074qgpmgo3659A7983546DA458" target="_blank" onmouseover="window.status='http://www.DentalPlans.com';return true;" onmouseout="window.status=' ';return true;">
+<img src="http://www.awltovhc.com/3o98qmqeki3659A7983546DA458" alt="Affordable Dental Care" border="0"></a></td><td style="vertical-align:middle;padding-left:5px;"><a href="http://www.kqzyfj.com/91108nmvsmu9CBFGDFE9BADAIEGA" target="_blank" onmouseover="window.status='http://www.DentalPlans.com';return true;" onmouseout="window.status=' ';return true;">GE Wellness Plan - Discount Dental Care</a>
+<img src="http://www.tqlkg.com/n3115elpdjh2548968724363B793" width="1" height="1" border="0"></td>
+			      </tr>
+			    </tbody></table>
+			      <p>&nbsp;</p>
+			      <p>&nbsp;</p>
+			    <p>&nbsp;</p>
+			    <p style="display:none;text-align:center;"><a href="#" border="0"><img src="/images/reg_but_clickhere.gif" width="250" height="50"></a></p></td>
+			  </tr>
+			</tbody></table>
+    
+    </td></tr>
+    <tr><td height="10">.</td></tr>
+    <tr><td>
+    	<p><a href="http://www.anrdoezrs.net/bf106qgpmgo3659A7983547D75AA" target="_blank" onmouseover="window.status='http://www.eHealthInsurance.com';return true;" onmouseout="window.status=' ';return true;">
+<img src="http://www.tqlkg.com/7o70wquiom7A9DEBDC798BHB9EE" alt="Compare free quotes for health insurance online!" border="0"></a></p>
+    </td></tr>
+    </tbody></table>
+    
+
+</div>
+
+
+
+	    <input type="hidden" name="last_viewed" value="" id="linkylinkylink">
+
+<script type="text/javascript">
+//<!--
+	 //init validator
+		var fval = new Validator("signuppopup");
+
+		fval.addValidation("username","req",
+			"Please enter a forum username");
+		fval.addValidation("first_name","req",
+			"Please input your first name");
+		fval.addValidation("last_name","req",
+			"Please input your last name");
+//		fval.addValidation("address_1","req",
+//			"Please enter your street address");
+//		fval.addValidation("city","req",
+//			"Please enter your city");
+////		fval.addValidation("state","req",
+//			"Please choose your state");
+		fval.addValidation("zip","req",
+			"Please enter your zip");
+		fval.addValidation("month","req",
+			"Please enter the month of your birthday");
+		fval.addValidation("year","req",
+			"Please enter the year of your birthday");
+
+        function DoCustomValidation() {
+            var frm = document.forms["signup"];
+            if(frm.password.value != frm.confirm_password.value) {
+                alert('The Password and verified password do not match!');
+                return false;
+            }
+            else {
+                return DoCustomValidation2();
+            }
+		}
+		function DoCustomValidation2() {
+            var frm = document.forms["signup"];
+            if(frm.email.value != frm.confirm_email.value) {
+                alert('The Email and confirm email do not match!');
+                return false;
+            }
+            else {
+                return CustomThree();
+            }
+        }
+
+function CustomThree() {
+	var frm = document.forms["signup"];
+  	var max = frm.elements['info[]'].length;
+  	for (var idx = 0; idx < max; idx++) {
+		if (eval("frm.elements['info[]'][" + idx + "].checked") == true) {
+   			return true;
+   		}
+	}
+	alert('Please check at least one disease, or check "none"');
+	return false;
+}
+//	fval.setAddnlValidationFunction("DoCustomValidation");
+//	fval.setAddnlValidationFunction("DoCustomValidation2");
+	fval.setAddnlValidationFunction("CustomThree");
+//-->
+</script>
+
+
+</div>
+
+<!-- ************************** END DIV WINDOW 3 *******************************-->
+
+
+
+
+</div>
+        </div>
+
+        
+
+       
 
 </body></html>
