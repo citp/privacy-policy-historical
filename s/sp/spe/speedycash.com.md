@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the speedycash.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219011355id_/http%3A//www.speedycash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedycash.com privacy policy that was archived on 2010-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100422094749id_/http%3A//www.speedycash.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | SpeedyCash.com
 
   * [Home](http://www.speedycash.com/ "Fast Payday Loans &amp; Cash Advance Services Online") » 
   * Privacy
