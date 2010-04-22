@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zuberance.com privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019130043id_/http%3A//www.zuberance.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuberance.com privacy policy that was archived on 2010-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100422233219id_/http%3A//zuberance.com/privacy.html) for the most accurate reproduction.*
 
 # Zuberance - Turning word of mouth into sales now for brands.
 
