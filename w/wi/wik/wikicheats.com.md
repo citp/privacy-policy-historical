@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikicheats.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627171611id_/http%3A//www.wikicheats.com/index.php/WikiCheats%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikicheats.com privacy policy that was archived on 2010-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100423111400id_/http%3A//wikicheats.gametrailers.com/index.php/WikiCheats%3APrivacy_policy) for the most accurate reproduction.*
 
 # WikiCheats:Privacy policy - WikiCheats
 
@@ -20,16 +20,13 @@ This is the official privacy policy (“ _Privacy Policy_ ”) for the Internet 
 
 
   
-This Site is offered and made available only to users 13 years of age or older who reside in the United States of America, its territories and possessions (“ _U.S._ ”). **If you are not yet 13 years old or the required greater age for certain features, or do not reside in the U.S., please discontinue using the Site immediately, or if, for any reason, you do not agree with this Privacy Policy, please do not participate in the features, activities and services that require you to provide your Personal Information**. This Privacy Policy is a part of the terms and conditions which are set forth in our [Terms of Use Agreement](https://web.archive.org/index.php/Terms_of_use "Terms of use"). Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement. Both the Privacy Policy and Terms of Use Agreement are legally binding on all users. 
+This Site is offered and made available only to users 13 years of age or older who reside in the United States of America, its territories and possessions (“U.S.”) and certain features on this Site (including, but not limited to, user registration and newsletter signups) may be subject to heightened age and/or other eligibility requirements. If you are not yet 13 years old or the required greater age for certain features, do not reside in the U.S., do not meet any other eligibility requirements, and/or do not agree with this Privacy Policy, please do not participate in the features, activities and services that require you to provide your Personal Information because by using or attempting to use the Site, you certify that you are at least 13 years of age or other required greater age for certain features and meet any other eligibility and residency requirements of the Site. This Privacy Policy is a part of the terms and conditions which are set forth in our [Terms of Use Agreement](https://web.archive.org/index.php/Terms_of_use "Terms of use"). Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement. Both the Privacy Policy and Terms of Use Agreement are legally binding on all users. 
 
   
 We reserve the right to revise this Privacy Policy at any time by updating this posting without advance notice to you. Such revisions shall be effective to you immediately upon posting. Notice of material changes to either document will be posted on the Site’s homepage and/or will be provided by e-mailing you or notifying you upon login about these changes; the form of such notice is at our discretion. However, we encourage you to check this Privacy Policy and Terms of Use Agreement often for updates. 
 
   
 We are committed to protecting users' privacy. Keeping the Personal Information you share with us on the Site secure and ensuring your understanding of how we collect, use, disclose and maintain your Personal Information is important to us. We maintain reasonable physical, electronic and procedural safeguards to protect your Personal Information and while no data transmission over the Internet is 100% secure from intrusion, we have used and will continue to use commercially reasonable efforts to ensure the protection of your Personal Information. 
-
-  
-
 
 If you are a resident of the State of California, under the California Civil Code, you have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes. Alternatively, the law provides that if a company has a Privacy Policy that gives either an opt-out (which we may sometimes refer to as “ _unsubscribe_ ”) or opt-in choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options. 
 
@@ -67,16 +64,10 @@ Attn: Your California Privacy Rights
 
 c/o Privacy Administrator 
 
-  
-
-
 The Site is designed and targeted to U.S. audiences and is governed by and operated in accordance with the laws of the U.S. We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations. By your participation in our Site activities, you certify that you are at least 13 years of age and a resident of the U.S. If you are located in the European Union or elsewhere outside of the U.S. and you participate in activities on this Site contrary to our policy that only U.S. residents are eligible for certain activities, you do so at your own risk and initiative, and you, not us, are responsible for compliance with any applicable local and national laws. Please be aware that any Personal Information you provide to us or we obtain as a result of your use of this Site will be transferred to the U.S. and subject to U.S. law. By using this Site, participating in any Site activities, and/or providing us with your Personal Information, you consent to this transfer and processing of Personal Information to and in the U.S., and in other countries that may not have an equivalent level of protection or a level of data protection considered adequate in the European Union or European Economic Area. Consequently, you hereby waive any claims that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction. All users of the Site are required to provide true, current, complete and accurate Personal Information when prompted and we will reject and delete any entry that we believe in good faith to be false, fraudulent, or inconsistent with this Privacy Policy. 
 
   
 Your continued use of the Site indicates your acceptance of this Privacy Policy and of the collection, use, disclosure, management and storage of your Personal Information as described below. We may from time to time, transfer or merge any Personal Information collected off-line to our online databases or store off-line information in an electronic format. We may also combine Personal Information we collect online with information available from other sources, including information received from our Affiliates, marketing companies, or Advertisers (as defined in the [Terms of Use Agreement](https://web.archive.org/index.php/Terms_of_use "Terms of use")). This Privacy Policy covers all such Personal Information and will remain in full force and effect as long as you are a user of the Site, even if your use of or participation in any particular service, feature, function or promotional activity terminates, expires, ceases, is suspended or deactivated for any reason. 
-
-  
-
 
 ##  1\. Collection and Use of Personal Information
 
@@ -87,50 +78,23 @@ We collect Personal Information about you when you visit the Site and input info
 
     **a. Collection of Personal Information During Registration**. To the extent we offer user registration on the Site, to register as a member of the Site, you are required to select a user name and password (together, your “ _User ID_ ”), and may be required to also provide other Personal Information, such as your email address, first and last name, gender, date of birth, country and zip code. Additional Personal Information may be requested during the registration process (but not required), such as cable/satellite provider, ethnic information, and annual income. We will allow you to change the password portion of your User ID, as well as certain other Personal Information or Sensitive Personal Information you have given us in order to keep your information current, but once you select a user name you will not be able to change that user name provided to us during registration and which is associated with your User ID. Among other things, these kinds of information help us securely identify you as a registered or permitted user of the Site and our features and functions. You will not be able to change your date of birth without sufficient verification. 
 
-  
-
-
     All member benefits are free. As a registered user of the Site, from time to time, we may also provide you with certain options to subscribe to a selection of free email newsletters and other periodic information. You may select such options by opting-in at the time of registration or by responding to an offer or invitation at a later date. You will also have the right to opt-out (unsubscribe) or change your preferences at any time by logging in with your User ID and changing the settings in your account. You may also opt-out to particular email communications by responding to that email and using the “unsubscribe” or opt-out procedure included in that communication. 
-
-  
-
 
     If you are a registered user, you acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the Site in connection with your registration. You also agree to this Privacy Policy and the Terms of Use Agreement. 
 
-  
-
-
     **b. Collection of Personal Information During Registration or In Connection with Certain Features and Functions**. During registration (and possibly at certain other times to enable your use of other features or functions or for security purposes), you will be required to provide us with certain information about you in order for us to allow you to use the features and functions that we may offer on the Site, such as chat rooms, message boards, electronic mail services, messaging services, auctions, shopping, registration and member profile pages. 
 
-  
-
-
     **c. Collection of Personal Information in Connection with Promotions such as Contests and Sweepstakes**. To the extent we offer user registration on the Site, registration as a member of the Site is not always required to enter Promotions such as contests and sweepstakes. There may be a separate registration process which will require the submission of all or some of the following: your first and last name, street address, city, state and zip code, email address, telephone number and date of birth. Additional Personal Information may be requested depending on the specific Promotion, but submission of such information may be optional. The Promotion’s entry page and/or Rules will provide the specific requirements. You may also have the opportunity to opt-in to special Promotions or offers from our Advertisers in connection with many of these types of Promotions. 
-
-  
-
 
     **d. Use of Personal Information in Connection with Promotions and Offers; Opt-out Procedures**. We, or our Affiliates, may contact the Site’s registered users or other users that have registered for or participated in various Site events, Promotions, or transactions, or we may send offers for the purchase of goods and/or services that may be of interest to users. 
 
     You may "opt out" of receiving marketing and promotional e-mails or text messages from us at any time by going to the Site’s home page, clicking the "my preferences" link, to change or edit your preferences. You may also use the opt-out mechanism that is contained in an email or text message. However, we, or our Affiliates, may continue to contact you via email for administrative or informational purposes, including follow-up messages regarding the administration of your account, any services, features or functions you have enrolled in or registered to use, any Promotions you have participated in or have entered, goods and/or services or Products you have ordered, or other transactions you have undertaken with the Site. 
 
-  
-
-
     In the event that we, or our Affiliates, unknowingly sends an email or text message to a child (a person under the age of 13) or Ineligible Teenager (as defined in _Section 9_ ) who has registered with the Site or its features in violation of the Site’s defined in the [Terms of Use Agreement](https://web.archive.org/index.php/Terms_of_use "Terms of use"), the child (or Ineligible Teenager) or the child’s (or Ineligible Teenager’s) parent or legal guardian always has the right to unsubscribe (opt-out) from receiving future emails or text messages via the unsubscribe mechanism contained in the email or message, or to request termination of the child’s or Ineligible Teenager’s registration and status as a registered user with the Site. The same unsubscribe process is available to a parent or legal guardian of a minor (a person under the age of 18, or the age of majority in your state). Please see the “Review, Update, or Delete Your Personal Information” Section below for details. 
-
-  
-
 
     **e. Sharing of Aggregate Information with Third Parties**. Some of the aggregate user data we collect may be shared with Advertisers, our Affiliates, and other business partners of the Site, its Parent Companies, and/or its Affiliates, but we do not give any Personal Information to them as part of the relationship except as described in this Privacy Policy. Use of their tracking technology is subject to their own privacy policies. 
 
-  
-
-
     **f. Use of Communities**. If you use any of the Communities features and functions made available on or through the Site, please remember that any information disclosed in these venues is automatically made public. You should exercise caution when disclosing any Personal Information in the Communities, as you do not know who will access and use your Personal Information or for what purposes. GT is in no way responsible for the accuracy, use, or misuse of any information, including Personal Information, that you disclose or receive through these venues and you should assume that any disclosure you do make in these venues will be available publicly, even without your knowledge or authorization. 
-
-  
-
 
 ##  2\. Wireless Marketing Services and Promotional Opportunities
 
@@ -142,54 +106,27 @@ We caution that most wireless transmissions are not secured and there is a great
   
 Users that register for GT’s wireless marketing services acknowledge, understand and agree that they will be charged by the user’s wireless carrier for all messages sent to the user from GT. Standard messaging rates will apply, unless noted otherwise. **Under no circumstances will the Site, GT, its Parent Companies, or Affiliates be responsible for any wireless email or text messaging charges incurred by a user or by a person that has access to a user’s wireless device, telephone number, or email address**. 
 
-  
-
-
     **a. Registration**. To the extent we provide wireless marketing services, there are two registration methods provided for GT’s wireless marketing services. Standard rate Promotions will be subject to either the “single opt-in” or the “double-opt-in” (Site/SMS) method, at the discretion of GT depending on the type of Promotion. Premium rate services will require the “double opt-in” (Site/SMS or SMS/SMS) method. 
-
-  
-
 
     
 
     **1) Single Opt-in Method** : In response to print, radio, television, Internet, or other promotional messages, users will be directed to send a specific word or code via a text message to a designated telephone number to register for the service promoted. The user’s voluntary submission of the designated word or code to GT will mean that the user has freely and affirmatively granted permission to GT to send text messages to him or her. GT will thank the user for his or her registration by sending a “Thank you” message. The user may terminate the service at any time by using the unsubscribe command in any text message from GT or by sending a text message to GT that says “STOP”, “END”, “CANCEL”, “REMOVE”, “UNSUBSCRIBE” or “QUIT”. 
 
-  
-
-
     
 
     **2) Double Opt-in (Site/SMS) Method** : In response to print, radio, television, Internet, or other promotional messages, users will be directed to this Site to start the registration process. The user must affirmatively consent to GT’s sending of wireless messages to his or her designated wireless device by submitting a telephone number (or wireless email address, only if requested by GT) and by clicking the consent statement on the Site’s registration page. The user must also agree to the Site’s Privacy Policy (this page) and [Terms of Use Agreement](https://web.archive.org/index.php/Terms_of_use "Terms of use") before the online registration process is completed. GT will then send a “Confirmation” message to the user’s designated wireless device and will request that the user confirm that he or she has agreed to receive messages from GT to that particular telephone number (or wireless domain name when appropriate). The user must respond to the “Confirmation” message with a text message that states “YES” or “Y” that will indicate the user’s acceptance of GT’s wireless marketing service. Until the user responds to the “Confirmation” message, the user is not registered for the specific wireless marketing service subject to the Promotion. A user may respond to the “Confirmation” message at any time provided that GT may choose to terminate offering wireless marketing service at any time and the user’s response to the “Confirmation” is only valid if the response is received while GT continues to offer the specific wireless marketing service. 
-
-  
-
 
     
 
     **3) Double Opt-in (SMS/SMS) Method** : In response to print, radio, television, Internet, or other promotional messages, users will be directed to send a specific word or code via a text message to a designated telephone number to register for the service promoted. GT will then send a “Confirmation” message to the user’s designated wireless device and will request that the user confirm that he or she has agreed to receive messages from GT to that particular telephone number (or wireless domain name when appropriate). The user must respond to the “Confirmation” message with a text message that states “YES” or “Y” that will indicate the user’s acceptance of GT’s wireless marketing service. Until the user responds to the “Confirmation” message, the user is not registered for the specific wireless marketing service subject to the Promotion. A user may respond to the “Confirmation” message at any time provided that GT may choose to terminate offering wireless marketing service at any time and the user’s response to the “Confirmation” is only valid if the response is received while GT continues to offer the specific wireless marketing service. 
 
-  
-
-
     **b. Termination of Wireless Services by User**. Regardless of which one of the above opt-in methods was used to register, users may revoke their consent to receive messages from GT by the following procedure: 
-
-  
-
 
     A user may cancel one or more services via his or her wireless device at any time by using the unsubscribe mechanism provided by GT at the time the message is sent, or by sending a text message that says “STOP”, “END”, “CANCEL”, “REMOVE”, “UNSUBSCRIBE” or “QUIT”. GT will terminate the user’s registration for the most recent wireless service sent to the user. Any of these words followed by the word “ALL” in the user’s termination request will cancel all of the user’s registered wireless services with GT. If the user unsubscribes from one or all GT service(s) via his or her wireless device, the service(s) will be terminated immediately and will cancel the user’s previous opt-in. 
 
-  
-
-
     **c. Termination of Wireless Services by GT**. A user understands, acknowledges and agrees that GT may, in its sole discretion and without liability to any user, terminate its offer of any specific wireless marketing service or all wireless marketing services at any time without advance notice. GT may provide notice of terminations or changes in services on this Site. 
 
-  
-
-
     **d. Use of Information**. GT will not use a wireless telephone number, wireless or conventional Internet email address, or other Personal Information submitted for its wireless marketing services for any other purpose but to provide the service requested, unless we provide advance notice of any other use. We will not share such Personal Information with Advertisers or other third party marketers unless you opt-in to such disclosure. We will share such Personal Information with the operational service providers that assist us in delivering these wireless services to you and with the Parent Companies and Affiliates. 
-
-  
-
 
 ##  3\. Accuracy and Confidentiality
 
@@ -201,15 +138,9 @@ You are solely responsible for maintaining the strict confidentiality of your Us
   
 Bear in mind that when you submit information to us, it does not guarantee that we will permit you to use any or all of the features or functions of the Site. 
 
-  
-
-
 ##  4\. Cookies and Other Aggregate Data
 
 Cookies and Other Aggregate Data: We use 'cookie' technology to collect data regarding your visits to the Site. This data is stored in aggregate form and is not used to identify any particular user or individual. We use cookies and similar tracking technologies in a variety of ways, including: 
-
-  
-
 
   * Keeping count of your return visits to the Site or our Parent Companies’, Affiliates’, Advertisers' or partners' sites; 
   * Accumulating and reporting aggregate, statistical information in connection with the Site; 
@@ -224,32 +155,17 @@ This Site may contain advertisements, references and links to other websites and
   
 Although we may track the numbers of users to inform us on how best to update the Site and enhance the experience for all users, Personal Information is not extracted in this process. We use tracking information on an aggregated basis to help us operate the Site, enhance and improve our services, improve the look of the Site and display advertising and marketing information. You can choose to have your computer warn you each time a cookie or image tag is being sent, or you can choose to turn off all such devices. This is done through your browser. If you turn cookies off, you may not have access to many features of the Site that make your Internet experience more efficient and enjoyable – like the features mentioned above – and some of our other services will not function properly. 
 
-  
-
-
 ##  5\. Privacy of Your Postings
 
 We respect the privacy of the contents of any Personal Information related to or contained in a Posting, unless the information is intended to be disclosed (such Personal Information, except as intended to be disclosed, is called “ _Confidential Personal Information_ ”). However, we reserve the right to monitor, edit, and disclose your use of the Site or Confidential Personal Information to a third party, if we believe such action is required by law or is necessary to protect and defend our rights, to enforce this Privacy Policy or the terms of the Terms of Use Agreement, or to protect the interests of our users, Advertisers, Parent Companies, Affiliates, licensors, suppliers, operational service providers, and others. Please see the [Terms of Use Agreement](https://web.archive.org/index.php/Terms_of_use "Terms of use") for details regarding Postings. 
-
-  
-
 
 ##  6\. Disclosure to Third Parties
 
 We do not sell, rent, lease or disclose your Personal Information to unaffiliated entities or entities that are not our Advertisers, except in the limited circumstances listed below. As stated above, we will disclose Personal Information related to or contained in a Posting in connection with the display of and other services relating to such Posting as such Personal Information is intended to be disclosed. When we plan to disclose your Personal Information to Advertisers, we ask for you to opt in to do so, in which case their use of your information is subject to the Advertisers’ own privacy policies. We may disclose Personal Information to Affiliates for marketing and/or administrative purposes and you will have the right to opt-out of such disclosure for marketing purpose. (For opt-out procedures, please see the section of this Privacy Policy above entitled “Use of Personal Information in Connection with Promotions and Offers; Opt-Out Procedures”). 
 
-  
-
-
     **a. Co-Branded Services and Features**. The Site may also offer co-branded services and features, such as events and Promotions that we put together with another company or our Affiliates (" _Co-Branded Partner_ "). Such services and features may be hosted on the Site and/or our Co-Branded Partner’s website. We may share your Personal Information with our Co-Branded Partner and your voluntary use of or participation in a co-branded service or feature means that you opt-in and give your affirmative consent to both the Site and our Co-Branded Partner to collect and use your Personal Information provided during the registration process and/or in connection with the specific co-branded feature or service for the fulfillment of the feature or service and for marketing or administrative purposes. If you wish to opt-out of a Co-Branded Partner's future use of your Personal Information for marketing purposes, you will need to contact the Co-Branded Partner directly. The Co-Branded Partner will be identified on the co-branded feature or service. Registered or other users that participate in certain services relating to Postings, such as user video uploads, agree to have certain Personal Information posted on the Site or Platforms (as defined in the [User Content Submission Agreement](https://web.archive.org/index.php?title=Sumbission_agreement&action=edit "Sumbission agreement") that relates to user video uploads) or, if such feature is offered in connection with a Co-Branded Partner, on our Co-Branded partner’s website in connection with the display of the uploaded video and posted on any platform that the uploaded video may be posted. Registered or other users that upload videos may also be required to submit additional Personal Information. 
 
-  
-
-
     **b. Operational Service Providers**. We also have the right to disclose your Personal Information to third parties for the purpose of administering and maintaining the Site’s services, features, functions and operations. We will refer to these third parties as “ _operational service providers_ ”. We use operational service providers to efficiently provide the full range of content, activities, services, features and functions we bring you and we request that our operational service providers also protect your privacy and not disclose your Personal Information or Sensitive Personal Information to third party marketers that are not associated with the Site or the GT Channel. Additionally, such operational service providers are not permitted to use your Personal Information or Sensitive Personal Information for their own marketing or promotional purposes. 
-
-  
-
 
     **c. Other Non-Affiliated Third Parties**. We will make your Personal Information and Sensitive Personal Information available to non-affiliated third parties in the following limited circumstances: 
 
@@ -264,15 +180,9 @@ We do not sell, rent, lease or disclose your Personal Information to unaffiliate
 
 We maintain reasonable standards of security and confidentiality. However, for most Internet sites, it is possible that third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission. We conduct financial transactions via secured transmissions but may not always secure other parts of the Site. We also limit access to the Site by our own employees to those individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes. We request that our operational service providers follow the same policy. 
 
-  
-
-
 ##  8\. Phishing
 
 Phishing attacks attempt to steal consumers’ personal identity data and financial account credentials. “Phishers” use ‘spoofed’ e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging Personal Information such as credit card numbers, account usernames, passwords, and social security numbers. **WE DO NOT SEND EMAILS ASKING YOU TO PROVIDE OR CONFIRM SENSITIVE PERSONAL INFORMATION OR YOUR USERNAME OR PASSWORD!** If you receive such email communication, please forward it immediately to the Site’s Privacy Administrator at privacy-admin@wikicheats.com, and then immediately delete the fraudulent email from your computer. 
-
-  
-
 
 ##  9\. Review, Update or Delete Your Personal Information
 
