@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valmont.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109051510id_/http%3A//www.valmont.com/lgcy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valmont.com privacy policy that was archived on 2010-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100423070432id_/http%3A//www.valmont.com/lgcy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
