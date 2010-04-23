@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigumbrellawebdirectory.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621213911id_/http%3A//blog.bigumbrellawebdirectory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigumbrellawebdirectory.com privacy policy that was archived on 2010-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100424011021id_/http%3A//blog.bigumbrellawebdirectory.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Big Umbrella Web Directory Blog
+# Big Umbrella Web Directory Blog » Privacy Policy
 
 ## Privacy Policy
 
@@ -19,7 +19,7 @@ bigumbrellawebdirectory.com does use cookies to store information about visitors
 **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on bigumbrellawebdirectory.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to bigumbrellawebdirectory.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
