@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthformula.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418234632id_/http%3A//www.healthformula.com/cs/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthformula.com privacy policy that was archived on 2010-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100423145224id_/http%3A//www.healthformula.com/cs/privacy_policy.html) for the most accurate reproduction.*
 
 # HealthFormula
 
@@ -36,3 +36,16 @@ At any time, you may request from us the information we have collected from you.
 Cookies are pieces of information that are stored by your Web browser on your computer's hard drive. Health Formula, Inc cookies do not contain any personal identification information, but they do enable us to store items in your shopping cart between visits. Most Web browsers automatically accept cookies, but you can usually change your browser's settings to prevent that. You can also delete all the cookies on your computer at any time. 
 
 Even without a cookie, you can still use most of the features on www.dermboutique.com - including placing items in your shopping cart and purchasing them online. 
+
+**Contact Us:**
+
+You may write to us at:
+
+Health Formula  
+2495 Stirling Road # 70  
+Dania Beach, FL 33312 
+
+Call us: 1-800-414-8009,
+
+or send us an [email](https://web.archive.org/web/20100423145224id_/http%3A//www.healthformula.com/contact.html).  
+
