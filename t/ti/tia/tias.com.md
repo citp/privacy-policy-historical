@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tias.com privacy policy that was archived on 2009-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090222193027id_/http%3A//www.tias.com/other/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tias.com privacy policy that was archived on 2010-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100423112918id_/http%3A//www.tias.com/other/privacy_statement.html) for the most accurate reproduction.*
 
 # TIAS Privacy Statement
+
+**Privacy Policy**
 
 This site is maintained and operated by TIAS.COM, Inc. ('TIAS'). TIAS.com is now the largest "fixed price" source of antiques and collectibles on the Internet, serving over 120 million page views per month. We host approximately 1,000 online antique and collectible merchants and offer a variety of services for collectors and hobbyists -- among them free virtual antique cards, free newsletters, low-cost classified ads and discussion groups.
 
