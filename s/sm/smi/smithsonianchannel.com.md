@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smithsonianchannel.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222220645id_/http%3A//www.smithsonianchannel.com/site/smithsonian/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithsonianchannel.com privacy policy that was archived on 2010-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100423081301id_/http%3A//www.smithsonianchannel.com/site/smithsonian/privacy.do) for the most accurate reproduction.*
 
 # Smithsonian Channel: Original Programming in HD and On Demand: Privacy Policy
 
