@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ladyboypussy.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218210739id_/http%3A//ladyboypussy.com/tour1/index.php%3Fsection%3D291%26nats%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladyboypussy.com privacy policy that was archived on 2010-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100423135145id_/http%3A//www.ladyboypussy.com/tour1/index.php%3Fsection%3D291%26nats%3D) for the most accurate reproduction.*
 
 # Ladyboy Pussy - Sexy Asian Ladyboys
 
