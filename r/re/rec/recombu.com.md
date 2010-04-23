@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recombu.com privacy policy that was archived on 2009-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090817233527id_/http%3A//recombu.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recombu.com privacy policy that was archived on 2010-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100423114421id_/http%3A//recombu.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Recombu :: read > compare > buy mobile phones
 
