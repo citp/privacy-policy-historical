@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilsonlanguage.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601090611id_/http%3A//www.wilsonlanguage.com/WLT_Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilsonlanguage.com privacy policy that was archived on 2010-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100424005526id_/http%3A//www.wilsonlanguage.com/WLT_Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy and Agreement
 
@@ -18,7 +18,7 @@ Our primary means of gathering personal data are our on-line registration applic
 
 Please note that on occasion Wilson Language Training Corporation (WLT) receives inquiries as to whether an individual is certified in Wilson or has otherwise participated in Wilson Professional Development.  Our policy is to not disclose personal information with regard to participants in our programs.  WLT will, however, unless specifically requested in writing otherwise, share information regarding certification and the level of participation in our professional development programs.  
 
-When you provide information on our Material Order Form to make a purchase, the transactional information that you provide is transmitted in a safe, encrypted format.  WLT is a member in good standing of VeriSign, Inc., a leading provider of Internet Trust Services.  The Trust Certificate issued to WLT from VeriSign, Inc. confirms our ability to conduct trusted and secure electronic commerce and communications over IP networks.  WLT uses SSL (Secure Socket Layer) technology, an industry-standard protocol used to establish secure communications between a web server and a client.  We also currently support 128-bit encryption- the most secure way currently available to protect your credit card information.  To maintain your security, your encrypted credit card information is sent to the credit card authority and approval status is sent back to us.  Thus, your credit card information is not stored on our network. 
+When you provide information on our Material Order Form to make a purchase, the transactional information that you provide is transmitted in a safe, encrypted format.  WLT is a member in good standing of VeriSign, Inc., a leading provider of Internet Trust Services.  The Trust Certificate issued to WLT from VeriSign, Inc. confirms our ability to conduct trusted and secure electronic commerce and communications over IP networks.  WLT uses SSL (Secure Socket Layer) technology, an industry-standard protocol used to establish secure communications between a web server and a client.  We also currently support 128-bit encryption- the most secure way currently available to protect your credit card information.  To maintain your security, your encrypted credit card information is sent to the credit card authority and approval status is sent back to us.
 
 **2B. Email, Direct Communications and Other Forms**
 
@@ -32,7 +32,7 @@ We may use Personally Identifiable Information you give to us to provide you wit
 
 You may opt out of receiving email or other information from us or have your Personally Identifiable Information deleted from our database by following the directions set out in Section 7 ("How to Remove Your Information from Our Database"). 
 
-We will not sell or disclose any Personally Identifiable Information you provide at our Site to any unrelated third party without your express permission.  By "unrelated third parties" we mean anyone who is not involved in running the WLT Site, not involved in fulfilling requests you make at our Site, or not providing college credits through an affiliation with WLT.
+We will not sell or disclose any Personally Identifiable Information you provide at our Site to any unrelated third party without your express permission. 
 
 Back to top
 
@@ -110,7 +110,7 @@ Back to top
 
 **13.   Complete Agreement**
 
-In addition to this Privacy Policy, your use of our Site is also subject to our Terms of Use. Together with our Terms of Use, this Privacy Policy constitutes the entire agreement between you and WLT with respect to use of the WLT Site.  The Wilson Academy™ and Trainer Space™ areas of our website may have additional Terms of Use which you will be notified of and subject to when you enter those areas.  
+In addition to this Privacy Policy, your use of our Site is also subject to our Terms of Use. Together with our Terms of Use, this Privacy Policy constitutes the entire agreement between you and WLT with respect to use of the WLT Site.  The Wilson Academy® and Trainer Space™ areas of our website may have additional Terms of Use which you will be notified of and subject to when you enter those areas.  
 
 Back to top
 
@@ -130,5 +130,5 @@ Oxford, MA 01540
 
 Back to top
 
-Effective:  November 1, 2007  
+Effective:  November 1, 2007; section 2A. revised Feb. 1, 2010.  
 © 2007 Wilson Language Training Corporation. All rights reserved.
