@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bnsf.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231084540id_/http%3A//www.bnsf.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnsf.com privacy policy that was archived on 2010-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100423145720id_/http%3A//www.bnsf.com/privacy_policy.html) for the most accurate reproduction.*
 
 # BNSF Railway Privacy Policy
 
