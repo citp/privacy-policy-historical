@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tidaltv.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924143544id_/http%3A//www.tidaltv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tidaltv.com privacy policy that was archived on 2010-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100424003832id_/http%3A//www.tidaltv.com/privacy.html) for the most accurate reproduction.*
 
 # TidalTV Privacy Policy
 
@@ -10,7 +10,7 @@ To opt-out of TidalTV targeted advertising please click here.
 
 **What this privacy policy covers**
 
-This policy covers how TidalTV treats information that TidalTV collects and receives through our services, which include TidalTV’s video advertising network and ad targeting solutions and any other technology, products and/or services offered by TidalTV (collectively referred to as the “Services”), including your past use of the Services. For more information about our Services, please [click here](https://web.archive.org/web/20090924143544id_/http%3A//www.tidaltv.com/index.html).
+This policy covers how TidalTV treats information that TidalTV collects and receives through our services, which include TidalTV’s video advertising network and ad targeting solutions and any other technology, products and/or services offered by TidalTV (collectively referred to as the “Services”), including your past use of the Services. For more information about our Services, please [click here](https://web.archive.org/web/20100424003832id_/http%3A//www.tidaltv.com/index.html).
 
 This policy does not apply to information about you collected by TidalTV's third party advertisers and publishers, or other third parties linked to or otherwise accessible via the Services. The information collected or received by any such providers and third parties is subject to their own privacy policies.
 
@@ -18,11 +18,11 @@ This policy does not apply to information about you collected by TidalTV's third
 
 **Personal Information**
 
-TidalTV does not require you to provide personal information in order to use many of the Services. To enhance your experience when using the Services, you may choose to register with TidalTV. Registering with TidalTV is optional. By registering, you gain access to enhanced features, including a variety of personalized programming and functionality, favorite program management, communication widgets and other offerings. If you register with TidalTV, you will be asked to provide TidalTV with personally identifiable information, which may include name, street address, email address and other personal information. When you register and sign-in to use the Services, you are not anonymous to us. TidalTV may combine information that we have about you with information we obtain from business partners and other companies.
+TidalTV does not require you to provide personal information in order to use many of the Services. Personal information is information that personally identifies you, such as name, street address and email address. On some pages of TidalTV’s web sites, you may be asked to provide personal information, such as when submitting a request for a media kit or requesting that TidalTV contact you. Additionally, if you enter into a business relationship with TidalTV, we may require that you provide us with personal information for administrative purposes, such as maintaining account information, preparing invoices and issuing payment. If you do provide us with personal information, your information shall only be used for the purpose for which it is submitted.
 
 **Non-Personally Identifiable Information**
 
-When you visit a web site in our video advertising network and view an advertisement that we’ve served to that site, TidalTV uses cookies and other technologies to record and store anonymous information about your interaction with the Services, most commonly known as “click-stream data”. Click-stream data can include information such as IP address, date/time of visit, browser type, web pages visited and information on your interaction with the Services, including whether you interacted with the advertisement (e.g., viewed the ad to completion or clicked on the ad), and what content you viewed. We may also use shared objects (sometimes referred to as “Flash cookies”) to store click-stream data and, in some instances, we may also use web beacons (also referred to as “pixels” or “gifs”) in connection with cookies and shared objects, in each case, to assist in providing you with more relevant, meaningful advertising experience. All browser activity reporting is done anonymously. For more detailed information on cookies, web beacons and shared objects, please see our [FAQs](https://web.archive.org/web/20090924143544id_/http%3A//www.tidaltv.com/faq.html)
+When you visit a web site in our video advertising network and view an advertisement that we’ve served to that site, TidalTV uses cookies and other technologies to record and store anonymous information about your interaction with the Services, most commonly known as “click-stream data”. Click-stream data can include information such as IP address, date/time of visit, browser type, web pages visited and information on your interaction with the Services, including whether you interacted with the advertisement (e.g., viewed the ad to completion or clicked on the ad), and what content you viewed. We may also use shared objects (sometimes referred to as “Flash cookies”) to store click-stream data and, in some instances, we may also use web beacons (also referred to as “pixels” or “gifs”) in connection with cookies and shared objects, in each case, to assist in providing you with more relevant, meaningful advertising experience. All browser activity reporting is done anonymously. For more detailed information on cookies, web beacons and shared objects, please see our [FAQs](https://web.archive.org/web/20100424003832id_/http%3A//www.tidaltv.com/faq.html)
 
 In order to optimize the effectiveness of the Services for our clients, we supplement the click-stream data we collect with non-personally-identifiable behavioral and demographic data from third party data providers, publishers and other partners we work with. This anonymous data may include such things as zip code, age, gender and income range.
 
@@ -52,7 +52,7 @@ TidalTV will not rent, sell or share information about you with other people or 
 
 **Third Party Service Providers**
 
-TidalTV and its advertisers may use third party ad networks and technology providers to help present advertisements via the Services. These third party providers may also use cookies, web beacons, or similar technologies on your computer to collect click-stream data. The use of cookies, web beacons, or similar technologies by such third-party providers is subject to their own privacy policies, not TidalTV's. Please contact them directly for information about their privacy practices. 
+TidalTV and its advertisers may use third party ad networks and technology providers to help present advertisements via the Services. These third party providers may also use cookies, web beacons, or similar technologies on your computer to collect click-stream data. The use of cookies, web beacons, or similar technologies by such third-party providers is subject to their own privacy policies, not TidalTV's. Please contact them directly for information about their privacy practices. In addition, the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp) offers useful information about ad networks, including information about how to opt-out of their information collection. 
 
 **Access To and Choices About Your Personal Information – Opting Out**
 
@@ -62,7 +62,7 @@ TidalTV believes users should have information necessary to make informed decisi
 
 To opt-out of TidalTV cookies, please click here:
 
-If you choose to opt-out of TidalTV cookies, your computer will request an “opt-out cookie” that will prevent us from matching your computer with your anonymous click-stream data and from using such data to deliver targeted advertising to your computer’s browser. The TidalTV opt-out cookie **_must_** remain on your computer in order for us to recognize you as an opt-out user. If you use multiple computers or multiple browsers you will need to opt-out of receiving cookies on each computer and for each browser. Also, if you change computers or delete cookies from your computer you will need to repeat this opt-out process.
+If you choose to opt-out of TidalTV cookies, your computer will request an “opt-out cookie” that will prevent us from matching your computer with your anonymous click-stream data and from using such data to deliver targeted advertising to your computer’s browser. The TidalTV opt-out cookie must remain on your computer in order for us to recognize you as an opt-out user. If you use multiple computers or multiple browsers you will need to opt-out of receiving cookies on each computer and for each browser. Also, if you change computers or delete cookies from your computer you will need to repeat this opt-out process.
 
 **Personal Information**
 
@@ -78,7 +78,7 @@ The Services are not developed or intended for children. If you believe your chi
 
 **How to Contact Us**
 
-If you have any questions or concerns about TidalTV’s Privacy Policy or its implementation, you may contact us at this email address: [privacy@TidalTV.com](mailto:privacy@TidalTV.com), or you can send correspondence to the following address:
+If you have any questions or concerns about TidalTV’s Privacy Policy or its implementation, you may contact us at this email address: [privacy@TidalTV.com](mailto:privacy@TidalTV.com) , or you can send correspondence to the following address:
 
 Privacy  
 TidalTV, Inc.  
@@ -90,7 +90,7 @@ Baltimore, MD 21224
 
 TidalTV may update this Privacy Policy from time to time, and so you should review this policy periodically. If there are significant changes to TidalTV’s information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from the Services, as well as for special features and services not described in this Policy that may be introduced in the future.
 
-Last Updated: September 11, 2009
+Last Updated: December 9, 2009
 
   * [Return to Top]
 
