@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clubwpt.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430205020id_/http%3A//www.clubwpt.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubwpt.com privacy policy that was archived on 2010-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100424195700id_/http%3A//www.clubwpt.com/privacy_policy.html) for the most accurate reproduction.*
 
-# ClubWPT: Privacy Policy
+# Privacy Policy at ClubWPT
 
 This Privacy Policy describes the information we collect from you when you visit our Website (“Website”), how we use that information, and under what circumstances we disclose it. It will also give you more information about how to manage the personal information that you provide to us through the Website. This Privacy Policy applies only to information you provide to us on-line while visiting or using our Website or using our Materials. It does not apply to information we have obtained or may obtain offline through other traditional means. The Privacy Policy should be read in conjunction with the Terms of Use located on the Website.
 
