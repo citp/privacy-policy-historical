@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcunderwear.com privacy policy that was archived on 2009-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090212175540id_/http%3A//abcunderwear.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcunderwear.com privacy policy that was archived on 2010-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100424215424id_/http%3A//abcunderwear.com/privacypolicy.html) for the most accurate reproduction.*
 
 # ABCunderwear.com Privacy Policy
 
@@ -12,6 +12,4 @@ DISCREET BILLING & SHIPPING: Your package will not mention ABC Underwear. It wil
 
 In the event of a dispute, including claim of non-receipt or charge-back, we may provide personal information and details of transactions to any individual or organization we deem appropriate to help resolve, prevent further abuse or bring prosecution for fraud or other charges.
 
-We do not rent or sell your name, address, email address or other personal information although we reserve the right to do so to carefully screened companies in the future. We only use telephone numbers if we need to contact you regarding an order. To be removed from newsletter lists simply reply to the newsletter itself with the word "remove". To be omitted from our mailing list, send your request to: ABC Online Resources, 11049 N. 23rd Dr, Ste 107, Phoenix, AZ 85029
-
-Our privacy policy is intended to make known our intentions, it is not a contractual obligation of ABC Online Resources, LLC and although we do not intend to it is subject to change without notice. Check back here for the most recent policy.
+We do not rent or sell your name, address, email address or other personal information although we reserve the right to do so to carefully screened companies in the future. We only use telephone numbers if we need to contact you regarding an order. To be removed from newsletter lists simply reply to the newsletter itself with the word "remove". To be omitted from our mailing list, send your request to: ABC Online Resources, 11049 N. 23rd Dr, Ste 107, Phoenix, AZ 85029 By entering an order and providing an email address (or subscribing to catalogs or newsletters) and/or address you agree to receive email newsletters or marketing information from us. Each email will include an unsubscribe link. Any mailed catalogs will include unsubscribe information. Our privacy policy is intended to make known our intentions, it is not a contractual obligation of ABC Online Resources, LLC and although we do not intend to it is subject to change without notice. Check back here for the most recent policy.
