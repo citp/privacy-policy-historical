@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honeyfund.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627033408id_/http%3A//www.honeyfund.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honeyfund.com privacy policy that was archived on 2010-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100424065252id_/http%3A//www.honeyfund.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Honeyfund.com, the free honeymoon registry
 
