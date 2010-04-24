@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qfxsoftware.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417051236id_/http%3A//www.qfxsoftware.com/QFX_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qfxsoftware.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425011411id_/http%3A//www.qfxsoftware.com/QFX_privacy_policy.htm) for the most accurate reproduction.*
 
 # QFX Software Corporation Privacy Policy
 
