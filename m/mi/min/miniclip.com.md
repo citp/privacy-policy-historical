@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the miniclip.com privacy policy that was archived on 2009-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091026171742id_/http%3A//www.miniclip.com/games/en/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miniclip.com privacy policy that was archived on 2010-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100424162213id_/http%3A//www.miniclip.com/games/en/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Games at Miniclip.com - Play Free Games
+# Privacy Policy - Games at Miniclip.com - Play Free Online Games
 
 ## _1-30-08_ MINICLIP PRIVACY POLICY
 
