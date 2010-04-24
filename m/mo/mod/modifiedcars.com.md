@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the modifiedcars.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223100905id_/http%3A//www.modifiedcars.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modifiedcars.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425003636id_/http%3A//www.modifiedcars.com/privacy.asp) for the most accurate reproduction.*
 
 # ModifiedCars.com » Privacy Policy
 
-|   
----  
-  
+[](http://www.modifiedcars.com/ "Modified Cars")
+
   * It is modifiedcars.com's policy that personal information, such as your name, postal and e-mail address or telephone number, is private and confidential. Accordingly, the personal information you provide is accessible only by designated staff, and is used only for the purposes for which you provide the information (such as to reply to your request or enquiry).
   * Personal information will not be released to third parties. except if release is required by law or is pertinent to judicial or governmental investigations or proceedings. There are no other circumstances under which we will provide or sell personal information to third parties.
   * This site makes use of forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-  * This site, modifiedcars.com, uses the services of Fastclick, Burst Media and Adtegrity.com for the serving and/or targeting of ads, promotions and other marketing messages. To do this, the agencies collects anonymous data through the use of cookies,
+  * This site, modifiedcars.com, uses the services of Fastclick, Tribual Fusion for the serving and/or targeting of ads, promotions and other marketing messages. To do this, the agencies collects anonymous data through the use of cookies,
 
 
 
@@ -23,5 +22,6 @@
   * You and any user of your Account must evaluate, and bear the risk associated with, the accuracy, completeness or usefulness of any Content. modifiedcars.com shall not be responsible for any Content. modifiedcars.com does not prescreen or monitor all Content as a matter of policy, but modifiedcars.com shall have the right, but not the responsibility, to remove Content which is deemed in modifiedcars.com's sole discretion harmful, offensive, or otherwise in violation of this Agreement or any rules modifiedcars.com has in place at the time.
   * Information contained on the modifiedcars.com website listed has not been independently verified by modifiedcars.com.
   * modifiedcars.com does not and cannot review all materials posted to the modifiedcars.com Web Site by users, and modifiedcars.com is not responsible for any such materials posted by users. However, modifiedcars.com reserves the right at all times to disclose any information as necessary to satisfy any law, regulation or government request, or to edit, refuse to post or to remove any information or materials, in whole or in part, that in modifiedcars.com's sole discretion are objectionable or in violation of this Agreement.
+  * We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
 
