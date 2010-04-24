@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mutualart.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218131957id_/http%3A//www.mutualart.com/MutualArt/GernericTemplates/Default.aspx%3Ftype%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mutualart.com privacy policy that was archived on 2010-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100424045324id_/http%3A//www.mutualart.com/Static/PrivacyPolicy) for the most accurate reproduction.*
 
-# MutualArt
+# MutualArt.com - PrivacyPolicy
 
 Privacy Policy 
 
@@ -44,7 +44,7 @@ Third Party Advertising
 
 Ads appearing on this Web site may be delivered to Users by MutualArt.com or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by MutualArt.com and does not cover the use of cookies by any advertisers. 
 
-Security 
+Security
 
 MutualArt.com member accounts are secured by member-created passwords. MutualArt.com takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. Please do not transmit any private or confidential information to us by email or through this Site. We cannot guarantee the security of any information transmitted to us over the Internet. Regardless of the precautions taken by you or by us, "perfect security" does not exist on the Internet. We cannot ensure or warrant the security of any information you transmit to us, and you transmit such information at your own risk. 
 
@@ -58,3 +58,5 @@ Contacting the Web Site
 
 MutualArt.com cares deeply about online privacy. If you have any questions concerning this privacy policy, please email us at info@MutualArt.com   
 
+
+Effective: June 01, 2009
