@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playlist.com privacy policy that was archived on 2009-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091026171530id_/http%3A//www.playlist.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playlist.com privacy policy that was archived on 2010-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100424162147id_/http%3A//www.playlist.com/about/privacy) for the most accurate reproduction.*
 
 # Playlist | Privacy Policy
 
@@ -14,7 +14,7 @@ This site is operated by Project Playlist, Inc. (“Playlist”). At Playlist, w
 
 Information you provide - We collect personal information that users provide through optional, voluntary submissions, such as via the use of email and our download forms used to download tools. We use personal information we collect to respond to your inquiry or request, to provide, improve, and develop our services, to tailor your user experience, to prevent or investigate fraudulent or inappropriate usage of our services, to enable you to participate in contests and promotions, for research and development and for the other purposes described in this policy. Depending on your settings, certain information you provide may be available to other users.
 
-In addition, we may use your email address to deliver targeted marketing messages from us. You may opt-out from receiving these marketing messages by following the instructions provided in the messages. You may also provide personal information to us in other ways, such as by requesting user support.
+In addition, we may use or transfer your email address to deliver targeted marketing messages from us, our subsidiaries, affiliated companies, and other trusted businesses. You may opt-out from receiving these marketing messages by following the instructions provided in the messages. You may also provide personal information to us in other ways, such as by requesting user support.
 
 Information from third parties - We may receive personal information from third parties about their users, and may combine this information with other personal information we maintain about you. If we do so, this policy governs the combined information.
 
@@ -35,6 +35,8 @@ If we directly combine any non-personal information gathered through passive mea
 We may provide personal information to our subsidiaries, affiliated companies, and other trusted businesses or persons for the purpose of providing our services and for our other purposes described in this policy. We limit the personal information shared with these third parties to that which is necessary to carry out those functions and require that our partners respect and comply with applicable law as a condition of doing business with them. Except as described in this policy or otherwise specifically disclosed to you at the point of collection, we will not provide your personal information to third parties for their marketing purposes.
 
 We may share personal information with third parties (including regulatory or law enforcement authorities) in order to carry out a user's request or if we believe that doing so is legally required or is in our interest to protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights or property of others.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/.
 
 **If you post any of your information to a public area of our site, please be aware that it is no longer "personal information" for the purposes of this policy, and we or anyone else may use such information without restriction. If you provide access to personal or other information to a limited set of other users through any of our privacy controls or other settings, please understand that Playlist has no control over how others may collect, use or disclose such information.**
 
@@ -76,16 +78,7 @@ We may occasionally update this policy. When we do, we will also revise the "las
 
 Should you have other questions or concerns about this privacy policy, please send us an email at [privacy@playlist.com](mailto:privacy@playlist.com). You can also write to us at:
 
-Project Playlist  
+Playlist, Inc.  
+ **Attention: Privacy Officer**  
 444 High St. Suite 300  
 Palo Alto, CA 94301
-
-**Attention: Privacy Officer**
-
-  * [About Project Playlist](http://www.playlist.com/about)
-  * [Licenses and Legal issues](http://www.playlist.com/about/license)
-  * [Copyright Notices](http://www.playlist.com/about/copyright)
-  * [Terms of Service](http://www.playlist.com/about/terms)
-  * [Webmasters Information](http://www.playlist.com/about/webmasters)
-
-
