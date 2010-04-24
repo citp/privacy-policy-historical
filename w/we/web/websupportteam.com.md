@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the websupportteam.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901221850id_/http%3A//www.websupportteam.com/privpolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websupportteam.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425012109id_/http%3A//www.websupportteam.com/privpolicy.html) for the most accurate reproduction.*
 
-# WebSupportTeam.com
+# Web Support Team - Tech Help For Your Internet Business
 
-**Privacy Policy**  
-
-
+  
 \-- IMPORTANT -- PLEASE READ
 
 This Privacy Policy describes the terms of our commitment to your privacy.
@@ -116,8 +114,3 @@ APPLICABLE LAW
 
 Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the Website owner(s).  
 
-
-[Home](http://www.websupportteam.com/index.html) : [Privacy Policy](http://www.websupportteam.com/privpolicy.html) : [Terms of Service](http://www.websupportteam.com/TOServ.html) : [Affiliates](http://www.websupportteam.com/affiliates.html) : [Contact](mailto:help@websupportteam.com)
-
-WebSupportTeam.com, 17424 W Grand Parkway S, #145, Sugar Land, Texas 77479  
-Copyright © 2009 WebSupportTeam.com \- All Rights Reserved
