@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the directorslive.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124194528id_/http%3A//www.directorslive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorslive.com privacy policy that was archived on 2010-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100424052111id_/http%3A//www.directorslive.com/privacy) for the most accurate reproduction.*
 
-# DirectorsLive.com | Internet Television Network
+# Indie TV Network | Directors Live
 
 This privacy policy sets out Producers Live, LLC uses and protects any information that you give Directorslive.com when you use this website.
 
