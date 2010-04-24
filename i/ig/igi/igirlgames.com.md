@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the igirlgames.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621062216id_/http%3A//www.igirlgames.com/girlgamesforgirlsprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igirlgames.com privacy policy that was archived on 2010-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100424172358id_/http%3A//www.igirlgames.com/girlgamesforgirlsprivacy.php) for the most accurate reproduction.*
 
 # Igirlgames.com's privacy
+
+Access To This Site
+
+YOU MUST BE THIRTEEN (13) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER THIRTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE FALLS WITHIN THE CHILDREN'S ONLINE PRIVACY PROTECTION ACT (COPPA) AND IS NOT MONITORED AS DOING SO.   
+Content Games/videos are unrated and the possibility exists some games may contain violence, suggestive themes, crude humor, blood, gore, sexual content, simulated gambling, and/or use of strong language. 
 
 Our Privacy
 
@@ -32,14 +37,16 @@ Unsubscribing from igirlgames.com's ezine is simple and can be done by following
 
 Disclaimer
 
-igirlgames.com does not denote ownership of any images or content unless specified. igirlgames.com recognizes all images and content on this site as free material. igirlgames.com does not use images or content that are copyrighted unless express written permission is given by the author. Frequently, images and content are submitted by the visitors. igirlgames.com does not have a way of checking for its copyright unless specifically stated on or in the image or content. If any image or content on igirlgames.com is your work, please [Click Here](http://www.igirlgames.com/contact) to Contact us for its removal. 
+igirlgames.com does not denote ownership of any images or content unless specified. igirlgames.com recognizes all images and content on this site as free material. igirlgames.com does not use images or content that are copyrighted unless express written permission is given by the author. Frequently, images and content are submitted by the visitors. igirlgames.com does not have a way of checking for its copyright unless specifically stated on or in the image or content. If any image or content on igirlgames.com is your work, please [Click Here](http://www.igirlgames.com/contact/index.php) to Contact us for its removal. 
 
 Any pages that are original material of igirlgames.com will include igirlgames.com's URL on or in it. Any theft, alteration, modification, translation, or transgenderation of this material will be construed as robbery of intellectual property and will land in a fine and court date. 
 
 Some links on igirlgames.com will take visitors outside its web server. Although these links were established to provide access to useful information, igirlgames.com does not and are not responsible for any of these sites or their content. 
 
+Privacy Policy may be modified at any time without notice. It is your responsibility to check this page for updates or changes.
+
 Contact
 
 If you have any questions about this Privacy Statement, or the dealings with this website, please contact:
 
-Email: [Click Here](http://www.igirlgames.com/contact/)
+Email: [Click Here](http://www.igirlgames.com/contact/index.php)
