@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecostsoftware.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505062801id_/http%3A//www.ecostsoftware.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecostsoftware.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425071738id_/http%3A//www.ecostsoftware.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Help Portal :: eCostSoftware.com - UK Software Supplier
 
@@ -17,11 +17,12 @@ eCost Software uses cookies to let us know you are a prior customer and thus you
 This privacy policy applies to the website of:
 
 eCost Software  
-16-18 London Road  
-Twickenham  
-Middlesex  
-TW1 3RR  
-Tel: 0870 067 3944  
+108 Legacy Centre  
+Hanworth Trading Estate  
+Hampton Road West  
+Feltham, Middlesex  
+TW13 6DH  
+Tel: 0844 324 5428  
 Email: info@ecostsoftware.com
 
 ## Security Measures
