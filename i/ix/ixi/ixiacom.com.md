@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixiacom.com privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027040113id_/http%3A//www.ixiacom.com/info/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixiacom.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425073754id_/http%3A//www.ixiacom.com/info/privacy/index.php) for the most accurate reproduction.*
 
 # Privacy :: Ixia - Leader in Converged IP Testing
 
@@ -52,7 +52,6 @@ We have appropriate security measures in place in our physical facilities that w
 If you feel that this site is not following its stated information policy, you may contact us at the above email or postal addresses or phone number.
 
   * [Ixia Terms of Use](https://web.archive.org/info/terms_of_use/index.php "Ixia Terms of Use")
-  * [TestTalk Community Terms of Use](https://web.archive.org/info/community_terms_of_use/index.php "TestTalk Community Terms of Use")
 
 
 
