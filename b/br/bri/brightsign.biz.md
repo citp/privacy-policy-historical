@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightsign.biz privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223043133id_/http%3A//www.brightsign.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightsign.biz privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425081333id_/http%3A//www.brightsign.biz/privacy) for the most accurate reproduction.*
 
 # Roku - Privacy Policy
 
