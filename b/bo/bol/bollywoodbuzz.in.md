@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodbuzz.in privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223215349id_/http%3A//www.bollywoodbuzz.in/fair-use-guide) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodbuzz.in privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425073603id_/http%3A//www.bollywoodbuzz.in/fair-use-guide) for the most accurate reproduction.*
 
 # Fair Use Guide/Privacy Policy | Bollywood Buzz
 
@@ -46,4 +46,4 @@ If a visitor wishes to subscribe to our newsletter (powered by Feedblitz), we as
 
 **# Contact Information**
 
-If visitors have any questions, suggestions or advertising offers regarding our site, [please contact us](https://web.archive.org/web/20091223215349id_/http://www.bollywoodbuzz.in/contact/).
+If visitors have any questions, suggestions or advertising offers regarding our site, [please contact us](https://web.archive.org/web/20100425073603id_/http://www.bollywoodbuzz.in/contact/).
