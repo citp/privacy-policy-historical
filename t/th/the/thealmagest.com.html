@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thealmagest.com privacy policy that was archived on 2009-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091225062231id_/http%3A//www.thealmagest.com/user/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thealmagest.com privacy policy that was archived on 2010-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100426002748id_/http%3A//www.thealmagest.com/user/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	
@@ -36,45 +36,162 @@ document.write('<SCR'+'IPT SRC='+'http://media.collegepublisher.com/media/script
 <link rel="alternate" type="application/rss+xml" title="RSS feed for The Almagest" href="http://www.thealmagest.com/articles.rss">
 
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/coda/mtvi_reporting.js"></script>
-<script type="text/javascript">
+<script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/coda/poolreturn.js"></script>
+<script type="text/javascript"> 
 //<![CDATA[
-	function getPageName(){
-		var defaultPageName = "index.cfm"
-		return (location.pathname=="" || location.pathname=="/")?"/"+defaultPageName:location.pathname;
- 	}
-	function getHierarchy(argPageName){
-		return (argPageName.charAt(0)=="/")?argPageName.substring(1):argPageName;
-	}
-	var qString = com.mtvi.util.queryStringToHash(location.search);
-	var refsource = (com.mtvi.util.isDefined(qString))?qString["refsource"]:"";
-	var reffeature = (com.mtvi.util.isDefined(qString))?qString["reffeature"]:"";
-	if(refsource != null && refsource.length > 0) {
-		SetCookie('refsourcekey', refsource);
-	}
-	// Reporting Account Config
-	com.mtvi.reporting.Account={
-		name:"viay2m",
-		filters: "javascript:,y2m.com"
-	};
-	var dispatcher=com.mtvi.reporting.Dispatcher;
-	dispatcher.setAttribute('pageName',getPageName());
-	dispatcher.setAttribute('hier1',getHierarchy(getPageName())); 
-	dispatcher.setAttribute('prop1','displayPrivacyPolicy');
-	dispatcher.setAttribute('prop2',sectioncategory);
-	dispatcher.setAttribute('prop3','event=displayPrivacyPolicy');
-	dispatcher.setAttribute('prop4',refsource);
-	dispatcher.setAttribute('prop5',window.document.location.pathname.toString() + window.document.location.search.toString());
-	dispatcher.setAttribute('prop6',origserver);
-	dispatcher.setAttribute('prop7','The Almagest');
-	dispatcher.setAttribute('prop8','www.thealmagest.com');
-	dispatcher.setAttribute('prop9',story_id);
-	dispatcher.setAttribute('prop10','1361');
-	dispatcher.setAttribute('prop11','user');
-	dispatcher.setAttribute('prop12',GetCookie('refsourcekey'));
-	dispatcher.setAttribute('prop13',reffeature);
-	dispatcher.sendCall();
-	//]]>
+ function getPageName(){
+  var defaultPageName = "index.cfm"
+  return (location.pathname=="" || location.pathname=="/")?"/"+defaultPageName:location.pathname;
+  }
+ function getHierarchy(argPageName){
+  return (argPageName.charAt(0)=="/")?argPageName.substring(1):argPageName;
+ }
+ var qString = com.mtvi.util.queryStringToHash(location.search);
+ var refsource = (com.mtvi.util.isDefined(qString))?qString["refsource"]:"";
+ var reffeature = (com.mtvi.util.isDefined(qString))?qString["reffeature"]:"";
+ if(refsource != null && refsource.length > 0) {
+  SetCookie('refsourcekey', refsource);
+ }
+ 
+var filterDomain = 'www.thealmagest.com';
+var filterUrl = filterDomain.substring(filterDomain.indexOf("www.")+4, filterDomain.length);
+var filterVar = "javascript:,"+filterUrl+",media."+filterDomain;
+ 
+//Reporting Account Config 
+   
+ com.mtvi.reporting.Account={ 
+ name:"viay2m",
+ filters:filterVar, 
+ trackExternalLinks:true, 
+ trackInlineStats:true 
+ }; 
+ 
+var chValue = "home";
+var cpCode = "CP4";
+var paperId = '1361';
+var pipe = getPoolIdForPaper (paperId);
+var storyName = "";
+var secRef = "home";
+var orgPath = location.toString();
+var pageValueOrg = getHierarchy(getPageName());
+var pageValue = "paper"+paperId+"/"+secRef;
+var h1 = "paper"+paperId+"/"+secRef;
+ 
+if(paperId=="1218"){
+document.write("<br><br>pageValueOrg: "+pageValueOrg);
+document.write("<br><br>filters: "+filterVar);
+document.write("<br><br>pipe: "+pipe);
+}
+ 
+if(sectioncategory=="Campus News")
+{
+sectioncategory = "news";
+}
+else
+{
+var sectionValue = sectioncategory.toLowerCase();
+}
+ 
+if(pageValueOrg.indexOf("user/register/") >-1)
+{
+story_id = "";
+sectionValue = "";
+secRef = "registration/main";
+pageValue = "paper"+paperId+"/"+secRef;
+chValue = "registration";
+h1 = "paper"+paperId+"/"+secRef;
+}
+else if(pageValueOrg.indexOf("user/login/") >-1)
+{
+story_id = "";
+sectionValue = "";
+secRef = "login/main";
+pageValue = "paper"+paperId+"/"+secRef;
+chValue = "login";
+h1 = "paper"+paperId+"/"+secRef;
+}
+else if(pageValueOrg.indexOf("media/storage") >-1)
+{
+sectionValue = "";
+storyName = '';
+pageValue = "paper"+paperId+"/"+chValue+"/article";
+chValue = "news";
+h1 = "paper"+paperId+"/"+chValue+"/article";
+}
+else if(pageValueOrg.indexOf("media/") >-1)
+{
+story_id = "";
+storyName = "";
+pageValue = "paper"+paperId+"/"+sectionValue+"/main";
+chValue = sectionValue;
+h1 = "paper"+paperId+"/"+sectionValue+"/main";
+}
+else if(orgPath.indexOf("blog.") >-1 || orgPath.indexOf("blogs.") >-1)
+{
+story_id = "";
+sectionValue = "";
+storyName = "";
+secRef = "blog";
+pageValue = "paper"+paperId+"/"+secRef;
+chValue = secRef;
+h1 = "paper"+paperId+"/"+secRef;
+}
+else if(pageValueOrg=="home/archives/")
+{
+story_id = "";
+sectionValue = "";
+secRef = "archives/main";
+pageValue = "paper"+paperId+"/"+secRef;
+chValue = "archives";
+h1 = "paper"+paperId+"/"+secRef;
+}
+else if(pageValueOrg=="home/index.cfm")
+{
+story_id = "";
+sectionValue = "";
+secRef = "objectdisplaymode";
+pageValue = "paper"+paperId+"/"+secRef;
+chValue = "maintenance";
+h1 = "paper"+paperId+"/"+secRef;
+}
+else if(pageValueOrg=="index.cfm" || pageValueOrg=="home/")
+{
+story_id = "";
+sectionValue = "";
+storyName = "";
+pageValue = "paper"+paperId+"/"+secRef;
+chValue = secRef;
+h1 = "paper"+paperId+"/"+secRef;
+}
+else
+{
+story_id = "";
+sectionValue = "";
+storyName = "";
+secRef = "news";
+pageValue = "paper"+paperId+"/"+secRef;
+chValue = secRef;
+h1 = "paper"+paperId+"/"+secRef;
+}
+ 
+var dispatcher=new com.mtvi.reporting.Dispatcher();
+ dispatcher.setAttribute('pageName',pageValue);
+ dispatcher.setAttribute('channel',chValue);
+ dispatcher.setAttribute('hier1',h1); 
+ dispatcher.setAttribute('prop1','frontPage');
+ dispatcher.setAttribute('prop2',sectionValue);
+ dispatcher.setAttribute('prop7','The Almagest');
+ dispatcher.setAttribute('prop8','www.thealmagest.com');
+ dispatcher.setAttribute('prop9',story_id);
+ dispatcher.setAttribute('prop10',paperId);
+ dispatcher.setAttribute('prop11',secRef);
+ dispatcher.setAttribute('prop14',cpCode);
+ dispatcher.setAttribute('server',pipe);
+ dispatcher.setAttribute('prop18',storyName);
+ dispatcher.sendCall();
+ //]]>
 </script>
+
 
 
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
@@ -107,16 +224,16 @@ document.write('<SCR'+'IPT SRC='+'http://media.collegepublisher.com/media/script
 <meta name="author" content="The Staff of The Almagest">
 <meta name="description" content="The Almagest, a college media publication.">
 <meta name="keywords" content="The Almagest, newspaper, college media, student media">
-<meta name="copyright" content="Copyright 2009 The Almagest.">
+<meta name="copyright" content="Copyright 2010 The Almagest.">
 
 <script type="text/javascript">
 /* <![CDATA[ */
-var currentissuedate='12/03/09';
+var currentissuedate='04/22/10';
 var currentissuedayname='Thursday';
-var currentissuemonthname='December';
-var currentissueday='3';
-var currentissuemonth='12';
-var currentissueyear='2009';
+var currentissuemonthname='April';
+var currentissueday='22';
+var currentissuemonth='4';
+var currentissueyear='2010';
 var basehref='http://www.thealmagest.com/';
 var paper_id='1361';
 var paperzip='71115';
@@ -143,15 +260,15 @@ var slideshowpath='http://www.thealmagest.com/home/index.cfm?event=displaySlideS
 var aSectionNames = new Array();
 var aSectionLinks = new Array();
 aSectionNames[0] = 'News';
-aSectionLinks[0] = '/news/2009/12/03/News/';
+aSectionLinks[0] = '/news/2010/04/22/News/';
 aSectionNames[1] = 'OP/ED';
-aSectionLinks[1] = '/news/2009/12/03/Oped/';
+aSectionLinks[1] = '/news/2010/04/22/Oped/';
 aSectionNames[2] = 'Life';
-aSectionLinks[2] = '/news/2009/12/03/Life/';
+aSectionLinks[2] = '/news/2010/04/22/Life/';
 aSectionNames[3] = 'Sports';
-aSectionLinks[3] = '/news/2009/12/03/Sports/';
+aSectionLinks[3] = '/news/2010/04/22/Sports/';
 aSectionNames[4] = 'Arts & Entertainment';
-aSectionLinks[4] = '/news/2009/12/03/ArtsEntertainment/';
+aSectionLinks[4] = '/news/2010/04/22/ArtsEntertainment/';
 /* ]]> */
 </script>
 
@@ -281,12 +398,14 @@ if (bAdmanagerClientAlive) {
 					</div>
 					<div id="net_channels">
 						<ul>
+							
                         
-							<li><a href="http://springbreak.mtvu.com/" target="_blank"><img src="/media/assets/images/ncbar_mtvu.gif" border="0" alt="mtvU Logo" align="top"> Spring Break</a></li>
+							<!--<li><a href="http://springbreak.mtvu.com/" target="_blank"><img src="/media/assets/images/ncbar_mtvu.gif" border="0" alt="mtvU Logo" align="top" /> Spring Break</a></li>-->
 							<!--<li><a href="http://govoteabsentee.com/" target="_blank"><img src="/media/assets/images/ncbar_absentee.gif" border="0" alt="Absentee Logo" align="top" /> Vote Absentee</a></li>-->
 
 						
-							<li><a href="http://media.www.thealmagest.com/channel/collegeheadlines/" target="_parent">Top College News</a></li>
+							<li><a href="http://www.CareerRookie.com/?siteid=mtvu005" target="_blank">Jobs and internships for students</a></li>
+							<li><a href="http://media.www.thealmagest.com/channel/collegeheadlines/" target="_blank">Top College News</a></li>
 							
 						</ul>
 					</div>
@@ -318,7 +437,7 @@ if (bAdmanagerClientAlive) {
 		<div class="flan_article_clear"></div>
 	</div>
 </div>
-<p class="issue">Last Updated: <script language="JAVASCRIPT">document.write(currentissuedayname + ', ' + currentissuemonthname + ' ' + currentissueday + ', ' + currentissueyear);</script>Thursday, December 3, 2009</p>
+<p class="issue">Last Updated: <script language="JAVASCRIPT">document.write(currentissuedayname + ', ' + currentissuemonthname + ' ' + currentissueday + ', ' + currentissueyear);</script>Thursday, April 22, 2010</p>
 <form id="flan_header_search" name="flan_header_search" action="/home/index.cfm" method="get">
 Search <em>www.thealmagest.com</em>:
 	<fieldset>
@@ -481,7 +600,7 @@ or <a href="/archives">browse the archives</a>
 	<p><b>10. Questions:</b> If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information, you may contact us directly by sending an email to <u><a href="mailto:feedback@collegepublisher.com">feedback@collegepublisher.com</a></u>. </p>
 	<p><b>11. Sole Statement:</b> This document is the sole statement of the Site’s Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.</p>
 	<p>This Privacy Policy was last modified on September 9, 2009 and is effective immediately.</p>
-	<p>Copyright ©2009 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.</p><div id="banner_client_4" class="cp_banner_client">
+	<p>Copyright ©2010 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.</p><div id="banner_client_4" class="cp_banner_client">
 	<script language="JAVASCRIPT">
 	if (clientBannersAvailable == 1) {
 		showClientBanner(4);
@@ -519,40 +638,40 @@ or <a href="/archives">browse the archives</a>
 		
 </div><script language="Javascript" type="text/javascript">
 	document.write('<scr'+'ipt src=http://media.collegepublisher.com/media/paper' + paper_id + '/template/betapopularstories.js?'+currentissuedate+'><\/scr'+'ipt>');
-</script><script src="http://media.collegepublisher.com/media/paper1361/template/betapopularstories.js?12/03/09"></script><div class="content">
+</script><script src="http://media.collegepublisher.com/media/paper1361/template/betapopularstories.js?04/22/10"></script><div class="content">
 	<h4>Poll</h4>
 	<form name="voteform" action="/poll/index.cfm?event=castVote" method="post">
-		<div class="pollquestionstyle">What's the best way to prepare for finals?</div>
+		<div class="pollquestionstyle">Are you taking summer classes?</div>
 		<div id="poll_answers">
 			
 				<div>
-					<input type="radio" name="poll_answer_id" id="poll_answer_167429" value="167429">
-					<label for="poll_answer_167429">Get at least 8 hours of sleep.</label>
+					<input type="radio" name="poll_answer_id" id="poll_answer_172467" value="172467">
+					<label for="poll_answer_172467">Yes, and I can't get out of here fast enough! </label>
 				</div>
 			
 				<div class="poll_even">
-					<input type="radio" name="poll_answer_id" id="poll_answer_167430" value="167430">
-					<label for="poll_answer_167430">Eat a healthy breakfast.</label>
+					<input type="radio" name="poll_answer_id" id="poll_answer_172468" value="172468">
+					<label for="poll_answer_172468">No, I need a break. </label>
 				</div>
 			
 				<div>
-					<input type="radio" name="poll_answer_id" id="poll_answer_167431" value="167431">
-					<label for="poll_answer_167431">Study in groups.</label>
+					<input type="radio" name="poll_answer_id" id="poll_answer_172469" value="172469">
+					<label for="poll_answer_172469">I haven't decided yet. </label>
 				</div>
 			
 				<div class="poll_even">
-					<input type="radio" name="poll_answer_id" id="poll_answer_167432" value="167432">
-					<label for="poll_answer_167432">Wait until the day before to start your final paper.</label>
+					<input type="radio" name="poll_answer_id" id="poll_answer_172470" value="172470">
+					<label for="poll_answer_172470">Yes, because I love being here! </label>
 				</div>
 			
 				<div>
-					<input type="radio" name="poll_answer_id" id="poll_answer_167433" value="167433">
-					<label for="poll_answer_167433">Stay up all night studying.</label>
+					<input type="radio" name="poll_answer_id" id="poll_answer_172471" value="172471">
+					<label for="poll_answer_172471">I would, but the course I need isn't being offered during the summer. </label>
 				</div>
 			
 				<div class="poll_even">
-					<input type="radio" name="poll_answer_id" id="poll_answer_167434" value="167434">
-					<label for="poll_answer_167434">Wing it.</label>
+					<input type="radio" name="poll_answer_id" id="poll_answer_172472" value="172472">
+					<label for="poll_answer_172472">LSUS offers those? </label>
 				</div>
 			
 		</div>
@@ -595,7 +714,7 @@ or <a href="/archives">browse the archives</a>
 <ul id="flan_sections">
 	<li><a href="/home" title="The Almagest Front Page">Home</a></li>
 	
-	  <li><a href="/news/2009/12/03/News/" title="The Almagest News Section">News</a></li>
+	  <li><a href="/news/2010/04/22/News/" title="The Almagest News Section">News</a></li>
 	    
 		  
 			  
@@ -610,7 +729,7 @@ or <a href="/archives">browse the archives</a>
 		  
 		  
 	
-	  <li><a href="/news/2009/12/03/Oped/" title="The Almagest OP/ED Section">OP/ED</a></li>
+	  <li><a href="/news/2010/04/22/Oped/" title="The Almagest OP/ED Section">OP/ED</a></li>
 	    
 		  
 			  
@@ -625,7 +744,7 @@ or <a href="/archives">browse the archives</a>
 		  
 		  
 	
-	  <li><a href="/news/2009/12/03/Life/" title="The Almagest Life Section">Life</a></li>
+	  <li><a href="/news/2010/04/22/Life/" title="The Almagest Life Section">Life</a></li>
 	    
 		  
 			  
@@ -640,7 +759,7 @@ or <a href="/archives">browse the archives</a>
 		  
 		  
 	
-	  <li><a href="/news/2009/12/03/Sports/" title="The Almagest Sports Section">Sports</a></li>
+	  <li><a href="/news/2010/04/22/Sports/" title="The Almagest Sports Section">Sports</a></li>
 	    
 		  
 			  
@@ -655,7 +774,7 @@ or <a href="/archives">browse the archives</a>
 		  
 		  
 	
-	  <li><a href="/news/2009/12/03/ArtsEntertainment/" title="The Almagest Arts &amp; Entertainment Section">Arts &amp; Entertainment</a></li>
+	  <li><a href="/news/2010/04/22/ArtsEntertainment/" title="The Almagest Arts &amp; Entertainment Section">Arts &amp; Entertainment</a></li>
 	    
 		  
 			  
@@ -698,15 +817,15 @@ or <a href="/archives">browse the archives</a>
 	<li>
 		
 		
-			<a href="http://media.collegepublisher.com/media/paper1361/documents/8793930i.pdf" target="_blank" id="printpreview">
+			<a href="http://media.collegepublisher.com/media/paper1361/documents/dmum45u5.pdf" target="_blank" id="printpreview">
 		
-			<img src="http://media.collegepublisher.com/media/paper1361/thumbs/t_8793930i.png" border="none" alt="Download Print Edition PDF">
+			<img src="http://media.collegepublisher.com/media/paper1361/thumbs/t_dmum45u5.png" border="none" alt="Download Print Edition PDF">
 		</a>
 	</li>
 	
 </ul><!--<h4>Links</h4>-->
 <ul>
-	<li><a href="http://www.lsus.edu" title="LSUS home page">LSUS home page</a></li><li><a href="http://www.myinterfase.com/lsus/student" title="LSUS Career Pilot">LSUS Career Pilot</a></li><li><a href="http://www.lsus.edu/studentactivities/" title="Student Activities">Student Activities</a></li><li><a href="http://www.lsus.edu/recsports/" title="Recreational Sports">Recreational Sports</a></li><li><a href="http://www.lsus.edu/uc/" title="University Center">University Center</a></li><li><a href="http://www.ce.lsus.edu" title="Continuing Education">Continuing Education</a></li>
+	<li><a href="http://www.lsus.edu" title="LSUS home page">LSUS home page</a></li><li><a href="http://www.myinterfase.com/lsus/student" title="LSUS Career Pilot">LSUS Career Pilot</a></li><li><a href="http://www.lsus.edu/studentactivities/" title="Student Activities">Student Activities</a></li><li><a href="http://www.lsus.edu/recsports/" title="Recreational Sports">Recreational Sports</a></li><li><a href="http://www.lsus.edu/uc/" title="University Center">University Center</a></li><li><a href="http://www.facebook.com/index.php?lh=6a16e00c73e156ff25e2b55b149c8580&amp;#!/pages/The-Almagest/281778289540?ref=ts" title="Almagest Facebook">Almagest Facebook</a></li><li><a href="http://www.ce.lsus.edu" title="Continuing Education">Continuing Education</a></li>
 </ul><div id="banner_client_1" class="cp_banner_client">
 	<script language="JAVASCRIPT">
 	if (clientBannersAvailable == 1) {
