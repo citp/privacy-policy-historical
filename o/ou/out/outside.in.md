@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outside.in privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031034048id_/http%3A//outside.in/privacy%3Futm_source%3Dhomepage%26utm_medium%3Dfooter%26utm_campaign%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outside.in privacy policy that was archived on 2010-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100426002536id_/http%3A//outside.in/privacy%3Futm_source%3Dhomepage%26utm_medium%3Dfooter%26utm_campaign%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy policy | outside.in
+# Privacy policy | Outside.in
 
 Outside.In knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Outside.In website, you are accepting the practices outlined in this Privacy Policy.
 
