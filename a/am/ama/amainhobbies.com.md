@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amainhobbies.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620062452id_/http%3A//www.amainhobbies.com/information.php/info_id/2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amainhobbies.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425042023id_/http%3A//www.amainhobbies.com/information.php/info_id/2) for the most accurate reproduction.*
 
 # A Main Hobbies
 
