@@ -1,13 +1,17 @@
-> *The following text is extracted and transformed from the traveltex.com privacy policy that was archived on 2009-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090705214033id_/http%3A//traveltex.com/extra/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveltex.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425052444id_/http%3A//www.traveltex.com/privacy-terms-of-use) for the most accurate reproduction.*
 
-# TravelTex - Privacy & Security
+# Privacy & Terms of Use - TravelTex.com
 
-#### May, 2008  
-State of Texas TravelTex Web Site
+[](https://web.archive.org/web/20100425052444id_/http%3A//www.traveltex.com/downloads/travel-guide/order-travel-guide)
+
+[](http://addthis.com/bookmark.php?v=250&pub=traveltex)
+
+**May 2008  
+State of Texas TravelTex Web Site**
 
 The following is the privacy policy for this site (all pages starting with www.TravelTex.com):
 
-  1. Cookies are used to allow the site to welcome you back to the site should you visit the site again and to set your chosen site parameters as they were on your last visit. Cookies are also used to track the number of visitors to the site. We do not use cookies to collect any information other than just described. Note: A cookie file contains unique information a web site can use to track such things as passwords, lists of pages you've visited, and the date when you last looked at a specific page or to identify your session at a particular web site. We do not use cookies for any of these purposes.
+  1. Cookies are used to allow the site to welcome you back to the site should you visit the site again and to set your chosen site parameters as they were on your last visit. Cookies are also used to track the number of visitors to the site. We do not use cookies to collect any information other than just described. Note: A cookie file contains unique information a web site can use to track such things as passwords, lists of pages you’ve visited, and the date when you last looked at a specific page or to identify your session at a particular web site. We do not use cookies for any of these purposes.
   2. If you send us an electronic mail message with a question or comment that contains personally identifying information, or fill out a form that e-mails us this information, we will only use the personally-identifiable information to respond to your request and analyze trends. We may redirect your message to another government agency or person who is in a better position to answer your question.
   3. If you enter contact information in the course of ordering items from the site this information will only be sent to those parties requiring it for delivery unless you choose to receive additional Texas travel information. If you choose to receive additional information, your address may occasionally be made available to other Texas travel industry organizations.
   4. If you have supplied your e-mail address and chosen to receive additional Texas travel information, it may occasionally be used to send you a message about something you have expressed an interest such as an activity or event.
@@ -15,13 +19,13 @@ The following is the privacy policy for this site (all pages starting with www.T
 
 
 
-We use log analysis tools to create summary statistics, which are used for purposes such as assessing what information is of most interest, determining technical design specifications, and identifying system performance or problem areas. The following information is collected for this analysis: 
+We use log analysis tools to create summary statistics, which are used for purposes such as assessing what information is of most interest, determining technical design specifications, and identifying system performance or problem areas. The following information is collected for this analysis:
 
 **User Client hostname** \- The hostname (or IP address if DNS is disabled) of the user/client requesting access.
 
-**HTTP header, "user-agent"** \- The user-agent information includes the type of browser, its version, and the operating system it's running on.
+**HTTP header, “user-agent”** \- The user-agent information includes the type of browser, its version, and the operating system it’s running on.
 
-**HTTP header, "referrer"** \- The referrer specifies the page from which the client accessed the current page.
+**HTTP header, “referrer”** \- The referrer specifies the page from which the client accessed the current page.
 
 **System date** \- The date and time of the user/client request.
 
