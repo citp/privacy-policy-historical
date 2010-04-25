@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thealmagest.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225062231id_/http%3A//www.thealmagest.com/user/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thealmagest.com privacy policy that was archived on 2010-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100426002748id_/http%3A//www.thealmagest.com/user/privacypolicy) for the most accurate reproduction.*
 
 # The Almagest
 
@@ -144,4 +144,4 @@ We reserve the right to deny access, use and registration privileges to any user
 
 This Privacy Policy was last modified on September 9, 2009 and is effective immediately.
 
-Copyright ©2009 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
+Copyright ©2010 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
