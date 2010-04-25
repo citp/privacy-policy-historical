@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adjug.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603191357id_/http%3A//www.adjug.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adjug.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425051909id_/http%3A//www.adjug.com/info/privacy.asp) for the most accurate reproduction.*
 
-# AdJug - the online advertising exchange
+# AdJug - The Online Advertising Exchange
 
 Adjug respects your privacy. Our purpose in collecting information from you is to help us provide you with better service, such as notifications about special offers and promotions. We will not willfully disclose any individually identifiable information about you to any third party without first receiving your permission, as explained in this privacy statement. Furthermore, we do not specifically target children under the age of 13, nor do we knowingly collect, without parental consent, individually identifiable information from such children. 
 
