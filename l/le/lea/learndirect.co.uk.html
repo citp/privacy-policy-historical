@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the learndirect.co.uk privacy policy that was archived on 2009-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091225073859id_/http%3A//www.learndirect.co.uk/privacystatement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the learndirect.co.uk privacy policy that was archived on 2010-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100425211836id_/http%3A//learndirect.co.uk/privacystatement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xml:lang="en"><head>
 	
@@ -15,6 +15,7 @@
 	<script type="text/javascript">
 		/* <![CDATA[ */
 		var tmptitle = "Privacy Policy" ;
+        var showVariables = "";
 		/* ]]> */
 	</script>
 	
@@ -37,6 +38,7 @@
 	<meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; comment &quot;ICRAonline v2.0&quot; l gen true for &quot;http://www.learndirect.co.uk/&quot; r (nz 1 vz 1 lz 1 oz 1 cb 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true for &quot;http://www.learndirect.co.uk/&quot;  r (n 0 s 0 v 0 l 0))">
 	<meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.classify.org/safesurf/&quot; l gen true for &quot;http://www.learndirect.co.uk/&quot; r (SS~~000 1))">
 	<link href="/resources/css/main.css" rel="stylesheet" type="text/css" media="screen">
+    <link href="/resources/css/themes.css" rel="stylesheet" type="text/css">
 
 	<!--[if (lte IE 6)&(gte IE 5.5)]>
 	
@@ -56,17 +58,6 @@
 	<script type="text/javascript" src="/resources/javascript/swfobject.js"></script>
 	
 	
-	<script type="text/javascript">
-	  if( Browser.Engine.presto )
-	  {
-	    document.write( '<link href=\"/resources/css/opera.css\" rel=\"stylesheet\" type=\"text/css\" />'  );
-	  }
-	  
-	  if( Browser.Engine.webkit )
-      {
-        document.write( '<link href=\"/resources/css/chrome.css\" rel=\"stylesheet\" type=\"text/css\" />'  );
-      }
-	</script><link href="/resources/css/chrome.css" rel="stylesheet" type="text/css">
 
     <script type="text/javascript" src="/resources/javascript/showreels.js"></script>
 
@@ -95,10 +86,16 @@
                 jQuery(".lightBoxPhoto").colorbox({photo:true});
                 jQuery(".lightBoxYouTube").colorbox({iframe:true, width:650, height:550});               
                 jQuery(".lightBoxFlash").each(function() {
-                    jQuery(this).colorbox({iframe: true, width: jQuery(this).attr( 'x' ), height: jQuery(this).attr( 'x' )});
+                    jQuery(this).colorbox({iframe: true, width: jQuery(this).attr( 'x' ), height: jQuery(this).attr( 'y' )});
                   });                                                                                    
             });
-    </script> 
+    </script>     
+     
+     
+    <link rel="shortcut icon" href="/resources/images/general/favicon.ico">
+    <link rel="icon" type="image/png" href="/resources/images/general/favicon.png">
+
+     
 </head>
 <body onload="doOnLoad(); doSitemap();">
 <div id="skiplinks">
@@ -132,12 +129,15 @@
 	
 	<div id="header" class="clearfix">
 		<a href="/" id="logo" title="Back to home page"><img src="/media/global/logo.gif" width="170" height="47" alt="learndirect"></a>
-		<div id="mylearndirect"><a href="http://www.laser.learndirect.co.uk/laser/" id="logintolearning">log in to your learning</a>
-		<div id="logincontainer"><div id="welcome">
-<script type="text/javascript">
-requestQueue.push({func:"welcomeBack('welcome')"});
-</script>
-</div></div></div>
+			
+		<div id="mylearndirect">
+			<script type="text/javascript">
+			/* <![CDATA[ */
+			window.addEvent('domready', function() { showLoggedIn('https://access.learndirect.co.uk/arc/ua/Logout.action', 'https://access.learndirect.co.uk/arc/ua/EditMyDetails.action '); });
+			/* ]]> */
+			</script>
+			<p><a href="https://learning.learndirect.co.uk/laser/" id="logintolearning">log in to your learning</a></p>
+		</div>
 	</div>
 
 <div id="primaryNav" class="clearfix">
@@ -284,12 +284,12 @@ requestQueue.push({func:"welcomeBack('welcome')"});
 </p>
 <p>
     We share some of your personal data with the Managing Information Across
-    Partners (MIAP) service, operated by the Learning and Skills Council (LSC).
-    MIAP offers a Learner Registration Service to allocate Unique Learner
-    Numbers (ULNs) which enable individuals to access their participation and
-    achievement data. MIAP will share your Ufi participation and achievement
-    data with other organisations if you tell Ufi that you are happy for MIAP
-    to do so. [<a title="" href="http://www.learndirect.co.uk/privacystatement/#miap">Further
+    Partners (MIAP) service, operated by the Skills Funding Agency. MIAP offers
+    a Learner Registration Service to allocate Unique Learner Numbers (ULNs)
+    which enable individuals to access their participation and achievement
+    data. MIAP will share your Ufi participation and achievement data with
+    other organisations if you tell Ufi that you are happy for MIAP to do so.
+    [<a title="" href="http://www.learndirect.co.uk/privacystatement/#miap">Further
        information</a>].
 </p>
 <p>
@@ -541,6 +541,9 @@ requestQueue.push({func:"welcomeBack('welcome')"});
     <a id="2" name="2"></a>The information we collect during the enrolment process
 </h3>
 <p>
+    (i) <strong>in a learndirect centre</strong>
+</p>
+<p>
     When you enrol with us, you (or the person enrolling you) must tell us :
 </p>
 <ul>
@@ -572,19 +575,67 @@ requestQueue.push({func:"welcomeBack('welcome')"});
     Level 2 in English and Maths.
 </p>
 <p>
+    Before you enrol, we will give you a username and ask you for a password.
+    You will also be given a learner reference number and asked to give the
+    answer to a question you choose which will identify you.
+</p>
+<p>
+    (ii) <strong>online</strong>
+</p>
+<ul>
+    <li>your full name;
+    </li>
+    <li>your gender;
+    </li>
+    <li>your date of birth;
+    </li>
+    <li>your address (and correspondence address if different);
+    </li>
+    <li>primary telephone number;
+    </li>
+    <li>your employment status;
+    </li>
+    <li>where you heard about us;
+    </li>
+    <li>if you have done any learning in the last three years;
+    </li>
+    <li>email address;
+    </li>
+    <li>your age;
+    </li>
+    <li>your education so far;
+    </li>
+    <li>your citizen status and;
+    </li>
+    <li>where you live and how long you have lived there.
+    </li>
+</ul>
+<p>
+    We use this information to check whether you are eligible for
+    funding.&nbsp; If you are not eligible then this information will be
+    destroyed.
+</p>
+<p>
+    <strong>At enrolment</strong>
+</p>
+<p>
+    We will check all the above details with you and may request additional
+    information as set out in this Privacy Statement. You will need a user name
+    and password to access your course materials. Your user name is your email
+    address and you can either choose your own password or we will give you one
+    which you must change when you first log in. If you are already registered
+    on the <strong>learndirect</strong> community you will use same user name
+    and password to access your learning.&nbsp;
+</p>
+<p>
     Please note that when you enrol on a <strong>learndirect</strong> course
     that leads to qualification such as an NVQ, we send non sensitive personal
     information to the relevant awarding bodies so that they can undertake the
     administration associated with your qualification.
 </p>
-<p>
-    Before you enrol, we will give you a username and ask you for a password.
-    You will also be given a learner reference number and asked to give the
-    answer to a question you choose which will identify you.
-</p>
 <h3>
-    <a id="3" name="3"></a>Other information we collect to see if you can have
-        government funding
+    <a id="3" name="3"></a>Other information we collect, if you enrol at a learning
+        centre,&nbsp;to see if you can have government funding
 </h3>
 <p>
     If government funding is available for any of our courses, you need to
@@ -611,12 +662,11 @@ requestQueue.push({func:"welcomeBack('welcome')"});
     <a id="learner" name="learner"></a>Learner File
 </h3>
 <p>
-    When you start your learning your Learning Provider will create a Learner
-    File to hold the documents which relate to your learning and evidence of
-    proof of identity and funding eligibility. As you progress through your
-    learning other documents, including some of your course work, may be held
-    on this file which Ufi/<strong>learndirect</strong> requires the Learning
-    Provider to keep on its behalf.
+    When you start your learning your we or Learning Provider will create a
+    Learner File to hold the documents which relate to your learning and
+    evidence of proof of identity and funding eligibility. As you progress
+    through your learning other documents, including some of your course work,
+    may be held on this file.
 </p>
 <h3>
     <a id="4" name="4"></a>The information we collect when you access course
@@ -717,7 +767,8 @@ requestQueue.push({func:"welcomeBack('welcome')"});
     but you do not have to provide it. Where we invite you to provide such
     information, we will ask you to consent to our proposed uses of such data.
     If you do not wish to provide this information you may select the "Not
-    Known/Not Provided" option.
+    Known/Not Provided"&nbsp; option or "Prefer not to say" option for online
+    registration.
 </p>
 <p>
     You may also volunteer sensitive personal data to us or our approved
@@ -765,14 +816,15 @@ requestQueue.push({func:"welcomeBack('welcome')"});
     To achieve the purposes set out in this privacy statement we may need to
     share your information and Learner File with our service providers
     (including our approved learning providers), agents, professional advisors
-    and auditors and to your tutor(s). When you enrol on a course, we will tell
-    you which of our approved learning providers will be delivering and
-    supporting your learning. Following enrolment via the website, all of our
-    approved learning providers will have access to your name, date of birth,
-    address, username, learner reference number and which
-    <strong>learndirect</strong> courses you have enrolled on in the past as
-    well as details relating to these <strong>learndirect</strong> courses to
-    help us deliver our services to you.
+    and auditors and to your tutor(s). When you enrol on a course in a
+    <strong>learndirect</strong> centre, we will tell you which of our approved
+    learning providers will be delivering and supporting your learning.
+    Following enrolment via a centre or online, all of our approved learning
+    providers will have access to your name, date of birth, address, username,
+    learner reference number and which <strong>learndirect</strong> courses you
+    have enrolled on in the past as well as details relating to these
+    <strong>learndirect</strong> courses to help us deliver our services to
+    you.
 </p>
 <p>
     We may also give your information to third parties who may take over part
@@ -813,7 +865,8 @@ requestQueue.push({func:"welcomeBack('welcome')"});
     <strong>learndirect</strong> developments and offers by telephone, email
     and/or SMS, please invite us to contact you by ticking the appropriate
     boxes. If at any time, you change your mind about receiving updates, you
-    can change your preferences using "your details" on your learner home page.
+    can change your preferences using "edit your details" on your learner home
+    page.
 </p>
 <p>
     If you are simply requesting a free information pack, you can invite us to
@@ -834,27 +887,28 @@ requestQueue.push({func:"welcomeBack('welcome')"});
     We, and our approved learning providers, may use your personal data to
     process or to support any application made for funding associated with your
     learning. For these purposes we, or our approved learning providers, will
-    share the information you supply with the
-    <a href="http://www.lsc.gov.uk/">Learning and Skills Council (LSC)</a> in
-    England. The LSC may in turn share it with the European Social Fund, or
-    other government agencies that may provide funding for your course,
-    including the <a href="http://www.wales.gov.uk/">Welsh Assembly
+    share the information you supply with the&nbsp;Skills Funding
+    Agency&nbsp;in England. The LSC may in turn share it with the European
+    Social Fund, or other government agencies that may provide funding for your
+    course, including the <a href="http://www.wales.gov.uk/">Welsh Assembly
     Government</a>&nbsp;for learners who enrol in Welsh centres. We may use a
     third party service to verify your identity for funding
     eligibility.&nbsp;If you are a learner between the ages of 16-19 years of
     age (or up to 25 years of age for learners with learning difficulties or
-    disabilities), we are required by the LSC to notify Connexions when you
-    leave, or intend to leave learning. We, or our approved learning providers,
-    may also share it with the Office for Standards in Education, Children’s
-    Services and Skills (Ofsted) so that it can check our use of public monies.
-    If you do not want us to use your personal data for these purposes, we will
-    not be able to offer you the course at the reduced price.
+    disabilities), we are required by the&nbsp;Skills Funding Agency&nbsp;to
+    notify Connexions when you leave, or intend to leave learning. We, or our
+    approved learning providers, may also share it with the Office for
+    Standards in Education, Children’s Services and Skills (Ofsted) so that it
+    can check our use of public monies. If you do not want us to use your
+    personal data for these purposes, we will not be able to offer you the
+    course at the reduced price.
 </p>
 <p>
     At the point this information is collected you will be asked to indicate if
-    you do not wish to be contacted by the LSC or its partners in respect of
-    courses, surveys and research. Please read the
-    <a title="LSC Data Protection Statement" href="http://www.theia.org.uk/NR/rdonlyres/BC2A0B4A-CDBE-45D6-9B26-87BB95914AAA/0/natilrspecification2009_10Appendix_fsp03Jul2009v2.pdf" target="_blank">LSC Data Protection Statement</a> [pdf].
+    you do not wish to be contacted by the&nbsp;Skills Funding Agency&nbsp;or
+    its partners in respect of courses, surveys and research. Please read
+    the&nbsp;<a title="LSC Data Protection Statement" href="http://www.theia.org.uk/NR/rdonlyres/BC2A0B4A-CDBE-45D6-9B26-87BB95914AAA/0/natilrspecification2009_10Appendix_fsp03Jul2009v2.pdf" target="_blank">Skills Funding Agency Data Protection Statement</a>
+       [pdf].
 </p>
 <p>
     We, or the government agency providing funding for your course, may use
@@ -872,8 +926,8 @@ requestQueue.push({func:"welcomeBack('welcome')"});
     (ULN)
 </h3>
 <p>
-    The Managing Information Across Partners (MIAP) service is operated by the
-    Learning and Skills Council (LSC) for learners aged 14 years and over and
+    The Managing Information Across Partners (MIAP) service is operated by
+    the&nbsp;Skills Funding Agency&nbsp;for learners aged 14 years and over and
     learners registering for relevant post-14 qualifications.&nbsp; MIAP is
     responsible for the operation of the Learner Registration Service and also
     the creation of a Learner Record.
@@ -939,8 +993,8 @@ requestQueue.push({func:"welcomeBack('welcome')"});
     We and/or the approved learning providers delivering and supporting your
     learning are also required to provide statistics to all of the government
     agencies mentioned under the heading 'Funding' and to the
-    <a href="http://www.dius.gov.uk/">Department for Innovation, Universities
-    and Skills</a>, in order that they can carry out checks on our funding
+    <a href="http://www.dius.gov.uk/">Department for Business, Innovation and
+    Skills</a>, in order that they can carry out checks on our funding
     arrangements and our performance and for research and statistical purposes.
     This helps us, and our approved learning providers, to maintain our
     funding. Where such information is supplied, it is provided in an
@@ -1122,7 +1176,7 @@ requestQueue.push({func:"welcomeBack('welcome')"});
     privacy statement.
 </p>
 <p>
-    <strong>Last updated :&nbsp;2nd&nbsp;September 2009</strong>
+    <strong>Last updated :&nbsp;31st March 2010</strong>
 </p>
 
 </div>
@@ -1188,7 +1242,9 @@ requestQueue.push({func:"lastPagesVisited(5, 'pagesVisited')"});
 	<div id="sitemapBottom"><p><a href="#" id="secondaryOpenSitemap">View sitemap</a></p></div>
 </div>
 
-	
+
+    
+        
 
 
 
@@ -1230,6 +1286,7 @@ s.eVar3=""
 s.eVar4=""
 s.eVar5=""
 s.eVar6=""
+s.eVar8="/privacystatement/"
 s.eVar27=""
 s.eVar28=""
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
@@ -1244,7 +1301,8 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.19.4. -->
 
 </div>
-		
+    
+	
 	
 		<div id="footer">
 			<p>For more information call 0800 101 901</p>
@@ -1280,6 +1338,19 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			
 			
 		</div>
+	
+	
+	
+				
+	<div id="surveyouter"> 
+	  <script type="text/javascript" src="/resources/javascript/2615_Overlay_LIVE_1.js"></script> 
+      <div id="surveywrapper">
+                   We are sorry we have interrupted your visit to learndirect. Please help us to improve the website by taking part in our visitor survey, which will only take 5 minutes to complete. Please fill in the survey after you have completed your visit.<br><br><div style="text-align: center"><a id="surveylink" href="http://survey.euro.confirmit.com/wix/p319636996.aspx" target="_new" title="Opens survey in a new window" style="font-size: 120%; text-decoration: underline">Take survey now<span style="background:transparent url(http://survey.euro.confirmit.com/isa/HMCYGPGAHXJXBHABPDEBCDDRJDMAGPBF/VirtualSurveys/link_open.gif) no-repeat scroll 3px 1px; cursor:pointer; display:inline-block; height:14px; padding-right:21px;" title="Opens new window"> <span style="left:-999em; position:absolute; top:-999em;">Opens new window</span> </span></a></div>
+      </div>
+    </div>
+    
+    
+	
 	
 </div>
 
