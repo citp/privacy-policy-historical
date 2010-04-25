@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nefsak.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209111136id_/http%3A//www.nefsak.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nefsak.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425042439id_/http%3A//www.nefsak.com/privacy_statement.html) for the most accurate reproduction.*
 
-# Privacy Statement - nefsak.com
+# privacy statement - nefsak.com - Buy Online - شراء اونلاين
 
 We respect your privacy!  
 Any and all the information collected on this site will be kept strictly confidential and will not be sold or rented!  
