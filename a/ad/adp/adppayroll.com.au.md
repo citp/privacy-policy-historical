@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adppayroll.com.au privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821105341id_/http%3A//www.adppayroll.com.au/index.php%3FsectionID%3D3%26pageID%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adppayroll.com.au privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425020237id_/http%3A//www.adppayroll.com.au/en-au/privacy.aspx) for the most accurate reproduction.*
 
-# ADP - Privacy
+# Privacy | ADP Australia
 
-## Application of this Policy 
+**Application of this Policy**
 
 Automatic Data Processing Limited ABN 70 003 924 945 (ADP) is committed to complying with the requirements of the Privacy Act 1988 as amended from time to time ("Act"). The core requirements of the Act are set out in the National Privacy Principles ("NPPs"). The NPPs set out how an organisation such as ADP should collect, use, keep, secure, and disclose personal information. The NPPs also give individuals a right to know what information an organisation holds about him or her, and a right to correct it if it is wrong. 
 
@@ -10,31 +10,32 @@ ADP's Australian Privacy Statement sets out ADP's policy in Australia for handli
 
 From time to time, ADP may change its privacy statement. For example, as ADP updates and improves its service, new features might require modifications to the statement ADP may publish these changes on its websites at www.adppayroll.com.au and www.payline.com.au 
 
-## What personal information does ADP collect? 
+**What personal information does ADP collect?**
 
 "Personal Information" is any information or opinion from which an individual's identity can be ascertained. ADP collects only the information necessary to provide its services. ADP generally collects personal information such as an individual's name, address, e-mail address, user ID, banking details, date of birth, payroll details, and employment-related information such as salary details, superannuation contributions, Tax File Number, and PAYG withholding tax. 
 
 In most situations, ADP collects personal information about an individual directly from the ADP client who is employing the individual. Where ADP is provided with personal information by its clients, it relies on its clients having obtained the consent of the individual for the collection, use, and disclosure of his or her personal information to and by ADP. It also relies on its client's drawing the points set out in this statement to the individual's attention. 
 
-Back to Top 
-
-## Why does ADP collect and use personal information? 
+**Why does ADP collect and use personal information?**
 
 ADP collects and uses personal information for a number of purposes, such as: 
 
-  * providing payroll services 
-  * billing and account management 
-  * internal business operations such as planning, product development, research, and reporting to ADP-related companies 
-  * advising clients of functions and product launches 
-  * providing direct market offers for products and services provided by or on behalf of ADP (or other organisations), which ADP considers to be of interest to its clients. 
+  * Providing payroll services 
+
+  * Billing and account management 
+
+  * Internal business operations such as planning, product development, research, and reporting to ADP-related companies 
+
+  * Advising clients of functions and product launches 
+
+  * Providing direct market offers for products and services provided by or on behalf of ADP (or other organisations), which ADP considers to be of interest to its clients
 
 
 
-ADP does not collect personal information prior to obtaining the consent of its clients or of the individual(s) involved. 
 
-Back to Top 
+ADP does not collect personal information prior to obtaining the consent of its clients or of the individual(s) involved.
 
-## Disclosure of personal information 
+**Disclosure of personal information**
 
 ADP, in using personal information for the above purposes, might need to disclose personal information to various organisations and/or parties, such as the Australian Taxation Office, banking/financial institutions, superannuation authorities, health insurance organisations, contracted service providers, business partners, and related companies of ADP. 
 
@@ -42,9 +43,7 @@ In some instances, ADP may need to disclose personal information to organisation
 
 ADP may also disclose information in special cases when ADP believes, in good faith, that such action is reasonably necessary, for example: (a) to conform to legal requirements or comply with legal process; (b) to protect and defend ADP's rights or property; (c) to enforce ADP's contractual arrangements; or (d) to protect the interests of ADP's clients or others. 
 
-Back to Top 
-
-## How Does ADP protect personal information? 
+**How Does ADP protect personal information?**
 
 ADP exercises great care to protect personal information that it holds. This includes, among other things, using industry-standard techniques such as firewalls, encryption, intrusion detection, and site monitoring. 
 
@@ -52,19 +51,15 @@ Internally, ADP restricts access to personal information to employees or parties
 
 ADP will review security arrangements from time to time, as it deems appropriate. 
 
-Back to Top 
-
-## How can you help protect your information? 
+**How can you help protect your information?**
 
 If you are providing personal information to ADP (or receiving it from ADP), ADP requests that you take all necessary steps to ensure that it is accurate, complete and up-to-date. 
 
-Back to Top 
-
-## How can you correct, access and update your information? 
+**How can you correct, access and update your information?**
 
 You can view your personal information at any time (subject to the Act). If any information is incorrect, you can contact us using the details provided below. 
 
-## What can you do if you have a complaint? 
+**What can you  do if you have a complaint? **
 
 Any complaint regarding a possible breach of privacy by ADP should be directed to ADP's Privacy Officer at the following address: 
 
@@ -79,6 +74,4 @@ T: +61 3 9566 5100
 Automatic Data Processing Limited   
 ABN: 70 003 924 945 
 
-Dated: 27 June 2007 
-
-Back to Top 
+Dated: 27 June 2007
