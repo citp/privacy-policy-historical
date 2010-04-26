@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the true.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226145703id_/http%3A//www.true.com/privacy.htm%3Fsvw%3Dhomepage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the true.com privacy policy that was archived on 2010-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100426161950id_/http%3A//www.true.com/privacy.htm%3Fsvw%3Dhomepage) for the most accurate reproduction.*
 
 # True | Privacy & Use Policy
-
-**TRUSTe**
-
-| [](http://www.truste.com/ivalidate.php?url=www.true.com&sealid=101) | TRUE.com is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site www.true.com.  Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.   
----|---  
-  
-If you have questions or concerns regarding this statement, you should first contact Customer Care by email at [ customercare@TRUE.com](mailto:customercare@TRUE.com?subject=Privacy%20&%20Use%20Policy).  If you do not receive acknowledgment of your inquiry, or if your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Dispute Resolution Process at [ http://www.truste.com/consumers/watchdog_complaint.php](http://www.truste.com/consumers/watchdog_complaint.php).  TRUSTe will serve as a liaison with the website to resolve your concerns. 
 
 **Collection and Use of Information**  
 Through TRUE.com, our members may take advantage of the many services and features available online.  In order to provide you with our services, you must provide us with certain necessary information.  TRUE treats all of your information with the utmost care for your privacy and security.  TRUE does not sell, trade, or otherwise disclose customer lists names, addresses, birth dates, email address or other individually identifiable information (collectively "Personal Information") to unaffiliated third parties without your permission.  In the event that TRUE should be acquired or substantially all of its assets transferred, Personal Information would be considered a transferable asset.  TRUE will give registered members notice prior to transferring their Personal Information, and an opportunity to opt-out of having their Personal Information transferred to the new entity.  Further, in the event we make a material change in the way we collect your Personal Information, use your Personal Information, or change our email policies, you will be notified by email or through a prominent notice on our website.  For your information, below is a detailed list of the services available through TRUE.com, an outline of the information collected from you to provide such services, and a description of what we do with such information. 
@@ -97,13 +90,13 @@ Your TRUE.com account information is password protected so that only you have ac
 We strongly recommend that you do not divulge your password to anyone.  TRUE will never ask you for your password in an unsolicited phone call or email.  Also, remember to log out of your TRUE.com account and close your browser window when you have finished your session.  This will help to ensure that others cannot access your Personal Information and correspondence if you share a computer with someone else or are using a computer in a public place. 
 
 **Opt-Out**  
-If you change your mind about receiving special promotions and other information from TRUE, simply log into TRUE.com, visit your [email options](https://web.archive.org/web/20091226145703id_/http%3A//www.true.com/emailoptions.htm) and specify the types of correspondence you'd like to receive.  You may also opt-out of receiving special promotions and other information from TRUE by following the unsubscribe instructions at the end of the applicable promotional email(s) or by sending an email to [customercare@true.com](mailto:customercare@true.com). 
+If you change your mind about receiving special promotions and other information from TRUE, simply log into TRUE.com, visit your [email options](https://web.archive.org/web/20100426161950id_/http%3A//www.true.com/emailoptions.htm) and specify the types of correspondence you'd like to receive.  You may also opt-out of receiving special promotions and other information from TRUE by following the unsubscribe instructions at the end of the applicable promotional email(s) or by sending an email to [customercare@true.com](mailto:customercare@true.com). 
 
 **Contacting TRUE**  
 You may reach us at: 
 
 TRUE.com  
-300  Decker, Suite 200  
+300 Decker, Suite 200  
 Irving, TX 75062  
 Email: [ customercare@TRUE.com](mailto:customercare@TRUE.com?subject=Privacy%20&%20Use%20Policy)  
 1.866.583.TRUE (8783) or 1.972.374.9191
