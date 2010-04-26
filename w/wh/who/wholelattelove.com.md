@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholelattelove.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615092240id_/http%3A//www.wholelattelove.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholelattelove.com privacy policy that was archived on 2010-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100426160045id_/http%3A//www.wholelattelove.com/privacy.cfm) for the most accurate reproduction.*
 
 # Whole Latte Love Privacy Statement
 
