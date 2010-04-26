@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the mochacity.com privacy policy that was archived on 2009-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091222072709id_/http%3A//support.mochacity.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mochacity.com privacy policy that was archived on 2010-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100426022136id_/http%3A//support.mochacity.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-<title>Privacy Statement - MochaCity</title>
+<title>Privacy Policy - MochaCity</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="description" content="The Urban Online Community that offers Black Entertainment, African-American news, Music and more..">
 <meta name="keywords" content="african american culture, black news, african american history, black family, african american web site, black culture, african american news, black history, african american family, african american culture, black web site">
@@ -12,6 +12,7 @@
 <meta name="rating" content="general">
 <meta name="revisit-after" content="2 days">
 <meta name="doc-class" content="living document">
+<meta name="alexaVerifyID" content="J_ep7O__EvOA6WDU0D6UENFOyZ0">
 
 <!-- BEGIN TRIGGER TAG -->
 <script language="java_script" type="text/javascript" src="http://cdn.triggertag.gorillanation.com/js/triggertag.js"></script>
@@ -19,13 +20,80 @@
 <!-- END TRIGGER TAG -->
 
 
+	<script language="java_script" type="text/javascript" src="/shared_js/jquery-1.3.2.min.js"></script>
+<script language="java_script" type="text/javascript" src="/shared_js/jquery.tools.min.js"></script>
+
+
+
+
+
+
+ <script type="text/javascript">
+
+
+// GLOBALLY ACCESSIBLE BIT SET BY ON READY
+// THIS IS TO AVOID HAVING TO STUFF ALL FUNCTIONS INTO THE
+// HEAD OF THE DOCUMENT. INSTEAD...  FUNCTIONS MAY
+// INCLUDE A CONDITIONAL IF STATEMENT BEFORE ATTEMPTING TO RUN
+var MCXDocReady = false;
+
+$(document).ready(
+	function()
+	{
+		$('embed').attr('wmode','transparent');
+		$('param[name|=wmode]').attr('value','transparent');
+		$('.mcx-navactive-container').mouseleave( function(){ hideMainMenus() }); 
+		$.ajax({url: '/shared_php/mcx-nav-menus.php', success: function(data){ 
+			$('.mcx-navactive-container').html(data);
+			$('.mcx-mnav-item-off').hover( function(){$(this).addClass('mcx-mnav-item-on')},function(){$(this).removeClass('mcx-mnav-item-on')} );  }
+		});
+
+		
+				
+
+		// SET A GLOBAL ACCESSABLE VARIABLE TO READY
+		MCXDocReady = true;
+	}
+);
+
+function hideMainMenus()
+{
+	if(MCXDocReady == true)
+	{
+ 		// FIRST CLEAR ERRTHING
+		$('.mcx-mnb-off').attr("src", 'http://mochacity.com/skins/mcx/images/blank.gif');
+		$('.mcx-navactive-container').hide();
+		$('.mcx-main-nav-menu').hide();
+	}
+}
+
+function showMainMenu(tButton,tMenu)
+{
+	if( MCXDocReady == true)
+	{
+	 	// FIRST CLEAR ERRTHING
+		$('.mcx-mnb-off').attr("src", 'http://mochacity.com/skins/mcx/images/blank.gif');
+		$('.mcx-navactive-container').hide();
+		$('.mcx-main-nav-menu').hide();
+
+		// THEN SHOW THE PROPER SH	
+	 	// FIRST CLEAR ERRTHING
+		$(('#'+tButton)).attr("src", 'http://mochacity.com/skins/mcx/images/mcx-navactive-bg.png');
+		$('.mcx-navactive-container').show();
+		$(('#'+tMenu)).show();
+	}
+}
+
+ 
+ </script>
+
+
 <link rel="SHORTCUT ICON" href="http://mochacity.com/favicon.ico" type="image/x-icon">
 <link rel="icon" href="http://mochacity.com/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="http://mochacity.com/css/lightbox.css" type="text/css" media="screen">
 <link href="http://mochacity.com/skins/mcx/css/style.css" rel="stylesheet" type="text/css">
 <script language="JavaScript" type="text/javascript" src="/shared_js/mcx-common.js"></script>
 <script language="JavaScript" type="text/javascript" src="/shared_js/mcx-inline-notices.js"></script>
-<script type="text/javascript" src="/shared_js/mcxAutoSuggest.js"></script></head>
+<script language="JavaScript" type="text/javascript" src="/shared_js/mcxAutoSuggest.js"></script></head>
 <body bgcolor="#FFFFFF" id="AppBody">
 <div id="AppAlertContainer" align="center" style="text-align:center; z-index:1000001; position:absolute; display:none;"></div>
 <div id="AppScreen" class="app-screen" style="height:1px; width:1px; overflow:hidden; z-index:1000000; position:absolute; display:none;"></div>
@@ -37,27 +105,27 @@
 	<tbody><tr>
 	<td style="background-image:url('http://mochacity.com/skins/mcx/images/sup_hdr_off.png');"><table width="980" height="36" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td id="">
+		<td>
 			<a href="http://members.mochacity.com/registration/registration.htm"><img src="http://mochacity.com/skins/mcx/images/blank.gif" width="133" height="36" alt="Create An Account" border="0"></a></td>
-		<td id="">
+		<td>
 			<a href="http://members.mochacity.com/signin/signin.htm"><img src="http://mochacity.com/skins/mcx/images/blank.gif" width="109" height="36" alt="Member Sign In" border="0"></a></td>
-		<td id="">
+		<td>
 			<img src="http://mochacity.com/skins/mcx/images/blank.gif" width="365" height="36" alt="" border="0"></td>
-		<td id="">
+		<td>
 			<a href="http://company.mochacity.com/advertising.htm"><img src="http://mochacity.com/skins/mcx/images/blank.gif" width="88" height="36" alt="Advertise With Us" border="0"></a></td>
-		<td id="">
+		<td>
 			<a href="http://company.mochacity.com"><img src="http://mochacity.com/skins/mcx/images/blank.gif" width="77" height="36" alt="About Us" border="0"></a></td>
-		<td id="">
+		<td>
 			<a href="http://support.mochacity.com/"><img src="http://mochacity.com/skins/mcx/images/blank.gif" width="118" height="36" alt="Member Support" border="0"></a></td>
-		<td id="">
+		<td>
 			<img src="http://mochacity.com/skins/mcx/images/blank.gif" width="10" height="36" alt="" border="0"></td>
-		<td id="">
+		<td>
 			<a href="http://www.twitter.com/MochaNation"><img src="http://mochacity.com/skins/mcx/images/blank.gif" width="23" height="36" alt="MochaCity.com on Twitter" title="MochaCity.com on Twitter" border="0"></a></td>
-		<td id="">
+		<td>
 			<a href="http://www.facebook.com/pages/MochaCitycom/131543739229"><img src="http://mochacity.com/skins/mcx/images/blank.gif" width="22" height="36" alt="MochaCity.com on Facebook" title="MochaCity.com on Facebook" border="0"></a></td>
-		<td id="">
+		<td>
 			<a href="http://rss.mochacity.com"><img src="http://mochacity.com/skins/mcx/images/blank.gif" width="22" height="36" alt="RSS Feeds" title="RSS Feeds" border="0"></a></td>
-		<td id="">
+		<td>
 			<img src="http://mochacity.com/skins/mcx/images/blank.gif" width="13" height="36" alt="" border="0"></td>
 	</tr>
 	</tbody></table></td>
@@ -73,7 +141,7 @@
 <script language="JavaScript" type="text/javascript">
 if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
 document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.mochacity.com/ros;sect=ros;sz=728x90,468x60;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
-</script><script language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.mochacity.com/ros;sect=ros;sz=728x90,468x60;tile=1;ord=2799342088247958?" type="text/javascript"></script>
+</script><script language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.mochacity.com/ros;sect=ros;sz=728x90,468x60;tile=1;ord=5046738566478617?" type="text/javascript"></script>
 <!-- END AD TAG --></center></td>	</tr>
 	</tbody></table>
 	</center>
@@ -89,52 +157,50 @@ document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick
 	<input type="hidden" name="type" value="mochacity">
 	<input type="hidden" name="doSearch" value="1">
 	<tbody><tr>
-		<td id="">
-			<a href="http://mochacity.com"><img src="http://mochacity.com/skins/mcx/images/blank.gif" width="350" height="63	" alt="MochaCity.com" border="0"></a></td>
-		<td id="">
-			<a href="http://online.mochacity.com"><img src="http://mochacity.com/skins/mcx/images/blank.gif" width="143" height="63" alt="Click to See Who is Online" border="0"></a></td>
-		<td id="">
-			<a href="http://mochacity.com/chat/avchat.htm"><img src="http://mochacity.com/skins/mcx/images/blank.gif" width="119" height="63" alt="Click for Urban/Black Audio/Cam Chat" border="0"></a></td>
-		<td id="">
-			<a href="http://mb.mochacity.com"><img src="http://mochacity.com/skins/mcx/images/blank.gif" width="170" height="63" alt="Click For Urban/Black Discussions" border="0"></a></td>
-		<td id=""><img src="http://mochacity.com/skins/mcx/images/blank.gif" width="8" height="63" alt="" border="0"></td>
+		<td>
+			<a href="http://mochacity.com"><img onmouseover="hideMainMenus();" src="http://mochacity.com/skins/mcx/images/blank.gif" width="350" height="63" alt="MochaCity.com" border="0"></a></td>
+		<td>
+			<a href="http://online.mochacity.com"><img onmouseover="hideMainMenus();" src="http://mochacity.com/skins/mcx/images/blank.gif" width="143" height="63" alt="Click to See Who is Online" border="0"></a></td>
+		<td>
+			<a href="http://mochacity.com/chat/avchat.htm"><img onmouseover="hideMainMenus();" src="http://mochacity.com/skins/mcx/images/blank.gif" width="119" height="63" alt="Click for Urban/Black Audio/Cam Chat" border="0"></a></td>
+		<td>
+			<a href="http://mb.mochacity.com"><img onmouseover="hideMainMenus();" src="http://mochacity.com/skins/mcx/images/blank.gif" width="170" height="63" alt="Click For Urban/Black Discussions" border="0"></a></td>
+		<td><img onmouseover="hideMainMenus();" src="http://mochacity.com/skins/mcx/images/blank.gif" width="8" height="63" alt="" border="0"></td>
 		<td height="63" width="" align="left" valign="top"><div style="width:144px; padding-top:30px;"><input name="q" value="" maxlength="32" style="border:0px; background:transparent; width:144px; color:#ffffff;"></div></td>
-		<td id="" valign="bottom"><a href="javascript:void(0);" onclick="document.forms.mcSearch.submit();"><img src="http://mochacity.com/skins/mcx/images/blank.gif" width="42" height="33" alt="" border="0"></a></td>
+		<td valign="bottom"><a href="javascript:void(0);" onclick="document.forms.mcSearch.submit();"><img onmouseover="hideMainMenus();" src="http://mochacity.com/skins/mcx/images/blank.gif" width="42" height="33" alt="" border="0"></a></td>
 		
 	</tr><tr>
-	</tr></tbody></table>
-
-	</td>
+	</tr></tbody></table></td>
 	</tr>
 	</tbody></table>
 </div>
 <div style="width:980px; text-align:left;">
 	<table width="980" height="37" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-	<td style="background-image:url('http://mochacity.com/skins/mcx/images/main_hdr_nav.png');"><table width="980" border="0" cellpadding="0" cellspacing="0">
+	<td width="980" style="background-image:url('http://mochacity.com/skins/mcx/images/main_hdr_nav.png');"><table width="980" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 		<td width="95" height="37"><a href="http://community.mochacity.com">
-			<img id="" src="http://www.mochacity.com/skins/mcx/images/blank.gif" width="95" height="37" alt="" border="0"></a></td>
+			<img id="mcx_mnb_community" class="mcx-mnb-off" onmouseover="showMainMenu('mcx_mnb_community','mcx_mnm_community');" src="http://www.mochacity.com/skins/mcx/images/blank.gif" width="95" height="37" alt="" border="0"></a></td>
 		<td width="62" height="37"><a href="http://music.mochacity.com">
-			<img id="" src="http://www.mochacity.com/skins/mcx/images/blank.gif" width="62" height="37" alt="" border="0"></a></td>
+			<img id="mcx_mnb_music" class="mcx-mnb-off" onmouseover="showMainMenu('mcx_mnb_music','mcx_mnm_music');" src="http://www.mochacity.com/skins/mcx/images/blank.gif" width="62" height="37" alt="" border="0"></a></td>
 		<td width="72" height="37"><a href="http://movies.mochacity.com">
-			<img id="" src="http://www.mochacity.com/skins/mcx/images/blank.gif" width="72" height="37" alt="" border="0"></a></td>
-		<td width="71" height="37"><a href="http://events.mochacity.com">
-			<img id="" src="http://www.mochacity.com/skins/mcx/images/blank.gif" width="71" height="37" alt="" border="0"></a></td>
+			<img id="mcx_mnb_movies" class="mcx-mnb-off" onmouseover="showMainMenu('mcx_mnb_movies','mcx_mnm_movies');" src="http://www.mochacity.com/skins/mcx/images/blank.gif" width="72" height="37" alt="" border="0"></a></td>
+		<td width="71" height="37"><a href="http://events.mochacity.com/">
+			<img id="mcx_mnb_events" class="mcx-mnb-off" onmouseover="showMainMenu('mcx_mnb_events','mcx_mnm_events');" src="http://www.mochacity.com/skins/mcx/images/blank.gif" width="71" height="37" alt="" border="0"></a></td>
 		<td width="59" height="37"><a href="http://tv.mochacity.com/mcxtv.htm">
-			<img id="" src="http://www.mochacity.com/skins/mcx/images/blank.gif" width="59" height="37" alt="" border="0"></a></td>
+			<img id="mcx_mnb_mctv" class="mcx-mnb-off" onmouseover="showMainMenu('mcx_mnb_mctv','mcx_mnm_mctv');" src="http://www.mochacity.com/skins/mcx/images/blank.gif" width="59" height="37" alt="" border="0"></a></td>
 		<td width="130" height="37"><a href="http://news.mochacity.com">
-			<img id="" src="http://www.mochacity.com/skins/mcx/images/blank.gif" width="130" height="37" alt="" border="0"></a></td>
+			<img id="mcx_mnb_news" class="mcx-mnb-off" onmouseover="showMainMenu('mcx_mnb_news','mcx_mnm_news');" src="http://www.mochacity.com/skins/mcx/images/blank.gif" width="130" height="37" alt="" border="0"></a></td>
 		<td width="133" height="37"><a href="http://celebs.mochacity.com">
-			<img id="" src="http://www.mochacity.com/skins/mcx/images/blank.gif" width="133" height="37" alt="" border="0"></a></td>
+			<img id="mcx_mnb_celebs" class="mcx-mnb-off" onmouseover="showMainMenu('mcx_mnb_celebs','mcx_mnm_celebs');" src="http://www.mochacity.com/skins/mcx/images/blank.gif" width="133" height="37" alt="" border="0"></a></td>
 		<td width="122" height="37"><a href="http://news.mochacity.com/articles/14/fashion-beauty-style">
-			<img id="" src="http://www.mochacity.com/skins/mcx/images/blank.gif" width="122" height="37" alt="" border="0"></a></td>
+			<img id="mcx_mnb_fashion" class="mcx-mnb-off" onmouseover="hideMainMenus();" src="http://www.mochacity.com/skins/mcx/images/blank.gif" width="122" height="37" alt="" border="0"></a></td>
 		<td width="137" height="37"><a href="http://books.mochacity.com">
-			<img id="" src="http://www.mochacity.com/skins/mcx/images/blank.gif" width="137" height="37" alt="" border="0"></a></td>
+			<img id="mcx_mnb_books" class="mcx-mnb-off" onmouseover="showMainMenu('mcx_mnb_books','mcx_mnm_books');" src="http://www.mochacity.com/skins/mcx/images/blank.gif" width="137" height="37" alt="" border="0"></a></td>
 		<td width="99" height="37"><a href="http://ep1.mochacity.com">
-			<img id="" src="http://www.mochacity.com/skins/mcx/images/blank.gif" width="99" height="37" alt="" border="0"></a></td>
+			<img id="mcx_mnb_ep" class="mcx-mnb-off" onmouseover="hideMainMenus();" src="http://www.mochacity.com/skins/mcx/images/blank.gif" width="99" height="37" alt="" border="0"></a></td>
 	</tr>
-</tbody></table></td>
+</tbody></table><div class="mcx-navactive-container"></div></td>
 	</tr>
 	</tbody></table>
 
@@ -173,200 +239,294 @@ document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick
 <div style="background-color:#FFFFFF; width:980px; background-image:url('http://mochacity.com/skins/mcx/images/main-cont-top-bg.jpg'); background-position:top; background-repeat:repeat-x;">
 	<table width="980" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
-	<td valign="top" width="*"><div style="padding:5px; text-align:left;">
+	<td valign="top" width="*"><div style="padding-top:5px;">
+	<div class="" style="padding:5px;">
+		<span class="mcx-pg-header">MochaCity.com Support</span>
+		<div style="padding-top:3px;">
+			Privacy Policy
+		</div>
+	</div>
+	<table cellpadding="0" cellspacing="0" border="0" width="975">
+	<tbody><tr>
+	<td valign="top">
+		<div class="mcx-pg-header-container-footer" style="padding-left:15px; padding-right:15px;">
+			<br>
 
-<font class="pg_header"><font color="#FFCC00">MochaCity.com Privacy Statement</font></font><br>
-<font class="small_txt_light"><b>Last Updated:</b> June 20, 2009</font>
-<br><br><br>
-<font class="txt_white" style="font-size:11pt;">
-The Mocha Entertainment Group, Inc., owners and administrators of MochaCity.com have created this privacy statement in order to disclose our information gathering and dissemination practices for MochaCity.com 
-MochaCity.com's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using MochaCity.com, located at www.MochaCity.com and its directly associated domains (collectively, "MochaCity.com" or "Website")
+
+
+
+Welcome to MochaCity.com (the 'Website'), a service provided by the Mocha Entertainment Group, Inc. 
+We are committed to protecting your privacy. This policy provides you with details on the information we collect from 
+you and the uses we make of your personal information. If you do not want us accessing and/or using your personal 
+information as described herein, please do not provide us with any! This policy may be updated from time to time 
+without prior notice, so please check back periodically. If you continue to visit our Website and use the services 
+made available to you after such changes have been made, you hereby provide your consent to the changes.
 <br><br>
 
-Mocha Entertainment Group Inc. is the sole owner of the information it gathers on its site. Mocha Entertainment Group Inc. will only share your information with outside parties in ways that are described in this privacy statement or if we are required to do so by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, cooperate with Partners or law enforcement agencies, or comply with a legal process served on our Web site. 
-<br><br>
-By using or accessing MochaCity.com, you are accepting the practices described in this Privacy Policy. Other aspects of your privacy while using MochaCity.com may be governed by our <a href="/terms.htm">Terms of Usage Agreement</a>. We suggest that all Guests and Registered Users review our <a href="/terms.htm">Terms of Usage Agreement</a>.
-<br><br><br>
-
-
-<strong>Cookies &amp; Collected Technical Information</strong><br>
-In some cases we use a HTTP Cookies to track and store data on your computer. An HTTP Cookie is a small string of text stored on a user's computer by a web browser. A cookie consists of one or more name-value pairs containing bits of information such as user preferences, shopping cart contents, the identifier for a server-based session, or other data used by websites.
-<br><br>
-Our websites uses HTTP Cookies to track your 'login' sessions as well as in web based ads. 
-We also collect Technical information in related to your web browsing capabilities, including but not limited to: browser type, screen resolution and computer operating system.
-<br><br>
-We HTTP Cookies and Technical Information to enhance your overall experience on our site. 
-<br><br><br>
-
-<strong>Collected Personal Information</strong><br>
-From time to time you may enter submit personal information to MochaCity.com such as: Name, Addresses, Phone Numbers, Email Addresses, Birth Dates, Payment Information, etc. This information will never be posted in a visible manner unless you elect to do so. This information will not be sold or transferred to a third-party (unless the site as a whole is sold).
+We encourage you to read this policy to learn more about the information we collect from you, how we use and protect the information 
+we collect from you, how we protect children and how you can opt-out of receiving communications from us.
 <br><br>
 
-In some cases third-party advertisers may have advertisements which appear on MochaCity.com and request User interaction. And in some of those cases personal information may be requested. These advertisements will be typically marked as 'advertisements' and will not bare the MochaCity.com brand. You are not required to participate in these requests. 
-<br><br><br>
+If you have any questions about our collection and use of your information, please contact us at: privacy@mochacity.com, subject: Privacy Policy.<br><br>
 
-<strong>Security</strong><br>
-MochaCity.com uses SSL (Secure Socket Layer) encryption when transmitting certain kinds of information, such as financial services information or payment information. An icon resembling a padlock is displayed on the bottom of most browsers window during SSL transactions that involve credit cards and other forms of payment. Any time MochaCity.com asks you for a credit card number on MochaCity.com for payment or for verification purposes, it will be SSL encrypted. The information you provide will be stored securely on our servers. Once you choose to store or enter your credit card number on MochaCity.com, it will not be displayed back to you in its entirety when you retrieve or edit it in the future. Instead of the entire number, you will only see asterisks and either the first four digits or the last four digits of your number.
-<br><br><br>
+<strong>1.The Information We Collect and How We Use it</strong><br>
+a. Personally Identifiable Information<br>
 
-<strong>Emails You Receive From Us</strong><br>
-MochaCity.com uses email to keep its Users updated on things happening on this site and with their accounts. There are generally three types of email correspondence that a User will receive from our site.
-<br><br>
-<div style="padding-left:30px;">
-	<strong>Critical Updates</strong><br>
-	Critical updates are typical updates that contain information regarding your account, updates to our site, changes in site policies, or emergency alerts. As a registered member of this site, you are bound by the sites Terms of Usage agreement and prevented from opting not to receive critical updates. In this case you must discontinue usage of the MochaCity.com service in order to no longer receive Critical Updates.
+<dir>
+	We may collect personally identifiable information ('Personal Information') including but not limited to:  your name, address, telephone number and e-mail 
+	address, instant messenger screen names from you. Personal Information is collected via voluntary submissions from you in connection with signing up to 
+	become a Website user. If you do not want to provide us with your Personal Information, you may still access the Website but you may not be able to participate
+	in all Website features, including, without limitation, participating in message board discussions.
 	<br><br>
 	
-	<strong>Non-Critical Updates</strong><br>
-	Non-Critical updates refer to email correspondence from MochaCity.com that includes updates and alerts. In most cases you will be able to opt not to receive non-critical updates by signing into MochaCity.com and modifying your Account Settings.
-	<br><br>
+	We do not share personally identifiable information with unrelated third parties for their own marketing purposes without your prior permission.  We ask you to 
+	keep in mind that if you voluntarily disclose personal information online - for example, in a forum discussion made available through the Website - that information can be 
+	viewed and used by others. We are not responsible for unsolicited messages you receive from other users. We encourage you to exercise caution when making decisions about 
+	what information you disclose in such public areas. Furthermore, except as otherwise described in this Privacy Policy, any content you post to a public area of the Website 
+	may be used by us for any purpose in our sole discretion.
+	<br><br> 
 	
-	<strong>User Generated Updates</strong><br>
-	In some cases Registered Users of MochaCity.com may use the site's applications to share information with friends. In the case that you receive a 'shared page' from one of MochaCity.com's Registered Users and you wish to prevent further such messages from being sent to you, you may click the 'Block These Messages' on the bottom of the message you received.
-</div>
-<br><br><br>
+	
+	<strong>Your Personal Information is used by us:</strong>
+	<dir>
+		(i) to communicate with you; <br>
+		(ii) administer assistance to you when requested; and <br>
+		(iii) as may be required by applicable laws, rules or regulations, or the Terms of Usage applicable to this Website located at 
+		<a href="http://support.mochacity.com/terms.htm">http://support.mochacity.com/terms.htm</a>.  We may share your Personal Information 
+		with third parties to further the purpose for which you provide us with such information, including, without limitation, to facilitate
+		purchases you make via the Website.  We may share your Personal Information with third parties if we believe that the law requires us to 
+		do, or to protect our own property or the property of our affiliates.  Additionally, in the event of a corporate restructuring 
+		(such as, a sale, merger or other asset transfer), we may share your Personal Information with a third party.
+		<br><br>
+	</dir>
 
-<strong>Links</strong><br>
-MochaCity.com may contain links to other websites. We are of course not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by MochaCity.com.
-<br><br><br>
+	You may have certain rights under the Communications Act, Federal Trade Commission Act, and other state and federal statutes that may apply, and by accepting 
+	these terms and using the Website, you are waiving all of these rights as to collection, use, disclosure and storage of your personally identifiable and non-personally 
+	identifiable information collected by us.
 
-<strong>Editing and Deleting Your Account</strong><br>
-You may edit your account settings at anytime by signing into your account. You may also delete your account at anytime by submitting a request to our support staff. 
+</dir>
 <br><br>
 
-Please note that even after your account had been deleted MochaCity.com will retain some of your information, but we will not display this information on our site. We keep this information in case legal issues arise where that information may become relevant.
-<br><br><br>
+ 
+b.	Non-Personally Identifiable Information<br>
+<dir>
+	Certain non-personally identifiable information ('Non-Personal Information') about our visitors is collected by the standard operation of our Internet servers and 
+	through the use of 'cookies'.  A 'cookie' is a small amount of data sent to your browser from a web server and stored by your computer. We may use cookies to customize 
+	your visit to the Website and for other purposes to make your visit more convenient or to enable us to enhance our service. You may, at any time, stop or restrict the 
+	placement of cookies on your computer or delete them from your browser by adjusting your web browser preferences, in which case you may still use the Website, but it 
+	may interfere with some of its functionality.
+	<br><br>
 
-<strong>Contacting the Web Site</strong><br>
-If you have any questions about this privacy policy, please visit our <a href="/support_request.htm">support</a> page. You may also contact us by mail at: 
+	We do not use cookies to retrieve Personal Information from your computer, or use cookies to retrieve other information from your computer for purposes that are unrelated 
+	to the Website or your interaction with the Website.  We reserve the right to disclose or utilize any of this information in aggregate form, for any purpose, in our 
+	sole judgment.  The Non-Personal Information we collect is used by us to improve the content of our Website and enhance your experience. Third party advertisers 
+	that serve ads on the Website may also use their own cookies (see Paragraph 4 below).
+</dir>
+<br><br> 
+
+You may have certain rights under the Communications Act, Federal Trade Commission Act, and other state and federal statutes that may apply, and by accepting these 
+terms and using the Website, you are waiving all of these rights as to collection, use, disclosure and storage of your Personal Information and Non-Personal 
+Information collected by us.
 <br><br>
-<div style="padding-left:30px;">
-	<strong>Attn: MochaCity.com</strong><br>
-	Mocha Entertainment Group, Inc.<br>
-	13659 Victory Blvd. #188<br>
-	Van Nuys, California 91401<br>
-</div>
+
+<strong>2. Protection for Children.</strong> <br>
+This Website is not intended for children, and we have no intention of collecting personally identifiable information from, children of any age.
+Additionally, if you are 17 years old or younger, you are not authorized to register or submit any content or information to this Website.
+We will use all reasonable efforts to delete such information from our Website database as soon as possible following our receipt of your request.
+To request such removal of your child's information, you should contact us at: privacy@mochacity.com.
+<br><br>
 
 
-</font>
+<strong>3. Opt-Out of Email Notices &amp; Newsletters.</strong><br>
+MochaCity.com sends a various email updates and alerts to its members for a number of different reasons. Many of these messages are automatically sent by our software,
+to notify of changes to your account or update you on the activities of your friends. Upon occassion we send Newsletters to inform you of changes and updates
+to the website.
+<br><br>
+You may opt-out of almost every type of automatic email sent from our site by signing into your account and editing your settings.
+Our <strong>Email Help</strong> (<a href="http://support.mochacity.com/email-help.htm">http://support.mochacity.com/email-help.htm</a>) page details the exact steps 
+you need to take to opt-out of email sent from MochaCity.com.
+
+<br><br>
+
+<strong>4. Third Party Advertising.</strong> <br>
+The ads appearing on this Website are delivered to you by numerous advertising agencies who we've partnered with.  Non-Personal Information about your visits to this site, 
+such as number of times you have viewed an ad, is used by some of these agencies to serve ads to you.
+<br><br>
+
+<strong>5. Security.</strong><br>
+We are committed to using our best efforts to maintaining the security of your Personal Information.  To prevent unauthorized access, maintain data accuracy, 
+and ensure the appropriate use of information, we adhere to industry standard practices and procedures to help protect and secure the information we collect.
+We strive to offer you a secure and safe environment for your online credit card purchases. Although we use our best efforts to protect the security of your 
+Personal Information and our system, due to the inherent open nature of the Internet, no transmission via the Internet can be guaranteed to be 100% secure. 
+As a result of this and other factors beyond our control, we cannot guarantee the security of the information that you transmit to or through our Website. 
+Therefore, you assume that risk by using the Website.
+<br><br>
+
+<strong>6. Links to Other Websites.</strong><br>
+This Website may contain links to other websites. Please be aware that we are not responsible for the privacy practices of other websites. 
+We encourage you to be aware when you access any such third party links and to read the privacy policies of each website that you access.
+This Privacy Policy only applies to information collected by us via this Website.
+<br><br>
+
+<strong>7. Offers and Promotions.</strong><br>
+We may from time to time offer you opportunities that are sponsored entirely by us or co-branded with or sponsored by third parties. 
+Such content may include contests, sweepstakes or promotions. In connection with such opportunities, the relevant third parties may obtain 
+Personal Information that you voluntarily submit to participate in such opportunity. We have no control over the use by such third parties of such information. 
+<br><br>
+
+<strong>8. Reviewing Your Information.</strong><br>
+You may view your Personal Information at any time by logging in to your account and viewing your personal profile. You may also contact us as set forth in Paragraph 9 
+below with any questions about your Personal Information. 
+<br><br>
+
+<strong>9. Contact Us.</strong><br>
+If you have any questions, comments or concerns regarding this Privacy Policy and/or the practices described herein, please email us at 
+privacy@mochacity.com Subject: Privacy Policy; or write us: Attn: Legal Department, Mocha Entertainment Group, Inc, 13659 Van Nuys #188, CA 91401.
+<br><br>
+
+<strong>10. Governing Law.</strong><br>
+This Privacy Policy and our legal obligations hereunder are subject to the laws of the state of California and the U.S.A., regardless of your location. 
+You hereby consent to the exclusive jurisdiction of and venue in the federal and state courts located in Los Angeles, California, U.S.A. in all disputes arising 
+out of or relating to the Services.
+<br><br>
+Your use of this Website is governed by, and subject to, the legal notices and disclaimers located at <a href="http://support.mochacity.com/terms.htm">http://support.mochacity.com/terms.htm</a> and is subject at all 
+times to all such legal notices and disclaimers. Furthermore, your use and access of the Website constitutes your agreement to be bound by the provisions 
+contained in the Terms of Usage and in this Privacy Policy.
+<br><br>
+
+<strong>Third Party Advertising</strong><br>
+The ads appearing on this Web site are delivered to you by multiple ad agencies including but not limited to, Google Ad Sence, Gorilla Nation and Casale Media.
+Information about your visits to this site, such as number of times you have viewed an ad <strong>(but not your name, address, or other personal in-formation)</strong>, is 
+used to serve ads to you.
+<br><br>
+
+<strong>Third Party Cookies</strong><br>
+In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser.  
+
+<br><br>
+This Privacy Policy was last updated on January 28, 2010.<br><br>
+
+
+
+
+
+	
+		</div>
+	</td>
+	<td width="329" valign="top"><img src="http://company.mochacity.com/about-promo-image.jpg" width="329" height="591"></td>
+	</tr>
+	</tbody></table>
+	<br><br><br><br><br><br><br><br>	
 </div>
         </td>
         </tr>
         </tbody></table>
 </div>
+<div style="background-color:#FFFFFF; width:980px; background-image:url('http://mochacity.com/skins/mcx/images/main-cont-bottom-bg.jpg'); background-position:bottom; background-repeat:repeat-x;">
 
-<div style="padding:5px; background-color:#FFFFFF;">
-<br>
-<center>
-<table>
-<tbody><tr><td>
-<script type="text/javascript"><!--
-google_ad_client = "pub-8755026009003842";
-/* Mocha-Text-Only */
-google_ad_slot = "4882214417";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
 
-</td><td>
-<script type="text/javascript"><!--
-google_ad_client = "pub-8755026009003842";
-/* 200x90, created 1/5/09 */
-google_ad_slot = "6499671717";
-google_ad_width = 200;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</td></tr></tbody></table></center>
+<div style="text-align:center; padding-top:10px; padding-bottom:10px;">
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://adserve.mochacity.com/max/www/delivery/ajs.php':'http://adserve.mochacity.com/max/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=13");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://adserve.mochacity.com/max/www/delivery/ajs.php?zoneid=13&amp;cb=62328655236&amp;loc=https%3A//web.archive.org/web/20100426022136id_/http%253A//support.mochacity.com/privacy.htm"></script>
+
+
 </div>
 
-<div style="background-color:#FFFFFF; width:980px; background-image:url('http://mochacity.com/skins/mcx/images/main-cont-bottom-bg.jpg'); background-position:bottom; background-repeat:repeat-x;">
-<br>
+
 <script type="text/javascript" src="http://www.mochacity.com/js/mcx-bottom-features.js"></script>
 </div>
 
-
-<div style="background-image:url('http://mochacity.com/skins/mcx/images/bottom-nav-bg.jpg'); width:980px;">
-	<table width="980" border="0" cellpadding="0" cellspacing="0" height="220">
+<div style="background-image:url('http://mochacity.com/skins/mcx/images/bottom-nav-bg.png'); width:980px;">
+	<table width="980" border="0" cellpadding="0" cellspacing="0" height="295">
 	<tbody><tr>
 		<td valign="top"><br><div style="padding-top:0px; padding-left:15px;">
 <table cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
 <td valign="top" width="159">
 		<div style="padding-left:5px; padding-right:6px;">
-                        <div style="border-bottom:1px solid #332100;"><font class="mcx-txt-balt3" style="font-size:10pt;">Information</font></div>
+                        <div style="border-bottom:1px solid #332100;"><span class="mcx-txt-balt3" style="font-size:10pt;">Information</span></div>
                         <a href="http://members.mochacity.com/signin/signin.htm" class="mcx-bottom-nav-link">Sign In</a> / 
                         <a href="http://members.mochacity.com/registration/registration.htm" class="mcx-bottom-nav-link">New Account</a><br>
                         <a href="http://company.mochacity.com/about_us.htm" class="mcx-bottom-nav-link">About Us</a><br>
                         <a href="http://company.mochacity.com/advertising.htm" class="mcx-bottom-nav-link">Advertising</a><br>
                         <a href="http://support.mochacity.com/privacy.htm" class="mcx-bottom-nav-link">Privacy Statement</a><br>
                         <a href="http://support.mochacity.com/terms.htm" class="mcx-bottom-nav-link">Terms of Usage</a><br>
-                        <a href="http://support.mochacity.com" class="mcx-bottom-nav-link">Support</a><br>
+                        <a href="http://support.mochacity.com" class="mcx-bottom-nav-link">Support</a>
+			<div style="margin-top:10px;">
+                        <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=6D65YL4W976XY" class="mcx-bottom-nav-link"><b>Donate Here</b> - your support is appreciated</a></div>
 
 				
 			</div>
 </td>
 <td width="8"><img src="http://www.mochacity.com/images/blank.gif" width="8" height="8"></td>
-<td valign="top" width="159">
+<td valign="top" width="189">
                         <div style="padding-left:5px; padding-right:6px;">
-                        <div style="border-bottom:1px solid #332100;"><font class="mcx-txt-balt3" style="font-size:10pt;">Entertainment</font></div>
+                        <div style="border-bottom:1px solid #332100;"><span class="mcx-txt-balt3" style="font-size:10pt;">Entertainment</span></div>
                         <a href="http://music.mochacity.com" class="mcx-bottom-nav-link">Mocha Music</a><br>
                         <a href="http://tv.mochacity.com" class="mcx-bottom-nav-link">MochaCity TV</a><br>
+                        <a href="http://mediacenter.mochacity.com" class="mcx-bottom-nav-link">Urban Media Center</a><br>
                         <a href="http://events.mochacity.com" class="mcx-bottom-nav-link">MochaCity Events</a><br>
                         <a href="http://movies.mochacity.com" class="mcx-bottom-nav-link">Mocha Movies</a><br>
-                        <a href="http://ep1.mochacity.com" class="mcx-bottom-nav-link">Models</a><br>
                         <a href="http://books.mochacity.com" class="mcx-bottom-nav-link">Bookroom</a><br>
-                
+                        <div style="border-bottom:1px solid #332100; margin-top:10px;"><span class="mcx-txt-balt3" style="font-size:10pt;">Entertainment Blogs</span></div>
+                        <a href="http://dabuzz.mochacity.com" class="mcx-bottom-nav-link">DaBuzz in Entertainment</a><br>
+                        <a href="http://lrx.mochacity.com" class="mcx-bottom-nav-link">MochaLRX - Hip Hop News</a><br>
+                        <a href="http://powderroom.mochacity.com" class="mcx-bottom-nav-link">PowderRoom for Women</a><br>
+                        <a href="http://movies.mochacity.com/articles/6/movie-buzz" class="mcx-bottom-nav-link">Movie Buzz - News &amp; Gossip</a><br>
+                        <a href="http://dymes.mochacity.com/" class="mcx-bottom-nav-link">MochaDymes - Vixens</a><br>
 			</div>
 </td>
 <td width="8"><img src="http://www.mochacity.com/images/blank.gif" width="8" height="8"></td>
 <td valign="top" width="159">
                         <div style="padding-left:5px; padding-right:6px;">
-                        <div style="border-bottom:1px solid #332100;"><font class="mcx-txt-balt3" style="font-size:10pt;">Community</font></div>
+                        <div style="border-bottom:1px solid #332100;"><span class="mcx-txt-balt3" style="font-size:10pt;">Community</span></div>
                         <a href="http://members.mochacity.com" class="mcx-bottom-nav-link">Community</a><br>
                         <a href="http://online.mochacity.com" class="mcx-bottom-nav-link">Who's Online</a><br>
                         <a href="http://mb.mochacity.com" class="mcx-bottom-nav-link">Message Boards</a><br>
-                        <a href="http://blogs.mochacity.com" class="mcx-bottom-nav-link">Blogs</a><br>
+                        <a href="http://community.mochacity.com/community-blogs.htm" class="mcx-bottom-nav-link">Community Blogs</a><br>
+                        <a href="http://community.mochacity.com/community-photos.htm" class="mcx-bottom-nav-link">Shared Photos</a><br>
                         <a href="http://mochacity.com/chat/avchat.htm" class="mcx-bottom-nav-link">A/V Chat</a><br>
                         <a href="http://news.mochacity.com" class="mcx-bottom-nav-link">News &amp; Editorial</a>
-                
 			</div>
 </td>
 <td width="8"><img src="http://www.mochacity.com/images/blank.gif" width="8" height="8"></td>
 <td valign="top" width="140">
                         <div style="padding-left:5px; padding-right:6px;">
-                        <div style="border-bottom:1px solid #332100;"><font class="mcx-txt-balt3" style="font-size:10pt;">Friends &amp; Partners</font></div>
-                        <a href="http://www.hivepress.com/" class="mcx-bottom-nav-link">HivePress.com</a><br>
+                        <div style="border-bottom:1px solid #332100;"><span class="mcx-txt-balt3" style="font-size:10pt;">Friends &amp; Partners</span></div>
                         <a href="http://thelighthaus.wordpress.com/" class="mcx-bottom-nav-link">The Lighthaus</a><br>
+                        <a href="http://www.lyricdysin.blogspot.com/" class="mcx-bottom-nav-link">Lyric's Lounge</a><br>
                         <a href="http://www.bryanthology.com" class="mcx-bottom-nav-link">Bryanthology</a><br>
-                
+                        <a href="http://www.yeahshesaidit.com/" class="mcx-bottom-nav-link">Yeah She Said It</a><br>
+                        <a href="http://crateapesradio.com/" class="mcx-bottom-nav-link">Crate Apes Radio</a><br>
+                        <a href="http://www.boriquachicks.com/" class="mcx-bottom-nav-link">Boriqua Chicks</a><br>
+                        <a href="http://www.thehollywoodtrainer.com/" class="mcx-bottom-nav-link">The Hollywood Trainer</a><br>
 			</div>
+		
 </td>
 </tr>	
-</tbody></table></div></td>
-		<td valign="bottom" width="320" style="padding-bottom:10px;"><br>
-			<table cellpadding="0" cellspacing="0" border="0" width="">
-			<tbody><tr>
-			<td width="50" valign="top"><a href="http://www.mochacity.com/"><img src="http://mochacity.com/skins/mcx/images/mcx-bottom-logo.png" width="50" height="77" alt="MochaCity.com" border="0"></a></td>
-			<td valign="top" style="padding-top:10px;">
-			<div style="padding-left:10px; text-align:center">
+</tbody></table>
+</div>
+<div style="padding-top:15px;"><div style="padding-left:10px; text-align:left; padding-top:10px;">
 	<span class="mcx-meta-dark">Design and Programming by <strong>James 'XO' Lincoln</strong></span><br>
-	<span class="mcx-meta-dark"><strong>© 2004-2010 <a href="http://www.mochaent.com/" style="color:#1a1100;">Mocha Entertainment Group, Inc.</a></strong><br>All Rights Reserved.</span>
-</div>			</td>
-			</tr>
-			</tbody></table>
-		</td>
+	<span class="mcx-meta-dark"><strong>© 2004-2010 <a href="http://www.mochaent.com/" style="color:#1a1100;">Mocha Entertainment Group, Inc.</a></strong> All Rights Reserved.</span>
+</div></div></td>
 	</tr>
 	</tbody></table>
 </div>
-
 <br>
-</div>
 <img src="http://www.mochacity.com/skins/mcx/images/sm-yes-button.png" border="0" width="80" height="32" alt="yes" style="display:none;">
 <img src="http://www.mochacity.com/skins/mcx/images/sm-cancel-button.png" border="0" width="80" height="32" alt="yes" style="display:none;">
 
@@ -395,4 +555,4 @@ qacct:"p-ecPvSTdVx5FtA"
 </noscript>
 <!-- End Quantcast tag -->
 
-</div></body></html>
+</div></div></body></html>
