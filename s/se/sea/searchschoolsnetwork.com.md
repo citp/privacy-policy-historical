@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchschoolsnetwork.com privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427180400id_/http%3A//searchschoolsnetwork.com/articles.jsp%3Farticle%3D_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchschoolsnetwork.com privacy policy that was archived on 2010-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100426120646id_/http%3A//www.searchschoolsnetwork.com/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Online Degrees, On-Campus Degrees and Certificates -Search
 
 **www.searchschoolsnetwork.com** is owned and operated by QuinStreet, Inc.
 
