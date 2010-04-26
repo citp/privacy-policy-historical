@@ -1,56 +1,71 @@
-> *The following text is extracted and transformed from the mochacity.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222072709id_/http%3A//support.mochacity.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mochacity.com privacy policy that was archived on 2010-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100426022136id_/http%3A//support.mochacity.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Statement - MochaCity
+# Privacy Policy - MochaCity
 
-  
-**Last Updated:** June 20, 2009
+Welcome to MochaCity.com (the 'Website'), a service provided by the Mocha Entertainment Group, Inc. We are committed to protecting your privacy. This policy provides you with details on the information we collect from you and the uses we make of your personal information. If you do not want us accessing and/or using your personal information as described herein, please do not provide us with any! This policy may be updated from time to time without prior notice, so please check back periodically. If you continue to visit our Website and use the services made available to you after such changes have been made, you hereby provide your consent to the changes. 
 
-The Mocha Entertainment Group, Inc., owners and administrators of MochaCity.com have created this privacy statement in order to disclose our information gathering and dissemination practices for MochaCity.com MochaCity.com's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using MochaCity.com, located at www.MochaCity.com and its directly associated domains (collectively, "MochaCity.com" or "Website") 
+We encourage you to read this policy to learn more about the information we collect from you, how we use and protect the information we collect from you, how we protect children and how you can opt-out of receiving communications from us. 
 
-Mocha Entertainment Group Inc. is the sole owner of the information it gathers on its site. Mocha Entertainment Group Inc. will only share your information with outside parties in ways that are described in this privacy statement or if we are required to do so by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, cooperate with Partners or law enforcement agencies, or comply with a legal process served on our Web site. 
+If you have any questions about our collection and use of your information, please contact us at: privacy@mochacity.com, subject: Privacy Policy.
 
-By using or accessing MochaCity.com, you are accepting the practices described in this Privacy Policy. Other aspects of your privacy while using MochaCity.com may be governed by our [Terms of Usage Agreement](https://web.archive.org/terms.htm). We suggest that all Guests and Registered Users review our [Terms of Usage Agreement](https://web.archive.org/terms.htm). 
+**1.The Information We Collect and How We Use it**  
+a. Personally Identifiable Information
 
-**Cookies & Collected Technical Information**  
-In some cases we use a HTTP Cookies to track and store data on your computer. An HTTP Cookie is a small string of text stored on a user's computer by a web browser. A cookie consists of one or more name-value pairs containing bits of information such as user preferences, shopping cart contents, the identifier for a server-based session, or other data used by websites. 
+We may collect personally identifiable information ('Personal Information') including but not limited to: your name, address, telephone number and e-mail address, instant messenger screen names from you. Personal Information is collected via voluntary submissions from you in connection with signing up to become a Website user. If you do not want to provide us with your Personal Information, you may still access the Website but you may not be able to participate in all Website features, including, without limitation, participating in message board discussions. 
 
-Our websites uses HTTP Cookies to track your 'login' sessions as well as in web based ads. We also collect Technical information in related to your web browsing capabilities, including but not limited to: browser type, screen resolution and computer operating system. 
+We do not share personally identifiable information with unrelated third parties for their own marketing purposes without your prior permission. We ask you to keep in mind that if you voluntarily disclose personal information online - for example, in a forum discussion made available through the Website - that information can be viewed and used by others. We are not responsible for unsolicited messages you receive from other users. We encourage you to exercise caution when making decisions about what information you disclose in such public areas. Furthermore, except as otherwise described in this Privacy Policy, any content you post to a public area of the Website may be used by us for any purpose in our sole discretion. 
 
-We HTTP Cookies and Technical Information to enhance your overall experience on our site. 
+**Your Personal Information is used by us:**
 
-**Collected Personal Information**  
-From time to time you may enter submit personal information to MochaCity.com such as: Name, Addresses, Phone Numbers, Email Addresses, Birth Dates, Payment Information, etc. This information will never be posted in a visible manner unless you elect to do so. This information will not be sold or transferred to a third-party (unless the site as a whole is sold). 
+(i) to communicate with you;   
+(ii) administer assistance to you when requested; and   
+(iii) as may be required by applicable laws, rules or regulations, or the Terms of Usage applicable to this Website located at <http://support.mochacity.com/terms.htm>. We may share your Personal Information with third parties to further the purpose for which you provide us with such information, including, without limitation, to facilitate purchases you make via the Website. We may share your Personal Information with third parties if we believe that the law requires us to do, or to protect our own property or the property of our affiliates. Additionally, in the event of a corporate restructuring (such as, a sale, merger or other asset transfer), we may share your Personal Information with a third party.  You may have certain rights under the Communications Act, Federal Trade Commission Act, and other state and federal statutes that may apply, and by accepting these terms and using the Website, you are waiving all of these rights as to collection, use, disclosure and storage of your personally identifiable and non-personally identifiable information collected by us. 
 
-In some cases third-party advertisers may have advertisements which appear on MochaCity.com and request User interaction. And in some of those cases personal information may be requested. These advertisements will be typically marked as 'advertisements' and will not bare the MochaCity.com brand. You are not required to participate in these requests. 
+b. Non-Personally Identifiable Information
 
-**Security**  
-MochaCity.com uses SSL (Secure Socket Layer) encryption when transmitting certain kinds of information, such as financial services information or payment information. An icon resembling a padlock is displayed on the bottom of most browsers window during SSL transactions that involve credit cards and other forms of payment. Any time MochaCity.com asks you for a credit card number on MochaCity.com for payment or for verification purposes, it will be SSL encrypted. The information you provide will be stored securely on our servers. Once you choose to store or enter your credit card number on MochaCity.com, it will not be displayed back to you in its entirety when you retrieve or edit it in the future. Instead of the entire number, you will only see asterisks and either the first four digits or the last four digits of your number. 
+Certain non-personally identifiable information ('Non-Personal Information') about our visitors is collected by the standard operation of our Internet servers and through the use of 'cookies'. A 'cookie' is a small amount of data sent to your browser from a web server and stored by your computer. We may use cookies to customize your visit to the Website and for other purposes to make your visit more convenient or to enable us to enhance our service. You may, at any time, stop or restrict the placement of cookies on your computer or delete them from your browser by adjusting your web browser preferences, in which case you may still use the Website, but it may interfere with some of its functionality. 
 
-**Emails You Receive From Us**  
-MochaCity.com uses email to keep its Users updated on things happening on this site and with their accounts. There are generally three types of email correspondence that a User will receive from our site. 
+We do not use cookies to retrieve Personal Information from your computer, or use cookies to retrieve other information from your computer for purposes that are unrelated to the Website or your interaction with the Website. We reserve the right to disclose or utilize any of this information in aggregate form, for any purpose, in our sole judgment. The Non-Personal Information we collect is used by us to improve the content of our Website and enhance your experience. Third party advertisers that serve ads on the Website may also use their own cookies (see Paragraph 4 below). 
 
-**Critical Updates**  
-Critical updates are typical updates that contain information regarding your account, updates to our site, changes in site policies, or emergency alerts. As a registered member of this site, you are bound by the sites Terms of Usage agreement and prevented from opting not to receive critical updates. In this case you must discontinue usage of the MochaCity.com service in order to no longer receive Critical Updates. 
+You may have certain rights under the Communications Act, Federal Trade Commission Act, and other state and federal statutes that may apply, and by accepting these terms and using the Website, you are waiving all of these rights as to collection, use, disclosure and storage of your Personal Information and Non-Personal Information collected by us. 
 
-**Non-Critical Updates**  
-Non-Critical updates refer to email correspondence from MochaCity.com that includes updates and alerts. In most cases you will be able to opt not to receive non-critical updates by signing into MochaCity.com and modifying your Account Settings. 
+**2\. Protection for Children.**   
+This Website is not intended for children, and we have no intention of collecting personally identifiable information from, children of any age. Additionally, if you are 17 years old or younger, you are not authorized to register or submit any content or information to this Website. We will use all reasonable efforts to delete such information from our Website database as soon as possible following our receipt of your request. To request such removal of your child's information, you should contact us at: privacy@mochacity.com. 
 
-**User Generated Updates**  
-In some cases Registered Users of MochaCity.com may use the site's applications to share information with friends. In the case that you receive a 'shared page' from one of MochaCity.com's Registered Users and you wish to prevent further such messages from being sent to you, you may click the 'Block These Messages' on the bottom of the message you received. 
+**3\. Opt-Out of Email Notices & Newsletters.**  
+MochaCity.com sends a various email updates and alerts to its members for a number of different reasons. Many of these messages are automatically sent by our software, to notify of changes to your account or update you on the activities of your friends. Upon occassion we send Newsletters to inform you of changes and updates to the website. 
 
-**Links**  
-MochaCity.com may contain links to other websites. We are of course not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by MochaCity.com. 
+You may opt-out of almost every type of automatic email sent from our site by signing into your account and editing your settings. Our **Email Help** (<http://support.mochacity.com/email-help.htm>) page details the exact steps you need to take to opt-out of email sent from MochaCity.com. 
 
-**Editing and Deleting Your Account**  
-You may edit your account settings at anytime by signing into your account. You may also delete your account at anytime by submitting a request to our support staff. 
+**4\. Third Party Advertising.**   
+The ads appearing on this Website are delivered to you by numerous advertising agencies who we've partnered with. Non-Personal Information about your visits to this site, such as number of times you have viewed an ad, is used by some of these agencies to serve ads to you. 
 
-Please note that even after your account had been deleted MochaCity.com will retain some of your information, but we will not display this information on our site. We keep this information in case legal issues arise where that information may become relevant. 
+**5\. Security.**  
+We are committed to using our best efforts to maintaining the security of your Personal Information. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we adhere to industry standard practices and procedures to help protect and secure the information we collect. We strive to offer you a secure and safe environment for your online credit card purchases. Although we use our best efforts to protect the security of your Personal Information and our system, due to the inherent open nature of the Internet, no transmission via the Internet can be guaranteed to be 100% secure. As a result of this and other factors beyond our control, we cannot guarantee the security of the information that you transmit to or through our Website. Therefore, you assume that risk by using the Website. 
 
-**Contacting the Web Site**  
-If you have any questions about this privacy policy, please visit our [support](https://web.archive.org/support_request.htm) page. You may also contact us by mail at: 
+**6\. Links to Other Websites.**  
+This Website may contain links to other websites. Please be aware that we are not responsible for the privacy practices of other websites. We encourage you to be aware when you access any such third party links and to read the privacy policies of each website that you access. This Privacy Policy only applies to information collected by us via this Website. 
 
-**Attn: MochaCity.com**  
-Mocha Entertainment Group, Inc.  
-13659 Victory Blvd. #188  
-Van Nuys, California 91401  
+**7\. Offers and Promotions.**  
+We may from time to time offer you opportunities that are sponsored entirely by us or co-branded with or sponsored by third parties. Such content may include contests, sweepstakes or promotions. In connection with such opportunities, the relevant third parties may obtain Personal Information that you voluntarily submit to participate in such opportunity. We have no control over the use by such third parties of such information. 
 
+**8\. Reviewing Your Information.**  
+You may view your Personal Information at any time by logging in to your account and viewing your personal profile. You may also contact us as set forth in Paragraph 9 below with any questions about your Personal Information. 
+
+**9\. Contact Us.**  
+If you have any questions, comments or concerns regarding this Privacy Policy and/or the practices described herein, please email us at privacy@mochacity.com Subject: Privacy Policy; or write us: Attn: Legal Department, Mocha Entertainment Group, Inc, 13659 Van Nuys #188, CA 91401. 
+
+**10\. Governing Law.**  
+This Privacy Policy and our legal obligations hereunder are subject to the laws of the state of California and the U.S.A., regardless of your location. You hereby consent to the exclusive jurisdiction of and venue in the federal and state courts located in Los Angeles, California, U.S.A. in all disputes arising out of or relating to the Services. 
+
+Your use of this Website is governed by, and subject to, the legal notices and disclaimers located at <http://support.mochacity.com/terms.htm> and is subject at all times to all such legal notices and disclaimers. Furthermore, your use and access of the Website constitutes your agreement to be bound by the provisions contained in the Terms of Usage and in this Privacy Policy. 
+
+**Third Party Advertising**  
+The ads appearing on this Web site are delivered to you by multiple ad agencies including but not limited to, Google Ad Sence, Gorilla Nation and Casale Media. Information about your visits to this site, such as number of times you have viewed an ad **(but not your name, address, or other personal in-formation)** , is used to serve ads to you. 
+
+**Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser. 
+
+This Privacy Policy was last updated on January 28, 2010.
+
+| 
