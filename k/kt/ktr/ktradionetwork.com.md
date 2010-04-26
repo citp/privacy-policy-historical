@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktradionetwork.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217053552id_/http%3A//media.ktradionetwork.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktradionetwork.com privacy policy that was archived on 2010-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100426183734id_/http%3A//media.ktradionetwork.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
