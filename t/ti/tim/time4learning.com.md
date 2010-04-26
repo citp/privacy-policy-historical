@@ -1,42 +1,67 @@
-> *The following text is extracted and transformed from the time4learning.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610172628id_/http%3A//www.time4learning.com/Legal_and_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time4learning.com privacy policy that was archived on 2010-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100427004936id_/http%3A//time4learning.com/curriculum/privacy.html) for the most accurate reproduction.*
 
-# time4learning.com - Contact Us
+# Time4Learning Privacy Policy
 
-You have trusted us to make safe and quality content that children can enjoy.  In the cyberspace world, this trust is even more important to your family, and to time4leearning.com. To make sure that this site stays safe and fun, we make the following promises: 
+At Time4Learning, we strongly feel that children's safety, which is related to privacy, is all-important.
 
-  * In almost all activities, the information we collect is non-personal (such as first name, age, city and state). If you enter a contest, send us a question or send an electronic postcard, we will also ask for an e-mail address. We only collect enough information from our visitors to make activities on time4learning.com fun and interesting. 
-  * If you submit stories, artwork, comments or anything else to us which is posted on our site, you will be identified on our site only by first name, age, city and state. 
-  * If you send us an e-mail with a question or comment, or enter one of our contests, we will write back using your e-mail address, but we will not keep the address or use it again. 
-  * If you ask time4learning.com to send an electronic postcard or e-mail message, we will ask for your first name and e-mail address as well as the e-mail address of the person who will receive the postcard. We will only use this information to send the postcard or message and we will delete the information when the postcard or message is sent. 
-  * No one will be excluded from our site for not giving us personal information. When we do ask for personal information (like an e-mail address), we will only keep it until that particular activity is complete. We will not share this information with a third party. 
-  * Children using the time4learning.com environment which requires a login, have been pre-approved through accounts set up by their parents. 
+**If you have questions or comments on our policy, we would like to hear from you. You can contact us by:**
 
-
-
-As you surf around time4learning.com, it is possible that several cookies* will be set on your computer. time4learning.com uses the information from cookies to deliver relevant local resources, remember browser preferences, and improve our visitors' experiences on the site. No personal information is ever stored in a time4learning.com cookie. 
-
-tim4leearning.com does not sell information collected by cookies or use the information for commerce-related purposes. In addition, time4learning.com will not filter content based on your preferences without permission. 
-
-*What's a cookie? _A cookie is information a Web site puts on your computer's hard drive so that the site can remember your preferences or which pages you visited on that site._
-
-time4learning.com only uses cookies at the following times: 
-
-  * To capture the local time from your computer in order to properly set timers and counters. 
-  * To remember parental login name (for easier access) and to automatically load the children associated with the parental account. 
-  * As you explore pbskids.org, a session cookie will tell us which pages you visit and the amount of time between each page visit. This cookie does not remember any information about you or your computer, it just tells us at PBS Kids how long visitors spend on our sites and which pages receive the most traffic. A "session cookie" only remembers information about your current visit to the site. 
+  * Email - privacy @ Time4Learning.com
+  * Phone - (954) 771-0914
+  * Mail - Time4Learning, 6300 NE 1st Ave. Suite 203, Fort Lauderdale, FL 33334
 
 
 
+**Please read this Privacy Policy carefully** because it describes our privacy practices and helps distinguish our service from others which have different policies.
 
-We also promise to help families and communities find the information they need to use the Internet safely and responsibly. 
+**Your California Privacy Rights** \- Effective January 1, 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at: Time4Learning Attention: California Privacy Rights Request 6300 NE 1st Ave., Ste. 203 Ft. Lauderdale, Florida 33334
 
-  * When a PBS Kids site is partially funded by outside sponsors, we will mark any underwriter logos with a "sponsored by" tag. We choose our underwriters carefully, to make sure that the company's products and services fit PBS standards. PBS Kids sites will not contain advertisements promoting e-commerce or direct links to e-commerce. 
-  * All links to third party sites are insulated with a time4learning.com bridge page. These pages clearly notify the visitor that he or she is leaving time4learning.com, and offers an opportunity to return to time4learning.com. Each bridge page displays a Web literacy tip, educating visitors how to be safe on the Internet. In the case of a sponsor's link, the bridge page will provide more information about the sponsor's relationship to time4learning.com. Since we cannot be assured that links to outside sites follow our safety or privacy guidelines, we encourage families to discuss these choices together. We are not responsible for the content or safety and privacy practices at any sites linked from our pages. 
+Our site complies with the Children's Online Privacy Protection Act "COPPA", which you may read about [here](http://www.coppa.org/comply.htm).
+
+**Time4Learning service** \- providing an educational sequence personalized for each child with reports to the parents - requires being able to identify the children. This information is never shared with any outside parties and is securely stored. The only contact information that is collected is for contacting parents. Time4Learning will never seek to directly contact your children. Time4Learning will never market to children.
+
+Children on the internet should be closely supervised and instructed about security. We recommend that parents provide the following information to all children: [Kids' Rules for Online Safety.](http://www.safekids.com/kids-rules-for-online-safety/)
+
+### Time4Learning does not disclose any personal information to outside parties.
+
+Time4Learning has appropriate security measures in place to safeguard against unauthorized access to the personal information collected at our Web site, including limiting the number of people who have physical access to our database servers, as well as electronic security systems and password protections.
+
+### What about the collection of information by third parties?
+
+Our web site contains links to web sites not maintained by Time4Learning. Although we do our best to ensure that such web sites maintain the highest standards for privacy policy, the privacy and data collection practices on any linked web sites are entirely separate from Time4Learning and are not covered by this Privacy Policy. As a policy, we do not take our users to sites where an email or other personal information is solicited. However, we cannot guarantee that this will not occur.
+
+### What security measures do we take?
+
+Time4Learning has taken reasonable steps to ensure that all information received from our online visitors remains as secure as possible against unauthorized access and use. All personal information provided by customers is kept in Time4Learning secure database, and is protected by our security measures, which are periodically reviewed. Bear in mind, however, that no data transmission over the Internet is 100% secure and any information disclosed online can potentially be collected and used by parties other than the intended recipient.
+
+### Children's Privacy Guidelines 
+
+**Time4Learning exists to serve and provide a safe positive experience for children. To ensure this, we work with the following:**
+
+  1. We do not collect online contact information directly from children. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes.  
+
+  2. We do not distribute to third parties any personally identifiable information without prior parental consent.  
+
+  3. We do not give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent.  
+
+  4. We try to avoid providing access to any web sites which request personal information such as emails or addresses of the users.
 
 
 
-Your family's use of this site is conditioned on your having accepted these terms. You should check back to this policy frequently, since it is subject to change from time to time, and your continued use of the site is conditioned upon your acceptance of any modifications hereto. 
+We do not entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity.
 
-We want to make this site a place where families can surf together, and where parents and caregivers are happy to have their children interact, learn and play. If you have any comments or questions, we're happy to hear them. This is, after all, **your** site. 
+### *What is a cookie?
 
-If you have any questions or concerns regarding this policy, send us an e-mail at  [info@time4learning.com](mailto:info@time4learning.com). You may click here for additional contact information.  Please read **Terms and Conditions** for using this site. Read the **Online Privacy Policy** for the sites hosted on time4learning.com. 
+A cookie is information a Web site puts on your computer's hard drive so that the site can remember your preferences or which pages you visited on that site.
+
+**Time4Learning.com only uses cookies with Members at the following times:**
+
+  * To capture the local time from your computer in order to properly set timers and counters.
+  * To remember parental login name (for easier access) and to automatically load the login information for children associated with the parental account.
+  * As you explore various web sites, a session cookie will tell Time4Learning which pages you visit and the amount of time between each visit. This cookie does not remember any information about you or your computer, A "session cookie" only remembers information about your current visit to the site.
+
+
+
+Your family's use of this site is conditioned on your having accepted these terms. You should check back to this policy frequently, since it is subject to change from time to time, and your continued use of the site is conditioned upon your acceptance of any modifications hereto.
+
+We want to make this service useful to families and to provide parents and caregivers a service with which they are happy to have their children interact, learn and play. If you have any comments or questions, we'd like to hear them. This is, after all, built for you. Feedback @ time4learning.com 
