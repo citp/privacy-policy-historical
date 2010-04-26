@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyfunk.net privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222222740id_/http%3A//www.moneyfunk.net/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyfunk.net privacy policy that was archived on 2010-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100426052950id_/http%3A//www.moneyfunk.net/contact/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Money Funk | Personal Finance & Frugal Living
 
@@ -23,7 +23,14 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 Google Adsense  
 Commission Junction  
 Amazon  
-Intuit
+Intuit  
+Quicken  
+www.totallymoney.com  
+www.cleardebt.co.uk  
+www.achievecard.com  
+www.thinkmoney.com  
+debtfreedirect.co.uk  
+PPI Misselling
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.moneyfunk.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
