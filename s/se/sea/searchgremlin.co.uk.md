@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchgremlin.co.uk privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225214505id_/http%3A//www.searchgremlin.co.uk/legal/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchgremlin.co.uk privacy policy that was archived on 2010-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100427215820id_/http%3A//searchgremlin.co.uk/legal/privacy_policy.htm) for the most accurate reproduction.*
 
 # Search Gremlin - Privacy Policy
 
