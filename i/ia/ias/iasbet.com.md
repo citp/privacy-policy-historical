@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the iasbet.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214131434id_/http%3A//www.iasbet.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iasbet.com privacy policy that was archived on 2010-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100427044346id_/http%3A//www.iasbet.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # IASbet.com - Privacy Policy
 
 ## We respect your privacy
 
-We are committed to ensuring the privacy of everyone we deal with, and to providing you with the highest levels of customer service. From 21 December 2001, we are bound by new sections of the Commonwealth Privacy Act, 1988. International All Sports Limited has systems and processes in place that comply with the National Privacy Principles, which protect our customers and are the basis of the Act.
+We are committed to ensuring the privacy of everyone we deal with, and to providing you with the highest levels of customer service. From 21 December 2001, we are bound by new sections of the Commonwealth Privacy Act, 1988. IAS (IASbet.com) has systems and processes in place that comply with the National Privacy Principles, which protect our customers and are the basis of the Act.
 
 ## Personal Information
 
@@ -44,7 +44,7 @@ We may share your personal information with other Companies with whom we have a 
 
 ## Security
 
-We take all reasonable steps to ensure that your personal information is stored securely. Transmissions sent to or from our websites are routinely monitored for quality control and systems administration. Unfortunately no data transmission over the Internet can be guaranteed to be totally secure, however we strive to protect your personal information to the maximum extent possible. We use a variety of physical and electronic methods including restricting access to offices, databases and firewalls to keep personal information secure from misuse, loss or unauthorized use. Credit card information is among the most important information we collect. IAS Limited operates secure servers, using high level encryption, to minimize the risk of unauthorized use of this type of information.
+We take all reasonable steps to ensure that your personal information is stored securely. Transmissions sent to or from our websites are routinely monitored for quality control and systems administration. Unfortunately no data transmission over the Internet can be guaranteed to be totally secure, however we strive to protect your personal information to the maximum extent possible. We use a variety of physical and electronic methods including restricting access to offices, databases and firewalls to keep personal information secure from misuse, loss or unauthorized use. Credit card information is among the most important information we collect. IAS operates secure servers, using high level encryption, to minimize the risk of unauthorized use of this type of information.
 
 ## Children’s Policy
 
