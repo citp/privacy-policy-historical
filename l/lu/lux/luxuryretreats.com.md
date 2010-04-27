@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the luxuryretreats.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215154036id_/http%3A//www.luxuryretreats.com/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxuryretreats.com privacy policy that was archived on 2010-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100427080644id_/http%3A//www.luxuryretreats.com/content/privacy.aspx) for the most accurate reproduction.*
 
 # Luxury Retreats: Privacy Policy - Villa Rentals Specialists
 
-CaribbeanWayLuxury Retreats International Inc. (“Luxury Retreats”) takes your privacy seriously. We make it a priority to secure and protect the confidentiality of the personally identifiable information that you provide to us. This policy explains the type of personal information we gather when you use www.luxuryretreats.com or our affiliated websites (collectively, the “Site”) and when you provide us information by other means, including by email and telephone.
+Luxury Retreats International Inc. ("Luxury Retreats") takes your privacy seriously. We make it a priority to secure and protect the confidentiality of the personally identifiable information that you provide to us. This policy explains the type of personal information we gather when you use www.luxuryretreats.com or our affiliated websites (collectively, the "Site") and when you provide us information by other means, including by email and telephone.
 
 ###### Information We Collect
 
@@ -16,7 +16,7 @@ The information we collect is used to improve the Site and to contact those who 
 
 ###### You May “Opt Out” of Receiving Future Offerings
 
-Should you wish to opt out of receiving promotions, offerings or communications from Luxury Retreats in the future, please let us know by clicking on the "unsubscribe" link within the e-mail that you received from us or by writing to us at the following address: 5530 St. Patrick, Suite 2210, Montreal, Quebec, Canada H4E 1A8.
+Should you wish to opt out of receiving promotions, offerings or communications from Luxury Retreats in the future, please let us know by clicking on the "unsubscribe" link within the e-mail that you received from us or by writing to us at the following address: 5530 St. Patrick, Suite 2210, Montreal, Quebec, Canada H4E 1A8. Please allow four to six weeks for the suppression of your name from our lists to become effective.
 
 ###### Third-Party Web Beacons
 
