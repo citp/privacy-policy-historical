@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottishpower.co.uk privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203154052id_/http%3A//www.scottishpower.co.uk/About_Us/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottishpower.co.uk privacy policy that was archived on 2010-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100428005749id_/http%3A//www.scottishpower.co.uk/About_Us/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
