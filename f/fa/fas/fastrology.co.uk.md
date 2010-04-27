@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastrology.co.uk privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226145637id_/http%3A//www.fastrology.co.uk/privacy%3FID%3Dnull) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastrology.co.uk privacy policy that was archived on 2010-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100427065848id_/http%3A//www.fastrology.co.uk/privacy%3FID%3Dnull) for the most accurate reproduction.*
 
 # Privacy policy
 
