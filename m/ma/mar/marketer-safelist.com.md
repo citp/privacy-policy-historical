@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the marketer-safelist.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227140135id_/http%3A//marketer-safelist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketer-safelist.com privacy policy that was archived on 2010-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100427235838id_/http%3A//marketer-safelist.com/privacy.php) for the most accurate reproduction.*
 
-# Marketer Safelist | GET MORE OFTEN BIG BANG TRAFFIC TO YOUR $$$ BUSINESS!
+# Marketer Safelist | FREE ONLINE ADVERTISING | GET MORE OFTEN BIG BANG TRAFFIC TO YOUR ONLINE BUSINESS!
 
-** Privacy Policy**
+**Privacy Policy**
 
-  
 Welcome to Marketer Safelist. 
 
 We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site Visitors who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Marketer Safelist (collectively,Services)(Authorized Customers). 
