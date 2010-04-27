@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translation-guide.com privacy policy that was archived on 2009-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090206091012id_/http%3A//www.translation-guide.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translation-guide.com privacy policy that was archived on 2010-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100427165044id_/http%3A//www.translation-guide.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Translation-Guide.com
 
@@ -16,4 +16,4 @@ A cookie is a tiny data file that your web browser can store on your computer's 
 
 This site may use cookies to help provide further statistical information about how people use this site.
 
-Advertisers and other third parties may also be using cookies/web beacons to help store and collect information.
+Advertisers and other third parties may also be using cookies/web beacons to help store and collect information. This may include the DoubleClick DART cookie, which uses details of what pages you have viewed on this site and others to show ads that are relevant to your interests. You may opt out from using the DART cookie if you wish. Please [click here](http://www.google.com/privacy_ads.html) for details.
