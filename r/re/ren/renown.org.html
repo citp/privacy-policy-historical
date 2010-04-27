@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the renown.org privacy policy that was archived on 2008-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081221165136id_/http%3A//www.renown.org/body.cfm%3Fid%3D114) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the renown.org privacy policy that was archived on 2010-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100427042706id_/http%3A//www.renown.org/body.cfm%3Fid%3D114) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>Privacy</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="description" content="">
 	<meta name="keywords" content="renown, health, reno, washoe, nevada, hospital, medical center, surgery, womens, doctors, nurses, institute for cancer, cancer, institute for heart health, heart disease, heart attack, institute for neurosciences, neuroscience, medical, services  ">
+                <meta name="verify-v1" content="5lu90jA1f5V+lxPI/oL+29rFboIIzeMAk4aB8vSWSP4=">
 	
 		
 	
@@ -28,6 +29,455 @@
 	<script src="scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 	<script src="scripts/AC_ActiveX.js" type="text/javascript"></script>
 	
+				
+<script type="text/javascript">
+//<!--
+var ns4 = (document.layers);
+var ie  = (document.all);
+var ie4 = (ie && !document.getElementById);
+var ie5 = (ie && document.getElementById);
+var ns6 = (!ie && document.getElementById);
+
+var aryMoused = new Array();
+var aryLayerMoused = new Array();
+var aryMoImages = new Array();
+var imageList = new Array();
+var runMouseOvers = true;
+var TimerID = null;
+var iLimit = 25;
+var itmp = 0;
+
+var nbTime = 100;
+var nbTimes = 2;
+var nbThisLoc = 325;
+var aryLayerNames = new Array();
+var aryNavBarLayerInfo = new Array();
+var aryNavBarLayers = new Array();
+
+var registeredObjects = new Array();
+var viz = "hide";
+
+function MOImage() {
+	var arg = MOImage.arguments;
+	this.ptrImage = BillzNavBarMM_findObj(arg[0]);
+	this.imageMO = new Image();
+	this.imageMO.src = arg[1];
+	this.HTMLname = arg[0];
+	this.Moused = false;
+	this.OriginalSrc = '';
+	return true;
+}
+
+function BillzImagePreload() {
+	// 0) html image name 1) mo image src 2)image Name for rollover key (rollover may have multiple mos for one html Image) 
+	var arg = BillzImagePreload.arguments;
+	nbImagePreload(arg[0], arg[1], arg[2]);
+}
+
+function nbImagePreload(img_name, mo_img_src, rollover_key_img_name) {
+	var imageKey = (rollover_key_img_name.length > 0) ? rollover_key_img_name : img_name;
+	imageList[imageList.length] = imageKey;
+	if (!(aryMoImages[imageKey])) aryMoImages[imageKey] = new MOImage(img_name, mo_img_src);
+}
+
+function BillzMouseover() {
+	var arg = null;
+	if (runMouseOvers) {		
+		arg = BillzMouseover.arguments; //args 0)ImageName 1)OriginalSrc 2)array index (caller imagename)		
+		nbMouseover(arg[0], arg[1], arg[2]);
+	}
+	return true;
+}
+// args 1) ImageName 2) OriginalSrc 3) array index (caller imagename)
+function nbMouseover(img_name, orig_src, img_key) {
+	var imageKey = null;
+	var o = null;
+	if (runMouseOvers) 
+	{				
+		imageKey = (img_key.length > 0) ? img_key : img_name;
+		if (!(aryMoImages[imageKey].ptrImage)) aryMoImages[imageKey].ptrImage = BillzNavBarMM_findObj(img_name);		
+		if (aryMoImages[imageKey] && (o = aryMoImages[imageKey].ptrImage)) {
+			aryMoImages[imageKey].OriginalSrc = orig_src;
+			aryMoImages[imageKey].Moused = true;
+			o.src = aryMoImages[imageKey].imageMO.src;
+		}
+	}
+	return true;
+}
+
+var NavBarTempOnload = null;
+if (window.onload && window.onload != null) NavBarTempOnload = window.onload;
+
+function FullyLoaded() {
+	if (NavBarTempOnload != null) NavBarTempOnload();
+	runMouseOvers = true;
+	return true;
+}
+
+function BillzMouseOutTimer() {
+	return nbMouseOutTimer();
+}
+
+function nbMouseOutTimer() {
+	if (TimerID) clearTimeout(TimerID);
+	TimerID = setTimeout("nbLayerRestore()",5000);
+	return true;
+}
+
+function RestoreAll() {
+	nbMouseoverRestore();
+	nbLayerRestore();
+	return true;
+}
+
+function BillzMouseoverRestore() {
+	return nbMouseoverRestore();
+}
+
+function nbMouseoverRestore() {
+	var i = 0;
+	var o = null;
+	if (runMouseOvers) {
+		for (i = 0; i < imageList.length; i++) {
+			if (aryMoImages[imageList[i]].Moused && (o = aryMoImages[imageList[i]].ptrImage)) {
+				o.src = aryMoImages[imageList[i]].OriginalSrc;
+				aryMoImages[imageList[i]].Moused = false;
+			}
+		}
+	}
+	return true;
+}
+
+function BillzLayerRestore() {
+	return nbLayerRestore();
+}
+
+function nbLayerRestore() {
+	var i = 0;
+	for (i = 0; i < aryLayerNames.length; i++) {
+		if (!aryNavBarLayerInfo[aryLayerNames[i]].isDefault) BillzNavBarRestoreLayers(aryLayerNames[i]);	
+	}
+	return true;
+}
+
+function BillzArrayPushUnique(aryArray, varNewElement) { //only pushes if unique value
+	var pushIt = true;
+	var i = 0;
+	for (i = 0; i < aryArray.length && pushIt; i++) {
+		pushIt = (varNewElement != aryArray[i]);
+	}
+	if (pushIt) BillzArrayPush(aryArray, varNewElement);
+	return pushIt;
+}
+
+function BillzArrayPush(aryArray, varNewElement) { //Implement Array Push 'cause IE cant handle it
+	aryArray[aryArray.length] = varNewElement;
+	return true;
+}
+function BillzArrayPop(aryArray) { //Implement Array Pop 'cause IE cant handle it before 5.5
+	var varItemToPop = null;
+	if (aryArray[aryArray.length - 1]) {
+		varItemToPop = aryArray[aryArray.length - 1];
+		aryArray[aryArray.length] = null;
+	}
+	return varItemToPop;
+}
+
+function getDivRef(id) {
+	var divref;
+	if(ns4) divref = document.layers[id];
+	else if(ie4) divref = document.all[id];
+	else if(ie5 || ns6) divref = document.getElementById(id);	
+	return divref;
+}
+
+//v3.0 name changed to avoid clash with possible other JS in content, this function complements of MM Dreamweaver
+function NavBarSwapRollover(swapimage,defaultimage,imageID) {
+	if(imageID.length > 0 && document.getElementById(imageID))
+	{
+		if(swapimage.length > 0) 
+			document.getElementById(imageID).src = "images/" + swapimage;
+		else
+			document.getElementById(imageID).src = "images/" + defaultimage;		
+	}
+}
+function BillzNavBarMM_findObj(n, d) {
+	var p,i,x;
+	if (ns6) x = document.getElementById(n);
+	else {		
+		if (registeredObjects[n]) return registeredObjects[n];
+		if (!(d)) d = document;
+		try {
+			p = n.indexOf("?");
+		}
+		catch(e) {
+			p = 0;
+		}
+		if (p > 0 && parent.frames.length) {
+			d = parent.frames[n.substring(p+1)].document;
+			n = n.substring(0,p);
+		}
+		if (!(x = d[n]) && d.all) x = d.all[n];	
+		for (i = 0; !x && i < d.forms.length; i++) {
+			x = d.forms[i][n];
+		}
+		for (i=0; !x && d.layers && i < d.layers.length; i++) {
+			if (d.layers[i].id.indexOf("external_") == -1) x = BillzNavBarMM_findObj(n, d.layers[i].document);	
+		}
+		registeredObjects[n] = x;
+	}				
+	return x;
+}
+
+function BillzArrayContains() {
+	var arg = BillzArrayContains.arguments;
+	var foundit = false;
+	var i = 0;
+	for (i = 0; i < arg[0].length && !foundit; i++) {
+		foundit = (arg[1] == arg[0][i]);
+	}
+	return foundit;
+}
+
+function NavBarRegisterLayer() {
+	var arg = NavBarRegisterLayer.arguments;
+	var n = arg[0];
+	var d = arg[1];
+	var mo = false;
+	var o = null;
+	if (arg[2] && arg[2] == 'MOutLayer') mo = true;
+	else mo = false;
+	
+	if (!(BillzArrayContains(aryLayerNames, n))) {
+		if (o = BillzNavBarMM_findObj(n)) {
+			aryNavBarLayers[n] = o;
+			BillzArrayPushUnique(aryLayerNames, n);
+			aryNavBarLayerInfo[n] = new NavBarLayer(n, d, mo);
+		}
+	}
+	return true;
+}
+
+function BillzNavBarMM_showHideLayers() {
+	//v3.0 name changed, this function complements of MM Dreamweaver with customizations by Bill Heller
+	var i = 0;
+	var x = "";
+	var obj = null;
+	var v = null;
+	var p = null;
+	var args = BillzNavBarMM_showHideLayers.arguments;
+	
+	if (args[args.length - 1] != "menu") nbMouseOutTimer();
+	for (i = 0; i < (args.length - 2); i += 3) {
+		if (!aryNavBarLayers[args[i]]) {
+			x = (args[i + 2] == 'show') ? 'hide' : 'show';
+			NavBarRegisterLayer(args[i], x);
+		}
+		if ((obj = aryNavBarLayers[args[i]]) != null) {
+			v = args[i + 2];
+			aryNavBarLayerInfo[args[i]].isDefault = false;
+			if (args[args.length - 1] == "restore") v = (v == 'show') ? 'hide' : 'show';
+			
+			if (obj.style) obj.style.visibility = (v == 'show') ? 'visible' : ((v == 'hide') ? 'hidden' : v);
+			else obj.visibility = v;
+		}
+	}
+	return true;
+}
+
+function BillzNavBarRestoreLayers() {
+	var i = 0;
+	var x = "";
+	var obj = null;
+	var v = null;
+	var p = null;
+	var args = BillzNavBarRestoreLayers.arguments;
+	for (i = 0; i < (args.length); i++) {
+		if (obj = aryNavBarLayers[args[i]]) {
+			v = aryNavBarLayerInfo[args[i]].defaultVisibility;
+			if (obj.style) {
+				obj = obj.style;
+				v = (v == 'show' ) ? 'visible' : ((v == 'hide') ? 'hidden' : v);
+			}
+			obj.visibility = v;
+			if (!aryNavBarLayerInfo[args[i]].MOutLayer) aryNavBarLayerInfo[args[i]].isDefault = true;			
+		}
+	}
+	return true;
+}
+
+function NavBarLayer() {
+	var arg = NavBarLayer.arguments;
+	this.defaultVisibility = arg[1];
+	this.isDefault = true;
+	this.MOutLayer = arg[2];
+	return true;
+}
+
+function BillzNavMove() {
+	return nbNavMove();
+}
+
+function nbNavMove() {
+	var thisl = null;
+	var otherl = null;
+	if (thisl = BillzNavBarMM_findObj("nbScrollLayer")) {
+		if (thisl.style) {
+			thisl = thisl.style;
+			viz = "hidden";
+		} 
+		thisl.top = nbThisLoc -= 3;
+		if (nbThisLoc < -750) {
+			nbThisLoc = 325;
+			nbTimes--;
+		}
+	}
+	if (nbTimes <= 0) {
+		otherl = BillzNavBarMM_findObj("BillzLayer");
+		otherl.visibility = viz;
+	} else {
+		setTimeout("nbNavMove()", nbTime);
+	}	
+	return true;
+}
+
+function NavBar_openadmin() {
+	window.open('admin/','SiteAdmin','height=screen.availheight,width=screen.availwidth,scrollbars=1,toolbar=0,directories=0,status=0,menubar=0,resizable=1');
+	return true;
+}
+
+window.onload = FullyLoaded;
+//-->
+</script>
+					
+<script type="text/javascript">
+//<!--
+function NavBar_setCookie(cookievalue,navVersion,linkID) 
+{	
+	var cookiename = "SLIDINGTABLE_NAVBAR" + navVersion;
+	var cookieVersionname = "SLIDINGTBL_NAVBAR_VERSION";
+	var cookieClear = "SLIDINGTBL_NAVBAR_CLEARCOOKIES";	
+	document.cookie = cookieClear.toUpperCase() + "=false";
+	if(cookievalue.length > 0)
+		document.cookie = cookiename.toUpperCase() + "=" + escape(cookievalue);
+	if(navVersion.length > 0)	
+		document.cookie = cookieVersionname.toUpperCase() + "=" + navVersion;	
+	if(linkID.length > 0)
+		NavBar_setPLinkIDCookie(linkID,navVersion);		
+}
+function NavBar_setoLevelIDCookie(cookievalue,linkID,navVersion) 
+{
+	var name = "SLIDINGTBL_NAVBAR_OLEVELID";		
+	if(cookievalue.length > 0)
+		document.cookie = name.toUpperCase() + "=" + escape(cookievalue);	
+	if(linkID.length > 0)
+		NavBar_setPLinkIDCookie(linkID,navVersion);	
+	if(navVersion.length > 0)	
+		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;		
+}
+function NavBar_setPLinkIDCookie(linkID,navVersion)
+{	
+	document.cookie = "SLIDINGTBL_NAVBAR_PLINKID=" + linkID;	
+	if(navVersion.length > 0)	
+		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;
+}
+function NavBar_deleteCookie() 
+{
+	// first we'll split this cookie up into name/value pairs
+	// note: document.cookie only returns name=value, not the other components
+	var check_name = "SLIDINGTABLE_NAVBAR";	
+	var a_all_cookies = document.cookie.split( ';' );
+	var a_temp_cookie = '';
+	var cookie_name = '';
+	var cookie_value = '';
+	var b_cookie_found = false; // set boolean t/f default f	
+
+	document.cookie = "SLIDINGTBL_NAVBAR_VERSION=0";	
+	document.cookie = "SLIDINGTBL_NAVBAR_OLEVELID=";	
+	for (i = 0; i < a_all_cookies.length; i++)
+	{		
+		a_temp_cookie = a_all_cookies[i].split( '=' );			
+		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+		
+		//expire all cookies for every slidingTable_navbar intances.			
+		if (cookie_name.toUpperCase().indexOf(check_name) == 0)		
+			document.cookie = cookie_name.toUpperCase() + "=";			 	
+	}	
+}
+		
+//-->
+</script>
+			
+				
+<script type="text/javascript">
+//<!--
+				
+nbImagePreload('btn-home_2_1','images/btn-home_on.gif', '');
+nbImagePreload('btn_institutecancer_2_2','images/btn_institutecancer_on.gif', '');
+nbImagePreload('btn-childrenshospital_2_3','images/btn-childrenshospital_on.gif', '');
+nbImagePreload('btn_hearthealth_2_4','images/btn_hearthealth_on.gif', '');
+nbImagePreload('btn_neurosciences_2_5','images/btn_neurosciences_on.gif', '');
+
+//-->
+</script>
+<script type="text/javascript">
+//<!--
+function NavBar_setCookie(cookievalue,navVersion,linkID) 
+{	
+	var cookiename = "SLIDINGTABLE_NAVBAR" + navVersion;
+	var cookieVersionname = "SLIDINGTBL_NAVBAR_VERSION";
+	var cookieClear = "SLIDINGTBL_NAVBAR_CLEARCOOKIES";	
+	document.cookie = cookieClear.toUpperCase() + "=false";
+	if(cookievalue.length > 0)
+		document.cookie = cookiename.toUpperCase() + "=" + escape(cookievalue);
+	if(navVersion.length > 0)	
+		document.cookie = cookieVersionname.toUpperCase() + "=" + navVersion;	
+	if(linkID.length > 0)
+		NavBar_setPLinkIDCookie(linkID,navVersion);		
+}
+function NavBar_setoLevelIDCookie(cookievalue,linkID,navVersion) 
+{
+	var name = "SLIDINGTBL_NAVBAR_OLEVELID";		
+	if(cookievalue.length > 0)
+		document.cookie = name.toUpperCase() + "=" + escape(cookievalue);	
+	if(linkID.length > 0)
+		NavBar_setPLinkIDCookie(linkID,navVersion);	
+	if(navVersion.length > 0)	
+		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;		
+}
+function NavBar_setPLinkIDCookie(linkID,navVersion)
+{	
+	document.cookie = "SLIDINGTBL_NAVBAR_PLINKID=" + linkID;	
+	if(navVersion.length > 0)	
+		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;
+}
+function NavBar_deleteCookie() 
+{
+	// first we'll split this cookie up into name/value pairs
+	// note: document.cookie only returns name=value, not the other components
+	var check_name = "SLIDINGTABLE_NAVBAR";	
+	var a_all_cookies = document.cookie.split( ';' );
+	var a_temp_cookie = '';
+	var cookie_name = '';
+	var cookie_value = '';
+	var b_cookie_found = false; // set boolean t/f default f	
+
+	document.cookie = "SLIDINGTBL_NAVBAR_VERSION=0";	
+	document.cookie = "SLIDINGTBL_NAVBAR_OLEVELID=";	
+	for (i = 0; i < a_all_cookies.length; i++)
+	{		
+		a_temp_cookie = a_all_cookies[i].split( '=' );			
+		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+		
+		//expire all cookies for every slidingTable_navbar intances.			
+		if (cookie_name.toUpperCase().indexOf(check_name) == 0)		
+			document.cookie = cookie_name.toUpperCase() + "=";			 	
+	}	
+}
+		
+//-->
+</script>
+			
 	<style type="text/css">
 		table.mainCont1 {width:100%;}
 		tr.clTop1 {}
@@ -54,7 +504,196 @@
 		td.pHTMLafter1 {padding:0px;}
 		td.cHTMLafter1 {padding:0px;}
 	</style>
-	</head>
+	
+				
+<script type="text/javascript">
+//<!--
+				
+nbImagePreload('banner_art_3_1','images/banner_art_on.jpg', '');
+nbImagePreload('banner_davinci_3_2','images/banner_davinci_on.gif', '');
+nbImagePreload('banner_tower_3_4','images/banner_tower_on.gif', '');
+nbImagePreload('banner_findaphysician_3_6','images/banner_findaphysician_on.gif', '');
+nbImagePreload('banner_onlineshop_3_7','images/banner_onlineshop_on.gif', '');
+
+//-->
+</script>
+<script type="text/javascript">
+//<!--
+function NavBar_setCookie(cookievalue,navVersion,linkID) 
+{	
+	var cookiename = "SLIDINGTABLE_NAVBAR" + navVersion;
+	var cookieVersionname = "SLIDINGTBL_NAVBAR_VERSION";
+	var cookieClear = "SLIDINGTBL_NAVBAR_CLEARCOOKIES";	
+	document.cookie = cookieClear.toUpperCase() + "=false";
+	if(cookievalue.length > 0)
+		document.cookie = cookiename.toUpperCase() + "=" + escape(cookievalue);
+	if(navVersion.length > 0)	
+		document.cookie = cookieVersionname.toUpperCase() + "=" + navVersion;	
+	if(linkID.length > 0)
+		NavBar_setPLinkIDCookie(linkID,navVersion);		
+}
+function NavBar_setoLevelIDCookie(cookievalue,linkID,navVersion) 
+{
+	var name = "SLIDINGTBL_NAVBAR_OLEVELID";		
+	if(cookievalue.length > 0)
+		document.cookie = name.toUpperCase() + "=" + escape(cookievalue);	
+	if(linkID.length > 0)
+		NavBar_setPLinkIDCookie(linkID,navVersion);	
+	if(navVersion.length > 0)	
+		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;		
+}
+function NavBar_setPLinkIDCookie(linkID,navVersion)
+{	
+	document.cookie = "SLIDINGTBL_NAVBAR_PLINKID=" + linkID;	
+	if(navVersion.length > 0)	
+		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;
+}
+function NavBar_deleteCookie() 
+{
+	// first we'll split this cookie up into name/value pairs
+	// note: document.cookie only returns name=value, not the other components
+	var check_name = "SLIDINGTABLE_NAVBAR";	
+	var a_all_cookies = document.cookie.split( ';' );
+	var a_temp_cookie = '';
+	var cookie_name = '';
+	var cookie_value = '';
+	var b_cookie_found = false; // set boolean t/f default f	
+
+	document.cookie = "SLIDINGTBL_NAVBAR_VERSION=0";	
+	document.cookie = "SLIDINGTBL_NAVBAR_OLEVELID=";	
+	for (i = 0; i < a_all_cookies.length; i++)
+	{		
+		a_temp_cookie = a_all_cookies[i].split( '=' );			
+		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+		
+		//expire all cookies for every slidingTable_navbar intances.			
+		if (cookie_name.toUpperCase().indexOf(check_name) == 0)		
+			document.cookie = cookie_name.toUpperCase() + "=";			 	
+	}	
+}
+		
+//-->
+</script>
+			
+				
+<script type="text/javascript">
+//<!--
+function NavBar_setCookie(cookievalue,navVersion,linkID) 
+{	
+	var cookiename = "SLIDINGTABLE_NAVBAR" + navVersion;
+	var cookieVersionname = "SLIDINGTBL_NAVBAR_VERSION";
+	var cookieClear = "SLIDINGTBL_NAVBAR_CLEARCOOKIES";	
+	document.cookie = cookieClear.toUpperCase() + "=false";
+	if(cookievalue.length > 0)
+		document.cookie = cookiename.toUpperCase() + "=" + escape(cookievalue);
+	if(navVersion.length > 0)	
+		document.cookie = cookieVersionname.toUpperCase() + "=" + navVersion;	
+	if(linkID.length > 0)
+		NavBar_setPLinkIDCookie(linkID,navVersion);		
+}
+function NavBar_setoLevelIDCookie(cookievalue,linkID,navVersion) 
+{
+	var name = "SLIDINGTBL_NAVBAR_OLEVELID";		
+	if(cookievalue.length > 0)
+		document.cookie = name.toUpperCase() + "=" + escape(cookievalue);	
+	if(linkID.length > 0)
+		NavBar_setPLinkIDCookie(linkID,navVersion);	
+	if(navVersion.length > 0)	
+		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;		
+}
+function NavBar_setPLinkIDCookie(linkID,navVersion)
+{	
+	document.cookie = "SLIDINGTBL_NAVBAR_PLINKID=" + linkID;	
+	if(navVersion.length > 0)	
+		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;
+}
+function NavBar_deleteCookie() 
+{
+	// first we'll split this cookie up into name/value pairs
+	// note: document.cookie only returns name=value, not the other components
+	var check_name = "SLIDINGTABLE_NAVBAR";	
+	var a_all_cookies = document.cookie.split( ';' );
+	var a_temp_cookie = '';
+	var cookie_name = '';
+	var cookie_value = '';
+	var b_cookie_found = false; // set boolean t/f default f	
+
+	document.cookie = "SLIDINGTBL_NAVBAR_VERSION=0";	
+	document.cookie = "SLIDINGTBL_NAVBAR_OLEVELID=";	
+	for (i = 0; i < a_all_cookies.length; i++)
+	{		
+		a_temp_cookie = a_all_cookies[i].split( '=' );			
+		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+		
+		//expire all cookies for every slidingTable_navbar intances.			
+		if (cookie_name.toUpperCase().indexOf(check_name) == 0)		
+			document.cookie = cookie_name.toUpperCase() + "=";			 	
+	}	
+}
+		
+//-->
+</script>
+			
+				
+<script type="text/javascript">
+//<!--
+function NavBar_setCookie(cookievalue,navVersion,linkID) 
+{	
+	var cookiename = "SLIDINGTABLE_NAVBAR" + navVersion;
+	var cookieVersionname = "SLIDINGTBL_NAVBAR_VERSION";
+	var cookieClear = "SLIDINGTBL_NAVBAR_CLEARCOOKIES";	
+	document.cookie = cookieClear.toUpperCase() + "=false";
+	if(cookievalue.length > 0)
+		document.cookie = cookiename.toUpperCase() + "=" + escape(cookievalue);
+	if(navVersion.length > 0)	
+		document.cookie = cookieVersionname.toUpperCase() + "=" + navVersion;	
+	if(linkID.length > 0)
+		NavBar_setPLinkIDCookie(linkID,navVersion);		
+}
+function NavBar_setoLevelIDCookie(cookievalue,linkID,navVersion) 
+{
+	var name = "SLIDINGTBL_NAVBAR_OLEVELID";		
+	if(cookievalue.length > 0)
+		document.cookie = name.toUpperCase() + "=" + escape(cookievalue);	
+	if(linkID.length > 0)
+		NavBar_setPLinkIDCookie(linkID,navVersion);	
+	if(navVersion.length > 0)	
+		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;		
+}
+function NavBar_setPLinkIDCookie(linkID,navVersion)
+{	
+	document.cookie = "SLIDINGTBL_NAVBAR_PLINKID=" + linkID;	
+	if(navVersion.length > 0)	
+		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;
+}
+function NavBar_deleteCookie() 
+{
+	// first we'll split this cookie up into name/value pairs
+	// note: document.cookie only returns name=value, not the other components
+	var check_name = "SLIDINGTABLE_NAVBAR";	
+	var a_all_cookies = document.cookie.split( ';' );
+	var a_temp_cookie = '';
+	var cookie_name = '';
+	var cookie_value = '';
+	var b_cookie_found = false; // set boolean t/f default f	
+
+	document.cookie = "SLIDINGTBL_NAVBAR_VERSION=0";	
+	document.cookie = "SLIDINGTBL_NAVBAR_OLEVELID=";	
+	for (i = 0; i < a_all_cookies.length; i++)
+	{		
+		a_temp_cookie = a_all_cookies[i].split( '=' );			
+		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+		
+		//expire all cookies for every slidingTable_navbar intances.			
+		if (cookie_name.toUpperCase().indexOf(check_name) == 0)		
+			document.cookie = cookie_name.toUpperCase() + "=";			 	
+	}	
+}
+		
+//-->
+</script>
+			</head>
+
 
 
 
@@ -137,360 +776,12 @@
                               
 	<!-- Begin NavBar Output  -  Version:  v0.79a 09/30/2006  -->
 	
-         		
-            <script language="JavaScript" type="text/javascript">
-            <!--//
-                  var ns4 = (document.layers);
-                  var ie  = (document.all);
-                  var ie4 = (ie && !document.getElementById);
-                  var ie5 = (ie && document.getElementById);
-                  var ns6 = (!ie && document.getElementById);
-   
-						var aryMoused = new Array();
-						var aryLayerMoused = new Array();
-						var aryMoImages = new Array();
-						var imageList = new Array();
-						var runMouseOvers = true;
-						var TimerID = null;
-						var iLimit = 25;
-						var itmp = 0;
-						
-						var nbTime = 100;
-						var nbTimes = 2;
-						var nbThisLoc = 325;
-						var aryLayerNames = new Array();
-						var aryNavBarLayerInfo = new Array();
-						var aryNavBarLayers = new Array();
-						
-						var registeredObjects = new Array();
-						var viz = "hide";
-
-						function MOImage() {
-							var arg = MOImage.arguments;
-							this.ptrImage = BillzNavBarMM_findObj(arg[0]);
-							this.imageMO = new Image();
-							this.imageMO.src = arg[1];
-							this.HTMLname = arg[0];
-							this.Moused = false;
-							this.OriginalSrc = '';
-							return true;
-						}
-						function BillzImagePreload() {
-						// 0) html image name 1) mo image src 2)image Name for rollover key (rollover may have multiple mos for one html Image) 
-							var arg = BillzImagePreload.arguments;
-							nbImagePreload(arg[0], arg[1], arg[2]);
-						}
-                  function nbImagePreload(img_name, mo_img_src, rollover_key_img_name)
-                  {
-                     var imageKey = (rollover_key_img_name.length > 0) ? rollover_key_img_name : img_name;
-							imageList[imageList.length] = imageKey;
-							if (!(aryMoImages[imageKey])) {
-								aryMoImages[imageKey] = new MOImage(img_name, mo_img_src);
-							}
-                  }
-                  
-						function BillzMouseover() {
-							var arg = null;
-							if (runMouseOvers) {		
-								arg = BillzMouseover.arguments; //args 0)ImageName 1)OriginalSrc 2)array index (caller imagename)		
-								nbMouseover(arg[0], arg[1], arg[2]);
-							}
-							return true;
-						}
-                  // args 1) ImageName 2) OriginalSrc 3) array index (caller imagename)
-                  function nbMouseover(img_name, orig_src, img_key)
-                  {
-							var imageKey = null;
-							var o = null;
-							if (runMouseOvers) 
-                     {				
-								imageKey = (img_key.length > 0) ? img_key : img_name;
-								if (!(aryMoImages[imageKey].ptrImage)) {
-									aryMoImages[imageKey].ptrImage = BillzNavBarMM_findObj(img_name);
-								}
-								if (aryMoImages[imageKey] && (o = aryMoImages[imageKey].ptrImage)) 
-                        {
-									aryMoImages[imageKey].OriginalSrc = orig_src;
-									aryMoImages[imageKey].Moused = true;
-									o.src = aryMoImages[imageKey].imageMO.src;
-								}
-							}
-							return true;
-                  }
-                  
-						var NavBarTempOnload = null;
-						if (window.onload && window.onload != null){
-							NavBarTempOnload = window.onload;
-						}
-						function FullyLoaded() {
-							if (NavBarTempOnload != null){
-								NavBarTempOnload();
-							}
-							runMouseOvers = true;
-							return true;
-						}
-						function BillzMouseOutTimer() {
-							return nbMouseOutTimer();
-						}
-                  function nbMouseOutTimer() 
-                  {
-							if (TimerID) {
-								clearTimeout(TimerID);
-							}
-							TimerID = setTimeout("nbLayerRestore()",5000);
-							return true;
-						}
-						function RestoreAll() {
-							nbMouseoverRestore();
-							nbLayerRestore();
-							return true;
-						}
-                  
-						function BillzMouseoverRestore() {
-							return nbMouseoverRestore();
-						}
-                  function nbMouseoverRestore() 
-                  {
-							var i = 0;
-							var o = null;
-							if (runMouseOvers) 
-                     {
-								for (i = 0; i < imageList.length; i++) 
-                        {
-									if (aryMoImages[imageList[i]].Moused && (o = aryMoImages[imageList[i]].ptrImage)) 
-                           {
-										o.src = aryMoImages[imageList[i]].OriginalSrc;
-										aryMoImages[imageList[i]].Moused = false;
-									}
-								}
-							}
-							return true;
-						}
-                  
-						function BillzLayerRestore() {
-							return nbLayerRestore();
-						}
-                  function nbLayerRestore() 
-                  {
-							var i = 0;
-							for (i = 0; i < aryLayerNames.length; i++) 
-                     {
-								if (!aryNavBarLayerInfo[aryLayerNames[i]].isDefault) {
-									BillzNavBarRestoreLayers(aryLayerNames[i]);
-								}
-							}
-							return true;
-						}
-                  
-                  
-						function BillzArrayPushUnique(aryArray, varNewElement) { //only pushes if unique value
-							var pushIt = true;
-							var i = 0;
-							for (i = 0; i < aryArray.length && pushIt; i++) {
-								pushIt = (varNewElement != aryArray[i]);
-							}
-							if (pushIt) {
-								BillzArrayPush(aryArray, varNewElement);
-							}
-							return pushIt;
-						}
-						function BillzArrayPush(aryArray, varNewElement) { //Implement Array Push 'cause IE cant handle it
-							aryArray[aryArray.length] = varNewElement;
-							return true;
-						}
-						function BillzArrayPop(aryArray) { //Implement Array Pop 'cause IE cant handle it before 5.5
-							var varItemToPop = null;
-							if (aryArray[aryArray.length - 1]) {
-								varItemToPop = aryArray[aryArray.length - 1];
-								aryArray[aryArray.length] = null;
-							}
-							return varItemToPop;
-						}
-                  
-                  //Heikoz "just get me the freakin' div object handle" function
-                  function getDivRef(id)
-                  {
-                     var divref;
-                  	if(ns4)
-                  		divref = document.layers[id];
-                  	else if(ie4)
-                  		divref = document.all[id];
-                  	else if(ie5 || ns6)  // remaining cases
-                  		divref = document.getElementById(id);
-                  
-                  	return divref;
-                  }
-   
-                  //v3.0 name changed to avoid clash with possible other JS in content, this function complements of MM Dreamweaver
-						function BillzNavBarMM_findObj(n, d) {
-						  	var p,i,x;
-						
-							if (registeredObjects[n]) {
-								return registeredObjects[n];
-							}
-							if (!(d)) {
-								d = document;
-							}
-                     try {
-                        p = n.indexOf("?");
-                     }
-                     catch(e) {
-                        p = 0;
-                     }
-							if (p > 0 && parent.frames.length) {
-								d = parent.frames[n.substring(p+1)].document;
-								n = n.substring(0,p);
-							}
-						  	if (!(x = d[n]) && d.all) {
-								x = d.all[n];
-							}
-							for (i = 0; !x && i < d.forms.length; i++) {
-								x = d.forms[i][n];
-							}
-						  	for (i=0; !x && d.layers && i < d.layers.length; i++) {
-								if (d.layers[i].id.indexOf("external_") == -1) {
-						  			x = BillzNavBarMM_findObj(n, d.layers[i].document);
-								}
-							}
-							registeredObjects[n] = x;
-						
-						 	return x;
-						}
-						function BillzArrayContains() {
-							var arg = BillzArrayContains.arguments;
-							var foundit = false;
-							var i = 0;
-							for (i = 0; i < arg[0].length && !foundit; i++) {
-								foundit = (arg[1] == arg[0][i]);
-							}
-							return foundit;
-						}
-						function NavBarRegisterLayer() {
-							var arg = NavBarRegisterLayer.arguments;
-							var n = arg[0];
-							var d = arg[1];
-							var mo = false;
-							var o = null;
-							if (arg[2] && arg[2] == 'MOutLayer') {
-								mo = true;
-							} else {
-								mo = false;
-							}
-							if (!(BillzArrayContains(aryLayerNames, n))) {
-								if (o = BillzNavBarMM_findObj(n)) {
-									aryNavBarLayers[n] = o;
-									BillzArrayPushUnique(aryLayerNames, n);
-									aryNavBarLayerInfo[n] = new NavBarLayer(n, d, mo);
-								}
-							}
-							return true;
-						}
-						function BillzNavBarMM_showHideLayers() {
-						//v3.0 name changed, this function complements of MM Dreamweaver with customizations by Bill Heller
-							var i = 0;
-							var x = "";
-							var obj = null;
-							var v = null;
-							var p = null;
-							var args = BillzNavBarMM_showHideLayers.arguments;
-
-							if (args[args.length - 1] != "menu") {
-								nbMouseOutTimer();
-							}
-						  	for (i = 0; i < (args.length - 2); i += 3) {
-								if (!aryNavBarLayers[args[i]]) {
-									x = (args[i + 2] == 'show') ? 'hide' : 'show';
-									NavBarRegisterLayer(args[i], x);
-								}
-						  		if ((obj = aryNavBarLayers[args[i]]) != null) {
-									v = args[i + 2];
-									aryNavBarLayerInfo[args[i]].isDefault = false;
-						  			if (args[args.length - 1] == "restore") {
-										v = (v == 'show') ? 'hide' : 'show';
-									}
-									if (obj.style) {
-										obj.style.visibility = (v == 'show') ? 'visible' : ((v == 'hide') ? 'hidden' : v);
-									} else {
-										obj.visibility = v;
-									}
-								}
-							}
-							return true;
-						}
-                  
-						function BillzNavBarRestoreLayers() {
-							var i = 0;
-							var x = "";
-							var obj = null;
-							var v = null;
-							var p = null;
-							var args = BillzNavBarRestoreLayers.arguments;
-						  	for (i = 0; i < (args.length); i++) {
-						  		if (obj = aryNavBarLayers[args[i]]) {
-									v = aryNavBarLayerInfo[args[i]].defaultVisibility;
-									if (obj.style) {
-										obj = obj.style;
-										v = (v == 'show' ) ? 'visible' : ((v == 'hide') ? 'hidden' : v);
-									}
-									obj.visibility = v;
-									if (!aryNavBarLayerInfo[args[i]].MOutLayer) {
-										aryNavBarLayerInfo[args[i]].isDefault = true;
-									}
-								}
-							}
-							return true;
-						}
-						function NavBarLayer() {
-							var arg = NavBarLayer.arguments;
-							this.defaultVisibility = arg[1];
-							this.isDefault = true;
-							this.MOutLayer = arg[2];
-							return true;
-						}
-						function BillzNavMove() {
-							return nbNavMove();
-						}
-                  function nbNavMove() 
-                  {
-							var thisl = null;
-							var otherl = null;
-							if (thisl = BillzNavBarMM_findObj("nbScrollLayer")) 
-                     {
-								if (thisl.style) {
-									thisl = thisl.style;
-									viz = "hidden";
-								} 
-								thisl.top = nbThisLoc -= 3;
-								if (nbThisLoc < -750) {
-									nbThisLoc = 325;
-									nbTimes--;
-								}
-							}
-							if (nbTimes <= 0) 
-                     {
-								otherl = BillzNavBarMM_findObj("BillzLayer");
-								otherl.visibility = viz;
-							} else {
-								setTimeout("nbNavMove()", nbTime);
-							}
-							
-							return true;
-						}
-						function NavBar_openadmin() {
-							window.open('admin/', 'SiteAdmin', 'height=screen.availheight,width=screen.availwidth,scrollbars=1,toolbar=0,directories=0,status=0,menubar=0,resizable=1');
-							return true;
-						}
-						window.onload = FullyLoaded;
-					//-->
-				</script>
-			
-         	
 		<!-- Begin NavBar Bar #1 Content Output... -->
-		<table border="0" cellspacing="0" cellpadding="0">
+		<table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
 	<tbody><tr class="">
-		<td class="" valign="top" align="left" title=""><a href="http://hometownhealth.com" target="_blank" class="">Hometown Health</a></td>
+		<td class="" valign="top" align="left" title=""><a href="http://www.hometownhealth.com" target="_blank" onclick="NavBar_setPLinkIDCookie('910','');" class="">Hometown Health</a></td>
 		<td class="" valign="top" align="left" title="">&nbsp;|&nbsp;</td>
-		<td class="" valign="top" align="left" title=""><a href="http://www.renown.org/homepage.cfm?id=110&amp;oTopID=110" class="">Careers at Renown</a></td>
+		<td class="" valign="top" align="left" title=""><a href="http://www.renown.org/homepage.cfm?id=110&amp;oTopID=110" onclick="NavBar_setPLinkIDCookie('1510','');" class="">Careers at Renown</a></td>
 	</tr>
 
 </tbody></table>
@@ -511,501 +802,7 @@
 			input.search {color: #A1596F; font-weight: 700; font-size: 9pt; background-color: transparent; height: 14px; width: 50px;}
 				
 	</style>
-
-<script type="text/javascript">
-<!--
-function sm_ValidateForm(f) {
-	return true;
-}
-//-->
-</script>
-<script type="text/javascript">
-<!--
-var sm_reEmpty = /^\s*$/;
-var sm_reLeading = /^(\s+)/i;
-var sm_reEnding = /(\s+)$/i;
-var sm_reCRLF = /\s+/g;
-var sm_reInteger = /^\d+$/;
-var sm_reIsRequired = /^(\S+)_required$/i;
-var sm_reIsInteger = /^(\S+)_integer$/i;
-var sm_reIsFloat = /^(\S+)_float$/i;
-var sm_reIsDate = /^(\S+)_date$/i;
-var sm_reIsEuroDate = /^(\S+)_eurodate$/i;
-var sm_reIsTime = /^(\S+)_time$/i;
-var sm_reIsRange = /^(\S+)_range$/i;
-var sm_reIsEmail = /^(\S+)_email$/i;
-var sm_reIsMultiEmails = /^(\S+)_multiemails$/i;
-var sm_reMinRange = /MIN\s*=\s*(\d+\.?\d*|\.?\d+)/i;
-var sm_reMaxRange = /MAX\s*=\s*(\d+\.?\d*|\.?\d+)/i;
-// var sm_reEmail = /^\s*[-.:\w]+@([a-zA-Z0-9]{1,2}|[a-zA-Z0-9][-a-zA-Z0-9]+[a-zA-Z0-9])(\.([a-zA-Z0-9]{1,2}|[a-zA-Z0-9][-a-zA-Z0-9]+[a-zA-Z0-9]))+\s*$/i;
-var sm_reEmail = /^\s*[-.:\w]+@([a-zA-Z0-9][-a-zA-Z0-9]+[a-zA-Z0-9]|[a-zA-Z0-9]{1,2})(\.([a-zA-Z0-9][-a-zA-Z0-9]+[a-zA-Z0-9]|[a-zA-Z0-9]{1,2}))+\s*$/i;
-var sm_reMultiEmails = /^\s*([-.:\w]+@([a-zA-Z0-9][-a-zA-Z0-9]+[a-zA-Z0-9]|[a-zA-Z0-9]{1,2})(\.([a-zA-Z0-9][-a-zA-Z0-9]+[a-zA-Z0-9]|[a-zA-Z0-9]{1,2}))+)(\s*[,;]\s*[-.:\w]+@([a-zA-Z0-9][-a-zA-Z0-9]+[a-zA-Z0-9]|[a-zA-Z0-9]{1,2})(\.([a-zA-Z0-9][-a-zA-Z0-9]+[a-zA-Z0-9]|[a-zA-Z0-9]{1,2}))+)*\s*$/i;
-var sm_reDate = /^(?=\d)(?:(?:(?:(?:(?:0?[13578]|1[02])(\/|-|\.)31)\1|(?:(?:0?[1,3-9]|1[0-2])(\/|-|\.)(?:29|30)\2))(?:(?:1[6-9]|[2-9]\d)?\d{2})|(?:0?2(\/|-|\.)29\3(?:(?:(?:1[6-9]|[2-9]\d)?(?:0[48]|[2468][048]|[13579][26])|(?:(?:16|[2468][048]|[3579][26])00))))|(?:(?:0?[1-9])|(?:1[0-2]))(\/|-|\.)(?:0?[1-9]|1\d|2[0-8])\4(?:(?:1[6-9]|[2-9]\d)?\d{2}))($|\ (?=\d)))?(((0?[1-9]|1[012])(:[0-5]\d){0,2}(\ [AP]M))|([01]\d|2[0-3])(:[0-5]\d){1,2})?$/;
-var sm_reEuroDate = /^((((0?[1-9]|[12]\d|3[01])[\.\-\/](0?[13578]|1[02])[\.\-\/]((1[6-9]|[2-9]\d)?\d{2}))|((0?[1-9]|[12]\d|30)[\.\-\/](0?[13456789]|1[012])[\.\-\/]((1[6-9]|[2-9]\d)?\d{2}))|((0?[1-9]|1\d|2[0-8])[\.\-\/]0?2[\.\-\/]((1[6-9]|[2-9]\d)?\d{2}))|(29[\.\-\/]0?2[\.\-\/]((1[6-9]|[2-9]\d)?(0[48]|[2468][048]|[13579][26])|((16|[2468][048]|[3579][26])00)|00)))|(((0[1-9]|[12]\d|3[01])(0[13578]|1[02])((1[6-9]|[2-9]\d)?\d{2}))|((0[1-9]|[12]\d|30)(0[13456789]|1[012])((1[6-9]|[2-9]\d)?\d{2}))|((0[1-9]|1\d|2[0-8])02((1[6-9]|[2-9]\d)?\d{2}))|(2902((1[6-9]|[2-9]\d)?(0[48]|[2468][048]|[13579][26])|((16|[2468][048]|[3579][26])00)|00))))$/;
-function sm_Trim(s) {
-	var mystr = s;
-	var myArr = sm_reEmpty.exec(mystr);
-	if (myArr != null) {
-		return "";
-	}
-	var myArr = sm_reLeading.exec(mystr);
-	if (myArr != null) {
-		if (RegExp.rightContext) {
-			mystr = RegExp.rightContext;
-		} else {
-			mystr = mystr.substring(RegExp.$1.length, mystr.length);
-		}
-	}
-	myArr = sm_reEnding.exec(mystr);
-	if (myArr != null) {
-		if (RegExp.leftContext) {
-			mystr = RegExp.leftContext;
-		} else {
-			mystr = mystr.substring(0, (mystr.length - RegExp.$1.length));
-		}
-	}
-	return mystr;
-}
-function sm_StripCRLF(s) {
-	return s.replace(sm_reCRLF, " ");
-}
-function sm_IsArray(o) {
-	return (typeof(o) == "object" && typeof(o.length) == "number");
-}
-function sm_IsRadio(o) {
-	return (o.type == "radio");
-}
-function sm_IsCheckBox(o) {
-	return (o.type == "checkbox");
-}
-function sm_IsFileUpload(o) {
-	return (o.type == 'file');
-}
-function sm_IsSelectMulti(o) {
-	return (o.type == "select-multiple");
-}
-function sm_IsSelectOne(o) {
-	return (o.type == "select-one");
-}
-function sm_IsSelect(o) {
-	return (sm_IsSelectMulti(o) || sm_IsSelectOne(o));
-}
-function sm_IsHidden(o) {
-	return (o.type == "hidden");
-}
-function sm_IsInputText(o) {
-	return (o.type == "text");
-}
-function sm_IsTextarea(o) {
-	return (o.type == "textarea");
-}
-function sm_IsPassword(o) {
-	return (o.type == "password");
-}
-function sm_IsSubmit(o) {
-	return (o.type == "submit");
-}
-function sm_IsDate(s) {
-	if (sm_reDate.test(s))
-	{
-		var oDate = Date.parse(s);
-		if (isNaN(oDate)) {
-			return false;
-		}
-		oDate = new Date(s);
-		if (oDate.getFullYear() < 1900) {
-			return false;
-		}
-		return true;
-	}
-	return false;
-}
-function sm_IsEuroDate(s) {
-	if (sm_reEuroDate.test(s))
-	{
-		return true;
-	}
-	return false;
-}
-function sm_IsTime(s) {
-	var dtToday = new Date();
-	var strToday = (dtToday.getMonth()+1) + "/" + dtToday.getDate() + "/" + dtToday.getFullYear();
-
-	var lgnTest = Date.parse(strToday+" "+s);
-	if (isNaN(lgnTest)) return false;
-	var datTest = new Date();
-	datTest.setTime(lgnTest);
-	if (datTest.getFullYear() < 1900) return false;
-	return true;
-}
-function sm_IsFloat(s) {
-	return (!isNaN(parseFloat(s)));
-}
-function sm_IsInt(s) {
-	return (sm_reInteger.test(s));
-}
-function sm_IsWithinRange(n, lower, upper) {
-	var f = parseFloat(n);
-	if (isNaN(f)) return true;
-	var isOK = true;
-	var l = parseFloat(lower);
-	if (!isNaN(l) && (l > f)) {
-		isOK = false;
-	}
-	var u = parseFloat(upper);
-	if (!isNaN(u) && (f > u)) {
-		isOK = false;
-	}
-	return isOK;
-}
-function sm_IsEmail(s) {
-	return (sm_reEmail.test(s));
-}
-function sm_IsMultiEmails(s) {
-	return (sm_reMultiEmails.test(s));
-}
-function sm_IsACheckObj(o, re) {
-	if (!o.name) return false;
-	return re.test(o.name);
-}
-function sm_IsRequired(o) {
-	return sm_IsACheckObj(o, sm_reIsRequired);
-}
-function sm_IsIntegerObj(o) {
-	return sm_IsACheckObj(o, sm_reIsInteger);
-}
-function sm_IsFloatObj(o) {
-	return sm_IsACheckObj(o, sm_reIsFloat);
-}
-function sm_IsDateObj(o) {
-	return sm_IsACheckObj(o, sm_reIsDate);
-}
-function sm_IsEuroDateObj(o) {
-	return sm_IsACheckObj(o, sm_reIsEuroDate);
-}
-function sm_IsTimeObj(o) {
-	return sm_IsACheckObj(o, sm_reIsTime);
-}
-function sm_IsRangeObj(o) {
-	return sm_IsACheckObj(o, sm_reIsRange);
-}
-function sm_IsEmailObj(o) {
-	return sm_IsACheckObj(o, sm_reIsEmail);
-}
-function sm_IsMultiEmailsObj(o) {
-	return sm_IsACheckObj(o, sm_reIsMultiEmails);
-}
-function sm_GetAnObjToCheck(o, re) {
-	if (!sm_IsACheckObj(o, re)) return null;
-	var arrName = re.exec(o.name);
-	if (arrName == null) return null;
-	return (o.form[arrName[1]]);
-}
-function sm_GetRequiredObj(o) {
-	return sm_GetAnObjToCheck(o, sm_reIsRequired);
-}
-function sm_GetIntegerObj(o) {
-	return sm_GetAnObjToCheck(o, sm_reIsInteger);
-}
-function sm_GetFloatObj(o) {
-	return sm_GetAnObjToCheck(o, sm_reIsFloat);
-}
-function sm_GetDateObj(o) {
-	return sm_GetAnObjToCheck(o, sm_reIsDate);
-}
-function sm_GetEuroDateObj(o) {
-	return sm_GetAnObjToCheck(o, sm_reIsEuroDate);
-}
-function sm_GetTimeObj(o) {
-	return sm_GetAnObjToCheck(o, sm_reIsTime);
-}
-function sm_GetRangeObj(o) {
-	return sm_GetAnObjToCheck(o, sm_reIsRange);
-}
-function sm_GetEmailObj(o) {
-	return sm_GetAnObjToCheck(o, sm_reIsEmail);
-}
-function sm_GetMultiEmailsObj(o) {
-	return sm_GetAnObjToCheck(o, sm_reIsMultiEmails);
-}
-function sm_CheckRequiredElement(o) {
-	if (typeof(o) != "object") return false;
-	if (sm_IsSelectOne(o)) {
-		if (o.selectedIndex < 0) return false;
-		var objoption = o.options[o.selectedIndex];
-		return (objoption.value.length > 0);
-	} else if (sm_IsSelectMulti(o)) {
-		if (o.selectedIndex < 0) return false;
-		var x;
-		var isOK = false;
-		for (x = 0; x < o.length && !isOK; x++) {
-			isOK = o.options[x].selected && o.options[x].value.length > 0;
-		}
-		return isOK;
-	} else if (sm_IsRadio(o) || sm_IsCheckBox(o)) {
-		return o.checked;
-	} else if (sm_IsHidden(o) || sm_IsInputText(o) || sm_IsTextarea(o) || sm_IsPassword(o)) {
-		var strValue = sm_Trim(o.value);
-		return (strValue.length > 0);
-	} else if (sm_IsSubmit(o)) {
-		return true;
-	} else if (sm_IsArray(o)) {
-		var x;
-		var isOK = false;
-		for (x = 0; x < o.length && !isOK; x++) {
-			isOK = sm_CheckRequiredElement(o[x]);
-		}
-		return isOK;
-	} else if (sm_IsFileUpload(o)) {
-		// we don't know for sure due to client-side security.
-		// depend on server side checks.
-		return true;
-	} else {
-		return false;
-	}
-}
-function sm_IsThisRequired(ho, re) {
-	var arrName = re.exec(ho.name);
-	if (arrName == null) return null;
-	var strName = arrName[1];
-	if (ho.form[strName+"_required"]) {
-		return true;
-	} else {
-		return false;
-	}
-}
-function sm_CheckValueTypeElement(o, fn, breq) {
-	if (typeof(o) != "object") return true;
-	if (sm_IsSelectOne(o)) {
-		if (o.selectedIndex < 0) return true;
-		var objoption = o.options[o.selectedIndex];
-		if (fn(objoption.value)) {
-			return true;
-		} else if (breq) {
-			return false;
-		} else {
-			// Not required but it is not of this type.
-			return (objoption.value.length == 0);
-		}
-	} else if (sm_IsSelectMulti(o)) {
-		if (o.selectedIndex < 0) return true;
-		var x;
-		var isOK = true;
-		for (x = 0; x < o.length && isOK; x++) {
-			if (o.options[x].selected) {
-				isOK = fn(o.options[x].value);
-				if (!(isOK || breq)) {
-					isOK = (o.options[x].value.length == 0);
-				}
-			}
-		}
-		return isOK;
-	} else if (sm_IsRadio(o) || sm_IsCheckBox(o)) {
-		if (o.checked) {
-			if (fn(o.value)) {
-				return true;
-			} else if (breq) {
-				return false;
-			} else {
-				// Not required but it is not of this type.
-				return (o.value.length == 0);
-			}
-		} else {
-			return true;
-		}
-	} else if (sm_IsHidden(o) || sm_IsInputText(o) || sm_IsTextarea(o) || sm_IsPassword(o)) {
-		if (fn(o.value)) {
-			return true;
-		} else if (breq) {
-			return false;
-		} else {
-			// Not required but it is not of this type.
-			return (o.value.length == 0);
-		}
-	} else if (sm_IsArray(o)) {
-		var x;
-		var isOK = true;
-		for (x = 0; x < o.length && isOK; x++) {
-			// Possible Recursion
-			isOK = sm_CheckValueTypeElement(o[x], fn, breq);
-		}
-		return isOK;
-	} else {
-		return true;
-	}
-}
-function sm_CheckIntegerElement(ho, fn) {
-	var o = fn(ho);
-	o.value = sm_Trim(o.value);
-	var breq = sm_IsThisRequired(ho, sm_reIsInteger);
-	return sm_CheckValueTypeElement(o, sm_IsInt, breq);
-}
-function sm_CheckFloatElement(ho, fn) {
-	var o = fn(ho);
-	o.value = sm_Trim(o.value);
-	var breq = sm_IsThisRequired(ho, sm_reIsFloat);
-	return sm_CheckValueTypeElement(o, sm_IsFloat, breq);
-}
-function sm_CheckDateElement(ho, fn) {
-	var o = fn(ho);
-	o.value = sm_Trim(o.value);
-	var breq = sm_IsThisRequired(ho, sm_reIsDate);
-	return sm_CheckValueTypeElement(o, sm_IsDate, breq);
-}
-function sm_CheckEuroDateElement(ho, fn) {
-	var o = fn(ho);
-	o.value = sm_Trim(o.value);
-	var breq = sm_IsThisRequired(ho, sm_reIsEuroDate);
-	return sm_CheckValueTypeElement(o, sm_IsEuroDate, breq);
-}
-function sm_CheckTimeElement(ho, fn) {
-	var o = fn(ho);
-	o.value = sm_Trim(o.value);
-	var breq = sm_IsThisRequired(ho, sm_reIsTime);
-	return sm_CheckValueTypeElement(o, sm_IsTime, breq);
-}
-function sm_CheckRangeElement(ho, fn) {
-	var r = ho.value;
-	var o = fn(ho);
-	var breq = sm_IsThisRequired(ho, sm_reIsRange);
-	var lower = "null";
-	var upper = "null";
-	var arrRange;
-	arrRange = sm_reMinRange.exec(r);
-	if (arrRange != null) {
-		lower = parseFloat(arrRange[1]);
-	}
-	arrRange = sm_reMaxRange.exec(r);
-	if (arrRange != null) {
-		upper = parseFloat(arrRange[1]);
-	}
-
-	var fnBody = "return sm_IsWithinRange(n,"+lower+","+upper+");";
-
-	var rfn = new Function("n", fnBody);
-	return sm_CheckValueTypeElement(o, rfn, breq);
-}
-function sm_CheckEmailElement(ho, fn) {
-	var o = fn(ho);
-	var breq = sm_IsThisRequired(ho, sm_reIsEmail);
-	return sm_CheckValueTypeElement(o, sm_IsEmail, breq);
-}
-function sm_CheckMultiEmailsElement(ho, fn) {
-	var o = fn(ho);
-	var breq = sm_IsThisRequired(ho, sm_reIsMultiEmails);
-	return sm_CheckValueTypeElement(o, sm_IsMultiEmails, breq);
-}
-// Takes care of checkboxes, radio buttons, and hidden forms
-function sm_IsDeleteActionForm(f) {
-	var i = 0;
-	var o = null;
-	for (i = 0; i < f.elements.length; i++) {
-		o = f.elements[i];
-		if (o.name.toLowerCase() == "action" && (o.value.toLowerCase() == "postdelete")) {
-			if (sm_IsRadio(o) || sm_IsCheckBox(o)) {
-				return o.checked;
-			} else if (sm_IsHidden(o)) {
-				return true;
-			}
-		}
-	}
-	return false;
-}
-var sm_DisabledHiddenFieldNameSuffix = "_smdisabled";
-function sm_removeALLrequiredhiddenfields(f) {
-	var i = 0;
-	var o = null;
-	for (i = 0; i < f.elements.length; i++) {
-		o = f.elements[i];
-		if (	sm_IsHidden(o)
-			&&	(	sm_IsRequired(o)
-				||	sm_IsIntegerObj(o)
-				||	sm_IsFloatObj(o)
-				||	sm_IsDateObj(o)
-				||	sm_IsEuroDateObj(o)
-				||	sm_IsTimeObj(o)
-				||	sm_IsRangeObj(o)
-				||	sm_IsEmailObj(o)
-				||	sm_IsMultiEmailsObj(o)
-				)
-		)
-		{
-			o.name += sm_DisabledHiddenFieldNameSuffix;
-		}
-	}
-	return true;
-}
-var sm_DeleteConfirmationPromptText = "Are you sure you want to delete this record?\nClick 'OK' to delete, or click 'Cancel' otherwise.";
-function sm_ValidateForm(f, confirmDelete) {
-	var obj = f.elements;
-	var x, o;
-	var errmsg = "";
-	var confDel = (confirmDelete == undefined || confirmDelete == null) ? false : confirmDelete;
-	var bDeleteConfirmed = false;
-	
-	if (confDel && sm_IsDeleteActionForm(f)) {
-		bDeleteConfirmed = window.confirm(sm_DeleteConfirmationPromptText);
-		if (bDeleteConfirmed) {
-			sm_removeALLrequiredhiddenfields(f);
-		}
-		return bDeleteConfirmed;
-	}
-	
-	for (x = 0; x < obj.length; x++) {
-		o = obj[x];
-		if (sm_IsHidden(o)) {
-			if (sm_IsRequired(o)) {
-				var oreq = sm_GetRequiredObj(o);
-				if (!sm_CheckRequiredElement(oreq)) {
-					errmsg += "* " + o.value + "\n";
-				}
-			} else if (sm_IsIntegerObj(o)) {
-				if (!sm_CheckIntegerElement(o, sm_GetIntegerObj)) {
-					errmsg += "* " + o.value + "\n";
-				}
-			} else if (sm_IsFloatObj(o)) {
-				if (!sm_CheckFloatElement(o, sm_GetFloatObj)) {
-					errmsg += "* " + o.value + "\n";
-				}
-			} else if (sm_IsDateObj(o)) {
-				if (!sm_CheckDateElement(o, sm_GetDateObj)) {
-					errmsg += "* " + o.value + "\n";
-				}
-			} else if (sm_IsEuroDateObj(o)) {
-				if (!sm_CheckEuroDateElement(o, sm_GetEuroDateObj)) {
-					errmsg += "* " + o.value + "\n";
-				}
-			} else if (sm_IsTimeObj(o)) {
-				if (document.getElementById(o.name.replace(/_time$/,""))){
-					document.getElementById(o.name.replace(/_time$/,"")).value = document.getElementById(o.name.replace(/_time$/,"")).value.replace(/\./g,"");
-				}
-				if (!sm_CheckTimeElement(o, sm_GetTimeObj)) {
-					errmsg += "* " + o.value + "\n";
-				}
-			} else if (sm_IsRangeObj(o)) {
-				if (!sm_CheckRangeElement(o, sm_GetRangeObj)) {
-					errmsg += "* " + o.name + " is restricted to " + sm_StripCRLF(o.value) + "\n";
-				}
-			} else if (sm_IsEmailObj(o)) {
-				if (!sm_CheckEmailElement(o, sm_GetEmailObj)) {
-					errmsg += "* " + o.value + "\n";
-				}
-			} else if (sm_IsMultiEmailsObj(o)) {
-				if (!sm_CheckMultiEmailsElement(o, sm_GetMultiEmailsObj)) {
-					errmsg += "* " + o.value + "\n";
-				}
-			}
-		}
-	}
-	if (errmsg.length > 0) {
-		window.alert(errmsg);
-		return false;
-	}
-	return true;
-}
-//-->
-</script>
-
+<script type="text/javascript" src="http://web8.healthvsn.com/sm_FormValidation.js"></script>
 		<script language="JavaScript">
 			var smsearch_reEmpty = /^\s*$/;
 			var smsearch_reLeading = /^(\s+)/i;
@@ -1055,7 +852,6 @@ function sm_ValidateForm(f, confirmDelete) {
 		<input type="hidden" name="search_areas_id" value="">	
 		<input type="hidden" name="includewhat" value="">
 		<input type="hidden" name="keywords_required" value="You must enter a keyword to search. To search for a specific phrase enclose that phrase in quotes. To search for documents containing all of your keywords simply enter the words.">	
-			
 			<tbody><tr class="search">							
 				
 				
@@ -1067,6 +863,7 @@ function sm_ValidateForm(f, confirmDelete) {
 		
 		</tbody></table>
 	 
+
 </td>
                           </tr>
                         </tbody></table></td>
@@ -1081,12 +878,13 @@ function sm_ValidateForm(f, confirmDelete) {
 	<!-- Begin NavBar Output  -  Version:  v0.79a 09/30/2006  -->
 	
 		<!-- Begin NavBar Bar #2 Content Output... -->
-		<table border="0" cellspacing="0" cellpadding="0">
+		<table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
 	<tbody><tr class="">
-		<td class="" valign="top" align="left" title=""><a href="/" onmouseover="RestoreAll();nbMouseover('btn_spacer187_2_1','images/btn_spacer187.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/btn_spacer187.gif" border="0" alt="Renown Health Home Page" id="btn_spacer187_2_1" name="btn_spacer187_2_1"></a><script type="text/javascript">nbImagePreload('btn_spacer187_2_1','images/btn_spacer187_on.gif', '');</script></td>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=6&amp;oTopId=0" onmouseover="RestoreAll();nbMouseover('btn_institutecancer_2_2','images/btn_institutecancer.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/btn_institutecancer.gif" border="0" alt="Institute for Cancer" id="btn_institutecancer_2_2" name="btn_institutecancer_2_2"></a><script type="text/javascript">nbImagePreload('btn_institutecancer_2_2','images/btn_institutecancer_on.gif', '');</script></td>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=8&amp;oTopId=0" onmouseover="RestoreAll();nbMouseover('btn_hearthealth_2_3','images/btn_hearthealth.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/btn_hearthealth.gif" border="0" alt="Institute for Heart &amp; Vascular Health" id="btn_hearthealth_2_3" name="btn_hearthealth_2_3"></a><script type="text/javascript">nbImagePreload('btn_hearthealth_2_3','images/btn_hearthealth_on.gif', '');</script></td>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=7&amp;oTopId=0" onmouseover="RestoreAll();nbMouseover('btn_neurosciences_2_4','images/btn_neurosciences.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/btn_neurosciences.gif" border="0" alt="Institute for Neurosciences" id="btn_neurosciences_2_4" name="btn_neurosciences_2_4"></a><script type="text/javascript">nbImagePreload('btn_neurosciences_2_4','images/btn_neurosciences_on.gif', '');</script></td>
+		<td class="" valign="top" align="left" title=""><a href="/" onmouseover="RestoreAll();nbMouseover('btn-home_2_1','images/btn-home.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('1517','');" class=""><img src="images/btn-home.gif" border="0" alt="Renown Health Home" id="btn-home_2_1" name="btn-home_2_1"></a></td>
+		<td class="" valign="top" align="left" title=""><a href="Javascript: void(0);" onmouseover="RestoreAll();nbMouseover('btn_institutecancer_2_2','images/btn_institutecancer.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('6','');window.location.href='body.cfm?id=6&amp;oTopId=0';" class=""><img src="images/btn_institutecancer.gif" border="0" alt="Institute for Cancer" id="btn_institutecancer_2_2" name="btn_institutecancer_2_2"></a></td>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=1526&amp;oTopID=380" onmouseover="RestoreAll();nbMouseover('btn-childrenshospital_2_3','images/btn-childrenshospital.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('1518','');" class=""><img src="images/btn-childrenshospital.gif" border="0" alt="Children's Hospital" id="btn-childrenshospital_2_3" name="btn-childrenshospital_2_3"></a></td>
+		<td class="" valign="top" align="left" title=""><a href="Javascript: void(0);" onmouseover="RestoreAll();nbMouseover('btn_hearthealth_2_4','images/btn_hearthealth.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('8','');window.location.href='body.cfm?id=8&amp;oTopId=0';" class=""><img src="images/btn_hearthealth.gif" border="0" alt="Institute for Heart &amp; Vascular Health" id="btn_hearthealth_2_4" name="btn_hearthealth_2_4"></a></td>
+		<td class="" valign="top" align="left" title=""><a href="Javascript: void(0);" onmouseover="RestoreAll();nbMouseover('btn_neurosciences_2_5','images/btn_neurosciences.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('7','');window.location.href='body.cfm?id=7&amp;oTopId=0';" class=""><img src="images/btn_neurosciences.gif" border="0" alt="Institute for Neurosciences" id="btn_neurosciences_2_5" name="btn_neurosciences_2_5"></a></td>
 	</tr>
 
 </tbody></table>
@@ -1221,7 +1019,7 @@ function sm_ValidateForm(f, confirmDelete) {
 		
 					<tbody><tr class="clTop1" id="pLinkTR_100_1" onmouseover="pSlidingMouseover1('100','1');" onmouseout="pSlidingMouseout1('100','1');">
 				
-						<td onmouseover="this.className='clTop1h';" onmouseout="this.className='clTop1';" class="clTop1" id="pLinkTD_100_1"><a href="homepage.cfm?id=100&amp;oTopID=100" class="clMain1">About Renown Health</a></td>
+						<td onmouseover="this.className='clTop1h';" onmouseout="this.className='clTop1';" class="clTop1" id="pLinkTD_100_1"><a href="body.cfm?id=100&amp;oTopID=100" class="clMain1">About Renown Health</a></td>
 				
 					</tr>
 				
@@ -1311,7 +1109,7 @@ function sm_ValidateForm(f, confirmDelete) {
 					
 					<tr class="clTop1" id="pLinkTR_110_1" onmouseover="pSlidingMouseover1('110','1');" onmouseout="pSlidingMouseout1('110','1');">
 				
-						<td onmouseover="this.className='clTop1h';" onmouseout="this.className='clTop1';" class="clTop1" id="pLinkTD_110_1"><a href="homepage.cfm?id=110&amp;oTopID=110" class="clMain1">Careers at Renown</a></td>
+						<td onmouseover="this.className='clTop1h';" onmouseout="this.className='clTop1';" class="clTop1" id="pLinkTD_110_1"><a href="body.cfm?id=110&amp;oTopID=110" class="clMain1">Careers at Renown</a></td>
 				
 					</tr>
 				
@@ -1403,15 +1201,21 @@ function sm_ValidateForm(f, confirmDelete) {
 	<!-- Begin NavBar Output  -  Version:  v0.79a 09/30/2006  -->
 	
 		<!-- Begin NavBar Bar #3 Content Output... -->
-		<table border="0" cellspacing="0" cellpadding="0">
+		<table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
 	<tbody><tr>
-		<td class="" valign="top" align="left" title=""><a href="http://www.renown.org/body.cfm?id=1404" onmouseover="RestoreAll();nbMouseover('banner_davinci_3_2','images/banner_davinci.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/banner_davinci.gif" border="0" alt="Da Vinci Robotic Surgical System" id="banner_davinci_3_2" name="banner_davinci_3_2"></a><script type="text/javascript">nbImagePreload('banner_davinci_3_2','images/banner_davinci_on.gif', '');</script></td>
+		<td class="" valign="top" align="left" title=""><a href="http://www.renownhealthonline.com/art/index.cfm" target="_blank" onmouseover="RestoreAll();nbMouseover('banner_art_3_1','images/banner_art.jpg','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('1575','');" class=""><img src="images/banner_art.jpg" border="0" alt="Online Art Gallery" id="banner_art_3_1" name="banner_art_3_1"></a></td>
 	</tr>
 	<tr>
-		<td class="" valign="top" align="left" title=""><a href="http://www.renown.org/body.cfm?id=1255" onmouseover="RestoreAll();nbMouseover('banner_tower_3_4','images/banner_tower.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/banner_tower.gif" border="0" alt="Explore the Tahoe Tower" id="banner_tower_3_4" name="banner_tower_3_4"></a><script type="text/javascript">nbImagePreload('banner_tower_3_4','images/banner_tower_on.gif', '');</script></td>
+		<td class="" valign="top" align="left" title=""><a href="http://www.renown.org/body.cfm?id=1404" onmouseover="RestoreAll();nbMouseover('banner_davinci_3_2','images/banner_davinci.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('1489','');" class=""><img src="images/banner_davinci.gif" border="0" alt="Da Vinci Robotic Surgical System" id="banner_davinci_3_2" name="banner_davinci_3_2"></a></td>
 	</tr>
 	<tr>
-		<td class="" valign="top" align="left" title=""><a href="http://www.renown.org/body.cfm?id=1363&amp;oTopID=103" onmouseover="RestoreAll();nbMouseover('banner_findaphysician_3_6','images/banner_findaphysician.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/banner_findaphysician.gif" border="0" alt="Find a Physician" id="banner_findaphysician_3_6" name="banner_findaphysician_3_6"></a><script type="text/javascript">nbImagePreload('banner_findaphysician_3_6','images/banner_findaphysician_on.gif', '');</script></td>
+		<td class="" valign="top" align="left" title=""><a href="http://www.renown.org/body.cfm?id=1255" onmouseover="RestoreAll();nbMouseover('banner_tower_3_4','images/banner_tower.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('1280','');" class=""><img src="images/banner_tower.gif" border="0" alt="Explore the Tahoe Tower" id="banner_tower_3_4" name="banner_tower_3_4"></a></td>
+	</tr>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="http://www.renown.org/body.cfm?id=1363&amp;oTopID=103" onmouseover="RestoreAll();nbMouseover('banner_findaphysician_3_6','images/banner_findaphysician.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('1017','');" class=""><img src="images/banner_findaphysician.gif" border="0" alt="Find a Physician" id="banner_findaphysician_3_6" name="banner_findaphysician_3_6"></a></td>
+	</tr>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="http://www.renown.org/body.cfm?id=1609" onmouseover="RestoreAll();nbMouseover('banner_onlineshop_3_7','images/banner_onlineshop.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('1610','');" class=""><img src="images/banner_onlineshop.gif" border="0" alt="Online Gift Shop" id="banner_onlineshop_3_7" name="banner_onlineshop_3_7"></a></td>
 	</tr>
 </tbody></table>
 	
@@ -1809,6 +1613,8 @@ Other uses and disclosures of medical information not covered by this notice or 
 
 						
                       
+<br><br><div align="center"> 
+</div>
                       </td>
                     </tr>
                   </tbody></table></td>
@@ -1828,19 +1634,19 @@ Other uses and disclosures of medical information not covered by this notice or 
 	<!-- Begin NavBar Output  -  Version:  v0.79a 09/30/2006  -->
 	
 		<!-- Begin NavBar Bar #5 Content Output... -->
-		<table border="0" cellspacing="0" cellpadding="0">
+		<table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
 	<tbody><tr class="">
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=1363&amp;oTopId=0" class="">Find a Physician</a></td>
+		<td class="" valign="top" align="left" title=""><a href="Javascript: void(0);" onclick="NavBar_setPLinkIDCookie('1363','');window.location.href='body.cfm?id=1363&amp;oTopId=0';" class="">Find a Physician</a></td>
 		<td class="" valign="top" align="left" title="">&nbsp;|&nbsp;</td>
-		<td class="" valign="top" align="left" title=""><a href="http://www.renown.org/homepage.cfm?id=101&amp;oTopID=101" class="">Locations &amp; Directions</a></td>
+		<td class="" valign="top" align="left" title=""><a href="http://www.renown.org/homepage.cfm?id=101&amp;oTopID=101" onclick="NavBar_setPLinkIDCookie('1520','');" class="">Locations &amp; Directions</a></td>
 		<td class="" valign="top" align="left" title="">&nbsp;|&nbsp;</td>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=111&amp;oTopId=0" class="">Contact Us</a></td>
+		<td class="" valign="top" align="left" title=""><a href="Javascript: void(0);" onclick="NavBar_setPLinkIDCookie('111','');window.location.href='body.cfm?id=111&amp;oTopId=0';" class="">Contact Us</a></td>
 		<td class="" valign="top" align="left" title="">&nbsp;|&nbsp;</td>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=292&amp;oTopId=0" class="">Care Concerns</a></td>
+		<td class="" valign="top" align="left" title=""><a href="Javascript: void(0);" onclick="NavBar_setPLinkIDCookie('292','');window.location.href='body.cfm?id=292&amp;oTopId=0';" class="">Care Concerns</a></td>
 		<td class="" valign="top" align="left" title="">&nbsp;|&nbsp;</td>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=114&amp;oTopId=0" class="">Privacy</a></td>
+		<td class="" valign="top" align="left" title=""><a href="Javascript: void(0);" onclick="NavBar_setPLinkIDCookie('114','');window.location.href='body.cfm?id=114&amp;oTopId=0';" class="">Privacy</a></td>
 		<td class="" valign="top" align="left" title="">&nbsp;|&nbsp;</td>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=113&amp;oTopId=0" class="">Legal Notices &amp; Disclaimers</a></td>
+		<td class="" valign="top" align="left" title=""><a href="Javascript: void(0);" onclick="NavBar_setPLinkIDCookie('113','');window.location.href='body.cfm?id=113&amp;oTopId=0';" class="">Legal Notices &amp; Disclaimers</a></td>
 	</tr>
 
 </tbody></table>
