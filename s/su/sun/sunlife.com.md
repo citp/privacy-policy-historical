@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunlife.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226160416id_/http%3A//www.sunlife.com/global/v/index.jsp%3Fvgnextoid%3Dca0156e4674bc110VgnVCM1000009b80d09fRCRD%26vgnextfmt%3Ddefault%26vgnLocale%3Den_CA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunlife.com privacy policy that was archived on 2010-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100427080730id_/http%3A//www.sunlife.com/global/v/index.jsp%3Fvgnextoid%3Dca0156e4674bc110VgnVCM1000009b80d09fRCRD%26vgnextfmt%3Ddefault%26vgnLocale%3Den_CA) for the most accurate reproduction.*
 
 # Sun Life Financial - Privacy
 
