@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the celtictuning.co.uk privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214191423id_/http%3A//www.celtictuning.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celtictuning.co.uk privacy policy that was archived on 2010-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100427021414id_/http%3A//www.celtictuning.co.uk/Privacy.aspx) for the most accurate reproduction.*
 
-# Celtic Tuning - Performance Remap Specialists
+# Privacy Policy
+
+Use of Personal Data 
 
 **Use of Personal Data**
 
@@ -36,6 +38,20 @@ You can opt out of e-mail updates by sending us an e-mail at [unsubscribe@celtic
 
 **Contact**
 
-If you have any comments, suggestions or concerns about this Privacy Policy please e-mail [privacy@celtictuning.co.uk](mailto:privacy@celtictuning.co.uk). 
+If you have any comments, suggestions or concerns about this Privacy Policy please e-mail [privacy@celtictuning.co.uk](mailto:privacy@celtictuning.co.uk)
 
- 
+|  |  Select Your Vehicle   
+---  
+| 
+
+|  |   
+---|---  
+  
+   
+Can't find your vehicle? Contact Us on **(01726) 892873**  
+  
+Take Control! 
+
+The eMotion self tune system allows you to tune your vehicle when and where you wish. Take control over your vehicle! Click below for more details.
+
+[ ](https://web.archive.org/web/20100427021414id_/http%3A//www.celtictuning.co.uk/Switch.aspx)
