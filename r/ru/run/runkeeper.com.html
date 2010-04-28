@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the runkeeper.com privacy policy that was archived on 2009-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091230031641id_/http%3A//runkeeper.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the runkeeper.com privacy policy that was archived on 2010-04-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100428075158id_/http%3A//runkeeper.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -12,7 +12,21 @@
 
 
 
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+
+
+
+   
+   
+      
+   
+
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 
   
@@ -31,25 +45,17 @@
 <meta name="keywords" content="iPhone,GPS,fitness,tracking,running,walking,cycling,hiking">
 <meta name="verify-v1" content="RF2AgQ5EOd/ZBwvZF6nJLiX2GiyLprUkw0jiSAUWnwY=">
 
+<link rel="shortcut icon" href="http://static.runkeeper.com/build/1272395073621/static/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://static.runkeeper.com/build/1272395073621/static/images/favicon.ico" type="image/x-icon">
 
-  <meta http-equiv="Pragma" content="no-cache">
-  <meta http-equiv="Cache-Control" content="no-cache">
-  <meta http-equiv="Pragma-directive" content="no-cache">
-  <meta http-equiv="Cache-Directive" content="no-cache">
-  <meta http-equiv="Expires" content="0">
+<link type="text/css" rel="stylesheet" href="http://static.runkeeper.com/build/1272395073621/static/css/style.css" media="screen">
+<link type="text/css" rel="stylesheet" href="http://static.runkeeper.com/build/1272395073621/static/css/nav.css" media="screen">
+<link type="text/css" rel="stylesheet" href="http://static.runkeeper.com/build/1272395073621/static/css/jgrowl.css" media="screen">
+<link type="text/css" rel="stylesheet" href="http://static.runkeeper.com/build/1272395073621/static/css/prettyPhoto.css" media="screen">
 
-
-
-  <meta name="robots" content="none">
-
-
-<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
-<link rel="icon" href="/images/favicon.ico" type="image/x-icon">
-
-<link type="text/css" rel="stylesheet" href="/css/style.css" media="screen">
-<link type="text/css" rel="stylesheet" href="/css/nav.css" media="screen">
-<link type="text/css" rel="stylesheet" href="/css/jgrowl.css" media="screen">
-<link type="text/css" rel="stylesheet" href="/css/prettyPhoto.css" media="screen">
+         
+<script type="text/javascript" src="http://cdn.firetowerapp.com/instrumentation/instrumentation.js"></script>
+<script type="text/javascript">try { FT.key = "c4726dae-4414-11df-872c-03ca057176d5"; } catch(e){}</script>
 
 
 
@@ -57,6 +63,9 @@
 <script type="text/javascript">
 var appRoot = "/";
 var contextPath = "";
+var staticRoot = "http://static.runkeeper.com/build/1272395073621/static";
+var baseHostUrl = "http://runkeeper.com";
+var baseHostUrlSsl = "https://runkeeper.com";
 var statusUpdatePhotoBaseUrl = "/statusupdatephotos";
 </script>
 
@@ -70,6 +79,7 @@ var feetPerMeter  = 3.2808399;
 var kmPerMeter    = 0.0010;
 var mphPerMps     = 2.23693629;
 var kmphPerMps    = 3.6;
+var lbsPerKg      = 2.20462262;
 
 var tripTypeImages = [];
 
@@ -95,15 +105,39 @@ tripTypeImages["Swimming"] = "swimming";
 
 tripTypeImages["Wheelchair"] = "wheelchair";
 
+tripTypeImages["Rowing"] = "other";
+
+tripTypeImages["Elliptical"] = "other";
+
 tripTypeImages["Other"] = "other";
 
 </script>
 
 
-<script type="text/javascript" src="/js/jquery.js"></script>
-<script type="text/javascript" src="/js/jgrowl.js"></script>
-<script type="text/javascript" src="/js/jquery.cycle.all.min.js"></script>
-<script type="text/javascript" src="/js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="http://static.runkeeper.com/build/1272395073621/static/js/jquery.js"></script>
+<script type="text/javascript" src="http://static.runkeeper.com/build/1272395073621/static/js/jgrowl.js"></script>
+<script type="text/javascript" src="http://static.runkeeper.com/build/1272395073621/static/js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="http://static.runkeeper.com/build/1272395073621/static/js/jquery.prettyPhoto.js"></script>
+
+<script type="text/javascript">
+   $(document).ready(function()
+   {
+      initPrettyPhotoTriggers(".prettyPhoto", true, false);
+   });
+
+   function initPrettyPhotoTriggers(jqSelectorStr, showTitle, allowresize)
+   {
+      $(jqSelectorStr).prettyPhoto({
+         animationSpeed: 'normal', /* normal / fast / slow */
+         padding: 53,
+         opacity: 0.75,
+         showTitle: showTitle,
+         allowresize: allowresize,
+         theme: 'dark_rounded', /* light_rounded / dark_rounded / light_square / dark_square */
+         callback: function(){}
+      });
+   }
+</script>
 
 
 
@@ -143,29 +177,35 @@ tripTypeImages["Other"] = "other";
 
 
 
+
+
+
+   
+   
+      
+   
+
+
+
+
+
+
+
 <script type="text/javascript">
   $(document).ready(function()
   {
      setTimeout("clearLogin()", 250);
-
-     $("#forgotpassword").prettyPhoto({
-        showTitle: true,
-        allowresize: false,
-        theme: 'dark_rounded'
+     $(".youtube a[rel^='prettyPhoto']").prettyPhoto({
+        theme: 'dark_rounded',
+        default_width: 600,
+  		default_height: 424
      });
-
-     $("#compareRK").prettyPhoto({
-        showTitle: true,
-        allowresize: false,
-        theme: 'dark_rounded'
-     });
-     
   });
 
   function clearLogin()
   {
-     if ($("#username").val() == "") $("#username").css("background-image","url(/images/usernamebg.jpg)");
-     if ($("#password").val() == "") $("#password").css("background-image","url(/images/passwordbg.jpg)");
+     if ($("#username").val() == "") $("#username").css("background-image","url(http://static.runkeeper.com/build/1272395073621/static/images/usernamebg.jpg)");
+     if ($("#password").val() == "") $("#password").css("background-image","url(http://static.runkeeper.com/build/1272395073621/static/images/passwordbg.jpg)");
   }
 
   function clearUsername()
@@ -180,12 +220,12 @@ tripTypeImages["Other"] = "other";
 
   function fillUsername()
   {
-     if ($("#username").val() == "") $("#username").css("background-image","url(/images/usernamebg.jpg)");
+     if ($("#username").val() == "") $("#username").css("background-image","url(http://static.runkeeper.com/build/1272395073621/static/images/usernamebg.jpg)");
   }
 
   function fillPassword()
   {
-     if ($("#password").val() == "") $("#password").css("background-image","url(/images/passwordbg.jpg)");
+     if ($("#password").val() == "") $("#password").css("background-image","url(http://static.runkeeper.com/build/1272395073621/static/images/passwordbg.jpg)");
   }
   </script>
 
@@ -208,7 +248,7 @@ tripTypeImages["Other"] = "other";
                       <td width="9" class="blackBox-l"></td>
                       <td class="blackBox-m">
                         <div class="blackBox-body-content" style="width: 346px;">
-                        <form name="loginForm" method="post" action="/login" onsubmit="document.loginForm.redirectUrl.value = window.location.href; return true;">
+                        <form name="loginForm" method="post" action="https://runkeeper.com/login" onsubmit="document.loginForm.redirectUrl.value = window.location.href; return true;">
                           <input type="hidden" name="redirectUrl">
                           <input type="submit" style="position: absolute; top: -1000px;">
                           <div style="float: right;">
@@ -220,12 +260,12 @@ tripTypeImages["Other"] = "other";
                           </div>
                           <div style="width: 242px; float: left;">
                             <div>
-                              <input type="text" name="username" id="username" value="" onfocus="clearUsername(this)" onblur="fillUsername(this)" size="16" style="background-repeat: no-repeat; color: rgb(17, 17, 17); font-size: 12px; margin-bottom: 5px; margin-right: 5px; float: left; background-image: url(&quot;/images/usernamebg.jpg&quot;);">
-                              <input type="password" name="password" id="password" value="" onfocus="clearPassword(this)" onblur="fillPassword(this)" size="16" style="background-repeat: no-repeat; color: rgb(17, 17, 17); font-size: 12px; margin-bottom: 5px; float: right; background-image: url(&quot;/images/passwordbg.jpg&quot;);">
+                              <input type="text" name="username" id="username" value="" onfocus="clearUsername(this)" onblur="fillUsername(this)" size="16" style="background-repeat: no-repeat; background-position: left middle; color: #111; font-size: 12px; margin-bottom: 5px; margin-right: 5px; float: left;">
+                              <input type="password" name="password" id="password" value="" onfocus="clearPassword(this)" onblur="fillPassword(this)" size="16" style="background-repeat: no-repeat; background-position: left middle; color: #111; font-size: 12px; margin-bottom: 5px; float: right;">
                             </div>
                             <div>
                               <div class="left" style="height: 18px;"><input type="checkbox" name="remember" id="remember" style="margin-right: 3px; vertical-align: middle;"><span style="vertical-align: middle; font-weight: normal; text-align: left; padding-top: 3px; color: #EEE;">stay signed in</span></div>
-                              <div class="right" style="height: 18px;"><a href="/forgotpassword?iframe=true&amp;width=290&amp;height=140" rel="prettyPhoto" id="forgotpassword" style="vertical-align: middle; display: block;"><img alt="Forgot Your Password?" style="display: none;">forgot password?</a></div>
+                              <div class="right" style="height: 18px;"><a href="/forgotpassword?iframe=true&amp;width=290&amp;height=140" class="prettyPhoto" id="forgotpassword" style="vertical-align: middle; display: block;"><img alt="Forgot Your Password?" style="display: none;">forgot password?</a></div>
                             </div>
                           </div>
                         </form>
@@ -415,12 +455,14 @@ tripTypeImages["Other"] = "other";
   <div id="footerInfo">
     <table cellpadding="0" cellspacing="0" border="0" align="center" width="960">
       <tbody><tr>
-        <td align="left" valign="middle" width="480">copyright © 2009 FitnessKeeper Inc. - All Rights Reserved&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/termsofservice">Terms of Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/privacy">Privacy Policy</a></td>
+        <td align="left" valign="middle" width="480">copyright © 2010 FitnessKeeper Inc. - All Rights Reserved&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/termsofservice">Terms of Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/privacy">Privacy Policy</a></td>
         <td align="right" valign="middle" width="480">Want to talk to a human? Email us at <a href="mailto:info@runkeeper.com">info@runkeeper.com</a>.</td>
       </tr>
     </tbody></table>
   </div>
 </div>
+
+
 
 
 
@@ -439,4 +481,4 @@ tripTypeImages["Other"] = "other";
 
 
 
-<div class="pp_overlay" style="opacity: 0; height: 3029px; display: none;"></div><div class="pp_pic_holder"><div class="pp_top"><div class="pp_left"></div><div class="pp_middle"></div><div class="pp_right"></div><div class="ppt"></div><a class="pp_close" href="#">Close</a></div><div class="pp_content"><div class="pp_content_left"></div><div class="pp_content_middle"><a href="#" class="pp_expand" title="Expand the image">Expand</a><div class="pp_loaderIcon"></div><div class="pp_hoverContainer"><a class="pp_next" href="#">next</a><a class="pp_previous" href="#">previous</a></div><div id="pp_full_res"></div><div class="pp_details clearfix"><div class="pp_nav"><a href="#" class="pp_arrow_previous">Previous</a><p class="currentTextHolder">0/0</p><a href="#" class="pp_arrow_next">Next</a></div><p class="pp_description"></p></div></div><div class="pp_content_right"></div></div><div class="pp_bottom"><div class="pp_left"></div><div class="pp_middle"></div><div class="pp_right"></div></div></div></body></html>
+</body></html>
