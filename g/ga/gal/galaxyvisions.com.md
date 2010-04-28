@@ -1,32 +1,103 @@
-> *The following text is extracted and transformed from the galaxyvisions.com privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512183548id_/http%3A//www.galaxyvisions.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galaxyvisions.com privacy policy that was archived on 2010-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100428030606id_/http%3A//www.galaxyvisions.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## GalaxyVision's committed to serving its customers
+## What information do we collect?
 
-One of the ways in which GalaxyVision's assures its customers with quality service is through safeguarding the privacy of each individual that visits our website or becomes one of our customers. This policy sets for the manner in which GalaxyVision's gathers, processes, stores and organizes the information provided by our users as they visit our website. Being in an evolving technological environment, we must all understand that with technology there is change and as such GalaxyVision's will use its best efforts to afford its customers and users the newest developments in privacy protection. Like all of our standards, this policy too may change from time to time so we ask that you review these policies each time you visit our website.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-No matter what type of information that is provided through the GalaxyVision's website GalaxyVision's will protect the confidentiality of its customer's information, account information and personal information to the fullest extent possible. However, please note that information, irrespective of type, once disclosed to a public arena (such as chat rooms or third party sites) can not be guaranteed by the protection of GalaxyVisions.
+Any data we request that is not required will be specified as voluntary or optional.
 
-## Personally Identifiable Information.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-This type of information which normally consists of names, addresses, email addresses, credit card numbers, orders or request for services, will only be used in order to complete your request and provide you with the services. Unless otherwise instructed by you, GalaxyVision's may often use this information for promotional purposes, advising you of new services and products, and improving upon the services we provide to our customers. All of your credit card and purchasing information is highly secured through commercially acceptable web based security and encryption protocols. However, please note that certain personal and voluntary information which you provide on other websites, such as feedback or opinions, may be deemed non-confidential and un-protected by GalaxyVision's from disclosure.
+Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.
 
-## General Information
+## What do we use your information for?
 
-This refers to the generic information gathered and stored by GalaxyVision's automatically while users are browsing through our website. This information is not personal in nature. It simply provides us with the user's Internet provider, web site reference, and date and frequency of usage. Such information is useful for us in generating statistical information, in measuring website activity, and a means in which we can improve upon our services.
+Any of the information we collect from you may be used in one of the following ways:
 
-## Children's Policy
+  * To personalize your experience (your information helps us to better respond to your individual needs).
+  * To improve customer service(your information helps us to more effectively respond to your customer service requests and support needs).
+  * To process transactions.
+  * Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
+  * To send periodic emails.
+  * The email address you provide for order processing, will only be used to send you information and updates pertaining to your order or request.
 
-Children under the age of 18 are prohibited from using our services without the consent of a parent or guardian. However, it must be noted that GalaxyVision's has no way of knowing if a visitor or customer is actually under the age of 18. Therefore, it's entirely possible that we may collect, use and disclose information about users under the age of 18. We encourage parents to monitor their child's use of the Internet and advise those users under the age of 18 to obtain parental or guardian consent before disclosing any information.
 
-## Exceptions
 
-GalaxyVision's will not disclose any personal information of its customer unless there is reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone which may be causing harm or interfering with the rights or property of GalaxyVision's, GalaxyVision's customers, or others, or where GalaxyVision's has good faith belief that the law requires such disclosure. In addition, GalaxyVision's will not disclose or monitor any content (personal or private electronic communications transmitted to GalaxyVision's) unless it is (i) necessary to provide service to the customer; (ii) to protect the interest of GalaxyVision's; (iii) required to cooperate with orders, warrants, subpoenas, or other legal process that GalaxyVision's determines in its sole discretion to be valid and enforceable and (iv) necessary to provide to law enforcement agency when the contents are inadvertently obtained by GalaxyVisions and appear to pertain to the commission of a crime.
+## How do we protect your information?
 
-By using this site, you agree not to write or post any fraudulent or illegal messages as part of any e-mail, forum, chat, or other GalaxyVision's -related electronic communications medium. You also acknowledge that you are solely responsible for the information and electronic communications content that you create. GalaxyVision's disclaims any intention to censor, edit or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. GalaxyVision's will, however, receive, delete or block access to communications that may be harmful to GalaxyVisions, its customer or third parties. The grounds upon which GalaxyVision's may take such action may include, without limitation, actual or potential violations of GalaxyVision's Acceptable Use Policy.
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information. 
 
-In the event of a sale or transfer of the assets or interest of GalaxyVision's, GalaxyVision's reserves the right to sell or transfer your information (personal or generic) to a third party, without your consent, that provides the same or similar services as GalaxyVision's, agrees to be GalaxyVision's successor in interest with regard to the protection of the information collected and maintained by GalaxyVision's, and agrees to be bound by this privacy policy.
+These security measures include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will be kept on file in order to bill customers.
+
+## Do we use cookies?
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+## Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+## Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+## Childrens Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+## CAN-SPAM Compliance
+
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
+
+## Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+## Your Consent
+
+By using our site, you consent to our privacy policy.
+
+## Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
+
+This policy was last modified on May, 15 2009
+
+## Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+**www.GalaxyVisions.com**  
+882 3rd Ave , 8th Floor  
+Brooklyn, NY 11232  
+United States  
+[info@galaxyvisions.com](mailto:info@galaxyvisions.com)  
+Phone (201) 227-2072
+
+## Privacy Policy Customer Pledge
+
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:
+
+  * Federal Trade Commision Fair
+  * Childrens Online Privacy Protection Act
+  * Privacy Alliance
+  * Controlling the Assault of Non-Solicited Pornography and Marketing Act
+
+
+
+If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/DisputeResolution/)
+
+Respectfully,
+
+Anna Skvortsova, Director of Human Resources
+
+www.GalaxyVisions.com
 
 [](https://secure.comodo.com/ttb_searcher/trustlogo?v_querytype=W&v_shortname=SC4&v_search=http://www.galaxyvisions.com&x=6&y=5 "Secured by COMODO")
 
