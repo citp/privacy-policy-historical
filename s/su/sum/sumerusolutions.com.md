@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sumerusolutions.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527034459id_/http%3A//sumerusolutions.com/PrivacyPolicy/tabid/105/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumerusolutions.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429013256id_/http%3A//www.sumerusolutions.com/PrivacyPolicy/tabid/105/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
