@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialstreets.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220104903id_/http%3A//www.socialstreets.com/docs/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialstreets.com privacy policy that was archived on 2010-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100428033706id_/http%3A//www.socialstreets.com/docs/privacy_policy.html) for the most accurate reproduction.*
 
 # United States SocialStreets
 
