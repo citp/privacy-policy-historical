@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113191759id_/http%3A//www.vividseats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2010-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100428033154id_/http%3A//www.vividseats.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Vivid Seats
-
-| 
 
 Vivid Seats, LTD "Vivid Seats" Privacy Policy 
 
@@ -31,9 +29,9 @@ The amount and type of information we collect from you depends on your activitie
 
 
   
-**When you create an[Account](https://web.archive.org/web/20091113191759id_/http%3A//www.vividseats.com/account/loginForm.shtml) on our Web site**
+**When you create an[Account](https://web.archive.org/web/20100428033154id_/http%3A//www.vividseats.com/account/loginForm.shtml) on our Web site**
 
-  * We collect your user name, password, e-mail address, secret question, and answer to your secret question to protect your Account. We use your secret question and answer to identify you as the account user if you have forgotten your password. You can help us ensure your privacy by not sharing your user name or password. 
+  * We collect your first name, e-mail address, and password. You can help us ensure your privacy by not sharing your user name or password. 
 
 
 
@@ -69,14 +67,12 @@ We may also analyze and act upon your personal and account information as part o
 If you become our customer, we may send you updates on important information about our company and services. 
 
 **Will my personal and account information be provided to any other party?**  
-We restrict access to your personal and account information to those who need access to use it as set forth in this policy. Only authorized personnel are permitted to see your Account password. Your other personal and account information will never be disclosed to third parties except under the following circumstances. We may disclose your personal and account information to respond to subpoenas, court orders, or other legal process, as required by law, or to establish or exercise our legal rights or defend against legal claims. Your personal and account information may also be disclosed in connection with a sale of some or all of our business or a merger with another company.
+We restrict access to your personal and account information to those who need access to use it as set forth in this policy. Your personal and account information will never be disclosed to third parties except under the following circumstances. We may disclose your personal and account information to respond to subpoenas, court orders, or other legal process, as required by law, or to establish or exercise our legal rights or defend against legal claims. Your personal and account information may also be disclosed in connection with a sale of some or all of our business or a merger with another company.
 
 **How do you protect my personal and account information?**  
-We use 128-bit encryption technology and Secure Socket Layers ("SSL") in all areas where your personal and account information is required. Our Web site is certified by [Thawte](http://www.thawte.com/), which verifies that our Web site is authentic and that we use SSL security. To view our Thawte certificate, click on the image of the closed lock or the solid key at the bottom of your browser window. Our Web site security information will appear.
+We use 128-bit encryption technology and Secure Socket Layers ("SSL") in all areas where your personal and account information is required. Our Web site is certified by VeriSign, which verifies that our Web site is authentic and that we use SSL security. To view our VeriSign certificate, click on the image of the closed lock or the solid key at the bottom of your browser window. Our Web site security information will appear.
 
-In addition, your personal and account information and transaction history are kept behind our firewall on separate servers. All transaction information is processed under encrypted channels, although you may choose unencrypted processing. 
+In addition, your personal and account information and transaction history are kept behind our firewall on separate servers. All transaction information is processed under encrypted channels. 
 
 **How can I give you feedback or contact you?**  
-You can reach us by email at info [at] vividseats.com or you can call us toll-free at 866-848-8499. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes.  
-  
----|---
+You can reach us by email at info [at] vividseats.com or you can call us toll-free at 866-848-8499. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes.
