@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the effcu.org privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228075847id_/http%3A//www.effcu.org/default.aspx%3Fid%3D32) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effcu.org privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429012033id_/http%3A//www.effcu.org/default.aspx%3Fid%3D32) for the most accurate reproduction.*
 
 # Privacy Policy :: Eastern Financial Florida Credit Union a Division of Space Coast Credit Union
 
