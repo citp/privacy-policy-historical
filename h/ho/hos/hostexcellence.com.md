@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostexcellence.com privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308021400id_/http%3A//www.hostexcellence.com/index.php/v2/pages.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostexcellence.com privacy policy that was archived on 2010-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100428072842id_/http%3A//www.hostexcellence.com/index.php/v2/pages.privacy) for the most accurate reproduction.*
 
 # Host Excellence
 
@@ -10,12 +10,7 @@ The following privacy policy must be agreed to and abided by for use of our serv
 
 A TRUSTe Privacy Program Member
 
-Ecommerce Corporation (dba Host Excellence) is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.hostexcellence.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first contact the Ecommerce Corporation Customer Service Department by calling 1-800-861-9394, or emailing [info@ecommerce.com](mailto:info@ecommerce.com), or writing to: Ecommerce Corporation, 1774 Dividend Drive, Columbus, OH 43228. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at   
-<http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
-
-[](http://www.hostexcellence.com/index.php/v2/pages.privacy#top)
+Ecommerce Corporation (dba Host Excellence) is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.hostexcellence.com. 
 
 I. Privacy
 
