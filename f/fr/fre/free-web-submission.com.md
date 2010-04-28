@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the free-web-submission.com privacy policy that was archived on 2009-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090802121236id_/http%3A//www.free-web-submission.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-web-submission.com privacy policy that was archived on 2010-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100428081344id_/http%3A//www.free-web-submission.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Free Web Submission | Free Search Engine Submission
+# Privacy Policy
 
 [www.Free-Web-Submission.com] (“We”) commit ourselves to protecting and respecting your privacy when visiting our [website].
 
