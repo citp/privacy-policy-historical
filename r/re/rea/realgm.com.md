@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realgm.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924084828id_/http%3A//www.realgm.com/src_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realgm.com privacy policy that was archived on 2010-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100428090306id_/http%3A//www.realgm.com/src_privacy.php) for the most accurate reproduction.*
 
 # RealGM: Privacy Policy
 
@@ -8,7 +8,7 @@ RealGM, L.L.C., which operates the Web site RealGM.com ("RealGM.com"), is commit
 
 We encourage our visitors to read through and understand our privacy statement. We may update it from time to time to address new issues or reflect changes on our site. Please refer to this privacy statement regularly.
 
-If you have any questions or concerns about the statement, please contact us at [**Legal@RealGM.com**](mailto:legal@realgm.com).
+If you have any questions or concerns about the statement, please contact us at [Legal@RealGM.com](mailto:%20Legal@RealGM.com).
 
 **Information You Provide to Us:**
 
@@ -50,11 +50,11 @@ We are working hard to provide you with the best information and the highest qua
 > 
 > 9\. We will advise children under the age of 13 that they MUST obtain permission from their parent or guardian before sharing ANY personal information.
 > 
-> 10\. Upon request, RealGM.com will provide a parent or guardian with a description of the information that may have been provided about their child or teen during a registration process for a program or service of our site. RealGM.com only asks for a child's or teen's personal information if it is necessary to participate in the program or service. The site administrator also has access to the registration data but it is only used for site maintenance. Registration data that is provided about children or teens is not used for marketing and is never shared with any other party. If you would like to view your child's registration data, request a change, or request that we delete any of your child's personal information, please send an e-mail to [**Legal@RealGM.com**](mailto:legal@realgm.com) which includes your child's first and last name, school zip code, and your first and last name.
+> 10\. Upon request, RealGM.com will provide a parent or guardian with a description of the information that may have been provided about their child or teen during a registration process for a program or service of our site. RealGM.com only asks for a child's or teen's personal information if it is necessary to participate in the program or service. The site administrator also has access to the registration data but it is only used for site maintenance. Registration data that is provided about children or teens is not used for marketing and is never shared with any other party. If you would like to view your child's registration data, request a change, or request that we delete any of your child's personal information, please send an e-mail to [Legal@RealGM.com](mailto:%20Legal@RealGM.com) which includes your child's first and last name, school zip code, and your first and last name.
 
 RealGM.com urges parents to instruct their children to never give out their real names, addresses or phone numbers without permission when using the Internet. We recognize a special obligation to protect personal information obtained from children.
 
-If you have any questions about our Kids' Privacy Policy please e-mail RealGM.com at [**Legal@RealGM.com**](mailto:legal@realgm.com).
+If you have any questions about our Kids' Privacy Policy please e-mail RealGM.com at [Legal@RealGM.com](mailto:%20Legal@RealGM.com).
 
 **Notification and Verifiable Parental Consent:**
 
@@ -72,7 +72,7 @@ When verifiable parental consent has not yet been obtained, we will use online c
 
 **Third-Party Advertising:**
 
-We use third-party advertising companies to serve ads when you visit our Web site. Please contact [**Legal@RealGM.com**](mailto:legal@realgm.com) if you wish to inquire about these third-party agencies’ privacy policies.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Third-Party Cookies:**
 
@@ -114,4 +114,4 @@ RealGM.com makes chat rooms, forums, message boards, and other groups available 
 
 To the extent that portions of RealGM.com, such as chat rooms or bulletin boards, provide users an opportunity to post and exchange information, ideas and opinions ("Postings"), BE ADVISED THAT REALGM.COM MAY NOT SCREEN, EDIT, OR REVIEW POSTINGS PRIOR TO THEIR APPEARANCE ON REALGM.COM, and Postings do not necessarily reflect the views of RealGM.com. RealGM.com reserves the right to monitor all Postings and to remove any which it considers offensive or otherwise in violation of our legal Terms and Conditions. Please read these Terms of Use according to which RealGM.com will in no way be responsible or liable for the Postings. Here are more legal notices regarding Postings: You must have all necessary rights in and to all Postings you provide and all material they contain; your Postings must not infringe any proprietary or other rights of third parties; your Postings must not contain any viruses or other contaminating or destructive devices or features; your Postings must not contain any defamatory, indecent, offensive, tortuous, or otherwise unlawful material or content; and your Postings must not be used to carry out or solicit any unlawful activity and/or be used to make commercial solicitations. Also, you authorize RealGM.com to use and/or authorize others to use all or part of your Postings in any manner, format, or medium that RealGM.com or such other parties see fit; and you shall have no claim or other recourse against RealGM.com for infringement of any proprietary right in Postings. Violating these terms will subject the user to investigation and enforcement to ensure compliance; personal information may be used and/or disclosed by RealGM.com in this process, to the extent necessary to ensure a safe and enjoyable experience at RealGM.com.
 
-If you have any questions about this privacy statement, the practices of RealGM.com, or your dealings with RealGM.com, please e-mail us at [**Legal@RealGM.com**](mailto:legal@realgm.com).
+If you have any questions about this privacy statement, the practices of RealGM.com, or your dealings with RealGM.com, please e-mail us at [Legal@RealGM.com](mailto:%20Legal@RealGM.com).
