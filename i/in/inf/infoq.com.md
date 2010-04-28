@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoq.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406040044id_/http%3A//www.infoq.com/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoq.com privacy policy that was archived on 2010-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100428040911id_/http%3A//www.infoq.com/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # InfoQ - Tracking change and innovation in the enterprise software development community
 
