@@ -1,42 +1,7 @@
-> *The following text is extracted and transformed from the bonluxat.com privacy policy that was archived on 2009-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090715100710id_/http%3A//www.bonluxat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonluxat.com privacy policy that was archived on 2010-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100428092309id_/http%3A//www.bonluxat.com/privacy.html) for the most accurate reproduction.*
 
-# Contemporary Furniture, Modern Furniture and Designer Furniture at Bonluxat.com
+# 
 
-| [Contemporary Furniture](http://www.bonluxat.com/)  
----  
-[side and dining chairs](http://www.bonluxat.com/c/side_and_dining_chairs.html)  
-[armchairs&lounge chairs](http://www.bonluxat.com/c/armchairs_lounge_chairs.html)  
-[bar&counter stools](http://www.bonluxat.com/c/bar_and_counter_stools.html)  
-[low stools](http://www.bonluxat.com/c/low_stools.html)  
-[sofas](http://www.bonluxat.com/c/sofas.html)  
-[benches](http://www.bonluxat.com/c/benches.html)  
-[rocking chairs](http://www.bonluxat.com/c/rocking_chairs.html)  
-[stacking chairs](http://www.bonluxat.com/c/stacking_chairs.html)  
-[task&office chairs](http://www.bonluxat.com/c/task_office_chairs.html)  
-[outdoor&patio furniture](http://www.bonluxat.com/c/outdoor_and_patio_furniture.html)  
-[dining tables](http://www.bonluxat.com/c/dining_tables.html)  
-[coffee&cocktail tables](http://www.bonluxat.com/c/coffee_and_cocktail_tables.html)  
-[side&end tables](http://www.bonluxat.com/c/side_and_end_tables.html)  
-[work&office tables](http://www.bonluxat.com/c/work_and_office_tables.html)  
-[wall mounted shelving](http://www.bonluxat.com/c/wall_mounted_shelving.html)  
-[free standing shelving](http://www.bonluxat.com/c/free_standing_shelving.html)  
-[storage](http://www.bonluxat.com/c/storage.html)  
-[beds](http://www.bonluxat.com/c/beds.html)  
-[children's furniture](http://www.bonluxat.com/c/children_furniture.html)  
-Lighting  
-[wall&ceiling lamps](http://www.bonluxat.com/c/wall_and_ceiling_lamps.html)  
-[floor lamps](http://www.bonluxat.com/c/floor_lamps.html)  
-[table lamps](http://www.bonluxat.com/c/table_lamps.html)  
-[pendant lamps](http://www.bonluxat.com/c/pendant_lamps.html)  
-Accessories  
-[mirrors](http://www.bonluxat.com/c/mirrors.html)  
-[household accessories](http://www.bonluxat.com/c/household_accessories.html)  
-[clocks](http://www.bonluxat.com/c/clocks.html)  
-[pillows](http://www.bonluxat.com/c/pillows.html)  
-[coat racks](http://www.bonluxat.com/c/coat_racks.html)  
-[carpets](http://www.bonluxat.com/c/carpets.html)  
-[screens&room dividers](http://www.bonluxat.com/c/screens_and_room_dividers.html)  
-  
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at bonluxat (at) bonluxat.com. 
 
 At www.bonluxat.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.bonluxat.com and how it is used. 
