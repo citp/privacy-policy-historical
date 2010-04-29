@@ -1,0 +1,112 @@
+> *The following text is extracted and transformed from the mopar.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429074747id_/http%3A//www.mopar.com/estore/estore_privacy_policy.html) for the most accurate reproduction.*
+
+# Mopar eStore Privacy Policy
+
+Welcome to the Mopar eStore, a Chrysler Group LLC company. At Chrysler Group LLC we believe it is important to protect the privacy of our customers and guests. We know that you care about how your personal information is collected, updated, used, and shared and we want to help you make knowledgeable choices about the information you provide to us.
+
+This Privacy Policy explains and summarizes how the Mopar eStore collects, uses, and protects your personal information as you interact with us online and through our customer and technical support services for the store.
+
+This Privacy Policy applies to the Mopar eStore, the website located at [http://parts.mopar.com](http://parts.mopar.com/) and includes affiliates such as vendors and suppliers acting on our behalf as we operate the store. This website and Privacy Policy is directed solely at visitors from the United States and is hosted in the United States.
+
+By using the Mopar eStore Website, you consent to the collection and use of your personal information by Mopar consistent with applicable data protection law and this policy which is expressly incorporated into the [Mopar eStore Terms of Use](https://web.archive.org/web/20100429074747id_/http%3A//www.mopar.com/estore/estore_terms_conditions.html).
+
+This Privacy Policy explains the information practices of the Mopar eStore including:
+
+How the Mopar uses the personal information you share with us and that we learn about you because of our relationship.  
+How the Mopar eStore uses “cookies” and “IP Addresses.”  
+What personal information, if any, the Mopar eStore may share about you and the conditions we use to protect your information if it must be shared.  
+What kind of security measures Mopar takes to protect your information from accidental loss or disclosure and how Mopar will inform you in the event of a security breach of the Mopar eStore.  
+The circumstances under which you can you access personal information you share with the Mopar eStore and have that information corrected, restrict Mopar’s use of that information, or have it removed from our records.
+
+## Other things you should know about privacy and the Mopar eStore.
+
+### COLLECTED INFORMATION AND USAGE
+
+Mopar collects and uses information you provide to us including information obtained from your use of the Mopar eStore Website. We are not in the business of selling information about you collected through the Mopar eStore. Mopar does not share this personal information with third parties for their direct marketing purposes. We may use or share your personal information (e.g., name, address, telephone number, and email address) where it is necessary for us to complete a transaction or do something that you have asked us to do.
+
+For example, we might need to provide your name, address, phone number, or email to one of our vendors so that they can process and fulfill your product return or replacement. We might also refer your personal information to another manufacturer so that they can provide you with technical assistance you request for their product which you may be using in conjunction with one of our products.
+
+Mopar employees, agents, and service providers who need to access personal information you have provided to fulfill their responsibilities may do so consistent with Mopar policies that limit access to this type of information.
+
+Mopar’s vendors and suppliers may process your personal data under the direction and control of Mopar.
+
+Mopar collects and uses personal information from you in several ways:
+
+**Website Usage.** Mopar, or Mopar vendors and suppliers, may observe your activities, preferences, and transactional data (such as your IP address and browser type) as well as pages you have viewed during your use of this website. While we may collect or log this information, we do not identify you or match this non-personal information with your other personal information. We may use this collected or logged information to diagnose website technical problems, or to facilitate your use of the website. Mopar, or one of our vendors or suppliers, also may use this information to track aggregate traffic patterns throughout this website.
+
+**E-Commerce.** You may be asked to share personal information such as your name, address, and telephone number in order to complete a transaction. When you purchase a Mopar product online you may be asked for information needed to complete your order, contact you to confirm the order, and provide related customer service. This information is used, for example, to effect your transactions, to create and share aggregate reports about these transactions, and to perform credit fraud screening services for transactions between you and Mopar and/or our authorized service providers. When you buy direct from the Mopar eStore these purchase transactions may be conducted through Mopar vendors and suppliers. Vendors and suppliers engaged by Mopar have their use of your personal information limited by this privacy policy, contractual restrictions, and applicable law. Mopar (through other vendors or suppliers) may limit the acceptance of orders to particular jurisdictions and as permitted by applicable law.
+
+**Product Registration & Technical Support.** Mopar may allow purchasers of its products to register their products online. Personal information or data provided via online product registration forms may be used to carry out the request, service, or agreement for which the information is submitted. With your consent, we may also use the information you provide in online registration forms to notify you periodically about important changes to the website (such as a change to this privacy policy or notice of a security breach), new Mopar products and services, and special offers and contests that may be of interest to you. If you register, we may ask for, among other things, your name, address, email, telephone number, type of product purchased and serial number or other product-identifying information, and date of purchase.
+
+Failure to register your product will not diminish the rights you have under the product warranty.
+
+**Cookies.** To the extent website usage information is developed in connection with your IP address through session cookies, we will only use this information to facilitate your use of the Mopar eStore Website. Cookies are data files that are written onto your computer by a website. At the end of your visit, the session cookies are removed.
+
+The Mopar eStore does not use cookies other than the session cookies identified. However, our service providers or vendors may use cookies in order to personalize your experiences and adapt the Mopar eStore Website’s functionality to your preferences. If you are visiting a URL other than the Mopar eStore, Mopar.com, or another Chrysler website, including those hosted by our vendors, you should carefully review the cookie policy of these websites. Cookies placed by Mopar or its vendors or suppliers (as applicable) in connection with the operation of the Mopar eStore will remain stored on your computer until you remove them.
+
+You may set your browser to notify you when you receive a cookie or to refuse receiving it. You should be aware that this may interfere with or make you unable to use certain functionality on websites using cookies. For example, many websites will ask your permission to use a cookie that will enable you to automatically log onto the website. Disabling or removing cookies may require you to manually log on each time you wish to visit that website. You may also delete cookies from your computer through your browser.
+
+**Children.** This website is not directed at children. If you are under 18 or otherwise would be required to have parent or guardian consent to share information with Mopar, you should not send any information about yourself to us. If a person under 13 submits information through any part of the Mopar eStore Website, and we learn the person submitting the information is a child, we will attempt to delete this information as soon as possible. Because we do not knowingly collect any personal information from persons under 13, we do not use or disclose such information to third parties.
+
+### WHEN THE MOPAR ESTORE MAY SHARE COLLECTED INFORMATION
+
+As mentioned in the beginning of this policy, Mopar may share your personal information within Mopar to fulfill its obligations to you and operate its business consistent with this policy and applicable data protection law. The Mopar eStore Website may also share your personal information with third parties in the following situations.
+
+**Mopar Vendors and Suppliers.** Mopar works with vendors and suppliers to provide technical and customer support, shipping, credit card processing, product fulfillment, or other services. Mopar requires these vendors and suppliers to safeguard personal information you provide to us. To the extent it is necessary for these service providers to complete their contractual obligations to Mopar, these third parties may have access to or process your personal information. Mopar limits their use of your personal information to the purpose for which it was shared. Mopar may sometimes permit our authorized service providers to have access to aggregate statistics about our customers, sales, traffic patterns, and related website information. These transfers of aggregate statistics do not involve personal data.
+
+**Mergers, Acquisitions and Insolvency.** If Mopar should ever file for bankruptcy or merge with another company, or if Mopar should decide to buy, sell, or reorganize some part or all of its business, Mopar may be required to disclose your personal information to prospective or actual purchasers or receive personal information from sellers. It is Mopar’s practice to seek appropriate protection for information disclosed or received in these types of transactions consistent with applicable data protection law.
+
+**As Required by Law and Other Extraordinary Disclosures.** Mopar may be required to disclose your personal information if it: (i) believes it is reasonably necessary to comply with legal process (such as a court order, subpoena, search warrant, etc.) or other legal requirements of any governmental authority, (ii) would potentially mitigate our liability in an actual or potential lawsuit, (iii) is otherwise necessary to protect our rights or property, or (iv) is necessary to protect the legal rights or property of others.
+
+### STORAGE AND PERIOD OF HOLDING FOR PERSONAL INFORMATION
+
+Unless otherwise requested by you, Mopar will continue to keep the personal information you provided to us through your use of the Mopar eStore. If the reason for collecting your personal information no longer exists, we will delete the personal information at the appropriate required time if legally required by relevant applicable data protection law.
+
+### SECURITY
+
+No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We use secure server software (SSL) and firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of such firewalls and secure server software.
+
+If Mopar learns of a security system’s breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using this website or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of this website. Mopar may post a notice on this website if a security breach occurs. If this happens, you will need a web browser enabling you to view the Mopar eStore Website. Mopar may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [privacy@mopar.com](mailto:privacy@mopar.com).
+
+### LINKS TO THIRD-PARTY WEBSITES AND CO-BRANDED WEBSITES
+
+This website may contain links to third-party websites, however, please be aware that Mopar is not responsible for and cannot control the privacy practices of these other websites. We encourage you to read the privacy policies for these other websites, as they may differ from ours.
+
+This website also contains links to co-branded websites that may display Mopar’s logo and trademarks but which are maintained by third parties. Such websites may be identified by the fact that they do not display a “Mopar.com” URL. Please read the privacy policy on the co-branded website for the applicable privacy practices relating to personal information collected via that website, as it may differ from this Privacy Policy. This Privacy Policy applies solely to personal information collected by the Mopar eStore.
+
+### CHANGES TO THIS POLICY BY MOPAR 
+
+If in the future we change the Mopar eStore Privacy Policy, we will post the new policy on this website. If this policy is somehow materially less restrictive or protective of your privacy than the current policy, we will not apply the less protective aspects of the revised policy to information you have previously provided to us without first obtaining your consent. If we have a way of contacting you electronically, we will do so in the way you have instructed us to obtain your consent. We reserve the right to change this policy in the future. Your continued use of this website following a change in the privacy policy represents consent to the new policy to the fullest extent permitted by law.
+
+We encourage you to periodically review this Privacy Policy.
+
+### MARKETING COMMUNICATIONS
+
+When you provide Mopar with personal information, if you allow us, we may communicate with you by the method you choose about topics of your choosing. Mopar seeks your consent to receive marketing communications from us when you provide your personal information.
+
+### ACCESSING YOUR PERSONAL INFORMATION, MAKING CHANGES, OR REQUESTING DELETION OF PERSONAL INFORMATION
+
+You may at all times object or restrict the Mopar eStore’s use of your personal data for direct marketing purposes. You may also request access to, correction of, or deletion of personal data. For instructions on changing any of your privacy preferences, accessing your information or for any privacy or data-protection-related question or concern, [click here for assistance](mailto:dprivacy@chrysler.com).
+
+Please be aware that this Privacy Policy and the choices that you indicate when registering on this website will not necessarily apply to personal information you may have provided to Mopar or its vendors or business partners as part of other, separately-operated websites or services.
+
+Generally, when we contact you, we will try to provide you with an easy and convenient way to notify us if you would not like further similar communications.
+
+If you have provided us with personal information not related to your purchase or registration of our products and would like to change or update your personal information, please click here.
+
+### CONTACTING MOPAR
+
+If you have any questions, comments, or concerns about this Privacy Policy, please email us at [dprivacy@chrysler.com](mailto:dprivacy@chrysler.com)
+
+If you have a privacy concern regarding Mopar or this Privacy Policy and if you cannot satisfactorily resolve it through the use of this website you should then write to the Mopar Data Controller identified below:
+
+Chrysler Group LLC  
+Data Privacy Manager  
+Corporate Audit  
+1000 Chrysler Drive  
+CIMS 485-02-12  
+Auburn Hills, MI 48084
+
+In the event that we are still unable to resolve your concerns, Mopar is committed to cooperating to achieve a proper resolution of your privacy concerns.
+
+Effective Date: Nov. 30, 2009
