@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamingnewslink.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227195904id_/http%3A//www.gamingnewslink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingnewslink.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429070128id_/http%3A//www.gamingnewslink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gaming News Link
 
@@ -31,8 +31,6 @@ Related posts:
 
 No related posts.
 
-Related posts brought to you by [Yet Another Related Posts Plugin](http://mitcho.com/code/yarpp/).
-
 
   
   
@@ -43,5 +41,3 @@ Related posts brought to you by [Yet Another Related Posts Plugin](http://mitcho
 
   
 
-
-Filed under: [Starcraft II](http://www.gamingnewslink.com/category/starcraft-ii/ "View all posts in Starcraft II") **|**
