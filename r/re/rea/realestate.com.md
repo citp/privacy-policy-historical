@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestate.com privacy policy that was archived on 2009-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091022083907id_/http%3A//ts.realestate.com/content/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestate.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430014900id_/http%3A//ts.realestate.com/content/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - RealEstate.com's Town Square
 
