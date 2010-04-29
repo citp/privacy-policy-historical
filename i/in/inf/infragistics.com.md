@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infragistics.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609194524id_/http%3A//www.infragistics.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infragistics.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429172437id_/http%3A//www.infragistics.com/about-us/privacy-statement.aspx) for the most accurate reproduction.*
 
-# Infragistics Privacy Statement
+# Infragistics | Privacy Statement
 
 You take online privacy seriously, and so does Infragistics. It's our way of sustaining your trust in Infragistics as well as in our products and services.
 
