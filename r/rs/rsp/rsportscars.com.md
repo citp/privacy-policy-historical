@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsportscars.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601182211id_/http%3A//www.rsportscars.com/eng/misc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsportscars.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429163257id_/http%3A//www.rsportscars.com/eng/misc/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Statement | RSportsCars.com
 
@@ -12,7 +12,7 @@ Our Web server automatically recognizes no information regarding the domain or e
 
 The information we collect is used to improve the content of our Web page, to notify visitors about updates to our Web site and for internal review and is then discarded and it is not shared with other organizations in any way.
 
-Subscribers of our mailing list (RSportsCars.com Newsletter) can unsubscribe [here](https://web.archive.org/web/20090601182211id_/http%3A//www.rsportscars.com/eng/misc/newsletter.asp). You will be taken off the list immediately.
+Subscribers of our mailing list (RSportsCars.com Newsletter) can unsubscribe [here](https://web.archive.org/web/20100429163257id_/http%3A//www.rsportscars.com/eng/misc/newsletter.asp). You will be taken off the list immediately.
 
 With respect to cookies: We use cookies to store visitors preferences and to ensure that visitors are not repeatedly sent the same banner ads.
 
