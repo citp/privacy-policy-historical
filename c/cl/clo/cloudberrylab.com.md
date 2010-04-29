@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudberrylab.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130025256id_/http%3A//cloudberrylab.com/default.aspx%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudberrylab.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429192550id_/http%3A//www.cloudberrylab.com/default.aspx%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # CloudBerry Lab
 
