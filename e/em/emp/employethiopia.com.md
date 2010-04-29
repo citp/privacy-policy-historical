@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the employethiopia.com privacy policy that was archived on 2009-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090808152901id_/http%3A//www.employethiopia.com/include/themes/nasthon1001/nas_static.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the employethiopia.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429145958id_/http%3A//www.employethiopia.com/include/themes/nasthon1001/nas_static.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # employEthiopia
 
@@ -31,11 +31,13 @@ Since employEthiopia is a career site, we give you the option of putting your CV
 
 
 
-[We are not responsible for the use made of CVs by third parties who access such CVs while they are in our searchable database.   
+We are not responsible for the use made of CVs by third parties who access such CVs while they are in our searchable database.   
 You may suspend or remove your CV from our searchable database at any time. However, employers, recruiters and others who had access to that database or to obtain a copy of that database, as well as parties who have otherwise gained access to the database may have retained a copy of your CV in their own files or databases. We are not responsible for the retention, use or privacy of CVs or profiles in these instances.   
 If you provide us with details of a referee, it is your responsibility to ensure that the person is aware that you have forwarded his/her details and has consented in writing for you to do so.   
-You may access all your personal data stored and processed by employEthiopia and may correct, update or delete such information by editing your account details or contacting us at ](http://msn.careerbuilder.com/Article/MSN-2001-Job-Search-Shy-10-Tips-for-Introverted-Job-Seekers/?SiteId=cbmsnch42001&sc_extcmp=JS_2001_msn)[jobinfo@employethiopia.com](mailto:jobinfo@employethiopia.com)
+You may access all your personal data stored and processed by employEthiopia and may correct, update or delete such information by editing your account details or contacting us at [jobinfo@employethiopia.com](mailto:jobinfo@employethiopia.com)
 
   Since we believe that managing your career is a life-long process, we retain all the information we gather about you in an effort to make your repeat use with us more efficient, practical and relevant until you change or remove your personal data as detailed above. Of course, you can correct or update your employEthiopia account profile and CV at any time. Moreover, you can delete your CV from employEthiopia's online database or close your employEthiopia account at any time. If you do this, we will remove all our copies of your CV or employEthiopia account profile information except for an archival copy retained indefinitely for audit and records purposes which is not accessible by you or third parties on the Internet.   
 Security  
 employEthiopia has implemented appropriate measures designed to secure your personal information from accidental loss and from unauthorised access, use, alteration or disclosure. Notwithstanding such measures, the Internet is an open system and we cannot guarantee that unauthorised third parties will never be able to defeat those measures or use your personal information for improper purposes.
+
+If you have any questions please write us at [jobinfo@employethiopia.com](mailto:jobinfo@employethiopia.com)
