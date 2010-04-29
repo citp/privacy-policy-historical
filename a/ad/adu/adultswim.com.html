@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adultswim.com privacy policy that was archived on 2009-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091228093728id_/http%3A//www.adultswim.com/footer/legal/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adultswim.com privacy policy that was archived on 2010-04-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100429170800id_/http%3A//www.adultswim.com/footer/legal/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>Adult Swim : Legal</title>
@@ -26,6 +26,7 @@
 	
 		<div id="navcss-979797">
 			<script language="JavaScript" type="text/javascript">
+	var strMSIB = 'https://login.adultswim.com/services/aswim/';
 	var strUrl;
 	
 	try {
@@ -38,40 +39,54 @@
 <div id="asNav" class="clearfix">
 	<div id="navLinks" class="clearfix">
 		<form action="http://www.adultswim.com/search/index.html" method="get" name="search" id="searchForm">
-		
 			<ul id="bearNav">
-				<li id="home-nav"><a href="/" id="home-anchor">[adult swim]</a></li>
-				<li id="games-nav"><a href="http://games.adultswim.com" id="games-anchor">GAMES</a></li>
-				<li id="video-nav"><a href="http://video.adultswim.com" id="video-anchor">VIDEO</a></li>
-				<li id="shows-nav"><a href="/shows/index.html" id="shows-anchor">SHOWS</a></li>
-				<li id="schedule-nav"><a href="/schedule/index.html" id="schedule-anchor">SCHEDULE</a></li>
-				<li id="boards-nav"><a href="http://boards.adultswim.com" id="boards-anchor">BOARDS</a></li>
-				<li id="music-nav"><a href="/music/index.html" id="music-anchor">MUSIC</a></li>
-				<li id="lists-nav"><a href="/americaloveslists/index.html" id="lists-anchor">LISTS</a></li>
-				<li id="shop-nav"><a href="http://www.williamsstreet.com/?referral_id=ASNAV" id="shop-anchor">SHOP</a></li>
+				<li id="home-nav">
+					<a href="http://www.adultswim.com" id="home-anchor">[adult swim]</a>
+				</li>
+				<li id="games-nav">
+					<a href="http://games.adultswim.com" id="games-anchor">GAMES</a>
+				</li>
+				<li id="video-nav">
+					<a href="http://video.adultswim.com" id="video-anchor">VIDEO</a>
+				</li>
+				<li id="shows-nav">
+					<a href="http://www.adultswim.com/shows/index.html" id="shows-anchor">SHOWS</a>
+				</li>
+				<li id="schedule-nav">
+					<a href="http://www.adultswim.com/schedule/index.html" id="schedule-anchor">SCHEDULE</a>
+				</li>
+				<li id="boards-nav">
+					<a href="http://boards.adultswim.com" id="boards-anchor">BOARDS</a>
+				</li>
+				<li id="music-nav">
+					<a href="http://www.adultswim.com/music/index.html" id="music-anchor">MUSIC</a>
+				</li>
+				<li id="lists-nav">
+					<a href="http://www.adultswim.com/americaloveslists/index.html" id="lists-anchor">LISTS</a>
+				</li>
+				<li id="shop-nav">
+					<a href="http://www.adultswimshop.com/?referral_id=ASNAV" id="shop-anchor">SHOP</a>
+				</li>
 			</ul>
-		
 			<ul id="accountNav">
 				<li id="searchInput">
 					<input id="searchfield" name="queryText" value="" type="text">
-				</li>	
+				</li>
 				<li id="search-nav">
 					<a href="javascript:document.search.submit();" id="search-anchor">SEARCH</a>
 				</li>
-			
 				<script language="JavaScript" type="text/javascript">
-					if (dboard.isLoggedIn()){
-						document.write('<li id="myAccount-nav"><a href="http://login.adultswim.com/Community/Account?referer=' + strUrl + '" id="myAccount-anchor">MY ACCOUNT</a></li>');
-						document.write('<li id="signOut-nav" class="last"><a href="javascript:dboard.logOut();" id="signOut-anchor">SIGN OUT</A></li>');
-			
+					if (dboard.isLoggedIn()) {
+						document.write('<li id="myAccount-nav"><a href="' + strMSIB + 'flow/editUser?referrer=' + strUrl + '"">MY ACCOUNT</a></li>');
+						document.write('<li id="signOut-nav" class="last"><a href="' + strMSIB + 'flow/logout?referrer=' + strUrl + '"">SIGN OUT</A></li>');
+						
 					} else {
-						document.write('<li id="signIn-nav" class="last"><a href="http://login.adultswim.com/Community/Login?referer=' + strUrl + '" id="signIn-anchor">SIGN IN</a></li>');
+						document.write('<li id="signIn-nav" class="last"><a href="' + strMSIB + '/flow/login?referrer=' + strUrl + '"">SIGN IN</a></li>');
 					}
-					
 					navDisabled();
-				</script><li id="signIn-nav" class="last"><a href="http://login.adultswim.com/Community/Login?referer=https%3A//web.archive.org/web/20091228093728id_/http%253A//www.adultswim.com/footer/legal/index.html" id="signIn-anchor">SIGN IN</a></li>
+					
+				</script><li id="signIn-nav" class="last"><a href="https://login.adultswim.com/services/aswim//flow/login?referrer=https%3A//web.archive.org/web/20100429170800id_/http%253A//www.adultswim.com/footer/legal/index.html" "="">SIGN IN</a></li>
 			</ul>
-		
 		</form>
 	</div>
 </div>
@@ -100,7 +115,7 @@ cnnad_createAd("908515","http://ads.adultswim.com/html.ng/site=toonswim&toonswim
 
 
 
-</script><iframe hspace="0" vspace="0" marginheight="0" marginwidth="0" src="http://ads.adultswim.com/html.ng/site=toonswim&amp;toonswim_pos=728x90_top&amp;toonswim_rollup=homepage&amp;params.styles=fs&amp;tile=6810830040851&amp;page.allowcompete=yes&amp;domId=908515" border="0" frameborder="0" height="0" width="0" scrolling="no" id="908515" style="position: absolute; visibility: hidden;" allowtransparency="true"></iframe></div></td>
+</script><iframe hspace="0" vspace="0" marginheight="0" marginwidth="0" src="http://ads.adultswim.com/html.ng/site=toonswim&amp;toonswim_pos=728x90_top&amp;toonswim_rollup=homepage&amp;params.styles=fs&amp;tile=7209730040851&amp;page.allowcompete=yes&amp;domId=908515" border="0" frameborder="0" height="0" width="0" scrolling="no" id="908515" style="position: absolute; visibility: hidden;" allowtransparency="true"></iframe></div></td>
 	  </tr>
 	</tbody></table><br></td>
 	<td valign="top" rowspan="2"><table width="160" border="0" cellspacing="0" cellpadding="0"><tbody><tr>
@@ -121,7 +136,7 @@ cnnad_createAd("441775","http://ads.adultswim.com/html.ng/site=toonswim&toonswim
 
 
 
-</script><iframe hspace="0" vspace="0" marginheight="0" marginwidth="0" src="http://ads.adultswim.com/html.ng/site=toonswim&amp;toonswim_pos=160x600_rgt&amp;toonswim_rollup=homepage&amp;params.styles=fs&amp;tile=6810830040851&amp;page.allowcompete=yes&amp;domId=441775" border="0" frameborder="0" height="0" width="0" scrolling="no" id="441775" style="position: absolute; visibility: hidden;" allowtransparency="true"></iframe></div></td>
+</script><iframe hspace="0" vspace="0" marginheight="0" marginwidth="0" src="http://ads.adultswim.com/html.ng/site=toonswim&amp;toonswim_pos=160x600_rgt&amp;toonswim_rollup=homepage&amp;params.styles=fs&amp;tile=7209730040851&amp;page.allowcompete=yes&amp;domId=441775" border="0" frameborder="0" height="0" width="0" scrolling="no" id="441775" style="position: absolute; visibility: hidden;" allowtransparency="true"></iframe></div></td>
 	  </tr>
 	</tbody></table></td>
 	</tr>
@@ -357,8 +372,10 @@ cnnad_createAd("441775","http://ads.adultswim.com/html.ng/site=toonswim&toonswim
 	</tbody></table>
 	
 	<div id="footer" class="lightPageBg leftAligned">
-		<div id="omniture" style="position:absolute;top:0;right:0;z-index:-100;visibility:hidden;">
-	<script language="JavaScript" src="/tools/js/s_code_new.js" type="text/javascript"></script>
+		
+
+			<div id="omniture" style="position:absolute;top:0;right:0;z-index:-100;visibility:hidden;">
+	<script language="JavaScript" src="/tools/js/s_code_20091230.js" type="text/javascript"></script>
 	<script language="JavaScript"><!--
 		s.pageName = strSectionName + ' : ' + strPageName;
 		
@@ -391,39 +408,517 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 	</script><!--  sect: Footer || subSect: Footer : Home || page: Footer : Legal -->
 </div>
 
-<script src="http://js.revsci.net/gateway/gw.js?csid=A09801"></script>
-<script language="JavaScript" type="text/javascript">
-	//ADM
-	cnnad_sendADMData();
-</script><script> 
+			<script src="http://js.revsci.net/gateway/gw.js?csid=A09801"></script>
+			<script language="JavaScript" type="text/javascript">
+				cnnad_sendADMData();
+				
+				Footer = {
+					fixPng: function(img) {
+						if (document.all && !window.opera && !window.XMLHttpRequest) {
+							img.parentNode.style.width = img.offsetWidth;
+							img.parentNode.style.height = img.offsetHeight;
+							img.parentNode.style.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale src='"+ img.src +"')"
+						} 
+						else {
+							img.style.visibility = "visible"
+						}
+					}
+				}
+			</script><script> 
  	A09801.DM_cat("homepage"); 
  	A09801.DM_addEncToLoc(); 
  	A09801.DM_tag(); 
  </script> 
  
+			
+			<div id="support-content-footer">
+				<div id="contact-content-footer" class="clearfix">
+					<div id="email-footer">
+						<div><img class="pngfix" onload="Footer.fixPng(this)" id="love-us" src="http://i.cdn.turner.com/adultswim/tools/img/footer/love-us.png"></div>
+						<a href="https://login.adultswim.com/services/aswim/flow/editUser"><img id="email-icon-footer" src="http://i.cdn.turner.com/adultswim/tools/img/footer/email-icon.png" alt="Email Updates"></a> 
+						<a href="https://login.adultswim.com/services/aswim/flow/editUser"><h3><span>Sign up for regular</span><br> email updates</h3></a> 
+						<a id="do-it-button" href="https://login.adultswim.com/services/aswim/flow/editUser"></a> 
+					</div>
+					
+					<div id="social-footer">
+						<h3>Network, socially, with us</h3>
+						<ul class="clearfix">
+							<li>
+								<a class="social-icon" target="_blank" href="http://www.facebook.com/adultswim">
+									<img alt="Facebook" src="http://i.cdn.turner.com/adultswim/tools/img/footer/facebook-icon.png">
+								</a>
+								<a class="social-text" target="_blank" href="http://www.facebook.com/adultswim">Facebook</a>
+							</li>
+							<li>
+								<a class="social-icon" target="_blank" href="http://www.twitter.com/adultswim">
+									<img alt="Twitter" src="http://i.cdn.turner.com/adultswim/tools/img/footer/twitter-icon.png">
+								</a>
+								<a class="social-text" target="_blank" href="http://www.twitter.com/adultswim">Twitter</a>
+							</li>
+							<li>
+								<a class="social-icon" target="_blank" href="http://www.youtube.com/adultswim">
+									<img alt="YouTube" src="http://i.cdn.turner.com/adultswim/tools/img/footer/youtube-icon.png">
+								</a>
+								<a class="social-text" target="_blank" href="http://www.youtube.com/adultswim">YouTube</a>
+							</li>
+							<li class="last">
+								<a class="social-icon" href="http://www.adultswim.com/presents/index.html">
+									<img alt="YouTube" src="http://i.cdn.turner.com/adultswim/tools/img/footer/as-presents-icon.png">
+								</a>
+								<a class="social-text" target="_blank" href="http://www.adultswim.com/presents/index.html">Events</a>
+							</li>
+						</ul>
+					</div>
+					
+					<div id="rss-footer">
+						<h3>Subscribe to nothing</h3>
+						<div><img class="pngfix" onload="Footer.fixPng(this)" id="rss-icon-footer" src="http://i.cdn.turner.com/adultswim/tools/img/footer/rss-icon.png" alt="RSS"></div>
+						<ul class="clearfix">
+						
+						
+					
+						
+									
+							
+							
+							<li>
+					
+							<a href="http://games.adultswim.com/tools/rss/games.xml">Games</a>
+							</li>
+						
+									
+							
+							
+							<li class="last">
+					
+							<a href="http://video.adultswim.com/tools/rss/video.xml">Video</a>
+							</li>
+												
+							
+						</ul>
+					</div>
+				</div>
+				
+				<div id="external-content-footer" class="clearfix">
+					<div><img class="pngfix" onload="Footer.fixPng(this)" id="leave-us" src="http://i.cdn.turner.com/adultswim/tools/img/footer/leave-us.png"></div>
+					
+					<ul id="external-left-column-footer" class="clearfix">
+					
+					
+				
+					
+								
+						
+						
+						
+						
+						
+						<li class="clearfix">
+							<a rel="nofollow" class="outbound" name="I Am Bored - Pastor Tongue-Tied - 4/28/10" target="_blank" href="http://www.i-am-bored.com/bored_link.cfm?link_id=48661"><img alt="Pastor Tongue-Tied" src="http://i.cdn.turner.com/adultswim/tools/img/home/042810/link_thumbs/bored_tn.jpg"></a>
+							<a rel="nofollow" class="outbound link-name-footer" name="I Am Bored - Pastor Tongue-Tied - 4/28/10" target="_blank" href="http://www.i-am-bored.com/bored_link.cfm?link_id=48661">Pastor Tongue-Tied</a>
+						</li>
+							
+						
+					
+								
+						
+						
+						
+						
+						
+						<li class="clearfix">
+							<a rel="nofollow" class="outbound" name="College Humor - A Pitcher's Diarrhea - 4/28/10" target="_blank" href="http://www.collegehumor.com/video:1932800"><img alt="A Pitcher's Diarrhea" src="http://i.cdn.turner.com/adultswim/tools/img/home/042810/link_thumbs/ch_tn.jpg"></a>
+							<a rel="nofollow" class="outbound link-name-footer" name="College Humor - A Pitcher's Diarrhea - 4/28/10" target="_blank" href="http://www.collegehumor.com/video:1932800">A Pitcher's Diarrhea</a>
+						</li>
+							
+						
+					
+								
+						
+						
+						
+						
+						
+						<li class="clearfix">
+							<a rel="nofollow" class="outbound" name="Cracked - Greatest Fictional Sports - 4/27/10" target="_blank" href="http://www.cracked.com/article_18525_the-10-greatest-fictional-sports-ever-invented.html"><img alt="Greatest Fictional Sports" src="http://i.cdn.turner.com/adultswim/tools/img/home/042710/link_thumbs/ch_tn.gif"></a>
+							<a rel="nofollow" class="outbound link-name-footer" name="Cracked - Greatest Fictional Sports - 4/27/10" target="_blank" href="http://www.cracked.com/article_18525_the-10-greatest-fictional-sports-ever-invented.html">Greatest Fictional Sports</a>
+						</li>
+							
+						
+					
+								
+						
+						
+						
+						
+						
+						<li class="clearfix">
+							<a rel="nofollow" class="outbound" name="College Humor - Gary Oak Rap - 4/27/10" target="_blank" href="http://www.collegehumor.com/video:1932276"><img alt="Gary Oak Rap" src="http://i.cdn.turner.com/adultswim/tools/img/home/042710/link_thumbs/cracked_tn.jpg"></a>
+							<a rel="nofollow" class="outbound link-name-footer" name="College Humor - Gary Oak Rap - 4/27/10" target="_blank" href="http://www.collegehumor.com/video:1932276">Gary Oak Rap</a>
+						</li>
+							
+						
+					
+								
+						
+						
+						
+						</ul>
+					<ul id="external-right-column-footer" class="clearfix">
+						
+						<li class="clearfix">
+							<a rel="nofollow" class="outbound" name="" target="_blank" href="http://www.cracked.com/article_18508_6-terrifying-diseases-that-science-cant-explain.html"><img alt="6 Terrifying Unexplained Diseases" src="http://i.cdn.turner.com/adultswim/tools/img/home/042610/link_thumbs/cracked_link.jpg"></a>
+							<a rel="nofollow" class="outbound link-name-footer" name="" target="_blank" href="http://www.cracked.com/article_18508_6-terrifying-diseases-that-science-cant-explain.html">6 Terrifying Unexplained Diseases</a>
+						</li>
+							
+						
+					
+								
+						
+						
+						
+						
+						
+						<li class="clearfix">
+							<a rel="nofollow" class="outbound" name="Cracked - Science Explains A-hole Drivers - 4/23/10" target="_blank" href="http://www.cracked.com/article_18493_6-scientific-reasons-people-drive-like-assholes.html"><img alt="Science Explains A-hole Drivers" src="http://i.cdn.turner.com/adultswim/tools/img/home/042310/link_thumbs/cracked_link.jpg"></a>
+							<a rel="nofollow" class="outbound link-name-footer" name="Cracked - Science Explains A-hole Drivers - 4/23/10" target="_blank" href="http://www.cracked.com/article_18493_6-scientific-reasons-people-drive-like-assholes.html">Science Explains A-hole Drivers</a>
+						</li>
+							
+						
+					
+								
+						
+						
+						
+						
+						
+						<li class="clearfix">
+							<a rel="nofollow" class="outbound" name="College Humor - 102 Push-ups in 30 Secs - 4/22/10" target="_blank" href="http://www.collegehumor.com/video:1932077"><img alt="102 Push-ups in 30 Secs" src="http://i.cdn.turner.com/adultswim/tools/img/home/042210/link_thumbs/ch_link.jpg"></a>
+							<a rel="nofollow" class="outbound link-name-footer" name="College Humor - 102 Push-ups in 30 Secs - 4/22/10" target="_blank" href="http://www.collegehumor.com/video:1932077">102 Push-ups in 30 Secs</a>
+						</li>
+							
+						
+					
+								
+						
+						
+						
+						
+						
+						<li class="clearfix">
+							<a rel="nofollow" class="outbound" name="Asylum - Awesome, But Discontinued: Food Products - 4/22/10" target="_blank" href="http://www.asylum.com/2010/03/25/7-awesome-food-products-crystal-pepsi-mcrib/"><img alt="Awesome, But Discontinued: Food Products" src="http://i.cdn.turner.com/adultswim/tools/img/home/042210/link_thumbs/asylum_link.jpg"></a>
+							<a rel="nofollow" class="outbound link-name-footer" name="Asylum - Awesome, But Discontinued: Food Products - 4/22/10" target="_blank" href="http://www.asylum.com/2010/03/25/7-awesome-food-products-crystal-pepsi-mcrib/">Awesome, But Discontinued: Food Products</a>
+						</li>
+							
+						
+					
+								
+						
+						
+						
+						
+					
+								
+						
+						
+						
+						
+					
+								
+						
+						
+						
+						
+						
+					</ul>
+					
+					<script type="text/javascript">
+						getElementsByClassName("outbound");
+					</script>
+				
+					<div id="buzzfeed-ad-module">
+						<div style="height:180px;width:300px" id="BF_BB_DIV">
+							<script type="text/javascript">
+								BF_BB_BACKGROUND = 'http://i.cdn.turner.com/adultswim/tools/img/footer/buzzfeed.png';
+								BF_BB_DATA = null;
+								if(navigator && navigator.appName && navigator.appName != 'Microsoft Internet Explorer') {
+								    // Custom background image
+								    (function( ){
+								        document.write('<div id="BF_BUZZBOX" style="height:180px;width:300px;"> </div>');
+								        var sid="77VQY7"; var c=""; var b="";
+								    	BF_BB_SCRIPT=document.createElement('script'); BF_BB_SCRIPT.type="text/javascript";
+								    	BF_BB_SRC="http://buzzbox.buzzfeed.com/wd/BuzzBox?sid=" + sid + c + b + '&wide=1&cb=' + (new Date()).getTime();					
+								    	setTimeout(function() { document.getElementById('BF_BUZZBOX').appendChild(BF_BB_SCRIPT); BF_BB_SCRIPT.src=BF_BB_SRC; },1);
+								    })();
+								} 
+								else { 
+									document.getElementById('BF_BB_DIV').style.display = 'none';
+								}
+							</script><div id="BF_BUZZBOX" style="height:180px;width:300px;"> <script type="text/javascript" src="http://buzzbox.buzzfeed.com/wd/BuzzBox?sid=77VQY7&amp;wide=1&amp;cb=1580400379287"></script></div>
+						</div>
+						
+						<script type="text/javascript">
+							if (navigator && navigator.appName && navigator.appName == 'Microsoft Internet Explorer') {
+								document.write('<img id="ad-tag" src="http://i.adultswim.com/adultswim/tools/img/ad_tag.gif" width="20" height="8" border="0" alt=""/><div id="ad-footer"><div id="ad-347002" align="center" style="padding: 0; margin: 0; border: 0;">');
+								cnnad_createAd("347002","http://ads.adultswim.com/html.ng/site=toonswim&toonswim_pos=300x250_rgt&params.styles=fs","250","300");
+								document.write('</div></div>');
+							}
+						</script>
+					</div>
+				</div>
+				
+				<div id="site-content-footer" class="clearfix">
+					<div id="video-footer">
+						<div class="site-content-header-footer">
+							<a id="video-footer-img" href="http://video.adultswim.com"><img class="pngfix" onload="Footer.fixPng(this)" src="http://i.cdn.turner.com/adultswim/tools/img/footer/video.png" alt="Video"></a>
+						</div>
+						
+						<ul>
+						
+						
+					
+						
+									
+							
+							
+							
+							
+							<li><a href="http://video.adultswim.com/episodes/index.html">Full Episodes</a></li>
+							
+						
+									
+							
+							
+							
+							
+							<li><a href="http://video.adultswim.com/aqua-teen-hunger-force/index.html">Aqua Teen Hunger Force</a></li>
+							
+						
+									
+							
+							
+							
+							
+							<li><a href="http://video.adultswim.com/comedy/index.html">Adult Swim Comedy</a></li>
+							
+						
+									
+							
+							
+							
+							
+							<li><a href="http://video.adultswim.com/family-guy/index.html">Family Guy</a></li>
+							
+						
+									
+							
+							
+							
+							
+							<li><a href="http://video.adultswim.com/king-of-the-hill/index.html">King of the Hill</a></li>
+							
+						
+									
+							
+							
+							</ul>
+						<ul>
+							
+							<li><a href="http://video.adultswim.com/metalocalypse/index.html">Metalocalypse</a></li>
+							
+						
+									
+							
+							
+							
+							
+							<li><a href="http://video.adultswim.com/robot-chicken/index.html">Robot Chicken</a></li>
+							
+						
+									
+							
+							
+							
+							
+							<li><a href="http://video.adultswim.com/squidbillies/index.html">Squidbillies</a></li>
+							
+						
+									
+							
+							
+							
+							
+							<li><a href="http://video.adultswim.com/the-venture-bros/index.html">The Venture Bros.</a></li>
+							
+						
+									
+							
+							
+							
+							
+							<li><a href="http://video.adultswim.com/tim-and-eric-awesome-show-great-job/index.html">Tim &amp; Eric Awesome Show</a></li>
+							
+							
+						
+						</ul>
+					</div>
+					
+					<div id="games-footer">
+						<div class="site-content-header-footer">
+							<a id="games-footer-img" href="http://games.adultswim.com"><img class="pngfix" onload="Footer.fixPng(this)" src="http://i.cdn.turner.com/adultswim/tools/img/footer/games.png" alt="Games"></a>
+						</div>
+						
+						<ul>
+						
+						
+					
+						
+									
+							
+							
+							
+							
+							<li><a href="http://games.adultswim.com/amateur-surgeon-twitchy-online-game.html">Amateur Surgeon</a></li>
+							
+						
+									
+							
+							
+							
+							
+							<li><a href="http://games.adultswim.com/crush-the-castle-action-online-game.html">Crush the Castle</a></li>
+							
+						
+									
+							
+							
+							
+							
+							<li><a href="http://games.adultswim.com/five-minutes-to-kill-yourself-wedding-day-action-online-multiplayer-game.html">Five Minutes to Kill (Yourself) 3</a></li>
+							
+						
+									
+							
+							
+							
+							
+							<li><a href="http://games.adultswim.com/iphone/floater-pro-iphone-game.html">Floater Pro iPhone</a></li>
+							
+						
+									
+							
+							
+							
+							
+							<li><a href="http://games.adultswim.com/jetpack-jackass-twitchy-online-game.html">Jetpack Jackass</a></li>
+							
+						
+									
+							
+							
+							</ul>
+						<ul>
+							
+							<li><a href="http://games.adultswim.com/my-lil-bastard-puzzle-online-game.html">My Lil' Bastard</a></li>
+							
+						
+									
+							
+							
+							
+							
+							<li><a href="http://games.adultswim.com/polar-bear-payback-action-online-game.html">Polar Bear Payback</a></li>
+							
+						
+									
+							
+							
+							
+							
+							<li><a href="http://games.adultswim.com/pole-dance-hero-twitchy-online-game.html">Pole Dance Hero</a></li>
+							
+						
+									
+							
+							
+							
+							
+							<li><a href="http://games.adultswim.com/robot-unicorn-attack-twitchy-online-game.html">Robot Unicorn Attack</a></li>
+							
+						
+									
+							
+							
+							
+							
+							<li><a href="http://games.adultswim.com/tofu-hunter-action-online-game.html">Tofu Hunter</a></li>
+							
+							
+						
+						</ul>
+					</div>
+					
+					<div id="features-footer">
+						<div class="site-content-header-footer">
+							<a id="features-footer-img" href="http://www.adultswim.com"><img class="pngfix" onload="Footer.fixPng(this)" src="http://i.cdn.turner.com/adultswim/tools/img/footer/features.png" alt="Features"></a>
+						</div>
+						
+						<ul>
+						
+						
+									
+							<li><a href="http://video.adultswim.com/adult-swim-news/political-spending.html">AS News: Political Spending</a></li>
+							
+						
+									
+							<li><a href="http://www.adultswim.com/presents/blockparty/index.html">Adult Swim Block Party </a></li>
+							
+						
+									
+							<li><a href="http://itunes.apple.com/us/artist/adult-swim/id289550996">iPhone Games 99 cents</a></li>
+							
+						
+									
+							<li><a href="http://www.adultswimshop.com/finerthings/?referral_id=ASHP">New Venture Merch</a></li>
+							
+						
+									
+							<li><a href="http://www.adultswim.com/promos/sweepstakes/index.html">Win Bonnaroo Tickets</a></li>
+							
+							
+							
+						</ul>
+					</div>
+				</div>
+			</div>
+			
+			<div id="legal-footer">
+				<div id="legal-links">
+					<ul>
+						<li><a href="http://www.adultswim.com/footer/legal/index.html"><b>Privacy Policy</b></a><span class="legal-divider">|</span></li>
+						<li><a href="http://www.adultswim.com/footer/legal/trademark.html"><strong>Trademark Information</strong></a><span class="legal-divider">|</span></li>
+						<li><a href="http://www.adultswim.com/footer/legal/terms_main.html"><b>For Terms of Use Click Here.</b></a><span class="legal-divider">|</span></li>
+						<li><a href="http://www.thetvboss.org/" target="_blank"><b>PARENTAL CONTROLS</b></a><span class="legal-divider">|</span></li>
+						<li><a href="http://www.adultswim.com/footer/contact/index.html"><b>Contact Us</b></a><span class="legal-divider">|</span></li>
+						<li><a href="http://tsed.turner.com/adult-swim"><b>Advertise with Us</b></a><span class="legal-divider">|</span></li>
+						<li><a href="http://news.turner.com/section_display.cfm?section_id=82"><b>Press Room</b></a><span class="legal-divider">|</span></li>
+						<li><a href="http://www.adultswim.com/footer/help/index.html"><b>Help</b></a><span class="legal-divider">|</span></li>
+						<li><a href="http://www.adultswim.com/footer/submissions/index.html"><b>Submissions</b></a><span class="legal-divider">|</span></li>
+						<li id="sitemap-footer"><a href="http://www.adultswim.com/sitemap/index.html" id="sitemap-anchor"><b>Site Map</b></a></li>
+					</ul>
+				</div>
+				<p id="tbs-info">
+					TM &amp; © 2010 <a href="/footer/tbs/index.html">Turner Broadcasting System, Inc.</a>  A Time Warner Company.  All Rights Reserved.
+				</p>
+				<p id="adultswim-info">
+					<img src="http://i.cdn.turner.com/adultswim/footer/tools/img/turnerLogo.gif"> AdultSwim.com is part of the Turner Sports and Entertainment Digital Network.
+				</p>
+			</div>
+			
+			<img src="http://i.cdn.turner.com/adultswim/tools/img/1.gif" alt="" id="TargetImageDE" name="TargetImageDE" width="1" height="1" onload="cnnad_getDEAdHeadCookie(this)">
 
-<div id="legalDiv">
-	<div id="legalLinks">
-		<ul>
-			<li><a href="/footer/legal/index.html"><b>Privacy Policy</b></a><span class="legalDivider">|</span></li><li><a href="/footer/legal/trademark.html"><strong>Trademark Information</strong></a><span class="legalDivider">|</span></li><li><a href="/footer/legal/terms_main.html"><b>For Terms of Use Click Here.</b></a><span class="legalDivider">|</span></li><li><a href="http://www.thetvboss.org/" target="_blank"><b>PARENTAL CONTROLS</b></a><span class="legalDivider">|</span></li><li><a href="/footer/contact/index.html"><b>Contact Us</b></a><span class="legalDivider">|</span></li><li><a href="/footer/help/index.html"><b>Help</b></a><span class="legalDivider">|</span></li><li><a href="/footer/submissions/index.html"><b>Submissions</b></a><span class="legalDivider">|</span></li><li id="sitemap-footer"><a href="/sitemap/index.html" id="sitemap-anchor"><b>Site Map</b></a></li>
-		</ul>
-	</div>
-	<div id="tbsInfo">
-		<strong class="alphaOp">TM &amp; © 2009 <a href="/footer/tbs/index.html">Turner Broadcasting System, Inc.</a>  A Time Warner Company.  All Rights Reserved.</strong>
-	</div>
-	<div id="asInfo" class="clearfix">
-		<div class="floatWrapper">
-			<div id="turnerLogo">
-				<img src="http://i.cdn.turner.com/adultswim/footer/tools/img/turnerLogo.gif">
-			</div>
-		</div>
-		<div class="floatWrapper">
-			<div id="infoText">
-				<strong class="alphaOp">AdultSwim.com is part of the Turner Sports and Entertainment Digital Network.</strong>
-			</div>
-		</div>
-	</div>
-</div>
+
+
 
 	</div>
 	
