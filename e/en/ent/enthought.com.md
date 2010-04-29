@@ -1,29 +1,31 @@
-> *The following text is extracted and transformed from the enthought.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623172639id_/http%3A//www.enthought.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enthought.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429023402id_/http%3A//www.enthought.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy :: Enthought, Inc.
-
-The following states Enthought Inc.'s policy regarding the privacy rights of visitors to this website.
-
-This is a website of Enthought, Inc.
-
-Our postal address is:  
-515 Congress Ave.  
-Suite 2100   
-Austin, Texas, 78701
-
-We can be reached via e-mail at [info@enthought.com](mailto:info@enthought.com) or by telephone at 512.536.1057.
-
-## Information We Collect and How It's Used
+# Privacy :: Enthought, Inc. :: Scientific Computing Solutions
 
 ### Cookies
 
 Cookies are pieces of data that your web browser stores on your hard drive at the request of a website.
 
-We use cookies only in the blog portion of the Enthought website, to store the information you enter to identify yourself when you log in or leave a comment. Accepting cookies is not required for using the Enthought website. If you set your browser to reject cookies, you must re-enter your information each time you log in to or leave a comment on the blog.
+We use cookies in the blog portion of the Enthought website to store the information you enter to identify yourself when you log in or leave a comment. Accepting cookies is not required for using the Enthought website. If you set your browser to reject cookies, you must re-enter your information each time you log in to or leave a comment on the blog.
+
+Cookies are also used for [Google AdWords conversion tracking](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=142348). If you reach our site through a Google Ad and have cookies enabled, we will be notified if you download or purchase EPD. This information is anonymous and used only for internal purposes.
+
+  
+
 
 ### Aggregate Information
 
 We collect aggregate information on visits made to our pages. This information helps us improve the content of our site. We also track which websites refer visitors to [enthought.com](https://web.archive.org/).
+
+  
+
+
+### Email addresses
+
+Enthought always uses an opt-in process to add names to our e-mail lists. All mass emails we send include an opt-out link that will allow you to remove yourself from all future mailings. We never share our email lists with anyone.
+
+  
+
 
 ### Disclosure of Information Policy
 
