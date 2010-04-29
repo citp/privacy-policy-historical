@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phobio.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219195641id_/http%3A//phobio.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phobio.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429182237id_/http%3A//phobio.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Phobio - Privacy Policy
 
