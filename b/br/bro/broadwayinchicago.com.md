@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadwayinchicago.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620051442id_/http%3A//www.broadwayinchicago.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadwayinchicago.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429195549id_/http%3A//www.broadwayinchicago.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - Broadway in Chicago
 
@@ -34,7 +34,7 @@ In addition, we may collect certain non-personally identifiable information when
 
   
 **Use of Information  
-**We use the information you provide about yourself and others to fulfill requests for, and to offer, our products, programs, and services (e.g., Broadway in Chicago Club membership, our e-Bulletin sign-up, or information on special events), to send them your gifts or other products, and to respond to inquiries about our offerings (e.g., questions about tickets and shows).  We also use this information to communicate with you and others, such as to notify winners of our contests or drawings, or to contact you about your account with us.  We may also share this information with our partners, sponsors and affiliates, including Clear Channel Communications, Inc., Nederlander Producing Organization, and other related theatre organizations. 
+**We use the information you provide about yourself and others to fulfill requests for, and to offer, our products, programs, and services (e.g., Broadway in Chicago Club membership, our e-Bulletin sign-up, or information on special events), to send them your gifts or other products, and to respond to inquiries about our offerings (e.g., questions about tickets and shows).  We also use this information to communicate with you and others, such as to notify winners of our contests or drawings, or to contact you about your account with us.  We may also share this information with our partners, sponsors and affiliates, including Nederlander Producing Organization and other related theatre organizations. 
 
 We may also use the information we collect to enable you and others to receive information from us and unrelated third parties about other products, programs, or services that we believe may be of interest. 
 
@@ -79,22 +79,22 @@ We may share personally identifiable information with companies whose practices 
   
 | 
 
-[Employment](https://web.archive.org/web/20090620051442id_/http%3A//www.broadwayinchicago.com/employment.php)
+[Employment](https://web.archive.org/web/20100429195549id_/http%3A//www.broadwayinchicago.com/employment.php)
 
 | 
 
-[Technical](https://web.archive.org/web/20090620051442id_/http%3A//www.broadwayinchicago.com/technical.php)
+[Technical](https://web.archive.org/web/20100429195549id_/http%3A//www.broadwayinchicago.com/technical.php)
 
 | 
 
-[Privacy Notice](https://web.archive.org/web/20090620051442id_/http%3A//www.broadwayinchicago.com/privacy.php)
+[Privacy Notice](https://web.archive.org/web/20100429195549id_/http%3A//www.broadwayinchicago.com/privacy.php)
 
 | 
 
-[Site Map](https://web.archive.org/web/20090620051442id_/http%3A//www.broadwayinchicago.com/sitemap.php)
+[Site Map](https://web.archive.org/web/20100429195549id_/http%3A//www.broadwayinchicago.com/sitemap.php)
 
 | 
 
-[Contact Us](https://web.archive.org/web/20090620051442id_/http%3A//www.broadwayinchicago.com/theatreinfo_contact.php)  
+[Contact Us](https://web.archive.org/web/20100429195549id_/http%3A//www.broadwayinchicago.com/theatreinfo_contact.php)  
   
 ---|---|---|---|---
