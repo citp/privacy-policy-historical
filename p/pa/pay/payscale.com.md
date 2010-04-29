@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2009-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091015095534id_/http%3A//www.payscale.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430012629id_/http%3A//www.payscale.com/privacy.asp) for the most accurate reproduction.*
 
 # PayScale - Salary Survey, Salaries, Wages, Compensation Information and Analysis
 
