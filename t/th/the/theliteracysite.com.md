@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theliteracysite.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125065952id_/http%3A//www.theliteracysite.com/clickToGive/privacy.faces%3FsiteId%3D6%26link%3Dctg_lit_privacy_from_home_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theliteracysite.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429205919id_/http%3A//www.theliteracysite.com/clickToGive/privacy.faces%3FsiteId%3D6%26link%3Dctg_lit_privacy_from_home_footer) for the most accurate reproduction.*
 
 # Privacy @ The Literacy Site
 
