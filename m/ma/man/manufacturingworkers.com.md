@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manufacturingworkers.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229220743id_/http%3A//www.manufacturingworkers.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manufacturingworkers.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501002628id_/http%3A//www.manufacturingworkers.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Search Manufacturing & Production Jobs & Resumes, Find Career Resources - ManufacturingWorkers.com
 
