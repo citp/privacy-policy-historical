@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cruisedeals.com privacy policy that was archived on 2009-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091229224309id_/http%3A//www.cruisedeals.com/about/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cruisedeals.com privacy policy that was archived on 2010-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100501011405id_/http%3A//www.cruisedeals.com/about/privacy_policy.asp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -33,13 +33,7 @@
 <script type="text/javascript" src="/js/IsEmailValid.js"></script>
 <script type="text/javascript" src="/js/Rcertify.js"></script>
 
-<script language="JavaScript" type="text/javascript">
-		<!--
-		newWindow = window.open("/popup_seamail.asp", "SEAMail", "width=375,height=224,noresize")
-		// -->
-		</script></head>
-		
-		
+</head>
 
 
 
@@ -180,6 +174,17 @@ If you have any questions or concerns about this policy, you may contact CruiseD
 	<p><select name="DestinationID" class="inside_search_destination">
 	<option value="" selected="">Choose destination
 	</option><option value="">Any destination
+	</option><option value="">
+	</option><option value="">---Popular Destinations---
+	</option><option value="2">Alaska
+	</option><option value="5">Bahamas
+	</option><option value="7">Bermuda
+	</option><option value="45">Caribbean
+	</option><option value="47">Europe
+	</option><option value="19">Hawaii
+	</option><option value="23">Mexico
+	</option><option value="">
+	</option><option value="">---All Destinations---
 	</option><option value="1">Africa
 	</option><option value="2">Alaska
 	</option><option value="4">Australia
@@ -187,15 +192,15 @@ If you have any questions or concerns about this policy, you may contact CruiseD
 	</option><option value="6">Baltic Sea
 	</option><option value="7">Bermuda
 	</option><option value="78">Canada/New England
-	</option><option value="45">Caribbean
-	</option><option value="12">Caribbean - Eastern
-	</option><option value="11">Caribbean - Southern
-	</option><option value="13">Caribbean - Western
+	</option><option value="45">All Caribbean
+	</option><option value="12">- Eastern Caribbean
+	</option><option value="13">- Western Caribbean
+	</option><option value="11">- Southern Caribbean
 	</option><option value="14">Costa Rica
 	</option><option value="49">Cruise To Nowhere
-	</option><option value="47">Europe
-	</option><option value="15">Europe - Northern
-	</option><option value="16">Europe - Western
+	</option><option value="47">All Europe
+	</option><option value="15">- Northern Europe
+	</option><option value="16">- Western Europe 
 	</option><option value="17">Far East
 	</option><option value="18">Greek Isles
 	</option><option value="19">Hawaii
@@ -212,9 +217,9 @@ If you have any questions or concerns about this policy, you may contact CruiseD
 	</option><option value="35">South Pacific
 	</option><option value="3">Southeast Asia
 	</option><option value="36">Tahiti
-	</option><option value="38">Transatlantic
-	</option><option value="39">Transcanal
-	</option><option value="40">Transpacific
+	</option><option value="38">Transatlantic Crossing
+	<!--<option value="39">Transcanal-->
+	</option><option value="40">Transpacific Crossing
 	</option><option value="42">World Cruise</option></select><!-- <img src="/images/icon_help_home.gif" width="13" height="12" alt="" border="0"> --></p>
 
 	<p><select name="cruise_duration" class="inside_search_duration">
@@ -230,7 +235,7 @@ If you have any questions or concerns about this policy, you may contact CruiseD
 	</option><option value="1">January
 	</option><option value="2">February
 	</option><option value="3">March
-	</option><option value="4">April
+	</option><option value="4" selected="">April
 	</option><option value="5">May
 	</option><option value="6">June
 	</option><option value="7">July
@@ -238,12 +243,18 @@ If you have any questions or concerns about this policy, you may contact CruiseD
 	</option><option value="9">September
 	</option><option value="10">October
 	</option><option value="11">November
-	</option><option value="12" selected="">December</option></select><select name="cruise_year" class="inside_search_year">
-	<option selected="" value="2009">2009
-	</option><option value="2010">2010
-	</option><option value="2011">2011</option></select><!-- <img src="/images/icon_help_home.gif" width="13" height="12" alt="" border="0"> --></p>
+	</option><option value="12">December</option></select><select name="cruise_year" class="inside_search_year">
+	<option selected="" value="2010">2010
+	</option><option value="2011">2011
+	</option><option value="2012">2012</option></select><!-- <img src="/images/icon_help_home.gif" width="13" height="12" alt="" border="0"> --></p>
 	
-	<p><select name="VendorID" class="inside_search_cruiseline">
+	
+	<script type="text/javascript" src="http://res.cruisedeals.com/js/formbutton.js"></script>
+	<script type="text/javascript" src="http://res.cruisedeals.com/js/form_library_adv.js"></script>
+	<script type="text/javascript" src="http://res.cruisedeals.com/travel/cruise/ships_js.rvlx"></script>
+	
+	
+	<p><select name="VendorID" class="inside_search_cruiseline" onchange="showShips(this);">
 	<option value="">Any cruise line
 	</option><option value="1591">Azamara Cruises
 	</option><option value="1">Carnival Cruise Lines
@@ -265,6 +276,12 @@ If you have any questions or concerns about this policy, you may contact CruiseD
 	</option><option value="83">Uniworld River Cruises
 	</option><option value="59">Viking River Cruises
 	</option><option value="9">Windstar Cruises</option></select><!-- <img src="/images/icon_help_home.gif" width="13" height="12" alt="" border="0"> --></p>
+	
+	
+	<p><select name="ShipID" id="cruise_ships" class="inside_search_cruiseship" disabled="">
+	<option value="">Any ship (choose line first)
+	</option></select><!-- <img src="/images/icon_help_home.gif" width="13" height="12" alt="" border="0"> --></p>
+	
 
 	<div id="inside_search_actions" class="clearfix">
 		<p class="floatleft" style="margin-top: -2px; width: 89px;"><a href="/booking/">More Search <br>Options</a></p>
@@ -297,7 +314,37 @@ If you have any questions or concerns about this policy, you may contact CruiseD
 </div>
 <div class="inside_seamail_foot"></div>
 </div>
-<div id="inside_morecruisedeals">
+
+<div id="inside_cruiselines">
+<div class="inside_cruiselines_head"></div>
+<div class="content_border_yellow">
+	<div class="content_body_white">
+		<p><a href="/ships/royal_caribbean/royal_caribbean.asp">Royal Caribbean Int'l</a></p>
+		<p><a href="/ships/carnival/carnival_cruise_lines.asp">Carnival Cruise Lines</a></p>
+		<p><a href="/ships/celebrity/celebrity_cruises.asp">Celebrity Cruises</a></p>
+		<p><a href="/ships/norwegian/norwegian_cruise_line.asp">Norwegian Cruise Line</a></p>
+		<p><a href="/ships/princess/princess_cruises.asp">Princess Cruises</a></p>
+		<p><a href="/ships/holland_america/holland_america_line.asp">Holland America</a></p>
+		<p class="clear"><a href="/ships/">All Cruise Lines...</a></p>
+	</div>
+</div>
+<div class="inside_cruiselines_foot"></div>
+</div>
+<div id="inside_destinations">
+<div class="inside_destinations_head"></div>
+<div class="content_border_yellow">
+	<div class="content_body_white">
+		<p><a title="Alaska Cruise Deals" href="/places/alaska_cruise_deals.asp">Alaska</a></p>
+		<p><a title="Caribbean Cruise Deals" href="/places/caribbean_cruise_deals.asp">Caribbean</a></p>
+		<p><a title="Bahamas Cruise Deals" href="/places/bahamas_cruise_deals.asp">Bahamas</a></p>
+		<p><a title="Bermuda Cruise Deals" href="/places/bermuda_cruise_deals.asp">Bermuda</a></p>
+		<p><a title="Hawaii Cruise Deals" href="/places/hawaii_cruise_deals.asp">Hawaii</a></p>
+		<p><a title="Mexico Cruise Deals" href="/places/mexico_cruise_deals.asp">Mexico</a></p>
+		<p class="clear"><a title="Cruise Destinations" href="/places/">All Destinations...</a></p>
+	</div>
+</div>
+<div class="inside_destinations_foot"></div>
+</div><div id="inside_morecruisedeals">
 <div class="inside_morecruisedeals_head"></div>
 <div class="content_border_yellow">
 	<div class="content_body_white">
@@ -331,33 +378,6 @@ If you have any questions or concerns about this policy, you may contact CruiseD
 	</div>
 </div>
 <div class="inside_aboutcruising_foot"></div>
-</div><div id="inside_cruiselines">
-<div class="inside_cruiselines_head"></div>
-<div class="content_border_yellow">
-	<div class="content_body_white">
-		<p><a href="/ships/royal_caribbean/royal_caribbean.asp">Royal Caribbean Int'l</a></p>
-		<p><a href="/ships/carnival/carnival_cruise_lines.asp">Carnival Cruise Lines</a></p>
-		<p><a href="/ships/celebrity/celebrity_cruises.asp">Celebrity Cruises</a></p>
-		<p><a href="/ships/norwegian/norwegian_cruise_line.asp">Norwegian Cruise Line</a></p>
-		<p><a href="/ships/princess/princess_cruises.asp">Princess Cruises</a></p>
-		<p><a href="/ships/holland_america/holland_america_line.asp">Holland America</a></p>
-		<p class="clear"><a href="/ships/">All Cruise Lines...</a></p>
-	</div>
-</div>
-<div class="inside_cruiselines_foot"></div>
-</div><div id="inside_destinations">
-<div class="inside_destinations_head"></div>
-<div class="content_border_yellow">
-	<div class="content_body_white">
-		<p><a title="Caribbean Cruise Deals" href="/places/caribbean_cruise_deals.asp">Caribbean</a></p>
-		<p><a title="Bahamas Cruise Deals" href="/places/bahamas_cruise_deals.asp">Bahamas</a></p>
-		<p><a title="Bermuda Cruise Deals" href="/places/bermuda_cruise_deals.asp">Bermuda</a></p>
-		<p><a title="Hawaii Cruise Deals" href="/places/hawaii_cruise_deals.asp">Hawaii</a></p>
-		<p><a title="Mexico Cruise Deals" href="/places/mexico_cruise_deals.asp">Mexico</a></p>
-		<p class="clear"><a title="Cruise Destinations" href="/places/">All Destinations...</a></p>
-	</div>
-</div>
-<div class="inside_destinations_foot"></div>
 </div><div id="inside_alreadybooked">
 <div class="inside_alreadybooked_head"></div>
 <div class="content_border_yellow">
@@ -473,7 +493,7 @@ If you have any questions or concerns about this policy, you may contact CruiseD
 	</div>
 
 	<div id="footer_copyright">
-		<p>© 2002 - 2009 Cruise Deals Inc. All Rights Reserved.</p>
+		<p>© 2002 - 2010 Cruise Deals Inc. All Rights Reserved.</p>
 	</div> 
 
 	<div id="footer_resources">
@@ -507,13 +527,15 @@ pageTracker._setDomainName(".cruisedeals.com");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
-<!--VISISTAT SNIPPET//
+<!--VISISTAT SNIPPET//-->
 <script type="text/javascript">
 var DID=59780;
+var MyID=''; 
 var pcheck=(window.location.protocol == "https:") ? "https://sniff.visistat.com/live.js":"http://stats.visistat.com/live.js";
 document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'ipt>');
-</script>
-VISISTAT SNIPPET//-->
+</script><script src="https://sniff.visistat.com/live.js" type="text/javascript"></script>
+
+<!--VISISTAT SNIPPET//-->
 
 <!-- Start Quantcast tag -->
 <script type="text/javascript">
