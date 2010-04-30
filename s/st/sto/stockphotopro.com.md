@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the stockphotopro.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312094903id_/http%3A//www.stockphotopro.com/sppprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockphotopro.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430172134id_/http%3A//www.stockphotopro.com/sppprivacy.php) for the most accurate reproduction.*
 
-# StockphotoPro - Stock Photography - Search 4 Million Stock Photos, Royalty Free Images, and Illustrations
+# StockphotoPro - Stock Photography - Search 6 Million Stock Photos, Royalty Free Images, and Illustrations
 
 for **STOCKPHOTOPRO, INC.**.
 
 Our postal address is   
-**PO Box 25053  
-San Mateo, CA 94402**
+**2011Polk Ave  
+San Mateo, CA 94403**
 
 We can be reached via e-mail at [privacy@stockphotopro.com](mailto:privacy@stockphotopro.com)
 
