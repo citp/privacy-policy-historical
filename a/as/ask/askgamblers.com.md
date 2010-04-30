@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the askgamblers.com privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118174917id_/http%3A//www.askgamblers.com/page/plain/64) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askgamblers.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430200018id_/http%3A//www.askgamblers.com/p-64) for the most accurate reproduction.*
 
-# Privacy Policy | AskGamblers
+# Please read AskGamblers privacy policy | AskGamblers
 
 ## Privacy Policy
 
@@ -49,3 +49,10 @@ AskGamblers.com gives personal information, only with your permission, or under 
 7.2. Our mission is to provide Fair Games within gambling industry.  
 7.3. AskGamblers.com helps to establish good and quality communication between sides in order to finish all disputes as fast as possible.  
 7.4. AskGamblers.com do not charge this process and any side cannot pay it. There is no money being processed through AskGamblers.com between Players or Companies regarding to Complaint section (feature).
+
+**8\. Submit your site**
+
+8.1. The cost to submit your web site to be included in the AskGamblers list depends of chosen package.  
+8.2. Once we have successfully received payment your web site will be reviewed and published to the AskGamblers list within 3 business days.  
+8.3. If your site does not meet the above guidelines you will recieve a full Moneybookers (only) refund and your website will not be published to the list.  
+8.4. All fees are added on top of current commission.
