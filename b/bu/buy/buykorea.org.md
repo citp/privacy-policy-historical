@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the buykorea.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618064445id_/http%3A//www.buykorea.org/buykorea/front_eng/cs/SCS0801MN.jsp%3Fcs_menu_gbn%3D006%26cs_menu_id%3DALL%26p_menu_id%3D0104%26menu_id%3D010406) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buykorea.org privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430222600id_/http%3A//www.buykorea.org/buykorea/front_eng/cs/SCS0801MN.jsp%3Fcs_menu_gbn%3D006%26cs_menu_id%3DALL%26p_menu_id%3D0104%26menu_id%3D010406) for the most accurate reproduction.*
 
-# B2B Korea business directory of Buykorea.org : Korean made products, manufacturers
+# Privacy Policy | Buykorea Help Desk - Search Privacy Policy from Buykorea
 
 |  |   
 ---|---  
-| [](https://web.archive.org/buykorea/front_eng/main.jsp) |  | [Help Desk](http://www.buykorea.org/buykorea/front_eng/cs/SCS0101MN.jsp?p_menu_id=01&menu_id=0104&cms_ctgry_cd=) |   
+| [](https://web.archive.org/buykorea/front_eng/main.jsp) |  |  |   
 ---|---|---|---|---  
 |  | [Notice](javascript:GoListPage\('/buykorea/front_eng/cs/SCS0301LS.jsp','001','&p_menu_id=0104&menu_id=010401'\);)  
 ---  
