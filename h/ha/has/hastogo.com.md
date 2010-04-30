@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hastogo.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215085732id_/http%3A//www.hastogo.com/%3Fclassifieds%3D%3Bprint_privacy_page%3Don) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hastogo.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501015335id_/http%3A//www.hastogo.com/%3Fclassifieds%3D%3Bprint_privacy_page%3Don) for the most accurate reproduction.*
 
 # Internet Classifieds Free Online Ads. Buy Sell Cars Trucks Houses Computers Business Opportunities
 
