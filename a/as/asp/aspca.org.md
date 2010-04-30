@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aspca.org privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302092814id_/http%3A//www.aspca.org/about-us/legal-information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspca.org privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430021407id_/http%3A//www.aspca.org/about-us/legal-information/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# ASPCA | Privacy Policy
 
 The website is operated by The American Society for the Prevention of Cruelty to Animals®, with offices at 424 East 92nd Street, New York, New York 10128 (the "ASPCA").
 
@@ -30,7 +30,7 @@ By visiting the website you agree that information you submit to the website sha
 
 #### Does the ASPCA use cookies?
 
-When you register on our website, we might store some information on your computer in the form of a "cookie" (i.e. a small piece of text that stores information on your browser in your computers hard drive) or similar file.  We do this to collect information about your activities on the website, make it possible for you to keep track of items you wish to purchase on our website, deliver to you content that is specific to your interests, and/or to prevent you from re-entering all your registration data at each connection.  The cookies shall only be used to obtain non-personal information to improve your online experience. No other information is stored in these cookies.  You can set your browser to notify you when you receive a cookie and delete any cookies you receive.
+When you register on our website, we might store some information on your computer in the form of a "cookie" (i.e. a small piece of text that stores information on your browser in your computers hard drive) or similar file.  We do this to collect information about your activities on the website, make it possible for you to keep track of items you wish to purchase on our website, deliver to you content that is specific to your interests, and/or to prevent you from re-entering all your registration data at each connection.  We also use conversion tracking cookies as part of our ad campaigns in order to analyze trends, gather broad demographic information, and monitor site traffic patterns that can help us further develop and improve the design and functionality of our site. The cookies shall only be used to obtain non-personal information to improve your online experience. No other information is stored in these cookies. You can set your browser to notify you when you receive a cookie and delete any cookies you receive.
 
 #### How secure is the ASPCA's website?
 
@@ -60,4 +60,4 @@ Via email:
 Via Fax:  
 (212) 860-3560
 
-_Last Revised: April 19, 2006_
+_Last Revised: May 8, 2009_
