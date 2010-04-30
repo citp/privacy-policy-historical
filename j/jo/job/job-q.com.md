@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the job-q.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430114219id_/http%3A//singapore.job-q.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-q.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430035231id_/http%3A//singapore.job-q.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -19,7 +19,7 @@ Exceptions to this clause are:
   4. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, [click here](http://www.google.co.uk/privacy_ads.html). 
 
   
-Job-Q.com responsibilities and liabilities in safeguarding this privacy policy is stated in [Terms and Conditions](https://web.archive.org/web/20090430114219id_/http%3A//singapore.job-q.com/terms.php)  
+Job-Q.com responsibilities and liabilities in safeguarding this privacy policy is stated in [Terms and Conditions](https://web.archive.org/web/20100430035231id_/http%3A//singapore.job-q.com/terms.php)  
   
 |  | **   Member Login**  
 ---  
@@ -37,13 +37,16 @@ Job-Q.com responsibilities and liabilities in safeguarding this privacy policy i
    
 | **   Site Statistics **  
 ---  
-  | Users Online |  28   
-  | Job-seekers |  31594   
-  | Employers  |  2620   
-  | Jobs |  3529   
-  |  Resumes |  13353   
-  |  Companies |  953   
+  | Users Online |  66   
+  | Job-seekers |  67686   
+  | Employers  |  4579   
+  | Jobs |  5118   
+  |  Resumes |  28289   
+  |  Companies |  1935   
    
 | **    Advertisements **  
 ---  
+  
+[](http://www.twitter.com/jobqcom)  
+[](http://singapore.job-q.com/blog)  
 [](https://web.archive.org/advertise.php)
