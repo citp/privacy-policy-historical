@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the homejobplacement.org privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003015810id_/http%3A//homejobplacement.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homejobplacement.org privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430174555id_/http%3A//homejobplacement.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Home Job Placement
 
 ## **Privacy Policy**
 
-[www.homejobplacement.org](https://web.archive.org/web/20091003015810id_/http%3A//homejobplacement.org/www.homejobplacement.org) (the “Site”) is owned and operated by Home Job Placement (the “Company”).  By using the Site, you agree to the collection and use of your information by the Company in accordance with this Privacy Policy.  Do not use the Site if you do not agree with this Privacy Policy.
+[www.homejobplacement.org](https://web.archive.org/web/20100430174555id_/http%3A//homejobplacement.org/www.homejobplacement.org) (the “Site”) is owned and operated by Home Job Placement (the “Company”).  By using the Site, you agree to the collection and use of your information by the Company in accordance with this Privacy Policy.  Do not use the Site if you do not agree with this Privacy Policy.
 
 We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how the Site collects information from all end users of our Internet services (“Services”), including those who access some of our Services but do not have accounts (“Visitors”), as well as those who may purchase products or subscribe to our Services (“Customers”).  This Privacy Policy also describes what we do with the information we collect, and the choices that Visitors and Customers have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
 
