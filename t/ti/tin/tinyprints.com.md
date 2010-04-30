@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinyprints.com privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923221330id_/http%3A//www.tinyprints.com/privacyandsecurity.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyprints.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430173121id_/http%3A//www.tinyprints.com/privacyandsecurity.htm) for the most accurate reproduction.*
 
 # Tiny Prints Christmas Holiday Cards, Birth Announcements, Baby Shower Invitations & Birthday Invitations
 
@@ -68,4 +68,4 @@ We also work with a third party to monitor certain pages of our website for the 
 
 ## Questions and Suggestions
 
-If you have questions about this Privacy Policy, you can contact us at [info@tinyprints.com](https://web.archive.org/web/20090923221330id_/http%3A//www.tinyprints.com/info@tinyprints.com "info@tinyprints.com") or (877) 300-9256.
+If you have questions about this Privacy Policy, you can contact us at [info@tinyprints.com](mailto:info@tinyprints.com "info@tinyprints.com") or (877) 300-9256.
