@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forward-to-friend.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227123153id_/http%3A//www.mailchimp.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forward-to-friend.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430094648id_/http%3A//www.mailchimp.com/page/privacy) for the most accurate reproduction.*
 
 # MailChimp Privacy Policy | MailChimp.com
 
@@ -98,4 +98,13 @@ This Privacy Policy is effective with respect to all data that we have collected
 
 **XI. Questions:**
 
-If you have any questions about our Privacy Policy, feel free to contact us by sending an email to:  _________@______.com.
+If you have any questions, comments, or concerns or wish to update, delete or change any personal information submitted on this Site, or have any questions about our Privacy Policy, please notify us through postal mail at: 
+
+MailChimp  
+Privacy Department  
+512 Means St., Suite 404  
+Atlanta, Georgia 30318
+
+Or you can use our [Contact Form](http://www.mailchimp.com/contact) to email us.
+
+[MailChimp Safe Harbor Privacy Policy](http://www.mailchimp.com/page/eu-mailchimp-safe-harbor-privacy-policy/)
