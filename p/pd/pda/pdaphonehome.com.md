@@ -1,27 +1,139 @@
-> *The following text is extracted and transformed from the pdaphonehome.com privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803071327id_/http%3A//pdaphonehome.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdaphonehome.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430072827id_/http%3A//pdaphonehome.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # PDAPhoneHome.com - Privacy Policy
 
-|  **» August 2009**  
+|  |  **Home of the Converged PDA - Phone** |   |   |   
+---|---|---|---|---  
+  
+|  **» Current Poll**  
+---  
+What's your impression of the Omnia2  
+Well worth the wait. Couldn't be happier.  
+Very nice. But, some improvements needed.  
+Sweet. But missing some important features.  
+This is going to take some getting used to.  
+I'm just not sure I want to keep this one.  
+Where's my reciept. I'm sending it back!  
+  
+» [View Poll Results](http://pdaphonehome.com/forums/samsung-i920-omnia-2/poll-607-what-s-your-impression-omnia2.html)
+
+» [Discuss This Poll](http://pdaphonehome.com/forums/newreply.php?t=140802)
+
+» [This Poll Has 10 Replies](http://pdaphonehome.com/forums/samsung-i920-omnia-2/140802-what-s-your-first-impression-omnia-2-a.html)  
+  
+**» Site Navigation**  
+---  
+  
+» [Default / Homepage](https://web.archive.org/index.php?page=home)
+
+ > [Advertising](https://web.archive.org/index.php?page=advertise)
+
+ > [House Rules](https://web.archive.org/index.php?page=rules)
+
+ > [PDAPhone Information](https://web.archive.org/index.php?page=Info)
+
+  > [Device Specs Page](https://web.archive.org/index.php?page=spec)
+
+ > [Learn - TEST](https://web.archive.org/index.php?page=learn2)
+
+  > [Sony Ericsson P900](https://web.archive.org/index.php?page=p900)
+
+  > [PPC-6600 / XV-6600](https://web.archive.org/index.php?page=ppc6600)
+
+  > [Samsung SPH-i700](https://web.archive.org/index.php?page=i700)
+
+  > [Treo 755P](https://web.archive.org/index.php?page=treo755p)
+
+  > [Apple iPhone](https://web.archive.org/index.php?page=iphone)
+
+  > [PPC-6700 / XV-6700](https://web.archive.org/index.php?page=ppc6700)
+
+  > [T-Mobile Pocket PC Phone Edition](https://web.archive.org/index.php?page=ppcpe)
+
+  > [Sony Ericsson P800](https://web.archive.org/index.php?page=p800)
+
+  > [Treo 600](https://web.archive.org/index.php?page=treo600)
+
+  > [Treo 650](https://web.archive.org/index.php?page=treo650)
+
+  > [Treo 700P](https://web.archive.org/index.php?page=treo700p)
+
+  > [Samsung SPH-i500](https://web.archive.org/index.php?page=i500)
+
+  > [T-Mobile Dash](https://web.archive.org/index.php?page=dash)
+
+  > [Samsung SCH-i730](https://web.archive.org/index.php?page=i730)
+
+  > [Kyocera 7135](https://web.archive.org/index.php?page=7135)
+
+  > [Samsung SCH-i760](https://web.archive.org/index.php?page=i760)
+
+  > [Cingular Blackjack / Samsung SGH-i607](https://web.archive.org/index.php?page=blackjack)
+
+ > [Learn](https://web.archive.org/index.php?page=learn)
+
+ > [**Privacy Policy**](https://web.archive.org/index.php?page=privacy)
+
+» [testnav](https://web.archive.org/index.php?page=testnav)
+
+» [tabletest](https://web.archive.org/index.php?page=tabletest)
+
+» [Where Are You Going](https://web.archive.org/index.php?page=lost)
+
+» [test page](https://web.archive.org/index.php?page=testpage)
+
+» [PDAPhoneHome News Archive](https://web.archive.org/index.php?page=news)  
+  
+**» April 2010**  
 ---  
 S | M | T | W | T | F | S  
-26| 27| 28| 29| 30| 31|  1   
-2  |  3  |  4  |  5  |  6  |  7  |  8   
-9  |  10  |  11  |  12  |  13  |  14  |  15   
-16  |  17  |  18  |  19  |  20  |  21  |  22   
-23  |  24  |  25  |  26  |  27  |  28  |  29   
-30  |  31  | 1| 2| 3| 4| 5  
+28| 29| 30| 31|  1  |  2  |  3   
+4  |  5  |  6  |  7  |  8  |  9  |  10   
+11  |  12  |  13  |  14  |  15  |  16  |  17   
+18  |  19  |  20  |  21  |  22  |  23  |  24   
+25  |  26  |  27  |  28  |  29  |  30  | 1  
   
 **» Advertiser**  
 ---  
   
 |   
   
-**»[Online Users: 517](http://pdaphonehome.com/forums/online.php)**  
+**» Today's Birthdays**  
 ---  
-10 members and 507 guests  
-[Insourous](http://pdaphonehome.com/forums/members/insourous.html), [jglasco80](http://pdaphonehome.com/forums/members/jglasco80.html), [luxuryvacation](http://pdaphonehome.com/forums/members/luxuryvacation.html), [mknollman](http://pdaphonehome.com/forums/members/mknollman.html), [nkoom](http://pdaphonehome.com/forums/members/nkoom.html), [sbdan](http://pdaphonehome.com/forums/members/sbdan.html), [theubergeek](http://pdaphonehome.com/forums/members/theubergeek.html), [tmsnana](http://pdaphonehome.com/forums/members/tmsnana.html), [TommyKaira](http://pdaphonehome.com/forums/members/tommykaira.html), [V-Dub](http://pdaphonehome.com/forums/members/v-dub.html)  
+[crimsond](http://pdaphonehome.com/forums/members/crimsond.html)  
+[robert_S](http://pdaphonehome.com/forums/members/robert_s.html) (59)  
+[uncadee](http://pdaphonehome.com/forums/members/uncadee.html) (58)  
+[BluewaterRocket](http://pdaphonehome.com/forums/members/bluewaterrocket.html) (50)  
+[Kreigz](http://pdaphonehome.com/forums/members/kreigz.html) (47)  
+[lattitude](http://pdaphonehome.com/forums/members/lattitude.html) (45)  
+[BubbaGump](http://pdaphonehome.com/forums/members/bubbagump.html) (45)  
+[geraxil](http://pdaphonehome.com/forums/members/geraxil.html) (44)  
+[hello_taylor](http://pdaphonehome.com/forums/members/hello_taylor.html) (44)  
+[inthedash](http://pdaphonehome.com/forums/members/inthedash.html) (44)  
+[chris_yumyuk](http://pdaphonehome.com/forums/members/chris_yumyuk.html) (44)  
+[nubian](http://pdaphonehome.com/forums/members/nubian.html) (41)  
+[mnguvo](http://pdaphonehome.com/forums/members/mnguvo.html) (41)  
+[tekbench](http://pdaphonehome.com/forums/members/tekbench.html) (39)  
+[rsaro](http://pdaphonehome.com/forums/members/rsaro.html) (39)  
+[Streaks](http://pdaphonehome.com/forums/members/streaks.html) (38)  
+[amanaf](http://pdaphonehome.com/forums/members/amanaf.html) (36)  
+[dlausted](http://pdaphonehome.com/forums/members/dlausted.html) (32)  
+[hayabusa](http://pdaphonehome.com/forums/members/hayabusa.html) (29)  
+[frontside777](http://pdaphonehome.com/forums/members/frontside777.html) (28)  
+[PrInCiPeSsA32](http://pdaphonehome.com/forums/members/principessa32.html) (28)  
+[RIDDICK_2006](http://pdaphonehome.com/forums/members/riddick_2006.html) (24)  
+[drprince](http://pdaphonehome.com/forums/members/drprince.html) (22)   
+  
+**»[Online Users: 412](http://pdaphonehome.com/forums/online.php)**  
+---  
+1 members and 411 guests  
+[briddot](http://pdaphonehome.com/forums/members/briddot.html)  
 Most users ever online was 2605, 03-10-2008 at 03:24 PM.  
+  
+**»[Search Forums](http://pdaphonehome.com/forums/search.php)**  
+---  
+  
+» [Advanced Search](http://pdaphonehome.com/forums/search.php)  
   
 |  **» Privacy Policy**  
 ---  
@@ -99,4 +211,12 @@ This policy applies to the **pdaPhoneHome** web site and only webpages that cont
 
   
   
-* * *
+* * *  
+  
+  
+  
+  
+All times are GMT -5. The time now is 02:28 AM.
+
+  
+
