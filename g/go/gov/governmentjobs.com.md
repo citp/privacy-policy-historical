@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the governmentjobs.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419124035id_/http%3A//www.governmentjobs.com/display.cfm%3FSubCatID%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the governmentjobs.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430064137id_/https%3A//www.governmentjobs.com/display.cfm%3FSubCatID%3D16) for the most accurate reproduction.*
 
 # GovernmentJobs.com -
 
-GovernmentJobs.com's Privacy Commitment
+GovernmentJobs.com's Privacy Commitment 
 
   * Overview
   * Information About All GovernmentJobs.com Visitors
