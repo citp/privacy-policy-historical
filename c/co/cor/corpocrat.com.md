@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the corpocrat.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430114332id_/http%3A//corpocrat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corpocrat.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501011359id_/http%3A//corpocrat.com/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy » Corpocrat Blog
+# Privacy Policy « Corpocrat Blog
 
 **PRIVACY POLICY**
 
@@ -41,5 +41,3 @@ We also use outside ad companies to display ads on our site. These ads may conta
 We encourage our users to check back our privacy policy frequently as it may change from time to time. 
 
 We encourage our users to check back our privacy policy frequently as it may change from time to time.
-
-**Share and Enjoy:** These icons link to social bookmarking sites where readers can share and discover new web pages.
