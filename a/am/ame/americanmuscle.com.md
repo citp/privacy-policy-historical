@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanmuscle.com privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205101443id_/http%3A//www.americanmuscle.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanmuscle.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430175239id_/http%3A//www.americanmuscle.com/privacypolicy.html) for the most accurate reproduction.*
 
 # at AmericanMuscle.com - Free Shipping!
 
