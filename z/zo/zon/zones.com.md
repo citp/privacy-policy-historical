@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zones.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229185921id_/http%3A//www.zones.com/site/statics/static_page.html%3Fname%3Daboutus_privacy%26zone%3Dzbs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zones.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430145707id_/http%3A//www.zones.com/site/statics/static_page.html%3Fname%3Daboutus_privacy%26zone%3Dzbs) for the most accurate reproduction.*
 
 # About Zones > Corporate Social Responsibility and Governance >Privacy Policy
 
