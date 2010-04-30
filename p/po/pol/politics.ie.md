@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the politics.ie privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225135616id_/http%3A//www.politics.ie/privacy.pie) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politics.ie privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501014345id_/http%3A//www.politics.ie/privacy.pie) for the most accurate reproduction.*
 
 # Politics.ie - The Irish Politics Website - Privacy Policy
 
@@ -115,4 +115,4 @@ We are committed to ensuring that your information is secure. In order to preven
 
 Our most recent comprehensive security audit by an external consultant was completed on **December 21st 2009**.  
   
-All times are GMT. The time now is 01:56 PM.
+All times are GMT +1. The time now is 02:43 AM.
