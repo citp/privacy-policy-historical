@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stockphotopro.com privacy policy that was archived on 2009-03-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090312094903id_/http%3A//www.stockphotopro.com/sppprivacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stockphotopro.com privacy policy that was archived on 2010-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100430172134id_/http%3A//www.stockphotopro.com/sppprivacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
@@ -10,7 +10,7 @@
 <meta name="rating" content="general">
 <meta name="author" content="StockphotoPro">
 <meta name="copyright" content="Copyright © 2001-2008">
-<title>StockphotoPro - Stock Photography - Search 4 Million Stock Photos, Royalty Free Images, and Illustrations</title>
+<title>StockphotoPro - Stock Photography - Search 6 Million Stock Photos, Royalty Free Images, and Illustrations</title>
 <link href="http://www.stockphotopro.com/favicon.ico" rel="SHORTCUT ICON">
 <link rel="stylesheet" type="text/css" media="screen" href="http://www.stockphotopro.com/spp.css">
 <link rel="stylesheet" type="text/css" media="screen" href="http://www.stockphotopro.com/themes/spp/styleNN.css">
@@ -19,7 +19,7 @@
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 <meta http-equiv="Content-Style-Type" content="text/css">
 
-<script type="text/javascript">
+<script type="text/javascript"> 
 <!--
 
 //-->
@@ -106,6 +106,7 @@
 		else	
 			document.getElementById(destId).style.background='#ffffff';
 	}
+    window.onunload=jQuery.get("http://www.stockphotopro.com/user.php",{ op: "auto_logout" });//Mantis 735
 </script>
 
 </head>
@@ -126,7 +127,7 @@
       <tbody><tr>
     <td style="text-align: left;">
 Welcome to StockphotoPro - high quality stock photography         </td>
-         <td class="time">Thursday, March 12, 2009  <a href="?language=en"><img src="/modules/osC/includes/languages/english/images/icon.gif" border="0" alt="English" title=" English " \=""></a>  <a href="?language=de"><img src="/modules/osC/includes/languages/german/images/icon.gif" border="0" alt="Deutsch" title=" Deutsch " \=""></a>  <a href="?language=ja"><img src="/modules/osC/includes/languages/japanese/images/icon.gif" border="0" alt="Japanese" title=" Japanese " \=""></a>  <a href="?language=es"><img src="/modules/osC/includes/languages/espanol/images/icon.gif" border="0" alt="Español" title=" Español " \=""></a>  <a href="?language=fr"><img src="/modules/osC/includes/languages/french/images/icon.gif" border="0" alt="French" title=" French " \=""></a> </td>
+         <td class="time">Friday, April 30, 2010  <a href="?language=en"><img src="/modules/osC/includes/languages/english/images/icon.gif" border="0" alt="English" title=" English " \=""></a>  <a href="?language=de"><img src="/modules/osC/includes/languages/german/images/icon.gif" border="0" alt="Deutsch" title=" Deutsch " \=""></a>  <a href="?language=ja"><img src="/modules/osC/includes/languages/japanese/images/icon.gif" border="0" alt="Japanese" title=" Japanese " \=""></a>  <a href="?language=es"><img src="/modules/osC/includes/languages/espanol/images/icon.gif" border="0" alt="Español" title=" Español " \=""></a>  <a href="?language=fr"><img src="/modules/osC/includes/languages/french/images/icon.gif" border="0" alt="French" title=" French " \=""></a> </td>
         </tr>
       </tbody></table>
 	  <table cellspacing="0" cellpadding="0" width="100%" id="menuHeadNavTable">
@@ -150,9 +151,11 @@ Welcome to StockphotoPro - high quality stock photography         </td>
 						<div class="blockContent">
 
        						<form action="http://www.stockphotopro.com/searchphoto.php" method="GET" name="advsearch">
-							<div class="searchItem"><img src="/images/arrow_right.png" style="margin-right:3px;">Keywords or Image Id<br><input type="text" name="Keyword" id="Keyword" class="fontStyleTxtBox" onfocus="javascript:showHideAdvSrch(true);" onkeydown="javascript: CheckKey(event)" ;"=""></div>
+							<div class="searchItem"><img src="/images/arrow_right.png" style="margin-right:3px;">Keywords or Image/Manufacturer Id<br><input type="text" name="Keyword" id="Keyword" class="fontStyleTxtBox" onfocus="javascript:showHideAdvSrch(true);" onkeydown="javascript: CheckKey(event)" ;"=""></div>
+                            <!--645-->
 							<!-- 0000695: Subscription: Search checkbox to return only subscription images -->
-					        	<div class="searchItem"><div class="fpd"><input type="checkbox" name="SubscriptionImage" value="On"></div><div class="fpd" style="margin-top:3px;">Subscription Images</div></div>
+							<!-- 0000839: checkbox values is changed from On to 1 -->
+					        <div class="searchItem"><div class="fpd"><input type="checkbox" name="SubscriptionImage" value="1"></div><div class="fpd" style="margin-top:3px;">Subscription Images</div></div>
 					        
 							<div class="searchItem" id="advanceSearchBubbleDiv"></div>
 							<div class="searchItem">
@@ -171,9 +174,11 @@ Welcome to StockphotoPro - high quality stock photography         </td>
 							<div class="searchItem">Orientation<br>
 								<div>
 									<select name="Orientation" class="fontStyleTxtBox" style="background: none;">
-							            <option value="0">H or V</option>
+							            <option value="0">Horizontal &amp; Vertical</option>
 							            <option value="H">Horizontal</option>
 							            <option value="V">Vertical</option>
+                                        <option value="P">Panoramic</option>
+                                        <option value="S">Square</option>
 						        	</select>
 						        </div>
 						    </div>
@@ -249,7 +254,7 @@ Welcome to StockphotoPro - high quality stock photography         </td>
 							  			</tbody></table><br></div>
 								  </div><!-- End Color Picker Div //-->
 							  </div><!-- End Color search by color div //-->
-							  <div class="searchItem"><div class="fpd"><input type="checkbox" name="ModelReleased" value="NotNull"></div><div class="fpd" style="margin-top:3px;">Model Released</div></div>
+							  <div class="searchItem"><div class="fpd"><input type="checkbox" name="ModelReleased" value="NotNull" style="background: rgb(204, 255, 153);"></div><div class="fpd" style="margin-top:3px;">Model Released</div></div>
 							  <div class="searchItem"><div class="fpd"><input type="checkbox" name="PropertyReleased" value="NotNull"></div><div class="fpd" style="margin-top:3px;">Property Released</div></div>
 							<div class="searchItem">File Types &amp; Sizes<br>
 									<div>
@@ -299,8 +304,8 @@ Welcome to StockphotoPro - high quality stock photography         </td>
                         <div class="block">
                  <div class="blockTitle">Login</div>
                  <div class="blockContent"><form style="margin: 5px;" action="http://www.stockphotopro.com/user.php" method="post">
-    Username: <br>
-    <input type="text" name="uname" size="20" value="" maxlength="25"><br>
+    Username/Email: <br>
+    <input type="text" name="uname" size="20" value="" maxlength="100"><br>
     Password: <br>
     <input type="password" name="pass" size="20" maxlength="32"><br>
     <!-- <input type="checkbox" name="rememberme" value="On" class ="formButton" /><br /> //-->
@@ -332,7 +337,7 @@ Welcome to StockphotoPro - high quality stock photography         </td>
 				<!-- BEGIN ProvideSupport.com Graphics Chat Button Code -->
 					<div id="cihFiP" style="z-index:100;position:absolute"></div>
 					<div id="schFiP" style="display:inline"></div>
-					<div id="sdhFiP" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/stockphotopro/safe-standard.js?ps_h=hFiP&amp;ps_t=1582136271293"></script></div>
+					<div id="sdhFiP" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/stockphotopro/safe-standard.js?ps_h=hFiP&amp;ps_t=1582136274281"></script></div>
 					<script type="text/javascript">var sehFiP=document.createElement("script");sehFiP.type="text/javascript";var sehFiPs=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/stockphotopro/safe-standard.js?ps_h=hFiP\u0026ps_t="+new Date().getTime()+"";
 					setTimeout("sehFiP.src=sehFiPs;document.getElementById('sdhFiP').appendChild(sehFiP)",1)</script>
 					<noscript>
@@ -365,7 +370,7 @@ if(document.forms.advsearch)
 		document.forms.advsearch.Photographer.style.background='#ccff99';
 	if(document.forms.advsearch.Imageid.value!='')
 		document.forms.advsearch.Imageid.style.background='#ccff99';
-	if(document.forms.advsearch.Orientation.value=='H' || document.forms.advsearch.Orientation.value=='V')
+	if(document.forms.advsearch.Orientation.value=='H' || document.forms.advsearch.Orientation.value=='V' || document.forms.advsearch.Orientation.value=='S' || document.forms.advsearch.Orientation.value=='P')//Mantis: 674 Panoramic images
 		document.forms.advsearch.Orientation.style.background='#ccff99';
 	else
 		document.forms.advsearch.Orientation.style.background='none';	
@@ -376,6 +381,10 @@ if(document.forms.advsearch)
 		document.forms.advsearch.ModelReleased.style.borderColor='#ccff99';
 	if(document.forms.advsearch.PropertyReleased.value!='')
 		document.forms.advsearch.PropertyReleased.style.borderColor='#ccff99';*/
+    if(document.forms.advsearch.ModelReleased.value!='0')
+		document.forms.advsearch.ModelReleased.style.background='#ccff99';
+	else
+		document.forms.advsearch.ModelReleased.style.background='none';
 	if(document.forms.advsearch.ImageSize.value!=0)
 		document.forms.advsearch.ImageSize.style.background='#ccff99';
 	else
@@ -400,8 +409,8 @@ if(document.forms.advsearch)
 		<h1>Privacy Policy</h1>
        for <b>STOCKPHOTOPRO, INC.</b>.<br>
 <p>Our postal address is <br>
-<b>PO Box 25053<br>
-San Mateo, CA 94402</b></p>
+<b>2011Polk Ave<br>
+San Mateo, CA 94403</b></p>
 We can be reached via e-mail at <a href="mailto:privacy@stockphotopro.com">privacy@stockphotopro.com</a><br>
 <p>For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).</p>
 <p>We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, payment information (e.g., credit card number and billing address).</p>
@@ -438,19 +447,17 @@ Consumers can have this information corrected by sending us e-mail at the above 
     </tbody></table>
 	<div id="copyright">
 		<span id="designBy">
-				<a class="leftlink" href="spplegal.php">© copyright 2008 StockphotoPro All rights reserved.</a>
-				| <a class="leftlink" href="spplegal.php">Legal notices</a>
-				| <a class="leftlink" href="sppprivacy.php">Privacy Policy</a>
-				| <a class="leftlink" href="sppaboutus.php">About Us</a>
+				<a class="leftlink" href="/spplegal.php">ï¿½ copyright 2009 StockphotoPro All rights reserved.</a>
+				| <a class="leftlink" href="/spplegal.php">Legal notices</a>
+				| <a class="leftlink" href="/sppprivacy.php">Privacy Policy</a>
+				| <a class="leftlink" href="/sppaboutus.php">About Us</a>
 				<a href="/rs/rs.php"><img src="/images/clear.png"></a>
 		</span>
 	</div>
 	</td>
   </tr>
 </tbody></table>
-
-
-
+<div>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -460,4 +467,8 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-1145496-1");
 pageTracker._initData();
 pageTracker._trackPageview();
-</script> </body></html>
+
+</script> 
+</div>
+
+</body></html>
