@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bond.edu.au privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220043908id_/http%3A//bond.edu.au/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bond.edu.au privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430182150id_/http%3A//www.bond.edu.au/privacy/index.htm) for the most accurate reproduction.*
 
 # Bond University | Privacy | Gold Coast
 
@@ -54,8 +54,8 @@ Generally, BU only uses and/or discloses personal information about you for the 
   * in the case of an emergency involving you, your nominated next of kin;
   * your agent and/or your next of kin for the purpose of processing an application you may have made; and
   * the Commonwealth Government Department of Education, Science and Training; and
-  * the Department of Immigration & Multicultural & Indigenous Affairs
-Security 
+  * the Department of Immigration & Multicultural & Indigenous Affairs Security
+
 
 
 BU stores your personal information in different ways, including in paper and in electronic form. The security of your personal information is important to BU. BU takes all reasonable measures to ensure that your personal information is stored safely to protect it from misuse, loss, unauthorised access, modification or disclosure, including electronic and physical security measures.
@@ -92,15 +92,15 @@ This privacy policy may be updated by BU from time to time.
 
 If you have any queries or concerns about BU’s privacy policy or the way in which BU handles your personal information, please contact BU’s privacy officer at:
 
-**Street address:** University Drive , Robina, QLD, 4226
+ **Street address:** University Drive , Robina, QLD, 4226
 
-**Postal address:** Bond University , Gold Coast, QLD, 4229
+ **Postal address:** Bond University , Gold Coast, QLD, 4229
 
-**Email address:** [privacy@bond.edu.au](mailto:privacy@bond.edu.au)
+ **Email address:** [privacy@bond.edu.au](mailto:privacy@bond.edu.au?subject=Privacy%20Feedback)
 
-**Telephone:** 07 5595 4103
+ **Telephone:** 07 5595 1683
 
-**Facsimile:** 07 5595 1748
+ **Facsimile:** 07 5595 1748
 
 ### More information
 
