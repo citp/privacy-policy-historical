@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obd-codes.com privacy policy that was archived on 2009-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090804121231id_/http%3A//www.obd-codes.com/misc/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obd-codes.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430031246id_/http%3A//www.obd-codes.com/misc/privacy-policy.php) for the most accurate reproduction.*
 
 # OBD-Codes.com Privacy Policy
 
@@ -15,7 +15,7 @@ NOTE: By using this site, you agree to the terms of the OBD-Codes.com privacy po
 
 
 Here is the information we have right now regarding your visit:  
-**IP Address:** 67.202.59.141  
+**IP Address:** 174.129.228.67  
 **Remote Hostname:**   
 **Referring Page:**
 
@@ -47,7 +47,7 @@ We aren't responsible for information that may be gathered by ad networks, affil
   * Google, as a third party vendor, uses cookies to serve ads on your site.
   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
-  * If you have questions or complaints regarding our privacy policy or use of your information, please [contact us using this form](https://web.archive.org/support/) or by mail at:  
+  * If you have questions or complaints regarding our privacy policy or use of your information, please [contact us using this form](https://web.archive.org/contactus.php) or by mail at:  
 OBD-Codes.com  
 P.O. Box 2032  
 Moose Jaw, SK S6H 7N7  
@@ -57,12 +57,11 @@ Canada
     * [AllDataDIY privacy policy](http://www.alldata.com/privacy/index.html)
     * [CARFAX privacy policy](http://www.carfax.com/cfm/ofprivacy.cfm)
     * [Amazon.com privacy policy](http://www.amazon.com/gp/help/customer/display.html/104-4319992-5218343?ie=UTF8&nodeId=468496)
-    * [FordDirect.com privacy policy](http://www87.forddirect.fordvehicles.com/Dispatch.jsp?.CurrentState=Privacy)
 
 
 
 Privacy Policy last updated March 25,2009.
 
 [Tell-a-friend](https://web.archive.org/tell-a-friend.php) \- [About Us](https://web.archive.org/about.php) \- [Contact Us](https://web.archive.org/contactus.php) \- [Links](https://web.archive.org/links.php)   
-Note: All information on this site is copyright © 2004-2009 OBD-Codes.com  
-The information contained on this site is presented as information only. We are not responsible for any actions you take on your vehicle. If you have any doubt as to repairs on your vehicle, please contact a qualified technician. If we used information from another source in creating an article, we have given credit where credit is due.
+Note: All information on this site is copyright © 2004-2010 OBD-Codes.com  
+The information contained on this site is presented as information only. We are not responsible for any actions you take on your vehicle. If you have any doubt as to repairs on your vehicle, please contact a qualified technician.
