@@ -1,14 +1,32 @@
-> *The following text is extracted and transformed from the limos.com privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403233534id_/http%3A//www.limos.com/customers/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limos.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430182454id_/http%3A//www.limos.com/customers/privacy_policy) for the most accurate reproduction.*
 
-# Limos.com
+# 
+
+[My Account](https://web.archive.org/my-account)
+
+  * Help from Limos.com
+  * **Online:** [Search Customer Support](https://web.archive.org/customers/faqs) to find answers to your questions.
+
+**Call** Customer Support at 1-866-546-6726 (866-LimosCom) 
+
+**Outside US/Canada**  
+1-404-614-7297  
+(tolls apply)
+
+**Email** us at  
+[customerservice@limos.com](mailto:customerservice@limos.com)  
+(Please allow 24 hours for response. For urgent questions, please call.)
+
+
+
 
 Limos.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Limos.com, you are accepting the practices described in this Privacy Policy.** For clarity, the policies below apply to visitors to the following Limos.com, LLC Web sites: Limos.com, Limousinesonline.com and Limoforsale.com (“Customers”). _Note: If you are a limousine company enrolled in the Limos.com service (an “LC”), the terms governing your use of the site and confidentiality are provided in your Terms of Service agreement with Limos.com._
+
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.limos.com&sealid=101)
 
 ###  TRUSTe 
 
 Limos.com is a proud licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. To demonstrate our commitment to your privacy, TRUSTe has reviewed and approved our privacy practices, granting the TRUSTe Web Privacy Seal for our Web sites. 
-
-[](http://www.truste.org/ivalidate.php?url=www.limos.com&sealid=101)
 
 ###  What Personal Information Does Limos.com Gather About Customers? 
 
@@ -70,21 +88,3 @@ Information about our Customers is an important part of our business. We share c
   * Our business changes constantly, and our Privacy Policy and our Terms of Service will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently where we will post any changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected Customers. 
 
 
-
-####  Customer Service 
-
-customerservice@limos.com 
-
-866-LimosCom (7a-7p CST) 
-
-866-546-6726 
-
-480-592-0880 (outside US/CN) 
-
-####  Limousine Service Providers 
-
-operatorsupport@limos.com 
-
-800-660-7686 (7a-7p CST) 
-
-480-592-0880 (outside US/CN) 
