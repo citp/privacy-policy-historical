@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desktopwallpaper-s.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111140056id_/http%3A//www.desktopwallpaper-s.com/privacy_policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktopwallpaper-s.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501003849id_/http%3A//desktopwallpaper-s.com/privacy_policies.php) for the most accurate reproduction.*
 
 # Privacy Policy for the Website
 
