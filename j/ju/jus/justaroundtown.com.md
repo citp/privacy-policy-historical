@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justaroundtown.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602193054id_/http%3A//www.justaroundtown.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justaroundtown.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430202756id_/http%3A//www.justaroundtown.com/privacy.php) for the most accurate reproduction.*
 
 # JustAoundTown.com Privacy Policy
 
