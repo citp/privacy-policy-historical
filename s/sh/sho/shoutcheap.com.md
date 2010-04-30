@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoutcheap.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103084655id_/http%3A//shoutcheap.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutcheap.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430200401id_/http%3A//www.shoutcheap.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Shoutcheap.com - Privacy Statement
 
