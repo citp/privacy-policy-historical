@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elementk.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231020305id_/http%3A//www.elementk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elementk.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501164631id_/http%3A//www.elementk.com/privacy-policy) for the most accurate reproduction.*
 
 # Element K - Privacy Policy
 
