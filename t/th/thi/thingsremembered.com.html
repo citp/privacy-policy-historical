@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thingsremembered.com privacy policy that was archived on 2009-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091226014257id_/http%3A//www.thingsremembered.com/webapp/wcs/stores/servlet/ContentPageView%3FstoreId%3D10001%26catalogId%3D9951%26linkContent%3DPRIVACY%2520POLICY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thingsremembered.com privacy policy that was archived on 2010-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100501180855id_/http%3A//www.thingsremembered.com/webapp/wcs/stores/servlet/ContentPageView%3FstoreId%3D10001%26catalogId%3D9951%26loc%3D1%26linkContent%3DPRIVACY%2520POLICY) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -55,10 +55,15 @@ dojo.require("dojo.event.*");
 <div id="containerPad">
 <script language="javascript">
 function searchCheck( argA, argB, argC, argD ) {
-if(argD == 0)
-argA.action = 'http://search.thingsremembered.com';
-else
+if(argD == 0){
+//argA.action = '/webapp/wcs/stores/servlet/SearchResultsView';
+argA.action = 'http://search.thingsremembered.com/'; 
+}
+else{
 argA.action = 'http://search.thingsremembered.com/AdvancedSearch.aspx';
+//argA.advanced.value = "advanced";
+//argA.action = '/webapp/wcs/stores/servlet/SearchResultsView'; 
+}	
 document.CatalogSearchForm.submit();
 }
 </script>
@@ -320,7 +325,7 @@ document.write('	Your Home Store has not yet been defined. To select a new store
 }
 </script>
 <p class="customerService">	
-<a href="ContactUsForm?langId=-1&amp;storeId=10001&amp;catalogId=9951&amp;productId=999619349&amp;catalogLevel=Product&amp;parentDepartmentId=3001&amp;parentCategoryId=&amp;parentListingId="><b>Customer Service</b></a>
+<a href="ContactUsForm?langId=-1&amp;storeId=10001&amp;catalogId=9951&amp;productId=599786&amp;catalogLevel=&amp;parentDepartmentId=&amp;parentCategoryId=&amp;parentListingId="><b>Customer Service</b></a>
 866.902.4438
 </p>
 </div>
@@ -332,6 +337,7 @@ document.write('	Your Home Store has not yet been defined. To select a new store
 <input type="hidden" name="storeId" value="10001">
 <input type="hidden" name="catalogId" value="9951">
 <input type="hidden" name="langId" value="-1">
+<input type="hidden" name="advanced" value="">
 <input type="hidden" name="linkContent" value="Catalog Search Results">	
 <input type="hidden" name="pageSize" value="10">
 <input type="hidden" name="beginIndex" value="0">
@@ -487,15 +493,15 @@ tab#Child = subcategory.description.name -->
 <li class="mainNav1"> 
 <a class="fixedHeight" href="Category_10001_9951_2997_2997_-1_3001"></a>
 <ul class="subNav2">
+<li><a href="Category_10001_9951_3736_3736_-1_3001">Groomsmen</a>
+</li>
+<li><a href="Category_10001_9951_3706_3706_-1_3001">Groom</a>
+</li>
 <li><a href="Category_10001_9951_3010_3010_-1_3001">Dad</a>
 </li>
 <li><a href="Category_10001_9951_4097_4097_-1_3001">Husband</a>
 </li>
 <li><a href="Listing_10001_9951_4615_4615_-1_3000_2997">Friend</a>
-</li>
-<li><a href="Category_10001_9951_3706_3706_-1_3001">Groom</a>
-</li>
-<li><a href="Category_10001_9951_3736_3736_-1_3001">Groomsmen</a>
 </li>
 <li><a href="Listing_10001_9951_4421_4421_-1_3000_2997">Grandpa</a>
 </li>
@@ -520,13 +526,13 @@ tab#Child = subcategory.description.name -->
 <ul class="subNav2">
 <li><a href="Category_10001_9951_3615_3615_-1_3001">Mom</a>
 </li>
-<li><a href="Listing_10001_9951_4416_4416_-1_3000_2998">Sister</a>
-</li>
-<li><a href="Listing_10001_9951_4419_4419_-1_3000_2998">Friend</a>
+<li><a href="Category_10001_9951_3722_3722_-1_3001">Bridesmaids</a>
 </li>
 <li><a href="Category_10001_9951_4866_4866_-1_3001">Bride</a>
 </li>
-<li><a href="Category_10001_9951_3722_3722_-1_3001">Bridesmaids</a>
+<li><a href="Listing_10001_9951_4416_4416_-1_3000_2998">Sister</a>
+</li>
+<li><a href="Listing_10001_9951_4419_4419_-1_3000_2998">Friend</a>
 </li>
 <li><a href="Listing_10001_9951_4445_4445_-1_3000_2998">Business Associate</a>
 </li>
@@ -552,9 +558,9 @@ tab#Child = subcategory.description.name -->
 <![endif]-->
 <a class="fixedHeight" href="Category_10001_9951_2999_2999_-1_3001"></a>
 <ul class="subNav2">
-<li><a href="Category_10001_9951_3010_3010_-1_3001">Dad</a>
-</li>
 <li><a href="Category_10001_9951_3615_3615_-1_3001">Mom</a>
+</li>
+<li><a href="Category_10001_9951_3010_3010_-1_3001">Dad</a>
 </li>
 <li><a href="Listing_10001_9951_4465_4465_-1_3000_2999">Parents &amp; Grandparents</a>
 </li>
@@ -581,16 +587,15 @@ tab#Child = subcategory.description.name -->
 <![endif]-->
 <a class="fixedHeight" href="Department_10001_9951_3002_3002_-1"></a>
 <ul class="subNav">
-<li><a href="Category_10001_9951_3851_3851_-1_3002">Christmas</a></li>
-<li><a href="Category_10001_9951_4712_4712_-1_3002">Holiday</a></li>
-<li><a href="Category_10001_9951_3008_3008_-1_3002">Wedding</a></li>
-<li><a href="Category_10001_9951_2996_2996_-1_3002">Birthday</a></li>
-<li><a href="Listing_10001_9951_4481_4481_-1_3000_3002">Performance Recognition</a></li>
-<li><a href="Listing_10001_9951_4454_4454_-1_3000_3002">New Baby/Baby Shower</a></li>
-<li><a href="Category_10001_9951_3121_3121_-1_3002">Anniversary</a></li>
-<li><a href="Category_10001_9951_3137_3137_-1_3002">Inspirational/Religious</a></li>
-<li><a href="Category_10001_9951_3166_3166_-1_3002">Life Milestones</a></li>
+<li><a href="Category_10001_9951_3786_3786_-1_3002">Mother's Day</a></li>
 <li><a href="Category_10001_9951_4068_4068_-1_3002">Graduation</a></li>
+<li><a href="Category_10001_9951_3008_3008_-1_3002">Wedding</a></li>
+<li><a href="Category_10001_9951_3121_3121_-1_3002">Anniversary</a></li>
+<li><a href="Category_10001_9951_5013_5013_-1_3002">His Birthday</a></li>
+<li><a href="Category_10001_9951_5010_5010_-1_3002">Her Birthday</a></li>
+<li><a href="Listing_10001_9951_4454_4454_-1_3000_3002">New Baby/Baby Shower</a></li>
+<li><a href="Listing_10001_9951_4481_4481_-1_3000_3002">Performance Recognition</a></li>
+<li><a href="Category_10001_9951_3137_3137_-1_3002">Inspirational/Religious</a></li>
 <li><a href="Listing_10001_9951_4450_4450_-1_3000_3002">Retirement</a></li>
 </ul>
 <!--[if lte IE 6.5]>
@@ -603,10 +608,11 @@ tab#Child = subcategory.description.name -->
 <![endif]-->
 <a class="fixedHeight" href="Department_10001_9951_3001_3001_-1"></a>
 <ul class="subNav">
-<li><a href="Category_10001_9951_2997_2997_-1_3001">Him</a></li>
+<li><a href="Category_10001_9951_3615_3615_-1_3001">Mom</a></li>
 <li><a href="Category_10001_9951_2998_2998_-1_3001">Her</a></li>
-<li><a href="Category_10001_9951_3736_3736_-1_3001">Groomsmen</a></li>
+<li><a href="Category_10001_9951_2997_2997_-1_3001">Him</a></li>
 <li><a href="Category_10001_9951_3722_3722_-1_3001">Bridesmaids</a></li>
+<li><a href="Category_10001_9951_3736_3736_-1_3001">Groomsmen</a></li>
 <li><a href="Category_10001_9951_3044_3044_-1_3001">The Couple</a></li>
 <li><a href="Category_10001_9951_3297_3297_-1_3001">Babies &amp; Children</a></li>
 <li><a href="Category_10001_9951_3318_3318_-1_3001">Business Associate</a></li>
@@ -621,33 +627,27 @@ tab#Child = subcategory.description.name -->
 <li class="mainNav6"> 
 <a class="fixedHeight" href="Department_10001_9951_3008_3008_-1"></a>
 <ul class="subNav2">
-<li><a href="Category_10001_9951_4866_4866_-1_3343">Bride</a></li>
-<li><a href="Category_10001_9951_3706_3706_-1_3343">Groom</a></li>
-<li><a href="Category_10001_9951_3044_3044_-1_3343">The Couple</a></li>
-<li><a href="Category_10001_9951_3722_3722_-1_3343">Bridesmaids</a></li>
-<li><a href="Category_10001_9951_3736_3736_-1_3343">Groomsmen</a></li>
 <li><a href="Listing_10001_9951_1022_1022_-1_3008_3344">Flutes &amp; Server Sets</a></li>
-<li><a href="Listing_10001_9951_4586_4586_-1_3008_3344">Wedding</a></li>
-<li><a href="Listing_10001_9951_1486_1486_-1_3008_3344">Wedding Keepsakes</a></li>
-<li><a href="Category_10001_9951_3047_3047_-1_3344">Drinkware</a></li>
-<li><a href="Listing_10001_9951_662_662_-1_3008_3344">Wedding Clocks</a></li>
-<li><a href="Category_10001_9951_3048_3048_-1_3344">Jewelry, Accessories &amp; Watches</a></li>
+<li><a href="Category_10001_9951_5004_5004_-1_3344">Wedding Collections</a></li>
+<li><a href="Listing_10001_9951_1493_1493_-1_3008_3344">Wedding Day Accessories</a></li>
+<li><a href="Category_10001_9951_3722_3722_-1_3344">Bridesmaids</a></li>
+<li><a href="Category_10001_9951_3736_3736_-1_3344">Groomsmen</a></li>
+<li><a href="Listing_10001_9951_4586_4586_-1_3008_3344">Wedding Frames</a></li>
+<li><a href="Listing_10001_9951_4471_4471_-1_3008_3344">Wedding Gifts</a></li>
 <li><a href="Listing_10001_9951_2059_2059_-1_3008_3344">Wedding Throws</a></li>
-<li><a href="Category_10001_9951_3074_3074_-1_3344">Writing Instruments</a></li>
-<li><a href="Listing_10001_9951_1493_1493_-1_3008_3346">Wedding Ceremony</a></li>
-<li><a href="Listing_10001_9951_4458_4458_-1_3008_3346">Engagement</a></li>
-<li><a href="Listing_10001_9951_4468_4468_-1_3008_3346">Reception Gifts</a></li>
+<li><a href="Listing_10001_9951_4466_4466_-1_3008_3344">Flower Girl &amp; Ring Bearer</a></li>
+<li><a href="Listing_10001_9951_4431_4431_-1_3008_3344">Wedding Anniversary</a></li>
 </ul> 
 </li>
 <li class="mainNav7"> 
 <a class="fixedHeight" href="Department_10001_9951_3004_3004_-1"></a>
 <ul class="subNav2">
-<li><a href="Listing_10001_9951_429_429_-1_3004_3370">Desk Sets</a></li>
 <li><a href="Listing_10001_9951_4898_4898_-1_3004_3370">Executive Gifts</a></li>
-<li><a href="Listing_10001_9951_4725_4725_-1_3004_3370">Paperweights &amp; Bookmarks</a></li>
-<li><a href="Listing_10001_9951_4451_4451_-1_3004_3370">Awards &amp; Plaques</a></li>
-<li><a href="Listing_10001_9951_435_435_-1_3004_3370">Recognition Clocks</a></li>
+<li><a href="Listing_10001_9951_429_429_-1_3004_3370">Desk Sets</a></li>
 <li><a href="Listing_10001_9951_2506_2506_-1_3004_3370">All Writing Instruments</a></li>
+<li><a href="Listing_10001_9951_4451_4451_-1_3004_3370">Awards &amp; Plaques</a></li>
+<li><a href="Listing_10001_9951_4725_4725_-1_3004_3370">Paperweights &amp; Bookmarks</a></li>
+<li><a href="Listing_10001_9951_435_435_-1_3004_3370">Recognition Clocks</a></li>
 <li><a href="Listing_10001_9951_969_969_-1_3004_3370">Portfolios &amp; Journals</a></li>
 <li><a href="Listing_10001_9951_4874_4874_-1_3004_3370">Stationery Cards</a></li>
 <li><a href="Listing_10001_9951_4569_4569_-1_3004_3370">Engraving and Name Plates</a></li>
@@ -658,25 +658,21 @@ tab#Child = subcategory.description.name -->
 <li class="mainNav8"> 
 <a class="fixedHeight" href="Department_10001_9951_3005_3005_-1"></a>
 <ul class="subNav">
-<li><a href="Category_10001_9951_3444_3444_-1_3005___IWTS">Happy Holidays</a></li>
 <li><a href="Category_10001_9951_3404_3404_-1_3005___IWTS">Wedding Thoughts</a></li>
+<li><a href="Category_10001_9951_3436_3436_-1_3005___IWTS">Thank You</a></li>
 <li><a href="Category_10001_9951_3435_3435_-1_3005___IWTS">Happy Anniversary</a></li>
 <li><a href="Category_10001_9951_3390_3390_-1_3005___IWTS">I Love You</a></li>
 <li><a href="Category_10001_9951_3428_3428_-1_3005___IWTS">Congratulations</a></li>
 <li><a href="Category_10001_9951_3396_3396_-1_3005___IWTS">Happy Birthday</a></li>
-<li><a href="Category_10001_9951_4827_4827_-1_3005___IWTS">Congratulations Graduate</a></li>
+<li><a href="Category_10001_9951_3434_3434_-1_3005___IWTS">Welcome New Baby</a></li>
 <li><a href="Category_10001_9951_3443_3443_-1_3005___IWTS">Job Well Done</a></li>
 <li><a href="Category_10001_9951_3423_3423_-1_3005___IWTS">Good Luck</a></li>
-<li><a href="Category_10001_9951_3456_3456_-1_3005___IWTS">Happy Housewarming</a></li>
-<li><a href="Category_10001_9951_3436_3436_-1_3005___IWTS">Thank You</a></li>
 <li><a href="Category_10001_9951_3411_3411_-1_3005___IWTS">Just Because</a></li>
 <li><a href="Category_10001_9951_3417_3417_-1_3005___IWTS">Thinking of You</a></li>
-<li><a href="Category_10001_9951_3434_3434_-1_3005___IWTS">Welcome New Baby</a></li>
 <li><a href="Category_10001_9951_3442_3442_-1_3005___IWTS">Happy Retirement</a></li>
 <li><a href="Category_10001_9951_3452_3452_-1_3005___IWTS">Missing You</a></li>
 <li><a href="Category_10001_9951_3453_3453_-1_3005___IWTS">In Memory Of</a></li>
 <li><a href="Category_10001_9951_3454_3454_-1_3005___IWTS">You're My Friend</a></li>
-<li><a href="Category_10001_9951_3455_3455_-1_3005___IWTS">My Sympathies</a></li>
 </ul>
 </li>
 <li class="mainNav9"> 
@@ -685,17 +681,17 @@ tab#Child = subcategory.description.name -->
 <![endif]-->
 <a class="fixedHeight" href="Department_10001_9951_3006_3006_-1"></a>
 <ul class="subNav2">
-<li><a href="Category_10001_9951_4703_4703_-1_3457">Ladies' Jewelry</a></li>
+<li><a href="Category_10001_9951_4703_4703_-1_3457">Women's Jewelry</a></li>
 <li><a href="Category_10001_9951_4731_4731_-1_3457">Men's Jewelry &amp; Accessories</a></li>
 <li><a href="Category_10001_9951_4928_4928_-1_3457">Women's Gifts &amp; Accessories</a></li>
 <li><a href="Category_10001_9951_3865_3865_-1_3457">Frames &amp; Albums</a></li>
 <li><a href="Category_10001_9951_4706_4706_-1_3457">Water Globes</a></li>
 <li><a href="Category_10001_9951_3047_3047_-1_3457">Drinkware</a></li>
-<li><a href="Category_10001_9951_3004_3004_-1_3457">Business</a></li>
 <li><a href="Category_10001_9951_3900_3900_-1_3457">Home &amp; Throws</a></li>
 <li><a href="Category_10001_9951_3912_3912_-1_3457">Sports &amp; Military</a></li>
 <li><a href="Category_10001_9951_3297_3297_-1_3457">Babies &amp; Children</a></li>
-<li><a href="Category_10001_9951_3851_3851_-1_3457">Christmas</a></li>
+<li><a href="Category_10001_9951_2995_2995_-1_3457">New Arrivals</a></li>
+<li><a href="Category_10001_9951_3786_3786_-1_3457">Mother's Day</a></li>
 </ul> 
 <!--[if lte IE 6.5]>
 </span>
@@ -712,10 +708,10 @@ tab#Child = subcategory.description.name -->
 <div id="SUBNAVTR">
 <!-- These links are WCM -->
 <ul>
-<li class="liFirst"><a href="/webapp/wcs/stores/servlet/ContentPageView?storeId=10001&amp;catalogId=9951&amp;linkContent=HolidayOffers&amp;loc=1&amp;iint=promotions_txt&amp;position=global1" title="2009 Holiday Deals at Things Remembered" class="blueArrowLink"><b>Holiday Deals</b></a></li>	
-<li><a href="/webapp/wcs/stores/servlet/Listing_10001_9951_4823_4823_?int=kbpromo_txt&amp;position=global2" title="Free Keepsake Box with Select Ladies Jewelry at Things Remembered" class="blueArrowLink"><b>Ladies Keepsake Box Offer</b></a></li>	
-<li><a href="/webapp/wcs/stores/servlet/Listing_10001_9951_4892_4892_?int=kbpromo_txt&amp;position=global3" title="Free Keepsake Box with Select Men's Jewelry at Things Remembered" class="blueArrowLink"><b>Men's Keepsake Box Offer</b></a></li>	
-<li><a href="/webapp/wcs/stores/servlet/ContentPageView?storeId=10001&amp;catalogId=9951&amp;linkContent=FREESHIPPING&amp;loc=1&amp;int=freeshipping_txt&amp;position=global4" title="Guaranteed Christmas Deliver with Next Day Air Shippin Only at Things Remembered" class="redArrowLink"><b>Christmas Delivery</b></a></li> 
+<li class="liFirst"><a href="/webapp/wcs/stores/servlet/ContentPageView?storeId=10001&amp;catalogId=9951&amp;linkContent=HolidayOffers&amp;loc=1&amp;int=deals_txt&amp;position=global1" title="Special Offers, Deals, Promotions and Contests at Things Remembered" class="redArrowLink"><b>Special Offers</b></a></li>	
+<li><a href="/webapp/wcs/stores/servlet/ContentPageView?storeId=10001&amp;catalogId=9951&amp;linkContent=KeepsakeBox&amp;loc=1&amp;int=kbpromo_txt&amp;position=global2" title="Free Keepsake Boxes with Select Mens and Ladies Jewelry at Things Remembered" class="blueArrowLink"><b>Free Keepsake Boxes</b></a></li>	
+<li><a href="/webapp/wcs/stores/servlet/Category_10001_9951_3786_3786_?int=mothersday_txt&amp;position=global3" title="Mother's Day is Sunday, May 9th, Shop Now!" class="blueArrowLink"><b>Mother's Day is Sunday, May 9th</b></a></li>	
+<li><a href="/webapp/wcs/stores/servlet/ContentPageView?storeId=10001&amp;catalogId=9951&amp;linkContent=FREESHIPPING&amp;loc=1&amp;int=freeshipping_txt&amp;position=global4" title="Limited Time Offer! Free Standard Shipping on all Orders of $100 or more at Things Remembered" class="blueArrowLink"><b>Free Shipping</b></a></li> 
 </ul>
 <!-- SUB NAVIGATION :: END -->
 </div>
@@ -852,7 +848,7 @@ document.write('<a href="LogonForm?storeId=10001&catalogId=9951&langId=-1">Order
 <!--****** test if logged in user is signed up for email alerts, if so replace this area with an espot or WCM ******--> 
 <div class="emailService" id="emailHeader">
 <h2><label id="emailHeader1" for="emailSignUp">Email Signup</label></h2>
-<p><!--fmt:message key="FOOTER_EMAIL_SIGNUP_TEXT" bundle="javax.servlet.jsp.jstl.fmt.LocalizationContext@1bf50386" /-->Get $5 off your next purchase! 
+<p><!--fmt:message key="FOOTER_EMAIL_SIGNUP_TEXT" bundle="javax.servlet.jsp.jstl.fmt.LocalizationContext@6d7ae446" /-->Get $5 off your next purchase! 
 Simply sign up now for our exclusive gift offers.
 </p>
 <form name="emailSignupForm" method="post" action="CatalogRequestCmd" id="emailSignupForm">
@@ -1017,7 +1013,7 @@ document.write('	<p class="liLast">Hello ' + dn + ', your Home Store has not yet
 <div class="floatRight">
 <ul>
 <li class="liLast">
-© Things Remembered 2009. All Rights Reserved.
+© Things Remembered 2010. All Rights Reserved.
 </li>
 </ul>
 </div>
@@ -1052,7 +1048,7 @@ function timeOutCIclk()
 {
 document.getElementById("cidiv").innerHTML = "";
 }
-</script><div id="cidiv"></div><div id="cidiv"></div>
+</script><div id="cidiv"><script src="https://cts-secure.channelintelligence.com/15580542_landing.js"></script></div><div id="cidiv"></div>
 <!-- CONTAINER :: END -->
 <div id="overlay"></div>
 <div id="lightbox">
