@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquidationchannel.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231005500id_/http%3A//www.liquidationchannel.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidationchannel.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501155418id_/http%3A//www.liquidationchannel.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Liquidation Channel - More Products. Lower Prices. Home Shopping simplified
 
