@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the sisd.net privacy policy that was archived on 2009-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091030064225id_/http%3A//www.sisd.net/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D50%26Itemid%3D190) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sisd.net privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501223836id_/http%3A//www.sisd.net/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D50%26Itemid%3D190) for the most accurate reproduction.*
 
 # Socorro Independent School District
+
+[](http://www.sisd.net/)
+
+Saturday May 1, 2010 
+
+[](http://www.sisd.net/)
+
+[Home](http://www.sisd.net/index.php) Privacy & Security 
 
 This policy describes the sisd.net privacy practices regarding information collected from visitors to the site. It contains information about what data is collected and how that information is used. The sisd.net privacy policy applies only to this Web site. When you follow a link to another site, even the sites of state agencies and local governments, this policy will not apply. You should check the privacy policy of each of these sites if you have concerns about how they handle personally identifiable information. This policy may be updated periodically, so please check back from time to time.
 
@@ -12,12 +20,14 @@ The sisd.net Web site utilizes server logs and log analysis tools to create summ
 
 For online government transactions conducted on the sisd.net Web site, you will be asked to enter certain information about yourself and/or the organization with which you are affiliated. The specifics of this information will vary as required by the type of transaction involved. In each case, the information requested will include the same information that would be requested if you performed the identical transaction in person rather than online. Whenever personal information is requested from you on this site, there will be an indication of whether your disclosure of such information is mandatory or optional. Information collected in the course of the transaction is used for the following purposes:
 
-* To conduct online transactions with the appropriate entities.
-* To send you a reply to an enquiry.
-* To send you an e-mail confirming your transaction.
-* To forward new product announcements or content features to you, only if you have chosen to request this service.
+  * To conduct online transactions with the appropriate entities. 
+  * To send you a reply to an enquiry. 
+  * To send you an e-mail confirming your transaction. 
+  * To forward new product announcements or content features to you, only if you have chosen to request this service. 
 
-Sisd.net may be required by law enforcement or judicial authorities to provide personally identifiable information to the appropriate governmental authorities. Sisd.net fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
+
+
+sisd.net may be required by law enforcement or judicial authorities to provide personally identifiable information to the appropriate governmental authorities. sisd.net fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
 
  ** _Minor's Privacy Policy_**
 
@@ -32,7 +42,7 @@ Any information collected by any SISD website from children 13 and under is subj
 
 
 
-Additional information can be obtained at the [FTC's Consumer Response Center](http://www.ftc.gov/privacy/index.html) and the [Kidz Privacy](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html) websites.
+Additional information can be obtained at the [FTC's Consumer Response Center](http://www.ftc.gov/privacy/index.html) website.
 
  ** _Security_**
 
@@ -45,3 +55,7 @@ Some of the pages and online government transactions hosted by and linked from t
  ** _Contact Information_**
 
 If at any time you are concerned about your privacy or security while visiting the SISD website, please contact [webadmin@sisd.net.](mailto:webadmin@sisd.net.)
+
+12440 Rojas Drive, El Paso, TX 79928 - (915) 937.0000
+
+Socorro Independent School District does not discriminate on the basis of race, color, national origin, sex, disability, or age in its programs, activities or employment.
