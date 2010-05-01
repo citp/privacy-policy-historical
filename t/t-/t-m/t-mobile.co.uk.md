@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the t-mobile.co.uk privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230220838id_/http%3A//www.t-mobile.co.uk/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-mobile.co.uk privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501135713id_/http%3A//www.t-mobile.co.uk/services/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - T-Mobile
 
-We share information with other members of the Deutsche Telekom group (our parent company) and other companies with which we have a business relationship. If we have to send your details to countries without proper data protection laws, we remain responsible for keeping this information secure. 
+We share information with members of the Deutsche Telekom group and the France Telecom group (our parent companies) and other companies with which we have a business relationship. If we have to send your details to countries without proper data protection laws, we remain responsible for keeping this information secure. 
 
 We do not pass information about your telephone contract to companies who contact you to offer to renew it or upgrade it.
 
