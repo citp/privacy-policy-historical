@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the admixweb.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230030851id_/http%3A//www.admixweb.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admixweb.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501140231id_/http%3A//www.admixweb.com/policies) for the most accurate reproduction.*
 
 # Privacy Policy | Admix Web
 
-##  Privacy Policy 
-
-This is the web site of **Admix Web**.  
-**  
-Santo Domingo, Dominican Republic.**
-
-We can be reached via e-mail at **tfeliz[at]admixweb[dot]com**  
-or you can reach us by telephone at 809-448-4596
+### [Privacy Policy](http://www.admixweb.com/policies/)
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
