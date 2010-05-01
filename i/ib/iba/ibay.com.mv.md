@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the ibay.com.mv privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221063002id_/http%3A//www.ibay.com.mv/pages.php%3Fpage%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibay.com.mv privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501162118id_/http%3A//www.ibay.com.mv/page/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
-[](http://www.badhige.com/)  
+  
+  
 
 
 [](http://www.maldivestoolbar.com/)  
 
+
+  
+**Recently Viewed**
 
 [](http://www.ibay.com.mv/external.php?type=new&limit=15) [](http://www.facebook.com/pages/ibaycommv-Maldives-Online-Market/65109554649?v=info&viewas=668980880) [ ](http://twitter.com/ibaymaldives)
 
