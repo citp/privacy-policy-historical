@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sklz.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219202433id_/http%3A//sklz.com/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sklz.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502010109id_/http%3A//sklz.com/sklz-info/privacy) for the most accurate reproduction.*
 
-# SKLZ »Practice »Play »Win
+# »Practice »Play »Win
 
-Pro Performance will always respect the privacy of our customers. We want to give the best customer service possible. The only information we collect is the information given when an order is placed. At no time will we sell or share that information with any other company. The information obtained from registration on-line is used to save you time in the future and /or receive occasional e-mails. 
+Pro Performance will always respect the privacy of our customers. We want to give the best customer service possible. The only information we collect is the information given when an order is placed. At no time will we sell or share that information with any other company. The information obtained from registration on-line is used to save you time in the future and /or receive occasional e-mails.
 
 What information do we collect?
 
@@ -10,7 +10,8 @@ We collect various types of information depending upon how you use our site. 
 
   * When you order from us, we collect your name, billing address, shipping address, phone number. We also gather information on the person who will receive any gift you send (e.g. that person's name address and phone number) and we will retain a record of your purchases.
   * When you become a sklzstore.com registered user, we collect your name, mailing address, email address, phone number, username and password. This information is gathered to make your shopping experience as a registered user as quick and easy as possible. At any time you may log-in and update any of this information.
-  * We do not store your credit card information on file.    
+  * We do not store your credit card information on file. 
+
 
 
 **SECURITY OF YOUR PERSONAL INFORMATION**  
