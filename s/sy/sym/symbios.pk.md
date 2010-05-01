@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symbios.pk privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223222024id_/http%3A//www.symbios.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symbios.pk privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501045902id_/http%3A//symbios.pk/privacy.php) for the most accurate reproduction.*
 
 # Symbios
 
