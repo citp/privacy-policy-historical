@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backbase.com privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128091140id_/http%3A//www.backbase.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backbase.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501173313id_/http%3A//www.backbase.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Backbase - Privacy
 
