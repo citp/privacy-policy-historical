@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditreport.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205170027id_/http%3A//www.creditreport.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditreport.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501071841id_/http%3A//www.creditreport.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Check your Credit Report Online at Creditreport.com!
 
