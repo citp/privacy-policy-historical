@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the landbigfish.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231101150id_/http%3A//www.landbigfish.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landbigfish.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501142035id_/http%3A//www.landbigfish.com/privacy.cfm) for the most accurate reproduction.*
 
-# Land Big Fish Privacy Policy
+# LandBigFish - Security & Privacy
 
-  
+Security & Privacy
+
   
 1\. Privacy Statement. LandBigFish.com, Inc., an Ohio corporation, operates this landbigfish.com web site. Land Big Fish regards the privacy and security of user information as a critical component of the service that we offer to our users. The following information explains our information gathering and dissemination practices. 
 
