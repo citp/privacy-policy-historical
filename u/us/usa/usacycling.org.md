@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the usacycling.org privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231010450id_/http%3A//www.usacycling.org/news/user/story.php%3Fid%3D3176) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usacycling.org privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501170659id_/http%3A//www.usacycling.org/news/user/story.php%3Fid%3D3176) for the most accurate reproduction.*
 
 # www.usacycling.org -- CHILDREN'S ONLINE PRIVACY PROTECTION ACT
 
-[](http://www.usacycling.org/openx/www/delivery/ck.php?oaparams=2__bannerid=20__zoneid=10__cb=e60a33f130__oadest=http://www.velowear.com/usacdf.aspx)
+[](http://www.velowear.com/usacdf.aspx)
 
 CHILDREN'S ONLINE PRIVACY PROTECTION ACT
 
