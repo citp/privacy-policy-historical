@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the comed.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102132808id_/http%3A//www.comed.com/sites/legal/pages/legalpolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comed.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501025141id_/http%3A//www.comed.com/sites/legal/pages/legalpolicy.aspx) for the most accurate reproduction.*
 
-# ComEd - An Exelon Company - Legal Policies
+# ComEd - An Exelon Company | Privacy Policy
 
 Exelon Corporation and its major affiliates Commonwealth Edison Company and PECO Energy Company (hereinafter referred to collectively as "Exelon Corporation") are strongly committed to protecting the privacy of you, its customers and the users of this web site. In light of this commitment, Exelon Corporation adheres to the practices provided below. 
 
