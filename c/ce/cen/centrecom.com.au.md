@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the centrecom.com.au privacy policy that was archived on 2009-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091017193851id_/http%3A//www.centrecom.com.au/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrecom.com.au privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501194250id_/http%3A//www.centrecom.com.au/catalog/privacy.php) for the most accurate reproduction.*
 
-# Centre Com Online
+# CentreCom - Cheap Notebooks & Computers
 
 Centre Com knows that you care how information about you is used and shared, and we appreciate your trust and want you to feel confident in our services and security as it relates to your personal information. This notice describes our privacy policy. By visiting Centre Com, you are accepting the practices described in this Privacy Notice. 
 
