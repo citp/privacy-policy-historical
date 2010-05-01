@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aminus3.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628165557id_/http%3A//www.aminus3.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aminus3.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501154357id_/http%3A//www.aminus3.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Aminus3 Photoblog Community
 
