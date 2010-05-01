@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wdbj7.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101125552id_/http%3A//www.wdbj7.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdbj7.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502011313id_/http%3A//www.wdbj7.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - WDBJ7 Roanoke News and Weather NRV Lynchburg Danville |
 
