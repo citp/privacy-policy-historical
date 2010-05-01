@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the getthelabel.com privacy policy that was archived on 2009-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090726105850id_/http%3A//www.getthelabel.com/fcp/content/privacy-policy/customerservices) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getthelabel.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501175415id_/http%3A//www.getthelabel.com/fcp/content/privacy-policy/customerservices) for the most accurate reproduction.*
 
 # Get The Label - Customer Services
 
-## Privacy Policy
+  *   
 
-  * 1.
 
-POLICY STATEMENT 
+## 
+
+1.
+
+POLICY STATEMENT
+
     * 1.1
 
 The information we collect and how we use it 
@@ -50,9 +54,15 @@ We may monitor customer traffic patterns, website usage and related information 
       * 1.2.9
 
 We may also use the information we gather to notify you about important functionality changes and alterations to the website, or offers of products, services or information that might be of particular interest to you. By submitting your information and ticking the requisite boxes on any order form or when subscribing to the services available on our website, you expressly consent to such use and transfer, to the extent permitted by applicable law.
-  * 2.
+  *   
 
-Sharing data 
+
+## 
+
+2.
+
+SHARING DATA 
+
     * 2.1
 
 We comply with, and are registered under, the Data Protection laws in the United Kingdom. We take all reasonable care to prevent any unauthorized access to and use of your personal data.
@@ -65,9 +75,15 @@ From time to time we may need to transfer your data outside the European Economi
     * 2.4
 
 In case any fraudulent activity is detected on the website, or, without limitation, in connection with the breach of intellectual property rights through the use of the website, we may release personal information in order to comply with any applicable law or regulation, or assert our rights as well as those of our business partners.
-  * 3.
+  *   
 
-Surveys, newsletters and competitions 
+
+## 
+
+3.
+
+SURVEYS NEWSLETTERS & COMPETITIONS
+
     * 3.1
 
 We always aim to improve the services we offer. As a result we occasionally canvass our customers using surveys or inform you of upcoming promotions or other relevant information, by means of newsletters, emails or SMS (text message) provided that you have given prior and express consent.
@@ -77,45 +93,79 @@ Your participation on our website may mean that we occasionally contact you with
     * 3.3
 
 If you do not wish to receive any mailings or invitations to enter competitions, email unsubscribe@getthelabel.com with your email address, name and address details.
-  * 4.
+  *   
 
-"Email a friend" 
+
+## 
+
+4.
+
+"EMAIL A FRIEND"
+
     * 4.1
 
 We may from time to time operate an "Email a friend" service. This is a referral service, designed to make it easy for customers to recommend our website and related websites or offers to a friend, and is a two-step process. First, a customer sends us the friend’s name and email address, and secondly, we contact the friend, telling them who we are, and inviting them to take advantage of a particular offer, or to visit our website. When we contact your friend, we always advise them of the name and email address of the friend who made the original referral. We will not use your friend’s details for any other purpose.
     * 4.2
 
 If you use this facility to email a friend and provide us with his/her name and e-mail address, we reasonably assume (and you warrant) that you have obtained your friend’s prior consent in order for us to process his/her data. You supply any such information freely and voluntarily, and at your sole liability and responsibility.
-  * 5.
+  *   
 
-Variations 
+
+## 
+
+5.
+
+VARIATIONS 
+
     * If any of the information you provide on the form you complete when ordering a product from the website or subscribing to the services changes, please email us at customerservices@getthelabel.com
-  * 6.
+  *   
 
-Sale of business 
+
+## 
+
+6.
+
+SALE OF BUSINESS
+
     * In the event that this business is sold or integrated with another business your details may be disclosed to our advisers and any prospective purchaser and their advisers and will be passed on to the new owners of the business.
-  * 7.
+  *   
 
-Your consent 
+
+## 
+
+7.
+
+YOUR CONSENT
+
     * By submitting your information you consent to the use of that information as set out in this Policy. If we change our Privacy Policy we will post the changes on this page, and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times. Continued use of the service will signify that you agree to any such changes.
-  * 8.
+  *   
 
-Contact Us 
+
+## 
+
+8.
+
+CONTACT US 
+
     * **By Email**
 
-For order queries email: customerservices@getthelabel.com
+For all queries please email: customerservices@getthelabel.com
 
-For service queries email: customerservices@getthelabel.com
+We try to respond to all emails within 2 working days.
 
-We will endeavour to acknowledge your email within 48 hours.
-
- **By Phone**
+**By Phone**
 
 Customer Services: 0844 880 6201
 
-Monday to Friday, 10.00am until 16.00pm
+**Opening Hours**
 
- **By Mail**
+**Monday – Thursday**    | 9.00am – 7.00pm  
+---|---  
+**Friday** | 9.00am – 5.30pm  
+**Saturday** | 9.00am – 3.00pm  
+**Sunday** | Closed  
+  
+**By Mail**
 
 Customer Services
 
