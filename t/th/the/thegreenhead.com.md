@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thegreenhead.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531084950id_/http%3A//www.thegreenhead.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreenhead.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501174634id_/http%3A//www.thegreenhead.com/privacy) for the most accurate reproduction.*
 
-# The Green Head - Contact Us
+# The Green Head - Privacy Policy
+
+## Privacy Policy
 
 This document was last updated **April 15, 2007**.   
 This Privacy Policy discloses the general privacy practices for **The Green Head - www.thegreenhead.com**.
@@ -15,7 +17,7 @@ No information should be submitted to The Green Head by children under 18 years 
 
 ### AFFILIATE MARKETING
 
-The Green Head is a marketing program affiliate with several brand name online retailers (such as Amazon, eBay, etc.), this is done either directly with the retailer or via a third-party provider of affiliate marketing programs. Neither the third-party providers, nor the retailers, share personally identifiable information with The Green Head. The information provided is generic in nature; type of product sold and date of sale for example. The information provided is not sold, shared, nor rented to any third party, and is used internally only.
+The Green Head is affiliated with several brand name online retailers (such as Amazon.com, etc.), this is done either directly with the retailer or via a third-party provider of affiliate marketing programs. Neither the third-party providers, nor the retailers, share personally identifiable information with The Green Head. The information provided is generic in nature; type of product sold and date of sale for example. The information provided is not sold, shared, nor rented to any third party, and is used internally only.
 
 ### INFORMATION & COOKIES
 
