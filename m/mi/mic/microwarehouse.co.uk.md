@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microwarehouse.co.uk privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401002735id_/http%3A//www.microwarehouse.co.uk/cms/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microwarehouse.co.uk privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501151659id_/http%3A//www.microwarehouse.co.uk/cms/help/privacy.html) for the most accurate reproduction.*
 
 # Microwarehouse
 
