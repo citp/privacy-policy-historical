@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagequest.co.uk privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626015159id_/http%3A//www.pagequest.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagequest.co.uk privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501174724id_/http%3A//www.pagequest.co.uk/privacy.php) for the most accurate reproduction.*
 
 # pagequest.co.uk - Internet Marketing articles, Article internet Marketing,Free Article, Free article Directory, UK Article Directory, Article Marketing,search engine optimization seo, SEO tactics, Search Engine Optimization, Internet Marketing Article, Article Submission
 
@@ -66,16 +66,16 @@ This statement and the policies outlined herein are not intended to and do not c
 
 | 
 
-[](http://banners.moreniche.com/go.php?id=4295&w=150432&s=38)
+[](http://www.fulltiltpoker.com/?key=MDAwMTIyMzIwMDAyRjI3NTIwQzE0MDUxMDAwMDAwMDA-)  
+[**Play Online Poker**](http://www.fulltiltpoker.com/?key=MDAwMTIyMzIwMDAyRjI3NTIwQzE0MDUxMDAwMDAwMDA- "Play Online Poker")
 
-[Instant Article Wizard](http://tinyurl.com/5cuvpy)  
-Create Top-quality Articles On Any Subject In 15 Minutes Or Less (even If You Dont Know Anything About The Topic)! 
+[ ](http://affiliate.a4dtracker.com/rd/r.php?sid=758&pub=452494&bid=2939&c1=&c2=&c3=)
 
-[Article Submitter](http://tinyurl.com/6g6k3l)  
-Quickly publish your articles to hundreds of websites! 
+[](http://bit.ly/cd5YLD)
 
 [Article Directory Software](http://www.articledashboard.com/download.htm)  
 Click here to download the exact software that powers this directory for FREE. Start your own article directory today!  
 
 
-[](http://www.ppcwebspy.com/downloads/?xc95a3)
+[Electric Guitars For Sale](http://www.electricguitars4u.com/)  
+[Gothic Clothing](http://www.gothictattoosclothing.com/)
