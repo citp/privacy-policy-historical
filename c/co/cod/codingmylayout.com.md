@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codingmylayout.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229233648id_/http%3A//www.codingmylayout.com/content.php%3Fmyspace%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codingmylayout.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501025830id_/http%3A//codingmylayout.com/content.php%3Fmyspace%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Myspace Layouts, Myspace Codes, Myspace Graphics, Myspace Tutorials, Myspace Generators, Myspace Backgrounds, Myspace Editor, Myspace HTML
 
