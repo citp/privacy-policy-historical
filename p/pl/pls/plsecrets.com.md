@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plsecrets.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611150248id_/http%3A//www.plsecrets.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plsecrets.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501151122id_/http%3A//www.plsecrets.com/w3c/policy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
