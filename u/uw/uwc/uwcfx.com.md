@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uwcfx.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106142109id_/http%3A//www.uwcfx.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwcfx.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501142110id_/http%3A//www.uwcfx.com/privacy-policy.html) for the most accurate reproduction.*
 
-# UWC — United World Capital | Privacy Policy
+# 
 
 **United World Capital, Ltd. respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former clients as well as our current clients. We kindly ask that you read the following information.**
 
