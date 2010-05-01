@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safaribooksonline.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231153853id_/http%3A//www.safaribooksonline.com/Corporate/Index/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safaribooksonline.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501232734id_/http%3A//www.safaribooksonline.com/Corporate/Index/privacyPolicy.php) for the most accurate reproduction.*
 
 # Safari Books Online - Privacy Policy
 
@@ -165,5 +165,3 @@ For the previous version see [ Safari Online Privacy Policy, [Version 1.0] ](htt
 this is Version 2.0.
 
 | 
-
-Table of Contents
