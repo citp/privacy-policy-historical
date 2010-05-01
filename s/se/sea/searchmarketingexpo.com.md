@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchmarketingexpo.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626015207id_/http%3A//searchmarketingexpo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchmarketingexpo.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501033604id_/http%3A//searchmarketingexpo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for SMX
 
@@ -36,7 +36,7 @@ A web beacon does not personally identify you. It is simply a way to automatical
 
 Cookies and web beacons allows us to understand things such as whether a particular web browser is spending much time on our sites, visiting several times per month and other types of analysis.
 
-If you never provide us with personally identifiable information, then your visits - despite us using cookies or web beacons - are anonymous. We don’t know the actual person linked with the cookie. 
+If you never provide us with personally identifiable information, then your visits – despite us using cookies or web beacons – are anonymous. We don’t know the actual person linked with the cookie. 
 
 It’s like having a library card but never having to provide your name, address or phone number to check out books. The books are checked out by someone using a particular library card number, but who owns that number isn’t known.
 
@@ -67,6 +67,7 @@ Your personally identifiable information will only be shared with other companie
 
   * We have asked for and you have given your consent to share the information with advertisers, exhibitors and sponsors for a specific service.
   * We need to provide it to other companies in order to deliver the services you want from us, such as having an email list sent out or to process your event order. In these cases, the information is used only for the specific service you wanted from us.
+  * You allow your badge to be scanned at Search Marketing Expo conference.
 
 
 
