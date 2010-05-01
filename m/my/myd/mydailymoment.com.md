@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mydailymoment.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210032300id_/http%3A//www.mydailymoment.com/about_us/about_us/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydailymoment.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501055348id_/http%3A//www.mydailymoment.com/about_us/about_us/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | About Us | About US
+# MyDailyMoment | Privacy Policy
 
 Last Revised: April 1, 2008 
 
-**An Overview** MyDailyMoment.com ("MDM") provides information and services relating to a variety of lifestyle topics including, but not limited to, diet and fitness, food and recipes, entertainment and self-assessment tests. The website is currently located at [http://www.mydailymoment.com](http://www.mydailymoment.com/) and e-mail newsletters are also offered (collectively known as the "Site" or "MDM"). MDM is strongly committed to protecting the privacy of your personal information, and providing a safe and secure environment for our users.
+**An Overview** MyDailyMoment.com ("MDM") provides information and services relating to a variety of lifestyle topics including, but not limited to, diet and fitness, food and recipes, entertainment and self-assessment tests. The website is currently located at [http://www.mydailymoment.com](http://www.mydailymoment.com/undefined/) and e-mail newsletters are also offered (collectively known as the "Site" or "MDM"). MDM is strongly committed to protecting the privacy of your personal information, and providing a safe and secure environment for our users.
 
 **The purpose of this MDM privacy policy (the "Policy") is to help you understand what kinds of information we may gather about you when you visit the Site, how we may use that information, whether we will disclose it, and how you can correct the information. Please note that by using the Site, you signify your agreement with this Policy. If you do not agree to the terms of this Policy, please do not use the Site. Your continued use of the Site after any changes to the Policy will mean that you have accepted the changes; therefore please bookmark this page and review it frequently. If we decide to change the Policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it.**
 
-Please note that the Policy applies only to the Site, and not to other websites to which we link, or to advertisers on the Site. Your use of the Site is governed by MDM's [Terms of Service](http://www.mydailymoment.com/index.php?option=com_content&task=view&id=336&Itemid=230) and by other published rules pertaining to particular products and services offered throughout the Site.
+Please note that the Policy applies only to the Site, and not to other websites to which we link, or to advertisers on the Site. Your use of the Site is governed by MDM's [Terms of Service](http://www.mydailymoment.com/about_us/about_us/terms_of_service.php) and by other published rules pertaining to particular products and services offered throughout the Site.
 
 * * *
 
@@ -28,7 +28,7 @@ Please note that the Policy applies only to the Site, and not to other websites 
 
 * * *
 
-**E-Mail Newsletters** If you would like to subscribe to one or more of MDM's newsletters, please visit our [subscribe page](http://www.mydailymoment.com/index.php?option=com_wrapper&Itemid=178). If you would like to unsubscribe to any of our newsletters or choose not to receive special offers from MDM, please refer to the instructions in the newsletters or special offer e-mails that you are receiving from us. Alternatively, you can send us mail at: MDM c/o Flatiron Media, 156 Fifth Avenue, Suite 1123, New York, NY 10010.
+**E-Mail Newsletters** If you would like to subscribe to one or more of MDM's newsletters, please visit our [subscribe page](http://www.mydailymoment.com/about_us/about_us/subscribe.php). If you would like to unsubscribe to any of our newsletters or choose not to receive special offers from MDM, please refer to the instructions in the newsletters or special offer e-mails that you are receiving from us. Alternatively, you can send us mail at: MDM c/o Flatiron Media, 156 Fifth Avenue, Suite 1123, New York, NY 10010.
 
 **User Reviews** We provide a service that allows users to add their own reviews or comments to our content. Please note that the reviews or any other information you provide that is placed on the Site will be available for any user to read, and is therefore no longer private. MDM owns the rights to this content and reserves the right to publish such reviews in other media formats, in its sole discretion.
 
@@ -42,7 +42,7 @@ Please note that the Policy applies only to the Site, and not to other websites 
 
 
 
-To manage how MDM can communicate with you, please visit [http://www.mydailymoment.com](http://www.mydailymoment.com/index.php?option=com_wrapper&Itemid=178).
+To manage how MDM can communicate with you, please visit [http://www.mydailymoment.com](http://www.mydailymoment.com/undefined/).
 
 * * *
 
