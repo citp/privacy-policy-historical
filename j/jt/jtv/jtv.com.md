@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jtv.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221094902id_/http%3A//www.jtv.com/help/jewelry-television-privacy-policy.htm/help-privacypolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jtv.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501170132id_/http%3A//www.jtv.com/help/jewelry-television-privacy-policy.htm/help-privacypolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Jewelry Television Privacy Policy
 
@@ -42,7 +42,7 @@ Jewelry Television® (“JTV” or “we” or “us”) respects the privacy of
     * **Registration, Newsletters and Opt-Out.** When you register on our website, you will be asked if you would like to receive information on our products, services and promotions and information about similar products and services offered by third parties we have selected. You can indicate your interest by checking the box indicated in the subscription services center. You may opt out of receiving these promotional emails by deleting the check mark next to the option to receive promotional emails found in the subscription center. You can also sign up for our newsletter on our website by inserting your email address into a box marked for that purpose. You may unsubscribe from our email services whenever you like by using the opt out link on our email correspondence. You can also contact Customer Service and tell them that you want to opt-out from our email list at CustomerCare@jtv.com or (800) 550-8393.
     * **Service-Related Emails.** We reserve the right to send you service-related announcements on rare occasions when it is necessary to do so. For example, if our service is temporarily suspended for maintenance, we might send you an email. Generally you can’t opt out of these communications unless you deactivate your account.
     * **Transaction-specific Emails.** If you provide your email address when placing an order, either online or via our call center, you will receive transaction-based emails including but not limited to order confirmation and shipment confirmation.
-  * 12\. **Contact Information.** If you have any questions regarding our Privacy Policy, you can email us at jtvprivacy@jtv.com. If you prefer, you can write to:
+  * 12\. **Contact Information.** If you have any questions regarding our Privacy Policy, you can email us at [jtvprivacy@jtv.com](mailto:%20jtvprivacy@jtv.com). If you prefer, you can write to:
 
 
   * JTV® Privacy
