@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thelimited.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221080056id_/http%3A//www.thelimited.com/customer-service/security/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelimited.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501175840id_/http%3A//www.thelimited.com/customer-service/security/privacy) for the most accurate reproduction.*
 
 # Security & Privacy: The Limited
 
-As you may have noted, as of September 2008 our site is a full e-commerce site, so many of the revisions that you see in this privacy policy are the result of this change to our site. 
+Welcome! This Privacy Policy is intended to explain what types of information we collect about you, and how we use and share that information.
 
 This Privacy Policy applies only to the information collected online by TheLimited.com.
 
@@ -12,9 +12,10 @@ WHAT TYPE OF INFORMATION DOES THELIMITED.COM COLLECT ONLINE?
 **1\. General Browsing:**   
 TheLimited.com gathers navigational information about where visitors go on our Web site and information about the technical efficiencies of our Web site and services (i.e., time to connect to our Web site, time to download pages, etc.). This information allows us to see which areas of our Web site are most visited and helps us better understand our visitors' experiences at TheLimited.com. With the navigational information, we can improve the quality of our Web site by recognizing and delivering more of the features, areas and services our visitors prefer. In the process of gathering navigational information, non-personally identifiable information (for example, domain type, browser version, service provider and IP address) may be collected which will provide information regarding a visitor's use of our Web site. 
 
-  
 **2\. Collection of Personal Information:**   
-TheLimited.com may ask you to provide personal information when you establish or update an Account on this site, sign up to receive e-mails or texts from The Limited or other marketing materials, make a purchase, create or update your My Favorites list, send items to a friend, view your order history, participate in contests, surveys or contact us. 
+TheLimited.com may ask you to provide personal information when you establish or update an Account on this site, sign up to receive e-mails or texts from The Limited or other marketing materials, make a purchase, create or update your My Favorites list, send items to a friend, view your order history, participate in contests and surveys, submit a career profile or contact us. 
+
+Categories of personal information collected online include name, billing and shipping address information, e-mail address, telephone number, mobile number, credit card information, resume information and any other information you choose to provide us. 
 
 HOW DOES THELIMITED.COM USE AND SHARE THE INFORMATION COLLECTED ONLINE?
 
@@ -44,9 +45,11 @@ We may make names and addresses collected online available to other companies. I
 
 The information you provide when you make a purchase at TheLimited.com (for example, name, address, credit card) will be added to a database and may be used to provide names and addresses to other companies. If you would prefer that we not share your name and mailing address with other companies (other than third parties who provide services to thelimited.com) please call us at 1-877-LTD-1963. 
 
+If you provide us your e-mail address after March 12, 2010, (including updating your e-mail information), provided you have not opted out of receiving marketing e-mails from us, your e-mail address may also be shared with other companies, so that those businesses may send you information about their products.
+
 When you send an e-mail from TheLimited.com to a friend, we will send your selected recipient your e-mail address, message, and your selected outfit or item(s). We may include an opportunity for the recipient to sign up to receive promotional materials from TheLimited.com.
 
-World Financial Network National Bank (WFNNB) issues and owns The Limited credit card accounts. If you apply online for a Limited credit card with WFNNB and, once opened, you elect to pay your account online, you will be providing your personal information directly to WFNNB and the information you provide to WFNNB would be subject to WFNNB's privacy policies.  We also use a third party when you purchase our gift certificates online (giftcertificates.com).  If you purchase one of our gift certificates online, you will be providing your personal information directly to giftcertificates.com and that information would be subject to the giftcertificates.com privacy policy.
+World Financial Network National Bank (WFNNB) issues and owns The Limited credit card accounts. If you apply online for a Limited credit card with WFNNB and, once opened, you elect to pay your account online, you will be providing your personal information directly to WFNNB and the information you provide to WFNNB would be subject to WFNNB's privacy policies.
 
 There is a possibility that The Limited could merge with, acquire, or be acquired by another business entity.  If such an action occurs, some or all of the personal information collected about you would be shared with this entity, as well as retained by The Limited.
 
@@ -62,7 +65,9 @@ TheLimited.com uses a browser feature known as a cookie. A cookie is a small dat
 
 We may use cookies and a technology known as clear gifs which are typically stored in e-mails to help us confirm your receipt of, and response to, our e-mails and to provide you a more personalized experience.
 
-We may elect to use third party advertising companies and allow them to collect non-personally identifiable information by placing cookies when you choose to visit and when you visit TheLimited.com. These companies may use information (not including your name, address, e-mail address, or telephone number) about your choice to visit and your visits to our site and other Web sites to provide advertisements about The Limited's products and services on this and other Web sites. These companies may also provide information to us which we would use to gauge the effectiveness of the advertisements they place about our products and services and for marketing purposes.  ****
+We may elect to use third party advertising companies and allow them to collect non-personally identifiable information by placing cookies when you choose to visit and when you visit TheLimited.com. These companies may use information (not including your name, address, e-mail address, or telephone number) about your choice to visit and your visits to our site and other Web sites to provide advertisements about The Limited's products and services on this and other Web sites. These companies may also provide information to us which we would use to gauge the effectiveness of the advertisements they place about our products and services and for marketing purposes.
+
+Advertisements displayed to you on our websites and elsewhere on the Web may be customized to your interests and preferences, based on information learned about you as you use our websites and the Web in general. If you do not want to participate in this, please visit <http://www.networkadvertising.org/managing/opt_out.asp> to opt-out.
 
 We will use a program that will place cookies on your computer to collect information on our behalf. The information that will be collected through these cookies will educate us on such things as search engine referral, IP address, how you navigate around our site, traffic driven by banner ads, responses to e-mail, unique visitor identification, and product browsing. We will use this information and analysis to assist us in better understanding the interests of visitors to our Web site and to better serve those interests, including providing e-mails aimed at interests you expressed on our site.  Through the use of privacy settings on your browser it is possible (depending on the browser version) to block cookies. 
 
@@ -93,8 +98,9 @@ QUESTIONS OR CONCERNS
 If you have additional questions or would like more information on this topic, please feel free to contact us at:
 
 Limited Stores Client Relations  
-3 Limited Parkway  
-Columbus, OH 43230  
+7775 Walton Parkway  
+4th Floor  
+New Albany, OH 43054  
 [ privacypolicy@thelimited.com](mailto:privacypolicy@thelimited.com)
 
-This privacy policy is effective September 14, 2008.
+This privacy policy is effective March 12, 2010.
