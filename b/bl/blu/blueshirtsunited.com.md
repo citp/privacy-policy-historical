@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueshirtsunited.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224180342id_/http%3A//rangers.nhl.com/club/page.htm%3Fbcid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueshirtsunited.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501080022id_/http%3A//rangers.nhl.com/club/page.htm%3Fbcid%3Dprivacy) for the most accurate reproduction.*
 
 # NEW YORK RANGERS PRIVACY POLICY - New York Rangers - Team
 
