@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tws3d.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101221831id_/http%3A//www.tws3d.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tws3d.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502010143id_/http%3A//www.tws3d.com/privacypolicy.html) for the most accurate reproduction.*
 
-# TWS3D Wallpapers - Free wallpapers
+# 3D Wallpapers - Free wallpapers
 
 Privacy Policy - www.tws3d.com
 
