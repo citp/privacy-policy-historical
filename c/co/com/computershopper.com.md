@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the computershopper.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230074459id_/http%3A//computershopper.com/more/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computershopper.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501155540id_/http%3A//computershopper.com/more/privacy-policy) for the most accurate reproduction.*
 
 # Find reviews, top products, technology deals and more at ComputerShopper.com
 
-| 
+|  | 
 
 **SX2 MEDIA LABS PRIVACY STATEMENT**  
 This is the official privacy statement that applies to a proprietary network of Web sites owned and controlled by SX2 Media Labs LLC ("SX2", "we," "us", or "our"). We take your privacy seriously and are committed to keeping our users' information secure. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. This privacy statement applies to the Web site that you were viewing when you clicked through to this privacy statement, which is operated by or on behalf of us, or our affiliate.   
