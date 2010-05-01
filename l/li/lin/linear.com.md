@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linear.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225182544id_/http%3A//www.linear.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linear.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501155434id_/http%3A//www.linear.com/privacy.jsp) for the most accurate reproduction.*
 
 # Linear Technology - Privacy Policy
 
