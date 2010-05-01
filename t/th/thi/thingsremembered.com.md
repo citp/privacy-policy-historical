@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thingsremembered.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226014257id_/http%3A//www.thingsremembered.com/webapp/wcs/stores/servlet/ContentPageView%3FstoreId%3D10001%26catalogId%3D9951%26linkContent%3DPRIVACY%2520POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thingsremembered.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501180855id_/http%3A//www.thingsremembered.com/webapp/wcs/stores/servlet/ContentPageView%3FstoreId%3D10001%26catalogId%3D9951%26loc%3D1%26linkContent%3DPRIVACY%2520POLICY) for the most accurate reproduction.*
 
 # Things Remembered Privacy Policy
 
