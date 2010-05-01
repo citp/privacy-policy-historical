@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the mapiles.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228090502id_/http%3A//mapiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapiles.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501122746id_/http%3A//mapiles.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mapiles.com
+# Privacy Policy | Buy and Sell Philippines: Mapiles.com - Free Classified Ads
 
-We respect your privacy and we are committed to safeguarding your privacy while online at my site http://mapiles.com. The following discloses the information gathering and dissemination practices for this Web site.
+## Privacy Policy
+
+We respect your privacy and we are committed to safeguarding your privacy while online at our site http://mapiles.com. The following discloses the information gathering and dissemination practices for this Web site.
 
 Log Files  
 Like most standard Web site servers, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
@@ -22,4 +24,9 @@ We use outside ad companies to display ads on my site. These ads may contain coo
 Again, the advertisers may use cookies to serve ads to you based on your visit to our site and other sites on the internet. If you want to opt out of our third-party advertiser (google adsense) use of cookies, please visit the google ad and content network privacy policy.
 
 Contact Information  
-If users have any questions or suggestions regarding my privacy policy, please contact us by email at support[@]news2buzz[dot][com].
+If users have any questions or suggestions regarding my privacy policy, please contact us by email at support[@]mapiles[dot][com].
+
+  
+**Help us Spread the Love About Mapiles.com Free Ads**|  If you have a blog, website, friendster, myspace or other web 2.0 pages, help us spread the word by linking to us. You can copy the code below to display our banner and let the world know about **Mapiles.com free ads.**  
+---  
+[](http://mapiles.com/ "Buy and Sell Philippines: Mapiles.com")| 
