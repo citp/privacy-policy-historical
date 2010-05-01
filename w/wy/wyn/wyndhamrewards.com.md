@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wyndhamrewards.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231085340id_/http%3A//www.wyndhamrewards.com/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndhamrewards.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501135003id_/http%3A//www.wyndhamrewards.com/services/privacy) for the most accurate reproduction.*
 
 # Wyndham Rewards
 
 | 
 
-Work hard. Relax harder. 
+Relax, our best rates are guaranteed!
 
-Redeem your points for the vacation of a lifetime - in Mexico, Hawaii, Europe, or even Australia!   
+Get the lowest price available when you shop on wyndhamrewards.com.  
   
 ---  
   
