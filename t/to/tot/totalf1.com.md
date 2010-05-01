@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the totalf1.com privacy policy that was archived on 2007-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070220234936id_/http%3A//www.totalf1.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalf1.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501084337id_/http%3A//www.totalf1.com/privacypolicy.php) for the most accurate reproduction.*
 
-# F1, Formula 1:TotalF1.com - Privacy Policy.
+# F1, Formula 1:TotalF1.com - All the F1 news, 24 hours a day, 365 days a year.
 
 Total F1, and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users.
 
