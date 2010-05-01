@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoondollemporium.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609120525id_/http%3A//www.cartoondollemporium.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoondollemporium.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501085210id_/http%3A//www.cartoondollemporium.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Cartoon Doll Emporium Privacy Policy
 
@@ -32,6 +32,8 @@ Users under the age of 13 must be accompanied by a parent during their registrat
 
 At any time, a parent may request that their child’s account and information be deleted. A representative from MyCDE may ask for clarification about the reasons for deletion for our own internal records, but will never refuse to delete an account except if there are grave safety concerns involved (for instance, if a user has been bullying another user, we may choose to retain the account of either party for a short amount of time in order to properly address the situation).
 
+**Third Party Advertising**  
+We use third-party advertising companies to serve advertisements to you on our website. These companies (1) use information obtained from your visits to this website and other sites to serve ads to you and (2) place unique third-party cookies on your computer through your browser. Also, we use Web beacons provided by third-party advertising companies to help optimize our advertising. Web beacons enable us to recognize your browser when a cookie has been placed on your computer. For more information on the privacy policy and data collection of our third party advertisers, please visit their website and privacy policy [here](http://betawave.com/privacy.html). Some but not all third party advertising companies provide a mechanism to opt-out of their technology. For more information and to opt out of advertisers that provide an opt-out mechanism, please click [here](http://www.networkadvertising.org/managing/opt_out.asp).   
 ***
 
 To address privacy concerns, please contact us at [cartoondollemporium@gmail.com](mailto:cartoondollemporium@gmail.com). You may also contact us at 212-695-4074, but we strongly prefer you seek help by e-mail first. We will always be happy to speak with you and help you to feel as comfortable as possible with our efforts to keep our online community exceptionally safe.
