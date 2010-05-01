@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demandbase.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209231905id_/http%3A//www.demandbase.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandbase.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501132519id_/http%3A//www.demandbase.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Demandbase
 
@@ -26,7 +26,7 @@ Demandbase has aligned with recognized leaders in the direct marketing industry 
 
 #### Scope
 
-This privacy policy describes how we handle the personal information that you supply to us or concerning your use of our services available through the [ www.demandbase.com ](https://web.archive.org/web/20091209231905id_/http%3A//www.demandbase.com/index.html) Web site (the "Site") and applies generally to any affiliated Web sites. By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
+This privacy policy describes how we handle the personal information that you supply to us or concerning your use of our services available through the [ www.demandbase.com ](https://web.archive.org/web/20100501132519id_/http%3A//www.demandbase.com/index.html) Web site (the "Site") and applies generally to any affiliated Web sites. By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
 This Privacy Policy is effective on August 1, 2006 for any current users, and upon acceptance for all new users.
 
