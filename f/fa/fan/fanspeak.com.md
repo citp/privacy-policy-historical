@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanspeak.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114200953id_/http%3A//fanspeak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanspeak.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502083606id_/http%3A//fanspeak.com/privacy-policy) for the most accurate reproduction.*
 
 # Fanspeak - Voice Your Passion! — Blog
 
