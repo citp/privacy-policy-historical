@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the myswitzerland.com privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301052653id_/http%3A//myswitzerland.com/en/page-Footer_Content-Privacy-100465.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myswitzerland.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502180031id_/http%3A//www.myswitzerland.com/en/privacy.html) for the most accurate reproduction.*
 
-# Home - Switzerland Tourism
-
-  
-
+# Terms of Use / Exclusion of Liability / Privacy Statement of Switzerland Tourism - Switzerland Tourism
 
 ### Important legal information
 
