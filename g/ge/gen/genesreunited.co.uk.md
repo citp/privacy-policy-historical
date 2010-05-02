@@ -1,81 +1,80 @@
-> *The following text is extracted and transformed from the genesreunited.co.uk privacy policy that was archived on 2005-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050421153726id_/http%3A//www.genesreunited.co.uk/genesreunited.ASP%3FWCI%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genesreunited.co.uk privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502214431id_/http%3A//www.genesreunited.co.uk/static/privacy.aspx) for the most accurate reproduction.*
 
-# Family Tree • Genealogy • Ancestor • Ancestry • Family History
+# Genes Reunited – Family History Records and Family Trees
 
-This is a legal document which sets out how Genes Reunited handles data which identifies you. You should read it in conjunction with the [ Genes Reunited Terms and Conditions](https://web.archive.org/web/20050421153726id_/http%3A//www.genesreunited.co.uk/genesreunited.asp?wci=terms), of which this Privacy Policy forms part. 
+You are probably most interested in how we will use your email address to communicate with you, so here's our email promise, in plain English:
 
-At Genes Reunited, we believe strongly in protecting the privacy of our users’ personal information. This statement describes the privacy practices we apply for the Genes Reunited Service. As part of that, it also expresses our approach to complying with the data protection laws which apply in the United Kingdom. If we change this Privacy Policy, we will notify you of the changed document in the same way as we notify changes to the [ Genes Reunited Terms and Conditions](https://web.archive.org/web/20050421153726id_/http%3A//www.genesreunited.co.uk/genesreunited.asp?wci=terms).
+**Service Emails**. The team at Genes Reunited hate spam and will never ever send you unsolicited emails. But there are some emails that we will need to send you to provide you with a good Genes Reunited service. These include notifications that you have a message from another member, reminders about your membership expiring and guides on how to use the site. A full list of the types of emails you will receive to help you use the service most effectively (which we call Service Emails) are shown below:
 
-If you have questions or concerns regarding this statement, you should contact Genes Reunited's [ customer service department](https://web.archive.org/web/20050421153726id_/http%3A//www.genesreunited.co.uk/genesreunited.asp?wci=feedback&email=info&subject=Privacy). 
+  * Welcome emails – this series of emails provide all the information you need to get started on Genes Reunited.
+  * Payment receipt – this is sent if you upgrade to Full Membership
+  * Renewal notices – these remind you to renew your Full Membership
+  * Automatic Full Membership renewal alerts – if you have selected automatic renewal of your Full Membership, we will alert before this happens
+  * Key service messages – if we need to notify you about changes to the service
+  * New message notification and reminders – when you receive messages from other Standard and Full members.
+  * Service suspension notices – if you break the house rules
 
-**1.        The information we gather and track. **
 
-·         **Information gathered on registration.** When you register for the Genes Reunited Service, you provide your current name, earlier surname (if different), gender, and email address ("Registration Information"). They are available to you, and capable of being changed, through the Your Details page. 
 
-·         **Cookies.** We use small files known as "cookies" to enhance users’ experience of the Genes Reunited Service as follows: 
+As well as these Service Emails, you will also receive Hot Matches, Family Trumps and Weekly Updates emails, and (if you have opted to receive them) our occasional newsletters. These emails genuinely help you make the most of the website and let you know when there's new fun and interesting stuff to do. Here's a bit more about them…
 
-·         To hold Members’ login information, so that the family tree you have entered is displayed when you visit the Genes Reunited Service. This option can be turned off by switching the "Remember Your Password" option to "No" in Your Details. 
+**Hot Matches, Family Trumps and Weekly Updates Alerts.** We automatically send you our Hot Matches, Family Trumps and Weekly Updates Alerts. They are an essential part of the Genes Reunited service because they i) tell you when people have been added to the site that may be your ancestors or relatives and ii) find matches who may be your ancestors in official records (e.g. 1901 Census) that are in the Records section on the site. The good thing about these emails is that they let you know when you should pop back to the site. Without them you would never know there was new stuff to read.
 
-·         To facilitate optimal use of the Genes Reunited Service by Members, by means of a temporary "session" cookie. These cookies disappear when the Member’s browser session ends, or if the Member clicks the "logoff" text which appears on the Genes Reunited Service. 
+If at any time you decide you don't want to receive the Hot Matches, Family Trumps and Weekly Updates Alerts, all you need to do is uncheck the relevant box in your email preferences. You'll find this on the "My Account Details" page which can be accessed from a tab on your homepage once you're logged in. Instructions on this can be found at the bottom of every Hot Matches, Family Trumps and Weekly Updates Alert.
 
-** 2\. Sharing and use of information **
+**Newsletters**. When registering, you are given the option to receive our occasional newsletters. We use these to notify you about new features on the site, ask your opinion, and tell you about services you might not be using yet.
 
-·         The over-riding principles we apply are these: 
+We only send a newsletter when there is something worthwhile to tell you about, so your inbox will never be overflowing with guff from us. Generally you'll get a newsletter about once every six weeks.
 
-·         **We, and (where relevant) our credit card processing agents, will not supply your personal data to a third party for commercial exploitation, unless you have opted to permit us to do so in Your Details; and**
+If you decide you no longer want to receive these newsletters – or if you aren't currently receiving it and want to – all you need to do is change your email preferences. You'll find this in the "My Account Details" area once you're logged in. 
 
-·         **the only circumstances in which we will provide any of your personal data to a third party for non-commercial purposes are those contained in this Privacy Policy.**
+**Information gathered on registration**. When you register for the Genes Reunited Service, you provide your name (including a previous name, where relevant), your email address, your gender, your place and country of birth and some optional information about yourself such as Marital Status. They are available to you, and capable of being changed, through the "My Account Details" page. 
 
-·         **Registration Information.** Your details and your family tree details are only available to you **except that**  the names you include in your tree, date of birth and place of birth are searchable by other Members. The information displayed as a result of a search does not show you associated with it, but the searching individual has the option to email you to get permission to view your tree. 
+**Cookies**. We use small files known as "cookies" to enhance Members' experience of the Genes Reunited Service as follows: 
 
-·         **Important: Members must have, and continue to have, the express permission of any living person to include their details in a family tree. If a Member is asked to do so, relevant details must be removed. Members are the controllers of the information they input relating to living persons, and therefore have obligations under privacy and data protection laws (such as the Data Protection Act 1998).   Genes Reunited acts as a processor of that information, at the behest of the Member.**
+  * To hold Members' login information, so that your homepage with your tree information and messages information is displayed when you visit Genes Reunited. This option can be turned off by switching the "Remember Your Password" option to "No" in "My Account Details" 
+  * To facilitate optimal use of the Genes Reunited Service by Members, by means of a temporary "session" cookie. These cookies disappear when the Member's browser session ends, or if the Member clicks the "logoff" text which appears on the Genes Reunited Service. 
 
-·         **Email addresses.** We do not directly make your email address available to anyone on any screen of the Genes Reunited Service. The only legitimate way of making contact with another Member as a result of viewing a search result found on the Genes Reunited Service is for a Full Member to enter a message which we will send on the Full Member’s behalf to the Member. The email sent will include the sending Full Member’s email address so that the recipient can respond to the sender directly. This means by sending a contact message, the sending Member is disclosing his/her email address. Members may change their email address at any time through Your Details. Members’ personal notes and family tree information must **not** include their email address. If your email system automatically responds to a contact email, your email address will be revealed. 
 
-·         **Advertising. **The Genes Reunited Service may include interactive advertising for other businesses. We may use, and provide to third parties, anonymised demographic data provided by Members to target this advertising more appropriately. 
 
-·         **Newsletters. **We have regular and occasional emails, which Members can decide to take or not, according to their preferences. This option is selected through Your Details. 
+In addition we use **Neilsen Netratings** , an independent measurement and research company. They use cookies and code on the site to gather **non-personal** data regarding the number and frequency of visitors to our site. Both the cookies and the embedded code provide **general site and not personal** statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site and other general information. Genes Reunited uses this type of information to help it improve the services to its members. Further information regarding Neilsen Netratings privacy statement can be found at [http://www.nielsen-netratings.com](http://www.nielsen-netratings.com/)
 
-·         **Credit Card information.** There has been a lot of publicity about Credit Card security on the Internet so we decided to use Worldpay plc, who operate a secure server, to process our credit card payments. They encrypt Members’ credit or debit card information and authorise payment directly. This means that Members’ credit card details are never revealed to us. Worldpay plc may transfer to, process and hold your credit card information in countries either within or outside the European Economic Area in connection with performing their duties. 
+Third party cookies including those from **DoubleClick** , **TheSearchWorks** and **Google** are used on some parts of the site. They are used for tracking the success of advertising campaigns. These cookies are normally permanent.
 
-·         **Companies in the Genes Reunited group.** We may share data supplied by you (or collected about you) with our subsidiaries and other companies in our group, but only for the purposes described in this policy. 
+  * The over-riding principles we apply are these:
 
-·         **Changes in Genes Reunited's business.** If all of the assets which we use to operate our business (or substantially all of them) are acquired by a third party, we may transfer personal data we then hold to that party. 
 
-·         **Place of processing.** The personal information held by us is held on and processed by computers situated in the United Kingdom.
+  * **i.** We, and (where relevant) our credit card processing agents, will not supply your personal data to a third party for commercial exploitation - thus, you can rest assured that we will not sell the lists of our Members' email addresses to a third party; and
+  * **ii.** the only circumstances in which we will provide any of your personal data to a third party for non-commercial purposes are those contained in this Privacy Policy. 
 
-·         **Control of processing.   **Members are the controllers of the data which they input on the Genes Reunited Service, including the information contained in Your Details and in the family trees they create.  It is up to Members to ensure that they have the express permission of any living person to include their details in a family tree on the Genes Reunited Service, to respond immediately to any request to remove any of those details, and to ensure that all input information is accurate and up-to-date.
 
-3.       **Security**
+  * **Registration Information**. The details you provide on Registration, and the details of those you enter into your family tree are only available to you, except that names, year of birth and place of birth for you and those in your tree are searchable by other Members. Search results from your tree will only be associated with you by your first name (which will be displayed together with the search results), and your email address is never revealed. 
+  * **Emailing through the Genes Reunited Service**. We do not directly make your email address available to anyone on any screen of the Genes Reunited Service. The only legitimate way of making contact with a Member on the Genes Reunited Service is for a Full Member to enter a message that we will send on the Member's behalf. We will notify the addressee Member, using the email address he/she has provided to us, that Genes Reunited is holding an email for him/her, and the Member can collect the email when logged in to the Genes Reunited Service. Members may check and (if required) change the email address we hold for them at any time through "My details/profile". Members' personal notes must **not** include their email address. Sent and received email may appear in a Member's Inbox on the Genes Reunited Service for an indefinite period - we do not delete it after any specific period. However, this does not mean that we will retain your email forever; there may come a time when we will need to delete some or all of it, for technical or other reasons. In this event, we will endeavour to give you advance warning that we are going to do so.
+  * **Advertising**. The Genes Reunited Service may include interactive advertising for other businesses. We may use, and provide to third parties, anonymised demographic data provided by Members to target this advertising more appropriately. 
+  * **Credit Card information**. There has been a lot of publicity about Credit Card security on the Internet so we use Worldpay plc and Datacash as our payment providers. Both operate a secure server, to process our credit card payments. They encrypt Members' credit or debit card information and authorise payment directly. This means that Members' full credit card details are never revealed to us. Worldpay plc or Datacash may transfer to, process and hold your credit card information in countries either within or outside the European Economic Area in connection with performing their duties. 
+  * **Companies in the Friends Reunited group**. We may share data supplied by you (or collected about you) with our subsidiaries and other companies in our group, but only for the purposes described in this policy. 
+  * **Changes in Genes Reunited's business**. If all of the assets which Genes Reunited uses to operate its business (or substantially all of them) are acquired by a third party, we may transfer personal data we then hold to that party so that the acquirer can continue to provide the Genes Reunited Service.. 
+  * **Place of processing**. The personal information held by us is held on and processed by computers situated in the United Kingdom. 
 
-We have security measures in place to protect our customer database and access to this database is restricted internally. However, it remains each Member’s responsibility:
 
-·         to protect against unauthorised access to Your Details; 
 
-·         to ensure against use by anyone else of the Genes Reunited Service through the machine that Member uses while they are "logged on" to the Genes Reunited Service; 
+We have security measures in place to protect our customer database and access to this database is restricted internally. However, it remains each Member's responsibility:
 
-·         to log off or exit from the Genes Reunited Service when not using it; and 
+  * to protect against unauthorised access to Your Details; 
+  * to ensure no-one else uses the Genes Reunited Service on that Member's machine while it is "logged on" to the Genes Reunited Service; 
+  * to log off or exit from the Genes Reunited Service when not using it; and 
+  * to keep his/her password secret.
 
-·         to keep his/her password secret. 
 
-4.       **Opt-out policy**
 
-·         You may have your registration details removed at any time. To remove yourself please click [ here](https://web.archive.org/web/20050421153726id_/http%3A//www.genesreunited.co.uk/genesreunited.asp?wci=unregister) and we will remove all Your Details. 
+You may have your registration details removed at any time. To remove yourself please click [here](https://web.archive.org/genesreunited.asp?wci=unregister) and we will remove all Your Details. 
 
-·         We provide Members with the opportunity to opt-out of receiving e-mailed Newsletters which they have previously opted to receive. This opt-out can be effected by making appropriate selections at Your Details. 
+We reserve the right to communicate such of a Member's personal information as we hold to third parties which seek the disclosure of it, and which make a legally-compliant request for its disclosure.
 
-5.       **Disclosure for legal reasons**
+We will retain your personal data only as long as is necessary for the purposes to which you consent under the [Genes Reunited Terms and Conditions](https://web.archive.org/web/20100502214431id_/http%3A//www.genesreunited.co.uk/static/terms.aspx) and this Privacy Policy, or as is required by applicable law, and then we will delete it. 
 
-We reserve the right to communicate such of a Member’s personal information, and family  as we hold to third parties which seek the disclosure of it, and which make a legally-compliant request for its disclosure.
+If you have any questions about this Privacy Policy, the practices of the Genes Reunited Service, or your dealings with Genes Reunited, you can contact us [here](https://web.archive.org/web/20100502214431id_/http%3A//www.genesreunited.co.uk/static/support.aspx?subject=Privacy&email=support) . You can also use this address if you wish to request from Genes Reunited a copy of the personal data we hold about you or a description of that data. Please note that by law we are entitled to charge you a small sum for providing this information 
 
-** 6\. Contacting Genes Reunited  **
+The Genes Reunited Service contains links to other sites. Genes Reunited is not responsible for the privacy practices, or the content, of those web sites 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with Genes Reunited, you can contact us [ here](https://web.archive.org/web/20050421153726id_/http%3A//www.genesreunited.co.uk/genesreunited.asp?WCI=feedback&subject=Privacy). You can also use this address if you wish to request from Genes Reunited a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information. 
-
-** 7\. Links to third party sites  **
-
-Our site contains links to other sites. Genes Reunited is not responsible for the privacy practices, or the content, of those web sites.
-
-** 8\. Data Protection Information**
-
-You can obtain further information about data protection laws by visiting the Information Commissioner’s website at [ www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/). You can search for our Data Protection Notification there, should you so wish.  You should ensure that you understand your obligations under data protection laws in respect of the information concerning living persons which you enter on the Genes Reunited Service
+You can obtain further information about data protection laws by visiting the Information Commissioner's website at [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/). You can search for our Data Protection Notification there, should you so wish. 
