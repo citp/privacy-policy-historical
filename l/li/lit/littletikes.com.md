@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littletikes.com privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805163628id_/http%3A//www.littletikes.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littletikes.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502021350id_/http%3A//www.littletikes.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # privacypolicy - Little Tikes
 
@@ -13,7 +13,7 @@ You can participate in many features on the Site without providing any personall
   
 
 
-If you place orders by mail, phone or on this Site, we do make out mailing list available to carefully screened companies whose products or services might interest you.  If you prefer to have your name withheld, simply let us know by sending an email to: [consumer.service@mgae.com](mailto:consumer.service@mgae.com).
+If you place orders by mail, phone or on this Site, we do make out mailing list available to carefully screened companies whose products or services might interest you.  If you prefer to have your name withheld, simply let us know by sending an email to: [consumer.service@littletikes.com](mailto:consumer.service@littletikes.com).
 
    
 Sections of this Site may be subject to additional privacy terms and you will be notified of this when using the applicable sections of the Site.  You should carefully review these additional privacy terms before using those sections; such additional privacy terms will not replace or change this Privacy Policy, except when expressly stated otherwise.  
