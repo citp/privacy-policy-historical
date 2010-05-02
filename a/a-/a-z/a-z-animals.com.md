@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a-z-animals.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225061004id_/http%3A//www.a-z-animals.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-z-animals.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502145507id_/http%3A//a-z-animals.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - A-Z Animals - Animal Facts, Information, Pictures, Videos, Resources and Links
 
