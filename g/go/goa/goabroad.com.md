@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goabroad.com privacy policy that was archived on 2009-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090213123049id_/http%3A//www.goabroad.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goabroad.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502062504id_/http%3A//www.goabroad.com/privacy.cfm) for the most accurate reproduction.*
 
 # GoAbroad.com Privacy Policy
 
@@ -6,9 +6,9 @@
 
 ### What is GoAbroad.com? 
 
-GoAbroad.com is the leading international education and experiential travel resource. Our directories contain over 15,000 opportunities abroad updated daily including study abroad, internships, volunteer opportunities, teach abroad, language schools and much more. 
+GoAbroad.com is the leading international education and experiential travel resource. Our directories contain over 20,000 opportunities abroad updated daily including study abroad, internships, volunteer opportunities, teach abroad, language schools and much more. 
 
-[ ](http://www.study-australia.com/)
+[ ](http://www.studentuniverse.com/)
 
 ### Round the World Airfare
 
