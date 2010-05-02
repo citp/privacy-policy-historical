@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the levelskip.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231153430id_/http%3A//kikizo.biz/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levelskip.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503004131id_/http%3A//kikizo.biz/privacy.asp) for the most accurate reproduction.*
 
 # Kikizo Network | Privacy Policy
 
@@ -9,4 +9,4 @@ We respect the privacy of our users. Click [here](http://kikizo.biz/legal.asp) f
 
 **Personal User Data.** The only ways in which Kikizo may receive personally identifiable information about you is if you knowingly and willingly provide the information through of our service areas, including, but not limited to, contests and email communication. In such areas, the information you disclose is done so by users knowingly and willingly. The personally identifiable information you disclose is optional, and is normally required so as to effectively enter you into a contest we may offer. We may, from time to time, collect data on our users. Users may provide personally identifiable information, knowingly and of their own accord. This information is provided at the user's discretion. This personally identifiable information will be destroyed after a period of one (1) year, or when it is no longer required, in accordance with the Data Protection Act 1998. Kikizo may share the aggregate results of the data it receives, with advertisers and partners to help them better understand our services and their opportunities, although we will not disclose personal data. 
 
-([Continue to Page 2 >>](https://web.archive.org/web/20091231153430id_/http%3A//kikizo.biz/privacy-2.asp)) 
+([Continue to Page 2 >>](https://web.archive.org/web/20100503004131id_/http%3A//kikizo.biz/privacy-2.asp)) 
