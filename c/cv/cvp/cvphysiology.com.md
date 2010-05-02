@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cvphysiology.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231152640id_/http%3A//www.cvphysiology.com/Ancillary/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvphysiology.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502192843id_/http%3A//www.cvphysiology.com/Ancillary/privacy.htm) for the most accurate reproduction.*
 
 # CV Physiology: Privacy Notice
 
