@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the kitchenbathideas.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323151607id_/http%3A//www.kitchenbathideas.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitchenbathideas.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502161317id_/http%3A//www.kitchenbathideas.com/kbi/file.jsp%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
 
-# Kitchen Bath Ideas® Online Privacy Policy
+# 
+
+Untitled Document
 
   * Online Privacy Policy
   * [Offline Privacy Policy](https://secure.meredith.com/privacy/policy.html)
-  * [Visitor Agreement](http://www.kitchenbathideas.com/visitoragreement.html)
+  * [Visitor Agreement](http://www.kitchenbathideas.com/kbi/file.jsp?item=/legal/terms&temp=no)
   * Your California Privacy Rights
   * Meredith Corporation "Shine the Light" Customer Notice
 
@@ -14,7 +16,7 @@
 
 Welcome to our website! KitchenBathIdeas.com is a service provided by Meredith Corporation ("Meredith," "we" or "us"). Since 1902, Meredith has been committed to providing our customers with products and services characterized by outstanding quality, customer service and value. Our Online Privacy Policy continues our commitment to serve you and to protect your privacy online. Please [click here](https://secure.meredith.com/privacy/policy.html) to see our Offline Privacy Policy.
 
-By visiting any of our sites, you agree that your visit, and any dispute over privacy, is governed by this Online Privacy Policy and our [Visitor Agreement](http://www.kitchenbathideas.com/visitoragreement.html). Please take a few minutes to read them before using or registering with any of our sites.
+By visiting any of our sites, you agree that your visit, and any dispute over privacy, is governed by this Online Privacy Policy and our [Visitor Agreement](http://www.kitchenbathideas.com/kbi/file.jsp?item=/legal/terms&temp=no). Please take a few minutes to read them before using or registering with any of our sites.
 
 PLEASE NOTE THAT THIS PRIVACY POLICY APPLIES ONLY TO OUR ONLINE COLLECTION AND USE OF INFORMATION AND DOES NOT APPLY TO ANY INFORMATION THAT YOU MAY PROVIDE TO US BY OTHER MEANS, SUCH AS VIA MAIL OR TELEPHONE. 
 
@@ -75,7 +77,7 @@ Our primary goal in collecting information is to provide you with a customized e
 
 **Postal Address Lists.** If you provide us with your postal address, we may include that address in postal address lists that we sell or rent to third parties. If you would like us to stop including your postal address in such lists, please send us a letter (which should be addressed to Meredith Corporation, Opt-Out Postal, Attn: Circulation, 1716 Locust Street, Des Moines, Iowa 50309), requesting that we remove your postal address from these lists. If we receive such a letter from you, we will act as promptly as possible to remove your postal address from future postal address lists that we sell or rent to third parties.
 
-**Other Disclosures.** We may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our [Visitor Agreement](http://www.kitchenbathideas.com/visitoragreement.html), or to protect the rights, property or safety of visitors to our sites, the public, or Meredith Corporation. As our business grows, we may buy or sell various assets. In the unlikely event that Meredith Corporation, substantially all of our assets, or one or more of our sites (or substantially all of its assets) is acquired by another company, information on our visitors would be among the transferred assets. 
+**Other Disclosures.** We may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our [Visitor Agreement](http://www.kitchenbathideas.com/kbi/file.jsp?item=/legal/terms&temp=no), or to protect the rights, property or safety of visitors to our sites, the public, or Meredith Corporation. As our business grows, we may buy or sell various assets. In the unlikely event that Meredith Corporation, substantially all of our assets, or one or more of our sites (or substantially all of its assets) is acquired by another company, information on our visitors would be among the transferred assets. 
 
 Return to top 
 
@@ -95,7 +97,7 @@ Return to top
 
 ### Security:
 
-The personally identifying information we collect is stored within a database that we control. We use standard, industry-wide procedures such as firewalls and SSL (Secure Sockets Layer) encryption to protect your information. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a message you post to any message board, discussion group, or other public posting area on our sites is available to anyone with Internet access. If you don't want people to know your name or email address, for example, make sure not to include it in any message you post publicly. Please see our [Visitor Agreement](http://www.kitchenbathideas.com/visitoragreement.html) for more information related to posting materials on our sites, including our use of such materials.
+The personally identifying information we collect is stored within a database that we control. We use standard, industry-wide procedures such as firewalls and SSL (Secure Sockets Layer) encryption to protect your information. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a message you post to any message board, discussion group, or other public posting area on our sites is available to anyone with Internet access. If you don't want people to know your name or email address, for example, make sure not to include it in any message you post publicly. Please see our [Visitor Agreement](http://www.kitchenbathideas.com/kbi/file.jsp?item=/legal/terms&temp=no) for more information related to posting materials on our sites, including our use of such materials.
 
 Return to top 
 
