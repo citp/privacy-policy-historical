@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remodelista.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126031244id_/http%3A//www.remodelista.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remodelista.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502064545id_/http%3A//www.remodelista.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy : Remodelista
 
