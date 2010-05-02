@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cohsl.net privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220063651id_/http%3A//www.cohsl.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cohsl.net privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502165410id_/http%3A//www.cohsl.net/privacy.php) for the most accurate reproduction.*
 
 # Cohls Business Consulting Privacy Statement
 
