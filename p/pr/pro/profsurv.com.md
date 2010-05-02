@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the profsurv.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231165757id_/http%3A//www.profsurv.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profsurv.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502164619id_/http%3A//www.profsurv.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: Professional Surveyor Magazine
 
-Reed Business Geo, Inc. knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting profsurv.com, you are accepting the practices described in this Privacy Notice.
+Flatdog Media, Inc. knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting profsurv.com, you are accepting the practices described in this Privacy Notice.
 
-### What Personal Information about Customers Does Reed Business Geo, Inc. Gather?
+### What Personal Information about Customers Does Flatdog Media, Inc. Gather?
 
 The information we learn from customers helps us personalize and continually improve your shopping experience at profsurv.com. Here are the types of information we gather.
 
