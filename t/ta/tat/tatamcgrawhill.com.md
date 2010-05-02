@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tatamcgrawhill.com privacy policy that was archived on 2009-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090922191910id_/http%3A//www.tatamcgrawhill.com/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatamcgrawhill.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502083405id_/http%3A//www.tatamcgrawhill.com/privacy/index.html) for the most accurate reproduction.*
 
-# McGraw-Hill Education - Privacy Policy
+# Tata McGraw-Hill Education
 
 McGraw-Hill takes your privacy seriously. Thank you for providing us with your name, address and e-mail address. We will use this information to help us fulfill your order and service your account. 
 
@@ -10,4 +10,4 @@ Our web site does not make use of cookies at present. In the future we may use c
 
 If you have any questions regarding our privacy practices or would like to review the accuracy of the information you have provided, please contact us at [roystan_laporte@mcgraw-hill.com](mailto:roystan_laporte@mcgraw-hill.com) or write us at: B-4, Sector 63, Distt. Gautam Budh Nagar, Noida, UP - 201 301, India. 
 
-For more information about The McGraw-Hill Companies' Customer Privacy Policy, please come to visit <http://www.mcgraw-hill.com/privacy.html>. 
+For more information about The McGraw-Hill Companies' Customer Privacy Policy, please come to visit <http://www.mcgraw-hill.com/privacy/index.html>. 
