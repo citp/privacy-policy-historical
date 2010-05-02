@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creately.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231164222id_/http%3A//creately.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creately.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502160935id_/http%3A//creately.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Creately
 
