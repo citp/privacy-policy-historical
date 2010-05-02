@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thewiggles.com.au privacy policy that was archived on 2009-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090602041815id_/http%3A//www.thewiggles.com.au/au/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thewiggles.com.au privacy policy that was archived on 2010-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100502181344id_/http%3A//www.thewiggles.com.au/au/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -38,7 +38,7 @@
 
 <script type="text/javascript">
 // <![CDATA[
-				var so = new SWFObject("/flash/top/1.swf", "home", "580", "110", "6", "#fff");				
+				var so = new SWFObject("/flash/top/2.swf", "home", "580", "110", "6", "#fff");				
 				so.addParam("wmode", "transparent");
 				so.write("head-main");
 // ]]>
@@ -52,11 +52,13 @@
 	<label for="selCountry">Wiggly Location:</label>
 		<select name="selCountry" id="selCountry" title="Select A Country">
  			<option value="au" selected="">Australia</option>
+            <option value="as">Asia</option>
 			<option value="ca">Canada</option>
 			<option value="nz">New Zealand</option>
 <!--			<option value="sa" >South America</option> -->
 <!--			<option value="tw" >Taiwan</option> -->
-			<option value="uk">UK</option>
+			<option value="ua">UAE</option>
+			<option value="uk">UK &amp; Ireland</option>
 			<option value="us">USA</option>
 <!--			<option value="" >Global Map</option> -->
 		</select>
@@ -83,7 +85,7 @@
 			<li id="nav-att"><a href="/au/attractions/" title="Attractions">Attractions</a></li>
 			<li id="nav-events"><a href="/au/events/" title="Tours &amp; Events : Featured Events; Event Calendar; Tour Enquiry">Tours &amp; Events</a></li>
 			<li id="nav-ent"><a href="/au/entertainment/tv" title="Entertainment : Wiggles OnDemand; TV Schedule; Enquiries">Entertainment</a></li>
-			<li id="nav-play"><a href="/au/playground/" title="Playground : Games; Desktops; Colour In; Masks; Screen Savers; Story Book">Playground</a></li>
+			<li id="nav-play"><a href="#" onclick="javascript:redirect();" title="Playground : Games; Desktops; Colour In; Masks; Screen Savers; Story Book">Playground</a></li>
 			
 <!-- 		<li id="nav-shop">< %if cRegion <>"" then% ><a href="/< %=cRegion% >/shop/" title="Online Shop">< %end if% >< %if cRegion="" then% ><a href="/au/shop/" title="Online Shop">< %end if% >Online Shop</a></li> -->		
 			<li id="nav-shop"><a href="http://www.thewigglesshop.com/" title="Online Shop">Online Shop</a></li>
@@ -96,6 +98,21 @@
 			<li id="nav-contact"><a href="/au/contact/" title="Contact Us : Office Details; Online Enquiry" accesskey="9">Contact Us</a></li>
 			<li id="nav-help"><a href="/au/help/" title="Help : FAQs; Message Board; Links; Site Map; Accessibility Statement" accesskey="5">Help</a></li>
 		</ul>
+        
+        <div id="playground_redirect" style="display:none;">
+        	<img src="http://www.thewiggles.com.au/images/playgroundredirect/h_great-news.gif" alt="Great News">
+        	<p>The Playground has found a new home within <strong>WiggleTime</strong>! You will be automatically taken there in a couple of seconds. Once at WiggleTime, <strong>simply log in...or join (its free!)</strong></p>
+        </div>
+
+<script type="text/JavaScript">
+<!--    
+    function redirect(){
+		document.getElementById('playground_redirect').style.display = 'block';
+        setTimeout("window.location = 'http://www.wiggletime.com/playground/home.aspx';",5000);
+    }   
+
+//-->
+</script>
 
 <div id="content">
 	<div id="sidebar">
@@ -134,7 +151,7 @@
 	
 	<div id="footer">
 		<ul>
-			<li><a href="/au/legal/" title="© 2007 The Wiggles">© 2007 The Wiggles</a></li>
+			<li><a href="/au/legal/" title="© 2007 The Wiggles">© 2007-2010 The Wiggles</a></li>
 		</ul>
 		<ul class="alt">
 			<li><a href="/au/legal/" title="Disclaimer">Disclaimer</a></li>
