@@ -1,286 +1,500 @@
-<!--The following is the downloaded HTML source of the nevadaart.org privacy policy that was archived on 2009-10-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091030063420id_/http%3A//www.nevadaart.org/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nevadaart.org privacy policy that was archived on 2010-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100502044412id_/http%3A//www.nevadaart.org/site/privacy-policy) for the most accurate reproduction.-->
 
-<html><head>
-<title>Privacy Policy of the NMA</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script> 
-mickey=0
-</script><script src="/global/navigation.js" type="text/javascript"></script>
-<script src="/global/AC_RunActiveContent.js" language="javascript"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-// -----------------------------------------------------------------------------
-// Globals
-// Major version of Flash required
-var requiredMajorVersion = 5;
-// Minor version of Flash required
-var requiredMinorVersion = 0;
-// Revision of Flash required
-var requiredRevision = 0;
-// -----------------------------------------------------------------------------
-// -->
-</script>
-<script language="VBScript" type="text/vbscript">
-<!-- // Visual basic helper required to detect Flash Player ActiveX control version information
-Function VBGetSwfVer(i)
-  on error resume next
-  Dim swControl, swVersion
-  swVersion = 0
-  set swControl = CreateObject("ShockwaveFlash.ShockwaveFlash." + CStr(i))
-  if (IsObject(swControl)) then
-    swVersion = swControl.GetVariable("$version")
-  end if
-  VBGetSwfVer = swVersion
-End Function
-// -->
-</script>
-<script language="JavaScript1.1" type="text/javascript">
-<!--
-// Detect Client Browser type
-var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
-var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
-var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
-// JavaScript helper required to detect Flash Player PlugIn version information
-function JSGetSwfVer(i){
-	// NS/Opera version >= 3 check for Flash plugin in plugin array
-	var flashVer = -1;
-	if (navigator.plugins != null && navigator.plugins.length > 0) {
-		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
-			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
-      		var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
-			var descArray = flashDescription.split(" ");
-			var tempArrayMajor = descArray[2].split(".");
-			var versionMajor = tempArrayMajor[0];
-			var versionMinor = tempArrayMajor[1];
-			if ( descArray[3] != "" ) {
-				tempArrayMinor = descArray[3].split("r");
-			} else {
-				tempArrayMinor = descArray[4].split("r");
-			}
-      		var versionRevision = tempArrayMinor[1] > 0 ? tempArrayMinor[1] : 0;
-            var flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
-      	}
-	}
-	// MSN/WebTV 2.6 supports Flash 4
-	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
-	// WebTV 2.5 supports Flash 3
-	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
-	// older WebTV supports Flash 2
-	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
-	return flashVer;
-}
-// When called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
-function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision)
-{
- 	reqVer = parseFloat(reqMajorVer + "." + reqRevision);
-   	// loop backwards through the versions until we find the newest version
-	for (i=25;i>0;i--) {
-		if (isIE && isWin && !isOpera) {
-			versionStr = VBGetSwfVer(i);
-		} else {
-			versionStr = JSGetSwfVer(i);
-		}
-		if (versionStr == -1 ) {
-			return false;
-		} else if (versionStr != 0) {
-			if(isIE && isWin && !isOpera) {
-				tempArray         = versionStr.split(" ");
-				tempString        = tempArray[1];
-				versionArray      = tempString .split(",");
-			} else {
-				versionArray      = versionStr.split(".");
-			}
-			var versionMajor      = versionArray[0];
-			var versionMinor      = versionArray[1];
-			var versionRevision   = versionArray[2];
-			var versionString     = versionMajor + "." + versionRevision;   // 7.0r24 == 7.24
-			var versionNum        = parseFloat(versionString);
-        	// is the major.revision >= requested major.revision AND the minor version >= requested minor
-			if (versionMajor > reqMajorVer) {
-				return true;
-			} else if (versionMajor == reqMajorVer) {
-				if (versionMinor > reqMinorVer)
-					return true;
-				else if (versionMinor == reqMinorVer) {
-					if (versionRevision >= reqRevision)
-						return true;
-				}
-			}
-			return false;
-		}
-	}
-}
-// -->
-</script>
-<link rel="stylesheet" href="/global/nma.css" type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<title>Nevada Museum of Art</title>
+	<meta name="author" content="Nevada Museum of Art">
+	<meta name="viewport" content="width=1024">
+	
+	<meta name="keywords" content="Nevada Museum of Art, art museum, nevada art">
+	<meta name="description" content="The Nevada Museum of Art, located in Reno, is the only accredited art museum in the state of Nevada and serves as a cultural and educational resource for everyone.">
+	<link rel="Shortcut Icon" href="/favicon.ico">
+	
+	<link href="/modules/assets/css/globals.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="/modules/assets/temp-themes/55/default.css" rel="stylesheet" type="text/css">
+
+				<link href="/modules/assets/css/subpage.css" rel="stylesheet" type="text/css" media="all">
+			<link href="/modules/content/tpl/default/css/ui-lightness/jquery-ui-1.7.2.custom.css" rel="stylesheet" type="text/css">
+	<!-- <link href="/modules/thirdparty/jquery/rte-light/rte.css" rel="stylesheet" type="text/css" /> -->
+
+	<!--[if IE 7]><link href="/modules/assets/css/ie7.css" rel="stylesheet" type="text/css"  media="screen" /><![endif]-->
+	<!--[if lt IE 7]>
+		<script type="text/javascript" src="//ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7.js"></script>
+		<link href="/modules/assets/css/ie6.css" rel="stylesheet" type="text/css"  media="screen" />
+		<script type="text/javascript" src="/modules/assets/js/unitpngfix.js"></script>
+	<![endif]-->
+	<!--[if lt IE 8]>
+		<link href="/modules/assets/css/ie8.css" rel="stylesheet" type="text/css"/>	
+		<script type="text/javascript" src="//ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js"></script>
+	<![endif]-->	
+	
+		<link href="/modules/assets/css/print.css" rel="stylesheet" type="text/css" media="print">
+		
 </head>
-<body text="#000000" bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="background: url(/assets/global/interior_big_back.gif) repeat-x; background-color: #EDEEEC">
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
-  <tbody><tr> 
-    <td><img src="/assets/spacer.gif" width="20" height="20"></td>
-    <td><img src="/assets/spacer.gif" width="290" height="1"></td><td align="right"><table border="0" cellpadding="0" cellspacing="0">    
-<tbody><tr><td><img src="/assets/spacer.gif" width="1" height="2"></td></tr>    
-<tr><td><a href="http://www.nevadaart.org/newsletter.php">newsletter</a>&nbsp;&nbsp;|&nbsp;&nbsp;<!--<a href="/search/search.php" >search</a>&nbsp;&nbsp;|&nbsp;&nbsp;--><a href="http://www.nevadaart.org/contact.php">contact</a><img src="/assets/spacer.gif" width="7" height="1"></td>
-</tr>
-</tbody></table></td>
-<td rowspan="5" width="8%" style="background: url(/assets/global/big_right_back.gif) repeat-x; background-color:#EDEEEC"><img src="/assets/spacer.gif" width="1" height="1"></td></tr>
-    <tr>
-    <td colspan="2" width="92%" valign="top">
 
-<table border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr>
-          <td width="20">&nbsp;</td>
-                    
-          <td valign="top">&nbsp;
-          <p><br>
-            <img src="/assets/heads_big/header_privacy.gif" width="150" height="15"><table border="0" width="86%" cellpadding="2" cellspacing="0">
-        <tbody><tr> 
-          <td> </td>
-        </tr>
-        <tr> 
-          <td> 
-            <p>&nbsp;
-            </p><p>The Nevada Museum of Art (NMA) is concerned about protecting the 
-              privacy of all NMA visitors. NMA respects your privacy and your 
-              choice not to have your personal information shared with other people. 
-              Please read the following to learn more about our policy. Your use 
-              of our Web site indicates your acceptance of this Privacy Policy.
-            </p><p><b>COLLECTION OF INFORMATION </b><br>
-              NMA does not collect personally identifying data, such as names, 
-              addresses, email addresses, and the like, except when voluntarily 
-              submitted by Web site visitors. <br>
-            </p><p><b> DISCLOSURE OF INFORMATION <br>
-              </b>NMA will not disclose or share any personal information you 
-              provide to NMA with any other party without your permission, except 
-              if requested to do so in accordance with a court order, subpoena, 
-              or similar legal order, and in the event such disclosure is necessary 
-              to protect the rights, property, and safety of NMA, its users, and 
-              other third parties. NMA will not sell, trade, or rent your personal 
-              information to others.
-            </p><p><b>LINKS <br>
-              </b>NMA may provide links to other third party Web sites, and 
-              other Web sites may provide links to the NMA Web site. Third 
-              party Web sites operate according to their own terms of use and 
-              privacy policies. NMA has no control over such third party Web 
-              sites, and therefore you acknowledge and agree that NMA is not 
-              responsible for the availability of such third party sites, and 
-              does not endorse and is not responsible or liable for any content, 
-              advertising, products, or other materials on or available from such 
-              sites. You further acknowledge and agree that NMA will not be 
-              responsible or liable, directly or indirectly, for any damage or 
-              loss caused or alleged to be caused by or in connection with use 
-              of or reliance on any such content, advertising, products, or other 
-              materials on or available from such sites.
-            </p><p><b>CHILDREN <br>
-              </b>NMA does not solicit personal information from children. 
-              Visitors 12 years of age and under must obtain an adult's permission 
-              before submitting any personal information to this site.
-            </p><p><b>CHANGES TO OUR POLICY <br>
-              </b>NMA may amend this policy from time to time. If we make any 
-              substantial changes in the way we use your personal information, 
-              we will notify you by posting a prominent announcement on this page. 
-         
-      </p><p>&nbsp;
-      </p><p>&nbsp;
-   
-                  </p></td>
-              </tr>
-            </tbody></table></p></td>
-        </tr>
-      </tbody></table></td>
-<script src="/__utm.js"></script>
-<td valign="top" align="right" style="background: url('/assets/global/belownav.gif') repeat-y left; background-color: #EDEEEC"><table border="0" cellpadding="0" cellspacing="0" background="/assets/global/blank.gif">
-    <tbody><tr>
-      <td><img src="/assets/spacer.gif" width="1" height="50"></td>
-    </tr>
-    <tr>
-      <td align="right"><script language="JavaScript" type="text/javascript">
-					<!--
-					var hasRightVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
-					if(hasRightVersion) {  // if we've detected an acceptable version
-						if (AC_FL_RunContent == 0) {
-							alert("This page requires AC_RunActiveContent.js. In Flash, run \"Apply Active Content Update\" in the Commands menu to copy AC_RunActiveContent.js to the HTML output folder.");
-						} else {
-							// embed the flash movie
-							AC_FL_RunContent(							
-								'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0',
-								'width', '265',
-								'height', '192',
-								'src', '/nav',
-								'quality', 'high',
-								'bgcolor', '#FFFFFF',
-								'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
-								'align', 'middle',
-								'play', 'true',
-								'loop', 'true',
-								'scale', 'exactfit',
-								'wmode', 'window',
-								'devicefont', 'false',
-								'id', 'dynamic-menu2',
-								'name', 'dynamic-menu2',
-								'menu', 'true',
-								'allowScriptAccess','sameDomain',
-								'movie', '/nav',
-								'salign', ''
-								); //end AC code
-						}
-					} else {  // flash is too old or we can't detect the plugin
-						document.write('<table width="265" height="192" cellpadding="0" cellspacing="0"><tr><td width="125"><img src="/assets/spacer.gif" width="95" height="1"></td><td valign=bottom width="140"><a href="http://www.nevadaart.org/visit/visit.php"><b>visit</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/about/history.php"><b>about</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/events/calendar.php"><b>what\'s happening</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/exhibitions/current.php"><b>exhibitions</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/tours/tours.php"><b>tours</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/support/individual.php"><b>membership/support</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/school/school.php"><b>museum school</b></a><br><img src="/assets/spacer.gif" width="1" height="6"></td></tr></table>');
-					}
-					// -->
-					</script><table width="265" height="192" cellpadding="0" cellspacing="0"><tbody><tr><td width="125"><img src="/assets/spacer.gif" width="95" height="1"></td><td valign="bottom" width="140"><a href="http://www.nevadaart.org/visit/visit.php"><b>visit</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/about/history.php"><b>about</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/events/calendar.php"><b>what's happening</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/exhibitions/current.php"><b>exhibitions</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/tours/tours.php"><b>tours</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/support/individual.php"><b>membership/support</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/school/school.php"><b>museum school</b></a><br><img src="/assets/spacer.gif" width="1" height="6"></td></tr></tbody></table>
-            <noscript><TABLE width="265" height="192" cellpadding="0" cellspacing="0">
-              <TR>
-                <TD width="125"><IMG src="/assets/spacer.gif" width="95" height="1"></TD>
-                <TD valign=bottom width="140"><A href="http://www.nevadaart.org/visit/visit.php"><B>visit</B></A><BR>
-                  <IMG src="/assets/spacer.gif" width="1" height="3"><BR>
-                  <A href="http://www.nevadaart.org/about/history.php"><B>about</B></A><BR>
-                  <IMG src="/assets/spacer.gif" width="1" height="3"><BR>
-                  <A href="http://www.nevadaart.org/events/calendar.php"><B>what\'s happening</B></A><BR>
-                  <IMG src="/assets/spacer.gif" width="1" height="3"><BR>
-                  <A href="http://www.nevadaart.org/exhibitions/current.php"><B>exhibitions</B></A><BR>
-                  <IMG src="/assets/spacer.gif" width="1" height="3"><BR>
-                  <A href="http://www.nevadaart.org/tours/tours.php"><B>tours</B></A><BR>
-                  <IMG src="/assets/spacer.gif" width="1" height="3"><BR>
-                  <A href="http://www.nevadaart.org/support/individual.php"><B>membership/support</B></A><BR>
-                  <IMG src="/assets/spacer.gif" width="1" height="3"><BR>
-                  <A href="http://www.nevadaart.org/school/school.php"><B>museum school</B></A><BR>
-                  <IMG src="/assets/spacer.gif" width="1" height="6"></TD>
-              </TR>
-            </TABLE></noscript></td>
-    </tr>
-    <tr>
-      <td align="right"><a href="http://www.nevadaart.org/index.php"><img src="/assets/global/title_bar0.gif" alt="nevada museum of art" name="title_bar" width="174" height="47" border="0"></a></td>
-    </tr>
-  </tbody></table>
-  <table cellpadding="0" width="174" cellspacing="0" border="0">
-    <tbody><tr>
-      <td></td>
-      <td>&nbsp;<br>
-                <p> </p></td>
-    </tr>
-  </tbody></table></td>
-</tr>
-<tr>
-  <td bgcolor="#EDEEEC" colspan="4" align="right" class="navigation"><img src="/assets/spacer.gif" width="590" height="60">
-    <!--     <br> 
-<p><span class="navigation">775.329.3333&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<body>
 
-    </span><span class="navigation"> 160 west liberty street, reno nv 89501&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-    copyright © 2005 nevada museum of art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-    all uncited photographs courtesy of Dean Burton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>-->
-    <!--<p><a href="http://www.nevadaart.org/visit.php" class="navigation">visit the NMA</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.nevadaart.org/visit.php" class="navigation">about the NMA</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.nevadaart.org/support.php" class="navigation">membership/support</a> 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.nevadaart.org/events.php" class="navigation">what's 
-    happening</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.nevadaart.org/school.php" class="navigation">museum 
-    school</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-    <a href="http://www.nevadaart.org/newsletter.php" class="navigation">newsletter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.nevadaart.org/search/search.php" class="navigation">search</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" onclick="pop_pressroom()" class="navigation">press</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.nevadaart.org/contact.php" class="navigation">contact</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
-    <a href="http://www.nevadaart.org/siteinfo.php" class="navigation">site&nbsp;info</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.nevadaart.org/privacy.php" class="navigation">privacy&nbsp;policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.nevadaart.org/index.php" class="navigation">home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-    <img src="/assets/spacer.gif" width="1" height="7"><br>
-    <!--775.329.3333<br>-->
-    160 West Liberty Street, Reno NV 89501&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-    copyright © 2007 nevada museum of art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <p></p></td>
-</tr>
-</tbody></table>
+<div id="wrapper" class="subpage">
+	
+	<div id="header">
+	
+		<div class="n-logo" id="logo">
+			<div id="n-logo">
+	<a href="/">&nbsp;</a>
+	<div class="temp-55">
+		<span>•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+	</div>
+	<div class="temp-55">
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+	</div>
+	<div class="temp-61">
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+	</div>
+	<div class="temp-64">
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+	</div>
+	<div class="temp-64">
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+	</div>
+	<div class="temp-64">
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+	</div>
+	<div class="temp-64">
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+	</div>
+	<div class="temp-61">
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span>•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span>•</span>
+		<span>•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+	</div>
+	<div class="temp-58">
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span>•</span>
+		<span>•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span>•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+	</div>
+	<div class="temp-58">
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+	</div>
+	<div class="temp-52">
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+	</div>
+	<div class="temp-49">
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+	</div>
+	<div class="temp-43">
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+	</div>
+	<div class="temp-40">
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+	</div>
+	<div class="temp-37">
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+	</div>
+	<div class="temp-37">
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span>•</span>
+		<span class="color">•</span>
+		<span class="color">•</span>
+		<span>•</span>
+	</div>
+</div>
+<!-- End N Logo -->					<span class="temperature"><strong>57</strong>° F</span>
+		</div>
+	
+		<ul class="top-nav">
+						<li class="first"><a href="/visit/eventcalendar">Calendar</a></li>
+			<li><a href="/site/subscribe">Subscribe</a></li>
+			<li><a href="/membership/index">Join</a></li>
+			<li><a href="/volunteer/index">Volunteer</a></li>
+			<li><a href="/about/contact">Contact Us</a></li>
+			<li><a href="/about/news">News</a></li>
+	
+						<li><a href="/registration/login">Sign In</a></li>
+						
+			<!-- <li class="search">
+				<input type="text" value="Search" class="searchbox" onfocus="this.value=''" /><input type="submit" value="GO" class="submit" />
+			</li> -->
+		</ul>		
+		
+				<ul id="main-nav">
+			<li class="visit">
+				<div><a href="/visit/index">Visit</a></div>
+							</li>
+			<li class="explore">
+				<div><a href="/explore/index">Explore</a></div>
+							</li>
+			<li class="learn">
+				<div><a href="/learn/index">Learn</a></div>
+							</li>
+			<li class="give">
+				<div><a href="/give/index">Give</a></div>
+							</li>
+			<li class="art-environment">
+				<div><a href="/ae/index">A+E</a></div>
+							</li>	
+			<li class="shop">
+				<div><a href="/shop/index">Shop</a></div>
+							</li>
+		</ul>
+		<!-- End #main-nav -->
+				
+		<br class="clr">
+		<a href="/" class="logotype">	The Nevada Museum of Art</a>		
+		<br class="clr">
+		
+	</div> 
+	<!-- End #header -->
+	
+	 <br class="clr"> 		
+
+	<div id="content">
+		
+		<div id="sub-nav">&nbsp;</div>
+		<!-- End #sub-nav -->
+		
+		<div id="main-content">
+			<div id="page-content">
+
+				<h2>Privacy Policy</h2>
+				<p class="intro">The Nevada Museum of Art is committed to protecting your privacy when you visit our website, shop at the Museum Store online, or use the website to purchase a Museum membership or make an online donation. The Museum does not collect personal information about individuals, such as names and mailing or e-mail addresses, unless the individual visiting the Museum website knowingly provides it. By using the Museum website, you agree to be bound by the terms and conditions of the Museum's Privacy Policy. The Museum Privacy Policy is outlined below.</p>
+				<h3>The Nevada Museum of Art policy on collecting information on the Museum website</h3>
+				
+				<h4>Online Purchases</h4>
+				<p>When you order a product from the Museum Store online, we need to know your name, billing and shipping addresses, telephone number, e-mail address, and credit card information to process your order. Your credit card information will be used only as needed to process your transaction. </p>
+				
+				<h4>Online Memberships and Donations</h4>
+				<p>When you purchase a Museum membership or make a donation to the Museum online, we will ask you to provide us with the information we need to process your membership and/or to acknowledge your contribution. This information includes your name, billing and shipping addresses, telephone number, e-mail address, and credit card information. Your credit card information will be used only as needed to process your transaction.</p> 
+				
+				<h4>Children Twelve and Under</h4>
+				<p>The Museum does not solicit personal information from children. Visitors twelve years of age and under should remember that they are required to obtain an adult's permission before submitting any personal information to this or any other website.</p> 
+				
+				<h4>Nevada Museum of Art E-Newsletter</h4>
+				<p>As a service, the Museum offers visitors to the Museum website the opportunity to subscribe to one or more of our online newsletters, a service hosted by a contractor that has agreed to use the e-mail address you provide only to send e-newsletters to you. If you choose to subscribe, you will receive the Museum e-newsletters on the topics you choose. You may subscribe or unsubscribe at any time by following the e-newsletter instructions. </p>
+				
+				<h4>Cookies</h4>
+				<p>Cookies are small files of information that are stored on your computer's hard drive by your Web browser. The cookies we use do not contain any personal information. Most Web browsers automatically accept cookies, but you can change the preferences of your browser so that it does not accept them. In order to use all the features of the Museum Store online, we recommend that you accept cookies. </p>
+				<p>The Nevada Museum of Art policy on the use and disclosure of the information it collects on the Museum website</p>
+				<p>The Museum uses the personal information you provide to us for internal purposes, such as filling and tracking your order, analyzing trends and collecting statistics.</p>
+				<p>The Museum will not disclose or share any personal information you provide to the Museum with any other party without your permission, except if requested to do so in accordance with a court order, subpoena, or similar legal order, and in the event such disclosure is necessary to protect the rights, property, and safety of the Museum, its users, and other third parties. The Museum will not sell, trade, or rent your personal information to others.</p>
+				<p>We may combine information you give to us online, in our stores or at the Museum. We use this combined information to enhance and personalize your shopping experience with us, to communicate with you about products or events that may be of interest to you, or for other promotional purposes.</p>
+				
+				<h4>Linking</h4>
+				<p>The Museum Website may include links to websites operated by third parties over which we have no control. Once you leave the Museum website, the Museum Privacy Policy will not apply, and you access such sites at your own risk. </p>
+				
+				<h4>Security</h4>
+				<p>The Museum secure server software uses industry-standard Secure Socket Layer (SSL) encryption technology. SSL encodes your personal information, including credit card number, name, and address, as it travels over the Internet so that all transactions are secure. If you prefer, you may also place a Museum Store order by phone at 775.329.3333 ex.107 or by fax at 775.329.1541. For membership gifts, please call 775.329.3333 and for donations, please call 775.329.3333 ex.232. </p>									
+				<h4>Revisions to our Privacy Policy</h4>
+				<p>Please note that the Museum may revise its privacy policy at any time, without notice, with such changes to be effective immediately upon posting on the Museum website. Such revisions may arise in response to changes in the law, policy, or other factors. We encourage you to periodically visit this page to review our most current policy.</p> 
+				<h4>Contact the Nevada Museum of Art</h4>
+				<p>Send your questions, comments, or concerns about our privacy policy or any other aspect of our website to <script type="text/javascript" language="javascript">
+<!--
+{document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,97,114,116,64,110,101,118,97,100,97,97,114,116,46,111,114,103,34,32,62,97,114,116,64,110,101,118,97,100,97,97,114,116,46,111,114,103,60,47,97,62))}
+//-->
+</script><a href="mailto:art@nevadaart.org">art@nevadaart.org</a>
+</p> 
+
+
+							
+			</div>
+			<!--End #page-content-->
+		<br class="clr">
+		</div>
+		<!--End #main-content-->
+			
+		<div id="sidebar"><a href="/membership/index" class="widget widget-1">Join Us!</a>
+<a href="/volunteer/index" class="widget widget-2">Volunteer</a>
+<a href="/visit/eventcalendar" class="widget widget-3">Come in</a>
+<a href="/site/subscribe" class="widget widget-4">Subscribe</a>
+<a href="/site/espanol" class="widget widget-5">El Museo en Espanol</a></div>
+
+		<br class="clr">
+	</div>
+	<!-- End #content-->
+
+<div id="footer">
+		
+		<ul class="social">
+			<li class="facebook"><a href="http://www.facebook.com/pages/Reno-NV/Nevada-Museum-of-Art/11134676804">Facebook</a></li>
+			<li class="twitter"><a href="http://www.twitter.com/nevadaart">Twitter</a></li>
+			<li class="myspace"><a href="http://www.myspace.com/326493629">MySpace</a></li>
+			<li class="rss"><a href="/rss">RSS</a></li>
+		</ul>
+		
+		<ul class="bottom-nav">
+			<li><a href="/site/terms">Terms of Use</a></li>
+			<li><a href="/site/credits">Site Credits</a></li>
+			<li><a href="/site/privacy-policy">Privacy Policy</a></li>
+			<li><a href="/about/pressroom">Press Room</a></li>
+			<li><a href="/about/index">About Us</a></li>
+			<li class="last"><a href="/site/espanol">EspaÑol</a></li>
+		</ul>
+		
+		<p class="copyright">
+			© 
+			2010 Nevada Museum of Art | 
+			<strong>Donald W. Reynolds Center for the Visual Arts</strong> | 
+			E.L. Wiegand Gallery | 
+			160 West Liberty Street, Reno, Nevada 89501 | 
+			T 775.329.3333 | F 775.329.1541
+					</p>
+		<br class="clr">
+	
+	</div>
+	<!-- End #footer -->
+	
+</div>
+<!-- End #wrapper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/modules/assets/js/jquery.prettyPhoto.js" type="text/javascript"></script>		
+<script src="/modules/assets/js/subpage_functions.js" type="text/javascript"></script>
+<script src="/modules/thirdparty/jquery/timepicker/jquery.timepicker.js" type="text/javascript"></script>
+
+
+
+<script type="text/javascript">
+try{
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+	var pageTracker = _gat._getTracker("UA-12610152-1");
+	pageTracker._trackPageview();
+
+} catch(err) {}
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+
 </body></html>
