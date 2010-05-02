@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shu.ac.uk privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218023927id_/http%3A//www.shu.ac.uk/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shu.ac.uk privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503012141id_/http%3A//www.shu.ac.uk/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy | Sheffield Hallam University
 
-This website ([www.shu.ac.uk](https://web.archive.org/web/20091218023927id_/http%3A//www.shu.ac.uk/)) is run by Sheffield Hallam University. The privacy of our users is important to us and the University takes care to safeguard it.  This policy explains why and how we collect and use your personal data.
+This website ([www.shu.ac.uk](https://web.archive.org/web/20100503012141id_/http%3A//www.shu.ac.uk/)) is run by Sheffield Hallam University. The privacy of our users is important to us and the University takes care to safeguard it.  This policy explains why and how we collect and use your personal data.
 
 We may change this policy by updating the information on this page. You should check this page from time to time to ensure that you are happy with any changes that we make. This policy is effective from 1 January 2009.
 
