@@ -1,18 +1,67 @@
-> *The following text is extracted and transformed from the tradingfloor.com privacy policy that was archived on 2008-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080926105528id_/http%3A//www.tradingfloor.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingfloor.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502213040id_/http%3A//www.saxobank.com/en/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | TradingFloor
+# Privacy Policy - Saxo Bank - www.saxobank.com
 
-The purpose of this Privacy Policy is to describe how any data that you may send via the Internet to the website of Synthesis Bank (hereafter the "Website" and the "Bank" respectively) is treated and to explain all the reasonable precautions of the Bank to keep the data secure. 
+Saxo Bank A/S (“ Saxo Bank”) and/or its affiliates and subsidiaries (“Saxo Bank Group”, "we", “our” or "us") would like to inform you that your privacy on the internet is of crucial importance to us. The success of our business depends on our ability to maintain the trust of our clients. During the course of our business, we gather information about our users, and we would like to inform you about the type of information we gather, what we do with it and how you can correct or modify the information you entrust us with. Please note that this policy only applies to websites operated by a member of the Saxo Bank Group and not to other organizations or person to which we refer to on such websites through banners or links.
 
-**Data transfer to the Bank and trans-border data flows**  
-Data sent via the Internet can be accessed by unauthorised third parties, potentially leading to disclosures, changes in content or technical failures. Data sent via the Internet may be transmitted across international borders even though both sender and receiver are located in the same country. Therefore, your data may be forwarded to a country with a lower data protection level than exists in your country of residence. The Bank accepts no liability for the security of the data whilst in transit via the Internet to the Bank. 
+## Information collected
 
-**Processing of data by the Bank**  
-The Bank does not collect personally identifying data from the Website except when specifically and knowingly provided by you. Your personal data shall be held on our contact and administration databases either because of the trading you have done or are currently engaged in, or because the Bank may use, subject to any applicable foreign laws, your personal data to market products and services it believes might be of interest to you. 
+When you sign up for a demo or live account with any entity within the Saxo Bank Group, the following information about you (“Your Data”) will be collected and stored for administrative, service related and/or legal purposes: 
 
-The Bank may also collect data that is statistical and that does not, by itself, identify a specific individual or entity and which depends upon the visiting you do on the Website. For example, this data may include the domain from which you access the Website, the date and time you access the Website and the Internet address of the website from which you linked directly to the Website. This data is used in aggregate form for the compiling of statistical information and the monitoring of the usage and performance of the Website. 
+  * Personal information, such as names, addresses, personal registration number and e-mail addresses etc (“Personal Information”)., and 
+  * Financial information (“Financial Information”) for credit assessment. 
+  * Website traffic pattern information and IP addresses. 
 
-**Data security**  
-The Bank follows strict security procedures in the storage of your personal data in order to prevent unauthorised access. However, the Website contains links to other websites. The Bank does not control and is not responsible for the privacy practices or the content of these other websites. The Bank shall take all reasonable steps in order not to allow your personal data to be seen by any third parties other than those which have been engaged by the Bank to provide services to you. The Bank will only disclose your personal data to other third partie, if compelled to do so for legal or regulatory purposes. 
 
-_This Privacy Policy was issued in January 2006_
+
+Your Data is stored and kept confidential according to the legislation on protection of personal data and processing thereof applicable in the jurisdiction in which the Saxo Bank Group’s entity with which you have signed up is located, as further explained below under “Disclosure of Personal Data”.
+
+## Use of cookies
+
+The Saxo Bank Group uses cookies to collect information. A cookie is a small data file that a website stores on your computer’s hard disk for the purpose of keeping records when you visit the website. Cookies allow us to improve your comfort of use, for example by remembering your passwords and viewing preferences, thus allowing you to visit various “member-only” parts of the website without re-registering. Furthermore, cookies are used by us to measure activity on the website and make improvements and updates based on which areas are popular and which are not.
+
+We do not use cookies to retrieve information which was not originally sent in a cookie. We do not use information transferred through cookies for any direct promotional or marketing purposes without your consent.
+
+## Use of information collected by Saxo Bank Group
+
+Saxo Bank Group uses both the personal and aggregated information that we collect for multiple purposes.
+
+The information is used:
+
+  * To improve the content of the website 
+  * To customise the content and/or the layout of the website for each individual user 
+  * To notify users about updates to the website 
+  * To send out newsletters or information about other opportunities that we believe will be of interest to you. We will only send this to you if you have indicated that you wish to receive such information and we will respect your wish not to do so if you communicate such wish to us. 
+
+
+
+Personal Information is collected when our users provide personal information to us upon registering for membership or when applying on-line for an account. We will limit the collection of Personal Information to what is necessary to administer our business in an effort to provide you with superior service.
+
+Traffic pattern information includes information on which web pages our users access or visit, and how many users log into our websites on a daily basis. This kind of information is only used in its aggregated form, which means that the individual user will not be recognizable.
+
+We may also use the information we gather to inform you of new products or services available or under consideration, technical issues, customer satisfaction surveys or account updates and related purposes.
+
+Your e-mail address may be used by the Saxo Bank Group in relation to its products and services (including any marketing campaigns related to these products or services). If you do not wish to receive such marketing material please send an email stating so to [MTSupport@SaxoBank.com](mailto:MTSupport@SaxoBank.com).
+
+## Disclosure of personal data
+
+The Saxo Bank Group’s employees, directors, officers and/or representatives are obliged by law to treat your data as confidential and may not pass on or use any of your data without valid legal grounds.
+
+Any of your data benefits from this full protection and will only be disclosed to third parties such as administrative or judicial authorities if the Saxo Bank Group is compelled to do so pursuant to the applicable law, or if you have given your written consent to such disclosure. You may revoke such consent or modify its extent at any time.
+
+Without prejudice to the above, the Saxo Bank Group can disclose the following information:
+
+  * General customer data, such as name, address and personal registration number, to companies carrying out administrative tasks for Saxo Bank. 
+  * General customer data about corporate customers to financial institutions subject to professional secrecy, for the purpose of marketing and advisory services. 
+
+
+
+## Insight
+
+In accordance with the provisions of the Danish Act on Processing of Personal Data, any Saxo Bank’s customer has a right to be informed about the data that Saxo Bank holds about him/her/it. Saxo Bank may charge a fee for providing such information in writing to the customer, according to rates fixed by the Danish Ministry of Justice.
+
+If the data we hold about you proves inaccurate or outdated, we will correct it immediately upon your request. 
+
+## How to correct your information with Saxo Bank Group
+
+You may also choose to modify your data on your own initiative by using the "Edit Your Profile" page which you will find in the main menu under "Member Menu". If you have any question or concern, please do not hesitate to contact us by email at [cs@saxobank.com](mailto:cs@saxobank.com) or call us on +45 39 77 40 00.
