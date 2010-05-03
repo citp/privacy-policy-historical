@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the khnl.com privacy policy that was archived on 2009-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091018181102id_/http%3A//www.khnl.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khnl.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503154942id_/http%3A//www.hawaiinewsnow.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
 
-# Privacy Policy - KHNL NBC 8 Honolulu Hawaii-
+# Privacy Policy - Hawaii News Now - KGMB and KHNL Home
 
 **This Website's Privacy Policy**
 
