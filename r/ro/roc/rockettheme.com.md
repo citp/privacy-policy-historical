@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockettheme.com privacy policy that was archived on 2009-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090720015636id_/http%3A//www.rockettheme.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockettheme.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503135321id_/http%3A//www.rockettheme.com/legal/privacy.php) for the most accurate reproduction.*
 
 # RocketTheme - Privacy Statement
 
