@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salon.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221061933id_/http%3A//www.salon.com/about/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salon.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503050333id_/http%3A//www.salon.com/about/policy) for the most accurate reproduction.*
 
 # Salon: Salon Policy
 
@@ -10,7 +10,7 @@ Salon.com respects your right to the privacy of the personal information you pro
 
 Each time a visitor comes to a Salon.com Web site, our servers -- like most on the Web -- collect some basic technical information, including, for example, the visitor's domain name (e.g., whether the user is logged on from aol.com or whitehouse.gov), referral data (e.g., we record the address of the last URL a user visited prior to clicking through to a Salon.com Web site) and browser and platform type (e.g., a Netscape browser on a Macintosh platform).
 
-We also count, track and aggregate the visitor's activity into our analysis of general traffic flows at our sites (e.g. tracking where traffic comes from, how traffic flows within the Salon.com sites, etc.). To these ends, we may merge information about visitors and visits into group data, which may then be shared on an aggregated basis with our advertisers; but we will not disclose your individual identity or personally identifiable data without your permission. When we do present aggregated information to outside companies, no one will be able to identify you or contact you. 
+We also count, track and aggregate the visitor's activity into our analysis of general traffic flows at our sites (e.g. tracking where traffic comes from, how traffic flows within the Salon.com sites, etc.). To these ends, we may merge information about visitors and visits into group data, which may then be shared on an aggregated basis with our advertisers; but we will not disclose your individual identity or personally identifiable data without your permission. When we do present aggregated information to outside companies, no one will be able to identify you or contact you.
 
 **Use of Salon.com cookies**
 
@@ -18,15 +18,15 @@ A cookie is a small amount of data that is sent to your browser from a Web serve
 
 The information about readership and site usage that Salon collects through cookies is aggregated into general reports about readership and not tied to individual identities, with one exception. Salon saves usage information collected with cookies for Premium subscribers solely for the use of our customer support team to help resolve problems subscribers may have. This Premium readership information is not used for any other purpose, shared with any party, or correlated with any other information the subscriber may have provided to order the subscription.
 
-Other companies which place advertising on our site also have the ability to assign their cookies to you in a process that Salon.com does not control. However, cookies cannot be used to identify individuals, only machines, so these advertisers will not know who you are. 
+Other companies which place advertising on our site also have the ability to assign their cookies to you in a process that Salon.com does not control. However, cookies cannot be used to identify individuals, only machines, so these advertisers will not know who you are.
 
 **Salon Premium**
 
 In order to subscribe, subscribers to our Salon Premium service provide Salon with personal information including name, address, e-mail address and credit card information. Salon keeps all such information strictly confidential and does not reuse, resell or redistribute it in any way. 
 
-Salon Premium members have the opportunity to sign up for certain third party offers which may include, but aren't limited to, magazine subscriptions and online services. Salon shares the least amount of personal information necessary to fulfill these offers with the third party responsible for the offer. In the case of a magazine subscription this information would include a member's name and shipping address. Third parties may have different policies governing the use of personal information. 
+Salon Premium members have the opportunity to sign up for certain third party offers which may include, but aren't limited to, magazine subscriptions and online services. Salon shares the least amount of personal information necessary to fulfill these offers with the third party responsible for the offer. In the case of a magazine subscription this information would include a member's name and shipping address. Third parties may have different policies governing the use of personal information.
 
-At the time of registering for their subscription, Salon Premium subscribers are asked whether they wish to receive e-mail from Salon, such as notification of new Premium benefits. Salon does not reuse or resell the list of users who have "opted in" to such mailings. 
+At the time of registering for their subscription, Salon Premium subscribers are asked whether they wish to receive e-mail from Salon, such as notification of new Premium benefits. Salon does not reuse or resell the list of users who have "opted in" to such mailings.
 
 **Salon Newsletters**
 
@@ -44,7 +44,7 @@ Salon asks senders of letters to the editor to include a phone number so we can 
 
 Salon.com offers an "e-mail a friend about this story" feature, allowing site visitors to send e-mail to friends to inform them about an article they might be interested in reading. In order for this feature to function, we ask for e-mail addresses for the recipient (so we know who to mail the message to) and from the sender (so we can tell the recipient who sent the e-mail). We do not store or save these addresses and you will not receive e-mail or other communications from Salon or its partners as a result of having used this feature.
 
-"E-mail a friend about this story" is a mail service that individual visitors to Salon.com make use of to send individual e-mails. While this tool cannot be used to send mass "spam" mailings, Salon.com has no control over how our visitors use it, and any e-mail sent through it originates with, and is the responsibility of, the sender, not Salon.com. 
+"E-mail a friend about this story" is a mail service that individual visitors to Salon.com make use of to send individual e-mails. While this tool cannot be used to send mass "spam" mailings, Salon.com has no control over how our visitors use it, and any e-mail sent through it originates with, and is the responsibility of, the sender, not Salon.com.
 
 **Table Talk**
 
