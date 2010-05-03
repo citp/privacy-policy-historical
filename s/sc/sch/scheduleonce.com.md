@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scheduleonce.com privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028141615id_/http%3A//www.scheduleonce.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scheduleonce.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504013640id_/http%3A//www.scheduleonce.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -14,7 +14,7 @@ Our definition of personal information does not include “aggregate” informat
 
 Those are the types of personal and other information we collect. You should refer to the rest of this Policy to see how we use, disclose and protect this information: 
 
-**Automatically Collected Information.**
+**Automatically collected information.**
 
 We automatically receive certain types of information whenever you interact with us. For example, when you use the Service, our systems automatically collect your IP address and the type of browser or operating system you use. 
 
@@ -22,31 +22,31 @@ We may also collect standard access information, such as the time and date of ac
 
 • Cookies. We may use cookies to collect information so that we can improve our Site by seeing which areas and features are most popular; to personalize the Site and improve the Site experience; and to track and complete transactions you have requested. Most browsers automatically accept cookies as the default setting. You can modify the setting to reject cookies or to prompt you before accepting a cookie from the sites you visit by editing browser options. If you decide not to accept our cookies, you may not be able to use some of the Site’s features or services, and you may have a less satisfactory experience. 
 
-• Web Beacons. “Web beacons” (also known as Internet tags, pixel tags, single-pixel GIFs, clear GIFs, invisible GIFs, 1-by-1 GIFs, and Web bugs) are tiny graphic files placed on a Web page which send a signal when a user has visited that page, allowing the site to collect standard access information, such as time and date of a page view, and a description of the page on which the Web beacon resides. We use Web beacons to help manage the effectiveness of our online advertising and to gather access information, such as counting the users who have visited those pages and compiling aggregated statistics about site usage; our Web beacons do not contain any personal information and we do not link Web beacons to personal information about you. 
+• Web beacons. “Web beacons” (also known as Internet tags, pixel tags, single-pixel GIFs, clear GIFs, invisible GIFs, 1-by-1 GIFs, and Web bugs) are tiny graphic files placed on a Web page which send a signal when a user has visited that page, allowing the site to collect standard access information, such as time and date of a page view, and a description of the page on which the Web beacon resides. We use Web beacons to help manage the effectiveness of our online advertising and to gather access information, such as counting the users who have visited those pages and compiling aggregated statistics about site usage; our Web beacons do not contain any personal information and we do not link Web beacons to personal information about you. 
 
-**No Information about Children.**
+**No information about children.**
 
 Our Service is not intended to be used by children under the age of 13, and we do not knowingly, directly or passively, collect information from children under the age of 13. 
 
 **USE OF PERSONAL INFORMATION**
 
-**Internal Use of Personal Information.**
+**Internal use of personal information.**
 
 All contact information and content submitted by you is stored in our database and may be archived elsewhere. Our records are stored indefinitely. 
 
-At least our system administrators and support personnel will have access to your personal information. In general, we use personal information internally to serve our users and enable them to take maximum advantage of our Service. For example, personal information is used to conduct marketing analysis, to create an individual profile and provide personalized services, to provide services or complete transactions you have requested, to anticipate and resolve problems with our Service, to respond to customer support inquiries, and to create and inform you of new products and services that better meet your needs. By using our Service, you give consent for us to communicate with you at any of the contact points you provide to us for any of the aforementioned purposes. 
+At least our system administrators and support personnel will have access to your personal information. In general, we use personal information internally to serve our users and enable them to take maximum advantage of our Service. For example, personal information is used to conduct marketing analysis, to create an individual profile and provide personalized services, to provide services or complete transactions you have requested, to anticipate and resolve problems with our Service, to respond to customer support inquiries, and to create and inform you of new products and services that better meet your needs. By using our Service, you give consent for us to communicate with you at any of the contact points you provide to us for any of the aforementioned purposes. Please note that ScheduleOnce will never initiate contact with people you invite to your meetings. 
 
-**Disclosure of Personal Information.**
+**Disclosure of personal information.**
 
 We do not rent, sell, or share personal information about you with other people or non-affiliated companies except (i) as necessary to complete a transaction you have requested, (ii) as necessary to perform internal analyses and business functions, (iii) as part of a business transfer, or (iv) when required by law or permitted to protect our rights, property, or safety. The following section describes these disclosure circumstances more fully. 
 
 • **Consent.** Unless you choose to do so, we will not disclose your personal information to third parties for their direct marketing purposes. With your consent, we may disclose your personal information to third parties so that they may provide you with products and services that you have requested. 
 
-• **Transaction Processing and Business Functions**. We may share personal information with third-party vendors who assist us in performing internal functions necessary to operate our business, or who assist us in processing and completing transactions that you have requested. In the event that we use third-party vendors to assist us in performing these functions, the third parties may not use or disclose your personal information for any other purpose. 
+• **Transaction processing and business functions**. We may share personal information with third-party vendors who assist us in performing internal functions necessary to operate our business, or who assist us in processing and completing transactions that you have requested. In the event that we use third-party vendors to assist us in performing these functions, the third parties may not use or disclose your personal information for any other purpose. 
 
-• **Internal Analysis.** We may use information about you for our own internal purposes, such as to estimate our audience size, measure aggregate traffic patterns as well as to understand demographic, customer interest, and other trends among our users. We may outsource these tasks and disclose personal information about you to third parties in aggregate, provided the use and disclosure of your personal information by these third parties is restricted to performance of such tasks. 
+• **Internal analysis.** We may use information about you for our own internal purposes, such as to estimate our audience size, measure aggregate traffic patterns as well as to understand demographic, customer interest, and other trends among our users. We may outsource these tasks and disclose personal information about you to third parties in aggregate, provided the use and disclosure of your personal information by these third parties is restricted to performance of such tasks. 
 
-• **Business Transfers.** Information about our users and the Service is one of our most important business assets. Therefore, information about our users, including personal information, will be disclosed as part of any merger or acquisition, creation of a separate business to provide the Service or fulfill products, sale or pledge of company assets as well as in the event of an insolvency, bankruptcy or receivership in which personal information would be transferred as one of the business assets of the company. 
+• **Business transfers.** Information about our users and the Service is one of our most important business assets. Therefore, information about our users, including personal information, will be disclosed as part of any merger or acquisition, creation of a separate business to provide the Service or fulfill products, sale or pledge of company assets as well as in the event of an insolvency, bankruptcy or receivership in which personal information would be transferred as one of the business assets of the company. 
 
 • **Protection of ScheduleOnce.** We may release personal information in the good faith belief that release is appropriate and necessary to comply with legal process or authority (e.g., a lawful subpoena, warrant or court order); to enforce or apply our policies; to initiate, render, bill, and collect for amounts owed to us; to protect our rights, property, or personal safety of our users, our employees, or the public; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay. 
 
@@ -72,4 +72,4 @@ We may revise and update this Policy if our practices change, as technology chan
 
 **CONTACTING US**
 
-If you have any questions or comments about this Policy, the privacy practices of the Service, or your dealings with ScheduleOnce, please [contact us](https://web.archive.org/web/20091028141615id_/http%3A//www.scheduleonce.com/contactus.aspx) via our contact form. 
+If you have any questions or comments about this Policy, the privacy practices of the Service, or your dealings with ScheduleOnce, please [contact us](https://web.archive.org/web/20100504013640id_/http%3A//www.scheduleonce.com/contactus) via our contact form. 
