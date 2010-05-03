@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uspharmacist.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103020125id_/http%3A//www.uspharmacist.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uspharmacist.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503214107id_/http%3A//www.uspharmacist.com/privacy_policy) for the most accurate reproduction.*
 
 # USPharmacist.com > Privacy Policy
 
