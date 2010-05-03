@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the triphp.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230033807id_/http%3A//triphp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triphp.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503053624id_/http%3A//www.triphp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **General policy**  
-TriPHP respects your privacy. The information that you provide us with, or that is gathered automatically helps us and third parties to monitor our service and provide you with the services that you have subscribed to. Please bear in mind that any personal information that you submit through forums, letters/emails for publication and the like may be collected by others. If you have any concerns, questions or comments please send an email via[ here](http://triphp.com/contact-us).
+TriPHP respects your privacy. The information that you provide us with, or that is gathered automatically helps us and third parties to monitor our service and provide you with the services that you have subscribed to. Please bear in mind that any personal information that you submit through forums, letters/emails for publication and the like may be collected by others. If you have any concerns, questions or comments please send an email via[ here](http://www.triphp.com/contact-us).
 
 **Email newsletters**  
 TriPHP operates email newsletters on its site. These are free to sign up to. What we ask of you is your email address, at times we may ask you for further information, which is used for demographic purposes. We do not give our email lists out to other parties unless you choose to opt in to a scheme whereby third parties may use your details for their own purposes. Our newsletters may contain promotions or advertisements from various businesses or information on other sites or services that we offer. If at any time you wish to unsubscribe from our newsletter you may do so by visiting the site you signed up with and using the unsubscribe facility. You may also email the website editor although it may take a longer time before your email address is removed than with the automatic unsubscribe facility.
@@ -30,7 +30,7 @@ From time to time we operate competitions and promotions. Participation in these
 If requested we may submit your information to local or government authorities.
 
 **Corrections / updates**  
-You may unsubscribe from our newsletters using the facilities available on the website you signed up with or by emailing the relevant online editor. If you have any problems please email via the contact page [here.](http://triphp.com/contact-us)
+You may unsubscribe from our newsletters using the facilities available on the website you signed up with or by emailing the relevant online editor. If you have any problems please email via the contact page [here.](http://www.triphp.com/contact-us)
 
 **Policy changes**  
 By using our site you agree to accept this privacy policy and are aware that our policy may change with time. Any changes to this policy will appear on this web page.
