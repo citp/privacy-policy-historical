@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spartantailgate.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101214948id_/http%3A//www.spartantailgate.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D14%26Itemid%3D38) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spartantailgate.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503130338id_/http%3A//www.spartantailgate.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D14%26Itemid%3D38) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,7 +38,7 @@ Should you receive spam or threatening/abusive private messages, they should be 
 
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
 
-We use this information to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We also use your IP address to help diagnose problems with our server and to administer our website - which includes hacks/spamming/abusive posts in which case you may be held liable. 
+We use this information to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. We also use your IP address to help diagnose problems with our server and to administer our website - which includes hacks/spamming/abusive posts in which case you may be held liable. 
 
 **Traffic Reports**
 
@@ -59,6 +59,3 @@ When Spartan Tailgate, LLC makes changes to this privacy policy we will post tho
 **Contact Information**
 
 If you have any questions regarding our privacy policy, please [contact us](http://www.spartantailgate.com/forums/sendmessage.php).
-
-  |   
----|---
