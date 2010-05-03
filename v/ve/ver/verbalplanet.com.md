@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the verbalplanet.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618084458id_/http%3A//www.verbalplanet.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verbalplanet.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503175136id_/http%3A//www.verbalplanet.com/privacy.asp) for the most accurate reproduction.*
 
-# Verbalplanet | Terms and Conditions
+# Verbalplanet | Privacy Statement
 
-By using Verbalplanet.com you accept the terms of this privacy statement. 
+Privacy Statement...
+
+By using Verbalplanet.com you accept the terms of this privacy statement.
 
 This privacy statement details the information that we collect from you and how this information is then used. When you provide us with your personal data in the manner described, you consent to the processing of all such personal data as set out in this privacy statement. Please read this privacy statement carefully. Any changes to our privacy statement in the future will be posted to the website. You should revisit this page from time to time to review any changes that we may have made. If you have any questions or comments about how we handle your personal information, please e-mail us.
 
