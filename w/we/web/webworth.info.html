@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the webworth.info privacy policy that was archived on 2009-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220050735id_/http%3A//www.webworth.info/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webworth.info privacy policy that was archived on 2010-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100503133548id_/http%3A//www.webworth.info/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,42 +8,61 @@
 <base href="http://www.webworth.info/">
 <link type="image/x-icon" href="http://www.webworth.info/favicon.ico" rel="shortcut icon"> 
 <title>Web Worth | Estimate A Web site Worth or Value - Privacy</title>
-<script type="text/javascript" src="jquery.js"></script>
-<link href="css/main.css" rel="stylesheet" type="text/css"> 
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+<link href="http://www.webworth.info/css2/style.css" rel="stylesheet" type="text/css"> 
+	<script type="text/javascript">
+	//<![CDATA[
+	$(document).ready(function() {
+  $('input.clear').each(function() {
+    $(this)
+      .data('default', $(this).val())
+      .addClass('inactive')
+      .focus(function() {
+        $(this).removeClass('inactive');
+        if($(this).val() == $(this).data('default') || '') {
+          $(this).val('');
+        }
+      })
+      .blur(function() {
+        var default_val = $(this).data('default');
+        if($(this).val() == '') {
+          $(this).addClass('inactive');
+          $(this).val($(this).data('default'));
+        }
+      });
+  });
+});
+//]]>
+</script>
 </head>
 
 <body>
-<div id="container"> 
-<div id="logo"></div>
+ <div id="page">
+    <div id="maincontent">
+        <div class="header">
+          <div class="split">
+            <a href="http://www.webworth.info/"><img class="logo" src="images/logo.png" alt="WebWorth.info"></a>
+          </div>
+          <div class="split"> 
+            <form id="form" name="form" action="site.php" method="get">
+              <input class="clear" type="text" name="url" value="Website Url http://www.google.co.uk">
+              <input type="submit" name="submit" value="submit">
+            </form>
+          </div>
+        </div>
 <ul id="menu">
    <li><a href="http://www.webworth.info" title="Website Value Calculator" target="_self">WEBSITE VALUE CALCULATOR</a></li>
    <li><a href="http://www.webworth.info/graphs/" title="Web Worth Graphs" target="_self">GRAPHS</a></li>
    <li><a href="http://www.webworth.info/latest/" title="Web Worth Latest Valuations" target="_self">LATEST VALUATIONS</a></li>
-   <li><a href="http://www.webworth.info/tags/" title="Web Worth Tag Cloud" target="_self">TAGS</a></li>
    <li><a href="http://www.webworth.info/random/" title="Random Web Worth" target="_self">RANDOM WORTH</a></li>
    <li><a href="http://www.webworth.info/sitemap/1/" title="Web Worth Sitemap" target="_self">SITEMAP</a></li>
    <li><a href="http://www.webworth.info/faq/" title="Web Worth FAQ" target="_self">FAQ</a></li>
    <li><a href="http://www.webworth.info/contact/" title="Contact Web Worth" target="_self">CONTACT</a></li>
 </ul>
  
-<script type="text/javascript">
-$(document).ready(function(){
-					$(".preloader").hide();
-					
-		});
-		
-		function showPreloader()
-		{
-			$(".preloader").show();
-		}
-		
-		function hidePreloader()
-		{
-			$(".preloader").hide();
-		}       
- </script>
+
  
- <div class="ad1">
+ <div class="row">
 <script type="text/javascript"><!--
 google_ad_client = "pub-9523061856643204";
 /* Banner 1 Long */
@@ -56,19 +75,8 @@ google_ad_height = 90;
 </script>
 </div>
 
-<div id="formdiv">
 
-<form id="form" name="form" action="site.php" method="get">
-<h3><strong>Enter a Web site URL:</strong></h3>
-  <input type="text" name="url">
-<input type="submit" name="submit" value="submit" onclick="showPreloader()">
-</form>
-<div class="preloader">
-  Getting web site worth data...<br>
-  <img src="img/preloader.gif" class="preloader" alt="Web Worth Preloader">
-</div>
-</div>
-<div class="main">
+<div class="row">
 <h1>Privacy Policy</h1>
 <p>
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="/contact/">click here</a>.
@@ -82,9 +90,10 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 
 </div>
 
-  <div class="bar">
-There are 5 Web Worth Users Online</div>
-<div class="bar">Copyright © 2009 Web Worth. All other Brand Names, Logos and Information from us are properties of their respective owners.<br> Built for accessibility: <a href="http://validator.w3.org/check?uri=referer" target="_blank" title="This site is valid XHTML Transitional">W3C</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer" title="CSS" target="_blank">CSS</a> | <a href="/privacy.php">Privacy Policy</a> | <a href="https://twitter.com/webworth">Web Worth on Twitter</a> <img src="http://www.webworth.info/img/twitter.png" style="vertical-align:middle;" border="0" height="16" width="16" alt="Follow Web Worth on Twitter">
+  <div id="footer2">
+There are 10 Web Worth Users Online<br>
+Copyright © 2009 Web Worth. All other Brand Names, Logos and Information from us are properties of their respective owners.<br> Built for accessibility: <a href="http://validator.w3.org/check?uri=referer" target="_blank" title="This site is valid XHTML Transitional">W3C</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer" title="CSS" target="_blank">CSS</a> | <a href="/privacy.php">Privacy Policy</a> | <a href="https://twitter.com/webworth">Web Worth on Twitter</a> <img src="http://www.webworth.info/img/twitter.png" style="vertical-align:middle" border="0" height="16" width="16" alt="Follow Web Worth on Twitter"> | <a href="http://www.webworth.info/www.webworth.info" target="_blank" rel="follow"><img src="http://www.webworth.info/www.webworth.info/sitewidget.gif" style="vertical-align:middle" alt="WebWorth.info Widget"></a><br>
+<a href="http://www.css-design-yorkshire.com/">CSS Web Design</a> 
 
 </div></div>
 <script type="text/javascript">
@@ -107,5 +116,9 @@ qacct:"p-3bDnOdR45IezA"
 <img src="http://pixel.quantserve.com/pixel/p-3bDnOdR45IezA.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 </noscript>
 <!-- End Quantcast tag -->
+
+<div id="footer"></div>
+</div>
+
 
 </body></html>
