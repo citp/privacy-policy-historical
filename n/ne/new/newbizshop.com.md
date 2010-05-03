@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the newbizshop.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231031752id_/http%3A//newbizshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbizshop.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503051848id_/http%3A//newbizshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
  Your privacy is of utmost importance to us here at NewBizShop Advertising Blog. Rest assured that any information you provide will only be used in accordance with this privacy statement.
 
-This policy may be updated or changed anytime and we encourage you to review it whenever you visit the site to make sure you understand how any personal information you provide will be used.
+This policy may be updated or changed anytime and we encourage you to review it whenever you visit the site to make sure you understand how any personal information you provide will be used.  
+
+
+[  
+  
+](http://snakeair2.noelmd.hop.clickbank.net/)
 
 **Routine Information Collection**
 
@@ -35,6 +40,6 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
 
-**Privacy Contact Information** [](http://newbizshop.com/2009/09/disclosure/)
+**Privacy Contact Information**
 
-Should you have any questions, concerns, or comments about our privacy policy, please contact us using directly at  **admin @ newbizshop.com.**
+snakeair (at) gmail.com
