@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justmysize.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912045220id_/http%3A//www.jms.com/cgi-bin/ncommerce/ExecMacro/info.d2w/report%3Finfo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justmysize.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503084714id_/http%3A//www.jms.com/cgi-bin/ncommerce/ExecMacro/info.d2w/report%3Finfo%3Dprivacy) for the most accurate reproduction.*
 
-# Plus Size Apparel from JMS !
+# Plus Size Clothing, Bras, Swimwear & more from Just My Size | JMS !
 
 At Hanesbrands Inc. ("Hanesbrands"), we respect our customers and understand that you may have concerns about privacy, so we have instituted privacy policies intended to ensure that your personal information is handled safely and responsibly.
 
@@ -86,4 +86,4 @@ To all other users of the Site, if you have other questions or inquiries about t
 Rural Hall, NC 27098  
 c/o Privacy Administrator**
 
-©2008 Hanesbrands Inc. All Rights Reserved.
+©2009 Hanesbrands Inc. All Rights Reserved.
