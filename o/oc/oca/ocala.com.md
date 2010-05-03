@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ocala.com privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031191959id_/http%3A//www.ocala.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocala.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503223333id_/http%3A//www.ocala.com/privacypolicy) for the most accurate reproduction.*
 
-# PRIVACYPOLICY | Ocala.com | Star-Banner
+# privacypolicy | Ocala.com | Star-Banner
 
 This Privacy Policy discloses the privacy practices for Star-Banner newspaper and Ocala.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “Star-Banner” include Ocala.com and Star-Banner newspaper. Star-Banner is part of The New York Times Regional Media Group (“NYTRMG”) – a division of The New York Times Company.
 
