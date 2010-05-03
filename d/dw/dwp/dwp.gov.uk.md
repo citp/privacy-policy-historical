@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the dwp.gov.uk privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112105320id_/http%3A//www.dwp.gov.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwp.gov.uk privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503094703id_/http%3A//www.dwp.gov.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - DWP
+# Privacy Policy - DWP
 
 This page explains the privacy policy for the Department for Work and Pensions and how we will use and protect any information we collect about you when you visit this website.
 
   * How we collect and use information
   * The Data Protection Act
   * Email
+  * DWP website survey
   * Cookies
   * Links to other websites
   * Changes to this privacy policy
@@ -21,7 +22,7 @@ We may check information about you with other information we have. We may get in
 
   * check the accuracy of information 
   * prevent or detect crime 
-  * protect public funds in other ways
+  * protect public funds in other ways 
   * use in research or statistics. 
 
 
@@ -38,6 +39,9 @@ If you want to know more about what information we have about you, or the way we
 
 To find out how we look after the personal information we hold about you, see our [Information charter](https://web.archive.org/docs/dwp-information-charter.pdf) (42KB)
 
+  * [How to request copies of information the DWP holds about you](https://web.archive.org/privacy-policy/data-protection/)
+
+
   * [Get help with PDFs](https://web.archive.org/accessibility/#pdf)
 
 
@@ -50,13 +54,13 @@ Internet email is a way of making general enquiries but it is not a secure way t
 
 top of page
 
-##  Cookies
+## Cookies
 
 Cookies are small pieces of information sent to your computer or other device when you visit a website. We may use cookies to store information which we can access when you visit our site in future. We do this to:
 
-  * improve your experience of some of our online services
-  * improve our understanding of how people use our website
-  * measure the effectiveness of online advertising.
+  * improve your experience of some of our online services 
+  * improve our understanding of how people use our website 
+  * measure the effectiveness of online advertising. 
 
 
 
