@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofoklahoma.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231023621id_/http%3A//www.bankofoklahoma.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofoklahoma.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504004744id_/http%3A//www.bankofoklahoma.com/privacy.asp) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
