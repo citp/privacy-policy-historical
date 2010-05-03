@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the skisilverstar.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621203749id_/http%3A//www.skisilverstar.com/home_showSection_ID_468.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skisilverstar.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503205546id_/http%3A//www.skisilverstar.com/home_showSection_ID_468.html) for the most accurate reproduction.*
 
 # Silver Star Mountain Resort - Privacy Policy
-
-Flash Player was not detected on your system. Please go to Adobe.com to download the latest Flash Player. 
 
 PERSONAL INFORMATION PROTECTION POLICY  
 Silver Star Mountain Resort Ltd. (the “Organization”)
