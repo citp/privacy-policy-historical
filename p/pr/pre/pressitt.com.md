@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pressitt.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101182524id_/http%3A//pressitt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressitt.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503052851id_/http%3A//pressitt.com/privacy) for the most accurate reproduction.*
 
 # Pressitt - Privacy
 
 ## Protecting your privacy
 
-Pressitt is committed to protecting your privacy. This statement is made in light of the requirements of the Data Protection Act 1998 in order to alert you to Pressitt’s data processing practices which will govern the processing of your data. If you have any queries about this statement, please contact us [Click here to contact us](https://web.archive.org/auth/contact "Contact us").
+Pressitt is committed to protecting your privacy. This statement is made in light of the requirements of the Data Protection Act 1998 in order to alert you to Pressitt�s data processing practices which will govern the processing of your data. If you have any queries about this statement, please contact us [Click here to contact us](http://pressitt.com/auth/contact "Contact us").
 
 ## How do we collect information?
 
