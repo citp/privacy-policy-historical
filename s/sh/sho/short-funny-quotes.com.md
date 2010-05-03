@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the short-funny-quotes.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525081528id_/http%3A//www.short-funny-quotes.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the short-funny-quotes.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503141447id_/http%3A//www.short-funny-quotes.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Short Funny Quotes - Privacy Policy
 
