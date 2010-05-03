@@ -1,31 +1,115 @@
-> *The following text is extracted and transformed from the drhorton.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011190445id_/http%3A//www.drhorton.com/corp/index.jsp%3Fredirect%3DdiscPrivDef) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drhorton.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503142238id_/http%3A//www.drhorton.com/Miscellaneous-Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# D.R.Horton - America's Builder
+# America's Builder - Your Privacy Rights - D.R. Horton
 
-|   
----  
-| PRIVACY POLICY  
----  
-The Online Privacy Policy of D.R. Horton, Inc.  
-At D.R. Horton, Inc. and its affiliates (collectively, "D.R. Horton"), we are dedicated to protecting your personal information and we pledge to keep it confidential and secure, in accordance with your decisions. We are rapidly developing our service to meet your needs, and therefore D.R. Horton reserves the right to modify this policy without advance notice. Currently this Online Privacy Policy applies to all users of this website, whether they are general visitors to the public portions of our web site, or consumer users who complete information forms.  
-Our Privacy Pledge  
-Our privacy pledge to you is this: we will not share any private information that personally identifies you ("personal information") with any third party, unless we have your consent.  
-The only exceptions to this pledge are that we reserve the right to disclose personal information to protect our rights or property, or as required by operation of law or the request of government regulators or other law enforcement officials and the courts (including the issuance of a valid subpoena). We shall have no duty to notify you of such compliance with the law.  
-What information do we collect?  
-D.R. Horton learns certain information about you from your visit to our site, and what we do with this information depends on what you do when you are visiting the site. This policy explains the uses we currently make of this information. This policy lets you know what choices and security you have with respect to information D.R. Horton collects.  
-Unless you complete one of the information forms, send us an e-mail, or use other products and services that are or will be available on D.R. Horton's web site, we collect and store only the following information about you: the domain from which you accessed the Internet, the date and time you access the site, and the pages you visit most frequently. This information is not linked to a user name. We use the information to measure the number of visitors to various portions of our website and to help us improve our service.  
-If you do complete one of the information forms, send us an e-mail, or use other products and services that will be available on D.R. Horton's web site, we will collect and store the information you enter. Obviously, what we collect depends upon what you enter. We reserve the right to keep all information in an off-line form, for archival purposes or as otherwise required by law.  
-   
-  
-[ ](https://web.archive.org/corp/index.jsp)
+**_YOUR PRIVACY RIGHTS_**
 
-|  | 
+The following provisions (our "Privacy Policy") set forth Your Privacy Rights with respect to this website (this "Website").  This Website is owned or operated by D.R. Horton, Inc. (who together with its affiliates, other than its mortgage company, DHI Mortgage Company, Ltd., title company affiliates doing business as DHI Title, and its insurance company, D.R. Horton Insurance Agency, Inc., are collectively referred to herein as "D.R. Horton," "we" or "us").  You may contact us at: D.R. Horton, Inc., Attn: Chief Legal Officer, 301 Commerce St., Suite 500, Ft. Worth, TX 76102.  By accessing or using this Website, you signify your acceptance of the provisions of this Privacy Policy.
 
-Copyright ©2001 - 2007 D.R. Horton, Inc. All Rights Reserved. [Terms and Conditions](https://web.archive.org/corp/index.jsp?redirect=discTermDef) | [Privacy Policy](https://web.archive.org/corp/index.jsp?redirect=discPrivDef) D.R. Horton, Inc. These materials may not be copied for commercial use or distribution and may not be framed or posted on other sites.   
+●  _CATEGORIES OF INFORMATION WE COLLECT ONLINE._
+
+●  _HOW WE USE INFORMATION WE COLLECT ONLINE._
+
+●  _CATEGORIES OF THIRD PARTIES WITH WHOM WE SHARE INFORMATION WE COLLECT ONLINE._
+
+●  _PROCESS FOR REVIEW AND TO REQUEST CHANGES TO PERSONAL INFORMATION COLLECTED ONLINE._
+
+●  _YOUR CALIFORNIA PRIVACY RIGHTS._
+
+●  _PRIVACY RIGHTS OF NON-CALIFORNIA RESIDENTS._
+
+●  _CHANGES TO OUR PRIVACY POLICY._
+
+●  _LINKS TO OTHER SITES._
+
+●  _INFORMATION FROM CHILDREN._
+
+●   _DHI MORTGAGE, DHI TITLE AND D.R. HORTON INSURANCE AGENCY._
+
+●  _EFFECTIVE DATE._  
   
----|---  
+**_CATEGORIES OF INFORMATION WE COLLECT ONLINE._** ** __**
+
+We collect information when you interact with D.R. Horton online, for example, from your visits to and use of our Website, from your email correspondence to us, from your online responses to us and from anything else that you post online, for example on Social Media pages, such as Facebook.  The information we collect may be combined with information obtained from other sources.
+
+●       _Sales Information and Information Regarding Our Homes and Communities._   If you request information about our homes or communities, we collect the information you provide, including the identity of the home and community, your name, address, phone numbers and email address.
+
+●       _Customer Service and General Inquiries Regarding Your Current D.R. Horton Home._   If you submit a warranty request, have a customer service question or other question regarding your current home, we collect the information you provide, including the nature of the warranty request, identity of your community, name, address, phone numbers and email address.
+
+●       _Job Postings._   If you submit a job application, we collect the information you provide, including your name, address, phone numbers, email address, general information regarding your position of interest, employment history, education, special skills and personal references.
+
+●       _Customer Surveys._   If you submit a response to one of our customer surveys, we collect the information you provide, including your survey response, name, address, phone numbers and email address.
+
+●       _Investor Relations and General Information Requests._   If you submit a question or request regarding investor relations or other matters, we collect the information you provide, including your name, address, phone numbers and email address.
+
+●       _Information from Other Parties._   We may collect or purchase information from other parties, for example marketing companies.  If you have responded to or interacted with third parties who share your information with us, we collect the information the third party provides to us, including your email address.
+
+●       _Social Media._   We may collect information from Social Media websites (for example, Facebook) upon which D.R. Horton maintains a page.  If you submit or post information on Social Media websites, we collect the information you provide, including your email address.
+
+●       _Automated Information_.  We have automated means of collecting information from you when you visit our Website or interact with us on the Internet.  Our purpose for collecting such information is to allow user-friendly visits to our Website, to inform us of activity concerning our Website and to support our marketing efforts.  We collect the domain from which you accessed the Internet, the date and time you accessed the Website, any referring website or IP associated with that website, the pages you visit on our Website or third party sites, the length of time spent on our Website and individual pages, browser type or version, and your Internet service provider.
+
+●       _Cookies and Beacons._   "Cookies" are small data files that a website places on your computer.  We use cookies to recognize you when you use or return to our Website and to allow you to store your login information between site visits.  You may elect to eliminate the use of cookies through your own browser.  If you elect to eliminate the use of cookies, your ability to use our Website may be adversely affected.  "Beacons" are small files embedded in webpages.  We use beacons and other tracking technology to allow us to track Webpage visits and online behavior. __  
   
-D.R. Horton offers new homes in - **Alabama:** [Birmingham](https://web.archive.org/corp/MapSearch.do?metroId=1),[Huntsville](https://web.archive.org/corp/MapSearch.do?metroId=54),[Mobile Baldwin County](https://web.archive.org/corp/DivisionSplash.do?divId=A4), **Arizona:** [Phoenix](https://web.archive.org/corp/MapSearch.do?metroId=3),[Tucson](https://web.archive.org/corp/MapSearch.do?metroId=2), **California:** [Bay Area](https://web.archive.org/corp/MapSearch.do?metroId=6),[Coachella Valley](https://web.archive.org/corp/MapSearch.do?metroId=73),[Fresno](https://web.archive.org/corp/MapSearch.do?metroId=74),[Imperial Valley](https://web.archive.org/corp/MapSearch.do?metroId=120),[Inland Empire](https://web.archive.org/corp/MapSearch.do?metroId=58),[Kern County](https://web.archive.org/corp/MapSearch.do?metroId=49),[LA Ventura County](https://web.archive.org/corp/MapSearch.do?metroId=7),[North Bay](https://web.archive.org/corp/MapSearch.do?metroId=4),[Orange County](https://web.archive.org/corp/MapSearch.do?metroId=8),[Redding](https://web.archive.org/corp/MapSearch.do?metroId=113),[Sacramento](https://web.archive.org/corp/MapSearch.do?metroId=5),[San Diego County](https://web.archive.org/corp/MapSearch.do?metroId=9),[Santa Barbara County](https://web.archive.org/corp/GetCommunity.do?dv=D8&pr=44250),[Seabridge](http://www.seabridgemarina.com/),[Stockton](https://web.archive.org/corp/MapSearch.do?metroId=123),[Victorville](https://web.archive.org/corp/MapSearch.do?metroId=77),[\- Northern California](https://web.archive.org/corp/MapSearch.do?metroId=59), **Colorado:** [Denver](https://web.archive.org/corp/DivisionSplash.do?divId=Y5),[Northern Colorado](https://web.archive.org/corp/DivisionSplash.do?divId=Y5),[Southern Colorado](https://web.archive.org/corp/DivisionSplash.do?divId=Y5), **Delaware:** [Delaware](https://web.archive.org/corp/MapSearch.do?metroId=70), **Florida:** [Central Florida](https://web.archive.org/corp/MapSearch.do?metroId=13),[North Florida](https://web.archive.org/corp/MapSearch.do?metroId=14),[Northwest](https://web.archive.org/corp/DivisionSplash.do?divId=V2),[Southeast Florida](https://web.archive.org/corp/MapSearch.do?metroId=81),[Southwest Florida](https://web.archive.org/corp/DivisionSplash.do?divId=Z8),[Space Coast](https://web.archive.org/corp/MapSearch.do?metroId=14),[Tampa](https://web.archive.org/corp/MapSearch.do?metroId=76), **Georgia:** [Atlanta](https://web.archive.org/corp/DivisionSplash.do?divId=08),[Middle Georgia](https://web.archive.org/corp/MapSearch.do?metroId=108),[Savannah](https://web.archive.org/corp/DivisionSplash.do?divId=AA), **Hawaii:** [Kauai](https://web.archive.org/corp/MapSearch.do?metroId=79),[Maui Island](https://web.archive.org/corp/MapSearch.do?metroId=18),[Oahu Island](https://web.archive.org/corp/MapSearch.do?metroId=17),[The Big Island](https://web.archive.org/corp/MapSearch.do?metroId=16), **Idaho:** [Boise](https://web.archive.org/corp/DivisionSplash.do?divId=V6), **Illinois:** [Chicago](https://web.archive.org/corp/DivisionSplash.do?divId=C4), **Louisiana:** [Baton Rouge](https://web.archive.org/corp/MapSearch.do?metroId=82), **Maryland:** [Maryland](https://web.archive.org/corp/DivisionSplash.do?divId=13), **Minnesota:** [Minneapolis](https://web.archive.org/corp/MapSearch.do?metroId=21), **Mississippi:** [Mississippi Gulf Coast](https://web.archive.org/corp/MapSearch.do?metroId=105), **North Carolina:** [Charlotte](https://web.archive.org/corp/MapSearch.do?metroId=25),[Greensboro Winston Salem](https://web.archive.org/corp/DivisionSplash.do?divId=30),[Raleigh Durham](https://web.archive.org/corp/DivisionSplash.do?divId=AU),[Wilmington](https://web.archive.org/corp/MapSearch.do?metroId=89), **New Jersey:** [New Jersey](https://web.archive.org/corp/MapSearch.do?metroId=23), **New Mexico:** [Albuquerque](https://web.archive.org/corp/MapSearch.do?metroId=24),[Las Cruces](https://web.archive.org/corp/MapSearch.do?metroId=57), **Nevada:** [Las Vegas](https://web.archive.org/corp/DivisionSplash.do?divId=05),[Laughlin](https://web.archive.org/corp/DivisionSplash.do?divId=L2),[Reno](https://web.archive.org/corp/MapSearch.do?metroId=56), **New York:** [New York](https://web.archive.org/corp/MapSearch.do?metroId=64), **Oklahoma:** [Oklahoma City](https://web.archive.org/corp/MapSearch.do?metroId=69), **Oregon:** [Albany](https://web.archive.org/corp/MapSearch.do?metroId=55),[Bend](https://web.archive.org/corp/MapSearch.do?metroId=29),[Eugene](https://web.archive.org/corp/MapSearch.do?metroId=46),[Portland](https://web.archive.org/corp/MapSearch.do?metroId=34), **Pennsylvania:** [Pennsylvania](https://web.archive.org/corp/MapSearch.do?metroId=53), **South Carolina:** [Charleston](https://web.archive.org/corp/DivisionSplash.do?divId=D5),[Columbia](https://web.archive.org/corp/DivisionSplash.do?divId=AX),[Greenville](https://web.archive.org/corp/MapSearch.do?metroId=31),[Hilton Head](https://web.archive.org/corp/DivisionSplash.do?divId=D7),[Myrtle Beach](https://web.archive.org/corp/DivisionSplash.do?divId=D6), **Texas:** [Austin](https://web.archive.org/corp/DivisionSplash.do?divId=C1),[Bryan College Station](https://web.archive.org/corp/MapSearch.do?metroId=83),[Dallas Fort Worth](https://web.archive.org/corp/MapSearch.do?metroId=35),[Houston Metro](https://web.archive.org/corp/MapSearch.do?metroId=37),[Killeen Temple Waco](https://web.archive.org/corp/DivisionSplash.do?divId=C2),[Laredo](https://web.archive.org/corp/DivisionSplash.do?divId=X3),[Lubbock](https://web.archive.org/corp/MapSearch.do?metroId=78),[Rio Grande Valley](https://web.archive.org/corp/MapSearch.do?metroId=41),[San Antonio](https://web.archive.org/corp/MapSearch.do?metroId=38), **Utah:** [Salt Lake City](https://web.archive.org/corp/MapSearch.do?metroId=42), **Virginia:** [Northern Virginia](https://web.archive.org/corp/MapSearch.do?metroId=43), **Washington:** [Eastern Washington](https://web.archive.org/corp/MapSearch.do?metroId=80),[Kitsap County Map](https://web.archive.org/corp/MapSearch.do?metroId=104),[Pierce Thurston Counties](https://web.archive.org/corp/MapSearch.do?metroId=67),[Seattle](https://web.archive.org/corp/MapSearch.do?metroId=45),[Snohomish Whatcom Counties](https://web.archive.org/corp/MapSearch.do?metroId=68), **Wisconsin:** [Kenosha](https://web.archive.org/corp/MapSearch.do?metroId=99),[River Falls](https://web.archive.org/corp/MapSearch.do?metroId=21) **West Virginia:** [West Virgina](http://www.drhorton.com/corp/MapSearch.do?metroId=43), Pensacola: Crestview, Freeport, Mary Esther, Miramar Beach/Destin, Navarre, Perdido Key, Santa Rosa Beach, DFW East: Collin, Denten, Kaufman, Rockwall, Tarrant, Ellis   
+**_HOW WE USE INFORMATION WE COLLECT ONLINE._**
+
+D.R. Horton will use and disclose the information we collect online for any lawful purpose we deem appropriate, including, without limitation, to fulfill your requests, to answer your questions, and to support direct marketing and other opportunities of D.R. Horton and third parties as described below.  In this regard, we may contact you by email, postal mail, text message, Social Media, telephone or other means regarding our products, services and promotions.  Unless required otherwise by law, D.R. Horton will treat all information that you share with us whether shared online, obtained by D.R. Horton from you in person or derived by us as a result of your visit to or use of our Website as non-confidential and non-proprietary.  D.R. Horton will utilize such information in accordance with this Privacy Policy.  If you use or visit our Website or submit to us or post any content on our Website or our Social Media pages, you agree that, with respect to such content, D.R. Horton is granted an unlimited, non-exclusive, world-wide, non-revocable, perpetual license to use, reproduce, duplicate, transmit, display, publish, create derivative works, sublicense and perform any such information for any purpose whatsoever including marketing and you agree to hold us harmless with respect thereto.  
   
+**_CATEGORIES OF THIRD PARTIES WITH WHOM WE SHARE INFORMATION WE COLLECT ONLINE._**
+
+D.R. Horton discloses the information we collect online without notice to you to the following categories of third parties:
+
+●       _Subcontractors and Service Providers Providing Services to D.R. Horton and D.R. Horton Homeowners._   If you are a D.R. Horton homeowner or prospective homeowner, we share your information with our subcontractors, service providers and developers of communities (for example, electricians, painters, land developers and telecom providers) in response to your warranty or customer service requests and to provide services to you and our other homeowners.  We may share your information with service providers who perform services on our behalf, such as sending marketing communications to you, performing surveys of our customers, managing our customer information or performing analysis for us.
+
+●       _D.R. Horton Affiliates._   We share your information with D.R. Horton affiliates, including our mortgage company, DHI Mortgage Company, Ltd., our title affiliates doing business as DHI Title and our insurance company, D.R. Horton Insurance Agency, Inc.
+
+●       _Other Third Parties ._   We may share your personal information with other third parties for their direct marketing purposes, such as marketing products and services to you.
+
+●       _Legal Requirements._   We share your information with third parties, including law enforcement, in response to legal process and to investigate, prevent or take action regarding illegal, suspicious or fraudulent activities involving the Website, you or us.
+
+●       _Business Transactions._   We share your information with potential buyers in the event of the sale or a proposed sale of a business unit or property or other business transaction. 
+
+●       _Storage._   We share your information with third parties for the purpose of helping us gather, store and maintain online data.  
   
- 
+**_PROCESS FOR REVIEW AND TO REQUEST CHANGES TO PERSONAL INFORMATION COLLECTED ONLINE._**
+
+D.R. Horton has no process for consumers who use or visit our Website to review and request changes to their personal information that is collected online by D.R. Horton.  
+  
+**_YOUR CALIFORNIA PRIVACY RIGHTS._**
+
+  
+For California residents, in accordance with California Civil Code section 1798.83(c)(2), D.R. Horton does not disclose to third parties for direct marketing purposes the personal information of any customer  with regard to whom we have collected personal information if the customer has exercised an option to prevent such disclosure.  To this end, we hereby notify you of your right to prevent our disclosure of personal information about you that we may have collected, and we provide you with a cost-free means to exercise that right by using the “opt-out” procedure described below:
+
+please follow the instructions to opt-out
+
+By opting out in accordance with the above procedures, you will also be opting out from the receipt of future commercial email correspondence from D.R. Horton.  Please be aware that we will process within a reasonable period of time your direction to us not to disclose your personal information and not to send further commercial email correspondence to you.
+
+Because D.R. Horton provides its California customers with the ability to exercise the right to “opt-out,” as described above, pursuant to California Civil Code section 1798.83(c)(2), D.R. Horton is in compliance with California’s “Shine the Light” law and is not obligated to provide California customers with the names and addresses of all third parties with whom D.R. Horton shared their personal information for the preceding calendar year.  
+  
+**_PRIVACY RIGHTS OF NON-CALIFORNIA RESIDENTS._**
+
+  
+For Non-California residents, D.R. Horton does not disclose to third parties for direct marketing purposes the personal information of any customer with regard to whom we have collected personal information if the customer has exercised an option to prevent such disclosure.  To this end, we hereby notify you of your right to prevent our disclosure of personal information about you that we may have collected, and we provide you with a cost-free means to exercise those rights by using the “opt-out” procedure described below:
+
+please follow the instructions to opt-out
+
+By opting out in accordance with the above procedures, you will also be opting out from the receipt of future commercial email correspondence from D.R. Horton.  Please be aware that we will process within a reasonable period of time your direction to us not to disclose your personal information and not to send further commercial email correspondence to you.  
+  
+**_CHANGES TO OUR PRIVACY POLICY._**
+
+D.R. Horton reserves the right to change this Privacy Policy, from time to time, without advance notice to you.  D.R. Horton will notify you of changes to this Privacy Policy by updating the Privacy Policy on our Website and providing a notice of the date on which the update was made.  
+  
+**_LINKS TO OTHER SITES._**
+
+We may provide links, through advertisements or otherwise, to other websites.  Those sites may have their own privacy policies.  We are not responsible for their content or privacy policies.  Please visit those sites to review their privacy policies.  
+  
+**_INFORMATION FROM CHILDREN._**
+
+Our Website contains general information not directed towards children.  We do not knowingly collect information from children under the age of 13.  Children under the age of 13 should not use this Website, and we encourage parents to supervise their children while online.
+
+**_DHI MORTGAGE, DHI TITLE AND D.R. HORTON INSURANCE AGENCY._** ****
+
+Please visit _www.dhimortgage.com_ to view the privacy policy of our mortgage company, DHI Mortgage Company, Ltd., _www.dhititle.com_ to view the privacy policy of our title companies doing business as DHI Title, and [www.drhortoninsurance.com](http://www.drhortoninsurance.com/) to view the privacy policy of our insurance company, D.R. Horton Insurance Agency, Inc.
+
+**_EFFECTIVE DATE._** ****
+
+This Privacy Policy is effective March 1, 2010.
