@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrn.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216122035id_/http%3A//www.nrn.com/PrivacyPolicy.aspx%3FclearMenu%3Dtrue%26globalMenuTab%3D-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrn.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503221257id_/http%3A//www.nrn.com/PrivacyPolicy.aspx%3FclearMenu%3Dtrue%26globalMenuTab%3D-1) for the most accurate reproduction.*
 
 # Nation's Restaurant News
 
@@ -26,7 +26,7 @@ Using the e-mail addresses provided at registration, NRN-Online periodically sen
 
   3.  _ **With whom does NRN-Online share the information it gathers/tracks?**_
 
-NRN-Online does not sell any of our users' personal information. We may, however, share information with carefully selected companies who we think can offer services and products of interest to you. If you do not wish to have your information shared with these companies, write to us at [jpeche@nrn.com](mailto:jpeche@nrn.com?subject=OptOut-Privacy%20Policy).
+NRN-Online does not sell any of our users' personal information. We may, however, share information with carefully selected companies who we think can offer services and products of interest to you. If you do not wish to have your information shared with these companies, please login to your [My Account](https://web.archive.org/MyAccount.aspx) page and select "No" for Special Communications emails.
 
 Although we will not sell your information, we cannot ensure, however, that your personal information will not be disclosed to third parities. By way of example, without limiting the foregoing, we may be forced to disclose information to the government under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications, or might disclose your information to other sites as part of offering additional functionality to you. Additionally, we can (and you authorize us to) disclose your personal information to private entities, law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate. Therefore, we do not promise that your personal information will remain private.
 
@@ -60,8 +60,6 @@ We use industry-standard efforts to safeguard the confidentiality of your person
 If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
 
 This Privacy Policy may be modified from time to time; notice of changes will appear on this page, so check back often. Any such changes will be prospective, never retroactive.
-
-If you have concerns or questions about any aspect of this policy, please e-mail our Online Manager at [jpeche@nrn.com](mailto:jpeche@nrn.com?subject=Question-Privacy%20Policy). We welcome your feedback.
 
 * * *
 
