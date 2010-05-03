@@ -1,120 +1,69 @@
-> *The following text is extracted and transformed from the kgmb9.com privacy policy that was archived on 2007-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070416025200id_/http%3A//www.kgmb9.com/kgmb/display.cfm%3Fsid%3D1197) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgmb9.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503154942id_/http%3A//www.hawaiinewsnow.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
 
-# KGMB9 - Hawaii's Severe Weather Station | Privacy Policy
+# Privacy Policy - Hawaii News Now - KGMB and KHNL Home
 
-[](https://web.archive.org/web/20070416025200id_/http%3A//www.kgmb9.com/kgmb/display.cfm?sid=1237)
+**This Website's Privacy Policy**
 
-  
-[](http://kgmb.titantv.com/APG/Grid.aspx?callsign=kgmb)  
+This Website (the "Website") provides a variety of online services, from interactive entertainment to electronic commerce via its relationship with Gannaway Web Holdings, LLC d/b/a WorldNow ("WorldNow"). WorldNow is the host of this Website. Because the success of this Website is dependent on building and maintaining goodwill with our customers, this Website and WorldNow (hereinafter collectively referred to as "we" or "us" or "our") are committed to implementing measures designed to protect the privacy of those using our services. Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet. 
 
+Although we respect the privacy of all those who visit the Website and use our online services, we do collect information from our Website's members and visitors. This Privacy Policy governs your interaction with the Website, and your registration for and use of this station's online services. Except as set forth within this Privacy Policy and this Website's Terms of Service and/or other published guidelines, we do not release personally identifiable information about this Website's members and visitors without their permission.
 
-  
-[](http://www.rachaelrayshow.com/)  
-___Weekdays at 3 p.m.  
-_ _  
-[](http://theinsideronline.com/)  
- _ _Weekdays at  6:30 p.m._  
-_ _  
-[](http://www.kgmb9.com/kgmb/display.cfm?storyID=9121&sid=1243)  
- _Weekends  at 4:30 p.m.___
+Please note that we review these privacy practices from time to time, and that these practices are therefore subject to change. We ask that you periodically review this page to ensure continuing familiarity with the most current version of this Website's Privacy Policy. To contact us about privacy issues, to report a violation of this Website's Privacy Policy, or to raise any other issue regarding the Website, please e-mail us at [info@raycommedia.com](mailto:Info@WorldNow.com).  Please include the URL of this Website in your email.
 
- _
+**The information we gather**
 
-[](http://www.cbs.com/)
+We gather two types of information about this Website's users:
 
-  
-Print Partner  
-[](http://www.honolulumagazine.com/)
+(1) **Non-personally identifiable information:** When visitors come to the Website, we collect and aggregate information indicating, among other things, which pages were visited, the order in which they were visited, and which hyperlinks were "clicked." Collecting such information involves the logging of IP addresses, operating system and browser software used by each visitor to the Website. Although such information is not personally identifiable, we can determine from the IP address a visitor's Internet Service Provider and the geographic location of his or her point of connectivity.
 
-_
+The non-personally identifiable information we collect helps us diagnose problems with our server, administer the Website, identify the most popular areas of the Website, and determine the effectiveness of our promotional activities. In addition, we may disclose some of this information to advertisers to inform them of the number of people who have seen and/or clicked through their advertisements.
 
-  
-[**Send News Tips**](https://web.archive.org/web/20070416025200id_/http%3A//www.kgmb9.com/kgmb/display.cfm?sid=1199)  
-Please send information about news and events to [kgmbnews@kgmb9.com](mailto:kgmbnews@kgmb9.com) or call 973-9889. 
+For the same purposes, we use "cookies"--that is, small text files placed on your computer's hard drive--to help us determine the type of content and sites to which you link, the length of time you spend at any particular area of the Website, and your usage of our services offered via the Website. Cookies also tell us which advertising you have seen on the Website.  At certain times, we may use  outside advertising companies to display advertisements on the Website that may contain cookies ("banner ads"). These banner ads collect information stored by the advertising company and we do not have access to this information.
 
-[](http://www.kamaainatermite.com/)  
-\- ADVERTISEMENT -  
+Essentially, cookies are your identification cards for our computers, or servers, that placed them there. Cookies are only read by the server that placed them, and are unable to execute any code or virus. Cookies allow us to serve you better and more efficiently, and to personalize your experience at the Website. Nevertheless, you are able to control how and whether cookies will be accepted by your web browser. For more information on how to do so, please refer to the documentation accompanying your browser.
 
+(2) **Personally identifiable information:** In certain areas of the Website, such as online surveys and contests, the Website may require that you provide personally identifiable information (including, for example, zip code, age, income, and e-mail address, and when applicable, credit card information). WorldNow, as host of the Website, has access to this information. In addition, when registering to set up an account to use certain services of the Website such as e-mail, chat rooms, and forums, or to receive certain newsletters or specifically targeted information ("Services"), we do require that you provide a valid email address.
 
-[  
-](http://www.kgmb9.com/kgmb/display.cfm?storyID=10920&sid=1211)\- ADVERTISEMENT -  
+We do not knowingly collect personally identifiable information from children younger than 13 years of age. Before registering for an account to use the Services of the Website, we ask that all minors 13 and older have their parents read this Privacy Policy.
 
+We do not control the acts of this Website's members or visitors. All members and visitors should be aware that, when they disclose personally identifiable information in a bulletin board, chat room, guestbook, or other forum, the information may be collected and used by others to send that person unsolicited e-mail from other parties outside this Website or WorldNow. In the event that you encounter any user on this Website who is improperly collecting or using information about you or other users, please contact _[info@raycommedia.com](mailto:info@raycommedia.com)_. __
 
-| 
+**How we use (and do not use) the information we gather**
 
-Posted: October 26, 2004 11:33 AM 
+Please take some time to familiarize yourself with the different ways we use the information that we gather. We cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from us or independently. Nevertheless, in the event you encounter any third party associated with, or who claims association with us who you feel is improperly collecting or using information about you, please contact [info@raycommedia.com](mailto:info@raycommedia.com); we will be happy to forward your message to the third party.
 
-[](https://web.archive.org/web/20070416025200id_/http%3A//www.kgmb9.com/kgmb/print.cfm?sid=1197&storyID=1624)
+(1) We use non-personally identifiable information in aggregate form to build higher quality, more useful online services by performing statistical analyses of the collective characteristics and behavior of the Website's members and visitors, and by measuring demographics and interests regarding specific areas of the Website. We provide statistical information based on this data to advertisers, affiliates, and other current and potential business partners. We also use the aggregate data to inform these third parties as to the number of people who have seen and clicked on links to their Websites.
 
-KGMB9.com Privacy Policy  
+The Website may contain links to other Internet Websites, including co-branded or other affiliated sites that may or may not be owned or operated by us. Unless otherwise explicitly stated, we are not responsible for the privacy practices or the content of such sites, including such sites' use of any information (such as IP number, browser type, or operating system) collected when visitors to the Website click through links to those sites. Even though such information might not identify you personally, we strongly encourage you to become familiar with the privacy practices of those sites.
 
+(2) This Privacy Policy serves as notice that personally identifiable information is collected from registrants during the registration process. You may choose to "opt in" to receiving promotional materials from us and/or our affiliates, advertisers, or other business partners. If you "opt in" to receiving such promotional materials, we reserve the right to release any personally identifiable registration information regarding you to third parties who provide goods or services that we believe may be of interest to you. We will not release your credit card information to third parties unless necessary to complete a transaction between you and such a third party. If you decide that you would like to discontinue receiving promotional information from such third parties, please contact those third parties directly, or contact us at _[info@raycommedia.com](mailto:info@raycommedia.com)_.
 
-Your privacy is important to us as a user of KGMB9.com. The following tells you more about our online practices, as well as the choices you have about how information you share with us is used.
+We limit our own e-mail contact and solicitations to those customers who have "opted in" to receiving such communications. The solicitations are limited in that they, among other things, will clearly indicate the originator of the e-mail and provide the customer with a method of "opting out" of receiving future communications of a similar nature. __
 
-**Information we gather**
+In addition, as our businesses change, we may buy or sell various assets.  In such cases, personally identifiable information about our Website users may be disclosed to the other party(ies) of the transaction.      
 
-At KGMB9.com, you can subscribe to breaking news e-mails and provide feedback to the station. In the near future, we plan to add polling and online forums. The types of information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number and information about your personal interests.
+In addition, we sometimes use demographic data to decide which advertisements and sponsor messages to show to which members. As an example, if Sponsor XYZ wishes to display their advertising only to female members of this Website, we use member registration data to ensure that Sponsor XYZ's ads are displayed only to female members.
 
-We also may collect certain information, not personally identifiable, when you visit KGMB9.com, such as the type of Internet browser you are using, the operating system of your computer, and the domain name of your Internet service provider.
+Finally, we may use individual members' data to "pre-populate" forms, which are displayed for the purpose of collecting individual data by us and/or our sponsors. In no case does pre-populating a form transfer any data to any advertiser or third party. Only if the member voluntarily requests that such data be transferred will any transfer take place--for example, if/when a member clicks a "submit form" button or other button.
 
-**How the information is used**
+We reserve the right to release any and all information contained within our access logs concerning any visitor or member when that visitor or member is in violation of our Terms of Service or other published guidelines, or partakes (or is reasonably suspected of partaking) in any illegal activity, even without a subpoena, warrant, or other court order, and to release such information in response to discovery requests, or in response to any circumstance which we, in our sole discretion, deem an emergency. We cooperate with law enforcement agencies in identifying those who may be using our servers or services for illegal activities. We reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution.  We also reserve the right to comply with subpoenas, warrants, and other court orders requesting information obtained or any information obtained or stored via our site.
 
-First and foremost, we use the information you provide in order to respond to a specific request from you. If you want breaking news and sign up for it, we'll deliver it to you in your e-mail in-box, for instane. We may also offer you other products, programs or services that we believe may be of interest to you.
+If and when we sponsor promotions or sweepstakes, or third parties sponsor promotions or sweepstakes in conjunction with us, either we or the third party may post relevant privacy information in the official rules and/or registration area for the promotion or sweepstakes. That privacy information, to the extent it conflicts with this Privacy Policy, will govern that particular promotion or sweepstakes.
 
-We sometimes use this information to communicate with you, such as to notify you when we make changes to our subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us.
+**Security**
 
-If you choose to submit content for publication (e.g., a "letter to our newsroom"), we may publish your screen name and other information you have provided to us.
+No security system is impenetrable. Accordingly, we cannot guarantee the security of any database that stores personally identifiable information in connection with this Website, nor can we guarantee that information you supply will not be intercepted while being transmitted over the Internet. Questions regarding this Privacy Policy should be directed to us at _[info@raycommedia.com](mailto:info@raycommedia.com)_. Please include the URL of this Website in your email.
 
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
+**Changing/deleting personal information**
 
-We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. In addition, we may transfer information about you if we are acquired by or merged with another company.
+If you would like to have your personally identifiable information changed or removed from our database, please contact us at _[](mailto:)[info@raycommedia.com](mailto:info@raycommedia.com)_ , and we will use reasonable efforts to comply with your request. Please include the URL of this Website in your email. Keep in mind, however, that there will be residual information that will remain within our databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however we reserve the right, from time to time, to recontact former customers or users of this Website.
 
-Agents and contractors of KGMB9 who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for KGMB9.
+**Third-Party Ad Serving**
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice.
+We use third-party advertising companies to serve ads when you visit this Website.  These companies may use information (not including your name, address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know you choices about not having this information used by these companies, please contact us at _[info@raycommedia.com](mailto:info@raycommedia.com)_ , or click here <http://www.networkadvertising.org/optout_nonppii.asp>.
 
-We may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. 
+**Questions?**
 
-Finally, KGMB9.com will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
+Questions regarding this Privacy Policy should be directed to us at _[](mailto:)[info@raycommedia.com](mailto:info@raycommedia.com)_.  Please include the URL of this Website in your email.
 
-**Third-party sites, ad servers and sponsors**
-
-Our site may contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
-
-KGMB9.com may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. KGMB9 has no control over these third parties' use of this information. 
-
-KGMB9.com may use a reputable third-party to present or serve the advertisements that you may see at its Web pages. These third-party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy policy. 
-
-**Security procedures**
-
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
-
-**How to Contact Us**
-
-If you have any questions or concerns about the KGMB9.com online policy for this site or its implementation you may contact us at [this e-mail link](mailto:gmangieri@emmis.com).
-
-From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. 
-
-The Privacy Notice posted on this site was updated on or about November 1, 2004. 
-
-| 
-
-[](http://www.kgmb9.com/kgmb/display.cfm?storyID=8288&sid=1238)  
-\- ADVERTISEMENT -  
-
-
-[](http://www.kgmb9.com/kgmb/display.cfm?storyID=9318&sid=1243)  
-\- ADVERTISEMENT -  
-
-
-[  
-](http://www.hmsa.com/)\- ADVERTISEMENT -  
-
-
-[](http://www.kgmb9.com/kgmb/display.cfm?storyID=10986&sid=1211)  
-\- ADVERTISEMENT -  
-
-
-[](http://www.cbs.com/primetime/shark)  
-\- ADVERTISEMENT -  
-
+_Effective date: January 13, 2009_
