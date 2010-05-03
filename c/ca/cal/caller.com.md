@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caller.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215003319id_/http%3A//www.caller.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caller.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503213849id_/http%3A//www.caller.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Information & News from Corpus Christi Caller-Times (Corpus Christi, TX)
 
