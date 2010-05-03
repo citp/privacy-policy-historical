@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tigerclaw.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620225159id_/http%3A//www.tigerclaw.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerclaw.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503231526id_/http%3A//www.tigerclaw.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
-# Tiger Claw :: Customer Service
+# Martial Arts Supplies, Uniforms, Sparring Gear, and More from Tiger Claw :: Customer Service
 
   
 
@@ -44,7 +44,9 @@ By adjusting your browser settings, you can be warned each time a cookie is bein
 **Your consent  
 **By using our site, you consent to our privacy policy
 
-[](http://www.gska.net/TournSched/TournSched.htm)  
-GSKA Summer Smackdown. June 20, 2009, Manteca, CA
+[](http://cmat.ucmap.org/)  
+The 18th Annual Chinese Martial Arts Tournament. May 1st, 2010, Haas Pavilion.
 
-[Read a list of all events](http://www.tigerclaw.com/events-pg-7.html "Events")
+[Read a list of all events](http://www.tigerclaw.com/events-martial-arts-pg-7.html "Events")
+
+[](https://www.concepts4kidz.com:40012/myoffice/storeonline/default.aspx?orgId=14282&category=3135)
