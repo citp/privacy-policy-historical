@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merojob.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101140031id_/http%3A//merojob.com/Privacy%26Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merojob.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503082351id_/http%3A//www.merojob.com/Privacy%26Policy.php) for the most accurate reproduction.*
 
 # Privacy & Policy
 
