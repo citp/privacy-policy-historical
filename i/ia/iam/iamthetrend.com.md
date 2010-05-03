@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iamthetrend.com privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003195937id_/http%3A//iamthetrend.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamthetrend.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503094608id_/http%3A//iamthetrend.com/privacy) for the most accurate reproduction.*
 
-# I Am The Trend: Privacy Policy
+# Privacy | I Am The Trend
 
 Privacy Policy Statement  
 This is the web site of **iamthetrend.com.**
@@ -8,8 +8,7 @@ This is the web site of **iamthetrend.com.**
 Our postal address is  
 738 Southwind Dr  
 Carpentersville, IL 60110  
-We can be reached via e-mail at info@iamthetrend.com  
-or you can reach us by telephone at 815-236-1680
+We can be reached via e-mail at [info@iamthetrend.com](mailto:info@iamthetrend.com)
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
