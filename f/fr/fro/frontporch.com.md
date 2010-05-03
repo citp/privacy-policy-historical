@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frontporch.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420035320id_/http%3A//www.frontporch.com/html/website_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontporch.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503085001id_/http%3A//www.frontporch.com/website_privacy_policy.html) for the most accurate reproduction.*
 
-# Front Porch Website Privacy Policy
+# Front Porch - Website Privacy Policy
 
 Website Privacy Policy  
 Front Porch is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Website Privacy Policy applies to this website and governs data collection and usage by the Front Porch family of websites. By using this site or other Front Porch website properties, you consent to the data practices described in this statement.
@@ -24,6 +24,9 @@ One of the primary purposes of cookies is to provide a convenience feature to sa
 
 You have the ability to accept or decline cookies. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience interactive features of our websites. 
 
+**Website Publisher’s Choice**  
+As the owner or the webmaster of a domain, you can determine if Internet provider messages to their subscribers can be served alongside your content. To learn more or activate that choice, _[click here](https://web.archive.org/web/20100503085001id_/http%3A//www.frontporch.com/pubchoice.html)_.
+
 **Security of your Personal Information**  
 Front Porch secures your personal information from unauthorized access, use or disclosure. Front Porch secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information is transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
@@ -32,5 +35,3 @@ Front Porch will occasionally update this Website Privacy Policy to reflect comp
 
 **Contact Information**  
 Front Porch welcomes your comments regarding this Website Privacy Policy. If you believe that Front Porch has not adhered to this Statement, please contact Front Porch at [PrivacyPolicy@frontporch.com](mailto:PrivacyPolicy@frontporch.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
-
-May 2008
