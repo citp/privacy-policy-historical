@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurobi.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223005707id_/http%3A//gurobi.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurobi.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503053042id_/http%3A//www.gurobi.com/html/privacy.html) for the most accurate reproduction.*
 
 # Gurobi Optimization :: Privacy Policy
 
