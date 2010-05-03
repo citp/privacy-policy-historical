@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibtimes.co.in privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503032104id_/http%3A//www.ibtimes.co.in/aboutus/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibtimes.co.in privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503221150id_/http%3A//www.ibtimes.co.in/aboutus/policy.htm) for the most accurate reproduction.*
 
 # International Business Times - Policy
 
