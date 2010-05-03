@@ -1,72 +1,31 @@
-> *The following text is extracted and transformed from the cashquickstart.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123191735id_/http%3A//www.cashquickstart.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashquickstart.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503045912id_/http%3A//www.cashquickstart.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy
+# Cash Quick Start
 
-**PRIVACY STATEMENT**
+1\. Our Commitment to Privacy. This notice describes our Privacy Policy. Our Privacy Policy is designed to advise you about how we collect, use, and protect the Personally Identifiable Information you provide. By visiting this site, you are accepting the practices described in this Privacy Policy. 
 
-Your privacy is important to Cash Quick Start.  This privacy statement provides information about the personal information that Cash Quick Start collects, and the ways in which Cash Quick Start uses that personal information.
+2\. What Information is Collected.
 
-**Personal information collection**
+(a) Information You Provide to Us:  We collect the Personally Identifiable Information you choose to enter on various pages of our site, or that you may choose to give us in some other way (such as by email, physical mail, or by telephone). For example, you will be asked to provide Personally Identifiable Information when you register for access to certain portions of our site, sign up for newsletters or mailings, or make a purchase. The categories of Personally Identifiable Information we collect are your first and last name, e-mail address, physical address, and telephone number. You can choose not to provide certain information, but you may not be able to take advantage of our services and features.
 
-Cash Quick Start may collect and use the following kinds of personal information: 
+(b) Automatic Information:  When you visit a website, you disclose certain information, such as your Internet Protocol (IP) address and the time of your visit. This site, like many other sites, records this basic information about visits to our site.
 
-  * information about your use of this website (including google analytics (your name or personal information is not shown)) 
-  * information about transactions carried out over this website
-  * information that you provide for the purpose of subscribing to the website services
-  * any other information that you send to Cash Quick Start.
+(c) “Cookies”:  Cookies are pieces of information that are transferred to your computer from a web server. We use cookies to store visitor preferences, record session information (such as items that you add to your shopping cart) record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, and to customize Web page content based on visitors' browser type or other information that the visitor sends. Most browsers are set up to accept cookies, but you can change your settings to have your browser notify you when you receive a new cookie or you can change your settings to refuse to accept cookies.
 
+3\. How and When the Information is Used. The information we collect is used for administering our business activities as follows: (a) to improve the content of our site;
 
+(b) to customize the content and/or layout of site pages for each individual visitor; (c) used to notify consumers about updates to our Web site; (d) shared with other reputable organizations to help them contact consumers for marketing purposes; (e) used by us to contact consumers for marketing purposes. 4\. How We Protect Your Information. The privacy and protection of your information is important to us. We offer some of our services in connection with other web sites. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. Your access to some services and content is password protected. We advise that you do not disclose your password to anyone. In addition, we recommend you sign out of password-protected services at the end of your session. You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control and this policy.
 
-**Using personal information**
+5\. Who Has Access to the Information. Information about our users is important to us. Access to your information may be provided to third parties who provide technical support for the operation of our site. In addition, we may sell our business or buy, merge or partner with other companies or businesses. In such transactions, user information may be transferred along with other assets. We may also disclose your information in response to a court order and we may disclose your information when we believe we are required to do so by law. We may disclose your information in connection with the collection of amounts you may owe to us and to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure.
 
-Cash Quick Start may use your personal information to: 
+6\. Methods We Use to Protect Your Information. We use security software to protect the confidentiality of your personal information. In addition, our business practices are reviewed periodically for compliance with policies and procedures governing the security and confidentiality of our information. Our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons.
 
-  * send to you products that you purchase or request;
-  * supply to you services that you purchase;
-  * send you statements and invoices;
-  * collect payments from you; and
-  * send you marketing communications.
+7\. Children. This website does not provide services or sell products to children under the age of 18. If we discover we have received any information from a child under the age of 18 in violation of this policy, we will delete that information immediately. If you believe we have received any information from or about anyone under the age of 18, please contact us at the address listed below. 8\. How You Can Access Your Information. You can request access to all your personally identifiable information maintained by us by sending an e-mail to us at the address listed below. Upon request we offer you the ability to have inaccuracies corrected in your personally identifiable information. You can have this information corrected by sending us an e-mail at the address listed below.
 
+9\. Consent. By using our website, you consent to the collection and use of your personal information as described in this Privacy Policy.
 
+10\. Changes to Privacy Policy. If our Privacy Policy or procedures change, we will immediately post those changes to our website. Any such changes will be effective immediately upon being posted, unless otherwise stated in the change.
 
-Where Cash Quick Start discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement. 
+11\. Effective Date. This Privacy Policy is effective as of May 02, 2010.
 
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, Cash Quick Start may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
-
-**Securing of your data**
-
-Cash Quick Start will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
-
-Cash Quick Start will store all the personal information you provide on its secure servers. 
-
-Information relating to electronic transactions entered into via this website will be  protected by encryption technology.
-
-**Cross-border data transfers**
-
-Information that Cash Quick Start collects may be stored and processed in and transferred between any of the countries in which Cash Quick Start operates to enable the use of the information in accordance with this privacy policy.
-
-In addition, personal information that you submit for publication on the website will be published on the internet and may be available around the world.
-
-You agree to such cross-border transfers of personal information.
-
-**Updating this statement**
-
-Cash Quick Start may update this privacy policy by posting a new version on this website. 
-
-You should check this page occasionally to ensure you are familiar with any changes. 
-
-**Other websites**
-
-This website contains links to other websites. 
-
-Cash Quick Start is not responsible for the privacy policies or practices of any third party.
-
-If you have any questions about this privacy policy or Cash Quick Start treatment of your personal information, please write to:
-
-  * by email to **jefbode@gmail.com**
-
-
-
-**This privacy statement**
-
-This privacy statement is based on an original template created by [website-contracts.co.uk](http://www.website-contracts.co.uk/) and distributed by [freenetlaw.com](http://www.freenetlaw.com/)[.](http://www.freenetlaw.com/)
+12\. Contact E-Mail. You may contact us concerning this Privacy Policy at the following e-mail address: jefbode@gmail.com
