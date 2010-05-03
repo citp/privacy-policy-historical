@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pwc.com.au privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101085103id_/http%3A//www.pwc.com.au/contact-us/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwc.com.au privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503143632id_/http%3A//www.pwc.com.au/contact-us/privacy-policy.htm) for the most accurate reproduction.*
 
-# CONTACT US - Site Policies - PwC Privacy Policy
+# PwC PricewaterhouseCoopers Australia - CONTACT US - Privacy Policy
 
 **Working Together**
 
-This privacy policy applies to PricewaterhouseCoopers (ABN 52 780 433 757) and any entity owned or controlled by PricewaterhouseCoopers (“Related Entity”) in relation to PricewaterhouseCoopers' and its Related Entities’ (together “PricewaterhouseCoopers”) operations in Australia. This policy explains how PricewaterhouseCoopers handles personal information and complies with the requirements of the Australian Privacy Act 1988 (Cth) (“Privacy Act”). If you have any further questions in relation to this policy, please contact our Privacy Officer at [privacy.officer@au.pwc.com](mailto:privacy.officer@au.pwc.com).
+This privacy policy applies to PricewaterhouseCoopers (ABN 52 780 433 757) and any entity owned or controlled by PricewaterhouseCoopers (“Related Entity”) in relation to PricewaterhouseCoopers' and its Related Entities' (together “PricewaterhouseCoopers”) operations in Australia. This policy explains how PricewaterhouseCoopers handles personal information and complies with the requirements of the Australian Privacy Act 1988 (Cth) (“Privacy Act”). If you have any further questions in relation to this policy, please contact our Privacy Officer at [privacy.officer@au.pwc.com](mailto:privacy.officer@au.pwc.com).
 
-This policy relates to PricewaterhouseCoopers’ collection and handling of personal information that is covered by the Privacy Act. It is not intended to cover categories of personal information that are not covered by the Privacy Act.
+This policy relates to PricewaterhouseCoopers' collection and handling of personal information that is covered by the Privacy Act. It is not intended to cover categories of personal information that are not covered by the Privacy Act.
 
 **Collection of personal information**
 
@@ -21,7 +21,7 @@ We collect most information directly from individuals when we deal with them. Th
 The main purposes in collecting personal information about individuals are:
 
   * to provide our services;
-  * to respond to an individual’s request;
+  * to respond to an individual's request;
   * to maintain contact with clients;
   * to keep clients and other contacts informed of the services we offer and industry developments that may be of interest to them, and to notify them of service offerings, seminars and other events we are holding;
   * for general management and reporting purposes, such as invoicing and account management;
@@ -60,7 +60,7 @@ If PricewaterhouseCoopers' staff obtain products or services offered by a third 
 
 **Transfer of information outside Australia**
 
-As part of a global network of PricewaterhouseCoopers firms, PricewaterhouseCoopers exchanges information, including personal information, between our offices. As a result, we may transfer personal information outside Australia to countries whose privacy laws do not provide the same level of protection as Australia’s. PricewaterhouseCoopers may also use overseas facilities to process or back-up its information. As a result, we may transfer your personal information to our overseas facilities for these purposes.
+As part of a global network of PricewaterhouseCoopers firms, PricewaterhouseCoopers exchanges information, including personal information, between our offices. As a result, we may transfer personal information outside Australia to countries whose privacy laws do not provide the same level of protection as Australia's. PricewaterhouseCoopers may also use overseas facilities to process or back-up its information. As a result, we may transfer your personal information to our overseas facilities for these purposes.
 
 However, any such transfer of information does not change any of our commitments to safeguard your privacy and the information remains subject to existing confidentiality obligations.
 
@@ -72,15 +72,15 @@ Cookies may be used on some areas of our websites. A cookie is a small software 
 
 If you are concerned about cookies, most browsers now recognise when a cookie is offered and permit you to opt out of receiving it. If you are not sure whether your browser has this capability, you should check with the software manufacturer or your internet service provider. In most cases, you can refuse a cookie and still fully navigate the PricewaterhouseCoopers websites.
 
-In order to properly manage our websites, we may log certain statistics about the users of the sites, for example the users’ domains and browser types. None of this information specifically identifies an individual and it is used solely to ensure that our websites present the best possible navigational experience for visitors.
+In order to properly manage our websites, we may log certain statistics about the users of the sites, for example the users' domains and browser types. None of this information specifically identifies an individual and it is used solely to ensure that our websites present the best possible navigational experience for visitors.
 
-Whenever a registered member (such as a PricewaterhouseCoopers alumnus) logs in to our websites, they will be identified by their user name and password. The information we collect about members’ use of our websites is used purely for measuring site performance and in assisting to resolve any technical difficulties.
+Whenever a registered member (such as a PricewaterhouseCoopers alumnus) logs in to our websites, they will be identified by their user name and password. The information we collect about members' use of our websites is used purely for measuring site performance and in assisting to resolve any technical difficulties.
 
-Because PricewaterhouseCoopers wants your website experience to be as informative and resourceful as possible, we provide a number of links to websites operated by third parties. PricewaterhouseCoopers is not responsible for the privacy practices or policies of those sites. We encourage you to review each website’s privacy policy, especially if you intend to disclose any personal information via that site. A link to another non-PricewaterhouseCoopers website is not an express or implied endorsement, promotion or warranty of the products or services offered by or accessible through that site or advertised on that site.
+Because PricewaterhouseCoopers wants your website experience to be as informative and resourceful as possible, we provide a number of links to websites operated by third parties. PricewaterhouseCoopers is not responsible for the privacy practices or policies of those sites. We encourage you to review each website's privacy policy, especially if you intend to disclose any personal information via that site. A link to another non-PricewaterhouseCoopers website is not an express or implied endorsement, promotion or warranty of the products or services offered by or accessible through that site or advertised on that site.
 
 **Security of Personal Information**
 
-Depending on the purpose for which we have collected personal information (for example, registration for a PricewaterhouseCoopers event or a request for particular information or material), we may store some of the information electronically in PricewaterhouseCoopers’ customer relationship management system. Some or all of this personal information may be available to partners and authorised staff of PricewaterhouseCoopers for use in accordance with this policy.
+Depending on the purpose for which we have collected personal information (for example, registration for a PricewaterhouseCoopers event or a request for particular information or material), we may store some of the information electronically in PricewaterhouseCoopers' customer relationship management system. Some or all of this personal information may be available to partners and authorised staff of PricewaterhouseCoopers for use in accordance with this policy.
 
 PricewaterhouseCoopers will endeavour to take all reasonable steps to keep secure any information which we hold about you, whether electronically or in hard-copy, and to keep this information accurate and up to date. We also require our employees and data processors to respect the confidentiality of any personal information held by PricewaterhouseCoopers.
 
@@ -90,7 +90,7 @@ PricewaterhouseCoopers aims to achieve industry best practice in the security of
 
 We will provide access to personal information upon request by an individual, except in the limited circumstances in which it is permitted for us to withhold this information (for instance, where granting access would infringe another person's privacy).
 
-When you make a request to access personal information, we will require you to provide some form of identification (such as a driver’s licence or passport) so we can verify that you are the person to whom the information relates. In some cases we may also request an administrative fee to cover the cost of access.
+When you make a request to access personal information, we will require you to provide some form of identification (such as a driver's licence or passport) so we can verify that you are the person to whom the information relates. In some cases we may also request an administrative fee to cover the cost of access.
 
 If at any time you want to know what personal information we hold about you, you may contact us by writing to: The National Privacy Office, PricewaterhouseCoopers, 201 Sussex Street, Sydney, or emailing us at [privacy.officer@au.pwc.com](mailto:privacy.officer@au.pwc.com).
 
