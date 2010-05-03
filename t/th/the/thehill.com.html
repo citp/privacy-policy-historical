@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thehill.com privacy policy that was archived on 2009-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091102045908id_/http%3A//thehill.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thehill.com privacy policy that was archived on 2010-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100503143209id_/http%3A//thehill.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
 	  <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -9,7 +9,7 @@
   <meta name="author" content="Administrator">
   <meta name="publication_date" content="2007-02-06">
   <meta name="description" content="The Hill is a congressional newspaper that publishes daily when Congress is in session, with a special focus on business and lobbying, political campaigns and goings on on Capitol Hill.">
-  <meta name="generator" content="29">
+  <meta name="generator" content="41">
   <title>Privacy Policy - TheHill.com</title>
   <link href="/templates/thehill/favicon.ico" rel="shortcut icon" type="image/x-icon">
   <script type="text/javascript" src="/media/system/js/mootools.js"></script>
@@ -21,22 +21,86 @@
 	<link rel="stylesheet" href="/templates/thehill/css/template_css_w_right.css" type="text/css">
 	<link rel="stylesheet" href="/templates/thehill/css/template_css_n_right.css" type="text/css">
 	<link rel="stylesheet" href="/templates/thehill/css/topmenu.css" type="text/css">
-	<link rel="image_src" href="http://thehill.com/images/sm_hill_logo.gif">
-	<style>
-		li.item435,li.item437,li.item439,li.item441,li.item443,li.item497,li.item499,li.item501,li.item503,li.item605,li.item689,li.item691,li.item693,li.item695,li.item697		{
+		<style>
+		li.item435,li.item437,li.item439,li.item441,li.item443,li.item497,li.item499,li.item501,li.item503,li.item605,li.item689,li.item691,li.item693,li.item695,li.item697,li.item683,li.item685		{
 			display: none;
 		}
 	</style>
+<link rel="image_src" href="http://thehill.com/images/sm_hill_logo.gif">
 
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+	<script type="text/javascript" src="/media/system/js/mootools.js"></script>
+	<script type="text/javascript" src="/media/system/js/caption.js"></script>
 	<script type="text/javascript" src="/media/system/js/tabs.js"></script>
 	<script type="text/javascript">
 			window.onload = function(){ $$('dl.tabs').each(function(tabs){ new JTabs(tabs, {}); }); }
 	</script>
+	<script type="text/javascript">
+	var currentMenu;
+	
+	var changeMenu = function() {
+		if (currentMenu && currentMenu.hasClass('over_menu')){
+			currentMenu.removeClass('over_menu');
+		}
+		currentMenu = this;
+		var mainMenu = this.getElement('div');
+		this.addClass('over_menu');
+		$$('#navlist li div').each(function(el){ el.style.display = 'none'; });
+		if ($defined(mainMenu)) {
+			mainMenu.style.display = 'block';
+		}
+	};
+	
+	var hideMenu = function() {
+		if (currentMenu && currentMenu.hasClass('over_menu')){
+			currentMenu.removeClass('over_menu');
+		}
+		$$('#navlist li div').each(function(el){ el.style.display = 'none'; });
+	};
+	
+	window.addEvent('load', function(){
+		$$('#navlist li').each(function(el){
+			var mainMenu = el.getElement('ul');
+			if ($defined(mainMenu)) {
+				var div  = new Element('div');
+				div.style.display = 'none';
+				el.adopt(div);
+				var table  = new Element('table');
+				div.adopt(table);
+				var menuItems = mainMenu.getChildren();
+				var colums = 2;
+				var rowNumber = Math.ceil(menuItems.length / colums);
+				for (var i=0; i < colums; i++ ) {
+					var tr  = new Element('tr');
+					table.adopt(tr);
+					for (var j=0; j < rowNumber; j++) {
+						var item_number = i * rowNumber + j;
+						var td = new Element('td', {'nowrap':'nowrap'});
+						if ($defined(menuItems[item_number])) {
+							td.innerHTML = menuItems[item_number].innerHTML;
+						}
+						tr.adopt(td);
+					}
+				}
+			}
+		});
+		$$('#navlist li').each(function(el){ el.addEvent('mouseover', changeMenu); });
+		$$('#navlist li').each(function(el){ el.addEvent('mouseout', hideMenu); });
+	});
+	</script>
 </head>
 <body>
+	<script>
+if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) {
+
+document.write('<div align="center"><a href="itms://itunes.apple.com/us/app/the-hill/id360124019?mt=8"><img src="/images/misc_images/iphone_promo_950x90.jpg" width="950" height="90" border="0" alt="Download TheHill.com iPhone App Free!" /></a></div>');
+
+}
+</script>
 	<table id="main" align="center" cellspacing="0" border="0">
 		<tbody><tr>
-			<td colspan="3" id="topbanner">
+			<td colspan="2" id="topbanner">
 				<!-- ROS -->
 <script type="text/javascript"><!--//<![CDATA[
    var m3_u = (location.protocol=='https:'?'https://ad.thehill.com/www/delivery/ajs.php':'http://ad.thehill.com/www/delivery/ajs.php');
@@ -51,11 +115,11 @@
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://ad.thehill.com/www/delivery/ajs.php?zoneid=97&amp;cb=57108255142&amp;loc=https%3A//web.archive.org/web/20091102045908id_/http%253A//thehill.com/privacy-policy"></script><noscript><a href='http://ad.thehill.com/www/delivery/ck.php?n=afcb50a0&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.thehill.com/www/delivery/avw.php?zoneid=97&cb=INSERT_RANDOM_NUMBER_HERE&n=afcb50a0' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://ad.thehill.com/www/delivery/ajs.php?zoneid=97&amp;cb=31777630192&amp;loc=https%3A//web.archive.org/web/20100503143209id_/http%253A//thehill.com/privacy-policy"></script><noscript><a href='http://ad.thehill.com/www/delivery/ck.php?n=afcb50a0&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.thehill.com/www/delivery/avw.php?zoneid=97&cb=INSERT_RANDOM_NUMBER_HERE&n=afcb50a0' border='0' alt='' /></a></noscript>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" id="head">
+			<td colspan="2" id="head">
 				<table cellspacing="0">
 					<tbody><tr>
 						<td id="lear">
@@ -73,7 +137,7 @@
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://ad.thehill.com/www/delivery/ajs.php?zoneid=98&amp;cb=93607868479&amp;loc=https%3A//web.archive.org/web/20091102045908id_/http%253A//thehill.com/privacy-policy"></script><noscript><a href='http://ad.thehill.com/www/delivery/ck.php?n=a26ec894&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.thehill.com/www/delivery/avw.php?zoneid=98&cb=INSERT_RANDOM_NUMBER_HERE&n=a26ec894' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://ad.thehill.com/www/delivery/ajs.php?zoneid=98&amp;cb=31932312608&amp;loc=https%3A//web.archive.org/web/20100503143209id_/http%253A//thehill.com/privacy-policy"></script><noscript><a href='http://ad.thehill.com/www/delivery/ck.php?n=a26ec894&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.thehill.com/www/delivery/avw.php?zoneid=98&cb=INSERT_RANDOM_NUMBER_HERE&n=a26ec894' border='0' alt='' /></a></noscript>
 
 
 						</td>
@@ -81,7 +145,7 @@
 							<a href="/"><img src="/templates/thehill/images/bg_headhill.jpg" alt="" style="margin-top:15px;"></a>
 						</td>
 						<td id="rear">
-							<div class="date">Sunday, November 01, 2009</div><div class="fields">
+							<div class="date">Monday, May 03, 2010</div><div class="fields">
 	<form method="get" action="/index.php" class="search">
 		<input name="as_q" class="search" type="text" size="20" value="Search TheHill.com" onblur="if(this.value=='') this.value='Search TheHill.com';" onfocus="if(this.value=='Search TheHill.com') this.value='';"><input type="image" value="Search" class="go" src="/templates/thehill/images/bg_gobutton.jpg" name="btnG">		<input type="hidden" value="315" name="Itemid">
 		<input type="hidden" value="com_gsearch" name="option">
@@ -96,23 +160,26 @@
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" id="premenu"><img src="/templates/thehill/images/premenu_search.jpg" alt="" align="right"></td>
+			<td colspan="2" id="premenu"><img src="/templates/thehill/images/premenu_search.jpg" alt="" align="right"></td>
 		</tr>
 		<tr>
-			<td colspan="3" id="menu">
+			<td colspan="2" id="menu">
 					<div id="top_menu">
-						<ul class="menu_top" id="navlist"><li class="parent item90"><a href="/"><span>Home/News</span></a></li><li class="parent item95"><a href="/news-by-subject"><span>News by Subject</span></a></li><li class="parent item100"><a href="/blogs"><span>Blogs</span></a></li><li class="parent item105"><a href="/business-a-lobbying"><span>Business &amp; Lobbying</span></a></li><li class="parent item657"><a href="/hillicon-valley"><span>Technology</span></a></li><li class="parent item108"><a href="/opinion"><span>Opinion</span></a></li><li class="parent item114"><a href="/capital-living"><span>Capital Living</span></a></li><li class="item316"><a href="/resources/classifieds/employer"><span>Jobs</span></a></li><li class="parent item116"><a href="/special-reports"><span>Special Reports</span></a></li><li class="parent item117"><a href="/resources"><span>Resources</span></a></li></ul>
+						<ul class="menu_top" id="navlist"><li class="parent item843"><a href="/"><span>Home/News</span></a><ul><li class="item845"><a href="/homenews/senate"><span>Senate</span></a></li><li class="item847"><a href="/homenews/house"><span>House</span></a></li><li class="item849"><a href="/homenews/administration"><span>Administration</span></a></li><li class="item851"><a href="/homenews/campaign"><span>Campaign</span></a></li><li class="item853"><a href="/business-a-lobbying"><span>Business &amp; Lobbying</span></a></li></ul><div style="display: none;"><table><tr><td nowrap="nowrap"><a href="/homenews/senate"><span>Senate</span></a></td><td nowrap="nowrap"><a href="/homenews/house"><span>House</span></a></td><td nowrap="nowrap"><a href="/homenews/administration"><span>Administration</span></a></td></tr><tr><td nowrap="nowrap"><a href="/homenews/campaign"><span>Campaign</span></a></td><td nowrap="nowrap"><a href="/business-a-lobbying"><span>Business &amp; Lobbying</span></a></td><td nowrap="nowrap"></td></tr></table></div></li><li class="parent item855"><a href="/news-by-subject"><span>News by Subject</span></a><ul><li class="item857"><a href="/news-by-subject/defense-homeland-security"><span>Defense &amp; Homeland Security</span></a></li><li class="item859"><a href="/news-by-subject/energy-environment"><span>Energy &amp; Environment</span></a></li><li class="item861"><a href="/news-by-subject/healthcare"><span>Healthcare</span></a></li><li class="item863"><a href="/news-by-subject/finance-economy"><span>Finance &amp; Economy</span></a></li><li class="item865"><a href="/news-by-subject/technology"><span>Technology</span></a></li><li class="item867"><a href="/news-by-subject/foreign-policy"><span>Foreign Policy</span></a></li><li class="item869"><a href="/news-by-subject/labor"><span>Labor</span></a></li><li class="item871"><a href="/news-by-subject/transportation-infrastructure"><span>Transportation &amp; Infrastructure</span></a></li></ul><div style="display: none;"><table><tr><td nowrap="nowrap"><a href="/news-by-subject/defense-homeland-security"><span>Defense &amp; Homeland Security</span></a></td><td nowrap="nowrap"><a href="/news-by-subject/energy-environment"><span>Energy &amp; Environment</span></a></td><td nowrap="nowrap"><a href="/news-by-subject/healthcare"><span>Healthcare</span></a></td><td nowrap="nowrap"><a href="/news-by-subject/finance-economy"><span>Finance &amp; Economy</span></a></td></tr><tr><td nowrap="nowrap"><a href="/news-by-subject/technology"><span>Technology</span></a></td><td nowrap="nowrap"><a href="/news-by-subject/foreign-policy"><span>Foreign Policy</span></a></td><td nowrap="nowrap"><a href="/news-by-subject/labor"><span>Labor</span></a></td><td nowrap="nowrap"><a href="/news-by-subject/transportation-infrastructure"><span>Transportation &amp; Infrastructure</span></a></td></tr></table></div></li><li class="parent item873"><a href="/business-a-lobbying"><span>Business &amp; Lobbying</span></a><ul><li class="item875"><a href="/business-a-lobbying/k-street-insiders"><span>K Street Insiders</span></a></li><li class="item877"><a href="/business-a-lobbying/lobbying-contracts"><span>Lobbying Contracts</span></a></li><li class="item879"><a href="/business-a-lobbying/lobbying-hires"><span>Lobbying Hires</span></a></li><li class="item881"><a href="/business-a-lobbying/lobbying-revenue"><span>Lobbying Revenue</span></a></li></ul><div style="display: none;"><table><tr><td nowrap="nowrap"><a href="/business-a-lobbying/k-street-insiders"><span>K Street Insiders</span></a></td><td nowrap="nowrap"><a href="/business-a-lobbying/lobbying-contracts"><span>Lobbying Contracts</span></a></td></tr><tr><td nowrap="nowrap"><a href="/business-a-lobbying/lobbying-hires"><span>Lobbying Hires</span></a></td><td nowrap="nowrap"><a href="/business-a-lobbying/lobbying-revenue"><span>Lobbying Revenue</span></a></td></tr></table></div></li><li class="parent item883"><a href="/opinion"><span>Opinion</span></a><ul><li class="item885"><a href="/opinion/columnists"><span>Columnists</span></a></li><li class="item887"><a href="/opinion/editorials"><span>Editorials</span></a></li><li class="item889"><a href="/opinion/letters"><span>Letters</span></a></li><li class="item891"><a href="/opinion/op-ed"><span>Op-Ed</span></a></li><li class="item893"><a href="/opinion/weyants-world"><span>Weyants World</span></a></li></ul><div style="display: none;"><table><tr><td nowrap="nowrap"><a href="/opinion/columnists"><span>Columnists</span></a></td><td nowrap="nowrap"><a href="/opinion/editorials"><span>Editorials</span></a></td><td nowrap="nowrap"><a href="/opinion/letters"><span>Letters</span></a></td></tr><tr><td nowrap="nowrap"><a href="/opinion/op-ed"><span>Op-Ed</span></a></td><td nowrap="nowrap"><a href="/opinion/weyants-world"><span>Weyants World</span></a></td><td nowrap="nowrap"></td></tr></table></div></li><li class="parent item895"><a href="/capital-living"><span>Capital Living</span></a><ul><li class="item897"><a href="/capital-living/in-the-know"><span>Gossip: In The Know</span></a></li><li class="item899"><a href="/capital-living/cover-stories"><span>Cover Stories</span></a></li><li class="item901"><a href="/capital-living/food-and-drink"><span>Food &amp; Drink</span></a></li><li class="item903"><a href="/capital-living/announcements"><span>Announcements</span></a></li><li class="item905"><a href="/capital-living/meet-the-lawmaker"><span>Meet the Lawmaker</span></a></li><li class="item907"><a href="/capital-living/onward-and-upward"><span>Onward &amp; Upward</span></a></li><li class="item909"><a href="/capital-living/20-questions"><span>20 Questions</span></a></li></ul><div style="display: none;"><table><tr><td nowrap="nowrap"><a href="/capital-living/in-the-know"><span>Gossip: In The Know</span></a></td><td nowrap="nowrap"><a href="/capital-living/cover-stories"><span>Cover Stories</span></a></td><td nowrap="nowrap"><a href="/capital-living/food-and-drink"><span>Food &amp; Drink</span></a></td><td nowrap="nowrap"><a href="/capital-living/announcements"><span>Announcements</span></a></td></tr><tr><td nowrap="nowrap"><a href="/capital-living/meet-the-lawmaker"><span>Meet the Lawmaker</span></a></td><td nowrap="nowrap"><a href="/capital-living/onward-and-upward"><span>Onward &amp; Upward</span></a></td><td nowrap="nowrap"><a href="/capital-living/20-questions"><span>20 Questions</span></a></td><td nowrap="nowrap"></td></tr></table></div></li><li class="item911"><a href="/special-reports"><span>Special Reports</span></a></li><li class="item917"><a href="/resources/classifieds/employer"><span>Jobs</span></a></li><li class="parent item919"><a href="http://washingtonscene.thehill.com"><span>The Washington Scene</span></a><ul><li class="item921"><a href="http://washingtonscene.thehill.com/"><span>Home</span></a></li><li class="item923"><a href="http://washingtonscene.thehill.com/party-events-pictures"><span>Party/Events Pictures</span></a></li><li class="item925"><a href="http://washingtonscene.thehill.com/calendar"><span>Calendar</span></a></li><li class="item927"><a href="http://washingtonscene.thehill.com/announcements"><span>Announcements</span></a></li><li class="item929"><a href="http://washingtonscene.thehill.com/in-the-know"><span>In the Know</span></a></li><li class="item931"><a href="http://washingtonscene.thehill.com/dining"><span>Dining</span></a></li><li class="item933"><a href="http://washingtonscene.thehill.com/people"><span>People</span></a></li></ul><div style="display: none;"><table><tr><td nowrap="nowrap"><a href="http://washingtonscene.thehill.com/"><span>Home</span></a></td><td nowrap="nowrap"><a href="http://washingtonscene.thehill.com/party-events-pictures"><span>Party/Events Pictures</span></a></td><td nowrap="nowrap"><a href="http://washingtonscene.thehill.com/calendar"><span>Calendar</span></a></td><td nowrap="nowrap"><a href="http://washingtonscene.thehill.com/announcements"><span>Announcements</span></a></td></tr><tr><td nowrap="nowrap"><a href="http://washingtonscene.thehill.com/in-the-know"><span>In the Know</span></a></td><td nowrap="nowrap"><a href="http://washingtonscene.thehill.com/dining"><span>Dining</span></a></td><td nowrap="nowrap"><a href="http://washingtonscene.thehill.com/people"><span>People</span></a></td><td nowrap="nowrap"></td></tr></table></div></li></ul>
 					</div>
 					<div class="sub_top_menu">
-						
+						<a href="/blogs" style="margin-top:0px;padding:0;margin:-2px 0px 0px 14px;float:left;">
+<img src="/images/blogs_submenu.png">
+</a>
+<table border="0" cellpadding="0" cellspacing="1"><tbody><tr><td nowrap="nowrap"><a href="/blogs/congress-blog" class="mainlevel_sub">Congress Blog</a><a href="/blogs/pundits-blog" class="mainlevel_sub">Pundits Blog</a><a href="/blogs/blog-briefing-room" class="mainlevel_sub">Blog Briefing Room</a><a href="/blogs/twitter-room" class="mainlevel_sub">Twitter Room</a><a href="/blogs/hillicon-valley" class="mainlevel_sub">Hillicon Valley</a><a href="/blogs/e2-wire" class="mainlevel_sub">E2-Wire</a><a href="/blogs/ballot-box" class="mainlevel_sub">Ballot Box</a><a href="/blogs/on-the-money" class="mainlevel_sub">On The Money</a></td></tr></tbody></table>
 					</div>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" id="menu_spacer"><img src="/templates/thehill/images/space.gif" alt=""></td>
+			<td colspan="2" id="menu_spacer"><img src="/templates/thehill/images/space.gif" alt=""></td>
 		</tr>
 		<tr>
-			<td colspan="3">
+			<td colspan="2">
 				
 			</td>
 		</tr>
@@ -166,7 +233,7 @@ function proc_n_cb(elm) {
 				<div>
 					<div>
 													<h3>Blogs</h3>
-											<ul class="menu"><li class="item20"><a href="/blogs/congress-blog"><span>Congress Blog</span></a></li><li class="item21"><a href="/blogs/pundits-blog"><span>Pundits Blog</span></a></li><li class="item22"><a href="/blogs/blog-briefing-room"><span>Blog Briefing Room</span></a></li><li class="item23"><a href="/blogs/twitter-room"><span>Twitter Room</span></a></li><li class="item669"><a href="/hillicon-valley"><span>Hillicon Valley</span></a></li></ul>					</div>
+											<ul class="menu"><li class="item20"><a href="/blogs/congress-blog"><span>Congress Blog</span></a></li><li class="item21"><a href="/blogs/pundits-blog"><span>Pundits Blog</span></a></li><li class="item22"><a href="/blogs/blog-briefing-room"><span>Blog Briefing Room</span></a></li><li class="item23"><a href="/blogs/twitter-room"><span>Twitter Room</span></a></li><li class="item669"><a href="/blogs/hillicon-valley"><span>Hillicon Valley</span></a></li><li class="item729"><a href="/blogs/e2-wire"><span>E2-Wire</span></a></li><li class="item785"><a href="/blogs/ballot-box"><span>Ballot Box</span></a></li><li class="item819"><a href="/blogs/on-the-money"><span>On The Money</span></a></li></ul>					</div>
 				</div>
 			</div>
 		</div>
@@ -184,7 +251,7 @@ function proc_n_cb(elm) {
 				<div>
 					<div>
 													<h3>News by Subject</h3>
-											<ul class="menu"><li class="item619"><a href="/news-by-subject/defense-homeland-security"><span>Defense &amp; Homeland Security</span></a></li><li class="item621"><a href="/news-by-subject/energy-environment"><span>Energy &amp; Environment</span></a></li><li class="item627"><a href="/news-by-subject/technology"><span>Technology</span></a></li><li class="item635"><a href="/news-by-subject"><span>All News by Subject</span></a></li></ul>					</div>
+											<ul class="menu"><li class="item619"><a href="/news-by-subject/defense-homeland-security"><span>Defense &amp; Homeland Security</span></a></li><li class="item621"><a href="/news-by-subject/energy-environment"><span>Energy &amp; Environment</span></a></li><li class="item625"><a href="/news-by-subject/finance-economy"><span>Finance &amp; Economy</span></a></li><li class="item627"><a href="/news-by-subject/technology"><span>Technology</span></a></li><li class="item635"><a href="/news-by-subject"><span>All News by Subject</span></a></li></ul>					</div>
 				</div>
 			</div>
 		</div>
@@ -210,6 +277,15 @@ function proc_n_cb(elm) {
 			<div>
 				<div>
 					<div>
+													<h3>Social</h3>
+											<ul class="menu"><li class="item709"><a href="http://washingtonscene.thehill.com"><span>Washington Scene</span></a></li></ul>					</div>
+				</div>
+			</div>
+		</div>
+			<div class="module_menu">
+			<div>
+				<div>
+					<div>
 													<h3>Video</h3>
 											<ul class="menu"><li class="item383"><a href="/resources/video"><span>HillTube</span></a></li></ul>					</div>
 				</div>
@@ -220,7 +296,7 @@ function proc_n_cb(elm) {
 				<div>
 					<div>
 													<h3>Resources</h3>
-											<ul class="menu"><li class="item385"><a href="http://mobile.thehill.com"><span>Mobile Site</span></a></li><li class="item386"><a href="/resources/white-papers/"><span>White Papers</span></a></li><li class="item388"><a href="/resources/classifieds"><span>Classifieds</span></a></li><li class="item389"><a href="/resources/reprints"><span>Order Reprints</span></a></li><li class="item390"><a href="/resources/last-6"><span>Last 6 Issues</span></a></li><li class="item391"><a href="/outside-links"><span>Outside Links</span></a></li></ul>					</div>
+											<ul class="menu"><li class="item385"><a href="http://mobile.thehill.com"><span>Mobile Site</span></a></li><li class="item829"><a href="/iphone"><span>iPhone</span></a></li><li class="item737"><a href="/resources/lawmaker-ratings"><span>Lawmaker Ratings</span></a></li><li class="item386"><a href="/resources/white-papers/"><span>White Papers</span></a></li><li class="item388"><a href="/resources/classifieds"><span>Classifieds</span></a></li><li class="item389"><a href="/resources/reprints"><span>Order Reprints</span></a></li><li class="item390"><a href="/resources/last-6"><span>Last 6 Issues</span></a></li><li class="item391"><a href="/resources/outside-links"><span>Outside Links</span></a></li><li class="item727"><a href="/resources/rss-feeds"><span>RSS Feeds</span></a></li></ul>					</div>
 				</div>
 			</div>
 		</div>
@@ -229,7 +305,7 @@ function proc_n_cb(elm) {
 				<div>
 					<div>
 													<h3>Contact Us</h3>
-											<ul class="menu"><li class="item392"><a href="/contact/advertise"><span>Advertise</span></a></li><li class="item393"><a href="/contact"><span>Reach Us</span></a></li><li class="item511"><a href="/submitting-letters"><span>Submitting Letters</span></a></li></ul>					</div>
+											<ul class="menu"><li class="item392"><a href="/contact/advertise"><span>Advertise</span></a></li><li class="item393"><a href="/contact"><span>Reach Us</span></a></li><li class="item511"><a href="/submitting-letters"><span>Submitting Letters</span></a></li><li class="item705"><a href="/contact/subscriptions"><span>Subscriptions</span></a></li></ul>					</div>
 				</div>
 			</div>
 		</div>
@@ -253,7 +329,7 @@ function proc_n_cb(elm) {
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://ad.thehill.com/www/delivery/ajs.php?zoneid=103&amp;cb=38261603840&amp;loc=https%3A//web.archive.org/web/20091102045908id_/http%253A//thehill.com/privacy-policy"></script><noscript><a href='http://ad.thehill.com/www/delivery/ck.php?n=a2e45373&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.thehill.com/www/delivery/avw.php?zoneid=103&cb=INSERT_RANDOM_NUMBER_HERE&n=a2e45373' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://ad.thehill.com/www/delivery/ajs.php?zoneid=103&amp;cb=21222683185&amp;loc=https%3A//web.archive.org/web/20100503143209id_/http%253A//thehill.com/privacy-policy"></script><noscript><a href='http://ad.thehill.com/www/delivery/ck.php?n=a2e45373&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.thehill.com/www/delivery/avw.php?zoneid=103&cb=INSERT_RANDOM_NUMBER_HERE&n=a2e45373' border='0' alt='' /></a></noscript>
 
 <div style="height: 5px;"> </div><!-- B2 -->
 <script type="text/javascript"><!--//<![CDATA[
@@ -269,7 +345,7 @@ function proc_n_cb(elm) {
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://ad.thehill.com/www/delivery/ajs.php?zoneid=104&amp;cb=19444480579&amp;loc=https%3A//web.archive.org/web/20091102045908id_/http%253A//thehill.com/privacy-policy"></script><noscript><a href='http://ad.thehill.com/www/delivery/ck.php?n=a2b290a1&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.thehill.com/www/delivery/avw.php?zoneid=104&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a2b290a1' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://ad.thehill.com/www/delivery/ajs.php?zoneid=104&amp;cb=11142804787&amp;loc=https%3A//web.archive.org/web/20100503143209id_/http%253A//thehill.com/privacy-policy"></script><noscript><a href='http://ad.thehill.com/www/delivery/ck.php?n=a2b290a1&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.thehill.com/www/delivery/avw.php?zoneid=104&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a2b290a1' border='0' alt='' /></a></noscript>
 
 <div style="height: 5px;"> </div><!-- B3 -->
 <script type="text/javascript"><!--//<![CDATA[
@@ -285,9 +361,41 @@ function proc_n_cb(elm) {
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://ad.thehill.com/www/delivery/ajs.php?zoneid=105&amp;cb=60353706196&amp;loc=https%3A//web.archive.org/web/20091102045908id_/http%253A//thehill.com/privacy-policy"></script><noscript><a href='http://ad.thehill.com/www/delivery/ck.php?n=a11aaf81&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.thehill.com/www/delivery/avw.php?zoneid=105&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a11aaf81' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://ad.thehill.com/www/delivery/ajs.php?zoneid=105&amp;cb=17831763874&amp;loc=https%3A//web.archive.org/web/20100503143209id_/http%253A//thehill.com/privacy-policy"></script><noscript><a href='http://ad.thehill.com/www/delivery/ck.php?n=a11aaf81&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.thehill.com/www/delivery/avw.php?zoneid=105&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a11aaf81' border='0' alt='' /></a></noscript>
 
-<div style="height: 5px;"> </div><div style="height: 5px;"> </div>
+<div style="height: 5px;"> </div><!-- B4 -->
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ad.thehill.com/www/delivery/ajs.php':'http://ad.thehill.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=106");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://ad.thehill.com/www/delivery/ajs.php?zoneid=106&amp;cb=10001862401&amp;loc=https%3A//web.archive.org/web/20100503143209id_/http%253A//thehill.com/privacy-policy"></script><noscript><a href='http://ad.thehill.com/www/delivery/ck.php?n=af313167&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.thehill.com/www/delivery/avw.php?zoneid=106&amp;n=af313167' border='0' alt='' /></a></noscript>
+
+<div style="height: 5px;"> </div><!-- B5 -->
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ad.thehill.com/www/delivery/ajs.php':'http://ad.thehill.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=107");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://ad.thehill.com/www/delivery/ajs.php?zoneid=107&amp;cb=57658045312&amp;loc=https%3A//web.archive.org/web/20100503143209id_/http%253A//thehill.com/privacy-policy"></script><noscript><a href='http://ad.thehill.com/www/delivery/ck.php?n=a870edbf&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.thehill.com/www/delivery/avw.php?zoneid=107&amp;n=a870edbf' border='0' alt='' /></a></noscript>
+
+
 						</td>
 					</tr>
 				</tbody></table>
@@ -311,10 +419,10 @@ function proc_n_cb(elm) {
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy38967 = 'h&#101;lp' + '&#64;';
- addy38967 = addy38967 + 'th&#101;h&#105;ll' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + ':' + addy38967 + '\'>' );
- document.write( addy38967 );
+ var addy63569 = 'h&#101;lp' + '&#64;';
+ addy63569 = addy63569 + 'th&#101;h&#105;ll' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy63569 + '\'>' );
+ document.write( addy63569 );
  document.write( '<\/a>' );
  //-->\n </script><a href="mailto:help@thehill.com">help@thehill.com</a> <script language="JavaScript" type="text/javascript">
  <!--
@@ -332,7 +440,7 @@ function proc_n_cb(elm) {
 							</div>
 			<div class="article_link"><span>Source: </span><br><a href="http://thehill.com/privacy-policy">http://thehill.com/privacy-policy</a></div>
 			
-			<div class="article_footer"><span>The contents of this site are © 2009 Capitol Hill Publishing Corp., a subsisiary of News Communications, Inc.</span></div>
+			<div class="article_footer"><span>The contents of this site are © 2010 Capitol Hill Publishing Corp., a subsisiary of News Communications, Inc.</span></div>
 			<div style="text-align: center; margin: 5px 20px 20px;" class="article_search">
 <div class="dot"> <img src="/templates/thehill/images/space.gif" border="0"> </div>
 <form action="/index.php" method="get">
@@ -387,7 +495,7 @@ function proc_n_cb(elm) {
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://ad.thehill.com/www/delivery/ajs.php?zoneid=156&amp;block=1&amp;cb=95028963152&amp;loc=https%3A//web.archive.org/web/20091102045908id_/http%253A//thehill.com/privacy-policy"></script><noscript><a href='http://ad.thehill.com/www/delivery/ck.php?n=aad3d758&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.thehill.com/www/delivery/avw.php?zoneid=156&n=aad3d758' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://ad.thehill.com/www/delivery/ajs.php?zoneid=156&amp;block=1&amp;cb=16913717116&amp;loc=https%3A//web.archive.org/web/20100503143209id_/http%253A//thehill.com/privacy-policy"></script><noscript><a href='http://ad.thehill.com/www/delivery/ck.php?n=aad3d758&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.thehill.com/www/delivery/avw.php?zoneid=156&n=aad3d758' border='0' alt='' /></a></noscript>
 </div>					</div>
 				</div>
 			</div>
@@ -406,11 +514,11 @@ function proc_n_cb(elm) {
 	</tr>
 </tbody></table>
 <div class="stories">
-<dl class="tabs" id="pane"><dt id="panel1" class="open" style="cursor: pointer;"><span>Most Viewed</span></dt><dt id="panel2" class="closed" style="cursor: pointer;"><span>Emailed</span></dt><dt id="panel3" class="closed" style="cursor: pointer;"><span>Discussed</span></dt></dl>	<div class="current"><dd style="display: block;"><a href="/blogs/blog-briefing-room/news/65773-scozzafava-endorses-owens-in-ny-23-race">GOP nominee endorses Democrat after stepping aside under pressure from right</a><a href="/homenews/house/65713-bachmann-urges-americans-to-come-to-capitol-to-confront-lawmakers-on-healthcare">Bachmann urges confronting lawmakers on healthcare bill</a><a href="/homenews/senate/65765-lieberman-doing-nothing-on-healthcare-better-than-public-option">Lieberman: Doing nothing on healthcare better than government-run option</a><a href="/blogs/blog-briefing-room/news/65779-issa-suggests-dems-promised-scozzafava-favors">Rep. Issa's PAC suggests Dems promised Scozzafava favors</a><a href="/blogs/blog-briefing-room/news/65743-limbaugh-fires-away-at-obama-administration">Limbaugh fires away at Obama administration</a></dd><dd style="display: none;"><a href="/blogs/blog-briefing-room/news/65743-limbaugh-fires-away-at-obama-administration">Limbaugh fires away at Obama administration</a><a href="/blogs/blog-briefing-room/news/65773-scozzafava-endorses-owens-in-ny-23-race">GOP nominee endorses Democrat after stepping aside under pressure from right</a><a href="/homenews/house/65713-bachmann-urges-americans-to-come-to-capitol-to-confront-lawmakers-on-healthcare">Bachmann urges confronting lawmakers on healthcare bill</a><a href="/blogs/blog-briefing-room/news/65757-mcdonnell-opens-up-12-point-lead">McDonnell opens up 12 point lead</a><a href="/blogs/blog-briefing-room/news/65769-wilson-unofficially-stumps-for-christie">Wilson unofficially stumps for Christie</a></dd><dd style="display: none;"><a href="/blogs/blog-briefing-room/news/65773-scozzafava-endorses-owens-in-ny-23-race">GOP nominee endorses Democrat after stepping aside under pressure from right</a><a href="/homenews/house/65713-bachmann-urges-americans-to-come-to-capitol-to-confront-lawmakers-on-healthcare">Bachmann urges confronting lawmakers on healthcare bill</a><a href="/blogs/pundits-blog/healthcare/65137-mobilize-to-win-the-public-option-war">Mobilize to win the public option war</a><a href="/homenews/senate/65765-lieberman-doing-nothing-on-healthcare-better-than-public-option">Lieberman: Doing nothing on healthcare better than government-run option</a><a href="/blogs/blog-briefing-room/news/65761-axelrod-rebuffs-limbaugh-for-criticism">Axelrod rebuffs Limbaugh for criticism</a></dd></div><div class="footer">
+<dl class="tabs" id="pane"><dt id="panel1" class="open" style="cursor: pointer;"><span>Most Viewed</span></dt><dt id="panel2" class="closed" style="cursor: pointer;"><span>Emailed</span></dt><dt id="panel3" class="closed" style="cursor: pointer;"><span>Discussed</span></dt></dl>	<div class="current"><dd style="display: block;"><a href="/homenews/senate/95235-democrats-spark-alarm-with-call-for-national-id-card">Dems spark alarm with call for national ID card</a><a href="/blogs/blog-briefing-room/news/95487-crist-open-to-supporting-democrat-for-senates-majority-leader">Crist says he could support a Democrat for Senate majority leader</a><a href="/blogs/blog-briefing-room/news/95489-sen-alexander-border-security-must-precede-path-to-citizenship-for-immigrants">Sen. Alexander: Border security must precede path to citizenship for immigrants</a><a href="/blogs/blog-briefing-room/news/95495-top-republican-nyc-car-bomb-could-have-been-related-to-south-park-controversy">Top Republican: Car bomb could have been related to 'South Park' controversy</a><a href="/blogs/blog-briefing-room/news/95459-rep-gutierrez-arrested-outside-of-white-house">Rep. Gutierrez arrested outside of White House in immigration protest</a></dd><dd style="display: none;"><a href="/homenews/senate/95235-democrats-spark-alarm-with-call-for-national-id-card">Dems spark alarm with call for national ID card</a><a href="/blogs/ballot-box/polls/95535-republican-leads-by-eight-in-hawaii-special-election">Republican leads by eight in Hawaii special election</a><a href="/blogs/hillicon-valley/technology/95527-fcc-likely-to-hire-outsider-to-oversee-nbc-comcast-merger-review">FCC likely to hire outsider to oversee NBC-Comcast review</a><a href="/blogs/blog-briefing-room/news/95459-rep-gutierrez-arrested-outside-of-white-house">Rep. Gutierrez arrested outside of White House in immigration protest</a><a href="/blogs/on-the-money/banking-financial-institutions/95543-fdic-wary-of-wall-street-derivatives-spin-off-provision">FDIC wary of Wall Street derivatives 'spin-off' provision in financial bill</a></dd><dd style="display: none;"><a href="/homenews/senate/95503-hearings-to-resurrect-border-violence-debate-as-lawmakers-ask-for-troops">Hearings revive border violence debate as troops requested</a><a href="/homenews/senate/95235-democrats-spark-alarm-with-call-for-national-id-card">Dems spark alarm with call for national ID card</a><a href="/homenews/administration/95539-obama-sees-massive-and-potentially-unprecedented-gulf-disaster">Obama sees 'massive, potentially unprecedented' Gulf oil disaster</a><a href="/blogs/blog-briefing-room/news/95459-rep-gutierrez-arrested-outside-of-white-house">Rep. Gutierrez arrested outside of White House in immigration protest</a><a href="/homenews/house/95523-pelosi-tells-chairmen-to-redouble-efforts-to-chip-away-at-federal-budget">Pelosi tells panel chairmen to 'redouble' efforts to chip away at federal budget</a></dd></div><div class="footer">
 		<table width="100%" cellpadding="0" cellspacing="0" border="0">
 			<tbody><tr>
 				<td><a href="/">Home/News&nbsp;»</a></td>
-				<td style="text-align:right;"><a href="/component/rss-syndicator/?feed_id=3"><img src="/templates/thehill/images/rss.jpg" alt=""> Most Viewed RSS Feed&nbsp;»</a></td>
+				<td style="text-align:right;"><a href="/component/rss-syndicator/?feed_id=3"><img src="/templates/thehill/images/rss.jpg" alt="">Most Viewed RSS Feed&nbsp;»</a></td>
 			</tr>
 		</tbody></table>
 	</div>
@@ -442,57 +550,90 @@ function proc_n_cb(elm) {
 							<img src="/images/temp/blogslogo.jpg" alt="bloglogo" border="0" style="padding-bottom:5px;">						</td>
 					</tr>
 									<tr>
-						<td class="blog">
+						<td class="blog blogbox7">
 							<div class="title">
 								<h2><a href="/blogs/blog-briefing-room"><span>Briefing Room</span></a></h2></div>
 							<ul>
-							<li><a href="/blogs/blog-briefing-room/news/65791-rep-peterson-a-firm-no-against-houses-healthcare-bill">Rep. Peterson a 'firm no' against House's healthcare bill</a></li><li><a href="/blogs/blog-briefing-room/news/65779-issa-suggests-dems-promised-scozzafava-favors">Rep. Issa's PAC suggests Dems promised Scozzafava favors</a></li><li><a href="/blogs/blog-briefing-room/days-end-round-up/65777-sunday-roundup">SUNDAY ROUNDUP</a></li>							</ul><br>
+							<li><a href="/blogs/blog-briefing-room/news/95589-traficant-files-as-independent-to-challenge-rep-tim-ryan">Traficant files as independent to challenge Rep. Tim Ryan</a></li><li><a href="/blogs/blog-briefing-room/news/95585-plurality-say-they-trust-cnn-above-other-news-outlets">Plurality say they trust CNN above other news outlets</a></li><li><a href="/blogs/blog-briefing-room/news/95587-rep-israel-wants-ahmadinejad-arrested-tried">Rep. Israel wants Ahmadinejad arrested, tried</a></li>							</ul><br>
 							<span>
 								<a href="/blogs/blog-briefing-room">More Briefing Room »</a>
 							</span>
 						</td>
 					</tr>
 									<tr>
-						<td class="blog">
+						<td class="blog blogbox8">
 							<div class="title">
 								<h2><a href="/blogs/congress-blog"><span>Congress Blog</span></a></h2></div>
 							<ul>
-							<li><a href="/blogs/congress-blog/economy-a-budget/65667-wall-street-has-a-gambling-problem-sen-maria-cantwell-">Wall Street has a gambling problem (Sen. Maria Cantwell) </a></li><li><a href="/blogs/congress-blog/healthcare/65663-government-still-trying-to-take-over-health-care-rep-tom-price">Government still trying to take over health care (Rep. Tom Price)</a></li><li><a href="/blogs/congress-blog/healthcare/65647-setting-the-record-straight-on-our-health-care-legislation-rep-anna-eshoo">Setting the record straight on our health care legislation (Rep. Anna Eshoo)</a></li>							</ul><br>
+							<li><a href="/blogs/congress-blog/economy-a-budget/95431-video-hoekstra-hits-obama-on-economy-before-michigan-visit">VIDEO: Hoekstra hits Obama on economy before Michigan visit</a></li><li><a href="/blogs/congress-blog/economy-a-budget/95429-video-obama-delivers-weekly-address-on-campaign-finance-reform">VIDEO: Obama delivers weekly address on campaign finance reform</a></li><li><a href="/blogs/congress-blog/energy-a-environment/95339-leading-the-way-to-alternative-energy-solutions-rep-michael-honda">Leading the way to alternative energy solutions (Rep. Michael Honda)</a></li>							</ul><br>
 							<span>
 								<a href="/blogs/congress-blog">More Congress Blog »</a>
 							</span>
 						</td>
 					</tr>
 									<tr>
-						<td class="blog">
+						<td class="blog blogbox9">
 							<div class="title">
 								<h2><a href="/blogs/pundits-blog"><span>Pundits Blog</span></a></h2></div>
 							<ul>
-							<li><a href="/blogs/pundits-blog/campaign/65747-dark-day-for-dems-in-virginia">Dark day for Dems in Virginia?</a></li><li><a href="/blogs/pundits-blog/healthcare/65655-abortion-and-healthcare">Abortion and healthcare</a></li><li><a href="/blogs/pundits-blog/lawmaker-news/65631-my-congressman-is-nuts">My congressman is nuts</a></li>							</ul><br>
+							<li><a href="/blogs/pundits-blog/energy-a-environment/95583-slippery-oil-slicks">Slippery oil slicks</a></li><li><a href="/blogs/pundits-blog/international-affairs/95579-arrest-mahmoud-ahmadinejad">Arrest Mahmoud Ahmadinejad</a></li><li><a href="/blogs/pundits-blog/energy-a-environment/95575-bp-better-pay">BP = better pay!</a></li>							</ul><br>
 							<span>
 								<a href="/blogs/pundits-blog">More Pundits Blog »</a>
 							</span>
 						</td>
 					</tr>
 									<tr>
-						<td class="blog">
+						<td class="blog blogbox10">
 							<div class="title">
 								<h2><a href="/blogs/twitter-room"><span>Twitter Room</span></a></h2></div>
 							<ul>
-							<li><a href="/blogs/twitter-room/other-news/65721-gingrich-tweets-hoffman-endorsement">Gingrich tweets Hoffman endorsement</a></li><li><a href="/blogs/twitter-room/other-news/65671-inglis-struggles-to-get-healthcare-bill-on-the-plane">Inglis struggles to get healthcare bill on the plane?</a></li><li><a href="/blogs/twitter-room/other-news/65659-bonds-offices-got-talent">Bond's office's got talent</a></li>							</ul><br>
+							<li><a href="/blogs/twitter-room/other-news/95591-rep-israel-wants-ahmadinejad-arrested-tried">Rep. Israel wants Ahmadinejad arrested, tried</a></li><li><a href="/blogs/twitter-room/other-news/95359-top-tweets-">TOP TWEETS </a></li><li><a href="/blogs/twitter-room/other-news/95363-obama-tweets-commitment-to-address-oil-spill">Obama tweets commitment to address oil spill</a></li>							</ul><br>
 							<span>
 								<a href="/blogs/twitter-room">More Twitter Room »</a>
 							</span>
 						</td>
 					</tr>
 									<tr>
-						<td class="blog">
+						<td class="blog blogbox21">
 							<div class="title">
-								<h2><a href="/hillicon-valley"><span>Hillicon Valley</span></a></h2></div>
+								<h2><a href="/blogs/hillicon-valley"><span>Hillicon Valley</span></a></h2></div>
 							<ul>
-							<li><a href="/hillicon-valley/605-technology/65685-t-mobile-to-fcc-speed-up-tower-approval-process">T-Mobile to FCC: Speed up tower approval process</a></li><li><a href="/hillicon-valley/605-technology/65657-microsoft-carefully-comments-on-net-neutrality">Microsoft carefully comments on net neutrality</a></li><li><a href="/hillicon-valley/605-technology/65623-markey-dont-let-future-administrations-ignore-net-neutrality">Markey: Don't let future administrations ignore net neutrality</a></li>							</ul><br>
+							<li><a href="/blogs/hillicon-valley/technology/95549-morning-tech-tipsheet-monday-may-3">Morning tech tipsheet: Monday May 3</a></li><li><a href="/blogs/hillicon-valley/technology/95527-fcc-likely-to-hire-outsider-to-oversee-nbc-comcast-merger-review">FCC likely to hire outsider to oversee NBC-Comcast review</a></li><li><a href="/blogs/hillicon-valley/technology/95407-lawmakers-ask-ftc-for-briefing-on-google-admob-deal-inquiry">Lawmakers ask FTC for briefing, inquiry on Google-AdMob deal</a></li>							</ul><br>
 							<span>
-								<a href="/hillicon-valley">More Hillicon Valley »</a>
+								<a href="/blogs/hillicon-valley">More Hillicon Valley »</a>
+							</span>
+						</td>
+					</tr>
+									<tr>
+						<td class="blog blogbox23">
+							<div class="title">
+								<h2><a href="/blogs/e2-wire"><span>E<sup>2</sup>-Wire</span></a></h2></div>
+							<ul>
+							<li><a href="/blogs/e2-wire/677-e2-wire/95577-bp-ceo-calls-failure-of-blowout-preventer-unprecedented">BP chief calls failure of blowout preventer ‘unprecedented’</a></li><li><a href="/blogs/e2-wire/677-e2-wire/95569-e2-round-up-bp-struggles-to-contain-spill-that-threatens-the-gulf-coast-bps-own-reputation-and-future-plans-to-drill-offshore">E2 Round-up: BP struggles to contain spill that threatens the Gulf coast, BP's own reputation and future plans to drill offshore</a></li><li><a href="/blogs/e2-wire/677-e2-wire/95565-obama-surveys-gulf-disaster-while-senators-clash-on-new-drilling">Obama surveys 'potentially unprecedented' Gulf disaster while senators clash on new drilling</a></li>							</ul><br>
+							<span>
+								<a href="/blogs/e2-wire">More E<sup>2</sup>-Wire »</a>
+							</span>
+						</td>
+					</tr>
+									<tr>
+						<td class="blog blogbox25">
+							<div class="title">
+								<h2><a href="/blogs/ballot-box"><span>Ballot Box</span></a></h2></div>
+							<ul>
+							<li><a href="/blogs/ballot-box/campaign-committees/95571-mook-to-lead-house-democrats-campaign-spending-program">Mook to lead House Democrats' campaign spending program</a></li><li><a href="/blogs/ballot-box/campaign-blogs-roundup/95567-top-of-the-ballot-expectations-rise-for-gop-in-specials-dobson-switches-endorsement-in-kentucky">Top of the ballot: Expectations rise for GOP in specials; Dobson switches endorsement in Kentucky</a></li><li><a href="/blogs/ballot-box/fundraising/95531-healthcare-debate-drives-fundraising-efforts-on-both-sides-of-abortion-issue">Healthcare debate drives fundraising efforts on abortion</a></li>							</ul><br>
+							<span>
+								<a href="/blogs/ballot-box">More Ballot Box »</a>
+							</span>
+						</td>
+					</tr>
+									<tr>
+						<td class="blog blogbox27">
+							<div class="title">
+								<h2><a href="/blogs/on-the-money"><span>On The Money</span></a></h2></div>
+							<ul>
+							<li><a href="/blogs/on-the-money/domestic-taxes/95581-obama-dems-struggle-to-determine-details-of-proposed-tax-on-banks">Obama, Dems struggle to sort details of proposed tax on banks</a></li><li><a href="/blogs/on-the-money/banking-financial-institutions/95153-amending-wall-street">Amending Wall Street</a></li><li><a href="/blogs/on-the-money/domestic-taxes/95573-baucus-expands-witness-list-for-bank-tax-hearing">Baucus expands witness list for bank tax hearing</a></li>							</ul><br>
+							<span>
+								<a href="/blogs/on-the-money">More On The Money »</a>
 							</span>
 						</td>
 					</tr>
@@ -528,7 +669,7 @@ function proc_n_cb(elm) {
 					<div>
 											<!-- Start of Brightcove Badge -->
                 <script type="text/javascript" src="http://admin.brightcove.com/labs/badges/createbadge.js"></script>
-              <p></p>
+          
               <div id="flashcontent" align="center"> You need Flash Player 8 (or 
                 higher) and JavaScript enabled to view this content </div>
 
@@ -571,20 +712,20 @@ function proc_n_cb(elm) {
 			</td>
 		</tr>
 <tr>		<td>
-			<a href="/opinion/columnists/john-del-cecato"><h3>John Del Cecato</h3></a>
-			<img src="/images/stories/col_john_del_cecato.jpg" alt="" style="float: left;" width="49px" border="0">			<a href="http://thehill.com/opinion/columnists/john-del-cecato/65487-getting-hot-at-the-end"><span> Getting hot at the end</span></a>
+			<a href="/opinion/columnists/ben-goddard"><h3>Ben Goddard</h3></a>
+			<img src="/images/stories/col_ben_goddard.jpg" alt="" style="float: left;" width="49px" border="0">			<a href="http://thehill.com/opinion/columnists/ben-goddard/95029-ripple-across-the-pond"><span>Ripple across the pond</span></a>
 		</td>
 		<td>
-			<a href="/opinion/columnists/cheri-jacobus"><h3>Cheri Jacobus</h3></a>
-			<img src="/images/stories/col_cheri_jacobus.jpg" alt="" style="float: left;" width="49px" border="0">			<a href="http://thehill.com/opinion/columnists/cheri-jacobus/65485-reids-landmines"><span>Reid's landmines</span></a>
+			<a href="/opinion/columnists/lanny-davis"><h3>Lanny Davis</h3></a>
+			<img src="/images/stories/lanny-davis.jpg" alt="" style="float: left;" width="49px" border="0">			<a href="http://thehill.com/opinion/columnists/lanny-davis/95021-is-senate-worth-it-mccain"><span>Senate worth it, McCain?</span></a>
 		</td>
 </tr><tr>		<td>
 			<a href="/opinion/columnists/ab-stoddard"><h3>A.B. Stoddard</h3></a>
-			<img src="/images/stories/col_a_b_stoddard.jpg" alt="" style="float: left;" width="49px" border="0">			<a href="http://thehill.com/opinion/columnists/ab-stoddard/65273-bidens-moment"><span>Biden's moment</span></a>
+			<img src="/images/stories/col_a_b_stoddard.jpg" alt="" style="float: left;" width="49px" border="0">			<a href="http://thehill.com/opinion/columnists/ab-stoddard/95025-desperation-or-evolution"><span>Desperation or evolution?</span></a>
 		</td>
 		<td>
-			<a href="/opinion/columnists/ben-goddard"><h3>Ben Goddard</h3></a>
-			<img src="/images/stories/col_ben_goddard.jpg" alt="" style="float: left;" width="49px" border="0">			<a href="http://thehill.com/opinion/columnists/ben-goddard/65275-going-viral-"><span>Going viral </span></a>
+			<a href="/opinion/columnists/markos-moulitas"><h3>Markos Moulitsas</h3></a>
+			<img src="/images/stories/col_markos_moulitsas.jpg" alt="" style="float: left;" width="49px" border="0">			<a href="http://thehill.com/opinion/columnists/markos-moulitas/94655-let-me-see-your-papers"><span> Let me see your papers</span></a>
 		</td>
 </tr>		<tr>
 			<td class="more" colspan="2">
@@ -642,15 +783,15 @@ function proc_w_cb(elm) {
 <!-- END CONTENT -->
 		</tr>
 		<tr>
-			<td colspan="3" id="footmenu">
+			<td colspan="2" id="footmenu">
 			<div id="navcontainer">
-			<ul class="menu"><li class="parent item90"><a href="/"><span>Home/News</span></a></li><li class="parent item95"><a href="/news-by-subject"><span>News by Subject</span></a></li><li class="parent item100"><a href="/blogs"><span>Blogs</span></a></li><li class="parent item105"><a href="/business-a-lobbying"><span>Business &amp; Lobbying</span></a></li><li class="parent item657"><a href="/hillicon-valley"><span>Technology</span></a></li><li class="parent item108"><a href="/opinion"><span>Opinion</span></a></li><li class="parent item114"><a href="/capital-living"><span>Capital Living</span></a></li><li class="item316"><a href="/resources/classifieds/employer"><span>Jobs</span></a></li><li class="parent item116"><a href="/special-reports"><span>Special Reports</span></a></li><li class="parent item117"><a href="/resources"><span>Resources</span></a></li></ul>
+			<ul class="menu"><li class="parent item90"><a href="/"><span>Home/News</span></a></li><li class="parent item95"><a href="/news-by-subject"><span>News by Subject</span></a></li><li class="parent item100"><a href="/blogs"><span>Blogs</span></a></li><li class="parent item105"><a href="/business-a-lobbying"><span>Business &amp; Lobbying</span></a></li><li class="parent item108"><a href="/opinion"><span>Opinion</span></a></li><li class="parent item114"><a href="/capital-living"><span>Capital Living</span></a></li><li class="parent item116"><a href="/special-reports"><span>Special Reports</span></a></li><li class="item316"><a href="/resources/classifieds/employer"><span>Jobs</span></a></li><li class="item717"><a href="http://washingtonscene.thehill.com"><span>The Washington Scene</span></a></li></ul>
 			<!-- <div class='separator'>&nbsp;</div> -->
 			</div>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" id="footer">
+			<td colspan="2" id="footer">
 				<div style="text-align:center;"></div>
 				<div class="wrapper_1">
 					<div class="wrapper_2">
@@ -660,12 +801,12 @@ function proc_w_cb(elm) {
 									<a href="/"><img src="/templates/thehill/images/smallogo.jpg" alt="" align="left"></a>
 								</td>
 								<td id="wrappermenu">
-									<table width="100%" border="0" cellpadding="0" cellspacing="1"><tbody><tr><td nowrap="nowrap"><a href="/homenews" class="mainlevel">Home</a><span class="mainlevel"> | </span><a href="/privacy-policy" class="mainlevel" id="active_menu">Privacy Policy</a><span class="mainlevel"> | </span><a href="/terms-and-conditions" class="mainlevel">Terms &amp; Conditions</a><span class="mainlevel"> | </span><a href="/contact" class="mainlevel">Contact</a><span class="mainlevel"> | </span><a href="/contact/advertise" class="mainlevel">Advertise</a><span class="mainlevel"> | </span><a href="/resources/rss-feeds" class="mainlevel">RSS</a></td></tr></tbody></table>
+									<table border="0" cellpadding="0" cellspacing="1"><tbody><tr><td nowrap="nowrap"><a href="/homenews" class="mainlevel">Home</a><span class="mainlevel"> | </span><a href="/privacy-policy" class="mainlevel" id="active_menu">Privacy Policy</a><span class="mainlevel"> | </span><a href="/terms-and-conditions" class="mainlevel">Terms &amp; Conditions</a><span class="mainlevel"> | </span><a href="/contact" class="mainlevel">Contact</a><span class="mainlevel"> | </span><a href="/contact/advertise" class="mainlevel">Advertise</a><span class="mainlevel"> | </span><a href="/resources/rss-feeds" class="mainlevel">RSS</a><span class="mainlevel"> | </span><a href="/contact/subscriptions" class="mainlevel">Subscriptions</a></td></tr></tbody></table>
 								</td>
 							</tr><tr>
 								<td>
 									<p>The Hill 1625 K Street, NW Suite 900 Washington DC 20006 | 202-628-8500 tel | 202-628-8503 fax</p>
-									<p class="small">The contents of this site are © 2009 Capitol Hill Publishing Corp., a subsidiary of News Communications, Inc.</p>
+									<p class="small">The contents of this site are © 2010 Capitol Hill Publishing Corp., a subsidiary of News Communications, Inc.</p>
 								</td>
 							</tr>
 						</tbody></table>
@@ -675,7 +816,8 @@ function proc_w_cb(elm) {
 		</tr>
 	</tbody></table>
 	<!-- ROST -->
-<script type="text/javascript" src="http://ad.thehill.com/www/delivery/al.php?zoneid=113&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;layerstyle=simple&amp;align=center&amp;valign=middle&amp;padding=2&amp;closetime=8&amp;padding=2&amp;shifth=0&amp;shiftv=0&amp;closebutton=t&amp;backcolor=FFFFFF&amp;bordercolor=000000"></script><!-- Start Quantcast tag --> 
+<script type="text/javascript" src="http://ad.thehill.com/www/delivery/al.php?zoneid=113&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;layerstyle=simple&amp;align=center&amp;valign=middle&amp;padding=2&amp;closetime=8&amp;padding=2&amp;shifth=0&amp;shiftv=0&amp;closebutton=t&amp;backcolor=FFFFFF&amp;bordercolor=000000"></script><!-- Interstitial -->
+<script type="text/javascript" src="http://ad.thehill.com/www/delivery/al.php?zoneid=203&amp;target=_blank&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;layerstyle=simple&amp;align=center&amp;valign=top&amp;padding=2&amp;closetime=10&amp;padding=2&amp;shifth=0&amp;shiftv=0&amp;closebutton=t&amp;backcolor=FFFFFF&amp;bordercolor=FFFFFF"></script><!-- Start Quantcast tag --> 
 <script type="text/javascript"> _qoptions={ qacct:"p-51dZx4IkAE4Zk" };
 </script> 
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script> 
@@ -690,6 +832,8 @@ try { var pageTracker = _gat._getTracker("UA-10188146-1");
 pageTracker._trackPageview(); 
 } catch(err) {}
 </script>
-	<!--192.168.42.29-->
+<!-- CB -->
+<script type="text/javascript"> var _sf_async_config={uid:3100,domain:"thehill.com"}; (function(){ function loadChartbeat() { window._sf_endpt=(new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src', (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") + "static.chartbeat.com/js/chartbeat.js"); document.body.appendChild(e); } var oldonload = window.onload; window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); }; })(); </script>
+	<!--192.168.42.41-->
 
-</body></html>
+<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
