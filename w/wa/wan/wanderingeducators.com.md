@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wanderingeducators.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103022842id_/http%3A//www.wanderingeducators.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wanderingeducators.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503122426id_/http%3A//www.wanderingeducators.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Wandering Educators
 
@@ -14,7 +14,7 @@ outlines the types of personal information we may collect when you use our servi
 
 ("Service"), which is described in greater detail in the Terms of Service ("TOS"), 
 
-available at <http://www.wanderingeducators.com/tos>, as well as some of the steps 
+available at <http://www.wanderingeducators.com/terms-service.html>, as well as some of the steps 
 
 we take to secure it.
 
