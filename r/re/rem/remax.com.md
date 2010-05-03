@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remax.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229161434id_/http%3A//www.remax.com/misc/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remax.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503210116id_/http%3A//www.remax.com/misc/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | RE/MAX International, Inc.
 
@@ -83,4 +83,4 @@ To contact us with your questions or comments regarding this policy or the infor
 
 To see the Terms of Use that apply to this Web Site, [click here](https://web.archive.org/terms_of_use/index.aspx).
 
-All trademarks, service marks, and other proprietary materials herein are the property of RE/MAX International, Inc. 2009. All rights reserved.
+All trademarks, service marks, and other proprietary materials herein are the property of RE/MAX, LLC. 2010. All rights reserved.
