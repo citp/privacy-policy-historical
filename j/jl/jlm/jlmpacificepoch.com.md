@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jlmpacificepoch.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620203223id_/http%3A//www.jlmpacificepoch.com/about.php%3Faboutpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jlmpacificepoch.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503095809id_/http%3A//www.jlmpacificepoch.com/about.php%3Faboutpage%3Dprivacy) for the most accurate reproduction.*
 
 # JLM Pacific Epoch - About
 
