@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oocl.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628193203id_/http%3A//www.oocl.com/eng/privacyandsecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oocl.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503221748id_/http%3A//www.oocl.com/eng/privacyandsecurity) for the most accurate reproduction.*
 
 # OOCL - Privacy & Security
 
