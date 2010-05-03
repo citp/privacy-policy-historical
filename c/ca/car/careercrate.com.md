@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careercrate.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226111758id_/http%3A//www.careercrate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careercrate.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503055519id_/http%3A//www.careercrate.com/privacy) for the most accurate reproduction.*
 
 # CareerCrate
 
