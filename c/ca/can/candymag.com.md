@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candymag.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217231227id_/http%3A//www.candymag.com/magazine/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candymag.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503221109id_/http%3A//www.candymag.com/magazine/about/privacy) for the most accurate reproduction.*
 
 # Magazine, all about Candy and more | Candymag.com
 
