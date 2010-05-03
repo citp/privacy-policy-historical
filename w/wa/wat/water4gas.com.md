@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the water4gas.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503141054id_/http%3A//water4gas.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D102) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the water4gas.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503220753id_/http%3A//www.water4gas.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D102) for the most accurate reproduction.*
 
 # Privacy Policy
 
