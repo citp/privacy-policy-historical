@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hukes.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101040407id_/http%3A//www.hukes.com/help-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hukes.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504130013id_/http%3A//www.hukes.com/help-privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
  
 
-Hukes.com has established its privacy policy to explain how your information within the purview of Hukes.com is protected, collected and used. This policy may be updated by Hukes.com. Hukes.com will post notices of its policy changes on the Hukes.com site at: <http://www.hukes.com/help-privacy.html> 
+Hukes.com has established its privacy policy to explain how your information within the purview of Hukes.com is protected, collected and used. This policy may be updated by Hukes.com. Hukes.com will post notices of its policy changes on the Hukes.com site at: <http://www.hukes.com/help-privacy.html>  
 
 **PRIVACY PROTECTION**
 
