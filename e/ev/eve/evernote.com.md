@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evernote.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103160040id_/http%3A//www.evernote.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evernote.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504121520id_/http%3A//www.evernote.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Evernote Corporation
 
@@ -8,7 +8,7 @@ Evernote Corporation values the privacy of those who use our web site, products 
 
 ## Information Collection and Use
 
-The primary reason that we collect certain personal information is to provide the best possible level of customer service. It enables us to deliver product announcements, software updates and special offers as well as provide convenient and personalized user access and improve the features and usability of our products. Registered Evernote users can view and change their personal information at any time by visiting the Evernote account information page by signing in at [www.evernote.com](https://web.archive.org/) and clicking on the "Settings" link. Unregistered users may still be able to use certain Evernote web sites and services, in which case no personal information is collected.
+The primary reason that we collect certain personal information is to provide the best possible level of customer service. It enables us to deliver product announcements, software updates and special offers as well as provide convenient and personalized user access and improve the features and usability of our products. Registered Evernote users can view and change their personal information at any time by visiting the Evernote account information page by signing in at [www.evernote.com](https://www.evernote.com/Login.action) and clicking on the "Settings" link. Unregistered users may still be able to use certain Evernote web sites and services, in which case no personal information is collected.
 
 Evernote may collect information and use it for internal business purposes in a number of situations, for example:
 
