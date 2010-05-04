@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bizagi.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102074221id_/http%3A//www.bizagi.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D18%26Itemid%3D44%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizagi.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504060230id_/http%3A//www.bizagi.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D18%26Itemid%3D44%26lang%3Den) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy,BPM, workflow, six sigma, business process, process management, business process management, BPMN, workflows, process automation, work flow, BPMS, Business Process Management Software, bpm software, workflow management, workflow software, ISO | BizAgi
 
 The following discloses our information gathering and dissemination practices for our web site, www.bizagi.com.
 
