@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cleanskies.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102163526id_/http%3A//cleanskies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleanskies.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504075030id_/http%3A//www.cleanskies.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | cleanskies.com
+# Privacy Policy | Clean Skies
 
 **EFFECTIVE JUNE 21, 2009**
 
