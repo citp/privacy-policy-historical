@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the persimmonhomes.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102052111id_/http%3A//www.persimmonhomes.com/terms-and-conditions/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the persimmonhomes.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504075340id_/http%3A//www.persimmonhomes.com/terms-and-conditions/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Persimmon Homes Privacy Policy
 
@@ -128,6 +128,10 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
 
 **February 2009**
 
+[Register now](https://web.archive.org/registration.aspx "Register now")[](https://web.archive.org/registration.aspx)
+
+Create your own portfolio of properties and developments for the next time you visit.
+
   
 
 
@@ -137,11 +141,10 @@ Home Search
 
   1. Enter postcode or location  
 
-  2. Within  miles 
-  3. Maximum price
-  4. Minimum bedrooms
-  5. Detailed search 
-
+  2. Within  miles
+  3. Maximum price 
+  4. Minimum bedrooms 
+  5. 
 
 
 ### Our developments
