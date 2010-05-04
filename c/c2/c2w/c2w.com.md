@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the c2w.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103024410id_/http%3A//us.c2w.com/pg/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c2w.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505000840id_/http%3A//us.c2w.com/pg/us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: c2w.com - Play, Create, Win. Trivia, Fun and Games
 
