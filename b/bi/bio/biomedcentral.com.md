@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biomedcentral.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608130257id_/http%3A//www.biomedcentral.com/info/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biomedcentral.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505013107id_/http%3A//www.biomedcentral.com/info/about/privacy) for the most accurate reproduction.*
 
 # BioMed Central | about us | Privacy policy
 
