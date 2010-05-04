@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energyguide.com privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028053341id_/http%3A//www.energyguide.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energyguide.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504172325id_/http%3A//www.energyguide.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policies: ENERGYguide.com - Lower Your Energy Bills
 
@@ -14,7 +14,7 @@ Aclara Software, which operates a portion of the Web site on behalf of our utili
   * Which security procedures are in place to protect the loss, misuse or alteration of information under the company's control
   * How you can correct any inaccuracies in the information
 
-If you have questions or concerns regarding this statement, you should first contact privacy@aclarasoft.com or by calling 781/694-3300 or via US Mail at 16 Laurel Avenue, Suite 100, Wellesley, MA 02481. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact Better Business Bureau On-Line who will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact privacy@aclara.com or by calling 781/694-3300 or via US Mail at 16 Laurel Avenue, Suite 100, Wellesley, MA 02481. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact Better Business Bureau On-Line who will then serve as a liaison with the Web site to resolve your concerns. 
 
 ### Our Commitment to Privacy
 
@@ -57,7 +57,7 @@ On some sites, Aclara Software partners with other sites to provide content and 
 Aclara Software offers users the opportunity to opt-out of receiving communications from both our partners and us when we request information from them. Aclara Software offers users the following options for removing their information from our database in order to stop receiving subsequent communications: 
 
   * Upon registering or entering a contest, you are given the choice of participating in periodic mailings, and may choose to opt-out; 
-  * You can send email to webmaster@aclarasoft.com;
+  * You can send email to webmaster@aclara.com;
   * All email communications include the option of opting out of future communications.
 
 Aclara Software reserves the right to contact you for strictly administrative purposes if it becomes necessary for some unforeseen reason. 
