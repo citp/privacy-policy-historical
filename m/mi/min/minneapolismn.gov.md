@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minneapolismn.gov privacy policy that was archived on 2008-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081018053222id_/http%3A//www.minneapolismn.gov/about/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minneapolismn.gov privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504121605id_/http%3A//www.minneapolismn.gov/about/privacystatement.asp) for the most accurate reproduction.*
 
 # City of Minneapolis Internet Privacy Statement
 
