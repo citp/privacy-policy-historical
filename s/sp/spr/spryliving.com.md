@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spryliving.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628184349id_/http%3A//www.spryliving.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spryliving.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504153008id_/http%3A//www.spryliving.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Spry
 
