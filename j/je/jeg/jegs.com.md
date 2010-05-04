@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jegs.com privacy policy that was archived on 2009-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091022134553id_/http%3A//www.jegs.com/s/customercare/CustomerCare.html%3Ftab%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jegs.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504154647id_/http%3A//www.jegs.com/s/customercare/CustomerCare.html%3Ftab%3D5) for the most accurate reproduction.*
 
 # JEGS
 
@@ -12,7 +12,7 @@ Errors in typographical content, pricing and photography are subject to correcti
  **Customer Satisfaction Guaranteed** Your satisfaction is paramount to our business! We strive to offer our customers the highest quality parts, top-notch customer and technical service, all at the lowest prices. We are so confident in our ability to do this that we offer an unparalleled Customer Satisfaction Guarantee. If you are not completely satisfied, return the new/unused item in the original box prepaid, with a copy of the invoice within one year, for a refund/exchange. 
 
   
-**24/7 Technical Support only At JEGS!** Need technical information about a product you've already purchased from us or help getting it installed? Need more information on an item before you purchase it? That is what we're here for 24 hours a day, 7 days a week, 362* days of the year! Our knowledgeable tech support staff is ready and willing to give you the support you need for all our name brand products. 
+**24/7 Technical Support only At JEGS!** Need technical information about a product you've already purchased from us or help getting it installed? Need more information on an item before you purchase it? That is what we're here for 24 hours a day, 7 days a week, 363* days of the year! Our knowledgeable tech support staff is ready and willing to give you the support you need for all our name brand products. 
 
   
 **Millions of Name Brand Parts in Stock** Our 250,000+ square foot warehouse is filled with **millions of name brand parts** ready for same day shipping. This means that most any item you want for your car will be in stock and ship the day you order it (by 9:00 pm EST). No more waiting. 
@@ -27,11 +27,11 @@ Errors in typographical content, pricing and photography are subject to correcti
 **Track Tested: We race what we sell** When you see the "TRACK TESTED" logo you can feel confident that this manufacturer has our official JEGS approval. Exclusively at JEGS, select manufacturers have been put to the test by our Championship Pro Stock Car and Sportsman race teams. The NHRA circuit provides the most demanding conditions possible for the daily use and abuse of our Track Tested manufacturers. Only after surviving these tests are manufactures given the Track Tested approval. We want you to know that when you buy a Track Tested product that you are buying with confidence. That is why, when you see the Track Tested logo, you know it is a winner! _(The Track Tested is a designation of JEGS Automotive, Inc. It is not a representation of warranty of any kind respecting the products with which it is used.)_
 
   
-**Did you know?** Did you know that we offer JEGS **Brand Product Instruction Sheets**? What this means to you is that when you purchase a product from JEGS you have access to installation instructions for your product** in pdf format. You can also be assured that our expert tech support staff is available to assist you with those instructions 24/7/362. You are welcome to [browse our instruction sheets](https://web.archive.org/web/20091022134553id_/http%3A//www.jegs.com/s/customercare/cs5.html) before you purchase a product from us. 
+**Did you know?** Did you know that we offer JEGS **Brand Product Instruction Sheets**? What this means to you is that when you purchase a product from JEGS you have access to installation instructions for your product** in pdf format. You can also be assured that our expert tech support staff is available to assist you with those instructions 24/7/362. You are welcome to [browse our instruction sheets](https://web.archive.org/web/20100504154647id_/http%3A//www.jegs.com/s/customercare/cs5.html) before you purchase a product from us. 
 
 **How are we doing?** At JEGS, customer satisfaction is a major part of our business. We want to know how we are doing. Let us know if someone has been helpful, how your service was, or how we can make your shopping experience more enjoyable by contacting us at [myexperience@jegs.com](mailto:myexperience@jegs.com).
 
-* - Closed New Years Day, Thanksgiving, and Christmas.  
+* - Closed Thanksgiving, and Christmas.  
 ** - Available on most JEGS products we sell and other manufacturers when available.
 
   
