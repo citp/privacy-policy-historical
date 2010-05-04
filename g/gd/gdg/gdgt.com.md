@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gdgt.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122024535id_/http%3A//gdgt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gdgt.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504203425id_/http%3A//gdgt.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - gdgt
 
