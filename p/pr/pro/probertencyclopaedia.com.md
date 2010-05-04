@@ -1,39 +1,39 @@
-> *The following text is extracted and transformed from the probertencyclopaedia.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/xpriv.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the probertencyclopaedia.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/xpriv.htm) for the most accurate reproduction.*
 
 # The Probert Encyclopaedia - FAQ
 
   |    
-[Abbreviations](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/abbreviations.htm)  
-[Actors](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/actors.htm)  
-[Aircraft](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/aircraft.htm)  
-[Architecture](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/architecture.htm)  
-[Computer Viruses](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/virus.htm)  
-[Costume](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/costume.htm)  
-[Dictionary](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/xdic.htm)  
-[Food & Drink](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/food.htm)  
-[Gazetteer](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/places.htm)  
-[General Information](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/geninf.htm)  
-[Heraldry](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/heraldry.htm)  
-[Language](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/lang.htm)  
-[Latin](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/latin.htm)  
-[Medicine](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/medicine.htm)  
-[Money](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/money.htm)  
-[Movies](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/movies.htm)  
-[Music](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/music.htm)  
-[Mythology](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/mythology.htm)  
-[Nature](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/nature.htm)  
-[People](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/people.htm)  
-[Recreation](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/sport.htm)  
-[Rocks & Minerals](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/rocks.htm)  
-[SciTech](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/science.htm)  
-[Shakespeare](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/shakespeare.htm)  
-[Ships](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/ships.htm)  
-[Slang](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/slang.htm)  
-[Warfare](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/war.htm)
+[Abbreviations](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/abbreviations.htm)  
+[Actors](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/actors.htm)  
+[Aircraft](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/aircraft.htm)  
+[Architecture](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/architecture.htm)  
+[Computer Viruses](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/virus.htm)  
+[Costume](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/costume.htm)  
+[Dictionary](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/xdic.htm)  
+[Food & Drink](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/food.htm)  
+[Gazetteer](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/places.htm)  
+[General Information](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/geninf.htm)  
+[Heraldry](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/heraldry.htm)  
+[Language](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/lang.htm)  
+[Latin](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/latin.htm)  
+[Medicine](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/medicine.htm)  
+[Money](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/money.htm)  
+[Movies](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/movies.htm)  
+[Music](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/music.htm)  
+[Mythology](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/mythology.htm)  
+[Nature](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/nature.htm)  
+[People](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/people.htm)  
+[Recreation](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/sport.htm)  
+[Rocks & Minerals](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/rocks.htm)  
+[SciTech](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/science.htm)  
+[Shakespeare](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/shakespeare.htm)  
+[Ships](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/ships.htm)  
+[Slang](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/slang.htm)  
+[Warfare](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/war.htm)
 
 Downloads
 
-[e-Books](https://web.archive.org/web/20091221144517id_/http%3A//www.probertencyclopaedia.com/xsales.htm) |  | 
+[e-Books](https://web.archive.org/web/20100504151307id_/http%3A//www.probertencyclopaedia.com/xsales.htm) |  | 
 
 ## Privacy Policy
 
