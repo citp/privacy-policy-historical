@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cpr.org privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107182101id_/http%3A//cpr.org/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D59%26Itemid%3D116) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpr.org privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505001553id_/http%3A//www.cpr.org/article/legacy-kvod-59) for the most accurate reproduction.*
 
 # Colorado Public Radio - Privacy Statement
+
+Colorado Public Radio's Privacy Statement
 
 Colorado Public Radio does not collect personally-identifying information from visitors to our web site unless visitors choose to provide that information.
 
@@ -14,9 +16,9 @@ The path taken through this site.
 
 The browser being used.
 
-A list of files downloaded or viewed.
+A list of files downloaded or viewed. 
 
-The amount of time spent listening to RealAudio, mp3, aac+ or Windows Media files.  
+The amount of time spent listening to RealAudio� or Windows Media files.   
 
 Any errors encountered. 
 
