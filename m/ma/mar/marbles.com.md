@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marbles.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830171645id_/http%3A//www.marbles.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marbles.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505014350id_/http%3A//marbles.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -6,7 +6,7 @@
 why we need your information and where we obtain it
 
   
-Our main use of your personal information is to look after your account or to provide the specific service you require. Some details we obtain elsewhere – from credit reference agencies or your employer for instance. If you apply to us for insurance, we will pass your details to the insurer.
+The marbles card is underwritten and managed by SAV Credit Limited, and the card is issued and administered by Bank of Scotland, which is part of Lloyds Banking Group plc. Our main use of your personal information is to look after your account or to provide the specific service you require. Some details we obtain elsewhere – from credit reference agencies or your employer for instance. If you apply to us for insurance, we will pass your details to the insurer.
 
 If you make a claim, any information you give to us, or to the insurer, may be put onto a register of claims and shared with other insurers to prevent fraudulent claims. A list of the participants is available from the insurer. We may also disclose your information to our agents and other insurers to investigate or prevent fraud.
 
