@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the gigaset.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230031156id_/http%3A//gigaset.com/shc/0%2C1935%2Chq_en_0_119430_rArNrNrNrN%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigaset.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504020534id_/http%3A//gigaset.com/hq/en/cms/PagePrivacyPolicy.html) for the most accurate reproduction.*
 
-# Gigaset Communications - cordless dect phones, voip phone, isdn telephones and home media receiver
+# Privacy policy
 
-### Privacy Policy
+**Gigaset Communications GmbH: data privacy** ****
 
-**Gigaset Communications GmbH: data privacy** Because we attach great importance to protecting the security and privacy of your personal data we conduct our business in compliance with applicable laws on data privacy protection and data security. The policy outlined in the following will help you to understand what information we may collect, how we use collected data, and who we may make such data available to. 
+Because we attach great importance to protecting the security and privacy of your personal data we conduct our business in compliance with applicable laws on data privacy protection and data security. The policy outlined in the following will help you to understand what information we may collect, how we use collected data, and who we may make such data available to. 
 
 **Personal data** We do not collect via our Website any personal data (e.g. names, addresses, telephone numbers or e-mail addresses) unless you voluntarily choose to provide such data to us (e.g. by registration, survey), or unless you give your consent to the collection of personal data, or unless such collection is otherwise permitted by applicable laws on the protection of your personal data. 
 
-**Purpose** Personal data which you make available to us is usually used to respond to your inquiries, to process your orders or to provide you with access to specific information or offers. In order to support our customer relations with you it may also be necessary: 
+**Purpose** Personal data which you make available to us is usually used to respond to your inquiries, to process your orders or to provide you with access to specific information or offers. In order to support our customer relations with you it may also be necessary:
 
   * to store and process personal data and share it with our worldwide partner companies to better understand your business needs and how we can improve our products and services; or
   * it may be necessary that we (or a third party on our behalf) use personal data to contact you about product offers in support of your business needs or to conduct online surveys to understand better our customers' needs. 
