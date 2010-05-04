@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paclii.org privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102050739id_/http%3A//www.paclii.org/paclii/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paclii.org privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504074226id_/http%3A//www.paclii.org/paclii/privacy.html) for the most accurate reproduction.*
 
 # PacLII - About PacLII: Privacy Policy
 
