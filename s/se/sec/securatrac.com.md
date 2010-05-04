@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the securatrac.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502221743id_/http%3A//www.securatrac.com/%3Fnav%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securatrac.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504121040id_/http%3A//www.securatrac.com/index.php%3Fnav%3Dprivacy) for the most accurate reproduction.*
 
-# SecuraTrac - Privacy Policy
+# SecuraTrac - Privacy Policy - GPS Child Tracking, GPS Pet Tracking
 
 SecuraTrac™ believes that strong electronic privacy is crucial for the ongoing success of the Internet as a service and a business medium. As a result, the information you enter on this form and in email correspondence with us will be known to only two parties: you and SecuraTrac.
 
@@ -10,6 +10,6 @@ It may be necessary to share some customer information to our trusted partners i
 
 From time to time, SecuraTrac may introduce new products and services to its users and members. To the extent these new products and services affect this policy, this policy will be updated. You will be informed of these updates and any privacy conditions related to these services.
 
-Should you have any need or interest in knowing what types of personal information we store, please contact us in any manner convenient for you. You can see the alternatives available on our [contact us](https://web.archive.org/web/20090502221743id_/http%3A//www.securatrac.com/%3Fnav%3Dprivacy?nav=support) page.
+Should you have any need or interest in knowing what types of personal information we store, please contact us in any manner convenient for you. You can see the alternatives available on our [contact us](https://web.archive.org/web/20100504121040id_/http%3A//www.securatrac.com/index.php%3Fnav%3Dprivacy?nav=support) page.
 
 Effective: March 8, 2009
