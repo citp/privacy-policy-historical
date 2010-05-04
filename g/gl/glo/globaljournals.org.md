@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globaljournals.org privacy policy that was archived on 2009-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091023114035id_/http%3A//www.globaljournals.org/global-journals-research-portal/guideline/privacy-policy/menu-id-299) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaljournals.org privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504092411id_/http%3A//globaljournals.org/global-journals-research-portal/guideline/privacy-policy/menu-id-299) for the most accurate reproduction.*
 
 # Privacy Policy | guideline | global-journals-research-portal
 
@@ -50,7 +50,7 @@ We may report aggregate information about globaljournals.org, GJ, Global Journal
 
 We may contract with third-party advertisers and their agents to post banner and other advertisements on our site, which may link to other websites not under our control. These third-party advertisers may use cookie technology or similar means to measure the effectiveness of their ads or may otherwise collect personally identifying information from you when you leave our site. We are not responsible or liable for any content, advertising, products, or other materials offered from such advertisers and their agents. Transactions that occur between you and the third-party advertisers are strictly between you and the third party and are not our responsibility. You should review the privacy policy of any third-party advertiser and its agent, as their policies may differ from ours.
 
-[back to top](http://globaljournals.org/global-journals-research-portal/guideline/privacy-policy/menu-id-299/#top)
+[back to top](http://www.globaljournals.org/global-journals-research-portal/guideline/privacy-policy/menu-id-299/#top)
 
 ## 
 
@@ -60,7 +60,7 @@ When you submit personal information via the globaljournals.org, GJ, Global Jour
 
 Once you have created an identity or paid account on our site, you can update your personal information at any time. You may also choose to stop receiving offer information from us about content or services. You can do this in several ways:
 
-[back to top](http://globaljournals.org/global-journals-research-portal/guideline/privacy-policy/menu-id-299/#top)
+[back to top](http://www.globaljournals.org/global-journals-research-portal/guideline/privacy-policy/menu-id-299/#top)
 
 ## 
 
