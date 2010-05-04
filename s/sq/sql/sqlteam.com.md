@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlteam.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102212434id_/http%3A//www.sqlteam.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlteam.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504110411id_/http%3A//www.sqlteam.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,3 +52,33 @@ You can access all your personally identifiable information that we collect onli
 ## How To Contact Us
 
 Should you have other questions or concerns about these privacy policies, please use the [Contact Us](http://www.sqlteam.com/contactus.aspx) to reach us.
+
+| 
+
+\- Advertisement -
+
+\- Sponsor's Message -
+
+## SQLShare.com Videos
+
+### [Retrieving a List of Reports from Reporting Services](http://www.sqlshare.com/RetrievingaListofReportsfromReportingServices_760.aspx)
+
+There's nothing quite as elegant as a data driven solution, as least if you're a DBA type person! If you're using Reporting Services the list of all the reports is stored in a table, no need for fancy SOAP or scripting, just query the table and get the list. Not a complex query at all, but a powerful technique to know
+
+### [Performance Tuning Puzzle - Part 2](http://www.sqlshare.com/PerformanceTuningPuzzlePart2_759.aspx)
+
+In this follow up to our puzzle we look at the impact of adding a recommended index, try an experiment with hard coding values, and finally rewrite the query slightly to try to get the performance we want. We started at 580 reads, and at completion we're down to 21, a nice gain! It shows some of the ideas behind tuning, and it shows that even getting performance from a simple query may take some thought.
+
+### [Performance Tuning Puzzle - Part 1](http://www.sqlshare.com/PerformanceTuningPuzzlePart1_758.aspx)
+
+Tuning takes practice, right? Well, here's your chance. We've got a fairly simple query that just returns a count, and with our default setup this query is not cheap - can you fix it? Can you get it from 700+ reads to 200? To less than 10? The references link for this video contains the database (SQL 2008) and the query, just attach the database and see what you can do. In the next view we'll look at some of the steps you might take to get warp speed from this query.
+
+### [Performance Tuning Puzzle - Part 1](http://www.sqlshare.com/PerformanceTuningPuzzlePart1_758.aspx)
+
+Tuning takes practice, right? Well, here's your chance. We've got a fairly simple query that just returns a count, and with our default setup this query is not cheap - can you fix it? Can you get it from 700+ reads to 200? To less than 10? The references link for this video contains the database (SQL 2008) and the query, just attach the database and see what you can do. In the next view we'll look at some of the steps you might take to get warp speed from this query.
+
+### [An Introduction to Check Constraints](http://www.sqlshare.com/AnIntroductiontoCheckConstraints_757.aspx)
+
+Check constraints are a great way to enforce additional logic at the row level, perhaps making sure that a gender column only includes the values M or F. The constraint can reference multiple columns, but only within the same row, and you have the option to NOT enforce it against existing data. A useful technique to know!  
+  
+---|---
