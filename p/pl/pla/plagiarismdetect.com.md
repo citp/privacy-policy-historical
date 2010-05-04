@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plagiarismdetect.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211222412id_/http%3A//www.plagiarismdetect.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plagiarismdetect.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504074351id_/http%3A//www.plagiarismdetect.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy policy | Free Online Plagiarism Detection System
 
