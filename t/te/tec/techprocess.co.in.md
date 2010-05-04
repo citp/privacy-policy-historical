@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techprocess.co.in privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103165648id_/http%3A//www.techprocess.co.in/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techprocess.co.in privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504150339id_/http%3A//www.techprocess.co.in/privacyPolicy.html) for the most accurate reproduction.*
 
 # Techprocess Solutions Ltd | Privacy Policy
 
@@ -26,4 +26,4 @@ Targeted advertisements may appear on web-site pages as the customer navigates t
 
 **Changes in the Privacy Statement** \- TechProcess may make changes to its Privacy Policy at any time, but it will notify the customers of any substantive or material change (by way of email) and provide them with the opportunity to opt-out.
 
-[](https://web.archive.org/web/20091103165648id_/http%3A//www.techprocess.co.in/servicerequisition.asp)
+[](https://web.archive.org/web/20100504150339id_/http%3A//www.techprocess.co.in/servicerequisition.asp)
