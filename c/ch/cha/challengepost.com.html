@@ -1,12 +1,14 @@
-<!--The following is the downloaded HTML source of the challengepost.com privacy policy that was archived on 2009-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091102165821id_/http%3A//www.challengepost.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the challengepost.com privacy policy that was archived on 2010-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100504020238id_/http%3A//www.challengepost.com/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 	<meta name="description" content="ChallengePost is a marketplace for challenges."> 
         <title>ChallengePost</title>
-	<link media="all" type="text/css" rel="stylesheet" href="/css/all_v8.css">
+	<link media="all" type="text/css" rel="stylesheet" href="/css/all_v9.css">
+	<link media="all" type="text/css" rel="stylesheet" href="/css/extra_v1.css">
+	
 	<link rel="SHORTCUT ICON" href="/cpfav.ico">
 	<style type="text/css" media="screen">
 <!--
@@ -37,8 +39,9 @@
         
         
 -->
-</style>	<link href="/css/jquery.autocomplete.css" media="screen" rel="stylesheet" type="text/css" id="my_stylesheet"></head>
-<body>
+</style>	<link href="/css/jquery.autocomplete.css" media="screen" rel="stylesheet" type="text/css" id="my_stylesheet">	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+</head>
+<body> 
 	<div id="main">
 		<a href="#main-nav" class="accessibility">skip to main navigation</a>
 		<div class="bg-holder">
@@ -122,6 +125,7 @@
 			<li><a class="url" href="/register">Register</a></li>
 			<li><a href="/about/help" rel="help">Help</a></li>
 	    		</ul>
+		<a href="http://twitter.com/challengepost" class="follow-us-on-twitter" target="_BLANK">Follow us on</a>
 		<span class="preview">PREVIEW</span>
 	</div>
 	<!-- main navigation --> 
@@ -131,7 +135,8 @@
 		<li class="menu-browse"><a class=" url" href="/browse">Browse</a></li>
 		<li class="menu-post-challenge"><a class=" url" href="/post">Post Challenge</a></li>
 		<li class="menu-post-wish"><a class=" url" href="/wishes">Post Wish</a></li>
-			
+		                                                    <li class="menu-organization"><a class=" url" href="/organization">ChallengePost for organization</a></li>
+                  	
 	</ul>
 	<!-- form search -->
 	<form action="/search" method="get">
@@ -177,6 +182,10 @@ try {
 var pageTracker = _gat._getTracker("UA-2233558-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>	
+	
+	     
+	<script type="text/javascript" src="/js/ie-hover-pack.js"></script>
+    <script src="/js/challenge/challenge_v8.js" type="text/javascript"></script>
 	 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
 <script type="text/javascript" src="/js/jquery.simplemodal.js"></script>
@@ -196,11 +205,7 @@ $(document).ready(function() {
 var loggedin = false;
 //]]>
 
-</script>	
-	     
-	<script type="text/javascript" src="/js/ie-hover-pack.js"></script>
-    <script src="/js/challenge/challenge_v6.js" type="text/javascript"></script>
-
+</script>
     
    <script type="text/javascript">
   var uservoiceJsHost = ("https:" == document.location.protocol) ? "https://uservoice.com" : "http://cdn.uservoice.com";
@@ -224,32 +229,29 @@ UserVoice.Tab.show({
            No account? <a id="registermodal" href="/register">Register</a>
 	      
 <form action="/login" method="post" id="userlogin" accept-charset="UTF-8"> 
-		<fieldset>
-			
-			
-			
-<div class="form-row "><label for="uemail">E-mail:*</label><input type="text" name="uemail" id="uemail" value="" helper="formText" class="input"></div>			
-			
-<div class="form-row "><label for="upassword">Password:*</label><input type="password" name="upassword" id="upassword" value="" helper="formPassword" class="input"></div>		
+  <fieldset>
 
-			<div class="form-row">
-				<label for="remember" class="remember"><input type="checkbox" id="remember" name="rememberMe" value="1">Remember me</label>
-			</div>
-			
-			
-			<input type="submit" value="" id="btn-login">
-						
-			
-<div class="form-row "><label for="redirect"></label><input type="hidden" name="redirect" value="" helper="formHidden" id="redirect"></div>		
-			
-		</fieldset>
-		
-		
-		
-		<span class="loading hidden"><img src="/images/loader.gif"></span>
-		
-		
-		<a href="/forgot-password" class="forgot-password-link">Forgot Password?</a>
+
+    
+<div class="form-row "><label for="uemail">E-mail:*</label><input type="text" name="uemail" id="uemail" value="" helper="formText" class="input"></div>
+    
+<div class="form-row "><label for="upassword">Password:*</label><input type="password" name="upassword" id="upassword" value="" helper="formPassword" class="input"></div>
+    <div class="form-row">
+      <label for="remember" class="remember"><input type="checkbox" id="remember" name="rememberMe" value="1">Remember me</label>
+    </div>
+
+
+    <input type="submit" value="" id="btn-login">
+
+    
+<div class="form-row "><label for="redirect"></label><input type="hidden" name="redirect" value="" helper="formHidden" id="redirect"></div>
+  </fieldset>
+
+
+  <fieldset>
+    <span class="loading hidden"><img src="/images/loader.gif" alt="Loading..."></span>
+    <a href="/forgot-password" class="forgot-password-link">Forgot Password?</a>
+  </fieldset>
 </form>	   </div>
 	   <div class="modal-register-form register-form" style="display: none;">
 	       <h1>Register a new account</h1>
@@ -278,15 +280,31 @@ UserVoice.Tab.show({
 <div class="form-row "><label for="redirect"></label><input type="hidden" name="redirect" value="" helper="formHidden" id="registerredirect"></div>	
 		</fieldset>
 	
-	<span class="loading hidden"><img src="/images/loader.gif"></span>
+  <span class="loading hidden"><img src="/images/loader.gif" alt="Loading..."></span>
 	
 </form>	   </div>
 	</div>
-    
+   
+	<script type="text/javascript">
+	var _sf_async_config={uid:5892,domain:"challengepost.com"};
+	(function(){
+	  function loadChartbeat() {
+	    window._sf_endpt=(new Date()).getTime();
+	    var e = document.createElement('script');
+	    e.setAttribute('language', 'javascript');
+	    e.setAttribute('type', 'text/javascript');
+	    e.setAttribute('src',
+	       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+	       "static.chartbeat.com/js/chartbeat.js");
+	    document.body.appendChild(e);
+	  }
+	  var oldonload = window.onload;
+	  window.onload = (typeof window.onload != 'function') ?
+	     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+	})();
+
+	</script> 
     
 
 
-    
-    
-
-</body></html>
+<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
