@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachers.tv privacy policy that was archived on 2009-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091002211407id_/http%3A//www.teachers.tv/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachers.tv privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504144818id_/http%3A//www.teachers.tv/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Teachers TV
 
@@ -8,7 +8,7 @@ The Teachers TV channel and the website www.teachers.tv are managed by Education
 
 ## Teachers TV Privacy Statement
 
-Teachers TV and its service providers will use any personal information collected from this website (www.teachers.tv) in accordance with the Data Protection Act 1998 ('the Act'). Further information about the Act can be found at the website of the [weblink:4711/181]. Teachers TV has taken appropriate measures to keep secure all personal information given by users of this site. This personal information will only ever be used for communicating with you about Teachers TV and we will not sell your information to any third parties.
+Teachers TV and its service providers will use any personal information collected from this website (www.teachers.tv) in accordance with the Data Protection Act 1998 (&#39;the Act&#39;). Further information about the Act can be found at the website of the [weblink:4711/181]. Teachers TV has taken appropriate measures to keep secure all personal information given by users of this site. This personal information will only ever be used for communicating with you about Teachers TV and we will not sell your information to any third parties.
 
 When you visit the website, a small text file known as a cookie will be downloaded to your computer. This is a common practice which allows Teachers TV to provide you with a better website by keeping track of the areas of the website you visit, for example your areas of specific interest. A cookie may allow Teachers TV to recognise repeat visits and recall information which you have previously supplied to Teachers TV, such as your name. You may adjust how your computer deals with cookies using your internet browser.
 
