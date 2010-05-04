@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the knowledgetree.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216205152id_/http%3A//www.knowledgetree.com/node/62) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgetree.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504152357id_/http%3A//www.knowledgetree.com/node/62) for the most accurate reproduction.*
 
-# Website Privacy Policy | Document Management Software | Open Source Document Management System
+# Website Privacy Policy | Document Management Software: SaaS, On-premise | KnowledgeTree
 
 This website is governed by the following privacy policy. 
 
