@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the anytimehealth.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214021450id_/http%3A//www.anytimehealth.com/en-us/site-links/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anytimehealth.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504043858id_/http%3A//www.anytimehealth.com/site-links/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Anytime Health
 
 ### Welcome to the online services of Anytime Health, LLC d/b/a Anytime Health (“Anytime Health”).
 
-Anytime Health is pleased to make its services provided at [http://www.anytimehealth.com](http://www.anytimehealth.com/) (the “Site”) available for your use. By using the Site or by signing up for an account you agree to be bound by the Privacy Policy set forth in this document as well as the Terms of Service posted at <http://www.anytimehealth.com/en-us/site-links/terms-of-service>.
+Anytime Health is pleased to make its services provided at [http://www.anytimehealth.com](http://www.anytimehealth.com/) (the “Site”) available for your use. By using the Site or by signing up for an account you agree to be bound by the Privacy Policy set forth in this document as well as the Terms of Service posted at [http://www.anytimehealth.com/en-us/site-links/terms-of-service](http://www.anytimehealth.com/site-links/terms-of-service).
 
 Use of this Site is strictly voluntary. If you do not agree to the Privacy Policy and Terms of Service, you must immediately log off the Site and may not use the Site.
 
