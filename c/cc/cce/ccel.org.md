@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccel.org privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227041242id_/http%3A//www.ccel.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccel.org privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505004903id_/http%3A//www.ccel.org/info/privacy.html) for the most accurate reproduction.*
 
 # CCEL Privacy Policy | Christian Classics Ethereal Library
 
@@ -26,7 +26,13 @@ The CCEL will not sell or rent any of your personally identifiable information t
 
 The CCEL does not send unsolicited e-mail to users. Only users who have voluntarily joined an e-mail list such as the ccel-list or have given permission to receive CCEL announcements receive e-mail from the CCEL. 
 
-**Notification of Changes**
+**Internet-based Advertising**
+
+CCEL frequently uses ad brokers who place ads on our web site. While CCEL does not collect or disseminate information from our users (other than the exceptions listed elsewhere in this privacy policy), some ad brokers are able to recognize the types of web pages that our users have visited through their own ‘cookies.’ Some of these ad brokers will select ads to place on our web site based on past web page activity of our users. CCEL, however, does not share, sell, or distribute this information, nor do the ad brokers obtain this information from CCEL.
+
+CCEL displays ads by Google, which uses the [Doubleclick DART](http://www.doubleclick.com/privacy/faq.aspx) cookie. This allows Google to display relevant ads based on activity on our site as well as other activity on other sites within the Google Ad Network. User may [opt out](http://www.google.com/privacy_ads.html) of this system at any time.
+
+ **Notification of Changes**
 
 This policy may be revised over time as new features are added to CCEL or as we incorporate suggestions from our users. The CCEL is not responsible for notifying users of changes to this policy.
 
