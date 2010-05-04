@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the azlyrics.com privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318130549id_/http%3A//www.azlyrics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azlyrics.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504120311id_/http%3A//www.azlyrics.com/privacy.html) for the most accurate reproduction.*
 
 # A-Z Lyrics Universe Privacy Policy
 
   
+**PRIVACY STATEMENT FOR AZLYRICS.COM**
+
 Azlyrics.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: azlyrics.com 
 
 **Information Automatically Logged**
