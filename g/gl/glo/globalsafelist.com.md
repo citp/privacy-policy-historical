@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalsafelist.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103044158id_/http%3A//globalsafelist.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsafelist.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504203527id_/http%3A//globalsafelist.com/Privacy.html) for the most accurate reproduction.*
 
 # 
 
