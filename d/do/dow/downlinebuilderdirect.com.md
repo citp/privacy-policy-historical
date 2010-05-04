@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the downlinebuilderdirect.com privacy policy that was archived on 2009-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091030051618id_/http%3A//downlinebuilderdirect.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downlinebuilderdirect.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504124940id_/http%3A//downlinebuilderdirect.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy Page
+# List Building - Downline Builder - Opt In List Building - Downline Builder Direct
 
-** ** **DOWNLINEBUILDERDIRECT.COM  
- **
+   
 
-##  **PRIVACY POLICY**
+## PRIVACY POLICY
 
 Welcome to DownlineBuilderDirect.com (the "Site").
 
@@ -67,6 +66,4 @@ This Site is not directed at children. Visitors and Authorized Customers are req
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
 DownlineBuilderDirect.com , All rights reserved..  
-Unauthorized duplication or publication of any materials from this Site is expressly prohibited.
-
-Get your own Privacy Policy [ here](http://www.prioritydigital.com/)! 
+Unauthorized duplication or publication of any materials from this Site is expressly prohibited. Get your own Privacy Policy [ here](http://www.prioritydigital.com/)! 
