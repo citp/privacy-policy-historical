@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the anytimehealth.com privacy policy that was archived on 2009-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091214021450id_/http%3A//www.anytimehealth.com/en-us/site-links/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anytimehealth.com privacy policy that was archived on 2010-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100504043858id_/http%3A//www.anytimehealth.com/site-links/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
@@ -8,19 +8,20 @@
     <meta name="description" content="Site Links">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=1030, user-scalable=yes">
-    <base href="http://www.anytimehealth.com/en-us/">
-    <link href="http://www.anytimehealth.com/en-us/asset.axd?name=csssite&amp;v=1.0.0.4" rel="stylesheet" type="text/css">
-    
+    <link rel="shortcut icon" href="/favicon.ico">
+    <base href="http://www.anytimehealth.com/">
+    <link href="http://www.anytimehealth.com/asset.axd?name=csssite&amp;v=1.0.0.14" rel="stylesheet" type="text/css">
     
     
 
-    <!--[if lt IE 7]>
-    <link href="http://www.anytimehealth.com/en-us/content/styles/ie6.css" rel="stylesheet" type="text/css" />
-	<![endif]-->
+    
+    <!-- Page Generated 5/3/2010 6:07:27 PM -->
+    <!-- Page Rendered in 31.2652 ms -->
+    
+    <!--[if lt IE 7]><link href="http://www.anytimehealth.com/content/styles/ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
     <style type="text/css">
     <!--
         
-    
     #primarycolumn
     {   
         display: none;
@@ -28,6 +29,10 @@
     #centercolumn
     {
         width:980px;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
     }
     #secondarycolumn
     {
@@ -37,17 +42,17 @@
      
 
 
-
     -->
     </style>
     <script type="text/javascript">
     //<![CDATA[
-        var BasePath = 'http://www.anytimehealth.com/en-us/'; 
+        var BasePath = 'http://www.anytimehealth.com/'; 
         var Path = 'site-links';
     //]]>
     </script>
-    <script type="text/javascript" src="http://www.anytimehealth.com/en-us/asset.axd?name=preload&amp;v=1.0.0.1">
+    <script type="text/javascript" src="http://www.anytimehealth.com/asset.axd?name=preload&amp;v=1.0.0.1">
     </script>
+    
 </head>
 <body>
     <div id="pagecontent" style="position: relative; z-index: 1">
@@ -55,20 +60,62 @@
         <div id="headerframe" class="frame" style="position:relative; z-index: 1;">
             
             <div id="header" class="content" style="position: relative; z-index: 1;">
-                <a href="http://www.anytimehealth.com/en-us/"><img src="Content/Images/Logo.gif" style="float: left; width: 174px; height: 53px; margin-top: 10px;" alt="Anytime Health Logo"></a>
+                <a href="http://www.anytimehealth.com/"><img src="Content/Images/Logo.gif" style="float: left; width: 174px; height: 53px; margin-top: 10px;" alt="Anytime Health Logo"></a>
                 <div id="navigation">
                     
 
+<div id="SearchInput" style="position: absolute; right: 0px; top: 39px; background-color: White; display: none; width: 790px; padding-top: 8px; padding-right: 10px;">
 
-                   <ul id="firstnavigation">
-                        <li class=""><a href="getting-started" class="firstnavigation-firstcolor">Getting Started</a></li>
-                        <li class=""><a href="fitness" class="firstnavigation-firstcolor">Fitness</a></li>
-                        <li class=""><a href="nutrition" class="firstnavigation-firstcolor">Nutrition</a></li>
-                        <li class=""><a href="library" class="firstnavigation-secondcolor">Library</a></li>
-                        <li class=""><a href="community" class="firstnavigation-secondcolor">Community</a></li>
-                        <li class=""><a href="store" class="firstnavigation-secondcolor">Store</a></li>
-                    </ul>
+    <div style="float: right; text-align: center;">
+        <input class="buttonteal" style="padding-left: 9px; padding-right: 9px; font-size: 15px; height: 25px; margin-left: 8px;" type="button" onclick="DoSiteSearch()" title="Click to search..." value="Go">
+        <span onclick="$('#SearchIcon').removeClass('firstnavigation-selected'); $('#SearchInput').hide();" style="font-size: 9px; display: block; margin-top: 3px; margin-left: 6px; text-decoration: underline; color: #0e8394; cursor: pointer;">cancel</span>
+    </div>
+    
+    <div style="float: right;">
+        <input type="text" id="searchwords" style="width: 398px; height: 20px; margin-left: 12px; font-size: 17px; padding-top: 2px; padding-left: 3px;">
+    </div>
+    
+    <div style="float: right; font-size: 11px; padding-top: 2px;">
+        <input id="ThisSection" type="radio" name="searchwhere" title="Search within this section." style="vertical-align: middle;"> 
+        <label for="ThisSection" style="vertical-align: middle;">Section :
+            <select id="SectionList" style="width: 90px; font-size: 11px; vertical-align: middle">
+                <option value="fitness">Fitness</option>
+                <option value="nutrition">Nutrition</option>
+                <option value="library">Library</option>
+                <option value="community">Community</option>
+                <option value="store">Store</option>
+            </select>
+        </label>
+        <input id="wholesite" type="radio" name="searchwhere" title="Search within the Anytime Health site." checked="checked" style="vertical-align: middle; margin-left: 8px;">
+        <label for="wholesite" style="vertical-align: middle;"> Whole Site</label>        
+    </div>
+</div>
 
+
+<ul id="firstnavigation">
+    
+    <li class=""><a href="getting-started" class="firstnavigation-firstcolor">
+        Getting Started</a></li>
+    
+    <li class=""><a href="fitness" class="firstnavigation-firstcolor">
+        Fitness</a></li>
+    
+    <li class=""><a href="nutrition" class="firstnavigation-firstcolor">
+        Nutrition</a></li>
+    
+    <li class=""><a href="library" class="firstnavigation-secondcolor">
+        Library</a></li>
+    
+    <li class=""><a href="community" class="firstnavigation-secondcolor">
+        Community</a></li>
+    
+    <li class=""><a href="store" class="firstnavigation-secondcolor">
+        Store</a></li>
+    
+    <li id="SearchIcon" style="width: 20px; " onclick="OpenSearch()" onmouseover="this.style.cursor='hand'">
+        <img alt="" src="content/Images/search/search.gif" style="margin-top: 2px;" title="Search this site for matching documents.">
+    </li>
+</ul>
 
                     
                     <ul id="secondnavigation">
@@ -78,9 +125,9 @@
             </div>
 
         </div>
-        <div id="splashframe" class="frame splash" style="background-image: url(http://www.anytimehealth.com/en-us/content/images/fades/tealfade.gif);">
+        <div id="splashframe" class="frame splash" style="background-image: url(http://www.anytimehealth.com/content/images/fades/tealfade.gif);">
             
-            <div id="splash" class="content" style="position:relative; z-index=1;">
+            <div id="splash" class="content" style="position:relative;">
                 
                 
     
@@ -98,7 +145,7 @@
                 
                     <div id="toparea">
                         
-    <!--[if lt IE 7]><style type="text/css">#toparea { display: none; }</style><![endif]-->
+    <!--[if lt IE 8]><style type="text/css">#toparea { display: none; }</style><![endif]-->
 
                     </div>
 
@@ -113,7 +160,7 @@
                         
 <div class="" id="doc3447" style=" position:relative; top:0px; left:0px;"><div class="segment" id="seg20513" style=""><h3>Welcome to the online services of Anytime Health, LLC d/b/a Anytime Health (“Anytime Health”).</h3>
 
-<p>Anytime Health is pleased to make its services provided at <a href="http://www.anytimehealth.com">http://www.anytimehealth.com</a> (the “Site”) available for your use. By using the Site or by signing up for an account you agree to be bound by the Privacy Policy set forth in this document as well as the Terms of Service posted at <a href="http://www.anytimehealth.com/en-us/site-links/terms-of-service">http://www.anytimehealth.com/en-us/site-links/terms-of-service</a>.</p>
+<p>Anytime Health is pleased to make its services provided at <a href="http://www.anytimehealth.com">http://www.anytimehealth.com</a> (the “Site”) available for your use. By using the Site or by signing up for an account you agree to be bound by the Privacy Policy set forth in this document as well as the Terms of Service posted at <a href="http://www.anytimehealth.com/site-links/terms-of-service">http://www.anytimehealth.com/en-us/site-links/terms-of-service</a>.</p>
 
 <p>Use of this Site is strictly voluntary. If you do not agree to the Privacy Policy and Terms of Service, you must immediately log off the Site and may not use the Site.</p>
 
@@ -202,14 +249,25 @@ Hastings, MN 55033 </p>
         <div id="bottomstripe" class="stripe"><img src="content/images/spacer.gif" style="height: 2px;" alt=""></div>
         <div id="footerframe">
             <div id="footer">           
-                <div class="" id="doc2834" style=" position:relative; top:0px; left:0px;"><div class="footercolumn">
-   <a href="sitelinks" class="footerheader">Site Links</a>
+                <div class="" id="doc2834" style=" position:relative; top:0px; left:0px;">   <div style="height: 60px;">
+      <a href="http://www.anytimefitness.com"><img src="content/images/AnytimeFitnessFooter.gif" alt="Anytime Fitness" style="float: left;"></a>
+      <div style="height: 60px; float: left; padding-left: 20px; padding-top: 12px; font-size: 15px; width: 770px;">
+        Anytime Health is the official wellness website of Anytime Fitness—the world's largest co-ed fitness center chain! 
+        Get a FREE 7-day pass. <a href="http://www.anytimefitness.com/en-us/locate" style="color: #89f646; font-weight: bold;" class="underlineover">Click to find an Anytime Fitness gym near you!</a>
+
+      </div>
+   </div>
+<div style="clear: both"></div>
+
+<div class="footercolumn">
+
+   <a href="/" class="footerheader">Site Links</a>
    <hr>
    <ul>
         <li><a href="/">Home</a></li>
+        <li><a href="getting-started">Getting Started</a></li>        
         <li><a href="site-links/terms-of-service">Terms of Service</a></li>
         <li><a href="site-links/privacy-policy">Privacy Policy</a></li>
-        <li><a href="site-links/health-care-reform">Health Care Reform</a></li>
    </ul>
 </div>
 
@@ -217,46 +275,48 @@ Hastings, MN 55033 </p>
    <a href="fitness" class="footerheader">Fitness</a>
    <hr>
    <ul>
-        <li><a href="fitness/fitness-basics">The Basics</a></li>
-        <li><a href="fitness/exercise-videos">Exercise Videos</a></li>
+        <li><a href="fitness-basics">The Basics</a></li>
+        <li><a href="exercise-videos">Exercise Videos</a></li>
         <li><a href="fitness/workout-planner">Workout Planner</a></li>
         <li><a href="fitness/activity-tracker">Activity Tracker</a></li>
    </ul>
 </div>
 
 <div class="footercolumn">
-   <a href="fitness" class="footerheader">Nutrition</a>
+   <a href="nutrition" class="footerheader">Nutrition</a>
    <hr>
    <ul>
-        <li><a href="nutrition/nutrition-basics">The Basics</a></li>
-        <li><a href="nutrition/recipes">Healthy Recipes</a></li>
-        <li><a href="nutrition/meal-plans">Meal Plans</a></li>
-        <li><a href="nutrition/dietary-supplements">Dietary Supplements</a></li>
+        <li><a href="nutrition-basics">The Basics</a></li>
+        <li><a href="recipes">Healthy Recipes</a></li>
+        <li><a href="meal-plans">Meal Plans</a></li>
+        <li><a href="dietary-supplements">Dietary Supplements</a></li>
         <li><a href="nutrition/diet-tracker">Diet Tracker</a></li>
    </ul>
 </div>
 
 <div class="footercolumn">
-   <a href="fitness" class="footerheader">Library</a>
+   <a href="library" class="footerheader">Library</a>
    <hr>
    <ul>
-        <li><a href="library/latest-news">Latest News</a></li>
-        <li><a href="library/wellness-centers">Wellness Centers</a></li>
-        <li><a href="library/fact-sheets">Fact Sheets</a></li>
+        <li><a href="latest-news">Latest News</a></li>
+        <li><a href="wellness-centers">Wellness Centers</a></li>
+        <li><a href="fact-sheets">Fact Sheets</a></li>
+        <li><a href="exercise-is-medicine">Exercise is Medicine</a></li>
     </ul>
 </div>
 
 <div class="footercolumn">
-   <a href="fitness" class="footerheader">Community</a>
+   <a href="community" class="footerheader">Community</a>
    <hr>
    <ul>
-        <li><a href="community/profile">Profile</a></li>
-        <li><a href="community/blog">Site Blog</a></li>
+        <li><a href="questions">Q &amp; A</a></li>
+        <li><a href="support-groups">Support Groups</a></li>
+        <li><a href="blog">Site Blog</a></li>
    </ul>
 </div>
 
-<div class="footercolumn">
-   <a href="fitness" class="footerheader">Store</a>
+<div class="footercolumn" style="width: 125px;">
+   <a href="store" class="footerheader">Store</a>
    <hr>
    <ul>
         <li><a href="store/cart">View Cart</a></li>
@@ -267,8 +327,15 @@ Hastings, MN 55033 </p>
 <div style="clear: both; padding-top: 25px;">
 
   <p>
-Please consult your physician prior to starting any diet or exercise program.
+Please consult your physician prior to starting any diet or exercise program. <br>
+Questions? Comments? Send a message to <a href="mailto:support@anytimehealth.com">support@anytimehealth.com</a>.
   </p>
+
+  <p>
+Anytime Health is the official wellness website of Anytime Fitness—the world's largest co-ed fitness center chain! <br>
+Get a FREE 7-day pass. <a href="http://anytimefitness.com/en-us/membership/#ShowForm">Click to find an Anytime Fitness gym near you!</a>
+  </p>
+
 <!--
   <p>
     <a href="http://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/Icons/valid-xhtml10-blue" alt="Valid XHTML 1.0 Strict" height="31" width="88" /></a>
@@ -276,21 +343,20 @@ Please consult your physician prior to starting any diet or exercise program.
 </div>
 </div>
                 <br>
-                © 2009 Anytime Health, LLC.
+                © 2010 Anytime Health, LLC.
 
             </div>    
         </div>
         <div id="tipbox"></div>
         <div id="tipboxbig"></div>
+        <div id="videopopupplaceholder" style="display: none;"><div id="videopopup" style="background-color: #FFF; width: 100%; height: 100%"></div></div>
     </div>
-    <div id="printcontent"></div>
+    <div id="printcontent" style=""></div>
     <!-- Load Site Scripts -->
-    <!--[if gt IE 7]>
-	<base href="http://www.anytimehealth.com/en-us/" />  
-	<![endif]-->      
+    <!--[if gt IE 7]><base href="http://www.anytimehealth.com/" /><![endif]-->      
     
-<script type="text/javascript" src="asset.axd?name=jquery&amp;v=1.0.0.4"></script>
-<script type="text/javascript" src="asset.axd?name=site&amp;v=1.0.0.4"></script>   
+<script type="text/javascript" src="asset.axd?name=jquery&amp;v=1.0.0.14"></script>
+<script type="text/javascript" src="asset.axd?name=site&amp;v=1.0.0.14"></script>   
      
     <script type="text/javascript">
     //<![CDATA[
@@ -315,6 +381,9 @@ Please consult your physician prior to starting any diet or exercise program.
         } catch (err) { }
     //]]>
     </script>
+    
+    
+    <!-- Page Rendered in 31.2652 ms -->
     
 
 </body></html>
