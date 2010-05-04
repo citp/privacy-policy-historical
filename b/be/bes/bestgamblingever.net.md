@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestgamblingever.net privacy policy that was archived on 2009-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090920232157id_/http%3A//bestgamblingever.net/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestgamblingever.net privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504215423id_/http%3A//bestgamblingever.net/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
