@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remezcla.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101133911id_/http%3A//www.remezcla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remezcla.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504112409id_/http%3A//remezcla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Remezcla.com | Remezcla
 
