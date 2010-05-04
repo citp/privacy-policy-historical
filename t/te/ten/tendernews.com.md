@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tendernews.com privacy policy that was archived on 2009-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091025123637id_/http%3A//www.tendernews.com/tender_government.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tendernews.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504145735id_/http%3A//www.tendernews.com/tender_government.asp) for the most accurate reproduction.*
 
 # Invitation to tender india on the web construction tenders printing tenders bids public tenders news india
 
@@ -17,7 +17,3 @@ This web site contains links to other sites. Please be aware that tendernews.com
 **Monitoring, Logs & Cookies**
 
 We at Tender News India use IP addresses, cookies etc. to analyze trends, administer the site, track site use, and gather broad demographic information for aggregate use. If you have any comments or concerns regarding our Privacy Policy or want copy of information we hold about you, feel free to contact us. 
-
-Telephone:  +91-11-26816103, 26811727, 26816530  
-Fax No:+ 91-11-26816573  
-Email id : [ Info@tendernews.com](mailto:Info@tendernews.com?subject=Query%20For%20Subscription)
