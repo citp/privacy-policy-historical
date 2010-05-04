@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loverboysusa.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531112429id_/http%3A//www.loverboysusa.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loverboysusa.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504115452id_/http%3A//loverboysusa.com/privacy.html) for the most accurate reproduction.*
 
 # LoverboysUSA.com - Privacy Policy
 
