@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freewebstore.org privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504000529id_/http%3A//www.freewebstore.org/website/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebstore.org privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504144012id_/http%3A//www.freewebstore.org/website/privacy.html) for the most accurate reproduction.*
 
 # Free Web Store - Privacy Policy
 
-Below we set out our privacy policy which will govern the way in which we process any personal information that you provide to us. Our details are : shown on this site's contact page.
+Below we set out our Privacy Policy which will govern the way in which we process any personal information that you provide to us.
 
-The site owner can be contacted at the email address on this sites contact page
+The site owner can be contacted at the email address on this site's contact page.
 
 You can access our home page and browse certain areas of the site without disclosing your personal data save information collected by cookies that we may use (see below).
 
@@ -56,9 +56,7 @@ Neither we nor any of our employees or affiliated entities will be liable for an
 
 We are not responsible for the direct or indirect consequences of you linking to any other website from this website.
 
-**Geographic Restriction**
-
-This website is intended for use by UK residents only and only in relation to their activities within the UK . It may be very dangerous to apply any of the information on this website to activities outside of that area. If you are resident outside this area, please leave this site immediately.
+**Geographic Jurisdiction**
 
 These terms and this disclaimer and any claim based on use of information from this website shall be governed by the laws of England and Wales and you agree to submit to the non-exclusive jurisdiction of the Courts of England.
 
