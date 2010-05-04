@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ky3.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102062211id_/http%3A//www.ky3.com/about/44149122.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ky3.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504160329id_/http%3A//www.ky3.com/about/44149122.html) for the most accurate reproduction.*
 
 # KY3.com Privacy Statement | KY3 News, Weather, Sports - Springfield, MO | Inside KY3
 
-Story Published: May 1, 2009 at 9:36 AM CST 
+Story Published: May 1, 2009 at 10:36 AM CDT 
 
-Story Updated: May 1, 2009 at 10:45 AM CST 
+Story Updated: May 1, 2009 at 11:45 AM CDT 
 
 **General**
 
