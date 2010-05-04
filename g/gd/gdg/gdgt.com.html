@@ -1,18 +1,20 @@
-<!--The following is the downloaded HTML source of the gdgt.com privacy policy that was archived on 2009-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091122024535id_/http%3A//gdgt.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gdgt.com privacy policy that was archived on 2010-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100504203425id_/http%3A//gdgt.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
   <meta name="verify-v1" content="MIZS4LCRBugprTinSAeacnWzPjIMSQEz28S3hvSbm0s=">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta http-equiv="Content-Language" content="en-us">
     <title>Privacy policy - gdgt</title>
-  <meta name="description" content=" gdgt's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make infor">  <link rel="stylesheet" type="text/css" href="http://media.gdgt.com/css/gdgt.combined.8ue.css" media="screen,projection,tv">
+  <meta name="description" content=" gdgt's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make infor">  <link rel="stylesheet" type="text/css" href="http://media.gdgt.com/css/gdgt.combined.bvt.css" media="screen,projection,tv">
   <!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://gdgt.com/css/add_ie6.css" media="screen,projection,tv" /><![endif]-->
   <!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://gdgt.com/css/add_ie7.css" media="screen,projection,tv" /><![endif]-->
-  <link rel="shortcut icon" href="http://gdgt.com/favicon.ico" type="image/vnd.microsoft.icon">
+  <link rel="shortcut icon" href="http://media.gdgt.com/img/site/favicon.png" type="image/png">
   <link rel="apple-touch-icon" type="image/png" href="http://media.gdgt.com/img/site/apple-touch-icon.png">
   <meta http-equiv="imagetoolbar" content="no">
   <meta name="MSSmartTagsPreventParsing" content="true">
+
 
 
   <script type="text/javascript">
@@ -21,13 +23,25 @@
     var fb_app_key = "4ece1c06c6d85da12758a56f44f2e182";
 
     var FW_DEBUG = false;
+    var FW_NO_CACHE = false;
+    var FW_NO_DBCACHE = false;
     var URL_PREFIX_AJAX = '/a/';
+    var URL_PREFIX_CDN_IMAGE = 'http://media.gdgt.com/img/';
     var URL_PREFIX_IMAGE = 'http://media.gdgt.com/img/site/';
     var URL_PREFIX_USER = 'http://user.gdgt.com/';
     var URL_PREFIX_DISCUSS = 'http://discuss.gdgt.com/';
     var URL_PREFIX_COMMUNITY = 'http://community.gdgt.com/';
+    var URL_PREFIX_NEWS = 'http://news.gdgt.com/';
+    var ENVIRONMENT = 'prd';
+    var HOMEPAGE_CUSTOMIZE = '1';
 
+    // Differantiate the constants related to search for DEV environment and others
+          var GDGT_SEARCH_FILE = 'GdgtSearchBySphinx';
+      var FCBK_MATCH_FLAG = false;
+    
     var MAIN_URL = 'http://gdgt.com';
+
+    var _kmq = _kmq || [];
 
     var gStaticMessages = [];
     var gValidateRules = new Object;
@@ -37,6 +51,7 @@
     var is_user_verified = 0;
     var is_user_password_set = 0;
     var is_login_using_facebook = 0;
+   	var is_gdgt_user_connected_fb = 1;
     var is_email_id_set = 0;
     var discuss_form_active = 0;
     var reply_edit_time = '300';
@@ -52,34 +67,76 @@
 
     var jshandlers = [''];
 
-
 // ]]>
   </script>
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" charset="utf-8"></script>
-  <script type="text/javascript" src="http://media.gdgt.com/js/gdgt.combined.8ue.js" charset="utf-8"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" charset="utf-8"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js" charset="utf-8"></script>
+  <script type="text/javascript" src="http://media.gdgt.com/js/gdgt.combined.bvt.js" charset="utf-8"></script>
     
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
-<script type="text/javascript">
+
+	<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script> 
+<script type="text/javascript"> 
 // <![CDATA[
   var ad_publisher_id = 'ca-pub-6479905897636233';
   GS_googleAddAdSenseService(ad_publisher_id);
   GS_googleEnableAllServices();
 // ]]>
-</script>
+</script> 
 <script type="text/javascript">
 // <![CDATA[
-  GA_googleAddSlot(ad_publisher_id, 'gdgt_adsense');
+  /* GA_googleAddSlot(ad_publisher_id, 'gdgt_adsense'); */
   GA_googleAddSlot(ad_publisher_id, 'gdgt_leaderboard');
-  GA_googleAddSlot(ad_publisher_id, 'gdgt_medium1');
+  GA_googleAddSlot(ad_publisher_id, 'gdgt_leaderboard2');
   GA_googleAddSlot(ad_publisher_id, 'gdgt_medium2');
+  GA_googleAddSlot(ad_publisher_id, 'gdgt_medium1');
   GA_googleAddSlot(ad_publisher_id, 'gdgt_promo1');
   GA_googleFetchAds();
 // ]]>
 </script>
+    
+    <script type="text/javascript">
+    // <![CDATA[
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-818999-3']);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['_setDomainName', '.gdgt.com']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+      // ]]>
+    </script>
+    
+<script type="text/javascript" async="" src="http://media.gdgt.com/js/kissmetrics.js"></script><script type="text/javascript" async="" src="http://media.gdgt.com/js/kissmetrics.js"></script></head>
 
-</head>
 <body>
-<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"></script>
+
+<script type="text/javascript">
+  var KM_KEY="feceb7a748e7682be1ad7e67b23a8033756e7e32";
+  (function(){function _kms(u,d){if(navigator.appName.indexOf("Microsoft")==0 && d)document.write("<scr"+"ipt defer='defer' async='true' src='"+u+"'></scr"+"ipt>");else{var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);}}_kms('http://media.gdgt.com/js/kissmetrics.js');_kms('http://media.gdgt.com/js/kissmetrics.js',1);})();
+</script>
+
+<script src="http://media.gdgt.com/js/mixpanel.js" type="text/javascript"></script>
+
+
+<script type="text/javascript"> try {  var mpmetrics = new MixpanelLib('56b604ef1833aaf786cb78665686e5b2'); } catch(err) { null_fn = function () {}; var mpmetrics = {  track: null_fn,  track_funnel: null_fn,  register: null_fn,  register_once: null_fn, register_funnel: null_fn }; } </script>
+
+
+<script type="text/javascript">
+
+	  
+
+
+mpmetrics.register_funnel('Signup funnel', [
+  'Viewed Homepage',
+  'Clicked Register Button',
+  'Signed Up'
+]);
+
+</script>
+
+<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US"></script>
 
 <div id="loading"><img alt="Loading..." src="http://media.gdgt.com/img/site/loading.gif" width="32" height="32"></div>
 <div id="alert_popover" class="hidden">
@@ -90,19 +147,22 @@
 
 <div id="wrap">
     <div id="top_ad" class="robots-nocontent">
-    <script type="text/javascript">
-    // <![CDATA[
-      GA_googleFillSlot('gdgt_leaderboard');
-    // ]]>
-    </script>
+  
+
+  
+
   </div>
-    <div id="header">
+
+
+  
+  <div id="header">
     <h1 class="logo"><a href="http://gdgt.com" title="gdgt">gdgt</a></h1>
     <div class="nav">
       <ul id="topnav">
         <li class="browse"><a href="http://gdgt.com/browse/" title="Browse">Browse</a></li>
         <li class="finder"><a href="http://gdgt.com/find/" title="Finder">Finder</a></li>
-        <li class="discuss"><a href="http://discuss.gdgt.com/" title="Discuss">Discuss</a></li>
+        <li class="news"><a href="http://news.gdgt.com/" title="News">News</a></li>
+        <li class="discuss"><a href="http://gdgt.com/discuss/" title="Discuss">Discuss</a></li>
         <li class="features"><a href="http://features.gdgt.com/" title="Features">Features</a></li>
         <li class="addnew"><a href="http://gdgt.com/add/" title="Add new">Add new</a></li>
       </ul>
@@ -112,7 +172,6 @@
     <script type="text/javascript">
         jQuery(function() {
           gStaticMessages['fb_login_session_timeout'] = "Your session has timed out. Please login into Facebook again.";
-            
         });
         </script>
 	
@@ -122,7 +181,6 @@
           <script type="text/javascript">
         jQuery(function() {
           gStaticMessages['fb_login_session_timeout'] = "Your session has timed out. Please login into Facebook again.";
-            
         });
         </script>
 	
@@ -162,7 +220,7 @@
         <p id="no_account">Don't have an account yet? <a href="http://gdgt.com/register/" title="gdgt registration">Register here</a>.</p>
         <div id="connect_with_fb">
             <p>Or login using your Facebook account:</p>
-            <a class="fbconnect_login_button" onclick="GdgtFB.login();">Connect with Facebook</a> <div class="tag_beta"><a href="http://discuss.gdgt.com/gdgt/support/" title="Having trouble with Facebook Connect on gdgt? Hit our support discussions!">beta</a></div>
+            <a class="fbconnect_login_button" onclick="GdgtFB.login();">Connect with Facebook</a> <div class="tag_beta"><a href="http://gdgt.com/feedback/" title="Having trouble with Facebook Connect on gdgt? Hit our support discussions!">beta</a></div>
              
         </div>
     </fieldset>
@@ -183,7 +241,6 @@
         <script type="text/javascript">
         jQuery(function() {
           gStaticMessages['fb_login_session_timeout'] = "Your session has timed out. Please login into Facebook again.";
-            
         });
         </script>
 	
@@ -192,58 +249,41 @@
     
     <div id="aside">
             <div id="side_ads">
-      <div class="ad">
-        <script type="text/javascript">
-        // <![CDATA[
-          GA_googleFillSlot("gdgt_medium1");
-        // ]]>
-        </script>
-      </div>
-      <div class="ad">
-        <script type="text/javascript">
-        // <![CDATA[
-          GA_googleFillSlot("gdgt_medium2");
-        // ]]>
-        </script>
-      </div>
-    
-          <script type="text/javascript">
-        jQuery(function() {
-          gStaticMessages['fb_login_session_timeout'] = "Your session has timed out. Please login into Facebook again.";
-            
-        });
-        </script>
 	
-        <div id="sidebar_promo_module" class="promo">
-      <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=290102878"><img src="http://media.gdgt.com/img/promo/gdgt-weekly-badge.jpg" height="50" width="148" style="margin-right: 4px;" alt="Subscribe to the gdgt weekly podcast on iTunes"></a><a href="http://twitter.com/gdgt"><img src="http://media.gdgt.com/img/promo/gdgt-twitter-badge.jpg" height="50" width="148" alt="gdgt on Twitter"></a>
-    </div>
-    
-    
+    <div id="promo_20" class="promo"><a href="javascript:void(0);" class="reset_field hidden">remove</a><a href="http://features.gdgt.com/2010/04/27/gdgt-live-in-chicago-may-12th-/"><img src="http://media.gdgt.com/img/promo/gdgt-live-chicago-promo.jpg"></a></div>
+
+      <div class="ad">
+		    
+      </div>
+
+      <div class="ad">
+      	<script type="text/javascript"> 
+// <![CDATA[
+  GA_googleFillSlot("gdgt_medium2");
+// ]]>
+</script>
+      </div>
+
+
+
+    <div id="promo_19" class="promo"><a href="javascript:void(0);" class="reset_field hidden">remove</a><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=290102878" title="Subscribe to the
+gdgt weekly podcast on iTunes">
+<img src="http://media.gdgt.com/img/promo/gdgt-weekly-badge.jpg" height="50" width="148" alt="Subscribe to the
+gdgt weekly podcast on iTunes">
+</a>
+<a href="http://twitter.com/gdgt" title="gdgt on Twitter">
+<img src="http://media.gdgt.com/img/promo/gdgt-twitter-badge.jpg" height="50" width="148" alt="gdgt on Twitter">
+</a></div>
+
     </div>                    <script type="text/javascript">
         jQuery(function() {
           gStaticMessages['fb_login_session_timeout'] = "Your session has timed out. Please login into Facebook again.";
-            
         });
         </script>
 	
-<div class="recent ">
-    <h3>Recent community activity</h3>
-    <div class="m_recentcommunityactivity-REST alert"></div>
-            <ul id="community_activity">
-                            <li><div class="img img25x25"><div><a href="http://user.gdgt.com/sohsfdfg/" title="sohsfdfg"><img alt="sohsfdfg" src="http://media.gdgt.com/img/site/blank-user-25.gif" class="generic"></a></div></div> <span class="vcard author"><a class="fn n nickname uid url" href="http://user.gdgt.com/sohsfdfg/">sohsfdfg</a></span> edited their profile 27 seconds ago</li>
-                            <li><div class="img img25x25"><div><a href="http://user.gdgt.com/itishmira/" title="itishmira"><img alt="itishmira" src="http://media.gdgt.com/img/site/blank-user-25.gif" class="generic"></a></div></div> <span class="vcard author"><a class="fn n nickname uid url" href="http://user.gdgt.com/itishmira/">itishmira</a></span> edited their profile 59 seconds ago</li>
-                            <li><div class="img img25x25"><div><a href="http://user.gdgt.com/lthughes/" title="lthughes"><img alt="lthughes" src="http://media.gdgt.com/img/site/blank-user-25.gif" class="generic"></a></div></div> <span class="vcard author"><a class="fn n nickname uid url" href="http://user.gdgt.com/lthughes/">lthughes</a></span> edited their profile 1 minute ago</li>
-                            <li><div class="img img25x25"><div><a href="http://user.gdgt.com/pashupatikasaju/" title="pashupatikasaju"><img alt="pashupatikasaju" src="http://media.gdgt.com/img/site/blank-user-25.gif" class="generic"></a></div></div> <span class="vcard author"><a class="fn n nickname uid url" href="http://user.gdgt.com/pashupatikasaju/">pashupatikasaju</a></span> edited their profile 1 minute ago</li>
-                    </ul>
-        <p class="more"><a href="http://gdgt.com/activity/">See more activity</a> »</p>
-    </div>
+
                 
             <div class="txt_ads robots-nocontent">
-        <script type="text/javascript">
-        // <![CDATA[
-          GA_googleFillSlot("gdgt_adsense");
-        // ]]>
-        </script>
     </div>
     <div class="clear"></div>    </div>
 </div>
@@ -257,9 +297,9 @@
         <li><a href="http://gdgt.com/about/" title="About gdgt">about</a></li>
         <li><a href="http://gdgt.com/sales/" title="Advertise on gdgt">advertise</a></li>
         <li><a href="http://gdgt.com/contact/" title="Contact gdgt">contact</a></li>
+        <li><a href="http://gdgt.com/feedback/" title="gdgt Feedback">feedback</a></li>
         <li><a rel="help" href="http://gdgt.com/help/" title="gdgt help section">help and <acronym title="frequently asked questions">faq</acronym></a></li>
         <li><a href="http://gdgt.com/jobs/" title="gdgt jobs">jobs</a></li>
-        <li><a href="http://gdgt.com/press/" title="gdgt press">press</a></li>
       </ul>
       <ul>
         <li><a href="http://gdgt.com/guidelines/" title="gdgt community guidelines">community guidelines</a></li>
@@ -268,20 +308,25 @@
       </ul>
     </div>
     <div id="footer_copyright">
-      <p class="copyright">© 2009 <a href="http://pastfuture.com/">PastFuture</a>™ / <a href="http://gdgt.com/">gdgt</a>™, all rights reserved</p>
+      <p class="copyright">© 2010 <a href="http://pastfuture.com/">PastFuture</a>™ / <a href="http://gdgt.com/">gdgt</a>™, all rights reserved</p>
       <div id="promo_ad">
-          <script type="text/javascript">
-          // <![CDATA[
-            GA_googleFillSlot("gdgt_promo1");
-          // ]]>
-        </script>
+          			<script type="text/javascript">
+// <![CDATA[
+  GA_googleFillSlot("gdgt_promo1");
+// ]]>
+</script>
       </div>
-      <!--<p>w21d123</p>-->
-    </div>
+      <!--<p>w23d122</p>-->    </div>
+    <div class="clear"></div>
   </div>
+  <div id="bottom_ad"><script type="text/javascript"> 
+// <![CDATA[
+  GA_googleFillSlot("gdgt_leaderboard2");
+// ]]>
+</script></div>
   </div>
 
-    <div id="alert_container">
+          <div id="alert_container">
     <div id="alert_window">
     <div class="popup">
     <div class="m_newandhot-REST alert"></div>
@@ -293,26 +338,13 @@
 </div>  </div>
   <div id="register_overlay_popup" class="hidden"></div>
   <div id="login_by_fbconnect" class="hidden"></div>
+  <div id="set_gdgt_details" class="hidden"></div>
   <div id="facebook_twitter_update_options" class="hidden"></div>
 
-
+  
   <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-  </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-  <script type="text/javascript">
-    try {
-      var pageTracker = _gat._getTracker("UA-818999-3");
-      pageTracker._trackPageview();
-    } catch(err) {}
+    var _sf_async_config={uid:2573,domain:"gdgt.com"};(function(){function loadChartbeat(){window._sf_endpt=(new Date()).getTime();var e=document.createElement('script');e.setAttribute('language','javascript');e.setAttribute('type','text/javascript');e.setAttribute('src',(("https:"==document.location.protocol)?"https://s3.amazonaws.com/":"http://")+"static.chartbeat.com/js/chartbeat.js");document.body.appendChild(e)}var oldonload=window.onload;window.onload=(typeof window.onload!='function')?loadChartbeat:function(){oldonload();loadChartbeat()}})();
   </script>
 
 
-  <script type="text/javascript">
-    var cbjspath = "static.chartbeat.com/js/chartbeat.js?uid=2573&domain=gdgt.com";
-    var cbjsprotocol = (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://");
-    document.write(unescape("%3Cscript src='"+cbjsprotocol+cbjspath+"' type='text/javascript'%3E%3C/script%3E"))
-  </script><script src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js?uid=2573&amp;domain=gdgt.com" type="text/javascript"></script>
-
-
-</body></html>
+<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
