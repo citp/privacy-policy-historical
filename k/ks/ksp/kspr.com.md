@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kspr.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102064045id_/http%3A//www.kspr.com/about/44148507.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kspr.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504020534id_/http%3A//www.kspr.com/about/44148507.html) for the most accurate reproduction.*
 
 # KSPR.com Privacy Statement | KSPR - News, Weather, Sports Springfield, MO | Inside KSPR
 
-Story Created: May 1, 2009 at 9:32 AM CST 
+Story Created: May 1, 2009 at 10:32 AM CDT 
 
-Story Updated: May 1, 2009 at 10:46 AM CST 
+Story Updated: May 1, 2009 at 11:46 AM CDT 
 
 **General**
 
