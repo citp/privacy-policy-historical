@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enoughproject.org privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031203149id_/http%3A//www.enoughproject.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enoughproject.org privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504063136id_/http%3A//www.enoughproject.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Enough
 
