@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixel2life.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101164207id_/http%3A//pixel2life.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixel2life.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504053148id_/http%3A//www.pixel2life.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Pixel2Life
 
