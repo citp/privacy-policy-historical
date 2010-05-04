@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the vivid.com privacy policy that was archived on 2009-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090122203420id_/http%3A//www.vivid.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivid.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504133543id_/http%3A//www.vivid.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome to the all new Vivid.com!
+
+###### BREAKING NEWS:
+
+  * VIVID ENTERTAINMENT REVEALS DOCUMENTS PROVING IT CAN RELEASE MINDY MCCREADY'S SEX TAPE [Click Here!](https://web.archive.org/news/10-04-28)
+  * VIVID SAYS MINDY MCREADY'S ATTORNEY IS PRESUMPTUOUS IN TRYING TO STOP RELEASE OF HER SEX TAPE [Click Here!](https://web.archive.org/news/10-04-08)
+  * VIVID PUTS DISTRIBUTION OF MINDY MCCREADY SEX TAPE ON HOLD AS STUDIO ANSWERS LEGAL CHALLENGE [Click Here!](https://web.archive.org/news/10-04-06)
+  * 'MINDY MCCREADY, BASEBALL MISTRESS' READY FOR RELEASE [Click Here!](https://web.archive.org/news/10-03-29)
+
+
 
 **Privacy Statement for Vivid Entertainment, Inc.**
 
@@ -25,5 +34,5 @@ You can send email to support@vividcash.com You can send mail to the following p
 To Deactivate your membership: 
 
 Call the following telephone number: 1-888-205-0489   
-Visit [Vivid Support](http://www.vivid.com/support/)   
+Visit [Vivid Support](https://web.archive.org/support/)   
 Send an e-mail to: vivid@cs.billingservices.com
