@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heliopower.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102120153id_/http%3A//www.heliopower.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heliopower.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505003828id_/http%3A//www.heliopower.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HelioPower
 
@@ -6,9 +6,7 @@ HelioPower collects customer information to enhance your user experience. This p
 
 This Privacy Statement applies only to the information collected online at HelioPower.com.
 
-**INFORMATION WE COLLECT ONLINE**
-
-**General Browsing Information**  
+ **General Browsing Information**  
 HelioPower.com gathers navigational information during each visitor's use of our Web site. In the process of gathering navigational information, non-personally identifiable information (i.e. domain type, browser version, service provider and IP address) may be collected. The navigational information tells HelioPower.com about the use of our Web site by visitors, including the areas of our site that are most visited or the time of a last visit to a page on our site. It also tells us about the technical efficiencies of our Web site and services (i.e. the time it takes a visitor to connect to our Web site or download pages). The navigational information helps us better understand a visitor's experience at HelioPower.com and improve upon that experience by recognizing and delivering more of the features, services and products our visitors prefer.
 
 **USING PERSONAL INFORMATION WE COLLECT ONLINE**
