@@ -1,13 +1,138 @@
-<!--The following is the downloaded HTML source of the allmenus.com privacy policy that was archived on 2009-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091229220408id_/http%3A//www.allmenus.com/your-privacy-rights) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allmenus.com privacy policy that was archived on 2010-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100504202907id_/http%3A//allmenus.com/your-privacy-rights) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
- <title>Your Privacy Rights</title>
- <meta name="description" content="At Allmenus.com, we take your personal information very seriously. To help you understand your privacy rights, please read the following policies and procedures below.">
-	<link href="/css/main.css" rel="stylesheet" type="text/css" media="all">
-	<script type="text/JavaScript" src="/js/curvycorners.js"></script>
-	<script src="/js/mgbox/useful_stuff.js" type="text/javascript"></script>
-	<script src="/js/mgbox/dhtml.js" type="text/javascript"></script>
+	<title>Privacy Policy</title>
+	<meta name="description" content=""> 
+		    <meta name="robots" content="noindex, nofollow">
+        
+    <!-- Google Search Meta Tags -->		
+	<meta name="search_result_name" content="">
+    <meta name="search_result_qualifier" content="">
+	<meta name="cuisines" content="">
+	<meta name="zipcodes" content="">
+	<meta name="features" content="">
+	<meta name="locations" content="">
+	<meta name="quicksearch" content="">
+    <meta name="mediapartner" content="">
+   
+    
+    <!-- ClickTale Top part -->
+	<script type="text/javascript"> 
+		var WRInitTime=(new Date()).getTime();
+	</script>
+	<!-- ClickTale end of Top part -->
+	
+    
+    <!-- Internal Javascript Files -->
+	<script src="http://i-allmenus.com/v46/javascript/common/mgbox/useful_stuff.js" type="text/javascript"></script>
+	<script src="http://i-allmenus.com/v46/javascript/common/mgbox/dhtml.js" type="text/javascript"></script>
+	    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAnDhP3JIdjlvtsdjlvcmP-hRE0oR2vr-zVyZsDgzf2PTCsaYSyxR32ZNJOAKKOQLtTBf6uxc0_-CBxA&amp;sensor=false" type="text/javascript"></script>
+		<script src="http://i-allmenus.com/v46/javascript/common/geocode.js" type="text/javascript"></script>
+    <script src="http://i-allmenus.com/v46/javascript/common/deals.js" type="text/javascript"></script>
+    
+    <script language="javascript">AC_FL_RunContent = 0;</script>
+	<script src="http://i-allmenus.com/v46/javascript/common/AC_RunActiveContent.js" language="javascript"></script>
+
+    <script src="http://i-allmenus.com/v46/javascript/common/ainfo.js" type="text/javascript"></script>   
+    <script src="http://i-allmenus.com/v46/javascript/common/pop-controls.js" type="text/javascript"></script>
+    <script src="http://i-allmenus.com/v46/javascript/common/send-email.js" type="text/javascript"></script>
+   
+	<!--<script src="http://i-allmenus.com/v46/javascript/common/jqueryfull.js" type="text/javascript"></script> //-->
+    
+    <!-- External Javascript Files -->
+    <script src="http://api.recaptcha.net/js/recaptcha_ajax.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+		function changeRegistrationFocus(loseFocus,gainFocus,switchFocus) {
+			if (switchFocus == true && document.getElementById(gainFocus).value.length == 0) {
+				document.getElementById(gainFocus).style.display='none'; 
+				document.getElementById(loseFocus).style.display='inline';
+			}
+			else if (switchFocus != true) {
+				document.getElementById(loseFocus).style.display='none'; 
+				document.getElementById(gainFocus).style.display='inline';
+				document.getElementById(gainFocus).focus();
+			}
+		}
+
+		function loadRegistration(requestURI) {
+			var xmlhttp;
+			if (window.XMLHttpRequest) {xmlhttp=new XMLHttpRequest();}
+			else if (window.ActiveXObject) {xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");}
+	
+			xmlhttp.onreadystatechange=function()
+			{
+				if(xmlhttp.readyState==4)
+				{
+					document.getElementById("account_container").innerHTML = xmlhttp.responseText
+				}
+			}
+			xmlhttp.open("GET","/register/?ref="+requestURI,true);
+			xmlhttp.send(null);
+		}
+
+		function facebook_invite_users() {
+			 FB.ensureInit(function() {
+			 var fbml = "<fb:request-form action='http://allmenus.com/your-privacy-rights/' method='POST' invite='true' type='Allmenus' content='Eating out? Stop by Allmenus.com, the most complete online source for restaurant menus and reviews. Search by neighborhood, cuisine, and price, and always know what to expect before you step out and sit down... Staying in? Order Online from local restaurants with Allmenus.com – access exclusive deals, save your favorites meals, and say goodbye to mixed up orders and busy signals.";
+			 fbml = fbml + '<fb:req-choice url="http://allmenus.com" label="View Online Menus Near Me">';
+			 fbml = fbml + "'<fb:multi-friend-selector exclude_ids=''  bypass='cancel' showborder='false' actiontext='Tell your friends about Allmenus'></fb:request-form>";
+			 var dialog = new FB.UI.FBMLPopupDialog('Tell your friends about Allmenus', fbml, true, true);
+			 dialog.setContentWidth(760);
+			 dialog.setContentHeight(540);
+			 dialog.set_placement(FB.UI.PopupPlacement.center);
+			 dialog.show();
+		 	});
+	   	}
+	   
+	 	function facebook_post_to_feed_general() {
+			FB.Connect.showFeedDialog('107175114921','','','', null, FB.RequireConnect.require,null, "What do you think of Allmenus?", '');
+	   	}
+	           	
+		function likeItRemove(id,isRestaurant,isList,numVotes, isFavoriteEdit){
+			if (isRestaurant)
+				document.getElementById("like_menu").innerHTML = "<div align=\"center\" style=\"padding:5px; color:#cc0000;\">Your vote has been removed!</div>";
+			
+			if (isList) {
+				document.getElementById("likeIt"+id).innerHTML = "<img src=\"/img/results-divider.gif\"  alt=\"\" title=\"\" /><div class=\"like_count\">  "+numVotes+" </div><img src=\"/img/like_off.jpg\" /></div>";
+			}
+		
+			if(isFavoriteEdit){
+				document.getElementById("likeit_"+id).innerHTML = "<div class=\"favorite_remove\">This restaurant has been removed from your favorites.</div>";
+			}
+
+			var xmlhttp;
+			if (window.XMLHttpRequest) {xmlhttp=new XMLHttpRequest();}
+			else if (window.ActiveXObject) {xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");}
+			xmlhttp.open("GET","http://allmenus.com/likeit/?likeItRemoveFbId=&likeItRemoveId="+id,true);
+			xmlhttp.send(null);
+		}
+	
+		function addressRemove(id){
+			document.getElementById("address_"+id).style.display = "none";
+		
+			var xmlhttp;
+			if (window.XMLHttpRequest) {xmlhttp=new XMLHttpRequest();}
+			else if (window.ActiveXObject) {xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");}
+			xmlhttp.open("GET","http://allmenus.com/address/?addressRemoveId="+id,true);
+			xmlhttp.send(null);
+		}
+	
+		function collapse(element) {
+			var divElement = document.getElementById(element);
+			if (divElement.style.display == "block")
+				divElement.style.display = "none";
+			else if (divElement.style.display == "none")
+				divElement.style.display = "block";
+			else
+				divElement.style.display = "none";
+		}
+
+	</script>
+    
+    	    
+	 
+      
 	<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
 <script type="text/javascript">
@@ -15,179 +140,67 @@
   GS_googleEnableAllServices();
 </script>
 <script type="text/javascript">
-GA_googleAddSlot("ca-pub-4097627658675326", "am_box_results");GA_googleAddSlot("ca-pub-4097627658675326", "am_box_results_b");</script>
+  GA_googleAddSlot("ca-pub-4097627658675326", "am_45_footer_leaderboard");
+  GA_googleAddSlot("ca-pub-4097627658675326", "am_45_header_leaderboard");
+  GA_googleAddSlot("ca-pub-4097627658675326", "am_45_header_custom");
+  GA_googleAddSlot("ca-pub-4097627658675326", "am_45_list_box_1");
+  GA_googleAddSlot("ca-pub-4097627658675326", "am_45_list_box_2");
+  GA_googleAddSlot("ca-pub-4097627658675326", "am_45_list_custom_1");
+  GA_googleAddSlot("ca-pub-4097627658675326", "am_45_list_custom_2");
+  GA_googleAddSlot("ca-pub-4097627658675326", "am_45_location_box_1");
+  GA_googleAddSlot("ca-pub-4097627658675326", "am_45_location_box_2");
+  GA_googleAddSlot("ca-pub-4097627658675326", "am_45_location_custom_1");
+  GA_googleAddSlot("ca-pub-4097627658675326", "am_45_location_custom_2");
+  GA_googleAddSlot("ca-pub-4097627658675326", "am_45_menu_box_1");
+  GA_googleAddSlot("ca-pub-4097627658675326", "am_45_menu_box_2");
+  GA_googleAddSlot("ca-pub-4097627658675326", "am_45_menu_custom_1");
+  GA_googleAddSlot("ca-pub-4097627658675326", "am_45_menu_custom_2");
+</script>
 <script type="text/javascript">
   GA_googleFetchAds();
-</script>
-</head>
-<body bgcolor="#FFFFFF" text="#000000" link="#000099" vlink="#330066" alink="#FF0000">
+</script>	
+    <!-- links to the following style sheets must ALWAYS be present -->
+	<link rel="stylesheet" href="http://i-allmenus.com/v46/stylesheets/am/files.css" type="text/css"> 
+    <link rel="stylesheet" href="http://i-allmenus.com/v46/stylesheets/am/layout.css" type="text/css"> 
+ 
+    <link rel="stylesheet" href="http://i-allmenus.com/v46/stylesheets/am/dining_deals_screen.css" type="text/css">  
+ 	   
+   	<!--<link rel="stylesheet" href="http://i-allmenus.com/v46/stylesheets/common/affiliate_yahoo.css" /> -->
+	
+    <link rel="image_src" href="http://orders.allmenus.com/img/fb/am_logo_fb_post.gif">
+	
+	    
+
+<script src="https://c.compete.com/bootstrap/57cd2d7323735ea40312ac39d1c1a051/bootstrap.js" type="text/javascript" async=""></script></head>
+
+<body id="allmenus">
 <div id="mgBox" class="mgBox" style="visibility:hidden;"></div>
-
-
-<!-- ClickTale Top part -->
-<script type="text/javascript">
-var WRInitTime=(new Date()).getTime();
-</script>
-<!-- ClickTale end of Top part -->
-<a name="top"></a>
-	
-    <!-- Google Analytics -->
-	<script type="text/javascript">
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-
-	<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
-	<script type="text/javascript" src="/js/jqueryfull.js"></script>
-
-	<script type="text/javascript">
-	function changeRegistrationFocus(loseFocus,gainFocus,switchFocus) {
-		if (switchFocus == true && document.getElementById(gainFocus).value.length == 0) {
-			document.getElementById(gainFocus).style.display='none'; 
-			document.getElementById(loseFocus).style.display='inline';
-		}
-		else if (switchFocus != true) {
-			document.getElementById(loseFocus).style.display='none'; 
-			document.getElementById(gainFocus).style.display='inline';
-			document.getElementById(gainFocus).focus();
-		}
-		
-	}
-	function loadRegistration(requestURI) {
-		var xmlhttp;
-		if (window.XMLHttpRequest) {xmlhttp=new XMLHttpRequest();}
-		else if (window.ActiveXObject) {xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");}
-	
-		xmlhttp.onreadystatechange=function()
-		{
-			if(xmlhttp.readyState==4)
-			{
-				document.getElementById("account_container").innerHTML = xmlhttp.responseText
-			}
-		}
-		xmlhttp.open("GET","/register/?ref="+requestURI,true);
-		xmlhttp.send(null);
-	}
-
-	function facebook_invite_users() {
-		 FB.ensureInit(function() {
-			 var fbml = "<fb:request-form action='http://www.allmenus.com/your-privacy-rights/' method='POST' invite='true' type='Allmenus' content='Eating out? Stop by Allmenus.com, the most complete online source for restaurant menus and reviews. Search by neighborhood, cuisine, and price, and always know what to expect before you step out and sit down... Staying in? Order Online from local restaurants with Allmenus.com – access exclusive deals, save your favorites meals, and say goodbye to mixed up orders and busy signals.";
-			 fbml = fbml + '<fb:req-choice url="http://www.allmenus.com" label="View Online Menus Near Me">';
-			 fbml = fbml + "'<fb:multi-friend-selector exclude_ids=''  bypass='cancel' showborder='false' actiontext='Tell your friends about Allmenus'></fb:request-form>";
-			 var dialog = new FB.UI.FBMLPopupDialog('Tell your friends about Allmenus', fbml, true, true);
-			 dialog.setContentWidth(760);
-			 dialog.setContentHeight(540);
-			 dialog.set_placement(FB.UI.PopupPlacement.center);
-			 dialog.show();
-		 });
-	   }
-	   
-	 function facebook_post_to_feed_general() {
-		FB.Connect.showFeedDialog('107175114921','','','', null, FB.RequireConnect.require,null, "What do you think of Allmenus?", '');
-	   }
-	           	
-	function likeItRemove(id,isRestaurant,isList,numVotes){
-		if (isRestaurant)
-			document.getElementById("like_menu").innerHTML = "<div align=\"center\" style=\"padding:5px; color:#cc0000;\">Your vote has been removed!</div>";
-			
-		if (isList) {
-			document.getElementById("likeIt"+id).innerHTML = "<img src=\"/img/results-divider.gif\"  alt=\"\" title=\"\" /><div class=\"like_count\">  "+numVotes+" </div><img src=\"/img/like_off.jpg\" /></div>";
-		}
-
-		if (document.getElementById("likeit_"+id)) {
-			document.getElementById("likeit_"+id).style.display = "none";
-		}
-		
-		var xmlhttp;
-		if (window.XMLHttpRequest) {xmlhttp=new XMLHttpRequest();}
-		else if (window.ActiveXObject) {xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");}
-		xmlhttp.open("GET","http://www.allmenus.com/likeit/?likeItRemoveFbId=&likeItRemoveId="+id,true);
-		xmlhttp.send(null);
-	}
-	function addressRemove(id){
-		document.getElementById("address_"+id).style.display = "none";
-		
-		var xmlhttp;
-		if (window.XMLHttpRequest) {xmlhttp=new XMLHttpRequest();}
-		else if (window.ActiveXObject) {xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");}
-		xmlhttp.open("GET","http://www.allmenus.com/address/?addressRemoveId="+id,true);
-		xmlhttp.send(null);
-	}
-	function collapse(element) {
-		var divElement = document.getElementById(element);
-		if (divElement.style.display == "block")
-			divElement.style.display = "none";
-		else if (divElement.style.display == "none")
-			divElement.style.display = "block";
-		else
-			divElement.style.display = "none";
-	}
-
-	</script>
-
-	<!-- Start Quantcast tag -->
-	<script type="text/javascript"> _qoptions={qacct:"p-b00GdNNKkB9Fg"};</script>
-	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-		<noscript><a href="http://www.quantcast.com/p-b00GdNNKkB9Fg" target="_blank">
-			<img src="http://pixel.quantserve.com/pixel/p-b00GdNNKkB9Fg.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
-		</noscript>
-	<!-- End Quantcast tag -->
-
-
-<script type="text/javascript">
-// <![CDATA[
-$(document).ready( function() {
-	$('a').each(function() {
-		var theHref = this;
-		if (theHref.hostname && theHref.hostname !== location.hostname && theHref.hostname !== 'orders.allmenus.com' && theHref.hostname !== 'dev95.allmenus.com') {
-			$(theHref).not(".noAutoLink").attr('target','_blank').bind('click keypress', function(event) {
-				var code=event.charCode || event.keyCode;
-				if (!code || (code && code == 13)) {
-					if(pageTracker){
-						var fixedLink = this.href;
-						fixedLink = fixedLink.replace(/https?:\/\/(.*)/,"$1");
-						fixedLink = '/outgoing/' + fixedLink;
-						pageTracker._trackPageview(fixedLink);
-					};
-				};
-			});
-		};
-	});
-});
-  // ]]>
-  
-
-
-</script>
-
-
-<div id="header">
-	 <div align="center">
-            <form method="get" id="search">
-                <div id="simple_search">
-                    <div><a href="/"><img src="/img/icons/blank.gif" width="400px" height="65px"></a></div>
-                    <input autocomplete="off" class="quick_search_simple off" id="pre_cityname" value="Hungry?" onfocus="document.getElementById('pre_cityname').style.display='none'; document.getElementById('cityname').style.display='inline';document.getElementById('cityname').focus();">
-                    <input autocomplete="off" class="quick_search_simple on" id="cityname" maxlength="100" mgbox="yes" style="display:none;" value="">
-                </div>			
-                <input id="isquicksearch" name="isquicksearch" type="hidden" value="yes">
-    
-    
-                  <script src="/js/mgbox/mgbox.js" type="text/javascript"></script>
-        			<script language="JavaScript">
-						<!--
-        				//document.getElementById("restname").focus();   
-     			   //-->
-      			  </script>
-            </form>
-        </div>
-        <br clear="all">
-		
+<div id="affiliate_banner">
+	<div id="am_header_lead" align="center">
+		<script type="text/javascript">
+			GA_googleFillSlot("am_45_header_leaderboard");
+		</script>
+	</div>
+	<br clear="all">
 </div>
-   
+<div id="body_background_tall">
+	<div id="container">	
+		
+		<!-- Hello empty header file. What am I going to do with you? -->        <div id="container_allmenus">
+          
+        <div id="header_tall">
+        	   <p><a href="/?changecity=yes"><img src="http://i-allmenus.com/v46/images/common/space.gif"></a></p>
+	       		  
+    	    	<form method="get" id="home_search">
+	             
+        	    	<input autocomplete="off" class="quick_search_home off" id="pre_cityname" value="Start your search here..." onfocus="document.getElementById('pre_cityname').style.display='none'; document.getElementById('cityname').style.display='inline';document.getElementById('cityname').focus();">
+            	    <input autocomplete="off" class="quick_search_home on" id="cityname" maxlength="100" mgbox="yes" style="display:none;" value="">
+                	<input id="isquicksearch" name="isquicksearch" type="hidden" value="yes">
+	                <script src="http://i-allmenus.com/v46/javascript/common/mgbox/mgbox.js" type="text/javascript"></script>	           	</form>
+        </div>	
+        
+       	<div id="am_tagline"><img src="http://i-allmenus.com/v46/images/am/tagline.png" alt="Ordering in? Going out? Now the choice is all yours!"></div>
 
-
-<div id="container">
 
     <div id="std_header">
     	<div id="city_info">
@@ -197,8 +210,8 @@ $(document).ready( function() {
         </div>
    </div>
 	<!-- main city content -->
-	<div id="std_left">
-		<div id="content">
+	<div id="std_content">
+		<div id="content" class="content_left">
             <p><em>Effective September 1, 2008</em></p>
             <p>Dotmenu and its Campusfood.com and Allmenus.com Web sites are committed to protecting the privacy of their users. The following statement sets forth the privacy policy of the Campusfood.com and Allmenus.com sites and the manner in which information about you might be used by us.</p>
             <p>From time to time, we may use information that we collect for new uses not currently or previously disclosed in our privacy notice.  If our information practices do change, we will notify you of these policy changes on our Web sites.  If you are concerned about how your information is used, you should periodically check the Privacy Notice on our Web sites.</p>
@@ -226,7 +239,7 @@ $(document).ready( function() {
             <h5>E-mail / Anti-Spam</h5>
             <p>Although, as noted above, we may sometimes send offers by email on behalf restaurants or other third parties, and send you emails about our services, we do not currently purchase bulk e-mail addresses, use the services of bulk e-mail companies or share your email addresses with third parties for their own use. We may in the future decide that it is appropriate to distribute, sell or rent users' e-mail addresses to select third party partners; if we do so, we will revise this Policy accordingly.</p>
             <h5>Third Party Online Advertising</h5>
-            <p>We use third-party advertising companies such as AlmondNet and others to serve advertisements when you visit our Web site.  These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services that may be of interest to you on this site and other sites and other interactive media and/or to keep track of your response to each advertisement.  If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <a href="http://www.almondnet.com/privacy-center/technology-privacy-policy.aspx" target="_blank">AlmondNet</a> or <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">click here</a>.</p>
+            <p>We use third-party advertising companies such as AlmondNet and others to serve advertisements when you visit our Web site.  These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services that may be of interest to you on this site and other sites and other interactive media and/or to keep track of your response to each advertisement.  If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <a href="http://www.almondnet.com/privacy-center/technology-privacy-policy.aspx">AlmondNet</a> or <a href="http://www.networkadvertising.org/managing/opt_out.asp">click here</a>.</p>
             <h5>Cookies</h5>
             <p>We use "cookies" (small text files stored in your internet browser) to enhance your ordering experience. 
             Cookies are capable of storing many types of data and may be placed on your browser by us or by a third party.  
@@ -240,69 +253,110 @@ $(document).ready( function() {
             <p>Under the law of certain states, including California Civil Code Â§ 1798.83, you are entitled to obtain information from us about who your personal information has been shared with.  In order to obtain this information, or for other questions or comments regarding our privacy policies, you may contact us at:</p>
             <p>Privacy<br>
             Dotmenu, Inc.<br>
-            39 West 19th Street<br>
-            7th Floor<br>
-            New York, NY  10011</p>
-		</div>
+            39 West 19th Street<br>7th Floor<br>New York, NY  10011<br><br>tel: 212.616.3070<br>fax: 800.886.6226<br></p>
+                </div>
+	            <br clear="all">
     
-    <br clear="all">
-
-	<div id="std_left-bot"></div>        
-	</div>  
-    <div id="std_right-top"></div>  
-    <div id="std_right">
-	    <div id="account_container">
-	    	<div id="salutation">Welcome!</div><div id="account"><div id="account_box_profile">					<div class="account_fb" align="center"><a href="#" onclick="FB.ensureInit(function () {FB.Connect.requireSession(FB.Facebook.get_sessionWaitable().waitUntilReady(function(){ FB.Connect.ifUserConnected(reloadAccount(true))}))});return false;"><img id="fb_login_image" src="/img/Connect_white_large_long.gif" alt="Connect" border="0"></a></div>
-					<div class="account_divider" align="center"><img src="/img/account_divider.gif"></div>
-			</div>
-	 
-	</div>
+	                
         </div>
-    </div>      	
-	<div id="std_right-bot"></div>
-    
-
+        
+        
+        
 <br clear="all">
-</div>
-
-
-
-<div id="footer" align="center">
-	
-        <p>&nbsp;</p>
-        <p><strong>© 2009 <a href="http://www.allmenus.com" target="_blank">Allmenus.com</a></strong></p>
+	<div id="container_footer">
+		<p>&nbsp;</p>
+	  
+        <div id="goog_footer">
+			<script type="text/javascript">
+				GA_googleFillSlot("am_45_footer_leaderboard");
+			</script>
+        </div>
+	        <br clear="all">
+        
+        <p><strong>© 2010 <a href="http://www.allmenus.com">Allmenus.com</a></strong></p>
         <p><a href="/your-privacy-rights/">Privacy Policy</a> | <a href="/legal-notices/">Legal Notices</a> | <a href="/terms-conditions/">Terms &amp; Conditions</a></p>
-        <p><a href="http://www.dotmenu.com" target="_blank">About Us</a> · <a href="http://www.dotmenu.com/local-advertising.asp" target="_blank">Advertisers</a> · <a href="http://www.allmenus.com/menucenter/" target="_blank">List Your Restaurant</a> </p>
+        <p><a href="http://www.dotmenu.com" target="_blank">About Us</a> · <a href="http://www.dotmenu.com/local-advertising.asp" target="_blank">Advertisers</a> · <a href="http://www.allmenus.com/menucenter/">List Your Restaurant</a> </p>
 	
-    <br clear="all">
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
+    	<br clear="all">
+       
+	    <p>&nbsp;</p>
+    	<p>&nbsp;</p>
     
-</div>
+	</div>
+ 
+    
 
+
+<!-- additional elements for use in media partner sites (if required) -->
+<div id="extra_1"></div>
+<div id="extra_2"></div>
+<div id="extra_3"></div>
+<div id="extra_4"></div>
+<div id="extra_5"></div>
+
+		
+	</div>
+</div>
+</div>
+<!-- Analytics file should not contain any markup relating to displayable positions. Only for scripts and analytics tags -->
+	<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
 	<script type="text/javascript">
-        FB.init("36d644a19acafd7c4e577cb74dbe316c","/connect/xd_receiver.htm",{"doNotUseCachedConnectState":true});
+        FB.init("36d644a19acafd7c4e577cb74dbe316c","http://www.allmenus.com/connect/xd_receiver.htm",{"doNotUseCachedConnectState":true});
  		
     </script>
     
 
-<!-- List Id = 15926 and List Name = CM_All Menus --> 
 <!-- Begin ad tag --> 
 <img src="http://ad.doubleclick.net/activity;src=1270268;dcnet=4155;boom=15926;sz=1x1;ord=1?" width="1" height="1" border="0">
 <!-- End ad tag -->
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-1071671-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+	
+	<!-- Compete -->
+	<script type="text/javascript">
+    __compete_code = '57cd2d7323735ea40312ac39d1c1a051';
+    (function () {
+        var s = document.createElement('script'),
+            d = document.getElementsByTagName('head')[0] ||
+                document.getElementsByTagName('body')[0],
+            t = 'https:' == document.location.protocol ? 
+                'https://c.compete.com/bootstrap/' : 
+                'http://c.compete.com/bootstrap/';
+        s.src = t + __compete_code + '/bootstrap.js';
+        s.type = 'text/javascript';
+        s.async = 'async'; 
+        if (d) { d.appendChild(s); }
+    }());
+</script>
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript"> _qoptions={qacct:"p-b00GdNNKkB9Fg"};</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+	<noscript><a href="http://www.quantcast.com/p-b00GdNNKkB9Fg" target="_blank">
+		<img src="http://pixel.quantserve.com/pixel/p-b00GdNNKkB9Fg.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+	</noscript>
+<!-- End Quantcast tag -->
+
+
 <!-- ClickTale Bottom part -->
 <div id="ClickTaleDiv" style="display: none;"></div>
-<script src="/WRb.js" type="text/javascript"></script>
-<script type="text/javascript">
+<script src="http://i-allmenus.com/v46/javascript/common/WRb.js" type="text/javascript"></script>
+<script type="text/javascript"> 
 var ClickTaleSSL=1;
 if(typeof ClickTale=='function') ClickTale(9891,0.01,"www02");
 </script>
 <!-- ClickTale end of Bottom part -->
-
-
-
-
-
+	
 
 
 
