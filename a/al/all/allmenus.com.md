@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allmenus.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229220408id_/http%3A//www.allmenus.com/your-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmenus.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504202907id_/http%3A//allmenus.com/your-privacy-rights) for the most accurate reproduction.*
 
-# Your Privacy Rights
+# Privacy Policy
 
 _Effective September 1, 2008_
 
@@ -79,3 +79,6 @@ Dotmenu, Inc.
 39 West 19th Street  
 7th Floor  
 New York, NY 10011
+
+tel: 212.616.3070  
+fax: 800.886.6226
