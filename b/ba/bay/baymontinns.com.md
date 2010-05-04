@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baymontinns.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620205704id_/http%3A//www.baymontinns.com/Baymont/control/Booking/Link%3Fredirect%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baymontinns.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504143602id_/http%3A//www.baymontinns.com/Baymont/control/Booking/Link%3Fredirect%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Baymont Inn & Suites: Privacy policy
 
@@ -14,34 +14,34 @@ Revised October 2008
 
 We recognize the importance of protecting the privacy of individual-specific (personally identifiable) information collected about guests, callers to our central reservation centers, visitors to our Web sites, and members participating in our Loyalty Programs (collectively "Customers"). Examples of individual-specific information ("Information") are described in the Section, "What is Individual Specific Information?" We have adopted this Customer Privacy Policy to guide how we utilize Information about our Customers. This Policy will evolve and change as we continue to study privacy issues. 
 
-[Privacy Notice to California Customers](http://www.baymontinns.com/Baymont/control/california_privacy_policy)
+[Privacy Notice to California Customers](http://www.baymontinns.com/Baymont/control/california_privacy_policy?variant=)
 
-[Canadian Privacy Policy](http://www.baymontinns.com/Baymont/control/canada_privacy_policy)
+[Canadian Privacy Policy](http://www.baymontinns.com/Baymont/control/canada_privacy_policy?variant=)
 
-[Politique de confidentialité](http://www.baymontinns.com/Baymont/control/canada_french_privacy_policy)
+[Politique de confidentialité](http://www.baymontinns.com/Baymont/control/canada_french_privacy_policy?variant=)
 
-[European Privacy Policy](http://www.baymontinns.com/Baymont/control/european_privacy_policy)
+[European Privacy Policy](http://www.baymontinns.com/Baymont/control/european_privacy_policy?variant=)
 
-[Application](http://www.baymontinns.com/Baymont/control/privacy_policy#Application)  
-[Purpose](http://www.baymontinns.com/Baymont/control/privacy_policy#Purpose)  
-[Security](http://www.baymontinns.com/Baymont/control/privacy_policy#Security)  
-[The Internet](http://www.baymontinns.com/Baymont/control/privacy_policy#Internet)  
-[Cookies](http://www.baymontinns.com/Baymont/control/privacy_policy#Cookies)  
-[Information We Collect](http://www.baymontinns.com/Baymont/control/privacy_policy#Information)  
-[Feedback/Opt out](http://www.baymontinns.com/Baymont/control/privacy_policy#Feedback)  
-[Reservations](http://www.baymontinns.com/Baymont/control/privacy_policy#Reservations)  
-[e-mail](http://www.baymontinns.com/Baymont/control/privacy_policy#E-mail)  
-[Sweepstakes/Contests](http://www.baymontinns.com/Baymont/control/privacy_policy#Sweepstakes)  
-[Direct Mail/Outbound Telemarketing](http://www.baymontinns.com/Baymont/control/privacy_policy#DirectMail)  
-[Research/Survey](http://www.baymontinns.com/Baymont/control/privacy_policy#Research)  
-[What is Individual Specific Information?](http://www.baymontinns.com/Baymont/control/privacy_policy#Individual)  
-[What We Won't Do with Customer Information](http://www.baymontinns.com/Baymont/control/privacy_policy#dont)  
-[What We Will Do With Customer Information](http://www.baymontinns.com/Baymont/control/privacy_policy#Do)  
-[Our Franchisees](http://www.baymontinns.com/Baymont/control/privacy_policy#Franchisees)   
-[Other Disclosures/Compliance with law ](http://www.baymontinns.com/Baymont/control/privacy_policy#Law)  
-[Correction](http://www.baymontinns.com/Baymont/control/privacy_policy#Correction)  
-[Downloading](http://www.baymontinns.com/Baymont/control/privacy_policy#Downloading)  
-[Policy Changes](http://www.baymontinns.com/Baymont/control/privacy_policy#Policy)  
+[Application](http://www.baymontinns.com/Baymont/control/privacy_policy?variant=#Application)  
+[Purpose](http://www.baymontinns.com/Baymont/control/privacy_policy?variant=#Purpose)  
+[Security](http://www.baymontinns.com/Baymont/control/privacy_policy?variant=#Security)  
+[The Internet](http://www.baymontinns.com/Baymont/control/privacy_policy?variant=#Internet)  
+[Cookies](http://www.baymontinns.com/Baymont/control/privacy_policy?variant=#Cookies)  
+[Information We Collect](http://www.baymontinns.com/Baymont/control/privacy_policy?variant=#Information)  
+[Feedback/Opt out](http://www.baymontinns.com/Baymont/control/privacy_policy?variant=#Feedback)  
+[Reservations](http://www.baymontinns.com/Baymont/control/privacy_policy?variant=#Reservations)  
+[e-mail](http://www.baymontinns.com/Baymont/control/privacy_policy?variant=#E-mail)  
+[Sweepstakes/Contests](http://www.baymontinns.com/Baymont/control/privacy_policy?variant=#Sweepstakes)  
+[Direct Mail/Outbound Telemarketing](http://www.baymontinns.com/Baymont/control/privacy_policy?variant=#DirectMail)  
+[Research/Survey](http://www.baymontinns.com/Baymont/control/privacy_policy?variant=#Research)  
+[What is Individual Specific Information?](http://www.baymontinns.com/Baymont/control/privacy_policy?variant=#Individual)  
+[What We Won't Do with Customer Information](http://www.baymontinns.com/Baymont/control/privacy_policy?variant=#dont)  
+[What We Will Do With Customer Information](http://www.baymontinns.com/Baymont/control/privacy_policy?variant=#Do)  
+[Our Franchisees](http://www.baymontinns.com/Baymont/control/privacy_policy?variant=#Franchisees)   
+[Other Disclosures/Compliance with law ](http://www.baymontinns.com/Baymont/control/privacy_policy?variant=#Law)  
+[Correction](http://www.baymontinns.com/Baymont/control/privacy_policy?variant=#Correction)  
+[Downloading](http://www.baymontinns.com/Baymont/control/privacy_policy?variant=#Downloading)  
+[Policy Changes](http://www.baymontinns.com/Baymont/control/privacy_policy?variant=#Policy)  
 
 
 **Application**. This policy applies to residents of the United States, hotels of our Brands located in the United States, and Loyalty Program activities in the United States only. We do not accept the jurisdiction of any other laws over the above. This policy also applies only to our Customers. We have a separate policy governing any internet sites or extranet sites accessible only to the Franchisees and/ or Brands.
@@ -76,7 +76,7 @@ We and our third party ad server also use invisible pixels, sometimes called web
 
 **Feedback/Opt out**. We offer Customers the opportunity to "opt-out" of communications. A customer may elect to opt out of receiving communications by following the directions posted on the e-mail communication or by visiting the Brand or the Loyalty Program Web site, by contacting the Customer Care Department of the Brand that was patronized, or by contacting the Wyndham Rewards® Member Services Department. However, we will continue to send e-mails to confirm your reservations. Customers can elect to opt out from any of the following: (1) Mail - e-mail (excluding confirmation e-mails) and direct mail; (2) Phone -telephone and fax solicitation; or (3) Contact - all communications including e-mail, direct mail, fax and telephone. We maintain telephone "do not call" lists as mandated by law. We incorporate into our Data Warehouse "do not call" and "do not mail" lists maintained by other organizations. We process requests to be placed on do not mail, do not phone and do not contact lists within 60 days after receipt, or such shorter time as may be required by law. Any Customer may opt out of receiving communications by contacting us using the following methods:
 
-By e-mail, [click here to opt out](http://www.baymontinns.com/Baymont/control/privacy_policy_inquiry_form). 
+By e-mail, [click here to opt out](http://www.baymontinns.com/Baymont/control/privacy_policy_inquiry_form?variant=). 
 
 By phone - 888-564-4487 for AmeriHost Inn; 877-212-2733 for Days Inn; 877-222-3297 for Howard Johnson; 877-225-5637 for Knights Inn; 877-227-3557 for Ramada; 877-244-7633 for Super 8; 877-321-7653 for Travelodge; 877-333-6683 for Wingate by Wyndham; 800-870-3936 for Baymont Inn; 866-850-3070 for Wyndham Hotels and Resorts; 888-877-0675 for Microtel Inn & Suites; 888-297-2778 for Hawthorn Suites; and 866-996-7937 for Wyndham Rewards or Wyndham ByRequest.
 
@@ -132,13 +132,13 @@ Participation in surveys is voluntary. Participants who do not wish to receive e
 
 **What We Will Do With Customer Information**: We will: 
 
-  1. Use Customer Information to solicit additional hotel stays at the same hotel and other locations of the Brand, participation in the Loyalty Program, and to offer goods and services we believe may be of interest to Customers on behalf of ourselves, other non-hotel business units, our affiliates and former affiliates. For Customers who are Loyalty Program members, these solicitations may include offers from third party merchants that provide point earning or reward redemption opportunities in connection with the Program ("Loyalty Program Participants"). With Loyalty Program members’ consent, we may provide their Customer information to the Loyalty Program Participants for purposes of them directly offering their goods and services to the members
+  1. Use Customer Information to solicit additional hotel stays at the same hotel and other locations of the Brand, participation in the Loyalty Program, and to offer goods and services we believe may be of interest to Customers on behalf of ourselves, other non-hotel business units, our affiliates and former affiliates. For Customers who are Loyalty Program members, these solicitations may include offers from third party merchants that provide point earning or reward redemption opportunities in connection with the Program ("Loyalty Program Participants"). With Loyalty Program members? consent, we may provide their Customer information to the Loyalty Program Participants for purposes of them directly offering their goods and services to the members
   
 
   2. Include information about Customers gathered from other sources we believe to be reliable to identify our Customers more thoroughly and update Information we store and provide to third parties when the information changes, such as changes of address or new credit card expiration dates
   
 
-  3. Provide the name, address, telephone number and transaction Information, including payment method, about Customers to our and the Loyalty Programs’ designated affinity credit card issuer(s) for use in the pre-selection process for the credit cards;
+  3. Provide the name, address, telephone number and transaction Information, including payment method, about Customers to our and the Loyalty Programs? designated affinity credit card issuer(s) for use in the pre-selection process for the credit cards;
   
 
   4. Create and use aggregate Customer data that is not personally identifiable to understand more about the common traits and interests of our Customers;
