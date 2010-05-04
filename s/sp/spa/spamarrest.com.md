@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spamarrest.com privacy policy that was archived on 2009-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091014231115id_/http%3A//corp.spamarrest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spamarrest.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504233718id_/http%3A//corp.spamarrest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Spam Arrest
 
