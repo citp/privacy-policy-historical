@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dickism.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622032248id_/http%3A//www.dickism.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickism.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504062421id_/http%3A//www.dickism.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Celebrity Scandals | Celebrity Gossip | Dickism.com
+# Privacy | Dickism
 
 **Dickism** is committed to protecting the privacy of Internet users. The following statement details our ongoing support for the responsible collection and management of Internet user information.
 
@@ -24,5 +24,3 @@ Posted in [Rachel Hunter](http://www.dickism.com/category/rachel-hunter/ "View a
 
 None Found 
 
-
-**tags:** [Rachel Hunter](http://www.dickism.com/category/rachel-hunter/ "View all posts in Rachel Hunter")
