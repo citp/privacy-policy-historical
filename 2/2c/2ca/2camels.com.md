@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2camels.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101094657id_/http%3A//www.2camels.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2camels.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504043836id_/http%3A//www.2camels.com/privacy-policy.php) for the most accurate reproduction.*
 
 # 2camels Privacy Policy
 
@@ -17,6 +17,3 @@ All articles and photographs appearing on this site remain the property of the a
 No articles or photographs may be used without the express permission of the author/photographer.
 
 In those cases where the author/photographer has chosen not to display a contact email address, please [contact the editor](mailto:editor@2camels..com) who will pass on your request to the author/photographer.
-
-  
-
