@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 103bees.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202160507id_/http%3A//103bees.com/blog/103bees-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 103bees.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504130157id_/http%3A//103bees.com/blog/103bees-privacy-policy) for the most accurate reproduction.*
 
 # 103bees Privacy Policy
 
