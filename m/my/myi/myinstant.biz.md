@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myinstant.biz privacy policy that was archived on 2009-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090324224251id_/http%3A//www.myinstant.biz/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myinstant.biz privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505190058id_/http%3A//myinstant.biz/privacy.htm) for the most accurate reproduction.*
 
 # My Instant Biz Privacy Policy
 
