@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kabbalah.info privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727103805id_/http%3A//www.kabbalah.info/engkab/homepage/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kabbalah.info privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505113607id_/http%3A//www.kabbalah.info/engkab/homepage/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | kabbalah.info
 
-Last Modified July 12, 2009.
+Last Modified December 7, 2009.
 
-Bnei Baruch Association is a not-for-profit, non commercial organization (collectively, "Kabbalah.info", "We", or "Us") believe that your personal information belongs to you. We collect this type of information to serve you better when you provide it to us, but we do not rent or sell your information to third parties. We do not affiliate ourselves with any third party program and/or organization. We do not partner with or have special relationships with any ad server companies. From time to time, we may ask if you are interested in receiving information from third parties whose services or information we think would be of value to you. In those instances, we will only disclose your email address or other personal information to third parties **if you expressly consent to such disclosure**.
+Bnei Baruch Association is a not-for-profit, non commercial organization (collectively, "[Kabbalah](http://www.kabbalah.info/)[.info](http://www.kabbalah.info/)", all websites linked from "[Kabbalah International](http://www.kab.info/ "Kabbalah International")," "We", or "Us") believe that your personal information belongs to you. We collect this type of information to serve you better when you provide it to us, but we do not rent or sell your information to third parties. We do not affiliate ourselves with any third party program and/or organization. We do not partner with or have special relationships with any ad server companies. From time to time, we may ask if you are interested in receiving information from third parties whose services or information we think would be of value to you. In those instances, we will only disclose your email address or other personal information to third parties **if you expressly consent to such disclosure**.
 
   
 **Our Collection of Information**
