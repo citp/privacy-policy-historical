@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the infobarrel.com privacy policy that was archived on 2009-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091210043007id_/http%3A//www.infobarrel.com/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the infobarrel.com privacy policy that was archived on 2010-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100505045954id_/http%3A//www.infobarrel.com/Privacy_Policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html 20="" writer=""><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html 81="" referer="" class="js"><head>
 <title>Privacy Policy - Info Barrel</title>
 <meta http-equiv="content-type" content="text/html;charset=utf-8">
 <meta name="description" content="Infobarrel.com Privacy PolicyEffective July/31/2008 
@@ -10,150 +10,27 @@ Your privacy is very important to us. To better protect your privacy we provide 
 
 <link rel="canonical" href="http://www.infobarrel.com/Privacy_Policy"> 
 
-<script src="/jquery.js"></script>
-<script src="/ajax.js"></script>
-<script language="javascript">
-	$("html").removeClass("nojs").addClass("js"); 
-
-	function comment_reply(id)
-	{
-		document.getElementById("comment_" + id).style.display = "block";
-	}
-
-	function rate_comment(id, rating)
-	{
-		var div_id = "comment_rating_" + id;
-		var new_rating = parseInt(document.getElementById("comment_user_rating_" + id).innerHTML) + rating;
-
-		if((new_rating <= 1) && (new_rating >= -1))
-		{
-			document.getElementById("comment_user_rating_" + id).innerHTML = new_rating;
-
-			url = "/rate_comment.php?comment_id=" + id + "&rating=" + new_rating;
-			ajaxFunction(url, div_id, 1);
-		}
-
-		if(new_rating <= -1)
-			document.getElementById("comment_rating_down_" + id).src = "/images/rate_down_blur.gif";
-		else
-			document.getElementById("comment_rating_down_" + id).src = "/images/rate_down.gif";
-
-		if(new_rating >= 1)
-			document.getElementById("comment_rating_up_" + id).src = "/images/rate_up_blur.gif";
-		else
-			document.getElementById("comment_rating_up_" + id).src = "/images/rate_up.gif";
-	}
-
-	function rate_article(rating)
-	{
-		var div_id = "article_rating";
-		var new_rating = parseInt(document.getElementById("article_user_rating").innerHTML) + rating;
-
-		if((new_rating <= 1) && (new_rating >= -1))
-		{
-			document.getElementById("article_user_rating").innerHTML = new_rating;
-
-			url = "/rate_article.php?article_id=571&rating=" + new_rating;
-			ajaxFunction(url, div_id, 1);
-		}
-
-		if(new_rating <= -1)
-			document.getElementById("article_rating_down").src = "/images/rate_down_16_blur.gif";
-		else
-			document.getElementById("article_rating_down").src = "/images/rate_down_16.gif";
-
-		if(new_rating >= 1)
-			document.getElementById("article_rating_up").src = "/images/rate_up_16_blur.gif";
-		else
-			document.getElementById("article_rating_up").src = "/images/rate_up_16.gif";
-	}
-
-	function article_tab(div, button)
-	{
-//c8eaff
-		document.getElementById("button-related").style.background = "#cad5e7";
-		document.getElementById("button-user").style.background = "#cad5e7";
-		document.getElementById("button-cat").style.background = "#cad5e7";
-
-		document.getElementById("articles-related").style.display = "none";
-		document.getElementById("articles-user").style.display = "none";
-		document.getElementById("articles-cat").style.display = "none";
-
-		document.getElementById(div).style.display = "block";
-		button.style.background = "#ffffff";
-	}
-
-	function media_tab(div, button)
-	{
-		document.getElementById("button-images").style.background = "#cad5e7";
-		document.getElementById("button-videos").style.background = "#cad5e7";
-
-		document.getElementById("media-images").style.display = "none";
-		document.getElementById("media-videos").style.display = "none";
-
-		document.getElementById(div).style.display = "block";
-		button.style.background = "#ffffff";
-	}
-
-	function restore_categories(id, parent_id)
-	{
-//		document.getElementById("choose_category").style.display = "block";
-
-		document.getElementById("art_id").value = id;
-		document.getElementById("parent_id").value = parent_id;
-
-		if(parent_id == undefined)
-			parent_id = 0;
-
-		url = "article_edit-get_categories.php?id=" + id + "&parentid=" + parent_id;
-		ajaxFunction(url, "show_cat", 1);
-	}
-
-	function add_category(title)
-	{
-		id = document.getElementById("art_id").value;
-		parent_id = document.getElementById("parent_id").value;
-
-		title = title.replace(/^\s+|\s+$/g,"");
-
-		if(title == "")
-			alert("You cannot have a blank title.");
-		else
-		{
-			url = "article_edit-add_category.php?title=" + escape(title) + "&parentid=" + document.getElementById("parent").value;
-			ajaxFunction(url, "add_cat", 1);
-
-			restore_categories(id, parent_id);
-		}
-	}
-
-	$(document).ready(function(){
-		$("#admin_panel_link").click(function () {
-			$('#admin_panel').slideToggle("slow", function(){ show_admin(); } );
-		});
-	});
-
-	function show_admin()
-	{
-		if(document.getElementById("admin_panel_link").innerHTML == "Close Admin Panel")
-			document.getElementById("admin_panel_link").innerHTML = "Open Admin Panel";
-		else
-			document.getElementById("admin_panel_link").innerHTML = "Close Admin Panel";
-	}
-</script>
-
 <link rel="stylesheet" href="/style.css" type="text/css">
 <style>
+	h1
+	{
+		color: #222222;
+		font-size: 26px;
+		margin: 5px 0;
+		font-weight: normal;
+	}
+
 	h2
 	{
-		font-size: 16px;
+		font-size: 1.25em;
+		margin: 15px 0 0;
 	}
 
 	h3
 	{
 		display: block;
-		margin: 1px 0;
-		font-size: 14px;
+		margin: 15px 0 0;
+		font-size: 1.15em;
 		line-height: 19px;
 	}
 
@@ -239,6 +116,11 @@ Your privacy is very important to us. To better protect your privacy we provide 
 			margin: 5px 0;
 		}
 
+	#article_text img
+	{
+		margin: 5px;
+	}
+
 	.js #featured_article
 	{
 		height: 200px;
@@ -305,7 +187,158 @@ Your privacy is very important to us. To better protect your privacy we provide 
 			display: block;
 			float: left;
 		}
+
+	#tools img
+	{
+		display: inline;
+		float: none;
+		width: 16px; 
+		height: 16px; 
+		border: 0; 
+		margin: 0 2px 0 0; 
+		padding: 0;
+	}
+
+	.ad_250x250
+	{
+		margin: 10px;
+	}
 </style>
+
+
+<script src="/scripts/scripts.php"></script>
+
+<script type="text/javascript" src="/article_impression.php?id=571"></script>
+<script language="javascript">
+	$("html").removeClass("nojs").addClass("js"); 
+
+	function comment_reply(id)
+	{
+		document.getElementById("comment_" + id).style.display = "block";
+	}
+
+	function rate_comment(id, rating)
+	{
+		var div_id = "comment_rating_" + id;
+		var new_rating = parseInt(document.getElementById("comment_user_rating_" + id).innerHTML) + rating;
+
+		if((new_rating <= 1) && (new_rating >= -1))
+		{
+			document.getElementById("comment_user_rating_" + id).innerHTML = new_rating;
+
+			url = "/rate_comment.php?comment_id=" + id + "&rating=" + new_rating;
+			ajaxFunction(url, div_id, 1);
+		}
+
+		if(new_rating <= -1)
+			document.getElementById("comment_rating_down_" + id).src = "/images/rate_down_blur.gif";
+		else
+			document.getElementById("comment_rating_down_" + id).src = "/images/rate_down.gif";
+
+		if(new_rating >= 1)
+			document.getElementById("comment_rating_up_" + id).src = "/images/rate_up_blur.gif";
+		else
+			document.getElementById("comment_rating_up_" + id).src = "/images/rate_up.gif";
+	}
+
+	function rate_article(rating)
+	{
+		var div_id = "article_rating";
+		var new_rating = parseInt(document.getElementById("article_user_rating").innerHTML) + rating;
+
+		if((new_rating <= 1) && (new_rating >= -1))
+		{
+			document.getElementById("article_user_rating").innerHTML = new_rating;
+
+			url = "/rate_article.php?article_id=571&rating=" + new_rating;
+			ajaxFunction(url, div_id, 1);
+		}
+
+		if(new_rating <= -1)
+			document.getElementById("article_rating_down").src = "/images/rate_down_16_blur.gif";
+		else
+			document.getElementById("article_rating_down").src = "/images/rate_down_16.gif";
+
+		if(new_rating >= 1)
+			document.getElementById("article_rating_up").src = "/images/rate_up_16_blur.gif";
+		else
+			document.getElementById("article_rating_up").src = "/images/rate_up_16.gif";
+	}
+
+	function article_tab(div, button)
+	{
+		document.getElementById("button-related").style.background = "#cad5e7";
+		document.getElementById("button-user").style.background = "#cad5e7";
+		document.getElementById("button-cat").style.background = "#cad5e7";
+
+		document.getElementById("articles-related").style.display = "none";
+		document.getElementById("articles-user").style.display = "none";
+		document.getElementById("articles-cat").style.display = "none";
+
+		document.getElementById(div).style.display = "block";
+		button.style.background = "#ffffff";
+	}
+
+	function media_tab(div, button)
+	{
+		document.getElementById("button-images").style.background = "#cad5e7";
+		document.getElementById("button-videos").style.background = "#cad5e7";
+
+		document.getElementById("media-images").style.display = "none";
+		document.getElementById("media-videos").style.display = "none";
+
+		document.getElementById(div).style.display = "block";
+		button.style.background = "#ffffff";
+	}
+
+	function restore_categories(id, parent_id)
+	{
+//		document.getElementById("choose_category").style.display = "block";
+
+		document.getElementById("art_id").value = id;
+		document.getElementById("parent_id").value = parent_id;
+
+		if(parent_id == undefined)
+			parent_id = 0;
+
+		url = "article_edit-get_categories.php?id=" + id + "&parentid=" + parent_id;
+		ajaxFunction(url, "show_cat", 1);
+	}
+
+	function add_category(title)
+	{
+		id = document.getElementById("art_id").value;
+		parent_id = document.getElementById("parent_id").value;
+
+		title = title.replace(/^\s+|\s+$/g,"");
+
+		if(title == "")
+			alert("You cannot have a blank title.");
+		else
+		{
+			url = "article_edit-add_category.php?title=" + escape(title) + "&parentid=" + document.getElementById("parent").value;
+			ajaxFunction(url, "add_cat", 1);
+
+			restore_categories(id, parent_id);
+		}
+	}
+
+	$(document).ready(function(){
+		$("#admin_panel_link").click(function () {
+			$('#admin_panel').slideToggle("slow", function(){ show_admin(); } );
+		});
+	});
+
+	function show_admin()
+	{
+		if(document.getElementById("admin_panel_link").innerHTML == "Close Admin Panel")
+			document.getElementById("admin_panel_link").innerHTML = "Open Admin Panel";
+		else
+			document.getElementById("admin_panel_link").innerHTML = "Close Admin Panel";
+	}
+
+</script>
+
 </head>
 
 <body>
@@ -324,7 +357,6 @@ Your privacy is very important to us. To better protect your privacy we provide 
 			<input type="submit" value="Submit">
 			<a href="/forgot_password.php">Forgot your password?</a>
 			</form>
-			<img src="/images/close.gif" id="member_nav-close" style="border: #c80000 1px solid; padding: 1px;" align="absmiddle">
 		</div>
 	</div>
 
@@ -332,7 +364,6 @@ Your privacy is very important to us. To better protect your privacy we provide 
 		<div style="position: relative; width: 1000px; margin: 0 auto;">
 			<a href="http://www.infobarrel.com"><img src="/images/header-logo.gif" border="0" style="margin-top: 9px;"></a>
 			<div style="position: absolute; top: 57px; left: 118px; z-index: 1; display: block; color: #64dcff; font-weight: bold; font-size: 12px; line-height: 12px;">Barrels of Information &amp; How to Guides</div>
-
 			<div style="position: absolute; top: 1px; right: 20px; padding: 2px 10px; overflow: hidden; color: #ffffff; text-align: right; z-index: 2;">
 				<img src="/images/member_bar-tab_left.gif" style="float: left; display: block;">
 				<div style="float: left; display: block; display: inline; padding-top: 1px; height: 27px; background: #273037 url('/images/member_bar-tab_bg.gif') bottom repeat-x;">
@@ -497,16 +528,6 @@ Your privacy is very important to us. To better protect your privacy we provide 
 		</div>
 		<div id="content">
 			<div id="article">
-				<div class="title" style="position: relative; width: 981px;">
-					<div style="position: absolute; top: 0px; right: 2px; text-align: right; z-index: 1;">
-						<a href="#" onclick="document.getElementById('flag').style.display = 'block';">[flag]</a>
-					</div>
-					<!-- google_ad_section_start -->
-					<h1>Privacy Policy</h1>
-					<!-- google_ad_section_end -->
-
-				</div>
-
 				<div id="flag" class="errors" style="display: none;">
 					<form action="article_flag.php" method="post" name="form_flag" enctype="multipart/form-data">
 					<input type="hidden" name="id" value="571">
@@ -533,58 +554,18 @@ Your privacy is very important to us. To better protect your privacy we provide 
 
 				<div class="article" style="margin-right: -3px; position: relative; background: #f1f1f1; width: 984px;">
 					<div style="position: relative; display: block; float: left; background: #FFFFFF; width: 622px; padding: 2px 4px; overflow: hidden;">
-						<div style="position: relative; top: -2px; left: -4px; font-size: 12px; display: block; background: #f1f1f1; height: 50px; color: #616161; font-weight: bold; width: 640px; text-align: center; margin-bottom: 10px">
+						<!-- google_ad_section_start -->
+						<h1>Privacy Policy</h1>
+						<div style="position: relative; font-size: 12px; display: block; color: #616161; font-weight: bold; width: 600px; margin: 0 0 10px 10px">
 							By <img src="/media/avatar/1_100x100.jpg" style="display: inline; float: none; width: 16px; height: 16px;" align="absmiddle" onmouseover="achievement_box(1 , 1);" onmouseout="achievement_box(1, 0);"><a href="/Users/admin">admin</a>
-							| Oct 27, 2008							| Views: 2,452							| <img src="/images/comment.jpg" style="display: inline; float: none; border: 0;" align="absmiddle"><a href="#comments">0 Comments</a>
+							| Oct 27, 2008							| Views: 2,857							| <img src="/images/comment.jpg" style="display: inline; float: none; border: 0;" align="absmiddle"><a href="#comments">0 Comments</a>
 							| <b>Rating:</b> <b id="article_rating" style="display: inline; float: none;">0</b>
 							<img src="/images/rate_down_16_blur.gif" title="You must be signed in to vote" align="absmiddle" style="display: inline; float: none; margin: 1px 0;">
 							<img src="/images/rate_up_16_blur.gif" title="You must be signed in to vote" align="absmiddle" style="display: inline; float: none; margin: 1px 0;">
-							<br>
-							<div style="float: left; margin: 3px 3px 0 120px;">
-								<img src="/images/printer.gif" align="absmiddle" style="width: 16px; height: 16px; border: 0; margin: 0 2px 0 0; padding: 0;"><a href="/article_print.php?title=Privacy_Policy">Print</a>
-							</div>
-							<div style="float: left; margin: 3px 3px 0;">
-								<img src="/images/email.gif" align="absmiddle" style="width: 16px; height: 16px; border: 0; margin: 0 2px 0 0; padding: 0;"><a href="#" onclick="document.getElementById('email_box').style.display = 'block';">E-mail</a>
-							</div>
-							<div style="float: left; margin: 3px 0 0 60px;">
-								<script type="text/javascript" src="http://d.yimg.com/ds/badge2.js" badgetype="logo">http://www.infobarrel.com/Privacy_Policy</script>
-							</div>
-							<div style="float: left; margin: 3px 3px 0;">
-								<script>function fbs_click() {u=location.href;t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;}</script>
-								<a href="http://www.facebook.com/share.php?u=&lt;url&gt;" onclick="return fbs_click()" target="_blank" class="fb_share_link"><img src="http://static.ak.fbcdn.net/images/share/facebook_share_icon.gif?0:26981" align="absmiddle" style="width: 16px; height: 16px; border: 0; margin: 0; padding: 0;"></a>
-							</div>
-							<div style="float: left; margin: 3px 3px 0;">
-								<a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.infobarrel.com%2FPrivacy_Policy"><img src="http://cdn.stumble-upon.com/images/16x16_su_round.gif" align="absmiddle" style="border: 0; margin: 0; padding: 0;" alt=""></a>
-							</div>
-							<div style="float: left; margin: 3px 3px 0;">
-								<script type="text/javascript">
-									digg_url = 'http://www.infobarrel.com/Privacy_Policy';
-									digg_bgcolor = '#f1f1f1';
-									digg_skin = 'icon';
-									digg_window = 'new';
-								</script>
-								<script src="http://digg.com/tools/diggthis.js" type="text/javascript"></script>
-							</div>
-							<div style="float: left; margin: 4px 3px 0;">
-								<a href="http://twitter.com/home?status=Currently reading http://www.infobarrel.com/Privacy_Policy" title="Click to send this page to Twitter!" target="_blank"><img src="/images/twitter.jpg" style="border: 0; margin: 0; padding: 0;"></a>
-							</div>
-							<div style="float: left; margin: 4px 3px 0;">
-								<a href="http://www.mixx.com/" onclick="window.location='http://www.mixx.com/submit?page_url='+window.location; return false;">
-								<img src="http://www.mixx.com/images/buttons/mixx-button4.png" alt="Add to Mixx!" style="border: 0; margin: 0; padding: 0;">
-									</a> 
-							</div>
-							<div style="float: left; margin: 4px 3px 0;">
-								<a href="http://del.icio.us/post?url=http://www.infobarrel.com/Privacy_Policy"><img src="/images/delicious_button.jpg" alt="Add to del.icio.us" style="border: 0; margin: 0; padding: 0;"></a>
-							</div>
-							<div style="float: left; margin: 2px 3px 0;">
-								<script>reddit_url='http://www.infobarrel.com/Privacy_Policy'</script>
-								<script>reddit_title='Privacy Policy'</script>
-								<script type="text/javascript" src="http://www.reddit.com/button.js?t=1"></script>
-							</div>							
+							
 						</div>
 
-						<div class="KonaBody">
-							<!-- google_ad_section_start -->
+						<div id="article_text" class="KonaBody">
 							
 
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -613,20 +594,92 @@ Your privacy is very important to us. To better protect your privacy we provide 
 <p>Should you have other questions or concerns about these privacy policies, please call us at 778-355-4320 or send us an email via our <a class="" href="Contact_Us" target="" name="" classname="">contact form</a>. </p>
 
 
-							<!-- google_ad_section_end -->
 						</div>
 
 						<div style="display: block; width: 100%; margin-top: 10px;"></div>
 
 						<div style="display: block; width: 100%; background: #ffffff;">
 							<b>Tags:</b> 
-							<a href="related_articles.php?tag=Privacy_Policy">Privacy Policy</a>; 
-					
+							<a href="related_articles.php?tag=Privacy_Policy" rel="nofollow">Privacy Policy</a>; 
+
 						</div>
+
+						<div style="display: block; width: 100%; background: #ffffff; margin-top: 5px;">
+							<script type="text/javascript"><!--
+							google_ad_client = "pub-0884795935727048";
+							google_alternate_color = "006699"; 
+							google_ad_width = 468;
+							google_ad_height = 15;
+							google_ad_format = "468x15_0ads_al";
+							google_ad_channel ="Infobarrel Link Bar";
+							google_color_border = "FFFFFF";
+							google_color_bg = "FFFFFF";
+							google_color_link = "2401a8";
+							google_color_text = "000000";
+							google_color_url = "000000";
+							//--></script>
+							<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+							</script>
+						</div>
+						<!-- google_ad_section_end -->
 					</div>
 <!--[if !IE]>------------------------------------------------------------------ START RIGHT SIDE ------------------------------------------------------------------<![endif]-->
 					<div class="text" style="background: 0; position: relative; float: right; display: block; width: 350px; z-index: 1">
+						<!-- google_ad_section_start(weight=ignore) -->
 						<div class="tabs" style="margin: 0 2px 0 6px;">
+							<a href="javascript:void();" style="background: #ffffff; color: #000000;">Tools</a>
+						</div>
+
+						<div id="tools" class="text" style="float: right; margin: 0 2px; width: 336px; border: #cad6e0 1px solid; border-top: 0; background: #ffffff;">
+							<span style="margin: 3px 3px 0;">
+								<img src="/images/printer.gif" align="absmiddle"><a href="/article_print.php?title=Privacy_Policy">Print</a>
+							</span>
+							<span style="margin: 3px 3px 0;">
+								<img src="/images/email.gif" align="absmiddle"><a href="#" onclick="document.getElementById('email_box').style.display = 'block';">E-mail</a>
+							</span>
+
+							<span style="margin: 3px 3px 0;">
+								<img src="/images/flag.png" align="absmiddle" style="width: 16px; height: 16px; border: 0; margin: 0 2px 0 0; padding: 0;"><a href="#" onclick="document.getElementById('flag').style.display = 'block';">Flag</a>
+							</span>
+							<br>
+
+
+							<span style="float: left; margin: 6px 3px 0;">
+								<script type="text/javascript" src="http://d.yimg.com/ds/badge2.js" badgetype="logo">http://www.infobarrel.com/Privacy_Policy</script>
+							</span>
+							<span style="float: left; margin: 6px 3px 0;">
+								<script>function fbs_click() {u=location.href;t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;}</script>
+								<a href="http://www.facebook.com/share.php?u=&lt;url&gt;" onclick="return fbs_click()" target="_blank" class="fb_share_link"><img src="http://static.ak.fbcdn.net/images/share/facebook_share_icon.gif?0:26981" align="absmiddle" style="width: 16px; height: 16px; border: 0; margin: 0; padding: 0;"></a>
+							</span>
+							<span style="float: left; margin: 6px 3px 0;">
+								<a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.infobarrel.com%2FPrivacy_Policy"><img src="http://cdn.stumble-upon.com/images/16x16_su_round.gif" align="absmiddle" style="border: 0; margin: 0; padding: 0;" alt=""></a>
+							</span>
+							<span style="float: left; margin: 9px 3px 0;">
+								<script type="text/javascript">
+									digg_url = 'http://www.infobarrel.com/Privacy_Policy';
+									digg_bgcolor = '#f1f1f1';
+									digg_skin = 'icon';
+									digg_window = 'new';
+								</script>
+								<script src="http://digg.com/tools/diggthis.js" type="text/javascript"></script>
+							</span>
+							<span style="float: left; margin: 9px 3px 0;">
+								<a href="http://twitter.com/home?status=Currently reading http://www.infobarrel.com/Privacy_Policy" title="Click to send this page to Twitter!" target="_blank"><img src="/images/twitter.jpg" style="border: 0; margin: 0; padding: 0;"></a>
+							</span>
+							<span style="float: left; margin: 9px 3px 0;">
+								<a href="http://www.mixx.com/" onclick="window.location='http://www.mixx.com/submit?page_url='+window.location; return false;">
+								<img src="http://www.mixx.com/images/buttons/mixx-button4.png" alt="Add to Mixx!" style="border: 0; margin: 0; padding: 0;">
+									</a> 
+							</span>
+							<span style="float: left; margin: 9px 3px 0;">
+								<a href="http://del.icio.us/post?url=http://www.infobarrel.com/Privacy_Policy"><img src="/images/delicious_button.jpg" alt="Add to del.icio.us" style="border: 0; margin: 0; padding: 0;"></a>
+							</span>
+							<span style="float: left; margin: 8px 3px 0;">
+								<a href="http://www.reddit.com/submit" onclick="window.location = 'http://www.reddit.com/submit?url=' + encodeURIComponent(window.location); return false"> <img src="http://www.reddit.com/static/spreddit1.gif" alt="submit to reddit" style="border: 0; margin: 0; padding: 0;"> </a>
+							</span>
+						</div>
+						<br style="clear: both;">
+						<div class="tabs" style="margin: 10px 2px 0 6px;">
 							<a href="javascript:void();" id="button-related" style=" background: #ffffff; color: #000000;" onclick="article_tab('articles-related', this);">Related</a>
 							<a href="javascript:void();" id="button-user" style="  color: #000000;" onclick="article_tab('articles-user', this);">More from User</a>
 							<a href="javascript:void();" id="button-cat" style="  color: #000000;" onclick="article_tab('articles-cat', this);">More in Category</a>
@@ -634,118 +687,118 @@ Your privacy is very important to us. To better protect your privacy we provide 
 
 						<div id="articles-related" class="text" style="display: block; float: right; margin: 0 2px; width: 336px; border: #cad6e0 1px solid; border-top: 0; background: #ffffff;">
 							<div style="color: #616161; margin: 0 5px 5px;">
-								<img src="/media/avatar/4540_50x50.jpg" width="30" height="30">
-								<a href="/Internet_Privacy_Policy_-_Protect_yourself_from_Reverse_Phone_Number_Lookup" title="Internet Privacy Policy - Protect yourself from Reverse Phone Number Lookup" style="font-weight: bold;">Internet Privacy Policy - Protect yourself from Reverse Phone Number Lookup</a><br>
-								234 views 
-								| By <a href="/Users/minnien" rel="nofollow">minnien</a> 
+								<img src="/media/avatar/7432_50x50.jpg" width="30" height="30">
+								<a href="/No_Privacy_Policy_May_Get_You_Banned_From_Adsense_-_Get_One_In_30_Seconds" title="No Privacy Policy May Get You Banned From Adsense - Get One In 30 Seconds" style="color: #000000; text-decoration: underline;">No Privacy Policy May Get You Banned From Adsense - Get One In 30 Seconds</a><br>
+								108 views 
+								| By <a href="/Users/PaulCrowe" rel="nofollow" style="color: #616161; text-decoration: underline;">PaulCrowe</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/614_50x50.jpg" width="30" height="30">
+								<a href="/How_to_Earn_Money_Blogging" title="How to Earn Money Blogging" style="color: #000000; text-decoration: underline;">How to Earn Money Blogging</a><br>
+								5 views 
+								| By <a href="/Users/0sarakastic0" rel="nofollow" style="color: #616161; text-decoration: underline;">0sarakastic0</a> 
 							</div>
 							<div style="color: #616161; margin: 0 5px 5px;">
 								<img src="/images/female_50x50.gif" width="30" height="30">
-								<a href="/Window_Treatments_For_Lovely_French_Doors" title="Window Treatments For Lovely French Doors" style="font-weight: bold;">Window Treatments For Lovely French Doors</a><br>
-								35 views 
-								| By <a href="/Users/Jennaflames" rel="nofollow">Jennaflames</a> 
+								<a href="/Dealing_with_Unsafe_Websites_and_Spam_Email" title="Dealing with Unsafe Websites and Spam Email" style="color: #000000; text-decoration: underline;">Dealing with Unsafe Websites and Spam Email</a><br>
+								378 views 
+								| By <a href="/Users/galleryofgrace" rel="nofollow" style="color: #616161; text-decoration: underline;">galleryofgrace</a> 
 							</div>
 							<div style="color: #616161; margin: 0 5px 5px;">
-								<img src="/images/female_50x50.gif" width="30" height="30">
-								<a href="/Window_Treatments_-_Cellular_Blinds_For_Beautiful_Homes" title="Window Treatments - Cellular Blinds For Beautiful Homes" style="font-weight: bold;">Window Treatments - Cellular Blinds For Beautiful Homes</a><br>
-								232 views 
-								| By <a href="/Users/Jennaflames" rel="nofollow">Jennaflames</a> 
+								<img src="/images/male_50x50.gif" width="30" height="30">
+								<a href="/What_is_a_Variable_Universal_Life_Insurance_Policy%3f" title="What is a Variable Universal Life Insurance Policy?" style="color: #000000; text-decoration: underline;">What is a Variable Universal Life Insurance Policy?</a><br>
+								90 views 
+								| By <a href="/Users/jasonlanier" rel="nofollow" style="color: #616161; text-decoration: underline;">jasonlanier</a> 
 							</div>
 							<div style="color: #616161; margin: 0 5px 5px;">
-								<img src="/media/avatar/1288_50x50.jpg" width="30" height="30">
-								<a href="/How_to_Enable_Microsoft_Windows_Group_Policy_Editor_-_gpedit" title="How to Enable Microsoft Windows Group Policy Editor - gpedit" style="font-weight: bold;">How to Enable Microsoft Windows Group Policy Editor - gpedit</a><br>
-								2,001 views 
-								| By <a href="/Users/LANWANMAN" rel="nofollow">LANWANMAN</a> 
+								<img src="/media/avatar/2885_50x50.jpg" width="30" height="30">
+								<a href="/Temporary_Auto_Insurance" title="Temporary Auto Insurance" style="color: #000000; text-decoration: underline;">Temporary Auto Insurance</a><br>
+								505 views 
+								| By <a href="/Users/DylanMurphy" rel="nofollow" style="color: #616161; text-decoration: underline;">DylanMurphy</a> 
 							</div>
 							<div style="color: #616161; margin: 0 5px 5px;">
-								<img src="/media/avatar/3934_50x50.jpg" width="30" height="30">
-								<a href="/Small_Business_Group_Health_Insurance" title="Small Business Group Health Insurance" style="font-weight: bold;">Small Business Group Health Insurance</a><br>
-								70 views 
-								| By <a href="/Users/mombo" rel="nofollow">mombo</a> 
-							</div>
-							<div style="color: #616161; margin: 0 5px 5px;">
-								<img src="/media/avatar/2494_50x50.jpg" width="30" height="30">
-								<a href="/Block_Snooping_Eyes_With_Privacy_Window_Film" title="Block Snooping Eyes With Privacy Window Film" style="font-weight: bold;">Block Snooping Eyes With Privacy Window Film</a><br>
-								262 views 
-								| By <a href="/Users/JasonH" rel="nofollow">JasonH</a> 
+								<img src="/media/avatar/6402_50x50.jpg" width="30" height="30">
+								<a href="/Experience_Privacy_and_Intimacy_with_a_Mountain_Cabin_Rental" title="Experience Privacy and Intimacy with a Mountain Cabin Rental" style="color: #000000; text-decoration: underline;">Experience Privacy and Intimacy with a Mountain Cabin Rental</a><br>
+								83 views 
+								| By <a href="/Users/jaschmidt" rel="nofollow" style="color: #616161; text-decoration: underline;">jaschmidt</a> 
 							</div>
 						</div>
 
 						<div id="articles-user" class="text" style="display: none; float: right; margin: 0 2px; width: 336px; border: #cad6e0 1px solid; border-top: 0; background: #ffffff;">
 							<div style="color: #616161; margin: 0 5px 5px;">
 								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
-								<a href="/InfoBarrel_Forum_Rules" title="InfoBarrel Forum Rules" style="font-weight: bold;">InfoBarrel Forum Rules</a><br>
-								52 views 
-								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+								<a href="/Infobarrel_AutoTweet" title="Infobarrel AutoTweet" style="color: #000000; text-decoration: underline;">Infobarrel AutoTweet</a><br>
+								25 views 
+								| By <a href="/Users/admin" rel="nofollow" style="color: #616161; text-decoration: underline;">admin</a> 
 							</div>
 							<div style="color: #616161; margin: 0 5px 5px;">
 								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
-								<a href="/Blog_Buzz" title="Blog Buzz" style="font-weight: bold;">Blog Buzz</a><br>
-								416 views 
-								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+								<a href="/InfoBarrel_Forum_Rules" title="InfoBarrel Forum Rules" style="color: #000000; text-decoration: underline;">InfoBarrel Forum Rules</a><br>
+								226 views 
+								| By <a href="/Users/admin" rel="nofollow" style="color: #616161; text-decoration: underline;">admin</a> 
 							</div>
 							<div style="color: #616161; margin: 0 5px 5px;">
 								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
-								<a href="/InfoBarrel_FAQ" title="InfoBarrel FAQ" style="font-weight: bold;">InfoBarrel FAQ</a><br>
-								4,740 views 
-								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+								<a href="/Blog_Buzz" title="Blog Buzz" style="color: #000000; text-decoration: underline;">Blog Buzz</a><br>
+								1,039 views 
+								| By <a href="/Users/admin" rel="nofollow" style="color: #616161; text-decoration: underline;">admin</a> 
 							</div>
 							<div style="color: #616161; margin: 0 5px 5px;">
 								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
-								<a href="/How_To_Find_Your_Live,_Draft,_Denied_and_Pending_Articles_on_InfoBarrel" title="How To Find Your Live, Draft, Denied and Pending Articles on InfoBarrel" style="font-weight: bold;">How To Find Your Live, Draft, Denied and Pending Articles on InfoBarrel</a><br>
-								324 views 
-								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+								<a href="/InfoBarrel_FAQ" title="InfoBarrel FAQ" style="color: #000000; text-decoration: underline;">InfoBarrel FAQ</a><br>
+								10,943 views 
+								| By <a href="/Users/admin" rel="nofollow" style="color: #616161; text-decoration: underline;">admin</a> 
 							</div>
 							<div style="color: #616161; margin: 0 5px 5px;">
 								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
-								<a href="/Top_10_Disadvantages_of_Working_from_Home" title="Top 10 Disadvantages of Working from Home" style="font-weight: bold;">Top 10 Disadvantages of Working from Home</a><br>
-								757 views 
-								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+								<a href="/How_To_Find_Your_Live,_Draft,_Denied_and_Pending_Articles_on_InfoBarrel" title="How To Find Your Live, Draft, Denied and Pending Articles on InfoBarrel" style="color: #000000; text-decoration: underline;">How To Find Your Live, Draft, Denied and Pending Articles on InfoBarrel</a><br>
+								566 views 
+								| By <a href="/Users/admin" rel="nofollow" style="color: #616161; text-decoration: underline;">admin</a> 
 							</div>
 							<div style="color: #616161; margin: 0 5px 5px;">
 								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
-								<a href="/Writing_For_Money" title="Writing For Money" style="font-weight: bold;">Writing For Money</a><br>
-								2,019 views 
-								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+								<a href="/Top_10_Disadvantages_of_Working_from_Home" title="Top 10 Disadvantages of Working from Home" style="color: #000000; text-decoration: underline;">Top 10 Disadvantages of Working from Home</a><br>
+								1,164 views 
+								| By <a href="/Users/admin" rel="nofollow" style="color: #616161; text-decoration: underline;">admin</a> 
 							</div>
 						</div>
 
 						<div id="articles-cat" class="text" style="display: none;  float: right; margin: 0 2px; width: 336px; border: #cad6e0 1px solid; border-top: 0; background: #ffffff;">
 							<div style="color: #616161; margin: 0 5px 5px;">
 								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
-								<a href="/Press_Releases" title="Press Releases" style="font-weight: bold;">Press Releases</a><br>
-								2,730 views 
-								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+								<a href="/Ways_to_Get_More_Traffic_To_Your_Content" title="Ways to Get More Traffic To Your Content" style="color: #000000; text-decoration: underline;">Ways to Get More Traffic To Your Content</a><br>
+								4,644 views 
+								| By <a href="/Users/admin" rel="nofollow" style="color: #616161; text-decoration: underline;">admin</a> 
 							</div>
 							<div style="color: #616161; margin: 0 5px 5px;">
 								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
-								<a href="/How_Does_InfoBarrel_Work%3f" title="How Does InfoBarrel Work?" style="font-weight: bold;">How Does InfoBarrel Work?</a><br>
-								10,629 views 
-								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+								<a href="/Stumble_Your_Way_to_More_Traffic" title="Stumble Your Way to More Traffic" style="color: #000000; text-decoration: underline;">Stumble Your Way to More Traffic</a><br>
+								828 views 
+								| By <a href="/Users/admin" rel="nofollow" style="color: #616161; text-decoration: underline;">admin</a> 
 							</div>
 							<div style="color: #616161; margin: 0 5px 5px;">
 								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
-								<a href="/About_Us" title="About Us" style="font-weight: bold;">About Us</a><br>
-								4,864 views 
-								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+								<a href="/How_To_Find_Your_Live,_Draft,_Denied_and_Pending_Articles_on_InfoBarrel" title="How To Find Your Live, Draft, Denied and Pending Articles on InfoBarrel" style="color: #000000; text-decoration: underline;">How To Find Your Live, Draft, Denied and Pending Articles on InfoBarrel</a><br>
+								566 views 
+								| By <a href="/Users/admin" rel="nofollow" style="color: #616161; text-decoration: underline;">admin</a> 
 							</div>
 							<div style="color: #616161; margin: 0 5px 5px;">
 								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
-								<a href="/Terms_of_Service" title="Terms of Service" style="font-weight: bold;">Terms of Service</a><br>
-								3,602 views 
-								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+								<a href="/How_to_use_the_Draft_Function_on_InfoBarrel" title="How to use the Draft Function on InfoBarrel" style="color: #000000; text-decoration: underline;">How to use the Draft Function on InfoBarrel</a><br>
+								733 views 
+								| By <a href="/Users/admin" rel="nofollow" style="color: #616161; text-decoration: underline;">admin</a> 
 							</div>
 							<div style="color: #616161; margin: 0 5px 5px;">
 								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
-								<a href="/InfoBarrel_Editorial_Guidelines" title="InfoBarrel Editorial Guidelines" style="font-weight: bold;">InfoBarrel Editorial Guidelines</a><br>
-								1,334 views 
-								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+								<a href="/How_To_Get_A_Google_Adsense_Publisher_ID" title="How To Get A Google Adsense Publisher ID" style="color: #000000; text-decoration: underline;">How To Get A Google Adsense Publisher ID</a><br>
+								22,869 views 
+								| By <a href="/Users/admin" rel="nofollow" style="color: #616161; text-decoration: underline;">admin</a> 
 							</div>
 							<div style="color: #616161; margin: 0 5px 5px;">
 								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
-								<a href="/Writing_For_Money" title="Writing For Money" style="font-weight: bold;">Writing For Money</a><br>
-								2,019 views 
-								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+								<a href="/About_Us" title="About Us" style="color: #000000; text-decoration: underline;">About Us</a><br>
+								6,060 views 
+								| By <a href="/Users/admin" rel="nofollow" style="color: #616161; text-decoration: underline;">admin</a> 
 							</div>
 						</div>
 
@@ -769,6 +822,7 @@ Your privacy is very important to us. To better protect your privacy we provide 
 						<div class="text" style="float: right; margin: 0 2px; width: 336px; border: #cad6e0 1px solid; border-top: 0; background: #ffffff;">
 							<a href="InfoBarrel_University">InfoBarrel University</a>
 						</div>
+						<!-- google_ad_section_end -->
 					</div>
 <!---[if !IE]>------------------------------------------------------------------ END RIGHT SIDE ------------------------------------------------------------------<![endif]-->
 					<!-- google_ad_section_start(weight=ignore) -->
@@ -833,7 +887,7 @@ Your privacy is very important to us. To better protect your privacy we provide 
 
 				<div style="float: left; display: block; width: 440px; margin: 5px 10px 5px 5px;">
 					<h3>Info Barrel Archive</h3>
-<br style="display: block; height: 1px;"><b style="margin: 0 3px 4px 2px;">2008</b><div style="display: inline; margin: 0 3px;">Jan</div><div style="display: inline; margin: 0 3px;">Feb</div><div style="display: inline; margin: 0 3px;">Mar</div><div style="display: inline; margin: 0 3px;">Apr</div><a href="/Archive/May-2008" style="margin: 0 3px; display: inline;">May</a><a href="/Archive/Jun-2008" style="margin: 0 3px; display: inline;">Jun</a><a href="/Archive/Jul-2008" style="margin: 0 3px; display: inline;">Jul</a><a href="/Archive/Aug-2008" style="margin: 0 3px; display: inline;">Aug</a><a href="/Archive/Sep-2008" style="margin: 0 3px; display: inline;">Sep</a><a href="/Archive/Oct-2008" style="margin: 0 3px; display: inline;">Oct</a><a href="/Archive/Nov-2008" style="margin: 0 3px; display: inline;">Nov</a><a href="/Archive/Dec-2008" style="margin: 0 3px; display: inline;">Dec</a><br style="display: block; height: 1px;"><b style="margin: 0 3px 4px 2px;">2009</b><a href="/Archive/Jan-2009" style="margin: 0 3px; display: inline;">Jan</a><a href="/Archive/Feb-2009" style="margin: 0 3px; display: inline;">Feb</a><a href="/Archive/Mar-2009" style="margin: 0 3px; display: inline;">Mar</a><a href="/Archive/Apr-2009" style="margin: 0 3px; display: inline;">Apr</a><a href="/Archive/May-2009" style="margin: 0 3px; display: inline;">May</a><a href="/Archive/Jun-2009" style="margin: 0 3px; display: inline;">Jun</a><a href="/Archive/Jul-2009" style="margin: 0 3px; display: inline;">Jul</a><a href="/Archive/Aug-2009" style="margin: 0 3px; display: inline;">Aug</a><a href="/Archive/Sep-2009" style="margin: 0 3px; display: inline;">Sep</a><a href="/Archive/Oct-2009" style="margin: 0 3px; display: inline;">Oct</a><a href="/Archive/Nov-2009" style="margin: 0 3px; display: inline;">Nov</a><a href="/Archive/Dec-2009" style="margin: 0 3px; display: inline;">Dec</a>				</div>
+<br style="display: block; height: 1px;"><b style="margin: 0 3px 4px 2px;">2008</b><div style="display: inline; margin: 0 3px;">Jan</div><div style="display: inline; margin: 0 3px;">Feb</div><div style="display: inline; margin: 0 3px;">Mar</div><div style="display: inline; margin: 0 3px;">Apr</div><a href="/Archive/May-2008" style="margin: 0 3px; display: inline;">May</a><a href="/Archive/Jun-2008" style="margin: 0 3px; display: inline;">Jun</a><a href="/Archive/Jul-2008" style="margin: 0 3px; display: inline;">Jul</a><a href="/Archive/Aug-2008" style="margin: 0 3px; display: inline;">Aug</a><a href="/Archive/Sep-2008" style="margin: 0 3px; display: inline;">Sep</a><a href="/Archive/Oct-2008" style="margin: 0 3px; display: inline;">Oct</a><a href="/Archive/Nov-2008" style="margin: 0 3px; display: inline;">Nov</a><a href="/Archive/Dec-2008" style="margin: 0 3px; display: inline;">Dec</a><br style="display: block; height: 1px;"><b style="margin: 0 3px 4px 2px;">2009</b><a href="/Archive/Jan-2009" style="margin: 0 3px; display: inline;">Jan</a><a href="/Archive/Feb-2009" style="margin: 0 3px; display: inline;">Feb</a><a href="/Archive/Mar-2009" style="margin: 0 3px; display: inline;">Mar</a><a href="/Archive/Apr-2009" style="margin: 0 3px; display: inline;">Apr</a><a href="/Archive/May-2009" style="margin: 0 3px; display: inline;">May</a><a href="/Archive/Jun-2009" style="margin: 0 3px; display: inline;">Jun</a><a href="/Archive/Jul-2009" style="margin: 0 3px; display: inline;">Jul</a><a href="/Archive/Aug-2009" style="margin: 0 3px; display: inline;">Aug</a><a href="/Archive/Sep-2009" style="margin: 0 3px; display: inline;">Sep</a><a href="/Archive/Oct-2009" style="margin: 0 3px; display: inline;">Oct</a><a href="/Archive/Nov-2009" style="margin: 0 3px; display: inline;">Nov</a><a href="/Archive/Dec-2009" style="margin: 0 3px; display: inline;">Dec</a><br style="display: block; height: 1px;"><b style="margin: 0 3px 4px 2px;">2010</b><a href="/Archive/Jan-2010" style="margin: 0 3px; display: inline;">Jan</a><a href="/Archive/Feb-2010" style="margin: 0 3px; display: inline;">Feb</a><a href="/Archive/Mar-2010" style="margin: 0 3px; display: inline;">Mar</a><a href="/Archive/Apr-2010" style="margin: 0 3px; display: inline;">Apr</a><a href="/Archive/May-2010" style="margin: 0 3px; display: inline;">May</a>				</div>
 
 				<div style="position: absolute; bottom: 2px; right: 5px; z-index: 1;">
 					<a href="/feed.php" style="display: inline;"><img src="/images/rss-64x64.png" border="0"></a>
@@ -843,13 +897,11 @@ Your privacy is very important to us. To better protect your privacy we provide 
 			</div>
 
 			<div id="footer">
-				<div style="line-height: 20px; padding-right: 10px; float: left; display: block;">© Copyright 2008 Hinzie Media Inc.</div>
+				<div style="line-height: 20px; padding-right: 10px; float: left; display: block;">© Copyright 2008 - 2010 by Hinzie Media Inc.</div>
 				<a href="/Terms_of_Service" style="background: none; color: #018fb8; font-weight: normal; text-decoration: underline; margin-top: 0px; line-height: 20px; padding-right: 10px; float: left; display: block;">Terms of Service</a>
 				<a href="/Sitemap.php" style="background: none; color: #018fb8; font-weight: normal; text-decoration: underline; margin-top: 0px; line-height: 20px; padding-right: 10px; float: left; display: block;">XML Sitemap</a>
 				<div id="rss"><a href="/feed.php"><img src="/images/rss_left.gif" align="top">Article Feed<img src="/images/rss_right.gif" align="top"></a></div>
 				<div id="rss"><a href="/blog/feed/"><img src="/images/rss_left.gif" align="top">Blog Feed<img src="/images/rss_right.gif" align="top"></a></div>
-
-				<script src="/astrack.js" type="text/javascript"></script>
 
 				<script type="text/javascript">
 				var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -861,23 +913,8 @@ Your privacy is very important to us. To better protect your privacy we provide 
 				pageTracker._trackPageview();
 				</script>
 			</div>
-<script type="text/javascript">
-var uservoiceJsHost = ("https:" == document.location.protocol) ? "https://uservoice.com" : "http://cdn.uservoice.com"
-document.write(unescape("%3Cscript src='" + uservoiceJsHost + "/javascripts/widgets/tab.js' type='text/javascript'%3E%3C/script%3E"))
-</script><script src="https://uservoice.com/javascripts/widgets/tab.js" type="text/javascript"></script>
-<script type="text/javascript">
-UserVoice.Tab.show({ 
-  key: 'infobarrel',
-  host: 'infobarrel.uservoice.com', 
-  forum: 'general', 
-  alignment: 'right',
-  background_color:'#64dcff', 
-  text_color: 'black',
-  hover_color: '#25a9da'
-})
-</script>
 
-
+      <img id="keepAliveIMG" width="1" height="1" src="/invis.gif?">
 			<div id="email_box" class="text" style="display: none; position: absolute; top: 100px; left: 300px; width: 500px; overflow: hidden; font-size: 11px; padding: 0; border: #d1d1d1 1px solid; background: #ffffff; z-index: 1;">
 				<h4 style="margin-top: 0; text-align: center; position: relative;">
 					E-mail To A Friend
