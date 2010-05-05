@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the nielsennetpanel.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123073526id_/http%3A//digitalvoice.nielsen.com/pnl/us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nielsennetpanel.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505124829id_/http%3A//digitalvoice.nielsen.com/pnl/us/privacy_policy) for the most accurate reproduction.*
 
 # Nielsen Digital Voice - Privacy Policy
 
   
-**Special Notice for Parents with Children under 13:** We recognize the need to provide additional privacy protections for children using the Internet. To read about our privacy policy with respect to children who are 12 and younger, please [click here](https://web.archive.org/web/20091123073526id_/http%3A//digitalvoice.nielsen.com/pnl/us/coppa.privacy_policy?li=1).
+**Special Notice for Parents with Children under 13:** We recognize the need to provide additional privacy protections for children using the Internet. To read about our privacy policy with respect to children who are 12 and younger, please [click here](https://web.archive.org/web/20100505124829id_/http%3A//digitalvoice.nielsen.com/pnl/us/coppa.privacy_policy?li=1).
 
  **Why you can trust Nielsen with your privacy?**
 
@@ -70,7 +70,7 @@ The security of data and the protection of personal information are essential to
 
 **How can you update your profile if the information you provided about yourself and others in your household changes?**
 
-If at any time you wish to review or update the profile information in our database, you may do so at any time by logging into the "Members Area" located at [http://digitalvoice.nielsen.com/pnl/us/members.sign_in?li=1](https://web.archive.org/web/20091123073526id_/http%3A//digitalvoice.nielsen.com/pnl/us/members.sign_in?li=1) and clicking on the "Update Household Profile" link.
+If at any time you wish to review or update the profile information in our database, you may do so at any time by logging into the "Members Area" located at [http://digitalvoice.nielsen.com/pnl/us/members.sign_in?li=1](https://web.archive.org/web/20100505124829id_/http%3A//digitalvoice.nielsen.com/pnl/us/members.sign_in?li=1) and clicking on the "Update Household Profile" link.
 
  **How will you be notified of changes to this privacy Notice?**
 
@@ -84,7 +84,7 @@ We sincerely appreciate your willingness to serve as a member. However, should y
   2. Choose "Control Panel".
   3. Double click on "Add/remove Programs".
 
-If you require assistance, please contact us directly at [http://digitalvoice.nielsen.com/pnl/us/contact_us](https://web.archive.org/web/20091123073526id_/http%3A//digitalvoice.nielsen.com/pnl/us/contact_us?li=1) and fill out the e-mail form notifying us of your desire to discontinue your participation.
+If you require assistance, please contact us directly at [http://digitalvoice.nielsen.com/pnl/us/contact_us](https://web.archive.org/web/20100505124829id_/http%3A//digitalvoice.nielsen.com/pnl/us/contact_us?li=1) and fill out the e-mail form notifying us of your desire to discontinue your participation.
 
  **Who can you contact if you have additional privacy questions or concerns?**
 
