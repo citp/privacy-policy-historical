@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jayisgames.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210124648id_/http%3A//jayisgames.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jayisgames.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505040754id_/http%3A//jayisgames.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for CasualGameplay and Jayisgames.com - Jay is Games
 
@@ -32,6 +32,7 @@ CasualGameplay and Jayisgames.com ("CasualGameplay") takes matters concerning yo
 ## Cookies
 
   * CasualGameplay may set and access CasualGameplay cookies on your computer. CasualGameplay does not allow other companies to access the cookies we set on your computer. Advertisers or other companies do not have access to CasualGameplay's cookies.
+  * CasualGameplay allows third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>
 
 
 
@@ -55,4 +56,4 @@ CasualGameplay and Jayisgames.com ("CasualGameplay") takes matters concerning yo
 
 
 
-©2008, CasualGameplay
+©2010, CasualGameplay
