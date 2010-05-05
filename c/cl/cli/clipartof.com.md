@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipartof.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212100822id_/http%3A//www.clipartof.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipartof.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505065947id_/http%3A//www.clipartof.com/info/privacy-policy) for the most accurate reproduction.*
 
 # ClipArtOf.com Privacy Policy
 
@@ -20,8 +20,7 @@ Unless you ask us not to, we may contact you via e-mail in the future to tell yo
 
 Your Access To and Control Over Information
 
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the e-mail address or phone number given on our Web site:  
-
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the e-mail address or phone number given on our Web site:
 
   * See what data we have about you, if any.
   * Change/correct any data we have about you.
