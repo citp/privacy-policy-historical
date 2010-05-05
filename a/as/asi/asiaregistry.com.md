@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiaregistry.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124094125id_/http%3A//www.asiaregistry.com/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiaregistry.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505072644id_/http%3A//www.asiaregistry.com/policies/privacy.html) for the most accurate reproduction.*
 
 # Asia Registry Privacy and Policy | Asia Registry
 
