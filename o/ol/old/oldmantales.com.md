@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldmantales.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215143920id_/http%3A//www.oldmantales.com/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldmantales.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505043605id_/http%3A//oldmantales.com/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
