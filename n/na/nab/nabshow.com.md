@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nabshow.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102151919id_/http%3A//www.nabshow.com/2010/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabshow.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505152917id_/http%3A//www.nabshow.com/2010/privacy_policy.asp) for the most accurate reproduction.*
 
 # 2010 NAB Show - Privacy Policy
-
-[Home](https://web.archive.org/2010/index.asp) > Privacy Policy 
 
 **Our mailing address:**
 
@@ -43,3 +41,5 @@ We may contact you by email to confirm purchases from the NAB Store, enrollment 
 The information provided is "as is" with all faults and without warranty of any kind, expressed or implied. NAB makes no warranties or representations regarding the accuracy or completeness of the information contained herein.
 
 NAB has provided directories of information and links to other internet sites only for the convenience of World-Wide Web users, and is not responsible for the materials, activities or content of other sites. NAB does not endorse, warrant or guarantee any products or services described or offered at these companies, addresses or websites.
+
+MEDIA PARTNER
