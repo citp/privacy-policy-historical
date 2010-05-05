@@ -1,17 +1,22 @@
-> *The following text is extracted and transformed from the np.edu.sg privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011070338id_/http%3A//www.np.edu.sg/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the np.edu.sg privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505032046id_/http%3A//www.np.edu.sg/home/TermsAndPrivacy/Pages/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy statement
+# Ngee Ann Polytechnic Privacy Statement
 
-  | 
+| 
 
-**  
-NGEE ANN POLYTECHNIC PRIVACY STATEMENT**
+### NGEE ANN POLYTECHNIC PRIVACY STATEMENT 
 
-  1. This is a Ngee Ann Polytechnic (NP) website. Thank you for examining our privacy statement.
-  2. If you are only browsing this website, we do not capture data that allows us to identify you individually.
+  1. This is a Ngee Ann Polytechnic (NP) website. We adopt the same principles relating to your privacy as other Government of Singapore websites. 
+  2. If you are only browsing this website, we do not capture data that allows us to identify you individually. 
   3. If you choose to make an application or send us an e-mail for which you provide us with personally identifiable data, we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by legislation. We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services. 
   4. For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data. We will retain your personal data only as necessary for the effective delivery of our services to you. 
-  5. To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.
-  6. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those site.
+  5. To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies. 
+  6. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those site. 
+  7. Please contact NP at [np_qsm@np.edu.sg](mailto:np_qsm@np.edu.sg): 
 
-|  
+
+
+> a. For any enquiries or feedback on our data protection policies and procedures, or   
+> b. If you require more information on or access to the data which you have earlier provided to us. 
+
+| 
