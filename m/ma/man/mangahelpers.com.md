@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangahelpers.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230124044id_/http%3A//mangahelpers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangahelpers.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505053715id_/http%3A//mangahelpers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,13 +60,13 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 ## Accessing, Correcting and Updating Your Information
 
-You have the ability to review, change and correct the personally identifiable information you provide us. If you are a registered user, you can access, correct or update your account or other Personal Information such as your city or interests, by clicking the "Control panel" link on the MangaHelpers Site on which you are registered. If you are a registered user, you may also request that we remove from our databases the information you provided when you registered with a MangaHelpers Site by e-mailing us at [admin@MangaHelpers.com](mailto:admin@MangaHelpers.com "Mail us") If you are not a registered user, but have provided personally identifiable information to us, you may make changes to your personally identifiable information by e-mailing us at [admin@MangaHelpers.com](mailto:admin@MangaHelpers.com "Mail us").
+You have the ability to review, change and correct the personally identifiable information you provide us. If you are a registered user, you can access, correct or update your account or other Personal Information such as your city or interests, by clicking the "Control panel" link on the MangaHelpers Site on which you are registered. If you are a registered user, you may also request that we remove from our databases the information you provided when you registered with a MangaHelpers Site by e-mailing us at [admin@MangaHelpers.com](mailto:admin@mangahelpers.com "Mail us") If you are not a registered user, but have provided personally identifiable information to us, you may make changes to your personally identifiable information by e-mailing us at [admin@MangaHelpers.com](mailto:admin@mangahelpers.com "Mail us").
 
-If you have any other questions, comments or complaints about this Policy, write to us at: [admin@MangaHelpers.com](https://web.archive.org/web/20091230124044id_/http%3A//mangahelpers.com/admin@MangaHelpers.com "Mail us").
+If you have any other questions, comments or complaints about this Policy, write to us at: [admin@MangaHelpers.com](mailto:admin@mangahelpers.com "Mail us").
 
 ## Unsubscribe
 
-When you register or enter one of the MangaHelpers Site, you may opt out of receiving future e-mail communications from us. You may change your e-mail preferences at any time by revising your profile (as explained above), clicking the "unsubscribe" link at the bottom of each e-mail you receive from us and following the instructions provided or, if you do not have a profile, by e-mailing us at [admin@MangaHelpers.com](mailto:admin@MangaHelpers.com "Mail us"). Below are specific instructions to unsubscribe from newsletters, e-mail updates and special offers, and other services.
+When you register or enter one of the MangaHelpers Site, you may opt out of receiving future e-mail communications from us. You may change your e-mail preferences at any time by revising your profile (as explained above), clicking the "unsubscribe" link at the bottom of each e-mail you receive from us and following the instructions provided or, if you do not have a profile, by e-mailing us at [admin@MangaHelpers.com](mailto:admin@mangahelpers.com "Mail us"). Below are specific instructions to unsubscribe from newsletters, e-mail updates and special offers, and other services.
 
 Email updates and special offers: You may unsubscribe to email announcements by following the instructions at the bottom of each email.
 
