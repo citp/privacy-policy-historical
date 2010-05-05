@@ -1,0 +1,231 @@
+<!--The following is the downloaded HTML source of the trafficadbar.com privacy policy that was archived on 2010-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100505153349id_/http%3A//www.trafficadbar.com/general/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta name="keywords" content="free website traffic visitor url">
+<meta name="description" content="Free website traffic and visitors to your website.">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title>Free advertising traffic exchange - Traffic Ad Bar</title>
+<link href="/css/style.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/css/forms.css" rel="stylesheet" type="text/css" media="screen">
+	<script language="JavaScript">
+	start   	= 	1273073677;
+	end     	= 	new Array('1273255200');
+	desc_text	=	new Array("The next level ladder<br>will be set in:-<br><div style='white-space:nowrap;color:#dd0000;font-size:12px;line-height:141%;font-weight:bolder;' id='cdownt0'></div>");
+	inter		=	0;
+	
+	var currentTime = new Date();
+	currentTime 	= currentTime.getTime();
+		
+	function cdown(elem) {
+		if (inter == 0) {
+			if (desc_text[0]) {
+				document.getElementById('cdown0').innerHTML = "<div style='width:160px;white-space:nowrap;background-color:#ffff00;border:3px solid #000;color:#000;font-size:12px;line-height:141%;font-weight:bolder;'>" + desc_text[0] + "</div>";
+			}
+		}
+		
+		var currentTime1 = new Date();
+		currentTime1 	= currentTime1.getTime();
+		
+		inter = (Math.floor((currentTime1 - currentTime)/100))/10;
+		
+		for(i=0; i < end.length; i++) {
+	        time_left = end[i]-start-inter;
+
+	        if (time_left > 0) {
+	                days    =   Math.floor(time_left/(3600*24));
+	                hours   =   Math.floor((time_left - (days*3600*24))/3600);
+	                minutes =   Math.floor((time_left - (days*3600*24) - (hours*3600))/60);
+	                seconds =   Math.round(((time_left - (days*3600*24) - (hours*3600) - (minutes*60)))*10)/10;
+	                if (i == 0) {
+		                seconds	=	seconds + '';
+		                if (seconds.length < 3) {
+			                seconds	=	seconds + '.0';
+		                }
+		                if (seconds.length < 4) {
+			                seconds	=	"&nbsp;&nbsp;" + seconds;
+		                }	                
+	                }
+	                else
+	                {
+		             	seconds	=	Math.floor(seconds);   
+	                }
+	                wr_txt	=	"";
+	                if (days > 0) {
+		                wr_txt	= days + " days ";
+	                }
+	                wr_txt  = wr_txt	+      hours + "h : " + minutes + "m :&nbsp;" + seconds + "s";
+	
+	                document.getElementById('cdownt' + i).innerHTML = wr_txt;
+	                setTimeout(cdown,100);
+	        }
+	        else
+	        {
+				document.getElementById('cdown' + i).innerHTML = "<b><font size='5' color=red>The level ladder is set!</font></b>";	        
+	    	}
+		}
+	    
+	}	
+	</script>	
+ </head>
+<body>
+
+  <div id="topheader">
+  <a href="/"><img src="/images/main-logo.gif" style="position:absolute; left:0px;"></a>
+    <ul class="top_strip">
+    	<li class="l">&nbsp;</li>
+    	<li class="m">
+	     	<a href="/">Home</a>	     	
+     	</li>
+     	<li class="r">&nbsp;</li>    
+    	<li class="l">&nbsp;</li>
+    	<li class="m">
+	     	<a href="/website_traffic/home/admin/contactus.php">Contact us</a>	     	
+     	</li>
+     	<li class="r">&nbsp;</li>
+    	    	<li class="l">&nbsp;</li>
+    	<li class="m">
+	     	<a href="/website_traffic/">Login</a>	     	
+     	</li>
+     	<li class="r">&nbsp;</li>
+    	  	
+	</ul>
+	    <div class="menu_area">
+    	<a href="/" class="menu menu_hover">Home</a>
+    	<a href="/website_traffic/home/" class="menu ">Members</a>
+    	    </div>
+  </div>
+  <div id="body_area">
+    <div id="sidebar">      <div class="news_area">
+        <p class="news_head">FREE Website Traffic</p>
+        <p>Every Traffic Ad Bar member gets FREE website traffic everyday.</p>
+        <p><a href="/general/join.php" class="news_link">Join now</a></p>
+      </div>
+      <div class="news_area">
+        <p class="news_head">FREE Advertising</p>
+        <p>Every Traffic Ad Bar member gets FREE advertising through our member network.</p>
+        <p><a href="/general/join.php" class="news_link">Join now</a></p>
+      </div>      		
+      <div class="news_area">
+        <p class="news_head">FREE Visitors</p>
+        <p>Traffic Ad Bar is unlike any other service you've seen. Every member gets the chance to receive 1,022 visitors every 3 days, that's over <b><u>124,000</u></b> FREE visitors every year.</p>
+        <p><a href="/general/join.php" class="news_link">Join now</a></p>
+      </div>      		      
+      <div style="clear:both;">&nbsp;</div>
+    	    
+
+    </div>
+    <div style="position:relative;float:left;">
+	    
+    <div class="gray_strip1">
+
+    	<div class="gray_strip">        
+	        <form action="/website_traffic/index.php" method="post">
+      <div class="login_head">Login Now </div>
+      <div class="login_text">Enter email address</div>
+      <div class="login_text">
+        <label>
+        <input name="account" type="text" class="login_textbox" value="">
+        </label>
+      </div>
+      <div class="login_text">Enter Password </div>
+      <div class="login_text">
+        <label>
+        <input name="password" type="password" class="login_textbox">
+        </label>
+      </div>
+      <div class="login_text">
+        <div align="center"></div>
+		<input type="hidden" value="" name="subpage">
+		<script type="text/javascript">var d = new Date(); document.write("<INPUT type='hidden' name='timezone' value='" + d.getTimezoneOffset() + "'>");</script><input type="hidden" name="timezone" value="0">
+      </div>
+      <input type="submit" value="Login >>>">
+      <div class="login_information">
+      <br>
+		If you have forgotten your password,
+		<a href="/website_traffic/sendpassword.php">click here</a>
+		<br><br>
+		Not got a login ? <a href="/general/join.php">click here</a>
+      </div>
+    </form>
+	</div>
+    <div class="body_area"><img src="/images/spacer.gif" style="float:left;width:1px;height:860px;">
+    	<div id="main">
+	<div class="login_head">Traffic Ad Bar Privacy Policy</div>
+	<ul>
+		<li>
+			We are committed to protecting your privacy. We will only 
+			use the information that we collect about you lawfully (in accordance with the 
+			Data Protection Act 1998).
+		</li>
+		<li>
+			We collect information about you for 2 reasons: Firstly, to process 
+  			your order and second, to provide you with the best possible service.
+		</li>
+		<li>  			
+			We will not e-mail you in the future unless you have given us 
+			your consent. 
+		</li>
+		<li>
+			We will give you the chance to refuse any marketing email from us. 
+		</li>
+		<li>
+			We will never collect sensitive information about you without your explicit consent.  
+		</li>
+		<li>
+			The information we hold will be accurate and up to date. You can check the information 
+			that we hold about you by emailing us. If you find any inaccuracies we will delete or 
+			correct it promptly. 
+		</li>
+		<li>
+			The personal information which we hold will be held securely in accordance with our 
+			internal security policy and the law. 
+		</li>
+		<li>
+			We may use technology to track the patterns of behaviour of visitors to our site. This 
+			can include using a "cookie" which would be stored on your browser. You can usually 
+			modify your browser to prevent this happening. The information collected in this way 
+			can be used to identify you unless you modify your browser settings. 
+		</li>
+		</ul>
+			If you have any questions/comments about privacy, you should email us. 
+	
+				</div>
+		</div>	
+	 </div>
+    </div>
+  </div>
+  <div id="footer">
+    <div id="footer_1">
+      <div class="footer_links">
+        <div align="center">
+        	<a href="/" class="footerlink">Home</a> | 
+        	<a href="/website_traffic/home/admin/contactus.php" class="footerlink">Contact Us</a> |
+        	<a href="/general/terms.php" class="footerlink">Terms and conditions</a> |
+        	<a href="/general/privacy.php" class="footerlink">Privacy</a>
+      </div>
+      </div>
+      <div class="footer_copyrights">
+        <div align="center">
+        	© Copyright 2009-2010 Traffic Ad Bar, DP Internet Trading Ltd. All Rights Reserved.		
+		</div>
+      </div>
+            <div class="footer_designed">
+        <div align="center"><span class="footer_designed1">Traffic Ad Bar: </span><a href="/" class="footer_designedlink">FREE Web site traffic</a> </div>
+      </div>
+    </div>
+  </div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2599715-6");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+
+</body></html>
