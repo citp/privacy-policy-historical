@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldamsterdampost.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103182711id_/http%3A//www.oldamsterdampost.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldamsterdampost.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505213032id_/http%3A//oldamsterdampost.com/pages/privacy.php) for the most accurate reproduction.*
 
 # oldamsterdampost.com
 
@@ -6,32 +6,25 @@
 ---  
   
   
- **::** **Total Members: 190**
+ **::** **Total Members: 262**
 
- **::** ****Active Members: 189****
+**::** ****Active Members: 258****
 
  **
 
-**::** **Total Payout: 589.65**
+**::** **Total Payout: 1,395.11**
 
-**::** **Mails In Queue: 16331**
+**::** **Mails In Queue: 2**
 
-**::** **Banners In Queue: 239**
+**::** **Rotating Banners: 201**
+
+**::** **Paid To Click Links: 267**
 
 **  
 **LINKS**  
-**LINKS**  
+[](http://runner.oldamsterdampost.com/scripts/runner.php?BA=1516&hash=4a2e51c4f88a73c18c2149470a947298&url=http%3A%2F%2Fmy-ptr.com)  
   
   
-  
-  
-
-
-###  Featured Banner   
-**Your special site banner at the top of every page of Old Amsterdam Post  
-See [**_Here_**](http://www.oldamsterdampost.com/pages/advertise2.php?aid=30) for details. Expires on   
-******
-
 **oldamsterdampost.com Respects Your Privacy**   
 
 
@@ -54,3 +47,5 @@ We do not collect online contact information without prior parental consent or p
 
 **Correct/Update:**  
 oldamsterdampost.comgives users the following options for changing and modifying information previously provided. Affiliates Area - log-in and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with oldamsterdampost.com, you can [Contact Us](http://oldamsterdampost.com/pages/contact.php).
+
+| 
