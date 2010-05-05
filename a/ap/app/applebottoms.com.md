@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the applebottoms.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021416id_/http%3A//www.applebottoms.com/privacy.php%3Fview%3Dlisting%26section%3Dcustservice%26category%3DPrivacy%26category%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applebottoms.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505133404id_/http%3A//www.applebottoms.com/privacy.php%3Fview%3Dlisting%26section%3Dcustservice%26category%3DPrivacy%26category%3DPrivacy) for the most accurate reproduction.*
 
-# Apple Bottoms
+# Apple Bottoms: Customer Service: Privacy Policy: Read Our Online Privacy Policy.
 
 Privacy Policy
 
