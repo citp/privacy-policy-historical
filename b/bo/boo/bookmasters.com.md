@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmasters.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103070059id_/http%3A//www.bookmasters.com/services/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmasters.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505135958id_/http%3A//www.bookmasters.com/services/privacy.htm) for the most accurate reproduction.*
 
 # Other Services - Privacy Policy
 
@@ -8,7 +8,7 @@ Terms of Service & Privacy Policy
 Use and Protection of Personal Information  
 BookMasters, Inc. is committed to protecting your privacy. We will collect or record basic personal information (e.g., name, e-mail address, mailing address, phone number) you voluntarily provide through our web site or through electronic mail you send to us, but we will not disclose this information to third parties. We also may ask you questions about your buying habits for particular product segments, or ask you to state the total dollar volume spent on a particular product. If you are inquiring about employment at BookMasters, Inc., we also will ask for your Social Security number, your educational level, and your desired salary range. We will not otherwise collect or record any of your personally identifiable information, except as detailed below in the "Safe Harbor" section. BMI will not disclose your basic personal information to third parties except when the release of such information is necessary to comly with law or to protect the rights, property or safety of our website. BMI does not knowingly collect personally identifiable information from children under the age of 13 without obtaining prior, verifiable parental consent.
 
-Your browser software contains a standard feature called a "cookie" which BMI may use to enhance your experience with the website. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the website, cookies help us track user trends and patterns. Our site may also use graphic files known as "transparent GIFs" to count users who visit our site, as well as to open our HTML-formatted e-mail messages. If you have any questions regarding this statement, please contact us via phone at 1-800-537-6727 or send us an email addressed to [info@bookmasters.com](mailto:info@bookmasters.com?subject=Privacy%20Policy%20Inquiry).
+Your browser software contains a standard feature called a "cookie" which BMI may use to enhance your experience with the website. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the website, cookies help us track user trends and patterns. Our site may also use graphic files known as "transparent GIFs" to count users who visit our site, as well as to open our HTML-formatted e-mail messages. If you have any questions regarding this statement, please contact us via phone at  or send us an email addressed to [info@bookmasters.com](mailto:info@bookmasters.com?subject=Privacy%20Policy%20Inquiry).
 
 Trademarks and Intellectual Property  
 AtlasBooks is a registered trademark of BookMasters, Inc.. All other product and service marks on this site are the trademarks of their respective owners. Moreover, all comments, suggestions or other information sent to this site will become the property of BookMasters, Inc. 
@@ -30,4 +30,4 @@ Privacy at BookMasters’
 30 Amberwood Parkway  
 P.O. Box 388  
 Ashland, OH 44805 USA  
-1-800-537-6727 or e-mail us at [info@bookmasters.com](mailto:info@bookmasters.com?subject=Privacy%20Policy%20Inquiry)
+or e-mail us at [info@bookmasters.com](mailto:info@bookmasters.com?subject=Privacy%20Policy%20Inquiry)
