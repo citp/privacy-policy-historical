@@ -1,36 +1,101 @@
-<!--The following is the downloaded HTML source of the hayhouse.com privacy policy that was archived on 2009-02-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090206102009id_/http%3A//www.hayhouse.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hayhouse.com privacy policy that was archived on 2010-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100505081439id_/http%3A//www.hayhouse.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta name="description" content="The international leader in self-help and transformational publishing.">
+<meta name="keywords" content="Louise Hay, self help book, inspirational book, motivational book, positive affirmation, daily affirmation, angel card, angel greeting card, affirmation, new age spirituality, new age book, new age book store, new age catalog, womens spirituality, new age spirituality,&nbsp;positive attitude,&nbsp; inspiration quotation, self healing, meditation supply, meditation book, healing prayer, spiritual healing, psychic healing, psychic barber, Gordon Smith, Doreen Virtue, Alla Svirinskaya">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
 <link rel="stylesheet" href="/css/hhus_main.css" type="text/css">
 <title>Hay House, Inc. | Customer Care | Privacy Policy</title>
 </head>
 <body>
 <div id="SiteWrapper">
-	<!--<script src="/__utm.js" type="text/javascript"></script>-->
+	<style type="text/css">
+#ac_search {
+	display: none;
+}
+</style>
+
+<!--<script src="/__utm.js" type="text/javascript"></script>-->
 <script src="/javascript/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
         _udn="hayhouse.com";
         urchinTracker();
 </script>
-<script src="/javascript/prototype.js" type="text/javascript"></script>
+<script src="/javascript/jquery/jquery.js" type="text/javascript"></script>
+<script src="/javascript/jquery/autocomplete.js" type="text/javascript"></script>
 <script src="/javascript/utils/email.js" type="text/javascript"></script>
-<script language="javascript">
+<script type="text/javascript">
 //!--//--><![CDATA[//><!--
 
-Event.observe(window, 'load', page_loaded, false);
-function page_loaded(evt) {
+
+function findValue(li) {
+	if( li == null ) return;
+
+	// set the author value to be the author id
+	var sValue = li.extra[0];
+	$('#id_search').val(sValue);
+	$('#main_search').val($('#ac_search').val());
+}
+
+function formatItem(row) {
+	var v = $('#ac_search').val().toLowerCase();
+	return row[0].replace(v, '<strong>' + v + '</strong>');
+}
+
+function selectItem(li) {
+	findValue(li);
+	$('#ac_search').focus();
+}
+
+$(document).ready(function() {
+
 	var enewsCleared = false;
-	$('enews_input').onfocus = function(evt) {
+	$('#enews_input').focus(function(event) {
 		if(!enewsCleared)
 			this.value = '';
 		enewsCleared = true;
-	}  
+	}); 
 	
-	}
+		
+	var autocompleteLoc = 'http://www.hayhouse.com/autocomplete_authorlist.php';
+	var proto = location.protocol;
+	if( proto.search('https') != -1) autocompleteLoc = 'https://secure.hayhouse.com/non_secure/autocomplete_authorlist.php';
+
+	$("#ac_search").autocomplete(
+			autocompleteLoc,
+			{
+					delay:10,
+					minChars:2,
+					matchSubset:1,
+					matchContains:1,
+					cacheLength:10,
+					onItemSelect:selectItem,
+					formatItem:formatItem,
+					onFindValue:findValue
+			}
+	);
+
+	$('select.site_search').change(function(){
+		if($(this).val() == 'author') {
+			$('#ac_search').val('');
+			$('#id_search').val('');
+			$('#ac_search').show();
+			$('#main_search').hide();
+		}
+		else {
+			$('#main_search').val('');
+			$('#id_search').val('');
+			$('#ac_search').hide();
+			$('#main_search').show();
+		}
+	});
+	$('select.site_search').triggerHandler('change');
+	
+});
 
 function hide_unhide(what) { 
 	var display_what = "BrowseSubMenu_" + what;
@@ -51,12 +116,11 @@ function hide_unhide(what) {
 
 function check_keyword_form()
 {
-	var els = document.forms['searchform'].elements;
-	if (els.keyword.value == '')
+	if ($('#main_search').val() == '')
 	{
-		if($('keyword_search_error')) 
-			$('keyword_search_error').remove();
-		new Insertion.Bottom('search_nav', '<div id="keyword_search_error">Please enter a keyword to use Keyword Search, or use the Advanced Search tool.</div>');
+		if($('#keyword_search_error').length) 
+			$('#keyword_search_error').remove();
+		$('#search_nav').append('<div id="keyword_search_error">Please enter a keyword to use Keyword Search, or use the Advanced Search tool.</div>');
 		return false;
 	}
 
@@ -66,7 +130,7 @@ function check_keyword_form()
 function verify_enews() {
 	var form_element = document.forms['newsletter'];
 	var email_element = form_element.elements['email'];
-	var request_page = '/_newsletter_subscribe.php';
+	var request_page = '/capp/enews_records/simple_subscribe/54934';
 
 	if( email_element.value == ''  ) {
 		//alert( 'To signup for our monthly newsletter, please enter your e-mail address.' );
@@ -88,26 +152,31 @@ function verify_enews() {
 	}
 
 	// alert and fail if address already exists in db
-	new Ajax.Request( request_page, { method: 'post', parameters: { func: 'subscribe', email: email_element.value }, onComplete: function( transport ) {
-		var response_json = transport.responseText.evalJSON();	
+	new $.post( request_page, {func: 'subscribe', email: email_element.value }, function( response_json ) {
 
 		if( response_json.result === 'success' ) {
 			// forward user to response page
-			window.location.href = response_json.response_page;
+			window.location.href = 'http://www.hayhouse.com/signup_thanks.php';
 		} else {
 			// subscription failed; alert user
-//			alert( response_json.error_msg );	
-			var err_msg=document.getElementById('enews_input_error_msg');
-			err_msg.innerHTML=response_json.error_msg;			
+			if(response_json.result == 'already-subscribed') {
+				$('#enews_input_error_msg').html('That e-mail address is already in use.');
+			}
+			else {
+				$('#enews_input_error_msg').html('There was an error with the request.');
+			}
+			
 		}	
-	} } );
+	}, 'json'  );
 
 	return false;
 }
 
+
 //--><!]]>
 </script>
 <link rel="stylesheet" href="/css/hhus_main.css" type="text/css">
+<link rel="stylesheet" href="/css/jquery_autocomplete.css" type="text/css">
 <script type="text/JavaScript">
 <!--
 
@@ -145,10 +214,13 @@ function MM_swapImage() { //v3.0
  </a></div>
 	<div id="logo_bottom_feature"></div>
 </div>
-<div id="customer_login"><div id="acct_help_header">
+<div id="customer_login">
+<div id="acct_help_header">
+
 <ul id="HelpMenu">
+
                     <li class="FirstLI">Welcome!</li>
-					<!--			<li><a href="http://www.hayhouse.com/cart.php?sessid=4o6n2a2no5qknil0ps6sll6aq4">View Cart</a> (0 Items)</li>
+					<!--			<li><a href="http://www.hayhouse.com/cart.php?sessid=hsmmv74fhp4rn6p4odn5lsfpt3">View Cart</a> (0 Items)</li>
 -->            <li><a href="https://secure.hayhouse.com/member_area/index.php">My Account</a></li>
 			<li><a href="https://secure.hayhouse.com/member_area/login.php?member_save=/member_area">Sign In</a></li>
 				</ul>
@@ -156,10 +228,42 @@ function MM_swapImage() { //v3.0
 </div>
 <div id="tabs_outerwrapper">
 	<div id="tabs_innerwrapper">
+    
+  
+  
+<ul id="hh_mininav">
+        
+        <li id="hh_mininav-01"><a href="http://www.hayhouse.com/retail-stores/">Find A Store</a></li>
+        <li id="hh_mininav-02"><a href="http://www.hayhouse.com/customer.php">Customer Care</a></li>
+        <li id="hh_mininav-03"><a href="http://www.hayhouse.com/contact.php">Contact Us</a></li>
+        
+</ul>
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
     <table width="811" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr>
 		<td id="site_description"><img id="site_browse_product" src="/images/common/descriptions/browse_product.gif" alt="Browse by product"></td>
-		<td id="site_customer_care" align="right" rowspan="2"><a href="http://www.hayhouse.com/customer.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('care','','/images/common/nav/customer_care_over.gif',1)"><img src="/images/common/nav/customer_care.gif" alt="Customer Care" name="care" border="0" id="care"></a><a href="http://www.hayhouse.com/contact.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('contact','','/images/common/nav/contact_over.gif',1)"><img src="/images/common/nav/contact.gif" alt="Contact Us" name="contact" border="0" id="contact" style="margin-left:15px;"></a></td>
+		
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
 		<td rowspan="2" align="right" id="site_wisdom_login"><img src="/images/common/nav/wisdom_login.gif" alt="Wisdom Community" border="0" usemap="#Map"></td>
 		</tr>
 		<tr>
@@ -177,7 +281,7 @@ function MM_swapImage() { //v3.0
  <a id="Events" name="Events" href="http://www.hayhouse.com/event_search.php?format_id=7&amp;is_browse_search=1&amp;search_or_results=results&amp;searchType=browse&amp;events_and_or_tours=tours">Events</a>
  </li>
  <li id="catalogs_id">
- <a id="Catalogs" name="Catalogs" href="http://www.hayhouse.com/catalog/149/youcanhealyourlife/index.php">Catalogs</a>
+ <a id="Catalogs" name="Catalogs" href="http://www.hayhouse.com/shop-catalog/store">Catalogs</a>
  </li>
  <li id="bestsellers_id">
  <a id="Bestsellers" name="Bestsellers" href="http://www.hayhouse.com/bestsellers.php">Bestsellers</a>
@@ -198,7 +302,7 @@ function MM_swapImage() { //v3.0
 <div id="TopBar">
 <div id="TopMenuItems">
 <ul id="BrowseSubMenu_Cart" name="cart_display" style="display:none">
-<li id="cart_msg">30% off products 10% off events- Join the Hay House Wisdom Community today!</li></ul>
+<li id="cart_msg">30% off product 10% off events - Join the Hay House Wisdom Community today!</li></ul>
 <div id="BrowseSubMenu_Search" name="Search_display">
 	<div id="search_nav">
 		<form name="searchform" id="site_search_form" action="http://www.hayhouse.com/key_results.php" method="get" onsubmit="return check_keyword_form()">
@@ -207,6 +311,8 @@ function MM_swapImage() { //v3.0
 					<td><select name="format" class="site_search">
 						<option value="title">By Title</option>
 						<option value="">By Keyword</option>
+						<option value="author">By Author</option>
+						<option value="isbn">By ISBN</option>
 						<option value="1">Books</option>
 <option value="23">Children's Books</option>
 <option value="4">Card Decks</option>
@@ -215,19 +321,27 @@ function MM_swapImage() { //v3.0
 <option value="5">Video</option>
 <option value="9">Spanish</option>
 <option value="6">Newsletters</option>
-<option value="18">On Demand Download</option>
-<option value="19">Live Online Event</option>
-<option value="22">Cruise</option>
 <option value="7">Lectures &amp; Events</option>
-<option value="17">On Demand Stream</option>
 <option value="11">Calendars</option>
+<option value="22">Cruise</option>
 <option value="10">Kits</option>
 <option value="13">DVDs</option>
+<option value="19">Live Online Event</option>
+<option value="17">On Demand Stream</option>
+<option value="18">On Demand Download</option>
+<option value="27">On Demand Video</option>
 <option value="14">Gifts</option>
+<option value="26">e-Gift Cards</option>
+<option value="25">iPhone Apps</option>
 <option value="15">Donation</option>
 <option value="16">Membership</option>
+<option value="20">Trial Membership</option>
 </select></td>
-					<td><input type="text" name="keyword" size="10" class="site_search" value=""></td>
+					<td>
+						<input type="text" name="keyword" size="10" id="main_search" class="site_search" value="">
+						<input type="text" name="keyword_ac" size="10" id="ac_search" class="site_search ac_input" value="" autocomplete="off" style="display: none;">
+						<input type="hidden" size="10" id="id_search" name="id_search" value="">
+					</td>
 					<td><input type="image" border="0" src="/images/common/buttons/search_btn.gif" class="site_search_btn"></td>
 					<td><img src="/images/common/buttons/lt_blue_arrow.gif" class="search_arrow">
 			<a href="http://www.hayhouse.com/adv_search.php">Advanced Search</a></td></tr></tbody></table>        
@@ -249,7 +363,7 @@ function MM_swapImage() { //v3.0
  <a href="http://www.audible.com/hayhouse/?utm_id=art001" target="_blank">audible downloads</a>
  </li>
  <li>
- <a href="http://www.hayhouse.com/adv_results.php?search_or_results=results&amp;authorlist=&amp;format=16&amp;title=&amp;author=&amp;browse_author_select_ae=&amp;browse_author_select_fj=&amp;browse_author_select_ko=&amp;browse_author_select_pt=&amp;browse_author_select_uz=&amp;keyword=.&amp;topics_id=&amp;isbn=">memberships</a>
+ <a href="http://www.hayhouse.com/adv_results.php?search_or_results=results&amp;authorlist=&amp;format=16,20&amp;title=&amp;author=&amp;browse_author_select_ae=&amp;browse_author_select_fj=&amp;browse_author_select_ko=&amp;browse_author_select_pt=&amp;browse_author_select_uz=&amp;keyword=.&amp;topics_id=&amp;isbn=">memberships</a>
  </li></ul>
   <ul id="BrowseSubMenu_Account" name="Account_display" style="display:none">
 
@@ -294,7 +408,10 @@ function MM_swapImage() { //v3.0
  <a href="http://www.hayhouse.com/event_search.php?format_id=19&amp;is_browse_search=1&amp;search_or_results=results&amp;searchType=browse">live online events</a>
  </li>
  <li>
- <a href="http://www.hayhouse.com/event_search.php?format_id=17,18&amp;is_browse_search=1&amp;search_or_results=results&amp;searchType=browse">on demand events</a>
+ <a href="http://www.hayhouse.com/event_search.php?format_id=17,18&amp;is_browse_search=1&amp;search_or_results=results&amp;searchType=browse">on demand audio</a>
+ </li>
+ <li>
+ <a href="http://www.hayhouse.com/on_demand/video">on demand video</a>
  </li>
  <li>
  <a href="http://www.hayhouse.com/event_search.php?format_id=22&amp;is_browse_search=1&amp;search_or_results=results&amp;searchType=browse">cruises</a>
@@ -314,10 +431,22 @@ function MM_swapImage() { //v3.0
     
 <ul id="BrowseSubMenu_Catalogs" name="Catalogs_display" style="display:none">
 
- <li class="First">
- <a href="http://www.hayhouse.com/catalog/149/youcanhealyourlife/index.php">you can heal your life</a>
+ <li class="first">
+ <a href="http://www.hayhouse.com/shop-catalog/show-your-gratitude">show your gratitude</a>
  </li>
  <li>
+ <a href="http://www.hayhouse.com/shop-catalog/on-demand-courses">on demand courses</a>
+ </li>
+ <li>
+ <a href="http://www.hayhouse.com/shop-catalog/you-can-heal-your-life">you can heal your life</a>
+ </li>
+ <li>
+ <a href="http://www.hayhouse.com/shop-catalog/e-gift-cards/all/limit:1000">e-gift cards</a>
+ </li>
+ <li>
+ <a href="http://www.hayhouse.com/shop-catalog/itunes">iphone apps</a>
+ </li>
+ <li class="last">
  <a href="http://www.hayhouse.com/catalog/printed_catalogs.php">printed catalogs</a>
  </li></ul>
 <!-- End of the TopMenuItems div -->
@@ -372,6 +501,7 @@ function MM_swapImage() { //v3.0
 		<li><a href="http://www.hayhouse.com/about.php">About Hay House</a></li>
 		<li><a href="http://www.hayhouse.com/why_register.php">About Customer Accounts</a></li>
 		<li><a href="http://www.hayhouse.com/customer.php">Customer Care</a></li>
+		<li><a href="http://www.hayhouse.com/gift_cards_how_to_use.php">About e-Gift Cards</a></li>
 		<li><a href="http://www.hayhouse.com/contact.php">Contact Us</a></li>
 		<li><a href="http://www.hayhouse.com/faq.php">FAQs</a></li>
 		<li><a href="http://www.hayhouse.com/privacy.php">Privacy Policy</a></li>
@@ -420,16 +550,71 @@ function MM_swapImage() { //v3.0
 	<div class="clear_both"></div>
 	<ul>
 		<li class="no_link">Visit our sites:</li>
-		<li><a href="http://www.youcanhealyourlifemovie.com/" target="_blank">YouCanHealYourLifeMovie.com</a></li>
+		<li><a href="http://www.healyourlife.com/" target="_blank">HealYourLife.com</a></li>
+        <li>/<a href="http://www.youcanhealyourlifemovie.com/" target="_blank">YouCanHealYourLifeMovie.com</a></li>
 		<li>/<a href="http://www.hayhouse.com/" target="_blank">Hay House US</a></li>
 		<li>/<a href="http://www.hayhouse.co.uk/" target="_blank">Hay House UK</a></li>
 		<li>/<a href="http://www.hayhouse.com.au/" target="_blank">Hay House AU</a></li>
+		<li>/<a href="http://www.hayhouse.co.in/" target="_blank">Hay House India</a></li>
 		<li>/<a href="http://www.hayhouseradio.com/" target="_blank">HayHouseRadio.com</a></li>
 		<li>/<a href="http://www.icandoit.net/" target="_blank">ICanDoIt.net</a></li>
 	</ul>
+
+
+		<!-- SiteCatalyst code version: H.20.3.
+		Copyright 1996-2009 Adobe, Inc. All Rights Reserved
+		More info available at http://www.omniture.com -->
+		<script language="JavaScript" type="text/javascript" src="http://www.hayhouse.com/omniture/s_code.js"></script>
+		<script language="JavaScript" type="text/javascript"><!--
+
+		// You may give each page an identifying name, server, and channel on the next lines.
+		s.pageName=""
+		s.server=""
+		s.channel=""
+		s.pageType=""
+		s.prop1=""
+		s.prop2=""
+		s.prop3=""
+		s.prop4=""
+		s.prop5=""
+		s.prop6=""
+		s.prop7=""
+		s.prop8=""
+		s.prop9=""
+
+		// Conversion Variables
+		s.campaign=""
+		s.state=""
+		s.zip=""
+		s.events=""
+		s.products=""
+		s.purchaseID=""
+		s.eVar1=""
+		s.eVar2=""
+		s.eVar3=""
+		s.eVar4=""
+		s.eVar5=""
+		s.eVar6=""
+		s.eVar7=""
+		s.eVar8=""
+		s.eVar9=s.purchaseID
+		s.eVar10="216.246.93.61"
+		s.eVar11=""
+		s.eVar12=""
+		s.eVar13=""
+		s.eVar14=""
+		s.eVar15=""
+		// ************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://hayhouse.122.2o7.net/b/ss/hhhayhouselive,hhglobaldev/1/H.20.3--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.20.3. -->		
 </div>
 	</div>
 </div>
 
 
-</body></html>
+<div class="ac_results" style="display: none; position: absolute;"></div></body></html>
