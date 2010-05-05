@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mondofacto.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502005959id_/http%3A//mondofacto.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mondofacto.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505084643id_/http%3A//www.mondofacto.com/about/privacy.html) for the most accurate reproduction.*
 
-# mondofacto - privacy policy
+# mondofacto | about | privacy
+
+## privacy & cookies
 
 ### privacy policy
 
@@ -84,6 +86,3 @@ If you decide to visit mondofacto website, your visit and any possible dispute o
 ### effective date of this privacy policy
 
 This Privacy Policy is effective as of 1 December 2008.
-
-  
-
