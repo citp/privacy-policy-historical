@@ -1,17 +1,21 @@
-> *The following text is extracted and transformed from the forumz.in privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525053039id_/http%3A//forumz.in/tos.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forumz.in privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505230129id_/http%3A//forumz.in/privacy.php) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Forumz India
 
-We can be reached via e-mail at our [Contact Page](http://www.mobileforum.net.in/sendmessage.php)
+## Privacy Policy Forumz.in
 
-For each visitor to our Web page, our Web server automatically recognizes information of your browser, IP address, City/State/Country.
+  * Forumz.in recognizes that you care about the personal information that is held about you and how that is used.
+  * This privacy policy applies to all personal data, submitted by you, to the Forumz.in web site.
+  * By registering to Forumz.in you need to submit a chosen name and contact information, more specifically an e-mail address. No extremely personal information, such as Social Security or Credit Card numbers are stored by us.
+  * Cookies and Web Beacons:  
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. Forumz.in also stores and reads cookies to and from your computer. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our forums and general website features to recognize your browser for when you return to this web site. By using this website, you agree that both the webserver, and any trusted 3rd party we chose, such as advertising networks, may place a tracking cookie on your machine and access it at any time during your session. In general, cookies are safe and are not a security issue when being used from 'trusted' internet sites, such as Forumz.in. For information on how to manage cookies in your browser, please visit [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=2)
+  * Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. <http://www.google.com/privacy_ads.html>
+  * You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+  * Forumz.in will not sell, transmit or distribute any data held without your prior permission or consent, unless required to do so under relevant law legislation.
+  * All other information provided by you goes into a "public profile" and is entirely optional, all information held in that profile is held there at your own risk. This info is edited via your Control Panel in the forums.
+  * You have a legal right for the personal information held at Forumz.in to be updated if it is incorrect or deleted if you choose. Most of this can be done through your Control Panel in the forums. If you are having issues with this, please contact us if you need help.
+  * Forumz.in will take all reasonable effort to ensure that all personal information about you submitted is maintained secure on our server. However, we make no warranty to this.
+  * At Forumz.in, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Forumz.in, and how we safeguard your information. We never sell your personal information to third parties.
+  * This Privacy Policy may be modified at any time without notice. It is your responsibility to check this page for updates or changes. If you have any questions regarding your privacy, then [Contact Us](https://web.archive.org/sendmessage.php)
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail.
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor.
-
-With respect to cookies: We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, customize Web page content based on visitors' browser type or other information that the visitor sends.
-
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies like Google (www.google.com/adsense) that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policy of: http://www.google.com/privacy.html
-
-If you feel that this site is not following its stated information policy, you may contact us at the above email address.
