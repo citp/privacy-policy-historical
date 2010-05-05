@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the barcelona-tourist-guide.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229232058id_/http%3A//www.barcelona-tourist-guide.com/en/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barcelona-tourist-guide.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505075131id_/http%3A//www.barcelona-tourist-guide.com/en/general/privacy.html) for the most accurate reproduction.*
 
 # 
 
-Your privacy is important to us. We do not disclose any personal details that you have given us unless you specifically ask us to. 
+Your privacy is important to us. We do not disclose any personal details that you have given us unless you specifically ask us to.
 
-In providing reviews, comments or feedback to our site you have read and agreed to our terms of use of your comments which you can read by clicking on the following link [Terms To Providing Feedback ](https://web.archive.org/web/20091229232058id_/http%3A//www.barcelona-tourist-guide.com/en/general/copyright.html#exclusiverights)
+In providing reviews, comments or feedback to our site you have read and agreed to our terms of use of your comments which you can read by clicking on the following link [Terms To Providing Feedback](https://web.archive.org/web/20100505075131id_/http%3A//www.barcelona-tourist-guide.com/en/general/copyright.html#exclusiverights)
 
-When you sign up to our [free newsletter](https://web.archive.org/web/20091229232058id_/http%3A//www.barcelona-tourist-guide.com/en/general/barcelona-travel-newsletter.html) we keep your details strictly private and never rent, sell, or in anyway disclose your e-mail address to any other company. 
+When you sign up to our [free newsletter](https://web.archive.org/web/20100505075131id_/http%3A//www.barcelona-tourist-guide.com/en/general/barcelona-travel-newsletter.html) we keep your details strictly private and never rent, sell, or in anyway disclose your e-mail address to any other company.
 
 www.barcelona-tourist-guide.com strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
 
 ## Personal Information
 
-**www.barcelona-tourist-guide.com** collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number etc. 
+**www.barcelona-tourist-guide.com** collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number etc.
 
 This information is collected if you request information from us, participate in a contest or sweepstakes, and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor enquiries.
 
@@ -28,7 +28,7 @@ A web beacon is a transparent image file used to monitor your journey around a s
 
 We may serve third party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site.
 
-Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking   
+Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking  
 either of these actions shouldn't cause a problem with our site, should you so choose.
 
 ## Children's Online Privacy Protection Act
@@ -45,14 +45,14 @@ If **www.barcelona-tourist-guide.com** is sold, the information we have obtained
 
 ## How You Can Correct or Remove Information
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information   
-through our website and would like that information deleted from our records or would like to update or correct that information, please click on the [Contact Us page](https://web.archive.org/web/20091229232058id_/http%3A//www.barcelona-tourist-guide.com/en/general/contact-us.html) and let us know. 
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information  
+through our website and would like that information deleted from our records or would like to update or correct that information, please click on the [Contact Us page](https://web.archive.org/web/20100505075131id_/http%3A//www.barcelona-tourist-guide.com/en/general/contact-us.html) and let us know.
 
-## Exclusive rights to use site visitor submitted material reviews/comments/questions/images etc 
+## Exclusive rights to use site visitor submitted material reviews/comments/questions/images etc
 
 In sending barcelona-tourist-guide.com a review, comments, questions, images etc (from here on referred to as **submitted material** ) you agree that we may use your submitted material freely as we see fit both on this site and any associated sites that we choose. This will also include any promotions that we deem as fitting or creation of derivative works and translations etc.
 
-When you send your submitted material to **www.barcelona-tourist-guide.com** you agree that we will retain the **exclusive distribution rights** for the submitted material. You also agree that when you send us your submitted material it will not be used on any other websites or publications without our written permission. In sending us your submitted material you confirm that it has not been previously published by any other website or publication. You agree that the submitted material you send to us was originally created by you and that you are the copyright owner of the work. 
+When you send your submitted material to **www.barcelona-tourist-guide.com** you agree that we will retain the **exclusive distribution rights** for the submitted material. You also agree that when you send us your submitted material it will not be used on any other websites or publications without our written permission. In sending us your submitted material you confirm that it has not been previously published by any other website or publication. You agree that the submitted material you send to us was originally created by you and that you are the copyright owner of the work.
 
 If you cannot agree to all of the above points please do not send us your submitted material.
 
@@ -73,13 +73,46 @@ We use third-party advertising companies to serve ads when you visit our website
 
 If you do not agree to **www.barcelona-tourist-guide.com** Privacy Policy as posted here on this website, please do not use this website or any services offered by this web site.
 
-Your use of this web site indicates acceptance of this privacy policy and to our terms and conditions of use of our website which you can find by [clicking here. ](https://web.archive.org/web/20091229232058id_/http%3A//www.barcelona-tourist-guide.com/en/general/copyright.html)  
+Your use of this web site indicates acceptance of this privacy policy and to our terms and conditions of use of our website which you can find by [clicking here.](https://web.archive.org/web/20100505075131id_/http%3A//www.barcelona-tourist-guide.com/en/general/copyright.html)  
 
 
 * * *
 
 ## Related Pages 
 
-[www.barcelona-tourist-guide.com terms and conditions ](https://web.archive.org/web/20091229232058id_/http%3A//www.barcelona-tourist-guide.com/en/general/copyright.html)
+  
+[Barcelona Discount Card](http://www.barcelona-tourist-guide.com/en/general/barcelona-card.html) \- Free transport and discounts to many attractions  
+[Basic travel facts about Barcelona](http://www.barcelona-tourist-guide.com/en/general/barcelona-basic-facts.html)  
+[Part II of our Basic Facts includes summary of Spanish Political system](http://www.barcelona-tourist-guide.com/en/general/spain-political-system.html)  
+[Part III cost of living in Barcelona](http://www.barcelona-tourist-guide.com/en/shopping/cost-of-living-barcelona.html)
+
+**Tourist personal safety advice when visiting the city.**  
+[Barcelona Safety - Advice on how to stay safe in Barcelona](http://www.barcelona-tourist-guide.com/en/general/barcelona-safety.html)  
+[Barcelona Pickpocket Stories and Advice to beat them](http://www.barcelona-tourist-guide.com/en/general/barcelona-pickpockets.html)  
+[Steps to take if you are a victim of crime in Barcelona](http://www.barcelona-tourist-guide.com/en/general/robbed-in-barcelona-guide.html)  
+[Car Crime In Barcelona](http://www.barcelona-tourist-guide.com/en/general/barcelona-car-crime-safety-tips.html) \- What you need to know if you intend driving a car in Barcelona to ensure your personal safety  
+[What _not_ to wear in Barcelona](http://www.barcelona-tourist-guide.com/en/shopping/barcelona-clothes.html)
+
+[Version Original Cimemas in Barcelona - VO Cinemas ](http://www.barcelona-tourist-guide.com/en/general/original-language-cinema-barcelona.html)  
+[Site Visitor Review of a Flamenco Show in Barcelona](http://www.barcelona-tourist-guide.com/en/general/flamenco-barcelona.html)  
+[Our review of a Famous Barcelona Flamenco show](http://www.barcelona-tourist-guide.com/en/general/flamenco-show-barcelona.html)
+
+**Themed vists to Barcelona**  
+[Hen Weekend Barcelona hen do ideas](http://www.barcelona-tourist-guide.com/en/general/hen-weekend-barcelona.html)  
+[Stag Do's in Barcelona](http://www.barcelona-tourist-guide.com/en/general/stag-weekend-barcelona.html) \- How to plan and organize your stag weekend  
+[Romantic Weekend in Barcelona](http://www.barcelona-tourist-guide.com/en/general/romantic-weekend-barcelona.html)  
+[Marriage Proposal spots in Barcelona](http://www.barcelona-tourist-guide.com/en/general/marriage-proposal-spots-in-barcelona.html)
+
+[How to find a part time job in Barcelona](http://www.barcelona-tourist-guide.com/en/business/finding-a-part-time-job-in-barcelona.html)  
+[Learning Spanish in Barcelona](http://www.barcelona-tourist-guide.com/en/spanish/spanish-course-in-barcelona.html)  
+[University of Barcelona](http://www.barcelona-tourist-guide.com/en/general/university-of-barcelona.html)
+
+  
+[www.barcelona-tourist-guide.com privacy policy](http://www.barcelona-tourist-guide.com/en/general/privacy.html)  
+[www.barcelona-tourist-guide.com terms and conditions](http://www.barcelona-tourist-guide.com/en/general/copyright.html)
 
 * * *
+
+* * *
+
+Back To The Top Of The Page
