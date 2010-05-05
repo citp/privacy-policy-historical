@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rbsworldpay.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124024736id_/http%3A//www.rbsworldpay.com/about_us/index.php%3Fpage%3Dprivacy%26c%3DUK) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbsworldpay.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506000353id_/http%3A//www.rbsworldpay.com/about_us/index.php%3Fpage%3Dprivacy%26c%3DUK) for the most accurate reproduction.*
 
 # About Us | Online Payments & Secure Global Payment Processing | RBS WorldPay
 
