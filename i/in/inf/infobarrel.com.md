@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infobarrel.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210043007id_/http%3A//www.infobarrel.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobarrel.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505045954id_/http%3A//www.infobarrel.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Info Barrel
 
@@ -47,4 +47,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please call us at 778-355-4320 or send us an email via our [contact form](https://web.archive.org/web/20091210043007id_/http%3A//www.infobarrel.com/Contact_Us). 
+Should you have other questions or concerns about these privacy policies, please call us at 778-355-4320 or send us an email via our [contact form](https://web.archive.org/web/20100505045954id_/http%3A//www.infobarrel.com/Contact_Us). 
