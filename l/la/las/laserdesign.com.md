@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laserdesign.com privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821153100id_/http%3A//www.laserdesign.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laserdesign.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505203210id_/http%3A//laserdesign.com/privacy.aspx) for the most accurate reproduction.*
 
 # 3D Laser Scanning Privacy: Laser Design | GKS
 
