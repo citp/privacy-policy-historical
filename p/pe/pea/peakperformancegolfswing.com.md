@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the peakperformancegolfswing.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218175746id_/http%3A//www.peakperformancegolfswing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peakperformancegolfswing.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505083438id_/http%3A//www.peakperformancegolfswing.com/ppgs-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Peak Performance Golf Swing - A Simple, Yet Powerful… Pain Free Golf Swing!
+# Privacy Policy | Peak Performance Golf Swing
 
 **PRIVACY POLICY**
 
-*Maven Marketing LLC along with any sites or individuals associated with these sites strive to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. 
+*Maven Marketing LLC along with any sites or individuals associated with these sites strive to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. 
 
 **How we gather information from users**
 
@@ -34,11 +34,13 @@ Maven Marketing LLC does not knowingly collect or solicit Personally Identifiabl
 
 **Contacting Us.**
 
-We can be reached by contacting:
-
-Maven Marketing LLC
-
-Email: [info@peakperformancegolfswing.com](mailto:Info@ultimatesuccessbuilders.com)
+We can be reached by contacting:  
+Peak Performance Golf Swing  
+Maven Marketing LLC  
+611 Bay Street  
+Beaufort, South Carolina 29902-5554  
+Phone: 1-800-603-2706  
+Email: [support@peakperformancegolfswing.com](mailto:support@peakperformancegolfswing.com)
 
 **Changes to this Policy**
 
