@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the auraportal.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226045307id_/http%3A//www.auraportal.com/EN/EN-SB-PrivacyTerms.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auraportal.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505062905id_/http%3A//www.auraportal.com/EN/EN0-PrivacyTerms.aspx) for the most accurate reproduction.*
 
-# AuraPortal - Privacy and Terms
+# Privacy & Terms. AuraPortal BPMS. BPM with CRM.
 
 **Read carefully the following terms, because your decision to surf through this portal gives your implicit acceptance of the clauses put forward below.**
 
