@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passwordunlocker.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231174132id_/http%3A//www.passwordunlocker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passwordunlocker.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505051310id_/http%3A//www.passwordunlocker.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy of Password Unlocker
 
@@ -19,3 +19,9 @@ You can change the settings in your browser to prevent cookies if you do not wan
 
 **Changes to This Policy**  
 Please note that Password Unlocker may change this policy from time to time. Any amended policy terms will be posted to our website.
+
+AWARDS
+
+  * [](https://web.archive.org/web/20100505051310id_/http%3A//www.passwordunlocker.com/company/about.html#AWARDS)
+
+
