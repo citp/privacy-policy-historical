@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the yorkshire.com privacy policy that was archived on 2009-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091217021410id_/http%3A//www.yorkshire.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yorkshire.com privacy policy that was archived on 2010-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100505211946id_/http%3A//www.yorkshire.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><style media="screen"></style>
 <title>Privacy Policy - Welcome to Yorkshire.com</title>
 
 	<meta content="text/html;charset=ISO-8859-1" http-equiv="content-type">
@@ -11,30 +11,76 @@
 	<style type="text/css">
 		@import url('/css/structure.css');
 		@import url('/css/navigation.css');
-		@import url('/css/page.css');
-		@import url('/css/SpryTabbedPanels.css');
+		/*@import url('/css/page.css');*/
+		/*@import url('/css/SpryTabbedPanels.css');*/
 		@import url('/css/cms.css');
+
+                @import url('/css/jqtransform.css');
+                @import url('/css/jquery-ui-1.7.2.custom.css');
+
 	</style>
+  <!--[if IE 7]><link href="/css/ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
+  <!--[if IE 6]><link href="/css/ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
 	<link rel="stylesheet" type="text/css" media="print" href="/css/print.css">    
 
-	<script language="javascript" src="/script/jquery-1.2.6.min.js" type="text/javascript"></script>
+	
+	<script language="javascript" src="/Scripts/jquery-1.3.2.min.js" type="text/javascript"></script>
+
 	<script language="javascript" src="/script/cookie.jquery.js" type="text/javascript"></script>
-	<script language="javascript" src="/script/myy.jquery.js" type="text/javascript"></script>
-	<script language="javascript" src="/script/spryTabbedPanels.js" type="text/javascript"></script>
+	<script language="javascript" src="/script/myy.jquery.js" type="text/javascript"></script>	
 	<script language="javascript" src="/script/swapimages.jquery.js" type="text/javascript"></script>
-	<script language="javascript" src="/script/ui.core.js" type="text/javascript"></script>
-	<script language="javascript" src="/script/ui.datepicker.js" type="text/javascript"></script>
-	<script language="javascript" src="/script/global.js" type="text/javascript"></script>
-	<script language="javascript" src="/script/smoothscroll.js" type="text/javascript"></script>
+		
+
+        <!-- V2 Scripts -->
+        <script language="javascript" src="/Scripts/superfish.js" type="text/javascript"></script>
+        <script language="javascript" src="/Scripts/jquery.cornerz.js" type="text/javascript"></script>
+        <!--<script language="javascript" src="/Scripts/jquery.jqtransform.js" type="text/javascript"></script>-->
+        <script language="javascript" src="/Scripts/jquery-ui-1.7.2.custom.min.js" type="text/javascript"></script>
+        
+        <script language="javascript" src="/Scripts/DD_belatedPNG_0.0.8a-min.js" type="text/javascript"></script>
+        <script language="javascript" src="/Scripts/DD_roundies_0.0.2a-min.js" type="text/javascript"></script>
+        <script language="javascript" src="/Scripts/jcarousellite_0.4.0.min.js" type="text/javascript"></script>
+        <script language="javascript" src="/Scripts/functions.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+		$(document).ready(function() {
+			$("#hidden-search").hide();
+			$("#clickMe").click(function() {
+				$("#hidden-search").toggle();
+			});
+			$("#close").click(function() {
+				$("#hidden-search").hide();
+			});
+
+			$.each($('input.clearText'), function() {
+				$(this).data('initial',$(this).val());
+			});
+			$('input.clearText').focus(function() {
+	        		if($(this).val() == $(this).data('initial')) {
+					$(this).val('');
+				}
+			})
+			.blur(function() {
+	        		if($(this).val() == '') {
+					$(this).val($(this).data('initial'));
+				}
+			});
+
+			$("#inspireCarousel").jCarouselLite({
+				btnNext: "#carouselRight", btnPrev: "#carouselLeft",
+				auto: 1500, speed: 1000, visible: 7
+			});
+		});
+	</script>
 
 	<meta name="keywords" content="Yorkshire, Privacy-Policy">
 	<meta name="description" content="Welcome to Yorkshire conform to a privacy policy, we will not do anything with your personal details without your permission.">
 	<meta name="robots" content="index, follow">
-	<meta name="DC.date.created" content="3/26/2009 6:34:05 PM">
-	<meta name="DC.date.modified" content="11/30/2009 3:06:01 PM">
-	<meta name="DC.creator" content="Yorkshire Tourist Board">
+	<meta name="DC.date.created" content="26/03/2009 18:34:05">
+	<meta name="DC.date.modified" content="24/02/2010 14:34:40">
+	<meta name="DC.creator" content="Welcome to Yorkshire">
 	<meta name="DC.identifier" content="http://www.yorkshire.com">
-	<meta name="DC.publisher" content="Yorkshire Tourist Board">
+	<meta name="DC.publisher" content="Welcome to Yorkshire">
 	<meta name="DC.title" content="Privacy Policy - Welcome to Yorkshire.com">
 	<meta name="eGMS.accessibility" scheme="WCAG" content="Double-A">
 	<meta name="verify-v1" content="iCUsHkjP60XzeHScGBFTKGU5dwvHYzhrJhaVuUyuXZk=">
@@ -64,132 +110,253 @@
 			</noscript>
 			<div id="HeaderWrapper">
 				
-				<div id="yOnTv"><a href="/media-player"><img src="/images/yOnFilm.png" border="0" width="81" height="29"></a></div><div id="eShop" style="position:absolute; left: 680px; top:1px"><a href="http://accommodation.yorkshire.com/thedms.aspx?dms=70&amp;shop=17"><img src="/images/eShop.png" border="0" width="59" height="29" alt="eShop"></a></div><div class="HeaderBackground png">&nbsp;</div><div id="TopNavigation"><h1><a href="/">Welcome to Yorkshire</a></h1><ul id="TopNav"><li><a href="/accessibility">Accessibility</a>|</li><li><a href="/contact-us">Contact</a>|</li><li><a href="http://m.yorkshire.com/">Mobile</a></li></ul><div id="Search"><form id="siteSearch" action="http://search.yorkshire.com/search" method="get" name="siteSearch"><label for="Searchtxt">Site search</label><input id="Searchtxt" class="search" name="q" onfocus="clearValue(this)" type="text" value="Enter keywords"><input alt="Go" class="GoButton" src="/images/structure/bt-search.gif" type="image"></form></div></div>
+				<div class="HeaderBackground png">&nbsp;</div><div id="TopNavigation"><h1><a href="/">Welcome to Yorkshire</a></h1><ul id="TopNav"><li><a href="/accessibility">Accessibility</a>|</li><li><a href="/contact-us">Contact</a>|</li><li><a href="http://m.yorkshire.com/">Mobile</a>|</li><li><a href="http://accommodation.yorkshire.com/thedms.aspx?dms=70&amp;shop=17">eShop</a></li></ul><div id="slogan"><img height="35" width="213" alt="" src="/images/structure/slogan.png"></div><div id="language"><form id="form1" name="form1" method="post" action=""><select name="jumpmenu" onchange="jumpto(document.form1.jumpmenu.options[document.form1.jumpmenu.options.selectedIndex].value)"><option value="http://www.yorkshire.com">English</option><option value="http://www.yorkshire.com/fr">French</option><option value="http://www.yorkshire.com/it">Italian</option><option value="http://www.yorkshire.com/nl">Dutch</option><option value="http://www.yorkshire.com/es">Spanish</option><option value="http://www.yorkshire.com/cn">Chinese</option><option value="http://www.yorkshire.com/de">German</option></select></form></div><div id="Searchone"><form id="siteSearch" action="http://search.yorkshire.com/search" method="get" name="siteSearch"><input id="Searchtxt" class="clearText search" name="q" type="text" value="Enter keywords"><input type="hidden" name="site" value="default_collection"><input id="search-button" alt="Go" class="GoButton" src="/images/structure/search-button-single.png" type="image"></form></div></div>
 
-				<div id="TabbedNavigation"><ul><li class="home"><a href="/" title="Homepage"><span class="tab">Home</span></a></li><li class="inspire "><a href="/inspire" title="Inspire"><span class="tab">Inspire</span></a><ul><li class="submenu1 "><a href="/inspire/indulgence" title="Indulgence"><span class="tab">Indulgence</span></a></li><li class="submenu2 "><a href="/inspire/outdoors" title="Outdoors"><span class="tab">Outdoors</span></a></li><li class="submenu3 "><a href="/inspire/heritage" title="Heritage"><span class="tab">Heritage</span></a></li><li class="submenu4 "><a href="/inspire/artistic" title="Artistic"><span class="tab">Artistic</span></a></li><li class="submenu5 "><a href="/inspire/sport" title="Sport"><span class="tab">Sport</span></a></li><li class="submenu6 "><a href="/inspire/family" title="Family"><span class="tab">Family</span></a></li><li class="submenu7 "><a href="/inspire/delicious" title="Delicious"><span class="tab">Delicious</span></a></li><li class="submenu8 "><a href="/inspire/city-life" title="City Life"><span class="tab">City Life</span></a></li></ul></li><li class="do "><a href="/do" title="Do"><span class="tab">Do</span></a><ul><li class="submenu1 "><a href="/do/attractions" title="Attractions"><span class="tab">Attractions</span></a></li><li class="submenu2 "><a href="/do/events" title="Events"><span class="tab">Events</span></a></li><li class="submenu3 "><a href="/do/activities" title="Activities"><span class="tab">Activities</span></a></li><li class="submenu4 "><a href="/inspire/delicious" title="Eat"><span class="tab">Eat</span></a></li><li class="submenu5 "><a href="/do/shop" title="Shop"><span class="tab">Shop</span></a></li><li class="submenu6 "><a href="/do/places" title="Places"><span class="tab">Places</span></a></li></ul></li><li class="stay "><a href="/stay" title="Stay"><span class="tab">Stay</span></a><ul><li class="submenu1 "><a href="/stay/hotels" title="Hotels"><span class="tab">Hotels</span></a></li><li class="submenu2 "><a href="/stay/self-catering" title="Self Catering"><span class="tab">Self Catering</span></a></li><li class="submenu3 "><a href="/stay/b-and-b-guesthouses" title="B&amp;B / Guesthouses"><span class="tab">B&amp;B / Guesthouses</span></a></li><li class="submenu4 "><a href="/stay/camping-and-touring" title="Camping &amp; Touring"><span class="tab">Camping &amp; Touring</span></a></li><li class="submenu5 "><a href="/stay/parks-and-lodges" title="Parks &amp; Lodges"><span class="tab">Parks &amp; Lodges</span></a></li><li class="submenu6 "><a href="/stay/something-different" title="Something Different"><span class="tab">Something Different</span></a></li></ul></li><li class="offers  "><a href="/inspire/inspire-me" title="Plan your day"><span class="tab">Plan your day </span></a></li><li class="joinin "><a href="/join-in" title="Join In"><span class="tab">Join In</span></a><ul><li class="submenu1 "><a href="http://www.yorkshireholidayreviews.com/" title="Reviews"><span class="tab">Reviews</span></a></li><li class="submenu2 "><a href="/join-in/competition" title="Competition"><span class="tab">Competition</span></a></li><li class="submenu3 "><a href="/join-in/postcard" title="Postcard"><span class="tab">Postcard</span></a></li><li class="submenu4 "><a href="/join-in/twitter" title="Twitter"><span class="tab">Twitter</span></a></li><li class="submenu5 "><a href="/join-in/enewsletter" title="E-Newsletter"><span class="tab">E-Newsletter</span></a></li></ul></li><li class="visitorinfo "><a href="/visitor-info" title="Visitor Info"><span class="tab">Visitor Info</span></a><ul><li class="submenu1 "><a href="/visitor-info/brochures" title="Brochures"><span class="tab">Brochures</span></a></li><li class="submenu2 "><a href="/visitor-info" title="Tourist Information"><span class="tab">Tourist Information</span></a></li><li class="submenu3 "><a href="/visitor-info/transport" title="Transport"><span class="tab">Transport</span></a></li><li class="submenu4 "><a href="/visitor-info/group-travel" title="Group Travel"><span class="tab">Group Travel</span></a></li><li class="submenu5 "><a href="http://www.metoffice.gov.uk/weather/uk/yh/yh_forecast_weather.html" title="Weather" target="_blank"><span class="tab">Weather</span></a></li></ul></li></ul></div>
-
-				<div id="MyYorkshire">
-  <h2>My Yorkshire</h2><a href="#" class="drop">+</a><noscript>
-    <p>Enable javascript</p>
-  </noscript>
-  <p class="status">Loading...</p>
-</div>
-<div class="myyMenu">
-  <div class="myyMenuInner png clearfix">
-    <div class="myyMenuShadow png">&nbsp;</div>
-    <div class="list"></div>
-  </div><a href="http://www.yorkshire.com/inspire/inspire-me" class="inspire png"><span>Inspire me</span></a><a href="http://www.yorkshire.com/my-yorkshire " class="view png"><span>View My Y</span></a></div>
+				<div id="menu">
+					<ul class="sf-menu sf-js-enabled sf-shadow"><li class="line top-nav"><a href="/">HOME</a></li><li class="line top-nav"><a href="/inspire">BE INSPIRED</a><ul class="Colour1" style="display: none; visibility: hidden;"><li class="underline"><a href="/inspire/indulgence">INDULGENCE</a><ul class="Colour1" style="display: none; visibility: hidden;"><li class="underline"><a href="/inspire/indulgence/spa">SPA</a></li><li class="underline"><a href="/inspire/indulgence/hotels">SLEEP IN STYLE</a></li><li class="underline"><a href="/inspire/indulgence/food-and-drink">FOOD AND DRINK</a></li><li class="underline"><a href="/inspire/indulgence/shopping">SHOPPING</a></li><li class="lastline"><a href="/inspire/indulgence/something-different">SOMETHING DIFFERENT</a><ul class="Colour1" style="display: none; visibility: hidden;"><li class="lastline"><a href="/inspire/indulgence/something-different/gorgeous-weekends-in-yorkshire-itineraries--">BE INSPIRED BY GORGEOUS WEEKEND</a></li></ul></li></ul></li><li class="underline"><a href="/inspire/outdoors">OUTDOORS</a><ul class="Colour1" style="display: none; visibility: hidden;"><li class="underline"><a href="/inspire/outdoors/adrenaline">ADRENALINE</a></li><li class="underline"><a href="/inspire/outdoors/water">WATER</a></li><li class="underline"><a href="/inspire/outdoors/walking">WALKING</a></li><li class="underline"><a href="/inspire/outdoors/wildlife">WILDLIFE AND RESERVES</a></li><li class="underline"><a href="/inspire/outdoors/cycling">CYCLING</a></li><li class="underline"><a href="/inspire/outdoors/ballooning">BALLOONING</a></li><li class="underline"><a href="/inspire/outdoors/naturally-yorkshire">NATURALLY YORKSHIRE</a></li><li class="lastline"><a href="/inspire/outdoors/something-different">SOMETHING DIFFERENT</a></li></ul></li><li class="underline"><a href="/inspire/heritage">HERITAGE</a><ul class="Colour1" style="display: none; visibility: hidden;"><li class="underline"><a href="/inspire/heritage/stately-homes">STATELY HOMES</a></li><li class="underline"><a href="/inspire/heritage/gardens-and-parks">GARDENS AND PARKS</a></li><li class="underline"><a href="/inspire/heritage/churches">CHURCHES</a></li><li class="underline"><a href="/inspire/heritage/museums-and-more">MUSEUMS</a></li><li class="underline"><a href="/inspire/heritage/castles-and-ruins">CASTLES AND RUINS</a></li><li class="underline"><a href="/inspire/heritage/industrial-heritage">INDUSTRIAL HERITAGE</a></li><li class="underline"><a href="/inspire/heritage/military-heritage">MILITARY HERITAGE</a></li><li class="lastline"><a href="/inspire/heritage/something-different">SOMETHING DIFFERENT</a></li></ul></li><li class="underline"><a href="/inspire/artistic">ARTISTIC</a><ul class="Colour1" style="display: none; visibility: hidden;"><li class="underline"><a href="/inspire/artistic/performing-art">PERFORMING ARTS</a></li><li class="underline"><a href="/inspire/artistic/books-films-tv-and-poetry">FILM LOCATIONS</a></li><li class="underline"><a href="/inspire/artistic/museums">EXPLORE MUSEUMS</a></li><li class="underline"><a href="/inspire/artistic/visual-art">VISUAL ARTS</a></li><li class="lastline"><a href="/inspire/artistic/sculpture-in-yorkshire">SCULPTURE</a></li></ul></li><li class="underline"><a href="/inspire/sport">SPORT</a><ul class="Colour1" style="display: none; visibility: hidden;"><li class="underline"><a href="/inspire/sport/rugby-and-football">RUGBY &amp; FOOTBALL</a></li><li class="underline"><a href="/inspire/sport/horse-racing">HORSE RACING</a></li><li class="underline"><a href="/inspire/sport/cricket">CRICKET</a></li><li class="underline"><a href="/inspire/sport/golf">GOLF</a></li><li class="lastline"><a href="/inspire/sport/something-different">SOMETHING DIFFERENT</a><ul class="Colour1" style="display: none; visibility: hidden;"><li class="underline"><a href="/inspire/sport/something-different/the-world-snooker-championships">THE WORLD SNOOKER CHAMPIONSHIPS</a></li><li class="underline"><a href="/inspire/sport/something-different/yorkshire's-annual-3-peaks-race">YORKSHIRE'S ANNUAL 3 PEAKS RACE</a></li><li class="underline"><a href="/inspire/sport/something-different/bupa-great-yorkshire-run-10k">CHARITY RUNS</a></li><li class="underline"><a href="/inspire/sport/something-different/greyhound-racing">GREYHOUND RACING</a></li><li class="underline"><a href="/inspire/sport/something-different/motorsport">MOTORSPORT</a></li><li class="underline"><a href="/inspire/sport/something-different/cycling">CYCLING</a></li><li class="underline"><a href="/inspire/sport/something-different/darts">DARTS</a></li><li class="underline"><a href="/inspire/sport/something-different/basketball">BASKETBALL</a></li><li class="underline"><a href="/inspire/sport/something-different/angling">ANGLING</a></li><li class="underline"><a href="/inspire/sport/something-different/swimming">SWIMMING IN YORKSHIRE</a></li><li class="underline"><a href="/inspire/sport/something-different/ice-hockey">ICE HOCKEY</a></li><li class="underline"><a href="/inspire/sport/something-different/netball">NETBALL</a></li><li class="lastline"><a href="/inspire/sport/something-different/polo">POLO</a></li></ul></li></ul></li><li class="underline"><a href="/inspire/family">FAMILY</a><ul class="Colour1" style="display: none; visibility: hidden;"><li class="underline"><a href="/inspire/family/indoor">INDOOR ACTIVITIES</a></li><li class="underline"><a href="/inspire/family/outdoor">OUTDOOR ACTIVITIES</a></li><li class="underline"><a href="/inspire/family/young-children">YOUNG CHILDREN</a></li><li class="underline"><a href="/inspire/family/teens">TEENAGE ACTIVITIES</a></li><li class="underline"><a href="/inspire/family/child-friendly">CHILD FRIENDLY</a></li><li class="lastline"><a href="/inspire/family/family-learning-passport">FAMILY LEARNING PASSPORT</a></li></ul></li><li class="underline"><a href="/inspire/delicious">DELICIOUS</a><ul class="Colour1" style="display: none; visibility: hidden;"><li class="underline"><a href="/inspire/delicious/yorkshire-chefs">YORKSHIRE CHEFS</a></li><li class="underline"><a href="/inspire/delicious/yorkshire-breakfast">DELICIOUSLY YORKSHIRE </a></li><li class="underline"><a href="/inspire/delicious/foodie-shopping">FOODIE SHOPPING</a></li><li class="underline"><a href="/inspire/delicious/dining-experiences">DINING EXPERIENCES</a></li><li class="underline"><a href="/inspire/delicious/deliciously-different">DELICIOUSLY DIFFERENT</a></li><li class="lastline"><a href="/inspire/delicious/drinking-in-yorkshire">DRINKING IN YORKSHIRE</a></li></ul></li><li class="underline"><a href="/inspire/city-life">CITY LIFE</a><ul class="Colour1" style="display: none; visibility: hidden;"><li class="underline"><a href="/inspire/city-life/shopping">SHOPPING FOR ALL OCCASIONS</a></li><li class="underline"><a href="/inspire/city-life/music-and-nightlife">MUSIC AND NIGHTLIFE</a></li><li class="underline"><a href="/inspire/city-life/food-and-drink">FOOD AND DRINK</a></li><li class="underline"><a href="/inspire/city-life/attractions">ATTRACTIONS</a></li><li class="lastline"><a href="/inspire/city-life/something-different">SOMETHING DIFFERENT</a></li></ul></li><li class="underline"><a href="/inspire/events-and-festivals">EVENTS &amp; FESTIVALS</a><ul class="Colour1" style="display: none; visibility: hidden;"><li class="underline"><a href="/inspire/events-and-festivals/this-month's-events">THIS MONTH'S EVENTS</a></li><li class="underline"><a href="/inspire/events-and-festivals/next-month's-events">NEXT MONTH'S EVENTS</a></li><li class="underline"><a href="/inspire/events-and-festivals/where-else-but-yorkshire">QUIRKY EVENTS IN YORKSHIRE</a><ul class="Colour1" style="display: none; visibility: hidden;"><li class="lastline"><a href="/inspire/events-and-festivals/where-else-but-yorkshire/more-quirky-events">MORE QUIRKY EVENTS...</a></li></ul></li><li class="lastline"><a href="/inspire/events-and-festivals/coming-soon">COMING SOON...</a></li></ul></li><li class="lastline"><a href="/inspire/yorkshire-gold">YORKSHIRE GOLD</a></li></ul></li><li class="line top-nav"><a href="/do">DO</a><ul class="Colour2" style="display: none; visibility: hidden;"><li class="underline"><a href="/do/attractions">ATTRACTIONS</a><ul class="Colour2" style="display: none; visibility: hidden;"><li class="underline"><a href="/do/attractions/castles-and-stately-homes">CASTLES AND STATELY HOMES</a></li><li class="underline"><a href="/do/attractions/gardens">GARDENS AND PARKS</a></li><li class="underline"><a href="/do/attractions/museums">MUSEUMS</a></li><li class="underline"><a href="/do/attractions/religious-sites">YORKSHIRE CHURCHES</a></li><li class="lastline"><a href="/do/attractions/family-fun">FAMILY FUN</a></li></ul></li><li class="underline"><a href="/do/events">EVENTS</a></li><li class="underline"><a href="/do/activities">ACTIVITIES</a></li><li class="underline"><a href="/do/eat">EAT</a></li><li class="underline"><a href="/do/shop">SHOPPING</a><ul class="Colour2" style="display: none; visibility: hidden;"><li class="underline"><a href="/do/shop/farmers-market">FARMERS' MARKETS</a></li><li class="lastline"><a href="/do/shop/shopping">SHOPPING IN YORKSHIRE</a></li></ul></li><li class="lastline"><a href="/do/places">PLACES</a><ul class="Colour2" style="display: none; visibility: hidden;"><li class="underline"><a href="/do/places/bradford">BRADFORD</a><ul class="Colour2" style="display: none; visibility: hidden;"><li class="underline"><a href="/do/places/bradford/haworth">HAWORTH</a></li><li class="underline"><a href="/do/places/bradford/ilkley">ILKLEY</a></li><li class="lastline"><a href="/do/places/bradford/saltaire"></a></li></ul></li><li class="underline"><a href="/do/places/east-yorkshire-yorkshire-wolds">EAST YORKSHIRE &amp; WOLDS</a><ul class="Colour2" style="display: none; visibility: hidden;"><li class="underline"><a href="/do/places/east-yorkshire-yorkshire-wolds/beverley">BEVERLEY</a></li><li class="underline"><a href="/do/places/east-yorkshire-yorkshire-wolds/bridlington">BRIDLINGTON</a></li><li class="underline"><a href="/do/places/east-yorkshire-yorkshire-wolds/driffield">DRIFFIELD</a></li><li class="lastline"><a href="/do/places/east-yorkshire-yorkshire-wolds/hornsea">HORNSEA</a></li></ul></li><li class="underline"><a href="/do/places/harrogate">HARROGATE</a><ul class="Colour2" style="display: none; visibility: hidden;"><li class="underline"><a href="/do/places/harrogate/knaresborough">KNARESBOROUGH</a></li><li class="underline"><a href="/do/places/harrogate/pately-bridge">PATELEY BRIDGE</a></li><li class="lastline"><a href="/do/places/harrogate/ripon">RIPON</a></li></ul></li><li class="underline"><a href="/do/places/hull">HULL</a></li><li class="underline"><a href="/do/places/leeds">LEEDS</a><ul class="Colour2" style="display: none; visibility: hidden;"><li class="underline"><a href="/do/places/leeds/otley">OTLEY</a></li><li class="lastline"><a href="/do/places/leeds/wetherby">WETHERBY</a></li></ul></li><li class="underline"><a href="/do/places/north-york-moors">NORTH YORK MOORS</a><ul class="Colour2" style="display: none; visibility: hidden;"><li class="underline"><a href="/do/places/north-york-moors/danby">DANBY</a></li><li class="underline"><a href="/do/places/north-york-moors/helmsley">HELMSLEY</a></li><li class="underline"><a href="/do/places/north-york-moors/kirkbymoorside">KIRKBYMOORSIDE</a></li><li class="underline"><a href="/do/places/north-york-moors/malton">MALTON</a></li><li class="underline"><a href="/do/places/north-york-moors/pickering">PICKERING</a></li><li class="underline"><a href="/do/places/north-york-moors/northallerton">NORTHALLERTON</a></li><li class="underline"><a href="/do/places/north-york-moors/sutton-bank">SUTTON BANK</a></li><li class="lastline"><a href="/do/places/north-york-moors/thirsk">THIRSK</a></li></ul></li><li class="underline"><a href="/do/places/pennine-yorkshire">PENNINE YORKSHIRE</a><ul class="Colour2" style="display: none; visibility: hidden;"><li class="underline"><a href="/do/places/pennine-yorkshire/denby-dale">DENBY DALE</a></li><li class="underline"><a href="/do/places/pennine-yorkshire/halifax">HALIFAX</a></li><li class="underline"><a href="/do/places/pennine-yorkshire/dewsbury">DEWSBURY</a></li><li class="underline"><a href="/do/places/pennine-yorkshire/hebden-bridge">HEBDEN BRIDGE</a></li><li class="underline"><a href="/do/places/pennine-yorkshire/holmfirth">HOLMFIRTH</a></li><li class="underline"><a href="/do/places/pennine-yorkshire/marsden">MARSDEN</a></li><li class="underline"><a href="/do/places/pennine-yorkshire/huddersfield">HUDDERSFIELD</a></li><li class="underline"><a href="/do/places/pennine-yorkshire/todmorden">TODMORDEN</a></li><li class="lastline"><a href="/do/places/pennine-yorkshire/batley">BATLEY</a></li></ul></li><li class="underline"><a href="/do/places/south-yorkshire">SOUTH YORKSHIRE</a><ul class="Colour2" style="display: none; visibility: hidden;"><li class="underline"><a href="/do/places/south-yorkshire/barnsley">BARNSLEY</a></li><li class="underline"><a href="/do/places/south-yorkshire/doncaster">DONCASTER</a></li><li class="underline"><a href="/do/places/south-yorkshire/rotherham">ROTHERHAM</a></li><li class="lastline"><a href="/do/places/south-yorkshire/sheffield">SHEFFIELD</a></li></ul></li><li class="underline"><a href="/do/places/wakefield">WAKEFIELD</a><ul class="Colour2" style="display: none; visibility: hidden;"><li class="underline"><a href="/do/places/wakefield/castleford">CASTLEFORD</a></li><li class="lastline"><a href="/do/places/wakefield/pontefract">PONTEFRACT</a></li></ul></li><li class="underline"><a href="/do/places/york">YORK</a><ul class="Colour2" style="display: none; visibility: hidden;"><li class="underline"><a href="/do/places/york/tadcaster">TADCASTER</a></li><li class="lastline"><a href="/do/places/york/selby">SELBY</a></li></ul></li><li class="underline"><a href="/do/places/yorkshire-coast">YORKSHIRE COAST</a><ul class="Colour2" style="display: none; visibility: hidden;"><li class="underline"><a href="/do/places/yorkshire-coast/filey">FILEY</a></li><li class="underline"><a href="/do/places/yorkshire-coast/scarborough">SCARBOROUGH</a></li><li class="underline"><a href="/do/places/yorkshire-coast/whitby">WHITBY</a></li><li class="lastline"><a href="/do/places/yorkshire-coast/robin-hoods-bay">ROBIN HOOD'S BAY</a></li></ul></li><li class="underline"><a href="/do/places/yorkshire-dales">YORKSHIRE DALES</a><ul class="Colour2" style="display: none; visibility: hidden;"><li class="underline"><a href="/do/places/yorkshire-dales/aysgarth">AYSGARTH</a></li><li class="underline"><a href="/do/places/yorkshire-dales/bedale">BEDALE</a></li><li class="underline"><a href="/do/places/yorkshire-dales/grassington">GRASSINGTON</a></li><li class="underline"><a href="/do/places/yorkshire-dales/hawes">HAWES</a></li><li class="underline"><a href="/do/places/yorkshire-dales/horton-in-ribblesdale">HORTON IN RIBBLESDALE</a></li><li class="underline"><a href="/do/places/yorkshire-dales/ingleton">INGLETON</a></li><li class="underline"><a href="/do/places/yorkshire-dales/leyburn">LEYBURN</a></li><li class="underline"><a href="/do/places/yorkshire-dales/malham">MALHAM</a></li><li class="underline"><a href="/do/places/yorkshire-dales/reeth">REETH</a></li><li class="underline"><a href="/do/places/yorkshire-dales/richmond">RICHMOND</a></li><li class="underline"><a href="/do/places/yorkshire-dales/settle">SETTLE</a></li><li class="lastline"><a href="/do/places/yorkshire-dales/skipton">SKIPTON</a></li></ul></li><li class="underline"><a href="/do/places/yorkshire-peak-district">YORKSHIRE PEAK DISTRICT</a></li><li class="underline"><a href="/do/places/coastal">COASTAL YORKSHIRE</a></li><li class="underline"><a href="/do/places/outdoors">OUTDOOR YORKSHIRE</a></li><li class="lastline"><a href="/do/places/cities">YORKSHIRE CITIES</a></li></ul></li></ul></li><li class="line top-nav"><a href="/accommodation">ACCOMMODATION</a><ul class="Colour3" style="display: none; visibility: hidden;"><li class="underline"><a href="/accommodation/hotels">HOTELS</a></li><li class="underline"><a href="/accommodation/self-catering">SELF CATERING</a></li><li class="underline"><a href="/accommodation/b-and-b-guesthouses">B&amp;B / GUESTHOUSES</a></li><li class="underline"><a href="/accommodation/camping-and-touring">CAMPING &amp; TOURING</a></li><li class="underline"><a href="/accommodation/parks-and-lodges">PARKS &amp; LODGES</a></li><li class="underline"><a href="/accommodation/something-different">HOSTELS / BUNKBARNS / CAMPING BARNS</a></li><li class="lastline"><a href="/accommodation/serviced-apartments">SERVICED APARTMENTS</a></li></ul></li><li class="line top-nav"><a href="/plan-your-day">PLAN YOUR DAY</a><ul class="Colour4" style="display: none; visibility: hidden;"><li class="lastline"><a href="/plan-your-day/day-planner">DAY PLANNER</a></li></ul></li><li class="line top-nav"><a href="/join-in">JOIN IN</a><ul class="Colour5" style="display: none; visibility: hidden;"><li class="underline"><a href="/join-in/competition">COMPETITION</a></li><li class="underline"><a href="/join-in/enewsletter">ENEWSLETTER</a></li><li class="underline"><a href="/join-in/postcard">POSTCARD</a></li><li class="underline"><a href="/join-in/facebook">FACEBOOK</a></li><li class="underline"><a href="/join-in/twitter">TWITTER</a></li><li class="underline"><a href="/join-in/yorkshire-magazine">YORKSHIRE MAGAZINE</a></li><li class="underline"><a href="/join-in/ringtone">RINGTONE</a></li><li class="lastline"><a href="/join-in/reviews">REVIEWS</a></li></ul></li><li class="top-nav lastline"><a href="/tourist-information">TOURIST INFORMATION</a><ul class="Colour6" style="display: none; visibility: hidden;"><li class="underline"><a href="/tourist-information/magazine">ORDER OUR MAGAZINE</a></li><li class="underline"><a href="/tourist-information/transport">TRANSPORT</a><ul class="Colour6" style="display: none; visibility: hidden;"><li class="underline"><a href="/tourist-information/transport/getting-around">GETTING AROUND YORKSHIRE</a></li><li class="underline"><a href="/tourist-information/transport/getting-from-overseas">GETTING TO YORKSHIRE FROM OVERSEAS</a></li><li class="lastline"><a href="/tourist-information/transport/getting-from-uk">GETTING TO YORKSHIRE FROM WITHIN THE UK</a></li></ul></li><li class="underline"><a href="/tourist-information/group-travel">GROUP TRAVEL</a><ul class="Colour6" style="display: none; visibility: hidden;"><li class="underline"><a href="/tourist-information/group-travel/accomodation-for-groups">ACCOMODATION FOR GROUPS</a></li><li class="underline"><a href="/tourist-information/group-travel/a-groups-destinations">A GROUPS DESTINATION</a></li><li class="underline"><a href="/tourist-information/group-travel/events">EVENTS FOR GROUPS</a></li><li class="underline"><a href="/tourist-information/group-travel/destination-guides">DESTINATION GUIDES</a></li><li class="underline"><a href="/tourist-information/group-travel/tea-breaks-and-meal-stops">TEA BREAKS AND MEAL STOPS</a></li><li class="underline"><a href="/tourist-information/group-travel/coach-and-tour-operators">COACH TOUR OPERATORS</a></li><li class="underline"><a href="/tourist-information/group-travel/attractions-tours">ATTRACTIONS, TOURS &amp; GUIDES</a></li><li class="underline"><a href="/tourist-information/group-travel/special-offers-for-groups">GROUP TRAVEL DEALS</a></li><li class="lastline"><a href="/tourist-information/group-travel/travel-trade-news">TRAVEL TRADE NEWS</a></li></ul></li><li class="underline"><a href="/tourist-information/weather">WEATHER</a></li><li class="lastline"><a href="/tourist-information/keeping-yorkshire-special">KEEPING YORKSHIRE SPECIAL</a></li></ul></li></ul><ul class="sf-menu my-yorkshire sf-js-enabled sf-shadow"><li class="top-nav lastline"><a href="/my-yorkshire" rel="nofollow">MY YORKSHIRE</a><ul class="Colour7" style="display: none; visibility: hidden;"><li class="lastline"><a href="/my-yorkshire/inspire-me" rel="nofollow">INSPIRE ME!</a></li></ul></li></ul>
+				</div>
 
 			</div>
 
 			<div id="Breadcrumbs" class="clearfix"><ul>
-				&nbsp;<li><a href="/home">Welcome to Yorkshire</a></li>
-				&nbsp;<li>Privacy Policy</li></ul><div id="Actions"><a href="#" class="add-to-myy">Add to My Yorkshire</a><ul><li class="action-print"><a href="#" onclick="window.print();return false;" onkeypress="window.print();return false;"><span>Print</span></a></li><li class="action-email"><a href="javascript:mailpage();"><span>Email</span></a></li><li class="action-bookmark"><a href="javascript:bookmarksite();"><span>Bookmark</span></a></li></ul></div></div>
+				&nbsp;<li><a href="http://www.yorkshire.com">Home</a></li>
+				&nbsp;<li>Privacy Policy</li></ul><div id="Actions">PRIVACY POLICY</div></div>
 
+			<div id="content">
+			
+				<div id="left">
 
-			<div id="ContentWrapper">
-				<div id="Main">
+				   <div id="Main">
 					<h1>Privacy Policy</h1>
 <p><strong>Privacy Statement</strong></p>
 <p>Welcome to Yorkshire&nbsp;will not do anything with your personal details without your permission. You're in control. Any information you supply us with will be retained on a database and in addition to being used to contact you with information about your particular travel interests, may be used for statistical purposes. If so used, the statistical reports generated will not identify individuals in any way.&nbsp;Welcome to Yorkshire will not send you information. Your data will be retained on a database and used for statistical purposes only.</p>
 <p>From time to time we may also wish to contact you in association with carefully selected travel partners whose products and services are relevant to you. If you do not wish to receive information from such companies, simply&nbsp;indicate this during any&nbsp;forms that you fill in.&nbsp;Welcome to Yorkshire will not sell, trade or rent your information to others unless you have given us your permission. With your permission we will only share the information with carefully chosen, reputable and trustworthy third parties.</p>
+				   </div>
 				</div>
-				<div id="Right">
+
+				<div id="right">
 					<div class="pod-container pod-container-right clearfix">
 	<div class="pod pod-raw">
 		<div>
 
-<div class="smallpod searchpanels">
-	<div id="TabbedPanels1" class="TabbedPanels">
-		<ul class="TabbedPanelsTabGroup">
-			<li class="TabbedPanelsTab TabbedPanelsTabSelected">Book</li>
-			<li class="TabbedPanelsTab">Visit</li>
-			<li class="TabbedPanelsTab">Event</li>
-			<li class="TabbedPanelsTab">Eat</li>
-			<li class="TabbedPanelsTab">General</li>
-		</ul>
-		<div class="TabbedPanelsContentGroup">
-			<div class="TabbedPanelsContent TabbedPanelsContent1 TabbedPanelsContentVisible" style="display: block;">
-				<form method="post" action="http://accommodation.yorkshire.com/thedms.aspx?dms=1&amp;mstat=0" name="frmDmsSearch" id="frmDmsSearchAccommodation">
-					<p>
-						<label for="date1" class="first">From:</label>&nbsp;<input name="startdate" id="date1" size="10" class="qs-date-field hasDatepicker"><img class="ui-datepicker-trigger" src="/images/calendar.gif" alt="..." title="..."><br>
-						<label for="nights" class="first">For:</label>&nbsp;<input name="nd" value="1" size="2" id="nights" class="textboxDMS"> night(s)&nbsp;
-						<label for="miles">within</label>&nbsp;<input type="text" size="2" name="miles" id="miles"> miles of<br>
-						<label for="miles" class="first hidden">Destination:</label>&nbsp;<select id="townId" name="townId"><option value="">Any</option><option value="1966">Aysgarth Falls</option><option value="1247">Barnsley</option><option value="1649">Batley</option><option value="342">Bedale</option><option value="628">Beverley</option><option value="74">Bradford</option><option value="1674">Bridlington</option><option value="2045">Brighouse</option><option value="1643">Castleford</option><option value="345">Catterick</option><option value="1998">Clapham</option><option value="1952">Danby</option><option value="1957">Denby Dale</option><option value="1645">Dewsbury</option><option value="352">Doncaster</option><option value="1678">Driffield</option><option value="1995">Easingwold</option><option value="2046">Elland</option><option value="1673">Filey</option><option value="353">Goole</option><option value="1967">Grassington</option><option value="632">Halifax</option><option value="595">Harrogate</option><option value="344">Hawes</option><option value="1959">Haworth</option><option value="635">Hebden Bridge</option><option value="1648">Heckmondwike</option><option value="1953">Helmsley</option><option value="1997">High Bentham</option><option value="1960">Holmfirth</option><option value="629">Hornsea</option><option value="1972">Horton in Ribblesdale</option><option value="593">Huddersfield</option><option value="624">Hull</option><option value="886">Ilkley</option><option value="1971">Ingleton</option><option value="1954">Kirkbymoorside</option><option value="597">Knaresborough</option><option value="887">Leeds</option><option value="1973">Leeming Bar</option><option value="343">Leyburn</option><option value="1968">Malham</option><option value="1675">Malton</option><option value="1961">Marsden</option><option value="1996">Masham</option><option value="341">Northallerton</option><option value="882">Otley</option><option value="1964">Pateley Bridge</option><option value="1676">Pickering</option><option value="1969">Pocklington</option><option value="1642">Pontefract</option><option value="1558">Redcar</option><option value="1965">Reeth</option><option value="346">Richmond</option><option value="2043">Ripley (Yorks)</option><option value="596">Ripon</option><option value="1955">Robin Hood's Bay</option><option value="1246">Rotherham</option><option value="1962">Saltaire</option><option value="1559">Saltburn-by-the-Sea</option><option value="1672">Scarborough</option><option value="1671">Selby</option><option value="72">Settle</option><option value="1241">Sheffield</option><option value="73">Shipley</option><option value="71">Skipton</option><option value="2044">Sowerby Bridge</option><option value="1994">Stokesley</option><option value="1956">Sutton Bank</option><option value="884">Tadcaster</option><option value="1670">Thirsk</option><option value="1963">Todmorden (Yorks)</option><option value="1639">Wakefield</option><option value="883">Wetherby</option><option value="1677">Whitby</option><option value="630">Withernsea</option><option value="1679">York</option></select><br>
-						<label for="at" class="first">Type:</label>&nbsp;<select name="at" size="1" id="at"> 
-							<option value="">Any</option>
-							<option value="SV">Hotel or B&amp;Bs</option>
-							<option value="SC">Self Catering</option>
-							<option value="CP">Camping and Touring</option>
-							<option value="TH">Alternative accommodation</option>
-						</select>
-						<input type="submit" value="GO" name="submit" class="button">               
-				  </p>
-				</form>			
-			</div>
-			<div class="TabbedPanelsContent TabbedPanelsContent2" style="display:none">
-				<form method="post" action="http://attractions.yorkshire.com/thedms.aspx?dms=11&amp;mstat=0" name="frmDmsSearch" id="frmDmsSearchAttractions">
-				  <input type="hidden" name="srchtyp" value="n">
-					<p>					  
-						<label for="Catid" class="first">Show</label>&nbsp;<select id="Catid" name="Catid"><option value="">Any</option><option value="11">Arts, Crafts &amp; Galleries</option><option value="80">Countryside</option><option value="12">Historic Houses &amp; Sites</option><option value="66">Industrial Heritage</option><option value="14">Museums</option><option value="13">Parks &amp; Gardens</option><option value="43">Religious Sites</option><option value="81">Seaside Locations</option><option value="27">Theatres &amp; Entertainment</option><option value="67">Theme Parks &amp; Activity Centres</option><option value="82">Towns &amp; Villages</option><option value="45">Visitor Centres</option><option value="65">Water-based Attractions</option><option value="47">Wildlife &amp; Nature</option></select><br>
-						<label for="miles" class="first">Within</label>&nbsp;<input type="text" size="3" name="miles" id="miles"><br>
-						<label for="townId" class="first">miles of</label>&nbsp;<select id="townId" name="townId"><option value="">Any</option><option value="1966">Aysgarth Falls</option><option value="1247">Barnsley</option><option value="1649">Batley</option><option value="342">Bedale</option><option value="628">Beverley</option><option value="74">Bradford</option><option value="1674">Bridlington</option><option value="2045">Brighouse</option><option value="1643">Castleford</option><option value="345">Catterick</option><option value="1998">Clapham</option><option value="1952">Danby</option><option value="1957">Denby Dale</option><option value="1645">Dewsbury</option><option value="352">Doncaster</option><option value="1678">Driffield</option><option value="1995">Easingwold</option><option value="2046">Elland</option><option value="1673">Filey</option><option value="353">Goole</option><option value="1967">Grassington</option><option value="632">Halifax</option><option value="595">Harrogate</option><option value="344">Hawes</option><option value="1959">Haworth</option><option value="635">Hebden Bridge</option><option value="1648">Heckmondwike</option><option value="1953">Helmsley</option><option value="1997">High Bentham</option><option value="1960">Holmfirth</option><option value="629">Hornsea</option><option value="1972">Horton in Ribblesdale</option><option value="593">Huddersfield</option><option value="624">Hull</option><option value="886">Ilkley</option><option value="1971">Ingleton</option><option value="1954">Kirkbymoorside</option><option value="597">Knaresborough</option><option value="887">Leeds</option><option value="1973">Leeming Bar</option><option value="343">Leyburn</option><option value="1968">Malham</option><option value="1675">Malton</option><option value="1961">Marsden</option><option value="1996">Masham</option><option value="341">Northallerton</option><option value="882">Otley</option><option value="1964">Pateley Bridge</option><option value="1676">Pickering</option><option value="1969">Pocklington</option><option value="1642">Pontefract</option><option value="1558">Redcar</option><option value="1965">Reeth</option><option value="346">Richmond</option><option value="2043">Ripley (Yorks)</option><option value="596">Ripon</option><option value="1955">Robin Hood's Bay</option><option value="1246">Rotherham</option><option value="1962">Saltaire</option><option value="1559">Saltburn-by-the-Sea</option><option value="1672">Scarborough</option><option value="1671">Selby</option><option value="72">Settle</option><option value="1241">Sheffield</option><option value="73">Shipley</option><option value="71">Skipton</option><option value="2044">Sowerby Bridge</option><option value="1994">Stokesley</option><option value="1956">Sutton Bank</option><option value="884">Tadcaster</option><option value="1670">Thirsk</option><option value="1963">Todmorden (Yorks)</option><option value="1639">Wakefield</option><option value="883">Wetherby</option><option value="1677">Whitby</option><option value="630">Withernsea</option><option value="1679">York</option></select><br>
-						<input type="submit" value="GO" name="submit" class="button"><br>
-						<a href="/do/attractions#searchform" class="advsearchlink">Advanced search</a>
-				  </p>
-				</form>            
-			</div>
-			<div class="TabbedPanelsContent TabbedPanelsContent3" style="display:none">
-				<form action="http://attractions.yorkshire.com/thedms.aspx?dms=12&amp;GroupId=1&amp;mstat=0" id="frmDmsSearch" method="post" name="frmDmsSearch">
-				  <input type="hidden" name="srchtyp" value="n">
-				  <input type="hidden" name="groupId" value="1">
-					<p>
-					  <label for="date2" class="first">From:</label>&nbsp;<input name="startdate" id="date2" size="10" class="qs-date-field hasDatepicker"><img class="ui-datepicker-trigger" src="/images/calendar.gif" alt="..." title="..."><br>
-					  <label for="days" class="first">for</label>&nbsp;<input name="nd" value="1" size="2" id="days" class="textboxDMS"> days<br>
-					  <label for="miles" class="first">Within</label>&nbsp;<input type="text" size="3" name="miles" id="miles"><br>
-					  <label for="townId" class="first">miles of</label>&nbsp;<select id="townId" name="townId"><option value="">Any</option><option value="1966">Aysgarth Falls</option><option value="1247">Barnsley</option><option value="1649">Batley</option><option value="342">Bedale</option><option value="628">Beverley</option><option value="74">Bradford</option><option value="1674">Bridlington</option><option value="2045">Brighouse</option><option value="1643">Castleford</option><option value="345">Catterick</option><option value="1998">Clapham</option><option value="1952">Danby</option><option value="1957">Denby Dale</option><option value="1645">Dewsbury</option><option value="352">Doncaster</option><option value="1678">Driffield</option><option value="1995">Easingwold</option><option value="2046">Elland</option><option value="1673">Filey</option><option value="353">Goole</option><option value="1967">Grassington</option><option value="632">Halifax</option><option value="595">Harrogate</option><option value="344">Hawes</option><option value="1959">Haworth</option><option value="635">Hebden Bridge</option><option value="1648">Heckmondwike</option><option value="1953">Helmsley</option><option value="1997">High Bentham</option><option value="1960">Holmfirth</option><option value="629">Hornsea</option><option value="1972">Horton in Ribblesdale</option><option value="593">Huddersfield</option><option value="624">Hull</option><option value="886">Ilkley</option><option value="1971">Ingleton</option><option value="1954">Kirkbymoorside</option><option value="597">Knaresborough</option><option value="887">Leeds</option><option value="1973">Leeming Bar</option><option value="343">Leyburn</option><option value="1968">Malham</option><option value="1675">Malton</option><option value="1961">Marsden</option><option value="1996">Masham</option><option value="341">Northallerton</option><option value="882">Otley</option><option value="1964">Pateley Bridge</option><option value="1676">Pickering</option><option value="1969">Pocklington</option><option value="1642">Pontefract</option><option value="1558">Redcar</option><option value="1965">Reeth</option><option value="346">Richmond</option><option value="2043">Ripley (Yorks)</option><option value="596">Ripon</option><option value="1955">Robin Hood's Bay</option><option value="1246">Rotherham</option><option value="1962">Saltaire</option><option value="1559">Saltburn-by-the-Sea</option><option value="1672">Scarborough</option><option value="1671">Selby</option><option value="72">Settle</option><option value="1241">Sheffield</option><option value="73">Shipley</option><option value="71">Skipton</option><option value="2044">Sowerby Bridge</option><option value="1994">Stokesley</option><option value="1956">Sutton Bank</option><option value="884">Tadcaster</option><option value="1670">Thirsk</option><option value="1963">Todmorden (Yorks)</option><option value="1639">Wakefield</option><option value="883">Wetherby</option><option value="1677">Whitby</option><option value="630">Withernsea</option><option value="1679">York</option></select>&nbsp;	  
-					  <input type="submit" value="GO" name="submit" class="button"> 
-					</p>
-				</form>   
-			</div>
-			<div class="TabbedPanelsContent TabbedPanelsContent4" style="display:none">
-				<form method="post" action="http://attractions.yorkshire.com/thedms.aspx?dms=11&amp;mstat=0" name="frmDmsSearch" id="frmDmsSearchAttractions">
-				  <input type="hidden" name="srchtyp" value="n">
-				  <input type="hidden" name="groupId" value="3">
-					<p>
-						<label for="search" class="first">Show</label>&nbsp;<select id="Catid" name="Catid"><option value="">Any</option><option value="20">Pubs, Inns &amp; Bars</option><option value="15">Restaurants</option><option value="64">Takeaways &amp; Fastfood</option><option value="21">Tea / Coffee Shops</option></select><br>
-						<label for="miles" class="first">Within</label>&nbsp;<input type="text" size="3" name="miles" id="miles"><br>
-						<label for="townId" class="first">miles of</label>&nbsp;<select id="townId" name="townId"><option value="">Any</option><option value="1966">Aysgarth Falls</option><option value="1247">Barnsley</option><option value="1649">Batley</option><option value="342">Bedale</option><option value="628">Beverley</option><option value="74">Bradford</option><option value="1674">Bridlington</option><option value="2045">Brighouse</option><option value="1643">Castleford</option><option value="345">Catterick</option><option value="1998">Clapham</option><option value="1952">Danby</option><option value="1957">Denby Dale</option><option value="1645">Dewsbury</option><option value="352">Doncaster</option><option value="1678">Driffield</option><option value="1995">Easingwold</option><option value="2046">Elland</option><option value="1673">Filey</option><option value="353">Goole</option><option value="1967">Grassington</option><option value="632">Halifax</option><option value="595">Harrogate</option><option value="344">Hawes</option><option value="1959">Haworth</option><option value="635">Hebden Bridge</option><option value="1648">Heckmondwike</option><option value="1953">Helmsley</option><option value="1997">High Bentham</option><option value="1960">Holmfirth</option><option value="629">Hornsea</option><option value="1972">Horton in Ribblesdale</option><option value="593">Huddersfield</option><option value="624">Hull</option><option value="886">Ilkley</option><option value="1971">Ingleton</option><option value="1954">Kirkbymoorside</option><option value="597">Knaresborough</option><option value="887">Leeds</option><option value="1973">Leeming Bar</option><option value="343">Leyburn</option><option value="1968">Malham</option><option value="1675">Malton</option><option value="1961">Marsden</option><option value="1996">Masham</option><option value="341">Northallerton</option><option value="882">Otley</option><option value="1964">Pateley Bridge</option><option value="1676">Pickering</option><option value="1969">Pocklington</option><option value="1642">Pontefract</option><option value="1558">Redcar</option><option value="1965">Reeth</option><option value="346">Richmond</option><option value="2043">Ripley (Yorks)</option><option value="596">Ripon</option><option value="1955">Robin Hood's Bay</option><option value="1246">Rotherham</option><option value="1962">Saltaire</option><option value="1559">Saltburn-by-the-Sea</option><option value="1672">Scarborough</option><option value="1671">Selby</option><option value="72">Settle</option><option value="1241">Sheffield</option><option value="73">Shipley</option><option value="71">Skipton</option><option value="2044">Sowerby Bridge</option><option value="1994">Stokesley</option><option value="1956">Sutton Bank</option><option value="884">Tadcaster</option><option value="1670">Thirsk</option><option value="1963">Todmorden (Yorks)</option><option value="1639">Wakefield</option><option value="883">Wetherby</option><option value="1677">Whitby</option><option value="630">Withernsea</option><option value="1679">York</option></select><br>
-						<input type="submit" value="GO" name="submit" class="button">
-					</p>
-				</form>            
-			</div>
-			<div class="TabbedPanelsContent" style="display:none">
-				<form action="http://search.yorkshire.com/search" method="get">
-				  <p><label for="search">Please enter your search here:</label><br><input type="text" id="Text2" name="q" size="20" maxlength="50" class="textboxDMS"> 
-				  <input type="submit" value="GO" name="submit"> <br><br>
-				    or select <a href="http://search.yorkshire.com/search?proxycustom=%3CADVANCED/%3E">Advanced Search</a> 
-				  </p>
-				</form>   
-			</div>
-		</div>
-  </div>
-</div>
 
-<script type="text/javascript">
-  $(function() {
-    if($.fn.datepicker) {
-      $('.searchpanels .qs-date-field').datepicker({
-        showOn: 'button', 
-        buttonImage: '/images/calendar.gif', 
-        buttonImageOnly: true,  
-        dateFormat: 'dd/mm/yy',      
-        minDate: new Date(),
-        maxDate: '+1y'
-      });
-    }
+<div id="tabs" class="mb1 quicksearch-tabs ui-tabs ui-widget ui-widget-content ui-corner-all" style="height: auto; overflow: visible;">
+  
+  <div class="loading" style="display: none;">Loading...</div>
+  
+  <ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all" id="searchtabs" style="">
+    <li class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#tabs-1" class="tab-header" id="tab1">Accommodation</a></li>
+    <li class="ui-state-default ui-corner-top"><a href="#tabs-2" class="tab-header" id="tab2">Do</a></li>
+    <li class="ui-state-default ui-corner-top"><a href="#tabs-3" class="tab-header" id="tab3">Events</a></li>
+  </ul>
+  
+  <div id="tabs-1" class="tab-content-background tabs-rounded tab-text quicksearch-tab-accommodation ui-tabs-panel ui-widget-content ui-corner-bottom" style="">
+    <div class="sh3" id="inner">
+      <form method="post" action="http://accommodation.yorkshire.com/thedms.aspx?dms=1&amp;mstat=0" name="frmDmsSearch" id="frmDmsSearchAccommodation" onsubmit="return QS_prepareAccommForm(this);">
+        <label for="at" class="form-white-text first">Type:</label>        
+        <select name="at" id="at" style="width: 180px;">
+          <option value="">Any</option>
+		      <option value="SV">Hotels or B&amp;B's</option>
+		      <option value="SC">Self-catering</option>
+		      <option value="CP">Camping &amp; Touring</option>
+		      <option value="TH">Hostels/Bunkbarns/Camping barns</option>
+			  <option value="sid:4">Parks &amp; Lodges</option>
+        </select>
+        <div class="form-divide"></div>
+        
+        <label class="form-white-text first">For:</label>
+        <input name="nd" value="1" id="nights" style="width: 40px;">
+        
+        <label class="form-white-text sw4">Nights</label>
+        <div class="form-divide"></div>
+        
+        <label class="form-white-text first within">Within:</label>
+        <input type="text" name="miles" id="miles" style="width: 40px;">
+        
+        <label class="form-white-text miles-of"> Miles of </label>
+        <select name="townId" id="townId"><option value="">Any</option><optgroup label="Bradford"><option value="74">Bradford</option><option value="1959">Haworth</option><option value="886">Ilkley</option><option value="73">Shipley</option><option value="1962">Saltaire</option></optgroup><optgroup label="East Yorkshire &amp; Yorkshire Wolds"><option value="628">Beverley</option><option value="1674">Bridlington</option><option value="1678">Driffield</option><option value="1969">East Yorkshire</option><option value="353">Goole</option><option value="629">Hornsea</option><option value="1969">Pocklington</option><option value="630">Withernsea</option></optgroup><optgroup label="Harrogate"><option value="595">Harrogate</option><option value="597">Knaresborough</option><option value="596">Ripon</option><option value="2043">Ripley</option></optgroup><optgroup label="Hull"><option value="624">Hull</option></optgroup><optgroup label="Leeds"><option value="1643">Castleford</option><option value="1645">Dewsbury</option><option value="887">Leeds</option><option value="882">Otley</option><option value="883">Wetherby</option></optgroup><optgroup label="North York Moors"><option value="1952">Danby</option><option value="1995">Easingwold</option><option value="1673">Filey</option><option value="1953">Helmsley</option><option value="1954">Kirkbymoorside</option><option value="1675">Malton</option><option value="341">Northallerton</option><option value="1676">Pickering</option><option value="1558">Redcar</option><option value="1955">Robin Hood's Bay</option><option value="1559">Saltburn</option><option value="1672">Scarborough</option><option value="1994">Stokesley</option><option value="1956">Sutton Bank</option><option value="1670">Thirsk</option><option value="1677">Whitby</option></optgroup><optgroup label="Peak District"><option value="1241">Sheffield</option></optgroup><optgroup label="Penine Yorkshire"><option value="2045">Brighouse</option><option value="1957">Denby Dale</option><option value="1645">Dewsbury</option><option value="2046">Elland</option><option value="632">Halifax</option><option value="1959">Haworth</option><option value="635">Hebden Bridge</option><option value="1648">Heckmondwike</option><option value="1960">Holmfirth</option><option value="593">Huddersfield</option><option value="1961">Marsden</option><option value="2044">Sowerby Bridge</option><option value="1963">Todmorden</option></optgroup><optgroup label="South Yorkshire"><option value="1246">Rotherham</option><option value="1241">Sheffield</option><option value="1247">Barnsley</option><option value="352">Doncaster</option></optgroup><optgroup label="Wakefield"><option value="1642">Pontefract</option><option value="1649">Batley</option><option value="1639">Wakefield</option></optgroup><optgroup label="York"><option value="1671">Selby</option><option value="883">Wetherby</option><option value="884">Tadcaster</option><option value="1679">York</option></optgroup><optgroup label="Yorkshire Coast"><option value="1673">Filey</option><option value="1955">Robin Hood's Bay</option><option value="1672">Scarborough</option><option value="1677">Whitby</option></optgroup><optgroup label="Yorkshire Dales"><option value="1966">Aysgarth Falls</option><option value="342">Bedale</option><option value="345">Catterick</option><option value="1998	">Clapham</option><option value="1967">Grassington</option><option value="595">Harrogate</option><option value="344">Hawes</option><option value="1997">High Bentham</option><option value="1972">Horton in Ribblesdale</option><option value="886">Ilkley</option><option value="1971">Ingleton</option><option value="597">Knaresborough</option><option value="1973">Leeming Bar</option><option value="343">Leyburn</option><option value="1968">Malham</option><option value="1996">Masham</option><option value="1964">Pateley Bridge</option><option value="1965">Reeth</option><option value="346">Richmond</option><option value="596">Ripon</option><option value="72">Settle</option><option value="71">Skipton</option><option value="1963">Todmorden</option></optgroup></select>
+
+        <div class="form-divide"></div>                
+		
+		<div class="date">
+		    <label class="form-white-text first">Date:</label>        
+		    <input name="startdate" id="date1" class="qs-date-field hasDatepicker" style="width: 100px;"><img class="ui-datepicker-trigger" src="https://web.archive.org/web/20101008175357/http://www.yorkshire.com/images/calendar.gif" alt="..." title="...">       		
+		    
+		    <div class="form-divide"></div>        
+		</div>
+		
+	    <a class="advsearchlink" href="http://accommodation.yorkshire.com/thedms.aspx?dms=0">Advanced Search</a>                      
+	    <input type="submit" value="Search" name="submit" class="button go-button"> 
+      </form>
+    </div>
+  </div>
+  
+  <div id="tabs-2" class="tab-content-background tabs-rounded tab-text white-text quicksearch-tab-do ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide" style="">
+    <div class="sh3" id="inner">
+      <form method="post" action="http://attractions.yorkshire.com/thedms.aspx?dms=11&amp;mstat=0" name="frmDmsSearch" id="frmDmsSearchAttractions" onsubmit="return QS_prepareDoForm(this);">
+        <input type="hidden" name="srchtyp" value="n">
+        
+        <label for="groupid" class="form-white-text first ">Type:</label>
+        <select name="groupid" id="groupid">
+          <option value="">Any</option>
+          <option value="2">Attractions</option>
+          <option value="1">Events</option>
+          <option value="5">Activities</option>
+          <option value="3">Eat</option>
+          <option value="6">Shop</option>
+          <option value="7">Places</option>
+        </select>
+        
+        <div class="subtypes" style="display:none">
+          <div class="form-divide"></div>
+          
+          <div class="subtype subtype1 subtype-attractions">
+            <label for="catid1" class="form-white-text first ">Type:</label>            
+            <select name="catid1" id="catid1">
+              <option value="">Any</option>
+              <option value="11">Arts, crafts &amp; galleries</option>
+              <option value="12">Historic houses &amp; sites</option>
+              <option value="66">Industrial Heritage</option>
+              <option value="14">Museums</option>
+              <option value="13">Parks and Gardens</option>
+              <option value="43">Religious Sites</option>
+              <option value="27">Theatres &amp; Entertainment</option>
+              <option value="67">Theme Parks &amp; Activity Centres</option>
+              <option value="45">Visitor Centres</option>
+              <option value="65">Water Based Attractions</option>
+              <option value="47">Wildlife &amp; Nature</option>
+            </select>
+          </div>
+          <div class="subtype subtype2 subtype-events">
+            <label for="catid2" class="form-white-text first ">Type:</label>
+            <select name="catid2" id="catid2">
+              <option value="">Any</option>
+              <option value="6">Coutryside &amp; Crafts</option>
+              <option value="4">Exhibitions</option>
+              <option value="5">Fairs, Festivals &amp; Markets</option>
+              <option value="3">Music &amp; Dance</option>
+              <option value="2">Plays, Films &amp; Shows</option>
+              <option value="10">Seasonal Events</option>
+              <option value="8">Sports &amp; Leisure</option>
+              <option value="85">Walks &amp; Tours</option>
+              <option value="9">Workshops &amp; Activities</option>
+            </select>
+          </div>
+          <div class="subtype subtype3 subtype-activities">
+            <label for="catid3" class="form-white-text first ">Type:</label>
+            <select name="catid3" id="catid3">
+              <option value="">Any</option>
+              <option value="68">Bird Watching</option>
+              <option value="70">Climbing and Caving</option>
+              <option value="71">Cycling and Mountain Biking</option>
+              <option value="72">Fishing</option>
+              <option value="73">Golf</option>
+              <option value="29">Indoor Activities</option>
+              <option value="28">Outdoor Activities</option>
+              <option value="74">Riding &amp; Trekking</option>
+              <option value="75">Sports &amp; Health Centres</option>
+              <option value="7">Tours &amp; Guides</option>
+              <option value="76">Walking</option>
+              <option value="77">Water Sports</option>
+            </select>
+          </div>
+          <div class="subtype subtype4 subtype-eat">
+            <label for="catid4" class="form-white-text first ">Type:</label>
+            <select name="catid4" id="catid4">
+              <option value="">Any</option>
+              <option value="20">Pubs, Inns &amp; restaurants</option>
+              <option value="15">Restaurants</option>
+              <option value="21">Tea/Coffee shops</option>
+              <option value="64">Takeaways &amp; fast food</option>
+            </select>
+          </div>
+          <div class="subtype subtype5 subtype-shop">
+            <label for="catid5" class="form-white-text first ">Type:</label>
+            <select name="catid5" id="catid5">
+              <option value="">Any</option>
+              <option value="31">Antiques, Books &amp; Music</option>
+              <option value="36">Crafts, Gifts &amp; Specialities</option>
+              <option value="48">Food and Local Produce</option>
+              <option value="33">Health &amp; Beauty</option>
+              <option value="34">Homes &amp; Gardens</option>
+              <option value="35">Jewellery &amp; Clothing</option>
+              <option value="78">Outdoor Equipment &amp; Sports</option>
+              <option value="79">Shopping Centres</option>
+            </select>
+          </div>
+          <div class="subtype subtype6 subtype-places">
+            <label for="catid6" class="form-white-text first ">Type:</label>
+            <select name="catid6" id="catid6">
+              <option value="">Any</option>
+              <option value="80">Countryside		Campo</option>
+              <option value="81">Seaside Towns</option>
+              <option value="82">Towns and Villages</option>
+            </select>
+          </div>
+        </div>
+        
+        <div class="form-divide"></div>
+        
+        <label for="miles" class="form-white-text first within">Within</label>
+        <input type="text" name="miles" id="Text1" style="width: 40px;">
+        
+        <div class="form-divide"></div>
+        
+        <label for="townId" class="form-white-text first miles-of">Miles of</label>
+        <select name="townId" id="townId"><option value="">Any</option><optgroup label="Bradford"><option value="74">Bradford</option><option value="1959">Haworth</option><option value="886">Ilkley</option><option value="73">Shipley</option><option value="1962">Saltaire</option></optgroup><optgroup label="East Yorkshire &amp; Yorkshire Wolds"><option value="628">Beverley</option><option value="1674">Bridlington</option><option value="1678">Driffield</option><option value="1969">East Yorkshire</option><option value="353">Goole</option><option value="629">Hornsea</option><option value="1969">Pocklington</option><option value="630">Withernsea</option></optgroup><optgroup label="Harrogate"><option value="595">Harrogate</option><option value="597">Knaresborough</option><option value="596">Ripon</option><option value="2043">Ripley</option></optgroup><optgroup label="Hull"><option value="624">Hull</option></optgroup><optgroup label="Leeds"><option value="1643">Castleford</option><option value="1645">Dewsbury</option><option value="887">Leeds</option><option value="882">Otley</option><option value="883">Wetherby</option></optgroup><optgroup label="North York Moors"><option value="1952">Danby</option><option value="1995">Easingwold</option><option value="1673">Filey</option><option value="1953">Helmsley</option><option value="1954">Kirkbymoorside</option><option value="1675">Malton</option><option value="341">Northallerton</option><option value="1676">Pickering</option><option value="1558">Redcar</option><option value="1955">Robin Hood's Bay</option><option value="1559">Saltburn</option><option value="1672">Scarborough</option><option value="1994">Stokesley</option><option value="1956">Sutton Bank</option><option value="1670">Thirsk</option><option value="1677">Whitby</option></optgroup><optgroup label="Peak District"><option value="1241">Sheffield</option></optgroup><optgroup label="Penine Yorkshire"><option value="2045">Brighouse</option><option value="1957">Denby Dale</option><option value="1645">Dewsbury</option><option value="2046">Elland</option><option value="632">Halifax</option><option value="1959">Haworth</option><option value="635">Hebden Bridge</option><option value="1648">Heckmondwike</option><option value="1960">Holmfirth</option><option value="593">Huddersfield</option><option value="1961">Marsden</option><option value="2044">Sowerby Bridge</option><option value="1963">Todmorden</option></optgroup><optgroup label="South Yorkshire"><option value="1246">Rotherham</option><option value="1241">Sheffield</option><option value="1247">Barnsley</option><option value="352">Doncaster</option></optgroup><optgroup label="Wakefield"><option value="1642">Pontefract</option><option value="1649">Batley</option><option value="1639">Wakefield</option></optgroup><optgroup label="York"><option value="1671">Selby</option><option value="883">Wetherby</option><option value="884">Tadcaster</option><option value="1679">York</option></optgroup><optgroup label="Yorkshire Coast"><option value="1673">Filey</option><option value="1955">Robin Hood's Bay</option><option value="1672">Scarborough</option><option value="1677">Whitby</option></optgroup><optgroup label="Yorkshire Dales"><option value="1966">Aysgarth Falls</option><option value="342">Bedale</option><option value="345">Catterick</option><option value="1998	">Clapham</option><option value="1967">Grassington</option><option value="595">Harrogate</option><option value="344">Hawes</option><option value="1997">High Bentham</option><option value="1972">Horton in Ribblesdale</option><option value="886">Ilkley</option><option value="1971">Ingleton</option><option value="597">Knaresborough</option><option value="1973">Leeming Bar</option><option value="343">Leyburn</option><option value="1968">Malham</option><option value="1996">Masham</option><option value="1964">Pateley Bridge</option><option value="1965">Reeth</option><option value="346">Richmond</option><option value="596">Ripon</option><option value="72">Settle</option><option value="71">Skipton</option><option value="1963">Todmorden</option></optgroup></select>
+
+        <div class="form-divide"></div>
+        
+        <a href="http://attractions.yorkshire.com/thedms.aspx?dms=10" class="advsearchlink">Advanced Search</a>
+        <input type="submit" style="float: right;" value="Search" name="submit" class="button go-button">
+		    <input type="hidden" name="catid" id="catid">
+		
+      </form> 
+    </div>
+  </div>
+  
+  
+  <div id="tabs-3" class="tab-content-background tabs-rounded tab-text white-text quicksearch-tab-events ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide" style="">
+    <div class="sh3" id="inner">
+      <form action="http://attractions.yorkshire.com/thedms.aspx?dms=12&amp;GroupId=1&amp;mstat=0" id="frmDmsSearch" method="post" name="frmDmsSearch">
+        <input type="hidden" name="srchtyp" value="n">
+        <input type="hidden" name="groupId" value="1">
+        
+        <label for="date2" class="form-white-text first">Date:</label>
+        <input class="qs-date-field hasDatepicker" name="startdate" id="date2" style="width: 100px;"><img class="ui-datepicker-trigger" src="https://web.archive.org/web/20101008175357/http://www.yorkshire.com/images/calendar.gif" alt="..." title="...">
+        
+        <div class="form-divide"></div>
+        
+        <label for="days" class="form-white-text first">For</label>
+        <input name="nd" value="1" id="days" style="width: 40px;"> <label class="form-white-text sw4">night(s)</label>
+        
+        <div class="form-divide"></div>
+        
+        <label for="miles" class="form-white-text first within">Within</label>
+        <input type="text" name="miles" id="miles" style="width: 40px;">        
+        
+        <label for="townId" class="form-white-text miles-of">Miles of</label>
+        <select name="townId" id="townId"><option value="">Any</option><optgroup label="Bradford"><option value="74">Bradford</option><option value="1959">Haworth</option><option value="886">Ilkley</option><option value="73">Shipley</option><option value="1962">Saltaire</option></optgroup><optgroup label="East Yorkshire &amp; Yorkshire Wolds"><option value="628">Beverley</option><option value="1674">Bridlington</option><option value="1678">Driffield</option><option value="1969">East Yorkshire</option><option value="353">Goole</option><option value="629">Hornsea</option><option value="1969">Pocklington</option><option value="630">Withernsea</option></optgroup><optgroup label="Harrogate"><option value="595">Harrogate</option><option value="597">Knaresborough</option><option value="596">Ripon</option><option value="2043">Ripley</option></optgroup><optgroup label="Hull"><option value="624">Hull</option></optgroup><optgroup label="Leeds"><option value="1643">Castleford</option><option value="1645">Dewsbury</option><option value="887">Leeds</option><option value="882">Otley</option><option value="883">Wetherby</option></optgroup><optgroup label="North York Moors"><option value="1952">Danby</option><option value="1995">Easingwold</option><option value="1673">Filey</option><option value="1953">Helmsley</option><option value="1954">Kirkbymoorside</option><option value="1675">Malton</option><option value="341">Northallerton</option><option value="1676">Pickering</option><option value="1558">Redcar</option><option value="1955">Robin Hood's Bay</option><option value="1559">Saltburn</option><option value="1672">Scarborough</option><option value="1994">Stokesley</option><option value="1956">Sutton Bank</option><option value="1670">Thirsk</option><option value="1677">Whitby</option></optgroup><optgroup label="Peak District"><option value="1241">Sheffield</option></optgroup><optgroup label="Penine Yorkshire"><option value="2045">Brighouse</option><option value="1957">Denby Dale</option><option value="1645">Dewsbury</option><option value="2046">Elland</option><option value="632">Halifax</option><option value="1959">Haworth</option><option value="635">Hebden Bridge</option><option value="1648">Heckmondwike</option><option value="1960">Holmfirth</option><option value="593">Huddersfield</option><option value="1961">Marsden</option><option value="2044">Sowerby Bridge</option><option value="1963">Todmorden</option></optgroup><optgroup label="South Yorkshire"><option value="1246">Rotherham</option><option value="1241">Sheffield</option><option value="1247">Barnsley</option><option value="352">Doncaster</option></optgroup><optgroup label="Wakefield"><option value="1642">Pontefract</option><option value="1649">Batley</option><option value="1639">Wakefield</option></optgroup><optgroup label="York"><option value="1671">Selby</option><option value="883">Wetherby</option><option value="884">Tadcaster</option><option value="1679">York</option></optgroup><optgroup label="Yorkshire Coast"><option value="1673">Filey</option><option value="1955">Robin Hood's Bay</option><option value="1672">Scarborough</option><option value="1677">Whitby</option></optgroup><optgroup label="Yorkshire Dales"><option value="1966">Aysgarth Falls</option><option value="342">Bedale</option><option value="345">Catterick</option><option value="1998	">Clapham</option><option value="1967">Grassington</option><option value="595">Harrogate</option><option value="344">Hawes</option><option value="1997">High Bentham</option><option value="1972">Horton in Ribblesdale</option><option value="886">Ilkley</option><option value="1971">Ingleton</option><option value="597">Knaresborough</option><option value="1973">Leeming Bar</option><option value="343">Leyburn</option><option value="1968">Malham</option><option value="1996">Masham</option><option value="1964">Pateley Bridge</option><option value="1965">Reeth</option><option value="346">Richmond</option><option value="596">Ripon</option><option value="72">Settle</option><option value="71">Skipton</option><option value="1963">Todmorden</option></optgroup></select>
+
+        <div class="form-divide"></div>
+        
+        <a href="http://events.yorkshire.com/thedms.aspx?dms=10&amp;groupid=1" class="advsearchlink">Advanced Search</a>
+        <input type="submit" style="float: right;" value="Search" name="submit" class="button go-button"> 
+      </form> 
+    </div>
+  </div>
+  
+</div>
+<link rel="Stylesheet" href="/css/ui-en.css">
+<script type="text/javascript" src="/scripts/quicksearch.js"></script> 
+<script type="text/javascript" src="/scripts/i18n/ui.datepicker-en.js"></script> 
+<script type="text/javascript">   
+  $(function() {  
+      var activation = '';
+      QS_init(activation);
   });
 </script>
+
 </div>
 	</div>
 
@@ -216,12 +383,8 @@
 
 	<div class="pod pod-raw">
 		<div>
-<div class="promo-pod promo-pod-adventure"><h4>North Yorkshire - A Year of Adventure</h4><p>There's 52 ways to experience the thrill of North Yorkshire!</p><a href="/year-of-adventure/">Read more</a></div><div class="promo-pod promo-pod-offers"><h4>Special Offers</h4><p>Check out the latest special offers from Yorkshire!</p><a href="/offers">View now</a></div>
+<div class="promo-pod promo-pod-adventure"><h4>North Yorkshire - A Year of Adventure</h4><p>There's 52 ways to experience the thrill of North Yorkshire!</p><a href="/year-of-adventure/">Read more</a></div><div class="promo-pod promo-pod-newsletter"><h4>Newsletter</h4><p>Sign up to receive our latest news and offers with our e-newsletter.</p><a href="/join-in/enewsletter">Sign up</a></div>
 </div>
-	</div>
-
-	<div class="pod pod-raw">
-		<div id="survey"><a href="http://www.clickyorkshire.com/clicks/click.php?id=1400"><img src="/images/banners/christmas2009/xmas_pod.gif" width="303" height="160" alt="Experience Yorkshire this Christmas"></a></div>
 	</div>
 
  	
@@ -232,166 +395,31 @@
 		</a>			
 	</div> 
 </div>
-					<!-- 
-<div class="panel">
-
-<div>
-
-<div class="smallpod searchpanels">
-	<div id="TabbedPanels1" class="TabbedPanels">
-		<ul class="TabbedPanelsTabGroup">
-			<li class="TabbedPanelsTab">Book</li>
-			<li class="TabbedPanelsTab">Visit</li>
-			<li class="TabbedPanelsTab">Event</li>
-			<li class="TabbedPanelsTab">Eat</li>
-			<li class="TabbedPanelsTab">General</li>
-		</ul>
-		<div class="TabbedPanelsContentGroup">
-			<div class="TabbedPanelsContent TabbedPanelsContent1">
-				<form method="post" action="http://accommodation.yorkshire.com/thedms.aspx?dms=1&mstat=0" name="frmDmsSearch" id="frmDmsSearchAccommodation">
-					<p>
-						<label for="date1" class="first">From:</label>&nbsp;<input name="startdate" id="date1" size="10" class="qs-date-field" /><br />
-						<label for="nights" class="first">For:</label>&nbsp;<input name="nd" value="1" size="2" id="nights" class="textboxDMS" /> night(s)&nbsp;
-						<label for="miles">within</label>&nbsp;<input type="text" size="2" name="miles" id="miles"/> miles of<br />
-						<label for="miles" class="first hidden">Destination:</label>&nbsp;<select id="townId" name="townId"><option value="">Any</option><option value="1966">Aysgarth Falls</option><option value="1247">Barnsley</option><option value="1649">Batley</option><option value="342">Bedale</option><option value="628">Beverley</option><option value="74">Bradford</option><option value="1674">Bridlington</option><option value="2045">Brighouse</option><option value="1643">Castleford</option><option value="345">Catterick</option><option value="1998">Clapham</option><option value="1952">Danby</option><option value="1957">Denby Dale</option><option value="1645">Dewsbury</option><option value="352">Doncaster</option><option value="1678">Driffield</option><option value="1995">Easingwold</option><option value="2046">Elland</option><option value="1673">Filey</option><option value="353">Goole</option><option value="1967">Grassington</option><option value="632">Halifax</option><option value="595">Harrogate</option><option value="344">Hawes</option><option value="1959">Haworth</option><option value="635">Hebden Bridge</option><option value="1648">Heckmondwike</option><option value="1953">Helmsley</option><option value="1997">High Bentham</option><option value="1960">Holmfirth</option><option value="629">Hornsea</option><option value="1972">Horton in Ribblesdale</option><option value="593">Huddersfield</option><option value="624">Hull</option><option value="886">Ilkley</option><option value="1971">Ingleton</option><option value="1954">Kirkbymoorside</option><option value="597">Knaresborough</option><option value="887">Leeds</option><option value="1973">Leeming Bar</option><option value="343">Leyburn</option><option value="1968">Malham</option><option value="1675">Malton</option><option value="1961">Marsden</option><option value="1996">Masham</option><option value="341">Northallerton</option><option value="882">Otley</option><option value="1964">Pateley Bridge</option><option value="1676">Pickering</option><option value="1969">Pocklington</option><option value="1642">Pontefract</option><option value="1558">Redcar</option><option value="1965">Reeth</option><option value="346">Richmond</option><option value="2043">Ripley (Yorks)</option><option value="596">Ripon</option><option value="1955">Robin Hood's Bay</option><option value="1246">Rotherham</option><option value="1962">Saltaire</option><option value="1559">Saltburn-by-the-Sea</option><option value="1672">Scarborough</option><option value="1671">Selby</option><option value="72">Settle</option><option value="1241">Sheffield</option><option value="73">Shipley</option><option value="71">Skipton</option><option value="2044">Sowerby Bridge</option><option value="1994">Stokesley</option><option value="1956">Sutton Bank</option><option value="884">Tadcaster</option><option value="1670">Thirsk</option><option value="1963">Todmorden (Yorks)</option><option value="1639">Wakefield</option><option value="883">Wetherby</option><option value="1677">Whitby</option><option value="630">Withernsea</option><option value="1679">York</option></select><br />
-						<label for="at" class="first">Type:</label>&nbsp;<select name="at" size="1" id="at"> 
-							<option value="">Any</option>
-							<option value="SV">Hotel or B&amp;Bs</option>
-							<option value="SC">Self Catering</option>
-							<option value="CP">Camping and Touring</option>
-							<option value="TH">Alternative accommodation</option>
-						</select>
-						<input type="submit" value="GO" name="submit" class="button" />               
-				  </p>
-				</form>			
-			</div>
-			<div class="TabbedPanelsContent TabbedPanelsContent2" style="display:none">
-				<form method="post" action="http://attractions.yorkshire.com/thedms.aspx?dms=11&mstat=0" name="frmDmsSearch" id="frmDmsSearchAttractions">
-				  <input type="hidden" name="srchtyp" value="n" />
-					<p>					  
-						<label for="Catid" class="first">Show</label>&nbsp;<select id="Catid" name="Catid"><option value="">Any</option><option value="11">Arts, Crafts &amp; Galleries</option><option value="80">Countryside</option><option value="12">Historic Houses &amp; Sites</option><option value="66">Industrial Heritage</option><option value="14">Museums</option><option value="13">Parks &amp; Gardens</option><option value="43">Religious Sites</option><option value="81">Seaside Locations</option><option value="27">Theatres &amp; Entertainment</option><option value="67">Theme Parks &amp; Activity Centres</option><option value="82">Towns &amp; Villages</option><option value="45">Visitor Centres</option><option value="65">Water-based Attractions</option><option value="47">Wildlife &amp; Nature</option></select><br />
-						<label for="miles" class="first">Within</label>&nbsp;<input type="text" size="3" name="miles" id="miles"/><br />
-						<label for="townId" class="first">miles of</label>&nbsp;<select id="townId" name="townId"><option value="">Any</option><option value="1966">Aysgarth Falls</option><option value="1247">Barnsley</option><option value="1649">Batley</option><option value="342">Bedale</option><option value="628">Beverley</option><option value="74">Bradford</option><option value="1674">Bridlington</option><option value="2045">Brighouse</option><option value="1643">Castleford</option><option value="345">Catterick</option><option value="1998">Clapham</option><option value="1952">Danby</option><option value="1957">Denby Dale</option><option value="1645">Dewsbury</option><option value="352">Doncaster</option><option value="1678">Driffield</option><option value="1995">Easingwold</option><option value="2046">Elland</option><option value="1673">Filey</option><option value="353">Goole</option><option value="1967">Grassington</option><option value="632">Halifax</option><option value="595">Harrogate</option><option value="344">Hawes</option><option value="1959">Haworth</option><option value="635">Hebden Bridge</option><option value="1648">Heckmondwike</option><option value="1953">Helmsley</option><option value="1997">High Bentham</option><option value="1960">Holmfirth</option><option value="629">Hornsea</option><option value="1972">Horton in Ribblesdale</option><option value="593">Huddersfield</option><option value="624">Hull</option><option value="886">Ilkley</option><option value="1971">Ingleton</option><option value="1954">Kirkbymoorside</option><option value="597">Knaresborough</option><option value="887">Leeds</option><option value="1973">Leeming Bar</option><option value="343">Leyburn</option><option value="1968">Malham</option><option value="1675">Malton</option><option value="1961">Marsden</option><option value="1996">Masham</option><option value="341">Northallerton</option><option value="882">Otley</option><option value="1964">Pateley Bridge</option><option value="1676">Pickering</option><option value="1969">Pocklington</option><option value="1642">Pontefract</option><option value="1558">Redcar</option><option value="1965">Reeth</option><option value="346">Richmond</option><option value="2043">Ripley (Yorks)</option><option value="596">Ripon</option><option value="1955">Robin Hood's Bay</option><option value="1246">Rotherham</option><option value="1962">Saltaire</option><option value="1559">Saltburn-by-the-Sea</option><option value="1672">Scarborough</option><option value="1671">Selby</option><option value="72">Settle</option><option value="1241">Sheffield</option><option value="73">Shipley</option><option value="71">Skipton</option><option value="2044">Sowerby Bridge</option><option value="1994">Stokesley</option><option value="1956">Sutton Bank</option><option value="884">Tadcaster</option><option value="1670">Thirsk</option><option value="1963">Todmorden (Yorks)</option><option value="1639">Wakefield</option><option value="883">Wetherby</option><option value="1677">Whitby</option><option value="630">Withernsea</option><option value="1679">York</option></select><br />
-						<input type="submit" value="GO" name="submit" class="button" /><br />
-						<a href="/do/attractions#searchform" class="advsearchlink">Advanced search</a>
-				  </p>
-				</form>            
-			</div>
-			<div class="TabbedPanelsContent TabbedPanelsContent3" style="display:none">
-				<form action="http://attractions.yorkshire.com/thedms.aspx?dms=12&amp;GroupId=1&mstat=0" id="frmDmsSearch" method="post" name="frmDmsSearch">
-				  <input type="hidden" name="srchtyp" value="n" />
-				  <input type="hidden" name="groupId" value="1" />
-					<p>
-					  <label for="date2" class="first">From:</label>&nbsp;<input name="startdate" id="date2" size="10" class="qs-date-field" /><br />
-					  <label for="days" class="first">for</label>&nbsp;<input name="nd" value="1" size="2" id="days" class="textboxDMS" /> days<br />
-					  <label for="miles" class="first">Within</label>&nbsp;<input type="text" size="3" name="miles" id="miles"/><br />
-					  <label for="townId" class="first">miles of</label>&nbsp;<select id="townId" name="townId"><option value="">Any</option><option value="1966">Aysgarth Falls</option><option value="1247">Barnsley</option><option value="1649">Batley</option><option value="342">Bedale</option><option value="628">Beverley</option><option value="74">Bradford</option><option value="1674">Bridlington</option><option value="2045">Brighouse</option><option value="1643">Castleford</option><option value="345">Catterick</option><option value="1998">Clapham</option><option value="1952">Danby</option><option value="1957">Denby Dale</option><option value="1645">Dewsbury</option><option value="352">Doncaster</option><option value="1678">Driffield</option><option value="1995">Easingwold</option><option value="2046">Elland</option><option value="1673">Filey</option><option value="353">Goole</option><option value="1967">Grassington</option><option value="632">Halifax</option><option value="595">Harrogate</option><option value="344">Hawes</option><option value="1959">Haworth</option><option value="635">Hebden Bridge</option><option value="1648">Heckmondwike</option><option value="1953">Helmsley</option><option value="1997">High Bentham</option><option value="1960">Holmfirth</option><option value="629">Hornsea</option><option value="1972">Horton in Ribblesdale</option><option value="593">Huddersfield</option><option value="624">Hull</option><option value="886">Ilkley</option><option value="1971">Ingleton</option><option value="1954">Kirkbymoorside</option><option value="597">Knaresborough</option><option value="887">Leeds</option><option value="1973">Leeming Bar</option><option value="343">Leyburn</option><option value="1968">Malham</option><option value="1675">Malton</option><option value="1961">Marsden</option><option value="1996">Masham</option><option value="341">Northallerton</option><option value="882">Otley</option><option value="1964">Pateley Bridge</option><option value="1676">Pickering</option><option value="1969">Pocklington</option><option value="1642">Pontefract</option><option value="1558">Redcar</option><option value="1965">Reeth</option><option value="346">Richmond</option><option value="2043">Ripley (Yorks)</option><option value="596">Ripon</option><option value="1955">Robin Hood's Bay</option><option value="1246">Rotherham</option><option value="1962">Saltaire</option><option value="1559">Saltburn-by-the-Sea</option><option value="1672">Scarborough</option><option value="1671">Selby</option><option value="72">Settle</option><option value="1241">Sheffield</option><option value="73">Shipley</option><option value="71">Skipton</option><option value="2044">Sowerby Bridge</option><option value="1994">Stokesley</option><option value="1956">Sutton Bank</option><option value="884">Tadcaster</option><option value="1670">Thirsk</option><option value="1963">Todmorden (Yorks)</option><option value="1639">Wakefield</option><option value="883">Wetherby</option><option value="1677">Whitby</option><option value="630">Withernsea</option><option value="1679">York</option></select>&nbsp;	  
-					  <input type="submit" value="GO" name="submit" class="button" /> 
-					</p>
-				</form>   
-			</div>
-			<div class="TabbedPanelsContent TabbedPanelsContent4" style="display:none">
-				<form method="post" action="http://attractions.yorkshire.com/thedms.aspx?dms=11&mstat=0" name="frmDmsSearch" id="frmDmsSearchAttractions">
-				  <input type="hidden" name="srchtyp" value="n" />
-				  <input type="hidden" name="groupId" value="3" />
-					<p>
-						<label for="search" class="first">Show</label>&nbsp;<select id="Catid" name="Catid"><option value="">Any</option><option value="20">Pubs, Inns &amp; Bars</option><option value="15">Restaurants</option><option value="64">Takeaways &amp; Fastfood</option><option value="21">Tea / Coffee Shops</option></select><br />
-						<label for="miles" class="first">Within</label>&nbsp;<input type="text" size="3" name="miles" id="miles"/><br />
-						<label for="townId" class="first">miles of</label>&nbsp;<select id="townId" name="townId"><option value="">Any</option><option value="1966">Aysgarth Falls</option><option value="1247">Barnsley</option><option value="1649">Batley</option><option value="342">Bedale</option><option value="628">Beverley</option><option value="74">Bradford</option><option value="1674">Bridlington</option><option value="2045">Brighouse</option><option value="1643">Castleford</option><option value="345">Catterick</option><option value="1998">Clapham</option><option value="1952">Danby</option><option value="1957">Denby Dale</option><option value="1645">Dewsbury</option><option value="352">Doncaster</option><option value="1678">Driffield</option><option value="1995">Easingwold</option><option value="2046">Elland</option><option value="1673">Filey</option><option value="353">Goole</option><option value="1967">Grassington</option><option value="632">Halifax</option><option value="595">Harrogate</option><option value="344">Hawes</option><option value="1959">Haworth</option><option value="635">Hebden Bridge</option><option value="1648">Heckmondwike</option><option value="1953">Helmsley</option><option value="1997">High Bentham</option><option value="1960">Holmfirth</option><option value="629">Hornsea</option><option value="1972">Horton in Ribblesdale</option><option value="593">Huddersfield</option><option value="624">Hull</option><option value="886">Ilkley</option><option value="1971">Ingleton</option><option value="1954">Kirkbymoorside</option><option value="597">Knaresborough</option><option value="887">Leeds</option><option value="1973">Leeming Bar</option><option value="343">Leyburn</option><option value="1968">Malham</option><option value="1675">Malton</option><option value="1961">Marsden</option><option value="1996">Masham</option><option value="341">Northallerton</option><option value="882">Otley</option><option value="1964">Pateley Bridge</option><option value="1676">Pickering</option><option value="1969">Pocklington</option><option value="1642">Pontefract</option><option value="1558">Redcar</option><option value="1965">Reeth</option><option value="346">Richmond</option><option value="2043">Ripley (Yorks)</option><option value="596">Ripon</option><option value="1955">Robin Hood's Bay</option><option value="1246">Rotherham</option><option value="1962">Saltaire</option><option value="1559">Saltburn-by-the-Sea</option><option value="1672">Scarborough</option><option value="1671">Selby</option><option value="72">Settle</option><option value="1241">Sheffield</option><option value="73">Shipley</option><option value="71">Skipton</option><option value="2044">Sowerby Bridge</option><option value="1994">Stokesley</option><option value="1956">Sutton Bank</option><option value="884">Tadcaster</option><option value="1670">Thirsk</option><option value="1963">Todmorden (Yorks)</option><option value="1639">Wakefield</option><option value="883">Wetherby</option><option value="1677">Whitby</option><option value="630">Withernsea</option><option value="1679">York</option></select><br />
-						<input type="submit" value="GO" name="submit" class="button"/>
-					</p>
-				</form>            
-			</div>
-			<div class="TabbedPanelsContent" style="display:none">
-				<form action="http://search.yorkshire.com/search" method="get">
-				  <p><label for="search">Please enter your search here:</label><br /><input type="text" id="Text2" name="q" size="20" maxlength="50" class="textboxDMS" /> 
-				  <input type="submit" value="GO" name="submit" /> <br /><br />
-				    or select <a href="http://search.yorkshire.com/search?proxycustom=%3CADVANCED/%3E">Advanced Search</a> 
-				  </p>
-				</form>   
-			</div>
-		</div>
-  </div>
-</div>
-
-<script type="text/javascript">
-  $(function() {
-    if($.fn.datepicker) {
-      $('.searchpanels .qs-date-field').datepicker({
-        showOn: 'button', 
-        buttonImage: '/images/calendar.gif', 
-        buttonImageOnly: true,  
-        dateFormat: 'dd/mm/yy',      
-        minDate: new Date(),
-        maxDate: '+1y'
-      });
-    }
-  });
-</script>
-</div>
-
-</div> 
-
-
-<div class="panel">
-
-<div class="pages-box">
-<div class="pages-box-header"><img src="/images/cms/pages-box-top.jpg" width="303" height="11"/></div>
-<div class="pages-box-middle">
-<h3>Most Popular Pages</h3>
-<ul>
-<li><a href="/inspire/indulgence/spa">Spas in Yorkshire</a></li>
-<li><a href="/inspire/artistic/sculpture-in-yorkshire">Sculpture Outdoors</a></li>
-<li><a href="/inspire/family/child-friendly">Child Friendly</a></li>
-<li><a href="/inspire/delicious/dining-experiences">Dining Experiences</a></li>
-<li><a href="/do/attractions">Attractions in Yorkshire</a></li>
-</ul>
-</div>
-<div class="pages-box-footer"><img src="/images/cms/pages-box-bottom.jpg" width="303" height="9"/></div>
-</div>
-
-</div> 
-
-<div class="panel">
-
-<div id="survey"><a href="http://surveys.questions.co.uk/Yorkshire.asp?Referrer=13" target="_blank"><img src="/images/join/survey-side-v2-a.jpg" width="303" height="83" alt="Click here to win 1 of 4 great prizes"/></a><a href="http://www.fevershamarmshotel.com/" target="_blank"><img src="/images/join/survey-side-v2-b.jpg" width="303" height="59" alt="Two night midweek break, at the Faversham Arms, worth up to &pound;850 www.fevershamarmshotel.com"/></a><a href="http://www.manor-househotel.co.uk/" target="_blank"><img src="/images/join/survey-side-v2-c.jpg" width="303" height="57" alt="One night bed and breakfast stay at the Manor House Hotel www.manor-househotel.co.uk"/></a><img src="/images/join/survey-side-v2-d.jpg" width="303" height="60" alt="2 x two family passes to MAGNA"/></div>
-
-</div> 
-
-<div class="panel">
-
-<div>
-<div class="promo-pod promo-pod-newsletter"><h4>Newsletter</h4><p>Sign up to receive our latest news and offers with our e-newsletter.</p><a href="/join-in/enewsletter">Sign up</a></div><div class="promo-pod promo-pod-adventure"><h4>North Yorkshire - A Year of Adventure</h4><p>There's 52 ways to experience the thrill of North Yorkshire!</p><a href="/year-of-adventure/">Read more</a></div>
-</div>
-
-</div> 
-<div id="survey"><a href="http://www.clickyorkshire.com/clicks/click.php?id=1400"><img src="/images/banners/christmas2009/xmas_pod.gif" alt="Experience Yorkshire this Christmas" width="303" height="160" /></a></div><div id="survey"><a href="http://www.clickyorkshire.com/clicks/click.php?id=1396"><img src="/media/113172/fevershamautumn_new.jpg" width="303" height="160" alt="Feversham Arms, Helmsley - Autumn offers" /></a></div> -->
 				</div>
+
+				<div class="blank-panel-middle mb1 rounded" id="inspire-pod" style="position: relative; zoom: 1;"><div class="light-blue-panel-border"><h2 class="fl">BE INSPIRED</h2><div class="blue-button-border fr"><img src="/images/structure/arrow-blue-left.png" width="16" height="16" class="carouselControl" id="carouselLeft" alt="go left"><img src="/images/structure/arrow-blue.png" width="16" height="16" class="carouselControl" id="carouselRight" alt="go right"></div></div><div class="white-panel-border-stretch-right b" id="inspireCarousel" style="visibility: visible; overflow: hidden; position: relative; z-index: 2; left: 0px; width: 476px;"><ul style="margin: 0px; padding: 0px; position: relative; list-style-type: none; z-index: 1; width: 680px; left: 0px;"><li class="long-panel-frame inspire-frame" style="overflow: hidden; float: left; width: 68px; height: 64px;"><a href="/inspire/indulgence" style="overflow: hidden;"><img src="/media/499093/verbeanspahottubthumb.jpg"><br><br><br>Indulgence</a></li><li class="long-panel-frame inspire-frame" style="overflow: hidden; float: left; width: 68px; height: 64px;"><a href="/inspire/outdoors" style="overflow: hidden;"><img src="/media/499105/spurnpointthumb.jpg"><br><br><br>Outdoors</a></li><li class="long-panel-frame inspire-frame" style="overflow: hidden; float: left; width: 68px; height: 64px;"><a href="/inspire/heritage" style="overflow: hidden;"><img src="/media/191516/heritage_80x35.jpg"><br><br><br>Heritage</a></li><li class="long-panel-frame inspire-frame" style="overflow: hidden; float: left; width: 68px; height: 64px;"><a href="/inspire/artistic" style="overflow: hidden;"><img src="/media/191471/artistic_80x35.jpg"><br><br><br>Artistic</a></li><li class="long-panel-frame inspire-frame" style="overflow: hidden; float: left; width: 68px; height: 64px;"><a href="/inspire/sport" style="overflow: hidden;"><img src="/media/191480/sport_80x35.jpg"><br><br><br>Sport</a></li><li class="long-panel-frame inspire-frame" style="overflow: hidden; float: left; width: 68px; height: 64px;"><a href="/inspire/family" style="overflow: hidden;"><img src="/media/499099/smallchildlagoon_thumb.jpg"><br><br><br>Family</a></li><li class="long-panel-frame inspire-frame" style="overflow: hidden; float: left; width: 68px; height: 64px;"><a href="/inspire/delicious" style="overflow: hidden;"><img src="/media/191498/delicious_80x35.jpg"><br><br><br>Delicious</a></li><li class="long-panel-frame inspire-frame" style="overflow: hidden; float: left; width: 68px; height: 64px;"><a href="/inspire/city-life" style="overflow: hidden;"><img src="/media/191489/citylife_80x35.jpg"><br><br><br>City Life</a></li><li class="long-panel-frame inspire-frame" style="overflow: hidden; float: left; width: 68px; height: 64px;"><a href="/inspire/events-and-festivals" style="overflow: hidden;"><img src="/media/222216/festival_80x35.jpg"><br><br><br>Events &amp; Festivals</a></li><li class="long-panel-frame inspire-frame" style="overflow: hidden; float: left; width: 68px; height: 64px;"><a href="/inspire/yorkshire-gold" style="overflow: hidden;"><img src="/media/441888/yorkshiregold_logo.jpg"><br><br><br>Yorkshire Gold</a></li></ul><br class="clearBoth"></div><div style="display: inherit"><canvas width="6px" height="6px" style="position:absolute;top:-0px;left:-0px;"></canvas><canvas width="6px" height="6px" style="position:absolute;top:-0px;right:-0px;"></canvas><canvas width="6px" height="6px" style="position:absolute;bottom:-0px;left:-0px;"></canvas><canvas width="6px" height="6px" style="position:absolute;bottom:-0px;right:-0px;"></canvas></div></div>
+
+				<div id="footerNav"><div><ul id="BottomNav"><li><a href="http://www.welcometoyorkshire.net/" target="_blank" title="Information for Yorkshire Tourism Businesses">Industry Information</a> | </li><li><a href="/tourist-information/keeping-yorkshire-special">Keeping Yorkshire Special</a> | </li><li><a href="/accessible-yorkshire">Accessible Yorkshire</a> | </li><li><a href="/disabled-go">DisabledGo</a> | </li><li><a href="/privacy-policy" rel="nofollow">Privacy Policy</a> | </li><li><a href="http://www.venueyorkshire.com/" target="_blank" title="This link will open in a new window">Conferences in Yorkshire</a> | </li><li><a href="/sitemap" rel="nofollow">Site Map</a></li></ul></div><div id="quicklinks"><div class="quicklink-float"><h3><a href="/inspire">BE INSPIRED</a></h3><ul><li><a href="/inspire/indulgence">Indulgence</a></li><li><a href="/inspire/outdoors">Outdoors</a></li><li><a href="/inspire/heritage">Heritage</a></li><li><a href="/inspire/artistic">Artistic</a></li><li><a href="/inspire/sport">Sport</a></li><li><a href="/inspire/family">Family</a></li><li><a href="/inspire/delicious">Delicious</a></li><li><a href="/inspire/city-life">City Life</a></li><li><a href="/inspire/events-and-festivals">Events &amp; Festivals</a></li><li><a href="/inspire/yorkshire-gold">Yorkshire Gold</a></li></ul></div><div class="quicklink-float"><h3><a href="/do">DO</a></h3><ul><li><a href="/do/attractions">Attractions</a></li><li><a href="/do/events">Events</a></li><li><a href="/do/activities">Activities</a></li><li><a href="/do/eat">Eat</a></li><li><a href="/do/shop">Shopping</a></li><li><a href="/do/places">Places</a></li></ul></div><div class="quicklink-float"><h3><a href="/accommodation">ACCOMMODATION</a></h3><ul><li><a href="/accommodation/hotels">Hotels</a></li><li><a href="/accommodation/self-catering">Self Catering</a></li><li><a href="/accommodation/b-and-b-guesthouses">B&amp;B / Guesthouses</a></li><li><a href="/accommodation/camping-and-touring">Camping &amp; Touring</a></li><li><a href="/accommodation/parks-and-lodges">Parks &amp; Lodges</a></li><li><a href="/accommodation/something-different">Hostels / Bunkbarns / Camping barns</a></li><li><a href="/accommodation/accommodation-types">Accomodation Types</a></li><li><a href="/accommodation/accessibility">National Accessible Scheme</a></li></ul></div><div class="quicklink-float"><h3><a href="/join-in">JOIN IN</a></h3><ul><li><a href="/join-in/competition">Competition</a></li><li><a href="/join-in/enewsletter">ENewsletter</a></li><li><a href="/join-in/postcard">Postcard</a></li><li><a href="/join-in/facebook">Facebook</a></li><li><a href="/join-in/twitter">Twitter</a></li><li><a href="/join-in/ringtone">Ringtone</a></li></ul></div><div class="quicklink-float"><h3><a href="/tourist-information">TOURIST INFORMATION</a></h3><ul><li><a href="/tourist-information/magazine">Order our magazine</a></li><li><a href="/tourist-information/transport">Transport</a></li><li><a href="/tourist-information/group-travel">Group Travel</a></li><li><a href="/tourist-information/weather">Weather</a></li><li><a href="/tourist-information/keeping-yorkshire-special">Keeping Yorkshire Special</a></li></ul></div><div class="quicklink-float"><h3><a href="/do/places">PLACES</a></h3><ul><li><a href="/do/places/bradford">Bradford</a></li><li><a href="/do/places/east-yorkshire-yorkshire-wolds">East Yorkshire &amp; Wolds</a></li><li><a href="/do/places/harrogate">Harrogate</a></li><li><a href="/do/places/hull">Hull</a></li><li><a href="/do/places/leeds">Leeds</a></li><li><a href="/do/places/north-york-moors">North York Moors</a></li><li><a href="/do/places/pennine-yorkshire">Pennine Yorkshire</a></li><li><a href="/do/places/south-yorkshire">South Yorkshire</a></li><li><a href="/do/places/wakefield">Wakefield</a></li><li><a href="/do/places/york">York</a></li><li><a href="/do/places/yorkshire-coast">Yorkshire Coast</a></li><li><a href="/do/places/yorkshire-dales">Yorkshire Dales</a></li></ul></div></div><div style="clear:both">&nbsp;</div></div>
 			</div>
-			
-			<div id="Footer"><div id="Inspire"><h3><a href="/inspire">Inspire</a></h3><ul><li class="indulgence"><a href="/inspire/indulgence"><span>Indulgence</span></a></li><li class="outdoors"><a href="/inspire/outdoors"><span>Outdoors</span></a></li><li class="heritage"><a href="/inspire/heritage"><span>Heritage</span></a></li><li class="artistic"><a href="/inspire/artistic"><span>Artistic</span></a></li><li class="sport"><a href="/inspire/sport"><span>Sport</span></a></li><li class="family"><a href="/inspire/family"><span>Family</span></a></li><li class="delicious"><a href="/inspire/delicious"><span>Delicious</span></a></li><li class="citylife"><a href="/inspire/city-life"><span>City Life</span></a></li><li class="gold"><a href="/inspire/yorkshire-gold"><span>Yorkshire Gold</span></a></li></ul></div><div id="BottomNav"><ul><li><a href="/visitor-info/keeping-yorkshire-special">Keeping Yorkshire Special</a>&nbsp;|&nbsp;</li><li><a href="/stay/accessibility-scheme">National Accessible Scheme</a>&nbsp;|&nbsp;</li><li><a href="/disabled-go">DisabledGo</a>&nbsp;|&nbsp;</li><li><a href="#top">Skip to top</a></li></ul><p style="font-size:10px;">Registered Office: Welcome to Yorkshire, Dry Sand Foundry, Foundry Square, Holbeck,<br> Leeds, LS11 5WH (LS11 5QN for SatNav), United Kingdom<br>
-					Company Limited by Guarantee no: 2896762 | VAT No. 170 4702 85</p><ul><li><a href="/copyright">© 2009</a>|&nbsp;</li><li><a href="/privacy-policy">Privacy Policy</a>|&nbsp;</li><li><a href="/terms-and-conditions">Terms &amp; Conditions</a>|&nbsp;</li><li><a href="/sitemap">Site Map</a>|&nbsp;</li><li><a href="http://www.welcometoyorkshire.net/" target="_blank" title="This link will open a new window">For Business</a></li></ul><br><br><ul id="Languages"><li><a href="/"><img alt="English" src="/images/structure/bt-flag-GB.jpg"></a></li><li><a href="/fr"><img alt="Français" src="/images/structure/bt-flag-france.jpg"></a></li><li><a href="http://www.yorkshirevisitor.de/"><img alt="Deutsch" src="/images/structure/bt-flag-germany.jpg"></a></li><li><a href="/it"><img alt="Italiano" src="/images/structure/bt-flag-italy.jpg"></a></li><li><a href="/nl"><img alt="Nederland" src="/images/structure/bt-flag-dutch.jpg"></a></li><li><a href="/be"><img alt="Nederland/Français" src="/images/structure/bt-flag-belgium.jpg"></a></li><li><a href="/es"><img alt="Español" src="/images/structure/bt-flag-spanish.jpg"></a></li><li><a href="/get-to-know-yorkshire"><img alt="한국어" src="/images/structure/Flag_of_South_Korea.jpg"></a></li></ul></div><div id="forward"><a href="http://www.yorkshire-forward.com" target="_blank"><img src="/images/structure/yorkshireforward-logo.jpg" alt="Supported by Yorkshire Forward the region's Development Agency - Link will open a new window" width="67" height="100" border="0"></a></div><div id="Share"><a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]');" onmouseout="addthis_close();" onclick="return addthis_sendto();"><img src="/images/structure/bt-share.gif" alt="Share"></a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"> </script><br clear="all"><a href="http://www.clickyorkshire.com/clicks/click.php?id=1385" target="_blank"><img src="/images/homepage/follow_us_on_twitter.jpg" alt="Follow us on Twitter - twitter.com/visityorkshire - Link will open a new window" align="absmiddle" border="0" vspace="5"></a><a href="http://www.clickyorkshire.com/clicks/click.php?id=1392" target="_blank" title=" - Link will open a new window"><img src="/images/homepage/facebook.gif" alt="Follow us on Facebook" align="absmiddle" border="0" vspace="5" hspace="5"></a><br><div align="center"><a href="http://www.tripadvisor.co.uk/Tourism-g1526974-Yorkshire_England-Vacations.html" target="_blank"><img src="/images/homepage/trip-advisor-logo.gif" alt="TripAdvisor" border="0"></a><br>
-                    Check out what other travellers say<br> about <a href="http://www.tripadvisor.co.uk/Tourism-g1526974-Yorkshire_England-Vacations.html" target="_blank"><strong>Yorkshire</strong></a> on TripAdvisor</div></div></div>
+
+			<div id="footer"><div id="address">
+	Registered Office: Welcome to Yorkshire, Dry Sand Foundry, Foundry Square, Holbeck,
+	Leeds, LS11 5QN, United Kingdom
+	Company Limited by Guarantee no: 2896762 | VAT No. 170 4702 85
+    </div><div id="tripadvisor"><a href="http://www.tripadvisor.co.uk/Tourism-g1526974-Yorkshire_England-Vacations.html"><img src="/images/structure/tripadvisor.png" width="119" height="22" alt="trip advisor"></a><br>Check out what other travellers say about <a target="_blank" href="http://www.tripadvisor.co.uk/Tourism-g1526974-Yorkshire_England-Vacations.html">Yorkshire</a> on TripAdvisor.</div><div id="share"><a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]');" onmouseout="addthis_close();" onclick="return addthis_sendto();"><img src="/images/structure/bt-share.gif" alt="Share"></a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"> </script></div><div id="yorkshireforward"><a href="http://www.yorkshire-forward.com"><img src="/images/structure/yorkshire-forward-logo.jpg" width="62" height="85" alt="Yorkshire Forward"></a></div><div id="facebook"><a href="http://www.clickyorkshire.com/clicks/click.php?id=1392" target="_blank" title=" - Link will open a new window"><img src="/images/structure/facebook.png" width="121" height="40" alt="follow us on facebook"></a></div><div id="twitter"><a href="http://www.clickyorkshire.com/clicks/click.php?id=1385" target="_blank" title=" - Link will open a new window"><img src="/images/structure/twitter.png" width="200" height="108" alt="follow us on twitter"></a></div></div>
 	
 		</div>
 
 	</div>
-<script type="text/javascript">
-<!--
-var TabbedPanels1 = new Spry.Widget.TabbedPanels("TabbedPanels1");
-//-->
-</script>
-	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"> 
-</script><script type="text/javascript">
-_uacct = "UA-2073763-1";
-if(window.location.pathname == '/') {
-	urchinTracker('/home');
-}
-else {
-	urchinTracker();
-}
 
-</script>
+	<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2073763-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
 
 <div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all ui-helper-hidden-accessible"></div></body></html>
