@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pplmotorhomes.com privacy policy that was archived on 2009-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091225074220id_/http%3A//www.pplmotorhomes.com/gotopage/privacy-policy-sales.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pplmotorhomes.com privacy policy that was archived on 2010-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100506002918id_/http%3A//www.pplmotorhomes.com/gotopage/privacy-policy-sales.htm) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -8,9 +8,9 @@
 
 <title>PPL Privacy Policy</title>
 
+<script language="javascript" src="/js/ppl.js"></script>
+<script language="javascript" src="/js/sinc.js"></script>
 <!-- BEGIN Mongoose Metrics Phone Number code -->
-<script>var default_number="8007554775"; var prefix_countrycode="1"; var customer_number_format="2"; var callback_function="loadNumber"; </script>
-<script src="http://www.mongoosemetrics.com/jsfiles/js-correlation/mm-spcprod.js"></script>
 <script type="text/javascript">
 function loadNumber(){
       try{
@@ -20,8 +20,12 @@ function loadNumber(){
       if(tnarray[1]!='1-800-755-4775') {
       	if(mySpans){
       	      for(var i="0"; i<mySpans.length; i++){
-      	            mySpans[i].innerHTML = mySpans[i].innerHTML.replace(/1-800-755-4775/g, tnarray[1]);
-      	            mySpans[i].innerHTML = mySpans[i].innerHTML.replace(/1-713-988-5555/g, tnarray[1]);
+		    if(myspans[i].innerHTML.indexOf('1-800-755-4775')) {
+      	            	mySpans[i].innerHTML = mySpans[i].innerHTML.replace(/1-800-755-4775/g, tnarray[1]);
+		    }
+		    if(myspans[i].innerHTML.indexOf('1-713-988-5555')) {
+      	            	mySpans[i].innerHTML = mySpans[i].innerHTML.replace(/1-713-988-5555/g, tnarray[1]);
+		    }
       	      }
       	};
 	if(headerLocal) {
@@ -41,6 +45,30 @@ function loadNumber(){
 </script>
 <!-- END Mongoose Metrics Phone Number code -->
 
+<!-- Begin Mongoose Metrics Tracking Code -->
+<script type="text/javascript">
+var mm_c = 'aeebaeb376504db3a75f1d611d0292b3';
+var mm_protocol = (("https:" == document.location.protocol) ? "https://" : "http://");
+document.write(unescape("%3Cscript src='" + mm_protocol + "www.mongoosemetrics.com/jsfiles/js-correlation/mm-getvar.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://www.mongoosemetrics.com/jsfiles/js-correlation/mm-getvar.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(getURLVar("ad_type"))
+{
+	var custom1=getURLVar("ad_type");
+}
+<!-- Custom Setup Parameters -->
+var default_number='8007554775'; <!-- 10 Digits Only i.e. 8001234567 -->
+var customer_number_format='2';
+var mm_replace='FALSE';
+var callback_function='loadNumber';
+<!-- Custom Parameters -->
+</script>
+
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='" + mm_protocol + "www.mongoosemetrics.com/jsfiles/js-correlation/mm-control.php%3F" + mm_variables + "' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- End Mongoose Metrics Tracking Code -->
+
 <!-- START Google Analytics Code -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -59,9 +87,9 @@ pageTracker._trackPageview();
 
 
 <link rel="stylesheet" type="text/css" href="/css/master.css">
+
 </head>
 <body onload="getNumber('aeebaeb376504db3a75f1d611d0292b3');">
-
 
 
 <div id="page-container">
@@ -82,9 +110,9 @@ pageTracker._trackPageview();
 	<div id="menu-bar"><img src="/images/menu_bar.jpg">
 		<div id="home-item"><a href="/index.html"><img src="/images/menu_item_home.jpg" onmouseover="this.src='/images/menu_item_home_w_back.jpg'" onmouseout="this.src='/images/menu_item_home.jpg'" onclick="this.src='/images/menu_item_home.jpg'"></a></div>
 		<div id="rvsforsale-item"><a href="/used_rvs_for_sale.htm"><img src="/images/menu_item_rvs_for_sale.jpg" onmouseover="this.src='/images/menu_item_rvs_for_sale_w_back.jpg'" onmouseout="this.src='/images/menu_item_rvs_for_sale.jpg'" onclick="this.src='/images/menu_item_rvs_for_sale.jpg'"></a></div>
-		<div id="sellmyrv-item"><a href="/seller/rv-consignments.htm"><img src="/images/menu_item_sell_my_rv.jpg" onmouseover="this.src='/images/menu_item_sell_my_rv_w_back.jpg'" onmouseout="this.src='/images/menu_item_sell_my_rv.jpg'" onclick="this.src='/images/menu_item_sell_my_rv.jpg'"></a></div>
+		<div id="sellmyrv-item"><a href="/seller/rv-consignment.htm"><img src="/images/menu_item_sell_my_rv.jpg" onmouseover="this.src='/images/menu_item_sell_my_rv_w_back.jpg'" onmouseout="this.src='/images/menu_item_sell_my_rv.jpg'" onclick="this.src='/images/menu_item_sell_my_rv.jpg'"></a></div>
 		<div id="traderv-item"><a href="/seller/trades.htm"><img src="/images/menu_item_trade_rv.jpg" onmouseover="this.src='/images/menu_item_trade_rv_w_back.jpg'" onmouseout="this.src='/images/menu_item_trade_rv.jpg'" onclick="this.src='/images/menu_item_trade_rv.jpg'"></a></div>
-		<div id="parts-item"><a href="/parts/rv_parts_rv_accessories.htm"><img src="/images/menu_item_parts.jpg" onmouseover="this.src='/images/menu_item_parts_w_back.jpg'" onmouseout="this.src='/images/menu_item_parts.jpg'" onclick="this.src='/images/menu_item_parts.jpg'"></a></div>
+		<div id="parts-item"><a href="/parts/rv_parts_rv_accessories.htm"><img src="/images/menu_item_parts_superstore.jpg" onmouseover="this.src='/images/menu_item_parts_superstore_w_back.jpg'" onmouseout="this.src='/images/menu_item_parts_superstore.jpg'" onclick="this.src='/images/menu_item_parts_superstore.jpg'"></a></div>
 		<div id="about-item"><a href="/gotopage/about-ppl-motorhomes.htm"><img src="/images/menu_item_about_ppl.jpg" onmouseover="this.src='/images/menu_item_about_ppl_w_back.jpg'" onmouseout="this.src='/images/menu_item_about_ppl.jpg'" onclick="this.src='/images/menu_item_about_ppl.jpg'"></a></div>
 		<div id="map-item"><a href="/gotopage/map.htm"><img src="/images/menu_item_map.jpg" onmouseover="this.src='/images/menu_item_map_w_back.jpg'" onmouseout="this.src='/images/menu_item_map.jpg'" onclick="this.src='/images/menu_item_map.jpg'"></a></div>
 		<div id="contact-item"><a href="/contact.htm"><img src="/images/menu_item_contact_ppl.jpg" onmouseover="this.src='/images/menu_item_contact_ppl_w_back.jpg'" onmouseout="this.src='/images/menu_item_contact_ppl.jpg'" onclick="this.src='/images/menu_item_contact_ppl.jpg'"></a></div>
@@ -95,6 +123,7 @@ pageTracker._trackPageview();
 	  <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.pplmotorhomes.com"><img border="0" src="//images.scanalert.com/meter/www.pplmotorhomes.com/12.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams"></a>
 	</div>
 	<div id="addthis">
+		<script type="text/javascript">var addthis_config = {  ui_click: true }</script>
 		<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=ppl09"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ppl09"></script>
 	</div>
 	<div id="search">
@@ -113,7 +142,7 @@ pageTracker._trackPageview();
 </div>
 
 <div id="content">
-
+<blockquote>
 <h3><font face="Verdana">What information do we collect?</font></h3>
 <font face="Verdana">We collect information from you when you place an order or fill out a form. <br><br>
 Any of the information we collect from you may be used in one of the following
@@ -237,11 +266,11 @@ Hours: 8:00am - 5:30pm CST Mon-Fri<br>
 <p align="center"><font face="Tahoma" size="2" color="#000000"><b>
 �PPL Motor Homes<br>
 Houston, Texas<br>
-All Rights Reserved, 1997-2009</b></font></p>
+All Rights Reserved, 1997-2010</b></font></p>
 
 
 
-
+</blockquote>
 <div id="footer-image"></div>
 </div>
 </div>
