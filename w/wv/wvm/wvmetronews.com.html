@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wvmetronews.com privacy policy that was archived on 2009-04-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090427132114id_/http%3A//www.wvmetronews.com/main.cfm%3Fcontent%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wvmetronews.com privacy policy that was archived on 2010-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100505081034id_/http%3A//www.wvmetronews.com/main.cfm%3Fcontent%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><script type="text/javascript" src="scripts/cfform.js"></script>
 <script type="text/javascript" src="scripts/masks.js"></script>
@@ -15,12 +15,14 @@
 	
 	<script type="text/javascript" src="scripts/roll.js"></script>	
 	<script type="text/javascript" src="js/prototype.js"></script>
-	<script type="text/javascript" src="js/scriptaculous.js?load=effects"></script><script type="text/javascript" src="https://web.archive.org/web/20090427132114id_/http%3A//www.wvmetronews.com/js/effects.js"></script>
+	<script type="text/javascript" src="js/scriptaculous.js?load=effects"></script><script type="text/javascript" src="https://web.archive.org/web/20100505081034id_/http%3A//www.wvmetronews.com/js/effects.js"></script>
 	<script type="text/javascript" src="js/lightbox.js"></script>
 	<script type="text/javascript" src="js/util-functions.js"></script>
 	<script type="text/javascript" src="js/clear-default-text.js"></script> 
-	<script type="text/javascript" src="http://img.video.ap.org/p/j/apovn.js"></script>
+	
     <script type="text/javascript" src="scripts/virtualpaginate.js"></script>
+    
+    <script type="text/javascript" src="js/dropdowncontent.js"></script>
     
 	<script type="text/javascript" language="JavaScript">	
 		<!--//
@@ -29,6 +31,17 @@
 		}
 		--> 
 	</script>	
+    
+		<script type="text/javascript" language="JavaScript">	
+            <!--//
+            function openHomePopUp(mywindow){ 
+            window.open(mywindow,"New","status=no,toolbar=no,scrollbars=no,left=0,top=0,width=450,height=300,resizable=no");
+            }
+            --> 
+        </script>
+    
+    	    
+    
 	<script language="JavaScript" type="text/javascript">
 		<!--
 		
@@ -76,17 +89,25 @@
 		}
 		--> 
 	</script>	
+	<script type="text/javascript" language="JavaScript">	
+		<!--//
+		function openPlayerOnTheClock(mywindow){ 
+		window.open(mywindow,"New","status=no,toolbar=no,scrollbars=no,left=0,top=0,width=1016,height=653,resizable=no");
+		}
+		--> 
+	</script> 
+    <meta name="google-site-verification" content="RqULKr2eNgia9csTrTrUKC5LKMG3YLO_x6xkiPvGV20">
 
 <script type="text/javascript">
-	if (window.ColdFusion) ColdFusion.required['user']=true;
+	if (window.ColdFusion) ColdFusion.required['email']=true;
 </script>
 
 <script type="text/javascript">
-	if (window.ColdFusion) ColdFusion.required['pass']=true;
+	if (window.ColdFusion) ColdFusion.required['password']=true;
 </script>
 <script type="text/javascript">
 <!--
-    _CF_checkloginForm = function(_CF_this)
+    _CF_checkmyform = function(_CF_this)
     {
         //reset on submit
         _CF_error_exists = false;
@@ -94,17 +115,66 @@
         _CF_error_fields = new Object();
         _CF_FirstErrorField = null;
 
-        //form element user required check
-        if( !_CF_hasValue(_CF_this['user'], "TEXT", false ) )
+        //form element email required check
+        if( _CF_hasValue(_CF_this['email'], "TEXT", false ) )
         {
-            _CF_onError(_CF_this, "user", _CF_this['user'].value, "- Please enter your Username");
+            //form element email 'EMAIL' validation checks
+            if (!_CF_checkEmail(_CF_this['email'].value, true))
+            {
+                _CF_onError(_CF_this, "email", _CF_this['email'].value, "You must enter a valid Email Address.");
+                _CF_error_exists = true;
+            }
+
+        }else {
+            _CF_onError(_CF_this, "email", _CF_this['email'].value, "You must enter a valid Email Address.");
             _CF_error_exists = true;
         }
 
-        //form element pass required check
-        if( !_CF_hasValue(_CF_this['pass'], "PASSWORD", false ) )
+        //form element password required check
+        if( !_CF_hasValue(_CF_this['password'], "PASSWORD", false ) )
         {
-            _CF_onError(_CF_this, "pass", _CF_this['pass'].value, "- Please enter your Password");
+            _CF_onError(_CF_this, "password", _CF_this['password'].value, "You must enter a Password.");
+            _CF_error_exists = true;
+        }
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+
+<script type="text/javascript">
+	if (window.ColdFusion) ColdFusion.required['srchStr']=true;
+</script>
+<script type="text/javascript">
+<!--
+    _CF_checksearchForm = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+        //form element srchStr required check
+        if( !_CF_hasValue(_CF_this['srchStr'], "TEXT", false ) )
+        {
+            _CF_onError(_CF_this, "srchStr", _CF_this['srchStr'].value, "Please enter some text to search on");
             _CF_error_exists = true;
         }
 
@@ -129,17 +199,21 @@
 //-->
 </script>
 </head>
-<body bgcolor="#374046" link="#C00D20" vlink="#C00D20" alink="#C00D20" topmargin="0" bottommargin="0" marginheight="0" marginwidth="0" leftmargin="0" rightmargin="0" onload="MM_preloadImages('images/menu_news_hover.gif','images/menu_sports_hover.gif','images/menu_outdoors_hover.gif','images/menu_weather_hover.gif','images/button_mediacenter_on.gif','images/head_mediacenter.jpg','images/head_news.jpg','images/head_outdoors.jpg','images/head_sports.jpg','images/head_weather.jpg')">
+
+    	<body bgcolor="374046" link="#C00D20" vlink="#C00D20" alink="#C00D20" topmargin="0" bottommargin="0" marginheight="0" marginwidth="0" leftmargin="0" rightmargin="0">
+	
 	<div align="center">
 		<table width="1028" border="0" cellpadding="0" cellspacing="0" height="100%">
 			<tbody><tr>
-				<td width="29" height="1" background="images/bck_left.gif"><img src="images/spacer.gif" width="29" height="1" alt="WVMetroNews - WV News, Talk and Sports Network" border="0"></td>
-				<td width="970" valign="top">
+			
+                <td width="29" height="1" background="images/bck_left.gif"><img src="images/spacer.gif" width="29" height="1" alt="WVMetroNews - WV News, Talk and Sports Network" border="0"></td>
+            
+                <td width="970" valign="top">
 					<table width="970" border="0" cellpadding="0" cellspacing="0" height="100%">
 						<tbody><tr>
 						
-							<td width="970" height="26" valign="top" bgcolor="#ffffff" background="images/bck_sub.gif">
-						
+                            	<td width="970" height="26" valign="top" bgcolor="#ffffff" background="images/bck_sub.gif">
+							
 								
 								
 									
@@ -147,43 +221,65 @@
 									<tbody><tr>
 										<td height="1" width="970" bgcolor="#750408" colspan="4"><img src="images/spacer.gif" width="1" height="1" alt="WVMetroNews - WV News, Talk and Sports Network" border="0"></td>
 									</tr>
+									
+									
 									<tr>
 										
-										<td width="142" height="24" background="images/top_allAccess.gif"><img src="images/spacer.gif" width="142" height="24" alt="WVMetroNews - WV News, Talk and Sports Network" border="0"></td>										
+										<td width="142" height="24" background="images/top_userLogin.gif"><img src="images/spacer.gif" width="142" height="24" alt="WVMetroNews - WV News, Talk and Sports Network" border="0"></td>										
 										
-										<form name="loginForm" id="loginForm" action="verify3.cfm?links=1&amp;filetype=wma" method="POST" onsubmit="return _CF_checkloginForm(this)"></form> <input name="func" id="func" type="hidden" value="postlogin">
-										<td width="828" height="24" background="images/bck_userPass.gif" bgcolor="#3B0208">
-											
-												<table width="100%" height="24" border="0" cellpadding="0" cellspacing="0" bgcolor="#3B0208" background="images/bck_userPass.gif">
-													<tbody><tr>
-														<td width="1" bgcolor="#A8010D"><img src="images/space_top.gif" width="1" height="24" alt="" border="0"></td>
-														<td class="smallTop8Light" align="right" style="padding-left:10px;padding-right:10px;">Username:</td>
-														<td align="center" style="padding-right:10px;"><input name="user" id="user" type="text" class="footerBlack" size="15"></td>
-														<td class="smallTop8Light" align="right" style="padding-left:10px;padding-right:10px;">Password:</td>
-														<td align="center" style="padding-right:10px;"><input name="pass" id="pass" type="password" class="footerBlack" size="15"></td>
-														<td width="10"><input type="image" src="images/button_go.gif"></td>
-														
-															<td width="100%" class="smallTop8Light" align="center" background="images/bck_userPass.gif"><a href="javascript:openwindow3('https://www.wvmetronews.com/password.cfm')" class="smallTop8Light">Forgot Password</a>&nbsp;|&nbsp;<a href="javascript:openwindow3('https://www.wvmetronews.com/allaccess_register.cfm')" class="smallTop8Light">Register</a>&nbsp;|&nbsp;<a href="javascript:openwindow3('allaccess.cfm')" class="smallTop8Light">About AllAccess</a>&nbsp;|&nbsp;<a href="javascript:openwindow3('https://www.wvmetronews.com/allaccess_pre_resubscribe.cfm')" class="smallTop8Light">Resubscribe</a>&nbsp;|&nbsp;<a href="javascript:openwindow3('https://www.wvmetronews.com/changeemail.cfm')" class="smallTop8Light">Change Email</a></td>													
-																												
-													</tr>
-												</tbody></table>													
-																								
+										<form name="myform" id="myform" action="userslogin.cfm" method="POST" onsubmit="return _CF_checkmyform(this)"></form> <input name="func" id="func" type="hidden" value="login"> <input name="step" id="step" type="hidden" value="2">      
+										<td width="828" height="24" background="images/bck_userPass.gif" bgcolor="#3B0208">											
+                                            <table width="100%" height="24" border="0" cellpadding="0" cellspacing="0" bgcolor="#3B0208" background="images/bck_userPass.gif">
+                                                <tbody><tr>
+                                                    <td width="1" bgcolor="#A8010D"><img src="images/space_top.gif" width="1" height="24" alt="" border="0"></td>
+                                                    <td class="smallTop8Light" align="right" style="padding-right:2px;padding-left:14px;">Email:</td>
+                                                    <td align="center"><input name="email" id="email" type="text" class="footerBlack" style="border:1px Solid #666666;" size="20"></td>
+                                                    <td class="smallTop8Light" align="right" style="padding-right:2px;">Password:</td>
+                                                    <td align="center"><input name="password" id="password" type="password" class="footerBlack" style="border:1px Solid #666666;" size="20"></td>
+                                                    <td width="10" align="left"><input name="Submit" id="Submit" type="image" src="images/button_go.gif"></td>
+                                                    <td class="smallTop8Light" width="250" align="left" style="padding-left:10px;"><a href="userslogin.cfm?func=lost" class="smallTop8Light">Lost Password?</a> | <a href="userslogin.cfm?func=register" class="smallTop8Light">Register</a></td>
+                                                    <td class="smallTop8Light" align="right" background="images/bck_userPass.gif">
+                                                        <table height="17" border="0" cellpadding="0" cellspacing="0">
+                                                            <tbody><tr>
+                                                                <td align="right" style="padding-right:10px;"><a href="http://mobile.wvmetronews.com" class="smallTop8Light">MetroNews Mobile</a></td>
+                                                                <td style="padding-right:10px;"><a href="rss.cfm"><img src="images/RSS_39x14.gif" width="39" height="14" alt="Get Our FREE RSS Feeds!" border="0"></a></td>
+                                                                
+                                                            </tr>
+                                                        </tbody></table>                                                             
+                                                    </td>														
+                                                </tr>
+                                            </tbody></table>									
 										</td>
 										
 											<input type="hidden" name="links" value="-1">
 											<input type="hidden" name="filetype" value="wma">
 										
 										
-									</tr>
+									</tr>                                     
+                                    
+                                    
 									<tr>
 										<td height="1" width="970" bgcolor="#750408" colspan="4"><img src="images/spacer.gif" width="1" height="1" alt="WVMetroNews - WV News, Talk and Sports Network" border="0"></td>
 									</tr>
 									
 									<tr>
-										<td width="970" height="92" colspan="4" align="center" background="images/bck_topBanner.gif" style="padding-top:2px;">
-											<a href="click.cfm?adid=642" target="_blank"> 
-							<img src="images/ads/BannerAd_Stonewall_Leaderboard1.jpg" border="0" alt="Ad">
-						</a> 								
+									
+                                    	<td width="970" height="92" colspan="4" align="center" background="images/bck_topBanner.gif" style="padding-top:2px;">
+                                        
+											
+												<table cellpadding="0" cellspacing="0" width="970" border="0">
+													<tbody><tr>
+														<td height="90" align="right" style="padding-right:20px;">
+															
+															<a href="click.cfm?adid=721" target="_blank"> <img src="images/ads/Employers Innovative Network2.jpg" border="0" alt="Ad"></a> 		
+																													
+														</td>
+														<td align="center">
+															<a href="position.cfm"><img src="images/MN_jobs.png" alt="Current Jobs!" border="0"></a>
+														</td>
+													</tr>
+												</tbody></table>
+																			
 										</td>
 									</tr>	
 									
@@ -197,10 +293,20 @@
 													<td width="970" height="100" background="images/head_news.jpg" valign="top" align="right">
 														
 															
-                                                           	 <div style="padding-top:60px;padding-right:35px;" class="mediumDateTime">
-                                                             	Monday, April 27 2009	    
-															</div>
-																	
+                                                                         
+                                                                	<div style="padding-top:20px;padding-right:15px;" class="mediumDateTime">
+                                                                    	<table cellpadding="0" cellspacing="0">
+                                                                        	<tbody><tr>
+                                                                            	<td class="mediumDateTime">Follow Us!</td>
+                                                                                <td class="mediumDateTime" style="padding-left:5px;"><a target="new" href="http://www.facebook.com/album.php?aid=2041262&amp;id=1044537547#!/pages/Morgantown-WV/MetroNews/327490709044" title="Follow Us on Facebook!"><img src="images/iconFACEBOOK.gif" border="0" width="18" height="19"></a> <a href="http://www.twitter.com/MetroNewsSports" target="new" title="Follow Us on Twitter!"><img src="images/iconTWITTER2.gif" border="0" width="20" height="19"></a></td>
+                                                                            </tr>
+                                                                        </tbody></table>
+                                                                        
+                                                                   		<div style="padding-top:20px;">
+	                                                                    	Wednesday, May 05 2010
+	                                                                    </div>
+                                                                    </div>                                                              
+                                                                		
 																													
 														
 																											
@@ -214,6 +320,7 @@
 									<tr>
 										<td height="1" width="970" bgcolor="#000000" colspan="4"><img src="images/spacer.gif" width="1" height="1" alt="WVMetroNews - WV News, Talk and Sports Network" border="0"></td>
 									</tr>	
+
 									
 									
 									
@@ -228,42 +335,58 @@
 									<tr>
 										<td colspan="4" width="970" height="25" bgcolor="#ffffff" valign="top">									
 											<table width="970" height="25" border="0" cellpadding="0" cellspacing="0">	
-												<tbody><tr>
-													<td width="35" height="25"><img src="images/menu_arrow.gif" width="35" height="25" alt="WVMetroNews - WV News, Talk and Sports Network" border="0"></td>
-													<td width="339" height="25" background="images/bck_menu.gif" align="center">
-														<table width="361" height="25" border="0" cellpadding="0" cellspacing="0">	
-															<tbody><tr>
-																<td width="62" height="25"><a href="index.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','images/menu_news_hover.gif',1)"><img name="Image1" src="images/menu_news_off.gif" width="62" height="25" alt="News" border="0"></a></td>
-																<td width="10" background="images/bck_menu_rss.gif"><img src="images/spacer.gif" width="10" height="1" alt="WVMetroNews - WV News, Talk and Sports Network" border="0"></td>
-                                                                <td width="68" height="25"><a href="sports.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','images/menu_sports_hover.gif',1)"><img name="Image2" src="images/menu_sports_off.gif" width="68" height="25" alt="Sports" border="0"></a></td>
-																<td width="10" background="images/bck_menu_rss.gif"><img src="images/spacer.gif" width="10" height="1" alt="WVMetroNews - WV News, Talk and Sports Network" border="0"></td>
-                                                                <td width="90" height="25"><a href="outdoors.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','images/menu_outdoors_hover.gif',1)"><img name="Image3" src="images/menu_outdoors_off.gif" width="90" height="25" alt="Outdoors" border="0"></a></td>
-																
-                                                                <td width="141" height="25" background="images/menu_mediacenter_off.gif"><a href="mediacenter.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','images/button_mediacenter_on.gif',1)"><img name="Image5" src="images/button_mediacenter1.gif" width="141" height="25" alt="WVMetroNews - WV News, Talk and Sports Network" border="0"></a></td>
-															</tr>
-														</tbody></table>
-													</td>
-													
-													
-                                                    <td width="96" height="25" background="images/bck_menu_rss.gif" valign="top" align="left"><a href="rss.cfm"><img src="images/button_rss.gif" width="58" height="25" alt="Get Our FREE RSS Feeds!" border="0"></a></td>
-                                                    <td width="95" height="25" background="images/bck_menu_rss.gif" valign="middle" align="right"><a href="userslogin.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','images/LogIn_on.gif',1)"><img name="Image6" src="images/LogIn_off.gif" width="70" height="16" alt="WVMetroNews - WV News, Talk and Sports Network" border="0"></a></td>
-													<td width="118" background="images/bck_menu_rss.gif" align="center"><a href="userslogin.cfm?func=register" style="color:black;"><b>Register Now!</b></a></td>
-													<td width="1" height="25" bgcolor="#6A7A7D"><img src="images/sep_menu.gif" width="1" height="25" alt="WVMetroNews - WV News, Talk and Sports Network" border="0"></td>
-													
-                                                    <td width="246" height="25" background="images/bck_menu_right.gif" align="center" class="topMenu">
+
+                                            	<tbody><tr>	
+	                                            	<td width="35" height="25"><img src="images/menu_arrow.gif" width="35" height="25" alt="WVMetroNews - WV News, Talk and Sports Network" border="0"></td>
+	                                            	<td height="25" background="images/bck_menu.gif" align="left">
+	                                                	
+															<a href="index.cfm" class="newMenuNoPad">News</a>
+														
+															<a href="sports.cfm" class="newMenuNoPad">Sports</a>
+														
+															<a href="wvu.cfm" class="newMenuNoPad">WVU Sports</a>
+														
+															<a href="outdoors.cfm" class="newMenuNoPad">Outdoors</a>
+														
+															<a href="allaccessview.cfm" class="newMenuNoPad">All Access</a>
+														
+															<a href="mediacenter.cfm" class="newMenuNoPad">Audio/Video</a>
+														
+															<a href="main.cfm?content=affiliates" class="newMenuNoPad">Affiliates</a>
+														
+															<a href="main.cfm?content=adinfo" class="newMenuNoPad">Advertising</a>
+														
+															<a href="about.cfm" class="newMenuNoPad">About</a>
+														
+															<a href="position.cfm" class="newMenuNoPad">Jobs</a>
+														
+															<a href="main.cfm?content=contactus" class="newMenuNoPad">Contact</a>
+														
+															<a href="" id="searchlink" rel="subcontent" class="newMenuNoPad">Search</a>
+														       
+                                                        <div id="subcontent" style="position: absolute; visibility: hidden; border: 1px solid rgb(0, 0, 0); background-color: rgb(204, 204, 204); width: 200px; padding: 8px; top: 0px; left: 0px;">
+                                                             <form name="searchForm" id="searchForm" action="search.cfm" method="post" onsubmit="return _CF_checksearchForm(this)"><input name="func" id="func" type="hidden" value="search"> <input name="goSearch" id="goSearch" type="hidden" value="Yes"> <input name="srchStr" id="srchStr" type="text" size="15"><input name="Submit" id="Submit" type="submit" value="Search" class="hoppyNewsItemHomeLinks2">
+                                                        </form></div>    
+                                                         
+														<script type="text/javascript">
+                                                        //Call dropdowncontent.init("anchorID", "positionString", glideduration, "revealBehavior") at the end of the page:                            
+                                                            dropdowncontent.init("searchlink", "right-bottom", 500, "onClick") 
+                                                        </script>                                                                                                                                                                                                                       
+	                                                </td>
                                                     
-														<a href="main.cfm?content=affiliates" class="topMenu">Affiliates</a>&nbsp;|&nbsp;<a href="main.cfm?content=adinfo" class="topMenu">Advertising</a>&nbsp;|&nbsp;<a href="about.cfm" class="topMenu">About Us</a>
-													</td>
-												</tr>
+	
+	                                                <td height="25" background="images/bck_menu.gif" align="right">
+
+	                                                </td>
+                                                </tr>                                                  
 											</tbody></table>									
 										</td>
 									</tr>	
 
 											
 									
-																			
 									
-										
+                                   
 
 										
 
@@ -354,21 +477,19 @@ Should you have other questions or concerns about these privacy policies, please
 										
 										<div align="center">
 													
-												<a href="click.cfm?adid=625" target="_blank"> 
-							<img src="images/ads/WVFA.jpg" border="0" alt="Ad">
-						</a> 
+												<a href="click.cfm?adid=697" target="_blank"> <img src="images/ads/AttorneyGeneralFraud234.jpg" border="0" alt="Ad"></a> 
 													
 										</div>			
 										
 									
 											<div align="center" style="px;padding-bottom:10px;">
 													
-												
+												<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" width="234" height="200" id="ad"><param name="movie" value="images/ads/elAd1.swf?clickTAG=http://www.wvmetronews.com/click.cfm?adid=687"><param name="quality" value="high"><param name="WMODE" value="opaque"><embed src="images/ads/elAd1.swf?clickTAG=http://www.wvmetronews.com/click.cfm?adid=687" quality="high" width="234" height="200" name="Ad" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="opaque"></object> 
 													
 											</div>		
 											<div align="center" style="px;padding-bottom:10px;">
 													
-												<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" width="234" height="350" id="ad"><param name="movie" value="images/ads/MotownCVB.swf"><param name="quality" value="high"><embed src="images/ads/MotownCVB.swf" quality="high" width="234" height="350" name="Ad" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></object> 
+												
 																																													
 											</div>			
 											
@@ -385,7 +506,7 @@ Should you have other questions or concerns about these privacy policies, please
 											
 											<div align="center" style="padding-top:10px;padding-bottom:10px;">
 													
-												
+												<a href="click.cfm?adid=723" target="_blank"> <img src="images/ads/wvainsure.jpg" border="0" alt="Ad"></a> 
 																																													
 											</div>		
 
@@ -401,7 +522,15 @@ Should you have other questions or concerns about these privacy policies, please
 	</td>
 </tr>							
 
-	
+
+							<tr>
+								<td colspan="4" width="970" valign="top" align="center" bgcolor="#000000">
+									<div align="center" style="padding-top:10px;padding-bottom:10px;">
+										<a href="click.cfm?adid=724" target="_blank"> <img src="images/ads/governmotor copy1.jpg" border="0" alt="Ad"></a> 
+									</div>
+								</td>
+							</tr>	
+								
 														
 						
 						
@@ -411,7 +540,7 @@ Should you have other questions or concerns about these privacy policies, please
 								<table width="970" height="56" border="0" cellpadding="0" cellspacing="0">
 									<tbody><tr>
 										<td width="485" height="56" class="footer" style="padding:10px;" valign="top">
-											© 2009 West Virginia MetroNews Network<br>
+											© 2010 West Virginia MetroNews Network<br>
 											1111 Virginia Street East, Charleston, WV 25301<br>
 											<a href="mailto:info@wvmetronews.com" class="footer">info@wvmetronews.com</a>
 										</td>
@@ -430,11 +559,13 @@ Should you have other questions or concerns about these privacy policies, please
 												
 					</tbody></table>
 				</td>
-				<td width="29" height="1" background="images/bck_right.gif"><img src="images/spacer.gif" width="29" height="1" alt="WVMetroNews" border="0"></td>
+			
+            	<td width="29" height="1" background="images/bck_right.gif"><img src="images/spacer.gif" width="29" height="1" alt="WVMetroNews" border="0"></td>
+            
 			</tr>
 		</tbody></table>
 	</div>
-    
+
 	
 
     
@@ -446,14 +577,20 @@ Should you have other questions or concerns about these privacy policies, please
 	</noscript>
 	<!-- End Quantcast tag -->
 	
-	<script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-    <script type="text/javascript">
-    var pageTracker = _gat._getTracker("UA-5590926-1");
-    pageTracker._trackPageview();
-    </script>
+
+    
+    
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3820665-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+    
     	
 
 
