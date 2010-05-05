@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rainkingonline.com privacy policy that was archived on 2009-11-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091105192529id_/http%3A//www.rainkingonline.com%3Fev%3DPrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rainkingonline.com privacy policy that was archived on 2010-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100506001116id_/http%3A//rainkingonline.com%3Fev%3DPrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" class=" ext-strict"><head><script type="text/javascript">_cf_loadingtexthtml="<img alt=' ' src='/CFIDE/scripts/ajax/resources/cf/images/loading.gif'/>";
 _cf_contextpath="";
@@ -28,6 +28,8 @@ _cf_jsonprefix='//';
 	<title>RainKing - Privacy Policy</title>
 	<link type="text/css" rel="stylesheet" href="v2_css/all.css">
 	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="v2_css/lt7.css" media="screen"/><![endif]-->
+	<script type="text/javascript" src="v2_js/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript" src="v2_js/jquery.main.js"></script>
 
 <script type="text/javascript">
 	ColdFusion.Ajax.importTag('CFAJAXPROXY');
@@ -75,7 +77,30 @@ The site and our service may contain links and pointers to the other related Wor
 
 
 	</div>
-</div> <div class="side-bar">
+</div> <script>
+	function loadWin() {
+		ColdFusion.Window.create(
+			'Window1', 
+			'Request Report',
+        	'v2_views/reportSignup.cfm',
+        		{x:100,
+        		y:100,
+        		height:350,
+        		width:500,
+        		modal:true,
+        		closable:true,
+        		draggable:true,
+        		resizable:true,
+        		center:true,
+        		initshow:true,
+        		minheight:200,
+        		minwidth:200}
+        	)
+	}
+</script>
+
+<div class="side-bar">
+	
 	<div class="heading">
 		<h2>What's New</h2>
 	</div>
@@ -84,11 +109,19 @@ The site and our service may contain links and pointers to the other related Wor
 			<strong>RAINKING</strong>
 			<span class="version"><em>2.0</em></span>
 		</h3>
-		<p>We are putting the final touches on a vastly improved RainKing. Version 2.0 is built to make your marketing and sales efforts even more effective. <a href="/?ev=RainKing-2_0">Read More</a></p>
+		<p>RainKing version 2.0 is now available!  Even more ways to find great leads and projects as well as updated and improved ways to search and organize your data. <a href="/?ev=RainKing-2_0">Read More</a></p>
 		<h3>Prediction Engine</h3>
 		<p>Think "lead scoring" on steroids. You define your ideal prospect, we run your criteria against a powerful, proprietary algorithm. <a href="/?ev=predictionEngine">Read More</a></p>
-		<h3>BIG 50</h3>
-		<p>RainKing has identified the 50 most important companies to our customers — based on size, IT spending and the frequency of database requests. We've built a dedicated, elite research effort to ensure that these firms have the deepest and most intensively updated data and intelligence possible. <a href="/?ev=rkBig50">Read More</a></p>
+		
+		 <h4>RainKing Blackberry App</h4>
+		 <div style="float: right; width: 70px; padding-top: 15px;"><img src="v2_images/bb_app_world.png" width="65"></div>
+		 <div style="float: left; width: 105px;"><p>Download in Blackberry App World from your Blackberry.  Search "RainKing".</p></div>
+		 <br>
+		 <h4 style="clear: both;">RainKing iPhone App</h4>
+		 <div><p>Download in App Store from your iPhone.  Search "RainKing".</p></div>
+		 <img class="iphone" src="v2_images/App_Store_Badge-150x75.png">
+		
+		
 	</div>
 </div>
 			</div>
@@ -100,7 +133,7 @@ The site and our service may contain links and pointers to the other related Wor
 		if (document.loginForm.loginUsername.value == '' || document.loginForm.loginPassword.value == '')
 			alert('Username and password are required to login');
 		else
-			document.loginForm.submit();
+			document.forms[0].submit();
 	}
 	
 	function submitResetPWForm() {
@@ -154,8 +187,10 @@ The site and our service may contain links and pointers to the other related Wor
 
 <div id="header">
 	<div class="user-bar">
+		
 		<div class="user-bar-hold">
-			<form name="loginForm" id="loginForm" action="/RainKingHTML/index.cfm" method="post">
+			
+			<form name="loginForm" action="RainkingHTML/index.cfm" method="post">
 			<div class="f-row">
 				<fieldset>
 					<div class="lbl">Username:</div>
@@ -178,6 +213,7 @@ The site and our service may contain links and pointers to the other related Wor
 	<ul id="navigation">
 		<li><a href="/">Home</a></li>
 		<li><a href="/?ev=Learn_More">About Us</a></li>
+		<li><a href="/?ev=products">Products</a></li>
 		<li><a href="/?ev=Testimonials">Testimonials</a></li>
 		<li><a href="/?ev=How_We_Do_It">How We Do It</a></li>
 		<li><a href="/?ev=Contact_Us">Contact Us</a></li>
@@ -198,7 +234,7 @@ The site and our service may contain links and pointers to the other related Wor
 			<li><a href="/?ev=TermsOfUse">Terms of Use</a></li>
 			<li><a href="/?ev=PrivacyPolicy">Privacy Policy</a></li>
 		</ul>
-		<p>©2009 Rain King Software, Inc. All rights reserved.</p>
+		<p>©2010 Rain King Solutions, Inc. All rights reserved.</p>
 	</div>
 </div>
 
