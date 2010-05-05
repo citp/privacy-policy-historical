@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the amazon.ca privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101194954id_/http%3A//www.amazon.ca/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D918814) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon.ca privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505213612id_/http%3A//www.amazon.ca/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D918814) for the most accurate reproduction.*
 
-# Amazon.ca: Help > Privacy and Security > Amazon.ca Privacy Notice
+# Amazon.ca Help: Amazon.ca Privacy Notice
 
-Vous voulez voir cette page en français ? [Cliquez ici](https://web.archive.org/gp/switch-language/help/customer/display.html?ie=UTF8&nodeId=918814&language=fr_CA). 
+|  **Amazon.ca Privacy Notice**
 
-**Amazon.ca Privacy Notice**
-
- **Last Updated: August 14, 2007** ([Click here](https://web.archive.org/gp/help/customer/display.html?nodeId=200038080) to see what's changed.)
+**Last Updated: August 14, 2007** ([Click here](https://web.archive.org/gp/help/customer/display.html?nodeId=200038080) to see what's changed.)
 
 Amazon.ca knows you care how information about you is used and shared, and we appreciate your trust that we'll do so carefully and sensibly. This notice describes our privacy policy. **By visiting Amazon.ca, you're accepting the practices described in this Privacy Notice.**
 
@@ -22,8 +20,6 @@ Amazon.ca knows you care how information about you is used and shared, and we ap
   * Conditions of Use, Notices, and Revisions
   * Examples of Information Collected
 
-
-
 **What Personal Information About Customers Does Amazon.ca Gather?**
 
 The information we learn from customers helps us personalize and continually improve your shopping experience at Amazon.ca. Here are the types of information we gather.
@@ -33,14 +29,11 @@ The information we learn from customers helps us personalize and continually imp
   * **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Amazon.ca if your computer supports such capabilities. Also, in an effort to avoid sending unnecessary messages to our customers, we compare our customer list to lists received from other companies. If you don't want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://web.archive.org/gp/gss/ccp/). 
   * **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive. 
 
+**What About Cookies?**  
 
-
-**What About Cookies?**
 
   * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser, to enable our systems to recognize your browser and to provide features such as [1-Click](https://web.archive.org/gp/help/customer/display.html?nodeId=918690/) purchasing, personalized greetings, and storage of items in your Shopping Cart between visits. 
   * The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. Because cookies allow you to take advantage of some of Amazon.ca's essential features, we recommend you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to checkout, or use any Amazon.ca products and services that require you to sign in.
-
-
 
 **Does Amazon.ca Share the Information It Receives?**
 
@@ -53,15 +46,12 @@ Information about our customers is an important part of our business, and we're 
   * **Protection of Amazon.ca and Others:** We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our [Conditions of Use](https://web.archive.org/gp/help/customer/display.html?nodeId=918816/) and other agreements; or protect the rights, property, or safety of Amazon.ca, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit-risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
   * **With Your Consent:** Other than as set out above, you'll receive notice when information about you might go to third parties, and you'll have an opportunity to choose not to share the information. 
 
+**How Secure Is Information About Me?**  
 
-
-**How Secure Is Information About Me?**
 
   * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you enter. 
   * We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
   * It's important for you to protect against unauthorized access to your password and your computer. Be sure to sign off when you've finished using a shared computer. [Click here](https://web.archive.org/gp/help/customer/display.html?nodeId=918808/) for more information on how to sign off. 
-
-
 
 **What About Third-Party Advertisers and Links to Other Web sites?**
 
@@ -75,14 +65,13 @@ Amazon.ca also displays targeted advertising based on personal information about
 
 Amazon.ca gives you access to a broad range of information about your account and your interactions with Amazon.ca for the limited purpose of viewing and, in certain cases, updating that information. Click here to see some examples. This list will change as our Web site evolves. 
 
-**What Choices Do I Have?**
+**What Choices Do I Have?**  
+
 
   * As discussed above, you always can choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon.ca features as Customer Reviews and Wish Lists. 
   * You can add or update certain information on pages such as those listed in the "Which Information Can I Access?" section, above. When you update information, we usually keep a copy of the prior version for our records. 
   * If you don't want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://web.archive.org/gp/gss/ccp/). (If you don't want to receive [Conditions of Use](https://web.archive.org/gp/help/customer/display.html?nodeId=918816/) and other legal notices from us, such as this Privacy Notice, those notices still will govern your use of Amazon.ca, and it's your responsibility to review them for changes.) 
   * The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. Because cookies allow you to take advantage of some of Amazon.ca's essential features, we recommend you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to checkout, or use any Amazon.ca products and services that require you to sign in.
-
-
 
 **Are Children Allowed to Use Amazon.ca?**
 
@@ -104,11 +93,9 @@ Related Practices and Information
   * [Amazon.ca Charter of Rights](https://web.archive.org/gp/help/customer/display.html?nodeId=918828/)
   * [Help department](https://web.archive.org/gp/help/customer/display.html?nodeId=915400/)
 
-
-
 **Examples of Information Collected**
 
- **Information You Give Us**
+**Information You Give Us**
 
 You provide most such information when you search, buy, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; make an order; provide information in [Your Account](https://web.archive.org/gp/css/homepage.html/) (and you might have more than one, if you've used more than one e-mail address when shopping with us); communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; compile Wish Lists or other gift registries; and provide and rate reviews. As a result of those actions, you might supply us with such information as your name, address, and telephone number; credit card information; names of people to whom purchases have been shipped, including address and telephone number; names of people (with addresses and telephone numbers) listed in [1-Click](https://web.archive.org/gp/help/customer/display.html?nodeId=918690/) settings; content of reviews and e-mails to us; and financial information.
 
@@ -123,3 +110,5 @@ Examples of information we receive from other sources include updated delivery a
 **Information You Can Access**
 
 Examples of information you can currently access easily at Amazon.ca include up-to-date information regarding recent orders, personally identifiable information (including name, e-mail, password, communications preferences, address book, and 1-Click settings), payment settings (including credit card information, gift certificate, gift card, and check balances), e-mail notification settings, Wish Lists, and recommendations. 
+
+| 
