@@ -1,24 +1,96 @@
-<!--The following is the downloaded HTML source of the applebottoms.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216021416id_/http%3A//www.applebottoms.com/privacy.php%3Fview%3Dlisting%26section%3Dcustservice%26category%3DPrivacy%26category%3DPrivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the applebottoms.com privacy policy that was archived on 2010-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100505133404id_/http%3A//www.applebottoms.com/privacy.php%3Fview%3Dlisting%26section%3Dcustservice%26category%3DPrivacy%26category%3DPrivacy) for the most accurate reproduction.-->
 
-<html><head><script>
+<html><head>
+<title>Apple Bottoms: Customer Service: Privacy Policy: Read Our Online Privacy Policy.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta name="DESCRIPTION" content="Apple Bottoms is a clothing line that caters to females of all shapes and sizes who are trendy and fashion forward.  With stylish and trendy tops, jeans, dresses and jackets; Apple Bottoms stands behind it's creed of The clothes should fit a woman, not the woman fit the clothes.">
+<meta name="KEYWORDS" content="apple bottoms, apple bottom jeans, apple bottom com, apple bottom clothing, nelly apple bottoms, apple bottom clothes, nelly apple bottom jeans, apple bottoms by nelly, nelly apple bottom clothing line, apple bottom clothing line, nellys apple bottoms, apple bottom .com, buy apple bottom jeans, apple bottom shirt, apple bottom jean, apple bottom web site, apple bottom jeans by nelly, apple bottoms womens clothing, apple bottom jeans.com, apple bottoms apparel, apple bottom outfit, apple bottom clothes plus size, apple bottoms web site, apple bottoms store, urban fashion, urban apparel, urban clothing, nelly clothing line"><script type="text/javascript" language="Javascript">
+<!--
 
- preloadDropdownImages();
+var image_server = "nshop";
 
- function preloadDropdownImages() {
- 	
- 	imgArray = ['company','events','photos','downloads','press'];
- 	loadOffImgArray = new Array();
- 	loadOnImgArray = new Array();
- 	
- 	for (var i=0;i < imgArray.length ;i++) {
- 		loadOffImgArray[i] = new Image();
- 		loadOffImgArray[i].src = '/images/backgrounds/' + imgArray[i] + '.gif';
- 		loadOnImgArray[i] = new Image();
- 		loadOnImgArray[i].src = '/images/backgrounds/' + imgArray[i] + '_over.gif';
- 	}
- }
- 
+function checkImage(formIndex)
+{
+	if (document.images['productimage'+formIndex].width < 50)
+		document.images['productimage'+formIndex].src = "/product_images/missing.jpg";
+}
+
+function largeView(formIndex, ext)
+{
+	var query = "?type=img";
+	if(ext == 'dt') {
+		query += "&src="+scene7_dt[formIndex];
+	}
+	else if(ext == 'bk') {
+		query += "&src="+scene7_bk[formIndex];
+	}
+
+	window.open("/nshop/templates/product_popup.php"+query, "detail", "width=520,height=600,top=25,left=25,scrollbars=yes");
+}
+
+	function zoom_view(URL) {
+		day = new Date();
+		id = day.getTime();
+		eval("page" + id + " = window.open('http://idn.efashionsolutions.com/asset/imagesetv3/id/'+URL+'_zoom', '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=400,height=495');");
+	}
+function tellAFriend(productid)
+{
+	var win = window.open("product.php?view=tellafriend&productid="+ productid +"&img="+escape(document.productimage0.src), "detail", "width=300,height=350,scrollbars=no")
+}
+
+function buyOutfit()
+{
+	frm = document.forms['outfitform'];
+
+
+	frm.submit();
+}
+
+
+
+function show_ad_image(image_path,target_image_id)
+{
+	var imageObj = document.getElementById(target_image_id);
+	imageObj.src = image_path;
+}
+
+function standard_popup(href,width,height)
+{
+	window.open(href,'','toolbar=0, location=0, directories=0, menuBar=0, scrollbars=0, resizable=0, width=' + width + ', height=' + height + ', left=50, top=50');
+}
+
+-->
+</script>
+
+<link rel="stylesheet" type="text/css" href="/css/applebottoms.css">
+<link rel="stylesheet" type="text/css" href="/css/lightbox.css" media="screen">
+<!--[if IE]><link rel="stylesheet" href="/css/ie.css" type="text/css" /><![endif]-->
+<link rel="shortcut icon" href="/images/favicon.gif" type="image/x-icon">
+<script type="text/javascript" src="/js/loader.js"></script><script language="JavaScript" src="/js/prototype.js"></script><script language="JavaScript" src="/js/effects.js"></script><script language="JavaScript" src="/js/control.modal.js"></script><script language="JavaScript" src="/js/EFSProto.js"></script><script language="JavaScript" src="/js/behaviour.js"></script><script language="JavaScript" src="/js/eAB.js"></script><script language="JavaScript" src="/js/global.js"></script><script language="JavaScript" src="/js/styles.js"></script><script language="JavaScript" src="/js/overlib.js"></script><script language="JavaScript" src="/js/m.js"></script>
+</head>
+<body>
+
+<div id="divMainWrapper">
+	<!--
+	<center> 		<div style="border-bottom:1px dotted #FFF;color:red;font-size:18px;padding-bottom:5px;width:800px;">
+			FREE SHIPPING OVER $125 TODAY ONLY! <a style="color:red;" href="/shipping_text.php" class="modal" id="shipping" >click for details</a>
+		</div>
+		
+		<script type="text/javascript">
+			new Control.Modal('shipping',{iframe: true, width: 550, height: 200});
+		</script>
+		
+		<style>
+			#modal_overlay { background-color:#000; }
+			#modal_container { background-color:#000; border:1px solid #FFF; }
+		</style>
+	</center>
+	-->
+
+	
+
+<script>
  function checkMouseEnter (element, evt) {
   if (element.contains && evt.fromElement) {
     return !element.contains(evt.fromElement);
@@ -48,382 +120,155 @@ function containsDOM (container, containee) {
   return isParent;
 }
 </script>
+<!--[if IE 6]>
+<style>
+.submenuTop{background:url(/images/2009_summer/global/ie6_submenu_b_top.gif) no-repeat;}
+.submenuMid{background:url(/images/2009_summer/global/ie6_submenu_b_mid.gif) repeat-y;}
+.submenuBottom{background:url(/images/2009_summer/global/ie6_submenu_b_bottom.gif) no-repeat;}
+.submenuCTop{background:url(/images/2009_summer/global/ie6_submenu_c_top.gif) no-repeat;}
+.submenuCMid{background:url(/images/2009_summer/global/ie6_submenu_c_mid.gif) repeat-y;}
+.submenuCBottom{background:url(/images/2009_summer/global/ie6_submenu_c_bottom.gif) no-repeat;}
+a#lifestyle_company{background:url(/images/2009_summer/global/lifestyle_company.gif) no-repeat;}
+a#lifestyle_company:hover, a#lifestyle_company.active{background:url(/images/2009_summer/global/on_lifestyle_company.gif) no-repeat;}
 
-<title>Apple Bottoms</title>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<meta name="DESCRIPTION" content="Apple Bottoms is a clothing line that caters to females of all shapes and sizes who are trendy and fashion forward.  With stylish and trendy tops, jeans, dresses and jackets; Apple Bottoms stands behind it’s creed of The clothes should fit a woman, not the woman fit the clothes.">
-<meta name="KEYWORDS" content="apple bottoms, apple bottom jeans, apple bottom com, apple bottom clothing, nelly apple bottoms, apple bottom clothes, nelly apple bottom jeans, apple bottoms by nelly, nelly apple bottom clothing line, apple bottom clothing line, nellys apple bottoms, apple bottom .com, buy apple bottom jeans, apple bottom shirt, apple bottom jean, apple bottom web site, apple bottom jeans by nelly, apple bottoms womens clothing, apple bottom jeans.com, apple bottoms apparel, apple bottom outfit, apple bottom clothes plus size, apple bottoms web site, apple bottoms store, urban fashion, urban apparel, urban clothing, nelly clothing line"><script type="text/javascript" language="Javascript">
-<!--
+a#lifestyle_events{background:url(/images/2009_summer/global/lifestyle_events.gif) no-repeat;}
+a#lifestyle_events:hover, a#lifestyle_events.active{background:url(/images/2009_summer/global/on_lifestyle_events.gif) no-repeat;}
 
-var image_server = "/product_images/";
+a#lifestyle_photos{background:url(/images/2009_summer/global/lifestyle_photos.gif) no-repeat;}
+a#lifestyle_photos:hover, a#lifestyle_photos.active{background:url(/images/2009_summer/global/on_lifestyle_photos.gif) no-repeat;}
 
-function checkImage(formIndex) 
-{
-	if (document.images['productimage'+formIndex].width < 50)
-		document.images['productimage'+formIndex].src = "/product_images/missing.jpg";
-}
-	
-function largeView(formIndex, ext) 
-{
-	var query = "?type=img";
-	if(ext == 'dt') {
-		query += "&src="+scene7_dt[formIndex];
-	}
-	else if(ext == 'bk') {
-		query += "&src="+scene7_bk[formIndex];
-	}
-	
-	window.open("/nshop/templates/product_popup.php"+query, "detail", "width=520,height=600,top=25,left=25,scrollbars=yes");
-}
-function zoom_view(t,obj)
-{
-		obj.blur();
-		//document.write("http://s7ondemand1.scene7.com/s7ondemand/zoom/flasht_zoom.jsp?company=eFashion&sku=BP-M2A00005_247_zoom&config=ImageSetConfigDefaults&zoomheight=520&windowtitle="+t,null);
-		window.open("http://s7ondemand1.scene7.com/s7ondemand/zoom/flasht_zoom.jsp?company=eFashion&sku="+t+"_zoom&config=ImageSetConfigDefaults&zoomheight=520&windowtitle="+t,null,"width=455,height=550,scrollbars=no");
-		return false;
-}
-function tellAFriend(productid) 
-{
-	var win = window.open("product.php?view=tellafriend&productid="+ productid +"&img="+escape(document.productimage0.src), "detail", "width=300,height=350,scrollbars=no")
-}
+a#lifestyle_downloads{background:url(/images/2009_summer/global/lifestyle_downloads.gif) no-repeat;}
+a#lifestyle_downloads:hover, a#lifestyle_downloads.active{background:url(/images/2009_summer/global/on_lifestyle_downloads.gif) no-repeat;}
 
-function buyOutfit()
-{
-	frm = document.forms['outfitform'];
-	
+a#lifestyle_press{background:url(/images/2009_summer/global/lifestyle_press.gif) no-repeat;}
+a#lifestyle_press:hover, a#lifestyle_press.active{background:url(/images/2009_summer/global/on_lifestyle_press.gif) no-repeat;}
+</style>
+<![endif]--><div id="lifestyleDropdown" style="display:none;" onmouseout="if (checkMouseLeave(this,event)) {return slide('lifestyleDropdown');}">
 
-	frm.submit();
-}
-
-
-
-function show_ad_image(image_path,target_image_id)
-{
-	var imageObj = document.getElementById(target_image_id);
-	imageObj.src = image_path;
-}
-
-function standard_popup(href,width,height)
-{
-	window.open(href,'','toolbar=0, location=0, directories=0, menuBar=0, scrollbars=0, resizable=0, width=' + width + ', height=' + height + ', left=50, top=50');	
-}
-
--->
-</script>
-<link rel="stylesheet" type="text/css" href="/css/applebottoms.css">
-<link rel="stylesheet" type="text/css" href="/css/lightbox.css" media="screen">
-<link rel="shortcut icon" href="/images/favicon.gif" type="image/x-icon">
-<script type="text/javascript" src="/js/loader.js"></script><script language="JavaScript" src="/js/prototype.js"></script><script language="JavaScript" src="/js/effects.js"></script><script language="JavaScript" src="/js/control.modal.js"></script><script language="JavaScript" src="/js/EFSProto.js"></script><script language="JavaScript" src="/js/behaviour.js"></script><script language="JavaScript" src="/js/eAB.js"></script><script language="JavaScript" src="/js/global.js"></script><script language="JavaScript" src="/js/styles.js"></script><script language="JavaScript" src="/js/overlib.js"></script><script language="JavaScript" src="/js/m.js"></script>
-<script type="text/javascript" src="/js/effects.js"></script>
-</head>
-<body>
-	 
-
- 
-<div id="divMainWrapper">
-<div style="position:absolute;top:0px;left:402px;">
-
-<script type="text/javascript" charset="utf-8">
-
-	if(typeof Prototype=='undefined' || typeof Effect=='undefined') {
-		var hide_selects_for_hs_slider = function(action) {
-				var selects = document.getElementsByTagName('select');
-				$A(selects).each(function(element) {
-					if(action == 'hide') {
-						element.style.display = 'none';
-					} else {
-						element.style.display = '';
-					}
-				});
-			};
-		var slideHS = function() {
-			var dur = .5;
-				var open = 'CLICK HERE';
-				var close = 'CLICK HERE';
-			if($('holidayShipContent').style.display == 'none') {
-				document.getElementById('holidayShipContent').style.display = 'block';
-				hide_selects_for_hs_slider('hide');
-				$('opensliderHS').innerHTML = close;
-			} else {
-				hide_selects_for_hs_slider('show');
-				document.getElementById('holidayShipContent').style.display = 'none';
-				$('opensliderHS').innerHTML = open;
-			}
-			return false;
-		};	
-	}else{
-		var hide_selects_for_hs_slider = function(action) {
-				var selects = document.getElementsByTagName('select');
-				$A(selects).each(function(element) {
-					if(action == 'hide') {
-						element.style.display = 'none';
-					} else {
-						element.style.display = '';
-					}
-				});
-			};
-		var slideHS = function() {
-			var dur = .5;
-				var open = 'CLICK HERE';
-				var close = 'CLICK HERE';
-			if($('holidayShipContent').style.display == 'none') {
-				new Effect.SlideDown('holidayShipContent', { duration : dur})
-				hide_selects_for_hs_slider('hide');
-				$('opensliderHS').innerHTML = close;
-			} else {
-				hide_selects_for_hs_slider('show');
-				new Effect.SlideUp('holidayShipContent', { duration : dur})
-				$('opensliderHS').innerHTML = open;
-			}
-			return false;
-		};
-	}
-
-</script>
-<div id="holidayShip">
-	<div id="holidayShipContent" style="display:none">
-		<div id="HSitems"><br>
-			<h1>HOLIDAY SHIPPING SCHEDULE</h1>
-			
-				
-			<strong>UPS GROUND*</strong><br>
-			ORDERS MUST BE PLACED BY 2PM EST.<br>
-			DECEMBER 19TH NATIONALLY
-			<br><br>
-						
-			
-			
-			
-						<strong>3 DAY PRIORITY*</strong><br>
-			ORDERS MUST BE PLACED BY 2PM EST.<br>
-			DECEMBER 21ST NATIONALLY
-			<br><br>
-						
-			
-			
-						<strong>2 DAY EXPRESS SHIPPING*</strong><br>
-			ORDERS MUST BE PLACED BY 2PM EST.<br>
-			DECEMBER 22ND NATIONALLY (GUARANTEED)
-			
-			<br><br>
-						
-			
-						
-			<strong>UPS NEXT DAY AIR*</strong><br>
-			ORDERS MUST BE PLACED BY 2PM EST.<br>
-			DECEMBER 23RD NATIONALLY (GUARANTEED)
-						
-			<hr>
-			
-			*UPS Next Day Air is guaranteed to be received by December 24th.
-			<br><br>
-		</div>
-		<div id="HSclose"><a href="#" onclick="return slideHS();" style="font-size:10px; color:#000000;text-align:right;">CLOSE X</a></div>
-	</div>
-</div><div id="holidayBanner">GET YOUR GIFTS ON TIME!  <a id="opensliderHS" onclick="return slideHS();" href="#">CLICK HERE</a> TO VIEW THE HOLIDAY SHIPPING SCHEDULE</div>
-</div>
-
-<script type="text/javascript" charset="utf-8">
-
-			var slide = function() {
-				var dur = .5;
-				var open = '<img src="/images/backgrounds/clrSpace.gif" height="60" width="115">';
-				var close = '<img src="/images/backgrounds/clrSpace.gif" height="60" width="115">';
-				if($('socontent').style.display == 'none') {
-					new Effect.SlideDown('socontent', { duration : dur})
-					$('openslider').innerHTML = close;
-				} else {
-					new Effect.SlideUp('socontent', { duration : dur})
-					$('openslider').innerHTML = open;
-				}
-				return false;
-			};
-		</script>
-		<!--comment-->
-<div id="divTopWrapper">
-<div id="divLogo"><a href="/shop.php"><img src="/images/logo_0608.jpg" alt="" border="0"></a></div>
-<div id="divCustomerMenu">
-	<ul>
-		<li><a href="/custservice.php?view=listing&amp;section=custservice&amp;category=Faqs">customer service</a></li>
-		<li><a href="tracking.php">order status</a></li>
-		<li><a href="/nshop/account.php">my account</a></li>
-		<li class="cart"><a href="/nshop/shopcart.php" class="cart">shopping cart (0)</a></li>
-	</ul>
-</div>
-<div id="divTopNavMenus" style="z-index:999999;">
-
-	<a id="navWomen" href="/nshop/product.php?view=listing&amp;section=shopwomen&amp;category=Jeans&amp;groupName=Jeans"><img src="/images/backgrounds/spacer.gif"></a>
-	<a id="navPlus" href="/nshop/product.php?view=listing&amp;section=womenplus&amp;category=Jeans&amp;groupName=PJeansPants"><img src="/images/backgrounds/spacer.gif"></a>
-	<a id="navGirls" href="/landing/index.php?dept=girls"><img src="/images/backgrounds/spacer.gif"></a>
-	<a id="navAcc" href="/nshop/product.php?view=listing&amp;section=accessories&amp;groupName=Handbags&amp;dept=accessories&amp;category=Handbags"><img src="/images/backgrounds/spacer.gif"></a>
-	<a id="navFootwear" href="/nshop/product.php?view=listing&amp;section=footwear&amp;category=footwear&amp;groupName=Footwear"><img src="/images/backgrounds/spacer.gif"></a>
-    <a id="navGiftGuide" href="/landing/?dept=giftguide&amp;section=giftguide"><img src="/images/backgrounds/spacer.gif"></a>	
-	<a id="navLifestyle" href="http://www.applebottoms.com/" target="_blank"><img src="/images/backgrounds/spacer.gif" onmouseover="if (checkMouseEnter(this,event)) {document.getElementById('lifestyleDropdown').style.display='';}"></a>
-
-	<a id="navVip" href="/maillist.php?view=maillist&amp;dept=maillist&amp;category=maillist"><img src="/images/backgrounds/spacer.gif"></a>
-	<a class="navSpecialOffer" href="#" onclick="return slide();" id="openslider"><img src="/images/backgrounds/spacer.gif"></a>
-	<div id="sodd"><div id="lifestyleDropdown" style="position: absolute;left: 436px;width: 83;display: none;margin-top: -58px;">
-	                       <table cellpadding="0" cellspacing="0" onmouseout="if (checkMouseLeave(this,event)) {document.getElementById('lifestyleDropdown').style.display='none';}">
-	                         <tbody><tr><td><a href="http://lifestyle.applebottoms.com/" target="_blank"><img src="/images/backgrounds/lifestyle_over.gif" border="0"></a></td></tr> 
-	                         <tr><td><a href="http://lifestyle.applebottoms.com/company.asp" target="_blank"><img id="company_id" src="/images/backgrounds/company.gif" border="0" onmouseout="document.getElementById('company_id').src='/images/backgrounds/company.gif'" onmouseover="document.getElementById('company_id').src='/images/backgrounds/company_over.gif'"></a></td></tr>
-	                         <tr><td><a href="http://lifestyle.applebottoms.com/whats_good.asp" target="_blank"><img id="events_id" src="/images/backgrounds/events.gif" border="0" onmouseout="document.getElementById('events_id').src='/images/backgrounds/events.gif'" onmouseover="document.getElementById('events_id').src='/images/backgrounds/events_over.gif'"></a></td></tr>
-	                         <tr><td><a href="http://lifestyle.applebottoms.com/photos.asp" target="_blank"><img id="photos_id" src="/images/backgrounds/photos.gif" border="0" onmouseout="document.getElementById('photos_id').src='/images/backgrounds/photos.gif'" onmouseover="document.getElementById('photos_id').src='/images/backgrounds/photos_over.gif'"></a></td></tr>
-	                         <tr><td><a href="http://lifestyle.applebottoms.com/get_it_poppin.asp" target="_blank"><img id="downloads_id" src="/images/backgrounds/downloads.gif" border="0" onmouseout="document.getElementById('downloads_id').src='/images/backgrounds/downloads.gif'" onmouseover="document.getElementById('downloads_id').src='/images/backgrounds/downloads_over.gif'"></a></td></tr>
-	                         <tr><td><a href="http://lifestyle.applebottoms.com/press.asp" target="_blank"><img id="press_id" src="/images/backgrounds/press.gif" border="0" onmouseout="document.getElementById('press_id').src='/images/backgrounds/press.gif'" onmouseover="document.getElementById('press_id').src='/images/backgrounds/press_over.gif'"></a></td></tr>
+                       <table cellpadding="0" cellspacing="0">
+							<tbody><tr><td class="submenuTop">
+								<a href="http://lifestyle.applebottoms.com/company.asp" target="_blank" id="lifestyle_company"><img src="/images/spacer.gif" style="width:88px;height:20px;" border="0"></a>
+							</td></tr>
+							<tr><td class="submenuMid">
+								<a href="http://lifestyle.applebottoms.com/whats_good.asp" target="_blank" id="lifestyle_events"><img src="/images/spacer.gif" style="width:88px;height:20px;" border="0"></a>
+							</td></tr>
+							<tr><td class="submenuMid">
+								<a href="http://lifestyle.applebottoms.com/photos.asp" target="_blank" id="lifestyle_photos"><img src="/images/spacer.gif" style="width:88px;height:20px;" border="0"></a>
+							</td></tr>
+							<tr><td class="submenuMid">
+								<a href="http://lifestyle.applebottoms.com/press.asp" target="_blank" id="lifestyle_press"><img src="/images/spacer.gif" style="width:88px;height:20px;" border="0"></a>
+							</td></tr>
+							<tr><td class="submenuBottom"></td></tr>
 	                       </tbody></table>
-	                       </div><div id="socontent" style="display:none;"><table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color:#ff2702;font-size:11px;">Receive Logo Tank Top With Orders Over $125<br></td>	</tr>	<tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color: #FFF;font-size:11px;">Prices as Marked. Limited Time Offer.</td>	</tr>	<tr>		<td style="padding:0 0 0 10px;color:#F895AC;font-size:9px;"><a href="/product.php?view=listing&amp;section=shopwomen&amp;category=Jeans&amp;groupName=Jeans" style="color:#A37600;font-size:9px;text-decoration:underline; padding:0px; margin:0px;">Shop Now&gt;</a></td>
-	</tr></tbody></table><hr style="border:0px;background-color:#A37600;height:1px;color:#C9BAA3;width:92%;margin:-5px auto;" align="center"><table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color:#ff2702;font-size:11px;">Girls Outfits Now $29-$34<br></td>	</tr>	<tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color: #FFF;font-size:11px;">Prices as Marked. Limited Time Offer.</td>	</tr>	<tr>		<td style="padding:0 0 0 10px;color:#F895AC;font-size:9px;"><a href="/nshop/product.php?view=listing&amp;groupName=abgirlsoutfit&amp;both=yes" style="color:#A37600;font-size:9px;text-decoration:underline; padding:0px; margin:0px;">Shop now</a></td>
-	</tr></tbody></table><hr style="border:0px;background-color:#A37600;height:1px;color:#C9BAA3;width:92%;margin:-5px auto;" align="center"><table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color:#ff2702;font-size:11px;">FREE lip gloss with Every $50 Girls Purchase<br></td>	</tr>	<tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color: #FFF;font-size:11px;">Prices as Marked. Limited Time Offer.</td>	</tr>	<tr>		<td style="padding:0 0 0 10px;color:#F895AC;font-size:9px;"><a href="/product.php?view=listing&amp;section=girls&amp;category=toddlers&amp;groupName=todtops" style="color:#A37600;font-size:9px;text-decoration:underline; padding:0px; margin:0px;">Shop Now&gt;</a></td>
-	</tr></tbody></table><hr style="border:0px;background-color:#A37600;height:1px;color:#C9BAA3;width:92%;margin:-5px auto;" align="center"><table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color:#ff2702;font-size:11px;">30% Off Womens Items<br></td>	</tr>	<tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color: #FFF;font-size:11px;">Prices as Marked. Limited Time Offer.</td>	</tr>	<tr>		<td style="padding:0 0 0 10px;color:#F895AC;font-size:9px;"><a href="/nshop/product.php?view=listing&amp;section=shopwomen&amp;category=outerwear&amp;groupName=outerwear" style="color:#A37600;font-size:9px;text-decoration:underline; padding:0px; margin:0px;">Shop Now&gt;</a></td>
-	</tr></tbody></table><hr style="border:0px;background-color:#A37600;height:1px;color:#C9BAA3;width:92%;margin:-5px auto;" align="center"><table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color:#ff2702;font-size:11px;">Womens Plus Holiday Dress $74.90<br></td>	</tr>	<tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color: #FFF;font-size:11px;">Prices as Marked. Limited Time Offer.</td>	</tr>	<tr>		<td style="padding:0 0 0 10px;color:#F895AC;font-size:9px;"><a href="/nshop/product.php?view=keyword&amp;dept=keyword+search&amp;groupName=keyword&amp;keyword=AB-AHB-8223Z_JET&amp;search_btn.x=122&amp;search_btn.y=12" style="color:#A37600;font-size:9px;text-decoration:underline; padding:0px; margin:0px;">Shop Now&gt;</a></td>
-	</tr></tbody></table><hr style="border:0px;background-color:#A37600;height:1px;color:#C9BAA3;width:92%;margin:-5px auto;" align="center"><table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color:#ff2702;font-size:11px;">Womens Plus Sweater Sale $44.90<br></td>	</tr>	<tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color: #FFF;font-size:11px;">Prices as Marked. Limited Time Offer.</td>	</tr>	<tr>		<td style="padding:0 0 0 10px;color:#F895AC;font-size:9px;"><a href="/nshop/product.php?view=listing&amp;section=womenplus&amp;category=HoodiesandSweats&amp;groupName=Pactivewear" style="color:#A37600;font-size:9px;text-decoration:underline; padding:0px; margin:0px;">Shop Now&gt;</a></td>
-	</tr></tbody></table><hr style="border:0px;background-color:#A37600;height:1px;color:#C9BAA3;width:92%;margin:-5px auto;" align="center"><table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color:#ff2702;font-size:11px;">30% Off Girls Items<br></td>	</tr>	<tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color: #FFF;font-size:11px;">Prices as Marked. Limited Time Offer.</td>	</tr>	<tr>		<td style="padding:0 0 0 10px;color:#F895AC;font-size:9px;"><a href="/nshop/product.php?view=listing&amp;section=girls&amp;category=Girls7-16&amp;groupName=716tops" style="color:#A37600;font-size:9px;text-decoration:underline; padding:0px; margin:0px;">Shop Now&gt;</a></td>
-	</tr></tbody></table><hr style="border:0px;background-color:#A37600;height:1px;color:#C9BAA3;width:92%;margin:-5px auto;" align="center"><table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color:#ff2702;font-size:11px;">15% Off Boots &amp; Pumps<br></td>	</tr>	<tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color: #FFF;font-size:11px;">Prices as Marked. Limited Time Offer.</td>	</tr>	<tr>		<td style="padding:0 0 0 10px;color:#F895AC;font-size:9px;"><a href="/nshop/product.php?view=listing&amp;section=footwear&amp;category=footwear&amp;groupName=Boot" style="color:#A37600;font-size:9px;text-decoration:underline; padding:0px; margin:0px;">Shop Now&gt;</a></td>
-	</tr></tbody></table><hr style="border:0px;background-color:#A37600;height:1px;color:#C9BAA3;width:92%;margin:-5px auto;" align="center"><table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color:#ff2702;font-size:11px;">25% Off All Handbags<br></td>	</tr>	<tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color: #FFF;font-size:11px;">Prices as Marked. Limited Time Offer.</td>	</tr>	<tr>		<td style="padding:0 0 0 10px;color:#F895AC;font-size:9px;"><a href="/nshop/product.php?view=listing&amp;section=accessories&amp;groupName=Handbags&amp;dept=accessories&amp;category=Handbags" style="color:#A37600;font-size:9px;text-decoration:underline; padding:0px; margin:0px;">Shop Now&gt;</a></td>
-	</tr></tbody></table><hr style="border:0px;background-color:#A37600;height:1px;color:#C9BAA3;width:92%;margin:-5px auto;" align="center"><table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color:#ff2702;font-size:11px;">Jewelry Sale $14.90<br></td>	</tr>	<tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color: #FFF;font-size:11px;">Prices as Marked. Limited Time Offer.</td>	</tr>	<tr>		<td style="padding:0 0 0 10px;color:#F895AC;font-size:9px;"><a href="/nshop/product.php?view=listing&amp;groupName=AB14.90Jewelry&amp;userboth=yes" style="color:#A37600;font-size:9px;text-decoration:underline; padding:0px; margin:0px;">Shop Now&gt;</a></td>
-	</tr></tbody></table><hr style="border:0px;background-color:#A37600;height:1px;color:#C9BAA3;width:92%;margin:-5px auto;" align="center"><table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color:#ff2702;font-size:11px;">20% Off Previously Reduced Clearance<br></td>	</tr>	<tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color: #FFF;font-size:11px;">Prices as Marked. Limited Time Offer.</td>	</tr>	<tr>		<td style="padding:0 0 0 10px;color:#F895AC;font-size:9px;"><a href="/nshop/product.php?view=listing&amp;section=shopwomen&amp;category=Sale&amp;groupName=saletops" style="color:#A37600;font-size:9px;text-decoration:underline; padding:0px; margin:0px;">Shop Now&gt;</a></td>
-	</tr></tbody></table><hr style="border:0px;background-color:#A37600;height:1px;color:#C9BAA3;width:92%;margin:-5px auto;" align="center"><table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color:#ff2702;font-size:11px;">Womens Active Jackets $44.90<br></td>	</tr>	<tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color: #FFF;font-size:11px;">Prices as Marked. Limited Time Offer.</td>	</tr>	<tr>		<td style="padding:0 0 0 10px;color:#F895AC;font-size:9px;"><a href="/nshop/product.php?view=listing&amp;section=shopwomen&amp;category=Hoodies&amp;groupName=JHoodiesandSweats" style="color:#A37600;font-size:9px;text-decoration:underline; padding:0px; margin:0px;">Shop Now&gt;</a></td>
-	</tr></tbody></table><hr style="border:0px;background-color:#A37600;height:1px;color:#C9BAA3;width:92%;margin:-5px auto;" align="center"><table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color:#ff2702;font-size:11px;">15% Off Entire Order<br></td>	</tr>	<tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color: #FFF;font-size:11px;">Prices as Marked. Limited Time Offer.</td>	</tr>	<tr>		<td style="padding:0 0 0 10px;color:#F895AC;font-size:9px;"><a href="/nshop/product.php?view=listing&amp;section=shopwomen&amp;category=outerwear&amp;groupName=outerwear" style="color:#A37600;font-size:9px;text-decoration:underline; padding:0px; margin:0px;">Shop Now&gt;</a></td>
-	</tr></tbody></table><hr style="border:0px;background-color:#A37600;height:1px;color:#C9BAA3;width:92%;margin:-5px auto;" align="center"><table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color:#ff2702;font-size:11px;">Infant Crib Shoes Only $19.50<br></td>	</tr>	<tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color: #FFF;font-size:11px;">Prices as Marked. Limited Time Offer.</td>	</tr>	<tr>		<td style="padding:0 0 0 10px;color:#F895AC;font-size:9px;"><a href="/nshop/product.php?view=listing&amp;groupName=GirlsFootwear&amp;dept=&amp;section=girls&amp;page=1&amp;category=footwear" style="color:#A37600;font-size:9px;text-decoration:underline; padding:0px; margin:0px;">Shop Now&gt;</a></td>
-	</tr></tbody></table><hr style="border:0px;background-color:#A37600;height:1px;color:#C9BAA3;width:92%;margin:-5px auto;" align="center"><table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color:#ff2702;font-size:11px;">Charm Bracelets Only $20<br></td>	</tr>	<tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color: #FFF;font-size:11px;">Prices as Marked. Limited Time Offer.</td>	</tr>	<tr>		<td style="padding:0 0 0 10px;color:#F895AC;font-size:9px;"><a href="/nshop/product.php?view=listing&amp;section=accessories&amp;category=Jewelry&amp;groupName=Bracelets" style="color:#A37600;font-size:9px;text-decoration:underline; padding:0px; margin:0px;">Shop Now&gt;</a></td>
-	</tr></tbody></table><hr style="border:0px;background-color:#A37600;height:1px;color:#C9BAA3;width:92%;margin:-5px auto;" align="center"><table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color:#ff2702;font-size:11px;">3 Piece Infant Gift Set $34.50<br></td>	</tr>	<tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color: #FFF;font-size:11px;">Prices as Marked. Limited Time Offer.</td>	</tr>	<tr>		<td style="padding:0 0 0 10px;color:#F895AC;font-size:9px;"><a href="/nshop/product.php?view=listing&amp;section=girls&amp;category=Infants&amp;groupName=InfantsSets" style="color:#A37600;font-size:9px;text-decoration:underline; padding:0px; margin:0px;">Shop Now&gt;</a></td>
-	</tr></tbody></table><hr style="border:0px;background-color:#A37600;height:1px;color:#C9BAA3;width:92%;margin:-5px auto;" align="center"><table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color:#ff2702;font-size:11px;">Wallets Only $14.50<br></td>	</tr>	<tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color: #FFF;font-size:11px;">Prices as Marked. Limited Time Offer.</td>	</tr>	<tr>		<td style="padding:0 0 0 10px;color:#F895AC;font-size:9px;"><a href="/nshop/product.php?view=listing&amp;section=accessories&amp;category=Handbags&amp;groupName=Wallets" style="color:#A37600;font-size:9px;text-decoration:underline; padding:0px; margin:0px;">Shop Now&gt;</a></td>
-	</tr></tbody></table><hr style="border:0px;background-color:#A37600;height:1px;color:#C9BAA3;width:92%;margin:-5px auto;" align="center"><table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color:#ff2702;font-size:11px;">Womens Tees $24.50<br></td>	</tr>	<tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color: #FFF;font-size:11px;">Prices as Marked. Limited Time Offer.</td>	</tr>	<tr>		<td style="padding:0 0 0 10px;color:#F895AC;font-size:9px;"><a href="/nshop/product.php?view=detail&amp;groupName=keyword&amp;productid[]=AB-AHT-8108R_GRL&amp;startColor[]=GRL%20Green%20Light&amp;dept=&amp;section=&amp;category=" style="color:#A37600;font-size:9px;text-decoration:underline; padding:0px; margin:0px;">Shop Now&gt;</a></td>
-	</tr></tbody></table><hr style="border:0px;background-color:#A37600;height:1px;color:#C9BAA3;width:92%;margin:-5px auto;" align="center"><table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color:#ff2702;font-size:11px;">FREE SHIPPING HOLIDAY SPECIAL!<br></td>	</tr>	<tr>		<td style="padding:10 0 0 10px;margin-top:10px;font-weight:bold;color: #FFF;font-size:11px;">$100 order minimum. ups ground domestic only. limited time offer.</td>	</tr>	<tr>		<td style="padding:0 0 0 10px;color:#F895AC;font-size:9px;"><a href="/nshop/product.php?view=listing&amp;section=shopwomen&amp;category=Jeans&amp;groupName=Jeans" style="color:#A37600;font-size:9px;text-decoration:underline; padding:0px; margin:0px;">SHOP NOW</a></td>
-	</tr></tbody></table><div style="padding:0px 5px 0px 10px;text-align:right;"><a href="#" onclick="return slide();" style="font-weight:bold;color:#A37600;font-size:10px;text-decoration:underline;">Close</a></div>
-			</div>
-		</div>
-	
-</div>
 
 
 
-<div id="divKeywordsSearch">
-	<form action="/nshop/product.php" method="GET">
-	<input type="hidden" value="keyword" name="view">
-	<input type="hidden" name="dept" value="keyword search">
-	<input type="hidden" name="groupName" value="keyword">
-	<input type="text" value="Keyword Search" id="search_field" class="search_field" name="keyword" onfocus="if(this.value == 'Keyword Search') this.value='';" onblur="if(this.value == '') this.value='Keyword Search';"><input id="search_btn" name="search_btn" type="image" src="/images/search.gif">
-	</form>
-</div>
-</div><div id="divContentWrapper">
-
-<div id="divSideNav">
-
-        <div>
-                
-        			<img style="padding-bottom:20px;" src="/images/sidenav/promo_11242008.jpg" border="0">
-		
-	</div>
-
-  <div class="nav_section">
-  
-
+				  </div><div id="socontent" style="display:none;">
+			<table cellpadding="0" cellspacing="0" width="150"><tbody><tr><td class="submenuCTop">
+			<div style="padding:0px 10px;text-align:right;"><a href="#" onclick="return slide('socontent');" style="font-weight:bold;color:#FFC544;font-size:11px;text-decoration:none;">close [x]</a></div>
+			<hr style="border:0px;background-color:#FFC544;height:1px;color:#C9BAA3;width:92%;margin:0px auto 4px; auto;" align="center">
+			</td></tr><tr><td class="submenuCMid"><table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>		<td style="padding:0 10px;font-weight:bold;color:#FFC544;font-size:11px;width:130px;"><div style="position:relative;"><span style="position:relative;top:2px;left:2px;color:black;width:130px;">Receive a wristlet with purchase of 3.4 oz. fragrance</span><span style="position:absolute;top:0px;left:0px;color:#FFC544;width:130px;">Receive a wristlet with purchase of 3.4 oz. fragrance</span></div></td>
+	</tr></tbody></table><hr style="border:0px;background-color:#FFC544;height:1px;color:#C9BAA3;width:92%;margin:15px auto;" align="center"><table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>		<td style="padding:0 10px;font-weight:bold;color:#FFC544;font-size:11px;width:130px;"><div style="position:relative;"><span style="position:relative;top:2px;left:2px;color:black;width:130px;">Buy 2 Full Price Items, Get a 3rd Full Price Item 40% Off</span><span style="position:absolute;top:0px;left:0px;color:#FFC544;width:130px;">Buy 2 Full Price Items, Get a 3rd Full Price Item 40% Off</span></div></td>
+	</tr></tbody></table><hr style="border:0px;background-color:#FFC544;height:1px;color:#C9BAA3;width:92%;margin:15px auto;" align="center"><table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>		<td style="padding:0 10px;font-weight:bold;color:#FFC544;font-size:11px;width:130px;"><div style="position:relative;"><span style="position:relative;top:2px;left:2px;color:black;width:130px;">Now 20% Off</span><span style="position:absolute;top:0px;left:0px;color:#FFC544;width:130px;">Now 20% Off</span></div></td>
+	</tr></tbody></table><hr style="border:0px;background-color:#FFC544;height:1px;color:#C9BAA3;width:92%;margin:15px auto;" align="center"><table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>		<td style="padding:0 10px;font-weight:bold;color:#FFC544;font-size:11px;width:130px;"><div style="position:relative;"><span style="position:relative;top:2px;left:2px;color:black;width:130px;">Now 30% Off</span><span style="position:absolute;top:0px;left:0px;color:#FFC544;width:130px;">Now 30% Off</span></div></td>
+	</tr></tbody></table><hr style="border:0px;background-color:#FFC544;height:1px;color:#C9BAA3;width:92%;margin:15px auto;" align="center"><table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>		<td style="padding:0 10px;font-weight:bold;color:#FFC544;font-size:11px;width:130px;"><div style="position:relative;"><span style="position:relative;top:2px;left:2px;color:black;width:130px;">Now 30% Off</span><span style="position:absolute;top:0px;left:0px;color:#FFC544;width:130px;">Now 30% Off</span></div></td>
+	</tr></tbody></table><div style="padding:0px 10px;text-align:right;"><a href="#" onclick="return slide('socontent');" style="font-weight:bold;color:#FFC544;font-size:11px;text-decoration:none;">close [x]</a></div>
+		</td></tr><tr><td class="submenuCBottom"></td></tr></tbody></table></div>	<script type="text/javascript" charset="utf-8">
+    var slide = function(submenu) {
+        var dur = .5;
+        if (submenu == "socontent"){
+            var linkHilight = 'openslider';
+        }else{
+            var linkHilight = 'navLifestyle';
+        }
         
+        if($(submenu).style.display == 'none') {
+            new Effect.SlideDown(submenu, { duration : dur});
+            document.getElementById(linkHilight).className="active";
+        } else {
+            new Effect.SlideUp(submenu, { duration : dur});
+            document.getElementById(linkHilight).className="";
+        }
 
+        if (document.getElementById(submenu).style.bottom != ''){
+            $(submenu).style.bottom == '';
+            $(submenu).style.height == '0';
+        }
 
+        return false;
+    };
         
-
-
-        
-
-
-        
-
-
-        
-
-                     
-        
-        
-        
- 
-        
-        
-        
-        
-        
-
-
-
-
-
-        
-            <a href="/custservice.php?view=listing&amp;section=custservice" class="nav_activeSections">Customer Service</a><br>
-
-                <div class="nav_category">
-
-                        <a href="/contactus.php?view=listing&amp;section=custservice&amp;category=Contactus">Contact Us</a><br>
-
-                </div>
-
-
-                <div class="nav_category">
-
-                        <a href="/custservice.php?view=listing&amp;section=custservice&amp;category=Faqs">Faqs</a><br>
-
-                </div>
-
-                <div class="nav_category">
-
-                        <a href="/privacy.php?view=listing&amp;section=custservice&amp;category=Privacy" class="nav_activeGroup">Privacy Policy</a><br>
-
-                </div>
-
-      
-
-     <div class="nav_category">
-                        <a href="javascript:cspopup('secure');">Secure Guarantee</a>
-        </div>
-      <div class="nav_category">
-                        <a href="javascript:cspopup('shipping');">Same Day Shipping</a>
-        </div>
-        <div class="nav_category">
-                        <!--<a href="/sweepstakes/sweepstakes.php" /><img src="/images/spots/nav/thumb_sweeps_20080827.jpg"  border="0" alt="" /></a>-->
-        </div>
-        <div>
-		<a href="/sweepstakes/sweepstakes.php"><img style="padding-top:20px;" src="/images/sweeps/sidenav_sweeps_20081105.jpg" border="0">
-		</a>
-	
-		</div>
-	</div>
-</div>
-
-
-	
-
-<script type="text/javascript" language="JavaScript">
-	function cspopup(show){	
-		window.open("/cartpopup.php?show="+show,"cartpopup","toolbar=no,location=no,directories=no,menubar=no,scrollbars=yes,resizable=no,width=400,height=400");
-	}
 </script>
+	
+		<style>
+			#modal_overlay { background:#000; }
+			#modal_container { background:#000; border:1px solid #FFC544; padding:5px; text-align:left; }
+		</style>
+		<script type="text/javascript" src="/js/control.modal.js"></script>
+		<script type="text/javascript" src="/js/prototype.js"></script>
 
-<table class="common_table1" cellpadding="0" cellspacing="0" border="0" id="privacy">
+
+
+<div id="divTopWrapper">
+<div id="divLogo"><a href="/shop.php"><img src="/images/2009_summer/global/logo.jpg" alt="AppleBottoms" title="AppleBottoms" border="0"></a></div>
+
+<div id="divCustomerMenu">
+        <ul>
+                <li><a class="socialIcon" href="http://www.facebook.com/pages/Global/Apple-Bottoms-Fans/452199340642?ref=ts" title="facebook"><img src="/images/facebookicon.jpg" alt="Facebook"></a></li>
+                <li><a class="socialIcon" href="http://twitter.com/applebottomsllc" title="twitter"><img src="/images/twittericon.jpg" alt="twitter"></a></li>
+                <li><a href="/custservice.php?view=listing&amp;section=custservice&amp;category=Faqs">Customer Service</a></li>
+                <li><a href="/tracking.php">Order Status</a></li>
+                <li><a href="/nshop/account.php">My Account</a></li>
+                <li><a href="/nshop/shopcart.php?show_wishlist=1">My WishList</a></li>
+                <li class="cart"><a href="/nshop/shopcart.php" class="cart">Shopping Cart</a></li>
+        </ul>
+        <div id="divKeywordsSearch">
+                <form action="/nshop/product.php" method="GET">
+                        <input type="hidden" value="keyword" name="view">
+                        <input type="hidden" name="dept" value="keyword search">
+                        <input type="hidden" name="groupName" value="keyword">
+                        <div id="search_bg"><input id="search_btn" name="search_btn" type="submit" value="SEARCH">
+                        <div id="search_field"><input type="text" value="Keyword Search" name="keyword" onfocus="if(this.value == 'Keyword Search') this.value='';" onblur="if(this.value == '') this.value='Keyword Search';"></div></div>
+                </form>
+        </div>
+</div>
+<div id="globalNavBar" style="position:absolute;top:85px;right:0px;z-index:100;height:20px;">
+        <a id="navWomen" href="/landing/index.php?section=shopwomen">WOMEN</a>
+        <a id="navPlus" href="/landing/index.php?section=womenplus">PLUS SIZE</a>
+        <a id="navGirls" href="/landing/index.php?section=girls">GIRLS</a>
+        <a id="navAcc" href="/landing/index.php?section=accessories">ACCESSORIES</a>
+        <a id="navFootwear" href="/landing/index.php?section=footwear">FOOTWEAR</a>
+    <a id="navFragrance" href="/nshop/product.php?view=listing&amp;section=accessories&amp;category=Fragrance&amp;groupName=Fragrance">FRAGRANCE</a>
+    <a id="navLifestyle" href="http://lifestyle.applebottoms.com/" target="_blank" onmouseover="if (checkMouseEnter(this,event)) {return slide('lifestyleDropdown');}">LIFESTYLE</a>
+
+        <a id="navVip" href="/maillist.php?view=maillist&amp;dept=maillist&amp;category=maillist">VIP LIST</a>
+        <a id="navSpecialOffer" href="/landing/index.php?section=lastbite">SALE</a></div>
+                <!--[IF IE]><style>#lifestyleDropdown { top:133px; }</style><![ENDIF]-->
+</div>
+<div id="minheightdiv">
+	<div id="divContentWrapper"><div id="divSideNav">
+	<img src="/images/2009_summer/sidenav/apple.jpg" alt="Golden Apple"><br><br>
+	<div class="nav_section">
+	<div class="nav_activeSection"><a href="/custservice.php?view=listing&amp;section=custservice" class="nav_activeSection">Customer Service</a></div><div class="nav_category"><div style="width:140px;margin:8px 0;border-bottom:solid 1px #74591f;font-size:1px;"></div></div><div class="nav_category"><a href="/contactus.php?view=listing&amp;section=custservice&amp;category=Contactus">Contact Us</a></div><div class="nav_category"><a href="/custservice.php?view=listing&amp;section=custservice&amp;category=Faqs">FAQs</a></div><div class="nav_category"><a href="/privacy.php?view=listing&amp;section=custservice&amp;category=Privacy" class="nav_activeSections">Privacy Policy</a></div><div class="nav_category"><div style="width:140px;margin:8px 0;border-bottom:solid 1px #74591f;font-size:1px;"></div></div>
+			<div class="nav_category"><a href="/nshop/product.php?view=giftcert&amp;section=custservice&amp;groupName=GiftCard">GIFT CARD</a></div>
+		<div class="nav_category"><a href="javascript:cspopup('secure');">Secure Guarantee</a></div>
+		<div class="nav_category"><a href="javascript:cspopup('shipping');">Same Day Shipping</a></div>
+
+	</div>
+</div>
+<script type="text/javascript" language="JavaScript">function cspopup(show){window.open("/cartpopup.php?show="+show,"cartpopup","toolbar=no,location=no,directories=no,menubar=no,scrollbars=yes,resizable=no,width=400,height=400");}</script>
+
+
+<table class="common_table1" cellpadding="0" cellspacing="0" border="0" id="privacy" align="right" style="width:720px;">
 <tbody><tr>
-<td height="63"></td>
-</tr>
-<tr><td>
+<td>
 
-<div class="title">Privacy Policy</div>
+<div class="carttitle" style="padding-top:71px;">Privacy Policy</div>
 
 <p>Apple Bottoms respects your privacy.  Accordingly, it has adopted the following privacy policy.  This policy notifies you of:</p>
 
@@ -488,63 +333,32 @@ function standard_popup(href,width,height)
 </tr>
 </tbody></table>
 <br></div>
-
-<!--<table width="99%" cellpadding="0" cellspacing="0" background="/images/backgrounds/A80404.gif">
-<tr>
-<td><img src="/images/spacer.gif" width="1" height="5" border="0" /></td>
-</tr>
-</table>
-<br />-->
+	</div>
 <div id="divFooter">
-<div id="diveLogo"><a href="http://www.efashionsolutions.com"><img src="/images/poweredby.gif" alt="powered by efashion" border="0"></a></div>
-    <ul>
-      <li><a href="http://www.applebottoms.com" target="_blank">COMPANY</a></li>
-      <li><a href="/custservice.php?view=listing&amp;section=custservice&amp;category=Faqs">CUSTOMER SERVICE</a></li>
-      <!--<li><a href="/shop.php">home </a></li>-->
-      <!--<li><a href="/lifestyle.php?view=about&groupName=about&dept=lifestyle">about us</a></li>-->
-      <li><a href="/privacy.php?view=listing&amp;section=custservice&amp;category=Privacy&amp;category=Privacy">PRIVACY POLICY</a></li>
-      <!-- <li><a href="/store_locator.html?" class="lbOn">NEAREST STORE</a></li> -->
-      <li><a href="/maillist.php">JOIN MAILING LIST</a></li>
-    </ul>
-    
-    <div id="divQuestions"><span class="copyright">©Copyright 2008 Apple Bottoms </span> <span class="questions">Questions?
-        Call toll free 1-800-637-9594</span></div>
-  </div><table width="900" cellpadding="0" cellspacing="0" id="footer" border="0">
-<tbody><tr>
+	<div id="diveLogo"><a href="http://www.efashionsolutions.com"><img src="/images/2009_summer/global/poweredbyefs.gif" alt="powered by efashion" title="powered by efashion" border="0"></a></div>
+	<div id="footerBar" style="padding-left:20px;">
+	    <ul>
+	      <li><a href="http://lifestyle.applebottoms.com/company.asp" target="_blank">COMPANY</a></li>
+	      <li><a href="/custservice.php?view=listing&amp;section=custservice&amp;category=Faqs">CUSTOMER SERVICE</a></li>
+	      <li><a href="/privacy.php?view=listing&amp;section=custservice&amp;category=Privacy&amp;category=Privacy">PRIVACY POLICY</a></li>
+	      <li><a href="/maillist.php">JOIN MAILING LIST</a></li>
+	      <li><a href="/sitemap">SITE MAP</a></li>
+	      <li><a href="https://cli.linksynergy.com/cli/publisher/registration/registration.php" target="_blank">AFFILIATE PROGRAM</a></li>
+	    </ul>
+	</div>
+    <div id="divQs"><span class="copyright" style="margin-left:20px;">©Copyright 2010 Apple Bottoms </span> <span class="questions" style="margin-right:20px;">Questions? Call toll free 1-800-637-9594</span></div>
+</div></div>
 
- </tr>
-</tbody></table>
-<script>
-var pattern = /Mozilla\/5\.0 \(Macintosh; U;(.*)\) AppleWebKit\/[\d|\.]+ \(KHTML, like Gecko\) [Version\/(\d|\.|\s)+]*Safari\/[\d|\.]+/i;
-m=pattern.exec(navigator.userAgent);
-if (m) {
-	var logo=document.getElementById("divLogo").getElementsByTagName("img")[0];
-	var div=document.getElementById("divLogo");
-	var navcontainer=document.getElementById("divTopNavMenus").getElementsByTagName("ul")[0];
-	logo.width=114;
-	logo.height=80;
-	div.style.width='114px';
-	navcontainer.style.width='777px';
-}
-var pattern = /Mozilla\/5\.0 \(Macintosh; U;(.*)\) Gecko\/[\d]+ Firefox\/[\d|\.]+/i;
-m=pattern.exec(navigator.userAgent);
-if (m) {
-	var navcontainer=document.getElementById("divTopNavMenus").getElementsByTagName("ul")[0];
-	navcontainer.style.width='731px';
-}
-</script></div>
 	<!-- SENTO CODE -->
 
 
-<!-- /SENTO CODE -->
-
-	<!-- OMN HERE-->
+<!-- /SENTO CODE -->	<!-- OMN HERE-->
 <script language="JavaScript"><!--
 var s_account="efashionapplebottomscom";
 //--></script>
-<script language="JavaScript" src="//www.applebottoms.com/js/s_code.js"></script>
+<script language="JavaScript" src="//applebottoms.com/js/s_code.js"></script>
 <script language="JavaScript"><!--
-s.server="192.168.77.106";
+s.server="172.16.101.210";
 s.pageName="APB:privacy";
 s.channel="";
 s.prop1="";
@@ -570,8 +384,7 @@ var s_code=s.t();if(s_code)document.write(s_code);//--></script>
 <script language="JavaScript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-');
 //--></script>
-<!-- /OMN -->
-<!-- BEGIN Monitor Tracking Variables  -->
+<!-- /OMN --><!-- BEGIN Monitor Tracking Variables  -->
 
 <script language="JavaScript1.2">
 
@@ -583,18 +396,23 @@ tagVars += "&SESSIONVAR!skill=applebottoms.com%20pre-sales";
 
 <!-- End Monitor Tracking Variables  -->
 
-<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script language="javascript" src="https://server.iad.liveperson.net/hc/16847762/x.js?cmd=file&amp;file=chatScript3&amp;site=16847762&amp;&amp;imageUrl=https://www.applebottoms.com/images"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
 <!-- ***  CLICK TRACKING CODE 3.0 *** -->
 <script language="JavaScript" type="text/javascript" src="https://keywordmax.com/tracking/show.php?id=417467038&amp;location=Homepage"></script>
-<noscript><img src="https://keywordmax.com/tracking/log.php?id=417467038&loc=Homepage" border="0" width="1" height="1"/></noscript>
+<noscript><img alt="CLICK TRACKING CODE 3.0" src="https://keywordmax.com/tracking/log.php?id=417467038&loc=Homepage" border="0" width="1" height="1"/></noscript>
 <!-- ^^^ CLICK TRACKING CODE 3.0 ^^^ -->
 
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-_uacct = "UA-1921573-4";
-urchinTracker();
+	_uacct = "UA-1921573-4";
+	urchinTracker();
+
+	try {
+		var pageTracker = _gat._getTracker("UA-1921573-4");
+		pageTracker._trackPageview();
+	}
+	catch(err) {}
 </script>
+<script src="http://efs.netmng.com/?aid=003" type="text/javascript" language="javascript" defer="defer"></script>
 
 </body></html>
