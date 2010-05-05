@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the g4s.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225101751id_/http%3A//www.g4s.com/home-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g4s.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505194420id_/http%3A//www.g4s.com/en/Site%2520Tools/Privacy) for the most accurate reproduction.*
 
-# G4S Privacy Policy
+# Privacy | G4S
 
-[](http://www.g4s.com/home/home-privacy.htm?browser=2&)
-
-This privacy policy covers our use of the information collected by the G4S.com web site (or other linked G4S web sites) during your visit to our site.
+This privacy policy covers our use of the information collected by the G4S.com web site (or other linked G4S web sites) during your visit to our site. 
 
 ## Cookies
 
@@ -22,10 +20,10 @@ You can delete our cookies or block this information by changing the settings on
 
 We collect and use personal information (including name, address, telephone number and email) in order to:
 
-  * respond to queries or requests submitted by you
-  * provide services such as our Email Alert service
-  * process orders or applications submitted by you
-  * administer or otherwise carry out our obligations in relation to any agreement you have with us
+  * respond to queries or requests submitted by you 
+  * provide services such as our Email Alert service 
+  * process orders or applications submitted by you 
+  * administer or otherwise carry out our obligations in relation to any agreement you have with us 
   * anticipate and resolve problems with any services supplied to you
 
 
@@ -36,7 +34,7 @@ We do not share this personal information with any other party.
 
 This policy applies to G4S.com.  However other G4S web sites may contain privacy policies which are different from this one. If you visit other G4S web sites please check the privacy policy of the site you visit.
 
-We cannot be responsible for the privacy policies and practices of other web sites even if: 
+We cannot be responsible for the privacy policies and practices of other web sites even if:
 
   * you accessed the third party web site using links from our web site; or 
   * you linked to our web site from a third party web site.
