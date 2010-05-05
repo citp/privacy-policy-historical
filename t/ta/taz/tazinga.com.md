@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tazinga.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231021606id_/http%3A//www.tazinga.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tazinga.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506014444id_/http%3A//tazinga.com/privacy) for the most accurate reproduction.*
 
-# Tazinga!
+# None
 
 This PRIVACY POLICY (this "Policy") relates to the use of this website, TAZINGA™.COM, (the "Site") and is applicable to all information collected about you through the Site.
 
