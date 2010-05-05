@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainkingonline.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105192529id_/http%3A//www.rainkingonline.com%3Fev%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainkingonline.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506001116id_/http%3A//rainkingonline.com%3Fev%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # RainKing - Privacy Policy
 
