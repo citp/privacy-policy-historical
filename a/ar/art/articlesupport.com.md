@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesupport.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503012521id_/http%3A//articlesupport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesupport.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505075656id_/http%3A//articlesupport.com/privacy-policy) for the most accurate reproduction.*
 
 # Free Article Directory » Privacy Policy
 
