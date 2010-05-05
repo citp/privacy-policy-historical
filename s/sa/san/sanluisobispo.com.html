@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sanluisobispo.com privacy policy that was archived on 2009-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091215074233id_/http%3A//www.sanluisobispo.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sanluisobispo.com privacy policy that was archived on 2010-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100505122603id_/http%3A//www.sanluisobispo.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
      
@@ -91,6 +91,19 @@ var gomez=gomez?gomez:{};gomez.h3=function(d, s){for(var p in s){d[p]=s[p];}retu
 mi.search = new mi.Search();
 </script>
 
+<script type="text/javascript">
+var rscriptloaded = 0;
+function displayEmailForm() {
+	if(rscriptloaded) {
+		mi_story_tool.storyTool("email", "///.html");
+	} else {
+		$.getScript("http://api.recaptcha.net/js/recaptcha_ajax.js", function() {
+			mi_story_tool.storyTool("email", "///.html");
+			rscriptloaded = 1;
+		});
+	}
+}
+</script>
 
  
 
@@ -452,7 +465,7 @@ if( typeof( miyahoo ) == "undefined" || miyahoo.ads[ mi_live_or_preview ].dart.e
 <script type="text/javascript" language="JavaScript1.1">
 _krdDartInc++;
 document.write('<script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/'+src_string+';pos=billboard1;sz=972x30;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
-</script><script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/sanluisobispo.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;template=channel;!category=privacy_policy;pos=billboard1;sz=972x30;tile=1;ord=1580486177263?"></script>
+</script><script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/sanluisobispo.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;template=channel;!category=privacy_policy;pos=billboard1;sz=972x30;tile=1;ord=1580486177960?"></script>
 
 <noscript>
 <a href="http://ad.doubleclick.net/jump/'+src_string+';pos=billboard1;sz=972x30;ord='+_krdDartOrd+'?" target="_blank">
@@ -466,7 +479,7 @@ document.write('<script type="text/javascript" language="JavaScript1.1" src="htt
 <script language="JavaScript1.1">
 _krdDartInc++;
 document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/'+src_string+';pos=top;group=banner;sz=728x90;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/sanluisobispo.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;template=channel;!category=privacy_policy;pos=top;group=banner;sz=728x90;tile=2;ord=1580486177263?"></script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/sanluisobispo.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;template=channel;!category=privacy_policy;pos=top;group=banner;sz=728x90;tile=2;ord=1580486177960?"></script>
 
 <noscript>
 <A HREF="http://ad.doubleclick.net/jump/'+src_string+';pos=top;group=banner;sz=728x90;ord='+_krdDartOrd+'?" TARGET="_blank">
@@ -510,8 +523,8 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 		<!-- COMP START : /shared/top_links.comp -->
 <ul>
   <li><a href="/contact_slo/">Contact us</a></li>
-  <li><a href="http://www.slotribune.net/">Customer Service</a></li>
-  <li><a href="http://www.slotribune.net/">Subscribe</a></li>
+  <li><a href="https://subscriberservices.mcclatchy.com/obis/TransactionType.asp">Customer Service</a></li>
+  <li><a href="http://secure.sanluisobispo.com/subscribe/newsub.html ">Subscribe</a></li>
   <li><a href="http://secure.sanluisobispo.com/ebee/slo_o_check.cgi">iTribune</a></li>
   <li><a href="http://www.sanluisobispo.com/placead/">Place an ad</a></li>
   <li><a href="http://newspaperads.sanluisobispo.com/ROP/Subcat.aspx?cat=14549">Coupons</a></li>
@@ -574,12 +587,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 					<input name="aff" type="radio" id="search_archives" value="archives" class="radio">
 					<label for="search_archives" class="search_label_archives">Archives</label>
 
-					<input name="aff" type="radio" id="search_web" value="web_search" class="radio">
-					<label for="search_web" class="search_label_web">Web</label>
-
-					<span class="search_label"> powered by </span>
-					<span class="search_label2">YAHOO! </span>
-					<span class="search_label3">SEARCH</span>
+					<input name="aff" type="radio" id="search_web" value="web_search" class="radio"><span id="mi_yahoo_preamble">Web Search powered by </span><span class="yahoo">YAHOO!</span> <span id="mi_yahoo_post">SEARCH</span>
 
 				</div>
 			</form>
@@ -595,9 +603,8 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 
 	</div>
 
-
     <div id="mastAd">
-        <a href="http://slonews.thetribunenews.com/holidaylights" target="_blank"><img src="http://media.sanluisobispo.com/images/logos/Holiday-Lights.jpg" alt="holiday lights"></a>
+        <a href="http://www.facebook.com/SLOTribune" target="_blank"><img src="http://media.sanluisobispo.com/images/logos/Facebook_Badge.gif" alt="Find us on Facebook!"></a>
     </div>
 		
   <div class="clearing"></div>
@@ -618,7 +625,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 		<li id="inhome" class="current"><a href="/">Home</a>
 
 		    <ul>
-			<li><a href="http://www.slotribune.net/" rel="nofollow">Subscribe</a></li>
+			<li><a href="http://secure.sanluisobispo.com/subscribe/newsub.html" rel="nofollow">Subscribe</a></li>
 			<li><a href="/contact_slo/advertise/" rel="nofollow">Advertise</a></li>
 			<li><a href="/contact_slo/" rel="nofollow">Contact Us</a></li>
 			<li><a href="/news/archive/" rel="nofollow">Archive</a></li>
@@ -626,7 +633,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 			<li><a href="/mobile/" rel="nofollow">Mobile Edition</a></li>
 			<li><a href="/news/feeds/" rel="nofollow">RSS Feeds</a></li>
 			<li><a href="/twitter/">Twitter</a></li>
-			<li><a href="http://pictopia.com/perl/gal?provider_id=276&amp;process=deliver&amp;page=requests_xsl">Photo Reprints</a></li>
+			<li><a href="http://sanluisobispo.mycapture.com/mycapture/index.asp">Photo Reprints</a></li>
 
 
 		    </ul>
@@ -657,7 +664,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 			<li><a href="/columns/" rel="nofollow">Columns/Blogs</a></li>
 			<!-- <li><a href="http://sloblogs.thetribunenews.com" rel="nofollow">Blogs</a></li> -->
 			<li><a href="/forums/" rel="nofollow">Forums</a></li>
-			<li><a href="/captioncontest/" rel="nofollow">Caption Contest</a></li>
+			<li><a href="http://slonews.thetribunenews.com/contests/captioncontest/">Caption Contest</a></li>
 			<li><a href="/opinion/" rel="nofollow">Editorials</a></li>
 		    </ul>
 
@@ -676,6 +683,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 			<li><a href="/sports/football/" rel="nofollow">NFL</a></li>
 			<li><a href="/sports/basketball/" rel="nofollow">NBA</a></li>
 			<li><a href="/sports/outdoors/" rel="nofollow">Outdoors</a></li>
+			<li><a href="/olympics2010/" rel="nofollow">Olympics</a></li>
 		    </ul>
 
 		</li>
@@ -776,7 +784,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 			<li><a href="/topjobs/" rel="nofollow">Top Jobs</a></li>
 			<li><a href="http://www.careerbuilder.com/jobseeker/jobs/jobresults.aspx?sname=&amp;cibookmark=1&amp;strCrit=QID%3dA6655232962561%3bst%3da%3buse%3dALL%3bTID%3d0%3bCTY%3dSAN+LUIS+OBISPO%3bSID%3dCA%3bCID%3dUS%3bENR%3dNO%3bDTP%3dDRNS%3bYDI%3dYES%3bIND%3dALL%3bPDQ%3dAll%3bPDQ%3dAll%3bPAYL%3d0%3bPAYH%3dgt120%3bPOY%3dNO%3bETD%3dALL%3bRE%3dALL%3bMGT%3dDC%3bSUP%3dDC%3bFRE%3d30%3bCHL%3dAL%3bQS%3dsid_unknown%3bSS%3dNO%3bTITL%3d0%3bOB%3d-modifiedint%3bJQT%3dRAD%3bJDV%3dFalse&amp;lr=cbcb_tn&amp;vt=&amp;jrdid=" rel="nofollow">Local Jobs</a></li>
 			<li><a href="http://www.careerbuilder.com/jobseeker/jobs/jobresults.aspx?lr=cbcb_tn&amp;s_pdq=Select+One" rel="nofollow">All Jobs</a></li>
-			<li><a href="http://www.digitalmediacommunications.com/san_luis/employment/index_jobs.html" rel="nofollow" target="_blank">Job Videos</a></li>
+			<li><a href="http://www.digitalmediacommunications.com/san_luis/employment/index_jobs.php?@_num=" rel="nofollow" target="_blank">Job Videos</a></li>
 			<li><a href="http://www.sanluisobispo.com/placead/" rel="nofollow">Post a Job</a></li>
 		    </ul>
 
@@ -853,7 +861,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 <h3>Use of cookies</h3>
 <p>Most standard Web browsers contain a feature called "cookies," which allow a Web site to place information about a user's visit to that Web site in a small data text file that is stored on the user's computer. Our use of cookie technology will likely be transparent to you and is used to recognize you and hold information from one visit to the next in an effort to increase your ease of use of SanLuisObispo.com and to allow us to better understand how people use SanLuisObispo.com through click-stream analysis. For example, cookies may be used to store information such as your member name and password, sparing you from having to re-enter that information each time you visit. Another example is that we may use cookie technology to control the number of times you see a particular advertisement while visiting SanLuisObispo.com. You can turn the cookies feature off by using your browser preference options, but doing so will severely limit your access to SanLuisObispo.com and may prevent you from registration.</p>
 
-<p>Some of SanLuisObispo.com's third-party content providers also may place a cookie on your computer. If you choose to monitor or restrict cookies that are placed on his computer, you can determine the Web site that is attempting to place a cookie. Those cookies are controlled by the content provider, and you should refer to that provider's privacy policy for further information regarding its use of cookies.</p>
+<p>Some of SanLuisObispo.com's third-party content providers also may place a cookie on your computer. If you choose to monitor or restrict cookies that are placed on this computer, you can determine the Web site that is attempting to place a cookie. Those cookies are controlled by the content provider, and you should refer to that provider's privacy policy for further information regarding its use of cookies and about your options not to accept them.</p>
 
 <p>We use services provided by Yahoo! to display advertising on SanLuisObispo.com, and we may use cookies in conjunction with displaying those ads.  Please refer to Yahoo!'s privacy policy at <a href="http://privacy.yahoo.com/">http://privacy.yahoo.com/</a> for further information concerning Yahoo!'s use of cookies.</p>
 
@@ -994,403 +1002,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 
 
 
-       	 
-
-
-
-<div class="mi_widget">
-	<div class="mi_tabs">
-
-		<ul class="">
-			<li>
-				<a href="#mi_tabs_pop_Popular">
-					<span>Popular</span>
-				</a>
-			</li>
-                       <li>
-				<a href="#mi_tabs_pop_Commented">
-					<span>Commented</span>
-				</a>
-			</li>   
-
-			<li>
-				<a href="#mi_tabs_pop_Recommended">
-					<span>Recommended</span>
-				</a>
-			</li>
-
-			
-		</ul>
-
-		<div style="display: block;" id="mi_tabs_pop_Popular" class="">
-			<ul class="stack">
-			     
-<li><a href="http://www.sanluisobispo.com/178/story/955595.html?storylink=omni_popular">Arizona transients beat SLO man bloody, rob him, police allege</a></li>
-
-<li><a href="http://www.sanluisobispo.com/183/story/956546.html?storylink=omni_popular">San Luis Obispo firefighter gets drenched trying to turn off water from broken hydrant</a></li>
-
-<li><a href="http://www.sanluisobispo.com/183/story/955818.html?storylink=omni_popular">California Department of Real Estate official discusses lending fraud</a></li>
-
-<li><a href="http://www.sanluisobispo.com/178/story/956697.html?storylink=omni_popular">Bank robberies in SLO, Nipomo are believed linked to 'red Sharpie bandit'</a></li>
-
-<li><a href="http://www.sanluisobispo.com/183/story/955799.html?storylink=omni_popular">Outdoor cafe rules may change</a></li>
-
-
-			</ul>
-		</div>
-		<div id="mi_tabs_pop_Commented" class="">
-			 
-
-<div id="ComDiscTemplate" style="display: none;">
-	<li class="discoArticle">
-		<a href="@Nyx.PageUrl@" class="pluckDiscoCount">@Nyx.NumberOfComments@</a> <a href="@Nyx.PageUrl@" class="pluckDiscoComImg"><img src="/static/images/pluck/comments.gif"></a> <a href="@Nyx.PageUrl@" class="pluckDiscoTitle">@Nyx.PageTitle@</a>
-	</li>
-</div>
-<ul id="ComDiscOutput_dynamicContent" class="discResults"></ul>
-
- 
-		</div>
-		<div id="mi_tabs_pop_Recommended" class="">
-			 
-
-<ul id="RecDiscTemplate" style="display:none;">
-	<li class="discoArticle">
-		<a href="@Nyx.PageUrl@" class="pluckDiscoCount">@Nyx.NumberOfRecommendations@</a> <a href="@Nyx.PageUrl@" class="pluckDiscoComImg"><img src="http://pluck.mireference.com/ver1.0/Content/images/icons/arrow_up_rec.gif"></a> <a href="@Nyx.PageUrl@" class="pluckDiscoTitle">@Nyx.PageTitle@</a>
-	</li>
-</ul>
-
-<ul id="RecDiscOutput_dynamicContent" class="discResults zebra_box"></ul>
-
- 
-		</div>
-	
-	</div>
-</div>
-
- 
-
-<!-- START /pubsys/production/shared/ads/ad_dart_center7.comp -->
-
-<div class="advertisement">
-<script language="JavaScript1.1">
-_krdDartInc++;
-document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/'+src_string+';pos=center7;group=rectangle;sz=300x250;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/sanluisobispo.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;template=channel;!category=privacy_policy;pos=center7;group=rectangle;sz=300x250;tile=3;ord=1580486177263?"></script>
-
-<noscript>
-<A HREF="http://ad.doubleclick.net/jump/'+src_string+';pos=center7;group=rectangle;sz=300x250;ord='+_krdDartOrd+'?" TARGET="_blank">
-<IMG SRC="http://ad.doubleclick.net/ad/'+src_string+';pos=center7;group=rectangle;sz=300x250;ord='+_krdDartOrd+'?" WIDTH="160" HEIGHT="90" BORDER="0" ></A>
-</noscript>
-</div>
-
-<!-- END /pubsys/production/shared/ads/ad_dart_center7.comp -->
-<div class="mi_widget">
-    <div class="mi_tabs">
-	<ul>                                                                              
-	    <li><a href="#weatherTab"><span>Weather</span></a></li> 
-	    <li><a href="#trafficTab"><span>Traffic</span></a></li>
-	                                        
-	</ul>
- 
-	<div id="weatherTab" class="tabBody">
-	    <script src="http://media.sanluisobispo.com/static/accuweather/widget.js" type="text/javascript"></script>	</div>
-	<div id="trafficTab" class="tabBody"> 
-	    <script type="text/javascript">
-		$(document).ready(function(){
-    		    $("#trafficTab").load("/static/traffic.html");
-		});
-	    </script>
-	</div>
-	 
-    </div>
-</div>
-<div class="mi_box_4">
-	<p>&nbsp;</p>
-</div>
-
-<div class="advertisement" id="center6">
-<script type="text/javascript">
-if( typeof( miyahoo ) == "undefined" || miyahoo.ads[ mi_live_or_preview ].dart.enabled ) {
-	_krdDartInc++;
- 	document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/'+src_string+';pos=center6;group=rectangle;sz=300x250;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/SCRIPT>');
-}
-</script>
-
-<noscript>
-<A HREF="http://ad.doubleclick.net/jump/'+src_string+';pos=center6;group=rectangle;sz=300x250;ord='+_krdDartOrd+'?" TARGET="_blank">
-<IMG SRC="http://ad.doubleclick.net/ad/'+src_string+';pos=center6;group=rectangle;sz=300x250;ord='+_krdDartOrd+'?" WIDTH="1" HEIGHT="1" BORDER="0" ></A>
-</noscript>
-</div>
-<div id="adBadges">
-<div id="bdge01" class="advertisement">
-<script type="text/javascript">
-if( typeof( miyahoo ) == "undefined" || miyahoo.ads[ mi_live_or_preview ].dart.enabled ) {
-	_krdDartInc++;
-    	document.write('<script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/'+src_string+';pos=bdge01;group=146x60;sz=146x60;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
-}
-    </script>
-
-    <noscript><a href="http://ad.doubleclick.net/jump/'+src_string+';pos=header;group=146x60;sz=146x60;ord='+_krdDartOrd+'?" target="_blank"><img src="http://ad.doubleclick.net/ad/'+src_string+';pos=bdge01;group=146x60;sz=146x60;ord='+_krdDartOrd+'?" width="146" height="60" border="0" ></a></noscript>
-</div>
-<div id="bdge02" class="advertisement">
-<script type="text/javascript">
-if( typeof( miyahoo ) == "undefined" || miyahoo.ads[ mi_live_or_preview ].dart.enabled ) {
-	_krdDartInc++;
-document.write('<script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/'+src_string+';pos=bdge02;group=146x60;sz=146x60;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
-}
-</script>
-
-<noscript><a href="http://ad.doubleclick.net/jump/'+src_string+';pos=header;group=146x60;sz=146x60;ord='+_krdDartOrd+'?" target="_blank"><img src="http://ad.doubleclick.net/ad/'+src_string+';pos=bdge02;group=146x60;sz=146x60;ord='+_krdDartOrd+'?" width="146" height="60" border="0" ></a></noscript>
-</div>
-</div>
-
-<div class="mi_box_4">
-	<!-- begin shared/widgets/careerbuilder/topjobs_careerbuilder_combined.comp -->
-<div id="cb_widget">
-
-<link href="http://media.sanluisobispo.com/static/styles/topjobs_careerbuilder_combined.css" type="text/css">
-
-
-<div id="top_jobs_header">
-     Top Jobs 
-</div>
-<div id="top_jobs_container">
-
-        
-    
-             
-
-           
-
-      
-
-             
-
-         
-
-      
-
-
-
-            
-
-     
-
-
-
-
-
-<!-- top jobs -->
-<div id="cb-topjobs">
-	<!-- cb: top jobs -->
-	<div class="header">
-	</div>
-
-<script type="text/javascript">
-<!--
-    // Widget Style and Appearance, Namespaces claimed by CareerBuilder
-    cb_jobstream_title = ' ';
-    cb_jobstream_main_bgcolor = 'transparent';
-    cb_jobstream_width = '260px;overflow-x:hidden';
-    cb_jobstream_height = '200px';
-    cb_jobstream_border = '0px';
-    cb_jobstream_title_font = '11px verdana,helvetica,arial,sans-serif';
-    cb_jobstream_text_font = '11px verdana,helvetica,arial,sans-serif';
-    cb_jobstream_font_color = 'black';
-    cb_jobstream_link_color = '#38616A';
-//-->
-</script>
-<div id="mi_top_job" style="">
-<script type="text/javascript" src="http://rtq.careerbuilder.com/RTQ/jobstream.aspx?lr=CBCB_TN&amp;rssid=CB_TN_jbstrm&amp;num=50&amp;kw=CustomField3:SANLUISOTJ&amp;cat=All&amp;rad=50&amp;state=&amp;city=&amp;zip=&amp;ddtitle=false&amp;ddcompany=false&amp;sb=false"></script>
-</div>
-<style>
-#mi_top_job #jobstream{width:270px !important;}
-#mi_top_job #jobstream div form{display:none;}
-#mi_top_job #jobstream div td {border-bottom:1px solid #CCCCCC; padding: 2px:line-height:1.3em;}
-#mi_top_job #jobstream img {display:none;}
-</style>
-	<!-- /cb: top jobs -->
-</div>
-<!-- /top jobs -->
-
-
-</div>
-
-<script type="text/javascript"><!--
-	showTopJobs ("top_jobs", 0);
-//--></script>
-
-<div class="jobs_widget_large">
-<div class="header">Quick Job Search</div>
-	<form class="main_box" action="http://www.careerbuilder.com/JobSeeker/Jobs/JobResults.aspx" method="get">               
-		<input type="hidden" name="lr" value="cbcb_tn">
-		<input type="hidden" name="siteid" value="cb_tnUS003">                
-		<input type="hidden" name="use" value="all">
-
-
-			<label>Enter Keyword(s):
-			<input type="text" maxlength="256" name="mxjobsrchcriteria_rawwords" tabindex="1">
-			</label>
-
-			<label>Enter a City:
-			<input type="text" name="mxjobsrchcriteria_city" value="San Luis Obispo" tabindex="2">
-			</label>
-
-
-		<label>Select a State:
-			<select name="mxjobsrchcriteria_state" tabindex="3">
-				<option value="ALL, US">- All United States -</option>
-				<option value="AL, US">Alabama</option>
-				<option value="AK, US">Alaska</option>
-				<option value="AZ, US">Arizona</option>
-
-				<option value="AR, US">Arkansas</option>
-				<option value="CA, US" selected="">California</option>
-				<option value="CO, US">Colorado</option>
-				<option value="CT, US">Connecticut</option>
-				<option value="DE, US">Delaware</option>
-				<option value="DC, US">District of Columbia</option>
-
-				<option value="FL, US">Florida</option>
-				<option value="GA, US">Georgia</option>
-				<option value="HI, US">Hawaii</option>
-				<option value="ID, US">Idaho</option>
-				<option value="IL, US">Illinois</option>
-				<option value="IN, US">Indiana</option>
-
-				<option value="IA, US">Iowa</option>
-				<option value="KS, US">Kansas</option>
-				<option value="KY, US">Kentucky</option>
-				<option value="LA, US">Louisiana</option>
-				<option value="ME, US">Maine</option>
-				<option value="MD, US">Maryland</option>
-
-				<option value="MA, US">Massachusetts</option>
-				<option value="MI, US">Michigan</option>
-				<option value="MN, US">Minnesota</option>
-				<option value="MS, US">Mississippi</option>
-				<option value="MO, US">Missouri</option>
-				<option value="MT, US">Montana</option>
-
-				<option value="NE, US">Nebraska</option>
-				<option value="NV, US">Nevada</option>
-				<option value="NH, US">New Hampshire</option>
-				<option value="NJ, US">New Jersey</option>
-				<option value="NM, US">New Mexico</option>
-				<option value="NY, US">New York</option>
-
-				<option value="NC, US">North Carolina</option>
-				<option value="ND, US">North Dakota</option>
-				<option value="OH, US">Ohio</option>
-				<option value="OK, US">Oklahoma</option>
-				<option value="OR, US">Oregon</option>
-				<option value="PA, US">Pennsylvania</option>
-
-				<option value="RI, US">Rhode Island</option>
-				<option value="SC, US">South Carolina</option>
-				<option value="SD, US">South Dakota</option>
-				<option value="TN, US">Tennessee</option>
-				<option value="TX, US">Texas</option>
-				<option value="UT, US">Utah</option>
-
-				<option value="VT, US">Vermont</option>
-				<option value="VA, US">Virginia</option>
-				<option value="WA, US">Washington</option>
-				<option value="WV, US">West Virginia</option>
-				<option value="WI, US">Wisconsin</option>
-				<option value="WY, US">Wyoming</option>
-			</select>
-		</label>
-	
-
-		<label>Select a Category:
-			<select name="MXJOBSRCHCRITERIA_JobTypes" tabindex="4">
-				<option value="All" selected="">- All Job Categories -</option>
-				<option value="JN001">Accounting</option>
-				<option value="JN002">Admin &amp; Clerical</option>
-
-				<option value="JN054">Automotive</option>
-				<option value="JN038">Banking</option>
-				<option value="JN053">Biotech</option>
-				<option value="JN047">Broadcast - Journalism</option>
-				<option value="JN019">Business Development</option>
-				<option value="JN043">Construction</option>
-
-				<option value="JN020">Consultant</option>
-				<option value="JN003">Customer Service</option>
-				<option value="JN021">Design</option>
-				<option value="JN027">Distribution - Shipping</option>
-				<option value="JN031">Education</option>
-				<option value="JN004">Engineering</option>
-
-				<option value="JN022">Entry Level</option>
-				<option value="JN018">Executive</option>
-				<option value="JN017">Facilities</option>
-				<option value="JN005">Finance</option>
-				<option value="JN006">General Business</option>
-				<option value="JN051">General Labor</option>
-
-				<option value="JN046">Government</option>
-				<option value="JN023">Health Care</option>
-				<option value="JN040">Hotel - Hospitality</option>
-				<option value="JN007">Human Resources</option>
-				<option value="JN008">Information Technology</option>
-				<option value="JN034">Insurance</option>
-
-				<option value="JN015">Inventory</option>
-				<option value="JN030">Legal</option>
-				<option value="JN041">Legal Admin</option>
-				<option value="JN037">Management</option>
-				<option value="JN029">Manufacturing</option>
-				<option value="JN009">Marketing</option>
-
-				<option value="JN050">Nurse</option>
-				<option value="JN010">Other</option>
-				<option value="JN049">Pharmaceutical</option>
-				<option value="JN024">Professional Services</option>
-				<option value="JN016">Purchasing -  Procurement</option>
-				<option value="JN025">QA - Quality Control</option>
-
-				<option value="JN026">Research</option>
-				<option value="JN035">Restaurant - Food Service</option>
-				<option value="JN033">Retail - Grocery</option>
-				<option value="JN011">Sales</option>
-				<option value="JN012">Science</option>
-				<option value="JN013">Skilled Labor - Trades</option>
-
-				<option value="JN028">Strategy - Planning</option>
-				<option value="JN014">Supply Chain</option>
-				<option value="JN048">Telecommunications</option>
-				<option value="JN032">Training</option>
-				<option value="JN044">Transportation</option>
-				<option value="JN045">Warehouse</option>
-
-			</select>
-		</label>
-	
-		<div class="button"><input type="submit" value="Search" tabindex="5" id="submit" name="submit"></div>
-
-		<ul class="cb_links">
-			<li><a href="http://www.careerbuilder.com/jobseeker/jobs/jobfindadv.aspx?lr=cbcb_tn&amp;siteid=cb_tnUS003">Advanced Job Search</a></li>
-			<li><a href="http://www.careerbuilder.com/jobseeker/companies/companysearch.aspx?lr=cbcb_tn&amp;siteid=cb_tnUS003">Search by Category</a></li>
-		</ul>
-		<div style="clear: both"></div>
-	</form>
-</div>
-<div id="top_jobs_footer"><img src="http://www.triangle.com/images/trijobs_rightrail.gif" alt="Top Jobs">
-</div>
-</div>
-<!-- end shared/widgets/careerbuilder/topjobs_careerbuilder_combined.comp -->
-</div>
-
-<div class="mi_box_4">
-	<p>&nbsp;</p>
-</div>
-
-<div class="mi_box_4">
-	<p>&nbsp;</p>
-</div>
-
+	 <!-- blank --> 
 
         </div> 
 	<div class="clear"></div>
@@ -1398,7 +1010,23 @@ document.write('<script type="text/javascript" language="JavaScript1.1" src="htt
     </div> 
 
     <div id="mi_footer">
-         
+             <div id="cnpa_banner">
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://d1.openx.org/ajs.php':'http://d1.openx.org/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=50803");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://d1.openx.org/ajs.php?zoneid=50803&amp;cb=33323144059&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20100505122603id_/http%253A//www.sanluisobispo.com/privacy-policy"></script><noscript><a href='${CLICKURL}http://d1.openx.org/ck.php?n=a64f074f&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://d1.openx.org/avw.php?zoneid=50803&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a64f074f' border='0' alt='' /></a></noscript>
+</div>
     <div id="sitemap">
 	<div id="sitemap">
 
@@ -1435,7 +1063,7 @@ document.write('<script type="text/javascript" language="JavaScript1.1" src="htt
 			<li class="column_list_item"><a href="/columns/" rel="nofollow">Columns</a></li>
 			<li class="column_list_item"><a href="http://sloblogs.thetribunenews.com/">Blogs</a></li>
 			<li class="column_list_item"><a href="/" rel="nofollow">Forums</a></li>
-			<li class="column_list_item"><a href="/captioncontest/" rel="nofollow">Caption Contest</a></li>
+			<li class="column_list_item"><a href="http://slonews.thetribunenews.com/contests/captioncontest/" rel="nofollow">Caption Contest</a></li>
 		</ul>
 	</div>
 	<div class="column">
@@ -1452,6 +1080,7 @@ document.write('<script type="text/javascript" language="JavaScript1.1" src="htt
 			<li class="column_list_item"><a href="/sports/motor_racing/" rel="nofollow">Motorsports</a></li>
 			<li class="column_list_item"><a href="/sports/golf/" rel="nofollow">Golf</a></li>
 			<li class="column_list_item"><a href="/sports/tennis/" rel="nofollow">Tennis</a></li>
+			<li class="column_list_item"><a href="/olympics2010/" rel="nofollow">Olympics</a></li>
 		</ul>
 	</div>
 	<div class="column">
@@ -1538,13 +1167,10 @@ document.write('<script type="text/javascript" language="JavaScript1.1" src="htt
 <div id="mistatstag" style="display:none;">        
 <!-- SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
 
-
-
 <!-- site specific file already loaded -->
 <script language="JavaScript" type="text/javascript" src="http://media.sanluisobispo.com/mistats/products/pubsys_s_code.js"></script>
 <script language="JavaScript" type="text/javascript">
 <!--
-
 measure_popularity=false;
 mistats.msr = 'SLO|SL';
 mistats.cmsid='GUID: | Section: 775';
