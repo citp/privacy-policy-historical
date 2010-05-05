@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luckymag.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116003338id_/http%3A//www.luckymag.com/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckymag.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505205038id_/http%3A//www.luckymag.com/services/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy: Privacy Policy: luckymag.com
 
