@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanluisobispo.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215074233id_/http%3A//www.sanluisobispo.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanluisobispo.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505122603id_/http%3A//www.sanluisobispo.com/privacy-policy) for the most accurate reproduction.*
 
 # SanLuisObispo.com Privacy Policy
 
@@ -30,7 +30,7 @@ Like most Web sites, SanLuisObispo.com also collects and logs information automa
 
 Most standard Web browsers contain a feature called "cookies," which allow a Web site to place information about a user's visit to that Web site in a small data text file that is stored on the user's computer. Our use of cookie technology will likely be transparent to you and is used to recognize you and hold information from one visit to the next in an effort to increase your ease of use of SanLuisObispo.com and to allow us to better understand how people use SanLuisObispo.com through click-stream analysis. For example, cookies may be used to store information such as your member name and password, sparing you from having to re-enter that information each time you visit. Another example is that we may use cookie technology to control the number of times you see a particular advertisement while visiting SanLuisObispo.com. You can turn the cookies feature off by using your browser preference options, but doing so will severely limit your access to SanLuisObispo.com and may prevent you from registration.
 
-Some of SanLuisObispo.com's third-party content providers also may place a cookie on your computer. If you choose to monitor or restrict cookies that are placed on his computer, you can determine the Web site that is attempting to place a cookie. Those cookies are controlled by the content provider, and you should refer to that provider's privacy policy for further information regarding its use of cookies.
+Some of SanLuisObispo.com's third-party content providers also may place a cookie on your computer. If you choose to monitor or restrict cookies that are placed on this computer, you can determine the Web site that is attempting to place a cookie. Those cookies are controlled by the content provider, and you should refer to that provider's privacy policy for further information regarding its use of cookies and about your options not to accept them.
 
 We use services provided by Yahoo! to display advertising on SanLuisObispo.com, and we may use cookies in conjunction with displaying those ads. Please refer to Yahoo!'s privacy policy at <http://privacy.yahoo.com/> for further information concerning Yahoo!'s use of cookies.
 
@@ -104,7 +104,7 @@ In addition, our advertisers, content providers, partners and other Internet sit
 
 ### Notice to California Residents - Your California Privacy Rights:
 
-If you are a California resident, you have the right to receive: a) information identifying any third-party company(ies) to whom SanLuisObispo.com may have disclosed, within the past year, personal information pertaining to you and your family for that company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please e-mail your request to [webmaster@thetribunenews.com](https://web.archive.org/web/20091215074233id_/http%3A//www.sanluisobispo.com/webmaster@thetribunenews.com).
+If you are a California resident, you have the right to receive: a) information identifying any third-party company(ies) to whom SanLuisObispo.com may have disclosed, within the past year, personal information pertaining to you and your family for that company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please e-mail your request to [webmaster@thetribunenews.com](https://web.archive.org/web/20100505122603id_/http%3A//www.sanluisobispo.com/webmaster@thetribunenews.com).
 
 ### International users
 
