@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbc.co.uk privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222015641id_/http%3A//www.bbc.co.uk/go/blq/foot/privacy/hp/-/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbc.co.uk privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505175045id_/http%3A//www.bbc.co.uk/go/blq/foot/privacy/hp/-/privacy) for the most accurate reproduction.*
 
 # BBC - Privacy and Cookies Policy
 
@@ -169,5 +169,3 @@ W12 7TS
 Skip to top
 
 Skip to top
-
-**This page is best viewed in an up-to-date web browser with style sheets (CSS) enabled. While you will be able to view the content of this page in your current browser, you will not be able to get the full visual experience. Please consider upgrading your browser software or enabling style sheets (CSS) if you are able to do so.**
