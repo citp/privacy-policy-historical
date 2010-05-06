@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the styleschecks.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104084131id_/http%3A//www.styleschecks.com/service/service.aspx%3FpageCode%3D54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleschecks.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507005010id_/http%3A//www.styleschecks.com/service/service.aspx%3FpageCode%3D54) for the most accurate reproduction.*
 
-# Personal Checks, Labels, Checkbook Covers and Personal Cards ... The Styles Check Company
+# Styles Checks - Privacy Policy
 
-[Customer Service](https://web.archive.org/web/20091104084131id_/http%3A//www.styleschecks.com/service/customerservice.aspx) > Privacy Policy  
+[Customer Service](https://web.archive.org/web/20100507005010id_/http%3A//www.styleschecks.com/service/customerservice.aspx) > Privacy Policy  
 
 
 **This is the Privacy Policy for The Styles Check Company.**
@@ -11,8 +11,8 @@
 
 
 **Our postal address is:**  
-P.O. Box 2   
-Bel Air, Maryland 21014-0002 
+P.O. Box 2200   
+Alexander, AR. 72002-2200
 
 We can be reached via e-mail at [customerservice@styleschecks.com](mailto:customerservice@styleschecks.com) or you can reach us by telephone at 1-800-356-0353.
 
