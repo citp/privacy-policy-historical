@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarthomeusa.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105174049id_/http%3A//www.smarthomeusa.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarthomeusa.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507003223id_/http%3A//www.smarthomeusa.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for SmartHomeUSA.com - SmartHomeUSA.com
 
@@ -22,8 +22,9 @@ This site has security measures in place to protect the loss, misuse, and altera
 
   **Choice/Opt-Out**   
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us .    
-   1.You can send email to [info@smarthomeusa.com](mailto:info@smarthomeusa.com)   
-   2.You can call the following telephone number: 1-888-843-9103 
+   1\. You can click the Unsubscribe link at the bottom of the promotional email.   
+   2.You can send a request to [info@smarthomeusa.com](mailto:info@smarthomeusa.com)   
+   3.You can call the following telephone number: 1-888-843-9103 
 
   **Data Quality/Access**   
 This site gives users the following options for changing and modifying information previously provided:   
