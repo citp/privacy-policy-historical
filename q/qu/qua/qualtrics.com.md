@@ -1,13 +1,21 @@
-> *The following text is extracted and transformed from the qualtrics.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617154200id_/http%3A//www.qualtrics.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualtrics.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507012945id_/http%3A//www.qualtrics.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - Qualtrics
+# Privacy Statement - Qualtrics Privacy Policy - Secure Data | Qualtrics
 
-**What is your privacy policy regarding email addresses and personal information?**
+_Qualtrics provides a protective privacy policy regarding e-mail addresses and personal information._
 
-Qualtrics collects and analyzes aggregate information of visitors to its network of surveys, including the domain name, visited surveys, referring URLs, and other publicly available information. We use this information to help improve our web site and services, and to customize the content of our pages for each individual customer.
+Qualtrics collects and analyzes aggregate information of visitors, including the domain name, visited surveys,referring URLs, and other publicly available information. We use this information to help improve our website and services, and to customize the content of our pages for each individual customer.
 
-We provide the most advanced survey building tools for corporations, research companies, and consultants. These clients collect data. We do not sell or make available specific information about our clients or their clients, except in aggregate form, and except in cooperation with law enforcement bodies in regards to content violations or violations of applicable laws. We maintain a database of member and user information which is used only for internal purposes such as advertising, collections efforts, technical support, notifying members of changes or enhancements to the service, new services and products that may be of interest to them, and special discounts available.
+We provide the most advanced survey building tools for corporations, research companies, consultants and universities. We do not sell or make available specific information about our clients, their clients, or either of their data, except in cooperation with law enforcement bodies in regards to content violations or violations of applicable laws. We maintain a database of user information which is used only for internal purposes such as technical support, notifying members of changes or enhancements to the service.
 
-Qualtrics uses VeriSign's secure services for online credit card payment transactions and does not record or store credit card information on its site or servers.
+Qualtrics uses secure services for online credit card payment transactions and does not record or store credit card information on its site or servers.
 
-Any member may cancel their membership at any time by going to their survey administration page. Questions or problems regarding this policy may be sent to [support@qualtrics.com](mailto:support@qualtrics.com)
+Questions regarding this policy may be sent to [support@qualtrics.com](mailto:support@qualtrics.com).
+
+Qualtrics complies with the U.S. and E.U. Safe Harbor Framework and the U.S.and Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland.
+
+Qualtrics has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please [click here](http://www.export.gov/safeharbor/).
+
+[We self-certify compliance with Safe Harbor](https://www.export.gov/safehrbr/list.aspx). 
+
+[](http://www.export.gov/safeharbor/)
