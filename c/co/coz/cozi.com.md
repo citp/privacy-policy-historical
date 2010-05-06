@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cozi.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223165441id_/http%3A//www.cozi.com/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cozi.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507010146id_/http%3A//www.cozi.com/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Cozi
 
