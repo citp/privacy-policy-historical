@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleeptrain.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217194533id_/http%3A//sleeptrain.com/Page.aspx%3Fnid%3D116) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleeptrain.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506073202id_/http%3A//www.sleeptrain.com/Page.aspx%3Fnid%3D116) for the most accurate reproduction.*
 
 # Sleep Train - Privacy Policy
 
