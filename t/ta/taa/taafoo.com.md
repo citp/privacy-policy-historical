@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taafoo.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227193555id_/http%3A//www.taafoo.com/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taafoo.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507000024id_/http%3A//www.taafoo.com/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - www.taafoo.com - Get it!, Love it!, ...Stay hooked! - Celebrities, Musicians, Actors, Comedians, CEOs, Brands
 
@@ -26,7 +26,7 @@ Emails and SMS Messages
 
 By registering for a Taafoo account, you agree that we may send you the following types of email communications: welcome emails, our weekly newsletter, account status updates and promotional content. You may opt-out of receiving our email newsletter via the unsubscribe links in each email. You can also opt-out of specific types of email communications through your Account Settings. 
 
-Our Services feature the distribution of content to your mobile phone, and by registering for a Taafoo account, you agree to receive SMS messages to your phone, including messages regarding Services you request, account status updates, and occasional SMS newsletters. You will also have the opportunity to opt-in and receive surveys and promotional content by our affiliates. You may opt out of our SMS newsletter by sending an email to customercare@taafoo.com or by responding to the SMS newsletter indicating that you would like to unsubscribe. 
+Our Services feature the distribution of content to your mobile phone, and by registering for a Taafoo account, you agree to receive SMS messages to your phone, including messages regarding Services you request, account status updates, and occasional SMS newsletters. You may also receive SMS adverts only when we send you information you request. You will also have the opportunity to opt-in and receive surveys and promotional content by our affiliates. You may opt out of our SMS newsletter by sending an email to customercare@taafoo.com or by responding to the SMS newsletter indicating that you would like to unsubscribe. 
 
 Our website provides you with the opportunity to refer your friends, family members or relatives to the Taafoo Services. For this feature of our website to work, we need to collect your friends and families' email addresses. The email addresses we collect in this context are not used for any other purpose other than to send a one-time referral. 
 
