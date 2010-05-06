@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thechangeblog.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102004900id_/http%3A//www.thechangeblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechangeblog.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507001431id_/http%3A//www.thechangeblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Change Your Life | The Change Blog
-
-## Privacy Policy
+# Privacy Policy
 
 **The Change Blog respects your privacy.**
 
@@ -27,3 +25,5 @@ While we do our best to protect your personal information, we cannot guarantee t
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
 For any other information email [Peter Clemens](mailto:peter@thechangeblog.com)
+
+Join my newsletter and get my ebook 'A Year Of Change' free as a gift.
