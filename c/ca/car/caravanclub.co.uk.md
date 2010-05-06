@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the caravanclub.co.uk privacy policy that was archived on 2009-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091018062204id_/http%3A//www.caravanclub.co.uk/General/Footer/Privacy%2BPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caravanclub.co.uk privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506235730id_/http%3A//www.caravanclub.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy | The Caravan Club
 
 The Caravan Club Limited, company number 646027, the registered office and correspondence address is East Grinstead House, London Road, East Grinstead, West Sussex, RH19 1UA, United Kingdom ('The Caravan Club') has developed this privacy policy as we understand that the privacy and security of your personal information is an important issue to you.
 
@@ -10,19 +10,19 @@ If you do not agree with this privacy policy and the terms of use policy please 
 
 What personal information do we collect and how do we use it?
 
-The Data Protection Act 1998 (‘the 1998 Act’) places restrictions on the processing of personal data by a data controller. The terms processing, personal data, sensitive personal data and data controller are defined in the 1998 Act.
+The Data Protection Act 1998 ('the 1998 Act') places restrictions on the processing of personal data by a data controller. The terms processing, personal data, sensitive personal data and data controller are defined in the 1998 Act.
 
 We collect personal information from you when you communicate with us by any media. We may also collect personal data which relates to you from third parties.
 
-Depending on your relationship with The Caravan Club (‘The Club’), we shall process your personal data for the following purposes:
+Depending on your relationship with The Caravan Club ('The Club'), we shall process your personal data for the following purposes:
 
-  * to administer your membership 
-  * to administer your enquiries about The Club and purchases of Club (and third party) products and services 
-  * to transfer to third parties who provide services to The Club and/or members 
-  * to provide information to you about The Club and membership benefits provided by The Club and third parties 
-  * to send electronic marketing communications with your explicit consent 
-  * to carry out research 
-  * the general objectives of The Club 
+  * to administer your membership
+  * to administer your enquiries about The Club and purchases of Club (and third party) products and services
+  * to transfer to third parties who provide services to The Club and/or members
+  * to provide information to you about The Club and membership benefits provided by The Club and third parties
+  * to send electronic marketing communications with your explicit consent
+  * to carry out research
+  * the general objectives of The Club
   * statutory and regulatory compliance
 
 
@@ -39,14 +39,13 @@ We use "cookies" on this site to enable our system to recognise your computer an
 
 ## Sensitive personal information
 
-Certain personal information is categorised by the 1998 Act as ‘sensitive personal data’. In some circumstances, we provide you with the opportunity to inform us of your sensitive personal data e.g. whether or not you are registered as disabled. You may also wish to inform us about your sensitive personal data to ensure that we can provide you with the most appropriate service. By providing us with this data you are consenting to our processing it for the purposes for which it was given e.g. the allocation of an appropriate pitch at the National Rally.
+Certain personal information is categorised by the 1998 Act as 'sensitive personal data'. In some circumstances, we provide you with the opportunity to inform us of your sensitive personal data e.g. whether or not you are registered as disabled. You may also wish to inform us about your sensitive personal data to ensure that we can provide you with the most appropriate service. By providing us with this data you are consenting to our processing it for the purposes for which it was given e.g. the allocation of an appropriate pitch at the National Rally.
 
-Please note that if you fail to inform us of any sensitive personal data which may be relevant to your circumstances, this may mean that we cannot provide you with the most appropriate service.  
+Please note that if you fail to inform us of any sensitive personal data which may be relevant to your circumstances, this may mean that we cannot provide you with the most appropriate service.
 
+## Sharing your information
 
-## Sharing your information 
-
-If you do not wish us to share your personal data with any third party for marketing purposes, please write to Membership Services at The Club’s address below, or call 01342 318813.
+If you do not wish us to share your personal data with any third party for marketing purposes, please write to Membership Services at The Club's address below, or call                             01342 318813.
 
 ## Member surveys
 
@@ -57,20 +56,20 @@ From time to time we ask our members to complete research surveys so we can impr
 You can find out what personal information we hold on you by sending a written request to:
 
 The Compliance Officer  
-The Caravan Club   
+The Caravan Club  
 East Grinstead House  
 East Grinstead  
 West Sussex  
 RH19 1UA  
 United Kingdom
 
-You will receive a reply as soon as practicable provided that we do not require proof of your identity.  We reserve the right to charge you an administration fee of £10, payable by a postal order or a personal cheque made payable to The Caravan Club Limited and sent by first class post to the above address, in relation to each request that you make. 
+You will receive a reply as soon as practicable provided that we do not require proof of your identity.  We reserve the right to charge you an administration fee of £10, payable by a postal order or a personal cheque made payable to The Caravan Club Limited and sent by first class post to the above address, in relation to each request that you make.
 
 If we request payment of the administration fee then we will not reply until after we have received your postal order or your cheque has cleared.  If any personal information held by The Caravan Club is inaccurate or you wish to make any changes to personal information previously submitted to us, please write to our Compliance Officer at the above address clearly explaining what amendments you wish to be made.
 
 ## Changes to the privacy policy
 
-From time to time we may add new features to the website and enhance the level of service that we offer to you.  This may lead to changes in how we collect and/or use your personal information.  Any such changes will be notified to you either at the point any new personal information is collected or by us updating this privacy policy.  Your subsequent use of this website or submission of personal information to us will be deemed to signify your acceptance to the changes. 
+From time to time we may add new features to the website and enhance the level of service that we offer to you.  This may lead to changes in how we collect and/or use your personal information.  Any such changes will be notified to you either at the point any new personal information is collected or by us updating this privacy policy.  Your subsequent use of this website or submission of personal information to us will be deemed to signify your acceptance to the changes.
 
 ## Security and confidentiality
 
@@ -86,7 +85,7 @@ The Caravan Club website provides links to other websites that offer products, s
 
 ## Direct marketing
 
-You have the right under the 1998 Act to request that we do not process your personal data for the purposes of direct marketing. If you would prefer that we cease to send you direct marketing information please write to Membership Services at The Club’s address below or call 01342 318 813.
+You have the right under the 1998 Act to request that we do not process your personal data for the purposes of direct marketing. If you would prefer that we cease to send you direct marketing information please write to Membership Services at The Club's address below or call 01342 318 813.
 
 Please note that if you make such a request, you will continue to receive communications relating to the administration of your membership and any services purchased.
 
@@ -99,12 +98,11 @@ Your telephone calls and e-mails to us may be recorded and monitored for quality
 If you have any queries relating to this privacy policy, please feel free to contact us by letter at the following address:
 
 The Compliance Officer   
-The Caravan Club   
+The Caravan Club  
 East Grinstead House  
 East Grinstead  
 West Sussex  
 RH19 1UA  
 United Kingdom
 
-This privacy policy was last updated on: 20th of April 2006.  
-
+This privacy policy was last updated on: 20th of April 2006.
