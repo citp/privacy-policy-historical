@@ -1,0 +1,53 @@
+> *The following text is extracted and transformed from the livelinkcafe.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507005028id_/http%3A//www.livelinkcafe.com/privacy.php) for the most accurate reproduction.*
+
+# Live Link Cafe: FREE Advertising For Instant Real Live Visitors To Your Website
+
+|  |  |  | 
+
+| 
+
+**_Ways To Post:_**
+
+|   
+  
+---|---  
+  
+[View](https://web.archive.org/web/20100507005028id_/http%3A//www.livelinkcafe.com/how_to.php) **** 10 = **1** Post Pt.   
+  
+Members: [ **2918** ]  
+  
+* * *  
+  
+* * *  
+  
+LiveLinkCafe.com: Privacy policy   
+Privacy Policy:
+
+LiveLinkCafe will never rent, share, sell, trade or make your information available to any third party in any other way. The only exception would be in the case of a government-issued court order or similar situation. 
+
+We keep a record of your email address. We'll use this information to send you payments and possibly to contact you with service-related notices, announcements and messages.
+
+We maintain a record of who you refer to our service in order to reward you with the appropriate bonuses in your account.
+
+  
+No Spam Policy:
+
+Users can not use illegal or inappropriate means to promote TopSurfer. This includes but is not limited to unsolicited email (SPAM). Sending bulk emails to anyone that has not specifically requested information from the member personally. Or in other words do not buy bulk "Opt-in" lists. If the person did not specifically opt-in to receive emails from you specifically then you can NOT email them. **LiveLinkCafe.com has zero tolerance for SPAM.**
+
+  
+Your Consent:
+
+By using this site, you consent to the collection and use of this information by LiveLinkCafe.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+
+  
+By Using This Service You Agree to these Terms!  
+
+
+Violations:
+
+Please report any violations of the TOS to us at: [helpdesk@livelinkcafe.com](mailto:helpdesk@livelinkcafe.com)
+
+Cancel Your Membership / Opt Out
+
+If at any time you wish to close your account you may email your request to [](mailto:helpdesk@livelinkcafe.com) [helpdesk@livelinkcafe.com](mailto:helpdesk@livelinkcafe.com). Please be aware that terminating your account will cancel any and all credits due, without refund.   
+
