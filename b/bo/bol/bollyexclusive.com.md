@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollyexclusive.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103150145id_/http%3A//www.bollyexclusive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollyexclusive.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507005950id_/http%3A//www.bollyexclusive.com/privacy) for the most accurate reproduction.*
 
 # B o l l y E x c l u s i v e . c o m : Privacy Statement
 
