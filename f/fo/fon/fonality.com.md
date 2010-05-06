@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fonality.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604153602id_/http%3A//www.fonality.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonality.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506180138id_/http%3A//www.fonality.com/about/privacy) for the most accurate reproduction.*
 
 # Fonality Privacy Policy | Fonality
 
@@ -27,8 +27,6 @@ In order to monitor the performance of your system, provide you with technical s
 Customers can, at their discretion, elect to disconnect this connection. Disconnecting the connection will prevent the administration of your server(s), and will disable other important features, including graphical reporting.
 
 In addition, we will not be able to provide technical support or software updates until the connection is re-established. 
-
-Fonality provides additional information on maximizing the security of a PBXtra installation in our KnowledgeBase at <http://help.fonality.com/index.php/Tips_for_Security_and_Performance>
 
 ##### Billing Information
 
