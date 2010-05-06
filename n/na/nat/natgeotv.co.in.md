@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natgeotv.co.in privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628111120id_/http%3A//www.natgeotv.co.in/Info/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natgeotv.co.in privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507001142id_/http%3A//www.natgeotv.co.in/Info/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -30,5 +30,5 @@
 
 **Transfer of Information** \- The Information may be transferred by us to our computer servers in other countries given the global nature of our business. Any transfer of information is in accordance with the UK and EU law on Data Protection. Currently those servers are located in India and the United States of America. 
 
-© 2009NGC Network (India) Pvt. Ltd. All Rights Reserved  
+© 2010NGC Network (India) Pvt. Ltd. All Rights Reserved  
 
