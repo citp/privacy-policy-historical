@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the inin.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608222542id_/http%3A//www.inin.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inin.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506130347id_/http%3A//www.inin.com/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 Dear Internet website visitor (“you”):
 
-Thank you for your interest in Interactive Intelligence, Inc. (“Interactive Intelligence”). This Privacy Policy describes Interactive Intelligence’s privacy policy with regard to our Internet website located at [http://www.inin.com](https://web.archive.org/) or any successor Internet website thereto (the “Site”). By visiting the Site, you are accepting the practices described in this Privacy Policy. THIS PRIVACY POLICY MAY CHANGE FROM TIME TO TIME, SO PLEASE CHECK BACK PERIODICALLY.
+Thank you for your interest in Interactive Intelligence, Inc. (“Interactive Intelligence”). This Privacy Policy describes Interactive Intelligence’s privacy policy with regard to our Internet website located at [http://www.inin.com](http://www.inin.com/) or any successor Internet website thereto (the “Site”). By visiting the Site, you are accepting the practices described in this Privacy Policy. THIS PRIVACY POLICY MAY CHANGE FROM TIME TO TIME, SO PLEASE CHECK BACK PERIODICALLY.
 
 Interactive Intelligence treats your visit to our Site as we would treat any other interaction with our valued customers and prospective customers: as a private matter between you and Interactive Intelligence. We want you to know up front how we deal with any personally identifiable information you see fit to provide to us during our interactions with you. Therefore, this Privacy Policy will answer the following questions. 
 
@@ -24,7 +24,7 @@ The Site uses information in aggregate form to track the total number of visitor
 
 **What information may be gathered from children?**
 
-The Site is not intended or designed to attract children under the age of 13\. Interactive Intelligence does not collect personally identifiable data from any person it knows to be under the age of 13.
+The Site is not intended or designed to attract children under the age of 13. Interactive Intelligence does not collect personally identifiable data from any person it knows to be under the age of 13.
 
 **What cookies are and how they are used?**
 
@@ -32,7 +32,7 @@ Some pages within the Site may use a technology called "cookies". A cookie is a 
 
 **Who should you contact if you have any questions concerning this Privacy Policy?**
 
-If you would like further information, or to provide feedback about what you like about our Site, this Privacy Policy or how our site could be more useful to you, please contact us at: [webmaster@inin.com](mailto:webmaster@inin.com), or call us at: 317.872.3000.
+If you would like further information, or to provide feedback about what you like about our Site, this Privacy Policy or how our site could be more useful to you, please contact us at: [info@inin.com](mailto:info@inin.com), or call us at: 317.872.3000.
 
 Please enjoy your visit to the Interactive Intelligence Internet website.
 
