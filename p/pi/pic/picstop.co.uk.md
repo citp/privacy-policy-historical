@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picstop.co.uk privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105021906id_/http%3A//www.picstop.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picstop.co.uk privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507000341id_/http%3A//www.picstop.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Picstop
 
