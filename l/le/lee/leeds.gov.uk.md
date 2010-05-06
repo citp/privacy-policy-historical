@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leeds.gov.uk privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101035047id_/http%3A//www.leeds.gov.uk/page.aspx%3FpageIdentifier%3DBF207A6A0A90CCA380256E14003DDACB) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leeds.gov.uk privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506114950id_/http%3A//www.leeds.gov.uk/page.aspx%3FpageIdentifier%3DBF207A6A0A90CCA380256E14003DDACB) for the most accurate reproduction.*
 
 # Privacy statement
 
