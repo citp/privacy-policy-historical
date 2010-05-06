@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashpointgame.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105095431id_/http%3A//www.flashpointgame.com/%3Fpage%3Dprivacy-uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashpointgame.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507000144id_/http%3A//www.flashpointgame.com/%3Fpage%3Dprivacy-uk) for the most accurate reproduction.*
 
 # Operation Flashpoint: Dragon Rising - Privacy
 
