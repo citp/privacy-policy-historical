@@ -1,427 +1,258 @@
-<!--The following is the downloaded HTML source of the qualtrics.com privacy policy that was archived on 2009-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617154200id_/http%3A//www.qualtrics.com/privacy-statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qualtrics.com privacy policy that was archived on 2010-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100507012945id_/http%3A//www.qualtrics.com/privacy-statement) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="verify-v1" content="b7y9dI7DIn4yT4EOXNBMLGYiRuf+fYffAlVgOnmx35Q=">	<!-- Enable Google's Webmaster Tools -->
-<title>Privacy Statement&nbsp;-&nbsp;Qualtrics</title>
-<meta name="title" content="Privacy Statement">
-<meta name="author" content="Administrator">
-<meta name="robots" content="index, follow">
-<base href="http://www.qualtrics.com/">
-	<link rel="shortcut icon" href="http://www.qualtrics.com/images/favicon.ico">
-	<link href="http://www.qualtrics.com/templates/Default-TemplateFiles/css/template_css.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="http://www.qualtrics.com/templates/Default-TemplateFiles/javascript/fancybox/fancy.css" type="text/css" media="screen">
-    <script type="text/javascript" src="/swfobject.js"></script>
-	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
-	<script type="text/javascript" src="http://www.qualtrics.com/templates/Default-TemplateFiles/lib/chili-1.7.pack.js"></script>
-	<script type="text/javascript" src="http://www.qualtrics.com/templates/Default-TemplateFiles/lib/jquery.easing.js"></script>
-	<script type="text/javascript" src="http://www.qualtrics.com/templates/Default-TemplateFiles/lib/jquery.dimensions.js"></script>
-	<script type="text/javascript" src="http://www.qualtrics.com/templates/Default-TemplateFiles/jquery.accordion.js"></script>
-	<script type="text/javascript" src="http://www.qualtrics.com/templates/Default-TemplateFiles/javascript/fancybox/jquery.fancybox-1.0.0.js"></script>
-	<script type="text/javascript">
-	function registration_info(full_name,company,work_phone,email,questions)
-	{
-			var transport = jQuery.ajax({
-			url:'/forms/curl.php', 
-			type:'POST',
-			data:{name:full_name, phone:work_phone, email:email, company:company, comment:questions},
-			success:function(responseText){
-				alert('We will contact you shortly');
-			}
-		});
-	}
-	function loadContent(url)
-	{
-		if(url)
-		{
-			window.lastPage = url;
-			window.location = getBaseUrl()+'#'+url; //for recreating the state.
-			var transport = jQuery.ajax({
-				url:url, 
-				data:{contentOnly:true},
-				success:function(responseText){
-					var xjson = transport.getResponseHeader('X-JSON');
-					var pageName;
-					if(xjson) pageName = eval(xjson);
-					if(pageName)
-					{
-						$('pageDiv').className = 'page_'+pageName;
-					}
-					if(jQuery('#contentParent'))
-					{
-						jQuery('#contentParent').html(responseText);
-					
-						if($('hiddenFooter'))
-						{
-							if(url == '/')
-							{
-								jQuery('#hiddenFooter').css({display:'none'});
-							}
-							else
-							{
-								jQuery('#hiddenFooter').css({display:'block'});
-							}
-						}
-					}
-				}
-				
-			});
-		}
-	}
-	 
-	function getPageUrl(opt_url)
-	{
-		var url = opt_url || String(window.location);
-		var page = url.substring(url.lastIndexOf('/')+1, url.length);
-    	if(url.indexOf('#') != -1)
-    	{
-    		var page = url.substring(url.lastIndexOf('#')+1, url.length);
-    	}
-    	return page;
-  
-	}
-	function getBaseUrl(opt_domainOnly)
-	{
-		var url = String(window.location)
-		if(url.indexOf('#') == -1)
-		{
-			return String(window.location);
-		}
-		if(opt_domainOnly)
-		{
-			return url.substring(0, url.indexOf('.com')+4);
-		}
-		return url.substring(0, url.indexOf('#'));
-	}
-	function recreateState(loadHomePage)
-	{
-		//check to see if we need to load some content 
-    	var url = String(window.location);
-    	var page = getPageUrl();
-    	if(url.indexOf('#') != -1)
-    	{
-    		loadContent(page);
-       	}
-       	else if(loadHomePage)
-       	{
-       		loadContent('/');
-       	}
-	}
-	function getAccordianIndexByPage(page)
-	{
-		if(page)
-		{
-			var links = jQuery('#navigation a')
-			for(var i=0, len=links.length; i<len; ++i)
-			{
-				linkHref = getPageUrl(links[i].href);
-				if(linkHref == page)
-				{
-					//find the li that is the accordian node parent for the link we found. 
-					var li = jQuery(links[i]).parents('li.accordianItem');
-					var accordianList = li.parent().children()
-					var pos = jQuery.inArray(li[0], accordianList);
-					return pos;
-				}
-			}
-		}
-		return -1; //dont open anything
-	}
-	function checkForUrlChange()
-	{
-		var curPage = getPageUrl();
-		if(!curPage)
-		{
-			curPage = '/';
-		}
-		if(!window.lastPage)
-		{
-			window.lastPage = curPage;
-		}
-		//console.log(curPage, window.lastPage)
-		if(curPage != window.lastPage)
-		{
-			recreateState(true);
-			var index = getAccordianIndexByPage(curPage);
-			jQuery('#navigation').accordion("activate", index);
-		}
-	}
-	function setupImageZoom()
-	{
-		jQuery("a.ImageZoom").fancybox({
-			hideOnContentClick: true
-		});
-	}
-	jQuery().ready(function(){
-		setupImageZoom();
-		recreateState();
-		setInterval(checkForUrlChange, 500);
-  		var index = getAccordianIndexByPage(getPageUrl());
-  		// second simple accordion with special markup
-		jQuery('#navigation').accordion({
-			autoHeight: false,
-			active:index,
-			alwaysOpen: false,
-			header: "a.head",
-			navigation: false, //ill do this manually so i can get subpages working also. 
-			animated: "easeslide"
-		});
-		jQuery('.head').click(function(evt){
-		  loadContent(getPageUrl(evt.target.getAttribute('href')));
-		});
-		jQuery('.headerLink').click(function(evt){
-			window.location = getBaseUrl(true)+'#/';
-			checkForUrlChange();
-		});
-	   
-		if($('homeFlash'))
-		{
-			//swfobject.embedSWF('http://qualtrics.cachefly.net/website/quaHomeBucket.swf', 'homeFlash', "777", "254", "8")
-			swfobject.embedSWF('flash/quaHomeBucket.swf', 'homeFlash', "777", "254", "8")
-		}
-		
-	});
-	
-	</script>
-<script type="text/javascript" src="http://www.qualtrics.com/templates/Default-TemplateFiles/scripts/prototype.lite.js"></script>
-<script type="text/javascript" src="http://www.qualtrics.com/templates/Default-TemplateFiles/scripts/moo.fx.js"></script>
-<script type="text/javascript" src="http://www.qualtrics.com/templates/Default-TemplateFiles/scripts/moo.fx.pack.js"></script>
-<script type="text/javascript">
-//the main function, call to the effect object
-function init(){
-	if($('content'))
-	{
-		//Element.cleanWhitespace('content');
-		var stretchers = document.getElementsByClassName('stretcher'); //div that stretches
-		var toggles = document.getElementsByClassName('tab'); //h3s where I click on
-		var activeTab = document.getElementById('hdnActiveTab'); //value of currently active tab
-	
-		//accordion effect
-		var myAccordion = new fx.Accordion(
-			activeTab, toggles, stretchers, {opacity: true, height: true, duration: 400}
-		);
-	
-		//hash functions
-		var found = false;
-		toggles.each(function(h3, i){
-			var div = jQuery(h3).next();
-			if(div)
-			{
-				if (window.location.href.indexOf(h3.title) > 0) {
-					myAccordion.showThisHideOpen(div);
-					found = true;
-				}
-			}
-		});
-		if (!found) myAccordion.showThisHideOpen(stretchers[0]);
-	}
-}
-
-function openParentWatcher()
-{
-	var qualtricsWatcher = window.open('http://www.qualtrics.com/exitpopup.html', 'QualtricsSurveyWindow', 'width=1,height=1');
-	if(qualtricsWatcher)
-	{
-		qualtricsWatcher.blur();	
-		self.focus();
-	}
-	
-}
-function prepareParentWatcher()
-{
-	document.onclick = openParentWatcher;
-}
-//prepareParentWatcher();
-
-</script>
-<style>
-  .Login .textInput {
-    width: 100px;
-  }
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta description="Sophisticated research made simple.">
+<meta name="google-site-verification" content="-on47wmJh0WmQrIck3qnvMaDshbTJ5xzCHFR3ZW8-dk">
+<title>Privacy Statement - Qualtrics Privacy Policy - Secure Data  | Qualtrics</title>
+<style type="text/css" media="screen">
+	@import url( http://www.qualtrics.com/wordpress/wp-content/themes/Qualtrics-2009/style.css );
 </style>
 <!--[if IE 7]>
-<link href="http://www.qualtrics.com/templates/Default-TemplateFiles/css/template_css_ie7.css" rel="stylesheet" type="text/css"/>
+<link href="/wordpress/wp-content/themes/Qualtrics-2009/css/ie.css" rel="stylesheet" type="text/css"/>
 <![endif]-->
 <!--[if IE 6]>
-<link href="http://www.qualtrics.com/templates/Default-TemplateFiles/css/template_css_ie6.css" rel="stylesheet" type="text/css"/>
+<link href="/wordpress/wp-content/themes/Qualtrics-2009/css/ie6.css" rel="stylesheet" type="text/css"/>
 <![endif]-->
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.qualtrics.com/feed/">
+<link rel="alternate" type="text/xml" title="RSS .92" href="http://www.qualtrics.com/feed/rss/">
+<link rel="alternate" type="application/atom+xml" title="Atom 1.0" href="http://www.qualtrics.com/feed/atom/">
+<link rel="pingback" href="http://www.qualtrics.com/wordpress/xmlrpc.php">
+	<link rel="archives" title="February 2010" href="http://www.qualtrics.com/2010/02/">
+<link rel="stylesheet" id="contact-form-7-css" href="http://www.qualtrics.com/wordpress/wp-content/plugins/contact-form-7/stylesheet.css?ver=2.0.6" type="text/css" media="all">
+<script type="text/javascript" src="http://www.qualtrics.com/wordpress/wp-includes/js/jquery/jquery.js?ver=1.3.2"></script>
+<script type="text/javascript" src="http://www.qualtrics.com/wordpress/wp-content/plugins/lightbox-plus/js/jquery.colorbox-min.js?ver=1.3.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.qualtrics.com/wordpress/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.qualtrics.com/wordpress/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="Qualtrics" href="http://www.qualtrics.com">
+<meta name="generator" content="WordPress 2.9.1">
+
+<!-- All in One SEO Pack 1.6.8.2 by Michael Torbert of Semper Fi Web Design[452,494] -->
+<meta name="description" content="For your surveys, Qualtrics provides a protective privacy policy regarding e-mail addresses and personal information. Your data is safe with our survey software.">
+<meta name="keywords" content="privacy statement, qualtrics privacy policy, secure data ">
+<link rel="canonical" href="http://www.qualtrics.com/privacy-statement/">
+<!-- /all in one seo pack -->
+<!-- Lightbox Plus v1.6.3 -->
+<script type="text/javascript">
+jQuery(function($lbp){
+  $lbp(document).ready(function(){
+  $lbp.fn.colorbox.settings.transition = "elastic";
+  $lbp.fn.colorbox.settings.speed = 200;
+  $lbp.fn.colorbox.settings.maxWidth = "";
+  $lbp.fn.colorbox.settings.maxHeight = "";
+  $lbp.fn.colorbox.settings.scalePhotos = false;
+  $lbp.fn.colorbox.settings.opacity = 0;
+  $lbp.fn.colorbox.settings.preloading = false;
+  $lbp.fn.colorbox.settings.current = "Image {current} of {total}";
+  $lbp.fn.colorbox.settings.previous = "previous";
+  $lbp.fn.colorbox.settings.next = "next";
+  $lbp.fn.colorbox.settings.close = "close";
+  $lbp.fn.colorbox.settings.overlayClose = false;
+  $lbp.fn.colorbox.settings.slideshow = false;
+  $lbp.fn.colorbox.settings.slideshowAuto = false;
+  $lbp.fn.colorbox.settings.slideshowSpeed = 500;
+  $lbp.fn.colorbox.settings.slideshowStart =  "start";
+  $lbp.fn.colorbox.settings.slideshowStop = "stop";
+  $lbp("a[rel*=lightbox]").colorbox();
+  });
+});
+</script>
+<link rel="stylesheet" type="text/css" href="http://www.qualtrics.com/wordpress/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.css" media="screen">
+<!--[if IE]>
+     <link type="text/css" media="screen" rel="stylesheet" href="http://www.qualtrics.com/wordpress/wp-content/plugins/lightbox-plus/css/shadowed/colorbox-ie.php" title="IE fixes" />
+<![endif]-->
+<script src="/wordpress/wp-content/themes/Qualtrics-2009/js/javascript.js" type="text/javascript"></script>
+<script type="text/javascript" src="/swfobject.js"></script>
+		<script type="text/javascript">
+			var flashvars = {};
+			//flashvars.xP = "/wordpress/wp-content/themes/Qualtrics-2009/swf/content.xml";
+			var params = {};
+			params.bgcolor = "#FFFFFF";
+			params.allownetworking = "all";
+			var attributes = {};
+			attributes.id = "mainFlash";
+			swfobject.embedSWF("/wordpress/wp-content/themes/Qualtrics-2009/swf/quaHomeBucket_110409.swf", "homeFlash", "778", "280", "9.0.0", "expressInstall.swf", flashvars, params, attributes);
+			
+			<!-- External Interface javascript code below -->
+			var jsBoolean = false;
+			function jsReady() {
+				return jsBoolean;
+			}
+			function jsInit() {
+				jsBoolean = true;
+			}
+			function thisMovie(movieName) {
+				if (navigator.appName.indexOf("Microsoft") != -1) {
+					return window[movieName];
+				} else {
+					return document[movieName];
+				}
+			}
+			function sendAS(value) {
+				thisMovie("main").sendToAS(value);
+			}
+			function pauseAS() {
+				thisMovie("main").pauseAS();
+			}
+			function startAS() {
+				thisMovie("main").startAS();
+			}
+			function fromAS(value) {
+				alert("" + value);
+			}
+			
+			
+		</script>
+<script type="text/javascript">
+function clickclear(thisfield, defaulttext) {
+if (thisfield.value == defaulttext) {
+thisfield.value = "";
+}
+}
+function clickrecall(thisfield, defaulttext) {
+if (thisfield.value == "") {
+thisfield.value = defaulttext;
+}
+}
+</script>
+
 </head>
-<body class="qualtricsMain">
-<div id="container">
-  <div id="header"><a href="/#" class="headerLink"></a><div>  <form name="Login" class="Login" method="post" action="https://new.qualtrics.com/ControlPanel/">
-    Username <input class="textInput" type="text" name="UserName"> &nbsp;&nbsp;  
-    Password <input class="textInput" type="password" name="UserPassword"> &nbsp;&nbsp; 
-    <input type="submit" value="Login">
+
+<body onload="jsInit">
+<div id="wrapper">
+  <div id="header">    
+    <div id="title"><a href="http://www.qualtrics.com" title="Qualtrics - Sophisticated research made simple."><h1 class="titleLogoQ">Qualtrics</h1></a></div>
+    <div id="titleButtons">
+    <a href="https://survey.qualtrics.com/ControlPanel/Register.php?BrandID=qtrial&amp;ServerID=Prod"><img src="/wordpress/wp-content/themes/Qualtrics-2009/images/b_freeacct.png" title="Free Account"></a>
+    <a href="/view-a-demo/"><img src="/wordpress/wp-content/themes/Qualtrics-2009/images/b_viewdemo.png" title="View Demo"></a>
+    <a href="/get-a-quote/"><img src="/wordpress/wp-content/themes/Qualtrics-2009/images/b_getquote.png" title="Get a Quote"></a>
+    </div>
+    <div id="titleLogoTR"><a href="http://www.qualtrics.com" title="Qualtrics - Sophisticated research made simple."><img src="/wordpress/wp-content/themes/Qualtrics-2009/images/q_logo_tr.png"></a></div>
+	</div>
+   
+   <div id="loginFormTop">
+   <form name="Login" class="Login" method="post" action="https://new.qualtrics.com/ControlPanel/">
+    username <input class="textInput" type="text" name="UserName"> &nbsp;&nbsp;  
+    password <input class="textInput" type="password" name="UserPassword"> &nbsp;&nbsp; 
+    <input type="image" src="/wordpress/wp-content/themes/Qualtrics-2009/images/bf_login.gif" style="vertical-align: top;" alt="Login" value="Login">
     <input type="hidden" name="ServerID" value="Prod">
     <input type="hidden" name="ClientAction" value="Login">
+	<input type="hidden" name="Source" value="www">
   </form>
-  </div></div>
-  <div id="horizontalBar">
-  <div class="Left">
-  the world's best online survey software</div>
-  <div class="Right">
-  <span class="barLink1"><a style="text-decoration: none;" href="https://survey.qualtrics.com/ControlPanel/Register.php?BrandID=qtrial&amp;ServerID=Prod"><img src="http://www.qualtrics.com/templates/Default-TemplateFiles/images/layout/horizontalBar-arrow.png" align="texttop" width="21" height="21" class="barImagePad">free account</a></span>
-    <span class="barLink2"><a style="text-decoration: none;" href="http://www.qualtrics.com/demo.html"><img src="http://www.qualtrics.com/templates/Default-TemplateFiles/images/layout/horizontalBar-arrow.png" align="texttop" width="21" height="21" class="barImagePad">view demo</a></span>
-    <span class="barLink3"><a style="text-decoration: none;" href="http://www.qualtrics.com/request-a-quote.html"><img src="http://www.qualtrics.com/templates/Default-TemplateFiles/images/layout/horizontalBar-arrow.png" align="texttop" width="21" height="21" class="barImagePad">get a quote</a></span>
-   </div>
-   <div class="Clear"></div>
   </div>
+<script type="text/javascript">
+    swfobject.embedSWF("/wordpress/wp-content/themes/Qualtrics-2009/swf/homeClients.swf", "homeClients", "240", "85", "8.0.0"), { wmode: "opaque" };
+</script>
 
-
-<div id="pageDiv" class="page_PrivacyStatement">
-	<div id="sidebar1">
-	<ul id="navigation">
-		<li class="accordianItem">
-			<a class="head" href="/survey-software.html">qualtrics research suite</a>
-			<ul class="navigationCopy">
-				<li><b><a href="/build.html">SURVEY DESIGN</a></b><br>
-				The perfect blend of sophistication and simplicity.</li>
-				<li><b><a href="/analyze.html">REPORTING &amp; ANALYSIS</a></b><br>
-				Make your data heard through professional, real-time reports.</li>
-				<li class="NavigationBottom"><b><a href="/send.html">DISTRIBUTION &amp; PANEL MANAGEMENT</a></b><br>Who, when, how often.</li>
-				<li><b><a href="advanced-surveys.html">ADVANCED SURVEYS</a></b><br>Dynamic surveys fit the needs of your respondent.</li>
-				<li><b><a href="advanced-data-management.html">ADVANCED DATA MANAGEMENT</a></b><br>Transport and analyze with ease and convenience.</li>
-				<li><b><a href="enterprise-features.html">ENTERPRISE FEATURES</a></b><br>The tools that bring your entire organization together.</li><br>
-		  </ul> 
-		</li>
-		<li class="accordianItem">
-			<a class="head" href="/survey-panels.html">survey panels</a>
-			<ul class="navigationCopy">
-				<li><b><a href="/consumer-panels.html">CONSUMER PANELS</a></b><br>
-				Over 4m respondents to cover almost any segment you can imagine</li>
-				<li><b><a href="/business-to-business.html">BUSINESS PANELS</a></b><br>
-				Over 1m respondents covering every industry, organizational size, and functional role in the US or Canada.</li>
-				<!-- <li class="NavigationBottom"><b><a href="/create-your-own.html">CREATE YOUR OWN</a></b><br />
-				Qualtrics Panel Management gives a company the tools to create and maintain its own feedback panels.</li> -->
-			</ul> 
-		</li>
-		<li class="accordianItem">
-			<a class="head" href="/the-qualtrics-story.html">the qualtrics story</a>
-			<ul class="navigationCopy">
-				<li><b><a href="/overview.html">CUSTOMER SATISFACTION</a></b><br>
-				Where we spend the majority of our time</li>
-			  <!-- <li class="NavigationButton"><b><a href="/our-team.html">OUR TEAM</a></b><br />The brawn and the brain</li> -->
-			  <li class="NavigationBottom"><b><a href="/contact.html">CONTACT</a></b><br>
-			  Talk to us.</li>
-		  </ul> 
-		</li>
-		<li class="accordianItem">
-			<a class="head" href="/our-clients.html">our clients</a>
-			<!-- <ul class="navigationCopy">
-				<li><b><a href="/case-studies.html">CASE STUDY</a></b><br />How are companies using qualtrics?<br /></li><br />
-		  </ul> -->
-		</li>
-			</ul>                
-		<div id="footerLeft">
-	<a href="/contact.html">Contact us</a><br><br>
-	<a href="/privacy-statement.html">Privacy Statement</a><br><br>
-	<a href="/security-statement.html">Security Statement</a><br><br>
-	<a href="/acceptable-use-statement.html">Acceptable Use Statement</a><br><br><br>
-	© 2008 Qualtrics, Inc.<br>
-	All Rights Reserved
-	</div>
-</div>
-   
-	<div class="mainRight">
-		<div class="contentContainer contentBackground">
-			<div class="contentImage" id="contentParent">
-				
-
+<div id="page">
+<!-- Begin Siebar -->
+    <div id="sidebar">
+        <div id="sideNavMain">
+			<div id="navResearchSuite"><span class="smallQual">QUALTRICS</span><br>
+<a href="/survey-software/">research suite</a></div>
+            <ul>
+            <li><a href="/survey-design/">survey design</a></li>
+             <img class="navDividerLinks" src="/wordpress/wp-content/themes/Qualtrics-2009/images/leftnav/q_nav_divider_new.gif">
+            <li><a href="/distribution/">distribution</a></li>
+            <img class="navDividerLinks" src="/wordpress/wp-content/themes/Qualtrics-2009/images/leftnav/q_nav_divider_new.gif">
+            <li><a href="/survey-analysis-reporting/">analysis &amp; reporting</a></li>
+           
+            </ul>
 			
-				<div id="mainContent">
-<h1 class="pageTitle">privacy statement</h1>
-<div id="subCopyBR">
-<p><b>What is your privacy policy regarding email  addresses and personal information?</b></p>
-<p>Qualtrics collects and analyzes aggregate information of visitors to its network of surveys, including the domain name, visited surveys, referring URLs, and other publicly available information. We use this information to help improve our web site and services, and to customize the content of our pages for each individual customer.</p>
-<p style="width: 500px;">We provide the most advanced survey building tools for corporations, research companies, and consultants. These clients collect data. We do not sell or make available specific information about our clients or their clients, except in aggregate form, and except in cooperation with law enforcement bodies in regards to content violations or violations of applicable laws. We maintain a database of member and user information which is used only for internal purposes such as advertising, collections efforts, technical support,  notifying members of changes or enhancements to the service, new services and products that may be of interest to them, and special discounts available.<br>
-<br>
-Qualtrics uses VeriSign's secure services for online credit card payment transactions and does not record or store credit card information on its site or servers.<br>
-<br>
-Any member may cancel their membership at any time by going to their survey administration page. Questions or problems regarding this policy may be sent to 
- <script language="JavaScript" type="text/javascript">
- <!--
- var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
- var path = 'hr' + 'ef' + '=';
- var addy84655 = 's&#117;pp&#111;rt' + '&#64;';
- addy84655 = addy84655 + 'q&#117;&#97;ltr&#105;cs' + '&#46;' + 'c&#111;m';
- var addy_text84655 = 's&#117;pp&#111;rt' + '&#64;' + 'q&#117;&#97;ltr&#105;cs' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + ':' + addy84655 + '\'>' );
- document.write( addy_text84655 );
- document.write( '<\/a>' );
- //-->\n </script><a href="mailto:support@qualtrics.com">support@qualtrics.com</a><script language="JavaScript" type="text/javascript">
- <!--
- document.write( '<span style=\'display: none;\'>' );
- //-->
- </script><span style="display: none;">This e-mail address is being protected from spam bots, you need JavaScript enabled to view it
- <script language="JavaScript" type="text/javascript">
- <!--
- document.write( '</' );
- document.write( 'span>' );
- //-->
- </script></span></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</div>
-</div>
+            <div style=" width: 178px; height: 19px; font-size: 21px; background:url(/wordpress/wp-content/themes/Qualtrics-2009/images/leftnav/q_nav_second.gif) no-repeat left top; color: #FFF;"><!--<a href="/professional-services/" style="width:120px; height:20px; display:block"></a>--></div>
+            <ul>
+            <li><a href="/survey-panels/">survey panels</a></li>
+            <img class="navDividerLinks" src="/wordpress/wp-content/themes/Qualtrics-2009/images/leftnav/q_nav_divider_new.gif">
+            <li><a href="/custom-reports/">custom reports</a></li>
+            <img class="navDividerLinks" src="/wordpress/wp-content/themes/Qualtrics-2009/images/leftnav/q_nav_divider_new.gif">
+            <li><a href="/conjoint-analysis/">conjoint analysis</a></li>
+            <img class="navDividerLinks" src="/wordpress/wp-content/themes/Qualtrics-2009/images/leftnav/q_nav_divider_new.gif">
+            <li><a href="/crm-integration/">CRM integration</a></li>
 
-	
-		
-
-					</div>
-			<div class="contentFooter">
-				<div id="mainContentRoundBottomShort">&nbsp;</div>
-				<a href="/contact.html"><div id="mainContentEmailButtonShort" class="LinkCursor"></div></a>
-			</div>
-		</div>
-		<div class="clear"></div>
-		<div id="footerContainer">
-		  
-		  		  
-		
-		  
-    <div id="topFooter1"><ul><li><span class="topFooterTitle"><a href="http://www.qualtrics.com/wiki/">survey university</a></span><br>
-      Need tutorials, guides, articles about how to build surveys, or what to include in specific types of surveys</li>
-    </ul></div>
-    <div id="topFooter2"><ul><li><span class="topFooterTitle"><a href="/enterprise-feedback-management.html">enterprise feedback management</a></span><br>
-      EFM provides feedback and data collection for your entire organization. Actionable and timely data, shared across corporate boundaries.</li>
-    </ul></div>
-    <div id="topFooter3"><ul><li><span class="topFooterTitle"><a href="http://www.qualtrics.com/blog">blog: about surveys</a></span><br>
-      Qualtrics.com presents current topics and discussions about customer satisfaction, concept testing and how to create surveys.</li>
-    </ul></div>
-    <div id="topFooter4"><ul><li><span class="topFooterTitle"><a href="/voice-of-the-customer.html">voice of the customer</a></span><br>
-      Know your customers through a continual flow of customer feedback. Increase customer retention with alert triggers allowing you to respond immediately to your customers.</li>
-    </ul></div>
-    <div id="bottomFooter1"><strong><a href="/customer-satisfaction-surveys.html">CUSTOMER SATISFACTION SURVEYS</a></strong><br>
-      <a href="/customer-service-surveys.html">Customer Service</a><br>
-      <a href="/test-market-analysis-surveys.html">Test Market</a><br>
-      <a href="/online-advertising-surveys-and-research.html">Advertising</a><br>
-      <a href="/sales-lead-generation-software-and-systems.html">Lead Generation</a></div>
-<div id="bottomFooter2"><strong><a href="/consumer-surveys.html">CONSUMER SURVEYS</a></strong><br>
-  <a href="/habits-and-uses-surveys.html">Consumer Habits and Uses</a><br>
-  <a href="/customer-attitudes-and-expectations-surveys.html">Consumer Attitudes</a><br>
-    <a href="/customer-retention-surveys.html">Consumer Retention</a><br>
-    <a href="/new-product-acceptance-surveys.html">New Product Acceptance</a></div>
-<div id="bottomFooter3"><strong><a href="/product-surveys.html">PRODUCT SURVEYS</a></strong><br>
-  <a href="/brand-management-surveys.html">Brand and Product</a><br>
-  <a href="/concept-test.html">Concept Test</a><br>
-  <a href="/product-pricing-surveys.html">Pricing</a><br>
-    <a href="/conjoint-analysis-surveys.html">Conjoint Analysis</a><br>
-    <a href="/product-positioning-surveys.html">Product Positioning</a></div>
-<div id="bottomFooter4"><strong><a href="/employee-satisfaction-survey.html">EMPLOYEE SATISFACTION SURVEYS</a></strong><br>
-  <a href="/360-feedback-surveys.html">360 Feedback</a><br>
-  <a href="/exit-interview-surveys.html">Exit Interview</a><br>
-  <a href="/employee-retention-surveys.html">Employee Retention</a><br>
-    <a href="/whistle-blower-surveys.html">Whistle Blower</a><br>
-    <a href="/sarbanes-oxley-evaluation.html">Sarbanes Oxley Evaluation</a></div>
-<div id="bottomFooter5"><strong><a href="/market-segmentation-surveys.html">MARKET SEGMENTATION SURVEYS</a></strong><br>
-  <a href="/attitude-surveys-benefit-surveys.html">Attitude Surveys - Benefit</a><br>
-  <a href="/demographic-surveys.html">Demographic</a><br>
-    <a href="/panel-management.html">Panel Management Software</a><br>
-    <a href="/enterprise-feedback-management.html">Enterprise Feedback Management</a></div>
-<br class="clearfloat">
-</div>
+            <!--
+            <li><img class="newNavIcon" src="/wordpress/wp-content/themes/Qualtrics-2009/images/newTag.png" align="middle" /><span class="newNavText"><a href="/site-intercept/">site intercept</a></span></li>-->
+            </ul>
   
+			<div id="navSurveyPanels"><a href="/about-qualtrics/">about qualtrics</a></div>
+            <ul>
+            <li><a href="/clients/">client list</a></li>
+            <img class="navDividerLinks" src="/wordpress/wp-content/themes/Qualtrics-2009/images/leftnav/q_nav_divider_new.gif">
+            <li><a href="/customer-experience/">customer experience</a></li>
+            
+            <img class="navDividerLinks" src="/wordpress/wp-content/themes/Qualtrics-2009/images/leftnav/q_nav_divider_new.gif">
+            <li><a href="/what-we-offer/">what we offer</a></li>
+            <img class="navDividerLinks" src="/wordpress/wp-content/themes/Qualtrics-2009/images/leftnav/q_nav_divider_new.gif">
+            <li><a href="/contact-us/">contact us</a></li>
+            </ul>
+        </div>
+        <div id="sideSubNav">
+       	    <div class="searchFormNav"><form method="get" id="searchform" action="http://www.qualtrics.com/">
+<label class="hidden" for="s"></label>
+<div><input type="text" onclick="clickclear(this, 'search')" onblur="clickrecall(this,'search')" value="search" style="font-family: helvetica;letter-spacing: .09em;font-size: 11px; padding-left: 4px;height: 15px;width: 150px; background:#bdbec0; border: 0; color: #FFF;" name="s" id="s">
+<input type="image" src="/wordpress/wp-content/themes/Qualtrics-2009/images/search-btn.png" align="center" class="searchBTNgo" id="searchsubmit" value="Search">
+</div>
+</form>
+</div>            <img src="/wordpress/wp-content/themes/Qualtrics-2009/images/leftnav/q_nav_divider_new.gif">
+            <ul>          
+            <li><a href="/customer-training-and-support/">Training &amp; Support</a></li>
+            <li><a style="color: #6d6e70;" href="/privacy-statement/">Privacy Statement</a></li>
+            <li><a style="color: #6d6e70;" href="/security-statement/">Security Statement</a></li>
+            <li><a style="color: #6d6e70;" href="/acceptable-use-statement/">Acceptable Use Statement</a></li></ul>
+            <ul><li>©2010 Qualtrics, Inc.<br>All Rights Reserved</li></ul>
+        
+        </div>
+    
+    </div>
+<!-- End Sidebar -->
+
+<!-- BEGIN TAGLINE -->
+    <div id="qTagline">sophisticated research made simple<sup>™</sup></div>
+<!-- END TAGLINE -->
+  <div id="content">
+    <!-- BEGIN BREADCRUMBS -->
+        <p id="breadcrumbs" class="redCarrot" style="font-size: 11px;">&gt; <a href="http://www.qualtrics.com">home</a> / <strong>Privacy Statement</strong></p>        <!-- END BREADCRUMBS -->
+            <h3>
+      Privacy Statement    </h3>
+    <div id="titleDivider"></div>
+    <div style="float: left; padding-left: 33px;" id="post-20">
+      <div class="entry">
+        <div style="color: #bf011a; font-size: 16px; margin-top: 18px; text-align: left;">
+
+<em>Qualtrics provides a protective privacy policy regarding e-mail addresses and personal information.</em>
+<br><br><br><br>
+</div>
+<p>Qualtrics collects and analyzes aggregate information of visitors, including the domain name, visited surveys,referring URLs, and other publicly available information. We use this information to help improve our website and services, and to customize the content of our pages for each individual customer.</p>
+
+<p>We provide the most advanced survey building tools for corporations, research companies, consultants and universities. We do not sell or make available specific information about our clients, their clients, or either of their data, except in cooperation with law enforcement bodies in regards to content violations or violations of applicable laws. We maintain a database of user information which is used only for internal purposes such as technical support, notifying members of changes or enhancements to the service.</p>
+
+<p>Qualtrics uses secure services for online credit card payment transactions and does not record or store credit card information on its site or servers.</p>
+
+<p>Questions regarding this policy may be sent to <a href="mailto:support@qualtrics.com">support@qualtrics.com</a>.</p>
+
+
+<p>Qualtrics complies with the U.S. and E.U. Safe Harbor Framework and the U.S.and Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland.</p>
+<p>
+Qualtrics has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please <a href="http://www.export.gov/safeharbor/">click here</a>.</p>
+<a href="https://www.export.gov/safehrbr/list.aspx">We self-certify compliance with Safe Harbor</a>.
+<br><br><br><br><br><br>
+<a href="http://www.export.gov/safeharbor/"><img alt="" <img="" class="aligncenter" src=" http://www.qualtrics.com/wordpress/wp-content/uploads/2010/03/safe harbor_logo.jpg" width="309" height="126"></a>
+
+
+<br><br><br><br><br><br>
+
+<div style="font-size: 14px;">
+<div class="littleBullets2"><span class="littleBulletsText"><a href="/security-statement/">security statement</a></span></div>
+<div class="littleBullets2"><span class="littleBulletsText"><a href="/acceptable-use-statement/">acceptable use statement</a></span></div>
+</div>
+</div>              </div>
+    </div>
+              </div>
+  <!-- End Content -->
+</div>
+<!-- End Page -->
+ <!-- End Wrapper -->
+
 <!-- Google Analytics Setup -->
 <script type="text/javascript">
   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -433,8 +264,4 @@ Any member may cancel their membership at any time by going to their survey admi
 </script>
 
 
-
-		</div>
-	</div>
-</div>
-<!-- 1245253317 --></body></html>
+</body></html>
