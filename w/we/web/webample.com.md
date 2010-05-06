@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webample.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102130913id_/http%3A//www.webample.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webample.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506025747id_/http%3A//www.webample.com/privacy) for the most accurate reproduction.*
 
 # Web Ample - Privacy Policy
 
