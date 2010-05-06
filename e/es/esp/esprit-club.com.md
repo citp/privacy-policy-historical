@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esprit-club.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617045339id_/http%3A//www.esprit-club.com/index.php%3Fgo%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esprit-club.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506063209id_/http%3A//www.esprit-club.com/index.php%3Fgo%3DPRIVACY) for the most accurate reproduction.*
 
 # Your privacy
 
