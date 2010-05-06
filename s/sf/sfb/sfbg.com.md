@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the sfbg.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104120338id_/http%3A//www.sfbg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfbg.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507010628id_/http%3A//www.sfbg.com/privacy-policy) for the most accurate reproduction.*
 
-# San Francisco Bay Guardian : Privacy Policy : Home Page
+# Privacy Policy | San Francisco Bay Guardian
 
-  
-
-
-#### The San Francisco Bay Guardian  
-Privacy Policy
-
-Last Updated on March 1, 2007 
+Last Updated on March 1, 2007
 
 This Privacy Policy discloses the privacy practices for The San Francisco Bay Guardian newspaper and sfbg.com. For the purposes of this Privacy Policy, unless otherwise noted, all references to "The Guardian" include sfbg.com and The San Francisco Bay Guardian newspaper.
 
