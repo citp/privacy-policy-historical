@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the tinker.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104153023id_/http%3A//www.tinker.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinker.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506080159id_/http%3A//www.tinker.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Tinker Blog
 
 Effective March 1, 2009
+
+Revised February 23, 2010
 
 **Your Privacy and the Security of Your Personal Information Is Very Important to Us**
 
@@ -53,17 +55,19 @@ We maintain physical, electronic, and procedural safeguards that are designed to
 
 **What Are Cookies and How Does Tinker.com Use Them?**
 
-We may use “cookies” to collect or log certain information. A cookie is a small piece of information that a website stores on a personal computer and which it can later retrieve. We may use cookies for some administrative purposes-for example, to better understand how you interact with the Site and its services, to monitor aggregate usage of the Site by our users and to improve the Site and its services. The cookies will not contain information that will enable anyone to contact you via telephone, e-mail, or any other means. If you are uncomfortable with the use of cookie technology, you can set your browser to refuse cookies. Certain of our services, however, could be dependent on cookies, and our customers may disable those services by refusing cookies.
+We may use “cookies” to collect or log certain information. A cookie is a small piece of information that a website stores on a personal computer and which it can later retrieve. The cookie identifier associated with your browser is the same cookie identifier used when you visit other websites that use our advertising services (collectively, “Glam Network”).  We may use cookies for informational purposes-for example, to better understand how you interact with the Site and its services, to monitor aggregate usage of the Site by our users, to improve the Site and its services, or to serve advertisements tailored  to a customer’s preferences. The cookies will not contain information that will enable anyone to contact you via telephone, e-mail, or any other means. If our customers are uncomfortable with the use of cookie technology, they can set their browsers to refuse cookies or they can choose to opt out of our cookies at any time by clicking [here](http://www.glammedia.com/about_glam/legal/optout.php). If a user utilizes more than one type of browser, or more than one computer to access the Internet, they will need to opt out in each browser and on each computer that they use. Certain of our services, however, could be dependent on cookies, and our customers may disable those services by refusing cookies.
+
+Please note that third parties, which may include advertising networks and advertisers, serving ads on Glam.com and/or the Glam Network, and the independent site publishers in the Glam Network, may also use their own cookies. Glam does not control these cookies or the data collection practices of these companies. For more information about these companies’ separate privacy policies, you should contact the company directly. If the advertising network is a member of the Network Advertising Initiative (“NAI”), you may be able to opt out of receiving targeted advertising delivered by NAI members by following the opt-out directions on www.networkadvertising.org.
 
 **What Privacy Policies Cover the Ads on Tinker.com?**
 
-We may use third-party advertising companies to serve ads on Tinker.com. These companies may employ cookies and action tags (also known as single-pixel GIFs or Web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is not connected to personally identifiable information, such as your name and e-mail address.
+We may use third-party advertising networks to serve ads on Tinker.com. These companies may employ cookies and action tags (also known as single-pixel GIFs or Web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is not connected to personally identifiable information, such as your name and e-mail address. For more information about these companies’ separate privacy policies, you should contact the advertising network directly.
 
 **Links to Third-Party Sites and Websites Containing Tinker.com Branding**
 
 Tinker.com may contain links to third-party sites. Please be aware, however, that Glam is not responsible for and cannot control the privacy policies of these other sites or their practices nor are links to third party sites an endorsement, authorization or representation of our affiliation with that third party. We encourage you to read the privacy policies for these other sites and other statements, as they may differ from ours.
 
-This Site may also contain links to sites that display Tinker.com branding and/or Glam’s logo but which are maintained by third parties. Such websites may be identified in that they do not display a “Tinker.com” or “Glam.com” URL. Please read the privacy policy on these sites for applicable privacy practices relating to personal information collected via those sites because they may differ from Tinker.com’s privacy practices. This Privacy and Security Policy applies solely to personal information collected by Glam.
+This Site may also contain links to sites in the Tinker Network that display Tinker.com branding and/or Glam’s logo – but which are maintained by third parties. Such websites may be identified in that they do not display a “Tinker.com” or “Glam.com” URL. Please read the privacy policy on these sites for applicable privacy practices relating to personal information collected via those sites because they may differ from Tinker.com’s privacy practices. This Privacy and Security Policy applies solely to personal information collected by Glam.
 
 **Contact Preferences and Accessing Your Personal Information**
 
