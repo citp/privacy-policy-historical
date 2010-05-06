@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swabiz.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106102342id_/http%3A//www.swabiz.com/travel_center/privacy_policy.html%3Fint%3DSWABIZ_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swabiz.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507011524id_/http%3A//www.swabiz.com/travel_center/privacy_policy.html%3Fint%3DSWABIZ_POLICY) for the most accurate reproduction.*
 
 # Southwest Airlines Privacy Policy
 
@@ -107,13 +107,14 @@ _**E-Mail Promotions, Offers and Updates**_
 
 As a Member of the Rapid Rewards® program, you may opt to receive Rapid Rewards® e-mail communications which may include program news and special offers either during the Rapid Rewards® enrollment process or from you Rapid Rewards® account preferences webpage. The default option is not to receive these e-mail communications, so you need to let us know if you are interested in receiving these messages with special Members-only news and offers. You may also opt-out of receiving these messages at any time by adjusting your preferences through the account preferences webpage.
 
-We also provide you with the option of subscribing to our Click ‘n Save e-mail updates without establishing a Rapid Rewards® or MySouthwest® account. To do so, click on the subscribe link below. If you are no longer interested in receiving Click ‘n Save e-mails, you may unsubscribe from the service by clicking on the unsubscribe link below or by clicking on an opt-out link provided in each e-mail.
+We also provide you with the option of subscribing to our Click ‘n Save and In A Nutshell e-mail updates without establishing a Rapid Rewards® or MySouthwest® account. To do so, click on the subscribe links below. If you are no longer interested in receiving Click ’n Save and/or In A Nutshell e-mails, you may unsubscribe from these services by clicking on the unsubscribe link below or by clicking on an opt-out link provided in each e-mail.
 
 For your convenience, a brief description of the periodic e-mails you may choose to receive from us is also provided in the chart below along with links to either subscribe or unsubscribe to each option. Once you subscribe to any of our e-mail communications, you will need to confirm your subscription by following the link provided in the e-mail confirmation you should receive shortly after subscribing.
 
 E-mails | Description | Subscribe | Unsubscribe  
 ---|---|---|---  
-Click ‘n Save E-mail Updates/My Southwest® Offers | Regular updates on special offers and promotions. | [Subscribe](http://www.southwest.com/email/) | [Unsubscribe](http://www.southwest.com/email/emailUnsubscribe.html)  
+Click ‘n Save® Special Offers E-mail | Weekly e-mail highlighting travel deals on flights, car rentals, hotels, cruises, and Southwest Vacations | [Subscribe](http://www.southwest.com/email/) | [Unsubscribe](http://www.southwest.com/email/emailUnsubscribe.html)  
+In A Nutshell News & Promotions E-mail | Monthly newsletter-style e-mail featuring announcements, upcoming promotions, events, contests, new products, and partner offers | [Subscribe](http://www.southwest.com/email/) | [Unsubscribe](http://www.southwest.com/email/emailUnsubscribe.html)  
 Rapid Rewards® E-mail Updates | Rapid Rewards® news and offers for Members only | [Subscribe](http://www.southwest.com/rapid_rewards/rremail/rremailSubscribe.html) | [Unsubscribe](http://www.southwest.com/rapid_rewards/rremail/rremailUnsubscribe.html)  
 Rapid Rewards® Reports | Monthly report containing Rapid Rewards® account balance information, news, promotions and offers for Members only | [Subscribe](http://www.southwest.com/rapid_rewards/rremail/rremailSubscribe.html) | [Unsubscribe](http://www.southwest.com/rapid_rewards/rremail/rremailUnsubscribe.html)  
   
@@ -121,8 +122,8 @@ _**Other E-Mail Communication**_
 
 E-mails | Description | Subscribe | Unsubscribe  
 ---|---|---|---  
-SWABiz® Corporate Travel Manager e-mail Updates | News related to SWABiz®, Southwest’s Business Travel website. For registered Corporate Travel Managers only. | [Contact your Area Marketing Manager.](http://www.swabiz.com/findAmm.html) | [Contact your Area Marketing Manager.](http://www.swabiz.com/findAmm.html)  
-SWAMedia and Investor Relations e-mail Alerts | Southwest Airlines news releases and investor information. | [Subscribe](http://www.southwest.com/investor_relations/fs_email_alerts.html) | [Unsubscribe](http://www.southwest.com/investor_relations/fs_email_alerts.html)  
+SWABiz® Corporate Travel Manager e-mail Updates | News related to SWABiz®, Southwest’s Business Travel website; for registered Corporate Travel Managers only | [Contact your Area Marketing Manager.](http://www.swabiz.com/findAmm.html) | [Contact your Area Marketing Manager.](http://www.swabiz.com/findAmm.html)  
+SWAMedia and Investor Relations e-mail Alerts | Southwest Airlines news releases and investor information | [Subscribe](http://www.southwest.com/investor_relations/fs_email_alerts.html) | [Unsubscribe](http://www.southwest.com/investor_relations/fs_email_alerts.html)  
   
 _**Promotional Mailings**_
 
