@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the re.or.id privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120093545id_/http%3A//re.or.id/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the re.or.id privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506130337id_/http%3A//re.or.id/privacy-policy) for the most accurate reproduction.*
 
 # Smart Phones » Privacy Policy
 
@@ -33,5 +33,3 @@ re.or.id has no access to or control over these cookies that are used by third-p
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. re.or.id’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-[](http://www.technorati.com/faves?add=http%3A%2F%2Fre.or.id%2Fprivacy-policy%2F) [](http://del.icio.us/post?url=http%3A%2F%2Fre.or.id%2Fprivacy-policy%2F&title=Privacy+Policy) [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fre.or.id%2Fprivacy-policy%2F&title=Privacy+Policy) [](http://digg.com/submit?url=http%3A%2F%2Fre.or.id%2Fprivacy-policy%2F&title=Privacy+Policy) [](http://www.facebook.com/share.php?u=http%3A%2F%2Fre.or.id%2Fprivacy-policy%2F&t=Privacy+Policy) [](http://bookmarks.yahoo.com/toolbar/savebm?opener=tb&u=http%3A%2F%2Fre.or.id%2Fprivacy-policy%2F) [](http://cgi.fark.com/cgi/fark/edit.pl?new_url=http%3A%2F%2Fre.or.id%2Fprivacy-policy%2F&new_comment=Privacy+Policy)
