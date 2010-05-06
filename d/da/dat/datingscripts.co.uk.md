@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the datingscripts.co.uk privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220063807id_/http%3A//datingscripts.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingscripts.co.uk privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507000855id_/http%3A//datingscripts.co.uk/emeeting-legal/privacy) for the most accurate reproduction.*
 
-# Dating Software - eMeeting Dating Scripts
-
-eMeeting/ Website Privacy Policy
-
-Please read our website privacy policy
-
-### eMeeting Privacy Policy
+# 
 
 Your privacy is important to us. We want you to feel comfortable using eMeeting services. Because we gather certain types of information about the users of eMeeting services, we feel you should fully understand what information we gather and how we use that information. eMeeting employees are required to familiarize themselves with this privacy policy as a condition of their employment, and any employee violating the policy is subject to disciplinary action. What information does eMeeting gather? 
+
+  
 
   * What information does eMeeting gather? 
     * When you register for a account on this website, eMeeting obtains contact information, such as your name, address, and phone number. When you use eMeeting service, our systems record information about your session, such as the dates and times of use, and the specific Internet address assigned to you. eMeeting also tracks requests you make for information on eMeeting products and services, and responses you provide to eMeeting surveys. Finally, eMeeting keeps records of your payment history and communications you have with eMeeting support team. Except in extraordinary circumstances (when we receive a court order, to protect the company's rights or property, or in emergencies where someone's safety is at risk), eMeeting does not keep track of what sites you visit when you are using the service.
@@ -19,6 +15,7 @@ Your privacy is important to us. We want you to feel comfortable using eMeeting 
 
 You should be aware, however, that any information that you disclose in a public space such as a chat room, bulletin board, or personal Web site, eMeeting DNR domain registration is freely available to anyone else visiting that space. eMeeting cannot safeguard any personally identifiable information you disclose in these locations, nor can it ensure that information you voluntarily supply to third parties remains private. Please review the privacy policies of third party sites you frequent to ensure that your privacy preferences are respected.
 
+    * eMeeting trial customer email addresses will be added to our newsletter database to help us provide you with the latest information about the products and/or services we offer.
   * How can I correct or update the information? 
     * To request a copy of the contact eMeeting has on your account, send an e-mail request to [privacy@datingscripts.co.uk](mailto:privacy@datingscripts.co.uk). You may correct that information as appropriate by returning a message to the same address. Please keep in mind that under eMeeting Service Level Agreements (SLA), subscribers are required to provide eMeeting with current contact and billing information. eMeeting may require a copy of a government issued form of identification before disclosing billing information or before making changes to the billing or contact information on an account.
   * What happens to the information if I leave eMeeting? 
