@@ -1,0 +1,56 @@
+> *The following text is extracted and transformed from the pornhubdate.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507002048id_/http%3A//www.pornhubdate.com/%3Faction%3Dterms) for the most accurate reproduction.*
+
+# Adult Dating for Everyone - Sex, Personals, Women, Men, Couples - Pornhubdate.com
+
+This document details important information regarding the use and disclosure of User Data collected on pornhubdate.com 
+
+The security of your Data is very important to pornhubdate.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused. 
+
+This site expressly and strictly limits its membership and/or viewing privliges to adults 18 years of age and over or having attentaind the age of majotity in their comunity. All persons who do not meet tis criteria are strictly forbiden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority. 
+
+### DATA COLLECTED
+
+  * Personal Information: 
+    * Non-Registered users can watch videos without registering and without any information being collected and processed. Howverver the visitor's IP address will be recorded in the event that there is any misappropriationof information and/or content.
+    * Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
+  * Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
+  * Cookies: When you visit pornhubdate.com, we may send one or more cookies to your computer that uniquely identifies your browser session. pornhubdate.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
+  * Log File Information: When you visit pornhubdate.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
+  * Emails: If you contact us, we may keep a record of that correspondence.
+
+
+
+### USES
+
+  * Your Personally identifiable information submitted to pornhubdate.com is used to provide to the user the website's features and special personalised features.
+  * Your chosen usernaname (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, etc. Other Users can contact you through, private messages.
+  * We may use your email address or other personally identifiable information to send commercial or marketing messages. We may send your email address or other personally identifiable information to third parties, so that they may send you commercial or marketing messages. You may opt-out of receiving such marketing communications at any time by following the specific unsubscribe instructions contained in each marketing communication.
+  * We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes).
+  * We analyse aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the pornhubdate.com user-experience.
+
+
+
+### DISCLOSURE OF INFORMATION
+
+  * If under duty to do so pornhubdate.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of pornhubdate.com or our subscribers or others. This includes exchanging information with other companies and organisations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is pornhubdate.com policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
+  * Should you deliberatly upload any illegal material pornhubdate.com shall forward all available information to all relevant authorities and this without notice.
+  * We may share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use. You may opt-out of receiving such marketing communications at any time by following the specific unsubscribe instructions contained in each marketing communication.
+
+
+
+### SECURITY
+
+Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+
+Unfortunately, the transmission of information via the Internet is not completely secure. pornhubdate.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to pornhubdate.com and you do so at your own risk. 
+
+### YOUR RIGHTS
+
+You may request to unsubscribe at anytime from our mailing by clicking at the provided link at the bottom of all emails that are sent to you or by contacting us directly through the website. 
+
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at [support@pornhubdate.com](mailto:support@pornhubdate.com). 
+
+### CONTACT US
+
+[support@pornhubdate.com](mailto:support@pornhubdate.com)  
+Hague Ltd, Unit 9, 15-17 Caledonian Road, P.O. Box 297, London N1 9DX | Keeseville Limited 72 High Street GU27 2LA Haslemere Surrey United Kingdom 
