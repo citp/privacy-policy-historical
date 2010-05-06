@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jongo.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219012354id_/http%3A//account.jongo.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jongo.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507011436id_/http%3A//account.jongo.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Jongo Account - Jongo: The World's Portal for China
 
