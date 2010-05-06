@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darwinsfinance.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104053755id_/http%3A//www.darwinsfinance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darwinsfinance.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507014407id_/http%3A//www.darwinsfinance.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Darwin's Finance
 
@@ -26,4 +26,6 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-If you enjoyed this post, you can get free updates through [RSS Feed](http://www.darwinsfinance.com/feed/) or [via Email](http://feedburner.google.com/fb/a/mailverify?uri=Darwinsfinance) whenever a new post is published. Rest assured that you can unsubscribe at any time via the automated system and your information will not be sold, archived or utilized for any other "nefarious" purposes. 
+You're Not Following Darwin's RSS? Check out [Why You Have to Subscribe to Darwin's Finance](http://www.darwinsfinance.com/subscribe-darwins-finance/)! 
+
+If you enjoyed this post, you can get free updates through [RSS Feed](http://feeds.feedburner.com/darwinsfinance) or [via Email](http://feedburner.google.com/fb/a/mailverify?uri=Darwinsfinance) whenever a new post is published. Rest assured that you can unsubscribe at any time via the automated system and your information will not be sold, archived or utilized for any other "nefarious" purposes.
