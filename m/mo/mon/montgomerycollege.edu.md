@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the montgomerycollege.edu privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617234128id_/http%3A//www.montgomerycollege.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montgomerycollege.edu privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506144658id_/http%3A//www.montgomerycollege.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Montgomery College, MD
 
