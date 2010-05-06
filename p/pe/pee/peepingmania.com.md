@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peepingmania.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216145753id_/http%3A//www.peepingmania.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peepingmania.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507005934id_/http%3A//www.peepingmania.com/privacy.html) for the most accurate reproduction.*
 
 # Peeping Mania - Privacy Policy
 
