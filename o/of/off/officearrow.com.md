@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the officearrow.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925032229id_/http%3A//www.officearrow.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officearrow.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507000038id_/http%3A//www.officearrow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - OfficeArrow
+# Privacy Policy | OfficeArrow
 
 OfficeArrow, LLC ("OfficeArrow," "we," or "us") owns and operates OfficeArrow.com, an online community of office professionals who connect to get answers, enhance productivity and make smart buying decisions. 
 
