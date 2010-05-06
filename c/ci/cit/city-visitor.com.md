@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the city-visitor.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231003022id_/http%3A//www.city-visitor.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the city-visitor.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506053444id_/http%3A//www.city-visitor.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy, City-Visitor
 
