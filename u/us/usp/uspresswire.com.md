@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uspresswire.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230002423id_/http%3A//uspresswire.com/pages/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uspresswire.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506024209id_/http%3A//uspresswire.com/pages/PrivacyPolicy) for the most accurate reproduction.*
 
 # US PRESSWIRE :: Privacy Policy
 
