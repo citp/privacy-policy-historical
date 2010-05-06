@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoutmix.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603005723id_/http%3A//www.shoutmix.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutmix.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507001454id_/http%3A//www.shoutmix.com/main/privacy.php) for the most accurate reproduction.*
 
 # ShoutMix - Privacy Policy
 
