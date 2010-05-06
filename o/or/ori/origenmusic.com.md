@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the origenmusic.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417135038id_/http%3A//www.origenmusic.com/privacy-policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the origenmusic.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507000203id_/http%3A//www.origenmusic.com/privacy-policies.html) for the most accurate reproduction.*
 
 # "Worship music | Background Music
 
@@ -12,4 +12,4 @@ Google's use of the DART cookie enables it to serve ads to your users based on t
 Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
   
-[](https://web.archive.org/web/20090417135038id_/http%3A//www.origenmusic.com/krasnoukhov.html) [](http://top100.rambler.ru/top100/)
+[](https://web.archive.org/web/20100507000203id_/http%3A//www.origenmusic.com/krasnoukhov.html) [](http://top100.rambler.ru/top100/)
