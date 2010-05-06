@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simplybestcoupons.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102165503id_/http%3A//www.simplybestcoupons.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplybestcoupons.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507013401id_/http%3A//simplybestcoupons.com/Privacy) for the most accurate reproduction.*
 
-# ► Simply Best Coupons - Never pay a full price again by using coupon codes, promotional and offer codes, discount and free shipping codes. More then 700 stores and Advertisers!
+# ► Simply Best Coupons - Never pay a full price again by using coupon codes, promotional and offer codes, discount and free shipping codes. More then 700 stores and websites.
 
 Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. 
 
