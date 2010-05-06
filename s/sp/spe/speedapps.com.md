@@ -1,83 +1,83 @@
-> *The following text is extracted and transformed from the speedapps.com privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedapps.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/privacy.html) for the most accurate reproduction.*
 
 # SpeedApps Terms of Use
 
   
 
 
-   [Home](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/index.htm)
+   [Home](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/index.htm)
 
-   [Donations](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/donations.htm)
+   [Donations](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/donations.htm)
 
-   [About Us](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/about.htm)
+   [About Us](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/about.htm)
 
-   [Awards](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/awards.htm)
+   [Awards](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/awards.htm)
 
-   [Backup SafeKeeper](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/safekeeper.htm)
+   [Backup SafeKeeper](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/safekeeper.htm)
 
-   [USB PC Lock Pro](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/usbpclock.htm)
+   [USB PC Lock Pro](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/usbpclock.htm)
 
    [Cyber Bandwidth  
-        Monitor](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/cybermonitor.htm)
+        Monitor](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/cybermonitor.htm)
 
    [Desktop Activity  
-        Recorder](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/desktoprecorder.htm)
+        Recorder](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/desktoprecorder.htm)
 
-   [Prompt FTP Client](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/promptftpclient.htm)
+   [Prompt FTP Client](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/promptftpclient.htm)
 
-   [Remote Manager](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/remotemanager.htm)
+   [Remote Manager](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/remotemanager.htm)
 
    [Desktop Screenshot  
-        Whiz](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/scrnshotwhiz.htm)
+        Whiz](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/scrnshotwhiz.htm)
 
-   [Firewall Tuneup](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/firewalltuneup.htm)
+   [Firewall Tuneup](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/firewalltuneup.htm)
 
-   [Files Crawler](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/filescrawler.htm)
+   [Files Crawler](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/filescrawler.htm)
 
    [Prompt Startup  
-        Manager](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/startupmanager.htm)
+        Manager](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/startupmanager.htm)
 
-   [RSS Balloon Reader](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/balloonreader.htm)
+   [RSS Balloon Reader](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/balloonreader.htm)
 
-   [Memory Monitor](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/memory_monitor.htm)
+   [Memory Monitor](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/memory_monitor.htm)
 
-   [Network Digger](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/network_digger.htm)
+   [Network Digger](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/network_digger.htm)
 
-   [Gmail Notifier](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/gmail_notifier.htm)
+   [Gmail Notifier](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/gmail_notifier.htm)
 
-   [Free Registry Cleaner](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/freereg_clean.htm)
+   [Free Registry Cleaner](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/freereg_clean.htm)
 
-   [Desktop Switcher](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/desktopSwitcher.htm)
+   [Desktop Switcher](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/desktopSwitcher.htm)
 
-   [File Guardian](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/file_guardian.htm)
+   [File Guardian](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/file_guardian.htm)
 
    [MyTorrent  
-        Downloader](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/mytorrent_downloader.htm)
+        Downloader](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/mytorrent_downloader.htm)
 
    [Password Manager  
-        Complete](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/password_manager_complete.htm)
+        Complete](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/password_manager_complete.htm)
 
    [Windows Total  
-        Control](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/windows_total_control.htm)
+        Control](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/windows_total_control.htm)
 
-   [Swift Disk Defrag](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/swift_disk_defrag.htm)
+   [Swift Disk Defrag](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/swift_disk_defrag.htm)
 
-   [WinIcon Customizer](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/winicon_customizer.htm)
+   [WinIcon Customizer](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/winicon_customizer.htm)
 
-   [Prompt Uninstaller](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/prompt_uninstall.htm)
+   [Prompt Uninstaller](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/prompt_uninstall.htm)
 
-   [Bulk Email Sender](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/bulk_email_sender.htm)
+   [Bulk Email Sender](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/bulk_email_sender.htm)
 
    [Prompt Drivers  
-        Backup](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/prompt_drivers_backup.htm)
+        Backup](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/prompt_drivers_backup.htm)
 
-   [Directories Sweeper](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/directories_sweeper.htm)
+   [Directories Sweeper](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/directories_sweeper.htm)
 
-   [OnePass](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/onepass.htm)
+   [OnePass](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/onepass.htm)
 
-   [System Tuneup](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/system_tuneup.htm)
+   [System Tuneup](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/system_tuneup.htm)
 
-   [Process Manager](https://web.archive.org/web/20090318023123id_/http%3A//www.speedapps.com/process_manager.htm)
+   [Process Manager](https://web.archive.org/web/20100506074356id_/http%3A//www.speedapps.com/process_manager.htm)
 
   
 | 
