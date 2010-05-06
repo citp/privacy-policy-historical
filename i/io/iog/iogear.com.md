@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iogear.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629032109id_/http%3A//www.iogear.com/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iogear.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507000553id_/http%3A//www.iogear.com/corp/privacy) for the most accurate reproduction.*
 
-# IOGEAR - Privacy Statement
+# Privacy Statement - IOGEAR
 
 **Privacy Policy**
 
@@ -55,4 +55,4 @@ If we are going to use your personal information differently from that stated at
 The IOGEAR Customer Privacy Policy is subject to change at any time. We encourage you to review the privacy policy regularly for any changes.**
 
 Last updated February, 2007   
-© 2007 IOGEAR, Inc. All rights reserved.
+© 2007 IOGEAR®. All rights reserved.
