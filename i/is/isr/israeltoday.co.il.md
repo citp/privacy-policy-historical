@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the israeltoday.co.il privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102102803id_/http%3A//www.israeltoday.co.il/default.aspx%3Ftabid%3D244%26def%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the israeltoday.co.il privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506222455id_/http%3A//www.israeltoday.co.il/default.aspx%3Ftabid%3D244%26def%3DPrivacy) for the most accurate reproduction.*
 
 # Israel Today - Israel News and Perspective
 
@@ -44,4 +44,4 @@ israel today will occasionally update this Statement of Privacy to reflect compa
 
 Contact Information
 
-israel today welcomes your comments regarding this Statement of Privacy. If you believe that israel today has not adhered to this Statement, please contact israel today at [nai1@bezeqint.net](mailto:nai1@bezeqint.net). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+israel today welcomes your comments regarding this Statement of Privacy. If you believe that israel today has not adhered to this Statement, please contact israel today at [donotreply@israeltoday.co.il](mailto:donotreply@israeltoday.co.il). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
