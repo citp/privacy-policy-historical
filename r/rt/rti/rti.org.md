@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rti.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160454id_/http%3A//www.rti.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rti.org privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506180958id_/http%3A//www.rti.org/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - RTI International
 
