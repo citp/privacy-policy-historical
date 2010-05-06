@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yaskawa.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106103442id_/http%3A//www.yaskawa.com/site/domreg.nsf/alldocs/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yaskawa.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507005257id_/http%3A//www.yaskawa.com/site/domreg.nsf/alldocs/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
