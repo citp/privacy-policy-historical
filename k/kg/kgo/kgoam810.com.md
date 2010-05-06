@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the kgoam810.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219162029id_/http%3A//www.kgoam810.com/Article.asp%3Fid%3D49819) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgoam810.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507012430id_/http%3A//www.kgoam810.com/Article.asp%3Fid%3D49819) for the most accurate reproduction.*
 
-# KGO AM 810 Newstalk Radio, San Francisco.
+# KGO Newstalk 810 San Francisco
 
 This site is owned by Citadel Broadcasting Corporation ("Citadel") and/or its subsidiaries. Citadel’s privacy policy covers the collection, use and dissemination of personal information that may be collected by Citadel anytime you interact with Citadel on one of its websites, such as when you listen to audio streams, view video streams, visit our websites, when you purchase products, or when you contact Citadel. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. 
 
 **Why we collect information.**  
 
-
-[](https://web.archive.org/ad/click.asp?adID=100224&adRunID=112785)
 
 Citadel collects information to assist us in delivering a superior level of product. We collect information to gain a better understanding of our customers and their needs and thus provide more valuable services. This helps us to determine how best to provide useful information to customers and to understand which parts of our websites and Internet services are of most interest to them.
 
