@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdirectorybook.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102153303id_/http%3A//www.webdirectorybook.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdirectorybook.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506220132id_/http%3A//www.webdirectorybook.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # privacy
 
