@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stwater.co.uk privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429202653id_/http%3A//www.stwater.co.uk/server.php%3Fshow%3Dnav.5618) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stwater.co.uk privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507000148id_/http%3A//www.stwater.co.uk/server.php%3Fshow%3Dnav.5618) for the most accurate reproduction.*
 
 # privacy policy : Severn Trent Water
 
@@ -46,14 +46,14 @@ We request that you refer to the Site on a regular basis to ensure that you are 
 
 If you wish to gain access to any personal data you may have provided STW, please  write to:
 
-The Company Data Protection Advisor   
-Severn Trent Water Ltd   
-2297 Coventry Road   
-Sheldon   
-Birmingham   
+The Company Data Protection Advisor  
+Severn Trent Water Ltd  
+2297 Coventry Road  
+Sheldon  
+Birmingham  
 B26 3PU
 
 There may be a small charge for this service.
 
-Alternatively, you can send an e-mail to [data.protection@severntrent.co.uk](mailto:data.protection@severntrent.co.uk).   
+Alternatively, you can send an e-mail to [data.protection@severntrent.co.uk](mailto:data.protection@severntrent.co.uk).  
 
