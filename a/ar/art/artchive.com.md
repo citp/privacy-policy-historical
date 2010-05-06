@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the artchive.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230032947id_/http%3A//www.artchive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artchive.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506031449id_/http%3A//www.artchive.com/privacy.html) for the most accurate reproduction.*
 
 # Mark Harden's Artchive: Privacy Policy
 
 **The Artchive** does not collect any information from visitors. The only information kept is a list of email addresses voluntarily provided by Patrons in order to be included on the Patron Update mailing list. This opt-in Patron mailing list is not sold or shared with any other companies or entities. Patrons may unsubscribe at any time.
 
-We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising companies also separately place or recognize a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [**click here**](http://www.burstmedia.com/release/privacy.asp).
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here [**click here**](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Google AdSense privacy statement**
 
