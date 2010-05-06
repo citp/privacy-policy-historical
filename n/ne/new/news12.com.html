@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the news12.com privacy policy that was archived on 2009-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091230185415id_/http%3A//www.news12.com/news/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the news12.com privacy policy that was archived on 2010-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100506144143id_/http%3A//www.news12.com/news/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <link href="/css/news12-global.css" rel="stylesheet" type="text/css">
@@ -10,7 +10,7 @@
 <script language="javascript" type="text/javascript" src="/scripts/showHide.js"></script>
 <script language="JavaScript" type="text/javascript" src="/scripts/SpryAccordion.js"></script>
 <script language="JavaScript" type="text/javascript" src="/scripts/changeAccrodion.js"></script>
-<script language="JavaScript" type="text/javascript" src="/scripts/UTIL.js?clear=6"></script>
+<script language="JavaScript" type="text/javascript" src="/scripts/UTIL.js?clear=7"></script>
 
 <!--[if IE]>
 	<style>
@@ -40,13 +40,17 @@ function submitSearch(e)
 	 if(e.keyCode == 13 || e == -1)
 	    {
 		 storeSectionName("Search News 12");
-		 searchterm = document.getElementById('googlesearch').value;
-	     if(searchterm.length == 0 || searchterm == "Search News 12") { alert("Please type in a search term"); return; }
-		 //search_type_sel = document.getElementById('search_type').selectedIndex;
+		 searchterm = document.getElementById('googlesearch').value.toLowerCase();
+	     if(searchterm.length == 0 || searchterm == "search news 12") { alert("Please type in a search term"); return; }
+		 if(searchterm.indexOf("closing") > -1 || searchterm.indexOf("school") > -1 || searchterm.indexOf("cancellations") > -1)
+		     {
+			  document.location = "/articleDetail.jsp?articleId=244420&position=1&news_type=news";
+			  return;
+		     }      
 	     search_type_sel = 0;
 	     if(eval(document.getElementById("Aframe") != null))
 		    {
-	    	 var searchquery = "http://66.54.17.28/search?sort=date:D:S:d1&filter=p&num=6&getfields=Description.Region.Date&q="+searchterm+""; 	 	    
+	    	 var searchquery = "http://66.54.17.28/search?sort=date:D:S:d1&filter=p&num=6&getfields=Description.Region.Date.product-image&q="+searchterm+""; 	 	    
 	    	 if(search_type_sel == 0) { searchquery += "&requiredfields=Type:article"; }
 	    	 document.getElementById("Aframe").src = searchquery;
 		    } else {
@@ -70,7 +74,7 @@ function loadsitemap() { document.location = "/news/sitemap_"+region_name+"?news
 		document.write('<div id="header" style="background: url(/images/logos/'+region_name.toUpperCase()+'_Header_NEW.jpg) no-repeat;">');
 		</script><div id="header" style="background: url(/images/logos/LI_Header_NEW.jpg) no-repeat;">
         <div id="logo"><a href="/index.jsp"><img src="/images/News12-spacer.gif" width="180px" height="64px" border="0" alt="News12"></a></div>
-        <div id="headerBanner"><iframe src="https://web.archive.org/web/20090817090957/http://ad.doubleclick.net/adi/dvt.news12.com/LI;pos=728;sz=728x90;sec=article_detail;tile=1;ord=889.9578022771037?" style="width:728px;height:90px" frameborder="0" scrolling="no"></iframe></div>
+        <div id="headerBanner"><iframe src="https://web.archive.org/web/20100426193211/http://ad.doubleclick.net/adi/dvt.news12.com/LI;pos=728;sz=728x90;sec=article_detail;tile=1;ord=7087.868163722448?" style="width:728px;height:90px" frameborder="0" scrolling="no"></iframe></div>
 		<div id="topRow">
 		<div id="region" style="width:308px;">
         <span style="color:#FFFFFF;float:left;vertical-align:top;"><script>if(readCookie("username")!=null){document.write("Welcome, "+readCookie('username')+"");}</script></span>	
@@ -119,10 +123,11 @@ function loadsitemap() { document.location = "/news/sitemap_"+region_name+"?news
 	<li><a href="javascript:loadMenuLink('news')" rel="cm1" id="M0"><span>News</span></a></li>
 	<li><a href="javascript:loadMenuLink('weather')" rel="cm2" id="M1"><span>Weather</span></a></li>
     <li><a href="javascript:loadMenuLink('traffic')" rel="cm3" id="M2"><span>Traffic</span></a></li>
+    <li><a href="javascript:openAccordionTab(1)" rel="cm16" id="M15"><span>Features</span></a></li>
     <li><a href="javascript:loadMenuLink('whatsgoingon')" rel="cm4" id="M3"><span>What's Going On</span></a></li>
 	<li id="mytown_nav" style="display:none"><a href="javascript:loadMenuLink('mytown')" rel="cm5" id="M4"><span>My Town</span></a></li>
     <li><a onmouseover="updateSubNav()" href="javascript:loadMenuLink('iCam')" rel="cm6" id="M5"><span id="icam_nav">&nbsp;</span></a></li>
-    <li><a href="#" rel="cm7" id="M6"><span>Classifieds</span></a></li>
+    <li><a href="javascript:loadMenuLink('classifieds')" rel="cm7" id="M6"><span>Classifieds</span></a></li>
 	<li><a href="javascript:loadMenuLink('links')" rel="cm8" id="M7"><span>Numbers &amp; Links</span></a></li>
 	<li><a href="javascript:loadMenuLink('blogs')" rel="cm9" id="M8"><span>Blogs</span></a></li>
 	<li><a href="javascript:loadMenuLink('forum')" rel="cm10" id="M9"><span>Sound Off</span></a></li>
@@ -130,7 +135,7 @@ function loadsitemap() { document.location = "/news/sitemap_"+region_name+"?news
 	<li><a href="javascript:loadMenuLink('polls')" rel="cm12" id="M11"><span>Polls</span></a></li>
 	<li><a href="javascript:loadMenuLink('business')" rel="cm13" id="M12"><span>Business</span></a></li>
 	<li><a href="javascript:loadMenuLink('sports')" rel="cm14" id="M13"><span>Sports</span></a></li>
-	<li><a href="javascript:loadMenuLink('allvideo')" rel="cm15" id="M14"><span>Video</span></a></li>
+	<!-- <li><a href="javascript:loadMenuLink('allvideo')" rel="cm15" id="M14"><span>Video</span></a></li> -->
 	</ul>
 </div>
 </div>
@@ -152,7 +157,7 @@ function loadsitemap() { document.location = "/news/sitemap_"+region_name+"?news
 		<div id="cm2" class="tabcontent">
 		   <div class="mainNavlevel2">
 		      <div class="floatLeft"><span><a href="javascript:loadWeather('weather_today_tonight')" id="cm3_0" style="color: white; text-decoration: none;">Today's Weather</a></span></div>
-		      <div class="floatLeft"><span><a href="javascript:loadWeather('weather_dualdoppler')" id="cm3_1" style="color: white; text-decoration: none;">Radar</a></span></div>
+		      <div class="floatLeft"><span><a href="javascript:loadWeather('weather_dualdoppler')" id="cm3_1" style="color: white; text-decoration: none;">Tri-State Radar</a></span></div>
 		      <div class="floatLeft"><span><a href="javascript:loadWeather('weather_video')" id="cm3_2" style="color: white; text-decoration: none;">Today's Video Broadcast</a></span></div>
 		      <div class="floatLeft"><span><a href="javascript:loadWeather('weather_locator')" id="cm3_3" style="color: white; text-decoration: none;">Hyper-Local Weather Stations</a></span></div>
 		      <div class="floatLeft"><span><a href="javascript:loadWeather('weather_update')" id="cm3_4" style="color: white; text-decoration: none;">News 12 Weather Update</a></span></div>	
@@ -180,13 +185,7 @@ function loadsitemap() { document.location = "/news/sitemap_"+region_name+"?news
 		<div class="floatLeft" style="display:none" id="mainnav_married"><span><a href="javascript:loadiCam(8)" id="cm6_9" style="color: white; text-decoration: none;">Just Married on Long Island</a></span></div>
 		</div>
 		</div>
-		<div id="cm7" class="tabcontent">
-		<div class="mainNavlevel2">
-		<div class="floatLeft"><span><a href="javascript:loadMenuLink('classifieds')" id="cm1_0">News 12 Classifieds</a></span></div>
-		<div class="floatLeft"><span><a href="http://www.optimumhomes.com" id="cm1_1">Optimum Homes</a></span></div>
-		<div class="floatLeft"><span><a href="http://www.optimumautos.com" id="cm1_2">Optimum Autos</a></span></div> 
-		</div>
-		</div>
+		<div id="cm7" class="tabcontent"></div>
 		<div id="cm8" class="tabcontent"></div>
 		<div id="cm9" class="tabcontent"></div>
 		<div id="cm10" class="tabcontent"></div>
@@ -220,8 +219,9 @@ function loadsitemap() { document.location = "/news/sitemap_"+region_name+"?news
 	      </script><div class="floatLeft"><span><a href='javascript:loadSportsBusiness("sports",0)' id="cm14_0" style="color: white; text-decoration: none;">News 12 Sports</a></span></div><div class="floatLeft"><span><a href='javascript:loadSportsBusiness("sports",1)' id="cm14_1" style="color: white; text-decoration: none;">MSG Varsity</a></span></div><div class="floatLeft"><span><a href='javascript:loadSportsBusiness("sports",2)' id="cm14_2" style="color: white; text-decoration: none;">Newsday Sports</a></span></div><div class="floatLeft"><span><a href='javascript:loadSportsBusiness("sports",3)' id="cm14_3" style="color: white; text-decoration: none;">AP Sports</a></span></div><div class="floatLeft"><span><a href='javascript:loadSportsBusiness("sports",4)' id="cm14_4" style="color: white; text-decoration: none;">Scores</a></span></div><div class="floatLeft"><span><a href='javascript:loadSportsBusiness("sports",5)' id="cm14_5" style="color: white; text-decoration: none;">Other Sports News</a></span></div>    
 	      </div>	
 		</div>
-		<div id="cm15" class="tabcontent"></div>
-	</div> 
+		<!-- <div id="cm15" class="tabcontent"></div> -->
+	    <div id="cm16" class="tabcontent"></div>
+	    </div> 
 <!-- END LEVEL TWO -->
 <script>
 if(region_name != "LI") { document.getElementById("mainnav_town").style.display = "inline"; }
@@ -239,9 +239,9 @@ function loadMenuLink(item)
 		  if(item == "news") { Aframe.src = "/news/topStories.jsp"; loadbanner = true; }
 		  if(item == "polls" || item == "poll_module") { Aframe.src = "/polls/polls.jsp?regionId="+regionId+""; loadbanner = true; }
 		  if(item == "allvideo") { Aframe.src = "/Video"; loadbanner = true; }
-		  if(item == "schoolclosings") { Aframe.src = "/school_closings.jsp?regionId="+regionId+""; loadbanner = true; }
+		  if(item == "schoolclosings") { Aframe.src = "http://schoolclosings.news12.com/"+region_name+""; loadbanner = true; storeSectionName('School Closings'); }
 		  if(item == "sports" || item == "module_sports") { Aframe.src = "/sports/sports_main.jsp"; loadbanner = true; }
-		  if(item == "business" || item == "module_news_business") { Aframe.src = "/business/business_main.jsp"; loadbanner = true; }
+		  if(item == "business" || item == "module_news_business") { Aframe.src = "/business/business_main.jsp?clear=1"; loadbanner = true; }
 		  if(item == "entertainment" || item == "ap_module_entertainment") { Aframe.src = "/ap_frame.jsp?location=/entertainment/now_showing.jsp&tab=/entertainment/header.jsp"; loadbanner = true; }
 		  if(item == "classifieds") { Aframe.src = "/classifieds/home.jsp"; loadbanner = true; }
 		  if(loadbanner == true) { loadBanners(); }
@@ -252,9 +252,9 @@ function loadMenuLink(item)
 		  if(item == "news") { document.location = "/index.jsp"; }
 		  if(item == "polls" || item == "poll_module") { document.location ="/index.jsp?location=/polls/polls.jsp%3FregionId%3D"+regionId+""; }
 	      if(item == "allvideo") { document.location = "/index.jsp?location=/Video"; }
-	      if(item == "schoolclosings") { document.location = "/closings.jsp?location=school_closings.jsp%3FregionId%3D"+regionId+""; }	      
+	       if(item == "schoolclosings") { document.location = "/closings.jsp?location=school_closings.jsp%3FregionId%3D"+regionId+""; }	     
 	      if(item == "sports" || item == "module_sports") { document.location = "/index.jsp?location=/sports/sports_main.jsp"; }
-	      if(item == "business" || item == "module_news_business") { document.location = "/index.jsp?location=/business/business_main.jsp"; }
+	      if(item == "business" || item == "module_news_business") { document.location = "/index.jsp?location=/business/business_main.jsp?clear=1"; }
 	      if(item == "entertainment" || item == "ap_module_entertainment") { document.location = "/index.jsp?location=entertainment"; }
 	      if(item == "classifieds") { document.location = "/index.jsp?location=/classifieds/home.jsp"; }
 	     }  
@@ -389,7 +389,7 @@ document.write("<scr"+"ipt language='JavaScript' src='/modules/home/school_closi
 <div id="BreakingNews"></div>
 <!-- END BREAKING NEWS -->
 
-<!--OMNITURE--><img id="omniture" src="https://web.archive.org/web/20090817090957/http://news12.com.112.2o7.net/b/ss/news12.com/5/H.19.4--WAP?c1=LI&amp;c9=https%3A//web.archive.org/web/20091230185415id_/http%253A//www.news12.com/news/privacy" style="position:absolute;left:-100;top:-100;visibility:hidden;width:1px;height:1px">
+<!--OMNITURE--><img id="omniture" src="https://web.archive.org/web/20100426193211/http://news12.com.112.2o7.net/b/ss/news12.com/5/H.19.4--WAP?c5=LI&amp;c16=https%3A//web.archive.org/web/20100506144143id_/http%253A//www.news12.com/news/privacy&amp;c17=LI" style="position:absolute;left:-100;top:-100;visibility:hidden;width:1px;height:1px">
 <div id="titleL"><h1 id="NWSmainHeading"><span style="color:#FFFFFF;font-size:13px;font-weight:bold;"><a href="/index.jsp">HOME</a> <img src="/images/ico-carrotWht-big.gif"> <a href="javascript:window.frames[0].location.reload()">Privacy Statement</a></span></h1><div id="titleR"></div><!--span><a href="#"><img src="images/change_btn_Hover.jpg" border="0" class="chngeBtnStyle" /></a></span--></div>
 <!-- CONTENT -->
 
@@ -529,12 +529,12 @@ This policy and the use of this Web site are governed by New York law. Any claim
 					
 <!-- BANNERS -->
 <table id="bannerDisplay01" border="0" align="center"><tbody><tr>
-<td id="banner_hrefA1" valign="top" height="33%" width="170px"><iframe src="https://web.archive.org/web/20090817090957/http://ad.doubleclick.net/adi/dvt.news12.com/LI;pos=160;tile=5;sz=160x60;target=top;sec=article_detail;ord=889.9578022771037?" style="width:160px;height:60px" frameborder="0" scrolling="no"></iframe></td>
-<td id="banner_hrefB" rowspan="3" valign="top" class="bannerImagePos"><iframe src="https://web.archive.org/web/20090817090957/http://ad.doubleclick.net/adi/dvt.news12.com/LI;pos=120;tile=2;sz=120x240;ord=889.9578022771037?" style="width:120px;height:240px" frameborder="0" scrolling="no"></iframe></td>
+<td id="banner_hrefA1" valign="top" height="33%" width="170px"><iframe src="https://web.archive.org/web/20100426193211/http://ad.doubleclick.net/adi/dvt.news12.com/LI;pos=160;tile=5;sz=160x60;target=top;sec=article_detail;ord=7087.868163722448?" style="width:160px;height:60px" frameborder="0" scrolling="no"></iframe></td>
+<td id="banner_hrefB" rowspan="3" valign="top" class="bannerImagePos"><iframe src="https://web.archive.org/web/20100426193211/http://ad.doubleclick.net/adi/dvt.news12.com/LI;pos=120;tile=2;sz=120x240;ord=7087.868163722448?" style="width:120px;height:240px" frameborder="0" scrolling="no"></iframe></td>
 </tr>
-<tr><td id="banner_hrefA2" valign="middle" height="33%" width="170px"><iframe src="https://web.archive.org/web/20090817090957/http://ad.doubleclick.net/adi/dvt.news12.com/LI;pos=160;tile=4;sz=160x60;target=mid;ord=889.9578022771037?" style="width:160px;height:60px" frameborder="0" scrolling="no"></iframe></td>
+<tr><td id="banner_hrefA2" valign="middle" height="33%" width="170px"><iframe src="https://web.archive.org/web/20100426193211/http://ad.doubleclick.net/adi/dvt.news12.com/LI;pos=160;tile=4;sz=160x60;target=mid;ord=7087.868163722448?" style="width:160px;height:60px" frameborder="0" scrolling="no"></iframe></td>
 </tr>
-<tr><td id="banner_hrefA3" valign="bottom" height="33%" width="170px"><iframe src="https://web.archive.org/web/20090817090957/http://ad.doubleclick.net/adi/dvt.news12.com/LI;pos=160;tile=3;sz=160x60;target=bot;sec=article_detail;ord=889.9578022771037?" style="width:160px;height:60px" frameborder="0" scrolling="no"></iframe></td>
+<tr><td id="banner_hrefA3" valign="bottom" height="33%" width="170px"><iframe src="https://web.archive.org/web/20100426193211/http://ad.doubleclick.net/adi/dvt.news12.com/LI;pos=160;tile=3;sz=160x60;target=bot;sec=article_detail;ord=7087.868163722448?" style="width:160px;height:60px" frameborder="0" scrolling="no"></iframe></td>
 </tr>
 </tbody></table>         
 </div>
@@ -562,13 +562,13 @@ This policy and the use of this Web site are governed by New York law. Any claim
 
 <script>
 function loadAboutUs() { document.location = "/news/aboutus_"+region_name+"?news_type=About Us"; }
-function loadContactUs() { document.location = "/news/contactus_"+region_name+"?news_type=Contact Us"; }
+function loadContactUs() { document.location = "/contactus"; }
 function loadIntern() { document.location = "/news/intern_"+region_name+"?news_type=News 12 Internship"; } 
 </script>
    
 <div align="center" id="footer">
-<div id="footerBannerL"><iframe src="https://web.archive.org/web/20090817090957/http://ad.doubleclick.net/adi/dvt.news12.com/LI;pos=468;sz=468x60;sec=article_detail;tile=6;ord=889.9578022771037?" style="width:468px;height:60px" frameborder="0" scrolling="no"></iframe></div>  
-<div id="footerBannerR"><iframe src="https://web.archive.org/web/20090817090957/http://ad.doubleclick.net/adi/dvt.news12.com/LI;pos=468;sz=468x60;sec=article_detail;tile=7;ord=889.9578022771037?" style="width:468px;height:60px" frameborder="0" scrolling="no"></iframe></div>  
+<div id="footerBannerL"><iframe src="https://web.archive.org/web/20100426193211/http://ad.doubleclick.net/adi/dvt.news12.com/LI;pos=468;sz=468x60;sec=article_detail;tile=6;ord=7087.868163722448?" style="width:468px;height:60px" frameborder="0" scrolling="no"></iframe></div>  
+<div id="footerBannerR"><iframe src="https://web.archive.org/web/20100426193211/http://ad.doubleclick.net/adi/dvt.news12.com/LI;pos=468;sz=468x60;sec=article_detail;tile=7;ord=7087.868163722448?" style="width:468px;height:60px" frameborder="0" scrolling="no"></iframe></div>  
 <div id="footerLinks" align="center">
 <p>
 <script>
@@ -578,10 +578,10 @@ if(regionId=="3") { editarticleId = "228191"; }
 if(editarticleId != "") { document.write('<a href="/articleDetail.jsp?articleId='+editarticleId+'&position=0&news_type=features">Editorial</a> |'); }
 loadBanners();
 </script><a href="/articleDetail.jsp?articleId=228093&amp;position=0&amp;news_type=features">Editorial</a> |			
-<a href="/home.jsp">News 12 Regions</a> | <a href="/index.jsp?location=advertise.jsp">Advertise With Us</a> | <a href="javascript:loadAboutUs()">About Us</a> | <a href="javascript:loadContactUs()">Contact Us</a> | <a target="_blank" href="https://sjobs.brassring.com/1033/ASP/TG/cim_home.asp?partnerid=25032&amp;siteid=5180">News 12 Careers</a> | <script>if(region_name != "HV" && region_name != "BK"){document.write('<a href="javascript:loadIntern()">News 12 Internship</a> | ');}</script><a href="javascript:loadIntern()">News 12 Internship</a> | <a target="_blank" href="http://news12togo.optimum.net/start">News 12 to GO</a><br><a href='javascript:document.location="/news/rss_"+region_name+"?news_type=Social Media Tools"'>Social Media Tools</a> | 
+<a href="/home.jsp">News 12 Regions</a> | <a href="/index.jsp?location=advertise.jsp">Advertise With Us</a> | <a href="javascript:loadAboutUs()">About Us</a> | <a href="javascript:loadContactUs()">Contact Us</a> | <a target="_blank" href="https://sjobs.brassring.com/1033/ASP/TG/cim_home.asp?partnerid=25032&amp;siteid=5180">News 12 Careers</a> | <a href="javascript:loadIntern()">News 12 Internship</a> | <a target="_blank" href="http://news12togo.optimum.net/start">News 12 to GO</a><br><a href='javascript:document.location="/news/rss_"+region_name+"?news_type=Social Media Tools"'>Social Media Tools</a> | 
 <script>
-if(regionId == "1") { document.write("<a href='http://newsday.com'>Newsday</a> | <a href='http://exploreli.com'>Explore LI</a> | "); }
-</script><a href="http://newsday.com">Newsday</a> | <a href="http://exploreli.com">Explore LI</a> | 
+if(regionId == "1") { document.write("<a target='_blank' href='http://newsday.com'>Newsday</a> | <a target='_blank' href='http://exploreli.com'>Explore LI</a> | "); }
+</script><a target="_blank" href="http://newsday.com">Newsday</a> | <a target="_blank" href="http://exploreli.com">Explore LI</a> | 
 <a href="/news/terms?news_type=Terms of Use">Terms of Use</a> | <a href="/news/privacy">Privacy Statement</a></p>
 <p>© <script>var cpdate=new Date() 
 document.write(cpdate.getFullYear());</script>2020 News12.com &amp; Rainbow Media</p>
