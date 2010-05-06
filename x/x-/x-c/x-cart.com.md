@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the x-cart.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105132833id_/http%3A//www.qtmsoft.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the x-cart.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507014123id_/http%3A//www.qtmsoft.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Qualiteam Privacy Policy
 
@@ -28,7 +28,7 @@ Consultation on small modifications of the software: possible if the required ch
 
 Consultation on medium modifications of the software: possible if the required changes take about an hour to describe
 
-Application of a patch fixing a bug in X-Cart/LiteCommerce store (patches themselves are [provided for free](https://web.archive.org/web/20091105132833id_/http%3A//www.qtmsoft.com/support/bug-fixing-policy.html))
+Application of a patch fixing a bug in X-Cart/LiteCommerce store (patches themselves are [provided for free](https://web.archive.org/web/20100507014123id_/http%3A//www.qtmsoft.com/support/bug-fixing-policy.html))
 
 Additional services costing more than the other tasks or not included into original tech support duties
 
@@ -139,15 +139,15 @@ for X-Cart v4.3.2 and earlier
 
 |  |  |  | Legal notices  
 ---  
-[Moneyback guarantee](https://web.archive.org/web/20091105132833id_/http%3A//www.qtmsoft.com/moneyback_policy.html)  
-[Quality policy](https://web.archive.org/web/20091105132833id_/http%3A//www.qtmsoft.com/quality_policy.html)  
-[Privacy policy](https://web.archive.org/web/20091105132833id_/http%3A//www.qtmsoft.com/privacy-policy.html)  
-[Trademark policy](https://web.archive.org/web/20091105132833id_/http%3A//www.qtmsoft.com/trademark-policy.html)  
-[Customization Agreement](https://web.archive.org/web/20091105132833id_/http%3A//www.qtmsoft.com/custom_development_agreement.html)  
-[Software Development Agreement](https://web.archive.org/web/20091105132833id_/http%3A//www.qtmsoft.com/software-development-agreement.html)  
-[Graphic Design Agreement](https://web.archive.org/web/20091105132833id_/http%3A//www.qtmsoft.com/graphic_design_agreement.html)  
-[Affiliate agreement](https://web.archive.org/web/20091105132833id_/http%3A//www.qtmsoft.com/affiliate_program_agreement.html)  
-[Technical Support Agreement](https://web.archive.org/web/20091105132833id_/http%3A//www.qtmsoft.com/technical-support-agreement.html)  
+[Moneyback guarantee](https://web.archive.org/web/20100507014123id_/http%3A//www.qtmsoft.com/moneyback_policy.html)  
+[Quality policy](https://web.archive.org/web/20100507014123id_/http%3A//www.qtmsoft.com/quality_policy.html)  
+[Privacy policy](https://web.archive.org/web/20100507014123id_/http%3A//www.qtmsoft.com/privacy-policy.html)  
+[Trademark policy](https://web.archive.org/web/20100507014123id_/http%3A//www.qtmsoft.com/trademark-policy.html)  
+[Customization Agreement](https://web.archive.org/web/20100507014123id_/http%3A//www.qtmsoft.com/custom_development_agreement.html)  
+[Software Development Agreement](https://web.archive.org/web/20100507014123id_/http%3A//www.qtmsoft.com/software-development-agreement.html)  
+[Graphic Design Agreement](https://web.archive.org/web/20100507014123id_/http%3A//www.qtmsoft.com/graphic_design_agreement.html)  
+[Affiliate agreement](https://web.archive.org/web/20100507014123id_/http%3A//www.qtmsoft.com/affiliate_program_agreement.html)  
+[Technical Support Agreement](https://web.archive.org/web/20100507014123id_/http%3A//www.qtmsoft.com/technical-support-agreement.html)  
 | 
 
 This Privacy Policy describes the types of information Qualiteam Corp ("we", "us") collects and how we use that information. If You do not agree to the terms of this Privacy Policy, please do not use Qualiteam Products or Services ("Products or Services") and do not access the Qualiteam's websites located at [http://www.qtmsoft.com](http://www.qtmsoft.com/), [http://www.x-cart.com](http://www.x-cart.com/), [http://www.litecommerce.com](http://www.litecommerce.com/) ("Site", "Sites"). 
