@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hosterpk.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103143447id_/http%3A//www.hosterpk.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hosterpk.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506084443id_/http%3A//www.hosterpk.com/privacy) for the most accurate reproduction.*
 
 # HosterPK | Privacy Policy
 
@@ -8,14 +8,20 @@ Our Hosting Platform
 Windows 2003 Hosting
   *   
 Linux Web Hosting
-  *   
-ASP.NET 3.5, 2.0, 1.1 Hosting 
-  *   
-PHP 4, 5 Hosting 
-  *   
-SQL Server 2008 Hosting 
-  *   
-MySql Server Hosting 
+  * [   
+ASP.NET 3.5, 2.0, 1.1 Hosting ](https://web.archive.org/asp.net-hosting)
+  * [   
+PHP 4, 5 Hosting ](https://web.archive.org/php-hosting)
+  * [   
+SQL Server Hosting ](https://web.archive.org/sqlserver-hosting)
+  * [   
+MySql Server Hosting](https://web.archive.org/mysqlserver-hosting)
+  * [   
+Wordpress Hosting ](https://web.archive.org/wordpress-hosting)
+  * [   
+Joomla Hosting ](https://web.archive.org/joomla-hosting)
+  * [   
+Drupal Hosting ](https://web.archive.org/drupal_hosting)
 
 
 
@@ -45,6 +51,6 @@ Services and Web sites we sponsor or host have security measures in place to pro
 _**Revisions to This Policy** _   
 HosterPK reserves the right to revise, amend, or modify this policy, and our other policies and agreements at any time and in any manner. 
 
-Terms of Service. Please also see our [Terms Of Service](https://web.archive.org/web/20091103143447id_/http%3A//www.hosterpk.com/terms.aspx), which describes the use, disclaimers, indemnification and limitation of liability governing the use of the entire HosterPK web site.
+Terms of Service. Please also see our [Terms Of Service](https://web.archive.org/web/20100506084443id_/http%3A//www.hosterpk.com/terms), which describes the use, disclaimers, indemnification and limitation of liability governing the use of the entire HosterPK web site.
 
-If you have any questions regarding our privacy policy, please visit the [Contact Us](https://web.archive.org/web/20091103143447id_/http%3A//www.hosterpk.com/contact.aspx) page. 
+If you have any questions regarding our privacy policy, please visit the [Contact Us](https://web.archive.org/web/20100506084443id_/http%3A//www.hosterpk.com/contact) page. 
