@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retailgigs.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104053709id_/http%3A//www.retailgigs.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailgigs.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507014404id_/http%3A//www.retailgigs.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Search Merchandising, Purchasing & Retail Jobs & Resumes, Find Career Resources - RetailGigs.com
 
@@ -57,6 +57,8 @@ Back to top
 In general, we have limited use of cookies. As you browse areas of this site, cookies may be placed on your computer’s hard drive. (Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive.) Cookies allow us to track your account so you don’t need to retype the information each time you visit our site. You may refuse cookies in your browser, but doing so may result in certain services and features not functioning properly.
 
 Our advertisers may also serve cookies when users click on the ad banners on this site. We do not have access to any personal information gathered by advertisers. 
+
+If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. Click [here](http://www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site.
 
 Back to top
 
@@ -124,7 +126,7 @@ Back to top
 
 * * *
 
-Rev. October 2008
+Rev. November 2009
 
 * * *
 
