@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thevine.com.au privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104012645id_/http%3A//www.thevine.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevine.com.au privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506200643id_/http%3A//www.thevine.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | thevine.com.au
 
