@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toon-party.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913094511id_/http%3A//www.drawn-sex.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toon-party.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506075156id_/http%3A//www.toon-party.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
