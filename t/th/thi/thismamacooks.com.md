@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thismamacooks.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105200056id_/http%3A//www.thismamacooks.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thismamacooks.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507000809id_/http%3A//www.thismamacooks.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy for This Mama Cook! On a Diet and This Mama Cooks! Reviews - This Mama Cooks! On a Diet
 
