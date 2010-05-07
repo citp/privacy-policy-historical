@@ -1,9 +1,33 @@
-<!--The following is the downloaded HTML source of the realestatebook.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217014537id_/http%3A//www.realestatebook.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realestatebook.com privacy policy that was archived on 2010-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100507215741id_/http%3A//www.realestatebook.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 	Privacy Policy | RealEstateBook.com
 </title><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    <style type="text/css">
+	<!--
+	    @import"/includes/css/paint.css";
+		@import"/includes/css/search.css";
+		@import"/includes/css/facebook.css";
+	-->
+	</style>
+     	
+	<style type="text/css">
+	<!--
+		@import"/includes/javascript/jquery/jcarousel/jquery.jcarousel.css";
+		@import"/includes/javascript/jquery/jcarousel/skin.css";
+	-->
+	</style>
+	
+    <style type="text/css">
+	<!--
+        @import"/includes/javascript/jquery/thickbox/thickbox.css";
+		@import"/includes/css/personalization.css";
+	-->
+	</style>
+	
+	
 	<script language="javascript" type="text/javascript" src="/includes/javascript/global.js"></script>
 	<script language="javascript" type="text/javascript" src="/includes/javascript/forms.js"></script>
 	<script language="javascript" type="text/javascript" src="/includes/javascript/ajaxObject.js"></script>
@@ -15,33 +39,25 @@
 		var ClientName = "NCI";		
 		var PortalName = "The Real Estate Book";
 		var ChannelSectionId="829246";
-	    var SEOSection="homes"
+	    var SEOSection="homes";
+	    var TrebListingsId="1388131";
+	    var ForeClosureID="926822";
+	    var salesID="829246";
+	    var PListingsId="1388132";
 	</script>
 	
 	
-    <script type="text/javascript" src="/includes/javascript/jquery/jquery-1.1.2.pack.js"></script>
+	<script type="text/javascript" src="/includes/javascript/jquery/jquery-1.1.2.pack.js"></script>
+	
     <script type="text/javascript" src="/includes/javascript/jquery/jcarousel/jquery.jcarousel.pack.js"></script>
-	<script type="text/javascript" src="/includes/javascript/jquery/thickbox/thickbox.js"></script>
     
-	
-	<style type="text/css">
-	<!--
-		@import"/includes/css/paint.css";
-		@import"/includes/css/search.css";
-		@import"/includes/javascript/jquery/jcarousel/jquery.jcarousel.css";
-		@import"/includes/javascript/jquery/jcarousel/skin.css";
-		@import"/includes/javascript/jquery/thickbox/thickbox.css";
-	-->
-	</style>
-	
+     	<script type="text/javascript" src="/includes/javascript/jquery/thickbox/thickbox.js"></script>
+	<!-- Omniture script to include s_code.js, to be used in personalization.js -->  
+	<script type="text/javascript" src="/Includes/Javascript/s_code.js" language="JavaScript"></script>
+ 
 	<!-- Personalization -->
 	<script type="text/javascript" src="/includes/javascript/personalization/personalization.js"></script>
-    <script type="text/javascript" src="/includes/javascript/personalization/personalization_cookie.js"></script>
-	<style type="text/css">
-	<!--
-		@import"/includes/css/personalization.css";
-	-->
-	</style>
+    
 	
 	
 	<!-- Client adtag setup calls go here if they exist -->
@@ -54,21 +70,33 @@
     </style>
     
 
-	<script type="text/javascript" src="/utm/__utm.js"></script><script language="JavaScript1.5">_ujv='1.5';</script>
+	<script type="text/javascript" src="/utm/urchin.js"></script>
+	<script type="text/javascript">
+	  _userv=0;
+      urchinTracker();
+	</script>
 
 </head>
 
 
 <body id="ctl00_MasterPageBodyTag">
 
+    <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+
+    <script src="/includes/javascript/Facebook/FacebookLib.js" type="text/javascript"></script>
+
 
     
+    
 
-
+    
     <div id="global_wrap">
+    
 			
-			
-		<div id="global_login_wrap" class="clearfix">
+		
+            
+        <div id="global_login_wrap" class="clearfix">
+		    
 			
 
 <script type="text/javascript">
@@ -88,29 +116,53 @@ function ChangeUserAction()
     {
         ChangeResultUserAction(PageCache.ListingIds);
     }
+    else if(PageName.toLowerCase().indexOf("/agent.aspx") > -1)
+    {
+        ChangeFListingUserAction();
+    }
     else if(IsDefaultPage())
     {
         window.location.reload(true);
     }
 }
 </script>
-
+<div id="fb-header">
+ 
+    
+    
+    <div id="facebook-status-in" class="clearfix" style="display:none">
+        <div class="user-photo" id="user-photo"></div>
+        <div class="user clearfix">
+                <div class="signed-in">Signed in as <span id="FacebookName"></span> | <a href="javascript://(0);" onclick="facebook_log_out();return false">Sign Out</a></div>
+                <div class="fb-on-fd">on RealEstateBook's<img src="/images/facebook/iconFB.png" width="18px" height="18px" title="facebook" alt="facebook">Page</div>
+        </div>
+     </div>
+    
+      
+     <div id="facebook-status-out" class="clearfix" style="display:none">      
+        <div id="fb-on-fd-button" class="clearfix">
+           <a href="javascript://(0);" onclick="facebook_login(); return false;" style="width:169px;height:21px;display:block;"></a>
+        </div>   
+     </div>
+     
+ </div>
+    
+ 
 <div id="global_login">
-    <div id="notloggedin" style="display: block;">
-        <ul class="personalization_nav clearfix">
-            <li><a href="/my/">Welcome Real Estate Guest</a></li>
-            <li><span>|</span></li>
-            <li><a href="javascript:void(0);" onclick="javascript:SignIn(true);">Sign In</a></li>
-            <li><span>or</span></li>
-            <li><a href="/my/sign_up.aspx">Register</a></li>
-        </ul>
+    <div id="notloggedin">
+        <div class="personalization_nav clearfix">
+            <div class="welcome"><a href="/my/">Welcome, Real Estate Guest!</a></div>
+            <div class="sign_reg">
+                <a href="javascript:void(0);" onclick="javascript:SignIn(true);">Sign In</a> | <a href="/my/sign_up.aspx">Register</a>
+            </div>
+        </div>
     </div>
     <div id="loggedin" style="display: none;">
         <ul class="personalization_nav clearfix">
             <li id="personalization_items"><a href="/my/saved_listings.aspx" onmouseover="show_personalization_list();"><span>Your Account</span></a>
                 <ul id="personalization_items_list"></ul>
             </li>
-            <li><a href="javascript:void(0);" onclick="SignOut();">Sign Out</a></li>
+            <li class="signout"><a href="javascript:void(0);" onclick="SignOut();">Sign Out</a></li>
         </ul>
         <div id="personalization_nav_close" onmouseout="close_personalization_list();" style="display:none;"></div>
     </div>
@@ -120,22 +172,34 @@ function ChangeUserAction()
     DisplayHeader();
 </script>
 			
+			
     	</div>
 
 
-		<div id="global_header">
+        <div id="country_drop_backOpen" onclick="javascript:CountryDrop();">
+        </div>
+        
+		<div id="global_header">			
+    
+			<div id="logo"><a href="/"><!--<img src="/images/global_header_h1_bg.gif" alt="The Real Estate Book" /> --></a></div>
+			
+			
+			
 		
-			<div id="logo"><a href="/"><img src="/images/global_header_h1_bg.gif" alt="The Real Estate Book"></a></div>
-			<h1>The Real Estate Book</h1>
-			
-			
-			
+   
+           
+           
+       
     	</div><!-- end #global_header -->
 	
 	
 	    <div id="global_content" class="clearfix">
 	
-	
+          <script type="text/javascript">
+ FB.init('f09defec45cad4d9414cc50455a67894','/facebook/xd_receiver.aspx', {'ifUserConnected':facebook_onlogin,'ifUserNotConnected':reloadCurrentPage});
+</script>
+
+					
             <div id="global_content_full">
 	
                 
@@ -159,14 +223,10 @@ function ChangeUserAction()
 	<li>Track your progress and number of entries in some of our promotions, sweepstakes, and contests. When one of the promotions that we host uses cookies, the information written to the cookie may be used to indicate the player's progress through the promotion, and may be used to track entries, submissions, and status in prize drawings.</li>
 	<li>Measure certain traffic patterns, such as which areas of our Websites you have visited and your visiting patterns. This information, however, is only gathered in aggregate form - that is, this aggregated information is not linked to any personal information that can identify any individual person. We use this research to understand how our users' habits are similar or different from one another so that we can make each new experience on our sites a better one. We may use this information to better personalize the content, banners, and promotions that you and other users will see on our sites.</li>
 </ol>
-
-							
-<h3>What about your third parties and advertisers - do they use cookies?</h3>
-<p>Advertising networks that serve ads onto one or more of our Websites and companies advertising or offering products and services on our sites may use their own cookies. We, however, have no access or control over these cookies. In those cases, the third parties may use your personal information according to their own policies, which may differ from this Privacy Policy.</p>
-
-							
-<h3>Third Party Advertisers</h3>
-<p>The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to their site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about Doubleclick, cookies, and how to opt-out”, please click here: http://www.doubleclick.net/us/corporate/privacy</p>
+<br>
+<h3>Third Party Advertisers and Cookies</h3>
+<p>We use third-party companies to serve ads when you visit our Websites. These companies may use information (not including your name, address, email address or telephone number) about your visits to our Websites in order to provide advertisements on our Websites, other sites and other forms of media about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please <a href="http://www.networkadvertising.org/consumer/opt_out.asp">click here</a>.
+</p>
 
 <h3>How do you use my information?</h3>
 <p>Our primary goal in collecting personally identifiable and other information is to provide you, the user, with a customized experience on our Websites. This includes personalization services and many other types of services. By knowing a little about you, we are able to deliver more relevant advertisements and content, and hence a better and more valuable service, to you. For example, the more we know about the type of home or community in which you are interested, the more appropriate information we can deliver to you.</p>
@@ -280,108 +340,134 @@ function ChangeUserAction()
 
 <div id="global_footer_inner" class="clearfix">
 
-    <div id="top_markets" class="clearfix">
-        <h4>Top Markets:</h4>
-        <div class="set">
-            <ul>
-                <li><a href="/homes/Atlanta-GA-USA">Atlanta Real Estate</a></li>
-                <li><a href="/homes/Charlotte-NC-USA">Charlotte Real Estate</a></li>
-                <li><a href="/homes/Seattle-WA-USA">Seattle Real Estate</a></li>
-                <li><a href="/homes/Portland-OR-USA">Portland Real Estate</a></li>
-                <li><a href="/homes/Phoenix-AZ-USA">Phoenix Real Estate</a></li>
-            </ul>
-        </div>
-        <div class="set">
-            <ul>
-                <li><a href="/homes/Dallas-TX-USA">Dallas Real Estate</a></li>
-                <li><a href="/homes/Chicago-IL-USA">Chicago Real Estate</a></li>
-                <li><a href="/homes/Baltimore-MD-USA">Baltimore Real Estate</a></li>
-                <li><a href="/homes/Boston-MA-USA">Boston Real Estate</a></li>
-                <li><a href="/homes/Minneapolis-MN-USA">Minneapolis Real Estate</a></li>
-            </ul>
-        </div>
-        <div class="set">
-            <ul>
-                <li><a href="/homes/Orlando-FL-USA">Orlando Real Estate</a></li>
-                <li><a href="/homes/Jacksonville-FL-USA">Jacksonville Real Estate</a></li>
-                <li><a href="/homes/Houston-TX-USA">Houston Real Estate</a></li>
-                <li><a href="/homes/Knoxville-TN-USA">Knoxville Real Estate</a></li>
-                <li><a href="/homes/New-York-NY-USA">New York Real Estate</a></li>
-            </ul>
-        </div>
-        <div class="set">
-            <ul>
-                <li><a href="/homes/Denver-CO-USA">Denver Real Estate</a></li>
-                <li><a href="/homes/St-Louis-MS-USA">St. Louis Real Estate</a></li>
-                <li><a href="/homes/Detroit-MI-USA">Detroit Real Estate</a></li>
-                <li><a href="/homes/Greensboro-NC-USA">Greensboro Real Estate</a></li>
-                <li><a href="/homes/New-Orleans-LA-USA">New Orleans Real Estate</a></li>
-            </ul>
+
+  
+ 
+    <div class="top">
+        <div class="left" style="height:79px;width:128px">&nbsp;</div>   
+        <div class="right"> 
+            <p>
+                Information deemed reliable but not guaranteed. All measurements are approximate. MLS numbers are provided where available*
+                <br>            
+                *NCI is not affiliated or associated with The Canadian Real Estate Association or any other owner of the MLS word or design mark in any geographic area
+            </p>
+            
+            <p>
+                <a href="/terms-of-use/">Terms Of Use</a><span class="pipe">|</span>
+                <a href="/privacy-policy/">Privacy Policy</a><span class="pipe">|</span>
+                <a href="http://www.nci.com/about/" target="_blank">About Us</a><span class="pipe">|</span>
+                <a href="http://www.livingchoicesnetwork.com/lc/buying/Feedback/TREB%20Form/form.htm" target="_blank">Feedback</a><span class="pipe">|</span>
+                <a target="_blank" href="http://www.nci.com/contact/">Contact Us</a><span class="pipe">|</span>
+                <a target="_blank" href="http://www.publishingopportunities.com/">Publishing Opportunities</a><span class="pipe">|</span>
+                <a href="/sitemap/">Sitemap</a>
+            </p>
         </div>
     </div>
-
-    <p>
-        <img src="/images/logo_footer_nci.gif" alt="NCI Real Estate Site" height="36" width="97" align="absmiddle">
+    <div class="content">
+        <h3>Select from the NCI Interactive Suite of Sites:</h3>
+       
+       <div id="nci_links">
+        <a href="http://www.realestatebook.com" target="_blank">Real Estate</a><span class="pipe">|</span>
+        <a href="http://www.apartmentfinder.com" target="_blank">Apartments</a><span class="pipe">|</span>
+        <a href="http://www.livingchoices.com" target="_blank">Search All Real Estate</a><span class="pipe">|</span>
+        <a href="http://www.uniquehomes.com" target="_blank">Luxury Real Estate</a><span class="pipe">|</span>
         
-        <a href="/terms-of-use">Terms Of Use</a> /
-        <a href="/privacy-policy">Privacy Policy</a> /
-        <a href="http://www.nci.com/about/" target="_blank">About Us</a> /
-        <a href="http://www.livingchoicesnetwork.com/lc/buying/feedback/LC%20Form/form.htm" target="_blank">Feedback</a> /
-        <a target="_blank" href="http://www.nci.com/contact/">Contact Us</a> /
-        <a target="_blank" href="http://www.publishingopportunities.com/">Publishing Opportunities</a> /
-        <a href="/sitemap">Sitemap</a>
-    </p>
-    <p>
-        <b>Select from the NCI Interactive Suite of Sites:</b>
-        <br>
-<a href="http://www.realestatebook.com" target="_blank">Real Estate</a> / 
-<a href="http://www.apartmentfinder.com" target="_blank">Apartments</a> /
-<a href="http://www.livingchoices.com" target="_blank">Real Estate Portal</a> /
-<a href="http://www.uniquehomes.com" target="_blank">Luxury Real Estate</a>
-        <br>
-<a href="http://www.maturelivingchoices.com" target="_blank">Retirement Living</a> /
-<a href="http://www.seniorlivingchoices.com" target="_blank">Assisted Living</a> /
-<a href="http://www.blacksguide.com" target="_blank">Commercial Real Estate</a>
-        <br>
-<a href="http://www.newhomebook.com" target="_blank">New Homes</a> /
-<a href="http://www.nci.com/products/homedesign.html" target="_blank">Home Design</a> /
-<a href="http://www.homeimprovementmag.com" target="_blank">Home Improvement</a> /
-<a href="http://www.nci.com/products/relocating.html" target="_blank">Relocating</a>
-    </p>
-    <p>
-        Information deemed reliable but not guaranteed. All measurements are approximate.
-    </p>
-    <p>
-        <img align="absmiddle" alt="Equal Housing Opportunity" title="Equal Housing Opportunity" src="/images/logo_eho.gif"> Equal Housing Opportunity |
-        MLS numbers are provided where available*
-    </p>
-    <p>
-        *NCI is not affiliated or associated with The Canadian Real Estate Association or any other owner of the MLS word or design mark in any geographic area
-    </p>
-    <p>
-        Powered by <a href="http://www.gabriels.net" target="_blank" rel="nofollow">Gabriels Technology Solutions</a>
-    </p>
-    <p>
-        Copyright © 2008 Network Communications, Inc. All rights reserved.
-    </p>
+        <a href="http://www.newhomebook.com" target="_blank">New Homes</a><span class="pipe">|</span>
+        <a href="http://www.maturelivingchoices.com" target="_blank">Retirement Living</a><span class="pipe">|</span>
+        <a href="http://www.seniorlivingchoices.com" target="_blank">Assisted Living</a><span class="pipe">|</span>
+        
+        <a href="http://www.nci.com/products/homedesign.html" target="_blank">Home Design</a><span class="pipe">|</span>
+        <a href="http://www.homeimprovementmag.com/" target="_blank">Home Improvement</a><span class="pipe">|</span>
+        <a href="http://www.nci.com/products/relocating.html" target="_blank">Relocating</a><span class="pipe">|</span>
+        <a href="http://www.blacksguide.com/" target="_blank">Commercial Real Estate</a>
+         
+          </div>
+    </div>
+    <div class="bottom">
+        <div>
+            Powered by <a href="http://www.gabriels.net" target="_blank" rel="nofollow">Gabriels Technology Solutions</a>
+        </div>
+        <div>
+            Copyright © 2010 Network Communications, Inc. All rights reserved.<span class="pipe">|</span>
+        
+            <img align="absmiddle" alt="Equal Housing Opportunity" title="Equal Housing Opportunity" src="/images/logo_eho.gif"> Equal Housing Opportunity
+            
+        </div>
+    </div>
 </div>
 			
 	    </div><!-- end #global_footer -->
 
-
 	    
+  
+  
+   <script type="text/javascript" language="javascript">
+   
+    if(IsAlreadySignedIn())
+   {
+   var userID = readPersonCookie("email"); 
+     s.prop23 = userID;
+   }
+   else
+   {
+    s.prop23 = "nm";
+   }
+   s.hier1="homepage|content|privacy policy";
+   </script>
+   
+<!-- SiteCatalyst code version: H.17.
+Copyright 1997-2007 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+
+s.prop18 = "content:privacy-policy";
+s.prop41 = "-1";
+s.pageName="content:privacy-policy";
+s.server="";
+s.channel="content";
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();
+if(s_code)
+{
+    document.write(s_code);
+}
+//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script>
+<!-- End SiteCatalyst code version: H.17. -->
+
 
 
     </div><!-- end #global_wrap -->
+    
+     <script type="text/javascript" language="javascript">
+ if(IsAlreadySignedIn())
+  {
+     var userID = readPersonCookie("email"); 
+     s.prop23 = userID;
+     //s.eVar23 = userID;                      // EVar for UserID
+  } 
+ else
+  {
+   s.prop23 = "nm";
+  }
+  
+</script>
     
     <script language="javascript" type="text/javascript">
     if (!document.readyState)
     {
         document.readyState = "complete";
     }
+ //   window.onload = pageloadingtime;
     </script>
     
     <div id="crosshair" style="z-index:1000;position:absolute;left:100px;top:100px;width:5px;height:5px;display:none;"><img src="/images/map_markers/crosshair.gif" width="5" height="5" alt="map crosshair"></div>
-
+             
+    
+    
 
 </body></html>
