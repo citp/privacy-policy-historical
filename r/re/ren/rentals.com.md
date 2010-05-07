@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rentals.com privacy policy that was archived on 2009-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090919064542id_/http%3A//www.rentals.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentals.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507141226id_/http%3A//www.rentals.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy « Home Rentals, Homes for Rent, Apartments, Houses For Rent, and Other Rental Homes
 
 ### Privacy Policy
 
@@ -34,7 +34,7 @@ We use information you provide to fulfill your requests and improve our publicat
 
 
 
-We allow users of some of our websites to send articles or links by e-mail to other parties who may be interested in them. We do not retain any e-mail addresses (unless you are a member who already has voluntarily provided your e-mail address) of either the sender or recipient of such articles or links after they are sent, and do not share "send a friend" e-mail addresses with third parties.
+We allow users of some of our websites to send articles or links by e-mail to other parties who may be interested in them. We do not retain any e-mail addresses (unless you are a member who already has voluntarily provided your e-mail address) of either the sender or recipient of such articles or links after they are sent, and do not share “send a friend” e-mail addresses with third parties.
 
 #### Disclosure of Personal Information
 
@@ -62,7 +62,7 @@ We reserve the right to use or disclose any information without notice or consen
 
 #### Cookies and Web Beacons
 
-Your Web browser offers so-called "cookies" which store small amounts of data on your computer when you visit a website. Cookies do not contain any personally identifiable information about you and therefore cannot be used to identify you personally. Cookies assist us in tracking which of our features you prefer and enable us to customize our content according to your preferences. You can prevent cookies by modifying your browser, however some advanced and customized features or offerings will not be available to you. Our third party advertisers also may use cookies. 
+Your Web browser offers so-called “cookies” which store small amounts of data on your computer when you visit a website. Cookies do not contain any personally identifiable information about you and therefore cannot be used to identify you personally. Cookies assist us in tracking which of our features you prefer and enable us to customize our content according to your preferences. You can prevent cookies by modifying your browser, however some advanced and customized features or offerings will not be available to you. Our third party advertisers also may use cookies. 
 
 Some of our Web pages may contain electronic images known as Web beacons. These images allow us to count users who have visited those pages and to deliver co-branded services. Web beacons are not used to access your personally identifiable information but they are a technique we use to compile aggregated statistics about our website usage. 
 
@@ -76,7 +76,7 @@ To review, correct or update your contact information or change your preferences
 
   * As a registered user or if you have an online account at one of our websites, you may be able to log on and update or change your contact or account information. Check the site for further information. 
   * Unsubscribe to any of our online e-mail updates by following the unsubscribe instructions in the body of any message.
-  * Write to us and update your contact information or ask that we not share your personal contact information with third parties at:
+  * Write to us and update your contact information or ask that we not share your personal contact information with third parties at: 
 
 Consumer Source Inc.,   
 Attn: Privacy Coordinator  
@@ -86,7 +86,7 @@ Norcross, Georgia 30092.
 
 
 
-In those instances, we will retain your information in a "do not promote" file in our database. You may also contact us at privacypolicy @ consumersource.com.
+In those instances, we will retain your information in a “do not promote” file in our database. You may also contact us at privacypolicy @ consumersource.com.
 
 We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive promotional information from us by mail for up to 60 days due to printing and mailing schedules, and up to 10 days for e-mail.
 
@@ -113,7 +113,8 @@ If you have any questions about this Privacy Policy or our privacy practices, pl
 Or you can contact us by mail at:
 
 Privacy Coordinator   
-Consumer Source, Inc.  
+Consumer Source, Inc.
+
 3585 Engineering Drive, Suite 100  
 Norcross, Georgia 30092 
 
