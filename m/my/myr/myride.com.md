@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the myride.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426084213id_/http%3A//www.myride.com/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myride.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507213808id_/http%3A//www.myride.com/content/home/help/index.cfm/action/privacy) for the most accurate reproduction.*
 
-# MyRide.com: Privacy Policy
+# Privacy Policy
+
+### Autobytel Consumer Privacy and Security Policy
 
 Date Last Revised: January 10, 2008
 
 Autobytel Inc. (" **Autobytel** ") understands your concerns with privacy and the use of your personal information. Whether you submit a purchase request for a vehicle or simply browse through our Website, we assure you that we are committed to protecting your personal privacy.
 
-This privacy policy covers the sites [http://www.autobytel.com](http://www.autobytel.com/), [http://www.autoweb.com](http://www.autoweb.com/), [http://www.carsmart.com](http://www.carsmart.com/), [http://www.car.com](http://www.car.com/), [http://finance.car.com](http://finance.car.com/) and [http://www.myride.com](http://www.myride.com/) and certain other websites with the myride.com domain, as applicable (individually, a "Website"). We encourage you to read this Policy carefully before providing any personal information on our Website. If you have questions or concerns regarding this Policy, you should contact our Consumer Privacy Advocate by e-mail at [ABTPrivacy@autobytel.com](mailto:ABTPrivacy@autobytel.com).
+This privacy policy covers the sites [http://www.autobytel.com](http://www.autobytel.com/), [http://www.autoweb.com](http://www.autoweb.com/), [http://www.carsmart.com](http://www.carsmart.com/), [http://www.car.com](http://www.car.com/), [http://finance.car.com](http://finance.car.com/) and [http://www.myride.com](http://www.myride.com/) and certain other websites with the myride.com domain, as applicable (individually, a "Website"). We encourage you to read this Policy carefully before providing any personal information on our Website. If you have questions or concerns regarding this Policy, you should contact our Consumer Privacy Advocate by e-mail at [ABTPrivacy@autobytel.com](mailto:ABTPrivacy@autobytel.com). 
 
 ### 1\. Information Autobytel Collects and How We Use It
 
@@ -26,7 +28,7 @@ All information provided by consumers in any of the above-listed ways or otherwi
 
 ### Invite/Email-A-Friend
 
-If you choose to use our Website to tell a friend about our Website, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Website. Autobytel does not store this information. We use this third party information (email, name) for the sole purpose of sending this one-time email and tracking the success of our invite program.
+If you choose to use our Website to tell a friend about our Website, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Website. Autobytel does not store this information. We use this third party information (email, name) for the sole purpose of sending this one-time email and tracking the success of our invite program.
 
 Your friend may contact us at [ABTPrivacy@autobytel.com](mailto:ABTPrivacy@autobytel.com) to request that we remove this information from our database.
 
@@ -118,13 +120,13 @@ We also use a third party tracking service that sets cookies on our Website to t
 
 If you prefer not to accept cookies, most browsers will explain how to disable cookies under the help portion of the toolbar or notify you when you receive a new cookie. However, if you choose to disallow cookies on your hard drive, our Website will not be able to provide personalization services.
 
-Autobytel may use third party network advertising providers to serve the advertisements on our Website. Network advertising providers are third parties that display advertisements based on your visits to this Website and other sites you have visited. Although the advertising providers do not have access to the Website cookies, they may set and access their own cookies on your computer if you choose to have cookies enabled in your browser. Cookies allow the ad providers to show you advertisements or content in which you might be interested. Other companies’ use of their cookies is subject to their own privacy policies, not this one. Please click here [www.networkadvertising.org](http://www.networkadvertising.org/) in order to learn more about the information collection practices of some of the third party ad providers we may use. Please click here <http://www.networkadvertising.org/managing/opt_out.asp> in order to learn more about the "opt-out" procedures of some of the third party ad providers we may use.
+Autobytel may use third party network advertising providers to serve the advertisements on our Website. Network advertising providers are third parties that display advertisements based on your visits to this Website and other sites you have visited. Although the advertising providers do not have access to the Website cookies, they may set and access their own cookies on your computer if you choose to have cookies enabled in your browser. Cookies allow the ad providers to show you advertisements or content in which you might be interested. Other companies' use of their cookies is subject to their own privacy policies, not this one. Please click here [www.networkadvertising.org](http://www.networkadvertising.org/) in order to learn more about the information collection practices of some of the third party ad providers we may use. Please click here <http://www.networkadvertising.org/managing/opt_out.asp> in order to learn more about the "opt-out" procedures of some of the third party ad providers we may use.
 
 These advertising or other service providers may place "web beacons" on our Website. A web beacon is a small, transparent image placed at various sections of our Website or in Web-based documents or in email messages to monitor user traffic. The web beacon records the number of click-throughs to the page where it resides and collects users' IP addresses, time the page was viewed, type of browser used, and existence of cookies from a previous visit. Among other things, they help to better target advertisements on our Website. Information collected by web beacons is used only by Autobytel, its affiliates and authorized vendors. Web beacons may be linked to your personal information.
 
 ### 8\. Business Transfers and Other Transactions
 
-Information about our users and our Website is a business asset of Autobytel. As we continue to develop our business, we might sell or buy websites, subsidiaries or business units. In such transactions, personal information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing privacy policy. Also, in the event that Autobytel or substantially all of its assets are acquired, personal information will of course be one of the transferred assets. In addition, personal information will be disclosed as part of any creation of a separate business to provide our Website, or to provide other services or fulfill products; debt financing, sale or pledge of company assets, or insolvency, bankruptcy or receivership. We will make reasonable efforts to ensure that the acquirer of our users’ personal information respects the provisions of this Policy, although this may not be possible in certain legal settings (such as bankruptcy).
+Information about our users and our Website is a business asset of Autobytel. As we continue to develop our business, we might sell or buy websites, subsidiaries or business units. In such transactions, personal information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing privacy policy. Also, in the event that Autobytel or substantially all of its assets are acquired, personal information will of course be one of the transferred assets. In addition, personal information will be disclosed as part of any creation of a separate business to provide our Website, or to provide other services or fulfill products; debt financing, sale or pledge of company assets, or insolvency, bankruptcy or receivership. We will make reasonable efforts to ensure that the acquirer of our users' personal information respects the provisions of this Policy, although this may not be possible in certain legal settings (such as bankruptcy).
 
 ### 9\. Changes or Revisions to This Policy
 
@@ -136,8 +138,8 @@ We take our commitment to protection of your privacy, as set out in this Policy,
 
 ### 11\. Questions or Concerns?
 
-If you have any questions or concerns regarding privacy, security, opting-out of email offers or understanding how your personal information is being used, please contact our Consumer Privacy Advocate at [ABTPrivacy@autobytel.com](mailto:ABTPrivacy@autobytel.com).
+If you have any questions or concerns regarding privacy, security, opting-out of email offers or understanding how your personal information is being used, please contact our Consumer Privacy Advocate at [ABTPrivacy@autobytel.com](mailto:ABTPrivacy@autobytel.com). 
 
-For any other issues, please contact our customer service department at [consumercare@autobytel.com](mailto:consumercare@autobytel.com). Our mailing address is: 18872 MacArthur Boulevard Irvine CA 92612-1400.
+For any other issues, please contact our customer service department at [consumercare@autobytel.com](mailto:consumercare@autobytel.com). Our mailing address is: 18872 MacArthur Boulevard, Irvine, CA 92612-1400.
 
-For the Autobytel Usage Terms and Disclaimers please click [here](http://myride.com/about/termsandconditions.html).
+For the Autobytel Usage Terms and Disclaimers please click [here](http://www.autobytel.com/content/home/help/index.cfm/action/terms).
