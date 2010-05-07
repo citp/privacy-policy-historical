@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babujobs.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230231152id_/http%3A//www.babujobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babujobs.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507065223id_/http%3A//www.babujobs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GOVERNMENT JOBS INDIA
 
