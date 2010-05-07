@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kaseya.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620001117id_/http%3A//www.kaseya.com/company/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaseya.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507102748id_/http%3A//www.kaseya.com/Legal/Privacy-Statement.aspx) for the most accurate reproduction.*
 
-# Kaseya Company
-
-|  | 
+# Kaseya Privacy Statement
 
 Privacy Statement Effective as of 3.12.2009
 
@@ -76,12 +74,4 @@ We reserve the right to modify this Privacy Statement at any time, so please rev
 
 **10\. Contacting Us**
 
-If you have questions or concerns, you should first contact the Kaseya Privacy Administrator at: [legal@kaseya.com](mailto:legal@kaseya.com); +44 1534 832 534; Channel House, 4th Floor, Green Street, St. Helier, Jersey JE2 4UH, British Isles. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-| 
-
-**Free Trial**  
-Get your own fully functional Kaseya server and begin managing your entire computing infrastructure in minutes.  
-[ Click Here](https://web.archive.org/forms/free-trial.aspx)  
-  
----|---|---
+If you have questions or concerns, you should first contact the Kaseya Privacy Administrator at: [legal@kaseya.com](mailto:legal@kaseya.com); Channel House, 4th Floor, Green Street, St. Helier, Jersey JE2 4UH, British Isles. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
