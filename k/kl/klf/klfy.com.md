@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klfy.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103075502id_/http%3A//www.klfy.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klfy.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507041920id_/http%3A//www.klfy.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - KLFY TV 10 - Acadiana's Local News, Weather and Sports Leader |
 
