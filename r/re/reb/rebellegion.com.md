@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the rebellegion.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106080837id_/http%3A//www.rebellegion.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebellegion.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508002435id_/http%3A//www.rebellegion.com/privacy.php) for the most accurate reproduction.*
 
 # Rebel Legion Privacy Policy
 
 |   
 ---  
-[](https://web.archive.org/web/20091106080837id_/http%3A//home_news.php)  
-[](https://web.archive.org/web/20091106080837id_/http%3A//about_standards.php)  
-[](https://web.archive.org/web/20091106080837id_/http%3A//charity.php)  
-[](https://web.archive.org/web/20091106080837id_/http%3A//newsletter.php)  
-[](https://web.archive.org/web/20091106080837id_/http%3A//about_faq.php)  
-[](https://web.archive.org/web/20091106080837id_/http%3A//about_history.php)  
-[](https://web.archive.org/web/20091106080837id_/http%3A//about_charter.php)  
-[](https://web.archive.org/web/20091106080837id_/http%3A//invite.php)  
-[](https://web.archive.org/web/20091106080837id_/http%3A//join_1.php)  
+[](https://web.archive.org/web/20100508002435id_/http%3A//home_news.php)  
+[](https://web.archive.org/web/20100508002435id_/http%3A//about_standards.php)  
+[](https://web.archive.org/web/20100508002435id_/http%3A//charity.php)  
+[](https://web.archive.org/web/20100508002435id_/http%3A//newsletter.php)  
+[](https://web.archive.org/web/20100508002435id_/http%3A//about_faq.php)  
+[](https://web.archive.org/web/20100508002435id_/http%3A//about_history.php)  
+[](https://web.archive.org/web/20100508002435id_/http%3A//about_charter.php)  
+[](https://web.archive.org/web/20100508002435id_/http%3A//invite.php)  
+[](https://web.archive.org/web/20100508002435id_/http%3A//join_1.php)  
   |  Rebel Legion Privacy Policy
 
 The Rebel Legion is committed to respecting the privacy of all visitors to our web site. This Privacy Policy explains explains the following things:
@@ -59,7 +59,7 @@ You can control who has access to your e-mail address at any time by editing you
 
 ### Legion Members
 
-Members off the Legion, (please see the [Club Charter](https://web.archive.org/web/20091106080837id_/http%3A//www.rebellegion.com/about_charter.php) for information about what a member is) are required to provide a great deal more information than ordinary users. Here is what is required:
+Members off the Legion, (please see the [Club Charter](https://web.archive.org/web/20100508002435id_/http%3A//www.rebellegion.com/about_charter.php) for information about what a member is) are required to provide a great deal more information than ordinary users. Here is what is required:
 
   * Your country and zip/postal code. This is required so that we know which Base or Outpost you belong to as a member.
   * A photograph of you in your costume. Since this is a costume-oriented club, we must have a photo to verify that you have an appropriate costume and we will be posting this photo on the website under your profile.
@@ -70,13 +70,13 @@ In addition to the optional information that you can enter as a forum user, you 
 
 ## Advertising
 
-The Rebel Legion does not use any form of advertising on the website beyond linking to relevant Star Wars and Science-Fiction websites in our [Links page](https://web.archive.org/web/20091106080837id_/http%3A//www.rebellegion.com/links.php "Rebel Legion links directory, Access Key = '8'"). We also do not permit users to use our forum, private message system, chat room, or other areas of our website for the purpose of advertising and/or SPAM.
+The Rebel Legion does not use any form of advertising on the website beyond linking to relevant Star Wars and Science-Fiction websites in our [Links page](https://web.archive.org/web/20100508002435id_/http%3A//www.rebellegion.com/links.php "Rebel Legion links directory, Access Key = '8'"). We also do not permit users to use our forum, private message system, chat room, or other areas of our website for the purpose of advertising and/or SPAM.
 
 If you have experienced internet advertising such as banners, pop-ups, pop-unders or other ads while visiting our site, then this is because your computer has ad-ware or spyware (collectively known as scumware) installed on your computer. Tools such as [Ad-Aware](http://www.lavasoft.com/ "Visit LavaSoft's home page and download Ad-Aware"), [Spybot Search and Destroy](http://www.spybot.info/ "Jump to the homepage for SpyBot Search and Destroy"), and [Spyware Blaster](http://www.javacoolsoftware.com/spywareblaster.html "Go to the website for Spyware Blaster") can help remove such software from your computer.
 
 ## What to do if you suspect someone in the Legion has compromised your privacy
 
-If you believe that someone within the Legion who has access to your contact information, the first thing that you should do is check the privacy settings for your e-mail address and other contact info. If it is set to "Everyone" or "Members only," then you may want to restrict to staff members. Next you should gather all details and information you have and [e-mail the Legion](https://web.archive.org/web/20091106080837id_/http%3A//www.rebellegion.com/contact.php "Send an e-mail") with that information. Here is some information to include in your message:
+If you believe that someone within the Legion who has access to your contact information, the first thing that you should do is check the privacy settings for your e-mail address and other contact info. If it is set to "Everyone" or "Members only," then you may want to restrict to staff members. Next you should gather all details and information you have and [e-mail the Legion](https://web.archive.org/web/20100508002435id_/http%3A//www.rebellegion.com/contact.php "Send an e-mail") with that information. Here is some information to include in your message:
 
   * Your username and/or real name
   * If you have any idea who has violated your trust, please state who and why you think they did it
