@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the producer.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609135608id_/http%3A//www.producer.com/free/information/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the producer.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507112636id_/http%3A//www.producer.com/Privacy-Policy) for the most accurate reproduction.*
 
-# The Western Producer
-
-| 
-
-Western Producer Privacy Policy
+# The Western Producer - Privacy Policy
 
 Western Producer Publications views customer information, including name and address information, as a proprietary trade secret. We have very strict policies designed to protect such personal information.
 
@@ -59,5 +55,3 @@ Notwithstanding this policy, the company reserves the right to withhold any info
 Western Producer Publications privacy policy exceeds the standards set by government and industry. Should you observe a gap in this policy or its practice, please contact us immediately.
 
 Western Producer Publications is committed to promptly dealing with any complaints or concerns in regard to privacy issues. Your may also review and request corrections to personal information Western Producer Publications has in its files. Federal privacy laws require such requests to be in writing. This avoids strangers making requests in your name. You may write to Marketing Manager, PO Box 2500, Saskatoon, SK, S7K 2C4. You should include your Western Producer account number and your complete name, address and phone number for identification purposes.
-
-| 
