@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the hagerty.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207204051id_/http%3A//www.hagerty.com/about/about_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hagerty.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507214006id_/http%3A//www.hagerty.com/us/template.aspx%3Fid%3D58252) for the most accurate reproduction.*
 
-# HAGERTY - Facts
-
-| 
-
-The Information We Collect and How We Use It
+# Hagerty - Privacy
 
 At Hagerty, we are committed to respecting your privacy. For this reason we want to be upfront with you in terms of letting you know what information we may collect and how we might use it.
 
@@ -62,6 +58,4 @@ This site may make forums, message boards, and/or news groups available to its u
 
 _Questions_
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with Hagerty, simply contact us at 1-800-922-4050 or [webmaster@hagerty.com](mailto:webmaster@hagerty.com) .   
-  
----|---
+If you have any questions about this privacy statement, the practices of this site, or your dealings with Hagerty, simply contact us at 1-800-922-4050 or [webmaster@hagerty.com](mailto:webmaster@hagerty.com) . 
