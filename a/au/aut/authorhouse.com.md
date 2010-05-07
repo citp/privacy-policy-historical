@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the authorhouse.com privacy policy that was archived on 2009-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090714014640id_/http%3A//www.authorhouse.com/PrivacyPolicy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorhouse.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507022300id_/http%3A//www.authorhouse.com/PrivacyPolicy/default.aspx) for the most accurate reproduction.*
 
-# AuthorHouse
+# Privacy Policy - AuthorHouse
 
 Our privacy policy, as detailed below, answers questions you may have about access, security, and control of personal information. It also describes how the information will be used and whether it will be provided to third parties.
 
@@ -18,9 +18,9 @@ If you choose not to provide private information to this Web site, alternate ord
 
 To better serve you, AuthorHouse may share your name and contact information with companies that are part of ASI, which offer products or services desirable or useful to you. ASI companies share aspects of common ownership and control.
 
-Such companies currently include AuthorHouse, AuthorHouse UK, iUniverse, Xlibris, Trafford, and Wordclay.
+Such companies currently include AuthorHouse, AuthorHouse UK, iUniverse, Xlibris, Trafford, Wordclay, and AuthorHive.
 
-We may use your e-mail address to occasionally notify you about important functionality changes to the Web site, new services, and special offers we think you’ll find valuable. If you would rather not receive this information, you can change the preferences by clicking HERE.
+We may use your e-mail address to occasionally notify you about important functionality changes to the Web site, new services, and special offers we think you’ll find valuable. If you would rather not receive this information, you can change the preferences by [clicking HERE](https://web.archive.org/ContactUs/MarketingPreferences.aspx "clicking HERE").
 
 We may release account information when we believe, in good faith, that such release is reasonably necessary to (1) comply with law, (2) enforce or apply the terms of any of our user agreements, or (3) protect the rights, property, or safety of Author Solutions and its affiliated companies, our users, or others.
 
