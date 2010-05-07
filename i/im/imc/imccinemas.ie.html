@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the imccinemas.ie privacy policy that was archived on 2009-11-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091104094758id_/http%3A//www.imccinemas.ie/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imccinemas.ie privacy policy that was archived on 2010-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100507094132id_/http%3A//www.imccinemas.ie/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Irish Multiplex Cinemas - Privacy Policy</title>
+<title>Irish Multiplex Cinemas Dun Laoghaire - Privacy Policy</title>
 <meta name="robots" content="index,follow">
 <meta name="generator" content="http://www.kco.ie">
 <meta name="author" content="Kco Ltd. - http://www.kco.ie">
@@ -15,27 +15,54 @@
 	
 		<!-- @import url("includes/css/screen.css") ; -->
 	
+		#hd {background: url(images/bgs/headerNoPhone.png) top left no-repeat; }
+	
+		body{background: #010822 url(images/bgs/Ironman2-BG.jpg) top center no-repeat fixed;}
+	
 </style>
 
-	<link type="text/css" href="includes/css/print.css" rel="stylesheet" media="print">
-	<link type="text/css" href="includes/css/print.css" rel="alternate stylesheet" media="screen" title="print" disabled="">
 	
 		<link rel="SHORTCUT ICON" href="http://www.imccinemas.ie/favicon.ico">
 	
   	<link rel="alternate" href="../rss.asp" title="IMC Site News" type="application/rss+xml">
 
-	<script type="text/javascript" src="includes/js/javascript.js"></script>
- 	<script type="text/javascript" src="includes/menus/udm-custom.js"></script>
-	<script type="text/javascript" src="includes/menus/udm-control.js"></script>
-	<script type="text/javascript" src="includes/menus/udm-style.js"></script><html:style type="text/css" media="screen,projection"></html:style>
-	<script type="text/javascript" src="scripts/snowstormOff.js"></script>
-
-	<script src="scripts/swfobject.js" type="text/javascript"></script>   
-  <script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script type="text/javascript" src="includes/js/core.js"></script> 
+  
+<link href="includes/multibox2/multibox.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="includes/multibox2/mootools-1.2.1-core-yc.js"></script>
+<script type="text/javascript" src="includes/multibox2/mootools-1.2-more-yc.js"></script>
+<script type="text/javascript" src="includes/multibox2/overlay.js"></script>
+<script type="text/javascript" src="includes/multibox2/multiBox.js"></script>
+<script type="text/javascript">
+window.addEvent('domready', function(){
+	//call multiBox
+	var initMultiBox = new multiBox({
+		mbClass: '.mb',//class you need to add links that you want to trigger multiBox with (remember and update CSS files)
+		container: $(document.body),//where to inject multiBox
+		descClassName: 'multiBoxDesc',//the class name of the description divs
+		path: './Files/',//path to mp3 and flv players
+		useOverlay: true,//use a semi-transparent background. default: false;
+		maxSize: {w:600, h:400},//max dimensions (width,height) - set to null to disable resizing
+		addDownload: false,//do you want the files to be downloadable?
+		pathToDownloadScript: './Scripts/ForceDownload.asp',//if above is true, specify path to download script (classicASP and ASP.NET versions included)
+		addRollover: false,//add rollover fade to each multibox link
+		addOverlayIcon: true,//adds overlay icons to images within multibox links
+		addChain: false,//cycle through all images fading them out then in
+		recalcTop: true,//subtract the height of controls panel from top position
+		addTips: false//adds MooTools built in 'Tips' class to each element (see: http://mootools.net/docs/Plugins/Tips)
+			});
+		});
+		</script>  
+  
 
 </head>
 <body id="privacyPolicy">
-<script type="text/javascript" src="includes/menus/udm-dom.js"></script>
+
+<div id="bannerSkyScrapper">
+  <iframe allowtransparency="true" src="https://www.imccinemas.ie/bannercontrol/abmw.aspx?z=20&amp;isframe=true" width="120" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</div>
+
+<div id="shadow">
 <div id="doc">
 <div id="hd" title="imccinemas.ie">
   <div id="tools">
@@ -47,266 +74,92 @@
       </ul>
     </div><!-- end tools -->
     
+    <a id="buttonBlog" title="Irish Multiplex Cinemas Dun Laoghaire Blog" href="blog.asp">Blog</a>
   	<div id="logo">
 			<h1><a href="default.asp" title="imccinemas.ie">imccinemas.ie</a></h1>
 		</div>
     
-    <div class="bookingDetails" id="thurles">
-      
-		 <h2>Cinema Booking  Thurles</h2>
-		 <h3>Phone: 0504 26422</h3>
-	  
-	  	<a href="http://thurles.imc-online-booking.com/" target="_blank" title="Book Now">Book Now</a>
+    
+    <div id="newsletter">
+	  <fieldset title="Irish Multiplex Cinemas Dun Laoghaire  Newsletter">
+		  <legend>Irish Multiplex Cinemas Dun Laoghaire Newsletter</legend>
+		  <form method="post" action="friday_email.asp" name="frmemail">
+			<div>
+			  <label for="txtPrice">Email Address </label>
+              <input type="hidden" name="idcinema" value="1">
+			  <input type="text" name="chremail">
+			</div>
+			<input type="button" name="login1$btnLogin" value="Sign In" id="sideform_submit" class="btnJoin">
+		  </form>
+	  </fieldset>
+	</div>
+    
+    <div class="bookingDetails" id="dunLaoghaire">
+	<h2>Cinema Booking Dun Laoghaire</h2>
+	<h3>24 Hour Phone: 01 230 1367</h3>
+	  	<a href="http://www.imc-online-booking.com/films.asp" target="_blank" title="Book Now">Book Now</a>
     </div>
     
-		<ul id="cinemaNav">
-		  <li><a href="default.asp?idcinema=24" title="Athlone">Athlone</a></li>
-		  <li><a href="default.asp?idcinema=25" title="Ballymena">Ballymena</a></li>
-		  <li><a href="default.asp?idcinema=19" title="Dundalk">Dundalk</a></li>
-		  <li><a href="default.asp?idcinema=1" title="Dun Laoghaire">Dun Laoghaire</a></li>
-		  <li><a href="default.asp?idcinema=14" title="Mullingar">Mullingar</a></li>
-		  <li class="selected"><a href="default.asp?idcinema=32" title="Thurles">Thurles</a></li>
-		</ul>
-    <div id="topNav" class="nav">
-			<ul class="udm" id="udm">
-				<li id="udmLinkHome"><a title="Irish Multiplex Cinemas Home" href="default.asp">Home</a></li>
-				<li id="udmLinkNow"><a title="Now Playing" href="now_playing.asp">Now Playing</a> </li>
-				<li id="udmLinkComing"><a title="Coming Soon" href="#">Coming Soon</a>
-				<ul>
-                
-						<li><a href="film.asp?idfilm=1039&amp;type=soon" title="Avatar">Avatar</a></li>
-					
-						<li><a href="film.asp?idfilm=990&amp;type=soon" title="Sherlock Holmes">Sherlock Holmes</a></li>
-					
-						<li><a href="film.asp?idfilm=1017&amp;type=soon" title="The Twilight Saga: New Moon">The Twilight Saga: New Moon</a></li>
-					
-                </ul>
-			  </li>
-				<li id="udmLinkTrailers"><a title="Projects" href="#">Trailers</a>
-					<ul>
-					
-						<li><a href="trailer.asp?id=2645&amp;title= 9" title=" 9"> 9</a></li>
-					 
-						<li><a href="trailer.asp?id=8078&amp;title=A Christmas Carol ( Not 3D Standard Prices Apply)FLS" title="A Christmas Carol ( Not 3D Standard Prices Apply)FLS">A Christmas Carol ( Not 3D Standard Prices Apply)FLS</a></li>
-					 
-						<li><a href="trailer.asp?id=3048&amp;title=A Christmas Carol ( PREMIUM PRICES APPLY) FLS" title="A Christmas Carol ( PREMIUM PRICES APPLY) FLS">A Christmas Carol ( PREMIUM PRICES APPLY) FLS</a></li>
-					 
-						<li><a href="trailer.asp?id=3120&amp;title=An Education FLS" title="An Education FLS">An Education FLS</a></li>
-					 
-						<li><a href="trailer.asp?id=2845&amp;title=Avatar" title="Avatar">Avatar</a></li>
-					 
-						<li><a href="trailer.asp?id=2519&amp;title=Couples Retreat " title="Couples Retreat ">Couples Retreat </a></li>
-					 
-						<li><a href="trailer.asp?id=7164&amp;title=Harry Brown  FLS" title="Harry Brown  FLS">Harry Brown  FLS</a></li>
-					 
-						<li><a href="trailer.asp?id=3005&amp;title=Jennifer's Body" title="Jennifer's Body">Jennifer's Body</a></li>
-					 
-						<li><a href="trailer.asp?id=2848&amp;title=Love Happens " title="Love Happens ">Love Happens </a></li>
-					 
-						<li><a href="trailer.asp?id=3053&amp;title=Michael Jackson This is it! FLS" title="Michael Jackson This is it! FLS">Michael Jackson This is it! FLS</a></li>
-					 
-						<li><a href="trailer.asp?id=3162&amp;title=Paranormal Activity" title="Paranormal Activity">Paranormal Activity</a></li>
-					 
-						<li><a href="trailer.asp?id=2940&amp;title=Saw VI FLS" title="Saw VI FLS">Saw VI FLS</a></li>
-					 
-						<li><a href="trailer.asp?id=2230&amp;title=Sherlock Holmes" title="Sherlock Holmes">Sherlock Holmes</a></li>
-					 
-						<li><a href="trailer.asp?id=2921&amp;title=The Fantastic Mr Fox" title="The Fantastic Mr Fox">The Fantastic Mr Fox</a></li>
-					 
-						<li><a href="trailer.asp?id=2802&amp;title=The Imaginarium of Dr Parnassus FLS" title="The Imaginarium of Dr Parnassus FLS">The Imaginarium of Dr Parnassus FLS</a></li>
-					 
-						<li><a href="trailer.asp?id=8024&amp;title=The Men Who Stare at Goats FLS" title="The Men Who Stare at Goats FLS">The Men Who Stare at Goats FLS</a></li>
-					 
-						<li><a href="trailer.asp?id=2409&amp;title=The Twilight Saga: New Moon" title="The Twilight Saga: New Moon">The Twilight Saga: New Moon</a></li>
-					 
-						<li><a href="trailer.asp?id=2741&amp;title=The Vampire's Assistant FLS" title="The Vampire's Assistant FLS">The Vampire's Assistant FLS</a></li>
-					 
-						<li><a href="trailer.asp?id=2740&amp;title=Triangle" title="Triangle">Triangle</a></li>
-					 
-						<li><a href="trailer.asp?id=1528&amp;title=Up ( not 3d Standard Prices apply )" title="Up ( not 3d Standard Prices apply )">Up ( not 3d Standard Prices apply )</a></li>
-					 
-        
-					</ul>
-			  </li>
-				<li id="udmLinkCompetitions"><a href="#" title="Competitions">Competitions</a>
-                	<ul>
-                    
-						<li><a href="competitions.asp?idfilm=1070" title="The Fantastic Mr Fox">The Fantastic Mr Fox</a></li>
-                    
-                    </ul>
-                </li>
-                
-				<li id="udmLinkCinema"><a href="#" title="Cinema Info">Cinema Info</a>
-					<ul>
-						<li><a href="about_thurles.asp" title="Opening Hours ...">Opening Hours ...</a></li>
-						<li><a href="film_classification.asp" title="Film Classification">Film Classification</a></li>
-						<li><a href="corporate.asp" title="Corporate">Corporate</a></li>
-						<li><a href="employment.asp" title="Pipeline">Employment</a></li>
-						<li><a href="about_us.asp" title="About Irish Multiplex Cinemas">About Irish Multiplex Cinemas</a></li>
-					</ul>
-				</li>
-				
-				<li id="udmLinkFun" class="last"><a title="Fun Stuff" href="#">Fun Stuff</a>
-					<ul>
-						<li><a href="recommends.asp" title="IMC Recommends">IMC Recommends</a></li>
-						<li><a href="blog.asp" title="IMC Blog">IMC Blog</a></li>
-						<li><a href="events.asp" title="IMC Special Events">IMC Special Events</a></li>
-                        
-						<li><a href="schools.asp" title="IMC Students">IMC Students</a></li>
-					</ul>
-				</li>
-				
-			</ul>
-	  </div>
+	<ul id="cinemaNav">
+	  <li class="linkAthlone "><a href="home.asp?idcinema=24" title="IMC Athlone">Athlone</a></li>
+	  <li class="linkBallymena"><a href="home.asp?idcinema=25" title="IMC Ballymena">Ballymena</a></li>
+	  <li class="linkDundalk"><a href="home.asp?idcinema=19" title="IMC Dundalk">Dundalk</a></li>
+	  <li class="linkDunLaoghaire selected"><a href="home.asp?idcinema=1" title="IMC Dun Laoghaire">Dun Laoghaire</a></li>
+	  <li class="linkMullingar"><a href="home.asp?idcinema=14" title="IMC Mullingar">Mullingar</a></li>
+	  <li class="linkThurles"><a href="home.asp?idcinema=32" title="IMC Thurles">Thurles</a></li>
+	</ul>
 </div><!-- End Hd-->
 
 <div id="bd">
 <div id="rhs">
-	<div id="innerNav">
-		<ul>
-		 	<li><a href="#">Inner Nav Here</a></li>			
-		 	<li><a href="#">Inner Nav Here</a></li>			
-		 	<li><a href="#">Inner Nav Here</a></li>			
-		 	<li><a href="#">Inner Nav Here</a></li>			
-		</ul>
-  </div>
-    
-  <div id="newsletter">
-      <fieldset title="Irish Multiplex Cinemas Newsletter">
-        <legend>Irish Multiplex Cinemas Newsletter</legend>
-          <form name="frmemail" action="friday_email.asp" method="post">
-          <div><label for="txtPrice">Email Address</label><input name="chremail" type="text"></div>
-          <div><label for="txtType">Select Cinema</label>
-              
-				  <select name="idcinema" id="idcinema">
-					<option value="24">Athlone</option>
-					<option value="25">Ballymena</option>
-					<option value="19">Dundalk</option>
-					<option value="1">Dun Laoghaire</option>
-					<option value="14">Mullingar</option>
-					<option value="32" selected="">Thurles</option>
-				  </select>
-			  
-           </div>			
-           <input type="button" class="btnJoin" id="sideform_submit" value="Sign In" name="login1$btnLogin">
-           
-           </form>
-      </fieldset>				
-  </div>
-  
-   
 
-  <div id="specialOffers">
-    <h1 style="display:none;">Special Offers</h1>
+<ul id="allFilms">
+	<li><a href="film.asp?idfilm=1165" class="infolink" title="Film Info">Info</a> <a title="Book Now For Sex and The City 2" href="http://www.imc-online-booking.com/sevendays.asp?release=5080&amp;FilmDate=2010/5/28&amp;offset=0" target="_blank">Sex and The City 2</a></li>
+<li><a href="film.asp?idfilm=1164" class="infolink" title="Film Info">Info</a> <a title="Book Now For Iron Man 2 FLS" href="http://www.imc-online-booking.com/sevendays.asp?release=5073" target="_blank">Iron Man 2 FLS</a></li>
+<li><a href="film.asp?idfilm=1198" class="infolink" title="Film Info">Info</a> <a title="Book Now For Robin Hood FLS" href="http://www.imc-online-booking.com/sevendays.asp?release=5084" target="_blank">Robin Hood FLS</a></li>
+<li><a href="film.asp?idfilm=1184" class="infolink" title="Film Info">Info</a> <a title="Book Now For Hot Tub Time Machine FLS" href="http://www.imc-online-booking.com/sevendays.asp?release=5085" target="_blank">Hot Tub Time Machine FLS</a></li>
+<li><a href="film.asp?idfilm=1155" class="infolink" title="Film Info">Info</a> <a title="Book Now For The Back-Up  Plan FLS" href="http://www.imc-online-booking.com/sevendays.asp?release=5044" target="_blank">The Back-Up  Plan FLS</a></li>
+<li><a href="film.asp?idfilm=1185" class="infolink" title="Film Info">Info</a> <a title="Book Now For Furry Vengeance  FLS" href="http://www.imc-online-booking.com/sevendays.asp?release=5081" target="_blank">Furry Vengeance  FLS</a></li>
+<li><a href="film.asp?idfilm=1090" class="infolink" title="Film Info">Info</a> <a title="Book Now For Nightmare On Elm Street  FLS" href="http://www.imc-online-booking.com/sevendays.asp?release=5083" target="_blank">Nightmare On Elm Street  FLS</a></li>
+<li><a href="film.asp?idfilm=1177" class="infolink" title="Film Info">Info</a> <a title="Book Now For Dear John " href="http://www.imc-online-booking.com/sevendays.asp?release=5061" target="_blank">Dear John </a></li>
+<li><a href="film.asp?idfilm=1172" class="infolink" title="Film Info">Info</a> <a title="Book Now For The Blind Side" href="http://www.imc-online-booking.com/sevendays.asp?release=5054" target="_blank">The Blind Side</a></li>
+<li><a href="film.asp?idfilm=1170" class="infolink" title="Film Info">Info</a> <a title="Book Now For 3D How To Train Your Dragon " href="http://www.imc-online-booking.com/sevendays.asp?release=5052" target="_blank">3D How To Train Your Dragon </a></li>
+<li><a href="film.asp?idfilm=1193" class="infolink" title="Film Info">Info</a> <a title="Book Now For Date Night " href="http://www.imc-online-booking.com/sevendays.asp?release=5069" target="_blank">Date Night </a></li>
+<li><a href="film.asp?idfilm=1197" class="infolink" title="Film Info">Info</a> <a title="Book Now For The Last Song " href="http://www.imc-online-booking.com/sevendays.asp?release=5082" target="_blank">The Last Song </a></li>
+<li><a href="film.asp?idfilm=1160" class="infolink" title="Film Info">Info</a> <a title="Book Now For Nanny Mcphee and The Big Bang " href="http://www.imc-online-booking.com/sevendays.asp?release=5053" target="_blank">Nanny Mcphee and The Big Bang </a></li>
+<li><a href="film.asp?idfilm=1171" class="infolink" title="Film Info">Info</a> <a title="Book Now For Kick Ass " href="http://www.imc-online-booking.com/sevendays.asp?release=5051" target="_blank">Kick Ass </a></li>
+<li><a href="film.asp?idfilm=1194" class="infolink" title="Film Info">Info</a> <a title="Book Now For The Ghost " href="http://www.imc-online-booking.com/sevendays.asp?release=5065" target="_blank">The Ghost </a></li>
+<li><a href="film.asp?idfilm=1156" class="infolink" title="Film Info">Info</a> <a title="Book Now For The Spy Next Door" href="http://www.imc-online-booking.com/sevendays.asp?release=5043" target="_blank">The Spy Next Door</a></li>
 
-	<script type="text/javascript">
-	var currentOffer=0;
-	
-	function previousOffer()
-	{
-		if (currentOffer>0)
-		{
-			currentOffer=currentOffer-1;
-			
-			
-				if (currentOffer==0)
-				{
-					document.getElementById("spTitle").innerHTML="Recession Busting ";
-					document.getElementById("spOffer").innerHTML="Family Meal Deal <BR>Large Popcorn + 2 medium drinks + 2 kids meals all for the recession busting price of €14.20<BR><BR>Just one of our special deals";
-				}
-			
-		}
-	}
-	
-	function nextOffer()
-	{
-		if (currentOffer<0)
-		{
-			currentOffer=currentOffer+1;
-			
-				if (currentOffer==0)
-				{
-					document.getElementById("spTitle").innerHTML="Recession Busting ";
-					document.getElementById("spOffer").innerHTML="Family Meal Deal <BR>Large Popcorn + 2 medium drinks + 2 kids meals all for the recession busting price of €14.20<BR><BR>Just one of our special deals";
-				}
-			
-		}
-	}
-    </script>
-    
-    
-        <p>
-        	<span id="spTitle">Recession Busting </span>
-            <span id="spOffer">Family Meal Deal 
-Large Popcorn + 2 medium drinks + 2 kids meals all for the recession busting price of €14.20
+</ul>
 
-Just one of our special deals</span>
-         </p>
-		 	
-  </div>
 
-  <div id="news">
-    <h1 style="display:none;">Irish Multiplex Cinemas News</h1>    
+<ul id="comingSoon">
+	<li><a title="Street Dance 3D " href="film.asp?idfilm=1192&amp;comingsoon=true">Street Dance 3D </a></li>
+<li><a title="Sex and The City 2" href="film.asp?idfilm=1165&amp;comingsoon=true">Sex and The City 2</a></li>
+<li><a title="The A-Team" href="film.asp?idfilm=1180&amp;comingsoon=true">The A-Team</a></li>
+<li><a title="Shrek Forever After 3D" href="film.asp?idfilm=1188&amp;comingsoon=true">Shrek Forever After 3D</a></li>
+<li><a title="The Twilight Saga: Eclipse" href="film.asp?idfilm=1187&amp;comingsoon=true">The Twilight Saga: Eclipse</a></li>
+<li><a title="Salt" href="film.asp?idfilm=1084&amp;comingsoon=true">Salt</a></li>
 
-	<script type="text/javascript">
-	var currentNews=0;
-	
-	function previousNews()
-	{
-		if (currentNews>0)
-		{
-			currentNews=currentNews-1;
-			
-			
-				if (currentNews==0)
-				{
-					document.getElementById("nTitle").innerHTML="Save 50c on 3d glasses";
-					document.getElementById("nNews").innerHTML="Please keep your 3D glasses and next time your ticket to 3d will cost 50c less. If you don't keep glasses then you will incur a 50c charge on your next visit.";
-				}
-			
-				if (currentNews==1)
-				{
-					document.getElementById("nTitle").innerHTML="Student Tuesdays are Back";
-					document.getElementById("nNews").innerHTML="Don't be sad! Schools Back !<BR>So are tickets @ € 4.50 just for students <BR><BR> IMC Student Tuesday's";
-				}
-			
-		}
-	}
-	
-	function nextNews()
-	{
-		if (currentNews<1)
-		{
-			currentNews=currentNews+1;
-			
-				if (currentNews==0)
-				{
-					document.getElementById("nTitle").innerHTML="Save 50c on 3d glasses";
-					document.getElementById("nNews").innerHTML="Please keep your 3D glasses and next time your ticket to 3d will cost 50c less. If you don't keep glasses then you will incur a 50c charge on your next visit.";
-				}
-			
-				if (currentNews==1)
-				{
-					document.getElementById("nTitle").innerHTML="Student Tuesdays are Back";
-					document.getElementById("nNews").innerHTML="Don't be sad! Schools Back !<BR>So are tickets @ € 4.50 just for students <BR><BR> IMC Student Tuesday's";
-				}
-			
-		}
-	}
-    </script>
-        
-        <p>
-        	<span id="nTitle">Save 50c on 3d glasses</span>
-            <span id="nNews">Please keep your 3D glasses and next time your ticket to 3d will cost 50c less. If you don't keep glasses then you will incur a 50c charge on your next visit.</span>
-        </p>
-	
-      <span class="nextBackButtons"><a class="buttonBack" title="Back" href="#" onclick="previousNews();">Back</a><a class="buttonNext" href="#" title="Next" onclick="nextNews();">Next</a></span>
-	    
-  </div>
-  
+</ul>
 
 
 </div><!-- End rhs -->
+
+<div id="lhs">
+	<ul>
+  	<li class="linkHome"><a href="home.asp">Home</a></li>
+  	<li class="linkAllFilms"><a href="now_playing.asp">All Films / Times</a></li>
+  	<li class="linkSpecial"><a href="specialoffers.asp">Special Offers</a></li>
+  	<li class="linkCinema"><a href="cinema_info.asp">Cinema Info</a></li>
+  	<li class="linkEvents"><a href="events.asp">Events</a></li>
+  	<li class="linkGift"><a href="giftvouchers.asp">Gift Vouchers</a></li>
+  	<li class="linkCompetitions"><a href="competitions.asp">Competitions</a></li>
+	<li class="linkStubs"><a href="stubs.asp">Stubs</a></li>
+  	<li class="linkLast"><a href="thursday.asp">Last Chance Thursday</a></li>
+  </ul>
+</div><!-- End lhs -->
 <div id="content">
 
     <div class="heading">
@@ -356,10 +209,24 @@ Just one of our special deals</span>
 
 <div id="ft">
 	<hr style="display:none;">
-  <div>
-    <h1 id="DevelopedByKCO">©2009  Irish Multiplex Cinemas  -<a title="Terms &amp; Conditions" href="terms.asp">Terms &amp; Conditions</a>-<a title="Privacy Policy" href="privacypolicy.asp">Privacy Policy</a>-<a title="Website Design and Development Kco.ie" href="http://www.kco.ie">Website Design by Kco.ie</a></h1>
+
+ 	<ul id="footerBlocks">
+		<li><iframe allowtransparency="true" src="https://www.imccinemas.ie/bannercontrol/abmw.aspx?z=16&amp;isframe=true" width="205" height="175" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></li>
+		<li><iframe allowtransparency="true" src="https://www.imccinemas.ie/bannercontrol/abmw.aspx?z=17&amp;isframe=true" width="205" height="175" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></li>
+		<li><iframe allowtransparency="true" src="https://www.imccinemas.ie/bannercontrol/abmw.aspx?z=18&amp;isframe=true" width="205" height="175" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></li>
+		<li class="noBg"><iframe allowtransparency="true" src="https://www.imccinemas.ie/bannercontrol/abmw.aspx?z=19&amp;isframe=true" width="205" height="175" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></li>
+  	</ul>
+
+<br clear="all">  
+
+<div>
+    <h1 id="DevelopedByKCO">©2010  Irish Multiplex Cinemas Dun Laoghaire </h1>
+    <div id="bottomLinks">
+	<a title="Terms &amp; Conditions" href="terms.asp">Terms &amp; Conditions</a> | <a title="Privacy Policy" href="privacypolicy.asp">Privacy Policy</a> | <a title="Website Design and Development Kco.ie" href="http://www.kco.ie">Site Design KCO.ie</a> | <a id="toTop" onclick="this.blur();" href="javascript:ScrollWin.scrollTo('0','0','0');">To Top</a></div>
   </div>
 </div><!-- End Footer -->
+</div><!-- End Shadow -->
+
 <script type="text/javascript" src="scripts/imc.js"></script>
 
 	<script type="text/javascript">
