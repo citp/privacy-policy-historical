@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestatebook.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217014537id_/http%3A//www.realestatebook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestatebook.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507215741id_/http%3A//www.realestatebook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RealEstateBook.com
 
@@ -27,15 +27,12 @@ Generally, we use cookies to:
   3. Track your progress and number of entries in some of our promotions, sweepstakes, and contests. When one of the promotions that we host uses cookies, the information written to the cookie may be used to indicate the player's progress through the promotion, and may be used to track entries, submissions, and status in prize drawings.
   4. Measure certain traffic patterns, such as which areas of our Websites you have visited and your visiting patterns. This information, however, is only gathered in aggregate form - that is, this aggregated information is not linked to any personal information that can identify any individual person. We use this research to understand how our users' habits are similar or different from one another so that we can make each new experience on our sites a better one. We may use this information to better personalize the content, banners, and promotions that you and other users will see on our sites.
 
+  
 
 
-### What about your third parties and advertisers - do they use cookies?
+### Third Party Advertisers and Cookies
 
-Advertising networks that serve ads onto one or more of our Websites and companies advertising or offering products and services on our sites may use their own cookies. We, however, have no access or control over these cookies. In those cases, the third parties may use your personal information according to their own policies, which may differ from this Privacy Policy.
-
-### Third Party Advertisers
-
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to their site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about Doubleclick, cookies, and how to opt-out”, please click here: http://www.doubleclick.net/us/corporate/privacy
+We use third-party companies to serve ads when you visit our Websites. These companies may use information (not including your name, address, email address or telephone number) about your visits to our Websites in order to provide advertisements on our Websites, other sites and other forms of media about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp). 
 
 ### How do you use my information?
 
