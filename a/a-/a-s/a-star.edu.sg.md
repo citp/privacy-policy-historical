@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the a-star.edu.sg privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924190914id_/http%3A//www.a-star.edu.sg/a_star/239-Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-star.edu.sg privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507122228id_/http%3A//www.a-star.edu.sg/PrivacyStatement/tabid/768/Default.aspx) for the most accurate reproduction.*
 
-# A*STAR - Privacy Statement
+# Privacy Statement
 
-### Privacy Statement
+| 
 
   1. This is an Agency for Science, Technology and Research (A*STAR) website. Thank you for examining our privacy statement.
   2. If you are only browsing this website or using the "Search" function, we do not capture data that allows us to identify you individually. Our web servers may collect certain information about your visit, such as the Internet Protocol (IP) address through which you access the Internet and the pages that you access while at the website. We are interested only in aggregate information to assess the effectiveness of our website, analyze trends, and further enhance our content and services.
@@ -12,4 +12,6 @@
   6. This site may contain links to Government and non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
   7. Any amendments to these terms will be displayed in this website and take effect forthwith.
 
-
+  
+  
+---
