@@ -1,135 +1,342 @@
-<!--The following is the downloaded HTML source of the cliqset.com privacy policy that was archived on 2009-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090613031847id_/http%3A//cliqset.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cliqset.com privacy policy that was archived on 2010-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100507151426id_/http%3A//cliqset.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Cliqset - Terms of Use</title>
-<script type="text/javascript" language="javascript" src="http://cliqset-my-v2.s3.amazonaws.com/js/jquery.js"></script>
-<script type="text/javascript" language="javascript" src="http://cliqset-my-v2.s3.amazonaws.com/js/cliqset.js"></script>
-<script type="text/javascript">
-$(document).ready(function() {
-
-});
-</script>
-<link rel="stylesheet" type="text/css" href="http://cliqset-my-v2.s3.amazonaws.com/css/cliqset-v2.css">
-<style type="text/css">
-	body {
-		background-position: 0 162px;
-	}
-</style>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>Cliqset - Privacy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" href="http://cliqset-m.s3.amazonaws.com/css/cliqset.css" type="text/css" media="screen" charset="utf-8">
+<script type="text/javascript" src="http://cliqset-jq.s3.amazonaws.com/js/jquery.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://cliqset-jq.s3.amazonaws.com/js/jquery-ui.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://cliqset-m.s3.amazonaws.com/js/cliqset.js" charset="utf-8"></script>
 </head>
-<body>
-	<div class="container">
-	
-		<div>
-	<div class="header-wrapper">
-		<div class="header">
-			<div class="center header-content">
-				<a href="/" class="fl"><img src="http://cliqset-my-v2.s3.amazonaws.com/img/cliqset-logo-b2.png" alt="" class="logo"></a>
-				<div class="nav">
-					<div class="nav-align">
-						<div class="nav-menu">
-							<ul>
-								<li>
-									<a href="/">Home</a>
-									<div style="text-align: center; display: block; margin-left: auto; margin-right: auto;"><img height="11px" class="selected-nav-img" src="https://cliqset-my-v2.s3.amazonaws.com/img/1x1.gif"></div>
-								</li>
-								<li>
-									<a href="/what-is-cliqset">What is Cliqset</a>
-									<div style="text-align: center; display: block; margin-left: auto; margin-right: auto;"><img height="11px" class="selected-nav-img" src="https://cliqset-my-v2.s3.amazonaws.com/img/1x1.gif"></div>
-								</li>
-								<li class="last">
-									<a href="/app-directory">App Directory</a>
-									<div style="text-align: center; display: block; margin-left: auto; margin-right: auto;"><img height="11px" class="selected-nav-img" src="https://cliqset-my-v2.s3.amazonaws.com/img/1x1.gif"></div>
-								</li>
-								<li class="last">
-									<a href="/contact-us">Contact</a>
-									<div style="text-align: center; display: block; margin-left: auto; margin-right: auto;"><img height="11px" class="selected-nav-img" src="https://cliqset-my-v2.s3.amazonaws.com/img/1x1.gif"></div>
-								</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				<div class="clear"></div>
-			</div>
-		</div>
-	</div>
+<body class="with-signup">
+
+<div>
+<div id="forgot-password-overlay">
+  <h3>Forgot Password</h3>
+  <p>Forgot your password? No problem. Cliqset will send password reset instructions to the primary email address associated with your account.</p>
+  <form id="forgot-password-form" method="post" action="">
+    <label for="forgot-id">Username or Email:</label>
+    <span class="field-wrapper"><input type="text" id="forgot-id" name="forgot-id"></span>
+    <div class="button-group">
+      <a href="#" id="forgot-password-submit" class="button-small">Submit</a>
+      <a href="#" id="forgot-password-cancel" class="button-small">Cancel</a>
+    </div>
+   </form>
+ </div>
+<div id="header" class="container">
+   <h1><a href="/">Cliqset</a></h1>
+ 	   <form id="global-login" method="post" action="/login">
+	   	<ul id="login-options">	    
+	   		<li><a href="/openid/google-consumer?mode=start"><img src="http://cliqset-m.s3.amazonaws.com/img/login-google.png" alt="Login with Google" width="24" height="24"></a></li>
+	   		<li><a href="/openid/yahoo-consumer?mode=start"><img src="http://cliqset-m.s3.amazonaws.com/img/login-yahoo.png" alt="Login with Yahoo!" width="24" height="24"></a></li>
+	   		<li><a href="#" id="openid-button"><img src="http://cliqset-m.s3.amazonaws.com/img/login-openid.png" alt="Login with an OpenID" width="24" height="24"></a></li>
+	   	</ul>
+	     <input type="text" name="username" value="Username" id="username">
+	     <input type="password" name="password" value="Password" id="password">
+	     <input type="submit" name="login-button" value="Log in" id="login-button">
+	     <ul>
+	     	<li><a class="forgot-password-link" href="#">Forgot your password?</a> | </li>
+	     	<li><a href="/signup">Sign Up</a></li>
+	     </ul>
+	   </form>
+       <form id="global-login-openid" method="post" action="/openid/consumer" style="display: none;">
+      	<ul id="login-options">
+	   		<li><a href="/openid/google-consumer?mode=start"><img src="http://cliqset-m.s3.amazonaws.com/img/login-google.png" alt="Login with Google" width="24" height="24"></a></li>
+	   		<li><a href="/openid/yahoo-consumer?mode=start"><img src="http://cliqset-m.s3.amazonaws.com/img/login-yahoo.png" alt="Login with Yahoo!" width="24" height="24"></a></li>
+	   		<li><a href="#" id="cliqset-button"><img src="http://cliqset-m.s3.amazonaws.com/img/login-cliqset.png" alt="Login with Cliqset" width="24" height="24"></a></li>
+      	</ul>
+        <input type="text" name="openid_identifier" value="OpenID Login" id="openid_identifier">
+        <input type="submit" name="login-button" value="Log in" id="login-button">
+        <ul>
+        
+        	<li><a href="#" class="forgot-password-link">Forgot your password?</a> | </li>
+        	<li><a href="#">Sign Up</a></li>
+        </ul>
+       </form>
+ </div>
+   </div>
+
+<div>
+ <div id="primary-nav-wrapper">
+   <div id="primary-nav-container" class="container">
+     <ul id="primary-nav">
+
+         <li><a href="/"><span>Home</span></a></li>
+         <li><a href="/everyone"><span>For Everyone</span></a></li>
+         <li><a href="/developers"><span>For Developers</span></a></li>
+         <li><a href="/contact"><span>Contact</span></a></li>
+
+     </ul>
+     <p id="signup-badge"><a href="/signup">Sign up now</a></p>
+   </div>
+ </div>
+
 </div>
-		
-		<div class="content-wrapper">
-			<div class="padding-large"></div>	
-			<div class="content center">
-				<div class="www-content-padding">
-					<div class="padding font-14 policy" style="padding:20px;">
-						<p style="padding-top:5px; padding-bottom:4px;font-size:32px;" class="strong">Privacy Policy</p>
-						<p style="padding-top:8px; padding-bottom:4px;" class="orange">Last updated: May 29, 2009</p>
-						
-						<p>Cliqset believes that users should own and control their social information. Toward that end, Cliqset helps you build and share social information with any and all Cliqset-enabled websites and applications you use.  You choose what information you put in your profile, including contact and personal information, pictures,  and interests, and you control the sites with whom you share that information through your personal privacy settings.</p>  
-						<p>Cliqset 's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using Cliqset services (collectively, " Cliqset " or "Website").</p>
-						<p>By using or accessing Cliqset, you are accepting the practices described in this Privacy Policy.</p>
-						<p>If you have questions or concerns regarding this statement, you should first contact our privacy staff at <a class="inlinelink" href="mailto:privacy@cliqset.com">privacy@cliqset.com</a>.</p> 
-						<h5 style="padding-top:8px; padding-bottom:4px;">The Information We Collect</h5>
-						<p>When you visit Cliqset you provide us with two types of information: personal information you knowingly choose to disclose that is collected by us and Web Site use information collected by us as you interact with our Web Site.</p>
-						<p>When you register with Cliqset, you provide us with certain personal information, such as your name, your email address, your telephone number, your address, your gender, schools attended and any other personal or preference information that you provide to us.</p>
-						<p>When you enter Cliqset, we collect your browser type and IP address. This information is gathered for all Cliqset visitors. In addition, we store certain information from your browser using "cookies." A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies to confirm that users are logged in. These cookies terminate once the user closes the browser. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.</p>
-						<p>Any improper collection or misuse of information provided on Cliqset is a violation of the Cliqset Developer Terms of Service and/or Cliqset Terms of Use and should be reported to <a class="inlinelink" href="mailto:privacy@cliqset.com">privacy@cliqset.com</a>.</p>
-						<p>If you choose to use our invitation service to tell a friend about our site, we will ask you for information needed to send the invitation, such as your friend's email address. We will automatically send your friend a one-time email or instant message inviting him or her to visit the site. Cliqset stores this information to send this one-time invitation, to register a friend connection if your invitation is accepted, and to track the success of our referral program. Your friend may contact us at <a class="inlinelink" href="mailto:privacy@cliqset.com">privacy@cliqset.com</a> to request that we remove this information from our database.</p>
-						<p>By using Cliqset, you are consenting to have your personal data transferred to and processed in the United States.</p>
-						<h5 style="padding-top:8px; padding-bottom:4px;">Children Under Age 13</h5>
-						<p>Cliqset does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for Cliqset or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on Cliqset. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at <a class="inlinelink" href="mailto:privacy@cliqset.com">privacy@cliqset.com</a>.</p>
-						<h5 style="padding-top:8px; padding-bottom:4px;">Use of Information Obtained by Cliqset</h5>
-						<p>When you register with Cliqset, you create your own profile and privacy settings. Your profile information, as well as your name, email and photo, are displayed to people in the social networks specified in your privacy settings.  We may occasionally use your name and email address to send you notifications regarding new services offered by Cliqset that we think you may find valuable.</p>
-						<p>Profile information is used by Cliqset primarily to be presented back to and edited by you when you access the service and to be presented to others permitted to view that information by your privacy settings.</p> 
-						<p>Cliqset may use information in your profile without identifying you as an individual to third parties. We do this for purposes such as aggregating statistical information or personalizing advertisements and promotions so that we can provide you.  We believe this benefits you.</p>  
-						<h5 style="padding-top:8px; padding-bottom:4px;">Sharing Your Information with Third Parties</h5>
-						<p>Cliqset is about helping you share your information with social networkign sites without the need for you to enter the same information about yourself for each social networking site you use, while providing you with privacy settings that restrict other users from accessing your information. We allow you to choose the information you provide to social networks through Cliqset. Our network architecture and your privacy settings allow you to make informed choices about who has access to your information. We do not provide contact information to third party marketers without your permission. We share your information with third parties only in limited circumstances where we believe such sharing is 1) reasonably necessary to offer the service, 2) legally required or, 3) permitted by you. For example:</p>
-						<p>We may provide information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as to host the service at a co-location facility for servers, to send out email updates about Cliqset, to remove repetitive information from our user lists, to process payments for products or services, to offer an online job application process, or to provide search results or links (including sponsored links).  In connection with these offerings and business operations, our service providers may have access to your personal information for use for a limited time in connection with these business activities.  Where we utilize third parties for the processing of any personal information, we implement reasonable contractual and technical protections limiting the use of that information to the Cliqset-specified purposes.</p> 
-						<p>If you use any third-party applications developed using the Cliqset API ("Developed Applications"), those Developed Applications may access and share certain information about you with others in accordance with your privacy settings. You may opt-out of any sharing of certain or all information through Developed Applications using your personal privacy settings. In addition, third party developers who have created and operate Developed Applications, may also have access to your personal information (excluding your contact information) if you permit them to access your data.  Before allowing any Developer to make any Developed Application available to you, Cliqset requires the Developer to enter into an agreement which, among other things, requires them to respect your privacy settings and strictly limits their collection, use, and storage of your information. However, while we have undertaken contractual and technical steps to restrict possible misuse of such information by such Developers, we of course cannot and do not guarantee that all such Developers will abide by such agreements. Please note that Cliqset does not screen or approve Developers and cannot control how such Developers use any personal information that they may obtain in connection with Developed Applications. In addition, Developers may require you to sign up to their own terms of service, privacy policies or other policies, which may give them additional rights or impose additional obligations on you, so please make sure to review these terms and policies carefully before using any Developed Application. You can report any suspected misuse of information through the Cliqset Application and we will investigate any such claim and take appropriate action against the Developer up to and including terminating their participation in the Cliqset Application and/or other formal legal action.</p> 
-						<p>We may be required to disclose user information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We do not reveal information until we have a good faith belief that an information request by law enforcement or private litigants meets applicable legal standards. Additionally, we may share account or other information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the Cliqset service or using the Cliqset name, or to prevent imminent bodily harm. This may include sharing information with other companies, lawyers, agents or government agencies.</p> 
-						<p>If the ownership of all or substantially all of the Cliqset business, or individual business units owned by Cliqset, Inc., were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the promises made in any pre-existing Privacy Policy.</p>
-						<h5 style="padding-top:8px; padding-bottom:4px;">Links</h5>
-						<p>Cliqset may contain links to other websites. We are of course not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by Cliqset.</p>
-						<h5 style="padding-top:8px; padding-bottom:4px;">Third Party Advertising</h5>
-						<p>Advertisements that appear on Cliqset are sometimes delivered (or "served") directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. Cliqset does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on Cliqset unless you choose to share it with them.</p>
-						<p>This privacy policy covers the use of cookies by Cliqset and does not cover the use of cookies or other tracking technologies by any of its advertisers.</p>
-						<h5 style="padding-top:8px; padding-bottom:4px;">Changing or Removing Information</h5>
-						<p>Access and control over most personal information on Cliqset is readily available through the profile editing tools.  Cliqset users may modify or delete any of their profile information at any time by logging into their account.</p> 
-						<h5 style="padding-top:8px; padding-bottom:4px;">Security</h5>
-						<p>Cliqset takes commercially reasonable precautions to protect our users' information. Your account information is located on a secured server behind a firewall.  Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of Cliqset Web Site, please contact us at <a class="inlinelink" href="mailto:privacy@cliqset.com">privacy@cliqset.com</a></p> 
-						<h5 style="padding-top:8px; padding-bottom:4px;">Terms of Use, Notices and Revisions</h5>
-						<p>Your use of Cliqset, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use, Developer Terms of Service and all of their respective dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy, Developer Terms of Service and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site unless the changes are deemed by Cliqset to be necessary to protect personally identifiable information.  If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.</p>
-						<h5 style="padding-top:8px; padding-bottom:4px;">Contacting the Web Site</h5>
-						<p>If you have any questions about this privacy policy, please contact us at <a class="orange" href="mailto:privacy@cliqset.com">privacy@cliqset.com</a>. You may also contact us by mail at 1450 Flagler Avenue, Suite #3, Jacksonville, Florida 32259.</p> 
-                        <div class="clear"></div>  
-					</div>
-				</div>
-			</div>
-			<div class="clear"></div>
-			<div>
-	<div class="center-footer">
-		 <div class="footer" style="padding-top:15px;">
-			<ul>
-				<li><a href="/terms-of-use">Terms of Use</a></li>
-				<li><a href="/privacy">Privacy Policy</a></li>
-				<li><a href="http://developer.cliqset.com/">API Documentation</a></li>
-				<li><a href="http://blog.cliqset.com/">Blog</a></li>
-				<li class="last"><a href="/contact-us">Contact</a></li>
-			</ul>
-			<div class="copy">© <span>2009</span> Cliqset Inc.</div>
-			<div class="clear"></div>
-		</div>
-	</div>
-	<div class="padding"></div>
-	<script type="text/javascript">
-	    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-	    var pageTracker = _gat._getTracker("UA-176681-3");
-	    pageTracker._trackPageview();
-	</script>
+
+<div class="container" id="primary-content">
+
+<div class="column span-13 append-1" id="main-content">
+
+<div class="major-block">
+<h2>Cliqset Privacy</h2>
+<p>Last updated: May 29, 2009</p>
 </div>
-		</div>
-	</div>
+
+<div class="minor-block">
+<p>Cliqset believes that users should own and control their social
+information. Toward that end, Cliqset helps you build and share social
+information with any and all Cliqset-enabled websites and applications
+you use. You choose what information you put in your profile, including
+contact and personal information, pictures, and interests, and you
+control the sites with whom you share that information through your
+personal privacy settings.</p>
+<p>Cliqset 's Privacy Policy is designed to help you understand how
+we collect and use the personal information you decide to share, and
+help you make informed decisions when using Cliqset services
+(collectively, " Cliqset " or "Website").</p>
+
+<p>By using or accessing Cliqset, you are accepting the practices
+described in this Privacy Policy.</p>
+<p>If you have questions or concerns regarding this statement, you
+should first contact our privacy staff at <a class="inlinelink" href="mailto:privacy@cliqset.com">privacy@cliqset.com</a>.</p>
+
+
+<h3>The Information We Collect</h3>
+<p>When you visit Cliqset you provide us with two types of
+information: personal information you knowingly choose to disclose that
+is collected by us and Web Site use information collected by us as you
+interact with our Web Site.</p>
+<p>When you register with Cliqset, you provide us with certain
+personal information, such as your name, your email address, your
+telephone number, your address, your gender, schools attended and any
+other personal or preference information that you provide to us.</p>
+<p>When you enter Cliqset, we collect your browser type and IP
+address. This information is gathered for all Cliqset visitors. In
+addition, we store certain information from your browser using
+"cookies." A cookie is a piece of data stored on the user's computer
+tied to information about the user. We use session ID cookies to confirm
+that users are logged in. These cookies terminate once the user closes
+the browser. When you update information, we usually keep a backup copy
+of the prior version for a reasonable period of time to enable reversion
+to the prior version of that information.</p>
+
+<p>Any improper collection or misuse of information provided on
+Cliqset is a violation of the Cliqset Developer Terms of Service and/or
+Cliqset Terms of Use and should be reported to <a class="inlinelink" href="mailto:privacy@cliqset.com">privacy@cliqset.com</a>.</p>
+<p>If you choose to use our invitation service to tell a friend
+about our site, we will ask you for information needed to send the
+invitation, such as your friend's email address. We will automatically
+send your friend a one-time email or instant message inviting him or her
+to visit the site. Cliqset stores this information to send this one-time
+invitation, to register a friend connection if your invitation is
+accepted, and to track the success of our referral program. Your friend
+may contact us at <a class="inlinelink" href="mailto:privacy@cliqset.com">privacy@cliqset.com</a> to request
+that we remove this information from our database.</p>
+<p>By using Cliqset, you are consenting to have your personal data
+transferred to and processed in the United States.</p>
+
+
+<h3>Children Under Age 13</h3>
+
+<p>Cliqset does not knowingly collect or solicit personal
+information from anyone under the age of 13 or knowingly allow such
+persons to register. If you are under 13, please do not attempt to
+register for Cliqset or send any information about yourself to us,
+including your name, address, telephone number, or email address. No one
+under age 13 may provide any personal information to or on Cliqset. In
+the event that we learn that we have collected personal information from
+a child under age 13 without verification of parental consent, we will
+delete that information as quickly as possible. If you believe that we
+might have any information from or about a child under 13, please
+contact us at <a class="inlinelink" href="mailto:privacy@cliqset.com">privacy@cliqset.com</a>.</p>
+
+
+<h3>Use of Information Obtained by Cliqset</h3>
+<p>When you register with Cliqset, you create your own profile and
+privacy settings. Your profile information, as well as your name, email
+and photo, are displayed to people in the social networks specified in
+your privacy settings. We may occasionally use your name and email
+address to send you notifications regarding new services offered by
+Cliqset that we think you may find valuable.</p>
+<p>Profile information is used by Cliqset primarily to be presented
+back to and edited by you when you access the service and to be
+presented to others permitted to view that information by your privacy
+settings.</p>
+<p>Cliqset may use information in your profile without identifying
+you as an individual to third parties. We do this for purposes such as
+aggregating statistical information or personalizing advertisements and
+promotions so that we can provide you. We believe this benefits you.</p>
+
+
+<h3>Sharing Your Information with Third Parties</h3>
+
+<p>Cliqset is about helping you share your information with social
+networkign sites without the need for you to enter the same information
+about yourself for each social networking site you use, while providing
+you with privacy settings that restrict other users from accessing your
+information. We allow you to choose the information you provide to
+social networks through Cliqset. Our network architecture and your
+privacy settings allow you to make informed choices about who has access
+to your information. We do not provide contact information to third
+party marketers without your permission. We share your information with
+third parties only in limited circumstances where we believe such
+sharing is 1) reasonably necessary to offer the service, 2) legally
+required or, 3) permitted by you. For example:</p>
+<p>We may provide information to service providers to help us bring
+you the services we offer. Specifically, we may use third parties to
+facilitate our business, such as to host the service at a co-location
+facility for servers, to send out email updates about Cliqset, to remove
+repetitive information from our user lists, to process payments for
+products or services, to offer an online job application process, or to
+provide search results or links (including sponsored links). In
+connection with these offerings and business operations, our service
+providers may have access to your personal information for use for a
+limited time in connection with these business activities. Where we
+utilize third parties for the processing of any personal information, we
+implement reasonable contractual and technical protections limiting the
+use of that information to the Cliqset-specified purposes.</p>
+<p>If you use any third-party applications developed using the
+Cliqset API ("Developed Applications"), those Developed Applications may
+access and share certain information about you with others in accordance
+with your privacy settings. You may opt-out of any sharing of certain or
+all information through Developed Applications using your personal
+privacy settings. In addition, third party developers who have created
+and operate Developed Applications, may also have access to your
+personal information (excluding your contact information) if you permit
+them to access your data. Before allowing any Developer to make any
+Developed Application available to you, Cliqset requires the Developer
+to enter into an agreement which, among other things, requires them to
+respect your privacy settings and strictly limits their collection, use,
+and storage of your information. However, while we have undertaken
+contractual and technical steps to restrict possible misuse of such
+information by such Developers, we of course cannot and do not guarantee
+that all such Developers will abide by such agreements. Please note that
+Cliqset does not screen or approve Developers and cannot control how
+such Developers use any personal information that they may obtain in
+connection with Developed Applications. In addition, Developers may
+require you to sign up to their own terms of service, privacy policies
+or other policies, which may give them additional rights or impose
+additional obligations on you, so please make sure to review these terms
+and policies carefully before using any Developed Application. You can
+report any suspected misuse of information through the Cliqset
+Application and we will investigate any such claim and take appropriate
+action against the Developer up to and including terminating their
+participation in the Cliqset Application and/or other formal legal
+action.</p>
+<p>We may be required to disclose user information pursuant to
+lawful requests, such as subpoenas or court orders, or in compliance
+with applicable laws. We do not reveal information until we have a good
+faith belief that an information request by law enforcement or private
+litigants meets applicable legal standards. Additionally, we may share
+account or other information when we believe it is necessary to comply
+with law, to protect our interests or property, to prevent fraud or
+other illegal activity perpetrated through the Cliqset service or using
+the Cliqset name, or to prevent imminent bodily harm. This may include
+sharing information with other companies, lawyers, agents or government
+agencies.</p>
+<p>If the ownership of all or substantially all of the Cliqset
+business, or individual business units owned by Cliqset, Inc., were to
+change, your user information may be transferred to the new owner so the
+service can continue operations. In any such transfer of information,
+your user information would remain subject to the promises made in any
+pre-existing Privacy Policy.</p>
+
+
+<h3>Links</h3>
+<p>Cliqset may contain links to other websites. We are of course not
+responsible for the privacy practices of other web sites. We encourage
+our users to be aware when they leave our site to read the privacy
+statements of each and every web site that collects personally
+identifiable information. This Privacy Policy applies solely to
+information collected by Cliqset.</p>
+
+<h3>Third Party Advertising</h3>
+<p>Advertisements that appear on Cliqset are sometimes delivered (or
+"served") directly to users by third party advertisers. They
+automatically receive your IP address when this happens. These third
+party advertisers may also download cookies to your computer, or use
+other technologies such as JavaScript and "web beacons" (also known as
+"1x1 gifs") to measure the effectiveness of their ads and to personalize
+advertising content. Doing this allows the advertising network to
+recognize your computer each time they send you an advertisement in
+order to measure the effectiveness of their ads and to personalize
+advertising content. In this way, they may compile information about
+where individuals using your computer or browser saw their
+advertisements and determine which advertisements are clicked. Cliqset
+does not have access to or control of the cookies that may be placed by
+the third party advertisers. Third party advertisers have no access to
+your contact information stored on Cliqset unless you choose to share it
+with them.</p>
+<p>This privacy policy covers the use of cookies by Cliqset and does
+not cover the use of cookies or other tracking technologies by any of
+its advertisers.</p>
+
+
+<h3>Changing or Removing Information</h3>
+<p>Access and control over most personal information on Cliqset is
+readily available through the profile editing tools. Cliqset users may
+modify or delete any of their profile information at any time by logging
+into their account.</p>
+
+
+
+<h3>Security</h3>
+
+<p>Cliqset takes commercially reasonable precautions to protect our
+users' information. Your account information is located on a secured
+server behind a firewall. Because email and instant messaging are not
+recognized as secure communications, we request that you not send
+private information to us by email or instant messaging services. If you
+have any questions about the security of Cliqset Web Site, please
+contact us at <a class="inlinelink" href="mailto:privacy@cliqset.com">privacy@cliqset.com</a></p>
+
+
+<h3>Terms of Use, Notices and Revisions</h3>
+<p>Your use of Cliqset, and any disputes arising from it, is subject
+to this Privacy Policy as well as our Terms of Use, Developer Terms of
+Service and all of their respective dispute resolution provisions
+including arbitration, limitation on damages and choice of law. We
+reserve the right to change our Privacy Policy, Developer Terms of
+Service and our Terms of Use at any time. Non-material changes and
+clarifications will take effect immediately, and material changes will
+take effect within 30 days of their posting on this site unless the
+changes are deemed by Cliqset to be necessary to protect personally
+identifiable information. If we make changes, we will post them and will
+indicate at the top of this page the policy's new effective date. If we
+make material changes to this policy, we will notify you here, by email,
+or through notice on our home page. We encourage you to refer to this
+policy on an ongoing basis so that you understand our current privacy
+policy. Unless stated otherwise, our current privacy policy applies to
+all information that we have about you and your account.</p>
+
+
+<h3>Contacting the Web Site</h3>
+<p>If you have any questions about this privacy policy, please
+contact us at <a href="mailto:privacy@cliqset.com">privacy@cliqset.com</a>.
+You may also contact us by mail at 1450 Flagler Avenue, Suite #3,
+Jacksonville, Florida 32259.</p>
+
+
+</div>
+
+</div>
+
+<div class="column span-7 last" id="secondary-content"></div>
+</div>
+<div id="footer-wrapper">
+<div class="container" id="footer">
+<ul>
+
+	<li><a href="/privacy">Privacy</a></li>
+	<li><a href="/tos">Terms of use</a></li>
+	<li><a href="http://developer.cliqset.com/" target="_blank">API
+	Documentation</a></li>
+	<li><a href="http://getsatisfaction.com/cliqset" target="_blank">Feedback</a></li>
+</ul>
+
+</div>
+</div>
+
 
 </body></html>
