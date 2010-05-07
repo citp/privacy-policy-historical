@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotcouponworld.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230030013id_/http%3A//www.hotcouponworld.com/community-rules/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcouponworld.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507175233id_/http%3A//www.hotcouponworld.com/community-rules/privacy-statement) for the most accurate reproduction.*
 
 # Hot Coupon World » Privacy Statement
 
