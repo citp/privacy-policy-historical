@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pictureline.com privacy policy that was archived on 2009-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090725121315id_/http%3A//store.pictureline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pictureline.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507225834id_/http%3A//www.pictureline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ pictureline.com will send out a confirmation email when you subscribe to the new
 
 Each email that is sent from pictureline.com will include, at or near the bottom, a link to unsubscribe from our mailing list. After entering your email address, your name and all information will be completely deleted from our database, and you will not recieve ongoing communications from pictureline.com. If, however, you wish to resubscribe at any future date, this option is available to you.
 
-####  What you can expect.
+#### What you can expect.
 
 pictureline.com sends out a monthly newsletter, entitled picturelineNews. This newsletter is delivered near the first of the month, and will be distributed to you if:
 
@@ -27,7 +27,7 @@ pictureline.com sends out a monthly newsletter, entitled picturelineNews. This n
 
 The monthly newsletter will contain news on new products, products updates, price changes at pictureline, and general information relating to traditional photography, digital photography, and motion picture photography.
 
-When you place an order on pictureline.com, you will receive a confirmation of your order, confirmation of when your order ships, or emails related to any issues with your order (such as product being out of stock, etc.). 
+When you place an order on pictureline.com, you will receive a confirmation of your order, confirmation of when your order ships, or emails related to any issues with your order (such as product being out of stock, etc.).
 
 pictureline does not allow access to credit card information online, however you may access / change / edit your address and contact information by going to the [account login.](https://store.pictureline.com/customer/account/login/)
 
