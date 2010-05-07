@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mulesoft.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106062424id_/http%3A//www.mulesoft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mulesoft.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507115646id_/http%3A//www.mulesoft.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MuleSoft
 
@@ -16,7 +16,7 @@ Although we are not obligated to do so, we may review your communications with r
 
 ## Disclosure of User Information.
 
-MuleSoft does not sell, trade or transfer User Information to third parties. However, we may share User Information with our business partners for marketing, advertising or product/service offering purposes. For example, we provide User Information to our service providers for direct emailing of our newsletters, online surveys or notifications on MuleSoft Offerings. We may share with third parties aggregated, non-personal information. Such information does not identify you individually. We also disclose User Information if: we have your consent; we need to share it in order to provide you with the products and/or services you requested; we respond to a court order; you violate our Terms of Service or we otherwise suspect that you are engaged in fraudulent or illegal activities. You may separately agree to provide your personal information to third parties that provide content for MuleSoft Offerings, in order to access or use their products or services. If you agree to provide such information to these third parties, then your personal information will be subject to their privacy policies.
+MuleSoft does not sell, trade or transfer User Information to third parties. However, we may share User Information with our business partners for marketing, advertising or product/service offering purposes. We may share with third parties aggregated, non-personal information. Such information does not identify you individually. We also disclose User Information if: we have your consent; we need to share it in order to provide you with the products and/or services you requested; we respond to a court order; you violate our Terms of Service or we otherwise suspect that you are engaged in fraudulent or illegal activities. You may separately agree to provide your personal information to third parties that provide content for MuleSoft Offerings, in order to access or use their products or services. If you agree to provide such information to these third parties, then your personal information will be subject to their privacy policies.
 
 ## Accuracy and Security.
 
