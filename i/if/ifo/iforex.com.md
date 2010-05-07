@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iforex.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125004527id_/http%3A//www.iforex.com/scripts/pagebase.aspx%3Ffolder%3Dcmp%26what%3Dprivacy%26ext%3Dhtm%26act%3Dlang%26lang%3DEnglish) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iforex.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507143145id_/http%3A//www.iforex.com/scripts/pagebase.aspx%3Ffolder%3Dcmp%26what%3Dprivacy%26ext%3Dhtm%26act%3Dlang%26lang%3DEnglish) for the most accurate reproduction.*
 
 # iFOREX Online Trading, Forex Trading, Online Currency Trading
 
