@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesearchnet.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102042149id_/http%3A//www.articlesearchnet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesearchnet.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507045234id_/http%3A//www.articlesearchnet.com/privacy.php) for the most accurate reproduction.*
 
 # Article Search Network
 
