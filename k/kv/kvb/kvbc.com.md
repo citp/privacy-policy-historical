@@ -1,67 +1,82 @@
-> *The following text is extracted and transformed from the kvbc.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222222258id_/http%3A//www.kvbc.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvbc.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507221800id_/http%3A//www.mynews3.com/privacy.php) for the most accurate reproduction.*
 
-# This Web Site’s Privacy Policy
+# Privacy Policy - My News 3
 
-This Web Site (the "Web site") provides a variety of online services, from interactive entertainment to electronic commerce via its relationship with Gannaway Web Holdings, LLC d/b/a WorldNow ("WorldNow"). WorldNow is the host of this Web site. Because the success of this Web site is dependent on building and maintaining goodwill with our customers, this Web site and WorldNow (hereinafter collectively referred to as "we" or “us” or "our") are committed to implementing measures designed to protect the privacy of those using our services. Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet.
+[Home](https://web.archive.org/index.php)»[Privacy Policy](https://web.archive.org/privacy.php)
 
-Although we respect the privacy of all those who visit the Web site and use our online services, we do collect information from our Web site's members and visitors. This Privacy Policy governs your interaction with the Web site, and your registration for and use of this station's online services. Except as set forth within this Privacy Policy and this Web Site's Terms of Service and/or other published guidelines, we do not release personally identifiable information about this Web site's members and visitors without their permission.
+###### **Page Last Updated:** Tuesday February 2, 2010 9:05am PST
 
-Please note that we review these privacy practices from time to time, and that these practices are therefore subject to change. We ask that you periodically review this page to ensure continuing familiarity with the most current version of this Web site's Privacy Policy. To contact us about privacy issues, to report a violation of this Web site's Privacy Policy, or to raise any other issue regarding the Web site, please e-mail us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
+Privacy Notice and User Guidelines   
+Updated as of April 13, 2009
 
-**The information we gather**
+The Privacy Policy describes how KVBC News 3 treats personal information when you use www.MyNews3.com. To understand how we treat the information you give us as you use the site, you should read this policy.
 
-We gather two types of information about this Web site's users:
+Personal Information  
+• Non-Account Activity. You are free to explore information on the MyNews3.com, read stories and watch videos without having an Account.   
+• Account-Related Activity. Certain other activities like posting comments and submitting stories or photos require you to have an account. We ask for some personal information when you create an account, including your email address and a password, which is used to protect your account from unauthorized access. An account allows you to access many of the site's services that require registration.   
+• Usage Information. We may record information about your usage, such as when you use the site, groups, and favorites, the contacts you communicate with and the information you display or click on. If you are logged in, we might associate that information with your account.   
+• Content Uploaded to Site. Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile) becomes publicly available and can be collected and used by others. We reserve the right to use any content you upload or contribute on the site or on any broadcast or Web entity owned by Sunbelt Communications Company or Sunbelt Digital Media.
 
-(1) **Non-personally identifiable information:** When visitors come to the Web site, we collect and aggregate information indicating, among other things, which pages were visited, the order in which they were visited, and which hyperlinks were "clicked." Collecting such information involves the logging of IP addresses, operating system and browser software used by each visitor to the Web site. Although such information is not personally identifiable, we can determine from the IP address a visitor's Internet Service Provider and the geographic location of his or her point of connectivity.
+**Uses  
+** • If you submit personally identifiable information to us in your account registration, we use your personal information to operate, maintain, and provide to you the features and functionality of MyNews3.com, as well as provide special personalized features to you.   
+• Your account name (not your email address) is displayed to other Users when you contribute content through the site, and other users can contact you through messages and comments. Any content that you submit to the sites can be redistributed through the internet and other media channels, and might be viewed by the general public.   
+• We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major site changes or for customer service purposes).   
+• We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the sites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.   
+• We may use cookies, clear gifs, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit the sites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
 
-The non-personally identifiable information we collect helps us diagnose problems with our server, administer the Web site, identify the most popular areas of the Web site, and determine the effectiveness of our promotional activities. In addition, we may disclose some of this information to advertisers to inform them of the number of people who have seen and/or clicked through their advertisements.
+**Your Choices  
+** • You may, of course, decline to submit personally identifiable information through the sites, in which case you can still view stories, pictures and information, and explore the site.   
+• You may update or correct your personal profile information and email preferences at any time by visiting your account profile page.
 
-For the same purposes, we use "cookies"---that is, small text files placed on your computer's hard drive---to help us determine the type of content and sites to which you link, the length of time you spend at any particular area of the Web site, and your usage of our services offered via the Web site. Cookies also tell us which advertising you have seen on the Web site.  At certain times, we may use  outside advertising companies to display advertisements on the Web site that may contain cookies ("banner ads"). These banner ads collect information stored by the advertising company and we do not have access to this information.
+ **User Guidelines**
 
-Essentially, cookies are your identification cards for our computers, or servers, that placed them there. Cookies are only read by the server that placed them, and are unable to execute any code or virus. Cookies allow us to serve you better and more efficiently, and to personalize your experience at the Web site. Nevertheless, you are able to control how and whether cookies will be accepted by your web browser. For more information on how to do so, please refer to the documentation accompanying your browser.
+**What to do  
+** Become an informed member of your community  
+Use the information on the site to learn about what is happening in your community.
 
-(2) **Personally identifiable information:** In certain areas of the Web site, such as online surveys and contests, the Web site may require that you provide personally identifiable information (including, for example, zip code, age, income, and e-mail address, and when applicable, credit card information). WorldNow, as host of the Web site, has access to this information. In addition, when registering to set up an account to use certain services of the Web site such as e-mail, chat rooms, and forums, or to receive certain newsletters or specifically targeted information ("Services"), we do require that you provide a valid e-mail address.
+Share your opinions   
+We encourage free speech. Use the site to let others know how you feel, share your unique experiences and thoughts. Be sure that as you share those opinions that you are respectful of others' rights to do so as well.
 
-We do not knowingly collect personally identifiable information from children (defined herein as minors younger than 13 years of age) without obtaining parental consent. Before registering for an account to use the Services of the Web site, we ask that all minors have their parents read our Privacy Policy. Before and during the registration process, we encourage all minors to include a parent or guardian in the process.
+Comment on others' postings   
+Enhance your experience and that of the rest of the user community by sharing your thoughts on content that others have posted.
 
-We do not control the acts of this Web site's members or visitors. All members and visitors should be aware that, when they disclose personally identifiable information in a bulletin board, chat room, guestbook, or other forum, the information may be collected and used by others to send that person unsolicited e-mail from other parties outside this Web site or WorldNow. In the event that you encounter any user on this Web site who is improperly collecting or using information about you or other users, please contact [Info@WorldNow.com](mailto:Info@WorldNow.com).
+Keep it Clean  
+You can make your point without using four letter words, threats, nudity, inappropriate and unnecessary violence. If you are unable to keep your submissions clean, editors will remove your post.
 
-**How we use (and do not use) the information we gather**
+Upload Content that belongs to you  
+Respect the copyright of others. Make sure all photos, videos, audio and text you submit belong to you.
 
-Please take some time to familiarize yourself with the different ways we use the information that we gather. Keep in mind that, while we encourage all third parties involved---including affiliates and advertisers---to adhere to our policies regarding the privacy of this Web site's visitors and members and to otherwise handle personal information in a responsible manner, we cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from us or independently. Nevertheless, in the event you encounter any third party associated with, or who claims association with us who you feel is improperly collecting or using information about you, please contact [Info@WorldNow.com](mailto:Info@WorldNow.com); we will be happy to forward your message to the third party.
+**What not to do  
+** We want this site to be a useful tool for Nevada residents. In order to accomplish that, we've set up some guidelines for your posts. Editors will look at all submissions following the posting. If your posts do not follow our guidelines, we have the right not to display them on the Web site. If you notice a post you believe is inappropriate or have a question about why your post was rejected for publication please contact the administrator at [Webmaster@kvbc.com](mailto:Webmaster@kvbc.com).
 
-(1) **How we use (and do not use) non-personally identifiable information:** We use non-personally identifiable information in aggregate form to build higher quality, more useful online services by performing statistical analyses of the collective characteristics and behavior of the Web site's members and visitors, and by measuring demographics and interests regarding specific areas of the Web site. We provide statistical information based on this data to advertisers, affiliates, and other current and potential business partners. We also use the aggregate data to inform these third parties as to the number of people who have seen and clicked on links to their web sites.
+Don't upload anything that doesn't belong to you   
+Respect copyright. Only upload stories, photos or videos that you made or that you have obtained the rights to use. This means don't upload content you didn't make, or use content that someone else owns the copyright to, such as music tracks, snippets of copyrighted programs, or videos made by other users, without their permission. Read Copyright section for more information.
 
-The Web site may contain links to other Internet web sites, including co-branded or other affiliated sites that may or may not be owned or operated by us. Unless otherwise explicitly stated, we are not responsible for the privacy practices or the content of such web sites, including such sites' use of any information (such as IP number, browser type, or operating system) collected when visitors to the web site click through links to those sites. Even though such information might not identify you personally, we strongly encourage you to become familiar with the privacy practices of those sites.
+Don't contribute inappropriate material  
+This site is not for pornography, sexually explicit content, four letter words, threats, or attacks, content that is racially, ethnically or religiously offensive, content that impersonates anyone or is off-topic or spam. Material of this nature will not be approved for posting on this site.
 
-(2) **How we use (and do not use) personally identifiable information:** We provide notice to potential registrants of this Web site whose personally identifiable information will be collected during the registration process. Such notice is provided simultaneously with your registration with this website; moreover, this Privacy Policy itself serves as notice that such information is collected under those circumstances. You may not "opt in" to the registration process if you wish to have access to Services, and you may choose to "opt in" to receiving promotional materials from us and/or our affiliates, advertisers, or other business partners. If you "opt in" to receiving such promotional materials, we reserve the right to release any personally identifiable registration information regarding you to third parties who provide goods or services that we believe may be of interest to you. We will not release your credit card information to third parties unless necessary to complete a transaction between you and such a third party. If you decide that you would like to discontinue receiving promotional information from such third parties, please contact those third parties directly, or contact us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
+Don't vent your frustrations or write unnecessarily long posts  
+This site is not a venue for your to impersonate, abuse or harass others. This site is also not the place to post your novel. Keep your posts to a reasonable length. If we find you are using your account to do so, it will be terminated.
 
-We limit our own e-mail contact and solicitations to those customers who have "opted in" to receiving such communications. The solicitations are limited in that they, among other things, will clearly indicate the originator of the e-mail and provide the customer with a method of "opting out" of receiving future communications of a similar nature.
+Don't use MyNews3.com for commercial purposes   
+This site is for your own personal use. If we find you selling products or services on this site without our permission we will terminate your account.
 
-In addition, we sometimes use demographic data to decide which advertisements and sponsor messages to show to which members. As an example, if Sponsor XYZ wishes to display their advertising only to female members of this Web site, we use member registration data to ensure that Sponsor XYZ's ads are displayed only to female members.
+What the Administrators do:  
+Monitor Posts
 
-Finally, we may use individual members' data to "pre-populate" forms, which are displayed for the purpose of collecting individual data by us and/or our sponsors. In no case does pre-populating a form transfer any data to any advertiser or third party. Only if the member voluntarily requests that such data be transferred will any transfer take place---for example, if/when a member clicks a "submit form" button or other button.
+A Moderator will review all new submissions following their appearance on the Web site. A moderator will also review anything that users have flagged as inappropriate.
 
-We reserve the right to release any and all information contained within our access logs concerning any visitor or member when that visitor or member is in violation of our Terms of Service or other published guidelines, or partakes (or is reasonably suspected of partaking) in any illegal activity, even without a subpoena, warrant, or other court order, and to release such information in response to discovery requests, or in response to any circumstance which we, in our sole discretion, deem an emergency. We cooperate with law enforcement agencies in identifying those who may be using our servers or services for illegal activities. We also reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution.
+Reject or take down submissions that:  
+Accuse others of a crime without supporting evidence   
+Are spam and repetitive posts   
+Are advertisements   
+Show indecent photos or videos with nudity or irrelevant violence   
+Falsely impersonate others   
+Are found to violate a copyright
 
-If and when we sponsor promotions or sweepstakes, or third parties sponsor promotions or sweepstakes in conjunction with us, either we or the third party will post relevant privacy information in the official rules and/or registration area for the promotion or sweepstakes. That privacy information, to the extent it conflicts with this Privacy Policy, will govern that particular promotion or sweepstakes.
+Edit Out:  
+Profane or Indecent Language
 
-**Security**
+Violations of the Terms of Use may result in a warning notification or may result in termination of your account and deletion of all your posts. We decide whether there is a violation that should result in termination of your account. If you have an account terminated you are prohibited from ever signing up for another account! 
 
-All information gathered on the Web site is stored within a WorldNow controlled database accessible only to us to protect the loss, misuse, or alteration of the information under our control. However, as effective as any security measure implemented by us may be, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. Questions regarding this Privacy Policy should be directed to us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
-
-**Changing/deleting personal information**
-
-If you would like to have your personally identifiable information changed or removed from our database, please contact us at [Info@WorldNow.com](mailto:Info@WorldNow.com), and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within our databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however we reserve the right, from time to time, to recontact former customers or users of this Web site.
-
-**Third-Party Ad Serving**
-
-We use third-party advertising companies to serve ads when you visit this Web site.  These companies may use information (not including your name, address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know you choices about not having this information used by these companies, please contact us at [Info@WorldNow.com](mailto:Info@WorldNow.com), or click here <http://www.networkadvertising.org/optout_nonppii.asp>.
-
-**Questions?**
-
-Questions regarding this Privacy Policy should be directed to us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
-
-_Effective date: July 1, 2004_
-
-[](http://www.addthis.com/bookmark.php)
+[Home](https://web.archive.org/index.php)»[Privacy Policy](https://web.archive.org/privacy.php) [](http://www.addthis.com/bookmark.php?v=20)
