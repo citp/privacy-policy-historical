@@ -1,32 +1,38 @@
-<!--The following is the downloaded HTML source of the blackpeoplemeet.com privacy policy that was archived on 2009-03-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090318161946id_/http%3A//www.blackpeoplemeet.com/privacy-policy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blackpeoplemeet.com privacy policy that was archived on 2010-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100507025307id_/http%3A//www.blackpeoplemeet.com/privacy-policy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 
 
 	<title>BlackPeopleMeet.com - Privacy Policy</title>
 	<meta name="description" content="">
 	<meta name="keywords" content="">
 
+	<script>ip="http://pmi.peoplemedia.com/22";</script>
 
-<script src="/js/general.js"></script>
-<script src="/js/tabbedpanels.js" type="text/javascript" language="Javascript"></script>
-<script src="/js/thumbnailviewer.js" type="text/javascript" language="Javascript"></script>
+	<script src="http://pmi.peoplemedia.com/22/js/general.js"></script>
+	<script src="http://pmi.peoplemedia.com/22/js/onload.js"></script>
+	<script src="http://pmi.peoplemedia.com/22/js/tabbedpanels.js" type="text/javascript" language="Javascript"></script>
+	
+	<link href="http://pmi.peoplemedia.com/22/styles-sheet.css" type="text/css" rel="stylesheet">
+	<link href="http://pmi.peoplemedia.com/22/styles-custom.css" type="text/css" rel="stylesheet">
+	<!--[if IE 6]>
+		<link href="http://pmi.peoplemedia.com/22/styles_ie6.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+	
+	<!--[if IE 7]>
+		<link href="http://pmi.peoplemedia.com/22/styles_ie7.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
 
-<link href="/styles-sheet.css" type="text/css" rel="stylesheet">
-<link href="/styles-custom.css" type="text/css" rel="stylesheet">
-<!--[if IE 6]>
-	<link href="/styles_ie6.css" rel="stylesheet" type="text/css" />
-<![endif]-->
+		<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon">
+	</head>
+	
+	<body onload="on_load_events('');MM_preloadImages('http://pmi.peoplemedia.com/22/images/buttons/next_over.gif','http://pmi.peoplemedia.com/22/images/buttons/back_over.gif')">
+	<script src="http://pmi.peoplemedia.com/22/js/thumbnailview.js?r=1" type="text/javascript" language="Javascript"></script>
 
-<!--[if IE 7]>
-	<link href="/styles_ie7.css" rel="stylesheet" type="text/css" />
-<![endif]-->
-</head>
-
-<body onload="MM_preloadImages('/images/buttons/next_over.gif','/images/buttons/back_over.gif')">	
+	
 
 
 <div id="wrapper">
@@ -47,21 +53,21 @@
 	
 	
 	<div id="loginerror"></div>
-	<form method="post" action="https://www.blackpeoplemeet.com/login-process.cfm">
-		<input type="hidden" name="server" value="235">
+	<form method="post" action="https://www.blackpeoplemeet.com/login-process.cfm" name="form" id="form" onsubmit="return copybb(this, 0);">
+
 		<table cellspacing="1">
 			<tbody><tr>
 			  <td colspan="3"><div align="center"><strong>Already a Member?</strong></div></td>
 		  </tr>
 			<tr>
 				<td>username:</td>
-				<td><input type="text" name="Username" id="textfield3" tabindex="1" class="text" value="" onclick="CheckClear(this);" onfocus="CheckClear(this);"></td>
-			  <td><input type="image" src="/images/buttons/login.gif" tabindex="4" name="submit" class="button"></td>
+				<td><input type="text" name="username" id="textfield3" tabindex="1" class="text" value="" onclick="CheckClear(this);"></td>
+			  <td><input type="image" src="http://pmi.peoplemedia.com/22/images/buttons/login.gif" tabindex="4" name="submit" id="submit" class="button"></td>
 			</tr>
 			<tr>
 				<td>password:</td>
-				<td><input type="password" name="Password" id="textfield4" tabindex="2" class="text" value="" onclick="CheckClear(this);" onfocus="CheckClear(this);"></td>
-                <td><input type="hidden" name="FromLocation" value="/privacy-policy.cfm">&nbsp;</td>
+				<td><input type="password" name="password" autocomplete="off" id="textfield4" tabindex="2" class="text" value="" onclick="CheckClear(this);"></td>
+                <td><input type="hidden" name="ioBlackBox" id="ioBlackBox"><input type="hidden" name="FromLocation" value="/privacy-policy.cfm">&nbsp;</td>
 			</tr>
 
 		
@@ -70,8 +76,9 @@
 				<td colspan="3" align="center">
 					<div id="loginlinks">
 						
+							
 							<input type="checkbox" name="RememberMe" value="true">Remember Me?
-							<br><a href="/Forgot.cfm">Forgot Username/Password?</a>
+							<a href="/Forgot.cfm">Forgot Username/Password?</a>
 							
 						
 					</div>
@@ -80,6 +87,50 @@
 			</tr>
 		</tbody></table>
 	</form>
+	
+	<script type="text/JavaScript">
+	<!--
+	var submit_form;
+ 
+		function copybb ( aform, pass ) {
+		   var bb = document.getElementById( 'ioBlackBox' );
+ 
+		   if ( aform != null )
+		     submit_form = aform;
+ 
+		   if ( typeof( bb ) == 'undefined' )
+		      return true;
+ 
+		   if ( bb.value == '' && pass < 6) {
+		        setTimeout( "copybb( null," + (pass + 1) + ");", 500 );
+		        return false;
+		   }
+ 
+		  submit_form.submit();
+		  return false;
+		}
+	-->
+	</script>
+
+	<script language="JavaScript">
+		// basic configuration for ioBegin
+		var io_operation = "ioBegin";
+		var io_bbout_element_id = 'ioBlackBox'; // populate ioBlackBox in form
+		var io_install_stm = false; // do not install ActiveX
+		var io_install_flash = false; // do not install flash
+		var io_exclude_stm = 15;
+		// define function to redirect to Adobe to get Flash player
+		function redirectFlash() {
+		document.location.href="http://www.adobe.com/shockwave/download";
+		}
+		var io_install_stm_error_handler = ""; // set to do nothing for Active X
+		var io_flash_needs_update_handler = "redirectFlash();";
+		var io_install_flash_error_handler = "redirectFlash();";
+		// configure parameters for network latency
+		var io_submit_form_id = 'loginForm';
+	</script>
+	<script language="JavaScript" src="https://mpsnare.iesnare.com/snare.js"></script>
+
 </div>
  
 			
@@ -89,6 +140,7 @@
 		<!--end header-->
 
 <!-- page -->
+
 <div id="mainContentTop"></div>
 <div id="mainContentBody">
 	<div id="right_container">
@@ -99,43 +151,48 @@
 
 
 <p><u><b>People Media Privacy Policy</b></u></p>
-<p>People Media is completely committed to the protection of your information and privacy when you use our web services or subscribe to our services from our sites. This policy statement ("Policy") demonstrates People Media's commitment to the protection of your online privacy and is hereby incorporated into and subject to the <a href="/terms-and-conditions.cfm">Terms and Conditions</a> governing your use of the Services on BlackPeopleMeet.com and through other People Media applications and widgets which may feature on our partner websites. Developing friendships or relationships with others may encourage people to disclose private information about themselves. This Policy describes how we may use the information that we collect from you as a subscriber or user of the Services or visitor to our websites. We do not share your personal information with any third parties except as specifically described in this Policy.</p> 
+<p>People Media, Inc. is completely committed to the protection of your information and privacy when you use our web services or subscribe to our services from our sites. This policy statement ("Policy") demonstrates People Media's commitment to the protection of your online privacy and is hereby incorporated into and subject to the <a href="/terms-and-conditions.cfm">Terms and Conditions</a> governing your use of the Services on BlackPeopleMeet.com and through other People Media applications and widgets which may feature on our partner websites. Developing friendships or relationships with others may encourage people to disclose private information about themselves. This Policy describes how we may use the information that we collect from you as a subscriber or user of the Services or visitor to our websites. We do not share your personal information with any third parties except as specifically described in this Policy.</p>
 <p>By using this website and subscribing to the Services, you consent to our collection and use in accordance with this Policy of your information. Please review this Policy prior to using the websites or registering for the Services. If you do not agree to the terms of this Policy, do not provide us with any information and do not use this website or subscribe to the Services. By continuing to use the website or registering for the Services, you hereby agree to the <a href="/terms-and-conditions.cfm">Terms and Conditions</a> and to our Policy as stated herein.</p>
-<p>We may amend this Policy at any time at our sole discretion. If we make any amendments to this Policy, (i) such amendments will be posted in this document and will be effective immediately upon posting, and (ii) we will take reasonable actions to notify you that the Policy has changed.  By continuing to use the Services after amendment of the Policy, you agree to be bound by the revised Policy.</p>  
+<p>We may amend this Policy at any time at our sole discretion. If we make any amendments to this Policy, (i) such amendments will be posted in this document and will be effective immediately upon posting, and (ii) we will take reasonable actions to notify you that the Policy has changed. By continuing to use the Services after amendment of the Policy, you agree to be bound by the revised Policy.</p>  
 
 <p><b>Information Collection &amp; Use.</b></p>
 <p>We may collect certain personal information from or about you when you register for the Services or when you visit our websites. We collect two types of personal information from you: Personally Identifiable Information and Aggregate Information. Our primary goal in collecting this information is to provide you with more efficient and properly working Services.</p>    
-<p>Personally Identifiable Information refers to information that lets us know the specifics of who you are. Personally Identifiable Information may be requested when you register for the Services, provide such information through our websites (e.g., filling out surveys or promotions) and/or send us feedback. This information might include your name, billing address, phone number, email address, credit card or other payment information or other details. Personally Identifiable Information is collected and used internally to allow you to access the Services and maintain purchaser information records, thereby providing you with more personalized service. Our collection of Personally Identifiable Information focuses on ensuring that you receive a viable product and collateral services. We may use your Personally Identifiable Information from time to time to send you e-mail or other communications regarding current promotions, specials and changes or additions to the Services.</p>
+<p>Personally Identifiable Information refers to information that lets us know the specifics of who you are. Personally Identifiable Information may be requested when you register for the Services, provide such information through our websites (e.g., filling out surveys or promotions) and/or send us feedback. This information might include your name, billing address, phone number, email address, credit card or other payment information or other details. Personally Identifiable Information is collected and used internally to allow you to access the Services and maintain purchaser information records, thereby providing you with more personalized service. Our collection of Personally Identifiable Information focuses on ensuring that you receive a viable product and collateral services. We or our parent or affiliated companies may use your Personally Identifiable Information from time to time to send you e-mail or other communications regarding current promotions, specials and changes or additions to the Services.</p>
 <p>Aggregate Information is information that cannot be traced back to any specific individual and as such is completely general in nature. This is information that does not by itself identify a specific individual. Aggregate Information may include the uniform resource locator ("URL") of the website that you just came from, which URL you next go to, what browser you are using, your Internet Protocol address, the country, state and telephone area code where your internet service provider is located, the pages of our site that visitors viewed during their visit, any search terms entered on our site and demographic information such zip codes, age, income level and profession. This information is compiled and analyzed on both a personal and an aggregated basis to tailor our website and Services, improve system administration, display content according to your interests and preferences, and provide aggregated profiles of our users to enable ads to be served on our site and to report aggregate information to our advertising partners.</p>  
 
 <p><b>Disclosure of Information.</b></p>
-<p>We do not share, sell, trade or rent information about you with third parties without your permission (as described in the "Opt-Out Ability" section below), except pursuant to the following normal business circumstances:
+<p>We do not share, sell, trade or rent information about you with third parties without your permission (as described in the "Opt-Out Ability" section below), except pursuant to the following normal business circumstances: 
 	</p><ul>
-		<li>We may link your dating site profiles to other Internet sites in order to offer you more networking and dating options, including without limitation through any People Media applications or widgets that run on the website of a third party with which we have partnered. The content you place in your dating site profile, including without limitation your picture (which may be a form of Personally Identifiable Information) is available to other subscribers to the Services.</li> 
+		<li>We may link or make available your dating site profiles to other Internet sites in order to offer you more networking and dating options through any People Media applications or widgets that run on the website of a third party with which we have partnered. The content you place in your dating site profile, including without limitation your picture (which may be a form of Personally Identifiable Information) is available to other subscribers to the Services.</li> 
 		<li>We may provide your dating site profile or other information to third parties who are not subscribers to the Service at your request.</li> 
 		<li>We may release information when we believe that such release is reasonably necessary to enforce our <a href="/terms-and-conditions.cfm">Terms and Conditions</a>, to investigate illegal activities or potential fraud or to protect the rights, property and safety of us or our employees, our users, or others.</li> 
 		<li>Occasionally, we may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities pursuant to certain legal requirements. We will disclose Personally Identifiable Information upon receipt of a court order or subpoena, or to cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement any activities that we in good faith believe to be unlawful.</li> 
-		<li>We may provide Aggregate Information to third party advertisers or vendors. We participate in advertising campaigns which provide you with targeted advertisements about goods and services of interest to you while you are on our websites and the websites of our participating partner sites. These campaigns only utilize Aggregate Information collected about you. We do not provide Personally Identifiable Information to the advertiser or vendor when you view or click-on these targeted advertisements. However, by clicking on such an advertisement, you acknowledge that the advertiser or vendor may assume that you meet certain targeting criteria regarding the advertisement (e.g., single men from California).</li> 
-		<li>We may share your Personally Identifiable Information with third parties who provide services to us under confidentiality agreements. Those third parties include authorized contractors, temporary employees and consultants and other partners and affiliates working with us to provide you with other social networking options to make your subscription to our Service more rich and entertaining.  If you were referenced to our site from one of our partners' or affiliates' website, they may also use your Personally Identifiable Information from time to time to send you e-mail or other communications regarding their promotions and services.</li>
+		<li>We may provide Aggregate Information to third party advertisers or vendors. We participate in advertising campaigns which provide you with targeted advertisements about goods and services of interest to you while you are on our websites and the websites of our participating partner sites. These campaigns only utilize Aggregate Information collected about you. We do not provide Personally Identifiable Information to the advertiser or vendor when you view or click-on these targeted advertisements. However, by clicking on such an advertisement, you acknowledge that the advertiser or vendor may assume that you meet certain targeting criteria regarding the advertisement (e.g., single men from California).		</li> 
+		<li>We may share your Personally Identifiable Information with third parties who provide services to us under confidentiality agreements. Those third parties include authorized contractors, temporary employees and consultants and other partners and affiliates working with us to provide you with other social networking options to make your subscription to our Service more rich and entertaining. If you were referenced to our site from one of our partners' or affiliates' website, they may also use your Personally Identifiable Information from time to time to send you e-mail or other communications regarding their promotions and services.</li>
+		<li>We may share your Personally Identifiable Information and other information with our parent or affiliated companies.</li>
 	</ul>
 <p></p> 
 
+<p><b>Public Availability of User Profile Information.</b></p>
+<p>Unless you elect to opt out (as described in the "Opt-Out Ability" section below), we may link or make available your dating site profiles to Internet search engines so that your profiles may be presented in Internet search results. You acknowledge and agree that the presence of your profiles in Internet search results may allow the general public to view some or all of the information that you elect to include in your profiles, including, without limitation your Personally Identifiable Information.  If you do not wish for the information in your profiles to be made available to Internet search engines or presented in Internet search results, please opt out as indicated below.</p>
+
 <p><b>Security &amp; Links.</b></p>
-<p>We use industry standard security measures, including but not limited to use of Secure Socket Layer (SSL) encryption software, to protect your information from unauthorized access or against loss, misuse or alteration by third parties.  The information in your Account Profile is also protected with certain user credentials, such as a valid User Name and User Password, which you create upon subscription to the Services.</p> 
-<p>We ask that you do your part to protect your privacy online as well. You are responsible for taking all reasonable steps to ensure that no unauthorized person shall have access to your User Name and/or User Password. Do not reveal your User Name or User Password to another person.  In contacting you, our employees will never ask you for your User Password, but may ask for your User Name for identification purposes. Your Member Identification Number is the number other members will use to contact you through the Services. Always use caution in revealing your email address, telephone number, or address to others, and always arrange to meet new friends in only a public place.</p> 
-<p>Our website may contain links to other websites not owned by us or under our control ("Linked Sites"). We are not responsible for the privacy policies or practices or the content of such Linked Sites. Such Linked Sites have their own privacy policies and data collection, use and disclosure practices which you should carefully review.  This Policy applies only to information collected through the Services or the website BlackPeopleMeet.com. You further acknowledge and agree that we are not responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of, or reliance upon, any content, goods or services available on or through any such Linked Site.</p>
+<p>We use industry standard security measures, including but not limited to use of Secure Socket Layer (SSL) encryption software, to protect your information from unauthorized access or against loss, misuse or alteration by third parties. The information in your Account Profile is also protected with certain user credentials, such as a valid User Name and User Password, which you create upon subscription to the Services.</p> 
+<p>We ask that you do your part to protect your privacy online as well. You are responsible for taking all reasonable steps to ensure that no unauthorized person shall have access to your User Name and/or User Password. Do not reveal your User Name or User Password to another person. In contacting you, our employees will never ask you for your User Password, but may ask for your User Name for identification purposes. Your Member Identification Number is the number other members will use to contact you through the Services. Always use caution in revealing your email address, telephone number, or address to others, and always arrange to meet new friends in only a public place.</p> 
+<p>Our website may contain links to other websites not owned by us or under our control ("Linked Sites"). We are not responsible for the privacy policies or practices or the content of such Linked Sites. Such Linked Sites have their own privacy policies and data collection, use and disclosure practices which you should carefully review. This Policy applies only to information collected through the Services or the website BlackPeopleMeet.com. You further acknowledge and agree that we are not responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of, or reliance upon, any content, goods or services available on or through any such Linked Site.</p>
 <p>Cookies may be used to manage your sessions on this website and to properly segregate your sessions and information from other users. If you disable the use of cookies on your computer you may not be able to access certain areas on this website or properly utilize the Services.</p> 
 
 <p><b>Opt-Out Ability.</b></p> 
-<p>We provide you the opportunity to opt out at any time of receiving marketing communications from us or our partners and affiliates or of other marketing arrangements that we may add from time to time. You can accomplish this through your Account Profile. Simply click on Edit Alerts under your Account Profile and follow the directions for opting-out of the identified marketing programs. Notwithstanding your choice to opt-out of certain marketing communications, we reserve the right to send you certain communications regarding the Services and your subscription to the Services.</p>  
-<p>As discussed above, we may use third-party advertising companies to serve ads. These companies may use Aggregate Information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, click <a href="http://networkadvertising.org/consumer/opt_out.asp" target="_blank">here</a>.</p>
+<p>We provide you the opportunity to opt out at any time of receiving marketing communications from us or our partners and affiliates or of other marketing arrangements that we may add from time to time. You can accomplish this through your Account Profile. Simply click on Edit Alerts under your Account Profile and follow the directions for opting-out of the identified marketing programs. Notwithstanding your choice to opt-out of certain marketing communications, we (including our parent and affiliated companies) reserve the right to send you certain communications regarding the Services and your subscription to the Services.</p>  
+<p>As discussed above, we (including our parent or affiliated companies) may use third-party advertising companies to serve ads. These companies may use Aggregate Information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click <a href="http://networkadvertising.org/consumer/opt_out.asp" target="_blank">here</a>.</p>
+<p>As discussed in the "Public Availability of User Profile Information" section above, in the event we elect to make your profile available to Internet search engines, you will have the opportunity to opt out at any time of allowing us to make your profiles available to Internet search engines.  You can accomplish this through your Account Profile.  Simply click on "My Account" after signing in, click the "Edit" button under "Preferences" and follow the directions for opting-out of allowing access to your profile via the BlackPeopleMeet.com Extended Network.  To the extent that you have allowed your profile to be made available to Internet search engines at any time, you acknowledge and agree that your profile information may be stored or cached on third party servers, and we have no ability to cause or require such third parties to delete such information.</p>
 
 <p><b>Age Requirements.</b></p>
 <p>The website is a general audience website and is intended to be used by adults interested in the Services. You must be at least 18 years of age to use this website and/or the Services. We do not knowingly solicit, collect or use Personally Identifiable Information or other contact information about visitors under 18 years of age.</p>   
 
-<p>This Policy was last updated on January 20th, 2009.</p>
+<p>This Policy was last updated on October 21, 2009.</p>
 
-<p>Copyright © 2000-2009 People Media L.L.C. All rights reserved.</p>
+<p>Copyright © 2000-2010 People Media L.L.C. All rights reserved.</p>
 
 
 			</div>
@@ -147,7 +204,6 @@
 
 
 <!-- end page -->
-
 	
 	
 		
@@ -160,80 +216,148 @@
 					<li>Dating Articles</li>
 					<ul class="sub">
 						
-							<li><a href="/articles/Creating-A-Great-Dating-Profile.cfm">Creating a Great Dating Profile</a></li>
 						
-							<li><a href="/articles/Dating-in-NYC-How-Do-Black-Singles-Find-Dates-in-New-York-City.cfm">How Do Black Singles Find Dates in New York?</a></li>
 						
-							<li><a href="/articles/For-Men-Making-the-Connection.cfm">For men: Making the Connection</a></li>
 						
-							<li><a href="/articles/For-Men-Making-the-Transition-from-Dating-Online-to-Offline.cfm">For Men: Taking the Online Offline</a></li>
+						    
+						    
+							<li><a href="/articles/index.cfm/1/Creating-a-Great-Dating-Profile">Creating a Great Dating Profile on BlackPeopleMeet.com</a></li>
 						
-							<li><a href="/articles/Dating-and-Relationship-Tips-from-Mom.cfm">For Women: Dating &amp; Relationship Tips from Mom</a></li>
+						    
+						    
+							<li><a href="/articles/index.cfm/2/How-do-Black-Singles-Find-Dates-in-New-York">How do Black Singles Find Dates in New York?</a></li>
 						
-							<li><a href="/articles/For-Women-Dating-Tips-for-Black-Women.cfm">For Women: Dating Tips for Black Women</a></li>
+						    
+						    
+							<li><a href="/articles/index.cfm/3/For-Men-Making-the-Connection">For Men: Making the Connection</a></li>
 						
-							<li><a href="/articles/Multi-Dating-Should-You-Date-More-Than-One-Person-at-the-Same-Time.cfm">For Women: Multi-Dating</a></li>
+						    
+						    
+							<li><a href="/articles/index.cfm/4/For-Men-Making-the-Transition-from-Dating-Online-to-Offline">For Men: Making the Transition from Dating Online to Offline</a></li>
+						
+						    
+						    
+							<li><a href="/articles/index.cfm/5/Dating--Relationship-Tips-from-a-Black-Mom">Dating &amp; Relationship Tips from a Black Mom</a></li>
+						
+						    
+						    
+							<li><a href="/articles/index.cfm/6/Dating-Tips-for-Black-Women">Dating Tips for Black Women</a></li>
+						
+						    
+						    
+							<li><a href="/articles/index.cfm/7/Multi-Dating-for-Black-Women">Multi Dating for Black Women</a></li>
+						
+						    
+						    
+							<li><a href="/articles/index.cfm/8/How-to-Score-at-the-Grocery-Store">How to Score at the Grocery Store</a></li>
+						
+						    
+						    
+							<li><a href="/articles/index.cfm/9/Love-Lessons-for-Commitment-Phobes-or-those-who-love-them">Love Lessons for Commitment Phobes (or those who love them)</a></li>
+						
+						    
+						    
+							<li><a href="/articles/index.cfm/10/How-to-Make-Them-Talk-Not-Walk--Five-Rules-to-Encourage-Conversation">How to Make Them Talk, Not Walk:  Five Rules to Encourage Conversation</a></li>
+						
+						    
+						    
+							<li><a href="/articles/index.cfm/11/The-Racy-Racial-Divide-Can-Your-Love-Conquer-All">The Racy Racial Divide: Can Your Love Conquer All?</a></li>
+						
+						    
+						    
+							<li><a href="/articles/index.cfm/12/The-10-Hottest-Single-Black-Stars">The 10 Hottest Single Black Stars</a></li>
+						
+						    
+						    
+							<li><a href="/articles/index.cfm/13/How-to-Bust-a-Double-Dipper">How to Bust a Double Dipper</a></li>
+						
+						    
+						    
+							<li><a href="/articles/index.cfm/14/Getting-Scrooged-by-Your-Sweetheart">Getting Scrooged by Your Sweetheart?</a></li>
+						
+						    
+						    
+							<li><a href="/articles/index.cfm/15/Silent-Nights-Online-Conversation-Starters-You-Must-Try">Silent Nights? Online Conversation Starters You Must Try</a></li>
+						
+						    
+						    
+							<li><a href="/articles/index.cfm/16/Renewal-Promises-for-Pumas-on-the-Prowl">Renewal Promises for Pumas on the Prowl</a></li>
+						
+						    
+						    
+							<li><a href="/articles/index.cfm/17/Dont-Let-Your-Diet-Ruin-Your-Love-Life">Don't Let Your Diet Ruin Your Love Life</a></li>
 						
 					</ul>
 					<li><a href="/search/">Black Singles Search</a></li>
+					
+					<li><a href="/success-stories.cfm">Success Stories</a></li>
+					
 				</ul>
 				</div>
 			</div>
 		</div>
 		
-
-		<div id="footer_topper"></div>
-		<div id="footer">* By sending an instant flirt message on BlackPeopleMeet.com. Please see BlackPeopleMeet.com 'Terms' for details. 22X235 - BlackPeopleMeet.com WorldWideWeb pages are copyrighted by People Media. BlackPeopleMeet.com's webpages and BlackPeopleMeet.com's content may not be reproduced in any form without the expressed written consent of People Media © 2000 - 2009. BlackPeopleMeet.com is designed to bring singles together. Use BlackPeopleMeet.com and learn how to meet new people. BlackPeopleMeet.com is a dating service for single men and single women.</div>
-		<div id="footer_bottom"></div>
-
-			<div class="clr"></div>
-			<div id="footer_nav">
-				<a href="/">home</a> |
-				<a href="/contact-us.cfm">contact us</a> |
-				<a href="http://www.peoplemedia.com/careers.cfm" target="_blank">careers</a> |
-				<a href="/about-online-dating.cfm">about</a> |
-				<a href="http://www.peoplemedia.com/advertisers.cfm" target="_blank">advertise with us</a> |
-				<a href="/search/">search</a> |
-				<a href="/sign_up/">join now</a> |
-				<a href="/terms-and-conditions.cfm">terms</a> |
-				<a href="/privacy-policy.cfm">privacy policy</a> |
-				<a href="javascript:void(0);" onclick="window.external.AddFavorite('http://www.BlackPeopleMeet.com','BlackPeopleMeet.com - The Black People Network')">bookmark page</a> |
-				<a href="javascript:void(0);" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.BlackPeopleMeet.com');">set as home page</a> |
-				<a href="/sitemap.cfm">site map</a>
+		
+		
+			<div id="footer_topper"></div>
+			<div id="footer">* By sending an instant flirt message on BlackPeopleMeet.com. Please see BlackPeopleMeet.com 'Terms' for details. 22X52 - BlackPeopleMeet.com WorldWideWeb pages are copyrighted by People Media. BlackPeopleMeet.com's webpages and BlackPeopleMeet.com's content may not be reproduced in any form without the expressed written consent of People Media © 2000 - 2010. BlackPeopleMeet.com is designed to bring singles together. Use BlackPeopleMeet.com and learn how to meet new people. BlackPeopleMeet.com is a dating service for single men and single women.</div>
+			<div id="footer_bottom"></div>
+	
+				<div class="clr"></div>
+				<div id="footer_nav">
+					<a href="/">home</a> |
+					<a href="/magazine/">magazine</a> |
+					<a href="/contact-us.cfm">contact us</a> |
+					<a href="/billing/index.cfm">billing</a> |
+					<a href="/success-stories.cfm">success stories</a> | 
+					<a href="http://www.peoplemedia.com/careers.cfm" target="_blank">careers</a> |
+					<a href="/about-online-dating.cfm">about</a> |
+					<a href="http://www.peoplemedia.com/advertisers.cfm" target="_blank">advertise with us</a> |
+					<a href="/search/">search</a> |
+					<a href="/sign_up/">join now</a> |
+					<a href="/terms-and-conditions.cfm">terms</a> |
+					<a href="/privacy-policy.cfm">privacy policy</a> |
+					<a href="javascript:void(0);" onclick="window.external.AddFavorite('http://www.BlackPeopleMeet.com','BlackPeopleMeet.com - The Black People Network')">bookmark page</a> |
+					
+					<a href="/sitemap.cfm">site map</a>
+				</div>
 			</div>
-		</div>
+		
+	
+	
+	
+		
+		<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+		<script type="text/javascript">
+			try {
+			var pageTracker = _gat._getTracker("UA-1817027-3");
+			pageTracker._trackPageview();
+			} catch(err) {}
+		</script>
+		
+		<script language="JavaScript" type="text/javascript">
+		<!-- Yahoo! Inc.
+		var ysm_accountid  = "1EGNO5MBO641UEQDL6M03HQVG5S";
+		document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' " 
+		+ "SRC=//" + "srv1.wa.marketingsolutions.yahoo.com" + "/script/ScriptServlet" + "?aid=" + ysm_accountid 
+		+ "></SCR" + "IPT>");
+		// -->
+		</script><script language="JavaScript" type="text/javascript" src="//srv1.wa.marketingsolutions.yahoo.com/script/ScriptServlet?aid=1EGNO5MBO641UEQDL6M03HQVG5S"></script>
 	
 	
 
-	<script language="JavaScript" type="text/javascript">
-	<!-- Yahoo! Inc.
-	var ysm_accountid  = "1EGNO5MBO641UEQDL6M03HQVG5S";
-	document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' " 
-	+ "SRC=//" + "srv1.wa.marketingsolutions.yahoo.com" + "/script/ScriptServlet" + "?aid=" + ysm_accountid 
-	+ "></SCR" + "IPT>");
-	// -->
-	</script><script language="JavaScript" type="text/javascript" src="//srv1.wa.marketingsolutions.yahoo.com/script/ScriptServlet?aid=1EGNO5MBO641UEQDL6M03HQVG5S"></script>
 	
-	<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 	
-	<script type="text/javascript">
-		var pageTracker = _gat._getTracker("UA-1817027-3");
-		pageTracker._initData();
-		
-			
-		
-		pageTracker._trackPageview();
-	</script>
-
+	
 </div>
 
 
 
 
-
+	
 	
 		
 	</body></html>
