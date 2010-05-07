@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkingphones.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109032817id_/http%3A//www.thinkingphones.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkingphones.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507172333id_/http%3A//thinkingphones.com/privacy.html) for the most accurate reproduction.*
 
 # Thinking Phone Networks
 
@@ -46,4 +46,4 @@ You may edit your account information and account profile at any time using your
 
 By using our Website, you consent to the collection and use of information by Thinking Phone Networks. We reserve the right to change this Privacy Policy and our Terms of Use at any time and for any reason. If our privacy policy changes, we will update this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. You agree that continued use of a Website is an acknowledgment, consent and acceptance of any terms contained in our terms, conditions, practices and policies, including this Privacy Policy, as it may be amended from time to time.
 
-© 2008 Thinking Phone Networks. All rights reserved.
+© 2010 Thinking Phone Networks. All rights reserved.
