@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the insidelacrosse.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106064946id_/http%3A//www.insidelacrosse.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidelacrosse.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507185615id_/http%3A//insidelacrosse.com/privacypolicy) for the most accurate reproduction.*
 
-# Inside Lacrosse - Recruiting
+# Privacy Policy | InsideLacrosse.com
 
-**INSIDE LACROSSE PRIVACY POLICY**   
-August 29, 2008  Kids and parents click here!
+August 29, 2008 
+
+Kids and parents click here!
 
 The following Privacy Policy summarizes the various ways that Street & Smith's Sports Group, a division of American City Business Journals, Inc. ("Service Provider," "we" or "our") treats the information you provide while using www.insidelacrosse.com  ("Website"). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. 
 
