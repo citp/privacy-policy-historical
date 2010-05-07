@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainsearch101.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523202133id_/http%3A//domainsearch101.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsearch101.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507135430id_/http%3A//www.domainsearch101.com/privacy.aspx) for the most accurate reproduction.*
 
 # DomainSearch101 Privacy Policy
 
@@ -47,7 +47,7 @@ We may change this Privacy Policy from time to time. We will post any changes he
 
 ### Comments and Questions
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us by submitting your inquiry to our [Customer Service department](https://web.archive.org/web/20090523202133id_/http%3A//domainsearch101.com/contact.html).
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us by submitting your inquiry to our [Customer Service department](https://web.archive.org/web/20100507135430id_/http%3A//www.domainsearch101.com/contact.html).
 
 ### Free Special Offers
 
