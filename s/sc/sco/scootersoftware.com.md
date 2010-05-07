@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scootersoftware.com privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019110639id_/http%3A//www.scootersoftware.com/index.php%3Fzz%3Dkb_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scootersoftware.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507043802id_/http%3A//www.scootersoftware.com/index.php%3Fzz%3Dkb_privacy) for the most accurate reproduction.*
 
 # Beyond Compare - The file compare, folder compare and remote directory compare utility from Scooter Software
 
@@ -34,5 +34,5 @@ Scooter Software does not sell, trade, or rent your personal information to othe
 
 By using our website, you consent to the collection and use of this information by Scooter Software.  If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.  Regardless of any changes we make to our privacy policy, we will always use your personal information in accordance with the version of the policy in place at the time you provided your information, unless you give your express consent for us to do otherwise. 
 
-  
+**Important:**   [Read this](https://web.archive.org/web/20100507043802id_/http%3A//www.scootersoftware.com/support.php?zz=kb_alert) if you have our **Linux 3.1.11 build 12204** release installed from the .tar.gz installer.  
 
