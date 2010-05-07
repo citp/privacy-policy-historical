@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkexchanged.com privacy policy that was archived on 2009-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091026215950id_/http%3A//www.linkexchanged.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkexchanged.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507041525id_/http%3A//www.linkexchanged.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Link Exchange at LinkExchanged! - Link Trade, swap links and more. Service Brought To You By LinkExchanged! Internet Marketing Services
 
@@ -16,4 +16,4 @@ LinkExchanged will contain links to other sites (advertisers and affiliates). We
 
 Please understand this Privacy Statement may change at any time. We will notify members of major changes 1 week in advance.
 
-If you have any questions regarding this Privacy Statement, please [contact us](https://web.archive.org/web/20091026215950id_/http%3A//www.linkexchanged.com/contact_us.cfm) via our online contact form. We will gladly answer any questions you may have. 
+If you have any questions regarding this Privacy Statement, please [contact us](https://web.archive.org/web/20100507041525id_/http%3A//www.linkexchanged.com/contact_us.cfm) via our online contact form. We will gladly answer any questions you may have. 
