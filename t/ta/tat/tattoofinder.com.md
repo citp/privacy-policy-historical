@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tattoofinder.com privacy policy that was archived on 2009-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090201095217id_/http%3A//www.tattoofinder.com/about.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattoofinder.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507152836id_/http%3A//www.tattoofinder.com/about.asp%23privacy) for the most accurate reproduction.*
 
 # About TattooFinder.com
 
