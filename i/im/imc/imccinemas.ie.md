@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imccinemas.ie privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104094758id_/http%3A//www.imccinemas.ie/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imccinemas.ie privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507094132id_/http%3A//www.imccinemas.ie/privacypolicy.asp) for the most accurate reproduction.*
 
-# Irish Multiplex Cinemas - Privacy Policy
+# Irish Multiplex Cinemas Dun Laoghaire - Privacy Policy
 
 The IMC Cinema Group highly values the privacy of our customers. This policy is intended to explain to you how we use any information that you may provide to us when visiting our website. 
 
