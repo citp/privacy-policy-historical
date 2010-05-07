@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the topseos.in privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106104050id_/http%3A//www.topseos.in/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topseos.in privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507101742id_/http%3A//www.topseos.in/privacy_policy) for the most accurate reproduction.*
 
 # Rankings of Best SEO and PPC Companies in India. 1000s of internet marketing companies, services, consultants, experts and firms analyzed.
 
 ### Privacy Policy
 
-Updated:September 12, 2005 to incorporate release of contact information terms.
+Updated: May 04, 2010 to incorporate release of contact information terms.
 
 Notification of Changes
 
@@ -29,6 +29,12 @@ As part of registration, You may set up a Personal Profile describing your exper
 **Registration Information**
 
 We use Personally Identifiable Information for our own internal purposes including contacting You via email to inform You about updates to our services and providing You with information relating to e-commerce transactions that You conduct on the Site. We reserve the right to disclose your information as required by law. We may provide You with the newsletters via email.
+
+ **How We Collect Information**. We collect personal information about you as peruse our websites, interact our customer service representatives, complete online order forms or information request sheets, and provide you information to our sales agents. We may use cookies and pixel tags to track your usage of our websites. We also use online order forms and information request sheets to obtain information from you necessary to process your orders and provide you with requested information.
+
+ **Security Measures**. We have created and implemented a variety of encryption and security technologies and procedures to protect information stored in our systems from unauthorized access. Further, we maintain procedural safeguards that restrict access to your personal and private Customer Information to topseos.com employees who need to know your Customer Information in order to provide the products and services that you request from time to time.
+
+ **Access to Information**. In the event that you have any concerns or inquiries about the CUstomer Information we have collected, or to access your information, please e-mail us at privacy@topseos.com or write to e-ventures, LLC, Privacy Department, PO Box 1073, Plymouth, IN 46563. We may require the payment of a minimal administrative fee for accessing or copying your information, but will inform you of the anticipated charges and confirm that you want us to proceed before processing your request. If you believe that the Customer Information about you that we have collected is incomplete or inaccurate, we will correct the information upon verification of the omission or error and that the person requesting the change is the person about whom the Customer Information relates. 
 
 **Legal Disclaimer**
 
