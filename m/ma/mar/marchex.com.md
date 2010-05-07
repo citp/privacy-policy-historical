@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marchex.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228073330id_/http%3A//www.marchex.com/legal/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marchex.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507131812id_/http%3A//www.marchex.com/legal/privacy-statement.html) for the most accurate reproduction.*
 
 # Marchex Legal - Marchex, Inc.
 
