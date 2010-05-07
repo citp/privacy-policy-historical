@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the rubbermaid.com privacy policy that was archived on 2009-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090109140942id_/http%3A//www.rubbermaid.com/rubbermaid/aboutus/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubbermaid.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507212608id_/http%3A//www.rubbermaid.com/MediaCenter/aboutUS/Pages/Privacy.aspx) for the most accurate reproduction.*
 
-# Rubbermaid.com Privacy Policy
+# Rubbermaid Privacy Policy | Rubbermaid
 
-  
-By using or accessing this website you signify your acknowledgment and assent to the Privacy Policy set forth below. If you do not agree to this policy, please do not use this website. Company can revise this policy at any time by updating this posting, and your use after such change signifies your acceptance of the changed terms. Please check these terms of use periodically for changes.
+Privacy
+
+By using or accessing this website you signify your acknowledgment and assent to the Privacy Policy set forth below. If you do not agree to this policy, please do not use this website. Company can revise this policy at any time by updating this posting, and your use after such change signifies your acceptance of the changed terms. Please check these terms of use periodically for changes. 
 
 This policy is intended to help you understand how Newell Rubbermaid Inc, its subsidiaries and affiliates ("Newell Rubbermaid," "we," or "us") collect, use and safeguard the information you provide on our website.
 
