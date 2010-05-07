@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yofreesamples.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220222933id_/http%3A//yofreesamples.com/privacy-policy-and-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yofreesamples.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507165657id_/http%3A//yofreesamples.com/privacy-policy-and-terms) for the most accurate reproduction.*
 
-# Privacy Policy and Terms | Free Stuff | Free Samples Without Surveys | Freebies Online Daily
+# Privacy Policy and Terms | Free Stuff | Free Samples Without Surveys | Freebies Samples By Mail At yoFreeSamples.com
 
 Browse >
 
