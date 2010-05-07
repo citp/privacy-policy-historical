@@ -1,0 +1,662 @@
+<!--The following is the downloaded HTML source of the hypem.com privacy policy that was archived on 2010-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100507053309id_/http%3A//hypem.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="MP3 &amp; music blog aggregator - the best songs and blog posts of music on the web - search and discover something new.">
+<meta name="verify-v1" content="qwbaObdzdZWrdu9G4KvAUGD+eLPZj38HYoLP/rhlBYo="><meta http-equiv="X-UA-Compatible" content="IE=7">
+<title>Privacy Policy / The Hype Machine</title>
+
+<link rel="icon" href="http://static3.hypem.net/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://static1.hypem.net/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" media="screen" href="http://static.hypem.net/css/stylish.css?id=new8">
+<!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" href="http://static.hypem.net/css/ie6.css" />
+    <script src="/js/dropdown.js" type="text/javascript"></script>
+<![endif]--> 
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://static.hypem.net/css/ie7.css" /><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://static.hypem.net/css/ie7.css" /><![endif]-->
+
+ 
+  
+<link rel="search" type="application/opensearchdescription+xml" href="/hypemachine.xml" title="The Hype Machine">
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.0.3/prototype.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js"></script>
+
+<script src="http://static.hypem.net/js/lightbox.js" type="text/javascript"></script>
+<script src="http://static.hypem.net/js/hype_functions.js?rev=6" type="text/javascript"></script>
+<script src="http://static.hypem.net/js/effects.js" type="text/javascript"></script>
+
+
+<script type="text/javascript" src="http://dyncdn.celebuzz.com/assets/cssjs/ads/topscript.js?hypem"></script>
+<script type="text/javascript" src="http://cdn.extensions.buzznet.com/topscript.js.php?siteToken=HM"></script> 
+
+
+
+
+<script type="text/javascript">
+    // this prevents the Safari/PPC crash. Yes, really.
+	window.onbeforeunload = function() { sendEvent('STOP'); };
+	
+	// setup the page as it's loaded.  there are also functions in footer that complete load
+	var is_logged_in = 0;
+	var logged_in_username = "";
+	var playback_allowed = 0;
+	var pageTracker;
+	
+	if (document.location.href.search(/\/#/) == -1 && document.location.href.search(/ax=1/) == -1 && is_logged_in == 1 ) { // looks like we gotta reload this page, since no # is there
+		url = document.location.pathname + document.location.search;
+		url = url.replace(/\?ax=1/,'');
+		url = "/#" + url;
+		top.location = url;
+	} else if (document.location.href.search(/\/#/) != -1 && document.location.href.search(/ax=1/) == -1 && document.location.href.search(/gaso=/) && is_logged_in == 0 ) { 
+		// not logged in but requesting logged in page
+		url = unescape(document.location.href);
+		url = url.replace(/\/#/,'');
+		top.location = url;
+	}
+	
+	set_ad_vars();
+	
+	if (is_logged_in==1) {
+		currentUrl = document.location.pathname + document.location.hash;
+		setInterval('check_hash_change()', 300);	
+	}
+
+	/*
+	Event.observe(window, 'load', function() {
+	    Event.observe(document, 'keypress', function(e){
+	        var code;
+	        if (!e) var e = window.event;
+	        if (e.keyCode) code = e.keyCode;
+	        else if (e.which) code = e.which;
+	        var character = String.fromCharCode(code);
+	        if (character == 'n') nextTrack(this);
+	        else if (character == 'p') prevTrack(this);
+	    });
+	});
+	*/
+	
+	function handle_click(event) {
+		
+		if (!event) { // this seems to happen in IE
+			var event = window.event;
+		}
+
+		t_elt = event.target || event.srcElement;
+		if(t_elt.tagName != 'A') { url = t_elt.parentNode.href; }
+		else { url = t_elt.href; }
+		
+		debug("Clicked: " + t_elt.id);
+		
+		load_url(url);
+		
+		return false;
+		
+	}
+	
+	function load_url(url) {
+			
+		if ( (
+			url.indexOf('/')==0 || url.search('^http://.*?hypem\.com/')!=-1 ) && 
+			url.search('/go/')==-1 && 
+			url.search('/feed')==-1 && 
+			url.search('http://blog\.')== -1 && 
+			url.search('http://stream\.')== -1 && 
+			url.search('http://merch\.')== -1 ) {
+
+			if (is_logged_in==1) {
+		
+				prevUrl = currentUrl;
+		
+				url = url.replace(/^http:\/\/.+?\//,'/');
+				url = url.replace(/[\?&]ax=1/,'');
+				currentUrl = "/#" + url;
+				top.location.href = "/#" + url;
+				disable_notification_check();
+				update_page_contents();
+				
+			}  else {
+				top.location.href = url;
+			}
+						
+		} else {
+		
+			try {
+				window.open(url,"_blank", ""); return false;
+			} catch(e) {
+				window.open(url,'_blank','width=' + window.screen.availWidth + ',height=' + window.screen.availHeight + ',menubar=yes,toolbar=yes,location=yes,resizable=yes,scrollbars=yes,status=yes');
+			return false;
+			}
+		 }
+		
+		return false;
+	
+	}
+	
+	function update_page_contents() {
+		
+		if (document.location.pathname=="/") {
+
+			head = $$('head')[0];
+
+			if (is_logged_in==1) {
+			
+				if(playerDisplayed=="normal") {
+					$('player-loading').style.top = '-20px';
+				} else {
+					$('player-loading').style.top = '-70px';
+				}
+				$('player-loading').style.visibility="visible";
+			
+				url = document.location.hash;
+				if (url=="") { url = "/"; }
+				url = unescape(url);
+				url = url.replace(/\?ax=1/,'');
+				url = url.replace(/^#/,'');
+			
+				if (document.location.href.indexOf("zeitgeist")!=-1 && document.location.href.indexOf("zeitgeist/2008")!=-1 ) { 
+					if(! $('css_zeitgeist08')) {
+			 		   css_sheet = new Element('link', { id: "css_zeitgeist", href: "http://static.hypem.net/css/zeitgeist-2008.css", type: 'text/css', rel: "stylesheet" });
+					    head.appendChild(css_sheet);
+					}
+				} else if ( document.location.href.match(/\/zeitgeist\/2009/) ) {
+					if(! $('css_zeitgeist09')) {
+			 		   css_sheet = new Element('link', { id: "css_zeitgeist", href: "http://static.hypem.net/css/zeitgeist-2009.css", type: 'text/css', rel: "stylesheet" });
+					    head.appendChild(css_sheet);
+					}
+				}
+
+				var new_page_num;
+				var old_page_num;
+				url.match(/(\d+)\/$/); new_page_num = RegExp.$1; if(!new_page_num) { new_page_num = 1; } 
+				if(prevUrl) { prevUrl.match(/(\d+)\/$/); old_page_num = RegExp.$1; if(!old_page_num) { old_page_num = 1;} }
+				
+				debug("new pg #:" + new_page_num + " old pg #:" + old_page_num);
+				
+				if ( (new_page_num > old_page_num) || ('/#' + url) == prevUrl ) {
+					
+					// determine direction of motion
+					if ( ('/#' + url) == prevUrl) { 
+						var start_pos = -1500;
+						var end_pos = 1500;
+						debug("backwards");
+					} else {
+						var start_pos = 1500;
+						var end_pos = -1500;
+						debug("forward");
+					}
+					
+					if (! $('content-wrapper2')) { 
+				
+		  				new_content_wrapper = new Element('div', { id: "content-wrapper2", style: "left:" + start_pos + "px; display:none; position:relative; top:0; min-height: 0px;" });
+						$('content-wrapper').parentNode.insertBefore(new_content_wrapper, $('content-wrapper'));
+				
+						if($('ad-rectangle-iframe')) { $('ad-rectangle-iframe').remove(); }
+						if($('ad-skyscraper-iframe')) { $('ad-skyscraper-iframe').remove(); }
+
+					}
+				
+					new Ajax.Updater('content-wrapper2', url, 
+							{ parameters: 'ax=1&ts=' + get_unix_time(), 
+							  method: 'get',  
+							  onSuccess: function(transport){
+
+								e = new Effect.Move('content-wrapper', { x: end_pos, mode: 'relative', duration: 0.7, fps: '15' }); 
+								
+								$('player-loading').style.visibility="hidden";
+								debug("loading: " + url);
+								
+								if ( $('top-notice') && !url.match(/^\/list\/tags/)) { e = new Effect.ScrollTo('top-notice', {duration: 0.3 }); } 
+					  			else if (!url.match(/^\/list\/tags/)) { e = new Effect.ScrollTo('header', {duration: 0.3 }); }
+								
+							  },
+							  asynchronous: false, 
+							  evalScripts: true } 
+							);					
+					
+				
+					setTimeout(function() { 
+
+						$('content-wrapper2').style.display="";
+						e = new Effect.Move('content-wrapper2', { x: end_pos, mode: 'relative', duration: 0.5, fps: '15'});
+						$('content-wrapper').remove();
+						$('content-wrapper2').setAttribute('id', 'content-wrapper');
+					
+						//$('index').setStyle({ overflowX: 'auto'});	
+									
+					}, 500);
+									
+				} else {
+				
+					new Ajax.Updater('content-wrapper', url, 
+							{ parameters: 'ax=1&ts=' + get_unix_time(), 
+							  method: 'get',  
+							  onSuccess: function(transport){
+								$('player-loading').style.visibility="hidden";
+								if ( $('top-notice') && !url.match(/^\/list\/tags/)) { e = new Effect.ScrollTo('top-notice', {duration: 0.3 }); } 
+					  			else if (!url.match(/^\/list\/tags/)) { e = new Effect.ScrollTo('header', {duration: 0.3 }); }
+							  },
+							  asynchronous: false, 
+							  evalScripts: true } 
+							);
+							
+				}
+			
+									set_ad_vars();
+	
+	  		    									
+								
+					
+
+				refresh_ads_new(); // only for logged in users
+						
+			}
+			
+			if(document.location.href.search('\\?forgot=1&email=') != -1) {
+				if(! $('box') ) { Lightbox.init(); }
+				key = document.location.href.replace(/.+key=/,'');
+				Lightbox.showBoxByAJAX('/inc/lb_reset_pw.php?key=' + key, 350, 250);
+			}
+					
+			rewrite_links();
+												
+		}
+		
+	}
+		
+	function check_hash_change() {
+		if (currentUrl != document.location.pathname + document.location.hash) {
+			currentUrl = document.location.pathname + document.location.hash;
+			update_page_contents();
+		}
+	}
+
+	function rewrite_links() { 
+	   	if (is_logged_in==1) {
+		  	$$("a[href^='/']").each(function(elt) { if (elt.href != document.location.href) { elt.onclick = handle_click; } });
+		  	$$("a[href^='http']").each(function(elt) { if (elt.href != document.location.href) { elt.onclick = handle_click; } });
+		} else {
+		  	$$("a[href^='/go']").each(function(elt) { if (elt.href != document.location.href) { elt.onclick = handle_click; } });
+		  	$$("a[href^='http']").each(function(elt) { if (elt.href != document.location.href) { elt.onclick = handle_click; } });
+		}
+    }
+    
+    function refresh_ads_new() {
+    
+    
+							bmQuery.bmLib.iab.writeAjax([
+									{ div : 'ad-leaderboard',
+										adConfig : {
+											siteIdentifier : 'buz.hypem',
+											zone : 'homepage',
+											sizes : ['728x90'],
+											position : '728a',
+											tile : '1'
+										}
+									},
+									{ div : 'ad-rectangle',
+										adConfig : {
+											siteIdentifier : 'buz.hypem',
+											zone : 'homepage',
+											sizes : ['300x250'],
+											position : '300a',
+											tile : '2'
+										}
+									},
+									{ div : 'ad-skyscraper',
+										adConfig : {
+											siteIdentifier : 'buz.hypem',
+											zone : 'homepage',
+											sizes : ['160x600'],
+											position : '160a',
+											tile : '3'
+										}
+									}
+								]);		
+	    
+    }
+    
+    function ga_pageview() {
+
+		var pv_addr;
+    
+    	// execute GA track
+	    try { 
+			pageTracker = _gat._getTracker("UA-97430-1"); 
+
+			if (document.location.href.search(/\/#\//)!=-1) { pv_addr = document.location.hash; pv_addr = pv_addr.replace(/#\//,'/');
+			} else { pv_addr = document.location.pathname; };
+			
+			pageTracker._trackPageview(pv_addr);
+			pageTracker._setVar('logged_out');
+		
+			
+	
+		} catch(err) {}
+
+		// execute reinvigorate
+//	    try {
+//			var re_name_tag = "";
+//			re_("518de-sa4m9103r7");
+//		} catch(err) {}
+	
+//		if(pSUPERFLY) { pSUPERFLY.virtualPage(pv_addr); }
+		
+		
+		// quantcast
+		try {
+			_qacct="p-f66q2dQu9xpU2";
+			quantserve();
+		} catch(err) {}
+		
+						
+    }
+	
+</script>
+
+<!-- Google A -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<!-- ReI -->
+<!-- <script type="text/javascript" src="http://include.reinvigorate.net/re_.js"></script>-->
+
+<!-- Start Hypem.com Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<!-- end -->
+
+</head>
+
+<body onload="if(! $('box') ) { Lightbox.init(); } return false;" id="about">
+
+<div id="player-container">
+    <div id="player-inner">
+    
+    <div id="player-page">
+    PLEASE CLEAR CACHE / UPDATE FLASH / DISABLE ADBLOCK
+    </div>
+	<div id="player-nowplaying"></div>
+	
+	<div id="player-links"></div>
+	
+	<div id="player-loading">
+	LOADING...
+	</div>
+	<div id="hypePlayer"><a href="http://www.adobe.com/products/flashplayer/">GET FLASH PLAYER</a></div>
+   	<div id="imeemPlayerWrapper"><div id="imeemPlayer"></div></div>
+   	<a href="#" onclick="prevTrack(this);return false;" id="playerPrev">Prev<span></span></a>
+	<a href="#" onclick="nextTrack(this);return false;" id="playerNext">Next<span></span></a>
+    </div>
+</div>
+
+<script type="text/javascript">
+
+	var flashvars = {
+		shuffle: "false",
+		repeat: "none",
+		skin: "http://static.hypem.net/h4_skin4.swf",
+		backcolor: '000000',
+		frontcolor: 'E7F8D3',
+		lightcolor: '0x84C441',
+		width: '257',
+		height: '32'
+	}
+	var params = {
+		allowscriptaccess: "always"
+	}
+	var attributes = {
+	  id: "hypePlayer",
+	  name: "hypePlayer",
+	  styleclass: "hypePlayer"
+	}
+	
+	swfobject.embedSWF('http://static.hypem.net/h4.swf', "hypePlayer", "257","32", "8.0.0", false, flashvars, params, attributes);
+
+	
+	
+</script>
+
+
+
+<!--[if lt IE 7]>
+<div id="wrapper">
+<![endif]-->
+
+
+
+
+ <div id="header">
+    <div id="header-inner">
+        <h1><a href="/" title="The Hype Machine: Music Blog Discussions">The Hype Machine: MP3 &amp; Music Blog Aggregator<span></span></a></h1>
+
+<!-- start ad-leaderboard -->
+	
+	<!-- this will be filled with JS -->
+    <div id="ad-leaderboard">
+	<script type="text/javascript">
+	      bmQuery.bmLib.iab.write({
+	            siteIdentifier : 'buz.hypem',
+	            zone : 'homepage',
+	            sizes : ['728x90'],
+	            position : '728a',
+	            tile : '1'
+	      });
+	</script>
+    </div>
+	 
+
+       <form action="/contact" method="post" name="ad_report_leaderboard" id="ad_report_leaderboard">
+               <input type="hidden" name="ad_position" id="ad_position_leaderboard" value="Top Leaderboard">
+               <input type="hidden" name="ad_code" id="ad_code_leaderboard" value="">
+               <a style="cursor:pointer;" onclick="
+       					if ($('ad-leaderboard')) { $('ad_code_leaderboard').value = $('ad-leaderboard').innerHTML; }
+       			if ($('ad-leaderboard-iframe')) { $('ad_code_leaderboard').value += 			$('ad-leaderboard-iframe').contentDocument.body.innerHTML; }
+       			document.ad_report_leaderboard.submit();
+		       "><img src="http://static.hypem.net/images/flag-ad.gif" width="96" height="5" alt="Flag Ad For Review"></a>  </form>
+<!-- end ad-leaderboard -->
+		
+        <ul class="menu">
+						<li id="menu-item-latest"><a href="/" title="Latest songs from music blogs">latest</a></li>
+            <li id="menu-item-popular"><a href="/popular" title="Most popular songs on Hype Machine">popular</a></li>
+            <li id="menu-item-twitter"><a href="/twitter/popular" title="Most popular songs on Twitter">twitter</a></li>
+            <li id="menu-item-radio"><a href="/radio" title="The Hype Machine Radio Show">radio show</a></li>
+            <li id="menu-item-spy"><a href="/spy" title="What users are playing right now">spy</a></li>
+            <li id="menu-item-zeitgeist"><a href="/zeitgeist/2009/" title="Best artists, albums and songs of the year">zeitgeist</a></li>
+           
+            <li id="filter" class="user-menu">
+							<a class="menu-signup" onclick="if(! $('box') ) { Lightbox.init(); } Lightbox.showBoxByAJAX('/inc/lb_signup.php', 320, 550);return false;" href="">create account</a>
+				<a class="menu-small" onclick="if(! $('box') ) { Lightbox.init(); } Lightbox.showBoxByAJAX('/inc/lb_login.php', 370, 200);return false;" href="">login</a>
+				        </li>
+        
+
+        </ul><!-- menu -->
+
+        <div id="search"> 
+            <form action="/search.php" method="get" onsubmit="LoadSearch(); return false;" name="searchform">
+ 			<input name="q" type="text" id="q" value="Artist or Track" size="20" onload="if (this.value=='Artist or Track') { this.style.color = '#999999'; }" onfocus="if (this.value=='Artist or Track') { this.value=''; this.style.color = '#000000'; }" onblur="if (this.value=='') { this.style.color = '#999999'; this.value='Artist or Track'; }" style="color: rgb(0, 0, 0);">
+            <input type="submit" id="g" value="Search Blogs">
+		  	</form>
+		 
+        </div><!-- search -->
+
+		<script type="text/javascript">document.getElementById('q').focus();</script>
+		
+        </div><!-- header-inner -->
+    </div><!-- header -->
+    
+<div id="content-wrapper">
+		
+        <div id="message">
+        		<p class="noplay">The Hype Machine follows music blog discussions<br>
+           <span>Every day, <a href="/list">thousands of people</a> around the world write about music they love — and it all ends up here.</span>
+		</p>
+		
+			
+		
+    	</div><!-- message -->
+
+<div id="container">
+<div id="content-left">
+
+<div id="subpage">
+	<h2>PRIVACY POLICY <span>Translate:  
+	<a title="Translate into French" href="http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&amp;langpair=en%7Cfr&amp;hl=en&amp;ie=UTF8"><img alt="FR" src="http://static0.hypem.net/images/fr.gif" border="0"></a>
+	<a title="Translate into German" href="http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&amp;langpair=en%7Cde&amp;hl=en&amp;ie=UTF8"><img alt="DE" src="http://static1.hypem.net/images/de.gif" border="0"></a>
+	<a title="Translate into Spanish" href="http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&amp;langpair=en%7Ces&amp;hl=en&amp;ie=UTF8"><img alt="ES" src="http://static0.hypem.net/images/es.gif" border="0"></a>
+	<a title="Translate into Italian" href="http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&amp;langpair=en%7Cit&amp;hl=en&amp;ie=UTF8"><img alt="IT" src="http://static3.hypem.net/images/it.gif" border="0"></a>
+	<a title="Translate into Portugese" href="http://www.google.com/translate?u=http%3A%2F%2Fhypem.com%2Fprivacy&amp;langpair=en%7Cpt&amp;hl=en&amp;ie=UTF8"><img alt="PT" src="http://static3.hypem.net/images/pt.gif" border="0"></a>
+</span></h2>
+<p>The Hype Machine Inc. ("Hype Machine") knows that you care about how your personal information is used and shared, and we take your privacy seriously.  Please read the following to learn more about our privacy policy.  By visiting the Hype Machine website located at http://hypem.com (the "Site"), you are accepting the practices outlined in this Privacy Policy.</p>
+<h3>What Does This Privacy Policy Cover?</h3>
+<p>This Privacy Policy covers the Hype Machine's treatment of personal information that the Hype Machine gathers when you are on the Site and when you use the Hype Machine's services (the "Services").  This policy also covers the Hype Machine's treatment of any personal information that the Hype Machine's business partners share with the Hype Machine.</p>
+<p>This policy does not apply to the practices of third parties that the Hype Machine does not own or control, or to individuals that the Hype Machine does not employ or manage.</p>
+
+<h3>What Personal Information About Customers Does The Hype Machine Collect?</h3>
+<p>Our primary goal in collecting personal information is to provide you with a friendly, customized, and efficient experience.  We collect the following types of information from our users:</p>
+
+<h3>Information You Provide to Us</h3>
+<p>We receive and store any information you enter on the Site or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our Site's features.  The personal information you provide is used for such purposes as responding to your requests for certain services, customizing the content and advertising you see, and communicating with you about specials, surveys and new products and services.  In order for you to use our Site, you are not required to register; however, you must register to take advantage of certain features of the Site, such as bookmarking favorites and other information to appear on your dashboard and receiving e-mail newsletters from us.  To register, you must provide your e-mail address, a username and a password.  We may also request demographic information and unique identifiers in order to provide you with a more personalized service, but this information is optional. You may also provide us with your e-mail address to be notified when new merchandise is available on the Site. If you wish to purchase merchandise from our Site, you must disclose certain billing and shipping information to our third-party service providers, including your name, address and information about your method of payment.</p>
+
+<h3>Automatic Information</h3>
+<p>We receive and store certain types of information whenever you interact with us.  The Hype Machine automatically receives and records certain "traffic data" on our server logs from your browser including your IP address, Hype Machine cookie information, and the page you requested.  Hype Machine uses this traffic data to help diagnose problems with its server, analyze trends and administer the Site.</p>
+<p>Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our Site and its components, similar to TV ratings that indicate how many people watched a particular show.  This data is only used in the aggregate.  This type of collective data enables us to figure out how often customers use parts of the Site, so we can make the Site appealing to as many users as possible.  In addition, we may provide statistical information, not information about you personally, to our partners about how our users, collectively, use our Site.   We share this type of statistical data so that our partners also understand how often people use their areas and our Site, so that they, too, may provide you with an optimal web experience.</p>
+
+<h3>E-mail Communications</h3>
+<p>We may receive a confirmation when you open an e-mail from the Hype Machine if your computer supports this type of program, in order to help us make e-mails more interesting and helpful. We also send out e-mails with news or promotions.  If you do not want to receive e-mail from us, please contact us at privacy@hypem.com.</p> 
+
+<h3>Information From Other Sources</h3>
+<p>For purposes such as improving personalization of our service, we may receive information about you from other sources and add it to our account information.  Like the information you provide to us, we do not share this information with anyone except authorized third parties in connection with providing you with our Service. We may also receive delivery and address information from our shippers or other sources to facilitate delivery of your purchases.</p>
+ 
+<h3>What about Cookies?</h3>
+<p>Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our Site are visited and by how many people.  Hype Machine cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your username or e-mail address is.</p>
+<p>The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies.  We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of the Hype Machine's most attractive features.</p>
+<p>Some of our business partners may use cookies on our Site (for example, advertisers).  However, we have no access to or control over these cookies.</p>
+
+<h3>Will Hype Machine Share Any of the Information it Receives?</h3>
+<p>Information about our users is an integral part of our business.  We neither rent nor sell your personal information to anyone.  We share your personal information only as described below.</p>
+
+<h3>Affiliated Business We Do Not Control</h3>
+<p>In certain situations, the Hype Machine may provide services, or sell products jointly with affiliated businesses, including on the Site.  We will share customer information that is related to such transactions with that affiliated business. We require our affiliates to provide the same level of privacy protection that we do and they do not have the right to share or use personal information for any purpose other than for an authorized transaction.</p>
+
+<h3>Agents</h3>
+<p>We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you.  Examples include billing users who purchase merchandise from the Hype Machine, shipping and delivering merchandise, analyzing data, providing marketing assistance, and providing customer service.  Our agents subscribe to the same level of privacy protection as we do. Unless we tell you differently, the Hype Machine's agents do not have any right to use the personal information we share with them beyond what is necessary to assist us.</p>
+
+<h3>Promotional Offers</h3>
+<p>We may send offers to certain customers on behalf of other businesses.  However, when we do so, we do not give the other business your name and address.  If you do not wish to receive these offers, please contact us at privacy@hypem.com.</p>
+
+<h3>Business Transfers</h3>
+<p>In some cases, we may choose to buy or sell assets.  In these types of transactions, customer information is typically one of the business assets that is transferred.  Moreover, if the Hype Machine, or substantially all of its assets, were acquired, customer information would be one of the assets that is transferred.</p>
+
+<h3>Protection of The Hype Machine and Others</h3>
+<p>We may release personal information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of the Hype Machine, our employees, our users, or others.  The Hype Machine may disclose personal information to parties in compliance with the Hype Machine's Copyright Policy, as the Hype Machine in its sole discretion believes necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. In such events, the Hype Machine may disclose name, street address, city, state, zip code, country, phone number, and e-mail address.</p>
+
+<h3>With Your Consent</h3>
+<p>Except as set forth above, you will be notified when your personal information may be shared with third parties.</p> 
+ 
+
+<h3>Is Information About Me Secure?</h3>
+<p>Your Hype Machine account information is protected by a password for your privacy and security.  You need to work to protect against unauthorized access to your password and to your computer by signing off once you have finished using a shared computer.</p>
+<p>Only employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it.  All of our employees are kept up to date on our privacy and security practices.</p>
+ 
+<h3>What Information Can I Access?</h3>
+<p>The Hype Machine allows you to access the following information about you for the singular purpose of viewing, and in certain situations, updating that information.</p>
+<p>You are able to add or update certain information. When you update information, however, we often maintain a copy of the unrevised information in our records.</p>
+<p>You may request deletion of your Hype Machine account by sending an e-mail to support@hypem.com.  Please note that some information may remain in our records after deletion of your account.</p>
+<p>If you do not wish to receive e-mail or other mail from us, please e-mail us at privacy@hypemachine.com.  Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Site, and you are responsible for reviewing such legal notices for changes.</p>
+<p>As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if do not allow cookies, you will not be able to take advantage of some of our features.</p>
+<p>As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain Hype Machine features.</p>
+ 
+<h3>Can Children Use Hype Machine's Services?</h3>
+<p>Hype Machine is not intended for children.  If you are under 18, you may use the Site only with involvement of a parent or guardian.</p>
+
+<h3>Conditions of Use</h3>
+<p>If you decide to visit the Site, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of New York state law.</p>
+
+<h3>Third Party Sites</h3>
+<p>The Site may permit you to link to other websites on the Internet, and other websites may contain links to the Site.  These other websites are not under Hype Machine's control.  The privacy and security practices of websites linked to or from the Site are not covered by this Privacy Policy, and Hype Machine is not responsible for the privacy or security practices or the content of such websites.</p>
+
+<h3>Changes to this Privacy Policy</h3>
+<p>Hype Machine may amend this Privacy Policy.  Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.  If we make changes to our privacy policy, we will notify you by posting an announcement on our Site so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.</p>
+
+<h3>Questions or Concerns</h3>
+<p>If you have any questions or concerns regarding privacy at Hype Machine, please send us a detailed message to privacy@hypem.com or to The Hype Machine Inc., 2165 Brigham Street, # 3F, Brooklyn, NY 11229.  Your privacy is important to us and we will make every effort to resolve your concerns.</p>
+ 
+    
+    </div>
+    </div><!-- content-left -->
+    
+    <div id="content-right">
+
+	</div>
+	
+	<script type="text/javascript">setup_player_bar();</script>
+	<script type="text/javascript">ga_pageview();</script>
+
+<!-- quantcast pixel -->
+<noscript><a href="http://www.quantcast.com/p-f66q2dQu9xpU2" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-f66q2dQu9xpU2.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
+<!-- end quantcast pixel -->
+
+	
+</div> <!-- container -->
+
+<!-- PAGE TOTAL: 0.002s --><br style="clear:both" id="content-spacer">
+<!--<div id="blogframe-container" style="display:none"><br style="clear:both" id="content-spacer" /></div>-->
+<!--<iframe src="http://google.com" width="975" height="460" id="blogframe"></iframe>-->
+
+</div><!-- content-wrapper -->
+<div id="footer">
+<div id="footer-inner">
+
+        <ul class="menu">
+						<li><a href="/">latest</a></li>
+			<li><a href="/popular">popular</a></li>
+			<li><a href="/twitter">twitter</a></li>
+            <li><a href="/radio/">radio show</a></li>
+            <li><a href="/spy">spy</a></li>
+            <li><a href="/zeitgeist/2009/">zeitgeist</a></li>
+            <li class="user-menu">
+            
+            <a href="/list">blog list</a>
+            <a href="/badge">badges</a>
+            <a href="http://merch.hypem.com/">merch</a>
+            <a href="http://blog.hypem.com">our blog</a>
+            <a href="/about">about</a>
+            <a class="user" href="/contact">contact</a>
+            
+            </li>
+		
+        </ul><!-- menu -->
+	
+
+<p>
+© 2005-2010 The Hype Machine Inc. is <a href="http://non-standard.net" title="Anthony Volodkin">Anthony</a>, <a href="http://go.gtmcknight.com" title="Taylor McKnight">Taylor</a>, <a href="http://exxaggerrated.com" title="Zoya Feldman">Zoya</a>, <a href="http://scottkidder.com/" title="Scott Kidder">Scott</a>, and <a href="http://mindhole.org">Arkadiy</a>.  <abbr title="better together">лучше вместе</abbr>. <br>
+<a href="/contact">Contact us</a>, we love to hear from you!  You may also like <a id="random" href="http://hypem.com/random">this</a> <br>
+<a href="/terms">Terms of Use</a> • <a href="/privacy">Privacy Policy</a> • 
+The Hype Machine is a member of BUZZMEDIA Music, a division of BUZZMEDIA. <a href="http://buzz-media.com/about/" target="_new">Advertise</a><br>
+
+<a href="/download/">mp3 download</a> instead of rapidshare, mediafire, yousendit (ysi) or torrent
+<br><br>
+	<br><br>
+	</p></div><!-- footer-inner -->
+</div><!-- footer -->
+
+<script type="text/javascript">
+	update_page_contents(); // this is run when / is loaded for the first time
+</script>
+
+<!--[if lt IE 7]>
+</div><!-- wrapper -->
+<!--[endif]---->
+
+<script src="http://Hypem.tags.crwdcntrl.net/cc.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0010/9141.js"> </script>
+
+
+
+
+</body></html>
