@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swansea-union.co.uk privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106075632id_/http%3A//www.swansea-union.co.uk/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swansea-union.co.uk privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507162551id_/http%3A//www.swansea-union.co.uk/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Swansea SU Students Union - The Home for Swansea SU University Students
 
