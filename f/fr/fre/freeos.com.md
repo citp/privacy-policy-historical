@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeos.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221062906id_/http%3A//freeos.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeos.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507180104id_/http%3A//freeos.com/privacy.php) for the most accurate reproduction.*
 
 # FreeOS.com - Ethics and Privacy Statement
 
