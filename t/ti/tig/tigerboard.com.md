@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tigerboard.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106070500id_/http%3A//www.tigerboard.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerboard.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507122033id_/http%3A//www.tigerboard.com/privacy.php) for the most accurate reproduction.*
 
-# TigerBoard.com :: Where Mizzou Fans Talk
+# Missouri Tigers Athletics :: Mizzou Sports :: TigerBoard.com :: Where Mizzou Fans Talk
 
 Tigerboard.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
