@@ -1,0 +1,319 @@
+<!--The following is the downloaded HTML source of the kseny.com privacy policy that was archived on 2010-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100507020124id_/http%3A//www.kseny.com/directory/privacypolicy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>KSENY Directory&nbsp;- Privacy Policy  </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="/directory/templates/Chrome/style/main.css">
+<meta name="keywords" content="Privacy Policy">
+<meta name="description" content="Privacy Policy">
+<meta name="author" content="KSENY Directory Services">
+<meta name="copyright" content="Copyright (c) 2009 by KSENY Directory. All rights reserved!">
+<meta name="robots" content="robots.txt">
+<meta name="generator" content="PHP Link Directory 4.0.0">
+<!--  
+<script type="text/javascript" src="/directory/libs/moodalbox/js/mootools.js"></script>
+<script type="text/javascript" src="/directory/libs/moodalbox/js/moodalbox.js"></script>
+<link rel="stylesheet" href="/directory/libs/moodalbox/css/moodalbox.css" type="text/css" media="screen" />
+-->
+<!--[if IE]>
+<link rel="stylesheet" href="/directory/templates/Chrome/style/ie.css" type="text/css" media="all" />
+<![endif]-->
+<!--[if IE 8.000]><!-->
+<link rel="stylesheet" href="/directory/templates/Chrome/style/ie8.css" type="text/css" media="all">
+<!--<![endif]-->
+</head>
+<body><script type="text/javascript">
+
+
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+      document.getElementById('slide').style.marginTop = eval(height+7)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
+
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-7)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
+
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
+
+function ajaxFunction()
+{
+
+var xmlHttp;
+
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+      }
+    }
+   var url = "http://www.kseny.com/directory/update_session.php";
+
+   xmlHttp.open("POST", url, false);
+   xmlHttp.setRequestHeader( 
+    'Content-Type', 
+    'application/x-www-form-urlencoded; charset=UTF-8' 
+); 
+   xmlHttp.send('url='+window.location);
+  }
+</script>
+
+<div id="wrapperall">
+<div id="panel" style="z-index: -1;">
+<form method="post" action="/directory/login.php" onsubmit="ajaxFunction();">
+<table border="0" align="center" width="40%" style="padding-top: 10px; padding-bottom: 10px; z-index: -1;height: 0px;" id="panel_table">
+<tbody><tr>
+</tr>
+<tr>
+<td>User:</td>
+<td>
+<input type="text" name="user" value="" size="20" maxlength="25" class="text">
+</td>
+<td>Password:</td>
+<td>
+<input type="password" name="pass" value="" size="20" maxlength="25" class="text">
+</td>
+<td><input type="submit" name="submit" value="Login" class="btn"></td>
+</tr>
+<tr>
+<td colspan="5" style="text-align: left;">
+<input type="checkbox" name="rememberMe">&nbsp;&nbsp; Keep me logged in.
+</td>        
+</tr>
+<tr>
+<td colspan="5" style="text-align: right;">
+<a href="/directory/profile.php?mode=register" title="Register">Register</a>
+&nbsp;|&nbsp;
+<a href="/directory/profile.php?mode=sendpassword" title="Recover your password">I forgot my password</a>
+</td>
+</tr>
+</tbody></table>
+</form>
+</div>            	</div>
+<div id="wrapperall">
+<div id="wrapperBg">
+<div id="wrapperBottom">
+<div id="wrapperTop">
+<div id="wrapperLeft">
+<div id="wrapperRight">
+<div id="slide" class="slide" style="z-idex: 100; margin-top: 0px;">
+<div id="search">
+<label>Search: </label>
+<form action="/directory/index.php" method="get" style="float: left; margin: 0px; padding: 0px">
+<div id="inputleft"></div><input type="text" value="" name="search"><div id="inputright"></div>
+<button type="submit"></button>
+</form>
+<a href="/directory/search.php?type=advanced" title="Go to advanced search page" accesskey="4" rel="nofollow">Advanced<br>Search</a>
+<div id="loginsplit"></div>
+</div>
+</div>
+<div id="header">
+<img src="/directory/templates/Chrome/images/logo.gif" alt="">
+</div>
+<script type="text/javascript">
+
+var view1 = 0;
+var view2 = 0;
+
+</script><div id="menu"><ul><li><div class="split"></div></li><li><a href="" onclick="return false;" onmouseover="document.getElementById('bar1').style.display='block';" onmouseout="if(view1==0) document.getElementById('bar1').style.display='none';"><span class="dropdown">Submit</span></a><div id="bar1" style="display: none;" onmouseover="this.style.display='block'; view1++;" onmouseout="this.style.display='none';  view1--;"><a href="/directory/submit.php">»&nbsp;&nbsp;Link</a><br><a href="/directory/submit_article.php" style="border-top: 1px dotted #A4A4A4;">»&nbsp;&nbsp;Article</a></div></li><li><div class="split"></div></li><li><div class="split"></div></li><li><div class="split"></div></li><li><a href="/directory/contact.php">Contact</a></li><li><div class="split"></div></li><li><div class="split"></div></li></ul></div><div id="content"><div id="sideleft" style="width: 215px;">
+<div class="title">
+<div class="titleLeft"></div>
+<div class="titleBgside">
+<div class="titleIcon1">Latest articles</div>
+</div>
+<div class="titleRight"></div>
+</div>
+<div style="clear: both;"></div>
+<div class="sidecateg">
+<div class="boxSponsored">
+<a class="boxSponsoredA" href="/directory/articles/article-271.html" title="Document Scanning | Document Scanning Services">
+Document Scanning | Document Scanning Services
+</a>
+<br>
+"Document Scanning India-Document Scanning Services India-Data Capture Services
+<br><br>
+</div>
+<div class="boxSponsored">
+<a class="boxSponsoredA" href="/directory/articles/article-270.html" title="North Myrtle Beach Rental Homes">
+North Myrtle Beach Rental Homes
+</a>
+<br>
+By using internet, you can easily take a virtual tour of various North Myrtle Beach Rental Homes and choose the one that is best suited for your needs.
+<br><br>
+</div>
+<div class="boxSponsoredLast">
+<a class="boxSponsoredA" href="/directory/articles/article-269.html" title="Photoshop wallpapers">
+Photoshop wallpapers
+</a>
+<br>
+Photoshop Zabava tutor na srpskom hrvatskomijali
+<br><br>
+</div>
+</div>				<div class="title">
+<div class="titleLeft"></div>
+<div class="titleBgside">
+<div class="titleIcon1">Latest links</div>
+</div>
+<div class="titleRight"></div>
+</div>
+<div style="clear: both;"></div>
+<div class="sidecateg">
+<ul class="boxPopCats">
+<li>
+<a href="                                            /directory/detail/link-32585.html" title="Read more about: Variable database printing solutions">Variable database printing ...</a>
+</li>
+<li>
+<a href="                                            /directory/detail/link-32584.html" title="Read more about: Langara Fishing">Langara Fishing</a>
+</li>
+<li>
+<a href="                                            /directory/detail/link-32583.html" title="Read more about: Acer Laptops">Acer Laptops</a>
+</li>
+<li>
+<a href="                                            /directory/detail/link-32582.html" title="Read more about: Fishing Trips Canada">Fishing Trips Canada</a>
+</li>
+<li>
+<a href="                                            /directory/detail/link-32577.html" title="Read more about: Buy Cheap Dehumidifiers">Buy Cheap Dehumidifiers</a>
+</li>
+</ul>
+</div>				<div class="title">
+<div class="titleLeft"></div>
+<div class="titleBgside">
+<div class="titleIcon1">Info Pages</div>
+</div>
+<div class="titleRight"></div>
+</div>
+<div style="clear: both;"></div>
+<div class="sidecateg">
+<ul class="boxPopCats">
+<li>
+<a href="/directory/aboutus.html" title="About Us">About Us</a> 
+</li>
+<li>
+<a href="/directory/disclaimer.html" title="Disclaimer">Disclaimer</a> 
+</li>
+<li>
+<a href="/directory/privacypolicy.html" title="Privacy Policy">Privacy Policy</a> 
+</li>
+<li>
+<a href="/directory/Terms_and_Conditions.html" title="Terms and Conditions">Terms and Conditions</a> 
+</li>
+</ul>
+</div>		<script type="text/javascript" language="JavaScript" src="http://xslt.alexa.com/site_stats/js/s/a?url=www.kseny.com"></script>
+</div>
+<div id="main"><div class="path"><a href="/directory/" id="firstPath">KSENY Directory</a><span>Privacy Policy</span></div><table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc"><p><span style="color: #3366ff;"><strong> Directory Services Privacy Policy</strong></span><br><br>The privacy of our clients is of utmost importance to  Directory Services.<br><br>If you have any questions about our privacy policy, or if you wish to update information we hold about you or you wish to make a related complaint or to receive a copy of our current Privacy Policy Statement, please email us on <em><strong>directory@gmx.us.</strong></em> This e-mail address is being protected from spambots. You need JavaScript enabled to view it<br><br><strong><br><span style="color: #3366ff;">Types of Personal Information we collect</span></strong><br><br>The types of personal information that we collect from you will depend on the circumstances of collection and on the type of service you request from us.<br><br>For the directory service order, we would generally require your name, address, telephone number etc., which would be stored in your individual profile. In some instances we will also require your credit card details and other information.<br><br><span style="color: #3366ff;"><strong>Why we collect personal information</strong></span><br><br>Generally we collect, update and use personal information about you to allow us to transact business on your behalf.<br><br>We may choose to add your details to our database for the purpose of directing opportunities to your attention. At any time, if you do not wish to continue receiving this information, you can inform us by the email and your details will be removed.<br><br><span style="color: #3366ff;"><strong>How we collect personal information</strong></span><br><br>Generally, we collect personal information directly from you. We may collect and update that information over the Internet by correspondence.<br><br><span style="color: #3366ff;"><strong>How we store information</strong></span><br><br>We store personal information in a combination of secure computer storage facilities. We have taken a number of steps to protect the personal information we hold from misuse, loss and unauthorised access, modification or disclosure.<br><br>We also take reasonable steps to destroy or permanently de-identify personal information when we no longer need it.<br><br><strong><span style="color: #3366ff;">When we may disclose your personal information</span><br></strong><br>Because your privacy is important we will not disclose your personal information without your consent.<br><br>However we may disclose personal information about you in the following circumstances:<br><br>* Where our business partners need to provide you with information and offers about products and services.<br><br><span style="color: #3366ff;"><strong>Access to personal information</strong></span><br><br>We will take reasonable steps to ensure that the personal information we collect, use or disclose is accurate, complete and up-to-date. If your personal details change, please contact us so that we can continue to provide you with our products and services.<br><br>We undertake to promptly acknowledge and investigate any complaints about the way we manage personal information.<br><br><span style="color: #3366ff;"><strong>About this Privacy Policy Statement</strong></span><br><br>We may update our policies and this Privacy Policy Statement from time to time. The latest version is published on our website.<br><br><span style="color: #3366ff;"><strong>Contact us</strong></span><br><br>If you have any questions about this policy, or wish to update information we hold about you, make a related complaint, or to receive a copy of our current Privacy Policy Statement, please email us on <em><strong>directory@gmx.us.</strong></em></p></td></tr><tr><td></td></tr></tbody></table>
+<div style="clear: both"></div></div><div id="sideright" style="width: 215px;">
+<div class="title">
+<div class="titleLeft"></div>
+<div class="titleBgside">
+<div class="titleIcon1"></div>
+</div>
+<div class="titleRight"></div>
+</div>
+<div style="clear: both;"></div>
+<div class="sidecateg">
+<div style="width: 160px; height: 600px; margin: 0px auto;">
+<script type="text/javascript">
+<!--
+google_ad_client = "pub-1166635054568324";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_type = "text";
+
+google_color_border = "000000";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "008000";
+//-->
+
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+</div>				<div class="title">
+<div class="titleLeft"></div>
+<div class="titleBgside">
+<div class="titleIcon1">Statistics</div>
+</div>
+<div class="titleRight"></div>
+</div>
+<div style="clear: both;"></div>
+<div class="sidecateg">
+<ul class="boxStats">
+<li><strong>Active Links:</strong> 25785</li>
+<li><strong>Pending Links:</strong> 572</li>
+<li><strong>Todays Links:</strong> 47</li>
+<li><strong>Active Articles:</strong> 261</li>
+<li><strong>Pending Articles:</strong> 6</li>
+<li><strong>Todays Articles:</strong> 0</li>
+<li><strong>Sub Categories:</strong> 671</li>
+</ul>
+
+</div>		</div>
+<p></p>
+<center>
+<script language="JavaScript" type="text/javascript">
+<!--
+// current date - from http://rainbow.arch.scriptmania.com/scripts
+// Array of day names
+var dayNames = new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
+
+var monthNames = new Array("January","February","March","April","May","June","July",
+                           "August","September","October","November","December");
+
+var dt = new Date();
+var y  = dt.getYear();
+
+// Y2K compliant
+if (y < 1000) y +=1900;
+
+document.write(dayNames[dt.getDay()] + ", " + monthNames[dt.getMonth()] + " " + dt.getDate() + ", " + y);
+// -->
+</script>Friday, January 31, 2020
+</center>
+</div><div id="footer" style="margin-top: 20px;"><div id="footercontent"><a href="http://www.phplinkdirectory.com" title="PHP Link Directory" target="_blank">PHPLD</a>|<a href="http://www.f2cont.com/" title="F2CONT Directory" target="_blank">F2</a>|<a href="http://www.neibban.com/" title="Neibban Directory" target="_blank">Nb</a>|<a href="http://www.allthaishop.com/" title="AllThaiShop" target="_blank">At</a>|<a href="http://www.dir2dir.net/" title="Dir2DirNet Directory" target="_blank">Dn</a>|<a href="http://www.dir2dir.com/" title="Dir2DirCom Directory" target="_blank">Dc</a>|<a href="http://www.kseny.com/" title="KSENY Directory" target="_blank">Ks</a>|<a href="http://www.nwlcc.com/" title="NWLCC Directory" target="_blank">Nw</a>|<a href="http://www.seolt.com/" title="SEOLT Directory" target="_blank">St</a>|<a href="http://www.rurfc.com/" title="RURFC Directory" target="_blank">Ru</a>|<a href="http://www.veprim.com/" title="VEPRIM Directory" target="_blank">Vp</a>|<a href="http://www.travelcosy.com/" title="Travelcosy Directory" target="_blank">Tc</a>|<a href="http://www.jiggoh.com/" title="JIGGOH Directory" target="_blank">Ji</a>|<a href="http://www.trulyn.com/" title="TrulyN Directory" target="_blank">Tr</a>|<a href="http://www.dir2dir.org/" title="Dir2DirOrg Directory" target="_blank">Do</a>|<a href="http://www.dir2dir.biz/" title="Dir2DirBiz Directory" target="_blank">Db</a>|<a href="http://www.myanmararchives.com/" title="Myanmar Archives and Database" target="_blank">Mr</a>|<a href="http://www.helpdesksys.com/" title="HelpDeskSys Directory" target="_blank">Hd</a>|<a href="http://www.usadir.org/" title="USA Directory" target="_blank">US</a>|<a href="http://www.arkansasdir.com/" title="Arkansas Directory" target="_blank">AR</a>|<a href="http://www.californiadir.com/" title="California Directory" target="_blank">CA</a>|<a href="http://www.connecticutdir.com/" title="Connecticut Directory" target="_blank">CT</a>|<a href="http://www.delawaredir.com/" title="Delaware Directory" target="_blank">DE</a>|<a href="http://www.georgiadir.com/" title="Georgia Directory" target="_blank">GA</a>|<a href="http://www.illinoisdir.com/" title="Illinois Directory" target="_blank">IL</a>|<a href="http://www.iowadir.com/" title="Iowa Directory" target="_blank">IA</a>|<a href="http://www.kentuckydir.com/" title="Kentucky Directory" target="_blank">KY</a>|<a href="http://www.louisianadir.com/" title="Louisiana Directory" target="_blank">LA</a>|<a href="http://www.marylanddir.com/" title="Maryland Directory" target="_blank">MD</a>|<a href="http://da.ngero.us/" title="Dangerous Directory" target="_blank">Da</a>|<a href="http://directory.goldenlandpages.com/" title="Goldenlandpages Directory" target="_blank">Go</a>|<a href="http://www.stroal.com/" title="STROAL Directory" target="_blank">Sr</a>|<a href="http://www.emyanmar.org/" title="eMyanmar Directory" target="_blank">e</a></div></div></div></div></div></div></div>&nbsp;</div></body></html>
