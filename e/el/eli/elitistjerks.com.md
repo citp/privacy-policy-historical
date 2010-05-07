@@ -1,20 +1,13 @@
-> *The following text is extracted and transformed from the elitistjerks.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107204753id_/http%3A//elitistjerks.com/faq.php%3Ffaq%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitistjerks.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507205211id_/http%3A//elitistjerks.com/faq.php%3Ffaq%3Dprivacy) for the most accurate reproduction.*
 
 # Elitist Jerks - FAQ: Privacy Statement
 
-| 
-
-[](http://elitistjerks.com/)
-
   
   
   
-| Welcome to Elitist Jerks  
+Welcome to Elitist Jerks  
 ---  
-We're testing some new features on the site regarding OpenID registration and coordination with gamerDNA. If you experience any issues with registering an account, please take the time to fill out a report and [**send it to this e-mail address**](mailto:openid@elitistjerks.com?subject=OpenID%20Support%20Request). We would appreciate any assistance you could provide in making sure everything is functioning as intended. Thanks!
-
-If this is your first visit, please be sure to check out the [**FAQ**](https://web.archive.org/faq.php?faq=vb_faq#faq_forumrules) and the [**forum rules**](https://web.archive.org/misc.php?do=cfrules). Users must [**register**](https://web.archive.org/web/20091107204753id_/http%3A//elitistjerks.com/register.php) to post and new registrations are subject to a one day "mute" period to get acquainted with the community.   
-  
+If this is your first visit, please be sure to check out the [**FAQ**](https://web.archive.org/faq.php?faq=vb_faq#faq_forumrules) and the [**forum rules**](https://web.archive.org/misc.php?do=cfrules). Users must [**register**](https://web.archive.org/web/20100507205211id_/http%3A//elitistjerks.com/register.php) to post and new registrations are subject to a one day "mute" period to get acquainted with the community.   
   
   
 Information Collection and Use  
@@ -52,5 +45,6 @@ Elitist Jerks takes every precaution to protect users' information. When users s
 Questions?  
 ---  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us via e-mail to [admin@elitistjerks.com](mailto:admin@elitistjerks.com).  
+  
   
 
