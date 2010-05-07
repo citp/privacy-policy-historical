@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the taste.com.au privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103142732id_/http%3A//www.taste.com.au/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taste.com.au privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507080827id_/http%3A//www.taste.com.au/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy - Taste.com.au
 
-[Taste.com.au](http://www.taste.com.au/) Privacy Policy statement was last updated: May 13, 2009
+[Taste.com.au](http://www.taste.com.au/) Privacy Policy statement was last updated: April 7, 2010
 
 This statement has been produced with reference to the guidelines set out by the Office of the Federal Privacy Commissioner, Australia. For more information visit: [www.privacy.gov.au](http://www.privacy.gov.au/)
 
@@ -12,6 +12,7 @@ This policy statement will address the following:
 
   * The types of information we collect
   * How we use or disclose the information we collect
+  * Use of Aggregate Data
   * The quality and security of the information we hold
   * Your access to the information we hold
   * Transborder (interstate and international) data movement
@@ -51,6 +52,20 @@ Any personally identifiable information you provide will only be provided to thi
 
 
 
+## Use of Aggregate Data
+
+We may collect and use certain non-personal information (e.g., the identity of  
+your Internet browser, the type of operating system you use, your IP address and  
+the domain name of your Internet service provider) to optimise our goods and  
+services (which may include the display of personalised content and advertising)  
+ including our Web pages for your computer. 
+
+ Taste.com.au may use personally identifiable information in aggregate form to  
+improve our goods and services including our Web sites and make them more responsive to the  
+needs of our customers. This statistical compilation and analysis of information  
+may also be used by News or provided to others as a summary report for  
+marketing, advertising or research purposes.
+
 ## The quality and security of the information we hold
 
 Any information you provide to us is stored and held under generally accepted standards of technology and operational security in order to protect your personally identifiable information from loss, misuse, alteration, or destruction. Only authorised personnel are provided access to personally identifiable information and these personnel are required to treat this information as confidential. Despite these precautions, we cannot guarantee absolutely that any and all unauthorised access to your personally identifiable information will be prevented.
@@ -77,7 +92,7 @@ We understand the importance of protecting the privacy of children, especially i
 
 ## User Agreement
 
-Users of this website are also bound by the conditions of the Taste.com.au [user agreement](https://web.archive.org/web/20091103142732id_/http://taste.com.au/forums/viewtopic.php?t=2).
+Users of this website are also bound by the conditions of the Taste.com.au [user agreement](https://web.archive.org/forums/viewtopic.php?t=2).
 
 ## How to contact us for more information
 
