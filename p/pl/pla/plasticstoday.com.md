@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plasticstoday.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105194419id_/http%3A//www.plasticstoday.com/node/15827) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plasticstoday.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507141826id_/http%3A//www.plasticstoday.com/node/15827) for the most accurate reproduction.*
 
 # Privacy Policy | PlasticsToday.com
 
