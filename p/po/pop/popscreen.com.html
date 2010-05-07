@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the popscreen.com privacy policy that was archived on 2009-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091228005258id_/http%3A//www.popscreen.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the popscreen.com privacy policy that was archived on 2010-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100507163543id_/http%3A//www.popscreen.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <!-- PAGE META DATA STARTS HERE !-->
@@ -18,6 +18,9 @@
 <link rel="stylesheet" type="text/css" media="all" href="http://www.popscreen.com/css/stylesheet.php?p=feedback/feedback.css">
 <link rel="stylesheet" type="text/css" media="all" href="http://www.popscreen.com/css/stylesheet.php?p=invite/invite.css">
 
+
+
+
 <script src="http://www.popscreen.com/js/jsconfig.php" language="javascript"></script> <!-- This file must be included to use global paths in javascript files !-->
 <script src="http://www.popscreen.com/js/global/jquery/jquery.js" language="javascript"></script>
 <script src="http://www.popscreen.com/js/global/jquery/jquery_ui.js" language="javascript"></script>
@@ -29,9 +32,44 @@
 <script src="http://www.popscreen.com/js/home/home.js" language="javascript"></script>
 <script src="http://www.popscreen.com/js/login/login.js" language="javascript"></script>
 
+	<link rel="stylesheet" type="text/css" media="all" href="http://www.popscreen.com/site-css/stylesheet.php?p=fbsignup/fbsignup.css">
+	<link rel="stylesheet" type="text/css" media="all" href="http://www.popscreen.com/site-css/stylesheet.php?p=fblogin/buttons.css">
 
-</head>
-<body onkeyup="whichButton(event,'MYPS')">
+	<script src="http://static.new.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+	<script>
+	/*FB.Bootstrap.requireFeatures(["Connect"], function() {
+		FB.Facebook.init("7846cb1567e154b0c4490cc80bfab542", "http://www.popscreen.com/xd_receiver.htm");
+	});
+	*/
+	function initFB() {
+		FB_RequireFeatures(["XFBML"], function(){
+			FB.init("7846cb1567e154b0c4490cc80bfab542", "http://www.popscreen.com/xd_receiver.htm");
+						session = FB.Facebook.apiClient.get_session();
+			if (!session) {
+				
+			} else {
+				var fb_uid = session.uid;
+				var session_key = session.session_key;
+				
+				var pageName = AJAX_PATH+'makerequest.php';
+				var parameters = 'pname=updateFbSessionKey&session_key='+session_key+'&fb_uid='+fb_uid;
+				jQuery.ajax({
+					type:	"POST",
+					url:	pageName,
+					data:	parameters,
+					success: function(result)
+					{
+					}
+				});
+			
+			}
+
+		});
+	}
+	</script>
+	<script src="http://www.popscreen.com/js/facebook/fbconnect.js" language="javascript"></script>
+	</head>
+<body onkeyup="whichButton(event,'MYPS')" onload="initFB();">
 <!--OVERALL HEADER !-->
 <div class="container_12" id="contentContainer">
 <a href="javascript:;" id="feedback-pull" onclick="showfeedback()">Feedback</a>
@@ -40,6 +78,7 @@
 
 
 <div id="header">
+
 	<h1><a href="http://www.popscreen.com/home" title="">Popscreen - Video's worth watching</a></h1>
 	<div id="siteSearch" class="grid_5">
 		<form id="frmSiteSearch" action="http://www.popscreen.com/search" method="get" onsubmit="return chksearchvalue();">
@@ -61,8 +100,8 @@
 		<div style="width:177px; height:50px;">
 			<div style="float:left; width:173px; height:75px; border-bottom:1px solid #676767; border-left:1px solid #676767; border-right:1px solid #676767;">
 			
-			<div id="globalVidesOuter" class="globalSearchfield VideosGlobalSearchSelected ">
-					<div class="graytext14 globalSearchDivtext globalSearchText  " id="globalVides">Videos</div><span id="tickimage">&nbsp;</span>
+			<div id="globalVidesOuter" class="globalSearchfield VideosGlobalSearch ">
+					<div class="graytext14 globalSearchDivtext   " id="globalVides">Videos</div><span id="tickimage">&nbsp;</span>
 				</div>
 			
 					<div class="globalSearchfield LiveShowGlobalSearch" id="globalLiveShowsOuter">
@@ -112,6 +151,8 @@
 					<li id="navNotSelectedNoBorder" class="navPopchartsSelected"><a href="http://www.popscreen.com/popcharts/videos" title="">PopCharts</a></li>
 							<li id="navNotSelected" class="navLoginSelected"><a href="javascript:;" title="Sign Up" onclick="window.location='http://www.popscreen.com/join';">Sign Up</a></li>
 				<li id="navNotSelected" class="navLoginNotSelected"><a href="javascript:;" title="Login" onclick="showLoginBox('TERMS');field_focus();">Log In</a></li>
+				<li id="navFaceBook"><fb:login-button v="2" size="medium" onlogin="window.location.reload(true);">Connect</fb:login-button></li>
+
 			
 			</ul>
 </div>
@@ -192,7 +233,7 @@
 <!--/ MAIN CONTENT -->		
 </div>
 <!--OVERALL FOOTER-->
-<div id="footerWrap">
+<div id="footerWrap" style="cursor:default;">
 
 			<div id="footer" class="container_16">	
 
@@ -202,12 +243,12 @@
 
 						<!--<li>Who we are</li>-->
 						<li><a href="http://www.popscreen.com/about" title="">About Us</a></li>
-						<li><a href="http://blog.popscreen.com" title="">Blog</a></li>
-						<li><a href="http://www.popscreen.com/about/source_status/" title="">Source Status</a></li>
+						<li><a href="http://blog.popscreen.com" title="">Tumblr Blog</a></li>						
 						<li><a href="http://www.twitter.com/popscreentweets/" title="">Twitter</a></li>
-						<li><a href="http://www.facebook.com/pages/PopScreen/109955629233" title="">Facebook</a></li>
-						<li><a href="mailto:info@popscreen.com" title="">Contact</a></li>
+						<li><a href="http://www.popscreen.com/about/source_status/" title="">Source Status</a></li>
 												<li> <a href="javascript:;" title="Login" onclick="showLoginBox('BOOKMARKLET');field_focus();">Bookmarklet</a></li>
+						
+						<li><a href="mailto:info@popscreen.com" title="">Contact</a></li>
 												
 						<!--<li><a href="http://www.popscreen.com/about" title="">About Us</a></li>-->
 
@@ -257,7 +298,7 @@
 
 					<ul>
 
-						<li>© 2009 PopScreen, Inc.</li>
+						<li>© 2010 PopScreen, Inc.</li>
 
 						<li><a href="http://www.popscreen.com/tos" title="">Terms</a></li>
 
@@ -281,15 +322,33 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 try {
 var pageTracker = _gat._getTracker("UA-4776008-2");
 pageTracker._trackPageview();
-} catch(err) {}</script>	
+} catch(err) {}</script>
+<style type="text/css">
+#uservoice-overlay
+{
+	cursor:default;
+}
+</style>	
 
 <style>
 	.hiddenImages{ display:none; }
+	
+	#tooltip {
+	position: absolute;
+	z-index: 3000;
+	padding: 5px;
+	}
+	#tooltip h3, #tooltip div { margin: 0; }
+	
 </style>
+<script src="http://www.popscreen.com/js/global/tooltip/lib/jquery.bgiframe.js" language="javascript"></script>
+
+<script src="http://www.popscreen.com/js/global/tooltip/lib/jquery.delegate.js" language="javascript"></script>
+<script src="http://www.popscreen.com/js/global/tooltip/jquery.tooltip.js" language="javascript"></script>
 <!--PRELOADING IMAGES STARTS !-->
 <!--PRELOADING IMAGES ENDS !-->
 <div id="overlay_PopSBM" style="z-index:1000;"> </div>
-<div id="pop-player-std-screen-wrap" style="z-index:100000; display:none; float:left;">
+<div id="pop-player-std-screen-wrap" style="z-index:100000; display:none; float:left; cursor:default;">
 <div id="main-wrapper" style="float:left;">
   <div style="background-image:url(http://www.popscreen.com/images/popplayer/top-left.png); background-position:left; background-repeat:no-repeat;">
     <div style="background-image:url(http://www.popscreen.com/images/popplayer/top-right.png); background-position:right; background-repeat:no-repeat;">
@@ -389,7 +448,7 @@ pageTracker._trackPageview();
 </div>
 
 <!--by kanwal player_login-->
-<div id="player_login" style="float:left; margin-left:-18px; margin-top:55px; display:none;">
+<div id="player_login" style="float:left; margin-left:-18px; margin-top:55px; display:none; cursor:default;">
 	<div class="player_login_wrapper_out">
 		<div style="height:2px;"></div>
 		<div id="player-login-bar" class="player_login_bar">			
@@ -406,7 +465,7 @@ pageTracker._trackPageview();
 </div>
 <!--by kanwal player_login ends-->
 
-<div id="share_box" style="float:left; margin-left:-10px;margin-top:50px; display:block;">
+<div id="share_box" style="float:left; margin-left:-10px;margin-top:50px; display:block; cursor:default;">
   <div style="background-image:url(http://www.popscreen.com/images/popplayer/detailBoxTop.png); background-position:right; background-repeat:no-repeat;">
     <div style="margin-right:5px; border-right:2px solid #666666; border-left:2px solid #666666; border-top:2px solid #666666; height:15px;">
       <!--Header-->
@@ -444,7 +503,46 @@ pageTracker._trackPageview();
   
 </div>
 </div>
+<script>
+jQuery('#continuous-button').tooltip({
+	delay: 1000,
+	track: true,
+	top:10,
+	left:-10,
+	showURL: false,
+	bodyHandler: function() {
+		msg = jQuery('#continuous-button').attr('tooltip-msg');
+		//jQuery('#continuous-button').attr({'title':''});
+		return jQuery('<div id="tooltip-wrap"><div id="tooltip-arrow"></div><div id="tooltip-body">'+msg+'</div><div id="tooltip-bottom"></div></div>');
+	}
+	});
 
+	jQuery('#random-button').tooltip({
+	delay: 1000,
+	track: true,
+	top:10,
+	left:-10,
+	showURL: false,
+	bodyHandler: function() {
+		msg = jQuery('#random-button').attr('tooltip-msg');
+		//jQuery('#random-button').attr({'title':''});
+		return jQuery('<div id="tooltip-wrap"><div id="tooltip-arrow"></div><div id="tooltip-body">'+msg+'</div><div id="tooltip-bottom"></div></div>');
+	}
+	});
+
+	jQuery('#repeat-button').tooltip({
+	delay: 1000,
+	track: true,
+	top:10,
+	left:-10,
+	showURL: false,
+	bodyHandler: function() {
+		msg = jQuery('#repeat-button').attr('tooltip-msg');
+		//jQuery('#repeat-button').attr({'title':''});		
+		return jQuery('<div id="tooltip-wrap"><div id="tooltip-arrow"></div><div id="tooltip-body">'+msg+'</div><div id="tooltip-bottom"></div></div>');
+	}
+	});
+</script>
 <!-- ZOOM SCREENSHOT -->
 <div id="zoomOverlay" style="display:none;"></div>
 <div id="zoomLightbox" style="display:none; left:0px;">
@@ -467,7 +565,6 @@ pageTracker._trackPageview();
 </div>
 
 
-
 <!-- ZOOM SCREENSHOT -->
 
 <!-- LOGIN POPUP DIV -->
@@ -485,7 +582,7 @@ pageTracker._trackPageview();
 				<ul class="tabs">
 					<li id="close"><a href="javascript:;" onclick="closeLoginBox('TERMS');" title="Press Esc to Close.">Close</a></li>
 					<li class="selected">Log in</li>
-					<li><a href="javascript:;" onclick="requestBetaInvite();req_focus();">Join PopScreen</a></li>
+					<li><a href="javascript:;" onclick="requestBetaInvite();req_focus();">Not a member? Join now!</a></li>
 				</ul>
 				<form id="login" action="/" onsubmit="return loginUser();">
 					<p class="error" id="er" style="display:none;">Email or password is incorrect. Please try again.</p>
@@ -510,6 +607,12 @@ pageTracker._trackPageview();
 						<input type="hidden" id="popVideoEncId">
 						<input type="hidden" id="popVideoEncIdPopChart">
 						<input type="hidden" id="count_popdit">
+						<input type="hidden" id="popRelatedVideo">
+						<input type="hidden" id="relatedVideoId">
+						<input type="hidden" id="param">
+						<input type="hidden" id="slideId">
+						<input type="hidden" id="totalSlide">
+						<input type="hidden" id="curVideoId">				
 					
 					<p><a id="loginUserBut" href="javascript:;" class="button-base button-darkblue_whitebg" onclick="loginUser();field_focus();"><span>Log in</span></a></p>	
 					<div style="display:none"><input type="submit"></div>
@@ -538,7 +641,7 @@ pageTracker._trackPageview();
 					<ul class="tabs">
 						<li id="close"><a href="javascript:;" onclick="closeLoginBox('TERMS');" title="Press Esc to Close.">Close</a></li>
 						<li><a href="javascript:;" onclick="requestLogin();field_focus();">Log in</a></li>
-						<li class="selected">Join PopScreen</li>
+						<li class="selected">Not a member? Join now!</li>
 					</ul>
 					<form id="login" action="/" onsubmit="return joinpopscreen();">
 						<!--<h3>Request a beta invite</h3>-->
@@ -589,7 +692,7 @@ pageTracker._trackPageview();
 					<ul class="tabs">
 						<li id="close"><a href="javascript:;" onclick="closeLoginBox('TERMS');" title="Press Esc to Close.">Close</a></li>
 						<li id="login_back" class="selectedback" onclick=" return requestLogin();">Log in</li>
-						<li><a href="javascript:;" onclick="requestBetaInvite();">Join PopScreen</a></li>
+						<li><a href="javascript:;" onclick="requestBetaInvite();">Not a member? Join now!</a></li>
 					</ul>
 					<form id="login" action="/" onsubmit="return passwordChageRequest();"><div id="rsltdiv1"></div>
 						<h3>Need help with your password?</h3>
@@ -611,7 +714,7 @@ pageTracker._trackPageview();
 					<ul class="tabs">
 						<li id="close"><a href="javascript:;" onclick="closeLoginBox('TERMS');" title="Press Esc to Close.">Close</a></li>
 						<li class="selected">Log in</li>
-						<li><a href="javascript:;" onclick="requestBetaInvite();">Join PopScreen</a></li>
+						<li><a href="javascript:;" onclick="requestBetaInvite();">Not a member? Join now!</a></li>
 					</ul><br>
 					<form id="login" action="/">
 						<p class="prompt">Instructions on how to reset your password have been sent to your email.</p>
@@ -626,7 +729,7 @@ pageTracker._trackPageview();
 				<ul class="tabs">
 				<li id="close"><a href="javascript:;" onclick="closeLoginBox('TERMS');">Close</a></li>
 				<li><a href="javascript:;" onclick="requestLogin();">Log in</a></li>
-				<li class="selected">Join PopScreen</li>
+				<li class="selected">Not a member? Join now!</li>
 				</ul>
 				<form id="login" action="/"><br>
 				<p class="prompt"><span class="green"><strong>Success!</strong></span> Your email address is next in line.</p>
@@ -643,8 +746,8 @@ pageTracker._trackPageview();
 
 
 <!--Feed Back Div-->
-<div style="display: none;" class="mainbox_feedback" id="mainbox_feedback">	</div>
-<div id="feedback_div" style="display:none;z-index: 1100; position: fixed; top: 15%; width:100%;left:0;">
+<div style="display: none; cursor:default;" class="mainbox_feedback" id="mainbox_feedback">	</div>
+<div id="feedback_div" style="display:none; z-index: 1100; position: fixed; top: 15%; width:100%;left:0; cursor: default;">
 			<div id="success_div" style="display:none;">
                     <div id="feedback-form">
                     	<div id="identifier">
@@ -707,32 +810,26 @@ pageTracker._trackPageview();
 	</div>
 	<div id="form_invite" style="display:block;">
 			<div id="invite-form">
-									<div id="content-section" class="clearfix">
-																		 <p class="message" id="remaining_invites_of_user">Invite your friends to PopScreen by sending them an email.You have  invites remaining. </p>
+				<div id="content-section" class="clearfix">
+					<h3 id="green-banner-invite">Invite your friends to PopScreen by sending them an email.<!-- if($user_invites_info_remaining['remaining_invites']!=-1) { echo "You have ".$user_invites_info_remaining['remaining_invites']." invites remaining."; }--></h3>
+										<!--<p class="message" id="remaining_invites_of_user">Invite your friends to PopScreen by sending them an email.if($user_invites_info_remaining['remaining_invites']!=-1) { echo "You have ".$user_invites_info_remaining['remaining_invites']." invites remaining."; } </p>-->
 			
-									<form id="invite" action="/" method="post" onsubmit="return invite_friends('');">
-									<p class="error-message small-bottom" style="display:none;" id="error_invite_empty">Please enter at least one email address</p>
-									<p class="error-message small-bottom" style="display:none;" id="error_invite_overflow">You are trying to send out more invites than you have remaining. Please delete some email addresses and try again.</p>
-									<p class="error-message small-bottom" style="display:none;" id="error_invite_unknown">An unknown error occured. Please try again!</p>
+					<form id="invite" action="/" method="post" onsubmit="return invite_friends('');">
+						<p class="error-message small-bottom" style="display:none;" id="error_invite_empty">Please enter at least one email address</p>
+						<p class="error-message small-bottom" style="display:none;" id="error_invite_overflow">You are trying to send out more invites than you have remaining. Please delete some email addresses and try again.</p>
+						<p class="error-message small-bottom" style="display:none;" id="error_invite_unknown">An unknown error occured. Please try again!</p>
 			
-			
-										<p><label><strong>Enter some email addresses</strong>:</label>
-										<textarea id="emails_invite" class="textarea"></textarea></p>
-										<p class="tip">Separate multiple emails with commas, ex: kevin@mac.com,glenn@gmail.com</p>
-			
-			
-			
-			
-										<p><label><strong>Personal message</strong> (optional):</label>
-											<textarea id="message_invite" class="textarea"></textarea></p>
-									   
-										<p class="form-buttons"><a id="inviteBut" href="javascript:;" class="button-base_invite button-darkblue_whitebg_invite" onclick="invite_friends('')"><span>&nbsp; Invite &nbsp; </span></a> <a href="javascript:;" class="button-base_invite button-clear_red_whitebg_invite" onclick="cancelinvite()"><span>Cancel</span></a></p>
-										<div style="display:block;"><input id="formsubmit" type="submit" value="" style="width:1px; height:1px; border:none; background-color:#FFFFFF;"></div>
-									</form>
-									</div>
+						<p><label><strong>Enter some email addresses</strong>:</label>
+						<textarea id="emails_invite" class="textarea"></textarea></p>
+						<p class="tip">Separate multiple emails with commas, ex: kevin@mac.com,glenn@gmail.com</p>				
+						<p><label><strong>Personal message</strong> (optional):</label>
+						<textarea id="message_invite" class="textarea"></textarea></p>
+                        <p class="form-buttons"><a id="inviteBut" href="javascript:;" class="button-base_invite button-darkblue_whitebg_invite" onclick="invite_friends('')"><span>&nbsp; Invite &nbsp; </span></a> <a href="javascript:;" class="button-base_invite button-clear_red_whitebg_invite" onclick="cancelinvite()"><span>Cancel</span></a></p>
+                        <div style="display:block;"><input id="formsubmit" type="submit" value="" style="width:1px; height:1px; border:none; background-color:#FFFFFF;"></div>
+					</form>
+				</div>
 			</div>
 	</div>
-	
 </div><script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -743,9 +840,7 @@ var pageTracker = _gat._getTracker("UA-4776008-2");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
-<!-- Site Meter -->
-<script type="text/javascript" src="http://s24.sitemeter.com/js/counter.js?site=s24popscreen"> </script>
-<!-- Copyright (c)2009 Site Meter -->
+
 
 <!-- Uservoice -->
 <script type="text/javascript">
