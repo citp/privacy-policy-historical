@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the we.org privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223233816id_/http%3A//we.org/privacyPolicy.php%3FINC%3DYes) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the we.org privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507135914id_/http%3A//www.we.org/privacyPolicy.php%3FINC%3DYes) for the most accurate reproduction.*
 
 # We.org Privacy Policy
 
-Your privacy is very important to We.org. As part of the normal operation of our services, we collect and, in some cases, disclose information about you. This Privacy Policy outlines the information that we collect about you and what may happen to that information. Although this Privacy Policy may be changed at any time, no information collected on the Site will be used by We.org for marketing purposes, nor will your information ever be sold or provided to a third party for marketing purposes.
+Your privacy is very important to We.org. As part of the normal operation of our services, we collect and, in some cases, disclose information about you. This Privacy Policy outlines the information that we collect about you and what can happen to that information. Although this Privacy Policy can be changed at any time, no information collected on the Site will be used by We.org for marketing purposes, nor will your information ever be sold or provided to a third party for marketing purposes.
 
 As described below, some of your personally identifiable information is disclosed to Site visitors () for use in the defined services of the Site.
 
@@ -15,7 +15,7 @@ We.org uses this information to determine the number of visitors to the differen
 
 If you are a Seller, we will obtain the following additional information about you:  
 * A contact E-Mail Address.  
-* Some information to validate your identity to help you recover your UserName and/or PassWord, if neccessary. Such information may include "City of Birth", "High School Attended", "Mother's Maiden Name", or "Favorite Type of Pet".  
+* Some information to validate your identity to help you recover your UserName and/or PassWord, if neccessary. Such information can include "City of Birth", "High School Attended", "Mother's Maiden Name", or "Favorite Type of Pet".  
 * Your Phone Number, if you would like potential Buyers to contact you by phone.  
 * Your Mobile Number, if you would like potential Buyers to contact you on your cell phone.  
 * The date your Account was created.  
