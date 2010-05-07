@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricket.com.au privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104030527id_/http%3A//www.cricket.com.au/default.aspx%3Fs%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricket.com.au privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507025726id_/http%3A//www.cricket.com.au/default.aspx%3Fs%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Cricket Australia > Privacy Policy
 
