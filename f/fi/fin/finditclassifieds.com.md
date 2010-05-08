@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the finditclassifieds.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618203615id_/http%3A//www.finditclassifieds.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finditclassifieds.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508143950id_/http%3A//www.finditclassifieds.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Find It Classifieds | Privacy Policy
 
-Effective **08/12/2008**
+Effective **08/05/2009**
 
 **Privacy Notice Table Of Contents:**
 
   * Our Commitment To Privacy
   * The Information We Collect
   * How We Use Information
+  * Third Party Advertisers
   * Our Commitment To Data Security
   * Our Commitment To Children's Privacy
   * How To Access Or Correct Your Information
@@ -41,6 +42,18 @@ You can register with our website if you would like to have the ability to modif
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+
+**Third Party Advertisers:**
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site. 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
+
+Because publisher sites and laws across countries vary, we're unable to suggest specific privacy policy language. However, you may wish to review resources such as the [Network Advertising Initiative](http://www.networkadvertising.org/), or NAI, which suggests the following language for data collection of non-personally identifying information:
+
+> We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
 **Our Commitment To Data Security**
 
