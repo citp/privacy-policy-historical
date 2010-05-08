@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tiaa.org privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216192218id_/http%3A//www.tiaa-cref.org/about/inside/topics/index.html%3Ftc_lnk%3Dbottomutlity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiaa.org privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509004121id_/https%3A//www.tiaa-cref.org/public/about/inside/topics/index.html%3Ftc_lnk%3Dbottomutlity) for the most accurate reproduction.*
 
 # TIAA-CREF - TIAA-CREF Online Privacy Policy
+
+Learn how TIAA-CREF is committed to keeping your personal information secure.
 
 Please read this policy carefully. It applies to past, present, and future owners of our products. We protect your privacy in accordance with the Fair Credit Reporting Act (FCRA), as amended by the Fair and Accurate Credit Transactions Act of 2003 (FACT Act), the Gramm-Leach Bliley Financial Services Modernization Act (GLB), and this Privacy Policy. In addition, when state privacy or other laws may require greater protections of customer information, or as provided by GLB, TIAA-CREF will comply with those requirements. The "TIAA-CREF companies" are described in this notice.
 
@@ -25,13 +27,15 @@ When you use a link to go from TIAA-CREF.org to another web, the TIAA-CREF.org P
 
 ## How Your Information Is Used
 
-We use your personal information primarily to provide you with the products and services you request, and to conduct the business of the TIAA-CREF companies. As permitted by law, we may also share your personal information with select partners with whom we have joint marketing agreements in order to provide you with a variety of products and services. We require these companies to meet privacy standards described below. We may also use your personal information to market or determine your possible interest in products and services that the other TIAA-CREF companies offer. If you are a participant in an employer-sponsored pension plan that is funded with a TIAA-CREF annuity contract, we may share the information we collect with your employer for plan administration purposes.
+We use your personal information primarily to provide you with the products and services you request, and to conduct the business of the TIAA-CREF companies. As permitted by law, we may also share your personal information with select partners with whom we have joint marketing agreements in order to provide you with a variety of products and services. We require these companies to meet privacy standards described below. We may also use your personal information to market or determine your possible interest in products and services that the other TIAA-CREF companies offer. If you are a participant in an employer-sponsored retirement or savings plan investing in a TIAA-CREF annuity contract or a proprietary or third-party mutual fund, we may share the information we collect with your employer and its agents, if any for plan administration purposes.
 
 ## Disclosure of Your Information
 
 We may share your personal information with other TIAA-CREF companies. We will not disclose your personal information to anyone outside of the TIAA-CREF companies unless: 1) we have received proper consent from you; 2) we are legally permitted to do so; or 3) we reasonably believe, in good faith, that we are legally required to do so. In order to protect the confidentiality of your personal information, including personal information that we have disclosed to a third party pursuant to this Privacy Policy, we take appropriate measures, including requiring each third party to execute an appropriate confidentiality agreement governing the use of such information and only allowing access to the information for a limited purpose. For example, we may provide the information to assist us with various aspects of conducting our business, to comply with laws or industry regulations, and/or to effectuate any contract on your behalf, including the following:
 
-  * Unaffiliated service providers (e.g., fulfillment companies and securities clearinghouses, data processing services, printers and mailing facilities);
+  * Unaffiliated service providers (e.g., fulfillment companies and securities clearinghouses, data processing services, printers and mailing facilities) engaged by us;
+  * Unaffiliated service providers (e.g., third-party administrators) engaged by your employer;
+  * Unaffiliated fund and/or insurance companies and their agents whose investment options are made available to you through your employer-sponsored retirement or savings plan, provided monies are allocated to them on your behalf;
   * Government agencies, other regulatory bodies and law enforcement officials (e.g., for tax purposes or for reporting suspicious transactions);
   * Other organizations, with your consent or as directed by you (e.g., if you use TIAA-CREF as a financial reference in applying for credit with another institution); and
   * Other organizations, as permitted or required by law (e.g., for fraud prevention).
@@ -48,7 +52,7 @@ TIAA-CREF protects the personal information you provide against unauthorized acc
 
 Providing us with access to your information permits us to offer you distinct advantages and better service. It enables us to provide you with more comprehensive financial guidance. In fact, we have established different TIAA-CREF companies to offer you various types of financial products and services. Using your information helps us tailor product offerings to you and eliminate those that may not interest you. This helps us keep expenses low. Unless you tell us otherwise, any TIAA-CREF company may use your nonpublic personal information from records maintained by one of the other TIAA-CREF companies for marketing purposes.
 
-_However_ , if you do not want other TIAA-CREF companies to use your personal financial information for marketing purposes, you may simply let us know by opting out. If you opt out, we will not use your personal information to notify you of new products, services, or enhancements, nor will it be available to other TIAA-CREF companies for marketing purposes. It will, however, still be released as permitted or required by law. Please note that we cannot withdraw any previous disclosures made with your authorization.
+However, if you do not want other TIAA-CREF companies to use your personal financial information for marketing purposes, you may simply let us know by opting out. If you opt out, we will not use your personal information to notify you of new products, services, or enhancements, nor will it be available to other TIAA-CREF companies for marketing purposes. It will, however, still be released as permitted or required by law. Please note that we cannot withdraw any previous disclosures made with your authorization.
 
 To opt out, please call the ATS Service Center at 1 877 518 9161. If you are a Trust Company client or own a tuition financing product (529 Plan) and wish to opt out, please follow the instructions provided below:
 
@@ -101,7 +105,7 @@ TIAA-CREF periodically reviews its policies. We reserve the right to amend them.
 
 To change information such as your name, address, retirement start date, telephone number, e-mail address, or other personal information, please call our National Contact Center at 1 800 842-2776 Monday through Friday from 8:00 a.m. to 10:00 p.m., and on Saturday from 9:00 a.m. to 6:00 p.m., E.T.
 
-You may also change your personal information by [logging on to your TIAA-CREF account page](https://web.archive.org/web/20091216192218id_/http%3A//www.tiaa-cref.org/go/login/index.html) and submitting your changes. Your new information will be effective immediately. If you want to change your address on fewer than all contracts, or to enter a foreign address, you will need to select "click here" located under the e-mail section of the page
+You may also change your personal information by [logging on to your TIAA-CREF account page](https://web.archive.org/public/go/login/index.html) and submitting your changes. Your new information will be effective immediately. If you want to change your address on fewer than all contracts, or to enter a foreign address, you will need to select "click here" located under the e-mail section of the page
 
 Note that certain changes cannot be processed over the phone. Address changes for payout contracts must be mailed. Also, to change your or your spouse's name on a contract, you must send us a letter with the following information:
 
@@ -131,12 +135,10 @@ As described in this notice, the "TIAA-CREF companies" include but are not limit
   * TIAA-CREF Funds is an investment company.
   * Teachers Advisors, Inc., is an investment advisor. It provides services for our mutual funds and personal annuities.
   * TIAA-CREF Investment Management, LLC, is the investment advisor to CREF.
-  * Teachers Personal Investors Services, Inc. (TPIS), is the principal underwriter for TIAA-CREF Funds, Life Funds, and has interest in tuition savings products.
+  * Teachers Personal Investors Services, Inc. (TPIS), is the principal underwriter for TIAA-CREF and Life Funds and has interest in tuition savings products.
   * TIAA-CREF Individual & Institutional Services, LLC, is the principal underwriter for CREF and the TIAA Real Estate Account and is authorized by agreement to sell and service TIAA-CREF Funds, Life Funds, and interests in tuition savings products.
   * TIAA-CREF Tuition Financing, Inc. (TFI), is an investment advisor. It provides investment management and administrative services for qualified tuition programs (529 Plans). TFI receives customer information from other TIAA-CREF companies. However, it only discloses information about tuition program customers as set forth in its separate privacy policy for the tuition program.
   * TIAA-CREF Trust Company, FSB (Trust Company), is a federally chartered savings bank. It provides asset management and fiduciary services and acts as custodian for individual retirement accounts.
   * Kaspick & Company, LLC, is an investment advisor that provides advisory services to private clients, who are individuals, through separately managed accounts. Their clients are subject to their own privacy notice, policies, and procedures.
 
 
-
-01/09
