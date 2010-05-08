@@ -1,130 +1,145 @@
-> *The following text is extracted and transformed from the oilandgaspeople.com privacy policy that was archived on 2009-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091022160925id_/http%3A//www.oilandgaspeople.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oilandgaspeople.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508143729id_/http%3A//www.oilandgaspeople.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy | Oil and Gas Jobs | Oil and Gas Jobs
+# Privacy, Terms & Conditions | Oil and Gas Jobs
 
-### We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
+## Summary
 
-## (1) What information do we collect?
+This summarises the key highlights from our privacy policy. For more information, read our full privacy policy below
 
-We may collect, store and use the following kinds of personal data:
+### **Personal information collected**
 
-(a) information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type, referral source, length of visit and number of page views);
+We collect information:
 
-(b) information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services (including name, address, email, phone number, other personal data, demographic data and preferences);
+  * When you register an account to become an Oil and Gas People user (“User”), such as your name, e-mail, country, location, occupation and a password.
+  * When you add to your profile with further information about yourself or your private contacts
+  * We use cookies and other technologies to recognize you and customize your experience.
+  * We automatically receive from your internet use such information as your IP address, the URLs of sites from which you arrive or leave the Oil and Gas People website, your type of browser and your ISP.
 
-(c) information that you provide to us for the purpose of registering with us (including name, address, email, phone number, other personal data, demographic data and preferences);
 
-(d) information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters (including name, address, email, phone number, other personal data, demographic data and preferences);
 
-(e) any other information that you choose to send to us;
+### **Uses of personal information**
 
-## (2) Cookies
+We use the information you provide to:
 
-A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
+  * Administer your account with us and customize the service we provide to you.
+  * To send you service or promotional communications through email and notices on the Oil and Gas People website.
+  * We do not sell, rent or otherwise provide your personal identifiable information to any third parties for marketing purposes.
+  * We provide you with the means to control whether or not your contact information is shared with recruiters and on the public domain.
+  * In order to deliver our services, we may share information with third parties. For example, to process payments made by you, we share some of your information with the credit card processing company we use.
+  * Enable you to share your information and communicate with other Users, or provide (usually at your option) your personal details to third parties offering combined services with Oil and Gas People.
 
-We use both “session” cookies and “persistent” cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website and persistent cookies to enable our website to recognise you when you visit.
 
-Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
 
-We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at:
+### **Your information choices**
 
-http://www.google.com/privacypolicy.html.
+You can:
 
-Our advertisers / payment services providers may also send you cookies.
+  * Review, enhance or edit your personal information through your personal profile page.
+  * Choose what information you make available through your public profile.
+  * Control the messages you receive from Oil and Gas People and other Users and how these messages are sent.
+  * Tell us to close your Oil and Gas People account.
 
-Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.) This will, however, have a negative impact upon the usability of many websites including this one.
 
-## (3) Using your personal data
 
-Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
+### **Important information**
 
-We may use your personal information to:
+Notice of all changes that materially affect ways in which your personal information may be used or shared will be posted in updates to our Privacy Policy.
 
-(a) administer the website;
+### **Security**
 
-(b) improve your browsing experience by personalising the website;
+Personal information you provide will be secured with industry standards and technology.
 
-(c) enable your use of the services available on the website;
+### **How to contact us**
 
-(d) send to you goods purchased via the website, and supply to you services purchased via the website;
+If you have any questions or comments please email us at [info@oilandgaspeople.com](mailto:info@oilandgaspeople.com)
 
-(e) send statements and invoices to you, and collect payments from you;
+## **Our Full Privacy Policy**
 
-(f) send you general (non-marketing) commercial communications;
+Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy:
 
-(g) send you email notifications which you have specifically requested;
+  * We do not rent or sell your personally identifiable information to third parties for marketing purposes.
+  * We do not share your contact information with another User without your consent.
+  * Any personally identifiable information that you provide will be secured with industry standard protocols and technology.
 
-(h) send to you our newsletter and other marketing communications relating to our business (or the businesses of carefully-selected third parties) which we think may be of interest to you by post or by email or similar technology (you can inform us at any time if you no longer require marketing communications);
 
-(i) provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
 
-(j) deal with enquiries and complaints made by or about you relating to the website;
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. By continuing to use the Oil and Gas People service after notice of changes have been sent to you or published on the Oil and Gas People website, you are consenting to the changes.  
+Please read this privacy policy to learn more about:
 
-Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
+  1. What personally identifiable information of yours is collected by Oil and Gas People?
+  2. How the information is used.
+  3. With whom the information may be shared.
+  4. How you can access and change your Account settings.
+  5. What security procedures are in place to protect the loss, misuse or alteration of information collected by Oil and Gas People
+  6. How to contact us.
+  7. Personal InformationCollected
 
-We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
 
-All our website financial transactions are handled through our payment services provider, Paypal. You should only provide your personal information to Paypal after reviewing the Paypal privacy policy (available at www.paypal.com). We will share information with Paypal only to the extent necessary for the purposes of processing payments you make via our website.
 
-## (4) Disclosures
+The purpose of the Oil and Gas People website is to permit Users to voluntarily provide information about themselves for the purposes of job seeking. You willingly provide us certain personal information, which we collect in order to allow you to benefit from the Oil and Gas People website. If you have any hesitation about providing such information to us and/or having such information displayed on the Oil and Gas People website or otherwise used in any manner permitted in this Privacy Policy, you should not become a member of the Oil and Gas People.  
+We collect your personal information in the following ways:
 
-We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
+### Registration
 
-In addition, we may disclose information about you:
+In order to become a User, you must first create an account on our website. To create an account you are required to provide the following contact information, which you recognize and expressly acknowledge is personal information allowing others, including Oil and Gas People, to identify your: name, email address, country, ZIP/postal code, a brief summary of your professional background, and a password chosen by you.
 
-(a) to the extent that we are required to do so by law;
+### Profile Information
 
-(b) in connection with any legal proceedings or prospective legal proceedings;
+Once you become a User, you may provide additional information in the Profile section describing your skills, professional experiences, employment history, employment documents and other information related to your career. Any information you provide at registration or in the Profile section that is not personally identifiable may be used in the same manner and extent to which other information that is not personally identifiable is permitted to be used hereunder, including for the purpose of serving advertisements through the service.   
+All candidates edited profiles will be fully visible and searchable to anyone using the site. These edited profiles will contain general information relating to work history, qualifications, location, experience, availability and training certificates. These profiles will not contain candidate’s names, contact details, date of birth or their current employment position. Candidates can link to their edited profiles but will also be able to link to their full profile. Candidates sending this link do so at their own risk and with the understanding that anyone clicking the link can access their entire profile on the site including all personal information and employment documents.
 
-(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and
+### How we share your information with recruiters.
 
-(d) to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling.
+Unlike a lot of other job sites we give our users full control over their personal details. When matched to a position, candidates on the site will always be required to confirm their interest. Only on confirmation by the candidate will recruiters be able to access that individuals profile and all data/information contained within. If candidates do not wish to share their information/profile they should decline any job matches they are sent.
 
-Except as provided in this privacy policy, we will not provide your information to third parties.
+All recruiters signing up to the site are verified in accordance with our own procedures, we verify each company manually to ensure as far as is reasonably practicable that all recruiters using our site are genuine and that their intentions are in accordance with the services we provide. We also monitor the use of such accounts for suspicious or irregular activity and will take any action required to protect candidates from fraudulent attempts to access their data.
 
-## (5) International data transfers
+### Customer Service
 
-Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
+Oil and Gas People may collect information on your site usage to improve our services and to provide a high level of customer service. We offer a live support feature through our contact page that allows recruiters or candidates to contact our support team in real time. This service is not available 24hours; instead candidates can contact us using the feedback links or contact forum on the contact page. As an internet based company we do not offer telephone support through our site but we are happy to get in contact with site users by this means if necessary.
 
-Information which you provide may be transferred to countries which do not have data protection laws equivalent to those in force in the European Economic Areas (EEA).
+### Cookies
 
-In addition, (personal information that you submit for publication on the website) will be published on the internet and may be available, via the internet, around the world.
+Like most websites, Oil and Gas People uses cookies and web log files to track site usage. A cookie is a tiny data file which resides on your computer which allows Oil and Gas People to recognize you as a User when you return to the Oil and Gas People website using the same computer and web browser. If your browser settings do not allow cookies, you may not be able to use the Oil and Gas People website. Like the information you enter at registration or in your Profile, cookie and log file data is used to customize your experience on our website.
 
-You expressly agree to such transfers of personal information.
+We use cookies to improve the quality of our service by storing User preferences and tracking User trends. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Unfortunately, if your browser settings do not allow cookies or you opt to refuse all cookies, you may not be able to use the Oil and Gas People website or services. Oil and Gas People does not store personally identifiable information in the cookies.
 
-## (6) Security of your personal data
+### Log files, IP addresses and information about your computer
 
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
+Due to the communications standards on the Internet, when you visit the Oil and Gas People web site we automatically receive the URL of the site from which you came and the site to which you are going when you leave Oil and Gas People. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, email patterns, as well as the name of your ISP. This information is used to analyze overall trends to help us improve the Oil and Gas People service. The linkage between your IP address and your personally identifiable information is not shared with third-parties without your permission or except when required by law.
 
-We will store all the personal information you provide on our secure (password- and firewall- protected) servers.
+### Sharing Information with Third Parties
 
-Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+Oil and Gas People takes the privacy of Users very seriously. We do not sell, rent, or otherwise provide your personally identifiable information to third parties for marketing purposes. We will only share your personally identifiable information with third parties to carry out your instructions or to provide specific services or information. For instance, we use a credit card processing company to bill Users for additional services. These third parties do not retain, share, or store any personally identifiable information except to provide these services and they are bound by confidentiality agreements which limit their use of such information.
 
-You are responsible for keeping your password and user details confidential. We will not ask you for your password.
+Oil and Gas People offers a “public profile” feature which allows Users to publish their full Oil and Gas People profile on the internet by means of a link. Users may choose not to use this feature. However any links posted would continue to give access until deleted or removed. Oil and Gas People does not warrant how often third-party search engines will update their cache.
 
-## (7) Policy amendments
+### Legal Disclaimer
 
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
+It is possible that we may need to disclose personal information when required by law, such as responses to civil or criminal subpoenas, or other requests by law enforcement personnel. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, subpoena, or other legal process or request to Oil and Gas People brought in any country throughout the world, or to exercise our legal rights or defend against legal claims.
 
-## (8) Your rights
+### You’re Information Choices
 
-You may instruct us to provide you with any personal information we hold about you. Provision of such information may be subject to the payment of a fee (currently fixed at £10.00).
+_Accessing and Changing Your Account Information_  
+You can review the personal information you provided us and make any desired changes to the information you publish, or to the settings for your Oil and Gas People account including your email, and contact preferences, at any time by logging in to your account on the Oil and Gas People website.
 
-You may instruct us not to process your personal data for marketing purposes by email at any time. (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.)
+## Important Information
 
-## (9) Third party websites
+### Children
 
-The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
+Children are not eligible to use our service and we ask that minors (under the age of 18) do not submit any personal information to us or use the service.
 
-## (10) Updating information
+### Changes to this Privacy Policy
 
-Please let us know if the personal information which we hold about you needs to be corrected or updated.
+Oil and Gas People may update this privacy policy at any time, with or without advance notice. In the event there are significant changes in the way we treat your personally identifiable information, we will display a notice on the Oil and Gas People website or send you an email, as provided for above. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.  
+If you use the Oil and Gas People service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices.
 
-## (11) Contact
+### Further Information
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [service@oilandgaspeople.com](mailto:service@oilandgaspeople.com "Click here to send an email to service@oilandgaspeople.com").
+Oil and Gas People is a registered LTD Company based in the UK. We are registered with the Information Commissioners Office and act in full accordance with the Data Protection Act _.   _
 
-## (12) Data controller
+### Security
 
-The data controller responsible for our website is Oil And Gas People.   
- 
+In order to secure your personal information, access to your data on Oil and Gas People is password-protected, and sensitive data (such as credit card information) is protected by SSL encryption when it is exchanged between your web browser and the Oil and Gas People web site. To protect any data you store on our servers we also regularly audit our system for possible vulnerabilities and attacks and we use a tier-one secured-access data center. It is your responsibility to protect the security of your login information.
+
+If you have questions or comments about this privacy policy, please email us at [info@oilandgaspeople.com](mailto:info@oilandgaspeople.com) or contact us from the contact us page either using the form or live support service.
