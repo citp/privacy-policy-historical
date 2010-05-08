@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vendanything.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107095853id_/http%3A//www.vendanything.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vendanything.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509013906id_/http%3A//www.vendanything.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # 
 
