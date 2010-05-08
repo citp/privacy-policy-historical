@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chemicalguys.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105162810id_/http%3A//www.chemicalguys.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemicalguys.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508071622id_/http%3A//www.chemicalguys.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Car Wax, Car Polish, Auto Detail Supplies : CHEMICAL GUYS WHOLESALE AUTO DETAILING SUPPLIES CAR WASH PRODUCTS PROFESSIONAL CAR DETAIL SUPPLY FACTORY DIRECT
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20091105162810id_/http%3A//www.chemicalguys.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20100508071622id_/http%3A//www.chemicalguys.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
