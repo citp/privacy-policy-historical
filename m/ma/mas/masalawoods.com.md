@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masalawoods.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106163649id_/http%3A//www.masalawoods.com/ourprivacyvow.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masalawoods.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508042905id_/http%3A//www.masalawoods.com/ourprivacyvow.html) for the most accurate reproduction.*
 
 # Masala Pics of All actress and Private pics, Ultimate site for Masala pics
 
