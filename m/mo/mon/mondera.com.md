@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the mondera.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218040316id_/http%3A//www.mondera.com/help/privacy.asp%3Fmscssid%3DHINPFPWHBNYTSUTXWRKAKSNHGOFYFAYO) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mondera.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508163202id_/http%3A//www.mondera.com/help/privacy.asp) for the most accurate reproduction.*
 
-# Mondera.com - Help (Privacy Policy)
+# Mondera Privacy Policy
 
-#### Privacy Policy
+## Mondera Privacy Statement
 
 The security and protection of our customers' personal information is our top priority and is especially important in our business of fine jewelry and diamonds. We have a seasoned team of professionals overseeing our operations and have never had a problem with securing the privacy of our customer information.
+
+## The Information We Need to Process Your Order
 
 You explicitly provide information via:
 
@@ -24,17 +26,18 @@ You explicitly provide information via:
   
 
 
+## Other Information We Collect
+
   * Feedback Form 
     * \- Should you contact us through our feedback form, we require your name and email address only to send you a reply.
-    * \- If you use the form to send comments about your shopping experience at Mondera, we may include the comment with your name in our [ Customer Testimonials](http://www.mondera.com/about/testimonials.asp?mscssid=LSTNFEHLDSFERARCHHAXNYAFAOBRGZRJ) section.
+    * \- If you use the form to send comments about your shopping experience at Mondera, we may include the comment with your name in our [ Customer Testimonials](http://www.mondera.com/about/testimonials.asp?mscssid=) section.
   * Email Newsletter," "Email Special Offers" and "Catalog" Sign-up Features 
     * \- Should you participate in these services we will only use the information you provide to promote Mondera services and products.
     * \- We will not share any personal information with third parties.
 
 
 
-  
-
+## Sharing
 
   * Personal Information is Not Shared Aside from the previously mentioned third parties involved in the processing of your order, we do not share your personally identifiable information with any other entities without your express permission.
   * External Links Our site may include links to other sites. If you decide to follow these links, we are not responsible for the privacy policies and content of these sites. Generally, we will inform you of these links.
@@ -42,9 +45,15 @@ You explicitly provide information via:
 
 
 
+## Trademark Infringement
+
 Mondera is the registered trademark of Mondera.com. Only Mondera has the exclusive right to use this trademark or authorize others to use the trademark with regard to its products & services. Any company or person using this trademark to promote its/his products without Mondera’s permission or using a deceptively similar one is liable to be prosecuted for infringing its trademark rights.
 
+## Your Consent
+
 By using our website, you consent to the usage and collection of this information. If we decide to alter our privacy policy, these changes will be posted on this page so that you will always be informed about what information is collected, how it is used, and under what circumstances it will be disclosed.
+
+## Contacting Us
 
   * Account Changes and Deletions
   * Changes 
