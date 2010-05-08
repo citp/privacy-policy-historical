@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickarticlepro.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231002518id_/http%3A//quickarticlepro.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickarticlepro.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508044911id_/http%3A//www.quickarticlepro.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Article Writing Software- Article Builder to write Informative Articles
 
@@ -29,4 +29,4 @@ E-mail: [support@quickarticlepro.com](mailto:support@quickarticlepro.com)
   
 |  |  |    
 ---|---|---  
-Copyright 2009 Quick Article Softwares. All rights reserved 
+Copyright 2010 Quick Article Software. All rights reserved.
