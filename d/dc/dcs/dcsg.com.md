@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcsg.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628151927id_/http%3A//www.dickssportinggoods.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcsg.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508074304id_/http%3A//www.dickssportinggoods.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Dick's Sporting Goods
 
@@ -144,3 +144,14 @@ If we are going to use your personally identifiable information in a manner diff
 **Questions about our Policies**
 
 If you have any questions regarding your privacy or any of our policies, please contact DSG by email at [sportspace@dcsg.com](mailto:sportspace@dcsg.com) or [sportspacehelp@dcsg.com](mailto:sportspacehelp@dcsg.com).
+
+**_MOBILE ALERTS (TEXT MESSAGES) PRIVACY POLICY_**
+
+You may decide to have promotional text messages sent directly to your mobile device. This program is completely voluntary, and messages will be sent to you only if you have opted in to receive them. Message and data rates may apply. If you have errantly received a marketing text message without opting in to the program, or if you wish to opt out of receiving text messages, you can remove yourself from the program by either:
+
+  * texting "STOP" to 34257; or
+  * contacting Customer Service by email at [customer.service@dcsg.com](mailto:customer.service@dcsg.com) or by phone at 1.877.846.9997. 
+
+
+
+You will need to provide your mobile phone number in order to be removed from the program. It may take up to 10 days to process your stop request. You may receive additional text messages from DICK'S Sporting Goods during this time. DICK'S Sporting Goods respects your privacy and your mobile number will only be used in this text message program by DICK'S Sporting Goods and its third party marketing partners administering this program on DICK'S Sporting Goods' behalf as set forth above.
