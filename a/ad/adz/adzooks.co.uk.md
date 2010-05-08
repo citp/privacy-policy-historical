@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adzooks.co.uk privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031065816id_/http%3A//london.adzooks.co.uk/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adzooks.co.uk privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508203350id_/http%3A//london.adzooks.co.uk/privacy.shtml) for the most accurate reproduction.*
 
 # London - Adzooks.co.uk - Privacy Policy
 
