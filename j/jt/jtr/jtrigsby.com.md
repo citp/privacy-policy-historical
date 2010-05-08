@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jtrigsby.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622001928id_/http%3A//www.jtrigsby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jtrigsby.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508105939id_/http%3A//www.jtrigsby.com/privacy) for the most accurate reproduction.*
 
 # Privacy at jtrigsby.com | jtrigsby.com
+
+##  Privacy 
 
 Ethel Guarding the Safe, Thanks Grandma!
 
@@ -8,7 +10,7 @@ Here at jtrigsby.com, I respect your privacy (unlike my other sites?) and I am c
 
 **RSS Feeds and Email Updates**
 
-If a user wishes to subscribe to my RSS Feeds or Email Updates (powered by Feedburner), I ask for contact information such as name and email address. Users may opt-out of these communications at any time. Your personal information will never be sold or given to a third party. (You will never be spammed by me - ever)
+If a user wishes to subscribe to my RSS Feeds or Email Updates (powered by Feedburner), I ask for [contact](http://www.jtrigsby.com/contact-thom/ "contact") information such as name and email address. Users may opt-out of these communications at any time. Your personal information will never be sold or given to a third party. (You will never be spammed by me – ever)
 
 **Log Files and Stats**
 
@@ -29,5 +31,3 @@ I use outside ad companies to display ads on this blog. These ads may contain co
 **Contact Information**
 
 If you have any questions or concerns please contact Thom Rigsby at jtrigsby at jtrigsby dot com. This privacy policy updated February 2009. Thank you, and good night!
-
-[](http://twitter.com/home/?status=Privacy+http://www.jtrigsby.com/?p=7 "Post to Twitter")  [](http://plurk.com/?status=Privacy+http://www.jtrigsby.com/?p=7 "Post to Plurk")  [](http://buzz.yahoo.com/submit?submitUrl=http://www.jtrigsby.com/privacy/&submitHeadline=Privacy "Post to Yahoo Buzz")  [](http://delicious.com/post?url=http://www.jtrigsby.com/privacy/&title=Privacy "Post to Delicious")  [](http://digg.com/submit?url=http://www.jtrigsby.com/privacy/&title=Privacy "Post to Digg")  [](http://ping.fm/ref/?method=microblog&title=Privacy&link=http://www.jtrigsby.com/privacy/ "Post to Ping.fm")  [](http://reddit.com/submit?url=http://www.jtrigsby.com/privacy/&title=Privacy "Post to Reddit")  [](http://stumbleupon.com/submit?url=http://www.jtrigsby.com/privacy/&title=Privacy "Post to StumbleUpon") 
