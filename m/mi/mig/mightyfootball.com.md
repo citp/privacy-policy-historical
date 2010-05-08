@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mightyfootball.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616174418id_/http%3A//www.mightyfootball.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightyfootball.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508140636id_/http%3A//www.mightyfootball.com/%3Fpage_id%3D1344) for the most accurate reproduction.*
 
 # Privacy Statement | MightyFootball
 
