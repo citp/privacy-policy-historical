@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the furniturevillage.co.uk privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217023200id_/http%3A//www.furniturevillage.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturevillage.co.uk privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508143309id_/http%3A//www.furniturevillage.co.uk/Pages/Privacy.aspx) for the most accurate reproduction.*
 
-# Furniture Village
+# Privacy
 
 Furniture Village Limited ("Furniture Village", "we" or "us") is committed to protecting your privacy. This Privacy Policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and the procedures that we have in place to safeguard your privacy. 
+
+### 1: The information we collect and how we use it 
 
 When you register with us we need to know your name, postal address and e-mail address. 
 
@@ -14,14 +16,26 @@ We gather this information to allow us to process your order and provide you wit
 
 We may also wish to provide you with information about special features of our Website or any other service or products we think may be of interest to you. If you would rather not receive this information, please send an e-mail message to [online@furniturevillage.co.uk](mailto:online@furniturevillage.co.uk). 
 
+### 2: Our use of “cookies”
+
 Cookies are small text files stored on your personal computer when you visit certain web pages, they do not store your personal information. If you do not want your personal computer to accept cookies or want to delete any cookies that are already on your personal computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies in order to delete them or to disable your personal computer from accepting them. 
 
-Information you provide to us remains confidential. The internal procedures of Furniture Village cover the storage, access and disclosure of your information and we will fully comply with all applicable UK data protection law. 
+### 3: How we protect your information   
+
+
+Information you provide to us remains confidential. The internal procedures of Furniture Village cover the storage, access and disclosure of your information and we will fully comply with all applicable UK data protection law.
+
+### 4: Your details and how to update them 
 
 You have the right at any time to request a copy of the personal data we hold on you. 
 
-If any of the information that you have provided to us changes, for example if you change your e-mail address or if you wish to cancel your registration, please let us know the correct details by [contacting us](https://web.archive.org/contactus.aspx) by fax, phone or e-mail. 
+If any of the information that you have provided to us changes, for example if you change your e-mail address or if you wish to cancel your registration, please let us know the correct details by [contacting us](https://web.archive.org/Customer-Services/Get-in-touch/Contact-us.aspx) by fax, phone or e-mail. 
+
+### 5: Your consent 
 
 By submitting your information you consent to the use of that information as set out in this Privacy Policy. If we change our Privacy Policy we will post the changes on this section of the Website, so that you may be aware of the information we collect and how we use it at all times. Your continued use of the Website constitutes your agreement to any such changes. 
 
-We welcome your views about our Website and our Privacy Policy. Should you wish to [contact us](https://web.archive.org/contactus.aspx) regarding our Website or Privacy Policy please do so. 
+### 6: How to contact us 
+
+We welcome your views about our Website and our Privacy Policy. Should you wish to [contact us](https://web.archive.org/Customer-Services/Get-in-touch/Contact-us.aspx) regarding our Website or Privacy Policy please do so.   
+
