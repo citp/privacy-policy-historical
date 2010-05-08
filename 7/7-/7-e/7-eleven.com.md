@@ -1,50 +1,47 @@
-> *The following text is extracted and transformed from the 7-eleven.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515124836id_/http%3A//www.7-eleven.com/Home/tabid/72/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7-eleven.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508040622id_/http%3A//www.7-eleven.com/Home/tabid/72/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # 7-Eleven.com > Home
 
-**Introduction**
+7-Eleven.com is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the 7-Eleven.com Web site and governs data collection and usage. By using the 7-Eleven.com website, you consent to the data practices described in this statement.
 
-7-Eleven, Inc., the operator of this web site, is committed to preserving the privacy of those who visit our 7-eleven.com or Slurpee.com site. This document, as our official Privacy Policy, will outline how we gather and utilize various sources of information obtained during your visit to 7-eleven.com or Slurpee.com. This Privacy Statement applies solely to information collected at this particular web site. 
+Collection of your Personal Information
 
-**Links to Third Party Sites**
+7-Eleven.com collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. 7-Eleven.com also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-We may make content or services from other Web sites including our affiliated or co-branded Web sites available to you from links located on 7-eleven.com or Slurpee.com. These "other" domains (web sites) are not controlled by 7-Eleven, Inc. We encourage our users to be aware when they leave our site and to read the privacy policies of each and every web site that collects personally identifiable information. Visiting sites linked from 7-eleven.com or Slurpee.com is at your own risk. 
+There is also information about your computer hardware and software that is automatically collected by 7-Eleven.com. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by 7-Eleven.com for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the 7-Eleven.com Web site.
 
-**Information Collected**
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through 7-Eleven.com public message boards, this information may be collected and used by others. Note: 7-Eleven.com does not read any of your private online communications.
 
-**General:**  
-7-Eleven, Inc. does not currently collect personally identifying information ("Information") except to the extent that: (i) your web browser provides Information to our web server, i.e., Log-File information; (ii) you provide information to us by completing or running a search request; (iii) any information you provide in a request for information or content form, (iv) an e-mail to us; or (v) your submission of an application for employment. 
+7-Eleven.com encourages you to review the privacy statements of Web sites you choose to link to from 7-Eleven.com so that you can understand how those Web sites collect, use and share your information. 7-Eleven.com is not responsible for the privacy statements or other content on Web sites outside of the 7-Eleven.com and 7-Eleven.com family of Web sites.
 
-**Web Site "Log-File" Information:**  
-We automatically collect common "log-file" data, including, for example, IP addresses, referring sites, your geographic location, ISP throughput, duration of visit, frequency of visits, your browser software, your computer hardware, your operating system, and other miscellaneous information regarding your visit to the site. This information is not linked to the identity of the user. 
+Use of your Personal Information
 
-**Cookies:**  
-Our site may pass a "cookie" (a string of information that is sent by a web site to be resident on your system's hard drive, and/or temporarily in your computer's memory blocks). The purpose of a cookie is to tell the web server that you have returned to a particular page. You may set your browser to decline cookies. If you do so, however, you may not be able to fully experience some interactive features of the site. 
+7-Eleven.com collects and uses your personal information to operate the 7-Eleven.com Web site and deliver the services you have requested. 7-Eleven.com also uses your personally identifiable information to inform you of other products or services available from 7-Eleven.com and its affiliates. 7-Eleven.com may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-**Utilization of Information**
+7-Eleven.com does not sell, rent or lease its customer lists to third parties. 7-Eleven.com may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, 7-Eleven.com may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to 7-Eleven.com, and they are required to maintain the confidentiality of your information.
 
-7-Eleven will only use your Information for the specific purpose for which you submitted the Information, except that 7-Eleven may use Information obtained from this site in a non-identifiable aggregate form to provide advertisers and/or other third parties our general Web site usage statistics. 
+7-Eleven.com does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-7-Eleven, Inc. may also disclose personal information about users in response to (a) requests from local, state or federal law enforcement officials; (b) any judicial, administrative or similar proceeding or order, such as subpoena; (c) if required by law; or (d) in special circumstances, such as in response to a physical threat or perceived physical threat to any individual or to enforce the terms of use of this site. 
+7-Eleven.com keeps track of the Web sites and pages our customers visit within 7-Eleven.com, in order to determine what 7-Eleven.com services are the most popular. This data is used to deliver customized content and advertising within 7-Eleven.com to customers whose behavior indicates that they are interested in a particular subject area.
 
-**Children's Privacy**
+7-Eleven.com Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on 7-Eleven.com or the site; (b) protect and defend the rights or property of 7-Eleven.com; and, (c) act under exigent circumstances to protect the personal safety of users of 7-Eleven.com, or the public.
 
-7-Eleven.com nor Slurpee.com collects personally identifiable information from children under 13 years old. 
+Use of Cookies
 
-**Security**
+The 7-Eleven.com Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-This site has security measures in place designed to help protect against the loss, misuse and alteration of the information under our control. We use Secure Socket Layer (SSL) encryption to protect data transmissions of personal information. 7-Eleven will not be liable for disclosures of your personal information due to errors in transmission or unauthorized acts of third parties. We have undertaken all commercially reasonable efforts to prevent unauthorized Internet access to visitor data retained in our servers, however, 7-Eleven cannot ensure or warrant the security of any information you transmit to us or any information provided online, and you do so at your own risk. Users must accept all risks associated with any data transmission, including the risk that their personal information may be intercepted in transit. 
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize 7-Eleven.com pages, or register with 7-Eleven.com site or services, a cookie helps 7-Eleven.com to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same 7-Eleven.com Web site, the information you previously provided can be retrieved, so you can easily use the 7-Eleven.com features that you customized.
 
-**Policy Modifications**
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the 7-Eleven.com services or Web sites you visit.
 
-Please check this page periodically for changes to this Privacy Policy. We reserve the right to modify this policy as we deem appropriate by posting a new privacy policy at this location. If we decide to change our current policy to any significant degree, we will not use your personal information under the new policy in a manner that is materially inconsistent with this current Privacy Policy without your prior consent. Thank you for patronizing 7-eleven.com and/or Slurpee.com. 
+Security of your Personal Information
 
-**Comments and Questions**
+7-Eleven.com secures your personal information from unauthorized access, use or disclosure. 7-Eleven.com secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us at the following address: 
+Changes to this Statement
 
-7-Eleven, Inc.  
-Attn: 7-Eleven.com/Slurpee.com Webmaster  
-P.O. Box 711  
-Dallas, TX 75221-0711  
-webmaster@7-11.com
+7-Eleven.com will occasionally update this Statement of Privacy to reflect company and customer feedback. 7-Eleven.com encourages you to periodically review this Statement to be informed of how 7-Eleven.com is protecting your information.
+
+Contact Information
+
+7-Eleven.com welcomes your comments regarding this Statement of Privacy. If you believe that 7-Eleven.com has not adhered to this Statement, please contact 7-Eleven.com at [webmaster@7-11.com](mailto:webmaster@7-11.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
