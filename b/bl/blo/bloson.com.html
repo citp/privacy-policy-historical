@@ -1,0 +1,630 @@
+<!--The following is the downloaded HTML source of the bloson.com privacy policy that was archived on 2010-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100508091654id_/http%3A//www.bloson.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Bloson - Enjoy the best music, videos and shopping while helping a cause</title>
+<meta name="description" content="Bloson helps a social cause you care about. Earn points as you enjoy music, videos and shopping at bloson.com and see them converted into real donations to the cause you support.">
+<link rel="stylesheet" type="text/css" href="http://cache.bloson.com/css/common/overview_style-min.css">
+<!-- UTF Character -->
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<!-- header cache expires set for 1 month -->
+<meta http-equiv="expires" content="Tue, 08 Jun 2010 02:16:49 GMT">
+<link rel="shortcut icon" href="http://cache.bloson.com/images/common/favicon16.ico">
+<!--link rel="stylesheet" type="text/css" href="http://cache.bloson.com/css/common/new_style_2_7-min.css"/-->
+<link rel="stylesheet" type="text/css" href="http://cache.bloson.com/css/common/new_style_2_9-min.css">
+
+<link rel="stylesheet" type="text/css" href="http://cache.bloson.com/css/common/header_style_ie7-min.css">
+<link rel="stylesheet" type="text/css" href="http://cache.bloson.com/css/common/header_style_4.0-min.css">
+<link rel="stylesheet" type="text/css" href="http://cache.bloson.com/css/common/facebox-min.css">
+<link rel="stylesheet" type="text/css" href="http://cache.bloson.com/css/common/jquery.autocomplete.css">
+<link rel="stylesheet" type="text/css" href="http://cache.bloson.com/css/common/jquery.selectbox-min.css">
+<link rel="stylesheet" type="text/css" href="http://cache.bloson.com/css/common/footer_style-4.0-min.css">
+
+<script type="text/javascript" src="http://cache.bloson.com/js/common/jquery-1.2.1.pack.js" charset="utf-8"></script>
+
+<script language="javascript">
+
+var WEBROOT = "/";
+var BASEPATH = "http://www.bloson.com/";
+var CURPATH = "http://www.bloson.com/privacy.php";
+var MUSIC_DOMAIN = "http://music.bloson.com/";
+var VIDEO_DOMAIN = "http://video.bloson.com/";
+var SHOPPING_DOMAIN = "http://shopping.bloson.com/";
+var header_permission_read = "";
+var header_permission_publish = "";
+var jquery = jQuery.noConflict();
+var header_server_host = "www.bloson.com";
+var header_page_val = "/privacy.php";
+jquery(document).ready(function() {
+	jquery("img[@src$=png], #top_banner_new").pngfix({
+		sizingMethod: "scale"
+	});
+});
+window.onload = function() {
+	watermark("q","Web search - Powered by Google Search");
+	headerOnloadSearchFun(WEBROOT);
+	
+	MM_preloadImages('http://cache.bloson.com/images/common/home_mover.gif','http://cache.bloson.com/images/common/video_mover.gif','http://cache.bloson.com/images/common/music_mover.gif','http://cache.bloson.com/images/common/shop_mover.gif','http://cache.bloson.com/images/common/album_new_like_hover.gif','http://cache.bloson.com/images/common/album_new_dislike.gif','http://cache.bloson.com/images/common/new_like_hover.gif','http://cache.bloson.com/images/common/new_dislike_hover.gif');
+	if((header_page_val == "/movieNew.php" || header_page_val == "/tvshows.php") && header_server_host=="video.bloson.com") {
+	MM_preloadImages('http://cache.bloson.com/images/common/nav_com_hover.gif','http://cache.bloson.com/images/common/nav_dra_hover.gif','http://cache.bloson.com/images/common/nav_hor_hover.gif','http://cache.bloson.com/images/common/nav_act_hover.gif','http://cache.bloson.com/images/common/nav_ani_hover.gif','http://cache.bloson.com/images/common/nav_fam_hover.gif','http://cache.bloson.com/images/common/nav_news_hover.gif','http://cache.bloson.com/images/common/nav_see.gif');
+	}
+	if(header_page_val == "/index.php" && header_server_host=="music.bloson.com") {
+	MM_preloadImages('http://cache.bloson.com/images/common/rock_hover.gif','http://cache.bloson.com/images/common/indie_hover.gif','http://cache.bloson.com/images/common/electronic_hover.gif','http://cache.bloson.com/images/common/pop_hover.gif','http://cache.bloson.com/images/common/metal_hover.gif','http://cache.bloson.com/images/common/hiphop_hover.gif','http://cache.bloson.com/images/common/jazz_hover.gif','http://cache.bloson.com/images/common/classical_hover.gif','http://cache.bloson.com/images/common/latin_hover.gif','http://cache.bloson.com/images/common/seeall_hover.gif');
+	}
+
+		
+	var header_server_host = "www.bloson.com";
+	
+	if(header_page_val == "/home.php" && header_server_host=="www.bloson.com") {
+		var log_user =	jquery('#login_user').val();
+		if(log_user!=""){
+			load_image();
+		}
+	}
+	if(header_page_val == "/facebook_newsfeed.php") {
+		load_photo();
+		if(header_permission_read==0) {
+			permissionReadForm();
+		}
+	}
+	
+	if(header_page_val == "/myshopping_new.php") {
+		$('a[rel*=facebox]').facebox();
+	}
+	
+	if(header_page_val == "/mymusic_new.php") {
+		var get_user =	jquery('#user').val();
+		var arr_user =	jquery('#login_user').val();
+		if(get_user==arr_user){
+			new1();
+		} 
+	}
+}
+function MM_preloadImages() { //v3.0
+
+	var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+	var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+	if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+	var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.01
+	var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+		d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);
+	}
+	if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+	for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+	if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+	var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+	if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+function get(id) {
+	return document.getElementById(id);
+}
+
+function hide(id) {
+	get(id).style.display = "none";
+}
+
+function show(id) {
+	get(id).style.display = "";
+}
+
+var watermarkObj = new Array();
+var watermarkVal = new Array();
+
+function watermark(id, value) {
+	// Get object
+	var box = get(id);
+	// Setup clear function
+	box.onfocus = function() {
+	if (this.value == value)
+		this.value = "";
+	}
+	// Setup autofill function
+	box.onblur = function() {
+		if (this.value == "")
+		this.value = value;
+	}
+	// Set initial value
+	if (box.value == "") {
+		box.value = value;
+	}
+	// Add to arrays
+	watermarkObj[watermarkObj.length] = id;
+	watermarkVal[watermarkVal.length] = value;
+}
+
+function clearDefaults() {
+	/* Call this function to clear all
+	default values (such as before
+	submitting a form) */
+	
+	for (var i = 0; i < watermarkObj.length; i++) {
+		var obj = get(watermarkObj[i]);
+		if (obj.value == watermarkVal[i])
+			obj.value = "";
+	}
+}
+
+function setDefaults() {
+	/* Call this function to reset all
+	blank fields to their
+	watermark values */
+	
+	for (var i = 0; i < watermarkObj.length; i++) {
+		var obj = get(watermarkObj[i]);
+		if (obj.value == "")
+			obj.value = watermarkVal[i];
+	}
+}
+
+</script></head>
+<body>
+<div class="newtop_main">
+	<div class="test_container">
+         
+
+<input type="hidden" name="header_type" id="header_type" value="/">
+<div class="newtop_header">
+  <div class="head_wrapper">
+    <div class="head_top_ol">
+      <div class="head_top_left">
+        <div class="head_logo">
+                    <a href="http://www.bloson.com/"><img src="http://cache.bloson.com/images/common/logo_beta-1-min.png" width="269" height="62" alt="bloson" title="bloson"></a> </div>
+        <div class="head_nav_ol">
+          <table width="451" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              	 <td width="85"><a href="http://www.bloson.com/" title="Home"><img src="http://cache.bloson.com/images/common/header/hhome_active-min.png" name="Image2" width="82" height="33" border="0" id="Image2" class="head_menu_img"></a></td>
+     <td width="85"><a href="http://video.bloson.com/" title="Video" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','http://cache.bloson.com/images/common/header/video_hover-min.png',1)"><img src="http://cache.bloson.com/images/common/header/hvideo_normal-min.png" name="Image3" width="82" height="33" border="0" id="Image3"></a></td>
+     <td width="85"><a href="http://music.bloson.com/" title="Music" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','http://cache.bloson.com/images/common/header/hmusic_hover-min.png',1)"><img id="Image4" src="http://cache.bloson.com/images/common/header/hmusic_normal-min.png" alt="" width="82" height="33" class=""></a></td>
+      <td width="109"><a href="http://shopping.bloson.com/" title="Shopping" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','http://cache.bloson.com/images/common/header/hshop_hover-min.png',1)"><img src="http://cache.bloson.com/images/common/header/hshop_normal-min.png" name="Image5" width="106" height="33" border="0" id="Image5"></a></td>
+      <td><a href="http://www.bloson.com/causes/" title="Causes" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','http://cache.bloson.com/images/common/header/hcause_hover-min.png',1)"><img src="http://cache.bloson.com/images/common/header/hcause_normal-min.png" name="Image6" width="87" height="33" border="0" id="Image6"></a></td>
+            </tr>
+          </tbody></table>
+        </div>
+      </div>
+      <div class="head_top_right">
+        <div class="head_logout_ol">
+                    <div class="newtop_logout_outline">
+            <div class="learn_more"><a href="http://www.bloson.com/overview.php"><img height="32" width="98" title="learn more" alt="learn more" src="http://cache.bloson.com/images/common/learn_more.gif"></a></div>
+            <div class="newtop_login_facebook" name="header_facebook_login" id="header_facebook_login"> <a href="javascript:;" onclick="FB.Connect.requireSession(function() { document.location.reload(); }); return false;"><img src="http://cache.bloson.com/images/common/login_facebook-min.png" width="201" height="32" alt="login button" title="login"></a>
+              <!--<a href="javascript:;"><img src="http://cache.bloson.com/images/common/login_facebook.gif" width="201" height="32" alt="" title="login"  /></a>-->
+            </div>
+          </div>
+                  </div>
+        <div class="head_search_ol">
+        <div class="head_sear_menu_ol"> 
+        <span id="header_web_search"><a href="javascript:;" title="Web" onclick="headerSearchFun('/')">Web</a></span> <span>|</span> <span id="header_video_search"><a href="javascript:;" title="Video" onclick="headerSearchFun('/video/')">Video</a></span> <span>|</span> <span id="header_music_search" class=""><a href="javascript:;" title="Music" onclick="headerSearchFun('/music/')">Music</a></span> <span>|</span> <span id="header_shop_search"><a href="javascript:;" title="Shopping" onclick="headerSearchFun('/shopping/')">Shopping</a></span> </div>
+          <div class="newtop_search_bottom" id="header_web_search_box" style="display:none">
+            <div class="head_searchfield_ol">
+              <form name="google_search_frm" onsubmit="return allpageSearch();" id="cse-search-box">
+                <input name="q" id="q" type="text" class="head_searchfield">
+                <input type="hidden" name="cx" value="partner-pub-4487802022568149:6kxth4ovoyl">
+                <!-- 008269283797208711254:d0nrl7brfiw -->
+                <input type="hidden" name="cof" value="FORID:11">
+                <input type="hidden" name="ie" value="ISO-8859-1">
+                <input type="hidden" name="ie" value="UTF-8">
+                <script type="text/javascript" src="http://cache.bloson.com/js/common/google_code-0-2.js"></script>
+              </form>
+            </div>
+            <div class="head_search_btn_ol">
+              <input name="" type="button" class="newtop_main_search_btn" onclick="allpageSearch()" value="">
+            </div>
+          </div>
+          <div class="newtop_search_bottom" id="header_music_search_box" style="display:none;">
+            
+<div class="newtop_main_search_ol">
+  <form name="frm_search" autocomplete="on" onsubmit="return go_searchpage();" method="post"> 	
+				
+              <div style="float:left;">
+		
+                <input id="search_musics" name="search_musics" class="head_searchfield" type="text" value="Music search" onfocus="if (this.value == 'Music search') { this.value=''; }" onblur="if ( this.value == '' ) { this.value='Music search'; }">
+              </div>
+            
+			  	<input type="hidden" name="search_type" id="search_type" value="songs">
+			
+				<!--<div class="newtop_video_search_combo">
+				<dl id="sample_new" class="dropdown_new">
+				
+                  <dt><a href="javascript:;"><span id="music_select_id"></span></a></dt>
+                  <dd >
+                    <ul>
+					<li><a href='javascript:;' onclick="change_searchtype('songs')">Songs</a></li>
+					<li><a href='javascript:;' onclick="change_searchtype('lyrics')">Lyrics</a></li>
+					<li><a href='javascript:;' onclick="change_searchtype('artists')">Artists</a></li>
+					<li><a href='javascript:;' onclick="change_searchtype('albums')">Albums</a></li>
+					
+					<li><a href='javascript:;' onclick="change_searchtype('video clips')">Video clips</a></li>
+				    <li><a href='javascript:;' onclick="change_searchtype('all')">All</a></li>
+                      
+					  
+					   
+                    </ul>
+                  </dd>
+                </dl>
+			</div>-->
+            
+            <div class="newtop_main_search_btn_ol">
+              <input name="" type="submit" class="newtop_main_search_btn" onclick="go_searchpage();" value="">
+            </div>
+			</form>
+            </div>          </div>
+          <div class="newtop_search_bottom" id="header_video_search_box" style="display:none">
+            
+<div class="newtop_main_search_ol">
+  <form name="frm_video_search" autocomplete="on" onsubmit="return go_videosearch();" method="post"> 
+		       
+             
+			  	<div class="newtop_main_search_ol">
+		<input type="hidden" name="video_search_type" id="video_search_type" value="tv_shows">
+                <input id="search_videos" name="search_videos" class="head_searchfield" type="text" value="Video search – Powered by Truveo" onfocus="if (this.value == 'Video search – Powered by Truveo') {this.value='';}" onblur="if (this.value == '') {this.value='Video search – Powered by Truveo';}">
+              </div>
+			  
+           
+            <div class="head_search_btn_ol">
+              <input name="" type="submit" class="newtop_main_search_btn" onclick="go_videosearch();" value="">
+              </div>
+</form>	
+      </div>       
+
+
+          </div>
+          <div class="newtop_search_bottom" id="header_shop_search_box" style="display:none">
+             <div class="newtop_main_search_ol">
+<form name="header_shopping_form" id="header_shopping_form" action="http://shopping.bloson.com/" method="get" onsubmit="return checksearchInfo();">
+<input type="hidden" name="Operation" value="ItemSearch">
+<input type="hidden" name="nodeSearch" id="nodeSearch" value="13993911">
+   <div style="float:left;">
+	   <input type="text" name="Keywords" id="Keywords" value="Shopping search - Powered by Amazon" onfocus="if (this.value == 'Shopping search - Powered by Amazon') {this.value='';}" onblur="if (this.value == '') {this.value='Shopping search - Powered by Amazon';}" class="head_searchfield">
+    </div>
+	<!-- <div class="newtop_video_search_combo" style="z-index:999;">
+	 <dl id="sample_new" class="dropdown_new" style="z-index:999;">
+                  <dt><a href="javascript:;"><span style="font-size:10px;">Video_all</span></a></dt>
+                  <dd style="z-index:999;">
+                    <ul style="z-index:999;height:118px;width:125px;border-right:1px solid #999999;border-left:1px solid #999999;border-bottom:1px solid #999999;overflow-y:scroll;overflow-x:hidden;">
+				  </ul>
+                  </dd>
+                </dl>
+	
+</div>-->
+
+<div class="newtop_main_search_btn_ol">
+<input type="submit" class="newtop_main_search_btn" value="">
+</div>
+</form>
+</div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="nav_menu_ol">
+ 	  <!-- Home page without login coding is going here -->
+	          <div class="nav_menu_music"></div>
+	      </div>
+  </div>
+    		<div style="text-align:right;z-index:999999;display:block;float:right;height:69px;" id="top_banner_new"><a href="http://www.bloson.com/overview.php" style="float:left;"><img src="http://cache.bloson.com/images/common/banner-top2-min.png" width="917" height="65"></a></div>     			
+		
+</div><div class="test_body">
+      <div class="test_body_mid">
+        <div class="test_body_top">
+          <div class="central">
+            <div class="clear"></div>
+            <div class="terms_ofuse">
+              	<p><span class="central_head">Privacy Policy </span><br><br><span class="central_bold">November 20th, 2009</span><br><br><span class="central_bold">Introduction:</span>
+				<br>
+				<br>
+				This policy applies to bloson and to all the products, services and websites offered by bloson.  Protecting your privacy and any personal information you provide us is a top priority at bloson.  For this reason, bloson does not sell or rent your personal information to third parties for their marketing purposes without your explicit consent.  At bloson, we want our users to understand fully what information we collect, how we use this information, and the steps we take to protect your information.  This Privacy Policy applies to the domain and sub-domains of bloson.com (the "Site").  By visiting this Site you agree to be bound by the terms and conditions of this Privacy Policy.  If you do not agree to be bound by this Privacy Policy please do not use or access our Site.
+				<br>
+				<br>
+				By accepting the Privacy Policy and the Terms of Use at the point of registration, you expressly consent to bloson's use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the Terms of Use. This Privacy Policy is effective upon acceptance during registration for new registering users, and is otherwise effective on November 20th for all users.
+				 <br><br><span class="central_bold">Privacy Principles</span>
+				<br><br> 
+				<span class="central_bold">1) you choose what you want to disclose
+				<br>
+				<br>
+  				2) you own your data
+				</span> 
+				<br>
+				<br>
+				<span class="central_bold">Information we collect and how we use it</span>
+				<br>
+				<br>
+We offer a number of services that do not require you to register for an account or provide any personal information to us, such as watching a video or listening to a song. In order to use our full range of services and collect points, you will have to register for an account and provide some information. 
+<br>
+<br> 
+<span class="central_bold">Information you provide</span>
+<br>
+<br>
+Once you allow the site to connect with Facebook, you will be able to use your Facebook login information to log into your bloson account.  By using Facebook Connect, you permit bloson to access certain Facebook information related to you, including your profile information, friends and privacy settings.  This enables us to customize your bloson account by allowing you to use your Facebook information and interact with your Facebook friends through the Site.  Accessing your bloson account through Facebook Connect will also allow you to publish some of your bloson activities to your Facebook profile.
+You may also display personal information in order to get more points or promotions or to advertise your interests. Providing additional personal information is voluntarily and not necessary for using the Site.  Additional personal information you provide maybe edited or deleted at any time.
+
+<br>
+<br>
+<span class="central_bold">Information we collect</span>
+<br>
+<br>
+Bloson only collects personal information about users that we consider necessary for providing our services in an efficient, customized and user-friendly manner. In addition to the information you provide, our servers automatically record information that your browser sends whenever you visit a website. Such information includes the user's IP address, browser type, browser language, the date and time of your request and the URL that you come from or go to (whether this URL is on the site or not). We use this information to do internal research on our users' demographics, interests, and behavior, in order to serve our users better.
+We may also collect and store information based upon your behavior on the Site, such as how long you use the services, videos or songs you enjoy and share with friends on bloson, your browsing history on bloson (including any links that you may click within the Site), your preferences, your search history, and any social connections you have created on the site.  
+
+
+<br>
+<br>
+<span class="central_bold">Cookies</span>
+<br>
+<br>
+We use data collection devices such as "cookies" on the bloson Site in order to improve the quality of our service, to store user preferences, to improve product and service recommendations and ad selection, and to track user trends. Cookies are small pieces of data that are placed on your hard drive. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a browser session. You are always free to decline our cookies if your browser permits, although if you disable the cookies you may not be able to use certain features and services offered on the Site. Other websites may use cookies. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by bloson only and does not cover the use of cookies by any advertisers or third parties.  
+
+
+<br>
+<br>
+<span class="central_bold">Advertisers and 3rd Party Websites</span>
+<br>
+<br>
+WThis Privacy Policy applies to bloson Sites and services only. Bloson contains links to other third party sites, such as the sites of our content providers and ad networks. While bloson makes every effort to ensure that our advertisers post clear privacy policies and observe appropriate data practices, each of these sites has a privacy policy that may differ from ours. The privacy practices of other websites and companies are not covered by this policy.  
+<br>
+<br>
+<span class="central_bold">Use of data</span>
+<br>
+<br>
+If we request the use of personal information for any purposes other than those described in this Privacy Policy and/or in the specific service privacy notices, you may opt out of the use of your personal information for those other purposes by sending an email to info@bloson.com. We will not collect or use sensitive information for purposes other than those described in this Privacy Policy and/or in the supplementary service privacy notices, unless we have obtained your prior express consent.   
+<br>
+<br>
+<span class="central_bold">Information sharing</span>
+<br>
+<br>
+We will not provide personal information to any third party marketers without your explicit consent. We shall share your information with third parties only in the following limited circumstances:
+<br>
+<br>
+
+<span class="casual_left">¤ We only share personal information upon receiving your express consent by opting in.</span>
+<br>
+<br>
+
+<span class="casual_left">¤ We may use third parties ("Affiliates") to facilite or outsource one or more aspects of the services that we provide or for the purpose of processing personal information on our behalf. These Affiliates are subject to confidentiality agreements with us and other legal restrictions that prohibit their using the information we provide them for any purpose other than to facilitate their specific outsourced service, unless you have explicitly agreed to or given your prior permission for additional uses.  We require that these parties agree to and comply with this Privacy Policy and any other appropriate confidentiality and security measures.</span>
+<br>
+<br>
+<span class="casual_left">¤ We will share your information in response to a verified request by law enforcement or other governmental officials.  In the event that we receive such a verified request, we can, and you authorize us to, disclose your personal information, with or without a subpoena.  We may also disclose information if we have good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of bloson, its users or the public as required or permitted by law.</span>
+<br>
+<br>
+<span class="casual_left">¤ We may aggregate (gather up data from numerous registered user accounts) personal information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for their marketing and promotional purposes.  For such purposes, we do not disclose any information that could be used to identify bloson users personally.</span>
+In the event of a change of ownership of bloson, user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, the user information would remain subject to the promises made in any pre-existing Privacy Policy.
+<br>
+<br>
+<span class="central_bold">Information security</span>
+<br>
+<br>
+Bloson has established company-wide security practices for your protection. These practices include, but are not limited to, firewall security and the use of multiple levels of password security to limit access to data on a "need-to-know" basis. 
+<br>
+<br>
+We may use contractors or vendors to help us provide some of the services on our site. As mentioned above, if we disclose personal information for them to provide the services, such third parties are subject to the terms of this Privacy Policy. All contractors and employees are required to familiarize themselves with, and abide by, these information security safeguards. 
+<br>
+<br>
+<span class="central_bold">Data integrity</span>
+<br>
+<br>
+Bloson processes personal information only for the purposes for which it was collected, and in accordance with this Privacy Policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy.
+<br>
+<br>
+Upon your request, we will deactivate your account.  To make this request, email info [at] bloson.com.  Your account will be deactivated as soon as is reasonably possible after we receive your request, but no later than 30 days from receipt of the request. Upon receipt of deactivation request, we will retain some of your information in order to prevent fraud, resolve disputes, troubleshoot problems, assist with any investigations, and comply with legal requirements. Therefore, you should be aware that not all of your information will be completely removed from our databases in response to your request.  However, your information will be removed from our active, registered user database and will only be available to select bloson personnel.
+<br>
+<br>
+<span class="central_bold">Changes to this Privacy Policy</span>
+<br>
+<br>
+Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect that most changes will be minor. If we make any major change to our Privacy Policy, we will provide you with prior notification by posting such changes on the website. All such amendments shall automatically become effective 30 days after they are initially posted on the site.<br>
+<br>
+
+If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us at any time through the website or at <br>
+<br>
+
+<span class="casual_italic">March LLC<br>
+161 First St.<br>
+Cambridge, MA 02142</span><br>
+
+
+
+            </p></div>
+          </div>
+        </div>
+      </div>
+      <div class="test_body_btm"><img alt="new_body_btm" src="http://cache.bloson.com/images/common/new_body_btm.gif" width="998" height="21"></div>
+    </div>
+  </div>
+  
+
+<script src="http://cache.bloson.com/js/common/FeatureLoader_03_MAY_10.js" type="text/javascript"></script>
+<script>
+	FB_RequireFeatures(["XFBML"], function()
+	{
+	FB.Facebook.init("1612718e377455db9009e05d80d39c1c", "http://www.bloson.com/xd_receiver.htm");
+	});
+</script><div class="footer_apis_contain">
+    <div class="footer_top_ol_contain">
+        <div class="footer_top_ol">
+            <div class="footer_top_left">
+              <table width="306" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td align="left" valign="top"><a href="http://www.facebook.com/bloson" title="facebook" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image58','','http://cache.bloson.com/images/common/footer_facebook_hover.png',1)"><img src="http://cache.bloson.com/images/common/footer_facebook_normal.png" name="Image58" width="137" height="47" border="0" id="Image58"></a></td>
+                  <td align="left" valign="top"><a href="http://www.twitter.com/bloson" title="twitter" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image59','','http://cache.bloson.com/images/common/footer_twitter_hover.png',1)"><img src="http://cache.bloson.com/images/common/footer_twitter_normal.png" name="Image59" width="136" height="38" border="0" id="Image59"></a></td>
+                </tr>
+              </tbody></table>
+            </div>
+            <div class="footer_top_right">
+                <div class="footer_logo2"><a href="http://www.hulu.com" title="hulu" target="_blank"><img src="http://cache.bloson.com/images/common/footer_hulu.png" width="59" height="29"></a></div>
+                <div class="footer_logo2"><a href="http://www.truveo.com" title="truveo" target="_blank"><img src="http://cache.bloson.com/images/common/footer_truveo.png" width="126" height="29"></a></div>
+                <div class="footer_logo1"><a href="http://www.youtube.com" title="youtube" target="_blank"><img src="http://cache.bloson.com/images/common/footer_youtube.png" width="62" height="40"></a></div>
+            </div>
+        </div>
+    </div>
+</div>  
+
+<div class="footer">
+	<div class="footer_contain">
+		<div class="footer_main">
+			<div class="footer_about_ol">
+                <div class="footer_about_title">About bloson</div>
+                <div class="footer_about_cnt"><a href="http://www.bloson.com/about/" title="About us">About us</a></div>
+                <div class="footer_about_cnt"><a href="http://www.bloson.com/contact/" title="Contact us">Contact us</a></div>
+                <div class="footer_about_cnt"><a href="http://www.bloson.com/advertising/" title="Advertise">Advertise</a></div>
+                <div class="footer_about_cnt"><a href="http://www.bloson.com/press/" title="Press">Press</a></div>
+                <div class="footer_about_cnt"><a href="http://www.bloson.com/nonprofits/" title="Non-profits">Non-profits</a></div>
+                <div class="footer_about_cnt"><a href="http://feedback.bloson.com/forums/34522-general" title="Report a bug" target="_blank">Report a bug</a></div>
+			</div>
+            <div class="footer_legal_ol">
+                <div class="footer_about_title">Legal</div>
+                <div class="footer_about_cnt"><a href="http://www.bloson.com/terms.php" title="T&amp;C">T&amp;C</a></div>
+                <div class="footer_about_cnt"><a href="http://www.bloson.com/privacy.php" title="Privacy">Privacy</a></div>
+                <div class="footer_about_cnt"><a href="http://www.bloson.com/dmca.php" title="DMCA">DMCA</a></div>
+            </div>
+            <div class="footer_learnmore_ol">
+                <div class="footer_about_title">Learn more</div>
+                <div class="footer_about_cnt"><a href="http://www.bloson.com/faq.php" title="FAQ">FAQ</a></div>
+                <div class="footer_about_cnt"><a href="http://www.bloson.com/overview.php" title="Overview">Overview</a></div>
+            </div>
+            <div class="footer_blank"></div>
+            <div class="footer_about_ol">
+                <div class="footer_about_title">Discover</div>
+                <div class="footer_about_cnt"><a href="http://www.bloson.com/causes/" title="Causes">Causes</a></div>
+                <div class="footer_about_cnt"><a href="http://video.bloson.com/" title="Video">Video</a></div>
+                <div class="footer_about_cnt"><a href="http://shopping.bloson.com/" title="Shopping">Shopping</a></div>
+                <div class="footer_about_cnt"><a href="http://music.bloson.com/" title="Music">Music</a></div>
+            </div>
+            <div class="footer_about_ol">
+                <div class="footer_about_title">My bloson</div>
+                <div class="footer_about_cnt">
+                	<a href="javascript:;" onclick="FB.Connect.requireSession(function() { document.location.reload(); }); return false;" title="My video">My video</a>                
+                </div>
+                <div class="footer_about_cnt">
+                	<a href="javascript:;" onclick="FB.Connect.requireSession(function() { document.location.reload(); }); return false;" title="My shopping">My shopping</a>                
+                </div>
+                <div class="footer_about_cnt">
+                	<a href="javascript:;" onclick="FB.Connect.requireSession(function() { document.location.reload(); }); return false;" title="My music">My music</a>                </div>
+            </div>
+		</div>
+	</div>
+</div>
+
+    
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7982889-1");
+pageTracker._setDomainName(".bloson.com");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-5ceDceoPCeIDM"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+  <img src="http://pixel.quantserve.com/pixel/p-5ceDceoPCeIDM.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+<script type="text/javascript" src="http://cache.bloson.com/js/common/jquery.pngfix_min.js" charset="utf-8"></script>
+<script language="javascript" type="text/javascript" src="http://cache.bloson.com/js/common/new_stealth-0-1_min.js"></script>
+<!--//Shopping <script language="javascript" type="text/javascript" src="http://cache.bloson.com/js/common/music_common-0-3_min.js"></script>-->
+
+<script language="javascript" type="text/javascript" src="http://cache.bloson.com/js/common/header_1_1-min.js"></script>
+
+<script language="javascript" type="text/javascript" src="http://cache.bloson.com/js/common/music_common-0.6-min.js"></script>
+<script language="javascript" type="text/javascript" src="http://cache.bloson.com/js/common/header_jquery.autocomplete_1.0-min.js"></script>
+<script language="javascript" type="text/javascript" src="http://cache.bloson.com/js/common/header_common_bloson_min.js"></script>
+
+<!-- //bloson
+<script language="javascript" type="text/javascript" src="http://cache.bloson.com/js/common/header_common-0-5_min.js"></script>
+-->
+<script type="text/javascript">
+		$(document).ready(function() {
+			
+			// Fix background images on all TD elements
+			$("table td").pngfix();
+			
+			// Fix background images on all A elements
+			$("a").pngfix();
+			
+			// Fix all inline PNG images and the element #container with the custom sizingMethod of "scale"
+			$("img[@src$=png], #container").pngfix({
+				sizingMethod: "scale"
+			});
+			
+			// $.miseAlphaImageLoader("sdsd");
+		});
+		</script>
+<script>
+function headerOnloadSearchFun(value_type) {
+	var header_type = document.getElementById('header_type').value;
+	
+	if((value_type=='/' && (header_page_val!="/mymusic_new.php" && header_page_val!="/myvideo_new.php" && header_page_val!="/myshopping_new.php")) || value_type=='causes/') {	
+		document.getElementById('header_web_search').className = 'head_sear_menu_sele';
+		document.getElementById('header_music_search').className = '';
+		document.getElementById('header_video_search').className = '';
+		document.getElementById('header_shop_search').className = '';
+		document.getElementById('header_music_search_box').style.display = 'none';
+		document.getElementById('header_video_search_box').style.display = 'none';
+		document.getElementById('header_shop_search_box').style.display = 'none';
+		document.getElementById('header_web_search_box').style.display = 'block';
+	}
+	else if(value_type=='/music/' || header_page_val=="/mymusic_new.php") {	
+		/*jquery(".dropdown_new dt a span").html("");
+		document.getElementById('search_type').value = "";*/
+		document.getElementById('header_music_search').className = 'head_sear_menu_sele';
+		document.getElementById('header_web_search').className = '';
+		document.getElementById('header_video_search').className = '';
+		document.getElementById('header_shop_search').className = '';
+		document.getElementById('header_web_search_box').style.display = 'none';
+		document.getElementById('header_video_search_box').style.display = 'none';
+		document.getElementById('header_shop_search_box').style.display = 'none';
+		document.getElementById('header_music_search_box').style.display = 'block';
+	
+	}
+	else if(value_type=='/video/' || header_page_val=="/myvideo_new.php") {	
+		/*jquery(".dropdown_new dt a span").html("");
+		document.getElementById('video_search_type').value = '';*/
+		document.getElementById('header_video_search').className = 'head_sear_menu_sele';
+		document.getElementById('header_web_search').className = '';
+		document.getElementById('header_music_search').className = '';
+		document.getElementById('header_shop_search').className = '';
+		document.getElementById('header_music_search_box').style.display = 'none';
+		document.getElementById('header_web_search_box').style.display = 'none';
+		document.getElementById('header_shop_search_box').style.display = 'none';
+		document.getElementById('header_video_search_box').style.display = 'block';
+	}
+	else if(value_type=='/shopping/' || header_page_val=="/myshopping_new.php") {
+		jquery(".dropdown_new dt a span").html('All');
+		document.getElementById('nodeSearch').value = '13993911';
+		document.getElementById('header_shop_search').className = 'head_sear_menu_sele';
+		document.getElementById('header_web_search').className = '';
+		document.getElementById('header_video_search').className = '';
+		document.getElementById('header_music_search').className = '';
+		document.getElementById('header_shop_search_box').style.display = 'block';
+		document.getElementById('header_web_search_box').style.display = 'none';
+		document.getElementById('header_video_search_box').style.display = 'none';
+		document.getElementById('header_music_search_box').style.display = 'none';
+	}
+	document.getElementById('header_type').value = value_type;
+}	
+function change_cookie(){
+	FB.Connect.logout(function() { document.location.reload();	});
+}
+</script>
+</div>
+
+
+</body></html>
