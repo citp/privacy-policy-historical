@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the qualityunit.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106103721id_/http%3A//www.qualityunit.com/about-us/privacy-policy-quality-unit) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualityunit.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508090548id_/http%3A//www.qualityunit.com/about-us/privacy-policy-quality-unit) for the most accurate reproduction.*
 
-# About Us - Privacy Policy
+# Privacy Policy - About Us
 
-This is the privacy policy for Quality Unit. Our homepage on the Web is located at [http://www.qualityunit.com](http://www.qualityunit.com/ "QualityUnit homepage").  
+This is the privacy policy for Quality Unit. Our homepage on the Web is located at [http://www.qualityunit.com](http://www.qualityunit.com/).  
 If you have any questions about this policy, please contact us. 
 
 **Validity  
