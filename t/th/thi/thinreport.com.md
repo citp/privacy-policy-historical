@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the thinreport.com privacy policy that was archived on 2009-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090928234112id_/http%3A//www.thinreport.com/general/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinreport.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508123828id_/http%3A//www.thinreport.com/general/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Thin Report
 
 #### Introduction
 
-[ ThinReport.com](https://web.archive.org/web/20090928234112id_/http%3A//www.thinreport.com/ "ThinReport.com") respects each individual’s right to personal privacy. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies solely to information collected at [ ThinReport.com](https://web.archive.org/web/20090928234112id_/http%3A//www.thinreport.com/ "ThinReport.com")’s Web site.
+[ ThinReport.com](https://web.archive.org/web/20100508123828id_/http%3A//www.thinreport.com/ "ThinReport.com") respects each individual’s right to personal privacy. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies solely to information collected at [ ThinReport.com](https://web.archive.org/web/20100508123828id_/http%3A//www.thinreport.com/ "ThinReport.com")’s Web site.
 
 #### Information Collection
 
-[ ThinReport.com](https://web.archive.org/web/20090928234112id_/http%3A//www.thinreport.com/ "ThinReport.com") collects referrer information from visitors to our website. This means we can review what search engine a user found our website from, and what ip (internet protocol) and user agent they’re using. We also collect demographic data in order to better understand our clients’ needs.
+[ ThinReport.com](https://web.archive.org/web/20100508123828id_/http%3A//www.thinreport.com/ "ThinReport.com") collects referrer information from visitors to our website. This means we can review what search engine a user found our website from, and what ip (internet protocol) and user agent they’re using. We also collect demographic data in order to better understand our clients’ needs.
 
 We verify the accuracy of this information using complex proprietary tracking software.
 
-We may or may not employ cookies. A cookie is a small text file that our Web server places on a user’s computer hard drive to be a unique identifier. Cookies enable [ ThinReport.com](https://web.archive.org/web/20090928234112id_/http%3A//www.thinreport.com/ "ThinReport.com") to track usage patterns and deliver customized content to users. Our cookies may or may not have an expiration date. Our cookies may or may not collect personally identifiable information.
+We may or may not employ cookies. A cookie is a small text file that our Web server places on a user’s computer hard drive to be a unique identifier. Cookies enable [ ThinReport.com](https://web.archive.org/web/20100508123828id_/http%3A//www.thinreport.com/ "ThinReport.com") to track usage patterns and deliver customized content to users. Our cookies may or may not have an expiration date. Our cookies may or may not collect personally identifiable information.
 
 #### Information Usage
 
@@ -30,11 +30,11 @@ If our policy on information collection or uses changes, we will advise you by u
 
 #### Access to Information
 
-[ ThinReport.com](https://web.archive.org/web/20090928234112id_/http%3A//www.thinreport.com/ "ThinReport.com") maintains the accuracy of our information through ongoing content refreshing Users may access their own personal information and [contact us](http://www.thinreport.com/general/contact-us.html "contact us") about inaccuracies they may find.
+[ ThinReport.com](https://web.archive.org/web/20100508123828id_/http%3A//www.thinreport.com/ "ThinReport.com") maintains the accuracy of our information through ongoing content refreshing Users may access their own personal information and [contact us](http://www.thinreport.com/general/contact-us.html "contact us") about inaccuracies they may find.
 
 #### Data Storage and Security
 
-[ ThinReport.com](https://web.archive.org/web/20090928234112id_/http%3A//www.thinreport.com/ "ThinReport.com") protects user information with the following security measures: secure servers, firewalls, SSL encryption and other technologies.
+[ ThinReport.com](https://web.archive.org/web/20100508123828id_/http%3A//www.thinreport.com/ "ThinReport.com") protects user information with the following security measures: secure servers, firewalls, SSL encryption and other technologies.
 
 #### Personal & Confidential Information Usage Policy?
 
