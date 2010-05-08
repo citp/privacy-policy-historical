@@ -1,54 +1,125 @@
-<!--The following is the downloaded HTML source of the investmentnews.com privacy policy that was archived on 2009-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091110214003id_/http%3A//www.investmentnews.com/apps/pbcs.dll/qwikNavsearch%3FQwikNav%3DPRIVACY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the investmentnews.com privacy policy that was archived on 2010-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100508105903id_/http%3A//www.investmentnews.com/article/20010101/STATIC/101010738) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-	<link rel="shortcut icon" href="http://www.investmentnews.com/favicon.ico" type="image/vnd.microsoft.icon"> 
-	<link rel="icon" href="http://www.investmentnews.com/favicon.ico" type="image/vnd.microsoft.icon"> 
-	<link rel="bookmark icon" href="http://www.investmentnews.com/favicon.ico"> 
-
-	
-	<title>Privacy Policy - Investment News 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="description" content="InvestmentNews is the premier source of news, data and information for financial advisers. Find in-depth investment analysis and commentary, industry news, extensive market data, and other investing tools and resources for advisers.">
+		<meta http-equiv="imagetoolbar" content="no">
+		<meta name="google-site-verification" content="WzfeSP1nqbvivtudCHqsEGzmvgJXmGaT5B-0poD6jOA">
+		<title>Privacy Policy - Investment News 
 </title>
-		<link rel="canonical" href="http://www.investmentnews.com/article/20010101/STATIC/101010738">
-<!--SET HEADLINE-->
-<meta name="headline" content="Privacy Policy">
 
-	<link rel="alternate" type="application/rss+xml" title="RSS feed" href="http://www.investmentnews.com/apps/pbcs.dll/section?Category=RSS02&amp;mime=xml">
-		
-	<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
-	  <meta name="verify-v1" content="XO0sIv+34CJ1oEqkxeAjMLaI/Eo1zYfHF3tCCpZPTJ8="> 
-    <!--<META name="verify-v1" content="ZFb8GG4OuBV9zjwy8OlaGk67ZsKgu1oQznQtfvG0qo8=" />-->
-    	   	
-	  
-    	  
-    <link href="/includes/in1.css" rel="stylesheet" type="text/css">
-    		
-	
-	  <link href="/includes/css/bd-profiles.css" rel="stylesheet" type="text/css">
-    <link href="http://app.quotemedia.com/css/tools.css" type="text/css" rel="stylesheet">
-    <script language="JavaScript">
+		<link rel="canonical" href="http://www.investmentnews.com/article/20010101/STATIC/101010738">
+
+
+		<link rel="stylesheet" href="/css/styles.css" type="text/css" media="screen">
+		<link rel="stylesheet" href="/css/sitelife.css" type="text/css" media="screen">
+
+		<script type="text/javascript" src="/js/main.js"></script>
+		<script type="text/javascript" src="/js/jquery.js"></script>
+		<script type="text/javascript" src="/js/jquery.tablesorter.min.js"></script>
+		<script type="text/javascript" src="/js/jquery.masonry.min.js"></script>
+		<script type="text/javascript" src="/js/jquery.validate.js"></script>
+ 		<script type="text/javascript" src="/js/ui.tabs.js"></script>
+ 		<script type="text/javascript" src="/js/styles.js"></script>
+ 		
+ 			<script type="text/javascript" src="/js/jquery.pagination.js"></script>
+<!-- BEGIN VIDEO SCRIPT -->
+	<script type="text/javascript">
+	// VIDEO PLAYER WIDGET
+	function addScriptTag(id, url, callback) {
+		var scriptTag = document.createElement("script");
+	   // Add script object attributes
+	   scriptTag.setAttribute("type", "text/javascript");
+	   scriptTag.setAttribute("charset", "utf-8");
+	   scriptTag.setAttribute("src", url + "&callback=" + callback);
+	   scriptTag.setAttribute("id", id);
+		var head = document.getElementsByTagName("head").item(0);
+		head.appendChild(scriptTag);
+	}
+		function getVideoFeed(vidList) {
+			addScriptTag("topVideos", "http://api.brightcove.com/services/library?command=find_videos_by_tags&and_tags=Wealthtrack&token=nEiumqjYjVXQDBg8YMs-bphQDntMkgY3tVC8VWl1aAI.&video_fields=id,name,videoStillURL,length,lastModifiedDate,playsTrailingWeek&sort_by=MODIFIED_DATE&sort_order=DESC&page_size=1", vidList);
+		}
+//		function getVideoFeed(vidList) {
+//			addScriptTag("topVideos", "http://api.brightcove.com/services/library?command=find_playlist_by_id&playlist_id=1125949998&token=nEiumqjYjVXQDBg8YMs-bphQDntMkgY3tVC8VWl1aAI.&video_fields=id,name,videoStillURL,length&page_size=1", vidList);
+//		}
+		function videoWidget(jsonData) {
+			var resp = document.getElementById("article_video_include");
+			for (var i=0; i<jsonData["items"].length; i++) {
+				var title = jsonData["items"][i];
+				var str = "";
+				str += '<div class="title" onClick="playTitle(' + title.id + ')">';
+				str += '<div class="thumb"><img src="' + title.videoStillURL + '"/></div>';
+				str += '<div class="displayBG">' + title.name + '</div><a class="vid_play_button"></a></div>';
+				resp.innerHTML += str;
+			}
+		}
+	function playTitle(id) {
+		window.location.href=("/section/multimedia?bctid=" + id)
+	}
+	window.onload = function() {
+		getVideoFeed('videoWidget');
+		//getVideoFeed('moreVideos');
+	}	
+	</script>	
+<!-- END VIDEO SCRIPT -->
+
+     	
+			<!--[if lt IE 7]>
+			<link rel="stylesheet" href="/css/ie6.css" type="text/css" media="screen" />
+			<script type="text/javascript" src="/js/DD_belatedPNG.min.js"></script>
+			<script type="text/javascript" src="/js/DD_roundies_0.0.2a-min.js"></script>
+			<script type="text/javascript" src="/js/ie6.js"></script>
+			<![endif]-->
+			
+			<!--[if IE 7]>
+			<link rel="stylesheet" href="/css/ie7.css" type="text/css" media="screen" />
+			<script type="text/javascript" src="/js/DD_roundies_0.0.2a-min.js"></script>
+			<script type="text/javascript" src="/js/ie7.js"></script>
+			<![endif]-->
+
+	<!-- START PLUCK SCRIPTS -->
+	<script type="text/javascript" src="/js/cci.js?ver=20091204-1"></script>
+	<script type="text/javascript" src="/js/cci-lib.js?ver=20091204-1"></script>
+
+	<script type="text/javascript" src="/section&amp;template=pluckJS&amp;mime=javascript&amp;ver=20091204-1"></script>
+	<script type="text/javascript" src="/js/cci-lib-pluck.js?ver=20091204-1"></script>
+
+  <!-- END PLUCK SCRIPTS -->
+
+  <script type="text/javascript">
+  //update article
+  function submitUpdateArticleRequest(pageUrl,pageTitle,articleKey) {
+
+    var requestBatch = new RequestBatch();
+    var updateAction = new UpdateArticleAction(articleKey, pageUrl, pageTitle);
+    requestBatch.AddToRequest(updateAction); 
+
+    requestBatch.BeginRequest(CCI.Pluck.Urls.DaapiProcessUrl, updateArticleCallback);
+  }
+          
+  function updateArticleCallback(responseBatch) {
+  	//do nothing
+  	console.dir(responseBatch);
+  }
+  	
+  
+
+</script>  
+
+	<script language="JavaScript">
 <!--
 //configuration
 ///apps/pbcs.dll/article?AID=/20010101/STATIC/101010738;
 //;
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
+//RIA = 11500,13557,15145,17268
 //
 //OAS_url = 'http://oascentral.investmentnews.com/RealMedia/ads/';
 OAS_url = 'http://oas-central.realmedia.com/RealMedia/ads/';
 //OAS_sitepage = window.location.hostname + window.location.pathname;
-OAS_sitepage = 'www.investmentnews.com/article/101010738';
-OAS_listpos='Top,Bottom,Right,x01';
+OAS_sitepage = 'www.investmentnews.com/article/ID_101010738';
+OAS_listpos='Top,TopRight,Bottom,Right,x01';
 OAS_query = '';
 OAS_target = '_blank';
 //end of configuration
@@ -68,9 +139,9 @@ OAS_version = 11;
 if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
   OAS_version = 10;
 if (OAS_version >= 11)
-	document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + '"><\/SCRIPT>');
+	document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
 //-->
-</script><script language="JavaScript1.1" src="http://oas-central.realmedia.com/RealMedia/ads/adstream_mjx.ads/www.investmentnews.com/article/101010738/15620892959@Top,Bottom,Right,x01?"></script>
+</script><script language="JavaScript1.1" src="http://oas-central.realmedia.com/RealMedia/ads/adstream_mjx.ads/www.investmentnews.com/article/ID_101010738/15620892959@Top,TopRight,Bottom,Right,x01?"></script>
 <script language="JavaScript">
 <!--
 document.write('');
@@ -79,66 +150,11 @@ document.write('');
 <!------ OAS SETUP end ------>
 
 
-	<script language="JavaScript" src="/apps/cookiesearchparams.js" type="text/javascript"></script>
+	<script type="text/javascript" charset="utf-8" src="http://api.brightcove.com/services/library?command=find_videos_by_tags&amp;and_tags=Wealthtrack&amp;token=nEiumqjYjVXQDBg8YMs-bphQDntMkgY3tVC8VWl1aAI.&amp;video_fields=id,name,videoStillURL,length,lastModifiedDate,playsTrailingWeek&amp;sort_by=MODIFIED_DATE&amp;sort_order=DESC&amp;page_size=1&amp;callback=videoWidget" id="topVideos"></script></head>
+
+	<body>
 	
-  <script language="JavaScript" type="text/javascript" src="/includes/main.js"> </script>
-	<script language="JavaScript" type="text/javascript" src="/includes/popupCalendar.js"></script><style>
-td.calendarDateInput {color:white;letter-spacing:normal;line-height:normal;font-family:Tahoma,Sans-Serif;font-size:11px;}
-select.calendarDateInput {letter-spacing:.06em;font-family:Verdana,Sans-Serif;font-size:11px;}
-input.calendarDateInput {letter-spacing:.06em;font-family:Verdana,Sans-Serif;font-size:11px;}
-</style>
-	
-	<script language="JavaScript" type="text/javascript" src="/includes/javascript/highlight.js"></script>
-	<script language="javascript" type="text/javascript" src="/includes/javascript/textLimit.js"></script>
-
-<meta name="dailyissuedate" value="20091110">
-<meta name="issuedate" value="20091108">
-<meta name="regalertissuedate" value="20091103">
-
-	<!--PLUCK JS-->
-	<script>
-		document.domain = "investmentnews.com";
-		var daapiProcessUrl = "http://sitelife.investmentnews.com/ver1.0/Direct/Process";
-	</script>
-	<script src="http://sitelife.investmentnews.com/ver1.0/SiteLifeProxy"></script>
-	<script type="text/javascript" src="http://sitelife.investmentnews.com/ver1.0/Direct/DirectProxy"></script>
-	<!-- load up the Nyx parts (and any other libraries) needed -->
-	<script type="text/javascript" src="/pluck/nyxMain.js"></script>
-	<script type="text/javascript" src="/pluck/nyxDisco.js"></script>
-	<script type="text/javascript" src="/pluck/addArticlesToRequest.js"></script>
-
-
-
-	<script type="text/javascript">
-function click(which) {
-    document.multiSearch.searchType[which].checked = true;}
-		
-		
-		<!--//--><![CDATA[//><!--
-
-sfHover = function() {
-	var sfEls = document.getElementById("nav").getElementsByTagName("LI");
-	for (var i=0; i<sfEls.length; i++) {
-		sfEls[i].onmouseover=function() {
-			this.className+=" sfhover";
-		}
-		sfEls[i].onmouseout=function() {
-			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
-		}
-	}
-}
-if (window.attachEvent) window.attachEvent("onload", sfHover);
-
-//--><!]]></script>
-	
-	 <!--[if IE]>
-	<link href="/includes/ie-styles.css" rel="stylesheet" type="text/css" />
-	<![endif]-->
-</head>
-
-
-<body>
-<!-- BEGIN WEBSIDESTORY CODE v8.0.0 (11up) -->
+	<!-- BEGIN WEBSIDESTORY CODE v8.0.0 (11up) -->
 <!-- COPYRIGHT 1997-2003 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479 B1. Privacy notice at: http://websidestory.com/privacy -->
 <!-- prepared for InvestmentNews.com  -->
 <script language="javascript">
@@ -147,10 +163,6 @@ var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-crain.hitbox.com";
 hbx.acct="DM5407217JBD83EN3";
 ///apps/pbcs.dll/article?AID=/20010101/STATIC/101010738
 //;
-//
-//
-//
-//
 //
 //
 //
@@ -171,582 +183,469 @@ hbx.elf="n";
 hbx.seg="";
 hbx.cmpn="DBCMP";
 hbx.gpn="DBGP";
-</script><script language="javascript1.1" defer="" src="/includes/hbx.js"></script>
+</script><script language="javascript1.1" defer="" src="/js/hbx.js"></script>
 <!--END WEBSIDESTORY CODE-->
 
+
+	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<!-- ================ /END METAHEADER =================== -->
+
+<!-- ======================== header_ARTICLE ====================== -->
+
+<div id="pageWrapper">
+
+
+<div id="upperWrapper">
+	
+	
+<!-- Top Ad Block -->
+
+<div id="topAdBlock">
+	<script language="JavaScript">
+		OAS_RICH("Top");
+	</script><a href="http://oas-central.realmedia.com/RealMedia/ads/click_nx.ads/www.investmentnews.com/article/ID_101010738/15620892959@Top,TopRight,Bottom,Right,x01!Top?" target="_blank"><img src="http://oas-central.realmedia.com/RealMedia/ads/adstream_nx.ads/www.investmentnews.com/article/ID_101010738/15620892959@Top,TopRight,Bottom,Right,x01!Top?" border="0"></a>
+
+	<div id="internalAd">
+		<h3><a href="http://www.investmentnews.com/section/moss_adams_fps&amp;page=1">The financial performance study</a></h3>
+<p>Participate in the 2010 Moss Adams InvestmentNews Financial Performance Study of Advisory Firms</p>
+<p class="readMore"><a href="http://www.investmentnews.com/section/moss_adams_fps&amp;page=1" title="Learn more">Learn more »</a></p>
+
+	</div>
+</div>
+	
+	<!-- Header -->
+	
+	<div id="header" class="big">
+
+		<a id="logo" href="/" title=""></a>
+		<h1>Investment News - The Leading News Source for Financial Advisors</h1>
+		<div id="date">Saturday, May 8, 2010</div>
+		<div id="subscribe">
+			Subscribe: 
+			<a href="https://home.investmentnews.com/clickshare/myhome.do" title="">Newsletters</a> | 
+			<a href="https://sec.crain.com/IN/" title="">Print</a> | 
+			<a href="/section/rss" title="">RSS <img src="/images/rss_badge.png" height="12" width="12" alt="RSS Badge"></a>
+		</div>
+		<div id="headerAdsmall">		
+			<script language="JavaScript">
+				OAS_RICH("TopRight");
+			</script><a href="http://oas-central.realmedia.com/RealMedia/ads/click_nx.ads/www.investmentnews.com/article/ID_101010738/15620892959@Top,TopRight,Bottom,Right,x01!TopRight?" target="_blank"><img src="http://oas-central.realmedia.com/RealMedia/ads/adstream_nx.ads/www.investmentnews.com/article/ID_101010738/15620892959@Top,TopRight,Bottom,Right,x01!TopRight?" border="0"></a>
+		</div>
+		<div id="topSearch">
+	<form id="topSearchForm" method="get" action="/apps/pbcs.dll/search" name="topSearchForm">
+		<input type="hidden" name="q" value="">
+		<input type="hidden" name="INDA" value="1">
+		<input type="hidden" name="SearchCategory" value="CHART;REG;FREE;SUB;BLOG01;BLOG02;TEASERS">
+		<input type="hidden" name="Category" value="advancedsearch">
+		<input type="hidden" name="daterange" value="">
+	
+		<input type="text" value="Search Archives" name="crit" class="search">
+		<!-- <a href="#" class="searchButton"></a> -->
+		<input type="submit" value="" class="searchButton" onclick="blankSearch();">
+	</form>
+
+</div>
+		
+				<ul id="tabNav">
+			<li><a href="/section/data" title="Data Library">Data Library</a></li>
+			<li><a href="/section/multimedia" title="Multimedia - Video, Webcasts, Podcasts, Photo Galleries">Multimedia</a></li>
+			<li><a href="/section/community" title="Ask the Experts">Ask the Experts</a></li>
+		</ul>
+		<ul id="mainNav">
+			<li id="home"><a href="/" title="Home">Home</a></li>
+			<li><a href="/section/investments" title="Investments">Investments</a></li>
+			<li><a href="/section/brokerdealers" title="Broker-Dealers">Broker-Dealers</a></li>
+			<li><a href="/section/practicemanagement" title="Practice Management">Your Practice</a></li>
+			<li><a href="/section/wealthandretirement" title="Wealth &amp; Retirement">Wealth &amp; Retirement</a></li>
+			<li><a href="/section/ria" title="RIA">RIAs</a></li>
+			<li><a href="/section/insurance" title="Insurance">Insurance</a></li>		
+			<li><a href="/section/regulation" title="Regulation">Regulation</a></li>
+		</ul>
+		<ul id="topicNav">
+			<li><a href="http://www.investmentnews.com/section/onlinenews" alt="<b>Today's top stories</b>"><b>Today's top stories</b></a></li>
+<li>&nbsp;·&nbsp;<a href="http://www.investmentnews.com/section/webcasts" alt="Webcasts">Webcasts</a></li>
+<li>&nbsp;·&nbsp;<a href="http://www.investmentnews.com/section/events" alt="IN Events">IN Events</a></li>
+<li>&nbsp;·&nbsp;<a href="http://www.investmentnews.com/section/columns" alt="Columns">Columns</a></li>
+<li>&nbsp;·&nbsp;<a href="http://www.investmentnews.com/article/20100309/GIWS2010/303099999" alt="Going independent?">Going independent?</a></li>
+<li>&nbsp;·&nbsp;<a href="http://www.investmentnews.com/section/blogs" alt="Blogs">Blogs</a></li>
+<li>&nbsp;·&nbsp;<a href="http://www.investmentnews.com/apps/pbcs.dll/section?category=specialreporttemplate&amp;issuedate=20100423&amp;sid=BD0426" alt="Top broker-dealer rankings">Top broker-dealer rankings</a></li>
+
+		</ul>	
+
+		
+	</div>
+	
+<!-- ================== /END header_ARTICLE =============== -->
+
+<div id="headlines">
+
+		<div id="headlinesLeftColumn" class="articlePage">
+
+			
+			
+
+
+			
+			<h2>Privacy Policy</h2>
+								
+			<p><em>InvestmentNews.com</em> is the Web site of<em> InvestmentNews</em>, a publication of the InvestmentNews Group, a business unit of Crain Communications Inc.  Our postal address is 711 Third Avenue, New York, NY 10017-4036.  We can be reached by e-mail at in_webmaster@investmentnews.com or by telephone at 212-210-0100.  Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions. </p><p>We have developed this Privacy Policy to advise subscribers and users of our products about our possible uses of information collected by us and to inform you on how to modify your marketing preferences.  This Privacy Policy is subject to change.  When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site and by changing the date on this page noting when the Privacy Policy was last updated.</p><p>When you subscribe, register, make purchases or at other times, we collect and store personally identifiable information from you that may include your name, postal and e-mail addresses, credit card information, facts about your profession, company and responsibilities and information regarding your computer system. For each visitor to this Web site, our web server may automatically attempt to identify the user through a cookie set within your browser. This is done to provide access to the site. From time to time we may also track information, in aggregate, on pages and features that users access or view. The activity is collected and stored in our server's log files. Our email alerts utilize tracking technology that allows us to see how many newsletter e-mails are opened and the e-mail address of users who have clicked on a given story, feature or advertisement.  We use this information for internal purposes to measure the aggregate number of people who view a given newsletter item.</p><p>We may also set cookies to your computer to allow subscribers and users to store login information, set personalization and navigate easily through the site.   Additionally, through the use of an additional cookies or technology, we will have the ability to track users by their behavior profile and geographic location for the purpose of pushing advertising that matches their interests and/or specific location.  We may conduct online surveys and contests or generate content that is presented by aggregating activity of users on the site. These surveys and contests are entirely voluntary and you may decline to participate. </p><p>Information collected about subscribers and users may be used by us and our affiliates and partnering third-party companies to provide subscribers and users with the features of the site, to enable us to provide the products you requested, to personalize content and advertising, to send you e-mail notifications about our services and products, for audits, to perform statistical analysis of user behavior in order to measure interest in the various areas of our site (such as for product development purposes), to enforce our user agreement and to inform advertisers as to how many users have seen or "clicked" their advertising banners. We will disclose site usage information to third parties only in aggregate. </p><p>From time to time, we may make individual subscriber or user information available to carefully selected third parties to send you information through e-mail or postal mail about their products or services.  If you prefer not to have your personal information disclosed to third parties for direct marketing purposes, please send an e-mail stating this preference and including your full name and e-mail address to in_webmaster@investmentnews.com or, if you are a print subscriber, please call 1-800-678-9595.  Also, during the registration process, a user can indicate on the registration form that he or she does not wish to receive such marketing materials.  Registrants can opt out of future contact or change/correct personal information by altering the settings on the "EDIT PROFILE" page of this Web site.  We retain the right to contact a subscriber or registered user regarding account status, orders for products or services, changes to the registration agreement or to enforce our subscription agreement. </p><p>We will remove any registrant (and their personal information) from our database pursuant to a request from the registrant, including full name and e-mail address, to in_webmaster@investmentnews.com. You may not be able to fully access this Web site if you request removal of your personal information. </p><p>This Web site is operated in the United States.  If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provided to us will be transferred to the United States.  By using our Web site, participating in any of our services and/or providing us with your information, you consent to this transfer. </p><p>If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Crain Communications Inc Legal Department at privacyhelp@crain.com or 313-446-6000.</p><p>Policy Last Updated:  January 1, 2005</p>
+
+
+</div><!-- end topStory -->
+
+<div id="headlinesRightColumn">
+	<div class="lowerBox first">
+		<p class="title">Advertisement</p>
+		<p class="center">
+			<script language="JavaScript">
+				OAS_RICH("Right");
+			</script><a href="http://oas-central.realmedia.com/RealMedia/ads/click_nx.ads/www.investmentnews.com/article/ID_101010738/15620892959@Top,TopRight,Bottom,Right,x01!Right?" target="_blank"><img src="http://oas-central.realmedia.com/RealMedia/ads/adstream_nx.ads/www.investmentnews.com/article/ID_101010738/15620892959@Top,TopRight,Bottom,Right,x01!Right?" border="0"></a>
+		</p>
+	</div>
+
+	<div class="lowerBox">
+	<h2><a href="/section/market-data/">Market Data</a><a class="more-top" href="/section/market-data/">Market Data Overview »</a></h2>
+	<div class="clear"></div>
+		<!-- QuoteMedia Market Data -->
+		<div class="marketdatacontainer">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td>
+					<script type="text/javascript" src="http://app.quotemedia.com/quotetools/customWatch.go?webmasterId=90034&amp;targetsym=ticker&amp;targetex=&amp;targettype=null&amp;qmpage=false&amp;toolWidth=310&amp;columns=name&amp;shortNames=true&amp;columns=last&amp;columns=tick&amp;columns=chg&amp;columns=pctchg&amp;override=Dow Jones,Nasdaq,SP 500,DJ Emerging Markets Index,10yr Treasury&amp;symbols=DJI&amp;symbols=NASD&amp;symbols=SP500&amp;symbols=DWEM&amp;symbols=TNX"></script>
+				</td>
+			</tr>
+		</tbody></table>
+		</div>
+		<!-- MorningStar Ticker Lookup -->
+
+		<div id="tickerLookup">
+			<form id="Investment Profile" method="get" action="/section/investment-profile?">
+			<input type="text" class="search" id="name" name="ticker" value="Enter Ticker">
+			<input type="submit" onclick="blankSearch();" class="lookupButton" value="">
+			</form>
+		</div>
+		<div class="sponsorsBottom"><a href="http://corporate.morningstar.com/US/asp/subject.aspx?xmlfile=2731.xml" target="_blank"><img src="/images/logos/morningstar-sm.png" border="0"></a><a href="http://www.quotemedia.com" target="_blank"><img src="/images/logos/quotemedia-sm.png" border="0"></a></div>
+		
+		<!--<iframe src="https://awsstgmain.morningstar.com/SMLOGINMS/SMLoginMS.asp?url=http://cidev.cr.atl.publicus.com/xml/WSINFO.xml?SUBMITTED&INSTID=INNEWS&targeturl=https%3A%2F%2Fawrduat.morningstar.com%2FSB%2Fmain.asp%3Fmodule%3DIPIN%26iframe%3Dsuggest%26refreshIframe%3Dfoo" width="320" height="60" frameborder="0"></iframe>-->
+	</div>
+	
+	<div class="lowerBox">
+		<p class="title">Advertisement</p>
+		<p class="center">
+			<script language="JavaScript">
+				OAS_RICH("x01");
+			</script><a href="http://oas-central.realmedia.com/RealMedia/ads/click_nx.ads/www.investmentnews.com/article/ID_101010738/15620892959@Top,TopRight,Bottom,Right,x01!x01?" target="_blank"><img src="http://oas-central.realmedia.com/RealMedia/ads/adstream_nx.ads/www.investmentnews.com/article/ID_101010738/15620892959@Top,TopRight,Bottom,Right,x01!x01?" border="0"></a>
+		</p>
+	</div>
 	
 
-<script type="text/javascript">		
-						function delayExecutionForIE(myRequestBatch,myCallback) {
+	<div class="lowerBox">
+		<h2><a href="/section/most_popular" title="">Most Popular</a></h2>			
+		<div id="tabs-1">
+			<ul class="ui-tabs-nav">
+                		<li class="ui-tabs-selected"><span class="short"><a href="#popular">Read</a></span></li>
+                		<li class=""><span><a href="#recommends">Recommended</a></span></li>
+                		<li class=""><span class="short"><a href="#comments">Commented</a></span></li>
+            		</ul>
+            		<div id="popular" class="ui-tabs-panel">
+               		
 
-								myRequestBatch.BeginRequest(daapiProcessUrl, myCallback);
+
+					<li><a href="/article/20100507/FREE/100509908" title="Peter Schiff: Chaos is not confined -- U.S. could see another crisis">Peter Schiff: Chaos is not confined -- U.S. could see another crisis</a></li>
 
 
-						}	
-</script>
-<div id="container">
-<!--HEADER BEGINS HERE-->
-                               
-	          	<div id="Leaderboard1">
-				<script language="JavaScript">
-					OAS_RICH("Top");
-				</script><a href="http://oas-central.realmedia.com/RealMedia/ads/click_nx.ads/www.investmentnews.com/article/101010738/15620892959@Top,Bottom,Right,x01!Top?" target="_blank"><img src="http://oas-central.realmedia.com/RealMedia/ads/adstream_nx.ads/www.investmentnews.com/article/101010738/15620892959@Top,Bottom,Right,x01!Top?" border="0"></a>
+					<li><a href="/article/20100507/FREE/100509913" title="Mohamed El-Erian and Dan Fuss: Greek crisis is going global">Mohamed El-Erian and Dan Fuss: Greek crisis is going global</a></li>
+
+
+					<li><a href="/article/20100507/FREE/100509909" title="Guess how many advisers are talking to clients <i>now</i>">Guess how many advisers are talking to clients <i>now</i></a></li>
+
+
+					<li><a href="/article/20100506/FREE/100509932" title="'All-out panic' on Wall Street as Dow plunges most since 1987">'All-out panic' on Wall Street as Dow plunges most since 1987</a></li>
+
+
+					<li><a href="/article/20100506/FREE/100509928" title="Trading error may have been real source of sell-off: Report">Trading error may have been real source of sell-off: Report</a></li>
+
+
+					<li><a href="/article/20100507/FREE/100509918" title="Markets still spooked, volatility rules again">Markets still spooked, volatility rules again</a></li>
+				<p class="more"><a href="/section/most_popular/" title="">More Popular »</a></p>
+            		</div>
+            		<div id="recommends" class="ui-tabs-hide ui-tabs-panel">
+				<li><a href="http://www.investmentnews.com/apps/pbcs.dll/article?AID=/20100507/FREE/100509908" title="Peter Schiff: Chaos is not confined -- U.S. could see another crisis">Peter Schiff: Chaos is not confined -- U.S. could see another crisis</a></li><li><a href="http://www.investmentnews.com/apps/pbcs.dll/article?AID=/20100504/FREE/100509962" title="Edward Jones loses star reps to wirehouses">Edward Jones loses star reps to wirehouses</a></li><li><a href="http://www.investmentnews.com/apps/pbcs.dll/article?AID=/20100503/FREE/100509986" title="“Secret” Social Security strategies for advisers">“Secret” Social Security strategies for advisers</a></li><li><a href="http://www.investmentnews.com/apps/pbcs.dll/article?AID=/20100505/BLOG01/100509950" title="Why wirehouse advisors think independent brokers are a joke">Why wirehouse advisors think independent brokers are a joke</a></li><li><a href="http://www.investmentnews.com/apps/pbcs.dll/article?AID=/20100505/FREE/100509949" title="Arnott: Odds of double-dip recession better than 50%">Arnott: Odds of double-dip recession better than 50%</a></li>
+
+				<p class="more"><a href="/section/most_popular/" title="">More Popular »</a></p> 
+           		</div>
+			<div id="comments" class="ui-tabs-hide ui-tabs-panel">
+				<li><a href="http://www.investmentnews.com/apps/pbcs.dll/article?AID=/20100505/BLOG01/100509950" title="Why wirehouse advisors think independent brokers are a joke">Why wirehouse advisors think independent brokers are a joke</a></li><li><a href="http://www.investmentnews.com/apps/pbcs.dll/article?AID=/20100505/FREE/100509947" title="Specter proposes jail time for B-Ds who violate standards">Specter proposes jail time for B-Ds who violate standards</a></li><li><a href="http://www.investmentnews.com/apps/pbcs.dll/article?AID=/20100503/FREE/100509986" title="“Secret” Social Security strategies for advisers">“Secret” Social Security strategies for advisers</a></li><li><a href="http://www.investmentnews.com/apps/pbcs.dll/article?AID=/20100504/FREE/100509963" title="Court issues landmark tax ruling on 'payable by death' accounts">Court issues landmark tax ruling on 'payable by death' accounts</a></li><li><a href="http://www.investmentnews.com/apps/pbcs.dll/article?AID=/20100502/REG/100509997" title="Advisers hang on for next market dip">Advisers hang on for next market dip</a></li>
+
+				<p class="more"><a href="/section/most_popular/" title="">More Popular »</a></p>
 			</div>
+		</div>	
+	</div>
 
-                    <table id="Masthead" width="900" border="0" align="center">
-                        <tbody><tr>
-                            <td>
-                                <div id="TodaysDate">
-                                    Tuesday,&nbsp;November&nbsp;10,&nbsp;2009
-                                </div>
-                            </td>
+		<div class="lowerBox">
+		<h2><a href="/section/multimedia" title="">Multimedia</a></h2>
+		<div class="video-widget-wrapper">
+			<div id="article_video">
+				<img src="/images/wealthtrack-video-banner.jpg" border="0">
+				<div id="article_video_include"></div>
+				<span class="vid_ad"><script language="JavaScript1.1" src="http://oas-central.realmedia.com/RealMedia/ads/adstream_jx.cgi/www.investmentnews.com/34159961307@Top1"></script></span>
+			</div>
+		</div>
+		<p class="more"><a href="/section/multimedia" title="">More Video »</a></p>
+	</div>	
 
-                            <td align="left" valign="bottom">
-                                <div class="link6s">								
-                                    <!--<a href="#">Login</a> | --> <a href="https://home.investmentnews.com/clickshare/myhome.do" rel="nofollow">Register</a> &nbsp;|&nbsp; <a href="https://sec.crain.com/IN/" rel="nofollow">Subscribe</a>  &nbsp;|&nbsp; <img src="/images/icon-rss.gif" alt="Rss Icon" width="12" height="12" align="top"> <a href="/apps/pbcs.dll/section?category=RSS">RSS</a>  &nbsp;|&nbsp; <a href="/apps/pbcs.dll/section?category=TOC">Current Issue</a>
-                                </div>
-                            </td>
-							
-							<td rowspan="2" align="center" valign="bottom">
-							<a href="/html/moss-adams/"><img src="/images/moss-adams-study3.jpg" border="0"></a>
-								 <!--<p b s:!m a c r o name="getissuebydepartment" CacheTime="60" CacheQualifiers="IssueDate,MyProfile,MyObject,MyCount" MyProfile="1040" MyObject="65" MyCount="1">-->
 
-							
-                                <div class="link6s" style="padding-bottom:5px; text-align:center">
-                                  
-                                     <a href="/html/moss-adams/">Adviser Compensation <br>and Staffing Study</a>                                 
-                                   
-                                </div>
-							</td>
-							
-                    </tr>
+	<div class="lowerBox">
+		<h2><a href="/section/events" title="">Upcoming Events</a></h2>		
+			<h3 style="padding-bottom:10px;"><span class="date">Tuesday, May 11, 2010</span>			
+		<a href="http://investmentnews.com/RISwebcast" target="_blank">Retirement Income — Solutions from the Summit</a>
+	</h3>
+	<h3 style="padding-bottom:10px;"><span class="date">Tuesday, May 25, 2010</span>			
+		<a href="http://investmentnews.com/secwebcast" target="_blank">What to do When the SEC Auditor Calls</a>
+	</h3>
+	<h3 style="padding-bottom:10px;"><span class="date">Monday, June 14, 2010</span>			
+		<a href="http://investmentnews.com/goingindy2010" target="_blank">Going Independent - Which Model is Right for You?<br>One-day workshop - Los Angeles, CA</a>
+	</h3>	
+				
+		<p class="more"><a href="/section/events" title="More Events">More Events »</a></p>	
+	</div>
+	
+	<div class="lowerBox">
+		<a id="eSubscribe" href="https://home.investmentnews.com/clickshare/subscriptionCenter.do?CSTargetURL=http://www.investmentnews.com" title="Subscribe to our Newsletters" target="_blank">&nbsp;</a>
+		<ul id="newsletters">
+			<li><a href="https://home.investmentnews.com/clickshare/subscriptionCenter.do?CSTargetURL=http://www.investmentnews.com" title="" target="_blank">InvestmentNews Daily</a></li>
+			<li><a href="https://home.investmentnews.com/clickshare/subscriptionCenter.do?CSTargetURL=http://www.investmentnews.com" title="" target="_blank">Weekly Issue Alert</a></li>
+			<li><a href="https://home.investmentnews.com/clickshare/subscriptionCenter.do?CSTargetURL=http://www.investmentnews.com" title="" target="_blank">Happenings on the Hill</a></li>
+			<li><a href="https://home.investmentnews.com/clickshare/subscriptionCenter.do?CSTargetURL=http://www.investmentnews.com" title="" target="_blank">IN:TECH</a></li>
+			<li><a href="https://home.investmentnews.com/clickshare/subscriptionCenter.do?CSTargetURL=http://www.investmentnews.com" title="" target="_blank">IN Special Reports</a></li>
+			<li><a href="https://home.investmentnews.com/clickshare/subscriptionCenter.do?CSTargetURL=http://www.investmentnews.com" title="" target="_blank">Top RIA Rankings</a></li>
+		</ul>
+		<div id="signUp">
+			<form id="signUpForm" name="signUpForm" method="get" action="https://home.investmentnews.com/clickshare/subscriptionCenter.do">
+				<input type="hidden" name="CSTargetURL" value="http://www.investmentnews.com">
+				<input class="email" value="E-mail Address" type="text" name="CSUsername">
+				<input type="submit" value="" class="submitButton">
+			</form>
 
-                    <tr>
-                        <td valign="bottom" align="left">
-							 <ul id="mainLogo">
-                          <li id="logoImage"><a href="http://www.investmentnews.com"><img src="http://www.investmentnews.com/images/2009Logo.jpg" alt="Investment News" width="380" height="73" border="0"></a></li>
-                        <li id="tagLine"><h2>The Leading News Source for Financial Advisers</h2></li>
-                        </ul>
-							</td>
-							
-						<td valign="bottom" style="padding-bottom:5px;">
-							<div id="Search" class="link6s">
-						
-							 <form name="multiSearch" action="#" method="get" onsubmit="submitSearch();" style="margin:0; padding:0;">                    
-                                      <input name="q" type="text" size="30" class="ie" value="">
-                                      <input type="hidden" name="INDA" value="1">
-                                      <input name="crit" type="hidden" size="30" class="ie" value="">
-                                      <input type="hidden" name="SearchCategory" value="CHART;REG;FREE;SUB">
-                                      <input type="hidden" name="SearchProfile" value="1119">
-									  <input type="image" style="margin:0 0 0 10px; padding:0;" src="/images/search_small.gif" alt="Search" value="GO">
-									  <br>
-                                      
-                                      <!--QUOTE MEDIA FIELDS-->
-                                      <input type="hidden" name="symbol" value="">
-                                      <input type="hidden" name="targetURL" value="http://www.investmentnews.com/apps/pbcs.dll/section?category=stocklookup">
-                                      <!--END QUOTE MEDIA FIELDS-->
-                                      
-                                      
-                                      <!--LIPPER FIELDS-->
-                                      
-                                      <!--END LIPPER FIELDS-->
-                                      
-                                     
-                                      	<input type="hidden" name="category" value="advancedsearch">
-                                      
-                                      
-                                               
-                                    
-			        <input name="searchType" type="radio" value="archive" checked="" class="radio">
-                                    <a href="javascript:click(0)">Archives</a> 
-                              
-                                    <input name="searchType" type="radio" value="stock" class="radio"> 
-                                    <a href="javascript:click(1)">Stock Lookup</a> 
-                                    
-                                    <input name="searchType" type="radio" value="etf" class="radio"> 
-                                    <a href="javascript:click(2)">ETF/Fund Lookup</a>
-									
-									</form>
-                                  
-								   </div>             
-							</td>
-							
-                        </tr>
+		</div>
+	</div>
+</div>
 
-                       
-                    </tbody></table>
+		<!-- <div id="articleClear"></div> -->
+	
+	</div><!-- end headLines -->
 
- 					<table width="900" align="center" cellpadding="0" cellspacing="0" style="margin-bottom:8px;">
-                        <tbody><tr bgcolor="#990000">
-                            <td colspan="2" height="25"><ul id="nav">
+</div><!-- end upperWrapper -->
 
-  <li class="home"><a href="http://www.investmentnews.com">HOME</a></li>
+<div id="lowerWrapper">
 
-	<li class="news"><a href="/apps/pbcs.dll/article?AID=/20080103/STATIC/399752395">NEWS &amp; OPINION</a>
-	  <ul>
-        <li><a href="#" target="_self" class="daddy">News by Topic/Section</a>
-		  <ul>
-					  <li><a href="/apps/pbcs.dll/section?profile=1085" target="_self">Associations/Trade Groups</a></li>
-					  <li><a href="/apps/pbcs.dll/section?profile=1086" target="_self">Broker-Dealers/Independents/Wirehouses</a></li>
-					  <li><a href="/apps/pbcs.dll/section?profile=1024" target="_self">Compliance/Regulation</a></li>
-					  <li><a href="/apps/pbcs.dll/section?profile=1087" target="_self">Financial/Estate Planning</a></li>
-					  <li><a href="/apps/pbcs.dll/section?profile=1029" target="_self">Insurance</a></li>
-		    <li><a href="/apps/pbcs.dll/section?profile=1042" target="_self">Investments</a></li>
-					  <li><a href="/apps/pbcs.dll/section?profile=1088" target="_self">Managed Money/SMAs/Hedge Funds</a></li>
-					  <li><a href="/apps/pbcs.dll/section?profile=1089" target="_self">Mutual Funds/ETFs</a></li>
-					  <li><a href=" /apps/pbcs.dll/section?category=RetirementCenterNews" target="_self">Retirement</a></li>
-					  <li><a href="/apps/pbcs.dll/section?profile=1032" target="_self">RIAs/Custodians</a></li>
-					  <li><a href="/apps/pbcs.dll/section?profile=1017" target="_self">Short Interests</a></li>
-					  <li><a href="/apps/pbcs.dll/section?profile=1034" target="_self">Taxes</a></li>
-					  <li><a href="/apps/pbcs.dll/section?profile=1035" target="_self">Technology</a></li>
-					  <li><a href="/apps/pbcs.dll/section?profile=1060" target="_self">Wealth Management</a></li>
-		  </ul>
-			</li>
-			<li><a href="#" target="_self" class="daddy">Columns</a>
-         <ul>
-         	<li><a href="/apps/pbcs.dll/section?profile=1004" target="_self">Fiduciary Corner</a></li>
-         	<li><a href="/apps/pbcs.dll/section?category=INDAILYOPINION&amp;profile=1099" target="_self">IN Practice</a></li>	
-          <li><a href="/apps/pbcs.dll/section?category=INVESTMENTINSIGHTS" target="_self">Investment Insights</a></li>
-          <li><a href="/apps/pbcs.dll/section?profile=1005" target="_self">Investment Strategy</a></li>
-          <li><a href="/apps/pbcs.dll/section?profile=1037" target="_self">IRA Alert</a></li>
-          <li><a href="/apps/pbcs.dll/section?profile=1043" target="_self">Marketing Strategies</a></li>
-					<li><a href="/apps/pbcs.dll/section?category=RetirementCenterColumns" target="_self">On Retirement</a></li>	
-					<li><a href="/apps/pbcs.dll/section?category=INDAILYOPINION&amp;profile=1098" target="_self">Online OpINion</a></li>
-					<li><a href="/apps/pbcs.dll/section?profile=1013" target="_self">Practice Management</a></li>
-					<li><a href="/apps/pbcs.dll/section?profile=1075" target="_self">Retirement Watch</a></li>
-					
-					<li><a href="/apps/pbcs.dll/section?profile=1076" target="_self">Succession Planning</a></li>
-					<li><a href="/apps/pbcs.dll/section?profile=1021" target="_self">Tax-Conscious Adviser</a></li>
-					<li><a href="/apps/pbcs.dll/section?category=INDAILYOPINION&amp;profile=1100" target="_self">Tax INsight</a></li>
-					<li><a href="/apps/pbcs.dll/section?category=INDAILYOPINION&amp;profile=1097" target="_self">Tech Bits</a></li>			
-			  </ul>
-		</li>
-			<li><a href="#" target="_self" class="daddy">Opinion</a>
-				<ul>
-					<li><a href="/apps/pbcs.dll/section?profile=1003" target="_self">Editorials</a></li>
-					<li><a href="/apps/pbcs.dll/section?profile=1008" target="_self">Just Thinking</a></li>
-					<li><a href="/apps/pbcs.dll/section?profile=1006" target="_self">Letters to the Editor</a></li>
-					<li><a href="/apps/pbcs.dll/section?category=INDAILYOPINION&amp;profile=1098" target="_self">Online OpINion</a></li>
-					<li><a href="/apps/pbcs.dll/section?profile=1011" target="_self">Other Voices</a></li>
-					<li><a href="/apps/pbcs.dll/section?profile=1079" target="_self">Thinking Out Loud</a></li>
-					<li><a href="/apps/pbcs.dll/poll?category=free" target="_self">Weekly Poll</a></li>
-					<li><a href="/apps/pbcs.dll/section?category=WRITEEDITOR" target="_self">Write to the Editor</a></li>
-				</ul>
-		</li>
-			<li><a href="#" target="_self" class="daddy">Special Reports</a>
-				<ul>
-					<li><a href="/apps/pbcs.dll/section?category=AnniversaryIssue" target="_self">Anniversary Issue</a></li>
-					<li><a href="/apps/pbcs.dll/article?AID=/20081214/SPECIALREPORTINDEX/812129930" target="_self">Data Book</a></li>
-					<li><a href="/apps/pbcs.dll/article?AID=/20090125/STATIC/901239985" target="_self">Interactive Independent Broker-Dealer Profiles</a>
-						
-					</li>
-					<li><a href="/apps/pbcs.dll/section?profile=1016" target="_self">Roundtables</a></li>
-					<li><a href="/apps/pbcs.dll/article?AID=/20090601/STATIC/906019985" target="_self">Top RIA Rankings</a></li>
-					<li><a href="/apps/pbcs.dll/article?AID=/20080130/STATIC/773386236" target="_self">Wealth Management Market Reports</a></li>
-					<li><a href="/apps/pbcs.dll/section?category=specialreports" target="_self">More Special Reports</a></li>
-				</ul>
-		</li>
+	<div id="sections">
+
+<!-- ===================== FOOTER ==================== -->
+		
+	</div>
+	
+	
+<!-- Bottom Banner Ad Block -->
+
+<div id="bottomBannerAdBlock">
+	<script language="JavaScript">
+		OAS_RICH("Bottom");
+	</script><a href="http://oas-central.realmedia.com/RealMedia/ads/click_nx.ads/www.investmentnews.com/article/ID_101010738/15620892959@Top,TopRight,Bottom,Right,x01!Bottom?" target="_blank"><img src="http://oas-central.realmedia.com/RealMedia/ads/adstream_nx.ads/www.investmentnews.com/article/ID_101010738/15620892959@Top,TopRight,Bottom,Right,x01!Bottom?" border="0"></a>
+</div>
+	
+	
+<!-- Footer -->
+
+<div id="footer">
+	<a id="footerLogo" href="/" title="">InvestmentNews</a>
+	
+	<ul id="infoNav">
+		<li><a href="/article/20100216/MEDIAKITNEW2010/302169999" title="">About Us</a></li>
+		<li>|<a href="/article/20070112/STATIC/70112001" title="">Contact Us</a></li>
+		<li>|<a href="/editcalendar" title="">Editorial Calendar</a></li>
+		<li>|<a href="/advertise" title="">Advertise</a></li>
+		<li>|<a href="/reprints">Reprints &amp; Permissions</a></li>
+	</ul>
+	
+	
+	<div id="contents">
+		<div class="section">
+			<h2><a href="/section/investments" title="">Investments</a></h2>
+			<ul>
+				<li><a href="/section/MutualFunds" title="">Mutual Funds</a></li>
+
+				<li><a href="/section/ETFs" title="">ETFs</a></li>
+				<li><a href="/section/InvestmentStrategies" title="">Investment Strategies</a></li>
+				<li><a href="/section/Equities" title="">Equities</a></li>
+				<li><a href="/section/Alternatives" title="">Alternatives</a></li>
+				<li><a href="/section/FixedIncome" title="">Fixed Income</a></li>
+			</ul>
+		</div>
+		<div class="section">
+
+			<h2><a href="/section/brokerdealers" title="">Broker-Dealers</a></h2>
+			<ul>
+				<li><a href="/section/wirehouses" title="">Wirehouses</a></li>
+				<li><a href="/section/IndependentBrokerDealers" title="">Independent B-Ds</a></li>
+				<li><a href="/section/regionals" title="">Regional Brokerages</a></li>
+				<li><a href="/section/WallStreet" title="">Wall Street</a></li>
+				<li><a href="/section/ClearingFirms" title="">Clearing Firms</a></li>
+				<li><a href="/section/data#2" title="">Independent B-D Data</a></li>
+			</ul>
+		</div>
+		<div class="section">
+			<h2><a href="/section/RIA" title="">RIA</a></h2>
+			<ul>
+				<li><a href="/section/data#3" title="">Top RIAs</a></li>
+				<li><a href="/section/custody" title="">Custody</a></li>
+				<li><a href="/section/breakaways" title="">Breakaways</a></li>
+				<li><a href="/section/AdviserRegulation" title="">Adviser Regulation</a></li>
+			</ul>
+		</div>
+		<div class="section">
+
+			<h2><a href="/section/wealthandretirement" title="">Wealth &amp; Retirement</a></h2>
+			<ul>
+				<li><a href="/section/wealthmanagement" title="">Wealth Management</a></li>
+				<li><a href="/section/financialplanning" title="">Financial Planning</a></li>
+				<li><a href="/section/retirement" title="">Retirement </a></li>
+				<li><a href="/section/iras" title="">IRAs</a></li>
+				<li><a href="/section/estateplanning" title="">Estate Planning &amp; Trusts</a></li>
+				<li><a href="/section/taxes" title="">Taxes</a></li>
+			</ul>
+		</div>
+		<div class="section">
+			<h2><a href="/section/practicemanagement" title="">Your Practice</a></h2>
+			<ul>
+				<li><a href="/section/technology" title="">Technology</a></li>
+				<li><a href="/section/marketing" title="">Marketing</a></li>
+				<li><a href="/section/legalandcompliance" title="">Legal &amp; Compliance</a></li>
+				<li><a href="/section/education" title="">Education</a></li>
+				<li><a href="/section/successionplanning" title="">Succession Planning</a></li>
+				<li><a href="/section/data#4" title="">Staffing &amp; Compensation Data</a></li>
+			</ul>
+		</div>
+		<div class="section">
+
+			<h2><a href="/section/insurance" title="">Insurance</a></h2>
+			<ul>
+				<li><a href="/section/annuities" title="">Annuities</a></li>
+				<li><a href="/section/retirementincome" title="">Retirement Income</a></li>
+				<li><a href="/section/longtermcare" title="">Long-Term Care</a></li>
+				<li><a href="/section/LifeInsurance" title="">Life Insurance</a></li>
+				<li><a href="/section/lifesettlements" title="">Life Settlements</a></li>
+				<li><a href="/section/insuranceregulation" title="">Insurance Regulation</a></li>
+			</ul>
+		</div>
+		<div class="section">
+			<h2><a href="/section/regulation" title="">Regulation</a></h2>
+			<ul>
+				<li><a href="/section/adviserregulation" title="">Adviser Regulation</a></li>
+				<li><a href="/section/insuranceregulation" title="">Insurance Regulation</a></li>
+				<li><a href="/section/RetirementRegulation" title="">Retirement Regulation</a></li>
+				<li><a href="/section/compliance" title="">Compliance</a></li>
+				<li><a href="/section/RegulatoryAction" title="">Regulatory Action</a></li>
+				<li><a href="/section/INRegAlert03" title="">Regulatory Alert</a></li>
+			</ul>
+		</div>
+
+	</div>
+	
+	
+	<div id="subscriberServices">
+		<h3>Subscriber Services</h3>
+		<ul>
+
+			<li><a href="https://sec.crain.com/IN/" title="">Print Subscriptions</a></li>
+			<li><a href="https://home.investmentnews.com/clickshare/myhome.do" title="">Website Registration</a></li>
+			<li><a href="https://home.investmentnews.com/clickshare/subscriptionCenter.do" title="">Newsletter Sign Up</a></li>
+		</ul>
+	</div>
+	
+
+	<div id="extraNav">
+		<h3>Tools &amp; Resources</h3>
+		<ul>
+			<li><a href="/section/bdrecruitment" title="">BD Recruitment Connection</a></li>
+			<li><a href="/section/career-connection" title="">Career Connection</a></li>
+			<li><a href="/section/business-resources" title="">Business Resources</a></li>
+			<li><a href="/section/software-connection" title="">Tech Connect</a></li>
+			<li><a href="/section/INAcademy" title="">IN Academy</a></li>
+			<li><a href="/section/whitepapers" title="">White Papers</a></li>
+			<li><a href="/section/advancedsearch" title="">Advanced Search</a></li>
+			<li><a href="/section/most_popular" title="">Most Popular</a></li>
+			<li><a href="/section/sitemap" title="">Issue Index</a></li>
+			<li><a href="/section/topics" title="">Topic Index</a></li>
+			<li><a href="/section/RSS" title="">RSS <img src="/images/rss_badge.png" height="12" width="12" alt="RSS Badge"></a></li>
 		</ul>
 
-	</li>
-
-  <li class="print"><a href="/apps/pbcs.dll/article?AID=/20080103/STATIC/817693256">PRINT EDITION</a>
-	<ul>
-	  <li><a href="/apps/pbcs.dll/section?category=TOC" target="_self">Current Issue</a></li>
-					<li><a href="/apps/pbcs.dll/section?category=SITEMAPPRINT01" target="_self">Past Issues</a></li>
-					<li><a href="/apps/pbcs.dll/section?category=ADVANCEDSEARCH" target="_self">Search Archives</a></li>
-					<li><a href="https://sec.crain.com/IN/" target="_self">Subscribe</a></li>
-			    </ul>
-
-  </li>
-  <li class="online"><a href="/apps/pbcs.dll/article?AID=/20080103/STATIC/306603451">ONLINE EDITION</a>
-  <ul>
-					<li><a href="/apps/pbcs.dll/section?category=2008QuestionsAnswersIndex" target="_self">Ask the CPA</a></li>
-					<li><a href="/apps/pbcs.dll/section?template=EVENTS" target="_self">Conference Calendar</a></li>
-					<li><a href="/apps/pbcs.dll/section?category=ETFCENTER" target="_self">ETF Center</a></li>
-					<li><a href="/apps/pbcs.dll/section?category=FROMTHEFIDUCIARY" target="_self">From the Fiduciary</a></li>
-					<li><a href="/apps/pbcs.dll/section?category=FROMTHEHEADHUNTER" target="_self">From the Headhunter</a></li>
-					<li><a href="/apps/pbcs.dll/article?AID=/20090125/STATIC/901239985" target="_self">Interactive Independent Broker-Dealer Profiles</a>
-					</li>
-					<li><a href="#" target="_self" class="daddy">Online Columns</a>
-						<ul>
-							<li><a href="/apps/pbcs.dll/section?category=INDAILYOPINION&amp;profile=1099" target="_self">IN Practice</a></li>						
-							<li><a href="/apps/pbcs.dll/section?category=RetirementCenterColumns" target="_self">On Retirement</a></li>
-							<li><a href="/apps/pbcs.dll/section?category=INDAILYOPINION&amp;profile=1098" target="_self">Online OpINion</a></li>
-							<li><a href="/apps/pbcs.dll/section?category=INDAILYOPINION&amp;profile=1097" target="_self">Tech Bits</a></li>
-						</ul>
-					</li>
-					<li><a href="/apps/pbcs.dll/poll?category=free" target="_self">Weekly Poll</a></li>
-					<li><a href="/apps/pbcs.dll/section?category=practicemanagementcenter" target="_self">Practice Management</a></li>
-					<li><a href="http://www.investmentnews.com/retirementcenter" target="_self">Retirement Center</a></li>
-					<li><a href="/apps/pbcs.dll/section?category=INDAILYOPINION&amp;profile=1100" target="_self">Tax INsight</a></li>
-					<li><a href="/apps/pbcs.dll/article?AID=/20090601/STATIC/906019985" target="_self">Top RIA Rankings</a></li>
-					<li><a href="#" target="_blank" class="daddy">Video</a>
-						<ul>
-							<li><a href="/apps/pbcs.dll/section?category=wealthtrack" target="_blank">Wealth Track</a></li>
-						</ul>
-					</li>
-					<li><a href="/apps/pbcs.dll/section?category=WHITEPAPERS" target="_self">White Papers</a></li>
-  </ul>	</li> 
-  <li class="newsletters"><a href="/apps/pbcs.dll/article?AID=/20080103/STATIC/184201369">NEWSLETTERS</a>
-  <ul>
-						<li><a href="/apps/pbcs.dll/section?category=INDAILY03" target="_self">InvestmentNews Daily</a></li>
-						<li><a href="/apps/pbcs.dll/section?category=TOC">Weekly Issue Alert</a></li>
-						<li><a href="/apps/pbcs.dll/section?category=INREGULATORYALERT03" target="_self">InvestmentNews Regulatory Alert</a></li>
-						<li><a href="/apps/pbcs.dll/section?category=INTechnologyNews03" target="_self">IN Tech</a></li>						
-						<li><a href="https://home.investmentnews.com/clickshare/myhome.do" target="_self">Subscribe</a></li>
-	</ul>
-</li> 
-  <li class="events"><a href="/apps/pbcs.dll/section?template=EVENTS">EVENTS</a>
-  <ul>
-						<li><a href="http://www.investmentnews.com/html/moss-adams/">Adviser Compensation Workshops</a></li>
-						<li><a href="#" target="_self" class="daddy">Awards</a>
-							<ul>
-								<li><a href="http://www.investmentnews.com/communityawards" target="_self">Community Leadership Awards</a></li>
-								<li><a href="http://www.investmentnews.com/RIIAAward " target="_self">Retirement Income Communications Awards</a></li>
-								<li><a href="/apps/pbcs.dll/section?category=LIPPERFAMILY2009" target="_self">US Lipper Fund Family Award Winners</a></li>
-							</ul>
-						</li>
-						<li><a href="/apps/pbcs.dll/section?template=EVENTS" target="_self">Conference Calendar</a></li>
-						<li><a href="/etfinsights" target="_self">ETF Insights Online Conference</a></li>
-						<li><a href="http://www.investmentnews.com/indyworkshop" target="_self">Going Independent Workshop</a></li>
-						<li><a href="http://www.investmentnews.com/summit" target="_self">Retirement Income Summit</a></li>
-						<li><a href="/apps/pbcs.dll/qwikNavsearch?QwikNav=WEBCASTS" target="_self">Webcasts</a></li>
-	</ul>
-</li> 
-  <li class="tools"><a href="/apps/pbcs.dll/article?AID=/20080103/STATIC/978312357">TOOLS &amp; RESOURCES</a>
-  <ul>
-						<li><a href="/apps/pbcs.dll/section?category=BDRECRUITMENT" target="_self">BD Recruitment Connection</a></li>
-						<li><a href="/apps/pbcs.dll/section?category=BUSINESSRESOURCES" target="_self">Business Resources</a></li>
-						<li><a href="/apps/pbcs.dll/section?category=CAREERCONNECTION" target="_self">Career Connection</a></li>
-						<li><a href="/apps/pbcs.dll/section?category=links" target="_self">Industry Links</a></li>
-						<li><a href="/apps/pbcs.dll/section?category=TOOLS" target="_self">Investment Tools</a></li>
-						<li><a href="/apps/pbcs.dll/section?category=RSS" target="_self">RSS Feeds&nbsp;<img src="/images/icon-rss.gif" border="0"></a></li>
-						<li><a href="/apps/pbcs.dll/section?category=SOFTWARECONNECTION" target="_self">Software Connection</a></li>
-						<li><a href="/apps/pbcs.dll/qwikNavsearch?QwikNav=SUPPLEMENTS" target="_self">Sponsored Supplements</a></li>
-						<li><a href="/apps/pbcs.dll/section?category=WHITEPAPERS" target="_self">White Papers</a></li>
-  </ul>	</li> 
-  <li class="trainingcenter"><a href="/apps/pbcs.dll/section?category=TRAININGCENTER">TRAINING CENTER</a></li>
-  <li class="community"><a href="/apps/pbcs.dll/section?category=AdviserCommunity">COMMUNITY</a></li>
-
-</ul></td>
-                        </tr>
-                    </tbody></table>
-
-                    <table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
-                    
-
-                        <tbody><tr valign="top">
-                          <td width="160" bgcolor="#FFFFFF">
-
-                  	<div id="video-pic">
-														<a href="/wealthtrack" onmouseover="document.image.src='/apps/pbcsi.dll/cceimg?Site=CI&amp;Module=21&amp;Class=21&amp;Type=WEALTHTRACK&amp;Date=20091026&amp;ID=2320904&amp;Element=2'" onmouseout="document.image.src='/apps/pbcsi.dll/cceimg?Site=CI&amp;Module=21&amp;Class=21&amp;Type=WEALTHTRACK&amp;Date=20091026&amp;ID=2320904&amp;Element=1'" target="_blank">
-<img src="/apps/pbcsi.dll/cceimg?Site=CI&amp;Module=21&amp;Class=21&amp;Type=WEALTHTRACK&amp;Date=20091026&amp;ID=2320904&amp;Element=1" width="158" height="244" alt="Wealth Track - Consuelo Mack" title="Wealth Track - Consuelo Mack" name="image"></a>
-													</div>
-<script language="JavaScript1.1" src="http://oas-central.realmedia.com/RealMedia/ads/adstream_jx.cgi/www.investmentnews.com/34159961307@Top1"></script>
-			
-			<div class="clear"></div>      
-                                
-
-                                <div class="h3">
-                                    e-Newsletters
-                                </div>
-
-                                <div class="Bullet">
-                                    <ul>
-                                        <li><a href="/apps/pbcs.dll/section?category=INDaily03">IN Daily</a></li>
-
-                                        <li><a href="/apps/pbcs.dll/section?category=INRegulatoryAlert03">Regulatory Alert</a></li>
-                                        <li><a href="/apps/pbcs.dll/section?category=INTechnologyNews03">IN Tech</a></li>
-                                        
-                                        <li><a href="https://home.investmentnews.com/clickshare/myhome.do">Sign-Up For Free e-Newsletters</a></li>
-                                    </ul>
-                                </div>
-                                 <div class="h3">
-                                    Surveys
-                                </div>
-                                 <div class="Bullet">
-                                    <ul>
-                                        <li><a href="http://www.investmentnews.com/html/moss-adams/">2009 Moss Adams / InvestmentNews Adviser Compensation and Staffing Study</a></li>
-
-                                       
-                                    </ul>
-                                </div>
-
-                                 <div class="h3">
-                        Events
-                         </div>
-
-   <div class="Bullet">
-       <ul>       
-        <li><a href="/etfinsights">ETF Insights: An online conference for financial advisers</a></li>
-        <li><a href="/apps/pbcs.dll/article?AID=/20090817/MASTUDY/908189978">Adviser Compensation and Staffing Study Workshops</a></li>   
-				
-				<li><a href="/apps/pbcs.dll/qwikNavsearch?QwikNav=WEBCASTS">Webcasts</a>										
-						<ul class="subBullet">
-							<li><a href="/apps/pbcs.dll/article?AID=/20091009/STATIC/310099998">RIA/Broker Model</a></li>
-						</ul>
-				</li>
-									
-				<li><a href="http://www.investmentnews.com/communityawards">Community Leadership Awards</a></li>
-				<li><a href="http://www.investmentnews.com/RIIAaward">Retirement Income Communications Award</a></li>
-        <li><a href="http://www.investmentnews.com/summit">2009 Retirement Income Summit</a></li>        
-			</ul>
-					</div>
-
-                                <div class="h3">
-                                    Resources
-                                </div>
-
-                                <div class="Bullet">
-                                    <ul>
-                                    		<li><a href="/apps/pbcs.dll/section?category=ETFCenter">ETF Center</a></li>
-                                    		 <li><a href="/apps/pbcs.dll/article?AID=/20090601/STATIC/906019985">Top RIA Rankings</a></li>
-                                    		<li><a href="/apps/pbcs.dll/section?category=AdviserCommunity">IN Community</a></li>
-                                    		<li><a href="/retirementcenter">Retirement Center</a></li>
-                                        <li><a href="/apps/pbcs.dll/article?AID=/20090125/STATIC/901239985">Broker-Dealer Profiles</a></li>
-                                        <li><a href="/apps/pbcs.dll/section?category=TOOLS">Market Tools</a></li>
-                                       
-                                    </ul>
-                                </div>
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                            </td><td width="10"><img height="1" width="10" alt="" src="/images/spacer.gif"></td>
-
-                            <td width="1" bgcolor="#999999"><img height="1" width="1" alt="" src="/images/spacer.gif"></td>
-
-                            <td width="20"><img height="1" width="20" alt="" src="/images/spacer.gif"></td>
-                        
-                        <td>
-
-					
-								<div class="storyBody">
-									
+	</div>
 
 
-		
-                                <div id="heading">
-                                    <h1>Privacy Policy</h1>
-                                </div>
-                                
-                               
+	<div id="eventsNav">
+		<h3>Events</h3>
+		<ul>
+			<li><a href="/section/moss_adams_study&amp;page=1" title="Moss Adams/ InvestmentNews Adviser Compensation and Staffing Study">Moss Adams/ InvestmentNews Adviser Compensation and Staffing Study</a></li>
+			<li><a href="http://www.investmentnews.com/apps/pbcs.dll/article?AID=/20091104/RIS2010/311049997" title="Retirement Income Summit">Retirement Income Summit</a></li>
+			<li><a href="/communityawards/" title="Community Leadership Awards">Community Leadership Awards</a></li>
+			<li><a href="/article/20100309/GIWS2010/303099999" title="Going Independent Workshop">Going Independent Workshop</a></li>
+
+		</ul>
+	</div>
 
 
-									
-									<br><br>
-																	
-									<div class="b6">									
-										<i>InvestmentNews.com</i> is the Web site of<i> InvestmentNews</i>, a publication of the InvestmentNews Group, a business unit of Crain Communications Inc.  Our postal address is 711 Third Avenue, New York, NY 10017-4036.  We can be reached by e-mail at <a href="mailto:in_webmaster@investmentnews.com">in_webmaster@investmentnews.com</a> or by telephone at 212-210-0100.  Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions. <br><br>We have developed this Privacy Policy to advise subscribers and users of our products about our possible uses of information collected by us and to inform you on how to modify your marketing preferences.  This Privacy Policy is subject to change.  When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site and by changing the date on this page noting when the Privacy Policy was last updated.<br><br>When you subscribe, register, make purchases or at other times, we collect and store personally identifiable information from you that may include your name, postal and e-mail addresses, credit card information, facts about your profession, company and responsibilities and information regarding your computer system. For each visitor to this Web site, our web server may automatically attempt to identify the user through a cookie set within your browser. This is done to provide access to the site. From time to time we may also track information, in aggregate, on pages and features that users access or view. The activity is collected and stored in our server's log files. Our email alerts utilize tracking technology that allows us to see how many newsletter e-mails are opened and the e-mail address of users who have clicked on a given story, feature or advertisement.  We use this information for internal purposes to measure the aggregate number of people who view a given newsletter item.<br><br>We may also set cookies to your computer to allow subscribers and users to store login information, set personalization and navigate easily through the site.   Additionally, through the use of an additional cookies or technology, we will have the ability to track users by their behavior profile and geographic location for the purpose of pushing advertising that matches their interests and/or specific location.  We may conduct online surveys and contests or generate content that is presented by aggregating activity of users on the site. These surveys and contests are entirely voluntary and you may decline to participate. <br><br>Information collected about subscribers and users may be used by us and our affiliates and partnering third-party companies to provide subscribers and users with the features of the site, to enable us to provide the products you requested, to personalize content and advertising, to send you e-mail notifications about our services and products, for audits, to perform statistical analysis of user behavior in order to measure interest in the various areas of our site (such as for product development purposes), to enforce our user agreement and to inform advertisers as to how many users have seen or "clicked" their advertising banners. We will disclose site usage information to third parties only in aggregate. <br><br>From time to time, we may make individual subscriber or user information available to carefully selected third parties to send you information through e-mail or postal mail about their products or services.  If you prefer not to have your personal information disclosed to third parties for direct marketing purposes, please send an e-mail stating this preference and including your full name and e-mail address to <a href="mailto:in_webmaster@investmentnews.com">in_webmaster@investmentnews.com</a> or, if you are a print subscriber, please call 1-800-678-9595.  Also, during the registration process, a user can indicate on the registration form that he or she does not wish to receive such marketing materials.  Registrants can opt out of future contact or change/correct personal information by altering the settings on the "EDIT PROFILE" page of this Web site.  We retain the right to contact a subscriber or registered user regarding account status, orders for products or services, changes to the registration agreement or to enforce our subscription agreement. <br><br>We will remove any registrant (and their personal information) from our database pursuant to a request from the registrant, including full name and e-mail address, to <a href="mailto:in_webmaster@investmentnews.com">in_webmaster@investmentnews.com</a>. You may not be able to fully access this Web site if you request removal of your personal information. <br><br>This Web site is operated in the United States.  If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provided to us will be transferred to the United States.  By using our Web site, participating in any of our services and/or providing us with your information, you consent to this transfer. <br><br>If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Crain Communications Inc Legal Department at <a href="mailto:privacyhelp@crain.com">privacyhelp@crain.com</a> or 313-446-6000.<br><br><br>Policy Last Updated:  January 1, 2005
-									</div>
-								</div>
-															
-								<br><br>
-								
-								<div class="ArticleTools">
-									<ul>
-										<li style="list-style-image: url(/images/icon-print.gif); margin: 1em 0 1em 0"><a href="/apps/pbcs.dll/article?AID=/20010101/STATIC/101010738&amp;template=printart">&nbsp;PRINT</a></li>
-										
-										<li style="list-style-image: url(/images/icon-email.gif); margin: 1em 0 1em 0"><a href="http://www.investmentnews.com/apps/pbcs.dll/art_tips?Site=CI&amp;Date=20010101&amp;Category=STATIC&amp;ArtNo=101010738&amp;Ref=AR&amp;headline=Privacy%20Policy">&nbsp;EMAIL</a></li>
-									</ul>
-								</div>
+	<div id="crainNav" class="narrow">
+		<h3>Crain Financial Group</h3>
+		<ul>
+			<li><a href="http://www.pionline.com/" title="" target="_blank">Pensions &amp; Investments</a></li>
+			<li><a href="http://www.workforce.com" title="" target="_blank">Workforce Management</a></li>
+		</ul>
+	</div>
+	<p id="copyright">Copyright © 2010 <a href="http://www.crain.com" title="" target="_blank">Crain Communications Inc.</a> Use of editorial content without permission is stictly prohibited. <a href="/article/20010101/STATIC/101010738" title="">Privacy Policy</a> and
+		<a href="/article/20070619/STATIC/70619005" title="">Terms &amp; Conditions</a> are applicable to you.  All rights reserved.</p>
+</div>
+</div>
 
 
 
-<br><br><br><br><br>
-
-</td>
-<td width="10"><img height="1" width="10" alt="" src="/images/spacer.gif"></td>
-
-                            <td width="1" bgcolor="#999999"><img height="1" width="1" alt="" src="/images/spacer.gif"></td>
-                            
-                            <td width="10"><img height="1" width="10" alt="" src="/images/spacer.gif"></td>
-<!--COLUMN 3: ADS BEGINS HERE--> 
+</div>
 
 
-                            <td width="160" valign="top">
-				
-				<div class="centerTopSky">
-                             		<script language="JavaScript">
-						OAS_RICH("Right");
-					</script><a href="http://oas-central.realmedia.com/RealMedia/ads/click_nx.ads/www.investmentnews.com/article/101010738/15620892959@Top,Bottom,Right,x01!Right?" target="_blank"><img src="http://oas-central.realmedia.com/RealMedia/ads/adstream_nx.ads/www.investmentnews.com/article/101010738/15620892959@Top,Bottom,Right,x01!Right?" border="0"></a>
-				</div>
-				
-				<div class="centerAd">
-	                   		<script language="JavaScript">
-						OAS_RICH("x01");
-					</script><a href="http://oas-central.realmedia.com/RealMedia/ads/click_nx.ads/www.investmentnews.com/article/101010738/15620892959@Top,Bottom,Right,x01!x01?" target="_blank"><img src="http://oas-central.realmedia.com/RealMedia/ads/adstream_nx.ads/www.investmentnews.com/article/101010738/15620892959@Top,Bottom,Right,x01!x01?" border="0"></a>
-				</div>
-					
-					
-								<div id="ENewsSubscribe">
-									<a href="https://home.investmentnews.com/clickshare/myhome.do">
-									<img src="/images/enews-signup.gif" alt="enews">
-									<div class="ENewsInside">
-										<div class="h3">Bring IN to Your Inbox with e-Newsletters</div>
-									</div>
-									<img src="/images/regalert.gif">
-									<img src="/images/INdaily.gif">
-									<img class="ENewsInside" src="/images/subscribe-button.gif" alt="subscribe">
-									</a>
-								</div>
-				</td>
-                        </tr>
-                    </tbody></table>
-
-<hr>
-                    
-                    	<div class="centerAd">
-	                    	<script language="JavaScript">
-					OAS_RICH("Bottom");
-				</script><a href="http://oas-central.realmedia.com/RealMedia/ads/click_nx.ads/www.investmentnews.com/article/101010738/15620892959@Top,Bottom,Right,x01!Bottom?" target="_blank"><img src="http://oas-central.realmedia.com/RealMedia/ads/adstream_nx.ads/www.investmentnews.com/article/101010738/15620892959@Top,Bottom,Right,x01!Bottom?" border="0"></a>
-			</div>
-
-
-<hr>
-<!--FOOTER BEGINS HERE--> 
-
-                                <div id="Footer" class="link4">
-	                                
-	                                <a href="/apps/pbcs.dll/qwikNavsearch?QwikNav=ABOUT">About Us</a> | 
-					<a href="/apps/pbcs.dll/qwikNavsearch?QwikNav=CONTACT_US" rel="nofollow">Contact Us</a> | 
-					<a href="/apps/pbcs.dll/section?category=ADVANCEDSEARCH" rel="nofollow">Search</a> | 
-					<a href="/editcalendar" rel="nofollow">Editorial Calendar</a> | 
-					<a href="/advertise" rel="nofollow">Advertise</a>
-
-					<br><br>
-                               		
-                               		<span class="b5">Subscriber Services:&nbsp;</span>
-	                                <a href="https://sec.crain.com/IN/QuickOrder.aspx?PromotionCode=W9INWBN" rel="nofollow">Subscribe</a> |
-	                                <a href="https://sec.crain.com/IN/LaunchPad.aspx?d=Renew&amp;p=W9INWBR" rel="nofollow">Renew</a> | 
-					<a href="https://sec.crain.com/IN/Login.aspx?ReturnUrl=/IN/Customers/SiteSubscriptions.aspx" rel="nofollow">Subscription Status</a> | 
-					<a href="https://sec.crain.com/IN/Login.aspx?ReturnUrl=/IN/Customers/OpenInvoices.aspx" rel="nofollow">Pay an Invoice</a> | 
-					<a href="https://sec.crain.com/IN/Login.aspx?ReturnUrl=/IN/Customers/ChangeAddress.aspx" rel="nofollow">Change Mail Address</a>
-
-					<br><br>
-					
-					<a href="/reprints" rel="nofollow">Reprints</a> | 
-					<a href="/listrental" rel="nofollow">List Rental</a> | 
-					<a href="/apps/pbcs.dll/section?category=SITEMAP">Issue Index</a> | 
-					<a href="/apps/pbcs.dll/qwikNavsearch?QwikNav=PRIVACY" rel="nofollow">Privacy Policy</a>  |
-					<a href="/apps/pbcs.dll/qwikNavsearch?QwikNav=TERMSCONDITIONS" rel="nofollow">Terms &amp; Conditions</a>                          
-	                                
-	                                <br><br>
-
-                               		<span class="b5">Crain Financial Group:&nbsp;</span>
-	                                <a href="http://www.pionline.com" target="_blank">Pensions &amp; Investments</a> |
-	                                <a href="http://www.financialweek.com" target="_blank">FinancialWeek</a> | 
-					<a href="http://www.workforce.com" target="_blank">Workforce Management</a>
-
-					
-
-	                                <span class="b5">
-	                                     Copyright © 2009 <a href="http://www.crain.com" target="_blank">Crain Communications Inc.</a><br>
-	                                    Use of editorial content without permission is strictly prohibited. All rights reserved. 711 Third Ave., 3rd Floor, New York, NY 10017
-	                                    </span><br><br>
-	                                                                   </div>
-                                
 <script type="text/javascript">
-	//only do article discovery if articleIds have been written
-	if (articleIds.length > 0)
-	{
-		//get the template content and add it to the gadget...
-		myGadget.template = document.getElementById("discoItemTemplate").innerHTML;
-				
-		//by setting the suffix for the output wrapper, we change the way the gadget looks for its target element
-		myGadget.DOM_TARGET_SUFFIX = "output";
-		
-		if (articleIds.length > 19)
-		{
-			//max number of requests are 20 so check how many requests we need to do (bitwise or to cast to integer)
-			var numRequests = (articleIds.length / 20) | 0;
-
-			var i;
-			for(i=0; i < numRequests; i++)
-			{		
-				var startIndex = (i * 20);
-				var endIndex = (i + 1) * 20;
-
-				var requestArticleIds = articleIds.slice(startIndex, endIndex);
-				
-				//create a daapi batch
-				var requestBatch = new RequestBatch();
-				
-				requestBatch = addArticlesToRequest(requestArticleIds, requestBatch);
-				
-				//make call using IE fix function
-				new NYX.ieSafeExecution(delayExecutionForIE).execute(requestBatch, daapiCallback);
-			}
-			
-			//add remaining articles if not divisible by 20
-			if( (articleIds.length % 20) != 0)
-			{
-				
-				//taking remaining article ids and send request
-				var requestArticleIds = articleIds.slice(i*20);
-				
-				//create a daapi batch
-				var requestBatch = new RequestBatch();
-				
-				requestBatch = addArticlesToRequest(requestArticleIds, requestBatch);
-				
-				//make call using IE fix function
-				new NYX.ieSafeExecution(delayExecutionForIE).execute(requestBatch, daapiCallback);
-			}
-		}
-		else
-		{
-			//create a daapi batch
-			var requestBatch = new RequestBatch();
-			requestBatch = addArticlesToRequest(articleIds, requestBatch);
-			
-			//make call using IE fix function
-			new NYX.ieSafeExecution(delayExecutionForIE).execute(requestBatch, daapiCallback);
-
-		}
-	}
-
-</script>
-                                
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-_uacct = "UA-2647193-3";
-urchinTracker();
+try {
+var pageTracker = _gat._getTracker("UA-2647193-3");
+pageTracker._setDomainName(".investmentnews.com");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<script type="text/javascript">
+var _sf_async_config={uid:7329,domain:"investmentnews.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
 </script>
 
-                    <table width="450" align="center" id="FooterCredits">
-                        <tbody><tr align="center">
-                            <td>
-                                <div class="b2">
-                                    Fund Data Provided by
-                                </div>
-                            </td>
-
-                            <td>
-                                <div class="b2">
-                                    Markets Data Provided by
-                                </div>
-                            </td>
-                        </tr>
-
-                        <tr align="center" valign="top">
-                            <td><a target="_blank" href="http://www.lipperweb.com/"><img border="0" title="Lipper" src="http://www.investmentnews.com/images/random/lipper_button.jpg" alt="Lipper"></a></td>
-
-                            <td><a target="_blank" href="http://www.quotemedia.com/"><img src="http://www.investmentnews.com/images/random/quotemedia_small.gif" alt="QuoteMedia" border="0"></a></td>
-                        </tr>
-                    </tbody></table>
-
-
-    </div>
+	<script type="text/javascript" src="/js/addthis.js"></script>
 
 
 
-</body></html>
+<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
