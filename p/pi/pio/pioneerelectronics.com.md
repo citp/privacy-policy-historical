@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pioneerelectronics.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506063513id_/http%3A//www.pioneerelectronics.com/PUSA/AboutPioneer/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneerelectronics.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508195118id_/http%3A//www.pioneerelectronics.com/PUSA/AboutPioneer/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Pioneer USA - Privacy Policy
 
