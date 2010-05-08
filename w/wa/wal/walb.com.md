@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walb.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106014807id_/http%3A//www.walb.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walb.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508031339id_/http%3A//www.walb.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
 
 # Privacy Policy - WALB.com News, Weather and Sports for Albany, Valdosta and Thomasville. Leading the way for South Georgia. |
 
