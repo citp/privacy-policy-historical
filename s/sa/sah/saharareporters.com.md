@@ -1,12 +1,20 @@
-> *The following text is extracted and transformed from the saharareporters.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230235340id_/http%3A//www.saharareporters.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D3245%26Itemid%3D432) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saharareporters.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509003704id_/http%3A//www.saharareporters.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D3245) for the most accurate reproduction.*
 
 # Privacy Policy
 
+Written by {ga=gregmorrisuk} 
+
+|   
+---|---  
+  
+|   
+---|---  
+  
 **Privacy Policy**
 
 ******Overview** SaharaReporters.com (“SaharaReporters.com”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. This policy describes the types of information collected, how it may and may not be used, and how it is protected. By visiting SaharaReporters.com’s website ("Website"), or using any of our services on the website ("Website Services"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy and our use of your information in accordance with this Privacy Policy. ****
 
-******Information Collected From Users** In the course of your browsing the Website, SaharaReporters.com may collect the IP address of the computer through which your visit is enabled (for example your Internet Service Provider's server); cookie information; information regarding the pages, links, banners, icons and other parts of the Website that are accessed or clicked on during a visit to the Website; information regarding the date, time, and duration of your visit; and information you may volunteer, e.g., in response to survey requests or as part of a registration. Upon any registration for, and in subsequent interaction with, Website Services, SaharaReporters.com may collect mandatory information such as your User Name, Password, primary email address, and password hint question and answer. A "cookie" is a small line of text that is sent to your browser and stored on your computer when you visit a website. SaharaReporters.com uses a cookie for record-keeping and verification purposes and a cookie helps us provide better service to you. For example, we use a cookie to verify your session and user identification and to track the pages within the Website that you visited. Your browser should have options to accept, reject or provide you with a notice when a cookie is sent. However, if you disable cookies, you may not be able to use the Website Services. Please note that SaharaReporters.com does not and cannot read cookies set by other websites. ****
+******Information Collected From Users** In the course of your browsing the Website, SaharaReporters.com may collect the IP address of the computer through which your visit is enabled (for example your Internet Service Provider's server); cookie information; information regarding the pages, links, banners, icons and other parts of the Website that are accessed or clicked on during a visit to the Website; information regarding the date, time, and duration of your visit; and information you may volunteer, e.g., in response to survey requests or as part of a registration. Upon any registration for, and in subsequent interaction with, Website Services, SaharaReporters.com may collect mandatory information such as your User Name, Password, primary email address, and password hint question and answer. A "cookie" is a small line of text that is sent to your browser and stored on your computer when you visit a website. SaharaReporters.com uses a cookie for record-keeping and verification purposes and a cookie helps us provide better service to you. For example, we use a cookie to verify your session and user identification and to track the pages within the Website that you visited. Your browser should have options to accept, reject or provide you with a notice when a cookie is sent. However, if you disable cookies, you may not be able to use the Website Services. Please note that SaharaReporters.com does not and cannot read cookies set by other websites.
 
 ******Use of Information Collected** Your information will not be shared with any third parties except as explained below. SaharaReporters.com will not place your name, email address, physical address or any other personally identifiable information into any marketing, promotional database, or mailing list. ****
 
@@ -26,12 +34,10 @@ We will not sell, rent or transfer your Personally Identifiable Information to a
 
 If you suspect that your privacy has been violated or that SaharaReporters.com has not abided by the terms set forth in this policy, contact SaharaReporters.com by emailing [customerservice@SaharaReporters.com](mailto:customerservice@peopleonpoint.com)
 
-The views which are expressed in the comments areas are not the views of Saharareporters or any of its editors or reporters and we accept no liability in respect of any material posted in the comments areas, nor are we responsible for its content and accuracy.
-
-Comments 
-
   
 
+
+Comments (0)
 
 Write comment
 
