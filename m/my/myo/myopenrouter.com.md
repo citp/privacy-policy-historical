@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myopenrouter.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103114918id_/http%3A//www.myopenrouter.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myopenrouter.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508071803id_/http%3A//www.myopenrouter.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: MyOpenRouter
 
