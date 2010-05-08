@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hertfordshiremercury.co.uk privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227234630id_/http%3A//www.hertfordshiremercury.co.uk/hertfordshiremercury-aboutus/DisplayArticle.asp%3FID%3D79375) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hertfordshiremercury.co.uk privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508230340id_/http%3A//www.hertfordshiremercury.co.uk/privacypolicy) for the most accurate reproduction.*
 
-# Info about Hertfordshire Mercury, about us & where to find us, location - Hertfordshire Mercury - Privacy Policy
+# Hertfordshire News | Local News & Events in Hertford | Latest Sports, Jobs & Business News Hertfordshire Newspaper | Privacy Policy
 
-## Privacy Policy
+Last updated: 22/02/2010 15:19
 
 **1.What is covered by the Privacy Policy?**
 
@@ -49,9 +49,5 @@ Hertford
 Hertfordshire  
 SG13
 
-Story First Published: 24/04/2007 13:43:06
-
   
 
-
-Back to top
