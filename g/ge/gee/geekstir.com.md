@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geekstir.com privacy policy that was archived on 2009-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090314055903id_/http%3A//www.geekstir.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekstir.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508095007id_/http%3A//www.geekstir.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Geekstir
+# Privacy Policy – Geekstir
 
 The privacy of our visitors is important to us.
 
