@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrillist.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223034021id_/http%3A//www.thrillist.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrillist.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508020613id_/http%3A//www.thrillist.com/privacypolicy/Austin) for the most accurate reproduction.*
 
 # Thrillist | A daily email shot of food, drinks, services, gadgets, gear, sports and travel.
 
