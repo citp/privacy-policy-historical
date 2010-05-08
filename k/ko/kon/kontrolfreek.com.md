@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kontrolfreek.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104163141id_/http%3A//www.kontrolfreek.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kontrolfreek.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508111808id_/http%3A//www.kontrolfreek.com/privacy.asp) for the most accurate reproduction.*
 
-# KontrolFreek Privacy Policy: KontrolFreek Performance Gaming Gear - FPS Freek and SpeedFreek for Xbox 360 and PS3 Controllers
+# KontrolFreek Privacy Policy: XBox 360 & PS3 Precision Game Controller Accessories | KontrolFreek
 
-KontrolFreek Privacy Policy: KontrolFreek Performance Gaming Gear - FPS Freek and SpeedFreek for Xbox 360 and PS3 Controllers
+KontrolFreek Privacy Policy: XBox 360 & PS3 Precision Game Controller Accessories | KontrolFreek
 
 KontrolFreek has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: KontrolFreek.com. 
 
@@ -33,9 +33,9 @@ To unsubscribe from any of our email newsletters, simply send an email to: [unsu
 You can also send mail to the following postal address: 
 
 KontrolFreek, LLC  
-4355 Cobb Parkway  
-Suite J-555  
-Atlanta  GA 30339 
+2020 Howell Mill Road, NW  
+Suite C-119  
+Atlanta, GA 30318
 
 ## Contacting KontrolFreek  
 
