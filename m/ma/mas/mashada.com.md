@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mashada.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106133119id_/http%3A//www.mashada.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mashada.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509010006id_/http%3A//www.mashada.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mashada.com
 
