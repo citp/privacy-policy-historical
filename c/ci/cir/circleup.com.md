@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circleup.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106220724id_/http%3A//www.circleup.com/pub/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circleup.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508202323id_/http%3A//www.circleup.com/pub/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SmartMessage Center
 
