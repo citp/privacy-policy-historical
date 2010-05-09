@@ -1,45 +1,59 @@
-> *The following text is extracted and transformed from the realigent.com privacy policy that was archived on 2008-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081012110823id_/http%3A//realigent.com/page.aspx%3FpageID%3D24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realigent.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509115134id_/http%3A//realigent.com/page.aspx%3FpageID%3D24) for the most accurate reproduction.*
 
 # Privacy Statement
 
-This policy may be updated by us from time to time, so please check here frequently. 
+**Privacy Statement  **
 
-The FNRES Holdings family of sites - including, Homeseekers.com™, Homeseekers.com CityNet™, Reinnovators.com™, and GenstarMedia.com™ - is committed to your privacy and security as web site user and wants to provide you with the best possible experience. Except as provided herein, we will not disclose your personally identifiable information to any third party without your consent. 
+ We recognize and respect the privacy expectations of today’s consumers and the requirements of applicable federal and state privacy laws. We believe that making you aware of how we use your non-public personal information (“Personal Information”), and to whom it is disclosed, will form the basis for a relationship of trust between us and the public that we serve. This Privacy Statement provides that explanation. We reserve the right to change this Privacy Statement from time to time consistent with applicable privacy laws.
 
-In our efforts to provide the highest quality user experience here's how we collect and use information from you:
+**In the course of our business, we may collect Personal Information about you from the following sources:**
 
-IP Address - Your IP or "Internet Protocol" address and other site usage data is used to gather broad demographic information. This data helps us serve you by allowing us to understand how visitors use our web sites. 
+  * From applications or other forms we receive from you or your authorized representative; 
+  * From your transactions with, or from the services performed by, us, our affiliates, or others; 
+  * From our Internet Web sites; 
+  * From the public records maintained by governmental entities that we either obtain directly from those entities, or from our affiliates or others; and 
+  * From consumer or other reporting agencies. 
 
-Cookies - Our sites use a technology called "cookies," small files stored by your browser to help keep track of your user profile. Our cookies do not collect personally identifiable information, nor do we share them with anyone. We use cookies to remember your personal profile for your convenience, to deliver content specific to your needs and interests, and to ensure you don't see the same ad repeatedly. We also use cookies to track user trends and improve areas of our sites that our users find valuable. 
 
-Ads - We sometimes use third-party advertising companies to serve ads on our website. These third-party advertising companies employ cookie and 1x1 pixel .gif technology to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our Web site and other Web sites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes. If you want to prevent a third-party advertiser from setting and/or reading cookies on your computer, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [_Click here_](http://www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies' privacy policies.
 
-Registration - Some of our sites include registration forms that require users to give us contact information (like your name), unique identifiers (such as your email address), and demographic information (like your Zip code or age). Customer contact information is shared among the FNRES Holdings family of web sites so that, when possible, you can enjoy member benefits without having to register more than once. 
+**Our Policies Regarding the Protection of the Confidentiality and Security of Your Personal Information**
 
-We use customer contact information from registration forms to send you information related to our products and services if you consent to receiving such mailings. Your contact information may also be used to contact you when necessary for administrative purposes related to your account. We use your email as a unique identifier in our record system, to verify communications from you, and to send you newsletters and promotion offerings that you ask to receive or to tell you about changes to the FNRES Holdings family of web sites. 
+We maintain physical, electronic and procedural safeguards to protect your Personal Information from unauthorized access or intrusion. We limit access to the Personal Information only to those employees, contractors and agents who need such access in connection with providing products or services to you or for other legitimate business purposes. We will at all times comply with all laws and regulations to which we are subject regarding the collection, use and disclosure of individually identifiable information. 
 
-Demographic information and site usage data is also collected on our sites. We use this data to tailor your experience, allowing us to provide content related to your preferences and information on products or services we think you may be interested in.
+**Our Policies and Practices Regarding the Sharing of Your Personal Information**
 
-Email Services - If you take advantage of any email notification features on our sites, you will receive email updates as described in the service. The FNRES Holdings family of sites provides users the opportunity to opt-out of receiving communications from us and our partners. Users can remove their personal information from the database of a particular site by sending a request by email to [support@fnres.com](mailto:support@fnres.com). 
+We may share your Personal Information with our affiliates. We also may disclose your Personal Information: 
 
-Contests and Surveys - Online, we may also survey visitors for contact information, unique identifiers and demographic information. You are never required to answer these questions. The information you submit may be used for analyzing overall site demographics, user preferences and tastes, and similar "getting to know our customers" purposes. We may disclose this data to third parties in an aggregated form (such as summary reports for our advertisers) but never with user data or identification assigned to the information provided. 
+  * to agents, brokers or representatives to provide you with services you have requested; 
+  * to third-party contractors or service providers who provide services or perform marketing or other functions on our behalf; 
+  * to governmental entities to meet our legal requirements connected to the collection, retention and disclosure of individually identifiable information, such as tax reporting or identification of money laundering; 
+  * to law enforcement in connection with investigations, or civil or criminal subpoenas or court orders; and 
+  * to maintain our relationship with our employees. 
 
-When you enter a contest, we will require that you submit a limited amount of personally identifiable data such as contact information. We may also ask you questions related to your preferences and age or background. We will designate which questions are required to be answered in order to enter the contest. The information you submit may be used to analyze site demographics and user preferences, and for similar "getting to know our customer" purposes. We may share this data with third parties in aggregate form only (as in summary reports to advertisers), and never in the form of personally identifiable information. 
 
-Your Security - Each web site in the FNRES Holdings, family of web sites has security measures to protect against loss, misuse or alteration of your personal information. 
 
-Third Party Service Providers - Some of the services available through our family of sites are provided by third parties that have their own privacy policies that may be different than ours. You should review the privacy policy of third parties before providing your personal information to them. 
+In addition, we will disclose your Personal Information when you direct or give us permission, when we are required by law to do so, or when we suspect fraudulent or criminal activities. We also may disclose your Personal Information when otherwise permitted by applicable privacy laws such as, for example, when disclosure is needed to enforce our rights arising out of any agreement, transaction or relationship with you. 
 
-Outside Links - While on a FNRES Holdings family web site, you may be led to other web sites. Please note that other sites may collect data and personal information and operate according to their own privacy practices. Be aware that, once outside of our family of sites, any information you submit is outside of our control. 
+One of the important responsibilities of some of our affiliated companies is to record documents in the public domain. Such documents may contain your Personal Information. 
 
-Disclosure - To provide you the best products and services, we team with business partners. We may use any information we obtain relating to you for our internal business and marketing purposes. We may disclose any information we obtain relating to you to our business partners. When you indicate that you want to receive a product or service, or information about a product or service, or contact a person or organization, we share the data needed for you to receive what you have indicated. Occasionally, we hire consultants that may need access to our member database to perform their services for us. We require that these business partners agree not to use any member information that they may receive access to. 
+**Financial Services**
 
-Choice/Opt-out - The FNRES Holdings family of web sites provides you the opportunity to opt out of receiving communications from our partners and us. To remove your personal information from one of our web sites, email a request to us at [support@fnres.com](mailto:support@fnres.com).
+All "non-public personal information" as defined in Title V of the Gramm-Leach-Bliley Act (15 U.S.C. Section 6801, et seq.) and the implementing regulations thereunder (collectively, the "GLB Act"), as the same may be amended from time to time, that we receive from any individual or organization, concerning "customers" and/or "consumers" (as defined in the GLB Act) will at all times be collected, used and disclosed in accordance with the requirements and prohibitions of the GLB Act. 
 
-Contacting Us - If at any time you feel that the FNRES Holdings family of web sites has not adhered to this policy, email us at [support@fnres.com](mailto:support@fnres.com). If you have questions or concerns about our privacy policy, please contact us at [support@fnres.com](mailto:support@fnres.com). 
+**U.S./EU “Safe Harbor”**
 
-This FNRES Holdings, privacy policy does not extend to any information that is inherent in the operation of the Internet, and therefore beyond the control of FNRES Holdings, and is not to be applied in any manner contrary to applicable law or governmental regulation.
+We receive certain individually identifiable information concerning residents of the European Union (“EU”) in connection with the testing of software applications at the request of clients and regarding our employees for employment related purposes and services. Lender Processing Services, Inc. has joined the U.S. Department of Commerce’s “Safe Harbor” program with respect to the individually identifiable information it receives from the EU, and utilizes such information in strict accordance with the Safe Harbor principles. The Safe Harbor principles, and our Safe Harbor certification, can be found at [www.export.gov/safeharbor](http://www.export.gov/safeharbor "Link to Safe Harbor web site"). 
 
-We reserve the right at our discretion to make changes to this policy at any time.
+**Right to Access Your Personal Information and Ability to Correct Errors or Request Changes or Deletion**
 
-FNRES Holdings, Inc., and its affiliates may disclose your personally identifiable information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the requirements of the law or comply with governmental orders, court orders, or legal process served on FNRES Holdings, Inc., or its affiliates; (2) protect and defend the property or rights of FNRES Holdings, Inc., and its affiliates or the users of the FNRES Holdings family of web sites. 
+Certain states afford you the right to access your Personal Information and, under certain circumstances, to find out to whom your Personal Information has been disclosed. Also, certain states and the Safe Harbor principles afford you the right to request correction, amendment or deletion of your Personal Information. We reserve the right, where permitted by law, to charge a reasonable fee to cover the costs incurred in responding to such requests.   
+All requests must be made in writing to the following address:
+
+Chief Compliance Officer  
+Lender Processing Services, Inc.   
+601 Riverside Ave.   
+Jacksonville, Florida 32204 
+
+**Multiple Products or Services**
+
+If we provide you with more than one financial product or service, you may receive more than one privacy notice from us. We apologize for any inconvenience this may cause you.
