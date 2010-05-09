@@ -1,57 +1,25 @@
-> *The following text is extracted and transformed from the editorandpublisher.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410150318id_/http%3A//www.nielsenbusinessmedia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the editorandpublisher.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509083310id_/http%3A//www.editorandpublisher.com/privacy.aspx) for the most accurate reproduction.*
 
-# Nielsen Business Media
+# Editor & Publisher
 
-**Revised December 2007**
+Duncan McIntosh Company Inc. (“McIntosh”), owner of editorandpublisher.com, strives to offer its visitors the many advantages of Internet technology to make your visit to our website informative and enjoyable and to protect your privacy online. Please note this policy applies only to information collected by McIntosh online and does not impact information collected or used by McIntosh or its affiliates through other means. This privacy policy may change from time to time so please check back periodically. 
 
-This site is part of the NIELSEN BUSINESS MEDIA ("Nielsen") network of web sites. Please note that NIELSEN does not pass personally identifiable information of our users to DoubleClick.
+**HOW WE GATHER INFORMATION FROM OUR VISITORS.**
 
-At NIELSEN we take your privacy very seriously. Because of this we want to provide you with explicit information on how we collect, gather, and identify information during your visit to our site. This information may be expanded or updated as we change or develop our site. For this reason, we recommend that you review this policy from time-to-time to see if anything has changed. Your continued use of our site signifies your acceptance of our privacy policy.
+We collect information in several ways from our web site, sometimes depending on the page you visit or the activity you engage in. For example, you may be asked to provide information when you participate in sweepstakes and contests, or when you contact us. If you contact McIntosh, we may keep a record of that correspondence. We also occasionally ask users to complete surveys that we use for research purposes. Wherever McIntosh collects personal information, we make an effort to include a link to this Privacy Policy on that page. Like most web sites, McIntosh may collect information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name, to track your progress and number of entries in some of our promotions, sweepstakes and contests, measure certain traffic patterns, which areas of McIntosh's website you have visited, and your visiting patterns in the aggregate. We use this research to understand how our visitors' habits are similar or different from one another so that we can make each new experience on our web site a better one. We may use this information to better personalize the content, banners, and promotions that you and other users will see on our sites. Advertising networks that serve ads onto our web site may also use their own cookies. 
 
-**Personally Identifiable Information** refers to information that tells us specifically who you are, such as your name, phone number, email or postal address. In many cases we need this information to provide the personalized or enhanced service that you have requested. 
+McIntosh also collects IP addresses for system administration and to report aggregate information to our advertisers. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site, and we may not be able to customize the site's features according to your preferences. 
 
-The amount of Personally Identifiable Information that you choose to disclose to NIELSEN is completely up to you. The only way we know something about you personally is if you provide it to us in conjunction with one of our services.
+If you supply us with your street address or e-mail address, you may receive periodic mailings and/or e-mails from us with information on new products and services or upcoming events. If you do not wish to receive such mailings or e-mails, please let us know by contacting us via e-mail, telephone or mail. Our contact information is listed in the Terms of Use. McIntosh is not responsible for any unsolicited emails you may receive as a result of participating in any of the Forums. 
 
-**What information do we collect and how do we use it?**
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our website periodically. 
 
-NIELSEN collects information on our users in three ways: by your voluntary submissions (for instance, if you sign up for one of our email newsletters) and/or surveys; sweepstakes and/or contest entries; and through cookie technology.
+Upon request we provide website visitors with access to a description of information that we maintain about them. Visitors can access this information by contacting us via e-mail, telephone or mail. Our contact information is listed in the Terms of Use. We reserve the right to reveal your identity (or whatever information we know about you) in the event of a complaint or legal action or in response to a request from a law enforcement agency, to enforce the Terms of Use, or to protect the rights, property or safety of visitors to our site, our advertisers, the public or McIntosh. 
 
-In our effort to provide personalization and opportunities for prizes and services, we may at times ask you to submit information such as your name or email address, or to share your interests and hobbies with us. You never have to answer these questions, and you can decline this exchange of information on any site on the Internet - not just ours - at any time. However, if you should choose to withhold requested information, we may not be able to provide you with some of the services dependent upon the collection of this information, such as a personalized stock portfolio, a sweepstakes entry, or the purchase and shipment of products and prizes to people who visit our network.
+With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you through our website. 
 
-The information NIELSEN collects is used in a variety of ways: for internal review; to improve the content of the site, thus making your user experience more valuable; to notify you about updates to the service; and to let you know about products and services that you may be interested in.
+If you feel that this website is not following its stated information policy, you may contact us via e-mail, telephone or mail. Our contact information is listed in the Terms of Use. 
 
-**Email:** If you have provided us your email address, NIELSEN periodically sends promotional emails to its subscribers about services offered by NIELSEN and its partners. If you do not wish to receive email information from NIELSEN, please let us know by emailing us at: [removeme@nielsen.com](mailto:removeme@vnuemedia.com) or by writing us at NIELSEN BUSINESS MEDIA, 770 Broadway, New York, NY 10003.   
+**CHILDREN**
 
-
-The "email this article" feature is an easy way for you to send articles through email. The email addresses that you supply to use this service will not be used for any other purpose without your consent. 
-
-**With whom does NIELSEN share the information it gathers/tracks?**
-
-From time to time we share this information with other reputable organizations for marketing purposes or the information is used by NIELSEN to contact consumers for its own marketing endeavors. As a valued consumer, we offer you the opportunity to "opt out", or request not to accept these marketing opportunities. If at any time you change your mind and do not want NIELSEN to share your email address or home address with other companies and/or organizations, or would simply like to be removed from the list, please let us know by emailing us at: [removeme@nielsen.com](mailto:removeme@vnuemedia.com) or by writing us at NIELSEN BUSINESS MEDIA, 770 Broadway, New York, NY 10003.
-
-**Sweepstakes/Contests**
-
-From time-to-time NIELSEN, along with other reputable companies, provides sweepstakes and other contests for the enjoyment of our users. By participating in the contest or sweepstakes and answering any and all questions, the user understands that NIELSEN and/or the involved company(s) may use the information obtained for marketing purposes. Children under 18 may not participate in any sweepstakes or contest promoted by NIELSEN.
-
-**Cookies**
-
-NIELSEN may automatically collect non-personally identifiable information and data through the use of "cookies." Cookies are small text files a Web site uses to recognize repeat users, facilitate the user's ongoing access to the site and facilitate the use of the site. "Cookies" also allow a site to track usage behavior and compile site usage information that will allow for the improvement of content and target advertising.
-
-Some sites in the NIELSEN eMedia Network use DoubleClick and other third-party advertising companies to serve ads when you visit our Web sites. These companies may use non-personally identifiable information (i.e. not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here [www.doubleclick.net/naiprivacy](http://www.doubleclick.net/naiprivacy).
-
-Some sites in the NIELSEN eMedia Networks also use a third party to collect non-personally identifiable information using web beacons.
-
-**About Children's Privacy**
-
-NIELSEN is committed to the safety of our children. Children under 18 may not participate in any sweepstakes or contests on NIELSEN. Also, we encourage children under the age of 18 to ask a parent for permission before providing or sending any information to anyone online.
-
-**Your Consent**
-
-By using our Web site, you consent to the collection and use of the information described in this Privacy Policy by NIELSEN. Once again, if you do not wish us to share this information with other reputable companies that we think you might be interested in, please let us know by emailing us at [removeme@nielsen.com](mailto:removeme@vnuemedia.com).
-
-**Questions?**
-
-We welcome your questions and/or comments. Please send all queries to [webmaster@nielsen.com](mailto:webmaster@vnuemedia.com).  
-
-
-|  
+McIntosh does not knowingly collect or solicit information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe McIntosh has any information from or about anyone under 13, please contact us at the address listed in the Terms of Use. 
