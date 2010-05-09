@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobilewhack.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107181318id_/http%3A//www.mobilewhack.com/about-us/about-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilewhack.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510003727id_/http%3A//www.mobilewhack.com/about-us/about-2) for the most accurate reproduction.*
 
-# Privacy - Specs, reviews and prices.
+# Privacy « Specs, Reviews and Prices - MobileWhack.com
 
 MobileWhack takes peoples privacy very seriously.
 
@@ -13,5 +13,4 @@ Many Regards Webmaster
 Copyright Info:  
 The content on Mobilewhack is written by professional writers and is copyrighted to Mobilewhack.com and it may not be used or reproduced in any way without the express premission of MobileWhack.com owners.
 
-Tags: [Uncategorized](http://www.mobilewhack.com/category/uncategorized/ "Uncategorized")  
-
+Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
