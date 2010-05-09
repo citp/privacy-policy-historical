@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211031406id_/http%3A//www.gamefly.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509192610id_/http%3A//www.gamefly.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # GameFly: Privacy Policy
 
@@ -152,7 +152,7 @@ GameFly
 Attn.: Privacy Policy Administrator  
 P.O. Box 5326  
 Culver City, CA 90231-5326  
-1-888-986-6400 - Mon-Fri, 9 AM - 1 PM PT  
+1-888-986-6400 - M - F, 12 p.m. - 4 p.m. CST  
 [ support@gamefly.com](http://www.gamefly.com/help/Default/Contact/) \- 7 days a week 
 
 Any personal information you provide to the above e-mail or postal mail addresses will not be used to send you promotional materials, unless you request it. 
