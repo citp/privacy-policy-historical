@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loudlaunch.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419225957id_/http%3A//www.loudlaunch.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loudlaunch.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509223155id_/http%3A//www.loudlaunch.com/privacy.aspx) for the most accurate reproduction.*
 
 # LoudLaunch.Com - Create market buzz and build links through sponsored reviews and blog advertising.
 
@@ -43,7 +43,7 @@ LoudLaunch.Com tracks user traffic patterns throughout all of our sites. However
 
 COOKIES
 
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. LoudLaunch.Comuses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates. You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys. Privacy Policy Use How the information you gather is used if relevent. 
+We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. LoudLaunch.Com uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates. You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys. Privacy Policy Use How the information you gather is used if relevent. 
 
 USE OF INFORMATION 
 
