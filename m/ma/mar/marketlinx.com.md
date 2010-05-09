@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketlinx.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620231544id_/http%3A//www.firstam.com/content.cfm%3Fid%3D4472) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketlinx.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509041624id_/http%3A//www.firstam.com/content.cfm%3Fid%3D4472) for the most accurate reproduction.*
 
 # First American - Privacy Information
 
