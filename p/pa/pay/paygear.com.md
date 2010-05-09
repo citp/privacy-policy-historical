@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paygear.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109113030id_/http%3A//www.paygear.com/contents/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paygear.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510004348id_/http%3A//www.paygear.com/contents/privacy) for the most accurate reproduction.*
 
 # Privacy - PayGear.com -
 
