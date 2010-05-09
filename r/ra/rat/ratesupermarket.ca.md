@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratesupermarket.ca privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113154000id_/http%3A//www.ratesupermarket.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratesupermarket.ca privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509205633id_/http%3A//www.ratesupermarket.ca/privacy_policy) for the most accurate reproduction.*
 
 # Ratesupermarket.ca Privacy Policy
 
@@ -6,11 +6,11 @@ RateSupermarket.ca ("We") believe that your personal information deserves protec
 
 ## How do we collect and use personal information? 
 
-RateSupermarket.ca is in the business of providing a comprehensive, informational website about mortgages, as part of providing this service, we may collect personal information from our users. 
+RateSupermarket.ca is in the business of providing a comprehensive, informational website about financial rate comparisons, as part of providing this service, we may collect personal information from our users. 
 
 ### Newsletters
 
-When you sign up for the RateSupermarket.ca newsletter you provide us with your contact information. You may unsubscribe from the newsletter at any time by emailing unsubscribe@RateSupermarket.ca with the term "unsubscribe" as the email subject.
+When you sign up for the RateSupermarket.ca newsletter you provide us with your contact information. You may unsubscribe from the newsletter at any time by emailing unsubscribe (at) RateSupermarket.ca with the term "unsubscribe" as the email subject.
 
 ### Testimonials 
 
@@ -24,11 +24,11 @@ We may also use personal information and data collected through your emails and 
 
 We also collect some anonymous (non-personal) information from visitors to our website through the use of cookies. Cookies are used on most websites. They are text files with a unique identification number that are transferred from a web site to the hard drive of your computer. Cookies are only used to identify your computer but they do not save any personal information about you such as your name or address. Most browsers can be set up to accept or reject cookies, or simply notify you each time a cookie is set by a website you visit. 
 
-We currently use cookies for measuring traffic statistics on our website and to track when you've clicked to a lender or broker's website or through our Connect me now service. This is only so that we may track our performance with each supplier/lender/broker and for any referral programs we may have in place. We use a well-known, reputable independent third party tracking company for our clicks and call tracking, if you would like more information please contact our webmaster at webmaster@RateSupermarket.ca.
+We currently use cookies for measuring traffic statistics on our website and to track when you've clicked to a lender or broker's website or through our Connect me now service. This is only so that we may track our performance with each supplier/lender/broker and for any referral programs we may have in place. We use a well-known, reputable independent third party tracking company for our clicks and call tracking, if you would like more information please contact our webmaster at webmaster (at) RateSupermarket.ca.
 
 ### How do we protect your personal information? 
 
-We collect your personal information onto servers hosted by a reputable third party website hosting company and are restricted access servers. If you wish to obtain further information about our hosting company and its security measures, please email our webmaster at webmaster@RateSupermarket.ca.
+We collect your personal information onto servers hosted by a reputable third party website hosting company and are restricted access servers. If you wish to obtain further information about our hosting company and its security measures, please email our webmaster at webmaster (at) RateSupermarket.ca.
 
 ### With whom do we share your personal information? 
 
@@ -48,15 +48,15 @@ RateSupermarket.ca uses SSL (Secure Socket Layer) protocol, and GoDaddy.com cert
 
 You can see when the SSL connection is activated as the URL in your browser will show https:// with the "s" standing for secure. Also, a key or padlock icon may appear in the bottom left corner of your browser window and in the right side of your URL field in your browser that shows the page your on.
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. For further information about security on the website please email: webmaster@RateSupermarket.ca.
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. For further information about security on the website please email: webmaster (at) RateSupermarket.ca.
 
 ## Contact Information 
 
 For questions or concerns regarding your personal information and our privacy policy, or to update, correct or delete your personal information, please contact: 
 
-Kelvin Mangaroo  
+Customer Service  
 RateSupermarket.ca Inc.  
 3000 Sandlewood Court  
 Burlington, Ontario, Canada  
 L7M 3A4  
-kelvin@RateSupermarket.ca 
+customer.service (at) RateSupermarket.ca 
