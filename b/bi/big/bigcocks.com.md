@@ -1,8 +1,20 @@
-> *The following text is extracted and transformed from the bigcocks.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107161914id_/http%3A//www.customerhelponline.com/l/privacy.html%3Fsite%3Dbigcocks) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigcocks.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509053529id_/http%3A//www.customerhelponline.com/l/privacy.html%3Fsite%3Dbigcocks) for the most accurate reproduction.*
 
-# HOH Limited Privacy Policy Statement
+# Privacy Policy Statement
 
-**PRIVACY POLICY STATEMENT**
+### Privacy Policy Statement
+
+This website (the "Site") is operated by HOH Limited
+
+HOH Limited  
+Themistokli Dervi, 12, 1st Floor  
+Palais D'lvorie  
+Nicosia  
+Cyprus  
+1066  
+
+
+We can be reached via e-mail at [privacy@customerhelponline.com](mailto:privacy@customerhelponline.com)
 
 This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscribers and members of this Site. This is an adult Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site.
 
@@ -12,36 +24,39 @@ Notice - Use of Website by the Subscriber Constitutes the Subscriber's Express A
 
 CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS POLICY STATEMENT.
 
-IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE. ** __**
+IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE.
 
-**_What Information About Subscribers is Collected?  
-_**When any adult consumer signs-on as a member or subscriber of this Site that consumer will be required to provide certain personal as well as demographic information which may include, but is not necessarily limited to, the subscriber's name, address, e-mail address, username and password, and special interests or affiliations. This Site collects any and all such information and includes it in its customer database.
+## Information Collected:
+
+**NON-REGISTERED MEMBER** : When any web user visits the site there is certain information that is collected in order to track and record visitor information and statistics. Unless the user volunatirly submits information this is limited to IP address information in order to track various statistics about the site based on all users. This information is held and shared by third parties for an unknown amount of time.
+
+**REGISTERED MEMBER** : When any adult consumer signs-on as a member or subscriber of this Site that consumer will be required to provide certain personal as well as demographic information which may include, but is not necessarily limited to, the subscriber's name, address, e-mail address, username and password, and special interests or affiliations (ACCOUNT DATA). In addition to that information we may require certain credit card/payment information to allow us to process your transactions (FINANCIAL DATA) In order to better your experience on the site we may provide "cookies", track and store your IP address, etc in order to adjust the functionality of the site to your region (DEMOGRAPHIC DATA). This Site collects any and all such information and includes it in its customer database.
 
 If the Site features or conducts any special events, special promotions or offers, contests or polls, a subscriber of the Site may be asked to provide information in order to participate, if the subscriber voluntarily provides that information, all such information may be collected by the Site and included in its customer database. 
 
-When a subscriber of this Site requests web pages from the Site's server or clicks on banners or other hypertext links, the Site will automatically collect some information or data about the subscriber, including the subscriber's IP address, the information that is collected may also indicate any special preferences or requests of the subscriber; all that information and data will be collected by the Site and included in its customer database.
+When a subscriber of this Site requests web pages from the Site's server or clicks on banners or other hypertext links, the Site will automatically collect some information or data about the subscriber, including the subscriber's IP address, the information that is collected may also indicate any special preferences or requests of the subscriber; all that information and data will be collected by the Site and included in its customer database.  
+If a subscriber sends any personal communication or correspondence, by any means, to the Site, or any of its employees, agents or representatives, the Site may collect any information regarding that communication and stores that information in its customer database.
 
-If a subscriber sends any personal communication or correspondence, by any means, to the Site, or any of its employees, agents or representatives, the Site may collect any information regarding that communication and include that information in its customer database.
+## Use of Personal Information:
 
-**_Use of Personal Subscriber Information.  
-_**Except for Subscribers who: (a) voluntarily register as an advertiser with the Site or, (b) provide a specific query or comment to the Site through the “contact us” link on the Site, the Site will not obtain, collect, copy, use, transfer, sell nor save any unique, personal or identifying information from any Subscribers that visit the Site and/or any Affiliate Sites (collectively, the “Prohibited Data”). Without limiting the foregoing, the Site may collect, use and store (but only in its own data facility), for no more than thirty (30) days, the IP address (i.e., the octet) of a Subscriber who accesses the Site, solely for the limited purpose of detecting “click fraud” (i.e., an automated method of linking to, or access of, the Site for the purpose of inflating the number of page views of the Site) and for no other reason; provided that, instead of collecting, using and storing the IP address (i.e., the octet) of a Subscriber who accesses the Site, the Site will “hash” or convert each IP address into a mathematical representation of the IP address which the Site may collect, use and store without limitation. For the avoidance of doubt, the Site will destroy each IP address (and any data containing such IP address) no later than thirty (30) days after the date the Site collected that IP address.] The Site will not use "cookie" or similar technology (e.g., clear gifs) on the Site for any purpose at any time; provided that the Site may display clear gif banner ads in connection with queries prohibited under this Agreement (e.g., illegal or “blacklisted” queries).
+ACCOUNT DATA-The information provided as account data is for the purpose of identifying the user and allow us access to a members account in order to test and confirm the functionality of various site features. You are responsible for the privacy and security of your password and account access information as this information should be kept secret from anyone besides it's intended user.
 
-**_Security of Personal Information Collected by the Site.  
-_**Consistent with the Policies set forth in this Privacy Statement, the Site has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the Site.
+FINANCIAL DATA- The site does not store any information related to the financial data provided by you the customer (ie. credit numbers, CVV2 codes or expiration dates). This information is passed on to our payment processing partners through a PCI compliant gateway. This information may be stored for the purpose of processing any and all charges that may be generated from your membership activities on this site.
 
-All subscribers should consider any information provided to or collected by the Site as **non-confidential** , and consequently the Site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient. ** __**
+DEMOGRAPHIC DATA- We may use "cookies" and IP address information to better your experience on the site by allowing us to tailor your experience to the site according to your preferences, and what we think may appeal to you based on such demographic information. The "cookies" are set to track voting, session usage, and various other features that exist within the site. The IP address information is used to analyze traffic trends, perform regional customization and in some cases allow us to alter the presentation of the site to better match your demographics.
 
-**_"OPT-IN" and "OPT-OUT" Provisions.  
-_**There may be occasions when a subscriber will be presented with special offers either from the operators of the Site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers").
+## Security of Personal Information Collected by the Site:
+
+Consistent with the Policies set forth in this Privacy Statement, the Site has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the Site.  All personal information will be secure and treated as confidential. No personal information will be shared with third parties without the customer's permission 
+
+## "OPT-IN" Provisions:
+
+There may be occasions when a subscriber will be presented with special offers either from the operators of the Site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers").
 
 "OPT-IN" -- Some Offers may be presented to the subscriber with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes" the subscriber indicates that the subscriber "OPTS-IN" to that Offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties.
 
-"OPT-OUT" -- Other Offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the Offer) then the Site may transfer the subscriber's personal profile information to the third-party service or content provider making the Offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
+## Terms and Conditions of Membership:
 
-**_"OPT-OUT" Revocation Procedure.  
-_**The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by emailing , and entering in the exact email address to be "Opted-Out".
-
-**_Terms and Conditions of Membership.  
-_**Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers. 
+Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those [terms and conditions](http://www.customerhelponline.com/l/terms.html?site=bigcocks) may also affect the right of this Site to use information that it has gathered from subscribers. 
 
 In the event of any conflicts between the Membership Terms and Conditions and this Privacy Policy Statement, the provisions of this Privacy Policy shall control. 
