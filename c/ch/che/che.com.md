@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the che.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108115511id_/http%3A//www.che.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the che.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510002758id_/http%3A//www.che.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Chemical Engineering :: Privacy Policy
+
+  
+
+
+### SEARCH
+
+[ADVANCED SEARCH](https://web.archive.org/search/)
 
   
 Search by Region 
