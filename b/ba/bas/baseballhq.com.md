@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the baseballhq.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106222754id_/http%3A//www.baseballhq.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseballhq.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510011350id_/http%3A//www.baseballhq.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | BaseballHQ
 
-Shandler Enterprises, LLC (Publisher) is committed to maintaining the strictest privacy possible for our subscribers. We collect information about you which is used to provide a more personalized and richer experience while you enjoy our products and services. We do not sell, rent, or in any other way share Your information with any other companies. Any information that is collected is strictly for use by the Publisher for the purpose of providing and improving our service for our subscribers.
+Fantasy Sports Ventures (Publisher) is committed to maintaining the strictest privacy possible for our subscribers. We collect information about you which is used to provide a more personalized and richer experience while you enjoy our products and services. We do not sell, rent, or in any other way share Your information with any other companies. Any information that is collected is strictly for use by the Publisher for the purpose of providing and improving our service for our subscribers.
 
 The Publisher may periodically send e-mail or postal mail promotions to you for products or services offered by the Publisher, or by relevant third parties selling products or services that would enhance your enjoyment of fantasy baseball. Subscribers to Baseball HQ will also receive a monthly e-mail bulletin containing information about their subscription. You may opt out of receiving these e-mails or postal mails by contacting us at unsubscribe@baseballhq.com.
 
