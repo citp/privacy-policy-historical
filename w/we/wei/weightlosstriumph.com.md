@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the weightlosstriumph.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108220248id_/http%3A//www.weightlosstriumph.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightlosstriumph.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509175303id_/http%3A//www.weightlosstriumph.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **COMMITMENT TO YOUR PRIVACY**
 
-WeightLossTriumph.com is owned and operated by Aktaio Publishing, LLC. Your privacy on the Internet is of the utmost importance to us. At WeightLossTriumph.com, we want to make your experience online satisfying and safe.
+Your privacy on the Internet is of the utmost importance to us. At WeightLossTriumph.com, we want to make your experience online satisfying and safe.
 
 Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
