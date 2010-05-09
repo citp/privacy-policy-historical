@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adaptec.com privacy policy that was archived on 2009-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090828113216id_/http%3A//www.adaptec.com/en-US/_footer/privacy_link.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adaptec.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509194856id_/http%3A//www.adaptec.com/en-US/_footer/privacy_link.htm) for the most accurate reproduction.*
 
 # Adaptec - Privacy Policy
 
