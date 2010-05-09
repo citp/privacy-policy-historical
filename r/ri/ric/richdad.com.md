@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richdad.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201190820id_/http%3A//www.richdad.com/Richdad/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richdad.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509141718id_/http%3A//www.richdad.com/Richdad/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Rich Dad - Privacy Policy
 
