@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neolane.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224144307id_/http%3A//www.neolane.com/usa/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neolane.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509164545id_/http%3A//www.neolane.com/usa/privacypolicy.htm) for the most accurate reproduction.*
 
 # Neolane | Privacy Policy
 
