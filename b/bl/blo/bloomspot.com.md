@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloomspot.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108123629id_/http%3A//www.bloomspot.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomspot.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509190611id_/http%3A//www.bloomspot.com/site/privacy) for the most accurate reproduction.*
 
-# BloomSpot - Be in the know - BloomSpot
+# BloomSpot - Live Life Better - BloomSpot
 
 Privacy Policy
 
