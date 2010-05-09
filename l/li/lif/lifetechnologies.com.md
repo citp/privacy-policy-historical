@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lifetechnologies.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107175416id_/http%3A//www.lifetechnologies.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifetechnologies.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510014842id_/http%3A//www.lifetechnologies.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Life Technologies
 
-## Life Technologies Corporation
+##  Life Technologies Corporation 
 
 Welcome to [lifetechnologies.com](http://www.lifetechnologies.com/), [Invitrogen.com](http://www.invitrogen.com/) and [AppliedBiosystems.com](http://www.appliedbiosystems.com/) (and permutation webpages that provide a direct link to this Privacy Policy – collectively the "Sites"), which are owned and operated by Life Technologies Corporation ("Life Technologies" or "we"), 5791 Van Allen Way, Carlsbad, CA, 92008, USA. This Privacy Policy is designed to explain our practices regarding the collection and use of information received from you and/or your company.
 
