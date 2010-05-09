@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalccsinstitute.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103095503id_/http%3A//www.globalccsinstitute.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalccsinstitute.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509223228id_/http%3A//www.globalccsinstitute.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -15,7 +15,7 @@ Global CCS Institute collects and records certain personal information relating 
 • members of the Board of Management and the International Advisory Committee  
 • Global CCS Institute employees
 
-The Global CCS Institute collects only such information as it requires to perform its functions which are set out in the Global CCS Institute [constitution](https://web.archive.org/web/20091103095503id_/http%3A//www.globalccsinstitute.com/downloads/The%20Global%20CCS%20Institute%20Constitution.pdf).
+The Global CCS Institute collects only such information as it requires to perform its functions which are set out in the Global CCS Institute [constitution](https://web.archive.org/web/20100509223228id_/http%3A//www.globalccsinstitute.com/downloads/The%20Global%20CCS%20Institute%20Constitution.pdf).
 
 The information collected is used in the dissemination of information, facilitating and administering projects and managing employees. 
 
