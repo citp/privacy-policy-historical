@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpowerplayer.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109113114id_/http%3A//mpowerplayer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpowerplayer.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510004226id_/http%3A//mpowerplayer.com/privacy) for the most accurate reproduction.*
 
 # Corp.Mplayit.com
 
