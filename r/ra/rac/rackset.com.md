@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rackset.com privacy policy that was archived on 2009-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090828063030id_/http%3A//www.rackset.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rackset.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509202459id_/http%3A//www.rackset.com/privacy.php) for the most accurate reproduction.*
 
 # Rackset Networks Privacy Policy
 
