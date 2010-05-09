@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the balfour.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204141337id_/http%3A//www.balfour.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balfour.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509023501id_/http%3A//www.balfour.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Balfour - About - Legal Notices - Privacy & Security
 
