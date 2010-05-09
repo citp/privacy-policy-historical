@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vantagewire.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107040046id_/http%3A//www.vantagewire.com%3Fc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vantagewire.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509020355id_/http%3A//www.vantagewire.com%3Fc%3Dprivacy) for the most accurate reproduction.*
 
-# VantageWire - Free Real-time Stock Quotes for TSX, TSX-V, NYSE, Nasdaq, Amex and OTCBB - Privacy Policy
+# VantageWire - Free Realtime Stock Quotes for TSX, TSX-V, NYSE, Nasdaq, Amex and OTCBB - Privacy Policy
 
 Vantage Communications Ltd. respects your privacy. This statement of our Privacy Policy explains what information we gather from you and how we use that information. We consider the information you have shared with us strictly confidential and will use that information only as specified in this Privacy Policy or to the extent necessary to comply with applicable law. 
 
