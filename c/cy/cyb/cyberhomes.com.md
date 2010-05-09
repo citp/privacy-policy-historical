@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cyberhomes.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913072617id_/http%3A//www.cyberhomes.com/htmlcontent.aspx%3Fname%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberhomes.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509190536id_/http%3A//www.cyberhomes.com/htmlcontent.aspx%3Fname%3Dprivacy) for the most accurate reproduction.*
 
-# Cyberhomes.com
+# Cyberhomes.com - Privacy Policy
 
-We at Fidelity National Financial ("FNF") recognize and respect the privacy expectations of today's consumers.  We believe that making you aware of how we use your non-public personal information ("Personal Information"), and to whom it is disclosed, will form the basis for a relationship of trust between FNF and the public that we serve.  This Privacy Policy provides that explanation.  We reserve the right to change this Privacy Policy from time to time. 
+We at Lender Processing Services ("LPS") recognize and respect the privacy expectations of today's consumers.  We believe that making you aware of how we use your non-public personal information ("Personal Information"), and to whom it is disclosed, will form the basis for a relationship of trust between LPS and the public that we serve.  This Privacy Policy provides that explanation.  We reserve the right to change this Privacy Policy from time to time. 
 
 ##  Collection of Information
 
@@ -22,17 +22,17 @@ You do not need to enter any information other than the address of the subject p
 
 ##  Usage and Disclosure
 
-In general, FNF uses the information collected to provide services and to communicate with you. 
+In general, LPS uses the information collected to provide services and to communicate with you. 
 
 We will only share information in the following circumstances:
 
-  * When you consent or direct FNF to share the information; 
-  * When FNF provides information to our affiliated companies or service providers to manage and use on our behalf, consistent with the terms of this privacy policy; 
+  * When you consent or direct LPS to share the information; 
+  * When LPS provides information to our affiliated companies or service providers to manage and use on our behalf, consistent with the terms of this privacy policy; 
   * To governmental entities to meet our legal requirements connected to the collection, retention and disclosure of individually identifiable information, 
   * To law enforcement in connection with investigations, or civil or criminal subpoenas or court orders; and 
-  * To enforce or investigate a potential violation of the [Terms of Use](https://web.archive.org/web/20080913072617id_/http%3A//www.cyberhomes.com/htmlcontent.aspx?name=terms)
+  * To enforce or investigate a potential violation of the [Terms of Use](https://web.archive.org/htmlcontent.aspx?name=terms)
   * To detect, prevent, or otherwise respond to fraud, security or technical concerns, or 
-  * When and if FNF is involved in a merger, acquisition, or any form of sale of some or all of its business, information may be transferred along with the business. 
+  * When and if LPS is involved in a merger, acquisition, or any form of sale of some or all of its business, information may be transferred along with the business. 
 
 
 
@@ -40,6 +40,6 @@ We will only share information in the following circumstances:
 
 Cyberhomes.com may include links to the Web sites of other entities, including REALTORS®.  These third-party Web sites may collect personal information about visitors and users, and this Cyberhomes.com Privacy Policy does not govern collection and use of any such personal information.  Please review the privacy policy of each third party for relevant terms regarding collection and use of any personal information by such third party.
 
-##  Contacting FNF
+##  Contacting LPS
 
-If you have any questions about this Cyberhomes.com Privacy Policy, or the privacy practices of FNF, please contact us at [cyberhomes-helpdesk@fnres.com](mailto:cyberhomes-helpdesk@fnres.com).
+If you have any questions about this Cyberhomes.com Privacy Policy, or the privacy practices of LPS, please contact us at [customercare@cyberhomes.com](mailto:customercare@cyberhomes.com).
