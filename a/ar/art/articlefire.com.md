@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the articlefire.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621225948id_/http%3A//www.articlefire.com/index.php%3Fpagedb%3Dprivacy%26PHPSESSID%3D473f8fea553d7ecfe80d4b2e88fa6c58) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlefire.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510005136id_/http%3A//www.articlefire.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
-# privacy ArticleFire.com - Fire Up Traffic and Profits To Your Website. Claim Your Articles and Free Content Immediately!
+# privacy ArticleFire.com - Grab These Free Articles, Get Free Web Content and Free Traffic To Your Website Instantly...
 
-**Gets Your Own Articles Like These With Private Label Rights  
-\- Attract Free Traffic From The Search Engines - With Yourself As Author! Click Here [VIP PLR Articles](http://plrvip.metapublishing.biz/)**
-
- **Privacy Notice:**
+**Privacy Notice:**
 
 ArticleFire.com strives to offer you - our visitor the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy.
 
