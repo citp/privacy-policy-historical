@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funjet.com privacy policy that was archived on 2009-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090811003118id_/http%3A//www.funjet.com/cs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funjet.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510202521id_/http%3A//www.funjet.com/cs/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Funjet Vacations - Customer Information Privacy Protection
 
@@ -30,7 +30,7 @@ Travel Habits
 
 
 **How Your Information Is Used**  
-When you sign up for the My Funjet Club, you have the choice of receiving or not receiving emails. If you choose to receive emails, Funjet Vacations will send you regular emails promoting vacation travel, specials, sales and other information. You may unsubscribe from the email specials list at any time by accessing the unsubscribe link at the bottom of the email or by visiting the [unsubscribe page](http://www.funjet.com/myfunjet/unsubscribe.asp) on our website.
+When you sign up for the My Funjet Club, you have the choice of receiving or not receiving emails. If you choose to receive emails, Funjet Vacations will send you regular emails promoting vacation travel, specials, sales and other information. You may unsubscribe from the email specials list at any time by accessing the unsubscribe link at the bottom of the email or by visiting the [unsubscribe page](https://www.secure02.com/Funjet/et_unsubscribe.asp) on our website.
 
 The information you supply when you book a vacation online is used to process and complete your online order. Funjet Vacations does not share this information with any outside parties except to the extent necessary to process your order (for example, credit card authorizations). Information you submit for the purposes of online bookings will not be used to subscribe you for the email guest book unless you specifically opt-in for the email guestbook by checking the appropriate box on the online booking form.
 
@@ -62,7 +62,7 @@ You can access the personally identifiable information you submitted when you ma
 
 Information you submit through any of the online methods, including online booking and My Funjet Club, may be used to create customer mailing lists. Funjet Vacations may occasionally send our customers promotional pieces or other mailings. Mailing lists compiled from the information you provide will only be used by Funjet Vacations for its own marketing and promotional efforts, and will not be sold or shared with any third parties.
 
-To unsubscribe from the Funjet Vacations weekly emails, you can visit the unsubscribe page at <http://www.funjet.com/myfunjet/unsubscribe.asp>. Your information will be kept in the Funjet Vacations database and will not be shared with any third parties.
+To unsubscribe from the Funjet Vacations weekly emails, you can visit the unsubscribe page at <https://www.secure02.com/Funjet/et_unsubscribe.asp>. Your information will be kept in the Funjet Vacations database and will not be shared with any third parties.
 
 To correct or change your My Funjet Club information, visit <http://res.funjet.com/account/retrievelogin.aspx> and login. Then, enter your new information to update your profile.
 
