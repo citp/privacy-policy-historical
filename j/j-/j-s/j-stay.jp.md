@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the j-stay.jp privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624003823id_/http%3A//www.j-stay.jp/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the j-stay.jp privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511011833id_/http%3A//www.j-stay.jp/privacy_policy.html) for the most accurate reproduction.*
 
-# Kyoto rental studio apartment,Tokyo furnished share house, monthly guesthouse - J-Stay
+# Flatshare Kyoto House Share Apartment Rental Furnished Guest House Monthly Weekly Apartment in Kyoto :: J-Stay
 
 ## Privacy Policy
 
@@ -11,27 +11,26 @@ J-Stay collects personal information, including your name, your age, your gender
 When you visit our Websites, we, like most Websites, send one or more cookies--small anonymous identifiers--to your computer that uniquely identify your browser. While we do use cookies for security and fraud investigation purposes, our primary purpose is to enhance your user experience by understanding and remembering your preferences, and by general tracking of our user trends. Most browsers are initially set up to accept cookies, but you can configure your browser to accept all cookies, reject all cookies, or to notify you when a cookie is sent. Please be aware that some of our features and services may not have full functionality if your browser refuses cookies. 
 
 3．Links  
-Sites that are linked to our site may have different policies; please review the privacy policy notices on those sites for details.
+Sites that are linked to our site may have different policies; please review the privacy policy notices on those sites for details. 
 
 4\. Changes to this Privacy Policy  
 We may update or modify this Privacy Policy from time to time in the future. Any such updates or modifications shall be effective immediately upon their posting. Please refer back to this page often for the latest information. 
 
 5．Questions and Suggestions  
-If you have any questions or concerns about this Policy, you may e-mail or contact us on the phone.
-
+If you have any questions or concerns about this Policy, you may e-mail or contact us on the phone.  
 J-Hoppers Ltd. Address : 51-2, Nakagoryo-cho, Higashikujo, Minami-ku, Kyoto-shi, Kyoto  
-Tel : 075-634-4944
+Tel : 075-634-4944 
 
 ## Disclaimer
 
 1\. Liability  
-Every effort is made to keep the website up and running smoothly. However, J-Stay takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
+Every effort is made to keep the website up and running smoothly. However, J-Stay takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control. 
 
 2.External Links   
-The website may provide links to other Internet sites for the convenience of users. J-Stay is not responsible for the availability or content of these external sites, nor does J-Stay endorse, warrant, or guarantee the products, services, or information described or offered at these other Internet sites. It is the responsibility of the user to examine the copyright and licensing restrictions of linked pages and to secure all necessary permissions.
+The website may provide links to other Internet sites for the convenience of users. J-Stay is not responsible for the availability or content of these external sites, nor does J-Stay endorse, warrant, or guarantee the products, services, or information described or offered at these other Internet sites. It is the responsibility of the user to examine the copyright and licensing restrictions of linked pages and to secure all necessary permissions. 
 
 3\. Room Availability   
-Room availabilities shown on the pages of each apartments are not real-time. The data is renewed as soon as there's a change. However, it may be different from the actual avaialabilities.
+Room availabilities shown on the pages of each apartments are not real-time. The data is renewed as soon as there's a change. However, it may be different from the actual avaialabilities. 
 
 4\. Room Condition   
-The photographs and the movies of our rooms are taken when the premises opened. Therefore, actual condition of the rooms (ex. color of curtains or type of furniture) may differ. If you would like to know the specific condition of a room, please contact us.
+The photographs and the movies of our rooms are taken when the premises opened. Therefore, actual condition of the rooms (ex. color of curtains or type of furniture) may differ. If you would like to know the specific condition of a room, please contact us. 
