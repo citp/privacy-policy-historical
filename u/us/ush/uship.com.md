@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uship.com privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803142416id_/http%3A//www.uship.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uship.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510150243id_/http%3A//www.uship.com/privacy.aspx) for the most accurate reproduction.*
 
-# uShip - The Online Shipping and Moving Marketplace - Privacy Policy
+# uShip - The Online Shipping Marketplace - Ship Freight, Furniture, Vehicles or Moves
 
 Your privacy is very important to all of us at uShip. We have established this privacy policy to explain to you how your personal information is protected, collected and used. Personal information is information about you that is personally identifiable such as your name, address, phone number, and email address that is not otherwise publicly available.
 
@@ -10,13 +10,13 @@ uShip is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non
 
 If you have questions or concerns regarding this statement, you should first contact a uShip privacy associate at privacy@uShip.com. If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with uShip to resolve your concerns.
 
-## Overview
+Overview
 
-The privacy practices of this statement apply to our services available under the domain and subdomains of www.uShip.com (the “Site”). By visiting this website, you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree, please do not use or access our site.
+The privacy practices of this statement apply to our services available under the domain and subdomains of www.uShip.com (the "Site"). By visiting this website, you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree, please do not use or access our site.
 
 By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the uShip User Agreement.
 
-## Information Collection & Use
+Information Collection & Use
 
 In order to use this Site, you must first complete the registration form and create a username and password. During the registration process, you are required to give contact information such as name, address, phone number and email address. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience safer and easier. We only collect personal information about you that we consider necessary for achieving this purpose.
 
@@ -38,13 +38,13 @@ From time-to-time we may provide you the opportunity to participate in contests 
 
 If you choose to use our referral service to tell a friend about the Site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. uShip stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. We don’t store anything on a referral send. We only store their email address if they sign up.
 
-## Uses of Your Information
+Uses of Your Information
 
 We use your personal information, including your email address, to facilitate the services you request. We use your personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site to: resolve disputes; troubleshoot problems; help promote safe matching; collect fees owed; measure consumer interest in our products and services; inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our User Agreement; and as otherwise described to you at the time of collection. At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your personal information to identify users using multiple usernames or aliases. We may compare and review your personal information for errors, omissions and for accuracy.
 
 You agree that we may use personal information, including your email address, about you to improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and customize the Site's content, layout, and services. These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Site.
 
-## Communications from the Site
+Communications from the Site
 
 We will occasionally send you information on products, services, special deals and promotions, as well as a newsletter. You are signed up for these emails at registration and you may unsubscribe at any time by going to your account tab and opting out of the emails, or by following the directions to unsubscribe in the email.
 
@@ -56,7 +56,7 @@ We will send you strictly service-related announcements on rare occasions when i
 
 Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your email address, username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. Email is the primary means of communication between members doing transactions on the site and you must be able to receive this information to use uShip properly.
 
-## Information Sharing and Disclosure
+Information Sharing and Disclosure
 
 As a matter of policy, we do not sell, rent or share any of your personal information, including your email address, to third parties for their marketing purposes without your explicit consent. However, the following describes some of the ways that your personal information may be disclosed in the normal scope of business to provide our services.
 
@@ -70,7 +70,7 @@ Legal Requests: uShip cooperates with law enforcement inquiries, as well as othe
 
 Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose personal information, including your email address, to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. See “Security Section” below.
 
-## Log Files
+Log Files
 
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information.
 
@@ -78,7 +78,7 @@ We use a third-party tracking service called Omniture that uses cookies and log 
 
 Log files are used on the website, and in any link to the website from an email.
 
-## Cookies
+Cookies
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
 
@@ -90,35 +90,35 @@ When uShip sets a cookie, it is not tied to your personally identifiable informa
 
 Cookies are only used on the website, not in email.
 
-## Links to Other Sites
+Links to Other Sites
 
 This Web site contains links to other sites that are not owned or controlled by uShip. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site.
 
-## Community Discussion Forums
+Community Discussion Forums
 
 If you use a bulletin board on the Site, you should be aware that any personally identifiable information, including your email address, you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. All other information pertaining to the collection and use of information can be found in the [Discussion Forum rules](https://web.archive.org/discussion_rules.aspx).
 
-## Access to Personally Identifiable Information
+Access to Personally Identifiable Information
 
 If your personally identifiable information, including your email address, changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member Account page or by contacting our Customer Support at [uShip Member Support](http://www.uship.com/support/).
 
-## Security
+Security
 
 The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
 
 We follow generally accepted industry standards to protect the personal information, including your email address, submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-## Business Transitions
+Business Transitions
 
 In the event uShip goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information, including your email address, will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information.
 
-## Changes in this Privacy Statement
+Changes in this Privacy Statement
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy and/or to our email practices, we will notify you here, by email.
 
-## Contact Us
+Contact Us
 
 If you have any questions or suggestions regarding our privacy policy and email practices, please contact us at: [uShip Member Support](http://www.uship.com/support/). 
 
