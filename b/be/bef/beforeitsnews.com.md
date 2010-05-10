@@ -1,80 +1,31 @@
-> *The following text is extracted and transformed from the beforeitsnews.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508112039id_/http%3A//www.beforeitsnews.com/node/274) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beforeitsnews.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511010810id_/http%3A//beforeitsnews.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Before It's News
+# Privacy | Before It's News
 
- 
+Thank you for visiting BeforeItsNews.com, a division of Little Blue Marble, LLC, a California LLC. ("BIN," "we, "our" or "us"). BIN respects your privacy and is committed to protecting the privacy of any personally identifiable information that we may collect from you as you use this web site. This notice describes our privacy policies. By accessing, using or registering at BeforeItsNews.com you are confirming your agreement to our privacy policies as described in this Privacy Policy. You also should review our [Terms of Service ](https://web.archive.org/terms/)for more information about the policies governing your use of this web site.
 
-Before It's News, a service of Little Blue Marble, LLC (B-I-N) takes your privacy seriously. Please read the following to learn more about our privacy policy.
+1\. INFORMATION WE COLLECT. BIN collects and stores personally identifiable information on certain areas of this web site when users register, post Content (as defined in the BIN Terms of Service Agreement or links, or participate in user posting areas. Such personally identifiable information may include your name, address, age, date of birth, sex, company or school affiliations, education level, email address, telephone numbers and information about your interests and activities. You may elect not to provide certain types of information, but that may result in your being unable to use certain features of this web site.
 
-  What This Privacy Policy Covers
+We also may automatically collect and store certain types of non-personally identifiable information when you visit a page of this web site. For example, we may use "cookies" to obtain information when you access this website. Such information may include your IP address, your browser type, the date and time of your visit, the operating system of your computer and the domain name of your internet service provider, and is used to facilitate access to this web site and to personalize your online experience.
 
-  • This policy covers how B-I-N treats personal information that B-I-N collects and receives, including information related to your past use of B-I-N products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.  
-• This policy does not apply to the practices of companies that B-I-N does not own or control, or to people that B-I-N does not employ or manage.
+If you post information or other Content about yourself or others, or communicate with others using this web site, we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.
 
-  Information Collection and Use
+2\. USE OF PERSONALLY IDENTIFIABLE INFORMATION. BIN uses your personally identifiable information to fulfill your requests for information. We may keep any of your personally identifiable information on file and use it to contact you. We also may use personally identifiable information in analyzing the behavior of users of this web site in order to measure interest in specific items posted on this web site. In addition, we may use your email address to contact you about items posted or to be posted on this web site that we think may be of interest to you or to ask you to participate in activities such as surveys. At any time, you may choose to no longer receive emails from BIN by contacting us.
 
-  General
+All personal information, such as address, email address or other personal identifying information, entered into BIN by you is private to you except to the extent that you opt to share that information with other BIN members and/or the public, through BIN or otherwise. It is BIN's policy to respect the privacy of Members. Therefore, BIN will not disclose your personal information to any third party unless authorized by you, required to do so by law or in the good faith belief that such action is necessary to (a) conform to the law or comply with legal process served on BIN; (b) protect and defend the rights or property of BIN; (c) act under exigent circumstances to protect the personal safety of other members or the public; or (d) fix or debug problems with the BIN web site. If we do share personally identifiable information with a third party, we will, to the extent practical, require that the recipient protect such information in a manner consistent with this Privacy Policy but we cannot guarantee how such a third party will use personally identifiable information.
 
-  • B-I-N collects personal information when you register with B-I-N, when you use B-I-N products or services, when you visit B-I-N pages or the pages of certain B-I-N partners, and when you enter promotions or sweepstakes. B-I-N may combine information about you that we have with information we obtain from business partners or other companies.  
-• When you register we may ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register with B-I-N and sign in to our services, you are not anonymous to us.  
-• B-I-N collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.  
-• B-I-N automatically receives and records information on our server logs from your browser, including your IP address, B-I-N cookie information, and the page you request.  
-• B-I-N may use information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+We may use non-personally identifiable, summary or aggregate information that we collect to improve the design and content of this web site and to enable us to further enhance your experience with BIN. We may also share such aggregate information with third parties. Personally identifiable information that you provide is an asset of BIN which may be included in assets transferred to an acquirer if BIN is acquired by a third party.
 
-  Children
+3\. LINKS TO THIRD PARTY WEB SITES. We provide links to web sites of third parties as a service to users of our web site. In addition, some of the content appearing to be on this website may in fact be supplied by third parties. We cannot control and are not responsible for the information collection and privacy practices of such third-party web sites, which may differ from BIN's policies with respect to this web site.
 
-  • When a child under age 13 attempts to register with B-I-N, we ask that he or she have a parent or guardian create a B-I-N Family Account to obtain parental permission.  
-• B-I-N will not contact children under age 13 about special offers or for marketing purposes without a parent's permission.  
-• B-I-N does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion.
+4\. ACCESS TO AND CORRECTION OF PERSONAL INFORMATION. You may access, correct, update, and/or delete any personally identifiable information that you have provided to us through this website. You also may unsubscribe from mailing lists or any registrations on this website. To do either of such things, please either follow the instructions on the page of this web site on which you have provided such information or registered, or contact us.
 
-  Information Sharing and Disclosure
+5\. SECURITY. BIN has implemented generally accepted standards of technology and operational security in order to protect personally identifiable information from loss, misuse, alteration, or destruction. Only authorized BIN personnel are provided access to personally identifiable information, and such personnel are required to treat such information as confidential. Despite these precautions, we cannot guarantee that unauthorized persons will not obtain access to your personally identifiable information.
 
-  • B-I-N does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:  
-• We provide the information to trusted partners who work on behalf of or with B-I-N under confidentiality agreements. These companies may use your personal information to help B-I-N communicate with you about offers from B-I-N and our marketing partners. However, these companies do not have any independent right to share this information.  
-• We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing B-I-N to collect and use their child's information without consenting to B-I-N sharing of this information with people and companies who may use this information for their own purposes;  
-• We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;  
-• We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of B-I-N's terms of use, or as otherwise required by law.  
-• We transfer information about you if B-I-N is acquired by or merged with another company. In this event, B-I-N will notify you before information about you is transferred and becomes subject to a different privacy policy.  
-• B-I-N may display targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area.  
-• B-I-N does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.  
-• B-I-N advertisers may include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies).
+6\. CHILDREN'S ON-LINE PRIVACY PROTECTION. BIN understands the importance of protecting the privacy of children, especially in an on-line environment. This website is not intentionally designed for or directed at children 13 years of age or younger, and BIN will not intentionally collect or maintain information about anyone under the age of 13.
 
-  Cookies
+7\. CONSENT, MODIFICATION. By using this web site, you consent to the collection, use, and storage of your information by BIN in the manner described in this Privacy Policy. Your visit to this web site and any dispute concerning privacy will be subject to the provisions of this Privacy Policy and our Terms of Use Agreement. BIN reserves the right, in its sole discretion, to change, modify, add, or remove portions of this Privacy Policy at any time. Please check this page periodically for changes. You agree that your visits to, and use of, this web site will be subject to and bound by the then-current version of this Privacy Policy. The form of our Privacy Policy in effect from time to time will apply to all information that we have collected.
 
-  • B-I-N may set and access B-I-N cookies on your computer.  
-• B-I-N may let other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to B-I-N's cookies.  
-• B-I-N may use web beacons to access B-I-N cookies inside and outside our network of web sites and in connection with B-I-N products and services.  
-Your Ability to Edit and Delete Your Account Information and Preferences
+8\. CONTACT OUR PRIVACY DEPARTMENT. If you have any questions about our Privacy Policy, please [contact us.](https://web.archive.org/contact/)
 
-  General
-
-  • You can edit your B-I-N Account Information at any time.  
-• We reserve the right to send you certain communications relating to the B-I-N service, such as service announcements, administrative messages and the B-I-N Newsletter, that are considered part of your B-I-N account, without offering you the opportunity to opt-out of receiving them.  
-• You can delete your B-I-N account by by sending an email to [publisher@beforeitsnews.com](mailto:publisher@beforeitsnews.com).
-
-    Children
-
-  • If a parent chooses not to allow us to further collect or use a child's information, parents enrolled in B-I-N Family Accounts can delete their child's account by signing into that child's account and then visiting our Account Deletion page.
-
-  Confidentiality and Security
-
-  • We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.  
-• We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.  
-• To learn more about security, including the security steps we have taken and security steps you can take, please read Security at B-I-N.
-
-  Changes to this Privacy Policy
-
-  • B-I-N may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your B-I-N account or by placing a prominent notice on our site.
-
-  Questions
-
-  • If you have questions or suggestions, please use our Contact form or you can contact us at:
-
-  Before It's News  
-c/o Little Blue Marble, LLC  
-Privacy Policy Issues  
-775 E. Blithedale Ave. #362  
-Mill Valley, CA  94941  
-(775) 750-2009
-
-    Effective Date: February 8, 2009
+December 4, 2009.
