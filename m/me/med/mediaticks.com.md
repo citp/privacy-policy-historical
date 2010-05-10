@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mediaticks.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108152928id_/http%3A//www.mediaticks.com/contact.php%3Fa%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaticks.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510215548id_/http%3A//www.mediaticks.com/contact.php%3Fa%3Dpolicy) for the most accurate reproduction.*
 
-# Music Albums and Videos | Global Videos,Music Videos,English,Hindi,UK Punjabi,Bollywood,Punjabi Videos and Albums
+# MediaTicks Punjabi Music | youtube Video | wallpapers | Hindi Music | Socal Networking | Daily Horoscope | News | Bollywood | Sports | UK Punjab Music | pz10
 
 This privacy policy applies to the U.S. operations of all brands and services within the Mediaticks.com and family  
 . Overall privacy statement  
