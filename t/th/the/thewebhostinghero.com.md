@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the thewebhostinghero.com privacy policy that was archived on 2009-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090402151204id_/http%3A//www.thewebhostinghero.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewebhostinghero.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510115108id_/http%3A//www.thewebhostinghero.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
-
-Our postal address is
-
-> TheWebHostingHero.com  
->  2865 HARPIN  
->  SHERBROOKE, QC, J1G3P3  
->  CANADA
 
 We can be reached via e-mail at info _at_ thewebhostinghero.com.
 
