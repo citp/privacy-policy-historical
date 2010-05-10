@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the finalmediaplayer.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221084342id_/http%3A//www.finalmediaplayer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finalmediaplayer.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510133210id_/http%3A//www.finalmediaplayer.com/privacy.html) for the most accurate reproduction.*
 
-# Final Media Player
+# Final Media Player Privacy Policy
 
-Bitberry Software is committed to protecting your privacy. This privacy statement explains data collection and use practices of the Final Media Player website. By accessing www.bitberry.com or www.finalmediaplayer.com (the "Sites"), you are consenting to the information collection and use practices described in this privacy statement. 
+Bitberry Software is committed to protecting your privacy. This privacy statement explains data collection and use practices of the Final Media Player website. By accessing www.bitberry.com or www.finalmediaplayer.com (the "Sites"), you are consenting to the information collection and use practices described in this privacy statement.
 
 ## Collection of personal information
 
@@ -14,7 +14,7 @@ The Sites may collect certain information about your visit, such as the IP addre
 
 The Sites track user traffic patterns from standard web server log files. We store statistics about domain names, browser types and IP addresses. We also track search terms that are entered into search engines, but this information is not associated with individual users or IP addresses.
 
-If you click a link inside Final Media Player or the Final Media Player help file, e.g. "Check for updates" or "Buy Now", you will be taken to the Final Media Player.com web site. Information about the language used in Final Media Player, the current day of your trial and information about which button you clicked will be sent to our web server. No personal information is sent, and the information is only used for statistical purposes and to help improve our marketing screens within Final Media Player. 
+If you click a link inside Final Media Player or the Final Media Player help file, e.g. "Check for updates" or "Buy Now", you will be taken to the Final Media Player.com web site. Information about the language used in Final Media Player, the current day of your trial and information about which button you clicked will be sent to our web server. No personal information is sent, and the information is only used for statistical purposes and to help improve our marketing screens within Final Media Player.
 
 ## Use of personal information
 
@@ -44,7 +44,4 @@ We use cookies on the Sites to store information about the site you visited us t
 
 ## Enforcement of this Privacy Statement
 
-If you have questions regarding this statement, you should [contact us](https://web.archive.org/web/20091221084342id_/http%3A//www.finalmediaplayer.com/contact.html).
-
-  
-
+If you have questions regarding this statement, you should [contact us](https://web.archive.org/web/20100510133210id_/http%3A//www.finalmediaplayer.com/contact.html).
