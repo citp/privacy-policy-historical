@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mcdonalds.com.au privacy policy that was archived on 2009-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090911180219id_/http%3A//mcdonalds.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdonalds.com.au privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510233223id_/http%3A//mcdonalds.com.au/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy | McDonald’s Australia
+# privacy policy | McDonald's
 
 McDonald's Australia Limited ("McDonald's") understands that privacy is important to its customers and is pleased to provide information to all of its customers about its privacy policy. Please be assured that McDonald's uses its best efforts to protect the privacy of visitors to this website and the privacy of its customers who provide personal information by other means to McDonald's.
 
