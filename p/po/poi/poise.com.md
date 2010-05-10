@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the poise.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605175946id_/http%3A//www.poise.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poise.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511010248id_/http%3A//www.poise.com/privacy) for the most accurate reproduction.*
 
-# Bladder Control Protection Products & Information on Overactive Bladder Treatments - POISE®
+# Privacy Policy
 
 This web site is owned and operated by Kimberly-Clark Corporation. Here at Kimberly-Clark, we recognize that many visitors to our site are concerned about the information they provide and how we treat that information. Our Privacy Policy addresses those concerns. We may update the Policy from time to time, so please check in occasionally. Regulations enacted in April 2000 under the U.S. Children's Online Privacy Protection Act give children under 13 years of age greater privacy protection online. Please see our policy under "Children" below.
 
@@ -25,7 +25,7 @@ We use the services of NetIQ/WebTrends to track the paths our customers take thr
 We use pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to the [DoubleClick Privacy Policy](http://www.doubleclick.com/us/about_doubleclick/privacy/).
 
 If you have any questions about our Privacy Policy, you can contact us via  
-[e-mail](http://www.kimberly-clark.com/ask/poise/country.asp?site=www.poise.com&ssl=) or phone us at 1-800-665-9773. For postal mail, please write to us at:
+[e-mail](https://web.archive.org/contact) or phone us at 1-800-665-9773. For postal mail, please write to us at:
 
 Kimberly-Clark Corporation  
 P.O. Box 2020  
