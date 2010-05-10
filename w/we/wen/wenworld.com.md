@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wenworld.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109142533id_/http%3A//www.wenatcheeworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wenworld.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510073628id_/http%3A//www.wenatcheeworld.com/privacy) for the most accurate reproduction.*
 
 # | Local news, sports, weather, blogs, opinion, crime, obituaries, business, directory, marketplace, education, high school, family, shopping, arts, entertainment, movies, books, cooking, auto, real estate, jobs, classifieds, photos, videos, comics, contests, and mountain pass webcams from Wenatchee, East Wenatchee, Chelan, Leavenworth, Waterville, Cashmere, Quincy, Entiat, North Central Washington newspaper
 
