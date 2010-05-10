@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themavenreport.com privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214104450id_/http%3A//blog.themavenreport.com/%3Fpage_id%3D4834) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themavenreport.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510153437id_/http%3A//blog.themavenreport.com/%3Fpage_id%3D4834) for the most accurate reproduction.*
 
 # Privacy Policy | The Maven Report
 
