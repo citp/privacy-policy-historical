@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emailonacid.com privacy policy that was archived on 2009-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090907194533id_/http%3A//www.emailonacid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailonacid.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510084154id_/http%3A//www.emailonacid.com/privacy) for the most accurate reproduction.*
 
-# Email on Acid - Virtual Email Testing & Simulation Tool
+# Email Testing & Email Preview Tools - View a simulation of your email in the most popular email clients for FREE.
 
 Email on Acid has a strong commitment to providing excellent service to our customers, including respecting their concerns about privacy. We understand that visitors to our website may have questions about how this website collects and uses personal information. We have prepared this statement to inform you of the privacy principles that govern [www.emailonacid.com](http://www.emailonacid.com/).
 
