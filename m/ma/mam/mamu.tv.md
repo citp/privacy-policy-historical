@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamu.tv privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109225943id_/http%3A//www.mamu.tv/Mamu_tv_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamu.tv privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510173416id_/http%3A//www.mamu.tv/Mamu_tv_privacy_policy.php) for the most accurate reproduction.*
 
 # Mamu Tv | Privacy Policy
 
