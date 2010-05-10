@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinballpublishernetwork.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924232553id_/http%3A//www.pinballpublishernetwork.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinballpublishernetwork.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510130345id_/http%3A//www.pinballpublishernetwork.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pinball Publisher Network
 
@@ -45,4 +45,4 @@ Changes and Updates.
 Contact Us.
     If you have any questions about Pinball’s Hotbar program, a Pinball Web site, or any Software or related services, you should first consult the Hotbar Web site at <http://hotbar.com/>. This site includes links to program information, answers to frequently asked questions, and current policies. If you have further questions or concerns, please contact us at <http://hotbar.com/About/Contact.aspx> or write to Hotbar Support, 3600 136th Place SE, Bellevue, WA 98006.
 
-Copyright © 2009 Pinball Corporation. All rights reserved.
+Copyright © 2010 Pinball Corporation. All rights reserved.
