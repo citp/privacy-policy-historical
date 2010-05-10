@@ -1,48 +1,38 @@
-> *The following text is extracted and transformed from the metavante.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610212402id_/http%3A//www.metavante.com/profile/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metavante.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511003845id_/http%3A//metavante.com/Privacy/index.htm) for the most accurate reproduction.*
 
-# Metavante | web | 20040610212402id_ | http%3A | | www.metavante.com | profile | privacy.jsp
+# Metavante Corporation - Privacy Policy
 
-Corporate Profile
+Metavante Corporation recognizes the importance of protecting privacy, and we take our responsibility seriously. In our effort to provide you, our client, with outstanding products and services, we may capture and maintain user information via this Web site. Metavante Corporation recognizes and respects your privacy concerns and expectations about this information and ensures that the data collected complies with Metavante Corporation's privacy requirements.
 
-Metavante Corporation  
-Privacy Statement
+Gathering Information via the Web
 
-Our top priority is to provide you, our customer, with outstanding products and services. To achieve this goal, we must collect, maintain, and use certain information. Metavante Corporation recognizes and respects your privacy concerns and expectations about this information. We want you to know about our privacy policies and practices for our Web site. This statement is effective as of March 18, 2002. 
+Information regarding our users is collected when the user voluntarily supplies this information when submitting forms on the site. Additional visitor information is collected when users access the site and browse to different pages, files and forms within our Web site.
 
-Personal Information Which You Choose to Submit
+Information gathered through forms available on this Web site differs depending on the application or purpose of the form. Whenever you submit personal information for a specific purpose, your information will be used for that purpose only. Basic user information that may be requested includes:
 
-As a visitor to our Web site, you may choose to send us any of the following: 
-
-  * an E-mail address for an E-news subscription; 
-  * your name, address, and personal data for an online resume submission; 
-  * your name, E-mail address, and other relevant contact information to fulfill your request for more information about our products or company; 
-  * bank numbers and other relevant customer information to provide you with access to restricted areas on our Web site; or 
-  * your name, address, E-mail address, and credit card information for an online purchase. 
+  * E-mail address for an e-news subscription
+  * Name, address, and personal data for an online resume submission
+  * Name, e-mail address, and other relevant contact information to fulfill your request for more information about our products or company or to register for an event
+  * Bank numbers and other relevant customer information to provide you with access to restricted areas on our Web site
+  * Name, address, e-mail address, and credit card information for an online purchase.
 
 
 
-Whenever you submit personal information for a specific purpose, your information will be used for that purpose only. 
+User information is also captured when visitors access pages, files and forms on the site. This data is accessed and analyzed to measure usage and identify trends. The data is also considered part of our continuous effort to improve usability and to develop Web strategies and campaigns that are tailored to our clients needs.
+
+Information Sharing
+
+In order to effectively respond to requests made via the Web site, Metavante Corporation may need to share information you voluntarily provided with others within our organization. However, the information you provide will never be shared, sold or distributed to any third parties. Additionally, it will only be accessible by Metavante Corporation personnel who are properly trained and supervised and have a business need for such information.
 
 Our Use of Cookies
 
-When you request pages at our Web site, our Web servers automatically recognize your browser's domain name and IP address. We collect this information in order to aggregate information on what pages visitors access. This information is collected solely for statistical purposes and to determine visitor access to restricted areas on our site. It is not used to identify individuals nor is it shared with third parties. 
+When you visit pages on our Web site, our Web servers automatically recognize your browser's domain name and IP address but do not recognize or retrieve any information related to your identity. We collect this information in order to collect information regarding the pages visitors access. This information is collected solely for statistical purposes and to determine visitor access to restricted areas on our site. It is not used to identify individuals, nor is it shared with third parties.
 
-Our Web servers use "cookies" to collect this information. The term "cookie" refers to files that are transferred from a Web site to your computer's hard drive. The purpose of cookies is to enable our Web site to track your activities on our Web site. A cookie does not retrieve data from your hard drive, carry computer viruses, or capture your E-mail address. Most browsers will allow you to disable cookies or warn you before accepting a cookie. If you decide not to accept cookies, you may not be able to successfully navigate some areas of our Web site. 
+Our Web servers use "cookies" to collect this information. The term "cookie" refers to files that are transferred from a Web site to your computer's hard drive. The use of cookies can improve the level of service for visitors to our site. For example, if you voluntarily supply contact information via a Web form or registration form, a cookie can be stored on your computer, which in this case, enables you to skip the registration process on subsequent visits.
 
-Why do we use cookies? The use of cookies can improve the level of service for visitors to our site. For example, for sites that require registration, a cookie file can be stored on your computer, enabling you to skip the registration process on subsequent visits. 
+A cookie does not retrieve data from your hard drive, carry computer viruses, or capture your  
+e-mail address. The information collected in these cookies contains no information that you have not otherwise provided. Most browsers will allow you to disable cookies, or warn you before accepting a cookie. If you decide not to accept cookies, you may not be able to successfully navigate some areas of our Web site.
 
-Security
+Links to Other Web Sites
 
-When you make an online purchase, we use Secure Sockets Layer (SSL) encryption technology to safeguard the confidentiality of your credit card and other personal information. SSL uses an encryption process to avoid unauthorized access or copying of information as it travels over the Internet. All of the personal information that we collect is protected against unauthorized access through the use of firewalls and other security measures. 
-
-No Spam 
-
-Metavante Corporation will not send unsolicited E-mail to you. We will use E-mail to respond to E-mail messages from you or to engage in other communication which you have expressly permitted. 
-
-Links To Other Web Sites
-
-There are links to other Web sites from metavante.com. However, we are not responsible for the content or privacy policies of those other sites. 
-
-Conclusion
-
-Metavante Corporation recognizes the importance of protecting privacy, and we take our responsibility seriously. Compliance with privacy requirements is critically important for your success and ours. 
+Metavante provides links to other Web sites from www.metavante.com. However, while Metavante may maintain business relationships with the operators of such Web sites, we are not responsible for the content or privacy policies of those sites. Metavante provides access to these sites for your convenience only, and accessing such sites is done at your sole risk.
