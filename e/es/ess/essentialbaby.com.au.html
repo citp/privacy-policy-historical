@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the essentialbaby.com.au privacy policy that was archived on 2009-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091221133752id_/http%3A//www.essentialbaby.com.au/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the essentialbaby.com.au privacy policy that was archived on 2010-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100510135603id_/http%3A//www.essentialbaby.com.au/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     
@@ -53,7 +53,36 @@
 </script>          
 
 <!--internal page tracking -->
-<script type="text/javascript">if(window['FD']){function initPingServer(){var v = new Date().getTime();new Element("script",{src:"/action/pingServerAction?par=115562&v=" + v}).inject($$("head")[0]);}FD.register("PingServer");}</script>
+<script type="text/javascript">
+    if(window['FD']){
+        function initPingServer(){
+            var v = new Date().getTime();
+            var req = new Request({
+                url: "/action/pingServerAction?par=115562&type=Index&v=" + v,
+                onSuccess: function(response) {
+                    if (response) {
+                        try{
+                            response = JSON.decode(response);
+                            var dateArea = $("whiteStrip-time");
+                            if (dateArea) {
+                                dateArea.empty();
+                                dateArea.set('html', response.time);
+                            }
+                            var people = $("whiteStrip-users");
+                            if (people) {
+                                people.empty();
+                                people.set('html', response.people, " online now")
+                            }
+                        } catch (err) {
+                        }
+                    }
+                }
+            });
+            req.send();
+        }
+        FD.register("PingServer");
+    }
+</script>
 
 </head>
 <body id="subindex">
@@ -139,86 +168,67 @@
 
 
 
-<li><font color="orange">490 online now</font></li>
+<li><font color="orange">568 online now</font></li>
 
 <li style="margin-left: 0.1cm; margin-right: 0.1cm">&nbsp;</li>
 
-<li>175,654 members</li>
+<li>186,005 members</li>
 
 </ul>
                      
 <!-- end toolbar -->
 
     <!--@List: shared: false name: Essential Baby Primary Navigation -->
-
-
-
     <div class="nav-wrap">
         <ul id="nav">
-
-
-
+                     <li>
+                        <a href="http://www.essentialbaby.com.au/" title="Home">
+                            </a><a href="http://www.essentialbaby.com.au/" title="Home">Home</a>
                         
-                                <li>
-                                    <a href="http://www.essentialbaby.com.au/" title="Home">
-                                       Home
-                                    </a>
-                                </li>
-
-
-
+                      </li>
+                     <li>
+                        <a href="http://www.essentialbaby.com.au/conception" title="Conception">
+                            </a><a href="http://www.essentialbaby.com.au/conception" title="Conception">Conception</a>
                         
-                                <li>
-                                    <a href="http://www.essentialbaby.com.au/conception" title="Conception">
-                                       Conception
-                                    </a>
-                                </li>
-
-
-
+                      </li>
+                     <li>
+                        <a href="http://www.essentialbaby.com.au/pregnancy" title="Pregnancy">
+                            </a><a href="http://www.essentialbaby.com.au/pregnancy" title="Pregnancy">Pregnancy</a>
                         
-                                <li>
-                                    <a href="http://www.essentialbaby.com.au/pregnancy" title="Pregnancy">
-                                       Pregnancy
-                                    </a>
-                                </li>
-
-
-
+                      </li>
+                     <li>
+                        <a href="http://www.essentialbaby.com.au/baby" title="Baby">
+                            </a><a href="http://www.essentialbaby.com.au/baby" title="Baby">Baby</a>
                         
-                                <li>
-                                    <a href="http://www.essentialbaby.com.au/baby" title="Baby">
-                                       Baby
-                                    </a>
-                                </li>
-
-
-
+                      </li>
+                     <li>
+                        <a href="http://www.essentialbaby.com.au/toddler" title="Toddler">
+                            </a><a href="http://www.essentialbaby.com.au/toddler" title="Toddler">Toddler</a>
                         
-                                <li>
-                                    <a href="http://www.essentialbaby.com.au/toddler" title="Toddler">
-                                       Toddler
-                                    </a>
-                                </li>
-
-
-
+                      </li>
+                     <li>
+                        <a href="http://www.essentialbaby.com.au/kids" title="Kids">
+                            </a><a href="http://www.essentialbaby.com.au/kids" title="Kids">Kids</a>
                         
-                                <li>
-                                    <a href="http://www.essentialbaby.com.au/kids" title="Kids">
-                                       Kids
-                                    </a>
-                                </li>
-
+                      </li>
+                     <li>
+                        <a href="http://www.essentialbaby.com.au/community" title="My Community">
+                            </a><a href="http://www.essentialbaby.com.au/community" title="Community">Community</a>
+                        
+                      </li>
+                     <li>
+                        <a href="http://www.essentialbaby.com.au/my-life" title="My Life">
+                            </a><a href="http://www.essentialbaby.com.au/my-life" title="My Life">My Life</a>
+                        
+                      </li>
                     <style type="text/css">
-.sponsor-1 {position:relative!important;margin-left:155px!important}
+.sponsor-1 {position:relative!important;margin-left:105px!important}
 .sponsor-1 a {background:#DA96C2;color:white!important;top:0;padding:6px 8px;}
 .sponsor-1 a:hover, .sponsor-1 a:focus, .sponsor-1 a:active {background:#90C84D!important;color:black!important}
 </style>
 <li class="sponsor-1">
 <a title="Find" a="" babysitter"="" href="http://www.findababysitter.com.au/?utm_source=eb&amp;utm_medium=nav&amp;utm_campaign=fab" target="_blank">Find a Babysitter</a>
 </li>
-
                     <style type="text/css">
 .sponsor-2 {position:relative!important;margin-left:0px!important}
 .sponsor-2 a {background:#0079c2;color:white!important;top:0;padding:6px 8px;}
@@ -227,15 +237,12 @@
 <li class="sponsor-2">
 <a title="First 6 Months" href="http://www.essentialbaby.com.au/the-first-six-months">First 6 Months</a>
 </li>
-
-
-
         </ul>
         <ul id="drop-down">
             <li class="community"><a href="http://www.essentialbaby.com.au/forums">COMMUNITY</a>
                 <ul>
                     <li><a href="http://www.essentialbaby.com.au/forums">Forums</a></li>
-                    <li><a href="http://www.essentialbaby.com.au/forums/index.php?automodule=blog&amp;blog">Diaries</a></li>
+                    <li><a href="http://www.essentialbaby.com.au/forums/index.php?automodule=blog&amp;blog">Blogs</a></li>
                 </ul>
             </li>
         </ul>        
@@ -382,7 +389,7 @@ This policy applies to all sites that form part of the network of Fairfax Digita
                  <h2>
                     <a href="http://www.essentialbaby.com.au/conception" onclick="trackCode(this,'driveSMAge');" title="Conception">Conception</a>
                 </h2>
-                    <img src="http://images.essentialbaby.com.au/2008/05/15/112081/Conception Essential Baby Parenting Australia-172x115.jpg" width="172" alt="Conception | Essential Baby Parenting Australia">
+                    <img src="http://images.essentialbaby.com.au/2008/05/15/112081/Conception%20Essential%20Baby%20Parenting%20Australia-172x115.jpg" width="172" alt="Conception | Essential Baby Parenting Australia">
 
 
             <ul>
@@ -409,7 +416,7 @@ This policy applies to all sites that form part of the network of Fairfax Digita
                  <h2>
                     <a href="http://www.essentialbaby.com.au/pregnancy" onclick="trackCode(this,'driveSMAge');" title="Pregnancy">Pregnancy</a>
                 </h2>
-                    <img src="http://images.essentialbaby.com.au/2008/05/15/112084/Pregnancy Essential Baby Parenting Australia-172x115.jpg" width="172" alt="Pregnancy | Essential Baby Parenting Australia">
+                    <img src="http://images.essentialbaby.com.au/2008/05/15/112084/Pregnancy%20Essential%20Baby%20Parenting%20Australia-172x115.jpg" width="172" alt="Pregnancy | Essential Baby Parenting Australia">
 
 
             <ul>
@@ -442,7 +449,7 @@ This policy applies to all sites that form part of the network of Fairfax Digita
                  <h2>
                     <a href="http://www.essentialbaby.com.au/baby" onclick="trackCode(this,'driveSMAge');" title="Baby">Baby</a>
                 </h2>
-                    <img src="http://images.essentialbaby.com.au/2008/05/15/112080/Baby Essential Baby Parenting Australia-172x115.jpg" width="172" alt="Baby | Essential Baby Parenting Australia">
+                    <img src="http://images.essentialbaby.com.au/2008/05/15/112080/Baby%20Essential%20Baby%20Parenting%20Australia-172x115.jpg" width="172" alt="Baby | Essential Baby Parenting Australia">
 
 
             <ul>
@@ -472,7 +479,7 @@ This policy applies to all sites that form part of the network of Fairfax Digita
                  <h2>
                     <a href="http://www.essentialbaby.com.au/toddler" onclick="trackCode(this,'driveSMAge');" title="Toddler">Toddler</a>
                 </h2>
-                    <img src="http://images.essentialbaby.com.au/2008/05/15/112085/Toddler Essential Baby Parenting Australia-172x115.jpg" width="172" alt="Toddler | Essential Baby Parenting Australia">
+                    <img src="http://images.essentialbaby.com.au/2008/05/15/112085/Toddler%20Essential%20Baby%20Parenting%20Australia-172x115.jpg" width="172" alt="Toddler | Essential Baby Parenting Australia">
 
 
             <ul>
@@ -482,7 +489,7 @@ This policy applies to all sites that form part of the network of Fairfax Digita
                     <li><a onclick="trackCode(this,'ClassiePuff');" href="http://www.essentialbaby.com.au/parenting/toddler/top-toddler-settling-tips-20080630-2z9e.html">Behaviour
                         </a>
                     </li>
-                    <li><a onclick="trackCode(this,'ClassiePuff');" href="http://www.essentialbaby.com.au/parenting/toddler/your-toddlers-playtime-20080506-2bhg.html">Activities
+                    <li><a onclick="trackCode(this,'ClassiePuff');" href="http://www.essentialbaby.com.au/parenting/my-life/my-entertainment/your-toddlers-playtime-20080506-2bhg.html">Activities
                         </a>
                     </li>
             </ul>
@@ -496,7 +503,7 @@ This policy applies to all sites that form part of the network of Fairfax Digita
                  <h2>
                     <a href="http://www.essentialbaby.com.au/kids" onclick="trackCode(this,'driveSMAge');" title="Kids">Kids</a>
                 </h2>
-                    <img src="http://images.essentialbaby.com.au/2008/05/15/112083/Kids Essential Baby Parenting Australia-172x115.jpg" width="172" alt="Kids | Essential Baby Parenting Australia">
+                    <img src="http://images.essentialbaby.com.au/2008/05/15/112083/Kids%20Essential%20Baby%20Parenting%20Australia-172x115.jpg" width="172" alt="Kids | Essential Baby Parenting Australia">
 
 
             <ul>
@@ -531,11 +538,11 @@ This policy applies to all sites that form part of the network of Fairfax Digita
     <div class="s1"><a title="" class="lEb" href="http://www.essentialbaby.com.au/">&nbsp;</a>
             <h5>Today's Top 5 Articles</h5>
 <ol>
-    <li><a href="http://www.essentialbaby.com.au/parenting/community/a-delicate-balance-work-and-life-20091217-kzbv.html" title="A delicate balance: work and life" style="">A delicate balance: work and life</a></li>
-    <li><a href="http://www.essentialbaby.com.au/parenting/my-food/tuna-and-potato-rissoles-20091221-l8gh.html" title="Tuna and potato rissoles" style="">Tuna and potato rissoles</a></li>
-    <li><a href="http://www.essentialbaby.com.au/parenting/kids/parent-trap-disappointment-comes-with-the-territory-20091221-l9cz.html" title="Parent trap: disappointment comes with the territory" style="">Parent trap: disappointment comes with the territory</a></li>
-    <li><a href="http://www.essentialbaby.com.au/parenting/conception/natural-selection-20091221-l9jw.html" title="Natural selection" style="">Natural selection</a></li>
-    <li><a href="http://www.essentialbaby.com.au/parenting/conception/the-miracle-of-conception-is-no-metaphor-for-some-women-20091221-l9cl.html" title="The miracle of conception is no metaphor for some women" style="">The miracle of conception is no metaphor for some women</a></li>
+    <li><a href="http://www.essentialbaby.com.au/parenting/pregnancy/the-twilight-generation-20100509-ulwt.html" title="The Twilight generation" style="">The Twilight generation</a></li>
+    <li><a href="http://www.essentialbaby.com.au/parenting/my-life/my-money/aden--anais-20100506-udnr.html" title="Aden + Anais" style="">Aden + Anais</a></li>
+    <li><a href="http://www.essentialbaby.com.au/parenting/my-life/my-entertainment/mum-in-profile-jane-kennedy-20091208-kghj.html" title="Mum in Profile: Jane Kennedy" style="">Mum in Profile: Jane Kennedy</a></li>
+    <li><a href="http://www.essentialbaby.com.au/parenting/my-life/my-entertainment/mum-in-profile-tina-harris-20100510-ulyz.html" title="Mum in Profile: Tina Harris" style="">Mum in Profile: Tina Harris</a></li>
+    <li><a href="http://www.essentialbaby.com.au/parenting/kids/i-raised-triplets-with-adhd-20100510-uovk.html" title="‘I raised triplets with ADHD’" style="">‘I raised triplets with ADHD’</a></li>
 </ol>
 
     </div>
@@ -557,11 +564,11 @@ This policy applies to all sites that form part of the network of Fairfax Digita
     <div class="s3"><a title="For the latest Sydney news, Australia news and world breaking news visit the Sydney Morning Herald website" class="lSmh" href="http://www.smh.com.au/">Most viewed articles on The Sydney Morning Herald</a>
         <h5>Most Viewed Articles</h5>
         <ol>
-            <li><a href="http://www.smh.com.au/lifestyle/people/hollywood-actress-brittany-murphys-shock-death-natural-20091221-l7qr.html">Hollywood actress Brittany Murphy's shock death 'natural'</a></li>
-<li><a href="http://www.smh.com.au/world/dutch-teen-solo-sailor-found-on-caribbean-island-20091221-l7pc.html">Dutch teen solo sailor found on Caribbean island</a></li>
-<li><a href="http://www.smh.com.au/national/boy-playing-in-front-yard-of-house-dies-in-alleged-drinkdrive-crash-as-mother-looks-on-20091221-l7p3.html">Boy playing in front yard of house dies in alleged drink-drive crash as mother looks on</a></li>
-<li><a href="http://www.smh.com.au/world/general-declares-war-on-pregnancy-20091220-l7jq.html">General declares war on pregnancy</a></li>
-<li><a href="http://www.smh.com.au/rugby-league/league-news/sydney-tunes-in-and-turns-on-to-nrl-as-afl-drops-out-20091220-l7i4.html">Sydney tunes in and turns on to NRL as AFL drops out</a></li>
+            <li><a href="http://www.smh.com.au/digital-life/mobiles/new-gadgets-could-add-to-high-cost-of-data-downloads-20100509-ulqm.html">New gadgets could add to high cost of data downloads</a></li>
+<li><a href="http://www.smh.com.au/travel/travel-news/bungy-accident-victim-undergoes-major-operation-20100510-unv3.html">Bungy accident victim undergoes major operation</a></li>
+<li><a href="http://www.smh.com.au/world/how-does-he-live-starving-yogi-blessed-by-goddess--astounds-doctors-20100510-uo80.html">How does he live? Starving yogi 'blessed by goddess'  astounds doctors</a></li>
+<li><a href="http://www.smh.com.au/national/rudd-in-freefall-voters-lose-faith-20100509-ulqh.html">Rudd in freefall: voters lose faith</a></li>
+<li><a href="http://www.smh.com.au/environment/climate-change/climate-scientists-cross-with-abbott-for-taking-christs-name-in-vain-20100509-ulqt.html">Climate scientists cross with Abbott for taking Christ's name in vain</a></li>
 
         </ol>
     </div>
@@ -718,7 +725,7 @@ FD.addAd($merge(baseAd, {
 <script type="text/javascript">
     function initBPixel() {
         new Element("img", {
-            src: "http://direct.fairfax.com.au/vserver/CCID=1/AREA=FAMILY.ESSENTIALBABY.DEFAULT/BT=1/ACC_RANDOM=849162",
+            src: "http://direct.fairfax.com.au/vserver/CCID=1/AREA=FAMILY.ESSENTIALBABY.DEFAULT/BT=1/ACC_RANDOM=806499",
             styles: {
                 display: "none"
             }
@@ -727,18 +734,22 @@ FD.addAd($merge(baseAd, {
     FD.register("BPixel");
 </script>
 
-<!-- START Nielsen//NetRatings SiteCensus V5.3 -->
-<!-- COPYRIGHT 2007 Nielsen//NetRatings -->
-<script type="text/javascript">
- var _rsCI="f2";
- var _rsCG="essbaby";
- var _rsDN="//secure-au.imrworldwide.com/";
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2009 Nielsen Online -->
+<script type="text/javascript" src="//secure-au.imrworldwide.com/v60.js">
 </script>
-<script type="text/javascript" src="//secure-au.imrworldwide.com/v53.js"></script>
+<script type="text/javascript">
+ var pvar = { cid: "f2", content: "essbaby", server: "secure-au" };
+ var trac = nol_t(pvar);
+ trac.record().post();
+</script>
 <noscript>
- <div><img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=f2&amp;cg=essbaby&amp;cc=1" alt=""/></div>
+ <div>
+ <img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=f2&amp;cg=0&amp;cc=1&amp;ts=noscript"
+ width="1" height="1" alt="" />
+ </div>
 </noscript>
-<!-- END Nielsen//NetRatings SiteCensus V5.3 -->
+<!-- END Nielsen Online SiteCensus V6.0 -->
 
 <!-- Google Analytics -->
 <script type="text/javascript">
