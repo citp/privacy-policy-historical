@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixamo.com privacy policy that was archived on 2009-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090725091352id_/http%3A//www.mixamo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixamo.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510073345id_/http%3A//www.mixamo.com/home/privacy) for the most accurate reproduction.*
 
 # Mixamo: Privacy
 
