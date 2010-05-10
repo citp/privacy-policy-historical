@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essentialbaby.com.au privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221133752id_/http%3A//www.essentialbaby.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essentialbaby.com.au privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510135603id_/http%3A//www.essentialbaby.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement | essentialbaby.com.au
 
