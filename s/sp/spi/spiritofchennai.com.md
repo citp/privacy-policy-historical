@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spiritofchennai.com privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110203213id_/http%3A//www.spiritofchennai.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritofchennai.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511010019id_/http%3A//www.spiritofchennai.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Data security statement
 
 Protecting the individual's privacy on the Internet is crucial to the future of Internet-based business and the move toward a true Internet environment. SpiritOfChennai.com has created this privacy statement in close resemblance to Fortune 500 companies that have shown and demonstrated their commitment to privacy protection on the web.
 
