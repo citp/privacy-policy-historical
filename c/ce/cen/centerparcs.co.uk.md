@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centerparcs.co.uk privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206013540id_/http%3A//www.centerparcs.co.uk/information/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerparcs.co.uk privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510084320id_/http%3A//www.centerparcs.co.uk/information/privacy/index.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,12 +18,7 @@ For your protection, we are registered under the Data Protection Act 1998 and ha
 • To improve our products and services.   
 • Our representatives may follow up, either by e-mail, phone, fax or mail, to people who have purchased holidays or goods from our site, as part of our customer care procedures.   
 • To send out emails about a specific booking or in response to an enquiry using the e-mail address that you have provided during your time on the Center Parcs website.   
-• To send promotional e-mails about new products, special offers or other information that we think you may find interesting using a valid e-mail address if you have provided one and have not opted-out of receiving email communications from Center Parcs. To opt out of these promotional email communications, please click this link [www.centerparcs.co.uk/unsubscribe](http://www.centerparcs.co.uk/unsubscribe), enter your email address and click submit or alternatively click on the unsubscribe link at the bottom of the promotional email.   
-• From time to time, we may also use your information to contact you for market research purposes. We may contact you by e-mail, phone, fax or mail, unless you have registered with the appropriate Preference Service.    
-WHO WE SHARE THE INFORMATION WITH AND YOUR CHOICES  
-It is essential for us to pass on certain details to subcontracted companies or organisations in order that your break or related services can be provided, for example, to send out brochures or arrival packs. When you make a brochure request or booking this means that you consent to our passing on such details to our subcontractors.  
-When you use this site and provide personal information, you are agreeing that we may transfer, disclose, sell, distribute or lease your personal information to third parties (in addition to our authorised direct marketing agents and our subsidiary, parent or associated companies) unless you tell us that you do not wish this to happen.  
-When you provide any information on line, you should look for the box that you can click to say that you do not want the information to be used by anyone for direct marketing purposes.   If you have not previously objected to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or e-mailing us at [data.protection@centerparcs.co.uk](mailto:data.protection@centerparcs.co.uk)   
+• To send promotional e-mails about new products, special offers or other information that we think you may find interesting using a valid e-mail address if you have provided one and have not opted-out of receiving email communications from Center Parcs. To opt out of these promotional email communications, please [click this link](http://emailalerts.centerparcs.co.uk/public/unsubscribe.jsp).  
 You may change your mind about the permission you have given us to use your personal information at any time by emailing us at [data.protection@centerparcs.co.uk](mailto:data.protection@centerparcs.co.uk) or writing to:  
 Data Protection Compliance Officer  
 Center Parcs Limited  
