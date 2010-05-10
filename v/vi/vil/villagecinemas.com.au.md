@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villagecinemas.com.au privacy policy that was archived on 2009-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090912180857id_/http%3A//villagecinemas.com.au/About-Village-Cinemas/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villagecinemas.com.au privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510030417id_/http%3A//villagecinemas.com.au/About-Village-Cinemas/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Village Cinemas
 
@@ -154,7 +154,7 @@ Village may from time to time employ subcontractors to provide services to it. I
 
 ### 10\. WHO TO CONTACT
 
-If you have any queries with respect to this Privacy Policy please contact our Privacy Officer at Village Roadshow Limited, 206 Bourke Street, Melbourne Victoria 3000 or by email at privacy@roadshow.com.au.
+If you have any queries with respect to this Privacy Policy please contact our Privacy Officer at Village Roadshow Limited, Level 1/500 Chapel Street, South Yarra, Victoria, 3141 or by email at privacy@roadshow.com.au.
 
 ### 11\. MODIFICATIONS TO THIS DOCUMENT
 
@@ -162,4 +162,4 @@ Village may modify this Privacy Policy and the way it handles Personal Informati
 
 ### 12\. FURTHER INFORMATION
 
-Further information on privacy can be obtained from the Privacy Commissioner at [www.privacy.gov.au](https://web.archive.org/web/20090912180857id_/http%3A//villagecinemas.com.au/About-Village-Cinemas/www.privacy.gov.au).
+Further information on privacy can be obtained from the Privacy Commissioner at [www.privacy.gov.au](https://web.archive.org/web/20100510030417id_/http%3A//villagecinemas.com.au/About-Village-Cinemas/www.privacy.gov.au).
