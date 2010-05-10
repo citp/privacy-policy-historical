@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the intellichoice.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312095701id_/http%3A//www.intellichoice.com/info/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellichoice.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510122103id_/http%3A//www.intellichoice.com/info/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement - IntelliChoice
+
+Source Interlink Companies Privacy Policy
 
 Source Interlink Companies, Inc. ("Source" or "We" or "we") is strongly committed to protecting your privacy and providing a safe online experience for all of our users and subscribers while offering the highest quality publications and services to them. This Privacy Policy discloses what information we gather, how we use it, to whom we disclose personal information and other information you have provided, and how to correct or change personal information that you have provided to us. This Privacy Policy applies to Source Interlink Companies, Inc. and all of its parent companies, subsidiaries, and affiliates, including specifically Source Interlink Media, Inc. and its family of consumer publications. We urge you to read the complete Privacy Policy set forth below, as well as our Terms and Conditions of Use, and contact us if you have any questions.
 
@@ -10,7 +12,7 @@ Source Interlink Companies, Inc. ("Source" or "We" or "we") is strongly committe
 
 Some of our sites may collect credit card and related financial information if you wish to purchase a product or subscribe to any publication or service offered via these sites. If you wish to subscribe to one of our publications or place an order for products or services online, you must generally establish a credit card account with us or our vendors. Some of our sites also may collect social security numbers from consumers if such consumers use one of our automotive-related web sites and wish to receive a quote from an automotive lender that is part of the site's automotive lender network. In such instances, we collect social security numbers only to fulfill consumers' requests to receive quotes or other financial offers from a lender in the site's automotive lender network.
 
-**_Information Collected Automatically._** Our web sites automatically collect certain information, such as your IP address, browser type, domain name, access times and referring website address. This helps facilitate your online experience at our web sites. See Sections IV and V of this Privacy Policy for more detail on cookies, web beacons, and other information collected automatically for research and marketing purposes by our web sites.
+**_Information Collected Automatically._** Our web sites automatically collect certain information, such as your IP address, browser type, domain name, access times and referring website address. This helps facilitate your online experience at our web sites. See Sections IV and V of this Privacy Policy for more detail on cookies, web beacons, and other information collected automatically by our web sites.
 
 ### II. WHAT DO WE DO WITH COLLECTED INFORMATION? 
 
@@ -42,7 +44,9 @@ We share your personal information only as described below.
 
 ### IV. HOW DO WE USE COOKIES? 
 
-Your Web browser offers "cookies" which, if you allow their use, store small amounts of data on your computer when you visit a web site. Cookies do not contain any personally identifiable information about you and therefore cannot be used to identify you personally. Cookies assist us in tracking which of our features you like best, and also enable us to customize our content according to your preferences. You have the ability to accept or decline cookies by modifying your browser and our websites are viewable even if you disable the cookie function on your browser. However, if you disable cookies, some advanced and customized features or offerings will not be available to you. 
+Your Web browser offers "cookies" which, if you allow their use, store small amounts of data on your computer when you visit a web site. Cookies do not contain any personally identifiable information about you and therefore cannot be used to identify you personally. Cookies assist us in tracking which of our features you like best, and also enable us to customize our content according to your preferences. You have the ability to accept or decline cookies by modifying your browser and our websites are viewable even if you disable the cookie function on your browser. However, if you disable cookies, some advanced and customized features or offerings on our site will not be available to you. In addition to collecting cookies, Source may distribute, sell, and/or transfer such cookies to third parties with whom Source has a commercial relationship. If you do not wish your cookies to be used in this manner, you can modify your browser to disable the collection of cookies. 
+
+Additionally, we use third-party companies to collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit one of our web sites. Some of these third-party companies collect information when serving ads on our sites, while others collect information without showing ads on our sites. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to our sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. 
 
 ### V. HOW DO WE USE WEB BEACONS, WEB ANALYTICS, AND OTHER BEHAVIORAL MARKETING TECHNOLOGIES? 
 
@@ -62,8 +66,8 @@ We believe that choice in how and when you are contacted is key to customer sati
   2. If you are a subscriber to one of our magazines, you may be able to log on and update or change your contact or account information by contacting us at <https://www.circsource.com/> and clicking on Customer Service. 
   3. You may unsubscribe to any of our online e-mail updates or newsletters by following the unsubscribe instructions in the body of any e-mail message. 
   4. If you do not wish to have your personal information shared with third parties or with other entities in the Source corporate family, please [click here.](http://www.emailremove.org/)
-  5. You also may write to us directly if you wish to: (a) update or delete your contact information; (b) ask that we not share your personal information with third parties; or (c) request that we cease sending you promotional or other information via mail or e-mail. Such written requests should be sent to Source Interlink Media, Inc., Attn: Privacy Coordinator, 261 Madison Avenue, New York, NY 10016. In those instances, we will retain your information in a "do not promote" file in our database, and you will receive no further communications from us. 
-  6. You may also contact us at [privacypolicy@sourceinterlink.com](mailto:privacypolicy@sourceinterlink.com) for any inquiry or request regarding our privacy policy or the handling of your personal information. 
+  5. You also may write to us directly if you wish to: (a) update or delete your contact information; (b) ask that we not share your personal information with third parties; or (c) request that we cease sending you promotional or other information via mail or e-mail. Such written requests should be sent to Source Interlink Companies, Inc., Attn: Privacy Coordinator, 6420 Wilshire Blvd., Los Angeles, CA 90048 In those instances, we will retain your information in a "do not promote" file in our database, and you will receive no further communications from us. 
+  6. You may also contact us at [privacypolicy@sorc.com](https://web.archive.org/web/20100510122103id_/http%3A//www.intellichoice.com/info/privacypolicy@sorc.com) for any inquiry or request regarding our privacy policy or the handling of your personal information. 
 
 
 
@@ -83,7 +87,7 @@ In the event that you provide personal information to any third party via any So
 
 ### XI. YOUR CALIFORNIA PRIVACY RIGHTS
 
-Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [yourcaliforniaprivacyrights@sourceinterlink.com](mailto:yourcaliforniaprivacyrights@sourceinterlink.com) and please include the phrase "California Privacy Request" in the subject line, and provide us with your name, address and email address. We will respond to you within thirty days of receiving such a request. 
+Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [yourcaliforniaprivacyrights@sorc.com](https://web.archive.org/web/20100510122103id_/http%3A//www.intellichoice.com/info/yourcaliforniaprivacyrights@sorc.com) and please include the phrase "California Privacy Request" in the subject line, and provide us with your name, address and email address. We will respond to you within thirty days of receiving such a request. 
 
 ### XII. VISITORS AND SUBSCRIBERS OUTSIDE THE UNITED STATES
 
@@ -97,15 +101,15 @@ We will occasionally update this Privacy Policy as necessary to protect our user
 
 ### XIV. CONTACT INFORMATION
 
-If you have any questions about this Privacy Policy or our privacy practices, please e-mail us at [ privacypolicy@sourceinterlink.com](mailto:privacypolicy@sourceinterlink.com). Please include the URL of the Web site and/or name of the publication involved in your request. Requests under California Law SB 27 should be directed to [yourcaliforniaprivacyrights@sourceinterlink.com](mailto:yourcaliforniaprivacyrights@sourceinterlink.com) and include the information noted in Your California Privacy Rights. 
+If you have any questions about this Privacy Policy or our privacy practices, please e-mail us at [ privacypolicy@sorc.com](https://web.archive.org/web/20100510122103id_/http%3A//www.intellichoice.com/info/privacypolicy@sorc.com). Please include the URL of the Web site and/or name of the publication involved in your request. Requests under California Law SB 27 should be directed to [yourcaliforniaprivacyrights@sorc.com](https://web.archive.org/web/20100510122103id_/http%3A//www.intellichoice.com/info/yourcaliforniaprivacyrights@sorc.com) and include the information noted in Your California Privacy Rights. 
 
 Or you can contact us by mail at: 
 
 _Source Interlink Media, Inc.  
 Attn: Privacy Coordinator  
-261 Madison Avenue  
-New York, NY 10016_
+6420 Wilshire Blvd.  
+Los Angeles, CA 90048_
 
-Or you can fax us at 212.915.4093 _Attn: Privacy Coordinator_
+Or you can fax us at 323-782-2920 _Attn: Privacy Coordinator_
 
-Last Update February 20, 2008
+Last Update September 23, 2009
