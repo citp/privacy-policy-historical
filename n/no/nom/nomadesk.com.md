@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nomadesk.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228023718id_/http%3A//www.nomadesk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomadesk.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510120000id_/http%3A//www.nomadesk.com/privacy) for the most accurate reproduction.*
 
-# Nomadesk: Telecommuting software | Collaboration Software | Remote Area Desktop File Sharing
+# Nomadesk: Privacy Policy | Telecommuting software | Collaboration Software | Remote Area Desktop File Sharing
 
 **Nomadesk is developed by Nomadesk  NV (Ltd.), with headquarters at Xavier De Cocklaan 66-5, B-9830 Sint-Martens-Latem, Belgium.**
 
