@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 7articles.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107224448id_/http%3A//www.7articles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7articles.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511010522id_/http%3A//www.7articles.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | 7Articles.com :: directory of articles
+# Privacy | 7Articles.com - Free article directory
 
 7Articles.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. 
 
