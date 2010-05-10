@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deeplinks.biz privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109070740id_/http%3A//www.deeplinks.biz/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deeplinks.biz privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511012904id_/http%3A//www.deeplinks.biz/ppolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy :: Submit Your Link with Free Deep Links
+# Privacy Policy
 
 [](http://www.liquidweb.com/?RID=sdawkins)
 
@@ -67,8 +67,12 @@ sdscripts.support @ gmail.com
 
 | 
 
-| Active Users: | 6  
+| Active Users: | 5  
 ---|---  
 Accounts: | 0  
-Guests: | 6  
-Visits last 24h: | 425
+Guests: | 5  
+Visits last 24h: | 1146  
+  
+[](http://submissionwizards.com/Directory-Submissions/Directory-Submission-Services.html)
+
+[](http://secure.hostgator.com/cgi-bin/affiliates/clickthru.cgi?id=sdscripts-directories)
