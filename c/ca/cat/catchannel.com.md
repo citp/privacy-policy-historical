@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the catchannel.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620120900id_/http%3A//www.catchannel.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchannel.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510030402id_/http%3A//www.catchannel.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
 # CatChannel.com
 
-|  | 
+|  |  [](http://www.catchannel.com/cat-college/default.aspx?cm_mmc=WhiteAd_articles-_-na-_-na-_-na)
 
 [](http://www.catchannel.com/registration/registration.aspx?signup=y)  
   
