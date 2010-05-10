@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorado.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401162459id_/http%3A//www.colorado.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorado.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510134651id_/http%3A//www.colorado.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Colorado.com
 
