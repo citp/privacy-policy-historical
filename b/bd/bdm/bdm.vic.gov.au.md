@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdm.vic.gov.au privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229043457id_/https%3A//online.justice.vic.gov.au/CA2574F700805DE7/page/Listing-Footer%2BLinks-Privacy%3FOpenDocument%261%3D0-Listing%7E%262%3D0-Footer%2BLinks%7E%263%3D0-Privacy%7E) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdm.vic.gov.au privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510235536id_/http%3A//online.justice.vic.gov.au/CA2574F700805DE7/page/Listing-Footer%2BLinks-Privacy%3FOpenDocument%261%3D0-Listing%7E%262%3D0-Footer%2BLinks%7E%263%3D0-Privacy%7E) for the most accurate reproduction.*
 
 # Victorian Registry of Births, Deaths and Marriages - Privacy
 
