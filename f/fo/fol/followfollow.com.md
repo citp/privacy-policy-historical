@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the followfollow.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620001408id_/http%3A//www.followfollow.com/feedback/loadpriv.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followfollow.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510021429id_/http%3A//www.followfollow.com/feedback/loadpriv.asp) for the most accurate reproduction.*
 
 # Rangers FC News - FollowFollow.com
 
-**_Entertainment & Sports Agency Privacy Policy_**
+**_Footymad Privacy Policy_**
 
 **_Privacy_**
 
 Your privacy is of the utmost importance to us. We gather certain types of information about our users, therefore we feel you should fully understand the terms and conditions surrounding the capture and use of that information. Please find below our privacy policy. 
 
-We are Entertainment & Sports Agency Limited and we own and operate this website ('FollowFollow.com', at www.followfollow.com). Our registered address is: Dawson Court, Billington Road Industrial Estate, Burnley, Lancashire BB10 5UB. Please read the following policy to understand how we will deal with your personal data after it has been collected by us through your use of one of our platforms. Those platforms include our website, and any other channels as they evolve. 
+We are Footymad and we own and operate this website ('FollowFollow.com', at www.followfollow.com). Our registered address is 4th Floor, Ashworth House, Manchester Road, Burnley, Lancs BB11 1TT. Please read the following policy to understand how we will deal with your personal data after it has been collected by us through your use of one of our platforms. Those platforms include our website, and any other channels as they evolve. 
 
 **_Compliance with legislation_**
 
@@ -48,7 +48,7 @@ The ads appearing on this Website are delivered to you, on our behalf, by our we
 
 Please note that this privacy policy only addresses our activities from our servers. Other sites (including those our website links to and third party sites or services) may have their own privacy policies and practices, which we do not control. 
 
-While we strive to protect your personal information, our network of sites contain links to partners, advertisers and third party Internet sites and services who may collect data in connection with sweepstakes, promotions, e-commerce, etc. They each have separate privacy and data collection practices, independent of our policy and therefore we have no control over these independent policies or actions and is not responsible for their privacy practices or the content of such websites. 
+While we strive to protect your personal information, our network of sites contain links to partners, advertisers and third party Internet sites and services who may collect data in connection with sweepstakes, promotions, e-commerce, etc. They each have separate privacy and data collection practices, independent of our policy and therefore we have no control over these independent policies or actions and are not responsible for their privacy practices or the content of such websites. 
 
 **_Consent_**
 
