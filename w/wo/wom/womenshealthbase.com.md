@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenshealthbase.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621115932id_/http%3A//www.womenshealthbase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenshealthbase.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510235645id_/http%3A//www.womenshealthbase.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Womens Health Base
 
@@ -6,7 +6,7 @@ Thank you for visiting WomensHealthBase.com and for taking interest in our Priva
 
 Please read this Policy carefully. If you have any questions about this Policy or our data collection, use or disclosure practices, please contact us.
 
-This Privacy Policy applies to the Fast Forward Interactive Web Sites (”Sites”) owned and operated by Fast Forward Interactive, including the WomensHealthBase.com site. Reference to “Fast Forward Interactive” means Fast Forward Interactive, Inc., including any company that Fast Forward Interactive, Inc. controls (for example, a subsidiary that Fast Forward Interactive, Inc. owns). Fast Forward Interactive Web Sites include any site that Fast Forward Interactive owns or controls (for example, Men’s Health Base). Fast Forward Interactive may share information among its subsidiaries or sites that it owns or controls, but it is always protected under the terms of this Privacy Policy.
+This Privacy Policy applies to the Fast Forward Interactive Web Sites (“Sites”) owned and operated by Fast Forward Interactive, including the WomensHealthBase.com site. Reference to “Fast Forward Interactive” means Fast Forward Interactive, Inc., including any company that Fast Forward Interactive, Inc. controls (for example, a subsidiary that Fast Forward Interactive, Inc. owns). Fast Forward Interactive Web Sites include any site that Fast Forward Interactive owns or controls (for example, Men’s Health Base). Fast Forward Interactive may share information among its subsidiaries or sites that it owns or controls, but it is always protected under the terms of this Privacy Policy.
 
 What information do we collect?
 
@@ -54,6 +54,8 @@ Market Research
 
 You may choose to participate in market research activities through the Site, including health panels and surveys. When participating in such activities, we may ask you to submit personal information. We may combine the personal information you provide to us with research tools and information from other sources, including prescription information. We use this information to perform research, and to prepare reports and analyses for our clients. Our reports and analyses to clients are made only on an anonymous basis.
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
 The Sites reserve the right, at any time and without notice, to add to, update, change, modify or revise this Privacy Policy or the Sites services simply by posting such change, update or modification on the Sites. Any such addition, update, change, modification or revision will be effective immediately upon posting on the Sites. Upon any change to this Privacy Policy or our services, we may also notify you via e-mail.
 
 If you do not accept the terms of this Policy, we ask that you do not visit or register with the Sites.
@@ -62,4 +64,4 @@ Please Contact Us if you have any further questions.
 
 _Effective: September 2008_
 
-Last modified: March 9, 2009
+Last modified: November 10, 2009
