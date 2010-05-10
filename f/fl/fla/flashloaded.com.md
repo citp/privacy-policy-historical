@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashloaded.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618063529id_/http%3A//flashloaded.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashloaded.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511013037id_/http%3A//www.flashloaded.com/disclaimer) for the most accurate reproduction.*
 
 # Flashloaded - Disclaimer and Privacy Policy
 
@@ -10,7 +10,7 @@ All products are sold on an AS IS basis. All features are listed on the product 
 
 By ordering from Flashloaded.com you agree that you wish to purchase the selected product(s) and that you will not hold FFF Web Media Inc., responsible in any way. Purchasing and or using any of our products (including freebies) means that you have understood and agreed to all the terms and conditions of this disclaimer.
 
-Attention EU Customers: Our products are for business usage. If you require these products for personal use, please [contact us](mailto:%69%6e%66%6f%32%40%66%6c%61%73%68%6c%6f%61%64%65%64%2e%63%6f%6d) and we will arrange for payment to be made including VAT.
+**Attention EU Customers:** Our products are for business usage. If you require these products for personal use, please [contact us](mailto:%69%6e%66%6f%32%40%66%6c%61%73%68%6c%6f%61%64%65%64%2e%63%6f%6d) and we will arrange for payment to be made including VAT.
 
 Templates: Flashloaded is a reseller of the Templates available on our website. Please note that this disclaimer is not applicable for the purchase of templates which are handled by a third party. For more information, please contact support@template-help.com.  
 
