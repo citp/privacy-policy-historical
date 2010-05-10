@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the schiffforsenate.com privacy policy that was archived on 2009-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091010063614id_/http%3A//www.schiffforsenate.com/index.php/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schiffforsenate.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510173239id_/http%3A//schiffforsenate.com/%3Fq%3Dprivacy) for the most accurate reproduction.*
 
-# Peter Schiff for Senate 2010
+# Privacy | Peter Schiff for Senate 2010
 
-This is the web site of Schiff Exploratory Committee.
+This is the web site of Peter Schiff for Senate.
 
 Our postal address is:  
-P.O. Box 1134  
-Weston, CT 06883
+130 Old Gate Lane Unit A  
+Milford, CT 06460
 
 We can be reached via e-mail at [info@schiffforsenate.com](mailto:info@schiffforsenate.com) or by telephone at (203) 451-4560.
 
@@ -28,4 +28,4 @@ Upon request we offer visitors the ability to have inaccuracies corrected in con
 
 When we transfer and receive certain types of sensitive information such as financial or information provided in connection with donations, we redirect visitors to a secure server.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
