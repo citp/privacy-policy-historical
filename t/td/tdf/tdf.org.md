@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tdf.org privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202131127id_/http%3A//www.tdf.org/CommonPage.aspx%3Fpageid%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdf.org privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511012939id_/http%3A//tdf.org/TDF_CommonPage.aspx%3Fpageid%3D4) for the most accurate reproduction.*
 
 # TDF - Theatre Development Fund
 
