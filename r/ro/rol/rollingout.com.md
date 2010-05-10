@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rollingout.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830072442id_/http%3A//www.rollingout.com/v2/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollingout.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511013209id_/http%3A//www.rollingout.com/primary.html) for the most accurate reproduction.*
 
-# rolling out UrbanStyle Weekly v.2.0
+# rollingout.com Privacy Policy
+
+[](http://www.addthis.com/bookmark.php?v=20)
 
 March 15, 2006 
 
@@ -31,3 +33,5 @@ We make good faith efforts to provide you access to your personal information up
 
 **More information**  
 If you have additional questions, please contact us any time. 
+
+[blog comments powered by ](http://disqus.com/)
