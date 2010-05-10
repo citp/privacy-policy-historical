@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synnex.com.au privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003031225id_/http%3A//www.synnex.com.au/Default.aspx%3Ftabid%3D1%26def%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synnex.com.au privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510215428id_/http%3A//www.synnex.com.au/Default.aspx%3Ftabid%3D1%26def%3DPrivacy) for the most accurate reproduction.*
 
 # Synnex Australia Pty Ltd : Home |
 
