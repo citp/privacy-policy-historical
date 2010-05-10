@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the setster.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109212207id_/http%3A//www.setster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setster.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511012325id_/http%3A//www.setster.com/privacy) for the most accurate reproduction.*
 
 # Setster Privacy Policy
 
