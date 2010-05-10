@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the j.mp privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216115955id_/http%3A//j.mp/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the j.mp privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511013345id_/http%3A//j.mp/pages/privacy) for the most accurate reproduction.*
 
-# j.mp, a simple url shortener powered by bit.ly
-
-## Privacy
+# bit.ly | a simple URL shortener
 
 ### Privacy Policy
 
-Bitly, Inc. (” **bit.ly TM**“) takes the private nature of your personal information very seriously. This Privacy Policy (which we adapted from a policy originally provided by Automattic (WordPress.com)) describes how we treat the information we collect when you visit and use any website available from **Bitly, Inc.** and is made available under the Creative Commons Sharealike license. Please read this notice very carefully. It is **Bitly, Inc.** ‘ policy to respect your privacy regarding any information we may collect while operating our websites.
+Bitly, Inc. (“ **bit.ly TM**“) takes the private nature of your personal information very seriously. This Privacy Policy (which we adapted from a policy originally provided by Automattic (WordPress.com)) describes how we treat the information we collect when you visit and use any website available from **Bitly, Inc.** and is made available under the Creative Commons Sharealike license. Please read this notice very carefully. It is **Bitly, Inc.** ‘ policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
@@ -33,19 +31,3 @@ A cookie is a string of information that a website stores on a visitor’s compu
 ### Privacy Policy Changes
 
 Although most changes are likely to be minor, **Bitly, Inc.** may change its Privacy Policy from time to time, and in **Bitly, Inc.** ‘ sole discretion. **Bitly, Inc.** encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-| 
-
-## Sign Up for bit.ly
-
-##### Real-time Link Tracking
-
-Track the performance of your bit.ly links in real time.
-
-##### Complete History
-
-Access the complete history of your bit.ly links
-
-##### Saved Preferences
-
-Store your Twitter account and other preferences
