@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the gamersfirst.com privacy policy that was archived on 2009-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091212015708id_/http%3A//www.gamersfirst.com%3Fq%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gamersfirst.com privacy policy that was archived on 2010-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100511181152id_/http%3A//www.gamersfirst.com%3Fq%3Den/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" class="js"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>GamersFirst – Free To Play Multiplayer Online Games, Free MMO, Fantasy MMO, Online FPS, Free Multiplayer Car Racing, Adventure, Shooting &amp; Strategy Games Online</title>
+	<meta name="description" content="Offers a wide range of free to play multiplayer online games including Knight Online World, War Rock, Sword of the New World, GoGoRacer and more. Come join 23 million registered users from all over the world!">
+    <meta name="keywords" content="free multiplayer games, free mmo, free mmo games, free to play online games,  download multiplayer games, free multiplayer online games, free games online, free adventure mmo, fantasy mmo, free mmog, free mmorpg, massive pvp multiplayer games, free car racing games online, free online multiplayer racing games, free online shooting games, new free online games, gogoracer, sword of the new world, war rock, global mu online, animax lamb, knight online world, best multiplayer online games, multiplayer online games">
+    <title>GamersFirst – Free To Play Multiplayer Online Games, Free MMO, Fantasy MMO, Online FPS, Free Multiplayer Car Racing, Adventure, Shooting &amp; Strategy Games Online</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" href="/themes/gamersfirst/favicon.ico" type="image/x-icon">
 	<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?i">
@@ -39,14 +41,6 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
 	<script type="text/javascript"> </script>
 	<script type="text/javascript" src="../../_js/jquery.jqModal.js"></script>
 	<script type="text/javascript">
-	/**** CHANGE BACKGROUND GRADIENT *****/
-	function change_random_background(path, image_num, bgcolor) {
-		//var full_path = path + image_num + '_gradient.jpg'; // use this for homepage for random game images with different gradients
-		//var full_path = path + 'gradient.jpg'; // TEMP FORCING SINGLE BACKGROUND FOR PHASE 1
-		//$('html, body').css({"background-image":"url("+full_path+")"});
-		//$('html, body').css({"background-repeat":"repeat-x"});
-		$('html, body').css({"background-color":"#"+bgcolor+""});
-	}
 	/**** PLAYSPAN FREE ITEMS NOTIFICATION POP UP ****/
 	function popup_playspanfreeitems() {
 		$('#playSpanFreeItems').jqm({toTop: true}).jqmShow();
@@ -58,7 +52,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
 			$.post("/session-o-matic.php", {
 				resetCodeType: 'resetme'
 			}, function(response){
-				window.location = 'http://www.gamersfirst.com/?q=en';
+				window.location = 'http://www.gamersfirst.com/';
 			});
 		});
 		$('.view-homepage-banners').show();
@@ -72,6 +66,22 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
 			$('.button_left').removeClass('purple_button_left_over').addClass('purple_button_left');
 			$('.button_center').removeClass('purple_button_center_over').addClass('purple_button_center');
 			$('.button_right').removeClass('purple_button_right_over').addClass('purple_button_right');
+		});
+		
+		$('#join_now_button').click(function() {
+			$.post("/set_language.php", {
+				strPost: 'en'
+			}, function(response){
+				window.location = 'https://www.gamersfirst.com/register/index.php';
+			});
+		});
+		
+		$('#redeem_code_button').click(function() {
+			$.post("/set_language.php", {
+				strPost: 'en'
+			}, function(response){
+				window.location = 'http://www.gamersfirst.com/redeemcode/';
+			});
 		});
 		
 		/* PLAYSPAN COREGISTRATION */
@@ -92,38 +102,10 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
 		});
 		/* END PLAYSPAN COREGISTRATION */
 	});
-	
-	/* Code loads flash bg */
-	function showflash(filename,width,height)
-	{
-	  document.write("<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0' width='"+width+"' height='"+height+"' id='"+filename+"' align='middle'>");
-	  document.write("<param name='allowScriptAccess' value='sameDomain' />");
-	  document.write("<param name='movie' value='"+filename+".swf' />");
-	  document.write("<param name='loop' value='false' />");
-	  document.write("<param name='menu' value='false' />");
-	  document.write("<param name='quality' value='high' />");
-	  document.write("<param name='wmode' value='transparent' />");
-	  document.write("<param name='bgcolor' value='#ffffff' />");
-	  document.write("<embed src='"+filename+".swf' loop='false' menu='false' quality='high' wmode='transparent' bgcolor='#ffffff' width='"+width+"' height='"+height+"' name='"+filename+"' align='middle' allowScriptAccess='sameDomain' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer' />");
-	  document.write("</object>");
-	}
+
 	</script>
-<script type="text/javascript" src="/_js/flash_detect.js"></script>
-</head>
+	</head>
 <body class="not-front not-logged-in page-node node-type-page one-sidebar sidebar-right page-privacy section-privacy" style="overflow-x: hidden;">
-<script type="text/javascript">change_random_background("/_img/background/g1/","g1_background","000000");</script>
-
-<!-- Code Toggles between Flash and Image background -->
-<script type="text/javascript"> 
-	if(!FlashDetect.installed) {
-		document.write('<div id="mybg" style="position:absolute; background:url(/_img/background/g1/g1_background.jpg) top center no-repeat;left:50%;top:0px;z-index:0;width:1548px; height:750px;margin:0px auto;margin-left:-774px;"></div>');  	
-	} else {
-		document.write('<div id="mybg" style="position:absolute;left:50%;top:0px;z-index:0;width:1548px; height:750px;margin:0px auto;margin-left:-774px;">');
-		showflash('/_img/background/g1/g1_background','1548','750'); 
-		document.write('</div>');  
-	}
-</script>
-
 <!-- NOTIFICATION BAR -->
 
 <!-- PLAYSPAN FREE ITEM POPUP -->
@@ -151,7 +133,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
     <div id="header" style="z-index: 10;"><div id="header-inner" class="clear-block">
 
               <div id="logo-title">
-                      <div id="logo"><a id="gf-logo" href="javascript:;" title="GamersFirst – Free To Play Multiplayer Online Games" rel="home"><img src="http://www.gamersfirst.com/themes/gamersfirst/logo.png" alt="GamersFirst – Free To Play Multiplayer Online Games" id="logo-image"></a></div>
+                      <div id="logo"><a id="gf-logo" href="javascript:;" title="GamersFirst – Free To Play Multiplayer Online Games" rel="home"><img src="themes/gamersfirst/logo.png" alt="GamersFirst – Free To Play Multiplayer Online Games" id="logo-image"></a></div>
           
           
           
@@ -167,9 +149,172 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
 }
 .highlight {
     color:#FFF;
+	font-size: 11px;
+	cursor:pointer;
     }
+
+a.top_links  {
+	color: #FFF;
+	font-size: 11px;
+	text-decoration: none;
+}
+a.top_links:hover  {
+	color: #FFF;
+	font-size: 11px;
+	text-decoration: none;
+}
+.divider {
+	color: #FFF;
+	font-size: 11px;
+	padding:0 5px 0 4px;
+}
+
+#block-locale-0
+{
+	position:relative;
+	top:-66px;
+	>top:-62px;
+	margin-left:605px;
+	width:300px;
+	text-align:right;
+	float:right;
+}
+
+#block-locale-0 .block-inner
+{
+	right:95px;
+}
+
+#block-locale-0 .edit
+{
+	display:none;
+}
+
+#block-locale-0 .content
+{
+	display:none;
+	background:url(themes/gamersfirst/images/languages-back.jpg) no-repeat;
+	margin-top: 3px;
+	position:absolute;
+	>top:20px;
+	left:140px;
+	z-index:100010;
+	padding:2px 0px 2px 1px;
+	width:117px;
+	height:103px;
+}
+
+#block-locale-0 ul
+{
+	>position:relative;
+	>top:2px;
+	>right:7px;
+	_top:4px;
+	_right:9px;
+	width:110px;
+	padding:0;
+	margin:0;
+}
+
+#block-locale-0 li
+{
+	float:left;
+	list-style-type:none;
+	margin: 3px 0 5px 5px;
+	>margin: 4px _1px 2px 0px;
+	_margin: 4px -1px 2px 3px;
+	width:31px;
+	height:19px;
+	_width:32px;
+	_height:21px;
+}
+
+#block-locale-0 li a
+{
+	display: block;
+	text-decoration: none;
+}
+*:first-child+html #block-locale-0 li a {
+	margin-top: -2px;
+}
+* html #block-locale-0 li a {
+	margin-top: -2px;
+}
+
+#block-locale-0 h2.title
+{
+	font-family:arial,verdana,helvetica;
+	font-size:11px;
+	font-weight:normal;
+	font-size-adjust:none;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:normal;
+	cursor:pointer;
+	text-decoration:none;
+	position:relative;
+	>top:-4px;
+	_top:-4px;	
+}
+
+html[lang|="tr"] #block-locale-0 h2.title,
+html[lang|="tr"] #block-locale-0 .content
+{
+	margin-left:30px;
+}
+
+html[lang|="it"] #block-locale-0 h2.title,
+html[lang|="it"] #block-locale-0 .content,
+html[lang|="es"] #block-locale-0 h2.title,
+html[lang|="es"] #block-locale-0 .content
+{
+	margin-left:20px;
+} 
 </style>
 
+<style>
+html[lang|="tr"] #block-locale-0 .content
+{
+	left:160px;
+}
+
+html[lang|="de"] #block-locale-0 .content
+{
+left:160px;
+}
+
+html[lang|="nl"] #block-locale-0 .content
+{
+	left:126px;
+}
+
+html[lang|="it"] #block-locale-0 .content
+{
+	left:136px;
+}
+
+html[lang|="es"] #block-locale-0 .content
+{
+	left:136px;
+}
+
+html[lang|="pt-br"] #block-locale-0 .content
+{
+	left:146px;
+}
+
+html[lang|="pl"] #block-locale-0 .content
+{
+	left:166px;
+}
+
+html[lang|="fr"] #block-locale-0 .content
+{
+	left:103px;
+}
+</style>
+<script type="text/javascript" src="/_js/setCookie.js"></script>
 <script type="text/javascript">
 function getURLParam(strParamName){
   var strReturn = "";
@@ -213,6 +358,21 @@ $(function(){
 		$('.pt-br a.language-link').html('<img src="/themes/gamersfirst/images/Portuguese.jpg" />');
 		$('.pl a.language-link').html('<img src="/themes/gamersfirst/images/Polish.jpg" />');
 		$('.fr a.language-link').html('<img src="/themes/gamersfirst/images/French.jpg" />');
+		
+
+		//Set cookie with user selected language through language switcher
+		$('a.language-link').click(function() {
+			var a = $(this).attr('href').split('=');
+			var lang = a[1].split('/');
+			/* set cookie expire time */
+			var currentTime = new Date();
+			var month = currentTime.getMonth()+1;
+			var day = currentTime.getDate();
+			var year = currentTime.getFullYear() + 1;	
+			
+			set_cookie ("locale",lang[0],year,month,day,'/','..gamersfirst.com','');			
+			
+		});
 
 		//Get the currently selected lanugage from the url and show that language image in border
 		if (getURLParam('q') != '')
@@ -238,10 +398,10 @@ jQuery.fn.slideFadeToggle = function(speed, easing, callback) {
 <div class="block-inner">
 
   
-	<h2 class="title highlight">Languages</h2>
-  
+	<span class="title highlight">Languages</span>
+    	<span class="divider">|</span><a class="top_links" href="http://www.gamersfirst.com/help.php">Support</a><span class="divider">|</span><a class="top_links" href="/register/">Join Now</a>  
   <div class="content" style="position: absolute; z-index: 100000;">
-	<ul><li class="en first active"><a href="/?q=privacy" class="language-link active">English</a></li>
+	<ul><li class="en first active"><a href="/?q=en/privacy" class="language-link active">English</a></li>
 <li class="tr"><a href="/?q=tr/privacy" class="language-link">Türkçe</a></li>
 <li class="de"><a href="/?q=de/privacy" class="language-link">Deutsch</a></li>
 <li class="nl"><a href="/?q=nl/privacy" class="language-link">Nederlands</a></li>
@@ -257,61 +417,8 @@ jQuery.fn.slideFadeToggle = function(speed, easing, callback) {
 
   
 </div></div> <!-- /block-inner, /block -->
-<div id="block-logout_link-0" class="block block-logout_link region-even even region-count-2 count-4"><div class="block-inner">
-
-  
-  <div class="content">
-
-
-
-	
-	<style type="text/css">
-							.top_links {
-								color: #FFF;
-								position: absolute;
-								width: 330px;
-								height: 20px;
-								margin: -74px 0 0 785px;
-								
-								
-							}
-							
-							.top_links a, a:visited, a:active, a:hover {
-								color: #FFF;
-								text-decoration: none;
-							}
-							
-							html[lang|="tr"] .top_links {
-								margin-left:806px;
-							}
-							
-							html[lang|="it"] .top_links,
-							html[lang|="pl"] .top_links {
-								margin-left:795px;
-							}
-							
-							html[lang|="pt-br"] .top_links {
-								margin-left:775px;
-							}
-							
-							html[lang|="fr"] .top_links {
-								margin-left:740px;
-							}
-							
-							.top_links a {
-								color: #FFF;
-								font-size: 11px;
-								text-decoration: none;
-							}
-								
-								
-							
-							</style><div class="top_links">&nbsp;&nbsp;&nbsp;| &nbsp;<a href="http://www.gamersfirst.com/help.php">Support</a>&nbsp;&nbsp;| &nbsp;<a href="/register/">Join Now</a></div>  </div>
-
-  
-</div></div> <!-- /block-inner, /block -->
           <div id="join-now-redeem-code">
-			  				<a id="join_now_button" class="join-now" href="/register/index.php?lang=en" style="color: #FFF; text-decoration: none; cursor: pointer;">
+			  				<a id="join_now_button" class="join-now" href="javascript:;" style="color: #FFF; text-decoration: none; cursor: pointer;">
 					<div class="button_left purple_button_left"></div>
 					<div class="button_center purple_button_center">JOIN NOW!</div>
 					<div class="button_right purple_button_right"></div>
@@ -438,23 +545,104 @@ document.onclick = mclose;
 </script>
 <script type="text/javascript">
 		$(function() {
-			$('#marketplaceLink').click(function() {
+			
+			$('#rslink').click(function() {
 				$.post("/session-o-matic.php", {
-					resetCodeType: 'resetme'
-				}, function(response){
-					window.location = 'http://www.gamersfirst.com/marketplace/';
-				});
+					strDownload: 3 
+			     }, function(response){
+					 	  
+					 	window.location = 'http://www.gamersfirst.com/index.php?q=download';
+						
+					
+			      });
 			});
+			
+	       $('#kollink').click(function() {
+				 $.post("/session-o-matic.php", {
+					strDownload: 1 
+			      }, function(response){
+						  
+					 	window.location = 'http://www.gamersfirst.com/index.php?q=download';
+						
+			     });
+			});
+			
+			$("#m1").hover(
+				function () {
+					$("a.games").css("color", "#115390");
+					$("#arrowed").attr("src", "/themes/gamersfirst/images/arrow-rollover.jpg");
+				},
+				function () {
+					$("a.games").css("color", "#333333");
+					$("#arrowed").attr("src", "/themes/gamersfirst/images/arrow.jpg");
+					$("#games_link").hover(
+						function () {
+							$(this).css("color", "#115390");
+							$("#arrowed").attr("src", "/themes/gamersfirst/images/arrow-rollover.jpg");
+						},
+						function () {
+							$(this).css("color", "#333333");
+							$("#arrowed").attr("src", "/themes/gamersfirst/images/arrow.jpg");
+						}
+					);
+				}
+			);
+			
+			$("#m12").hover(
+				function () {
+					$("a.games2").css("color", "#115390");
+					$("#arrowed2").attr("src", "/themes/gamersfirst/images/arrow-rollover.jpg");
+				},
+				function () {
+					$("a.games2").css("color", "#333333");
+					$("#arrowed2").attr("src", "/themes/gamersfirst/images/arrow.jpg");
+					$("#games_link2").hover(
+						function () {
+							$(this).css("color", "#115390");
+							$("#arrowed2").attr("src", "/themes/gamersfirst/images/arrow-rollover.jpg");
+						},
+						function () {
+							$(this).css("color", "#333333");
+							$("#arrowed2").attr("src", "/themes/gamersfirst/images/arrow.jpg");
+						}
+					);
+				}
+			);
+			
+			$("#m13").hover(
+				function () {
+					$("a.games3").css("color", "#115390");
+					$("#arrowed3").attr("src", "/themes/gamersfirst/images/arrow-rollover.jpg");
+				},
+				function () {
+					$("a.games3").css("color", "#333333");
+					$("#arrowed3").attr("src", "/themes/gamersfirst/images/arrow.jpg");
+					$("#games_link3").hover(
+						function () {
+							$(this).css("color", "#115390");
+							$("#arrowed3").attr("src", "/themes/gamersfirst/images/arrow-rollover.jpg");
+						},
+						function () {
+							$(this).css("color", "#333333");
+							$("#arrowed3").attr("src", "/themes/gamersfirst/images/arrow.jpg");
+						}
+					);
+				}
+			);
+
+			
 		});
+		
+		
 		</script>
 <div id="block-menu-menu-gamersfirst-menu" class="block block-menu region-odd even region-count-1 count-2" style="position: absolute; z-index: 20; margin: -2px 0 0 -8px;"><div class="block-inner">
 
   
-    
+ 
   <div class="content">
       <ul class="menu">
 		<li class="leaf"><a class="main" href="http://www.gamersfirst.com/myprofile.php" title="PROFILE">PROFILE</a></li>
-		<li class="leaf leaf_arrow"><a class="main" href="javascript:;" title="GAMES" onmouseover="mopen('m1'); document.arrowed.src='/themes/gamersfirst/images/arrow-rollover.jpg'" onmouseout="mclosetime(); document.arrowed.src='/themes/gamersfirst/images/arrow.jpg'">GAMES <img name="arrowed" style="margin-bottom:1px;" src="/themes/gamersfirst/images/arrow.jpg"></a>
+		<li class="leaf leaf_arrow"><a id="games_link" class="main games" href="javascript:;" title="GAMES" onmouseover="mopen('m1'); document.arrowed.src='/themes/gamersfirst/images/arrow-rollover.jpg'" onmouseout="mclosetime(); document.arrowed.src='/themes/gamersfirst/images/arrow.jpg'">GAMES <img id="arrowed" name="arrowed" style="margin-bottom:1px;" src="/themes/gamersfirst/images/arrow.jpg"></a>
 			<div id="m1" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
 				<table cellpadding="0" cellspacing="0" border="0" style="background: url(/themes/gamersfirst/images/games-back2.jpg) repeat-x; height:120px; width:403px;margin-top:3px; >margin-top:21px; _margin-top:23px;">
 					<tbody><tr>
@@ -465,23 +653,23 @@ document.onclick = mclose;
 					</tr>
 					<tr>
 						<td width="82" class="games" align="left" valign="top">
-							<a href="http://www.gamersfirst.com/warrock/?q=en">War Rock</a>
-							<a href="http://www.gamersfirst.com/parabellum">Parabellum</a>
+							<a href="http://www.gamersfirst.com/warrock/">War Rock</a>
+							<a href="http://www.gamersfirst.com/parabellum/">Parabellum</a>
 						</td>
 						<td width="86" class="games" align="left" valign="top">
-							<a href="http://www.gamersfirst.com/gogoracer/?q=en">GoGoRacer</a>
-							<a href="http://www.gamersfirst.com/victory/?q=en">Victory</a>
+							<a href="http://www.gamersfirst.com/gogoracer/">GoGoRacer</a>
+							<a href="http://www.gamersfirst.com/victory/">Victory</a>
 						</td>
 						<td width="153" class="games" align="left" valign="top">
-							<a href="http://knightonlineworld.gamersfirst.com/index.php">Knight Online World</a>
-							<a href="http://www.gamersfirst.com/swordofthenewworld/?q=en">Sword of the New World</a>
-							<a href="http://playredstone.gamersfirst.com/index.php">Red Stone</a>
-							<a href="http://www.gamersfirst.com/runesofmagic">Runes of Magic</a>
-							<a href="http://www.gamersfirst.com/taikodom/?q=en">Taikodom</a>
+							<a href="http://www.gamersfirst.com/knightonlineworld/">Knight Online World</a>
+							<a href="http://www.gamersfirst.com/swordofthenewworld/">Sword of the New World</a>
+							
+							<a href="http://www.gamersfirst.com/runesofmagic/">Sonsuz Macera</a>
+							<a href="http://www.gamersfirst.com/taikodom/">Taikodom</a>
 						</td>
 						<td width="79" class="games" align="left" valign="top">
-							<a href="http://www.gamersfirst.com/ourworld">ourWorld</a>
-                            <a href="http://www.gamersfirst.com/lamb">LaMB</a>
+							<a href="http://www.gamersfirst.com/ourworld/">ourWorld</a>
+                            <a href="http://www.gamersfirst.com/lamb/">LaMB</a>
 						</td>
 					</tr>
 					<tr>
@@ -490,7 +678,7 @@ document.onclick = mclose;
 				</tbody></table>	
 			</div> 
 		</li>
-		<li class="leaf leaf_arrow"><a class="main" href="javascript:;" title="DOWNLOAD" onmouseover="mopen('m12'); document.arrowed12.src='/themes/gamersfirst/images/arrow-rollover.jpg';" onmouseout="mclosetime(); document.arrowed12.src='/themes/gamersfirst/images/arrow.jpg';">DOWNLOAD <img name="arrowed12" style="margin-bottom:1px;" src="/themes/gamersfirst/images/arrow.jpg"></a>
+		<li class="leaf leaf_arrow"><a id="games_link2" class="main games2" href="javascript:;" title="DOWNLOAD" onmouseover="mopen('m12'); document.arrowed12.src='/themes/gamersfirst/images/arrow-rollover.jpg';" onmouseout="mclosetime(); document.arrowed12.src='/themes/gamersfirst/images/arrow.jpg';">DOWNLOAD <img id="arrowed2" name="arrowed2" style="margin-bottom:1px;" src="/themes/gamersfirst/images/arrow.jpg"></a>
 			<div id="m12" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
 				<table cellpadding="0" cellspacing="0" border="0" style="background: url(/themes/gamersfirst/images/games-back2.jpg) repeat-x; height:120px; width:403px;margin-top:3px; >margin-top:21px; _margin-top:23px;">
 					<tbody><tr>
@@ -502,17 +690,16 @@ document.onclick = mclose;
 					<tr>
 						<td width="82" class="games" align="left" valign="top">
 							<a href="/warrock/index.php?q=download">War Rock</a>
-							<a href="/index.php?q=download">Parabellum</a>
+							<a href="/parabellum/?q=Download">Parabellum</a>
 						</td>
 						<td width="86" class="games" align="left" valign="top">
 							<a href="/index.php?q=download">GoGoRacer</a>
 							<a href="/index.php?q=download">Victory</a>
 						</td>
 						<td width="153" class="games" align="left" valign="top">
-							<a href="/index.php?q=download">Knight Online World</a>
-							<a href="/index.php?q=download">Sword of the New World</a>
-							<a href="/index.php?q=download">Red Stone</a>
-							<a href="http://www.gamersfirst.com/runesofmagic/?q=UcretsizIndir">Runes of Magic</a>
+							<a id="kollink" style="cursor:pointer">Knight Online World</a>
+							<a href="/swordofthenewworld/?q=Download">Sword of the New World</a>
+							<a href="http://www.gamersfirst.com/runesofmagic/?q=UcretsizIndir">Sonsuz Macera</a>
 							<a href="/index.php?q=download">Taikodom</a>
 						</td>
 						<td width="79" class="games" align="left" valign="top">
@@ -526,8 +713,8 @@ document.onclick = mclose;
 				</tbody></table>	
 			</div> 
 		</li>
-		<li class="leaf"><a id="marketplaceLink" class="main" href="http://www.gamersfirst.com/marketplace" title="MARKETPLACE">MARKETPLACE</a></li>
-		<li class="leaf leaf_arrow"><a class="main" href="/forums_jump.php?showforum=294&amp;setlanguage=1&amp;langid=en&amp;setskin=1&amp;skinid=4" title="FORUMS" onmouseover="mopen('m13'); document.arrowed3.src='/themes/gamersfirst/images/arrow-rollover.jpg'; " onmouseout="mclosetime();document.arrowed3.src='/themes/gamersfirst/images/arrow.jpg'; ">FORUMS <img name="arrowed3" style="margin-bottom:1px;" src="/themes/gamersfirst/images/arrow.jpg"></a>
+		<li class="leaf"><a id="marketplaceLink" class="main" href="http://www.gamersfirst.com/marketplace/" title="MARKETPLACE" style="cursor:pointer;">MARKETPLACE</a></li>
+		<li class="leaf leaf_arrow"><a id="games_link3" class="main games3" href="/forums_jump.php?showforum=294&amp;setlanguage=1&amp;langid=en&amp;setskin=1&amp;skinid=4" title="FORUMS" onmouseover="mopen('m13'); document.arrowed3.src='/themes/gamersfirst/images/arrow-rollover.jpg'; " onmouseout="mclosetime();document.arrowed3.src='/themes/gamersfirst/images/arrow.jpg'; ">FORUMS <img id="arrowed3" name="arrowed3" style="margin-bottom:1px;" src="/themes/gamersfirst/images/arrow.jpg"></a>
 			<div id="m13" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
 				<table cellpadding="0" cellspacing="0" border="0" style="background: url(/themes/gamersfirst/images/games-back2.jpg) repeat-x; height:120px; width:403px;margin-top:3px; >margin-top:21px; _margin-top:23px;">
 					<tbody><tr>
@@ -546,10 +733,9 @@ document.onclick = mclose;
 							<a href="/forums_jump.php?showforum=294&amp;setlanguage=1&amp;langid=en&amp;setskin=1&amp;skinid=4">Victory</a>
 						</td>
 						<td width="153" class="games" align="left" valign="top">
-							<a href="http://forum.knightonlineworld.com/forum_en/index.php">Knight Online World</a>
+							<a href="http://forums.gamersfirst.com/index.php?showforum=433&amp;setlanguage=1&amp;langid=en">Knight Online World</a>
 							<a href="/forums_jump.php?showforum=155&amp;setlanguage=1&amp;langid=en&amp;setskin=1&amp;skinid=11">Sword of the New World</a>
-							<a href="http://forum.playredstone.com/">Red Stone</a>
-							<a href="/forums_jump.php?showforum=322&amp;setlanguage=1&amp;langid=2&amp;setskin=1&amp;skinid=9">Runes of Magic</a>
+							<a href="/forums_jump.php?showforum=322&amp;setlanguage=1&amp;langid=2&amp;setskin=1&amp;skinid=9">Sonsuz Macera</a>
 							<a href="/forums_jump.php?showforum=294&amp;setlanguage=1&amp;langid=en&amp;setskin=1&amp;skinid=4">Taikodom</a>
 						</td>
 						<td width="79" class="games" align="left" valign="top">
@@ -571,7 +757,7 @@ document.onclick = mclose;
 <div style="height: 33px;"><br></div>          </div> <!-- /#content-top -->
         
                   <div id="content-header">
-            <div class="breadcrumb"><a href="/">Home</a> › </div>                          <h1 class="title">Privacy Policy</h1>
+            <div class="breadcrumb"><a href="/?q=en">Home</a> › </div>                          <h1 class="title">Privacy Policy</h1>
                                                           </div> <!-- /#content-header -->
         
         <div id="content-area">
@@ -584,7 +770,7 @@ document.onclick = mclose;
   <div class="content">
     <p><a name="top"></a><br>
 <b>K2 Network Online Privacy Policy</b>
-</p><p>Last updated November 30, 2007 </p>
+</p><p>Last updated April 15, 2010 </p>
 <p>Welcome to K2 Network!</p>
 <p>          <b>Our Privacy Commitment </b></p>
 <table width="850" border="0" cellpadding="0" cellspacing="0">
@@ -639,7 +825,7 @@ document.onclick = mclose;
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p>			<br></p>
 <table border="0">
 <tbody>
 <tr>
@@ -801,12 +987,28 @@ document.onclick = mclose;
 <p><strong>YOUR CALIFORNIA PRIVACY RIGHTS </strong> </p>
 <p>Since 2005,  California Civil Code Section 1798.83 permits our customers who are California residents to  request certain information regarding our disclosure of personal information to  third parties for their direct marketing purposes.&nbsp; We do not share our customer’s personal  information with unaffiliated third parties for their own direct marketing purposes.&nbsp; </p>
 <p>For inquires  regarding our disclosure policy, please send us an e-mail to <a href="mailto:privacy@k2network.net">privacy@k2network.net</a> or write us: </p>
-<p>K2  Network, Inc.<br><br>
-            Attn.: Privacy Policy  Administrator<br><br>
-            14252  Culver Dr #A355<br><br>
-            Irvine,  CA 92604<br><br>
-            1-888-225-3448<br><br>
-  <a href="mailto:privacy@k2network.net">privacy@k2network.net</a> </p>
+<table style="padding-left: 20px;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>K2  Network, Inc.</td>
+</tr>
+<tr>
+<td>Attn.: Privacy Policy  Administrator</td>
+</tr>
+<tr>
+<td>14252  Culver Dr #A355</td>
+</tr>
+<tr>
+<td>Irvine,  CA 92604</td>
+</tr>
+<tr>
+<td>1-888-225-3448</td>
+</tr>
+<tr>
+<td><a href="mailto:privacy@k2network.net">privacy@k2network.net</a></td>
+</tr>
+</tbody>
+</table>
 <p><a href="#top" style="text-decoration: underline;">back to top</a></p>
 <table>
 <tbody>
@@ -817,7 +1019,7 @@ document.onclick = mclose;
 </tr>
 </tbody>
 </table>
-<p>The security and confidentiality of your information is  extremely important to us.&nbsp; That’s why we  have technical, administrative, and physical security measures in place to  protect your personal information from unauthorized access and improper  use.&nbsp; We also review our security  procedures periodically to consider appropriate new technology and updated  methods.&nbsp; But, despite our reasonable  efforts, no security measure is ever perfect or impenetrable.</p>
+<p>The security and confidentiality of your information is  extremely important to us.&nbsp; That’s why we  have technical, administrative, and physical security measures in place to  protect your personal information from unauthorized access and improper  use.&nbsp; We also review our security  procedures periodically to consider appropriate new technology and updated  methods.&nbsp; But, despite our reasonable  efforts, no security measure is ever perfect or impenetrable.<br><br>GamersFirst .com uses 1024 bit Secure Sockets Layer (SSL) encryption technology to protect your personal information.  SSL is also used when transferring or receiving all personal sensitive information. All forms on our site are secured with SSL technology to further protect your information. These systems work together to ensure your privacy and to assist in protecting your personal data.<br><br></p>
 <p><a href="#top" style="text-decoration: underline;">back to top</a></p>
 <table>
 <tbody>
@@ -841,19 +1043,52 @@ document.onclick = mclose;
 </tbody>
 </table>
 <p>If you have questions or wish to send us comments about  this Privacy Policy, please e-mail or contact us at:</p>
-<p>K2  Network, Inc.<br><br>
-            Attn.: Privacy Policy  Administrator<br><br>
-            14252  Culver Dr #A355<br></p>
-<p>            Irvine,  CA 92604<br><br>
-            1-888-225-3448<br><br>
-  <a href="mailto:privacy@k2network.net">privacy@k2network.net</a> </p>
+<table style="padding-left: 20px;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>K2  Network, Inc.</td>
+</tr>
+<tr>
+<td>Attn.: Privacy Policy  Administrator</td>
+</tr>
+<tr>
+<td>14252  Culver Dr #A355</td>
+</tr>
+<tr>
+<td>Irvine,  CA 92604</td>
+</tr>
+<tr>
+<td> 1-888-225-3448</td>
+</tr>
+<tr>
+<td><a href="mailto:privacy@k2network.net">privacy@k2network.net</a></td>
+</tr>
+</tbody>
+</table>
 <p>Any personal information you provide to the above e-mail  and postal mail addresses will not be used to send you promotional materials,  unless you request it.</p>
 <p>K2 Network is a licensee of the ESRB’s Privacy Online  Program.&nbsp; If you believe that we have not  properly responded to your inquiry, please contact ESRB at:</p>
-<p>ESRB Privacy Online<br><br>
-          Attn: Directir, Privacy Online<br><br>
-          317 Madison Avenue, 22 Floor<br><br>
-          New York, NY 10017<br><br>
-          <a href="mailto:privacy@esrb.org">privacy@esrb.org</a> </p>
+<table style="padding-left: 20px;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>ESRB Privacy Online</td>
+</tr>
+<tr>
+<td>Attn: Director, Privacy Online</td>
+</tr>
+<tr>
+<td>317 Madison Avenue, 22 Floor</td>
+</tr>
+<tr>
+<td>New York, NY 10017</td>
+</tr>
+<tr>
+<td><a href="mailto:privacy@esrb.org">privacy@esrb.org</a></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
 <p><a href="#top" style="text-decoration: underline;">back to top</a></p>
 <table>
 <tbody>
@@ -869,27 +1104,20 @@ document.onclick = mclose;
 <table>
 <tbody>
 <tr>
-<td><a name="kidTop"></a> <span style="color: rgb(255, 255, 255);" class="style3">bisi</span></td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
 <td>
 <div id="q9"></div>
 <p><strong>K2</strong><strong> Network’s Kids Privacy Policy</strong> <strong> </strong></p></td>
 </tr>
 </tbody>
 </table>
-<p>Last updated August 13, 2007 </p>
-<p>K2 Network has developed its  websites with the goal of creating an enjoyable experience for all users.&nbsp;  This Kids Privacy Policy is designed to answer your  questions regarding our privacy policies concerning children under the age of  13. </p>
-<p><br><br>
+<p>Last updated April 15, 2010<br><br>K2 Network has developed its  websites with the goal of creating an enjoyable experience for all users.&nbsp;  This Kids Privacy Policy is designed to answer your  questions regarding our privacy policies concerning children under the age of  13.</p>
+<p>
             Building on our general  Privacy Policy, we recognize the need to provide additional privacy protections  when children visit sites on which we post this Kids Privacy Policy.&nbsp; We  explain those additional protections in this Kids Privacy Policy. </p>
-<p><br><br>
+<p>
             The Children's Online  Privacy Protection Act (“COPPA”) requires that we inform parents and legal  guardians about how we collect, use, and disclose personal information from  kids under 13 years of age.&nbsp; COPPA also requires us to obtain the consent  of parents and guardians for children under 13 years of age to use certain  features of our Web sites.&nbsp; Below we explain how we do that for  kids.&nbsp; Also, when we use the term “parent” below, we mean to include legal  guardians. </p>
-<p><br><br>
+<p>
             This certification seal shown on  this page confirms that K2 Network is a member in good standing of <a href="http://www.esrb.org/privacy/index.jsp">ESRB’s Privacy Online Program</a>.&nbsp;  ESRB’s Privacy Online Program is designed to ensure that our website’s  information disclosure practices are responsible and appropriate.&nbsp; To  protect your privacy, we have voluntarily undertaken this privacy initiative  and all of our websites have been reviewed and certified by ESRB Privacy Online  to meet established online information collection and use practices.&nbsp; As  part of this privacy program, ESRB independently audits our websites, and  administers other enforcement and accountability mechanisms.</p>
+<p>			<a name="kidTop"></a></p>
 <table border="0" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
@@ -932,7 +1160,7 @@ document.onclick = mclose;
 </tbody>
 </table>
 <p>Kids can surf K2  Network’s sites, view content, and enjoy many features without having to  disclose any personal information.&nbsp; We don’t collect personal information  from kids while they use our sites unless they register on K2 Network’s sites’ Official Forums. </p>
-<p><br><br>
+<p>
             For those who choose to register  and participate in certain areas of our website, we collect personal  information directly from kids to: </p>
 <table style="padding-left: 20px;" border="0" cellpadding="0" cellspacing="0">
 <tbody>
@@ -973,30 +1201,18 @@ document.onclick = mclose;
 </tbody>
 </table>
 <p>We may collect  demographic information (e.g., date of birth, gender, and game preferences) and  combine it with the child’s personal information.&nbsp; K2 Network will only  collect this information if it is voluntarily and properly submitted to us by  either the child or parent. </p>
-<p><br><br>
+<p>
             Note that all  commercial sites directed to children under 13 are prohibited by U.S. law from  conditioning a kid’s participation in an online activity on the kid's providing  more personal information than is reasonably necessary. </p>
-<p><br><br>
+<p>
             Some areas of our  website may offer features like electronic postcards that allow kids to submit  personal information (e.g., email address) without first disclosing their age  or obtaining verifiable parental consent.&nbsp; These areas provide services in  a way that doesn’t require prior verifiable parental consent. </p>
-<p><br><br>
+<p>
             Finally, we may collect  demographic information about kids.&nbsp; For example, if a kid participates in  a survey, we may collect those responses.&nbsp; Among them, we may collect age,  gender, hobbies, and interests or other demographic information about gaming  and preferences.&nbsp; We also use some passive technologies, including cookies  and web beacons, to monitor traffic on our websites.&nbsp; This demographic  information may be associated with a child’s personal information. </p>
 <p><a href="#kidTop" style="text-decoration: underline;">back to top</a><a href="#kidTop"></a></p>
-<table>
-<tbody>
-<tr>
-<td>
-<p class="bolditalicgreen"><strong><br>
-</strong></p><div id="q2b"><strong>How do we use and share the personally identifiable information that we collect from kids?</strong></div><strong>
-<p></p></strong><p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<p><b>How do we use and share the personally identifiable information that we collect from kids?</b></p>
 <p>If a parent allows us  to collect personal information about their kid, we may link certain  information collected through technology (see the "Information Collected  Through Technology" section of A2 of our General Privacy Policy) to that  personal information. </p>
 <p>We may use the  information that we collect from and about kids for our business purposes,  including record-keeping, transaction fulfillment, and marketing.&nbsp; The  contact information gathered from a kid is used to obtain consent to our  information collection from their parents. </p>
 <p><em>K2 Network may share kids’  personal information with outside entities hired to assist with internal  website support operations (e.g., online product fulfillment, email services,  or technical support).&nbsp; These entities have agreed to maintain  confidentiality, security, and integrity of all the personal information they  obtain from us</em>.</p>
-<p>We do not share any  information about a child with any third parties unless the disclosure is  reasonably necessary to:
-          </p>
-<p></p>
+<p>We do not share any  information about a child with any third parties unless the disclosure is  reasonably necessary to:          </p>
 <table style="padding-left: 20px;" border="0" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
@@ -1018,91 +1234,89 @@ document.onclick = mclose;
 </tbody>
 </table>
 <p><a href="#kidTop" style="text-decoration: underline;">back to top</a></p>
-<table>
-<tbody>
-<tr>
-<td>
-<p class="bolditalicgreen"><strong><br>
-</strong></p><div id="q3b"><strong>How do we notify and obtain consent from parents for the collection of personal information from their kids?</strong></div><strong>
-<p></p></strong><p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<p><b>How do we notify and obtain consent from parents for the collection of personal information from their kids?</b></p>
 <p>When a child under 13 attempts to  register at our website, the child can download and print a parental consent  form.&nbsp; Then, you, as the parent, can fill out and sign the parental  consent form and mail or fax it back to us.&nbsp; If the parent ignores or  refuses to register the child, we will delete all contact information from our  database.&nbsp; If the parent permits the registration, the child will be  granted access to the features described in the notification message. </p>
 <p><a href="#kidTop" style="text-decoration: underline;">back to top</a></p>
-<table>
+<p><b>How can parents access, change or delete personally identifiable information about their kids?</b></p>
+<p>At any time, a parent  can contact our customer service department to access, change, or delete personal  information we collected from his or her child by contacting us at: </p>
+<table style="padding-left: 20px;" border="0" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
-<td>
-<p class="bolditalicgreen"><strong><br>
-</strong></p><div id="q4b"><strong>How can parents access, change or delete personally identifiable information about their kids?</strong></div><strong>
-<p></p></strong><p></p>
-</td>
+<td>K2 Network, Inc.</td>
+</tr>
+<tr>
+<td>Attn.: Privacy Policy Administrator</td>
+</tr>
+<tr>
+<td>14252    Culver Dr. #A355</td>
+</tr>
+<tr>
+<td>Irvine, CA   92604</td>
+</tr>
+<tr>
+<td>1-888-225-3448</td>
+</tr>
+<tr>
+<td><a href="mailto:privacy@k2network.net">privacy@k2network.net</a></td>
 </tr>
 </tbody>
 </table>
-<p>At any time, a parent  can contact our customer service department to access, change, or delete personal  information we collected from his or her child by contacting us at: </p>
-<p><br><br>
-            K2 Network, Inc.<br></p>
-<p>            Attn.: Privacy Policy Administrator<br><br>
-            14252    Culver Dr. #A355 <br><br>
-            Irvine, CA   92604 <br><br>
-            1-888-225-3448<br><br>
-            <a href="mailto:privacy@k2network.net">privacy@k2network.net</a> </p>
 <p>Our representatives  will take reasonable steps to verify your identity before disclosing your  child’s information. </p>
 <p><a href="#kidTop" style="text-decoration: underline;">back to top</a></p>
-<table>
-<tbody>
-<tr>
-<td>
-<p class="bolditalicgreen"><strong><br>
-</strong></p><div id="q5b"><strong>What kinds of security measures do we take to  safeguard kid's personally identifiable information?</strong></div><strong>
-<p></p></strong><p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>We take  the security and confidentiality of kids’ information very seriously.&nbsp; We  have implemented technical, administrative, and physical security measures to  protect kids’ personal information from unauthorized access and improper  use.&nbsp; From time to time, we review our security procedures to consider  appropriate new technology and methods.&nbsp; But please understand that,  despite our best efforts, no security measure is perfect or impenetrable. </p>
+<p><b>What kinds of security measures do we take to  safeguard kid's personally identifiable information?</b></p>
+<p>We take  the security and confidentiality of kids’ information very seriously.&nbsp; We  have implemented technical, administrative, and physical security measures to  protect kids’ personal information from unauthorized access and improper  use.&nbsp; From time to time, we review our security procedures to consider  appropriate new technology and methods.&nbsp; But please understand that,  despite our best efforts, no security measure is perfect or impenetrable.<br><br>GamersFirst .com uses 1024 bit Secure Sockets Layer (SSL) encryption technology to protect your personal information.  SSL is also used when transferring or receiving all personal sensitive information. All forms on our site are secured with SSL technology to further protect your information. These systems work together to ensure your privacy and to assist in protecting your personal data.<br><br></p>
 <p><a href="#kidTop" style="text-decoration: underline;">back to top</a></p>
-<table>
-<tbody>
-<tr>
-<td>
-<p class="bolditalicgreen"><strong><br>
-</strong></p><div id="q6b"><strong>How will we notify parents if our Kids Privacy Policy changes? </strong></div><strong>
-<p></p></strong><p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<p><b>How will we notify parents if our Kids Privacy Policy changes? </b></p>
 <p>At any  time, we may amend our Kids Privacy Policy.&nbsp; We will send e-mail notice to  parents of any material changes in the way we intend to collect, use, or share  kids' personal information.&nbsp; At all times, parents should update their  personal information to provide us current e-mail addresses.&nbsp; We will  apply material changes in our Kids Privacy Policy only in conformance with  applicable law, including any applicable provisions of COPPA that require  parental consent.</p>
 <p><a href="#kidTop" style="text-decoration: underline;">back to top</a></p>
-<table>
+<p><b>Who do guests contact with questions or concerns about our Kids Privacy Policy? </b></p>
+<p>If you  have questions or wish to send us comments about this Privacy Policy, please  e-mail or contact us at:</p>
+<table style="padding-left: 20px;" border="0" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
-<td>
-<p class="bolditalicgreen"><strong><br>
-</strong></p><div id="q7b"><strong>Who do guests contact with questions or concerns about our Kids Privacy Policy? </strong></div><strong>
-<p></p></strong><p></p>
-</td>
+<td>K2 Network, Inc.</td>
+</tr>
+<tr>
+<td>Attn.: Privacy Policy Administrator</td>
+</tr>
+<tr>
+<td>14252 Culver Dr. #A355</td>
+</tr>
+<tr>
+<td>Irvine, CA   92604</td>
+</tr>
+<tr>
+<td>1-888-225-3448</td>
+</tr>
+<tr>
+<td><a href="mailto:privacy@k2network.net">privacy@k2network.net</a></td>
 </tr>
 </tbody>
 </table>
-<p>If you  have questions or wish to send us comments about this Privacy Policy, please  e-mail or contact us at:</p>
-<p>K2 Network, Inc.<br><br>
-            Attn.: Privacy Policy Administrator<br></p>
-<p>            14252 Culver Sr. #A355<br><br>
-            Irvine, CA   92604 <br><br>
-            1-888-225-3448<br><br>
-  <a href="mailto:privacy@k2network.net">privacy@k2network.net</a> </p>
 <p>Any  personal information you provide to the above e-mail and postal mail addresses  will not be used to send you promotional materials, unless you request it.</p>
 <p>K2 Network  is a licensee of the ESRB’s Privacy Online Program.&nbsp; If you believe that we have not properly  responded to your inquiry, please contact ESRB at <a href="http://www.esrb.org/privacy/contact.jsp" target="_blank">http://www.esrb.org/privacy/contact.jsp</a>:</p>
-<p>Entertainment Software Rating Board<br><br>
-            Attn.: Director, Privacy Online<br><br>
-            317 Madison Avenue, 22nd Floor<br><br>
-            New York, NY   10017 <br><br>
-  <a href="mailto:privacy@esrb.org">privacy@esrb.org</a></p>
+<table style="padding-left: 20px;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>Entertainment Software Rating Board</td>
+</tr>
+<tr>
+<td>Attn.: Director, Privacy Online</td>
+</tr>
+<tr>
+<td>317 Madison Avenue, 22nd Floor</td>
+</tr>
+<tr>
+<td>New York, NY   10017 </td>
+</tr>
+<tr>
+<td><a href="mailto:privacy@esrb.org">privacy@esrb.org</a></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
 <p><a href="#kidTop" style="text-decoration: underline;">back to top</a></p>
   </div>
 
@@ -1535,7 +1749,7 @@ document.onclick = mclose;
 												<div class="login_new_user_forgot_links">					
 													<span class="size10" style="color: #777;">New User? <a href="register/" style="color: #00E; text-decoration: underline;">Join Now !</a></span>
 													<br>
-													<span class="size10" style="color: #777;">Forgot your <a href="forgot_username.php" style="color: #00E; text-decoration: underline;">Gamer ID</a> or <a href="forgot_password.php" style="color: #00E; text-decoration: underline;">password</a>?</span>
+													<span class="size10" style="color: #777;">Forgot your <a style="color:#00E;" href="/forgot_username.php">Gamer ID</a>&nbsp;or&nbsp;<a style="color:#00E;" href="/forgot_password.php">Password</a>?</span>
 												</div>
 											</form>
 										  </div><script type="text/javascript">
@@ -1557,15 +1771,15 @@ document.onclick = mclose;
         <div id="footer">
 		<div id="footer-inner" class="region region-footer">
 		
-			<div id="block-menu-menu-footerlinks" class="block block-menu region-odd odd region-count-1 count-5"><div class="block-inner">
+			<div id="block-menu-menu-footerlinks" class="block block-menu region-odd even region-count-1 count-4"><div class="block-inner">
 
       <h2 class="title">FooterLinks</h2>
   
   <div class="content">
     <ul class="menu"><li class="leaf first"><a href="http://www.gamersfirst.com/corporate/index.php?q=connect" title="Developers">Developers</a></li>
-<li class="leaf"><a href="/?q=faq" title="FAQs">FAQs</a></li>
-<li class="leaf"><a href="/?q=terms" title="Terms of Use">Terms of Use</a></li>
-<li class="leaf active-trail"><a href="/?q=privacy" title="Privacy Policy" class="active">Privacy Policy</a></li>
+<li class="leaf"><a href="/?q=en/faq" title="FAQs">FAQs</a></li>
+<li class="leaf"><a href="/?q=en/terms" title="Terms of Use">Terms of Use</a></li>
+<li class="leaf active-trail"><a href="/?q=en/privacy" title="Privacy Policy" class="active">Privacy Policy</a></li>
 <li class="leaf"><a href="https://merchants.gamersfirst.com/" title="Merchant Center">Merchant Center</a></li>
 <li class="leaf last"><a href="http://www.gamersfirst.com/corporate/" title="">Company Info</a></li>
 </ul>  </div>
@@ -1573,7 +1787,7 @@ document.onclick = mclose;
   
 </div></div> <!-- /block-inner, /block -->
 			
-						<div id="footer-message">© 2009 GamersFirst.com, K2 Network, Inc. All rights reserved worldwide. WEB-PROD-283</div>
+						<div id="footer-message">© 2010 GamersFirst.com, K2 Network, Inc. All rights reserved worldwide.®  WEB-PROD-520</div>
 					   
 			<div id="esrbLogo" style="float: right; margin-right: 15px;"><a href="http://www.gamersfirst.com/?q=privacy"><img border="0" src="/themes/gamersfirst/images/esrb_logo.jpg"></a></div>
 			<div id="paypalLogo" style="float: right; margin-right: 10px;"><img src="/themes/gamersfirst/images/paypal_logo.jpg"></div>
@@ -1581,6 +1795,7 @@ document.onclick = mclose;
 
 		</div>
 	</div> <!-- /#footer-inner, /#footer -->
+        
     
   </div></div> <!-- /#page-inner, /#page -->
 
@@ -1598,7 +1813,25 @@ try{var pageTracker = _gat._getTracker("UA-475901-12");pageTracker._trackPagevie
 </script>
   
 <!-- Valueclick Mystery Pixel -->
-<img src="http://media.fastclick.net/w/tre?ad_id=21284;evt=13702;cat1=15466;cat2=15467" width="1" height="1">
+<script>
+if(document.location.protocol=="https:"){
+  document.write('<img src="https://secure.fastclick.net/w/tre?ad_id=21284;evt=13702;cat1=15466;cat2=15467" width="1" height="1"/>');
+} else {
+  document.write('<img src="http://media.fastclick.net/w/tre?ad_id=21284;evt=13702;cat1=15466;cat2=15467" width="1" height="1"/>');
+}
+</script><img src="https://secure.fastclick.net/w/tre?ad_id=21284;evt=13702;cat1=15466;cat2=15467" width="1" height="1">
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var firstTracker = _gat._getTracker("UA-475901-12");
+firstTracker._trackPageview();
+var secondTracker = _gat._getTracker("UA-5358594-1");
+secondTracker._trackPageview();
+</script>
 
 
 </body></html>
