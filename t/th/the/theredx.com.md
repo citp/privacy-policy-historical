@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theredx.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413022847id_/http%3A//theredx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theredx.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511215554id_/http%3A//www.theredx.com/privacy.html) for the most accurate reproduction.*
 
 # Real Estate Data X-Change (The RedX)
 
