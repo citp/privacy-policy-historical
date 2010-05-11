@@ -1,169 +1,165 @@
-> *The following text is extracted and transformed from the ticketexchangebyticketmaster.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428172930id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketexchangebyticketmaster.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511022547id_/http%3A//www.ticketmaster.com/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
 
-# NFL - Privacy Policy
+# Ticketmaster Privacy Policy. Official Ticketmaster Site.
 
-  
-Effective Date: August 16, 2001  
-Updated: November 6, 2008
+Welcome to Ticketmaster! We want you to know that protecting your personal information is very important to us, and we respect your privacy. This Privacy Policy is meant to explain how we use and protect the personal information you share with us. This Policy applies to all users of www.ticketmaster.com or our services, and to any information provided to us.
 
-This privacy policy (the “Privacy Policy”) applies to this website (the "Website"). The purpose of this Privacy Policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
+Ticketmaster is a part of the Live Nation Entertainment, Inc. family of businesses, which includes Live Nation, House of Blues, Front Line Management, and many others.
 
-The Website is operated by NFL Enterprises LLC on behalf of the National Football League and the other members of the NFL Family (as described in Section 4 below) ("we", "our", or "us"). We own the information collected via the Website and we may use it for our own purposes, including marketing.   Please note that this Privacy Policy applies only to information collected on the NFL.com website; it does not apply to any other information collected or obtained through other means or information collected by the thirty-two individual NFL member clubs (the “Member Clubs”).
+By using our website, you are accepting the practices we describe here.
 
-The National Football League (“NFL”) is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. We have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. Please read the following to learn more about our data collection policies and practices. 
+If you have any questions, please click here for information on how to contact us.
 
-If you have questions or concerns regarding this Privacy Policy, you should first contact the NFL Digital Media Group at [NFLPrivacy@nfl.com](mailto:NFLPrivacy@nfl.com).    If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
+**Content**
 
-This site complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. 
+  * What information we collect
+  * We protect your information
+  * How we use your information
+  * Sharing your information
+  * Third party websites
+  * Job applicants
+  * How you can access your information
+  * Your choices about your personal information
+  * Blogs, bulletin boards, reviews, and chat rooms
+  * Children’s privacy
+  * Visiting our website from outside the United States
+  * Changes to this Privacy Policy
+  * How to contact us
+  * Your California privacy rights
 
-When this Privacy Policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy. 
 
-1.  Types Of Information That May Be Collected
 
-2.  How Information May Be Collected
+**What information we collect**  
+When you visit our website, you provide us with two types of information: personal information that identifies you (such as your name and email address) and non-personal information (such as your IP address and browser type) that does not identify you personally, but gives us information about your computer and about your activities on our site. This information includes your IP address, your browser type, the date and time you access the site, and the website that referred you to our site. We also collect and store information from your computer using “cookies.” A cookie is a small file stored on your computer that is tied to information about you. For example, when you sign in to your My Ticketmaster account, cookies will be used to save your email address and name so the next time you visit your my Ticketmaster account from the same computer we will “remember” your email address and name in order to make your experience faster and simpler. For more information on cookies, click [here](http://www.ticketmaster.com/h/definitions.html#cookies). We may also use “web beacons,” which track your use of our website in order to provide you with more useful information and a more personalized experience the next time you visit. To learn more about web beacons, click [here](http://www.ticketmaster.com/h/definitions.html#beacons).
 
-3.  How We Use The Information Collected
+If you buy or sell a ticket or enroll in a program or special offer on our website, we will collect financial information from you (your credit card number and expiration date, billing address, etc.).
 
-4.  With Whom The Information May Be Shared
+From time to time, we also may ask you some questions about yourself (such as your interests and activities, your age, etc.) so we know how to serve you better. You don’t have to answer these questions if you’d rather not.
 
-5.  Links To Other Websites
+Finally, we also may receive information about you from third parties (such as updated delivery and address information, purchase history and additional demographic information), and we may allow third parties to display advertisements on our site. These companies may use tracking technologies, such as [cookies](http://www.ticketmaster.com/h/definitions.html#cookies), to collect information about people who view or interact with their advertisements on our site. This information allows them to deliver targeted advertisements and judge their effectiveness. We do not provide any personal information about you to these third parties.
 
-6.  Security
+Some of these third parties may be advertising networks that are members of the Network Advertising Initiative, which offers a website to opt out of ad targeting from several advertising companies ([www.networkadvertising.org](http://www.networkadvertising.org/)). 
 
-7.  Chat Rooms, Forums, and Message Boards
+**We protect your information**  
+We know it is very important to protect the information you share with us. We take appropriate security measures to help safeguard this information from unauthorized access and disclosure. For example, only authorized employees are permitted to access your personal information, and they may do so only for limited reasons. We also encrypt credit card numbers and other sensitive information before it is sent from your computer to ours. We also use firewalls to help prevent unauthorized access to your personal information.
 
-8.  A Special Note For Parents Concerning Privacy
+You should feel confident using our website. However, no system can be completely secure. Although we take very significant steps to secure your information, there is always a chance that your information will not always remain secure, and you should always take great care in handling and disclosing your personal information. For example, avoid sending personal information through insecure email. Please refer to the Federal Trade Commission’s website at <http://www.ftc.gov/bcp/menus/consumer/data.shtm> for information about how to protect yourself against identity theft.
 
-9.  Your Acceptance Of The Privacy Policy And Notification Of Changes To The Privacy Policy
+**How we use your information**  
+In general, we may use information that we collect about you in the following ways: 
 
-10.  Correcting/updating personal information
+  * to process payment for purchases or sales you make;
+  * to deliver the tickets, products and services you request; 
+  * to enroll you in programs in which you choose to participate;
+  * to manage your account and provide you with customer service; 
+  * to perform research and analyze your use of, or interest in, our products, services or content (or products, services or content offered by others on our website); 
+  * to communicate with you by e-mail, regular mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, our affiliated companies or other third parties; 
+  * to help us develop and display content and advertising tailored to your interests on our website and other websites; 
+  * to verify your eligibility and deliver prizes in connection with contests and sweepstakes; 
+  * to enforce our terms and conditions;
+  * to protect against or identify fraudulent transactions; 
+  * to generally manage our business; and 
+  * to perform other functions, which we will describe to you at the time we collect the information. 
 
-11.  Your California Privacy Rights
 
-12.  Questions About This Privacy Policy
 
-**1.          TYPES OF INFORMATION THAT MAY BE COLLECTED**
+When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world.
 
-The following are the types of information we may collect: 
+**Sharing your information**  
+We won’t share your personal information with anyone except for the situations listed below or unless we specifically inform you and give you an opportunity to opt out of our sharing your personal information.
 
-**_Information You Provide Us_**   
-In the course of using the Website, we may ask you to provide us with certain information, including contact information, such as your name, mailing address, email address, phone number, or fax number; unique identifiers, such as your user ID, or user password; demographic information, such as your date of birth or age; and financial information, such as your credit card number or similar information.
+We may share your personal information with:
 
-**_Website Usage Information_**   
-We may receive and store certain types of internet usage information whenever you visit the Website, such as your click-stream data and your IP address. See "IP Addresses and Click Stream Data" section below. 
+  * **Authorized service providers.** Our authorized service providers are companies that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analyses, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features we offer. These service providers may have access to your personal information to the extent necessary to perform their functions, but we do not allow them to share or use any of your personal information for any other purpose.
+  * **Ticketmaster affiliates.** We may share information we collect, including personal information, with Ticketmaster-owned or affiliated businesses. For a complete list of all Ticketmaster businesses, visit [www.ticketmaster.com/h/about_us.html](http://www.ticketmaster.com/h/about_us.html). Sharing information with our affiliates enables us to provide you with information about a variety of products and services that might interest you. All Ticketmaster companies comply with applicable privacy and security laws and, at a minimum, in any commercial e-mail they send to you, will give you the opportunity to choose not to receive such e-mail messages in the future. 
+  * **Business partners.** When you make a purchase or participate in a promotion, we may share your personal information with the merchants offering the products, services, promotions, contests and/or sweepstakes. We won’t share your personal information with these businesses unless you choose to participate in their offer or program. When you choose to engage in a particular offer or program, you authorize us to share your email address and other information with the relevant merchant.
+  * **Event providers.** We sell tickets on behalf of others; we don’t organize, produce or otherwise bring you events. The venues, promoters, artists’ representatives and fan clubs, teams, leagues and others who are involved in or bring you events are known as “event providers.” When you buy or sell tickets or bid in an auction on our site (or try to do these things), you consent to allow us to provide your personal information to the event providers and their contractors. We share this information so event providers can contact you about the event or other events you may be interested in.
+  * **Direct mail partners.** From time to time we may share our postal mailing list with selected providers of goods and services that may be of interest to you. If you prefer not to receive mailings from these providers, you can notify us at any time by emailing us at [legal@ticketmaster.com](mailto:legal@ticketmaster.com).
+  * **Other Situations.** We also may disclose your information: 
+    * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
+    * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies. 
+    * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. 
 
-**_Email Communications_**   
-When you open emails from us, we may receive a confirmation notifying us that you opened the email, if your computer supports such capabilities. We also may keep track of what emails we send you and what emails you may be receiving from our subsidiaries and affiliates. Additionally, we keep a record of what communications you have selected to receive or not to receive. If you would like to opt-out of receiving such emails, please click on the “unsubscribe” link in the email and follow the instructions.
 
-**_Information from Other Sources_**   
-We may receive information about you (e.g., missing street number) from other sources and add it to your personal information. 
 
-**2.          HOW INFORMATION MAY BE COLLECTED **   
-We may collect information from you in several different areas on the Website, including but not limited to those described below: 
+We may share your non-personal information in any of the above circumstances. Also, we may share aggregated non-personal information with third parties, including advisors, advertisers and investors, for general business analysis purposes. For example, we may provide our advertisers with the number of visitors to our website and the most popular features or services accessed. This information does not contain any personal information. It may be used to develop and deliver targeted advertising on our website and on websites of third parties.
 
-**_Registration_**   
-You may be asked to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Website may choose to offer, such as newsletters or contests. Your decision to register is voluntary and you will have the opportunity to decide whether or not to disclose information to us and what communications you would like to receive; however, please be advised that many products and services available on the Website require registration and if you elect not to provide such information, you will not be able to take advantage of those products and services. 
+**Third-party websites**  
+**Third parties have their own privacy policies that govern their use of your information.** There are a number of places on our website where you may click on a link to access other websites that don’t operate under this Privacy Policy. For example, if you click on an advertisement on our website, you may be taken to a website that we don’t control. These third-party websites may independently solicit and collect information, including personal information, from you. Importantly, these third parties will have their own privacy policies describing how they use and disclose your personal information. Those policies will govern the use, handling and disclosure of your personal information once you or we have shared it with those third parties. If you want to learn more about other entities’ privacy practices, please review the websites of those third parties. Privacy policies are typically located at the bottom of the webpage you are visiting.
 
-**_Contests or Sweepstakes_**   
-We periodically operate contests and sweepstakes through the Website that will require registration or the submission of personal information. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes (see the rules of each contest for details about how your personal information will be used, including postings to the Website) 
+If you have any questions about how a third party handles personal information, please contact that third party directly. 
 
-**_Surveys or Voting_**   
-From time-to-time we may request personally identifiable information from you in conjunction with a survey or voting poll. Participation is voluntary, and you will have the opportunity to decide whether or not to disclose information to the Website. At times, you may have to register to vote or to take part in a survey. 
+**Job applicants**  
+If you apply for a position with Ticketmaster and submit your personal information through our website, the information you submit will be used only in connection with considering and acting upon your application. We may retain your personal information for a period of time, but only for the purpose of considering your application for current or future available positions.
 
-**_Games_**   
-When you register to play games on our Website, you may be asked to provide personally identifiable information. 
+**How you can access your information**  
+If you have a My Ticketmaster account, you can quickly and easily review and update your personal information online by [logging into your account](https://www.ticketmaster.com/member). You can also review and update your personal information by contacting us by regular mail or email at:
 
-**_Cookies_**   
-As with many websites, the Website uses a technology called "cookies." A cookie is a collection of information that gets stored on the hard drive of your computer when browsing the Internet. These small bits of code automatically identify your browser to the Website whenever your computer is used to visit the Website. Cookies also let us know how many people visit the Website and where visitors go on the Website. In addition, cookies can let us know non-personally identifiable information, like how many times a user has been on certain pages. For registered users, cookies can make using the Website easier for you by saving information such as your passwords or preferences. By tracking how and when you use the Website, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Website are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Website. Cookies may also allow the Website to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, your browser should contain an option that allows you to disable or delete cookie data at any time. Some areas of the Website, however, may not provide you with a personalized experience if you have disabled the use of cookies. 
+Privacy Officer  
+c/o Ticketmaster Legal  
+8800 W. Sunset Blvd.   
+West Hollywood, CA 90069   
+[legal@ticketmaster.com](mailto:legal@ticketmaster.com)
 
-**_Web Beacons and Other Tracking Technology_**  
-The Website uses a variety of technical methods for tracking purposes, including Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of web sites. We also use these technical methods to analyze the traffic patterns on the Website, such as the frequency with which our users visit various parts of the Website. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We also use these technical methods in HTML e-mails that we send to determine whether the recipients have opened those e-mails and/or clicked on links in those e-mails. The information from use of these technical methods may be collected in a form that is personally identifiable. 
+If you have a My Ticketmaster account, you also may close your account at any time by contacting Ticketmaster customer service at (800) 653-8000. If you close your account, you will not be able to sign in to your account or access any of your personal information. However, you can open a new account at any time. If you close your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, take actions we think are necessary to protect the integrity of our website or to protect our users, or take other actions otherwise permitted by law. 
 
-**_IP Addresses and Click-Stream Data_**   
-We may collect IP addresses and/or click-stream data. An IP address is a number associated with the service through which you access the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses for purposes of system administration and to report aggregate information to our advertisers and sponsors, for example regarding the frequency with which our guests visit various parts of the Website. We may combine this information with personally identifiable information we obtain from you directly on the Website or any other of our other websites, or from third parties. 
+Please note that if we have already provided information about you to third parties (for example, if we’ve already sent your information to an event provider), or if you’ve given information to a third party (for example, by clicking on a website link taking you to a third party’s website, and you provided your contact information to that third party), retention of that information will be subject to those third parties’ policies. If you receive an unwanted email from a third party, you’ll have to opt-out from receiving further emails from that party itself. 
 
-Click-stream data is information collected by our computers when you request pages from the Website. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. When analyzed, this data helps us analyze how visitors arrive at the Website, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like. 
+**Your choices about your personal information**  
+You can choose not to provide us with certain information. However, that may result in your not being able to use certain features of our website because such information may be required in order to use those features. For example, in order to open a [My Ticketmaster account](https://www.ticketmaster.com/member), purchase or sell tickets, or participate in a contest, promotion or sweepstakes, your personal information will be required.
 
-**_Transaction Information_**
+At any time, you can choose to no longer receive commercial or promotional emails from us by clicking on [My Ticketmaster](https://www.ticketmaster.com/member) and following the instructions to “manage your email alerts.” You may modify your choices at any time in your My Ticketmaster account. Also, in any commercial email we send, you will be given the opportunity to opt out of receiving such messages in the future by clicking on the link at the bottom of the email that says “unsubscribe.” It may take up to 10 days for us to process an opt-out request.
 
-If you conduct a financial or other transaction with the Website, such as subscribe to services offered on the Website, we will ask you to complete an order form that will request certain information from you, including contact information, demographic information and/or financial information. In some instances, we may direct you to a third party vendor site to collect this information from you directly.  Even though the collection form may have the look and feel of [www.nfl.com](http://www.nfl.com/), please be aware you will be giving your information directly to the third party vendor.  Please reference the privacy policy available from these pages for any privacy related concerns. 
+Even if you have unsubscribed from receiving promotional emails from us, we may send you other types of important e-mail communications without offering you the opportunity to opt out of receiving them. These may include customer service announcements, administrative notices and surveys.
 
-We and/or our vendor will use this information to complete the financial or other transaction that you have requested, i.e. to deliver the information, products or other services that you request or purchase,  to invoice you, and in a manner consistent with this Privacy Policy.  For your protection, financial information  is collected and stored through encrypted means.
+Please note that changing information in your My Ticketmaster account or opting out of receiving promotional email communications will affect only future communications from us. If we already provided your information to a third party (such as an event provider) before you changed your preferences or updated your information, you may have to change your preferences directly with that third party as well.
 
-Wireless Subscription Services
+**Blogs, bulletin boards, reviews and chat rooms**  
+We may provide areas on our website where you can post information about yourself, communicate with others, post reviews or upload content (e.g. pictures, videos, audio files, etc.). Such postings are governed by our [Terms of Use](http://www.ticketmaster.com/h/terms.html), so be sure to review them before posting. In addition, keep in mind that postings may appear on other websites or when searches are conducted on search engines on the subject of your posting. 
 
-To cancel your Subscription Plan, send a text message with the text "STOP ALL" to 69635, or such other number as may be designated on the MyNFLWireless.com website, or go to the FAQ section of the Site to cancel via email. You may also contact Airborne at 1-877-247-3866 to have your subscription cancelled. The termination shall become effective at the end of the billing period in which you gave your notice of termination, meaning no further charges will be billed.   For more information regarding this specific service please visit [Airborne FAQ](http://mywireless.nfl.com/faq.php).
+Also, whenever you disclose personal information publicly (such as on publicly viewable web pages), that information becomes public and can be collected and used by others. For example, if you post your email address, you may receive unsolicited email messages. We can’t control who reads your posting or what others may do with information you voluntarily post, so we encourage you to use your discretion with respect to posting personal information.
 
-**3\. HOW WE USE THE INFORMATION COLLECTED**   
-We own the information collected on or through the Website. As applicable, the information you provide to us may be used to: 
+**Children’s privacy**  
+Our website is a general audience site, and we do not knowingly collect personal information from children under the age of 13.
 
-·   contact you about the Website; 
+**Visiting our website from outside the United States**  
+This Privacy Policy covers the collection of information on our website from U.S. residents. If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. 
 
-·   provide you with services or information you have requested or products or services you have ordered, such as subscription plans or other products and services  
+U.S. data protection and other laws may not be as comprehensive as those in your country. Please be assured that we take steps to ensure that your privacy is protected. 
 
-·  contact you relating to your membership status; 
+**Changes to this Privacy Policy**  
+We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the “last updated” date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending an e-mail to the e-mail address you most recently provided us in your account, and/or by prominently posting notice of the changes on our website. We recommend that you check our website from time to time to remain updated as to any changes in our privacy or other policies.
 
-·   confirm or fulfill an order you have made; 
+**How to contact us**  
+If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties, please contact us by e-mail or regular mail at the following address:
 
-·   inform you of a prize you may have won; 
+Privacy Officer  
+c/o Ticketmaster Legal  
+8800 W. Sunset Blvd.   
+West Hollywood, CA 90069   
+[legal@ticketmaster.com](mailto:legal@ticketmaster.com)
 
-·   monitor or improve the use of the Website; 
+**Your California Privacy Rights**  
+If you are a California resident, you have the right to request information about how we share certain categories of personal information with third parties. California law gives you the right to send us a request at a designated address to receive the following information:
 
-·   customize the advertising and content you see; 
+  1. the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year; 
+  2. the names and addresses of the third parties that received that information; and 
+  3. if the nature of the third party’s business cannot be determined from their name, examples of the products or services marketed. 
 
-·   monitor compliance with our terms and conditions of use of the Website; and 
 
-·   send you promotional material or special offers on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties. 
 
-**4.          WITH WHOM THE INFORMATION MAY BE SHARED**  
-At times, as described below, we may share your personal information with others for various purposes: 
+We may provide this information in a standard format that is not specific to you. The designated email address for these requests is [legal@ticketmaster.com](http://www.networkadvertising.org/)
 
-·   **Agents:** We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Website analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use or disclose it for other purposes, like sending you marketing offers about their products. 
+**Purchases of Events in other Countries**  
+If you are purchasing a ticket to an event in another country, the Ticketmaster privacy policy relevant to the country where the event takes place will apply to the information you have provided. Please review the applicable privacy policy here:
 
-·   **Aggregate Information:** We may share aggregate information, such as demographics and Website usage statistics, with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information. 
+Events in Canada: <http://www.ticketmaster.ca/h/privacy.html>  
+Events in Mexico: <http://www.ticketmaster.com.mx/h/privacy.html>   
+Events in Australia: [http://www.ticketmaster.com.au/h/privacy.html ](http://www.ticketmaster.com.au/h/privacy.html%20)  
+Events in New Zealand: [http://www.ticketmaster.co.nz/h/privacy.html ](http://www.ticketmaster.co.nz/h/privacy.html%20)  
+Events in United Kingdom: [http://www.ticketmaster.co.uk/legal/privacy.html ](http://www.ticketmaster.co.uk/legal/privacy.html%20)  
+Events in Ireland: <http://www.ticketmaster.ie/legal/privacy.html>
 
-·   **Opt-in to Receive Third Party Offers:** Throughout the Website you may be presented with an opportunity to receive information and/or marketing offers sent from third party(s). Opt-in opportunities will ask you if you would like your personally identifiable information to be shared with such third party(s) as necessary to receive such information or marketing offers. If you do not elect to "opt-in" to having your personally identifiable information shared, your personally identifiable information will not be shared with such third party(s). If you do choose to have your personally identifiable information shared, your personally identifiable information will be transferred to such third party(s) solely for the purpose of permitting such third party(s) to provide you with such information and marketing offers. Such third party(s) is/are not authorized by us to disclose your personally identifiable information to any other third parties. Please be advised that if you elect to provide your personally identifiable information in response to such third party(s) marketing offers or otherwise, all information you disclose to such third party(s) will be subject to the privacy policy and practices of such third party(s). We are not responsible for the privacy practices and policies of such third party(s) and, therefore, you should review the privacy practices and policies of such third party(s) prior to providing your personally identifiable information to such third party(s). 
+Thanks again for using Ticketmaster!
 
-·   **Products or Services Offered in Partnership with Third-Party(s):** Certain products and/or services available on the Website are provided to you in partnership with third party(s) and may require you to disclose personally identifiable information in order to register for and access such products and/or services. Such products and/or services shall identify the third party partners at the point of registration. If you elect to register for such products and/or services your personally identifiable information will be transferred to such third party(s) and will be subject to the privacy policy and practices of such third party(s). We are not responsible for the privacy practices and policies of such third party(s) and, therefore, you should review the privacy practices and policies of such third party(s) prior to providing your personally identifiable information in connection with such products and/or services.
-
-·   **Subsidiaries and Affiliates:** We may share your information (including, without limitation, personally identifiable information) with all members of the NFL Family, including, without limitation, our subsidiaries and affiliates (e.g., NFL Properties LLC, NFL International LLC, NFL Enterprises LLC, NFL Ventures, L.P., and NFL Ventures, Inc.), and any of the Member Clubs (each of whom has its own privacy policy, which is available on each Member Club’s respective website). 
-
-·   **Third-Party Ad Serving and Audience and Traffic Measurement Services:** We may use a third-party network advertiser to serve the advertisements on the Website or may use a traffic measurement service to analyze the traffic on the Website. Network advertisers are third parties that display advertisements based on your visits to this Website and other websites you have visited. Third-party ad serving enables us to target advertisements to you for products or websites you might be interested in. Audience and Traffic Measurement Services allow us to collect anonymous traffic and behavior information from the Website by monitoring anonymous visitor activity. Although advertisers or other companies do not have access to the Website cookies, the Website's advertisers, sponsors and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Cookies allow third-party advertisers to show you advertisements or content you might be interested in. Note that any images (or any other parts of a web page) served by third parties in association with third-party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Other companies' uses of their cookies are subject to their own privacy policies, not this one. Please [ click here](http://www.networkadvertising.org/optout_nonppii.asp) in order to learn more about the information collection practices and "opt-out" procedures of third-party ad servers we may use. 
-
-·  **Business Transfers:** In the event that all or substantially all of our assets are sold or transferred to another party, or another transaction occurs in which your personally identifiable information is one of the business assets transferred, all personally identifiable information that has been collected and saved may be one of the business assets we transfer. You will be notified of such a transfer in accordance with the "Changes to the Policy" section below. 
-
-·   **Administrative or Legal Process:** We or others may disclose your personal information to third parties without notice to you in order to comply with applicable law, law enforcement agencies, to protect our or third parties’ rights, or to protect the rights of other users of the Website. 
-
-**5.          LINKS TO OTHER WEBSITES**   
-You should be aware that when you are on the Website you could be directed to other websites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Website onto a different website. This includes links from advertisers, sponsors and marketing partners that may use the Website's logo as part of a co-branding agreement. These other websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a website that is linked to the Website, you should consult that website's privacy policy before providing any personal information. 
-
-**6.          SECURITY**   
-The Website incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Your personally identifiable information is transferred to our computers utilizing encryption software. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required. 
-
-**7.          CHAT ROOMS, FORUMS, AND MESSAGE BOARDS**
-
-  
-The Website may make chat rooms, forums and message boards available to you and other users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas. 
-
-**8.          A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY**  
-The Website is a general audience website. On the Website, we do not currently knowingly collect any personal information from children under the age of thirteen. If, in the future, we collect personally identifiable information from children on the Website, we will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.) including, without limitation, obtaining necessary parental consent. For more information about the privacy practices for our affiliated website, NFLRush.com, which is directed to children, please consult the privacy policy at that website.
-
-The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit the [Direct Marketing Association's website](http://www.the-dma.org/) and explore the Get CyberSavvy! Program as well as the [GetNetWise website](http://www.getnetwise.org/) to learn more about parental control tools. 
-
-**9.          YOUR ACCEPTANCE OF THE PRIVACY POLICY AND NOTIFICATION OF CHANGES TO THE PRIVACY POLICY**   
-By using the Website, you signify your agreement to the terms of this Privacy Policy. We may amend this Privacy Policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a notice on the Website and / or send an email to users who have provided an email address. We will assume that you have given your permission for your information to be used under the terms of the Privacy Policy, as modified, if you do not respond to our email within thirty days or continue to use the Website thirty days after a notice is posted. Please note that you should always update your personal information to provide us with a current email address. 
-
-**10.        CORRECTING/UPDATING PERSONAL INFORMATION**   
-If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to have access to the Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. You may request that we do so by emailing us at [NFLPrivacy@nfl.com](mailto:NFLPrivacy@nfl.com), signing into your online account and making the desired changes, _[](mailto:)_or via mail at: NFL.com user information, 280 Park Avenue, New York, NY 10017. We will respond to your request within 20 business days.
-
-**11.        YOUR CALIFORNIA PRIVACY RIGHTS**   
-California Civil Code Section 1798.83 permits customers of the National Football League who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [CAPrivacyRights@nfl.com](mailto:CAPrivacyRights@nfl.com) or write us at CA Privacy Rights, NFL Digital Media Group, 280 Park Avenue, New York, NY 10017\. 
-
-If you have any questions about this Privacy Policy or our privacy practices, contact NFLPrivacy@nfl.com. 
-
-**12.        QUESTIONS ABOUT THIS PRIVACY POLICY**   
-If you have any questions about this Privacy Policy or the privacy practices of this Website, please contact us by email at [NFLPrivacy@nfl.com](mailto:NFLPrivacy@nfl.com) or:  
-NFL Digital Media Group  
-280 Park Avenue, 15th Floor  
-New York, NY 10017  
-Attn: Website Privacy Policy
+© Ticketmaster 2009. All rights reserved. 
