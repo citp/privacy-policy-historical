@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyupload.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111102135id_/http%3A//www.moneyupload.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyupload.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511214613id_/http%3A//www.moneyupload.com/policy.php) for the most accurate reproduction.*
 
 # Register for getting Free Download File Hosting Free Upload Free File Sharing, Register to be rich
 
