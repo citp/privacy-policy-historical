@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lavalife.ca privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110103237id_/http%3A//www.lavalife.ca/singles/trusted/privacy%3Flocale%3Den_CA%26context%3Danrr%26a%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavalife.ca privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511084551id_/http%3A//www.lavalife.ca/singles/trusted/privacy%3Flocale%3Den_CA%26context%3Danrr%26a%3D0) for the most accurate reproduction.*
 
 # Online adult dating service and personals - Lavalife - Where Singles Click.
 
 **Lavalife Privacy Statement**
 
-THIS AGREEMENT WAS LAST UPDATED ON NOVEMBER 23, 2005. 
+THIS AGREEMENT WAS LAST UPDATED ON AUGUST 13, 2009. 
 
 Lavalife is firmly committed to privacy. The following discloses our information gathering and dissemination practices for this website, including the Lavalife®, Manline® and Womanline™ communities. 
 
