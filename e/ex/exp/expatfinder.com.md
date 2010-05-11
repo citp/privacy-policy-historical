@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatfinder.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109144728id_/http%3A//www.expatfinder.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatfinder.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511192232id_/http%3A//www.expatfinder.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
