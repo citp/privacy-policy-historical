@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the ticketmaster.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106111310id_/http%3A//www.ticketmaster.com/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511022547id_/http%3A//www.ticketmaster.com/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
 
-# Ticketmaster - Help
+# Ticketmaster Privacy Policy. Official Ticketmaster Site.
 
 Welcome to Ticketmaster! We want you to know that protecting your personal information is very important to us, and we respect your privacy. This Privacy Policy is meant to explain how we use and protect the personal information you share with us. This Policy applies to all users of www.ticketmaster.com or our services, and to any information provided to us.
+
+Ticketmaster is a part of the Live Nation Entertainment, Inc. family of businesses, which includes Live Nation, House of Blues, Front Line Management, and many others.
 
 By using our website, you are accepting the practices we describe here.
 
