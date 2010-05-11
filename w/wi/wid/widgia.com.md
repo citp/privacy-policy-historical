@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the widgia.com privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110133136id_/http%3A//widgia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the widgia.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511171346id_/http%3A//widgia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | widget
 
