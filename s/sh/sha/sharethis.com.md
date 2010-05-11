@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sharethis.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202022121id_/http%3A//sharethis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharethis.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511065247id_/http%3A//sharethis.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ShareThis
+# Sharing Widget, Sharing Button, Sharing Plugin - ShareThis Privacy Policy
 
 Welcome to ShareThis, the next wave in sharing services and applications where you can stay in touch with your friends and share your web favorites with your friends. We take your privacy seriously; therefore, below we provide you with our privacy policy, where we intend to be transparent about any information we collect, how we intend to use it to your benefit, and what choices you have when you register with us and use ShareThis. Here are our commitments to you:
 
@@ -67,7 +67,7 @@ We reserve the right to transfer your personal information in the event of a tra
 
 ### Security
 
-We take steps to help protect your personal information. We require password protection physical, electronic, and procedural safeguards to protect personal information about you. We limit access to personal information about you to employees and authorized who need to know that information in order to operate, develop or improve our services. Please remember that no technological environment is completely secure and we cannot guarantee the confidentiality of any communication or material transmitted or posted on ShareThis or any other website over the Internet. If you have any other questions about the security of our website, please contact us at [privacy@sharethis.com](mailto:privacy@sharethis.com).
+We take steps to help protect your personal information. We require password protection physical, electronic, and procedural safeguards to protect personal information about you. We limit access to personal information about you to employees and authorized who need to know that information in order to operate, develop or improve our services. Please remember that no technological environment is completely secure and we cannot guarantee the confidentiality of any communication or material transmitted or posted on ShareThis or any other website over the Internet. If you have any other questions about the security of our website, please contact us at [privacy@sharethis.com](mailto:%70%72%69%76%61%63%79@%73%68%61%72%65%74%68%69%73.%63%6f%6d).
 
 ### Changes in Privacy Policy
 
@@ -75,13 +75,13 @@ From time to time we may update this Privacy Policy and will post a notice of an
 
 ### Canceling Your Account
 
-You always have the option to cancel your account with us at any time. Simply sign in to the site and click on the 'My Account' at the top of the page; then select ‘deactivate account’ and follow the simple instructions. You may request to have your registration account information removed by submitting a request to privacy@sharethis.com. We will act on your request as promptly as possible.
+You always have the option to cancel your account with us at any time. Simply sign in to the site and click on the 'My Account' at the top of the page; click on 'Edit Profile' then select ‘Deactivate Account’ and follow the simple instructions. You may request to have your registration account information removed by submitting a request to privacy@sharethis.com. We will act on your request as promptly as possible.
 
 ### How to Contact Us
 
 If you have any questions or concerns about ShareThis’ Privacy Policy or its implementation, or if you believe there are inaccuracies in your account information you may contact us as follows: By email:
 
-[privacy@sharethis.com](mailto:privacy@sharethis.com)
+[privacy@sharethis.com](mailto:%70%72%69%76%61%63%79@%73%68%61%72%65%74%68%69%73.%63%6f%6d)
 
 By mail:
 
