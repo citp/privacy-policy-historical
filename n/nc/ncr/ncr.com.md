@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncr.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107203635id_/http%3A//www.ncr.com/utility/privacy_policy/ncr_privacy_policy.jsp%3Flang%3DEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncr.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511062931id_/http%3A//www.ncr.com/utility/privacy_policy/ncr_privacy_policy.jsp%3Flang%3DEN) for the most accurate reproduction.*
 
 # NCR Privacy Policy
 
