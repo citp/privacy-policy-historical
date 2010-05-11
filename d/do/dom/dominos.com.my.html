@@ -1,0 +1,475 @@
+<!--The following is the downloaded HTML source of the dominos.com.my privacy policy that was archived on 2010-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100511074142id_/http%3A//www.dominos.com.my/frmPrivacy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
+	Domino's Pizza Malaysia - Privacy
+</title><link href="App_Theme/MainCommon.css" rel="stylesheet" type="text/css"><link href="App_Theme/Common.css" rel="stylesheet" type="text/css"><link href="App_Theme/PopUp.css" rel="stylesheet" type="text/css">
+    
+    <!--[if IE 6]>
+    <link href="App_Theme/MainCommonIE6.css" rel="stylesheet" type="text/css" /><link href="App_Theme/CommonIE6.css" rel="stylesheet" type="text/css" /><link href="App_Theme/PopUpIE6.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    
+    <link id="ctl00_linkPath" href="App_Theme/Layer.css" rel="stylesheet" type="text/css">         
+        
+    <script src="App_Scripts/Menu.js" type="text/javascript"></script>  
+    <script src="App_Scripts/ImageDisplay.js" type="text/javascript"></script>    
+    <script src="App_Scripts/Layer.js" type="text/javascript"></script>
+    
+    <link rel="shortcut icon" href="Images/logo.ico" type="image/x-icon"><link rel="icon" href="Images/logo.ico" type="image/x-icon">
+    
+<script type="text/javascript">
+document.getElementById('ctl00_linkPath').href = 'App_Theme/Layer.css';
+     
+function alertUser()
+{ 
+    var answer=alert("Your session has expired."); 
+    document.location = "frmLogout.aspx";    
+} 
+
+function disableBackButton()
+{
+    window.history.forward()
+}  
+disableBackButton();  
+
+window.onpageshow=function(evt) { if(evt.persisted) disableBackButton() }  
+window.onunload=function() { void(0) }  
+
+
+
+function addMFullListQty(id)
+{
+    var temp = document.getElementById ("txtMFullListQty" + id);
+    if(Number(temp.innerHTML)<9)
+    {    
+        temp.innerHTML = Number(temp.innerHTML) + 1;
+    }
+    var temp1 = document.getElementById ('hdnMFullListQty_');
+    var qty = document.getElementById (temp1.value);
+    qty.value = temp.innerHTML;
+}
+
+function minusMFullListQty(id)
+{
+    var temp = document.getElementById ("txtMFullListQty" + id);
+    if(Number(temp.innerHTML)>1)
+    {
+        temp.innerHTML = Number(temp.innerHTML) - 1;
+    }
+    var temp1 = document.getElementById ('hdnMFullListQty_');
+    var qty = document.getElementById (temp1.value);
+    qty.value = temp.innerHTML;
+}
+
+function changeMFullListQty(woiID)
+{
+    var temp1 = document.getElementById ('hdnMFullListQty_');
+    var temp2 = document.getElementById ('hdnMFullListWoiID_');
+    var temp3 = document.getElementById ('hdnMFullListAction_');
+    var txtQty = document.getElementById (temp1.value);
+    var txtWoiID = document.getElementById (temp2.value);
+    var txtTempQty = document.getElementById ('txtMFullListQty' + woiID);
+    txtQty.value = txtTempQty.innerHTML;
+    txtWoiID.value = woiID;
+    
+    var tmp = document.getElementById (temp3.value);
+    tmp.value = 'L';
+    __doPostBack('btnRefresh','');
+    //document.forms[0].submit();
+}
+
+function openForm()
+{
+    window.open ('popup_help.aspx','windowname1','width=600, height=600, top=0, left=0');
+}
+
+function submitPage()
+{
+    if (document.getElementById ('ctl00_hdnOrderID').value == '')
+    {
+        tmp.value = 'R';
+        __doPostBack('btnRefresh','');
+        //document.forms[0].submit();
+    }
+}
+
+function addToFav() {     
+    if(window.sidebar)
+    { 
+        window.sidebar.addPanel(document.title, this.location,""); 
+    } 
+
+    else    
+    { 
+        window.external.AddFavorite(this.location,document.title); 
+    } 
+}    
+
+function showOrderList()
+{
+    document.getElementById('ctl00_hdnShowOrderList').value = 'Y';
+    __doPostBack('btnRefresh','');
+    //document.forms[0].submit();
+    
+}     
+
+function popHelp(part)
+{
+    window.open ('popup_orderhelp.aspx#' + part,'windowname1','width=600, height=600, top=0, left=600');
+}
+//-->  
+
+</script>
+
+
+</head>
+<body onload="MM_preloadImages('images/icon1.on.png','images/icon2_on.png','images/icon3_on.png','images/icon4_on.png','images/icon5_on.png')">
+
+    <input type="button" id="btnRefresh" style="display:none;">
+    <form name="aspnetForm" method="post" action="frmPrivacy.aspx" id="aspnetForm" disabled="disabled"><input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIxMzYyNTMwMzAPZBYCZg9kFgICAQ9kFgYCAw9kFgJmD2QWDgIUDw8WAh4ISW1hZ2VVcmwFHmltYWdlcy9idXR0b25zX21lbnVfc2lnbnVwLnBuZ2RkAiAPZBYEAg0PDxYCHgRUZXh0BRRXZWxjb21lIFF1aWNrIExvZ2luLmRkAhEPDxYCHwEFzAFQbGVhc2UgdGFrZSBub3RlIHRoYXQgeW91IHdpbGwgYmUgdGhlIGRlZmF1bHQgYWRkcmVzcyB3aWxsIGJlIHVzZSBmb3IgeW91ciBkZWxpdmVyeSBhcyB5b3VyIGRlc3RpbmF0aW9uICsgZGVsaXZlcnkgdGltaW5nIHdpbGwgYmUgdGFrZW4gYXMgb3JkZXIgbm93IHByb3ZpZGVkIHRoZSBjdXJyZW50IHRpbWUgYXJlIHdpdGhpbiBvdXIgb3BlcmF0aW9uIGhvdXJkZAIiDxYCHgdFbmFibGVkZ2QCKg8PFgIeB1Zpc2libGVoZGQCLA8WAh8CaGQCLg8PFgIfA2hkZAIwDxYCHwJoZAIHDw8WAh8DaGRkAggPDxYCHwNoZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFhIFE2N0bDAwJGJ0blF1aWNrT3JkZXIFEWN0bDAwJGJ0bk9yZGVyTm93BQ1jdGwwMCRidG5NYWluBQ1jdGwwMCRidG5NZW51BQ5jdGwwMCRidG5Qcm9tbwUOY3RsMDAkYnRuU3RvcmUFDWN0bDAwJGJ0bkpvaW4FDWN0bDAwJGJ0blNpZ24FDmN0bDAwJGJ0bkNsb3NlBRVjdGwwMCRidG5Ob3JtYWxTdWJtaXQFHWN0bDAwJGJ0bk5vcm1hbEZvcmdvdFBhc3N3b3JkBRdjdGwwMCRidG5QYXNzd29yZENhbmNlbAUXY3RsMDAkYnRuUGFzc3dvcmRTdWJtaXQFE2N0bDAwJGJ0blF1aWNrQ2xvc2UFFGN0bDAwJGJ0blF1aWNrU3VibWl0BRxjdGwwMCRidG5RdWlja0ZvcmdvdFBhc3N3b3JkBRxjdGwwMCRidG5RdWlja1Bhc3N3b3JkQ2FuY2VsBRxjdGwwMCRidG5RdWlja1Bhc3N3b3JkU3VibWl0">
+<div>
+
+</div>
+
+
+<script src="/ScriptResource.axd?d=eV8ZLrMlBqu36PpfxgbV0ExPspf6TKoUxlJZLI00acEuLu81UkfiafHXFdtzMDmqOYnhMe5CzLYeKbDX75__gpAed30fzewVgttD7V-YSJY1&amp;t=fffffffff9bd69d7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=1aftOUn2saUNNA_gDpSOfxlOYHYRX_AR64I1ZkPOz9Vnt2Gt3ZNp0ywC-a81c2qPhl0ndvxbVCo-kogRuR2kwQ2&amp;t=ffffffffdaff4acb" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=1aftOUn2saUNNA_gDpSOfxlOYHYRX_AR64I1ZkPOz9Xp7Hbo1xD3f7MyZSyHt0uy4hCxTW6wWg0MhlufeR74WqCHG8ZipN6JoHa37LLQxyA1&amp;t=ffffffffdaff4acb" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=1aftOUn2saUNNA_gDpSOfxlOYHYRX_AR64I1ZkPOz9UmaAhvWx9DPQo-bhb4ghTcdElesjdNrxm2Rz_6ha_jIf6oWjFLYB6CfmMPhVTuf8xMYLXRU2bQ8GwqYl_AmBXh0&amp;t=ffffffffdaff4acb" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=1aftOUn2saUNNA_gDpSOfxlOYHYRX_AR64I1ZkPOz9XOUGY-qqKKnIsThnHaXRCObx5Bryz_J5v2w4K6u8-CjA2&amp;t=ffffffffdaff4acb" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=1aftOUn2saUNNA_gDpSOfxlOYHYRX_AR64I1ZkPOz9VHWghZUo_DD4LW5uinDJgVM0luptiKrkh7UAwyR9U16jXjsRwVZruN_i--immcYKg1&amp;t=ffffffffdaff4acb" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=1aftOUn2saUNNA_gDpSOfxlOYHYRX_AR64I1ZkPOz9VcTriMMPlkF7E2EZJGf1ddOEDRwiFkaJcYtY9-5kjstfwDtAIrsz3zaqtZjala-YPFqB_Ru62D5Yfwv-12XoiD0&amp;t=ffffffffdaff4acb" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=1aftOUn2saUNNA_gDpSOfxlOYHYRX_AR64I1ZkPOz9XEdOKB1nHRM7lBkan3twM-V1h4-fVYXV6ib_-8gD7LPR64iYthwoJaywOJQh30lf81&amp;t=ffffffffdaff4acb" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=1aftOUn2saUNNA_gDpSOfxlOYHYRX_AR64I1ZkPOz9X6sndC47A_jesUumJ3l9DJcI6mefBwIt2y5JS_ZRFhjaZps9jeAh4ZPw1WvRkwm5U1&amp;t=ffffffffdaff4acb" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=1aftOUn2saUNNA_gDpSOfxlOYHYRX_AR64I1ZkPOz9UDuqF9VD8cz8og-hQ2JKNnvZ60fkE09Vldr9UGu3l_uTX-bNKd3RBBBnmNsUKWbZ81&amp;t=ffffffffdaff4acb" type="text/javascript"></script>
+    
+             
+    <center>
+    
+
+    <div class="body_background">
+        <div class="body_container">
+ 
+        
+	        <div class="header">
+            	
+                <div class="header_logo">
+  		            
+                </div>
+                <div id="ctl00_UpdatePanel1">
+	     
+                <div class="header_quickOrder">          
+                                  
+                    
+                    
+                    <input type="image" name="ctl00$btnQuickOrder" id="ctl00_btnQuickOrder" src="images/header_quickorder.gif" alt="Quick Order - (Operation Hour : 11am - 11pm or Click on ORDER NOW button of advance ordering)" align="absmiddle" style="border-style:None;height:125px;width:157px;border-width:0px;"><input type="image" name="ctl00$btnOrderNow" id="ctl00_btnOrderNow" src="images/header_ordernow.gif" align="absmiddle" style="border-style:None;height:125px;width:116px;border-width:0px;">       
+                    
+                    
+                </div>
+                
+                <div class="header_navi">
+                    <img src="images/empty.png" alt="" width="90" height="20" border="0">
+                    <input type="image" name="ctl00$btnMain" id="ctl00_btnMain" src="images/buttons_menu_main.png" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnMain&quot;, &quot;&quot;, false, &quot;&quot;, &quot;Default.aspx&quot;, false, false))" style="height:20px;border-width:0px;">
+                    <img src="images/empty.png" alt="" width="10" height="20" border="0">
+                    <input type="image" name="ctl00$btnMenu" id="ctl00_btnMenu" src="images/buttons_menu_menu.png" style="height:20px;border-width:0px;">
+                    <img src="images/empty.png" alt="" width="10" height="20" border="0">
+                    <input type="image" name="ctl00$btnPromo" id="ctl00_btnPromo" src="images/buttons_menu_promotions.png" style="height:20px;border-width:0px;">
+                    <img src="images/empty.png" alt="" width="80" height="20" border="0">
+                    <input type="image" name="ctl00$btnStore" id="ctl00_btnStore" src="images/buttons_menu_ourstores.png" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnStore&quot;, &quot;&quot;, false, &quot;&quot;, &quot;frmStoreLocation.aspx&quot;, false, false))" style="height:20px;border-width:0px;">
+                    <img src="images/empty.png" alt="" width="0" height="20" border="0">
+                    <input type="image" name="ctl00$btnJoin" id="ctl00_btnJoin" src="images/buttons_menu_aboutus.png" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnJoin&quot;, &quot;&quot;, false, &quot;&quot;, &quot;frmAboutUs.aspx&quot;, false, false))" style="height:20px;border-width:0px;">
+                    <img src="images/empty.png" alt="" width="0" height="20" border="0">
+                    
+                    <input type="image" name="ctl00$btnSign" id="ctl00_btnSign" src="images/buttons_menu_signup.png" style="height:20px;border-width:0px;">            
+                    
+                </div>
+                   <div style="text-align:left;">
+                       <div class="HideModalPopUp">
+                        <div id="ctl00_pnlNormalLoginPopup">
+		
+                            <div class="login_container">
+                                <div class="popup_close">
+                                    <input type="image" name="ctl00$btnClose" id="ctl00_btnClose" src="images/popup_close.png" alt="Close" style="height:24px;width:29px;border-width:0px;">
+                                </div>
+                                <div class="login_form2">
+                                <input name="ctl00$txtNormalUsername" type="text" id="ctl00_txtNormalUsername" class="popup_form_text">&nbsp;<br><br><input name="ctl00$txtNormalPassword" type="password" id="ctl00_txtNormalPassword" class="popup_form_text">&nbsp;</div>
+	                            <div class="login_buttons2">
+                                <input type="image" name="ctl00$btnNormalSubmit" id="ctl00_btnNormalSubmit" title="Login" src="images/popup_login.png" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnNormalSubmit&quot;, &quot;&quot;, true, &quot;normallogin&quot;, &quot;&quot;, false, false))" style="border-width:0px;">&nbsp;&nbsp;<input type="image" name="ctl00$btnNormalForgotPassword" id="ctl00_btnNormalForgotPassword" border="0" src="images/popup_forgot.png" style="height:24px;width:150px;border-width:0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="frmUserRegistration1.aspx"><img src="images/popup_register.png" name="Image4" width="100" height="24" border="0" id="Image4"></a></div> 
+                                <div style="font-family: Arial; font-size:8px; color: Red; padding-left: 20px; margin-top: 0px; width: 300px; position:absolute; "><span id="ctl00_lblNormalLoginError" class="popup_errormessage"></span></div> 
+                            
+                            
+                            </div>        
+                        
+	</div>     
+                        
+                    </div>
+                    <div class="HideModalPopUp">
+                    <div id="ctl00_pnlPassword">
+		
+                                    <div class="password_container">
+                                        <div class="popup_close">
+                                            <input type="image" name="ctl00$btnPasswordCancel" id="ctl00_btnPasswordCancel" src="images/popup_close.png" style="border-width:0px;">
+                                        </div> 
+                                        <div></div>
+                                        <div style="padding-top: 130px; padding-left: 25px; #padding-left: 0px; ">
+                                        <table>
+                                        <tbody><tr>
+                                            <td style="vertical-align:middle; text-align:right;"><input name="ctl00$txtPasswordEmail" type="text" id="ctl00_txtPasswordEmail" class="content_mid_dropdownmenu" style="width:150px;">&nbsp;</td>
+                                            <td style="vertical-align:middle "><input type="image" name="ctl00$btnPasswordSubmit" id="ctl00_btnPasswordSubmit" src="images/btn_submit.png" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnPasswordSubmit&quot;, &quot;&quot;, true, &quot;forgotpassword&quot;, &quot;&quot;, false, false))" style="border-width:0px;"><span id="ctl00_lblPasswordError" style="color: Red; font-size: 9px; font-family: Arial ;"></span></td>                            
+                                        </tr>
+                                        </tbody></table>
+                                        </div>
+                                    </div>
+                                
+	</div> 
+                                <input type="hidden" name="ctl00$tmp1" id="ctl00_tmp1">
+                                 
+                                </div>
+                      <div class="HideModalPopUp">
+                        <div id="ctl00_pnlQuickLoginPopup" style="height:180px;width:400px;">
+		
+                            <div class="quicklogin_container">
+                                <div class="popup_close">
+                                    <input type="image" name="ctl00$btnQuickClose" id="ctl00_btnQuickClose" src="images/popup_close.png" alt="Close" style="height:24px;width:29px;border-width:0px;">
+                                </div>
+                                <div class="login_form2">
+                                <input name="ctl00$txtQuickUsername" type="text" id="ctl00_txtQuickUsername" class="popup_form_text2">&nbsp;<br><br><input name="ctl00$txtQuickPassword" type="password" id="ctl00_txtQuickPassword" class="popup_form_text2">&nbsp;</div>
+	                            <div class="login_buttons2">
+                                <input type="image" name="ctl00$btnQuickSubmit" id="ctl00_btnQuickSubmit" title="Login" src="images/popup_login.png" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnQuickSubmit&quot;, &quot;&quot;, true, &quot;fastlogin&quot;, &quot;&quot;, false, false))" style="border-width:0px;"> <input type="image" name="ctl00$btnQuickForgotPassword" id="ctl00_btnQuickForgotPassword" border="0" src="images/popup_forgot.png" style="height:24px;width:150px;border-width:0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="frmUserRegistration1.aspx"><img src="images/popup_register.png" name="Image4" width="100" height="24" border="0" id="Img1"></a></div> 
+                                 
+                                
+                                
+                                
+                                
+                            </div>    
+                                        
+                        
+	</div>                 
+                    
+                    </div> 
+                    <div class="HideModalPopUp">
+                    <div id="ctl00_pnlQuickPassword">
+		
+                                    <div class="password_container">
+                                        <div class="popup_close">
+                                            <input type="image" name="ctl00$btnQuickPasswordCancel" id="ctl00_btnQuickPasswordCancel" src="images/popup_close.png" style="border-width:0px;">
+                                        </div> 
+                                        <div></div>
+                                        <div style="padding-top: 130px; padding-left: 25px; #padding-left: 0px; ">
+                                        <table>
+                                        <tbody><tr>
+                                            <td style="vertical-align:middle; text-align:right;"><input name="ctl00$txtQuickEmail" type="text" id="ctl00_txtQuickEmail" class="content_mid_dropdownmenu" style="width:150px;">&nbsp;</td>
+                                            <td style="vertical-align:middle "><input type="image" name="ctl00$btnQuickPasswordSubmit" id="ctl00_btnQuickPasswordSubmit" src="images/btn_submit.png" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnQuickPasswordSubmit&quot;, &quot;&quot;, true, &quot;forgotpassword2&quot;, &quot;&quot;, false, false))" style="border-width:0px;"><span id="ctl00_lblQuickPasswordError" style="color: Red; font-size: 9px; font-family: Arial ;"></span></td>                            
+                                        </tr>
+                                        </tbody></table>
+                                        </div>
+                                    </div>
+                                
+	</div> 
+                                <input type="hidden" name="ctl00$tmp2" id="ctl00_tmp2">
+                                 
+                                
+                      </div>          
+                      <div class="HideModalPopUp">
+                                    
+                    
+                            
+                    </div> 
+                    
+                    
+                        <div class="HideModalPopUp">
+                              
+                        
+                            
+                        </div> 
+                    </div>
+                
+</div>     
+            </div>
+            
+            
+<div class="content_container">
+    
+	    <div class="content_top">
+            <div class="content_top_container">
+                <div class="content_top_flexiIcon"><img src="images/privacy_01.png" width="128" height="39" border="0" align="absmiddle"></div>
+          </div>
+        </div>
+        
+    	<div class="content_mid_unlimited" style="height:300px;">
+            <div class="content_mid_dropdown"><img src="images/privacy_title.png" width="287" height="34" border="0" align="absmiddle">            </div>
+          <table cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                <td class="iframe_2column_left_special">
+    		<img src="images/privacy_left.png" width="375" height="113">            
+          </td> 
+    		    <td class="iframe_2column_right">
+            <div id="ctl00_ContentPlaceHolder1_pnlAboutUs" style="height:290px;width:580px;overflow-y:scroll;">
+	
+   	      <div class="iframe_2column_right_privacy" style="text-align:left;">   	      
+   	      <p class="static_header">PRIVACY POLICY</p> 
+   	        <p>Domino's Pizza Malaysia Pte Ltd ("Domino's") acknowledges and respects the privacy of individuals. This policy covers the personal information that Domino's and its franchisees hold and sets out the way in which Domino's and its franchisees will use, manage and protect your personal information when you visit any of our websites, or place an order with one of our stores.</p>
+        <p>Domino's may revise this policy from time to time whenever necessary so check this website regularly to stay informed of any updates. This policy is effective as from December 2009.</p>
+        <p class="static_subject">How Do We Collect Information?</p>
+        <p>Domino's may collect personal information from you including your first and last name, address, telephone and mobile number(s), email address, credit card details and any other information, when you knowingly provide us with this information. This will generally occur when you either:</p>
+        
+        <img src="images/dot.png">visit our web sites;<br>
+        <img src="images/dot.png">enter into a competition or promotion;<br>
+        <img src="images/dot.png">participate in a survey;<br>
+        <img src="images/dot.png">subscribe to our mailing list;<br>
+        <img src="images/dot.png">register as an emember;<br>
+        <img src="images/dot.png">apply for a job;<br>
+        <img src="images/dot.png">submit website feedback; or<br>
+        <img src="images/dot.png">place a pizza order via store or via our internet system.<br>
+        
+        <p>Where Domino's collects personal information about you from someone else, Domino's will take reasonable steps to advise you.</p>
+        <p class="static_subject">How Do We Use Information?</p>
+        <p>Domino's may use the personal information that you submit to store and process that information in order to provide goods and services. Generally, we may use your personal information in the ways in which you would expect, including but not limited, to any of the following purposes:</p>
+        <img src="images/dot.png">to process any job application you may submit;<br>
+        <img src="images/dot.png">to provide you with any company information you may request;<br>
+        <img src="images/dot.png">to process any online ordering;<br>
+        <img src="images/dot.png">to determine the number of visitors to our websites and conduct reviews of our sites;<br>
+        <img src="images/dot.png">to fulfil prizes, awards and purchases;<br>
+        <img src="images/dot.png">to respond to specific requests from visitors;<br>
+        <img src="images/dot.png">to keep you informed about any changes to our websites;<br>
+        <img src="images/dot.png">to conduct marketing research; and<br>
+        <img src="images/dot.png">to now and again send you offers or information on products or services that we consider will be of interest to you.<br>
+        
+        <p>Further information on how we use your personal information when using our Internet ordering system.</p>
+        <p>When using the Domino's Pizza internet ordering system additional information is collected when you order a pizza online. This information assists in the delivery to your door and to verify your credit card payment. The internet order system also stores information about your order to help you remember and re-order the same menu in future. </p>
+        <p class="iframe_2column_right_privacy_line"></p>
+        <a name="ecoupons"><p class="static_subject">ECoupons</p></a>
+        Domino’s ecoupon to be redeemed via Domino's Pizza Internet order system. Go to the 'Online Order' page, select the 'Online e-Coupon' button, and select your e-coupon. This information is then processed by Domino's Pizza in order to verify and provide your discount.<br>
+        <p class="iframe_2column_right_privacy_line"></p>
+        <p><a name="third"></a></p><p class="static_subject">Third Party Disclosure</p>
+        <p>  Domino's may share statistics and personal information with companies that are related to Domino's including our international branches.</p> 
+        <p>Personal information that you submit to Domino's may be disclosed to a third party:</p>
+        <img src="images/dot.png">Such as our suppliers who are employed to provide some of our services such as mailing houses;<br>
+        <img src="images/dot.png">to meet the purpose for which it was submitted;<br>
+        <img src="images/dot.png">if you have provided your express consent to share the information;<br>
+        <img src="images/dot.png">if Domino's are required or authorised by law to disclose the information;<br>
+        <img src="images/dot.png">if your personal information is collected in connection with a joint promoter, to that joint promoter for marketing and research purposes;<br>
+        <img src="images/dot.png">if Domino's feel you might like to know about a third party's goods and services we may supply that personal information to that third party. (We know that many of our customers enjoy receiving these excellent offers); or<br>
+        <img src="images/dot.png">if you place an order via our internet order system, your details will be passed on to Verisign, who receive your credit card details for internet order payment. Verisign is a secure internet payment gateway that secures your credit card number during transmission. See: www.verisign.com for further details.<br>
+        
+        <p class="iframe_2column_right_privacy_line"></p>
+        <a name="access"></a><p class="static_subject">Access, Accuracy and Security</p>
+        <p>Domino's will take reasonable steps to ensure that the personal information collected is accurate, complete and up-to-date.</p>
+        <p>You can access and request correction of any personal information concerning you at any time. You may also request that your personal information be deleted at any time. Any such requests should be made directly by contacting us (see "Contact Us" section below).</p>
+        <p>Domino's will take reasonable steps to protect personal information from misuse, loss and unauthorised access, modification or disclosure.<br>
+          </p><p class="iframe_2column_right_privacy_line"></p>
+        <a name="sensitive"></a><p class="static_subject">Sensitive Information</p>
+        <p>Domino's will not collect, use or disclose sensitive information (such as information about racial or ethnic origins or political or religious beliefs) except with your specific consent or in the circumstances permitted in the Malaysian privacy laws or any other related laws in Malaysia.<br>
+        </p><p class="iframe_2column_right_privacy_line"></p>
+        <a name="clickstream"></a><p class="static_subject">Clickstream Data</p>
+        <p>Each time you visit the Domino's site our server collects some anonymous information, known as click-stream data, including the type of browser and system you are using; the address of the site you have come from and move to after your visit; the date and time of your visit; and your server's IP address.</p>
+        <p>Domino's may collect this information for statistical purposes to find out how the websites is used and navigated, including the number of hits, the frequency and duration of visits, most popular session times. Domino's may use this information to evaluate and improve the Domino's websites.<br></p>
+    		
+        </div>
+        
+</div>
+        </td> 
+        </tr> 
+        </tbody></table> 
+        </div>
+        
+       <div class="content_bot">
+    </div>
+    </div>
+    
+
+            
+            <div class="footer" style="position:relative; margin-top: 0px; float: left;">
+                <div class="footer_copy">
+                    <ul style="">
+                        <li class="footer_li">
+                        <a href="frmAboutUs.aspx">ABOUT US</a> | <a href="frmJoinUs.aspx">JOIN US</a> | <a href="frmContactUs.aspx">CONTACT US</a> | <a href="frmTerms.aspx">TERMS OF USE</a> | <a href="frmPrivacy.aspx">PRIVACY</a> 
+                        </li>
+                        <li class="footer_li2"><script>if(window.external) {document.write('<a href="javascript:addToFav()">BOOKMARK THIS SITE!!</a>');} else {document.write('<div>Bookmark (Ctrl+D)</div>');}</script><a href="javascript:addToFav()">BOOKMARK THIS SITE!!</a></li>
+                        <li class="footer_li2" style="">BEST VIEWED WITH INTERNET EXPLORER 7 OR FIREFOX 3 AND ABOVE </li>
+                        <li class="footer_li2">COPYRIGHT 2009 BY DOMINO'S PIZZA MALAYSIA SDN BHD. ALL RIGHTS RESERVED.</li>
+                        <li class="footer_li2"><b style="font-size: 12px;">Operation Hours : 11am - 11pm</b></li>
+                    </ul>
+                </div>
+                
+                <div class="footer_icons">
+        <a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','images/icon1_on.gif',1)"><img src="images/icon1_off.gif" name="Image8" width="45" height="80" border="0" id="Image8" alt="Safe, Friendly, Free Delivery. Absolutely no extra charge!" title="Safe, Friendly, Free Delivery. Absolutely no extra charge!"></a><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','images/icon2_on.gif',1)"><img src="images/icon2_off.gif" name="Image9" width="45" height="80" border="0" id="Image9" alt="Domino’s guarantees that if you are not satisfied with your pizza order, we will replace it or refund your money. Guaranteed." title="Domino’s guarantees that if you are not satisfied with your pizza order, we will replace it or refund your money. Terms Apply."></a><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','images/icon3_on.gif',1)"><img src="images/icon3_off.gif" name="Image10" width="45" height="80" border="0" id="Image10" alt="Domino’s guarantees hot, oven fresh pizzas delivered to your doorstep within 30 minutes, or you’ll receive a free regular pizza voucher. Terms Apply" title="Domino’s guarantees hot, oven fresh pizzas delivered to your doorstep within 30 minutes, or you’ll receive a free regular pizza voucher. Terms Apply"></a><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','images/icon4_on.gif',1)"><img src="images/icon4_off.gif" name="Image11" width="45" height="80" border="0" id="Image11"></a><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image12','','images/icon5_on.gif',1)"><img src="images/icon5_off.gif" name="Image12" width="50" height="80" border="0" id="Image12"></a></div>                 
+            </div>  
+            
+            
+                
+            
+               
+            
+        </div>
+    </div>
+    
+    </center> 
+    
+    
+    
+  
+    <input type="hidden" name="ctl00$hdnShowOrderList" id="ctl00_hdnShowOrderList">
+    <input type="hidden" name="ctl00$btnDivertLoginPopup" id="ctl00_btnDivertLoginPopup">    
+    <input type="hidden" name="ctl00$hdnSourceType" id="ctl00_hdnSourceType">
+    <input type="hidden" name="ctl00$hdnPromoID" id="ctl00_hdnPromoID">
+    
+    <input type="hidden" name="ctl00$hdnUserID" id="ctl00_hdnUserID">
+    <input type="hidden" name="ctl00$hdnUserName" id="ctl00_hdnUserName">
+    <input type="hidden" name="ctl00$hdnOrderID" id="ctl00_hdnOrderID">
+    <input type="hidden" name="ctl00$hdnCurrency" id="ctl00_hdnCurrency">
+    
+    <input type="hidden" name="ctl00$hdnMFullListQty" id="ctl00_hdnMFullListQty" value="1">
+    <input type="hidden" name="ctl00$hdnMFullListWoiID" id="ctl00_hdnMFullListWoiID">
+    <input type="hidden" name="ctl00$hdnMFullListAction" id="ctl00_hdnMFullListAction">
+    
+    <input type="hidden" id="hdnMFullListQty_" value="ctl00_hdnMFullListQty">
+    <input type="hidden" id="hdnMFullListWoiID_" value="ctl00_hdnMFullListWoiID">
+    <input type="hidden" id="hdnMFullListAction_" value="ctl00_hdnMFullListAction">    
+    
+    <input type="hidden" name="ctl00$hdnStoreID" id="ctl00_hdnStoreID">
+    
+<div>
+
+	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="EA7QYm_0PiDiiyWcxCOLPf7tBAaurPFkbjusd-50pj81">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"popup_background","CancelControlID":"ctl00_btnClose","PopupControlID":"ctl00_pnlNormalLoginPopup","dynamicServicePath":"/frmPrivacy.aspx","id":"ctl00_mpeNormalLoginPopup"}, null, null, $get("ctl00_btnOrderNow"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"popup_background","CancelControlID":"ctl00_btnPasswordCancel","PopupControlID":"ctl00_pnlPassword","dynamicServicePath":"/frmPrivacy.aspx","id":"ctl00_mpePassword"}, null, null, $get("ctl00_tmp1"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"popup_background","CancelControlID":"ctl00_btnQuickClose","PopupControlID":"ctl00_pnlQuickLoginPopup","dynamicServicePath":"/frmPrivacy.aspx","id":"ctl00_mpeQuickLoginPopup"}, null, null, $get("ctl00_btnQuickOrder"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"popup_background","CancelControlID":"ctl00_btnQuickPasswordCancel","PopupControlID":"ctl00_pnlQuickPassword","dynamicServicePath":"/frmPrivacy.aspx","id":"ctl00_mpeQuickPassword"}, null, null, $get("ctl00_tmp2"));
+});
+//]]>
+</script>
+</form>
+
+<script language="javascript">
+    
+    
+    timeout();
+    function timeout() {
+        {
+            if (document.getElementById ('ctl00_hdnOrderID').value == '')
+            {
+            }
+            else
+            {
+            setTimeout("alertUser()", 19 * 60 * 1000);
+            }
+        }
+    } 
+   
+    document.getElementById("aspnetForm").disabled = false; 
+</script>
+
+</body></html>
