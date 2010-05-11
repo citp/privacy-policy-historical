@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the 7reach.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228165548id_/http%3A//www.7reach.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7reach.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511201917id_/http%3A//www.7reach.com/privacy_policy.php) for the most accurate reproduction.*
 
-# :: Welcome to 7reach.com ::
+# 7reach.com - Privacy Policy
 
-** PRIVACY POLICY**  
-**7REACH MEDIA, LLC, and each of its related web sites (�7Reach Media�) Privacy Policy**  
-Last updated January 14, 2009.
+PRIVACY POLICY 
 
-This Privacy Policy outlines important information regarding the use and disclosure of information collected via this Website.  7Reach Media provides this Privacy Policy to help users make an informed decision as to whether to use or continue using the Website.
+7REACH MEDIA, LLC, and each of its related web sites (�7Reach Media�) Privacy Policy Last updated January 14, 2009. 
+
+This Privacy Policy outlines important information regarding the use and disclosure of information collected via this Website. 7Reach Media provides this Privacy Policy to help users make an informed decision as to whether to use or continue using the Website.
 
 PLEASE NOTE: OUR PRIVACY POLICY CHANGES FROM TIME TO TIME AND CHANGES ARE EFFECTIVE UPON POSTING. PLEASE CHECK BACK FREQUENTLY FOR UPDATES AS IT IS YOUR SOLE RESPONSIBILITY TO BE AWARE OF CHANGES. 7REACH MEDIA DOES NOT PROVIDE NOTICES OF CHANGES IN ANY MANNER OTHER THAN BY POSTING THE CHANGES AT THIS WEB SITE. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY PLEASE DO NOT PROVIDE ANY INFORMATION TO 7REACH MEDIA OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEB SITES REFERRED IN THIS PRIVACY POLICY.
 
-This Privacy Policy applies to 7Reach Media�s collection, use, storage and disclosure of information by 7Reach Media on its (a) websites, including all its divisions, subsidiaries and related companies (collectively, the �Website�), (b) on various third party websites, and (c) to 7Reach Media�s other information collection, including the purchase of customer lists from third parties. 7Reach Media is not responsible for the information collection or privacy practices of third web sites or applications.  
-By reference, this Privacy Policy is incorporated into and is subject to the Website Terms of Use. Your use of the Website and any personal information you provide via the Website or through other official 7Reach Media contact remains subject to this Privacy Policy, as well as the Terms of Use and/or other stated policies.
+This Privacy Policy applies to 7Reach Media�s collection, use, storage and disclosure of information by 7Reach Media on its (a) websites, including all its divisions, subsidiaries and related companies (collectively, the �Website�), (b) on various third party websites, and (c) to 7Reach Media�s other information collection, including the purchase of customer lists from third parties. 7Reach Media is not responsible for the information collection or privacy practices of third web sites or applications. By reference, this Privacy Policy is incorporated into and is subject to the Website Terms of Use. Your use of the Website and any personal information you provide via the Website or through other official 7Reach Media contact remains subject to this Privacy Policy, as well as the Terms of Use and/or other stated policies.
 
 **1\. Collection of Information.**  
 **1.1 Survey Information.**  
@@ -25,11 +24,11 @@ Other occasions when 7Reach Media obtains information from individuals include (
 
 **1.4 Cookies, Web Beacons, and Other Info Collected Using Technology.**  
 7Reach Media currently uses cookie and web beacon technology to associate certain Internet-related information about an individual with information about the individual in our database. Additionally, 7Reach Media may use other new and evolving sources of information in the future (together, �Technology Information�).  
-**(a) Cookies.   **A cookie is a small amount of data stored on the hard drive of the individual's computer that allows 7Reach Media to identify the individual with his or her corresponding data that resides in 7Reach Media�s database. You may read more about cookies at 
+(a) Cookies. A cookie is a small amount of data stored on the hard drive of the individual's computer that allows 7Reach Media to identify the individual with his or her corresponding data that resides in 7Reach Media�s database. You may read more about cookies at [http://cookiecentral.com](http://www.mediabreakaway.com/www./cookiecentral.com). Individuals who use the Website need to accept cookies in order to use all of the features and functionality of the Website.
 
-[ http://cookiecentral.com](http://www.mediabreakaway.com/www./cookiecentral.com). Individuals who use the Website need to accept cookies in order to use all of the features and functionality of the Website.  
-**(b) Web Beacons.   **A web beacon is programming code that can be used to display an image on a web page (by using an <img src=�x�> programming function -- see http://truste.org for more information), but can also be used to transfer an individual's unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database. This allows 7Reach Media to track certain web sites an individual visits online. Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes. For example, 7Reach Media might place, with the consent of a Third Party website, a web beacon on the Third Party's website where baseball products are sold. When Joe, an individual listed in 7Reach Media�s database, visits the fishing website, 7Reach Media receives notice by means of the web beacon that Joe visited the baseball site, and 7Reach Media would then update Joe's profile with the information that Joe is interested in baseball. 7Reach Media may thereafter present offers of baseball related products and services to Joe. In addition to using web beacons on web pages, 7Reach Media also uses web beacons in email messages sent to individuals listed in 7Reach Media�s database.  
-**(c) New Technology.   **The use of technology on the Internet, including cookies and web beacons, is rapidly evolving, as is 7Reach Media�s use of new and evolving technology. As a result, 7Reach Media strongly encourages individuals to revisit this policy for any updates regarding its use of technology.
+(b) Web Beacons. A web beacon is programming code that can be used to display an image on a web page (by using an  programming function -- see http://truste.org for more information), but can also be used to transfer an individual's unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database. This allows 7Reach Media to track certain web sites an individual visits online. Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes. For example, 7Reach Media might place, with the consent of a Third Party website, a web beacon on the Third Party's website where baseball products are sold. When Joe, an individual listed in 7Reach Media�s database, visits the fishing website, 7Reach Media receives notice by means of the web beacon that Joe visited the baseball site, and 7Reach Media would then update Joe's profile with the information that Joe is interested in baseball. 7Reach Media may thereafter present offers of baseball related products and services to Joe. In addition to using web beacons on web pages, 7Reach Media also uses web beacons in email messages sent to individuals listed in 7Reach Media�s database.
+
+(c) New Technology. The use of technology on the Internet, including cookies and web beacons, is rapidly evolving, as is 7Reach Media�s use of new and evolving technology. As a result, 7Reach Media strongly encourages individuals to revisit this policy for any updates regarding its use of technology.
 
 **1.5 Outside Information.**  
 7Reach Media may receive information about individuals from Third Parties or from other sources of information outside of 7Reach Media including information located in public databases (�Outside Information�).
@@ -60,10 +59,10 @@ In certain commercial email messages sent by 7Reach Media, an advertiser's name 
 7Reach Media uses Individual Information to target advertising to an individual. When an individual is using the Internet, 7Reach Media uses Technology Information (see also Section 2.5 below) to associate an individual with that person's Individual Information, and 7Reach Media attempts to show advertising for products and services in which the person has expressed an interest in the Surveys, indicated an interest by means of Technology Information, and otherwise. 7Reach Media may, at its discretion, target advertising by using email, direct mail, telephones, cell phones, and other means of communication to provide promotional offers.
 
 **2.4 Direct Mail and Telemarketing.**  
-7Reach Media uses Individual Information to advertise, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones and cell phones. 
+7Reach Media uses Individual Information to advertise, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones and cell phones. 
 
-** 2.5  Mobile Phone SMS Messaging.**  
-In certain cases, when requested by an individual, a Third Party may use Individual Information to provide customized content and advertising via SMS messaging to an individual�s cell phone.  7Reach Media is not responsible for the privacy practices or the content of such Third Parties. 
+**2.5 Mobile Phone SMS Messaging.**  
+In certain cases, when requested by an individual, a Third Party may use Individual Information to provide customized content and advertising via SMS messaging to an individual�s cell phone. 7Reach Media is not responsible for the privacy practices or the content of such Third Parties. 
 
 **2.6 Use of Technology Information.**  
 7Reach Media uses Technology Information (1) to match a person's Survey Information and Third Party List Information to other categories of Individual Information to make and improve profiles of individuals, (2) to track a person's online browsing habits on the Internet, (3) to determine which areas of 7Reach Media�s web sites are most frequently visited. This information helps 7Reach Media to better understand the online habits of individuals so that 7Reach Media can target advertising and promotions to them.
@@ -71,7 +70,7 @@ In certain cases, when requested by an individual, a Third Party may use Individ
 **2.7 Profiles of Individuals.**  
 7Reach Media uses Individual Information to make a profile of an individual. A profile can be created by combining Survey Information and Third Party List Information with other sources of Individual Information such as information obtained from public databases.
 
-**2.8 Storage of Individual Information**.  
+**2.8 Storage of Individual Information.**  
 7Reach Media stores the Individual Information in a database on 7Reach Media computers. Our computers have security measures (such as a firewall) in place to protect against the loss, misuse, and alteration of the information under 7Reach Media�s control. Not withstanding such measures, 7Reach Media cannot guarantee that its security measures will prevent 7Reach Media computers from being illegally accessed, and the Individual Information on them stolen or altered.
 
 **3\. Dissemination of Individual Information.**  
@@ -98,25 +97,21 @@ Advertising agencies, advertising networks, and other companies (together, �Ad
 The Website and email messages sometimes contain hypertext links to the web sites of Third Parties. 7Reach Media is not responsible for the privacy practices or the content of such other web sites. Linked web sites may contain links to web sites maintained by Third Parties. Such links are provided for your convenience and reference only. 7Reach Media does not operate or control in any respect any information, software, products or services available on such Third Party web sites. The inclusion of a link to a web site does not imply any endorsement of the services or the site, its contents, or its sponsoring organization.
 
 **4.3 Affiliated Companies.**  
-7Reach Media may disclose, transfer, and sell Individual Information to entities affiliated with 7Reach Media in 7Reach Media�s discretion.  Should 7Reach Media be subject to an acquisition, merger, sale or other change of control or business entity status, 7Reach Media reserves the right to transfer or assign the Information collected from the Website.  
+7Reach Media may disclose, transfer, and sell Individual Information to entities affiliated with 7Reach Media in 7Reach Media�s discretion. Should 7Reach Media be subject to an acquisition, merger, sale or other change of control or business entity status, 7Reach Media reserves the right to transfer or assign the Information collected from the Website. 
 
-  
-**5.          Individuals Outside of the United States.      **   
-Anyone using the Website outside of the United States acknowledges that personal information will be collected and stored by 7Reach Media in the United States.  By using the Website, you consent to the transfer of information to and/or storage of information outside of your country and in the United States. 
+**5.Individuals Outside of the United States.**   
+Anyone using the Website outside of the United States acknowledges that personal information will be collected and stored by 7Reach Media in the United States. By using the Website, you consent to the transfer of information to and/or storage of information outside of your country and in the United States.
 
 **6\. Unsubscribe Procedures.**  
-**6,1** If you wish to discontinue receiving email messages from 7Reach Media, you have several options:
+**6.1 If you wish to discontinue receiving email messages from 7Reach Media, you have several options:**
 
-  1. ** Unsubscribe from one email list.   ** To unsubscribe from a particular list, either (1) send an email to  [ remove@7reach.com](mailto:remove@7reach.com) or (2) follow the instructions in each promotional email message sent by 7Reach Media. 
-  2. ** Unsubscribe from all of 7Reach Media's email lists.**  
-We reserve the right to add Individual Information to multiple lists maintained by 7Reach Media. To globally unsubscribe from all of 7Reach Media�s lists, send an email to  [ remove@7reach.com](mailto:remove@7reach.com) .
+**1\. Unsubscribe from one email list.** To unsubscribe from a particular list, either (1) send an email to [remove@7reach.com](mailto:remove@7reach.com) or (2) follow the instructions in each promotional email message sent by 7Reach Media.  
+**2\. Unsubscribe from all of 7Reach Media's email lists.**  
+We reserve the right to add Individual Information to multiple lists maintained by 7Reach Media. To globally unsubscribe from all of 7Reach Media�s lists, send an email to [remove@7reach.com](mailto:remove@7reach.com) .
 
+**1\. Unsubscribe from a particular SMS messaging campaign.**
 
-    1. ** Unsubscribe from a particular SMS messaging campaign.**
+To unsubscribe from a particular SMS messaging campaign on a cell phone, send �STOP�, �END�, or �QUIT� to the SMS message received by the individual. In addition, other methods to unsubscribe may be set forth on the website at which the individual signed up for the SMS messaging campaign.   
+**For more information about protecting your privacy, you may wish to visit:[www.ftc.gov.](http://www.ftc.gov/)**
 
-
-
-To unsubscribe from a particular SMS messaging campaign on a cell phone, send �STOP�, �END�, or �QUIT� to the SMS message received by the individual.  In addition, other methods to unsubscribe may be set forth on the website at which the individual signed up for the SMS messaging campaign.    
-**For more information about protecting your privacy, you may wish to visit:** [ ** www.ftc.gov**](http://www.ftc.gov/) **.   **
-
-** If you have questions about this policy, please contact us at  ** [ ** legal@7reach.com**](mailto:legal@7reach.com) ****
+**If you have questions about this policy, please contact us at[ legal@7reach.com](mailto:legal@7reach.com)**
