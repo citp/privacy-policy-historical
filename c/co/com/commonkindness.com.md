@@ -1,0 +1,72 @@
+> *The following text is extracted and transformed from the commonkindness.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511090315id_/http%3A//www.commonkindness.com/more/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy - CommonKindness.com
+
+CommonKindness - Saves you money and supports your favorite charities and causes - at no cost to you!
+
+## Privacy Policy
+
+At CommonKindness Inc. (“CommonKindness”), we share your concerns about privacy while using our services (collectively, the “Services”). Accordingly, we want you to understand what types of information we are collecting and what may happen to that information. This Privacy Policy details how we safeguard the privacy of our on-line users and does not apply to information that may be collected by us off-line. This Privacy Policy is incorporated into and is subject to our Terms of Use. Your use of the Services and any information collected from you in connection with your use of the Services remains subject to the terms of this Privacy Policy and our Terms of Use.
+
+WHAT YOU WILL FIND IN THIS PRIVACY POLICY 
+
+How we collect information about you  
+How we use or share information about you  
+How we safeguard information about you  
+Other matters related to the information we collect about you
+
+ COLLECTION OF INFORMATION
+
+Information is collected at several different points in connection with use of the Services.  In general, information is collected in connection with the purchase of goods or services though our partners or on-line stores, surveys, newsletters, user registrations for accounts, products, services, warranties or contests, on-line applications offered through the Services such as games, chat tools or message boards, and complaints or third party communications we may receive regarding our users.
+
+In connection with using some features of the Services, you will need to provide us with various information, which may in some cases be provided to us through third party services or websites.  We will use and retain any information provided by third parties and you hereby expressly agree and approve of our use and retention of such information, in accordance with this Privacy Policy and our Terms of Use.
+
+To use some features of the Services, you may be required to complete additional registration processes with us. During these registration processes, you may be required to provide certain categories of information, which may include name, address, e-mail address and password information. 
+
+At various other points during your use of the Services, you may be asked to provide information about yourself. For example, you may wish to participate in a survey or a contest. Participation in surveys or contests or the use of other services which require the input of additional information is completely voluntary on your part, and you have the choice about whether to disclose the information necessary to use these features of the Services.  Users purchasing products or services through our on-line stores or partners will be required to provide additional information such as a valid credit card number, expiration date, and shipping and billing addresses.   
+In addition to the information which you actively provide to us by methods such as completing the registration form, we collect information about how you interact with the Services. We collect passive information for purposes such as testing and improving a user's experience with the Services and the compilation of broad aggregate demographic data and related usage information for internal purposes and for disclosure to third parties such as advertisers and content partners. The types of passive information collected by us include, without limitation, your email address, which type of browser you are using to access the Services, where you go when using the Services and your behavior when using the Services. 
+
+When using the Services, you may sometimes by delivered (or "served") certain content, such as advertisements, directly from third parties. These third parties automatically receive your IP address when this happens. These third parties may also cause your computer to download cookies, a small text file containing a string of alphanumeric characters that uniquely identifies your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their content and to personalize the content they display to you. Doing this allows advertising networks, for example, to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. We do not have access to or control of the cookies or other technologies that may be placed by various third parties. Third parties have no access to your contact information stored with us unless you choose or have chosen to share it with them.    
+When you use the Services, we may send one or more cookies to your computer that uniquely identifies your computer. We use both session cookies and persistent cookies. A persistent cookie remains after you complete using the Services for a particular session. Persistent cookies may be accessed on subsequent uses of the Services. Typically, persistent cookies can be removed by following the help file directions for your web browser, for example. Session cookie are generally temporary and disappears after a session closes. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Services may not function properly if the ability to accept cookies is disabled.  This Privacy Policy covers the use of cookies and tracking technologies by CommonKindness and does not cover the use of cookies or other tracking technologies by any third parties. 
+
+Collection of Information from Children 
+
+CommonKindness abides by federal law and the guidelines set up by the Federal Trade Commission regarding youth privacy (Children's Online Privacy Protection Act). As such, we will not knowingly collect any personal information from or allow the registration of young people under the age of 13.
+
+USE / SHARING OF INFORMATION 
+
+We may use your information in order to deliver products and services to you and to customize the Services to your interests and enhance your overall experience with the Services. We try to recognize you using various methods, including having you log in with a user name and password or through information provided by third parties. Once we recognize you advertisements and other content may be customized for you so that you can see what interests you the most. In addition, as described above, we utilize passive information to learn more about how you interact with the Services. This passive information may be combined with other information for purposes such as testing and improving your experience using the Services and the compilation of broad aggregate demographic data and related usage information for internal purposes and for disclosure to third parties such as advertisers and content partners. This aggregate passive information does not contain any personal information which can identify any individual user.    
+We may use your contact information periodically in order to send you e-mail regarding updates to the Services and to alert you or remind you of happenings related to the Services. The frequency of these messages will vary depending upon various factors.
+
+We will not knowingly sell, share, rent or otherwise transfer your information other than in accordance with the terms set forth in this Privacy Policy.  CommonKindness is not in the business of selling, renting or leasing its customer lists to third parties.  However, CommonKindness reserves the right to share your personal information with trusted partners.  We also share your personal information with agents and service providers who use such information only on our behalf and for our purposes under confidentiality agreements.  CommonKindness may also disclose your personal information as required by law or in the interest of protecting or exercising our legal rights (e.g., without limitation, in connection with requests from law enforcement officials and in connection with court proceedings).  We may share or transfer your information in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business.  Also, we reserve the right to fully use and disclose any information collected via your use of the CommonKindness Services that is not in personally identifiable form. If you give your permission to allow third parties to contact you, personal information about you (such as your contact information and other information collected during your use of the Services) may be shared with data aggregators, marketers (possibly in the form of list rental), and other organizations. Regardless of your decision regarding the sharing of your personal information, we may share broad aggregate demographic data and related usage information with our business partners. This aggregate information does not contain any personal information which can identify any individual user. 
+
+From time to time, we may decide that it is more efficient to use third parties to perform specific services, such as sending communications to our users. If we use a third party to provide specific services (such as sending communications to our users on our behalf), then information (such as contact information) may be shared with that party to the extent necessary for the third party to provide these services. These third party service providers are only allowed to use personally identifiable information for the purpose of providing the specific services requested by us. The third party services covered by this paragraph do not include third party websites or services liked to or otherwise accessible through the Services, which are governed by a more specific provision below.
+
+While we strive to protect the personal information of our users, we will release personal information if required by law or in the good-faith belief that such action is necessary or appropriate. 
+
+The Services may also include features such as message boards or chat tools, where users can exchange information and ideas and communicate with one another. When using a message board or chat tool, please be aware that the information is being made publicly available on-line and any user does so at his or her own risk. 
+
+SECURITY 
+
+We have security measures in place to help protect against the loss, misuse and/or unauthorized alteration of the information under our control. You are the only user authorized to update your account information, unless you provide any of your password information to another party. 
+
+We utilize both online and offline security methods, including firewalls, passwords and restricted physical access to the places where your information is stored to help protect personally identifiable information. Our staff is trained to comply with our security procedures, and our security procedures are regularly reviewed and revised, if necessary, by our privacy team.   
+If you have any questions about security issues with the Services, please use our contact form and we will try to answer your questions. 
+
+OPT-OUT
+
+In connection with certain promotions, joint campaigns with selected partners or other projects, we may ask you specifically whether you have objections against a certain kind of data use or sharing.  If you opt-out under such circumstances, we will respect your decision.  To opt-out of receiving further commercial e-mails, or to unsubscribe from certain CommonKindness Services, you may do so by e-mailing us at Privacy@CommonKindness.  Please note that our affiliates and any other data recipients have their own data privacy policies, which may differ from ours and you would have to contact them separately with respect to such requests. 
+
+OTHER PROVISIONS
+
+The Services are hosted in the United States and is intended for and directed to users in the United States. If you are a user accessing the Services from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Services, which is governed by U.S. law, this Privacy Policy, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer. 
+
+Your use of the Services indicates an acceptance of the terms of the Privacy Policy. We reserve the right to update or amend this Privacy Policy at any time.
+
+In the event that we sell, assign or transfer some or all of our business to a successor or acquirer, we may sell, assign or transfer all of your information, regardless of your opt status, to such successor or acquirer. 
+
+The Services may allow access or contain links to other third party websites, applications, products, services or content. Please be aware that we do not exercise control over the information, applications, products, services, content or policies of third parties accessible through the Services. We encourage our users to be aware when they leave the Services and to read the privacy policies of each and every third party that may be providing websites, applications or content linked or accessible through the Services. This Privacy Policy applies solely to the information collected by us on-line through the Services. 
+
+The State of California enacted the Shine the Light law (CA Civil Code Sec 198.83) that permits users who are California residents to request certain information regarding the disclosure of personal information during the past year for marketing purposes. To make such a request, you can contact us at [Info@CommonKindness.com](mailto:info@commonkindness.com).
+
+Your privacy is important to us. If you have questions about any of the provisions described above, please contact us at [Info@CommonKindness.com](mailto:info@commonkindness.com).
