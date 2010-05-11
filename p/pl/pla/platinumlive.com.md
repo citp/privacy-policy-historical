@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the platinumlive.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231223036id_/http%3A//www.platinumlive.com%3Fc2hvdz1wcml2YWN5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platinumlive.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511052632id_/http%3A//www.platinumlive.com%3Fc2hvdz1wcml2YWN5) for the most accurate reproduction.*
 
 # PlatinumLive
 
