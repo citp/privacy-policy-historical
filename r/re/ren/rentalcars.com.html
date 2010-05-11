@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the rentalcars.com privacy policy that was archived on 2009-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091229215600id_/http%3A//rentalcars.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rentalcars.com privacy policy that was archived on 2010-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100511231219id_/http%3A//www.rentalcars.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1">
 	<meta name="description" content="RentalCars  Privacy Policy at Rental Cars.com.  We Have Discount Rental Cars and Car Rentals from Hertz, Avis, Budget, Alamo, National and more!">
 	<meta name="keywords" content="RentalCars  Privacy Policy, Rental Cars, Car Rentals, Rental Car, Car Rental, Auto Rentals, Cheap Rental Cars">
-	<meta name="msvalidate.01" content="3484AA7863C847699135247886BF8EB5">
+		<meta name="msvalidate.01" content="3484AA7863C847699135247886BF8EB5">
 	<meta name="verify-v1" content="kj/Q2kNBcuuFELAsqeKCq4RkNW+sshD7K0XISO9Ro7k=">
 	<title>RentalCars.com - Privacy Policy</title>
 	<style type="text/css">@import "/stylesheets/css.css";</style>
@@ -23,7 +23,49 @@
 
 
 <div id="container">
-	<a href="/" title="Rental Cars.com" id="logo">Rental Cars.com <small>All the best names at great low prices</small></a>
+	<a href="/" title="Rental Cars.com" id="logo">Rental Cars.com</a>
+
+	<div id="newsletter">
+		<form action="http://hbcweb.createsend.com/t/r/s/ydsuj/" id="frmNews" method="post" target="ifrNews">
+		<iframe name="ifrNews" src="" style="display:none;"></iframe>
+		<div id="dvContact">
+			<p class="mb5">Get Rental Car Deals by Email! Sign Up Here.</p>
+			<div class="fl mr10 inline"><input type="text" name="cm-name" id="newsname" value="first name" onclick="this.value=''"></div>
+			<div class="fl"><input type="text" name="cm-ydsuj-ydsuj" id="newsemail" value="email address" onclick="this.value=''"></div>
+			<a class="signup" onclick="newsSubmit();return false;" href="" title="Sign-Up">Sign-up</a>
+		</div>
+		<p id="dvSent" style="display: none;">Thanks! You have been added to our subscriber list.</p>
+		</form>
+		<script language="javascript">
+		function newsSubmit()
+		{
+			stremail=document.getElementById('newsemail').value;
+
+			if(document.getElementById('newsname').value==""||document.getElementById('newsname').value=="first name")
+			{
+				alert("Please enter your name.");
+				document.getElementById('newsname').focus();
+			}
+			else if(document.getElementById('newsemail').value==""||document.getElementById('newsemail').value=="email address")
+			{
+				alert("Please enter your email address.");
+				document.getElementById('newsemail').focus();
+			}
+			else if(!((stremail.indexOf(".") > 2) && (stremail.indexOf("@") > 0)))
+			{
+				alert("Please enter a valid email address.");
+				document.getElementById('newsemail').focus();
+			}
+			else
+			{
+				document.getElementById('frmNews').submit();
+				document.getElementById('dvContact').style.display = 'none';
+				document.getElementById('dvSent').style.display='block';
+			}
+		}
+		</script>
+	</div>
+
 	<ul id="utility-links">
 		<li id="reservations"><a href="/reservations/" title="My Reservations">My Reservations</a></li>
 		<li id="help"><a href="/contact/" title="Help">Help</a></li>
@@ -36,9 +78,9 @@
 			ord = window.ord || Math.floor(Math.random()*1E16);
 			document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/RentalCars.com/rc_160;sz=160x600;ord=' + ord + '?"><\/script>');
 		//]]>
-		</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/RentalCars.com/rc_160;sz=160x600;ord=9214035784446932?"></script>
+		</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/RentalCars.com/rc_160;sz=160x600;ord=6629492736408371?"></script>
 		<noscript>
-			<a href="http://ad.doubleclick.net/jump/RentalCars.com/rc_160;sz=160x600;ord=-989364893?" target="_blank" ><img src="http://ad.doubleclick.net/ad/RentalCars.com/rc_160;sz=160x600;ord=-1124070605?" border="0" alt="" /></a>
+			<a href="http://ad.doubleclick.net/jump/RentalCars.com/rc_160;sz=160x600;ord=-1241849280?" target="_blank" ><img src="http://ad.doubleclick.net/ad/RentalCars.com/rc_160;sz=160x600;ord=-691470975?" border="0" alt="Advertisement" /></a>
 		</noscript>
 		</div>
 	<div id="content">
@@ -190,7 +232,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+			</div>
 </div>
 <div id="footer">
 	<ul>
@@ -199,6 +241,7 @@
 			<ul>
 				<li><a href="/about/" title="About Us">About Us</a></li>
 				<li><a href="/press-room/" title="Press Room">Press Room</a></li>
+				<li><a href="/rental-car-affiliate-program/" title="Rental Car Affiliate Program">Rental Car Affiliate Program</a></li>
 			</ul>
 		</li>
 		<li>
@@ -213,7 +256,8 @@
 		<li>
 			<h2>Rental Car Resources</h2>
 			<ul>
-				<li><a href="/us-cities-and-airports/" title="Top U.S. Rental Car Cities and Airports">Top U.S. Rental Car Cities and Airports</a></li>
+				<li><a href="/us-cities-and-airports/" title="Top Rental Car Cities and Airports">Top US Rental Car Cities and Airports</a></li>
+				<li><a href="/international-cities-and-airports/" title="Top International Rental Car Cities and Airports">Top International Rental Car Cities and Airports</a></li>
 				<li><a href="/about/#types" title="Rental Car Types">Rental Car Types</a></li>
 				<li><a href="/about/#partners" title="Rental Car Companies">Rental Car Companies</a></li>
 			</ul>
@@ -240,8 +284,26 @@
 			</ul>
 		</li>
 	</ul>
+
+	<p id="brand-links">
+		<a href="/about/ace/" title="Ace">Ace</a> |
+		<a href="/about/alamo/" title="Alamo">Alamo</a> |
+		<a href="/about/avis/" title="Avis">Avis</a> |
+		<a href="/about/budget/" title="Budget">Budget</a> |
+		<a href="/about/dollar/" title="Dollar">Dollar</a> |
+		<a href="/about/enterprise/" title="Enterprise">Enterprise</a> |
+		<a href="/about/ez/" title="EZ">EZ Rent a Car</a> |
+		<a href="/about/fox/" title="Fox">Fox</a> |
+		<a href="/about/hertz/" title="Hertz">Hertz</a> |
+		<a href="/about/national/" title="National">National</a> |
+		<a href="/about/payless/" title="Payless">Payless</a> |
+		<a href="/about/sixt/" title="Sixt">Sixt</a> |
+		<a href="/about/thrifty/" title="Thrifty">Thrifty</a>
+	</p>
+
 	<p>
-		All material herein © 1998 - 2009 Lowestfare.com LLC, all rights reserved.
+		All material herein © 1998 - 2010 Lowestfare.com LLC, all rights reserved.<br>
+		rentalcars.com and the rentalcars.com logo are service marks of priceline.com.  © Copyrights 2010 priceline.com
 	</p>
 </div>
 
@@ -263,30 +325,30 @@ pageTracker._trackPageview();
 
 
 
-	<!-- www.hitslink.com/ web tools statistics hit counter code -->
-	<script type="text/javascript" id="wa_u" src="https://counter.hitslink.com/track.js"></script>
-	<script type="text/javascript">//<![CDATA[
-	// Begin Variable Declarations
-	wa_account="rcc-pcln"; wa_location=31;
-	wa_pageName=location.pathname;  // you can customize the page name here
-	// End Variable Declarations
-	document.cookie='__support_check=1';wa_hp='http';
-	wa_rf=document.referrer;wa_sr=window.location.search;
-	wa_tz=new Date();if(location.href.substr(0,6).toLowerCase()=='https:')
-	wa_hp='https';wa_data='&an='+escape(navigator.appName)+
-	'&sr='+escape(wa_sr)+'&ck='+document.cookie.length+
-	'&rf='+escape(wa_rf)+'&sl='+escape(navigator.systemLanguage)+
-	'&av='+escape(navigator.appVersion)+'&l='+escape(navigator.language)+
-	'&pf='+escape(navigator.platform)+'&pg='+escape(wa_pageName);
-	wa_data=wa_data+'&cd='+
-	screen.colorDepth+'&rs='+escape(screen.width+ ' x '+screen.height)+
-	'&tz='+wa_tz.getTimezoneOffset()+'&je='+ navigator.javaEnabled();
-	wa_img=new Image();wa_img.src=wa_hp+'://counter.hitslink.com/statistics.asp'+
-	'?v=1&s='+wa_location+'&acct='+wa_account+wa_data+'&tks='+wa_tz.getTime();
-	document.getElementById('wa_u').src=wa_hp+'://counter.hitslink.com/track.js';
-	 //]]>
-	</script>
-	<!-- End www.hitslink.com/ statistics web tools hit counter code -->
+			<!-- www.hitslink.com/ web tools statistics hit counter code -->
+			<script type="text/javascript" id="wa_u" src="https://counter.hitslink.com/track.js"></script>
+			<script type="text/javascript">//<![CDATA[
+			// Begin Variable Declarations
+			wa_account="rcc-pcln"; wa_location=31;
+			wa_pageName=location.pathname;  // you can customize the page name here
+			// End Variable Declarations
+			document.cookie='__support_check=1';wa_hp='http';
+			wa_rf=document.referrer;wa_sr=window.location.search;
+			wa_tz=new Date();if(location.href.substr(0,6).toLowerCase()=='https:')
+			wa_hp='https';wa_data='&an='+escape(navigator.appName)+
+			'&sr='+escape(wa_sr)+'&ck='+document.cookie.length+
+			'&rf='+escape(wa_rf)+'&sl='+escape(navigator.systemLanguage)+
+			'&av='+escape(navigator.appVersion)+'&l='+escape(navigator.language)+
+			'&pf='+escape(navigator.platform)+'&pg='+escape(wa_pageName);
+			wa_data=wa_data+'&cd='+
+			screen.colorDepth+'&rs='+escape(screen.width+ ' x '+screen.height)+
+			'&tz='+wa_tz.getTimezoneOffset()+'&je='+ navigator.javaEnabled();
+			wa_img=new Image();wa_img.src=wa_hp+'://counter.hitslink.com/statistics.asp'+
+			'?v=1&s='+wa_location+'&acct='+wa_account+wa_data+'&tks='+wa_tz.getTime();
+			document.getElementById('wa_u').src=wa_hp+'://counter.hitslink.com/track.js';
+			 //]]>
+			</script>
+			<!-- End www.hitslink.com/ statistics web tools hit counter code -->
 	
 
 
