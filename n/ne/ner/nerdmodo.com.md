@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nerdmodo.com privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110153015id_/http%3A//www.nerdmodo.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdmodo.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512004440id_/http%3A//www.nerdmodo.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
