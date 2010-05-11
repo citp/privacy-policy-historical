@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaboose.com privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110121635id_/http%3A//corporate.kaboose.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaboose.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511034629id_/http%3A//corporate.kaboose.com/privacy.html) for the most accurate reproduction.*
 
 # Kaboose - Where families get going!
 
