@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazingmoms.com privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803023328id_/http%3A//www.kaboose.com/privacy_disney.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingmoms.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511034629id_/http%3A//www.kaboose.com/privacy_disney.html) for the most accurate reproduction.*
 
 # Kaboose - Where families get going!
 
