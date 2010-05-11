@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedjlist.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125160613id_/http%3A//thedjlist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedjlist.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511234458id_/http%3A//thedjlist.com/privacy) for the most accurate reproduction.*
 
-# The DJ List
+# The DJ List | TDJL
 
 ## Privacy
 
@@ -129,4 +129,4 @@ Your The DJ List account can be deleted, but doing so will result in not being a
 
 If you are participating in a The DJ List promotion and you wish to update your email address on the promotions mailing list or to quit a promotion and cease receiving promotion-related email, please contact [promotions@thedjlist.com.com](mailto:promotions@thedjlist.com). 
 
-(top)
+(top) **Updated: 2009-12-23 22:19:55 UTC**
