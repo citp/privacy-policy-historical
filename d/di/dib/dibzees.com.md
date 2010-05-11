@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dibzees.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108015426id_/http%3A//www.dibzees.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dibzees.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511052728id_/http%3A//dibzees.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Dibzees - Privacy policy
 
