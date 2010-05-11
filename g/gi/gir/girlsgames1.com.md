@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsgames1.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204070223id_/http%3A//www.girlsgames1.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsgames1.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511045953id_/http%3A//www.girlsgames1.com/privacy.html) for the most accurate reproduction.*
 
 # GirlsGames1.com
 
@@ -27,8 +27,18 @@ Google, as a third party vendor, uses cookies to serve ads on our site.
 Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet.  
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL <http://www.google.com/privacy_ads.html>
 
+**ValueClick Media**
+
+A statement of the fact that online behavioral advertising (“OBA”) and/or multi-site advertising is occurring; 
+
+A description of types of data that are collected for OBA and/or multi-site advertising purposes on each of your websites by you and any third parties; 
+
+An explanation of how, and for what purpose, that data will be used or transferred to third parties; and 
+
+A conspicuous link to the OBA choice mechanism (e.g., opt-out link) provided by the NAI member, and/or a conspicuous link to the opt-out page on the NAI's consumer website. 
+
 **Copyright**  
 All rights reserved, GirlsGames1.com © 2008. All games copyright to their respective owners.
 
 **Contact**  
-If you have any questions please contact us via [contact form](https://web.archive.org/web/20091204070223id_/http%3A//www.girlsgames1.com/contact.html)
+If you have any questions please contact us via [contact form](https://web.archive.org/web/20100511045953id_/http%3A//www.girlsgames1.com/contact.html)
