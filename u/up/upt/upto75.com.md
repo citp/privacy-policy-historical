@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the upto75.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428140153id_/http%3A//www.upto75.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upto75.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511091234id_/http%3A//www.upto75.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # UPto75: Never Miss A Sale: Privacy Policy - Great deals, offers, discounts and sales in stores in your city
+
+### Categories
 
 Cars, Bikes, Others 
 
 Magazine Subscription, Books & Novels 
-
-Cement, Paint, Hardware 
 
 Womens, Mens, Baby & Kids 
 
@@ -16,9 +16,7 @@ Schools, Colleges, Universities, Training Institutes
 
 Camera & Camcorders, Mobiles, MPS Players, TVs & DVD Players 
 
-Banks & Credit Cards, Advisory Services, Loans & Insurance 
-
-Food Items, Restaurants, Eateries, Beverages 
+Food Items, Beverages 
 
 Home, Office 
 
@@ -30,7 +28,7 @@ Washing Machines, ACs & Refrigerators, Microwaves & Vacuums
 
 Bed & Bath, Kitchen & Dining, Cleaning & Storage, Other Household Items 
 
-Tools & Hardware 
+Holiday Packages 
 
 Net Connections, Broadband, Domains & Hosting 
 
@@ -38,28 +36,24 @@ Gold, Pearls & Diamonds, Watches, Rings & Bracelets
 
 Baby Care, Strollers, Toys & Games 
 
-Clubs 
+Theme Parks, Dance Studios 
 
 DVDs, Musical Instruments, Tickets 
 
-Office Supplies, Fax Machines, Copiers 
-
-Food, Supplies 
-
-Land & Plots, Flats & Houses, Houses 
+Eateries, Restaurants, Fast Food, Pubs 
 
 Astrology, Chartered Accountants, Tailoring & Laundry, Tax Consultants 
 
 Gym & Health Clubs, Fitness Equipment, Sports Goods 
 
-Airfares, Hotels, Holiday Packages 
+Airfares, Holiday Packages 
 
-Halls 
+### Testimonials
 
-I have gone through upto75.com and found it to be very interesting and a wave of the future for smart and intelligent customers. I hope this site will give more value on every rupee spent by us. Pavan Kumar Tirumareddy Tax Consultant
+When upto75.com approached us for promoting our offers through their site, we looked at the package rate for promotion and we were surprised how cost effective it was. Subsequently we got a fairly good response which even media advertisement campaigns could not fetch us. The concept is unique and well designed to attract the consumers who are nowadays very cautious about shopping- they do not wish to buy anything at M.R.P. Such consumers have a one stop solution to know the best offers active in the market. As a business associate, we were offered a quick, professional and pleasing service. Its a matter of time before all leading brands across all industries in this country try to find a place in upto75.com seeking leads.
 
-- ****,  
-19-Nov-2008
+- **M Santhosh- Sr Manager- Thyrocare** ,  
+12-Apr-2010
 
 [](http://www.cry.org/)
 
@@ -96,7 +90,7 @@ The information you provide to us may be used to:
   * Monitor or improve the Web Sites; 
   * Customize the advertising and content you see 
 
-Moreover, if you submit comments or other content to the website, it maybe published online or offline along with your name. Please also check out our [Terms of Use.](https://web.archive.org/web/20090428140153id_/http%3A//www.upto75.com/Terms.html)  
+Moreover, if you submit comments or other content to the website, it maybe published online or offline along with your name. Please also check out our [Terms of Use.](https://web.archive.org/web/20100511091234id_/http%3A//www.upto75.com/Terms.html)  
   
    
 **With whom information may be shared**  
