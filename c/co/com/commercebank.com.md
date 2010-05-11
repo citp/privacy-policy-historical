@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commercebank.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620133219id_/http%3A//www.commercebank.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercebank.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511051454id_/https%3A//www.commercebank.com/about/security-center/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement | Commerce Bank
 
@@ -89,3 +89,9 @@ As used in this Privacy Policy Notice, "Commerce" means Commerce Bancshares, Inc
 ### If you cease to be our customer
 
 If you decide to close your account(s) or become an inactive customer, we will continue to adhere to the privacy policies and practices described in this notice.
+
+#### Disclosures:
+
+  * To send an email that contains confidential information, please visit the [Secure Message Center](https://web.archive.org/about/security-center/secure-message-center.asp) where there are additional instructions about whether to use Secure Email or Online Banking messaging. 
+
+
