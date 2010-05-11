@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftp-anime.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201053831id_/http%3A//www.ftp-anime.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftp-anime.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511034556id_/http%3A//www.ftp-anime.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FTP-Anime: Free Anime Downloads Episodes!
 
