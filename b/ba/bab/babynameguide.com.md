@@ -1,46 +1,83 @@
-> *The following text is extracted and transformed from the babynameguide.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420023400id_/http%3A//www.babynameguide.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynameguide.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511073417id_/http%3A//www.babynameguide.com/policy.html) for the most accurate reproduction.*
 
 # Baby Name Guide - Privacy Policy
 
-## Privacy Policy Statement
+## Privacy Policy
 
-This is the web site of BabyNameGuide.com. We can be reached via e-mail at [info@babynameguide.com](mailto:info@babynameguide.com).
+**What information do we collect?**
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form. 
 
-We collect aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-We automatically collect and temporarily store the following information about your visit. 
+Google, as a third party vendor, uses cookies to serve ads on BabyNameGuide.com. Google's use of the DART cookie enables it to serve ads to BabyNameGuide.com users based on their visit to BabyNameGuide.com sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-  * The date and time of your visit 
-  * The pages you visited 
-  * The name of the web site you came from (referrer) 
-  * Your browser's brand * 
-  * Your screen resolution * 
-  * Your color depth * 
-  * Name of your operating system *. 
+**What do we use your information for?**
+
+Any of the information we collect from you may be used in one of the following ways: 
+
+  * To personalize your experience  
+(your information helps us to better respond to your individual needs)
+  * To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)  
+
+  * To send periodic emails 
+
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. 
 
 
 
-We use this information for statistical purposes and to help us make our site more useful to visitors. Unless it is specifically stated otherwise, no additional information will be collected about you.
 
-* This information might not be collected depending on your browser's configuration.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-**The information we collect is and.**
+**Do we use cookies?**
 
-**With respect to cookies:** We use cookies to store visitors preferences.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-**With respect to Ad Servers:** To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and click stream information. For further information, consult the privacy policies of:
+We use cookies to understand and save your preferences for future visits, and keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-http://www.google.com  
-http://www.adify.com
+**Do we disclose any information to outside parties?**
 
-**With respect to links:** The linked web sites from BabyNameGuide.com are not affiliated with Baby Name Guide in anyway. We do not take responsibility for any content or information within or provided through the linked Web sites.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**With respect to programs:** Any programs running from this site are provided "AS IS' with no representations or warranties of any kind. The Web site user (you) takes full responsibility for your use of this site.
+**Third party links**
 
-**With respect to security:** We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. Baby Name Guide has security measures in place to protect the baby names database information and login information. This is accomplished with secure passwords, software and hardware redundancy, data backup and a firewall. We cannot guarantee the protection of such information against loss.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**With respect to Database Rights:** The information from our database is property of Baby Name Guide and should not be copied or saved out without written permission from Baby Name Guide. We have hidden words within the database for security purposes.
+**California Online Privacy Protection Act Compliance**
 
-If you feel that this site is not following its stated information policy, you may contact us at the above address.
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Terms of Use**
+
+Please also visit our Terms of Use section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.babynameguide.com/terms.html>. 
+
+**Your Consent**
+
+By using our site, you consent to our privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+
+This policy was last modified on 08/12/09
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+http://www.babynameguide.com  
+727 South Main St  
+Butler, PA 16001  
+United States  
+info@babynameguide.com
