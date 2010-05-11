@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the willow.tv privacy policy that was archived on 2009-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090204150339id_/http%3A//willow.tv/EventMgmt/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willow.tv privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511072944id_/http%3A//willow.tv/EventMgmt/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# 
+# Welcome to Willow TV
 
-A. Information collected on Willow web sites: Information about visitors to our web sites and the e-mail address of people who write to us are stored in our secure computing environment, which includes authentication technologies, Secure Socket Layer and Digital Certificates. This information is not sold or released to Third Parties, except companies affiliated with Willow TV, Inc. 
+| 
 
-B. Cookies: We use cookies to customize Willow TV web sites for allowing access to your subscription, and for returning visitors. These cookies remain on your computer and are automatically retrieved when you visit our web sites at a later time. These cookies contain only information concerning the type of customer and frequently visited pages. No other Personal Data is stored on cookies. 
+ 
 
-C. Sending us an e-mail: Our goal is to reply to e-mail requiring a response within 48 hours. We store e-mails and e-mail addresses of those who send them, but that information is not sold or released to Third Parties - except companies affiliated with Willow TV - without explicit authorization of the e-mail address owner. 
+  * Information collected on Willow web sites: Information about visitors to our web sites and the e-mail address of people who write to us are stored in our secure computing environment, which includes authentication technologies, Secure Socket Layer and Digital Certificates. This information is not sold or released to Third Parties, except companies affiliated with Willow TV, Inc.
+  * Cookies: We use cookies to customize Willow TV web sites for allowing access to your subscription, and for returning visitors. These cookies remain on your computer and are automatically retrieved when you visit our web sites at a later time. These cookies contain only information concerning the type of customer and frequently visited pages. No other Personal Data is stored on cookies.
+  * Sending us an e-mail: Our goal is to reply to e-mail requiring a response within 48 hours. We store e-mails and e-mail addresses of those who send them, but that information is not sold or released to Third Parties - except companies affiliated with Willow TV - without explicit authorization of the e-mail address owner. 
+  * Subscriptions to electronic newsletters: If you choose to receive electronic newsletters, your e-mail address is kept on file so we can send you our electronic newsletter. We do not sell or release to Third Parties the e-mail addresses of subscribers to this service. 
+  * Aggregate information about web site visitors:We create aggregate reports of visitors to our web sites in order to measure the performance of our web sites. These reports do not contain any Personal Data about visitors to our web sites.
+  * Links to other web sites: When you visit our web sites, you will find many opportunities to link to web sites of Third Parties. When you click through to these sites, Willow TV's Privacy Policy no longer applies. We recommend that you read the privacy policy for any Third Party web sites. 
 
-D. Subscriptions to electronic newsletters: If you choose to receive electronic newsletters, your e-mail address is kept on file so we can send you our electronic newsletter. We do not sell or release to Third Parties the e-mail addresses of subscribers to this service. 
 
-E. Aggregate information about web site visitors:We create aggregate reports of visitors to our web sites in order to measure the performance of our web sites. These reports do not contain any Personal Data about visitors to our web sites. 
 
-F. Links to other web sites: When you visit our web sites, you will find many opportunities to link to web sites of Third Parties. When you click through to these sites, Willow TV's Privacy Policy no longer applies. We recommend that you read the privacy policy for any Third Party web sites. 
-
-[Login](https://web.archive.org/EventMgmt/UserMgmt/Login.asp) |  | [Register](https://web.archive.org/EventMgmt/UserMgmt/UserProfile.asp) |  | |  [Contact Us](https://web.archive.org/EventMgmt/ContactUs.asp) |  |  | [Home](https://web.archive.org/EventMgmt/Default.asp)  
----|---|---|---|---|---
+| 
