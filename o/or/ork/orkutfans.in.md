@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the orkutfans.in privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112195932id_/http%3A//www.orkutfans.in/%3Fa%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orkutfans.in privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511180742id_/http%3A//www.orkutfans.in/privacypolicy.html) for the most accurate reproduction.*
 
-# Orkutfans ~ glitter scrap images, greetings, comments for orkut, orkut graphics, Hi5 and Myspace,
+# 
 
-> **Privacy Policy for www.orkutfans.com**
+> **Privacy Policy for www.orkutfans.com or www.orkutfans.in**
 
-**The privacy of our visitors to www.orkutfans.com is important to us.**
+**The privacy of our visitors to www.orkutfans.com or www.orkutfans.in is important to us.**
 
 At www.orkutfans.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit www.orkutfans.com, and how we safeguard your information. We never sell your personal information to third parties.
 
@@ -18,4 +18,4 @@ We also use third party advertisements on www.orkutfans.com to support our site.
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-[HOME](https://web.archive.org/web/20091112195932id_/http%3A//www.orkutfans.in/)
+[HOME](https://web.archive.org/web/20100511180742id_/http%3A//www.orkutfans.in/)
