@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the gamersfirst.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212015708id_/http%3A//www.gamersfirst.com%3Fq%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamersfirst.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511181152id_/http%3A//www.gamersfirst.com%3Fq%3Den/privacy) for the most accurate reproduction.*
 
 # GamersFirst – Free To Play Multiplayer Online Games, Free MMO, Fantasy MMO, Online FPS, Free Multiplayer Car Racing, Adventure, Shooting & Strategy Games Online
 
   
 **K2 Network Online Privacy Policy**
 
-Last updated November 30, 2007 
+Last updated April 15, 2010 
 
 Welcome to K2 Network!
 
@@ -157,23 +157,21 @@ Since 2005, California Civil Code Section 1798.83 permits our customers who are 
 
 For inquires regarding our disclosure policy, please send us an e-mail to [privacy@k2network.net](mailto:privacy@k2network.net) or write us: 
 
-K2 Network, Inc.
-
-Attn.: Privacy Policy Administrator
-
-14252 Culver Dr #A355
-
-Irvine, CA 92604
-
-1-888-225-3448
-
-[privacy@k2network.net](mailto:privacy@k2network.net)
-
+K2 Network, Inc.  
+---  
+Attn.: Privacy Policy Administrator  
+14252 Culver Dr #A355  
+Irvine, CA 92604  
+1-888-225-3448  
+[privacy@k2network.net](mailto:privacy@k2network.net)  
+  
 back to top
 
 **What kinds of security measures do we take to safeguard your personal information?**
 
 The security and confidentiality of your information is extremely important to us.  That’s why we have technical, administrative, and physical security measures in place to protect your personal information from unauthorized access and improper use.  We also review our security procedures periodically to consider appropriate new technology and updated methods.  But, despite our reasonable efforts, no security measure is ever perfect or impenetrable.
+
+GamersFirst .com uses 1024 bit Secure Sockets Layer (SSL) encryption technology to protect your personal information. SSL is also used when transferring or receiving all personal sensitive information. All forms on our site are secured with SSL technology to further protect your information. These systems work together to ensure your privacy and to assist in protecting your personal data.
 
 back to top
 
@@ -189,26 +187,25 @@ back to top
 
 If you have questions or wish to send us comments about this Privacy Policy, please e-mail or contact us at:
 
-K2 Network, Inc.
-
-Attn.: Privacy Policy Administrator
-
-14252 Culver Dr #A355
-
+K2 Network, Inc.  
+---  
+Attn.: Privacy Policy Administrator  
+14252 Culver Dr #A355  
+Irvine, CA 92604  
+1-888-225-3448  
+[privacy@k2network.net](mailto:privacy@k2network.net)  
+  
 Any personal information you provide to the above e-mail and postal mail addresses will not be used to send you promotional materials, unless you request it.
 
 K2 Network is a licensee of the ESRB’s Privacy Online Program.  If you believe that we have not properly responded to your inquiry, please contact ESRB at:
 
-ESRB Privacy Online
-
-Attn: Directir, Privacy Online
-
-317 Madison Avenue, 22 Floor
-
-New York, NY 10017
-
-[privacy@esrb.org](mailto:privacy@esrb.org)
-
+ESRB Privacy Online  
+---  
+Attn: Director, Privacy Online  
+317 Madison Avenue, 22 Floor  
+New York, NY 10017  
+[privacy@esrb.org](mailto:privacy@esrb.org)  
+  
 back to top
 
 **How will you know if we amend this Privacy Policy?**
@@ -219,9 +216,9 @@ back to top
 
 **K2** **Network’s Kids Privacy Policy** ****
 
-Last updated August 13, 2007 
+Last updated April 15, 2010
 
-K2 Network has developed its websites with the goal of creating an enjoyable experience for all users.  This Kids Privacy Policy is designed to answer your questions regarding our privacy policies concerning children under the age of 13. 
+K2 Network has developed its websites with the goal of creating an enjoyable experience for all users.  This Kids Privacy Policy is designed to answer your questions regarding our privacy policies concerning children under the age of 13.
 
 Building on our general Privacy Policy, we recognize the need to provide additional privacy protections when children visit sites on which we post this Kids Privacy Policy.  We explain those additional protections in this Kids Privacy Policy. 
 
@@ -262,8 +259,6 @@ back to top
 
 **How do we use and share the personally identifiable information that we collect from kids?**
 
- ****
-
 If a parent allows us to collect personal information about their kid, we may link certain information collected through technology (see the "Information Collected Through Technology" section of A2 of our General Privacy Policy) to that personal information. 
 
 We may use the information that we collect from and about kids for our business purposes, including record-keeping, transaction fulfillment, and marketing.  The contact information gathered from a kid is used to obtain consent to our information collection from their parents. 
@@ -282,45 +277,35 @@ back to top
 
 **How do we notify and obtain consent from parents for the collection of personal information from their kids?**
 
- ****
-
 When a child under 13 attempts to register at our website, the child can download and print a parental consent form.  Then, you, as the parent, can fill out and sign the parental consent form and mail or fax it back to us.  If the parent ignores or refuses to register the child, we will delete all contact information from our database.  If the parent permits the registration, the child will be granted access to the features described in the notification message. 
 
 back to top
 
 **How can parents access, change or delete personally identifiable information about their kids?**
 
- ****
-
 At any time, a parent can contact our customer service department to access, change, or delete personal information we collected from his or her child by contacting us at: 
 
-K2 Network, Inc.
-
-Attn.: Privacy Policy Administrator
-
-14252 Culver Dr. #A355 
-
-Irvine, CA 92604 
-
-1-888-225-3448
-
-[privacy@k2network.net](mailto:privacy@k2network.net)
-
+K2 Network, Inc.  
+---  
+Attn.: Privacy Policy Administrator  
+14252 Culver Dr. #A355  
+Irvine, CA 92604  
+1-888-225-3448  
+[privacy@k2network.net](mailto:privacy@k2network.net)  
+  
 Our representatives will take reasonable steps to verify your identity before disclosing your child’s information. 
 
 back to top
 
 **What kinds of security measures do we take to safeguard kid's personally identifiable information?**
 
- ****
+We take the security and confidentiality of kids’ information very seriously.  We have implemented technical, administrative, and physical security measures to protect kids’ personal information from unauthorized access and improper use.  From time to time, we review our security procedures to consider appropriate new technology and methods.  But please understand that, despite our best efforts, no security measure is perfect or impenetrable.
 
-We take the security and confidentiality of kids’ information very seriously.  We have implemented technical, administrative, and physical security measures to protect kids’ personal information from unauthorized access and improper use.  From time to time, we review our security procedures to consider appropriate new technology and methods.  But please understand that, despite our best efforts, no security measure is perfect or impenetrable. 
+GamersFirst .com uses 1024 bit Secure Sockets Layer (SSL) encryption technology to protect your personal information. SSL is also used when transferring or receiving all personal sensitive information. All forms on our site are secured with SSL technology to further protect your information. These systems work together to ensure your privacy and to assist in protecting your personal data.
 
 back to top
 
 **How will we notify parents if our Kids Privacy Policy changes?**
-
- ****
 
 At any time, we may amend our Kids Privacy Policy.  We will send e-mail notice to parents of any material changes in the way we intend to collect, use, or share kids' personal information.  At all times, parents should update their personal information to provide us current e-mail addresses.  We will apply material changes in our Kids Privacy Policy only in conformance with applicable law, including any applicable provisions of COPPA that require parental consent.
 
@@ -328,26 +313,25 @@ back to top
 
 **Who do guests contact with questions or concerns about our Kids Privacy Policy?**
 
- ****
-
 If you have questions or wish to send us comments about this Privacy Policy, please e-mail or contact us at:
 
-K2 Network, Inc.
-
-Attn.: Privacy Policy Administrator
-
+K2 Network, Inc.  
+---  
+Attn.: Privacy Policy Administrator  
+14252 Culver Dr. #A355  
+Irvine, CA 92604  
+1-888-225-3448  
+[privacy@k2network.net](mailto:privacy@k2network.net)  
+  
 Any personal information you provide to the above e-mail and postal mail addresses will not be used to send you promotional materials, unless you request it.
 
 K2 Network is a licensee of the ESRB’s Privacy Online Program.  If you believe that we have not properly responded to your inquiry, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>:
 
-Entertainment Software Rating Board
-
-Attn.: Director, Privacy Online
-
-317 Madison Avenue, 22nd Floor
-
-New York, NY 10017 
-
-[privacy@esrb.org](mailto:privacy@esrb.org)
-
+Entertainment Software Rating Board  
+---  
+Attn.: Director, Privacy Online  
+317 Madison Avenue, 22nd Floor  
+New York, NY 10017   
+[privacy@esrb.org](mailto:privacy@esrb.org)  
+  
 back to top
