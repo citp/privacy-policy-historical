@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carquest.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417084316id_/http%3A//www.carquest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carquest.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513014328id_/http%3A//www.carquest.com/privacy.html) for the most accurate reproduction.*
 
 # CARQUEST Technical Institute® - Privacy Statement
 
