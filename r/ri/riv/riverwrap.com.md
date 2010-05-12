@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riverwrap.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526012357id_/http%3A//www.riverwrap.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riverwrap.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512230600id_/http%3A//www.riverwrap.com/privacypolicy) for the most accurate reproduction.*
 
 # RiverWrap.com - privacy policy
 
