@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffet.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109234519id_/http%3A//www.buffet.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffet.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512184923id_/http%3A//www.buffet.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Hometown Buffet, Old Country Buffet and Country Buffet
 
