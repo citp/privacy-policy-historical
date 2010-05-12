@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrfeature.com privacy policy that was archived on 2009-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090304015045id_/http%3A//www.mrfeature.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrfeature.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512185251id_/http%3A//www.mrfeature.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Mr Feature
 
