@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yeechat.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607111029id_/http%3A//yeechat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeechat.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512155715id_/http%3A//www.yeechat.com/privacy.html) for the most accurate reproduction.*
 
 # Chat Room - Free Video Chat Room for adult chat, teen chat, singles chat, gay chat, dating chat users with webcam chat, voice chat
 
