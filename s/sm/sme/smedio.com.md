@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smedio.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212191322id_/http%3A//smedio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smedio.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512224021id_/http%3A//smedio.com/privacy-policy) for the most accurate reproduction.*
 
 # Smedio | The New Media and Social Web Guide for Business and Marketers Privacy Policy
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the “Services”), including those who access some of our Services but do not have accounts (”Visitors”) and those who may purchase Products and/or pay a monthly service fee to subscribe to the Service (”Members”). This Policy also explains what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
+We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the “Services”), including those who access some of our Services but do not have accounts (“Visitors”) and those who may purchase Products and/or pay a monthly service fee to subscribe to the Service (“Members”). This Policy also explains what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
 
 **Personal Information Our Company Collects and How It Is Used**
 
@@ -87,4 +87,4 @@ Services and Web sites we sponsor have security measures in place to protect the
 
 If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site. Revisions to This Policy Our Company reserves the right to revise, amend, or modify this policy, our Terms Of Use & Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting.
 
-(c) 2009 **Smedio**.com
+© 2010 **Smedio**.com
