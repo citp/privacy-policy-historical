@@ -1,49 +1,25 @@
-> *The following text is extracted and transformed from the inorganicventures.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130162833id_/http%3A//www.inorganicventures.com/support/policies/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inorganicventures.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513012247id_/http%3A//www.inorganicventures.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy and Security Policy - Inorganic Ventures
-
-Privacy and Security Policy   Last revised 01.01.04  
-
+# Privacy Policy : Inorganic Ventures
 
 You can browse through much of our site without the need to release any information about yourself. At times, we do require personal information to complete certain online requests.
 
-  
+### Collecting Your Information
 
+Sometimes we require information that personally identifies you and/or your company, providing us with the means to contact you directly. Generally, this information is only necessary when you are submitting a request for quotation, placing an order online, or when applying for a seminar or program. Personal information collected by Inorganic Ventures is often limited to name, email address, and location. Additional information is sometimes necessary to provide you with optional services.
 
-#### Collecting Your Information
+### Use of Your Information
 
-Sometimes we require information that personally identifies you and/or your company, providing us with the means to contact you directly. Generally, this information is only necessary when you are submitting a request for quotation, placing an order online, or when applying for a seminar or program. Personal information collected by Inorganic Ventures is often limited to name, [e-mail address](https://web.archive.org/web/20091130162833id_/http%3A//www.inorganicventures.com/support/policies/email.asp), and location. Additional information is sometimes necessary to provide you with optional services.
-
-  
-
-
-#### Use of Your Information
-
-Your personal information will be used to process online requests and to establish any necessary communications with you via e-mail, phone, or fax. Any form of casual communication that is considered a nuisance will be suspended, per your request.
+Your personal information will be used to process online requests and to establish any necessary communications with you via email, phone, or fax. Any form of casual communication that is considered a nuisance will be suspended, per your request.
 
 We will never sell or misuse the information you provide in any way. Sometimes this information will be shared with other companies to provide limited services on our behalf, including the mailing and delivering of products and catalogs. In these cases, we will provide only that information which is necessary for the service to be completed.
 
-  
-
-
-#### Guaranteed Security of Your Information
+### Guaranteed Security of Your Information
 
 Your personal information is never shared outside of our company without your expressed permission, except under the conditions explained above. When you submit any type of sensitive data online (i.e. - Credit card information), it is encrypted and passed along to our company through a _secure socket layer_ \-- the e-commerce encryption standard that is guaranteed to keep your data safe. Internally, your information is stored on IV's password-controlled remote server with guarded user access.
 
 We do everything in our power to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
 
-  
+### Email Security
 
-
-#### E-mail Security
-
-E-mail that you send to us may not be secure, unless specifically noted prior to transmitting your message. For this reason, we recommend that you do not send us confidential or sensitive information via e-mail. [ [E-mail Policy](https://web.archive.org/web/20091130162833id_/http%3A//www.inorganicventures.com/support/policies/email.asp) ]
-
-  
-
-
-#### Policy Updates
-
-Any major policy changes will be prominently displayed on our [News and Promotions](https://web.archive.org/about/news.asp "Inorganic Ventures News and Promotions") page.
-
-© Inorganic Ventures. All rights reserved.
+Email that you send to us may not be secure, unless specifically noted prior to transmitting your message. For this reason, we recommend that you do not send us confidential or sensitive information via email.
