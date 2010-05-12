@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wittner.com.au privacy policy that was archived on 2009-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090930181341id_/http%3A//www.wittner.com.au/shop/Content.aspx%3Fpageid%3D233) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wittner.com.au privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513001352id_/http%3A//wittner.com.au/shop/Content.aspx%3Fpageid%3D233) for the most accurate reproduction.*
 
-# Wittner Shoes - Update your details
+# Wittner Shoes - Watch video
 
 Wittner Shoes is committed to ensuring the confidentiality and privacy of our customers' personal information. We are guided by the Australian National Privacy Principles as contained in the Privacy Act 1998.
 
