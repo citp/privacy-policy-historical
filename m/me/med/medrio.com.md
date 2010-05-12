@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medrio.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303102951id_/http%3A//www.medrio.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medrio.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512234100id_/http%3A//www.medrio.com/privacy.html) for the most accurate reproduction.*
 
 # Medrio: Privacy Policy
 
