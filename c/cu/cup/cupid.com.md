@@ -1,137 +1,36 @@
-> *The following text is extracted and transformed from the cupid.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312091909id_/http%3A//www.cupid.com/cupid-privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cupid.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512023953id_/http%3A//www.cupid.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
 
-# Cupid - date online from the privacy of home
+# Find local singles on Cupid.com - an online dating site
 
-## Cupid.com Help: Privacy Statement
+**Privacy Policy**
 
-More Help:  [Help Wizard](https://web.archive.org/cupid-help.aspx)  | [Contact Us](https://web.archive.org/helpdesk.aspx?pagename=i_email)  | [Q & A](https://web.archive.org/online-dating-questions.aspx)  | [Terms of Use](https://web.archive.org/internet-dating-conduct.aspx)  | [Site Map](https://web.archive.org/cupid-sitemap.aspx)
+This website is owned and operated by Easy Date Limited (Company Number 4473833) trading as Cupid. Our privacy policy relates only to information that we obtain from you and not to information obtained by third parties or via linked websites.
 
-Your privacy is important to us here at www.Cupid.com ("Website"). In our effort to ensure that you understand information gathering and dissemination policies and practices, we have prepared this Privacy Statement. 
+**What information will be collected?**
 
-  1. What information is collected or tracked by Cupid.com.
-  2. What information, if any, is collected or tracked by third parties.
-  3. What organization collects the information.
-  4. How Cupid.com, Inc. uses the information it collects or tracks.
-  5. Entities with whom Cupid.com, Inc. shares or discloses user information.
-  6. Choices available to the user regarding collection, use and distribution of his/her information.
-  7. Security procedures in place to protect the loss, misuse or alteration of information under Cupid.com, Inc.'s control.
-  8. How users can correct, update or remove personally identifiable information.
-  9. How to contact Cupid.com about this Privacy Statement.
+The type of information we will collect about you includes:-
 
+  1. your name, address, occupation, phone number and e-mail address 
+  2. the information included in your membership profile and that you provide via our client surveys, your interests and details about the services you specifically request.
 
 
-If users of this Website have questions or concerns regarding this Privacy Statement, they should [contact Cupid.com, Inc.](mailto:privacyissue@cupid.com)
 
-This Privacy Statement is incorporated by reference into Cupid.com, Inc.'s [ Terms of Use Agreement](https://web.archive.org/web/20090312091909id_/http%3A//www.cupid.com/internet-dating-conduct.aspx).
+We will never collect sensitive information about you without your explicit written consent. 
 
-  
+**How will the information be used?**
 
+The information you provide to us when using this website will be used to administer your user account with us (including notifying you of any updates or services, should you consent to this), customise the site according to your interests, ensure that you are complying with the terms and conditions of use and to comply with our statutory and regulatory obligations. By registering a profile you consent to the wider dissemination of the information you provide in that profile to the other users of the site, some of whom may be outside the USA to achieve your joint objectives. We will keep your personal information confidential except where you have posted it for publication or display, to the extent that we are compelled to disclose it by law or to comply with an instruction of a regulatory body of competent jurisdiction. We adhere to strict security procedures and your personal information will be held securely to ensure no unauthorised disclosure or access. 
 
-### About Cupid.com
+By checking the appropriate box on the new account registration form you consent to receive compatible matches, tips, announcements and special offers from Cupid and selected partners from address admin@cupid.com to the e-mail address which you have provided. Should you wish to unsubscribe or reduce the number of e-mails you receive from us you can alter your preferences by visiting the ['My Account'](https://web.archive.org/management.settings.asp) section of this website and select the emails you dont want to receive by ticking the corresponding checkboxes. Also you can unsubscribe from a specific email by using the unsubscribe link from the email you don't want to receive any longer. 
 
-Cupid.com, Inc. is the sole owner and operator of the Website Cupid.com and of the information collected on the Website. Cupid.com endeavors to be an all-encompassing Website designed to fulfill the needs of today's singles community. Cupid.com enhances the single lifestyle by providing a web-based portal for people to meet one another in the interests of friendship as well as dating. To facilitate this, Cupid.com offers next generation personal ads, focused social interest circles, dating advice and information as well as dating-oriented products and services. 
+**Your Rights**
 
-### What Information is Collected or Tracked
+Should you wish to obtain a copy of the personal data that we hold on you, please send an e-mail to admin@cupid.com. If you believe that the information we hold about you is inaccurate or if you wish us to cease processing your data for any particular purpose or purposes, write to us at the above address or e-mail admin@cupid.com. If you have a complaint regarding any breach of this privacy policy, contact us at admin@cupid.com 
 
-Cupid.com is a membership-based service. To enjoy the services and products offered by Cupid.com, a person voluntarily registers on the Website to become a member and thereby submits certain personally identifiable information. Visitors (non-members) may browse certain parts of the website at no cost and without entering any personally identifiable information. The term "user" is defined generally as any person, including members and visitors, who access the website for any purpose. This Privacy Statement applies to all users of the Website, unless otherwise expressly stated. Information gathered by Cupid.com falls into two categories: directly submitted and indirectly (passively) submitted. 
+**Tracking**
 
-### Directly Submitted Information
+When visiting our web pages, we generally use tracking technologies which record information about you automatically. This information does not identify you personally and is used to ensure that our Web pages stay compatible with a selection of browsers and systems. 
 
-Only Members are required to submit a range of personally identifiable information about themselves as part of the registration process. The information directly submitted to Cupid.com can be classified into two categories: Public and Private. 
+Please click [here](https://web.archive.org/helptandc.asp?s=s) to access our full privacy policy.
 
-### Public Information
-
-The goal of Cupid.com is to provide a forum for people to get together. To this end, Cupid.com encourages the posting of certain personally identifiable information to be placed in a general public viewing area of the website which cannot be used to contact a particular user ("Public Information"). Most Public Information is optional and its public posting is encouraged so that the user has the best experience possible with Cupid.com's matching service. A user's public information includes, but is not limited to, any of the following listed separately or in combination: photo, gender, age, physical appearance, relationship sought, marital status, race, religion, and educational level Members also receive an Online Name that is used on both the public viewing and member profile areas. We strongly encourage all members to not use their real name or a variation of their name, but to select an Online Name that is unique and different. 
-
-### Private Information
-
-For users to become members and to access various services and membership levels, and for Cupid.com to provide its services, products and operational support for the Website, we require the following personally identifiable "Private Information": first and last name, home address, email address, birth date, telephone number, and member password. To become a Gold Member (What's This?) or to become a Platinum Member (What's This?), we also require financial information for payments (such as a billing address, name of credit card holder, credit card number and expiration date). All Private Information can be updated by the member at any time using the "My Account" tools. This Private Information is considered confidential and, except as otherwise set forth herein-below, is not made publicly available. If accurate and current Private Information is not provided, we will be unable to process your membership. 
-
-### "Send This Profile"- Third Party Personally Identifiable Information
-
-If a user elects to use our "Send This Profile" service for informing a friend about a potential match, we ask the user for the friend's email address, which is defined as "third-party personally identifiable information." Cupid.com, Inc. will automatically send the friend a one-time email inviting them to visit that public profile on the site. Cupid.com, Inc. does not store the email address or use it for any other purpose. 
-
-### Indirectly Submitted Information
-
-Users may explore the Website and access certain portions without directly providing any personally identifiable information. However, this Website indirectly collects certain types of information from users when they visit Cupid.com. Such passively submitted information collected from users is not classified as personally identifiable information, nor is it linked to personally identifiable information. Like most websites, we use log files. This includes internet protocol (IP) addresses, browser type, referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, and track users' movement. 
-
-### How Information is Used
-
-In addition to providing customer support and delivering the products and/or services you have ordered, Cupid.com will use the Public Information and/or Private Information you provide to cause information, offers, products, and/or services that appear to us to be consistent with your expressed interests to be directed to you. This is typically accomplished by sharing, selling, licensing, and/or transferring your Public Information and/or Private Information with third parties. We may, however, also use your Public Information and/or Private Information to direct to you information, offers, products, and/or services from us. Your Public Information and Private Information may, therefore, ultimately be used for marketing purposes by us and/or any reputable third party with whom we may work. In addition, we may provide aggregate statistics about our members and visitors regarding demographic information, traffic patterns, user movements and related website information to reputable third parties, but these statistics do not disclose personally identifiable information from or about a particular user. 
-
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, follow this link:  
-<http://www.networkadvertising.org/consumer/opt_out.asp>. 
-
-### Public Information
-
-Public Information provided by a Member is used to create a profile that is typically viewable to all other users of the Website for searching and matchmaking purposes. The member has the option to hide his/her profile, making it not publicly visible, using the "Privacy Settings" tools. Publicly posted information cannot be used to contact a member by real name, home or billing street address, phone number, email address, etc.
-
-We strongly encourage all members to not use their real name or a variation of their name, but to select an Online Name that is unique and different. 
-
-CUPID.COM, INC. IS NOT RESPONSIBLE FOR USERS WHO INTENTIONALLY OR OTHERWISE DISCLOSE PRIVATE INFORMATION IN THE FREE TEXT AREAS OF THEIR PROFILE, EMAIL CORRESPONDENCE OR IN PUBLIC FORUMS WHICH ARE PUBLICLY VIEWABLE BY USERS SUCH AS, BUT NOT LIMITED TO, THE FOLLOWING AREAS OF CUPID.COM: "ABOUT ME," "I'M LOOKING FOR,", "THE MOST IMPORTANT THING IN MY LIFE IS", AND "HOW I SPEND MY FREE TIME." 
-
-### Private Information
-
-Cupid.com will use a member's personally identifiable Private Information primarily for three reasons: 1) customer service and operational issues; 2) billing issues; and 3) to investigate violations of our Terms of Use Agreement and to conduct any enforcement measures. Except as otherwise set forth above, all Private Information submitted by the member is kept confidential and will not be disclosed to third parties except as required by law; to protect the visitors and members, employees, or property of Cupid.com; and in the event of a merger or a sale or transfer of all or substantially all of the business, assets, or equity of Cupid.com, Inc. and /or its parent company to another company or entity. 
-
-### Cupid.com/PreDating Events
-
-Users may opt to register for and participate in Cupid.com/PreDating events. These events are typically produced, coordinated and sponsored by other companies. In order to conduct the event, your first and last name will be shared with such company responsible for producing, coordinating, and sponsoring the event. 
-
-### Special Offers and Updates
-
-Members will occasionally receive information on current or new products, services, or special deals from Cupid.com or its selected partners. Out of respect for the privacy of our members, we provide the option to not receive these types of communications at the initial point of registration. Members who thereafter wish to change whether or not to receive promotional communications may designate their choice using the "Privacy Settings" tools. 
-
-### Cookies
-
-A cookie is a piece of data stored on the user's computer tied to information about the user. The cookie contains no personally identifiable information. We use a session ID cookie so that once the user closes the browser, the cookie terminates. The cookie is used to verify your logged-in status. A Member must be logged in to their account to use Cupid.com.
-
-As a user, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. This is done through the browser's (like Netscape Navigator or Internet Explorer) settings. Each browser is different, so look at your browser's "HELP" menu to learn the correct way to modify your cookies setting. If you turn off your cookies, you may not have access to many features at the website or other services may not function properly. For example, members will not be able to log in to their accounts if the cookies are turned off. 
-
-### Third Party Advertising
-
-The ads appearing on this Website are currently delivered by Advertising.com, Inc. Cupid.com, Inc. has given Advertising.com, Inc. permission to use cookies on the Cupid.com website. Advertising.com, Inc.'s cookies do not collect or link to personally identifiable information. Information about users' visits to this website, such as number of times they have viewed an ad (but not user name, address, or other personally identifiable information), is used to serve targeted ads to users. For more information about Advertising.com, Inc., cookies, and how to "opt-out" of receiving follow-up or targeted information from advertisers, please [ click here](http://www.advertising.com/Privacy.html). Cupid.com users may eliminate the advertiser's use of cookies to target such advertising but cannot eliminate advertising generally on the website.
-
-This privacy statement covers the use of cookies by Cupid.com only and does not cover the use of cookies by any advertiser, including Advertising.com, Inc. 
-
-### Operational Service Providers and Third Party Intermediaries 
-
-It may be necessary to share personal information with Cupid.com's operational service providers, the specialists that provide internal support to our operations including billing and fulfillment of membership services. For example, Cupid.com uses an outside credit card processing company to bill for services. We have been advised by our operational service providers that they do not retain, share, store or use personally identifiable information for any secondary purposes. 
-
-### Legal Disclaimer
-
- **THOUGH WE MAKE EVERY EFFORT TO PRESERVE USER PRIVACY, WE MAY NEED TO DISCLOSE PERSONALLY IDENTIFIABLE INFORMATION WHEN REQUIRED BY LAW OR TO COMPLY WITH LEGAL PROCESSES; TO RESPOND TO CLAIMS THAT ANY OF THE CONTENT VIOLATES THE PROPERTY, PRIVACY, PUBLICITY OR OTHER RIGHTS OF OTHERS; TO PROTECT THE RIGHTS, PROPERTY OR SAFETY OF THE COMPANY, ITS EMPLOYEES, USERS AND MEMBERS OF THE PUBLIC; OR IN ASSISTING A CRIMINAL INVESTIGATION BY LAW ENFORCEMENT OFFICIALS.
-
-CUPID.COM, INC. IS NOT RESPONSIBLE FOR USERS WHO INTENTIONALLY OR OTHERWISE DISCLOSE PRIVATE INFORMATION IN THE FREE TEXT AREAS OF THEIR PROFILE, EMAIL CORRESPONDENCE, OR IN OTHER PUBLIC FORUMS WHICH ARE PUBLICLY VIEWABLE BY USERS SUCH AS, BUT NOT LIMITED TO, THE FOLLOWING AREAS OF CUPID.COM: "ABOUT ME," "I'M LOOKING FOR,"AND "HOW I SPEND MY FREE TIME."
-
-**
-
-### Links
-
-For the convenience of our users, this Website links to other sites. Please be aware that Cupid.com, Inc. is not responsible for the privacy policies or business practices of such other third-party websites. We encourage our users to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Statement applies solely to information collected by Cupid.com's website. 
-
-### Security
-
-This website takes several precautions to protect members' information. When members submit personally identifiable information via the website, their information is protected both online and off-line. Our order form asks users to enter sensitive information (such as credit card numbers). Such information is encrypted and is protected with the most widely used and trusted encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just "surfing". 
-
-We also take certain measures to protect personally identifiable information off-line. All members' information, not just the sensitive information mentioned above, is restricted from access in our offices. Only authorized employees who require the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to such information. We also provide training to new employees that have access to our confidential databases and members information. Our production servers that store personally identifiable information are also in a secure environment, in a fortified facility with biometric identification systems.
-
-If you have any questions about the security at our Website, [ contact us](mailto:privacyissue@cupid.com). 
-
-### Correcting/Updating or Removing Personal Information
-
-All personally identifiable Public Information can be accessed, corrected, and updated via the "My Profile" section of the website at any time. Private Information can be accessed, corrected, and updated via the "My Account" tools. Most information may be removed via the same section, except for the required Private Information needed to be a member such as: first and last name, home address, email address, birth date, telephone number, member password and financial information for payments for Gold Members (What's This?), such as a billing address, credit card number, expiration date. A member can also change his/her "opt-in" choices using the "Privacy Settings" tools. 
-
-### Notification of Changes and Opt-in/Opt-out Policy
-
-If changes to our Privacy Statement become necessary, Cupid.com will post those changes to this Privacy Statement, so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it to third parties. If we are going to use a Member's personally identifiable information in a manner significantly different from that stated at the time of collection we will notify members via email and our members will have an affirmative choice ("Opt-in") as to whether or not we can use their information in this manner. If our members do not provide such consent we will continue to use their information in accordance with the privacy policy under which the information was collected. 
-
-### Contacting Cupid.com
-
-If users have any questions or suggestions regarding our privacy policy, please [ contact us](mailto:privacyissue@cupid.com) or mail us at the following address: 
-
-Cupid.com, Inc.  
-P.O. Box 728  
-Poughkeepsie, NY 12602 
-
-Effective October 30, 2006 
+close 
