@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mywordpress.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231000410id_/http%3A//mywordpress.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywordpress.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513013624id_/http%3A//mywordpress.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | myWordPress
+# Privacy Policy
 
 **Privacy Policy for mywordpress.com**
 
