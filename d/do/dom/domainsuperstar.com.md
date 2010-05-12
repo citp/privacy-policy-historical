@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the domainsuperstar.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206190321id_/http%3A//www.domainsuperstar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsuperstar.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512050242id_/http%3A//www.domainsuperstar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DomainSuperstar.com
+
+[ ](http://www.jdoqocy.com/qh105dlurlt8CBABAII8A9CGI9GH)  
+[ ](http://www.dpbolvw.net/9l65biroiq598787FF576A6EAFE)
 
 Browse >
 
@@ -26,4 +29,5 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 Concerns or questions about this privacy policy can be directed to info@domainsuperstar.com for further clarification.
 
-**Quick Links to Bookmark and Promote:**
+[ ](http://www.jdoqocy.com/qh105dlurlt8CBABAII8A9CGI9GH)  
+[ ](http://www.dpbolvw.net/9l65biroiq598787FF576A6EAFE)
