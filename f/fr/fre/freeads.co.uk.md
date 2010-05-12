@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeads.co.uk privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106235501id_/http%3A//www.freeads.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeads.co.uk privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512113753id_/http%3A//www.freeads.co.uk/info/privacy) for the most accurate reproduction.*
 
 # Freeads.co.uk - Classified ads
 
@@ -7,13 +7,13 @@
   
 ## Help Menu
 
-  * [About Freeads Classifieds](http://www.freeads.co.uk/aboutus)
-  * [Frequently asked questions](http://www.freeads.co.uk/help)
-  * [Terms of use](http://www.freeads.co.uk/terms)
-  * [Privacy policy](http://www.freeads.co.uk/privacy)
-  * [Reporting abuse](http://www.freeads.co.uk/abuse)
-  * [Commercial advertising](http://www.freeads.co.uk/advertising)
-  * [Contact us](http://www.freeads.co.uk/contact)
+  * [About Freeads Classifieds](http://www.freeads.co.uk/info/aboutus)
+  * [Frequently asked questions](http://www.freeads.co.uk/info/help)
+  * [Terms of use](http://www.freeads.co.uk/info/terms)
+  * [Privacy policy](http://www.freeads.co.uk/info/privacy)
+  * [Reporting abuse](http://www.freeads.co.uk/info/abuse)
+  * [Commercial advertising](http://www.freeads.co.uk/info/advertising)
+  * [Contact us](http://www.freeads.co.uk/info/contact)
 
 
 
