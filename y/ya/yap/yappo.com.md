@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yappo.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628164052id_/http%3A//billing.yappo.com/strack/Mjo2OjEx/11/0/1/s3/index.php%3Fr%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yappo.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512162356id_/http%3A//billing.yappo.com/strack/Mjo2OjEx/11/0/1/s3/index.php%3Fr%3Dprivacy) for the most accurate reproduction.*
 
 # Welcome to YAPPO! The Best Online Source for Video On Demand
 
