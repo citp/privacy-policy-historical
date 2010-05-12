@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the am-autoparts.com privacy policy that was archived on 2009-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090402131952id_/http%3A//www.am-autoparts.com/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the am-autoparts.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512181201id_/http%3A//www.am-autoparts.com/privacy-statement.php) for the most accurate reproduction.*
 
-# AM Autoparts
+# AM Autoparts - After Market Auto Parts - Headlights, Mirrors, and More
 
 Here at AM-Autoparts, we are committed to our customers’ privacy. When purchasing our products, we do need to collect some necessary information to complete your order, such as your name, address, credit card number, email address, etc. All of the information collected on our site is held in a secure location. We are the sole owner of this information, and we do not share, sell, or rent this information to anybody, ever. 
 
