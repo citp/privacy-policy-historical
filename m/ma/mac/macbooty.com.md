@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the macbooty.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111095928id_/http%3A//www.macbooty.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macbooty.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512154523id_/http%3A//macbooty.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
 We are committed to protecting your privacy when you use this website. In this policy we explain our use of information, what we do with it and what controls you have over our use of it.
 
-From time to time, we add or change functions, features or products to our Web Sites or add or change Services. This, and our commitment to protecting the privacy of your personal information, may result in periodic changes to this Privacy Policy. As a result, please remember to refer back to this Privacy Policy regularly to review any amendments. If you have any questions regarding our Privacy Policy please don't hesitate to [contact us](https://web.archive.org/web/20091111095928id_/http%3A//www.macbooty.com/contact.php).
+From time to time, we add or change functions, features or products to our Web Sites or add or change Services. This, and our commitment to protecting the privacy of your personal information, may result in periodic changes to this Privacy Policy. As a result, please remember to refer back to this Privacy Policy regularly to review any amendments. If you have any questions regarding our Privacy Policy please don't hesitate to [contact us](https://web.archive.org/web/20100512154523id_/http%3A//macbooty.com/contact.php).
 
 ### What data do we collect and how do we use it?
 
@@ -32,4 +32,4 @@ We will only sell or rent your personal information to a third party either as p
 
 ### Further Information / Comments
 
-It is very important to us that we provide you with the highest level of service. If you have any questions or comments about this Privacy Policy or any other aspect of our service, please don't hesitate to [contact us](https://web.archive.org/web/20091111095928id_/http%3A//www.macbooty.com/contact.php).
+It is very important to us that we provide you with the highest level of service. If you have any questions or comments about this Privacy Policy or any other aspect of our service, please don't hesitate to [contact us](https://web.archive.org/web/20100512154523id_/http%3A//macbooty.com/contact.php).
