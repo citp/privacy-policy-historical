@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthfinder.gov privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216100538id_/http%3A//www.healthfinder.gov/aboutus/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthfinder.gov privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512221544id_/http%3A//www.healthfinder.gov/aboutus/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: healthfinder.gov - Your Source for Reliable Health Information
 
@@ -16,7 +16,7 @@ If you choose to give information about yourself in an e-mail message, form, or 
 
 When you browse through any Web site, some information about you can be collected. Our Web server software automatically collects and temporarily stores the following information about each visit:
 
-  * the name of the domain you use to access the Internet (for example, aol.com, if you are using an America Online account, or stanford.edu, if you are connecting from Stanford University's domain – we do not collect your full email address); 
+  * the name of the domain you use to access the Internet (for example, aol.com, if you are using an America Online account, or stanford.edu, if you are connecting from Stanford University's domain ? we do not collect your full email address); 
   * the date and time of the visit; 
   * the pages visited; and
   * the address of the Web site you came from when you came to visit.
@@ -39,4 +39,4 @@ For site security purposes and to ensure that this service remains available to 
 
 Information originally collected in traditional paper systems can be submitted electronically, i.e., electronic commerce transactions and information updates about eligibility benefits. Electronically submitted information is maintained and destroyed pursuant to the Federal Records Act, and in some cases may be subject to the Privacy Act. If information that you submit is to be used in a Privacy Act system of records, there will be a Privacy Act Notice provided.
 
-You may also wish to review our [disclaimers](https://web.archive.org/web/20091216100538id_/http%3A//www.healthfinder.gov/aboutus/disclaimer.aspx).
+You may also wish to review our [disclaimers](https://web.archive.org/web/20100512221544id_/http%3A//www.healthfinder.gov/aboutus/disclaimer.aspx).
