@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarampkeyboard.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarampkeyboard.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -132,15 +132,8 @@ Brighton,
 BN2 3QD
 
  ****  
-[OFFICIALLY THE UKs NO 1 GIBSON DEALER!](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/articles.php?id=280)   
-[PRS Guitars @ GAK !!!](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/articles.php?id=279)   
-[GAK SUPPORTS GUITAR IDOL 2009!](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/articles.php?id=277)   
-[TC ELECTRONIC REBEL BASS STACK](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/articles.php?id=276)   
-[EPIPHONE LES PAULS IN STOCK NOW !!](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/articles.php?id=275)   
-[Rode NT-1a MEGA DEAL !](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/articles.php?id=274)   
-[The Ultimate Mackie SRM-450 Deal.](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/articles.php?id=194)   
-[Vox Valvetronix](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/articles.php?id=261)   
-[Alesis DM 5 Kit Pro FREE Drum Throne Megadeal](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/articles.php?id=235)
+[Now you can use an ALTERNATE DELIVERY ADDRESS!](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/articles.php?id=282)   
+[GAK SHIPPING TO EUROPE](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/articles.php?id=283)
 
 Errors & omissions excepted, © Copyright 2002-2009 GAK.CO.UK LTD
 
@@ -152,141 +145,145 @@ E-mail
 Password  
   
   
- [Sign up now](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/secure.php?page=accadd.php?s=1)  
- [Privacy Policy](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/privacy.php?s=1)  
+ [Sign up now](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/secure.php?page=accadd.php?s=1)  
+ [Privacy Policy](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/privacy.php?s=1)  
   
+ ****  
 [  
- Rotosound Steve Harris Signature Set 50 75 95 110  
+  Yamaha GA15 Practice Amp  
+£](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/77108)  
+[  
+ ESP KH 2 Neck Thru  
+£](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/81124)
+
+[  
+ Yamaha F310 Guitar Pack  
 £  
-CHEAP DELIVERY !  (From £)](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/74235)  
+ _FREE_ DELIVERY !!!](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/yamaha-f-310-acoustic-pack/66747)  
 [  
- Ibanez ATK700  
+ Boss SL 20 Slicer with FREE 10ft Venom Lead !!  
 £  
- _FREE_ DELIVERY !!!](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/73055)  
+ _FREE_ DELIVERY !!!](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/76293)  
 [  
- S.E. Electronics SE-2200a  
+ Washburn WV40  
+£](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/78158)  
+[  
+ Fender Standard Precision Bass 2009  
 £  
-CHEAP DELIVERY !  (From £)](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/se-2200a/11578)  
+ _FREE_ DELIVERY !!!](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/79196)  
 [  
- ESP F-10 Pack  
-£](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/70034)  
-[  
- Tapco S-5CHEAP DELIVERY !  (From £)](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/s-5/11029)  
-[  
- Gretsch G6120SSC Brian Setzer Tribute ONE ONLY !!  
-£](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/73645)  
-[  
- Rockbass Streamer Std 4 - 1 pickup  
-£](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/streamer-std-4---1-picku/602)  
-[  
- Hartke Kickback 15  
+ Pinup Sticks X Factor  
 £  
- _FREE_ DELIVERY !!!](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/kickback-15/12557)  
+ _FREE_ DELIVERY !!!](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/85353)  
+[  
+ Trick GS007 Multi Step Black  
+£  
+CHEAP DELIVERY !  (From £)](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/83172)  
 [](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.GUITARAMPKEYBOARD.COM&lang=en)| Browse  
 ---  
   
 
 
-[AKG](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/akg)  
-[Ahead](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/ahead)  
-[Akai](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/akai)  
-[Alesis](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/alesis)  
-[Ampeg](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/ampeg)  
-[Art](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/art)  
-[Audio-Tech](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/audio-technica)  
-[Behringer](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/behringer)  
-[Boss](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/boss)  
-[Brian May](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/brian_may)  
-[Cakewalk](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/cakewalk)  
-[D'Addario](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/d_Q_addario)  
-[Danelectro](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/danelectro)  
-[Dean](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/dean)  
-[Digidesign](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/digidesign)  
-[Digitech](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/digitech)  
-[Dunlop](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/dunlop)  
-[E Bow](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/e_bow)  
-[E-Mu](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/e-mu)  
-[EMG](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/emg)  
-[ESP](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/esp)  
-[Earthwood](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/earthwood)  
-[Edirol](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/edirol)  
-[E/Harmonix](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/electro_harmonix)  
-[Elites](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/elites)  
-[Elixir](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/elixir)  
-[Epiphone](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/epiphone)  
-[Ernie Ball](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/ernie_ball)  
-[Evans](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/evans)  
-[Fender](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/fender)  
-[Fishman](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/fishman)  
-[GHS](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/ghs)  
-[Gator](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/gator)  
-[Gibraltar](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/gibraltar)  
-[Gibson](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/gibson)  
-[Guitar Tech](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/guitar_tech)  
-[Guvnor](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/guvnor)  
-[Hercules](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/hercules)  
-[Hiscox](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/hiscox)  
-[Hosa](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/hosa)  
-[Ibanez](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/ibanez)  
-[JBL](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/jbl)  
-[Jack Daniels](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/jack_daniels)  
-[Jackson](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/jackson)  
-[Jim Dunlop](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/jim_dunlop)  
-[Korg](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/korg)  
-[Kyser](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/kyser)  
-[Laney](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/laney)  
-[Levys](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/levys)  
-[Line6](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/line6)  
-[M-Audio](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/m-audio)  
-[MXR](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/mxr)  
-[Mackie](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/mackie)  
-[Mapex](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/mapex)  
-[Marshall](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/marshall)  
-[Martin](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/martin)  
-[Meinl](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/meinl)  
-[Orange](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/orange)  
-[Paiste](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/paiste)  
-[Pearl](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/pearl)  
-[Peavey](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/peavey)  
-[Pikcard](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/pikcard)  
-[Planet Waves](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/planet_waves)  
-[Pro - Mark](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/pro_-_mark)  
-[Protection R](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/protection_racket)  
-[Quik-Lok](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/quik-lok)  
-[Remo](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/remo)  
-[Rode](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/rode)  
-[Roland](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/roland)  
-[Rotosound](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/rotosound)  
-[S.I.T](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/s.i.t)  
-[Sabian](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/sabian)  
-[Samson](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/samson)  
-[Schaller](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/schaller)  
-[Sennheiser](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/sennheiser)  
-[Seymour Dunc](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/seymour_duncan)  
-[Shubb](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/shubb)  
-[Shure](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/shure)  
-[Skull String](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/skull_strings)  
-[Squier](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/squier)  
-[Stagg](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/stagg)  
-[String Swing](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/string_swing)  
-[TC Helicon](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/tc_helicon)  
-[Tama](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/tama)  
-[Tapco](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/tapco)  
-[Tascam](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/tascam)  
-[Ultimate](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/ultimate)  
-[Vater](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/vater)  
-[Venom](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/venom)  
-[Vic Firth](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/vic_firth)  
-[Vintage](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/vintage)  
-[Vox](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/vox)  
-[Warwick](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/warwick)  
-[Rockbag](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/warwick_rockbag)  
-[Washburn](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/washburn)  
-[Whirlwind](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/whirlwind)  
-[Wise Publica](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/wise_publications)  
-[Yamaha](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/yamaha)  
-[Zildjian](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/zildjian)  
-[Zoom](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/en/zoom)  
+[AKG](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/akg)  
+[Ahead](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/ahead)  
+[Akai](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/akai)  
+[Alesis](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/alesis)  
+[Alpine](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/alpine)  
+[Aquarian](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/aquarian)  
+[Art](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/art)  
+[Audio-Tech](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/audio-technica)  
+[Behringer](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/behringer)  
+[Beyerdynamic](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/beyerdynamic)  
+[Boss](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/boss)  
+[Crafter](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/crafter)  
+[Crate](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/crate)  
+[D'Addario](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/d_Q_addario)  
+[Daddario](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/daddario)  
+[Danelectro](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/danelectro)  
+[Dean](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/dean)  
+[Digidesign](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/digidesign)  
+[Digitech](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/digitech)  
+[Dunlop](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/dunlop)  
+[E Bow](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/e_bow)  
+[EMG](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/emg)  
+[ESP](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/esp)  
+[Earthwood](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/earthwood)  
+[Edirol](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/edirol)  
+[E/Harmonix](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/electro_harmonix)  
+[Elites](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/elites)  
+[Elixir](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/elixir)  
+[Epiphone](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/epiphone)  
+[Ernie Ball](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/ernie_ball)  
+[Evans](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/evans)  
+[Fender](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/fender)  
+[Gator](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/gator)  
+[Gibraltar](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/gibraltar)  
+[Gibson](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/gibson)  
+[Gretsch](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/gretsch)  
+[Guitar Tech](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/guitar_tech)  
+[Hercules](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/hercules)  
+[Hiscox](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/hiscox)  
+[Hohner](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/hohner)  
+[Hosa](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/hosa)  
+[Ibanez](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/ibanez)  
+[Jack Daniels](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/jack_daniels)  
+[Jackson](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/jackson)  
+[Jim Dunlop](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/jim_dunlop)  
+[Korg](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/korg)  
+[Laney](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/laney)  
+[Lee Oskar](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/lee_oskar)  
+[Levys](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/levys)  
+[Line6](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/line6)  
+[M-Audio](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/m-audio)  
+[MXR](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/mxr)  
+[Mackie](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/mackie)  
+[Mapex](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/mapex)  
+[Marshall](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/marshall)  
+[Martin](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/martin)  
+[Meinl](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/meinl)  
+[Morley](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/morley)  
+[Orange](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/orange)  
+[Paiste](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/paiste)  
+[Pearl](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/pearl)  
+[Peavey](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/peavey)  
+[Pete Cornish](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/pete_cornish)  
+[Planet Waves](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/planet_waves)  
+[Pro - Mark](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/pro_-_mark)  
+[ProCo](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/proco)  
+[Protection R](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/protection_racket)  
+[Quik-Lok](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/quik-lok)  
+[Remo](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/remo)  
+[Rode](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/rode)  
+[Roland](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/roland)  
+[Rotosound](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/rotosound)  
+[Sabian](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/sabian)  
+[Samson](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/samson)  
+[Schaller](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/schaller)  
+[Sennheiser](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/sennheiser)  
+[Seymour Dunc](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/seymour_duncan)  
+[Shubb](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/shubb)  
+[Shure](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/shure)  
+[Skull String](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/skull_strings)  
+[Squier](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/squier)  
+[Stagg](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/stagg)  
+[String Swing](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/string_swing)  
+[TC Electroni](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/tc_electronic)  
+[Takamine](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/takamine)  
+[Tama](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/tama)  
+[Tascam](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/tascam)  
+[Ultimate](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/ultimate)  
+[Venom](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/venom)  
+[Vic Firth](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/vic_firth)  
+[Vintage](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/vintage)  
+[Vox](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/vox)  
+[Warwick](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/warwick)  
+[Warwick Rock](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/warwick_rock_cable)  
+[Rockbag](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/warwick_rockbag)  
+[Washburn](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/washburn)  
+[Whirlwind](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/whirlwind)  
+[Yamaha](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/yamaha)  
+[Zildjian](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/zildjian)  
+[Zoom](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/en/zoom)  
 
 
   
@@ -296,7 +293,7 @@ CHEAP DELIVERY !  (From £)](https://web.archive.org/web/20090227062532id_/http%
 
 If you see cheaper prices we will match any genuine quote
 
-](https://web.archive.org/web/20090227062532id_/http%3A//www.guitarampkeyboard.com/pricematch.php)  
+](https://web.archive.org/web/20100512185504id_/http%3A//www.guitarampkeyboard.com/pricematch.php)  
 
 
   
