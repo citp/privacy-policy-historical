@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linuxmail.info privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122213419id_/http%3A//www.linuxmail.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxmail.info privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512184624id_/http%3A//www.linuxmail.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ‹‹ Linux Mail Server Setup and Howto Guide
 
