@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the smsblaze.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111224814id_/http%3A//www.smsblaze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsblaze.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512124227id_/http%3A//www.smsblaze.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Hindi SMS , Hindi Shayari , Desi Sexy SMS
-
-## Privacy Policy
+# Privacy Policy | Hindi SMS,Hindi Shayari,Desi Sexy SMS,Hindi SMS Shayari,Romantic Hindi SMS,Hindi Sexy Kahaniya
 
 **Privacy Policy** for SMSBlaze.com
 
