@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onelastcontinue.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111144220id_/http%3A//www.onelastcontinue.com/one-last-continue-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onelastcontinue.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512201208id_/http%3A//www.onelastcontinue.com/one-last-continue-privacy-policy) for the most accurate reproduction.*
 
-# One Last Continue: Privacy Policy | One Last Continue
+# One Last Continue: Privacy Policy : One Last Continue
 
 ### **Privacy Policy for One Last Continue**
 
