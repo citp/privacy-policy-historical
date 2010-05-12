@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fotoblur.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616152857id_/http%3A//www.fotoblur.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotoblur.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512184456id_/http%3A//www.fotoblur.com/privacypolicy) for the most accurate reproduction.*
 
 # Fotoblur - Privacy Policy
 
