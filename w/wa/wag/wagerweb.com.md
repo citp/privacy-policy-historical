@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wagerweb.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111013155id_/http%3A//www.wagerweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wagerweb.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512224319id_/http%3A//www.wagerweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WagerWeb.com
 
@@ -9,7 +9,7 @@
   1. **Collection** The word, collection, refers to the act of gathering, acquiring, or obtaining personal information from any source, including third parties, by any means.
   2. **Consent** The word, consent, refers to voluntary agreement with what is being done or proposed. Consent can be either express, or implied. Express consent is given explicitly, either orally, or in writing. Express consent is unequivocal and does not require any inference on the part of the organization seeking consent. Implied consent arises where consent may reasonably be inferred from the action, or inaction, of the individual.
   3. **Disclosure** The word, disclosure, refers to making personal information available to others outside the organization.
-  4. **Organization** The word, organization, refers to [WagerWeb](http://www.wagerweb.com/) and associations, businesses, charitable organizations, clubs, government bodies, institutions, professional practices, and unions.
+  4. **Organization** The word, organization, refers to [WagerWeb](https://web.archive.org/) and associations, businesses, charitable organizations, clubs, government bodies, institutions, professional practices, and unions.
   5. **Personal Information** The term, personal information, refers to any record, in any form that identifies an individual client, affiliate or employee. This definition does not include aggregated information, which cannot be associated with a specific person.
   6. **Use** The word, use, refers to the treatment and handling of personal information by, and within, Wagerweb.
 
