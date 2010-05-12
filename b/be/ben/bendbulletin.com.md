@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the bendbulletin.com privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110072450id_/http%3A//www.bendbulletin.com/apps/pbcs.dll/article%3FAID%3D/99999999/ABOUT/50817001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bendbulletin.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512053317id_/http%3A//www.bendbulletin.com/apps/pbcs.dll/article%3FAID%3D/99999999/ABOUT/50817001) for the most accurate reproduction.*
 
 # Privacy and security policy | | The Bulletin
 
-  * [print](https://web.archive.org/apps/pbcs.dll/article?AID=/99999999/ABOUT/50817001&nav_category=ABOUT&template=print)
-  * [email](https://web.archive.org/apps/pbcs.dll/article?AID=/99999999/ABOUT/50817001&nav_category=ABOUT&template=emailto)
+  * [print](https://web.archive.org/apps/pbcs.dll/article?AID=/99999999/ABOUT/50817001&template=print)
+  * [email](https://web.archive.org/apps/pbcs.dll/article?AID=/99999999/ABOUT/50817001&template=emailto)
 
 
 
-Published: November 09. 2009 4:00AM PST
+Published: May 11. 2010 4:00AM PST
 
 This policy discloses the privacy and security practices for bendbulletin.com and bendhomes.com, which are subject to change from time to time. Any such changes will be posted on this page and you will be bound to such changes by your continued use of the web site. Bendbulletin.com and bendhomes.com are intended for use by adults. Please see our Children's Privacy Statement below for additional safeguards to protect the privacy of personal information collected from children under 13. If you have any questions about bendbulletin.com's privacy practices, please contact us via e-mail at privacy@bendbulletin.com.
 
@@ -59,7 +59,9 @@ As required by U.S. law, bendbulletin.com and bendhomes.com have created this ch
 
 ARTICLE ACCESS: This article is among those available to all readers. Many more articles are available only to E-Edition members. [Sign up](https://circulation.bendbulletin.com/cgi-bin/cmo_cmo.sh/custservice/web/web-subscribe-online/login.html) today!
 
-  * [print](https://web.archive.org/apps/pbcs.dll/article?AID=/99999999/ABOUT/50817001&nav_category=ABOUT&template=print)
-  * [email](https://web.archive.org/apps/pbcs.dll/article?AID=/99999999/ABOUT/50817001&nav_category=ABOUT&template=emailto)
+  * [print](https://web.archive.org/apps/pbcs.dll/article?AID=/99999999/ABOUT/50817001&template=print)
+  * [email](https://web.archive.org/apps/pbcs.dll/article?AID=/99999999/ABOUT/50817001&template=emailto)
 
 
+
+[comments powered by ](http://disqus.com/)
