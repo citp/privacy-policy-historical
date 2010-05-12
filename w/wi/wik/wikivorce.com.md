@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wikivorce.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501192250id_/http%3A//www.wikivorce.com/divorce/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikivorce.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512195307id_/http%3A//www.wikivorce.com/divorce/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Data Privacy Policy | Wikivorce - the Divorce Support Community
+# Data Privacy Policy | UK Divorce Support Community
 
 #### What information do we collect and why?
 
@@ -12,7 +12,7 @@ When you register you will be asked to submit personal information about yoursel
 
 By entering your details in the fields requested, you enable us to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. 
 
-You can unregister or unsubscribe from email communications at any time by sending an email with 'unregister' or 'unsubscibe' in the title to [customersupport@wikivorce.com](mailto:wikivorce@hotmail.com). 
+You can unregister or unsubscribe from email communications at any time by sending an email with 'unregister' or 'unsubscibe' in the title to [customersupport@wikivorce.com](mailto:customersupport@wikivorce.com). 
 
 #### How do we protect your personal details?
 
@@ -33,7 +33,7 @@ Wikivorce will not accept any liability for the consequences of this information
 
 #### Access to your personal information
 
-You have the right to request a copy of the personal information Wikivorce holds about you and to have any inaccuracies corrected. (Please note that we charge £5 for information requests.) Please address requests via email to [customersupport@wikivorce.com](mailto:wikivorce@hotmail.com). However, you may find it easier to just login and view your profile on the website where you can view and update all your personal information. 
+You have the right to request a copy of the personal information Wikivorce holds about you and to have any inaccuracies corrected. (Please note that we charge £5 for information requests.) Please address requests via email to [customersupport@wikivorce.com](mailto:customersupport@wikivorce.com). However, you may find it easier to just login and view your profile on the website where you can view and update all your personal information. 
 
 #### How do we use your personal information?
 
