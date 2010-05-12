@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the level3.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111125128id_/http%3A//www.level3.com/index.cfm%3FpageID%3D323) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the level3.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512195052id_/http%3A//www.level3.com/index.cfm%3FpageID%3D323) for the most accurate reproduction.*
 
 # Privacy Policy
 
