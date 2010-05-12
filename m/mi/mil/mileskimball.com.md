@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mileskimball.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508135822id_/http%3A//www.mileskimball.com/MilesKimball/CustomerService/Shop.aspx%3FSiteNum%3D0%26TabNum%3D0%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mileskimball.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512191047id_/http%3A//www.mileskimball.com/MilesKimball/CustomerService/Shop.aspx%3FSiteNum%3D0%26TabNum%3D0%23privacy) for the most accurate reproduction.*
 
 # Miles Kimball
 
 | | 
 
-| [Home](https://web.archive.org/web/20090508135822id_/http%3A//www.mileskimball.com/MilesKimball/Default.aspx) :: [Customer Service](https://web.archive.org/web/20090508135822id_/http%3A//www.mileskimball.com/MilesKimball/CustomerService/Default.aspx) :: [Shop With Confidence](https://web.archive.org/web/20090508135822id_/http%3A//www.mileskimball.com/MilesKimball/CustomerService/Shop.aspx)  
+| [Home](https://web.archive.org/web/20100512191047id_/http%3A//www.mileskimball.com/MilesKimball/Default.aspx) :: [Customer Service](https://web.archive.org/web/20100512191047id_/http%3A//www.mileskimball.com/MilesKimball/CustomerService/Default.aspx) :: [Shop With Confidence](https://web.archive.org/web/20100512191047id_/http%3A//www.mileskimball.com/MilesKimball/CustomerService/Shop.aspx)  
 ---  
    
 Shop With Confidence| Call us at1-800-255-4590  
@@ -23,7 +23,7 @@ Miles Kimball understands that returning an item needs to be as easy and conveni
 
 Your complete satisfaction is guaranteed. If you change your mind about a purchase for any reason just return it. We'll promptly refund your money or replace the item without a quibble or a quarrel. Miles Kimball prides itself on offering you great value prices on all our merchandise. 
 
-If you have any questions on how to return an item that you are not completely satisfied with, just click here to view our [Returns & Exchanges](https://web.archive.org/web/20090508135822id_/http%3A//www.mileskimball.com/MilesKimball/CustomerService/Ordering.aspx#returns) information.   
+If you have any questions on how to return an item that you are not completely satisfied with, just click here to view our [Returns & Exchanges](https://web.archive.org/web/20100512191047id_/http%3A//www.mileskimball.com/MilesKimball/CustomerService/Ordering.aspx#returns) information.   
   
 Back to top of page  
    
@@ -107,7 +107,7 @@ From time to time, Miles Kimball will send out an email announcing special sales
 * You may unsubscribe in the "Email Signup" section of our web site.   
 * You may e-mail, call, or fax Customer Service:   
 Customer Service: [csr@mileskimball.com](mailto:csr@mileskimball.com)  
-1-800-255-4590 Monday-Friday 8 a.m. - 10 p.m., Saturday 8 a.m. - 5 p.m (Central)
+1-800-255-4590 Monday-Friday 8 a.m. - 10 p.m., Saturday 8 a.m. - 5 p.m (Central), Sunday Closed
 
 Links To Other Sites  
 While visiting MilesKimball.com, you may link to web sites operated by our partners or other third parties. This does not mean we endorse these web sites. We do not make any representations or warranties about any web site you may access through this web site. They are independent from Miles Kimball, and we have no control over, or responsibility for, their information or activities. You need to make your own independent decision regarding your interactions or communications with any other web site. 
