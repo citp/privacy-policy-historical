@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gorkanapr.com privacy policy that was archived on 2009-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091109105534id_/http%3A//www.gorkanapr.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gorkanapr.com privacy policy that was archived on 2010-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100512184513id_/http%3A//www.gorkanapr.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -14,15 +14,15 @@
                 <link href="/css/datePicker.css" rel="stylesheet" type="text/css">
                 <link href="/css/jquery.lightbox-0.5.css" rel="stylesheet" type="text/css">
 
-                <script type="text/javascript" src="/jscript/f93f6cfcd3e2607bdbf05eed2dd6581a.js"></script>
-                
-                
-                
-                
-                
-                
-                
-                
+                <script type="text/javascript" src="/jscript/jquery-1.2.6.min.js"></script>
+                <script type="text/javascript" src="/jscript/jqModal.js"></script>
+                <script type="text/javascript" src="/jscript/jquery-ui-personalized-1.5.2.min.js"></script>
+                <script type="text/javascript" src="/jscript/jquery.form.js"></script>
+                <script type="text/javascript" src="/jscript/jquery.cookie.js"></script>
+                <script type="text/javascript" src="/jscript/jquery.autocomplete.js"></script>
+                <script type="text/javascript" src="/jscript/date.js"></script>
+                <script type="text/javascript" src="/jscript/jquery.datePicker.js"></script>
+                <script type="text/javascript" src="/jscript/jquery.lightbox-0.5.js"></script>
 
                 <script type="text/javascript">
 
@@ -284,7 +284,7 @@ background:URL(//img/texture.gif) ; padding-left:10px; border:solid 1px #999;">
   </div>
   <div style="clear:both;"></div>
   <div id="botbar">
-    <div id="legal">©2009 gorkana - <a href="/about/contact">contact</a> | <a href="/about/terms">terms</a> | <a href="/about/privacy">privacy policy</a></div>
+    <div id="legal">©2010 gorkana - <a href="/about/contact">contact</a> | <a href="/about/terms">terms</a> | <a href="/about/privacy">privacy policy</a></div>
   </div>
 </div>
 
@@ -301,6 +301,7 @@ $(document).ready(function(){
 </script>
 <div id="MindTheGap" style="height: 1217px;">
 </div>
+
   
 
 
@@ -310,10 +311,41 @@ $(document).ready(function(){
 				</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 				<script type="text/javascript">
 				try {
-					var pageTracker = _gat._getTracker("UA-790312-2");
+					var pageTracker = _gat._getTracker("UA-6318988-1");
 					pageTracker._trackPageview();
 				} catch(err) {}</script>
 			
+
+<!-- Piwik -->
+<script type="text/javascript">
+  var pkBaseURL = "/stats.gorkana.com/";
+  document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="/stats.gorkana.com/piwik.js" type="text/javascript"></script>
+<script type="text/javascript">
+  try {
+    var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+    var userData = {
+      'site' : 'GPR',
+              'users_id' : 0,
+        'user_type' : 'N/A',
+        'market_type' : 'N/A',
+        'organisations_id' : 0,
+        'organisations_type' : 'N/A',
+            'controller' : 'aboutPrivacyController',
+      'controller_id' : -1    };
+    piwikTracker.setCustomData( userData );
+    piwikTracker.enableLinkTracking();
+    piwikTracker.trackPageView();
+  } catch( err ) { 
+//    errMsg='';
+//    for (i in err) {
+//      errMsg+=i+':'+err[i]+'\n';
+//    }
+//    alert(errMsg);
+  }
+</script>
+<!-- End Piwik Tag -->
+
 
 
 <div id="ui-datepicker-div" style="display: none;"></div></body></html>
