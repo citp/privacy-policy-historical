@@ -1,15 +1,34 @@
-> *The following text is extracted and transformed from the webpagedesign.com.au privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603211023id_/http%3A//www.webpagedesign.com.au/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpagedesign.com.au privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513014036id_/http%3A//www.webpagedesign.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Art for the web privacy policy
+# Privacy Policy : Free web templates, graphics, articles and more.
 
-### Art for the web Privacy Policy
+This is the privacy policy of http://www.webpagedesign.com.au and will be referred to as “We”, “our” and “us” in this Internet Privacy Policy. By using this site, you agree to the Internet Privacy Policy of this web site (“the web site”), which is set out on this web site page. 
 
-This web site does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. 
+We reserve the right, at our discretion, to modify or remove portions of this Internet Privacy Policy at any time. This Internet Privacy Policy is in addition to any other terms and conditions applicable to the web site. We do not make any representations about third party web sites that may be linked to the web site.
 
-In some cases, you may voluntarily provide personal information, such as an e-mail address when signing up for a newsletter. This information will be kept confidential and will not be given out or sold. 
+We recognise the importance of protecting the privacy of information collected about visitors to our web site, in particular information that is capable of identifying an individual (“personal information”). This Internet Privacy Policy governs the manner in which your personal information, obtained through the web site, will be dealt with. 
 
-This site, Art for the web, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
+This Internet Privacy Policy should be reviewed periodically so that you are updated on any changes. We welcome your  
+comments and feedback.
 
-If you have any additional questions about consumer privacy, please contact me at [suz@minerva.com.au](mailto:suz@minerva.com.au)
+Personal Information
 
-[Home](https://web.archive.org/web/20010603211023id_/http%3A//www.webpagedesign.com.au/index.htm)
+Personal information about visitors to our site is collected or stored only when knowingly and voluntarily submitted. For example, we may need to collect such information to provide you with further services or to answer or forward any requests or enquiries. It is our intention that this policy will protect your personal information from being dealt with in any way that is inconsistent with applicable privacy laws.
+
+Use of Information
+
+Personal information that visitors submit to our site is used only for the purpose for which it is submitted or for such other secondary purposes that are related to the primary purpose, unless we disclose other uses in this Internet Privacy Policy or at the time of collection. Copies of correspondence sent from the web site, that may contain  
+personal information, are stored as archives for record-keeping and back-up purposes only. Information such as email addresses or any other personal information is never sold, traded or given away.
+
+Advertising
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Google’s use of the DART cookie enables it to serve ads based on users’ visit to our sites and  
+other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html 
+
+Links to other sites
+
+We provide links to Web sites outside of our web sites, as well as to third party Web sites. The content of these linked sites are not under our control, and we cannot accept responsibility for the conduct of companies linked from our website. 
+
+Problems or questions
+
+If we become aware of any ongoing concerns or problems with our web sites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please contact us. 
