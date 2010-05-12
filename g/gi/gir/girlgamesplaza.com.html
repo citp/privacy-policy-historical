@@ -1,18 +1,49 @@
-<!--The following is the downloaded HTML source of the girlgamesplaza.com privacy policy that was archived on 2009-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091206051335id_/http%3A//www.girlgamesplaza.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the girlgamesplaza.com privacy policy that was archived on 2010-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100512122014id_/http%3A//www.girlgamesplaza.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="description" content="">
 <meta name="keywords" content=""> 
 <title>Girl Games - Games For Girls - Privacy Policy</title>
-<link rel="stylesheet" type="text/css" href="http://www.girlgamesplaza.com/templates/ggplaza/template.css">
-<!--[if IE 6]>
-<link rel="stylesheet" type="text/css" href="http://www.girlgamesplaza.com/templates/ggplaza/template-ie6.css">
+<!--[if !(IE 6)]>
+<link rel="stylesheet" type="text/css" href="http://www.girlgamesplaza.com/templates/ggplaza/style.css">
 <![endif]-->
+
+<!--[if lte IE 6]>
+
+<link type="text/css" rel="stylesheet" href="http://www.girlgamesplaza.com/templates/ggplaza/style_IE6.css"  />
+
+<![endif]-->
+
+<!--[if	!IE]-->
+<link rel="stylesheet" type="text/css" href="http://www.girlgamesplaza.com/templates/ggplaza/style.css">
+<!--[endif]-->	
+
+<style type="text/css">
+
+
+</style>
+ <style type="text/css">
+.logo { behavior: url("http://www.girlgamesplaza.com/templates/ggplaza/iepngfix.htc") }
+</style> 
 <link rel="stylesheet" type="text/css" href="http://www.girlgamesplaza.com/templates/ggplaza/rating_style.css">
 <script type="text/javascript" src="http://www.girlgamesplaza.com/js/rating_update.js"></script>
+<script type="text/javascript" src="http://www.girlgamesplaza.com/js/poll.js"></script>
+<script type="text/javascript" src="http://www.girlgamesplaza.com/js/showtopgames.js"></script>
+<script type="text/javascript" src="http://www.girlgamesplaza.com/js/userfunctions.js"></script>
+<script type="text/javascript" src="http://www.girlgamesplaza.com/templates/ggplaza/pngfix.js"></script>
+
 <script src="http://www.girlgamesplaza.com/templates/ggplaza/arcade.js" type="text/javascript"></script>
+<!--<script type="text/javascript">
+	var GB_ROOT_DIR = "./greybox/";
+</script>
+<script type="text/javascript" src="http://www.girlgamesplaza.com/greybox/AJS.js"></script>
+<script type="text/javascript" src="http://www.girlgamesplaza.com/greybox/AJS_fx.js"></script>
+<script type="text/javascript" src="http://www.girlgamesplaza.com/greybox/gb_scripts.js"></script>
+
+<link href="http://www.girlgamesplaza.com/greybox/gb_styles.css" rel="stylesheet" type="text/css" /> -->
+
 <script type="text/javascript" language="javascript">
   var http_request = false;
 
@@ -68,23 +99,23 @@
 
     if(DivName == 'tf'){
     var poststr = "sendersname=" + encodeURI( document.getElementById("sendersname").value ) +
-  	  				"&sendersemail=" + encodeURI( document.getElementById("sendersemail").value ) +
-  	  				"&friendsemail=" + encodeURI( document.getElementById("friendsemail").value ) +
-  	  				"&about=" + encodeURI( document.getElementById("about").value ) +
-  	  				"&gamename=" + encodeURI( document.getElementById("gamename").value ) +
-  					  "&gameid=" + encodeURI( document.getElementById("gameid").value );
+  	  				"\&amp;sendersemail=" + encodeURI( document.getElementById("sendersemail").value ) +
+  	  				"\&amp;friendsemail=" + encodeURI( document.getElementById("friendsemail").value ) +
+  	  				"\&amp;about=" + encodeURI( document.getElementById("about").value ) +
+  	  				"\&amp;gamename=" + encodeURI( document.getElementById("gamename").value ) +
+  					  "\&amp;gameid=" + encodeURI( document.getElementById("gameid").value );
     
     //alert (SpanName); 
     makePOSTRequest('http://www.girlgamesplaza.com/index.php?action=tellafriendajax', poststr, SpanName);
     }    
     if(DivName == 'tfv'){
     var poststr = "sendersname=" + encodeURI( document.getElementById("sendersname").value ) +
-  	  				"&sendersemail=" + encodeURI( document.getElementById("sendersemail").value ) +
-  	  				"&friendsemail=" + encodeURI( document.getElementById("friendsemail").value ) +
-  	  				"&about=" + encodeURI( document.getElementById("about").value ) +
-  	  				"&gamename=" + encodeURI( document.getElementById("gamename").value ) +
-  	  				"&verifycode=" + encodeURI( document.getElementById("tafverifycode").value ) +
-  					  "&gameid=" + encodeURI( document.getElementById("gameid").value );
+  	  				"\&amp;sendersemail=" + encodeURI( document.getElementById("sendersemail").value ) +
+  	  				"\&amp;friendsemail=" + encodeURI( document.getElementById("friendsemail").value ) +
+  	  				"\&amp;about=" + encodeURI( document.getElementById("about").value ) +
+  	  				"\&amp;gamename=" + encodeURI( document.getElementById("gamename").value ) +
+  	  				"\&amp;verifycode=" + encodeURI( document.getElementById("tafverifycode").value ) +
+  					  "\&amp;gameid=" + encodeURI( document.getElementById("gameid").value );
     
     //alert (SpanName); 
     makePOSTRequest('http://www.girlgamesplaza.com/index.php?action=tellafriendajax', poststr, SpanName);
@@ -92,15 +123,15 @@
 
     if(DivName == 'cf'){
     var poststr = "newcomment=" + encodeURI( document.getElementById("newcomment").value ) +
-  	  				"&id=" + encodeURI( document.getElementById("id").value );
+  	  				"&amp;id=" + encodeURI( document.getElementById("id").value );
     
     //alert (SpanName); 
     makePOSTRequest('http://www.girlgamesplaza.com/index.php?action=addcommentajax', poststr, SpanName);
     }
     if(DivName == 'cfv'){
     var poststr = "newcomment=" + encodeURI( document.getElementById("newcomment").value ) +
-  	  				"&id=" + encodeURI( document.getElementById("id").value ) +
-  					"&verifycode=" + encodeURI( document.getElementById("cverifycode").value );
+  	  				"&amp;id=" + encodeURI( document.getElementById("id").value ) +
+  					"&amp;verifycode=" + encodeURI( document.getElementById("cverifycode").value );
     
     //alert (SpanName); 
     makePOSTRequest('http://www.girlgamesplaza.com/index.php?action=addcommentajax', poststr, SpanName);
@@ -110,103 +141,105 @@
   } 
 
 
-</script>    
+	/*function opensurvey(surl)
+	{
+		window.open(surl,"GirlGamesPlaza.com survey to better website","height=420,width=800,status=yes,toolbar=no,menubar=no,location=no");
+
+	}*/
+</script> 
+<meta name="google-site-verification" content="xy3GIifYOkiQv47fqFV1WFMpnrwsJETJKvnyRRSqQsw">
 </head>
-<body>
-<div id="wrapper">
-<div id="mainwrapper">
- <div id="header">
- <!-- <div id="logo"> -->
-   
-   
-    <div id="top-menu"><a href="http://www.girlgamesplaza.com/">Home</a> | <a href="http://www.girlgamesplaza.com/index.php?action=register">Register</a> | <a href="http://www.girlgamesplaza.com/contactus/">Contact us</a></div>
-	 <a href="http://www.girlgamesplaza.com/"><img src="/templates/ggplaza/images/logo_big.jpg" width="228" height="122" border="0"></a>
-	<!-- </div> -->
-  </div> 
- <!-- <div id="left-box"> -->
-  <!--  <div id="welcome">
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tr>
-          <td><a href="http://www.girlgamesplaza.com/"><img src="/templates/ggplaza/images/logo_big.jpg" alt="Girl Games" width="200" height="135" border="0"/></a></td>
-        </tr>
-      </table>
-    </div> -->
-<!--  </div> -->
-<!--  <div id="right-banner">
-	<!--<img src="/templates/ggplaza/images/mid_banner.gif" alt="" /> -->
-	<!-- <div id="top-menu"><a href="http://www.girlgamesplaza.com/">Home</a> | <a href="http://www.girlgamesplaza.com/index.php?action=register">Register</a> | <a href="http://www.girlgamesplaza.com/contactus/">Contact us</a></div> 
- </div> -->
-  <div id="maincontain">
-    <div id="leftpan">
-      <div id="categories">
-        <div id="categories-heading"></div>
-        <div id="categories-nav" style="padding:5px;">
-         <li><a class="topMenuText" href="http://www.girlgamesplaza.com/categories/140/animal-games.html">Animal Games (107)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/136/barbie-games.html">Barbie Games (28)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/137/boys-games.html">Boys Games (39)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/153/bratz-games.html">Bratz Games (27)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/141/cartoon-games.html">Cartoon Games (79)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/139/celebrity-games.html">Celebrity Games (169)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/150/christmas-games.html">Christmas Games (16)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/142/cooking-games.html">Cooking Games (83)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/135/decoration-games.html">Decoration Games (117)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/40/dress-up-games.html">Dress Up Games (380)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/146/fantasy-games.html">Fantasy Games (40)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/133/fashion-games.html">Fashion Games (8)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/151/halloween-games.html">Halloween Games (23)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/154/make-up-games.html">Make Up Games (40)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/132/makeover-games.html">Makeover Games (60)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/143/management-games.html">Management Games (129)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/147/music-games.html">Music Games (15)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/138/other-girl-games.html">Other Girl Games (57)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/144/painting-games.html">Painting Games (86)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/155/princess-games.html">Princess Games (25)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/158/puzzle-games.html">Puzzle Games (3)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/157/thanksgiving-games.html">Thanksgiving Games (6)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/149/valentine-games.html">Valentine Games (29)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/152/wedding-games.html">Wedding Games (58)</a>	
-        </li></div>
-        <div id="categories-bottum"><img src="/templates/ggplaza/images/categories_bgbottum.jpg" alt=""></div>
-      </div>
-      <div id="feature-box">
-      <!--  <div id="feature-heading">Sponsor</div> -->
-       <!-- <div id="feature-contain" style="text-align:center">
-	          <iframe align="middle" height="600" width="160" src="http://www.girlgamesplaza.com/ads/leftsky.html" scrolling="no" frameborder="0"></iframe>        </div> -->
-        <!--<div id="feature-bt"></div> -->
-      </div>
-      <div id="loginbox">
-        <div id="loginheader">Member Login</div>
-        <div id="login-contain">
-          
-       <table width="100%" border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr>
-              <td><b>
-                                         	 </b>
-              <form action="http://www.girlgamesplaza.com/index.php" method="post" name="form1" class="loginform" id="form1">
-                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                    <tbody><tr>
-                      <td width="42%" align="right" nowrap="nowrap" class="logintext">Username:</td>
-                      <td align="center"><input name="loginuser" type="text" class="loginfield" id="loginuser">                      </td>
-                    </tr>
-                    <tr>
-                      <td align="right" class="logintext">Password:</td>
-                      <td align="center"><input name="loginpassword" type="password" class="loginfield" id="loginpassword"></td>
-                    </tr>
-                  </tbody></table>
-                </form></td>
-            </tr>
-            <tr>
-              <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td width="70%" align="center" valign="top" class="logintext">Remember me:</td>
-                    <td align="left">
-                    <input name="saveme" type="checkbox" class="login-me" id="saveme">
-                    <input name="Submit" type="submit" id="Submit" value="Login">
-                    </td>
-                  </tr>
-                </tbody></table></td>
-            </tr>
-            
-            <tr>
-              <td>&nbsp;</td>
-            </tr>
-            <tr>
-              <td class="gamenamewhite" style="padding-left:5px">Not a Member Yet?</td>
-            </tr>
-            <tr>
-              <td class="gamenamewhite" style="padding-left:5px">
-<br><br>716 Tokens Left<br>
-Becoming a member is easy and has many benefits!</td>
-            </tr>
-            <tr>
-              <td align="center"><a href="http://www.girlgamesplaza.com/index.php?action=register"><img src="/templates/ggplaza/images/registertoday.jpg" alt="" width="129" height="45" border="0"></a></td>
-            </tr>
-          </tbody></table>
-        </div>
-        <div id="login-bt"></div>
-      </div>
-    </div>
-       <!-- <div style="float:left;width:800px;margin-bottom:6px;margin-left:10px;display:inline;text-align:center">
-    <iframe align="middle" height="90" width="728" src="http://www.girlgamesplaza.com/ads/leaderboard.html" scrolling="no" frameborder="0"></iframe>    </div> -->
-        <!-- CONTENT PAGE -->
+
+<body> 
+
+<div class="main" align="center">
+	<div class="top">
+		<div style="float:right; width:468px;margin:0px;padding:0px;margin-top:80px;">
+			<!-- BEGIN STANDARD TAG - 468 x 60 - girlgamesplaza::Default section
+			- DO NOT MODIFY -->
+
+			<script type="text/javascript" src="http://ad.103092804.com/st?ad_type=ad&amp;ad_size=468x60&amp;section=830325"></script>
+			<!-- END TAG -->
+		</div>
+		<div style="float:left">
+		<a href="http://www.girlgamesplaza.com/" class="logo" title="Girl Games"></a>
+		</div>
 		
+		
+		<div class="clear"></div>
+	</div>
+	<!-- inner content code starts here -->
+	<div class="innercont">
+		<div class="innerconttop"></div>
+		<div class="innercontbg">
+		<!-- login related code starts -->
+			          	 
+<form action="http://www.girlgamesplaza.com/index.php" method="post" name="form1" class="loginform" id="form1">
+<div class="login">
+	<div class="login_left"></div> 
+	<div class="login_bg">
+		<div class="input"><input name="loginuser" type="text" value="Username" class="textfield" id="loginuser" onclick="if(this.value=='Username') this.value=''" onblur="if(this.value=='') this.value='Username'"></div>
+		<div class="input"><input name="loginpassword" type="password" value="Password" class="textfield" id="loginpassword" onkeyup="if(this.value=='Password') this.value=''" onclick="if(this.value=='Password') this.value=''" onblur="if(this.value=='') this.value='Password'"></div>
+		<div class="login_img"><input type="image" src="http://www.girlgamesplaza.com/templates/ggplaza/images/login-btn.png" style="height:20px;width:65px;border:0px;" alt="login"></div>
+		<div class="login_text" style="padding-left:15px;"><a href="http://www.girlgamesplaza.com/?action=passwordrecovery">Forgot Password?</a> | <a href="http://www.girlgamesplaza.com/?action=register">Sign Up</a> |</div>
+		<div class="chkbox"><input name="saveme" type="checkbox" value="" id="saveme"></div>
+		<div class="login_text"> Remember Me</div>
+	</div>
+	<div class="login_right"></div> 
+</div>
+</form>
+
+
+		<!-- login related code ends -->
+		<!-- search code starts here -->
+		<div class="search">
+			<div class="login_left"></div>
+			<form name="searchbox" method="post" action="http://www.girlgamesplaza.com/">
+			<div class="search_bg">
+				<div class="input2"><input type="text" name="q" value="Search for games" class="textfield2" onclick="if(this.value=='Search for games') this.value=''" onblur="if(this.value=='') this.value='Search for games'"></div>
+				<div class="search_img"><a href="#"><input type="image" src="http://www.girlgamesplaza.com/templates/ggplaza/images/search-btn.png" style="height:20;width:70;border:0px" alt="search for girl games"></a></div> 
+				
+			</div>
+			</form>
+			<div class="login_right"></div> 
+		</div>
+		<!-- search code ends -->
+			
+	
+<!-- main content portion starts here. it has left, and middle subdivisions -->
+<!-- left side code starts -->
+		<div class="left_side">
+					
+
+			<div class="categoty"><h1>Categories</h1></div>
+			<div class="categotybg">
+				  <div class="categoty_menu">
+						<!--<a href="http://www.girlgamesplaza.com/categories/159/all-games.html"><strong>All Games</strong> </a><a href="http://www.girlgamesplaza.com/categories/162/exclusive-games.html"><strong>Exclusive Games</strong> </a><a href="http://www.girlgamesplaza.com/categories/160/most-popular-games.html"><strong>Most Popular Games</strong> </a><a href="http://www.girlgamesplaza.com/categories/161/top-rated-games.html"><strong>Top Rated Games</strong> </a> <a  href="http://www.girlgamesplaza.com/categories/140/animal-games.html">Animal Games </a> <a  href="http://www.girlgamesplaza.com/categories/136/barbie-games.html">Barbie Games </a> <a  href="http://www.girlgamesplaza.com/categories/137/boys-games.html">Boys Games </a> <a  href="http://www.girlgamesplaza.com/categories/153/bratz-games.html">Bratz Games </a> <a  href="http://www.girlgamesplaza.com/categories/141/cartoon-games.html">Cartoon Games </a> <a  href="http://www.girlgamesplaza.com/categories/139/celebrity-games.html">Celebrity Games </a> <a  href="http://www.girlgamesplaza.com/categories/150/christmas-games.html">Christmas Games </a> <a  href="http://www.girlgamesplaza.com/categories/142/cooking-games.html">Cooking Games </a> <a  href="http://www.girlgamesplaza.com/categories/135/decoration-games.html">Decoration Games </a> <a  href="http://www.girlgamesplaza.com/categories/40/dress-up-games.html">Dress Up Games </a> <a  href="http://www.girlgamesplaza.com/categories/146/fantasy-games.html">Fantasy Games </a> <a  href="http://www.girlgamesplaza.com/categories/133/fashion-games.html">Fashion Games </a> <a  href="http://www.girlgamesplaza.com/categories/151/halloween-games.html">Halloween Games </a> <a  href="http://www.girlgamesplaza.com/categories/154/make-up-games.html">Make Up Games </a> <a  href="http://www.girlgamesplaza.com/categories/132/makeover-games.html">Makeover Games </a> <a  href="http://www.girlgamesplaza.com/categories/143/management-games.html">Management Games </a> <a  href="http://www.girlgamesplaza.com/categories/147/music-games.html">Music Games </a> <a  href="http://www.girlgamesplaza.com/categories/163/nail-studio-games.html">Nail Studio Games </a> <a  href="http://www.girlgamesplaza.com/categories/138/other-girl-games.html">Other Girl Games </a> <a  href="http://www.girlgamesplaza.com/categories/144/painting-games.html">Painting Games </a> <a  href="http://www.girlgamesplaza.com/categories/155/princess-games.html">Princess Games </a> <a  href="http://www.girlgamesplaza.com/categories/158/puzzle-games.html">Puzzle Games </a> <a  href="http://www.girlgamesplaza.com/categories/157/thanksgiving-games.html">Thanksgiving Games </a> <a  href="http://www.girlgamesplaza.com/categories/149/valentine-games.html">Valentine Games </a> <a  href="http://www.girlgamesplaza.com/categories/152/wedding-games.html">Wedding Games </a>	-->
+						<a href="http://www.girlgamesplaza.com/">Games For Girls</a><a href="http://www.girlgamesplaza.com/categories/160/exclusive-games.html"> Exclusive Games </a><a href="http://www.girlgamesplaza.com/categories/160/most-popular-games.html"> Most Popular Games </a><a href="http://www.girlgamesplaza.com/categories/160/top-rated-games.html"> Top Rated Games </a><a href="http://www.girlgamesplaza.com/categories/160/all-games.html">All Games </a><a href="http://www.girlgamesplaza.com/categories/2/animal-games.html">Animal Games </a><a href="http://www.girlgamesplaza.com/categories/13/baby-games.html">Baby Games </a><a href="http://www.girlgamesplaza.com/categories/4/barbie-games.html">Barbie Games </a><a href="http://www.girlgamesplaza.com/categories/16/boys-games.html">Boys Games </a><a href="http://www.girlgamesplaza.com/categories/6/bratz-games.html">Bratz Games </a><a href="http://www.girlgamesplaza.com/categories/14/cartoon-games.html">Cartoon Games </a><a href="http://www.girlgamesplaza.com/categories/207/celebrity-games.html">Celebrity Games </a><a href="http://www.girlgamesplaza.com/categories/17/christmas-games.html">Christmas Games </a><a href="http://www.girlgamesplaza.com/categories/20/coloring-games.html">Coloring Games </a><a href="http://www.girlgamesplaza.com/categories/10/cooking-games.html">Cooking Games </a><a href="http://www.girlgamesplaza.com/categories/11/decorating-games.html">Decorating Games </a><a href="http://www.girlgamesplaza.com/categories/119/dog-games.html">Dog Games </a><a href="http://www.girlgamesplaza.com/categories/194/dora-games.html">Dora Games </a><a href="http://www.girlgamesplaza.com/categories/3/dress-up-games.html">Dress Up Games </a><a href="http://www.girlgamesplaza.com/categories/7/fashion-games.html">Fashion Games </a><a href="http://www.girlgamesplaza.com/categories/58/fish-games.html">Fish Games </a><a href="http://www.girlgamesplaza.com/categories/15/fun-games.html">Fun Games </a><a href="http://www.girlgamesplaza.com/categories/220/hannah-montana-games.html">Hannah Montana Games </a><a href="http://www.girlgamesplaza.com/categories/24/hidden-object-games.html">Hidden Object Games </a><a href="http://www.girlgamesplaza.com/categories/222/horse-games.html">Horse Games </a><a href="http://www.girlgamesplaza.com/categories/19/kids-games.html">Kids Games </a><a href="http://www.girlgamesplaza.com/categories/23/kissing-games.html">Kissing Games </a><a href="http://www.girlgamesplaza.com/categories/9/make-up-games.html">Make up Games </a><a href="http://www.girlgamesplaza.com/categories/8/makeover-games.html">Makeover Games </a><a href="http://www.girlgamesplaza.com/categories/12/management-games.html">Management Games </a><a href="http://www.girlgamesplaza.com/categories/197/mickey-mouse-games.html">Mickey Mouse games </a><a href="http://www.girlgamesplaza.com/categories/21/painting-games.html">Painting Games </a><a href="http://www.girlgamesplaza.com/categories/5/princess-games.html">Princess Games </a><a href="http://www.girlgamesplaza.com/categories/22/puzzle-games.html">Puzzle Games </a><a href="http://www.girlgamesplaza.com/categories/193/spongebob-games.html">Spongebob Games </a>				  </div>
+			</div>
+			<div class="categotybottom"></div> 
+			<div class="clear" style="margin-top:20px"></div>
+			<script type="text/javascript"><!--
+google_ad_client = "pub-1637970596515507";
+/* 160x600, created 3/24/10 */
+google_ad_slot = "5458805532";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+			<div class="categoty"><h1>Members</h1></div>
+			<div class="profilesbg">
+				<div class="profilescont">
+						<div class="txt-tags" style="float:left;width:auto;margin-right:15px;margin-bottom:3px;margin-top:3px;"><a href="http://www.girlgamesplaza.com/profiles/3914/rathpri.html">rathpri </a></div><div class="txt-tags" style="float:left;width:auto;margin-right:15px;margin-bottom:3px;margin-top:3px;"><a href="http://www.girlgamesplaza.com/profiles/3754/veena.html">veena </a></div><div class="txt-tags" style="float:left;width:auto;margin-right:15px;margin-bottom:3px;margin-top:3px;"><a href="http://www.girlgamesplaza.com/profiles/3438/kittymouse77.html">kittymouse77 </a></div><div class="txt-tags" style="float:left;width:auto;margin-right:15px;margin-bottom:3px;margin-top:3px;"><a href="http://www.girlgamesplaza.com/profiles/3907/kimmycutie24.html">kimmycutie24 </a></div><div class="txt-tags" style="float:left;width:auto;margin-right:15px;margin-bottom:3px;margin-top:3px;"><a href="http://www.girlgamesplaza.com/profiles/3902/mandy.html">mandy </a></div><div class="txt-tags" style="float:left;width:auto;margin-right:15px;margin-bottom:3px;margin-top:3px;"><a href="http://www.girlgamesplaza.com/profiles/3891/weirdoholly.html">WeirdoHolly </a></div><div class="txt-tags" style="float:left;width:auto;margin-right:15px;margin-bottom:3px;margin-top:3px;"><a href="http://www.girlgamesplaza.com/profiles/3888/mirelysdianne10.html">mirelysdianne10 </a></div><div class="txt-tags" style="float:left;width:auto;margin-right:15px;margin-bottom:3px;margin-top:3px;"><a href="http://www.girlgamesplaza.com/profiles/3409/judith2975.html">judith2975 </a></div><div class="txt-tags" style="float:left;width:auto;margin-right:15px;margin-bottom:3px;margin-top:3px;"><a href="http://www.girlgamesplaza.com/profiles/3875/candice101.html">Candice101 </a></div><div class="txt-tags" style="float:left;width:auto;margin-right:15px;margin-bottom:3px;margin-top:3px;"><a href="http://www.girlgamesplaza.com/profiles/3711/figlia.html">figlia </a></div><div class="txt-tags" style="float:left;width:auto;margin-right:15px;margin-bottom:3px;margin-top:3px;"><a href="http://www.girlgamesplaza.com/profiles/3737/samrah.html">samrah </a></div><div class="txt-tags" style="float:left;width:auto;margin-right:15px;margin-bottom:3px;margin-top:3px;"><a href="http://www.girlgamesplaza.com/profiles/3788/desola101.html">desola101 </a></div><div class="txt-tags" style="float:left;width:auto;margin-right:15px;margin-bottom:3px;margin-top:3px;"><a href="http://www.girlgamesplaza.com/profiles/2665/mckernancr.html">mckernancr </a></div><div class="txt-tags" style="float:left;width:auto;margin-right:15px;margin-bottom:3px;margin-top:3px;"><a href="http://www.girlgamesplaza.com/profiles/3015/shannon1997.html">shannon1997 </a></div><div class="txt-tags" style="float:left;width:auto;margin-right:15px;margin-bottom:3px;margin-top:3px;"><a href="http://www.girlgamesplaza.com/profiles/3861/tami708.html">tami_708 </a></div><br><div class="clear"></div><div class="txt-tags" style="float:right;width:auto;margin-right:5px;margin-bottom:3px;margin-top:3px;"><a href="http://www.girlgamesplaza.com/profiles/">VIEW ALL MEMBERS </a></div>				</div>
+			</div>
+		</div>
+
+<!-- left side code ends -->
+<!-- middle code -->
+		<div class="right_side">
+			
     
 <div id="midpan">
     <div id="latestgame-box" style="float:left;">
@@ -230,137 +263,53 @@ If you choose to visit our website and use our services in any way, your visit a
     </div>
     </div>
     <div id="latestgame-box" style="margin-top:20px;float:left"><iframe align="middle" height="250" width="300" src="http://www.girlgamesplaza.com/ads/leftmedrect.html" scrolling="no" frameborder="0"></iframe>&nbsp;&nbsp;<iframe align="middle" height="250" width="300" src="http://www.girlgamesplaza.com/ads/rightmedrect.html" scrolling="no" frameborder="0"></iframe></div>
-    </div>	
-    <!-- END CONTENT PAGE -->		
-
-        <div id="rightpan">
-      <div id="rightpan">
-        <div id="rightadd" style="margin-bottom:10px;">
-    <!--    <div id="statics-head">Sponsor</div> -->
-      <!--  <div id="statics-contain" style="margin-top:5px;text-align:center">
-        <iframe align="middle" height="600" width="160" src="http://www.girlgamesplaza.com/ads/rightsky.html" scrolling="no" frameborder="0"></iframe>        </div> -->
-        </div>
-        <!--<div id="languages">
-        <div id="statics-head">Languages</div>
-        <div id="statics-contain" style="margin-top:5px;">
-            <flags> 
-<a href="http://www.girlgamesplaza.com/fr/"><img src="http://www.girlgamesplaza.com/images/flag_fr.gif" alt="Français" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/es/"><img src="http://www.girlgamesplaza.com/images/flag_es.gif" alt="Espanol" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/ja/"><img src="http://www.girlgamesplaza.com/images/flag_ja.gif" alt="???" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/it/"><img src="http://www.girlgamesplaza.com/images/flag_it.gif" alt="Italiano" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/de/"><img src="http://www.girlgamesplaza.com/images/flag_de.gif" alt="Deutsch" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/zh/"><a href="http://www.girlgamesplaza.com/nl/"><img src="http://www.girlgamesplaza.com/images/flag_nl.gif" alt="Nederlands" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/ko/"><img src="http://www.girlgamesplaza.com/images/flag_ko.gif" alt="???" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/pt/"><img src="http://www.girlgamesplaza.com/images/flag_pt.gif" alt="Port" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/ru/"><img src="http://www.girlgamesplaza.com/images/flag_ru.gif" alt="??????" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/el/"><img src="http://www.girlgamesplaza.com/images/flag_el.gif" alt="????????" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/sv/"><img src="http://www.girlgamesplaza.com/images/flag_sv.gif" alt="Swedish" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/id/"><img src="http://www.girlgamesplaza.com/images/flag_id.gif" alt="Indo" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/ro/"><img src="http://www.girlgamesplaza.com/images/flag_ro.gif" alt="Romanian" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/pl/"><img src="http://www.girlgamesplaza.com/images/flag_pl.gif" alt="Polish" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/no/"><img src="http://www.girlgamesplaza.com/images/flag_no.gif" alt="Norwegian" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/hi/"><img src="http://www.girlgamesplaza.com/images/flag_hi.gif" alt="Hindi" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/fi/"><img src="http://www.girlgamesplaza.com/images/flag_fi.gif" alt="Finnish" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/da/"><img src="http://www.girlgamesplaza.com/images/flag_da.gif" alt="Danish" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/cs/"><img src="http://www.girlgamesplaza.com/images/flag_cs.gif" alt="Czech" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/hr/"><img src="http://www.girlgamesplaza.com/images/flag_hr.gif" alt="Croatian" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/bg/"><img src="http://www.girlgamesplaza.com/images/flag_bg.gif" alt="Bulgarian" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/"><br><img src="http://www.girlgamesplaza.com/images/flag_en.gif" alt="English - Original language" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/" target="_blank" style="display: none;">English</a>ENGLISH
-</flags>
-        </div>
-        </div>-->
-        <div id="topplayes-box">
-          <div id="topplayes-box-head"><strong>Top Players</strong></div>
-          <div id="topplayes-box-contain">
-            			<div style="width:100%;">
-                				<div style="width:35px; float:left;">
-                					<a href="http://www.girlgamesplaza.com/profiles/301/fashionita121496.html"><img src="http://www.girlgamesplaza.com/images/noavatar.gif" width="30" height="30" style="margin:1px; border:1px solid #000000;"></a>
-                				</div>
-                				<div style="width:80px; float:left;">
-                					1. <a href="http://www.girlgamesplaza.com/profiles/301/fashionita121496.html " class="gamenamewhite">fashionita12...</a><br>
-                					<b>305 points</b>
-                				</div>
-                				<div style="clear:both;"></div>
-                			</div>			<div style="width:100%;">
-                				<div style="width:35px; float:left;">
-                					<a href="http://www.girlgamesplaza.com/profiles/127/juliac1227.html"><img src="http://www.girlgamesplaza.com/images/noavatar.jpg" width="30" height="30" style="margin:1px; border:1px solid #000000;"></a>
-                				</div>
-                				<div style="width:80px; float:left;">
-                					2. <a href="http://www.girlgamesplaza.com/profiles/127/juliac1227.html " class="gamenamewhite">JuliaC1227</a><br>
-                					<b>293 points</b>
-                				</div>
-                				<div style="clear:both;"></div>
-                			</div>			<div style="width:100%;">
-                				<div style="width:35px; float:left;">
-                					<a href="http://www.girlgamesplaza.com/profiles/75/allen31.html"><img src="http://www.girlgamesplaza.com/images/noavatar.jpg" width="30" height="30" style="margin:1px; border:1px solid #000000;"></a>
-                				</div>
-                				<div style="width:80px; float:left;">
-                					3. <a href="http://www.girlgamesplaza.com/profiles/75/allen31.html " class="gamenamewhite">allen31</a><br>
-                					<b>159 points</b>
-                				</div>
-                				<div style="clear:both;"></div>
-                			</div>			<div style="width:100%;">
-                				<div style="width:35px; float:left;">
-                					<a href="http://www.girlgamesplaza.com/profiles/124/lovey77dovey.html"><img src="http://www.girlgamesplaza.com/images/noavatar.jpg" width="30" height="30" style="margin:1px; border:1px solid #000000;"></a>
-                				</div>
-                				<div style="width:80px; float:left;">
-                					4. <a href="http://www.girlgamesplaza.com/profiles/124/lovey77dovey.html " class="gamenamewhite">lovey77dovey</a><br>
-                					<b>76 points</b>
-                				</div>
-                				<div style="clear:both;"></div>
-                			</div>			<div style="width:100%;">
-                				<div style="width:35px; float:left;">
-                					<a href="http://www.girlgamesplaza.com/profiles/61/ashley.html"><img src="http://www.girlgamesplaza.com/images/noavatar.jpg" width="30" height="30" style="margin:1px; border:1px solid #000000;"></a>
-                				</div>
-                				<div style="width:80px; float:left;">
-                					5. <a href="http://www.girlgamesplaza.com/profiles/61/ashley.html " class="gamenamewhite">ashley</a><br>
-                					<b>66 points</b>
-                				</div>
-                				<div style="clear:both;"></div>
-                			</div>          </div>
-          <div id="topplayes-box-bot"></div>
-        </div>
-      <!--  <div id="statics">
-          <div id="statics-head">Site Statistics</div>
-          <div id="statics-contain">
-            
+    </div>		</div>
+	<!-- middle code ends -->
+	</div> <!--innercontent bg-->
 		
-		
-			
-		  <div style="padding:4px;">
-Total Games: 1624<br>
-                   Played Today: 17207<br>
-                   Overall Played: 772909<br>
-                
-                                   Total Members: 130<br>
-                   Newest Member: <a href="http://www.girlgamesplaza.com/profiles/586/zordj.html" TITLE="Click to View Profile">zor_dj</a><br>
-                                  Total Users Online: 41                  <br>
-                
-                  <br/>
-                  (0 members and 41 guests)
+	</div><!-- innercont -->
+<!-- main content portion ends here -->
+	<div class="innercontbottom"></div> 
+<!-- inner content code ends here -->
+</div>
+
+<!-- footer code starts here -->
+<div class="flinks">
+	<div class="main">
+	<!--	<div style="clear:both;float:left; width:970px; padding-top:0px;">
+		<a href="http://www.dressupgirl.net" target="_blank" style="clear:both;padding:0px;margin:0px;"><img src="http://www.girlgamesplaza.com/partners/images/dressupgirl.gif" style="width:88px; height:31px; " alt="www.dressupgirl.net" border="0"/></a>
+		<a href="http://www.dressupwho.com" target="_blank" style="clear:both;padding:0px;margin:0px;"><img src="http://www.girlgamesplaza.com/partners/images/dressupwho.gif" style="width:90px; height:30px; " alt="dressup who" border="0"/></a>
+		<a href="http://www.girlgames1.com" target="_blank" style="clear:both;padding:0px;margin:0px;"><img src="http://www.girlgamesplaza.com/partners/images/girlgames1.jpg" style="width:80px; height:35px; " alt="www.girlgames1" border="0"/></a> -->
+		<div class="clear"></div>
+		 <div style="clear:both;float:left; width:970px; padding-top:0px;"><a href="http://www.girlgames1.com " target="_blank" style="clear:both;padding:0px;margin:0px;"><img src="http://www.girlgamesplaza.com/partners/images/girlgames1.jpg" style="width:88px; height:31px; " alt="girlgames1" border="0"></a><a href="http://www.dressupwho.com " target="_blank" style="clear:both;padding:0px;margin:0px;"><img src="http://www.girlgamesplaza.com/partners/images/dressupwho.jpg" style="width:88px; height:31px; " alt="dressupwho" border="0"></a><a href="http://www.dressupgirl.net " target="_blank" style="clear:both;padding:0px;margin:0px;"><img src="http://www.girlgamesplaza.com/partners/images/dressupgirl.jpg" style="width:88px; height:31px; " alt="dressupgirl" border="0"></a><a href="http://www.bowbie.com " target="_blank" style="clear:both;padding:0px;margin:0px;"><img src="http://www.girlgamesplaza.com/partners/images/bowbie.jpg" style="width:88px; height:31px; " alt="bowbie" border="0"></a><div class="clear"></div><a class="flinks" href="http://www.2games.com" target="_blank">2Games.com</a>|<a class="flinks" href="http://www.wambie.com/games/cooking-games.html" target="_blank">cooking games</a>|<a class="flinks" href="http://www.dressupcraze.com" target="_blank">Dress Up</a>|<a class="flinks" href="http://www.freecookinggames.net/ " target="_blank">Free Cooking Games</a>|<a class="flinks" href="http://www.gamesgirl.ca" target="_blank">Free Girls Games</a>|<a class="flinks" href="http://www.flashjolt.com" target="_blank">Free Online Games</a>|<a class="flinks" href="http://www.gamesforgirlsclub.com" target="_blank">Games for Girls</a>|<a class="flinks" href="http://www.games2dress.com/" target="_blank">Games2Dress</a>|<a class="flinks" href="http://www.allfungirlsgames.com" target="_blank">Girls Games</a>|<a class="flinks" href="http://www.girlsgames.biz" target="_blank">Girlsgames</a>|<a class="flinks" href="http://www.buzzedgames.com/" target="_blank">Internet Games</a>|<a class="flinks" href="http://www.onlygirlsgames.com" target="_blank">Only Girls Games</a>|<a class="flinks" href="http://www.roxigames.com" target="_blank">Roxi games</a>|<a class="flinks" href="http://www.smileygamer.com" target="_blank">Smiley Gamer</a>|<a class="flinks" href="http://www.aceonlinegames.com" target="_blank">Top Online Games</a>|<a class="categoty_menu" href="http://www.girlgamesplaza.com/more-game-partners">More game partners</a>		</div>
+		<div class="clear"></div>
+   </div>
+  <div class="footer">
+	(c)2008-2010 - GirlGamesPlaza. All rights reserved.   <a href="http://www.girlgamesplaza.com/termsandconditions/">Terms &amp; Conditions</a> | <a href="http://www.girlgamesplaza.com/privacypolicy/">Privacy Statement</a> | <a href="http://www.girlgamesplaza.com/free-games/">Free Games for your Website</a> | <a href="http://www.girlgamesplaza.com/contactus/">Contact Us</a> 
+	<!-- Site Meter -->
+	<script type="text/javascript" src="http://sm1.sitemeter.com/js/counter.js?site=sm1ggplaza">
+	</script>
+	<noscript>
+	<a href="http://sm1.sitemeter.com/stats.asp?site=sm1ggplaza" target="_top">
+	<img src="http://sm1.sitemeter.com/meter.asp?site=sm1ggplaza" alt="Site Meter" border="0"/></a>
+	</noscript>
+	<!-- Copyright (c)2006 Site Meter --> 
+  </div>
+</div>
 
 
-		 </div>
-          </div>
-        </div> -->
-        <div id="rss">
-        	<div id="statics-head">RSS Feeds</div>
-        	<div id="statics-contain" style="margin-top:5px;">
-          	<!-- Begin Listing RSS Feed Icons -->
-			<a href="http://www.girlgamesplaza.com/rss.php?type=newest_content&amp;limit=15" title="Click to see the Newest Content RSS Feed"><img src="http://www.girlgamesplaza.com/images/newest-content-rss.jpg" border="0" alt="Click to see the Newest Content RSS Feed"></a>
-			<a href="http://www.girlgamesplaza.com/rss.php?type=most_popular&amp;limit=15" title="Click to see the Most Popular Content RSS Feed"><img src="http://www.girlgamesplaza.com/images/most-popular-rss.jpg" border="0" alt="Click to see the Most Popular Content RSS Feed"></a>
-			<a href="http://www.girlgamesplaza.com/rss.php?type=random_content&amp;limit=15" title="Click to see the Random Content RSS Feed"><img src="http://www.girlgamesplaza.com/images/random-content-rss.jpg" border="0" alt="Click to see the Random Content RSS Feed"></a>   
-			<a href="http://www.girlgamesplaza.com/index.php?action=rss" title="Click to see the More RSS Feeds"><img src="http://www.girlgamesplaza.com/images/more-feeds-rss.jpg" border="0" alt="Click to see more RSS Feeds"></a>   
-			<!-- End Listing RSS Feed Icons -->
-			</div>
-        </div>
-      </div>
-    </div>
-  </div>
-    <div style="float:left;width:100%;background-color:#F0325E;margin-top:10px">
-  <div style="float:left;margin:4px">
-<a class="linkexchange" href="http://www.rainbowdressup.com/" target="_blank">Dress Up Games</a> <a class="linkexchange" href="http://www.dressupcraze.com" target="_blank">DressUpCraze</a> <a class="linkexchange" href="http://www.flashjolt.com" target="_blank">Free Online Games</a> <a class="linkexchange" href="http://www.gameland4girls.com" target="_blank">GameLand4Girls</a> <a class="linkexchange" href="http://www.girlgames.com" target="_blank">Girl Games</a> <a class="linkexchange" href="http://www.allfungirlsgames.com" target="_blank">Girls Games</a> <a class="linkexchange" href="http://www.thegirlsgames.com" target="_blank">Girls Games</a> <a class="linkexchange" href="http://www.onlygirlsgames.com" target="_blank">Only Girls Games</a> <a class="linkexchange" href="http://www.aceonlinegames.com" target="_blank">Top Online Games</a> </div>
-  </div>
-  <div id="footer-nav" class="footerbg">
-  (c)2008-2009 - GirlGamesPlaza. All rights reserved.   <a href="/termsandconditions/">Terms &amp; Conditions</a> | <a href="/privacypolicy/">Privacy Statement</a> | <a href="/free-games/">Free Games of your Website</a> | <a href="/contactus/">Contact Us</a> 
-  <!-- Site Meter -->
-<script type="text/javascript" src="http://sm1.sitemeter.com/js/counter.js?site=sm1ggplaza">
-</script>
-<noscript>
-<a href="http://sm1.sitemeter.com/stats.asp?site=sm1ggplaza" target="_top">
-<img src="http://sm1.sitemeter.com/meter.asp?site=sm1ggplaza" alt="Site Meter" border="0"/></a>
-</noscript>
-<!-- Copyright (c)2006 Site Meter --> 
-</div>
-</div>
-</div> 
+
+<!-- footer code ends here -->
+<!-- google script starts -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
 try {
-var pageTracker = _gat._getTracker("UA-2294123-1");
+var pageTracker = _gat._getTracker("UA-15445752-1");
 pageTracker._trackPageview();
-} catch(err) {}</script> 
+} catch(err) {}</script>
+<!-- google script ends-->
 
 </body></html>
