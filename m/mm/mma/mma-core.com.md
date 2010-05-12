@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mma-core.com privacy policy that was archived on 2009-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090304011329id_/http%3A//www.mma-core.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mma-core.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512182014id_/http%3A//www.mma-core.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # MMA-Core.com / Privacy Policy
 
