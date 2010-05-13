@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the conns.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111214523id_/http%3A//www.conns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conns.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513064951id_/http%3A//www.conns.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-#### You're currently on:
 
 ### Privacy Policy
 
@@ -35,4 +33,4 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
  **How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, please call us at 1-877-472-5422 or send us an email at [customerservice@conns.com](mailto:customerservice@conns.com). 
+Should you have other questions or concerns about these privacy policies, please call us at 1-866-765-1513 or send us an email at [customerservice@conns.com](mailto:customerservice@conns.com).
