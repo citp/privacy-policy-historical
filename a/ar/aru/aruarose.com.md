@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aruarose.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111230026id_/http%3A//www.aruarose.com/index.php%3Fact%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aruarose.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513075206id_/http%3A//www.aruarose.com/index.php%3Fact%3Dprivacy) for the most accurate reproduction.*
 
 # ROSE Online .::. Rush On Seven Episodes .::. Free To Play MMORPG!
 
