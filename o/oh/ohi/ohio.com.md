@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohio.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123085305id_/http%3A//www.ohio.com/about/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohio.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513054614id_/http%3A//www.ohio.com/about/terms.html) for the most accurate reproduction.*
 
 # Ohio.com - Terms of Use
 
