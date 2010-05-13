@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the high-logic.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102103121id_/http%3A//www.high-logic.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the high-logic.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513193336id_/http%3A//www.high-logic.com/privacypolicy.html) for the most accurate reproduction.*
 
 # High-Logic - Privacy Policy
 
@@ -42,7 +42,7 @@
 
 ### Copyright
 
-## All documents, information and logos included on this website are copyright High-Logic 1997-2009, except where noted otherwise.
+## All documents, information and logos included on this website are copyright High-Logic 1997-2010, except where noted otherwise.
 
 ## You may access, download and print materials on this web site for your personal and non-commercial use. You may not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any information, software, products or services obtained from this web site. Furthermore, you may not use the materials found on this web site on any other web sites or in a networked environment without written permission by High-Logic.
 
