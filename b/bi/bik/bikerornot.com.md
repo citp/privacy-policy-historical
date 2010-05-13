@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikerornot.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418152236id_/http%3A//www.bikerornot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikerornot.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513025532id_/http%3A//www.bikerornot.com/privacy) for the most accurate reproduction.*
 
 # Biker Or Not - 100% Free Biker Dating and Social Networking.
 
