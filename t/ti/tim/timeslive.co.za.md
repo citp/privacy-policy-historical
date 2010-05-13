@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timeslive.co.za privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112144054id_/http%3A//www.timeslive.co.za/%3Ffilter%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeslive.co.za privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513210657id_/http%3A//www.timeslive.co.za/%3Ffilter%3Dprivacy) for the most accurate reproduction.*
 
-# Breaking SA and World News, Sports, Business, Entertainment and more - TimesLIVE
+# Breaking SA and World News, Sports, Business, Entertainment and more - Times LIVE
 
 Please read the [Privacy Policy](http://www.timeslive.co.za/?filter=privacy) and our notices regarding [Terms of Use](http://www.timeslive.co.za/?filter=termsofuse) and Forums. By continuing to use the Times LIVE, you agree to abide by the terms of these documents. 
 
