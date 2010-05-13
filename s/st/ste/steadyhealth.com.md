@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the steadyhealth.com privacy policy that was archived on 2009-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090205124517id_/http%3A//www.steadyhealth.com/polices/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steadyhealth.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513030227id_/http%3A//www.steadyhealth.com/polices/privacy_policy.php) for the most accurate reproduction.*
 
-# SteadyHealth.com :: Polices - (About Us, Terms of Use, Privacy Policy, Advertising Policy)
+# >> Medical Questions, Weight Loss, Pregnancy, Drugs, Health Insurance
 
 ## SteadyHealth.com Privacy Act
 
@@ -66,7 +66,9 @@ We follow generally accepted industry standards to protect the personal informat
 
 ###  ADVERTISERS 
 
-All information about Advertisements and Advertising on SteadyHealth.com is strictly defined in [Advertising Policy](http://www.steadyhealth.com/policies/advertising_policy.php). 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+
+All information about Advertisements and Advertising on SteadyHealth.com is strictly defined in [Advertising Policy](http://www.steadyhealth.com/polices/advertising_policy.php). 
 
 ###  STEADYHEALTH's FIND A DOCTOR DISCLAIMER 
 
@@ -78,6 +80,4 @@ If you're a doctor or health practitioner and would like to add or change relate
 
 Adding new entries automatically is not available at this time. However, if you are not listed in our database, please fill out the [Contact Form](http://www.steadyhealth.com/contact.php) or the [Doctor Info Form](http://www.steadyhealth.com/find_doctor/contact_dr.php) and add the info that you are not listed and would like to get listed. We'll consider your application and publish your info manually. 
 
-**Last updated on September, 5th 2008.**
-
-All right reserved by SteadyHealth.com ©2004 - 2008
+**Last updated on March, 12th 2009.**
