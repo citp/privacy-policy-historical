@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shldirect.com privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427131826id_/http%3A//www.shldirect.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shldirect.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513024814id_/http%3A//www.shldirect.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -88,7 +88,7 @@ The Pavilion
 Thames Ditton  
 Surrey KT7 0NE  
 UK
-  * \- Requests can be submitted to the above address by printing and completing a [Subject Access Request Form (8KB PDF)](https://web.archive.org/web/20090427131826id_/http%3A//www.shldirect.com/forms/SHL_Subject_%20Access_Request_Form.pdf "This link will open in a new browser window"). The purpose of this form is to ensure that you give us all the necessary information to enable us to comply with your request. You do not have to use this form, but if you do not you should ensure that all the required information on this form is provided.
+  * \- Requests can be submitted to the above address by printing and completing a [Subject Access Request Form (8KB PDF)](https://web.archive.org/web/20100513024814id_/http%3A//www.shldirect.com/forms/SHL_Subject_%20Access_Request_Form.pdf "This link will open in a new browser window"). The purpose of this form is to ensure that you give us all the necessary information to enable us to comply with your request. You do not have to use this form, but if you do not you should ensure that all the required information on this form is provided.
 
 
 
@@ -98,7 +98,7 @@ UK
 2\. By Email to:
 
   * \- [privacy@shlgroup.com ](mailto:privacy@shlgroup.com)
-  * \- Requests made by email must include all information from the [Subject Access Request Form](https://web.archive.org/web/20090427131826id_/http%3A//www.shldirect.com/forms/SHL_Subject_%20Access_Request_Form.pdf "This link will open in a new browser window").  The email request must be followed up with written proof of identity (see below). 
+  * \- Requests made by email must include all information from the [Subject Access Request Form](https://web.archive.org/web/20100513024814id_/http%3A//www.shldirect.com/forms/SHL_Subject_%20Access_Request_Form.pdf "This link will open in a new browser window").  The email request must be followed up with written proof of identity (see below). 
 
 Note: The period of 40 days in which the organisation must respond to the request will not commence until we have received written proof of your identity.
 
