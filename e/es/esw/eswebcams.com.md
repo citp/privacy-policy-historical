@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eswebcams.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417063801id_/http%3A//support.nextdoorgirlslive.com/support_privacy.php%3Flang%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eswebcams.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513060945id_/http%3A//support.camsluts.com/support_privacy.php%3Flang%3Dus) for the most accurate reproduction.*
 
-# 
+# Cam Sluts
 
 **SPACASH  
 Privacy Policy  
