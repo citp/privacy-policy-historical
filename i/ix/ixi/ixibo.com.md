@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixibo.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230091320id_/http%3A//www.ixibo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixibo.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513205258id_/http%3A//www.ixibo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ixibo
 
@@ -29,5 +29,3 @@ Our site may contain links to other websites of interest. However, once you use 
 ## Privacy Contact Information
 
 Should you have any questions, concerns, or comments about our privacy policy, please contact us by email directly at **webmaster @ ixibo.com.**
-
-### You might also like
