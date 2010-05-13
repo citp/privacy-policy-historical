@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2009-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091008111353id_/http%3A//www.verticalscope.com/aboutus/forum-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514013814id_/http%3A//www.thetruthaboutcars.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | The Truth About Cars
+
+**VerticalScope Inc. – Privacy Statement**
 
 VerticalScope Inc. (hereafter referred to as VerticalScope) has created this privacy statement to demonstrate our firm commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
 **What this Privacy Statement Covers**
 
-  * This privacy statement covers VerticalScope's treatment of personally identifiable information collected by VerticalScope through a website owned and operated by VerticalScope.
-  * This privacy statement does not apply to the practices of companies that VerticalScope does not own or control, or of persons that VerticalScope does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which VerticalScope's websites link.
+  * This privacy statement covers VerticalScope’s treatment of personally identifiable information collected by VerticalScope through a website owned and operated by VerticalScope.
+  * This privacy statement does not apply to the practices of companies that VerticalScope does not own or control, or of persons that VerticalScope does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which VerticalScope’s websites link.
 
 
 
@@ -34,18 +36,18 @@ VerticalScope Inc. (hereafter referred to as VerticalScope) has created this pri
     * We need to respond to subpoenas, court orders or such other legal process;
     * We need to protect the personal safety of the users of our websites or defend the rights or property of VerticalScope; or
     * We find that your actions on our websites violate the VerticalScope Terms of Use document or any of our usage guidelines for specific products or services.
+    * We may pass on information if VerticalScope is acquired or merged with another company. Should this occur, you will be notified before the information about you becomes subject to a different privacy policy.
 
 
 
 **Consent**
 
-  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this statement, please do not provide any personal information to VerticalScope. If you have provided personal information to VerticalScope and no longer consent to its use or disclosure as outlined herein, please notify VerticalScope at [privacy@verticalscope.com](mailto:privacy@verticalscope.com).
-
-
+If you do not consent to the collection, use or disclosure of your personal information as outlined in this statement, please do not provide any personal information to VerticalScope. If you have provided personal information to VerticalScope and no longer consent to its use or disclosure as outlined herein, please contact us.
 
 **How to Access your Personal Information**
 
   * VerticalScope gives you the ability to edit your VerticalScope Account Information and preferences at any time.
+  * You are also able to request deletion of your VerticalScope account at any time.
 
 
 
@@ -53,21 +55,15 @@ VerticalScope Inc. (hereafter referred to as VerticalScope) has created this pri
 
   * Unfortunately, no data transmission over the Internet can be considered 100% secure. However, your VerticalScope Account Information is password-protected for your privacy and security. In certain areas of our websites, as identified on the site, VerticalScope uses industry-standard SSL-encryption to protect data transmissions.
   * We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures.
-  * Further, VerticalScope retains your personal information only as long as necessary to fulfil the purposes identified above or as required by law.
+  * Further, VerticalScope retains your personal information only as long as necessary to fulfill the purposes identified above or as required by law.
+  * Should you believe your personal safety is threatened or that you may be the victim of identity theft or other illegal conduct, please contact the local, state/provincial or federal law enforcement agencies directly.
 
 
 
 **Changes to this Privacy Statement**
 
-  * VerticalScope may at any time, without notice to you and in its sole discretion, amend this statement from time to time. Please review this statement periodically. Your continued use of VerticalScope websites after any such amendments signifies your acceptance thereof.
-
-
+VerticalScope may at any time, without notice to you and in its sole discretion, amend this statement from time to time. Please review this statement periodically. Your continued use of VerticalScope websites after any such amendments signifies your acceptance thereof.
 
 **Questions or Suggestions**
 
-If you have questions or suggestions about this privacy statement, or your own personal information, please e-mail us at [privacy@verticalscope.com](mailto:privacy@verticalscope.com).
-
-**Opting Out of Third-Party Ad Servers**
-
-* If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability).
-* If you want to prevent a third-party ad server from sending and reading cookies on your computer, we recommend you block cookiesusing your browser privacy setting. 
+If you have questions or suggestions about this privacy statement, or your own personal information, please [contact us](https://web.archive.org/contact/).
