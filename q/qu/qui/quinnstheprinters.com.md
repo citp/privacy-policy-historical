@@ -1,0 +1,5 @@
+> *The following text is extracted and transformed from the quinnstheprinters.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513042031id_/http%3A//www.quinnstheprinters.com/privacy.html) for the most accurate reproduction.*
+
+# Privacy Policy Quinnstheprinters Ireland | Quality Printing & Discount Printing UK | Offset Printing UK
+
+In order to operate the online payment service and to reduce the risk of fraud, we, Quinns Belfast (2009) Ltd, the data controller, must ask you to provide us information regarding your name and address and your credit or debit card. By consenting to, and agreeing the terms of, the Privacy Policy, you also expressly consent and agree to us processing your data in order to collect payment. Quinns Belfast (2009) Ltd takes the privacy of your personal information very seriously. We will NOT retain any of your credit or debit card information. We retain your name and address on our database for our internal use, however, we will NOT sell or rent your personally identifiable information or a list of our customers to third parties. 
