@@ -1,25 +1,25 @@
-<!--The following is the downloaded HTML source of the sunsky-online.com privacy policy that was archived on 2009-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090629164802id_/http%3A//www.sunsky-online.com/base/info%21privacyNotice.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sunsky-online.com privacy policy that was archived on 2010-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100513205512id_/http%3A//www.sunsky-online.com/base/doc%21view.do%3Fcode%3DprivacyNotice) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Sunsky - Privacy Notice</title>
+<title>Sunsky - Privacy notice</title>
 <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
-<link rel="shortcut icon" href="http://www.sunsky-online.com/htdocs/images/favicon.ico">
+<link rel="shortcut icon" href="http://img.sunsky-online.com/htdocs/images/favicon.ico">
 <style type="text/css">
-	@import url( http://www.sunsky-online.com/htdocs/css/advanced_blocks.css );
-	@import url( http://www.sunsky-online.com/htdocs/css/blocks/BrandBlock.css );
-	@import url( http://www.sunsky-online.com/htdocs/css/1col.css );
-	@import url( http://www.sunsky-online.com/htdocs/css/left.css );
-	@import url( http://www.sunsky-online.com/htdocs/css/accounts.css );
+	@import url( http://img.sunsky-online.com/htdocs/css/advanced_blocks.css );
+	@import url( http://img.sunsky-online.com/htdocs/css/blocks/BrandBlock.css );
+	@import url( http://img.sunsky-online.com/htdocs/css/1col.css );
+	@import url( http://img.sunsky-online.com/htdocs/css/left.css );
+	@import url( http://img.sunsky-online.com/htdocs/css/accounts.css );
 </style>
 <!--[if IE 6]>
 <style type="text/css" media="all">
-	@import "http://www.sunsky-online.com/htdocs/css/ie6.css";
+	@import "http://img.sunsky-online.com/htdocs/css/ie6.css";
 </style>
 <![endif]-->
 <!--[if IE 7]>
 <style type="text/css" media="all">
-	@import "http://www.sunsky-online.com/htdocs/css/ie7.css";
+	@import "http://img.sunsky-online.com/htdocs/css/ie7.css";
 </style>
 <![endif]-->
 <style type="text/css">
@@ -28,11 +28,15 @@
     	float:left;
     }
     #centerCol{
-    	width:796px;
+    	width:646px;
     	margin:0 0 0 161px;
     }
+    .lanbiaoti{
+    	font-weight:bold;
+    }
 </style>
-		
+<link rel="stylesheet" type="text/css" media="all" href="http://img.sunsky-online.com/htdocs/css/jquery.autocomplete.css">
+
 <script>
 function el(id) {
 	return document.getElementById(id);
@@ -63,6 +67,23 @@ function esc(str) {
 	str = str.replace(/"/, "&quot;");
 	str = str.replace(/'/, "&#39;");
 	return str;
+}
+
+function getCookie(name) {
+	var start = document.cookie.indexOf(name + "=");
+	var len = start + name.length + 1;
+	if ((!start) && (name != document.cookie.substring(0, name.length))) {
+		return null;
+	}
+	
+	if (start == -1) return null;
+	var end = document.cookie.indexOf(';', len);
+	if (end == -1) end = document.cookie.length;
+	return unescape(document.cookie.substring(len, end));
+}
+
+function updateVerifyCodeKey(hiddenId) {
+	el(hiddenId).value = getCookie("verifyCodeKey");
 }
 
 function __attachEvent(evt, callback) {
@@ -117,9 +138,6 @@ function initImgViewer(ctnCls, imgCls, aligns) {
 	ctns.bind("mouseenter", function() {
 		var jImg = $(this).find("." + imgCls);
 		var img = jImg[0];
-		if (!img.complete && !img.getAttribute("complete")) {
-			return;
-		}
 		
 		var offset = jImg.offset();
 		var padding = img.tagName.toLowerCase() == "img" ? 0 : 12;
@@ -136,7 +154,11 @@ function initImgViewer(ctnCls, imgCls, aligns) {
 			}
 		}
 		
-		dst.src = img.src ? img.src : img.getAttribute("src");
+		a.removeChild(dst);
+		dst = document.createElement("img");
+		a.appendChild(dst);
+		
+		dst.src = img.link ? img.link : img.getAttribute("link");
 		a.href = img.parentNode.href;
 		a.target = img.parentNode.target;
 		
@@ -153,10 +175,61 @@ function initImgViewer(ctnCls, imgCls, aligns) {
 	});
 }
 
+var cartTimer;
+function addToCart(btn) {
+	$(btn.form).ajaxSubmit({
+		success: function(data, status) {
+			if (status == "success") {
+				eval("var ci=" + data);
+				var cart = $('#divCart');
+				
+				if (ci.result == "error") {
+					cart.find(".cartInfo").css("display", "none");
+					cart.find(".cartError").css("display", "");
+					cart.find(".cartError").text(ci.msg);
+				} else {
+					cart.find(".cartInfo").css("display", "");
+					cart.find(".cartError").css("display", "none");
+					cart.find("#itemCount").text(ci.itemCount);
+					cart.find("#cartAmount").text(ci.amount);
+					$(".headerCartInfo").val("Items: " + ci.itemCount + " | Total: " + ci.amount);
+				}
+				
+				var offset = $(btn).offset();
+        		cart.css('left', offset.left - 280);
+        		cart.css('top', offset.top - 80);
+				cart.css('display', 'block');
+				
+				if (cartTimer) {
+					clearTimeout(cartTimer);
+				}
+				cartTimer = setTimeout("closeCartInfo()", 2000);
+			} else {
+				alert("Response status error: " + status);
+			}
+		}
+	});
+	
+	return false;
+}
+
+function closeCartInfo() {
+	$('#divCart').fadeOut('slow');
+	cartTimer=null;
+}
+
 var APP_URL = "http://www.sunsky-online.com";
-var RES_URL = "http://www.sunsky-online.com/htdocs";
-</script><script src="http://www.sunsky-online.com/htdocs/js/jquery.js"></script>
-<script src="http://www.sunsky-online.com/htdocs/js/pagewidgets.js"></script>
+var RES_URL = "http://img.sunsky-online.com/htdocs";
+var IMG_URL = "http://img.sunsky-online.com/htdocs/images";
+var CSS_URL = "http://img.sunsky-online.com/htdocs/css";
+var JS_URL = "http://img.sunsky-online.com/htdocs/js";
+</script><script src="http://img.sunsky-online.com/htdocs/js/jquery.js"></script>
+<script src="http://img.sunsky-online.com/htdocs/js/jquery.autocomplete.js"></script>
+<script>
+	$(document).ready(function() {
+		$("input[name=keyword]").autocomplete("http://www.sunsky-online.com/product/default!fetchKeywords.do");
+	});
+</script>
 </head>
 <body>
 <div id="siteContainer">
@@ -165,8 +238,8 @@ var RES_URL = "http://www.sunsky-online.com/htdocs";
 
 <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td width="240">
-		<a href="http://www.sunsky-online.com"><img src="http://www.sunsky-online.com/htdocs/images/logo.gif" border="0"></a>
+    <td width="240" style="padding-top:4px;">
+		<a href="http://www.sunsky-online.com"><img src="http://img.sunsky-online.com/htdocs/images/logo.gif" border="0"></a>
 	</td>
 	<td width="120">
 		<script src="https://seal.verisign.com/getseal?host_name=www.sunsky-online.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
@@ -174,14 +247,14 @@ var RES_URL = "http://www.sunsky-online.com/htdocs";
     <td align="right" valign="middle"><table border="0" cellspacing="0" cellpadding="3" bgcolor="EFEFEF" style="BORDER:1px solid #C5C5C5">
 	  <tbody><tr>
 		<td>&nbsp;</td>
-        <td width="30" align="center"><img src="http://www.sunsky-online.com/htdocs/images/icon_1.gif" width="16" height="16"></td>
+        <td width="30" align="center"><img src="http://img.sunsky-online.com/htdocs/images/icon_1.gif" width="16" height="16"></td>
         <td><a href="http://www.sunsky-online.com/user/default!register.do" target="_self" class="toplink">Register</a></td>
-        <td width="30" align="center"><img src="http://www.sunsky-online.com/htdocs/images/icon_2.gif" width="16" height="16"></td>
+        <td width="30" align="center"><img src="http://img.sunsky-online.com/htdocs/images/icon_2.gif" width="16" height="16"></td>
         <td><a href="http://www.sunsky-online.com/user/login.do" target="_self" class="toplink">Login</a></td>
-        <td width="30" align="center"><img src="http://www.sunsky-online.com/htdocs/images/icon_3.gif" width="16" height="16"></td>
-        <td><a href="http://www.sunsky-online.com/base/info!contactUs.do" target="_self" class="toplink">Contact Us</a></td>
-        <td width="30" align="center"><img src="http://www.sunsky-online.com/htdocs/images/icon_4.gif" width="16" height="16"></td>
-        <td><a href="http://www.sunsky-online.com/base/info!aboutUs.do" target="_self" class="toplink">About Us</a></td>
+        <td width="30" align="center"><img src="http://img.sunsky-online.com/htdocs/images/icon_3.gif" width="16" height="16"></td>
+        <td><a href="http://www.sunsky-online.com/base/doc!view.do?code=contactUs" target="_self" class="toplink">Contact Us</a></td>
+        <td width="30" align="center"><img src="http://img.sunsky-online.com/htdocs/images/icon_4.gif" width="16" height="16"></td>
+        <td><a href="http://www.sunsky-online.com/base/doc!view.do?code=aboutUs" target="_self" class="toplink">About Us</a></td>
 		<td>&nbsp;</td>
       </tr>
     </tbody></table>
@@ -202,21 +275,22 @@ var RES_URL = "http://www.sunsky-online.com/htdocs";
 						<option value="2">£ - GBP</option>
 						<option value="3">€ - EUR</option>
 						<option value="5">HK$ - HKD</option>
-						<option value="4">¥ - RMB</option>
+						<option value="4">¥ - CNY</option>
+						<option value="6">A$ - AUD</option>
 					</select>
     		</span>
 		&nbsp;&nbsp;&nbsp;&nbsp;
 	</td>
 	<td>
     	<form action="http://www.sunsky-online.com/product/default!search.do" method="get">
-    		<input id="searchBox" maxlength="128" value="" name="keyword" style="width:200px;">
-			<input type="image" align="absmiddle" src="http://www.sunsky-online.com/htdocs/images/icon_search.gif">
+    		<input id="searchBox" maxlength="128" value="" name="keyword" style="width:200px;" autocomplete="off">
+			<input type="image" align="absmiddle" src="http://img.sunsky-online.com/htdocs/images/icon_search.gif">
 			&nbsp;&nbsp;&nbsp;&nbsp;
         </form>
 	</td>
 	<td>
-    	    		<input id="searchBox" value="Current basket is empty!" style="width:200px;" readonly="true">
-			<input type="image" align="absmiddle" src="http://www.sunsky-online.com/htdocs/images/icon_viewbasket.gif" onclick="window.location='http://www.sunsky-online.com/product/cart!view.do';">
+    	    		<input id="searchBox" class="headerCartInfo" value="Current basket is empty!" style="width:200px;" readonly="true">
+			<input type="image" align="absmiddle" src="http://img.sunsky-online.com/htdocs/images/icon_viewbasket.gif" onclick="window.location='http://www.sunsky-online.com/product/cart!view.do';">
 			</td>
   </tr>
 </tbody></table>
@@ -227,16 +301,14 @@ var RES_URL = "http://www.sunsky-online.com/htdocs";
 <!-- Begin Global Nav -->
 <ul class="clearfix" id="nav">
 <li class="welcome"><a class="welcome" href="http://www.sunsky-online.com">Home</a></li>
-
-<li id="mainmenu3"><a href="http://www.sunsky-online.com/list/3/Digital+Products.htm">Digital Products</a><ul><li id="mainmenu100113"><a href="http://www.sunsky-online.com/list/100113/MP4+Player.htm">MP4 Player</a></li><li id="mainmenu100112"><a href="http://www.sunsky-online.com/list/100112/MP3+Player.htm">MP3 Player</a></li><li id="mainmenu100111"><a href="http://www.sunsky-online.com/list/100111/USB+Flash+Disk.htm">USB Flash Disk</a></li><li id="mainmenu100494"><a href="http://www.sunsky-online.com/list/100494/UMPC+%26+Laptop.htm">UMPC &amp; Laptop</a></li><li id="mainmenu100151"><a href="http://www.sunsky-online.com/list/100151/Mobile+Phone.htm">Mobile Phone</a></li><li id="mainmenu100142"><a href="http://www.sunsky-online.com/list/100142/Digital+Photo+Frame.htm">Digital Photo Frame</a></li><li id="mainmenu100110"><a href="http://www.sunsky-online.com/list/100110/Memory+Card+.htm">Memory Card </a></li><li id="mainmenu100473"><a href="http://www.sunsky-online.com/list/100473/Memory+Card+Adapter+.htm">Memory Card Adapter </a></li><li id="mainmenu100118"><a href="http://www.sunsky-online.com/list/100118/GPS+Navigator+%26+Tracker.htm">GPS Navigator &amp; Tracker</a></li><li id="mainmenu100136"><a href="http://www.sunsky-online.com/list/100136/Digital+Camera+%26+Video.htm">Digital Camera &amp; Video</a></li><li id="mainmenu100544"><a href="http://www.sunsky-online.com/list/100544/Digital+Camera+Accessories.htm">Digital Camera Accessories</a></li><li id="mainmenu100119"><a href="http://www.sunsky-online.com/list/100119/Mini+Speaker.htm">Mini Speaker</a></li><li id="mainmenu100162"><a href="http://www.sunsky-online.com/list/100162/E+Cigarette.htm">E Cigarette</a></li><li id="mainmenu100115"><a href="http://www.sunsky-online.com/list/100115/FM+Transmitter.htm">FM Transmitter</a></li><li id="mainmenu100117"><a href="http://www.sunsky-online.com/list/100117/Portable+%26+Car+DVD+Player.htm">Portable &amp; Car DVD Player</a></li><li id="mainmenu100132"><a href="http://www.sunsky-online.com/list/100132/HDD+Player.htm">HDD Player</a></li><li id="mainmenu100604"><a href="http://www.sunsky-online.com/list/100604/GSM+Wireless+phone.htm">GSM Wireless phone</a></li></ul></li><li id="mainmenu100513"><a href="http://www.sunsky-online.com/list/100513/iPod+Accessories.htm">iPod Accessories</a><ul><li id="mainmenu100125"><a href="http://www.sunsky-online.com/list/100125/iPod+Accessories.htm">iPod Accessories</a></li><li id="mainmenu100160"><a href="http://www.sunsky-online.com/list/100160/iPhone+Accessories.htm">iPhone Accessories</a></li><li id="mainmenu100163"><a href="http://www.sunsky-online.com/list/100163/iPhone+3G+Accessories.htm">iPhone 3G Accessories</a></li><li id="mainmenu100164"><a href="http://www.sunsky-online.com/list/100164/Apple+Computer+Accessories.htm">Apple Computer Accessories</a></li><li id="mainmenu100109"><a href="http://www.sunsky-online.com/list/100109/iPod+Touch+Accessories.htm">iPod Touch Accessories</a></li></ul></li><li id="mainmenu4"><a href="http://www.sunsky-online.com/list/4/Game+Accessories.htm">Game Accessories</a><ul><li id="mainmenu100147"><a href="http://www.sunsky-online.com/list/100147/Wii+Accessories.htm">Wii Accessories</a></li><li id="mainmenu100145"><a href="http://www.sunsky-online.com/list/100145/NDS+Accessories.htm">NDS Accessories</a></li><li id="mainmenu100555"><a href="http://www.sunsky-online.com/list/100555/NDSI+Accessories.htm">NDSI Accessories</a></li><li id="mainmenu100135"><a href="http://www.sunsky-online.com/list/100135/PSP+Accessories.htm">PSP Accessories</a></li><li id="mainmenu100156"><a href="http://www.sunsky-online.com/list/100156/PSP+2000+Accessories.htm">PSP 2000 Accessories</a></li><li id="mainmenu100171"><a href="http://www.sunsky-online.com/list/100171/PSP+3000+Accessories.htm">PSP 3000 Accessories</a></li><li id="mainmenu100140"><a href="http://www.sunsky-online.com/list/100140/PS2+Accessories.htm">PS2 Accessories</a></li><li id="mainmenu100131"><a href="http://www.sunsky-online.com/list/100131/PS3+Accessories.htm">PS3 Accessories</a></li><li id="mainmenu100146"><a href="http://www.sunsky-online.com/list/100146/XBOX360+Accessories.htm">XBOX360 Accessories</a></li><li id="mainmenu100149"><a href="http://www.sunsky-online.com/list/100149/XBOX+Accessories.htm">XBOX Accessories</a></li><li id="mainmenu100148"><a href="http://www.sunsky-online.com/list/100148/PC+Game+accessories.htm">PC Game accessories</a></li></ul></li><li id="mainmenu2"><a href="http://www.sunsky-online.com/list/2/Computer+Peripherals.htm">Computer Peripherals</a><ul><li id="mainmenu100108"><a href="http://www.sunsky-online.com/list/100108/Computer+Cable+%26+Adapter.htm">Computer Cable &amp; Adapter</a></li><li id="mainmenu100138"><a href="http://www.sunsky-online.com/list/100138/Computer+Card.htm">Computer Card</a></li><li id="mainmenu100143"><a href="http://www.sunsky-online.com/list/100143/Computer+Speaker.htm">Computer Speaker</a></li><li id="mainmenu100114"><a href="http://www.sunsky-online.com/list/100114/PC+%26+IP+Camera.htm">PC &amp; IP Camera</a></li><li id="mainmenu100174"><a href="http://www.sunsky-online.com/list/100174/Car+Power+Inverter+.htm">Car Power Inverter </a></li><li id="mainmenu100139"><a href="http://www.sunsky-online.com/list/100139/Notebook+PC+Accessories.htm">Notebook PC Accessories</a></li><li id="mainmenu100150"><a href="http://www.sunsky-online.com/list/100150/Laptop+Bag.htm">Laptop Bag</a></li><li id="mainmenu100144"><a href="http://www.sunsky-online.com/list/100144/PC+Remote+Controller+%26+Laser+Pointer.htm">PC Remote Controller &amp; Laser Pointer</a></li><li id="mainmenu100127"><a href="http://www.sunsky-online.com/list/100127/Mouse.htm">Mouse</a></li><li id="mainmenu100133"><a href="http://www.sunsky-online.com/list/100133/Mouse+Pad.htm">Mouse Pad</a></li><li id="mainmenu100137"><a href="http://www.sunsky-online.com/list/100137/Mini+Keypad.htm">Mini Keypad</a></li><li id="mainmenu100128"><a href="http://www.sunsky-online.com/list/100128/Keyboard.htm">Keyboard</a></li><li id="mainmenu100141"><a href="http://www.sunsky-online.com/list/100141/Microphone+%26+Earphone.htm">Microphone &amp; Earphone</a></li><li id="mainmenu100106"><a href="http://www.sunsky-online.com/list/100106/USB+HUB.htm">USB HUB</a></li><li id="mainmenu100107"><a href="http://www.sunsky-online.com/list/100107/Card+Reader.htm">Card Reader</a></li><li id="mainmenu100603"><a href="http://www.sunsky-online.com/list/100603/Skype+%26+IP+Phone.htm">Skype &amp; IP Phone</a></li><li id="mainmenu100121"><a href="http://www.sunsky-online.com/list/100121/TV+Series.htm">TV Series</a></li><li id="mainmenu100122"><a href="http://www.sunsky-online.com/list/100122/HDD++Enclosure.htm">HDD  Enclosure</a></li><li id="mainmenu100123"><a href="http://www.sunsky-online.com/list/100123/USB+Fan+%26+Light.htm">USB Fan &amp; Light</a></li><li id="mainmenu100514"><a href="http://www.sunsky-online.com/list/100514/Gift+items.htm">Gift items</a></li><li id="mainmenu100575"><a href="http://www.sunsky-online.com/list/100575/WiFi+Wireless+Network+Signal+Detector.htm">WiFi Wireless Network Signal Detector</a></li></ul></li><li id="mainmenu1"><a href="http://www.sunsky-online.com/list/1/Mobile+Accessories.htm">Mobile Accessories</a><ul><li id="mainmenu100105"><a href="http://www.sunsky-online.com/list/100105/Bluetooth+Headset.htm">Bluetooth Headset</a></li><li id="mainmenu100104"><a href="http://www.sunsky-online.com/list/100104/Bluetooth+Dongle.htm">Bluetooth Dongle</a></li><li id="mainmenu100124"><a href="http://www.sunsky-online.com/list/100124/HandsFree+Car+Kit+%26+The+Wireless+Earphone.htm">HandsFree Car Kit &amp; The Wireless Earphone</a></li><li id="mainmenu100134"><a href="http://www.sunsky-online.com/list/100134/Wired+Handset+%26+Mobile+Phone+Speaker.htm">Wired Handset &amp; Mobile Phone Speaker</a></li><li id="mainmenu100126"><a href="http://www.sunsky-online.com/list/100126/Charger+%26+AC+Adaptor.htm">Charger &amp; AC Adaptor</a></li><li id="mainmenu100175"><a href="http://www.sunsky-online.com/list/100175/Mobile+Phone+Battery.htm">Mobile Phone Battery</a></li><li id="mainmenu100120"><a href="http://www.sunsky-online.com/list/100120/Mobile+Phone+Silicon+case.htm">Mobile Phone Silicon case</a></li><li id="mainmenu100166"><a href="http://www.sunsky-online.com/list/100166/Mobile+Phone+Crystal+case.htm">Mobile Phone Crystal case</a></li><li id="mainmenu100570"><a href="http://www.sunsky-online.com/list/100570/Mobile+Phone+Plastic+Case.htm">Mobile Phone Plastic Case</a></li><li id="mainmenu100167"><a href="http://www.sunsky-online.com/list/100167/Mobile+Phone++Leather+Case.htm">Mobile Phone  Leather Case</a></li><li id="mainmenu100612"><a href="http://www.sunsky-online.com/list/100612/Mobile+Phone+Spare+Parts.htm">Mobile Phone Spare Parts</a></li><li id="mainmenu100152"><a href="http://www.sunsky-online.com/list/100152/Mobile+Phone+Holder.htm">Mobile Phone Holder</a></li><li id="mainmenu100165"><a href="http://www.sunsky-online.com/list/100165/Mobile+Phone+Screen+Protector.htm">Mobile Phone Screen Protector</a></li><li id="mainmenu100169"><a href="http://www.sunsky-online.com/list/100169/Mobile+Phone+Touch+Pen.htm">Mobile Phone Touch Pen</a></li><li id="mainmenu100154"><a href="http://www.sunsky-online.com/list/100154/Ghost+Dual+Sim.htm">Ghost Dual Sim</a></li><li id="mainmenu100168"><a href="http://www.sunsky-online.com/list/100168/Turbo+SIM+Unlock+Kit.htm">Turbo SIM Unlock Kit</a></li><li id="mainmenu100103"><a href="http://www.sunsky-online.com/list/100103/USB+Data+Cable.htm">USB Data Cable</a></li><li id="mainmenu100129"><a href="http://www.sunsky-online.com/list/100129/Mobile+Multimedia+Music+Cable+%26++AV+Cable.htm">Mobile Multimedia Music Cable &amp;  AV Cable</a></li><li id="mainmenu100153"><a href="http://www.sunsky-online.com/list/100153/Mobile+Phone+Telescope.htm">Mobile Phone Telescope</a></li><li id="mainmenu100579"><a href="http://www.sunsky-online.com/list/100579/Mobile+Phone+Environmental+friendly+Case.htm">Mobile Phone Environmental friendly Case</a></li><li id="mainmenu100495"><a href="http://www.sunsky-online.com/list/100495/Mobile+Phone+Carry+Bag+.htm">Mobile Phone Carry Bag </a></li><li id="mainmenu100505"><a href="http://www.sunsky-online.com/list/100505/Mobile+Phone+Chain.htm">Mobile Phone Chain</a></li><li id="mainmenu100496"><a href="http://www.sunsky-online.com/list/100496/Mobile+Phone+Strap.htm">Mobile Phone Strap</a></li></ul></li><li id="mainmenu100035"><a href="http://www.sunsky-online.com/list/100035/Security+Products.htm">Security Products</a><ul><li id="mainmenu100170"><a href="http://www.sunsky-online.com/list/100170/CCD+Camera+%26+HD+Mini+DVR.htm">CCD Camera &amp; HD Mini DVR</a></li><li id="mainmenu100172"><a href="http://www.sunsky-online.com/list/100172/Video+Capture+Card.htm">Video Capture Card</a></li><li id="mainmenu100173"><a href="http://www.sunsky-online.com/list/100173/Interview+Recorder+%26+Spy+Camera.htm">Interview Recorder &amp; Spy Camera</a></li><li id="mainmenu100158"><a href="http://www.sunsky-online.com/list/100158/Mini+DVR+camera+%26+Alarm+System.htm">Mini DVR camera &amp; Alarm System</a></li><li id="mainmenu100176"><a href="http://www.sunsky-online.com/list/100176/Detection+Equipment.htm">Detection Equipment</a></li><li id="mainmenu100159"><a href="http://www.sunsky-online.com/list/100159/Breath+Alcohol+Tester.htm">Breath Alcohol Tester</a></li><li id="mainmenu100498"><a href="http://www.sunsky-online.com/list/100498/LED+Portable+Flashlight+.htm">LED Portable Flashlight </a></li><li id="mainmenu100625"><a href="http://www.sunsky-online.com/list/100625/Mobile+Phone+Signal+Isolator.htm">Mobile Phone Signal Isolator</a></li><li id="mainmenu100157"><a href="http://www.sunsky-online.com/list/100157/Wireless+Cameras+%26+Baby+Monitor+.htm">Wireless Cameras &amp; Baby Monitor </a></li></ul></li><li id="mainmenu100006"><a href="http://www.sunsky-online.com/list/100006/Mobile+Phone.htm">Mobile Phone</a><ul><li id="mainmenu100479"><a href="http://www.sunsky-online.com/list/100479/iPhone+style+Mobile+Phone.htm">iPhone style Mobile Phone</a></li><li id="mainmenu100481"><a href="http://www.sunsky-online.com/list/100481/Dual+SIM+cards+%26+TV+Mobile+Phone.htm">Dual SIM cards &amp; TV Mobile Phone</a></li><li id="mainmenu100549"><a href="http://www.sunsky-online.com/list/100549/Monitoring+Mobile+Phone.htm">Monitoring Mobile Phone</a></li><li id="mainmenu100482"><a href="http://www.sunsky-online.com/list/100482/Watch+Mobile+Phone.htm">Watch Mobile Phone</a></li><li id="mainmenu100550"><a href="http://www.sunsky-online.com/list/100550/Low+Cost+Mobile+Phone.htm">Low Cost Mobile Phone</a></li><li id="mainmenu100551"><a href="http://www.sunsky-online.com/list/100551/Kids+%26+Baby+Mobile+Phone.htm">Kids &amp; Baby Mobile Phone</a></li><li id="mainmenu100635"><a href="http://www.sunsky-online.com/list/100635/Smart+Mobile+Phone.htm">Smart Mobile Phone</a></li></ul></li><li id="mainmenu100599"><a href="http://www.sunsky-online.com/list/100599/New+Products.htm">New Products</a></li>
-
+<li id="mainmenu100735"><a href="http://www.sunsky-online.com/list/100735/Mobile+Phones.htm">Mobile Phones</a><ul><li id="mainmenu100278"><a href="http://www.sunsky-online.com/list/100278/iPhone+Style+Mobile+Phone.htm">iPhone Style Mobile Phone</a></li><li id="mainmenu100704"><a href="http://www.sunsky-online.com/list/100704/iPhone+Style+%26+TV+Mobile+Phone+.htm">iPhone Style &amp; TV Mobile Phone </a></li><li id="mainmenu100841"><a href="http://www.sunsky-online.com/list/100841/3G+Mobile+Phone.htm">3G Mobile Phone</a></li><li id="mainmenu100703"><a href="http://www.sunsky-online.com/list/100703/Dual+SIM+Cards+Mobile+Phone.htm">Dual SIM Cards Mobile Phone</a></li><li id="mainmenu100404"><a href="http://www.sunsky-online.com/list/100404/Dual+SIM+Cards+%26+TV+Mobile+Phone.htm">Dual SIM Cards &amp; TV Mobile Phone</a></li><li id="mainmenu100800"><a href="http://www.sunsky-online.com/list/100800/Russia+Keyboard+style+Mobile+Phone.htm">Russia Keyboard style Mobile Phone</a></li><li id="mainmenu100695"><a href="http://www.sunsky-online.com/list/100695/BlackBerry+Style+Mobile+Phone.htm">BlackBerry Style Mobile Phone</a></li><li id="mainmenu100705"><a href="http://www.sunsky-online.com/list/100705/Nokia+Style+Mobile+Phone+.htm">Nokia Style Mobile Phone </a></li><li id="mainmenu100569"><a href="http://www.sunsky-online.com/list/100569/Smart+%26+PDA+Mobile+Phone+.htm">Smart &amp; PDA Mobile Phone </a></li><li id="mainmenu100768"><a href="http://www.sunsky-online.com/list/100768/Android+OS+Mobile+Phone.htm">Android OS Mobile Phone</a></li><li id="mainmenu100539"><a href="http://www.sunsky-online.com/list/100539/Elders+%26+Children+Mobile+Phone.htm">Elders &amp; Children Mobile Phone</a></li><li id="mainmenu100365"><a href="http://www.sunsky-online.com/list/100365/Watch+Mobile+Phone+.htm">Watch Mobile Phone </a></li><li id="mainmenu100684"><a href="http://www.sunsky-online.com/list/100684/Other+Mobile+Phone.htm">Other Mobile Phone</a></li><li id="mainmenu100763"><a href="http://www.sunsky-online.com/list/100763/Chinese+Mobile+Phone+Accessories.htm">Chinese Mobile Phone Accessories</a></li></ul></li><li id="mainmenu3"><a href="http://www.sunsky-online.com/list/3/Digital+Products.htm">Digital Products</a><ul><li id="mainmenu100494"><a href="http://www.sunsky-online.com/list/100494/UMPC+%26+Laptop.htm">UMPC &amp; Laptop</a></li><li id="mainmenu100113"><a href="http://www.sunsky-online.com/list/100113/MP4+Player.htm">MP4 Player</a></li><li id="mainmenu100112"><a href="http://www.sunsky-online.com/list/100112/MP3+Player.htm">MP3 Player</a></li><li id="mainmenu100111"><a href="http://www.sunsky-online.com/list/100111/USB+Flash+Disk.htm">USB Flash Disk</a></li><li id="mainmenu100142"><a href="http://www.sunsky-online.com/list/100142/Digital+Photo+Frame.htm">Digital Photo Frame</a></li><li id="mainmenu100110"><a href="http://www.sunsky-online.com/list/100110/Memory+Card+.htm">Memory Card </a></li><li id="mainmenu100473"><a href="http://www.sunsky-online.com/list/100473/Memory+Card+Adapter+.htm">Memory Card Adapter </a></li><li id="mainmenu100136"><a href="http://www.sunsky-online.com/list/100136/Digital+Camera+%26+Video.htm">Digital Camera &amp; Video</a></li><li id="mainmenu100544"><a href="http://www.sunsky-online.com/list/100544/Digital+Camera+Accessories.htm">Digital Camera Accessories</a></li><li id="mainmenu100119"><a href="http://www.sunsky-online.com/list/100119/Mini+Speaker.htm">Mini Speaker</a></li><li id="mainmenu100117"><a href="http://www.sunsky-online.com/list/100117/Portable+DVD+Player.htm">Portable DVD Player</a></li><li id="mainmenu100132"><a href="http://www.sunsky-online.com/list/100132/HDD+Player.htm">HDD Player</a></li><li id="mainmenu100701"><a href="http://www.sunsky-online.com/list/100701/Micro+Projector+%26+Video+Glasses+%26+Portable+Scanner.htm">Micro Projector &amp; Video Glasses &amp; Portable Scanner</a></li><li id="mainmenu100698"><a href="http://www.sunsky-online.com/list/100698/Walkie+Talkie.htm">Walkie Talkie</a></li></ul></li><li id="mainmenu100513"><a href="http://www.sunsky-online.com/list/100513/iPhone+Accessories.htm">iPhone Accessories</a><ul><li id="mainmenu100787"><a href="http://www.sunsky-online.com/list/100787/iPad+Accessories.htm">iPad Accessories</a></li><li id="mainmenu100163"><a href="http://www.sunsky-online.com/list/100163/iPhone+3G+%26+3GS+Accessories.htm">iPhone 3G &amp; 3GS Accessories</a></li><li id="mainmenu100160"><a href="http://www.sunsky-online.com/list/100160/iPhone+Accessories.htm">iPhone Accessories</a></li><li id="mainmenu100109"><a href="http://www.sunsky-online.com/list/100109/iPod+Touch+Accessories.htm">iPod Touch Accessories</a></li><li id="mainmenu100125"><a href="http://www.sunsky-online.com/list/100125/iPod+Accessories.htm">iPod Accessories</a></li><li id="mainmenu100164"><a href="http://www.sunsky-online.com/list/100164/Apple+Computer+Accessories.htm">Apple Computer Accessories</a></li><li id="mainmenu100745"><a href="http://www.sunsky-online.com/list/100745/iPhone+%26+iPod+Spare+Parts.htm">iPhone &amp; iPod Spare Parts</a></li></ul></li><li id="mainmenu4"><a href="http://www.sunsky-online.com/list/4/Gaming.htm">Gaming</a><ul><li id="mainmenu100147"><a href="http://www.sunsky-online.com/list/100147/Wii+Accessories.htm">Wii Accessories</a></li><li id="mainmenu100797"><a href="http://www.sunsky-online.com/list/100797/NDSi+LL+Accessories+.htm">NDSi LL Accessories </a></li><li id="mainmenu100145"><a href="http://www.sunsky-online.com/list/100145/NDS+Accessories.htm">NDS Accessories</a></li><li id="mainmenu100555"><a href="http://www.sunsky-online.com/list/100555/NDSi+Accessories.htm">NDSi Accessories</a></li><li id="mainmenu100135"><a href="http://www.sunsky-online.com/list/100135/PSP+Accessories.htm">PSP Accessories</a></li><li id="mainmenu100156"><a href="http://www.sunsky-online.com/list/100156/PSP+2000+Accessories.htm">PSP 2000 Accessories</a></li><li id="mainmenu100171"><a href="http://www.sunsky-online.com/list/100171/PSP+3000+Accessories.htm">PSP 3000 Accessories</a></li><li id="mainmenu100736"><a href="http://www.sunsky-online.com/list/100736/PSP+GO+Accessories.htm">PSP GO Accessories</a></li><li id="mainmenu100140"><a href="http://www.sunsky-online.com/list/100140/PS2+Accessories.htm">PS2 Accessories</a></li><li id="mainmenu100131"><a href="http://www.sunsky-online.com/list/100131/PS3+Accessories.htm">PS3 Accessories</a></li><li id="mainmenu100146"><a href="http://www.sunsky-online.com/list/100146/XBOX360+Accessories.htm">XBOX360 Accessories</a></li><li id="mainmenu100149"><a href="http://www.sunsky-online.com/list/100149/XBOX+Accessories.htm">XBOX Accessories</a></li><li id="mainmenu100148"><a href="http://www.sunsky-online.com/list/100148/PC+Game+accessories.htm">PC Game accessories</a></li><li id="mainmenu100676"><a href="http://www.sunsky-online.com/list/100676/Game+Consoles.htm">Game Consoles</a></li></ul></li><li id="mainmenu2"><a href="http://www.sunsky-online.com/list/2/Computer.htm">Computer</a><ul><li id="mainmenu100108"><a href="http://www.sunsky-online.com/list/100108/Computer+Cable+%26+Adapter.htm">Computer Cable &amp; Adapter</a></li><li id="mainmenu100776"><a href="http://www.sunsky-online.com/list/100776/Audio+%26+Video+Cables+.htm">Audio &amp; Video Cables </a></li><li id="mainmenu100773"><a href="http://www.sunsky-online.com/list/100773/Power+cord.htm">Power cord</a></li><li id="mainmenu100772"><a href="http://www.sunsky-online.com/list/100772/HDMI+Series.htm">HDMI Series</a></li><li id="mainmenu100138"><a href="http://www.sunsky-online.com/list/100138/Computer+Card+%26+Parts.htm">Computer Card &amp; Parts</a></li><li id="mainmenu100143"><a href="http://www.sunsky-online.com/list/100143/Computer+Speaker.htm">Computer Speaker</a></li><li id="mainmenu100114"><a href="http://www.sunsky-online.com/list/100114/PC+%26+IP+Camera.htm">PC &amp; IP Camera</a></li><li id="mainmenu100121"><a href="http://www.sunsky-online.com/list/100121/TV+Receiver.htm">TV Receiver</a></li><li id="mainmenu100139"><a href="http://www.sunsky-online.com/list/100139/Notebook+PC+Accessories.htm">Notebook PC Accessories</a></li><li id="mainmenu100150"><a href="http://www.sunsky-online.com/list/100150/Laptop+Bag.htm">Laptop Bag</a></li><li id="mainmenu100144"><a href="http://www.sunsky-online.com/list/100144/PC+Remote+Controller+%26+Laser+Pointer.htm">PC Remote Controller &amp; Laser Pointer</a></li><li id="mainmenu100755"><a href="http://www.sunsky-online.com/list/100755/Travel+Easy+Cable+Bag.htm">Travel Easy Cable Bag</a></li><li id="mainmenu100127"><a href="http://www.sunsky-online.com/list/100127/Mouse+%26+Mouse+Pad.htm">Mouse &amp; Mouse Pad</a></li><li id="mainmenu100137"><a href="http://www.sunsky-online.com/list/100137/Computer+Network+Accessories.htm">Computer Network Accessories</a></li><li id="mainmenu100128"><a href="http://www.sunsky-online.com/list/100128/Keyboard.htm">Keyboard</a></li><li id="mainmenu100141"><a href="http://www.sunsky-online.com/list/100141/Microphone+%26+Earphone.htm">Microphone &amp; Earphone</a></li><li id="mainmenu100106"><a href="http://www.sunsky-online.com/list/100106/USB+HUB.htm">USB HUB</a></li><li id="mainmenu100107"><a href="http://www.sunsky-online.com/list/100107/Card+Reader.htm">Card Reader</a></li><li id="mainmenu100603"><a href="http://www.sunsky-online.com/list/100603/Skype+%26+IP+Phone.htm">Skype &amp; IP Phone</a></li><li id="mainmenu100122"><a href="http://www.sunsky-online.com/list/100122/HDD++Enclosure+%26+Mobile+Rack.htm">HDD  Enclosure &amp; Mobile Rack</a></li><li id="mainmenu100123"><a href="http://www.sunsky-online.com/list/100123/USB+Fan+%26+Light.htm">USB Fan &amp; Light</a></li><li id="mainmenu100785"><a href="http://www.sunsky-online.com/list/100785/Wall+Plates+++Parts.htm">Wall Plates / Parts</a></li></ul></li><li id="mainmenu1"><a href="http://www.sunsky-online.com/list/1/Mobile+Accessories.htm">Mobile Accessories</a><ul><li id="mainmenu100612"><a href="http://www.sunsky-online.com/list/100612/Mobile+Phone+Spare+Parts.htm">Mobile Phone Spare Parts</a></li><li id="mainmenu100816"><a href="http://www.sunsky-online.com/list/100816/BlackBerry+Phone+Spare+Parts.htm">BlackBerry Phone Spare Parts</a></li><li id="mainmenu100840"><a href="http://www.sunsky-online.com/list/100840/HTC+Phone+Spare+Parts+.htm">HTC Phone Spare Parts </a></li><li id="mainmenu100852"><a href="http://www.sunsky-online.com/list/100852/Mobile+Phone+Replacement+keyboard.htm">Mobile Phone Replacement keyboard</a></li><li id="mainmenu100175"><a href="http://www.sunsky-online.com/list/100175/Mobile+Phone+Battery.htm">Mobile Phone Battery</a></li><li id="mainmenu100120"><a href="http://www.sunsky-online.com/list/100120/Mobile+Phone+Silicon+case.htm">Mobile Phone Silicon case</a></li><li id="mainmenu100126"><a href="http://www.sunsky-online.com/list/100126/Charger+%26+AC+Adaptor.htm">Charger &amp; AC Adaptor</a></li><li id="mainmenu100165"><a href="http://www.sunsky-online.com/list/100165/Mobile+Phone+Screen+Protector.htm">Mobile Phone Screen Protector</a></li><li id="mainmenu100166"><a href="http://www.sunsky-online.com/list/100166/Mobile+Phone+Crystal+case.htm">Mobile Phone Crystal case</a></li><li id="mainmenu100167"><a href="http://www.sunsky-online.com/list/100167/Mobile+Phone++%26+E-Book+Leather+Case.htm">Mobile Phone  &amp; E-Book Leather Case</a></li><li id="mainmenu100168"><a href="http://www.sunsky-online.com/list/100168/Turbo+SIM+Unlock+Kit.htm">Turbo SIM Unlock Kit</a></li><li id="mainmenu100169"><a href="http://www.sunsky-online.com/list/100169/Mobile+Phone+Touch+Pen.htm">Mobile Phone Touch Pen</a></li><li id="mainmenu100570"><a href="http://www.sunsky-online.com/list/100570/Mobile+Phone+Plastic+Case.htm">Mobile Phone Plastic Case</a></li><li id="mainmenu100579"><a href="http://www.sunsky-online.com/list/100579/Mobile+Phone+TPU+Case.htm">Mobile Phone TPU Case</a></li><li id="mainmenu100104"><a href="http://www.sunsky-online.com/list/100104/Bluetooth+Dongle.htm">Bluetooth Dongle</a></li><li id="mainmenu100105"><a href="http://www.sunsky-online.com/list/100105/Bluetooth+Headset.htm">Bluetooth Headset</a></li><li id="mainmenu100134"><a href="http://www.sunsky-online.com/list/100134/Wired+Handset+%26+Mobile+Phone+Speaker.htm">Wired Handset &amp; Mobile Phone Speaker</a></li><li id="mainmenu100154"><a href="http://www.sunsky-online.com/list/100154/Ghost+Dual+Sim.htm">Ghost Dual Sim</a></li><li id="mainmenu100103"><a href="http://www.sunsky-online.com/list/100103/USB+Data+Cable.htm">USB Data Cable</a></li><li id="mainmenu100129"><a href="http://www.sunsky-online.com/list/100129/Mobile+Multimedia+Music+Cable+%26++AV+Cable.htm">Mobile Multimedia Music Cable &amp;  AV Cable</a></li><li id="mainmenu100153"><a href="http://www.sunsky-online.com/list/100153/Mobile+Phone+Telescope.htm">Mobile Phone Telescope</a></li><li id="mainmenu100495"><a href="http://www.sunsky-online.com/list/100495/Mobile+Phone+Carry+Bag+.htm">Mobile Phone Carry Bag </a></li><li id="mainmenu100496"><a href="http://www.sunsky-online.com/list/100496/Mobile+Phone+Strap.htm">Mobile Phone Strap</a></li><li id="mainmenu100505"><a href="http://www.sunsky-online.com/list/100505/Mobile+Phone+Chain.htm">Mobile Phone Chain</a></li></ul></li><li id="mainmenu100035"><a href="http://www.sunsky-online.com/list/100035/Spy+%26+Security.htm">Spy &amp; Security</a><ul><li id="mainmenu100173"><a href="http://www.sunsky-online.com/list/100173/Interview+Recorder+%26+Spy+Camera.htm">Interview Recorder &amp; Spy Camera</a></li><li id="mainmenu100625"><a href="http://www.sunsky-online.com/list/100625/Mobile+Phone+Signal+Isolator.htm">Mobile Phone Signal Isolator</a></li><li id="mainmenu100655"><a href="http://www.sunsky-online.com/list/100655/Telephone+Recorder.htm">Telephone Recorder</a></li><li id="mainmenu100158"><a href="http://www.sunsky-online.com/list/100158/Mini+DVR+camera+%26+Alarm+System.htm">Mini DVR camera &amp; Alarm System</a></li><li id="mainmenu100176"><a href="http://www.sunsky-online.com/list/100176/SIM+Card+Sound+Monitor.htm">SIM Card Sound Monitor</a></li><li id="mainmenu100170"><a href="http://www.sunsky-online.com/list/100170/CCD+Camera+%26+DVR.htm">CCD Camera &amp; DVR</a></li><li id="mainmenu100172"><a href="http://www.sunsky-online.com/list/100172/Video+Capture+Card.htm">Video Capture Card</a></li><li id="mainmenu100498"><a href="http://www.sunsky-online.com/list/100498/LED+Lamp.htm">LED Lamp</a></li><li id="mainmenu100157"><a href="http://www.sunsky-online.com/list/100157/Wireless+Cameras.htm">Wireless Cameras</a></li><li id="mainmenu100832"><a href="http://www.sunsky-online.com/list/100832/Access+Controller+%26+Magnetic+Lock.htm">Access Controller &amp; Magnetic Lock</a></li><li id="mainmenu100858"><a href="http://www.sunsky-online.com/list/100858/Electronic+Anti-lost+Personal+Reminder+Alarm+.htm">Electronic Anti-lost Personal Reminder Alarm </a></li></ul></li><li id="mainmenu100848"><a href="http://www.sunsky-online.com/list/100848/In+Car.htm">In Car</a><ul><li id="mainmenu100118"><a href="http://www.sunsky-online.com/list/100118/GPS+Navigator+%26+Tracker.htm">GPS Navigator &amp; Tracker</a></li><li id="mainmenu100732"><a href="http://www.sunsky-online.com/list/100732/Portable+LCD+TV+%26+TV+Remote.htm">Portable LCD TV &amp; TV Remote</a></li><li id="mainmenu100851"><a href="http://www.sunsky-online.com/list/100851/Car+MP4+Player.htm">Car MP4 Player</a></li><li id="mainmenu100850"><a href="http://www.sunsky-online.com/list/100850/Car+MP3+Player.htm">Car MP3 Player</a></li><li id="mainmenu100124"><a href="http://www.sunsky-online.com/list/100124/HandsFree+Car+Kit+%26+The+Wireless+Earphone.htm">HandsFree Car Kit &amp; The Wireless Earphone</a></li><li id="mainmenu100174"><a href="http://www.sunsky-online.com/list/100174/Car+Power+Inverter+.htm">Car Power Inverter </a></li><li id="mainmenu100152"><a href="http://www.sunsky-online.com/list/100152/Car+Holder.htm">Car Holder</a></li><li id="mainmenu100115"><a href="http://www.sunsky-online.com/list/100115/FM+Transmitter.htm">FM Transmitter</a></li><li id="mainmenu100746"><a href="http://www.sunsky-online.com/list/100746/Car+Parking+Sensor+.htm">Car Parking Sensor </a></li><li id="mainmenu100849"><a href="http://www.sunsky-online.com/list/100849/Car+DVD+Player+%26+Car+MP5+Player+.htm">Car DVD Player &amp; Car MP5 Player </a></li></ul></li><li id="mainmenu100715"><a href="http://www.sunsky-online.com/list/100715/Home+%26+Personal+Care.htm">Home &amp; Personal Care</a><ul><li id="mainmenu100767"><a href="http://www.sunsky-online.com/list/100767/Multi+Function+Watch.htm">Multi Function Watch</a></li><li id="mainmenu100162"><a href="http://www.sunsky-online.com/list/100162/E+Cigarette.htm">E Cigarette</a></li><li id="mainmenu100159"><a href="http://www.sunsky-online.com/list/100159/Breath+Alcohol+Tester.htm">Breath Alcohol Tester</a></li><li id="mainmenu100716"><a href="http://www.sunsky-online.com/list/100716/Digital+Electronic+Blood+Pressure+Monitor+.htm">Digital Electronic Blood Pressure Monitor </a></li><li id="mainmenu100717"><a href="http://www.sunsky-online.com/list/100717/Massage+Supplies.htm">Massage Supplies</a></li><li id="mainmenu100718"><a href="http://www.sunsky-online.com/list/100718/Air+Refresher+.htm">Air Refresher </a></li><li id="mainmenu100720"><a href="http://www.sunsky-online.com/list/100720/USB+Heater.htm">USB Heater</a></li><li id="mainmenu100723"><a href="http://www.sunsky-online.com/list/100723/Baby+Monitor.htm">Baby Monitor</a></li><li id="mainmenu100725"><a href="http://www.sunsky-online.com/list/100725/Thermometer+%26+Quick+Shot+Infra-red+Thermoscope.htm">Thermometer &amp; Quick Shot Infra-red Thermoscope</a></li><li id="mainmenu100731"><a href="http://www.sunsky-online.com/list/100731/Dental+Microscope.htm">Dental Microscope</a></li><li id="mainmenu100514"><a href="http://www.sunsky-online.com/list/100514/Gifts+and+Promotion.htm">Gifts and Promotion</a></li><li id="mainmenu100842"><a href="http://www.sunsky-online.com/list/100842/Outdoors+Gear+.htm">Outdoors Gear </a></li></ul></li>
 </ul><!-- END Global Nav -->
 
 </div>
 <script>
 	function switchCurrency(id) {
 		window.location = "http://www.sunsky-online.com/product/cart!switchCurrency.do?currencyId=" + id 
-			+ "&toUrl=http%3A%2F%2Fwww.sunsky-online.com%2Fbase%2Finfo%21privacyNotice.do";
+			+ "&toUrl=http%3A%2F%2Fwww.sunsky-online.com%2Fbase%2Fdoc%21view.do%3Fcode%3DprivacyNotice";
 	}
 </script>
 <div id="globalTopBanner"></div>
@@ -244,57 +316,43 @@ var RES_URL = "http://www.sunsky-online.com/htdocs";
 <!-- Begin mainContent -->
 <div class="clearfix" id="mainContent">
 <div id="leftCol">
-<h2>Links</h2>
+	
+<h2>Service &amp; Support</h2>
 <div class="colBoxL" id="storeNav">
 <ul>
-<li><a href="http://www.sunsky-online.com/base/info!shippingAndHandling.do">Shipping &amp; Handling</a> </li>
-<li><a href="http://www.sunsky-online.com/base/info!dutiesAndTaxes.do">Duties &amp; Taxes</a> </li>
-<li><a href="http://www.sunsky-online.com/base/info!returns.do">Returns</a> </li>
-<li><a href="http://www.sunsky-online.com/base/info!termsAndConditions.do">Terms &amp; Conditions</a> </li>
-<li><a href="http://www.sunsky-online.com/base/info!privacyNotice.do">Privacy notice</a> </li>
-<li><a href="http://www.sunsky-online.com/base/info!paymentMethod.do">Payment method</a> </li>
-<li><a href="http://www.sunsky-online.com/base/info!contactUs.do">Contact us</a> </li>
-<li><a href="http://www.sunsky-online.com/base/info!aboutUs.do">About us</a> </li>
+	<li><a href="http://www.sunsky-online.com/base/doc!view.do?code=privacyNotice">Privacy notice</a></li>
+	<li><a href="http://www.sunsky-online.com/base/doc!view.do?code=termsConditions">Terms &amp; Conditions</a></li>
+	<li><a href="http://www.sunsky-online.com/base/doc!view.do?code=paymentMethod">Payment method</a></li>
+	<li><a href="http://www.sunsky-online.com/base/doc!view.do?code=aboutUs">About us</a></li>
+	<li><a href="http://www.sunsky-online.com/base/doc!view.do?code=contactUs">Contact us</a></li>
 </ul>
 </div>
+<h2>Orders &amp; Deliveries</h2>
+<div class="colBoxL" id="storeNav">
+<ul>
+	<li><a href="http://www.sunsky-online.com/base/doc!view.do?code=shippingHandling">Shipping &amp; Handling</a></li>
+	<li><a href="http://www.sunsky-online.com/base/doc!view.do?code=dropshipping">Drop Shipping</a></li>
+	<li><a href="http://www.sunsky-online.com/base/doc!view.do?code=dutiesTaxes">Duties &amp; Taxes</a></li>
+	<li><a href="http://www.sunsky-online.com/base/doc!view.do?code=returns">Returns</a></li>
+</ul>
+</div>
+
 </div>
 <div id="centerCol">
-	
-<h2 class="registration">Privacy Notice</h2>
 
+<h2 class="registration">Privacy notice</h2>
 
 <h3>Collection of information</h3>
-<p>
-	When you visit our website, we do not collect personally identifiable information about you, except when you specifically and knowingly provide it. For instance, we do require registration for the newsletter. If you decide to register for the newsletter, or if you request information from us, you will be asked to provide certain information and details, including your name, country and e-mail address. 
-</p>
-<br>
+<p>When you visit our website, we do not collect personally identifiable information about you, except when you specifically and knowingly provide it. For instance, we do require registration for the newsletter. If you decide to register for the newsletter, or if you request information from us, you will be asked to provide certain information and details, including your name, country and e-mail address. </p><br>
 <h3>SUNSKY respects your privacy</h3>
-<p>
-	We will not sell, trade or rent personally identifiable information about our users to other parties, without our users' consent. 
-</p>
-<br>
-<p>
-	We do, however, share certain aggregate information about our users to our suppliers, i.e. XX% of site visitors is from North America. This enables us to constantly build a large database of products and suppliers, giving you wider shopping options. 
-</p>
-<br>
-<p>
-	We also reserve the right to disclose user information in special cases. For example, when we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be infringing (or threatening to infringe) or who may otherwise be causing injury to or interference with (either intentionally or unintentionally), our title, rights, interests or property, or those of other web site users, or of anyone else who could be harmed by such activities. We also reserve the right to disclose, without notice to you, personal information in response to a subpoena or other judicial order or when we believe in good faith that such disclosure is required by any law, regulation or listing requirement, or by any stock/securities exchange, governmental or regulatory authority. 
-</p>
-<br>
+<p>We will not sell, trade or rent personally identifiable information about our users to other parties, without our users' consent. </p><br>
+<p>We do, however, share certain aggregate information about our users to our suppliers, i.e. XX% of site visitors is from North America. This enables us to constantly build a large database of products and suppliers, giving you wider shopping options. </p><br>
+<p>We also reserve the right to disclose user information in special cases. For example, when we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be infringing (or threatening to infringe) or who may otherwise be causing injury to or interference with (either intentionally or unintentionally), our title, rights, interests or property, or those of other web site users, or of anyone else who could be harmed by such activities. We also reserve the right to disclose, without notice to you, personal information in response to a subpoena or other judicial order or when we believe in good faith that such disclosure is required by any law, regulation or listing requirement, or by any stock/securities exchange, governmental or regulatory authority. </p><br>
 <h3>Use of information</h3>
-<p>
-	We may use the information you provide to respond to your requests for additional information, to contact you, if necessary, to service your account or for other administrative purposes. We may also access your information to resolve disputes, to troubleshoot problems, to enforce agreements between us, or for marketing purposes. In addition, for certain transactions, our system may use your transaction details to automate and to streamline your transaction by checking for electronic data compliance, providing reporting features, and transferring data from previous forms to those of the current transaction. 
-</p>
-<br>
-<p>
-	We may also use the information you provide for certain mailing initiatives. For example, you may sometimes receive an invitation to answer surveys or try out new products and services from Global Sources. Your feedback helps us develop new products and services based on your needs. 
-</p>
-<br>
-<p>
-	You always have a choice about receiving mailings, surveys or information about products and services from us. Each e-mail you receive has an "Unsubscribe" option. As a registered member, you can also advise us which types of e-mail you wish to receive by updating your Notifications page. 
-</p>
-<br>
-	
+<p>We may use the information you provide to respond to your requests for additional information, to contact you, if necessary, to service your account or for other administrative purposes. We may also access your information to resolve disputes, to troubleshoot problems, to enforce agreements between us, or for marketing purposes. In addition, for certain transactions, our system may use your transaction details to automate and to streamline your transaction by checking for electronic data compliance, providing reporting features, and transferring data from previous forms to those of the current transaction. </p><br>
+<p>We may also use the information you provide for certain mailing initiatives. For example, you may sometimes receive an invitation to answer surveys or try out new products and services from Global Sources. Your feedback helps us develop new products and services based on your needs. </p><br>
+<p>You always have a choice about receiving mailings, surveys or information about products and services from us. Each e-mail you receive has an "Unsubscribe" option. As a registered member, you can also advise us which types of e-mail you wish to receive by updating your Notifications page. </p>
+
 </div><!-- End centerCol -->
 </div><!-- End mainContent -->
 
@@ -303,38 +361,43 @@ var RES_URL = "http://www.sunsky-online.com/htdocs";
 <!-- Begin Footer -->
 <div id="footer">
 <div id="footerTop">
-	<a class="footerPrint" href="http://www.sunsky-online.com/download/product!quot.do?categoryId=">Download Quotations</a>
-	<a class="toTop" href="#"><img alt="Top of Page" src="http://www.sunsky-online.com/htdocs/images/to_top.gif"></a>
-	»<a href="http://www.sunsky-online.com/order/default!myOrderList.do">Track your order</a>
+    <a class="footerPrint" href="http://www.sunsky-online.com/download/product!quot.do?categoryId=">Download Quotations</a>
+    <a class="toTop" href="#"><img alt="Top of Page" src="http://img.sunsky-online.com/htdocs/images/to_top.gif"></a>
+    »<a href="http://www.sunsky-online.com/order/default!myOrderList.do">Track your order</a>
+</div>
 <div class="clearfix" id="footerMain">
-<ul>
-<li class="footerHeading">Contact Information 
-</li><li>
-<strong>Email:</strong><a href="mailto:service@sunsky-online.com">service@sunsky-online.com</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:sales@sun-usb.com">sales@sun-usb.com</a>
-</li><li>
-<strong>Address:</strong>
-<address>27/P, B Wing, Windows Building, Huaqiangbei Road, Futian District, Shenzhen, China</address></li>
-</ul>
-<ul>
-<li class="footerHeading">Orders &amp; Deliveries 
-</li><li><a href="http://www.sunsky-online.com/order/default!myOrderList.do">Orders tracking</a> 
-</li><li><a href="http://www.sunsky-online.com/base/info!shippingAndHandling.do">Shipping &amp; Handling</a>
-</li><li><a href="http://www.sunsky-online.com/base/info!dutiesAndTaxes.do">Duties &amp; Taxes</a>
-</li><li><a href="http://www.sunsky-online.com/base/info!returns.do">Returns</a></li>
-</ul>
-<ul>
-<li class="footerHeading">Service &amp; Support
-</li><li><a href="http://www.sunsky-online.com/base/info!privacyNotice.do">Privacy notice</a>
-</li><li><a href="http://www.sunsky-online.com/base/info!paymentMethod.do">Payment method</a>
-</li><li><a href="http://www.sunsky-online.com/base/info!contactUs.do">Contact us</a></li>
-<li><a href="http://www.sunsky-online.com/base/info!aboutUs.do">About us</a>
-</li></ul>
-</div><!-- End Main footer info -->
-<div style="width:100%;text-align:center;"><img src="http://www.sunsky-online.com/htdocs/images/payment.gif" border="0"></div>
-<div id="copyright">©&nbsp;Copyright Sunsky LTD 2001 - 2009. All rights reserved </div>
-
+    <ul>
+    <li class="footerHeading">Contact Information</li>
+    <li>
+    <strong>Email:&nbsp;</strong><a href="mailto:service@sunsky-online.com">service@sunsky-online.com</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:sales@sun-usb.com">sales@sun-usb.com</a></li>
+    <li>
+    <strong>Address:</strong>
+    <address>27/P, B Wing, Windows Building, Huaqiangbei Road, Futian District, Shenzhen, China</address></li>
+    </ul>
+        <ul>
+    <li class="footerHeading">Service &amp; Support</li>
+        <li><a href="http://www.sunsky-online.com/base/doc!view.do?code=privacyNotice">Privacy notice</a></li>
+        <li><a href="http://www.sunsky-online.com/base/doc!view.do?code=termsConditions">Terms &amp; Conditions</a></li>
+        <li><a href="http://www.sunsky-online.com/base/doc!view.do?code=paymentMethod">Payment method</a></li>
+        <li><a href="http://www.sunsky-online.com/base/doc!view.do?code=aboutUs">About us</a></li>
+        <li><a href="http://www.sunsky-online.com/base/doc!view.do?code=contactUs">Contact us</a></li>
+        </ul>
+        <ul>
+    <li class="footerHeading">Orders &amp; Deliveries</li>
+        <li><a href="http://www.sunsky-online.com/base/doc!view.do?code=shippingHandling">Shipping &amp; Handling</a></li>
+        <li><a href="http://www.sunsky-online.com/base/doc!view.do?code=dropshipping">Drop Shipping</a></li>
+        <li><a href="http://www.sunsky-online.com/base/doc!view.do?code=dutiesTaxes">Duties &amp; Taxes</a></li>
+        <li><a href="http://www.sunsky-online.com/base/doc!view.do?code=returns">Returns</a></li>
+        </ul>
+    </div><!-- End Main footer info -->
+<div style="width:100%;text-align:center;">
+	<img src="http://img.sunsky-online.com/htdocs/images/payment.gif" border="0" align="absmiddle">
+	<script src="https://seal.verisign.com/getseal?host_name=www.sunsky-online.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
+</div>
+<div id="copyright">©&nbsp;Copyright Sunsky LTD 2001 - 2010. All rights reserved </div>
 </div><!-- End Footer -->
+
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -347,4 +410,4 @@ pageTracker._trackPageview();
 } catch(err) {}</script>
 </div><!-- End SiteContainer -->
 
-</div></body></html>
+</body></html>
