@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the civilservice.gov.uk privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126081333id_/http%3A//www.civilservice.gov.uk/privacy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilservice.gov.uk privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513152911id_/http%3A//www.civilservice.gov.uk/privacy/index.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
