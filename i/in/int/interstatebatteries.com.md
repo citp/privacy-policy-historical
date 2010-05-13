@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interstatebatteries.com privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112131436id_/http%3A//www.interstatebatteries.com/cs_estore/ContentNet/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interstatebatteries.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514001237id_/http%3A//www.interstatebatteries.com/cs_eStore/ContentNet/privacy.aspx) for the most accurate reproduction.*
 
 # Untitled Page
 
