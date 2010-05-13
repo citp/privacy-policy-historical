@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedgee.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101104713id_/http%3A//www.feedgee.com/en/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedgee.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513234851id_/http%3A//feedgee.com/en/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | FEEDGEE email marketing tools
 
