@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the standardlife.ca privacy policy that was archived on 2009-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090615221309id_/http%3A//www.standardlife.ca/en/corporate/customer/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the standardlife.ca privacy policy that was archived on 2010-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100513043430id_/http%3A//standardlife.ca/en/corporate/customer/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Standard Life Canada</title>
@@ -15,7 +15,10 @@
 <script language="JavaScript" type="text/javascript" src="/include/en_menu.js"></script>
 <script language="JavaScript" type="text/javascript" src="/include/search.js"></script> 
 
-<link rel="stylesheet" type="text/css" href="/include/styles.css"> 
+<link rel="stylesheet" type="text/css" href="/include/styles.css">
+<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>	
+<script type="text/javascript" src="/js/jquery-ui-1.7.1.custom.min.js"></script>
+<script type="text/javascript" src="/js/thickbox2.js?version=3"></script> 
 
 <link rel="stylesheet" type="text/css" href="/include/corporate.css"> 
 
@@ -59,7 +62,7 @@ pageTracker._trackPageview();
 <table border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
 <td><label for="search_box"><span class="navy">Search</span> </label><input name="qt" size="25" maxlength="50" value="" class="input" id="search_box"></td>
-<td><input type="image" src="/images/en_go.gif" border="0" alt="Start Search"></td>
+<td><input type="image" src="/images/en_go.gif" border="0" alt="Start Search" onclick="javascript:pageTracker._trackEvent('Search', 'go', '/en/search');"></td>
 
 </tr>
 </tbody></table>
@@ -118,8 +121,8 @@ pageTracker._trackPageview();
 </td>
 <td align="right"> 
 
-<form name="contact" action="/cgi-bin/friend_form.pl?en" target="_blank" method="POST"><p class="print"><a href="#" onclick="contact.submit()">Send to a friend</a> <input type="image" src="/images/sections/corporate/email.gif" name="submit" value="Send a friend" alt="Send to a friend">
- &nbsp; <a href='javascript:printMainContent("en");' onmouseover="window.status='';return true;" onmouseout="window.status='';return true;">Printer friendly <img src="/images/sections/corporate/print.gif" border="0" alt="Print this page"></a></p></form> 
+<form name="contact" action="/cgi-bin/friend_form.pl?en" target="_blank" method="POST"><p class="print"><a href="#" onclick="contact.submit(); javascript:pageTracker._trackEvent('Tools', 'Send Friend', this.href);">Send to a friend</a> <input type="image" src="/images/sections/corporate/email.gif" name="submit" value="Send a friend" alt="Send to a friend">
+ &nbsp; <a href='javascript:printMainContent("en");' onmouseover="window.status='';return true;" onmouseout="window.status='';return true;" onclick="javascript:pageTracker._trackEvent('Tools', 'Printer Friendly', location.href);">Printer friendly <img src="/images/sections/corporate/print.gif" border="0" alt="Print this page"></a></p></form> 
 
 </td>
 <td><br></td>
@@ -257,7 +260,7 @@ We will keep Personal Information only as long as it is necessary, including for
 
 <p class="subtitle"><a name="4"></a><a href="#top"><img src="/images/top.gif" border="0" alt="top of page" align="right"></a>We will safeguard information in our custody</p>
 
-<p align="justify">We have developed and will maintain security procedures to safeguard Personal Information against loss, theft, copying, and unauthorized disclosure, use or modification.  Access to Personal Information is restricted to employees and authorized service providers who need it to perform their work. While Standard Life endeavours to protect all information, the most sensitive information, such as medical information, receives the highest level of protection.</p>
+<p align="justify">We have developed and will maintain security procedures to safeguard Personal Information against loss, theft, copying, and unauthorized disclosure, use or modification. Access to Personal Information is restricted to employees and authorized service providers who need it to perform their work. We may use other companies to provide services on our behalf such as data processing or account administration. They will be given only the information needed to perform those services. We have contracts in place holding these companies to the same high standards of confidentiality by which we are governed. In some cases, these other companies may be located outside of Canada and your personal information could therefore be subject to the laws of foreign territories. While Standard Life endeavours to protect all information, the most sensitive information, such as medical information, receives the highest level of protection.</p>
 
 <p class="subtitle"><a name="5"></a><a href="#top"><img src="/images/top.gif" border="0" alt="top of page" align="right"></a>We will provide you access to your file</p>
 
