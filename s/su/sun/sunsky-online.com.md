@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sunsky-online.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629164802id_/http%3A//www.sunsky-online.com/base/info%21privacyNotice.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunsky-online.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513205512id_/http%3A//www.sunsky-online.com/base/doc%21view.do%3Fcode%3DprivacyNotice) for the most accurate reproduction.*
 
-# Sunsky - Privacy Notice
+# Sunsky - Privacy notice
 
 ### Collection of information
 
@@ -27,6 +27,3 @@ We may use the information you provide to respond to your requests for additiona
 We may also use the information you provide for certain mailing initiatives. For example, you may sometimes receive an invitation to answer surveys or try out new products and services from Global Sources. Your feedback helps us develop new products and services based on your needs. 
 
 You always have a choice about receiving mailings, surveys or information about products and services from us. Each e-mail you receive has an "Unsubscribe" option. As a registered member, you can also advise us which types of e-mail you wish to receive by updating your Notifications page. 
-
-  
-
