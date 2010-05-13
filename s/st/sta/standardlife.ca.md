@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardlife.ca privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615221309id_/http%3A//www.standardlife.ca/en/corporate/customer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardlife.ca privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513043430id_/http%3A//standardlife.ca/en/corporate/customer/privacy.html) for the most accurate reproduction.*
 
 # Standard Life Canada
 
@@ -78,7 +78,7 @@ We will keep Personal Information only as long as it is necessary, including for
 
 We will safeguard information in our custody
 
-We have developed and will maintain security procedures to safeguard Personal Information against loss, theft, copying, and unauthorized disclosure, use or modification. Access to Personal Information is restricted to employees and authorized service providers who need it to perform their work. While Standard Life endeavours to protect all information, the most sensitive information, such as medical information, receives the highest level of protection.
+We have developed and will maintain security procedures to safeguard Personal Information against loss, theft, copying, and unauthorized disclosure, use or modification. Access to Personal Information is restricted to employees and authorized service providers who need it to perform their work. We may use other companies to provide services on our behalf such as data processing or account administration. They will be given only the information needed to perform those services. We have contracts in place holding these companies to the same high standards of confidentiality by which we are governed. In some cases, these other companies may be located outside of Canada and your personal information could therefore be subject to the laws of foreign territories. While Standard Life endeavours to protect all information, the most sensitive information, such as medical information, receives the highest level of protection.
 
 We will provide you access to your file
 
