@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netvouchercodes.co.uk privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111161638id_/http%3A//www.netvouchercodes.co.uk/privacy.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netvouchercodes.co.uk privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513191522id_/http%3A//www.netvouchercodes.co.uk/privacy.aspx%23privacy) for the most accurate reproduction.*
 
 # Net Voucher Codes - Privacy Policy
 
@@ -24,11 +24,11 @@ If you volunteer to take part in a survey on our web site, then any information 
 
 ## 5\. Is your information secure?
 
-We take great care in ensuring that any personal information you submit is secure and held securely. The information you submit will only be used for the purposes described in this privacy policy. Please see our [Security Policy](https://web.archive.org/web/20091111161638id_/http%3A//www.netvouchercodes.co.uk/Security.aspx) for further details. 
+We take great care in ensuring that any personal information you submit is secure and held securely. The information you submit will only be used for the purposes described in this privacy policy. Please see our [Security Policy](https://web.archive.org/web/20100513191522id_/http%3A//www.netvouchercodes.co.uk/Security.aspx) for further details. 
 
 ## 6\. Cookies
 
-This web site does make use of cookies. Please click the following link for full details of our [Cookie Policy](https://web.archive.org/web/20091111161638id_/http%3A//www.netvouchercodes.co.uk/Cookie.aspx#cookie). 
+This web site does make use of cookies. Please click the following link for full details of our [Cookie Policy](https://web.archive.org/web/20100513191522id_/http%3A//www.netvouchercodes.co.uk/Cookie.aspx#cookie). 
 
 ## 7\. 3rd Party Web Sites
 
@@ -40,7 +40,7 @@ netvouchercodes reserves the right to change and amend this policy for any reaso
 
 ## 9\. Feedback, comments and suggestions
 
-netvouchercodes welcomes your questions and comments about privacy, as well as any other aspect of our service. Please use the following page to get in touch with us by using the [Contact Us section](https://web.archive.org/web/20091111161638id_/http%3A//www.netvouchercodes.co.uk/Contact.aspx)  
+netvouchercodes welcomes your questions and comments about privacy, as well as any other aspect of our service. Please use the following page to get in touch with us by using the [Contact Us section](https://web.archive.org/web/20100513191522id_/http%3A//www.netvouchercodes.co.uk/Contact.aspx)  
 If you would like to contact netvouchercodes regarding this policy then please send your enquiry by email to [privacy@netvouchercodes.co.uk](mailto:privacy@netvouchercodes.co.uk)
 
 ## 10\. Who owns and operates this site?
