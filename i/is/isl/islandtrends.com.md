@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the islandtrends.com privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028012817id_/http%3A//www.islandtrends.com/info-exec/display/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandtrends.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513210510id_/http%3A//www.islandtrends.com/index/page/static/subpage/privacy_policy) for the most accurate reproduction.*
 
-# Island Trends
+# Island Trends Website
+
+Privacy Policy-Contact Us At 1-877-342-8615 or 1-239.963.8564 between 9am & 6pm EST Daily For Assistance. Email help@islandtrends.com 24 Hours A Day 7 Days A Week 
 
 Island Trends values customer privacy. The requested personal information, including your name, shipping address, telephone number, e-mail address, billing address, credit card number, and expiration date will not be sold or traded to mailing list firms. 
 
