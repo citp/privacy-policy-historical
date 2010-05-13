@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeserifsoftware.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228151215id_/http%3A//www.freeserifsoftware.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeserifsoftware.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513040457id_/http%3A//www.freeserifsoftware.com/info/privacy.asp) for the most accurate reproduction.*
 
 # FreeSerifSoftware.com - Privacy Statement
 
@@ -12,7 +12,7 @@ Customers in North America and non-European countries should be conducting busin
 
 FreeSerifSoftware is a trading name of Serif (Europe) Ltd (“we”, “our” or “us”) registered in England number 2117968 with registered offices at: The Software Centre, 12 Wilford Ind Est, Nottingham NG11 7EP, UK. Telephone: UK - 0845 6740484 Intl.- +44 115 9145472
 
-This Privacy Policy, and any documents it references, inform you how we collect and use the personal information (“Personal Data”) you provide in doing business with FreeSerifSoftware including use of the FreeSerifSoftware.com website and its services (the “Web Site”). FreeSerifSoftware knows how much you care about the way your Personal Data is used. We are committed to protecting the integrity and confidentiality of your information and act in a careful, sensible manner in [UK Start]compliance with the Data Protection Act 1998.[UK End] We appreciate the trust you place in us.
+This Privacy Policy, and any documents it references, inform you how we collect and use the personal information (“Personal Data”) you provide in doing business with FreeSerifSoftware including use of the FreeSerifSoftware.com website and its services (the “Web Site”). FreeSerifSoftware knows how much you care about the way your Personal Data is used. We are committed to protecting the integrity and confidentiality of your information and act in a careful, sensible manner in compliance with the Data Protection Act 1998. We appreciate the trust you place in us.
 
 Personal Data does not include information such as data, messages, text, graphics, images, photos, video, sounds, profiles, works of authorship and any other materials that has been posted on to the FreeSerifSoftware.com web site. The use of this information is detailed in our _Terms and Conditions_.
 
