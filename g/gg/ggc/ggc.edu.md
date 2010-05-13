@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the ggc.edu privacy policy that was archived on 2009-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090710064049id_/http%3A//www.ggc.usg.edu/index.php/Site-administration-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ggc.edu privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513164406id_/http%3A//www.ggc.edu/component/content/article/926-privacy-policy) for the most accurate reproduction.*
 
-# Georgia Gwinnett College - Privacy Policy
+# Privacy Policy
 
-[Terms of Service](http://www.ggc.usg.edu/index.php/Site-administration-Terms-of-Service.html) | [User Conduct Guidelines](http://www.ggc.usg.edu/index.php/Site-administration-User-conduct-guide.html)   
+[Terms of Service](http://www.ggc.edu/component/content/article/104/927-terms-of-service) | [User Conduct Guidelines](http://www.ggc.edu/component/content/article/104/928-user-conduct-guidelines)
 
+We will not obtain personally identifying information about you when you visit our site, unless you choose to provide such information to us. You may volunteer to provide us personally identifying information so that the College can respond to any questions or provide you with information. Except as might be required by law, we do not share any information we receive with any outside parties.
 
-We will not obtain personally identifying information about you when you visit our site, unless you choose to provide such information to us. You may volunteer to provide us personally identifying information so that the College can respond to any questions or provide you with information. Except as might be required by law, we do not share any information we receive with any outside parties. 
+Here is how we handle information about your visit to our website:
 
-Here is how we handle information about your visit to our website: 
+## Information Collected and Stored Automatically
 
-## Information Collected and Stored Automatically 
-
-If you do nothing during your visit but browse through the website, read pages or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit: 
+If you do nothing during your visit but browse through the website, read pages or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit:
 
   * The Internet domain (for example,"xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website;
   * the type of browser and operating system used to access our site;
@@ -22,24 +21,24 @@ If you do nothing during your visit but browse through the website, read pages o
 
 
   
-We use this information to help us make our site more useful to visitors -- to learn about the number of visitors to our site and the types of technology our visitors use. 
+We use this information to help us make our site more useful to visitors -- to learn about the number of visitors to our site and the types of technology our visitors use.
 
-## If You Send Us Personal Information 
+## If You Send Us Personal Information
 
-If you choose to provide us with personal information by sending an e-mail to the College or by filling out a form with your personal information and submitting it through our website, we use that information to respond to your message and to help us provide you with information that you request. We may also use your information to contact you in the future about our programs that may be of interest. You may always opt-out of receiving future mailings; see the "Opt Out" section below. 
+If you choose to provide us with personal information by sending an e-mail to the College or by filling out a form with your personal information and submitting it through our website, we use that information to respond to your message and to help us provide you with information that you request. We may also use your information to contact you in the future about our programs that may be of interest. You may always opt-out of receiving future mailings; see the "Opt Out" section below.
 
-If you submit your resume through our website, we use your personal identification information only in considering your application for employment. We do not collect personal information for any other purposes. The information you provide is not given to any private organizations or private persons.  This information will be utilized by the Georgia Gwinnett College employees involved in making hiring decisions. Please note that information provided is subject to the Georgia Open Records Act (O.C.G.A.§50-18-70).    
+If you submit your resume through our website, we use your personal identification information only in considering your application for employment. We do not collect personal information for any other purposes. The information you provide is not given to any private organizations or private persons.  This information will be utilized by the Georgia Gwinnett College employees involved in making hiring decisions. Please note that information provided is subject to the Georgia Open Records Act (O.C.G.A.§50-18-70).
 
 ## Opting-Out or Changing Your Contact Information
 
-Our online community sites provide users the opportunity to opt-out of receiving communications from us through a special online form. You may choose to receive only specific communications or none at all. You may also update your contact information previously provided to us through an online form or by contacting [webmaster@ggc.usg.edu](mailto:webmaster@ggc.usg.edu). You cannot remove yourself from our database, but you can prevent unwanted communication. 
+Our online community sites provide users the opportunity to opt-out of receiving communications from us through a special online form. You may choose to receive only specific communications or none at all. You may also update your contact information previously provided to us through an online form or by contacting [webmaster@ggc.usg.edu](mailto:webmaster@ggc.usg.edu). You cannot remove yourself from our database, but you can prevent unwanted communication.
 
-## Links to Other Sites 
+## Links to Other Sites
 
-Throughout our website, we may provide links to other servers that may contain information of interest to our users. We take no responsibility for, and exercise no control over, the organizations, views or accuracy of the information contained on other servers. 
+Throughout our website, we may provide links to other servers that may contain information of interest to our users. We take no responsibility for, and exercise no control over, the organizations, views or accuracy of the information contained on other servers.
 
-Creating a text link from your website to our site does not require permission. If you have a link you'd like us to consider adding to our website, please send an email to [webmaster@ggc.usg.edu](mailto:webmaster@ggc.usg.edu) with the subject "Link request." If GGC adds a link to our website, the College reserves the right to remove a link that is not in line with the mission of the College or violates state, federal or local law. 
+Creating a text link from your website to our site does not require permission. If you have a link you'd like us to consider adding to our website, please send an email to [webmaster@ggc.usg.edu](mailto:webmaster@ggc.usg.edu) with the subject "Link request." If GGC adds a link to our website, the College reserves the right to remove a link that is not in line with the mission of the College or violates state, federal or local law.
 
 ## Use of Text and Images
 
-All logos, images and text on the GGC website are protected by copyright. If you would like to publish information that you find on our website, please send your request to [webmaster@ggc.usg.edu](mailto:webmaster@ggc.usg.edu). When text, images or other content is posted on our site with the permission of the original copyright holder, a copyright statement will appear with the content. 
+All logos, images and text on the GGC website are protected by copyright. If you would like to publish information that you find on our website, please send your request to [webmaster@ggc.usg.edu](mailto:webmaster@ggc.usg.edu). When text, images or other content is posted on our site with the permission of the original copyright holder, a copyright statement will appear with the content.
