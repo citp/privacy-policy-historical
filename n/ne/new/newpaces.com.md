@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the newpaces.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511083838id_/http%3A//newpaces.com/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newpaces.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513175303id_/http%3A//newpaces.com/privacy/privacy_policy.html) for the most accurate reproduction.*
 
-# privacy » NEWPACES
-
-FIND FRIEND 
+# privacy - NEWPACES
 
 ### Privacy Policy
 
@@ -20,7 +18,7 @@ If you have any questions about how we collect, store and use personal data, or 
 
 #### An important note about children
 
-We do not and will not knowingly collect information from any child under the age of 18. If you are under the age of 18, you must not use any of the Services. 
+We do not and will not knowingly collect information from any unsupervised child under the age of 13. If you are under the age of 13, you may not use the Services unless you have the consent of, and are supervised by, a parent or guardian. 
 
 #### The personal data we collect about you
 
@@ -89,3 +87,5 @@ If you wish to exercise any of the above rights, please e-mail us at the address
 #### Third party sites
 
 This website also contains links to other third party websites over which we have no control. Please note that this privacy policy applies only to the personal data that we collect through this website and we cannot be responsible for personal data that third parties may collect, store and use through their independent websites. You should always read the privacy policy of each website you visit carefully. 
+
+Malaysia Online Friends, Find Online Friend, Friend online. Meet New Friends. [Add site](http://www.thebestlinks.com/)
