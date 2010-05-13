@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the overallbeauty.com privacy policy that was archived on 2009-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091021044511id_/http%3A//www.overallbeauty.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overallbeauty.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514011325id_/http%3A//www.overallbeauty.com/catalog/privacy.php) for the most accurate reproduction.*
 
-# Magic Lash Eyelash Enhancer|Overall Beauty Minerals|BB Couture Nail Polish|Organic Nail Polish Remover
+# Privacy Notice : Overall Beauty
 
-OverallBeauty Privacy Policy  
-|   
-Kim Snyder - Owner |  Our mailing address is:  
+|  |   
+---  
+  
+Our mailing address is:  
 Overall Beauty  
 ATTN: Kim Snyder  
 5336 Blue Sapphire Ct  
 Elk Grove, CA 95758  
 Toll Free number: 888-422-2694  
-At OverallBeauty.com, our relationship with our customers is very important! We are respectful about the privacy concerns of the visitors to the site. OverallBeauty also recognizes the valuable potential of technology to help people communicate with the companies whose web sites they visit, particularly through customer databases.   
----|---  
-OverallBeauty.com is committed to providing our customers with a secure web site to shop and will only collect the personal information that is necessary to process your order. Our customers should feel assured that access to this information will be limited to the except as explained below, and otherwise will never be sold or given to any other company. 
+At OverallBeauty.com, our relationship with our customers is very important! We are respectful about the privacy concerns of the visitors to the site. OverallBeauty also recognizes the valuable potential of technology to help people communicate with the companies whose web sites they visit, particularly through customer databases. OverallBeauty.com is committed to providing our customers with a secure web site to shop and will only collect the personal information that is necessary to process your order. Our customers should feel assured that access to this information will be limited to the except as explained below, and otherwise will never be sold or given to any other company. 
 
 Our customers should feel confident that the personal information is transmitted over secure servers. This information is necessary to properly process your order. Our systems limit access to this information only to employees who may need it to process your order. To complete a credit card transaction, the pertinent credit card information is securely forwarded to our credit card processor for authorization. OverallBeauty.com guarantees that our customers will only pay for those items, which they have actually authorized. Please read the following information to learn more about how and why we collect information and how the information is safeguarded.
 
@@ -43,14 +42,22 @@ website, you waive the right to use state or federal court systems to address co
 Who Views Your Personal Information  
 OverallBeauty may only share your personal information with companies that perform services for us, such as fulfilling orders, delivering packages, sending postal mail and e-mails, processing credit card payments, investigating fraud. They have access to information needed to perform their functions, but may not disclose your personally identifiable information for other purposes.  
 OverallBeauty does not currently sell, rent or license personal information, that is not something we do here at OverallBeauty.com nor will we ever sell, rent, or share or otherwise give your information to a third party. We will never provide your personally identifiable information to third parties for their use in marketing their products or services to you without your consent.   
-We collect some anonymous information about how you use the site by setting and accessing cookies on your computer. These cookies track information such as how often you visit our web site, what pages you view, and where you go after you leave the site. They are not connected to any personal information about you. This information will be in the form of a "cookie" or similar file and will help us in many ways. For example, cookies allow us to tailor a web site or advertisement to better match your interests and preferences or make shopping and purchasing merchandise more convenient for you. 
+We collect some anonymous information about how you use the site by setting and accessing cookies on your computer. These cookies track information such as how often you visit our web site, what pages you view, and where you go after you leave the site. They are not connected to any personal information about you. This information will be in the form of a "cookie" or similar file and will help us in many ways. For example, cookies allow us to tailor a web site or advertisement to better match your interests and preferences or make shopping and purchasing merchandise more convenient for you.
 
 Third Party Advertisers  
 If you click on ads, banners or hyperlinks, information will be collected by those advertiser representing other products that OverallBeauty.com does not own or control.  
 ‘Cookies’ usually will be placed on your hard drive, OverallBeauty.com does not have control over what happens with that information nor take responsibility over the accuracy or content of advertisers.   
 With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions.  
-To protect our customers and our reputation, OverallBeauty.com is committed to providing a safe, comfortable online shopping environment. Our servers are secured and access to personal information is limited. OverallBeauty.com guarantees the safety of your information and will only charge you for purchases that are properly authorized. If you have any comments or concerns, you may either e-mail us at overallb@overallBeauty.com or call us toll-free at (888)422-2694, leave a messenge and someone will get back with you the next day.
+To protect our customers and our reputation, OverallBeauty.com is committed to providing a safe, comfortable online shopping environment. Our servers are secured and access to personal information is limited. OverallBeauty.com guarantees the safety of your information and will only charge you for purchases that are properly authorized. If you have any comments or concerns, you may either e-mail us at support@overallBeauty.com or call us toll-free at (888)422-2694, leave a messenge and someone will get back with you the next day.
 
 Questions about This Policy  
 We reserve the right to modify, revise, amend, or change this Privacy Policy, Terms of Use Policy, Purchase Agreement, or any other policy by simply making and reposting the policy. By revisiting this site after reposting, you accept the new policy.   
-If you have any questions about this Privacy Policy, or the content or practices of our website, you can contact OverallBeauty directly at: overallb@overallBeauty.com
+If you have any questions about this Privacy Policy, or the content or practices of our website, you can contact OverallBeauty directly at: support@overallBeauty.com  
+  
+|   
+---  
+  
+|   
+---  
+  
+0 items
