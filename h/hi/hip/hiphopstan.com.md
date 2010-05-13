@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiphopstan.com privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512235339id_/http%3A//hiphopstan.com/index.php%3Fmodule%3Dcontent%26idContent%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiphopstan.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513191855id_/http%3A//www.hiphopstan.com/index.php%3Fmodule%3Dcontent%26idContent%3D5) for the most accurate reproduction.*
 
 # HipHopStan.com
 
