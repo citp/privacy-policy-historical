@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the biz2credit.com privacy policy that was archived on 2009-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091211212935id_/http%3A//www.biz2credit.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the biz2credit.com privacy policy that was archived on 2010-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100513055254id_/http%3A//www.biz2credit.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Biz2Credit</title>
@@ -13,10 +13,14 @@
 	<link rel="shortcut icon" href="http://www.biz2credit.com/images/favicon.ico">
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link href="templates/biz2credit/css/template_css.css" rel="stylesheet" type="text/css">
+
+<link href="templates/biz2credit/css/mod_login.css" rel="stylesheet" type="text/css">
+
 <link href="templates/biz2credit/css/homenew.css" rel="stylesheet" type="text/css">
 <link href="scripts/dropdown/dropdown.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="scripts/jquery.js"></script>
 <script type="text/javascript" src="scripts/flash/flash.js"></script>
+
 <!--<link href="scripts/sifr/sIFR-screen.css" rel="stylesheet" type="text/css" media="screen" />
 <link href="scripts/sifr/sIFR-print.css" rel="stylesheet" type="text/css" media="print" />
 <script type="text/javascript" src="scripts/sifr/sifr.js"></script>
@@ -121,6 +125,13 @@
 </script>
 </head>
 <body>
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+
+
 <div id="page">
   <div id="page_inner">
     <div id="header">
@@ -132,18 +143,24 @@
                   </div>
         <div id="header_login">
           <div id="module_login">
-             
-<form action="index.php" method="post" name="login" style="height:80px;">
-<p>
+            		<script type="text/javascript" src="scripts/common.js"></script>
+			<form action="index.php" method="post" name="login" style="height:80px;">
+		<p>
 		User ID <input type="text" name="username" value="Your User ID" title="Enter your user ID" class="inputbox_login" onblur="if(this.value=='') this.value='Your User ID';" onfocus="if(this.value=='Your User ID') this.value='';">
-	</p>
-	<p>
-		Password <input type="Password" name="passwd" value="Password" title="Enter your password" class="inputbox_login" onblur="if(this.value=='') this.value='Password';" onfocus="if(this.value=='Password') this.value='';">
-	</p>
-	<div style="float:left;width:171px;"><img src="images/lock.gif"><a href="https://www.biz2credit.com/index.php?option=com_content&amp;task=view&amp;id=100&amp;Itemid=57" id="signup" rel="nofollow" title="Create a free account">
-		Create a free account
-	</a><a href="https://www.biz2credit.com/component/option,com_login/Itemid,51/lang,english/" class="forgotlink">Forgot User ID or password?</a></div>
-	&nbsp;&nbsp;<div style="float:right; margin-top: -8px;"><input type="Submit" value=" " title="Login you account" id="button_password_english" class="button_image"></div>
+		</p>
+		<p>
+		Password		<input type="Password" name="passwd" value="Password" title="Enter your password" class="inputbox_login" onblur="if(this.value=='') this.value='Password';" onfocus="if(this.value=='Password') this.value='';">
+		</p>
+		<div style="float:left;width:171px;">
+			<img src="images/lock.gif">
+				<a href="https://www.biz2credit.com/index.php?option=com_content&amp;task=view&amp;id=332&amp;Itemid=192" id="signup" rel="nofollow" title="Create a free account"> 	Create a free account </a>
+				<!--<a href="https://preprod.biz2credit.com/component/option,com_login/Itemid,51/lang,english/" class="forgotlink">Forgot User ID or password?</a>-->
+		</div>
+		
+		<div id="dropDown" style="float:left;width:171px;">
+			<a class="signin" href="#"><span>Forgot User ID</span></a> or <a class="signin2" href="#"><span>password?</span></a>
+		</div>
+		&nbsp;&nbsp;<div style="float:right; margin-top: -12px;"><input type="Submit" value=" " title="Login your account" id="button_password_english" class="button_image"></div>
 	<input type="hidden" name="option" value="login">
 	<input type="hidden" name="op2" value="login">
 	<input type="hidden" name="lang" value="english">
@@ -151,8 +168,108 @@
 	
 	<input type="hidden" name="message" value="0">
 	<input type="hidden" name="force_session" value="1">
-	<input type="hidden" name="j7159d5398af840a82a6913692123ef0b" value="1">
+	<input type="hidden" name="j3c7fe7dd926f252df01a61130d44f303" value="1">
+	
+	
 </form>
+
+
+	<script language="javascript" type="text/javascript">
+		function frmValidationEmail() {
+			
+			if(document.getElementById("email").value=="") {
+				alert("Please enter email");
+				document.getElementById("email").focus();
+				return false;
+			}
+			if ( checkEmail ( document.getElementById("email").value ) == false) {
+				document.getElementById("email").value = "";
+				document.getElementById("email").focus();
+				return false;
+			}
+		}
+		function checkEmail(emailID) {
+			
+			if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(emailID)){
+				return (true)
+			}
+			alert("Invalid e-mail address. please re-enter")
+			return (false)
+		}
+	</script>
+
+	<fieldset id="signin_menu">
+		<form action="index.php" method="post" name="FormEmail" onsubmit="return frmValidationEmail();">
+<!--<p style="padding:0px 0 0px 5px; background-color:SeaGreen; color:white; font-size:14px; font-style:normal">Lost your Username?</p>-->
+			
+			<p>
+				Please enter the email address you provided when creating your account.
+			</p>
+
+			<label>E-mail:</label>
+			<input type="text" name="email" id="email" class="inputboxForPass">
+			<input type="hidden" name="option" value="com_registration">
+			<input type="hidden" name="Itemid" value="51">
+			<input type="hidden" name="task" value="chkusername">
+			<input type="submit" value="Submit" class="submit-btn2">
+		</form>
+	</fieldset>
+	<script language="javascript" type="text/javascript">
+	function frmModuleValidationPass() {
+		
+		
+		if(document.getElementById("checkusername").value=="") {
+			alert("Please enter username");
+			document.getElementById("checkusername").focus();
+			return false;
+		}
+		if(document.getElementById("confirmEmail").value=="") {
+			alert("Please enter email");
+			document.getElementById("confirmEmail").focus();
+			return false;
+		}
+		if ( checkEmail ( document.getElementById("confirmEmail").value ) == false) {
+			document.getElementById("confirmEmail").value = "";
+			document.getElementById("confirmEmail").focus();
+			return false;
+		}
+		return true;
+	}
+	function checkEmail(emailID) {
+		if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(emailID)) {
+			return (true)
+		}
+		alert("Invalid e-mail address. please re-enter")
+		return (false)
+	}
+</script>
+	<fieldset id="signin_menu2">
+		<form action="index.php" method="post" name="FormPass" onsubmit="return frmModuleValidationPass();">
+		<!--<p style="padding:0px 0 0px 5px; background-color:SeaGreen; color:white">Lost Password?</p>-->
+			
+			<p>
+				&nbsp;
+			</p>
+				
+			<label>Username:</label>
+			<input name="checkusername" id="checkusername" type="text" class="inputboxForPass">
+			<label>E-mail:</label>
+			<input type="text" name="confirmEmail" id="confirmEmail" class="inputboxForPass">
+
+			<input type="hidden" name="option" value="com_registration">
+  			<input type="hidden" name="task" value="sendNewPass">
+  			
+			
+			<input type="hidden" name="j6cc33fc65ce73f16a65d5d098ce7f40b" value="1">
+				
+			<div align="right"><input type="submit" value="Submit" class="submit-btn"></div>
+<div style="font-size:0; overflow:hidden; clear:both;"></div>
+		</form>
+        </fieldset>
+		
+		
+	
+ 
           </div>
         </div>
         <div id="mainmenu">
@@ -161,7 +278,7 @@
 <li id="menu_get_loan" class="menu_1 menu_get_loan_english"><div><a href="http://www.biz2credit.com/get-a-loan.html" class="menu_link"><div><!--//--></div></a></div>
 <ul>
 <li><div><a href="http://www.biz2credit.com/get-a-loan/expand-my-business/business-line-of-credit.html">Expand My Business</a></div></li>
-<li><div><a href="http://www.biz2credit.com/get-a-loan/start-a-business/startup-business-loans.html">Start a Business</a></div></li>
+<li><div><a href="http://www.biz2credit.com/content/view/21/28/?lang=english">Start a Business</a></div></li>
 <li><div><a href="http://www.biz2credit.com/get-a-loan/refinance-my-debt/lower-business-loan-payments.html">Refinance My Debt</a></div></li>
 <li><div><a href="http://www.biz2credit.com/get-a-loan/buy-or-sell-a-business/small-business-valuation.html">Buy or Sell a Business</a></div></li>
 </ul></li>
@@ -179,7 +296,7 @@
 <li><div><a href="http://www.biz2credit.com/small-business-programs/small-business-tax-credits/">Small Business Program</a></div></li>
 <li><div><a href="http://www.biz2credit.com/blog/">Blog</a></div></li>
 <li><div><a href="http://www.biz2credit.com/expertadvice/">Expert Advice</a></div></li>
-<li><div><a href="http://www.biz2credit.com/value_my_business.html">Value my business</a></div></li>
+<li><div><a href="http://webservices.biz2credit.com/">Web Services</a></div></li>
 </ul></li>
 <li id="menu_help_center" class="menu_1 menu_help_center_english"><div><a href="http://www.biz2credit.com/help-center.html" class="menu_link"><div><!--//--></div></a></div></li>
 <li><div><a href="http://www.biz2credit.com/component/option,com_contact/Itemid,67/?lang=english" class="menu_link"><div><!--//--></div></a></div></li>
@@ -806,8 +923,8 @@ or
   <tr>
     <td><strong>Privacy Officer </strong><br>
       Biz2Credit, LLC<br>
-      155 E. 55th St., Suite 302A<br>
-      New York, NY 10022<br>
+      121 W. 27th St., Suite 404<br>
+      New York, NY 10001<br>
       <a href="mailto:privacy@biz2credit.com">privacy@biz2credit.com</a><br>
       © 
     2008 Biz2Credit. All rights reserved.</td>
@@ -858,10 +975,15 @@ or
     <div class="clear">
       <!--//-->
     </div>
-    <div style="text-align:right;">
+     <div style="text-align:right;height:15px;width:Auto;padding-right:115px;color:#909090;"><em>Follow us on</em></div>
+   <div style="text-align:right;">
+<!--position:relative;padding-top:10px;
+<span class="time_text" style="position:absolute;height:15px;right:115px;top:0px;display:block;width:100px;"></span>-->
+<a href="http://twitter.com/biz2credit" target="_blank">	
+<img src="images/twitter-icon.jpg" border="0" style="margin-right:30px;"></a>&nbsp;&nbsp;
     <img src="images/rapidssl_ssl_certificate.gif"><br>
      </div>
-  <div id="copyright"> <span style="float:left">Biz2Credit, LLC. 20 W. 22nd St., Suite 706, New York, NY 10010. Tel No: 212-644-4555</span><span>© Biz2Credit.com 2008-2009. All rights reserved.</span> | <a href="http://www.biz2credit.com/privacy-policy.html" class="copyright_link" title="Privacy" rel="nofollow">Privacy</a> | <a href="http://www.biz2credit.com/terms-of-use.html" class="copyright_link" title="Terms" rel="nofollow">Terms</a> | <a href="http://www.biz2credit.com/directory" class="copyright_link" title="directory" rel="nofollow">Directory</a> | <a href="http://www.biz2credit.com/component/option,com_easyfaq/Itemid,71/task,cat/catid,47/?lang=english" class="copyright_link" title="FAQ">FAQ</a> | <a href="http://www.biz2credit.com/sitemap.html" class="copyright_link" title="Sitemap" rel="nofollow">Sitemap</a> </div>
+  <div id="copyright"> <span style="float:left">Biz2Credit LLC, 121 W. 27th St., Suite 404, New York, NY 10001. Tel No: 212-644-4555</span><span>© Biz2Credit.com 2009-2010. All rights reserved.</span> | <a href="http://www.biz2credit.com/privacy-policy.html" class="copyright_link" title="Privacy" rel="nofollow">Privacy</a> | <a href="http://www.biz2credit.com/terms-of-use.html" class="copyright_link" title="Terms" rel="nofollow">Terms</a> | <a href="http://www.biz2credit.com/directory" class="copyright_link" title="directory" rel="nofollow">Directory</a> | <a href="http://www.biz2credit.com/component/option,com_easyfaq/Itemid,71/task,cat/catid,47/?lang=english" class="copyright_link" title="FAQ">FAQ</a> | <a href="http://www.biz2credit.com/sitemap.html" class="copyright_link" title="Sitemap" rel="nofollow">Sitemap</a> </div>
   </strong></strong></strong></div></div><strong><strong><strong>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -875,4 +997,18 @@ pageTracker._trackPageview();
 <script type="text/javascript" src="https://s3.amazonaws.com/new.cetrk.com/pages/scripts/0010/6196.js"> </script>
 
 
-<!-- 1260566975 --></strong></strong></strong></body></html>
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script type="text/javascript">
+if(document.location.protocol!='https:')
+  document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRb.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+if(typeof ClickTale=='function') ClickTale(38849,0.45,"www");
+</script>
+<!-- ClickTale end of Bottom part -->
+
+
+
+
+<!-- 1273729974 --></strong></strong></strong></body></html>
