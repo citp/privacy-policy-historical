@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estore.com.au privacy policy that was archived on 2009-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090402030914id_/http%3A//estore.com.au/Browse/fcc84204582f403095b66cdba7297630DataPage.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estore.com.au privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513150505id_/http%3A//www.estore.com.au/Privacy%25C2%25A0Policy.aspx) for the most accurate reproduction.*
 
 # eStore | Shop Around, Buy From Us!
 
