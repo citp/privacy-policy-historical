@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the scansoft.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111214316id_/http%3A//www.scansoft.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scansoft.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513064719id_/http%3A//www.scansoft.com/company/privacy) for the most accurate reproduction.*
 
 # Nuance - Company - Privacy Policy
+
+For country-specific privacy details, select a location below:  
+
 
 Nuance Communications, Inc. ("Nuance") is dedicated to making your online experience as interesting and enjoyable as possible. We truly appreciate your presence on our site and at all times understand that you are our guest and should be treated accordingly. To ensure this, we have listed the components of our Privacy Policy below.
 
