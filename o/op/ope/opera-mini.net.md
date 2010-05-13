@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opera-mini.net privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111183435id_/http%3A//www.opera.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opera-mini.net privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513230400id_/http%3A//www.opera.com/privacy) for the most accurate reproduction.*
 
 # Opera: Privacy Statement
 
@@ -14,6 +14,7 @@ For privacy policies and questions specifically related to the Opera Web browser
   * Privacy in the Opera Web browser
   * Privacy in Opera Link
   * Privacy in Opera Unite
+  * Privacy in Opera Turbo
   * Privacy in the Opera Mini browser
   * Privacy on the My Opera community
   * Privacy on Opera Mail
@@ -117,17 +118,23 @@ Top
 
 ### Privacy in the Opera Mini browser
 
-Opera Mini will keep a record of the user’s phone make and model for use with maintaining the history, cache, and cookies. The user’s phone number is not stored except where required by the operator. Make and model data may be used for the purposes of debugging, maintenance, optimization of the service, or maintaining the customer relationship. The history, cache, and cookie information can be removed using Tools > History > Clear from the menu in Opera Mini. Additionally, as authorized, we may also use personal data to send users information regarding update downloading, upgrades, enhancements, surveys, or advertisements about our products.
+Opera Mini will keep a record of the user’s phone make and model for use with maintaining the history, cache, and cookies. The user’s phone number is not stored except where required by the operator. Make and model data may be used for the purposes of debugging, maintenance, optimization of the service, or maintaining the customer relationship. The history, cache, and cookie information can be removed using _Tools > Settings > Privacy_ from the menu in Opera Mini. Additionally, as authorized, we may also use personal data to send users information regarding update downloading, upgrades, enhancements, surveys, or advertisements about our products.
 
 #### Opera Mini’s built-in Web search
 
 Opera Mini has a built-in, Web-search feature. This gives the user the option to utilize external Web search engines directly from the browser interface. Opera Mini relies on third parties for this service. Opera Mini sends the user’s search requests (in a specially designed URL string) directly to third-party Web sites that handle the actual search queries. What is sent to the third-party site is the special Opera Mini search string along with the text terms needed to perform the particular search query. No personal information is sent.
 
-When using the built-in, search-related features, Opera Mini will receive cookies, including third-party cookies, from third- party sites. These can be removed using _Tools > History > Clear_ from the menu in Opera Mini.
+When using the built-in, search-related features, Opera Mini will receive cookies, including third-party cookies, from third- party sites. These can be removed using _Tools > Settings > Privacy_ from the menu in Opera Mini.
 
 Some third-party sites may monitor data traffic from copies of the Opera Mini browser, such as numbers of hits and the search terms used. No personally identifiable information is made available to these services by the Opera Mini browser nor by Opera Software.
 
 Please note: Opera Software does not control the privacy and security practices and policies of these third parties and their sites. Check the particular site and/or business for more information. It is the responsibility of the browser user to use caution before sharing personal information via forms and other methods used by third parties and their Web sites.
+
+Top
+
+### Privacy in Opera Turbo
+
+When Opera Turbo is enabled, the service will compress network traffic, thereby increasing download speed and reducing data volume. The service requests normal Web content through an Opera Software proxy server. Opera Turbo will exclude Web pages located on an intranet or by using secure connections (HTTPS). Opera collects IP addresses, usage patterns, and the point in time at which the service is used for the purpose debugging, maintenance, optimization of the service, or maintaining the customer relationship. Analysis of service usage is conducted by aggregating data, anonymizing individual identities.
 
 Top
 
