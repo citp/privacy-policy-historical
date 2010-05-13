@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imercer.com privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112071853id_/http%3A//www.imercer.com/default.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imercer.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513203708id_/http%3A//www.imercer.com/default.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # iMercer.com
 
@@ -50,7 +50,7 @@ You may set your web browser to not accept cookies. If you do, you may still use
    
 Certain Web Sites require users to register with Mercer by supplying their names and other personal information in order to have access to specific Web Site features (“Registered Users”). All Registered Users receive a username and password. When you register on a Web Site, Mercer may use your data to provide you with information reports as well as information about goods and services offered by Mercer. Mercer may also use the information provided by Registered Users to perform statistical analyses on our clients and understand client demographics.   
    
-Occasionally, we may transfer to our global client contact database certain information about Registered Users , in which case it will be governed by Mercer’s Privacy Policy for [Mercer's Privacy Policy for Client and Other Professional Contact Data](https://web.archive.org/web/20091112071853id_/http%3A//www.imercer.com/default.aspx?page=home&contentId=1775&newRegionId=100).   
+Occasionally, we may transfer to our global client contact database certain information about Registered Users , in which case it will be governed by Mercer’s Privacy Policy for [Mercer's Privacy Policy for Client and Other Professional Contact Data](https://web.archive.org/web/20100513203708id_/http%3A//www.imercer.com/default.aspx?page=home&contentId=1775&newRegionId=100).   
    
 Information Related to Employment   
    
