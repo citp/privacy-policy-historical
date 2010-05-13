@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmgkb.org privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112224021id_/http%3A//www.pharmgkb.org/home/policies/website_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmgkb.org privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513211130id_/http%3A//www.pharmgkb.org/home/policies/website_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Website Privacy Policy [PharmGKB]
 
@@ -52,5 +52,3 @@ Upon request, PharmGKB will
 
 
 Please note that since PharmGKB accounts are tied to data submissions, users cannot cancel their accounts.
-
-The [PGRN](http://www.nigms.nih.gov/Initiatives/PGRN/) is financially supported by grants from [NIGMS](http://www.nigms.nih.gov/), [NHLBI](http://www.nhlbi.nih.gov/), [NHGRI](http://www.nhgri.nih.gov/), [NIEHS](http://www.niehs.nih.gov/), [NCI](http://www.nci.nih.gov/), and [NLM](http://www.nlm.nih.gov/) within the [NIH](http://www.nih.gov/), [HHS](http://www.os.dhhs.gov/). PharmGKB is managed at [Stanford University](http://www.stanford.edu/). This work is supported by the NIH/NIGMS Pharmacogenetics Research Network and Database (U01GM61374). ©2001-2009 PharmGKB. 
