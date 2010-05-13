@@ -1,41 +1,58 @@
-> *The following text is extracted and transformed from the shopping-cart-migration.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526183157id_/http%3A//www.magneticone.com/store/page_info.php%3Fpages_id%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopping-cart-migration.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513174835id_/http%3A//www.shopping-cart-migration.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy
 
-(last updated March 2009)
+December 22, 2009
 
-MagneticOne is committed to protecting your privacy.  
+MagneticOne, developer of Cart2Cart service, recognizes the importance of protecting the privacy of all information provided by users of our web service, subscribers to our newsletter and all of our customers. We created this policy with a fundamental respect for our users’ right for privacy and to guide our relationships with our users.
 
+## Collection and Use of Information
 
-## Collection of Your Personal Information
+When you sign up for Cart2Cart account we ask you for personal information such as your email, name and password. Also when you start migration procedure we ask you to upload "bridge" file for communication between Cart2Cart and your store. Optionally you can provide the direct database connection to speed up the process.
 
-At some MagneticOne sites, we ask you to provide personal information, such as your e-mail address, name, home or work address, or telephone number. We may also collect demographic information, such as your ZIP code, age, gender, preferences, interests and favorites. If you choose to make a purchase or sign up for a paid subscription service, we will ask for additional information, such as your credit card number and billing address, which is used to create a MagneticOne billing account.
+When you use Cart2Cart service, our server automatically records information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
 
-Additionally, we collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses.  
+## Information Security
 
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
 
-## Use of Your Personal Information
+We restrict access to personal information to MagneticOne employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to disciplinary action, including termination and criminal prosecution, if they fail to meet these obligations.
 
-MagneticOne collects and uses your personal information to operate and improve its sites and services.
+## Information Sharing
 
-We also use your personal information to communicate with you. We may send certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and security announcements.   
+**We do not share our customers information with third-parties to allow them to independently solicit you or your personal information for their products or services.**
 
+We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who migrated to a particular shopping cart or how many users clicked on a particular advertisement etc. Such information does not identify you individually. Although it could be used to optimize the service.
 
-## Cookies
+## Data Integrity
 
-MagneticOne utilizes cookies (small pieces of data stored by your Web browser on your hard drive) to offer you more personal and customized service. Most Web browsers accept cookies by default, but if you choose not to accept them, you can simply change your browser settings.  
+Cart2Cart processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process personal information needed to provide or improve our services. All processes that use your stores info are performed on highly secured dedicated servers. Only authorized staff have an access to monitor the migration process. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
 
+## Enforcement
 
-## Sharing of Your Personal Information
+Cart2Cart regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Cart2Cart's treatment of personal information by contacting us through contact[at]shopping-cart-migration.com.
 
-Except as described in this statement, we will not disclose your personal information outside of MagneticOne and its controlled subsidiaries and affiliates without your consent.  
+When we receive formal written complaints at this address, it is Cart2Cart's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities to resolve any complaints regarding the transfer of personal data that cannot be resolved between Cart2Cart and an individual.
 
+## Communications with Us
 
-## Changes to This Privacy Statement
+We have features where users can submit information to us (such as our contact form) and similar submissions will never be made public or made available to any 3rd party. Requests for service, support or information may be forwarded as needed to best respond to a specific request. We may retain e-mails and other information sent to us for our internal administrative purposes, and to help us to serve customers better.
 
-We will occasionally update this privacy statement to reflect changes in our services and customer feedback. When we post changes to this Statement, we will revise the "last updated" date at the top of this statement. If there are material changes to this statement or in how MagneticOne will use your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification. We encourage you to periodically review this statement to be informed of how MagneticOne is protecting your information.  
+## Notification of Changes
 
+If we change our privacy policy, we will post those changes on this page so our users are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. Users should check this policy frequently to keep abreast of any changes.
+
+## [Terms of Service](http://www.shopping-cart-migration.com/terms-of-service "Terms of Service")
+
+Please also visit our Terms of Service section establishing the use, disclaimers, and limitations of liability governing the use of our website
 
 ## Contacting Us
 
-MagneticOne welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us by using our Web form. If you have a technical or general support question, please visit http://support.magneticone.com to learn more about MagneticOne support resources.
+If there are any questions regarding this Privacy Policy you may contact us using the information below.
+
+**MagneticOne  
+Gayova 21  
+Ternopil, 46000  
+Ukraine  
+contact[at]magneticone.com  
++380 (0352) 523831**
