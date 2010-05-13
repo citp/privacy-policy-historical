@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the desiplaza.us privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625222747id_/http%3A//dallas.desiplaza.us/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D48%26Itemid%3D55) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiplaza.us privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514004751id_/http%3A//www.desiplaza.us/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D48%26Itemid%3D21) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##  Privacy Policy 
+[](http://www.addthis.com/bookmark.php?v=20)
 
-[](https://web.archive.org/index.php?view=article&catid=34%3Aadmin-content&id=48%3Aprivacy-policy&format=pdf&option=com_content&Itemid=55 "PDF")[](https://web.archive.org/index.php?view=article&catid=34%3Aadmin-content&id=48%3Aprivacy-policy&tmpl=component&print=1&layout=default&page=&option=com_content&Itemid=55 "Print")[](https://web.archive.org/index.php?option=com_mailto&tmpl=component&link=aHR0cDovL2RhbGxhcy5kZXNpcGxhemEudXMvaW5kZXgucGhwP29wdGlvbj1jb21fY29udGVudCZ2aWV3PWFydGljbGUmaWQ9NDg6cHJpdmFjeS1wb2xpY3kmY2F0aWQ9MzQ6YWRtaW4tY29udGVudCZJdGVtaWQ9NTU= "E-mail")
-
-Written by Administrator  Wednesday, 14 January 2009 23:10 
-
-We have established this privacy policy to explain to you how your information is protected, collected and used, which may be updated by us from time to time. We will provide notice of materially significant changes to this privacy policy by posting notice on the site. 
+We have established this privacy policy to explain to you how your information is protected, collected and used, which may be updated by us from time to time. We will provide notice of materially significant changes to this privacy policy by posting notice on the site.
 
 1\. Protecting your privacy : We don't share your information with third parties for marketing purposes. We don't engage in cross-marketing or link-referral programs with other site. Account information is password-protected. Keep your password safe.
 
@@ -23,3 +19,8 @@ Our web logs collect standard web log entries for each page served, including yo
 4\. Release Information : Circumstances in which we may release information, may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process.
 
 Site admin may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms of Use; respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety, its users or the general public.
+
+Written by : 
+
+|  [< Prev](https://web.archive.org/index.php?option=com_content&view=article&id=49:disclaimer&catid=34:admin-content&Itemid=20) |    |  [Next >](https://web.archive.org/index.php?option=com_content&view=article&id=47:community-ethics&catid=34:admin-content&Itemid=22)  
+---|---|---
