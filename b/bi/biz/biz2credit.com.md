@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biz2credit.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211212935id_/http%3A//www.biz2credit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biz2credit.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513055254id_/http%3A//www.biz2credit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Biz2Credit
 
@@ -126,8 +126,8 @@ If you have any questions about this Privacy Policy or our information-handling 
    
 **Privacy Officer**  
 Biz2Credit, LLC  
-155 E. 55th St., Suite 302A  
-New York, NY 10022  
+121 W. 27th St., Suite 404  
+New York, NY 10001  
 [privacy@biz2credit.com](mailto:privacy@biz2credit.com)  
 © 2008 Biz2Credit. All rights reserved.  
  
