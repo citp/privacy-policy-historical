@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the phonereport.info privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429032909id_/http%3A//the-blackberry-storm.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonereport.info privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513175250id_/http%3A//phonereport.info/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The BlackBerry Storm
+# Privacy Policy | PhoneReport v2.0
 
-**The BlackBerry Storm** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
+## Privacy Policy
+
+**PhoneReport** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
 ## Routine Information Collection
 
@@ -10,7 +12,7 @@ All web servers track basic information about their visitors. This information i
 
 ## Cookies and Web Beacons
 
-Where necessary, The BlackBerry Storm uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Where necessary, PhoneReport uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
