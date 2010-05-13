@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torridart.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224165931id_/http%3A//www.torridart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torridart.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513052824id_/http%3A//www.torridart.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,7 @@ Email addresses collected through the Newsletter signup forms on the site will n
 
 ##### Unsolicited contact
 
-TorridArt.com will not contact individuals unsolicited.
+TorridArt.com does not engage in unsolicited contact of members, site visitors or individuals.
 
 TorridArt.com will not contact members based solely on their membership status, past or present.
 
