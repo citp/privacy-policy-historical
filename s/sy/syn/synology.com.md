@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the synology.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527092329id_/http%3A//www.synology.com/enu/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synology.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513231531id_/http%3A//www.synology.com/us/privacy/index.php) for the most accurate reproduction.*
 
-# Synology Inc. - NEW NAS Experience -
+# Synology America Corp. - NEW NAS Experience -
 
 Synology Privacy Policy
 
@@ -60,7 +60,7 @@ Synology Inc. uses cookies on this Site to ensure the integrity of the registrat
 
 Enforcement of this Privacy Statement
 
-If you have questions regarding this statement, you should [contact](https://web.archive.org/web/20090527092329id_/http%3A//www.synology.com/enu/company/contact.php) Synology Inc. 
+If you have questions regarding this statement, you should [contact](https://web.archive.org/web/20100513231531id_/http%3A//www.synology.com/us/company/contact.php) Synology Inc. 
 
 Changes to this Statement
 
@@ -72,7 +72,7 @@ Synology Inc. welcomes your comments regarding this privacy statement. If you be
 
 Synology Inc.
 
-6F-2, No.106,  
+3F-3, No.106,  
 Chang An W. Rd.,  
 Taipei 103,   
 Taiwan
