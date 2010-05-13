@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesam.com privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004013253id_/http%3A//www.gamesam.com/index.php%3Fpageid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesam.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513185354id_/http%3A//www.gamesam.com/index.php%3Fpageid%3D2) for the most accurate reproduction.*
 
 # Privacy Policy // GamesAM.com
 
