@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the windows7hacker.com privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112124818id_/http%3A//www.windows7hacker.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows7hacker.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513071412id_/http%3A//www.windows7hacker.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Windows 7 hacker
+# Privacy Policy | Windows7hacker
 
 ## Privacy Policy
+
+Written by [Kent](http://www.windows7hacker.com/index.php/author/kent/ "Posts by Kent") on May 4th, 2009 | Posted in [General](http://www.windows7hacker.com/index.php/category/general/ "View all posts in General") | 
 
 Privacy Policy for windows7hacker.com
 
@@ -23,3 +25,7 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 Best Regards,
 
 Team in Windows7Hacker
+
+Daily Email Updates
+
+If you like this post, you may consider subscribing our daily email updates.
