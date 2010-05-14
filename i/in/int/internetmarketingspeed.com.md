@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the internetmarketingspeed.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126045736id_/http%3A//www.internetmarketingspeed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetmarketingspeed.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514021104id_/http%3A//www.internetmarketingspeed.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Internet Marketing Speed
 
 ## Privacy
 
-Privacy Policy
+[Privacy](http://www.internetmarketingspeed.com/privacy/ "Privacy") Policy
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. J-Six Solutions abides by the National Privacy Principles established under the Australian Privacy Amendment (Private Sector) Act, 2001.
 
