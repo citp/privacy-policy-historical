@@ -1,6 +1,24 @@
-> *The following text is extracted and transformed from the job-maldives.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628013233id_/http%3A//www.job-maldives.com/2008/10/job-maldives-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-maldives.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514080619id_/http%3A//www.job-maldives.com/2008/10/job-maldives-privacy-policy.html) for the most accurate reproduction.*
 
 # Job Maldives: Job Maldives Privacy Policy
+
+**_._**
+
+ ** _
+
+"Work joyfully and peacefully, knowing that right thoughts and right efforts will inevitably bring about right results."
+
+-James Allen-
+
+_**
+
+[ ](http://www.blogger.com/rearrange?blogID=4665003579075051486&widgetType=Text&widgetId=Text3&action=editWidget "Edit")
+
+###  [Job Maldives Privacy Policy](http://www.job-maldives.com/2008/10/job-maldives-privacy-policy.html)
+
+[
+
+](http://www.google.com/reader/link?url=http://www.job-maldives.com/2008/10/job-maldives-privacy-policy.html&title=Job%20Maldives%20Privacy%20Policy&srcTitle=Job%20Maldives)
 
 **Job Maldives Privacy Policy**
 
