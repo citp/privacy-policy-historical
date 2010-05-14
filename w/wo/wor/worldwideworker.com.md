@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldwideworker.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203135501id_/http%3A//www.worldwideworker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwideworker.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514201849id_/http%3A//www.worldwideworker.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Worldwideworker.com - The site for energy jobs
 
 **Privacy Statement**  
 This page contains the "The Privacy Statement" under which You may use Worldwideworker.com, an on-line service to post and search employment opportunities and user cv’s / resumes (“The Services”).   
