@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmsnmovies.com privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512234735id_/http%3A//www.filmsnmovies.com%3Ffeed%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmsnmovies.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514111628id_/http%3A//www.filmsnmovies.com%3Ffeed%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Plicy - Films N Movies
 
@@ -35,9 +35,15 @@ Some contests, sweepstakes and other promotions that will appear on the FILMSNMO
 
 **COOKIES**
 
- FILMSNMOVIES.COM places cookies on your computer to retain your individual preferences and improve your user experience on our website, as well as to tell us what features of our sites are most popular. We do not store any personal information in cookies, nor do we use cookies to obtain any personal information from you. 
+A cookie is a piece of data stored on a user's computer tied to information about the user. We may use either session ID cookies and/or persistent cookies. For the session ID cookie, once a user closes the browser, the cookie simply terminates. A persistent cookie is a small text file stored on a user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. By showing how and when you use the Web Site, cookies help us see which areas are popular and which are not and help in targeting advertisements based on your interests. Cookies also allow us to store the personal preferences that you set during each visit to our site, which in turn allows us to speed up your future activities at our site. 
 
- Affiliates and advertisers, product and service providers may also use their own cookies when you interact with their sites and you should be aware of this as you do so. 
+**THIRD PARTY ADVERTISING**
+
+We use third-party advertising companies to serve ads when you visit our Web site. Specifically, this site uses the services of a variety of advertisers, rep firms and networks, including but not limited to: MTVN, ValueClick, DoubleClick, Adfiy, AdGoto and/or other various independent advertisers and/or networks for serving and/or targeting of ads, promotions and other marketing messages when you visit our Web site. More particularly, the third-party advertising technology that we and our advertising partners use on this Web site uses information derived from your visits to this site to target advertising within this site. In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here http://www.networkadvertising.org/optout_nonppii.asp. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize certain of our our online advertising. Web beacons enable us to recognize a browser's cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising. To "opt-out," of the use of such Web beacons used by ad providers utilizing Doubleclick/Boomerang, please click here. http://www.doubleclick.com/privacy/index.aspx.
+
+**LOG FILES**
+
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, and report aggregate information to our advertisers, our corporate affiliates or consultants, or with third parties that perform a particular service on our behalf. IP addresses, etc. are not linked to personally identifiable information, nor do we compile session activity reports by IP address.
 
 **NOTICE REGARDING CHILDREN**
 
