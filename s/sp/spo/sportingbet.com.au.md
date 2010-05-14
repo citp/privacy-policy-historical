@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportingbet.com.au privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113163240id_/http%3A//www.sportingbet.com.au/uipub/content.aspx%3Fpid%3Dpriv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingbet.com.au privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514112958id_/http%3A//www.sportingbet.com.au/uipub/content.aspx%3Fpid%3Dpriv) for the most accurate reproduction.*
 
 # Sportingbet Australia
 
