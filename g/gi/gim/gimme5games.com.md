@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gimme5games.com privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112042119id_/http%3A//www.gimme5games.com/index.jsp%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gimme5games.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514085048id_/http%3A//www.gimme5games.com/index.jsp%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # Gimme5games - Free and Premium Flash Games
 
 **ZATTIKKA LIMITED PRIVACY STATEMENT INFORMATION COLLECTION**
 
-Any information collected by Zattikka Ltd will be used only by Zattikka Ltd to improve our products, services, and our website. Zattikka Ltd also may direct website visitors to websites operated by third parties, though Zattikka Ltd does not guarantee the security of any personal information disclosed on those sites. Zattikka Ltd may occasionally ask you to provide us with information such as your name, email address, or your interests. Of course, you never have to answer any of these questions, but that may limit what services we can offer you. If you do not enter this information when required then you may not be able to enter contests, download demos, or receive prizes from Eidos.   
+Any information collected by Zattikka Ltd will be used only by Zattikka Ltd to improve our products, services, and our website. Zattikka Ltd also may direct website visitors to websites operated by third parties, though Zattikka Ltd does not guarantee the security of any personal information disclosed on those sites. Zattikka Ltd may occasionally ask you to provide us with information such as your name, email address, or your interests. Of course, you never have to answer any of these questions, but that may limit what services we can offer you. If you do not enter this information when required then you may not be able to enter contests, download demos, or receive prizes from Zattikka.   
 **  
 REGISTRATION FORMS:**
 
