@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowepro.com privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403074324id_/http%3A//www.lowepro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowepro.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514050734id_/http%3A//www.lowepro.com/privacy-policy) for the most accurate reproduction.*
 
 # Lowepro | Privacy Policy
 
