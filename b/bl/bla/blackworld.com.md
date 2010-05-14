@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blackworld.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105120339id_/http%3A//www.blackworld.com/policystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackworld.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514162004id_/http%3A//www.blackworld.com/policystatement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
-| 
+[](http://www.blackworld.com/) | 
 
 **Privacy Statement for Blackworld™**  
   
@@ -12,11 +12,11 @@
 
 ####  Information Automatically Logged 
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to help identify you and your shopping cart, and to gather broad demographic information. __
+We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to help identify you and your shopping cart, and to gather broad demographic information. 
 
 ####  Cookies 
 
-Our Site uses cookies to deliver content specific to your interests. We also use cookies for other purposes. __
+Our Site uses cookies to deliver content specific to your interests. We also use cookies for other purposes. 
 
 ####  Advertisers 
 
@@ -28,7 +28,7 @@ Our site's registration form requires users to give us contact information (like
 
 Contact information from the registration forms is used to ship purchases, information about our company. The customer's contact information is also used to send promotional material from some of our partners to our customers, and to get in touch with the customer when necessary. 
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. __
+Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
 Demographic and profile data is also collected at our site.   
 This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
@@ -76,7 +76,7 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 
 This site gives users the following options for changing and modifying information previously provided: 
 
-  1. You can send email to [ ](mailto:dir@blackworld.com)[info@blackworld.com ](mailto:info@blackworld.com)
+  1. You can send email to [info@blackworld.com ](mailto:info@blackworld.com)
 
 
 
@@ -85,9 +85,9 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 
 
-[ ](mailto:dir@blackworld.com)[info@blackworld.com ](mailto:info@blackworld.com)   
+[info@blackworld.com ](mailto:info@blackworld.com)   
 
 
 * * *
 
-Copyright 1996-2004.Blackworld **™** All Rights Reserved 
+Copyright 1996-2010.Blackworld **™** All Rights Reserved 
