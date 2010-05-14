@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skdtac.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111164520id_/http%3A//www.skdtac.com/skd_tactical_terms_a/147.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skdtac.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514023558id_/http%3A//www.skdtac.com/skd_tactical_terms_a/147.htm) for the most accurate reproduction.*
 
-# Slings, Chest Rigs, Plate Carrier, Pouches ::SKD TACTICAL:: MultiCam Gear, BDU, AR15 Accessories
+# AR15/M4 Parts, Chest Rigs, Plate Carrier, Pouches ::SKD TACTICAL:: MultiCam Gear, BDU, Slings
 
 | 
 
@@ -77,7 +77,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20091111164520id_/http%3A//www.skdtac.com/skd_tactical_terms_a/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20100514023558id_/http%3A//www.skdtac.com/skd_tactical_terms_a/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
@@ -182,4 +182,4 @@ Zero tolerance](https://web.archive.org/zero_tolerance_s/431.htm)
 
   
    
- |  | 
+ |  | [ **SKD Tactical** is _UpFront_](http://www.thefind.com/whats-upfront "TheFind Upfront")
