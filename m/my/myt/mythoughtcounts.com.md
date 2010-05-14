@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mythoughtcounts.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231211136id_/http%3A//mythoughtcounts.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mythoughtcounts.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514095028id_/http%3A//www.mythoughtcounts.com/privacy.htm) for the most accurate reproduction.*
 
 # MyThoughtCounts: Share your opinion to win great prizes!
 
