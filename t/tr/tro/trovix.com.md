@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trovix.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426231839id_/http%3A//www.trovix.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trovix.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514202521id_/http%3A//www.trovix.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # Trovix - Privacy Policy
 
@@ -29,7 +29,7 @@ If you choose to post or publish information or send information to third partie
 As a rule, we will not give away information or documents or browsing history that personally identify you, except when we have your permission. However, in some situations we may need to disclose information to third parties:
 
   1. 1\. If required by law, or to comply with subpoenas or court orders, or to defend against legal claims, or to exercise or establish our legal rights;
-  2. 2\. If we believe it is necessary to protect our users against illegal activities or suspected fraud, or to prevent such activities, in situations involving potential threats to the physical safety of a person, or in cases involving violations of Trovix’s [Terms of Use](https://web.archive.org/web/20090426231839id_/http%3A//www.trovix.com/about/terms.jsp);
+  2. 2\. If we believe it is necessary to protect our users against illegal activities or suspected fraud, or to prevent such activities, in situations involving potential threats to the physical safety of a person, or in cases involving violations of Trovix’s [Terms of Use](https://web.archive.org/web/20100514202521id_/http%3A//www.trovix.com/about/terms.jsp);
   3. 3\. As stated on the Trovix site when the information was collected.
   4. 4\. Trovix may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. Trovix will notify you before transferring your information to a new entity as part of a merger, acquisition, reorganization or sale of some or all of its assets if the new entity's processing of your information will materially differ from that set forth in this Privacy Policy.
 
@@ -61,7 +61,7 @@ The Trovix site uses security systems including firewalls and is hosted in a sec
 
 **Notification of changes**
 
-Trovix may need to update this Privacy Policy from time to time. If so, we will post the updated Privacy Policy on our website located at [trovix.com](https://web.archive.org/web/20090426231839id_/http%3A//www.trovix.com/about/privacy.jsp). We may send you an email so that you are aware of updates of the policy. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of this site will be subject to the then-current Privacy Policy.
+Trovix may need to update this Privacy Policy from time to time. If so, we will post the updated Privacy Policy on our website located at [trovix.com](https://web.archive.org/web/20100514202521id_/http%3A//www.trovix.com/about/privacy.jsp). We may send you an email so that you are aware of updates of the policy. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of this site will be subject to the then-current Privacy Policy.
 
 **Questions and comments**
 
