@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectioncafe.com privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112154101id_/http%3A//www.convio.com/convio/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectioncafe.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514114333id_/http%3A//www.convio.com/convio/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # Policies | Convio
 
