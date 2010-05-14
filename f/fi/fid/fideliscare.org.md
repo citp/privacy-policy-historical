@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fideliscare.org privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112154503id_/http%3A//www.fideliscare.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fideliscare.org privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514214226id_/http%3A//fideliscare.org/privacy.aspx) for the most accurate reproduction.*
 
 # Welcome to FidelisCare.org!
 
@@ -10,6 +10,8 @@ FIDELIS CARE NEW YORK**
 **_THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY_**.
 
 In order to provide you with the benefits to which you are entitled, Fidelis must collect, create and maintain health information about you. Fidelis is required by law to maintain the privacy of this information. This Notice of Privacy Practices describes how Fidelis uses and discloses your health information, and explains certain rights you have regarding this information. Fidelis is required by law to provide you with this Notice and we will comply with its terms during the period when it is effective.
+
+**How Fidelis Uses and Discloses Your Health Information**
 
 The following is a list of the ways in which Fidelis may use and disclose your health information. We will use and disclose your health information only for one of the purposes on this list. In certain cases we provide examples of the types of uses or disclosures that fall within a particular category. These examples are intended to help you understand what these categories mean; they do not cover every type of use or disclosure within each category. Please note that, as discussed later in this Notice of Privacy Practices, special rules apply to our disclosure of certain alcohol and drug abuse treatment records.
 
@@ -56,6 +58,8 @@ m. _To individuals involved in your care_. We may disclose your health informati
 
 
 
+**Your Rights Regarding Your Health Information**
+
 You have the following rights regarding your health information:
 
   1. _Right to Inspect and Copy_. You have the right to inspect or request a copy of health information about you that we maintain and that we may use in making decisions about your benefits. Your request should describe the information you want to review and the format in which you want to review it; for example, whether you want to inspect your records at our offices, receive paper copies or get the information on a computer diskette. We may refuse to allow you to inspect or obtain copies of this information in certain limited cases. We may charge you a reasonable fee for copies to cover our costs. You may ask to inspect or obtain copies of your information by writing to Robert Pigott, Chief Privacy Officer, Fidelis Legal Affairs Department, 95-25 Queens Blvd, 8th Floor, Rego Park, NY 11374.
@@ -67,22 +71,22 @@ You have the following rights regarding your health information:
 
 
 
+**Sites that are not Maintained by Fidelis**
+
+You should be aware that when you are on our website, you could be directed to other sites that are beyond our control.  There may also be links to other sites from the website that take you outside our service.  Since we do not maintain those sites, we take no responsibility and assume no liability for the privacy policies and practices of any sites outside of our control.  Please review the privacy policies and practices of those sites to learn how other entities may store and use your information.
+
+**Complaints**
+
 If you believe your privacy rights have been violated, you may file a complaint with Fidelis or the Secretary of the U.S. Department of Health and Human Services. You may file a complaint with Fidelis by writing to Robert Pigott, Chief Privacy Officer, Fidelis Legal Affairs Department, 95-25 Queens Blvd, 8th Floor, Rego Park, NY 11374. You will not be penalized or retaliated against by Fidelis for filing a complaint.
+
+**Changes to this Notice**
 
 Fidelis may change the terms of this Notice of Privacy Practices at any time. If we change the terms of this Notice, the new terms will apply to all of your health information, whether created or received by Fidelis before or after the date on which the Notice is changed. We will notify you of changes to this Notice by mailing you a copy of the new Notice within 60 days of the date on which it becomes effective.
 
+**Additional Information**
+
 If you have any questions or would like additional information about this Notice or Fidelis' privacy practices, please contact Robert Pigott, Chief Privacy Officer, Fidelis Legal Affairs Department, 95-25 Queens Blvd, 8th Floor, Rego Park, NY 11374.
 
+**Effective Date**  
+
 This Notice of Privacy Practices is effective as of April 14, 2003.
-
-Effective Date
-
-Additional Information
-
-Changes to this Notice
-
-Complaints
-
-Your Rights Regarding Your Health Information
-
-How Fidelis Uses and Discloses Your Health Information
