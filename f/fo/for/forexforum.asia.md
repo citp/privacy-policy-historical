@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forexforum.asia privacy policy that was archived on 2009-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090911150709id_/http%3A//www.forexforum.asia/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexforum.asia privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514160701id_/http%3A//www.forexforum.asia/privacy-policy.html) for the most accurate reproduction.*
 
-# Forex (FX) Forum .Asia | Currency Trading | The Social Network for Forex Traders - Privacy Policy
+# Forex (FX) Forum .Asia | Currency Trading | Forex Traders - Privacy Policy
 
 #### **Privacy Statement**
 
