@@ -1,0 +1,244 @@
+<!--The following is the downloaded HTML source of the slothster.com privacy policy that was archived on 2010-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100514210212id_/http%3A//www.slothster.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=7">
+	<title>Slothster - Funny Pictures, Funny Videos, Fun Games, ALL FREE!</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<link rel="stylesheet" type="text/css" href="./theme/Smarty/Slothster/main.css">	
+	<!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" href="./theme/Smarty/Slothster/ie7.css" />
+	<![endif]-->
+	
+	<script type="text/javascript" src="./ajaxtabs/ajaxtabs.js"></script>
+			<link rel="alternate" type="application/rss+xml" title="Slothster" href="./rss.php">
+		<script type="text/javascript"><!--//--><![CDATA[//><!--
+		function amAddReview(element, info) {
+			new Ajax.Request('./includes/rategame.php?gamekey=', {evalScripts:true, method:'get', identity: '', parameters: info});
+			return false;
+		}		
+	//--><!]]></script>
+	<script type="text/javascript"><!--//--><![CDATA[//><!--
+		function fullScreen() {
+			var myWidth = 0, myHeight = 0;
+			if( typeof( window.innerWidth ) == 'number' ) {
+			    myWidth = window.innerWidth;
+			    myHeight = window.innerHeight;
+			} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+			    myWidth = document.documentElement.clientWidth;
+			    myHeight = document.documentElement.clientHeight;
+			} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+				myWidth = document.body.clientWidth;
+				myHeight = document.body.clientHeight;
+			}
+			var url="./playgame.php?getgame=&width=" + myWidth + "&height=" + myHeight;
+			self.location.href=url
+		}
+	//--><!]]></script>
+	<!-- End 2.7 Specific Code -->
+<!-- Submit Review Ajax -->
+<script type="text/javascript">
+
+var time_variable;
+
+function getXMLObject()  //XML OBJECT
+{
+   var xmlHttp = false;
+   try {
+     xmlHttp = new ActiveXObject("Msxml2.XMLHTTP")  // For Old Microsoft Browsers
+   }
+   catch (e) {
+     try {
+       xmlHttp = new ActiveXObject("Microsoft.XMLHTTP")  // For Microsoft IE 6.0+
+     }
+     catch (e2) {
+       xmlHttp = false   // No Browser accepts the XMLHTTP Object then false
+     }
+   }
+   if (!xmlHttp && typeof XMLHttpRequest != 'undefined') {
+     xmlHttp = new XMLHttpRequest();        //For Mozilla, Opera Browsers
+   }
+   return xmlHttp;  // Mandatory Statement returning the ajax object created
+}
+
+var xmlhttp = new getXMLObject();   //xmlhttp holds the ajax object
+
+function ajaxFunction() {
+  var getdate = new Date();  //Used to prevent caching during ajax call
+  if(xmlhttp) { 
+     var userkey = document.getElementById("userkey");
+   var yourname = document.getElementById("yourname");
+   var yourreview = document.getElementById("yourreview");
+   var gameid = document.getElementById("gameid");
+    xmlhttp.open("POST","addreview.php",true); //calling addreview.php using POST method
+    xmlhttp.onreadystatechange  = handleServerResponse;
+    xmlhttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+    xmlhttp.send("userkey=" + userkey.value + "&yourname=" + yourname.value + "&yourreview=" + yourreview.value + "&gameid=" + gameid.value); //Posting fields to PHP File
+  }
+}
+
+function handleServerResponse() {
+   if (xmlhttp.readyState == 4) {
+     if(xmlhttp.status == 200) {
+       document.getElementById("message").innerHTML=xmlhttp.responseText; //Update the HTML Form element 
+     }
+     else {
+        alert("Error during AJAX call. Please try again");
+     }
+   }
+}
+</script>
+
+<!-- Submit Review Ajax -->
+
+</head><body><br>
+
+<div class="wrapper">
+	<div class="main">
+	<div class="container">
+
+		<div class="header"><span style="float:left"><a href="/"><img src="./theme/Smarty/Slothster/images/header.jpg"></a></span>
+		<span style="float:right">
+		<script type="text/javascript"><!--
+google_ad_client = "pub-4750025694094203";
+/* Slothster Top */
+google_ad_slot = "2248679941";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></span>
+		</div>
+<br><div class="firefoxhack">
+<div class="leftside">
+<div class="sidebarback1"><h2>Slothster Login</h2>
+<center><br>
+<font size="2">Already a Slothster?<br>Login below!</font><br><br> 
+<form action="index.php?loadpage=./includes/loginsubmit.php" method="post" style="margin-bottom:0;">
+<input type="hidden" name="asfsagrg4" value="d76fghhjda">
+Username: <input type="text" name="name" id="name" class="textfield"><br>
+Password: <input type="password" name="pass" id="pass" class="textfield"><br><br>
+<input type="submit" id="submit" value="Login" class="button"><br><br>
+<a href="./index.php?loadpage=./includes/forgotpassword.php">Forgot Your Password?</a>
+<br><br><font size="2">Not a Slothster yet?</font><br><br><a href="./index.php?loadpage=./includes/register.php">Click Here To Register &amp;<br>Become A Slothster Today!</a></form> </center></div>  
+
+<div class="sidebarback2"><h2>Move Around The Site</h2>
+<center><font size="2"><br>
+<a href="/">Slothster Home</a><br><a href="coming.php">Slothster Pictures</a><br><a href="coming.php">Slothster Contests</a><br><a href="coming.php">The Voting Booth</a><br><a href="coming.php">Random Ramblings</a><br><a href="list.php">Games And Videos List</a><br><a href="memberslist.php">Slothster Member List</a><br><a href="points.php">Explanation Of Points</a><br><a href="faq.php">The Slothster FAQ</a><br><a href="tos.php">Terms Of Service</a><br><a href="privacy.php">Privacy Policy</a><br><a href="contact.php">Contact Me</a><br><a href="coming.php">Submit Your Content</a><br><a href="dmca.php">DMCA / Content Removal</a><br></font></center></div>
+
+<div class="sidebarback3"><h2>Bookmark &amp; Share</h2>
+<center><br>
+Bookmark this page!<br>Share it with the world!<br><br>
+<!-- AddThis Button BEGIN -->
+<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4b71cf7124e14b0e"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4b71cf7124e14b0e"></script>
+<!-- AddThis Button END --></center></div>
+
+<div class="sidebarback4"><h2>Hottest 10 Games/Videos</h2>
+<center><font size="2"><br>
+<a href="82-Hangaroo.html">Hangaroo</a><br><a href="108-There039s-Two-Wires.html">There's Two Wires</a><br><a href="63-Lightspeed.html">Lightspeed</a><br><a href="20-Boxhead-More-Rooms.html">Boxhead More Rooms</a><br><a href="44-Shopping-Cart-Tossers.html">Shopping Cart Tossers</a><br><a href="3-Battleships.html">Battleships</a><br><a href="83-MotoRush-2.html">MotoRush 2</a><br><a href="92-Salvo---Holiday-Edition.html">Salvo - Holiday Edition</a><br><a href="37-UFO-Racing.html">UFO Racing</a><br><a href="79-Pinguin-Darts.html">Pinguin Darts</a><br></font></center></div>
+
+<div class="sidebarback4"><h2>Last 10 Games/Videos Added</h2>
+<center><font size="2"><br>
+<a href="158-Gibbets-2.html">Gibbets 2</a><br><a href="157-Sonny-2.html">Sonny 2</a><br><a href="156-Necronomicon.html">Necronomicon</a><br><a href="155-King-Of-Drift.html">King Of Drift</a><br><a href="154-Ultimate-Chess.html">Ultimate Chess</a><br><a href="153-Neon-Rider.html">Neon Rider</a><br><a href="152-Excitebike.html">Excitebike</a><br><a href="151-Cursed-Treasure.html">Cursed Treasure</a><br><a href="150-Barnville-Massacre.html">Barnville Massacre</a><br><a href="149-Raze.html">Raze</a><br></font></center></div>
+
+<div class="sidebarback5"><h2>Current Site Stats</h2>
+<center><font size="2"><br>
+Current Online Visitors:<br>4 <br>Total Number Of Slothsters:<br>4<br>Welcome Newest Slothster:<br><a href="index.php?loadpage=./includes/profile.php&amp;view=true&amp;userkey=4">boomer56</a><br></font></center></div></div>
+<div class="rightside">
+<br>
+
+         <div class="block">
+            
+            <div class="contact">
+<center><p><font size="2"><strong>What information do you collect?</strong><br>
+I collect information from you when you register on our site, respond to a survey<br>or fill out a form.<br><br>
+When ordering or registering on my site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit my site anonymously.<br><br>
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to users based on their visit to my site and other sites<br>
+on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad<br>
+and content network privacy policy located at <a href="http://www.google.com/privacy_ads.html" target="_blank">http://www.google.com/privacy_ads.html</a>.<br><br>
+<strong>What do you use my information for?</strong><br>Any of the information I collect from you may be used in one of the following ways: <br><br>
+* To personalize your experience *<br>Your information helps me to better respond to your individual needs<br><br>
+* To improve my website *<br>I continually strive to improve my website offerings based on the information and<br>
+feedback I receive from you<br><br>
+* To improve customer service *<br>Your information helps me to more effectively respond to your customer service<br>
+requests and support needs<br><br>
+* To process transactions *<br>Your information, whether public or private, will not be sold, exchanged, transferred,<br>
+or given to any other company for any reason whatsoever, without your consent, other<br>than for the express purpose of delivering the purchased product or service requested.<br><br>
+* To administer a contest, promotion, survey or other site feature *<br><br>
+<strong>Do you use cookies?</strong><br>Yes I use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that<br>
+I can offer better site experiences and tools in the future.<br><br>
+<strong>Do you disclose any information to outside parties?</strong><br>I will not sell, trade, or otherwise transfer to outside parties your personally identifiable information. I may however release your information when I believe release is appropriate<br>
+to comply with the law, enforce my site policies, or protect my or others rights, property,<br>
+or safety.<br><br>
+<strong>Third party links</strong><br>Occasionally, at my discretion, I may include or offer third party products or services on my website. These third party sites have separate and independent privacy policies. I therefore have no responsibility or liability for the content and activities of these linked sites.<br>
+Nonetheless, I seek to protect the integrity of my site and welcome any feedback<br>
+about these sites.<br><br>
+<strong>California Online Privacy Protection Act Compliance</strong><br>Because I value your privacy I have taken the necessary precautions to be in compliance<br>
+with the California Online Privacy Protection Act. I therefore will not distribute your personal information to outside parties without your consent.<br><br>
+As part of the California Online Privacy Protection Act, all users of my site may make any changes to their information at anytime by logging into their account and going to the 'View/Edit Profile' page.<br><br>
+<strong>Childrens Online Privacy Protection Act Compliance</strong><br>I am in compliance with the requirements of COPPA (Childrens Online Privacy Protection<br>
+Act), as I do not collect any information from anyone under 13 years of age. My website, products and services are all directed to people who are at least 13 years old or older.<br><br>
+<strong>Terms and Conditions</strong><br>Please also visit my Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of my website at <a href="http://www.slothster.com/tos.php">http://www.slothster.com/tos.php</a><br><br>
+<strong>Your Consent</strong><br>By using my site, you consent to this privacy policy.<br><br>
+<strong>Changes to my Privacy Policy</strong><br>If I decide to change my privacy policy, I will post those changes on this page, and/or<br>
+update the Privacy Policy modification date below.<br><br>
+This policy was last modified on May 1st 2010<br>
+            </font></p></center></div>
+            
+</div> <!-- End block class div -->
+   </div>
+</div>
+<div class="adside">
+	
+<div class="sidebarback6"><h2>Slothster News And Updates</h2>
+<br>
+<center>
+<marquee bgcolor="#000" scrollamount="2" direction="up" loop="true" style="height:140px; width:177px; overflow:hidden; border:none 0px solid;> 
+<font color=" #ffffff"=""><strong><center>May 8th 2010<br>Register and start earning points today! Points will be used in the near future towards contests, and only members can earn points and qualify! Also, help Slothster become the next 'big thing' by bookmarking, linking to, and sharing the site!<br>D.S. (the Head Slothster)<br><br>May 5th 2010<br>Games and videos are currently being added, and there will a lot of content added throughout the next couple weeks, so keep checking back to see all the great new things!<br>D.S. (the Head Slothster)<br><br>May 1st 2010<br>Slothster.com opens to the public though it is still in beta phase. Any problems you experience please use the 'Contact Me' link on the left side of the page to report them. Enjoy the site!<br>D.S. (the Head Slothster)
+</center></strong></marquee></center></div>
+
+<div class="sidebarback7"><h2>Top 10 Slothsters</h2>
+<center><font size="2"><br>
+<a href="index.php?loadpage=./includes/profile.php&amp;view=true&amp;userkey=4">boomer56</a><br>4 Points<br><a href="index.php?loadpage=./includes/profile.php&amp;view=true&amp;userkey=1">D.S. The Head Slothster</a><br>0 Points<br><a href="index.php?loadpage=./includes/profile.php&amp;view=true&amp;userkey=2">psankalana</a><br>0 Points<br><a href="index.php?loadpage=./includes/profile.php&amp;view=true&amp;userkey=3">masterslothster</a><br>0 Points<br></font></center></div>
+
+<div class="sidebarback8"><h2>Search The Site</h2>
+<br>
+<div align="center">
+Looking for something?<br>Search for it below!<br><br>
+<form action="index.php" name="searchbox" id="searchbox" method="get" style="margin-bottom:0;">
+<input type="hidden" name="loadpage" value="./includes/search.php">
+<input type="text" name="searchstring" size="14">
+<input type="submit" value="Go">
+</form>
+</div></div>
+
+<div class="sidebarback9">
+<br><center>
+<script type="text/javascript"><!--
+google_ad_client = "pub-4750025694094203";
+/* Slothster Right Side */
+google_ad_slot = "1587434217";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></center></div></div>   
+<div class="footer">
+<div class="footertext">
+			Slothster Copyright © 2010 All Rights Reserved
+			<br>
+			All content copyright © of respective author(s)/owner(s)
+			<br>
+			Is your copyrighted content on here and you want it removed? <a href="/dmca.php">DMCA / Content Removal</a></div>			
+		</div>
+	</div>
+	</div>
+</div>
+
+<br>
+</body></html>
