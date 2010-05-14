@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the islandnet.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218183057id_/http%3A//helpdesk.islandnet.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandnet.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514170748id_/https%3A//helpdesk.islandnet.com/help/privacy.php) for the most accurate reproduction.*
 
 # Islandnet.com :: Privacy
 
-[Return to the help index](https://web.archive.org/web/20081218183057id_/http%3A//helpdesk.islandnet.com/help/index.php)
+[Return to the help index](https://web.archive.org/web/20100514170748id_/https%3A//helpdesk.islandnet.com/help/index.php)
 
 **Last updated June 07 2008 at 12:06 pm**
 
