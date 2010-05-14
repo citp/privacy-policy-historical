@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cotweet.com privacy policy that was archived on 2009-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090715234553id_/http%3A//cotweet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cotweet.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514092504id_/http%3A//cotweet.com/privacy) for the most accurate reproduction.*
 
-# CoTweet™ - How business does Twitter
+# CoTweet® - How business does Twitter
 
 ### CoTweet Privacy Policy
 
@@ -38,4 +38,4 @@ CoTweet may periodically update this policy. We will notify you about significan
 
 #### Questions
 
-Any questions about this Privacy Policy should be addressed to support at cotweet.com or by mail at: CoTweet, 260 Maple Ave., Hershey, PA, 17033 USA
+Any questions about this Privacy Policy should be addressed to support at cotweet.com or by mail at: CoTweet, Inc. Pier 38 - Suite 225, San Francisco CA 94107 USA
