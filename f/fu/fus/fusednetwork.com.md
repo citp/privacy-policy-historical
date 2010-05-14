@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fusednetwork.com privacy policy that was archived on 2009-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090325182854id_/http%3A//www.fusednetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusednetwork.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514110029id_/http%3A//www.fusednetwork.com/privacy.php) for the most accurate reproduction.*
 
 # Fused Network - Privacy Policy
 
