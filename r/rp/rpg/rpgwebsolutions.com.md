@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rpgwebsolutions.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227055643id_/http%3A//rpgwebsolutions.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgwebsolutions.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514023747id_/http%3A//rpgwebsolutions.com/privacy_policy.html) for the most accurate reproduction.*
 
 # SEO Ranking, SEO Ranking India, Website Designing India, Website Development Company India, Website Development India, Web Site Designing Company
 
@@ -28,4 +28,4 @@ The personal information which we hold will be held securely in accordance with 
 
 We may use technology to track the patterns of behavior of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. 
 
-If you have any questions or concerns about privacy, then please [Contact Us](https://web.archive.org/web/20090227055643id_/http%3A//rpgwebsolutions.com/contact.html) for more details 
+If you have any questions or concerns about privacy, then please [Contact Us](https://web.archive.org/web/20100514023747id_/http%3A//rpgwebsolutions.com/contact.html) for more details 
