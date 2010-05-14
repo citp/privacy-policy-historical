@@ -1,53 +1,49 @@
-> *The following text is extracted and transformed from the mediaforge.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504130715id_/http%3A//www.mediaforge.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaforge.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514113125id_/http%3A//www.mediaforge.com/privacy-policy) for the most accurate reproduction.*
 
-# mediaFORGE Corporation - Privacy Policy
+# Privacy Policy | mediaFORGE
 
-**COMMITMENT TO YOUR PRIVACY**
+mediaFORGE Privacy Policy
 
-This site is owned and operated by Media Forum, Inc.. Your privacy on the Internet is of the utmost importance to us. At Media Forum, we want to make your experience online satisfying and safe. 
+This policy is effective as of July 14, 2009
 
-Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
+mediaFORGE values the protection of consumer privacy.
 
-**INFORMATION MEDIA FORUM GATHERS AND TRACKS**
+Who is mediaFORGE
 
-Media Forum, Inc. gathers two types of information about users: 
+mediaFORGE is a remarketing/retargeting tool for advertisers that collects anonymous usage data from visitors and users. The information we gather is completely anonymous. mediaFORGE uses the information to display targeted advertisements to Internet users. mediaFORGE does not provide any personal information to our advertisers when consumers interact with or view mediaFORGE ads. However, by interacting with or viewing a mediaFORGE ad consumers are consenting to the possibility that mediaFORGE will make the assumption that consumers meet certain targeting criteria. mediaFORGE may combine usage information with information we obtain from clients/advertisers, network partners, and/or other companies.
 
-Information that users provide through optional, voluntary submissions. This includes information provided when creating an account and when making a purchase. 
+Information Gathering
 
-Information Media Forum, Inc. gathers through aggregated tracking information derived mainly by tallying page views throughout our site. This information allows us to better tailor our content to users' needs. 
+mediaFORGE collects anonymous information through the use of cookies and pixel tags, which are industry standard technologies used by many major web sites. No personally identifiable information is collected or used in this process.
 
-**CHILDREN**
+Information Collected
 
-Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent. 
+When an Internet user views or interacts with mediaFORGE advertisements or a partner’s website we collect and store information about the interactions and usage. The information we collect relates to interaction behavior, including, but not limited to, products and offers viewed, in-ad browsing and searching, video content viewed, and other anonymous behavioral data. In order to gather such information as it relates to specific users, mediaFORGE and partners set and store Flash and browser cookies (respectively) on the computer of each unique user. To manage your Local Shared Objects (LSO) stored by the Adobe Flash Player, please visit this link:
 
-**USAGE TRACKING**
+http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html
 
-Media Forum, Inc. tracks user traffic patterns throughout our site. However, we do not correlate this information with data about individual users. Media Forum, Inc. does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser). 
+Use of Anonymous Information
 
-**COOKIES**
+mediaFORGE uses the anonymous information it collects to customize the advertisements that consumers see on participating web sites and to analyze if the advertising resulted in sales. At times, we send our clients and partners the aggregated anonymous data for their use in determining which products and offers to display in their ads. The specific source of the data is not disclosed. Each member has warranted that the anonymous information they receive shall be used in compliance with applicable laws and regulations. In accordance with applicable laws and regulations, mediaFORGE will also disclose this information in response to subpoenas, court orders and other required legal processes.
 
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Media Forum, Inc. uses cookies to track user traffic patterns (as described above). 
+How Anonymous Information is Secured
 
-You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. 
+We store this anonymous information securely at the mediaFORGE data center. We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. This includes the necessary physical, electronic and managerial procedures to protect data integrity, access and use.
 
-**USE OF INFORMATION**
+Unforeseen Circumstances
 
-Media Forum, Inc. uses any information voluntarily given by our users to enhance their experience on our site, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users. 
+mediaFORGE may sell or buy other businesses or entities. In such transactions, the anonymous information we have collected from you may be one of the transferred business assets.
 
-We may use information that users voluntarily provide in order to send out electronic newsletters and promotional announcements. Media Forum, Inc. never shares newsletter mailing lists with any third parties. 
+Right to Change This Policy
 
-Personally identifiable consumer information is shared with third parties (such as banks and credit card processors) to the extent necessary for Media Forum, Inc. to process your credit card payment. 
+We reserve the right to make changes to this Privacy Policy at any time. While we expect most changes to be minor, there may be changes that are more significant. As such, we will state the date the policy was last updated. We encourage you to review our privacy policy on a regular basis.
 
-We also may release personally identifiable information when we believe release is appropriate to comply with law; enforce our advertising contract; or protect the rights, property, or safety of Media Forum, Inc., our users, or others. 
+Opt-Out
 
-**SECURITY**
+There are many programs that allow you to manually delete your cookies. In addition, mediaFORGE offers consumers the opportunity to select a persistent "blank" or "opt-out cookie" to prevent information from being uniquely associated with your browser. This way, you can opt-out of mediaFORGE cookies, without erasing or altering other cookies associated with your browser. If you do not want a unique cookie from mediaFORGE, there is a simple procedure to follow.
 
-Media Forum, Inc. operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers. 
+By selecting the opt-out cookie, mediaFORGE will not store information about your browser behavior given to us from our partners. Also note that if you choose to opt-out, mediaFORGE is unable to recognize your browser from one visit to the next, and you may see the same advertisement multiple times.
 
-**CREDIT CARD SAFETY**
+PLEASE NOTE that if you erase or otherwise alter your browser's cookie file (including upgrading certain browsers) you may need to perform this process again.
 
-Protecting the safety of your credit card information is important to us. We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
-
-**YOUR CONSENT**
-
-By using this site, you consent to the collection and use of this information by Media Forum, Inc.. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+To opt out, please [click here](http://www.dizzads.com/policy/OPTED_OUT.html).
