@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truecheaters.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830191532id_/http%3A//truecheaters.com/TCPP.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truecheaters.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514143829id_/http%3A//truecheaters.com/forums/TCPP.htm) for the most accurate reproduction.*
 
 # None
 
