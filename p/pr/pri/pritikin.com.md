@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pritikin.com privacy policy that was archived on 2009-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090305090019id_/http%3A//pritikin.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1045%26Itemid%3D481) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pritikin.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514142515id_/http%3A//pritikin.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1045%26Itemid%3D481) for the most accurate reproduction.*
 
 # Pritikin Privacy Policy
 
@@ -30,6 +30,8 @@ We use the information you provide about someone else when placing an order only
 
 You can register with our website if you would like to receive a brochure, become a member of My Pritikin, create a shopping cart account or register for the Pritikin newsletter and updates on our products and services. Information submitted during registration will not be shared with outside parties except to the extent necessary to complete your request.
 
+On My Pritikin, members often post compelling copy regarding their success and tips for healthy living. We reserve the right to reproduce this copy in full or in part in Pritikin newsletters and other media, but we will never reveal your full name.
+
 We use non-identifying and aggregate information to better design our website.
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
@@ -46,4 +48,4 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 **How To Contact Us**   
-Should you have other questions or concerns about these privacy policies, please call us at 305.935.7131 or send us an email at [info@pritikin.com](mailto:info@pritikin.com) .
+Should you have other questions or concerns about these privacy policies, please call us at 305.935.7131 or send us an email at [info@pritikin.com](mailto:info@pritikin.com).
