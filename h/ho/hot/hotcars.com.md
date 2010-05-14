@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotcars.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627000842id_/http%3A//namemedia.com/%3Fp%3D24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcars.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514072058id_/http%3A//namemedia.com/%3Fp%3D24) for the most accurate reproduction.*
 
 # Privacy Policy
 
