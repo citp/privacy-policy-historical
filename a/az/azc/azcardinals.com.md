@@ -1,170 +1,151 @@
-> *The following text is extracted and transformed from the azcardinals.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218211608id_/http%3A//www.azcardinals.com/team/custom.html%3Fcid%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azcardinals.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514203658id_/http%3A//www.azcardinals.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
-# Arizona Cardinals - Privacy Policy
+# azcardinals.com | Privacy Policy
 
-|  |   
----  
-[Players](http://www.azcardinals.com/team/roster.html)|   
-[Coaches](http://www.azcardinals.com/team/coaches.html)|   
-[Executive Staff](http://www.azcardinals.com/team/administration.html)|   
-[Staff](http://www.azcardinals.com/team/staff.html)|   
-[Depth Chart](http://www.azcardinals.com/team/depth_chart.html)|   
-[ ](http://www.azcardinals.com/gameday/schedule.html)  
----  
-  
-|  |  |   Privacy Policy  
----|---  
-| 
+###### Arizona Cardinals Website Privacy Policy
 
-****
+Revised September 2007
 
-**PRIVACY POLICY**  
-Effective Date: April 25, 2003
+[](http://www.truste.org/ivalidate.php?url=www.azcardinals.com&sealid=102)
 
-This privacy policy is applicable to the Website[s] accessible at azcardinals.com (the "Site"), which is operated pursuant to a strategic relationship among the Arizona Cardinals and azcentral.com (collectively, the "PARTNERS", "we", "our", or "us"). **Note:**[ ** _Click here_**](http://www.nfl.com/help/prior) **if you disclosed personally identifiable information via the Site prior to April 4, 2003.** This privacy policy shall be prominently published on the Site. The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
+This privacy policy applies to the Arizona Cardinal’s website located at azcardinals.com. The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
-****
+The Website is operated by JA on behalf of the Arizona Cardinals. JA does not own any information submitted through this website and cannot use this information for its own purposes.
 
-**TYPES OF INFORMATION THAT MAY BE COLLECTED**
+The Arizona Cardinals Football Club is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site[ www.azcardinals.com](http://www.azcardinals.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-The following are the types of information we may collect: 
+If you have questions or concerns regarding this statement, you should first contact Privacy Policy Coordinator at [askquestions@cardinals.nfl.net](mailto:askquestions@cardinals.nfl.net). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
-**__**__
+This site complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
-_**Information You Provide Us**_  
-Personal information such as your user ID and password, name, email address, telephone number, physical address, birth date, gender or zip code or other information may be collected via the Site. 
+The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site.
 
-**__**__
+The Arizona Cardinals Football Club is located at 8701 South Hardy Drive, Tempe, AZ 85284. All written correspondence should be sent to P.O. Box 888, Phoenix, AZ 85001-0888.
 
-_**Site Usage Information**_  
-We may receive and store certain types of information whenever you visit the Site. For example, we may collect click-stream data and your IP address. 
+When this privacy policy uses the term “personally identifiable information” or “personal information,” we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
 
-**__**__
+Please read the information below to learn more about our data collection policies and practices.
 
-_**Email Communications**_  
-When you open emails from the Site, we may receive a confirmation noting you opened an email from us, if your computer supports such capabilities. We also may keep track of what emails we send you and what emails you may be receiving from the PARTNERS and our subsidiaries and affiliates. Additionally, we keep a record of what emails you have opted to and not to receive. 
+  1. Types Of Information That May Be Collected
+  2. How Information May Be Collected
+  3. How We Use The Information Collected
+  4. With Whom The Information May Be Shared
+  5. Security
+  6. Chat Rooms, Forums, And Message Boards
+  7. Links To Other Websites
+  8. A Special Note For Parents Concerning Privacy
+  9. Notification Of Changes And Your Acceptance Of The Privacy Policy
+  10. Correcting/Updating Personal Information
+  11. Your California Privacy Rights
+  12. Questions About This Privacy Policy
 
-**__**__
 
-_**Information from Other Sources**_  
-We may receive information about you from other sources and add it to your personal information. 
 
-****
+Types Of Information That May Be Collected
 
-**HOW INFORMATION MAY BE COLLECTED**  
-We may collect information from you in several different areas on the Site, including but not limited to those described below: 
+The following are the types of information we may collect: Information You Provide Us: In the course of using the website, we may ask you to provide us with certain information, including contact information, such as your user ID and password, name, email address, telephone number, physical address, birth date, gender or zip code or other information may be collected via the Site. unique identifiers, such as your user ID, user password, demographic information, such as your ticket holder status, financial information, such as your “credit card number or similar information. If you choose to register on our Message Boards and were referred by an Arizona Cardinals message board member, we will ask you for their name so that we may track success of referral program.
 
-**__**__
+Site Usage Information: We may receive and store certain types of internet usage information whenever you visit the Website, such as your click-stream data and your IP address. See “IP Addresses and Click Stream Data” section below.
 
-_**Registration**_  
-You may be asked first to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Site may choose to offer, including, but not limited to, Newsletters, Contests, Forums or other subscription based services. 
+Email Communications: When you open emails from us, we may receive a confirmation noting you opened the email, if your computer supports such capabilities. We also may keep track of what emails we send you and what emails you may be receiving from our subsidiaries and affiliates. Additionally, we keep a record of what communications you have opted to receive or not to receive.
 
-**__**__
+How Information May Be Collected
 
-_**Newsletters and Site Emails**_  
-We may offer free newsletters to share information with you about the Site, about us and our affiliates and subsidiaries, or about our business partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Site. You may cancel your free email subscription by following the instructions provided on the Site or, in some instances, in the designated area of certain newsletters or emails. 
+We may collect information from you in several different areas on the Website, including but not limited to those described below: Registration: You may be asked to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Website may choose to offer, such as newsletters or contests. Participation in registration is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website.
 
-**__**__
+Newsletters and Website Emails: We offer free newsletters to share information with you about the Website, about us and our affiliates and subsidiaries, or about our marketing partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Website. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. You may also cancel your free email subscription by following the instructions provided on the Website or in the newsletter or email to [askquestions@cardinals.nfl.net](mailto:askquestions@cardinals.nfl.net)
 
-_**Contests or Sweepstakes**_  
-We may operate contests and sweepstakes through the Site which may require registration. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes. We may ask your permission to allow us to post publicly some of your information on the Site, such as on a winners page, in the event you win a contest or sweepstakes. Except as required by applicable law, we will not post your information without your permission. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes on the Site, and collect your information. In those cases, where we are not the operator or host of the contest or sweepstakes, we have no control over the information collected and accordingly urge you to review the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating. 
+Contests or Sweepstakes: We periodically operate contests and sweepstakes through the Website that may require registration or the submission of personal information. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes, (see the rules of each contest for details about how your personal information will be used). We may also ask your permission to allow us to publicly post some of your information on the Website, such as on a winner’s page, in the event you win a contest or sweepstakes. Except as required by applicable law, we will not post your information without your permission. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes on the Website, and collect your information. In those cases, where we are not the operator or host of the contest or sweepstakes, we do not collect your information and we have no control over the information collected from you. Accordingly, we urge you to review the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating.
 
-**__**__
+Surveys or Voting: From time-to-time we may request personally identifiable information from you in conjunction with a survey or voting poll. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website.
 
-_**Surveys or Voting**_  
-From time-to-time we may request personally identifiable information from you via surveys or voting polls. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information. At times, you may have to register to vote or to take part in a survey. 
+Games: When you register to play games on our Website, you may be asked to provide personally identifiable information.
 
-**__**__
+Cookies: As with many Websites, our Website uses a technology called "cookies." A cookie is a unique, random number that is stored in the browser on your computer. The cookie doesn't actually identify you, just the computer that is used to visit the site. Cookies automatically identify your browser to the Website whenever your computer is used to visit the Website. Cookies also let us know how many people visit our website and where visitors go on the site. In addition, cookies can let us know non-personally identifiable information, like what web browser is being used to access the website. For registered users, cookies can make using the Website easier for you by saving information such as your passwords or preferences. By tracking how and when you use the Website, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Website are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Website. Cookies may also allow the Website to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, your browser should contain an option that allows you to disable or delete cookie data at any time. Some areas of the Website, however, may not provide you with a personalized experience if you have disabled the use of cookies. Cookies are not tied to personal information.
 
-_**Cookies**_  
-As with many Web sites, the Site uses standard technology called "cookies," which are small data files that are transferred to your computer when you allow your browser to accept cookies. Cookies automatically identify your Web browser to the Site whenever you visit the Site, and make using the Site easier for you by saving your passwords, purchases, and preferences. By tracking how and when you use the Site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Site are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Site. Cookies may also allow the Site to present to you advertising which may be of interest to you . If you do not want information collected through the use of cookies, you generally can opt out of providing this information by turning the cookies off in your browser; however, some areas of the Site may not provide you with a personalized experience if you have disabled the use of cookies. 
+Web Beacons and Other Tracking Technology: Our Website uses a variety of technical methods for tracking purposes, including Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of Web sites. We also use these technical methods to analyze the traffic patterns on our Web sites, such as the frequency with which our users visit various parts of our Web sites. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We also use these technical methods in HTML e-mails that we send our guests to determine whether our guests have opened those e-mails and/or clicked on links in those e-mails. The information from use of these technical methods may be collected in a form that is personally identifiable.
 
-**__**__
+IP Addresses and Click-Stream Data: We may collect IP addresses and/or click-stream data. An IP address is a number associated with the service through which you access the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses for purposes of system administration and to report aggregate information to our advertisers and sponsors, for example regarding the frequency with which our guests visit various parts of our sites. We may combine this information with personally identifiable information. Click-stream data is information collected by our computers when you request Web pages from the Website. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. When analyzed, this data helps us analyze how visitors arrive at the Website, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.
 
-_**IP Addresses and Click-stream Data**_  
-We may collect IP addresses and/or click-stream data for purposes of system administration and to report aggregate information to our advertisers and sponsors. An IP address is a number that is automatically assigned to your computer whenever you access the Internet. Our computers identify your computer by its IP address. When you request Web pages from the Site, our computers log your IP address. 
+Transaction Information: If you conduct a financial transaction with our Website, such as order information from our Website, buy our products, or subscribe to services offered on our Website, we will ask you to complete an order form that will request certain information from you, including contact information, demographic information and financial information. We will use this information to complete the transaction that you have requested, i.e., to deliver the information, products or other services that you order, and to invoice you. For your protection, such information is collected and stored through encrypted means.
 
-Click-stream data is information collected by our computers when you request Web pages from the Site. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. When analyzed, this data helps us analyze how visitors arrive at the Site, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like. 
+How We Use The Information Collected
 
-**__**__
+As applicable, the information you provide to us may be used to:  
+contact you about the Website;  
+contact you relating to your membership status;  
+confirm or fulfill an order you have made;  
+inform you of a prize you have won;  
+monitor or improve the use of the Website;  
+customize the advertising and content you see;  
+monitor compliance with our terms and conditions of use of the Website; and  
+send you promotional material or special offers on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties.
 
-_**Transaction Information**_
+With Whom The Information May Be Shared
 
-If you order any information from our Site, buy any of our products or subscribe for any of the services offered on our Site, we will ask you to complete an order form that will request certain information from you, including financial information such as a credit card number and expiration date and general contact, billing and shipping information. We will use this information to complete the transaction that you have requested, i.e., to deliver the information, products or other services that you order, and to invoice you. Such information is collected and stored through encrypted means for your protection. 
+At times, we may share your personal information with others for various purposes. The following outlines the ways in which your information may be shared with others and the ways in which you may opt-out of having your information shared:
 
-****
+Agents: We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Website analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for their own purposes, like sending you marketing offers about their products.
 
-**HOW WE USE THE INFORMATION COLLECTED**  
-Each of the PARTNERS own the information collected via this Site. As applicable, the information you provide to us may be used to: 
+For example, the Team Shop at [http://www.cardinalsproshop.com/?rc=navigation&rs=cardssite ](http://www.cardinalsproshop.com/?rc=navigation&rs=cardssite)and ticket deposits at [http://www.cardinalsproshop.com/?rc=navigation&rs=cardssite ](http://www.cardinalsproshop.com/?rc=navigation&rs=cardssite).
 
-  * contact you about the Site; 
-  * contact you relating to your membership status; 
-  * confirm or fulfill an order you have made; 
-  * monitor or improve the use of the Site; 
-  * customize the advertising and content you see; 
-  * monitor compliance with our terms and conditions of use of the Site; 
-  * provide special offers to you from the PARTNERS and/or their respective affiliates and subsidiaries and other third parties; 
-  * send you promotional material on behalf of our partners; 
-  * inform you of a prize you have won. 
+Although these websites may have the look and the feel of the team Website, please be aware that you are entering information directly to the third party site and not to the Cardinals. The third party’s privacy policy will govern information collection in these areas.
 
-****
+Aggregate Information: We may share aggregate information, such as demographics and Website usage statistics, with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information.
 
-**WITH WHOM THE INFORMATION MAY BE SHARED**  
-At times, we may share your personally identifiable information with others for various purposes. The following outlines the ways in which your information may be shared with others: 
+Opt-In / Opt-Out Offers: When you provide us with personal information, you may be presented with the opportunity to share your personal information with third parties for various purposes, such as receiving information or special offers. An opt-in/opt-out message will ask you if you would like your information to be shared. When you allow us to share your personal information with third parties, we require third parties who have access to that information to agree to abide by our current Website privacy policy. Once the information is transferred, however, we cannot control the privacy practices of these other companies.
 
-****
-  * **Agents:** We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Site analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for other purposes. 
-****
-  * **Promotional Offers:** We may send offers to you on behalf of other partners. When we do this, we do not give that partner your name and address. If you do not want to receive such offers, you may opt out in the email or change your preferences. 
-****
-  * **Aggregate Information:** We may share aggregate information such as demographics and Site usage statistics to advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information. 
-****
-  * **Opt-in and Opt-out Programs:** Throughout the Site you may be presented with opportunities to receive special offers from third parties. An opt-in/opt-out message will ask you if you would like your information to be shared. If you do choose to have your information shared, in an effort to protect you, third parties who have access to personally identifiable information must abide by the current Site privacy policy. However, we are not responsible for the privacy practices of these other companies, and you should review the privacy practices of such Web sites prior to providing your personally identifiable information. 
-****
-  * **Third-Party Ad Serving & Audience and Traffic Measurement Services:** The Site may use a third party network advertiser to serve the advertisements on the Site or may use a traffic measurement service to analyze the traffic on the Site. Network advertisers are third parties that display advertisements based on your visits to this Site and other Web sites you have visited. Third-party ad serving enables us to target advertisements to you for products or Web sites you might be interested in. Audience and Traffic Measurement Services allow us to collect anonymous traffic and behavior information from our Site by monitoring anonymous visitor activity. Although advertisers or other companies do not have access to the Site cookies, the Site's advertisers, sponsors and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Cookies allow third party advertisers to show you advertisements or content you might be interested in. Other companies' use of their cookies is subject to their own privacy policies, not this one. 
-****
-  * **PARTNERS Subsidiaries and Affiliates:** We may share your information (including, without limitation, personally identifiable information) with subsidiaries and affiliates of PARTNERS. 
-****
-  * **Business Transfers:** The Site or a PARTNER may be sold along with its assets, or other transactions may occur in which your personally identifiable information is one of the business assets transferred. In such a case, your personally identifiable information, which we have gathered, may be one of the business assets we transfer. 
-****
-  * **Legal Process:** In the event we are required to respond to subpoenas, court orders or other legal process your personally identifiable information may be disclosed pursuant to such subpoena, court order or legal process, which may be without notice to you. 
+Third-Party Offers: Throughout the Website you may be presented with opportunities to receive special offers from third parties. By participating in these offers, you consent to allowing your information to be shared with third parties. When you allow us to share your personal information with third parties, we require third parties who have access to that information to agree to abide by our current Website privacy policy. We cannot control the privacy practices of these other companies, however, and you should review the privacy practices of such companies prior to providing your personally identifiable information.
 
-****
+Other Promotional Offers: We may send offers to you on behalf of our marketing partners. When we do this, we do not give that partner your name and address. If you do not want to receive such offers, you may opt out by following the instructions on the website or sending an email to askquestions@cardinals.nfl.net.
 
-**CHAT ROOMS, FORUMS, AND MESSAGE BOARDS**  
-The Site may make chat rooms, forums and message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. The PARTNERS cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas. 
+Third-Party Ad Serving & Audience and Traffic Measurement Services: The Website may use a third party network advertiser to serve the advertisements on the Website or may use a traffic measurement service to analyze the traffic on the Website. Network advertisers are third parties that display advertisements based on your visits to this Website and other Websites you have visited. Third-party ad serving enables us to target advertisements to you for products or Websites you might be interested in. Audience and Traffic Measurement Services allow us to collect anonymous traffic and behavior information from our Website by monitoring anonymous visitor activity. Although advertisers or other companies do not have access to the Website cookies, the Website's advertisers, sponsors and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Cookies allow third party advertisers to show you advertisements or content you might be interested in. Other companies' use of their cookies is subject to their own privacy policies, not this one.
 
-****
+Business Transfers: In the event that all or substantially all of our assets are sold or transferred to another party, or another transaction occurs in which your personally identifiable information is one of the business assets transferred, all personally identifiable information that has been collected and saved may be one of the business assets we transfer. See “Your Acceptance Of The Privacy Policy and Notification of Changes to the Policy” section below.
 
-**LINKS TO OTHER WEB SITES**  
-You should be aware that when you are on the Site you could be directed to other sites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Site onto a different Web site. This includes links from advertisers, sponsors and partners that may use the Site's logo as part of a co-branding agreement. These other Web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Site, you should consult that site's privacy policy before providing any personal information. 
+Administrative or Legal Process: Your personal information may be transferred to third parties without notice to you in order to comply with applicable law, law enforcement agencies, to protect our rights, or protect the rights of other users of this website.
 
-****
+Chat Rooms, Forums, And Message Boards
 
-**SECURITY**  
-This Site incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Your personally identifiable information is transferred to our computers utilizing encryption software. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required. 
+The Website may make chat rooms, forums and message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas.
 
-****
+Links To Other Websites
 
-**A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY**  
-The Site is a general audience site. We do not currently collect any personal information from children under the age of thirteen on the Site. If in the future, the PARTNERS collect personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.) including, without limitation, obtaining necessary parental consent. The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit the Direct Marketing Association's Web site ([ _www.the-dma.org_](http://www.the-dma.org/) ) and explore the Get CyberSavvy! Program as well as the GetNetWise Web site ([ _www.getnetwise.org_](http://www.getnetwise.org/) ) to learn more about parental control tools. 
+You should be aware that when you are on the Website you could be directed to other Websites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Website onto a different Website. This includes links from advertisers, sponsors and marketing partners that may use the Website's logo as part of a co-branding agreement. These other Websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Website, you should consult that Website's privacy policy before providing any personal information.
 
-****
+Security
 
-**NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY**  
-By using this Site, you signify your agreement to the terms of our privacy policy. If we decide to change or update this privacy policy, we will give you notice of the changes made so you can be aware of such revised privacy policy. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of an email or some other means. Your continued use of the Site shall constitute your acceptance of such revised privacy policy. 
+This Website incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Your personally identifiable information is transferred to our computers utilizing encryption software. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required.
 
-****
+A Special Note For Parents Concerning Privacy
 
-**CORRECTING/UPDATING PERSONAL INFORMATION**  
-If your personally identifiable information changes (such as your zip code), or if you no longer desire to access our Site, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an opt out message in an email, or by emailing Member Services at [lmanning@cardinals.nfl.com](mailto:lmanning@cardinals.nfl.com). Please [_click here_](http://newsletter.nfl.com/profile/) to make any changes to your profile and/or opt out of the Cardinals Redelert Newsletter. To opt out of the Cardinals Redelert, please email [cardinals.privacy@nfl.ed10.net](mailto:cardinals.privacy@nfl.ed10.net). 
+The Website is a general audience Website. We do not currently collect any personal information from children under the age of thirteen on the Website. If in the future, we collect personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.) including, without limitation, obtaining necessary parental consent. For more information about the privacy practices for our affiliated children's Website, such as “NFLPlayFootball.com please consult the privacy policy at the children's Website.
 
-If you have any questions about this privacy policy or the privacy practices of this Site, contact comments@azcentral.com.
+The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit the Direct Marketing Association's Web Website (www.the-dma.org) and explore the Get CyberSavvy! Program as well as the GetNetWise Website (www.getnetwise.org) to learn more about parental control tools.
 
-Questions regarding this statement should be directed via electronic mail to: lmanning@cardinals.nfl.com.
+Your Acceptance Of The Privacy Policy And Notification Of Changes To The Policy
 
-  
-|  |  |    
-  
-  
+By using this Website, you signify your agreement to the terms of our privacy policy. We may amend this privacy policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a notice on our website and / or send an email to users who have provided an email address. We will assume that you have given your permission for your information to be used under the terms of the new privacy policy, if you do not respond to our email within thirty days or continue to use the Website thirty days after a notice is posted. Please note that you should always update your personal information to provide us with a current email address.
 
+Correcting/Updating Personal Information
+
+If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an opt out message in an email, or by emailing us at [askquestions@cardinals.nfl.net](mailto:askquestions@cardinals.nfl.net). We will respond to your request within 10 – 20 business days.
+
+Your California Privacy Policy
+
+A California privacy law that went into effect on January 1, 2005, allows California residents to obtain specific information about a business’s privacy practices if it shares information with other companies for those companies’ direct marketing purposes.
+
+As explained in this privacy policy, whenever you agree to let us collect personal information about you, we will always provide you with an option to prevent this information from being shared for non-administrative purposes with third parties. You can exercise this option at any time by following the steps outlined above.
+
+Because this website has a comprehensive privacy policy and provides you with details on how you may opt-in / opt-out of the use of your personal information by third parties for direct marketing purposes, we are not required to provide you with this information. [adjust this section if your website does not ever share information with these kinds of third parties]
+
+If you are a California resident and have questions about our compliance with this law, please send an email to [askquestions@cardinals.nfl.net](mailto:askquestions@cardinals.nfl.net) for CA privacy inquiries, or write to us at CA Privacy Rights, P.O. Box 888, Phoenix, AZ 85001-0888.
+
+Questions About This Privacy Policy
+
+If you have any questions about this privacy policy or the privacy practices of this Website, contact [askquestions@cardinals.nfl.net](mailto:askquestions@cardinals.nfl.net).  
+Questions regarding this statement should be directed to:  
+Arizona Cardinals  
+Attn: Website Privacy Policy  
+P.O. Box 888  
+Phoenix, AZ 85001-0888
