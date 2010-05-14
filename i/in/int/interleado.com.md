@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interleado.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230222525id_/http%3A//www.interleado.com/internet-marketing-software-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interleado.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514111148id_/http%3A//www.interleado.com/internet-marketing-software-privacy-policy.php) for the most accurate reproduction.*
 
 # Interleado's Internet Marketing Software privacy policy
 
@@ -43,15 +43,31 @@ IP address - The identifying details for your computer (or your internet company
 
 Cookies - Small pieces of information, stored in simple text files, placed on your computer by a web site. Cookies can be read by the web site on your subsequent visits. The information stored in a cookie may relate to your browsing habits on the web page, or a unique identification number so that the web site can "remember" you on your return visit. Generally speaking, cookies do not contain personal information from which you can be identified, unless you have furnished such information to the web site.   
   
-Interleado  
-NovaUCD  
-Belfield Innovation Park,  
-Dublin 4
+**Interleado**  
+Kingston House  
+64 Patrick St  
+Dun Laoghaire  
+Co. Dublin  
+Ireland
 
-**Ph:** 00 353 1 716 3769  
-**Fax:** 00 353 1 716 3709 
+**Tel:** +353 1 284 6231   
+**Email:** [info@interleado.com ](mailto:info@interleado.com)
 
-| Interleado  
-78 York Street, London WIHIDP, England
+| **Interleado**  
+78 York Street  
+London WIHIDP  
+England
 
-**Ph :**   00 44 203 285 8990 
+**Tel:** \+ 44 203 285 8990 
+
+**Email:** [info@interleado.com ](mailto:info@interleado.com)
+
+| **Triple Cloud Pty Ltd  
+**Suite 1A, Level 2  
+802 Pacific Hwy  
+Gordon NSW 2072 
+
+**Tel:** \+ 61 2 8231 5740   
+**Fax:** \+ 61 2 8212 9050  
+**E:**    [sales@triplecloud.com.au](mailto:sales@triplecloud.com.au)  
+**W:**   [http://www.triplecloud.com.au](http://www.triplecloud.com.au/)
