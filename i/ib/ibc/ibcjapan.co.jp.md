@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibcjapan.co.jp privacy policy that was archived on 2009-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090810165331id_/http%3A//www.ibcjapan.co.jp/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibcjapan.co.jp privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514020156id_/http%3A//www.ibcjapan.co.jp/privacypolicy.asp) for the most accurate reproduction.*
 
 # Respecting your privacy | IBC Japan - Buy used cars online and from auctions from a trusted Japanese exporter catering to wholesale vehicle dealers and retailers.
 
