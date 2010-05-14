@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the intechgrity.com privacy policy that was archived on 2009-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090722030040id_/http%3A//www.intechgrity.com/2009/03/privacy-policy-of-greentechspot.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intechgrity.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514053559id_/http%3A//www.intechgrity.com/2009/03/privacy-policy-of-greentechspot.html) for the most accurate reproduction.*
 
-# Privacy Policy of greenTechspot ~ inTechgrity
+# Privacy Policy of inTechgrity
 
-Y our Privacy is important to us. We are committed to safeguarding your privacy while online at our site greenTechspot.blogspot.com. The following discloses the information gathering and dissemination practices for this Web site.... 
+Y our Privacy is important to us. We are committed to safeguarding your privacy while online at our site [http://www.inTechgrity.com](http://www.intechgrity.com/) . The following discloses the information gathering and dissemination practices for this Web site.... 
 
 #### The Information We Collect
 
-We use **statcounter** and **google analytics tools** to collect the information. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. Also our Blog is hosted on blogspot platform. So all the information collected by Blogger is not in any way controlled by us and you are requested to see Blogger Privacy Policy 
+We use **statcounter** and **google analytics tools** to collect the information. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. Also our Blog is hosted on blogspot platform. So all the information collected by Blogger is not in any way controlled by us and you are requested to see Blogger Privacy Policy.
 
 #### Cookies and Web Beacons
 
-We also use third party advertisements on greenTechspot to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
+We also use third party advertisements on **inTechgrity** to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
 
 **_DoubleClick DART cookies_** The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web.
 
@@ -28,7 +28,7 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 #### Commenting System
 
-We use **intensedebate** commenting system as our default blog commenting system.The name and website URl are displayed on comments, but email address is secure with us. We do not share it with outside parties. While comments are welcome from anybody, we reserve the right to remove any comment that is not deemed suitable for publication. This could include but is not limited to objectional and abusive comments. Hate, racist comments, or any other form of prejudice will be removed and the poster will be banned! Comments made for sole purpose of getting backlinks or advertizing your/any product will not be accepted. Link to third party website will require moderation and we reserve the rights to edit/delete such links. Spam in any form will not be accepted and will be deleted immediately. We may take action against such spammers. 
+We use **[intensedebate](http://intensedebate.com/)** commenting system as our default blog commenting system.The name and website URl are displayed on comments, but email address is secure with us. We do not share it with outside parties. While comments are welcome from anybody, we reserve the right to remove any comment that is not deemed suitable for publication. This could include but is not limited to objectional and abusive comments. Hate, racist comments, or any other form of prejudice will be removed and the poster will be banned! Comments made for sole purpose of getting backlinks or advertizing your/any product will not be accepted. Link to third party website will require moderation and we reserve the rights to edit/delete such links. Spam in any form will not be accepted and will be deleted immediately. We may take action against such spammers. 
 
 #### Newsletter
 
@@ -40,11 +40,19 @@ This Web site contains links to other sites. Please be aware that we are not res
 
 #### Copy Limitations
 
-Please don't copy the whole post. A short paragraph with content in quotes is acceptable with a link-back to the post at greenTechspot.blogspot.com **Credit the Source:** You need to clearly highlight the fact that the content was derived from greentechspot.blogspot.com **Link Back:** You need to link back to the article from which you derived the excerpt. 
+Please don't copy the whole post. A short paragraph with content in quotes is acceptable with a link-back to the post at **inTechgrity.com**
+
+**Credit the Source:** You need to clearly highlight the fact that the content was derived from [http://www.](http://www.intechgrity.com/)[inTechgrity](http://www.intechgrity.com/).com
+
+**Link Back:** You need to link back to the article from which you derived the excerpt. 
 
 #### Advertisers
 
-We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. Currently we work with the two advertiser – infolink and Google Adsense. Please check their websites for respective privacy policies. 
+We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. Currently we work with a number of advertiser advertiser – **[Technorati Engage](https://beta.technoratimedia.com/privacy.cfm), [Infolinks](http://infolinks.com/privacy.html;jsessionid=20ACF59D29883CEB7A60AC561B706362), [Chitika](http://chitika.com/privacy_policy.php)** and **[Google Adsense](http://www.google.com/privacypolicy.html)**. Please check their websites for respective privacy policies.
+
+### _**Why do I see double underlined links?**_
+
+_These links are part of an advertising service called Infolinks. Infolinks uses the In Text method of advertising: they take my text and create links within it. If you hover your mouse over these[double underline links](http://www.infolinks.com/), you will see a small dialog box containing advertisement related to the text marked. You can choose to either move the mouse away and go on with your browsing, or to press on the box and go to the ad which is relevant to our text. _To learn more about Double Underline Link Ads –[Click Here](http://www.infolinks.com/).__
 
 #### Copyrights
 
@@ -54,5 +62,4 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 If users have any questions or suggestions regarding our privacy policy, please [Contact us](http://greentechspot.blogspot.com/2009/03/contact-us-form.html "greenTechspot Contact Us form"). 
 
-  
-
+Loading Twitter trackbacks..
