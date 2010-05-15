@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toshiba.ca privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115105527id_/http%3A//www.toshiba.ca/web/link%3Fid%3D87) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toshiba.ca privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515160439id_/http%3A//www.toshiba.ca/web/link%3Fid%3D87) for the most accurate reproduction.*
 
 # Toshiba Canada - Privacy Statement
 
