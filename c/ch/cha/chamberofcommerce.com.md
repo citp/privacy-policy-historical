@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the chamberofcommerce.com privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113120219id_/http%3A//chamberofcommerce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chamberofcommerce.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515122537id_/http%3A//www.chamberofcommerce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chamber of Commerce
 
 **ChamberofCommerce.com PRIVACY POLICY**  
  **EFFECTIVE DATE: 11/01/2009**   
 **1\. Introduction**   
-ChamberofCommerce.com ("us," "we," or "Company") is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website ("the Site"). We created this Website Privacy Policy ("Privacy Policy") to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. We encourage you to review those privacy policies.  
+ChamberofCommerce.com ("us," "we," or "Company") is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website ("the Site"). We created this Website Privacy Policy ("Privacy Policy") to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. We encourage you to review those privacy policies.
+
 ChamberofCommerce.com uses GeoTrust SSL certificates throughout its site to insure the security and privacy of personal and financial information submitted. GeoTrust is the world's second largest digital certificate provider, and a leader in a wide variety of Identity and Trust services. More than 100,000 customers in over 150 countries use GeoTrust products to secure online transactions, confirm and protect identities, and operate fully managed trusted environments for conducting business over the Internet.
 
   **2\. Information Collection Practices**   
