@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robbreport.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114062453id_/http%3A//www.robbreport.com/Resources/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robbreport.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515042359id_/http%3A//www.robbreport.com/Resources/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Robb Report
 
