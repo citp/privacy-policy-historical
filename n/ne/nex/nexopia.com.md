@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nexopia.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831085215id_/http%3A//www.nexopia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexopia.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515141056id_/http%3A//www.nexopia.com/privacy) for the most accurate reproduction.*
 
 # Nexopia
 
-_Last updated July 15, 2008_
+_Last updated November 2, 2009_
 
 Nexopia.com is an online service where members create personal profiles that can be shared with other members of and (non-member) visitors to Nexopia.com. To allow our members to identify each other and expand their network of friends, members can display personal and other information to other members of and visitors to Nexopia.com.
 
@@ -22,9 +22,9 @@ You may change or remove any of your Profile Data at any time by logging into yo
 
 If you submit details in your Profile for MSN Messenger, AOL Instant Messenger (AIM) or ICQ, these are accessible by registered members on your friends list.
 
-Members communicate on Nexopia.com with each other through the Nexopia.com service, without revealing their email addresses. To facilitate searching for and finding friends on the service, Nexopia.com allows members to search by age, gender, location, interests, sexuality and to limit searches only to members with pictures.
+Members communicate on Nexopia.com with each other through the Nexopia.com service, without revealing their email addresses. To facilitate searching for and finding friends on the service, Nexopia.com allows members to search by name, age, gender, location, school, interests, sexuality and to limit searches only to members with pictures.
 
-In addition, Nexopia.com allows searches by usernames and email addresses of members. The default will be that your username and email address are searchable, however, you may disable this option through your Preferences. If you allow your username and/or email address to be searchable, the user performing the search will be able to access your profile.
+In addition, Nexopia.com allows searches by real names, usernames, and email addresses of members. The default will be that your username and email address are searchable, however, you may disable this option through your Preferences. If you allow your username and/or email address to be searchable, the user performing the search will be able to access your profile.
 
 Nexopia.com also encourages member interaction within the network community by displaying random member profile information, including members' pictures, usernames and age.
 
