@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noknok.tv privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027020942id_/http%3A//noknok.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noknok.tv privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515041841id_/http%3A//noknok.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | NokNok.tv
 
