@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zenfolio.com privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821130004id_/http%3A//www.zenfolio.com/zf/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenfolio.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515202903id_/http%3A//www.zenfolio.com/zf/privacy.aspx) for the most accurate reproduction.*
 
 # Zenfolio | Privacy Statement
 
-Please refer to the **Definitions** section set forth in the [Zenfolio Website Terms and Conditions of Use](https://web.archive.org/web/20090821130004id_/http%3A//www.zenfolio.com/zf/terms.aspx) agreement. 
+Please refer to the **Definitions** section set forth in the [Zenfolio Website Terms and Conditions of Use](https://web.archive.org/web/20100515202903id_/http%3A//www.zenfolio.com/zf/terms.aspx) agreement. 
 
 Your privacy is important to us so we will strive to keep Your information safe and secure. This privacy policy will explain the kind of information we collect about You and how we use it. By accessing and using Zenfolio Website, you agree to our Privacy Policy as outlined below. 
 
