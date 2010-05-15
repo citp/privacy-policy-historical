@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walletpop.co.uk privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530225235id_/http%3A//help.aol.co.uk/helpnotsearchable/privacy-policy/article/20070126060009990001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walletpop.co.uk privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515170849id_/http%3A//help.aol.co.uk/helpnotsearchable/privacy-policy/article/20070126060009990001) for the most accurate reproduction.*
 
 # Privacy Policy - Questions answered - AOL Help
 
@@ -42,9 +42,9 @@ We (or data processors acting under our control) will only disclose your informa
 
 This Privacy Policy does not apply to information about you collected by third party websites and offerings linked to or otherwise accessible from the AOL Web Services. The information collected third parties is subject to their own privacy policies. 
 
-AOL and its affiliates collect and process personal information from users within the European Union in connection with their various product and service offerings, which include portal services (such as AOL.co.uk); social networking services (such as Bebo); and advertising services (such as those offered by AOL affiliates, like Platform A). 
+AOL and its affiliates collect and process personal information from users within the European Union in connection with their various product and service offerings, which include portal services (such as AOL.co.uk); social networking services (such as Bebo); and advertising services (such as those offered by AOL affiliates, like AOL Advertising and Tacoda). 
 
-In connection with these offerings, AOL LLC, AOL’s parent company, and its affiliates adhere to the EU-US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program. Click [here](http://about.aol.com/aolnetwork/safe_harbor) for more information. 
+In connection with these offerings, AOL Inc., AOL’s parent company, and its affiliates adhere to the EU-US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program. Click [here](http://about.aol.com/aolnetwork/safe_harbor) for more information. 
 
 #### Principle 1
 
@@ -129,7 +129,7 @@ For example, we might use information about your visits to the AOL Motoring Chan
 
 
 
-You can choose not to receive personalised advertising from AOL based on where you go on the AOL Network and on the search terms you enter by [opting out of this service.](http://help.aol.co.uk/technical/how-do-i-opt-out-of/article/20080430103709990004?delete=WlOptOut) To learn more about online behavioural advertising visit <http://info.aol.co.uk/penguin/mr-penguin.html>. 
+You can choose not to receive personalised advertising from AOL based on where you go on the AOL Network and on the search terms you enter by [opting out of this service.](http://help.aol.co.uk/technical/how-do-i-opt-out-of/article/20080430103709990004) To learn more about online behavioural advertising visit <http://info.aol.co.uk/penguin/mr-penguin.html>. AOL adheres to the IAB UK's Good Practice Principles for Online Behavioural Advertising. Please go to the Related Links for further information. 
 
 **Cookies, Web beacons and your options**
 
@@ -144,7 +144,7 @@ AOL may use cookies, web beacons or similar technologies to enhance and personal
 
 
 
-AOL and its advertisers may also use ad network providers, including AOL affiliates such as Platform A, to help present advertisements on the AOL Network. These ad network providers may use [cookies, or web beacons or similar technologies](http://help.aol.co.uk/what-are-cookies/article/20060802095009990017) on your computer to tailor content, advertisements to your preferences, help target, measure and track your visits and the effectiveness of advertisements and promotions, using data gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience and to provide security within shopping baskets or transactions. The use of cookies, web beacons, or similar technologies by Platform A and other ad network providers is subject to their own privacy policies, not this one. To find out more about ad network providers and the choices you have about these technologies [Click Here](http://help.aol.co.uk/third-party-ad-services-and-providers/article/20060802095209990025?n=collection&p=How%20do%20AOLs%20ad%20networks%20and%20service%20providers%20use%20cookies?%20help_portal&c=help_portal). 
+AOL and its advertisers may also use ad network providers, including AOL affiliates such as AOL Advertising and Tacoda, to help present advertisements on the AOL Network. These ad network providers may use [cookies, or web beacons or similar technologies](http://help.aol.co.uk/what-are-cookies/article/20060802095009990017) on your computer to tailor content, advertisements to your preferences, help target, measure and track your visits and the effectiveness of advertisements and promotions, using data gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience and to provide security within shopping baskets or transactions. The use of cookies, web beacons, or similar technologies by AOL Advertising and Tacoda and other ad network, content, and service providers is subject to their own privacy policies, not this one. To find out more about third party content and ad network providers and the choices you have about these technologies [Click Here](http://help.aol.co.uk/third-party-ad-services-and-providers/article/20060802095209990025?n=collection&p=How%20do%20AOLs%20ad%20networks%20and%20service%20providers%20use%20cookies?%20help_portal&c=help_portal). 
 
 To learn more about cookies and how to disable them visit: [www.aol.co.uk/what-are-cookies/](http://help.aol.co.uk/what-are-cookies/article/20060802095009990017). 
 
