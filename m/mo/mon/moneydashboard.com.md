@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the moneydashboard.com privacy policy that was archived on 2009-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090725054232id_/http%3A//www.moneydashboard.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneydashboard.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515063033id_/http%3A//www.moneydashboard.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Money Dashboard | Personal Finance
-
-## Privacy Policy
+# Privacy - Money Dashboard
 
 ### Information Which We May Collect
 
