@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressreleasepublic.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114042410id_/http%3A//www.pressreleasepublic.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressreleasepublic.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515045151id_/http%3A//www.pressreleasepublic.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # PressReleasePublic - Privacy Policy
 
