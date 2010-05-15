@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewebse.com privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113160742id_/http%3A//www.ewebse.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewebse.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515213425id_/http%3A//www.ewebse.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for ewebse.com
 
