@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bath.ac.uk privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130023026id_/http%3A//www.bath.ac.uk/web/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bath.ac.uk privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515174629id_/http%3A//www.bath.ac.uk/web/privacy.html) for the most accurate reproduction.*
 
 # University of Bath Privacy statement
 
@@ -80,4 +80,4 @@ The data is collected so that we can send you news and other information which i
 
 If you have any concerns regarding the data held about you by the University of Bath, please contact us at the address given above.
 
-[Copyright](https://web.archive.org/web/20091130023026id_/http%3A//www.bath.ac.uk/web/copyright/) \- [Disclaimer](https://web.archive.org/web/20091130023026id_/http%3A//www.bath.ac.uk/web/disclaimer/) \- [Data Protection](https://web.archive.org/web/20091130023026id_/http%3A//www.bath.ac.uk/web/data-protection.html)
+[Copyright](https://web.archive.org/web/20100515174629id_/http%3A//www.bath.ac.uk/web/copyright/) \- [Disclaimer](https://web.archive.org/web/20100515174629id_/http%3A//www.bath.ac.uk/web/disclaimer/) \- [Data Protection](https://web.archive.org/web/20100515174629id_/http%3A//www.bath.ac.uk/web/data-protection.html)
