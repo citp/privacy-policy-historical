@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topvideospot.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414025408id_/http%3A//topvideospot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topvideospot.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515114434id_/http%3A//www.topvideospot.com/privacy.php) for the most accurate reproduction.*
 
-# The Best Videos? You Decide...
+# Top Viral Videos
 
   | 
 
