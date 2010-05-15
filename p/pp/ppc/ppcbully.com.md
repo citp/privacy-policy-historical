@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ppcbully.com privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803202628id_/http%3A//ppcbully.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppcbully.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515173037id_/http%3A//ppcbully.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | PPC Bully
+# Privacy Policy | PPC Bully - The Best Tools For Online Advertisers!
 
 We understand that privacy online is very important to users of PPCBully (”Site”) Site, especially when conducting business and collecting. This statement governs our privacy policies with respect to those users of the Site (”Visitors”) who visit without transacting business and Visitors who register to transact business on the Site (”Authorized Customers”) and make use of the various services offered by PPCBully (collectively, “Services”).
 
