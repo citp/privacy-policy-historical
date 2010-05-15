@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the superduperinc.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115131417id_/http%3A//www.superduperinc.com/about/privacy.aspx%3Flid%3D61FA7B9B) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superduperinc.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515202514id_/http%3A//www.superduperinc.com/about/privacy.aspx%3Flid%3D61FA7B9B) for the most accurate reproduction.*
 
 # Super Duper Inc. Privacy Policy
-
-SUPER DUPER PRIVACY POLICY
 
 We are deeply committed to protecting your privacy and take all reasonable steps to protect all data and information supplied to Super Duper Inc.. We protect your privacy in a variety of ways including using industry accepted security measures to protect against the loss, misuse, and alteration of data used by our system. Any information given to us will never be rented or sold to third parties. We understand the importance of personal information security and are committed to personal privacy on the Internet.
 
