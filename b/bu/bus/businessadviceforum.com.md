@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessadviceforum.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231001636id_/http%3A//www.businessadviceforum.com/showthread.php%3Fp%3D17370%23post17370) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessadviceforum.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515114255id_/http%3A//www.businessadviceforum.com/showthread.php%3Fp%3D17370%23post17370) for the most accurate reproduction.*
 
-# Featured: Business Advice Forum - Rules, Disclaimer & Privacy Policy! - Updated 28 Oct 09. - Business Advice Forum
+# Business Advice Forum - Rules, Disclaimer & Privacy Policy! - Updated 16 Apr 2010. - Business Advice Forum
 
 **Business Advice Forum's Commitment To Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
