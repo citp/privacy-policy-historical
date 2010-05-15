@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the traveleurope.it privacy policy that was archived on 2009-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090310031441id_/http%3A//www.traveleurope.it/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveleurope.it privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515160649id_/http%3A//www.traveleurope.it/privacy.php) for the most accurate reproduction.*
 
-# Traveleurope: Privacy policy
+# 
 
 By using **Traveleurope** website, you accept the practices described in this Privacy Policy.
 
@@ -34,9 +34,4 @@ We use your personal information to process your booking and to deliver relevant
 
 ## Right of rectification or erasure
 
-You may ask to have your personal data corrected, if inaccurate, or erased if they are no longer needed to provide the purchased booking service, by sending an email to customer@traveleurope.it  
-  
-Book online or call our reservation hotline. Monday-Friday from 9.30 am to 5.30 pm (CET – Central European Time)
-
-+44 (0)20.32.39.87.58   
-+39 02.45.47.30.26
+You may ask to have your personal data corrected, if inaccurate, or erased if they are no longer needed to provide the purchased booking service, by sending an email to [customer@traveleurope.it](mailto:customer@traveleurope.it)
