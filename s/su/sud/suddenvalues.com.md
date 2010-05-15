@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suddenvalues.com privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110062427id_/http%3A//www.suddenvalues.com/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suddenvalues.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515052932id_/http%3A//suddenvalues.com/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # SuddenValues® - The Local Source™ - for Savings... Information... Results!
 
