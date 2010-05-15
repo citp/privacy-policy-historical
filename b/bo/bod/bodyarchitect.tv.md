@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodyarchitect.tv privacy policy that was archived on 2009-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090127055035id_/http%3A//www.bodyarchitect.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyarchitect.tv privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515225442id_/http%3A//www.bodyarchitect.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
