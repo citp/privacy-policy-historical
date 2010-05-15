@@ -1,27 +1,28 @@
-<!--The following is the downloaded HTML source of the campusbooks.com privacy policy that was archived on 2009-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617050350id_/http%3A//www.campusbooks.com/legal/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the campusbooks.com privacy policy that was archived on 2010-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100515154248id_/http%3A//www.campusbooks.com/legal/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 	<meta http-equiv="Content-Language" content="en-us">
-	
 	<title>CampusBooks Privacy Statement</title>
 	
-		<meta name="description" content="CampusBooks Privacy Statement">
+		<meta name="description" content="CampusBooks Privacy Statement - We don't sell your data to anyone, no questions asked!  But here is how we will use it to help you save money.">
 		<meta name="keywords" content="CampusBooks Privacy Statement">
 		
 	<!-- CSS -->
-	<link href="/_css/cb.styles.css?20080815" rel="stylesheet" type="text/css" media="screen,projection">
-	<link href="/_css/cb.legacy.css?20080815" rel="stylesheet" type="text/css" media="screen,projection">
+	<link href="/_css/styles.global.css?20090815" rel="stylesheet" type="text/css" media="screen,projection">
+	<link href="/_css/cb.legacy.css?20090815" rel="stylesheet" type="text/css" media="screen,projection">
+	<!--link href="/design200908/styles.navigation.css" rel="stylesheet" type="text/css" media="screen,projection" />
+	<link href="/design200908/styles.navigation-light.css" rel="stylesheet" type="text/css" media="screen,projection" /-->
 	
 	<!-- Javascript -->
-	<script type="text/javascript" src="/_js/jquery.js"></script>
-	<script type="text/javascript" src="/_js/jquery.global.js?20081221"></script>
-	<script type="text/javascript" src="/_js/legacy.js"></script>
+	<script type="text/javascript" src="/_js/jquery.js?20090810"></script>
+	<script type="text/javascript" src="/_js/jquery.global.js?20090810"></script>
+	<script type="text/javascript" src="/_js/legacy.js?20090810"></script>
 	
 </head>
 
-<body id="campusbooks-com">
+<body id="campusbooks-com" class=" legal">
 
 <!-- BEGIN: site-wrapper -->
 <div id="site-wrapper">
@@ -33,9 +34,8 @@
 	<!-- END: site-branding -->
 	
 	<!-- BEGIN: form-container -->
-	<div id="form-container">
-		
-				<form action="/books/search.php" method="get" onsubmit="return validateISBN(this)" id="form-simple"> 
+    	<div id="form-container">
+		<!--form action="/books/search.php" method="get" onsubmit="return validateISBN(this)" id="form-simple"> 
 			
 			<p class="form-heading">Search</p>
 			
@@ -53,17 +53,15 @@
 			</p> 
 		
 			<p class="input-text">
-			<label for="q" style="display: none;">ISBN, Title, Author or Keyword</label>
-			<input name="q" id="q" class="field labelPlaceholder" type="text"> 
+			<input name="q" id="q" class="field" type="text" class="{ defaultvalue: 'ISBN, Title, Author or Keyword' }" /> 
 			</p> 
 		
 			</fieldset>
 			
-			<p id="search-submit"><input type="image" name="submit" src="/images/forms/btn.search-textbooks-simple.png" alt="Search Textbooks" class="submit"> <a href="/books/advanced_search.php" title="Advanced Search" class="advanced-search">Advanced Search</a></p>
+			<p id="search-submit"><input type="image" name="submit" src="/images/forms/btn.search-textbooks-simple.png" alt="Search Textbooks" class="submit" /> <a href="/books/advanced_search.php" title="Advanced Search" class="advanced-search">Advanced Search</a></p>
 	
-		</form>
-			</div>
-        <a href="/college_scholarship.php"><img style="padding-left:10px;" src="/images/ads/green-scholarship-banner-850x50.png" alt="Being Green Scholarship"></a>
+		</form-->
+	</div>
     	<!-- END: form-container -->
 	
 	<!-- BEGIN: site-content -->
@@ -203,33 +201,37 @@ San Diego , CA 92122<br>
 858-625-4633<br>
 <a href="mailto:help@campusbooks.com">help@campusbooks.com</a></p>
 <!-- end article content -->
-	</div>
-	<!-- END: site-content -->
-	
-	<hr class="divider">
-	
-	<!-- BEGIN: site-navigation -->
-	<div id="site-navigation">
-		
-		<ul id="nav-main">
-			<li id="nav-buy"><a href="/books/buy.php" rel="textbook-buy.html">Buy Textbooks</a></li>
-			<li id="nav-sell"><a href="/books/sell.php" rel="textbook-sell.html?20081125">Sell Textbooks</a></li>
-			<li id="nav-blog"><a href="/blog/">Textbok Blog</a></li>
-						<li id="nav-bookbag"><a href="/account/bookbag.php" rel="bookbag-container"><span>My Bookbag</span> <em>0 items</em></a></li>
+    </div>
+    <!-- END: site-content -->
+        
+    <script language="javascript" type="text/javascript">
+        var bookbag_count = 0    </script>
+
+    <!-- BEGIN: site-navigation -->
+    <div id="site-navigation">
+		<ul id="navigation-main">
+			<li id="navigation-home"><a href="/">Home</a></li>
+			<li id="navigation-buy"><a href="/books/buy.php">Buy Textbooks</a></li>
+			<li id="navigation-sell"><a href="/books/sell.php">Sell Textbooks</a></li>
+			<li id="navigation-search">
+				<form action="/books/search.php" method="post" id="navigation-searchbox">
+					<input type="hidden" name="search_type" id="search_type" value="single">
+					<input type="hidden" name="isbn" id="isbn" value="">
+					<input name="keywords" id="keywords2" type="text" class="navsearch-text { defaultvalue: 'ISBN, Title, Author or Keyword' } defaultVal defaultVal_default" value="">
+					<input type="image" name="submit" src="/design200908/navigation-search-dark.png" alt="Search Textbooks" class="navsearch-submit">
+				</form>
+			</li>
 		</ul>
 		
-		<p id="nav-sub"><a href="/" title="Textbooks">College Textbooks</a> | <a href="/help/">Help</a> | <a href="/account/login.php">Log In</a></p>
+		<p id="navigation-sub"><a href="/account/bookbag.php" id="navigation-sub-bookbag">Bookbag (0)</a> | <a href="/" title="Textbooks">College Textbooks</a></p>
 		
-	</div>
-	<!-- END: site-navigation -->
-	
-	<hr class="divider">
-	
-	<!-- BEGIN: site-info -->
+    </div>
+    <!-- END: site-navigation -->
+    <!-- BEGIN: site-info -->
 <div id="site-info">
 	
 	<ul>
-		<li id="site-info-shop"><strong>Shop for Textbooks</strong>
+		<li>
 			<ul>
 				<li><a href="/books/buy.php" title="buy textbooks">Buy Cheap Textbooks</a></li>
 				<li><a href="/books/sell.php" title="sell textbooks">Sell Used Textbooks</a></li>
@@ -238,8 +240,7 @@ San Diego , CA 92122<br>
 				<li><a href="/bookdonation.php" title="browse">Donate Your Books</a></li>
 			</ul>
 		</li>
-
-		<li id="site-info-myStuff"><strong>My Stuff</strong>
+		<li>
 			<ul>
 				<li><a href="/account/bookbag.php" title="book bag">My Bookbag</a></li>
 								<li><a href="/account/" title="account">My Account</a></li>
@@ -249,46 +250,38 @@ San Diego , CA 92122<br>
 			</ul>
 		</li>
 	
-		<li id="site-info-tools"><strong>Like Our Site?</strong>
+		<li>
 			<ul>
 								<li><a href="/company/link_to.php" title="Link to Campusbooks">Link To Us</a></li>
+				<li><a href="/iphone/" title="iBookstore iPhone App">iPhone App</a></li>
 												<li><a href="/" title="Bookmark Campusbooks" onclick="window.external.AddFavorite(&quot;http://www.campusbooks.com/?bookmark&quot;,&quot;Campusbooks.com - Cheap Textbooks&quot;)">Bookmark Us</a></li>
 												<li><a href="/company/tell_a_friend.php" title="tell a friend">Tell A Friend</a></li>
 								<li><a href="/college_bookstores/" title="Campus bookstore directory">Campus Bookstore Directory</a></li>
 			</ul>
+		</li>
+		<li>
 			<ul>
 				<li><a href="/blog/" title="blog">Textbook Blog</a></li>
-				<li><a href="/company/press.php" title="press">Press</a></li>
+								<li><a href="/on-the-go/" title="On-The-Go">On-The-Go</a></li>
+                				<li><a href="/company/press.php" title="press">Press</a></li>
 								<li><a href="/company/affiliates.php" title="Affiliates">Affiliates</a></li>
 								<li><a href="/company/contact.php" title="Feedback">Feedback</a></li>
 			</ul>
 		</li>
 	</ul>
 	
-	<hr class="divider">
+	<form action="/books/search.php" method="post" id="navigation-searchbox">
+		<input type="hidden" name="search_type" id="search_type" value="single">
+		<p>
+			<input name="keywords" type="text" class="navsearch-text { defaultvalue: 'ISBN, Title, Author or Keyword' } defaultVal defaultVal_default" value=""><input type="image" name="submit" src="/design200908/navigation-search-dark.png" alt="Search Textbooks" class="navsearch-submit">
+		</p>
+	</form>
 	
-	<p>Content Copyright © 1999-2009 <a href="/legal/disclaimer.php" title="Terms and Conditions">Terms and Conditions of Use</a>, <a href="/legal/security.php" title="Security">Security</a> and <a href="/legal/privacy.php" title="Privacy">Privacy Policy</a> | Resources: <a href="/help/resources_1.php" title="Resources">1</a> <a href="/help/resources_2.php" title="Resources">2</a> <a href="/help/resources_3.php" title="Resources">3</a> | <a href="/sitemap.php" title="Site Map">Site Map</a></p>	
+	<p>Content Copyright © 1999-2010 <a href="/legal/disclaimer.php" title="Terms and Conditions">Terms and Conditions of Use</a>, <a href="/legal/security.php" title="Security">Security</a> and <a href="/legal/privacy.php" title="Privacy">Privacy Policy</a> | Resources: <a href="/help/resources_1.php" title="Resources">1</a> <a href="/help/resources_2.php" title="Resources">2</a> <a href="/help/resources_3.php" title="Resources">3</a> | <a href="/sitemap.php" title="Site Map">Site Map</a></p>	
 </div>
 <!-- END: site-info -->
-	
-	<!-- BEGIN: bookbag -->
-<div id="bookbag-container" style="display: none;">
-	<div id="bookbag">
-		<p class="form-heading">Your Bookbag</p>
-				<p class="heading-h4">Your Bookbag is now empty</p>
-
-		<p>
-		Use your bookbag to search for multiple books at one time.<br>
-		Find the best prices for all your textbook needs in one easy search.<br><br>
-
-		To add an item simply select <strong>"Add to My Bookbag"</strong>.
-		</p>
-				
-	</div>
-</div>
-<!-- END: bookbag -->
-	
-</div>
+    
+<div id="searching" style="position: absolute; top: 0px; left: -9999px;"><img src="/design200908/ajax-loader-16.gif" width="16" height="16"></div><div id="search-container"></div></div>
 <!-- END: site-wrapper -->
 
 <p><a href="#"><img src="/images/copyscape.jpg" alt="CopyScape"></a></p>
@@ -308,4 +301,4 @@ pageTracker._trackPageview();
 
 
 
-  <div id="facebox" style="display:none;">     <div class="popup">       <table>         <tbody>           <tr>             <td class="tl"></td><td class="b"></td><td class="tr"></td>           </tr>           <tr>             <td class="b"></td>             <td class="body">               <div class="content">               </div>               <div class="footer">                 <a href="#" class="close">                   <img src="/images/facebox.closelabel.gif" title="close" class="close_image">                 </a>               </div>             </td>             <td class="b"></td>           </tr>           <tr>             <td class="bl"></td><td class="b"></td><td class="br"></td>           </tr>         </tbody>       </table>     </div>   </div></body></html>
+  <div id="facebox" style="display:none;">     <div class="popup">       <table>         <tbody>           <tr>             <td class="tl"></td><td class="b"></td><td class="tr"></td>           </tr>           <tr>             <td class="b"></td>             <td class="body">               <div class="content">               </div>               <div class="footer">                 <a href="#" class="close">                   <img src="/images/facebox.closelabel.png" title="close" class="close_image">                 </a>               </div>             </td>             <td class="b"></td>           </tr>           <tr>             <td class="bl"></td><td class="b"></td><td class="br"></td>           </tr>         </tbody>       </table>     </div>   </div><div class="jInfoContainer"><div class="jInfoContainer_Content"></div><img src="/images/jinfo-ajax-loader.png" width="32" height="32" class="jInfoContainer_Loading"></div></body></html>
