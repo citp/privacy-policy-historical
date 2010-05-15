@@ -1,45 +1,118 @@
-> *The following text is extracted and transformed from the thehungergames.co.uk privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619202314id_/http%3A//www.scholastic.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehungergames.co.uk privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515061540id_/http%3A//www.scholastic.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Our Privacy Policy - Scholastic UK - Children's Books, Book Clubs, Book Fairs and Teacher Resources
 
-This Privacy Policy applies to our online practices only.
+## SCHOLASTIC.CO.UK   
+PRIVACY POLICY
 
-The following policy applies to the SCHOLASTIC.CO.UK site and its subsidiary sites.
+Please read the following Privacy Policy (“Privacy Policy”) carefully before submitting any details via www.scholastic.co.uk (the “Website”).
 
-Scholastic UK Ltd respects the privacy and security of its online visitors and is registered under the relevant Data Protection Legislation. This policy statement provides our visitors with an overview of the measures we have taken to provide a safe environment for everyone.
+The Website is owned and operated by Scholastic Limited, a limited liability company registered in England and Wales with registered number 00701339 and registered office at Westfield Road, Southam, Leamington Spa, Warwick CV74 0RA. We are registered in the UK for Data Protection purposes and our registered number is Z5371983.
 
-### PERSONALLY IDENTIFIABLE INFORMATION
+The terms “we”, “our”, “us” when used in this Privacy Policy means Scholastic Limited (“Scholastic”).
 
-We consider the following, among other things, to be personally identifiable information: initials and surname, e-mail address, postal address (including postcode) and phone number. We may request such information from our visitors to process and fulfill orders for products or services.
+The terms “you”, “your” and “yours” when used in this Privacy Policy, means you as a user of the Website.
 
-In order to provide you with the best possible service, Scholastic UK Ltd has made its policy to monitor member’s use of our web sites and collect certain personal information. When you enrol for one of our book clubs online, Scholastic UK Ltd will store your e-mail address along with any other information you may provide. When you use further facilities available on the web sites, we may need to collect further information about you. This information may include, but is not limited to, details such as your name, postal address, your credit card details and if applicable your school, school address and telephone number..
+### OVERVIEW
 
-We may use this personally identifiable information to customise the content on SCHOLASTIC.CO.UK and its subsidiary sites, to such visitors’ current and future needs and to process any applications or transactions undertaken by you and for internal administration and analysis.
+Scholastic respects the privacy and security of visitors to the Website and is committed to protecting your privacy. This policy describes our practices regarding the use of any personal information we collect from you via the Website or you provide to us and gives an overview of the measures we have taken to provide a safe environment for you.
 
-Scholastic UK does not sell, rent, or disclose any information to third parties for their marketing purposes.
+### CHANGES TO THE PRIVACY POLICY
 
-Scholastic aims to ensure that the personally identifiable information we retain is accurate, complete and up-to-date. If customers believe we do not hold the most accurate information they are asked to [contact us](mailto:enquiries@scholastic.co.uk?subject=Please%20amend%20my%20customer%20details) (tel 0845 603 9091 – international (+44) 1993 893475, 8.30am–5.00pm Mon–Fri)
+From time to time, Scholastic may need to make changes to this privacy policy. This may happen as a result of government regulation, new technologies, or other developments in the area of data protection. Any updates to our privacy policy will be clearly posted in this section of the Website. We advise you to regularly review this policy when you visit the Website to keep informed about how Scholastic is safeguarding your privacy.
 
-### NON-PERSONALLY IDENTIFIABLE INFORMATION AND THE USE OF COOKIE TECHNOLOGY
+### 1\. COLLECTION AND USE OF YOUR PERSONAL INFORMATION
 
-We collect non-personally identifiable information through the use of a software technology called “cookies,” and through our visitors’ voluntary submissions to us and/or upon our request. By non-personally identifiable information, we are referring to information about our visitors’ browsers (e.g., Netscape Navigator or Internet Explorer), operating systems (e.g., Windows or Macintosh), Internet service providers (e.g., AOL or NET.COM) and other similar information that we track in aggregate form. The non-personally identifiable information that we track is anonymous and will never be identified with or lead us back to any of our visitors.
+1.1 It will normally be clear when your personal information is being collected. Personal information includes, amongst other things, your name, postal address (including post code), telephone number, email address and credit card details. Where applicable, this information may include the name of your school, school address and telephone number.
 
-Cookie technology helps us to know how many people visit us and where visitors go on our site as well as being the sole means that we can operate our shopping basket feature. Cookies are small bits of information we send to your computer. Among other things, this non-personally identifiable information allows us to know which areas are favourites, which areas need a bit of improvement, or what technologies and Internet services are being used by our visitors so that we may continually improve our visitors’ online experiences.
+1.2 We collect personal information only for specific limited purposes and we only ask for information that is appropriate. We will only collect personal information from you which you have voluntarily provided by completing any subscription, order, registration, enrolment, enquiry or application form on this Website, or which you have sent to us via email, fax or post or which you have provided by telephone or any other means. See also Clause 3 below.
 
-###  USE OF IP ADDRESSES
+1.3 By disclosing your personal information to Scholastic, you agree that we may obtain, hold and use the personal information you provide for the purposes of providing you with our products and/or services and with ancillary services (the “Purposes”). The Purposes for which personal information is collected and processed include, without limitation:
 
-We collect IP addresses to obtain aggregate information on the use of SCHOLASTIC.CO.UK and its subsidiary sites. An IP address is a number assigned to your computer by a Web server when you’re on the Web. When you are on our site, we have a server that logs your computer’s IP address. We only use the information we find out from tracking IP addresses in the aggregate, such as how many users entered a specific area of our site, and not to track a specific IP address to identify an individual user. However, we may use such information to identify a user if we feel that there are or may be safety and/or security issues or to comply with legal requirements.
+(a) responding to any enquiries you have made;
 
-###  SECURITY
+(b) sending you materials and/or information you have requested or products which you have purchased;
 
-Scholastic UK Ltd ensures that all personally and non-personally identifiable information that it receives via the Internet is secure against unauthorised access. This information is kept in a safe and secure system isolated from direct connection to the Internet. We may disclose personally identifiable information to service providers who manage aspects of our operations. We will give out personal information as required by law, or to assist in criminal investigations. We may also give out personal information when we deem it advisable in order to protect the safety and security of our sites and visitors to our sites.
+(c) performing our obligations in relation to any agreement you have with us;
 
-###  WHY WE ARE SAFE
+(d) conducting contests, competitions or promotions;
 
-Scholastic uses secure server software over a 128bit Secure Socket Layer (SSL) line to protect your credit card information. It encrypts all of your personal and credit card information so that this information cannot be read as it travels to our ordering system, and once it is received, it is stored in a location not accessible via the Internet and then destroyed after the successful completion of the transaction.
+(e) enabling you to submit contributions to us and/or to the Website;
 
-By disclosing your information to Scholastic UK Ltd, you agree to the collection, storage and processing of your personal information in the manner set out here.
+(f) to customise and improve the content on the Website or any other websites which are part of the Scholastic Group and/or to improve our products and services to respond to your current and future needs and interests;
 
-If you have any queries regarding this privacy policy then please contact us via our Customer Services department
+(g) contacting you if we change our products or services or terms or if we need to give you notice of them;
 
-Scholastic UK Ltd. Registered in England No. 701339, at Scholastic Ltd, Westfield Road, Southam, Warwickshire, CV47 0RA, Company number 701339, Customer Care: 01993 893475
+(h) for the purpose of marketing our other products and services to you (by email or post,) unless you indicate otherwise during the submission process (e.g. by ticking the relevant boxes that are provided) or by subsequently notifying us as set out in Clause 1.4 that you do not wish to receive such material;
+
+(i) for accounting purposes and internal administration and analysis;
+
+(j) for the prevention of fraud; and
+
+(k) for any purpose required by law or regulation.
+
+1.4 If you wish to unsubscribe from emails and/or other communications sent by Scholastic, you may do so at any time by clicking on the “unsubscribe” link that appears in all email messages or by contacting us at Scholastic Ltd, FREEPOST (SCE 2665), Windrush Park, Range Road, Witney, OXON, OX29 0YZ. Tel: 0845 6039091 (LoCall call rate) or email “enquiries@scholastic.co.uk”mailto:enquiries@scholastic.co.uk.
+
+1.5 The processing of your personal information may involve its transfer to a country or territory outside the European Economic Area, which may not provide the same protection for your personal information, and you agree to such transfer.
+
+### 2\. DISCLOSURE OF PERSONAL INFORMATION
+
+2.1 Subject to clauses 2.2, 2.3, 2.4 and 2.5, we do not share, sell, rent or distribute personal data to or with third parties unless the transfer of such information to third parties is strictly necessary for the performance of the Purposes (e.g. for fulfilling your order for a magazine subscription) and will not disclose personal information to third parties for their own marketing purposes unless you have consented to this.
+
+2.2 We may share personal information with other companies within the Scholastic Group of companies which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985 We may disclose personal information to service providers who manage aspects of our operations. We may also disclose personal information to third parties when we consider it necessary for the purpose of maintaining the safety and security of the Website.
+
+2.3 In the future, we may sell our business or assets. Personal information is usually considered an asset in such transactions. We may disclose, transfer, sell, assign or licence any of the information described above, including personally identifiable information, to third parties as a result of or in preparation for the sale, merger, consolidation, change in control, transfer of substantial assets, reorganisation or liquidation of Scholastic and you consent to such disclosure, transfer, sale, assignment or licence.
+
+2.4 We may share your personal information with other companies where you have expressly consented to this.
+
+2.5 We may disclose your personal information if we are under a duty to disclose or share your personal data in order to comply with any legal obligation or to enforce our Website terms and conditions [link], terms of sale [link] or to protect the rights, property or safety of Scholastic, our customers or others. This includes exchanging information with our companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+### 3\. COOKIES AND IP ADDRESSES
+
+3.1 In addition to asking you to submit personal information, we may collect information about you automatically when you visit the Website. This information is not normally personally identifiable. Such information includes general information about your computer settings, your connection to the internet (i.e. your Internet Service Provider), your IP address (this is the number assigned to your computer by a web server when you are on the internet), your geographical location, your operating system, your browsing patterns, the pages you visit and documents downloaded. [We analyse such information in the aggregate and will not use it for the purpose of identifying you (except that we may use such information to identify a visitor if we consider that there are or may be safety or security issues or to comply with relevant laws and regulations).
+
+3.2 We may collect this information through the use of software technology called “cookies”. Cookies are small bits of information which are sent to your computer’s hard drive when you first visit the Website, and which allow us to identify your computer (but not you) the next time you visit the Website. We may use the information collected in this way to (i) identify what technologies and internet services are being used by our visitors and (ii) track usage of the Website so that we can adapt the Website to ensure that it better suits your needs and interests.
+
+3.3 Most internet browsers give you the option to reject all cookies, accept all cookies, erase cookies stored on your computer or be notified before a cookie is stored on your computer. Your ease of use of the Website may be reduced if you reject all cookies. You will need to refer to your internet browser instructions to find out more about these options and how to use them.
+
+3.4 Please note that any advertiser may also use cookies in the advertisements which they place on the Website. We have no control over this.
+
+### 4\. SECURITY
+
+4.1 We have implemented industry standard measures that aim to safeguard the security of your personal information against loss, misuse and unauthorised access or alteration. However, no data transmission over the internet can ever be entirely secure. While we will always use reasonable endeavours to protect your personal information, we cannot guarantee the security of your personal information submitted via the Website and any transmission is at your own risk.
+
+4.2 We use secure server software over a Secure Socket Layer (SSL) line to protect your credit card information. It encrypts all of your personal and credit card information so that it cannot be read as it progresses through our ordering system. Once this information is received, it is stored in a location isolated from the internet.
+
+4.3 We do not require you to register in order to access the Website. However, certain parts of this Website are secure and only available once you have registered and chosen a unique password. You will be responsible for all use, access and communications to this Website utilising such password whether or not such use, access or communications are authorised by you. As a result, please keep your password safe.
+
+### 5\. MONITORING EMAILS
+
+We may monitor and/or keep records of email communications which you send us in the interests of our business and in accordance with this policy.
+
+### 6\. LINKS TO OTHER SITES
+
+Visitors will find links from the Website to third party sites that are not operated by us including links to and from the websites of our partner networks, advertisers and affiliates. Where we provide such links, we do so for information purposes only. Please be aware that we are not responsible for the practices or content of such other sites which will/should have their own privacy policies. We do not accept any responsibility or liability for these policies. We recommend that children check with their parents before clicking through to any third party sites, and we encourage all users of this Website to read the privacy policies of all linked sites before navigating through them and submitting any personal data.
+
+###  7\. ACCESS TO INFORMATION
+
+7.1 You have the right to ask us not to process your personal data for marketing purposes. We will inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at enquiries@scholastic.co.uk.
+
+7.2 You can ask to review the personal information we hold about you and ask us to change or delete any of this information. You can do this by contacting us by email on enquiries@scholastic.co.uk or by writing to Customer Services, Scholastic Ltd, FREEPOST (SCE 2665), Windrush Park, Range Road, Witney, OXON, OX29 0YZ. Tel: 0845 6039091 (LoCall call rate).
+
+7.3 We may charge a small administration fee in relation to any requests for access to personal information.
+
+7.4 Please also help us to keep you personal information current and accurate by contacting us if your personal information becomes out of date. Please contact us at [enquiries@scholastic.co.uk](mailto:enquiries@scholastic.o.uk) Scholastic Ltd, FREEPOST (SCE 2665), Windrush Park, Range Road, Witney, OXON, OX29 0YZ. Tel: 0845 6039091 (LoCall call rate) or email enquiries@scholastic.co.uk. Alternatively you can update your profile by accessing your account page [insert link] and changing your profile online.
+
+7.5 The data controller collecting the information described in this Privacy Policy is Scholastic Limited. We are registered on the Data Protection Register under number Z5371983 Please visit the Information Commissioner’s website at www.dataprotection.gov.uk for more information on the Data Protection Act and the Information Commissioner.
+
+### 8\. PARENTS
+
+8.1 Scholastic is committed to the safety and privacy of children who visit and participate in the Website. For those activities that require us to collect personal information (e.g. competitions), we will only collect personal information which is necessary to enable us to administer the relevant activity.
+
+8.2 In posting competition winners’ names on the Website it is our policy to indicate no more than a child’s first name, first initial of last name, county, age or year group. We encourage parents and guardians to watch over their children’s online use. Please educate your children to always ask for your permission before they provide personal information.
+
+### 9\. CHILDREN
+
+9.1 Remember to be smart and safe online. Always ask your parent or guardian for permission before you give out any personal information. This could include your name, email address, home address, telephone number, where you go to school or any other information about yourself that would enable someone to contact you either online or offline.
+
+9.2 From time to time we run online competitions for you to enter. Always remember to ask your parent or guardian for permission before entering any competition on this Website.
