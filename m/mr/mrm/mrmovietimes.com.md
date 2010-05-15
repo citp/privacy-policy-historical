@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mrmovietimes.com privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822052731id_/http%3A//www.mrmovietimes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrmovietimes.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515052951id_/http%3A//www.mrmovietimes.com/privacy-policy.html) for the most accurate reproduction.*
 
-# MovieTimes.com: Movie Listings, Tickets and Reviews
+# Privacy Policy - Movietimes.com
 
-[www.movietimes.com](https://web.archive.org/web/20090822052731id_/http%3A//www.mrmovietimes.com/www.movietimes.com) & [www.mrmovietimes.com](https://web.archive.org/web/20090822052731id_/http%3A//www.mrmovietimes.com/www.mrmovietimes.com) (the "Site")
+[www.movietimes.com](https://web.archive.org/web/20100515052951id_/http%3A//www.mrmovietimes.com/www.movietimes.com) & [www.mrmovietimes.com](https://web.archive.org/web/20100515052951id_/http%3A//www.mrmovietimes.com/www.mrmovietimes.com) (the "Site")
 
 This privacy policy was last modified on June 11, 2009. 
 
