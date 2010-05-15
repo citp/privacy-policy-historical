@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spaweek.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527015647id_/http%3A//www.spaweek.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spaweek.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515060056id_/http%3A//www.spaweek.com/privacy) for the most accurate reproduction.*
 
-# SPA WEEK
+# Spa Week Media - Private Policy
 
 Spa Week Media Group, Ltd. Privacy Policy
 
@@ -38,7 +38,3 @@ Our computer systems are currently based in the United States, so your personal 
 If you have any questions regarding this Privacy Policy please contact us via email at [info@spaweek.com](mailto:info@spaweek.com)
 
 This Privacy Policy is effective as of: August 21, 2008
-
-|  [](https://web.archive.org/content/bridal)[](https://web.archive.org/content/promo/spamom)[](https://web.archive.org/content/promo/azfoothills)[](https://web.archive.org/content/promo/jane)[](https://web.archive.org/content/promo/allure0509) [](https://web.archive.org/spa-gift-cards/)
-
-[](http://www.spaandresortexpony.com/SW)
