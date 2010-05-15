@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the three.co.uk privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502135622id_/http%3A//www.three.co.uk/Help_Support/Terms_and_Conditions%3Fcontent_aid%3D1214305745043) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the three.co.uk privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516000630id_/http%3A//www.three.co.uk/Help_Support/Terms_and_Conditions%3Fcontent_aid%3D1214305745043) for the most accurate reproduction.*
 
 # 3 - Help & Support - Terms and Conditions
 
