@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hostrail.com privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224190455id_/https%3A//hostrail.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostrail.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515095511id_/https%3A//hostrail.com/privacy.php) for the most accurate reproduction.*
 
-# HostRail - HostRail Privacy Policy
+# HostRail - Privacy Policy
 
 **Introduction**  
 HostRail.com is committed to protecting any data that we collect concerning you, your business and your associates. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy. 
