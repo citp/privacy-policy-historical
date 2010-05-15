@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baikalglobal.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614041509id_/http%3A//www.baikalglobal.com/global/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baikalglobal.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515131624id_/http%3A//www.baikalglobal.com/global/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy policy - London Stock Exchange
 
