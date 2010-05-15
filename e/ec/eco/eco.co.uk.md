@@ -1,117 +1,111 @@
-> *The following text is extracted and transformed from the eco.co.uk privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221061417id_/http%3A//www.eco.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eco.co.uk privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515215734id_/http%3A//www.eco.co.uk/p/privacy/20) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - EC&O Venues | Event Venues in London | Conference centres in London | Exhibition halls in London
 
-**Earls Court and Olympia Limited** ("we", "us" or "our" for short) are registered to collect and process personal data under the Data Protection Act 1998 (the "Act" for short). Earls Court and Olympia Limited are data controllers of your personal information for the purposes of the Act. If you want to know what personal information we hold about you, please write to us at **data.protection at eco.co.uk**. 
+**Earls Court and Olympia Limited** ("we", "us" or "our" for short) are registered to collect and process personal data under the Data Protection Act 1998 (the "Act" for short). Earls Court and Olympia Limited are data controllers of your personal information for the purposes of the Act. If you want to know what personal information we hold about you, please write to us at **data.protection at eco.co.uk**.
 
   
-**We respect and safeguard the privacy of the users of eco.co.uk** ("the website"). This Privacy Policy outlines how we will do this, how we will collect and use your personal information (such as your name, date of birth, your email address, mobile telephone number or other contact details) and how you can limit our use of this. Please read this Privacy Policy carefully which should be read together with our [website terms and conditions](https://web.archive.org/terms-and-conditions/). 
+**We respect and safeguard the privacy of the users of eco.co.uk** ("the website"). This Privacy Policy outlines how we will do this, how we will collect and use your personal information (such as your name, date of birth, your email address, mobile telephone number or other contact details) and how you can limit our use of this. Please read this Privacy Policy carefully which should be read together with our website terms and conditions.
 
 ####   
-What information do we gather? 
+What information do we gather?
 
   
-Information is gathered in two ways: (1) indirectly (for example, through our website's technology); and (2) directly (for example, when you provide information on various pages of the website). 
+Information is gathered in two ways: (1) indirectly (for example, through our website's technology); and (2) directly (for example, when you provide information on various pages of the website).
 
   
-One example of information we collect indirectly is through Internet access logs. When you access the website, your numeric internet address is automatically collected and is placed in our Internet access logs. 
+One example of information we collect indirectly is through Internet access logs. When you access the website, your numeric internet address is automatically collected and is placed in our Internet access logs.
 
   
-We collect information directly from you in a number of ways, one of which is through the use of cookies. We use cookies to remember you when you visit this website to keep track of your browsing patterns and to build up a profile of how you and other users use the website. A cookie is a small piece of information sent by a web server to the web browser, which enable the web server to collect information from the browser. Find out more about the use of cookies on http://www.cookiecentral.com. 
+We collect information directly from you in a number of ways, one of which is through the use of cookies. We use cookies to remember you when you visit this website to keep track of your browsing patterns and to build up a profile of how you and other users use the website. A cookie is a small piece of information sent by a web server to the web browser, which enable the web server to collect information from the browser. Find out more about the use of cookies on http://www.cookiecentral.com.
 
   
-Most browsers allow you to turn off cookies. If you want to know how to do this please look at the help menu on your browser. However, switching off cookies may restrict your use of the website and/or delay or affect the way in which the website operates. 
+Most browsers allow you to turn off cookies. If you want to know how to do this please look at the help menu on your browser. However, switching off cookies may restrict your use of the website and/or delay or affect the way in which the website operates.
 
   
-We also collect information when you voluntarily submit it to us. On our website, we provide you with the opportunity to register for various services, register for email newsletters, enter promotions and competitions, book parking, purchase products and participate in online surveys. Throughout the website we give you the opportunity to take up various offers, enter various competitions and promotions and to apply for various information about products and services. When we collect your information in this way, we will notify you as to how this information will be used. We will also provide you with the opportunity to indicate your preferences as to the use of your information. 
+We also collect information when you voluntarily submit it to us. On our website, we provide you with the opportunity to register for various services, register for email newsletters, enter promotions and competitions, book parking, purchase products and participate in online surveys. Throughout the website we give you the opportunity to take up various offers, enter various competitions and promotions and to apply for various information about products and services. When we collect your information in this way, we will notify you as to how this information will be used. We will also provide you with the opportunity to indicate your preferences as to the use of your information.
 
 ####   
-Third party advertising cookies 
+Third party advertising cookies
 
   
-Some of the advertisements you see on the website are generated by third parties. Some of these third parties generate their own cookies to track how many people have seen a particular advertisement (or use the services of third parties to do this), and to track how many people have seen it more than once. These cookies cannot be used to identify an individual; they can only be used for statistical purposes, for example, in providing you with advertisements that are more relevant to your interests. Some of the information gleaned from third party cookies will be aggregated with other anonymous information for statistical purposes. The third party companies that generate these cookies have their own, very strict, privacy policies but we don't have access to these cookies; other than allowing them to be served, we have no role to play in these cookies at all (although we may use statistical information arising from these third party cookies and provided to us by third parties, to improve the targeting of advertisements to users of the website). 
+Some of the advertisements you see on the website are generated by third parties. Some of these third parties generate their own cookies to track how many people have seen a particular advertisement (or use the services of third parties to do this), and to track how many people have seen it more than once. These cookies cannot be used to identify an individual; they can only be used for statistical purposes, for example, in providing you with advertisements that are more relevant to your interests. Some of the information gleaned from third party cookies will be aggregated with other anonymous information for statistical purposes. The third party companies that generate these cookies have their own, very strict, privacy policies but we don't have access to these cookies; other than allowing them to be served, we have no role to play in these cookies at all (although we may use statistical information arising from these third party cookies and provided to us by third parties, to improve the targeting of advertisements to users of the website).
 
   
-If you would like to disable "third party" cookies generated by advertisers or providers of targeted advertising services, you can turn them off by going to the third party's website and getting them to generate a one-time "no thanks" cookie that will stop any further cookies being written to your machine. Here is a link to a typical main third party advertising platform, which have instructions on how to do this: 
+If you would like to disable "third party" cookies generated by advertisers or providers of targeted advertising services, you can turn them off by going to the third party's website and getting them to generate a one-time "no thanks" cookie that will stop any further cookies being written to your machine. Here is a link to a typical main third party advertising platform, which have instructions on how to do this:
 
   
-http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookie/ 
+http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookie/
 
   
-You can also visit the trade body representing these advertising bodies for more information on how to opt out of these cookies: 
+You can also visit the trade body representing these advertising bodies for more information on how to opt out of these cookies:
 
   
 http://www.networkadvertising.org/optout_nonppii.asp   
  
 
 ####   
-Use of your information 
+Use of your information
 
   
 The password you provide when registering with the website is encrypted to ensure protection against unauthorised access to your personal information.   
-We invest in high-quality security and do our utmost to protect user privacy. No data transmission over the Internet can be entirely secure, and therefore we cannot guarantee the security of your personal information and/or use of the website. Any information that you send is at your own risk and may be read by others. However once we have received your personal information we use strict procedures to protect the security of your personal information.   
+We invest in high-quality security and do our utmost to protect user privacy. No data transmission over the Internet can be entirely secure, and therefore we cannot guarantee the security of your personal information and/or use of the website. Any information that you send is at your own risk and may be read by others. However once we have received your personal information we use strict procedures to protect the security of your personal information.
 
-
-Any personal information gathered by or supplied to us via the website or the Newspapers will be used in accordance with this Privacy Policy, in accordance with your wishes as indicated to us and in accordance with the Act. 
+Any personal information gathered by or supplied to us via the website or the Newspapers will be used in accordance with this Privacy Policy, in accordance with your wishes as indicated to us and in accordance with the Act.
 
   
-We may use your personal information to: 
+We may use your personal information to:
 
-  * contact you by email to let you know about any of our products, services or promotions (which, in some cases may be provided by third parties) which may be of interest to you unless you have asked us not to. Where we contact you about these items by email, text message, or similar electronic means we will only do this with your permission 
-  * ensure materials on the website are presented in the most effective manner for you and your computer. 
-  * improve the website and to monitor website usage.   
-
-
+  * contact you by email to let you know about any of our products, services or promotions (which, in some cases may be provided by third parties) which may be of interest to you unless you have asked us not to. Where we contact you about these items by email, text message, or similar electronic means we will only do this with your permission
+  * ensure materials on the website are presented in the most effective manner for you and your computer.
+  * improve the website and to monitor website usage.
 
 
-You may modify your preferences or get further information by writing to us at Data Department, Earls Court and Olympia Limited, Earls Court Exhibition Centre, London, SW5 9TA or by email to data.protection at eco.co.uk 
 
-Your wishes will be honoured. 
+You may modify your preferences or get further information by writing to us at Data Department, Earls Court and Olympia Limited, Earls Court Exhibition Centre, London, SW5 9TA or by email to data.protection at eco.co.uk
+
+Your wishes will be honoured.
 
 ####   
-Disclosing your information 
+Disclosing your information
 
   
-We may disclose your personal information if required to do so by law or in good-faith believing such action is necessary to comply with the law. We will not sell or otherwise share your personal information with third parties without your consent except in the following instances:   
+We may disclose your personal information if required to do so by law or in good-faith believing such action is necessary to comply with the law. We will not sell or otherwise share your personal information with third parties without your consent except in the following instances:
 
-
-  * unless required by applicable law or if we are ordered to do so by a court or other similar body; 
-  * as we may think necessary to protect our legal rights, a registered user or third party, or to prevent personal injury; and/or 
-  * where we are approached by a potential buyer of our business and/or assets or in relation to any joint venture or other business arrangement. In such circumstances we will be able to pass on your personal information to such third party's advisors and to any prospective buyer, as well as to any other relevant parties. 
+  * unless required by applicable law or if we are ordered to do so by a court or other similar body;
+  * as we may think necessary to protect our legal rights, a registered user or third party, or to prevent personal injury; and/or
+  * where we are approached by a potential buyer of our business and/or assets or in relation to any joint venture or other business arrangement. In such circumstances we will be able to pass on your personal information to such third party's advisors and to any prospective buyer, as well as to any other relevant parties.
 
 
 
 ####   
-Accessing and updating your personal information 
+Accessing and updating your personal information
 
   
-You have the right to access the personal information held about you. To obtain a copy of the personal information we hold about you, please send an email to data.protection at eco.co.uk. 
+You have the right to access the personal information held about you. To obtain a copy of the personal information we hold about you, please send an email to data.protection at eco.co.uk.
 
   
-There will be an administrative charge of £10 for providing a copy of this information. 
+There will be an administrative charge of £10 for providing a copy of this information.
 
 ####   
-How do I change my personal details?   
+How do I change my personal details?
 
-
-We want to ensure that we provide you with the best possible service. Please therefore always keep us updated of any changes to your personal information, for example, if your email address changes. You can do this by accessing your account pages on the website or by emailing data.protection at eco.co.uk. 
-
-####   
-What does providing us with this information mean? 
-
-  
-By giving us personal information about you, you agree that your personal information can be used as set out in this Privacy Policy. If we change the Privacy Policy, we will post the changes on this page. Please check the website regularly for any changes to this Privacy Policy. 
+We want to ensure that we provide you with the best possible service. Please therefore always keep us updated of any changes to your personal information, for example, if your email address changes. You can do this by accessing your account pages on the website or by emailing data.protection at eco.co.uk.
 
 ####   
-If you don't feel we're adhering to this Privacy Policy, what should you do? 
+What does providing us with this information mean?
 
   
-If at any time you believe that we have not adhered to the terms of this Privacy Policy, please notify us by email at data.protection at eco.co.uk and we will make any efforts we can to determine and solve the problem promptly.   
+By giving us personal information about you, you agree that your personal information can be used as set out in this Privacy Policy. If we change the Privacy Policy, we will post the changes on this page. Please check the website regularly for any changes to this Privacy Policy.
 
+####   
+If you don't feel we're adhering to this Privacy Policy, what should you do?
+
+  
+If at any time you believe that we have not adhered to the terms of this Privacy Policy, please notify us by email at data.protection at eco.co.uk and we will make any efforts we can to determine and solve the problem promptly.
 
 _
 
-Privacy policy last updated 23 April 2009
+Privacy policy last updated 3 December 2009
 
-_   
-
+_
