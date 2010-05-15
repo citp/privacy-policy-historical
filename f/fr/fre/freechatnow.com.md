@@ -1,57 +1,37 @@
-> *The following text is extracted and transformed from the freechatnow.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418185716id_/http%3A//www.wiredreality.com/docs/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freechatnow.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515130431id_/http%3A//www.wiredreality.com/privacypolicy.html) for the most accurate reproduction.*
 
-# WiredReality Privacy Policy
+# 
 
-## Privacy Statement for WiredReality 
+**WIRED REALITY LLC - PRIVACY POLICY**  
+_Last Updated: December 15, 2009_
 
-**WiredReality** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for the community of Web sites that are a part of [WiredReality](http://www.wiredreality.com/)
+Wired Reality provides a variety of chat based services through this website and our other affiliated chat-based websites (“ **Wired Reality Websites** ”). This privacy policy describes how we collect, use and protect your information when you visit Wired Reality Websites..
 
-#### Information Automatically Logged 
+ **WHAT INFORMATION IS COLLECTED**  
+When you use Wired Reality’s Websites, we collect Non-Personally Identifiable Information about you. “ **Non-Personally Identifiable Information** ” refers to information that, by itself, does not identify you as a specific individual (e.g. nickname, age, IP address, demographic information, or website visitations). We may collect Non-Personally Identifiable Information from you directly or through the use of standard technologies described further below. **HOW INFORMATION IS COLLECTED**  
+While you are able to visit the Wired Reality Websites and remain anonymous, we, or our third party service providers, may still collect Non-Personally Identifiable Information about your use of the Wired Reality Websites (e.g. your Internet browser, operating system, IP address, connection speed, and the domain name of your Internet service provider). Such information may be gathered by methods such as:
 
-We use your IP address to help diagnose problems with our server and to administer our Web site.  IP's are also used for nickname services to determine the proper owner of the nickname. 
+    1. _Cookies._ Cookies are small pieces of information that are stored by your browser on your computer's hard drive which work by assigning to your computer a unique number that has no meaning outside of the Wired Reality Websites. Most web browsers automatically accept cookies, but you can usually configure your browser to prevent this. Not accepting cookies may make certain features unavailable to you. Other companies' use of their cookies is subject to their own privacy policies,
+    2. _Web Beacons._ Web beacons are small pieces of data that are embedded in web pages and e-mails. We, and our third party partners and affiliates may use Web Beacons within the pages of the Wired Reality Websites./li>
 
-#### Advertisers 
+**HOW INFORMATION IS USED**  
+We use Non-Personally Identifiable Information for the following general purposes: (a) customize the advertising and content you see; (b) improve our services; (c) fulfill requests for additional products and services; (d) conduct research; and (e) provide anonymous reporting for internal and external clients. **HOW INFORMATION IS SHARED AND DISCLOSED**  
+We may share and disclose your Non-Personally Identifiable Information with our partners, but we will not rent, sell, or share information that you may provide to us that is deemed “ **Personally Identifiable Information** ” (e.g. name, address, e-mail) with others except under the following circumstances: 
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we do not use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, [Adtegrity](http://www.adtegrity.com/), and we do not have access to this information.  [Adtegrity's Privacy Policy](http://www.adtegrity.com/privacy.asp)
+    1. To trusted partners who work with us under confidentiality agreements; 
+    2. In responding to subpoenas, court orders, or other legal processes, or to establish or exercise our legal rights or defend against legal claims;
+    3. In order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Wired Reality's Terms of Service [www.wiredreality.com/termsofuse.html](http://www.wiredreality.com/termsofuse.html) or as otherwise required by law.
+    4. In the case we are acquired by or merged with another company. In this event, we will notify you by posting information on Wired Reality Websites.
 
-#### Personal Information 
+**PUBLIC FORUMS**  
+Please be aware that whenever you voluntarily post information through Wired Reality Websites’ public forums, that information will be publically accessible. Always use caution in posting such information as it may be used to send you unsolicited communications. **SECURITY**  
+We take appropriate security measures to protect against unauthorized access or disclosure the information we collect. These include internal reviews of our data collection, storage and processing practices and electronic security measures. **THIRD PARTY LINKS**  
+Wired Reality Websites may contain links to third parties who may provide online or downloadable applications as well as to links to websites outside of our control. These third parties may collect Personally Identifiable Information and Non-Personally Identifiable Information directly from you. In either case, such third parties will have separate privacy policies and data collection practices. 
 
-This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. 
+Wired Reality: (a) has no responsibility or liability for these independent policies or actions; (b) is not responsible for the privacy practices or the content of such websites; and (c) does not make any warranties or representations about the contents, products or services offered on such websites or the security of any information you provide to them. 
 
-Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes. 
-
-#### Teleboards Public Forums 
-
-This site makes chat rooms and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. Teleboards is not intended for members under the age of 13.
-
-#### Children's Guidelines 
-
-**Note:**   These Guidelines come into effect once the ages 7-12 chatroom on [http://www.preteenchat.com](http://www.preteenchat.com/) comes back online.   Currently members under 13 years of age barred from the chatrooms after identifying their age.  Once the chatroom comes back online, members will be taken to a link to the 7-12 chatroom after identifying that they are 12 years of age and under.  When taken to that room, before entry they will need a parent to fax a signed form stating they give their child permission to chat.  After WiredReality checks the form, the child will then be granted access.  Once they are granted access, the following guidelines come into effect:
-
-We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children: 
-
-  1. We will NOT collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent. 
-  2. We will NOT give the child access to chat rooms, that would give the child the ability to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent.
-  3. When verifiable parental consent is not obtained, we will only use the online contact information (such as email) to: 
-    1. Respond directly to the child's request on a one-time basis and not use that information to re-contact the child for other purposes. 
-    2. Request the name or online contact information of a parent for the purpose of obtaining verifiable parental consent or providing parental notification. 
-    3.  
-  4. We will NOT entice the child to divulge more information than is needed to participate in any activity, game, or service. 
-  5. We will provide the parent a description of the specific types of a personally identifiable information collected from their child upon request. We will allow the parent to refuse further use or future online collection of personally identifiable information.
-  6. We will provide notice to children in age appropriate terms of what personally identifiable information is to be collected. 
-  7. We will NOT provide any links to Web sites that are unsuitable for children. 
-  8. We will encourage children to get their parent's permission before sharing personal information online. 
-
-
-
-## Contacting the Web Site 
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-  
-WiredReality Entertainment  
-873 Jane St  
-P.O. Box 98604  
-Toronto, Ontario  
-M6N 5A6
-
-[wiredreality@wiredreality.com ](mailto:wiredreality@wiredreality.com)
+**ADVERTISING**  
+Ads appearing on the Wired Reality Websites may be delivered to you by us or by our advertising partners. This privacy policy does not cover any third party advertisers. Please review the applicable advertiser’s website for their privacy policy. **SPECIAL NOTICE CHILDREN UNDER AGE 13**  
+We do not knowingly collect any Personally Identifiable Information from anyone under the age of 13. If it comes to our attention that Personally Identifiable Information has been collected from a person under the age of 13, we will delete this information as quickly as possible. If you believe that we may have Personally Identifiable Information of a child under the age of 13, please contact us at the e-mail address below. **CHANGES TO THIS PRIVACY POLICY**  
+We strive to ensure your privacy is protected and as a result, this privacy policy may be revised from time to time. In no event will any change result in the degradation of any of the security measures designed to protect you. Significant revisions will be posted on this website and your continued use shall act as acceptance of those terms. **CONTACT US**  
+If you have questions regarding how we protect your information, please contact us at [info[at]wiredreality.com](mailto:info@wiredreality.com). 
