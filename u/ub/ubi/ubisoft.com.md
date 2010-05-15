@@ -1,19 +1,106 @@
-> *The following text is extracted and transformed from the ubisoft.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219013818id_/http%3A//www.ubi.com/US/Info/Info.aspx%3Ftagname%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubisoft.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516005212id_/http%3A//www.ubi.com/US/Info/Info.aspx%3Ftagname%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Ubisoft - Privacy Policy
 
-[ ](https://www.esrb.org/confirm/ubisoft-confirmation.jsp)Ubisoft Inc., Ubisoft Holdings Inc., and its subsidiaries (collectively, “Ubisoft USA” or “Ubisoft” or “we”), respect the privacy rights of our online visitors and recognize the importance of protecting all information that you may choose to share with us. To further this commitment, we have adopted this Online Privacy Policy (“Privacy Policy”) to guide how we collect, store, and use the information you provide us. 
+[ ](https://www.esrb.org/confirm/ubisoft-confirmation.jsp)Ubisoft Inc., Ubisoft Holdings Inc., and its subsidiaries (collectively, “Ubisoft USA” or “Ubisoft” or “we”), respect the privacy rights of our online visitors and recognize the importance of protecting all information that you may choose to share with us. To further this commitment, we have adopted this Online Privacy Policy (“Privacy Policy”) to guide how we collect, store, and use the information you provide us.
 
 This Privacy Statement and the certification seal shown on this page confirm that Ubisoft is a member in good standing of [ESRB’s Privacy Online Program](http://www.esrb.org/privacy.asp) . ESRB’s Privacy Online Program is designed to ensure that our website’s information disclosure practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB. 
 
 **Q1** | **What information does this Privacy Statement cover?**  
 **A1** | 
 
-This Privacy Policy applies only to personal information collected via the playing of Ubisoft's games and demos, and on the websites where this Privacy Policy is posted, and does not apply to any other information collected by Ubisoft through any other means. 
-
 This Privacy Policy applies to use and sharing of personal information collected on and after the date that this Privacy Policy is posted. 
 
-Please note that this Privacy Policy applies only to information submitted and collected online through the websites listed above and via the playing of Ubisoft's games and demos, and does not apply to information that may be collected by Ubisoft offline. This Privacy Policy applies only to Ubisoft's games and demos, and to websites maintained by Ubisoft USA and not to sites maintained by other companies or organizations to which we link including: (i) www.bluebyte.net and other sites operated by the Blue Byte Game Channel; (ii) our parent company, Ubisoft Entertainment S.A.; and, (iii) our international affiliates (e.g., Ubisoft in Japan, Ubisoft in Canada, Ubisoft in the UK, etc.). Ubisoft is therefore not responsible for the content or activities provided on such sites. 
+This Privacy Policy applies to the following websites:
+
+187game.com  
+alexander-thegame.us.ubi.com  
+and1streetballgame.us.ubi.com  
+asphalt2.us.ubi.com/  
+assassinscreed.us.ubi.com  
+Babyz.net  
+beyondgoodevil.com/us/   
+blazing-angels.com  
+blazing-angels.us.ubi.com  
+brothersinarmsgame.com  
+brothersinarmsgame.us.ubi.com  
+callofjuarez.us.ubi.com   
+care.ubi.com  
+chessmaster.com  
+chessmaster.us.ubi.com   
+chessmaster10.ubi.com  
+chronicle.ubi.com  
+cmxi.ubi.com  
+csi.ubi.com  
+csi3game.us.ubi.com  
+csidarkmotives.ubi.com  
+darkmessiahmightandmagic.us.ubi.com  
+digitalstore.ubi.com  
+drakengard2game.us.ubi.com  
+enchantedarmsgame.us.ubi.com  
+endwargame.com   
+endwargame.us.ubi.com  
+exitgame.us.ubi.com  
+facesofwargame.us.ubi.com farcry.ubi.com  
+farcry.us.ubi.com  
+farcrygame.us.ubi.com  
+farcry-instincts.com  
+flyingrabbits.us.ubi.com  
+Ghostrecon.com  
+ghostrecon.us.ubi.com  
+gosudoku.us.ubi.com  
+gtproseries.us.ubi.com/  
+hazegame.us.ubi.com  
+imagine.us.ubi.com  
+importtunerchallenge.us.ubi.com   
+kingkong.ubi.com  
+lostgame.us.ubi.com  
+lostmagic.us.ubi.com  
+mightandmagic.us.ubi.com  
+mystrevelation.com  
+mystworlds.com  
+mystworlds.ubi.com  
+mywordcoach.us.ubi.com/  
+narutoxbox360game.com  
+narutoxbox360game.us.ubi.com  
+nitrobikegame.com  
+nomoreheroesgame.com  
+openseasongame.us.ubi.com  
+overgfighters.us.ubi.com  
+pacific-fighters.com  
+petz.us.ubi.com  
+press.ubi.com  
+Princeofpersia3d.com  
+princeofpersiagame.com  
+rainbowsix3.com  
+rainbowsixgame.us.ubi.com  
+ravingrabbids2.us.ubi.com/  
+raymanzone.us.ubi.com  
+redsteelgame.us.ubi.com  
+Redstorm.com  
+registration.ubi.com  
+rev64.com  
+silenthunter4.us.ubi.com  
+silenthunteriii.com splintercell.us.ubi.com  
+splintercellconviction.com  
+splintercellessentials.us.ubi.com  
+starwarslethalalliance.us.ubi.com/  
+starwarstrilogygba.us.ubi.com  
+store.ubi.com  
+storesupport.ubi.com  
+surfsupgame.us.ubi.com  
+thesettlers.com  
+thesettlers.us.ubi.com  
+tmntgame.us.ubi.com  
+tomclancygames.ubi.com  
+ubbforums.ubi.com  
+Ubi.com  
+ubisoftgroup.com  
+uru.us.ubi.com
+
+In the future, if we wish to include additional website(s) under this Privacy Policy, we will take reasonable steps to include them in the list and ensure that they provide a link to this Privacy Policy.
+
+Please note that this Privacy Policy applies only to information submitted and collected online through the website(s) listed above and via the playing of Ubisoft's games and demos, and does not apply to information that may be collected by Ubisoft through any other means. This Privacy Policy applies only to Ubisoft's games and demos, and to the aforementioned website(s) maintained by Ubisoft USA and not to sites maintained by other companies or organizations to which we link including: (i) www.bluebyte.net and other websites operated by the Blue Byte Game Channel; (ii) our parent company, Ubisoft Entertainment S.A.; and, (iii) our international affiliates (e.g., Ubisoft in Japan, Ubisoft in Canada, Ubisoft in the UK, etc.). Ubisoft is therefore not responsible for the content or activities provided on such websites. 
 
 Finally, the terms of this Privacy Policy are subject to all applicable laws. 
 
@@ -68,9 +155,61 @@ back to top
 
 We don’t sell or rent your personal information to third parties without your consent. We don’t require personal information to access our website. However, if you prefer not to disclose personal information, you will not be able to enjoy certain features of our website. 
 
-Information collected from those who create a ubi.com account is used to provide services like subscription to our general newsletter, email announcements relating to your account, free online gameplaying, access to the latest game news and exclusive store promotions, and participation in community forums and contests and sweepstakes. In some instances, however, you may also be given the option to have your information used for an activity or service different from the activity or service that you are requesting (e.g., have your name entered into a contest when subscribing to a game-specific newsletter and vice versa). If you choose to receive these additional services, we will use your information to provide you those services. 
+Note regarding vendors: In certain instances we include links to third party websites in order for you purchase Ubisoft games in formats not directly available through our website(s.) Ubisoft is not responsible for the content and does not guarantee the privacy and security of data collected and maintained by these website(s) and urges you to carefully review their Privacy Policies (and Terms of Use)before providing them with your personal information. 
 
-Should you decide to link your Ubisoft Account to your console manufacturer gaming account Ubisoft will only exchange information regarding your age, country, date of birth and email with such parties.  No other personal information such as your credit card information or address will be exchanged with such parties.
+These vendors include, but are not limited to:
+
+GameStop   
+Privacy Policy:   
+<http://www.gamestop.com/gs/help/PrivacyPolicy.aspx>
+
+BestBuy   
+Privacy Policy:   
+[http://www.bestbuy.com/site/olspage.jsp?type=page&contentId=1043363533588&id=cat12098](http://www.bestbuy.com/site/olspage.jsp?type=page&contentId=1043363533588&id=cat12098)
+
+Amazon   
+Privacy Policy:  
+[http://www.amazon.com/gp/help/customer/display.html/ref=hp_lnav_dyn?ie=UTF8&nodeId=468496](http://www.amazon.com/gp/help/customer/display.html/ref=hp_lnav_dyn?ie=UTF8&nodeId=468496)
+
+GameCrazy   
+Privacy Policy:  
+<http://www.hollywoodvideo.com/privacypolicy.aspx>
+
+Walmart   
+Privacy Policy:  
+[http://www.walmart.com/cp/Full-Privacy-Policy/538446?fromPageCatId=538446&catNavId=538446](http://www.walmart.com/cp/Full-Privacy-Policy/538446?fromPageCatId=538446&catNavId=538446)
+
+Target   
+Privacy Policy:   
+<http://sites.target.com/site/en/spot/page.jsp?title=privacy%5Fpolicy>
+
+ToysRUs   
+Privacy Policy:  
+[http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy)
+
+Sports Authority   
+Privacy Policy:  
+[http://www.sportsauthority.com/helpdesk/index.jsp?display=safety&subdisplay=privacy](http://www.sportsauthority.com/helpdesk/index.jsp?display=safety&subdisplay=privacy)
+
+FutureShop   
+Privacy Policy:  
+[target="new">http://www.futureshop.ca/informationcentre/EN/privacypolicy.asp?logon=&langid=EN](http://www.futureshop.ca/informationcentre/EN/privacypolicy.asp?logon=&langid=EN)
+
+Sears   
+Privacy Policy:  
+[target="new">http://www.sears.ca/content/customer-service/privacy-and-security/your-privacy](http://www.sears.ca/content/customer-service/privacy-and-security/your-privacy)
+
+Dell   
+Privacy Policy:  
+[http://www1.ca.dell.com/content/topics/reftopic.aspx/gen/en/policy?c=ca&l=en&s=gen&~section=000](http://www1.ca.dell.com/content/topics/reftopic.aspx/gen/en/policy?c=ca&l=en&s=gen&~section=000)
+
+LASource   
+Privacy Policy:  
+<http://www.thesource.ca/estore/content/privacy.aspx?language=en-CA>a>
+
+The third party vendors listed in this section may change. Accordingly, Ubisoft will make best efforts to update this section of our Privacy Policy. However, we do encourage you to review the privacy policy and/or terms of use of any site you share your personal information with. Information collected from those who create an ubi.com account is used to provide services to you, such as subscriptions to our general newsletter, email announcements relating to your account, free online gameplaying, access to the latest game news and exclusive store promotions, and participation in community forums and contests and sweepstakes. In some instances, however, you may also be given the option to have your information used for an activity or service different from the activity or service that you are requesting (e.g., have your name entered into a contest when subscribing to a game-specific newsletter and vice versa). If you choose to receive these additional services, we will use your information to provide you those services. 
+
+Should you decide to link your Ubisoft Account to your console manufacturer gaming account, Ubisoft will only exchange information regarding your age, country, date of birth and email with such parties. No other personal information, such as your credit card information or address, will be exchanged with such parties. 
 
 **Ubisoft Updates**
 
@@ -152,7 +291,6 @@ Ubisoft is a licensee of the ESRB’s Privacy Online Program. If you believe tha
 > Attn.: Privacy Online Program  
 > 317 Madison Avenue, 22nd Floor  
 > New York, NY 10017  
-> 212-759-0700  
 > [privacy@esrb.org](mailto:privacy@esrb.org)
 
 back to top  
@@ -168,7 +306,7 @@ back to top
   
 **UBISOFT’S KIDS PRIVACY POLICY**
 
-Last updated August 28, 2006
+Last updated July 18, 2008
 
 Welcome to Ubisoft!
 
