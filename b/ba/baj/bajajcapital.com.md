@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bajajcapital.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620234239id_/http%3A//www.bajajcapital.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bajajcapital.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516014642id_/http%3A//www.bajajcapital.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Bajaj capital :: Privacy Policy
 
