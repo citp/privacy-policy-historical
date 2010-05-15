@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourdesignforums.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218101328id_/http%3A//www.yourdesignforums.com/forum-rules-guidelines/2862-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdesignforums.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515122337id_/http%3A//www.yourdesignforums.com/forum-rules-guidelines/2862-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Graphic Design Forums - Your Design Forums
 
