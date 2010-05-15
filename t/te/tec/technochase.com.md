@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technochase.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223214813id_/http%3A//technochase.com/about/technochase-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technochase.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515041616id_/http%3A//technochase.com/about/technochase-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TechnoChase
 
@@ -26,6 +26,6 @@ Your personally identifiable information is kept secure. Only authorized employe
 
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-By e-mail: technochase@yahoo.com
+By e-mail: [contact@technochase.com](mailto:contact@technochase.com "Email Us!")
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
