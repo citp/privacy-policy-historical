@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the instantpresenter.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901211451id_/http%3A//www.instantpresenter.com/About/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantpresenter.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515170748id_/http%3A//www.instantpresenter.com/About/PrivacyStatement.aspx) for the most accurate reproduction.*
 
-# | InstantPresenter.com
-
-[About](https://web.archive.org/About.aspx) > Privacy Statement
+# Privacy Statement for InstantPresenter Web Conferencing - Web Conferencing, Video Conferencing, Webcast and Webinar Services for Online Meetings and Presentations | InstantPresenter.com
 
 We are committed to protecting your privacy at InstantPresenter.com. We will not collect any personal information from you that you do not volunteer, and we are the sole owner of all information collected on this site. We do not sell, share, or rent this information to others in any way that we have not mentioned in this statement.
 
