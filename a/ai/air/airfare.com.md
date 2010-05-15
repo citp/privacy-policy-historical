@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airfare.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230223243id_/http%3A//www.airfare.com/airfare3/sitecontent/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airfare.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515174620id_/http%3A//www.airfare.com/airfare3/sitecontent/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Airfare.com®- PrivacyPolicy
 
@@ -33,7 +33,7 @@ Bethesda, MD 20816
 
 | 
 
-**[ Home](https://web.archive.org/web/20091230223243id_/http%3A//www.airfare.com/airfare3/default.aspx)** **Site Information** Privacy Policy
+**[ Home](https://web.archive.org/web/20100515174620id_/http%3A//www.airfare.com/airfare3/default.aspx)** **Site Information** Privacy Policy
 
 |   
 ---|---  
