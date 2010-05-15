@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoworld.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206185055id_/http%3A//www.infoworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoworld.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516010206id_/http%3A//www.infoworld.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - InfoWorld
 
