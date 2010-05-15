@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wa.gov.au privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115132026id_/http%3A//wa.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wa.gov.au privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516013920id_/http%3A//wa.gov.au/privacy) for the most accurate reproduction.*
 
 # Government of Western Australia
+
+Site visit data
 
 ## Site visit data
 
@@ -29,4 +31,4 @@ Please note this site does not use cookies.
 
 **wa.gov.au** will only record your email address if you send us a message. It will only be used for the purpose for which you have provided it and will not be added to a mailing list. We will not use or disclose your email to any third party without your explicit consent. 
 
-For further information please contact the [Web Coordinator](mailto:info@wa.gov.au). 
+For further information please contact the [Webteam](mailto:webteam@wa.gov.au). 
