@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the somethingawful.com privacy policy that was archived on 2009-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090404061243id_/http%3A//www.somethingawful.com/d/feature-articles/website-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somethingawful.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515123405id_/http%3A//www.somethingawful.com/d/feature-articles/website-privacy-policy.php) for the most accurate reproduction.*
 
 # Something Awful's Privacy Policy
 
@@ -46,6 +46,9 @@ If our policy on information collection or uses changes, will advise you by send
 
 **Our serious privacy policy:** we don't store or even have access to any of your credit card data except the last four digits and billing address. This information is used solely to protect us from credit card fraud. We won't sell any of your personal information to third parties. Something Awful LLC reserves the right to disseminate usernames, IP addresses, or email addresses to third parties in certain situations (ie, situations involving credit card fraud, harassment, stalking, illegal activities).
 
+Users can either disable cookies via their browser or opt out through a mechanism such as [this](http://www.quantcast.com/docs/display/legal/Opt-out+of+Quantcast+Delivery) or [this](http://www.networkadvertising.org/managing/opt_out.asp).  
+
+
 No refunds, returns, or cancellations are permitted, unless it is a problem with physical (damaged) merchandise. All electronic, non-physical purchases (such as forum accounts) are considered "as is" and may not be refunded, returned, or cancelled. Something Awful LLC reserves the right to ban any and all forum accounts when our moderation staff has determined the user(s) of these accounts have broken [the forum rules.](http://www.somethingawful.com/d/forum-rules/forum-rules.php) Any further questions, inquiries, or issues may be sent to:
 
 > Something Awful LLC  
@@ -62,17 +65,12 @@ Questions, comments, or inquiries may be sent to [webmaster@somethingawful.com.]
   
 
 
-  *   * [Busted Bracket](http://www.somethingawful.com/d/garbage-day/dirty-tourney-saliva.php "Busted Bracket")  
-**Garbage Day**
+  *   *   * [Literal Last Names!](http://www.somethingawful.com/d/photoshop-phriday/literal-celebrity-lastnames.php "Literal Last Names!")  
+**Photoshop Phriday**
 
-Dirty Tourney: It's like March Madness, but with skanks and horrible music!
+In the eyes of the SA forum goons, you are what your surname says you are.
 
-  * 
 
-  *   * [Sonic the Hedgehog 2](http://www.somethingawful.com/d/rom-pit/sonic2-horrible.php "Sonic the Hedgehog 2")  
-**Rom Pit**
 
-I bet you think Sonic 2 was a GOOD game, don't you? I bet you are a moron.
-
-  * 
+  *   *   * 
 
