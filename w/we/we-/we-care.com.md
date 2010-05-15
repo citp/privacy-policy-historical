@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the we-care.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231022034id_/http%3A//www.we-care.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the we-care.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515112735id_/http%3A//www.we-care.com/Privacy) for the most accurate reproduction.*
 
 # We-Care.com :: Privacy Policy
 
 We-Care.com knows that you care about how information about you is handled. We value your trust and are committed to using private data respectfully and transparently.
 
-We-Care.comis wholly owned by Internet Marketing Group, Ltd. Any provisions of this policy that apply to We-Care.com also apply to Internet Marketing Group, Ltd. For the purposes of this policy, "we" refers to We-Care.com and the "Site" refers to any of We-Care.com's websites, the Shop & Give Gadget, and the Badges available from our Downloads page.
+We-Care.com is wholly owned by Internet Marketing Group, Ltd. Any provisions of this policy that apply to We-Care.com also apply to Internet Marketing Group, Ltd. For the purposes of this policy, "we" refers to We-Care.com and the "Site" refers to any of We-Care.com's websites, the Shop & Give Gadget, and the Badges available from our Downloads page.
 
 We-Care.com collects limited amounts of personal information. This information allows us to provide you with an optimal experience on our Site and ensures that donations are properly credited and promptly paid. If you choose to participate in our optional registration, information we collect also allows us to store your preferences, contact you by email, and provide you with a record of your donations. 
 
