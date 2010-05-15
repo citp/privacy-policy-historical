@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dns2go.com privacy policy that was archived on 2009-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090730182658id_/http%3A//www.deerfield.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dns2go.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516014507id_/http%3A//www.deerfield.com/corporate/privacy) for the most accurate reproduction.*
 
 # IceWarp Mail Server, Mail Flow, 3CX, WinRoute Firewall, DNS2Go - Deerfield.com privacy statement from Deerfield.com
 
