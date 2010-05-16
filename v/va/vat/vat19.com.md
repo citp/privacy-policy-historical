@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vat19.com privacy policy that was archived on 2009-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090127061750id_/http%3A//www.vat19.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vat19.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516060446id_/http%3A//www.vat19.com/privacypolicy.cfm) for the most accurate reproduction.*
 
-# Vat19.com > Privacy Policy
+# Vat19.com: Privacy Policy
 
 ## We at Vat19.com ("Vat19") are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. 
 
@@ -43,11 +43,11 @@ Wherever your Personal Information may be held within Vat19 or on its behalf, we
 
 ## Access/Accuracy 
 
-To the extent that you do provide us with Personal Information, Vat19 wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting Vat19 should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information through our [online contact form](https://web.archive.org/web/20090127061750id_/http%3A//www.vat19.com/contactform.cfm) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable. 
+To the extent that you do provide us with Personal Information, Vat19 wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting Vat19 should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information through our [online contact form](https://web.archive.org/contactform.cfm) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable. 
 
 ## Third Party Services 
 
-Third parties provide certain services available on Vat19' behalf. Vat19 may provide information, including Personal Information, that Vat19 collects on the Web to third-party service providers to help us deliver programs, products, information, and services. 
+Third parties provide certain services available on Vat19's behalf. Vat19 may provide information, including Personal Information, that Vat19 collects on the Web to third-party service providers to help us deliver programs, products, information, and services. 
 
 Vat19 does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Vat19's behalf unless such transfer is legally required. **Similarly, it is against Vat19's policy to sell Personal Information collected online without consent.**
 
@@ -55,7 +55,7 @@ Vat19 does not intend to transfer Personal Information without your consent to t
 
 Protecting your privacy online is an evolving area, and Vat19's Web sites are constantly evolving to meet these demands. 
 
-If you have any comments or questions regarding our Online Privacy Policy, please [contact](https://web.archive.org/web/20090127061750id_/http%3A//www.vat19.com/contactform.cfm) us. While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible. 
+If you have any comments or questions regarding our Online Privacy Policy, please [contact](https://web.archive.org/contactform.cfm) us. While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible. 
 
 ## Your Consent 
 
