@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kareo.com privacy policy that was archived on 2009-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091002220141id_/http%3A//www.kareo.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kareo.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516081748id_/http%3A//www.kareo.com/terms/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Medical Billing Software - Kareo.com
+# Privacy Policy - Medical Billing Software - Kareo
 
 ## Protecting your privacy on our web-based medical billing software
 
@@ -50,6 +50,8 @@ Kareo may be required to disclose personally identifiable information under spec
 
 Kareo may share demographic information with business partners, such as "7% of Kareo customers are in the Los Angeles region" or the like. No personally identifiable information will ever be used without your permission (i.e. we will ask you for a quote or testimonial). No PHI will ever be shared with any third party, as per the HIPAA Privacy Rule. 
 
+Third party vendors, including Google, show our ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). 
+
 Kareo does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested or when we have your permission. 
 
 It may be necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Kareo's terms of use, or as otherwise required by law. 
@@ -72,4 +74,4 @@ Irvine, CA 92617
 
 ###  Last Updated 
 
-This policy was last updated on July 22, 2009. 
+This policy was last updated on April 8, 2010. 
