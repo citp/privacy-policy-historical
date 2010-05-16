@@ -1,54 +1,55 @@
-> *The following text is extracted and transformed from the raring2go.co.uk privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414062740id_/http%3A//www.raring2go.co.uk/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raring2go.co.uk privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516195503id_/http%3A//raring2go.co.uk/privacy.php) for the most accurate reproduction.*
 
-# About Us - Raring2go!
+# What's on, what to do with the kids
 
-## Privacy Policy
+Your privacy is very important to us at Mojo Publishing Ltd ("Mojo Publishing Ltd", "Mojo Publishing", "Mojo", "Raring2go!", "we", "us" or "our"). Please read this Privacy Policy to learn about the ways in which we use and protect your personal information. If you have any queries concerning your personal information please contact us at info@Raring2go.co.uk.
 
-Raring2go! is owned and operated by N5 Ltd. N5 Ltd has created this privacy statement in order to demonstrate our firm belief and commitment to privacy. This policy applies whether or not you choose to advertise on the Raring2go! website. The following statement details what information we obtain from you, how we use it and how we fulfil our obligations to protect your privacy. Please read it carefully. By using the Raring2go! website and its services you will be agreeing that you are happy for N5 Ltd to gather and use your information in the ways stated.
+By browsing and using our web site you expressly consent to this Privacy Policy governing your use of the web site and our use and disclosure of your personal information. If you no not accept this use and disclosure, you must not use our web site.
 
-### Browsing the Site
+## Disclosures of your information
 
-At Raring2go! we like to ensure that we will continue to meet the demands of our customers. To help us to understand your needs and improve the relevance of the services we offer you as an individual, we may collect anonymous information on your browsing activity while logged into Raring2go! such as IP address, browser type or referring URL. 
+Mojo Publishing Ltd will never sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may use and disclose information in aggregate (so that no individual customers are identified) for marketing and strategic development purposes.
 
-You cannot be identified personally as a result of the information we collect while you browse the site and we mainly examine browsing activity to monitor aggregated site traffic and analyse it. 
+We will never pass your personal data to anyone else, except for any suppliers that process data on our behalf both in the UK and abroad. We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of Mojo Publishing Ltd.
 
-We may also provide anonymous statistics about user's browsing activity to reputable third party vendors, but these will not include details that would allow the recipient to identify you. 
+We reserve the right to access and to disclose personal information to comply with applicable laws and lawful government requests or requests by applicable regulatory bodies, to operate our systems properly or to protect either ourselves or our other users.
 
-### Cookies
+## Collection of information
 
-Internet cookies are common and do not harm your system – they just store or gather site information. They help you do things online, like remembering logon details so you don’t have to re-enter them when revisiting a site. We use cookies to recognise returning visitors and to deliver content specific to your interests. We don’t use cookies to track people’s Internet usage after leaving our sites and we don’t store personal information in them that others could read and understand. We will not sell or distribute cookie information without your prior consent. 
+Mojo Publishing Ltd collects the details provided by you on member's registration (email address, password, name and home postcode) or when you are posting a vendor's promotion (email address, contact name, telephone number and address), together with information we learn about you from your use of our service and your visits to our web site. We may collect additional information in connection with information you provide when giving us feedback or completing forms. We also monitor customer traffic patterns and site use which enables us to improve the service we provide.
 
-### Placing an Advertisement with Raring2go!
+## Use of your information
 
-When you order an advertisement listing on Raring2go! there is certain information we need to obtain to enable us to process and fulfill your order, or contact you in case of a query. Details we may collect include name, company name, address, telephone number and E-mail address. 
+You agree that we may use your information to provide and personalise our service. We may also use contact details to communicate with you, but in such case you will be offered the option to opt in/out of this service.
 
-N5 Ltd will never offer a third party access to this information for any purpose, and Raring2go! will only store information necessary to operate effectively in our main database. 
+Personally identifiable information about vendors providing products or services will be shown on the site and shared with Mojo Publishing Ltd members who wish to evaluate potential transactions. Should you leave any feedback on the web site regarding a promotion you will be given an option as to whether you wish to have your email address displayed. Please note that there may be instances where it may be necessary for us to communicate with you, in any event, for administrative or operational reasons relating to our service.
 
-### Personal Information
+## Other web sites and third parties
 
-The personal information you submit when placing your order with Raring2go! is held with the highest commitment to your privacy. We believe that your privacy is important and have security in place to protect it so as is reasonably possible. 
+Our web site may contain links to other web sites which are outside our control and are not covered by this Privacy Policy. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
 
-### Using Personal Information
+## Cookies
 
-N5 Limited may use an advertiser’s personal information to communicate with advertisers via email newsletters or other avenues to offer marketing information and other communications to assist in business related activities. If an advertiser Raring2go! wishes not to have their information used for these purposes, they may elect to opt-out from future communications by any of the flowing: - Notifying N5 Limited in writing to the registered address: Unit 5 Olton Bridge, 245 Warwick Road, Solihull B92 7AH. - Using the unsubscribe link in any e mail communication 
+"Cookies" are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser. Mojo Publishing Ltd uses cookies for a number of purposes, for instance to enable us to simplify the logging on process for registered users, to help ensure the security and authenticity of registered users, to provide the mechanisms for online shopping and to enable traffic monitoring. Most browsers can be programmed to reject, or warn you before downloading cookies, information regarding this may be found in your browser's 'help' facility.
 
-### Public Information
+## Control of your password
 
-Listings information submitted for display on the Raring2go! website is information for the public domain and therefore cannot be classed as private. If we request any information which could be classed as private, N5 will make you aware of this at the time of submission. 
+You are responsible for all actions taken with your email address and password, including those actions that result in fees being charged to your account. Therefore we do not recommend that you disclose your Mojo Publishing Ltd password to any third parties. If you choose to share your email address and password or your information with third parties to where it is necessary for you to do so for them to provide you additional services, you are responsible for all actions taken with your email address and password and therefore you should review that third party's privacy policy.
 
-By submitting your listings information to Raring2go! you give N5 Ltd unconditional permission to use this information regardless of any moral rights, copyright, service mark, trademark or patent laws. Further you allow N5 Ltd to publish, modify, edit, translate, distribute and otherwise reproduce the information in whatever format we choose. 
+## Accessing, reviewing and changing your personal information
 
-### Third party links
+We offer you the ability to automatically review and change the information you submit to us by logging into Mojo Publishing Ltd and entering in the new information yourself. Generally, we will not modify your personal information based on your request because it is very difficult to authenticate your account manually. You can change your email address, password, contact information, financial information, postal address and any available user preferences by going to . You must promptly update your personal information if it changes or is inaccurate.
 
-Raring2go! contains links to other sites but we cannot assume responsibility for any other site's content or information handling practices. We urge you to review each site's privacy policy before entering into transactions with them. 
+Upon your written request, we will deactivate your account, contact information, and financial information from our active databases. To make this request, please contact info@raring2go.co.uk. Such information will be deactivated as soon as reasonably possible in accordance with our deactivation policy and applicable law.
 
-### Your Consent
+We will retain in our files information you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our Terms of Service. Further, such prior information is never completely removed from our databases due to technical and legal constraints, including stored "back up" systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests.
 
-By advertising with Raring2go! you agree that you are happy for your information to be gathered and used in the ways described in this policy. 
+You have a right to access the personal data that is held about you. To obtain a copy of the personal information Raring2go! holds about you, please write to us at the following address: Privacy Officer, Mojo Publishing Ltd, Unit 84, Mackley Industrial Estate, Small Dole, West Sussex, BN5 9XR enclosing your postal details and a cheque for £10 payable to Mojo Publishing Ltd.
 
-However, if you change your mind about the way you have agreed your data can be used, just contact us via the website to stop specific or all uses of your data. 
+## Safeguard of personal information
 
-All data collected by N5 Limited is shared within the N5 group of companies for verification and use in their marketing files 
+Personal information is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to you for any such occurrences.
 
-  
+We may amend this Privacy Policy from time to time without notice so you should regularly review this policy when you visit our web site.
 
+Privacy Policy
