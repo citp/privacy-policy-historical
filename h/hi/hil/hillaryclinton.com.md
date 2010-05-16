@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hillaryclinton.com privacy policy that was archived on 2009-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091030132928id_/http%3A//www.hillaryclinton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillaryclinton.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516045555id_/http%3A//www.hillaryclinton.com/privacy) for the most accurate reproduction.*
 
 # HillaryClinton.com - Privacy Policy
 
@@ -23,11 +23,11 @@ _IP Addresses and Log File Data_
 We log your IP address, which is the location of your computer or network on the Internet, for systems administration and troubleshooting purposes. We also use page hits in the aggregate to track the popularity of pages that people visit in order to improve the quality of the site. There is no personal identifiable information collected in our log files.  
 _Information on Children_   
 Because we care about the safety and privacy of children online, we comply with the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying FTC regulations establish United States federal law that protects the privacy of children using the Internet. We do not knowingly contact or collect personal information from children under 13, without express and verifiable parental consent. Our site is not intended to solicit information of any kind from children under 13, and we have designed our sites to block our knowing acceptance of information from children under 13 whenever age-related information is requested.   
-Parents with questions may e-mail us at support@hillaryclinton.com.  
+Parents with questions may e-mail us at accountingdepartment@hillaryclinton.com.  
 **Unsubscribing from Email Communications**  
-If you wish to unsubscribe from our communications, please email us at [unsubscribe@hillaryclinton.com](mailto:unsubscribe@hillaryclinton.com). We will regularly process these requests. To comply with federal election law, however, our contributor records will be continuously maintained in a separate secure database.   
+If you wish to unsubscribe from our communications, please email us at [accountingdepartment@hillaryclinton.com](mailto:accountingdepartment@hillaryclinton.com). We will regularly process these requests. To comply with federal election law, however, our contributor records will be continuously maintained in a separate secure database.   
 **Contacting us about privacy**  
-If you have any questions about our privacy policy, corrections to the information we have collected from you online, the practices of this site or your interaction with this website, send email to: [support@hillaryclinton.com](mailto:support@hillaryclinton.com).   
+If you have any questions about our privacy policy, corrections to the information we have collected from you online, the practices of this site or your interaction with this website, send email to: [accountingdepartment@hillaryclinton.com](mailto:accountingdepartment@hillaryclinton.com).   
 In the event that this site links to other websites, Friends of Hillary is not responsible for the content or the privacy policies of these websites. We encourage you to read the privacy statements for each website you visit. Friends of Hillary will occasionally update this privacy policy as changes to the site necessitate it. We encourage you to periodically review this policy to be informed of how we are protecting your information.  
 You can also reach us via U.S. Mail at:  
 Friends of Hillary  
