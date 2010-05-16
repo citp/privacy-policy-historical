@@ -1,388 +1,478 @@
-<!--The following is the downloaded HTML source of the jacksonhewitt.com privacy policy that was archived on 2006-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061208162904id_/http%3A//www.jacksonhewitt.com/about_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jacksonhewitt.com privacy policy that was archived on 2010-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100516165448id_/http%3A//www.jacksonhewitt.com/privacy-policy) for the most accurate reproduction.-->
 
-<html><head><script language="javascript">
-function checkForm()
-{
-   required_list = new Array("Zipcode");
-   required_names = new Array("Zip Code");
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Privacy Policy: Jackson Hewitt
+</title><script id="EktronFlexMenuJS" type="text/javascript" src="/WorkArea/java/ek_flexmenu.js"></script>
+<script id="EktronJS" type="text/javascript" src="/WorkArea/java/ektron.js"></script>
+
+<link href="/css/stylesheet.css" rel="stylesheet" type="text/css"><link href="../css/shadowbox.css" rel="stylesheet" type="text/css">
+    <script src="/scripts/lib/jquery/jquery-1.3.2.js" type="text/javascript"></script>
+    <script type="text/JavaScript" src="/scripts/curvycorners.src.js"></script>
+     
+    <!--[if IE 6]>
+    <link href="/css/stylesheet-ie6.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 7]>
+    <link href="/css/sidemenu-ie7.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE]>
+    <link href="/css/stylesheet-ie.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+<script src="/scripts/bt-0.9.5-rc1/other_libs/excanvas_r3/excanvas.compiled.js" type="text/javascript"></script>
+
+<script src="/scripts/bt-0.9.5-rc1/other_libs/bgiframe_2.1.1/jquery.bgiframe.pack.js" type="text/javascript"></script>
+
+<script src="/scripts/bt-0.9.5-rc1/jquery.bt.js" type="text/javascript"></script>
+
+    <script type="text/javascript" src="/scripts/jquery.infinite-carousel.js"></script>
+    <script type="text/javascript" src="/scripts/shadowbox.js"></script>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"> 
+<script type="text/javascript" src="/scripts/sidemenu.js"></script>
+    
+    <script type="text/javascript">
+      
+        function setJQText(control, boxtext) {
+            $(control).val(boxtext);
+            
+            $(control).blur(function(){
+                 if ($(this).val() == '') $(this).val(boxtext);
+            });
+            $(control).mousedown(function() {
+                if ($(this).val() == boxtext) $(this).val('');
+            });
+        }
+        $(document).ready(function() {
+            setJQText(".locator_form_input", "Enter Zip Code");
+
+            setJQText(".search_form_input", "Search");
+
+
+            $('.carousel_area').carousel('#carousel_prevbtn', '#carousel_nextbtn', false);
+            $('#global_sidebar_nav_flexible_movie_item').carousel('#prevbtn', '#nextbtn', true);
+            Shadowbox.init();
+		
+            $('.movie').show();
+            
+        });
         
-   list_counter = 0;
-   err_msg = "";
         
-			
-   // check the zip code
-   if (document.frmOfficeLocator.Zipcode.value.search(/\d\d\d\d\d/) == -1)
-   {
-      err_msg += "- Valid Zip Code\n";
-   }
-					
+    </script>
+      
+  
 
-  for (list_counter = 0; list_counter < required_list.length; list_counter++)
-  {
-     // check for required fields in select boxes
-	if (eval("document.frmOfficeLocator." + required_list[list_counter] + ".type") == "select-one")
-	{
-	   if (eval("document.frmOfficeLocator." + required_list[list_counter] + "[document.frmOfficeLocator." + required_list[list_counter] + ".selectedIndex].value") == "")
-	   {
-	      err_msg += "- " + required_names[list_counter] + "\n";
-	   }
-	}
-						
-	// check for required fields in text boxes
-	if (eval("document.frmOfficeLocator." + required_list[list_counter] + ".type") == "text")
-	{
-	   if (eval("document.frmOfficeLocator." + required_list[list_counter] + ".value") == "")
-		{
-	           err_msg += "- " + required_names[list_counter] + "\n";
-		}
-	}	
+    <script src="/scripts/secondary.js" type="text/javascript"></script>
 
-   }
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('.global_sidebar_nav_flexible_movie_item').carousel('#prevbtn', '#nextbtn');
+        });
+    </script>
+  <script type="text/javascript" language="javascript">
+        $ektron(document).ready(function() {
+            var redirectorLink = $ektron('#__redirector').attr('value');
+            if (redirectorLink != null && redirectorLink != "") {
+                window.location = redirectorLink;
+                return false;
+            }
 
-   if (err_msg != "")
-   {
-      err_msg = "The following fields are required:\n" + err_msg;
-			
-   }
-   // if an error has occurred, trap it and alert the user.  Otherwise, submit the form.
-   if (err_msg != "")
-   {
-      alert(err_msg);
-      return false;
-   }
-   else
-   {
-      document.frmOfficeLocator.submit();
-   }
-}
+            var _cid = $ektron('.__id').attr('value');
+            var printerFriendlyLink = $ektron('.printhide > a.printer_friendly');
 
-</script>
-	
+            if (_cid != null && _cid > 0) {
+                if (printerFriendlyLink.length > 0)
+                    $ektron('.printhide > a.printer_friendly').attr('href', '/print.aspx?id=' + _cid);
+                else {
+                    printerFriendlyLink = $ektron('.spanish_link > a.spanish')
+                    if (printerFriendlyLink.length > 0)
+                        $ektron('.spanish_link > a.spanish').attr('href', '/print.aspx?id=' + _cid);
+                }
+            }
+        });
+    </script>
 
 
+<link id="EktronModalCss" href="/WorkArea/java/plugins/modal/ektron.modal.css" type="text/css" rel="stylesheet">
 
-	<title>
+<link id="_css_sidemenu.css" href="/css/sidemenu.css" type="text/css" rel="stylesheet">
 
-			Jackson Hewitt Tax Service
+<link id="_css_resourcemenu.css" href="/css/resourcemenu.css" type="text/css" rel="stylesheet">
 
-			</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<link rel="STYLESHEET" type="text/css" href="/css/template.css">
-	<link rel="STYLESHEET" type="text/css" href="/css/global.css">
-	<link rel="STYLESHEET" type="text/css" href="/css/sitemap.css">
-	
-	<meta http-equiv="expires" content="0">
-	<meta http-equiv="Pragma" content="no-cache">
-	<script language="JavaScript" type="text/javascript" src="menus/rollover.js"></script>
-
-	<script src="/menus/new_menus.js" type="text/javascript"></script>
-	<script src="/menus/subpage_funcs.js" type="text/javascript"></script>
-	<script src="/menus/quicktools.js" type="text/javascript"></script>
-	<script type="text/javascript">
-
-dhtml_menu_1 = new Array("President's Bio", "http://www.jacksonhewitt.com/about_letter_bio.asp", "");
-buildMenu("menu_1", dhtml_menu_1);dhtml_menu_2 = new Array("News", "http://www.jacksonhewitt.com/news_tax.asp", "", "Tax Changes", "http://www.jacksonhewitt.com/resources_changes.asp", "", "Press Releases", "http://www.jacksonhewitt.com/about_media_press.asp", "", "Contact Us", "http://www.jacksonhewitt.com/contact_media.asp", "");
-buildMenu("menu_2", dhtml_menu_2);dhtml_menu_3 = new Array("Corp. Governance", "http://ir.jacksonhewitt.com/phoenix.zhtml?c=177359&p=irol-govmanage", "", "Email Alerts", "http://ir.jacksonhewitt.com/phoenix.zhtml?c=177359&p=irol-alerts", "", "Stock Information", "http://ir.jacksonhewitt.com/phoenix.zhtml?c=177359&p=irol-stockquote", "", "Press Releases", "http://ir.jacksonhewitt.com/phoenix.zhtml?c=177359&p=irol-news", "", "SEC Filings", "http://ir.jacksonhewitt.com/phoenix.zhtml?c=177359&p=irol-sec", "", "Contact Information", "http://ir.jacksonhewitt.com/phoenix.zhtml?c=177359&p=irol-contact", "", "Info Req", "http://ir.jacksonhewitt.com/phoenix.zhtml?c=177359&p=irol-inforeq", "");
-buildMenu("menu_3", dhtml_menu_3);dhtml_menu_4 = new Array("Supporting America's Heroes", "http://www.jacksonhewitt.com/about_troops_heroes.asp", "");
-buildMenu("menu_4", dhtml_menu_4);dhtml_menu_7 = new Array("Careers", "http://www.jacksonhewitt.com/about_diversity_careers.asp", "", "Supplier Diversity", "http://www.jacksonhewitt.com/about_diversity_suppliers.asp", "");
-buildMenu("menu_7", dhtml_menu_7);dhtml_menu_8 = new Array("Careers at Headquarters", "http://www.jacksonhewitt.com/about_headquarters.asp", "", "Opportunities at Local Offices", "http://www.jacksonhewitt.com/about_local.asp", "", "Own Your Own Business", "http://www.jacksonhewitt.com/about_business.asp", "");
-buildMenu("menu_8", dhtml_menu_8);
-	</script>
+<link id="EktronFormBlockCSS" href="/WorkArea/csslib/designformentry.css" type="text/css" rel="stylesheet">
 </head>
-
-<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
-<div align="center">
-<table width="760" border="0" align="center" cellpadding="1" cellspacing="0" bgcolor="#666666">
-	<tbody><tr>
-		<td>
-			<table width="758" height="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-				<tbody><tr>
-					<td height="22" valign="bottom" nowrap="">
-<!---------------------------------------------------------------------------->
-<!-- 						Global Navigation and Search					-->
-<!---------------------------------------------------------------------------->
-
-						<table width="100%" height="22" border="0" cellpadding="0" cellspacing="0" align="center">
-							<tbody><tr>
-								<form action="http://www.jacksonhewitt.com/search.asp" method="post" name="QueryForm" id="QueryForm"></form><td width="100%" bgcolor="#000000" class="header" align="center" nowrap="">
-&nbsp;<a class="header" href="http://www.jacksonhewitt.com/index.asp" target="">Home</a> &nbsp;|&nbsp;
-<a class="header" href="http://www.jacksonhewitt.com/about.asp" target="">About Us</a> &nbsp;|&nbsp;
-<a class="header" href="http://www.jacksonhewitt.com/officelocator.asp" target="">Office Locator</a> &nbsp;|&nbsp;
-<a class="header" href="http://www.jacksonhewitt.com/resources.asp" target="">Tax Resource Center</a> &nbsp;|&nbsp;
-<a class="header" href="http://ir.jacksonhewitt.com/phoenix.zhtml?c=177359&amp;p=irol-irhome" target="">Investor Relations</a> &nbsp;|&nbsp;
-<a class="header" href="http://www.jacksonhewitt.com/faqs.asp" target="">FAQs</a> &nbsp;|&nbsp;
-<a class="header" href="http://www.jacksonhewitt.com/contact.asp" target="">Contact Us</a> &nbsp;|&nbsp;
-<a class="header" href="http://www.jacksonhewitt.com/about_map.asp" target="">Site Map</a> 
-
-								</td><td align="center" valign="middle" nowrap="" bgcolor="#000000"><input name="SearchString" type="text" id="SearchString" class="search" size="15" value="Search" onfocus="javascript: this.value='';"></td>
-								<td width="27"><a href="javascript:document.QueryForm.submit();"><img src="/images/slice_search_go.jpg" alt="Search Jackson Hewitt" width="27" height="22" border="0"></a></td>
-							</tr>			
-						</tbody></table>
-					</td>
-				</tr>
-<!---------------------------------------------------------------------------->
-<!--				Logo, Spanish Button, and Phone Number					-->
-<!---------------------------------------------------------------------------->
-				<tr><td height="44" valign="top" nowrap="" bgcolor="#FFFFFF"><table width="758" height="44" border="0" cellpadding="0" cellspacing="0">
-							<tbody><tr><td width="480" height="44" rowspan="2" align="center" valign="middle" bgcolor="#FFFFFF"><a href="http://www.jacksonhewitt.com/index.asp"><img src="/images/slice_logo_normal.jpg" alt="Jackson Hewitt Tax Service - Get more in return" border="0"></a></td>
-								<td height="23" align="right" valign="middle" bgcolor="#FFFFFF">
-<img src="/images/trans.gif" width="68" height="23" border="0">
-								</td>
-							</tr>
-							<tr>
-								<td width="278" height="19" align="center" valign="middle" bgcolor="#FFFFFF"><img src="/images/slice_call_us_normal.jpg" alt="Call Today Toll Free 800.234.1040" width="278" height="19" border="0"></td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-				<tr>
-					<td height="48" valign="top" nowrap="">
-						<table width="758" height="65" border="0" cellpadding="0" cellspacing="0">
-							<tbody><tr>
-<!---------------------------------------------------------------------------->
-<!-- 							Office Locator								-->
-<!---------------------------------------------------------------------------->
-								<td width="152" valign="top" background="/images/bg_dark.jpg"><table width="152" border="0" cellpadding="0" cellspacing="0">
-									<tbody><tr>
-										<form action="http://www.jacksonhewitt.com/LocateOffice.asp" method="post" name="frmOfficeLocator" id="frmOfficeLocator"></form><td width="152" height="65" valign="top" background="/images/slice_find_office_normal.gif"><img src="/images/trans.gif" width="18" height="10" align="absmiddle"><br>
-												<img src="/images/trans.gif" width="18" height="10" align="absmiddle"><img src="/images/slice_find_office_text_normal.jpg" border="0" alt="Find a Jackson Hewitt Office in Your Area"><br>
-												<img src="/images/trans.gif" width="18" height="10" align="absmiddle"><input name="Zipcode" type="text" id="Zipcode" class="search" size="15" value="Zip" onfocus="javascript: this.value = '';"><a href="javascript: document.frmOfficeLocator.submit();" onclick="return checkForm()"><img src="/images/slice_find_office_go.jpg" alt="Find a Jackson Hewitt Office in Your Area" width="21" height="19" border="0" align="absmiddle"></a></td>
-									</tr>
-
-<!---------------------------------------------------------------------------->
-<!-- 								Subnav									-->
-<!---------------------------------------------------------------------------->
-<tr><td height="22" valign="middle" class="nav_onpage"><b>About Us</b></td></tr><tr><td height="22" id="parent_cell_1" valign="middle" class="nav_basic" background="/images/bg_light.jpg" onclick="javascript: goUrl('http://www.jacksonhewitt.com/about_letter.asp', '');" onmouseover="javascript:this.style.backgroundColor='#CC0000';document.getElementById('parent_menu_1').style.color='#FFFFFF';this.style.backgroundImage='url(/images/trans.gif)'; stopTimer(), showMenu('menu_1'); document.getElementById('bullet_children_1').src='/images/bullet_children_ovr.gif'; " onmouseout="javascript:this.style.backgroundColor='';document.getElementById('parent_menu_1').style.color='#000000';this.style.backgroundImage='url(/images/bg_light.jpg)';startTimer(); document.getElementById('bullet_children_1').src='/images/bullet_children.gif'; "><table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%"><tbody><tr><td valign="middle" width="100%"><b><span class="nav_link" id="parent_menu_1">Letter From the President</span></b></td><td valign="middle" width="9"><img src="/images/bullet_children.gif" hspace="1" border="0" id="bullet_children_1"></td></tr></tbody></table></td></tr>
-<tr><td height="22" id="parent_cell_2" valign="middle" class="nav_basic" background="/images/bg_dark.jpg" onclick="javascript: goUrl('http://www.jacksonhewitt.com/about_media.asp', '');" onmouseover="javascript:this.style.backgroundColor='#CC0000';document.getElementById('parent_menu_2').style.color='#FFFFFF';this.style.backgroundImage='url(/images/trans.gif)'; stopTimer(), showMenu('menu_2'); document.getElementById('bullet_children_2').src='/images/bullet_children_ovr.gif'; " onmouseout="javascript:this.style.backgroundColor='';document.getElementById('parent_menu_2').style.color='#000000';this.style.backgroundImage='url(/images/bg_dark.jpg)';startTimer(); document.getElementById('bullet_children_2').src='/images/bullet_children.gif'; "><table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%"><tbody><tr><td valign="middle" width="100%"><b><span class="nav_link" id="parent_menu_2">Media Center</span></b></td><td valign="middle" width="9"><img src="/images/bullet_children.gif" hspace="1" border="0" id="bullet_children_2"></td></tr></tbody></table></td></tr>
-<tr><td height="22" id="parent_cell_3" valign="middle" class="nav_basic" background="/images/bg_light.jpg" onclick="javascript: goUrl('http://ir.jacksonhewitt.com/phoenix.zhtml?c=177359&amp;p=irol-irhome', '');" onmouseover="javascript:this.style.backgroundColor='#CC0000';document.getElementById('parent_menu_3').style.color='#FFFFFF';this.style.backgroundImage='url(/images/trans.gif)'; stopTimer(), showMenu('menu_3'); document.getElementById('bullet_children_3').src='/images/bullet_children_ovr.gif'; " onmouseout="javascript:this.style.backgroundColor='';document.getElementById('parent_menu_3').style.color='#000000';this.style.backgroundImage='url(/images/bg_light.jpg)';startTimer(); document.getElementById('bullet_children_3').src='/images/bullet_children.gif'; "><table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%"><tbody><tr><td valign="middle" width="100%"><b><span class="nav_link" id="parent_menu_3">Investor Relations</span></b></td><td valign="middle" width="9"><img src="/images/bullet_children.gif" hspace="1" border="0" id="bullet_children_3"></td></tr></tbody></table></td></tr>
-<tr><td height="22" id="parent_cell_4" valign="middle" class="nav_basic" background="/images/bg_dark.jpg" onclick="javascript: goUrl('http://www.jacksonhewitt.com/about_troops.asp', '');" onmouseover="javascript:this.style.backgroundColor='#CC0000';document.getElementById('parent_menu_4').style.color='#FFFFFF';this.style.backgroundImage='url(/images/trans.gif)'; stopTimer(), showMenu('menu_4'); document.getElementById('bullet_children_4').src='/images/bullet_children_ovr.gif'; " onmouseout="javascript:this.style.backgroundColor='';document.getElementById('parent_menu_4').style.color='#000000';this.style.backgroundImage='url(/images/bg_dark.jpg)';startTimer(); document.getElementById('bullet_children_4').src='/images/bullet_children.gif'; "><table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%"><tbody><tr><td valign="middle" width="100%"><b><span class="nav_link" id="parent_menu_4">Support Our Troops</span></b></td><td valign="middle" width="9"><img src="/images/bullet_children.gif" hspace="1" border="0" id="bullet_children_4"></td></tr></tbody></table></td></tr>
-<tr><td height="22" id="parent_cell_5" valign="middle" class="nav_basic" background="/images/bg_light.jpg" onclick="javascript: goUrl('http://www.jacksonhewitt.com/about_profiler.asp', '');" onmouseover="javascript:this.style.backgroundColor='#CC0000';document.getElementById('parent_menu_5').style.color='#FFFFFF';this.style.backgroundImage='url(/images/trans.gif)'; " onmouseout="javascript:this.style.backgroundColor='';document.getElementById('parent_menu_5').style.color='#000000';this.style.backgroundImage='url(/images/bg_light.jpg)';"><b><span class="nav_link" id="parent_menu_5">ProFiler Software</span></b></td></tr>
-<tr><td height="22" id="parent_cell_6" valign="middle" class="nav_basic" background="/images/bg_dark.jpg" onclick="javascript: goUrl('http://www.jacksonhewitt.com/about_marketing.asp', '');" onmouseover="javascript:this.style.backgroundColor='#CC0000';document.getElementById('parent_menu_6').style.color='#FFFFFF';this.style.backgroundImage='url(/images/trans.gif)'; " onmouseout="javascript:this.style.backgroundColor='';document.getElementById('parent_menu_6').style.color='#000000';this.style.backgroundImage='url(/images/bg_dark.jpg)';"><b><span class="nav_link" id="parent_menu_6">Marketing Services/ Advertising</span></b></td></tr>
-<tr><td height="22" id="parent_cell_7" valign="middle" class="nav_basic" background="/images/bg_light.jpg" onclick="javascript: goUrl('http://www.jacksonhewitt.com/about_diversity.asp', '');" onmouseover="javascript:this.style.backgroundColor='#CC0000';document.getElementById('parent_menu_7').style.color='#FFFFFF';this.style.backgroundImage='url(/images/trans.gif)'; stopTimer(), showMenu('menu_7'); document.getElementById('bullet_children_7').src='/images/bullet_children_ovr.gif'; " onmouseout="javascript:this.style.backgroundColor='';document.getElementById('parent_menu_7').style.color='#000000';this.style.backgroundImage='url(/images/bg_light.jpg)';startTimer(); document.getElementById('bullet_children_7').src='/images/bullet_children.gif'; "><table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%"><tbody><tr><td valign="middle" width="100%"><b><span class="nav_link" id="parent_menu_7">Diversity</span></b></td><td valign="middle" width="9"><img src="/images/bullet_children.gif" hspace="1" border="0" id="bullet_children_7"></td></tr></tbody></table></td></tr>
-<tr><td height="22" id="parent_cell_8" valign="middle" class="nav_basic" background="/images/bg_dark.jpg" onclick="javascript: goUrl('http://www.jacksonhewitt.com/about_work.asp', '');" onmouseover="javascript:this.style.backgroundColor='#CC0000';document.getElementById('parent_menu_8').style.color='#FFFFFF';this.style.backgroundImage='url(/images/trans.gif)'; stopTimer(), showMenu('menu_8'); document.getElementById('bullet_children_8').src='/images/bullet_children_ovr.gif'; " onmouseout="javascript:this.style.backgroundColor='';document.getElementById('parent_menu_8').style.color='#000000';this.style.backgroundImage='url(/images/bg_dark.jpg)';startTimer(); document.getElementById('bullet_children_8').src='/images/bullet_children.gif'; "><table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%"><tbody><tr><td valign="middle" width="100%"><b><span class="nav_link" id="parent_menu_8">Careers</span></b></td><td valign="middle" width="9"><img src="/images/bullet_children.gif" hspace="1" border="0" id="bullet_children_8"></td></tr></tbody></table></td></tr>
-<tr><td height="22" id="parent_cell_9" valign="middle" class="nav_basic" background="/images/bg_light.jpg" onclick="javascript: goUrl('http://www.jacksonhewitt.com/search.asp', '');" onmouseover="javascript:this.style.backgroundColor='#CC0000';document.getElementById('parent_menu_9').style.color='#FFFFFF';this.style.backgroundImage='url(/images/trans.gif)'; " onmouseout="javascript:this.style.backgroundColor='';document.getElementById('parent_menu_9').style.color='#000000';this.style.backgroundImage='url(/images/bg_light.jpg)';"><b><span class="nav_link" id="parent_menu_9">Search</span></b></td></tr>
-<tr><td height="22" id="parent_cell_10" valign="middle" class="nav_basic" background="/images/bg_dark.jpg" onclick="javascript: goUrl('http://www.jacksonhewitt.com/about_map.asp', '');" onmouseover="javascript:this.style.backgroundColor='#CC0000';document.getElementById('parent_menu_10').style.color='#FFFFFF';this.style.backgroundImage='url(/images/trans.gif)'; " onmouseout="javascript:this.style.backgroundColor='';document.getElementById('parent_menu_10').style.color='#000000';this.style.backgroundImage='url(/images/bg_dark.jpg)';"><b><span class="nav_link" id="parent_menu_10">Site Map</span></b></td></tr>
-<tr><td height="22" id="parent_cell_11" valign="middle" class="nav_basic" onclick="javascript: goUrl('about_privacy.asp', '');" bgcolor="#cc0000"><b><span class="nav_link" id="parent_menu_11" style="color: #ffffff">Privacy/Terms of Use</span></b></td></tr>
-<tr><td height="22" id="parent_cell_12" valign="middle" class="nav_basic" background="/images/bg_dark.jpg" onclick="javascript: goUrl('http://www.jacksonhewitt.com/about_espanol.asp', '');" onmouseover="javascript:this.style.backgroundColor='#CC0000';document.getElementById('parent_menu_12').style.color='#FFFFFF';this.style.backgroundImage='url(/images/trans.gif)'; " onmouseout="javascript:this.style.backgroundColor='';document.getElementById('parent_menu_12').style.color='#000000';this.style.backgroundImage='url(/images/bg_dark.jpg)';"><b><span class="nav_link" id="parent_menu_12">Temas principales de la versión en español </span></b></td></tr>
-
-								</tbody></table>
-							</td>
-								<td width="3" align="center" valign="top" bgcolor="#999999"><img src="/images/white.gif" width="3" height="65"></td>
- 								
- 								<td width="448" align="center" valign="top" bgcolor="#FFFFFF">
-								<table width="448" border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-								
-											<td width="8" height="32" background="/images/bg_breadcrumb_left_edge.jpg"><img src="/images/trans.gif" width="8" height="32"></td><td background="/images/bg_breadcrumb.jpg" width="100%">
-											
-
-
-	 
-
-<!---------------------------------------------------------------------------->
-<!-- 								Breadcrumbs								-->
-<!---------------------------------------------------------------------------->
-												<b class="breadcrumbs">
-
-<a href="http://www.jacksonhewitt.com/index.asp" class="breadcrumbs">Home</a>
-
-
-&nbsp;:&nbsp;
-
-
-<a href="http://www.jacksonhewitt.com/about.asp" class="breadcrumbs">About Us</a>
-
-
-&nbsp;:&nbsp;
-
-
-<a href="http://www.jacksonhewitt.com/about_privacy.asp" class="breadcrumbs">Privacy/Terms of Use</a>
-&nbsp;
-
-
-												</b>
-											</td>
-
-											
-											<td width="10" height="32" background="/images/bg_content2.jpg"></td>
-											
-
-										</tr>
-									</tbody></table>
-									
-
-									<table width="100%" border="0" cellspacing="0" cellpadding="0">
-										<tbody><tr>
-											<td width="18" bgcolor="#FFFFFF"><img src="/images/trans.gif" width="18" height="10"></td>
-											<td height="10" bgcolor="#FFFFFF"><img src="/images/trans.gif" height="10" width="10"></td>
-											
-											<td width="10" background="/images/bg_content.jpg"><img src="/images/trans.gif" height="10" width="10"></td>
-											
-										</tr>
-										<tr>
-											<td bgcolor="#FFFFFF">&nbsp;</td>
-											<td bgcolor="#FFFFFF">
-											
-												<table width="100%" height="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-													<tbody><tr>
-														<td height="100%" valign="bottom">
-															<div align="left">
-														
-																<table border="0" cellpadding="0" cellspacing="0" bgcolor="white">
-																	<tbody><tr>
-																		<td>
-<!---------------------------------------------------------------------------->
-<!-- 							Body Content								-->
-<!---------------------------------------------------------------------------->
-
-<!---------------------------------------------------------------------------->
-<!-- 						Section and Page Titles							-->
-<!---------------------------------------------------------------------------->
-
-<img src="/images/title_abou.jpg">
-																	</td>
-																</tr>
-
-																<tr>
-																	<td>
-																		<b><span style="font-size:15px">
-
-
-			Privacy/Terms of Use
-
-			
-																		</span></b>
-																	</td>
-																</tr>
-
-															</tbody></table>
-														</div></td>
-														<td>
-															<div align="right">
-<img src="/images/photo_aboutus_1.jpg" border="0" hspace="0" vspace="0">
-															</div>
-														</td>
-													</tr>
-												</tbody></table>
-											</td>
-											
-										    <td background="/images/bg_content.jpg">&nbsp;</td>
-											
-										</tr>
-										<tr>
-										    <td bgcolor="#FFFFFF">&nbsp;</td>
-											<td bgcolor="#FFFFFF"><br>
-												<table border="0" cellspacing="0" cellpadding="0" width="100%" height="300">
-													<tbody><tr>
-														<td valign="top">
-		<!---------------------------------------------------------------------------->
-		<!-- 							insert body content here 					-->
-		<!----------------------------------------------------------------------------><!--?xml version="1.0" encoding="UTF-16"?--> 
-
-			<p><b><font color="#D7313D">Jackson Hewitt Tax Service<sup>®</sup> Privacy Policy</font></b><br>Jackson Hewitt (referred to as "Jackson Hewitt Inc.," "we," "us," or "our") recognizes the importance of protecting the privacy of certain information ("Information") collected about our customers and prospective customers (referred to as "Customers," "you" or "your"). This privacy statement discloses what information we gather, how we use it, and how to correct or change it. At Jackson Hewitt, it is our intention to give you an understanding about how we collect your Information and the use we make of it in the course of our business.</p> 
-			<p>To that end, Jackson Hewitt gathers two types of information about Customers: data that Customers provide through optional, voluntary registration on our sites; and data Jackson Hewitt gathers through aggregated tracking, mainly by tallying page views throughout our sites. Such information enables us to tailor our content to fit Customers' needs better and to help our advertisers understand our audience. Be assured that Jackson Hewitt will not disclose personal Information to third parties without your consent, except as may be noted in this Privacy Policy or as disclosed to you when the Information is submitted.</p> 
-			<p><b><font color="#D7313D">How Does Jackson Hewitt Collect Information?</font></b></p> 
-			<ul> 
-				<li><b><font color="#D7313D">Optional Registration</font></b><br>
-					We collect information by specifically requesting it from you. Generally this occurs when you register at a site or request information or a service. Usually, the Jackson Hewitt sites and Jackson Hewitt's service partners use your information to operate the sites and to deliver services. Jackson Hewitt sites also use your information to inform you about other products or services available from Jackson Hewitt and its affiliates.<br>
-					<br>
-				</li><li><b><font color="#D7313D">Usage Tracking</font></b></li>
-			</ul> 
-			<p><b><font color="#D7313D">Use of Internet Protocol ("IP") Addresses</font></b><br>An IP address is a unique number that is automatically assigned to your computer whenever you're surfing the Internet so that your computer can be identified by the main computers, known as "Web servers," that "serve up" Web pages.</p> 
-			<p>Jackson Hewitt and/or its affiliates collect IP addresses for the purposes of system administration, to report aggregated information to our advertisers, and to audit the use of our site. When Customers request pages on our or our affiliates' sites, our servers log the Customers' IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a Customer's session will be logged, but the Customer will remain anonymous to us. We can and will use IP addresses to identify a Customer when we feel it is necessary to enforce compliance with our site's terms of use or terms of service or to protect our service, site, customers or others.</p> 
-			<p><b><font color="#D7313D">Use Of Cookies</font></b><br>What are cookies? Cookies are small pieces of information that a Web site sends to your computer for record keeping purposes. The information is stored in a file on your computer. Cookies make Web surfing easier for you by saving your preferences so that we can use the saved information to facilitate your use of our Web site when you return to the site. Cookies do not tell us your individual identity unless you have chosen to provide it to us. We never save passwords or credit card information in cookies. The use of cookies is an industry standard, and as such, you'll find that most major Web sites use them.</p> 
-			<p>By showing how and when Customers use a site, cookies help us see which areas are popular and which are not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide services better tailored to our Customers' needs.</p> 
-			<p>Most cookies expire after a defined period of time, or you can delete your cookie file at any time. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, note that some parts of our or our affiliates' services will not function properly or may be considerably slower if you refuse cookies.</p> 
-			<p>We have two primary uses for cookies. First, we use them to specify a Customer's preferences. Second, we use cookies to track Customers' Web site usage trends and patterns. This helps us understand our Customers' needs better and improve areas of our services that our Customers find valuable. While both of these activities depend on the use of cookies, you have the option of disabling the cookies via your browser preferences. </p> 
-			<p>You may occasionally get cookies from our advertisers. Neither we nor our affiliates control these cookies. The use of advertising cookies sent by third-party servers is standard in the Internet industry. </p> 
-			<p>Jackson Hewitt uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to http://www.doubleclick.net/us/corporate/privacy.</p> 
-			<p><b><font color="#D7313D">With whom does Jackson Hewitt share my Information?</font></b><br>As a general rule, we will not disclose any specific personal information that you submit to us about you ("Personal Information") in a manner that connects you with the Personal Information, except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. The following describes some of the ways that your Personal Information may be disclosed.</p> 
-			<p><b><font color="#D7313D">Business Partners &amp; Sponsors</font></b><br>Jackson Hewitt may disclose some or all of your Personal Information to business partners or sponsors, but this use will be specifically described to you prior to data collection or prior to transferring the data. Promotions may offer opportunities to request additional information from sponsors. By requesting more information, you give us permission to transfer your Personal Information to the sponsor so they can fulfill your request. In many instances, only your e-mail address will be shared. If more Personal Information will be shared with the sponsor, you will be notified prior to the transfer.</p> 
-			<p><b><font color="#D7313D">Third Party &amp; Aggregate Data</font></b><br>From time to time, you may be offered the opportunity to receive materials or special offers from third parties. If you opt to receive information from these third parties, we will (with your permission) share your name and e-mail address with such third parties. Under confidentiality agreements, we may match Personal Information with third party data. Also, we may keep track of what portions of the Web site Customers are visiting and other Customer statistics, and aggregate this information to help us create a better experience for users of our Web site. This is all done without knowing your name or other Personal Information in order to describe our viewers and services to prospective partners, advertisers, and other third parties, and for other lawful purposes.</p> 
-			<p><b><font color="#D7313D">Other</font></b><br>We may also disclose account Information (if any) in special cases when we have reason to believe that disclosing this Information is necessary to identify, contact or bring legal action against someone who may be violating our terms of use or terms of service, or may be causing injury to or interference (either intentionally or unintentionally) with any of our rights or property, Customers, or anyone else, we may disclose or access account Information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services.</p> 
-			<p><b><font color="#D7313D">What happens when you link to a third party site?</font></b><br>You should be aware that when you are on our or our affiliates' sites, you could hyperlink or be directed to other sites that are beyond our control and/or outside our service. These other sites may include sites of advertisers, sponsors and partners that may contain our or our affiliates' logo as part of a co-branding agreement. These other sites may send their own cookies to Customers, collect data, or solicit Information. </p> 
-			<p>Neither we nor our affiliates do not control such sites, and, therefore, we are not responsible for their contents or the hyperlinks or advertising they choose to place on such sites. Our inclusion of hyperlinks to these sites does not imply any endorsement of the material on such sites or any association with their operators. Our privacy policy does not extend to anything that is inherent in the operation of the Internet, or that beyond our or our affiliates' control. </p> 
-			<p>Please keep in mind that whenever you give out information online (for example, via email) that information can be collected and used by people you don't know. Jackson Hewitt and its affiliates strive to protect their Customers' information and privacy, but we cannot guarantee the security of any information you disclose online, and you disclose such information at your own risk.</p> 
-			<p><b><font color="#D7313D">Is my information secure from others using the www.JacksonHewitt.com site?</font></b><br>The security of all information associated with our Customers is an important concern to us. We exercise care in providing secure transmission of your information from your computer to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your information, we and our affiliates can't ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we use industry standard efforts to safeguard the confidentiality of your information. However, "perfect security" does not exist on the Internet.</p> 
-			<p><b><font color="#D7313D">YOUR ACCEPTANCE OF THESE TERMS</font></b><br>
-			By using this site, you signify your agreement to Jackson Hewitt's Privacy Policy.</p> 
-			<p><b><font color="#D7313D"><font color="#ff0000">IF YOU DO NOT AGREE WITH THIS POLICY, PLEASE DO NOT USE THIS SITE.</font></font></b></p> 
-			<p>Your continued use of Jackson Hewitt's and/or its affiliates' sites following the posting of changes to these terms will mean you accept those changes.</p>
-
-			 		<!---------------------------------------------------------------------------->
-		<!-- 								END Body Content 						-->
-		<!---------------------------------------------------------------------------->
-														</td>
-													</tr>
-												</tbody></table>
-												
-											</td>
-											
-										    <td background="/images/bg_content.jpg">&nbsp;</td>
-											
-										</tr>
-										<tr>
-											<td width="10" height="100%" bgcolor="#FFFFFF"><img src="/images/trans.gif"></td>
-											<td height="100%" bgcolor="#FFFFFF"><img src="/images/trans.gif"></td>
-											<td width="10" height="100%" background="/images/bg_content.jpg"><img src="/images/trans.gif"></td>
-										</tr>
-									</tbody></table>
-									
-									</td>
-								
-								<td width="3" align="center" valign="top" bgcolor="#999999"><img src="/images/white.gif" width="3" height="3"></td>
-								<td width="152" align="center" valign="top" bgcolor="#CCCCCC">
-									<table width="152" border="0" cellspacing="0" cellpadding="0">
-										<tbody><tr>
-											<td valign="top" bgcolor="#FFFFFF" align="center"><img src="/images/white.gif" width="152" height="3"></td>
-										</tr>
-<!---------------------------------------------------------------------------->
-<!-- 								Right-Hand Buckets 						-->
-<!---------------------------------------------------------------------------->
-                                        					
-										      <tr><td style="padding: 10px;"><a href="https://secure.jacksonhewitt.com/EW2/products_EW2_intro.asp"><img src="/images/bucket02_w2.gif" border="0"></a></td></tr>
-		                                      <tr><td><img src="/images/hr.gif" border="0" width="152" height="1"></td></tr> 
-		                                      <!--?xml version="1.0" encoding="UTF-16"?--><tr xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace"><td style="padding: 10px;"><a href="/tackle_money_coupon.asp"><img src="/images/bucket01_15off.gif" border="0"></a></td></tr><tr xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace"><td><img src="/images/hr.gif" border="0" width="152" height="1"></td></tr><!--?xml version="1.0" encoding="UTF-16"?--><tr xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace"><td style="padding: 10px;"><a href="/tackle_why_taxprep.asp"><img src="/images/bucket02_taxexperts.gif" border="0"></a></td></tr><tr xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace"><td><img src="/images/hr.gif" border="0" width="152" height="1"></td></tr><!--?xml version="1.0" encoding="UTF-16"?--><tr xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace"><td style="padding: 10px;" class="right_text"><b class="right_head2">Tax Tips</b><br><b></b><br>There are certain types of income that are not taxed and do not have to be used to determine your 
-					taxable income. These include child support payments, military allowances, veterans' benefits, 
-					welfare benefits, and workers' compensation. A cash rebate that you received for a car purchase 
-					is not considered taxable income. 
-		</td></tr><tr xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace"><td><img src="/images/hr.gif" border="0" width="152" height="1"></td></tr>
-									</tbody></table> 
-								</td>
-								
-							</tr>
-					 </tbody></table>
-					</td>
-				</tr>
-				
-				<tr>
-					<td height="20" valign="top" nowrap="" bgcolor="#000000">
-						<div align="center" class="footer">
-						<a href="http://www.jacksonhewitt.com/index.asp" class="footer">home</a> | 
-						<a href="http://www.jacksonhewitt.com/about.asp" class="footer">about us</a> | 
-						<a href="http://www.jacksonhewitt.com/news.asp" class="footer">tax news</a> | 
-						<a href="http://www.jacksonhewitt.com/tackle.asp" class="footer">tackle your taxes</a> | 
-						<a href="http://www.jacksonhewitt.com/learn.asp" class="footer">learn &amp; earn</a> | 
-						<a href="http://www.jacksonhewitt.com/franchise.asp" class="footer">own a franchise</a> | 
-						<a href="http://www.jacksonhewitt.com/about_work.asp" class="footer">work with us</a> | 
-						<a href="http://www.jacksonhewitt.com/about_privacy.asp" class="footer">privacy/terms of use</a>
-						<br>© 2006 Jackson Hewitt Inc. All rights reserved.</div>
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
+<body>
+    <form name="aspnetForm" method="post" action="https://web.archive.org/web/20100516165448id_/http://www.jacksonhewitt.com/privacy-policy/" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTEwMjcxNTA5MA9kFgJmD2QWAmYPZBYCAgMQZGQWBAIBDxYCHgRocmVmBVRodHRwOi8vc2VjdXJlLmphY2tzb25oZXdpdHRvbmxpbmUuY29tL2RpcmVjdGxvZ2luLmFzcD93ZWxjb21lPUZKMTQwMjk1MyZBPURSNzkzJmVsPTFkAgcPZBYEAgMPZBYCAgUPFgIeBWNsYXNzBSZnbG9iYWxfc2lkZWJhcl9uYXZfZmxleGlibGVfbW92aWVfaXRlbWQCBw9kFgoCAw8PFgQeCEltYWdlVXJsBRsvd29ya2FyZWEvaW1hZ2VzL3NwYWNlci5naWYeDUFsdGVybmF0ZVRleHQFEUphY2tzb25IZXdpdHQuY29tZGQCBQ8WAh4EVGV4dAUOUHJpdmFjeSBQb2xpY3lkAgkPDxYEHghDc3NDbGFzcwUSY2F0ZWdvcnlfcGFyYWdyYXBoHgRfIVNCAgJkZAINDxYCHgdWaXNpYmxlaGQCDw8PFgIfB2hkZGQ=">
 </div>
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+
+<script src="/WebResource.axd?d=xgA43KxJUqhrguKfYGuSk9wYDqM_vRUvwx40ipG-4OXxgvcx_1DsFuHAYXvzWrQKD7HxBNqIqvwpF5l3RdCl-A2&amp;t=633959468600000000" type="text/javascript"></script>
 <script type="text/javascript">
-_uacct = "UA-664280-1";
-urchinTracker();
+//<![CDATA[
+ektb_pathToImage = '/WorkArea/images/application/loading_small.gif';__$BubbleCloseIconPath='/WorkArea/';//]]>
 </script>
 
+  <div id="global_container">
+
+<!--Global header content area starts here-->
+<div id="global_header">
+
+<div id="global_header_logo"><a href="/" title="Jackson Hewitt Tax Service Home"><img src="/images/global_JH_Logo.gif" class="logo" alt=""></a></div>
+
+<div id="global_header_login">
+
+<p class="header_links">
+<a href="/" class="global_header_home" target="_self">Home</a>
+
+</p>
+
+<p id="login_button">
+<a href="http://secure.jacksonhewittonline.com/directlogin.asp?welcome=FJ1402953&amp;A=DR793&amp;el=1" id="ctl00_ctl00_alogin" class="global_header_login" target="_self">Jackson Hewitt Online Registered Users Log In</a>
+</p>
+
+</div>
+
+</div>
+<!--Global header content area ends here-->
+
+
+<!--Global search locator area content area starts here-->
+<div id="global_searchlocatorarea">
+
+<div id="global_searcharea_left">
+
+<div id="ctl00_ctl00_pnlSearch" class="search_form">
+	
+<input type="text" id="txtSearch" class="search_form_input">
+<input type="image" src="/images/global_transparent_20x20.gif" width="20" height="20" alt="Search" title="Search" id="imbSearch" class="search_form_button">
+
+</div>
+
+</div>
+
+<div id="global_locatorarea_right">
+
+<p style="display:none">Locate a Jackson Hewitt Office</p>
+
+<div id="ctl00_ctl00_pnlLocator" class="locator_form">
+	
+<input type="text" id="txtLocator" class="locator_form_input">
+<input type="image" src="/images/global_transparent_20x20.gif" width="20" height="20" alt="Search" title="Search" class="locator_form_button" id="imbLocate">
+
+</div>
+
+</div>
+
+</div>
+<!--Global search locator area content area ends here-->
+
+        
+    <!--Global sidebar column starts here-->
+    <div id="global_sidebar_left">
+        <!--Global sidebar navigation starts here-->
+   
+        
+        <div id="global_sidebar_nav_flexible">
+                     <div id="ctl00_ctl00_ContentPlaceHolder1_sidemenu">
+	<div class="sidemenu"><div id="e1e4540ee_6_
+  0_ekflexmenu
+            "><div class="
+                ekflexmenu_menu_level_0 ekflexmenu_submenu
+              "><ul class="ekflexmenu_submenu_items" id="e1e4540ee_6_
+  0_submenu_items
+                "><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel" id="e1e4540ee_6_10"><p><img class="openbutton jqbutton" border="0" id="e1e4540ee_6_10_expander" src="&#13;&#10;                  /images/global_icon_plussign.png&#13;&#10;                "><a id="e1e4540ee_6_10_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=55">Prepare Your Taxes</a></p><input type="hidden" id="e1e4540ee_6_10_parentid" value="e1e4540ee_6_
+  6"><ul id="e1e4540ee_6_10_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_21"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_21_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_21_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10453">In-Office Products/Services</a></p><input type="hidden" id="e1e4540ee_6_21_parentid" value="e1e4540ee_6_
+  10"><ul id="e1e4540ee_6_21_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_24"><p><a id="e1e4540ee_6_24_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=273">IRS Direct</a></p><input type="hidden" id="e1e4540ee_6_24_parentid" value="e1e4540ee_6_
+  21"></li><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_23"><p><a id="e1e4540ee_6_23_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=274">Assisted Refund</a></p><input type="hidden" id="e1e4540ee_6_23_parentid" value="e1e4540ee_6_
+  21"></li><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_28"><p><a id="e1e4540ee_6_28_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=277">Flex-Pay<sup>®</sup> Program</a></p><input type="hidden" id="e1e4540ee_6_28_parentid" value="e1e4540ee_6_
+  21"></li><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_29"><p><a id="e1e4540ee_6_29_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=278">The Gold Guarantee<sup>®</sup></a></p><input type="hidden" id="e1e4540ee_6_29_parentid" value="e1e4540ee_6_
+  21"></li><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_30"><p><a id="e1e4540ee_6_30_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10202"><em>ipower<sup>®</sup></em> Card</a></p><input type="hidden" id="e1e4540ee_6_30_parentid" value="e1e4540ee_6_
+  21"><ul id="e1e4540ee_6_30_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li class="ekflexmenu_menu_level_4 ekflexmenu_submenu" id="e1e4540ee_6_31"><p><a id="e1e4540ee_6_31_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=280">About <em>ipower<sup>®</sup></em></a></p><input type="hidden" id="e1e4540ee_6_31_parentid" value="e1e4540ee_6_
+  30"></li><li class="ekflexmenu_menu_level_4 ekflexmenu_submenu" id="e1e4540ee_6_34"><p><a id="e1e4540ee_6_34_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=440">Using Your <em>ipower<sup>®</sup></em> Card</a></p><input type="hidden" id="e1e4540ee_6_34_parentid" value="e1e4540ee_6_
+  30"></li><li class="ekflexmenu_menu_level_4 ekflexmenu_submenu" id="e1e4540ee_6_36"><p><a id="e1e4540ee_6_36_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10411">Fee Schedule</a></p><input type="hidden" id="e1e4540ee_6_36_parentid" value="e1e4540ee_6_
+  30"></li><li class="ekflexmenu_menu_level_4 ekflexmenu_submenu" id="e1e4540ee_6_38"><p><a id="e1e4540ee_6_38_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=715">FAQs</a></p><input type="hidden" id="e1e4540ee_6_38_parentid" value="e1e4540ee_6_
+  30"></li><li class="ekflexmenu_menu_level_4 ekflexmenu_submenu" id="e1e4540ee_6_39"><p><a id="e1e4540ee_6_39_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=875">iAdvance<sup>®</sup> Line of Credit from MetaBank</a></p><input type="hidden" id="e1e4540ee_6_39_parentid" value="e1e4540ee_6_
+  30"></li></ul></li><li><a class="ekflexmenu_link" href="/Prepare-Your-Taxes/In-Office-Products-Services/iAdvance-Line-of-Credit-from-MetaBank/" target="_self">iAdvance Line of Credit from MetaBank</a></li><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_123"><p><a id="e1e4540ee_6_123_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10181">W-2 Download</a></p><input type="hidden" id="e1e4540ee_6_123_parentid" value="e1e4540ee_6_
+  21"><ul id="e1e4540ee_6_123_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li><a class="ekflexmenu_link" href="/Prepare-Your-Taxes/W-2-Downloads/W2-Form---ADP-pay-stub/" target="_self">W2 Form - ADP pay stub</a></li><li><a class="ekflexmenu_link" href="/Prepare-Your-Taxes/W-2-Downloads/W2-Form---ADP-W2/" target="_self">W2 Form - ADP W2</a></li><li><a class="ekflexmenu_link" href="/walmartw2.aspx" target="_self">W2 Form - TALX</a></li><li><a class="ekflexmenu_link" href="/Prepare-Your-Taxes/W-2-Downloads/W2-Form---CIC-Plus/" target="_self">W2 Form - CIC Plus</a></li></ul></li></ul></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_40"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_40_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_40_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9197">Jackson Hewitt Online</a></p><input type="hidden" id="e1e4540ee_6_40_parentid" value="e1e4540ee_6_
+  10"><ul id="e1e4540ee_6_40_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li><a class="ekflexmenu_link" href="/Prepare-Your-Taxes/Jackson-Hewitt-Online/QUICK---EASY/" target="_self">Quick &amp; Easy</a></li><li><a class="ekflexmenu_link" href="/Prepare-Your-Taxes/Jackson-Hewitt-Online/LIFE-EVENTS/" target="_self">Life Events</a></li><li><a class="ekflexmenu_link" href="/Prepare-Your-Taxes/Jackson-Hewitt-Online/JOB-SPECIFIC/" target="_self">Job Specific</a></li><li><a class="ekflexmenu_link" href="/Prepare-Your-Taxes/Jackson-Hewitt-Online/Guided-Tour/" target="_self">Guided Tour</a></li></ul></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_46"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_46_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_46_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9205">Disbursement Options</a></p><input type="hidden" id="e1e4540ee_6_46_parentid" value="e1e4540ee_6_
+  10"></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_47"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_47_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_47_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9206">Tax Filing FAQs</a></p><input type="hidden" id="e1e4540ee_6_47_parentid" value="e1e4540ee_6_
+  10"></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_48"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_48_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_48_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9924">What To Bring</a></p><input type="hidden" id="e1e4540ee_6_48_parentid" value="e1e4540ee_6_
+  10"></li></ul></li><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel" id="e1e4540ee_6_7"><p><img class="openbutton jqbutton" border="0" id="e1e4540ee_6_7_expander" src="&#13;&#10;                  /images/global_icon_plussign.png&#13;&#10;                "><a id="e1e4540ee_6_7_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=47">Learn Tax Preparation</a></p><input type="hidden" id="e1e4540ee_6_7_parentid" value="e1e4540ee_6_
+  6"><ul id="e1e4540ee_6_7_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_8"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_8_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_8_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=32">Course Offerings</a></p><input type="hidden" id="e1e4540ee_6_8_parentid" value="e1e4540ee_6_
+  7"><ul id="e1e4540ee_6_8_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li><a class="ekflexmenu_link" href="/Become-a-Tax-Preparer/Course-Offerings/Basic-Income-Tax-Course/" target="_self">Basic Income Tax Course</a></li><li><a class="ekflexmenu_link" href="/Become-a-Tax-Preparer/Course-Offerings/Intermediate-and-Advanced-Tax-Courses/" target="_self">Intermediate and Advanced Tax Courses</a></li></ul></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_63"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_63_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_63_button" tabindex="0" class="ekflexmenu_button" href="/become-a-tax-preparer/inquiry/tax-school-inquiry">Inquiry</a></p><input type="hidden" id="e1e4540ee_6_63_parentid" value="e1e4540ee_6_
+  7"></li></ul></li><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel" id="e1e4540ee_6_72"><p><img class="openbutton jqbutton" border="0" id="e1e4540ee_6_72_expander" src="&#13;&#10;                  /images/global_icon_plussign.png&#13;&#10;                "><a id="e1e4540ee_6_72_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10197">Franchise Sales</a></p><input type="hidden" id="e1e4540ee_6_72_parentid" value="e1e4540ee_6_
+  6"><ul id="e1e4540ee_6_72_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_73"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_73_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_73_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9943">Do you have what it takes?</a></p><input type="hidden" id="e1e4540ee_6_73_parentid" value="e1e4540ee_6_
+  72"><ul id="e1e4540ee_6_73_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_92"><p><a id="e1e4540ee_6_92_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9944">Why Franchise?</a></p><input type="hidden" id="e1e4540ee_6_92_parentid" value="e1e4540ee_6_
+  73"></li><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_93"><p><a id="e1e4540ee_6_93_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9945">Why a tax franchise?</a></p><input type="hidden" id="e1e4540ee_6_93_parentid" value="e1e4540ee_6_
+  73"></li><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_94"><p><a id="e1e4540ee_6_94_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9946">Candidate Profile</a></p><input type="hidden" id="e1e4540ee_6_94_parentid" value="e1e4540ee_6_
+  73"></li><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_95"><p><a id="e1e4540ee_6_95_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9947">Start up Investment</a></p><input type="hidden" id="e1e4540ee_6_95_parentid" value="e1e4540ee_6_
+  73"></li></ul></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_74"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_74_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_74_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9950">Why a Jackson Hewitt  Franchise?</a></p><input type="hidden" id="e1e4540ee_6_74_parentid" value="e1e4540ee_6_
+  72"><ul id="e1e4540ee_6_74_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_97"><p><a id="e1e4540ee_6_97_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10153">System</a></p><input type="hidden" id="e1e4540ee_6_97_parentid" value="e1e4540ee_6_
+  74"><ul id="e1e4540ee_6_97_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li class="ekflexmenu_menu_level_4 ekflexmenu_submenu" id="e1e4540ee_6_100"><p><a id="e1e4540ee_6_100_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10154">Fact Sheet</a></p><input type="hidden" id="e1e4540ee_6_100_parentid" value="e1e4540ee_6_
+  97"></li></ul></li><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_98"><p><a id="e1e4540ee_6_98_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10157">Support</a></p><input type="hidden" id="e1e4540ee_6_98_parentid" value="e1e4540ee_6_
+  74"><ul id="e1e4540ee_6_98_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li class="ekflexmenu_menu_level_4 ekflexmenu_submenu" id="e1e4540ee_6_102"><p><a id="e1e4540ee_6_102_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10158">Business Support</a></p><input type="hidden" id="e1e4540ee_6_102_parentid" value="e1e4540ee_6_
+  98"></li><li class="ekflexmenu_menu_level_4 ekflexmenu_submenu" id="e1e4540ee_6_103"><p><a id="e1e4540ee_6_103_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10159">Business-Tax Training</a></p><input type="hidden" id="e1e4540ee_6_103_parentid" value="e1e4540ee_6_
+  98"></li><li class="ekflexmenu_menu_level_4 ekflexmenu_submenu" id="e1e4540ee_6_104"><p><a id="e1e4540ee_6_104_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10160">IT Support</a></p><input type="hidden" id="e1e4540ee_6_104_parentid" value="e1e4540ee_6_
+  98"></li></ul></li><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_99"><p><a id="e1e4540ee_6_99_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10161">Brand</a></p><input type="hidden" id="e1e4540ee_6_99_parentid" value="e1e4540ee_6_
+  74"><ul id="e1e4540ee_6_99_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li class="ekflexmenu_menu_level_4 ekflexmenu_submenu" id="e1e4540ee_6_105"><p><a id="e1e4540ee_6_105_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10162">Partnership With Walmart</a></p><input type="hidden" id="e1e4540ee_6_105_parentid" value="e1e4540ee_6_
+  99"></li><li class="ekflexmenu_menu_level_4 ekflexmenu_submenu" id="e1e4540ee_6_106"><p><a id="e1e4540ee_6_106_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10163">Locations</a></p><input type="hidden" id="e1e4540ee_6_106_parentid" value="e1e4540ee_6_
+  99"></li><li class="ekflexmenu_menu_level_4 ekflexmenu_submenu" id="e1e4540ee_6_107"><p><a id="e1e4540ee_6_107_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10164">Marketing and Advertising</a></p><input type="hidden" id="e1e4540ee_6_107_parentid" value="e1e4540ee_6_
+  99"></li><li class="ekflexmenu_menu_level_4 ekflexmenu_submenu" id="e1e4540ee_6_108"><p><a id="e1e4540ee_6_108_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10165">Corporate Alliances</a></p><input type="hidden" id="e1e4540ee_6_108_parentid" value="e1e4540ee_6_
+  99"></li></ul></li></ul></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_75"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_75_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_75_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9951">Ownership Options</a></p><input type="hidden" id="e1e4540ee_6_75_parentid" value="e1e4540ee_6_
+  72"><ul id="e1e4540ee_6_75_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_109"><p><a id="e1e4540ee_6_109_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10166">Purchase a Territory</a></p><input type="hidden" id="e1e4540ee_6_109_parentid" value="e1e4540ee_6_
+  75"></li><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_110"><p><a id="e1e4540ee_6_110_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10454">Purchase an Existing Business</a></p><input type="hidden" id="e1e4540ee_6_110_parentid" value="e1e4540ee_6_
+  75"><ul id="e1e4540ee_6_110_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li class="ekflexmenu_menu_level_4 ekflexmenu_submenu" id="e1e4540ee_6_113"><p><a id="e1e4540ee_6_113_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10170">Steps to Purchase</a></p><input type="hidden" id="e1e4540ee_6_113_parentid" value="e1e4540ee_6_
+  110"></li><li class="ekflexmenu_menu_level_4 ekflexmenu_submenu" id="e1e4540ee_6_114"><p><a id="e1e4540ee_6_114_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10171">Financial Considerations</a></p><input type="hidden" id="e1e4540ee_6_114_parentid" value="e1e4540ee_6_
+  110"></li></ul></li><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_111"><p><a id="e1e4540ee_6_111_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10172">Convert or Sell Your Existing Tax Practice</a></p><input type="hidden" id="e1e4540ee_6_111_parentid" value="e1e4540ee_6_
+  75"><ul id="e1e4540ee_6_111_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li class="ekflexmenu_menu_level_4 ekflexmenu_submenu" id="e1e4540ee_6_115"><p><a id="e1e4540ee_6_115_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10173">Expand &amp; Grow</a></p><input type="hidden" id="e1e4540ee_6_115_parentid" value="e1e4540ee_6_
+  111"></li><li class="ekflexmenu_menu_level_4 ekflexmenu_submenu" id="e1e4540ee_6_116"><p><a id="e1e4540ee_6_116_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10174">Develop a Succession Strategy</a></p><input type="hidden" id="e1e4540ee_6_116_parentid" value="e1e4540ee_6_
+  111"></li><li class="ekflexmenu_menu_level_4 ekflexmenu_submenu" id="e1e4540ee_6_117"><p><a id="e1e4540ee_6_117_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10177">Acquisition FAQs</a></p><input type="hidden" id="e1e4540ee_6_117_parentid" value="e1e4540ee_6_
+  111"></li></ul></li></ul></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_76"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_76_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_76_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9952">Success Stories &amp; Testimonials</a></p><input type="hidden" id="e1e4540ee_6_76_parentid" value="e1e4540ee_6_
+  72"></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_77"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_77_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_77_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9954">Take the First Step</a></p><input type="hidden" id="e1e4540ee_6_77_parentid" value="e1e4540ee_6_
+  72"></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_78"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_78_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_78_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9955">FAQs</a></p><input type="hidden" id="e1e4540ee_6_78_parentid" value="e1e4540ee_6_
+  72"></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_79"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_79_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_79_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9956">Resources &amp; News</a></p><input type="hidden" id="e1e4540ee_6_79_parentid" value="e1e4540ee_6_
+  72"><ul id="e1e4540ee_6_79_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_118"><p><a id="e1e4540ee_6_118_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10178">Resource Center</a></p><input type="hidden" id="e1e4540ee_6_118_parentid" value="e1e4540ee_6_
+  79"></li><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_119"><p><a id="e1e4540ee_6_119_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=ekfrm&amp;itemid=10497">Sign up for Updates and News</a></p><input type="hidden" id="e1e4540ee_6_119_parentid" value="e1e4540ee_6_
+  79"></li></ul></li></ul></li><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel" id="e1e4540ee_6_50"><p><img class="openbutton jqbutton" border="0" id="e1e4540ee_6_50_expander" src="&#13;&#10;                  /images/global_icon_plussign.png&#13;&#10;                "><a id="e1e4540ee_6_50_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9204">Resource Center</a></p><input type="hidden" id="e1e4540ee_6_50_parentid" value="e1e4540ee_6_
+  6"><ul id="e1e4540ee_6_50_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_62"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_62_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_62_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=45">Tax Forms</a></p><input type="hidden" id="e1e4540ee_6_62_parentid" value="e1e4540ee_6_
+  50"></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_58"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_58_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_58_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9256">Tax Topics</a></p><input type="hidden" id="e1e4540ee_6_58_parentid" value="e1e4540ee_6_
+  50"><ul id="e1e4540ee_6_58_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li><a class="ekflexmenu_link" href="/Resource-Center/Tax-Topics/Are-You-Self-Employed/" target="_self">Are You Self-Employed</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Tax-Topics/Audits/" target="_self">Audits</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Tax-Topics/Change-Your-Name/" target="_self">Change Your Name</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Tax-Topics/Charitable-Contributions/" target="_self">Charitable Contributions</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Tax-Topics/Dependents/" target="_self">Dependents</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Tax-Topics/Earned-Income-Credit/" target="_self">Earned Income Credit</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Tax-Topics/Education-Credits---Deductions/" target="_self">Education Credits &amp; Deductions</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Tax-Topics/Employment-Business-Expenses/" target="_self">Employment Business Expenses</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Tax-Topics/Filing-Status/" target="_self">Filing Status</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Tax-Topics/Filing-Your-Return/" target="_self">Filing Your Return</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Tax-Topics/Home-Ownership/" target="_self">Home Ownership</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Tax-Topics/IRAs/" target="_self">IRAs</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Tax-Topics/IRS-e-file/" target="_self">IRS e-file</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Tax-Topics/Job-Related-Travel-Expenses/" target="_self">Job-Related Travel Expenses</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Tax-Topics/Job-Related-Moving-Expenses/" target="_self">Job-Related Moving Expenses</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Tax-Topics/Job-Related-Vehicle-Expenses/" target="_self">Job-Related Vehicle Expenses</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Tax-Topics/Medical-Expenses/" target="_self">Medical Expenses</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Tax-Topics/Military-Personnel/" target="_self">Military Personnel</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Tax-Topics/Older-Taxpayers/" target="_self">Older Taxpayers</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Tax-Topics/Pensions/" target="_self">Pensions</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Tax-Topics/Record-Keeping/" target="_self">Record Keeping</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Tax-Topics/Rental-Property/" target="_self">Rental Property</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Tax-Topics/Uniform-Definition-of-a-Child/" target="_self">Uniform Definition of a Child</a></li></ul></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_56"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_56_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_56_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9258">Calculators</a></p><input type="hidden" id="e1e4540ee_6_56_parentid" value="e1e4540ee_6_
+  50"><ul id="e1e4540ee_6_56_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li><a class="ekflexmenu_link" href="/Resource-Center/Calculators/2009-Federal-Income-Tax-Estimator/" target="_self">2009 Federal Income Tax Estimator</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Calculators/Capital-gains-(and-losses)-tax-estimator/" target="_self">Capital gains (and losses) tax estimator</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Calculators/Estate-Tax-Liability-Calculator/" target="_self">Estate Tax Liability Calculator</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Calculators/Interest-Paid-Calculator/" target="_self">Interest Paid Calculator</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Calculators/Investment-Interest-Calculator/" target="_self">Investment Interest Calculator</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Calculators/Investment-Returns-Calculator/" target="_self">Investment Returns Calculator</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Calculators/Itemize-vs-Standard-Deduction-Calculator/" target="_self">Itemize vs.Standard Deduction Calculator</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Calculators/Self-Employment-Tax-Calculator/" target="_self">Self-Employment Tax Calculator</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Calculators/Social-Security-Benefit-Tax-Calculator/" target="_self">Social Security Benefit Tax Calculator</a></li><li><a class="ekflexmenu_link" href="/Resource-Center/Calculators/Tax-Equivalent-Yield-Calculator/" target="_self">Tax-Equivalent Yield Calculator</a></li></ul></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_61"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_61_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_61_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9230">FAQs</a></p><input type="hidden" id="e1e4540ee_6_61_parentid" value="e1e4540ee_6_
+  50"></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_59"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_59_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_59_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9377">Tips, Deductions &amp; Credits</a></p><input type="hidden" id="e1e4540ee_6_59_parentid" value="e1e4540ee_6_
+  50"><ul id="e1e4540ee_6_59_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_60"><p><a id="e1e4540ee_6_60_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9378">Top 50 Overlooked Deductions</a></p><input type="hidden" id="e1e4540ee_6_60_parentid" value="e1e4540ee_6_
+  59"></li><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_66"><p><a id="e1e4540ee_6_66_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9220">Deductions@Work<sup>®</sup></a></p><input type="hidden" id="e1e4540ee_6_66_parentid" value="e1e4540ee_6_
+  59"></li><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_64"><p><a id="e1e4540ee_6_64_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9222">Tax Tips</a></p><input type="hidden" id="e1e4540ee_6_64_parentid" value="e1e4540ee_6_
+  59"></li><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_67"><p><a id="e1e4540ee_6_67_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9926">Overlooked Credits</a></p><input type="hidden" id="e1e4540ee_6_67_parentid" value="e1e4540ee_6_
+  59"></li></ul></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_57"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_57_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_57_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9232">Glossary</a></p><input type="hidden" id="e1e4540ee_6_57_parentid" value="e1e4540ee_6_
+  50"></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_52"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_52_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_52_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9254">Disaster Relief: What you need to know</a></p><input type="hidden" id="e1e4540ee_6_52_parentid" value="e1e4540ee_6_
+  50"><ul id="e1e4540ee_6_52_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_53"><p><a id="e1e4540ee_6_53_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9244">What To Do in A Disaser</a></p><input type="hidden" id="e1e4540ee_6_53_parentid" value="e1e4540ee_6_
+  52"></li><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_54"><p><a id="e1e4540ee_6_54_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9253">Casualty and Theft Loss</a></p><input type="hidden" id="e1e4540ee_6_54_parentid" value="e1e4540ee_6_
+  52"></li><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_55"><p><a id="e1e4540ee_6_55_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9255">How to Replace Lost Identification and Documents</a></p><input type="hidden" id="e1e4540ee_6_55_parentid" value="e1e4540ee_6_
+  52"></li><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_65"><p><a id="e1e4540ee_6_65_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9252">Home Inventory Guide</a></p><input type="hidden" id="e1e4540ee_6_65_parentid" value="e1e4540ee_6_
+  52"></li></ul></li></ul></li><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel" id="e1e4540ee_6_11"><p><img class="openbutton jqbutton" border="0" id="e1e4540ee_6_11_expander" src="&#13;&#10;                  /images/global_icon_plussign.png&#13;&#10;                "><a id="e1e4540ee_6_11_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=43">About Us</a></p><input type="hidden" id="e1e4540ee_6_11_parentid" value="e1e4540ee_6_
+  6"><ul id="e1e4540ee_6_11_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_68"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_68_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_68_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=39">Media Center</a></p><input type="hidden" id="e1e4540ee_6_68_parentid" value="e1e4540ee_6_
+  11"><ul id="e1e4540ee_6_68_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_128"><p><a id="e1e4540ee_6_128_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10225">Press Releases</a></p><input type="hidden" id="e1e4540ee_6_128_parentid" value="e1e4540ee_6_
+  68"></li><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e1e4540ee_6_129"><p><a id="e1e4540ee_6_129_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=10224">Advertising &amp; Marketing</a></p><input type="hidden" id="e1e4540ee_6_129_parentid" value="e1e4540ee_6_
+  68"></li></ul></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_69"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_69_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_69_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9940">Investor Relations</a></p><input type="hidden" id="e1e4540ee_6_69_parentid" value="e1e4540ee_6_
+  11"><ul id="e1e4540ee_6_69_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li><a class="ekflexmenu_link" href="/About-Us/Investor-Relations/Corporate-Governance/" target="_self">Corporate Governance</a></li><li><a class="ekflexmenu_link" href="/About-Us/Investor-Relations/Management/" target="_self">Management</a></li><li><a class="ekflexmenu_link" href="/About-Us/Investor-Relations/Board-of-Directors/" target="_self">Board of Directors</a></li><li><a class="ekflexmenu_link" href="/About-Us/Investor-Relations/Committee-Composition/" target="_self">Committee Composition</a></li><li><a class="ekflexmenu_link" href="/About-Us/Investor-Relations/Code-of-Conduct/" target="_self">Code of Conduct</a></li><li><a class="ekflexmenu_link" href="/About-Us/Investor-Relations/E-mail-Alerts/" target="_self">E-mail Alerts</a></li><li><a class="ekflexmenu_link" href="/About-Us/Investor-Relations/Stock-Quote/" target="_self">Stock Quote</a></li><li><a class="ekflexmenu_link" href="/About-Us/Investor-Relations/Stock-Chart/" target="_self">Stock Chart</a></li><li><a class="ekflexmenu_link" href="/About-Us/Investor-Relations/Historical-Price-Lookup/" target="_self">Historical Price Lookup</a></li><li><a class="ekflexmenu_link" href="/About-Us/Investor-Relations/Press-Releases/" target="_self">Press Releases</a></li><li><a class="ekflexmenu_link" href="/About-Us/Investor-Relations/Calendar/" target="_self">Calendar</a></li><li><a class="ekflexmenu_link" href="/About-Us/Investor-Relations/Archived-Presentations/" target="_self">Archived Presentations</a></li><li><a class="ekflexmenu_link" href="/About-Us/Investor-Relations/Analyst-Coverage/" target="_self">Analyst Coverage</a></li><li><a class="ekflexmenu_link" href="/About-Us/Investor-Relations/SEC-Filings/" target="_self">SEC Filings</a></li><li><a class="ekflexmenu_link" href="/About-Us/Investor-Relations/Contact-Information/" target="_self">Contact Information</a></li><li><a class="ekflexmenu_link" href="/About-Us/Investor-Relations/Info-Request/" target="_self">Info Request</a></li><li><a class="ekflexmenu_link" href="/About-Us/Investor-Relations/Annual-Reports/" target="_self">Annual Reports</a></li></ul></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_71"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_71_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_71_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9941">Careers</a></p><input type="hidden" id="e1e4540ee_6_71_parentid" value="e1e4540ee_6_
+  11"></li></ul></li><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel" id="e1e4540ee_6_122"><p><img class="openbutton jqbutton" border="0" id="e1e4540ee_6_122_expander" src="&#13;&#10;                  /images/global_icon_plussign.png&#13;&#10;                "><a id="e1e4540ee_6_122_button" tabindex="0" class="ekflexmenu_button" href="/contact-us/customer-feedback-form/">Contact Us</a></p><input type="hidden" id="e1e4540ee_6_122_parentid" value="e1e4540ee_6_
+  6"><ul id="e1e4540ee_6_122_submenu_items" class="ekflexmenu_submenu_items" style="display:none;"><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_124"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_124_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_124_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=ekfrm&amp;itemid=10201">Ask Jackson</a></p><input type="hidden" id="e1e4540ee_6_124_parentid" value="e1e4540ee_6_
+  122"></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_125"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_125_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_125_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=ekfrm&amp;itemid=10223">Site Feedback Form</a></p><input type="hidden" id="e1e4540ee_6_125_parentid" value="e1e4540ee_6_
+  122"></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e1e4540ee_6_127"><p><img class="greyarrow jqbutton" border="0" id="e1e4540ee_6_127_expander" src="&#13;&#10;                  /images/icon_grey_arrow.png&#13;&#10;                "><a id="e1e4540ee_6_127_button" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=ekfrm&amp;itemid=10222">Media Request</a></p><input type="hidden" id="e1e4540ee_6_127_parentid" value="e1e4540ee_6_
+  122"></li></ul></li></ul></div></div></div>
+</div>
+        
+        </div>
+        <!--Movie Container starts here -->
+        <div id="global_sidebar_nav_flexible_movie" class="rounded_brbl">
+            
+   <h3 class="movie_headline">Video: American Opp Credit</h3>
+             <p id="ctl00_ctl00_ContentPlaceHolder1_videocarousel_leftarrow" class="arrow_left"> <a id="prevbtn">
+                    <img src="/images/icon_grey_arrow_left.png" alt=""></a></p>   
+                    <p id="ctl00_ctl00_ContentPlaceHolder1_videocarousel_rightarrow" class="arrow_right"><a id="nextbtn">
+                    <img src="/images/icon_grey_arrow.png" alt=""></a></p>
+            <div id="ctl00_ctl00_ContentPlaceHolder1_videocarousel_itemdiv" class="global_sidebar_nav_flexible_movie_item">
+                
+                
+            <ul class="movie" style="width: 1800px;"><li><a href="http://www.jacksonhewitt.com/assets/0/75/82/90/721/3d66686d-9c2d-4367-98e4-6fe0069f9e2a.flv" rel="shadowbox;width=800;height=600;" title="Video: American Opp Credit" target="_self"><img src="/uploadedImages/JacksonHewittcom/Resource_Center/Tips_and_Deductions/Tax_Tip_Videos/jh_video_thumb_1(1).jpg" alt="Video: American Opp Credit"></a></li><li><a href="http://www.jacksonhewitt.com/assets/0/75/82/90/721/aa4db17a-6894-4568-bc27-86fc40e19aad.flv" rel="shadowbox;width=800;height=600;" title="Video: Choosing a Tax Preparer" target="_self"><img src="/uploadedImages/JacksonHewittcom/Resource_Center/Tips_and_Deductions/Tax_Tip_Videos/jh_video_thumb_5.jpg" alt="Video: Choosing a Tax Preparer"></a></li><li><a href="http://www.jacksonhewitt.com/assets/0/75/82/90/721/e4253351-712a-4a96-ad44-d36ee2a35307.flv" rel="shadowbox;width=800;height=600;" title="Video: Considerations for Seniors" target="_self"><img src="/uploadedImages/JacksonHewittcom/Resource_Center/Tips_and_Deductions/Tax_Tip_Videos/jh_video_thumb_9.jpg" alt="Video: Considerations for Seniors"></a></li><li><a href="http://www.jacksonhewitt.com/assets/0/75/82/90/721/7a38695c-e95e-490c-8d3d-cea9d241e340.flv" rel="shadowbox;width=800;height=600;" title="Video: Earned Income Tax Credit" target="_self"><img src="/uploadedImages/JacksonHewittcom/Resource_Center/Tips_and_Deductions/Tax_Tip_Videos/jh_video_thumb_4.jpg" alt="Video: Earned Income Tax Credit"></a></li><li><a href="http://www.jacksonhewitt.com/assets/0/75/82/90/721/e2fec67a-6aa1-4046-ab34-ca21ddb1c216.flv" rel="shadowbox;width=800;height=600;" title="Video: First Time Home Buyer Credit" target="_self"><img src="/uploadedImages/JacksonHewittcom/Resource_Center/Tips_and_Deductions/Tax_Tip_Videos/jh_video_thumb_10.jpg" alt="Video: First Time Home Buyer Credit"></a></li><li><a href="http://www.jacksonhewitt.com/assets/0/75/82/90/721/9231ff89-2fa0-4d6b-9086-be6359d7a10d.flv" rel="shadowbox;width=800;height=600;" title="Video: Life Changes" target="_self"><img src="/uploadedImages/JacksonHewittcom/Resource_Center/Tips_and_Deductions/Tax_Tip_Videos/jh_video_thumb_2.jpg" alt="Video: Life Changes"></a></li><li><a href="http://www.jacksonhewitt.com/assets/0/75/82/90/721/c641a954-48ac-4a35-a15e-ac901eec75b4.flv" rel="shadowbox;width=800;height=600;" title="Video: Making Work Pay Credit" target="_self"><img src="/uploadedImages/JacksonHewittcom/Resource_Center/Tips_and_Deductions/Tax_Tip_Videos/jh_video_thumb_6.jpg" alt="Video: Making Work Pay Credit"></a></li><li><a href="http://www.jacksonhewitt.com/assets/0/75/82/90/721/0fb0d9a3-b7d4-4d1c-bbe8-139506d0507c.flv" rel="shadowbox;width=800;height=600;" title="Video: Tax Effects of Having a Child" target="_self"><img src="/uploadedImages/JacksonHewittcom/Resource_Center/Tips_and_Deductions/Tax_Tip_Videos/jh_video_thumb_7.jpg" alt="Video: Tax Effects of Having a Child"></a></li><li><a href="http://www.jacksonhewitt.com/assets/0/75/82/90/721/7f85c9f3-e0f8-4159-96fa-910107a5ff75.flv" rel="shadowbox;width=800;height=600;" title="Video: Tax Law Changes" target="_self"><img src="/uploadedImages/JacksonHewittcom/Resource_Center/Tips_and_Deductions/Tax_Tip_Videos/jh_video_thumb_9(1).jpg" alt="Video: Tax Law Changes"></a></li><li><a href="http://www.jacksonhewitt.com/assets/0/75/82/90/721/80c78625-c4ba-46ef-b2c0-157b3d70ff43.flv" rel="shadowbox;width=800;height=600;" title="Video:Top Tax Time Tips" target="_self"><img src="/uploadedImages/JacksonHewittcom/Resource_Center/Tips_and_Deductions/Tax_Tip_Videos/jh_video_thumb_3.jpg" alt="Video:Top Tax Time Tips"></a></li><li><a href="http://www.jacksonhewitt.com/assets/0/75/82/90/721/3d66686d-9c2d-4367-98e4-6fe0069f9e2a.flv" rel="shadowbox;width=800;height=600;" title="Video: American Opp Credit" target="_self"><img src="/uploadedImages/JacksonHewittcom/Resource_Center/Tips_and_Deductions/Tax_Tip_Videos/jh_video_thumb_1(1).jpg" alt="Video: American Opp Credit"></a></li></ul></div>
+                         
+        
+        </div>
+        <!--Movie Container ends here -->
+        <!--Global sidebar navigation ends here-->
+        <!--Resource center area starts here-->
+        
+        <div id="ctl00_ctl00_ContentPlaceHolder1_fmResourceMenu">
+	<div id="global_sidebar_resourcecenter" class="rounded_all"><p class="header">
+        Resource Center
+      </p><link type="text/css" rel="stylesheet" href="/css/resourcemenu.css"><div class="
+            global_sidebar_rescenter_item
+          " id="e6df91dd0_14_15"><a class="resourcecenter" target="_self" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=45"><p class="rescenter_icon"><img border="0" src="/uploadedImages/JacksonHewittcom/Resource_Center/global_icon_resourcecenter_02.gif"></p><p class="rescenter_title">Tax Forms</p><p class="rescenter_arrow"><img src="/images/icon_grey_arrow.png" alt=""></p></a><input type="hidden" id="e6df91dd0_14_15_parentid
+      " value="e6df91dd0_14_
+  14"></div><div class="
+            global_sidebar_rescenter_item
+          " id="e6df91dd0_14_16"><a class="resourcecenter" target="_self" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9258"><p class="rescenter_icon"><img border="0" src="/uploadedImages/JacksonHewittcom/Resource_Center/global_icon_resourcecenter_01.gif"></p><p class="rescenter_title">Calculators</p><p class="rescenter_arrow"><img src="/images/icon_grey_arrow.png" alt=""></p></a><input type="hidden" id="e6df91dd0_14_16_parentid
+      " value="e6df91dd0_14_
+  14"></div><div class="
+            global_sidebar_rescenter_item
+          " id="e6df91dd0_14_17"><a class="resourcecenter" target="_self" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9256"><p class="rescenter_icon"><img border="0" src="/uploadedImages/JacksonHewittcom/Resource_Center/global_icon_resourcecenter_03.gif"></p><p class="rescenter_title">Tax Topics</p><p class="rescenter_arrow"><img src="/images/icon_grey_arrow.png" alt=""></p></a><input type="hidden" id="e6df91dd0_14_17_parentid
+      " value="e6df91dd0_14_
+  14"></div><div class="
+            global_sidebar_rescenter_item
+          " id="e6df91dd0_14_18"><a class="resourcecenter" target="_self" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9377"><p class="rescenter_icon"><img border="0" src="/uploadedImages/JacksonHewittcom/Resource_Center/global_icon_resourcecenter_04.gif"></p><p class="rescenter_title">Tips &amp; Deductions</p><p class="rescenter_arrow"><img src="/images/icon_grey_arrow.png" alt=""></p></a><input type="hidden" id="e6df91dd0_14_18_parentid
+      " value="e6df91dd0_14_
+  14"></div><div class="
+            global_sidebar_rescenter_item_final
+          " id="e6df91dd0_14_19"><a class="resourcecenter" target="_self" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=9888"><p class="rescenter_icon"><img border="0" src="/uploadedImages/JacksonHewittcom/Resource_Center/global_icon_resourcecenter_05.gif"></p><p class="rescenter_title">FAQs</p><p class="rescenter_arrow"><img src="/images/icon_grey_arrow.png" alt=""></p></a><input type="hidden" id="e6df91dd0_14_19_parentid
+      " value="e6df91dd0_14_
+  14"></div></div>
+</div>
+        
+        <!--Resource center area ends here-->
+        <!--Small secondary footer icon area starts here-->
+        <div id="secondary_footericonarea" class="rounded_all">
+            <p class="icons">
+                
+                    <a href="http://blog.jacksonhewitt.com" title="Tax Talk Blog" target="_self">
+                        <img src="/images/secondary_footer_icon_02.gif" class="icon" alt="Tax Talk Blog"></a>
+                <a href="http://www.youtube.com/watch?v=jDM5KsdtNx0" target="_self">
+                    <img src="/images/secondary_footer_icon_03.gif" class="icon" alt="Jackson Hewtt on YouTube"></a> 
+                    <a href="http://facebook.com/jacksonhewitt" target="_self">
+                        <img src="/images/secondary_footer_icon_04.gif" class="icon" alt="Jackson Hewitt on Facebook"></a>
+                <a href="http://www.twitter.com/jacksonhewitt" target="_self">
+                    <img src="/images/secondary_footer_icon_05.gif" class="icon" alt="JAckson Hewitt on Twitter"></a>
+            </p>
+        </div>
+
+        </div>
+    <!--Global sidebar column ends here-->
+    
+   <div id="global_content_right">
+    
+    
+<input name="ctl00$ctl00$ContentPlaceHolder1$RightContent$__id" type="hidden" id="ctl00_ctl00_ContentPlaceHolder1_RightContent___id" class="__id" value="9939">
+<div id="secondary_content_right_imagearea" class="rounded_br"><img id="ctl00_ctl00_ContentPlaceHolder1_RightContent_imgHeader" src="/workarea/images/spacer.gif" alt="JacksonHewitt.com" style="border-width:0px;"></div>
+
+<!--Unique right column contents start here-->
+<div id="secondary_2columnright">
+
+<!--Secondary 2 column left column starts here-->
+<div id="secondary_2columnright_lc">
+
+<h2 class="category_header">Privacy Policy</h2>
+
+<h3 class="category_subhead"></h3>
+
+
+<div id="ctl00_ctl00_ContentPlaceHolder1_RightContent_cmsContentBlock" class="category_paragraph">
+	<div class="EktronAjaxLoading" align="left"><img src="/WorkArea/images/application/loading_big.gif" alt="Loading..."></div><p>Jackson Hewitt Inc. (“Jackson Hewitt,” “we,” “us” or “our”) recognizes the importance of protecting the information provided to us by visitors to <a href="http://www.jacksonhewitt.com/">www.jacksonhewitt.com</a> (the “Website”). This privacy statement explains what information may be collected from you when you visit the Website, how that information is used and how it is shared with third parties.&nbsp; </p>
+<h5><p>Jackson Hewitt offers individual tax preparation services and a wide range of financial products through various affiliates, franchisees and company-owed stores.&nbsp; Because we offer in-store and online tax preparation services, our privacy policies will vary depending on how you interact with Jackson Hewitt.&nbsp; This privacy policy applies solely to www.jacksonhewitt.com, independent of any business relationship you may have with us.<b> </b></p>
+<p>This privacy policy may change and will be updated on the Website. You should check this page periodically to ensure that you are in agreement with any changes. &nbsp;If we amend this privacy policy to permit material changes in the way we collect, use, and/or share your personal information, we will notify you of such amendment by prominently posting notice of such amendment on the Website’s homepage.&nbsp; &nbsp;<b><u></u></b></p>
+Information Collected by Jackson Hewitt </h5>
+<h5>Voluntary Registration</h5>
+<p><span>We collect personal information (which may include, without limitation, your name, email address, social security number, mailing address and/or telephone number) from you when you voluntarily register on the Website or when you request information or a service (e.g., tax preparation services) on the Website. </span></p>
+<h5>IP Addresses</h5>
+<p><span>Jackson Hewitt collects IP addresses for system administration, to report and review aggregate information, and to audit the use of the Website. When visitors request pages on our or our affiliates’ sites, our servers log the visitors’ IP addresses. We do not normally link IP addresses to any personally identifiable information, which means that a visitor’s session will be logged, but the visitor will remain anonymous to us. We may use IP addresses to identify a visitor if it is necessary to protect our business and legal interests, Website, clients, or others.</span></p>
+<h5>Cookies</h5>
+<p><span>Cookies are used to specify a visitor’s preferences and to analyze a visitor’s Website usage trends and patterns. This helps us to better understand our visitors’ needs and improve areas of our services that our visitors may find valuable. While both of these activities depend on the use of cookies, you have the option of disabling the cookies via your internet browser preferences. <span>&nbsp;</span>This may prevent you from taking full advantage of the Website and some services may not function properly or operate slower.</span></p>
+<p><span>We do not save passwords or credit card information in cookies. </span><span><span>&nbsp;&nbsp;</span></span><span>A cookie does not provide us access to your computer or any information about you, other than the data you choose to share with us as part of the voluntary registration process described above.<span>&nbsp; </span></span><span></span></p>
+<h5>How Jackson Hewitt May Use the Collected Information</h5>
+<p><span>Jackson Hewitt does not sell or market your personal information to any third parties. </span><span>We use information collected on the Website for the following:</span></p>
+<span><ul>
+<li><span><span><span></span></span></span><span dir="ltr"><span>To provide the products and services you request and communicate with you regarding those requests</span></span></li>
+<li><span><span><span></span></span></span><span dir="ltr"><span>Internal market analysis</span></span></li>
+<li><span><span><span></span></span></span><span dir="ltr"><span>To improve our products and services</span></span></li>
+<li><span><span><span></span></span></span><span dir="ltr"><span>To provide you with information on new products or special offers </span></span></li>
+<li><span><span><span></span></span></span><span dir="ltr"><span>To tailor the Website according to your interests</span></span></li>
+<li><span><span><span></span></span></span><span dir="ltr"><span>For marketing or promotional purposes </span></span></li>
+</ul>
+<p><span>Jackson Hewitt will not disclose to unaffiliated third parties any information collected in a manner that connects you with your personal information, except when we have your permission or under special circumstances, such as when we have a good faith belief that the law requires it. </span><span></span></p>
+<p><span>We also may use your information to inform you about other products or services available from Jackson Hewitt and our affiliates.<span>&nbsp; </span>You may be offered the opportunity to receive materials or special offers from affiliated third parties. If you opt to receive information from these third parties, we will share your name and e-mail address with such third parties. We may match personal information collected on the Website with affiliated third party data. </span></p>
+<p><span>Jackson Hewitt may keep track of what portions of the Website visitors are viewing and other visitor statistics such as geographic location, and aggregate this information to help us create a better experience for future Website visits. This is all done without knowing your name or other personal information in order to describe our viewers and services to prospective partners, advertisers, and other third parties, and for other lawful purposes.</span></p>
+<h5><span>How Your Personal Information May&nbsp;Be Shared with Third&nbsp;Parties</span></h5>
+<span><p>Jackson Hewitt may disclose the personal information you provide to us to our business partners, sponsors or affiliates so they can assist us in providing the services you request.<span>&nbsp; </span>By requesting information from our business partners, sponsors, and affiliates through the Website, you give us permission to transfer your personal information to them so they can fulfill your request.</p>
+<h5>Third Party Websites<span>&nbsp;</span></h5>
+<span><p><span>The Website may contain links to other affiliated websites or websites of interest that are not under our direction or control.<span>&nbsp; </span></span><span>These third party websites may include social networking websites and websites of advertisers, sponsors and partners that may contain our or our affiliates’ logo as part of a co-branding agreement. <span>&nbsp;</span>These other sites may send their own cookies to visitors, collect data, or solicit information.<span>&nbsp; </span></span><span>Therefore, we cannot be responsible for the protection and privacy of any information you may provide while visiting such sites.<span>&nbsp; </span>This privacy policy does not apply to those sites and only applies to <a href="http://www.jacksonhewitt.com/">www.jacksonhewitt.com</a>. You should exercise caution and review the privacy policy of those websites you are visiting.<span>&nbsp;&nbsp;</span></span></p>
+<span><h5><span>Other Uses</span></h5>
+</span><p><span>We may also disclose collected information in certain cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with any of our rights or property, visitors, or anyone else. <span>&nbsp;</span>We may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services.&nbsp;</span><span></span></p>
+<h5><span>Security</span></h5>
+<p><span>The security of all information associated with our Website visitors is important to us. We exercise considerable care in providing secure transmission of your information from your computer to our servers or those of our business partners.&nbsp;</span></p>
+<span><h5><span>Phishing</span></h5>
+</span><p><span>“Phishing” is a scam designed to steal your personal information.<span>&nbsp; </span>If you receive an email that looks like it is from Jackson Hewitt asking you for your personal information, do not respond.<span>&nbsp; </span>We will never request your personal information or credit card information through email.<span>&nbsp;&nbsp;</span></span></p>
+<h5><span>Controlling Your Personal Information<span>&nbsp; </span></span></h5>
+<p><span>You may choose to restrict Jackson Hewitt’s use of your personal information.&nbsp;&nbsp; If you have provided your personal information to Jackson Hewitt and subsequently decide to restrict the use of this information or if you believe that any personal information we have about you is incorrect or incomplete, please contact us at <a href="mailto:JacksonHewittOnline@custhelp.com"><span>JacksonHewittOnline@custhelp.com</span></a> or by calling 1-877-476-3353.</span></p>
+<p><span>Please feel free to contact Jackson Hewitt at <a href="mailto:JacksonHewittOnline@custhelp.com"><span>JacksonHewittOnline@custhelp.com</span></a> or by calling 1-877-476-3353 if you have any questions or concerns regarding this privacy policy or Jackson Hewitt’s collection and use of your personal information.<span>&nbsp; </span></span><span></span></p>
+<span><h5><span>Your California Privacy Rights</span></h5>
+</span><p><span>California Civil Code Section 1798.83 permits Jackson Hewitt customers who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to</span><span> </span><span><a href="mailto:JacksonHewittOnline@custhelp.com"><span>JacksonHewittOnline@custhelp.com</span></a></span><span> </span><span>or by calling 1-877-476-3353.</span><span></span></p>
+<h5><span>ACCEPTANCE OF THESE TERMS</span></h5>
+<p><span>You understand that any information you provide through the Website will be governed by this privacy policy.</span></p>
+<h5><span>IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT USE THIS SITE. </span></h5>
+<p><span>Your continued use of the Website following the posting of changes to these terms will mean you accept such changes. </span><span>If we amend this privacy policy to permit material changes in the way we collect, use, and/or share your personal information, we will notify you of such amendment by prominently posting notice of such amendment on the Website’s homepage.<span>&nbsp; </span><span>&nbsp;</span><b><u></u></b></span></p>
+<p><span><strong><em>This Privacy Policy is effective January 4, 2010.<span>&nbsp;</span></em></strong></span></p>
+</span></span></span>
+</div>
+<div id="ctl00_ctl00_ContentPlaceHolder1_RightContent_cmsFormBlock" class="category_paragraph">
+	<script type="text/javascript" language="Javascript">function EkFmValidate(formObj){ return true; }</script>
+</div>
 
 
 
-</body></html>
+
+</div>
+<!--Secondary 2 column left column ends here-->
+
+
+<!--Secondary 2 column right column starts here-->
+<div id="secondary_2columnright_rc">
+
+<!--Secondary special offer area starts here-->
+<div id="ctl00_ctl00_ContentPlaceHolder1_RightContent_offers_pnlCoupon">
+	
+    <span id="ctl00_ctl00_ContentPlaceHolder1_RightContent_offers_couponListSummary"><div id="secondary_specialoffer" class="rounded_all"><p class="header"><a class="secondary_specialoffer_14" href="/Coupon-20-Off/" title="$20 off Tax Preparation">$20 off Tax Preparation</a></p><p class="paragraph">Simply present the coupon offer to your local Jackson Hewitt tax preparer and SAVE $20 on income tax preparation!</p><p class="coupon"><a class="secondary_specialoffer_12" target="_self" href="/Coupon-20-Off/" title="$20 off Tax Preparation"><img src="/images/icon_red_arrow.png" class="redarrow_coupon" alt="">GET COUPON
+            </a></p></div><input name="ctl00$ctl00$ContentPlaceHolder1$RightContent$offers$couponListSummary$ctl00$ctl00$ContentPlaceHolder1$RightContent$offers$couponListSummaryEktronClientManager" type="hidden" id="ctl00_ctl00_ContentPlaceHolder1_RightContent_offers_couponListSummary_ctl00_ctl00_ContentPlaceHolder1_RightContent_offers_couponListSummaryEktronClientManager" value="EktronJS,EktronThickBoxJS,EktronDmsMenuJS,AjaxScript"></span>
+
+</div>
+
+
+<!--Secondary special offer area ends here-->
+
+
+<!--Secondary related links box area starts here-->
+
+
+<!--Secondary related links box area ends here-->
+
+<!--Quote area starts here-->
+<div id="secondary_quote_callout"><div id="ctl00_ctl00_ContentPlaceHolder1_RightContent_quote_quotediv" class="quote">
+     
+    
+</div>
+<div id="ctl00_ctl00_ContentPlaceHolder1_RightContent_quote_quotebottomdiv" class="quotebottom"> </div>
+</div>
+<!--Quote area ends here-->
+
+
+</div>
+<!--Secondary 2 column right columnd ends here-->
+
+</div>
+<!--Unique right column content ends here-->
+
+    </div>
+
+        <!--Global footer area starts here-->
+        <div id="global_footer">
+            <p class="footer_copyright">
+                © 
+                <script type="text/javascript">
+                    /* <![CDATA[ */
+                    document.write(new Date().getFullYear());
+                    /* ]]> */
+				</script>2020 
+                 Jackson Hewitt Inc. All rights reserved.</p>
+            <p class="footer_links">
+                <a href="/contact-us/customer-feedback-form/" class="global_footer" target="_self">Contact Us</a> &nbsp;&nbsp;&nbsp;I&nbsp;&nbsp;&nbsp;
+                <a href="/about-us/careers/" class="global_footer" target="_self">Careers</a> &nbsp;&nbsp;&nbsp;I&nbsp;&nbsp;&nbsp;
+                <a href="/privacy-policy/" class="global_footer" target="_self">Privacy Policy</a> &nbsp;&nbsp;&nbsp;I&nbsp;&nbsp;&nbsp;
+                <a href="/terms-of-use/" class="global_footer" target="_self">Terms of Use</a> &nbsp;&nbsp;&nbsp;I&nbsp;&nbsp;&nbsp;
+                <a href="/sitemap.aspx" class="global_footer" target="_self">Sitemap</a>
+            </p>
+        </div>
+        <!--Global footer area ends here-->
+    </div>
+    
+    </form>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-664280-1");
+pageTracker._setDomainName(".jacksonhewitt.com");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+<div id="sb-container"><div id="sb-overlay"></div><div id="sb-wrapper"><div id="sb-title"><div id="sb-title-inner"></div></div><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading"><a onclick="Shadowbox.close()">Cancel</a></div></div><div id="sb-info"><div id="sb-info-inner"><div id="sb-counter"></div><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()"></a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()"></a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()"></a><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()"></a></div><div style="clear:both"></div></div></div></div></div></body></html>
