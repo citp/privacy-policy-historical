@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geninfo.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209001651id_/http%3A//www.geninfo.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geninfo.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516161231id_/http%3A//www.geninfo.com/privacy.aspx) for the most accurate reproduction.*
 
 # General Information Services
 
@@ -8,7 +8,7 @@ Protecting privacy has always been a top priority at GIS. We believe that a stro
 
 The policy includes our corporate privacy principles and Fair Information Practice Principles of notice, choice, access, security, and accountability.
 
-This online privacy policy applies to all sites listed above. They are owned and operated by General Information Services, Inc. (GIS), 917 Chapin Dr., Chapin, SC 29062, (888) 333-5696.
+This online privacy policy applies to all sites listed above. They are owned and operated by General Information Services, Inc. (GIS), 917 Chapin Dr., Chapin, SC 29036, (888) 333-5696.
 
 #### INFORMATION COLLECTION
 
