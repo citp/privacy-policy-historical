@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rusu.co.uk privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114035241id_/http%3A//www.rusu.co.uk/RUSU/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rusu.co.uk privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516044352id_/http%3A//www.rusu.co.uk/RUSU/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -104,4 +104,4 @@ RG6 6AZ
 **Tel:** 0118 378 4100  
  **Fax:** 0118 378 4115
 
-Page Last Modified: 17 Aug 2009
+Page Last Modified: 02 Apr 2010 
