@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the seotrainingsw.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044135id_/http%3A//www.seotrainingsw.com/faq/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seotrainingsw.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516155018id_/http%3A//www.seotrainingsw.com/faq/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SEO Training SW
-
-Browse >
-
-[Home](http://www.seotrainingsw.com/ "Browse to: Home") / [FAQ](http://www.seotrainingsw.com/faq/ "Browse to: FAQ") / Privacy Policy 
+# SEO Training Privacy Policy | SEO Training SW
 
 **– IMPORTANT — PLEASE READ**
 
@@ -110,7 +106,7 @@ This Privacy Policy is used under license. The copyright is owned by SEOtraining
 
 **DISPUTES**
 
-As part of the consideration that the Website requires of the Visitor to view, use, or interact with this site, Visitor agrees to use binding arbitration for any claim, dispute, or controversy (”CLAIM”) of any kind (whether in contract, tort or otherwise) arising out of or relating to this purchase, this product or service, including solicitation issues, privacy issues, and terms of use issues.
+As part of the consideration that the Website requires of the Visitor to view, use, or interact with this site, Visitor agrees to use binding arbitration for any claim, dispute, or controversy (“CLAIM”) of any kind (whether in contract, tort or otherwise) arising out of or relating to this purchase, this product or service, including solicitation issues, privacy issues, and terms of use issues.
 
 Arbitration shall be conducted pursuant to the rules of the American Arbitration Association, which are in effect on the date a dispute is submitted to the American Arbitration Association. Information about the American Arbitration Association, its rules, and its forms are available from the American Arbitration Association, 335 Madison Avenue, Floor 10, New York, New York, 10017-4605. Hearing will take place in the city or county of the Seller.
 
