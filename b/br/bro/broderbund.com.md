@@ -1,110 +1,66 @@
-> *The following text is extracted and transformed from the broderbund.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610194813id_/http%3A//www.broderbund.com/Info.asp%3FInfo%3D1805) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broderbund.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516202626id_/http%3A//www.broderbund.com/c-privacy-policy.aspx) for the most accurate reproduction.*
 
-# 1st Rate Broderbund Print Creativity, Educational, Utility Software & ExpressIt Greetings
+# Broderbund - Official Site - Privacy Policy
 
-| 
+Last Updated: June 3, 2009
 
-  * Does Broderbund Collect Any Personal Information About Me if I'm 13 or older?
-  * Does Broderbund Collect Any Personal Information About Anyone Under 13?
-  * What Does Broderbund Do With the Information We Collect?
-  * Does Broderbund Share Information About Me With Others?
-  * How Secure is Shopping at Broderbund.com? 
-  * How Does Broderbund Use Cookies?
-  * Does Broderbund Ever Collect Information without Consent?
-  * What If The Site Uses Banner Ads?
-  * And Finally…
+   This privacy policy is an agreement between Encore Software, Inc. ("Encore" or "we") and the user of this website ("you"). Among other things, it tells you what information we collect from you, how we might use or share it, how you can review or change the personal information you provided to us, how we may change this policy, and the steps we take to ensure that your personal information is protected. 
 
-  
----  
-**Privacy Policy**  
-  
-Broderbund, LLC ("Broderbund") and its affiliates are committed to protecting you and your family's privacy when you visit any of our family Websites or use our electronic services, such as product registration or technical support. We do not knowingly collect and keep any of your personal information unless you volunteer it and are 13 years of age or older. In addition, we do not knowingly collect and keep personal information from children under the age of 13 without parental consent. Please review the information below to familiarize yourself with our policies on Website privacy, so that you and your family can take full advantage of the valuable offerings available at our sites. By visiting any Broderbund sites, you hereby agree to all the terms set forth within this Privacy Policy and listed in the [Terms & Conditions](http://www.broderbund.com/Info.asp?Info=1807) section.
+   All of your activities on this website are voluntary. You are not required to provide any personal information to us unless you choose to access features on this site that require the information. By using this website, you signify that you agree to the terms of this privacy policy. If you do not agree with the terms of this privacy policy then you should discontinue using the site. 
 
-**A SPECIAL NOTE FOR PARENTS:** Broderbund adheres to the [Children's Online Privacy Protection Act of 1998 (COPPA)](http://www.ftc.gov/ogc/coppa1.htm) and the guidelines of the [Children's Advertising Review Unit (CARU)](http://www.bbb.org/advertising/caruguid.asp) of the [Council of Better Business Bureaus, Inc.](http://www.bbb.org/) in each of our Websites for children and in all our registration processes within our software products released after _**April 20, 2000**_. Parents, you can help by spending time online with your children and monitoring your children's online use. Please help us protect your child's privacy by instructing them never to provide personal information on this site or any other, or within any software registration process, without your permission.
+   This privacy policy is effective as of June 3, 2009 and will remain in effect until updated. We reserve the right to change our privacy policy at any time. Any changes will become effective immediately when posted on the website. Your continued use of the site after we post any such modifications will constitute your acknowledgment of the modified policy and your agreement to abide and be bound by the modified policy. 
 
-IF YOU ARE UNDER 18, PLEASE BE SURE TO READ THIS POLICY WITH YOUR PARENTS AND ASK QUESTIONS ABOUT THINGS YOU DO NOT UNDERSTAND. IF YOU ARE UNDER 13, PLEASE GET YOUR PARENTS' PERMISSION PRIOR TO USING ANY WEBSITES OPERATED BY BRODERBUND, AND ESPECIALLY BEFORE GIVING OUT YOUR EMAIL ADDRESS OR ANY PERSONAL INFORMATION TO BRODERBUND OR TO ANYONE ELSE ON THE INTERNET.  
-  
-  
-**Does Broderbund Collect Any Personal Information About Me if I'm 13 or older?**  
-  
-Broderbund doesn't require anyone to share any personal information about them in order to visit our Websites. However, most of our sites contain special sections and privileges for registered members. We do not collect any personal information from you unless it is provided voluntarily, for example: when you sign a guest book, register for contests, downloads, or free demos, complete our online customer surveys, send online greeting cards, purchase products, etc. (Remember, only people who are 18 or older may purchase products from Broderbund.) The personal information we ask for is usually first and last name, mailing address, phone number, and an email address. See below for how we use this information. 
+   The privacy policy does not extend to anything that is inherent in the operation of the Internet and therefore beyond Encore's control, and is not to be applied in any manner contrary to applicable law or governmental regulation. This privacy policy only applies to information collected through this site, and not through sites you link to from this site. 
 
-top of page  
-  
-**Does Broderbund Collect Any Personal Information About Anyone Under 13?**  
-  
-On our Websites for children, we do not knowingly collect personal information from children under 13 without their parents' consent, except in special, limited circumstances. If your child is under 13 and wants to use a special activity on one of our children's sites, like scavenger hunts, personalized pages or clubs, we might ask your child to "register" by giving us a first name and their state. When we ask for your child's first name, your child is encouraged to use a "screen name" (not their real name) that only they know. Sometimes we will ask your child to make up a special password so that only they can see their customized areas on the site. With your verifiable consent, we may collect personal information from your child such as a last name, address, or email address when the information is necessary for a particular activity. We usually will ask your child for your email or mailing address (as parent or guardian) so that we can ask your permission for your child to provide the information required for that specific activity. When asking for parental permission, we will explain what we will do with the information provided to us, how your child's information can be reviewed, as well as how it can be deleted. We don't keep these email addresses without permission. Broderbund might collect some information from your child under 13 without your consent, but only in the following special cases: 
+TYPES OF INFORMATION WE COLLECT
 
-  * If we determine a child under 13 sends a request to us, we keep their email address for long enough to respond to them. Broderbund deletes this information from our system after we answer their question. 
-  * Occasionally, Broderbund has special site activities or promotions, like sweepstakes or contests, which are open to children even if they are under 13. In these activities, we are not allowed to ask for more information than what is necessary for your child to participate in the activity. For instance, we might ask for your mailing address so that we can send to you, for your child, any prizes your child wins. Also, we might ask for your email address or telephone number so that we can tell you when your child has won. This information is not knowingly used for marketing purposes or provided to other companies. 
-  * We also might collect contact information when necessary to protect your child's safety, such as when they join in activities like our chat rooms, message boards, or email services. 
+## When you visit:
+
+   Our website may collect "general information" such as your computer's Internet Protocol (IP) address, your server address and domain name ("click stream data") whenever you visit. Our server recognizes your domain name but not your email address. Some analytics companies will monitor their own customers on our sites, but we do not collect any personally identifiable information as you browse. We do gather aggregate information on what pages our visitors access. This data helps us identify what content is most relevant to customer needs, to improve the design and layout of our store, and to determine which features of our site are most effective or useful. We collect this information with "cookies." A cookie is a small string of information that the website you visit transfers to your computer's hard drive for identification purposes. The cookie stores a unique "Session ID" and is necessary to enable you to buy items and engage in transactions on our website. The Session ID enables us to provide continuity to your website experience; for instance, it helps us to store items in your shopping cart while you remain on our website. Most Web browsers automatically accept cookies, but you have the ability to reject cookies by changing your browser settings. However, if you reject cookies, you may no longer be able to access all features of the website. 
+
+## When you register on the website, or purchase or register a product:
+
+   We will ask you for "personal information," which may include, but is not limited to, your name, e-mail address, street address, or telephone number. We will also ask you how we may use your contact information. You may change your preferences on encoreusa.com by repeating the registration process and specifying your new preferences. 
+
+   We provide some of our services through contractual arrangements with affiliates, services providers, partners and other third parties (collectively, "third party partners"). Encore may be contractually required by its third party partners to provide registered user information. Once you have registered, some partners may offer you additional information about their products and services, through email or otherwise. If you do not want to receive these offers, you may inform the relevant partner that you do not wish to receive their marketing materials. 
+
+   If you choose not to provide requested personal information, you may not be able to access or use the features of the site where such information is requested. 
+
+HOW WE USE YOUR INFORMATION
+
+## What We Use It For
+
+   We primarily use your personal and general information to provide products and services to you, including, but not limited to, the following: 
+
+  * To fill an order, administer a promotion or provide you with relevant products or services (for example, to deliver a prize you may have won in a contest)
+  * To analyze visits to the website, to learn about your interests and better understand your interests and needs (both on an aggregate and personal level), so we can improve our products and services and deliver to you the type of content, features and promotions that you are most interested in
 
 
 
-In the last two situations when we ask for information without your consent, we require your child to also give us your email address, so that we can tell you that they have registered for a promotion or service. Any information your child gives us in the above special circumstances will be deleted from our database once the promotion, program, or activity is concluded, and after any legally required period for keeping such information is complete.
+   We may also use your information to send you materials via e-mail about products, offers, and news we think might interest you. This information may relate to Encore's products, offers, and news or that of a third party partner. We will not send you any such information unless you have opted in to receive emails from Encore and/or its third party partners. These notices will generally be delivered by e-mail, but may also arrive by postal mail. If you do not wish to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties when you register. If you wish to modify your e-mail options on encoreusa.com, repeat the registration process and specify your new preferences. 
 
-You can always ask to review the information your child has submitted to us by sending us a written request.You must include the address of your child, your child's password and any other information which will allow us to verify that you are the parent of the child whose information you are requesting. At any time, you can ask us to delete your child's information or request that we do not collect any more personal information from your child, by sending us a written request addressed to: Broderbund LLC, Office of the President, Attn: Children's Online Privacy Act-Delete Request, PO Box 100-CS, Hiawatha, IA 52233. However, if you ask us to delete your child's information, we may have to ask your child not to participate in our activities.
+## When Information is Shared with Third Parties
 
-top of page  
-  
-**What Does Broderbund Do With the Information We Collect?**  
-  
-We use the personal information we collect for the purposes indicated at the time you provide such information. For instance, if you register in a contest, we will use the registration information to notify contest winners; if you purchase a product, we will use the information to fulfill the order; if you send an online greeting card, we will use the information to deliver the greeting to the provided recipient; etc. Occasionally, and only with consent at the time we ask for information, we might also email or mail you to provide you with information on upcoming Broderbund products, Website updates, updates on your order, and promotions. With your additional consent, we may also share information with our partners so that they can inform you and your family about their products, which might be of interest to you. Broderbund never knowingly promotes directly to children under the age of 18. If, at any time, you want to stop receiving such updates and product information from Broderbund or our affiliates, just email us at [cust_serv@broderbund.com](mailto:cust_serv@broderbund.com). Please type "Unsubscribe" in the subject line of the email. If you are registered at any Broderbund site, including Broderbund.com and Expressit.com, you can visit us online to change your [contact preferences](https://www.broderbund.com/ecart/account.asp) for your online account or remove your email address from our marketing lists. Our mailings and emails will also include information allowing you to ask not to receive such information in the future. We often have messages for our customers scheduled several weeks in advance, so unsubscribe requests can take up to 3-4 weeks to process through our system. Thank you for your patience.
+   Our third party partners consist primarily of service vendors and marketing partners. Service vendors use your personal information to operate our sites and to deliver services. For example, your data may be transferred to website hosting partners and other parties who assist us in designing and operating our websites, sending e-mail offers, cleaning errors from our e-mail lists, processing credit card transactions, or helping us analyze collected data. Service vendors are contractually obligated to protect and maintain your personal data as confidential. Marketing partners may use your personal information to provide you with special offers, products or services. We encourage our marketing partners to adopt and post privacy policies. However, the use of your personal information by our marketing partners is governed by their privacy policies and is not subject to our control. 
 
-top of page  
-  
-**Does Broderbund Share Information About Me With Others?**  
-  
-If you consent, Broderbund may provide your information to outside companies that offer products or services that may be of interest if you are a teenager (13 or over) or an adult. Except for maintenance and security reasons, we never knowingly share personal information that we receive from children under 13 with other companies. If you prefer, we will remove your name from the list we provide to outside companies. To do so, please email us at [cust_serv@broderbund.com](mailto:cust_serv@broderbund.com) and use the subject line "Outside Mailings." In special circumstances, Broderbund may give other companies access to our information database, but only if necessary for database or server maintenance, security, or other similar services. If we do provide access, we require those other companies to sign confidentiality agreements promising to keep secret any information they see. If Broderbund believes that anyone's behavior on any of our sites may damage us, our sites, or anyone else, we may disclose the relevant personal information in order to prevent harm. In that case, we might try to identify the wrongdoer, contact them, or bring legal action against them. We may also disclose personal information if we believe that the disclosure is required by law.
+## Links to Third Parties
 
-top of page  
-  
-**How Secure is Shopping at Broderbund.com?**  
-  
-Broderbund has invested in state-of-the-art technologies that enable us to provide the highest level of safety surrounding your personal information. We utilize Secure Socket Layer (SSL) technology to encrypt the data you provide to us while online placing an order. We are a certified VeriSign client and we subscribe to services to verify for our customers that our online shopping process is secure and safe. Please click on the following logo to verify our security with VeriSign.
+   For your convenience and to improve the usage of the website we may insert links to third parties on this site. This privacy policy does not apply to such third party websites. These links take you outside our service and off Encore's site and are beyond our control. These third party sites have their own individual privacy policies and Encore is not liable for the content and activities of those sites. Your visits and access to such websites are at your own risk. 
 
-[](https://digitalid.verisign.com/as2/6219a18ac4087de385dfc21ce10d41a3)
+## Legal Compliance
 
-top of page  
-  
-**How Does Broderbund Use Cookies?**  
-  
-A "cookie" is a small file that we save on your computer's hard drive which contains non-personal information. These cookies help to give you faster access to pages you have already visited; they allow you to personalize your pages; and they help you to participate in some activities or events on the site. For instance, some of our sites have scavenger or treasure hunts, and we need to use cookies to keep track of your progress. If you leave the site and then return, cookies will tell us what things you have already collected so that you do not have to start all over again. We also use cookies to help us figure out how many people visit our sites, which of our web pages they visit, and how long they stay there. This information helps us figure out which of our web features are highly successful and which sites might need improvement. For administrative purposes, we collect IP addresses, which is the automatic number assigned to your computer when you surf the web. The IP address allows us to count total number of "hits" on our sites. However, your IP address and cookie is not connected to any personally identifiable or on-line contact information like a name and address, so you and your family remain anonymous.
+   We may release your account or other information when we believe, in good faith, that such release is reasonably necessary to (i) comply with applicable laws and regulations or judicial orders, (ii) enforce or apply the terms of any of our user agreements or (iii) protect the rights, property or safety of Encore, our users, or others. These situations include exchanging information with other companies and organizations to protect against fraud and credit risks. We will release personal or general information without your consent for security purposes, when required by law, or to prevent imminent harm to any person or entity. We will disclose personal or general information upon receipt of a court order or subpoena, or to cooperate with a law enforcement investigation, which may include responding to requests and court orders from jurisdictions outside the United States. We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful, as determined in our sole discretion. Release of your personal data for such purposes to any person or entity shall be based on a determination made by us, exercising our own discretion, permission for which is expressly granted by you in accordance with this policy. 
 
-**Website Tracking Reporting**
+HOW WE PROTECT YOUR INFORMATION
 
-Many of our web pages also contain special electronic images (called a "single-pixel gif" or "gifs") that allow us to gather only non-personally identifiable traffic statistics and other aggregate information about visitors to our sites. We use this technology to collect and accumulate anonymous data that helps us understand and analyze the experience of people visiting our Websites and, along with other information you provide, customize your future visits and improve our websites. For example, we capture data on the type of browser used, operating system software (e.g. Windows 95 vs. 98 or Macintosh), cookie preferences (whether the user has them turned on or off), and search engine keywords (what key words did a visitor use to get to our site). We also record number of visits, paths taken, and time spent on sites and pages within the Broderbund family of Websites. Please keep in mind that none of this information is personally identifiable and that we only distribute this information to internal staff at Broderbund and to partners that have signed confidentiality agreements with us. Any information that we do share with partners reflects overall Website or Internet usage trends, not individual.
+## Security Measures
 
-**Email Tracking**
+   In order to protect both your personal and general information, we have implemented various security measures, including firewalls on all our servers. Please keep in mind, however, that whenever you give out personal information online there is a risk that unauthorized third parties may intercept and use that information. While we strive to protect your privacy, we cannot guarantee the security of any information you disclose online. By using this site, you expressly acknowledge and agree that we do not guarantee the security of any data provided to or received by us through this site and that you expressly assume all risk of providing any personal information, general information, or other data or information through this site. 
 
-We also include a small image in most emails that we send to subscribers. As above, this allows us to gather only non-personally identifiable traffic statistics and other aggregate information about our email audience. These images notify special computers when you open an email and if you clicked on a link within the email. This helps us measure the effectiveness of our newsletters and other emails so that we can make sure we're providing you with the information and content that you are most interested in. In addition, some advertising networks that serve ads on our Websites or within our emails may use similar images or other technology within their banner advertisements to track traffic statistics. Naturally, once you leave our websites or emails by clicking on one of these advertisements, Broderbund does not have control over the advertising networks or other third parties and the data they collect.
+## Registration Declined
 
-top of page  
-  
-**Does Broderbund Ever Collect Information without Consent?**  
-  
-Broderbund does not collect information passively through cookies or other tracking mechanisms, except in the circumstances described above. Cookies DON'T contain any personal information about a specific user. We don't use cookies or other non-consensual methods to capture personally identifiable information, except for certain activities like treasure hunts, which we discussed above. Broderbund doesn't use cookies for direct marketing or promotional purposes. Cookies are not used to collect information specifically about you or your family for sharing with third parties.
+   Encore is committed to protecting the privacy of children and has no intention of collecting personal data from any person under the age of 18. Encore intends only persons who are 18 years or older to register on this website, purchase items or register a product. Personal information submitted by any person under the age of 18 will be declined. Any general information provided by a person under the age of 18 and gathered (for example, through the use of cookies) during his or her visit may be used as indicated elsewhere in this policy. We encourage parents and guardians of children under 18 to regularly check and monitor their children's use of e-mail and other activities online. 
 
-top of page  
-  
-**What If The Site Uses Banner Ads?**  
-  
-Most of our sites use the services of ad banner partners for the serving and/or targeting of ads, promotions, and other marketing messages. To do this, these services collect anonymous data through the use of cookies. To learn more about ad banners, including your ability to opt out of the receiving ad banners, go to <http://www.l90.com/corporate/privacy_policy/index.html>. 
+CONTACT INFORMATION
 
-top of page  
-  
-**And Finally…**  
-  
-We want you and your family to have fun surfing all our sites. We urge you to follow common sense whenever disclosing personal information on this site or anywhere on the Internet or offline. 
-
-Thanks for reading our privacy statement. We hope you have a better understanding of the many activities offered on our Websites and the ways in which we really are committed to safeguarding your privacy. Remember, we may change our policy from time to time to conform to changing legal requirements or to better protect your information. When this happens we will notify you of the new policy by posting it on our sites.
-
-For more information on our privacy policy, please write to:
-
-Office of the President  
-Broderbund One Martha's Way  
-Hiawatha, IA 52233  
-(800) 679-0671  
-[office.president@broderbund.com](mailto:office.president@broderbund.com)
-
-top of page
+   Encore welcomes your questions and comments about privacy. Please contact [webadmin@encoreusa.com](mailto:webadmin@encoreusa.com). Be certain the words "Privacy Policy" are in the subject line. 
