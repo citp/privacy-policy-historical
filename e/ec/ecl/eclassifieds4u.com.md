@@ -1,9 +1,36 @@
-> *The following text is extracted and transformed from the eclassifieds4u.com privacy policy that was archived on 2009-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090717061337id_/http%3A//www.eclassifieds4u.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclassifieds4u.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516120133id_/http%3A//www.eclassifieds4u.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - eClassifieds 4U
 
 | 
 
+## Latest Classifieds  
+  
+---  
+  
+[Computer Services - Virus Removal - Data Recovery and more - Call today](http://www.eclassifieds4u.com/toronto/ca-computer-services-virus-removal-data-recovery-and-more-call-today-ad-nlmkp83689) ($ 40.00)
+
+[Furnished , UnFurnished Luxury Rooms For Rent](http://www.eclassifieds4u.com/toronto/ca-furnished-unfurnished-luxury-rooms-for-rent-ad-nlmkp110895) ($ 490.00)
+
+[Unmissable flagship retail store space available for any Fast food](http://www.eclassifieds4u.com/toronto/ca-unmissable-flagship-retail-store-space-available-for-any-fast-food-ad-nlmkp109686) ($ 1.00)
+
+[ICE2: The Second Ice Age VIP Access Now](http://www.eclassifieds4u.com/toronto/ca-ice2-the-second-ice-age-vip-access-now-ad-nlmkp108296) ($ 0.00)
+
+[Gibson Square VIP Access Now Register Now](http://www.eclassifieds4u.com/toronto/ca-gibson-square-vip-access-now-register-now-ad-nlmkp108590) ($ 0.00)
+
+[FASHION HOUSE - Win a $100, 000 Gift Card to Holt Renfrew](http://www.eclassifieds4u.com/toronto/ca-fashion-house-win-100-000-gift-card-holt-renfrew-ad-nlmkp110335) ($ 0.00)
+
+[1Bloor condo - Register Today for VIP Incentives and SAVE $$$$](http://www.eclassifieds4u.com/toronto/ca-1bloor-condo-register-today-for-vip-incentives-and-save-ad-nlmkp125668) ($ 1.00)
+
+[LOOKING FOR A PART-TIME JOB AFTER 6:00 PM EST](http://www.eclassifieds4u.com/toronto/ca-looking-for-part-time-job-after-6-00-est-ad-nlmkp130784) ($ 0.00)
+
+[CARPET REPAIRS Brlington, Milton, Mississauga, Caledon, Bolton, Georgetown, Orangeville, King City](http://www.eclassifieds4u.com/toronto/ca-carpet-repairs-brlington-milton-mississauga-caledon-bolton-georgetown-orangeville-king-city-ad-nlmkp117889) ($ 0.00)
+
+[CARPET REPAIR416-889-7005 Oakville, Mississauga, Brampton, Toronto, North York, Thornhill](http://www.eclassifieds4u.com/toronto/ca-carpet-repair416-889-7005-oakville-mississauga-brampton-toronto-north-york-thornhill-ad-nlmkp113198) ($ 0.00)
+
+  
+  
+  
 This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the eClassifieds4U website (“eClassifieds4U”) work and to keep it safe (details below). This policy is effective 1 June 2006.  
 
 
@@ -42,6 +69,4 @@ This privacy policy describes how we handle your personal information. We collec
 **Security.** We use lots of tools (encryption, passwords, physical security) to protect your personal information against unauthorized access and disclosure, but as you probably know, nothing’s perfect, so we make no guarantees.  
 
 
-**General.** We may update this policy at any time, with updates taking effect when you next post or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to customer support ([Contact Us](http://www.eclassifieds4u.com/contact))   
-  
----|---
+**General.** We may update this policy at any time, with updates taking effect when you next post or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to customer support ([Contact Us](http://www.eclassifieds4u.com/contact)) 
