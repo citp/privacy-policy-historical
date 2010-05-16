@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ritzpix.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109071101id_/http%3A//www.ritzpix.com/net/content.aspx%3Fid%3DPrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritzpix.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516042839id_/http%3A//www.ritzpix.com/net/content.aspx%3Fid%3DPrivacyStatement) for the most accurate reproduction.*
 
-# Ritz Pix @ LifePics
+# Ritz Camera And Image @ LifePics
 
 **
 
@@ -155,7 +155,7 @@ We do our best to send you the highest quality prints and products. Please keep 
 
 **If you paid for your order online and request a refund or redo,** please print and fill out the form below. Then mail the form with your order to the address below. Refunds will be posted after we receive your returned items, you will then see the refund post to your account within 4-5 business days.
 
-[Download Ritz Return Form](https://web.archive.org/common/RitzpixReturnForm.doc)
+[Download Ritz Return Form](http://display.lifepics.com/images/ritzpix/RitzpixReturnForm.pdf)
 
 **_Please ship Mail Order returns to:_** _
 
