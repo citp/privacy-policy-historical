@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotastrategy.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203053350id_/http%3A//www.dotastrategy.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotastrategy.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516122239id_/http%3A//www.dotastrategy.com/privacy_policy.html) for the most accurate reproduction.*
 
 # DotaStrategy.com - DotA Allstars Strategy Guide - Privacy Policy
 
