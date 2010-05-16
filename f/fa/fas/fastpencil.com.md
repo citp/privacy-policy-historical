@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fastpencil.com privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923103707id_/http%3A//www.fastpencil.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastpencil.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516035738id_/http%3A//www.fastpencil.com/company/privacy) for the most accurate reproduction.*
 
-# FastPencil / Privacy Policy
-
-We couldn't find a user with that activation code, or that activation code has already been used.
+# FastPencil Privacy Policy
 
 ###  Definition and Collection of Personally Identifiable Information 
 
