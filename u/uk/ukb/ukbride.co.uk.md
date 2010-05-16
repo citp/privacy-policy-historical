@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ukbride.co.uk privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515112034id_/http%3A//www.ukbride.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukbride.co.uk privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516030405id_/http%3A//www.ukbride.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Wedding dress | Wedding dresses
 
 ## Data Protection
 
@@ -24,11 +24,13 @@ UKbride captures and stores personal information, during the registration proces
 
 In addition, the site automatically logs the user's IP address and session information such as the duration of the visit and the type of browser used. This is recognised by the Web server and is only used for system administration and to provide statistics, which Whitespace Publishers Ltd may compile to evaluate site use.
 
-## Personal Information
-
 You should not give us your telephone/fax number or address if registered with the TPS (Telephone Preference System)/FPS (Fax Preference System) or MPS (Mail Preference Service - as stated below, acceptance of our Terms and Conditions during registration will result in your personal information being managed in accordance with our privacy policy.
 
 Whitespace Publishers Ltd may contact you from time to time via email, post or telephone to offer products or services pertaining to the UKbride site or our high quality magazines. As mentioned, carefully selected third parties may also contact you from time to time. Should you not wish to receive such communications, please inform us by contacting our data controller. If you do not wish to receive information from our selected third parties, you will need to unsubscribe to their communications.
+
+## Financial Details
+
+Whitespace Publishers Ltd do not store any Credit/Debit card or bank details of any kind on the web site. Credit/Debit card details are also not held on any other electronic or paper based system.
 
 ## Disclaimer
 
@@ -54,3 +56,5 @@ East Heckington
 Lincolnshire  
 PE20 3QF   
 **Tel** : 01529 469977| **Fax** : 01529 469978 
+
+**V.A.T. Number** \- 797 0927 74
