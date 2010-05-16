@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thecrimson.com privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027183757id_/http%3A//www.thecrimson.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecrimson.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516223500id_/http%3A//www.thecrimson.com/about/privacy) for the most accurate reproduction.*
 
-# The Harvard Crimson :: Privacy
+# Privacy Policy | The Harvard Crimson
+
+PRIVACY POLICY
 
 This statement discloses the privacy practices for The Harvard Crimson Online ("Crimson Online").
 
@@ -18,11 +20,8 @@ While The Crimson Online has taken reasonable steps to limit the uses of informa
 
 We are committed to maintaining the trust of our users. If you have any questions or concerns about the privacy or security of any information that you have provided, please do not hesitate to contact us.
 
-Children Under 13  
 If you are under age 13, do NOT send us information about yourself, including your name, address, or e-mail address. We do not knowingly collect personally identifiable information from children under 13. In the event that we learn that we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database.
 
-Cookies  
 Visitors to The Crimson Online are issued a "cookie" which is a small text file placed on your hard drive. Cookies help to prevent you from repeatedly seeing the same advertisements, being asked to register or made to re-enter your password every time you visit our site, and provide various other functionality enhancements. Cookies are also used to authenticate your identity. No cookie delivered by The Crimson Online will interfere with the operation of your computer.
 
-Responsibility for Security Breaches  
 Although The Harvard Crimson makes concerted efforts to protect its servers and databases from unauthorized access, we are unable to accept liability for information accessed illegally via our servers, clients, or network. Your personal information is protected by the most advanced security systems available to us. However, no system is entirely secure and, as such, The Crimson makes no legal guarantees regarding the protection of any data that may reside on our servers.
