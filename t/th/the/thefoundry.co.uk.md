@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefoundry.co.uk privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203053322id_/http%3A//www.thefoundry.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefoundry.co.uk privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516164221id_/http%3A//www.thefoundry.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # The Foundry - Privacy Policy
 
