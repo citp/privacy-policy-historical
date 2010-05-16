@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freesubmitarticles.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624021235id_/http%3A//www.freesubmitarticles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesubmitarticles.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516201722id_/http%3A//freesubmitarticles.com/privacy) for the most accurate reproduction.*
 
 # .: Free Articles :. » Privacy Policy
 
