@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rockclimbing.com privacy policy that was archived on 2009-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090101155854id_/http%3A//www.rockclimbing.com/cgi-bin/cms/jump.cgi%3FDetailed%3D512) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockclimbing.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516050021id_/http%3A//www.rockclimbing.com/cgi-bin/cms/jump.cgi%3FDetailed%3D512) for the most accurate reproduction.*
 
-# Rockclimbing.com: Privacy Statement
+# Privacy Statement : Rockclimbing.com : Rock Climbing Articles
 
 This privacy statement is applicable to Rockclimbing.com.
 
@@ -15,5 +15,3 @@ Users also should be aware that non-personal information and data may be automat
 Upon request, Rockclimbing.com will allow any user to "opt out" of further promotional contacts at any time. Additionally upon request, Rockclimbing.com will use reasonable efforts to allow users to update/correct personal information previously submitted which the user states is erroneous to the extent such activities will not compromise privacy or security interests. Also, upon a user's request, Rockclimbing.com will use commercially reasonable efforts to functionally delete the user and his or her personal information from its database; however, it may be impossible to delete a user's entry without some residual information because of backups and records of deletions.
 
 The foregoing policies are effective as of November 13, 2006. Rockclimbing.com reserves the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
-
-Login to rate this article. 
