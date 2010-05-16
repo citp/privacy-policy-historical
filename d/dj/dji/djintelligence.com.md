@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101180614id_/http%3A//www.djintelligence.com/pages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516075132id_/http%3A//www.djintelligence.com/pages/privacy.asp) for the most accurate reproduction.*
 
 # DJ Intelligence® - Privacy Statement
 
 |   
   
 ---  
-**Sunday, November 1, 2009   **  
+**Sunday, May 16, 2010   **  
    
 | **   [Home Page](http://www.djintelligence.com/)**  
 | **   [Live Demo Sites](http://www.djintelligence.com/pages/demo.asp)**  
@@ -26,11 +26,11 @@
 **Professional DJs Speak Up   **  
  
 
-|  "I have now secured regular bookings with one of the UK major hotel chains. The best investment I have made in years!" |    
+|  "It's like a secretary that works 24/7. Outstanding customer support. The best money I have ever spent on my business." |    
 ---|---  
   
    
-[Starsound UK](http://www.djintelligence.com/pages/success.asp)    
+[Grapevine Productions](http://www.djintelligence.com/pages/success.asp)    
    
   
 ---  
@@ -99,6 +99,6 @@ Intelligence, Inc. takes your privacy seriously. Please read the following to le
 
 **Questions and Suggestions**
 
-  * If you have questions or suggestions, please [contact us](https://web.archive.org/web/20091101180614id_/http%3A//www.djintelligence.com/pages/contact.asp).
+  * If you have questions or suggestions, please [contact us](https://web.archive.org/web/20100516075132id_/http%3A//www.djintelligence.com/pages/contact.asp).
 
 
