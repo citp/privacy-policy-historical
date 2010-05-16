@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travel-images.com privacy policy that was archived on 2009-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090131222818id_/http%3A//www.travel-images.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travel-images.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516040958id_/http%3A//www.travel-images.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Travel-Images.com - stock phototgraphy
 
@@ -22,8 +22,12 @@ This site makes message boards and guest books available to its users. Please re
 **Security**   
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
 
-**Advertisers**   
-We use outside ad companies to display ads at Travel-Images.com. These ads may contain cookies and/or web beacons to collect data in the ad serving process. We do not have access to this information.
+**Advertisers**
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. We use Interest-based advertising. ****
+
+**Advertiser profiling opt-out - behavioral advertising**   
+To opt-out from such information collection and use please use the Network Advertising Initiative / NAI's [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).To opt out of an NAI member's behavioral advertising program, simply check the box that corresponds to the company from which you wish to opt out. Alternatively, you can check the box labeled "Select All" and each member's opt-out box will be checked for you. Opting out of a network does not mean you will no longer receive online advertising. It does mean that the network from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns.
 
 **Judicial orders**   
 Travel-Images.com only recognizes jurisdiction to Portuguese and European Union courts. We reserve the right to disclose information under a direct court order.
