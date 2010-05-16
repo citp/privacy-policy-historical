@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biz-diggers.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111053957id_/http%3A//biz-diggers.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biz-diggers.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516165331id_/http%3A//biz-diggers.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Biz Diggers |
+# Information about Biz News |
 
 The privacy of our visitors to biz-diggers.com is important to us. 
 
