@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114110618id_/http%3A//www.cyberguys.com/company-information/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516085731id_/http%3A//www.cyberguys.com/company-information/Privacy.asp) for the most accurate reproduction.*
 
 # Cyberguys.com - Privacy and Security
 
-|  | [](http://www.cyberguys.com/)  
+|  | [](http://www.cyberguys.com/ "Cyberguys is the leading source of computer parts, cables, and computer accessories online")  
+---  
+|  | Your Source for Hard-to-Find Computer Parts & Accessories  
 ---  
   
-|   
+|  Privacy and Security  
 ---  
 |   
 ---  
