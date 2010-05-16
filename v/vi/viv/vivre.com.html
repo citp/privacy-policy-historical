@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vivre.com privacy policy that was archived on 2009-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091113163306id_/http%3A//www.vivre.com/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vivre.com privacy policy that was archived on 2010-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100516182257id_/http%3A//www.vivre.com/Privacy_Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta http-equiv="imagetoolbar" content="no"><title>
 	Vivre - Voyage - Discover - Collect - Shop: Privacy Policy
@@ -28,11 +28,11 @@
 <map name="logo_map" id="Map">
 <area shape="rect" coords="-1,-4,357,84" href="http://www.vivre.com/">
 <area shape="rect" coords="45,86,101,106" href="/Eva's_Notes/Escapes"><area shape="rect" coords="115,86,188,102" href="/Eva's_Notes/Inspiration">
-<area shape="rect" coords="203,86,258,102" href="/shop/Rare_Finds"><area shape="rect" coords="275,86,314,106" href="/shop"></map>
+<area shape="rect" coords="203,86,258,102" href="/shop_by_category/Jewelry/Collector's_Edition"><area shape="rect" coords="275,86,314,106" href="/shop"></map>
                 <div id="info-panel">
-    	    <div id="cart-hover">
+    	    <div id="cart-nohover">
     	        <a href="/cart" class="cart-image"><img src="/static/images/shoppingbag.gif"></a>
-                        <div class="action" <a="" href="/cart">My Shopping Bag</div>
+                        <div class="action"><a href="/cart">My Shopping Bag (<span id="cart-item-count">0</span>)</a></div>
     	    </div>
     	    <div id="vivretime">vivre time:  12:23am - February 01, 2020</div>
                         <script type="text/javascript">
@@ -55,7 +55,7 @@
 <div id="main_nav" class="main_nav_wrapper">
 <a href="/eva's_notes" title="Eva's Notes" class="first">Eva's Notes</a>
 <a href="/shop" title="Shop">Shop</a>
-<a href="/sale_selects&#10;" title="Sale Selects">Sale Selects</a>
+<a href="/sale" title="Sale ">Sale </a>
 
 </div>
 
@@ -82,6 +82,7 @@ Settings.PopupLargerViewHeight = 683;
 Settings.PopupLargerViewWidth = 742;
 
 Settings.PopupProductWidth = 713;
+showAjaxLoading = false;
 </script>
 
 
@@ -92,7 +93,8 @@ Settings.PopupProductWidth = 713;
  &gt; <span class="breadcrumb">Privacy Policy</span>
 </div>
 
-        <div id="ajax-feedback"></div>
+        <div id="ajax-feedback" class="ajax-error">An error occurred while performing the request.</div>
+    
 
         <div id="main">
             <div id="box">
@@ -345,7 +347,7 @@ Should any changes occur in our use of your personal information, you will be no
 <div id="answer_brand" class="right-hand-section">
     <div class="subtitle">Co-branded Relationships</div>
     <p>
-vivre.com has developed strategic partnerships in which users may experience vivre.com within a co-branded environment alongside one of our partners. Co-branded pages are recognizable usually by the presence of a "frame" either at the top or bottom of the page and/or when both companies' brand logos are presented together on the page. In such situations, individual user information may be shared only between our two companies in an effort to better understand and meet our customers' needs. Should you have additional privacy concerns, please also refer to the privacy policy of our partner from whose site you visited prior to arriving at vivre.com.
+Vivre.com has developed strategic partnerships in which users may experience vivre.com within a co-branded environment alongside one of our partners. Co-branded pages are recognizable usually by the presence of a "frame" either at the top or bottom of the page and/or when both companies' brand logos are presented together on the page. In such situations, individual user information may be shared only between our two companies in an effort to better understand and meet our customers' needs. Should you have additional privacy concerns, please also refer to the privacy policy of our partner from whose site you visited prior to arriving at vivre.com.
 
 
 
@@ -419,12 +421,11 @@ function showPri(name) {
     <div class="home-bottom">
         <div class="home-grey-box-1">
 <div style="position: absolute; top: 0px; left: 0px; width: 120px;">
-<img src="/static/images/wmag/wmagfooter.gif" width="607" height="37" border="0" usemap="#wmag">
+<img src="/static/images/footer/footer042910.gif" width="607" height="36" border="0" usemap="#wmag">
         
 <map name="wmag" id="Map">
-<area shape="rect" coords="11,4,449,33" href="/shop/W_Magazine_Offer">
-<area shape="circle" coords="530,18,14" href="http://www.facebook.com/vivre" target="_blank">
-<area shape="circle" coords="570,18,14" href="http://twitter.com/vivre_eva" target="_blank">
+<area shape="rect" coords="46,5,252,33" href="http://www.facebook.com/vivre" target="_blank">
+<area shape="rect" coords="336,6,563,34" href="http://twitter.com/vivre_eva" target="_blank">
 </map>
 </div>
 </div>
@@ -443,7 +444,7 @@ function showPri(name) {
             <a href="/brands">Brand Index</a>
         </li>
         <li>
-            <a href="/customer_service">Customer Service</a>
+            <a href="/customer_service">Customer Care</a>
         </li>
         <li>
             <a href="/content/personal_shopper">Personal Shopper</a>
@@ -469,7 +470,7 @@ function showPri(name) {
 
     </ul>
     <div id="copy_right">
-        © 2009 VIVRE, INC.
+        © 2010 VIVRE
     </div>
 
 <script type="text/javascript">
@@ -497,7 +498,9 @@ pageTracker._trackPageview();
     </div>
     <div id="cart-popup"></div>
     <div id="page-dialog" title="Please wait..."></div>
+    <div id="page-dialog-content-sizer" style="display: none; visibility: hidden;"></div>
     <div id="product-hover"></div>
+    
 
 
 </body></html>
