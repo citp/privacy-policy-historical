@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivre.com privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113163306id_/http%3A//www.vivre.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivre.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516182257id_/http%3A//www.vivre.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Vivre - Voyage - Discover - Collect - Shop: Privacy Policy
 
@@ -40,7 +40,7 @@ Should any changes occur in our use of your personal information, you will be no
 
 Co-branded Relationships
 
-vivre.com has developed strategic partnerships in which users may experience vivre.com within a co-branded environment alongside one of our partners. Co-branded pages are recognizable usually by the presence of a "frame" either at the top or bottom of the page and/or when both companies' brand logos are presented together on the page. In such situations, individual user information may be shared only between our two companies in an effort to better understand and meet our customers' needs. Should you have additional privacy concerns, please also refer to the privacy policy of our partner from whose site you visited prior to arriving at vivre.com. 
+Vivre.com has developed strategic partnerships in which users may experience vivre.com within a co-branded environment alongside one of our partners. Co-branded pages are recognizable usually by the presence of a "frame" either at the top or bottom of the page and/or when both companies' brand logos are presented together on the page. In such situations, individual user information may be shared only between our two companies in an effort to better understand and meet our customers' needs. Should you have additional privacy concerns, please also refer to the privacy policy of our partner from whose site you visited prior to arriving at vivre.com. 
 
 Cookies
 
