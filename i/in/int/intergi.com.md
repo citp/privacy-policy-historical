@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intergi.com privacy policy that was archived on 2009-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090206141440id_/http%3A//intergi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intergi.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516130907id_/http%3A//www.intergi.com/privacy) for the most accurate reproduction.*
 
 # Intergi's Privacy Policy | Intergi: Ad network for Video Games and Entertainment
 
