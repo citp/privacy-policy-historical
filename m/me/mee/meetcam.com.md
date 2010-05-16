@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the meetcam.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107052835id_/http%3A//meetcam.com/docs.php%3Fp%3DPrivacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetcam.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516182919id_/http%3A//meetcam.com/vb/faq.php%3Ffaq%3Dagreements%23faq_privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Agreements and Policies
 
-This privacy statement explains data collection and use practices of the [http://MeetCam.com](https://web.archive.org/) site (the "Site") owned by MeetCam.   
+## Privacy Policy
+
+This privacy statement explains data collection and use practices of the [http://MeetCam.com](http://meetcam.com/) site (the "Site") owned by MeetCam.   
 By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement. 
 
 Collecting Your Personal Information: We will collect personal information if you choose to register on the Site. The personal information we collect includes your email address, address and other personal information which you filled in Registration page. 
