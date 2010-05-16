@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squaretrade.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127063414id_/http%3A//www.squaretrade.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squaretrade.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516145842id_/http%3A//www.squaretrade.com/pages/privacypolicy) for the most accurate reproduction.*
 
 # SquareTrade | Privacy Policy | SquareTrade Warranties
 
@@ -17,11 +17,15 @@ SquareTrade is a licensee of the TRUSTe Privacy Program, which is a non-profit o
   7. How you can correct any inaccuracies in the information.
 
 Questions regarding this statement should be directed to SquareTrade by sending email to [privacy@squaretrade.com](mailto:privacy@squaretrade.com) or 575 Market Street, 10th Floor, San Francisco, CA 94105. If SquareTrade does not respond to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe at <http://truste.org/consumers/watchdog_complaint.php>.   
-**2\. A Special Note About Children.**
+**2\. U.S. - EU Safe Harbor Privacy Statement.**
+
+For personal information of employees and customers that SquareTrade receives from the European Economic Area, SquareTrade has committed to handling such personal information in accordance with the Safe Harbor Principles. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's Website at <http://export.gov/safeharbor/>.   
+  
+**3\. A Special Note About Children.**
 
 Children are not eligible to use our services and we ask that minors do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with your parents or guardians.   
   
-**3\. Information We Collect.**
+**4\. Information We Collect.**
 
 In various forms -- SquareTrade CarePlan purchase information, the Care Plus Seller application, the online Seal application process, User Registration, Case Submission and the Response page -- we may collect information from you as follows: 
 
@@ -74,7 +78,7 @@ If you reject all cookies, you will not be able to use SquareTrade's services th
 
 SquareTrade cookies are inactive once a user leaves our site. If you are still uncomfortable with the SquareTrade cookies, you can always delete and/or disable your cookies after your SquareTrade session is over.   
   
-**4\. Our Use and Disclosure of Your Information.**
+**5\. Our Use and Disclosure of Your Information.**
 
 We internally use all information we collect for the following reasons: 
 
@@ -123,24 +127,24 @@ Although we use industry standard practices to protect your privacy, we cannot g
 
 We do not sell or rent any information you provide. It is possible that SquareTrade could merge with or be acquired by another business entity. Should such a combination, you should expect that SquareTrade would share some or all of your information in order to continue to provide service. You will receive notice of such event (to the extent it occurs) and we will require that any new combined entity follow the practices disclosed in this Privacy Policy.  
   
-**5\. Control of Your Password.**
+**6\. Control of Your Password.**
 
 You may not disclose your password to any third parties or share it with any third parties. If, despite the foregoing, you lose control of your password, you may lose substantial control over your personally identifiable information. Therefore, if your password has been compromised for any reason, you should immediately change your password from the home page ([www.squaretrade.com](https://web.archive.org/pages/)). SquareTrade Seal Program Members and Care Plus Features may change their membership passwords and other personal identification information by contacting Member Services at [memberservices@squaretrade.com](http://warranty.squaretrade.com/buyercenter/contactUs.do), or by going to the [Member Profile Page](https://web.archive.org/pages/my-profile) on the SquareTrade Web Site and login.   
   
-**6\. Third Party Collectors of Information.**
+**7\. Third Party Collectors of Information.**
 
 Our policy only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether to the respondent of the dispute, or to the marketplace wherein the dispute arose, different rules may apply to their use or disclosure of the personal information you disclose to them. Since SquareTrade does not control the confidentiality policies of third parties, you are subject to the confidentiality customs and policies of that third party.   
   
-**7\. Security.**
+**8\. Security.**
 
 SquareTrade uses industry standard efforts to safeguard the confidentiality of your personal identifiable information, such as encryption and Secure Socket Layers. SquareTrade has security measures in place to protect the loss, misuse, or alteration of any information under our control. However, "perfect security" does not exist on the Internet.   
   
-**8\. Confidentiality of Dispute Resolution Process.** SquareTrade is committed to maintaining confidentiality within the Dispute Resolution process. As described above, SquareTrade will collect and track information about you, the Case, the Dispute Resolution process, the settlement agreement (if any), and your Dispute Resolution behavior. We will retain this information in the strictest confidence, except as otherwise described above. If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have the choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our confidentiality practices that affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our confidentiality practices.   
-**9\. Links to Other Sites.**
+**9\. Confidentiality of Dispute Resolution Process.** SquareTrade is committed to maintaining confidentiality within the Dispute Resolution process. As described above, SquareTrade will collect and track information about you, the Case, the Dispute Resolution process, the settlement agreement (if any), and your Dispute Resolution behavior. We will retain this information in the strictest confidence, except as otherwise described above. If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have the choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our confidentiality practices that affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our confidentiality practices.   
+**10\. Links to Other Sites.**
 
 This Web Site contains links to other web sites. Please note that when you click on one of these links, you are "clicking" to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours.   
   
-**10\. Choice/Opt Out.**
+**11\. Choice/Opt Out.**
 
 You can choose not to receive marketing or promotional information from SquareTrade by clicking on the link in an email from SquareTrade. You may not opt out of Service-realted Announcements or customer service information if you want to use the SquareTrade Services (see below). 
 
