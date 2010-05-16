@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchqu.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210055801id_/http%3A//www.searchqu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchqu.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516172947id_/http%3A//www.searchqu.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
