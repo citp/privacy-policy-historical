@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kwqc.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115013639id_/http%3A//www.kwqc.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwqc.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516210406id_/http%3A//www.kwqc.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - KWQC-TV6 News and Weather For The Quad Cities -
 
