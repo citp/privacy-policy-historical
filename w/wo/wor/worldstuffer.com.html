@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the worldstuffer.com privacy policy that was archived on 2009-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091115184152id_/http%3A//www.worldstuffer.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the worldstuffer.com privacy policy that was archived on 2010-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100516135901id_/http%3A//www.worldstuffer.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<base href="www.worldstuffer.com">
@@ -11,10 +11,13 @@
 	<meta name="Description" content="Privacy Policy Page Free Local Classifieds and Social Networking Site in your city">
 	<title>Worldstuffer | Privacy Policy Page Free Local Classifieds and Social Networking Site</title>
 	<link href="/style/layout.css" rel="stylesheet" type="text/css">
+	<link href="/libs/jquery/transform/jqtransform.css" rel="stylesheet" type="text/css">
+	<link rel="alternate" href="/rss.php" type="application/rss+xml" title="Worldstuffer RSS">
 	<script src="/script.js" type="text/javascript"></script>
 	<script src="/libs/jquery/jquery.js" type="text/javascript"></script>
 	<script src="/libs/tween/tween.js" type="text/javascript"></script>
 	<script src="/libs/jquery/dragsort/dragsort-0.2.js" type="text/javascript"></script>
+	<script src="/libs/jquery/transform/jquery.jqtransform.js" type="text/javascript"></script>
 	
 	<script type="text/javascript">
 	var open_comments;
@@ -26,11 +29,59 @@
 			open_comments = new Tween(document.getElementById("collapsible_comment").style, "height", Tween.strongEaseOut, 0, 235, 1, "px");
 			close_comments = new Tween(document.getElementById("collapsible_comment").style, "height", Tween.strongEaseOut, 235, 0, 1, "px");
 			
+			close_comments.onMotionChanged = function()
+			{
+				moveAngles();
+				$("#commentForm").css("display", "none");
+			}
+		
 			open_comments.onMotionChanged = function()
 			{
 				window.scrollTo(0, document.body.scrollHeight + document.body.clientHeight);
+				
+				moveAngles();
 			}
 		}
+		
+		$("#searchForm").jqTransform();
+		
+		
+		$("td[rel=\"round_both\"]").each(
+			function()
+			{
+				$(this).append("<div class=\"l\"></div>");				
+				$(this).append("<div class=\"r\"></div>");				
+				$(this).append("<div class=\"tl\"></div>");				
+				$(this).append("<div class=\"tr\"></div>");				
+				$(this).append("<div class=\"br\"></div>");				
+				$(this).append("<div class=\"bl\"></div>");
+			}
+		);
+		
+		$("td[rel=\"round_left\"]").each(
+			function()
+			{
+				$(this).append("<div class=\"l\"></div>");				
+				$(this).append("<div class=\"tl\"></div>");
+				$(this).append("<div class=\"bl\"></div>");
+			}
+		);
+		
+		
+		$("td[rel=\"round_right\"]").each(
+			function()
+			{
+				$(this).append("<div class=\"r_green\"></div>");				
+				$(this).append("<div class=\"tr_green\"></div>");
+				$(this).append("<div class=\"br_green\"></div>");
+			}
+		);
+		moveAngles();		
+	});
+	
+	$(window).resize(function()
+	{
+		moveAngles();
 	});
 	</script>
 </head>
@@ -52,14 +103,14 @@
 			<table style="width:100%; " cellspacing="0" cellpadding="0">
 				<tbody><tr class="headLine">
 
-						<td width="100%">
+						<td width="100%" rel="round_left">
 								<table>
 										<tbody><tr>
 											<td class="currentCity" style="padding-left:6px; text-align:left;">
 												<nobr>
-													<h1>																								
-													Free Classifieds in
-													Seattle												
+													<h1>
+														Free Classifieds in
+														Seattle
 													</h1>
 												</nobr>
 													</td><td class="yellowButtonSmall" style="padding-left:4px; vertical-align:middle; text-align:left;">
@@ -70,7 +121,7 @@
 											
 										</tr>
 								</tbody></table>
-							</td>
+							<div class="l"></div><div class="tl"></div><div class="bl"></div></td>
 						
 							<td width="27" height="41" valign="bottom" class="headLine">
 							 <img src="/style/about_site.gif " style="cursor:hand; cursor:pointer;" onclick="makeRequest('quickTourAbout');">
@@ -80,11 +131,11 @@
                                  <img src="/style/BlueGreenCurve.gif">
                             </td>
 
-							<td class="yellowButtonCell" bgcolor="#5FB34D" style="PADDING-RIGHT: 12px; TEXT-ALIGN: right; background-image:url(/style/bg_gradient_green.gif) ">
+							<td class="yellowButtonCell" rel="round_right" bgcolor="#5FB34D" style="PADDING-RIGHT: 12px; TEXT-ALIGN: right; background-image:url(/style/newGradients/bg_gradient_green.gif) ">
 							<nobr>
 							<a href="/login">Login</a>
 							</nobr>
-							</td>
+							<div class="r_green"></div><div class="tr_green"></div><div class="br_green"></div></td>
 						
 				</tr>
 			</tbody></table>
@@ -94,27 +145,27 @@
 			<!-- User Menu -->
 			
 	<tr>
-		<td colspan="2" background="/style/bg_gradient_blue.gif" bgcolor="#044d82" class="yellowButtonCell" style="HEIGHT: 37px; align:center; TEXT-ALIGN: center">
+		<td colspan="2" rel="round_both" bgcolor="#044d82" class="yellowButtonCell" style="HEIGHT: 37px; align:center; TEXT-ALIGN: center">
         	<a href="/postad">Post Ad<span class="yellowButtonSmall" style="color:#A0FF4A; vertical-align:top"> [Free]</span></a>
-		</td>
-		<td class="headLine" colspan="5" style="width:100%; height:37px;">
+		<div class="l"></div><div class="r"></div><div class="tl"></div><div class="tr"></div><div class="br"></div><div class="bl"></div></td>
+		<td class="headLine" rel="round_both" colspan="5" style="width:100%; height:37px;">
 			<table style="width:100%;" cellspacing="0" cellpadding="0">
 				<tbody><tr>
 					<td style="padding-left:8px; width:400px;  text-align:left;" class="whiteButtonCell">
 						Privacy Policy
 					</td>
-					<td style="text-align:right; padding:0px 10px 0px 10px;">
-						<select onchange="makeRequest('selectLanguage', this.value);" style="font-size:10px;">
+					<td style="text-align:right; padding:0px 10px 0px 10px;" id="searchForm" class="jqtransformdone">
+						<div class="jqTransformSelectWrapper" style="z-index: 10; width: 119px;"><div><span style="width: 100px;">[EN] English</span><a href="#" class="jqTransformSelectOpen"></a></div><ul style="width: 117px; display: none; visibility: visible;"><li><a href="#" index="0">[DE] Deutsch</a></li><li><a href="#" index="1" class="selected">[EN] English</a></li><li><a href="#" index="2">[ES] Español</a></li><li><a href="#" index="3">[FR] Français</a></li><li><a href="#" index="4">[PT] Português</a></li><li><a href="#" index="5">[RU] Русский</a></li></ul><select onchange="makeRequest('selectLanguage', this.value);" style="width: 100px;" class="jqTransformHidden">
 			<option value="5" title="Deutsch">[DE] Deutsch</option>
 			<option value="1" selected="selected" title="English">[EN] English</option>
 			<option value="17" title="Español">[ES] Español</option>
 			<option value="3" title="Français">[FR] Français</option>
 			<option value="18" title="Português">[PT] Português</option>
-			<option value="2" title="Русский">[RU] Русский</option></select>
+			<option value="2" title="Русский">[RU] Русский</option></select></div>
 					</td>
 				</tr>
 			</tbody></table>
-		</td>
+		<div class="l"></div><div class="r"></div><div class="tl"></div><div class="tr"></div><div class="br"></div><div class="bl"></div></td>
 	</tr>			<!-- /User Menu -->
 			
 			
@@ -222,7 +273,7 @@ You are responsible for keeping within the local laws relating to the item you b
 • Ads that are not clear regarding what type of work would be required</p>
 <p><strong>Other Posting Policies:</strong><br>
 It’s not eligible to post the link to another web site for only purpose of directing visitors to that web site. However, you may include a link in your post if it gives more information about the offered item.</p>
-<p><em><strong>Worldstuffer Safety Tips</strong></em><br>
+<p><strong>Worldstuffer Safety Tips</strong><br>
 One of the best ways to avoid becoming a victim of fraud is to make sure that all deals take place locally and in-person.</p>
 <p>You should take the following recommendations: <br>
 • When buying or selling, you should meet in-person to see the product and exchange funds. <br>
@@ -230,14 +281,14 @@ One of the best ways to avoid becoming a victim of fraud is to make sure that al
 • Worldstuffer does not offer any sort of buyer protection programs or secure payment systems. If you receive any emails promoting these services, please contact us. <br>
 • Do not ever provide your financial or banking information to others over the Internet. <br>
 • In case of fraud, inform police and contact us.</p>
-<p><em><strong>Common scams and fraud: </strong></em><br>
+<p><strong>Common scams and fraud: </strong><br>
 • You may get an email as if from Worldstuffer, Western Union or another company claiming those sites offer buyer protection or online payment systems. They usually ask for money transfer using this site or provide personal information. Worldstuffer never send out such emails and if you send money relying on this email, you most likely sending money to the scammers. <br>
 • You may receive a cheque and then ask for money to be returned to them. Often the cheque could be rejected and you lose any money you sent.<br>
 • A seller claims that import duties or other such fees required getting an item into your country. Do not pay such fees otherwise you will probably never get the product and lose any money you paid. We encourage you to make all the deals locally and in-person.<br>
 • A buyer or seller suggests using an escrow service to complete the transaction. Often these escrow web sites are run by fraudsters and they take your money and never get the product. <br>
 • An ad promises you can make a money working from your home. The information, your received, generally tells you how to set up a similar scam to trick other people.<br>
 • You receive an email from a foreign official or attorney. They ask you to send money in return for a large lump sum being transferred to your bank account. Once you pay you will never hear from them again.</p>
-<p><em><strong>How to report scams and fraud: </strong></em><br>
+<p><strong>How to report scams and fraud: </strong><br>
 • If you find an ad on the Worldstuffer site that you suspect is scam, illegal, or otherwise violate Worldstuffer policies, please contact us. <br>
 • If you reply to an ad and the person who posted the ad emails you with a suspicious request, please stop all communications with that person and contact us.<br>
 • If you are the victim of fraud, inform Worldstuffer and your local police service.</p>
@@ -253,8 +304,16 @@ We welcome your feedback on this document or if you have any other security ques
 			
 			<!-- Footer -->
 			<tr>
-				<td class="headLine" style="text-align:left; width:100%; padding-left:10px; height:28px;" colspan="7">
+				<td class="headLine" style="text-align:left; width:100%; height:28px;" colspan="7">
+				
 					<div style="float:left; clear:none;">
+						<div style="height: 4px; width:4px; background:url(/style/tl_angle.gif); float:left; clear:both;"></div>
+						<div style="height: 20px; width:2px; background:url(/style/l_angle.gif); float:left; clear:both;"></div>
+						<div style="height: 4px; width:4px; background:url(/style/bl_angle.gif); float:left; clear:both;"></div>
+					</div>
+					
+					
+					<div style="float:left; clear:none; margin-top:6px;">
 						<table cellspacing="0" cellpadding="0" class="footerTable" style="width:auto;">
 							<tbody><tr>
 								<td>
@@ -283,24 +342,31 @@ We welcome your feedback on this document or if you have any other security ques
 							</tr>
 						</tbody></table>
 					</div>
-					<div style="float:left; clear:none;">
+					<div style="float:left; clear:none; margin-top:6px;">
 						<table cellspacing="0" cellpadding="0" style="width:auto;">
 							<tbody><tr>
-								<td style="text-align:left; padding-left:5px;">									
+								<td style="text-align:left; padding-left:5px;">											
 										<a href="http://www.facebook.com/worldstuffer"><img src="/style/Worldstuffer_facebook.gif " alt="Join Us on Facebook.com" height="16"></a>
 									</td>
-									<td style="text-align:left; padding-left:10px;">
+									<td style="text-align:left; padding-left:10px;">										
 										<a href="http://www.twitter.com/worldstuffer"><img src="/style/Worldstuffer_twitter.gif " alt="Join Us on Twitter.com" height="15"></a>
 									</td>
 								
 							</tr>
 						</tbody></table>
 				   </div>
-					<div style="float:right; clear:none;">
+				  
+				  <div style="float:right; clear:none;">
+						<div style="height: 4px; width:4px; background:url(/style/tr_angle.gif); float:right; clear:both;"></div>
+						<div style="height: 20px; width:2px; background:url(/style/r_angle.gif); float:right; clear:both;"></div>
+						<div style="height: 4px; width:4px; background:url(/style/br_angle.gif); float:right; clear:both;"></div>
+					</div>
+				    
+					<div style="float:right; clear:none;  margin-top:6px;">
 						<table cellspacing="0" cellpadding="0" class="footerTable" style="width:auto;">
 							<tbody><tr>
 								<td style="text-align:right; padding-right:10px;">
-									Copyright © 2007-2009 RUMOTION Inc.
+									Copyright © 2007-2010 Rumotion Inc.
 								</td>
 							</tr>
 						</tbody></table>
@@ -315,7 +381,7 @@ We welcome your feedback on this document or if you have any other security ques
 			<table>
 				<tbody><tr><td style="color: #FFFFFF">
 	
-					Generated in 1.35425901413 seconds
+					Generated in 1.20799803734 seconds
 				</td>
 			</tr></tbody></table>
 		
