@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autos.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217192001id_/http%3A//www.autos.com/autos/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autos.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516164245id_/http%3A//www.autos.com/autos/privacy) for the most accurate reproduction.*
 
 # Autos.com: The best autos rankings site to help you find your perfect car online
 
@@ -56,9 +56,9 @@ Due to federal and state regulations, we are required to keep a copy of your inf
 
 **Third Party Advertising**
 
-We use third-party advertising companies to serve ads when you visit our website. These companies use non-personally identifiable information regarding your visit to this website and other sites, such as the user IP address, pages viewed, date and time of your visit, and number of times you have viewed an ad (but not your name, address, or other personal information), to serve ads to you on this Site and other sites that may be of interest to you. In the course of serving advertisements to this Site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+We use third-party advertising companies to serve ads when you visit Autos.com. These companies use non-personally identifiable information regarding your visit to this website and other sites, such as the user IP address, pages viewed, date and time of your visit, and number of times you have viewed an ad (but not your name, address, or other personal information), to serve ads to you on this site and other sites that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. Specifically, Google, as a third party vendor, uses cookies to serve ads on Autos.com. Google's use of the DART cookie enables it to serve ads to you based on your visit to this website and other websites on the Internet. You may opt out of the use of the DART cookies by visiting the Google ad and content network [privacy policy](http://www.google.com/privacy_ads.html). 
 
-In addition, we use clear GIFs or pixel tags to help manage our online advertising. These clear GIFs enable our ad serving company to recognize a browser's cookie when a browser visits this Site. This allows us to learn which banner ads bring users to our website. The information we collect and share through this technology is not personally identifiable. 
+In addition, we use clear GIFs or pixel tags to help manage our online advertising. These clear GIFs enable our ad serving company to recognize a browser's cookie when a browser visits Autos.com. This allows us to learn which banner ads bring users to this website. The information we collect and share through this technology is not personally identifiable. 
 
 To learn more about these practice and your choices about not having this information used by these companies please [click here](http://www.networkadvertising.org/consumer/opt_out.asp). 
 
@@ -74,4 +74,4 @@ If you have any questions about our Privacy Policy or privacy policies, please f
 
 Autos.com 
 
-**May 14, 2008**
+**March 24, 2009**
