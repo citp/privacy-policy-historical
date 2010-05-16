@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gameshadow.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115095812id_/http%3A//www.gameshadow.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameshadow.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516155353id_/http%3A//www.gameshadow.com/information/privacy-policy) for the most accurate reproduction.*
 
-# GameShadow.com - get the latest patch, trailer or demo for your games
+# GameShadow - Get The Latest Demo, Trailer, Video, Patch, Free Game
 
 GameShadow is fully committed to respecting your privacy and to protecting any information you provide to it. We treat both privacy and security as a priority and make every effort to ensure that all the information provided by you is protected. This Privacy Policy (the "Policy") respects and protects the privacy of all visitors to GameShadow and intends to give you as much information and control as possible.
 
