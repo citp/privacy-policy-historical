@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the weplay.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520055810id_/http%3A//www.weplay.com/t/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weplay.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516121304id_/http%3A//www.weplay.com/t/privacy) for the most accurate reproduction.*
 
 # Weplay
-
-Please login to continue. 
 
 ##  weplay.com General Privacy Policy 
 
