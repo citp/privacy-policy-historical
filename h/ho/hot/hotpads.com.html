@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hotpads.com privacy policy that was archived on 2009-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090620103233id_/http%3A//hotpads.com/pages/info/privacyPolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotpads.com privacy policy that was archived on 2010-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100516035048id_/http%3A//hotpads.com/pages/info/privacyPolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 		<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
@@ -11,9 +11,9 @@
 			<meta name="keywords" content="HotPads Privacy Policy">
 		
 		<title>Privacy Policy - HotPads.com</title>
-		<link href="/css/raptor/main.css?47" media="all" rel="stylesheet" type="text/css">
-		<link href="/css/raptor/pages.css?47" media="all" rel="stylesheet" type="text/css">
-		<script type="text/javascript" src="/js/compressed/jquery.compressed.js?72"></script>
+		<link href="/css/raptor/main.css?82" media="all" rel="stylesheet" type="text/css">
+		<link href="/css/raptor/pages.css?82" media="all" rel="stylesheet" type="text/css">
+		<script type="text/javascript" src="/js/compressed/jquery.compressed.js?115"></script>
 		
 
 
@@ -54,6 +54,7 @@
 	gam_dma = "";
 	gam_zip = "";
 	gam_country = "";
+	gam_msa = "";
 
 	
 	
@@ -71,7 +72,7 @@
 
 
 
-	</head>
+	<script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
 	<body>
 		<div id="page-container">
 			
@@ -96,9 +97,15 @@
 
  
 <div id="header">
-	<a href="/" id="headerLogo">
-		<img src="/images/raptor/logos/logo_header.gif" border="0" alt="The map based housing search - HotPads.com">
-	</a>
+
+	
+	
+		<a href="/" id="headerLogo">
+	    	<div class="sprite sprite-logo_header" alt="The map based housing search - HotPads.com"></div>
+		</a>
+	
+	
+
 	<div id="headerLogin">
 		
 
@@ -123,25 +130,26 @@
 
 
 
-<script type="text/javascript" language="javascript">
-var host = (("https:" == document.location.protocol) ? "https://www." : "http://static.ak.");
-document.write(unescape("%3Cscript src='" + host + "facebook.com/js/api_lib/v0.4/FeatureLoader.js.php' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://www.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
-
-
 <style type="text/css">
 #fb_login_image {
 margin-bottom:-5px;
 }
 </style>
 
+<script type="text/javascript">
+	gotoConnectWithRef = function() {
+		window.location = "/connectWithFacebook.htm?rref=" + encodeURIComponent(window.location.pathname + window.location.search + window.location.hash);
+	};
+</script>
+
 <span id="loginBox">
 
 	
 		
-		<a id="loginLink" ref="nofollow" href="/login.jsp">sign in</a> | 
-		<a href="/users/newUser.htm" ref="nofollow">create an account</a> | 
-		<a href="javascript:void(0);" onclick="FB.Connect.requireSession(hotpads.fb.onlogin); return false;"><img id="fb_login_image" src="/images/icons/connect_white_small_short.gif" alt="Connect"> use your Facebook account</a> (<a href="/pages/whyFacebookConnect.htm" rel="nofollow" onclick="hotpads.fb.showWhyWindow(); return false;">why?</a>)
+		<a id="loginLink" rel="nofollow" href="/login.jsp">sign in</a> | 
+		<a href="/users/newUser.htm" rel="nofollow">create an account</a> | 
+		<a href="/connectWithFacebook.htm" onclick="gotoConnectWithRef(); return false;" rel="nofollow">
+			<div id="fb_login_image" style="margin-right:2px" class="sprite sprite-connect_white_small_short"></div>&nbsp;use your Facebook account</a>
 	
 	
 	
@@ -165,15 +173,10 @@ margin-bottom:-5px;
 
 
 	</div>
-	<div style="clear: both; text-align: center;">
-		<noscript>
-			<div class="headerMessage">
-				<span>You must have JavaScript enabled to use HotPads.com</span>
-				<img border="0" src="/search/analytics?action=searchNoScript&seed=1245493953112" style="display: none" border="0" height="1" width="1" alt="HotPads" />
-			</div>
-		</noscript>
-	</div>
+	
+	<div style="clear: both; text-align: center;"></div>
 </div>
+
 			<div id="mainwrap">
 				<div id="content">
 					<div class="page-titlebar">
@@ -337,6 +340,8 @@ HotPads, Inc.
 		<a href="http://hotpads.mysmartmove.com" rel="nofollow">Credit Checks</a>
 		-
 		<a href="/pages/off-campus-housing-search.htm">Student Housing</a>
+		-
+		<a href="/answers">Answers</a>
 	</div>
 	<div id="footerCompanyInfo" style="margin-top:4px;">
 		<span style="font-weight:bold;">HotPads Info:</span>
@@ -362,7 +367,7 @@ HotPads, Inc.
 	</div>
 	<div id="footerCopyright" style="margin-top:5px;clear:both;font-size:.9em;">
 		<a href="http://www.hud.gov/offices/fheo/index.cfm" rel="nofollow"><img src="/images/icons/fheo.gif" alt="fair housing and equal opportunity"></a>
-		<div style="color:gray;font-size:.9em;margin-top:5px;">© 2009 hotpads.com</div>
+		<div style="color:gray;font-size:.9em;margin-top:5px;">© 2010 hotpads.com</div>
 		
 	</div>
 </div>
@@ -370,145 +375,6 @@ HotPads, Inc.
 			</div>
 		</div>
 		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript"> 
-	$j = jQuery;
-	if (typeof hotpads == "undefined") var hotpads = {};
-	
-	hotpads.fb = {	
-		loaded : false,
-		
-		favoriteTemplateId : '72219603843', 
-
-		fbUID : null,
-		
-		showWhyWindow : function() {
-			window.open('/pages/whyFacebookConnect.htm',
-					'_blank','menubar=0, toolbar=0, location=0, scrollbars=0,resize=0, width=500, height=400');
-		},
-	
-		connected : function(userUid) {
-			hotpads.fb.loaded = true;
-			hotpads.fb.fbUID = userUid;
-		    var user_box = $j("#loginBox"); 
-		
-			if (user_box[0] != null) {			
-				FB_RequireFeatures(["Api"], function() {
-				  var api = FB.Facebook.apiClient;
-				  api.users_getInfo([hotpads.fb.fbUID], ['first_name','last_name',], function(result) {
-					  if ($j("#hotpadsUserInfo").size() > 0) {
-					  	  //has hotpads account, allow editing of it
-					  	  $j("#facebookUserStuff").html("<a target='_blank' href='http://www.facebook.com/profile.php?id=" + userUid 
-			    	              + "'><img id='fb_login_image' src='/images/icons/connect_white_small_short.gif' alt='Connect' /></a> Connected");
-			    	      $j("#logoutLink").click(function() { hotpads.fb.logout(); return false; });
-					  } else {
-						  //doesnt have real hotpads account
-					  	  $j(user_box).html( 
-					  	  		"<span><a target='_blank' href='http://www.facebook.com/profile.php?id=" + userUid 
-			  		  	  		  + "'>" + result[0]['first_name'] + " " + result[0]['last_name'] + "</a> " 
-			                    + "<span style='font-size:0.85em'>(signed in with your <a target='_blank' href='http://www.facebook.com/profile.php?id=" + userUid 
-			    	              + "'>Facebook</a> " 
-			                    + "account)</span> | <a href='javascript:hotpads.fb.logout();'>sign out</a>"
-			                    + "</span>");
-					
-					  	  }
-				   });
-				});
-			}
-		},
-		
-		notConnected : function() {
-		if ($j("#hotpadsUserInfo").size() > 0) {
-			$j("#facebookUserStuff").html(
-				'<a href="javascript:void(0);" onclick="FB.Connect.requireSession(hotpads.fb.onlogin); return false;">Login</a> to <a href="javascript:void(0);" onclick="FB.Connect.requireSession(hotpads.fb.onlogin); return false;"><img ' 
-				+ 'id="fb_login_image" src="/images/icons/connect_white_small_short.gif" '
-				+ 'alt="Connect" /></a> Facebook (<a href="/pages/whyFacebookConnect.htm" onclick="hotpads.fb.showWhyWindow(); return false;">why?</a>)');
-			}
-		},
-	
-		onlogin : function() {
-			$j.get("/api/facebookConnect/?a=onLogin"); //sets up session with facebook info and associates with user databean
-			window.location=window.location; //reload page
-		},
-		
-		onloginToHome : function() {
-			$j.get("/api/facebookConnect/?a=onLogin"); //sets up session with facebook info and associates with user databean
-			window.location="/"; //send to homepage		
-		},
-		
-		getEmail : function(successFunc, failFunc) {
-		
-			FB.Connect.showPermissionDialog('email', function(result) { 
-				if (result) {
-					FB_RequireFeatures(["Api"], function() {
-					  var api = FB.Facebook.apiClient;
-					  api.users_getInfo([hotpads.fb.fbUID], ['first_name','last_name','proxied_email'], function(result) {
-						$j.get("/api/facebookConnect/?a=recvdEmailPermissions&proxied_email=" + encodeURIComponent(result[0]['proxied_email']) 
-									+ "&first_name=" + encodeURIComponent(result[0]['first_name'])
-									+ "&last_name=" + encodeURIComponent(result[0]['last_name']),
-							function() {
-								successFunc();
-							}); 
-					  });
-					});
-				} else {
-					failFunc();
-				}
-			});
-		
-		},
-		
-		logout : function() {
-			FB.Connect.logoutAndRedirect("/logout.jsp");
-		},
-				
-		shareFavorite : function(listingType, listingName, listingLink) {
-			callback = function() {  };
-			favoriteTemplateArgs = {};
-			favoriteTemplateArgs.listingType = listingType; 
-			favoriteTemplateArgs.name = listingName; 
-			favoriteTemplateArgs.link = listingLink + "?ref=FacebookFav"; 
-			FB.Connect.showFeedDialog(
-				hotpads.fb.favoriteTemplateId, favoriteTemplateArgs, 
-				null, null /*"bodyText"*/, null, 
-				FB.RequireConnect.require, callback,
-			    null /* "userPrompt" */ , null /* "userText" */);
-		},
-		
-		share : function(url) {
-			FB.Connect.showShareDialog(url, function() { });
-		}
-		
-	};
-	
-	FB.init("6d73be7cb8eb044e691415c3abffd495", 
-			(("https:" == document.location.protocol) ? "/xd_receiver_ssl.html" : "/xd_receiver.html"),
-            {"ifUserConnected" : hotpads.fb.connected,
-            "ifUserNotConnected" : hotpads.fb.notConnected}); 
-</script>
 		
 
 
@@ -530,14 +396,21 @@ HotPads, Inc.
 
 
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-161502-1");
-pageTracker._initData();
-pageTracker._trackPageview();
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-161502-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+
 </script>
+
 
 
 	
