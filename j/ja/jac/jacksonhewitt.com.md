@@ -1,63 +1,86 @@
-> *The following text is extracted and transformed from the jacksonhewitt.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208162904id_/http%3A//www.jacksonhewitt.com/about_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacksonhewitt.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516165448id_/http%3A//www.jacksonhewitt.com/privacy-policy) for the most accurate reproduction.*
 
-# Jackson Hewitt Tax Service
+# Privacy Policy: Jackson Hewitt
 
-**Jackson Hewitt Tax Service ® Privacy Policy**  
-Jackson Hewitt (referred to as "Jackson Hewitt Inc.," "we," "us," or "our") recognizes the importance of protecting the privacy of certain information ("Information") collected about our customers and prospective customers (referred to as "Customers," "you" or "your"). This privacy statement discloses what information we gather, how we use it, and how to correct or change it. At Jackson Hewitt, it is our intention to give you an understanding about how we collect your Information and the use we make of it in the course of our business.
+Jackson Hewitt Inc. (“Jackson Hewitt,” “we,” “us” or “our”) recognizes the importance of protecting the information provided to us by visitors to [www.jacksonhewitt.com](http://www.jacksonhewitt.com/) (the “Website”). This privacy statement explains what information may be collected from you when you visit the Website, how that information is used and how it is shared with third parties. 
 
-To that end, Jackson Hewitt gathers two types of information about Customers: data that Customers provide through optional, voluntary registration on our sites; and data Jackson Hewitt gathers through aggregated tracking, mainly by tallying page views throughout our sites. Such information enables us to tailor our content to fit Customers' needs better and to help our advertisers understand our audience. Be assured that Jackson Hewitt will not disclose personal Information to third parties without your consent, except as may be noted in this Privacy Policy or as disclosed to you when the Information is submitted.
+##### 
 
-**How Does Jackson Hewitt Collect Information?**
+Jackson Hewitt offers individual tax preparation services and a wide range of financial products through various affiliates, franchisees and company-owed stores.  Because we offer in-store and online tax preparation services, our privacy policies will vary depending on how you interact with Jackson Hewitt.  This privacy policy applies solely to www.jacksonhewitt.com, independent of any business relationship you may have with us. ****
 
-  * **Optional Registration**  
-We collect information by specifically requesting it from you. Generally this occurs when you register at a site or request information or a service. Usually, the Jackson Hewitt sites and Jackson Hewitt's service partners use your information to operate the sites and to deliver services. Jackson Hewitt sites also use your information to inform you about other products or services available from Jackson Hewitt and its affiliates.
-  *  **Usage Tracking**
+This privacy policy may change and will be updated on the Website. You should check this page periodically to ensure that you are in agreement with any changes.  If we amend this privacy policy to permit material changes in the way we collect, use, and/or share your personal information, we will notify you of such amendment by prominently posting notice of such amendment on the Website’s homepage.    ** __**
+
+Information Collected by Jackson Hewitt
+
+##### Voluntary Registration
+
+We collect personal information (which may include, without limitation, your name, email address, social security number, mailing address and/or telephone number) from you when you voluntarily register on the Website or when you request information or a service (e.g., tax preparation services) on the Website. 
+
+##### IP Addresses
+
+Jackson Hewitt collects IP addresses for system administration, to report and review aggregate information, and to audit the use of the Website. When visitors request pages on our or our affiliates’ sites, our servers log the visitors’ IP addresses. We do not normally link IP addresses to any personally identifiable information, which means that a visitor’s session will be logged, but the visitor will remain anonymous to us. We may use IP addresses to identify a visitor if it is necessary to protect our business and legal interests, Website, clients, or others.
+
+##### Cookies
+
+Cookies are used to specify a visitor’s preferences and to analyze a visitor’s Website usage trends and patterns. This helps us to better understand our visitors’ needs and improve areas of our services that our visitors may find valuable. While both of these activities depend on the use of cookies, you have the option of disabling the cookies via your internet browser preferences.  This may prevent you from taking full advantage of the Website and some services may not function properly or operate slower.
+
+We do not save passwords or credit card information in cookies.   A cookie does not provide us access to your computer or any information about you, other than the data you choose to share with us as part of the voluntary registration process described above. 
+
+##### How Jackson Hewitt May Use the Collected Information
+
+Jackson Hewitt does not sell or market your personal information to any third parties. We use information collected on the Website for the following:
+
+  * To provide the products and services you request and communicate with you regarding those requests
+  * Internal market analysis
+  * To improve our products and services
+  * To provide you with information on new products or special offers 
+  * To tailor the Website according to your interests
+  * For marketing or promotional purposes 
 
 
 
-**Use of Internet Protocol ("IP") Addresses**  
-An IP address is a unique number that is automatically assigned to your computer whenever you're surfing the Internet so that your computer can be identified by the main computers, known as "Web servers," that "serve up" Web pages.
+Jackson Hewitt will not disclose to unaffiliated third parties any information collected in a manner that connects you with your personal information, except when we have your permission or under special circumstances, such as when we have a good faith belief that the law requires it. 
 
-Jackson Hewitt and/or its affiliates collect IP addresses for the purposes of system administration, to report aggregated information to our advertisers, and to audit the use of our site. When Customers request pages on our or our affiliates' sites, our servers log the Customers' IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a Customer's session will be logged, but the Customer will remain anonymous to us. We can and will use IP addresses to identify a Customer when we feel it is necessary to enforce compliance with our site's terms of use or terms of service or to protect our service, site, customers or others.
+We also may use your information to inform you about other products or services available from Jackson Hewitt and our affiliates.  You may be offered the opportunity to receive materials or special offers from affiliated third parties. If you opt to receive information from these third parties, we will share your name and e-mail address with such third parties. We may match personal information collected on the Website with affiliated third party data. 
 
-**Use Of Cookies**  
-What are cookies? Cookies are small pieces of information that a Web site sends to your computer for record keeping purposes. The information is stored in a file on your computer. Cookies make Web surfing easier for you by saving your preferences so that we can use the saved information to facilitate your use of our Web site when you return to the site. Cookies do not tell us your individual identity unless you have chosen to provide it to us. We never save passwords or credit card information in cookies. The use of cookies is an industry standard, and as such, you'll find that most major Web sites use them.
+Jackson Hewitt may keep track of what portions of the Website visitors are viewing and other visitor statistics such as geographic location, and aggregate this information to help us create a better experience for future Website visits. This is all done without knowing your name or other personal information in order to describe our viewers and services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
 
-By showing how and when Customers use a site, cookies help us see which areas are popular and which are not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide services better tailored to our Customers' needs.
+##### How Your Personal Information May Be Shared with Third Parties
 
-Most cookies expire after a defined period of time, or you can delete your cookie file at any time. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, note that some parts of our or our affiliates' services will not function properly or may be considerably slower if you refuse cookies.
+Jackson Hewitt may disclose the personal information you provide to us to our business partners, sponsors or affiliates so they can assist us in providing the services you request.  By requesting information from our business partners, sponsors, and affiliates through the Website, you give us permission to transfer your personal information to them so they can fulfill your request.
 
-We have two primary uses for cookies. First, we use them to specify a Customer's preferences. Second, we use cookies to track Customers' Web site usage trends and patterns. This helps us understand our Customers' needs better and improve areas of our services that our Customers find valuable. While both of these activities depend on the use of cookies, you have the option of disabling the cookies via your browser preferences. 
+##### Third Party Websites 
 
-You may occasionally get cookies from our advertisers. Neither we nor our affiliates control these cookies. The use of advertising cookies sent by third-party servers is standard in the Internet industry. 
+The Website may contain links to other affiliated websites or websites of interest that are not under our direction or control.  These third party websites may include social networking websites and websites of advertisers, sponsors and partners that may contain our or our affiliates’ logo as part of a co-branding agreement.  These other sites may send their own cookies to visitors, collect data, or solicit information.  Therefore, we cannot be responsible for the protection and privacy of any information you may provide while visiting such sites.  This privacy policy does not apply to those sites and only applies to [www.jacksonhewitt.com](http://www.jacksonhewitt.com/). You should exercise caution and review the privacy policy of those websites you are visiting.  
 
-Jackson Hewitt uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to http://www.doubleclick.net/us/corporate/privacy.
+##### Other Uses
 
-**With whom does Jackson Hewitt share my Information?**  
-As a general rule, we will not disclose any specific personal information that you submit to us about you ("Personal Information") in a manner that connects you with the Personal Information, except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. The following describes some of the ways that your Personal Information may be disclosed.
+We may also disclose collected information in certain cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with any of our rights or property, visitors, or anyone else.  We may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services. 
 
-**Business Partners & Sponsors**  
-Jackson Hewitt may disclose some or all of your Personal Information to business partners or sponsors, but this use will be specifically described to you prior to data collection or prior to transferring the data. Promotions may offer opportunities to request additional information from sponsors. By requesting more information, you give us permission to transfer your Personal Information to the sponsor so they can fulfill your request. In many instances, only your e-mail address will be shared. If more Personal Information will be shared with the sponsor, you will be notified prior to the transfer.
+##### Security
 
-**Third Party & Aggregate Data**  
-From time to time, you may be offered the opportunity to receive materials or special offers from third parties. If you opt to receive information from these third parties, we will (with your permission) share your name and e-mail address with such third parties. Under confidentiality agreements, we may match Personal Information with third party data. Also, we may keep track of what portions of the Web site Customers are visiting and other Customer statistics, and aggregate this information to help us create a better experience for users of our Web site. This is all done without knowing your name or other Personal Information in order to describe our viewers and services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
+The security of all information associated with our Website visitors is important to us. We exercise considerable care in providing secure transmission of your information from your computer to our servers or those of our business partners. 
 
-**Other**  
-We may also disclose account Information (if any) in special cases when we have reason to believe that disclosing this Information is necessary to identify, contact or bring legal action against someone who may be violating our terms of use or terms of service, or may be causing injury to or interference (either intentionally or unintentionally) with any of our rights or property, Customers, or anyone else, we may disclose or access account Information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services.
+##### Phishing
 
-**What happens when you link to a third party site?**  
-You should be aware that when you are on our or our affiliates' sites, you could hyperlink or be directed to other sites that are beyond our control and/or outside our service. These other sites may include sites of advertisers, sponsors and partners that may contain our or our affiliates' logo as part of a co-branding agreement. These other sites may send their own cookies to Customers, collect data, or solicit Information. 
+“Phishing” is a scam designed to steal your personal information.  If you receive an email that looks like it is from Jackson Hewitt asking you for your personal information, do not respond.  We will never request your personal information or credit card information through email.  
 
-Neither we nor our affiliates do not control such sites, and, therefore, we are not responsible for their contents or the hyperlinks or advertising they choose to place on such sites. Our inclusion of hyperlinks to these sites does not imply any endorsement of the material on such sites or any association with their operators. Our privacy policy does not extend to anything that is inherent in the operation of the Internet, or that beyond our or our affiliates' control. 
+##### Controlling Your Personal Information 
 
-Please keep in mind that whenever you give out information online (for example, via email) that information can be collected and used by people you don't know. Jackson Hewitt and its affiliates strive to protect their Customers' information and privacy, but we cannot guarantee the security of any information you disclose online, and you disclose such information at your own risk.
+You may choose to restrict Jackson Hewitt’s use of your personal information.   If you have provided your personal information to Jackson Hewitt and subsequently decide to restrict the use of this information or if you believe that any personal information we have about you is incorrect or incomplete, please contact us at [JacksonHewittOnline@custhelp.com](mailto:JacksonHewittOnline@custhelp.com) or by calling 1-877-476-3353.
 
-**Is my information secure from others using the www.JacksonHewitt.com site?**  
-The security of all information associated with our Customers is an important concern to us. We exercise care in providing secure transmission of your information from your computer to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your information, we and our affiliates can't ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we use industry standard efforts to safeguard the confidentiality of your information. However, "perfect security" does not exist on the Internet.
+Please feel free to contact Jackson Hewitt at [JacksonHewittOnline@custhelp.com](mailto:JacksonHewittOnline@custhelp.com) or by calling 1-877-476-3353 if you have any questions or concerns regarding this privacy policy or Jackson Hewitt’s collection and use of your personal information. 
 
-**YOUR ACCEPTANCE OF THESE TERMS**  
-By using this site, you signify your agreement to Jackson Hewitt's Privacy Policy.
+##### Your California Privacy Rights
 
-**IF YOU DO NOT AGREE WITH THIS POLICY, PLEASE DO NOT USE THIS SITE.**
+California Civil Code Section 1798.83 permits Jackson Hewitt customers who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [JacksonHewittOnline@custhelp.com](mailto:JacksonHewittOnline@custhelp.com) or by calling 1-877-476-3353.
 
-Your continued use of Jackson Hewitt's and/or its affiliates' sites following the posting of changes to these terms will mean you accept those changes.
+##### ACCEPTANCE OF THESE TERMS
+
+You understand that any information you provide through the Website will be governed by this privacy policy.
+
+##### IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT USE THIS SITE. 
+
+Your continued use of the Website following the posting of changes to these terms will mean you accept such changes. If we amend this privacy policy to permit material changes in the way we collect, use, and/or share your personal information, we will notify you of such amendment by prominently posting notice of such amendment on the Website’s homepage.    ** __**
+
+**_This Privacy Policy is effective January 4, 2010.  _**
