@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careersandeducation.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231121446id_/http%3A//www.careersandeducation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careersandeducation.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516082224id_/http%3A//www.careersandeducation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Careersandeducation.com - Find Scholarships, Search Colleges and Universities, Find undergraduate and Graduate Degree Programs
 
