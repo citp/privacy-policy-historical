@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotpads.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620103233id_/http%3A//hotpads.com/pages/info/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpads.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516035048id_/http%3A//hotpads.com/pages/info/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - HotPads.com
 
