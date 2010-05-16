@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldstuffer.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115184152id_/http%3A//www.worldstuffer.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldstuffer.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516135901id_/http%3A//www.worldstuffer.com/page/privacy) for the most accurate reproduction.*
 
 # Worldstuffer | Privacy Policy Page Free Local Classifieds and Social Networking Site
 
@@ -122,7 +122,7 @@ You are responsible for keeping within the local laws relating to the item you b
 **Other Posting Policies:**  
 It’s not eligible to post the link to another web site for only purpose of directing visitors to that web site. However, you may include a link in your post if it gives more information about the offered item.
 
-_**Worldstuffer Safety Tips**_  
+**Worldstuffer Safety Tips**  
 One of the best ways to avoid becoming a victim of fraud is to make sure that all deals take place locally and in-person.
 
 You should take the following recommendations:   
@@ -132,7 +132,7 @@ You should take the following recommendations:
 • Do not ever provide your financial or banking information to others over the Internet.   
 • In case of fraud, inform police and contact us.
 
-_**Common scams and fraud:**_  
+**Common scams and fraud:**  
 • You may get an email as if from Worldstuffer, Western Union or another company claiming those sites offer buyer protection or online payment systems. They usually ask for money transfer using this site or provide personal information. Worldstuffer never send out such emails and if you send money relying on this email, you most likely sending money to the scammers.   
 • You may receive a cheque and then ask for money to be returned to them. Often the cheque could be rejected and you lose any money you sent.  
 • A seller claims that import duties or other such fees required getting an item into your country. Do not pay such fees otherwise you will probably never get the product and lose any money you paid. We encourage you to make all the deals locally and in-person.  
@@ -140,7 +140,7 @@ _**Common scams and fraud:**_
 • An ad promises you can make a money working from your home. The information, your received, generally tells you how to set up a similar scam to trick other people.  
 • You receive an email from a foreign official or attorney. They ask you to send money in return for a large lump sum being transferred to your bank account. Once you pay you will never hear from them again.
 
-_**How to report scams and fraud:**_  
+**How to report scams and fraud:**  
 • If you find an ad on the Worldstuffer site that you suspect is scam, illegal, or otherwise violate Worldstuffer policies, please contact us.   
 • If you reply to an ad and the person who posted the ad emails you with a suspicious request, please stop all communications with that person and contact us.  
 • If you are the victim of fraud, inform Worldstuffer and your local police service.
