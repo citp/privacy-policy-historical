@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neurostechnology.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109133744id_/http%3A//www.neurostechnology.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neurostechnology.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516103828id_/http%3A//neurostechnology.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Neuros Technology
 
