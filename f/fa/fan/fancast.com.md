@@ -1,76 +1,423 @@
-> *The following text is extracted and transformed from the fancast.com privacy policy that was archived on 2009-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090910060833id_/http%3A//www.fancast.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fancast.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516155733id_/http%3A//www.fancast.com/info/new_privacy_policy) for the most accurate reproduction.*
 
-# Fancast | Privacy Statement
+# Fancast | Privacy Policy
 
-##  Privacy Practices and Feedback 
+**Effective February 12, 2010  
+[Learn More](http://customer.comcast.com/Pages/FAQListViewer.aspx?topic=Internet&folder=cdf13524-c22a-49b8-9128-6896a8719ad0)**
 
-> _Notice:_ On October 6, 2009 a new Privacy Policy will take effect.  
->  [New Privacy Policy — effective October 6, 2009](https://web.archive.org/info/new_privacy_policy)  
->  [Learn more about our Privacy Policy](http://customer.comcast.com/Pages/FAQListViewer.aspx?topic=Internet&folder=cdf13524-c22a-49b8-9128-6896a8719ad0)
+##  Summary (Jump to Full Policy) 
 
-Welcome to Fancast.com, a service of Comcast Interactive Media and its affiliates (collectively, "Comcast," "we," or "us"). This statement discloses the privacy practices for this website only, including an explanation of: 
+The Web Services Privacy Policy describes the information Comcast collects about you, how Comcast uses that information, and how Comcast protects your privacy when you use these Websites and the services and software we offer there: [www.comcast.net](http://www.comcast.net/), [www.fancast.com](http://www.fancast.com/), [www.xfinity.com](http://www.xfinity.com/), [www.chirp.com](http://www.chirp.com/), and [www.plaxo.com](http://www.plaxo.com/). 
 
-  * the categories of personally identifiable information about you that may be collected; 
-  * how the information is used; 
-  * the categories of persons or entities with whom the information may be shared; the choices are available to you regarding collection, use, and distribution of the information; 
-  * how you can opt in or out of Fancast promotional e-mail; 
-  * the kind of security procedures that are in place to protect the loss, misuse or alteration of information; 
-  * how you can review and request changes to the information; 
-  * how we notify visitors and users of this website of changes to this privacy statement; and 
-  * the privacy policies that apply to subscribers to each Comcast product and service. 
+This summary gives you some key points from the Privacy Policy, but you should read the whole Privacy Policy to get a full understanding of our privacy practices. 
+
+Please note: the Privacy Policy __does not__ tell you what information we collect and how we use it when you use other Comcast services (Comcast Digital Cable with On Demand, Comcast Digital Voice or Comcast High speed Internet). These services have their own privacy policy, which we post at <http://www.comcast.com/customerprivacy>/ and mail to subscribers. 
+
+[](http://www.truste.org/ivalidate.php?url=www.comcast.net&sealid=101)
+
+Our two most widely used Websites - comcast.net and plaxo.com - post the TRUSTe Seal. This means that TRUSTe has reviewed the privacy practices on these Websites, and you can contact TRUSTe about a privacy concern if we don't resolve it to your satisfaction. We are working with TRUSTe to add the Seal to other Comcast Websites as well. 
+
+We want you to understand what kinds of information may be collected about your use of the Websites and Web Services, and what we might do with that information. 
+
+Comcast collects two types of information from people who use its Websites: (i) information that identifies a particular person using a Website, and (ii) information that provides facts about a person without identifying him or her (i.e., anonymously). 
+
+##  Information that Identifies Someone 
+
+Information that identifies a particular person could be a name, address or Social Security number, for example. We will not share this information with an advertiser, and we will not share it with another Website or company, unless you tell us to (for example, if you want to post information from your Plaxo page on your Facebook page). 
+
+We also use this kind of identifying information to provide services to you. For example, we may use it to bill you for services, to check your credit, to confirm your identity when you login, or to communicate with you. Sometimes we use other companies to help us provide our services. We may share your information with these companies, but they are required to protect it and to use it only to provide services to you. 
+
+##  Information that Does Not Identify a Specific Person 
+
+Information that _does not_ identify a person could be an anonymous record of online activity, or information you put in a profile - like your zip code, your age or your gender (when it's used without your name). We routinely collect this kind of information and use it to improve your experience, -for example, by showing you content and advertising that may be more relevant and interesting to someone like you. Sometimes we share this kind of anonymous information with other companies that help us deliver and improve our services. 
+
+##  Your Information May be Shared Among Comcast Companies 
+
+The Web Services are provided by various companies that are part of Comcast. We may share your information among these Comcast companies so we can make it easier for you to use several Web Services seamlessly. Also, if you use the Web Services in connection with other Comcast services (for example, to set your DVR online to record a show on your television), we may need to share your information with the Comcast companies that offer those services, too. 
+
+##  Disclosure of your Information 
+
+We respect and protect your privacy, but it is possible that we may be required to provide information about you to a court or law enforcement agency. We will only disclose your information if we are legally required to do so-- if we receive a valid subpoena, court order, or search warrant, for example. 
+
+##  Your Choices 
+
+We want you to know how you can control the personal information that we may collect. When you use the Websites and Services that post the Privacy Policy, you are agreeing that the policy applies to you. 
+
+##  Registering 
+
+You may choose not to register for any one of the Web Services (or for all of them) if you do not want to share information that identifies you when you use that Website. 
+
+If you do register, we will give you a chance to create a profile. We may use some of the information in that profile to choose the content and advertising we think you would like to see. 
+
+When you register, we may also send you email about other products and services. You may choose not to receive these messages. However, we will still send you email with information about the specific services you use. 
+
+##  Plaxo 
+
+Plaxo users have several choices about how to share information from their address books and calendars. The Privacy Policy explains how you can make those choices. 
+
+##  Advertising Networks 
+
+Advertising networks help us display ads to you. They may use cookies and other technology to identify your interests so they can give you more useful ads. In the Privacy Policy, we give you the links to the “opt-out” pages for the ad networks that we use. You can elect to tell them not to collect information from you. 
+
+##  Blogs and Forums 
+
+If you choose to post information on blogs or forums on the Websites, it will not be private. Once the information is posted, other users may copy or store it. 
+
+##  Transferring Information to Social Networking Sites and Services 
+
+You may choose to use social networking Websites to share information from your Comcast profile, or information about what you do when you use the Comcast Web Services. If we get instructions to send your information to one of these Websites, with your valid Comcast login information included, we will accept the instructions to transfer your information. 
+
+If Comcast's business changes - for example, if our company merges with another company or we sell one or more of the Comcast companies that provide the Web Services - we may give the new owners of the Web Services your information. If this happens, we will tell you. We will also let you know if the Privacy Policy changes for any other reason, so you can decide whether you want to continue using the Web Services. 
+
+1\. About the Privacy Policy and the Comcast Web Services 
+
+The Comcast family of companies respects your privacy. Within this Web Services Privacy Policy (“ **Privacy Policy** ”) the term “ **Comcast** ” or “ **we** ” will refer to Comcast Cable Communications Management, LLC, Comcast Interactive Media, LLC, and their respective subsidiaries and affiliates that own and operate Websites and Internet services on their behalf. The term “ **you** ” refers to you as a user of Comcast's Websites or Internet services described below. The term “ **Personally Identifiable Information** ” or “ **PII** ” refers to information that identifies a specific person, such as the person's name, address, social security number, financial account number, or phone number. The term “ **Non-Personally Identifiable Information** ” or “ **non-PII** ” refers to information that is anonymized, aggregated, or does not identify a specific person, such as a person's age, gender, ZIP code, or other information when that information is not used with Personally Identifiable Information. 
+
+##  What does this Privacy Policy cover? 
+
+This Privacy Policy explains how Comcast will use the information that you provide when you use these Comcast-owned and operated Websites and services: 
+
+  1. the Websites www.comcast.net, www.fancast.com, www.chirp.com, www.xfinity.com, and www.plaxo.com (the “ **Comcast Sites** ”); and 
+  2. the Plaxo Network (together with all other software and services provided directly or indirectly by Plaxo, including those services made available through application programming interfaces (“ **APIs** ”) and services offered through third parties integrating Plaxo functionality, collectively the “ **Plaxo** **Service** ”) (collectively, (a) and (b) the “ **Comcast Web Services** ”). 
 
 
 
-Questions regarding this statement should be directed to Comcast by emailing us at the email address located in the Contact Us section of the website, or by sending a notice by U.S. Mail to Comcast Interactive Media, LLC, One Comcast Center, 1701 John F. Kennedy Boulevard, Philadelphia, PA 19103-2838 Attention: Fancast.com Privacy Feedback. 
+##  What is outside the scope of this Privacy Policy? 
 
-##  Information Collection and Use 
+This Privacy Policy **_does not apply_** to your use of any other products or services provided by Comcast such as Comcast Digital Cable with On Demand, Comcast Digital Voice, and Comcast High Speed Internet. If you subscribe to or use one or more of these services, you can see the privacy policy that applies to the residential versions of these services by visiting <http://www.comcast.com/customerprivacy/>. 
 
-A special note about children: Comcast does not knowingly collect personally identifiable information from children under the age of thirteen and does not wish to collect any such information. Federal law requires website operators who collect personal information from children under the age of thirteen to first get parental consent. Children should always get permission from their parents before sending any information about themselves (such as their names, e-mail addresses, and phone numbers) over the Internet, to us or to anyone else. 
+This Privacy Policy also **_does not apply_** to Comcast's use of information provided by you when you sign up for or use the Fancast Store (store.fancast.com). Comcast's use of the information you provide through the Fancast Store is described in the Fancast Store Privacy Policy, available at <http://store.fancast.com/PrivacyPolicy.aspx>. 
 
-###  What categories of personally identifiable information do we collect? 
+Some of the Comcast Web Services contain links to other Websites, including Websites of third parties who are acting on our behalf as our agents, suppliers, or providers. These other Websites are not operated by Comcast and have their own privacy policies that we encourage you to read before you use them. Other sites that we link to may contain Comcast branding, but these non-Comcast Websites and resources are provided by companies or persons other than Comcast. Examples of these non-Comcast Websites include Websites where you are required to log-in using a username and password other than your username and password for the Comcast Web Services, such as the Jobs channel and the Dating channel on Comcast.net. This Privacy Policy **_does not apply_** to those non-Comcast sites. Those sites will have their own policies that we encourage you to read before you use them. 
 
-The information collected by Comcast through use of the Fancast website falls into two categories: (1) information voluntarily supplied by visitors to and users of the website and (2) tracking information recorded as visitors and users navigate through the website. Some of this information is personally identifiable information, but much of it is not. Personally identifiable information is information that identifies a particular person. 
+[](http://www.truste.org/ivalidate.php?url=www.comcast.net&sealid=101)
 
-To make use of some features on our website, such as submitting a video, or viewing videos with content that would be rated more restrictively than PG-13 visitors and users need to register and provide certain information as part of the registration process. We may ask, for example, for your name, e-mail address, street address, zip code, and, if you wish to automate payments, financial account information. We might also request information about your residence, television, and computer, for example, in order to process your request for new service or make changes to existing service. In addition, we may ask you for information about your interests in television viewing, sports, personal finance, the performing arts, and the like. The information you supply will help us to offer you more personalized features, complete the particular function of the website you are using, and tailor our website to your interests to make it more useful to you. Our systems will remember some of this information the next time you log in and use our website, but you can always reset the information in My Fancast. 
+2\. Comcast is a Member of TRUSTe 
 
-The more you tell us about yourself, the more value we can offer you. Supplying this information is entirely voluntary. But if you choose not to supply the information, we may be unable to provide you with the products and services we make available to other users of and visitors to our website. And you will not be able to order selected products or services, or automate payments, over our website unless you provide certain personally identifiable information about yourself. When you submit any personally identifiable information over this website, Comcast (i) will use the information for the purposes described at the time you submit it (for example, your name, address, telephone number, and e-mail address provided while ordering one of our products or services will be used in connection with the processing and fulfillment of your order) and (ii) may use the information to contact you to make you aware of other products and services of interest. Of course, if you want to remain completely anonymous, you're still free to take advantage of the publicly available content on our website without registration. 
+Comcast is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. Comcast is committed to maintaining your privacy and believes that, as a user of the Comcast Web Services, you are entitled to know how Comcast gathers and uses information collected on its TRUSTe certified Websites. As a demonstration of Comcast's commitment to Comcast's users' privacy, Comcast has voluntarily agreed to have its privacy practices for the Websites [www.comcast.net](http://www.comcast.net/) and [www.plaxo.com](http://www.plaxo.com/) reviewed for compliance by TRUSTe. 
 
-###  What categories of persons or entities do we share personally identifiable information with? 
+If you have privacy questions or concerns regarding the Websites [www.comcast.net](http://www.comcast.net/) and [www.plaxo.com](http://www.plaxo.com/), you should first contact Comcast. If you are not satisfied with our response, you can also contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process, at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will serve as a liaison with Comcast to try to help resolve your concerns. 
 
-We consider the personally identifiable information contained in our business records to be confidential. We may sometimes disclose personally identifiable information about you to our affiliates or to others who work for us. We may also disclose personally identifiable information about you to service providers and vendors, and to others who provide products and services to us. For example, when you use certain functions on this website you may notice that the website actually collecting or processing the information may be other than a Comcast website. We may be required by law or legal process to disclose certain personally identifiable information about you to lawyers and parties in connection with litigation and to law enforcement personnel. For example, we may be required by law to disclose personally identifiable information about you without your consent and without notice in order to comply with a valid legal process such as a subpoena, court order, or search warrant. 
+The TRUSTe program reviews and certifies only the information practices on the Websites [www.comcast.net](http://www.comcast.net/) and [www.plaxo.com](http://www.plaxo.com/). TRUSTe does not review or certify the privacy practices related to any other Comcast Websites, software programs, products, or services including Comcast Digital Cable with On Demand, Comcast Digital Voice, Comcast High Speed Internet, or the Fancast Store. 
 
-###  What do we do to personalize your use of this website? 
+3\. Collection of Information 
 
-To help make our website more responsive to the needs of our users and visitors, we use a standard feature of browser software called a "cookie." We use cookies to help us tailor our website to your needs, to deliver a better, more personalized service, and to remember certain choices you've made so you don't have to re-enter them. 
+##  All Users 
 
-We use two kinds of cookies: (i) temporary or "session"-based cookies that contain certain information about a user's or visitor's use of our website at a particular time and (ii) "persistent" cookies that contain certain account-related information about a registered user's use of our website. Session-based cookies are automatically disabled or deleted when a user of or visitor to our website closes his or her browser software at the end of session. Persistent cookies remain stored on a registered user's computer system until he or she disables or deletes them. You may read about enabling, disabling, and deleting cookies at www.comcast.com at any time by searching for "cookie" and clicking on the link for the topic you wish to read. Of course, if you set your browser not to accept cookies or you delete them, you may not be able to take advantage of the personalized features enjoyed by other visitors to and users of our website. 
+Comcast, or third parties acting on Comcast's behalf, routinely logs Non-Personally Identifiable Information that is automatically generated when all users visit or use the Comcast Sites, as a by-product of the user's activities (“ **Web Log Data** ”). This information includes, but is not limited to, Internet protocol (“ **IP** ”) header information that is automatically passed between a user's computer and the Comcast Sites, such as the computer's IP address, the browser being used at the time, and the URL of the webpage on the Comcast Sites that the browser requested. This information may also include details relating to the activities users perform within the Comcast Sites, such as what links they click on, in what order they access specific web pages within the Comcast Sites, and the search queries they perform on the Comcast Sites. 
 
-The cookies we use don't directly identify visitors to or users of our website as particular persons. Rather, they contain information sufficient to simplify and improve a visitor's or user's experience on our website. For example, we may use session-based cookies to track the pages on our website visited by our users. We can build a better website if we know which pages our users are visiting and how often. Or, we may use persistent cookies to simplify access to a user's account information over our website, for example. 
+Some of the Comcast Web Services allow you to store certain details and preferences that help you personalize that Comcast Service (“ **Preference Data** ”). This Non-Personally Identifiable Information may include ZIP code, age, gender, favorite genre to watch on television, and preferred type of news. Comcast stores Preference Data in a cookie that it places on your computer. We do this so that you do not have to enter this data every time you return to the Comcast Sites. We may also use the Preference Data to deliver other personalized services and features of the Comcast Web Services. 
 
-In connection with the standard operation of Fancast's systems, certain non-personally identifiable information about visitors to this website is recorded. This information is used primarily to tailor and enhance visitors' experience using the website. We may use this information in an aggregate, non-personally identifiable form to, among other things, measure the use of our website and determine which products and services are the most popular with website visitors. 
+##  Registered Users 
 
-###  Where do we permit visitors and users to opt in or out of promotional e-mail related to Fancast? 
+Comcast asks you to provide certain information when you initially register to use the Comcast Web Services and then afterwards may ask you to provide additional information when you use certain Comcast Web Services for the first time. In addition, Comcast also collects information about your use of the Comcast Web Services as a registered user. This table summarizes the different types of information that we may collect from you when you register for the Comcast Web Services and use the Comcast Web Services as a registered user. 
 
-You may choose to receive, or not receive, promotional e-mails about Fancast by going to the Internet web page located at www.fancast.com/preferences and following the instructions there. Please note that if you have otherwise opted in to receiving promotional email from Comcast related to a different product or service, for example, a different Comcast website or your Comcast high speed Internet account, then you will have to visit that Comcast website separately in order to opt-out of promotional emails related to that site or service. 
+Type/Name 
 
-##  Other Websites 
+| 
 
-To make our website more valuable to our visitors, we may offer some features in conjunction with other providers. Our website may also include links to other websites whose privacy policies and practices we don't control. Once you leave our website by linking to another one (you can tell where you are by checking the address --known as a URL-- in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the website you're visiting. That policy may differ from ours. If you can't find the privacy policy of any of these websites via a link from the site's homepage, you should contact the website directly for more information. 
+When Collected 
 
-##  Security 
+| 
 
-All information gathered on our website is stored within a Comcast-controlled database accessible only to Comcast and its specifically authorized contractors and vendors. However, as effective as any security measure implemented by Comcast may be, no security system is impenetrable. We cannot guarantee the complete security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. If you don't want us to know any particular information about you, don't include it in anything that you submit or post to this website or send to us in e-mail. 
+Representative Examples   
+  
+---|---|---  
+  
+Registration Data 
 
-##  Changes to Information 
+| 
 
-You may review and change information that you provide to us through this website by returning to the pages where you entered it, and reviewing or changing the information directly. 
+When you create an account for the Comcast Web Services or subsequently modify your Registration Data 
 
-##  Changes to this Privacy Statement 
+| 
 
-We may change this privacy statement from time to time. If we change this privacy statement at some point in the future, we'll post the changes on our website and by continuing to use the website after we post any changes, you accept and agree to this privacy statement, as modified. Of course, our use of information gathered while the current privacy statement is in effect will be consistent with the current statement, even if we change that statement later. 
+First and last name, username, password, e-mail address, mailing address, phone number, gender, and date of birth   
+  
+Profile Data 
 
-##  Privacy Policies for Other Comcast Products and Services 
+| 
 
-This privacy statement discloses the privacy practices for this website only. If you are a subscriber to one of our Cable, High-Speed Internet, and Digital Phone products and services, please note that separate privacy statements apply to each of these products and services. You may also view these privacy notices at www.comcast.com at any time by searching for "privacy" and clicking on the link for the privacy notice you wish to read. 
+The first time you access certain Comcast Web Services after you have created an account or subsequently modify your Profile Data 
 
-Effective: June 5, 2007 
+| 
+
+Additional e-mail addresses, lists of people to connect with through certain Comcast Web Services, school affiliations, movie genre preferences, and notification preferences for products and services made available by Comcast   
+  
+Activity Data 
+
+| 
+
+When you log-in to your account and use the Comcast Web Services 
+
+| 
+
+Flagging or rating news articles, movies, television shows or other content, posting blog entries or comments, sharing URLs, and content and data feeds from non-Comcast social networks or services that you choose   
+  
+Collectively, your Registration Data, Profile Data, Activity Data, and any other generally available demographic data about you that Comcast gathers from other sources is referred to as “ **Your Data**.” Your Data does not include information that third parties may independently gather from other Websites about you using their own cookies, as further described in this Privacy Policy. 
+
+Most Comcast Sites have their own pages where you can manage certain portions of your Registration Data and Profile Data relevant to that specific Comcast Site. For your reference, those pages can be found here: 
+
+[https://preferences.comcast.net](https://preferences.comcast.net/)
+
+<http://www.fancast.com/myfancast/home>
+
+<http://www.plaxo.com/settings/account>
+
+4\. Use of Information 
+
+Comcast uses Web Log Data, Preferences Data, and Your Data, including both Personally Identifiable Information and Non-Personally Identifiable Information in both aggregated and individual forms, to provide the Comcast Web Services and support them. We may process and use this data for purposes consistent with this Privacy Policy including, but not limited to: 
+
+  * Customize, measure, and improve the Comcast Web Services, and the content and advertising provided through them; 
+  * Enforce our Web Services Terms of Service and detect fraud and other illegal activities; 
+  * Bill and collect for any applicable fees or charges; 
+  * Let you know about new products or services from Comcast or other companies we work with as well as promotional offers, based on your preference settings; 
+  * Let you know about changes to the Comcast Web Services, the Web Services Terms of Service, this Privacy Policy, and other terms that apply to our services; and 
+  * Update any programs or other tools that we provide in conjunction with the Comcast Web Services. 
+
+
+
+Comcast may use Web Log Data, Preferences Data, and Your Data in these forms for internal business purposes, such as determining how much traffic certain portions of the Comcast Web Services receive, for license reporting and assessment of service levels, to better understand how the Comcast Web Services are used, to gauge traffic patterns and determine what types of content and services are most popular with users of the Comcast Web Services, or determining which search queries on certain Comcast Service are the most popular. 
+
+Comcast may also use Web Log Data, Preferences Data, and Your Data to customize the Comcast Sites and Services and make them more relevant to you. For example, Comcast may use such data to determine which news articles, movies, or television shows to recommend to you. 
+
+Comcast may use your Registration Data to verify that you are the person authorized to use the Comcast Web Services or to manage your account. Comcast may also use your Registration Data to determine whether your Comcast Digital Cable with On Demand subscription allows you to access premium content or services offered through some of the Comcast Sites. For example, Comcast may use this subscription information to permit you to access, via one or more of the Comcast Web Services, certain programming included in your Comcast Digital Cable with On Demand package or to recommend additional Comcast products and services that it thinks may be of interest to you. 
+
+5\. Sharing of Information 
+
+Comcast uses third parties to assist us in delivering parts of the Comcast Web Services to you. We may share portions of Your Data with these third parties to the extent necessary for them to provide these services. These companies are acting on Comcast's behalf and are required, by contract with Comcast, to keep this information confidential and are only authorized to use it for specific purposes. As described in more detail below, Comcast may also provide Non-Personally Identifiable Information elements of Your Data to third parties who deliver ads to you on Comcast's behalf. Comcast will not provide your Personally Identifiable Information to these advertisers unless you expressly authorize us to do so. 
+
+Comcast may also share Web Log Data and Preference Data, which do not contain Personally Identifiable Information, with third parties. For example, Comcast may share traffic data for one of the Comcast Sites with a third party that analyzes and publishes Website traffic surveys. Or, Comcast may share Web Log Data and Preference Data with one of the providers of movies on www.fancast.com, so that Comcast and the provider can determine what additional movies that provider should show on www.fancast.com. 
+
+Comcast may also share Web Log Data, Preference Data, and Your Data within its internal family of companies solely to provide you with the Comcast Web Services, other cross-platform services, and advertising it thinks may be of interest to you. For example, Comcast will share your Registration Data within its internal family of companies to provide you with online access to content from premium networks that are part of your Comcast Digital Cable with On Demand subscription if you have signed up for that service, and to make you aware of other Comcast products and services it thinks may be of interest to you. This sharing occurs when you sign up for and use these other services, and may be necessary for us to provide them. If you do not want Your Data shared with a specific service, then you may choose not to sign up for that service or stop using it at any time if you have already signed up for it. 
+
+You may authorize other Internet sites such as MySpace or Facebook to access and publish on their Websites some of Your Data, including your Activity Data. For example, you may enable a Facebook widget to access and publish to your Facebook page what shows you watch on www.fancast.com. In addition, certain Comcast Web Services allow you to use your contact lists from Internet sites such as MySpace or Facebook to share portions of Your Data, including your Activity Data, with others. For example, www.chirp.com may allow you to comment on your favorite television show on www.fancast.com, and then share that comment with all of your Facebook friends. If you provide Comcast with your credentials for this kind of Internet service and use the features of the Comcast Service that share information across these Internet services, or, if one of these Internet service contacts Comcast using your Comcast Web Services credentials and asks to have access to certain portions of Your Data, Comcast will treat this as your authorization to share such portions of Your Data with that Internet service. 
+
+6\. Advertisements 
+
+Comcast, or advertising network providers acting at Comcast's request, may deliver advertisements to you through the Comcast Web Services, depending on whether you are a registered user or not, as described in more detail below. 
+
+##  All Users 
+
+We, or our advertising providers, automatically deliver ads to all users of the Comcast Sites, whether they are registered or not, based on anonymous information including: (i) the IP address associated with your computer for purposes of determining your approximate geographic location; (ii) the type of web page that is being displayed, such as a news or sports page, for example; or (iii) the content on the page that is shown, such as a sports article about a certain team or a movie review for a particular movie. Because this advertising activity automatically applies to all users and it is purely contextual, this type of advertising delivery cannot be customized or controlled by individual users. 
+
+##  Registered Users 
+
+If you are a registered user, Comcast may use Your Data, regardless of where we gathered such information, to determine what type of ad to display to you on the Comcast Sites. For example, Comcast may use portions of Your Data that it gathered on www.comcast.net to determine which ad to show you when you visit www.fancast.com. In addition, Comcast may send certain demographic information, like ZIP code, age, and gender to its advertising network providers, so that the advertising you see is more relevant to you. These advertising network providers will only use such information to display an ad to you on the Comcast Sites. 
+
+7\. Advertising Networks and Other Service Provider Networks 
+
+The advertising companies who deliver ads for us on the Comcast Sites may use cookies to uniquely distinguish your web browser and keep track of information relating to serving ads on your web browser, such as the type of ads shown and the web pages on which the ads appeared. In addition, the third parties that provide Web Log services for Comcast may use cookies to uniquely distinguish your web browser and to keep track of the Websites that your web browser visits across the service provider's network of Websites. These companies may combine this information with other information they have independently collected from other Websites relating to your web browser's activities across their network of Websites. These companies collect and use information under their own privacy policies. Comcast encourages you to be aware of the privacy policies of these companies before you choose to allow them to place a cookie for your web browser. The list of our partners that operate their own networks can be found [here.](http://www.comcast.net/privacy/2009-10/#partners)
+
+8\. Communicating with You 
+
+Comcast may use your Registration Data to send you a confirmation e-mail verifying the ownership of the e-mail addresses provided in your Registration Data and to send you service-related communications about the Comcast Web Services. In addition, Comcast may send you promotional or commercial e-mail relating to each Comcast Site for which you have activated your account as permitted by applicable law. You can opt-out from receiving such promotional or commercial e-mail by following the instructions contained in the e-mails or by going to: 
+
+[http://www.comcast.net/subscribe](http://www.comcast.net/subscribe/)
+
+[](http://www.comcast.net/subscribe/)[https://preferences.comcast.net](https://preferences.comcast.net/)
+
+<http://www.plaxo.com/settings/email>
+
+and following the directions there. 
+
+Non-members may elect to permanently opt-out from receiving invite requests from members to join Plaxo. When you register for permanent opt-out, you provide us with a validated e-mail address at which you no longer wish to receive Plaxo invite requests. Comcast may send you an opt-opt confirmation e-mail to the address you enter. If you are sent an opt-out confirmation e-mail, you must respond to that e-mail to complete the opt-out process. The opt-out is available here: 
+
+<http://www.plaxo.com/opt_out>
+
+9\. Signing in Using Non-Comcast Credentials 
+
+Comcast may allow you to access portions of the Comcast Web Services by signing in using your username or other identifier from another Internet service (“ **Non-Comcast Username** ”). Comcast will treat your Non-Comcast Username and any additional data that the relevant Internet service provides to Comcast about you as Your Data. 
+
+10\. Participating in Blogs and Forums 
+
+If you post comments to any of the blogs, forums, or other editorial sections of the Comcast Web Services, any information you submit there can be read, collected, or used by other users of the Comcast Web Services and any PII you post could be used to contact you. We are not responsible for PII you choose to submit through these features. 
+
+Children under the age of 13 should not post in any of the blogs, forums, or other editorial sections of the Comcast Web Services. 
+
+11\. Security 
+
+Comcast uses industry standard approaches to securely store, control access to, and make appropriate use of Your Data, and we require our contractors and other providers to do so as well. However, no security measure is completely effective and Comcast cannot guarantee the complete security of Your Data. If you don't want Comcast to know any particular information about you, you should not register to use the Comcast Web Services or include it in anything that you submit or post to Comcast, including posts on the Comcast Sites or e-mails to Comcast. More information on Internet security can be found here: <http://security.comcast.net/>. 
+
+Comcast also takes additional steps to increase the security and reliability of customer communications. We do not read your outgoing or incoming e-mail, file attachments, video mail, private chat, or instant messages. However, we (along with our third party providers) use software and hardware tools to help prevent and block "spam" e-mails, viruses, spyware, and other harmful or unwanted communications and programs from bring sent and received over Comcast.net e-mail and the Comcast Sites. These tools may automatically scan your e-mails, video mails, instant messages, file attachments, and other files and communications in order to help us protect you and the Service against these harmful or unwanted communications and programs. You can learn more about Comcast's anti-spam approach at <http://help.comcast.net/content/faq/What-is-Comcast-doing-about-spam>. 
+
+As an additional security precaution, neither Comcast nor any of our authorized service providers will ask you for your Comcast password in an e-mail, over the telephone, or in an online support forum or chat area. **Do not give your Comcast password to anyone in an e-mail, over the telephone, or in an online support area**. 
+
+12\. Disclosures of Information 
+
+Comcast holds customer privacy in the highest regard and we make every reasonable effort to protect your privacy as described in this Privacy Policy. Nevertheless, we may be required by law to disclose Personally Identifiable Information or other information about you or other users of the Comcast Web Services. These disclosures may be made with or without your consent, and with or without notice, in compliance with the terms of a subpoena, court order, search warrant, or other valid legal process. We may also disclose information about you or users of the Comcast Web Services when we believe in good faith that the disclosure of information is necessary to prevent financial loss, address suspected illegal activity, protect our rights or property, or prevent imminent physical harm. 
+
+13\. Special Note About Children 
+
+Comcast does not knowingly collect Personally Identifiable Information from anyone under the age of 13 without first obtaining parental consent. For those portions of the Comcast Web Services that do collect information from children under the age of 13 after obtaining parental consent, Comcast or its contractors will provide a special notice or other information describing any additional privacy protections that may apply. Children should always get permission from a parent or legal guardian before sending any information about themselves (such as their names, e-mail addresses, and telephone numbers) over the Internet, to Comcast or to anyone else. 
+
+14\. Your California Privacy Rights 
+
+California law permits its residents to request and receive information about a business' disclosure of certain categories of PII to other companies for their use for direct marketing. If you are a California resident and a user of any of the Comcast Web Services, you can request a copy of this information from Comcast Interactive Media, LLC by sending e-mail to CIM_Privacy at Comcast dot com or a letter to Comcast Interactive Media, LLC, Attn: California Direct Marketing Information, One Comcast Center, Philadelphia, PA 19103. Please include your name and e-mail address in e-mail requests, and your name and postal address in mail requests. 
+
+15\. Change of Ownership or Other Business Transaction 
+
+In the event Comcast enters into a business transition, such as a merger, acquisition, or the sale of all or part of its assets (a “ **Business Transition** ”), Your Data (including PII and non-PII associated with the Comcast Web Services) will likely be part of the assets transferred. 
+
+In this event, we will notify you of any Business Transition. We will also notify you of any subsequent material changes to this Privacy Policy as a result of a Business Transaction and give you the opportunity to opt-out for information that we have collected before, or may collect after, a new Privacy Policy containing material changes takes effect. 
+
+16\. Plaxo 
+
+The following terms in this section apply only to your use of the Plaxo Service, the Plaxo Software, and www.plaxo.com (collectively the “ **Plaxo Offerings** ”). 
+
+Plaxo is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. Plaxo has certified that it adheres to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce's Safe Harbor Website. 
+
+Comcast uses Your Data to enable you to use the Plaxo Offerings as follows. 
+
+  * Registration Data and Profile Data. The name you put in your Registration Data and the photo (if you have uploaded one) in your Profile Data will be displayed to members; and to non-members of the Plaxo Network if you choose to make the data publicly accessible. This is primarily so your friends, family or business colleagues can find you and connect with you. All users can control whether or not their names are listed in the Plaxo people search listings. You also control how all other information in your Registration Data and Profile Data is shared with others through your Plaxo privacy settings (for example, friends, family, business) located at <http://www.plaxo.com/settings/account>. You control whether or not you have a public profile. If you have a public profile you choose which information from your Registration Data and Profile Data is part of your public profile. Public profiles are viewable by any member or non-member of the Plaxo Network. 
+  * Activity Data. You control with whom your Activity Data is shared. Once you share data with someone, however, you cannot control what those recipients do with your data. 
+
+
+
+17\. Changes to this Privacy Policy 
+
+Comcast reserves the right to change this Privacy Policy from time to time consistent with applicable privacy laws. When we do change it, we will make a copy of the updated Privacy Policy available to you before it takes effect. If we make material changes to this Privacy Policy, we will also notify you by e-mail, direct mail, or other reasonable methods that we select. In the event of material changes to this Privacy Policy, we will give you the opportunity to opt-out for information that we have collected before, or may collect after, a new Privacy Policy containing material changes takes effect. 
+
+You understand and agree that if you use the Comcast Web Services after the effective date of the updated Privacy Policy, Comcast will consider your use as acceptance of the updated Privacy Policy. 
+
+18\. International Visitors 
+
+Our computer systems are currently based in the United States, so your PII will be processed by us in the United States, where data protection and privacy regulations may be different than other parts of the world, such as the European Union. If you create an online account to use the Comcast Sites as a visitor from outside the United States, you will have agreed to the terms of the Privacy Policy and our Web Services Terms of Service and you will have consented to the transfer to and processing of all such information in the United States, which many not offer an equivalent level of protection of that in the European Union or certain other countries. 
+
+19\. Contacting Comcast & Customer Support 
+
+You can direct questions regarding this Privacy Policy to Comcast by e-mailing us at CIM_privacy at Comcast dot com. You can also send a letter by mail to Comcast Interactive Media, LLC, Attn: Privacy Policy Questions, One Comcast Center, Philadelphia, PA 19103 USA. 
+
+You can find customer support and help information at <http://customer.comcast.com/Pages/Help.aspx>. Some online support areas and tools may ask you to provide information to Comcast to help us address your questions or problems. We may also make software tools available to help configure your computer's or network's settings, or collect information from your computer or network to help us provide support to you. If you choose to provide this information to Comcast or use these tools, we will use the information only for customer support purposes. 
+
+Revised and Effective: February 12, 2010 
+
+######################################################################## 
+
+This table summarizes our partners that operate their own networks and where you can go to get more information about their policies and practices and opt out of their networks in many cases. You may also opt out of additional third party advertising networks by going to the Network Advertising Initiative's Website at <http://www.networkadvertising.org/managing/opt_out.asp> and following the directions there. 
+
+[]()
+
+Network 
+
+[]() | 
+
+Customer Info Page 
+
+| 
+
+Opt-Out Page   
+  
+---|---|---  
+  
+Google 
+
+| 
+
+<http://www.google.com/privacy.html>
+
+| 
+
+<http://www.google.com/privacy_ads.html>  
+  
+Yahoo! 
+
+| 
+
+<http://info.yahoo.com/privacy/us/yahoo/details.html>
+
+| 
+
+<http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html>  
+  
+Pulse360 
+
+| 
+
+<http://www.pulse360.com/privacy.html>
+
+| 
+
+<http://www.pulse360.com/behavior/opt.html>  
+  
+Bizo 
+
+| 
+
+<http://www.bizo.com/business_audience/privacy_policy>
+
+| 
+
+<http://www.bizo.com/business_audience/opt_out>  
+  
+Zedo 
+
+| 
+
+<http://www.zedo.com/company/privacy.htm>
+
+| 
+
+<http://www.zedo.com/company/optout.htm>  
+  
+Platform-A 
+
+| 
+
+<http://advertising.aol.com/privacy>
+
+| 
+
+<http://www.networkadvertising.org/managing/opt_out.asp>  
+  
+Specific Media 
+
+| 
+
+<http://www.specificmedia.com/privacy.php>
+
+| 
+
+<http://www.networkadvertising.org/managing/opt_out.asp>  
+  
+Casale Media 
+
+| 
+
+<http://www.casalemedia.com/privacy.html>
+
+| 
+
+<http://www.casalemedia.com/optout/>  
+  
+Omniture 
+
+| 
+
+<http://www.omniture.com/en/privacy/product>
+
+| 
+
+Opt-out currently not available.   
+  
+Quantcast 
+
+| 
+
+<http://www.quantcast.com/docs/display/legal/Privacy+Policy>
+
+| 
+
+<http://www.quantcast.com/docs/display/legal/Opt-out+of+Quantcast+Delivery>  
+  
+ComScore 
+
+| 
+
+<http://www.comscore.com/About_comScore/Privacy_Policy>
+
+| 
+
+Opt-out currently not available.   
+  
+Revised and Effective: February 12, 2010
