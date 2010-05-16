@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the napster.co.uk privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019161822id_/http%3A//www.napster.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napster.co.uk privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516180129id_/http%3A//www.napster.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
-# Napster
-
-  
-
-
-**NAPSTER PRIVACY POLICY**
+# 
 
 Effective March 31, 2006 
 
@@ -95,5 +90,3 @@ We may display links to other sites within the Napster Service. We are not respo
 **CONTACT US:**
 
 If you have any questions about this privacy policy, or the privacy practices of Napster, you can email us at privacy@napster.co.uk or write to Napster Luxembourg S.a.r.l, 46a Avenue John F. kennedy, L-1855, Luxembourg 
-
-© 2003 - 2006 Napster, LLC. 
