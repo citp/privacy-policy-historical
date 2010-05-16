@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dotcominfoway.com privacy policy that was archived on 2009-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090131090510id_/http%3A//www.dotcominfoway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotcominfoway.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516142934id_/http%3A//www.dotcominfoway.com/privacy-policy) for the most accurate reproduction.*
 
-# Dot Com Infoway - Application Development Company - Privacy Policy
+# Dot Com Infoway - Privacy Policy
 
 At Dot Com Infoway, we respect your privacy. According to our privacy policy, we safely handle and protect your information from perversion or misuse. We do not sell or share the information we acquire from you to any third party. We use it only to assist you or help you in enhancing your business.
 
