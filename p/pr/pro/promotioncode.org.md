@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the promotioncode.org privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202125944id_/http%3A//www.promotioncode.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promotioncode.org privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516151102id_/http%3A//www.promotioncode.org/privacy.php) for the most accurate reproduction.*
 
-# Promotion Code.org: Privacy Policy
+# PromotionCode.org's Privacy Policy
 
 PromotionCode.org is strongly committed to protecting the privacy of our site's visitors. You can visit our website and browse the pages on our site without disclosing your name, e-mail address, log-in, password or any other type of personally identifiable information. 
 
