@@ -1,8 +1,17 @@
-> *The following text is extracted and transformed from the icecube.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115082910id_/http%3A//groundctrl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icecube.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516211949id_/http%3A//groundctrl.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy // ground(ctrl)
 
-## Privacy PolicyUpdated October 1, 2007
+[ground(ctrl)](https://web.archive.org/ "Say: ground control. No, really. Say it.")
+
+  * [Welcome](https://web.archive.org/ "Home")
+  * [Our Work](https://web.archive.org/case-studies/ "Case studies")
+  * [About Us](https://web.archive.org/about-us/ "About us")
+  * [Blog](https://web.archive.org/blog/ "ground\(ctrl\) blog")
+
+
+
+**Please read these terms of use carefully as they contain important information regarding your legal rights, remedies and obligations. these include various limitations and exclusions, and a dispute resolution clause that governs how disputes will be resolved.**
 
 This Privacy Policy, effective October 1st, 2007, is designed to help you, the user, understand how Ground(ctrl)™ (“us”, “we”, or “our”) collects and then uses the personal information you provide us when signing up as a new “member.” We do this so you can make informed decisions both when deciding whether to become a member and when using this service. 
 
@@ -105,11 +114,3 @@ Your use of this web site and our network, and any disputes arising from it, is 
 ## Contacting this Web Site
 
 If you have any questions regarding this Privacy Policy, the practices of this web site, or your dealings with this web site, please contact us at [support@groundctrl.com](mailto:support@groundctrl.com).
-
-ground(ctrl)™
-    
-
-1300 S. Street.
-
-Sacramento, CA 95814
-    1-877-GND-CTRL
