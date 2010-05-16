@@ -1,0 +1,45 @@
+> *The following text is extracted and transformed from the flingtube.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516155232id_/http%3A//www.flingtube.com/privacy) for the most accurate reproduction.*
+
+# Free Amateur Porn - FlingTube.com
+
+## Privacy Policy
+
+Your privacy is of utmost importance to us. This Privacy Policy governs your use of FlingTube.com (the .Site., .we. or .us.). As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.
+
+### THIS IS AN ADULTS _ONLY_ SERVICE
+
+We will suspend or terminate any accounts which we believe are being used by anyone under the age of eighteen (18) years old or the age of majority in the jurisdiction in which you view the Site; additionally, we reserve the right to report such person to the proper authorities along with all information provided to us by or with respect to such person. 
+
+### Disclosures Made as Necessitated by Law or Safety
+
+Your name, physical address, phone number and password are considered confidential. However, all information you provide to us may be shared with other third parties as necessary to comply with applicable law, to cooperate with law enforcement and the court system.
+
+### Information We Collect From You
+
+During sign up we require that you provide us with certain information which may include Account Data (i.e., your name, physical address, email address, phone number, username, and password) along with .Demographic Information. which information may include IP address(es), referring website information, Internet browser used, zip code and/or other data regarding search history, browsing history, registration and user history.We may also collect and store emails sent to us by you.
+
+### How is this Information Used?
+
+We may use .cookies. and Demographic Information to better your experience on the Site by allowing us to tailor your experience on the Site according to your preferences and what we think may appeal to you based on such Demographic Information. Aggregate, non-individual membership Demographic Information may be shared with third parties with whom we have a direct or indirect relationship who may offer products or services we believe you may be interested in.
+
+We may also share the aggregate Demographic Information with third parties for the purposes of analyzing usage data, maintaining servers and other purposes relating to maintaining and improving our service and the Site.
+
+### You Are Responsible For Information You Provide to Third Parties
+
+Financial or other Data provided by you to any companies or websites advertising on the Site or in response to emails sent to you by the Site are not governed by this Privacy Policy nor by our Terms of Use. Any information provided by you to a third party, and any transaction with such a third party, is subject to that third party.s terms of use and privacy policy. 
+
+### Emails From Us and use of Your Email Address
+
+Your email address will be used by us to contact you when we have special announcements/offers or other information to provide you. Such information may include, without limitation, new services offered by us, information relating to your account and other information related to your subscription to the Site. We may send you emails prior to and after you have terminated your membership to our service until such time as you advise us, in accordance with the procedures explained below, that you no longer wish to receive email from us and/or from third parties with whom we have a direct or indirect relationship. We may share your email address with other third parties, with whom we have a direct or indirect relationship with, for the purposes of sending you special advertisements or promotions. If at any time you no longer wish to receive emails from us or from such third parties send us an email at [unsubscribe@FlingTube.com](mailto:unsubscribe@@FlingTube.com). We and our advertising partners fully comply with the federal CAN-SPAM Act and as such all emails from us and our advertising partners will always, among other required disclosures, have a place for you to opt out of receipt of further email correspondence. Please note we will never send you an email directly or through our marketing partners without your consent. Please note that by agreeing to be bound by our terms of use (which incorporate this privacy policy) you are giving us your authorization to send emails to you. This authorization may be revoked at any time through the methods outlined above. Should you revoke such authorization as set forth above and subsequently receive any emails purporting to promote the Site **, please immediately report such activity to:   [abuse@FlingTube.com](mailto:abuse@@FlingTube.com).**
+
+### Advertisements
+
+We utilize the services of outside advertising agencies to advertise our services and goods and/or services offered by third parties. Either we or our advertising agencies may use cookies and/or .action tags. to measure advertising effectiveness on an .anonymous basis.. Some emails from us may contain advertisements from companies unrelated to the Site. Should you elect to visit any such advertiser.s website, we cannot, and do not, make any representations about applicable terms and conditions or privacy policies for such advertisers. websites. If you choose to make any purchases on such sites or accept any offers from such companies you may be obligated to provide financial information which information will not be covered by this Privacy Policy. We cannot, and do not, make any representations about the privacy policies or terms and conditions of the websites whose advertisements appear anywhere on our service, whether through our website or emails, this is regardless of whether or not there may be any mentions of or references to the Site on such advertisers. website(s). 
+
+### Changes to the Privacy Policy
+
+We may change this privacy policy at any time. You agree that we are under no duty to send you notice of such changes. Instead it is your responsibility to check this Privacy Policy from time to time. No change in the privacy policy will be effective until thirty (30) days after it is posted, unless the privacy policy has clear language indicating otherwise. 
+
+### Changes in the Ownership of the Site
+
+The Site is a growing online service. As such, we may have the occasion to buy or sell assets, including but not limited to merger, dissolution, and transfer of ownership. Depending upon the nature of the transaction, we may share any and all data provided by you to us with third parties, as necessary to initiate, investigate or complete any such transaction(s).
