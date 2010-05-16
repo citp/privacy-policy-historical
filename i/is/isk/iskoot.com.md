@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the iskoot.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115070704id_/http%3A//www.iskoot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iskoot.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516141403id_/http%3A//www.iskoot.com/privacy) for the most accurate reproduction.*
 
 # » Privacy Statement
 
 We respect your privacy. This policy explains the accepted privacy practices for our services including the iSkoot for Skype, the iSkoot web notification service, and iSkoot’s website at: www.iskoot.com (the “Website” and collectively: the “Services”). It describes the ways we collect and use your personal information and your rights with respect to our privacy practices.
 
 THE SERVICES ARE NOT INTENDED FOR USE BY PERSONS UNDER THE AGE OF 13. IF YOU ARE UNDER 13 YEARS OLD, YOU MUST NOT USE THE SERVICES, OR PROVIDE US WITH ANY OF YOUR PERSONALLY IDENTIFIABLE INFORMATION.
+
+IF YOU ARE A RESIDENT IN ONE OF THE MEMBER STATES OF THE EUROPEAN UNION, YOU AGREE THAT ISKOOT MAY COLLECT AND PROCESS PERSONAL INFORMATION PERTAINING TO YOU UNDER THE TERMS OF THIS PRIVACY POLICY. ISKOOT WILL PROCESS SUCH INFORMATION ON COMPUTER-SERVERS THAT ARE LOCATED OUTSIDE OF THE EUROPEAN UNION FOR THE PURPOSES DESCRIBED IN THIS PRIVACY POLICY. YOU ARE UNDER NO OBLIGATION TO CONSENT TO THE TERMS OF THIS PRIVACY POLICY. HOWEVER, YOU WILL NOT BE ABLE TO USE ISKOOT’S SERVICES, IF YOU DO NOT PROVIDE YOUR CONSENT.
 
 #### Personally identifiable Information that we may collect:
 
@@ -92,4 +94,4 @@ Continuing to use the Services will indicate your consent to the amended policy.
 
 You are welcome to contact us with requests, comments and questions at the [Contact us](https://web.archive.org/contact) page on the Website.
 
-Last update: January 14, 2009
+Last update: May, 2010
