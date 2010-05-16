@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kbc.ie privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231082052id_/http%3A//www.kbc.ie/privacy/%3FparaID%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbc.ie privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516123702id_/http%3A//www.kbc.ie/privacy/%3FparaID%3D22) for the most accurate reproduction.*
 
 # KBC Bank - /privacy/
 
