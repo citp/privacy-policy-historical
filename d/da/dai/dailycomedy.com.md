@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dailycomedy.com privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128083037id_/http%3A//www.dailycomedy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycomedy.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516191350id_/http%3A//www.dailycomedy.com/privacy) for the most accurate reproduction.*
 
 # DailyComedy.com | Privacy Policy
 
-Did you know?  **We now allow guest commenting and rating on all our jokes and comedy videos! No need to register, just comment and rate. Go ahead... knock yourself out! Underneath each joke and video you can click on _comments_ to read and post, and click on a star () to rate.**
+News Alert!  **Congrats to DailyComedy.com's[Bix Brillo](http://www.dailycomedy.com/u/BixBrillo), [Gary B.](http://www.dailycomedy.com/u/Gary226), and [Cara Tramontano](http://www.dailycomedy.com/u/theCara) for having their Toyota jokes (along with jokes by Letterman, Leno and Colbert) featured in [USA Today](http://content.usatoday.com/communities/driveon/post/2010/02/jokes/1)!**
 
 ## Daily Comedy Privacy Policy
 
