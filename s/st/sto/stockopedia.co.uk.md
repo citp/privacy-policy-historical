@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stockopedia.co.uk privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925014202id_/http%3A//www.stockopedia.co.uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockopedia.co.uk privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516185417id_/http%3A//www.stockopedia.co.uk/page/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Privacy Policy : Page #132 | Stockopedia
+# Stockopedia | Stock Market Research Network
 
 Stockopedia ('we' or 'us') is committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. If you have any questions or concerns regarding this statement, you should contact us via email (admin @ stockopedia.co.uk).
 
@@ -42,7 +42,7 @@ We may use your personal information to:
 
 (d) send you general commercial communications;
 
-(e) send you site-related email notifications, for example related to site improvement, new features, or premium offerings;
+(e) send you site-related email notifications, for example related to site improvement, new features and site content, or premium offerings;
 
 (f) send you email notifications of related third party offers which are targeted to Stockopedia's focus (i.e. no spam) but not where you have opted out via the email settings on your profile;
 
