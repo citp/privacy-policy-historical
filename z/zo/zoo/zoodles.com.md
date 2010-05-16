@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the zoodles.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419012718id_/http%3A//www.zoodles.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoodles.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516053919id_/http%3A//www.zoodles.com/home/legal/privacy) for the most accurate reproduction.*
 
-# Zoodles
+# Zoodles Privacy Policy
 
-_Effective March 5th, 2009_   
+_Effective March 16th, 2010_   
 
 
 **_Zoodles.com Privacy Policy_**   
 
 
-Inquisitive Minds provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from members of [_www.zoodles.com_](https://web.archive.org/) (this “ ** _Site_** ”). This Privacy Policy applies only to information that you provide to us through this Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service [_www.zoodles.com/legal/terms_](https://web.archive.org/legal/terms).    
+Inquisitive Minds provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from members of [_www.zoodles.com_](https://web.archive.org/) (this “ ** _Site_** ”). This Privacy Policy applies only to information that you provide to us through this Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service [_www.zoodles.com/home/legal/terms_](https://web.archive.org/home/legal/terms).    
 
 
 As used in this policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to, collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.    
@@ -54,6 +54,9 @@ __Personally Identifiable Information_._
 
 __Log Data_. _ When you visit the Site, whether as an Inquisitive Minds Parent or a non-registered member just browsing (any of these, a **“ _User_ ”**), our servers automatically record information that your browser sends whenever you visit a website ( ** _“Log Data”_** ). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics. We use this information to monitor and analyze use of the Site and the Service and for the Site’s technical administration, to increase our Site’s functionality and user-friendliness, and to better tailor it to our visitors’ needs. For example, some of this information is collected so that when you visit the Site again, it will recognize you and serve information appropriate to your interests. We also use this information to verify that visitors to the Site meet the criteria required to process their requests. We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.    
 
+
+__ClickTale_. _ This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [ Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to monitor and improve user experience.  
+You can choose to disable the Service at [ http://www.clicktale.net/disable.html](http://www.clicktale.net/disable.html). 
 
 **Cookies**   
 
@@ -126,4 +129,4 @@ If you have any questions about this Privacy Policy, please contact us at [_feed
 
 **Inquisitive Minds, Inc.**
 
-**440 N. Wolfe**
+**444 High Street, Suite 250**
