@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salvationsystem.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614233528id_/http%3A//salvationsystem.com/privacy-policy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salvationsystem.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516034436id_/http%3A//salvationsystem.com/privacy-policy1.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
