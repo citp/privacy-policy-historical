@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the met.ie privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114153339id_/http%3A//www.met.ie/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the met.ie privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516022807id_/http%3A//www.met.ie/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Met Éireann - The Irish Meteorological Service Online
 
