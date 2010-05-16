@@ -1,0 +1,388 @@
+<!--The following is the downloaded HTML source of the sproutsocial.com privacy policy that was archived on 2010-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100516035803id_/http%3A//www.sproutsocial.com/index.php/policies/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<title>Sprout Social</title>
+<link rel="dns-prefetch" href="http://s.bizee.be">
+<link rel="dns-prefetch" href="http://s.twimg.com">
+<link rel="dns-prefetch" href="http://a1.twimg.com">
+<link rel="dns-prefetch" href="http://a3.twimg.com">
+<link type="text/css" rel="stylesheet" href="/system/cache/1273864255c90b80ee5e8c892f53dbe939606f8751.css" media="screen">
+<script src="http://www.google.com/jsapi?key=ABQIAAAACKSDYCuxbKfGUzDPEnSqvRTIVrjlIDNJfUa7EfxwvxLUH8hTkRR6ZwC4GFxGB76MDuQ_SuhQEO7bHA" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+google.load("prototype", "1.6.1.0");
+google.load("scriptaculous", "1.8.3");
+/* ]]> */
+</script>
+<script type="text/javascript" src="/system/cache/1273550520bade498e3e814703d2c4828b6e00cf9b.js" charset="UTF-8"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-9650766-3'], ['_setDomainName', '.sproutsocial.com']);
+_gaq.push(['_trackPageview']);
+</script>
+<link rel="shortcut icon" href="http://s.bizee.be/images/favicon.ico">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
+<body class="yui-skin-sam">
+<div id="messager_wrapper"></div>
+<div id="lightbox_wrapper"></div><div id="template-wrapper">
+	<div id="layout-header">	
+		<a href="/index.php/home" id="layout-header-logo" style="display:block;cursor:pointer" title="Return to SproutSocial.com"></a>		
+		<div id="layout-header-right" style="position:relative;">
+			<div id="layout-header-links">
+											<div style="float:right;position:absolute;right:-32px;top:18px;width:298px;color:#272527;font-size:16px;z-index:999999999;">
+							<div style="float:left;color:#FFF;font-size:14px;margin:9px 10px 0 0;display:inline;position:relative;bottom:6px;">Already have an Account?</div>
+							<div style="position:relative;display:inline;float:left;color:#535352;margin:0px;bottom:8px;">
+		<div id="signinbutton" class="signin-off but round" style="right:0px;position:relative;"></div>
+		<form id="signin-form" method="post" onsubmit="return signin.submitForm();" action="https://sproutsocial.com/index.php/auth/signin" style="margin:0px;">
+	<input type="submit" style="display:none">
+		<div id="signinform" class="round shdw" style="display:none;position:absolute;background-color:#d4d4d4;padding:20px;z-index:99999999;font-size:12px;right:0px;margin-top:2px;">		
+		<div>Email</div>
+		<div>
+		<div style="">
+	<input id="signin-email" name="signin-email" type="text" class="user_input_wrap_sm round" style="height:18px;">
+</div>		</div>
+		<div style="margin-top:5px;">Password</div>
+		<div><div style="">
+	<input id="signin-pw" name="signin-pw" type="password" class="user_input_wrap_sm round" style="height:18px;">
+</div></div>
+		<div style="position:relative;right:3px;margin-top:15px;font-size:14px;width:200px;">
+			<div id="signin-form-submit" class="but signin-btn" title="Sign in to Sprout Social"><i></i></div>
+			<div class="rememberme_wrapper" style="float:left"><input type="checkbox" style="float:left" id="signin-rememberme" name="signin-rememberme"><div style="float:left;margin-top:3px;cursor:pointer;" onclick="signin.toggleCheckbox('signin-rememberme');"> Remember me</div></div>
+		</div>
+		<div style="clear:both"></div>
+		<div style="font-size:14px;margin:10px 0 0 2px;width:200px;"><a href="/index.php/passwordrecovery">Forgot your password?</a></div>
+	</div>
+	</form>
+	</div>
+<script type="text/javascript">
+var SignIn = Class.create({
+	toggleDialog: function() {
+		if ($('signinbutton').hasClassName('signin-off')) {
+			// Is closed
+			$('signinform').show();
+			if ($('signin-email').getValue().strip() != '') {
+				$('signin-pw').focus();
+			} else {
+				$('signin-email').focus();
+			}
+			$('signinbutton').removeClassName('signin-off').addClassName('signin-on');
+		} else {
+			$('signinform').hide();
+			$('signinbutton').removeClassName('signin-on').addClassName('signin-off');
+		}
+	},
+	validate: function() {
+		var email = $('signin-email').value.strip();
+		if ((email.length == 0) || (email.indexOf(".") <= 2) || !(email.indexOf("@") > 0)) {
+			sprout.showAlert('Whoops! Please check your email address.', true);
+			new Effect.Highlight('signin-email');
+			$('signin-email').focus();
+			return false;
+		} else if ($('signin-pw').value.strip() == '') {
+			sprout.showAlert('Whoops! Forget your password?', true);
+			new Effect.Highlight('signin-pw');
+			$('signin-pw').focus();
+			return false;
+		}
+		return true;
+	},
+	submitForm: function() {
+		if (signin.validate()) {
+			$('signin-form').submit();
+		}
+	},
+	toggleCheckbox: function(id) {	
+		$(id).checked = !$(id).checked;
+	}
+});
+var signin = new SignIn();
+document.observe("dom:loaded",function() {
+	document.observe('click', function(event) {
+		var e = event.element();
+		if (e.id == 'signinbutton') {
+			signin.toggleDialog();
+		} else if (e.id != 'signinform' && $('signinbutton').hasClassName('signin-on') && !e.descendantOf('signinform')) {
+			signin.toggleDialog();
+		}
+	});
+	$('signin-form-submit').observe('click', function(event) {signin.submitForm();});
+});
+</script>
+						</div>
+								</div>	
+		</div>	
+	</div>
+	<div style="clear:both"></div>
+	<div id="left-nav" class="unselectable">
+		<ul class="left-nav-group">
+			<li>Dashboard</li>
+		</ul>
+	<ul class="left-nav-group">
+		<li>Inbox</li><li>Timeline</li><li>Flagged</li><li>Contacts</li>	</ul>
+	<ul class="left-nav-group" style="border-bottom:0">
+		<li>Discovery</li><li>Buzz</li><li>Promotions</li><li>Competition</li>	</ul>
+	<div id="jumptotop" class="but" title="Jump to top" style="display:none">
+		<i></i>
+	</div>
+</div>
+	<div class="colmask rightNavBG">
+		<div class="colmid">
+			<div class="colleft">
+				<div class="col2"> 
+					&nbsp; 
+									</div>
+				<div class="col1wrap">
+					<div class="col1">
+												<div id="center-content"><div style="margin:10px 0 25px 0;">
+			<a style="width:150px" class="navitem gray" href="/index.php/policies/userAgreement">USER AGREEMENT</a>	
+			<div class="navitem gray-sel">PRIVACY</div>		
+	</div>
+<div style="clear:both"></div><div class="msgpgheading" style="margin:50px 0 10px 0;font-size:18px;">General Disclaimers</div>
+<div>
+Except as otherwise noted, the content of our Website (<a href="http://www.sproutsocial.com" target="_blank">www.SproutSocial.com</a>) and Sprout Social Software 
+(Software), including but not limited to text, graphics and icons, are copyrighted materials of <b>Sprout Social, Inc.</b> and its suppliers and affiliates, and contain 
+trademarks, service marks and trade names of <b>Sprout Social, Inc.</b> and its suppliers and affiliates.  <b>SproutSocial.com</b>, as referenced in this Privacy Policy, also 
+includes <b>Sprout Social, Inc.</b> by reference. ALL RIGHTS RESERVED.  You may use the content ONLY to learn about, evaluate, and/or acquire our Software and other 
+products and services as found on our Website.
+</div>
+<div style="margin-top:10px;">
+We make every effort to provide accurate and timely information; however, there may be inadvertent technical factual inaccuracies, omissions, and typographical 
+errors, for which we apologize.  Our Website, Software, and associated content are delivered on an "as-is" and "as-available" basis.  <b>SproutSocial.com</b> cannot 
+ensure that files you download from our Website or using our Software will be free of viruses or contamination or destructive features.  <b>SproutSocial.com</b> reserves 
+the right to make changes and corrections at any time, without notice. 
+</div>
+<div style="margin-top:10px;">
+Should you decide to acquire our Software from <b>SproutSocial.com</b>, our online <a href="/index.php/policies/userAgreement">User Agreement</a> is considered the governing agreement between both you, as a user of 
+our Website and Software, and <b>SproutSocial.com</b>, and it supercedes any other information on our Website. 
+</div>
+<div>
+<div class="msgpgheading" style="margin:25px 0 10px 0">Privacy Policy</div>
+<div>
+<b>SproutSocial.com</b> is committed to doing e-business with the highest ethical standards and appropriate internal controls.  We are also committed to providing better 
+service to our members.  Our Privacy Policy applies to all users of our Website and Software.  <b>SproutSocial.com</b> adheres to the following policies with regards to 
+your privacy. 
+</div>
+</div>
+<div>
+<div class="msgpgheading" style="margin:25px 0 10px 0;font-size:18px;">Definitions</div>
+<div>
+"Non-Personal Information" is information that is in no way personally identifiable and that is obtained automatically through your simple use of our Website with a web browser or our Software. 
+</div>
+<div style="margin-top:10px;">
+"Personally Identifiable Information" is non-public information that is personally identifiable and obtained in connection with providing a product or service to you.  It may include information name, address, phone number, and financial estimates you provide to us. 
+</div>
+</div>
+<div>
+<div class="msgpgheading" style="margin:25px 0 10px 0;font-size:18px;">Information Collected</div>
+<div>
+When you enter our Website, we collect Non-Personal Information such as your browser type and IP address.  Likewise, in order to offer you meaningful products 
+and services and for other reasons, we may collect Personally Identifiable Information about you from the following sources:
+<ul>
+<li>Information you give us on applications or other forms on our Website and/or Software, OR</li>
+<li>Information about your transactions with us and our affiliates (contractors and service providers)</li>
+</ul> 
+</div>
+</div>
+<div>
+<div class="msgpgheading" style="margin:25px 0 10px 0;font-size:18px;">Use of Cookies</div>
+Our Website may send a "cookie" to your computer.  A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's 
+hard drive.  A cookie cannot read data off your hard disk or read cookie files created by other sites. Cookies do not damage your system.  We use cookies to 
+identify which areas of our site you have visited, so the next time you visit the site, those pages may be readily accessible.  We also may use this information 
+to better personalize the content that you see on our Website.  Most browser software can be set to reject Cookies.  However, if you reject our Cookies, certain 
+functionality on our Website may not work correctly or at all.  We do not link Non-Personal Information from Cookies to your Personally Identifiable Information.
+</div>
+<div>
+<div class="msgpgheading" style="margin:25px 0 10px 0;font-size:18px;">Web Beacons</div>
+<b>SproutSocial.com</b> also may use web beacons to collect Non-Personal Information about your use of our Web site and the Web sites of selected sponsors and 
+advertisers, and your use of special promotions or newsletters. The information collected by Web Beacons (a) allows us to statistically monitor how many people 
+open our emails and (b) for what purposes these actions are being taken.  Our Web Beacons are not used to track your activity outside of our Web sites or those 
+of our sponsors'. We do not link Non-Personal Information from Web Beacons to Personally Identifiable Information without your permission.  If you are a 
+non-registered Visitor to the Site, the only information we collect will be Non-Personal Information through the use of cookies or web beacons. 
+</div>
+<div>
+<div class="msgpgheading" style="margin:25px 0 10px 0;font-size:18px;">Exemptions from Privacy Policy</div>
+Our Privacy Policy does not apply to any information you may send to <b>SproutSocial.com</b> by email or instant messaging programs (i.e. AOL, Yahoo, etc.), as email 
+and instant messages are not recognized as a secure communication forms.  As such, we request that you do not send any information, which you consider private, 
+to us by email or instant message. Furthermore, our Privacy Policy does not apply to any information you post from our Software to other websites (i.e. Twitter, 
+Facebook, etc.), due to the public nature of such postings.
+</div>
+<div>
+<div class="msgpgheading" style="margin:25px 0 10px 0;font-size:18px;">Use of Personally Identifiable Information</div>
+We only use the Personally Identifiable Information you submit to <b>SproutSocial.com</b> to provide you with our Software and other products and services that you 
+request.  You are responsible for ensuring the accuracy of the Personally Identifiable Information you submit to <b>SproutSocial.com</b>.  Inaccurate information will 
+affect your ability to download our Software, your ability to purchase other products and services from our Website, and our ability to contact you as described 
+in this Privacy Policy (i.e. your email address should be kept current). 
+</div>
+<div>
+<div class="msgpgheading" style="margin:25px 0 10px 0;font-size:18px;">Use of Credit Cards</div>
+You may have to provide a credit card to purchase other products and services from our Website.  We use 3rd party billing services and HAVE NO CONTROL over these 
+services.  We will use our best efforts to make sure that your credit card number is kept STRICTLY CONFIDENTIAL by using only 3rd party billing services that use 
+the latest security encryption technology to protect your credit card number from unauthorized use.  However, you understand and agree that we are in no way 
+responsible for any misuse of your credit card number. 
+</div>
+<div>
+<div class="msgpgheading" style="margin:25px 0 10px 0;font-size:18px;">Use By Minors Prohibited</div>
+<b>SproutSocial.com</b> is committed to protecting the privacy of children.  Neither our Website nor our Software are designed or intended for use by individuals under 
+the age of 18 without parental supervision.  <b>SproutSocial.com</b> is not responsible for determining the age of its users and has no liability whatsoever should a 
+minor use our Website to acquire goods and/or services that would otherwise be prohibited due to the minor's age.  <b>SproutSocial.com</b> encourages parents to monitor 
+their children's Internet usage as a result.
+</div>
+<div>
+<div class="msgpgheading" style="margin:25px 0 10px 0;font-size:18px;">Links/Postings to Other Websites</div>
+Our Website and/or Software may contain links to other websites.  <b>SproutSocial.com</b> is not responsible for the actions, practices, or content of such websites 
+linked to or from our Website and/or Software.  You understand that such websites may have their own legal documents to which you must agree to use such websites 
+and that we have no control over these legal documents.  As always, you understand that it is your responsibility to verify your legal use of a website as well as 
+use of information from the website with the corresponding website owner
+</div>
+<div>
+<div class="msgpgheading" style="margin:25px 0 10px 0;font-size:18px;">Market Research</div>
+From time to time the <b>SproutSocial.com</b> market research department, or contractors and service providers operating on its behalf, may conduct online 
+research surveys in order to gather feedback about our Website and opinions on important issues, through email invitations, pop-up surveys and online focus 
+groups. When participating in a survey, we may ask you to submit Personally Identifiable Information.  This Personally Identifiable Information is used for 
+research purposes, and is not used for sales solicitations.  When a third party sponsors a survey, aggregate information of the survey results is reported to 
+the sponsor. Personally Identifiable Information collected through market research will be used only by SproutSocial.com and its service providers and contractors 
+and will not be given or sold to a third party without your consent or as otherwise permitted by this Privacy Policy.  For market research surveys we will not 
+knowingly accept survey responses from or conduct interviews with any person under the age of 18.  Some surveys may provide remuneration to participants such as 
+a small cash fee for your time.  Each survey will disclose whether or not it is a paid survey. In addition to collecting survey responses from our members, 
+Cookies may be used to authenticate respondents or to help you pick up where you left off in a survey.  If you have Cookies disabled in your browser, you may 
+not be able to participate in some studies.  Cookies may also be used to connect survey data with our Website's usage characteristics.  We will notify when we 
+would like to use Cookies in this way and you will still retain the decision as to whether you wish to enable them. 
+</div>
+<div>
+<div class="msgpgheading" style="margin:25px 0 10px 0;font-size:18px;">Use of Aggregate Data</div>
+<b>SproutSocial.com</b> may combine Non-Personal Information you provide through our Website with information from other users to create aggregate data that may be 
+disclosed to third parties.  Aggregate Information does not contain any information that could be used to contact or identify you.  For example, we may use 
+information gathered to create a composite profile of all the users of a particular third party site.  Depending on the circumstances, we may or may not charge 
+third parties for this Aggregate Information.  In any case, <b>SproutSocial.com</b> will not disclose your Personally-Identifiable Information to any third party 
+without your prior permission, except as otherwise permitted by this Privacy Policy.  We require parties with whom we share Aggregate Information to agree that 
+they will not attempt by any means or use of other parties to transform such information into Personally Identifiable Information. 
+</div>
+<div>
+<div class="msgpgheading" style="margin:25px 0 10px 0;font-size:18px;">When We May Disclose Your Information</div>
+<div>
+Except as set forth below or as specifically agreed to by you, <b>SproutSocial.com</b> will not disclose any Personally Identifiable Information as gathered from you on our Website. 
+</div>
+<div style="margin-top:10px;">
+To operate our Website, to meet your needs for a wide choice of quality products and services, and for other reasons, <b>SproutSocial.com</b> may share Personally 
+Identifiable Information with members of our corporate family of companies and others as described below in Sections A through C.  However, limits on sharing 
+information apply while your address with us is in Vermont or California as described below in Section D.
+<ol type="A">
+<li>
+We may share Personally Identifiable information in limited fashion to our contractors and service providers that perform services on our behalf, including, 
+but not limited to, operation of our Website technology, marketing services, and other related services.  Unless you have opted-out (see Section E below) of such 
+sharing, these contractors also may have access to your email address to send newsletters or special promotions to you on our behalf or to send emails to you for 
+purposes such as conducting market research on our behalf.  Access to your Personally Identifiable Information by such contractors and service providers is 
+limited to the information reasonably necessary for the contractor to perform its limited function for <b>SproutSocial.com</b>.  We also contractually require that such 
+contractors and service providers: 1) protect the privacy of your Personally Identifiable Information consistent with this Privacy Policy, and 2) not use or 
+disclose your Personally Identifiable Information for any purpose other than providing us with products and services as required by law. 
+</li>
+<li>
+We may share Personally Identifiable information we collect, as permitted by law, to companies such as credit reporting agencies, or servicing and processing companies, or in response to a valid legal requirement to release this information such as a state or federal law, regulation, search warrant, subpoena, or court order; or (2) in special cases, such as in response to a physical threat to you or others, to protect property, or defend or assert legal rights.  In the event that we are legally compelled to disclose your Personally Identifiable to a third party, we will attempt to notify you unless doing so would violate the law or court order.
+</li>
+<li>
+While your address with us is in Vermont, we will not share information with affiliates and third parties as described in Section C.  In addition, while your address with us is in California, we will not share information with third parties as described in Section C, nor will we share information with financial institutions that are not our affiliates with whom we have joint marketing agreements as provided in Section A.
+</li>
+<li>
+If you prefer that we do not share certain information with our contractors and service provider, as described above, you can direct us not to share that information by contacting us (<a href="mailto:privacy@SproutSocial.com">privacy@SproutSocial.com</a>).  Please note that an opt-out with respect to information sharing will not apply to information sharing arrangements described Sections A or B. 
+</li>
+</ol>
+</div>
+<div style="margin-top:10px;">
+Finally, <b>SproutSocial.com</b> may provide content and services to you through websites other than our own.  <b>SproutSocial.com</b> will not disclose your Personally 
+Identifiable Information to these 3rd party websites without your consent, but you should be aware that any information you disclose on such sites is NOT subject 
+to this Privacy Policy.  <b>SproutSocial.com</b> will use best efforts to make it obvious to you when you leave our Website and enter such a website. 
+</div>
+</div>
+<div>
+<div class="msgpgheading" style="margin:25px 0 10px 0;font-size:18px;">Security Policy &amp; User ID/Password</div>
+Our site utilizes various information security measures such as internet firewalls, an intrusion detection system, encrypted data transmission, and operating 
+procedures to protect your personal data, accounts, passwords, etc.  This information is kept completely separate and confidential; there is no chance of any 
+other user seeing your information unless you have given them your user ID and password.  As such, you should protect your user ID and password and NOT share it 
+with anyone.  <b>If you believe your user ID and password have been compromised, please contact our technical support department so they can issue you a new user 
+ID/password</b> (<a href="mailto:privacy@SproutSocial.com">privacy@SproutSocial.com</a>). 
+</div>
+<div>
+<div class="msgpgheading" style="margin:25px 0 10px 0;font-size:18px;">CAN-SPAM Compliance Notice</div>
+<b>SproutSocial.com</b> and its affiliates fully comply with the federal CAN-SPAM Act.  You can always opt out of receipt of further email correspondence from us. 
+</div>
+<div>
+<div class="msgpgheading" style="margin:25px 0 10px 0;font-size:18px;">Transfer of Ownership</div>
+If the entire or substantial ownership of our Website were to change, your user information may be transferred to the new owner so the service can continue operations.  In any such transfer of information, your user information would remain subject to the promises of our then current Privacy Policy. 
+</div>
+<div>
+<div class="msgpgheading" style="margin:25px 0 10px 0;font-size:18px;">Your Acceptance of This Privacy Policy</div>
+This is our entire Privacy Policy and it supersedes any earlier version.  You agree to it every time you use our Website and/or Software.  
+</div>
+<div>
+<div class="msgpgheading" style="margin:25px 0 10px 0;font-size:18px;">Questions About This Privacy Policy</div>
+Should you have a privacy question about our Website and/or Software, please email our customer service department (<a href="mailto:privacy@SproutSocial.com">privacy@SproutSocial.com</a>).  
+</div></div>
+											</div>
+				</div>
+				<div class="col3_fixed"></div>				
+			</div>
+		</div>		
+	</div>
+</div>
+<div id="layout-footer">
+					    <div class="footer_strip footer">
+							<div id="footer">
+							<div style="margin:25px 88px 0 42px;float:left;">
+								<div style="font-size:16px;color:#c7c7c6;padding-bottom:15px;">Company</div>
+								<a href="/index.php/policies/privacy">Privacy Policy »</a>
+								<a href="/index.php/policies">Terms &amp; Conditions »</a>
+							</div>
+							<div style="margin:25px 88px 0 0;float:left;">
+								<div style="font-size:16px;color:#c7c7c6;padding-bottom:15px;">Resources</div>
+								<a href="http://blog.sproutsocial.com" target="_blank">Sprout Social Blog »</a>
+								<a href="http://business.twitter.com/twitter101" target="_blank">Twitter 101 for Business »</a>
+							</div>
+							<div style="margin:25px 88px 0 0;float:left;">
+								<div style="font-size:16px;color:#c7c7c6;padding-bottom:15px;">Contact</div>
+								<a href="http://twitter.com/sproutsocial" target="_blank">Twitter »</a>
+								<a href="http://www.facebook.com/SproutSocial" target="_blank">Facebook »</a>
+								<a href="mailto:grow@sproutsocial.com">Email »</a>
+							</div>
+							<div style="margin:25px 0 0 40px;float:left;color:#4a4a4a;font-size:12px;">
+								<img src="http://c1573842.cdn.cloudfiles.rackspacecloud.com/home-35.png" style="display:block;padding-bottom:21px;">
+								Copyright © <span style="color:#C7C7C6">Sprout Social</span> Inc. 2010. All Rights Reserved.
+							</div>
+							</div>
+						</div>
+					    </div>
+<script type="text/javascript" src="/system/cache/12737849478aed5bbd9550e14f81018cda19f244e5.js" charset="UTF-8"></script>
+<script type="text/javascript">
+document.observe("dom:loaded",function() {
+if ($('fdbk_tab') != null) {$('fdbk_tab').style.overflow = 'auto';}
+
+});
+</script>
+<script type="text/javascript" charset="utf-8">
+var is_ssl = ("https:" == document.location.protocol);
+var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
+document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
+<script type="text/javascript" charset="utf-8">
+var feedback_widget_options = { display:"overlay",company:"sproutsocial",placement:"right",color:"#79C225",style:"idea" };
+var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
+</script>
+<script type="text/javascript">
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+})();
+</script>
+<script src="http://static.woopra.com/js/woopra.v2.js" type="text/javascript"></script>
+<script type="text/javascript">
+document.observe("dom:loaded",function() {
+woopraTracker.setDomain("sproutsocial.com");
+woopraTracker.track();
+});
+</script>
+<div id="sprtldr" class="sprtldr round shdw" style="display:none"><center><i></i><div id="sprtldr_msg"></div></center></div><div id="alert" style="display:none"></div>
+</body></html>
