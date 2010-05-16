@@ -1,36 +1,76 @@
-<!--The following is the downloaded HTML source of the fun140.com privacy policy that was archived on 2009-08-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090810100108id_/http%3A//fun140.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fun140.com privacy policy that was archived on 2010-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100516031556id_/http%3A//fun140.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="keywords" content="quiz, quizzes, personality quiz, personality quizzes, personality tests, personality test, fun quiz, free quiz, funny quiz, funny quizzes, fun quizzes, free quizzes, trivia quiz, trivia quizzes, fun140">
 	<meta name="description" content="fun140 is the online personality quiz &amp; fun test site with the most fun personality quizzes &amp; fun tests online. Try a funny personality quiz at fun140!">
 
-	<link href="/stylesheets/layout.css?1249770154" media="screen" rel="stylesheet" type="text/css">
-	<link href="/stylesheets/style.css?1249783323" media="screen" rel="stylesheet" type="text/css">
-	<!--[if IE]>
-	<link href="/stylesheets/ie6.css?1247812188" media="screen" rel="stylesheet" type="text/css" />
+	<link href="http://fun140.com/stylesheets/layout.css?1273188893" media="screen" rel="stylesheet" type="text/css">
+	<link href="http://fun140.com/stylesheets/style.css?1273188893" media="screen" rel="stylesheet" type="text/css">
+	<!--[if IE 6]>
+	<link href="http://fun140.com/stylesheets/ie6.css?1273188893" media="screen" rel="stylesheet" type="text/css" />
 	<![endif]-->
 
-	<script src="/javascripts/jquery.js?1247681319" type="text/javascript"></script>
-<script src="/javascripts/jquery-ui.js?1247681319" type="text/javascript"></script>
-<script src="/javascripts/jrails.js?1247681319" type="text/javascript"></script>
-<script src="/javascripts/application.js?1249770154" type="text/javascript"></script>
-	<script src="/javascripts/jquery.modal.js?1247681319" type="text/javascript"></script>
-	<script src="/javascripts/jquery.autocomplete.js?1247681334" type="text/javascript"></script>
-	<script src="/javascripts/jquery.jgrowl.js?1249282861" type="text/javascript"></script>
+	<script src="http://fun140.com/javascripts/jquery.js?1273188894" type="text/javascript"></script>
+<script src="http://fun140.com/javascripts/jquery-ui.js?1273188894" type="text/javascript"></script>
+<script src="http://fun140.com/javascripts/jrails.js?1273188893" type="text/javascript"></script>
+<script src="http://fun140.com/javascripts/application.js?1273188894" type="text/javascript"></script>
+	<script src="http://fun140.com/javascripts/jquery.modal.js?1273188893" type="text/javascript"></script>
+	<script src="http://fun140.com/javascripts/jquery.jgrowl.js?1273188893" type="text/javascript"></script>
 
 	<script type="text/javascript">
 //<![CDATA[
 
 	$(document).one("mousemove", function() {
-		$.post("/sessions/validate?guid=8603750c-8594-11de-a8ab-12313900d871", null, function(data) {});
+		$.post("/sessions/validate?guid=5431b922-6099-11df-92f3-123139180d69", null, function(data) {});
 	});
 	
 //]]>
 </script>
 
 
+<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+             $(document).ready( function() {
+                FB_RequireFeatures(["Api"], function() {
+                  FB.Facebook.init('c6f53517bb3f75169627a5bf6e63aa22','/xd_receiver.html', {});
+                  
+	var fb_connect = function(redirect_to) {
+		FB.Connect.requireSession(function() {
+			FB.Connect.showPermissionDialog('publish_stream', function(permissions) {
+				if (permissions == 'publish_stream') {
+					// success
+				}
+				else {
+					// fail
+				}
+				if (redirect_to) {
+					window.location = redirect_to;
+				}
+			});
+		});
+	};
+
+	$(".facebook-required").live('click', function(e) {
+		e.preventDefault();
+		fb_connect($(this).attr("href"));
+	});
+	$(".facebook-signin").live('click', function(e) {
+		e.preventDefault();
+		fb_connect($(this).attr("href"));
+	});
+
+
+
+
+                });
+              });
+
+//]]>
+</script>
 	<title>Privacy Policy
  - Fun140</title>
 </head>
@@ -45,19 +85,31 @@
 						<a href="/" class="logo"></a>
 					</td>
 					<td align="right">
-						<div class="submenu">
-	<a href="/users/top">top users</a>
-	<a href="/login">login</a>
-</div>
+						<table class="submenu">
+							<tbody><tr>
+								<td><a href="/users/top">top users</a></td>
+								<td><a href="/login" class="twitter-signin"></a></td>
+								<td><form action="/fun140/search" id="cse-search-box">
+	<input type="hidden" name="cx" value="partner-pub-8783435772983105:5db8n1by5rb">
+	<input type="hidden" name="cof" value="FORID:9">
+	<input type="hidden" name="ie" value="ISO-8859-1">
+	<input type="text" name="q" size="20" value="" style="padding: 5px;">
+	<!--input type="submit" name="sa" value="search" /-->
+</form>
 
-<div class="tabs right clearfix">
-	<div class=""><a href="/quizzes">quizzes!</a></div>
-	<div class=""><a href="/games">games!</a></div>
-	<div class=""><a href="/gifts">gifts!</a></div>
-	<div class=""><a href="/links">videos!</a></div>
-	<!--div class=""><a href="/pets">pets!</a></div-->
-</div>
-
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</td>
+							</tr>
+						</tbody></table>
+						<div class="tabs right clearfix">
+							<div class=""><a href="/quizzes" class="quizzes">quizzes</a></div>
+							<div class=""><a href="/polls" class="polls">polls</a></div>
+							<div class=""><a href="/games" class="games">games</a></div>
+							<div class=""><a href="/gifts" class="gifts">gifts</a></div>
+							<div class=""><a href="/links" class="links">videos</a></div>
+							<div class=""><a href="/pets" class="pets">pets</a></div>
+							<div class=""><a href="/matches" class="matches">matches</a></div>
+						</div>
 					</td>
 				</tr>
 			</tbody></table>
@@ -72,21 +124,25 @@
 
 
 
-			<div id="content-wrapper" class="clearfix">
 
-<!-- flash -->
-<div id="notice" class="notices highlight spaced hidden"></div>
-<div id="error" class="errors highlight spaced hidden"></div>
 
-<!-- /flash -->
 
-<!-- yield -->
+			<div id="content-wrapper">
+				<table align="center">
+					<tbody><tr valign="top">
+						<td style="width: 800px; padding: 0 10px;">
+
+
+
+<div id="notice" class="notices hidden"></div>
+<div id="error" class="errors  hidden"></div>
+
 
 <div class="paragraph">
 	<h1 class="underlined spaced">Privacy Policy</h1>
 	<div class="spaced">
 		<h4>We take your privacy very seriously.</h4>
-		If you have any questions or concerns about our privacy policy, please <a href="https://fun140.wufoo.com/forms/z7x4z5/">contact us</a>. Please refer to our <a href="/tos">Terms of Service</a> as well.
+		If you have any questions or concerns about our privacy policy, please <a href="mailto:fun140support@gmail.com">contact us</a>. Please refer to our <a href="/tos">Terms of Service</a> as well.
 	</div>
 	<div class="spaced">
 		<h4>1. Information that is gathered from visitors</h4>
@@ -106,8 +162,25 @@
 	</div>
 </div>
 
-<!-- /yield -->
 
+						</td>
+						<td style="width: 160px;">
+
+<div>
+<script type="text/javascript"><!--
+google_ad_client = "pub-8783435772983105";
+google_ad_slot = "0508684198";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+
+
+						</td>
+					</tr>
+				</tbody></table>
 			</div><!-- /content-wrapper -->
 		</div><!-- /content-prewrapper -->
 	</div><!-- /content -->
@@ -120,16 +193,24 @@
 			</div>
 			<div>
 				<a href="http://twitter.com/fun140">You should follow us on twitter: @fun140!</a> |
-				<a href="https://fun140.wufoo.com/forms/z7x4z5/">Need help with anything? Ask us!</a>
-			</div>
+				<a href="mailto:fun140support@gmail.com">Need help with anything? Ask us!</a>			</div>
 		</div>
 	</div>
+
+
+<div class="jqmWindow" id="mood-login" style="text-align: left;">
+	<h1 class="spaced">Set your mood</h1>
+	<h4 class="errors spaced">In order to set your mood, you must be logged into twitter.</h4>
+	<h4 class="spaced">We will redirect to Twitter in 5 seconds.</h4>
+	<div class="spaced"><a href="/login" class="login"></a></div>
+	<h5>When you sign in, we’ll have you follow @fun140. You can always unfollow us. :)</h5>
+</div>
 
 <script type="text/javascript">
 //<![CDATA[
 
 $(document).ready(function() {
-	$(".mood-login").click(function(e) {
+	$(".mood-name").click(function(e) {
 		e.preventDefault();
 		$("#mood-login").jqmShow();
 		setTimeout(function() {
@@ -141,13 +222,19 @@ $(document).ready(function() {
 
 //]]>
 </script>
-<div class="jqmWindow" id="mood-login" style="text-align: left;">
-	<h1 class="spaced">Set your mood</h1>
-	<h4 class="errors spaced">In order to set your mood, you must be logged into twitter.</h4>
-	<h4 class="spaced">We will redirect to Twitter in 5 seconds.</h4>
-	<div class="spaced"><a href="/login" class="login"></a></div>
-	<h5>When you sign in, we’ll have you follow @fun140. You can always unfollow us. :)</h5>
-</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+$(document).ready(function() {
+	$(".help").click(function() {
+		$.jGrowl($(this).attr("explanation"), { header: 'Help', sticky: true });
+	});
+});
+
+//]]>
+</script>
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -161,6 +248,18 @@ try {
 catch(err) {
 }
 </script>
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-8c3neiHIGF_GE"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-8c3neiHIGF_GE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
 
 
 </body></html>
