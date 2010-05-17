@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbsoftware.co.uk privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503193640id_/http%3A//www.bbsoftware.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbsoftware.co.uk privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517065142id_/http%3A//www.bbsoftware.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Blueberry Software - Privacy Policy
 
