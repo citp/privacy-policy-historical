@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shl.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924003933id_/http%3A//www.shl.com/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shl.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517040050id_/http%3A//www.shl.com/Pages/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy | SHL
+# 
 
 ## SHL Group Statement of Privacy 
 
