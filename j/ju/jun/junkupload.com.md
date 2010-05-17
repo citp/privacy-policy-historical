@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the junkupload.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116125556id_/http%3A//www.junkupload.com/help.php%3Fh%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junkupload.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517160613id_/http%3A//www.junkupload.com/help.php%3Fh%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Junkupload.com - Help at Junkupload.com
 
