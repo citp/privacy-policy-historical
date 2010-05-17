@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kidzbop.com privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225103029id_/http%3A//www.kidzbop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzbop.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517063613id_/http%3A//www.kidzbop.com/privacy) for the most accurate reproduction.*
 
 # Kidz Bop
 
-KidzBop.com is committed to providing a fun, safe and secure website for people of all ages. We are dedicated to safeguarding all personal information collected online and to helping our visitors learn how to exercise control over personal information while exploring the Internet. Because many visitors to this site are children, we take care that children access only the content that is appropriate for them. In addition, we employ special measures to help children protect their privacy while online. We do not ask children to disclose more personal information than is necessary for them to participate in a particular activity, and we take steps to prevent children from posting contact information. KidzBop.com is committed to complying fully with the Children's Online Privacy Protection Act of 1998.
+KidzBop.com is committed to providing a fun, safe and secure website for people under 18 years old. We are dedicated to safeguarding all personal information collected online and to helping our visitors learn how to exercise control over personal information while exploring the Internet. Because many visitors to this site are children, we take care that children access only the content that is appropriate for them. In addition, we employ special measures to help children protect their privacy while online. We do not ask children to disclose more personal information than is necessary for them to participate in a particular activity, and we take steps to prevent children from posting contact information. KidzBop.com is committed to complying fully with the Children's Online Privacy Protection Act of 1998.
 
 To help ensure a rewarding online experience for all visitors, we provide this summary of our information practices. This privacy notice governs the collection and use of information at KidzBop.com.
 
@@ -51,4 +51,4 @@ P: (212) 598-2258
 
 The KidzBop.com website is intended for domestic viewers and is consequently directed towards residents of the United States.
 
-This privacy policy was last updated on February 12, 2009.
+This privacy policy was last updated on April 21, 2009.
