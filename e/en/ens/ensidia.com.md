@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the ensidia.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225100144id_/http%3A//www.ensidia.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ensidia.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517135520id_/http%3A//www.ensidia.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Ensidia
-
-Written by [Ensidia](https://web.archive.org/accounts/Ensidia/ "Ensidia \(Ensidia\)")
-
-This policy is effective as of April 14, 2009. 
+# Ensidia
 
 At Ensidia.com (the “Site”) we care strongly about your right to privacy and therefore we have several privacy settings on our Site that limits people’s access to your information. However you are always in control of your own information since you decide when and what to enter and share with the community or your friends. 
 
