@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textbooks.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123142434id_/http%3A//www.textbooks.com/CustServ-Privacy.php%3Fs%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textbooks.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517092824id_/http%3A//www.textbooks.com/CustServ-Privacy.php%3Fs%3D1) for the most accurate reproduction.*
 
 # Textbooks.com - Customer Service - Privacy Policy
 
@@ -85,6 +85,6 @@ Back to top >
 
 **If You Have Any Questions About This Privacy Policy:**
 
-Please contact us at [privacy@textbooks.com](mailto:privacy@textbooks.com). For all other inquiries, please contact [Customer Service](https://web.archive.org/web/20091123142434id_/http%3A//www.textbooks.com/CustServ-Contact.php?s=1). 
+Please contact us at [privacy@textbooks.com](mailto:privacy@textbooks.com). For all other inquiries, please contact [Customer Service](https://web.archive.org/web/20100517092824id_/http%3A//www.textbooks.com/CustServ-Contact.php?s=1). 
 
 Back to top >
