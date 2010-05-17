@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidsprom.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227042603id_/http%3A//www.davidsprom.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidsprom.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517080946id_/http%3A//davidsprom.com/privacy.jsp) for the most accurate reproduction.*
 
 # David's Prom 2008
 
@@ -44,7 +44,7 @@ How do we use the information we collect?
 
 **Rewards Programs and Advertisements:** We may also participate in rewards programs with other business organizations where our customers who are also members of these businesses receive a reward from the other businesses for their purchases at David's Bridal . We also place advertisements for our products on other websites that include a link that enable visitors to click over to our site and purchase the products. In these situations, we share information about our customers' purchases with these other member organizations and other websites under the contracts these entities have with us. 
 
-**Optional Features:** If you choose to participate in certain other features or functions of our website, such as customer service, product reviews, wishlists, and wedding stories, we will use your personal information to administer and operate those features and functions. 
+**Optional Features:** If you choose to participate in certain other features or functions of our website, such as customer service, product reviews, wishlists, social account connection, and prom or wedding stories, we will use your personal information to administer and operate those features and functions. 
 
 **Other Business Purposes:** We may also use personal information and non-identifying and aggregate information about our customers' access and navigation of our site and their browsing and purchasing activities that we obtain from cookies, action tags, Web Beacons and GIF tags to improve this website and our service to you, and for other business purposes, such as marketing, advertising and research. We may also contact you from time to time to inform you of the services that we offer and to gather information about how we can improve them. 
 
