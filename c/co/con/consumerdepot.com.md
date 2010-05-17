@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerdepot.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505232119id_/http%3A//www.consumerdepot.com/pg_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerdepot.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517082457id_/http%3A//www.consumerdepot.com/pg_privacy_policy.asp) for the most accurate reproduction.*
 
 # Consumer Depot, Major Online Electronics, Computer Wholesaler Liquidator
 
@@ -37,14 +37,17 @@ Nashville, TN 37204
 
 By using our Web site, you consent to the collection and use of this information by Consumer Depot described in this Policy. If we change our privacy policy we will post any change on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-© Copyright 1997 - 2009 Consumer Depot, LLC. All rights reserved.
+© Copyright 1997 - 2010 Consumer Depot, LLC. All rights reserved.
 
-[](https://web.archive.org/web/20090505232119id_/http%3A//www.consumerdepot.com/categories.asp?id=CN)
+[](https://web.archive.org/web/20100517082457id_/http%3A//www.consumerdepot.com/pg_categories.asp?id=MPP&manfid=AP)
 
 ## FEATURED PRODUCTS
 
-[](https://web.archive.org/web/20090505232119id_/http%3A//www.consumerdepot.com/pg_protection_plan.asp)
+[](https://web.archive.org/web/20100517082457id_/http%3A//www.consumerdepot.com/pg_protection_plan.asp)
 
 ## CERTIFICATIONS
 
-[](http://www.overstockdealz.com/)
+  
+
+
+[](http://www.retail-recyclers.com/categories.asp?id=DEF)
