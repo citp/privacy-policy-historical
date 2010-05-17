@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the womenontheirway.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115104541id_/http%3A//www.womenontheirway.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenontheirway.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517025301id_/http%3A//www.womenontheirway.com/privacy-and-security) for the most accurate reproduction.*
 
-# 
+# WOMEN ON THEIR WAY | Privacy & Security
 
 ## Wyndham Worldwide Internet Customer Privacy & Information Practices Policy
 
