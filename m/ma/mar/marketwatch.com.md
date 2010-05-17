@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the marketwatch.com privacy policy that was archived on 2009-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090310235114id_/http%3A//www.marketwatch.com/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketwatch.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517201955id_/http%3A//www.marketwatch.com/support/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# MarketWatch.com
 
-Privacy Policy (Update 4/08/2008) Sites Subject to this Privacy Policy
+Privacy Policy (Update 4/08/2008)
+
+Sites Subject to this Privacy Policy
 
 This privacy policy describes how Dow Jones & Company, Inc. and its affiliates (“Dow Jones”) will treat the personal information received about you when you visit MarketWatch (home page at MarketWatch.com), and BigCharts (home page at Big Charts.com) (hereafter referred to collectively as the "Services").
 
@@ -85,7 +87,7 @@ Your information may be stored and processed in the United States or any other c
 
 Specific Features
 
-**Interactive Tools.** Certain features of the Services give you an opportunity to interact with us and other members. These may include message boards, submitting a letter to the editor, creating community profiles, creating virtual stock portfolios, and rating, tagging and commenting on articles. When you use these features you should be aware that any information you submit there, including your name, location and e-mail address, may be publicly available to others. We are not responsible for any information you choose to submit through these interactive features. 
+ **Interactive Tools.** Certain features of the Services give you an opportunity to interact with us and other members. These may include message boards, submitting a letter to the editor, creating community profiles, creating virtual stock portfolios, and rating, tagging and commenting on articles. When you use these features you should be aware that any information you submit there, including your name, location and e-mail address, may be publicly available to others. We are not responsible for any information you choose to submit through these interactive features. 
 
 **Third-Party and Corporate Memberships.** If your access to the Services, or any part of the Services, is provided by your employer or a third party, we may notify your employer or that third party when you access the Services. In doing so, we may reveal limited amounts of your personally identifiable information such as your name or email address. Your employer or the third party providing your access may provide us with limited amounts of personal information about you to facilitate your access to the Services and so that we may identify you when providing it with user and usage information. 
 
