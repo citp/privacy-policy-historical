@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thelooksforless.com privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113122333id_/http%3A//www.thelooksforless.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelooksforless.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517042537id_/http%3A//www.thelooksforless.com/privacy-policy) for the most accurate reproduction.*
 
-# The Looks For Less » Privacy Policy
+# Privacy Policy | The Looks For Less
 
 This is the web site of Celebrity Looks for Less. 
 
