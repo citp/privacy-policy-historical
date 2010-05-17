@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the start64.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104233548id_/http%3A//www.start64.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1963%26Itemid%3D125) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the start64.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517140208id_/http%3A//www.start64.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1963%26Itemid%3D125) for the most accurate reproduction.*
 
 # 64bit and x64 - Privacy Policy
 
