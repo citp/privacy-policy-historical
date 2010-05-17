@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calculateforfree.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225104120id_/http%3A//calculateforfree.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calculateforfree.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517035024id_/http%3A//calculateforfree.com/privacy.html) for the most accurate reproduction.*
 
 # Free online calculators for home, work, and school
 
@@ -15,7 +15,11 @@ If any visitor to the site chooses to provide us with personal information, as i
 
 We do not collect information or profile our visitors in any way. This Web site contains links to other sites. Please be aware that we, calculateforfree.com, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
 
+## Advertisements
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp)
+
 ##  Cookies
 
 Advertisements may display on this web site and, if so, may set and access cookies on your computer; such cookies are subject to the privacy policy of the parties providing the advertisement. These parties usually use non-personally-identifiable or anonymous codes to obtain information about your visits to this site. You can visit the  [ Network Advertising Initiative ](http://www.networkadvertising.org/)   if you want to find out more information about this practice, and to learn about your options, including your options with regard to the following companies that may serve advertising on this site:  
-[[ MSN ] ](http://privacy.microsoft.com/en-us/fullnotice.mspx#display)   [[ Chitika.com ] ](http://chitika.com/privacy_policy.php)   [[ Casale Media.com ] ](http://casalemedia.com/privacy.html)   [[ Advertising.com ] ](http://advertising.aol.com/privacy-policy/advertisingcom)
+[[ MSN ] ](http://privacy.microsoft.com/en-us/fullnotice.mspx#display)   [[ Value click media ] ](http://valueclickmedia.com/privacy.shtml)   [[ Casale Media.com ] ](http://casalemedia.com/privacy.html)   [[ Advertising.com ] ](http://advertising.aol.com/privacy)   [[ NetSeer ]  ](http://netseer.com/privacypolicy.html)
