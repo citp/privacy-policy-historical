@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapflights.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115101945id_/http%3A//www.cheapflights.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517121454id_/http%3A//www.cheapflights.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,8 +81,9 @@ In addition to this standard Privacy Policy, Cheapflights.com uses an electronic
 We have taken great measures to ensure that your visit to Cheapflights.com is an excellent one and that your privacy is respected. If you have any questions, comments or concerns about our privacy practices, please contact us by e-mail via our [Feedback](https://web.archive.org/help/contact-us/) link or by writing to the following address:
 
 Cheapflights (USA) Inc.  
-24 School Street  
-Boston MA 02108
+Ten Post Office Square  
+Suite 1000, Tenth Floor  
+Boston MA 02109
 
  **13\. Widgets**
 
