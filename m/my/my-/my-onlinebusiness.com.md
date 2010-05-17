@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my-onlinebusiness.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201031029id_/http%3A//www.my-onlinebusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-onlinebusiness.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517072734id_/http%3A//www.my-onlinebusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | My Online Business
 
@@ -75,4 +75,4 @@ This Privacy Policy was last updated on: July 17, 2009
 
 **Enjoy This Article? Bookmark It Now**
 
-[](http://www.my-onlinebusiness.com/wp-content/plugins/wpd-ads-manager/visit.php?id=3)
+[](http://www.my-onlinebusiness.com/wp-content/plugins/wpd-ads-manager/visit.php?id=4)
