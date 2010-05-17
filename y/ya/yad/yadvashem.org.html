@@ -1,0 +1,453 @@
+<!--The following is the downloaded HTML source of the yadvashem.org privacy policy that was archived on 2010-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100517034852id_/http%3A//www1.yadvashem.org/yv/en/about/privacy_policy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>  
+<title>Privacy Policy - Yad Vashem</title>  
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">  
+<!-- add your meta tags here -->  
+  
+<link href="../../css/my_layout.css" rel="stylesheet" type="text/css">  
+ <script type="text/javascript" src="/yv/js/lib/jquery-1.3.min.js"></script>
+
+<script type="text/javascript" src="/yv/js/AC_RunActiveContent.js"></script>
+<script type="text/javascript" src="/yv/js/show_hide.js"></script>
+<script type="text/javascript" src="/yv/js/jquery-ui-personalized-1.6rc6.min.js"></script>
+<script type="text/javascript" src="/yv/js/jquery.galleria.js"></script>
+<script type="text/javascript" src="/yv/js/jqueryslidemenu.js"></script>
+
+<script type="text/javascript" src="/yv/js/jquery.popup.js"></script>
+<script type="text/javascript" src="/yv/js/jquery.lightbox.js"></script>
+<script>
+		$(document).ready(function(){
+			$(".lightbox").lightbox();
+		});
+
+</script>
+<script type="text/javascript" src="/yv/js/thickbox_without_print.js"></script>
+<script type="text/javascript" src="/yv/js/ddaccordion.js"></script>
+<script type="text/javascript" src="/yv/js/ddtabmenu.js"></script>
+<script type="text/javascript">
+			$(function(){
+
+				// Accordion
+				$("#accordion").accordion({ header: "h3" });
+	
+				// Tabs
+				$('#tabs').tabs();
+	
+
+				// Dialog			
+				$('#dialog').dialog({
+					autoOpen: false,
+					width: 600,
+					buttons: {
+						"Ok": function() { 
+							$(this).dialog("close"); 
+						}, 
+						"Cancel": function() { 
+							$(this).dialog("close"); 
+						} 
+					}
+				});
+				
+				// Dialog Link
+				$('#dialog_link').click(function(){
+					$('#dialog').dialog('open');
+					return false;
+				});
+
+				// Datepicker
+				$('#datepicker').datepicker({
+					inline: true
+				});
+				
+				// Slider
+				$('#slider').slider({
+					range: true,
+					values: [17, 67]
+				});
+				
+				// Progressbar
+				$("#progressbar").progressbar({
+					value: 20 
+				});
+				
+				//hover states on the static widgets
+				$('#dialog_link, ul#icons li').hover(
+					function() { $(this).addClass('ui-state-hover'); }, 
+					function() { $(this).removeClass('ui-state-hover'); }
+				);
+				
+			});
+		</script>
+
+
+
+<script type="text/javascript">$(document).ready(function(){
+		
+		$('.gallery').addClass('gallery_demo'); // adds new class name to maintain degradability
+		
+		$('ul.gallery_demo').galleria({
+			history   : false, // activates the history object for bookmarking, back-button etc.
+			clickNext : false, // helper for making the image clickable
+			insert    : '#main_image', // the containing selector for our main image
+			onImage   : function(image,caption,thumb) { // let's add some image effects for demonstration purposes
+				
+				// fade in the image & caption
+				image.css('display','none').fadeIn(1000);
+				caption.css('display','none').fadeIn(1000);
+				
+				// fetch the thumbnail container
+				var _li = thumb.parents('li');
+				
+				// fade out inactive thumbnail
+				_li.siblings().children('img.selected').fadeTo(500,0.3);
+				
+				// fade in active thumbnail
+				thumb.fadeTo('fast',1).addClass('selected');
+				
+				// add a title for the clickable image
+				//image.attr('title','Next image >>');
+				image.attr('title',thumb.attr('title'));
+				image.attr('alt',thumb.attr('title'));
+			},
+			onThumb : function(thumb) { // thumbnail effects goes here
+				
+				// fetch the thumbnail container
+				var _li = thumb.parents('li');
+				
+				// if thumbnail is active, fade all the way.
+				var _fadeTo = _li.is('.active') ? '1' : '0.4';
+				
+				// fade in the thumbnail when finnished loading
+				thumb.css({display:'none',opacity:_fadeTo}).fadeIn(1500);
+				
+				// hover effects
+				thumb.hover(
+					function() { thumb.fadeTo('fast',1); },
+					function() { _li.not('.active').children('img').fadeTo('fast',0.3); } // don't fade out if the parent is active
+				)
+			}
+		});
+	});
+    
+    </script>
+
+<script type="text/javascript" src="/yv/js/simplegallery.js">
+/***********************************************
+* Simple Controls Gallery- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+***********************************************/
+</script>
+
+
+<script type="text/javascript" src="/yv/js/thickbox.simplegallery.js"></script>
+
+	
+	
+
+
+</head>  
+<body>  
+  <div class="page_margins">  
+    <div id="topnav">  
+		<!--*************************************************
+        **********  mandatory! Do not alternate	*************
+        **************************************************-->
+        <div id="title"><img src="/yv/en/about/images/section_name.jpg" width="116" height="91" border="0" alt="About Us" title="About Us"></div><div id="header">
+               <div id="topnav">
+                 
+                   <span><a href="/yv/en/pressroom/index.asp">Press Room</a> | <a href="http://www1.yadvashem.org/about_yad/friends/world_wide/index.asp">YV Worldwide</a> | <a href="/yv/en/about/contacts.asp">Contact Us</a> | <a href="http://secure.yadvashem.org/store/">Store</a>
+                   </span>
+                   
+                   
+                   </div>
+<div id="searchbox">
+<!--                  <form action="" id="cse-search-box" class="yform">
+                  <div class="type-text">
+                     <input type="hidden" name="cx" value=
+                     "016218761002656953332:uvn5etur_ti" /> 
+                     <input type=
+                     "hidden" name="cof" value="FORID:9" /> 
+                     <input type=
+                     "hidden" name="ie" value="UTF-8" /> 
+                     <input name="q" type="text" size="20" /> 
+                     <input type="submit" name="sa"
+                     value="Search"  />
+                     </div>
+                 </form>
+<script type="text/javascript" src=
+"http://www.google.com/coop/cse/brand?form=cse-search-box&lang;=en">
+</script> -->
+
+<form action="http://www1.yadvashem.org/yv/en/search_results.asp" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="016218761002656953332:hujqjmyg7c0">
+    <input type="hidden" name="cof" value="FORID:10">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input type="text" name="q" size="31">
+    <input type="submit" name="sa" value="Search">
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+               </div>
+               <div id="languagebox">
+                  <form><!-- class="yform"  >-->
+                  <div class="type-select">
+                  Languages:
+                    <select name="language" id="language" title="Languages" onchange="location = this.options[this.selectedIndex].value;">
+                      <option value="http://www.yadvashem.org/" selected="selected">English&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
+                      <option value="http://www.yadvashem.org/hp_he.htm"> עברית </option>
+                      <option value="http://www.yadvashem.org/hp_rus.htm"> Русский </option>
+                      <option value="http://www1.yadvashem.org/es/index.html">Español</option>
+                      <option value="http://www1.yadvashem.org/yv/ar/index.asp">عربي</option>
+                      <option value="http://www1.yadvashem.org/parsit_web/paras_home.html?WT.mc_id=parsit_web">فارسی</option>
+                    </select>
+                  </div>
+                 </form>
+               </div>
+
+
+               <div id="quicklinksbox">
+                  <form>
+                  <div class="type-select">
+                  Quick Links:
+                     <select name="quick_find" title="Quick Find" onchange="location = this.options[this.selectedIndex].value;">
+                        <option selected="selected" value="#">A to Z:</option>
+                        <option value="/yv/en/about/archive/index.asp">Archives</option>
+                        <option value="http://www1.yadvashem.org/new_museum/art.html">Art Museum</option>
+                        <option value="http://www.yad-vashem.blogspot.com/">Blog</option>
+                        <option value="http://ecom.gov.il/YadVashem/homepage_en.aspx">Bookstore</option>
+                        <option value="http://www1.yadvashem.org/education/educational_materials.html">Educ Materials</option>
+                        <option value="/yv/en/about/events/index.asp">Events</option>
+                        <option value="http://www1.yadvashem.org/about_yad/friends/world_wide/home_friends.html">Friends/Societies</option>
+                        <option value="http://www1.yadvashem.org/new_museum/Galleries/gal10Hall.html">Hall of Names</option>
+                        <option value="http://www1.yadvashem.org/new_museum/overview.html">History Museum</option>
+                        <option value="http://www1.yadvashem.org/Odot/prog/index_before_change_table.asp">Hol Resource Center</option>
+                        <option value="/yv/en/about/institute/index.asp">Inst for Hol Research</option>
+                        <option value="/yv/en/education/seminars/index.asp">International Seminars</option>
+                        <option value="http://www1.yadvashem.org/ITS_and_YADVASHEM/home.html">ITS</option>
+                        <option value="http://www6.yadvashem.org/library/listResult.do">Library</option>
+                        <option value="/yv/en/pressroom/magazine/index.asp">Magazine</option>
+                        <option value="/yv/en/visiting/map.asp">Map-YV Complex</option>
+                        <option value="http://www.yadvashem.org/wps/portal/IY_HON_Welcome">Names Database</option>
+                        <option value="http://www1.yadvashem.org/newsletter/index.html">Newsletter</option>
+                        <option value="http://www1.yadvashem.org/education/courses/english/indexCourses.html">Online Courses</option>
+                        <option value="http://www1.yadvashem.org/yv/en/exhibitions/index.asp">Online Exhibitions</option>
+                        <option value="http://www6.yadvashem.org/wps/portal/photo?lang=en&amp;homepage=true">Photo Archive</option>
+                        <option value="http://www1.yadvashem.org/about_yad/departments/audio/audio_home.html">Podcasts</option>
+                        <option value="/yv/en/pressroom/pressreleases/index.asp">Press Releases</option>
+                        <option value="http://www1.yadvashem.org/righteous_new/vwall.html">Righteous-Stats</option>
+                        <option value="http://www1.yadvashem.org/righteous_new/featured_stories.html">Righteous-Stories</option>
+                        <option value="https://secure.yadvashem.org/donation/">Support YV</option>
+                        <option value="/yv/en/exhibitions/travelling_exhibitions.pdf">Traveling Exhibitions</option>
+                        <option value="/yv/en/remembrance/multimedia.asp">Video Testimonies</option>
+                        <option value="/yv/en/visiting/index.asp">Visitors' Info</option>
+                        <option value="http://www1.yadvashem.org/new_museum/Visual_Center.html">Visual Center - Films</option>
+                     </select>
+                     </div>
+                  </form>
+               </div> 
+
+               <div id="logo"><a href="http://www.yadvashem.org/"><img src="/yv/images/logo.jpg" alt="Yad Vashem Logo" title="Yad Vashem Home Page" width="245" height="69"></a> </div>
+               
+<div id="wings">
+                  <img alt="" src="/yv/images/wings.jpg">
+               </div>
+            </div>
+            
+            <div id="myslidemenu" class="jqueryslidemenu">
+<ul>
+<li><a href="/yv/en/about/index.asp">About Us</a>
+		<ul>
+  			<li><a href="/yv/en/about/index.asp">Overview</a></li>
+            <li><a href="/yv/en/about/events/index.asp">Events</a></li>
+            <li><a href="/yv/en/pressroom/index.asp">Press Room</a></li>
+            <li style="border:0px;"><a href="http://www1.yadvashem.org/about_yad/friends/world_wide/home_friends.html">Friends</a></li>
+            <li><a href="/yv/en/visiting/index.asp">Visit</a></li>
+            <li><a href="/yv/en/about/contacts.asp">Contact Us</a></li>
+
+  		</ul>
+        </li>
+<li><a href="/yv/en/holocaust/index.asp">The Holocaust</a>	
+	<ul>
+  			<li><a href="/yv/en/holocaust/index.asp">Overview</a></li>
+            <li><a href="/yv/en/holocaust/about/index.asp">About the Holocaust</a></li>
+  			<li><a href="http://www1.yadvashem.org/Odot/prog/index_before_change_table.asp">The Holocaust Resource Center</a></li>
+  			<li><a href="/yv/en/holocaust/insights/video/index.asp">Video Lectures</a></li>
+  			<li><a href="/yv/en/holocaust/insights/podcast/index.asp">Podcasts</a></li>
+  		</ul>
+        </li>
+<li><a href="/yv/en/about/institute/index.asp">Research</a>	
+	<ul>
+  			<li><a href="/yv/en/about/institute/index.asp">About the Institute</a></li>
+  			<li><a href="/yv/en/about/institute/publications.asp">Publications</a></li>
+  			<li><a href="/yv/en/about/institute/studies/index.asp">Yad Vashem Studies </a></li>
+  			<li><a href="/yv/en/about/institute/conferences.asp">Intl Conferences</a></li>
+            <li><a href="/yv/en/about/institute/workshops.asp">Intl Workshops</a></li>
+            <li><a href="/yv/en/about/institute/children_and_the_holocaust.asp">Projects</a></li>
+            <li><a href="/yv/en/about/institute/forms/fellowship.2010.2011.asp">Postdoc Fellowships</a></li>
+  		</ul>
+        </li>
+<li><a href="/yv/en/resources/index.asp">Digital Collections</a>
+  		<ul>
+  			<li><a href="/yv/en/about/archive/index.asp">About the Archives</a></li>
+            <li><a href="http://www.yadvashem.org/wps/portal/IY_HON_Welcome">Shoah Names Database</a></li>
+            <li><a href="http://www6.yadvashem.org/wps/portal/photo?lang=en&amp;homepage=true">The Photo Archive</a></li>
+            <li><a href="http://www4.yadvashem.org/lwp/workplace/!ut/p/_s.7_0_A/7_0_3N7/.cmd/acd/.ar/sa.init/.c/6_0_288/.ce/7_0_3T2/.p/5_0_2E5?homePage=true?homePage=true">Shoah-Related Lists</a></li>
+            <li><a href="http://www6.yadvashem.org/library/listResult.do">The Library</a></li>
+  		</ul>
+</li>
+<li><a href="/yv/en/education/index.asp">Education &amp; E-Learning</a>
+		<ul>
+        <li><a href="/yv/en/education/index.asp">Overview</a></li>
+  			<li><a href="/yv/en/education/school/about.asp">About Us</a></li>
+            <li><a href="/yv/en/education/educational_materials/index.asp">Educational Materials</a></li>
+            <li><a href="/yv/en/education/courses/index.asp">Online Courses</a></li>
+            <li><a href="/yv/en/education/seminars/index.asp">Seminars</a></li>
+            <li><a href="/yv/en/education/newsletter/index.asp">e-Newsletter</a></li>
+            <li><a href="/yv/en/education/international_projects/index.asp">International Projects</a></li>
+            <li><a href="/yv/en/education/conference/2010/index.asp">International Conference</a></li>
+            <li><a href="/yv/en/education/units/index.asp">Educational Catalog</a></li>
+            <li><a href="/yv/en/education/languages/index.asp">Languages</a></li>
+
+  		</ul>
+        </li>
+<li><a href="/yv/en/exhibitions/index.asp">Exhibitions</a>
+  			
+</li>
+<li><a href="/yv/en/remembrance/index.asp">Remembrance</a>
+		<ul>
+            <li><a href="/yv/en/remembrance/index.asp">Overview</a></li>
+            <li><a href="/yv/en/remembrance/2010/index.asp">Holocaust Remembrance Day</a></li>
+            <li><a href="http://www.yadvashem.org/wps/portal/IY_HON_Entrance">Names</a></li>
+            <li><a href="/yv/en/downloads/survivors_registration_forms.asp">Survivor Forms</a></li>
+            <li><a href="/yv/en/remembrance/names/index.asp">The Shoah Victims' Names Recovery Project</a></li>
+            <li><a href="/yv/en/remembrance/international/index.asp">Int. Holocaust Remembrance Day</a></li>
+  		</ul><!--/exhibitions/27_Jan_2009/index.html -->
+        </li>
+<li><a href="/yv/en/righteous/index.asp">Righteous</a>
+		<ul>
+  			<li><a href="/yv/en/righteous/index.asp">Overview</a></li>
+  			<li><a href="http://www1.yadvashem.org/righteous_new/about_the_righteous.html">About the Righteous</a></li>
+            <li><a href="http://www1.yadvashem.org/righteous_new/about_the_program.html">About the Program </a></li>
+            <li><a href="http://www1.yadvashem.org/righteous_new/featured_stories.html">Featured Stories </a></li>
+            <li><a href="http://www1.yadvashem.org/righteous_new/vwall.html">Virtual Wall of Honor </a></li>
+            <li><a href="http://www1.yadvashem.org/righteous_new/faqs.html">FAQs </a></li>
+            <li><a href="http://www1.yadvashem.org/righteous_new/resources.html">Resources </a></li>
+            <li><a href="http://www1.yadvashem.org/righteous_new/how_to_apply.html">How to Apply</a></li>
+            <li><a href="http://www1.yadvashem.org/righteous_new/contact.html">Contact Us </a></li>
+  		</ul>
+        </li>
+<li><a href="/yv/en/visiting/index.asp">Visiting</a>
+		<ul>
+  			<li><a href="/yv/en/visiting/index.asp">Overview</a></li>
+            <li><a href="/yv/en/visiting/transportation_and_parking.asp">Transportation and Parking</a></li>
+            <li><a href="/yv/en/visiting/accessibility.asp">Accessibility</a></li>
+            <li><a href="/yv/en/visiting/map.asp">Map</a></li>
+            <li><a href="/yv/en/visiting/daily_tours.asp">Daily Tours</a></li>
+            <li><a href="/yv/en/visiting/group_tour.asp">Group Visits</a></li>
+            <li><a href="/yv/en/visiting/photogallery.asp">Photo Gallery</a></li>
+            <li><a href="/yv/en/about/contacts.asp">Contact Info</a></li>
+            <li><a href="/yv/en/visiting/pdf/reservation_form.pdf" target="_blank">Group Visit Reservations Form</a></li>
+
+  		</ul></li>
+
+</ul>
+<br style="clear: left">
+</div>
+
+		<!--*************************************************
+        **********  mandatory! Do not alternate	*************
+        **************************************************-->
+    </div>  
+    <div id="main">  
+      <div id="col1">  
+		<div id="col1_content" class="clearfix">  
+        <!-- add your content here -->
+			<div class="subcl">
+			<div class="share_it">
+				<!-- AddThis Button BEGIN -->
+<script type="text/javascript">var addthis_pub="markginsberg";</script>
+<a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script><!-- AddThis Button END -->
+            </div>
+          <h3>Privacy Policy</h3>
+          <h4>Introduction</h4>
+          <p> Thank you   for visiting the Yad Vashem – the Holocaust Heroes’ and Martyrs’ Remembrance   Authority (“Yad Vashem”) website and reviewing our privacy policy.</p>
+          <p>This is our policy: We will collect no personal information about   you when you visit our website unless you choose to provide that information to   us.</p>
+          <p>Here is how we handle information about your visit to our website:</p>
+          <h4>Information   Collected and Stored Automatically</h4>
+          <ol class="text">
+          <li>The IP Address from which you   access our website</li>
+          <li>The name of the domain from   which you access the internet</li>
+          <li>The type of browser and   operating system used to access our website</li>
+          <li>The date and time you access   our website</li>
+          <li>The pages, files, documents   and links that you visit</li>
+          <li>The internet address of the   website from which you linked to this website</li>
+          </ol>
+          <h4>Cookies</h4>
+          <p> In addition to   information collected automatically, we may also collect cookies, which are   small pieces of information sent to your browser by a website that you visit.   Cookies are used to track usage patterns, traffic trends and customer behavior,   as well as to record other information from the Website. When you register on   the Website, cookies also allow us to save information so that you will not have   to re-enter it the next time you visit. Many content adjustments and customer   service improvements are made based on the data derived from cookies.   Information that we collect from cookies will not be used to create profiles of   users and only will be used in aggregate form.</p>
+          <p> You may set your   browser to refuse cookies from any website that you visit. If you so choose, you   may still gain access to most of Yad Vashem’s Website, but you may not be able   to conduct certain types of transactions (such as shopping) or take advantage of   some of the interactive elements offered.</p>
+          <h4>Sending Us   Personal Information</h4>
+          <p> Yad Vashem’s Website will only collect personal   information which you knowingly and voluntarily provide by, for example, sending   emails, submitting Pages of Testimony, registering for on-line courses, events,   or other programs, responding to surveys or ordering merchandise. If you provide   us with personal information, we will normally respond to your inquiry, request   or order. We may also contact you to provide information about Yad Vashem   activities, programs, membership and development opportunities, products and   special events that may interest you. We will not knowingly provide access to   your personal information outside Yad Vashem unless you affirmatively authorize   us to do so by opting-in.</p>
+          <p> When we send you   such information by email, you will have an opportunity to decline further   communication. Please use the contact specified in the email so that we can   remove you from the list that contains your name. If you are uncertain about   whom to contact, you may contact our webmaster at <a href="mailto:webmaster@yadvashem.org.il"> webmaster@yadvashem.org.il</a>.</p>
+          <h4> Children and Privacy</h4>
+          <p> Yad Vashem is   concerned about protecting children’s privacy. We do not collect age-related   information from children through our site. We further advise that children   under the age of 13 get permission from their parent/guardian before sending any   information to the Yad Vashem website.</p>
+          <h4>Security</h4>
+          <p>Yad Vashem’s   online stores are hosted on the   The Government Mall - which is a new initiative of the Department   of Information Systems of the Accountant General in the Ministry of Finance of   the State of Israel.</p>
+          <p>The Government Mall's staff put   many resources into creating a secured system which will maintain data   integrity, based on the most advanced tools in the field. Sophisticated secured   servers protect the site's systems, the billing process and the supply   operation.</p>
+          <p>The site's system is blocked and secured, while communicating with customers and   while communicating with the system's servers. In every purchase, the customer   is requested to enter a name and a password&nbsp; which was set in advance. Entering   the password enables the privacy needed and the control of each customer over   the purchase.</p>
+          <p>All the client's details, including the current billing, is kept on the system   in a secured server which is not accessible, but to a limited number of   authorized users. The Government Mall assures that there will be no use of the   information which is submitted to the site in a way that contradicts commercial   regulations and that sensitive information will not be transferred to third   parties.</p>
+          <p>The Government Mall’s Secure Sockets Layer (SSL) software is the industry   standard and among the best software available today for secure online commerce   transactions. It encrypts all of your personal information, including credit   card number, name, and address, so that it cannot be read as the information   travels over the Internet.</p>
+          <p>The credit card information is not kept in the system's database, and is used   for the purpose of the current bill alone. Therefore, even an actual burglary to   the system's servers will not reveal the customer's information.</p>
+          <p>As another precaution, a thorough verification of the client's credit card   information is conducted with the credit card company on every purchase, to   eliminate any disorder or misuse of the credit card.</p>
+          <p>For more information, <a href="http://secure.yadvashem.org/store/" target="_blank">click here</a>.</p>
+          <h4> Linking</h4>
+          <p>Within Yad   Vashem’s Website, there are links to non-Yad Vashem websites. When you link to   third party websites, you leave our Website and no longer will be subject to our   privacy policy. Yad Vashem is not responsible for the privacy practices nor the   content of non-Yad Vashem websites, and such link is not intended to be an   endorsement of the non-Yad Vashem website or its content.          </p>
+          <p><strong>Please Note: Our Privacy Policy may change from time to time. We therefore recommend that you   review this Privacy Policy regularly to ensure that you are familiar with our   privacy practices.&nbsp; </strong> <strong>&nbsp;</strong></p>
+<p> <strong>In any event,   Yad Vashem shall not bear any liability of any kind, explicit or implicit, if it   shall not maintain the privacy of the user as detailed hereinabove, whether in   whole or in part, for any reason whatsoever.</strong></p>
+</div>
+        </div>  
+      </div>  
+
+      <div id="col3">  
+        <div id="col3_content" class="clearfix">  
+          <!-- add your content here --> 
+			<div class="donate"><a href="https://secure.yadvashem.org/donation/index.asp?WT.cg_n=donationE"><img src="/yv/en/images/donate.png" alt="Donate Now" title="Donate Now" width="157" height="50" border="0"></a>
+  <!--    <br /><br />
+   	<img src="/yv/en/images/supporters_button.gif" alt="Our Supporters" title="Our Supporters" width="157" height="36" border="0" /> -->
+</div>
+  
+        </div>  
+        <div id="ie_clearing">  &nbsp; </div>  
+      </div>  
+    </div>
+    
+      <!-- begin: #footer -->
+      <div id="footer">Copyright © 2010 Yad Vashem The Holocaust Martyrs' and Heroes' Remembrance Authority <br>
+    <a href="mailto:webmaster@yadvashem.org.il">Contact Us</a> |  <a href="/yv/en/about/terms_and_conditions.asp">Terms and Conditions</a>&nbsp;| <a href="/yv/en/about/privacy_policy.asp">Privacy Policy</a> <!--| <a href="#">Acessability</a> | <a href="#">About the Site</a>--></div>
+    
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2010 WebTrends Inc.  All rights reserved. -->
+<!-- Version: 8.6.2 -->
+<!-- Tag Builder Version: 3.0  -->
+<!-- Created: 2/16/2010 8:58:40 AM -->
+<script src="/SDCLog.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+var _tag=new WebTrends();
+_tag.dcsGetId();
+</script>
+<script type="text/javascript">
+_tag.dcsCollect();
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://sdc.yadvashem.org/dcsim6v5c758xgp1nal0o60kb_3c6t/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.2"/></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->  
+      <!-- end: #footer -->  
+  </div>  
+  
+</body></html>
