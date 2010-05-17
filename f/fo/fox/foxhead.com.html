@@ -1,0 +1,447 @@
+<!--The following is the downloaded HTML source of the foxhead.com privacy policy that was archived on 2010-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100517085811id_/http%3A//www.foxhead.com/company/%3Fp%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Fox Head 
+ | 2010</title>
+<link href="http://www.foxhead.com/favicon.ico" rel="shortcut icon">
+<link href="http://www.foxhead.com/css/style.css" rel="stylesheet" type="text/css">
+<link href="http://www.foxhead.com/css/navigation.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+body {
+	background-image:url(http://www.foxhead.com/css/bgs/.jpg);
+}
+</style>
+<link href="http://www.foxhead.com/css/lightbox.css" rel="stylesheet" type="text/css">
+<link href="http://www.foxhead.com/rss.php" rel="alternate" type="application/rss+xml" title="Fox Blog">
+
+
+
+<script type="text/javascript">
+//alert("3");
+function resize(){  
+var frame = document.getElementById("SPCR");
+if (parseInt(navigator.appVersion)) {
+ if (navigator.appName=="Netscape") {
+  winW = window.innerWidth;
+  winH = window.innerHeight;
+ }
+ if (navigator.appName.indexOf("Microsoft")!=-1) {
+  winW = document.body.offsetWidth;
+  winH = document.body.offsetHeight;
+ }
+} 
+frame.style.height = Math.round(winH) + "px";
+}
+function searcher(id, pl){
+	var country = "";
+	var id = id.value;
+	var pl = pl.value.toLowerCase();
+	if(pl != "store"){
+		window.location = "http://www.foxhead.com//"+ pl +"/search/request/ "+id;
+	}
+	else{
+		if(country == "us"){
+			window.location = "http://shop.foxracing.com/ecomm/AutoForward.do?forward=searchresultspage.pagedef&searchstring="+id;
+		}
+		else{
+			window.location = "http://www.foxeurope.com/Menu.php?SearchString="+id;
+		}
+	}
+}
+function darken(id,reffer,helperMsg,w,h){
+	var id = id.value;
+	var reffer = reffer.value;
+	var emailExp = /^[\w\-\.\+]+\@[a-zA-Z0-9\.\-]+\.[a-zA-z0-9]{2,4}$/;
+	if(id.match(emailExp)){
+		document.getElementById("newsletter").value = "Thank You!";
+		var url = "http://www.foxhead.com/submit.php?emailadd=" + id + "&reff=" + reffer;
+		document.getElementById("darkCenter").src = url;
+		sizeBox(w,h);
+	}else{
+		document.getElementById("newsletter").value = helperMsg;
+	}
+}
+function darkenfoot(id,reffer,helperMsg,w,h){
+	var id = id.value;
+	var reffer = reffer.value;
+	var emailExp = /^[\w\-\.\+]+\@[a-zA-Z0-9\.\-]+\.[a-zA-z0-9]{2,4}$/;
+	if(id.match(emailExp)){
+		document.getElementById("footletter").value = "Thank You!";
+		var url = "http://www.foxhead.com/submit.php?emailadd=" + id + "&reff=" + reffer;
+		document.getElementById("darkCenter").src = url;
+		sizeBox(w,h);
+	}else{
+		document.getElementById("footletter").value = helperMsg;
+	}
+}
+function darkenFlash(id,w,h){
+	var id = id;
+	var reffer = "home flash";
+	var emailExp = /^[\w\-\.\+]+\@[a-zA-Z0-9\.\-]+\.[a-zA-z0-9]{2,4}$/;
+	if(id.match(emailExp)){
+		//document.getElementById("newsletter").value = "Thank You!";
+		var url = "http://www.foxhead.com/submit.php?emailadd=" + id + "&reff=" + reffer;
+		document.getElementById("darkCenter").src = url;
+		sizeBox(w,h);
+	}else{
+		//document.getElementById("newsletter").value = helperMsg;
+		alert("Please Enter A Valid Email");
+	}
+}
+function subscribe(w,h){
+		var url = "http://www.foxhead.com/subscribe.php?country=";
+		document.getElementById("darkCenter").src = url;
+		sizeBox(w,h);
+}
+function region(w,h){
+		var url = "http://www.foxhead.com/region.php";
+		document.getElementById("darkCenter").src = url;
+		sizeBox(w,h);
+}
+function mobile(w,h){
+		var url = "http://www.foxhead.com/mobile.php";
+		document.getElementById("darkCenter").src = url;
+		sizeBox(w,h);
+}
+function myspace(w,h){
+		var url = "http://www.foxhead.com/myspace.php";
+		document.getElementById("darkCenter").src = url;
+		sizeBox(w,h);
+}
+function next(id,w,h){
+	/*var url = "http://www.foxhead.com/submit.php?interests=" + id;
+	document.getElementById("darkCenter").src = url;*/
+	sizeBox(w,h);
+}
+function final(id,w,h){
+	/*var url = "http://www.foxhead.com/submit.php?complete=" + id;
+	document.getElementById("darkCenter").src = url;*/
+	sizeBox(w,h);
+}
+function finalSub(id,w,h){
+	/*var url = "/subscribe.php";
+	document.getElementById("darkCenter").src = url;*/
+	sizeBox(w,h);
+}
+function sizeBox(w,h){
+		var t = Math.floor(h/2);
+		var l = Math.floor(w/2);
+		document.getElementById("darkBackgroundLayer").style.display = "block";
+		document.getElementById("darkCenter").style.width = w +"px";
+		document.getElementById("darkCenter").style.height = h +"px"; 
+		document.getElementById("darkCenter").style.marginTop = "-"+t+"px";
+		document.getElementById("darkCenter").style.marginLeft = "-"+l+"px";
+}
+function darkenOff(){
+	document.getElementById("darkBackgroundLayer").style.display = "none";
+}
+
+function setTeam(id){ 
+	document.getElementById("team").value = id; 
+	document.getElementById("searchOver").style.display = "none";
+}
+////////////////////////////////////////////
+var IE = document.all?true:false
+document.onmousemove = getMouseXY;
+var tempX = 0
+var tempY = 0
+function getMouseXY(e) {
+  if (IE) { // grab the x-y pos.s if browser is IE
+    tempX = event.clientX + document.body.scrollLeft
+    tempY = event.clientY + document.body.scrollTop
+  } else {  // grab the x-y pos.s if browser is NS
+    tempX = e.pageX
+    tempY = e.pageY
+  }  
+  return true
+}
+/////////////////////////////////////////////////
+function closeIt(){
+	setTimeout("hideNav()",2000);
+}
+function closeItShop(){
+	setTimeout("hideShopNav()",20);
+}
+function hideNav(){
+if(tempY > 183){
+	var onOff = document.getElementById("searchOver");
+		onOff.style.display = 'none';
+		}
+}
+function showNav(){
+	var onOff = document.getElementById("searchOver");
+	if ( onOff.style.display != 'none' ) {
+		onOff.style.display = 'none';
+	}
+	else {
+		onOff.style.display = 'block';
+	}
+}
+function showShopNav(){
+	var onOff = document.getElementById("shopOver");
+		onOff.style.display = 'block';
+		MM_swapImage('cart','','http://www.foxhead.com/css/images/nav/cartOver.png',1);
+}
+function hideShopNav(){
+//if(tempY > 103){
+	var onOff = document.getElementById("shopOver");
+		onOff.style.display = 'none';
+		MM_swapImgRestore();
+	//	}
+}
+function mapIt(id,w,h){
+		document.getElementById("darkCenter").src = id;
+		sizeBox(w,h);
+}
+</script>
+<script type="text/javascript" src="http://www.foxhead.com/scripts/AC_RunActiveContent.js"></script>
+<script type="text/javascript" src="http://www.foxhead.com/scripts/AC_ActiveX.js"></script>
+<script type="text/javascript" src="http://www.foxhead.com/scripts/prototype.js"></script>
+<script type="text/javascript" src="http://www.foxhead.com/scripts/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="http://www.foxhead.com/scripts/lightbox.js"></script>
+<script type="text/javascript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+</head>
+<body>
+
+<div id="darkBackgroundLayer" class="darkenBackground">
+	<iframe class="darkCenter" id="darkCenter" src="http://www.foxhead.com/submit.php" scrolling="no" frameborder="0">
+      </iframe>
+	<div class="darkenBG" onclick="javascript:darkenOff();"></div>
+</div>
+
+<div class="topNav"></div>
+<div class="innerNav">
+  <a href="http://www.foxhead.com/"><div class="logo">
+  
+  
+  <script type="text/javascript">AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0', 'wmode', 'transparent','width','141','height','102','src','http://www.foxhead.com/flash/logo','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','http://www.foxhead.com/flash/logo' ,'FlashVars','country='     ); //end AC code</script><noscript><object type="application/x-shockwave-flash" allowScriptAccess="never" allowNetworking="internal" width="141" height="102">
+<param name='movie' value='http://www.foxhead.com/flash/logo.swf?country='  />  <param name="quality" value="high" />
+<embed src='http://www.foxhead.com/flash/logo.swf?country='  quality='high' pluginspage='http://www.macromedia.com/go/getflashplayer' type='application/x-shockwave-flash' width='141' height='102'></embed></object></noscript>
+  
+  
+  </div></a>
+    <div style="clear:right;"></div>
+      
+<div class="searchHolder"> 
+<div class="search">
+<form action="javascript:searcher(document.getElementById('searchres'),document.getElementById('team'))">
+<input class="searchField" id="searchres" name="searchres" type="text" onfocus="this.value=''" value="SEARCH">
+<input type="text" value="Store" id="team" class="box" readonly="readonly" onclick="javascript:showNav()">
+<input type="submit" name="button" value="" class="searchBtn">
+<div id="searchOver" class="searchOver" style="display:none" onmouseout="javascript:closeIt()">
+  <ul>
+  <li onclick="javascript:setTeam('MX')">MX</li>
+  <li onclick="javascript:setTeam('Surf')">Surf</li>
+  <li onclick="javascript:setTeam('BMX')">BMX</li>
+  <li onclick="javascript:setTeam('Wake')">Wake</li>
+  <li onclick="javascript:setTeam('MTB')">MTB</li>
+  <li onclick="javascript:setTeam('Store')">Store</li>
+  </ul>
+</div>
+</form>
+</div>
+</div>
+
+</div>
+<div class="holder">
+
+
+<div class="container">
+
+<table width="100%" border="0" cellspacing="0">
+  <tbody><tr>
+    <td width="180" rowspan="2" align="left" valign="top"><table width="140" border="0" cellspacing="0">
+       <tbody><tr>
+        <td class="topper"><img src="http://www.foxhead.com/css/titles/fox.png"></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top">
+		<table width="140" border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td align="left">		<div style="float:left; clear:both">
+        <script type="text/javascript">AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0', 'wmode', 'transparent','width','130','height','27','src','http://www.foxhead.com/flash/navNew','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','http://www.foxhead.com/flash/navNew' ,'FlashVars','name=Company Info&linkLoop=http://www.foxhead.com/company/?p=about'   ); //end AC code</script><noscript><object type="application/x-shockwave-flash" allowScriptAccess="never" allowNetworking="internal" width="130" height="27">
+<param name='movie' value='http://www.foxhead.com/flash/navNew.swf?name=Company Info&linkLoop=http://www.foxhead.com/company/?p=about'  />  <param name="quality" value="high" />
+<embed src='http://www.foxhead.com/flash/navNew.swf?name=Company Info&linkLoop=http://www.foxhead.com/company/?p=about'  quality='high' pluginspage='http://www.macromedia.com/go/getflashplayer' type='application/x-shockwave-flash' width='130' height='27'></embed></object></noscript>
+        </div>
+        		<div style="float:left; clear:both">
+        <script type="text/javascript">AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0', 'wmode', 'transparent','width','130','height','27','src','http://www.foxhead.com/flash/navNew','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','http://www.foxhead.com/flash/navNew' ,'FlashVars','name=Jobs&linkLoop=http://www.foxhead.com/company/?p=jobs'   ); //end AC code</script><noscript><object type="application/x-shockwave-flash" allowScriptAccess="never" allowNetworking="internal" width="130" height="27">
+<param name='movie' value='http://www.foxhead.com/flash/navNew.swf?name=Jobs&linkLoop=http://www.foxhead.com/company/?p=jobs'  />  <param name="quality" value="high" />
+<embed src='http://www.foxhead.com/flash/navNew.swf?name=Jobs&linkLoop=http://www.foxhead.com/company/?p=jobs'  quality='high' pluginspage='http://www.macromedia.com/go/getflashplayer' type='application/x-shockwave-flash' width='130' height='27'></embed></object></noscript>
+        </div>
+        		<div style="float:left; clear:both">
+        <script type="text/javascript">AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0', 'wmode', 'transparent','width','130','height','27','src','http://www.foxhead.com/flash/navNew','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','http://www.foxhead.com/flash/navNew' ,'FlashVars','name=Sponsorship&linkLoop=http://www.foxhead.com/company/?p=sponsorships'   ); //end AC code</script><noscript><object type="application/x-shockwave-flash" allowScriptAccess="never" allowNetworking="internal" width="130" height="27">
+<param name='movie' value='http://www.foxhead.com/flash/navNew.swf?name=Sponsorship&linkLoop=http://www.foxhead.com/company/?p=sponsorships'  />  <param name="quality" value="high" />
+<embed src='http://www.foxhead.com/flash/navNew.swf?name=Sponsorship&linkLoop=http://www.foxhead.com/company/?p=sponsorships'  quality='high' pluginspage='http://www.macromedia.com/go/getflashplayer' type='application/x-shockwave-flash' width='130' height='27'></embed></object></noscript>
+        </div>
+        		<div style="float:left; clear:both">
+        <script type="text/javascript">AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0', 'wmode', 'transparent','width','130','height','27','src','http://www.foxhead.com/flash/navNew','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','http://www.foxhead.com/flash/navNew' ,'FlashVars','name=Contact Fox&linkLoop=http://www.foxhead.com/company/?p=support'   ); //end AC code</script><noscript><object type="application/x-shockwave-flash" allowScriptAccess="never" allowNetworking="internal" width="130" height="27">
+<param name='movie' value='http://www.foxhead.com/flash/navNew.swf?name=Contact Fox&linkLoop=http://www.foxhead.com/company/?p=support'  />  <param name="quality" value="high" />
+<embed src='http://www.foxhead.com/flash/navNew.swf?name=Contact Fox&linkLoop=http://www.foxhead.com/company/?p=support'  quality='high' pluginspage='http://www.macromedia.com/go/getflashplayer' type='application/x-shockwave-flash' width='130' height='27'></embed></object></noscript>
+        </div>
+        		<div style="float:left; clear:both">
+        <script type="text/javascript">AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0', 'wmode', 'transparent','width','130','height','27','src','http://www.foxhead.com/flash/navNew','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','http://www.foxhead.com/flash/navNew' ,'FlashVars','name=Privacy Policy&linkLoop=http://www.foxhead.com/company/?p=privacy'   ); //end AC code</script><noscript><object type="application/x-shockwave-flash" allowScriptAccess="never" allowNetworking="internal" width="130" height="27">
+<param name='movie' value='http://www.foxhead.com/flash/navNew.swf?name=Privacy Policy&linkLoop=http://www.foxhead.com/company/?p=privacy'  />  <param name="quality" value="high" />
+<embed src='http://www.foxhead.com/flash/navNew.swf?name=Privacy Policy&linkLoop=http://www.foxhead.com/company/?p=privacy'  quality='high' pluginspage='http://www.macromedia.com/go/getflashplayer' type='application/x-shockwave-flash' width='130' height='27'></embed></object></noscript>
+        </div>
+        		<div style="float:left; clear:both">
+        <script type="text/javascript">AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0', 'wmode', 'transparent','width','130','height','27','src','http://www.foxhead.com/flash/navNew','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','http://www.foxhead.com/flash/navNew' ,'FlashVars','name=Legal Terms&linkLoop=http://www.foxhead.com/company/?p=legal'   ); //end AC code</script><noscript><object type="application/x-shockwave-flash" allowScriptAccess="never" allowNetworking="internal" width="130" height="27">
+<param name='movie' value='http://www.foxhead.com/flash/navNew.swf?name=Legal Terms&linkLoop=http://www.foxhead.com/company/?p=legal'  />  <param name="quality" value="high" />
+<embed src='http://www.foxhead.com/flash/navNew.swf?name=Legal Terms&linkLoop=http://www.foxhead.com/company/?p=legal'  quality='high' pluginspage='http://www.macromedia.com/go/getflashplayer' type='application/x-shockwave-flash' width='130' height='27'></embed></object></noscript>
+        </div>
+        		<div style="float:left; clear:both">
+        <script type="text/javascript">AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0', 'wmode', 'transparent','width','130','height','27','src','http://www.foxhead.com/flash/navNew','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','http://www.foxhead.com/flash/navNew' ,'FlashVars','name=eCatalog&linkLoop=http://www.foxhead.com/catalogs'   ); //end AC code</script><noscript><object type="application/x-shockwave-flash" allowScriptAccess="never" allowNetworking="internal" width="130" height="27">
+<param name='movie' value='http://www.foxhead.com/flash/navNew.swf?name=eCatalog&linkLoop=http://www.foxhead.com/catalogs'  />  <param name="quality" value="high" />
+<embed src='http://www.foxhead.com/flash/navNew.swf?name=eCatalog&linkLoop=http://www.foxhead.com/catalogs'  quality='high' pluginspage='http://www.macromedia.com/go/getflashplayer' type='application/x-shockwave-flash' width='130' height='27'></embed></object></noscript>
+        </div>
+        		<div style="float:left; clear:both">
+        <script type="text/javascript">AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0', 'wmode', 'transparent','width','130','height','27','src','http://www.foxhead.com/flash/navNew','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','http://www.foxhead.com/flash/navNew' ,'FlashVars','name=Find a Dealer&linkLoop=http://www.foxhead.com/company/?p=dealers'   ); //end AC code</script><noscript><object type="application/x-shockwave-flash" allowScriptAccess="never" allowNetworking="internal" width="130" height="27">
+<param name='movie' value='http://www.foxhead.com/flash/navNew.swf?name=Find a Dealer&linkLoop=http://www.foxhead.com/company/?p=dealers'  />  <param name="quality" value="high" />
+<embed src='http://www.foxhead.com/flash/navNew.swf?name=Find a Dealer&linkLoop=http://www.foxhead.com/company/?p=dealers'  quality='high' pluginspage='http://www.macromedia.com/go/getflashplayer' type='application/x-shockwave-flash' width='130' height='27'></embed></object></noscript>
+        </div>
+        </td>
+              </tr>
+</tbody></table>
+<div class="submitForm">
+<div class="sform">
+<form action="javascript:darken(document.getElementById('newsletter'), document.getElementById('ref'),'Not A Valid Email', 376, 262);" method="get" id="submitter">
+  <input id="newsletter" type="text" class="submitField" onfocus="this.value=''" value="Email Address">
+  <input id="ref" type="hidden" value="/company/?p=privacy">
+    <input type="image" src="http://www.foxhead.com/css/images/submit_btn.png" class="submitBtn">
+    </form>
+</div>
+</div>
+<br>
+<br><br>
+
+
+
+</td>
+      </tr>
+      
+    </tbody></table></td></tr>
+  <tr>
+    <td width="540" align="left" valign="top"><br>
+	 <div class="swf">
+<script type="text/javascript">AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0','wmode', 'transparent','width','546','height','28','src','http://www.foxhead.com/flash/mainTitles','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','http://www.foxhead.com/flash/mainTitles' ,'FlashVars','one=&two=PRIVACY POLICY'  ); //end AC code</script><noscript><object type="application/x-shockwave-flash" allowScriptAccess="never" allowNetworking="internal" width="546" height="28">
+<param name='movie' value='http://www.foxhead.com/flash/mainTitles.swf?one=&two=PRIVACY POLICY'  />  <param name="quality" value="high" />
+<embed src='http://www.foxhead.com/flash/mainTitles.swf?one=&two=PRIVACY POLICY'  quality='high' pluginspage='http://www.macromedia.com/go/getflashplayer' type='application/x-shockwave-flash' width='546' height='28'></embed></object></noscript>
+<div style="height:4px"></div>
+</div>
+<p style="text-align:left">Fox Head, Inc. respects the privacy of every individual who visits our websites. This Privacy Policy outlines the information Fox Head, Inc. may collect and how we may use that information.<br><br>PERSONAL DATA<br><br>Fox Head, Inc. will not collect any personally-identifiable information about you (e.g., your name, address, telephone number or e-mail address ("personal data") through our websites unless you have provided it to us voluntarily. If you do not want your personal data collected, please do not submit it to us.<br><br>When you do provide us with personal data, we may use that information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; we (or a fulfillment house or other third party on our behalf in connection with a promotion)may use that information to contact you; and/or we may provide other third parties with aggregate - but not individual - information about visitors to or users of our sites. We do not now and do not intend to sell, rent or market personal data about you to third parties.<br><br>CHILDREN<br><br>Fox Head, Inc. has no intention of collecting any personal data from individuals under thirteen years of age. Where appropriate, the Company will specifically instruct children not to submit such information on our websites and/or will take reasonable steps to ensure parental consent to such submission.<br><br>Parents should be aware that Fox Head, Inc.'s Privacy Policy will govern our use of personal data, but that information which is voluntarily given by children -- or others -- in chat sessions, e-mail exchanges, bulletin boards or the like may be used by other parties to generate unsolicited mail. Fox Head encourages all parents to instruct their children in the safe and responsible use of their personal data while using the Internet.<br><br>ADDITIONAL INFORMATION COLLECTED AUTOMATICALLY<br><br>In some cases, we may automatically (i.e., not via registration) collect technical information when you connect to our site that is not personally-identifiable. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using and the domain name of the website from which you linked to our site.<br><br>INFORMATION PLACED AUTOMATICALLY ON YOUR COMPUTER -- COOKIES<br><br>When you view one of our websites, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and can help us in many ways. For example, Cookies allow us to tailor a website to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions.</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>    </td>
+    <td align="right" valign="top">
+        <embed src="http://www.foxhead.com/promos/ads/comp_ads.swf?team=company&amp;country=" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="195" height="1100" wmode="transparent">
+        </td>
+  </tr>
+</tbody></table>
+
+</div><p>
+</p><div style="clear:both; height:10px;"></div>
+
+<div class="footer">  <table width="100%" border="0" cellpadding="0" style="margin-top:-30px;" class="footBG">
+    <tbody><tr>
+      <td align="center" valign="top"><table width="960" border="0" cellpadding="0">
+          <tbody><tr>
+            <td width="25%" height="15"><div align="left" class="footTitles">Teams</div></td>
+            <td width="25%" height="15"><div align="left" class="footTitles">Products</div></td>
+            <td width="25%" height="15"><div align="left" class="footTitles">Social Networks</div></td>
+            <td width="25%" height="15"><div align="left" class="footTitles">Newsletter</div></td>
+          </tr>
+          <tr>
+            <td colspan="4" valign="top"><div style="height:5px; border-top:1px solid #202020;"></div></td>
+          </tr>
+          <tr style="line-height:14px">
+            <td align="left" valign="top" class="homeNewsArt"><div align="left">
+            	<a href="http://www.foxhead.com//mx">MX</a><br>
+                <a href="http://www.foxhead.com//surf">Surf</a><br>
+                <a href="http://www.foxhead.com//bmx">BMX</a><br>
+                <a href="http://www.foxhead.com//wake">Wake</a><br>
+                <a href="http://www.foxhead.com//mtb">MTB</a><br>
+                <a href="http://www.foxhead.com//music">Music</a></div></td>
+            <td align="left" valign="top" class="homeNewsArt"><div align="left">
+                               <a href="http://www.foxhead.com/mx10?country=">MX Gear</a><br>
+                <a href="http://www.foxhead.com/footwear?country=">Footwear</a><br>
+                <a href="http://www.foxhead.com/eyewear?country=">Eyewear</a><br>
+                                <a href="http://www.foxhead.com//mtbGear">MTB Gear</a></div></td>
+            <td align="left" valign="top" class="homeNewsArt"><div align="left">
+            
+                            <a href="http://www.facebook.com/pages/Fox-Head-Europe/373513938804?ref=ts" target="_blank">Facebook</a><br>
+				<a href="http://twitter.com/FoxEurope" target="_blank">Twitter</a><br>
+                <a href="http://www.youtube.com/foxheadinc" target="_blank">YouTube</a><br>
+                <a href="http://vimeo.com/user1106587" target="_blank">Vimeo</a><br>
+                <a href="http://www.foxbrigade.eu" target="_blank">Fox Brigade</a></div>
+					                
+                </td>
+            <td align="left" valign="top">
+            <form action="javascript:darkenfoot(document.getElementById('footletter'), document.getElementById('ref'),'Not A Valid Email', 376, 262);" method="get" id="submitter">
+            <table width="100%" border="0" cellpadding="0">
+              <tbody><tr height="16">
+                <td class="formBG">
+                <input id="footletter" type="text" class="footField" onfocus="this.value=''" value="Enter your email">
+  				<input id="ref" type="hidden" value="/company/?p=privacy"></td>
+                <td width="56"> <input type="image" src="http://www.foxhead.com/assets/send.jpg" class="submitBtn"></td>
+              </tr>
+            </tbody></table>
+            </form>
+            </td>
+          </tr>
+        </tbody></table></td>
+    </tr>
+  </tbody></table>
+   <div class="absFoot">
+  <div style="height:10px;"></div>
+  <div class="loops"><a href="http://www.foxhead.com/home.php"><div class="Flag"></div><div style="width:10px; float:left;"></div> </a> | © 2010 FOX HEAD INC. ALL RIGHTS RESERVED</div>
+  
+  <div class="loopsR"><div class="footRSS"></div><a href="http://www.foxhead.com/rss.php">RSS FEEDS</a></div><div class="footLiner"></div>
+  <div class="loopsR"><a href="http://www.foxhead.com//mx/social">SOCIAL NETWORKS</a></div><div class="footLiner"></div>
+  <div class="loopsR"><a href="http://www.foxhead.com/catalogs">eCATALOG</a></div><div class="footLiner"></div>
+  <div class="loopsR"><a href="http://www.foxhead.com/company/?p=jobs">JOBS@FOX</a></div><div class="footLiner"></div>
+  <div class="loopsR"><a href="http://www.foxhead.com/company/?p=support">CUSTOMER SUPPORT</a></div><div class="footLiner"></div>
+  <div class="loopsR"><a href="http://www.foxhead.com/company/?p=privacy">PRIVACY POLICY</a></div><div class="footLiner"></div>
+  <div class="loopsR"><a href="http://www.foxhead.com/company/?p=legal">LEGAL TERMS</a></div><div class="footLiner"></div>
+  <div class="loopsR"><a href="http://www.foxhead.com/company/">About</a></div>
+  
+  </div>
+</div>
+</div>
+
+
+<!--[if IE 6]>
+<script type="text/javascript">
+	region(700, 321);
+</script>
+<![endif]-->
+
+
+ 
+
+
+</body></html>
