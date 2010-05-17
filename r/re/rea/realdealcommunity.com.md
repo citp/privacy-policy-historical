@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the realdealcommunity.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116144921id_/http%3A//www.realdealcommunity.com/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realdealcommunity.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517040242id_/http%3A//www.realdealcommunity.com/privacy/privacy_policy.html) for the most accurate reproduction.*
 
-# privacy - HIS Real Deal Investor Network
+# privacy - Real Deal REInvestor Network
 
-[ ](http://www.realdealcommunity.com/ "HIS Real Deal Investor Network header")
+[ ](http://www.realdealcommunity.com/ "Real Deal REInvestor Network header")
 
 ### Privacy Policy
 
