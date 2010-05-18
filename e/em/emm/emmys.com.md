@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emmys.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116070323id_/http%3A//www.emmys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emmys.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518052143id_/http%3A//www.emmys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Emmys.com
 
