@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websiteforever.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116064731id_/http%3A//www.websiteforever.com/global/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiteforever.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518055041id_/http%3A//www.websiteforever.com/global/privacy_policy.htm) for the most accurate reproduction.*
 
 # Website Builder
 
