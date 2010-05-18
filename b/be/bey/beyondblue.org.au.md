@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondblue.org.au privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112011151id_/http%3A//www.beyondblue.org.au/index.aspx%3Flink_id%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondblue.org.au privacy policy that was archived on 2010-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100519015945id_/http%3A//www.beyondblue.org.au/index.aspx%3Flink_id%3D16) for the most accurate reproduction.*
 
 # beyondblue: the national depression initiative - Privacy
 
