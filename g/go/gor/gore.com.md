@@ -1,51 +1,59 @@
-> *The following text is extracted and transformed from the gore.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524201650id_/http%3A//www.gore.com/en_xx/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gore.com privacy policy that was archived on 2010-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100519012527id_/http%3A//www.gore.com/en_xx/footer/privacy.html) for the most accurate reproduction.*
 
-# Gore Privacy Policy and Legal Information
+# Gore Privacy Policy
 
-W. L. Gore & Associates (referred to below as 'Gore') respects your privacy. The only information we collect about you is what you yourself tell us, for example by registering when placing an order, or by some other interactive channel.
+_Effective Date: 8/5/2009 ([view archived version](https://web.archive.org/web/20100519012527id_/http%3A//www.gore.com/en_xx/footer/privacy_2004.html) )_
 
-You can let us know at any time if you no longer wish to receive information from us, or if you would like your data to be deleted.
+W. L. Gore & Associates, Inc. (referred to below as 'Gore') respects your privacy. The only personally identifiable information Gore collects about you is what you provide to Gore, for example by completing a Gore “contact us” form, participating in a Gore contest or by some other interactive channel.
 
-## Visitors to Gore Web Sites
+## Information Collection, Use and Disclosure
 
-Gore only collects personal information such as email addresses, names or mailing addresses for its own use and only if individual Web site visitors wish to give us this information. We collect only aggregate statistical information regarding general web site traffic patterns. In order to do so, Gore's Web site uses cookies. Gore is also using third-party suppliers in order to track and analyze non-personally identifiable usage and volume statistical information from our visitors. Information is kept only for as long as is necessary for order processing and to comply with legal obligations to keep records.
+Gore collects personally identifiable information, such as email address, name, mailing address, phone number and birthday, only if individual Web site visitors wish to give Gore this information. Gore uses personally identifiable information to improve its product offerings, analyze Web site usage, improve and customize its Web sites, and for general customer relationship and service purposes, such as responding to a question about a product.
+
+As part of Gore’s normal business operations, Gore may share a user’s personally identifiable information with certain third-party service providers. For example, Gore discloses personally identifiable information to third parties when it is reasonably necessary in order to enable Gore to provide services that have been requested by users, to provide information that has been requested by users or to provide products that have been ordered by users. Additionally, some of Gore’s Web site operations, product fulfillment operations, marketing programs, data processing and data analysis may be managed and/or conducted by Gore’s affiliates and/or third-party service providers. Gore may provide access to your profile and personally identifiable information to such affiliates and/or third-party service providers for the purpose of providing services to you on behalf of Gore or to enable such affiliates and service providers to provide services to Gore.
+
+Gore can (and you authorize Gore to) disclose any information about you as required by law, including voluntary disclosures to law enforcement agencies and government officials, as Gore, in its sole discretion, believes necessary or appropriate.
+
+Gore may also disclose or use personally identifiable information to investigate and respond to any third party complaints or violations of Gore’s rights.
+
+Gore also collects aggregate statistical information regarding general Web site traffic patterns. In order to do so, Gore's Web site uses cookies. Gore also uses third-party service providers to track and analyze non-personally identifiable usage and volume statistical information from Web site users.
+
+## Access to Personally Identifiable Information
+
+If your personally identifiable information changes or if you no longer desire to receive any of Gore’s services, you may correct, update, delete or deactivate your information by contacting Gore using our Contact Us form.
+
+## Choice/Opt-Out
+
+If you provide Gore with your email address or mailing address, Gore may send you newsletters, information on products, services and promotions or offer you the opportunity to participate in Gore marketing and promotions, such as surveys or contests. With respect to any such emails, within the emails Gore will provide you with the opportunity to "opt-out" of having your personally identifiable information used for such purposes by the Gore division that sent the email.
+
+## Governing Law and Data Storage
+
+This Privacy Policy is governed by the laws of the United States of America, which is where this Web site is hosted. You should be aware that when you submit your personally identifiable information to Gore through this Web site, your information will be deemed sent to Gore from the United States of America, that your information may go to a country that has different privacy laws than your home country and that your information will be handled in accordance with the laws of the United States of America. By providing any personal information to Gore through this Web site, all users, including without limitation users in the member states of the European Union, fully understand and unambiguously consent to the submission, collection and processing of such information in the United States of America. Some of Gore’s Web sites are targeted towards countries other than the United States and are intended for visitors from those countries. If you are a resident of a country other than the United States and you give Gore personal information through a Gore Web site targeted towards your country of residence, that information will be stored and used in accordance with the laws of the country in which the Web site is maintained.
+
+## Transfer of Information
+
+In the event Gore or one of its divisions is ever sold to or acquired by another company, Gore reserves the right to transfer ownership of the customer information to the acquiring company.
+
+## Changes in this Privacy Policy
+
+If Gore decides to make any material changes to this Privacy Policy, Gore will notify users by posting any such material changes on this page in this section. Gore reserves the right to modify this Privacy Policy at any time, so please review it frequently. Your use of this Web site after changes to this Privacy Policy have been made constitutes acceptance of those changes going forward.
+
+## Notification of Material Changes since the Effective Date
+
+  1. _August 5, 2009:_   **Information Collection, Use and Disclosure** \- clarification of nature of personally identifiable information collected and shared and clarification of purpose for sharing such information.
+  2. _August 5, 2009:_   **Access to Personally Identifiable Information and Choice/Opt-Out** – explains  how to contact Gore to correct, update, delete or deactivate a user’s personally identifiable information and how to opt-out from within unsolicited commercial email correspondence.
+  3. _August 5, 2009:_   **Governing Law and Data Storage** \- explains that the laws of the United States of America, which is where this Web site is hosted, will govern this Privacy Policy and that user information may be stored in a country that has different privacy laws than the user’s home country. Clarifies that other Gore Web sites targeted towards non-U.S. residents will store information in accordance with the laws of the country in which that Web site is maintained.
+
+
 
 ## Comments or Questions
 
-We always welcome any questions, concerns or comments which you may have in relation to our company, products, Web site or data protection policy. For general questions about our company and any comments on our Web site and/or our data protection policy, please contact the Gore Information Center at (888) 914 4673.
+We welcome any questions, concerns or comments which you may have in relation to our company, products, Web site or Privacy Policy. For general questions about our company and any comments on our Web site and/or our Privacy Policy, please contact Gore using our Contact Us form.
 
 ## For More Information
 
-  * **For North and South America** : Gore Information Center, W. L. Gore & Associates, Inc., 201 Airport Road, Elkton, MD 21921, USA. (Tel.: 800 / 455-4184).
+Gore Information Center, W. L. Gore & Associates, Inc., 201 Airport Road, Elkton, MD 21921, USA. (Tel.: 888 / 914-4673).
 
-  * **For Europe** : Gore Corporate & Legal, W. L. Gore & Associates GmbH, Hermann-Oberth-Straße 22, 85640 Putzbrunn, Germany (Tel.: +49 / 89-4612-0).
+  * [Legal Information of Use of Website](https://web.archive.org/web/20100519012527id_/http%3A//www.gore.com/en_xx/footer/legal.html)
 
-  * **For Asia and the Pacific region** : Gore Corporate Services, W. L. Gore & Associates Hong Kong, Ltd. 12F, Tower 2, Grand Century Place, 193 Prince Edward Road, Mongkok, Kowloon, Hong Kong. (Tel.: +852 / 2622-9622).
-
-
-
-
-This Web site is created and controlled by W. L. Gore & Associates, Inc., a Delaware corporation with headquarters at 555 Paper Mill Road, Newark, DE 19711. (Phone 302 / 738-4880) (referred to below as 'Gore').
-
-## Liability for Content
-
-Gore compiles the material on these Internet pages with great care, and ensures that it is regularly updated. Gore cannot guarantee that the information on these pages is up-to-date, accurate or complete, or that it can always be accessed freely.
-
-The material here is for non-binding, general information-only purposes and is not a substitute for detailed personal advice on your purchasing decision. The technical features and details of the products described serve only as examples. In particular, such features and details may vary between countries. We reserve the right to make changes at any time. Up-to-date and reliable information on technical features, details or characteristics of our products can only be obtained from retailers, from your authorized dealer or importer or from Gore.
-
-## External Links
-
-Where we refer to the Internet pages of third parties (links), Gore accepts no responsibility for the material on those linked pages. When you activate the link you are no longer accessing information on Gore Internet pages. The material of third parties may be controlled by different regulations, especially in relation to data protection.
-
-## Downloading Files 
-
-Gore does not accept liability for ordinary neglect of duty in relation to service providers, especially when downloading files from Gore Internet pages, unless these relate to contractual obligations or affect life and limb or involve claims under the Product Liability Act. The same applies to neglect of duty on the part of our agents. 
-
-## Copyright Information
-
-Copyright 2008 Gore. All rights reserved. The material and structure of Gore Internet pages are protected by Copyright. Reproduction of information or data in any way or form, and specifically the use of texts, sections of text or imagery, requires prior approval from Gore.
-
-## Trademark Protection
-
-Gore trademarks are registered with trademark offices around the world. They may only be used in conjunction with the sale of top-quality goods produced by Gore or with the express permission of Gore. The Gore corporate logo can only be used by W. L. Gore & Associates, Inc. and its subsidiaries. It may only be used by customers or others as applied by Gore to promotional material or products supplied by us. The proper notation for our trademarks and other information about them can be obtained from our Corporate Legal Offices in the USA (Tel.: 800 / 441-9972) and Germany (Tel.: +49 / 89-4612-2501). Please contact us if you have any questions or suggestions.  
 
