@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the articleshome.org privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115014949id_/http%3A//articleshome.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleshome.org privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518085032id_/http%3A//articleshome.org/privacy.php) for the most accurate reproduction.*
 
-# Articles Home
-
-[Baby Name Meanings](http://www.babynames-yahoo.com/) [Cats](http://www.uniquecats.net/) [Senf Free SMS](http://geosms.blogspot.com/) [Keywords](http://searchingkeywords.blogspot.com/) [ Dog Breed ](http://www.bestdogbreed.org/)
+# ahmet hocama selamlar :)
 
 ArticlesHome.org Privacy Policy
 
@@ -62,6 +60,4 @@ This statement and the policies outlined herein are not intended to and do not c
 
 ****
 
-**  
-  
-**
+** **
