@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verywellhealth.com privacy policy that was archived on 2009-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090730190412id_/http%3A//www.verywellhealth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verywellhealth.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518180729id_/http%3A//verywellhealth.com/privacy.html) for the most accurate reproduction.*
 
 # Very Well Health - Van Beurden Insurance Services, Inc. - Corporate Health & Wellness, Work Comp & Personal Lines
 
