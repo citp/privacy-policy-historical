@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canarahsbclife.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220171048id_/http%3A//canarahsbclife.com/Privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canarahsbclife.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518045309id_/http%3A//canarahsbclife.com/Privacypolicy.aspx) for the most accurate reproduction.*
 
 # Canara HSBC Life Insurance - Privacy Policy
 
