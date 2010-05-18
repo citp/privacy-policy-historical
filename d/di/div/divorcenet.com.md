@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divorcenet.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221062954id_/http%3A//www.divorcenet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divorcenet.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518204916id_/http%3A//www.divorcenet.com/privacy) for the most accurate reproduction.*
 
 # DivorceNet Privacy Statement — DivorceNet
 
