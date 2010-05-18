@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotmoviesale.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231041329id_/http%3A//www.hotmoviesale.com/store/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotmoviesale.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518073439id_/http%3A//www.hotmoviesale.com/store/legal/privacy.aspx%3Fw%3Dpopup) for the most accurate reproduction.*
 
-# HotMovieSale - Lowest priced DVDs & games on the net
+# HotMovieSale.com - Lowest priced DVDs & games on the net
 
 This is the Privacy Policy of the provider of this program (also referred to herein as “we," or "us"). If you have any questions about this Privacy Policy, please contact us using the contact information provided in your program materials or on the program website.
 
