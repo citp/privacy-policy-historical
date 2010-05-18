@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gore.com privacy policy that was archived on 2009-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090524201650id_/http%3A//www.gore.com/en_xx/footer/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gore.com privacy policy that was archived on 2010-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100519012527id_/http%3A//www.gore.com/en_xx/footer/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>		
   <link rel="stylesheet" type="text/css" href="/common/css/global.css">
@@ -43,12 +43,30 @@
 var myWind
 function doNew(Business) {
 if (!myWind || myWind.closed) {
-myWind = window.open("http://www.gore.com/webapp/corporate/en_US/shared/internetform/contactus.jsp?business="+Business+"","subWindow","HEIGHT=500,WIDTH=420,scrollbars,resizable")
+lowerbusiness = Business.toLowerCase()
+myWind = window.open("http://tools.gore.com/forms/s?s="+lowerbusiness+"","subWindow","HEIGHT=700,WIDTH=420,scrollbars,resizable")
 } else{
 // bring existing subwindow to the front
 myWind.focus()
 }
 }
+//  End -->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!-- Begin
+// set up the variable to tbe used
+	var myWindow
+	var lowerformname
+	function openForm(formname) {
+		if (!myWindow || myWindow.closed) {
+			lowerformname = formname.toLowerCase()
+			myWindow = window.open("http://tools.gore.com/forms/s?s="+lowerformname+"","subWindow","HEIGHT=700,WIDTH=420,scrollbars,resizable")
+		} else{
+			// bring existing subwindow to the front
+			myWindow.focus()
+		}
+	}
 //  End -->
 </script>
 
@@ -67,12 +85,15 @@ myWind.focus()
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="Locale" content="en_xx">
   
+  <meta name="Teaser" content="Privacy Policy for Gore.com.">
   <meta name="Category0" content="Privacy &amp; Legal">	      
-      <meta name="Category0Value" content="Privacy Policy and Legal Information">
+      <meta name="Category0Value" content="Privacy Policy">
     
-  <title>Gore Privacy Policy and Legal Information</title>			
+  <meta name="FlexDefinition" content="Category0Landing">
+	<meta name="AssetName" content="PrivacyPageDetail">
+	<title>Gore Privacy Policy</title>			
   <meta name="Description" content="W. L. Gore &amp; Associates respects your privacy. The only information we collect about you is what you yourself tell us, for example by registering when placing an order, or by some other interactive channel.">
-  </head>
+  <script src="/includes/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
 
       
     
@@ -83,25 +104,41 @@ myWind.focus()
 				<div id="header">			
 				<div id="gore-name">W.L.Gore &amp; Associates, Inc.</div>
 				<div id="ctrl">
-            <form id="search" name="atomzsearch" method="get" action="http://search.atomz.com/search/" style="{margin: 0px 0px 0px 0px;}" target="_top">
-            <label class="search" for="query">Search</label>
+							
 				
-					<input type="hidden" name="sp-q-4" value="en_xx">
-						<input type="hidden" name="sp-t" value="search">
-					<input type="hidden" name="sp-p" value="all">
-					<input type="hidden" name="sp-f" value="UTF-8">
-					<input type="hidden" name="sp-a" value="sp10032a3d">
-					<input type="hidden" name="sp-x-4" value="locale">
-					<input name="sp-q" type="text" class="field">
-					<input type="hidden" name="acc_id" value="wlggoreus"><!--08/19/05 Omniture account id -->
-					<input type="image" class="go" src="/images/btn-go.gif" alt="Go">
-                    </form>
-					<script language="javascript">var s_account="wlggoreus"; document.atomzsearch.acc_id.value = s_account;</script><!--08/19/05 assign omniture account value --> 
+            <form id="search" action="http://www.gore.com/searchgore/Content" style="{margin: 0px 0px 0px 0px;}" name="search_terms_form" onsubmit="return(validateSearchTerm(this))">
+                <label class="search" for="query">Search</label>
+                <input type="hidden" name="N" value="0">
+                <input type="hidden" name="Ntx" value="mode+matchallpartial">
+                <input type="hidden" name="Ntk" value="all">
+                <input type="hidden" name="Nty" value="0">
+                <input type="hidden" name="Nr" value="p_locale:en_xx">
+				<input type="hidden" name="site" value="en_xx">
+                <input type="hidden" name="action" value="search">
+                <input type="text" name="Ntt" size="25" value="" id="searchterms" maxlength="50">
+               <input type="image" class="go" src="/images/btn-go.gif" alt="Go">
+            </form>
+            
+            <script language="javascript">
+                function validateSearchTerm() {	
+                    //check for blank values	
+                    var searchTerm = document.search_terms_form.Ntt.value;
+
+                    var trimmedTerm = searchTerm.replace(/^\s+|\s+$/g, '') ;
                     
-					<form id="country" name="header">
+                    if(trimmedTerm == ""){
+                      //search term blank, so do not submit form
+                      return false;
+                    }     
+                    return true;
+                }
+            </script>
+                
+            <form id="country" name="header">
               <label for="countries" class="countries"></label>
               <select id="countries" class="field" name="Country" onchange="goSite();">
                   <option value="/en_xx/" selected="">United States</option>
+                      <option value="/en_gb/">United Kingdom</option>
                       <option value="/de_de/">Germany / Deutschland</option>
                       <option value="/ko_kr/">Korea / 한국</option>
                       <option value="/zh_cn/">China / 中国</option>
@@ -132,79 +169,75 @@ myWind.focus()
 					</div></div></div> <div id="section-header">
             
           <div id="main-title">
-            Privacy Policy and Legal Information</div>
+            </div>
 				</div><div id="contents">
 					
             <div id="main">
 						<div id="introduction">                  
-                  <h1>
-                      Gore Privacy Policy and Legal Information</h1>
-                     <div class="hr"><hr></div>
+                  <h1>Gore Privacy Policy</h1>
+                    <div class="hr"><hr></div>
                   <!-- assettype: gore_landing_c -->
                   
-                  <div class="introduction-copy">
-                  
-                          <p>W. L. Gore &amp; Associates respects your privacy. The only information we collect about you is what you yourself tell us, for example by registering when placing an order, or by some other interactive channel.</p>
-</div></div><div class="hr-red"><hr></div>
-             <br class="clearfix">
+                  </div><br class="clearfix">
 							
 							<div id="content-area">  							
-							<h1>Privacy Policy</h1>
+							<p><em>Effective Date: 8/5/2009 (<a href="privacy_2004.html">view archived version</a> )</em></p>
 
-<p>W. L. Gore &amp; Associates (referred to below as 'Gore') respects your privacy. The only information we collect about you is what you yourself tell us, for example by registering when placing an order, or by some other interactive channel.</p>
+<p>W. L. Gore &amp; Associates, Inc. (referred to below as 'Gore') respects your privacy. The only personally identifiable information Gore collects about you is what you provide to Gore, for example by completing a Gore “contact us” form, participating in a Gore contest or by some other interactive channel.</p>
 
-<p>You can let us know at any time if you no longer wish to receive information from us, or if you would like your data to be deleted.</p>
+<h2>Information Collection, Use and Disclosure</h2>
 
-<h2>Visitors to Gore Web Sites</h2>
+<p>Gore collects personally identifiable information, such as email address, name, mailing address, phone number and birthday, only if individual Web site visitors wish to give Gore this information. Gore uses personally identifiable information to improve its product offerings, analyze Web site usage, improve and customize its Web sites, and for general customer relationship and service purposes, such as responding to a question about a product.</p>
 
-<p>Gore only collects personal information such as email addresses, names or mailing addresses for its own use and only if individual Web site visitors wish to give us this information. We collect only aggregate statistical information regarding general web site traffic patterns. In order to do so, Gore's Web site uses cookies. Gore is also using third-party suppliers in order to track and analyze non-personally identifiable usage and volume statistical information from our visitors. Information is kept only for as long as is necessary for order processing and to comply with legal obligations to keep records.</p>
+<p>As part of Gore’s normal business operations, Gore may share a user’s personally identifiable information with certain third-party service providers. For example, Gore discloses personally identifiable information to third parties when it is reasonably necessary in order to enable Gore to provide services that have been requested by users, to provide information that has been requested by users or to provide products that have been ordered by users. Additionally, some of Gore’s Web site operations, product fulfillment operations, marketing programs, data processing and data analysis may be managed and/or conducted by Gore’s affiliates and/or third-party service providers. Gore may provide access to your profile and personally identifiable information to such affiliates and/or third-party service providers for the purpose of providing services to you on behalf of Gore or to enable such affiliates and service providers to provide services to Gore.</p>
+
+<p>Gore can (and you authorize Gore to) disclose any information about you as required by law, including voluntary disclosures to law enforcement agencies and government officials, as Gore, in its sole discretion, believes necessary or appropriate.</p>
+
+<p>Gore may also disclose or use personally identifiable information to investigate and respond to any third party complaints or violations of Gore’s rights.</p>
+
+<p>Gore also collects aggregate statistical information regarding general Web site traffic patterns. In order to do so, Gore's Web site uses cookies. Gore also uses third-party service providers to track and analyze non-personally identifiable usage and volume statistical information from Web site users.</p>
+
+<h2>Access to Personally Identifiable Information</h2>
+
+<p>If your personally identifiable information changes or if you no longer desire to receive any of Gore’s services, you may correct, update, delete or deactivate your information by contacting Gore using our&nbsp;<a href="javascript:doNew('PRIVACY')">Contact Us form</a>.</p>
+
+<h2>Choice/Opt-Out</h2>
+
+<p>If you provide Gore with your email address or mailing address, Gore may send you newsletters, information on products, services and promotions or offer you the opportunity to participate in Gore marketing and promotions, such as surveys or contests. With respect to any such emails, within the emails Gore will provide you with the opportunity to "opt-out" of having your personally identifiable information used for such purposes by the Gore division that sent the email.</p>
+
+<h2>Governing Law and Data Storage</h2>
+
+<p>This Privacy Policy is governed by the laws of the United States of America, which is where this Web site is hosted. You should be aware that when you submit your personally identifiable information to Gore through this Web site, your information will be deemed sent to Gore from the United States of America, that your information may go to a country that has different privacy laws than your home country and that your information will be handled in accordance with the laws of the United States of America. By providing any personal information to Gore through this Web site, all users, including without limitation users in the member states of the European Union, fully understand and unambiguously consent to the submission, collection and processing of such information in the United States of America. Some of Gore’s Web sites are targeted towards countries other than the United States and are intended for visitors from those countries. If you are a resident of a country other than the United States and you give Gore personal information through a Gore Web site targeted towards your country of residence, that information will be stored and used in accordance with the laws of the country in which the Web site is maintained.</p>
+
+<h2>Transfer of Information</h2>
+
+<p>In the event Gore or one of its divisions is ever sold to or acquired by another company, Gore reserves the right to transfer ownership of the customer information to the acquiring company.</p>
+
+<h2>Changes in this Privacy Policy</h2>
+
+<p>If Gore decides to make any material changes to this Privacy Policy, Gore will notify users by posting any such material changes on this page in this section. Gore reserves the right to modify this Privacy Policy at any time, so please review it frequently. Your use of this Web site after changes to this Privacy Policy have been made constitutes acceptance of those changes going forward.</p>
+
+<h2>Notification of Material Changes since the Effective Date</h2>
+
+<ol>
+<li><em>August 5, 2009:</em>&nbsp; <strong>Information Collection, Use and Disclosure</strong> - clarification of nature of personally identifiable information collected and shared and clarification of purpose for sharing such information.</li>
+
+<li><em>August 5, 2009:</em>&nbsp; <strong>Access to Personally Identifiable Information and Choice/Opt-Out</strong> – explains&nbsp; how to contact Gore to correct, update, delete or deactivate a user’s personally identifiable information and how to opt-out from within unsolicited commercial email correspondence.</li>
+
+<li><em>August 5, 2009:</em>&nbsp; <strong>Governing Law and Data Storage</strong> - explains that the laws of the United States of America, which is where this Web site is hosted, will govern this Privacy Policy and that user information may be stored in a country that has different privacy laws than the user’s home country. Clarifies that other Gore Web sites targeted towards non-U.S. residents will store information in accordance with the laws of the country in which that Web site is maintained.</li>
+</ol>
 
 <h2>Comments or Questions</h2>
 
-<p>We always welcome any questions, concerns or comments which you may have in relation to our company, products, Web site or data protection policy. For general questions about our company and any comments on our Web site and/or our data protection policy, please contact the Gore Information Center at (888) 914 4673.</p>
+<p>We welcome any questions, concerns or comments which you may have in relation to our company, products, Web site or Privacy Policy. For general questions about our company and any comments on our Web site and/or our Privacy Policy, please contact Gore using our&nbsp;<a title="" href="javascript:doNew('PRIVACY')">Contact Us form</a>.</p>
 
 <h2>For More Information</h2>
 
-<ul>
-<li>
-<div><strong>For North and South America</strong>: Gore Information Center, W. L. Gore &amp; Associates, Inc., 201 Airport Road, Elkton, MD 21921, USA. (Tel.: 800 / 455-4184).</div>
-</li>
+<p>Gore Information Center, W. L. Gore &amp; Associates, Inc., 201 Airport Road, Elkton, MD 21921, USA. (Tel.: 888 / 914-4673).</p>
 
-<li>
-<div><strong>For Europe</strong>: Gore Corporate &amp; Legal, W. L. Gore &amp; Associates GmbH, Hermann-Oberth-Straße 22, 85640 Putzbrunn, Germany (Tel.: +49 / 89-4612-0).</div>
-</li>
-
-<li>
-<div><strong>For Asia and the Pacific region</strong>: Gore Corporate Services, W. L. Gore &amp; Associates Hong Kong, Ltd. 12F, Tower 2, Grand Century Place, 193 Prince Edward Road, Mongkok, Kowloon, Hong Kong. (Tel.: +852 / 2622-9622).</div>
-</li>
+<ul class="with-links">
+<li><a href="legal.html">Legal Information of Use of Website</a></li>
 </ul>
-
-<h1><a id="legal" name="legal"></a>Legal Information</h1>
-
-<p>This Web site is created and controlled by W. L. Gore &amp; Associates, Inc., a Delaware corporation with headquarters at 555 Paper Mill Road, Newark, DE 19711. (Phone 302 / 738-4880) (referred to below as 'Gore').</p>
-
-<h2>Liability for Content</h2>
-
-<p>Gore compiles the material on these Internet pages with great care, and ensures that it is regularly updated. Gore cannot guarantee that the information on these pages is up-to-date, accurate or complete, or that it can always be accessed freely.</p>
-
-<p>The material here is for non-binding, general information-only purposes and is not a substitute for detailed personal advice on your purchasing decision. The technical features and details of the products described serve only as examples. In particular, such features and details may vary between countries.&nbsp;We reserve the right to make changes at any time. Up-to-date and reliable information on technical features, details or characteristics of our products can only be obtained from retailers, from your authorized dealer or importer or from Gore.</p>
-
-<h2>External Links</h2>
-
-<p>Where we refer to the Internet pages of third parties (links), Gore accepts no responsibility for the material on those linked pages. When you activate the link you are no longer accessing information on Gore Internet pages. The material of third parties may be controlled by different regulations, especially in relation to data protection.</p>
-
-<h2>Downloading Files&nbsp;</h2>
-
-<p>Gore does not accept liability for ordinary neglect of duty in relation to service providers, especially when downloading files from Gore Internet pages, unless these relate to contractual obligations or affect life and limb or involve claims under the Product Liability Act. The same applies to neglect of duty on the part of our agents.&nbsp;</p>
-
-<h2>Copyright Information</h2>
-
-<p>Copyright 2008 Gore. All rights reserved. The material and structure of Gore Internet pages are protected by Copyright. Reproduction of information or data in any way or form, and specifically the use of texts, sections of text or imagery, requires prior approval from Gore.</p>
-
-<h2>Trademark Protection</h2>
-
-<p>Gore trademarks are registered with trademark offices around the world. They may only be used in conjunction with the sale of top-quality goods produced by Gore or with the express permission of Gore. The Gore corporate logo can only be used by W. L. Gore &amp; Associates, Inc. and its subsidiaries. It may only be used by customers or others as applied by Gore to promotional material or products supplied by us. The proper notation for our trademarks and other information about them can be obtained from our Corporate Legal Offices in the USA (Tel.: 800 / 441-9972) and Germany (Tel.: +49 / 89-4612-2501). Please contact us if you have any questions or suggestions.<br>
-</p>
 <br class="clearfix">
                        
 						<br class="clearfix">
@@ -216,74 +249,46 @@ myWind.focus()
 	
 	
     <li>
-          <a href="privacy.html">Privacy Policy and Legal Information</a></li>
-    </ul>
+          <a href="privacy.html">Privacy Policy</a></li>
+	<li>
+          <a href="legal.html">Legal Information</a></li>
+	</ul>
     <p>
-      © Copyright 2009 W. L. Gore &amp; Associates, Inc.</p>
+      © Copyright 2010 W. L. Gore &amp; Associates, Inc.</p>
   </div>
 <!-- 
-	date/time:  May 22, 20099:39:15 PM EST  
+	date/time:  May 17, 20109:30:20 PM EST  
 	 - gore_landing_c - 1090407417410
 -->
 
 </div></div>
 
-    <script language="JavaScript" type="text/javascript">var sprop1=""; var evar1 = ""; var sprop2=""; var sprop3="";</script>
-	
-<!-- SiteCatalyst code version: H.19.4.
-Copyright 1997-2009 Omniture, Inc. More info available at
-http://www.omniture.com -->
-
-<script language="JavaScript" type="text/javascript">
-var s_account="wlggoreus"
-</script>
-
-<script language="JavaScript" type="text/javascript" src="http://www.gore.com/js/s_code_remoteH19.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-/* You may give each page an identifying name, server, and channel on the next lines. */
-
-s.pageName="INT:landing:Privacy Policy and Legal Information"
-s.charSet="UTF-8"
-s.server=""
-s.channel="Privacy & Legal"
-s.pageType=""
-s.prop2=sprop2;
-s.prop3=sprop3;
-s.prop8="gore"
-s.prop9="gore"
-s_prop8="gore"
-s_prop9="gore"
-s.prop10="Category0Landing"
-/* E-commerce Variables */
-
-/* Additional metrics attributes on this asset */
-
-/* end additional metrics on this asset */
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//-->
-</script>
-
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
-src="http://wlggoreus.112.2O7.net/b/ss/wlggoreus/1/H.19.4--NS/0"
-height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.19.4. -->
+<!-- SiteCatalyst code: More info available at http://www.omniture.com -->
+	<script language="JavaScript" type="text/javascript" src="/common/metrics/s_metricsaccount.js"></script> 
+	<script language="JavaScript" type="text/javascript" src="/common/metrics/s_code_current.js"></script>
+	<script language="JavaScript" type="text/javascript" src="/common/metrics/s_metrics.js"></script>
+  
+	<script language="JavaScript" type="text/javascript">
+	<!--
+	/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+	var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+	<script language="JavaScript" type="text/javascript"><!--
+	if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+	//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+	src="http://wlgore.112.2o7.net/b/ss/wlggoreus/1/H.20.3--NS/0"
+	height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+	<!-- End SiteCatalyst code --> 
 
 
 
-<script type="text/javascript" src="/includes/fsrscripts/triggerParams.js"></script>
-<script type="text/javascript" src="/includes/fsrscripts/stdLauncher.js"></script>
+<script type="text/javascript" src="/includes/foresee/foresee-trigger.js"></script>  
 
-
-
-    <script type="text/javascript" src="/common/js/yahoo-dom-event.js"></script>
+<script type="text/javascript" src="/common/js/yahoo-dom-event.js"></script>
 		<script type="text/javascript" src="/common/js/animation.js"></script>
 		<script type="text/javascript" src="/common/js/container.js"></script>
 		<script type="text/javascript" src="/common/js/menu-new.js"></script>
-	  <script type="text/javascript" src="/common/js/sifr.js"></script> 		
+		
+		<script type="text/javascript" src="/common/js/sifr.js"></script>
 		<script type="text/javascript" src="/common/js/zebra.js"></script>				
 
 		<script>
