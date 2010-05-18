@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the suncorp.com.au privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231135230id_/http%3A//www.suncorp.com.au/suncorp/legal/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suncorp.com.au privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518224920id_/http%3A//www.suncorp.com.au/corporate/legal/privacy-policy) for the most accurate reproduction.*
 
-# Suncorp - Privacy and Security
+# Suncorp - Privacy and Security | Suncorp
 
 We are committed to ensuring that your personal information is protected.
 
@@ -91,7 +91,7 @@ Our Privacy Policy is designed to provide you with general information about how
 
 All companies at Suncorp adhere to privacy legislation and this Privacy Policy. However, as our products and services differ and we engage in a variety of different activities, your personal information will be collected, used and disclosed in the ways necessary for that particular Suncorp business to provide you with the product or service.
 
-When you decide to purchase or acquire a product or service from us, we will provide you with further information about privacy in the form of a Privacy Statement or a Charter (‘Privacy Statement’). This Privacy Statement will give you specific information about how we will handle the personal information you have given Suncorp. We may also seek your specific consent in relation to the collection, use or disclosure of your personal information. You may also deal with us because you are a third party who is involved with one of our companies, for example, you are in a car accident with our insured or we interview you as a witness or a party associated with our insured for the purpose of the investigation and management of the insured’s claim. We will collect, use and disclose your personal information in accordance with privacy legislation and this Privacy Policy.
+When you decide to purchase or acquire a product or service from us, we will provide you with further information about privacy in the form of a Privacy Statement or a Charter ('Privacy Statement'). This Privacy Statement will give you specific information about how we will handle the personal information you have given Suncorp. We may also seek your specific consent in relation to the collection, use or disclosure of your personal information. You may also deal with us because you are a third party who is involved with one of our companies, for example, you are in a car accident with our insured or we interview you as a witness or a party associated with our insured for the purpose of the investigation and management of the insured's claim. We will collect, use and disclose your personal information in accordance with privacy legislation and this Privacy Policy.
 
 If you wish to obtain information about how your personal information is being dealt with by one of our businesses then you should contact them directly.
 
@@ -99,7 +99,7 @@ If you wish to obtain information about how your personal information is being d
 
 Personal information is information about an identifiable individual and includes facts or an opinion about you that identifies you or by which your identity can be reasonably determined.
 
-Personal information also includes “sensitive information” which is also personal information and which is about your:
+Personal information also includes "sensitive information" which is also personal information and which is about your:
 
   * health;
   * political opinions;
@@ -208,7 +208,7 @@ We may ask for your express consent or infer your consent.
 
 We will obtain your express consent by asking you to:
 
-  * provide positive verbal consent such as “Yes” or “I agree”;
+  * provide positive verbal consent such as "Yes" or "I agree";
   * read and sign a consent form;
   * read and sign a document which may also contain a consent request;
 
@@ -264,7 +264,7 @@ We may perform these research tasks in-house, or we may outsource the activity t
 
 ## Do we use and disclose your personal information for marketing purposes?
 
-We would like to use and disclose your personal information to keep you up to date with the range of products and services available from Suncorp. Generally, our companies in the Suncorp group will use and disclose your personal information for Suncorp’s marketing purposes.
+We would like to use and disclose your personal information to keep you up to date with the range of products and services available from Suncorp. Generally, our companies in the Suncorp group will use and disclose your personal information for Suncorp's marketing purposes.
 
 We will not use your personal information for marketing purposes if:
 
@@ -409,7 +409,7 @@ We protect your personal information by:
 
   * limiting physical access to our premises to authorised people;
   * restricting access to personal information;
-  * entering into confidentiality agreements with all employees, contractors and third party organisations that may have access to your personal information – but providing access for the purposes we have told you about in our Privacy Policy and Privacy Statements;
+  * entering into confidentiality agreements with all employees, contractors and third party organisations that may have access to your personal information - but providing access for the purposes we have told you about in our Privacy Policy and Privacy Statements;
   * having in place stand-by systems and information backups to deal with major business interruptions;
   * maintaining technology products to prevent unauthorised computer access;
   * regularly reviewing and testing our technology in order to improve the level of security;
@@ -433,7 +433,7 @@ Suncorp maintains industry standard technology and procedures in respect to its 
 
 E-mail transmissions, such as sending us an email via Outlook, Outlook Express, Hotmail or Gmail, are not necessarily secure. If you have any concern about the security of the contents of your e-mail or any other transaction over the Internet then you should consider contacting us by other means, such as telephone or visiting a branch or service centre.
 
-Suncorp does however employ encryption techniques similar to other financial institutions and internet transactions systems globally. If you make a transaction involving the submission of personal information over the Internet to Suncorp using one of our online forms or via “Secure Messages” then Suncorp employs encryption technology to ensure the security of that personal information transmission.
+Suncorp does however employ encryption techniques similar to other financial institutions and internet transactions systems globally. If you make a transaction involving the submission of personal information over the Internet to Suncorp using one of our online forms or via "Secure Messages" then Suncorp employs encryption technology to ensure the security of that personal information transmission.
 
 Once Suncorp has received your personal information, it is stored and protected by a range of security controls including firewalls, user identification requirements and audit trails. Suncorp's systems and information technology infrastructure are regularly audited both by internal and external experts and regulatory bodies.
 
@@ -479,10 +479,10 @@ In New Zealand.
 
 You can contact the Privacy Commissioner:
 
-  * By telephoning – Auckland – 302 8655,
-  * By telephoning – from outside Auckland – 0800 803 909
-  * By writing – Auckland – PO BOX 466 Auckland
-  * By writing – Wellington – PO BOX 10-094 Wellington
+  * By telephoning - Auckland - 302 8655,
+  * By telephoning - from outside Auckland - 0800 803 909
+  * By writing - Auckland - PO BOX 466 Auckland
+  * By writing - Wellington - PO BOX 10-094 Wellington
 
 
 
