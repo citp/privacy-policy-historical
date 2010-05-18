@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colemanfurniture.com privacy policy that was archived on 2008-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080907080625id_/http%3A//www.colemanfurniture.com/article.asp%3Fpage_ID%3D171) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colemanfurniture.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518175312id_/http%3A//www.colemanfurniture.com/article.asp%3Fpage_ID%3D171) for the most accurate reproduction.*
 
 # Privacy Policy - Coleman Furniture.com
 
