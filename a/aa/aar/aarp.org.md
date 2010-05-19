@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aarp.org privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231095152id_/http%3A//www.aarp.org/aarp/articles/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarp.org privacy policy that was archived on 2010-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100519191950id_/http%3A//www.aarp.org/aarp/articles/privacypolicy.html) for the most accurate reproduction.*
 
 # AARP Privacy Policy
 
@@ -26,8 +26,10 @@ We respect your choices. If you do not want us to share your information with pr
 
 For more detailed information about our privacy practices, and about privacy on AARP.org, please review the frequently asked questions below. To exercise your choices, or ask questions about your membership information, please contact us [online,](http://www.aarp.org/about_aarp/contact/) by [e-mail](mailto:member@aarp.org), by phone at 1-888-OUR-AARP (1-888-687-2277), or by mail:
 
-AARP Membership Center  
-3200 E. Carson Street  
+AARP Membership Center
+
+3200 E. Carson Street
+
 Lakewood, CA 90712
 
 **Privacy and AARP.org - Questions and Answers**
@@ -58,7 +60,7 @@ We use vendors for various purposes. For example, AARP uses a vendor to place A
 
 We also use a vendor to collect aggregate information about AARP.org usage – such as the most visited pages and features. This vendor also uses cookies and transparent image tags to collect this information. Like cookies, image tags do not allow us or the vendor to identify you by name or other personal characteristics. These vendors do not collect any personal information from members on AARP.org, and they do not share the non-personal information collected on AARP.org with anyone else for any other purpose.
 
-If you are uncomfortable allowing cookies to be placed on your computer, read this article on AARP.org that explains how to set your browser so that it will not accept these cookies, or so that it will notify you whenever a web site is trying to use cookies. If you choose not to accept cookies, however, you may not be able to use certain features of AARP.org or linked sites. You will still be able to visit the general AARP.org pages on an anonymous basis, just as you have in the past.
+If you are uncomfortable allowing cookies to be placed on your computer, [read this article on AARP.org](https://web.archive.org/leisure/activities/articles/understanding_cookies.html) that explains how to set your browser so that it will not accept these cookies, or so that it will notify you whenever a web site is trying to use cookies. If you choose not to accept cookies, however, you may not be able to use certain features of AARP.org or linked sites. You will still be able to visit the general AARP.org pages on an anonymous basis, just as you have in the past.
 
 **3\. How is this information used, and can I control the uses?**
 
