@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the bhanvad.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421114538id_/http%3A//www.bhanvad.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhanvad.com privacy policy that was archived on 2010-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100519091426id_/http%3A//www.bhanvad.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# search engine, website directory, international website directory
+# web site directory, web site directories, international web site directory, search engines, international search engines, topsite, forum
+
+ | 
+
+ 
 
 Privacy Statement 
 
@@ -15,4 +19,4 @@ We ask your email address if sign up to Add URL, because after few months or yea
 
 If you advertise than we need your email and other information so we can contact you when we receive payment and send you an email for your approval.
 
-Our payment processing is thru Paypal.com so please visit their site for more information.
+Our payment processing is thru Paypal
