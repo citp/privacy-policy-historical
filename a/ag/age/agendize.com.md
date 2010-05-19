@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agendize.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126092223id_/http%3A//www.agendize.com/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agendize.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520004031id_/http%3A//www.agendize.com/privacy/privacy.htm) for the most accurate reproduction.*
 
 # AgendiZe | Call-to-Action Engagement Platform: Call Tracking, Click to Call, Click to Chat, Click to Save & Share
 
@@ -62,4 +62,4 @@ AgendiZe websites may contain links to other sites. AgendiZe assumes no responsi
 
 **Copyright © 2008 Agendize S.A.S. All rights reserved.**
 
-Use of this website signifies your agreement to the [Terms of Use](https://web.archive.org/web/20091126092223id_/http%3A//www.agendize.com/privacy/terms).
+Use of this website signifies your agreement to the [Terms of Use](https://web.archive.org/web/20100520004031id_/http%3A//www.agendize.com/privacy/terms).
