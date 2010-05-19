@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vertical-leap.co.uk privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924011016id_/http%3A//www.vertical-leap.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertical-leap.co.uk privacy policy that was archived on 2010-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100519044942id_/http%3A//www.vertical-leap.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Vertical Leap - The Search Marketing Specialists
 
@@ -41,8 +41,7 @@ Either can make a web site more useful by allowing the site to personalise infor
 
 For customers of Vertical Leap Live, we store the following information:
 
-* Subscription status
-
+* Subscription status  
 * User language  
 * User ID
 
@@ -72,11 +71,11 @@ If Vertical Leap makes any material changes to the way we use your personally id
 If you have any questions or comments about this policy, our services, or your experience with Vertical Leap Ltd, you can use the Feedback page on our site, or write to us at:
 
 Vertical Leap Ltd  
-Customs House  
-10 Hampshire Terrace  
-Portsmouth  
-Hampshire PO1 2QF
-
+Boathouse 6  
+19 College Road  
+Portsmouth Historic Dockyard  
+Portsmouth, Hampshire  
+PO1 3LJ  
 England
 
 **Privacy Statement for Visitors to Sites Tracked by Vertical Leap Ltd**
@@ -116,9 +115,9 @@ You may elect to opt out of receiving tracking cookies for all sites using Verti
 If you have any questions or comments about this policy, our services, or your experience with Vertical Leap, you can use the Feedback page on our site, or write to us at:
 
 Vertical Leap Ltd  
-Customs House  
-10 Hampshire Terrace  
-Portsmouth  
-Hampshire PO1 2QF
-
+Boathouse 6  
+19 College Road  
+Portsmouth Historic Dockyard  
+Portsmouth, Hampshire  
+PO1 3LJ  
 England
