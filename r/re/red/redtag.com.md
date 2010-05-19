@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redtag.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420095743id_/http%3A//www.redtag.com/help/policies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtag.com privacy policy that was archived on 2010-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100519132432id_/http%3A//www.redtag.com/help/policies.aspx) for the most accurate reproduction.*
 
 # RedTag.com - Privacy Policy
 
