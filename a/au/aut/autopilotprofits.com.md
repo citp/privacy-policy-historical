@@ -1,46 +1,81 @@
-> *The following text is extracted and transformed from the autopilotprofits.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307050605id_/http%3A//www.autopilotprofits.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autopilotprofits.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520002009id_/http%3A//www.autopilotprofits.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-(’I’ and ‘we’ refers to Ewen Chia, owner of this website)
+**HOW WE PROTECT YOUR PRIVACY**
 
-I am committed to keeping all your personal details safe and secure. My privacy policy strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
 
-Collecting Your Personal Information
+**MINORS**
 
-I am committed to protecting your privacy. I will only use the information that I collect about you lawfully (in accordance with the Data Protection Act 1998). I will not pass on your details to any third party and do not send out marketing e-mails to customers unless they have registered to receive such material, purchased from me, or downloaded one of my free or paid products.
+We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
 
-The type of information I ‘may’ collect about you includes:
+**POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE**
 
-Your full name  
-Your e-mail address  
-Your postal address 
+Our privacy policy is part of, and subject to, our website's terms and conditions of use. You may view these terms and conditions on our website.
 
-Generally, this information is requested when you are either downloading free products, when you purchase any of my products (eBooks, software etc.), or when you subscribe to my newsletters. I will never collect sensitive information about you without your explicit consent. The information I hold will be accurate and up to date. You can check the information that I hold about you by e-mailing us at: support@ewenchia.com. If you find any inaccuracies we will delete or correct it promptly.
+**THE TYPE OF INFORMATION WE COLLECT FROM YOU**
 
-**How I Control Your Personal Information**
+Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer's operating system, and the type of web browser that you are using. Our website automatically records this basic information about you.
 
-I will not use your personal information for any other reason other than to contact you. We do not sell, give away or rent your email address to any third party. If in the future I did for any reason wish to rent, sell or use your email address for any other purpose we will ask you for your permission first.
+And like many other websites, we may use cookies. In plain English, this means information that our website's server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common Internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer.
 
-**How We Use Your Personal Information**
+We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website's services and features.
 
-Your personal information is used for four main purposes and they are as follows:
+Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
 
-1\. To send out information, recommendations and resources to you.
+**WHAT WE DO WITH YOUR INFORMATION**
 
-2\. To provide assistance to you after you have purchased products from me.
+We use your information to operate our website's business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website's terms and conditions.
 
-3\. To help me create and deliver content most relevant to you.
+As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs.
 
-4\. To enlighten you about new products, services, tool, upgrades, special offers and information which I feel may be of use to you. 
+We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.
 
-I will only disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: 
+Although we do not disclose individually identifiable information, we may disclose aggregate data about our website's visitors to advertisers or other third parties for marketing and promotional purposes.
 
-(a) Conform to the edicts of the law or comply with legal process served on www.AutopilotProfits.com;
+From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
 
-(b) Protect and defend the rights or property of www.AutopilotProfits.com;
+**USER NAMES AND PASSWORDS**
 
-(c) Act in urgent circumstances to protect the personal safety of users of www.AutopilotProfits.com.
+Your access to parts of our website may be protected by a user name and a password. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
 
-Ewen Chia  
-www.AutopilotProfits.com
+**YOUR USE OF INFORMATION AND UNSOLICITED JUNK E-MAIL**
+
+If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too.
+
+We hate junk e-mail (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our website's posting or other communication systems. 
+
+**YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR SUPPLIERS**
+
+You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
+
+**AUTORESPONDERS**
+
+We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to support[at]ewenchia.com, or sending us mail to the address listed below. 
+
+**POLICY CHANGES**
+
+The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website's home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
+
+If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to support[at]ewenchia.com and providing us with information relating to your concern.
+
+You may also mail your concerns to us at the following address:
+
+Autopilot Internet Ltd  
+6 Mayo Street, #02-01  
+Singapore, Singapore 208306  
+Singapore 
+
+**CALIFORNIA PRIVACY RIGHTS**
+
+If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to support[at]ewenchia.com or write us at the following address:
+
+Autopilot Internet Ltd  
+6 Mayo Street, #02-01  
+Singapore, Singapore 208306  
+Singapore 
+
+This privacy policy was last updated on 11-23-2009.
+
+Copyright © 2008-2009 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at AutopilotProfits.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
