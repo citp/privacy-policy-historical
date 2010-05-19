@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiremymom.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219125051id_/http%3A//www.hiremymom.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiremymom.com privacy policy that was archived on 2010-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100519040028id_/http%3A//hiremymom.com/privacypolicy) for the most accurate reproduction.*
 
 # Our Privacy Policy : Outsource Projects : At Home Professionals : HireMyMom.com
 
@@ -8,7 +8,7 @@ Privacy Policy
 HBWM.com Inc. (referred to herein as "HBWM.com," “Home-Based Working Moms,” "We," "Us", or collectively, as "Company") is committed to maintaining the privacy of your information and to safeguard your privacy online. Please read the information below about our use of your Personal Information (defined below). This privacy policy sets forth our practices regarding the collection and use of "Personal Information" from people who have registered with HireMyMom.com (under HBWM.com Inc.) through our membership registration. If you are a HireMyMom.com member, "Personal Information" means information that personally identifies you, including for example, your name, address, email address, phone number and your credit card or other payment information. "Web Site" means this website under the domain HireMyMom.com.
 
   
-Questions, comments, or requests regarding this privacy policy should be directed to us as follows: HBWM.com Inc., PO Box 1628, Spring TX 77383 or by email using our [Contact Us](https://web.archive.org/web/20091219125051id_/http%3A//www.hiremymom.com/contact) form.  
+Questions, comments, or requests regarding this privacy policy should be directed to us as follows: HBWM.com Inc., PO Box 1628, Spring TX 77383 or by email using our [Contact Us](https://web.archive.org/web/20100519040028id_/http%3A//hiremymom.com/contact) form.  
 Collection of Information. We do not collect any Personal Information about you unless you voluntarily provide it to us. You provide certain Personal Information to us when you (a) register for HireMyMom.com and register your email address with us; (b) enter sweepstakes or contests sponsored by us; (c) sign up for special offers from selected third parties; (d) send email messages, submit forms or send other information.
 
   
@@ -29,7 +29,7 @@ You can also opt out of having us disclose your Personal Information to our thir
 HBWM.com Inc.  
 PO Box 1628  
 Spring TX 77383  
-or [by email](https://web.archive.org/web/20091219125051id_/http%3A//www.hiremymom.com/contact).
+or [by email](https://web.archive.org/web/20100519040028id_/http%3A//hiremymom.com/contact).
 
 We will use all reasonable efforts to ensure that your information is removed from our records. Notwithstanding the foregoing, you should understand that Personal Information previously disclosed by us to third parties before you delete or change such information in our database will be used according to such third parties' privacy policies.
 
