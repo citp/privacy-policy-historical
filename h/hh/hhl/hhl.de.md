@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hhl.de privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504144158id_/http%3A//www.hhl.de/service/contact/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hhl.de privacy policy that was archived on 2010-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100519175701id_/http%3A//www.hhl.de/service/contact/privacy) for the most accurate reproduction.*
 
 # Privacy | HHL
 
