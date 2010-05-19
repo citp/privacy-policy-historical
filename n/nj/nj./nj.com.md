@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the nj.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503102019id_/http%3A//www.nj.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nj.com privacy policy that was archived on 2010-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100519103818id_/http%3A//www.nj.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - NJ.com
 
-### by Colleen Stone 
+Last Revised **December 27, 2007**  
 
-Monday July 21, 2008, 10:48 AM
 
-Last Revised **December 27, 2007**
-
-**[Kids and parents click here!](https://web.archive.org/privacypolicy/#kids)**
+**[Kids and parents click here!](https://web.archive.org/privacypolicy/#kids)  
+**
 
 The following Privacy Policy summarizes the various ways that **New Jersey On-Line LLC** ("Service Provider," "we" or "our") treats the information you provide while using **www.nj.com** ("Website"). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
@@ -22,10 +20,10 @@ This Privacy Policy may be modified from time to time; the date of the most rece
 
 The Website generally collects personally identifying information with your specific knowledge and consent. For instance, when you enter a sweepstakes or contest, complete a survey, make a purchase, subscribe to our publication(s), or register for any portion of our services, you are asked to provide information such as your e-mail address, name or phone number. Optional information such as your age or gender may also be requested.
 
-Our servers may also automatically collect information about your computer when you visit the Website, including without limitation the type of browser software you use, the operating system you are running, the website that referred you, and your Internet Protocol ("IP") address. Your IP address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university.  
-2.
+Our servers may also automatically collect information about your computer when you visit the Website, including without limitation the type of browser software you use, the operating system you are running, the website that referred you, and your Internet Protocol ("IP") address. Your IP address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university.
 
-**HOW THE WEBSITE USES INFORMATION PROVIDED BY YOU**
+  
+**2.** **HOW THE WEBSITE USES INFORMATION PROVIDED BY YOU**
 
 Service Provider uses personally identifying information you supply through the Website to provide you with the service you have requested. For example, if you subscribe to any of our publications, we may use your e-mail address to send you a confirmation notice and your mailing address to send you the publication. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, and/or to improve the services that we offer by tailoring them to your needs.
 
@@ -37,10 +35,10 @@ In addition, we reserve the right to use the information we collect about your c
 
 While your personally identifying information is protected as outlined above, we reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners.
 
-In addition, as our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by Service Provider, its parent or any subsidiary or affiliated entity are sold, assigned, transferred or acquired by another company, the information from and/or about our Website users may be among the transferred assets.  
-3.
+In addition, as our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by Service Provider, its parent or any subsidiary or affiliated entity are sold, assigned, transferred or acquired by another company, the information from and/or about our Website users may be among the transferred assets.
 
-**COOKIES**
+  
+**3.** **COOKIES**
 
 You may have read about "cookies," nuggets of information that are placed by a Website in a storage place on your own computer. We may use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of the Website and are given the option to save your user name and password on your computer, we can provide this convenience to you by placing a cookie on your computer. Our cookies may contain personally identifiable information and such cookies may be shared with our affiliates and other companies.
 
@@ -48,25 +46,24 @@ Some of our advertisers occasionally serve you cookies as well. We do not have c
 
 We may also use advertising service vendors to help present advertisements on the Website. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith. If you do not want the benefits of these advertising cookies, you may be able to opt-out by visiting <http://www.networkadvertising.org/optout_nonppii.asp>.
 
-If you don't want any cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of the Website may not function properly.  
-4.
-
-**INFORMATION SECURITY AND NOTIFICATION**
-
-Because no data transmission over the Internet is completely secure, and no system of physical or electronic security is impenetrable, Service Provider can not guarantee the security of the information you send to us or the security of our servers or databases, and by using the Website you agree to assume all risk in connection with the information sent to us or collected by us when you use the Website. In the unlikely event that we believe that the security of your information in our possession or control may have been compromised, we may seek to notify you. If notification is appropriate, we may notify you by e-mail (provided we have your e-mail address).  
-5.
+If you don't want any cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of the Website may not function properly.
 
   
-**KIDS AND PARENTS**
+**4.** **INFORMATION SECURITY AND NOTIFICATION**
+
+Because no data transmission over the Internet is completely secure, and no system of physical or electronic security is impenetrable, Service Provider can not guarantee the security of the information you send to us or the security of our servers or databases, and by using the Website you agree to assume all risk in connection with the information sent to us or collected by us when you use the Website. In the unlikely event that we believe that the security of your information in our possession or control may have been compromised, we may seek to notify you. If notification is appropriate, we may notify you by e-mail (provided we have your e-mail address).
+
+  
+**5.** ** **** KIDS AND PARENTS**
 
 This Website is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site.
 
 If your children disclose information about themselves in publicly accessible areas of the Website, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
 
-If you're worried about your children's activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described below.  
-6.
+If you're worried about your children's activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described below.
 
-**PRIVACY POLICY COORDINATOR**
+  
+**6.** **PRIVACY POLICY COORDINATOR**
 
 If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows:
 
@@ -77,3 +74,5 @@ New Jersey On-Line LLC
 Jersey City, NJ 07306  
 Contact Us  
 **
+
+NJ.com is an affiliate of Advance Internet. [Advance Internet](http://www.advanceinternet.com/) is a leading creator of local news and information web sites, created in alliance with over 25 newspapers affiliated with Advance Internet.
