@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weddingstar.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617195923id_/http%3A//www.weddingstar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingstar.com privacy policy that was archived on 2010-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100519114837id_/http%3A//www.weddingstar.com/privacy) for the most accurate reproduction.*
 
-# Weddingstar - Privacy Policy
+# Weddingstar
 
 Weddingstar Inc. knows you care how information about you is used and shared, and we appreciate your trust that we'll do so carefully and sensibly. This notice describes our privacy policy. By visiting our corporate, catalog, or partnership sites, you're accepting the practices described in this Privacy Notice.
 
@@ -17,3 +17,5 @@ Weddingstar Inc. does not sell, give or trade its contact lists. Your email addr
 
 
 
+
+spurious content meant to fill space. Using Loren Ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ante. Sed sed arcu. Cras nisl nunc, tincidunt et, iaculis ut, elementum at, erat. Quisque neque ligula, elementum at, dapibus non.
