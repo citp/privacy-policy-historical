@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whoi.edu privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923143926id_/http%3A//www.whoi.edu/whoi/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoi.edu privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520233137id_/http%3A//www.whoi.edu/whoi/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy : Woods Hole Oceanographic Institution
 
