@@ -1,54 +1,100 @@
-> *The following text is extracted and transformed from the reedsrains.co.uk privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227021832id_/http%3A//www.reedsrains.co.uk/privacystatement.aspx%3Ffrom%3Dbuy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedsrains.co.uk privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520023310id_/http%3A//www.reedsrains.co.uk/legal-information/privacy-statement) for the most accurate reproduction.*
 
-# Reeds Rains - Estate Agent - Property for Sale and Property To Let in Barnsley, Manchester, Leeds, York, Harrogate, Bolton, Blackburn, Preston, Bradford, Chester, Doncaster, Knutsford, Lancaster, Middlesbrough, Newcastle, Oldham, Rotherham, Sunderland and Wrexham
+# Reeds Rains | Legal Information - Estate Agents and Letting Agents
 
-|  |  |   
----|---  
-| 
+Reeds Rains is committed to protecting your privacy. This Privacy Policy forms part of our [Legal Information](https://web.archive.org/web/20100520023310id_/http%3A//www.reedsrains.co.uk/legal-information/legal-information.shtml) and sets out how Reeds Rains handles data which identifies you.
 
-**Reeds Rains is committed to protecting your privacy. This Privacy Policy forms part of our Legal Information and sets out how Reeds Rains handles data which identifies you.**
+###  About Us
 
-**About Us**  
-Reeds Rains is a trading name of Reeds Rains Limited. Registered No **.** **02568254**. Registered Office: Trinity House, 3-4 Kings Square York YO1 8ZH. We are registered under the Data Protection Act 1998 and any information you supply will be treated in accordance with that Act. 
+Reeds Rains is a trading name of: Reeds Rains Ltd whose registered number is 02568254 and registered office is Trinity House, 3-4 Kings Square York YO1 8ZH 
 
-**Information gathered and its use**  
-We receive and store any information you enter on our website, or give us in any other way, for example through our branch network, or provided by you when giving us feedback. 
+We are committed to protecting your privacy. This Privacy Policy forms part of our legal information and sets out how We handle data which identifies you. If you have any queries concerning your personal information, please contact us at [ automation@reedsrains.co.uk](mailto:'automation@reedsrains.co.uk').
 
-We use your contact details to communicate with you. We may also use your information to send you offers and news about Reeds Rains’  products and services or those of other carefully selected companies which we think may be of interest to you. We may contact you by post, email, telephone or fax for these purposes. If you do not want to receive such communication you can opt-out at Please note that there may be instances where it may be necessary for us to communicate with you, in any event, for administrative or operational reasons relating to our service. 
+Data Protection Information   
+We are registered under the Data Protection Act 1998 and any information you supply will be treated in accordance with that Act. For more information about Us please [click here](http://www.reedsrains.co.uk/about-us). You can obtain further information about data protection laws by visiting the Information Commissioner’s website at [www.ico.gov.uk](http://www.ico.gov.uk/). 
 
-**On Registration**  
-When you register on our website, you provide your name, address, email address and other contact details, and your search criteria if you are a buyer. They are available to you, and are capable of being changed, through the website.
+###  Information Gathered and its Use
 
-**Cookies**  
-We use small files known as "cookies" to facilitate the use of some functionality on the website. These are only used during your session and are not passed to any other party.
+We receive and store any information you enter on our website, or give us in any other way, for example through our branch network, or provided by you when giving us feedback. We use your contact details to communicate with you, we may also use your information to send you news about Our products and services or those of other carefully selected companies which we think may be of interest to you. 
 
-**Site monitoring**  
-When you use the site we anonymously record the details of the pages you look at. This data is not personally identifiable, ie we can't tell which properties you or any other person are looking at or have looked at. We use this data to monitor site traffic and analyse paths customers take through our site which enables us to improve the service we provide. This information is only used by ourselves and is not passed to any other party. 
+We may contact you by post, email, telephone or fax for these purposes. If you do not want to receive such communication you can opt-out during registration, by emailing us at [automation@reedsrains.co.uk](mailto:'automation@reedsrains.co.uk'), or by following the unsubscribe instructions on the email. Please note that there may be instances where it may be necessary for us to communicate with you, in any event, for administrative or operational reasons relating to our service. 
 
-We reserve the right to change, modify, add or remove provisions of this Privacy Policy. Any changes to this Policy will be shown here, and we recommend that you check this Policy again from time to time.
+###  On Registration
 
-  **Place of processing**  
-The personal information held by us is held on and processed by computers situated in the United Kingdom. 
+Where you register with us you provide your name, address, email address and other contact details and they are available to you, most of which are capable of being amended by you through the website. 
 
-**Security**  
-We have security measures in place to protect our customer database and access to this database is restricted internally. However, it remains your responsibility: 
+###  Site Monitoring
 
-  * to protect against unauthorised access to your log in details; 
-  * to close your registration and favourites screen when you are not using it. 
+When you use the site we anonymously record the details of the pages you look at but this data is not personally identifiable. We use this data to monitor site traffic and analyse paths customers take through our site which enable us to improve the service we provide. This information is only used by us and is not passed to any other party. 
+
+###  Place of Processing
+
+The personal information held by us is held on and processed by computers situated in the United Kingdom.
+
+###  Security
+
+We have security measures in place to protect our customer database and access to this database is restricted internally. However, it remains your responsibility:
+
+  * to protect against unauthorised access to your log in details
+  * if you open more than one browser of the same type whilst using the website, to remember to close down all browser windows when you finish.
+  * if you share a computer with someone else or use a public Internet access then we advise you to delete the browsing history and log off the computer. This will help ensure any personal information stored temporarily in the computer’s memory is lost.
 
 
 
-**Disclosure for legal reasons**  
-We reserve the right to communicate such personal information as we hold to third parties which seek the disclosure of it, if we are requested to do so by law. 
+###  Disclosure for Legal Reasons
 
-**Links to third party sites**  
-Our site contains links to other sites. Reeds Rains is not responsible for the privacy practices, or the content, of those websites. 
+We reserve the right to communicate such personal information as we hold to third parties which seek the disclosure of it, if we are requested to do so by law.
 
-**Data Protection Information**  
-You can obtain further information about data protection laws by visiting the Information Commissioner's website at [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/)
+###  Links to Third Party Sites
 
-**Return to thetop of the page**
+Our site contains links to other sites. We are not responsible for the privacy practices, or the content of those websites. You should read the privacy policies of every website that collects data.
 
-  
-  
-| 
+###  Cookies
+
+A cookie is a small file which is placed on your computer’s hard drive. If you agree to have cookies stored on your computer, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. This site uses cookies.
+
+###  Log Files and Statistics
+
+We may use IP addresses, URL’s of requested resources, timestamps and HTTP user agents to analyse trends, administer the system and gather broad demographic information for aggregate use. 
+
+In addition to this we may use third party services to monitor your use of our website, including Google Analytics, a web analytics service provided by Google, Inc (“Google”). Google Analytics use cookies to help analyse how visitors use our site. The information generated by the cookie about the use of our web-site (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of our web-site, compiling reports on web site activity and providing other services relating to web-site activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies be selecting the appropriate settings on your web browser, however, please note that if you do this you may not be able to make full use of our web-site. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. 
+
+###  Legal Information and Your Agreement
+
+Access by you of our web-site is confirmation that you have understood and agreed to be bound by all of these terms and conditions. 
+
+This web-site is prepared and issued in the United Kingdom and is intended for the information of United Kingdom residents only. 
+
+This web-site is for information purposes only and it’s content is subject to change without notice. 
+
+Nothing on this web-site shall be deemed to constitute financial advice and in the event that you wish to have any such advice, you should contact a financial advisor. 
+
+###  Disclaimer
+
+Whilst we use all reasonable efforts to ensure that the information published on this website is accurate, current and complete at the date of publication, no representatives or warranties are made ( express or implied) as to the accuracy, currency or completeness of such information. We cannot accept responsibility ( to the extent permitted by law) for any loss arising directly or indirectly from the use of, or any action taken in reliance on, any information appearing on this web-site or any other web-site to which it may be linked. We make not warranty that this web-site is free from errors, defects or viruses.
+
+We reserve the right to change, modify, add or remove provisions of this Privacy Policy. Any changes to this Policy will be shown here, and we recommend that you check this Policy again from time to time. 
+
+###  Copyright Notice
+
+The entire contents of this web-site (except where applicable the crown copyright location maps) is our property and is subject to copy right with all rights reserved. 
+
+You may download or print individual sections of the web-site for personal use and information only provided that these properly indicate our copyright and other proprietary notices. 
+
+You may not reproduce ( in whole or in part), modify, decompile, disassemble or transmit or use for any commercial purpose whatsoever any information from this website without Our prior written consent. 
+
+###  E-Mail
+
+There is no guarantee that any e-mail you send will be received by us or that the confidentiality of that e-mail will be maintained during internet transmission. 
+
+###  Regulatory
+
+Reeds Rains Limited is an appointed representative of Openwork which is authorised by the Financial Services Authority. 
+
+###  Applicable Law
+
+Any disputes arising from the use of this website shall at all times be governed by the laws of England and Wales and the parties shall submit to the exclusive jurisdiction of the English Courts. 
+
+###  International Transfers of Personal Information
+
+As the internet can be assessed world wide, if you are visiting the site from outside the UK, your visit will necessarily result in the transfer of information across international borders. By visiting this site and communicating electronically with us you are consenting to these transfers. 
