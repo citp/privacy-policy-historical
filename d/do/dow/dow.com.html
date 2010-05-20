@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dow.com privacy policy that was archived on 2009-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091225095852id_/http%3A//www.dow.com/homepage/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dow.com privacy policy that was archived on 2010-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100520041105id_/http%3A//www.dow.com/homepage/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="" xml:lang="" xmlns="http://www.w3.org/1999/xhtml"><head>
   
@@ -24,14 +24,15 @@
 </head><body class="">
 
 <div class="container">
-    
+<p>
+
 
 <script type="text/javascript" src="/scripts/Search.js">
 </script>
 <!--[CDATA[
 
 ]]-->
-	<div class="header-home">
+	</p><div class="header-home">
 		<div class="header-logo">
 			<a href="http://www.dow.com/"><img src="/images/global/huskin/dow_logo.gif" alt="The Dow Chemical Company Diamond" border="0"></a>
 		</div>
@@ -45,34 +46,23 @@
 		
 		<div>
 			<script type="text/javascript" src="/scripts/gsearch.js"></script>
-
 <form action="/search.asp" id="cse-search-box" onsubmit="return validate_string(this);">
-  <div>
-<label>
-    <input type="text" name="as_q" value="search" onfocus="clearText(this)" size="15" id="search-box-text" class="search-box-only">
-    <input type="hidden" name="cx" value="002558577086994206264:yn0977hcnss">
-    <input type="hidden" name="cof" value="FORID:11">
-    <input type="hidden" name="ie" value="UTF-8">
-    <input type="hidden" name="site" id="site">
-    <input type="hidden" name="host" id="host">
-    <input type="hidden" name="as_sitesearch" id="as_sitesearch">
-    <input type="image" src="/images/global/huskin/go.gif" class="go-button" name="sa" alt="Go" border="0">  
-    
-
-</label>
-  </div>
+	<div id="search-box-form">
+		<input type="text" name="as_q" value="search" onfocus="clearText(this)" size="15" id="search-box-text" class="search-box-only">
+		<input type="hidden" name="site" id="site">
+		<input type="hidden" name="host" id="host">
+		<input type="hidden" name="as_sitesearch" id="as_sitesearch">
+		<input type="image" src="/images/global/huskin/go.gif" class="go-button" name="sa" alt="Go" border="0">  
+	</div>
 </form>
-
 <script type="text/javascript">
-
-setSearchHost("www.dow.com");
-
+	setSearchHost("www.dow.com");
 </script>
-
 		</div>
 		<div class="clearfloats"></div>
 	</div>
 <!--[CDATA[  ]]-->
+<p></p>
 <div class="main-nav">
 <ul>
 <li class="main-nav-hnav-table-unselected"><a href="/products_services/">PRODUCTS AND SERVICES<span class="externalLink">&nbsp;</span></a></li>
@@ -92,22 +82,22 @@ setSearchHost("www.dow.com");
 
 <ul>
 <li class="first">
-<a href="/assistance/index.htm" class="navigation-alias">Help<span class="externalLink">&nbsp;</span></a>
+<a href="http://www.dow.com/assistance/index.htm" class="navigation-alias">Help</a>
 </li>
 <li>
-<a href="/homepage/privacy.htm">Privacy Statement<span class="externalLink">&nbsp;</span></a>
+<a href="http://www.dow.com/homepage/privacy.asp">Privacy Statement</a>
 </li>
 <li>
-<a href="/homepage/disclosure.htm">Terms of Use<span class="externalLink">&nbsp;</span></a>
+<a href="http://www.dow.com/homepage/term.asp">Terms of Use</a>
 </li>
 <li>
-<a href="/homepage/accessibility.htm">Accessibility Statement<span class="externalLink">&nbsp;</span></a>
+<a href="http://www.dow.com/homepage/accessiblity.asp">Accessibility Statement</a>
 </li>
 <li>
 <a href="/search.asp" class="navigation-alias">Search<span class="externalLink">&nbsp;</span></a>
 </li>
 <li>
-<a href="/homepage/sitemap.htm">Site Map<span class="externalLink">&nbsp;</span></a>
+<a href="http://www.dow.com/homepage/sitemap.htm">Site Map</a>
 </li>
 </ul>
 
@@ -128,132 +118,186 @@ setSearchHost("www.dow.com");
 
 </div>
 <div class="secondary-nav">
-<script>
-  var thisHost = location.hostname;
-  var thisPage = location.pathname;
-
-  // First remove the host name.
-  var re = new RegExp('.*' + thisHost);
-  thisPage = thisPage.replace(re,'');
-
-  // Then remove TeamSite-specific path components.
-  re = new RegExp('.*(/STAGING|/WORKAREA/[^/]+)');
-  thisPage = thisPage.replace(re,'');
-
-  // Remove trailing "index.htm", if any.
-  re = new RegExp('/(index.html?)?$');
-  thisPage = thisPage.replace(re,'');
-  
-  var navCell = document.getElementById('content-row-navigation');
-  var links = navCell.getElementsByTagName('a');
-  var currentPageLink;
-	if (thisPage != '')
-		{
-		for (var i = 0; i < links.length; i++)
-			{
-			re = new RegExp(thisPage + '(/(index.html?)?)?$');
-			if (links[i].href.match(re) && !hasClass(links[i], 'navigation-alias'))
-				{
-				currentPageLink = links[i];
-				}
-			}
-		}
-  
-  // Highlight the current page.
-  addClass(currentPageLink, 'current-page');
-  
-  // Collapse all ULs.
-  var uls = navCell.getElementsByTagName('ul');
-  for (var i = 0; i < uls.length; i++) {
-    addClass(uls[i], 'navigation-collapsed');
-  }
-
-	if (currentPageLink)
-	  	{
-		// Expand relevant navigation tree sections.
-		var currentNode = currentPageLink;
-		while (currentNode)
-			{
-			if (currentNode.nodeName.toUpperCase() == 'UL')
-				{
-				removeClass(currentNode, 'navigation-collapsed');
-				}
-			currentNode = currentNode.parentNode;
-			}
-		var siblingNodes = currentPageLink.parentNode.childNodes;
-		for (var i = 0; i < siblingNodes.length; i++)
-			{
-			var showCurrentLink = 'n';
-			if (siblingNodes[i].nodeName.toUpperCase() == 'UL')
-				{
-				var babyNodes = siblingNodes[i].childNodes;
-				for (var g = 0; g < babyNodes.length; g++)
-					{
-					if (babyNodes[g].nodeName.toUpperCase() == 'LI')
-						{
-						if (babyNodes[g].className != 'breadcrumb-only')
-							{
-							showCurrentLink = 'y'
-							}
-						}
-					}
-				if (showCurrentLink == 'y')
-					{
-					removeClass(siblingNodes[i], 'navigation-collapsed');
-					}
-				}
-			}
-		}
-
-/**
-* Determine if a DOM element has a given class.
-*/
-
-function hasClass(element, value) {
-   if (!element || !element.className) {
-      return false;
-   }
-   else {
-      var classes = element.className.split(' ');
-      for (var i = 0; i < classes.length; i++) {
-         if (classes[i] == value) {
-            return true;
-         }
-      }
-   }
-   return false;
-}
-
-</script>
+	<script type="text/javascript" src="/scripts/hnav.js"></script>
 </div>
 <div class="alternate_nav" id="alternate_nav"></div>
 </div>
 <div class="right-column">
 <div class="right-column-title">
-<h2 class="right-column-title-color-this_is_dow"><a href="/homepage/index.htm">Dow.com<span class="externalLink">&nbsp;</span></a></h2>
+<h2 class="right-column-title-color-this_is_dow"><a href="/homepage/index.htm">
+Dow.com<span class="externalLink">&nbsp;</span></a></h2>
 </div>
 <div class="right-column-intro">
-<h3>Privacy Statement</h3></div>
+</div>
 <div class="right-column-body">
 <div class="right-column-body-text" id="right-column-body-text">
-<p>We  collect personal information from our visitors on a voluntary basis. Personal  information may include name, title, company, address, phone number, email  address, and other relevant data. Questions or comments submitted by visitors  may also include personal information. We do not require personal information  to obtain access to most of our site. We do, however, require it to download  product information, order products and take advantage of certain other  features of our site.</p>
-<p>We  use the information that visitors provide for such purposes as processing and  responding to requests, improving our operations, and communicating with  visitors about our products, services and businesses. Subsidiaries and external  service providers participate in some of these activities, but we do not sell  or rent personal information to unrelated businesses for direct marketing  purposes. Also, as our business evolves we may transfer or acquire businesses  and related assets, and we may transfer information about customers and site visitors  in connection with such transactions.</p>
-<p>If  you have any questions, please write us at:</p>
-<p>Dow  Chemical Customer Information Group<br>
-  Dow Ashman Center<br>
-  4520 Ashman Street<br>
-  P. O. Box 1206<br>
-  Midland, MI 48642<br>
-  U.S.A.</p>
-<p>Please  provide your full name and phone number in case we have questions.</p>
-<p>Dow uses “cookies” on this website to  automatically collect non-personally-identifiable information such as the  domain name of the site providing the visitor with Internet access, but not the  visitor's user name. Other examples of information collected by our server  include the Internet protocols used to connect the visitor's computer to the  Internet, the visitor's browser type and version, operating system and  platform, the average time spent on our site, pages viewed, information  searched for, access times and other relevant statistics. We use this  information in the aggregate to measure the use of our site, to administer and  improve our site.</p>
-<p>Dow use both  our own (first party) and partner companies’ (third party) cookies to support  these activities. First party cookies are owned &amp; created by the website  you’re viewing. Third party cookies are owned &amp; created by an independent  company, usually a company providing a service to the website owners. Examples  of usages for third party cookies are web analysis and search queries.</p>
-<p>Dow does not use cookies to track people’s Internet usage after leaving our  sites and we don’t store personal information in them others could read and  understand. Dow will not sell or distribute cookie information.</p>
-<p>To  the extent required or permitted by law, we may also collect, use and disclose  personal information in connection with security related or law enforcement  investigations or in the course of cooperating with authorities or complying  with legal requirements.</p>
-<p>We  take commercially reasonable precautions to keep all information obtained from  our online visitors secure against unauthorized access and use and we  periodically review our security measures.</p>
-<p>Our  site contains links to other web sites. These sites are not covered by this  privacy statement, and we are not responsible for the privacy practices or the  content of these other sites.</p>
-<p>We  reserve the right to modify this privacy statement and related business  practices at any time by posting updated text on this site.</p>
-<p>LAST UPDATED: September 29, 2008</p></div>
+
+<h3>Privacy Statement</h3>
+<p><u>Dow Values Privacy</u></p>
+<p>Your privacy is important to us.  The Dow Chemical Company adheres to the Safe Harbor Privacy Principles issued by the United States Department of Commerce.  This Online Privacy Policy explains how The Dow Chemical Company or its affiliate that displays this policy (“Dow,” “we,” “us,” and “our”) protects your privacy when you visit this website and the websites of Dow affiliates that display this Online Privacy Policy.  This policy applies to “Personal Information”, information that identifies you personally, either alone or in combination with other information available to us.  </p>
+<p>Please take a few minutes to review this Online Privacy Policy. By accessing or using this Site, you are consenting to the collection, use and disclosure of your Personal Information as set forth in this Online Privacy Policy. Please also take a few minutes to review the 
+<a href="/webapps/common/term/index.asp">Terms of Use<span class="externalLink">&nbsp;</span></a> section of our website.  If you do not consent to the collection, use and disclosure of your personal information as set forth in this privacy policy or the Terms of Use, please exit and do not use this website. </p>
+<p>This Online Privacy Policy describes what types of information we gather and track when you use our websites, how this information is used and with whom it is shared. If you have any questions about this Online Privacy Policy, please 
+<a href="#Contact_Dow">contact us</a>.</p>
+<p>This Online Privacy Policy includes the following:</p>
+<blockquote>
+	<p><a href="#What_We_Collect">What Information We Collect </a><br>
+	<a href="#How_Dow_Uses">How We May Use and Share Your Information 
+	</a> 
+	<br><a href="#Location_Info">Location of Information
+</a>
+<br><a href="#Use_of_Special_Features">Use of Special Features or Areas of Our Website
+	</a>
+<br><a href="#Children’s_Privacy">Children’s Privacy
+</a>
+<br><a href="#Security">Security
+</a>
+<br><a href="#External_Links">External Links
+</a>
+<br><a href="#Changes_to_This_Online_Privacy">Changes to This Online Privacy Policy
+	</a>
+<br><a href="#Your_Choices">Your Choices
+</a>
+<br><a href="#Changes_to_This_Online_Privacy">Access, Update or Correct Your Personal Information
+	</a>
+<br><a href="#Contact_Dow">Contact Dow
+
+</a>
+
+</p>
+</blockquote>
+<p><u><a name="What_We_Collect">What Information We Collect</a></u></p>
+<p>If permitted by applicable law, we may collect the following information:</p>
+<blockquote>
+	<p><i>Information You Provide</i>. We collect the personal information you knowingly provide by completing an online form, registering for information or services, applying for a job, or otherwise sending to us. For example, if you sign up to receive e-mail communications from one of our businesses, we collect your e-mail address and any related information you provide. If you communicate with us using the “Contact Us” feature, we collect the information you provide when you complete the “Contact Us” form.
+	</p>
+	<p><i>Supplemental Information</i>. From time to time, we may supplement the information you give us with information from other sources, such as information validating your address, information based on your zip code or business, or information that we have based upon your relationship with Dow.  For example, if you are a Dow customer or supplier, we may supplement the information you provide online with information you provide through your business relationship with Dow. </p>
+	<p><i>Information Sent to Us by Your Web Browser</i>. We collect information that is sent to us automatically by your web browser. This information typically includes your Internet Protocol (IP) address, the identity of your internet service provider, the name and version of your operating system and browser, the date and time of your visit, the page that linked you to Dow, and the pages you visit. </p>
+	<p><i>Cookies and Other Technologies</i>. Dow may use “cookie” technology on this website.  A cookie contains information that is sent by a website and stored in your hard drive or temporary memory.  You may change your cookie settings on your internet browser or delete our cookies at any time.  We may use cookies to save your preferences for our websites or to collect statistics related to the number of visitors to our websites and requests for files, the types of browsers used, and other aggregate data.  Dow may also use transparent GIF files to help manage online advertising by collecting information related to which advertisements drive traffic to our websites. </p>
+</blockquote>
+
+<p><u><a name="How_Dow_Uses">How We May Use and Share Your Personal Information 
+</a> </u></p>
+<p>If permitted by applicable law, we may use the personal information we collect through our website:</p>
+<ul>
+	<li>to provide products, information and services you request; </li>
+	<li>to provide you with effective customer service;</li>
+	<li>to improve the content, functionality, performance and usability of our website;  </li>
+	<li>to improve our marketing and promotional efforts;   </li>
+	<li>to provide technical support and troubleshooting; and     </li>
+	<li>for security, credit or fraud prevention purposes;     </li>
+	<li>for any other purpose identified in an applicable privacy statement or other agreement you have with Dow.      </li>
+</ul>
+
+<p>If permitted by applicable law, we may share your information as described below: </p>
+<ul>
+	<li><i>Within Dow</i>. We may share your personal information within among Dow business units affiliates for the purposes set forth in this Online Privacy Policy. 
+	</li>
+	<li><i>Our Service Providers. </i>We may share your personal information with companies or organizations, including subsidiaries, affiliates, and other entities that perform services on our behalf, such as website support service providers.  </li>
+	<li> <i>Business Transactions and Transfers.</i> Dow may buy, sell, form, or otherwise reorganize one or more of its businesses or sell stock or assets, for example, as the result of a sale, merger, reorganization or liquidation. A transaction of this type may involve the disclosure of your information to prospective purchasers or partners who have signed a confidentiality agreement with Dow.  </li>
+	<li>  <i>Compliance with Laws and Protection of Our Rights and the Rights of Others.</i> 
+	We may disclose personal information when we, in good faith, believe 
+	disclosure is appropriate to comply with the law, a court order or a 
+	subpoena. We may also disclose personal information to cooperate with a 
+	government investigation; to prevent or investigate a possible crime, such 
+	as fraud or identity theft; to enforce or apply our online terms of use or 
+	other agreements; or to protect our own rights or property or the rights, 
+	property or safety of our users or others. </li>
+</ul>
+
+<p>We will not use your personal information to send product or promotional advertising unless you have agreed to receive product or promotional advertising.  Other than the purposes described above, Dow does not sell your personal information to third-parties.</p>
+<p><u><a name="Location_Info">Location of Information</a></u></p>
+<p>Dow is a global organization with its corporate headquarters in the United States. Our servers, databases, and service providers are located in the United States and in other countries.  Different countries have different privacy laws and requirements, and some, including the United States, may provide less legal protection for your personal information than others. By using this site, you are consenting to the collection, use and transfer of your personal information in or to the United States or other countries for the purposes described in this Online Privacy Policy.</p>
+<p><u><a name="Use_of_Special_Features">Use of Special Features or Areas of Our Website</a></u></p>
+<p>Some of our websites include special features, such as surveys, licensed content; or an online store; or password protected areas, such as a customers-only area or a careers area. This Online Privacy Policy may be supplemented or amended from time to time by privacy statements that are specific to and appear on individual Dow websites, including but not limited to our investor and career sites. Generally, these statements provide details about the personal information we collect or do not collect on particular pages or areas of a website, why we need that information, and choices you may have about the use of that information. </p>
+<p>When you sign up to use a special feature or password-protected area, you may be asked to agree to special terms governing your use of the special feature or password-protected area. In such cases, you will be asked to expressly consent to the special terms, for example, by checking a box or clicking on a button marked “I agree.” This type of agreement is known as a “click-through” agreement. If any of the terms of a click-through agreement or another agreement between you and Dow are different than the terms of this Online Privacy Policy, the terms of that agreement will govern over this Online Privacy Policy.   </p>
+<p><u><a name="Children’s_Privacy">Children's Privacy</a></u></p>
+<p>We do not knowingly collect information from children to sell or promote our products or services. We host educational programs in science for students and teachers in our communities, but we do not invite minors to contact us or manually provide personal information. Visitors must be 18 years of age or older to submit registration or survey information. Parents or legal guardians may register to obtain information or participate in a survey on behalf of their children. If you believe a child under the age of eighteen has sent personal contact information to Dow, please 
+<a href="#Contact_Dow">contact us</a> immediately at the address listed below and we will use reasonable efforts to promptly remove that information from our databases. </p>
+<p><u><a name="Security">Security</a></u></p>
+<p>We take commercially reasonable precautions to protect the confidentiality, integrity and security of your personal information.  We urge users to be careful with personal information while using the Internet.</p>
+<p><i>SSL Protection</i>. Some password-protected areas of our website, require that a secure connection between your computer and our server be established. We use an encryption technology called Secure Socket Layers (SSL). A secure connection is maintained until you leave the secure area of the site. Although we use SSL encryption to safeguard the confidentiality of personal information as it travels over the Internet, “perfect security” does not exist on the Internet and we can not guarantee the safety of transmitting personal information over the Internet. </p>
+<p><i>Password Protection.</i> You are responsible for maintaining the confidentiality of your passwords. We have the right to assume that anyone accessing one of our websites using a password assigned to you has the right to do so. You will be solely responsible for the activities of anyone accessing our website using a password assigned to you, even if the individual is not, in fact authorized by you. If you have reason to believe that your password has been compromised or used without authorization, you must promptly change it using the functionality provided on the site. </p>
+<p><u><a name="External_Links">External Links</a></u></p>
+<p>Some of our websites may contain links to other websites on the Internet that are not under the control of or maintained by Dow.    
+<img alt="" src="http://www.dow.com/images/global/external.gif" border="0">This icon indicates a link to an external web site that is not hosted by The Dow Chemical Company or a Dow subsidiary. Such links do not constitute an endorsement by Dow of those websites, the content displayed, or the persons or entities associated with them. By visiting a linked website from a Dow website, you acknowledge that Dow is providing these links to you only as a convenience and you agree that Dow is not responsible for the content of such websites. External sites are governed by their own terms and policies and are not governed by Dow's Online Privacy Policy, Terms of Use, Accessibility Statement, or other terms and policies.</p>
+<p><u><a name="Changes_to_This_Online_Privacy">Changes to This Online Privacy Policy</a></u> </p>
+<p>We reserve the right to modify this Online Privacy Policy and related business practices at any time by posting updated text on this site and updated effective date at the top of this page. As we add new features and functionality to our websites or Dow policies or applicable laws evolve, we may need to update or revise this Online Privacy Policy. We reserve the right to do so, at any time and without prior notice, by posting a revised version on our website. These changes will be effective as of the date we post a revised version on our website.  Your use of one of our websites following any such change constitutes your consent to the terms of the revised Online Privacy Policy.  For this reason, it is important for you to review this Online Privacy Policy regularly. </p>
+<p><u><a name="Your_Choices">Your Choices</a></u></p>
+<p>We respect your right to make choices about the ways we collect, use and disclose your personal information. In some cases, we will ask you to indicate your choices at the time we collect your personal information.  If you receive email or marketing communications, you may "opt-out" of receiving e-mail and other communications from us at any time by using the unsubscribe feature included in the e-mails we send.  If you are a customer of Dow products, we reserve the right to contact you with information regarding health and safety, applicable regulations, or stewardship of our products.</p>
+<p> <u> <a name="Personal_Information">Access, Update or Correct Your Personal Information 
+</a> </u> </p>
+<p> If you have created an account or a personal profile on one of our websites, you may be able to access and update some or all of your personal information on your account settings or profile page. If you wish to access, update or correct other personal information, please contact us.  We will contact you and may ask you for additional information to verify your identity.  In most cases, we will update information as requested. In some cases, however, we may limit or deny your request if permitted or required by law or if we are unable to verify your identity. </p>
+<p><u><a name="Contact_Dow">Contact Dow</a></u> </p>
+<p>If you have any questions about this Online Privacy Policy or our privacy practices, please contact us via phone at the numbers listed at 
+<a href="http://www.dow.com/assistance/dowcig.htm">http://www.dow.com/assistance/dowcig.htm</a>. 
+<b>You may also contact us via online form at</b> 
+<a href="http://www.dow.com/assistance/dowcig.htm">http://www.dow.com/assistance/thoughts.htm</a> or via our email address at dowcig@dow.com. 
+<b>You may also send postal correspondence to: </b>  </p>
+<table border="1" width="100%" id="table1">
+	<tbody><tr>
+		<td width="180" align="center">
+		<span style="font-size: 8.5pt; font-family: Verdana; color: #555555">In 
+		the United States</span></td>
+		<td align="center">
+		<p align="center">
+		<span style="font-size: 8.5pt; font-family: Verdana; color: #555555">Dow 
+		Chemical Customer Information Group<br>
+		Dow Ashman Center<br>
+		4520 Ashman Street<br>
+		P. O. Box 1206<br>
+		Midland, Michigan 48642<br>
+		U.S.A.</span></p></td>
+	</tr>
+	<tr>
+		<td width="180" height="58" align="center">
+		<span style="font-size: 8.5pt; font-family: Verdana; color: #555555">In 
+		Europe:</span></td>
+		<td height="58" align="center">
+		<p align="center">
+		<span style="font-size: 8.5pt; font-family: Verdana; color: #555555">Dow 
+		Customer Information Group<br>
+		Prins Boudewijnlaan 41<br>
+		B-2650 Edegem<br>
+		Belgium</span></p></td>
+	</tr>
+	<tr>
+		<td width="180" align="center">
+		<span style="font-size: 8.5pt; font-family: Verdana; color: #555555">In 
+		Asia-Pacific:</span></td>
+		<td align="center">
+		<p align="center">
+		<span style="font-size: 8.5pt; font-family: Verdana; color: #555555">Dow 
+		Chemical Malaysia Sdn Bhd <br>
+		Level 6, CP Tower, Jalan 16/11<br>
+		Pusat Dagang, Section 16<br>
+		46350 Petaling Jaya<br>
+		Selangor Darul Ehsan<br>
+		Malaysia</span></p></td>
+	</tr>
+	<tr>
+		<td width="180" align="center">
+		<span style="font-size: 8.5pt; font-family: Verdana; color: #555555">In 
+		Latin America:</span></td>
+		<td align="center">
+		<p align="center">
+		<span lang="IT" style="font-size: 8.5pt; font-family: Verdana; color: #555555">
+		Dow Quimica S.A.<br>
+		Rua Alexandre Dumas 1671<br>
+		Chacara Santo Antonio<br>
+		São Paulo<br>
+		Brazil 04717-903</span></p></td>
+	</tr>
+</tbody></table>
+<p align="left">If you have concerns that someone affiliated with Dow has used your information in a manner that is not consistent with this Online Privacy Policy; would like to seek guidance related to 
+<a href="http://www.dow.com/about/aboutdow/code_conduct/ethics_conduct.htm">Dow's Code of Business Conduct</a>; or report potential unethical business practices or other violations of our 
+Code of Business Conduct, please contact the Dow <a href="http://www.dow.com/about/aboutdow/ethics.htm">EthicsLine.</a> The Dow EthicsLine can be accessed using a toll-free help line, with multi-lingual capabilities, available 24 hours a day, 7 days a week, worldwide, or the Dow EthicsLine can be accessed using an 
+<a href="http://www.dow.com/about/aboutdow/ethics_contact.htm">online form</a> that provides the option of submitting a written report.  In addition, you always have the option of contacting the 
+<a href="http://www.dow.com/about/aboutdow/ethics.htm">Office of Ethics and Compliance</a> at 989-636-2544 or via email 
+<a href="mailto:Ethics@dow.com">Ethics@Dow.com</a>.</p>
+<p>Effective Date: January 20 2010</p>
+
+</div>
 <div class="right-column-body-right-hand" id="right-column-body-right-hand">
 </div>
 </div>
@@ -265,109 +309,58 @@ function hasClass(element, value) {
 <div class="breadcrumb-data-text" id="breadcrumb">
 <a href="/index.htm">Dow Home<span class="externalLink">&nbsp;</span></a></div>
 </div>
-<script>
-
-    // Build breadcrumb trail.
-    var breadcrumbNodes = [];
-    var currentNode = currentPageLink;
-	if (currentNode)
-		{
-		var nav_type = '';
-		var find_nav_type = currentNode.parentNode;
-		while (nav_type == '')
-			{
-			if (find_nav_type.className != '')
-				{
-				nav_type = find_nav_type.className;
-				}
-			else
-				{
-				find_nav_type = find_nav_type.parentNode;
-				}
-			}
-		if (nav_type == 'secondary-nav')
-			{
-			currentNode.innerHTML='<span class="secondary-nav-selected">' + currentNode.innerHTML + '</span>';
-			}
-		else
-			{
-			if (currentNode.parentNode.parentNode.parentNode.nodeName == 'DIV')
-				{
-				currentNode.innerHTML='<span class="primary-nav-selected">' + currentNode.innerHTML + '</span>';
-				}
-			else
-				{
-				currentNode.innerHTML='<span class="primary-nav-sub-selected">' + currentNode.innerHTML + '</span>';
-				}
-			}
-		}
-	while (currentNode)
-		{
-		if (currentNode.nodeName.toUpperCase() == 'LI')
-			{
-			var childNodes = currentNode.childNodes;
-			for (var i = 0; i < childNodes.length; i++)
-				{
-				if (childNodes[i].nodeName.toUpperCase() == 'A')
-					{
-					breadcrumbNodes.push(childNodes[i].cloneNode(true));
-					}
-				}
-			}
-		currentNode = currentNode.parentNode;
-		}
-  
-    // Append breadcrumb trail to the starting sequence.
-	var BC_Counter = 0;
-	var breadcrumbTrail = document.getElementById('breadcrumb');
-	while (breadcrumbNodes.length)
-		{
-		BC_Counter++;
-		if (breadcrumbNodes.length == 1)
-			{
-			var breadcrumbNode = breadcrumbNodes.pop();
-			if (breadcrumbNode.childNodes[0].innerHTML)
-				{
-				cur_bc_Value = breadcrumbNode.childNodes[0].innerHTML;
-				}
-			else
-				{
-				cur_bc_Value = breadcrumbNode.innerHTML;
-				}
-			breadcrumbTrail.innerHTML = breadcrumbTrail.innerHTML + ' : <span class="breadcrumb-data-text-current-page">' + cur_bc_Value + '</span>';
-			}
-		else
-			{
-			var breadcrumbNode = breadcrumbNodes.pop();
-			var breadcrumbSeparator = document.createTextNode(' : ');
-			breadcrumbTrail.appendChild(breadcrumbSeparator);
-			breadcrumbTrail.appendChild(breadcrumbNode);
-			}
-		}
-
-	writeMailRecipientBlock ();
-	
-	var iFrames = document.getElementsByTagName('iframe');
-	for (var i = 0; i < iFrames.length; i++)
-		{
-		iFrames[i].width='100%';
-		if (iFrames[i].height <= '500')
-			{
-			iFrames[i].height='100%';
-			}
-		}
-	
-</script><form name="mailRecipientForm" action="https://web.archive.org/web/20030416003419/http://www.dow.com/" method="POST"><input name="recipient" type="hidden" value=""></form>
+	<script type="text/javascript" src="/scripts/nav.js"></script>
 </div>
 
 <div class="footer">
-	<p><a href="http://www.dow.com/homepage/privacy.htm">Privacy Statement</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.dow.com/homepage/disclosure.htm">Terms of Use </a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.dow.com/homepage/accessibility.htm">Accessibility Statement</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.dow.com/homepage/sitemap.htm">Site Map</a></p>
-	<p>Copyright © The Dow Chemical Company (1995-2009). All Rights Reserved.<br>
+	<p><a href="http://www.dow.com/homepage/privacy.asp">Privacy Statement</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.dow.com/homepage/term.asp">Terms of Use </a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.dow.com/homepage/accessibility.asp">Accessibility Statement</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.dow.com/homepage/sitemap.htm">Site Map</a></p>
+	<p>Copyright © The Dow Chemical Company (1995-2010). All Rights Reserved.<br>
 	®™<sup>*</sup> Trademark of The Dow Chemical Company ("Dow") or an affiliated company of Dow</p>
 	<script src="/scripts/dow_analytics.js"></script><script src="https://web.archive.org/web/20100327074822/https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
- 
+<script type="text/javascript">
+try {
+//alert ("Before calling tracker="+ GACode);
+var pageTracker = _gat._getTracker(GACode);
 
-<script type="text/javascript" src="/scripts/vanityDomain.js"></script>
+
+function init() {
+    if (document.getElementsByTagName) {
+        // Initialize external link handlers
+        var hrefs = document.getElementsByTagName("a");
+        for (var l = 0; l < hrefs.length; l++) {
+            //protocol, host, hostname, port, pathname, search, hash
+            var path = hrefs[l].pathname + hrefs[l].search;
+            var isDoc = path.match(/(?:doc|eps|exe|jpg|pdf|png|ppt|svg|vsd|xls|zip|dwg|wmv|flv|mp3|mp4)($|\&)/);
+            if (isDoc) startListening(hrefs[l],"mousedown",trackExternalLinks);
+        }
+    }
+}
+
+function startListening (obj,evnt,func) {
+    if (obj.addEventListener) {
+        obj.addEventListener(evnt,func,false);
+    } else if (obj.attachEvent) {
+        obj.attachEvent("on" + evnt,func);
+    }
+}
+
+function trackExternalLinks (evnt) {
+    var e = (evnt.srcElement) ? evnt.srcElement : this;
+    while (e.tagName != "A") {
+        e = e.parentNode;
+    }
+    var lnk = ((e.pathname.charAt(0) == "/") && (e.pathname!= "pageTracker._trackPageview("))? e.pathname : "/" + e.pathname;
+    if (e.search && e.pathname.indexOf(e.search) == -1) lnk += e.search;
+    if (typeof(pageTracker) == "object") pageTracker._trackPageview(lnk);
+}
+    pageTracker._initData();
+    init();
+pageTracker._setDomainName("none");
+pageTracker._setAllowLinker(true);
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<script type="text/javascript" src="/webapps/common/scripts/vanityDomain.js"></script>
 <script type="text/javascript" src="/scripts/externalIcon.js"></script>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
