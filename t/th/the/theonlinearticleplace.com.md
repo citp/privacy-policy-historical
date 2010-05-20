@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theonlinearticleplace.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627145216id_/http%3A//www.theonlinearticleplace.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theonlinearticleplace.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520190225id_/http%3A//www.theonlinearticleplace.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # privacy TheOnlineArticlePlace
 
