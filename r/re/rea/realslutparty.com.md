@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realslutparty.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123200519id_/http%3A//www.realslutparty.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realslutparty.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520171024id_/http%3A//static.contentabc.com/policy_files/pp.php%3Fsite%3Drsp) for the most accurate reproduction.*
 
 # 
 
@@ -8,7 +8,7 @@ PLEASE READ THIS PRIVACY POLICY STATEMENT CAREFULLY. BY YOUR SUBSCRIPTION TO AND
 
 IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE. 
 
-The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber (“you”) and members of Manster Media Group and SoftMallorca (“our”, “we”, “us” the “site”) websites including but not limited to, MILFS Like it Big, Pornstars like it Big, Big Tits at School, Big Tits at Work, Big Boob Pass, Mommy Got Boobs, Baby Got Boobs, Racks and Blacks, Busty and Real, Jizz on my Jugs, Jug Fuckers. In addition, this Privacy Policy sets forth all relevant policies and practices for the sites. 
+The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber (?you?) and members of Manster Media Group and SoftMallorca (?our?, ?we?, ?us? the ?site?) websites including but not limited to, MILFS Like it Big, Pornstars like it Big, Big Tits at School, Big Tits at Work, Big Boob Pass, Mommy Got Boobs, Baby Got Boobs, Racks and Blacks, Busty and Real, Jizz on my Jugs, Jug Fuckers. In addition, this Privacy Policy sets forth all relevant policies and practices for the sites. 
 
 **USE**
 
@@ -24,7 +24,7 @@ If the site features or conducts any special events, special promotions or offer
 
 If a subscriber sends any personal communication or correspondence by any means, to the site, or any of its employees, agents or representatives, the site may collect the information regarding that communication and include that information in its customer database. 
 
-The site may also automatically collect traffic and click-through data as well as information regarding the online behavior of subscribers by the use of "cookies" or other programming means – any information about subscribers collected by the site through the use of cookies or other programming means will generally not be associable to the specific user in any way. 
+The site may also automatically collect traffic and click-through data as well as information regarding the online behavior of subscribers by the use of "cookies" or other programming means ? any information about subscribers collected by the site through the use of cookies or other programming means will generally not be associable to the specific user in any way. 
 
 **DISCLAIMER**
 
@@ -40,7 +40,7 @@ Whenever applicable, each subscriber should seek to read the privacy policy of a
 
 All information collected may be shared when necessary to comply with applicable law and /or to cooperate with law enforcement agencies and the courts/tribunals. 
 
-A subscriber’s IP address may be used to diagnose problems with the server and all other technical issues and to administer the websites. 
+A subscriber?s IP address may be used to diagnose problems with the server and all other technical issues and to administer the websites. 
 
 **SECURITY OF INFORMATION COLLECTED BY THE SITE**
 
@@ -52,19 +52,19 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 **FINANCIAL INFORMATION**
 
-All financial data will only be shared with the site’s third party processors in order to initiate and complete any orders placed on your account. All credit card transactions and such are processed with industry standard encryption through third party processors. Said processors only use your information for that purpose. All financial data and information shall be considered private information and will not be shared by the site with third parties except with your authorization or when necessary to carry out all and any transactions requested by the user with the understanding that such transactions may be subject to rules, terms, conditions and policies of a third party. All such information provided to a third party and all transactions are not governed by this Privacy Policy. All such information provided to a third party is subject to their terms and conditions. 
+All financial data will only be shared with the site?s third party processors in order to initiate and complete any orders placed on your account. All credit card transactions and such are processed with industry standard encryption through third party processors. Said processors only use your information for that purpose. All financial data and information shall be considered private information and will not be shared by the site with third parties except with your authorization or when necessary to carry out all and any transactions requested by the user with the understanding that such transactions may be subject to rules, terms, conditions and policies of a third party. All such information provided to a third party and all transactions are not governed by this Privacy Policy. All such information provided to a third party is subject to their terms and conditions. 
 
-Subscriber’s e-mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials. 
+Subscriber?s e-mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials. 
 
 **"OPT-IN" & "OPT-OUT" PROVISIONS**
 
-"OPT-IN" -- Some offers may be presented to the subscriber with the option to express the subscriber’s preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties. 
+"OPT-IN" -- Some offers may be presented to the subscriber with the option to express the subscriber?s preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties. 
 
 "OPT-OUT" -- Other offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider. 
 
 **CHANGES/MODIFICATIONS TO PRIVACY POLICY**
 
-This privacy policy may be changed, modified or edited at any time. It is the subscriber’s responsibility to verify the Privacy Policy intermittently to see if there has been any change. All changes to the privacy policy shall be in effect thirty days after it is posted, unless the terms of the privacy policy indicate otherwise. 
+This privacy policy may be changed, modified or edited at any time. It is the subscriber?s responsibility to verify the Privacy Policy intermittently to see if there has been any change. All changes to the privacy policy shall be in effect thirty days after it is posted, unless the terms of the privacy policy indicate otherwise. 
 
 **TERMS AND CONDITIONS OF MEMBERSHIP**
 
@@ -74,4 +74,7 @@ Each subscriber should carefully read each of the terms and conditions of member
 
 The website is owned and operated by Manster Media Group Inc. and Softmallorca. 
 
-**International Payment Processing:**
+**International Payment Processing:**   
+
+
+[RealSlutParty.com](http://www.realslutparty.com/default/ "RealSlutParty.com")
