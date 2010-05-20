@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moreintelligentlife.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231025937id_/http%3A//www.economist.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moreintelligentlife.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520042636id_/http%3A//www.economist.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Economist.com
 
@@ -82,20 +82,18 @@ Books, diaries and more](http://www.economistshop.com/asp/default.asp?promotion_
 
 [Intelligent Life](https://web.archive.org/intelligentlife)
 
-[CFO](http://www.cfo.com/)
-
 [Roll Call](http://www.rollcall.com/)
 
 [European Voice](http://www.european-voice.com/)
 
-[Economist Diaries and Business Gifts](http://www.economistshop.com/)  
+[Economist Diaries and Business Gifts](http://www.economistshop.com/asp/default.asp?promotion_code=EW01)  
 
 
 |  |   
 ---|---|---|---|---  
   
 [](https://web.archive.org/help/DisplayHelp.cfm?folder=663377#About_The_Economist)  
-|  |  [Economist.com](https://web.archive.org/help/DisplayHelp.cfm?folder=663377#About_Economistcom)   
+|  |  [_The Economist_ online](https://web.archive.org/help/DisplayHelp.cfm?folder=663377#About_Economistcom)   
 [The Economist](https://web.archive.org/help/DisplayHelp.cfm?folder=663377#About_The_Economist)   
 [Contact us](https://web.archive.org/help/DisplayHelp.cfm?folder=663392)   
 [Media Directory](https://web.archive.org/mediadirectory)   
@@ -122,10 +120,9 @@ The "Economist Group" comprises The Economist Newspaper Limited and its subsidia
 
   * _The Economist_
   * Other Economist branded businesses, such as Economist Intelligence Unit, Economist Conferences and Economist Corporate Network
-  * CFO
   * European Voice
   * EuroFinance Conferences
-  * Roll Call Group (Roll Call, GalleryWatch, congressNow and Briefing Room)
+  * CQ-Roll Call Group (including Briefing Room, Capitol Advantage, Congressional Quarterly, congressNow, Congress.org, GalleryWatch, Knowlegis and Roll Call)
 
   
 A "customer" (or "you") is anyone ordering, registering for or making use of any product, service or website of any Economist Group business.
@@ -216,7 +213,7 @@ In accordance with the UK Data Protection Act 1998, the following companies are 
 Data controller: The Economist Newspaper Limited   
 Registered Office: 25 St James's Street, London SW1A 1HG, UK  
 ICO Registered Number: Z7134617 Data Protection Registration Number: 236383  
-Other names: CFO Europe, The World In, The Economist, European Voice, _The Economist_ online, Intelligent Life
+Other names: The World In, The Economist, European Voice, _The Economist_ online, Intelligent Life
 
 Data controller:The Economist Intelligence Unit Limited  
 Registered Office: 25 St James's Street, London SW1A 1HG, UK  
