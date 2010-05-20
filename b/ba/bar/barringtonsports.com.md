@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barringtonsports.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116123707id_/http%3A//www.barringtonsports.com/help/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barringtonsports.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520072000id_/http%3A//www.barringtonsports.com/help/privacy_notice) for the most accurate reproduction.*
 
-# Privacy Notice - Help - Barrington Sports
+# Privacy Notice: Help Topics & FAQs | Barrington Sports
 
 Barrington Sports knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes the privacy policy of Barrington Sports. **By visiting Barrington Sports, you are accepting and consenting to the practices described in this Privacy Notice.**
 
