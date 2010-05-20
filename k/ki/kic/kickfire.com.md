@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kickfire.com privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911181112id_/http%3A//www.kickfire.com/content/view/11/16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickfire.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520125206id_/http%3A//www.kickfire.com/legal/privacy-statement) for the most accurate reproduction.*
 
-# Kickfire - Privacy Statement
+# Privacy Statement - Kickfire
 
 **Privacy and Security Statement**
 
@@ -61,4 +61,4 @@ A Site Partner will not have access to your credit card or automatic deduction a
 We reserve the right to modify or amend this Privacy Statement at any time and for any reason. If we elect to use your Personally Identifiable Information in a manner materially different from that stated at the time of collection, we will notify you via e-mail or other available means and provide you with the ability to "opt-out" of such use. In addition, if we make any material changes in our privacy practices, we will post a prominent notice on the Site notifying users of the change, even if it does not affect Personally Identifiable Information already stored in our database. In some cases, when we post such a notice we may also e-mail certain users to notify them of the changes in our privacy practices. 
 
 **Contacting Us**  
-If you need help using the Site or have a question regarding the Terms, this Privacy Statement or the products or services offered by any of our service providers, [please click here.](http://www.kickfire.com/content/view/10/13/)
+If you need help using the Site or have a question regarding the Terms, this Privacy Statement or the products or services offered by any of our service providers, [please click here.](http://www.kickfire.com/beyenetwork-research-report)
