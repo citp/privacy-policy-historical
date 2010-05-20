@@ -1,38 +1,18 @@
-> *The following text is extracted and transformed from the paperlesspost.com privacy policy that was archived on 2009-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090802145352id_/http%3A//www.paperlesspost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperlesspost.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520160525id_/http%3A//www.paperlesspost.com/info/terms/privacy) for the most accurate reproduction.*
 
-# Paperless Post - Privacy Policy
+# Paperless Post - Privacy Policy - Privacy Policy
 
-**This Privacy Policy is effective as of April 19, 2009, and has been updated as of May 18, 2009.**
-
-  * [Our Policy](https://web.archive.org/privacy#OurPolicy)
-  * [Information We Collect](https://web.archive.org/privacy#InformationWeCollect)
-  * [Our Use of Your Personal Data and Other Information](https://web.archive.org/privacy#OurUseofYourPersonalDataandOtherInformation)
-  * [Our Disclosure of Your Personal Data and Other Information](https://web.archive.org/privacy#OurDisclosureofYourPersonalDataandOtherInformation)
-  * [Your Choices](https://web.archive.org/privacy#YourChoices)
-  * [Exclusions](https://web.archive.org/privacy#Exclusions)
-  * [Children](https://web.archive.org/privacy#Children)
-  * [Links To Other Web Sites](https://web.archive.org/privacy#LinksToOtherWebSites)
-  * [Security](https://web.archive.org/privacy#Security)
-  * [Other Terms and Conditions](https://web.archive.org/privacy#OtherTermsandConditions)
-  * [Changes to Paperless Post's Privacy Policy](https://web.archive.org/privacy#ChangestoPaperlessPostsPrivacyPolicy)
-  * [Access to Information; Contacting Paperless Post](https://web.archive.org/privacy#AccesstoInformationContactingPaperlessPost)
-
-  
-
-
-## Our Policy:
+**This Privacy Policy is effective as of April 19, 2009, and has been updated as of March 16, 2010.**
 
 * * *
 
-Welcome to the web site (the " **Site** ") of Paperless Post. (" **Paperless Post** ", "we", "us" and/or "our"). This Site is operated by Paperless Inc. and has been created to provide information about our organization and to provide online event invitation and social stationery services (the " **Paperless Post Services** ") to our Site visitors ("you" or "your"). This Privacy Policy sets forth Paperless Post's policy with respect to information including personally identifiable data, such as your name, email address, postal address, phone number and credit card information (collectively, " **Personal Data** "), and other information that is collected from Site visitors. 
-
-## Information We Collect:
+Welcome to the web site (the “Site”) of Paperless Post. (“Paperless Post”, “we”, “us” and/or “our”). This Site is operated by Paperless Inc. and has been created to provide information about our organization and to provide online event invitation and social stationery services (the “Paperless Post Services”) to our Site visitors (“you” or “your”). This Privacy Policy sets forth Paperless Post’s policy with respect to information including personally identifiable data, such as your name, email address, postal address, phone number and credit card information (collectively, “Personal Data”), and other information that is collected from Site visitors. 
 
 * * *
 
 When you interact with us through the Site, we may collect and store Personal Data and other information from you, as further described below: 
 
-**Personal Data That You Provide Through the Site:** We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access to the Paperless Post Services or use certain Paperless Post Services, such as sending or responding to an invitation to a personal or ticketed event. Wherever Paperless Post collects Personal Data we make an effort to provide a link to this Privacy Policy.   
+**Personal Data That You Provide Through the Site:** We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access to the Paperless Post Services or use certain Paperless Post Services, such as sending or responding to Paperless Post correspondence, including event invitations, save-the-dates, cards, personalized stationery and announcements (collectively "Stationery"). Wherever Paperless Post collects Personal Data we make an effort to provide a link to this Privacy Policy.   
 **By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. This Privacy Policy is intended to cover collection of information on the Site from residents of the United States. If you provide Personal Data to this Site, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Paperless Post and the authorized third parties referred to herein located in the United States.**
 
 ##### Other Information:
@@ -41,7 +21,7 @@ When you interact with us through the Site, we may collect and store Personal Da
 We may also collect and store demographic or other data, such as age, gender, zip code or similar information, from you when you voluntarily provide such information. We may also receive information about you from other sources, online or offline, and add it to the information you provided to us. 
 
 **Data about Others:**   
-We may also collect and store personal information about other people that you provide to us through your use of the Paperless Post Services. We use guests' contact information to allow them to respond to and comment on your Paperless Post invitation or correspondence. At your request, we may send reminders to guests and display their names to other guests of the same event. Other than as described in this Privacy Policy, we will not intentionally sell or otherwise disclose guest contact information that you submit to any third party. You may also delete your name from a particular event's guest list by contacting the event host via the Service or emailing help@paperlesspost.com requesting to be removed on the invitation page. 
+We may also collect and store personal information about other people that you provide to us through your use of the Paperless Post Services. We use guests' contact information to allow them to respond to and comment on your Paperless Post Stationery or other correspondence. At your request, we may send reminders to guests and display their names to other guests of the same event. Other than as described in this Privacy Policy, we will not intentionally sell or otherwise disclose guest contact information that you submit to any third party. You may also delete your name from a particular event's guest list by contacting the event host via the Service or emailing help@paperlesspost.com requesting to be removed on the invitation page. 
 
 **Non-Identifiable Data:**   
 When you interact with Paperless Post through the Site, we receive and store certain personally non-identifiable information. Such information is collected passively using various technologies such as web beacons and may be used to track usage of the Site, determine whether messages have been opened or acted upon or customize Paperless Post Services. Unless you have registered for the Site, the information we gather through the use of tracking technologies will not be matched with any Personal Data. Paperless Post may store such information itself or such information may be included in databases owned and maintained by Paperless Post affiliates, agents or service providers. The Site may use and share such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors' Internet service providers. It is important to note that no Personal Data is available or used in this process of collecting non-personally identifiable information. 
@@ -51,14 +31,10 @@ In operating the Site, we may use standard technologies, including "cookies." A 
 **Aggregated Personal Data:**   
 In an ongoing effort to better understand and serve the users of the Paperless Post Services, Paperless Post often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and Paperless Post may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. Paperless Post may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes. 
 
-## Our Use of Your Personal Data and Other Information:
-
 * * *
 
 Paperless Post uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Paperless Post Services, we will use your Personal Data to provide you with access to such services, to monitor your use of such services and to contact you regarding your use of such services. In addition, Paperless Post or its authorized service provider may use financial information or payment method to process payment for any purchases made on the Site, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business. Paperless Post and its subsidiaries and affiliates (the "Paperless Post Related Companies") may also use your Personal Data and other personally non-identifiable information collected through the Site to help us improve the content and functionality of the Site, to better understand our users and to improve the Paperless Post Services. Paperless Post and its affiliates may use this information to contact you in the future to tell you about services we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to "opt-out" of receiving future communications. In addition, if at any time you wish not to receive any future communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.   
 If Paperless Post intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected. 
-
-## Our Disclosure of Your Personal Data and Other Information:
 
 * * *
 
@@ -79,49 +55,33 @@ Paperless Post, like many businesses, sometimes hires other companies to perform
 **Legal Requirements:**   
 Paperless Post may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation or a government request, (ii) verify compliance with or enforce our Terms of Service or protect and defend the rights or property of Paperless Post, users of the Site or others (iii) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (iv) protect against legal liability. 
 
-## Your Choices:
-
 * * *
 
-You can use the Site without providing any Personal Data when you receive correspondence or event invitations. If you choose not to provide any Personal Data, you will not be able to use certain Paperless Post Services, such as sending correspondence or event invitations. 
-
-## Exclusions:
+You can use the Site without providing any Personal Data when you receive Stationery or other correspondence. If you choose not to provide any Personal Data, you will not be able to use certain Paperless Post Services, such as sending Stationery or other correspondence. 
 
 * * *
 
 This Privacy Policy does not apply to any Personal Data collected by Paperless Post other than Personal Data collected through the Site. This Privacy Policy shall not apply to any unsolicited information you provide to Paperless Post through this Site or through any other means. This includes, but is not limited to, information posted to any public areas of the Site (collectively, "Public Areas"), any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, "Unsolicited Information"). All Unsolicited Information shall be deemed to be non-confidential and Paperless Post shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution. 
 
-## Children:
-
 * * *
 
 Paperless Post does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Site. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on this Site without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Paperless Post through this Site, please contact us, and we will endeavor to delete that information from our databases. 
-
-## Links to Other Web Sites:
 
 * * *
 
 This Privacy Policy applies only to the Site. This Site may contain links to other web sites not operated or controlled by Paperless Post (the "Third Party Sites"). The policies and procedures we described here do not apply to the Third Party Sites. The links from this Site do not imply that Paperless Post endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies. 
 
-## Security:
-
 * * *
 
 Paperless Post takes reasonable steps (including physical, electronic and procedural measures) to protect the Personal Data provided via the Site from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or e-mail transmission or electronic storage of information is ever fully secure or error free. In particular, information sent to or from this Site via email may not be secure. Therefore, you should take special care in deciding what information you send via the Site or the Paperless Post Services. Please keep this in mind when disclosing any Personal Data to Paperless Post via the Internet. 
 
-## Other Terms and Conditions:
-
 * * *
 
-Your access to and use of this Site is subject to the **Terms of Service**. 
-
-## Changes to Paperless Post's Privacy Policy:
+Your access to and use of this Site is subject to the Terms of Service. 
 
 * * *
 
 The Site and our business may change from time to time. As a result, at times it may be necessary for Paperless Post to make changes to this Privacy Policy. Paperless Post reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Site after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy. 
-
-## Access to Information; Contacting Paperless Post:
 
 * * *
 
@@ -130,7 +90,8 @@ Please also feel free to contact us if you have any questions about Paperless Po
 
 **You may contact us as follows:**   
 Paperless Inc.   
-120 Fifth Avenue   
-New York, NY 10011   
+151 West 25th Street   
+New York, NY 10001   
+4th Floor   
 212-242-1234   
 help@paperlesspost.com 
