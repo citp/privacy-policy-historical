@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229155946id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520040926id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Classifieds Directory Australia | Business Directory Listings Australia
 
@@ -106,46 +106,46 @@ We regularly monitor the quality and accuracy of Personal Information that we ma
   
 | 
 
-[**Swing Dancing**](http://www.aussiepages.com.au/Swing-Dancing.html)  
-Swing dance group. Swing dancing was born out of the Big Band Jazz tradition in 1930s and 40's. It is a relaxed, fun and energetic dance style. Also known as Lindy-hop and the Jitterbug.  
+[**Mind Over Muscle**](http://www.aussiepages.com.au/Mind-Over-Muscle.html)  
+Health & Wellbeing Clinic - remedial massage, physiotherapy, naturopathy, yoga and clinical pilates. AAMT member & APA registered. hicaps available for health insurance claims. Bookings are es  
   
   
 ---  
   
-[**Boutique Bikini's**](http://www.aussiepages.com.au/Boutique-Bikinis.html)  
-True limited edition designer bikini's. Made in Australia and Brazil. Italian fabric. Very limited designs means you can be sure you won't see anyone else wearing the same bikini.  
+[**Travel Socks**](http://www.aussiepages.com.au/Travel-Socks.html)  
   
   
-[**MTB Carpentry and Construction**](http://www.aussiepages.com.au/MTB-Carpentry-and-Construction.html)  
-FREE QUOTES. Quality Work and a friendly helpful service. The best Carpenter on the Gold Coast  
+  
+[**XSCAPE**](http://www.aussiepages.com.au/XSCAPE.html)  
+XSCAPE are qualified landscapers who have over 15 years experience in the landscaping industry.  They can design and build a stylish, sustainable garden to suit your personality, taste and budget.  
   
   
-[**Great Barrier Reef Hotels**](http://www.aussiepages.com.au/Great-Barrier-Reef-Hotels.html)  
-The Great Barrier Reef Hotels in Australia, features terrific island together with many snorkeling and diving tours.  
+[**Shadow Systems**](http://www.aussiepages.com.au/Shadow-Systems.html)  
+Our website design services range from small business to large database driven, e-commerce websites. If you would like a FREE Quotation for website design please contact blacker@ shadowsystems.com.au  
   
   
-[**MyOzSite**](http://www.aussiepages.com.au/MyOzSite.html)  
-Website development, management and site rental.  
+[**GSRoasting**](http://www.aussiepages.com.au/GSRoasting.html)  
+At GSRoasting Roasting we don't just develop a green coffee beans; we maintain its integrity. It is our commitment and obsession with creating the perfect cup of coffee for you and your clientèl  
   
   
-[**DoggieMart**](http://www.aussiepages.com.au/DoggieMart.html)  
-Australian, American and UK dog products from DoggieMart including health, toys and clothes.  
+[**ChemDry Primo Carpet Cleaning**](http://www.aussiepages.com.au/ChemDry-Primo-Carpet-Cleaning.html)  
+Carpet & Rug Cleaning, Specialized stain removal. Pet urine removal treatment.  
   
   
-[**Childish Portrait Photography Studio with Photographer Kylie Biltris**](http://www.aussiepages.com.au/Childish-Portrait-Photography-Studio-with-Photographer-Kylie-Biltris.html)  
-Specializing in black and white photography of children and young families. Photographer Kylie Biltris' aim is to capture portraits that preserve the true personality and essence of your little   
+[**Embroidery Design**](http://www.aussiepages.com.au/Embroidery-Design.html)  
+OZ Digitizing,specializes in creative solutions that has a successful track record in delivering artwork services to the ad specialty industry,artwork on all kind of fabrics,embroidery digitizing,embr  
   
   
-[**FITXCHANGE**](http://www.aussiepages.com.au/FITXCHANGE.html)  
-FITXCHANGE provides creative, fun, functional, intense outdoor style training sessions to suit your goals whilst enjoying scenery and fresh air.  
+[**Birthed Creative Studio**](http://www.aussiepages.com.au/Birthed-Creative-Studio.html)  
+Custom Graphic Design, Logo Design, Web Design, Print Design, Merchandise, Printing, Laughs, Coffee. Check us out... We're all talented, one of us is single.  
   
   
-[**Tennis Coaching**](http://www.aussiepages.com.au/Tennis-Coaching.html)  
-Direct Tennis has been offering quality programs in Melbourne for the past 22 years. Currently we have extensive programs at Carrum Downs Tennis Club as well as numerous school based programs.  
+[**outdoor fitness**](http://www.aussiepages.com.au/outdoor-fitness.html)  
+Outdoor Energy incorporates outdoor fitness  
   
   
-[**ebrandity Online Marketing Specialists**](http://www.aussiepages.com.au/ebrandity-Online-Marketing-Specialists.html)  
-eBrandity provides electronic brand identity marketing solutions to clients across all business sectors from SMEs to large corporations.  
+[**Ultra Cheap Auto Discount Car Parts For You!!**](http://www.aussiepages.com.au/Ultra-Cheap-Auto-Discount-Car-Parts-For-You--.html)  
+Auto 4wd Parts. Top Gun Lead Kits. Dayco Timing Belt Kits. 4WD Disc Brake Pads. Valve Regrind Gasket Sets. VRS Gaskets. KYB Shock Absorbers. CV Shafts & CV Joints. Cylinder Heads.  
   
   
    
