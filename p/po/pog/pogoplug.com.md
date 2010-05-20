@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pogoplug.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230200540id_/http%3A//www.pogoplug.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pogoplug.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520062154id_/http%3A//www.pogoplug.com/privacy.html) for the most accurate reproduction.*
 
 # Pogoplug - Privacy
 
@@ -78,4 +78,4 @@ California Civil Code Section 1798.83 permits customers who are California resid
 
 ### CONTACTING US
 
-If you have any questions or comments about this Policy, the privacy practices of the Product and Service, or your dealings with Cloud Engines, please contact us at: legal@cloudengines.com 
+If you have any questions or comments about this Policy, the privacy practices of the Product and Service, or your dealings with Cloud Engines, please contact us at: legal@cloudengines.com � 2009 CloudEngines � [About](https://web.archive.org/web/20100520062154id_/http%3A//www.pogoplug.com/about.html) � [Privacy](https://web.archive.org/web/20100520062154id_/http%3A//www.pogoplug.com/privacy.html) � [Terms & Conditions](https://web.archive.org/web/20100520062154id_/http%3A//www.pogoplug.com/terms/) � [Warranty & Returns](https://web.archive.org/web/20100520062154id_/http%3A//www.pogoplug.com/warranty.html) 
